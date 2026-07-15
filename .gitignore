@@ -1,0 +1,33 @@
+# Estado local do Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# Lixeira e temporários
+.trash/
+*.tmp
+*.temp
+*.bak
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Configurações locais e segredos
+.env
+.env.*
+!.env.example
+.obsidian/
+.trash/
+*.tmp
+*.temp
+*.bak
+*.log
+.DS_Store
+Thumbs.db
+Desktop.ini
+.env
+.env.*
+!.env.example
