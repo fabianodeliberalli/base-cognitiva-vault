@@ -1,0 +1,1 @@
+Consciência, substância e força/energia.

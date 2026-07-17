@@ -1,0 +1,35 @@
+Erik Erikson – Os 8 estágios do desenvolvimento pessoal  
+   
+
+![Exported image](Exported%20image%2020260717195722-0.png)
+
+Erik Erikson era um psicanalista americano conhecido por sua teoria geralmente aceita do desenvolvimento da personalidade .  
+Cada pessoa experimenta tempos de crises na vida e estamos acostumados a quase negligenciá-los como algo negativo. Segundo Erik Erikson, as crises não são apenas inevitáveis, mas até mesmo um processo natural e necessário, a base de toda mudança e progresso. Ele define crises como situações desafiadoras que nos permitem nos superar e aprender mais sobre nós mesmos. Segundo ele, nosso curso de vida consiste em oito etapas ou ciclos, cada um caracterizado por um conflito específico.  
+Erikson estava convencido de que as pessoas continuam a mudar suas vidas e sempre continuam ganhando novas experiências e conhecimentos . Se não fosse esse o caso, então, quase sem exceção, ficaríamos presos em um certo estágio (inicial) de nosso desenvolvimento. Algumas pessoas, no entanto, se recusam a se tornar adultos, enquanto outras são forçadas a se cuidar em uma idade jovem. Isso está intimamente relacionado ao ambiente em que você cresce.  
+Estágios de desenvolvimento de Erikson  
+**Os oito estágios do desenvolvimento humano, segundo Erik Erikson, são os seguintes:**  
+**1. Confiança Basal vs. desconfiança básica (0-1 anos)**  
+Recém-nascidos desenvolvem a partir do primeiro dia relações de dependência, sobretudo com sua mãe. Atende a todas as necessidades do bebê. Graças a esse cuidado íntimo, a criança descobre e experimenta que pode confiar plenamente em seus pais, desde que cumpram consistentemente essas necessidades básicas.  
+À medida que os sentidos do bebê se desenvolvem, ele ou ela é cada vez mais capaz de reconhecer seu ambiente imediato. Então eles cuidadosamente começam a explorar, com a primeira vitória de não sentir mais medo e ansiedade quando a mãe está (por um momento) fora de vista ou não por perto. Se as crianças pequenas não se confrontarem e ultrapassarem a sua ansiedade (instintiva) de separação, sofrerão mais tarde com cepticismo e desconfiança crónicos.  
+**2. Autonomia vs. vergonha (1-3 anos)**  
+Durante este estágio, a criança aprende a se mover de forma independente. Chorar e se recusar a engatinhar ou andar são então usados ​​para conseguir o que querem. Se o ambiente (social) não satisfaz plenamente o que as crianças precisam, elas começam a duvidar de si mesmas e dificilmente ousarão tomar iniciativas.  
+A vergonha é expressa neste estágio como não querer ser vista, o rosto se escondendo, as birras, o choro e o comportamento similar que testemunham a sobrecarga emocional. O controle parental deve ser determinado nesses momentos e, ao mesmo tempo, acalmar a criança para que ela desenvolva autonomia ideal.  
+**3. Iniciativa vs. dívida (3-6 anos)**  
+Se algo é característico deste período, é o desejo de tomar a iniciativa. Totalmente em jogo, em que eles podem descobrir todos os tipos de papéis e deixá-los viver livremente. A criança aprende a conhecer e moldar sua própria identidade e potencial . Você imagina quem e o que você quer se tornar depois, que está tomando iniciativa nessa idade.  
+A rivalidade e o ciúme também podem surgir nesse estágio. A criança sempre quer ser o centro das atenções e revolta assim que a mãe dá atenção a outra pessoa. Se eles não receberem esse tratamento privilegiado, eles se sentirão culpados e preocupados.  
+**4. Causa vs. inferioridade (6 anos até a adolescência)**  
+As crianças vão para a escola nessa fase. E se elas se sentirem à vontade ou insatisfeitas, receberão reconhecimento pelos esforços mostrados aqui . Elas estão em condições de adquirir novas habilidades e conhecimentos. Em resumo: tornar-se produtivo.  
+Nossa cultura tornou-se altamente especializada, tornando a sociedade como um todo mais complexa e a iniciativa individual mais complicada. O risco inerente a essa etapa é que, na falta de confirmação, as crianças podem começar a acreditar que estão falhando e, assim, desenvolver sentimentos de inferioridade .  
+**5. Identidade vs. confusão de papéis (puberdade)**  
+Durante este período de surto de crescimento de mudanças biológicas (e hormonais), os adolescentes começam a duvidar de tudo o que confiavam anteriormente. Isso significa, para todos os conhecimentos, habilidades e experiências que eles ganharam até aquele ponto. Com a consequência mais radical: uma crise aguda de personalidade.  
+Os adolescentes estão muitas vezes em apuros com sua própria auto-imagem e lutam violentamente com a tensão de sua identidade mutável: quem eu era e quem eu quero ser (ou não mais). Isso cria confusão interna. Os adolescentes são, portanto, enormemente suscetíveis a todos os tipos de impressões e geralmente tendem ao idealismo explícito. Se eles processam este tempo turbulento no caminho certo, isso leva a um caráter sólido e individualidade equilibrada . Se isso não funcionar, eles continuarão a se comportar de maneira diferente de quem realmente são.  
+**6. Intimidade vs. isolamento**  
+Esse dilema ocorre quando o jovem adulto começa a gravar profissional, emocional e politicamente e, ao mesmo tempo, percebe que tal posicionamento social é irrevogavelmente acompanhado de sacrifícios. Se o medo os impede de entrar em tais obrigações e relacionamentos, eles correm o risco de isolamento social.  
+Ao tomar decisões importantes e enfrentar desafios, eles alcançam estabilidade nesse estágio. Suas visões sobre trabalho, amizade e família se aprofundam e se fortalecem. Tudo somado, eles são o passo definitivo para a independência e maturidade .  
+**7. Generatividade vs. estagnação**  
+Erikson definiu a geratividade como o desejo, mais tarde na vida, de guiar as gerações mais jovens e ajudá-las a encontrar seu lugar no mundo. Se isso não acontecer, pode-se experimentar um sentimento indesejado de estagnação pessoal, não mais transcendê-lo e não contribuir para o futuro.  
+Somente quando as pessoas experimentam desapontamentos e triunfos e se dedicam com tempo e atenção à geração e disseminação de suas idéias, elas podem finalmente experimentar o que é crescer.  
+**8. Integridade do ego vs. desespero**  
+O estágio final da vida pode ser calmo e pacífico, ou cheio de desespero e inquietação. Isso depende inteiramente do curso dos sete estágios anteriores. Na velhice , alguém deve ser capaz de avaliar sua vida, com um senso de realidade e uma compreensão amadurecida do mundo e de si mesmo.  
+Se nesta fase você puder combinar reflexão e experiência, ter pensamento e ação em harmonia, então a sensação de integridade é sua recompensa . No entanto, se houver conflitos ou estágios iniciais de desenvolvimento estagnados em que você ainda desempenha um papel de sênior, provavelmente será atormentado por um medo fervoroso de doença, sofrimento e morte.
+ \> De \<[https://www.pensarcontemporaneo.com/erik-erikson-os-8-estagios-do-desenvolvimento-pessoal/](https://www.pensarcontemporaneo.com/erik-erikson-os-8-estagios-do-desenvolvimento-pessoal/)\>
