@@ -2,13 +2,13 @@
 tipo: dossie-contexto-curso
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
-status: fase-0-concluida
-estado_maturidade: em-definicao-de-identidade
-fase_atual: "Fase 1 — Gênese, identidade e problema humano"
-versao: "0.1"
+status: fase-1-concluida
+estado_maturidade: identidade-inicial-definida
+fase_atual: "Fase 2 — Posicionamento institucional e natureza da oferta"
+versao: "0.2"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-17
-atualizado_em: 2026-07-17
+atualizado_em: 2026-07-18
 documento_superior: Protocolo Operacional para Construção da Arquitetura de Cursos v1.0
 tags:
   - traduzindo-o-ser-humano
@@ -19,10 +19,10 @@ tags:
 
 # Dossiê de Contexto — Curso [nome provisório]
 
-**Versão:** 0.1  
-**Estado de maturidade:** em definição de identidade  
-**Fase concluída:** Fase 0 — Abertura e governança  
-**Fase autorizada:** Fase 1 — Gênese, identidade e problema humano
+**Versão:** 0.2  
+**Estado de maturidade:** identidade inicial definida  
+**Fases concluídas:** Fase 0 — Abertura e governança; Fase 1 — Gênese, identidade e problema humano  
+**Fase autorizada:** Fase 2 — Posicionamento institucional e natureza da oferta
 
 ---
 
@@ -30,11 +30,11 @@ tags:
 
 - **Código do curso:** a definir;
 - **Nome atual:** Curso [nome provisório];
-- **Versão do Dossiê:** 0.1;
+- **Versão do Dossiê:** 0.2;
 - **Status documental:** documento evolutivo;
-- **Estado de maturidade:** em definição de identidade;
+- **Estado de maturidade:** identidade inicial definida;
 - **Data de criação:** 2026-07-17;
-- **Última atualização:** 2026-07-17;
+- **Última atualização:** 2026-07-18;
 - **Autor:** Fabiano Deliberalli;
 - **Componente responsável:** orquestração da arquitetura do curso;
 - **Documento operacional superior:** Protocolo Operacional para Construção da Arquitetura de Cursos v1.0;
@@ -49,53 +49,61 @@ Este documento deverá permanecer como **Dossiê de Contexto** durante as fases 
 
 ## 1. Síntese executiva
 
-### Definição provisória
+### Definição atual
 
-Novo curso pertencente ao projeto Traduzindo o Ser Humano, ainda sem tema, nome, público, transformação ou posição institucional aprovados.
+Curso autoral pertencente ao projeto Traduzindo o Ser Humano, concebido como **estrutura educacional complementar** para pessoas que já percorreram trajetórias de autoconhecimento, psicoterapia, contemplação, espiritualidade ou religião, mas ainda encontram dificuldade para sustentar e integrar, no presente, aquilo que experiências passadas continuam mobilizando.
 
 ### Problema humano central
 
-**EM ABERTO.**
+Existe uma distância entre o repertório já compreendido e a capacidade de acessá-lo, sustentá-lo e incorporá-lo quando a experiência se torna mobilizadora. O público tende a interpretar essa distância como necessidade de compreender ainda mais, encontrar outra técnica ou alcançar uma explicação definitiva.
 
-### Público principal
+### Necessidade formativa
 
-**EM ABERTO.**
+Uma arquitetura educacional que ajude a transformar repertório acumulado em capacidade inicial de reconhecer, sustentar, discernir e começar a integrar a experiência presente, sem substituir cuidado clínico, médico ou espiritual individualizado.
 
-### Transformação delimitada
+### Público preliminar
 
-**EM ABERTO.**
+Adultos com trajetória anterior relevante de reflexão, psicoterapia, práticas contemplativas ou caminhos espirituais/religiosos. A delimitação fina do público, das condições de entrada e das exclusões permanece como tarefa da Fase 2.
+
+### Transformação preliminar
+
+Passagem de um repertório predominantemente compreendido ou narrado para uma capacidade inicial de tradução, reconhecimento, sustentação, discernimento e integração da experiência.
 
 ### Função no ecossistema
 
-**EM ABERTO.** Não está decidido se o curso será introdutório, ponte para o Método EIXO, expressão do próprio método ou oferta autônoma.
+**EM DELIBERAÇÃO NA FASE 2.** A hipótese principal é que seja um curso-base de Tradução da Experiência Humana e Fundamentos do EIXO. Ainda deverá ser decidido se sua função institucional será preparação, ponte, iniciação estruturada ou oferta autônoma relacionada ao Método EIXO.
 
 ### Relação com o Método EIXO
 
-**EM ABERTO.** A relação deverá ser deduzida a partir do problema humano, do público e da transformação, e não presumida antecipadamente.
+O curso poderá mobilizar fundamentos de presença, observação, regulação, discernimento e espaço entre impulso e resposta, mas não está autorizado a entregar ou representar integralmente o Método EIXO.
 
-### Estado atual
+### Parecer de viabilidade
 
-A governança documental foi estabelecida. O curso está autorizado a iniciar a definição de sua gênese, identidade e problema humano.
-
----
+O projeto possui densidade filosófica, patrimônio intelectual e coerência pedagógica suficientes para originar um curso autoral, ético e vivencial. Essa viabilidade não equivale a validação científica do método. A legitimidade dependerá de delimitação epistemológica, separação entre educação e psicoterapia, práticas graduadas e facultativas, proteção de dados e validação pedagógica e empírica progressiva.
 
 ## 2. Identidade do curso
 
 - **Nome provisório:** Curso [nome provisório];
 - **Nome institucional:** em aberto;
 - **Subtítulo:** em aberto;
-- **Natureza da oferta:** em aberto;
-- **Tese central:** em aberto;
-- **Pergunta organizadora:** em aberto;
-- **Frase-síntese:** em aberto;
-- **Distinção em relação a outras ofertas:** em aberto;
-- **Estado de maturidade:** em definição de identidade.
+- **Natureza geral aprovada:** estrutura educacional complementar;
+- **Tese central:** compreender uma experiência não garante capacidade de sustentar e integrar aquilo que ela continua mobilizando;
+- **Pergunta organizadora provisória:** como transformar o que a pessoa já compreendeu em capacidade de reconhecer, sustentar, discernir e começar a integrar sua experiência?
+- **Frase-síntese provisória:** da compreensão acumulada à capacidade incorporada;
+- **Distinção em relação a outras ofertas:** não oferece apenas mais informação ou uma explicação totalizante; organiza uma passagem educacional entre repertório, experiência presente e competência inicial;
+- **Estado de maturidade:** identidade inicial definida; posicionamento institucional em deliberação.
 
 ### Critério de elaboração
 
-A identidade deverá nascer da experiência humana que justifica a existência do curso. O nome e o repertório de conteúdos não deverão anteceder essa definição.
+A identidade nasce da experiência humana que justifica o curso. Nome, promessa comercial, carga horária e currículo permanecem subordinados à definição do público, da posição no ecossistema e da transformação legítima.
 
----
+### Estatuto das formulações
+
+- **Decisão consolidada:** estrutura educacional complementar;
+- **Decisão consolidada:** não substituir psicoterapia, cuidado em saúde ou acompanhamento espiritual;
+- **Formulação aprovada da Fase 1:** problema humano e necessidade formativa;
+- **Hipótese de trabalho:** curso-base de Tradução da Experiência Humana e Fundamentos do EIXO;
+- **Em aberto:** nome, formato, duração, valor, promessa comercial e posição institucional definitiva.
 
 ## 3. Vínculo institucional
 
@@ -145,40 +153,40 @@ O curso:
 
 ## 4. Problema humano traduzido
 
-- **Experiência humana central:** em aberto;
-- **Situação concreta em que aparece:** em aberto;
-- **Problema vivido pelo público:** em aberto;
-- **Como o público costuma nomeá-lo:** em aberto;
-- **Linguagem insuficiente:** em aberto;
-- **Explicações reducionistas a superar:** em aberto;
-- **Tensão humana organizadora:** em aberto;
-- **Necessidade formativa subjacente:** em aberto;
-- **Transformação pretendida:** em aberto;
-- **Tese de tradução:** em aberto.
+- **Experiência humana central:** viver, no presente, efeitos de experiências passadas que continuam mobilizando dimensões corporais, afetivas, relacionais, narrativas, existenciais e, quando pertinente, espirituais;
+- **Situação concreta em que aparece:** a pessoa compreende racionalmente sua história e conhece diferentes mapas, mas perde acesso a esse repertório quando estados, relações ou acontecimentos mobilizam padrões antigos;
+- **Problema vivido pelo público:** distância entre o que já compreendeu e o que consegue sustentar, discernir e praticar;
+- **Como o público costuma nomeá-lo:** falta de clareza, repetição de padrões, necessidade de compreender mais, encontrar outra técnica ou obter uma explicação definitiva;
+- **Linguagem insuficiente:** reduzir o problema a falta de informação, falha pessoal, ausência de força de vontade ou necessidade de uma explicação única;
+- **Explicações reducionistas a superar:** intelectualização isolada, tecnicismo, psicologização total, espiritualização total e patologização automática;
+- **Tensão humana organizadora:** compreender sem conseguir incorporar;
+- **Necessidade formativa subjacente:** aprender a traduzir e sustentar a experiência antes de explicá-la ou reagir automaticamente;
+- **Transformação pretendida:** desenvolver capacidade inicial de reconhecer, sustentar, discernir e começar a integrar o que a experiência mobiliza;
+- **Tese de tradução:** o problema nem sempre é ausência de compreensão; pode ser ausência de uma arquitetura que transforme compreensão em competência incorporada.
 
-### Formulação de saída da Fase 1
+### Formulação de saída da Fase 1 — APROVADA
 
-> Este curso existe porque determinadas pessoas vivem **[experiência]**, interpretam isso como **[explicação corrente]**, mas precisam compreender **[tradução proposta]** para iniciar **[transformação]**.
+> Este curso existe porque pessoas que já percorreram trajetórias de autoconhecimento, psicoterapia, contemplação ou espiritualidade continuam vivendo, no presente, os efeitos de experiências passadas em diferentes dimensões de sua experiência — corporal, afetiva, relacional, narrativa, existencial e, quando pertinente, espiritual. Frequentemente interpretam que precisam compreender ainda mais, encontrar outra técnica ou alcançar uma explicação definitiva, quando necessitam de uma arquitetura educacional complementar que transforme o repertório já acumulado em capacidade de reconhecer, sustentar, discernir e começar a integrar aquilo que essas experiências continuam mobilizando.
 
----
+### Limite associado
+
+O curso não substitui psicoterapia, acompanhamento médico, cuidado em saúde mental ou orientação espiritual individualizada.
 
 ## 5. Público e condições de entrada
 
-- **Público principal:** em aberto;
-- **Público secundário:** em aberto;
-- **Momento existencial ou formativo:** em aberto;
-- **Problemas reconhecidos:** em aberto;
-- **Necessidades ainda não reconhecidas:** em aberto;
-- **Conhecimentos prévios:** em aberto;
-- **Experiências prévias:** em aberto;
-- **Disponibilidade para práticas:** em aberto;
-- **Condições de entrada:** em aberto;
-- **Para quem não é:** em aberto;
-- **Barreiras previsíveis:** em aberto.
+### Público preliminar derivado da Fase 1
 
-**Bloqueio de fase:** esta seção será deliberada depois da formulação suficiente do problema humano.
+- **Público principal candidato:** adultos com trajetória prévia de autoconhecimento, psicoterapia, práticas contemplativas, espiritualidade ou religião;
+- **Momento existencial ou formativo:** já acumularam repertório e explicações, mas percebem que isso não basta para sustentar determinadas experiências no presente;
+- **Problemas reconhecidos:** repetição de padrões, distância entre saber e fazer, dificuldade de permanecer presente diante da mobilização;
+- **Necessidades ainda não reconhecidas:** tradução, diferenciação, sustentação, discernimento e integração gradual;
+- **Conhecimentos prévios:** não se exige formação acadêmica; espera-se familiaridade mínima com processos reflexivos;
+- **Experiências prévias:** alguma trajetória deliberada de autoconhecimento ou cuidado;
+- **Disponibilidade para práticas:** deverá aceitar exercícios leves, graduados, facultativos e não expositivos;
+- **Para quem não é — limite preliminar:** pessoas que buscam tratamento, diagnóstico, resolução imediata, confirmação metafísica ou intervenção clínica individual;
+- **Condições de entrada, público secundário e barreiras:** EM DELIBERAÇÃO NA FASE 2.
 
----
+**Bloqueio de fase removido:** o problema humano foi formulado. A definição fina do público está autorizada, subordinada à posição e à natureza da oferta.
 
 ## 6. Transformação e resultado formativo
 
@@ -295,17 +303,30 @@ Nenhum ativo será incluído apenas por sua riqueza geral. Sua entrada depender�
 
 ### 9.1. Referência consolidada
 
-O Método EIXO está associado ao desenvolvimento progressivo de competência incorporada e à ampliação do espaço entre impulso e resposta.
+O Método EIXO não tem como finalidade apenas transmitir conhecimento. Sua finalidade é desenvolver progressivamente a capacidade de sustentar presença diante da própria experiência, ampliando o espaço entre impulso e resposta.
 
-### 9.2. Questões a deliberar
+### 9.2. Decisão de limite
 
-- O curso apenas apresenta o EIXO, prepara para ele, integra parte dele ou constitui uma oferta do próprio método?
-- Quais competências poderão ser legitimamente mobilizadas?
-- Qual profundidade é compatível com o formato?
-- Quais práticas deverão permanecer reservadas ao Método, Laboratório ou Imersão?
-- A proposta das seis dimensões do EIXO Integrador confirma, amplia ou duplica definições canônicas?
+O novo curso poderá utilizar fundamentos coerentes com o EIXO, mas não deverá representar ou antecipar integralmente o Método enquanto sua posição institucional não estiver aprovada.
 
-### 9.3. Dimensões candidatas, não canônicas
+### 9.3. Hipótese principal da Fase 2
+
+**Curso-base de Tradução da Experiência Humana e Fundamentos do EIXO.**
+
+Contribuição possível:
+
+- a Tradução da Experiência Humana oferece linguagem e diferenciação;
+- fundamentos do EIXO introduzem presença, observação, regulação e discernimento;
+- o Método EIXO permanece como percurso estruturado de competência incorporada.
+
+### 9.4. Alternativas que precisam ser comparadas
+
+- curso preparatório para o Método EIXO;
+- curso-ponte entre Conteúdo Aberto e Método EIXO;
+- iniciação estruturada que integra tradução e fundamentos do EIXO;
+- oferta autônoma relacionada ao ecossistema, mas não dependente do Método.
+
+### 9.5. Dimensões candidatas, não canônicas
 
 - corporal;
 - afetiva;
@@ -315,8 +336,6 @@ O Método EIXO está associado ao desenvolvimento progressivo de competência in
 - ético-existencial.
 
 **Status:** proposta de expansão recuperada do patrimônio; não aprovada como definição oficial do Método EIXO.
-
----
 
 ## 10. Princípios pedagógicos do curso
 
@@ -364,20 +383,35 @@ Identidade, problema humano, público, transformação, posição no ecossistema
 
 ## 12. Contrato formativo e limites
 
-### Limites preliminares
+### Natureza aprovada
 
-- o curso será uma oferta educacional;
-- não substituirá psicoterapia ou avaliação clínica;
-- não prometerá transformação clínica;
+O curso será uma estrutura educacional complementar, com componentes reflexivos e vivenciais de baixa intensidade.
+
+### Limites consolidados
+
+- não substituirá psicoterapia, avaliação clínica, acompanhamento médico ou cuidado espiritual individualizado;
+- não prometerá cura, resolução de trauma, integração completa ou transformação clínica;
 - não confirmará interpretações metafísicas como fatos;
 - não reduzirá experiências humanas a explicações isoladas;
-- não transformará intensidade emocional em prova de integração;
+- não transformará intensidade emocional em prova de aprendizagem ou integração;
 - não usará conceitos como rótulos identitários;
-- respeitará limites, consentimento, ritmo e autonomia.
+- respeitará consentimento, ritmo, autonomia e possibilidade de não participação;
+- não exigirá exposição de experiências pessoais;
+- não realizará formulação clínica pública de participantes;
+- distinguirá prática educacional de intervenção terapêutica;
+- utilizará casos compostos e padrões abstratos, nunca transcrições clínicas reconhecíveis;
+- protegerá dados pessoais e manifestações dos participantes, especialmente em encontros gravados.
 
-**Formulação definitiva:** pendente de público, formato e práticas.
+### Condições para validação
 
----
+- revisão epistemológica das afirmações;
+- revisão ética e técnico-científica independente;
+- protótipo com grupo reduzido;
+- avaliação de aprendizagem, utilidade, tolerabilidade e efeitos não pretendidos;
+- revisão antes do lançamento ampliado;
+- pesquisa formal somente se houver pretensão de validação científica.
+
+**Formulação operacional definitiva:** dependerá do formato, das práticas e dos critérios de entrada definidos nas fases posteriores.
 
 ## 13. Decisões aprovadas
 
@@ -389,35 +423,39 @@ Identidade, problema humano, público, transformação, posição no ecossistema
 | Tratar o pacote sobre experiências liminares como patrimônio candidato | APROVADO — CURSO | 2026-07-17 | Avaliação do vault | Preserva contribuição sem determinar tema | Após Fases 1–4 |
 | Não adotar os Sete Níveis como currículo automático | APROVADO — CURSO | 2026-07-17 | Avaliação do vault | Evita antecipação curricular | Após confronto com Jornada e EIXO |
 | Não adotar as seis dimensões como definição oficial do EIXO | APROVADO — CURSO | 2026-07-17 | Avaliação do vault | Preserva fontes canônicas | Após auditoria institucional |
-
----
+| Definir o curso como estrutura educacional complementar | APROVADO — CURSO | 2026-07-18 | Fase 1 | Delimita natureza e promessa | Revisão formal do Dossiê |
+| Aprovar a formulação do problema humano central | APROVADO — CURSO | 2026-07-18 | Fase 1 | Fundamenta público, transformação e posição | Nova evidência relevante |
+| Separar explicitamente educação, psicoterapia e orientação espiritual | APROVADO — CURSO | 2026-07-18 | Avaliação ética da Fase 1 | Define limites de conteúdo e prática | Não aplicável sem revisão ética |
+| Tratar o EIXO como método autoral, sem alegação atual de validação científica | APROVADO — CURSO | 2026-07-18 | Avaliação ética e epistemológica | Regula linguagem pública e validação | Após pesquisa formal pertinente |
+| Concluir a Fase 1 e autorizar a Fase 2 | APROVADO — CURSO | 2026-07-18 | Encerramento da Fase 1 | Abre posicionamento e natureza da oferta | Retorno à fase anterior se surgir contradição estrutural |
 
 ## 14. Hipóteses e propostas em avaliação
 
-| Hipótese | Origem | Contribuição possível | Risco | Momento de decisão |
+| Hipótese ou proposta | Origem | Contribuição possível | Risco | Momento de decisão |
 |---|---|---|---|---|
-| Experiências liminares podem ser problema central | Pacote recuperado | Curso especializado | Tema derivado do patrimônio, não do público | Fase 1 |
-| Experiências liminares podem funcionar como caso-limite | Avaliação atual | Testar robustez epistemológica | Generalização indevida | Fases 4–5 |
+| Curso-base de Tradução da Experiência Humana e Fundamentos do EIXO | Síntese da Fase 1 | Traduzir repertório e introduzir competências fundamentais sem duplicar o Método | Fronteira insuficiente com a Camada 2 ou 3 | Fase 2 |
+| Curso como acelerador no eixo Canal → Curso → Comunidade | Apresentação de mentoria | Organizar função comercial e pública | Lógica comercial anteceder função pedagógica | Fase 2 |
+| Curso principal ao vivo e posteriormente hospedado | Mentoria com Camila | Possibilitar interação e consolidação digital | Gravação de manifestações pessoais e mistura entre aula e atendimento | Fases 2 e 7 |
+| Faixa de valor aproximada de R$ 997 | Mentoria com Camila | Posicionar como oferta principal | Preço definir artificialmente profundidade e promessa | Após transformação e formato |
+| Workshop de menor valor como oferta posterior | Mentoria com Camila | Criar porta de entrada após consolidação | Inverter camadas sem clareza institucional | Após posição do curso |
+| Camila representa uma candidata ao curso | Análise da mentoria | Indício de público com repertório prévio | Generalizar a partir de um caso | Validação de público |
+| Denominador comum do público é repertório compreendido, mas não incorporado | Análise de fontes e casos | Delimitar necessidade transversal | Amplitude excessiva | Fase 2 e piloto |
 | Sete Níveis podem ser matriz transversal | Nota conceitual | Organizar análise e aprendizagem | Duplicar Jornada Fenomenológica | Fases 5–6 |
 | Seis dimensões podem ampliar competências do EIXO | EIXO Integrador | Refinar resultados formativos | Alterar o método sem validação | Fase 5 |
 | Fenomenologia Tradutiva–EIXO pode ser paradigma do curso | Paradigma candidato | Unificar experiência, tradução e integração | Criar redundância institucional | Fase 4 |
-
----
 
 ## 15. Questões ainda abertas
 
 | Questão | Razão | Prioridade | Fase |
 |---|---|---|---|
-| Por que este curso precisa existir agora? | Define sua gênese | Alta | Fase 1 |
-| Qual experiência humana o justifica? | Define o problema central | Alta | Fase 1 |
-| Qual linguagem atual é insuficiente? | Define a contribuição tradutiva | Alta | Fase 1 |
-| Para quem será criado? | Define público e condições | Alta | Fase 2 |
-| Qual transformação é legítima? | Define promessa e resultados | Alta | Fase 2 |
-| Onde se posiciona no ecossistema? | Evita redundância | Alta | Fase 3 |
-| Qual patrimônio é necessário? | Evita acúmulo indiscriminado | Média | Fase 4 |
-| Qual relação terá com o EIXO? | Define profundidade e limites | Alta | Fase 5 |
-
----
+| Qual função institucional específica o curso cumprirá? | Evita sobreposição entre Workshop, Método e oferta autônoma | Alta | Fase 2 |
+| Qual é a natureza exata da oferta? | Define profundidade, acompanhamento e promessa | Alta | Fase 2 |
+| Qual público principal deve orientar a primeira edição? | Evita uma oferta excessivamente ampla | Alta | Fase 2 |
+| Qual competência nuclear é entregue sem antecipar o Método EIXO? | Define fronteira e valor formativo | Alta | Fase 2 |
+| O curso pressupõe continuidade no EIXO ou pode encerrar-se com autonomia? | Define posição e contrato | Alta | Fase 2 |
+| Qual transformação é legítima e observável? | Define promessa e avaliação | Alta | Fase 3 |
+| Qual patrimônio é estritamente necessário? | Evita acúmulo indiscriminado | Média | Fase 4 |
+| Qual relação operacional terá com o EIXO? | Define profundidade e limites | Alta | Fase 5 |
 
 ## 16. Dívidas de Organização
 
@@ -458,8 +496,21 @@ Identidade, problema humano, público, transformação, posição no ecossistema
 | Versão | Data | Mudança | Motivo |
 |---|---|---|---|
 | 0.1 | 2026-07-17 | Abertura do Dossiê, registro da governança e do patrimônio candidato | Conclusão da Fase 0 |
+| 0.2 | 2026-07-18 | Registro do problema humano, natureza educacional, público preliminar, limites éticos e hipóteses de posicionamento | Conclusão da Fase 1 |
 
 ---
+
+## 18. Próxima sessão
+
+### Sessão 2 — Posicionamento institucional e natureza da oferta
+
+- **Fase:** Fase 2;
+- **Objetivo único:** decidir qual função institucional este curso cumprirá no ecossistema e qual será a natureza exata da oferta;
+- **Documentos atualizados:** seções 1, 2, 3, 5, 9, 14 e 15 deste Dossiê;
+- **Entrada principal:** comparação entre quatro posições possíveis: preparação para o EIXO, ponte para o EIXO, iniciação estruturada ou oferta autônoma relacionada;
+- **Entregável:** declaração de posicionamento contendo função, público principal, competência nuclear, relação com o Método EIXO e limite de profundidade;
+- **Critério de encerramento:** ser possível explicar em um parágrafo por que o curso existe no ecossistema, o que entrega e o que deliberadamente não entrega;
+- **Bloqueio mantido:** não produzir nome definitivo, módulos, aulas, práticas ou promessa comercial antes da decisão de posicionamento.
 
 ## 18. Próxima sessão
 
