@@ -5,7 +5,7 @@ curso: nome-provisorio
 status: fase-2-em-andamento
 estado_maturidade: identidade-inicial-definida
 fase_atual: "Fase 2 — Posicionamento institucional e natureza da oferta"
-versao: "0.4"
+versao: "0.5"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-17
 atualizado_em: 2026-07-18
@@ -19,7 +19,7 @@ tags:
 
 # Dossiê de Contexto — Curso [nome provisório]
 
-**Versão:** 0.4  
+**Versão:** 0.5  
 **Estado de maturidade:** identidade inicial definida  
 **Fases concluídas:** Fase 0 — Abertura e governança; Fase 1 — Gênese, identidade e problema humano  
 **Fase autorizada:** Fase 2 — Posicionamento institucional e natureza da oferta
@@ -30,7 +30,7 @@ tags:
 
 - **Código do curso:** a definir;
 - **Nome atual:** Curso [nome provisório];
-- **Versão do Dossiê:** 0.4;
+- **Versão do Dossiê:** 0.5;
 - **Status documental:** documento evolutivo;
 - **Estado de maturidade:** identidade inicial definida;
 - **Data de criação:** 2026-07-17;
@@ -317,17 +317,72 @@ O novo curso poderá utilizar fundamentos coerentes com o EIXO, mas não deverá
 
 > **Ao longo desse percurso, o Método favorece processos progressivos de integração e expressão coerente da experiência. Em seu horizonte existencial e espiritual não dogmático, reconhece a possibilidade de que a pessoa se aproxime daquilo que experimenta e nomeia como Self, Essência, Verdadeiro Eu ou dimensão mais profunda de si, sem impor uma interpretação metafísica única.**
 
-### 9.5. Decisão sobre os limites
+### 9.5. Competência nuclear ampliada aprovada
+
+> **A competência nuclear do Método EIXO é a capacidade progressiva de reconhecer a própria experiência, sustentar ou recuperar presença diante dela, organizá-la com discernimento e ampliar a liberdade de orientar respostas mais coerentes com o contexto, os valores e aquilo que a pessoa reconhece como essencial em si.**
+
+### 9.6. EIXO como capacidade de retorno e reorganização
+
+> **O EIXO está mais relacionado à capacidade de reconhecer o afastamento e reencontrar orientação.**
+
+> **O EIXO não é um estado que a pessoa conquista e preserva permanentemente. É uma capacidade progressiva de reconhecer, sustentar e recuperar orientação diante da multidimensionalidade da experiência, reorganizando-se a partir de um EIXO.**
+
+Essa formulação impede que presença seja tratada como estado permanente, ideal de controle ou ausência de desorganização.
+
+### 9.7. Multidimensionalidade da experiência
+
+No Método, **multidimensionalidade** designa a interação entre dimensões corporais, afetivas, cognitivas e narrativas, relacionais, históricas, ético-existenciais e espirituais da experiência.
+
+Linguagens energéticas poderão ser reconhecidas quando fizerem parte da experiência da pessoa ou de tradições explicitamente identificadas, preservando seu estatuto experiencial, simbólico, tradicional ou hipotético. Não serão automaticamente apresentadas como descrição científica objetiva.
+
+A enumeração das dimensões permanece aberta a refinamento e não transforma as seis dimensões candidatas do EIXO Integrador em definição canônica.
+
+### 9.8. Capacidades componentes
+
+- reconhecer;
+- pausar;
+- regular;
+- diferenciar;
+- traduzir;
+- sustentar;
+- observar sem identificação total;
+- orientar-se;
+- escolher e responder;
+- retornar.
+
+### 9.9. Quatro movimentos funcionais aprovados
+
+| Movimento | Capacidades principais | Pergunta humana |
+|---|---|---|
+| Tornar-se presente | reconhecer, pausar e regular | O que está acontecendo comigo agora? |
+| Tornar a experiência legível | diferenciar e traduzir | O que realmente estou vivendo? |
+| Habitar a experiência | sustentar e observar sem identificação total | Posso permanecer em relação com isso sem ser inteiramente governado por isso? |
+| Orientar a resposta | orientar-se, escolher, responder e retornar | Como quero responder e como reencontro o EIXO quando me afasto? |
+
+Esses movimentos descrevem a anatomia funcional da competência nuclear. Ainda não constituem módulos nem substituem a futura auditoria das seis fases.
+
+### 9.10. Critério de aprendizagem aprovado
+
+O participante não será avaliado pela ausência de desorganização, mas pela crescente capacidade de:
+
+- reconhecer o afastamento;
+- pausar e recuperar presença possível;
+- reencontrar orientação;
+- escolher uma resposta mais coerente;
+- reparar consequências quando necessário;
+- reorganizar-se progressivamente a partir de um EIXO.
+
+### 9.11. Decisão sobre os limites
 
 Não será acrescentada uma cláusula negativa autônoma à definição identitária. Os termos **favorece**, **processos progressivos**, **horizonte**, **possibilidade**, **não dogmático** e **sem impor interpretação metafísica única** já delimitam epistemologicamente a formulação.
 
 As não promessas e salvaguardas permanecerão no **Contrato Formativo e Limites**, na comunicação pública, nos critérios de práticas e no futuro manual de facilitação.
 
-### 9.6. Decisão estrutural da Fase 2
+### 9.12. Decisão estrutural da Fase 2
 
 Antes de definir o recorte comercial da primeira oferta, será construída a arquitetura integral do Método EIXO. O primeiro curso será derivado dessa arquitetura e poderá percorrer o método completo em profundidade compatível com uma primeira implementação, permanecendo sujeito a revisão após o piloto.
 
-### 9.7. Distinção documental aprovada
+### 9.13. Distinção documental aprovada
 
 - **Arquitetura Canônica do Método EIXO:** competência central, princípios, percurso, fases, progressão, limites, resultados e continuidade;
 - **Dossiê e Arquitetura Mestre do Curso:** tradução pedagógica e comercial do Método para público, formato, duração, currículo, práticas, avaliação e implementação;
@@ -335,11 +390,11 @@ Antes de definir o recorte comercial da primeira oferta, será construída a arq
 
 A estruturação integral não obriga que todo o Método seja oferecido com a mesma profundidade na primeira turma e não autoriza acumulação indiscriminada de patrimônio intelectual.
 
-### 9.8. Regra de necessidade
+### 9.14. Regra de necessidade
 
 Cada conteúdo candidato deverá responder: **sem este elemento, a pessoa consegue percorrer adequadamente esta etapa do Método?** Se a resposta for positiva, o conteúdo deverá ser classificado como aprofundamento, apoio, exemplo, material do Laboratório, material da Imersão ou patrimônio não curricular.
 
-### 9.9. Dimensões candidatas, não canônicas
+### 9.15. Dimensões candidatas, não canônicas
 
 - corporal;
 - afetiva;
@@ -447,6 +502,11 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 | Aprovar a definição nuclear do Método EIXO | APROVADO — MÉTODO | 2026-07-18 | Sessão 2A | Estabiliza identidade, competência fundamental e horizonte formativo | Revisão formal da arquitetura canônica |
 | Aprovar a cláusula de horizonte existencial e espiritual não dogmático | APROVADO — MÉTODO | 2026-07-18 | Sessão 2A | Preserva a profundidade espiritual sem impor metafísica única | Revisão formal da arquitetura canônica |
 | Manter as não promessas fora da definição identitária e dentro do contrato formativo | APROVADO — MÉTODO/CURSO | 2026-07-18 | Sessão 2A | Evita redundância e preserva salvaguardas no nível operacional | Revisão ética ou pedagógica |
+| Aprovar a formulação ampliada da competência nuclear | APROVADO — MÉTODO | 2026-07-18 | Sessão 2A | Desdobra presença em reconhecimento, sustentação, organização, discernimento e orientação de respostas | Revisão formal da arquitetura canônica |
+| Definir o EIXO como capacidade de reconhecer o afastamento e reencontrar orientação | APROVADO — MÉTODO | 2026-07-18 | Sessão 2A | Substitui ideal de estado permanente por competência de retorno | Revisão formal da arquitetura canônica |
+| Aprovar os quatro movimentos funcionais da competência | APROVADO — MÉTODO | 2026-07-18 | Sessão 2A | Organiza capacidades sem antecipar módulos | Auditoria das seis fases |
+| Avaliar aprendizagem pela capacidade de reconhecer, retornar, escolher, reparar e reorganizar-se | APROVADO — MÉTODO/CURSO | 2026-07-18 | Sessão 2A | Define princípio de avaliação não idealizante | Desenvolvimento dos indicadores |
+| Incorporar multidimensionalidade com distinção epistemológica das linguagens energéticas | APROVADO — MÉTODO | 2026-07-18 | Sessão 2A | Preserva amplitude sem falsa equivalência científica | Refinamento conceitual |
 
 ## 14. Hipóteses e propostas em avaliação
 
@@ -519,6 +579,7 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 | 0.2 | 2026-07-18 | Registro do problema humano, natureza educacional, público preliminar, limites éticos e hipóteses de posicionamento | Conclusão da Fase 1 |
 | 0.3 | 2026-07-18 | Decisão de estruturar integralmente o Método EIXO antes de derivar a primeira oferta | Fase 2 em andamento |
 | 0.4 | 2026-07-18 | Aprovação da definição nuclear, cláusula de horizonte e localização operacional das não promessas | Sessão 2A |
+| 0.5 | 2026-07-18 | Aprovação da competência ampliada, capacidade de retorno, multidimensionalidade, quatro movimentos e critério de aprendizagem | Sessão 2A |
 
 ---
 
