@@ -1,13 +1,14 @@
 ---
 tipo: nota-conceitual
 id: conceito-2026-0001
-status: em-validacao-autoral
-natureza_epistemologica: interpretacao-do-ChatGPT-ou-do-agente
+status: consolidado-no-projeto-em-fundamentacao
+natureza_epistemologica: formulacao-autoral-validada
 origem_registro: pacote-aprovado-da-sessao
 fontes: ["[[Experiências Liminares, Fenomenologia, Tradução e EIXO]]"]
 temas: [experiência, tradução, integração, epistemologia]
 relacoes: ["[[Modelo dos Sete Níveis da Experiência]]", "[[EIXO Integrador]]"]
-validado_por_fabiano: false
+validado_por_fabiano: true
+data_validacao: 2026-07-18
 protegida: false
 ---
 
@@ -38,6 +39,22 @@ Uma explicação neurofisiológica, psicológica, cultural ou ontológica pode s
 - [[EIXO Integrador]] oferece a posição interna necessária para sustentar e incorporar aquilo que foi traduzido.
 - [[Camada 2 - Workshop]] já prevê tradução e reorganização inicial; relação provável.
 - [[Camada 3 - Método EIXO]] inclui perceber, traduzir, sustentar e reorganizar a experiência; relação clara.
+
+# Ampliação autoral — 2026-07-18
+
+A formulação original desta nota nasceu no contexto das experiências liminares e permanece preservada como origem histórica. O escopo foi posteriormente ampliado e validado: a Tradução aplica-se à experiência humana em geral, incluindo experiências relacionais, padrões recorrentes, estados corporais e emocionais, conflitos entre compreensão e reação, experiências espirituais, rupturas biográficas e acontecimentos cotidianos difíceis de nomear.
+
+> Tradução da Experiência Humana é o processo de tornar progressivamente legível uma experiência em sua multidimensionalidade, diferenciando o que é percebido, sentido, interpretado, lembrado, imaginado, relacionado e considerado significativo, sem reduzi-la a uma explicação única. Essa legibilidade amplia possibilidades de sustentação, discernimento, orientação, resposta e reorganização.
+
+A Tradução passa a relacionar-se de forma estrutural com [[Princípio de Recursividade EIXO–Tradução]]. Ela não é sinônimo de explicação, reorganização ou integração e não produz automaticamente nenhuma delas.
+
+## Estatuto diferenciado
+
+- **Definição ampliada e escopo geral:** validados pelo autor;
+- **formulação histórica centrada em experiências liminares:** preservada como antecedente;
+- **Modelo dos Sete Níveis como operacionalização geral:** ainda em formação;
+- **usos clínicos:** não validados por esta decisão;
+- **instrumentos pedagógicos e indicadores:** em desenvolvimento.
 
 # Questões abertas
 
