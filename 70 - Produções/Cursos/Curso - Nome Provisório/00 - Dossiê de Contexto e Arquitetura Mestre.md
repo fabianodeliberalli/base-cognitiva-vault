@@ -5,7 +5,7 @@ curso: nome-provisorio
 status: fase-2-em-andamento
 estado_maturidade: identidade-inicial-definida
 fase_atual: "Fase 2 — Posicionamento institucional e natureza da oferta"
-versao: "0.8"
+versao: "0.9"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-17
 atualizado_em: 2026-07-18
@@ -19,7 +19,7 @@ tags:
 
 # Dossiê de Contexto — Curso [nome provisório]
 
-**Versão:** 0.8  
+**Versão:** 0.9  
 **Estado de maturidade:** identidade inicial definida  
 **Fases concluídas:** Fase 0 — Abertura e governança; Fase 1 — Gênese, identidade e problema humano  
 **Fase autorizada:** Fase 2 — Posicionamento institucional e natureza da oferta
@@ -30,7 +30,7 @@ tags:
 
 - **Código do curso:** a definir;
 - **Nome atual:** Curso [nome provisório];
-- **Versão do Dossiê:** 0.8;
+- **Versão do Dossiê:** 0.9;
 - **Status documental:** documento evolutivo;
 - **Estado de maturidade:** identidade inicial definida;
 - **Data de criação:** 2026-07-17;
@@ -461,6 +461,26 @@ A [[Arquitetura Invisível]] apresenta Eu Básico, Eu Médio e Eu Superior como 
 
 Até nova decisão, os três Eus não estruturarão as seis fases nem o primeiro curso. Ver [[Sessão 2A-B - Matriz de Autoridade dos Mapas e dos Três Eus]].
 
+### 9.20. Autoridade concluída dos três Eus
+
+A genealogia foi confirmada pelo autor: os nomes Eu Básico, Eu Médio e Eu Superior derivam conscientemente de Max Freedom Long/Huna e de Serge Kahili King e foram reelaborados em síntese com psicanálise, hipnose, constituição energética, Psicologia Transpessoal e experiência clínica e pessoal.
+
+**Estatuto aprovado:**
+
+> Modelo funcional autoral em desenvolvimento, com genealogia espiritual moderna declarada, uso clínico-reflexivo acumulado e plausibilidade interdisciplinar parcial, sem validação científica direta.
+
+O TCC de Neurociências oferece correspondências heurísticas entre consciência reflexiva junguiana e coordenação de redes de autorreferência, saliência/interocepção e monitoramento executivo. Não valida três Eus, não autoriza correspondência um-a-um entre Eus e redes e não fornece correlato neural específico para Eu Superior, Self, Essência ou Alma.
+
+**Autoridade por domínio:**
+
+- Traduzindo o Ser Humano: mapa tradutivo autoral autorizado;
+- Método EIXO: patrimônio candidato, ainda não canônico;
+- curso: recurso pedagógico candidato, dependente de necessidade e clareza;
+- neurociência: plausibilidade funcional parcial, sem validação do constructo;
+- espiritualidade: linguagem de horizonte não dogmático.
+
+Ver [[Três Eus, Jung e Rede Tripartite]] e [[Sessão 2A-B - Matriz de Autoridade dos Mapas e dos Três Eus]].
+
 ## 10. Princípios pedagógicos do curso
 
 ### Princípios preliminares derivados do projeto e do protocolo
@@ -569,7 +589,7 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 | Tratar a vivência do Self ou Essência como horizonte favorecido, não consequência universal | APROVADO — MÉTODO | 2026-07-18 | Sessão 2A | Preserva espiritualidade não dogmática e autoria do participante | Revisão formal da arquitetura canônica |
 | Tratar os 11 mapas como patrimônio visual diferenciado por função, sem canonização automática | APROVADO — PROJETO/MÉTODO/CURSO | 2026-07-18 | Auditoria do lote de mapas | Preserva multidimensionalidade, metáforas e hipóteses sem transformar proximidade visual em equivalência científica | Matriz de Autoridade dos Mapas |
 | Aprovar o Princípio de Recursividade EIXO–Tradução | APROVADO — PROJETO/MÉTODO | 2026-07-18 | Sessão 2A-B | Define o mecanismo global recursivo e amplia a Tradução para experiências humanas em geral | Matriz quatro movimentos × seis fases × Jornada |
-| Manter os três Eus como patrimônio autoral em avaliação | APROVADO — GOVERNANÇA | 2026-07-18 | Sessão 2A-B | Impede que metáforas funcionais ou hipóteses espirituais sejam convertidas prematuramente em cânone ou neurobiologia | Confirmação de genealogia e necessidade pedagógica |
+| Classificar os três Eus como modelo funcional autoral em desenvolvimento, com genealogia declarada e sem validação científica direta | APROVADO — PROJETO/GOVERNANÇA | 2026-07-18 | Sessão 2A-B e confronto com TCC de Neurociências | Autoriza uso como mapa tradutivo e investigação pedagógica, sem equivalência com redes neurais | Distinção funcional e teste de necessidade no curso |
 
 ## 14. Hipóteses e propostas em avaliação
 
@@ -599,7 +619,6 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 | Qual transformação é legítima e observável? | Define promessa e avaliação | Alta | Fase 3 |
 | Qual patrimônio é estritamente necessário? | Evita acúmulo indiscriminado | Média | Fase 4 |
 | Qual relação operacional terá com o EIXO? | Define profundidade e limites | Alta | Fase 5 |
-| Qual é a genealogia autoral dos três Eus? | Diferencia criação própria, reelaboração e influência de tradições modernas | Alta | Sessão 2A-B |
 | Como diferenciar EIXO, Eu Médio, Eu Superior, Self, Essência e Alma? | Evita redundância e reificação espiritual | Alta | Sessão 2A-B |
 | Estabilidade e ressonância estrutural são conceitos necessários? | Evita novo vocabulário sem ganho operacional | Média | Sessão 2A-B |
 
@@ -649,6 +668,7 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 | 0.6 | 2026-07-18 | Aprovação da natureza funcional do EIXO, tratamento das linguagens energéticas e preservação dos quatro movimentos | Sessão 2A |
 | 0.7 | 2026-07-18 | Registro e auditoria dos 11 mapas conceituais; definição de suas funções, limites e consequências arquitetônicas | Auditoria do patrimônio visual |
 | 0.8 | 2026-07-18 | Aprovação do Princípio de Recursividade EIXO–Tradução e abertura da Matriz de Autoridade dos três Eus | Sessão 2A-B |
+| 0.9 | 2026-07-18 | Confirmação da genealogia dos três Eus, confronto com Jung e Rede Tripartite e conclusão de sua autoridade provisória | Sessão 2A-B |
 
 ---
 
@@ -657,10 +677,10 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 ### Sessão 2A-B — Matriz de Autoridade dos Mapas e dos Três Eus
 
 - **Fase:** Fase 2 — Posicionamento institucional e natureza da oferta;
-- **Objetivo único:** concluir a autoridade documental dos três Eus e decidir se eles são necessários à arquitetura integral do Método ou permanecem patrimônio explicativo;
+- **Objetivo único:** distinguir EIXO, Eu Médio, Eu Superior, Self, Essência e Alma e decidir quais relações pertencem ao núcleo do Método;
 - **Documentos atualizados:** seções 3, 8, 9, 13, 14 e 15 deste Dossiê; posteriormente, documento mestre específico do Método;
 - **Entradas necessárias:** Constituição Filosófico-Pedagógica, Manual Institucional, documentos oficiais da Camada 3 – Método EIXO, Jornada Fenomenológica, Três Níveis de Aprendizagem e materiais históricos pertinentes;
-- **Entregável 1:** confirmação da genealogia e do estatuto dos três Eus;
-- **Entregável 2:** distinção entre EIXO, Eu Médio, Eu Superior, Self, Essência e Alma;
-- **Critério de encerramento:** decidir, sem ambiguidade, quais elementos dos três Eus entram na futura matriz e quais permanecem patrimônio ou hipótese;
+- **Entregável 1:** matriz de distinção funcional e epistemológica entre os seis conceitos;
+- **Entregável 2:** decisão sobre a necessidade dos três Eus no primeiro curso;
+- **Critério de encerramento:** eliminar sinonímias indevidas e fixar a função, o estatuto e o horizonte de cada conceito;
 - **Bloqueio mantido:** não decidir módulos, aulas, carga horária, práticas específicas, preço ou promessa comercial antes da visualização do percurso integral.
