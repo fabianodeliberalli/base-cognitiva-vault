@@ -5,7 +5,7 @@ curso: nome-provisorio
 status: fase-2-em-andamento
 estado_maturidade: identidade-inicial-definida
 fase_atual: "Fase 2 — Posicionamento institucional e natureza da oferta"
-versao: "0.3"
+versao: "0.4"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-17
 atualizado_em: 2026-07-18
@@ -19,7 +19,7 @@ tags:
 
 # Dossiê de Contexto — Curso [nome provisório]
 
-**Versão:** 0.3  
+**Versão:** 0.4  
 **Estado de maturidade:** identidade inicial definida  
 **Fases concluídas:** Fase 0 — Abertura e governança; Fase 1 — Gênese, identidade e problema humano  
 **Fase autorizada:** Fase 2 — Posicionamento institucional e natureza da oferta
@@ -30,7 +30,7 @@ tags:
 
 - **Código do curso:** a definir;
 - **Nome atual:** Curso [nome provisório];
-- **Versão do Dossiê:** 0.3;
+- **Versão do Dossiê:** 0.4;
 - **Status documental:** documento evolutivo;
 - **Estado de maturidade:** identidade inicial definida;
 - **Data de criação:** 2026-07-17;
@@ -309,11 +309,25 @@ O Método EIXO não tem como finalidade apenas transmitir conhecimento. Sua fina
 
 O novo curso poderá utilizar fundamentos coerentes com o EIXO, mas não deverá representar ou antecipar integralmente o Método enquanto sua posição institucional não estiver aprovada.
 
-### 9.3. Decisão estrutural da Fase 2
+### 9.3. Definição nuclear aprovada
+
+> **O Método EIXO é a expressão metodológica do projeto Traduzindo o Ser Humano destinada a desenvolver a capacidade incorporada de sustentar presença diante da própria experiência, organizá-la com maior discernimento e ampliar progressivamente o espaço entre impulso e resposta, tendo autonomia como horizonte formativo.**
+
+### 9.4. Cláusula de horizonte aprovada
+
+> **Ao longo desse percurso, o Método favorece processos progressivos de integração e expressão coerente da experiência. Em seu horizonte existencial e espiritual não dogmático, reconhece a possibilidade de que a pessoa se aproxime daquilo que experimenta e nomeia como Self, Essência, Verdadeiro Eu ou dimensão mais profunda de si, sem impor uma interpretação metafísica única.**
+
+### 9.5. Decisão sobre os limites
+
+Não será acrescentada uma cláusula negativa autônoma à definição identitária. Os termos **favorece**, **processos progressivos**, **horizonte**, **possibilidade**, **não dogmático** e **sem impor interpretação metafísica única** já delimitam epistemologicamente a formulação.
+
+As não promessas e salvaguardas permanecerão no **Contrato Formativo e Limites**, na comunicação pública, nos critérios de práticas e no futuro manual de facilitação.
+
+### 9.6. Decisão estrutural da Fase 2
 
 Antes de definir o recorte comercial da primeira oferta, será construída a arquitetura integral do Método EIXO. O primeiro curso será derivado dessa arquitetura e poderá percorrer o método completo em profundidade compatível com uma primeira implementação, permanecendo sujeito a revisão após o piloto.
 
-### 9.4. Distinção documental aprovada
+### 9.7. Distinção documental aprovada
 
 - **Arquitetura Canônica do Método EIXO:** competência central, princípios, percurso, fases, progressão, limites, resultados e continuidade;
 - **Dossiê e Arquitetura Mestre do Curso:** tradução pedagógica e comercial do Método para público, formato, duração, currículo, práticas, avaliação e implementação;
@@ -321,11 +335,11 @@ Antes de definir o recorte comercial da primeira oferta, será construída a arq
 
 A estruturação integral não obriga que todo o Método seja oferecido com a mesma profundidade na primeira turma e não autoriza acumulação indiscriminada de patrimônio intelectual.
 
-### 9.5. Regra de necessidade
+### 9.8. Regra de necessidade
 
 Cada conteúdo candidato deverá responder: **sem este elemento, a pessoa consegue percorrer adequadamente esta etapa do Método?** Se a resposta for positiva, o conteúdo deverá ser classificado como aprofundamento, apoio, exemplo, material do Laboratório, material da Imersão ou patrimônio não curricular.
 
-### 9.6. Dimensões candidatas, não canônicas
+### 9.9. Dimensões candidatas, não canônicas
 
 - corporal;
 - afetiva;
@@ -430,6 +444,9 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 | Estruturar integralmente o Método EIXO antes de definir o recorte da primeira oferta | APROVADO — CURSO/MÉTODO | 2026-07-18 | Deliberação da Fase 2 | Separa arquitetura do método, arquitetura do curso e implementação piloto | Revisão após auditoria canônica ou piloto |
 | Derivar o primeiro curso da arquitetura integral e evolutiva do Método EIXO | APROVADO — CURSO | 2026-07-18 | Deliberação da Fase 2 | Impede que formato comercial anteceda a lógica formativa | Após visualização integral do percurso |
 | Tratar a primeira turma como implementação pedagógica revisável | APROVADO — CURSO | 2026-07-18 | Deliberação da Fase 2 | Autoriza lapidação posterior sem improvisação estrutural | Após avaliação da primeira turma |
+| Aprovar a definição nuclear do Método EIXO | APROVADO — MÉTODO | 2026-07-18 | Sessão 2A | Estabiliza identidade, competência fundamental e horizonte formativo | Revisão formal da arquitetura canônica |
+| Aprovar a cláusula de horizonte existencial e espiritual não dogmático | APROVADO — MÉTODO | 2026-07-18 | Sessão 2A | Preserva a profundidade espiritual sem impor metafísica única | Revisão formal da arquitetura canônica |
+| Manter as não promessas fora da definição identitária e dentro do contrato formativo | APROVADO — MÉTODO/CURSO | 2026-07-18 | Sessão 2A | Evita redundância e preserva salvaguardas no nível operacional | Revisão ética ou pedagógica |
 
 ## 14. Hipóteses e propostas em avaliação
 
@@ -501,6 +518,7 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 | 0.1 | 2026-07-17 | Abertura do Dossiê, registro da governança e do patrimônio candidato | Conclusão da Fase 0 |
 | 0.2 | 2026-07-18 | Registro do problema humano, natureza educacional, público preliminar, limites éticos e hipóteses de posicionamento | Conclusão da Fase 1 |
 | 0.3 | 2026-07-18 | Decisão de estruturar integralmente o Método EIXO antes de derivar a primeira oferta | Fase 2 em andamento |
+| 0.4 | 2026-07-18 | Aprovação da definição nuclear, cláusula de horizonte e localização operacional das não promessas | Sessão 2A |
 
 ---
 
