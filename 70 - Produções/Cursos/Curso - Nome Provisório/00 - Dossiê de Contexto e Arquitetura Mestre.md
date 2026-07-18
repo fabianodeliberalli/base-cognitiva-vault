@@ -5,7 +5,7 @@ curso: nome-provisorio
 status: fase-2-em-andamento
 estado_maturidade: identidade-inicial-definida
 fase_atual: "Fase 2 — Posicionamento institucional e natureza da oferta"
-versao: "0.9"
+versao: "0.10"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-17
 atualizado_em: 2026-07-18
@@ -19,7 +19,7 @@ tags:
 
 # Dossiê de Contexto — Curso [nome provisório]
 
-**Versão:** 0.9  
+**Versão:** 0.10  
 **Estado de maturidade:** identidade inicial definida  
 **Fases concluídas:** Fase 0 — Abertura e governança; Fase 1 — Gênese, identidade e problema humano  
 **Fase autorizada:** Fase 2 — Posicionamento institucional e natureza da oferta
@@ -30,7 +30,7 @@ tags:
 
 - **Código do curso:** a definir;
 - **Nome atual:** Curso [nome provisório];
-- **Versão do Dossiê:** 0.9;
+- **Versão do Dossiê:** 0.10;
 - **Status documental:** documento evolutivo;
 - **Estado de maturidade:** identidade inicial definida;
 - **Data de criação:** 2026-07-17;
@@ -481,6 +481,25 @@ O TCC de Neurociências oferece correspondências heurísticas entre consciênci
 
 Ver [[Três Eus, Jung e Rede Tripartite]] e [[Sessão 2A-B - Matriz de Autoridade dos Mapas e dos Três Eus]].
 
+### 9.21. Mapa Funcional Transversal dos Três Eus
+
+**Decisão consolidada — PROJETO / NÃO CANÔNICA NO MÉTODO.**
+
+Os Três Eus foram aprovados no Traduzindo o Ser Humano como **Mapa Funcional Transversal** e ferramenta pedagógica autoral de Tradução. O mapa:
+
+- ajuda a distinguir sustentação corporificada e acesso ao implícito (Eu Básico), mediação reflexiva e Tradução (Eu Médio) e sentido, valores e direção (Eu Superior);
+- não substitui os quatro movimentos, as seis fases nem a Jornada Fenomenológica;
+- não define o EIXO, que permanece função dinâmica de coordenação, orientação e retorno;
+- poderá ser inserido na arquitetura global quando acrescentar legibilidade e prática;
+- não integra automaticamente a primeira oferta;
+- deverá passar pelo teste de necessidade e pelo teste de removibilidade.
+
+**Teste de removibilidade aprovado:** o Método EIXO deve permanecer compreensível, praticável e avaliável quando a nomenclatura dos Três Eus é retirada.
+
+A futura **Matriz de Inserção Transversal** relacionará Três Eus × quatro movimentos × seis fases × tipos de prática × indicadores de aprendizagem. Seu preenchimento ocorrerá somente depois da distinção Self × Essência × Alma e da auditoria das seis fases.
+
+Fundamentação integral: [[Mapa Funcional Transversal dos Três Eus]].
+
 ## 10. Princípios pedagógicos do curso
 
 ### Princípios preliminares derivados do projeto e do protocolo
@@ -591,6 +610,8 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 | Aprovar o Princípio de Recursividade EIXO–Tradução | APROVADO — PROJETO/MÉTODO | 2026-07-18 | Sessão 2A-B | Define o mecanismo global recursivo e amplia a Tradução para experiências humanas em geral | Matriz quatro movimentos × seis fases × Jornada |
 | Classificar os três Eus como modelo funcional autoral em desenvolvimento, com genealogia declarada e sem validação científica direta | APROVADO — PROJETO/GOVERNANÇA | 2026-07-18 | Sessão 2A-B e confronto com TCC de Neurociências | Autoriza uso como mapa tradutivo e investigação pedagógica, sem equivalência com redes neurais | Distinção funcional e teste de necessidade no curso |
 
+| Aprovar os Três Eus como Mapa Funcional Transversal do projeto, mantendo-os não canônicos no Método e candidatos no curso | APROVADO — PROJETO | 2026-07-18 | Sessão 2A-B | Consolida linguagem tradutiva sem tornar o Método dependente dela; abre futura Matriz de Inserção Transversal | Após teste pedagógico, auditoria das seis fases e distinção Self × Essência × Alma |
+
 ## 14. Hipóteses e propostas em avaliação
 
 | Hipótese ou proposta | Origem | Contribuição possível | Risco | Momento de decisão |
@@ -669,18 +690,19 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 | 0.7 | 2026-07-18 | Registro e auditoria dos 11 mapas conceituais; definição de suas funções, limites e consequências arquitetônicas | Auditoria do patrimônio visual |
 | 0.8 | 2026-07-18 | Aprovação do Princípio de Recursividade EIXO–Tradução e abertura da Matriz de Autoridade dos três Eus | Sessão 2A-B |
 | 0.9 | 2026-07-18 | Confirmação da genealogia dos três Eus, confronto com Jung e Rede Tripartite e conclusão de sua autoridade provisória | Sessão 2A-B |
+| 0.10 | 2026-07-18 | Aprovação dos Três Eus como Mapa Funcional Transversal, registro do teste de removibilidade e abertura futura da Matriz de Inserção Transversal | Sessão 2A-B |
 
 ---
 
 ## 18. Próxima sessão
 
-### Sessão 2A-B — Matriz de Autoridade dos Mapas e dos Três Eus
+### Sessão 2A-C — Distinção Self × Essência × Alma
 
 - **Fase:** Fase 2 — Posicionamento institucional e natureza da oferta;
-- **Objetivo único:** distinguir EIXO, Eu Médio, Eu Superior, Self, Essência e Alma e decidir quais relações pertencem ao núcleo do Método;
-- **Documentos atualizados:** seções 3, 8, 9, 13, 14 e 15 deste Dossiê; posteriormente, documento mestre específico do Método;
-- **Entradas necessárias:** Constituição Filosófico-Pedagógica, Manual Institucional, documentos oficiais da Camada 3 – Método EIXO, Jornada Fenomenológica, Três Níveis de Aprendizagem e materiais históricos pertinentes;
-- **Entregável 1:** matriz de distinção funcional e epistemológica entre os seis conceitos;
-- **Entregável 2:** decisão sobre a necessidade dos três Eus no primeiro curso;
-- **Critério de encerramento:** eliminar sinonímias indevidas e fixar a função, o estatuto e o horizonte de cada conceito;
+- **Objetivo único:** verificar se Self, Essência e Alma descrevem realidades diferentes, funções distintas, linguagens de tradições diferentes ou perspectivas complementares do mesmo horizonte espiritual;
+- **Relações obrigatórias:** confrontar cada conceito com Eu Superior, EIXO, cláusula de horizonte e linguagem pública do projeto;
+- **Entregável 1:** matriz de distinção funcional, fenomenológica, epistemológica e espiritual;
+- **Entregável 2:** decisão terminológica para o projeto, o Método e a arquitetura global do curso;
+- **Entregável posterior bloqueado:** preenchimento da Matriz de Inserção Transversal dos Três Eus;
+- **Critério de encerramento:** eliminar sinonímias indevidas sem produzir diferenças artificiais e fixar autoridade, função, limite e contexto de uso de cada termo;
 - **Bloqueio mantido:** não decidir módulos, aulas, carga horária, práticas específicas, preço ou promessa comercial antes da visualização do percurso integral.
