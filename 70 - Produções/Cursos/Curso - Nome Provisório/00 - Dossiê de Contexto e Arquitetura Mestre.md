@@ -5,7 +5,7 @@ curso: nome-provisorio
 status: fase-2-em-andamento
 estado_maturidade: identidade-inicial-definida
 fase_atual: "Fase 2 — Posicionamento institucional e natureza da oferta"
-versao: "0.8"
+versao: "0.6"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-17
 atualizado_em: 2026-07-18
@@ -19,7 +19,7 @@ tags:
 
 # Dossiê de Contexto — Curso [nome provisório]
 
-**Versão:** 0.8  
+**Versão:** 0.6  
 **Estado de maturidade:** identidade inicial definida  
 **Fases concluídas:** Fase 0 — Abertura e governança; Fase 1 — Gênese, identidade e problema humano  
 **Fase autorizada:** Fase 2 — Posicionamento institucional e natureza da oferta
@@ -30,7 +30,7 @@ tags:
 
 - **Código do curso:** a definir;
 - **Nome atual:** Curso [nome provisório];
-- **Versão do Dossiê:** 0.8;
+- **Versão do Dossiê:** 0.6;
 - **Status documental:** documento evolutivo;
 - **Estado de maturidade:** identidade inicial definida;
 - **Data de criação:** 2026-07-17;
@@ -417,50 +417,6 @@ Cada conteúdo candidato deverá responder: **sem este elemento, a pessoa conseg
 
 **Status:** proposta de expansão recuperada do patrimônio; não aprovada como definição oficial do Método EIXO.
 
-### 9.17. Patrimônio visual e mapas conceituais
-
-O lote de 11 mapas recebido em 2026-07-18 foi preservado em PNG e PDF, com ficha individual e auditoria comparativa em [[80 - Mapas Conceituais/01 - Auditoria do Lote 2026-07-18]].
-
-**Contribuições consolidadas para a construção:**
-
-- os mapas confirmam a necessidade de representar a multidimensionalidade da experiência;
-- a Árvore do EIXO é o principal candidato a metáfora visual central, após reconstrução;
-- os Campos de Integração são candidatos a mapa das dimensões, não a sequência curricular;
-- o Caminho da Semente preserva o horizonte espiritual e de contribuição, sem estatuto canônico;
-- o modelo do TCC é a fonte-base candidata para a família neurobiológico-relacional, dependente de conferência textual e bibliográfica;
-- a Arquitetura Viva e o modelo neurobiológico-relacional versão 2 tornam os três Eus uma hipótese relevante de investigação funcional.
-
-**Limite aprovado:** nenhum mapa atual constitui sozinho a arquitetura do Método ou do curso. Quase todos omitem a Tradução como operador explícito, tratam o percurso de modo excessivamente linear ou aproximam linguagens de estatutos diferentes sem legenda epistemológica.
-
-**Consequência:** uma síntese futura deverá distinguir ao menos três funções: mapa da multidimensionalidade; mapa canônico da circularidade EIXO–Tradução–reorganização; e mapa do horizonte progressivo de integração, Essência, expressão e contribuição. Os modelos neurobiológico-relacionais permanecem em matriz de fundamentação separada.
-
-### 9.18. Princípio de Recursividade EIXO–Tradução
-
-**Status: APROVADO — PROJETO/MÉTODO.**
-
-> Algum EIXO favorece a Tradução da experiência; ao torná-la mais legível, a Tradução pode favorecer reorganização, e essa reorganização pode fortalecer o EIXO. Essa relação é circular, dinâmica e progressiva, não linear nem automática.
-
-O princípio diferencia EIXO, Tradução, reorganização e integração e amplia a Tradução para experiências humanas em geral. Ver [[Princípio de Recursividade EIXO–Tradução]].
-
-**Consequência arquitetônica:** o princípio deverá articular os quatro movimentos funcionais, as seis fases e a Jornada Fenomenológica, sem ser confundido com fase, módulo ou sequência linear.
-
-**Consequência pedagógica:** o curso deverá favorecer capacidade reutilizável de reconhecer, traduzir, reorganizar, orientar respostas e retornar. Integração permanece resultado progressivo possível.
-
-### 9.19. Estatuto provisório dos três Eus
-
-**Status: PATRIMÔNIO AUTORAL EM AVALIAÇÃO.**
-
-A [[Arquitetura Invisível]] apresenta Eu Básico, Eu Médio e Eu Superior como metáforas funcionais de camadas da consciência. Essa formulação possui contribuição potencial para sustentar sensibilidade, Tradução e orientação espiritual, mas:
-
-- não aparece no guia da Camada 3;
-- não integra ainda a definição canônica do Método;
-- não é necessária à definição aprovada do EIXO;
-- não possui equivalências neurobiológicas validadas;
-- exige diferenciação entre EIXO, Eu Médio, Eu Superior, Self, Essência e Alma;
-- exige confirmação autoral de sua genealogia intelectual.
-
-Até nova decisão, os três Eus não estruturarão as seis fases nem o primeiro curso. Ver [[Sessão 2A-B - Matriz de Autoridade dos Mapas e dos Três Eus]].
-
 ## 10. Princípios pedagógicos do curso
 
 ### Princípios preliminares derivados do projeto e do protocolo
@@ -567,9 +523,6 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 | Reconhecer linguagens energéticas e investigar possíveis correlatos sem equivalência automática | APROVADO — MÉTODO | 2026-07-18 | Sessão 2A | Permite tradução entre campos com limites epistemológicos | Auditoria de fundamentação |
 | Preservar os quatro movimentos como ativo estrutural em desenvolvimento | APROVADO — MÉTODO/PROJETO | 2026-07-18 | Sessão 2A | Autoriza integração, correlação, ampliação e fundamentação sem antecipar currículo | Auditoria das seis fases |
 | Tratar a vivência do Self ou Essência como horizonte favorecido, não consequência universal | APROVADO — MÉTODO | 2026-07-18 | Sessão 2A | Preserva espiritualidade não dogmática e autoria do participante | Revisão formal da arquitetura canônica |
-| Tratar os 11 mapas como patrimônio visual diferenciado por função, sem canonização automática | APROVADO — PROJETO/MÉTODO/CURSO | 2026-07-18 | Auditoria do lote de mapas | Preserva multidimensionalidade, metáforas e hipóteses sem transformar proximidade visual em equivalência científica | Matriz de Autoridade dos Mapas |
-| Aprovar o Princípio de Recursividade EIXO–Tradução | APROVADO — PROJETO/MÉTODO | 2026-07-18 | Sessão 2A-B | Define o mecanismo global recursivo e amplia a Tradução para experiências humanas em geral | Matriz quatro movimentos × seis fases × Jornada |
-| Manter os três Eus como patrimônio autoral em avaliação | APROVADO — GOVERNANÇA | 2026-07-18 | Sessão 2A-B | Impede que metáforas funcionais ou hipóteses espirituais sejam convertidas prematuramente em cânone ou neurobiologia | Confirmação de genealogia e necessidade pedagógica |
 
 ## 14. Hipóteses e propostas em avaliação
 
@@ -599,9 +552,6 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 | Qual transformação é legítima e observável? | Define promessa e avaliação | Alta | Fase 3 |
 | Qual patrimônio é estritamente necessário? | Evita acúmulo indiscriminado | Média | Fase 4 |
 | Qual relação operacional terá com o EIXO? | Define profundidade e limites | Alta | Fase 5 |
-| Qual é a genealogia autoral dos três Eus? | Diferencia criação própria, reelaboração e influência de tradições modernas | Alta | Sessão 2A-B |
-| Como diferenciar EIXO, Eu Médio, Eu Superior, Self, Essência e Alma? | Evita redundância e reificação espiritual | Alta | Sessão 2A-B |
-| Estabilidade e ressonância estrutural são conceitos necessários? | Evita novo vocabulário sem ganho operacional | Média | Sessão 2A-B |
 
 ## 16. Dívidas de Organização
 
@@ -647,20 +597,18 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 | 0.4 | 2026-07-18 | Aprovação da definição nuclear, cláusula de horizonte e localização operacional das não promessas | Sessão 2A |
 | 0.5 | 2026-07-18 | Aprovação da competência ampliada, capacidade de retorno, multidimensionalidade, quatro movimentos e critério de aprendizagem | Sessão 2A |
 | 0.6 | 2026-07-18 | Aprovação da natureza funcional do EIXO, tratamento das linguagens energéticas e preservação dos quatro movimentos | Sessão 2A |
-| 0.7 | 2026-07-18 | Registro e auditoria dos 11 mapas conceituais; definição de suas funções, limites e consequências arquitetônicas | Auditoria do patrimônio visual |
-| 0.8 | 2026-07-18 | Aprovação do Princípio de Recursividade EIXO–Tradução e abertura da Matriz de Autoridade dos três Eus | Sessão 2A-B |
 
 ---
 
 ## 18. Próxima sessão
 
-### Sessão 2A-B — Matriz de Autoridade dos Mapas e dos Três Eus
+### Sessão 2A — Núcleo canônico e arquitetura integral do Método EIXO
 
 - **Fase:** Fase 2 — Posicionamento institucional e natureza da oferta;
-- **Objetivo único:** concluir a autoridade documental dos três Eus e decidir se eles são necessários à arquitetura integral do Método ou permanecem patrimônio explicativo;
+- **Objetivo único:** separar o núcleo canônico já consolidado do Método EIXO das expansões, propostas anteriores e novas hipóteses;
 - **Documentos atualizados:** seções 3, 8, 9, 13, 14 e 15 deste Dossiê; posteriormente, documento mestre específico do Método;
 - **Entradas necessárias:** Constituição Filosófico-Pedagógica, Manual Institucional, documentos oficiais da Camada 3 – Método EIXO, Jornada Fenomenológica, Três Níveis de Aprendizagem e materiais históricos pertinentes;
-- **Entregável 1:** confirmação da genealogia e do estatuto dos três Eus;
-- **Entregável 2:** distinção entre EIXO, Eu Médio, Eu Superior, Self, Essência e Alma;
-- **Critério de encerramento:** decidir, sem ambiguidade, quais elementos dos três Eus entram na futura matriz e quais permanecem patrimônio ou hipótese;
+- **Entregável 1:** Matriz de Autoridade do Método EIXO;
+- **Entregável 2:** esqueleto da Arquitetura Canônica do Método EIXO;
+- **Critério de encerramento:** ser possível identificar, sem ambiguidade, o que já pertence ao Método, o que ainda está em construção e o que pertence apenas à primeira oferta;
 - **Bloqueio mantido:** não decidir módulos, aulas, carga horária, práticas específicas, preço ou promessa comercial antes da visualização do percurso integral.
