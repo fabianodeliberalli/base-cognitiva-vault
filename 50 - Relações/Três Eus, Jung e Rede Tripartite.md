@@ -112,13 +112,28 @@ O modelo somente deverá entrar se ajudar o participante a:
 
 Se a mesma aprendizagem puder ocorrer de forma mais clara sem os três Eus, eles deverão permanecer como aprofundamento ou patrimônio.
 
+## Posição como Mapa Funcional Transversal
+
+Os Três Eus são aprovados no Traduzindo o Ser Humano como [[Mapa Funcional Transversal dos Três Eus]]: uma ferramenta pedagógica autoral para traduzir sistemas funcionais mobilizados pelo EIXO.
+
+Essa posição preserva simultaneamente:
+
+- seu valor integrador entre campos;
+- sua utilidade clínica-reflexiva e pedagógica;
+- a independência canônica do Método EIXO;
+- a ausência de validação neurocientífica direta;
+- a possibilidade de uso seletivo conforme público, oferta e momento do percurso.
+
+O mapa deverá ser apresentado depois do contato direto com corpo, presença e Tradução quando sua antecipação puder induzir interpretação prematura. Seu valor será julgado pela capacidade de melhorar diferenciação, prática e transferência, não pela quantidade de teorias que consegue condensar.
+
+### Teste de removibilidade
+
+Sem a nomenclatura dos Três Eus, o EIXO deverá permanecer compreensível, praticável e avaliável. O mapa acrescenta legibilidade, mas não é condição de existência do Método.
+
+### Matriz futura
+
+A inserção será examinada na futura matriz Três Eus × quatro movimentos × seis fases × tipos de prática × indicadores de aprendizagem, depois da distinção Self × Essência × Alma.
+
 ## Próxima distinção
 
-A autoridade do modelo só poderá ser concluída em nível canônico depois de diferenciar:
-
-- EIXO;
-- Eu Médio;
-- Eu Superior;
-- Self;
-- Essência;
-- Alma.
+Antes de avançar para módulos, deverá ser concluída a distinção **Self × Essência × Alma**, verificando se os termos descrevem realidades diferentes ou perspectivas distintas do mesmo horizonte espiritual e confrontando-os com Eu Superior, EIXO e a cláusula de horizonte não dogmático.
