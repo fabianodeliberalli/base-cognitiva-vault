@@ -5,7 +5,7 @@ curso: nome-provisorio
 status: fase-2-em-andamento
 estado_maturidade: identidade-inicial-definida
 fase_atual: "Fase 2 — Posicionamento institucional e natureza da oferta"
-versao: "0.6"
+versao: "0.7"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-17
 atualizado_em: 2026-07-18
@@ -19,7 +19,7 @@ tags:
 
 # Dossiê de Contexto — Curso [nome provisório]
 
-**Versão:** 0.6  
+**Versão:** 0.7  
 **Estado de maturidade:** identidade inicial definida  
 **Fases concluídas:** Fase 0 — Abertura e governança; Fase 1 — Gênese, identidade e problema humano  
 **Fase autorizada:** Fase 2 — Posicionamento institucional e natureza da oferta
@@ -30,7 +30,7 @@ tags:
 
 - **Código do curso:** a definir;
 - **Nome atual:** Curso [nome provisório];
-- **Versão do Dossiê:** 0.6;
+- **Versão do Dossiê:** 0.7;
 - **Status documental:** documento evolutivo;
 - **Estado de maturidade:** identidade inicial definida;
 - **Data de criação:** 2026-07-17;
@@ -417,6 +417,23 @@ Cada conteúdo candidato deverá responder: **sem este elemento, a pessoa conseg
 
 **Status:** proposta de expansão recuperada do patrimônio; não aprovada como definição oficial do Método EIXO.
 
+### 9.17. Patrimônio visual e mapas conceituais
+
+O lote de 11 mapas recebido em 2026-07-18 foi preservado em PNG e PDF, com ficha individual e auditoria comparativa em [[80 - Mapas Conceituais/01 - Auditoria do Lote 2026-07-18]].
+
+**Contribuições consolidadas para a construção:**
+
+- os mapas confirmam a necessidade de representar a multidimensionalidade da experiência;
+- a Árvore do EIXO é o principal candidato a metáfora visual central, após reconstrução;
+- os Campos de Integração são candidatos a mapa das dimensões, não a sequência curricular;
+- o Caminho da Semente preserva o horizonte espiritual e de contribuição, sem estatuto canônico;
+- o modelo do TCC é a fonte-base candidata para a família neurobiológico-relacional, dependente de conferência textual e bibliográfica;
+- a Arquitetura Viva e o modelo neurobiológico-relacional versão 2 tornam os três Eus uma hipótese relevante de investigação funcional.
+
+**Limite aprovado:** nenhum mapa atual constitui sozinho a arquitetura do Método ou do curso. Quase todos omitem a Tradução como operador explícito, tratam o percurso de modo excessivamente linear ou aproximam linguagens de estatutos diferentes sem legenda epistemológica.
+
+**Consequência:** uma síntese futura deverá distinguir ao menos três funções: mapa da multidimensionalidade; mapa canônico da circularidade EIXO–Tradução–reorganização; e mapa do horizonte progressivo de integração, Essência, expressão e contribuição. Os modelos neurobiológico-relacionais permanecem em matriz de fundamentação separada.
+
 ## 10. Princípios pedagógicos do curso
 
 ### Princípios preliminares derivados do projeto e do protocolo
@@ -523,6 +540,7 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 | Reconhecer linguagens energéticas e investigar possíveis correlatos sem equivalência automática | APROVADO — MÉTODO | 2026-07-18 | Sessão 2A | Permite tradução entre campos com limites epistemológicos | Auditoria de fundamentação |
 | Preservar os quatro movimentos como ativo estrutural em desenvolvimento | APROVADO — MÉTODO/PROJETO | 2026-07-18 | Sessão 2A | Autoriza integração, correlação, ampliação e fundamentação sem antecipar currículo | Auditoria das seis fases |
 | Tratar a vivência do Self ou Essência como horizonte favorecido, não consequência universal | APROVADO — MÉTODO | 2026-07-18 | Sessão 2A | Preserva espiritualidade não dogmática e autoria do participante | Revisão formal da arquitetura canônica |
+| Tratar os 11 mapas como patrimônio visual diferenciado por função, sem canonização automática | APROVADO — PROJETO/MÉTODO/CURSO | 2026-07-18 | Auditoria do lote de mapas | Preserva multidimensionalidade, metáforas e hipóteses sem transformar proximidade visual em equivalência científica | Matriz de Autoridade dos Mapas |
 
 ## 14. Hipóteses e propostas em avaliação
 
@@ -597,6 +615,7 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 | 0.4 | 2026-07-18 | Aprovação da definição nuclear, cláusula de horizonte e localização operacional das não promessas | Sessão 2A |
 | 0.5 | 2026-07-18 | Aprovação da competência ampliada, capacidade de retorno, multidimensionalidade, quatro movimentos e critério de aprendizagem | Sessão 2A |
 | 0.6 | 2026-07-18 | Aprovação da natureza funcional do EIXO, tratamento das linguagens energéticas e preservação dos quatro movimentos | Sessão 2A |
+| 0.7 | 2026-07-18 | Registro e auditoria dos 11 mapas conceituais; definição de suas funções, limites e consequências arquitetônicas | Auditoria do patrimônio visual |
 
 ---
 
