@@ -3,8 +3,9 @@ tipo: auditoria-mapas-conceituais
 projeto: Traduzindo o Ser Humano
 metodo: Método EIXO
 lote: 2026-07-18
-status: parcial-aguardando-arquivos-integros
+status: concluida-provisoriamente
 criado_em: 2026-07-18
+atualizado_em: 2026-07-18
 autor: Fabiano Deliberalli
 tags:
   - mapas-conceituais
@@ -15,162 +16,100 @@ tags:
 
 # Auditoria do Lote de Mapas — 2026-07-18
 
-## Escopo
+## Escopo e estatuto
 
-Foram recebidos dez mapas. Quatro permaneceram visíveis na conversa; as dez cópias locais chegaram truncadas e seis não puderam ser renderizadas. Esta auditoria é provisória e não substitui a avaliação integral após reenvio.
+O ZIP íntegro contém 11 mapas. Todos foram lidos, preservados em PNG, convertidos em PDF e descritos em fichas. A auditoria avalia contribuição para a construção do Método e do curso; não valida cientificamente as afirmações nem canoniza os modelos.
 
-## Critério atual
-
-A avaliação considera a formulação estrutural:
+## Critério estrutural
 
 > Algum EIXO favorece a tradução; traduzir pode fortalecer o EIXO.
 
-Tradução e reorganização formam uma relação circular aplicável a experiências humanas relacionais, corporais, afetivas, espirituais, biográficas e cotidianas.
+A Tradução torna a experiência legível; o EIXO sustenta presença possível, discernimento, orientação e retorno; a reorganização resultante pode fortalecer novas traduções. Integração, expressão e contribuição pertencem ao desenvolvimento progressivo, não a uma cadeia automática.
 
-## Diagnóstico transversal dos quatro mapas visíveis
+## Resultado principal
 
-Os quatro mapas possuem alto valor de exploração visual e forte convergência em torno de:
+O lote possui grande valor patrimonial, mas não representa uma arquitetura única. Ele reúne quatro famílias que respondem a perguntas diferentes:
 
-- centro;
-- corpo e regulação;
-- presença;
-- observação;
-- integração;
-- expressão;
-- contribuição;
-- Essência.
+| Família | Pergunta respondida | Mapas principais | Uso atual |
+|---|---|---|---|
+| Multidimensionalidade | Em quais campos a experiência se manifesta? | Campo de Integração 1 e 2 | candidato pedagógico após revisão |
+| Jornada e horizonte | Em que direção existencial e espiritual o percurso pode favorecer desenvolvimento? | Caminho da Semente | metáfora não dogmática |
+| Sustentação e expressão | Como visualizar fundação, EIXO e expressão? | Árvore do EIXO | melhor candidato à metáfora central |
+| Neurobiologia, relação e espiritualidade | Como organizar níveis e hipóteses sem reduzi-los entre si? | TCC e versões 1–4; Arquitetura Viva | pesquisa e fundamentação, não currículo direto |
 
-Entretanto, apresentam uma lacuna comum: a Tradução da Experiência Humana não aparece como operador explícito. A jornada tende a ser representada como progressão linear entre regulação, presença, observação, integração e expressão. A arquitetura atual indica um processo mais circular: algum EIXO permite traduzir; a tradução reorganiza; a reorganização fortalece EIXO; novos níveis de experiência tornam-se legíveis e habitáveis.
+## Contribuição efetiva para o projeto
 
-## Mapa 01 — O Campo de Integração Humana
+### 1. Confirmação da multidimensionalidade
 
-### Contribuição
+Os mapas mostram que a experiência precisa ser lida em campos corporais, afetivos, narrativos, relacionais, atencionais, existenciais e espirituais. Isso converge com o projeto. Porém, os campos não devem ser confundidos com fases, práticas ou resultados.
 
-Representa a multidimensionalidade como campos interdependentes organizados em torno de um centro. É o mapa mais útil para demonstrar simultaneidade e influência recíproca entre corpo, emoções, história, sentido, relações e contribuição.
+### 2. Presença de um horizonte espiritual coerente
 
-### Potencial
+Essência, verdadeiro Eu, orientação, expressão e contribuição aparecem reiteradamente. Essa convergência apoia o horizonte espiritual não dogmático já aprovado. Não autoriza tratar Essência como destino obrigatório, entidade comprovada ou resultado do curso.
 
-- mapa de campos ou dimensões;
-- explicação da multidimensionalidade;
-- apoio à compreensão de que o processo não ocorre em uma única camada.
+### 3. Emergência dos três Eus como hipótese relevante
 
-### Revisões necessárias
+A Arquitetura Viva e as versões neurobiológico-relacionais sugerem uma organização funcional: Eu Básico como sensibilidade/sustentação, Eu Médio como mediação/simbolização/regulação e Eu Superior como orientação emergente. Há potencial, sobretudo na versão 2, mas o conjunto ainda necessita genealogia, definições, critérios fenomenológicos e confronto com a formulação canônica do EIXO.
 
-- substituir “tudo se organiza a partir do centro” por formulação menos determinista;
-- evitar que EIXO estável implique harmonização automática de todas as áreas;
-- inserir Tradução como função que torna os campos legíveis;
-- diferenciar campos da experiência, capacidades e resultados;
-- retirar promessas de liberdade, clareza ou integração como efeitos necessários.
+### 4. Uma base acadêmica mais prudente
 
-### Estatuto provisório
+O mapa identificado como TCC é o mais disciplinado ao distinguir níveis fenomenológico, psicológico-relacional e neurobiológico-relacional. Ele deve orientar a auditoria das versões posteriores, desde que lido com o texto integral e suas referências.
 
-**Candidato forte a mapa da multidimensionalidade**, sujeito a revisão conceitual.
+### 5. Evidência da lacuna da Tradução
 
-## Mapa 02 — O Caminho da Semente
+Quase todos os mapas descrevem regulação, presença, observação, integração e expressão, mas não representam explicitamente a Tradução da Experiência Humana. A Arquitetura Viva menciona mediação e Tradução, porém ainda dentro de um esquema altamente metafórico. Esta lacuna confirma que uma futura síntese não deve simplesmente escolher um mapa atual: precisará tornar visível a circularidade EIXO–Tradução–reorganização.
 
-### Contribuição
+## Limites transversais
 
-Organiza uma jornada vertical entre caos, regulação, presença, observação, integração, soberania, Essência, expressão e contribuição. Expressa claramente o horizonte espiritual do projeto.
+- progressões verticais parecem lineares e irreversíveis;
+- centro ou EIXO é frequentemente tratado como estado estável, e não capacidade de reconhecer afastamento e retornar;
+- integração aparece cedo demais como etapa ou efeito garantido;
+- cura, trauma, dissociação e desorganização são usados sem delimitação educacional;
+- neurociência, psicoterapia, tradição energética e espiritualidade aparecem próximas sem legenda de estatuto;
+- metáforas visuais fortes podem converter hipóteses em aparente descrição objetiva;
+- reparação, consequências relacionais e transferência para a vida quase não aparecem.
 
-### Potencial
+## Decisões por mapa
 
-- metáfora do desenvolvimento;
-- visualização do horizonte Essência–expressão–contribuição;
-- possível mapa narrativo da jornada completa.
+| Mapa | Decisão atual |
+|---|---|
+| Árvore do EIXO | priorizar como metáfora central, após reconstrução |
+| Arquitetura Viva | preservar como hipótese dos três Eus e da Tradução |
+| Campo de Integração | desenvolver como mapa da multidimensionalidade |
+| Campo de Integração 2 | fundir criticamente com a versão ampliada |
+| Mapa da Integração Humana | manter como inventário interno; não publicar |
+| Modelo TCC | usar como fonte-base após conferência acadêmica |
+| Modelo versão 1 | preservar como hipótese exploratória |
+| Modelo versão 2 | priorizar como candidato funcional dos três Eus |
+| Modelo versão 3 | comparar e possivelmente fundir com versão 2 |
+| Modelo versão 4 | preservar como síntese gráfica; definir ressonância estrutural |
+| Caminho da Semente | preservar como narrativa do horizonte espiritual |
 
-### Revisões necessárias
+## Consequência para a arquitetura do curso
 
-- não apresentar Essência como destino obrigatório ou universal;
-- substituir “permanecer conectado consigo mesmo mesmo em meio ao caos” por capacidade de reconhecer o afastamento e retornar;
-- evitar definir o público como pessoas “frequentemente traumatizadas”;
-- inserir Tradução entre presença, observação e organização;
-- examinar se soberania é fase, capacidade, resultado ou princípio;
-- não tratar a progressão como linear e irreversível.
+Os mapas ampliam o patrimônio, mas não justificam desbloquear módulos. Eles oferecem insumos para três documentos futuros:
 
-### Estatuto provisório
+1. **Mapa da Multidimensionalidade da Experiência** — campos do vivido, sem sequência curricular;
+2. **Mapa Canônico EIXO–Tradução** — função dinâmica, circularidade, retorno, escolha e reparação;
+3. **Mapa do Horizonte de Integração e Expressão** — Essência e contribuição como possibilidades progressivas.
 
-**Mapa espiritual-narrativo candidato**, não canônico.
+Os modelos neurobiológico-relacionais deverão alimentar uma matriz de fundamentação separada, não o mapa didático principal.
 
-## Mapa 03 — A Árvore do EIXO
+## Próxima decisão de método
 
-### Contribuição
+Antes da matriz quatro movimentos × seis fases × Jornada Fenomenológica, realizar uma sessão curta de **Matriz de Autoridade dos Mapas**, com quatro tarefas:
 
-É a metáfora visual mais forte do lote visível. Raízes, tronco e copa comunicam fundação, sustentação, integração e expressão.
+1. localizar a origem dos três Eus e de ressonância/estabilidade estrutural;
+2. confrontar o modelo TCC com suas fontes completas;
+3. separar, em cada mapa, descrição, metáfora, tradição, hipótese e evidência;
+4. definir quais conceitos chegam à matriz do Método e quais permanecem apenas como patrimônio.
 
-### Potencial
+## Portão de validação
 
-- metáfora central do Método;
-- mapa de comunicação pública;
-- representação da relação entre segurança, desenvolvimento e expressão.
+A auditoria estará madura quando for possível afirmar, para cada elemento visual:
 
-### Revisões necessárias
-
-- o mapa coloca EIXO depois da integração; a arquitetura atual indica que EIXO favorece integração e também se fortalece por ela;
-- substituir centro interno estável por função dinâmica de orientação;
-- retirar linguagem de “cura de feridas” como resultado do curso;
-- evitar “quando o EIXO está forte, a vida flui” como promessa;
-- inserir Tradução como circulação entre raízes, tronco e copa;
-- representar retorno e reparação, não somente crescimento ascendente.
-
-### Estatuto provisório
-
-**Melhor candidato a metáfora visual central**, exigindo reconstrução conceitual.
-
-## Mapa 04 — Mapa da Integração Humana
-
-### Contribuição
-
-É o mapa mais abrangente. Reúne ciclo de desenvolvimento, centros energéticos, Medicina Tradicional Chinesa, neurociência, psicoterapia, espiritualidade e níveis corporal, psicológico, neurobiológico e relacional.
-
-### Potencial
-
-- mapa de patrimônio e correlações;
-- instrumento interno de pesquisa;
-- inventário de campos que sustentam o projeto.
-
-### Revisões necessárias
-
-- separar correspondência simbólica, tradição, hipótese e evidência científica;
-- não alinhar chakras, Tan Tien, redes neurais e processos psicológicos como equivalentes diretos;
-- revisar termos como cura, transcendência, autointegração e energia/fisiologia;
-- reduzir densidade para uso pedagógico;
-- identificar fontes de cada correlação;
-- não utilizar como mapa público ou curricular antes de auditoria epistemológica específica.
-
-### Estatuto provisório
-
-**Mapa exploratório de correlações**, indicado para patrimônio interno, não para canonização atual.
-
-## Conclusão provisória
-
-Os quatro mapas não devem ser descartados nem validados integralmente. Eles representam diferentes funções:
-
-1. Campo de Integração Humana — multidimensionalidade;
-2. Caminho da Semente — jornada espiritual;
-3. Árvore do EIXO — metáfora organizadora;
-4. Mapa da Integração Humana — inventário de correlações.
-
-A arquitetura futura não deverá fundi-los automaticamente em um único mapa. Cada um responde a uma pergunta diferente.
-
-## Hipótese visual emergente
-
-O mapa canônico do Método deverá representar pelo menos dois movimentos circulares:
-
-- EIXO oferece presença, sustentação, orientação e possibilidade de retorno;
-- Tradução diferencia, nomeia e torna a experiência legível;
-- a experiência traduzida pode reorganizar a pessoa;
-- a reorganização pode fortalecer o EIXO;
-- um EIXO fortalecido permite nova profundidade de tradução.
-
-Integração e expressão aparecem como resultados progressivos dessa circulação, não como consequências automáticas.
-
-## Pendência
-
-Reenviar os dez mapas em ZIP ou PDF para:
-
-- preservar os originais;
-- extrair títulos e textos dos mapas 05–10;
-- completar a auditoria comparativa;
-- criar fichas individuais;
-- decidir preservação, revisão, fusão ou descarte;
-- atualizar o índice e o Dossiê.
+- que tipo de afirmação ele faz;
+- em qual documento superior se apoia;
+- que função pedagógica desempenha;
+- que risco ético ou epistemológico apresenta;
+- se será preservado, revisado, fundido, fundamentado ou descartado.

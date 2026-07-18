@@ -1,7 +1,7 @@
 ---
 tipo: indice-mapas-conceituais
 projeto: Traduzindo o Ser Humano
-status: em-implantacao
+status: ativo
 criado_em: 2026-07-18
 atualizado_em: 2026-07-18
 autor: Fabiano Deliberalli
@@ -16,53 +16,62 @@ tags:
 
 ## Função
 
-Esta pasta preserva mapas, diagramas e modelos visuais do projeto Traduzindo o Ser Humano e do Método EIXO.
+Esta pasta preserva mapas, diagramas e modelos visuais do Traduzindo o Ser Humano e do Método EIXO. A inclusão registra patrimônio; não equivale a validação canônica, científica, pedagógica ou curricular.
 
-Os mapas são patrimônio visual em desenvolvimento. Sua presença nesta pasta não equivale a validação canônica, científica, pedagógica ou curricular.
+## Organização permanente
 
-## Regras de ingestão
+- **Originais/AAAA-MM-DD:** PNGs recebidos, sem substituição;
+- **PDF/AAAA-MM-DD:** cópias portáteis verificadas;
+- **Fichas:** descrição, contribuição, limites, estatuto e decisão;
+- **auditoria do lote:** leitura comparativa e consequências para o projeto.
 
-Cada mapa deverá possuir:
+Cada revisão gráfica ou conceitual deverá receber novo arquivo e nova versão. O original permanece intacto.
 
-- arquivo original preservado;
-- título identificável;
-- origem e data de entrada;
-- estatuto: bruto, candidato, parcialmente validado, aprovado ou histórico;
-- conceitos relacionados;
-- contribuição potencial;
-- limites e pendências;
-- versão revisada separada do original.
+## Lote 2026-07-18
 
-Mapas visuais não substituem documentos conceituais ou decisões registradas.
+Foram preservados **11 mapas**, cada um em PNG e PDF, acompanhados de ficha individual.
 
-## Lote 2026-07-18 — pendente de reenvio íntegro
-
-Os dez anexos foram recebidos no chat, mas as cópias locais chegaram truncadas. Os arquivos originais não foram gravados para evitar corrupção documental.
-
-| Nº | Título ou identificação provisória | Arquivo recebido | Estado |
+| Nº | Ficha | Função provável | Estatuto atual |
 |---|---|---|---|
-| 01 | O Campo de Integração Humana | fa68b525-f77e-426f-a21a-c7e19e8f2741.png | visível no chat; reenvio íntegro pendente |
-| 02 | O Caminho da Semente | c7b786b8-3113-4152-a056-ac18d7ba3a3b.png | visível no chat; reenvio íntegro pendente |
-| 03 | A Árvore do EIXO | abcaecad-ab94-4740-972f-def072e70213.png | visível no chat; reenvio íntegro pendente |
-| 04 | Mapa da Integração Humana | a25ebd35-06d4-4d41-9796-0441fc0ff5a1.png | visível no chat; reenvio íntegro pendente |
-| 05 | Título a extrair após reenvio | 92fe86e3-e736-43dd-9ec8-4735293178be.png | arquivo truncado |
-| 06 | Título a extrair após reenvio | 00b53c70-04f6-4045-a30e-31e87940a58e.png | arquivo truncado |
-| 07 | Título a extrair após reenvio | b8bfcc46-3d90-4ea8-b2d5-d7f5f2186fe6.png | arquivo truncado |
-| 08 | Título a extrair após reenvio | ac39ea19-ed8c-4e55-9061-2df8776ff363.png | arquivo truncado |
-| 09 | Título a extrair após reenvio | f54ffecb-f661-4006-91d6-0131faa1203d.png | arquivo truncado |
-| 10 | Título a extrair após reenvio | 35a1d1d5-bf33-4449-894a-b3c6b407e7ce.png | arquivo truncado |
+| 01 | [[01 - A Árvore do EIXO]] | metáfora visual do Método | candidato forte — reconstrução conceitual necessária |
+| 02 | [[02 - Arquitetura Viva da Consciência Humana]] | hipótese de arquitetura funcional e espiritual | patrimônio conceitual — não canônico |
+| 03 | [[03 - O Campo de Integração Humana]] | mapa ampliado da multidimensionalidade | candidato forte — revisão necessária |
+| 04 | [[04 - O Campo de Integração Humana — versão 2]] | síntese visual do campo multidimensional | derivação candidata — possível fusão |
+| 05 | [[05 - Mapa da Integração Humana]] | inventário interno de correlações | exploratório — não usar publicamente |
+| 06 | [[06 - Modelo Neurobiológico-Relacional da Espiritualidade — TCC]] | mapa acadêmico de níveis correlacionados | fonte-base candidata — exige conferência do TCC |
+| 07 | [[07 - Modelo Neurobiológico-Relacional da Espiritualidade — versão 1]] | ponte especulativa entre três Eus e níveis de experiência | hipótese exploratória — não curricular |
+| 08 | [[08 - Modelo Neurobiológico-Relacional da Espiritualidade — versão 2]] | arquitetura funcional dos três Eus | candidato de desenvolvimento — não canônico |
+| 09 | [[09 - Modelo Neurobiológico-Relacional da Espiritualidade — versão 3]] | variante da arquitetura funcional dos três Eus | derivação de pesquisa — possível fusão |
+| 10 | [[10 - Modelo Neurobiológico-Relacional da Espiritualidade — versão 4]] | síntese visual dos níveis e da estabilidade | derivação simplificada — conceito indefinido |
+| 11 | [[11 - O Caminho da Semente]] | mapa narrativo do horizonte espiritual | candidato narrativo — não canônico |
 
-## Relações estruturantes em avaliação
+Ver também: [[01 - Auditoria do Lote 2026-07-18]].
 
-- [[Tradução da Experiência Humana]]
-- [[EIXO Integrador]]
-- [[Transformação e Integração]]
-- [[Modelo dos Sete Níveis da Experiência]]
-- quatro movimentos funcionais do Método EIXO;
+## Regra epistemológica
+
+Toda correlação deverá ser classificada como uma destas categorias:
+
+1. descrição fenomenológica;
+2. construção pedagógica ou funcional;
+3. metáfora;
+4. referência tradicional;
+5. hipótese explicativa;
+6. correlação científica apoiada em fonte;
+7. decisão canônica do projeto.
+
+A proximidade visual entre elementos não autoriza equivalência causal, ontológica ou científica.
+
+## Relações estruturantes
+
+- [[Tradução da Experiência Humana]];
+- [[EIXO Integrador]];
+- [[Transformação e Integração]];
+- [[Modelo dos Sete Níveis da Experiência]];
+- quatro movimentos funcionais;
 - seis fases do Método EIXO;
 - Jornada Fenomenológica;
 - multidimensionalidade da experiência.
 
-## Regra de revisão
+## Regra de uso curricular
 
-O original nunca será substituído. Revisões conceituais ou gráficas deverão receber novo arquivo, versão e ficha de avaliação.
+Nenhum mapa entra no curso apenas por abrangência ou beleza. Ele deverá demonstrar necessidade pedagógica, clareza epistemológica, compatibilidade com o Método e adequação ao público e ao nível de profundidade da oferta.

@@ -1,15 +1,10 @@
-# Originais dos Mapas Conceituais
+# Originais dos mapas conceituais
 
-Esta pasta receberá os arquivos visuais originais dos mapas.
+Os arquivos desta pasta são patrimônio visual preservado. Não devem ser sobrescritos.
 
-## Regra
+- cada lote fica em subpasta datada;
+- correções geram nova versão;
+- presença no vault não significa aprovação conceitual;
+- fichas e PDFs correspondentes ficam nas pastas próprias.
 
-- preservar o arquivo recebido sem alterações;
-- não sobrescrever originais;
-- usar nomes descritivos e versionados;
-- criar revisões em pasta separada;
-- registrar no índice o estatuto conceitual de cada versão.
-
-## Situação atual
-
-Ingestão do lote de 2026-07-18 pendente de reenvio íntegro dos dez arquivos.
+Lote atual: [[80 - Mapas Conceituais/00 - Índice dos Mapas Conceituais#Lote 2026-07-18|2026-07-18]].
