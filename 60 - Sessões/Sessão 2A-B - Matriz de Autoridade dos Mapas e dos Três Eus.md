@@ -4,7 +4,7 @@ projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 fase: "Fase 2 — Posicionamento institucional e natureza da oferta"
 sessao: "2A-B — Matriz de Autoridade dos Mapas e dos Três Eus"
-status: autoridade-dos-tres-eus-concluida
+status: mapa-transversal-aprovado-proxima-distincao-aberta
 criado_em: 2026-07-18
 atualizado_em: 2026-07-18
 autor: Fabiano Deliberalli
@@ -188,19 +188,48 @@ Ver [[Três Eus, Jung e Rede Tripartite]].
 
 A arquitetura futura não usará as equivalências Eu Básico = SN, Eu Médio = FPN ou Eu Superior = DMN. Cada lente envolve coordenação distribuída e níveis explicativos distintos.
 
-## Próximo bloco — Distinção ontológica e funcional
+## Bloco D — Inserção transversal aprovada
 
-A sessão prossegue pela diferenciação entre:
+### Deliberação
 
-- EIXO;
-- Eu Médio;
-- Eu Superior;
-- Self;
-- Essência;
-- Alma.
+Os Três Eus são aprovados como [[Mapa Funcional Transversal dos Três Eus]] no projeto Traduzindo o Ser Humano.
 
-O primeiro critério será distinguir **função de orientação**, **função de mediação**, **totalidade psíquica**, **horizonte essencial** e **linguagem espiritual-experiencial**.
+Essa aprovação não os converte em núcleo canônico do Método EIXO. O mapa permanece:
 
-## Questão autoral encerrada
+- transversal às funções mobilizadas no percurso;
+- subordinado à experiência, à presença e à Tradução;
+- independente dos quatro movimentos, das seis fases e da Jornada Fenomenológica;
+- candidato à arquitetura global e não automaticamente à primeira oferta;
+- sujeito a necessidade pedagógica, salvaguardas epistemológicas e teste de removibilidade.
 
-A genealogia dos três Eus foi confirmada. A pendência atual não é mais sua origem, mas sua diferenciação funcional e a decisão de necessidade pedagógica.
+### Teste de removibilidade
+
+O Método deverá conservar definição, práticas essenciais, progressão e indicadores de aprendizagem sem os nomes Eu Básico, Eu Médio e Eu Superior. Os termos acrescentam legibilidade; não constituem a infraestrutura indispensável do EIXO.
+
+### Matriz futura registrada
+
+Foi aberta, mas não preenchida, a futura **Matriz de Inserção Transversal**:
+
+> Três Eus × quatro movimentos × seis fases × tipos de prática × indicadores de aprendizagem.
+
+O preenchimento dependerá da distinção Self × Essência × Alma, da estabilização das seis fases e da confirmação final dos quatro movimentos.
+
+## Próximo bloco — Self × Essência × Alma
+
+A próxima tarefa obrigatória, antes de módulos e antes do preenchimento da matriz transversal, é verificar se:
+
+- Self, Essência e Alma descrevem realidades diferentes;
+- designam funções ou dimensões distintas;
+- pertencem a tradições e níveis de linguagem diferentes;
+- ou constituem perspectivas complementares do mesmo horizonte espiritual.
+
+A análise confrontará cada termo com Eu Superior, EIXO, experiência vivida, totalidade psíquica, orientação existencial e cláusula de horizonte espiritual não dogmático.
+
+## Questões já encerradas
+
+- genealogia dos Três Eus: confirmada;
+- autoridade geral: concluída;
+- posição no projeto: Mapa Funcional Transversal aprovado;
+- posição no Método: não canônica;
+- dependência do Método: recusada pelo teste de removibilidade;
+- matriz transversal: registrada como artefato futuro.
