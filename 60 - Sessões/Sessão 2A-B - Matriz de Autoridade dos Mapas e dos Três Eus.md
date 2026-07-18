@@ -4,7 +4,7 @@ projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 fase: "Fase 2 — Posicionamento institucional e natureza da oferta"
 sessao: "2A-B — Matriz de Autoridade dos Mapas e dos Três Eus"
-status: em-andamento
+status: autoridade-dos-tres-eus-concluida
 criado_em: 2026-07-18
 atualizado_em: 2026-07-18
 autor: Fabiano Deliberalli
@@ -152,6 +152,55 @@ Antes de inserir os três Eus na matriz integral, são necessárias:
 5. matriz de fontes para alegações neurobiológicas;
 6. decisão se os três Eus são necessários à aprendizagem do primeiro curso.
 
-## Próxima pergunta autoral
+## Bloco C — Genealogia confirmada e confronto com o TCC
 
-A formulação dos três Eus em [[Arquitetura Invisível]] foi criada de modo independente ou deriva conscientemente de Huna/Max Freedom Long, Serge Kahili King ou outra tradição específica?
+### Resposta autoral
+
+Fabiano confirmou que a nomenclatura deriva conscientemente de Max Freedom Long/Huna e de Serge Kahili King e foi posteriormente reelaborada como síntese entre psicanálise, hipnose, constituição energética do ser, Psicologia Transpessoal, experiência clínica e experiência pessoal.
+
+O estatuto deixa de ser “genealogia desconhecida” e passa a ser **síntese funcional autoral com genealogia declarada**.
+
+### Contribuição do TCC de Neurociências
+
+A seção que articula Jung e Rede Tripartite sustenta:
+
+- consciência reflexiva e ponto de apoio diante de conteúdos intensos;
+- DMN como participante de autorreferência, memória, imaginação, narrativa e mentalização;
+- Rede de Saliência como participante de interocepção, atribuição de relevância e comutação;
+- FPN como participante de monitoramento, metacognição e organização reflexiva;
+- integração como coordenação dinâmica entre redes, corpo, relação e contexto.
+
+O TCC preserva corretamente o estatuto de analogia heurística e correspondência funcional. Não demonstra três Eus, não autoriza equivalências diretas entre Eus e redes e não fornece correlato específico para Eu Superior ou Essência.
+
+Ver [[Três Eus, Jung e Rede Tripartite]].
+
+### Decisão de autoridade concluída
+
+> Os três Eus constituem modelo funcional autoral em desenvolvimento, com genealogia espiritual moderna declarada, uso clínico-reflexivo acumulado e plausibilidade interdisciplinar parcial, sem validação científica direta.
+
+- **Traduzindo o Ser Humano:** autorizado como mapa tradutivo autoral;
+- **Método EIXO:** patrimônio candidato, ainda não canônico;
+- **curso:** recurso pedagógico candidato, dependente de necessidade;
+- **neurociência:** correspondência heurística, não validação;
+- **espiritualidade:** linguagem de horizonte, não imposição ontológica.
+
+### Regra antirreducionista
+
+A arquitetura futura não usará as equivalências Eu Básico = SN, Eu Médio = FPN ou Eu Superior = DMN. Cada lente envolve coordenação distribuída e níveis explicativos distintos.
+
+## Próximo bloco — Distinção ontológica e funcional
+
+A sessão prossegue pela diferenciação entre:
+
+- EIXO;
+- Eu Médio;
+- Eu Superior;
+- Self;
+- Essência;
+- Alma.
+
+O primeiro critério será distinguir **função de orientação**, **função de mediação**, **totalidade psíquica**, **horizonte essencial** e **linguagem espiritual-experiencial**.
+
+## Questão autoral encerrada
+
+A genealogia dos três Eus foi confirmada. A pendência atual não é mais sua origem, mas sua diferenciação funcional e a decisão de necessidade pedagógica.
