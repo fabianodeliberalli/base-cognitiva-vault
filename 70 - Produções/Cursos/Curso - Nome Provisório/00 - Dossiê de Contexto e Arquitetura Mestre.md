@@ -2,10 +2,10 @@
 tipo: dossie-contexto-curso
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
-status: fase-1-concluida
+status: fase-2-em-andamento
 estado_maturidade: identidade-inicial-definida
 fase_atual: "Fase 2 — Posicionamento institucional e natureza da oferta"
-versao: "0.2"
+versao: "0.3"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-17
 atualizado_em: 2026-07-18
@@ -19,7 +19,7 @@ tags:
 
 # Dossiê de Contexto — Curso [nome provisório]
 
-**Versão:** 0.2  
+**Versão:** 0.3  
 **Estado de maturidade:** identidade inicial definida  
 **Fases concluídas:** Fase 0 — Abertura e governança; Fase 1 — Gênese, identidade e problema humano  
 **Fase autorizada:** Fase 2 — Posicionamento institucional e natureza da oferta
@@ -30,7 +30,7 @@ tags:
 
 - **Código do curso:** a definir;
 - **Nome atual:** Curso [nome provisório];
-- **Versão do Dossiê:** 0.2;
+- **Versão do Dossiê:** 0.3;
 - **Status documental:** documento evolutivo;
 - **Estado de maturidade:** identidade inicial definida;
 - **Data de criação:** 2026-07-17;
@@ -71,11 +71,11 @@ Passagem de um repertório predominantemente compreendido ou narrado para uma ca
 
 ### Função no ecossistema
 
-**EM DELIBERAÇÃO NA FASE 2.** A hipótese principal é que seja um curso-base de Tradução da Experiência Humana e Fundamentos do EIXO. Ainda deverá ser decidido se sua função institucional será preparação, ponte, iniciação estruturada ou oferta autônoma relacionada ao Método EIXO.
+O novo curso será definido como a **primeira expressão pedagógica e comercial derivada da arquitetura integral do Método EIXO**. Seu recorte, profundidade, duração e formato somente serão decididos depois que o percurso completo do Método estiver visível.
 
 ### Relação com o Método EIXO
 
-O curso poderá mobilizar fundamentos de presença, observação, regulação, discernimento e espaço entre impulso e resposta, mas não está autorizado a entregar ou representar integralmente o Método EIXO.
+A arquitetura integral e evolutiva do Método EIXO antecederá a arquitetura curricular da primeira oferta. O curso poderá percorrer todas as fases em profundidade inicial ou oferecer um recorte coerente, decisão que permanecerá aberta até a conclusão do mapa integral.
 
 ### Parecer de viabilidade
 
@@ -309,24 +309,23 @@ O Método EIXO não tem como finalidade apenas transmitir conhecimento. Sua fina
 
 O novo curso poderá utilizar fundamentos coerentes com o EIXO, mas não deverá representar ou antecipar integralmente o Método enquanto sua posição institucional não estiver aprovada.
 
-### 9.3. Hipótese principal da Fase 2
+### 9.3. Decisão estrutural da Fase 2
 
-**Curso-base de Tradução da Experiência Humana e Fundamentos do EIXO.**
+Antes de definir o recorte comercial da primeira oferta, será construída a arquitetura integral do Método EIXO. O primeiro curso será derivado dessa arquitetura e poderá percorrer o método completo em profundidade compatível com uma primeira implementação, permanecendo sujeito a revisão após o piloto.
 
-Contribuição possível:
+### 9.4. Distinção documental aprovada
 
-- a Tradução da Experiência Humana oferece linguagem e diferenciação;
-- fundamentos do EIXO introduzem presença, observação, regulação e discernimento;
-- o Método EIXO permanece como percurso estruturado de competência incorporada.
+- **Arquitetura Canônica do Método EIXO:** competência central, princípios, percurso, fases, progressão, limites, resultados e continuidade;
+- **Dossiê e Arquitetura Mestre do Curso:** tradução pedagógica e comercial do Método para público, formato, duração, currículo, práticas, avaliação e implementação;
+- **Primeira turma:** aplicação piloto da arquitetura aprovada, com coleta de evidências pedagógicas e revisão posterior.
 
-### 9.4. Alternativas que precisam ser comparadas
+A estruturação integral não obriga que todo o Método seja oferecido com a mesma profundidade na primeira turma e não autoriza acumulação indiscriminada de patrimônio intelectual.
 
-- curso preparatório para o Método EIXO;
-- curso-ponte entre Conteúdo Aberto e Método EIXO;
-- iniciação estruturada que integra tradução e fundamentos do EIXO;
-- oferta autônoma relacionada ao ecossistema, mas não dependente do Método.
+### 9.5. Regra de necessidade
 
-### 9.5. Dimensões candidatas, não canônicas
+Cada conteúdo candidato deverá responder: **sem este elemento, a pessoa consegue percorrer adequadamente esta etapa do Método?** Se a resposta for positiva, o conteúdo deverá ser classificado como aprofundamento, apoio, exemplo, material do Laboratório, material da Imersão ou patrimônio não curricular.
+
+### 9.6. Dimensões candidatas, não canônicas
 
 - corporal;
 - afetiva;
@@ -428,12 +427,16 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 | Separar explicitamente educação, psicoterapia e orientação espiritual | APROVADO — CURSO | 2026-07-18 | Avaliação ética da Fase 1 | Define limites de conteúdo e prática | Não aplicável sem revisão ética |
 | Tratar o EIXO como método autoral, sem alegação atual de validação científica | APROVADO — CURSO | 2026-07-18 | Avaliação ética e epistemológica | Regula linguagem pública e validação | Após pesquisa formal pertinente |
 | Concluir a Fase 1 e autorizar a Fase 2 | APROVADO — CURSO | 2026-07-18 | Encerramento da Fase 1 | Abre posicionamento e natureza da oferta | Retorno à fase anterior se surgir contradição estrutural |
+| Estruturar integralmente o Método EIXO antes de definir o recorte da primeira oferta | APROVADO — CURSO/MÉTODO | 2026-07-18 | Deliberação da Fase 2 | Separa arquitetura do método, arquitetura do curso e implementação piloto | Revisão após auditoria canônica ou piloto |
+| Derivar o primeiro curso da arquitetura integral e evolutiva do Método EIXO | APROVADO — CURSO | 2026-07-18 | Deliberação da Fase 2 | Impede que formato comercial anteceda a lógica formativa | Após visualização integral do percurso |
+| Tratar a primeira turma como implementação pedagógica revisável | APROVADO — CURSO | 2026-07-18 | Deliberação da Fase 2 | Autoriza lapidação posterior sem improvisação estrutural | Após avaliação da primeira turma |
 
 ## 14. Hipóteses e propostas em avaliação
 
 | Hipótese ou proposta | Origem | Contribuição possível | Risco | Momento de decisão |
 |---|---|---|---|---|
-| Curso-base de Tradução da Experiência Humana e Fundamentos do EIXO | Síntese da Fase 1 | Traduzir repertório e introduzir competências fundamentais sem duplicar o Método | Fronteira insuficiente com a Camada 2 ou 3 | Fase 2 |
+| Primeira oferta percorre todas as seis fases em profundidade inicial | Deliberação da Fase 2 | Preservar a totalidade do percurso na primeira implementação | Superficialidade ou duração incompatível | Após arquitetura integral |
+| Primeira oferta utiliza apenas um ciclo ou recorte do Método | Deliberação da Fase 2 | Calibrar segurança, duração e aprendizagem | Parecer apenas preparatória ou incompleta | Após arquitetura integral |
 | Curso como acelerador no eixo Canal → Curso → Comunidade | Apresentação de mentoria | Organizar função comercial e pública | Lógica comercial anteceder função pedagógica | Fase 2 |
 | Curso principal ao vivo e posteriormente hospedado | Mentoria com Camila | Possibilitar interação e consolidação digital | Gravação de manifestações pessoais e mistura entre aula e atendimento | Fases 2 e 7 |
 | Faixa de valor aproximada de R$ 997 | Mentoria com Camila | Posicionar como oferta principal | Preço definir artificialmente profundidade e promessa | Após transformação e formato |
@@ -448,11 +451,11 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 
 | Questão | Razão | Prioridade | Fase |
 |---|---|---|---|
-| Qual função institucional específica o curso cumprirá? | Evita sobreposição entre Workshop, Método e oferta autônoma | Alta | Fase 2 |
-| Qual é a natureza exata da oferta? | Define profundidade, acompanhamento e promessa | Alta | Fase 2 |
-| Qual público principal deve orientar a primeira edição? | Evita uma oferta excessivamente ampla | Alta | Fase 2 |
-| Qual competência nuclear é entregue sem antecipar o Método EIXO? | Define fronteira e valor formativo | Alta | Fase 2 |
-| O curso pressupõe continuidade no EIXO ou pode encerrar-se com autonomia? | Define posição e contrato | Alta | Fase 2 |
+| Quais formulações do Método EIXO são canônicas, consolidadas, propostas ou hipóteses? | Evita documentar material evolutivo como definição oficial | Alta | Fase 2 |
+| Qual é o percurso integral e necessário do Método? | Permite derivar o curso sem mutilação ou excesso | Alta | Fase 2 |
+| Quais são a competência nuclear, os princípios e os critérios de progressão? | Define a identidade metodológica | Alta | Fase 2 |
+| A primeira oferta percorrerá todas as fases ou um ciclo delimitado? | Define a natureza exata da oferta | Alta | Após mapa integral |
+| Qual público principal deve orientar a primeira edição? | Evita uma oferta excessivamente ampla | Alta | Após mapa integral |
 | Qual transformação é legítima e observável? | Define promessa e avaliação | Alta | Fase 3 |
 | Qual patrimônio é estritamente necessário? | Evita acúmulo indiscriminado | Média | Fase 4 |
 | Qual relação operacional terá com o EIXO? | Define profundidade e limites | Alta | Fase 5 |
@@ -497,30 +500,19 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 |---|---|---|---|
 | 0.1 | 2026-07-17 | Abertura do Dossiê, registro da governança e do patrimônio candidato | Conclusão da Fase 0 |
 | 0.2 | 2026-07-18 | Registro do problema humano, natureza educacional, público preliminar, limites éticos e hipóteses de posicionamento | Conclusão da Fase 1 |
+| 0.3 | 2026-07-18 | Decisão de estruturar integralmente o Método EIXO antes de derivar a primeira oferta | Fase 2 em andamento |
 
 ---
 
 ## 18. Próxima sessão
 
-### Sessão 2 — Posicionamento institucional e natureza da oferta
+### Sessão 2A — Núcleo canônico e arquitetura integral do Método EIXO
 
-- **Fase:** Fase 2;
-- **Objetivo único:** decidir qual função institucional este curso cumprirá no ecossistema e qual será a natureza exata da oferta;
-- **Documentos atualizados:** seções 1, 2, 3, 5, 9, 14 e 15 deste Dossiê;
-- **Entrada principal:** comparação entre quatro posições possíveis: preparação para o EIXO, ponte para o EIXO, iniciação estruturada ou oferta autônoma relacionada;
-- **Entregável:** declaração de posicionamento contendo função, público principal, competência nuclear, relação com o Método EIXO e limite de profundidade;
-- **Critério de encerramento:** ser possível explicar em um parágrafo por que o curso existe no ecossistema, o que entrega e o que deliberadamente não entrega;
-- **Bloqueio mantido:** não produzir nome definitivo, módulos, aulas, práticas ou promessa comercial antes da decisão de posicionamento.
-
-## 18. Próxima sessão
-
-### Sessão 1 — Gênese, identidade e problema humano
-
-- **Fase:** Fase 1;
-- **Objetivo único:** identificar qual experiência humana justifica a existência do curso;
-- **Documento atualizado:** seções 1, 2 e 4 deste Dossiê;
-- **Entradas necessárias:** motivação autoral, observações clínicas, pedagógicas, profissionais ou de público;
-- **Entregável:** primeira formulação da gênese, da experiência central, da linguagem insuficiente e da tese de tradução;
-- **Critério de encerramento:** completar coerentemente a formulação de saída da Fase 1;
-- **Bloqueio mantido:** não produzir nome definitivo, público, módulos, aulas ou práticas.
-
+- **Fase:** Fase 2 — Posicionamento institucional e natureza da oferta;
+- **Objetivo único:** separar o núcleo canônico já consolidado do Método EIXO das expansões, propostas anteriores e novas hipóteses;
+- **Documentos atualizados:** seções 3, 8, 9, 13, 14 e 15 deste Dossiê; posteriormente, documento mestre específico do Método;
+- **Entradas necessárias:** Constituição Filosófico-Pedagógica, Manual Institucional, documentos oficiais da Camada 3 – Método EIXO, Jornada Fenomenológica, Três Níveis de Aprendizagem e materiais históricos pertinentes;
+- **Entregável 1:** Matriz de Autoridade do Método EIXO;
+- **Entregável 2:** esqueleto da Arquitetura Canônica do Método EIXO;
+- **Critério de encerramento:** ser possível identificar, sem ambiguidade, o que já pertence ao Método, o que ainda está em construção e o que pertence apenas à primeira oferta;
+- **Bloqueio mantido:** não decidir módulos, aulas, carga horária, práticas específicas, preço ou promessa comercial antes da visualização do percurso integral.
