@@ -239,3 +239,17 @@ Ver [[Pedagogia das Distinções Experienciais]].
 - Matriz Integrada aberta em versão candidata 0.1.
 
 Ver [[Matriz Integrada - Quatro Movimentos, Seis Fases e Jornada Fenomenológica]].
+
+
+## Correção aprovada — Arquitetura global invariável
+
+**Data:** 2026-07-19.
+
+- Método, Jornada, curso, Workshop, Laboratório, Imersão e Comunidade preservam as mesmas formulações globais.
+- Nenhuma capacidade, fase ou posição da Jornada pertence exclusivamente a uma oferta.
+- As ofertas variam por recorte, profundidade, tempo, repetição, práticas, acompanhamento e suporte.
+- Estabilizar descreve o amadurecimento longitudinal da competência EIXO.
+- Encarnar descreve incorporação progressiva na vida.
+- Ambos podem emergir em qualquer contexto e não são produzidos ou garantidos por um formato.
+
+Ver [[Princípio da Arquitetura Global Invariante]] e [[Matriz Integrada - Quatro Movimentos, Seis Fases e Jornada Fenomenológica]].
