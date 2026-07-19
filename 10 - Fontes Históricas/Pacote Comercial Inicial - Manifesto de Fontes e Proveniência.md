@@ -62,3 +62,30 @@ Nenhum tópico entra no curso apenas por estar presente em uma fonte histórica.
 - [[Sessão 2A-D - Auditoria das Seis Fases e dos Quatro Movimentos]]
 - [[Dossiê de Contexto e Arquitetura Mestre]]
 - [[01 - Auditoria do Lote 2026-07-18]]
+
+
+## Anexos originais pendentes de inclusão no vault
+
+### Pasta sugerida
+
+`90 - Anexos/Fontes Históricas/Pacote Comercial Inicial/`
+
+### Lista operacional
+
+| Nome padronizado no vault | Arquivo recebido correspondente | Link Obsidian a ativar depois da inclusão |
+|---|---|---|
+| Apresentação Mentoria - Traduzindo o Ser Humano.pptx | Apresentacao_Mentoria_Traduzindo_o_Ser_Humano(1).pptx | ![[90 - Anexos/Fontes Históricas/Pacote Comercial Inicial/Apresentação Mentoria - Traduzindo o Ser Humano.pptx]] |
+| Traduzindo o Ser Humano - Apresentação do Ecossistema.pptx | Traduzindo o Ser Humano(1).pptx | ![[90 - Anexos/Fontes Históricas/Pacote Comercial Inicial/Traduzindo o Ser Humano - Apresentação do Ecossistema.pptx]] |
+| Raio X Definitivo - Protoarquitetura Curricular.docx | raio X definitivo.docx | ![[90 - Anexos/Fontes Históricas/Pacote Comercial Inicial/Raio X Definitivo - Protoarquitetura Curricular.docx]] |
+| Raio X do Produto.docx | RAIO X DO PRODUTO.docx | ![[90 - Anexos/Fontes Históricas/Pacote Comercial Inicial/Raio X do Produto.docx]] |
+| Raio X do Workshop - Traduzindo o Ser Humano.docx | Raio_X_Workshop_Traduzindo_o_Ser_Humano_Level_Up.docx | ![[90 - Anexos/Fontes Históricas/Pacote Comercial Inicial/Raio X do Workshop - Traduzindo o Ser Humano.docx]] |
+
+### Procedimento posterior
+
+1. criar a pasta sugerida dentro do vault;
+2. copiar os cinco arquivos com os nomes padronizados;
+3. conferir os hashes registrados neste manifesto;
+4. substituir ou complementar as referências textuais pelas incorporações `![[...]]`;
+5. manter os arquivos originais sem correção silenciosa;
+6. registrar qualquer versão revisada com novo nome, data e estatuto.
+
