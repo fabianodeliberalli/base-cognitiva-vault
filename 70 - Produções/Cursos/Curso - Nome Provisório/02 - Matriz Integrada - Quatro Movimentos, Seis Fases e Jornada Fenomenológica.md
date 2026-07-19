@@ -3,8 +3,8 @@ tipo: matriz-arquitetura-metodologica
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 metodo: EIXO
-status: versao-candidata-para-auditoria
-versao: "0.1"
+status: revisada-pelo-principio-global-invariante
+versao: "0.2"
 criado_em: 2026-07-19
 atualizado_em: 2026-07-19
 autor: Fabiano Deliberalli
@@ -52,6 +52,8 @@ Perceber circunda e atravessa todos os movimentos, fases e posições da Jornada
 ## Jornada Fenomenológica
 
 > Traduzir → Aprender a Ler → Habitar → Estabilizar → Encarnar
+
+**Leitura funcional atual:** Estabilizar descreve o amadurecimento longitudinal da competência EIXO; Encarnar descreve incorporação progressiva na vida. Ambos são processos globais, não territórios de ofertas específicas.
 
 **Perceber** é registrado como campo transversal de entrada e recorrência, não como posição adicional.
 
@@ -137,11 +139,11 @@ Inicia-se na Fase 1, é sistematizado na Fase 3 e aplicado continuamente.
 
 ### Estabilizar
 
-Não significa permanecer estável. Descreve maior acessibilidade, repetição e confiabilidade da capacidade de retorno. Começa no Método, mas depende de Laboratório, prática e vida.
+Não significa permanecer estável. Descreve o amadurecimento longitudinal da própria competência EIXO: maior acessibilidade, repetição e confiabilidade da capacidade de reconhecer afastamento, recuperar presença e reencontrar orientação. Pode emergir e aprofundar-se em qualquer contexto.
 
 ### Encarnar
 
-É iniciado pela transferência da Fase 6, mas excede o curso. Pertence também ao Laboratório, à Imersão, às relações e à vida cotidiana.
+Descreve incorporação progressiva da aprendizagem na vida. Pode começar ou aprofundar-se em qualquer fase, relação, prática ou componente do ecossistema. Nenhum formato a produz ou garante.
 
 ## Recursividade
 
@@ -165,18 +167,26 @@ Reparação integra M4, mas mobiliza os quatro movimentos:
 
 Ver [[Reparação como Indicador Transversal do EIXO]].
 
+## Princípio da arquitetura global invariável
+
+> **A arquitetura é comum a todo o ecossistema. Nenhuma capacidade, fase ou posição da Jornada pertence exclusivamente a uma oferta.**
+
+Curso, Workshop, Laboratório, Imersão e Comunidade variam por recorte, profundidade, duração, repetição, práticas, acompanhamento e suporte; não por definições nucleares.
+
+Ver [[Princípio da Arquitetura Global Invariante]].
+
 ## Questões para auditoria
 
-1. “Estabilizar” permanece adequado na Jornada se for definido como confiabilidade crescente de retorno?
-2. “Encarnar” deve permanecer horizonte do curso ou ser reservado formalmente ao Laboratório e à Imersão?
-3. Fase 4 deve marcar todos os movimentos como predominantes ou explicitar um movimento central?
-4. A Fase 2 deve ter M3 como predominante ou apenas sustentação?
-5. A passagem Traduzir → Aprender a Ler precisa de uma fronteira mais explícita?
-6. A matriz é inteligível sem conhecimento prévio das três arquiteturas?
+1. Preservar o nome histórico “Estabilizar” ou adotar “Estabilizar o Retorno” na Jornada?
+2. Fase 4 deve marcar todos os movimentos como predominantes ou explicitar um movimento organizador?
+3. A Fase 2 deve ter M3 como predominante ou apenas sustentação?
+4. A passagem Traduzir → Aprender a Ler precisa de fronteira mais explícita?
+5. A matriz é inteligível sem conhecimento prévio das três arquiteturas?
+6. Como representar diferentes regimes pedagógicos sem atribuir partes da arquitetura a produtos?
 
 ## Estatuto
 
-Esta é a versão candidata 0.1. Não converte correlações em equivalências e depende de auditoria autoral antes de adquirir estatuto consolidado.
+Esta é a versão candidata 0.2, corrigida pelo princípio da arquitetura global invariável. Não converte correlações em equivalências e depende de auditoria autoral antes de adquirir estatuto consolidado.
 
 ## Relações
 
