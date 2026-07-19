@@ -3,8 +3,8 @@ tipo: matriz-arquitetura-metodologica
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 metodo: EIXO
-status: revisada-pelo-principio-global-invariante
-versao: "0.2"
+status: matriz-mestre-consolidada-para-proxima-auditoria
+versao: "0.3"
 criado_em: 2026-07-19
 atualizado_em: 2026-07-19
 autor: Fabiano Deliberalli
@@ -65,13 +65,14 @@ Legenda:
 - **S — sustentação:** movimento oferece condição importante;
 - **R — retorno:** movimento é retomado para reorganizar a fase;
 - **T — transferência:** movimento é aplicado à vida e às consequências.
+- **O — organizador:** coordena os demais no foco daquela fase.
 
 | Fase | M1 — Tornar-se presente | M2 — Tornar legível | M3 — Habitar | M4 — Orientar resposta | Jornada predominante |
 |---|---|---|---|---|---|
 | 1. Traduzir a Experiência | S: contato suficiente com o vivido | P: nomear, diferenciar e construir legibilidade inicial | S: aproximar-se sem forçar | S: reconhecer por que traduzir importa | Traduzir → Aprender a Ler |
-| 2. Regular e Recuperar Presença | P: reconhecer estado, apoio e retorno | S: traduzir sinais e recursos | P: ampliar contato possível sem exigir calma | S: escolher recursos e limites | Habitar, com retorno a Traduzir |
+| 2. Regular e Recuperar Presença | **P/O:** reconhecer estado, apoio e retorno | S: traduzir sinais, limites e recursos | **P:** permanecer ou retornar sem forçar nem exigir calma | S: escolher recursos, apoio e limites | Habitar, com retorno a Traduzir |
 | 3. Observar e Diferenciar | S/R: recuperar contato quando a observação mobiliza | P: distinguir sensação, emoção, impulso, narrativa e hipótese | P: acompanhar sem fusão total | S: perceber alternativas antes de responder | Aprender a Ler → Habitar |
-| 4. Fortalecer o EIXO | P: reconhecer afastamento e recuperar posição | P: reunir informações multidimensionais | P: sustentar tensões e valores | P: reencontrar orientação e ampliar escolha | Habitar → Estabilizar |
+| 4. Fortalecer o EIXO | S/P: reconhecer afastamento e recuperar posição | S/P: reunir informações multidimensionais | S/P: sustentar tensões, limites e valores | **P/O:** reencontrar orientação, escolher, responder e retornar | Habitar → Estabilizar |
 | 5. Integrar Progressivamente | R: retomar presença quando necessário | P: revisar significados e relações | P: permanecer com diferenças e limites | P: reorganizar, incorporar e preparar transferência | Estabilizar, sem promessa de permanência |
 | 6. Expressar e Contribuir | R/T: manter contato consigo, com o outro e o contexto | T: traduzir efeitos e novas informações | T: sustentar consequências e respostas do mundo | P/T: escolher, agir, reparar, aprender e retornar | Encarnar como horizonte e transferência |
 
@@ -186,7 +187,7 @@ Ver [[Princípio da Arquitetura Global Invariante]].
 
 ## Estatuto
 
-Esta é a versão candidata 0.2, corrigida pelo princípio da arquitetura global invariável. Não converte correlações em equivalências e depende de auditoria autoral antes de adquirir estatuto consolidado.
+Esta é a versão 0.3 da Matriz Mestre, consolidada pelas deliberações sobre Estabilizar, Traduzir × Aprender a Ler, movimentos organizadores, inteligibilidade e regimes pedagógicos. Permanece aberta à auditoria da arquitetura do primeiro curso. Não converte correlações em equivalências e depende de auditoria autoral antes de adquirir estatuto consolidado.
 
 ## Relações
 
@@ -195,3 +196,39 @@ Esta é a versão candidata 0.2, corrigida pelo princípio da arquitetura global
 - [[Reparação como Indicador Transversal do EIXO]]
 - [[Matriz de Reaproveitamento do Patrimônio Inicial]]
 - [[Dossiê de Contexto e Arquitetura Mestre]]
+
+
+## Deliberações incorporadas na versão 0.3
+
+### Estabilizar
+
+O termo histórico é preservado.
+
+> **Estabilizar é tornar progressivamente mais acessível, repetível e confiável a capacidade de EIXO: reconhecer o afastamento, recuperar presença, organizar a experiência e reencontrar orientação, sem pressupor permanência contínua em um estado estável.**
+
+### Traduzir × Aprender a Ler
+
+> **Traduzir é tornar uma experiência específica progressivamente legível. Aprender a Ler é desenvolver a competência de reconhecer e utilizar, com crescente autonomia, os processos pelos quais as experiências se tornam legíveis.**
+
+A ordem histórica é preservada porque a pessoa pode primeiro experimentar alguma Tradução e depois reconhecer, utilizar e revisar sua gramática.
+
+### Fase 2
+
+M1 — Tornar-se Presente é predominante e organizador. M3 — Habitar também é predominante como aprendizagem corporificada de permanecer, retornar ou estabelecer limites.
+
+### Fase 4
+
+Os quatro movimentos são integrados. M4 — Orientar a Resposta é predominante e organizador.
+
+### Inteligibilidade
+
+A Matriz Integrada é a **Matriz Mestre técnica**. Sua apresentação pedagógica ocorrerá por camadas de leitura:
+
+1. mapa do percurso;
+2. gramática dos quatro movimentos;
+3. Jornada Fenomenológica;
+4. matriz completa.
+
+### Regimes pedagógicos
+
+As ofertas utilizam a mesma arquitetura global e diferenciam-se por regimes pedagógicos. Ver [[Regimes Pedagógicos do Ecossistema]] e [[Ficha de Regime Pedagógico - Modelo]].
