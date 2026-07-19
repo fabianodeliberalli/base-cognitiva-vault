@@ -5,7 +5,7 @@ curso: nome-provisorio
 status: fase-2-em-andamento
 estado_maturidade: identidade-inicial-definida
 fase_atual: "Fase 2 — Posicionamento institucional e natureza da oferta"
-versao: "0.11"
+versao: "0.12"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-17
 atualizado_em: 2026-07-18
@@ -19,7 +19,7 @@ tags:
 
 # Dossiê de Contexto — Curso [nome provisório]
 
-**Versão:** 0.11  
+**Versão:** 0.12  
 **Estado de maturidade:** identidade inicial definida  
 **Fases concluídas:** Fase 0 — Abertura e governança; Fase 1 — Gênese, identidade e problema humano  
 **Fase autorizada:** Fase 2 — Posicionamento institucional e natureza da oferta
@@ -30,7 +30,7 @@ tags:
 
 - **Código do curso:** a definir;
 - **Nome atual:** Curso [nome provisório];
-- **Versão do Dossiê:** 0.11;
+- **Versão do Dossiê:** 0.12;
 - **Status documental:** documento evolutivo;
 - **Estado de maturidade:** identidade inicial definida;
 - **Data de criação:** 2026-07-17;
@@ -518,6 +518,22 @@ O [[Léxico Mestre do Traduzindo o Ser Humano]] passa a governar definições, q
 
 A [[Prática - Ressonância das Linguagens no Eu Essencial]] fica preservada como patrimônio pedagógico candidato. “Eu Essencial” permanece expressão experiencial em avaliação.
 
+### 9.23. Auditoria das seis fases — bloqueio documental
+
+A [[Sessão 2A-D - Auditoria das Seis Fases e dos Quatro Movimentos]] constatou que o repositório acessível menciona as seis fases, a Jornada Fenomenológica e a Camada 3 — Método EIXO, mas não contém os documentos que as definem.
+
+**Consequências:**
+
+- as seis dimensões do [[EIXO Integrador]] não serão convertidas em fases;
+- as sequências dos mapas não serão apresentadas como arquitetura histórica do Método;
+- os quatro movimentos permanecem aprovados em desenvolvimento, mas aguardam confronto com as fases;
+- a Matriz de Inserção Transversal permanece bloqueada;
+- módulos e aulas continuam bloqueados.
+
+**Caminho recomendado:** recuperar Camada 3, Jornada Fenomenológica, Constituição Filosófico-Pedagógica, Manual Institucional e versões históricas do Método.
+
+**Alternativa dependente de autorização:** caso não exista formulação histórica estável, construir as seis fases como nova arquitetura candidata, registrando explicitamente seu caráter novo.
+
 ## 10. Princípios pedagógicos do curso
 
 ### Princípios preliminares derivados do projeto e do protocolo
@@ -712,18 +728,17 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 | 0.9 | 2026-07-18 | Confirmação da genealogia dos três Eus, confronto com Jung e Rede Tripartite e conclusão de sua autoridade provisória | Sessão 2A-B |
 | 0.10 | 2026-07-18 | Aprovação dos Três Eus como Mapa Funcional Transversal, registro do teste de removibilidade e abertura futura da Matriz de Inserção Transversal | Sessão 2A-B |
 | 0.11 | 2026-07-18 | Aprovação da governança lexical, criação do Léxico Mestre e preservação da prática de ressonância no Eu Essencial | Sessão 2A-C |
+| 0.12 | 2026-07-18 | Abertura da auditoria das seis fases e registro da ausência das fontes canônicas necessárias | Sessão 2A-D |
 
 ---
 
 ## 18. Próxima sessão
 
-### Sessão 2A-D — Auditoria das Seis Fases e confirmação dos quatro movimentos
+### Continuação da Sessão 2A-D — Recuperação canônica das seis fases
 
-- **Fase:** Fase 2 — Posicionamento institucional e natureza da oferta;
-- **Objetivo único:** localizar as seis fases nas fontes canônicas do Método EIXO, verificar seus nomes, funções, sequência, recursividade e critérios de progressão e confirmar a formulação final dos quatro movimentos;
-- **Entradas:** documentos oficiais do Método EIXO, Jornada Fenomenológica, Dossiê, Princípio de Recursividade EIXO–Tradução e Léxico Mestre;
-- **Entregável 1:** ficha de autoridade de cada fase;
-- **Entregável 2:** formulação consolidada ou revisada dos quatro movimentos;
-- **Entregável posterior desbloqueado:** Matriz de Inserção Transversal dos Três Eus;
-- **Critério de encerramento:** distinguir conteúdo canônico, elaboração consolidada, proposta anterior e hipótese nova em cada fase;
-- **Bloqueio mantido:** não converter fases em módulos ou aulas antes da arquitetura integral.
+- **Status:** bloqueada por fontes ausentes;
+- **Objetivo imediato:** localizar ou receber Camada 3 — Método EIXO, Jornada Fenomenológica, Constituição Filosófico-Pedagógica, Manual Institucional e qualquer versão histórica que nomeie as seis fases;
+- **Após recuperação:** auditar cada fase por nome, função, sequência, recursividade, Tradução, capacidades, indicadores e limites;
+- **Decisão alternativa necessária:** se não houver formulação histórica estável, autorizar explicitamente uma nova construção candidata das seis fases;
+- **Entregável posterior bloqueado:** Matriz de Inserção Transversal;
+- **Bloqueio mantido:** não converter mapas ou seis dimensões em fases; não iniciar módulos ou aulas.
