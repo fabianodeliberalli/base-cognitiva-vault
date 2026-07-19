@@ -5,7 +5,7 @@ curso: nome-provisorio
 status: fase-2-em-andamento
 estado_maturidade: identidade-inicial-definida
 fase_atual: "Fase 2 — Posicionamento institucional e natureza da oferta"
-versao: "0.16"
+versao: "0.17"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-17
 atualizado_em: 2026-07-19
@@ -19,7 +19,7 @@ tags:
 
 # Dossiê de Contexto — Curso [nome provisório]
 
-**Versão:** 0.16  
+**Versão:** 0.17  
 **Estado de maturidade:** identidade inicial definida  
 **Fases concluídas:** Fase 0 — Abertura e governança; Fase 1 — Gênese, identidade e problema humano  
 **Fase autorizada:** Fase 2 — Posicionamento institucional e natureza da oferta
@@ -30,7 +30,7 @@ tags:
 
 - **Código do curso:** a definir;
 - **Nome atual:** Curso [nome provisório];
-- **Versão do Dossiê:** 0.16;
+- **Versão do Dossiê:** 0.17;
 - **Status documental:** documento evolutivo;
 - **Estado de maturidade:** identidade inicial definida;
 - **Data de criação:** 2026-07-17;
@@ -645,6 +645,25 @@ Ver [[Sessão 2A-F - Deliberação das Seis Fases do Método EIXO]].
 
 Identidade, problema humano, público, transformação, posição no ecossistema, patrimônio central e princípios pedagógicos deverão estar suficientemente definidos.
 
+
+### 11.4. Primeira oferta integral
+
+**Decisão aprovada em 2026-07-19:**
+
+> **A primeira oferta será um curso-piloto formativo integral, percorrendo as seis fases e toda a arquitetura global em profundidade fundamental, com seleção rigorosa de conteúdos e práticas. Sua finalidade será simultaneamente formativa e de validação pedagógica.**
+
+Distinção:
+
+- arquitetura global: integral;
+- patrimônio teórico e prático: seletivo;
+- regime principal: formativo estruturado;
+- regime complementar: prático-experimental;
+- entrega Zoom/Hotmart, duração e valor: hipóteses a deliberar;
+- primeira turma produz evidência pedagógica, não validação clínica ou científica.
+
+Ver [[Protocolo da Primeira Oferta Integral]].
+
+
 ---
 
 ## 12. Contrato formativo e limites
@@ -817,3 +836,12 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 - **Entregável:** formulação candidata revisada das seis fases e sua correlação não equivalente com Jornada, movimentos e níveis de aprendizagem;
 - **Entregável posterior bloqueado:** Matriz de Inserção Transversal;
 - **Bloqueio mantido:** não iniciar módulos ou aulas antes da deliberação.
+
+
+## 13. Próxima sessão — Protocolo da Primeira Oferta Integral
+
+**Ponto exato de retomada:**
+
+> definir o que será testado e os critérios de seleção do conteúdo essencial de cada uma das seis fases.
+
+Ver [[Protocolo da Primeira Oferta Integral]].
