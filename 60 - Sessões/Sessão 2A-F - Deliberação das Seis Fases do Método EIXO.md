@@ -4,7 +4,7 @@ projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 fase: "Fase 2 — Posicionamento institucional e natureza da oferta"
 sessao: "2A-F — Deliberação das Seis Fases do Método EIXO"
-status: recursividade-aprovada-deliberacao-em-andamento
+status: seis-fases-aprovadas-matriz-integrada-iniciada
 criado_em: 2026-07-18
 atualizado_em: 2026-07-19
 autor: Fabiano Deliberalli
@@ -212,3 +212,30 @@ Síntese aprovada:
 > **Perceber permite que algo apareça; presença permite permanecer ou retornar; observação acompanha; diferenciação esclarece; Tradução torna legível; o EIXO orienta a resposta.**
 
 Ver [[Pedagogia das Distinções Experienciais]].
+
+
+## Fechamento da deliberação estrutural
+
+**Data:** 2026-07-19.
+
+### Seis fases aprovadas
+
+1. Traduzir a Experiência;
+2. Regular e Recuperar Presença;
+3. Observar e Diferenciar;
+4. Fortalecer o EIXO;
+5. Integrar Progressivamente;
+6. Expressar e Contribuir.
+
+### Decisões associadas
+
+- ordem pedagógica recursiva aprovada;
+- Perceber como condição transversal;
+- Presença como capacidade transversal;
+- Pedagogia das Distinções Experienciais como componente transversal;
+- reparação como indicador transversal, com maior explicitação na Fase 6;
+- árvore espiral como metáfora candidata;
+- mapa v2 incorporado;
+- Matriz Integrada aberta em versão candidata 0.1.
+
+Ver [[Matriz Integrada - Quatro Movimentos, Seis Fases e Jornada Fenomenológica]].
