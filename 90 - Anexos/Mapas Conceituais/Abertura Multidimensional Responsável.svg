@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1800" viewBox="0 0 1800 1800">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="45%"><stop offset="0" stop-color="#fffdf4"/><stop offset="1" stop-color="#ece5d6"/></radialGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="8" stdDeviation="11" flood-opacity=".16"/></filter>
+    <style>.title{font:700 64px Georgia,serif;fill:#173b38}.sub{font:28px Arial,sans-serif;fill:#59635e}.h{font:700 29px Arial,sans-serif;fill:#173b38;text-anchor:middle}.p{font:23px Arial,sans-serif;fill:#4f5955;text-anchor:middle}.ring{fill:none;stroke-width:7;opacity:.86}.card{stroke:#fffdf4;stroke-width:6;filter:url(#shadow)}.line{stroke:#9c8c63;stroke-width:5;opacity:.55}</style>
+  </defs>
+  <rect width="1800" height="1800" fill="url(#bg)"/>
+  <text x="900" y="100" class="title" text-anchor="middle" font-size="54">ABERTURA MULTIDIMENSIONAL RESPONSÁVEL</text>
+  <text x="900" y="152" class="sub" text-anchor="middle">Nem redução do vivido, nem conclusão prematura sobre sua natureza.</text>
+  <circle cx="900" cy="930" r="635" class="ring" stroke="#b09a66" stroke-dasharray="12 16"/>
+  <circle cx="900" cy="930" r="430" class="ring" stroke="#769489"/>
+  <circle cx="900" cy="930" r="230" fill="#f1d994" class="card"/>
+  <text x="900" y="885" class="h" font-size="34">O VIVIDO</text><text x="900" y="935" class="p">pode apresentar dimensões</text><text x="900" y="973" class="p">corporais, psíquicas, relacionais,</text><text x="900" y="1011" class="p">energéticas, simbólicas e espirituais</text>
+  <g class="line"><line x1="900" y1="700" x2="900" y2="375"/><line x1="1085" y1="795" x2="1395" y2="570"/><line x1="1085" y1="1065" x2="1395" y2="1290"/><line x1="715" y1="1065" x2="405" y2="1290"/><line x1="715" y1="795" x2="405" y2="570"/></g>
+  <g>
+    <rect x="625" y="260" width="550" height="180" rx="70" fill="#d8ece6" class="card"/><text x="900" y="330" class="h">ACOLHER FENOMENOLOGICAMENTE</text><text x="900" y="375" class="p">O que aparece? Como se manifesta?</text>
+    <rect x="1200" y="480" width="500" height="220" rx="70" fill="#dce5f2" class="card"/><text x="1450" y="545" class="h">TRADUZIR SEM REDUZIR</text><text x="1450" y="590" class="p">Nenhuma linguagem precisa anular</text><text x="1450" y="625" class="p">as demais dimensões do vivido.</text>
+    <rect x="1200" y="1180" width="500" height="220" rx="70" fill="#dce9cf" class="card"/><text x="1450" y="1245" class="h">OBSERVAR EFEITOS</text><text x="1450" y="1290" class="p">O que muda no corpo, nas relações,</text><text x="1450" y="1325" class="p">nas escolhas e na vida?</text>
+    <rect x="100" y="1180" width="500" height="220" rx="70" fill="#e8dcf2" class="card"/><text x="350" y="1245" class="h">PRESERVAR O ESTATUTO</text><text x="350" y="1290" class="p">Científico • clínico • tradicional</text><text x="350" y="1325" class="p">experiencial • simbólico • hipotético</text>
+    <rect x="100" y="480" width="500" height="220" rx="70" fill="#f0dfb5" class="card"/><text x="350" y="545" class="h">MANTER HIPÓTESES ABERTAS</text><text x="350" y="590" class="p">Intensidade não comprova origem.</text><text x="350" y="625" class="p">Incerteza não invalida experiência.</text>
+  </g>
+  <rect x="220" y="1530" width="1360" height="170" rx="70" fill="#173b38"/>
+  <text x="900" y="1590" font-family="Arial" font-size="27" font-weight="700" fill="#fff" text-anchor="middle">EXPERIÊNCIAS ENERGÉTICAS, SIMBÓLICAS, EXISTENCIAIS E ESPIRITUAIS</text>
+  <text x="900" y="1640" font-family="Arial" font-size="24" fill="#e3eee9" text-anchor="middle">são conteúdos legítimos da Tradução quando fizerem parte do vivido.</text>
+  <text x="900" y="1678" font-family="Arial" font-size="22" fill="#d6dfdb" text-anchor="middle">Não precisam ser reduzidas ao psicológico nem convertidas automaticamente em descrição objetiva.</text>
+</svg>
