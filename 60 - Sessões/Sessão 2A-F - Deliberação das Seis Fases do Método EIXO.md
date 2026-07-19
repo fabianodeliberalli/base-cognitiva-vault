@@ -184,3 +184,13 @@ A matriz completa entre quatro movimentos, seis fases e Jornada Fenomenológica 
 ### Estatuto da imagem
 
 A imagem produzida nesta sessão é um **protótipo visual revisado**. Ainda depende de auditoria gráfica final, inserção no vault e eventual redesenho editorial antes de adquirir estatuto canônico.
+
+
+## Protótipo visual revisado
+
+![[90 - Anexos/Mapas Conceituais/Mapa Recursivo das Seis Fases do Método EIXO - v2.png]]
+
+- **Arquivo:** Mapa Recursivo das Seis Fases do Método EIXO - v2.png
+- **SHA-256:** 9c0f691f8bf7131884a1d9d332946c1de6b64e60a2d4423cfa95eb3229b8b07c
+- **Estatuto:** metáfora candidata e protótipo revisado;
+- **Funções visuais:** EIXO dinâmico; Perceber como campo transversal; Reparação e Aprendizagem como retorno; verticalidade como desenvolvimento funcional, não hierarquia espiritual.
