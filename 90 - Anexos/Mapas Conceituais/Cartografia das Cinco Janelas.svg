@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1800" viewBox="0 0 1800 1800">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fffdf5"/><stop offset="1" stop-color="#e9e3d4"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="8" stdDeviation="11" flood-opacity=".17"/></filter>
+    <marker id="a" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#9d772f"/></marker>
+    <style>.title{font:700 66px Georgia,serif;fill:#173b38}.sub{font:29px Arial,sans-serif;fill:#59645f}.n{font:700 42px Georgia,serif;fill:#fff}.h{font:700 29px Arial,sans-serif;fill:#173b38;text-anchor:middle}.p{font:23px Arial,sans-serif;fill:#4f5955;text-anchor:middle}.card{stroke:#fffdf4;stroke-width:6;filter:url(#shadow)}.arrow{fill:none;stroke:#9d772f;stroke-width:7;marker-end:url(#a)}</style>
+  </defs>
+  <rect width="1800" height="1800" fill="url(#bg)"/>
+  <text x="900" y="105" class="title" text-anchor="middle">CARTOGRAFIA DAS CINCO JANELAS</text>
+  <text x="900" y="158" class="sub" text-anchor="middle">Uma porta experiencial para o Modelo dos Sete Níveis</text>
+  <path d="M900 335 L900 470 M900 670 L900 805 M900 1005 L900 1140 M900 1340 L900 1475" class="arrow"/>
+  <g>
+    <rect x="285" y="230" width="1230" height="190" rx="80" fill="#d8ece6" class="card"/><circle cx="390" cy="325" r="58" fill="#37776e"/><text x="390" y="341" class="n" text-anchor="middle">1</text><text x="930" y="300" class="h">O QUE SE APRESENTA?</text><text x="930" y="350" class="p">Fenômeno vivido • situação • acontecimento • aquilo que começa a ser percebido</text>
+    <rect x="285" y="565" width="1230" height="190" rx="80" fill="#f0dfb5" class="card"/><circle cx="390" cy="660" r="58" fill="#ae7726"/><text x="390" y="676" class="n" text-anchor="middle">2</text><text x="930" y="635" class="h">COMO SE MANIFESTA MULTIDIMENSIONALMENTE?</text><text x="930" y="685" class="p">Corpo • afetos • mente • imagens • energia • relações • história • sentido • espírito</text>
+    <rect x="285" y="900" width="1230" height="190" rx="80" fill="#dce5f2" class="card"/><circle cx="390" cy="995" r="58" fill="#3d608b"/><text x="390" y="1011" class="n" text-anchor="middle">3</text><text x="900" y="970" class="h">COMO NOMEIO E INTERPRETO?</text><text x="900" y="1020" class="p">Tradução inicial • linguagem • significado atribuído • narrativa construída</text>
+    <rect x="285" y="1235" width="1230" height="190" rx="80" fill="#e8dcf2" class="card"/><circle cx="390" cy="1330" r="58" fill="#76518d"/><text x="390" y="1346" class="n" text-anchor="middle">4</text><text x="930" y="1305" class="h">QUE MAPAS E HIPÓTESES UTILIZO?</text><text x="930" y="1355" class="p">Explicações possíveis • tradições • teorias • símbolos • o que permanece aberto</text>
+    <rect x="285" y="1570" width="1230" height="190" rx="80" fill="#dce9cf" class="card"/><circle cx="390" cy="1665" r="58" fill="#5c7f48"/><text x="390" y="1681" class="n" text-anchor="middle">5</text><text x="900" y="1640" class="h">O QUE ISSO PRODUZ E SOLICITA AGORA?</text><text x="900" y="1690" class="p">Implicações • condições de integração • orientação • incorporação inicial</text>
+  </g>
+  <text x="1560" y="900" font-family="Arial" font-size="22" fill="#59645f" transform="rotate(90 1560 900)" text-anchor="middle">As janelas podem ser revisitadas em qualquer ordem.</text>
+</svg>
