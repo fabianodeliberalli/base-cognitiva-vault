@@ -5,10 +5,10 @@ curso: nome-provisorio
 status: fase-2-em-andamento
 estado_maturidade: identidade-inicial-definida
 fase_atual: "Fase 2 — Posicionamento institucional e natureza da oferta"
-versao: "0.14"
+versao: "0.15"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-17
-atualizado_em: 2026-07-18
+atualizado_em: 2026-07-19
 documento_superior: Protocolo Operacional para Construção da Arquitetura de Cursos v1.0
 tags:
   - traduzindo-o-ser-humano
@@ -19,7 +19,7 @@ tags:
 
 # Dossiê de Contexto — Curso [nome provisório]
 
-**Versão:** 0.14  
+**Versão:** 0.15  
 **Estado de maturidade:** identidade inicial definida  
 **Fases concluídas:** Fase 0 — Abertura e governança; Fase 1 — Gênese, identidade e problema humano  
 **Fase autorizada:** Fase 2 — Posicionamento institucional e natureza da oferta
@@ -30,7 +30,7 @@ tags:
 
 - **Código do curso:** a definir;
 - **Nome atual:** Curso [nome provisório];
-- **Versão do Dossiê:** 0.14;
+- **Versão do Dossiê:** 0.15;
 - **Status documental:** documento evolutivo;
 - **Estado de maturidade:** identidade inicial definida;
 - **Data de criação:** 2026-07-17;
@@ -582,6 +582,26 @@ O bloqueio deixou de ser documental e passou a ser decisório. A Matriz de Inser
 - reconhecer limites epistemológicos.
 
 **Status:** princípios de construção; a aplicação e a ênfase específicas dependerão das fases 1–5.
+
+
+### 9.11. Recursividade aprovada
+
+> **As seis fases constituem um percurso pedagógico recursivo. Cada fase possui um foco predominante, mas mobiliza capacidades das demais e pode ser retomada conforme a experiência e o contexto.**
+
+> **Algum EIXO, alguma presença e alguma Tradução participam desde o início; o percurso amplia progressivamente a capacidade de reconhecê-los, acessá-los e utilizá-los.**
+
+> **Retornar não é regredir. Expressar-se produz consequências e novas informações; reconhecê-las, reparar quando necessário e aprender com elas reinicia o ciclo.**
+
+Ativos associados:
+
+- “Retornar não é regredir” como frase pedagógica e visual;
+- árvore espiral como metáfora candidata;
+- Perceber como campo transversal;
+- Reparação e Aprendizagem como movimento de retorno;
+- verticalidade entendida como desenvolvimento funcional, não hierarquia espiritual.
+
+Ver [[Sessão 2A-F - Deliberação das Seis Fases do Método EIXO]].
+
 
 ---
 
