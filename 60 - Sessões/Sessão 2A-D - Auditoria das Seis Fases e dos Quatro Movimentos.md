@@ -4,9 +4,9 @@ projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 fase: "Fase 2 — Posicionamento institucional e natureza da oferta"
 sessao: "2A-D — Auditoria das Seis Fases e dos Quatro Movimentos"
-status: bloqueada-por-fontes-canonicas-ausentes
+status: fontes-historicas-recuperadas-deliberacao-necessaria
 criado_em: 2026-07-18
-atualizado_em: 2026-07-18
+atualizado_em: 2026-07-19
 autor: Fabiano Deliberalli
 tags:
   - metodo-eixo
@@ -20,65 +20,74 @@ tags:
 
 ## Objetivo
 
-Localizar as seis fases nas fontes canônicas do Método EIXO, verificar nomes, funções, sequência, recursividade e critérios de progressão e confirmar a formulação final dos quatro movimentos antes da Matriz de Inserção Transversal.
+Auditar as seis fases do Método EIXO, seus nomes, ordem, funções e relação com a Jornada Fenomenológica, os quatro movimentos e os três níveis de aprendizagem, distinguindo patrimônio histórico, decisão consolidada e revisão atual.
 
-## Resultado executivo
+## Situação atual
 
-A auditoria não pode ser concluída com autoridade canônica porque os documentos que deveriam definir as seis fases, a Jornada Fenomenológica e a Camada 3 não estão presentes no repositório acessível.
+O bloqueio por ausência absoluta de fontes foi removido. Foram recuperados:
 
-O vault contém referências por wikilink a esses documentos, mas não contém os respectivos arquivos. Reconstruir as fases a partir dos mapas ou de menções posteriores produziria uma nova hipótese apresentada indevidamente como história documental.
+- seis PDFs anexados, que correspondem a quatro documentos únicos;
+- contexto dos chats anteriores do projeto;
+- formulações da Camada 3, Jornada Fenomenológica e três níveis de aprendizagem;
+- Capítulo 26 do Manual SOS em estágio v0.1;
+- Constituição Filosófico-Pedagógica v1.0.
 
-## Fontes efetivamente localizadas
+A auditoria permanece aberta porque as fontes históricas contêm divergências internas.
 
-| Fonte | Estatuto | Contribuição |
-|---|---|---|
-| [[Dossiê de Contexto e Arquitetura Mestre]] | documento evolutivo do curso | registra quatro movimentos aprovados e menciona seis fases |
-| [[EIXO Integrador]] | proposta de expansão | apresenta seis dimensões, não seis fases |
-| [[01 - Auditoria do Lote 2026-07-18]] | auditoria de patrimônio visual | confirma divergências e ausência de arquitetura única |
-| [[01 - A Árvore do EIXO]] | metáfora candidata | fundação, presença, observação, integração e expressão; não arquitetura canônica |
-| [[03 - O Campo de Integração Humana]] | mapa de multidimensionalidade | campos do vivido; não sequência de fases |
-| [[05 - Mapa da Integração Humana]] | inventário exploratório | oito níveis e correlações não validadas |
-| [[11 - O Caminho da Semente]] | narrativa de horizonte | nove posições do caos à contribuição; explicitamente não canônica |
-| [[Princípio de Recursividade EIXO–Tradução]] | decisão consolidada | exige leitura circular, não linear |
-| [[Léxico Mestre do Traduzindo o Ser Humano]] | governança lexical | diferencia termos operacionais, experienciais e espirituais |
+Ver [[Pacote Inicial - Constituição, Camadas e Manual SOS]].
 
-## Fontes mencionadas, mas ausentes
+## Hierarquia de autoridade encontrada
 
-1. **Camada 3 — Método EIXO**;
-2. **Jornada Fenomenológica**;
-3. **Constituição Filosófico-Pedagógica**;
-4. **Manual Institucional**;
-5. documentos históricos que nomeiam e descrevem as **seis fases**;
-6. **Três Níveis de Aprendizagem**, se constituir documento próprio;
-7. versões anteriores ou guias de aplicação do Método EIXO.
+| Fonte | Autoridade atual |
+|---|---|
+| decisões expressamente aprovadas no Dossiê atual | consolidado no trabalho atual |
+| Constituição Filosófico-Pedagógica v1.0 | documento superior declarado; revisão interpretativa necessária |
+| Jornada Fenomenológica autorizada no projeto | eixo integrador consolidado; variante de início pendente |
+| Manual SOS v0.1 aguardando aprovação | rascunho institucional |
+| PDF da Camada 3 de 12 semanas | proposta histórica de produto/método |
+| chat de Patrimônio Intelectual | registro histórico autoral com ordem divergente |
+| mapas conceituais | patrimônio visual não canônico |
+| EIXO Integrador | proposta de expansão, exceto recursividade aprovada |
 
-## Achado 1 — as seis dimensões não são as seis fases
+## Quatro arquiteturas distintas
 
-A nota [[EIXO Integrador]] propõe:
+### 1. Progressões constitucionais
 
-- corporal;
-- afetiva;
-- atencional;
-- narrativa;
-- epistemológica;
-- ético-existencial.
+A Constituição registra:
 
-Seu frontmatter a classifica como “proposta de expansão”, não validada integralmente por Fabiano. Essas dimensões descrevem campos de funcionamento e não podem ser promovidas a fases.
+> experiência → Tradução → compreensão → integração → autonomia
 
-## Achado 2 — os mapas não preservam uma sequência única
+E uma alfabetização progressiva:
 
-| Mapa | Sequência ou organização visível | Limite |
-|---|---|---|
-| Árvore do EIXO | raízes, regulação, presença, observação, integração, expressão | coloca EIXO depois da integração e omite Tradução/retorno |
-| Campo de Integração | EIXO central e cinco campos concêntricos | mistura campos, capacidades e resultados |
-| Mapa da Integração Humana | caos, regulação, presença, observação, integração, soberania, Essência, expressão | inventário exploratório e correlações sem autoridade uniforme |
-| Caminho da Semente | caos, regulação, presença, observação, integração, soberania, Essência, expressão, contribuição | narrativa de horizonte, linear e não canônica |
+> perceber → ler → interpretar → integrar → habitar
 
-Portanto, a recorrência de alguns nomes demonstra patrimônio e convergência autoral, não a existência documental de seis fases aprovadas.
+Essas formulações são princípios pedagógicos e não módulos.
 
-## Achado 3 — estatuto atual dos quatro movimentos
+### 2. Jornada Fenomenológica
 
-Os quatro movimentos foram aprovados na Sessão 2A e registrados no Dossiê:
+Versão principal:
+
+> Traduzir → Aprender a Ler → Habitar → Estabilizar → Encarnar
+
+Versão ampliada:
+
+> Perceber → Traduzir → Aprender a Ler → Habitar → Estabilizar → Encarnar
+
+A Jornada descreve amadurecimento da relação com a experiência no ecossistema. Não deve ser convertida automaticamente em módulos do Método.
+
+### 3. Seis fases históricas
+
+#### Ordem A — PDF Camada 3
+
+> Compreender → Regular → Observar → Integrar → Construir o EIXO → Manifestar
+
+#### Ordem B — Patrimônio Intelectual
+
+> Compreender → Regular → Observar → Construir o EIXO → Integrar → Manifestar
+
+A divergência entre as posições 4 e 5 impede registrar uma ordem canônica sem decisão atual.
+
+### 4. Quatro movimentos funcionais
 
 | Movimento | Capacidades | Pergunta |
 |---|---|---|
@@ -87,76 +96,154 @@ Os quatro movimentos foram aprovados na Sessão 2A e registrados no Dossiê:
 | Habitar a experiência | sustentar e observar sem identificação total | Posso permanecer em relação com isso sem ser inteiramente governado por isso? |
 | Orientar a resposta | orientar-se, escolher, responder e retornar | Como quero responder e como reencontro o EIXO quando me afasto? |
 
-### Autoridade precisa
+Os movimentos descrevem funções transversais da competência e podem reaparecer em todas as fases.
 
-- **aprovados na construção atual:** sim;
-- **coerentes com a competência nuclear e o princípio recursivo:** sim;
-- **encontrados em fonte histórica canônica anterior:** não foi possível verificar;
-- **podem substituir seis fases:** não;
-- **podem ser confirmados definitivamente antes do confronto com as fases:** não.
+## Três níveis de aprendizagem
 
-Sua classificação correta permanece **ativo estrutural aprovado em desenvolvimento**, sujeito a confirmação de compatibilidade com as fontes históricas.
+1. conhecimento declarativo;
+2. competência incorporada;
+3. sabedoria prática.
 
-## Achado 4 — a Tradução não pode ser omitida
+O Método EIXO tem como responsabilidade central desenvolver competência incorporada. Sabedoria prática depende de transferência, tempo e vida; não deve ser prometida como resultado automático de um curso.
 
-Os mapas acessíveis tendem a representar regulação, presença, observação, integração e expressão, mas a Tradução aparece pouco ou não aparece. A arquitetura futura não deve reproduzir essa lacuna.
+## Auditoria das seis fases históricas
 
-> Algum EIXO favorece a Tradução; ao tornar a experiência legível, a Tradução pode favorecer reorganização; e essa reorganização pode fortalecer o EIXO.
+| Fase histórica | Contribuição preservável | Problema atual | Revisão necessária |
+|---|---|---|---|
+| Compreender | oferecer mapa inicial e tornar a experiência inteligível | pode reforçar intelectualização e duplicar Tradução | subordinar compreensão ao vivido e à legibilidade |
+| Regular | ampliar segurança e faixa de presença possível | pode sugerir calma ou controle como pré-requisito | formular como regulação suficiente e retorno possível |
+| Observar | desenvolver atenção, diferenciação e função reflexiva | pode virar distanciamento ou neutralidade idealizada | incluir corpo, relação e não identificação total |
+| Construir o EIXO | consolidar valores, orientação e liberdade de resposta | sugere que EIXO não existe antes e depois torna-se estável | considerar Fortalecer/Desenvolver capacidade de EIXO |
+| Integrar | reorganizar experiência e ampliar coerência | pode ser prometida cedo demais ou confundida com horizonte final | tratar como integração progressiva, situada e revisável |
+| Manifestar | transferir para escolhas, relações, expressão e contribuição | pode espiritualizar sucesso ou prometer expressão essencial | incluir resposta, reparação, ação e efeitos no mundo |
 
-Qualquer conjunto de fases deverá explicitar onde e como a Tradução opera, sem necessariamente transformá-la em fase isolada.
+## Análise da divergência Integrar × Construir o EIXO
 
-## Matriz preliminar de autoridade
+### Argumento para Integrar antes
 
-| Elemento | Autoridade atual | Decisão |
+A experiência precisa ser minimamente reorganizada para que valores, direção e coerência sejam reconhecidos. Essa era a ordem do PDF da Camada 3.
+
+### Argumento para Construir/Fortalecer o EIXO antes
+
+Alguma capacidade de presença, orientação e retorno é condição para integrar sem ser capturado pela experiência. Essa ordem aparece no chat de Patrimônio Intelectual e é mais compatível com o princípio atual:
+
+> Algum EIXO favorece a Tradução; a Tradução pode favorecer reorganização; e a reorganização pode fortalecer o EIXO.
+
+### Síntese recomendada
+
+Não tratar EIXO e integração como degraus totalmente separados. A relação é recursiva. Para fins de progressão pedagógica, a formulação mais coerente é:
+
+> Compreender/Traduzir → Regular → Observar → Fortalecer o EIXO → Integrar progressivamente → Expressar/Manifestar
+
+Com duas cláusulas:
+
+- algum EIXO opera desde o início;
+- integrar fortalece o EIXO e pode exigir retorno às fases anteriores.
+
+Essa é uma **recomendação de revisão**, não decisão aprovada.
+
+## Compreender ou Traduzir?
+
+“Compreender” é historicamente reconhecível, mas o projeto atual demonstrou que compreender intelectualmente não basta.
+
+Opções:
+
+1. manter **Compreender**, definindo-o como compreensão experiencial;
+2. renomear para **Traduzir**;
+3. usar **Compreender e Traduzir**;
+4. considerar Tradução operador transversal, com Compreender como efeito inicial.
+
+### Recomendação
+
+Preservar provisoriamente **Compreender/Traduzir** durante a auditoria. A decisão deverá verificar compatibilidade com a Jornada e evitar que “Traduzir” seja reduzido à primeira fase, pois a Tradução também opera circularmente em todo o Método.
+
+## Construir ou fortalecer o EIXO?
+
+A definição atual recusa a ideia de um centro conquistado permanentemente. Por isso, “Construir o EIXO” pode comunicar inadequadamente:
+
+- ausência inicial total;
+- objeto interno fixo;
+- estado alcançado;
+- estabilidade permanente.
+
+### Recomendação
+
+Avaliar como nome principal:
+
+> **Fortalecer o EIXO**
+
+Ou, de forma mais precisa:
+
+> **Desenvolver a capacidade de EIXO**
+
+“Construir o EIXO” pode ser preservado como linguagem histórica ou metáfora acessível, desde que redefinido.
+
+## Manifestar, Expressar ou Contribuir?
+
+Os mapas e o patrimônio usam os três termos.
+
+- **Manifestar:** histórico e abrangente, mas pode receber leitura metafísica ou ligada a obtenção de resultados;
+- **Expressar:** torna visível coerência em escolhas, relações e ação;
+- **Contribuir:** explicita consequência ética e relação com o mundo.
+
+### Recomendação
+
+Manter **Manifestar** em avaliação e testar a formulação funcional:
+
+> **Expressar e contribuir**
+
+ou:
+
+> **Manifestar com coerência**
+
+Sem prometer realização da Essência ou sucesso externo.
+
+## Correlação preliminar — não canônica
+
+| Fase candidata | Movimento predominante | Jornada mais próxima | Nível de aprendizagem |
+|---|---|---|---|
+| Compreender/Traduzir | tornar legível | Traduzir / Aprender a Ler | declarativo em transição à competência |
+| Regular | tornar-se presente | Habitar | competência incorporada |
+| Observar | tornar legível + habitar | Aprender a Ler / Habitar | competência incorporada |
+| Fortalecer o EIXO | habitar + orientar | Habitar / Estabilizar | competência incorporada |
+| Integrar progressivamente | quatro movimentos em recursividade | Estabilizar | competência incorporada e transferência |
+| Expressar/Manifestar | orientar a resposta | Encarnar | transferência e sabedoria prática emergente |
+
+Essa tabela não significa equivalência um-a-um. A Jornada atravessa o ecossistema e pode exceder a duração de uma oferta.
+
+## Relação com as camadas do ecossistema
+
+| Camada | Função histórica | Relação provável com a Jornada |
 |---|---|---|
-| competência nuclear do EIXO | aprovada na construção atual | preservar |
-| EIXO como retorno e reorganização | aprovado | preservar |
-| quatro movimentos | aprovados em desenvolvimento | confrontar com fases |
-| seis fases | referência sem fonte acessível | não reconstruir |
-| Jornada Fenomenológica | referência sem fonte acessível | localizar documento |
-| seis dimensões do EIXO Integrador | proposta anterior | não converter em fases |
-| sequências dos mapas | patrimônio visual | usar apenas como comparação |
-| integração, Essência, expressão e contribuição | horizonte progressivo | não presumir fases ou resultados garantidos |
-| Matriz de Inserção Transversal | artefato futuro | manter bloqueada |
+| Conteúdo aberto | mudança de paradigma | perceber / iniciar Tradução |
+| Workshop | organização da experiência | Traduzir / Aprender a Ler |
+| Método EIXO | transformação estruturada | Aprender a Ler / Habitar |
+| Laboratório EIXO | prática continuada e hábito | Estabilizar |
+| Imersão EIXO | incorporação vivida | Encarnar |
+| Patrimônio Intelectual | pesquisa e aprofundamento | sustentar e renovar todos os níveis |
 
-## Critérios da auditoria definitiva
+Consequência: um único curso não precisa prometer completar toda a Jornada Fenomenológica.
 
-Para cada fase será necessário registrar:
+## Estatuto dos quatro movimentos
 
-- nome original;
-- fonte e data;
-- estatuto documental;
-- problema humano enfrentado;
-- função metodológica;
-- capacidades mobilizadas;
-- relação com os quatro movimentos;
-- relação com a Jornada Fenomenológica;
-- operação da Tradução;
-- condição de entrada e saída;
-- indicadores de aprendizagem;
-- riscos e limites;
-- caráter sequencial, recursivo ou transversal;
-- revisões propostas.
+- aprovados na construção atual;
+- coerentes com a competência nuclear;
+- transversais às fases;
+- não substituem a Jornada;
+- não substituem as seis fases;
+- deverão ser confirmados após a decisão sobre os nomes e a ordem das fases.
 
-## Opções para remover o bloqueio
+## Deliberações necessárias
 
-### Caminho A — recuperação histórica recomendada
-
-Sincronizar ou anexar os documentos ausentes. A auditoria distinguirá conteúdo histórico canônico, decisão consolidada, proposta anterior e revisão necessária.
-
-### Caminho B — nova construção explicitamente autorizada
-
-Caso as seis fases nunca tenham sido documentadas de maneira estável, autorizar sua construção atual como **nova arquitetura candidata**, sem apresentá-la como recuperação de um método previamente consolidado.
-
-Os dois caminhos podem convergir depois, mas seus estatutos não devem ser misturados.
+1. Adotar como base histórica revisável as seis fases?
+2. Aprovar a ordem funcional com Fortalecer o EIXO antes de Integrar?
+3. Preservar “Compreender”, adotar “Traduzir” ou combinar os termos?
+4. Substituir “Construir o EIXO” por “Fortalecer o EIXO” ou “Desenvolver capacidade de EIXO”?
+5. Manter “Manifestar” ou adotar “Expressar/Contribuir”?
+6. Definir “Perceber” como condição de entrada ou primeira posição da Jornada?
+7. Aprovar que os quatro movimentos atravessem todas as fases?
+8. Aprovar que Estabilizar e Encarnar excedam o curso e pertençam também ao Laboratório e à Imersão?
 
 ## Portão
 
-A Matriz de Inserção Transversal e a conversão em módulos permanecem bloqueadas até:
-
-1. recuperação das fontes históricas; ou
-2. decisão autoral explícita de construir as seis fases como nova formulação.
-
-## Próxima ação necessária
-
-Disponibilizar no repositório ou nesta conversa os documentos históricos do Método EIXO, especialmente Camada 3, Jornada Fenomenológica e qualquer arquivo que nomeie as seis fases.
+A Matriz de Inserção Transversal e os módulos permanecem bloqueados até a deliberação dos itens acima. A fonte histórica foi recuperada; o bloqueio atual é decisório, não documental.
