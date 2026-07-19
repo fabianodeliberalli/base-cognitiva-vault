@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1800" viewBox="0 0 1800 1800">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="42%"><stop offset="0" stop-color="#fffdf4"/><stop offset="1" stop-color="#eee7d8"/></radialGradient>
+    <radialGradient id="core" cx="45%" cy="35%"><stop offset="0" stop-color="#f6d77b"/><stop offset="1" stop-color="#b88225"/></radialGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-opacity=".16"/></filter>
+    <style>
+      .title{font:700 66px Georgia,serif;fill:#173a39;letter-spacing:1px}.sub{font:30px Arial,sans-serif;fill:#53645f}.node{filter:url(#shadow);stroke:#fffdf4;stroke-width:6}.label{font:700 26px Arial,sans-serif;fill:#173a39;text-anchor:middle}.small{font:24px Arial,sans-serif;fill:#4e5a55;text-anchor:middle}.line{stroke:#9c8e68;stroke-width:5;opacity:.55}.ring{fill:none;stroke:#b8aa82;stroke-width:3;stroke-dasharray:10 14;opacity:.65}
+    </style>
+  </defs>
+  <rect width="1800" height="1800" fill="url(#bg)"/>
+  <text x="900" y="105" class="title" text-anchor="middle" font-size="55">MAPA DAS DIMENSÕES DA EXPERIÊNCIA HUMANA</text>
+  <text x="900" y="155" class="sub" text-anchor="middle">A multidimensionalidade abre possibilidades de Tradução; não obriga preenchimentos.</text>
+  <circle cx="900" cy="940" r="625" class="ring"/>
+  <circle cx="900" cy="940" r="320" class="ring"/>
+  <g class="line">
+    <line x1="900" y1="940" x2="900" y2="315"/><line x1="900" y1="940" x2="1238" y2="414"/><line x1="900" y1="940" x2="1468" y2="680"/>
+    <line x1="900" y1="940" x2="1510" y2="1075"/><line x1="900" y1="940" x2="1338" y2="1395"/><line x1="900" y1="940" x2="1078" y2="1540"/>
+    <line x1="900" y1="940" x2="722" y2="1540"/><line x1="900" y1="940" x2="462" y2="1395"/><line x1="900" y1="940" x2="290" y2="1075"/>
+    <line x1="900" y1="940" x2="332" y2="680"/><line x1="900" y1="940" x2="562" y2="414"/>
+  </g>
+  <circle cx="900" cy="940" r="245" fill="url(#core)" filter="url(#shadow)" stroke="#fff4cd" stroke-width="8"/>
+  <text x="900" y="910" class="title" text-anchor="middle" font-size="52">EXPERIÊNCIA</text>
+  <text x="900" y="973" class="title" text-anchor="middle" font-size="52">HUMANA</text>
+  <text x="900" y="1025" class="small">Um campo vivo, relacional e multidimensional</text>
+  <g>
+    <ellipse cx="900" cy="315" rx="185" ry="92" fill="#d8ece6" class="node"/><text x="900" y="307" class="label"><tspan x="900">Corporal</tspan><tspan x="900" dy="33">e sensorial</tspan></text>
+    <ellipse cx="1238" cy="414" rx="185" ry="92" fill="#f0d8d8" class="node"/><text x="1238" y="406" class="label"><tspan x="1238">Afetiva</tspan><tspan x="1238" dy="33">e emocional</tspan></text>
+    <ellipse cx="1468" cy="680" rx="185" ry="92" fill="#d8e2f0" class="node"/><text x="1468" y="672" class="label"><tspan x="1468">Mental</tspan><tspan x="1468" dy="33">e narrativa</tspan></text>
+    <ellipse cx="1510" cy="1075" rx="185" ry="92" fill="#e8dcf2" class="node"/><text x="1510" y="1067" class="label"><tspan x="1510">Imagética</tspan><tspan x="1510" dy="33">e simbólica</tspan></text>
+    <ellipse cx="1338" cy="1395" rx="185" ry="92" fill="#f3e0aa" class="node"/><text x="1338" y="1387" class="label"><tspan x="1338">Energética</tspan><tspan x="1338" dy="33">e vital</tspan></text>
+    <ellipse cx="1078" cy="1540" rx="185" ry="92" fill="#d9ead1" class="node"/><text x="1078" y="1548" class="label">Relacional</text>
+    <ellipse cx="722" cy="1540" rx="185" ry="92" fill="#ead9c8" class="node"/><text x="722" y="1532" class="label"><tspan x="722">Histórica</tspan><tspan x="722" dy="33">e biográfica</tspan></text>
+    <ellipse cx="462" cy="1395" rx="185" ry="92" fill="#d5e8df" class="node"/><text x="462" y="1387" class="label"><tspan x="462">Contextual</tspan><tspan x="462" dy="33">e cultural</tspan></text>
+    <ellipse cx="290" cy="1075" rx="185" ry="92" fill="#efd9b8" class="node"/><text x="290" y="1083" class="label">Existencial</text>
+    <ellipse cx="332" cy="680" rx="185" ry="92" fill="#dce8ce" class="node"/><text x="332" y="688" class="label">Ética</text>
+    <ellipse cx="562" cy="414" rx="185" ry="92" fill="#e7dcf3" class="node"/><text x="562" y="422" class="label">Espiritual</text>
+  </g>
+  <rect x="210" y="1690" width="1380" height="68" rx="34" fill="#173a39" opacity=".94"/>
+  <text x="900" y="1734" font-family="Arial" font-size="25" fill="#fffdf4" text-anchor="middle">Nenhuma dimensão é obrigatória. Toda dimensão presente no vivido pode tornar-se conteúdo legítimo da Tradução.</text>
+</svg>
