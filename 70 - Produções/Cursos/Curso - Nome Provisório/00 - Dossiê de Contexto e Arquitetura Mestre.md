@@ -5,7 +5,7 @@ curso: nome-provisorio
 status: fase-2-em-andamento
 estado_maturidade: identidade-inicial-definida
 fase_atual: "Fase 2 — Posicionamento institucional e natureza da oferta"
-versao: "0.10"
+versao: "0.11"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-17
 atualizado_em: 2026-07-18
@@ -19,7 +19,7 @@ tags:
 
 # Dossiê de Contexto — Curso [nome provisório]
 
-**Versão:** 0.10  
+**Versão:** 0.11  
 **Estado de maturidade:** identidade inicial definida  
 **Fases concluídas:** Fase 0 — Abertura e governança; Fase 1 — Gênese, identidade e problema humano  
 **Fase autorizada:** Fase 2 — Posicionamento institucional e natureza da oferta
@@ -30,7 +30,7 @@ tags:
 
 - **Código do curso:** a definir;
 - **Nome atual:** Curso [nome provisório];
-- **Versão do Dossiê:** 0.10;
+- **Versão do Dossiê:** 0.11;
 - **Status documental:** documento evolutivo;
 - **Estado de maturidade:** identidade inicial definida;
 - **Data de criação:** 2026-07-17;
@@ -500,6 +500,24 @@ A futura **Matriz de Inserção Transversal** relacionará Três Eus × quatro m
 
 Fundamentação integral: [[Mapa Funcional Transversal dos Três Eus]].
 
+### 9.22. Governança lexical e distinção do horizonte espiritual
+
+**Decisão consolidada — PROJETO / USO CONTEXTUAL.**
+
+As distinções entre self psicológico, Self junguiano, Essência, Alma, Eu Superior, EIXO e Fonte foram aprovadas com governança contextual:
+
+- self psicológico designa organização dinâmica da subjetividade;
+- Self junguiano designa totalidade psíquica e individuação no referencial explicitado;
+- Essência designa horizonte experiencial autoral de autenticidade, potência e coerência profunda;
+- Alma permanece linguagem espiritual, tradicional, filosófica ou poética contextualizada;
+- Eu Superior permanece função tradutiva do mapa auxiliar;
+- EIXO permanece função operacional canônica de presença, discernimento e retorno;
+- Fonte permanece linguagem experiencial, tradicional ou hipótese cosmológica conforme o contexto.
+
+O [[Léxico Mestre do Traduzindo o Ser Humano]] passa a governar definições, qualificadores, estatutos, limites e fontes. Cada oferta derivará um léxico pedagógico reduzido e não apresentará os termos como sinônimos automáticos ou interpretações obrigatórias.
+
+A [[Prática - Ressonância das Linguagens no Eu Essencial]] fica preservada como patrimônio pedagógico candidato. “Eu Essencial” permanece expressão experiencial em avaliação.
+
 ## 10. Princípios pedagógicos do curso
 
 ### Princípios preliminares derivados do projeto e do protocolo
@@ -612,6 +630,8 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 
 | Aprovar os Três Eus como Mapa Funcional Transversal do projeto, mantendo-os não canônicos no Método e candidatos no curso | APROVADO — PROJETO | 2026-07-18 | Sessão 2A-B | Consolida linguagem tradutiva sem tornar o Método dependente dela; abre futura Matriz de Inserção Transversal | Após teste pedagógico, auditoria das seis fases e distinção Self × Essência × Alma |
 
+| Aprovar as distinções entre self psicológico, Self junguiano, Essência, Alma, Eu Superior, EIXO e Fonte sob governança lexical contextual | APROVADO — PROJETO/MÉTODO/CURSO | 2026-07-18 | Sessão 2A-C | Cria vocabulário reutilizável sem sinonímia automática; autoriza Léxico Mestre e prática lexical candidata | Revisão do Léxico ou evidência conceitual relevante |
+
 ## 14. Hipóteses e propostas em avaliação
 
 | Hipótese ou proposta | Origem | Contribuição possível | Risco | Momento de decisão |
@@ -691,18 +711,19 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 | 0.8 | 2026-07-18 | Aprovação do Princípio de Recursividade EIXO–Tradução e abertura da Matriz de Autoridade dos três Eus | Sessão 2A-B |
 | 0.9 | 2026-07-18 | Confirmação da genealogia dos três Eus, confronto com Jung e Rede Tripartite e conclusão de sua autoridade provisória | Sessão 2A-B |
 | 0.10 | 2026-07-18 | Aprovação dos Três Eus como Mapa Funcional Transversal, registro do teste de removibilidade e abertura futura da Matriz de Inserção Transversal | Sessão 2A-B |
+| 0.11 | 2026-07-18 | Aprovação da governança lexical, criação do Léxico Mestre e preservação da prática de ressonância no Eu Essencial | Sessão 2A-C |
 
 ---
 
 ## 18. Próxima sessão
 
-### Sessão 2A-C — Distinção Self × Essência × Alma
+### Sessão 2A-D — Auditoria das Seis Fases e confirmação dos quatro movimentos
 
 - **Fase:** Fase 2 — Posicionamento institucional e natureza da oferta;
-- **Objetivo único:** verificar se Self, Essência e Alma descrevem realidades diferentes, funções distintas, linguagens de tradições diferentes ou perspectivas complementares do mesmo horizonte espiritual;
-- **Relações obrigatórias:** confrontar cada conceito com Eu Superior, EIXO, cláusula de horizonte e linguagem pública do projeto;
-- **Entregável 1:** matriz de distinção funcional, fenomenológica, epistemológica e espiritual;
-- **Entregável 2:** decisão terminológica para o projeto, o Método e a arquitetura global do curso;
-- **Entregável posterior bloqueado:** preenchimento da Matriz de Inserção Transversal dos Três Eus;
-- **Critério de encerramento:** eliminar sinonímias indevidas sem produzir diferenças artificiais e fixar autoridade, função, limite e contexto de uso de cada termo;
-- **Bloqueio mantido:** não decidir módulos, aulas, carga horária, práticas específicas, preço ou promessa comercial antes da visualização do percurso integral.
+- **Objetivo único:** localizar as seis fases nas fontes canônicas do Método EIXO, verificar seus nomes, funções, sequência, recursividade e critérios de progressão e confirmar a formulação final dos quatro movimentos;
+- **Entradas:** documentos oficiais do Método EIXO, Jornada Fenomenológica, Dossiê, Princípio de Recursividade EIXO–Tradução e Léxico Mestre;
+- **Entregável 1:** ficha de autoridade de cada fase;
+- **Entregável 2:** formulação consolidada ou revisada dos quatro movimentos;
+- **Entregável posterior desbloqueado:** Matriz de Inserção Transversal dos Três Eus;
+- **Critério de encerramento:** distinguir conteúdo canônico, elaboração consolidada, proposta anterior e hipótese nova em cada fase;
+- **Bloqueio mantido:** não converter fases em módulos ou aulas antes da arquitetura integral.
