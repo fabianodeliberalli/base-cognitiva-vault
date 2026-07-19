@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="2000" viewBox="0 0 1800 2000">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fffdf5"/><stop offset="1" stop-color="#ece6d8"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="7" stdDeviation="10" flood-opacity=".16"/></filter>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#9a7634"/></marker>
+    <style>.title{font:700 68px Georgia,serif;fill:#183a38}.sub{font:29px Arial,sans-serif;fill:#58625d}.num{font:700 45px Georgia,serif;fill:#fff}.h{font:700 31px Arial,sans-serif;fill:#173a39}.p{font:24px Arial,sans-serif;fill:#4e5854}.card{stroke:#fffdf5;stroke-width:6;filter:url(#shadow)}.flow{fill:none;stroke:#9a7634;stroke-width:8;marker-end:url(#arrow);opacity:.78}</style>
+  </defs>
+  <rect width="1800" height="2000" fill="url(#bg)"/>
+  <text x="900" y="105" class="title" text-anchor="middle">MODELO DOS SETE NÍVEIS DA EXPERIÊNCIA</text>
+  <text x="900" y="158" class="sub" text-anchor="middle">Um mapa global para impedir a passagem automática do vivido à conclusão.</text>
+  <path d="M455 365 C1430 420, 360 600, 1345 690 S370 940, 1345 1040 S370 1295, 1345 1400 S430 1655, 1180 1770" class="flow"/>
+  <g>
+    <rect x="250" y="260" width="720" height="170" rx="60" fill="#d8ece6" class="card"/><circle cx="330" cy="345" r="52" fill="#34756d"/><text x="330" y="361" class="num" text-anchor="middle">1</text><text x="410" y="330" class="h">FENÔMENO VIVIDO</text><text x="410" y="375" class="p">O que se apresenta antes de uma explicação definitiva.</text>
+    <rect x="830" y="470" width="720" height="170" rx="60" fill="#f0dfb5" class="card"/><circle cx="910" cy="555" r="52" fill="#b07a25"/><text x="910" y="571" class="num" text-anchor="middle">2</text><text x="990" y="540" class="h">TRADUÇÃO DA EXPERIÊNCIA</text><text x="990" y="585" class="p">Como o vivido começa a tornar-se perceptível e legível.</text>
+    <rect x="250" y="680" width="720" height="170" rx="60" fill="#dce5f2" class="card"/><circle cx="330" cy="765" r="52" fill="#3b5f8b"/><text x="330" y="781" class="num" text-anchor="middle">3</text><text x="410" y="750" class="h">INTERPRETAÇÃO</text><text x="410" y="795" class="p">O significado que o experienciador atribui ao vivido.</text>
+    <rect x="830" y="890" width="720" height="170" rx="60" fill="#e8dcf2" class="card"/><circle cx="910" cy="975" r="52" fill="#76508e"/><text x="910" y="991" class="num" text-anchor="middle">4</text><text x="990" y="960" class="h">HIPÓTESES EXPLICATIVAS</text><text x="990" y="1005" class="p">Mapas e possibilidades sobre origem, natureza e relações.</text>
+    <rect x="250" y="1100" width="720" height="170" rx="60" fill="#efd9c9" class="card"/><circle cx="330" cy="1185" r="52" fill="#a15e4b"/><text x="330" y="1201" class="num" text-anchor="middle">5</text><text x="410" y="1170" class="h">IMPLICAÇÕES EXISTENCIAIS</text><text x="410" y="1215" class="p">O que a experiência modifica em identidade, sentido e vida.</text>
+    <rect x="830" y="1310" width="720" height="170" rx="60" fill="#dce9cf" class="card"/><circle cx="910" cy="1395" r="52" fill="#5b7f48"/><text x="910" y="1411" class="num" text-anchor="middle">6</text><text x="990" y="1380" class="h">CONDIÇÕES DE INTEGRAÇÃO</text><text x="990" y="1425" class="p">Presença, suporte, contexto, limites e recursos necessários.</text>
+    <rect x="540" y="1570" width="720" height="170" rx="60" fill="#d8e8de" class="card"/><circle cx="620" cy="1655" r="52" fill="#326f59"/><text x="620" y="1671" class="num" text-anchor="middle">7</text><text x="700" y="1640" class="h">INCORPORAÇÃO</text><text x="700" y="1685" class="p">Como a aprendizagem começa a ganhar forma na vida.</text>
+  </g>
+  <rect x="235" y="1830" width="1330" height="105" rx="50" fill="#183a38"/>
+  <text x="900" y="1873" font-family="Arial" font-size="25" fill="#fff" text-anchor="middle">A experiência pode ser real e transformadora sem que sua origem esteja demonstrada.</text>
+  <text x="900" y="1910" font-family="Arial" font-size="23" fill="#dce9e5" text-anchor="middle">Os níveis se relacionam e podem ser revisitados; não formam uma escada rígida.</text>
+</svg>
