@@ -5,7 +5,7 @@ curso: nome-provisorio
 status: fase-2-em-andamento
 estado_maturidade: identidade-inicial-definida
 fase_atual: "Fase 2 — Posicionamento institucional e natureza da oferta"
-versao: "0.13"
+versao: "0.14"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-17
 atualizado_em: 2026-07-18
@@ -19,7 +19,7 @@ tags:
 
 # Dossiê de Contexto — Curso [nome provisório]
 
-**Versão:** 0.13  
+**Versão:** 0.14  
 **Estado de maturidade:** identidade inicial definida  
 **Fases concluídas:** Fase 0 — Abertura e governança; Fase 1 — Gênese, identidade e problema humano  
 **Fase autorizada:** Fase 2 — Posicionamento institucional e natureza da oferta
@@ -30,7 +30,7 @@ tags:
 
 - **Código do curso:** a definir;
 - **Nome atual:** Curso [nome provisório];
-- **Versão do Dossiê:** 0.13;
+- **Versão do Dossiê:** 0.14;
 - **Status documental:** documento evolutivo;
 - **Estado de maturidade:** identidade inicial definida;
 - **Data de criação:** 2026-07-17;
@@ -296,6 +296,31 @@ Esses critérios não constituem instrumentos diagnósticos nem promessas previa
 ### 8.3. Regra de curadoria
 
 Nenhum ativo será incluído apenas por sua riqueza geral. Sua entrada dependerá de função demonstrável na transformação e na arquitetura do curso.
+
+
+### 8.4. Pacote comercial inicial e protoarquitetura curricular
+
+**Status:** patrimônio histórico de concepção e patrimônio curricular estruturante em revisão.
+
+Foram auditadas duas apresentações e três documentos de formulação de produto. O conjunto confirma a genealogia clínica, intelectual, pedagógica e comercial do curso, mas mistura projeto, método, produto, práticas, fundamentação e hipóteses de mercado.
+
+Decisões documentais:
+
+- o **Raio X definitivo** é reconhecido como protoarquitetura curricular histórica, não como currículo aprovado;
+- seus seis módulos permanecem como fases candidatas e banco de conteúdos;
+- cada tópico será rastreado e classificado, evitando perda de patrimônio e excesso curricular;
+- apresentações e documentos de produto permanecem como fontes históricas;
+- público, duração, preço e promessas comerciais permanecem hipóteses;
+- práticas especializadas dependem de protocolo de segurança e decisão específica;
+- a relação circular Tradução–EIXO orienta a revisão da sequência;
+- o participante não precisará aprender toda a genealogia teórica para desenvolver competência.
+
+Documentos relacionados:
+
+- [[Pacote Comercial Inicial - Manifesto de Fontes e Proveniência]];
+- [[Auditoria Curricular Pormenorizada do Raio X Definitivo]];
+- [[Matriz de Reaproveitamento do Patrimônio Inicial]].
+
 
 ---
 
