@@ -4,7 +4,7 @@ projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 fase: "Fase 2 — Posicionamento institucional e natureza da oferta"
 sessao: "2A-C — Self, Essência e Alma"
-status: em-deliberacao-autoral
+status: distincoes-aprovadas-lexico-iniciado
 criado_em: 2026-07-18
 atualizado_em: 2026-07-18
 autor: Fabiano Deliberalli
@@ -87,29 +87,49 @@ A cosmologia de Laszlo não define self psicológico, não comprova Alma ou Ess�
 
 > Self, Essência e Alma podem convergir como perspectivas de profundidade, totalidade e transcendência, mas não serão tratados como sinônimos técnicos. Self designará processos de organização ou totalidade psíquica conforme o referencial explicitado; Essência designará o horizonte experiencial de autenticidade, potência e coerência profunda; Alma permanecerá linguagem espiritual, tradicional ou poética contextualizada. Eu Superior será a função tradutiva de orientação do mapa auxiliar, enquanto EIXO permanecerá a função operacional de presença, discernimento e retorno.
 
+## Deliberação autoral — aprovada com governança contextual
+
+Fabiano Deliberalli considerou adequadas as distinções entre self psicológico, Self junguiano, Essência, Alma, Eu Superior e EIXO e aprovou sua preservação como patrimônio lexical, reconhecendo que podem gerar confusão quando apresentados sem contexto pedagógico.
+
+Ficam aprovadas as seguintes regras:
+
+- todos os termos podem servir ao projeto, ao curso e a outras derivações;
+- a presença será contextual, progressiva e subordinada à necessidade;
+- os termos serão recursos didáticos e experienciais, não interpretações obrigatórias;
+- o [[Léxico Mestre do Traduzindo o Ser Humano]] governará definições, qualificadores, estatutos e limites;
+- cada oferta utilizará apenas um léxico pedagógico reduzido;
+- a [[Prática - Ressonância das Linguagens no Eu Essencial]] fica preservada como patrimônio pedagógico candidato;
+- “Eu Essencial” permanece expressão experiencial em avaliação, não nova equivalência técnica.
+
 ## Consequência para a cláusula de horizonte
 
 Formulação candidata revisada:
 
 > Ao longo desse percurso, o Método favorece processos progressivos de integração e expressão coerente da experiência. Em seu horizonte existencial e espiritual não dogmático, reconhece a possibilidade de que a pessoa se aproxime daquilo que, conforme sua experiência e tradição, pode nomear como Self, Essência, Alma, Verdadeiro Eu ou dimensão mais profunda de si, sem presumir que esses termos sejam equivalentes nem impor uma interpretação metafísica única.
 
-## Questões para deliberação autoral
+## Questões autorais encerradas
 
-1. Essência será o termo autoral principal para o horizonte espiritual do projeto?
-2. A distinção entre self psicológico e Self junguiano está aprovada?
-3. Alma permanecerá linguagem contextual e não conceito operacional?
-4. Eu Superior permanecerá função do mapa, sem equivalência ontológica?
-5. A cláusula de horizonte revisada substitui ou apenas esclarece a formulação atual?
+- Essência integra o Léxico como conceito autoral de horizonte; sua posição canônica final no Método depende da arquitetura.
+- A distinção entre self psicológico e Self junguiano está aprovada.
+- Alma permanece linguagem contextual, não mecanismo operacional.
+- Eu Superior permanece função do mapa auxiliar, sem equivalência ontológica.
+- A cláusula de horizonte revisada é aceita como esclarecimento candidato e será fixada no Dossiê conforme a governança lexical.
 
-## Portão de encerramento
+## Encerramento da sessão
 
-A sessão será concluída quando Fabiano aprovar ou revisar:
+A distinção conceitual foi aprovada com governança contextual e o Léxico Mestre foi iniciado.
 
-- a matriz;
-- a definição de Essência;
-- o estatuto de Alma;
-- a distinção self/Self;
-- a relação do Eu Superior;
-- a cláusula de horizonte.
+### Entregáveis concluídos
 
-Somente depois serão atualizados o Dossiê e a futura Matriz de Inserção Transversal.
+- matriz de distinção;
+- definições iniciais;
+- estatuto de Alma;
+- distinção self/Self;
+- relação do Eu Superior;
+- biblioteca integral e espiritual;
+- Léxico Mestre v0.1;
+- prática lexical candidata.
+
+### Próximo portão
+
+Antes da Matriz de Inserção Transversal, auditar as seis fases do Método EIXO e confirmar a formulação final dos quatro movimentos.
