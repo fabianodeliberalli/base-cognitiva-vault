@@ -4,9 +4,9 @@ projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 fase: "Fase 2 — Posicionamento institucional e natureza da oferta"
 sessao: "2A-F — Deliberação das Seis Fases do Método EIXO"
-status: deliberacao-autoral-aberta
+status: recursividade-aprovada-deliberacao-em-andamento
 criado_em: 2026-07-18
-atualizado_em: 2026-07-18
+atualizado_em: 2026-07-19
 autor: Fabiano Deliberalli
 tags:
   - metodo-eixo
@@ -147,3 +147,40 @@ A matriz completa entre quatro movimentos, seis fases e Jornada Fenomenológica 
 - [[Matriz de Reaproveitamento do Patrimônio Inicial]]
 - [[Sessão 2A-D - Auditoria das Seis Fases e dos Quatro Movimentos]]
 - [[Dossiê de Contexto e Arquitetura Mestre]]
+
+
+## Deliberação aprovada — Recursividade
+
+**Data:** 2026-07-19  
+**Origem:** deliberação autoral nesta sessão.
+
+### Formulação canônica aprovada
+
+> **As seis fases constituem um percurso pedagógico recursivo. Cada fase possui um foco predominante, mas mobiliza capacidades das demais e pode ser retomada conforme a experiência e o contexto.**
+
+> **Algum EIXO, alguma presença e alguma Tradução participam desde o início; o percurso amplia progressivamente a capacidade de reconhecê-los, acessá-los e utilizá-los.**
+
+> **Retornar não é regredir. Expressar-se produz consequências e novas informações; reconhecê-las, reparar quando necessário e aprender com elas reinicia o ciclo.**
+
+### Explicação metodológica aprovada
+
+1. **Cláusula nuclear:** as seis fases formam um percurso pedagógico recursivo; cada fase possui foco predominante, mobiliza as demais e pode ser retomada.
+2. **Cláusula de retorno:** retornar não representa regressão ou fracasso, mas capacidade de reconhecer o que a experiência atual necessita.
+3. **Cláusula do EIXO:** algum EIXO participa desde o início; o percurso torna mais reconhecível, acessível e praticável a capacidade de reencontrar orientação.
+4. **Cláusula da Tradução:** a Tradução recebe foco inicial, mas atravessa todo o Método; mudanças de estado, compreensão, relação ou resposta podem exigir nova Tradução.
+5. **Cláusula da regulação:** regulação e presença não são etapas definitivamente concluídas; são recursos recuperáveis e aprofundáveis em qualquer fase.
+6. **Cláusula da integração:** integrações possíveis fortalecem o EIXO; um EIXO mais acessível cria condições para novas integrações.
+7. **Cláusula da expressão:** toda expressão produz efeitos e novas informações; observar consequências, reparar e aprender reinicia o percurso.
+
+### Ativos pedagógicos aprovados
+
+- **“Retornar não é regredir.”**
+- árvore espiral como metáfora candidata;
+- verticalidade como desenvolvimento funcional, não hierarquia espiritual;
+- EIXO representado como função dinâmica de orientação e retorno;
+- Perceber representado como campo transversal, não como fase numerada;
+- Reparação e Aprendizagem representadas no movimento de retorno da Fase 6 à Fase 1.
+
+### Estatuto da imagem
+
+A imagem produzida nesta sessão é um **protótipo visual revisado**. Ainda depende de auditoria gráfica final, inserção no vault e eventual redesenho editorial antes de adquirir estatuto canônico.
