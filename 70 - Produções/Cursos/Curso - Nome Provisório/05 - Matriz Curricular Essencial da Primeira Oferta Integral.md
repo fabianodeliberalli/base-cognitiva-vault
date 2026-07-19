@@ -3,8 +3,8 @@ tipo: matriz-curricular-essencial
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 metodo: EIXO
-status: fase-1-em-deliberacao
-versao: "0.1"
+status: fase-1-aprovada-para-prototipagem
+versao: "0.2"
 criado_em: 2026-07-19
 atualizado_em: 2026-07-19
 autor: Fabiano Deliberalli
@@ -248,3 +248,26 @@ A preencher após aprovação da Fase 5.
 - [[Matriz Integrada - Quatro Movimentos, Seis Fases e Jornada Fenomenológica]]
 - [[Matriz de Reaproveitamento do Patrimônio Inicial]]
 - [[Pedagogia das Distinções Experienciais]]
+
+
+# Atualização 0.2 — pacote de entrada aprovado para prototipagem
+
+## Decisões incorporadas
+
+- O **Mapa das Dimensões da Experiência Humana** orienta os quatro movimentos e atravessa as seis fases; não cria uma fase adicional.
+- O **Modelo dos Sete Níveis** é apresentado integralmente desde o começo e utilizado progressivamente.
+- A primeira prática utiliza a **Cartografia das Cinco Janelas** como porta experiencial para os sete níveis.
+- A prática principal passa a chamar-se **Cartografia Multidimensional Inicial da Experiência** e recebe ficha própria em oito passos.
+- Experiências e linguagens energéticas, simbólicas, existenciais e espirituais são conteúdos legítimos da Tradução quando fizerem parte do vivido. Não precisam ser reduzidas a explicações psicológicas ou neurobiológicas, nem convertidas automaticamente em descrições objetivas da realidade.
+- Nenhuma pessoa precisa localizar conteúdo em todas as dimensões; o mapa abre possibilidades e não obriga preenchimentos.
+
+## Competência mínima revisada da Fase 1
+
+> Diante de uma experiência escolhida dentro de condições possíveis de presença e sustentação, o participante começa a reconhecê-la em sua multidimensionalidade, diferenciando o que se apresenta, como se manifesta, como é nomeada e interpretada e quais hipóteses permanecem abertas. A partir disso, produz uma Tradução provisória que amplia legibilidade, contato e possibilidade de orientação, sem reduzir o vivido a uma explicação única.
+
+## Materiais vinculados
+
+- [[06 - Pacote de Mapas e Conteúdos de Entrada]]
+- [[07 - Ficha - Cartografia Multidimensional Inicial da Experiência]]
+- [[08 - Banco de Exemplos Didáticos da Cartografia Multidimensional]]
+- [[09 - Esqueleto Estrutural da Primeira Oferta Integral para Mentoria]]
