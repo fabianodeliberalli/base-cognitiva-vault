@@ -194,3 +194,21 @@ A imagem produzida nesta sessão é um **protótipo visual revisado**. Ainda dep
 - **SHA-256:** 9c0f691f8bf7131884a1d9d332946c1de6b64e60a2d4423cfa95eb3229b8b07c
 - **Estatuto:** metáfora candidata e protótipo revisado;
 - **Funções visuais:** EIXO dinâmico; Perceber como campo transversal; Reparação e Aprendizagem como retorno; verticalidade como desenvolvimento funcional, não hierarquia espiritual.
+
+
+## Deliberação aprovada — Perceber, Presença e Distinções
+
+**Data:** 2026-07-19.
+
+1. **Perceber** é condição transversal de entrada e recorrência, não Fase 0 ou sétima fase.
+2. **Presença** é capacidade transversal de contato, sustentação e retorno; recebe aprofundamento explícito na Fase 2, sem ficar restrita a ela.
+3. **Fase 1** oferece o primeiro foco de Perceber e Tradução.
+4. **Fase 3** sistematiza as distinções funcionais.
+5. A **Pedagogia das Distinções Experienciais** é componente transversal do Método.
+6. As distinções serão ensinadas a partir da experiência e distribuídas pelas seis fases, não reunidas em módulo teórico isolado.
+
+Síntese aprovada:
+
+> **Perceber permite que algo apareça; presença permite permanecer ou retornar; observação acompanha; diferenciação esclarece; Tradução torna legível; o EIXO orienta a resposta.**
+
+Ver [[Pedagogia das Distinções Experienciais]].
