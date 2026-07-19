@@ -2,7 +2,7 @@
 tipo: relacao-conceitual
 projeto: Traduzindo o Ser Humano
 metodo: Método EIXO
-status: proposta-em-avaliacao
+status: consolidada-com-governanca-contextual
 criado_em: 2026-07-18
 atualizado_em: 2026-07-18
 fontes:
@@ -144,4 +144,6 @@ O EIXO não produz a Essência nem comprova a Alma. Ele amplia a capacidade de s
 
 ## Estatuto
 
-**PROPOSTA EM AVALIAÇÃO AUTORAL.** Não atualizar como decisão consolidada do Dossiê antes de aprovação de Fabiano Deliberalli.
+**CONSOLIDADO COM GOVERNANÇA CONTEXTUAL.** As distinções foram aceitas por Fabiano Deliberalli e passam a integrar o [[Léxico Mestre do Traduzindo o Ser Humano]]. Sua entrada em ofertas permanece seletiva e subordinada à necessidade pedagógica.
+
+A [[Prática - Ressonância das Linguagens no Eu Essencial]] preserva o uso experiencial dos termos sem fechar interpretação.
