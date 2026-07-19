@@ -5,7 +5,7 @@ curso: nome-provisorio
 status: fase-2-em-andamento
 estado_maturidade: identidade-inicial-definida
 fase_atual: "Fase 2 — Posicionamento institucional e natureza da oferta"
-versao: "0.12"
+versao: "0.13"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-17
 atualizado_em: 2026-07-18
@@ -19,7 +19,7 @@ tags:
 
 # Dossiê de Contexto — Curso [nome provisório]
 
-**Versão:** 0.12  
+**Versão:** 0.13  
 **Estado de maturidade:** identidade inicial definida  
 **Fases concluídas:** Fase 0 — Abertura e governança; Fase 1 — Gênese, identidade e problema humano  
 **Fase autorizada:** Fase 2 — Posicionamento institucional e natureza da oferta
@@ -30,7 +30,7 @@ tags:
 
 - **Código do curso:** a definir;
 - **Nome atual:** Curso [nome provisório];
-- **Versão do Dossiê:** 0.12;
+- **Versão do Dossiê:** 0.13;
 - **Status documental:** documento evolutivo;
 - **Estado de maturidade:** identidade inicial definida;
 - **Data de criação:** 2026-07-17;
@@ -518,21 +518,28 @@ O [[Léxico Mestre do Traduzindo o Ser Humano]] passa a governar definições, q
 
 A [[Prática - Ressonância das Linguagens no Eu Essencial]] fica preservada como patrimônio pedagógico candidato. “Eu Essencial” permanece expressão experiencial em avaliação.
 
-### 9.23. Auditoria das seis fases — bloqueio documental
+### 9.23. Auditoria das seis fases — fontes históricas recuperadas
 
-A [[Sessão 2A-D - Auditoria das Seis Fases e dos Quatro Movimentos]] constatou que o repositório acessível menciona as seis fases, a Jornada Fenomenológica e a Camada 3 — Método EIXO, mas não contém os documentos que as definem.
+A [[Sessão 2A-D - Auditoria das Seis Fases e dos Quatro Movimentos]] recuperou as fontes históricas nos chats do projeto e no [[Pacote Inicial - Constituição, Camadas e Manual SOS]].
 
-**Consequências:**
+**Achados consolidados:**
 
-- as seis dimensões do [[EIXO Integrador]] não serão convertidas em fases;
-- as sequências dos mapas não serão apresentadas como arquitetura histórica do Método;
-- os quatro movimentos permanecem aprovados em desenvolvimento, mas aguardam confronto com as fases;
-- a Matriz de Inserção Transversal permanece bloqueada;
-- módulos e aulas continuam bloqueados.
+- as seis fases possuem origem histórica confirmada;
+- há duas ordens divergentes entre Integrar e Construir o EIXO;
+- a Jornada possui versão principal de cinco posições e versão ampliada com Perceber;
+- a Constituição contém progressões pedagógicas relacionadas, mas distintas;
+- Jornada, fases, quatro movimentos e progressões constitucionais não são sinônimos;
+- o Manual SOS v0.1 define a função institucional da Camada 3, mas não congela a ordem das fases;
+- os quatro movimentos permanecem transversais e aprovados em desenvolvimento.
 
-**Caminho recomendado:** recuperar Camada 3, Jornada Fenomenológica, Constituição Filosófico-Pedagógica, Manual Institucional e versões históricas do Método.
+**Ordens históricas:**
 
-**Alternativa dependente de autorização:** caso não exista formulação histórica estável, construir as seis fases como nova arquitetura candidata, registrando explicitamente seu caráter novo.
+1. Compreender → Regular → Observar → Integrar → Construir o EIXO → Manifestar;
+2. Compreender → Regular → Observar → Construir o EIXO → Integrar → Manifestar.
+
+**Recomendação em deliberação:** Compreender/Traduzir → Regular → Observar → Fortalecer o EIXO → Integrar progressivamente → Expressar/Manifestar, preservando a recursividade entre EIXO, Tradução e reorganização.
+
+O bloqueio deixou de ser documental e passou a ser decisório. A Matriz de Inserção Transversal e os módulos aguardam deliberação autoral sobre nomes, ordem e relação com a Jornada.
 
 ## 10. Princípios pedagógicos do curso
 
@@ -729,16 +736,22 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 | 0.10 | 2026-07-18 | Aprovação dos Três Eus como Mapa Funcional Transversal, registro do teste de removibilidade e abertura futura da Matriz de Inserção Transversal | Sessão 2A-B |
 | 0.11 | 2026-07-18 | Aprovação da governança lexical, criação do Léxico Mestre e preservação da prática de ressonância no Eu Essencial | Sessão 2A-C |
 | 0.12 | 2026-07-18 | Abertura da auditoria das seis fases e registro da ausência das fontes canônicas necessárias | Sessão 2A-D |
+| 0.13 | 2026-07-19 | Recuperação das fontes históricas, identificação das ordens divergentes das seis fases e abertura da deliberação funcional | Sessão 2A-D |
 
 ---
 
 ## 18. Próxima sessão
 
-### Continuação da Sessão 2A-D — Recuperação canônica das seis fases
+### Continuação da Sessão 2A-D — Deliberação funcional das seis fases
 
-- **Status:** bloqueada por fontes ausentes;
-- **Objetivo imediato:** localizar ou receber Camada 3 — Método EIXO, Jornada Fenomenológica, Constituição Filosófico-Pedagógica, Manual Institucional e qualquer versão histórica que nomeie as seis fases;
-- **Após recuperação:** auditar cada fase por nome, função, sequência, recursividade, Tradução, capacidades, indicadores e limites;
-- **Decisão alternativa necessária:** se não houver formulação histórica estável, autorizar explicitamente uma nova construção candidata das seis fases;
+- **Status:** fontes históricas recuperadas; divergências em deliberação;
+- **Objetivo imediato:** decidir nomes, ordem e estatuto das seis fases;
+- **Questão 1:** Integrar antes ou depois de Fortalecer o EIXO?;
+- **Questão 2:** Compreender, Traduzir ou Compreender/Traduzir?;
+- **Questão 3:** Construir o EIXO, Fortalecer o EIXO ou Desenvolver capacidade de EIXO?;
+- **Questão 4:** Manifestar, Expressar/Contribuir ou Manifestar com coerência?;
+- **Questão 5:** Perceber é condição de entrada ou primeira posição da Jornada?;
+- **Questão 6:** Estabilizar e Encarnar excedem o curso e pertencem também ao Laboratório e à Imersão?;
+- **Entregável:** formulação candidata revisada das seis fases e sua correlação não equivalente com Jornada, movimentos e níveis de aprendizagem;
 - **Entregável posterior bloqueado:** Matriz de Inserção Transversal;
-- **Bloqueio mantido:** não converter mapas ou seis dimensões em fases; não iniciar módulos ou aulas.
+- **Bloqueio mantido:** não iniciar módulos ou aulas antes da deliberação.
