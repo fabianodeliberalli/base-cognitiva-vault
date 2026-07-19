@@ -5,7 +5,7 @@ curso: nome-provisorio
 status: fase-2-em-andamento
 estado_maturidade: identidade-inicial-definida
 fase_atual: "Fase 2 — Posicionamento institucional e natureza da oferta"
-versao: "0.15"
+versao: "0.16"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-17
 atualizado_em: 2026-07-19
@@ -19,7 +19,7 @@ tags:
 
 # Dossiê de Contexto — Curso [nome provisório]
 
-**Versão:** 0.15  
+**Versão:** 0.16  
 **Estado de maturidade:** identidade inicial definida  
 **Fases concluídas:** Fase 0 — Abertura e governança; Fase 1 — Gênese, identidade e problema humano  
 **Fase autorizada:** Fase 2 — Posicionamento institucional e natureza da oferta
@@ -30,7 +30,7 @@ tags:
 
 - **Código do curso:** a definir;
 - **Nome atual:** Curso [nome provisório];
-- **Versão do Dossiê:** 0.15;
+- **Versão do Dossiê:** 0.16;
 - **Status documental:** documento evolutivo;
 - **Estado de maturidade:** identidade inicial definida;
 - **Data de criação:** 2026-07-17;
@@ -148,6 +148,23 @@ O curso:
 - não deverá prometer profundidade superior às condições reais de formato, duração e acompanhamento;
 - não deverá apresentar hipóteses como fatos ou propostas como decisões oficiais;
 - não deverá antecipar integralmente o Método EIXO sem deliberação institucional.
+
+
+### 3.6. Princípio da arquitetura global invariável
+
+> **A arquitetura do Traduzindo o Ser Humano e do Método EIXO é global e invariável em seus princípios, movimentos, fases e horizonte. Cursos, Workshops, Laboratórios, Imersões e Comunidade oferecem diferentes recortes, intensidades, tempos, práticas e condições de acompanhamento, sem redefinir os elementos nucleares.**
+
+> **Nenhuma capacidade, fase ou posição da Jornada pertence exclusivamente a uma oferta. Todas podem emergir e aprofundar-se em diferentes contextos, sem que o formato produza ou garanta o desenvolvimento correspondente.**
+
+Consequências:
+
+- Estabilizar descreve amadurecimento longitudinal da competência EIXO, não território de um produto;
+- Encarnar descreve incorporação progressiva na vida, não território de uma Imersão;
+- ofertas variam por regime pedagógico, não por formulações fundamentais;
+- todo novo produto deverá declarar seu recorte sem alterar silenciosamente a arquitetura comum.
+
+Ver [[Princípio da Arquitetura Global Invariante]].
+
 
 ---
 
