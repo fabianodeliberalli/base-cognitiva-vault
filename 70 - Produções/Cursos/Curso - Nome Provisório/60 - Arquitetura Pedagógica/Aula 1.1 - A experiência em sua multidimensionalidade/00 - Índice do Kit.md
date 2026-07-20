@@ -40,3 +40,15 @@ estado: em-deliberacao
 - exemplo demonstrativo;
 - lugar do registro simbólico;
 - modalidade de compartilhamento.
+
+
+## Patrimônio ABBSP incorporado
+
+- [[10 - Diferenciação de Níveis sem Colapso]]
+- [[11 - Semente, Casca, Campo e Árvore]]
+- [[12 - Sentir, Interocepção e Coração]]
+- [[01 - Matriz de Extração ABBSP]]
+
+### Regra de inserção
+
+Nesta aula, o patrimônio ABBSP entra como exemplo e cartografia inicial. Não entram aprofundamentos sobre Energia Livre, Markov blanket, Rede Tripartite, Tan Tien, psicopatologia ou alquimia taoista.
