@@ -136,3 +136,22 @@ Hipótese histórica da mentoria: produto principal em faixa superior, possivelm
 9. objeções e respostas;
 10. descrição final de cada módulo e aula.
 
+
+
+# Evidência de materialização — Aula 0.1
+
+**Estado:** produzida para ensaio.
+
+O primeiro kit vertical do curso foi materializado com:
+
+- PowerPoint de 12 slides;
+- roteiro do educador;
+- caderno do participante em PDF;
+- microprática;
+- exemplo demonstrativo;
+- cartões de síntese;
+- instrumento de entrada e saída.
+
+Esta evidência pode ser apresentada na mentoria como demonstração do método de produção. Ainda não fixa identidade visual definitiva, promessa comercial, duração total ou preço.
+
+Material: [[00 - Kit da Aula 0.1]]
