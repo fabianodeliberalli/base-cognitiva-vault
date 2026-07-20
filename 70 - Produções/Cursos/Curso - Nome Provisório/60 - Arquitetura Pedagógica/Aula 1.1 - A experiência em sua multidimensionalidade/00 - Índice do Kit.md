@@ -52,3 +52,21 @@ estado: em-deliberacao
 ### Regra de inserção
 
 Nesta aula, o patrimônio ABBSP entra como exemplo e cartografia inicial. Não entram aprofundamentos sobre Energia Livre, Markov blanket, Rede Tripartite, Tan Tien, psicopatologia ou alquimia taoista.
+
+
+## Arquivos já produzidos
+
+- [[01 - Deliberações de Produção]]
+- [[02 - Roteiro do Educador v1]]
+- [[03 - Ficha Cartografia Multidimensional Inicial v1]]
+- [[04 - Banco de Exemplos v1]]
+- [[05 - Folha Estatutos das Linguagens v1]]
+
+## Próxima produção após deliberação
+
+1. roteiro aprovado;
+2. storyboard;
+3. apresentação;
+4. mapas finais vinculados;
+5. ficha diagramada;
+6. critérios de pilotagem.
