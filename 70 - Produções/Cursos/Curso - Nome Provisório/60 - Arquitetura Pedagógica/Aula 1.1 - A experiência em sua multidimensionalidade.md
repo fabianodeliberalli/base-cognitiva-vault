@@ -150,3 +150,24 @@ Esta é uma prática educacional, não investigação diagnóstica nem processam
 3. Deliberar se o registro simbólico ocorrerá nesta aula ou será apenas apresentado para uso opcional entre encontros.
 4. Definir o grau de compartilhamento em dupla/trio na primeira turma.
 
+
+
+## Mapas vinculados
+
+### Uso principal nesta aula
+
+![[90 - Anexos/Mapas Conceituais/Mapa Centro Campo Borda e Sombra - prototipo v1.svg]]
+
+Utilizar apenas para apresentar o campo multidimensional e a diferença entre orientação, campo e interface. O aprofundamento de sombra permanece reservado às Fases 3 e 4.
+
+### Contrato de pluralidade das linguagens
+
+![[90 - Anexos/Mapas Conceituais/Mapa Arquitetura Plural de Validacao - prototipo v2.svg]]
+
+Na Aula 1.1, apresentar a pergunta central — “de onde esta afirmação fala?” — sem aprofundar todos os domínios e estatutos.
+
+### Horizonte posterior, não conteúdo central desta aula
+
+![[90 - Anexos/Mapas Conceituais/Mapa Mandala Labirinto e EIXO - prototipo v1.svg]]
+
+Pode aparecer somente na visão do percurso. Mandala e labirinto serão trabalhados vivencialmente em fases posteriores.
