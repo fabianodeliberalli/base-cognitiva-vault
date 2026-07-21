@@ -1,7 +1,7 @@
 ---
 tipo: indice-kit-aula
 aula: 1.1
-estado: em-prototipagem-visual
+estado: prototipo-visual-concluido
 ---
 
 # Aula 1.1 — Índice do Kit
@@ -91,6 +91,15 @@ A obra contribui para exemplificar presença, corpo condicionado, centros energ�
 
 As deliberações e o roteiro avançaram para o estado **aprovado para prototipagem visual**.
 
+## Pacote visual produzido
+
+- [[09 - Registro de Produção Visual e QA v1]]
+- [[90 - Anexos/Materiais Didáticos/Curso - Nome Provisório/Aula 1.1/Kit Aula 1.1 - A experiencia em sua multidimensionalidade.pptx]]
+- ![[90 - Anexos/Materiais Didáticos/Curso - Nome Provisório/Aula 1.1/Ficha - Cartografia Multidimensional Inicial da Experiencia.pdf]]
+- ![[90 - Anexos/Mapas Conceituais/Semente Casca Campo - prototipo v1.png]]
+
+O protótipo visual foi renderizado e inspecionado integralmente. O estado atual é **concluído para revisão autoral e pilotagem**, não ainda aprovação definitiva para gravação.
+
 ## Próxima tarefa operacional
 
-Montar a apresentação PowerPoint v1 com 22 slides, gerar a ficha diagramada e realizar inspeção visual antes de aprovar o kit para gravação.
+Realizar a **Revisão autoral e o Protocolo de Pilotagem da Aula 1.1**, correlacionando o PowerPoint com o roteiro do educador e os critérios de pilotagem. Depois da decisão, aprovar para piloto, revisar pontos específicos ou iniciar a Aula 1.2 — Do vivido à Tradução.
