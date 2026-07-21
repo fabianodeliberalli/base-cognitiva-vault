@@ -25,7 +25,7 @@ data: 2026-07-20
 |---|---|---|
 | Aula 0.1 | conteúdo anterior a organizar no padrão | [[Aula 0.1 - Índice do Kit]] |
 | Aula 0.2 — Percurso do EIXO | kit documental organizado; apresentação visual produzida | [[Aula 0.2 - Índice do Kit]] |
-| Aula 1.1 — A experiência em sua multidimensionalidade | ficha pedagógica iniciada; em deliberação | [[Aula 1.1 - Índice do Kit]] |
+| Aula 1.1 — A experiência em sua multidimensionalidade | protótipo visual concluído; aguardando revisão autoral e pilotagem | [[Aula 1.1 - Índice do Kit]] |
 
 ## Regras de versionamento
 
@@ -35,3 +35,13 @@ data: 2026-07-20
 - Mapas canônicos, protótipos e candidatos devem declarar seu estatuto.
 - Arquivos visuais finais recebem versão e data.
 - Após cada turma, os ajustes entram no registro de pilotagem antes de alterar o núcleo aprovado.
+
+
+## Regra de continuidade entre chats
+
+Ver [[01 - Protocolo de Continuidade Integral e Abertura de Novos Chats]].
+
+- O Dossiê governa a arquitetura geral.
+- Este Índice governa a organização e o estado comparativo dos kits.
+- O Índice e o registro de QA de cada aula governam o ponto operacional mais recente daquela aula.
+- Mudanças transversais retornam à Orquestração Mestre antes de alterar múltiplos módulos.
