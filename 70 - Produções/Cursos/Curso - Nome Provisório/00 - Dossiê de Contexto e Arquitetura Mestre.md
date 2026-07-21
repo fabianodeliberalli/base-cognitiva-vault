@@ -4,8 +4,8 @@ projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: prototipagem-curricular-em-andamento
 estado_maturidade: arquitetura-integral-em-prototipagem
-fase_atual: "Prototipagem curricular — Deliberação autoral da Aula 1.1"
-versao: "0.19"
+fase_atual: "Prototipagem curricular — Preparação da pilotagem controlada da Aula 1.1"
+versao: "0.20"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-17
 atualizado_em: 2026-07-21
@@ -19,10 +19,10 @@ tags:
 
 # Dossiê de Contexto — Curso [nome provisório]
 
-**Versão:** 0.19  
+**Versão:** 0.20  
 **Estado de maturidade:** arquitetura integral em prototipagem  
 **Fases concluídas:** Fase 0 — Abertura e governança; Fase 1 — Gênese, identidade e problema humano  
-**Fase atual:** prototipagem curricular controlada; revisão técnica concluída e aguardando deliberação autoral da Aula 1.1
+**Fase atual:** prototipagem curricular controlada; Aula 1.1 aprovada para piloto e em preparação pré-piloto
 
 ---
 
@@ -30,7 +30,7 @@ tags:
 
 - **Código do curso:** a definir;
 - **Nome atual:** Curso [nome provisório];
-- **Versão do Dossiê:** 0.19;
+- **Versão do Dossiê:** 0.20;
 - **Status documental:** documento evolutivo;
 - **Estado de maturidade:** arquitetura integral em prototipagem;
 - **Data de criação:** 2026-07-17;
@@ -47,7 +47,7 @@ Este documento deverá permanecer como **Dossiê de Contexto** durante as fases 
 
 ### Atualização operacional — 21 de julho de 2026
 
-A revisão técnica e a correlação documental da Aula 1.1 foram concluídas em [[10 - Revisão Autoral e Protocolo de Pilotagem v1]]. O parecer recomenda dois ajustes operacionais — preenchimento seletivo da ficha e proteção do retorno antes da ponte curricular — e mantém a aula aguardando deliberação autoral. A aula ainda não está aprovada definitivamente para piloto ou gravação.
+A revisão técnica e a correlação documental da Aula 1.1 foram concluídas em [[10 - Revisão Autoral e Protocolo de Pilotagem v1]]. Em 21 de julho de 2026, Fabiano Deliberalli aprovou a Opção 2. Os ajustes de preenchimento seletivo da ficha e proteção do retorno antes da ponte curricular foram incorporados ao Roteiro do Educador v1.1. A aula está aprovada para pilotagem controlada, condicionada ao checklist pré-piloto, e ainda não está aprovada para gravação ou primeira oferta.
 
 ---
 
@@ -823,6 +823,8 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 | 0.12 | 2026-07-18 | Abertura da auditoria das seis fases e registro da ausência das fontes canônicas necessárias | Sessão 2A-D |
 | 0.13 | 2026-07-19 | Recuperação das fontes históricas, identificação das ordens divergentes das seis fases e abertura da deliberação funcional | Sessão 2A-D |
 | 0.18 | 2026-07-21 | Consolidação da regra de continuidade, correção do estado operacional e vinculação da Aula 1.1 ao Índice e ao QA | Auditoria de continuidade integral |
+| 0.19 | 2026-07-21 | Revisão técnica, correlação documental e criação do Protocolo de Pilotagem da Aula 1.1 | Revisão Autoral e Protocolo de Pilotagem |
+| 0.20 | 2026-07-21 | Opção 2 aprovada; dois ajustes incorporados ao roteiro; Aula 1.1 aprovada para pilotagem controlada | Deliberação autoral de Fabiano Deliberalli |
 
 ---
 
@@ -874,13 +876,13 @@ Esta seção prevalece sobre indicações antigas de bloqueio, deliberação das
 
 O [[00 - Índice do Kit]] e o [[09 - Registro de Produção Visual e QA v1]] da Aula 1.1 governam o ponto atual:
 
-> Aula 1.1 concluída para revisão autoral e pilotagem; ainda não aprovada definitivamente para gravação.
+> Aula 1.1 aprovada para pilotagem controlada; inspeção visual direta do PowerPoint e checklist pré-piloto pendentes; ainda não aprovada para gravação ou primeira oferta.
 
 ### Próxima sessão única
 
-> Revisão Autoral e Protocolo de Pilotagem da Aula 1.1, correlacionando PowerPoint, Roteiro do Educador e Critérios de Pilotagem.
+> Preparação pré-piloto da Aula 1.1: inspeção visual direta do PowerPoint em modo apresentação, conclusão do checklist e definição logística.
 
-Após essa decisão: aprovar para piloto, revisar pontos específicos ou iniciar a Aula 1.2 — Do vivido à Tradução.
+Depois: executar e registrar a turma-piloto, deliberar os ajustes e somente então decidir sobre gravação e início da Aula 1.2 — Do vivido à Tradução.
 
 ### Regra de prevalência
 
