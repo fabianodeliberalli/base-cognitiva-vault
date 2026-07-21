@@ -2,9 +2,9 @@
 tipo: dossie-contexto-curso
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
-status: fase-2-em-andamento
-estado_maturidade: identidade-inicial-definida
-fase_atual: "Fase 2 — Posicionamento institucional e natureza da oferta"
+status: prototipagem-curricular-em-andamento
+estado_maturidade: arquitetura-integral-em-prototipagem
+fase_atual: "Prototipagem curricular — Revisão autoral da Aula 1.1"
 versao: "0.18"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-17
@@ -20,9 +20,9 @@ tags:
 # Dossiê de Contexto — Curso [nome provisório]
 
 **Versão:** 0.18  
-**Estado de maturidade:** identidade inicial definida  
+**Estado de maturidade:** arquitetura integral em prototipagem  
 **Fases concluídas:** Fase 0 — Abertura e governança; Fase 1 — Gênese, identidade e problema humano  
-**Fase autorizada:** Fase 2 — Posicionamento institucional e natureza da oferta
+**Fase atual:** prototipagem curricular controlada; Revisão Autoral da Aula 1.1
 
 ---
 
@@ -32,7 +32,7 @@ tags:
 - **Nome atual:** Curso [nome provisório];
 - **Versão do Dossiê:** 0.18;
 - **Status documental:** documento evolutivo;
-- **Estado de maturidade:** identidade inicial definida;
+- **Estado de maturidade:** arquitetura integral em prototipagem;
 - **Data de criação:** 2026-07-17;
 - **Última atualização:** 2026-07-21;
 - **Autor:** Fabiano Deliberalli;
@@ -626,24 +626,24 @@ Ver [[Sessão 2A-F - Deliberação das Seis Fases do Método EIXO]].
 
 ### Estado
 
-**BLOQUEADA PARA PRODUÇÃO.**
+**DESBLOQUEADA PARA PROTOTIPAGEM CURRICULAR CONTROLADA.**
 
-- **Natureza do curso:** em aberto;
+- **Natureza do curso:** curso-piloto formativo integral;
 - **Carga horária:** em aberto;
 - **Duração:** em aberto;
 - **Formato:** em aberto;
 - **Modalidade:** em aberto;
-- **Jornada pedagógica:** em aberto;
-- **Módulos:** não autorizados;
-- **Unidades:** não autorizadas;
-- **Aulas:** não autorizadas;
-- **Práticas:** não autorizadas;
+- **Jornada pedagógica:** Traduzir → Aprender a Ler → Habitar → Estabilizar → Encarnar, com Perceber transversal;
+- **Módulos:** Módulos 0 e 1 autorizados para detalhamento; Módulos 2–6 em estrutura curricular candidata;
+- **Unidades:** organizadas progressivamente pelos kits;
+- **Aulas:** Aula 0.2 organizada; Aula 1.1 com protótipo visual concluído;
+- **Práticas:** autorizadas quando leves, graduadas, facultativas, não expositivas e vinculadas ao objetivo da aula;
 - **Avaliação:** em aberto;
 - **Continuidade:** em aberto.
 
-### Condição de desbloqueio
+### Condição de manutenção da autorização
 
-Identidade, problema humano, público, transformação, posição no ecossistema, patrimônio central e princípios pedagógicos deverão estar suficientemente definidos.
+A produção permanece autorizada enquanto cada aula respeitar identidade, problema humano, público, transformação, arquitetura integral, contrato formativo, teste de necessidade e registro de QA.
 
 
 ### 11.4. Primeira oferta integral
@@ -817,15 +817,16 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 | 0.10 | 2026-07-18 | Aprovação dos Três Eus como Mapa Funcional Transversal, registro do teste de removibilidade e abertura futura da Matriz de Inserção Transversal | Sessão 2A-B |
 | 0.11 | 2026-07-18 | Aprovação da governança lexical, criação do Léxico Mestre e preservação da prática de ressonância no Eu Essencial | Sessão 2A-C |
 | 0.12 | 2026-07-18 | Abertura da auditoria das seis fases e registro da ausência das fontes canônicas necessárias | Sessão 2A-D |
-| 0.13 | 2026-07-19 | Recuperação das fontes históricas, identificação das ordens divergentes das seis fases e abertura da deliberação funcional | Sessão 2A-D |\n| 0.18 | 2026-07-21 | Consolidação da regra de continuidade, correção do estado operacional e vinculação da Aula 1.1 ao Índice e ao QA | Auditoria de continuidade integral |
+| 0.13 | 2026-07-19 | Recuperação das fontes históricas, identificação das ordens divergentes das seis fases e abertura da deliberação funcional | Sessão 2A-D |
+| 0.18 | 2026-07-21 | Consolidação da regra de continuidade, correção do estado operacional e vinculação da Aula 1.1 ao Índice e ao QA | Auditoria de continuidade integral |
 
 ---
 
-## 18. Próxima sessão
+## 18. Histórico — sessão anterior encerrada
 
-### Continuação da Sessão 2A-D — Deliberação funcional das seis fases
+### Sessão 2A-D — Deliberação funcional das seis fases
 
-- **Status:** fontes históricas recuperadas; divergências em deliberação;
+- **Status histórico:** encerrada; as seis fases foram aprovadas em 2026-07-19;
 - **Objetivo imediato:** decidir nomes, ordem e estatuto das seis fases;
 - **Questão 1:** Integrar antes ou depois de Fortalecer o EIXO?;
 - **Questão 2:** Compreender, Traduzir ou Compreender/Traduzir?;
@@ -838,7 +839,7 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 - **Bloqueio mantido:** não iniciar módulos ou aulas antes da deliberação.
 
 
-## 13. Próxima sessão — Protocolo da Primeira Oferta Integral
+## 18.1. Histórico — Protocolo da Primeira Oferta Integral
 
 **Ponto exato de retomada:**
 
