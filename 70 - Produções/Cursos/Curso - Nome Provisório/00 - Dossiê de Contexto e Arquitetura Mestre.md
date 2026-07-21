@@ -301,18 +301,18 @@ Esses critérios não constituem instrumentos diagnósticos nem promessas previa
 
 | Ativo | Contribuição potencial | Fase principal | Status |
 |---|---|---|---|
-| Tradução da Experiência Humana | Metodologia de organização do vivido | Fases 1, 4 e 5 | Em validação autoral |
-| Modelo dos Sete Níveis da Experiência | Matriz de diferenciação epistemológica | Fases 4, 5 e 6 | Protocolo em formação |
-| EIXO Integrador | Hipóteses sobre competências e integração | Fase 5 | Proposta de expansão |
-| Experiências Liminares | Possível problema temático ou caso-limite | Fases 1 e 4 | Em elaboração |
-| Abertura Ontológica Responsável | Limite epistemológico | Fases 4, 5 e 8 | Em elaboração |
-| Transformação e Integração | Critérios qualitativos de resultado | Fases 2, 5 e 8 | Em validação autoral |
-| Dignidade Epistêmica | Princípio ético de linguagem e reconhecimento | Fases 5 e 8 | Em elaboração |
-| Disclosure e Choque Ontológico | Conteúdo temático condicional | Fase 4 ou currículo futuro | Em elaboração |
-| Paradigma Fenomenologia Tradutiva–EIXO | Articulação conceitual candidata | Fase 4 | Paradigma candidato |
-| Relação Fenomenologia–Tradução–EIXO | Síntese de funções distintas | Fases 4 e 5 | Proposta provável |
-| Ampliar o Mundo sem Perder o Centro | Metáfora pedagógica e editorial | Fases 6, 7 ou produção | Metáfora candidata |
-| Kimberly Engels | Possível fundamentação fenomenológica externa | Fase 4 | Fonte bruta não conferida |
+| Tradução da Experiência Humana | Metodologia de organização do vivido | Transversal | Fundamento aprovado |
+| Modelo dos Sete Níveis da Experiência | Matriz de diferenciação epistemológica | Módulos 1, 3 e 5 | Disponível em curadoria; não constitui currículo automático |
+| EIXO Integrador | Competências, coordenação e integração | Transversal | Disponível em diálogo; subordinado à arquitetura aprovada do EIXO |
+| Experiências Liminares | Caso-limite de multidimensionalidade | Módulos 1–5 ou aprofundamento | Aplicação temática disponível |
+| Abertura Ontológica Responsável | Operador epistemológico | Transversal | Formulação consolidada |
+| Transformação e Integração | Critério qualitativo de percurso | Módulos 5–6 e transversal | Formulação consolidada |
+| Dignidade Epistêmica | Princípio ético de linguagem e reconhecimento | Contrato e transversal | Formulação consolidada |
+| Disclosure e Choque Ontológico | Aplicação especializada | Aprofundamento ou currículo futuro | Disponível sob demanda |
+| Paradigma Fenomenologia Tradutiva–EIXO | Articulação conceitual | Fundamento do educador | Disponível para correlação |
+| Relação Fenomenologia–Tradução–EIXO | Síntese de funções distintas | Transversal | Formulação consolidada |
+| Ampliar o Mundo sem Perder o Centro | Metáfora pedagógica e editorial | Módulos 5–6 ou produção | Metáfora disponível |
+| Kimberly Engels | Possível fundamentação fenomenológica externa | Conforme necessidade | Fonte em curadoria bibliográfica |
 
 ### 8.3. Regra de curadoria
 
@@ -709,6 +709,7 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 | Adotar o Protocolo Operacional v1.0 | APROVADO — CURSO | 2026-07-17 | Sessão de governança | Define todo o fluxo | Nova decisão de governança |
 | Não iniciar módulos antes da arquitetura | APROVADO — CURSO | 2026-07-17 | Protocolo v1.0 | Bloqueia produção prematura | Após portão da Fase 8 |
 | Manter o Dossiê como documento evolutivo | APROVADO — CURSO | 2026-07-17 | Protocolo v1.0 | Centraliza contexto e decisões | Após validação integral |
+| Reconciliar autoridade, disponibilidade, função e momento do acervo | APROVADO — CURSO/GOVERNANÇA | 2026-07-21 | Deliberação autoral | Libera consulta e prototipagem sem dissolver autoridade | Revisão formal de governança |
 | Tratar o pacote sobre experiências liminares como patrimônio candidato | APROVADO — CURSO | 2026-07-17 | Avaliação do vault | Preserva contribuição sem determinar tema | Após Fases 1–4 |
 | Não adotar os Sete Níveis como currículo automático | APROVADO — CURSO | 2026-07-17 | Avaliação do vault | Evita antecipação curricular | Após confronto com Jornada e EIXO |
 | Não adotar as seis dimensões como definição oficial do EIXO | APROVADO — CURSO | 2026-07-17 | Avaliação do vault | Preserva fontes estruturantes aprovadas | Após auditoria institucional |
