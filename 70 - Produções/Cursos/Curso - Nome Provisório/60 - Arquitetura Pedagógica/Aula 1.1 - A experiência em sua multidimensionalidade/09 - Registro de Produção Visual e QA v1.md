@@ -1,8 +1,9 @@
 ---
 tipo: registro-producao-visual
 aula: 1.1
-estado: prototipo-visual-concluido
-versao: 1
+estado: aprovado-para-pilotagem-controlada
+versao: "1.1"
+atualizado_em: 2026-07-21
 data: 2026-07-21
 ---
 
@@ -65,9 +66,9 @@ Foi produzido o protótipo **Semente, Casca e Campo**, como metáfora visual de 
 
 ## Estado do kit
 
-**Protótipo visual concluído; aguardando revisão autoral e pilotagem.**
+**Protótipo visual concluído e Aula 1.1 aprovada para pilotagem controlada em 21 de julho de 2026.**
 
-Este estado não significa aprovação definitiva para gravação. A decisão autoral deverá avaliar:
+Este estado não significa aprovação para gravação ou primeira oferta. A pilotagem deverá avaliar:
 
 1. ritmo e densidade da exposição;
 2. duração real da demonstração e da prática;
@@ -104,4 +105,16 @@ Ver [[10 - Revisão Autoral e Protocolo de Pilotagem v1]].
 - retorno deve anteceder e ter prioridade sobre a ponte curricular;
 - Semente–Casca–Campo e a densidade dos slides 13–16 permanecem variáveis de pilotagem;
 - inspeção visual direta do PowerPoint pelo autor permanece pendente;
-- aula aguardando deliberação autoral, ainda não aprovada definitivamente para piloto ou gravação.
+- Opção 2 aprovada por Fabiano Deliberalli;
+- os dois ajustes operacionais foram incorporados ao Roteiro do Educador v1.1;
+- aula aprovada para pilotagem controlada;
+- inspeção visual direta do PowerPoint pelo autor permanece como requisito pré-piloto;
+- aula ainda não aprovada para gravação ou primeira oferta.
+
+## Próxima ação canônica
+
+1. inspeção visual direta do PowerPoint em modo apresentação;
+2. conclusão do checklist pré-piloto;
+3. definição logística;
+4. execução e registro da turma-piloto;
+5. deliberação pós-piloto antes de gravação ou produção da Aula 1.2.
