@@ -133,11 +133,11 @@ A identidade nasce da experiência humana que justifica o curso. Nome, promessa 
 
 ### 3.3. Função estratégica do novo curso
 
-**EM ABERTO.**
+**APROVADA EM NÍVEL ESTRUTURAL:** primeira oferta formativa integral e primeira expressão pedagógica e comercial derivada da arquitetura global do Método EIXO, com função simultânea de formação e validação pedagógica.
 
 ### 3.4. Posição na jornada formativa
 
-**EM ABERTO.**
+**DEFINIDA EM NÍVEL PRELIMINAR:** oferta estruturada de entrada no percurso integral do Método, posterior ao reconhecimento promovido pelo conteúdo aberto e anterior aos aprofundamentos de Laboratório e Imersão. A relação comercial exata com Workshop e Comunidade permanece em deliberação.
 
 ### 3.5. Limites institucionais preliminares
 
@@ -207,18 +207,18 @@ O curso não substitui psicoterapia, acompanhamento médico, cuidado em saúde m
 
 ## 6. Transformação e resultado formativo
 
-- **Estado de entrada:** em aberto;
-- **Estado de saída:** em aberto;
-- **O que compreenderá:** em aberto;
-- **O que poderá nomear:** em aberto;
-- **O que reconhecerá em si:** em aberto;
-- **O que reconhecerá nas relações:** em aberto;
-- **O que será capaz de praticar:** em aberto;
-- **O que poderá integrar à vida:** em aberto;
-- **Autonomia a desenvolver:** em aberto;
-- **Indicadores observáveis:** em aberto;
-- **Não promessas:** em aberto;
-- **Processos posteriores necessários:** em aberto.
+- **Estado de entrada:** repertório prévio relevante, mas dificuldade de acessá-lo e incorporá-lo diante de experiências mobilizadoras;
+- **Estado de saída:** capacidade inicial de reconhecer, sustentar ou recuperar presença, traduzir, discernir e orientar respostas;
+- **O que compreenderá:** compreender não equivale a incorporar; a experiência é multidimensional e admite mapas de estatutos diferentes;
+- **O que poderá nomear:** manifestações, dimensões, interpretações, hipóteses, recursos, valores e direção provisória;
+- **O que reconhecerá em si:** sinais de afastamento, recursos de retorno, padrões e possibilidades de escolha;
+- **O que reconhecerá nas relações:** efeitos recíprocos, contexto, limites, responsabilidade e necessidade possível de reparação;
+- **O que será capaz de praticar:** cartografar, pausar, dosar, recuperar presença possível, diferenciar, traduzir e ensaiar respostas;
+- **O que poderá integrar à vida:** uso progressivo do EIXO e da Tradução em situações cotidianas;
+- **Autonomia a desenvolver:** escolher linguagens, recursos e respostas sem dependência de interpretação única;
+- **Indicadores observáveis:** reconhecer afastamento, retornar, escolher, responder, reparar e aprender;
+- **Não promessas:** cura, estabilidade permanente, integração completa, resolução de trauma, confirmação metafísica ou realização espiritual;
+- **Processos posteriores necessários:** prática continuada, Laboratório, Imersão, comunidade e cuidados profissionais quando pertinentes.
 
 ### Critérios universais de qualidade
 
@@ -246,7 +246,7 @@ Esses critérios não constituem instrumentos diagnósticos nem promessas previa
 - conhecimento declarativo não equivale a competência incorporada;
 - autonomia e discernimento como horizonte formativo.
 
-**Aplicação específica ao curso:** ainda não aprovada.
+**Aplicação específica ao curso:** aprovada como base de construção e já operacionalizada nos Kits das Aulas 0.2 e 1.1, permanecendo sujeita a pilotagem.
 
 ### 7.2. Paradigmas candidatos recuperados
 
@@ -827,7 +827,7 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 ### Sessão 2A-D — Deliberação funcional das seis fases
 
 - **Status histórico:** encerrada; as seis fases foram aprovadas em 2026-07-19;
-- **Objetivo imediato:** decidir nomes, ordem e estatuto das seis fases;
+- **Objetivo histórico:** decidir nomes, ordem e estatuto das seis fases;
 - **Questão 1:** Integrar antes ou depois de Fortalecer o EIXO?;
 - **Questão 2:** Compreender, Traduzir ou Compreender/Traduzir?;
 - **Questão 3:** Construir o EIXO, Fortalecer o EIXO ou Desenvolver capacidade de EIXO?;
@@ -835,8 +835,8 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 - **Questão 5:** Perceber é condição de entrada ou primeira posição da Jornada?;
 - **Questão 6:** Estabilizar e Encarnar excedem o curso e pertencem também ao Laboratório e à Imersão?;
 - **Entregável:** formulação candidata revisada das seis fases e sua correlação não equivalente com Jornada, movimentos e níveis de aprendizagem;
-- **Entregável posterior bloqueado:** Matriz de Inserção Transversal;
-- **Bloqueio mantido:** não iniciar módulos ou aulas antes da deliberação.
+- **Entregável histórico:** Matriz Integrada posteriormente criada em versão 0.1;
+- **Bloqueio histórico:** superado após aprovação das seis fases e autorização da prototipagem curricular.
 
 
 ## 18.1. Histórico — Protocolo da Primeira Oferta Integral
