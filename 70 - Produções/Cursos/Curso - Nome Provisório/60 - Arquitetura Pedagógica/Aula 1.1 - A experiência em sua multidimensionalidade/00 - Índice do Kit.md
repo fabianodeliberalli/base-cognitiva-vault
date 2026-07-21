@@ -70,3 +70,14 @@ Nesta aula, o patrimônio ABBSP entra como exemplo e cartografia inicial. Não e
 4. mapas finais vinculados;
 5. ficha diagramada;
 6. critérios de pilotagem.
+
+
+## Fonte bibliográfica em diálogo
+
+- [[Dispenza, Joe - Como se tornar sobrenatural]]
+- [[Auditoria Bibliográfica - Como se tornar sobrenatural]]
+- [[Perfil de Público - Camila e o Leitor de Dispenza]]
+
+### Uso restrito na Aula 1.1
+
+A obra contribui para exemplificar presença, corpo condicionado, centros energéticos como linguagem experiencial e pluralidade de mapas. Não sustenta promessas de cura, manifestação quântica, causalidade por testemunho ou explicações sobre pineal e campos não locais.
