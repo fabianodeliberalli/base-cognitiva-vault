@@ -1,11 +1,13 @@
 ---
 tipo: criterios-de-pilotagem
 aula: 1.1
-estado: aprovado-para-primeira-oferta
+estado: aprovado-para-uso-na-pilotagem
 versao: 1
 ---
 
 # Critérios de Pilotagem v1 — Aula 1.1
+
+> Estes critérios estão aprovados para orientar a pilotagem. Esse estado não equivale à aprovação da aula para piloto, gravação ou primeira oferta.
 
 ## Evidências de aprendizagem
 
