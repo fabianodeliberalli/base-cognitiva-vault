@@ -1,7 +1,7 @@
 ---
 tipo: indice-kit-aula
 aula: 1.1
-estado: prototipo-visual-concluido
+estado: revisao-tecnica-concluida-aguardando-deliberacao-autoral
 ---
 
 # Aula 1.1 — Índice do Kit
@@ -100,9 +100,15 @@ As deliberações e o roteiro avançaram para o estado **aprovado para prototipa
 
 O protótipo visual foi renderizado e inspecionado integralmente. O estado atual é **concluído para revisão autoral e pilotagem**, não ainda aprovação definitiva para gravação.
 
+## Revisão técnica e Protocolo de Pilotagem
+
+- [[10 - Revisão Autoral e Protocolo de Pilotagem v1]]
+
+A correlação documental foi concluída em 21 de julho de 2026. O parecer técnico preserva o núcleo da aula, recomenda dois ajustes operacionais e mantém a decisão final sob autoridade de Fabiano Deliberalli.
+
 ## Próxima tarefa operacional
 
-Realizar a **Revisão autoral e o Protocolo de Pilotagem da Aula 1.1**, correlacionando o PowerPoint com o roteiro do educador e os critérios de pilotagem. Depois da decisão, aprovar para piloto, revisar pontos específicos ou iniciar a Aula 1.2 — Do vivido à Tradução.
+Deliberar entre: (1) aprovar para piloto assumindo os dois ajustes como regra de condução; (2) incorporar primeiro os dois ajustes ao Roteiro e então aprovar; ou (3) devolver outros pontos específicos à revisão. Antes do piloto, permanece obrigatória a inspeção visual direta do PowerPoint pelo autor.
 
 
 ## Regra de autoridade deste kit
