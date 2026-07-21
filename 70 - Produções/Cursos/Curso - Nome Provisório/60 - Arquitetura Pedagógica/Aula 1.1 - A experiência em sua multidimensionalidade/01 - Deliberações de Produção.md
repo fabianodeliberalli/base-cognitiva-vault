@@ -1,7 +1,7 @@
 ---
 tipo: deliberacao-pedagogica
 aula: 1.1
-estado: proposta-recomendada
+estado: aprovada-para-prototipagem
 data: 2026-07-20
 ---
 
@@ -33,6 +33,6 @@ data: 2026-07-20
 - O que é percepção e o que já é interpretação?
 - O que ajuda você a permanecer presente?
 
-## Pendência autoral
+## Decisão
 
-Aprovar ou revisar as decisões antes de transformar o storyboard e a apresentação em versões finais.
+As recomendações foram adotadas como base da primeira prototipagem. Permanecem revisáveis após a inspeção do material visual e a pilotagem da primeira turma.
