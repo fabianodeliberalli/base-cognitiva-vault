@@ -25,7 +25,7 @@ data: 2026-07-20
 |---|---|---|
 | Aula 0.1 | conteúdo anterior a organizar no padrão | [[Aula 0.1 - Índice do Kit]] |
 | Aula 0.2 — Percurso do EIXO | kit documental organizado; apresentação visual produzida | [[Aula 0.2 - Índice do Kit]] |
-| Aula 1.1 — A experiência em sua multidimensionalidade | revisão técnica concluída; aguardando deliberação autoral sobre o piloto | [[Aula 1.1 - Índice do Kit]] |
+| Aula 1.1 — A experiência em sua multidimensionalidade | aprovada para pilotagem controlada; inspeção visual direta do PowerPoint e checklist pré-piloto pendentes | [[Aula 1.1 - Índice do Kit]] |
 
 ## Regras de versionamento
 
