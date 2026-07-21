@@ -1,10 +1,12 @@
 ---
 tipo: revisao-autoral-e-protocolo-pilotagem
 aula: 1.1
-estado: revisao-tecnica-concluida-aguardando-deliberacao-autoral
-versao: 1
+estado: aula-aprovada-para-pilotagem-controlada
+versao: "1.1"
 data: 2026-07-21
+atualizado_em: 2026-07-21
 autoridade_de_aprovacao: Fabiano Deliberalli
+decisao_autoral: opcao-2-aprovada
 ---
 
 # Revisão Autoral e Protocolo de Pilotagem v1 — Aula 1.1
@@ -27,7 +29,13 @@ Não foi encontrada contradição que exija reabrir as decisões estruturais da 
 
 ### Estatuto da decisão
 
-Esta revisão **não aprova automaticamente a aula para piloto nem para gravação**. A autoridade final permanece com Fabiano Deliberalli.
+A revisão técnica não aprovava automaticamente a aula. Em 21 de julho de 2026, Fabiano Deliberalli aprovou a **Opção 2**: incorporar os dois ajustes ao Roteiro do Educador e formalizar a Aula 1.1 para pilotagem controlada.
+
+Essa aprovação:
+
+- autoriza o piloto após o cumprimento do checklist pré-piloto;
+- não equivale à aprovação para gravação ou primeira oferta;
+- não encerra as variáveis que deverão ser observadas e deliberadas após a turma.
 
 ## 2. Competência e percurso preservados
 
@@ -316,26 +324,35 @@ Os dois ajustes são:
 
 Não há recomendação de reabrir conteúdo, competência, exemplo central, onze dimensões, produção simbólica opcional ou protocolo de partilha.
 
-### Portão de decisão autoral
+### Portão de decisão autoral — encerrado em 21 de julho de 2026
 
 - [ ] Opção 1 — aprovar agora para piloto, assumindo os dois ajustes como regra de condução;
-- [ ] Opção 2 — autorizar primeiro a incorporação textual dos dois ajustes no roteiro e então aprovar para piloto;
+- [x] **Opção 2 — incorporar textualmente os dois ajustes ao roteiro e aprovar para piloto.**
 - [ ] Opção 3 — devolver outros pontos específicos à revisão, identificados pelo autor.
+
+### Registro da decisão
+
+- **Autoridade:** Fabiano Deliberalli;
+- **Decisão:** Opção 2 aprovada;
+- **Ajuste 1 incorporado:** preenchimento seletivo e guiado da ficha, sem expectativa de completude;
+- **Ajuste 2 incorporado:** colheita reduzida para até oito minutos, retorno protegido por seis minutos e ponte curricular somente após o retorno;
+- **Documento alterado:** [[02 - Roteiro do Educador v1]], versão 1.1;
+- **Estado resultante:** Aula 1.1 aprovada para pilotagem controlada;
+- **Exclusão explícita:** ainda não aprovada para gravação ou primeira oferta.
 
 ## 12. Estado, pendências e continuidade
 
 ### Estado atual da aula
 
-Protótipo visual concluído; revisão técnica e correlação documental concluídas; aguardando deliberação autoral. Ainda não aprovada definitivamente para piloto ou gravação.
+Protótipo visual concluído; revisão técnica e correlação documental concluídas; dois ajustes operacionais incorporados ao roteiro; **Aula 1.1 aprovada para pilotagem controlada**. Ainda não aprovada para gravação ou primeira oferta.
 
-### Pendências
+### Pendências pré-piloto
 
-1. escolha do portão de decisão autoral;
-2. inspeção visual direta do PowerPoint pelo autor;
-3. eventual incorporação dos dois ajustes ao Roteiro do Educador;
-4. definição logística do piloto;
-5. execução e registro pós-turma;
-6. somente depois da aprovação da Aula 1.1, iniciar a Aula 1.2 — Do vivido à Tradução.
+1. inspeção visual direta do PowerPoint pelo autor em modo apresentação;
+2. confirmação da logística, do grupo e da forma de registro do piloto;
+3. verificação dos demais itens do checklist pré-piloto;
+4. execução e registro pós-turma;
+5. deliberação pós-piloto sobre ajustes, gravação e passagem para a Aula 1.2 — Do vivido à Tradução.
 
 ### Dívidas de Organização
 
@@ -361,4 +378,4 @@ Protótipo visual concluído; revisão técnica e correlação documental conclu
 
 ### Ponto exato de retomada
 
-Solicitar a deliberação de Fabiano Deliberalli sobre as três opções da seção 11. Após a decisão, atualizar o Roteiro, aprovar formalmente a aula para piloto ou registrar os pontos adicionais de revisão.
+Realizar a inspeção visual direta do PowerPoint em modo apresentação e completar o checklist pré-piloto. Em seguida, definir a logística e executar a pilotagem controlada da Aula 1.1. A Aula 1.2 somente deverá entrar em produção após o registro e a deliberação pós-piloto da Aula 1.1.
