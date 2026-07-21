@@ -103,3 +103,10 @@ O protótipo visual foi renderizado e inspecionado integralmente. O estado atual
 ## Próxima tarefa operacional
 
 Realizar a **Revisão autoral e o Protocolo de Pilotagem da Aula 1.1**, correlacionando o PowerPoint com o roteiro do educador e os critérios de pilotagem. Depois da decisão, aprovar para piloto, revisar pontos específicos ou iniciar a Aula 1.2 — Do vivido à Tradução.
+
+
+## Regra de autoridade deste kit
+
+Quanto à Aula 1.1, este Índice e o [[09 - Registro de Produção Visual e QA v1]] prevalecem sobre estados mais antigos do Dossiê ou do Índice Mestre. Quanto à arquitetura global, permanecem subordinados ao Dossiê e aos documentos institucionais superiores.
+
+Ver [[01 - Protocolo de Continuidade Integral e Abertura de Novos Chats]].
