@@ -3,7 +3,7 @@ tipo: protocolo-de-continuidade-integral
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "1.0"
+versao: "1.1"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-21
 atualizado_em: 2026-07-21
@@ -35,7 +35,8 @@ Continuidade integral não significa transportar literalmente cada frase de todo
 - a pedagogia e os limites éticos;
 - os ativos produzidos;
 - as fontes e auditorias;
-- o patrimônio reservado para inserção futura;
+- a reserva curricular disponível e seus gatilhos de retomada;
+- o Inventário Mestre de Conteúdos Disponíveis;
 - as questões realmente abertas;
 - o estado operacional mais recente;
 - a próxima ação autorizada.
@@ -86,6 +87,21 @@ Em caso de conflito:
 - não apagar silenciosamente o histórico;
 - solicitar deliberação de Fabiano somente se houver contradição material não resolvível pela regra acima.
 
+## 2.3. Autoridade, disponibilidade, função e momento
+
+Aprovação e disponibilidade não são sinônimos. Todo conteúdo pertinente permanece no Acervo Disponível para Construção, salvo exclusão autoral explícita ou restrição ética, jurídica, de confidencialidade ou de direitos.
+
+Cada ativo deve ser lido em quatro eixos independentes:
+
+1. **autoridade:** decisão aprovada, formulação consolidada, em revisão, proposta, hipótese, fonte, protótipo, versão superada ou excluído por decisão;
+2. **disponibilidade:** ativo, sob demanda, reserva longitudinal, em curadoria, restrito ou excluído;
+3. **função pedagógica:** transversal, participante, educador, aprofundamento, prática, mapa, metáfora, caso, bibliografia, segurança ou outra oferta;
+4. **momento:** contrato, transversal, aula definida, retomada progressiva, educador, piloto, pós-piloto ou oferta futura.
+
+O estado padrão de disponibilidade é **sob demanda**, nunca indisponível. O campo `validado_por_fabiano: false` indica decisão pendente, não proibição de análise. “Reservado” restringe o momento da entrega, não a consideração arquitetônica.
+
+Ver [[01 - Reconciliação da Governança do Conhecimento e Disponibilidade do Acervo]] e [[02 - Inventário Mestre de Conteúdos Disponíveis]].
+
 ## 3. Identidade do projeto
 
 O projeto Traduzindo o Ser Humano tem como núcleo a Tradução da Experiência Humana.
@@ -94,7 +110,7 @@ Seu valor singular não é apenas integrar disciplinas, mas oferecer linguagem, 
 
 Campos como psicologia, neurociência, fenomenologia, tradições contemplativas, Medicina Chinesa e espiritualidade são tratados como mapas de um território humano comum. Não são verdades concorrentes nem equivalentes automáticos.
 
-A ciência participa como recurso de tradução e fundamentação proporcional à evidência, não como autoridade decorativa. Tradições, símbolos, experiências e hipóteses permanecem legítimos quando seu estatuto é declarado.
+A ciência participa como fundamento transversal, linguagem de convergência, descrição e correlação proporcional à evidência. Não ocupa o lugar de tribunal único ou principal da experiência humana. Clínica, fenomenologia, filosofia, símbolo, tradição, espiritualidade, experiência e produção autoral permanecem legítimos segundo o tipo de afirmação e o modo de uso. O rigor recai sobre o enunciado empregado, não sobre a classificação total de um autor.
 
 A pedagogia do projeto parte do vivido, torna a experiência legível, favorece orientação e retorna à vida concreta. Seu horizonte é autonomia, discernimento, integração progressiva e expressão coerente, sem impor metafísica única.
 
@@ -158,7 +174,7 @@ Para quem o curso não é:
 - quem espera intervenção clínica individual;
 - quem não pode ou não deseja participar de práticas leves mesmo com alternativas.
 
-Hipóteses comerciais ainda não canônicas:
+Hipóteses comerciais ainda em revisão:
 
 - entrega ao vivo pelo Zoom e posterior hospedagem na Hotmart;
 - curso principal antes de um workshop de menor valor;
@@ -226,12 +242,12 @@ Distinções vigentes:
 - Essência: horizonte experiencial autoral de autenticidade, potência, valores e direção;
 - Alma: linguagem espiritual, filosófica, tradicional ou poética contextualizada;
 - Eu Superior: função tradutiva do Mapa dos Três Eus;
-- EIXO: função operacional canônica de presença, discernimento, orientação e retorno;
+- EIXO: função operacional aprovada de presença, discernimento, orientação e retorno;
 - Fonte: linguagem experiencial, tradicional, filosófica ou hipótese cosmológica conforme o contexto.
 
 Nenhum termo é sinônimo automático dos demais.
 
-O Mapa dos Três Eus é um mapa funcional transversal do projeto, não requisito canônico do Método:
+O Mapa dos Três Eus é um mapa funcional transversal do projeto, não requisito estrutural do Método:
 
 - Eu Básico: sustentação corporificada e acesso ao implícito;
 - Eu Médio: mediação reflexiva, simbolização, Tradução e escolha;
@@ -351,7 +367,7 @@ Núcleos:
 
 ### Aula 1.1 — A experiência em sua multidimensionalidade
 
-Estado operacional canônico em 21 de julho de 2026:
+Estado operacional vigente em 21 de julho de 2026:
 
 - protótipo visual concluído;
 - 22 slides renderizados e inspecionados;
@@ -368,7 +384,7 @@ Estado operacional canônico em 21 de julho de 2026:
 
 Estado exato:
 
-> Concluída para revisão autoral e pilotagem; ainda não definitivamente aprovada para gravação.
+> Aprovada para pilotagem controlada; inspeção visual direta do PowerPoint e checklist pré-piloto pendentes; ainda não aprovada para gravação ou primeira oferta.
 
 Decisões pedagógicas da Aula 1.1:
 
@@ -402,7 +418,7 @@ Estrutura visual:
 
 Próxima ação autorizada:
 
-> Realizar a Revisão Autoral e o Protocolo de Pilotagem da Aula 1.1, correlacionando PowerPoint, Roteiro do Educador e Critérios de Pilotagem. Somente depois decidir entre aprovar para piloto, revisar pontos específicos ou iniciar a Aula 1.2.
+> Realizar a preparação pré-piloto da Aula 1.1: inspeção visual direta do PowerPoint em modo apresentação, conclusão do checklist e definição logística. Depois, executar e registrar o piloto e deliberar antes de gravação ou início da Aula 1.2.
 
 ## 12. Mapas e patrimônio visual
 
@@ -420,9 +436,9 @@ Mapas estruturantes e ativos:
 - Arquitetura Plural de Validação;
 - Semente, Casca e Campo;
 - árvore espiral como metáfora candidata;
-- mapas do lote de 11 imagens, classificados e ainda não automaticamente canônicos.
+- mapas do lote de 11 imagens, classificados e ainda não automaticamente estruturantes.
 
-Regra: mapa canônico, síntese autoral, correlação hipotética, metáfora e protótipo devem permanecer diferenciados.
+Regra: mapa estruturante aprovado, síntese autoral, correlação hipotética, metáfora e protótipo devem permanecer diferenciados.
 
 Conteúdos visuais a produzir apenas no momento curricular pertinente:
 
@@ -443,7 +459,7 @@ A apresentação ABBSP março de 2026 possui:
 
 Estatuto:
 
-> Patrimônio autoral bruto de alta relevância, não apresentação final e não conteúdo canônico automático.
+> Patrimônio autoral bruto de alta relevância, não apresentação final nem currículo automático. Permanece disponível por inteiro e por extrações, conforme função e momento.
 
 Extrações organizadas:
 
@@ -489,7 +505,7 @@ Correções epistemológicas permanentes:
 
 ## 14. Fonte Joe Dispenza e Camila
 
-A obra Como se tornar sobrenatural é fonte bibliográfica não canônica.
+A obra Como se tornar sobrenatural integra o acervo como fonte bibliográfica em diálogo. Seu uso é definido pela contribuição concreta de cada conceito, prática ou formulação, não por um rótulo global atribuído ao autor.
 
 Contribuições possíveis:
 
@@ -503,7 +519,7 @@ Contribuições possíveis:
 - abertura à transformação;
 - perfil cultural do público.
 
-Reposicionamentos obrigatórios:
+Estatuto das utilizações possíveis:
 
 - centros energéticos: linguagem tradicional e experiencial;
 - circulação de energia: experiência, tradição ou hipótese;
@@ -522,9 +538,9 @@ Função estratégica da obra:
 
 Pendência documentada: cópia manual do PDF para a pasta de anexos bibliográficos, caso ainda não tenha sido concluída.
 
-## 15. Conteúdo arquivado para inserção futura
+## 15. Reserva curricular disponível e fila de retomada
 
-Não perder nem antecipar:
+Os conteúdos abaixo permanecem disponíveis desde já para consulta, correlação e coerência longitudinal. Sua entrega deve ocorrer no momento pedagógico pertinente:
 
 - sombra, persona, complexos, projeção e Jung aprofundado;
 - Self junguiano e individuação;
@@ -552,7 +568,7 @@ Não perder nem antecipar:
 - casos clínicos anonimizados;
 - metáforas, práticas e mapas candidatos.
 
-Todo conteúdo futuro deve passar pelos testes de necessidade, removibilidade, estatuto epistemológico, segurança e momento curricular.
+Todo conteúdo deve passar pelos testes de necessidade, função, estatuto da afirmação, segurança e momento curricular. O teste de removibilidade verifica se um elemento é estruturalmente indispensável; não decide se ele pode ser consultado ou utilizado. Não antecipar a entrega não significa impedir consideração arquitetônica.
 
 ## 16. Questões realmente abertas
 
@@ -572,7 +588,7 @@ Não tratar como resolvido:
 - lugar final dos Três Eus na primeira oferta;
 - seleção das práticas tradicionais;
 - versão final do léxico pedagógico reduzido;
-- aprovação autoral e pilotagem da Aula 1.1;
+- execução, registro e deliberação pós-piloto da Aula 1.1;
 - organização completa da Aula 0.1;
 - inserção manual do PDF de Dispenza, se pendente.
 
@@ -591,7 +607,9 @@ Não reabrir sem contradição real:
 - limites éticos e epistemológicos;
 - estado de QA da Aula 1.1.
 
-## 17. Manifesto mínimo de fontes para retomada
+## 17. Manifesto mínimo e busca temática ampliada
+
+O manifesto abaixo é o núcleo mínimo para orientação rápida, não a totalidade do patrimônio. Toda tarefa temática deve complementar a leitura por meio do [[02 - Inventário Mestre de Conteúdos Disponíveis]] e de busca ampliada no repositório.
 
 Leitura obrigatória inicial:
 
@@ -628,7 +646,9 @@ Consultar conforme necessidade, não como leitura obrigatória integral para tod
 - fundamentos científicos;
 - patrimônio autoral bruto;
 - fontes bibliográficas;
-- notas reservadas para fases futuras.
+- reserva curricular disponível e seus gatilhos de retomada.
+
+Antes de declarar ausência de conteúdo ou produzir do zero, consultar o Inventário Mestre, trabalhos autorais, ABBSP, núcleo NHI, fontes bibliográficas, mapas, versões históricas e Dívidas de Organização relacionadas.
 
 ## 18. Protocolo de trabalho do novo chat
 
@@ -754,7 +774,7 @@ Antes de produzir, modificar ou deliberar:
 - pendência;
 - patrimônio histórico;
 - fonte bibliográfica;
-- conteúdo reservado para fases futuras.
+- reserva curricular disponível.
 
 5. Não reabra decisões consolidadas sem demonstrar contradição real e solicitar minha deliberação.
 
@@ -775,9 +795,9 @@ Antes de produzir, modificar ou deliberar:
 
 Ponto atual confirmado em 21 de julho de 2026:
 
-A Aula 1.1 — A experiência em sua multidimensionalidade possui protótipo visual concluído, PowerPoint de 22 slides, ficha do participante de 4 páginas, mapas, roteiro, storyboard, critérios de pilotagem e Registro de QA. Está concluída para revisão autoral e pilotagem, mas ainda não aprovada definitivamente para gravação.
+A Aula 1.1 — A experiência em sua multidimensionalidade possui protótipo visual concluído, PowerPoint de 22 slides, ficha do participante de 4 páginas, mapas, roteiro, storyboard, critérios de pilotagem e Registro de QA. Está aprovada para pilotagem controlada, com inspeção visual direta e checklist pré-piloto pendentes, e ainda não está aprovada para gravação ou primeira oferta.
 
-A próxima tarefa é realizar a Revisão Autoral e o Protocolo de Pilotagem da Aula 1.1, correlacionando PowerPoint, Roteiro do Educador e Critérios de Pilotagem. Depois, decidir entre aprovar para piloto, revisar pontos específicos ou iniciar a Aula 1.2 — Do vivido à Tradução.
+A próxima tarefa é preparar e executar a pilotagem controlada da Aula 1.1: inspecionar o PowerPoint em modo apresentação, concluir o checklist, definir a logística, pilotar e registrar. A decisão sobre gravação e início da Aula 1.2 — Do vivido à Tradução ocorrerá depois da deliberação pós-piloto.
 
 Ao final de cada etapa, atualize no GitHub/Obsidian o estado, as decisões, as pendências, as Dívidas de Organização e o próximo ponto exato de retomada.
 
@@ -791,7 +811,7 @@ A continuidade é considerada plena quando o novo chat consegue responder, com f
 - como se relaciona ao Método EIXO;
 - quais decisões não podem ser reabertas;
 - quais conteúdos entram agora;
-- quais conteúdos foram reservados;
+- quais conteúdos compõem a reserva curricular disponível e seus gatilhos;
 - quais arquivos já existem;
 - qual artefato governa cada decisão;
 - em que estado está a Aula 1.1;
@@ -799,3 +819,8 @@ A continuidade é considerada plena quando o novo chat consegue responder, com f
 - onde registrar tudo ao terminar.
 
 Se uma dessas respostas depender apenas da memória do chat, há uma deficiência de continuidade e ela deve ser registrada e corrigida no repositório.
+
+
+## 22. Controle de versão 1.1
+
+A versão 1.1 incorpora a Reconciliação da Governança do Conhecimento e Disponibilidade do Acervo, substitui o uso geral de canônico/não canônico, transforma o conteúdo futuro em reserva curricular disponível, torna obrigatória a busca temática ampliada, integra o Inventário Mestre e atualiza a Aula 1.1 para seu estado vigente de aprovação para pilotagem controlada.
