@@ -51,7 +51,7 @@ Foi produzido o protótipo **Semente, Casca e Campo**, como metáfora visual de 
 - metáfora autoral em prototipagem;
 - recurso pedagógico e experiencial;
 - não constitui descrição anatômica, científica ou ontológica;
-- não integra ainda o núcleo canônico de mapas;
+- não integra o conjunto de mapas estruturantes aprovados;
 - depende de revisão autoral e teste de compreensão com participantes.
 
 ## Verificação realizada
@@ -111,10 +111,15 @@ Ver [[10 - Revisão Autoral e Protocolo de Pilotagem v1]].
 - inspeção visual direta do PowerPoint pelo autor permanece como requisito pré-piloto;
 - aula ainda não aprovada para gravação ou primeira oferta.
 
-## Próxima ação canônica
+## Próxima ação operacional vigente
 
 1. inspeção visual direta do PowerPoint em modo apresentação;
 2. conclusão do checklist pré-piloto;
 3. definição logística;
 4. execução e registro da turma-piloto;
 5. deliberação pós-piloto antes de gravação ou produção da Aula 1.2.
+
+
+## Nota de governança — 21 de julho de 2026
+
+A Reconciliação da Governança do Conhecimento e Disponibilidade do Acervo não modifica o protótipo, os resultados de QA nem o estado desta aula. Ela apenas atualiza a terminologia de autoridade e confirma que materiais adicionais serão usados primeiro como critérios de observação do piloto. A aula permanece aprovada para pilotagem controlada e não aprovada para gravação ou primeira oferta.

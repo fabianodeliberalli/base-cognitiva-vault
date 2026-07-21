@@ -5,7 +5,7 @@ curso: nome-provisorio
 status: prototipagem-curricular-em-andamento
 estado_maturidade: arquitetura-integral-em-prototipagem
 fase_atual: "Prototipagem curricular — Preparação da pilotagem controlada da Aula 1.1"
-versao: "0.20"
+versao: "0.21"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-17
 atualizado_em: 2026-07-21
@@ -19,7 +19,7 @@ tags:
 
 # Dossiê de Contexto — Curso [nome provisório]
 
-**Versão:** 0.20  
+**Versão:** 0.21  
 **Estado de maturidade:** arquitetura integral em prototipagem  
 **Fases concluídas:** Fase 0 — Abertura e governança; Fase 1 — Gênese, identidade e problema humano  
 **Fase atual:** prototipagem curricular controlada; Aula 1.1 aprovada para piloto e em preparação pré-piloto
@@ -30,7 +30,7 @@ tags:
 
 - **Código do curso:** a definir;
 - **Nome atual:** Curso [nome provisório];
-- **Versão do Dossiê:** 0.20;
+- **Versão do Dossiê:** 0.21;
 - **Status documental:** documento evolutivo;
 - **Estado de maturidade:** arquitetura integral em prototipagem;
 - **Data de criação:** 2026-07-17;
@@ -252,7 +252,7 @@ Esses critérios não constituem instrumentos diagnósticos nem promessas previa
 
 **Aplicação específica ao curso:** aprovada como base de construção e já operacionalizada nos Kits das Aulas 0.2 e 1.1, permanecendo sujeita a pilotagem.
 
-### 7.2. Paradigmas candidatos recuperados
+### 7.2. Fundamentos transversais reconciliados
 
 - Fenomenologia Tradutiva e EIXO Integrador diante de experiências liminares;
 - primazia do vivido;
@@ -260,7 +260,7 @@ Esses critérios não constituem instrumentos diagnósticos nem promessas previa
 - dignidade epistêmica diante do vivido;
 - transformação não é sinônimo de integração.
 
-**Status:** PROPOSTA ANTERIOR / PATRIMÔNIO CANDIDATO.
+**Status vigente:** operadores gerais consolidados e disponíveis transversalmente. As formulações temáticas de experiências liminares e NHI permanecem aplicações especializadas, sem definir o tema obrigatório do primeiro curso.
 
 ### 7.3. Limites epistemológicos preliminares
 
@@ -277,7 +277,7 @@ Esses critérios não constituem instrumentos diagnósticos nem promessas previa
 
 ### 8.1. Fontes autorais e institucionais já conhecidas
 
-**Status geral:** inventário preliminar; auditoria específica pendente.
+**Status geral:** acervo disponível e inventariado em primeira versão. A localização, classificação e reativação são governadas por [[02 - Inventário Mestre de Conteúdos Disponíveis]]. Auditorias específicas permanecem abertas quando exigidas pelo uso concreto.
 
 - Constituição Filosófico-Pedagógica;
 - Manual Institucional;
@@ -293,26 +293,26 @@ Esses critérios não constituem instrumentos diagnósticos nem promessas previa
 - casos clínicos anonimizados;
 - metáforas e práticas já desenvolvidas.
 
-### 8.2. Pacote candidato recuperado
+### 8.2. Núcleo de experiências liminares e NHI reconciliado
 
 **Sessão de origem:** Experiências Liminares, Fenomenologia, Tradução e EIXO.  
-**Status do pacote:** registrado com validações pendentes.  
-**Decisão nesta fase:** preservar como patrimônio candidato; não converter em tema ou currículo do curso.
+**Status vigente:** acervo disponível com funções diferenciadas.  
+**Decisão reconciliada:** operadores gerais — primazia do vivido, dignidade epistêmica, abertura ontológica responsável, distinção entre fenômeno e interpretação, preservação de agência e integração sem fechamento ontológico — integram os fundamentos transversais. Contato NHI, disclosure, choque ontológico e protocolos especializados permanecem aplicações temáticas disponíveis, não eixo obrigatório do primeiro curso. Os estados da tabela abaixo descrevem maturidade ou necessidade de conferência, nunca proibição de uso.
 
 | Ativo | Contribuição potencial | Fase principal | Status |
 |---|---|---|---|
-| Tradução da Experiência Humana | Metodologia de organização do vivido | Fases 1, 4 e 5 | Em validação autoral |
-| Modelo dos Sete Níveis da Experiência | Matriz de diferenciação epistemológica | Fases 4, 5 e 6 | Protocolo em formação |
-| EIXO Integrador | Hipóteses sobre competências e integração | Fase 5 | Proposta de expansão |
-| Experiências Liminares | Possível problema temático ou caso-limite | Fases 1 e 4 | Em elaboração |
-| Abertura Ontológica Responsável | Limite epistemológico | Fases 4, 5 e 8 | Em elaboração |
-| Transformação e Integração | Critérios qualitativos de resultado | Fases 2, 5 e 8 | Em validação autoral |
-| Dignidade Epistêmica | Princípio ético de linguagem e reconhecimento | Fases 5 e 8 | Em elaboração |
-| Disclosure e Choque Ontológico | Conteúdo temático condicional | Fase 4 ou currículo futuro | Em elaboração |
-| Paradigma Fenomenologia Tradutiva–EIXO | Articulação conceitual candidata | Fase 4 | Paradigma candidato |
-| Relação Fenomenologia–Tradução–EIXO | Síntese de funções distintas | Fases 4 e 5 | Proposta provável |
-| Ampliar o Mundo sem Perder o Centro | Metáfora pedagógica e editorial | Fases 6, 7 ou produção | Metáfora candidata |
-| Kimberly Engels | Possível fundamentação fenomenológica externa | Fase 4 | Fonte bruta não conferida |
+| Tradução da Experiência Humana | Metodologia de organização do vivido | Transversal | Fundamento aprovado |
+| Modelo dos Sete Níveis da Experiência | Matriz de diferenciação epistemológica | Módulos 1, 3 e 5 | Disponível em curadoria; não constitui currículo automático |
+| EIXO Integrador | Competências, coordenação e integração | Transversal | Disponível em diálogo; subordinado à arquitetura aprovada do EIXO |
+| Experiências Liminares | Caso-limite de multidimensionalidade | Módulos 1–5 ou aprofundamento | Aplicação temática disponível |
+| Abertura Ontológica Responsável | Operador epistemológico | Transversal | Formulação consolidada |
+| Transformação e Integração | Critério qualitativo de percurso | Módulos 5–6 e transversal | Formulação consolidada |
+| Dignidade Epistêmica | Princípio ético de linguagem e reconhecimento | Contrato e transversal | Formulação consolidada |
+| Disclosure e Choque Ontológico | Aplicação especializada | Aprofundamento ou currículo futuro | Disponível sob demanda |
+| Paradigma Fenomenologia Tradutiva–EIXO | Articulação conceitual | Fundamento do educador | Disponível para correlação |
+| Relação Fenomenologia–Tradução–EIXO | Síntese de funções distintas | Transversal | Formulação consolidada |
+| Ampliar o Mundo sem Perder o Centro | Metáfora pedagógica e editorial | Módulos 5–6 ou produção | Metáfora disponível |
+| Kimberly Engels | Possível fundamentação fenomenológica externa | Conforme necessidade | Fonte em curadoria bibliográfica |
 
 ### 8.3. Regra de curadoria
 
@@ -321,7 +321,7 @@ Nenhum ativo será incluído apenas por sua riqueza geral. Sua entrada depender�
 
 ### 8.4. Pacote comercial inicial e protoarquitetura curricular
 
-**Status:** patrimônio histórico de concepção e patrimônio curricular estruturante em revisão.
+**Status:** patrimônio histórico de concepção e patrimônio curricular estruturante em revisão reconciliada. A revisão vigente está registrada em [[03 - Reconciliação Documental dos Fundamentos Transversais e Revisão Curricular]].
 
 Foram auditadas duas apresentações e três documentos de formulação de produto. O conjunto confirma a genealogia clínica, intelectual, pedagógica e comercial do curso, mas mistura projeto, método, produto, práticas, fundamentação e hipóteses de mercado.
 
@@ -391,7 +391,7 @@ Linguagens energéticas são reconhecidas quando fizerem parte da experiência d
 
 Não são apresentadas como descrição científica objetiva. Podem, entretanto, ser submetidas à Tradução da Experiência Humana em diálogo com descrições fenomenológicas e com possíveis correlatos psicofisiológicos e neurobiológicos, quando houver fundamentação pertinente, sem pressupor identidade, equivalência causal ou comprovação automática entre esses campos.
 
-A enumeração das dimensões permanece aberta a refinamento e não transforma as seis dimensões candidatas do EIXO Integrador em definição canônica.
+A enumeração das dimensões permanece aberta a refinamento e não transforma as seis dimensões candidatas do EIXO Integrador em definição estrutural aprovada.
 
 ### 9.9. Capacidades componentes
 
@@ -442,7 +442,7 @@ Antes de definir o recorte comercial da primeira oferta, será construída a arq
 
 ### 9.14. Distinção documental aprovada
 
-- **Arquitetura Canônica do Método EIXO:** competência central, princípios, percurso, fases, progressão, limites, resultados e continuidade;
+- **Arquitetura aprovada do Método EIXO:** competência central, princípios, percurso, fases, progressão, limites, resultados e continuidade;
 - **Dossiê e Arquitetura Mestre do Curso:** tradução pedagógica e comercial do Método para público, formato, duração, currículo, práticas, avaliação e implementação;
 - **Primeira turma:** aplicação piloto da arquitetura aprovada, com coleta de evidências pedagógicas e revisão posterior.
 
@@ -452,7 +452,7 @@ A estruturação integral não obriga que todo o Método seja oferecido com a me
 
 Cada conteúdo candidato deverá responder: **sem este elemento, a pessoa consegue percorrer adequadamente esta etapa do Método?** Se a resposta for positiva, o conteúdo deverá ser classificado como aprofundamento, apoio, exemplo, material do Laboratório, material da Imersão ou patrimônio não curricular.
 
-### 9.16. Dimensões candidatas, não canônicas
+### 9.16. Dimensões propostas para expansão
 
 - corporal;
 - afetiva;
@@ -461,7 +461,7 @@ Cada conteúdo candidato deverá responder: **sem este elemento, a pessoa conseg
 - epistemológica;
 - ético-existencial.
 
-**Status:** proposta de expansão recuperada do patrimônio; não aprovada como definição oficial do Método EIXO.
+**Status:** proposta de expansão recuperada do patrimônio; disponível para análise e prototipagem, sem governar a definição aprovada do Método EIXO.
 
 ### 9.17. Patrimônio visual e mapas conceituais
 
@@ -472,13 +472,13 @@ O lote de 11 mapas recebido em 2026-07-18 foi preservado em PNG e PDF, com ficha
 - os mapas confirmam a necessidade de representar a multidimensionalidade da experiência;
 - a Árvore do EIXO é o principal candidato a metáfora visual central, após reconstrução;
 - os Campos de Integração são candidatos a mapa das dimensões, não a sequência curricular;
-- o Caminho da Semente preserva o horizonte espiritual e de contribuição, sem estatuto canônico;
+- o Caminho da Semente preserva o horizonte espiritual e de contribuição, sem função estrutural aprovada;
 - o modelo do TCC é a fonte-base candidata para a família neurobiológico-relacional, dependente de conferência textual e bibliográfica;
 - a Arquitetura Viva e o modelo neurobiológico-relacional versão 2 tornam os três Eus uma hipótese relevante de investigação funcional.
 
 **Limite aprovado:** nenhum mapa atual constitui sozinho a arquitetura do Método ou do curso. Quase todos omitem a Tradução como operador explícito, tratam o percurso de modo excessivamente linear ou aproximam linguagens de estatutos diferentes sem legenda epistemológica.
 
-**Consequência:** uma síntese futura deverá distinguir ao menos três funções: mapa da multidimensionalidade; mapa canônico da circularidade EIXO–Tradução–reorganização; e mapa do horizonte progressivo de integração, Essência, expressão e contribuição. Os modelos neurobiológico-relacionais permanecem em matriz de fundamentação separada.
+**Consequência:** uma síntese futura deverá distinguir ao menos três funções: mapa da multidimensionalidade; mapa estruturante aprovado da circularidade EIXO–Tradução–reorganização; e mapa do horizonte progressivo de integração, Essência, expressão e contribuição. Os modelos neurobiológico-relacionais permanecem em matriz de fundamentação separada.
 
 ### 9.18. Princípio de Recursividade EIXO–Tradução
 
@@ -492,14 +492,14 @@ O princípio diferencia EIXO, Tradução, reorganização e integração e ampli
 
 **Consequência pedagógica:** o curso deverá favorecer capacidade reutilizável de reconhecer, traduzir, reorganizar, orientar respostas e retornar. Integração permanece resultado progressivo possível.
 
-### 9.19. Estatuto provisório dos três Eus
+### 9.19. Estatuto provisório dos três Eus — registro histórico
 
-**Status: PATRIMÔNIO AUTORAL EM AVALIAÇÃO.**
+**Status vigente desta subseção:** versão histórica superada pelas decisões registradas em 9.20 e 9.21; preservada apenas para rastreabilidade.
 
 A [[Arquitetura Invisível]] apresenta Eu Básico, Eu Médio e Eu Superior como metáforas funcionais de camadas da consciência. Essa formulação possui contribuição potencial para sustentar sensibilidade, Tradução e orientação espiritual, mas:
 
 - não aparece no guia da Camada 3;
-- não integra ainda a definição canônica do Método;
+- não integra o núcleo estrutural aprovado do Método;
 - não é necessária à definição aprovada do EIXO;
 - não possui equivalências neurobiológicas validadas;
 - exige diferenciação entre EIXO, Eu Médio, Eu Superior, Self, Essência e Alma;
@@ -520,7 +520,7 @@ O TCC de Neurociências oferece correspondências heurísticas entre consciênci
 **Autoridade por domínio:**
 
 - Traduzindo o Ser Humano: mapa tradutivo autoral autorizado;
-- Método EIXO: patrimônio candidato, ainda não canônico;
+- Método EIXO: patrimônio disponível, sem função estrutural no núcleo aprovado;
 - curso: recurso pedagógico candidato, dependente de necessidade e clareza;
 - neurociência: plausibilidade funcional parcial, sem validação do constructo;
 - espiritualidade: linguagem de horizonte não dogmático.
@@ -529,7 +529,7 @@ Ver [[Três Eus, Jung e Rede Tripartite]] e [[Sessão 2A-B - Matriz de Autoridad
 
 ### 9.21. Mapa Funcional Transversal dos Três Eus
 
-**Decisão consolidada — PROJETO / NÃO CANÔNICA NO MÉTODO.**
+**Decisão consolidada — PROJETO / MAPA AUXILIAR NÃO ESTRUTURANTE DO MÉTODO.**
 
 Os Três Eus foram aprovados no Traduzindo o Ser Humano como **Mapa Funcional Transversal** e ferramenta pedagógica autoral de Tradução. O mapa:
 
@@ -557,7 +557,7 @@ As distinções entre self psicológico, Self junguiano, Essência, Alma, Eu Sup
 - Essência designa horizonte experiencial autoral de autenticidade, potência e coerência profunda;
 - Alma permanece linguagem espiritual, tradicional, filosófica ou poética contextualizada;
 - Eu Superior permanece função tradutiva do mapa auxiliar;
-- EIXO permanece função operacional canônica de presença, discernimento e retorno;
+- EIXO permanece função operacional aprovada de presença, discernimento e retorno;
 - Fonte permanece linguagem experiencial, tradicional ou hipótese cosmológica conforme o contexto.
 
 O [[Léxico Mestre do Traduzindo o Ser Humano]] passa a governar definições, qualificadores, estatutos, limites e fontes. Cada oferta derivará um léxico pedagógico reduzido e não apresentará os termos como sinônimos automáticos ou interpretações obrigatórias.
@@ -709,34 +709,35 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 | Adotar o Protocolo Operacional v1.0 | APROVADO — CURSO | 2026-07-17 | Sessão de governança | Define todo o fluxo | Nova decisão de governança |
 | Não iniciar módulos antes da arquitetura | APROVADO — CURSO | 2026-07-17 | Protocolo v1.0 | Bloqueia produção prematura | Após portão da Fase 8 |
 | Manter o Dossiê como documento evolutivo | APROVADO — CURSO | 2026-07-17 | Protocolo v1.0 | Centraliza contexto e decisões | Após validação integral |
+| Reconciliar autoridade, disponibilidade, função e momento do acervo | APROVADO — CURSO/GOVERNANÇA | 2026-07-21 | Deliberação autoral | Libera consulta e prototipagem sem dissolver autoridade | Revisão formal de governança |
 | Tratar o pacote sobre experiências liminares como patrimônio candidato | APROVADO — CURSO | 2026-07-17 | Avaliação do vault | Preserva contribuição sem determinar tema | Após Fases 1–4 |
 | Não adotar os Sete Níveis como currículo automático | APROVADO — CURSO | 2026-07-17 | Avaliação do vault | Evita antecipação curricular | Após confronto com Jornada e EIXO |
-| Não adotar as seis dimensões como definição oficial do EIXO | APROVADO — CURSO | 2026-07-17 | Avaliação do vault | Preserva fontes canônicas | Após auditoria institucional |
+| Não adotar as seis dimensões como definição oficial do EIXO | APROVADO — CURSO | 2026-07-17 | Avaliação do vault | Preserva fontes estruturantes aprovadas | Após auditoria institucional |
 | Definir o curso como estrutura educacional complementar | APROVADO — CURSO | 2026-07-18 | Fase 1 | Delimita natureza e promessa | Revisão formal do Dossiê |
 | Aprovar a formulação do problema humano central | APROVADO — CURSO | 2026-07-18 | Fase 1 | Fundamenta público, transformação e posição | Nova evidência relevante |
 | Separar explicitamente educação, psicoterapia e orientação espiritual | APROVADO — CURSO | 2026-07-18 | Avaliação ética da Fase 1 | Define limites de conteúdo e prática | Não aplicável sem revisão ética |
 | Tratar o EIXO como método autoral, sem alegação atual de validação científica | APROVADO — CURSO | 2026-07-18 | Avaliação ética e epistemológica | Regula linguagem pública e validação | Após pesquisa formal pertinente |
 | Concluir a Fase 1 e autorizar a Fase 2 | APROVADO — CURSO | 2026-07-18 | Encerramento da Fase 1 | Abre posicionamento e natureza da oferta | Retorno à fase anterior se surgir contradição estrutural |
-| Estruturar integralmente o Método EIXO antes de definir o recorte da primeira oferta | APROVADO — CURSO/MÉTODO | 2026-07-18 | Deliberação da Fase 2 | Separa arquitetura do método, arquitetura do curso e implementação piloto | Revisão após auditoria canônica ou piloto |
+| Estruturar integralmente o Método EIXO antes de definir o recorte da primeira oferta | APROVADO — CURSO/MÉTODO | 2026-07-18 | Deliberação da Fase 2 | Separa arquitetura do método, arquitetura do curso e implementação piloto | Revisão após auditoria institucional ou piloto |
 | Derivar o primeiro curso da arquitetura integral e evolutiva do Método EIXO | APROVADO — CURSO | 2026-07-18 | Deliberação da Fase 2 | Impede que formato comercial anteceda a lógica formativa | Após visualização integral do percurso |
 | Tratar a primeira turma como implementação pedagógica revisável | APROVADO — CURSO | 2026-07-18 | Deliberação da Fase 2 | Autoriza lapidação posterior sem improvisação estrutural | Após avaliação da primeira turma |
-| Aprovar a definição nuclear do Método EIXO | APROVADO — MÉTODO | 2026-07-18 | Sessão 2A | Estabiliza identidade, competência fundamental e horizonte formativo | Revisão formal da arquitetura canônica |
-| Aprovar a cláusula de horizonte existencial e espiritual não dogmático | APROVADO — MÉTODO | 2026-07-18 | Sessão 2A | Preserva a profundidade espiritual sem impor metafísica única | Revisão formal da arquitetura canônica |
+| Aprovar a definição nuclear do Método EIXO | APROVADO — MÉTODO | 2026-07-18 | Sessão 2A | Estabiliza identidade, competência fundamental e horizonte formativo | Revisão formal da arquitetura aprovada |
+| Aprovar a cláusula de horizonte existencial e espiritual não dogmático | APROVADO — MÉTODO | 2026-07-18 | Sessão 2A | Preserva a profundidade espiritual sem impor metafísica única | Revisão formal da arquitetura aprovada |
 | Manter as não promessas fora da definição identitária e dentro do contrato formativo | APROVADO — MÉTODO/CURSO | 2026-07-18 | Sessão 2A | Evita redundância e preserva salvaguardas no nível operacional | Revisão ética ou pedagógica |
-| Aprovar a formulação ampliada da competência nuclear | APROVADO — MÉTODO | 2026-07-18 | Sessão 2A | Desdobra presença em reconhecimento, sustentação, organização, discernimento e orientação de respostas | Revisão formal da arquitetura canônica |
-| Definir o EIXO como capacidade de reconhecer o afastamento e reencontrar orientação | APROVADO — MÉTODO | 2026-07-18 | Sessão 2A | Substitui ideal de estado permanente por competência de retorno | Revisão formal da arquitetura canônica |
+| Aprovar a formulação ampliada da competência nuclear | APROVADO — MÉTODO | 2026-07-18 | Sessão 2A | Desdobra presença em reconhecimento, sustentação, organização, discernimento e orientação de respostas | Revisão formal da arquitetura aprovada |
+| Definir o EIXO como capacidade de reconhecer o afastamento e reencontrar orientação | APROVADO — MÉTODO | 2026-07-18 | Sessão 2A | Substitui ideal de estado permanente por competência de retorno | Revisão formal da arquitetura aprovada |
 | Aprovar os quatro movimentos funcionais da competência | APROVADO — MÉTODO | 2026-07-18 | Sessão 2A | Organiza capacidades sem antecipar módulos | Auditoria das seis fases |
 | Avaliar aprendizagem pela capacidade de reconhecer, retornar, escolher, reparar e reorganizar-se | APROVADO — MÉTODO/CURSO | 2026-07-18 | Sessão 2A | Define princípio de avaliação não idealizante | Desenvolvimento dos indicadores |
 | Incorporar multidimensionalidade com distinção epistemológica das linguagens energéticas | APROVADO — MÉTODO | 2026-07-18 | Sessão 2A | Preserva amplitude sem falsa equivalência científica | Refinamento conceitual |
-| Aprovar o EIXO como função dinâmica de orientação | APROVADO — MÉTODO | 2026-07-18 | Sessão 2A | Diferencia função, competência desenvolvida e horizonte espiritual | Revisão formal da arquitetura canônica |
+| Aprovar o EIXO como função dinâmica de orientação | APROVADO — MÉTODO | 2026-07-18 | Sessão 2A | Diferencia função, competência desenvolvida e horizonte espiritual | Revisão formal da arquitetura aprovada |
 | Reconhecer linguagens energéticas e investigar possíveis correlatos sem equivalência automática | APROVADO — MÉTODO | 2026-07-18 | Sessão 2A | Permite tradução entre campos com limites epistemológicos | Auditoria de fundamentação |
 | Preservar os quatro movimentos como ativo estrutural em desenvolvimento | APROVADO — MÉTODO/PROJETO | 2026-07-18 | Sessão 2A | Autoriza integração, correlação, ampliação e fundamentação sem antecipar currículo | Auditoria das seis fases |
-| Tratar a vivência do Self ou Essência como horizonte favorecido, não consequência universal | APROVADO — MÉTODO | 2026-07-18 | Sessão 2A | Preserva espiritualidade não dogmática e autoria do participante | Revisão formal da arquitetura canônica |
+| Tratar a vivência do Self ou Essência como horizonte favorecido, não consequência universal | APROVADO — MÉTODO | 2026-07-18 | Sessão 2A | Preserva espiritualidade não dogmática e autoria do participante | Revisão formal da arquitetura aprovada |
 | Tratar os 11 mapas como patrimônio visual diferenciado por função, sem canonização automática | APROVADO — PROJETO/MÉTODO/CURSO | 2026-07-18 | Auditoria do lote de mapas | Preserva multidimensionalidade, metáforas e hipóteses sem transformar proximidade visual em equivalência científica | Matriz de Autoridade dos Mapas |
 | Aprovar o Princípio de Recursividade EIXO–Tradução | APROVADO — PROJETO/MÉTODO | 2026-07-18 | Sessão 2A-B | Define o mecanismo global recursivo e amplia a Tradução para experiências humanas em geral | Matriz quatro movimentos × seis fases × Jornada |
 | Classificar os três Eus como modelo funcional autoral em desenvolvimento, com genealogia declarada e sem validação científica direta | APROVADO — PROJETO/GOVERNANÇA | 2026-07-18 | Sessão 2A-B e confronto com TCC de Neurociências | Autoriza uso como mapa tradutivo e investigação pedagógica, sem equivalência com redes neurais | Distinção funcional e teste de necessidade no curso |
 
-| Aprovar os Três Eus como Mapa Funcional Transversal do projeto, mantendo-os não canônicos no Método e candidatos no curso | APROVADO — PROJETO | 2026-07-18 | Sessão 2A-B | Consolida linguagem tradutiva sem tornar o Método dependente dela; abre futura Matriz de Inserção Transversal | Após teste pedagógico, auditoria das seis fases e distinção Self × Essência × Alma |
+| Aprovar os Três Eus como Mapa Funcional Transversal do projeto, mantendo-os auxiliares e não estruturantes no Método e disponíveis para teste no curso | APROVADO — PROJETO | 2026-07-18 | Sessão 2A-B | Consolida linguagem tradutiva sem tornar o Método dependente dela; abre futura Matriz de Inserção Transversal | Após teste pedagógico, auditoria das seis fases e distinção Self × Essência × Alma |
 
 | Aprovar as distinções entre self psicológico, Self junguiano, Essência, Alma, Eu Superior, EIXO e Fonte sob governança lexical contextual | APROVADO — PROJETO/MÉTODO/CURSO | 2026-07-18 | Sessão 2A-C | Cria vocabulário reutilizável sem sinonímia automática; autoriza Léxico Mestre e prática lexical candidata | Revisão do Léxico ou evidência conceitual relevante |
 
@@ -760,7 +761,7 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 
 | Questão | Razão | Prioridade | Fase |
 |---|---|---|---|
-| Quais formulações do Método EIXO são canônicas, consolidadas, propostas ou hipóteses? | Evita documentar material evolutivo como definição oficial | Alta | Fase 2 |
+| Quais formulações do Método EIXO são decisões aprovadas, consolidadas, propostas ou hipóteses? | Evita documentar material evolutivo como definição oficial | Alta | Fase 2 |
 | Qual é o percurso integral e necessário do Método? | Permite derivar o curso sem mutilação ou excesso | Alta | Fase 2 |
 | Quais são a competência nuclear, os princípios e os critérios de progressão? | Define a identidade metodológica | Alta | Fase 2 |
 | A primeira oferta percorrerá todas as fases ou um ciclo delimitado? | Define a natureza exata da oferta | Alta | Após mapa integral |
@@ -773,12 +774,12 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 
 ## 16. Dívidas de Organização
 
-### Dívida 1 — Confrontar EIXO Integrador com as fontes canônicas
+### Dívida 1 — Confrontar EIXO Integrador com as fontes estruturantes aprovadas
 
 - **O que registrar:** auditoria das seis dimensões propostas em relação ao Método EIXO oficial;
-- **Justificativa estratégica:** evitar que uma expansão conceitual seja tratada como definição canônica;
+- **Justificativa estratégica:** evitar que uma expansão conceitual seja tratada como definição estrutural aprovada;
 - **Por que não pertence à sessão atual:** o curso ainda não definiu problema, público ou relação com o EIXO;
-- **Destino:** Auditoria Permanente do Patrimônio Intelectual e documentos canônicos do Método EIXO;
+- **Destino:** Auditoria Permanente do Patrimônio Intelectual e documentos vigentes do Método EIXO;
 - **Prioridade:** média, elevando-se para alta na Fase 5;
 - **Origem:** avaliação do pacote Experiências Liminares, Fenomenologia, Tradução e EIXO;
 - **Status:** pendente.
@@ -820,11 +821,12 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 | 0.9 | 2026-07-18 | Confirmação da genealogia dos três Eus, confronto com Jung e Rede Tripartite e conclusão de sua autoridade provisória | Sessão 2A-B |
 | 0.10 | 2026-07-18 | Aprovação dos Três Eus como Mapa Funcional Transversal, registro do teste de removibilidade e abertura futura da Matriz de Inserção Transversal | Sessão 2A-B |
 | 0.11 | 2026-07-18 | Aprovação da governança lexical, criação do Léxico Mestre e preservação da prática de ressonância no Eu Essencial | Sessão 2A-C |
-| 0.12 | 2026-07-18 | Abertura da auditoria das seis fases e registro da ausência das fontes canônicas necessárias | Sessão 2A-D |
+| 0.12 | 2026-07-18 | Abertura da auditoria das seis fases e registro da ausência das fontes estruturantes aprovadas necessárias | Sessão 2A-D |
 | 0.13 | 2026-07-19 | Recuperação das fontes históricas, identificação das ordens divergentes das seis fases e abertura da deliberação funcional | Sessão 2A-D |
 | 0.18 | 2026-07-21 | Consolidação da regra de continuidade, correção do estado operacional e vinculação da Aula 1.1 ao Índice e ao QA | Auditoria de continuidade integral |
 | 0.19 | 2026-07-21 | Revisão técnica, correlação documental e criação do Protocolo de Pilotagem da Aula 1.1 | Revisão Autoral e Protocolo de Pilotagem |
 | 0.20 | 2026-07-21 | Opção 2 aprovada; dois ajustes incorporados ao roteiro; Aula 1.1 aprovada para pilotagem controlada | Deliberação autoral de Fabiano Deliberalli |
+| 0.21 | 2026-07-21 | Reconciliação da governança do conhecimento, disponibilidade do acervo, fundamentos transversais, estrutura curricular e Raio X | Deliberação autoral e atualização institucional |
 
 ---
 
@@ -856,7 +858,7 @@ Ver [[Protocolo da Primeira Oferta Integral]].
 
 ---
 
-## 19. Estado operacional canônico e continuidade entre chats
+## 19. Estado operacional vigente e continuidade entre chats
 
 **Atualização:** 2026-07-21.  
 **Regra vigente:** [[01 - Protocolo de Continuidade Integral e Abertura de Novos Chats]].
@@ -895,3 +897,38 @@ Depois: executar e registrar a turma-piloto, deliberar os ajustes e somente ent�
 ### Histórico
 
 As antigas seções “Arquitetura pedagógica — bloqueada”, “questões das seis fases” e “próxima sessão” permanecem como registro evolutivo, mas não descrevem o estado atual.
+
+
+## 20. Governança reconciliada do conhecimento e fundamentos transversais
+
+**Status: APROVADO — CURSO/GOVERNANÇA — 2026-07-21.**
+
+Passam a integrar a governança vigente:
+
+- [[01 - Reconciliação da Governança do Conhecimento e Disponibilidade do Acervo]];
+- [[02 - Inventário Mestre de Conteúdos Disponíveis]];
+- [[03 - Reconciliação Documental dos Fundamentos Transversais e Revisão Curricular]].
+
+### Regra de disponibilidade
+
+Todo material pertinente permanece disponível para consulta, correlação, elaboração e prototipagem. Autoridade, disponibilidade, função pedagógica e momento de inserção são eixos independentes. “Ainda não aprovado” impede apenas que uma formulação governe silenciosamente a arquitetura ou seja apresentada como decisão final; não impede seu uso no processo investigativo e criativo.
+
+### Arquitetura plural
+
+Ciência, clínica, fenomenologia, filosofia, símbolo, tradição, espiritualidade, experiência e produção autoral participam como fontes de estatutos diferentes. O rigor incide sobre o enunciado e o modo de uso, não sobre uma classificação totalizante do autor. A ciência é fundamento transversal e linguagem de convergência proporcional à evidência, sem constituir o único ou principal tribunal da experiência humana.
+
+### Fundamentos transversais reconciliados
+
+Passam a orientar todas as aulas: Tradução; EIXO; circularidade Tradução–EIXO; multidimensionalidade; presença recuperável; recursividade; diferenciação sem fragmentação; integração sem homogeneização; corpo e relação; autonomia, agência e discernimento; responsabilidade e reparação; dignidade epistêmica; abertura ontológica responsável; pluralidade de mapas; transformação distinta de integração; espiritualidade não dogmática e incorporada.
+
+### Integração do acervo
+
+ABBSP, TCC de Sincronia Neural, monografia de Psicologia Transpessoal, trabalhos de MTC, Arquitetura Invisível, Sistema Límbico-Telepático, experiência clínica, núcleo NHI, fontes bibliográficas, práticas e mapas permanecem disponíveis. Operadores gerais derivados do núcleo NHI são transversais; contato, disclosure e protocolos especializados permanecem aplicações temáticas.
+
+### Currículo e Raio X
+
+A estrutura de 14 aulas permanece vigente como arquitetura de prototipagem. Sua densidade e genealogia são revistas pela matriz transversal. O Raio X permanece patrimônio histórico e banco de conteúdos, agora lido por capacidade, profundidade e destino curricular, sem voltar a governar como currículo automático.
+
+### Proteção da Aula 1.1
+
+Esta reconciliação não altera seu kit nem seu estado operacional. O Índice e o Registro de QA da aula continuam prevalecendo: aprovada para pilotagem controlada; inspeção visual direta do PowerPoint e checklist pré-piloto pendentes; não aprovada para gravação ou primeira oferta.

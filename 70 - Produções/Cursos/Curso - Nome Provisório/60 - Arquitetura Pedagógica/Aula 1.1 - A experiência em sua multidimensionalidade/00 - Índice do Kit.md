@@ -12,7 +12,7 @@ estado: aprovado-para-pilotagem-controlada
 - [[Matriz de Inserção Curricular - Jung, Símbolos e Validação Plural]]
 - [[Registro Visual - Jung, Símbolos e Validação Plural]]
 
-## Componentes a produzir
+## Componentes do padrão do kit — produção concluída para o estágio pré-piloto
 
 1. Ficha pedagógica final
 2. Roteiro do educador
@@ -34,7 +34,7 @@ estado: aprovado-para-pilotagem-controlada
 - Centro, Campo, Borda e Sombra — uso introdutório
 - Arquitetura Plural de Validação — versão simplificada
 
-## Deliberações imediatas
+## Deliberações históricas processadas
 
 - duração final;
 - exemplo demonstrativo;
@@ -62,7 +62,7 @@ Nesta aula, o patrimônio ABBSP entra como exemplo e cartografia inicial. Não e
 - [[04 - Banco de Exemplos v1]]
 - [[05 - Folha Estatutos das Linguagens v1]]
 
-## Próxima produção após deliberação
+## Sequência histórica de produção — concluída
 
 1. roteiro aprovado;
 2. storyboard;
@@ -78,9 +78,9 @@ Nesta aula, o patrimônio ABBSP entra como exemplo e cartografia inicial. Não e
 - [[Auditoria Bibliográfica - Como se tornar sobrenatural]]
 - [[Perfil de Público - Camila e o Leitor de Dispenza]]
 
-### Uso restrito na Aula 1.1
+### Uso na Aula 1.1
 
-A obra contribui para exemplificar presença, corpo condicionado, centros energéticos como linguagem experiencial e pluralidade de mapas. Não sustenta promessas de cura, manifestação quântica, causalidade por testemunho ou explicações sobre pineal e campos não locais.
+A obra participa do diálogo sobre presença, corpo condicionado, linguagens energéticas e pluralidade de mapas. O estatuto recai sobre cada afirmação ou prática utilizada, não sobre uma classificação global do autor. Neste kit, sua função é de interlocução e reconhecimento cultural do público, sem governar a arquitetura da aula.
 
 
 ## Produção consolidada em 21 de julho de 2026
@@ -123,3 +123,8 @@ Próxima tarefa: realizar a inspeção visual direta do PowerPoint em modo apres
 Quanto à Aula 1.1, este Índice e o [[09 - Registro de Produção Visual e QA v1]] prevalecem sobre estados mais antigos do Dossiê ou do Índice Mestre. Quanto à arquitetura global, permanecem subordinados ao Dossiê e aos documentos institucionais superiores.
 
 Ver [[01 - Protocolo de Continuidade Integral e Abertura de Novos Chats]].
+
+
+## Governança do acervo aplicada ao kit
+
+O acesso ampliado ao acervo não reabre esta aula. [[01 - Reconciliação da Governança do Conhecimento e Disponibilidade do Acervo]], [[02 - Inventário Mestre de Conteúdos Disponíveis]] e [[03 - Reconciliação Documental dos Fundamentos Transversais e Revisão Curricular]] orientam a leitura do piloto e a preparação das aulas seguintes. Alterações no kit dependem de evidência do piloto ou contradição real documentada.

@@ -1,7 +1,7 @@
 ---
 tipo: arquitetura-curricular
 projeto: Traduzindo o Ser Humano
-status: proposta de prototipagem v0.1
+status: arquitetura-de-prototipagem-reconciliada
 data: 2026-07-19
 ---
 
@@ -9,7 +9,7 @@ data: 2026-07-19
 
 ## Decisão de desenho
 
-A primeira oferta será um curso integral de prototipagem: contempla as seis fases do Método EIXO e testa a arquitetura global em profundidade. Não pretende encerrar o método nem prometer integração espiritual. Os resultados da turma alimentarão a revisão curricular posterior e a definição de ofertas derivadas.
+A primeira oferta será um curso integral de prototipagem: contempla as seis fases do Método EIXO e testa a arquitetura global em profundidade fundamental. A arquitetura de 14 aulas permanece adequada e passa a ser lida pela gramática transversal reconciliada. Não pretende encerrar o método nem prometer integração espiritual. Os resultados da turma alimentarão a revisão curricular posterior e a definição de ofertas derivadas.
 
 ## Estrutura para apresentação na mentoria
 
@@ -23,7 +23,7 @@ A primeira oferta será um curso integral de prototipagem: contempla as seis fas
 | 5 | **Integrar progressivamente** | 5.1 Relação circular entre Tradução e EIXO; 5.2 Conectar partes sem apagar diferenças | Mapa de integração funcional | Relaciona dimensões e sustenta tensões com menor violência contra si |
 | 6 | **Expressar e incorporar** | 6.1 Expressão, limites e contribuição; 6.2 Reparação, aprendizagem e continuidade | Plano de incorporação e gesto de reparação possível | Transfere aprendizado, repara quando necessário e retorna ao percurso |
 
-## Transversalidades obrigatórias
+## Fundamentos transversais obrigatórios
 
 - **Perceber:** condição de entrada continuamente cultivada.
 - **Presença:** condição variável que pode ser sustentada ou recuperada.
@@ -31,8 +31,15 @@ A primeira oferta será um curso integral de prototipagem: contempla as seis fas
 - **Reparação e aprendizagem:** movimento de retorno, não fase autônoma.
 - **Recursividade:** retornar não é regredir.
 - **Abertura ontológica responsável:** acolher o vivido sem redução nem conclusão prematura.
+- **Dignidade epistêmica:** reconhecer o vivido sem exigir fechamento causal.
+- **Arquitetura plural:** construir passagens entre ciência, clínica, fenomenologia, símbolo, tradição, espiritualidade e experiência sem hierarquia totalizante.
+- **Diferenciação e integração:** distinguir sem fragmentar e integrar sem homogeneizar.
+- **Corpo e relação:** reconhecer sua participação em todas as fases.
+- **Autonomia, agência, responsabilidade e reparação:** critérios de transferência para a vida.
 
 ## O que está aprovado e o que ainda será lapidado
+
+Referências de revisão: [[02 - Inventário Mestre de Conteúdos Disponíveis]] e [[03 - Reconciliação Documental dos Fundamentos Transversais e Revisão Curricular]].
 
 **Aprovado como arquitetura:** seis fases recursivas; quatro movimentos funcionais; Perceber e presença transversais; reparação e aprendizagem no retorno; mapas global e inicial; multidimensionalidade e legitimidade das linguagens do vivido.
 
@@ -47,7 +54,11 @@ A primeira oferta será um curso integral de prototipagem: contempla as seis fas
 - integração entre exposição breve, demonstração, prática dosada, reflexão e aplicação;
 - primeira turma como campo de validação pedagógica, ética e experiencial.
 
+## Camadas de profundidade por aula
+
+Cada aula distinguirá conteúdo nuclear do participante, fundamento do educador, aprofundamento opcional e formação profissional futura. ABBSP, trabalhos autorais, neurociência, Psicologia Transpessoal, MTC, Qi Gong, Jung, NHI e demais fontes entram segundo capacidade, função e momento, não por acumulação disciplinar.
+
 ## Próxima produção
 
-Roteirizar o Módulo 0 e o Módulo 1 em nível de aula: objetivo, conceitos, demonstração, prática, material, limite e indicador de aprendizagem.
+Preservar a Aula 1.1 para preparação e pilotagem controlada. Após a deliberação pós-piloto, iniciar a Aula 1.2 — Do vivido à Tradução — aplicando a matriz transversal reconciliada.
 
