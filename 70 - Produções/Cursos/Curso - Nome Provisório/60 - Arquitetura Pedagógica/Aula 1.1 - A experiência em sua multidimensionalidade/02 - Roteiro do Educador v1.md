@@ -1,7 +1,7 @@
 ---
 tipo: roteiro-do-educador
 aula: 1.1
-estado: prototipo-para-deliberacao
+estado: aprovado-para-prototipagem-visual
 versao: 1
 ---
 
