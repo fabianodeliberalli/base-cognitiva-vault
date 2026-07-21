@@ -1,8 +1,10 @@
 ---
 tipo: roteiro-do-educador
 aula: 1.1
-estado: aprovado-para-prototipagem-visual
-versao: 1
+estado: aprovado-para-pilotagem-controlada
+versao: "1.1"
+atualizado_em: 2026-07-21
+aprovado_por: Fabiano Deliberalli
 ---
 
 # Roteiro do Educador v1 — Aula 1.1
@@ -55,6 +57,18 @@ Introduzir a pergunta: “De que lugar esta afirmação fala?”
 
 Distribuir [[03 - Ficha Cartografia Multidimensional Inicial v1]]. Conduzir uma janela por vez, com pausas.
 
+Explicitar antes do preenchimento:
+
+> A ficha é um mapa completo para consulta e continuidade; não é um formulário que precisa ser preenchido integralmente agora.
+
+Orientar o uso seletivo:
+
+- solicitar uma ou duas anotações essenciais em cada janela;
+- autorizar campos em branco;
+- permitir que a pessoa permaneça mais tempo na janela que se mostrar relevante;
+- informar que o restante poderá ser retomado depois;
+- priorizar diferenciação, legibilidade e orientação, não quantidade de respostas.
+
 ## 62–69 min — Porta simbólica opcional
 
 Convidar a acrescentar palavra, traço, forma, símbolo, postura, movimento ou som. Não explicar Jung nem solicitar mandala correta. Não interpretar produções.
@@ -63,7 +77,9 @@ Convidar a acrescentar palavra, traço, forma, símbolo, postura, movimento ou s
 
 Aplicar o protocolo aprovado. O interlocutor pergunta e reflete palavras; não aconselha, diagnostica ou explica.
 
-## 84–94 min — Colheita coletiva
+## 84–92 min — Colheita coletiva
+
+Colher poucas respostas representativas, sem exigir que todas as pessoas falem. Se houver atraso, reduzir este bloco; não comprimir o retorno.
 
 Perguntas:
 
@@ -72,13 +88,21 @@ Perguntas:
 - Onde surgiu interpretação prematura?
 - O que o mapa deixou de fora?
 
-## 94–100 min — Retorno
+## 92–98 min — Retorno protegido ao presente
 
-Orientar ambiente, apoio, respiração espontânea e recurso atual. Cada pessoa registra:
+Interromper a exploração de conteúdo antes de iniciar este bloco. Orientar ambiente, apoio, respiração espontânea e recurso atual. Verificar se cada pessoa consegue reconhecer o estado presente e escolher um apoio suficiente.
+
+Cada pessoa registra:
 
 - o que reconheço;
 - o que permanece aberto;
 - qual pequeno gesto ou limite importa agora.
+
+O retorno tem prioridade temporal. Não antecipar a ponte curricular enquanto o grupo ainda estiver concluindo esta etapa.
+
+## 98–100 min — Ponte Tradução–EIXO e Aula 1.2
+
+Somente depois do retorno, apresentar brevemente a relação circular Tradução–EIXO e a continuidade em **Aula 1.2 — Do vivido à Tradução**. Não reabrir conteúdo experiencial neste momento.
 
 ## Limite do educador
 
