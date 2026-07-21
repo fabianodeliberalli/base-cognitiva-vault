@@ -5,10 +5,10 @@ curso: nome-provisorio
 status: fase-2-em-andamento
 estado_maturidade: identidade-inicial-definida
 fase_atual: "Fase 2 — Posicionamento institucional e natureza da oferta"
-versao: "0.17"
+versao: "0.18"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-17
-atualizado_em: 2026-07-19
+atualizado_em: 2026-07-21
 documento_superior: Protocolo Operacional para Construção da Arquitetura de Cursos v1.0
 tags:
   - traduzindo-o-ser-humano
@@ -19,7 +19,7 @@ tags:
 
 # Dossiê de Contexto — Curso [nome provisório]
 
-**Versão:** 0.17  
+**Versão:** 0.18  
 **Estado de maturidade:** identidade inicial definida  
 **Fases concluídas:** Fase 0 — Abertura e governança; Fase 1 — Gênese, identidade e problema humano  
 **Fase autorizada:** Fase 2 — Posicionamento institucional e natureza da oferta
@@ -30,11 +30,11 @@ tags:
 
 - **Código do curso:** a definir;
 - **Nome atual:** Curso [nome provisório];
-- **Versão do Dossiê:** 0.17;
+- **Versão do Dossiê:** 0.18;
 - **Status documental:** documento evolutivo;
 - **Estado de maturidade:** identidade inicial definida;
 - **Data de criação:** 2026-07-17;
-- **Última atualização:** 2026-07-18;
+- **Última atualização:** 2026-07-21;
 - **Autor:** Fabiano Deliberalli;
 - **Componente responsável:** orquestração da arquitetura do curso;
 - **Documento operacional superior:** Protocolo Operacional para Construção da Arquitetura de Cursos v1.0;
@@ -817,7 +817,7 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 | 0.10 | 2026-07-18 | Aprovação dos Três Eus como Mapa Funcional Transversal, registro do teste de removibilidade e abertura futura da Matriz de Inserção Transversal | Sessão 2A-B |
 | 0.11 | 2026-07-18 | Aprovação da governança lexical, criação do Léxico Mestre e preservação da prática de ressonância no Eu Essencial | Sessão 2A-C |
 | 0.12 | 2026-07-18 | Abertura da auditoria das seis fases e registro da ausência das fontes canônicas necessárias | Sessão 2A-D |
-| 0.13 | 2026-07-19 | Recuperação das fontes históricas, identificação das ordens divergentes das seis fases e abertura da deliberação funcional | Sessão 2A-D |
+| 0.13 | 2026-07-19 | Recuperação das fontes históricas, identificação das ordens divergentes das seis fases e abertura da deliberação funcional | Sessão 2A-D |\n| 0.18 | 2026-07-21 | Consolidação da regra de continuidade, correção do estado operacional e vinculação da Aula 1.1 ao Índice e ao QA | Auditoria de continuidade integral |
 
 ---
 
@@ -845,3 +845,46 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 > definir o que será testado e os critérios de seleção do conteúdo essencial de cada uma das seis fases.
 
 Ver [[Protocolo da Primeira Oferta Integral]].
+
+
+---
+
+## 19. Estado operacional canônico e continuidade entre chats
+
+**Atualização:** 2026-07-21.  
+**Regra vigente:** [[01 - Protocolo de Continuidade Integral e Abertura de Novos Chats]].
+
+Esta seção prevalece sobre indicações antigas de bloqueio, deliberação das seis fases ou próxima sessão que permaneçam no corpo histórico deste Dossiê.
+
+### Estado estrutural vigente
+
+- seis fases aprovadas: Traduzir a Experiência; Regular e Recuperar Presença; Observar e Diferenciar; Fortalecer o EIXO; Integrar Progressivamente; Expressar e Contribuir;
+- primeira oferta integral autorizada para prototipagem curricular;
+- estrutura candidata com Módulo 0 e seis módulos correspondentes às fases;
+- Módulos 0 e 1 autorizados para detalhamento e produção controlada;
+- Aula 0.2 organizada em kit;
+- Aula 1.1 em protótipo visual concluído.
+
+### Estado operacional vigente
+
+O [[00 - Índice do Kit]] e o [[09 - Registro de Produção Visual e QA v1]] da Aula 1.1 governam o ponto atual:
+
+> Aula 1.1 concluída para revisão autoral e pilotagem; ainda não aprovada definitivamente para gravação.
+
+### Próxima sessão única
+
+> Revisão Autoral e Protocolo de Pilotagem da Aula 1.1, correlacionando PowerPoint, Roteiro do Educador e Critérios de Pilotagem.
+
+Após essa decisão: aprovar para piloto, revisar pontos específicos ou iniciar a Aula 1.2 — Do vivido à Tradução.
+
+### Regra de prevalência
+
+- este Dossiê governa a arquitetura geral;
+- o Protocolo de Continuidade governa a passagem entre chats;
+- o Índice Mestre governa a organização dos kits;
+- o Índice e o QA da aula governam o estado operacional mais recente daquela aula;
+- documentos institucionais superiores permanecem vigentes quanto a princípios e limites.
+
+### Histórico
+
+As antigas seções “Arquitetura pedagógica — bloqueada”, “questões das seis fases” e “próxima sessão” permanecem como registro evolutivo, mas não descrevem o estado atual.
