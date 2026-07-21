@@ -1,7 +1,7 @@
 ---
 tipo: indice-kit-aula
 aula: 1.1
-estado: em-deliberacao
+estado: em-prototipagem-visual
 ---
 
 # Aula 1.1 — Índice do Kit
@@ -81,3 +81,16 @@ Nesta aula, o patrimônio ABBSP entra como exemplo e cartografia inicial. Não e
 ### Uso restrito na Aula 1.1
 
 A obra contribui para exemplificar presença, corpo condicionado, centros energéticos como linguagem experiencial e pluralidade de mapas. Não sustenta promessas de cura, manifestação quântica, causalidade por testemunho ou explicações sobre pineal e campos não locais.
+
+
+## Produção consolidada em 21 de julho de 2026
+
+- [[06 - Storyboard dos Slides v1]]
+- [[07 - Plano Visual e Mapas v1]]
+- [[08 - Critérios de Pilotagem v1]]
+
+As deliberações e o roteiro avançaram para o estado **aprovado para prototipagem visual**.
+
+## Próxima tarefa operacional
+
+Montar a apresentação PowerPoint v1 com 22 slides, gerar a ficha diagramada e realizar inspeção visual antes de aprovar o kit para gravação.
