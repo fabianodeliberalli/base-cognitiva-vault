@@ -5,7 +5,7 @@ curso: nome-provisorio
 status: prototipagem-curricular-em-andamento
 estado_maturidade: arquitetura-integral-em-prototipagem
 fase_atual: "Prototipagem curricular — Preparação da pilotagem controlada da Aula 1.1"
-versao: "0.21"
+versao: "0.22"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-17
 atualizado_em: 2026-07-21
@@ -19,7 +19,7 @@ tags:
 
 # Dossiê de Contexto — Curso [nome provisório]
 
-**Versão:** 0.21  
+**Versão:** 0.22  
 **Estado de maturidade:** arquitetura integral em prototipagem  
 **Fases concluídas:** Fase 0 — Abertura e governança; Fase 1 — Gênese, identidade e problema humano  
 **Fase atual:** prototipagem curricular controlada; Aula 1.1 aprovada para piloto e em preparação pré-piloto
@@ -30,7 +30,7 @@ tags:
 
 - **Código do curso:** a definir;
 - **Nome atual:** Curso [nome provisório];
-- **Versão do Dossiê:** 0.21;
+- **Versão do Dossiê:** 0.22;
 - **Status documental:** documento evolutivo;
 - **Estado de maturidade:** arquitetura integral em prototipagem;
 - **Data de criação:** 2026-07-17;
@@ -932,3 +932,18 @@ A estrutura de 14 aulas permanece vigente como arquitetura de prototipagem. Sua 
 ### Proteção da Aula 1.1
 
 Esta reconciliação não altera seu kit nem seu estado operacional. O Índice e o Registro de QA da aula continuam prevalecendo: aprovada para pilotagem controlada; inspeção visual direta do PowerPoint e checklist pré-piloto pendentes; não aprovada para gravação ou primeira oferta.
+
+
+---
+
+## Atualização documental — Registro Mestre de Formulações Estruturantes
+
+O [[Registro Mestre de Formulações Estruturantes]] integra o sistema de preservação e auditoria do curso. Ele reúne formulações nucleares, canônicas, consolidadas, candidatas, protótipos e itens históricos recuperados do percurso de construção.
+
+### Regra de uso
+
+- consultar o Registro antes de redefinir paradigmas, público, transformação, Método EIXO, princípios pedagógicos ou limites epistemológicos;
+- não interpretar presença no Registro como canonização automática;
+- preservar o estatuto individual de cada formulação;
+- encaminhar decisões autorais aos documentos governantes correspondentes;
+- usar o Registro como fonte de recuperação e auditoria, enquanto este Dossiê continua governando a arquitetura geral.
