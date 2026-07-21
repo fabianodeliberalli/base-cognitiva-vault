@@ -4,8 +4,8 @@ projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: prototipagem-curricular-em-andamento
 estado_maturidade: arquitetura-integral-em-prototipagem
-fase_atual: "Prototipagem curricular — Revisão autoral da Aula 1.1"
-versao: "0.18"
+fase_atual: "Prototipagem curricular — Deliberação autoral da Aula 1.1"
+versao: "0.19"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-17
 atualizado_em: 2026-07-21
@@ -19,10 +19,10 @@ tags:
 
 # Dossiê de Contexto — Curso [nome provisório]
 
-**Versão:** 0.18  
+**Versão:** 0.19  
 **Estado de maturidade:** arquitetura integral em prototipagem  
 **Fases concluídas:** Fase 0 — Abertura e governança; Fase 1 — Gênese, identidade e problema humano  
-**Fase atual:** prototipagem curricular controlada; Revisão Autoral da Aula 1.1
+**Fase atual:** prototipagem curricular controlada; revisão técnica concluída e aguardando deliberação autoral da Aula 1.1
 
 ---
 
@@ -30,7 +30,7 @@ tags:
 
 - **Código do curso:** a definir;
 - **Nome atual:** Curso [nome provisório];
-- **Versão do Dossiê:** 0.18;
+- **Versão do Dossiê:** 0.19;
 - **Status documental:** documento evolutivo;
 - **Estado de maturidade:** arquitetura integral em prototipagem;
 - **Data de criação:** 2026-07-17;
@@ -44,6 +44,10 @@ tags:
 ### Regra de evolução
 
 Este documento deverá permanecer como **Dossiê de Contexto** durante as fases de concepção. Somente depois da validação integral da arquitetura poderá ser renomeado como **Arquitetura Mestre — Curso [nome aprovado]**.
+
+### Atualização operacional — 21 de julho de 2026
+
+A revisão técnica e a correlação documental da Aula 1.1 foram concluídas em [[10 - Revisão Autoral e Protocolo de Pilotagem v1]]. O parecer recomenda dois ajustes operacionais — preenchimento seletivo da ficha e proteção do retorno antes da ponte curricular — e mantém a aula aguardando deliberação autoral. A aula ainda não está aprovada definitivamente para piloto ou gravação.
 
 ---
 
