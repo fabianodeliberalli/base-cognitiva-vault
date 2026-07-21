@@ -1,7 +1,7 @@
 ---
 tipo: indice-kit-aula
 aula: 1.1
-estado: revisao-tecnica-concluida-aguardando-deliberacao-autoral
+estado: aprovado-para-pilotagem-controlada
 ---
 
 # Aula 1.1 — Índice do Kit
@@ -98,7 +98,7 @@ As deliberações e o roteiro avançaram para o estado **aprovado para prototipa
 - ![[90 - Anexos/Materiais Didáticos/Curso - Nome Provisório/Aula 1.1/Ficha - Cartografia Multidimensional Inicial da Experiencia.pdf]]
 - ![[90 - Anexos/Mapas Conceituais/Semente Casca Campo - prototipo v1.png]]
 
-O protótipo visual foi renderizado e inspecionado integralmente. O estado atual é **concluído para revisão autoral e pilotagem**, não ainda aprovação definitiva para gravação.
+O protótipo visual foi renderizado e inspecionado integralmente. Após a decisão autoral de 21 de julho de 2026 e a incorporação dos dois ajustes operacionais ao roteiro, o estado atual é **aprovado para pilotagem controlada**, ainda não aprovado para gravação ou primeira oferta.
 
 ## Revisão técnica e Protocolo de Pilotagem
 
@@ -106,9 +106,16 @@ O protótipo visual foi renderizado e inspecionado integralmente. O estado atual
 
 A correlação documental foi concluída em 21 de julho de 2026. O parecer técnico preserva o núcleo da aula, recomenda dois ajustes operacionais e mantém a decisão final sob autoridade de Fabiano Deliberalli.
 
-## Próxima tarefa operacional
+## Decisão autoral e próxima tarefa operacional
 
-Deliberar entre: (1) aprovar para piloto assumindo os dois ajustes como regra de condução; (2) incorporar primeiro os dois ajustes ao Roteiro e então aprovar; ou (3) devolver outros pontos específicos à revisão. Antes do piloto, permanece obrigatória a inspeção visual direta do PowerPoint pelo autor.
+**Opção 2 aprovada por Fabiano Deliberalli em 21 de julho de 2026.**
+
+Os dois ajustes foram incorporados ao [[02 - Roteiro do Educador v1]]:
+
+1. preenchimento seletivo e guiado da ficha;
+2. retorno protegido antes da ponte Tradução–EIXO e Aula 1.2.
+
+Próxima tarefa: realizar a inspeção visual direta do PowerPoint em modo apresentação, completar o checklist pré-piloto, definir a logística e executar a pilotagem controlada. A aula ainda não está aprovada para gravação ou primeira oferta.
 
 
 ## Regra de autoridade deste kit
