@@ -89,3 +89,19 @@ Ordem proposta:
 4. decidir ajustes antes da gravação;
 5. aprovar o kit para piloto ou devolver pontos específicos à revisão;
 6. depois, iniciar a Aula 1.2 — Do vivido à Tradução.
+
+
+## Atualização — Revisão técnica e correlação documental
+
+Em 21 de julho de 2026 foi concluída a correlação entre Storyboard, Roteiro do Educador, ficha diagramada, Critérios de Pilotagem e este Registro de QA. A ficha de quatro páginas foi novamente renderizada e inspecionada, sem defeitos de layout.
+
+Ver [[10 - Revisão Autoral e Protocolo de Pilotagem v1]].
+
+### Parecer
+
+- núcleo pedagógico preservado;
+- preenchimento seletivo da ficha recomendado antes do piloto;
+- retorno deve anteceder e ter prioridade sobre a ponte curricular;
+- Semente–Casca–Campo e a densidade dos slides 13–16 permanecem variáveis de pilotagem;
+- inspeção visual direta do PowerPoint pelo autor permanece pendente;
+- aula aguardando deliberação autoral, ainda não aprovada definitivamente para piloto ou gravação.
