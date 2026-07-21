@@ -759,7 +759,7 @@ A arquitetura visual prevê, como família articulada:
 
 # IX. Síntese da arquitetura vigente
 
-## Formulação integradora reconstruída
+## F79 — Formulação integradora reconstruída
 
 > O curso é uma arquitetura pedagógica para perceber, sustentar, traduzir, diferenciar, orientar, integrar progressivamente e expressar a experiência humana. Ele transforma repertório acumulado em capacidade incorporada por meio dos quatro movimentos funcionais e das seis fases recursivas do Método EIXO. Trabalha com uma arquitetura plural de mapas, preserva a primazia e a dignidade do vivido, distingue estatutos de linguagem, mantém abertura ontológica responsável e orienta a aprendizagem para autonomia, agência, responsabilidade, vínculos, reparação e transferência para a vida.
 
