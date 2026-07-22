@@ -3,7 +3,7 @@ tipo: protocolo-de-continuidade-integral
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "1.2"
+versao: "1.3"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-21
 atualizado_em: 2026-07-21
@@ -736,7 +736,7 @@ Cada chat de módulo:
 
 Não abrir todos os chats de uma vez. Criá-los conforme o módulo entra em produção reduz dispersão.
 
-A Aula 1.1 está no Módulo 1 e já concluiu a revisão autoral pré-piloto. O Chat Mestre deve agora fechar P2 e o mínimo de P6. O trabalho operacional da Aula 1.1 permanece no chat de módulo ou sessão de pilotagem. A produção plena da Aula 1.2 somente será liberada após P2, P6 e deliberação pós-piloto.
+A Aula 1.1 está no Módulo 1 e já concluiu a revisão autoral pré-piloto. O Chat Mestre deve agora deliberar as propostas v0.1 de P2 e P6 e registrar seu eventual fechamento somente após decisão autoral expressa. O trabalho operacional da Aula 1.1 permanece no chat de módulo ou sessão de pilotagem. A produção plena da Aula 1.2 somente será liberada após P2, P6 e deliberação pós-piloto.
 
 ## 20. Texto de abertura para copiar e colar no novo chat
 
@@ -806,7 +806,7 @@ Ponto atual confirmado em 21 de julho de 2026:
 
 A Aula 1.1 — A experiência em sua multidimensionalidade possui protótipo visual concluído, PowerPoint de 22 slides, ficha do participante de 4 páginas, mapas, roteiro, storyboard, critérios de pilotagem e Registro de QA. Está aprovada para pilotagem controlada, com inspeção visual direta e checklist pré-piloto pendentes, e ainda não está aprovada para gravação ou primeira oferta.
 
-A frente curricular ativa é fechar P2 — Taxonomia dos estatutos das linguagens — e o protocolo mínimo de P6 — Seleção de práticas. Em paralelo, permanece a frente operacional de preparar e executar o piloto controlado da Aula 1.1. A produção plena da Aula 1.2 — Do vivido à Tradução — somente será liberada após P2, P6 e deliberação pós-piloto.
+A frente curricular ativa é deliberar [[P2 - Taxonomia Transversal dos Estatutos das Linguagens - Proposta v0.1]] e [[P6 - Protocolo Mestre de Seleção, Modulação e Encerramento de Práticas - Proposta v0.1]]. As propostas estão registradas, mas os portões permanecem abertos até decisão autoral expressa. Em paralelo, permanece a frente operacional de preparar e executar o piloto controlado da Aula 1.1. A produção plena da Aula 1.2 — Do vivido à Tradução — somente será liberada após P2, P6 e deliberação pós-piloto.
 
 Ao final de cada etapa, atualize no GitHub/Obsidian o estado, as decisões, as pendências, as Dívidas de Organização e o próximo ponto exato de retomada.
 
@@ -830,7 +830,9 @@ A continuidade é considerada plena quando o novo chat consegue responder, com f
 Se uma dessas respostas depender apenas da memória do chat, há uma deficiência de continuidade e ela deve ser registrada e corrigida no repositório.
 
 
-## 22. Controle de versão 1.2
+## 22. Controle de versão 1.3
+
+A versão 1.3 registra a disponibilidade das propostas v0.1 de P2 e P6, desloca o ponto de retomada de formulação para deliberação autoral e preserva os portões como abertos até decisão expressa.
 
 A versão 1.2 cria vínculo obrigatório com [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]], integra o [[Registro Consolidado da Sessão - Governança e Arquitetura Curricular - 2026-07-21]] e reconcilia as duas frentes atuais: P2/P6 como trabalho curricular ativo e pilotagem da Aula 1.1 como trabalho operacional pendente. A Aula 1.2 permanece condicionada aos dois portões e à deliberação pós-piloto.
 
