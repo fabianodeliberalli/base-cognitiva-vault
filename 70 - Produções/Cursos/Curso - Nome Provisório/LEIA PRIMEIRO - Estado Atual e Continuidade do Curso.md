@@ -3,7 +3,7 @@ tipo: porta-de-entrada-continuidadade
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "1.2"
+versao: "1.3"
 criado_em: 2026-07-21
 atualizado_em: 2026-07-21
 autor: Fabiano Deliberalli
@@ -64,25 +64,33 @@ Esta nota não substitui os documentos mestres. Ela os organiza, declara sua aut
 - seu acervo deve ser preservado como matéria-prima qualificada e memória de desenvolvimento;
 - após a revisão, será necessária nova deliberação autoral sobre a versão apta à pilotagem.
 
-## Deliberações encerradas e frente ativa
+## Deliberações encerradas e arquitetura de trabalho vigente
 
 ### Portões encerrados nesta etapa
 
 - **P2 — Taxonomia Transversal dos Estatutos das Linguagens:** aprovado integralmente;
 - **P6 — Seleção, Modulação e Encerramento de Práticas:** núcleo mínimo obrigatório aprovado;
-- as duas decisões passam a governar a revisão da Aula 1.1 e a produção posterior.
+- as duas decisões governam todas as aulas novas ou revisadas.
+
+### Arquitetura de chats
+
+- **Chat permanente de governança:** Curso — Orquestração Curricular Mestre 03;
+- **unidade conversacional de produção:** um chat ativo por módulo, aberto somente quando o módulo entrar em trabalho real;
+- **memória oficial:** documentos do Obsidian sincronizados neste repositório;
+- **ordem curricular:** Aula 0.1 → Aula 0.2 → auditoria do Módulo 0 → Aulas 1.1 e 1.2 → módulos seguintes;
+- **auditorias obrigatórias:** ao final de cada aula, de cada módulo e, ao final do percurso, das 14 aulas.
+
+Este chat atual assume a função de **Orquestração Curricular Mestre 03**. Um novo chat mestre só deverá ser aberto quando este atingir limite operacional; a continuidade será recuperada por esta nota, pelo Protocolo e pelos índices, não pela memória conversacional.
 
 ### Frente curricular ativa
 
-> Revisar e reorganizar a Aula 1.1 como aula normal da arquitetura vigente, aplicando o Guia Mestre, P2 e o núcleo mínimo de P6.
+> Abrir o trabalho sequencial do **Módulo 0**, iniciando pela auditoria curricular da **Aula 0.1 — Da compreensão acumulada à competência incorporada**.
 
-A revisão não depende de evidência prévia do piloto, porque mudanças curriculares posteriores já alteraram as condições da aula. O protótipo existente deverá ser auditado componente por componente, sem obrigação de preservação e sem descarte automático.
+A Aula 0.1 possui conteúdo anterior que deve ser localizado e auditado antes de qualquer reconstrução. A Aula 0.2 possui kit organizado, mas será auditada somente depois do encerramento curricular da Aula 0.1.
 
-### Pilotagem
+### Lugar da Aula 1.1
 
-A pilotagem permanece como etapa futura de validação pedagógica da **versão revisada**. A autorização histórica para pilotar o protótipo anterior não substitui nova deliberação autoral após a reorganização.
-
-A produção plena da Aula 1.2 permanece temporariamente condicionada à conclusão da revisão curricular da Aula 1.1 e à definição da sequência de pilotagem, além dos demais portões específicos aplicáveis.
+A Aula 1.1 permanece como protótipo revisável e será auditada quando o percurso alcançar o Módulo 1. A mudança de ordem não restaura proteção canônica nem invalida seu acervo; apenas a reinsere na sequência curricular comum das 14 aulas.
 
 ## Ordem mínima de leitura
 
@@ -126,6 +134,7 @@ Acrescentar:
 | Relação entre movimentos, fases e Jornada | Matriz Integrada |
 | Distribuição atual das 14 aulas | Esqueleto Estrutural v0.2 |
 | Continuidade entre chats e ritual de atualização | Protocolo de Continuidade |
+| Estado e continuidade de um módulo | 00 — Estado, Índice e Continuidade do respectivo módulo |
 | Estado operacional de uma aula | Índice, roteiro, QA e protocolo de pilotagem do respectivo kit |
 | Estado mais recente desta fase | esta nota e [[Registro Consolidado da Sessão - Governança e Arquitetura Curricular - 2026-07-21]] |
 
@@ -167,19 +176,19 @@ Trechos históricos permanecem como memória evolutiva, mas não substituem seç
 Antes de declarar uma etapa concluída:
 
 1. atualizar o documento diretamente trabalhado;
-2. atualizar o Dossiê se o estado geral mudou;
-3. atualizar o Guia se uma formulação ganhou consequência curricular;
-4. atualizar o Registro Mestre se surgiu ou mudou uma formulação estruturante;
-5. atualizar o Esqueleto ou o Índice Mestre se o currículo ou um kit mudou;
-6. registrar aprovações, pendências, arquivos e Dívidas de Organização;
-7. atualizar nesta nota o estado e o ponto exato de retomada;
-8. sincronizar no GitHub/Obsidian;
-9. conferir novamente os arquivos remotos;
+2. atualizar o Índice do Kit e realizar a auditoria de encerramento da aula, quando aplicável;
+3. atualizar o Estado e Índice do Módulo;
+4. atualizar o Dossiê se o estado geral mudou;
+5. atualizar o Guia ou o Registro Mestre se uma formulação ou consequência curricular mudou;
+6. atualizar o Esqueleto ou o Índice Mestre se o currículo ou um kit mudou;
+7. registrar aprovações, pendências, impactos transversais, arquivos e Dívidas de Organização;
+8. atualizar nesta nota o estado e o ponto exato de retomada;
+9. sincronizar no GitHub/Obsidian e conferir os arquivos remotos;
 10. informar ao autor o que mudou e o que permanece aberto.
 
 ## Ponto exato de retomada
 
-> Iniciar a **revisão e reorganização curricular da Aula 1.1**, aplicando o Guia Mestre, P2 aprovado e o núcleo mínimo aprovado de P6. Auditar título, função, capacidade, sequência, mapas, estatutos, prática, evidência, materiais e relação com as demais aulas. Ao final, apresentar uma nova versão para deliberação autoral antes da pilotagem.
+> No chat **Curso — Módulo 0 — Orientação, mapa e contrato formativo**, emitir o Relatório de Retomada do módulo e, após deliberação autoral, iniciar a auditoria curricular da **Aula 0.1 — Da compreensão acumulada à competência incorporada**. Localizar e classificar todo material anterior antes de produzir novo conteúdo; auditar função, capacidade, sequência, linguagens, prática, evidência, materiais e ponte para a Aula 0.2.
 
 ## Relações
 
@@ -193,3 +202,6 @@ Antes de declarar uma etapa concluída:
 - [[Registro Mestre de Formulações Estruturantes]]
 - [[02 - Matriz Integrada - Quatro Movimentos, Seis Fases e Jornada Fenomenológica]]
 - [[00 - Índice Mestre dos Kits de Aula]]
+- [[00 - Modelo de Estado, Índice e Continuidade do Módulo]]
+- [[00 - Estado, Índice e Continuidade do Módulo 0]]
+- [[Prompts de Abertura - Orquestração Curricular Mestre e Módulo 0]]
