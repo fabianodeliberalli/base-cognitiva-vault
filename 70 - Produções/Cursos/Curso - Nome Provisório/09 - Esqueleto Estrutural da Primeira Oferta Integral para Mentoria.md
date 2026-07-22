@@ -99,11 +99,11 @@ ABBSP, trabalhos autorais, neurociência, Psicologia Transpessoal, Medicina Chin
 O mapa longitudinal está autorizado, mas os kits dependem dos portões especificados no Guia Mestre:
 
 - **P1:** Modelo dos Sete Níveis;
-- **P2:** taxonomia final dos estatutos das linguagens;
+- **P2:** taxonomia final dos estatutos das linguagens — **fechado**;
 - **P3:** necessidade curricular dos Três Eus;
 - **P4:** seis dimensões do EIXO Integrador;
 - **P5:** léxico pedagógico reduzido;
-- **P6:** protocolo de seleção de práticas;
+- **P6:** núcleo mínimo do protocolo de seleção de práticas — **fechado para a primeira oferta**;
 - **P7:** indicadores e instrumentos de acompanhamento;
 - **P8:** redação canônica do estatuto da dimensão energética.
 
