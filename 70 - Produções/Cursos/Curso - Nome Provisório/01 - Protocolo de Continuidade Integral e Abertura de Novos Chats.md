@@ -3,7 +3,7 @@ tipo: protocolo-de-continuidade-integral
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "1.5"
+versao: "1.6"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-21
 atualizado_em: 2026-07-21
@@ -421,9 +421,11 @@ Estrutura visual:
 15. integração e retorno;
 16. relação circular Tradução–EIXO.
 
-Próxima ação autorizada:
+Próxima ação interna da Aula 1.1, quando o percurso alcançar o Módulo 1:
 
 > Realizar a revisão e reorganização curricular da Aula 1.1 sob o Guia Mestre, P2 e o núcleo mínimo de P6. Somente depois submeter a nova versão à deliberação autoral para pilotagem.
+
+Este trecho descreve a fila interna da Aula 1.1 e não substitui o ponto global vigente: Módulo 0, Aula 0.1.
 
 ## 12. Mapas e patrimônio visual
 
@@ -759,7 +761,9 @@ A continuidade é considerada plena quando o novo chat consegue responder, com f
 Se uma dessas respostas depender apenas da memória do chat, há uma deficiência de continuidade e ela deve ser registrada e corrigida no repositório.
 
 
-## 22. Controle de versão 1.5
+## 22. Controle de versão 1.6
+
+A versão 1.6 explicita que a ação descrita no estado da Aula 1.1 pertence à fila futura do Módulo 1 e não ao ponto global de retomada.
 
 A versão 1.5 formaliza a Orquestração Curricular Mestre 03, um chat ativo por módulo, a camada Estado e Índice do Módulo, a ordem sequencial desde a Aula 0.1 e as auditorias obrigatórias de aula e módulo. Substitui o prompt centrado na Aula 1.1 por prompts específicos de Orquestração e Módulo 0.
 
