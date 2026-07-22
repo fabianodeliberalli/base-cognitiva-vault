@@ -3,7 +3,7 @@ tipo: guia-governanca-curricular
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: base-vinculante-para-prototipagem-curricular-controlada
-versao: "0.2"
+versao: "0.3"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-21
 atualizado_em: 2026-07-21
@@ -424,7 +424,8 @@ O participante formula sua posição espiritual atual, inclusive religiosa, espi
 - **Impacto:** todas as aulas; especialmente 1.2, 2.1 e 4.2.
 - **Regra provisória:** usar as sete categorias do Registro Mestre, declarando limites e evitando categorias híbridas não definidas.
 - **Prazo:** antes do kit da Aula 1.2.
-- **Status:** alta prioridade.
+- **Documento candidato:** [[P2 - Taxonomia Transversal dos Estatutos das Linguagens - Proposta v0.1]].
+- **Status:** proposta v0.1 pronta para deliberação autoral; portão ainda aberto.
 
 ### P3 — Necessidade curricular dos Três Eus
 
@@ -460,7 +461,8 @@ O participante formula sua posição espiritual atual, inclusive religiosa, espi
 - **Impacto:** todas as aulas vivenciais.
 - **Regra provisória obrigatória:** nenhum kit avança sem declarar função, instruções, intensidade, contraindicações pertinentes, alternativa, interrupção, retorno, evidência e aplicação.
 - **Prazo:** antes de qualquer nova prática e antes da produção plena da Aula 1.2.
-- **Status:** parcialmente resolvido por regra provisória; protocolo mestre ainda pendente.
+- **Documento candidato:** [[P6 - Protocolo Mestre de Seleção, Modulação e Encerramento de Práticas - Proposta v0.1]].
+- **Status:** regra provisória obrigatória; proposta v0.1 pronta para deliberação autoral; portão ainda aberto.
 
 ### P7 — Indicadores e instrumentos de acompanhamento
 
@@ -581,7 +583,7 @@ Esses conteúdos constituem reserva curricular e patrimônio considerado. Não p
 
 1. reconciliar o Esqueleto Estrutural com a arquitetura v0.2;
 2. registrar no Dossiê a criação deste Guia e as decisões recentes;
-3. concluir P2 e o protocolo mínimo de P6 como frente curricular ativa;
+3. deliberar as propostas v0.1 de P2 e P6 e, somente após aprovação autoral, registrar o fechamento dos portões;
 4. preparar, executar e registrar a pilotagem controlada da Aula 1.1 como frente operacional pendente;
 5. usar dados do piloto na decisão P1 e na revisão da Aula 1.1;
 6. liberar a produção plena da Aula 1.2 somente após P2, P6 e deliberação pós-piloto;
@@ -615,6 +617,8 @@ Para cada revisão da arquitetura, verificar:
 
 ## Relações
 
+- [[P2 - Taxonomia Transversal dos Estatutos das Linguagens - Proposta v0.1]]
+- [[P6 - Protocolo Mestre de Seleção, Modulação e Encerramento de Práticas - Proposta v0.1]]
 - [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]]
 - [[Registro Consolidado da Sessão - Governança e Arquitetura Curricular - 2026-07-21]]
 - [[00 - Dossiê de Contexto e Arquitetura Mestre]]
