@@ -65,9 +65,9 @@ A continuidade deve obedecer a duas hierarquias simultâneas.
 6. Registro Mestre de Formulações Estruturantes;
 7. documentos metodológicos consolidados do Método EIXO;
 8. arquitetura curricular e índices-mestres;
-7. kits das aulas;
-8. fontes, auditorias e patrimônio;
-9. propostas, hipóteses e protótipos.
+9. kits das aulas;
+10. fontes, auditorias e patrimônio;
+11. propostas, hipóteses e protótipos.
 
 ### 2.2. Atualidade operacional
 
