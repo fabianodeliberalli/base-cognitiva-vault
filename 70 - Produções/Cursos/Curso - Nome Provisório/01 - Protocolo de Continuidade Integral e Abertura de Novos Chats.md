@@ -3,7 +3,7 @@ tipo: protocolo-de-continuidade-integral
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "1.4"
+versao: "1.5"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-21
 atualizado_em: 2026-07-21
@@ -321,13 +321,13 @@ Estrutura:
 
 | Módulo | Função | Aulas candidatas | Evidência principal |
 |---|---|---|---|
-| 0 | Orientação e contrato | 0.1 Tradução da Experiência Humana; 0.2 EIXO, recursividade e segurança | reconhece limites e forma de participação |
-| 1 | Traduzir a Experiência | 1.1 A experiência em sua multidimensionalidade; 1.2 Do vivido à Tradução | distingue manifestação, interpretação e hipótese |
-| 2 | Regular e Recuperar Presença | 2.1 Corpo, ritmos e afastamento; 2.2 Recursos de retorno e dosagem | reconhece sinais e recupera presença possível |
-| 3 | Observar e Diferenciar | 3.1 Perceber, presença e observação; 3.2 Padrões, partes e contextos | diferencia componentes do vivido |
-| 4 | Fortalecer o EIXO | 4.1 Valores, contexto e essencial; 4.2 Espaço entre impulso e resposta | formula orientação e amplia escolha |
-| 5 | Integrar Progressivamente | 5.1 Recursividade Tradução–EIXO; 5.2 Conectar partes sem apagar diferenças | relaciona dimensões e sustenta tensões |
-| 6 | Expressar e Contribuir | 6.1 Expressão, limites e contribuição; 6.2 Reparação, aprendizagem e continuidade | transfere, repara e retorna |
+| 0 | Orientação, mapa e contrato formativo | 0.1 Da compreensão acumulada à competência incorporada; 0.2 O percurso do EIXO: mapa, espiral, pêndulo e segurança | distingue compreensão, competência e incorporação; localiza-se e escolhe como participar |
+| 1 | Traduzir a Experiência | 1.1 A experiência em sua multidimensionalidade; 1.2 Do vivido à Tradução | distingue fenômeno, manifestação, interpretação, hipótese e indeterminação |
+| 2 | Corpo, energia, presença e retorno | 2.1 Energia, vitalidade e experiência nas Tradições Orientais; 2.2 Retornar é uma capacidade: sinais, apoio, dosagem e recuperação | declara estatutos; reconhece sinais e escolhe recurso proporcional |
+| 3 | Observar e Diferenciar | 3.1 Perceber, observar e diferenciar; 3.2 Padrões, partes, relações e contexto | diferencia componentes e formula mais de uma hipótese |
+| 4 | Fortalecer o EIXO | 4.1 Coordenação interna, valores e orientação; 4.2 Espiritualidade, experiência e EIXO | formula orientação e diferencia linguagens espirituais, psicológicas, tradicionais e energéticas |
+| 5 | Integrar Progressivamente | 5.1 Integrar sem apagar diferenças; 5.2 Tradução e EIXO em espiral | relaciona dimensões sem homogeneizar e atualiza Tradução e orientação |
+| 6 | Expressar e Contribuir | 6.1 Expressar com coerência: vínculos, limites e contribuição; 6.2 Reparar, aprender e continuar | experimenta ação proporcional, reconhece consequências, reparação possível, aprendizagem e retorno |
 
 Os títulos e a distribuição das aulas 2.1 a 6.2 ainda são protótipos curriculares, não texto congelado.
 
@@ -655,160 +655,87 @@ Consultar conforme necessidade, não como leitura obrigatória integral para tod
 
 Antes de declarar ausência de conteúdo ou produzir do zero, consultar o Inventário Mestre, trabalhos autorais, ABBSP, núcleo NHI, fontes bibliográficas, mapas, versões históricas e Dívidas de Organização relacionadas.
 
-## 18. Protocolo de trabalho do novo chat
+## 18. Protocolo de trabalho dos chats curriculares
 
-Antes de produzir:
+### Antes de produzir
 
-1. acessar o repositório e ler primeiro [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]], seguida do manifesto mínimo;
-2. emitir Relatório de Retomada;
-3. distinguir aprovado, consolidado, candidato, hipótese, protótipo, pendência e arquivo histórico;
-4. confirmar o ponto operacional atual;
-5. não reabrir decisões aprovadas sem contradição documentada;
-6. não produzir material de outra aula antes de verificar o kit correspondente.
+1. acessar o repositório e ler primeiro [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]];
+2. identificar se o trabalho pertence à Orquestração Mestre ou ao chat de um módulo;
+3. no chat do módulo, ler integralmente o respectivo `00 - Estado, Índice e Continuidade do Módulo`;
+4. ler o Índice Mestre e os kits das aulas do módulo;
+5. emitir Relatório de Retomada e aguardar deliberação autoral antes de modificar documentos;
+6. distinguir aprovado, consolidado, candidato, hipótese, protótipo, pendência, patrimônio histórico, fonte e reserva;
+7. confirmar o ponto operacional exato;
+8. não reabrir decisões aprovadas sem contradição documentada.
 
-Durante a produção:
+### Durante a produção
 
-- trabalhar em uma tarefa delimitada;
-- preservar o Dossiê como orientação geral;
-- preservar o índice e o QA da aula como estado operacional;
-- registrar fontes e estatutos;
-- separar material do educador e do participante;
-- registrar conteúdos descobertos fora de foco como Dívidas de Organização;
-- não interromper o fluxo da aula para desenvolver patrimônio de fases futuras.
+- trabalhar em uma aula por vez;
+- localizar e auditar materiais anteriores antes de produzir do zero;
+- preservar o Estado e Índice do Módulo como autoridade de continuidade interna;
+- preservar o Índice e o QA da aula como memória operacional, subordinados à arquitetura vigente;
+- separar material do educador, do participante, opcional e reserva;
+- encaminhar à Orquestração Mestre qualquer mudança que afete outro módulo, três ou mais aulas ou um fundamento transversal.
 
-Ao encerrar:
+### Auditoria de encerramento de cada aula
 
-1. atualizar o Índice do Kit;
-2. atualizar o registro de QA, pilotagem ou pós-turma;
-3. atualizar o Índice Mestre se o estado mudou;
-4. registrar decisões, pendências e próxima ação;
-5. registrar novas Dívidas de Organização com os sete campos oficiais;
-6. sincronizar tudo no GitHub;
-7. informar o ponto exato de retomada.
+1. verificar função, capacidade e rastreabilidade;
+2. auditar P2, P6, sequência, prática, evidência, retorno e ponte;
+3. classificar materiais em preservar, adaptar, reposicionar, reservar, substituir ou excluir da entrega;
+4. atualizar o Índice do Kit, o Estado e Índice do Módulo e o Índice Mestre;
+5. registrar deliberação autoral, pendências, impactos e ponto seguinte.
 
-## 19. Arquitetura recomendada de chats
+### Auditoria de encerramento de cada módulo
 
-Recomendação: abrir o novo chat dentro do mesmo projeto do ChatGPT, porque isso preserva instruções e contexto geral disponíveis ao projeto. Ainda assim, o GitHub/Obsidian permanece a fonte oficial.
+1. verificar coerência entre as duas aulas;
+2. conferir progressão, não duplicação e ponte para o módulo seguinte;
+3. revisar portões e impactos transversais;
+4. reconciliar documentos mestres quando necessário;
+5. registrar o fechamento no Estado e Índice do Módulo;
+6. atualizar o LEIA PRIMEIRO e liberar o módulo seguinte.
 
-Não usar um único chat infinito para todo o curso.
+## 19. Arquitetura permanente de chats
 
-Adotar estrutura híbrida:
+### Orquestração Curricular Mestre
 
-### Chat mestre
+Nome vigente:
 
-Nome sugerido:
+> **Curso — Orquestração Curricular Mestre 03**
 
-> Curso — Orquestração Mestre 02
+O chat atual assume essa função. Não é necessário abrir outro agora. Um sucessor será criado apenas por limite operacional, usando o prompt de continuidade registrado.
 
-Função:
+Responsabilidades: decisões transversais, arquitetura global, integração entre módulos, portões, conflitos de distribuição, auditoria global das 14 aulas e atualização do Dossiê e do LEIA PRIMEIRO.
 
-- decisões transversais;
-- arquitetura global;
-- público, promessa e formato;
-- governança;
-- integração entre módulos;
-- atualização do Dossiê;
-- aprovação de mudanças que afetam mais de um módulo;
-- passagem de estado entre chats.
+### Chats ativos por módulo
 
-### Chats de produção por módulo
+Abrir somente quando o módulo entrar em produção:
 
-Abrir somente quando o módulo entrar em produção real:
-
-- Curso — Módulo 0 — Orientação;
+- Curso — Módulo 0 — Orientação, mapa e contrato formativo;
 - Curso — Módulo 1 — Traduzir a Experiência;
-- Curso — Módulo 2 — Regular e Recuperar Presença;
+- Curso — Módulo 2 — Corpo, energia, presença e retorno;
 - Curso — Módulo 3 — Observar e Diferenciar;
 - Curso — Módulo 4 — Fortalecer o EIXO;
 - Curso — Módulo 5 — Integrar Progressivamente;
 - Curso — Módulo 6 — Expressar e Contribuir.
 
-Cada chat de módulo:
+Cada módulo possui uma única nota oficial `00 - Estado, Índice e Continuidade do Módulo`. O chat não é arquivo oficial de memória. Se atingir limite, abrir uma continuação e recuperar o estado pela nota. Não abrir todos os chats de uma vez.
 
-- lê este Protocolo;
-- lê o Dossiê;
-- lê a Matriz Integrada;
-- lê o esqueleto curricular;
-- lê o índice do próprio módulo e os kits de suas aulas;
-- não altera decisões transversais sozinho;
-- registra qualquer necessidade transversal para o Chat Mestre;
-- encerra cada sessão atualizando o repositório.
+### Ordem de trabalho
 
-Não abrir todos os chats de uma vez. Criá-los conforme o módulo entra em produção reduz dispersão.
+1. Aula 0.1 e sua auditoria;
+2. Aula 0.2 e sua auditoria;
+3. auditoria do Módulo 0;
+4. Módulo 1, incluindo a auditoria normal do protótipo da Aula 1.1;
+5. módulos seguintes;
+6. auditoria curricular global.
 
-A Aula 1.1 está no Módulo 1 e possui um protótipo completo produzido em etapa anterior. P2 foi aprovado integralmente e o núcleo mínimo de P6 foi aprovado. O Chat Mestre deve agora conduzir a revisão e reorganização curricular da Aula 1.1, sem tratá-la como canônica ou protegida. A versão resultante deverá voltar à deliberação autoral antes da pilotagem.
+## 20. Prompts oficiais de abertura
 
-## 20. Texto de abertura para copiar e colar no novo chat
+Os prompts integrais estão em [[Prompts de Abertura - Orquestração Curricular Mestre e Módulo 0]].
 
-Este chat dará continuidade integral à construção do curso pertencente ao projeto Traduzindo o Ser Humano.
-
-A fonte oficial de continuidade é o repositório GitHub sincronizado com meu Obsidian:
-
-- fabianodeliberalli/base-cognitiva-vault
-- branch main
-- pasta 70 - Produções/Cursos/Curso - Nome Provisório
-
-Toda consulta às notas do Obsidian deverá ser feita por esse repositório.
-
-Antes de produzir, modificar ou deliberar:
-
-1. Leia integralmente:
-- LEIA PRIMEIRO - Estado Atual e Continuidade do Curso.md;
-- 00 - Dossiê de Contexto e Arquitetura Mestre.md;
-- Guia Mestre de Incorporação e Rastreabilidade Curricular.md;
-- Registro Mestre de Formulações Estruturantes.md;
-- Registro Consolidado da Sessão - Governança e Arquitetura Curricular - 2026-07-21.md;
-- 01 - Protocolo de Continuidade Integral e Abertura de Novos Chats.md;
-- 02 - Matriz Integrada - Quatro Movimentos, Seis Fases e Jornada Fenomenológica.md;
-- 09 - Esqueleto Estrutural da Primeira Oferta Integral para Mentoria.md;
-- 60 - Arquitetura Pedagógica/00 - Índice Mestre dos Kits de Aula.md;
-- 60 - Arquitetura Pedagógica/Aula 1.1 - A experiência em sua multidimensionalidade/00 - Índice do Kit.md;
-- na mesma pasta da Aula 1.1: 02 - Roteiro do Educador v1.md, 08 - Critérios de Pilotagem v1.md e 09 - Registro de Produção Visual e QA v1.md.
-
-2. Examine todos os arquivos vinculados no Índice da Aula 1.1, incluindo PowerPoint, ficha, storyboard, plano visual, mapas, fontes incorporadas e deliberações.
-
-3. Aplique esta regra de autoridade:
-- o Dossiê orienta a arquitetura geral;
-- o Protocolo de Continuidade resolve a passagem entre chats;
-- o Índice Mestre organiza os kits;
-- o Índice e o Registro de QA da Aula 1.1 prevalecem quanto ao estado operacional atual;
-- documentos institucionais superiores continuam prevalecendo quanto a princípios e limites.
-
-4. Diferencie obrigatoriamente:
-- aprovado;
-- consolidado;
-- candidato;
-- hipótese;
-- protótipo;
-- pendência;
-- patrimônio histórico;
-- fonte bibliográfica;
-- reserva curricular disponível.
-
-5. Não reabra decisões consolidadas sem demonstrar contradição real e solicitar minha deliberação.
-
-6. Apresente primeiro um Relatório de Retomada com:
-- identidade e estado do curso;
-- arquitetura vigente;
-- público e transformação;
-- estrutura curricular;
-- estado de cada kit existente;
-- estado exato da Aula 1.1;
-- materiais disponíveis;
-- decisões aprovadas;
-- hipóteses e questões abertas;
-- divergências documentais encontradas;
-- próxima ação recomendada.
-
-7. Não altere documentos antes de eu aprovar o Relatório de Retomada.
-
-Ponto atual confirmado em 21 de julho de 2026:
-
-A Aula 1.1 — A experiência em sua multidimensionalidade possui protótipo visual concluído, PowerPoint de 22 slides, ficha do participante de 4 páginas, mapas, roteiro, storyboard, critérios de pilotagem e Registro de QA. A aprovação de 21 de julho para pilotagem permanece como registro histórico; o estado vigente reabre a aula para revisão e reorganização curricular antes do piloto. Ela não está aprovada para gravação ou primeira oferta.
-
-P2 está aprovado integralmente e o núcleo mínimo de P6 está aprovado. A frente ativa é revisar a Aula 1.1 como aula normal da arquitetura vigente, utilizando seu acervo como matéria-prima e não como referência canônica. Depois da reorganização, apresentar a nova versão para deliberação autoral antes da pilotagem.
-
-Ao final de cada etapa, atualize no GitHub/Obsidian o estado, as decisões, as pendências, as Dívidas de Organização e o próximo ponto exato de retomada.
+- O prompt da Orquestração Mestre serve para futura continuação quando o chat vigente atingir limite.
+- O prompt do Módulo 0 deve ser usado agora para abrir o primeiro chat de produção.
+- Cada próximo módulo receberá um prompt gerado a partir do estado encerrado do módulo anterior.
 
 ## 21. Critério de continuidade plena
 
@@ -823,14 +750,18 @@ A continuidade é considerada plena quando o novo chat consegue responder, com f
 - quais conteúdos compõem a reserva curricular disponível e seus gatilhos;
 - quais arquivos já existem;
 - qual artefato governa cada decisão;
-- em que estado está a Aula 1.1;
+- qual módulo e aula estão ativos;
+- em que estado estão as duas aulas do módulo;
+- em que estado está a Aula 1.1 quando o percurso alcançar o Módulo 1;
 - qual é a próxima ação;
 - onde registrar tudo ao terminar.
 
 Se uma dessas respostas depender apenas da memória do chat, há uma deficiência de continuidade e ela deve ser registrada e corrigida no repositório.
 
 
-## 22. Controle de versão 1.4
+## 22. Controle de versão 1.5
+
+A versão 1.5 formaliza a Orquestração Curricular Mestre 03, um chat ativo por módulo, a camada Estado e Índice do Módulo, a ordem sequencial desde a Aula 0.1 e as auditorias obrigatórias de aula e módulo. Substitui o prompt centrado na Aula 1.1 por prompts específicos de Orquestração e Módulo 0.
 
 A versão 1.4 registra a aprovação integral de P2, a aprovação do núcleo mínimo de P6 e a reclassificação vigente da Aula 1.1 como protótipo revisável, reaberto para escrutínio e reorganização antes da pilotagem.
 
