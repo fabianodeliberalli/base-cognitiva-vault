@@ -3,7 +3,7 @@ tipo: porta-de-entrada-continuidadade
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "1.0"
+versao: "1.1"
 criado_em: 2026-07-21
 atualizado_em: 2026-07-21
 autor: Fabiano Deliberalli
@@ -67,9 +67,9 @@ Esta nota não substitui os documentos mestres. Ela os organiza, declara sua aut
 
 ### Frente curricular ativa
 
-> Fechar **P2 — Taxonomia dos estatutos das linguagens** e o protocolo mínimo de **P6 — Seleção de práticas**.
+> Deliberar as propostas v0.1 de **P2 — Taxonomia dos estatutos das linguagens** e **P6 — Seleção, Modulação e Encerramento de Práticas**.
 
-Esses portões precisam estar definidos antes da produção plena da Aula 1.2 e deverão governar todas as aulas posteriores.
+As propostas estão disponíveis em [[P2 - Taxonomia Transversal dos Estatutos das Linguagens - Proposta v0.1]] e [[P6 - Protocolo Mestre de Seleção, Modulação e Encerramento de Práticas - Proposta v0.1]]. Elas permanecem candidatas até deliberação expressa de Fabiano Deliberalli. Esses portões precisam estar fechados antes da produção plena da Aula 1.2 e deverão governar todas as aulas posteriores.
 
 ### Frente operacional pendente
 
@@ -151,11 +151,11 @@ Trechos históricos permanecem como memória evolutiva, mas não substituem seç
 | Portão | Estado resumido | Prazo |
 |---|---|---|
 | P1 — Modelo dos Sete Níveis | pendente; informado pelo piloto da Aula 1.1 | antes de consolidar seu uso em novas aulas |
-| P2 — Taxonomia das linguagens | **próximo trabalho curricular ativo** | antes da Aula 1.2 |
+| P2 — Taxonomia das linguagens | proposta v0.1 registrada; **aguarda deliberação autoral** | antes da Aula 1.2 |
 | P3 — Três Eus | auxiliar, removível e pendente de teste de necessidade | antes da Aula 4.1 |
 | P4 — Seis dimensões do EIXO Integrador | fundamento/reserva até demonstrar função única | antes da Aula 4.1 |
 | P5 — Léxico pedagógico reduzido | pendente | antes da Aula 4.1 |
-| P6 — Seleção de práticas | **próximo trabalho curricular ativo**; regra provisória já obrigatória | antes de qualquer nova prática e da Aula 1.2 |
+| P6 — Seleção de práticas | proposta v0.1 registrada; **aguarda deliberação autoral**; regra provisória já obrigatória | antes de qualquer nova prática e da Aula 1.2 |
 | P7 — Acompanhamento | pendente de instrumento mínimo | antes da consolidação do Módulo 0 |
 | P8 — Estatuto da dimensão energética | direção curricular incorporada; redação canônica pendente | antes da Aula 2.1 |
 
@@ -176,10 +176,12 @@ Antes de declarar uma etapa concluída:
 
 ## Ponto exato de retomada
 
-> Construir para deliberação autoral **P2 — Taxonomia final dos estatutos das linguagens** e **P6 — Protocolo mínimo de seleção de práticas**, preservando a Aula 1.1 para pilotagem controlada. Depois de P2 e P6, retornar ao portão operacional da pilotagem antes de liberar a produção plena da Aula 1.2.
+> Deliberar, item por item, as propostas v0.1 de **P2** e **P6**. Após decisão expressa, atualizar seus estatutos e documentos governantes; em seguida, retornar à preparação e execução da pilotagem controlada da Aula 1.1 antes de liberar a produção plena da Aula 1.2.
 
 ## Relações
 
+- [[P2 - Taxonomia Transversal dos Estatutos das Linguagens - Proposta v0.1]]
+- [[P6 - Protocolo Mestre de Seleção, Modulação e Encerramento de Práticas - Proposta v0.1]]
 - [[Registro Consolidado da Sessão - Governança e Arquitetura Curricular - 2026-07-21]]
 - [[00 - Dossiê de Contexto e Arquitetura Mestre]]
 - [[01 - Protocolo de Continuidade Integral e Abertura de Novos Chats]]
