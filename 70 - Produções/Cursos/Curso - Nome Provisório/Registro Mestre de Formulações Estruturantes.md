@@ -3,7 +3,7 @@ tipo: registro-mestre-formulacoes-estruturantes
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: consolidacao-documental-para-auditoria-autoral
-versao: "0.2"
+versao: "0.3"
 autor: Fabiano Deliberalli
 organizado_em: 2026-07-21
 escopo: curso-metodo-pedagogia-epistemologia-publico-governanca
@@ -915,3 +915,18 @@ Após a organização inicial deste Registro, Fabiano Deliberalli aprovou formul
 ## Estatuto do adendo
 
 Este adendo registra vigência e encaminhamento documental. Não converte automaticamente todas as formulações B ou C deste Registro em canônicas. Os oito portões e as redações ainda pendentes permanecem identificados no Guia Mestre.
+
+
+---
+
+# XVI. Atualização de continuidade e rastreabilidade — 21 de julho de 2026
+
+A [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]] passa a ser a porta única de entrada para consulta do estado vigente. O [[Registro Consolidado da Sessão - Governança e Arquitetura Curricular - 2026-07-21]] preserva as aprovações, acréscimos e alterações da fase de arquitetura v0.2.
+
+## Regra operacional atual
+
+- P2 — Taxonomia dos estatutos das linguagens — e o mínimo de P6 — Seleção de práticas — constituem a frente curricular ativa;
+- a pilotagem da Aula 1.1 constitui frente operacional pendente;
+- P2 e P6 podem ser fechados antes do piloto;
+- a produção plena da Aula 1.2 depende de P2, P6 e deliberação pós-piloto;
+- esta atualização não altera os estatutos individuais F01–F79 nem resolve automaticamente a Auditoria Autoral de Canonização.
