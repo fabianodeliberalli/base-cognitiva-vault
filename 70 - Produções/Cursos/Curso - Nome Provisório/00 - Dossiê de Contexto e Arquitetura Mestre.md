@@ -5,7 +5,7 @@ curso: nome-provisorio
 status: prototipagem-curricular-em-andamento
 estado_maturidade: arquitetura-integral-em-prototipagem
 fase_atual: "construção curricular sequencial — Módulo 0 ativo — Aula 0.1 como ponto de entrada"
-versao: "0.27"
+versao: "0.28"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-17
 atualizado_em: 2026-07-21
@@ -19,7 +19,7 @@ tags:
 
 # Dossiê de Contexto — Curso [nome provisório]
 
-**Versão:** 0.27  
+**Versão:** 0.28  
 **Estado de maturidade:** arquitetura integral em prototipagem  
 **Fases concluídas:** Fase 0 — Abertura e governança; Fase 1 — Gênese, identidade e problema humano  
 **Fase atual:** construção curricular sequencial; Módulo 0 ativo; Aula 0.1 como ponto de entrada
@@ -30,7 +30,7 @@ tags:
 
 - **Código do curso:** a definir;
 - **Nome atual:** Curso [nome provisório];
-- **Versão do Dossiê:** 0.27;
+- **Versão do Dossiê:** 0.28;
 - **Status documental:** documento evolutivo;
 - **Estado de maturidade:** arquitetura integral em prototipagem;
 - **Data de criação:** 2026-07-17;
@@ -59,18 +59,18 @@ O [[09 - Esqueleto Estrutural da Primeira Oferta Integral para Mentoria]] foi at
 
 A decisão autoral mais recente corrige esse estatuto: a Aula 1.1 é um protótipo curricular revisável. Sua criação e a aprovação histórica para pilotagem controlada não lhe conferem autoridade canônica nem impedem revisão e reorganização antes do piloto. O acervo existente permanece preservado como matéria-prima qualificada e memória de desenvolvimento.
 
-### Atualização de continuidade e retomada — 21 de julho de 2026
+### Registro histórico de continuidade — 21 de julho de 2026
 
 Foi criada a [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]] como porta única de entrada para novos chats, IAs e consultas. Ela organiza a hierarquia documental, diferencia estado vigente de histórico e aponta para o [[Registro Consolidado da Sessão - Governança e Arquitetura Curricular - 2026-07-21]].
 
-A continuidade registra agora:
+Naquele momento, a continuidade registrava:
 
 - **P2:** aprovado integralmente e fechado;
 - **P6:** núcleo mínimo obrigatório aprovado e fechado no escopo da primeira oferta;
-- **frente curricular ativa:** revisar e reorganizar a Aula 1.1 sob a arquitetura vigente, P2 e P6;
-- **frente futura:** deliberar a versão reorganizada antes de sua pilotagem.
+- **frente então ativa, posteriormente superada pela ordem sequencial:** revisar e reorganizar a Aula 1.1;
+- **frente então futura:** deliberar a versão reorganizada antes de sua pilotagem.
 
-Os documentos aprovados permanecem nos vínculos [[P2 - Taxonomia Transversal dos Estatutos das Linguagens - Proposta v0.1]] e [[P6 - Protocolo Mestre de Seleção, Modulação e Encerramento de Práticas - Proposta v0.1]] por estabilidade dos links; seus conteúdos e metadados declaram o estado aprovado. A produção plena da Aula 1.2 permanece temporariamente condicionada à reorganização da Aula 1.1 e à definição autoral da sequência de pilotagem, além dos portões específicos ainda aplicáveis.
+Este bloco preserva a evolução documental, mas não governa a retomada atual. A seção seguinte e a seção 19 estabelecem Módulo 0/Aula 0.1 como frente vigente. Os vínculos de P2 e P6 permanecem estáveis e seus conteúdos declaram o estado aprovado.
 
 ### Atualização da arquitetura operacional por módulos — 21 de julho de 2026
 
@@ -841,6 +841,8 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 
 | Versão | Data | Mudança | Motivo |
 |---|---|---|---|
+| 0.28 | 2026-07-21 | Marcação explícita da antiga frente da Aula 1.1 como registro histórico superado | Auditoria de continuidade |
+| 0.27 | 2026-07-21 | Orquestração Mestre permanente, um chat por módulo, camada de Estado e Índice do Módulo e retomada pela Aula 0.1 | Deliberação autoral |
 | 0.26 | 2026-07-21 | Aprovação de P2 e do núcleo mínimo de P6; Aula 1.1 reclassificada como protótipo revisável e reaberta para reorganização antes do piloto | Deliberação autoral |
 | 0.1 | 2026-07-17 | Abertura do Dossiê, registro da governança e do patrimônio candidato | Conclusão da Fase 0 |
 | 0.2 | 2026-07-18 | Registro do problema humano, natureza educacional, público preliminar, limites éticos e hipóteses de posicionamento | Conclusão da Fase 1 |
