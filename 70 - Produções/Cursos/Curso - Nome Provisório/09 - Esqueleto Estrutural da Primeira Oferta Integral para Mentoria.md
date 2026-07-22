@@ -1,49 +1,113 @@
 ---
 tipo: arquitetura-curricular
 projeto: Traduzindo o Ser Humano
-status: arquitetura-de-prototipagem-reconciliada
-data: 2026-07-19
+status: arquitetura-curricular-v0.2-governada-por-rastreabilidade
+versao: "0.2"
+criado_em: 2026-07-19
+atualizado_em: 2026-07-21
+autor: Fabiano Deliberalli
 ---
 
 # Esqueleto Estrutural — Primeira Oferta Integral
 
+## Estado desta versão
+
+Esta versão reconcilia o esqueleto anterior com:
+
+- a síntese executiva governante da arquitetura metodológica;
+- as formulações aprovadas sobre espiritualidade;
+- o estatuto curricular próprio da dimensão energética;
+- a distribuição longitudinal dos fundamentos;
+- os portões formalizados no [[Guia Mestre de Incorporação e Rastreabilidade Curricular]].
+
+O curso mantém **7 módulos e 14 aulas nucleares**. A dimensão energética recebe aula própria sem aumento da quantidade de aulas; a espiritualidade recebe aula nuclear distinta. Uma prepara interlocuções da outra, mas elas não são tratadas como sinônimas.
+
 ## Decisão de desenho
 
-A primeira oferta será um curso integral de prototipagem: contempla as seis fases do Método EIXO e testa a arquitetura global em profundidade fundamental. A arquitetura de 14 aulas permanece adequada e passa a ser lida pela gramática transversal reconciliada. Não pretende encerrar o método nem prometer integração espiritual. Os resultados da turma alimentarão a revisão curricular posterior e a definição de ofertas derivadas.
+A primeira oferta será um curso integral de prototipagem: contempla as seis fases do Método EIXO em profundidade fundamental e testa a arquitetura global sem pretender encerrar o Método. A arquitetura é lida pela gramática dos quatro movimentos — Presença, Legibilidade, Habitação e Orientação da resposta —, pelas seis fases recursivas e pela Jornada Fenomenológica.
 
-## Estrutura para apresentação na mentoria
+O horizonte integral é apresentado desde o início; a capacidade de explorá-lo cresce ao longo do percurso. Os resultados da turma alimentarão revisão curricular posterior e ofertas derivadas.
 
-| Módulo | Fase e função | Aulas candidatas | Prática principal | Evidência de aprendizagem |
+## Estrutura curricular v0.2
+
+| Módulo | Fase e função | Aulas nucleares | Prática ou produção principal | Evidência de aprendizagem |
 |---|---|---|---|---|
-| 0 | Orientação e contrato | 0.1 O que é Tradução da Experiência Humana; 0.2 EIXO, recursividade e segurança pedagógica | Acordo de percurso e linha de base | Reconhece limites, linguagem e forma de participação |
-| 1 | **Compreender pela Tradução** | 1.1 Multidimensionalidade e Sete Níveis; 1.2 Cinco Janelas e Tradução provisória | Cartografia Multidimensional Inicial | Distingue fenômeno, manifestação, interpretação e hipótese |
-| 2 | **Regular** | 2.1 Corpo, ritmos e afastamento; 2.2 Recursos de retorno e dosagem | Inventário pessoal de sinais e recursos | Reconhece sinais e recupera presença possível |
-| 3 | **Observar e diferenciar** | 3.1 Perceber, presença e observação; 3.2 Padrões, partes e contextos | Laboratório de diferenciação | Distingue sensação, emoção, pensamento, impulso e contexto |
-| 4 | **Orientar e escolher** | 4.1 Valores, contexto e essencial; 4.2 Espaço entre impulso e resposta | Ensaio de resposta coerente | Formula orientação e amplia liberdade de escolha |
-| 5 | **Integrar progressivamente** | 5.1 Relação circular entre Tradução e EIXO; 5.2 Conectar partes sem apagar diferenças | Mapa de integração funcional | Relaciona dimensões e sustenta tensões com menor violência contra si |
-| 6 | **Expressar e incorporar** | 6.1 Expressão, limites e contribuição; 6.2 Reparação, aprendizagem e continuidade | Plano de incorporação e gesto de reparação possível | Transfere aprendizado, repara quando necessário e retorna ao percurso |
+| **0 — Orientação, mapa e contrato formativo** | Apresentar problema, natureza, horizonte e contrato | **0.1 Da compreensão acumulada à competência incorporada**; **0.2 O percurso do EIXO: mapa, espiral, pêndulo e segurança** | Linha de base formativa e acordo de percurso | Distingue compreensão, competência e incorporação; localiza-se no percurso e escolhe como participar |
+| **1 — Traduzir a Experiência** | Produzir legibilidade inicial sem fechamento | **1.1 A experiência em sua multidimensionalidade**; **1.2 Do vivido à Tradução** | Cartografia multidimensional e tradução provisória | Distingue fenômeno, manifestação, interpretação, hipótese e indeterminação |
+| **2 — Corpo, energia, presença e retorno** | Tornar legíveis corpo, vitalidade, sinais e recursos de retorno | **2.1 Energia, vitalidade e experiência nas Tradições Orientais**; **2.2 Retornar é uma capacidade: sinais, apoio, dosagem e recuperação** | Cartografia energética provisória e inventário de recursos | Declara o estatuto da linguagem energética; reconhece sinais e escolhe recurso proporcional para recuperar presença possível |
+| **3 — Observar e Diferenciar** | Ampliar discriminação experiencial e contextual | **3.1 Perceber, observar e diferenciar**; **3.2 Padrões, partes, relações e contexto** | Laboratório de diferenciação | Distingue sensação, afeto, pensamento, imagem, impulso, significado, resposta e contexto; formula mais de uma hipótese |
+| **4 — Fortalecer o EIXO** | Coordenar informações, valores e direção; explicitar a perspectiva espiritual | **4.1 Coordenação interna, valores e orientação**; **4.2 Espiritualidade, experiência e EIXO** | Ensaio de orientação e formulação da posição espiritual atual | Formula resposta considerando estado, contexto, valores e consequências; diferencia espiritual, religioso, simbólico, psicológico e energético |
+| **5 — Integrar Progressivamente** | Articular diferenças, circularidade e revisão | **5.1 Integrar sem apagar diferenças**; **5.2 Tradução e EIXO em espiral** | Mapa de integração funcional e revisão de situação concreta | Relaciona dimensões sem homogeneizá-las e atualiza Tradução e orientação a partir de novas informações |
+| **6 — Expressar e Contribuir** | Transferir aprendizagem a vínculos, escolhas e participação | **6.1 Expressar com coerência: vínculos, limites e contribuição**; **6.2 Reparar, aprender e continuar** | Ação coerente e plano de continuidade | Experimenta ação proporcional; reconhece consequências, reparação possível, aprendizagem e retorno |
+
+## Relação entre módulos, movimentos e Jornada
+
+| Módulo | Movimentos predominantes | Jornada especialmente favorecida |
+|---|---|---|
+| 0 | Os quatro como mapa e contrato | Visão integral do percurso |
+| 1 | Legibilidade | Traduzir e Aprender a Ler |
+| 2 | Presença e Habitação | Habitar, com retorno a Traduzir |
+| 3 | Legibilidade e Habitação | Aprender a Ler e Habitar |
+| 4 | Orientação da resposta sustentada pelos demais | Habitar e Estabilizar |
+| 5 | Integração dos quatro movimentos | Estabilizar e início de Encarnar |
+| 6 | Orientação e transferência dos quatro | Encarnar |
+
+Esta correlação é didática, não equivalência rígida. Cada aula mobiliza os quatro movimentos.
 
 ## Fundamentos transversais obrigatórios
 
-- **Perceber:** condição de entrada continuamente cultivada.
-- **Presença:** condição variável que pode ser sustentada ou recuperada.
-- **Multidimensionalidade:** campo de Tradução do começo ao fim.
-- **Reparação e aprendizagem:** movimento de retorno, não fase autônoma.
-- **Recursividade:** retornar não é regredir.
-- **Abertura ontológica responsável:** acolher o vivido sem redução nem conclusão prematura.
-- **Dignidade epistêmica:** reconhecer o vivido sem exigir fechamento causal.
-- **Arquitetura plural:** construir passagens entre ciência, clínica, fenomenologia, símbolo, tradição, espiritualidade e experiência sem hierarquia totalizante.
-- **Diferenciação e integração:** distinguir sem fragmentar e integrar sem homogeneizar.
-- **Corpo e relação:** reconhecer sua participação em todas as fases.
-- **Autonomia, agência, responsabilidade e reparação:** critérios de transferência para a vida.
+- **Tradução da Experiência Humana:** ato pedagógico e processo recursivo;
+- **Perceber:** abertura inicial e recorrente;
+- **Presença:** condição variável que pode ser sustentada ou recuperada;
+- **Multidimensionalidade:** campo de Tradução do começo ao fim;
+- **Energia:** dimensão experiencial e tradicional com estatuto próprio;
+- **Espiritualidade:** dimensão legítima e perspectiva afirmativa, plural e não dogmática;
+- **Reparação e aprendizagem:** movimento de retorno, não fase autônoma;
+- **Recursividade:** retornar não é regredir;
+- **Abertura ontológica responsável:** acolher o vivido sem redução nem conclusão prematura;
+- **Dignidade epistêmica:** reconhecer o vivido sem confirmar automaticamente sua causa;
+- **Arquitetura plural:** construir passagens sem equivalências automáticas;
+- **Diferenciação e integração:** distinguir sem fragmentar e integrar sem homogeneizar;
+- **Corpo, energia, relação, história, sociedade, existência e espiritualidade:** dimensões articuláveis do vivido;
+- **Autonomia, agência, responsabilidade, vínculo, limite e contribuição:** critérios de transferência.
 
-## O que está aprovado e o que ainda será lapidado
+## Distinção curricular entre energia e espiritualidade
 
-Referências de revisão: [[02 - Inventário Mestre de Conteúdos Disponíveis]] e [[03 - Reconciliação Documental dos Fundamentos Transversais e Revisão Curricular]].
+| Aula energética — 2.1 | Aula espiritual — 4.2 |
+|---|---|
+| Vitalidade, corpo, consciência e ambiente | Sentido, transcendência, imanência, pertencimento e contribuição |
+| MTC, Qi Gong e Tradições Orientais | Grandes Tradições, Psicologia Transpessoal e espiritualidade vivida |
+| Centro, circulação, campo, limite e enraizamento | Valores, vínculos, escolhas, direção e participação na vida |
+| Predomínio de Presença e Habitação | Predomínio de Orientação e integração |
+| Estatutos tradicional, experiencial, simbólico e hipotético | Estatutos experiencial, religioso, espiritual, sociológico, psicológico e tradicional |
 
-**Aprovado como arquitetura:** seis fases recursivas; quatro movimentos funcionais; Perceber e presença transversais; reparação e aprendizagem no retorno; mapas global e inicial; multidimensionalidade e legitimidade das linguagens do vivido.
+As duas aulas dialogam longitudinalmente. Nenhuma funciona como fundamento total da outra.
 
-**Candidato para prototipagem:** títulos finais dos módulos 2 a 6; quantidade e duração das aulas; distribuição das práticas; sequência dos exemplos; instrumentos de acompanhamento.
+## Fundamentos e fontes por função curricular
+
+Cada aula distinguirá:
+
+1. conteúdo nuclear do participante;
+2. fundamento do educador;
+3. aprofundamento opcional;
+4. reserva curricular e formação profissional futura.
+
+ABBSP, trabalhos autorais, neurociência, Psicologia Transpessoal, Medicina Chinesa, Qi Gong, Jung, NHI e demais fontes entram segundo capacidade, função, estatuto e momento, não por acumulação disciplinar.
+
+## Portões que condicionam o detalhamento
+
+O mapa longitudinal está autorizado, mas os kits dependem dos portões especificados no Guia Mestre:
+
+- **P1:** Modelo dos Sete Níveis;
+- **P2:** taxonomia final dos estatutos das linguagens;
+- **P3:** necessidade curricular dos Três Eus;
+- **P4:** seis dimensões do EIXO Integrador;
+- **P5:** léxico pedagógico reduzido;
+- **P6:** protocolo de seleção de práticas;
+- **P7:** indicadores e instrumentos de acompanhamento;
+- **P8:** redação canônica do estatuto da dimensão energética.
+
+Cada portão deve ser encerrado antes do kit que dele depende. O Guia contém regras provisórias para que a arquitetura permaneça operável sem canonização silenciosa.
 
 ## Formato de trabalho candidato
 
@@ -51,14 +115,27 @@ Referências de revisão: [[02 - Inventário Mestre de Conteúdos Disponíveis]]
 - 14 aulas/encontros nucleares;
 - encontros ao vivo pelo Zoom, com gravação para hospedagem;
 - caderno de práticas e mapas visuais;
-- integração entre exposição breve, demonstração, prática dosada, reflexão e aplicação;
+- integração entre exposição breve, demonstração, prática dosada, reflexão, aplicação e retorno;
 - primeira turma como campo de validação pedagógica, ética e experiencial.
 
-## Camadas de profundidade por aula
+## Salvaguarda da Aula 1.1
 
-Cada aula distinguirá conteúdo nuclear do participante, fundamento do educador, aprofundamento opcional e formação profissional futura. ABBSP, trabalhos autorais, neurociência, Psicologia Transpessoal, MTC, Qi Gong, Jung, NHI e demais fontes entram segundo capacidade, função e momento, não por acumulação disciplinar.
+A Aula 1.1 permanece aprovada para pilotagem controlada nos termos de [[10 - Revisão Autoral e Protocolo de Pilotagem v1]]. A arquitetura v0.2 não autoriza sua reabertura indiscriminada. O Guia será aplicado como checklist de verificação, e mudanças somente ocorrerão por necessidade demonstrada de coerência, segurança ou evidência do piloto.
 
 ## Próxima produção
 
-Preservar a Aula 1.1 para preparação e pilotagem controlada. Após a deliberação pós-piloto, iniciar a Aula 1.2 — Do vivido à Tradução — aplicando a matriz transversal reconciliada.
+1. concluir P2 e o protocolo mínimo de P6;
+2. preservar e pilotar a Aula 1.1;
+3. usar o piloto para informar P1;
+4. construir a Aula 1.2 aplicando o Guia Mestre;
+5. encerrar P8 antes do kit da Aula 2.1;
+6. avançar módulo por módulo, com auditoria de rastreabilidade ao final de cada módulo.
+
+## Relações
+
+- [[Guia Mestre de Incorporação e Rastreabilidade Curricular]]
+- [[00 - Dossiê de Contexto e Arquitetura Mestre]]
+- [[Registro Mestre de Formulações Estruturantes]]
+- [[02 - Matriz Integrada - Quatro Movimentos, Seis Fases e Jornada Fenomenológica]]
+- [[10 - Revisão Autoral e Protocolo de Pilotagem v1]]
 
