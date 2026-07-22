@@ -3,7 +3,7 @@ tipo: registro-mestre-formulacoes-estruturantes
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: consolidacao-documental-para-auditoria-autoral
-versao: "0.4"
+versao: "0.5"
 autor: Fabiano Deliberalli
 organizado_em: 2026-07-21
 escopo: curso-metodo-pedagogia-epistemologia-publico-governanca
@@ -484,9 +484,9 @@ Cada aula distingue:
 
 > A prática é escolhida por função pedagógica, capacidade requerida, risco, dosagem, possibilidade de escolha e transferência para a vida — não por prestígio da tradição nem por desejo de representar todo o acervo.
 
-- **Estatuto:** C — formulação metodológica reconstruída para deliberação.
-- **Recuperação:** reconstruída.
-- **Pendência:** deliberar [[P6 - Protocolo Mestre de Seleção, Modulação e Encerramento de Práticas - Proposta v0.1]]; sua existência não altera o estatuto C de F45.
+- **Estatuto:** A — formulação metodológica aprovada no núcleo mínimo de P6.
+- **Recuperação:** reconstruída e deliberada.
+- **Vigência:** operacionalizada pelo [[P6 - Protocolo Mestre de Seleção, Modulação e Encerramento de Práticas - Proposta v0.1]].
 
 ## F46 — Contrato de escolha e segurança
 
@@ -548,7 +548,7 @@ Pergunta orientadora:
 
 - **Estatuto:** A — dispositivo pedagógico aprovado.
 - **Recuperação:** substancial; algumas versões usam seis estatutos e outras discriminam metáfora/modelo clínico.
-- **Pendência:** deliberar [[P2 - Taxonomia Transversal dos Estatutos das Linguagens - Proposta v0.1]]; sua existência não altera o estatuto A do dispositivo nem fecha a taxonomia.
+- **Vigência:** taxonomia fechada e operacionalizada pelo [[P2 - Taxonomia Transversal dos Estatutos das Linguagens - Proposta v0.1]].
 
 ## F53 — Fenômeno e causa
 
@@ -910,7 +910,7 @@ Após a organização inicial deste Registro, Fabiano Deliberalli aprovou formul
 4. **Distinção energético–espiritual:** linguagens energéticas traduzem relações entre corpo, vitalidade, consciência, ambiente e prática e podem dialogar com espiritualidade sem se confundirem com ela.
 5. **Arquitetura v0.2:** mantém 7 módulos e 14 aulas, com Aula 2.1 energética e Aula 4.2 espiritual.
 6. **Rastreabilidade:** toda aula futura deve declarar formulações governantes, estatutos de linguagem, camadas de profundidade, prática, alternativa, retorno, evidência e portões específicos.
-7. **Aula 1.1:** permanece preservada para pilotagem controlada; a nova governança não autoriza reabertura indiscriminada.
+7. **Aula 1.1:** é protótipo revisável; deverá passar por escrutínio e reorganização curricular normal antes de nova deliberação para pilotagem.
 
 ## Estatuto do adendo
 
@@ -925,9 +925,21 @@ A [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]] passa a ser a porta �
 
 ## Regra operacional atual
 
-- as propostas v0.1 de P2 — Taxonomia dos estatutos das linguagens — e P6 — Seleção, Modulação e Encerramento de Práticas — estão registradas e aguardam deliberação autoral;
-- a deliberação de P2 e P6 constitui a frente curricular ativa;
-- a pilotagem da Aula 1.1 constitui frente operacional pendente;
-- P2 e o mínimo obrigatório de P6 podem ser fechados antes do piloto;
-- a produção plena da Aula 1.2 depende de P2, P6 e deliberação pós-piloto;
+- P2 está integralmente aprovado e fechado;
+- o núcleo mínimo de P6 está aprovado e fechado no escopo da primeira oferta;
+- a Aula 1.1 não é canônica nem protegida por sua criação ou aprovação histórica para piloto;
+- a revisão e reorganização curricular da Aula 1.1 constitui a frente ativa;
+- uma nova versão deverá ser deliberada antes da pilotagem;
+- a produção plena da Aula 1.2 permanece temporariamente condicionada à reorganização da Aula 1.1 e à definição autoral da sequência de pilotagem;
 - esta atualização não altera os estatutos individuais F01–F79 nem resolve automaticamente a Auditoria Autoral de Canonização.
+
+
+---
+
+# XVII. Deliberação autoral sobre P2, P6 e o estatuto da Aula 1.1 — 21 de julho de 2026
+
+Fabiano Deliberalli aprovou integralmente P2 e o núcleo mínimo obrigatório de P6. A aprovação inclui a correção de que a Aula 1.1 não deve ser tratada como material canônico nem permanecer protegida contra revisão até a pilotagem.
+
+A aula foi criada durante uma fase anterior de consolidação e permanece valiosa como protótipo, kit de desenvolvimento e registro histórico. Entretanto, alterações posteriores na arquitetura curricular a impactam diretamente. Por isso, ela deverá ser revista e reorganizada com o mesmo escrutínio aplicado às demais aulas, antes de nova deliberação para pilotagem.
+
+Esta deliberação supera, quanto à vigência operacional, formulações anteriores de “preservação”, “não reabertura” ou exigência de evidência do piloto como única autorização para revisar a Aula 1.1. O histórico dessas decisões permanece preservado em seus documentos de origem.
