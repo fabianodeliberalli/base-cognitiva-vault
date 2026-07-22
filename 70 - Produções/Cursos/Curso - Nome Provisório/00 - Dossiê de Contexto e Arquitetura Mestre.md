@@ -4,8 +4,8 @@ projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: prototipagem-curricular-em-andamento
 estado_maturidade: arquitetura-integral-em-prototipagem
-fase_atual: "Governança de continuidade reconciliada — P2 e P6 como frente curricular ativa; pilotagem da Aula 1.1 como frente operacional pendente"
-versao: "0.24"
+fase_atual: "Propostas P2 e P6 v0.1 registradas — deliberação autoral como frente curricular ativa; pilotagem da Aula 1.1 como frente operacional pendente"
+versao: "0.25"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-17
 atualizado_em: 2026-07-21
@@ -19,10 +19,10 @@ tags:
 
 # Dossiê de Contexto — Curso [nome provisório]
 
-**Versão:** 0.24  
+**Versão:** 0.25  
 **Estado de maturidade:** arquitetura integral em prototipagem  
 **Fases concluídas:** Fase 0 — Abertura e governança; Fase 1 — Gênese, identidade e problema humano  
-**Fase atual:** governança de continuidade reconciliada; P2 e P6 são a frente curricular ativa; a pilotagem da Aula 1.1 permanece como frente operacional pendente
+**Fase atual:** propostas P2 e P6 v0.1 registradas; deliberação autoral dos dois portões é a frente curricular ativa; a pilotagem da Aula 1.1 permanece como frente operacional pendente
 
 ---
 
@@ -65,10 +65,10 @@ Foi criada a [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]] como porta
 
 A continuidade passa a distinguir duas frentes legítimas:
 
-- **frente curricular ativa:** fechar P2 — Taxonomia dos estatutos das linguagens — e o protocolo mínimo de P6 — Seleção de práticas;
+- **frente curricular ativa:** deliberar as propostas v0.1 de P2 — Taxonomia dos estatutos das linguagens — e P6 — Seleção, Modulação e Encerramento de Práticas;
 - **frente operacional pendente:** preparar, executar e registrar o piloto controlado da Aula 1.1.
 
-P2 e P6 podem ser fechados antes do piloto. A produção plena da Aula 1.2 permanece condicionada a P2, P6 e à deliberação pós-piloto da Aula 1.1.
+As propostas estão registradas em [[P2 - Taxonomia Transversal dos Estatutos das Linguagens - Proposta v0.1]] e [[P6 - Protocolo Mestre de Seleção, Modulação e Encerramento de Práticas - Proposta v0.1]]. P2 e o mínimo obrigatório de P6 podem ser fechados antes do piloto. A produção plena da Aula 1.2 permanece condicionada à deliberação e ao fechamento desses portões, além da deliberação pós-piloto da Aula 1.1.
 
 ---
 
@@ -851,6 +851,7 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 | 0.22 | 2026-07-21 | Criação do Registro Mestre de Formulações Estruturantes e vinculação ao sistema de continuidade | Auditoria de preservação |
 | 0.23 | 2026-07-21 | Criação do Guia Mestre, arquitetura v0.2, aula energética e aula espiritual | Consolidação da governança curricular |
 | 0.24 | 2026-07-21 | Porta única de entrada, registro consolidado da sessão e reconciliação das frentes P2/P6 e piloto da Aula 1.1 | Auditoria de continuidade plena |
+| 0.25 | 2026-07-21 | Registro das propostas v0.1 de P2 e P6 e deslocamento da frente ativa de formulação para deliberação autoral | Governança dos portões curriculares |
 
 ---
 
@@ -908,7 +909,7 @@ O [[00 - Índice do Kit]] e o [[09 - Registro de Produção Visual e QA v1]] da 
 
 **Frente curricular ativa:**
 
-> Fechar P2 — Taxonomia final dos estatutos das linguagens — e o protocolo mínimo de P6 — Seleção de práticas.
+> Deliberar [[P2 - Taxonomia Transversal dos Estatutos das Linguagens - Proposta v0.1]] e [[P6 - Protocolo Mestre de Seleção, Modulação e Encerramento de Práticas - Proposta v0.1]]; somente depois da aprovação registrar o fechamento dos portões.
 
 **Frente operacional pendente:**
 
