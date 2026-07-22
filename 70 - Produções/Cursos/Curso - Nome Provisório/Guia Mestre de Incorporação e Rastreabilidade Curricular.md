@@ -3,7 +3,7 @@ tipo: guia-governanca-curricular
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: base-vinculante-para-prototipagem-curricular-controlada
-versao: "0.1"
+versao: "0.2"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-21
 atualizado_em: 2026-07-21
@@ -19,6 +19,8 @@ tags:
 ---
 
 # Guia Mestre de Incorporação e Rastreabilidade Curricular
+
+> **Entrada de continuidade:** consultar primeiro [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]] e o [[Registro Consolidado da Sessão - Governança e Arquitetura Curricular - 2026-07-21]].
 
 ## 1. Finalidade
 
@@ -579,11 +581,12 @@ Esses conteúdos constituem reserva curricular e patrimônio considerado. Não p
 
 1. reconciliar o Esqueleto Estrutural com a arquitetura v0.2;
 2. registrar no Dossiê a criação deste Guia e as decisões recentes;
-3. concluir P2 e o protocolo mínimo de P6 antes do kit da Aula 1.2;
-4. pilotar a Aula 1.1 sem reabertura indiscriminada;
-5. usar dados do piloto na decisão P1;
-6. detalhar módulos e aulas progressivamente, encerrando os portões específicos antes de cada kit;
-7. auditar rastreabilidade ao final de cada módulo.
+3. concluir P2 e o protocolo mínimo de P6 como frente curricular ativa;
+4. preparar, executar e registrar a pilotagem controlada da Aula 1.1 como frente operacional pendente;
+5. usar dados do piloto na decisão P1 e na revisão da Aula 1.1;
+6. liberar a produção plena da Aula 1.2 somente após P2, P6 e deliberação pós-piloto;
+7. detalhar módulos e aulas progressivamente, encerrando os portões específicos antes de cada kit;
+8. auditar rastreabilidade ao final de cada módulo.
 
 ---
 
@@ -612,6 +615,8 @@ Para cada revisão da arquitetura, verificar:
 
 ## Relações
 
+- [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]]
+- [[Registro Consolidado da Sessão - Governança e Arquitetura Curricular - 2026-07-21]]
 - [[00 - Dossiê de Contexto e Arquitetura Mestre]]
 - [[Registro Mestre de Formulações Estruturantes]]
 - [[02 - Matriz Integrada - Quatro Movimentos, Seis Fases e Jornada Fenomenológica]]
