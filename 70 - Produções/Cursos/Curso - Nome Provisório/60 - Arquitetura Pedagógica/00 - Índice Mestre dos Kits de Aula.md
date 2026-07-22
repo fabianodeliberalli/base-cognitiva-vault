@@ -7,6 +7,8 @@ data: 2026-07-21
 
 # Índice Mestre dos Kits de Aula
 
+> **Antes de usar este índice:** consultar [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]].
+
 ## Convenção obrigatória de cada kit
 
 1. Ficha pedagógica
@@ -26,7 +28,8 @@ data: 2026-07-21
 | Aula 0.1 | conteúdo anterior a organizar no padrão | [[Aula 0.1 - Índice do Kit]] |
 | Aula 0.2 — Percurso do EIXO | kit documental organizado; apresentação visual produzida | [[Aula 0.2 - Índice do Kit]] |
 | Aula 1.1 — A experiência em sua multidimensionalidade | aprovada para pilotagem controlada; inspeção visual direta do PowerPoint e checklist pré-piloto pendentes | [[Aula 1.1 - Índice do Kit]] |
-| Aulas 1.2–6.2 | arquitetura de 14 aulas reconciliada; produção ainda não iniciada | [[03 - Reconciliação Documental dos Fundamentos Transversais e Revisão Curricular]] |
+| Aula 1.2 — Do vivido à Tradução | produção plena bloqueada; P2 e P6 são a frente curricular ativa; deliberação pós-piloto da Aula 1.1 também necessária | [[Guia Mestre de Incorporação e Rastreabilidade Curricular]] |
+| Aulas 2.1–6.2 | arquitetura de 14 aulas reconciliada; produção ainda não iniciada; dependem dos portões específicos | [[09 - Esqueleto Estrutural da Primeira Oferta Integral para Mentoria]] |
 
 ## Regras de versionamento
 
@@ -48,9 +51,17 @@ O Inventário deve ser consultado antes da roteirização de cada nova aula. Res
 
 ## Regra de continuidade entre chats
 
-Ver [[01 - Protocolo de Continuidade Integral e Abertura de Novos Chats]].
+Ver [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]] e [[01 - Protocolo de Continuidade Integral e Abertura de Novos Chats]].
 
 - O Dossiê governa a arquitetura geral.
 - Este Índice governa a organização e o estado comparativo dos kits.
 - O Índice e o registro de QA de cada aula governam o ponto operacional mais recente daquela aula.
 - Mudanças transversais retornam à Orquestração Mestre antes de alterar múltiplos módulos.
+
+
+## Ponto curricular atual
+
+- **P2:** Taxonomia final dos estatutos das linguagens;
+- **P6:** Protocolo mínimo de seleção de práticas;
+- **Aula 1.1:** piloto controlado pendente;
+- **Aula 1.2:** não iniciar produção plena antes de P2, P6 e deliberação pós-piloto.
