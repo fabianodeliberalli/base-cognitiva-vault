@@ -4,7 +4,7 @@ projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente-como-registro-de-decisoes
 data_da_sessao: 2026-07-21
-versao: "1.0"
+versao: "1.1"
 criado_em: 2026-07-21
 atualizado_em: 2026-07-21
 autor: Fabiano Deliberalli
@@ -228,3 +228,25 @@ Nenhuma dívida nova externa ao escopo foi criada. As pendências encontradas j�
 - [[Registro Mestre de Formulações Estruturantes]]
 - [[00 - Índice Mestre dos Kits de Aula]]
 - [[10 - Revisão Autoral e Protocolo de Pilotagem v1]]
+
+
+---
+
+# Adendo decisório — aprovação de P2, núcleo mínimo de P6 e revisão da Aula 1.1
+
+**Data:** 21 de julho de 2026  
+**Autoridade:** Fabiano Deliberalli
+
+## Decisões
+
+1. P2 — Taxonomia Transversal dos Estatutos das Linguagens — aprovado integralmente.
+2. P6 — Protocolo Mestre de Seleção, Modulação e Encerramento de Práticas — núcleo mínimo obrigatório aprovado.
+3. A Aula 1.1 não possui estatuto canônico e não deve permanecer protegida contra revisão até a pilotagem.
+4. O kit já produzido é protótipo e patrimônio histórico de desenvolvimento, não modelo obrigatório.
+5. Alterações posteriores na arquitetura impactam a Aula 1.1; por isso ela será submetida a escrutínio e reorganização curricular normal, tanto quanto as demais aulas.
+6. A aprovação histórica para piloto permanece registrada, mas não funciona como autorização operacional da versão atual após esta reabertura.
+7. Uma versão reorganizada deverá ser novamente deliberada antes da pilotagem.
+
+## Ponto de retomada
+
+> Revisar e reorganizar a Aula 1.1 aplicando o Guia Mestre, P2 e o núcleo mínimo de P6.
