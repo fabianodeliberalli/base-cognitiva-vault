@@ -3,8 +3,8 @@ tipo: portao-curricular
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 portao: P6
-status: proposta-candidata-para-deliberacao-autoral
-versao: "0.1"
+status: nucleo-minimo-aprovado-portao-fechado-no-escopo
+versao: "1.0"
 criado_em: 2026-07-21
 atualizado_em: 2026-07-21
 autor: Fabiano Deliberalli
@@ -41,7 +41,7 @@ tags:
 
 ## Estado deste documento
 
-Esta é uma **proposta candidata para deliberação autoral**. Sua criação não fecha P6.
+O **núcleo mínimo obrigatório de P6 foi aprovado por Fabiano Deliberalli em 21 de julho de 2026**. O portão está fechado para a primeira oferta no escopo definido neste documento; aspectos avançados permanecem como desenvolvimento futuro.
 
 Ela sistematiza regras já consolidadas nos kits, no Registro Mestre e no Guia:
 
@@ -61,12 +61,12 @@ Ela sistematiza regras já consolidadas nos kits, no Registro Mestre e no Guia:
 
 ---
 
-# 1. Princípio nuclear candidato
+# 1. Princípio nuclear aprovado
 
 > **Uma prática pertence ao curso quando treina uma capacidade curricular necessária, de modo proporcional ao contexto, com participação facultativa, intensidade graduável, alternativa funcional, possibilidade real de interrupção, retorno protegido ao presente, evidência de aprendizagem e transferência para a vida.**
 
-**Estatuto:** C — redação candidata.  
-**Núcleo já consolidado:** F43, F45, F46, F74 e F75.
+**Estatuto:** A — formulação aprovada no núcleo mínimo de P6.  
+**Base relacionada:** F43, F45, F46, F74 e F75.
 
 ---
 
@@ -513,28 +513,22 @@ Uma prática somente entra no kit quando atravessa as cinco etapas.
 
 # 18. Aplicação inicial à Aula 1.1
 
-A prática de cartografia multidimensional já contém:
+A prática de cartografia multidimensional existente oferece matéria-prima relevante, incluindo campos facultativos, possibilidade de permanecer no presente, porta simbólica opcional, partilha opt-in, interrupção, retorno e evidências candidatas de aprendizagem.
 
-- experiência leve ou moderada;
-- campos facultativos;
-- possibilidade de permanecer no presente;
-- porta simbólica opcional;
-- partilha opt-in;
-- alternativa de registro individual;
-- interrupção;
-- retorno protegido;
-- evidências de aprendizagem;
-- critérios de pilotagem.
+Esses elementos não formam um núcleo protegido. Durante a revisão e a reorganização normal da Aula 1.1, a ficha P6 deverá verificar e, quando necessário, alterar:
 
-Pontos a registrar na ficha P6 sem alterar o piloto:
+- função e necessidade curricular de cada prática;
+- capacidade efetivamente treinada;
+- potencial de mobilização;
+- escolhas, privacidade e condições de participação;
+- alternativa funcional para cada bloco;
+- sinais de interrupção e resposta do educador;
+- sequência e duração protegida do retorno;
+- evidência e transferência;
+- compatibilidade entre versão ao vivo, gravada e eventual formato presencial;
+- critérios de futura pilotagem.
 
-- classificação formal do potencial de mobilização;
-- alternativa funcional consolidada para cada bloco;
-- duração protegida do retorno;
-- compatibilidade entre versão ao vivo e futura versão gravada;
-- critérios pós-piloto para modulação.
-
-A ficha deve ser aplicada como auditoria e registro. Não autoriza reabrir o núcleo aprovado da aula antes do piloto.
+A versão já produzida permanece como protótipo e registro histórico. A aprovação anterior para pilotagem não impede revisão, reorganização, substituição ou retirada de componentes antes de uma nova deliberação de piloto.
 
 ---
 
@@ -552,41 +546,43 @@ Antes de produzir integralmente a Aula 1.2:
 
 ---
 
-# 20. Decisões propostas para Fabiano Deliberalli
+# 20. Deliberações autorais aprovadas no núcleo mínimo
 
 ## Decisão P6.1 — nome e escopo
 
-**Recomendação:** adotar “Protocolo Mestre de Seleção, Modulação e Encerramento de Práticas”, reconhecendo que seleção sem modulação e retorno é insuficiente.
+**Aprovado:** “Protocolo Mestre de Seleção, Modulação e Encerramento de Práticas”.
 
 ## Decisão P6.2 — quatro blocos
 
-**Recomendação:** aprovar Finalidade, Participação, Modulação/Retorno e Aprendizagem/Transferência como blocos obrigatórios.
+**Aprovados:** Finalidade, Participação, Modulação/Retorno e Aprendizagem/Transferência como blocos obrigatórios.
 
 ## Decisão P6.3 — potencial de mobilização
 
-**Recomendação:** aprovar B, M e A; priorizar B, admitir M sob condições e excluir A da primeira oferta geral.
+**Aprovado:** B, M e A; priorizar B, admitir M sob condições e excluir A da primeira oferta geral.
 
 ## Decisão P6.4 — alternativa funcional
 
-**Recomendação:** exigir alternativa que preserve a capacidade, e não simples substituição improvisada da técnica.
+**Aprovado:** toda alternativa deve preservar a capacidade por outra via, e não constituir substituição improvisada da técnica.
 
 ## Decisão P6.5 — retorno
 
-**Recomendação:** confirmar o retorno como componente obrigatório, com prioridade temporal sobre partilha, síntese e ponte curricular.
+**Aprovado:** retorno como componente obrigatório, com prioridade temporal sobre partilha, síntese e ponte curricular.
 
-## Decisão P6.6 — aplicação retroativa controlada
+## Decisão P6.6 — aplicação à Aula 1.1
 
-**Recomendação:** aplicar a ficha à Aula 1.1 para auditoria e registro, sem reabrir o piloto; utilizar seus dados para revisão posterior.
+**Aprovado com adequação de vigência:** aplicar a ficha P6 durante o escrutínio e a reorganização normal da Aula 1.1. A ficha pode justificar mudanças antes da pilotagem; o protótipo anterior não está protegido contra revisão.
 
 ## Decisão P6.7 — condição de liberação
 
-**Recomendação:** nenhuma prática da Aula 1.2 ou posterior entra em produção plena sem ficha P6 aprovada.
+**Aprovado:** nenhuma prática nova da Aula 1.1 revisada, da Aula 1.2 ou das aulas posteriores entra em produção plena sem ficha P6 compatível com este núcleo mínimo.
 
 ---
 
-# 21. Critério de fechamento do mínimo obrigatório
+# 21. Fechamento do núcleo mínimo obrigatório
 
-O núcleo mínimo de P6 será considerado fechado quando o autor deliberar:
+**Núcleo mínimo de P6 fechado em 21 de julho de 2026 por deliberação de Fabiano Deliberalli.**
+
+Estão aprovados:
 
 - princípio nuclear;
 - quatro blocos;
@@ -597,10 +593,10 @@ O núcleo mínimo de P6 será considerado fechado quando o autor deliberar:
 - retorno protegido;
 - evidência e transferência;
 - ficha mínima;
-- aplicação controlada à Aula 1.1;
-- condição de uso na Aula 1.2.
+- aplicação revisional à Aula 1.1;
+- condição de uso na Aula 1.2 e nas aulas posteriores.
 
-Aspectos avançados poderão continuar abertos:
+Aspectos avançados permanecem abertos sem impedir a arquitetura e a produção da primeira oferta:
 
 - protocolos específicos por tradição;
 - práticas especializadas de Laboratório e Imersão;
@@ -608,12 +604,12 @@ Aspectos avançados poderão continuar abertos:
 - instrumentos longitudinais de acompanhamento;
 - adaptações para populações específicas.
 
-Até a deliberação:
+Consequências:
 
-- este documento permanece candidato;
-- a regra provisória do Guia continua obrigatória;
-- nenhuma nova prática deverá avançar sem os campos mínimos já exigidos;
-- a produção plena da Aula 1.2 continua bloqueada.
+- a ficha mínima P6 é obrigatória para toda prática nova ou revisada;
+- P6 deixa de bloquear a produção por ausência de protocolo mínimo;
+- a Aula 1.1 deverá ser revista e reorganizada sob P6 antes de nova deliberação para piloto;
+- a Aula 1.2 permanece condicionada aos demais portões e decisões curriculares aplicáveis.
 
 ## Relações
 
