@@ -3,8 +3,8 @@ tipo: portao-curricular
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 portao: P2
-status: proposta-candidata-para-deliberacao-autoral
-versao: "0.1"
+status: aprovado-portao-fechado
+versao: "1.0"
 criado_em: 2026-07-21
 atualizado_em: 2026-07-21
 autor: Fabiano Deliberalli
@@ -38,7 +38,7 @@ tags:
 
 ## Estado deste documento
 
-Esta é uma **proposta candidata para deliberação autoral**. Sua criação não fecha P2 nem altera automaticamente os estatutos F51 e F52.
+Esta taxonomia foi **aprovada integralmente por Fabiano Deliberalli em 21 de julho de 2026**, com uma correção vinculante sobre a Aula 1.1. O portão P2 está fechado e passa a governar transversalmente a revisão e a produção curricular.
 
 O documento transforma em sistema operacional a decisão já aprovada de que experiência, símbolo, tradição, hipótese, metáfora, modelo psicológico/clínico e afirmação científica não são intercambiáveis.
 
@@ -68,12 +68,12 @@ A proposta abaixo separa esses planos.
 
 ---
 
-# 1. Princípio nuclear candidato
+# 1. Princípio nuclear aprovado
 
 > **Toda afirmação relevante deverá declarar seu estatuto principal, admitir marcadores complementares quando necessários e respeitar os limites do tipo de validade que reivindica. Traduzir aproxima mapas sem apagar diferenças entre vivido, observação, interpretação, tradição, modelo, ciência, filosofia e espiritualidade.**
 
-**Estatuto:** C — redação candidata.  
-**Núcleo já aprovado:** F48–F55, F57–F58 e F69.
+**Estatuto:** A — formulação aprovada.  
+**Base relacionada:** F48–F55, F57–F58 e F69.
 
 ---
 
@@ -330,7 +330,7 @@ A linguagem poderá ser apresentada progressivamente. O participante não precis
 
 | Aula ou módulo | Aplicação de P2 |
 |---|---|
-| Aula 1.1 | reconhecer portas de linguagem; preservar folha atual para piloto |
+| Aula 1.1 | auditar, revisar e reorganizar as portas de linguagem e a folha atual conforme a taxonomia aprovada; o material existente é protótipo, não referência canônica |
 | Aula 1.2 | ensinar a construir Traduções provisórias e declarar estatutos |
 | Aula 2.1 | diferenciar experiência energética, tradição, hipótese e ciência |
 | Aula 3.1 | separar observação, narrativa e hipótese |
@@ -363,27 +363,27 @@ Antes de aprovar qualquer frase para aula, verificar:
 
 # 12. Relação com a Aula 1.1
 
-A Folha Estatutos das Linguagens v1 permanece válida para pilotagem controlada.
+A Folha Estatutos das Linguagens v1 e os demais materiais do kit permanecem como **protótipos e registros do percurso de construção**. Não possuem estatuto canônico e não ficam protegidos contra revisão até a pilotagem.
 
-P2 não autoriza reabrir o protótipo antes do piloto. Depois da pilotagem, deverão ser observados:
+A Aula 1.1 deverá passar por escrutínio curricular normal e poderá ser reorganizada, simplificada, ampliada, deslocada ou parcialmente substituída em função:
 
-- compreensão espontânea das categorias;
-- carga cognitiva;
-- confusão entre observação e experiência;
-- confusão entre símbolo e explicação;
-- capacidade de reconhecer hipótese;
-- uso não decorativo da ciência;
-- necessidade de incluir explicitamente “modelo psicológico”.
+- das alterações estruturais aprovadas depois de sua criação;
+- da taxonomia P2 agora aprovada;
+- do núcleo mínimo de P6;
+- da coerência com a arquitetura vigente dos 7 módulos e 14 aulas;
+- da carga cognitiva e experiencial;
+- da função real de cada mapa, exemplo, prática e material;
+- de futuras evidências de pilotagem, quando uma nova versão estiver aprovada para piloto.
 
-A versão final da folha será revista somente com base na deliberação de P2 e em evidências do piloto.
+A pilotagem continua sendo fonte relevante de evidência, mas **não é condição para autorizar a revisão já necessária**. O kit atual deve ser tratado como matéria-prima qualificada e patrimônio histórico de produção, não como modelo obrigatório para as demais aulas nem como versão definitiva da Aula 1.1.
 
 ---
 
-# 13. Decisões propostas para Fabiano Deliberalli
+# 13. Deliberações autorais aprovadas
 
 ## Decisão P2.1 — arquitetura
 
-**Recomendação:** aprovar a taxonomia em três camadas:
+**Aprovado:** taxonomia em três camadas:
 
 1. estatuto principal;
 2. marcador de forma;
@@ -391,7 +391,7 @@ A versão final da folha será revista somente com base na deliberação de P2 e
 
 ## Decisão P2.2 — estatutos principais
 
-**Recomendação:** aprovar oito estatutos:
+**Aprovados:**
 
 - EV — experiência vivida;
 - OD — observação descritiva;
@@ -404,35 +404,38 @@ A versão final da folha será revista somente com base na deliberação de P2 e
 
 ## Decisão P2.3 — marcadores
 
-**Recomendação:** aprovar ME, SI, AN e MC como marcadores, não como provas nem estatutos autossuficientes.
+**Aprovados:** ME, SI, AN e MC como marcadores, não como provas nem estatutos autossuficientes.
 
 ## Decisão P2.4 — dupla camada pedagógica
 
-**Recomendação:** utilizar códigos e ficha completa no material do educador e uma folha de perguntas simples para o participante.
+**Aprovado:** códigos e ficha completa no material do educador e perguntas simples, progressivas e acessíveis para o participante.
 
 ## Decisão P2.5 — efeito sobre a Aula 1.1
 
-**Recomendação:** preservar o material aprovado para pilotagem e revisar a folha somente depois dos dados do piloto.
+**Aprovado com correção autoral:** aplicar P2 à revisão normal da Aula 1.1. O kit existente é protótipo revisável; sua criação e sua aprovação histórica para pilotagem não lhe conferem estatuto canônico nem impedem reorganização antes do piloto.
 
 ---
 
-# 14. Critério de fechamento do portão
+# 14. Fechamento do portão
 
-P2 será considerado fechado somente quando o autor deliberar:
+**P2 fechado em 21 de julho de 2026 por deliberação de Fabiano Deliberalli.**
 
-- arquitetura em camadas;
-- número e nomes dos estatutos;
-- códigos;
+Estão aprovados:
+
+- arquitetura em três camadas;
+- oito estatutos e seus códigos;
 - marcadores;
-- regras de passagens entre mapas;
-- versão reduzida do participante;
-- efeito sobre a Aula 1.1.
+- regras de passagem entre mapas;
+- dupla camada pedagógica;
+- versão reduzida para o participante;
+- aplicação transversal;
+- efeito revisional sobre a Aula 1.1.
 
-Até essa deliberação:
+Consequências:
 
-- este documento permanece candidato;
-- a regra provisória do Guia continua obrigatória;
-- a produção plena da Aula 1.2 continua bloqueada.
+- P2 governa a revisão da Aula 1.1 e as aulas posteriores;
+- explicações e materiais devem declarar estatuto com proporcionalidade pedagógica;
+- a produção da Aula 1.2 não está mais bloqueada por P2, permanecendo condicionada aos demais portões aplicáveis e à reorganização curricular necessária.
 
 ## Relações
 
