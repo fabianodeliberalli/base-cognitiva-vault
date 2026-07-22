@@ -2,7 +2,7 @@
 tipo: arquitetura-curricular
 projeto: Traduzindo o Ser Humano
 status: arquitetura-curricular-v0.2-governada-por-rastreabilidade-e-continuidade
-versao: "0.4"
+versao: "0.5"
 criado_em: 2026-07-19
 atualizado_em: 2026-07-21
 autor: Fabiano Deliberalli
@@ -124,20 +124,19 @@ A Aula 1.1 possui protótipo e aprovação histórica para pilotagem controlada,
 
 ## Próxima produção
 
-Duas frentes permanecem abertas:
+A construção curricular segue a ordem integral das 14 aulas, com um chat ativo por módulo e memória oficial no Obsidian/GitHub.
 
-- **portões encerrados:** P2 integral e núcleo mínimo de P6;
-- **curricular ativa:** revisar e reorganizar a Aula 1.1;
-- **operacional futura:** deliberar e pilotar a versão revisada.
+1. abrir o Módulo 0;
+2. auditar e construir a Aula 0.1;
+3. realizar a auditoria de encerramento da Aula 0.1;
+4. auditar e construir a Aula 0.2;
+5. realizar a auditoria da Aula 0.2 e do Módulo 0;
+6. abrir o Módulo 1;
+7. auditar a Aula 1.1 como protótipo revisável, sem precedência canônica;
+8. prosseguir até o Módulo 6;
+9. realizar auditoria global das 14 aulas.
 
-Sequência de liberação:
-
-1. aplicar P2 e P6 à revisão integral da Aula 1.1;
-2. reorganizar a aula sem obrigação de preservar o protótipo;
-3. submeter a versão revisada à deliberação autoral para piloto;
-4. usar o futuro piloto para informar P1, nova revisão e a passagem à Aula 1.2;
-5. encerrar P8 antes do kit da Aula 2.1;
-6. avançar módulo por módulo, com auditoria de rastreabilidade ao final de cada módulo.
+P2 e o núcleo mínimo de P6 governam todas as aulas. Cada portão específico deverá ser encerrado antes do kit que dele depende.
 
 ## Relações
 
