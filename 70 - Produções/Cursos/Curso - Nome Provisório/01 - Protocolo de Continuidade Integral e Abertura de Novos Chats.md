@@ -3,7 +3,7 @@ tipo: protocolo-de-continuidade-integral
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "1.1"
+versao: "1.2"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-21
 atualizado_em: 2026-07-21
@@ -18,6 +18,8 @@ tags:
 ---
 
 # Protocolo de Continuidade Integral e Abertura de Novos Chats
+
+> **Entrada obrigatória:** iniciar por [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]]. Esta nota declara o estado vigente, a hierarquia documental e o ponto exato de retomada.
 
 ## 1. Finalidade e garantia operacional
 
@@ -59,8 +61,10 @@ A continuidade deve obedecer a duas hierarquias simultâneas.
 2. Manual Institucional do Sistema Operacional;
 3. Protocolo Operacional para Construção da Arquitetura de Cursos v1.0;
 4. Dossiê de Contexto e Arquitetura Mestre do curso;
-5. documentos metodológicos consolidados do Método EIXO;
-6. arquitetura curricular e índices-mestres;
+5. Guia Mestre de Incorporação e Rastreabilidade Curricular;
+6. Registro Mestre de Formulações Estruturantes;
+7. documentos metodológicos consolidados do Método EIXO;
+8. arquitetura curricular e índices-mestres;
 7. kits das aulas;
 8. fontes, auditorias e patrimônio;
 9. propostas, hipóteses e protótipos.
@@ -69,6 +73,7 @@ A continuidade deve obedecer a duas hierarquias simultâneas.
 
 Para saber em que ponto o trabalho realmente está, prevalece o documento mais específico e mais recente dentro de seu escopo:
 
+0. [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]], para o estado transversal mais recente;
 1. Registro de Produção Visual e QA ou registro pós-turma da aula;
 2. Índice do Kit da aula;
 3. Índice Mestre dos Kits;
@@ -654,7 +659,7 @@ Antes de declarar ausência de conteúdo ou produzir do zero, consultar o Invent
 
 Antes de produzir:
 
-1. acessar o repositório e ler o manifesto mínimo;
+1. acessar o repositório e ler primeiro [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]], seguida do manifesto mínimo;
 2. emitir Relatório de Retomada;
 3. distinguir aprovado, consolidado, candidato, hipótese, protótipo, pendência e arquivo histórico;
 4. confirmar o ponto operacional atual;
@@ -731,7 +736,7 @@ Cada chat de módulo:
 
 Não abrir todos os chats de uma vez. Criá-los conforme o módulo entra em produção reduz dispersão.
 
-A Aula 1.1 está no Módulo 1, mas o próximo chat recomendado é primeiro o Chat Mestre 02 para validar a retomada e realizar a Revisão Autoral da Aula 1.1. Depois, o Chat do Módulo 1 pode assumir a produção continuada das Aulas 1.1 e 1.2.
+A Aula 1.1 está no Módulo 1 e já concluiu a revisão autoral pré-piloto. O Chat Mestre deve agora fechar P2 e o mínimo de P6. O trabalho operacional da Aula 1.1 permanece no chat de módulo ou sessão de pilotagem. A produção plena da Aula 1.2 somente será liberada após P2, P6 e deliberação pós-piloto.
 
 ## 20. Texto de abertura para copiar e colar no novo chat
 
@@ -748,7 +753,11 @@ Toda consulta às notas do Obsidian deverá ser feita por esse repositório.
 Antes de produzir, modificar ou deliberar:
 
 1. Leia integralmente:
+- LEIA PRIMEIRO - Estado Atual e Continuidade do Curso.md;
 - 00 - Dossiê de Contexto e Arquitetura Mestre.md;
+- Guia Mestre de Incorporação e Rastreabilidade Curricular.md;
+- Registro Mestre de Formulações Estruturantes.md;
+- Registro Consolidado da Sessão - Governança e Arquitetura Curricular - 2026-07-21.md;
 - 01 - Protocolo de Continuidade Integral e Abertura de Novos Chats.md;
 - 02 - Matriz Integrada - Quatro Movimentos, Seis Fases e Jornada Fenomenológica.md;
 - 09 - Esqueleto Estrutural da Primeira Oferta Integral para Mentoria.md;
@@ -797,7 +806,7 @@ Ponto atual confirmado em 21 de julho de 2026:
 
 A Aula 1.1 — A experiência em sua multidimensionalidade possui protótipo visual concluído, PowerPoint de 22 slides, ficha do participante de 4 páginas, mapas, roteiro, storyboard, critérios de pilotagem e Registro de QA. Está aprovada para pilotagem controlada, com inspeção visual direta e checklist pré-piloto pendentes, e ainda não está aprovada para gravação ou primeira oferta.
 
-A próxima tarefa é preparar e executar a pilotagem controlada da Aula 1.1: inspecionar o PowerPoint em modo apresentação, concluir o checklist, definir a logística, pilotar e registrar. A decisão sobre gravação e início da Aula 1.2 — Do vivido à Tradução ocorrerá depois da deliberação pós-piloto.
+A frente curricular ativa é fechar P2 — Taxonomia dos estatutos das linguagens — e o protocolo mínimo de P6 — Seleção de práticas. Em paralelo, permanece a frente operacional de preparar e executar o piloto controlado da Aula 1.1. A produção plena da Aula 1.2 — Do vivido à Tradução — somente será liberada após P2, P6 e deliberação pós-piloto.
 
 Ao final de cada etapa, atualize no GitHub/Obsidian o estado, as decisões, as pendências, as Dívidas de Organização e o próximo ponto exato de retomada.
 
@@ -821,6 +830,8 @@ A continuidade é considerada plena quando o novo chat consegue responder, com f
 Se uma dessas respostas depender apenas da memória do chat, há uma deficiência de continuidade e ela deve ser registrada e corrigida no repositório.
 
 
-## 22. Controle de versão 1.1
+## 22. Controle de versão 1.2
 
-A versão 1.1 incorpora a Reconciliação da Governança do Conhecimento e Disponibilidade do Acervo, substitui o uso geral de canônico/não canônico, transforma o conteúdo futuro em reserva curricular disponível, torna obrigatória a busca temática ampliada, integra o Inventário Mestre e atualiza a Aula 1.1 para seu estado vigente de aprovação para pilotagem controlada.
+A versão 1.2 cria vínculo obrigatório com [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]], integra o [[Registro Consolidado da Sessão - Governança e Arquitetura Curricular - 2026-07-21]] e reconcilia as duas frentes atuais: P2/P6 como trabalho curricular ativo e pilotagem da Aula 1.1 como trabalho operacional pendente. A Aula 1.2 permanece condicionada aos dois portões e à deliberação pós-piloto.
+
+A versão 1.1 incorporou a Reconciliação da Governança do Conhecimento e Disponibilidade do Acervo, substitui o uso geral de canônico/não canônico, transforma o conteúdo futuro em reserva curricular disponível, torna obrigatória a busca temática ampliada, integra o Inventário Mestre e atualiza a Aula 1.1 para seu estado vigente de aprovação para pilotagem controlada.
