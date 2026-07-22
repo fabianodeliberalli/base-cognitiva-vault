@@ -3,7 +3,7 @@ tipo: porta-de-entrada-continuidadade
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "1.1"
+versao: "1.2"
 criado_em: 2026-07-21
 atualizado_em: 2026-07-21
 autor: Fabiano Deliberalli
@@ -56,30 +56,33 @@ Esta nota não substitui os documentos mestres. Ela os organiza, declara sua aut
 
 ### Aula 1.1
 
-- protótipo visual concluído;
-- PowerPoint de 22 slides, ficha do participante de 4 páginas, mapas, roteiro, storyboard, critérios de pilotagem e QA disponíveis;
-- aprovada para **pilotagem controlada**;
-- inspeção visual direta do PowerPoint em modo apresentação, checklist e logística do piloto ainda pendentes;
-- não aprovada para gravação nem para primeira oferta;
-- não deve ser reaberta sem contradição real, necessidade de segurança ou evidência da pilotagem.
+- existe um protótipo visual anterior com PowerPoint de 22 slides, ficha do participante de 4 páginas, mapas, roteiro, storyboard, critérios de pilotagem e QA;
+- esse protótipo foi historicamente aprovado para pilotagem controlada em 21 de julho de 2026, mas não para gravação ou primeira oferta;
+- alterações posteriores na arquitetura curricular impactam a aula e exigem novo escrutínio;
+- **estado vigente:** protótipo reaberto para revisão e reorganização curricular antes da pilotagem;
+- não possui estatuto canônico nem deve servir como modelo obrigatório para as demais aulas;
+- seu acervo deve ser preservado como matéria-prima qualificada e memória de desenvolvimento;
+- após a revisão, será necessária nova deliberação autoral sobre a versão apta à pilotagem.
 
-## Duas frentes abertas, sem conflito
+## Deliberações encerradas e frente ativa
+
+### Portões encerrados nesta etapa
+
+- **P2 — Taxonomia Transversal dos Estatutos das Linguagens:** aprovado integralmente;
+- **P6 — Seleção, Modulação e Encerramento de Práticas:** núcleo mínimo obrigatório aprovado;
+- as duas decisões passam a governar a revisão da Aula 1.1 e a produção posterior.
 
 ### Frente curricular ativa
 
-> Deliberar as propostas v0.1 de **P2 — Taxonomia dos estatutos das linguagens** e **P6 — Seleção, Modulação e Encerramento de Práticas**.
+> Revisar e reorganizar a Aula 1.1 como aula normal da arquitetura vigente, aplicando o Guia Mestre, P2 e o núcleo mínimo de P6.
 
-As propostas estão disponíveis em [[P2 - Taxonomia Transversal dos Estatutos das Linguagens - Proposta v0.1]] e [[P6 - Protocolo Mestre de Seleção, Modulação e Encerramento de Práticas - Proposta v0.1]]. Elas permanecem candidatas até deliberação expressa de Fabiano Deliberalli. Esses portões precisam estar fechados antes da produção plena da Aula 1.2 e deverão governar todas as aulas posteriores.
+A revisão não depende de evidência prévia do piloto, porque mudanças curriculares posteriores já alteraram as condições da aula. O protótipo existente deverá ser auditado componente por componente, sem obrigação de preservação e sem descarte automático.
 
-### Frente operacional pendente
+### Pilotagem
 
-> Preparar, executar e registrar a pilotagem controlada da Aula 1.1.
+A pilotagem permanece como etapa futura de validação pedagógica da **versão revisada**. A autorização histórica para pilotar o protótipo anterior não substitui nova deliberação autoral após a reorganização.
 
-A pilotagem continua necessária para revisar ou gravar a Aula 1.1 e para informar P1. O fechamento conceitual de P2 e P6 pode ocorrer antes do piloto. A produção plena do kit da Aula 1.2 somente será liberada após:
-
-1. fechamento de P2;
-2. fechamento do mínimo obrigatório de P6;
-3. registro e deliberação pós-piloto da Aula 1.1.
+A produção plena da Aula 1.2 permanece temporariamente condicionada à conclusão da revisão curricular da Aula 1.1 e à definição da sequência de pilotagem, além dos demais portões específicos aplicáveis.
 
 ## Ordem mínima de leitura
 
@@ -144,18 +147,18 @@ Trechos históricos permanecem como memória evolutiva, mas não substituem seç
 - distinção entre dimensão energética e espiritualidade;
 - aula nuclear energética e aula nuclear espiritual na arquitetura v0.2;
 - 7 módulos e 14 aulas como base da prototipagem atual;
-- preservação da Aula 1.1 para piloto controlado.
+- estatuto da Aula 1.1 como protótipo revisável, sem proteção canônica e sujeito a escrutínio curricular normal.
 
 ## Portões curriculares
 
 | Portão | Estado resumido | Prazo |
 |---|---|---|
-| P1 — Modelo dos Sete Níveis | pendente; informado pelo piloto da Aula 1.1 | antes de consolidar seu uso em novas aulas |
-| P2 — Taxonomia das linguagens | proposta v0.1 registrada; **aguarda deliberação autoral** | antes da Aula 1.2 |
+| P1 — Modelo dos Sete Níveis | pendente; será reavaliado durante a revisão da Aula 1.1 e informado por futura pilotagem | antes de consolidar seu uso curricular |
+| P2 — Taxonomia das linguagens | **aprovado integralmente; portão fechado** | aplicação imediata à revisão da Aula 1.1 e às aulas posteriores |
 | P3 — Três Eus | auxiliar, removível e pendente de teste de necessidade | antes da Aula 4.1 |
 | P4 — Seis dimensões do EIXO Integrador | fundamento/reserva até demonstrar função única | antes da Aula 4.1 |
 | P5 — Léxico pedagógico reduzido | pendente | antes da Aula 4.1 |
-| P6 — Seleção de práticas | proposta v0.1 registrada; **aguarda deliberação autoral**; regra provisória já obrigatória | antes de qualquer nova prática e da Aula 1.2 |
+| P6 — Seleção de práticas | **núcleo mínimo aprovado; portão fechado no escopo da primeira oferta** | aplicação imediata a toda prática nova ou revisada |
 | P7 — Acompanhamento | pendente de instrumento mínimo | antes da consolidação do Módulo 0 |
 | P8 — Estatuto da dimensão energética | direção curricular incorporada; redação canônica pendente | antes da Aula 2.1 |
 
@@ -176,7 +179,7 @@ Antes de declarar uma etapa concluída:
 
 ## Ponto exato de retomada
 
-> Deliberar, item por item, as propostas v0.1 de **P2** e **P6**. Após decisão expressa, atualizar seus estatutos e documentos governantes; em seguida, retornar à preparação e execução da pilotagem controlada da Aula 1.1 antes de liberar a produção plena da Aula 1.2.
+> Iniciar a **revisão e reorganização curricular da Aula 1.1**, aplicando o Guia Mestre, P2 aprovado e o núcleo mínimo aprovado de P6. Auditar título, função, capacidade, sequência, mapas, estatutos, prática, evidência, materiais e relação com as demais aulas. Ao final, apresentar uma nova versão para deliberação autoral antes da pilotagem.
 
 ## Relações
 
