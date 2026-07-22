@@ -4,8 +4,8 @@ projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: prototipagem-curricular-em-andamento
 estado_maturidade: arquitetura-integral-em-prototipagem
-fase_atual: "P2 aprovado e núcleo mínimo de P6 aprovado — revisão e reorganização curricular da Aula 1.1 como frente ativa"
-versao: "0.26"
+fase_atual: "construção curricular sequencial — Módulo 0 ativo — Aula 0.1 como ponto de entrada"
+versao: "0.27"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-17
 atualizado_em: 2026-07-21
@@ -19,10 +19,10 @@ tags:
 
 # Dossiê de Contexto — Curso [nome provisório]
 
-**Versão:** 0.26  
+**Versão:** 0.27  
 **Estado de maturidade:** arquitetura integral em prototipagem  
 **Fases concluídas:** Fase 0 — Abertura e governança; Fase 1 — Gênese, identidade e problema humano  
-**Fase atual:** P2 aprovado e núcleo mínimo de P6 aprovado; revisão e reorganização curricular da Aula 1.1 como frente ativa antes da pilotagem
+**Fase atual:** construção curricular sequencial; Módulo 0 ativo; Aula 0.1 como ponto de entrada
 
 ---
 
@@ -30,7 +30,7 @@ tags:
 
 - **Código do curso:** a definir;
 - **Nome atual:** Curso [nome provisório];
-- **Versão do Dossiê:** 0.26;
+- **Versão do Dossiê:** 0.27;
 - **Status documental:** documento evolutivo;
 - **Estado de maturidade:** arquitetura integral em prototipagem;
 - **Data de criação:** 2026-07-17;
@@ -71,6 +71,14 @@ A continuidade registra agora:
 - **frente futura:** deliberar a versão reorganizada antes de sua pilotagem.
 
 Os documentos aprovados permanecem nos vínculos [[P2 - Taxonomia Transversal dos Estatutos das Linguagens - Proposta v0.1]] e [[P6 - Protocolo Mestre de Seleção, Modulação e Encerramento de Práticas - Proposta v0.1]] por estabilidade dos links; seus conteúdos e metadados declaram o estado aprovado. A produção plena da Aula 1.2 permanece temporariamente condicionada à reorganização da Aula 1.1 e à definição autoral da sequência de pilotagem, além dos portões específicos ainda aplicáveis.
+
+### Atualização da arquitetura operacional por módulos — 21 de julho de 2026
+
+Por deliberação autoral, a construção curricular passa a operar por **Orquestração Curricular Mestre permanente + um chat ativo por módulo + Obsidian/GitHub como memória oficial + trabalho sequencial desde a Aula 0.1 + auditoria ao final de cada aula e módulo**.
+
+Foi criada a camada intermediária [[00 - Modelo de Estado, Índice e Continuidade do Módulo]] e instanciado o [[00 - Estado, Índice e Continuidade do Módulo 0]]. O chat atual assume a função de **Curso — Orquestração Curricular Mestre 03**; o primeiro chat de produção será **Curso — Módulo 0 — Orientação, mapa e contrato formativo**.
+
+O ponto de retomada anterior, centrado na Aula 1.1, fica superado operacionalmente pela sequência integral das 14 aulas. A Aula 1.1 conserva o estatuto de protótipo revisável e será auditada quando o percurso alcançar o Módulo 1.
 
 ---
 
@@ -891,51 +899,44 @@ Ver [[Protocolo da Primeira Oferta Integral]].
 **Atualização:** 2026-07-21.  
 **Regra vigente:** [[01 - Protocolo de Continuidade Integral e Abertura de Novos Chats]].
 
-Esta seção prevalece sobre indicações antigas de bloqueio, deliberação das seis fases ou próxima sessão que permaneçam no corpo histórico deste Dossiê.
+Esta seção prevalece sobre indicações antigas de próxima aula ou frente ativa que permaneçam no corpo histórico deste Dossiê.
 
 ### Estado estrutural vigente
 
-- seis fases aprovadas: Traduzir a Experiência; Regular e Recuperar Presença; Observar e Diferenciar; Fortalecer o EIXO; Integrar Progressivamente; Expressar e Contribuir;
+- seis fases aprovadas;
 - primeira oferta integral autorizada para prototipagem curricular;
-- estrutura candidata com Módulo 0 e seis módulos correspondentes às fases;
-- Módulos 0 e 1 autorizados para detalhamento e produção controlada;
-- Aula 0.2 organizada em kit;
-- Aula 1.1 com protótipo visual concluído e reaberto para revisão e reorganização curricular antes da pilotagem.
+- 7 módulos e 14 aulas nucleares;
+- P2 aprovado integralmente;
+- núcleo mínimo de P6 aprovado para a primeira oferta;
+- Aula 1.1 preservada como protótipo revisável, sem precedência sobre a sequência curricular.
 
-### Estado operacional vigente
+### Arquitetura operacional vigente
 
-O [[00 - Índice do Kit]] e o [[09 - Registro de Produção Visual e QA v1]] da Aula 1.1 governam o ponto atual:
+- **Orquestração permanente:** Curso — Orquestração Curricular Mestre 03;
+- **produção:** um chat ativo por módulo;
+- **memória oficial:** Obsidian sincronizado no GitHub;
+- **camada intermediária:** Estado, Índice e Continuidade do Módulo;
+- **ordem:** iniciar pela Aula 0.1 e avançar sequencialmente;
+- **auditoria:** ao final de cada aula, de cada módulo e, posteriormente, do currículo completo.
 
-> Aula 1.1 em estado de protótipo revisável, reaberto para escrutínio e reorganização curricular antes de nova deliberação para pilotagem; não aprovada para gravação ou primeira oferta.
+### Frente curricular ativa e ponto de retomada
 
-### Frentes vigentes e ponto de retomada
+> Módulo 0 ativo. Abrir seu chat, emitir o Relatório de Retomada e iniciar, após deliberação autoral, a auditoria curricular da Aula 0.1 — Da compreensão acumulada à competência incorporada.
 
-**Portões encerrados:**
-
-> P2 aprovado integralmente e núcleo mínimo de P6 aprovado.
-
-**Frente curricular ativa:**
-
-> Revisar e reorganizar a Aula 1.1 sob o Guia Mestre, P2 e o núcleo mínimo de P6, tratando o kit anterior como protótipo e matéria-prima.
-
-**Frente operacional futura:**
-
-> Depois da reorganização, deliberar a nova versão antes de retomar inspeção, checklist, logística e pilotagem.
-
-A produção plena da Aula 1.2 — Do vivido à Tradução — permanece temporariamente condicionada à reorganização da Aula 1.1 e à definição autoral da sequência de pilotagem, além dos portões específicos aplicáveis.
+A Aula 0.2 possui kit documental organizado e será auditada depois da Aula 0.1. A Aula 1.1 será retomada no Módulo 1 e submetida ao mesmo procedimento das demais aulas.
 
 ### Regra de prevalência
 
 - este Dossiê governa a arquitetura geral;
-- o Protocolo de Continuidade governa a passagem entre chats;
-- o Índice Mestre governa a organização dos kits;
-- o Índice e o QA da aula governam o estado operacional mais recente daquela aula;
+- o Protocolo governa a passagem entre chats;
+- o Estado e Índice do Módulo governa a continuidade interna do módulo;
+- o Índice Mestre governa a organização comparativa dos kits;
+- o Índice e o QA da aula governam seu estado operacional, subordinados à arquitetura vigente;
 - documentos institucionais superiores permanecem vigentes quanto a princípios e limites.
 
 ### Histórico
 
-As antigas seções “Arquitetura pedagógica — bloqueada”, “questões das seis fases” e “próxima sessão” permanecem como registro evolutivo, mas não descrevem o estado atual.
-
+A revisão imediata da Aula 1.1 foi uma frente válida antes da decisão de percorrer sequencialmente as 14 aulas. Essa instrução permanece como registro evolutivo, mas não descreve mais a próxima tarefa.
 
 ## 20. Governança reconciliada do conhecimento e fundamentos transversais
 
