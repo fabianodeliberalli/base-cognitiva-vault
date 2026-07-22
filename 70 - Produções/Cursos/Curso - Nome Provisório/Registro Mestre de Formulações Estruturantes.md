@@ -3,7 +3,7 @@ tipo: registro-mestre-formulacoes-estruturantes
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: consolidacao-documental-para-auditoria-autoral
-versao: "0.1"
+versao: "0.2"
 autor: Fabiano Deliberalli
 organizado_em: 2026-07-21
 escopo: curso-metodo-pedagogia-epistemologia-publico-governanca
@@ -894,3 +894,24 @@ Somente depois dessa auditoria as formulações aprovadas deverão ser distribu�
 **Origem da sessão:** varredura de formulações estruturantes do curso, 21 de julho de 2026.
 
 **Status:** pendente de deliberação autoral.
+
+
+---
+
+# XV. Adendo de vigência curricular — 21 de julho de 2026
+
+Após a organização inicial deste Registro, Fabiano Deliberalli aprovou formulações e consequências curriculares que foram consolidadas no [[Guia Mestre de Incorporação e Rastreabilidade Curricular]] e reconciliadas no [[09 - Esqueleto Estrutural da Primeira Oferta Integral para Mentoria]] v0.2.
+
+## Decisões vigentes
+
+1. **Síntese executiva da arquitetura metodológica:** a formulação extensa aprovada e registrada no Guia governa a distribuição curricular, sem apagar as definições técnicas preservadas neste Registro.
+2. **Espiritualidade:** o curso assume perspectiva espiritual afirmativa, plural e não dogmática. F59 permanece preservada como antecedente consolidado, mas não expressa sozinha a decisão curricular mais recente.
+3. **Dimensão energética:** deixa de ser tratada como adendo ou sinônimo de espiritualidade; recebe aula nuclear própria e presença longitudinal.
+4. **Distinção energético–espiritual:** linguagens energéticas traduzem relações entre corpo, vitalidade, consciência, ambiente e prática e podem dialogar com espiritualidade sem se confundirem com ela.
+5. **Arquitetura v0.2:** mantém 7 módulos e 14 aulas, com Aula 2.1 energética e Aula 4.2 espiritual.
+6. **Rastreabilidade:** toda aula futura deve declarar formulações governantes, estatutos de linguagem, camadas de profundidade, prática, alternativa, retorno, evidência e portões específicos.
+7. **Aula 1.1:** permanece preservada para pilotagem controlada; a nova governança não autoriza reabertura indiscriminada.
+
+## Estatuto do adendo
+
+Este adendo registra vigência e encaminhamento documental. Não converte automaticamente todas as formulações B ou C deste Registro em canônicas. Os oito portões e as redações ainda pendentes permanecem identificados no Guia Mestre.
