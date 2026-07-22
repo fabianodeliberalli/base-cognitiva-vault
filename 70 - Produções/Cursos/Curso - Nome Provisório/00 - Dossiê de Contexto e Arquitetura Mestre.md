@@ -4,8 +4,8 @@ projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: prototipagem-curricular-em-andamento
 estado_maturidade: arquitetura-integral-em-prototipagem
-fase_atual: "Propostas P2 e P6 v0.1 registradas — deliberação autoral como frente curricular ativa; pilotagem da Aula 1.1 como frente operacional pendente"
-versao: "0.25"
+fase_atual: "P2 aprovado e núcleo mínimo de P6 aprovado — revisão e reorganização curricular da Aula 1.1 como frente ativa"
+versao: "0.26"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-17
 atualizado_em: 2026-07-21
@@ -19,10 +19,10 @@ tags:
 
 # Dossiê de Contexto — Curso [nome provisório]
 
-**Versão:** 0.25  
+**Versão:** 0.26  
 **Estado de maturidade:** arquitetura integral em prototipagem  
 **Fases concluídas:** Fase 0 — Abertura e governança; Fase 1 — Gênese, identidade e problema humano  
-**Fase atual:** propostas P2 e P6 v0.1 registradas; deliberação autoral dos dois portões é a frente curricular ativa; a pilotagem da Aula 1.1 permanece como frente operacional pendente
+**Fase atual:** P2 aprovado e núcleo mínimo de P6 aprovado; revisão e reorganização curricular da Aula 1.1 como frente ativa antes da pilotagem
 
 ---
 
@@ -30,7 +30,7 @@ tags:
 
 - **Código do curso:** a definir;
 - **Nome atual:** Curso [nome provisório];
-- **Versão do Dossiê:** 0.23;
+- **Versão do Dossiê:** 0.26;
 - **Status documental:** documento evolutivo;
 - **Estado de maturidade:** arquitetura integral em prototipagem;
 - **Data de criação:** 2026-07-17;
@@ -57,18 +57,20 @@ O [[09 - Esqueleto Estrutural da Primeira Oferta Integral para Mentoria]] foi at
 
 **Nota de vigência:** ocorrências anteriores que descrevam a espiritualidade apenas como dimensão aplicável “quando pertinente” devem ser lidas à luz da decisão autoral mais recente: o curso possui perspectiva espiritual afirmativa, plural e não dogmática, sem exigir adesão metafísica particular. A dimensão energética deixa de ser adendo, possui aula nuclear e presença transversal, mas a redação canônica de seu estatuto antropológico permanece como portão P8.
 
-A Aula 1.1 permanece preservada para pilotagem controlada; o novo Guia atua primeiro como instrumento de verificação e não autoriza reabertura indiscriminada do kit aprovado.
+A decisão autoral mais recente corrige esse estatuto: a Aula 1.1 é um protótipo curricular revisável. Sua criação e a aprovação histórica para pilotagem controlada não lhe conferem autoridade canônica nem impedem revisão e reorganização antes do piloto. O acervo existente permanece preservado como matéria-prima qualificada e memória de desenvolvimento.
 
 ### Atualização de continuidade e retomada — 21 de julho de 2026
 
 Foi criada a [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]] como porta única de entrada para novos chats, IAs e consultas. Ela organiza a hierarquia documental, diferencia estado vigente de histórico e aponta para o [[Registro Consolidado da Sessão - Governança e Arquitetura Curricular - 2026-07-21]].
 
-A continuidade passa a distinguir duas frentes legítimas:
+A continuidade registra agora:
 
-- **frente curricular ativa:** deliberar as propostas v0.1 de P2 — Taxonomia dos estatutos das linguagens — e P6 — Seleção, Modulação e Encerramento de Práticas;
-- **frente operacional pendente:** preparar, executar e registrar o piloto controlado da Aula 1.1.
+- **P2:** aprovado integralmente e fechado;
+- **P6:** núcleo mínimo obrigatório aprovado e fechado no escopo da primeira oferta;
+- **frente curricular ativa:** revisar e reorganizar a Aula 1.1 sob a arquitetura vigente, P2 e P6;
+- **frente futura:** deliberar a versão reorganizada antes de sua pilotagem.
 
-As propostas estão registradas em [[P2 - Taxonomia Transversal dos Estatutos das Linguagens - Proposta v0.1]] e [[P6 - Protocolo Mestre de Seleção, Modulação e Encerramento de Práticas - Proposta v0.1]]. P2 e o mínimo obrigatório de P6 podem ser fechados antes do piloto. A produção plena da Aula 1.2 permanece condicionada à deliberação e ao fechamento desses portões, além da deliberação pós-piloto da Aula 1.1.
+Os documentos aprovados permanecem nos vínculos [[P2 - Taxonomia Transversal dos Estatutos das Linguagens - Proposta v0.1]] e [[P6 - Protocolo Mestre de Seleção, Modulação e Encerramento de Práticas - Proposta v0.1]] por estabilidade dos links; seus conteúdos e metadados declaram o estado aprovado. A produção plena da Aula 1.2 permanece temporariamente condicionada à reorganização da Aula 1.1 e à definição autoral da sequência de pilotagem, além dos portões específicos ainda aplicáveis.
 
 ---
 
@@ -831,6 +833,7 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 
 | Versão | Data | Mudança | Motivo |
 |---|---|---|---|
+| 0.26 | 2026-07-21 | Aprovação de P2 e do núcleo mínimo de P6; Aula 1.1 reclassificada como protótipo revisável e reaberta para reorganização antes do piloto | Deliberação autoral |
 | 0.1 | 2026-07-17 | Abertura do Dossiê, registro da governança e do patrimônio candidato | Conclusão da Fase 0 |
 | 0.2 | 2026-07-18 | Registro do problema humano, natureza educacional, público preliminar, limites éticos e hipóteses de posicionamento | Conclusão da Fase 1 |
 | 0.3 | 2026-07-18 | Decisão de estruturar integralmente o Método EIXO antes de derivar a primeira oferta | Fase 2 em andamento |
