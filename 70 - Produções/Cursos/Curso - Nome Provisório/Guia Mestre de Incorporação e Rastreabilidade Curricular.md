@@ -3,7 +3,7 @@ tipo: guia-governanca-curricular
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: base-vinculante-para-prototipagem-curricular-controlada
-versao: "0.4"
+versao: "0.5"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-21
 atualizado_em: 2026-07-21
@@ -585,14 +585,15 @@ Esses conteúdos constituem reserva curricular e patrimônio considerado. Não p
 
 ### Sequência operacional
 
-1. reconciliar o Esqueleto Estrutural com a arquitetura v0.2;
-2. registrar no Dossiê a criação deste Guia e as decisões recentes;
-3. aplicar P2 aprovado e o núcleo mínimo aprovado de P6 à revisão integral da Aula 1.1;
-4. reorganizar a Aula 1.1 sem obrigação de preservar componentes do protótipo anterior;
-5. submeter a versão revisada à deliberação autoral para pilotagem;
-6. usar os dados do futuro piloto para nova revisão e para informar P1 e a passagem à Aula 1.2;
-7. detalhar módulos e aulas progressivamente, encerrando os portões específicos antes de cada kit;
-8. auditar rastreabilidade ao final de cada módulo.
+1. iniciar a construção sequencial pelo Módulo 0;
+2. auditar e construir a Aula 0.1 antes da Aula 0.2;
+3. auditar a Aula 0.2 sob as decisões consolidadas na Aula 0.1;
+4. realizar auditoria conjunta e encerrar o Módulo 0;
+5. avançar ao Módulo 1;
+6. auditar e reorganizar a Aula 1.1 como protótipo revisável, aplicando P2 e o núcleo mínimo de P6;
+7. construir a Aula 1.2 em conciliação com a Aula 1.1 e auditar o módulo;
+8. seguir módulo por módulo, encerrando os portões específicos antes dos kits dependentes;
+9. realizar auditoria de rastreabilidade ao final de cada aula, de cada módulo e das 14 aulas.
 
 ---
 
@@ -615,6 +616,9 @@ Para cada revisão da arquitetura, verificar:
 - [ ] conteúdo do participante, fundamento do educador e reserva estão separados;
 - [ ] portões estão fechados antes dos kits que dependem deles;
 - [ ] decisões recentes foram distribuídas aos documentos governantes;
+- [ ] o Estado e Índice do módulo registra decisões, impactos, auditorias e ponto de retomada;
+- [ ] cada aula foi auditada antes da passagem à seguinte;
+- [ ] cada módulo foi reconciliado antes da abertura do próximo;
 - [ ] a Aula 1.1 é auditada como protótipo revisável e demonstra aderência à arquitetura vigente antes de nova pilotagem.
 
 ---
