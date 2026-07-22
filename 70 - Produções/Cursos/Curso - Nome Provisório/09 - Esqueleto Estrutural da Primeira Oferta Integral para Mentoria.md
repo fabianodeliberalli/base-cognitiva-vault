@@ -1,8 +1,8 @@
 ---
 tipo: arquitetura-curricular
 projeto: Traduzindo o Ser Humano
-status: arquitetura-curricular-v0.2-governada-por-rastreabilidade
-versao: "0.2"
+status: arquitetura-curricular-v0.2-governada-por-rastreabilidade-e-continuidade
+versao: "0.3"
 criado_em: 2026-07-19
 atualizado_em: 2026-07-21
 autor: Fabiano Deliberalli
@@ -124,15 +124,24 @@ A Aula 1.1 permanece aprovada para pilotagem controlada nos termos de [[10 - Rev
 
 ## Próxima produção
 
+Duas frentes permanecem abertas:
+
+- **curricular ativa:** concluir P2 e o protocolo mínimo de P6;
+- **operacional pendente:** preservar, preparar e pilotar a Aula 1.1.
+
+Sequência de liberação:
+
 1. concluir P2 e o protocolo mínimo de P6;
-2. preservar e pilotar a Aula 1.1;
-3. usar o piloto para informar P1;
-4. construir a Aula 1.2 aplicando o Guia Mestre;
+2. executar e registrar o piloto da Aula 1.1;
+3. usar o piloto para informar P1 e eventuais ajustes da Aula 1.1;
+4. somente após a deliberação pós-piloto, construir integralmente a Aula 1.2 aplicando o Guia Mestre;
 5. encerrar P8 antes do kit da Aula 2.1;
 6. avançar módulo por módulo, com auditoria de rastreabilidade ao final de cada módulo.
 
 ## Relações
 
+- [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]]
+- [[Registro Consolidado da Sessão - Governança e Arquitetura Curricular - 2026-07-21]]
 - [[Guia Mestre de Incorporação e Rastreabilidade Curricular]]
 - [[00 - Dossiê de Contexto e Arquitetura Mestre]]
 - [[Registro Mestre de Formulações Estruturantes]]
