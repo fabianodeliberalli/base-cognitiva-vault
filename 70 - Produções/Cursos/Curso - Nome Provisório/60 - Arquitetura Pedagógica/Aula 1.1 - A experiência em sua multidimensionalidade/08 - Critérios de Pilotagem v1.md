@@ -1,11 +1,13 @@
 ---
 tipo: criterios-de-pilotagem
 aula: 1.1
-estado: aprovado-para-uso-na-pilotagem
-versao: 1
+estado: referencia-para-revisao-e-futura-pilotagem
+versao: "1.1"
 ---
 
 # Critérios de Pilotagem v1 — Aula 1.1
+
+> **Adendo de vigência:** estes critérios permanecem como referência útil, mas deverão ser revistos após a reorganização curricular da Aula 1.1. Não constituem autorização para pilotar o protótipo anterior.
 
 > Estes critérios estão aprovados para orientar a pilotagem. Esse estado não equivale à aprovação da aula para piloto, gravação ou primeira oferta.
 
@@ -58,4 +60,4 @@ Perguntas abertas:
 
 ## Ajuste pós-turma
 
-Não alterar o núcleo aprovado por impressão isolada. Registrar observações, agrupar padrões e revisar após análise da primeira turma.
+Não alterar uma versão pilotada por impressão isolada: registrar observações, agrupar padrões e revisar com base no conjunto de evidências. Esta regra pós-turma não impede a revisão arquitetônica pré-piloto agora determinada para o protótipo atual.
