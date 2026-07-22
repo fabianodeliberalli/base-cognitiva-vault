@@ -1,15 +1,17 @@
 ---
 tipo: revisao-autoral-e-protocolo-pilotagem
 aula: 1.1
-estado: aula-aprovada-para-pilotagem-controlada
-versao: "1.1"
+estado: registro-historico-de-aprovacao-superado-por-revisao-curricular
+versao: "1.2"
 data: 2026-07-21
 atualizado_em: 2026-07-21
 autoridade_de_aprovacao: Fabiano Deliberalli
-decisao_autoral: opcao-2-aprovada
+decisao_autoral: "opcao-2-aprovada-historicamente; aula-reaberta-para-revisao-curricular"
 ---
 
 # Revisão Autoral e Protocolo de Pilotagem v1 — Aula 1.1
+
+> **Adendo de vigência:** este documento preserva a aprovação histórica da Opção 2 em 21 de julho de 2026. Deliberação autoral posterior reabriu a Aula 1.1 para revisão e reorganização curricular antes do piloto. Portanto, as restrições antigas à reabertura não governam mais o estado operacional atual.
 
 ## 1. Natureza e resultado desta etapa
 
@@ -370,7 +372,7 @@ Protótipo visual concluído; revisão técnica e correlação documental conclu
 
 - **O que registrar:** alinhar o estado e as decisões pendentes da ficha pedagógica principal da Aula 1.1 às deliberações e ao QA mais recentes.
 - **Justificativa estratégica:** eliminar divergência entre um documento antigo e o estado operacional canônico.
-- **Por que não pertence à sessão atual:** a autoridade operacional já está resolvida pelo Índice, pelo Roteiro e pelo QA; a correção não deve interromper o portão de pilotagem.
+- **Por que não pertenceu à sessão original:** naquela etapa, Índice, Roteiro e QA resolviam o estado operacional; a deliberação posterior reabriu a aula para revisão curricular.
 - **Destino:** kit documental da Aula 1.1.
 - **Prioridade:** média.
 - **Origem:** Relatório de Retomada.
@@ -378,4 +380,4 @@ Protótipo visual concluído; revisão técnica e correlação documental conclu
 
 ### Ponto exato de retomada
 
-Realizar a inspeção visual direta do PowerPoint em modo apresentação e completar o checklist pré-piloto. Em seguida, definir a logística e executar a pilotagem controlada da Aula 1.1. A Aula 1.2 somente deverá entrar em produção após o registro e a deliberação pós-piloto da Aula 1.1.
+Revisar e reorganizar a Aula 1.1 sob o Guia Mestre, P2 e o núcleo mínimo de P6. Preservar este documento como histórico da versão anterior. Somente após a nova deliberação autoral retomar inspeção, checklist, logística e pilotagem.
