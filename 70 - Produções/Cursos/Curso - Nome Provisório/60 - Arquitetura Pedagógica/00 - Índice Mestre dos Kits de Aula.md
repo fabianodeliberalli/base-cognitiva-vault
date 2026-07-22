@@ -21,6 +21,18 @@ data: 2026-07-21
 8. Critérios de pilotagem e revisão
 9. Registro pós-turma
 
+## Camada de estado e continuidade dos módulos
+
+A unidade conversacional de produção é o módulo; a memória oficial permanece no Obsidian/GitHub.
+
+| Módulo | Estado | Nota governante |
+|---|---|---|
+| **0 — Orientação, mapa e contrato formativo** | ativo; Aula 0.1 é o ponto de entrada | [[00 - Estado, Índice e Continuidade do Módulo 0]] |
+| 1 — Traduzir a Experiência | aguarda encerramento do Módulo 0 | a criar quando entrar em produção |
+| 2–6 | aguardam módulos anteriores e portões específicos | criar progressivamente |
+
+Modelo obrigatório: [[00 - Modelo de Estado, Índice e Continuidade do Módulo]].
+
 ## Estado da produção
 
 | Aula | Estado | Ponto de entrada |
@@ -61,7 +73,11 @@ Ver [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]] e [[01 - Protocolo 
 
 ## Ponto curricular atual
 
+- **Arquitetura de trabalho:** Orquestração Curricular Mestre 03 + um chat ativo por módulo;
+- **Módulo ativo:** Módulo 0;
+- **Aula ativa:** 0.1 — Da compreensão acumulada à competência incorporada;
+- **procedimento imediato:** localizar e auditar conteúdo anterior antes de produzir novo material;
+- **Aula 0.2:** aguarda a auditoria e o fechamento curricular da Aula 0.1;
+- **Aula 1.1:** permanece protótipo revisável e será auditada no Módulo 1;
 - **P2:** aprovado integralmente;
-- **P6:** núcleo mínimo aprovado;
-- **Aula 1.1:** revisão e reorganização curricular ativa antes do piloto;
-- **Aula 1.2:** aguarda a reorganização da Aula 1.1 e a definição da sequência de pilotagem.
+- **P6:** núcleo mínimo aprovado.
