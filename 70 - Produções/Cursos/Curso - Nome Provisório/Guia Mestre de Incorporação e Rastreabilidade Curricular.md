@@ -3,7 +3,7 @@ tipo: guia-governanca-curricular
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: base-vinculante-para-prototipagem-curricular-controlada
-versao: "0.3"
+versao: "0.4"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-21
 atualizado_em: 2026-07-21
@@ -25,6 +25,10 @@ tags:
 ## 1. Finalidade
 
 Este documento governa a passagem entre as formulações estruturantes do projeto **Traduzindo o Ser Humano** e a construção efetiva dos módulos, aulas, práticas, materiais e evidências de aprendizagem da primeira oferta integral do curso.
+
+## 1.1. Deliberação de vigência sobre P2, P6 e Aula 1.1
+
+Em 21 de julho de 2026, Fabiano Deliberalli aprovou integralmente P2 e o núcleo mínimo obrigatório de P6. Também determinou que a Aula 1.1 não seja tratada como canônica nem protegida contra revisão até a pilotagem. O protótipo existente deverá passar por escrutínio e reorganização curricular normal, considerando todas as alterações posteriores que o impactam.
 
 Sua pergunta central é:
 
@@ -63,7 +67,7 @@ Este documento não substitui o Registro Mestre, o Dossiê, a Matriz Integrada n
 2. Uma formulação mais recente e explicitamente aprovada pode superar uma redação anterior sem apagar seu registro histórico.
 3. A incorporação curricular não torna automaticamente canônica uma redação ainda classificada como candidata.
 4. Nenhum kit pode contrariar os princípios institucionais, a arquitetura global ou os limites éticos do curso.
-5. A Aula 1.1 já aprovada para pilotagem controlada não será reaberta de modo indiscriminado. Este Guia será utilizado primeiro como instrumento de verificação e somente justificará mudanças indispensáveis à coerência ou à segurança.
+5. A Aula 1.1 é um protótipo revisável. O Guia deverá ser aplicado integralmente ao seu escrutínio e poderá justificar reorganização, substituição ou retirada de componentes antes da pilotagem, sem confundir preservação histórica com proteção curricular.
 
 ---
 
@@ -413,8 +417,8 @@ O participante formula sua posição espiritual atual, inclusive religiosa, espi
 - **Pergunta decisória:** será mapa nuclear do participante, recurso complementar ou fundamento do educador?
 - **Base já aprovada:** multidimensionalidade e primeira cartografia são nucleares.
 - **Impacto:** Aulas 1.1 e 1.2; família de mapas; carga cognitiva.
-- **Regra provisória:** preservar o uso já aprovado na Aula 1.1 para pilotagem; não expandir para outras aulas antes de avaliar necessidade, compreensão e sobreposição.
-- **Prazo:** antes da produção plena da Aula 1.2 e após dados do piloto da Aula 1.1.
+- **Regra vigente:** reavaliar o uso no escrutínio curricular da Aula 1.1; o protótipo anterior não obriga sua manutenção nem sua expansão para outras aulas.
+- **Prazo:** durante a revisão da Aula 1.1 e, posteriormente, à luz dos dados do piloto da versão revisada.
 - **Status:** pendente de deliberação informada pela pilotagem.
 
 ### P2 — Taxonomia final dos estatutos das linguagens
@@ -425,7 +429,7 @@ O participante formula sua posição espiritual atual, inclusive religiosa, espi
 - **Regra provisória:** usar as sete categorias do Registro Mestre, declarando limites e evitando categorias híbridas não definidas.
 - **Prazo:** antes do kit da Aula 1.2.
 - **Documento candidato:** [[P2 - Taxonomia Transversal dos Estatutos das Linguagens - Proposta v0.1]].
-- **Status:** proposta v0.1 pronta para deliberação autoral; portão ainda aberto.
+- **Status:** aprovado integralmente em 21 de julho de 2026; portão fechado; aplicação imediata à Aula 1.1 e às aulas posteriores.
 
 ### P3 — Necessidade curricular dos Três Eus
 
@@ -462,7 +466,7 @@ O participante formula sua posição espiritual atual, inclusive religiosa, espi
 - **Regra provisória obrigatória:** nenhum kit avança sem declarar função, instruções, intensidade, contraindicações pertinentes, alternativa, interrupção, retorno, evidência e aplicação.
 - **Prazo:** antes de qualquer nova prática e antes da produção plena da Aula 1.2.
 - **Documento candidato:** [[P6 - Protocolo Mestre de Seleção, Modulação e Encerramento de Práticas - Proposta v0.1]].
-- **Status:** regra provisória obrigatória; proposta v0.1 pronta para deliberação autoral; portão ainda aberto.
+- **Status:** núcleo mínimo aprovado em 21 de julho de 2026; portão fechado no escopo da primeira oferta; ficha obrigatória para toda prática nova ou revisada.
 
 ### P7 — Indicadores e instrumentos de acompanhamento
 
@@ -568,7 +572,7 @@ Esses conteúdos constituem reserva curricular e patrimônio considerado. Não p
 - presença de aula energética própria na arquitetura v0.2;
 - distribuição longitudinal dos fundamentos;
 - manutenção dos 7 módulos e 14 aulas;
-- preservação da Aula 1.1 para pilotagem controlada.
+- Aula 1.1 reconhecida como protótipo revisável, sujeito ao mesmo escrutínio curricular das demais aulas.
 
 ### Pendente de deliberação ou validação
 
@@ -583,10 +587,10 @@ Esses conteúdos constituem reserva curricular e patrimônio considerado. Não p
 
 1. reconciliar o Esqueleto Estrutural com a arquitetura v0.2;
 2. registrar no Dossiê a criação deste Guia e as decisões recentes;
-3. deliberar as propostas v0.1 de P2 e P6 e, somente após aprovação autoral, registrar o fechamento dos portões;
-4. preparar, executar e registrar a pilotagem controlada da Aula 1.1 como frente operacional pendente;
-5. usar dados do piloto na decisão P1 e na revisão da Aula 1.1;
-6. liberar a produção plena da Aula 1.2 somente após P2, P6 e deliberação pós-piloto;
+3. aplicar P2 aprovado e o núcleo mínimo aprovado de P6 à revisão integral da Aula 1.1;
+4. reorganizar a Aula 1.1 sem obrigação de preservar componentes do protótipo anterior;
+5. submeter a versão revisada à deliberação autoral para pilotagem;
+6. usar os dados do futuro piloto para nova revisão e para informar P1 e a passagem à Aula 1.2;
 7. detalhar módulos e aulas progressivamente, encerrando os portões específicos antes de cada kit;
 8. auditar rastreabilidade ao final de cada módulo.
 
@@ -611,7 +615,7 @@ Para cada revisão da arquitetura, verificar:
 - [ ] conteúdo do participante, fundamento do educador e reserva estão separados;
 - [ ] portões estão fechados antes dos kits que dependem deles;
 - [ ] decisões recentes foram distribuídas aos documentos governantes;
-- [ ] a Aula 1.1 preserva o estado aprovado até que dados do piloto justifiquem revisão.
+- [ ] a Aula 1.1 é auditada como protótipo revisável e demonstra aderência à arquitetura vigente antes de nova pilotagem.
 
 ---
 
