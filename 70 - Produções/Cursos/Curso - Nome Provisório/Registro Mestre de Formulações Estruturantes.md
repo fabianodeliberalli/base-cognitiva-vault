@@ -3,7 +3,7 @@ tipo: registro-mestre-formulacoes-estruturantes
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: consolidacao-documental-para-auditoria-autoral
-versao: "0.3"
+versao: "0.4"
 autor: Fabiano Deliberalli
 organizado_em: 2026-07-21
 escopo: curso-metodo-pedagogia-epistemologia-publico-governanca
@@ -486,7 +486,7 @@ Cada aula distingue:
 
 - **Estatuto:** C — formulação metodológica reconstruída para deliberação.
 - **Recuperação:** reconstruída.
-- **Pendência:** aprofundar critérios de seleção e distribuição de práticas antes das aulas seguintes.
+- **Pendência:** deliberar [[P6 - Protocolo Mestre de Seleção, Modulação e Encerramento de Práticas - Proposta v0.1]]; sua existência não altera o estatuto C de F45.
 
 ## F46 — Contrato de escolha e segurança
 
@@ -548,7 +548,7 @@ Pergunta orientadora:
 
 - **Estatuto:** A — dispositivo pedagógico aprovado.
 - **Recuperação:** substancial; algumas versões usam seis estatutos e outras discriminam metáfora/modelo clínico.
-- **Pendência:** congelar a taxonomia final para uso transversal.
+- **Pendência:** deliberar [[P2 - Taxonomia Transversal dos Estatutos das Linguagens - Proposta v0.1]]; sua existência não altera o estatuto A do dispositivo nem fecha a taxonomia.
 
 ## F53 — Fenômeno e causa
 
@@ -925,8 +925,9 @@ A [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]] passa a ser a porta �
 
 ## Regra operacional atual
 
-- P2 — Taxonomia dos estatutos das linguagens — e o mínimo de P6 — Seleção de práticas — constituem a frente curricular ativa;
+- as propostas v0.1 de P2 — Taxonomia dos estatutos das linguagens — e P6 — Seleção, Modulação e Encerramento de Práticas — estão registradas e aguardam deliberação autoral;
+- a deliberação de P2 e P6 constitui a frente curricular ativa;
 - a pilotagem da Aula 1.1 constitui frente operacional pendente;
-- P2 e P6 podem ser fechados antes do piloto;
+- P2 e o mínimo obrigatório de P6 podem ser fechados antes do piloto;
 - a produção plena da Aula 1.2 depende de P2, P6 e deliberação pós-piloto;
 - esta atualização não altera os estatutos individuais F01–F79 nem resolve automaticamente a Auditoria Autoral de Canonização.
