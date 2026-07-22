@@ -4,8 +4,8 @@ projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: prototipagem-curricular-em-andamento
 estado_maturidade: arquitetura-integral-em-prototipagem
-fase_atual: "Prototipagem curricular — Preparação da pilotagem controlada da Aula 1.1"
-versao: "0.22"
+fase_atual: "Prototipagem curricular — Guia Mestre de rastreabilidade e preparação da pilotagem controlada da Aula 1.1"
+versao: "0.23"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-17
 atualizado_em: 2026-07-21
@@ -19,10 +19,10 @@ tags:
 
 # Dossiê de Contexto — Curso [nome provisório]
 
-**Versão:** 0.22  
+**Versão:** 0.23  
 **Estado de maturidade:** arquitetura integral em prototipagem  
 **Fases concluídas:** Fase 0 — Abertura e governança; Fase 1 — Gênese, identidade e problema humano  
-**Fase atual:** prototipagem curricular controlada; Aula 1.1 aprovada para piloto e em preparação pré-piloto
+**Fase atual:** prototipagem curricular controlada; Guia Mestre criado e arquitetura v0.2 reconciliada; Aula 1.1 aprovada para piloto e em preparação pré-piloto
 
 ---
 
@@ -30,7 +30,7 @@ tags:
 
 - **Código do curso:** a definir;
 - **Nome atual:** Curso [nome provisório];
-- **Versão do Dossiê:** 0.22;
+- **Versão do Dossiê:** 0.23;
 - **Status documental:** documento evolutivo;
 - **Estado de maturidade:** arquitetura integral em prototipagem;
 - **Data de criação:** 2026-07-17;
@@ -48,6 +48,16 @@ Este documento deverá permanecer como **Dossiê de Contexto** durante as fases 
 ### Atualização operacional — 21 de julho de 2026
 
 A revisão técnica e a correlação documental da Aula 1.1 foram concluídas em [[10 - Revisão Autoral e Protocolo de Pilotagem v1]]. Em 21 de julho de 2026, Fabiano Deliberalli aprovou a Opção 2. Os ajustes de preenchimento seletivo da ficha e proteção do retorno antes da ponte curricular foram incorporados ao Roteiro do Educador v1.1. A aula está aprovada para pilotagem controlada, condicionada ao checklist pré-piloto, e ainda não está aprovada para gravação ou primeira oferta.
+
+### Atualização de governança curricular — 21 de julho de 2026
+
+Foi criado o [[Guia Mestre de Incorporação e Rastreabilidade Curricular]], destinado a governar a passagem entre formulações estruturantes e módulos, aulas, práticas e evidências. O Guia registra a matriz de rastreabilidade F01–F79, formaliza oito portões curriculares, incorpora a síntese executiva aprovada da arquitetura metodológica e reconcilia a distribuição longitudinal das 14 aulas.
+
+O [[09 - Esqueleto Estrutural da Primeira Oferta Integral para Mentoria]] foi atualizado para a versão 0.2. A arquitetura mantém 7 módulos e 14 aulas, inclui **Energia, vitalidade e experiência nas Tradições Orientais** como Aula 2.1 e **Espiritualidade, experiência e EIXO** como Aula 4.2, reconhecendo estatutos próprios e relação longitudinal entre dimensão energética e espiritualidade.
+
+**Nota de vigência:** ocorrências anteriores que descrevam a espiritualidade apenas como dimensão aplicável “quando pertinente” devem ser lidas à luz da decisão autoral mais recente: o curso possui perspectiva espiritual afirmativa, plural e não dogmática, sem exigir adesão metafísica particular. A dimensão energética deixa de ser adendo, possui aula nuclear e presença transversal, mas a redação canônica de seu estatuto antropológico permanece como portão P8.
+
+A Aula 1.1 permanece preservada para pilotagem controlada; o novo Guia atua primeiro como instrumento de verificação e não autoriza reabertura indiscriminada do kit aprovado.
 
 ---
 
