@@ -2,7 +2,7 @@
 tipo: arquitetura-curricular
 projeto: Traduzindo o Ser Humano
 status: arquitetura-curricular-v0.2-governada-por-rastreabilidade-e-continuidade
-versao: "0.3"
+versao: "0.4"
 criado_em: 2026-07-19
 atualizado_em: 2026-07-21
 autor: Fabiano Deliberalli
@@ -118,23 +118,24 @@ Cada portão deve ser encerrado antes do kit que dele depende. O Guia contém re
 - integração entre exposição breve, demonstração, prática dosada, reflexão, aplicação e retorno;
 - primeira turma como campo de validação pedagógica, ética e experiencial.
 
-## Salvaguarda da Aula 1.1
+## Estatuto revisional da Aula 1.1
 
-A Aula 1.1 permanece aprovada para pilotagem controlada nos termos de [[10 - Revisão Autoral e Protocolo de Pilotagem v1]]. A arquitetura v0.2 não autoriza sua reabertura indiscriminada. O Guia será aplicado como checklist de verificação, e mudanças somente ocorrerão por necessidade demonstrada de coerência, segurança ou evidência do piloto.
+A Aula 1.1 possui protótipo e aprovação histórica para pilotagem controlada, mas não é canônica nem está protegida contra revisão. Mudanças posteriores na arquitetura a impactam; portanto, deverá passar por escrutínio e reorganização curricular normal sob o Guia, P2 e P6 antes de nova deliberação para piloto.
 
 ## Próxima produção
 
 Duas frentes permanecem abertas:
 
-- **curricular ativa:** concluir P2 e o protocolo mínimo de P6;
-- **operacional pendente:** preservar, preparar e pilotar a Aula 1.1.
+- **portões encerrados:** P2 integral e núcleo mínimo de P6;
+- **curricular ativa:** revisar e reorganizar a Aula 1.1;
+- **operacional futura:** deliberar e pilotar a versão revisada.
 
 Sequência de liberação:
 
-1. concluir P2 e o protocolo mínimo de P6;
-2. executar e registrar o piloto da Aula 1.1;
-3. usar o piloto para informar P1 e eventuais ajustes da Aula 1.1;
-4. somente após a deliberação pós-piloto, construir integralmente a Aula 1.2 aplicando o Guia Mestre;
+1. aplicar P2 e P6 à revisão integral da Aula 1.1;
+2. reorganizar a aula sem obrigação de preservar o protótipo;
+3. submeter a versão revisada à deliberação autoral para piloto;
+4. usar o futuro piloto para informar P1, nova revisão e a passagem à Aula 1.2;
 5. encerrar P8 antes do kit da Aula 2.1;
 6. avançar módulo por módulo, com auditoria de rastreabilidade ao final de cada módulo.
 
