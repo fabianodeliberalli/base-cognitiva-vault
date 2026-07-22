@@ -577,7 +577,7 @@ Esses conteúdos constituem reserva curricular e patrimônio considerado. Não p
 ### Pendente de deliberação ou validação
 
 - redação canônica do estatuto antropológico da dimensão energética;
-- oito portões nas condições e prazos definidos;
+- seis portões ainda abertos nas condições e prazos definidos; P2 e o núcleo mínimo de P6 estão fechados;
 - títulos comunicacionais definitivos;
 - duração e regime exato de cada aula;
 - instrumentos mínimos de acompanhamento;
