@@ -205,9 +205,9 @@ A reconciliação adotada é:
 | Redação antropológica energética | candidata; depende de P8 |
 | Arquitetura v0.2 | protótipo curricular governado |
 | Guia Mestre | base vinculante para prototipagem controlada |
-| P2 e mínimo de P6 | próximo trabalho curricular ativo |
-| Aula 1.1 | aprovada para piloto, não para gravação/oferta |
-| Produção plena da Aula 1.2 | bloqueada até P2, P6 e deliberação pós-piloto |
+| P2 e mínimo de P6 | P2 aprovado integralmente; núcleo mínimo de P6 aprovado |
+| Aula 1.1 | protótipo reaberto para revisão e reorganização antes do piloto |
+| Produção plena da Aula 1.2 | aguarda reorganização da Aula 1.1 e definição autoral da sequência de pilotagem |
 
 ## Dívidas de Organização
 
@@ -215,7 +215,7 @@ Nenhuma dívida nova externa ao escopo foi criada. As pendências encontradas j�
 
 ## Ponto exato de retomada
 
-> Elaborar P2 e P6 em formato deliberativo, rastreável e aplicável: primeiro a taxonomia dos estatutos das linguagens; em seguida o protocolo mínimo de seleção de práticas. Não iniciar o kit integral da Aula 1.2 antes do fechamento dos dois portões e da deliberação pós-piloto da Aula 1.1.
+> Revisar e reorganizar a Aula 1.1 aplicando o Guia Mestre, P2 aprovado e o núcleo mínimo aprovado de P6. Apresentar a nova versão para deliberação autoral antes da pilotagem.
 
 ## Relações
 
