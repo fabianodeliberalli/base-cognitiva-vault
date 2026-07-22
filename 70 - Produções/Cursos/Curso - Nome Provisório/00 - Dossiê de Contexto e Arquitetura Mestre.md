@@ -4,8 +4,8 @@ projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: prototipagem-curricular-em-andamento
 estado_maturidade: arquitetura-integral-em-prototipagem
-fase_atual: "Prototipagem curricular — Guia Mestre de rastreabilidade e preparação da pilotagem controlada da Aula 1.1"
-versao: "0.23"
+fase_atual: "Governança de continuidade reconciliada — P2 e P6 como frente curricular ativa; pilotagem da Aula 1.1 como frente operacional pendente"
+versao: "0.24"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-17
 atualizado_em: 2026-07-21
@@ -19,10 +19,10 @@ tags:
 
 # Dossiê de Contexto — Curso [nome provisório]
 
-**Versão:** 0.23  
+**Versão:** 0.24  
 **Estado de maturidade:** arquitetura integral em prototipagem  
 **Fases concluídas:** Fase 0 — Abertura e governança; Fase 1 — Gênese, identidade e problema humano  
-**Fase atual:** prototipagem curricular controlada; Guia Mestre criado e arquitetura v0.2 reconciliada; Aula 1.1 aprovada para piloto e em preparação pré-piloto
+**Fase atual:** governança de continuidade reconciliada; P2 e P6 são a frente curricular ativa; a pilotagem da Aula 1.1 permanece como frente operacional pendente
 
 ---
 
@@ -58,6 +58,17 @@ O [[09 - Esqueleto Estrutural da Primeira Oferta Integral para Mentoria]] foi at
 **Nota de vigência:** ocorrências anteriores que descrevam a espiritualidade apenas como dimensão aplicável “quando pertinente” devem ser lidas à luz da decisão autoral mais recente: o curso possui perspectiva espiritual afirmativa, plural e não dogmática, sem exigir adesão metafísica particular. A dimensão energética deixa de ser adendo, possui aula nuclear e presença transversal, mas a redação canônica de seu estatuto antropológico permanece como portão P8.
 
 A Aula 1.1 permanece preservada para pilotagem controlada; o novo Guia atua primeiro como instrumento de verificação e não autoriza reabertura indiscriminada do kit aprovado.
+
+### Atualização de continuidade e retomada — 21 de julho de 2026
+
+Foi criada a [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]] como porta única de entrada para novos chats, IAs e consultas. Ela organiza a hierarquia documental, diferencia estado vigente de histórico e aponta para o [[Registro Consolidado da Sessão - Governança e Arquitetura Curricular - 2026-07-21]].
+
+A continuidade passa a distinguir duas frentes legítimas:
+
+- **frente curricular ativa:** fechar P2 — Taxonomia dos estatutos das linguagens — e o protocolo mínimo de P6 — Seleção de práticas;
+- **frente operacional pendente:** preparar, executar e registrar o piloto controlado da Aula 1.1.
+
+P2 e P6 podem ser fechados antes do piloto. A produção plena da Aula 1.2 permanece condicionada a P2, P6 e à deliberação pós-piloto da Aula 1.1.
 
 ---
 
@@ -837,6 +848,9 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 | 0.19 | 2026-07-21 | Revisão técnica, correlação documental e criação do Protocolo de Pilotagem da Aula 1.1 | Revisão Autoral e Protocolo de Pilotagem |
 | 0.20 | 2026-07-21 | Opção 2 aprovada; dois ajustes incorporados ao roteiro; Aula 1.1 aprovada para pilotagem controlada | Deliberação autoral de Fabiano Deliberalli |
 | 0.21 | 2026-07-21 | Reconciliação da governança do conhecimento, disponibilidade do acervo, fundamentos transversais, estrutura curricular e Raio X | Deliberação autoral e atualização institucional |
+| 0.22 | 2026-07-21 | Criação do Registro Mestre de Formulações Estruturantes e vinculação ao sistema de continuidade | Auditoria de preservação |
+| 0.23 | 2026-07-21 | Criação do Guia Mestre, arquitetura v0.2, aula energética e aula espiritual | Consolidação da governança curricular |
+| 0.24 | 2026-07-21 | Porta única de entrada, registro consolidado da sessão e reconciliação das frentes P2/P6 e piloto da Aula 1.1 | Auditoria de continuidade plena |
 
 ---
 
@@ -890,11 +904,17 @@ O [[00 - Índice do Kit]] e o [[09 - Registro de Produção Visual e QA v1]] da 
 
 > Aula 1.1 aprovada para pilotagem controlada; inspeção visual direta do PowerPoint e checklist pré-piloto pendentes; ainda não aprovada para gravação ou primeira oferta.
 
-### Próxima sessão única
+### Frentes vigentes e ponto de retomada
 
-> Preparação pré-piloto da Aula 1.1: inspeção visual direta do PowerPoint em modo apresentação, conclusão do checklist e definição logística.
+**Frente curricular ativa:**
 
-Depois: executar e registrar a turma-piloto, deliberar os ajustes e somente então decidir sobre gravação e início da Aula 1.2 — Do vivido à Tradução.
+> Fechar P2 — Taxonomia final dos estatutos das linguagens — e o protocolo mínimo de P6 — Seleção de práticas.
+
+**Frente operacional pendente:**
+
+> Preparar e executar a pilotagem controlada da Aula 1.1: inspeção visual direta do PowerPoint, checklist, logística, aplicação e registro.
+
+P2 e P6 podem ser concluídos antes do piloto. A produção plena da Aula 1.2 — Do vivido à Tradução — somente será liberada após P2, P6 e a deliberação pós-piloto da Aula 1.1.
 
 ### Regra de prevalência
 
