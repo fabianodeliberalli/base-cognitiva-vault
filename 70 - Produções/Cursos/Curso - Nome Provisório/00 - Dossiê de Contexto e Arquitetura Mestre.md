@@ -900,25 +900,29 @@ Esta seção prevalece sobre indicações antigas de bloqueio, deliberação das
 - estrutura candidata com Módulo 0 e seis módulos correspondentes às fases;
 - Módulos 0 e 1 autorizados para detalhamento e produção controlada;
 - Aula 0.2 organizada em kit;
-- Aula 1.1 em protótipo visual concluído.
+- Aula 1.1 com protótipo visual concluído e reaberto para revisão e reorganização curricular antes da pilotagem.
 
 ### Estado operacional vigente
 
 O [[00 - Índice do Kit]] e o [[09 - Registro de Produção Visual e QA v1]] da Aula 1.1 governam o ponto atual:
 
-> Aula 1.1 aprovada para pilotagem controlada; inspeção visual direta do PowerPoint e checklist pré-piloto pendentes; ainda não aprovada para gravação ou primeira oferta.
+> Aula 1.1 em estado de protótipo revisável, reaberto para escrutínio e reorganização curricular antes de nova deliberação para pilotagem; não aprovada para gravação ou primeira oferta.
 
 ### Frentes vigentes e ponto de retomada
 
+**Portões encerrados:**
+
+> P2 aprovado integralmente e núcleo mínimo de P6 aprovado.
+
 **Frente curricular ativa:**
 
-> Deliberar [[P2 - Taxonomia Transversal dos Estatutos das Linguagens - Proposta v0.1]] e [[P6 - Protocolo Mestre de Seleção, Modulação e Encerramento de Práticas - Proposta v0.1]]; somente depois da aprovação registrar o fechamento dos portões.
+> Revisar e reorganizar a Aula 1.1 sob o Guia Mestre, P2 e o núcleo mínimo de P6, tratando o kit anterior como protótipo e matéria-prima.
 
-**Frente operacional pendente:**
+**Frente operacional futura:**
 
-> Preparar e executar a pilotagem controlada da Aula 1.1: inspeção visual direta do PowerPoint, checklist, logística, aplicação e registro.
+> Depois da reorganização, deliberar a nova versão antes de retomar inspeção, checklist, logística e pilotagem.
 
-P2 e P6 podem ser concluídos antes do piloto. A produção plena da Aula 1.2 — Do vivido à Tradução — somente será liberada após P2, P6 e a deliberação pós-piloto da Aula 1.1.
+A produção plena da Aula 1.2 — Do vivido à Tradução — permanece temporariamente condicionada à reorganização da Aula 1.1 e à definição autoral da sequência de pilotagem, além dos portões específicos aplicáveis.
 
 ### Regra de prevalência
 
@@ -963,9 +967,9 @@ ABBSP, TCC de Sincronia Neural, monografia de Psicologia Transpessoal, trabalhos
 
 A estrutura de 14 aulas permanece vigente como arquitetura de prototipagem. Sua densidade e genealogia são revistas pela matriz transversal. O Raio X permanece patrimônio histórico e banco de conteúdos, agora lido por capacidade, profundidade e destino curricular, sem voltar a governar como currículo automático.
 
-### Proteção da Aula 1.1
+### Estatuto revisional da Aula 1.1
 
-Esta reconciliação não altera seu kit nem seu estado operacional. O Índice e o Registro de QA da aula continuam prevalecendo: aprovada para pilotagem controlada; inspeção visual direta do PowerPoint e checklist pré-piloto pendentes; não aprovada para gravação ou primeira oferta.
+A reconciliação atual altera o estado operacional sem apagar o histórico do kit. O Índice e o Registro de QA permanecem fontes sobre o protótipo produzido, mas não impedem sua revisão. A aula deverá ser escrutinada e reorganizada antes de nova deliberação para pilotagem; continua não aprovada para gravação ou primeira oferta.
 
 
 ---
