@@ -5,7 +5,7 @@ curso: nome-provisorio
 modulo: 0
 status: ativo
 estado_maturidade: elaboracao-curricular-viva
-versao: "2.1"
+versao: "2.2"
 criado_em: 2026-07-21
 atualizado_em: 2026-07-26
 autor: Fabiano Deliberalli
@@ -33,7 +33,7 @@ A formulação atual distingue compreensão, acesso a capacidades e incorporaç�
 
 | Aula | Materiais existentes | Questões vivas | Estado |
 |---|---|---|---|
-| **0.1 — Da compreensão acumulada à competência incorporada** | acervo anterior preservado e roteiro atual organizado em sete Partes, com material do participante e ponte para a Aula 0.2 | avaliar extensão e ritmo; retirar repetições desnecessárias, sobretudo entre as Partes 6 e 7; verificar distribuição de slides e força do encerramento | leitura autoral integrada; não consolidada |
+| **0.1 — Da compreensão acumulada à competência incorporada** | acervo anterior preservado; roteiro atual organizado em sete Partes; proposta revisada das Partes 6 e 7 registrada separadamente | realizar leitura autoral da composição revisada; depois decidir se começa a leitura integrada das Partes 1–7 | proposta revisada em leitura autoral; não consolidada |
 | **0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança** | kit textual organizado e referências visuais | como apresentar o percurso sem rigidez; qual contrato formativo emerge da elaboração da 0.1 | no horizonte do módulo |
 
 ## Leitura consultiva já realizada
@@ -72,6 +72,19 @@ A conversa ocorre em linguagem natural. Códigos, portões, taxonomias e checkli
 - práticas serão revistas quanto a escolha, dosagem, alternativa e retorno antes da pilotagem;
 - a consolidação formal ocorrerá quando Fabiano reconhecer maturidade suficiente.
 
+## Elaboração curricular mais recente
+
+Em 26 de julho de 2026 foi registrada a nota [[Roteiro em Elaboração - Partes 6 e 7 - Aula 0.1]].
+
+A proposta:
+
+- preserva a Parte 6 como encerramento conceitual;
+- reserva à Parte 7 a integração experiencial e o encerramento da aula;
+- reutiliza a Primeira Cartografia, sem criar um segundo mapa concorrente;
+- concentra a ponte para a Aula 0.2 em um único momento;
+- mantém a atividade final facultativa, modulável e acompanhada de retorno protegido;
+- permanece em leitura autoral e não substitui o kit anterior.
+
 ## Nomenclatura aplicada
 
 A arquitetura do curso utiliza:
@@ -94,10 +107,11 @@ Os antigos Capítulos 1–7 da Aula 0.1 passam a ser denominados **Partes 1–7*
 
 ## Ponto de retomada
 
-> Realizar a leitura autoral integrada da Aula 0.1, começando pela relação entre as Partes 6 e 7: identificar repetições, ajustar o ritmo do encerramento e preservar uma passagem clara, breve e não antecipatória para a Aula 0.2.
+> Realizar a leitura autoral da proposta revisada das Partes 6 e 7 e decidir se a distribuição de funções, a atividade final e o encerramento representam o tom desejado. Depois dessa decisão, iniciar a leitura integrada das Partes 1–7, sem declarar a aula consolidada.
 
 ## Relações
 
+- [[Roteiro em Elaboração - Partes 6 e 7 - Aula 0.1]]
 - [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]]
 - [[Protocolo de Elaboração Curricular Viva e Continuidade Leve]]
 - [[00 - Modelo de Estado, Índice e Continuidade do Módulo]]
