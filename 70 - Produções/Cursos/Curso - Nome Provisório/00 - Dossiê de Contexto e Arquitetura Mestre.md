@@ -5,10 +5,10 @@ curso: nome-provisorio
 status: prototipagem-curricular-em-andamento
 estado_maturidade: arquitetura-integral-em-prototipagem
 fase_atual: "construção curricular sequencial — Módulo 0 ativo — Aula 0.1 como ponto de entrada"
-versao: "0.28"
+versao: "0.29"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-17
-atualizado_em: 2026-07-21
+atualizado_em: 2026-07-26
 documento_superior: Protocolo Operacional para Construção da Arquitetura de Cursos v1.0
 tags:
   - traduzindo-o-ser-humano
@@ -19,7 +19,7 @@ tags:
 
 # Dossiê de Contexto — Curso [nome provisório]
 
-**Versão:** 0.28  
+**Versão:** 0.29  
 **Estado de maturidade:** arquitetura integral em prototipagem  
 **Fases concluídas:** Fase 0 — Abertura e governança; Fase 1 — Gênese, identidade e problema humano  
 **Fase atual:** construção curricular sequencial; Módulo 0 ativo; Aula 0.1 como ponto de entrada
@@ -30,7 +30,7 @@ tags:
 
 - **Código do curso:** a definir;
 - **Nome atual:** Curso [nome provisório];
-- **Versão do Dossiê:** 0.28;
+- **Versão do Dossiê:** 0.29;
 - **Status documental:** documento evolutivo;
 - **Estado de maturidade:** arquitetura integral em prototipagem;
 - **Data de criação:** 2026-07-17;
@@ -44,6 +44,14 @@ tags:
 ### Regra de evolução
 
 Este documento deverá permanecer como **Dossiê de Contexto** durante as fases de concepção. Somente depois da validação integral da arquitetura poderá ser renomeado como **Arquitetura Mestre — Curso [nome aprovado]**.
+
+### Atualização do modo de elaboração — 26 de julho de 2026
+
+Por decisão autoral, a construção curricular passa a seguir o [[Protocolo de Elaboração Curricular Viva e Continuidade Leve]]. A arquitetura atual permanece como hipótese governante de prototipagem, mas não deve ser tratada como grade fechada nem como conjunto de decisões já concluídas.
+
+Na fase criativa, cada aula é território de investigação. Títulos, funções, sequências, mapas, práticas, autores e distribuição de conteúdos podem ser ampliados, reduzidos, combinados ou reposicionados. A auditoria formal e os checklists entram somente após sinalização de maturidade autoral ou antes da pilotagem. Códigos e taxonomias permanecem disponíveis nos bastidores e não devem ocupar a linguagem cotidiana da elaboração.
+
+A frente vigente é a Mesa de Trabalho da Aula 0.1. A auditoria preliminar realizada em 26 de julho de 2026 tem valor consultivo, não deliberativo.
 
 ### Atualização operacional — 21 de julho de 2026
 
