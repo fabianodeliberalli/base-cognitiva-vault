@@ -25,6 +25,20 @@ Os componentes abaixo formam a organização desejável de uma aula madura, conf
 
 Aplicar [[Protocolo de Elaboração Curricular Viva e Continuidade Leve]].
 
+## Nomenclatura da arquitetura curricular
+
+> **Curso → Módulo → Aula → Parte**
+
+- **Parte:** divisão pedagógica interna de uma aula;
+- **Vídeo:** recurso de gravação e entrega, sem equivalência estrutural obrigatória com uma Parte;
+- **Experiência** ou **Prática:** atividade proposta ao participante;
+- **Momento:** passagem interna de uma experiência ou prática;
+- **Slide, mapa, ficha, caderno e outros materiais:** recursos vinculados, não níveis curriculares.
+
+Uma Parte pode originar um ou mais vídeos, e Partes breves podem compartilhar o mesmo vídeo. Alterar a distribuição audiovisual não exige renumerar a arquitetura pedagógica.
+
+O termo **Capítulo** não deve ser utilizado para as divisões internas das aulas. Nos materiais anteriores, sua substituição por **Parte** não modifica o conteúdo nem o estado de maturidade do texto.
+
 ## Camada de estado e continuidade dos módulos
 
 A unidade conversacional de produção é o módulo; a memória oficial permanece no Obsidian/GitHub.
@@ -41,7 +55,7 @@ Modelo obrigatório: [[00 - Modelo de Estado, Índice e Continuidade do Módulo]
 
 | Aula | Estado | Ponto de entrada |
 |---|---|---|
-| Aula 0.1 | conteúdo anterior a organizar no padrão | [[Aula 0.1 - Índice do Kit]] |
+| Aula 0.1 — Da compreensão acumulada à competência incorporada | roteiro organizado em sete Partes; arco construído e em leitura autoral; ainda não consolidado nem aprovado para gravação | [[Aula 0.1 - Índice do Kit]] |
 | Aula 0.2 — Percurso do EIXO | kit documental organizado; apresentação visual produzida | [[Aula 0.2 - Índice do Kit]] |
 | Aula 1.1 — A experiência em sua multidimensionalidade | protótipo reaberto para revisão e reorganização curricular antes da pilotagem; P2 e P6 aprovados governam a revisão | [[Aula 1.1 - Índice do Kit]] |
 | Aula 1.2 — Do vivido à Tradução | P2 e núcleo mínimo de P6 fechados; produção plena aguarda reorganização da Aula 1.1 e definição autoral da sequência de pilotagem | [[Guia Mestre de Incorporação e Rastreabilidade Curricular]] |
@@ -80,7 +94,7 @@ Ver [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]] e [[01 - Protocolo 
 - **Arquitetura de trabalho:** Orquestração Curricular Mestre 03 + um chat ativo por módulo;
 - **Módulo ativo:** Módulo 0;
 - **Aula ativa:** 0.1 — Da compreensão acumulada à competência incorporada;
-- **procedimento imediato:** iniciar a Mesa de Trabalho da Aula 0.1, usando o conteúdo anterior e a auditoria preliminar como fontes consultivas;
+- **procedimento imediato:** realizar a leitura autoral integrada da Aula 0.1, começando pela relação entre as Partes 6 e 7, pelo ritmo do encerramento e pela passagem para a Aula 0.2;
 - **Aula 0.2:** permanece no horizonte do módulo e pode iluminar a elaboração da Aula 0.1, sem funcionar como bloqueio formal;
 - **Aula 1.1:** permanece protótipo revisável e será auditada no Módulo 1;
 - **P2:** aprovado integralmente;
