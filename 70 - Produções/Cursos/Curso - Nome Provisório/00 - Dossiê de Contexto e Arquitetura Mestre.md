@@ -5,7 +5,7 @@ curso: nome-provisorio
 status: prototipagem-curricular-em-andamento
 estado_maturidade: arquitetura-integral-em-prototipagem
 fase_atual: "construção curricular sequencial — Módulo 0 ativo — Aula 0.1 como ponto de entrada"
-versao: "0.30"
+versao: "0.31"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-17
 atualizado_em: 2026-07-26
@@ -19,7 +19,7 @@ tags:
 
 # Dossiê de Contexto — Curso [nome provisório]
 
-**Versão:** 0.30  
+**Versão:** 0.31  
 **Estado de maturidade:** arquitetura integral em prototipagem  
 **Fases concluídas:** Fase 0 — Abertura e governança; Fase 1 — Gênese, identidade e problema humano  
 **Fase atual:** construção curricular sequencial; Módulo 0 ativo; Aula 0.1 como ponto de entrada
@@ -30,7 +30,7 @@ tags:
 
 - **Código do curso:** a definir;
 - **Nome atual:** Curso [nome provisório];
-- **Versão do Dossiê:** 0.30;
+- **Versão do Dossiê:** 0.31;
 - **Status documental:** documento evolutivo;
 - **Estado de maturidade:** arquitetura integral em prototipagem;
 - **Data de criação:** 2026-07-17;
@@ -51,7 +51,7 @@ Por decisão autoral, a construção curricular passa a seguir o [[Protocolo de 
 
 Na fase criativa, cada aula é território de investigação. Títulos, funções, sequências, mapas, práticas, autores e distribuição de conteúdos podem ser ampliados, reduzidos, combinados ou reposicionados. A auditoria formal e os checklists entram somente após sinalização de maturidade autoral ou antes da pilotagem. Códigos e taxonomias permanecem disponíveis nos bastidores e não devem ocupar a linguagem cotidiana da elaboração.
 
-A frente vigente é a leitura autoral integrada da Aula 0.1. Seu roteiro encontra-se organizado em sete Partes e possui arco conceitual e experiencial construído, ainda sem consolidação ou aprovação para gravação. A auditoria preliminar realizada em 26 de julho de 2026 mantém valor consultivo, não deliberativo.
+A frente vigente é a leitura autoral integrada da Aula 0.1. Seu roteiro encontra-se organizado em sete Partes e possui arco conceitual e experiencial construído, ainda sem consolidação ou aprovação para gravação. A [[Auditoria de Procedência, Montagem e Leitura Autoral - Aula 0.1]] verificou que as Partes 6–7 possuem texto literal recente em v0.4, enquanto os textos literais recentes das Partes 1–5 ainda não estão sincronizados. A leitura estrutural e transversal foi concluída; a montagem integral certificada depende da incorporação fiel dessas Partes. A auditoria preliminar anterior mantém valor consultivo, não deliberativo.
 
 ### Atualização de nomenclatura curricular — 26 de julho de 2026
 
@@ -859,6 +859,7 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 
 | Versão | Data | Mudança | Motivo |
 |---|---|---|---|
+| 0.31 | 2026-07-26 | Registro da lacuna de procedência das Partes 1–5 e da montagem integral controlada antes de qualquer edição | Solicitação autoral e auditoria documental |
 | 0.28 | 2026-07-21 | Marcação explícita da antiga frente da Aula 1.1 como registro histórico superado | Auditoria de continuidade |
 | 0.27 | 2026-07-21 | Orquestração Mestre permanente, um chat por módulo, camada de Estado e Índice do Módulo e retomada pela Aula 0.1 | Deliberação autoral |
 | 0.26 | 2026-07-21 | Aprovação de P2 e do núcleo mínimo de P6; Aula 1.1 reclassificada como protótipo revisável e reaberta para reorganização antes do piloto | Deliberação autoral |
@@ -941,7 +942,7 @@ Esta seção prevalece sobre indicações antigas de próxima aula ou frente ati
 
 ### Frente curricular ativa e ponto de retomada
 
-> Módulo 0 ativo. Abrir seu chat, emitir o Relatório de Retomada e iniciar, após deliberação autoral, a auditoria curricular da Aula 0.1 — Da compreensão acumulada à competência incorporada.
+> Módulo 0 ativo. Recuperar do chat de elaboração os textos literais recentes das Partes 1–5, incorporá-los sem alteração a uma montagem com registro de procedência e confrontá-los com as Partes 6–7 v0.4. Apresentar a versão integral a Fabiano antes de qualquer edição do roteiro.
 
 A Aula 0.2 possui kit documental organizado e será auditada depois da Aula 0.1. A Aula 1.1 será retomada no Módulo 1 e submetida ao mesmo procedimento das demais aulas.
 
