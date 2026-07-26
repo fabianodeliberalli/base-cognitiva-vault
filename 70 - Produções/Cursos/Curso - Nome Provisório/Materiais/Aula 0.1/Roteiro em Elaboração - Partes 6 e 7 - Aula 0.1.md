@@ -9,7 +9,7 @@ escopo:
   - parte-7
 status: leitura-autoral
 estado_maturidade: proposta-revisada-nao-consolidada
-versao: "0.3"
+versao: "0.4"
 criado_em: 2026-07-26
 atualizado_em: 2026-07-26
 autor: Fabiano Deliberalli
@@ -610,10 +610,6 @@ Esta versão permanece em leitura autoral. A Aula 0.1 ainda não está consolida
 
 ## Próximo ponto de retomada
 
-Realizar leitura autoral desta composição e decidir:
+A avaliação composicional foi realizada e está registrada em [[Leitura Integrada em Elaboração - Arco das Partes 1 a 7 - Aula 0.1]].
 
-1. se a Parte 6 termina no ponto adequado;
-2. se a Parte 7 integra sem reensinar;
-3. se a atividade final está proporcional à aula;
-4. se a formulação de encerramento representa o tom desejado;
-5. se, após esses ajustes, deve começar a leitura integrada das Partes 1–7.
+> Reunir, sem reescrever, os textos integrais mais recentes das Partes 1–5. Em seguida, iniciar a leitura textual pela Parte 1, mantendo esta composição das Partes 6 e 7 como base de trabalho ainda não consolidada.
