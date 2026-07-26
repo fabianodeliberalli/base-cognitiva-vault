@@ -9,17 +9,21 @@ data: 2026-07-21
 
 > **Antes de usar este índice:** consultar [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]].
 
-## Convenção obrigatória de cada kit
+## Organização dos kits
 
-1. Ficha pedagógica
-2. Roteiro do educador
-3. Contrato e cuidados
-4. Ficha ou material do participante
-5. Exemplos e casos didáticos
-6. Mapas e imagens vinculados
-7. Storyboard e apresentação
-8. Critérios de pilotagem e revisão
-9. Registro pós-turma
+Os componentes abaixo formam a organização desejável de uma aula madura, conforme pertinência. Não constituem formulário obrigatório durante a exploração criativa.
+
+1. ficha pedagógica;
+2. roteiro do educador;
+3. contrato e cuidados;
+4. material do participante;
+5. exemplos e casos didáticos;
+6. mapas e imagens;
+7. storyboard e apresentação;
+8. critérios de pilotagem e revisão;
+9. registro pós-turma.
+
+Aplicar [[Protocolo de Elaboração Curricular Viva e Continuidade Leve]].
 
 ## Camada de estado e continuidade dos módulos
 
@@ -76,8 +80,8 @@ Ver [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]] e [[01 - Protocolo 
 - **Arquitetura de trabalho:** Orquestração Curricular Mestre 03 + um chat ativo por módulo;
 - **Módulo ativo:** Módulo 0;
 - **Aula ativa:** 0.1 — Da compreensão acumulada à competência incorporada;
-- **procedimento imediato:** localizar e auditar conteúdo anterior antes de produzir novo material;
-- **Aula 0.2:** aguarda a auditoria e o fechamento curricular da Aula 0.1;
+- **procedimento imediato:** iniciar a Mesa de Trabalho da Aula 0.1, usando o conteúdo anterior e a auditoria preliminar como fontes consultivas;
+- **Aula 0.2:** permanece no horizonte do módulo e pode iluminar a elaboração da Aula 0.1, sem funcionar como bloqueio formal;
 - **Aula 1.1:** permanece protótipo revisável e será auditada no Módulo 1;
 - **P2:** aprovado integralmente;
 - **P6:** núcleo mínimo aprovado.
