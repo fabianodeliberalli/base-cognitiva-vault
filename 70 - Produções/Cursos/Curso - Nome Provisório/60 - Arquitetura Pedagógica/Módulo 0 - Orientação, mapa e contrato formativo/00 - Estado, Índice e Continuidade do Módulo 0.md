@@ -5,7 +5,7 @@ curso: nome-provisorio
 modulo: 0
 status: ativo
 estado_maturidade: elaboracao-curricular-viva
-versao: "2.3"
+versao: "2.4"
 criado_em: 2026-07-21
 atualizado_em: 2026-07-26
 autor: Fabiano Deliberalli
@@ -33,7 +33,7 @@ A formulação atual distingue compreensão, acesso a capacidades e incorporaç�
 
 | Aula | Materiais existentes | Questões vivas | Estado |
 |---|---|---|---|
-| **0.1 — Da compreensão acumulada à competência incorporada** | acervo anterior preservado; roteiro atual organizado em sete Partes; Partes 6 e 7 revisadas; primeira leitura integrada do arco registrada | reunir sem reescrever os textos integrais mais recentes das Partes 1–5; iniciar leitura textual pela Parte 1 | arco estrutural coerente; leitura autoral em andamento; não consolidada |
+| **0.1 — Da compreensão acumulada à competência incorporada** | acervo anterior preservado; roteiro em sete Partes; Partes 6 e 7 em v0.4; leitura estrutural e auditoria de procedência registradas; índice vigente criado | recuperar e sincronizar, sem alteração, os textos literais recentes das Partes 1–5; depois emitir a montagem integral certificada para leitura de Fabiano | arco estrutural coerente; revisão textual parcial; lacuna de procedência nas Partes 1–5; não consolidada |
 | **0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança** | kit textual organizado e referências visuais | como apresentar o percurso sem rigidez; qual contrato formativo emerge da elaboração da 0.1 | no horizonte do módulo |
 
 ## Leitura consultiva já realizada
@@ -95,6 +95,8 @@ A leitura de conjunto concluiu que:
 - as Partes 1–5 não devem ser reconstruídas por aproximação: seus textos integrais mais recentes serão reunidos antes da edição frase a frase;
 - a aula continua em leitura autoral, sem consolidação ou autorização para gravação.
 
+Na mesma data, a [[Auditoria de Procedência, Montagem e Leitura Autoral - Aula 0.1]] verificou que o texto literal recente das Partes 1–5 ainda não está sincronizado no repositório. A leitura autoral estrutural e transversal foi realizada, mas a montagem integral certificada e a revisão frase a frase permanecem condicionadas à incorporação fiel desses textos. Foi criado o [[Aula 0.1 - Índice do Kit]] para reunir fontes vigentes, patrimônio histórico, conflitos e continuidade.
+
 ## Nomenclatura aplicada
 
 A arquitetura do curso utiliza:
@@ -115,13 +117,16 @@ Os antigos Capítulos 1–7 da Aula 0.1 passam a ser denominados **Partes 1–7*
 | 2026-07-26 | adotar Parte como divisão pedagógica interna das aulas e reservar Vídeo para a forma de entrega |
 | 2026-07-26 | reconhecer o roteiro da Aula 0.1 como organizado em sete Partes e pronto para leitura autoral integrada, sem declará-lo consolidado |
 | 2026-07-26 | manter a composição revisada das Partes 6 e 7 como base de trabalho e reconhecer o arco das Partes 1–7 como estruturalmente coerente |
+| 2026-07-26 | substituir o início automático da edição pela montagem integral controlada, leitura do conjunto e deliberação autoral antes de qualquer alteração do roteiro |
 
 ## Ponto de retomada
 
-> Reunir, sem reescrever, os textos integrais mais recentes das Partes 1–5 na mesma mesa de trabalho das Partes 6 e 7. Em seguida, iniciar a leitura textual pela Parte 1, preservando o problema humano de entrada e retirando apenas repetições que não produzam progressão.
+> Recuperar do chat de elaboração os textos literais mais recentes das Partes 1–5 e incorporá-los sem alteração a um arquivo de montagem com registro de procedência. Depois, confrontar esse arquivo com as Partes 6–7 v0.4 e emitir a versão integral para leitura de Fabiano. Nenhuma edição do roteiro deve ocorrer antes dessa leitura e da deliberação autoral.
 
 ## Relações
 
+- [[Aula 0.1 - Índice do Kit]]
+- [[Auditoria de Procedência, Montagem e Leitura Autoral - Aula 0.1]]
 - [[Roteiro em Elaboração - Partes 6 e 7 - Aula 0.1]]
 - [[Leitura Integrada em Elaboração - Arco das Partes 1 a 7 - Aula 0.1]]
 - [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]]
