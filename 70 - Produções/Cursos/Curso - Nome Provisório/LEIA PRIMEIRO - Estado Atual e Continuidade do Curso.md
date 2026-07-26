@@ -74,19 +74,19 @@ As decisões substantivas e os cuidados éticos permanecem protegidos. A documen
 
 ## Deliberações encerradas e arquitetura de trabalho vigente
 
-### Portões encerrados nesta etapa
+### Referências técnicas já definidas
 
 - **P2 — Taxonomia Transversal dos Estatutos das Linguagens:** aprovado integralmente;
 - **P6 — Seleção, Modulação e Encerramento de Práticas:** núcleo mínimo obrigatório aprovado;
-- as duas decisões governam todas as aulas novas ou revisadas.
+- os conteúdos dessas decisões permanecem disponíveis nos bastidores e são verificados na consolidação; suas siglas e fichas não precisam aparecer na conversa criativa.
 
 ### Arquitetura de chats
 
 - **Chat permanente de governança:** Curso — Orquestração Curricular Mestre 03;
 - **unidade conversacional de produção:** um chat ativo por módulo, aberto somente quando o módulo entrar em trabalho real;
 - **memória oficial:** documentos do Obsidian sincronizados neste repositório;
-- **ordem curricular:** Aula 0.1 → Aula 0.2 → auditoria do Módulo 0 → Aulas 1.1 e 1.2 → módulos seguintes;
-- **auditorias obrigatórias:** ao final de cada aula, de cada módulo e, ao final do percurso, das 14 aulas.
+- **ordem de foco:** Aula 0.1 → Aula 0.2 → síntese do Módulo 0 → Aulas 1.1 e 1.2 → módulos seguintes; conexões e revisões podem ocorrer sem funcionar como bloqueios formais;
+- **revisões de consolidação:** realizadas quando uma aula ou módulo alcançar maturidade autoral ou precisar ser preparado para pilotagem; não bloqueiam a exploração criativa.
 
 Este chat atual assume a função de **Orquestração Curricular Mestre 03**. Um novo chat mestre só deverá ser aberto quando este atingir limite operacional; a continuidade será recuperada por esta nota, pelo Protocolo e pelos índices, não pela memória conversacional.
 
@@ -165,7 +165,9 @@ Trechos históricos permanecem como memória evolutiva, mas não substituem seç
 - 7 módulos e 14 aulas como base da prototipagem atual;
 - estatuto da Aula 1.1 como protótipo revisável, sem proteção canônica e sujeito a escrutínio curricular normal.
 
-## Portões curriculares
+## Dependências para consolidação e pilotagem
+
+A tabela abaixo preserva questões técnicas e prazos de preparação. Ela não cria bloqueios para investigar, conversar, acrescentar perspectivas ou compor versões provisórias.
 
 | Portão | Estado resumido | Prazo |
 |---|---|---|
