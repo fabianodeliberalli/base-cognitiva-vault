@@ -3,7 +3,7 @@ tipo: porta-de-entrada-continuidadade
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "1.5"
+versao: "1.6"
 criado_em: 2026-07-21
 atualizado_em: 2026-07-26
 autor: Fabiano Deliberalli
@@ -106,7 +106,7 @@ Este chat atual assume a função de **Orquestração Curricular Mestre 03**. Um
 
 > Retomar o **Módulo 0** pela **leitura autoral integrada da Aula 0.1 — Da compreensão acumulada à competência incorporada**.
 
-O roteiro atual está organizado em **sete Partes**. Seu arco conceitual e experiencial foi construído, mas permanece em leitura autoral: ainda não foi consolidado nem aprovado para gravação. A revisão deve observar especialmente extensão, ritmo, repetições entre as Partes 6 e 7, distribuição dos slides e qualidade da passagem para a Aula 0.2.
+O roteiro atual está organizado em **sete Partes**. Seu arco conceitual e experiencial foi construído, mas permanece em leitura autoral: ainda não foi consolidado nem aprovado para gravação. As Partes 6 e 7 possuem texto literal recente em v0.4; os textos literais recentes das Partes 1–5 ainda não estão sincronizados no repositório. A [[Auditoria de Procedência, Montagem e Leitura Autoral - Aula 0.1]] concluiu a leitura estrutural, a revisão Parte por Parte e a avaliação transversal, preservando essa lacuna em vez de reconstruí-la.
 
 O conteúdo anterior e a auditoria preliminar continuam como fontes consultivas, não como decisões. A Aula 0.2 permanece no horizonte do módulo e pode iluminar o trabalho, sem funcionar como bloqueio ou grade rígida.
 
@@ -207,7 +207,7 @@ Não é necessário executar um ritual completo a cada conversa.
 
 ## Ponto exato de retomada
 
-> No chat **Curso — Módulo 0 — Orientação, mapa e contrato formativo**, realizar a **leitura autoral integrada da Aula 0.1**, agora organizada em sete Partes. Começar pela relação entre as Partes 6 e 7, verificando repetições, ritmo de encerramento e passagem para a Aula 0.2. Não emitir novo Relatório de Retomada nem declarar a aula consolidada antes da deliberação autoral.
+> No chat **Curso — Módulo 0 — Orientação, mapa e contrato formativo**, recuperar os textos literais mais recentes das Partes 1–5 e incorporá-los sem alteração a uma montagem com registro de procedência. Confrontar essa montagem com as Partes 6–7 v0.4 e apresentar a versão integral a Fabiano. Não editar o roteiro, não reconstruir lacunas e não declarar a aula consolidada antes da leitura e da deliberação autoral.
 
 ## Relações
 
@@ -224,4 +224,6 @@ Não é necessário executar um ritual completo a cada conversa.
 - [[00 - Índice Mestre dos Kits de Aula]]
 - [[00 - Modelo de Estado, Índice e Continuidade do Módulo]]
 - [[00 - Estado, Índice e Continuidade do Módulo 0]]
+- [[Aula 0.1 - Índice do Kit]]
+- [[Auditoria de Procedência, Montagem e Leitura Autoral - Aula 0.1]]
 - [[Prompts de Abertura - Orquestração Curricular Mestre e Módulo 0]]
