@@ -3,9 +3,9 @@ tipo: porta-de-entrada-continuidadade
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "1.3"
+versao: "1.4"
 criado_em: 2026-07-21
-atualizado_em: 2026-07-21
+atualizado_em: 2026-07-26
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 tags:
@@ -41,7 +41,15 @@ Esta nota não substitui os documentos mestres. Ela os organiza, declara sua aut
 - **Pasta:** `70 - Produções/Cursos/Curso - Nome Provisório`
 - **Regra:** toda consulta ao Obsidian deve ser feita pela versão sincronizada no GitHub antes de produzir, deliberar ou modificar.
 
-## Estado vigente em 21 de julho de 2026
+## Regra operacional vigente desde 26 de julho de 2026
+
+A construção do curso segue o [[Protocolo de Elaboração Curricular Viva e Continuidade Leve]].
+
+Na fase criativa, prevalecem linguagem natural, exploração progressiva, formas provisórias e liberdade de acrescentar, retirar ou reorganizar conteúdos. Relatórios de retomada, códigos, portões, pacotes de aprovação, auditorias antecipadas e checklists extensos não devem interromper a elaboração.
+
+As decisões substantivas e os cuidados éticos permanecem protegidos. A documentação formal entra em marcos naturais e na consolidação autoral, não como condição para começar a pensar.
+
+## Estado vigente em 26 de julho de 2026
 
 ### Curso
 
@@ -84,9 +92,9 @@ Este chat atual assume a função de **Orquestração Curricular Mestre 03**. Um
 
 ### Frente curricular ativa
 
-> Abrir o trabalho sequencial do **Módulo 0**, iniciando pela auditoria curricular da **Aula 0.1 — Da compreensão acumulada à competência incorporada**.
+> Retomar o **Módulo 0** pela **Mesa de Trabalho da Aula 0.1 — Da compreensão acumulada à competência incorporada**.
 
-A Aula 0.1 possui conteúdo anterior que deve ser localizado e auditado antes de qualquer reconstrução. A Aula 0.2 possui kit organizado, mas será auditada somente depois do encerramento curricular da Aula 0.1.
+O conteúdo anterior e a auditoria preliminar são fontes consultivas, não decisões. A identidade, a função, a sequência e a distribuição dos conteúdos da aula permanecem abertas à elaboração autoral. A Aula 0.2 continua no horizonte do módulo e pode iluminar o trabalho, sem funcionar como bloqueio ou grade rígida.
 
 ### Lugar da Aula 1.1
 
@@ -97,11 +105,10 @@ A Aula 1.1 permanece como protótipo revisável e será auditada quando o percur
 ### Para qualquer retomada
 
 1. esta nota;
-2. [[00 - Dossiê de Contexto e Arquitetura Mestre]];
-3. [[Guia Mestre de Incorporação e Rastreabilidade Curricular]];
-4. [[09 - Esqueleto Estrutural da Primeira Oferta Integral para Mentoria]];
-5. [[Registro Mestre de Formulações Estruturantes]];
-6. [[01 - Protocolo de Continuidade Integral e Abertura de Novos Chats]].
+2. [[Protocolo de Elaboração Curricular Viva e Continuidade Leve]];
+3. o Estado, Índice e Continuidade do módulo ativo.
+
+Os demais documentos são consultados conforme a pergunta e o conteúdo em elaboração. Não é necessária leitura integral automática de todo o acervo antes de iniciar a conversa.
 
 ### Para decisões metodológicas ou curriculares
 
@@ -171,27 +178,24 @@ Trechos históricos permanecem como memória evolutiva, mas não substituem seç
 | P7 — Acompanhamento | pendente de instrumento mínimo | antes da consolidação do Módulo 0 |
 | P8 — Estatuto da dimensão energética | direção curricular incorporada; redação canônica pendente | antes da Aula 2.1 |
 
-## Regra obrigatória ao encerrar qualquer sessão
+## Continuidade ao encerrar uma sessão
 
-Antes de declarar uma etapa concluída:
+Em um marco natural de trabalho:
 
-1. atualizar o documento diretamente trabalhado;
-2. atualizar o Índice do Kit e realizar a auditoria de encerramento da aula, quando aplicável;
-3. atualizar o Estado e Índice do Módulo;
-4. atualizar o Dossiê se o estado geral mudou;
-5. atualizar o Guia ou o Registro Mestre se uma formulação ou consequência curricular mudou;
-6. atualizar o Esqueleto ou o Índice Mestre se o currículo ou um kit mudou;
-7. registrar aprovações, pendências, impactos transversais, arquivos e Dívidas de Organização;
-8. atualizar nesta nota o estado e o ponto exato de retomada;
-9. sincronizar no GitHub/Obsidian e conferir os arquivos remotos;
-10. informar ao autor o que mudou e o que permanece aberto.
+1. preservar o que foi produzido ou modificado;
+2. registrar decisões reais, perguntas abertas e conexões relevantes;
+3. indicar em uma frase o ponto de retomada;
+4. atualizar documentos mestres apenas se o estado geral tiver mudado.
+
+Não é necessário executar um ritual completo a cada conversa.
 
 ## Ponto exato de retomada
 
-> No chat **Curso — Módulo 0 — Orientação, mapa e contrato formativo**, emitir o Relatório de Retomada do módulo e, após deliberação autoral, iniciar a auditoria curricular da **Aula 0.1 — Da compreensão acumulada à competência incorporada**. Localizar e classificar todo material anterior antes de produzir novo conteúdo; auditar função, capacidade, sequência, linguagens, prática, evidência, materiais e ponte para a Aula 0.2.
+> No chat **Curso — Módulo 0 — Orientação, mapa e contrato formativo**, iniciar diretamente a **Mesa de Trabalho da Aula 0.1**. Apresentar o que já existe, as ideias centrais, as relações possíveis, as perguntas abertas e um primeiro núcleo para elaboração conjunta. Não emitir novo Relatório de Retomada nem transformar a auditoria preliminar em decisão.
 
 ## Relações
 
+- [[Protocolo de Elaboração Curricular Viva e Continuidade Leve]]
 - [[P2 - Taxonomia Transversal dos Estatutos das Linguagens - Proposta v0.1]]
 - [[P6 - Protocolo Mestre de Seleção, Modulação e Encerramento de Práticas - Proposta v0.1]]
 - [[Registro Consolidado da Sessão - Governança e Arquitetura Curricular - 2026-07-21]]
