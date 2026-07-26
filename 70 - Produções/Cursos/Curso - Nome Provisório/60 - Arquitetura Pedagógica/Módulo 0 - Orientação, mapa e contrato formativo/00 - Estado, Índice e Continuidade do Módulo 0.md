@@ -5,7 +5,7 @@ curso: nome-provisorio
 modulo: 0
 status: ativo
 estado_maturidade: elaboracao-curricular-viva
-versao: "2.2"
+versao: "2.3"
 criado_em: 2026-07-21
 atualizado_em: 2026-07-26
 autor: Fabiano Deliberalli
@@ -33,7 +33,7 @@ A formulação atual distingue compreensão, acesso a capacidades e incorporaç�
 
 | Aula | Materiais existentes | Questões vivas | Estado |
 |---|---|---|---|
-| **0.1 — Da compreensão acumulada à competência incorporada** | acervo anterior preservado; roteiro atual organizado em sete Partes; proposta revisada das Partes 6 e 7 registrada separadamente | realizar leitura autoral da composição revisada; depois decidir se começa a leitura integrada das Partes 1–7 | proposta revisada em leitura autoral; não consolidada |
+| **0.1 — Da compreensão acumulada à competência incorporada** | acervo anterior preservado; roteiro atual organizado em sete Partes; Partes 6 e 7 revisadas; primeira leitura integrada do arco registrada | reunir sem reescrever os textos integrais mais recentes das Partes 1–5; iniciar leitura textual pela Parte 1 | arco estrutural coerente; leitura autoral em andamento; não consolidada |
 | **0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança** | kit textual organizado e referências visuais | como apresentar o percurso sem rigidez; qual contrato formativo emerge da elaboração da 0.1 | no horizonte do módulo |
 
 ## Leitura consultiva já realizada
@@ -85,6 +85,16 @@ A proposta:
 - mantém a atividade final facultativa, modulável e acompanhada de retorno protegido;
 - permanece em leitura autoral e não substitui o kit anterior.
 
+Ainda em 26 de julho de 2026 foi registrada a nota [[Leitura Integrada em Elaboração - Arco das Partes 1 a 7 - Aula 0.1]].
+
+A leitura de conjunto concluiu que:
+
+- o arco das sete Partes é coerente e não exige uma nova Parte;
+- as Partes 6 e 7 podem permanecer com funções distintas e complementares;
+- a passagem da Parte 5 para a Parte 6 é o principal ponto a proteger na futura revisão textual;
+- as Partes 1–5 não devem ser reconstruídas por aproximação: seus textos integrais mais recentes serão reunidos antes da edição frase a frase;
+- a aula continua em leitura autoral, sem consolidação ou autorização para gravação.
+
 ## Nomenclatura aplicada
 
 A arquitetura do curso utiliza:
@@ -104,14 +114,16 @@ Os antigos Capítulos 1–7 da Aula 0.1 passam a ser denominados **Partes 1–7*
 | 2026-07-26 | iniciar a próxima sessão diretamente pela Mesa de Trabalho da Aula 0.1 |
 | 2026-07-26 | adotar Parte como divisão pedagógica interna das aulas e reservar Vídeo para a forma de entrega |
 | 2026-07-26 | reconhecer o roteiro da Aula 0.1 como organizado em sete Partes e pronto para leitura autoral integrada, sem declará-lo consolidado |
+| 2026-07-26 | manter a composição revisada das Partes 6 e 7 como base de trabalho e reconhecer o arco das Partes 1–7 como estruturalmente coerente |
 
 ## Ponto de retomada
 
-> Realizar a leitura autoral da proposta revisada das Partes 6 e 7 e decidir se a distribuição de funções, a atividade final e o encerramento representam o tom desejado. Depois dessa decisão, iniciar a leitura integrada das Partes 1–7, sem declarar a aula consolidada.
+> Reunir, sem reescrever, os textos integrais mais recentes das Partes 1–5 na mesma mesa de trabalho das Partes 6 e 7. Em seguida, iniciar a leitura textual pela Parte 1, preservando o problema humano de entrada e retirando apenas repetições que não produzam progressão.
 
 ## Relações
 
 - [[Roteiro em Elaboração - Partes 6 e 7 - Aula 0.1]]
+- [[Leitura Integrada em Elaboração - Arco das Partes 1 a 7 - Aula 0.1]]
 - [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]]
 - [[Protocolo de Elaboração Curricular Viva e Continuidade Leve]]
 - [[00 - Modelo de Estado, Índice e Continuidade do Módulo]]
