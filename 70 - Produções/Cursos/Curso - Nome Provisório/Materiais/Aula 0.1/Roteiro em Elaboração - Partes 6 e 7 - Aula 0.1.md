@@ -9,7 +9,7 @@ escopo:
   - parte-7
 status: leitura-autoral
 estado_maturidade: proposta-revisada-nao-consolidada
-versao: "0.2"
+versao: "0.3"
 criado_em: 2026-07-26
 atualizado_em: 2026-07-26
 autor: Fabiano Deliberalli
@@ -244,7 +244,7 @@ Antes da atividade, informar que:
 - não é necessário retomar uma experiência intensa;
 - nenhuma resposta será compartilhada obrigatoriamente;
 - qualquer campo pode permanecer em branco;
-- a atividade pode ser pausada, abreviada ou ignorada;
+- a atividade pode ser pausada, abreviada ou apenas acompanhada, sem registro;
 - observar o ambiente e registrar apenas uma palavra é uma alternativa válida;
 - o encerramento incluirá retorno explícito ao presente.
 
@@ -403,11 +403,13 @@ A expressão “por enquanto” preserva a possibilidade de ampliar, revisar ou 
 
 ### Registro 3 — O que já está ou ainda não está disponível
 
-> Uma capacidade que já aparece em algumas condições é…
+> Algo que às vezes já consigo acessar — mesmo que por pouco tempo — é…
 
-> Uma condição em que essa capacidade fica menos disponível é…
+> Percebo que isso fica mais difícil quando…
 
-Não procurar causa definitiva. Registrar apenas o que pode ser reconhecido neste momento.
+Se nenhuma capacidade vier à mente, o participante pode registrar apenas algo que gostaria de reconhecer mais cedo.
+
+Não procurar causa definitiva. Registrar somente o que pode ser reconhecido neste momento.
 
 ### Registro 4 — A pergunta que permanece
 
@@ -451,9 +453,11 @@ Manter alguns instantes de silêncio antes de iniciar o encerramento da aula.
 
 ### 3. Disponibilidade
 
-**Uma capacidade que já aparece em algumas condições é:**
+**Algo que às vezes já consigo acessar — mesmo que por pouco tempo — é:**
 
-**Uma condição em que ela fica menos disponível é:**
+**Percebo que isso fica mais difícil quando:**
+
+**Se isso ainda não aparece com clareza, algo que gostaria de reconhecer mais cedo é:**
 
 ---
 
@@ -475,48 +479,29 @@ Abaixo:
 
 ### Fala nuclear
 
-“Talvez você tenha chegado a esta aula perguntando:
+“Talvez você tenha chegado a esta aula perguntando por que continua vivendo algo que já compreendeu, por que alguma coisa acontece antes que consiga explicá-la ou por que uma resposta conhecida não fica disponível quando precisa.
 
-> ‘Por que continuo vivendo isso se já compreendi tanta coisa?’
+Essas perguntas não precisam estar completamente respondidas.
 
-Ou:
+Talvez o que tenha mudado seja a precisão com que agora podemos formulá-las.
 
-> ‘Por que alguma coisa acontece em mim e eu não consigo explicar?’
-
-Ou ainda:
-
-> ‘Por que sei o que gostaria de fazer, mas não consigo quando preciso?’
-
-Essas perguntas não precisam ter sido completamente respondidas.
-
-Mas talvez agora possam ser formuladas de outra maneira.
-
-Quando algo acontece antes de encontrarmos compreensão suficiente, podemos perguntar:
+Quando ainda não existe compreensão suficiente, podemos perguntar:
 
 > ‘O que está se manifestando?’  
+> ‘O que aconteceu e o que já estou interpretando?’  
 > ‘Que palavras começam a se aproximar?’  
-> ‘O que estou interpretando?’  
 > ‘O que ainda não sei?’
 
 Quando já existe compreensão, mas ela não fica disponível durante a experiência, podemos perguntar:
 
 > ‘Que capacidade essa compreensão aponta?’  
-> ‘Em quais condições ela já aparece?’  
-> ‘O que reduz sua disponibilidade?’  
-> ‘Consigo perceber, retornar ou reparar de uma maneira que antes não conseguia?’
+> ‘Em quais condições ela já aparece, mesmo parcialmente?’  
+> ‘O que reduz seu acesso?’  
+> ‘O que ajuda a perceber, retornar ou reparar?’
 
-A mudança de pergunta não resolve automaticamente a experiência.
+A mudança de pergunta não resolve automaticamente a experiência e não retira responsabilidade pelos efeitos de nossas respostas.
 
-Mas pode modificar a maneira como nos relacionamos com ela.
-
-Em vez de concluir imediatamente que a repetição prova fracasso, defeito ou ausência de aprendizagem, começamos a investigar com mais precisão:
-
-- o que se manifesta;
-- como traduzimos;
-- que orientação reconhecemos;
-- o que conseguimos acessar;
-- o que ainda precisa ser desenvolvido;
-- e o que permanece aberto.”
+Ela apenas evita que toda dificuldade seja imediatamente interpretada como defeito, fracasso ou ausência de aprendizagem — e permite investigar com mais precisão o que se manifesta, como traduzimos, o que conseguimos acessar e o que ainda precisa ser desenvolvido.”
 
 ### Encerramento da Aula 0.1
 
