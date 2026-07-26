@@ -20,6 +20,8 @@ tags:
 
 # Guia Mestre de Incorporação e Rastreabilidade Curricular
 
+> **Modo de aplicação vigente desde 26/07/2026:** este Guia é instrumento de memória, consulta e consolidação. Não deve comandar a superfície da conversa criativa nem bloquear a exploração de uma aula. Durante a elaboração, códigos, portões, matrizes e checklists são usados apenas nos bastidores quando ajudarem. A aplicação formal ocorre quando Fabiano sinalizar maturidade da aula ou antes da pilotagem, conforme o [[Protocolo de Elaboração Curricular Viva e Continuidade Leve]].
+
 > **Entrada de continuidade:** consultar primeiro [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]] e o [[Registro Consolidado da Sessão - Governança e Arquitetura Curricular - 2026-07-21]].
 
 ## 1. Finalidade
@@ -488,7 +490,9 @@ O participante formula sua posição espiritual atual, inclusive religiosa, espi
 
 ---
 
-## 12. Critérios obrigatórios para a aprovação de cada aula
+## 12. Critérios de consolidação e preparação para pilotagem
+
+Os itens abaixo não constituem roteiro obrigatório da fase criativa. Eles são verificados depois que a aula ganha forma suficiente e Fabiano solicita consolidação ou preparação para pilotagem.
 
 Cada proposta de aula deve conter:
 
