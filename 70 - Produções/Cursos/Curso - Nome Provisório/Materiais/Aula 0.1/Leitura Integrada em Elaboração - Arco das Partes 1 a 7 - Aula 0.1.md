@@ -17,6 +17,15 @@ autoridade_de_aprovacao: Fabiano Deliberalli
 
 # Aula 0.1 — Primeira leitura integrada do arco das Partes 1–7
 
+## Nota de continuidade posterior — 26 de julho de 2026
+
+A [[Auditoria de Procedência, Montagem e Leitura Autoral - Aula 0.1]] identificou que os textos literais recentes das Partes 1–5 ainda não estão sincronizados no repositório. Por isso, o “Próximo ponto de retomada” registrado ao final deste documento permanece como histórico da primeira leitura e não governa mais a continuidade.
+
+Prevalece:
+
+> recuperar e incorporar sem alterações os textos literais recentes das Partes 1–5; emitir a montagem integral certificada com as Partes 6–7 v0.4; submetê-la à leitura e deliberação de Fabiano antes de qualquer edição.
+
+
 ## Estado deste texto
 
 Este documento registra uma primeira leitura de conjunto da Aula 0.1 — Da compreensão acumulada à competência incorporada.
