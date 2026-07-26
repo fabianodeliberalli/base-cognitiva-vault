@@ -5,7 +5,7 @@ curso: nome-provisorio
 status: prototipagem-curricular-em-andamento
 estado_maturidade: arquitetura-integral-em-prototipagem
 fase_atual: "construção curricular sequencial — Módulo 0 ativo — Aula 0.1 como ponto de entrada"
-versao: "0.29"
+versao: "0.30"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-17
 atualizado_em: 2026-07-26
@@ -19,7 +19,7 @@ tags:
 
 # Dossiê de Contexto — Curso [nome provisório]
 
-**Versão:** 0.29  
+**Versão:** 0.30  
 **Estado de maturidade:** arquitetura integral em prototipagem  
 **Fases concluídas:** Fase 0 — Abertura e governança; Fase 1 — Gênese, identidade e problema humano  
 **Fase atual:** construção curricular sequencial; Módulo 0 ativo; Aula 0.1 como ponto de entrada
@@ -30,7 +30,7 @@ tags:
 
 - **Código do curso:** a definir;
 - **Nome atual:** Curso [nome provisório];
-- **Versão do Dossiê:** 0.29;
+- **Versão do Dossiê:** 0.30;
 - **Status documental:** documento evolutivo;
 - **Estado de maturidade:** arquitetura integral em prototipagem;
 - **Data de criação:** 2026-07-17;
@@ -51,7 +51,17 @@ Por decisão autoral, a construção curricular passa a seguir o [[Protocolo de 
 
 Na fase criativa, cada aula é território de investigação. Títulos, funções, sequências, mapas, práticas, autores e distribuição de conteúdos podem ser ampliados, reduzidos, combinados ou reposicionados. A auditoria formal e os checklists entram somente após sinalização de maturidade autoral ou antes da pilotagem. Códigos e taxonomias permanecem disponíveis nos bastidores e não devem ocupar a linguagem cotidiana da elaboração.
 
-A frente vigente é a Mesa de Trabalho da Aula 0.1. A auditoria preliminar realizada em 26 de julho de 2026 tem valor consultivo, não deliberativo.
+A frente vigente é a leitura autoral integrada da Aula 0.1. Seu roteiro encontra-se organizado em sete Partes e possui arco conceitual e experiencial construído, ainda sem consolidação ou aprovação para gravação. A auditoria preliminar realizada em 26 de julho de 2026 mantém valor consultivo, não deliberativo.
+
+### Atualização de nomenclatura curricular — 26 de julho de 2026
+
+Por decisão autoral, a hierarquia de referência passa a ser:
+
+> **Curso → Módulo → Aula → Parte**
+
+**Parte** nomeia a divisão pedagógica interna da aula. **Vídeo** nomeia apenas uma forma de gravação e entrega, podendo corresponder a uma Parte, dividir uma Parte longa ou reunir Partes breves. Experiência ou Prática e seus Momentos internos permanecem categorias subordinadas de atividade; slides, mapas e materiais são recursos vinculados.
+
+O termo **Capítulo** deixa de nomear divisões internas das aulas. A substituição é terminológica e organizacional e deve ser aplicada aos roteiros na consolidação documental, sem modificar conteúdos nem conferir estatuto superior às versões em leitura autoral.
 
 ### Atualização operacional — 21 de julho de 2026
 
