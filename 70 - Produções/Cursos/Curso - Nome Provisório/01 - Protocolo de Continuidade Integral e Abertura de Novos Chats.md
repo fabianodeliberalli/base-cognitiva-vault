@@ -3,10 +3,10 @@ tipo: protocolo-de-continuidade-integral
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "1.6"
+versao: "1.7"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-21
-atualizado_em: 2026-07-21
+atualizado_em: 2026-07-26
 fonte_persistente: fabianodeliberalli/base-cognitiva-vault
 branch: main
 tags:
@@ -19,7 +19,9 @@ tags:
 
 # Protocolo de Continuidade Integral e Abertura de Novos Chats
 
-> **Entrada obrigatória:** iniciar por [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]]. Esta nota declara o estado vigente, a hierarquia documental e o ponto exato de retomada.
+> **Prevalência operacional desde 26/07/2026:** consultar [[Protocolo de Elaboração Curricular Viva e Continuidade Leve]]. Quando houver conflito sobre ritmo, relatórios, aprovações, códigos, portões, auditorias antecipadas, checklists ou carga de leitura, o protocolo mais recente prevalece. Este documento continua preservando identidade, memória, fontes e decisões substantivas.
+
+> **Entrada de continuidade:** iniciar por [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]].
 
 ## 1. Finalidade e garantia operacional
 
