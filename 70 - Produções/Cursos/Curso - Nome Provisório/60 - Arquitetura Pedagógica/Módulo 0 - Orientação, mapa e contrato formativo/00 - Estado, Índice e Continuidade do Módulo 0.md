@@ -5,7 +5,7 @@ curso: nome-provisorio
 modulo: 0
 status: ativo
 estado_maturidade: elaboracao-curricular-viva
-versao: "2.0"
+versao: "2.1"
 criado_em: 2026-07-21
 atualizado_em: 2026-07-26
 autor: Fabiano Deliberalli
@@ -33,7 +33,7 @@ A formulação atual distingue compreensão, acesso a capacidades e incorporaç�
 
 | Aula | Materiais existentes | Questões vivas | Estado |
 |---|---|---|---|
-| **0.1 — Da compreensão acumulada à competência incorporada** | protótipo anterior sobre Tradução da Experiência Humana, apresentação, roteiro, caderno, cartões, instrumento e mapa | qual é a identidade real da aula; como se relacionam compreensão, Tradução, multidimensionalidade, experiência e competência; o que deve ser introduzido, aprofundado ou deixado em aberto | Mesa de Trabalho |
+| **0.1 — Da compreensão acumulada à competência incorporada** | acervo anterior preservado e roteiro atual organizado em sete Partes, com material do participante e ponte para a Aula 0.2 | avaliar extensão e ritmo; retirar repetições desnecessárias, sobretudo entre as Partes 6 e 7; verificar distribuição de slides e força do encerramento | leitura autoral integrada; não consolidada |
 | **0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança** | kit textual organizado e referências visuais | como apresentar o percurso sem rigidez; qual contrato formativo emerge da elaboração da 0.1 | no horizonte do módulo |
 
 ## Leitura consultiva já realizada
@@ -72,6 +72,16 @@ A conversa ocorre em linguagem natural. Códigos, portões, taxonomias e checkli
 - práticas serão revistas quanto a escolha, dosagem, alternativa e retorno antes da pilotagem;
 - a consolidação formal ocorrerá quando Fabiano reconhecer maturidade suficiente.
 
+## Nomenclatura aplicada
+
+A arquitetura do curso utiliza:
+
+> **Curso → Módulo → Aula → Parte**
+
+Parte é uma unidade pedagógica interna da aula. Vídeo é uma forma de entrega e não precisa manter correspondência fixa com a Parte. Experiências ou Práticas podem conter Momentos; slides, mapas e materiais permanecem recursos vinculados.
+
+Os antigos Capítulos 1–7 da Aula 0.1 passam a ser denominados **Partes 1–7**, sem mudança de conteúdo ou estatuto.
+
 ## Decisões realmente tomadas
 
 | Data | Decisão |
@@ -79,10 +89,12 @@ A conversa ocorre em linguagem natural. Códigos, portões, taxonomias e checkli
 | 2026-07-26 | substituir o fluxo de auditoria precoce por elaboração curricular progressiva, viva e autoral |
 | 2026-07-26 | tratar a auditoria anterior da Aula 0.1 como leitura consultiva, não como pacote de decisões |
 | 2026-07-26 | iniciar a próxima sessão diretamente pela Mesa de Trabalho da Aula 0.1 |
+| 2026-07-26 | adotar Parte como divisão pedagógica interna das aulas e reservar Vídeo para a forma de entrega |
+| 2026-07-26 | reconhecer o roteiro da Aula 0.1 como organizado em sete Partes e pronto para leitura autoral integrada, sem declará-lo consolidado |
 
 ## Ponto de retomada
 
-> Iniciar a Mesa de Trabalho da Aula 0.1 apresentando, de forma clara e não deliberativa, o conteúdo já existente, suas ideias centrais, as relações possíveis com o título atual, as perguntas abertas e um primeiro núcleo de sentido para elaboração conjunta.
+> Realizar a leitura autoral integrada da Aula 0.1, começando pela relação entre as Partes 6 e 7: identificar repetições, ajustar o ritmo do encerramento e preservar uma passagem clara, breve e não antecipatória para a Aula 0.2.
 
 ## Relações
 
