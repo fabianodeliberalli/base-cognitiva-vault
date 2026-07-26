@@ -3,7 +3,7 @@ tipo: porta-de-entrada-continuidadade
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "1.4"
+versao: "1.5"
 criado_em: 2026-07-21
 atualizado_em: 2026-07-26
 autor: Fabiano Deliberalli
@@ -74,6 +74,18 @@ As decisões substantivas e os cuidados éticos permanecem protegidos. A documen
 
 ## Deliberações encerradas e arquitetura de trabalho vigente
 
+### Nomenclatura curricular adotada
+
+A arquitetura passa a utilizar a seguinte sequência:
+
+> **Curso → Módulo → Aula → Parte**
+
+**Parte** é a divisão pedagógica interna de uma aula. **Vídeo** é um recurso de gravação e entrega, não um nível curricular. Uma Parte pode originar um ou mais vídeos; duas Partes curtas também podem compartilhar um vídeo sem que a arquitetura da aula seja alterada.
+
+Experiências e práticas podem conter **Momentos** internos. Slides, mapas, cadernos e demais materiais permanecem recursos vinculados, não novos níveis da arquitetura.
+
+O termo **Capítulo** deixa de ser utilizado para as divisões internas das aulas. A mudança é terminológica e organizacional: não altera o conteúdo, o estatuto ou a maturidade dos textos já produzidos.
+
 ### Referências técnicas já definidas
 
 - **P2 — Taxonomia Transversal dos Estatutos das Linguagens:** aprovado integralmente;
@@ -92,9 +104,11 @@ Este chat atual assume a função de **Orquestração Curricular Mestre 03**. Um
 
 ### Frente curricular ativa
 
-> Retomar o **Módulo 0** pela **Mesa de Trabalho da Aula 0.1 — Da compreensão acumulada à competência incorporada**.
+> Retomar o **Módulo 0** pela **leitura autoral integrada da Aula 0.1 — Da compreensão acumulada à competência incorporada**.
 
-O conteúdo anterior e a auditoria preliminar são fontes consultivas, não decisões. A identidade, a função, a sequência e a distribuição dos conteúdos da aula permanecem abertas à elaboração autoral. A Aula 0.2 continua no horizonte do módulo e pode iluminar o trabalho, sem funcionar como bloqueio ou grade rígida.
+O roteiro atual está organizado em **sete Partes**. Seu arco conceitual e experiencial foi construído, mas permanece em leitura autoral: ainda não foi consolidado nem aprovado para gravação. A revisão deve observar especialmente extensão, ritmo, repetições entre as Partes 6 e 7, distribuição dos slides e qualidade da passagem para a Aula 0.2.
+
+O conteúdo anterior e a auditoria preliminar continuam como fontes consultivas, não como decisões. A Aula 0.2 permanece no horizonte do módulo e pode iluminar o trabalho, sem funcionar como bloqueio ou grade rígida.
 
 ### Lugar da Aula 1.1
 
@@ -193,7 +207,7 @@ Não é necessário executar um ritual completo a cada conversa.
 
 ## Ponto exato de retomada
 
-> No chat **Curso — Módulo 0 — Orientação, mapa e contrato formativo**, iniciar diretamente a **Mesa de Trabalho da Aula 0.1**. Apresentar o que já existe, as ideias centrais, as relações possíveis, as perguntas abertas e um primeiro núcleo para elaboração conjunta. Não emitir novo Relatório de Retomada nem transformar a auditoria preliminar em decisão.
+> No chat **Curso — Módulo 0 — Orientação, mapa e contrato formativo**, realizar a **leitura autoral integrada da Aula 0.1**, agora organizada em sete Partes. Começar pela relação entre as Partes 6 e 7, verificando repetições, ritmo de encerramento e passagem para a Aula 0.2. Não emitir novo Relatório de Retomada nem declarar a aula consolidada antes da deliberação autoral.
 
 ## Relações
 
