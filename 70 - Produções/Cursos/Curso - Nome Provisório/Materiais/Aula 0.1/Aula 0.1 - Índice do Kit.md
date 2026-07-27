@@ -5,10 +5,10 @@ curso: nome-provisorio
 modulo: 0
 aula: "0.1"
 status: ativo
-estado_maturidade: montagem-integrada-candidata-v0.2-em-leitura-autoral
-versao: "1.2"
+estado_maturidade: consolidada-v1.0-auditoria-de-encerramento-aberta
+versao: "1.3"
 criado_em: 2026-07-26
-atualizado_em: 2026-07-26
+atualizado_em: 2026-07-27
 autor_do_curso: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
@@ -17,9 +17,11 @@ autoridade_de_aprovacao: Fabiano Deliberalli
 
 ## Identidade
 
-- **Título curricular vigente:** Da compreensão acumulada à competência incorporada;
+- **Título aprovado:** Por que compreender ainda pode não ser suficiente?;
+- **Subtítulo aprovado:** Como começar a traduzir a própria experiência e transformar compreensão em capacidade.;
 - **Módulo:** 0 — Orientação, mapa e contrato formativo;
-- **Estado:** roteiro integral recuperado em revisão autoral Parte por Parte;
+- **Estado:** consolidada curricularmente em v1.0; auditoria de encerramento aberta;
+- **Slides:** 48 provisórios;
 - **Gravação:** não autorizada;
 - **Nomenclatura interna:** Partes 1–7.
 
@@ -189,6 +191,13 @@ Esses materiais podem informar a revisão, mas não constituem a versão curricu
 20. [[Auditoria de Encerramento - Aula 0.1]]
    - auditoria formal aberta após a consolidação curricular;
    - verifica coerência, práticas, duração, estatutos, fronteiras e pendências de entrega.
+
+## Registro de encerramento da sessão
+
+- [[Encerramento de Sessão - 2026-07-27 - Consolidação da Aula 0.1]]
+  - preserva o percurso integral da recuperação à consolidação v1.0;
+  - distingue decisões protegidas, pendências reais e fronteiras curriculares;
+  - fixa o ponto exato de retomada sem reabrir as propostas já aprovadas.
 
 ## Ponto de continuidade
 
