@@ -5,8 +5,8 @@ curso: nome-provisorio
 modulo: 0
 aula: "0.1"
 status: ativo
-estado_maturidade: leitura-autoral-com-lacuna-de-procedencia
-versao: "0.2"
+estado_maturidade: roteiro-integral-recuperado-em-leitura-autoral
+versao: "0.3"
 criado_em: 2026-07-26
 atualizado_em: 2026-07-26
 autor_do_curso: Fabiano Deliberalli
@@ -25,12 +25,13 @@ autoridade_de_aprovacao: Fabiano Deliberalli
 
 ## Estado documental
 
-O roteiro recente possui sete Partes, mas ainda não existe como um único arquivo integral certificado no repositório.
+A lacuna de procedência das Partes 1–5 foi resolvida em 26 de julho de 2026.
 
-- as Partes 6 e 7 possuem texto literal recente em arquivo próprio;
-- as Partes 1–5 possuem síntese estrutural no repositório, mas seus textos literais recentes permanecem no chat de elaboração;
-- o roteiro de 19 de julho permanece preservado como protótipo histórico;
-- nenhuma fonte deve ser usada para reconstruir silenciosamente o texto ausente.
+- a transcrição cronológica integral foi preservada como fonte primária;
+- as versões literais mais recentes identificáveis das Partes 1–5 foram reunidas sem reescrita;
+- as Partes 6–7 permanecem na proposta v0.4;
+- existe agora uma montagem integral das Partes 1–7 para leitura autoral;
+- essa montagem não constitui consolidação, aprovação para gravação nem autorização de edição.
 
 ## Síntese principal do trabalho atual
 
@@ -47,22 +48,32 @@ Este é o primeiro documento a consultar para compreender o estado humano, conce
 
 ## Documentos vigentes de trabalho e evidência
 
-2. [[Auditoria de Procedência, Montagem e Leitura Autoral - Aula 0.1]]
-   - inventário de fontes;
-   - conflitos de versão;
-   - leitura autoral do arco;
-   - revisão Parte por Parte;
-   - questões transversais;
-   - pauta para deliberação.
+2. [[Roteiro Integral Recuperado para Leitura Autoral - Aula 0.1]]
+   - primeira montagem completa das Partes 1–7;
+   - base atual para leitura autoral;
+   - não consolidada e não aprovada para gravação.
 
-3. [[Roteiro em Elaboração - Partes 6 e 7 - Aula 0.1]]
+3. [[Montagem Literal Mais Recente - Partes 1 a 5 - Aula 0.1]]
+   - últimas versões integrais identificáveis;
+   - redação preservada sem revisão.
+
+4. [[Matriz de Sucessão das Versões Recuperadas - Aula 0.1]]
+   - sucessão das versões;
+   - justificativa documental das seleções.
+
+5. [[Transcrição integral - Elaboração das Partes 1 a 5 - Aula 0.1]]
+   - fonte primária cronológica;
+   - inclui intervenções e versões substituídas.
+
+6. [[Roteiro em Elaboração - Partes 6 e 7 - Aula 0.1]]
    - texto literal v0.4;
-   - proposta em leitura autoral;
-   - não substitui o roteiro integral.
+   - proposta em leitura autoral.
 
-4. [[Leitura Integrada em Elaboração - Arco das Partes 1 a 7 - Aula 0.1]]
-   - síntese estrutural v0.1;
-   - não substitui os textos das Partes.
+7. [[Auditoria de Procedência, Montagem e Leitura Autoral - Aula 0.1]]
+   - auditoria anterior, agora complementada pela recuperação literal.
+
+8. [[Leitura Integrada em Elaboração - Arco das Partes 1 a 7 - Aula 0.1]]
+   - síntese estrutural anterior à recuperação.
 
 ## Patrimônio histórico preservado
 
@@ -79,31 +90,26 @@ Esses materiais podem informar a revisão, mas não constituem a versão curricu
 
 | Parte | Função atual | Disponibilidade textual no repositório |
 |---|---|---|
-| 1 | reconhecer o problema humano de entrada | síntese estrutural; texto literal recente pendente de sincronização |
-| 2 | diferenciar experiência, manifestação, palavra e interpretação | síntese estrutural; texto literal recente pendente de sincronização |
-| 3 | reconhecer pluralidade e limites dos mapas | síntese estrutural; texto literal recente pendente de sincronização |
-| 4 | aprender uma maneira cuidadosa de aproximação | síntese estrutural; texto literal recente pendente de sincronização |
-| 5 | construir a Primeira Cartografia da Experiência | síntese estrutural; texto literal recente pendente de sincronização |
+| 1 | reconhecer o problema humano de entrada | texto literal recuperado; leitura autoral |
+| 2 | diferenciar experiência, manifestação, palavra e interpretação | texto literal recuperado; leitura autoral |
+| 3 | reconhecer pluralidade e limites dos mapas | texto literal recuperado; leitura autoral |
+| 4 | aprender uma maneira cuidadosa de aproximação | texto literal recuperado; leitura autoral |
+| 5 | construir a Primeira Cartografia da Experiência | texto literal recuperado; leitura autoral |
 | 6 | distinguir saber, acesso e sabedoria prática; apresentar EIXO como capacidade | texto literal v0.4 |
 | 7 | integrar, retornar ao presente e abrir a Aula 0.2 | texto literal v0.4 |
 
 ## Regra de integridade
 
-Até que as Partes 1–5 sejam incorporadas:
-
-- não declarar que existe versão integral certificada;
-- não preencher trechos por aproximação;
-- não iniciar edição frase a frase;
-- não transformar sínteses em roteiro;
-- não declarar recomendações como decisões de Fabiano.
+- ler o roteiro integral antes de editar;
+- não apagar a transcrição nem as versões substituídas;
+- não tratar a seleção documental como aprovação autoral;
+- não fundir silenciosamente redações concorrentes;
+- registrar recomendações como recomendações;
+- manter a gravação não autorizada até deliberação de Fabiano.
 
 ## Ponto de continuidade
 
-> Recuperar do chat de elaboração os textos literais mais recentes das Partes 1–5 e incorporá-los sem alteração a um arquivo de montagem com registro de procedência. Depois, confrontar esse arquivo com as Partes 6–7 v0.4 e emitir a versão integral para leitura de Fabiano.
-
-Somente após essa leitura e a deliberação autoral poderão ocorrer edições do roteiro.
-
-Enquanto essa recuperação não for possível, a [[Aula 0.1 - Consolidação do Trabalho do Chat e Estado Atual]], o roteiro v0.4 das Partes 6–7 e a auditoria constituem a melhor representação do trabalho realizado.
+> Realizar a leitura autoral do [[Roteiro Integral Recuperado para Leitura Autoral - Aula 0.1]]. Depois, revisar a aula Parte por Parte e transversalmente, comparando-a com a lógica do curso e submetendo alterações substantivas à deliberação de Fabiano.
 
 ## Relações
 
