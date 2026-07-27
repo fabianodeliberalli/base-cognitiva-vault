@@ -5,7 +5,7 @@ curso: nome-provisorio
 modulo: 0
 status: ativo
 estado_maturidade: elaboracao-curricular-viva
-versao: "2.5"
+versao: "2.6"
 criado_em: 2026-07-21
 atualizado_em: 2026-07-26
 autor: Fabiano Deliberalli
@@ -33,7 +33,7 @@ A formulação atual distingue compreensão, acesso a capacidades e incorporaç�
 
 | Aula | Materiais existentes | Questões vivas | Estado |
 |---|---|---|---|
-| **0.1 — Da compreensão acumulada à competência incorporada** | transcrição integral preservada; Partes 1–5 recuperadas e montadas; Partes 6–7 em v0.4; roteiro integral 1–7 disponível | realizar leitura autoral integral; depois revisar Parte por Parte e transversalmente | roteiro integral recuperado; leitura autoral pendente; não consolidada |
+| **0.1 — Por que compreender ainda pode não ser suficiente?** | roteiro consolidado v1.0; sete Partes; quatro macroblocos; auditoria de encerramento aberta | concluir auditoria; depois preparar storyboard, leitura oral e piloto | consolidada curricularmente; 48 slides provisórios; gravação não autorizada |
 | **0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança** | kit textual organizado e referências visuais | como apresentar o percurso sem rigidez; qual contrato formativo emerge da elaboração da 0.1 | no horizonte do módulo |
 
 ## Leitura consultiva já realizada
@@ -119,9 +119,13 @@ Os antigos Capítulos 1–7 da Aula 0.1 passam a ser denominados **Partes 1–7*
 | 2026-07-26 | manter a composição revisada das Partes 6 e 7 como base de trabalho e reconhecer o arco das Partes 1–7 como estruturalmente coerente |
 | 2026-07-26 | substituir o início automático da edição pela montagem integral controlada, leitura do conjunto e deliberação autoral antes de qualquer alteração do roteiro |
 
+| 2026-07-26 | aprovar integralmente as recomendações 1–8 da Montagem Integrada Candidata v0.2 |
+| 2026-07-26 | consolidar a Aula 0.1 em v1.0, mantendo 48 slides provisórios e gravação não autorizada |
+| 2026-07-26 | abrir a auditoria de encerramento da Aula 0.1 |
+
 ## Ponto de retomada
 
-> Ler integralmente o [[Roteiro Integral Recuperado para Leitura Autoral - Aula 0.1]]. Em seguida, revisar Parte por Parte e transversalmente — linguagem, ritmo, densidade, repetições, mapas, transições e fronteiras com as aulas seguintes — sem converter recomendações em decisões de Fabiano.
+> Executar a [[Auditoria de Encerramento - Aula 0.1]] sobre o [[Roteiro Consolidado v1.0 - Partes 1 a 7 - Aula 0.1]]. Não avançar à Aula 0.2 antes do encerramento desta auditoria.
 
 ## Relações
 
