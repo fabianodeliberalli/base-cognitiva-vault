@@ -6,7 +6,7 @@ modulo: 0
 aula: "0.1"
 status: ativo
 estado_maturidade: roteiro-integral-recuperado-em-revisao-autoral
-versao: "1.0"
+versao: "1.1"
 criado_em: 2026-07-26
 atualizado_em: 2026-07-26
 autor_do_curso: Fabiano Deliberalli
@@ -33,6 +33,7 @@ A lacuna de procedência das Partes 1–5 foi resolvida em 26 de julho de 2026.
 - existe uma montagem integral das Partes 1–7 para leitura autoral;
 - a leitura integral e a pauta transversal foram registradas;
 - as revisões autorais propostas das Partes 1–7 foram abertas, sem substituição do roteiro-fonte;
+- a leitura transversal das sete propostas foi concluída e registrada;
 - nenhuma proposta de revisão constitui aprovação ou autorização de gravação.
 
 ## Síntese principal do trabalho atual
@@ -108,26 +109,33 @@ Este é o primeiro documento a consultar para compreender o estado humano, conce
    - proposta separada do roteiro recuperado;
    - leitura autoral pendente.
 
-11. [[Montagem Literal Mais Recente - Partes 1 a 5 - Aula 0.1]]
+11. [[Leitura Transversal das Propostas - Partes 1 a 7 - Aula 0.1]]
+   - síntese comparativa das sete propostas;
+   - duração transversal, repetições, transições e coerência das práticas;
+   - fronteiras com as Aulas 0.2, 1.1 e 1.2;
+   - recomendações para futura montagem integrada v0.2;
+   - leitura autoral pendente.
+
+12. [[Montagem Literal Mais Recente - Partes 1 a 5 - Aula 0.1]]
    - últimas versões integrais identificáveis;
    - redação preservada sem revisão.
 
-12. [[Matriz de Sucessão das Versões Recuperadas - Aula 0.1]]
+13. [[Matriz de Sucessão das Versões Recuperadas - Aula 0.1]]
    - sucessão das versões;
    - justificativa documental das seleções.
 
-13. [[Transcrição integral - Elaboração das Partes 1 a 5 - Aula 0.1]]
+14. [[Transcrição integral - Elaboração das Partes 1 a 5 - Aula 0.1]]
    - fonte primária cronológica;
    - inclui intervenções e versões substituídas.
 
-14. [[Roteiro em Elaboração - Partes 6 e 7 - Aula 0.1]]
+15. [[Roteiro em Elaboração - Partes 6 e 7 - Aula 0.1]]
    - texto literal v0.4;
    - proposta em leitura autoral.
 
-15. [[Auditoria de Procedência, Montagem e Leitura Autoral - Aula 0.1]]
+16. [[Auditoria de Procedência, Montagem e Leitura Autoral - Aula 0.1]]
    - auditoria anterior, agora complementada pela recuperação literal.
 
-16. [[Leitura Integrada em Elaboração - Arco das Partes 1 a 7 - Aula 0.1]]
+17. [[Leitura Integrada em Elaboração - Arco das Partes 1 a 7 - Aula 0.1]]
    - síntese estrutural anterior à recuperação.
 
 ## Patrimônio histórico preservado
@@ -165,7 +173,7 @@ Esses materiais podem informar a revisão, mas não constituem a versão curricu
 
 ## Ponto de continuidade
 
-> Manter as propostas das Partes 1–7 como candidatas não aprovadas e realizar a leitura transversal do arco completo, sem alterar o roteiro-fonte. A próxima etapa é preparar uma síntese comparativa das decisões propostas, das repetições remanescentes, da duração estimada e das fronteiras com as Aulas 0.2, 1.1 e 1.2 antes de qualquer consolidação.
+> Manter as propostas das Partes 1–7 e a leitura transversal como candidatas não aprovadas. A próxima etapa recomendada é preparar uma Montagem Integrada Candidata v0.2 das Partes 1–7, com transições uniformizadas, duração controlada, conteúdos complementares sinalizados e rastreabilidade integral com o roteiro recuperado, sem autorização de gravação.
 
 ## Relações
 
