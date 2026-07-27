@@ -118,7 +118,6 @@ Os antigos Capítulos 1–7 da Aula 0.1 passam a ser denominados **Partes 1–7*
 | 2026-07-26 | reconhecer o roteiro da Aula 0.1 como organizado em sete Partes e pronto para leitura autoral integrada, sem declará-lo consolidado |
 | 2026-07-26 | manter a composição revisada das Partes 6 e 7 como base de trabalho e reconhecer o arco das Partes 1–7 como estruturalmente coerente |
 | 2026-07-26 | substituir o início automático da edição pela montagem integral controlada, leitura do conjunto e deliberação autoral antes de qualquer alteração do roteiro |
-
 | 2026-07-26 | aprovar integralmente as recomendações 1–8 da Montagem Integrada Candidata v0.2 |
 | 2026-07-26 | consolidar a Aula 0.1 em v1.0, mantendo 48 slides provisórios e gravação não autorizada |
 | 2026-07-26 | abrir a auditoria de encerramento da Aula 0.1 |
