@@ -6,7 +6,7 @@ modulo: 0
 aula: "0.1"
 status: ativo
 estado_maturidade: roteiro-integral-recuperado-em-revisao-autoral
-versao: "0.7"
+versao: "0.8"
 criado_em: 2026-07-26
 atualizado_em: 2026-07-26
 autor_do_curso: Fabiano Deliberalli
@@ -32,7 +32,7 @@ A lacuna de procedência das Partes 1–5 foi resolvida em 26 de julho de 2026.
 - as Partes 6–7 permanecem na proposta v0.4;
 - existe uma montagem integral das Partes 1–7 para leitura autoral;
 - a leitura integral e a pauta transversal foram registradas;
-- as revisões autorais propostas das Partes 1, 2, 3 e 4 foram abertas, sem substituição do roteiro-fonte;
+- as revisões autorais propostas das Partes 1, 2, 3, 4 e 5 foram abertas, sem substituição do roteiro-fonte;
 - nenhuma proposta de revisão constitui aprovação ou autorização de gravação.
 
 ## Síntese principal do trabalho atual
@@ -86,26 +86,34 @@ Este é o primeiro documento a consultar para compreender o estado humano, conce
    - proposta separada do roteiro recuperado;
    - leitura autoral pendente.
 
-8. [[Montagem Literal Mais Recente - Partes 1 a 5 - Aula 0.1]]
+8. [[Revisão Autoral Proposta - Parte 5 - Aula 0.1]]
+   - revisão conservadora da Primeira Cartografia;
+   - preservação dos nove slides, quatro territórios e pergunta transversal;
+   - prática condensada em cinco movimentos;
+   - proteção das fronteiras com as Aulas 1.1 e 1.2;
+   - proposta separada do roteiro recuperado;
+   - leitura autoral pendente.
+
+9. [[Montagem Literal Mais Recente - Partes 1 a 5 - Aula 0.1]]
    - últimas versões integrais identificáveis;
    - redação preservada sem revisão.
 
-9. [[Matriz de Sucessão das Versões Recuperadas - Aula 0.1]]
+10. [[Matriz de Sucessão das Versões Recuperadas - Aula 0.1]]
    - sucessão das versões;
    - justificativa documental das seleções.
 
-10. [[Transcrição integral - Elaboração das Partes 1 a 5 - Aula 0.1]]
+11. [[Transcrição integral - Elaboração das Partes 1 a 5 - Aula 0.1]]
    - fonte primária cronológica;
    - inclui intervenções e versões substituídas.
 
-11. [[Roteiro em Elaboração - Partes 6 e 7 - Aula 0.1]]
+12. [[Roteiro em Elaboração - Partes 6 e 7 - Aula 0.1]]
    - texto literal v0.4;
    - proposta em leitura autoral.
 
-12. [[Auditoria de Procedência, Montagem e Leitura Autoral - Aula 0.1]]
+13. [[Auditoria de Procedência, Montagem e Leitura Autoral - Aula 0.1]]
    - auditoria anterior, agora complementada pela recuperação literal.
 
-13. [[Leitura Integrada em Elaboração - Arco das Partes 1 a 7 - Aula 0.1]]
+14. [[Leitura Integrada em Elaboração - Arco das Partes 1 a 7 - Aula 0.1]]
    - síntese estrutural anterior à recuperação.
 
 ## Patrimônio histórico preservado
@@ -127,7 +135,7 @@ Esses materiais podem informar a revisão, mas não constituem a versão curricu
 | 2 | concretizar a distância entre compreensão e disponibilidade pelo caso de Lívian | proposta de revisão v0.1 registrada; aguarda leitura autoral |
 | 3 | reconhecer pluralidade e limites dos mapas | proposta de revisão v0.1 registrada; aguarda leitura autoral |
 | 4 | aprender uma maneira cuidadosa de aproximação | proposta de revisão v0.1 registrada; aguarda leitura autoral |
-| 5 | construir a Primeira Cartografia da Experiência | texto literal recuperado; leitura autoral pendente |
+| 5 | construir a Primeira Cartografia da Experiência | proposta de revisão v0.1 registrada; aguarda leitura autoral |
 | 6 | distinguir saber, acesso e sabedoria prática; apresentar EIXO como capacidade | texto literal v0.4; leitura autoral pendente |
 | 7 | integrar, retornar ao presente e abrir a Aula 0.2 | texto literal v0.4; leitura autoral pendente |
 
@@ -143,7 +151,7 @@ Esses materiais podem informar a revisão, mas não constituem a versão curricu
 
 ## Ponto de continuidade
 
-> Manter as propostas das Partes 1–4 como candidatas não aprovadas e prosseguir pela revisão autoral da Parte 5, sem alterar o roteiro-fonte. A consolidação ocorrerá após a leitura autoral do arco completo.
+> Manter as propostas das Partes 1–5 como candidatas não aprovadas e prosseguir pela revisão autoral da Parte 6, sem alterar o roteiro-fonte. A consolidação ocorrerá após a leitura autoral do arco completo.
 
 ## Relações
 
