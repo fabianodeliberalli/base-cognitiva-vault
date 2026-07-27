@@ -6,7 +6,7 @@ modulo: 0
 aula: "0.1"
 status: ativo
 estado_maturidade: leitura-autoral-com-lacuna-de-procedencia
-versao: "0.1"
+versao: "0.2"
 criado_em: 2026-07-26
 atualizado_em: 2026-07-26
 autor_do_curso: Fabiano Deliberalli
@@ -32,9 +32,22 @@ O roteiro recente possui sete Partes, mas ainda não existe como um único arqui
 - o roteiro de 19 de julho permanece preservado como protótipo histórico;
 - nenhuma fonte deve ser usada para reconstruir silenciosamente o texto ausente.
 
-## Documentos vigentes de trabalho
+## Síntese principal do trabalho atual
 
-1. [[Auditoria de Procedência, Montagem e Leitura Autoral - Aula 0.1]]
+1. [[Aula 0.1 - Consolidação do Trabalho do Chat e Estado Atual]]
+   - resultado congruente e atualizado do trabalho do chat;
+   - arquitetura das sete Partes;
+   - progressão pedagógica;
+   - formulações centrais;
+   - decisões autorais reais;
+   - avaliações ainda abertas;
+   - estado documental e melhor ponto de continuidade.
+
+Este é o primeiro documento a consultar para compreender o estado humano, conceitual e pedagógico da aula. Ele não substitui os roteiros literais nem constitui aprovação autoral do conjunto.
+
+## Documentos vigentes de trabalho e evidência
+
+2. [[Auditoria de Procedência, Montagem e Leitura Autoral - Aula 0.1]]
    - inventário de fontes;
    - conflitos de versão;
    - leitura autoral do arco;
@@ -42,12 +55,12 @@ O roteiro recente possui sete Partes, mas ainda não existe como um único arqui
    - questões transversais;
    - pauta para deliberação.
 
-2. [[Roteiro em Elaboração - Partes 6 e 7 - Aula 0.1]]
+3. [[Roteiro em Elaboração - Partes 6 e 7 - Aula 0.1]]
    - texto literal v0.4;
    - proposta em leitura autoral;
    - não substitui o roteiro integral.
 
-3. [[Leitura Integrada em Elaboração - Arco das Partes 1 a 7 - Aula 0.1]]
+4. [[Leitura Integrada em Elaboração - Arco das Partes 1 a 7 - Aula 0.1]]
    - síntese estrutural v0.1;
    - não substitui os textos das Partes.
 
@@ -90,6 +103,8 @@ Até que as Partes 1–5 sejam incorporadas:
 
 Somente após essa leitura e a deliberação autoral poderão ocorrer edições do roteiro.
 
+Enquanto essa recuperação não for possível, a [[Aula 0.1 - Consolidação do Trabalho do Chat e Estado Atual]], o roteiro v0.4 das Partes 6–7 e a auditoria constituem a melhor representação do trabalho realizado.
+
 ## Relações
 
 - [[00 - Estado, Índice e Continuidade do Módulo 0]];
@@ -100,4 +115,3 @@ Somente após essa leitura e a deliberação autoral poderão ocorrer edições 
 - [[09 - Esqueleto Estrutural da Primeira Oferta Integral para Mentoria]];
 - [[Guia Mestre de Incorporação e Rastreabilidade Curricular]];
 - [[Registro Mestre de Formulações Estruturantes]].
-
