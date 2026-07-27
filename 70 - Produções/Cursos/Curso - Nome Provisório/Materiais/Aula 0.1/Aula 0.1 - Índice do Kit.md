@@ -5,8 +5,8 @@ curso: nome-provisorio
 modulo: 0
 aula: "0.1"
 status: ativo
-estado_maturidade: roteiro-integral-recuperado-em-leitura-autoral
-versao: "0.3"
+estado_maturidade: roteiro-integral-recuperado-em-revisao-autoral
+versao: "0.4"
 criado_em: 2026-07-26
 atualizado_em: 2026-07-26
 autor_do_curso: Fabiano Deliberalli
@@ -19,7 +19,7 @@ autoridade_de_aprovacao: Fabiano Deliberalli
 
 - **Título curricular vigente:** Da compreensão acumulada à competência incorporada;
 - **Módulo:** 0 — Orientação, mapa e contrato formativo;
-- **Estado:** arco estrutural em leitura autoral;
+- **Estado:** roteiro integral recuperado em revisão autoral Parte por Parte;
 - **Gravação:** não autorizada;
 - **Nomenclatura interna:** Partes 1–7.
 
@@ -30,8 +30,10 @@ A lacuna de procedência das Partes 1–5 foi resolvida em 26 de julho de 2026.
 - a transcrição cronológica integral foi preservada como fonte primária;
 - as versões literais mais recentes identificáveis das Partes 1–5 foram reunidas sem reescrita;
 - as Partes 6–7 permanecem na proposta v0.4;
-- existe agora uma montagem integral das Partes 1–7 para leitura autoral;
-- essa montagem não constitui consolidação, aprovação para gravação nem autorização de edição.
+- existe uma montagem integral das Partes 1–7 para leitura autoral;
+- a leitura integral e a pauta transversal foram registradas;
+- a revisão autoral proposta da Parte 1 foi aberta, sem substituição do roteiro-fonte;
+- nenhuma proposta de revisão constitui aprovação ou autorização de gravação.
 
 ## Síntese principal do trabalho atual
 
@@ -53,26 +55,37 @@ Este é o primeiro documento a consultar para compreender o estado humano, conce
    - base atual para leitura autoral;
    - não consolidada e não aprovada para gravação.
 
-3. [[Montagem Literal Mais Recente - Partes 1 a 5 - Aula 0.1]]
+3. [[Leitura Integral e Pauta de Revisão Autoral - Aula 0.1]]
+   - diagnóstico transversal do roteiro completo;
+   - avaliação de densidade, ritmo, repetição e fronteiras curriculares;
+   - pauta de revisão sem aplicação de cortes.
+
+4. [[Revisão Autoral Proposta - Parte 1 - Aula 0.1]]
+   - revisão comparativa da Parte 1;
+   - classificação preservar, ajustar e reposicionar;
+   - proposta revisada separada do roteiro recuperado;
+   - deliberações que permanecem com Fabiano.
+
+5. [[Montagem Literal Mais Recente - Partes 1 a 5 - Aula 0.1]]
    - últimas versões integrais identificáveis;
    - redação preservada sem revisão.
 
-4. [[Matriz de Sucessão das Versões Recuperadas - Aula 0.1]]
+6. [[Matriz de Sucessão das Versões Recuperadas - Aula 0.1]]
    - sucessão das versões;
    - justificativa documental das seleções.
 
-5. [[Transcrição integral - Elaboração das Partes 1 a 5 - Aula 0.1]]
+7. [[Transcrição integral - Elaboração das Partes 1 a 5 - Aula 0.1]]
    - fonte primária cronológica;
    - inclui intervenções e versões substituídas.
 
-6. [[Roteiro em Elaboração - Partes 6 e 7 - Aula 0.1]]
+8. [[Roteiro em Elaboração - Partes 6 e 7 - Aula 0.1]]
    - texto literal v0.4;
    - proposta em leitura autoral.
 
-7. [[Auditoria de Procedência, Montagem e Leitura Autoral - Aula 0.1]]
+9. [[Auditoria de Procedência, Montagem e Leitura Autoral - Aula 0.1]]
    - auditoria anterior, agora complementada pela recuperação literal.
 
-8. [[Leitura Integrada em Elaboração - Arco das Partes 1 a 7 - Aula 0.1]]
+10. [[Leitura Integrada em Elaboração - Arco das Partes 1 a 7 - Aula 0.1]]
    - síntese estrutural anterior à recuperação.
 
 ## Patrimônio histórico preservado
@@ -88,15 +101,15 @@ Esses materiais podem informar a revisão, mas não constituem a versão curricu
 
 ## Estrutura recente documentada
 
-| Parte | Função atual | Disponibilidade textual no repositório |
+| Parte | Função atual | Estado de revisão |
 |---|---|---|
-| 1 | reconhecer o problema humano de entrada | texto literal recuperado; leitura autoral |
-| 2 | diferenciar experiência, manifestação, palavra e interpretação | texto literal recuperado; leitura autoral |
-| 3 | reconhecer pluralidade e limites dos mapas | texto literal recuperado; leitura autoral |
-| 4 | aprender uma maneira cuidadosa de aproximação | texto literal recuperado; leitura autoral |
-| 5 | construir a Primeira Cartografia da Experiência | texto literal recuperado; leitura autoral |
-| 6 | distinguir saber, acesso e sabedoria prática; apresentar EIXO como capacidade | texto literal v0.4 |
-| 7 | integrar, retornar ao presente e abrir a Aula 0.2 | texto literal v0.4 |
+| 1 | reconhecer o problema humano de entrada | proposta de revisão v0.1 registrada; aguarda deliberação autoral |
+| 2 | diferenciar experiência, manifestação, palavra e interpretação | texto literal recuperado; leitura autoral pendente |
+| 3 | reconhecer pluralidade e limites dos mapas | texto literal recuperado; leitura autoral pendente |
+| 4 | aprender uma maneira cuidadosa de aproximação | texto literal recuperado; leitura autoral pendente |
+| 5 | construir a Primeira Cartografia da Experiência | texto literal recuperado; leitura autoral pendente |
+| 6 | distinguir saber, acesso e sabedoria prática; apresentar EIXO como capacidade | texto literal v0.4; leitura autoral pendente |
+| 7 | integrar, retornar ao presente e abrir a Aula 0.2 | texto literal v0.4; leitura autoral pendente |
 
 ## Regra de integridade
 
@@ -105,11 +118,12 @@ Esses materiais podem informar a revisão, mas não constituem a versão curricu
 - não tratar a seleção documental como aprovação autoral;
 - não fundir silenciosamente redações concorrentes;
 - registrar recomendações como recomendações;
+- manter cada proposta revisada separada do roteiro-fonte até deliberação;
 - manter a gravação não autorizada até deliberação de Fabiano.
 
 ## Ponto de continuidade
 
-> Realizar a leitura autoral do [[Roteiro Integral Recuperado para Leitura Autoral - Aula 0.1]]. Depois, revisar a aula Parte por Parte e transversalmente, comparando-a com a lógica do curso e submetendo alterações substantivas à deliberação de Fabiano.
+> Deliberar sobre a [[Revisão Autoral Proposta - Parte 1 - Aula 0.1]]. Depois, consolidar a Parte 1 ou ajustá-la segundo a leitura de Fabiano e avançar para a revisão autoral da Parte 2, preservando a avaliação transversal do conjunto.
 
 ## Relações
 
