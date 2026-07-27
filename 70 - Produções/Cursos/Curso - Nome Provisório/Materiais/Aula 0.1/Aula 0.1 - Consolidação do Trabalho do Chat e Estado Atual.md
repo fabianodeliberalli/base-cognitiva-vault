@@ -5,8 +5,8 @@ curso: nome-provisorio
 modulo: 0
 aula: "0.1"
 status: vigente-como-sintese-de-trabalho
-estado_maturidade: melhor-versao-documental-disponivel-com-lacuna-de-procedencia
-versao: "1.0"
+estado_maturidade: roteiro-integral-recuperado-em-leitura-autoral
+versao: "1.1"
 criado_em: 2026-07-26
 atualizado_em: 2026-07-26
 autor_do_curso: Fabiano Deliberalli
@@ -297,30 +297,26 @@ Nenhuma recomendação do assistente deve aparecer em outro documento como decis
 
 ## Estado documental e procedência
 
-### Fontes literais disponíveis
+A lacuna documental das Partes 1–5 foi resolvida em 26 de julho de 2026 pela recuperação literal da conversa compartilhada.
 
-- **Partes 6 e 7:** texto literal recente, versão 0.4;
-- **Partes 1–5:** sínteses estruturais recentes disponíveis;
-- **Aula integral de 19 de julho:** protótipo histórico preservado;
-- **arco 1–7:** leitura estrutural e transversal registrada;
-- **auditoria:** procedência, conflitos, revisão por Parte e questões transversais registradas.
+### Fontes agora disponíveis
 
-### Lacuna única que permanece
+- [[Transcrição integral - Elaboração das Partes 1 a 5 - Aula 0.1]] — fonte primária cronológica, com intervenções e versões substituídas;
+- [[Montagem Literal Mais Recente - Partes 1 a 5 - Aula 0.1]] — últimas versões integrais identificáveis, sem reescrita;
+- [[Matriz de Sucessão das Versões Recuperadas - Aula 0.1]] — justificativa da sucessão documental;
+- [[Roteiro Integral Recuperado para Leitura Autoral - Aula 0.1]] — montagem das Partes 1–5 recuperadas com as Partes 6–7 v0.4;
+- [[Roteiro em Elaboração - Partes 6 e 7 - Aula 0.1]] — fonte da proposta v0.4;
+- protótipo integral de 19 de julho — patrimônio histórico.
 
-Os textos literais mais recentes das Partes 1–5 não estão sincronizados no GitHub/Obsidian. Uma tentativa de acesso direto ao histórico do chat encontrou uma sessão sem acesso autenticado às conversas anteriores. Por isso, eles não foram reconstruídos, resumidos como se fossem roteiro nem misturados ao protótipo de 19 de julho.
+### Regra de integridade vigente
 
-Essa lacuna é documental, não conceitual. O arco e a função das sete Partes estão preservados; o que ainda não pode ser certificado é a redação integral mais recente das Partes 1–5.
+A recuperação permite ler e revisar o conjunto, mas não converte a montagem em versão aprovada. Permanecem obrigatórios:
 
-### Regra de integridade
-
-Até a recuperação literal das Partes 1–5:
-
-- não declarar que existe roteiro integral certificado;
-- não preencher falas, slides ou atividades por aproximação;
-- não misturar automaticamente o protótipo histórico à frente vigente;
-- não iniciar revisão frase a frase das Partes ausentes;
-- não converter sínteses em texto autoral;
-- não apresentar recomendações como aprovações.
+- leitura autoral antes de qualquer edição;
+- distinção entre texto recuperado, recomendação e decisão;
+- preservação das versões substituídas na transcrição;
+- revisão explícita das junções 5→6 e 6→7;
+- deliberação de Fabiano sobre cortes, reescritas, nomenclatura e maturidade.
 
 ## Estado atual da Aula 0.1
 
@@ -328,26 +324,22 @@ Até a recuperação literal das Partes 1–5:
 |---|---|
 | arquitetura em sete Partes | construída e coerente |
 | arco pedagógico | leitura estrutural concluída |
-| Partes 1–5 | estrutura conhecida; redação literal recente não certificada no repositório |
+| Partes 1–5 | textos literais recuperados e montados; leitura autoral pendente |
 | Partes 6–7 | texto v0.4 disponível; proposta revisada em leitura autoral |
-| revisão Parte por Parte | estrutural para 1–5 e textual para 6–7 |
-| avaliação transversal | concluída como recomendação para deliberação |
-| roteiro integral certificado | ainda inexistente |
+| roteiro integral | recuperado e disponível para leitura; não consolidado |
+| revisão Parte por Parte | próxima etapa, após leitura integral |
+| avaliação transversal | diagnóstico preliminar existente; deve ser refeito sobre o texto completo |
 | aprovação autoral do conjunto | pendente |
 | autorização para gravação | não concedida |
 
 ## Melhor ponto de continuidade
 
-O próximo movimento deve permanecer simples:
-
-1. recuperar, quando houver acesso, os textos literais mais recentes das Partes 1–5;
-2. incorporá-los sem alteração, com registro de procedência;
-3. reuni-los às Partes 6–7 v0.4 num roteiro integral para leitura;
-4. apresentar o conjunto a Fabiano;
-5. somente depois da leitura autoral, revisar Parte por Parte e as questões transversais;
-6. registrar apenas as alterações e decisões efetivamente aprovadas.
-
-Enquanto a recuperação literal não for possível, este documento, o roteiro v0.4 das Partes 6–7 e a auditoria de procedência constituem a melhor representação atual do trabalho realizado.
+1. ler integralmente o [[Roteiro Integral Recuperado para Leitura Autoral - Aula 0.1]];
+2. verificar continuidade, experiência do participante e duração provável;
+3. revisar Parte por Parte;
+4. revisar transversalmente linguagem, ritmo, densidade, repetições, mapas e fronteiras curriculares;
+5. apresentar alterações propostas para deliberação de Fabiano;
+6. registrar apenas o que for efetivamente aprovado.
 
 ## Documentos relacionados
 
