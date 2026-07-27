@@ -3,9 +3,9 @@ tipo: porta-de-entrada-continuidadade
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "1.7"
+versao: "1.8"
 criado_em: 2026-07-21
-atualizado_em: 2026-07-26
+atualizado_em: 2026-07-27
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 tags:
@@ -104,11 +104,13 @@ Este chat atual assume a função de **Orquestração Curricular Mestre 03**. Um
 
 ### Frente curricular ativa
 
-> Retomar o **Módulo 0** pela **leitura autoral integrada da Aula 0.1 — Da compreensão acumulada à competência incorporada**.
+> Concluir a **auditoria de encerramento da Aula 0.1 — Por que compreender ainda pode não ser suficiente?**
 
-O roteiro atual está organizado em **sete Partes**. Seu arco conceitual e experiencial foi construído, mas permanece em leitura autoral: ainda não foi consolidado nem aprovado para gravação. As Partes 6 e 7 possuem texto literal recente em v0.4; os textos literais recentes das Partes 1–5 ainda não estão sincronizados no repositório. A [[Auditoria de Procedência, Montagem e Leitura Autoral - Aula 0.1]] concluiu a leitura estrutural, a revisão Parte por Parte e a avaliação transversal, preservando essa lacuna em vez de reconstruí-la.
+A Aula 0.1 foi consolidada curricularmente em v1.0 após aprovação explícita de Fabiano. Estão aprovados o título, o subtítulo, as sete Partes, os quatro macroblocos e as funções distintas das práticas das Partes 4, 5 e 7. A Primeira Cartografia pertence à Aula 0.1.
 
-O conteúdo anterior e a auditoria preliminar continuam como fontes consultivas, não como decisões. A Aula 0.2 permanece no horizonte do módulo e pode iluminar o trabalho, sem funcionar como bloqueio ou grade rígida.
+Os 48 slides continuam provisórios até storyboard, leitura oral e piloto. A gravação permanece não autorizada.
+
+A [[Auditoria de Encerramento - Aula 0.1]] está aberta e ainda deve ser executada sistematicamente. A Aula 0.2 somente entra em auditoria depois do encerramento formal da Aula 0.1. O registro integral desta passagem está em [[Encerramento de Sessão - 2026-07-27 - Consolidação da Aula 0.1]].
 
 ### Lugar da Aula 1.1
 
@@ -207,7 +209,7 @@ Não é necessário executar um ritual completo a cada conversa.
 
 ## Ponto exato de retomada
 
-> No chat **Curso — Módulo 0 — Orientação, mapa e contrato formativo**, realizar a leitura autoral integral do [[Roteiro Integral Recuperado para Leitura Autoral - Aula 0.1]]. Depois, revisar as sete Partes sequencialmente e as questões transversais em relação ao curso. Não declarar a aula consolidada nem autorizar gravação antes da deliberação de Fabiano.
+> No chat **Curso — Módulo 0 — Orientação, mapa e contrato formativo**, abrir o [[Roteiro Consolidado v1.0 - Partes 1 a 7 - Aula 0.1]] e a [[Auditoria de Encerramento - Aula 0.1]]. Executar a auditoria sistemática começando pela coerência entre identidade, função e capacidade da aula. Preservar as decisões aprovadas, os 48 slides provisórios e a gravação não autorizada. Não avançar à Aula 0.2 antes de concluir e registrar a auditoria.
 
 ## Relações
 
@@ -226,4 +228,5 @@ Não é necessário executar um ritual completo a cada conversa.
 - [[00 - Estado, Índice e Continuidade do Módulo 0]]
 - [[Aula 0.1 - Índice do Kit]]
 - [[Auditoria de Procedência, Montagem e Leitura Autoral - Aula 0.1]]
+- [[Encerramento de Sessão - 2026-07-27 - Consolidação da Aula 0.1]]
 - [[Prompts de Abertura - Orquestração Curricular Mestre e Módulo 0]]
