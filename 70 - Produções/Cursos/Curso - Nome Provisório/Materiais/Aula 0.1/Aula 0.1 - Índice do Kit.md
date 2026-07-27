@@ -179,9 +179,20 @@ Esses materiais podem informar a revisão, mas não constituem a versão curricu
 - manter cada proposta revisada separada do roteiro-fonte até deliberação;
 - manter a gravação não autorizada até deliberação de Fabiano.
 
+19. [[Roteiro Consolidado v1.0 - Partes 1 a 7 - Aula 0.1]]
+   - recomendações 1–8 aprovadas por Fabiano;
+   - sete Partes e quatro macroblocos consolidados;
+   - título e subtítulo aprovados;
+   - 48 slides mantidos provisoriamente;
+   - gravação não autorizada.
+
+20. [[Auditoria de Encerramento - Aula 0.1]]
+   - auditoria formal aberta após a consolidação curricular;
+   - verifica coerência, práticas, duração, estatutos, fronteiras e pendências de entrega.
+
 ## Ponto de continuidade
 
-> A Montagem Integrada Candidata v0.2 das Partes 1–7 está preparada e permanece não aprovada. A próxima etapa é sua leitura autoral integral e a deliberação das oito decisões abertas; somente depois poderá ser produzida uma versão consolidada e iniciada a auditoria de encerramento da Aula 0.1. A gravação permanece não autorizada.
+> A Aula 0.1 está consolidada curricularmente em v1.0 e sua auditoria de encerramento está aberta. A próxima ação é executar a verificação sistemática da versão consolidada. A contagem de 48 slides permanece provisória e a gravação não está autorizada.
 
 ## Relações
 
