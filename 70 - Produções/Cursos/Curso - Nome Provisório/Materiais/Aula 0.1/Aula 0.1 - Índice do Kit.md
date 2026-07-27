@@ -6,7 +6,7 @@ modulo: 0
 aula: "0.1"
 status: ativo
 estado_maturidade: roteiro-integral-recuperado-em-revisao-autoral
-versao: "0.4"
+versao: "0.5"
 criado_em: 2026-07-26
 atualizado_em: 2026-07-26
 autor_do_curso: Fabiano Deliberalli
@@ -32,7 +32,7 @@ A lacuna de procedência das Partes 1–5 foi resolvida em 26 de julho de 2026.
 - as Partes 6–7 permanecem na proposta v0.4;
 - existe uma montagem integral das Partes 1–7 para leitura autoral;
 - a leitura integral e a pauta transversal foram registradas;
-- a revisão autoral proposta da Parte 1 foi aberta, sem substituição do roteiro-fonte;
+- as revisões autorais propostas das Partes 1 e 2 foram abertas, sem substituição do roteiro-fonte;
 - nenhuma proposta de revisão constitui aprovação ou autorização de gravação.
 
 ## Síntese principal do trabalho atual
@@ -66,26 +66,32 @@ Este é o primeiro documento a consultar para compreender o estado humano, conce
    - proposta revisada separada do roteiro recuperado;
    - deliberações que permanecem com Fabiano.
 
-5. [[Montagem Literal Mais Recente - Partes 1 a 5 - Aula 0.1]]
+5. [[Revisão Autoral Proposta - Parte 2 - Aula 0.1]]
+   - revisão conservadora do caso de Lívian;
+   - preservação do caso como investigação, não demonstração teórica;
+   - proposta separada do roteiro recuperado;
+   - leitura autoral pendente.
+
+6. [[Montagem Literal Mais Recente - Partes 1 a 5 - Aula 0.1]]
    - últimas versões integrais identificáveis;
    - redação preservada sem revisão.
 
-6. [[Matriz de Sucessão das Versões Recuperadas - Aula 0.1]]
+7. [[Matriz de Sucessão das Versões Recuperadas - Aula 0.1]]
    - sucessão das versões;
    - justificativa documental das seleções.
 
-7. [[Transcrição integral - Elaboração das Partes 1 a 5 - Aula 0.1]]
+8. [[Transcrição integral - Elaboração das Partes 1 a 5 - Aula 0.1]]
    - fonte primária cronológica;
    - inclui intervenções e versões substituídas.
 
-8. [[Roteiro em Elaboração - Partes 6 e 7 - Aula 0.1]]
+9. [[Roteiro em Elaboração - Partes 6 e 7 - Aula 0.1]]
    - texto literal v0.4;
    - proposta em leitura autoral.
 
-9. [[Auditoria de Procedência, Montagem e Leitura Autoral - Aula 0.1]]
+10. [[Auditoria de Procedência, Montagem e Leitura Autoral - Aula 0.1]]
    - auditoria anterior, agora complementada pela recuperação literal.
 
-10. [[Leitura Integrada em Elaboração - Arco das Partes 1 a 7 - Aula 0.1]]
+11. [[Leitura Integrada em Elaboração - Arco das Partes 1 a 7 - Aula 0.1]]
    - síntese estrutural anterior à recuperação.
 
 ## Patrimônio histórico preservado
@@ -104,7 +110,7 @@ Esses materiais podem informar a revisão, mas não constituem a versão curricu
 | Parte | Função atual | Estado de revisão |
 |---|---|---|
 | 1 | reconhecer o problema humano de entrada | proposta de revisão v0.1 registrada; aguarda deliberação autoral |
-| 2 | diferenciar experiência, manifestação, palavra e interpretação | texto literal recuperado; leitura autoral pendente |
+| 2 | concretizar a distância entre compreensão e disponibilidade pelo caso de Lívian | proposta de revisão v0.1 registrada; aguarda leitura autoral |
 | 3 | reconhecer pluralidade e limites dos mapas | texto literal recuperado; leitura autoral pendente |
 | 4 | aprender uma maneira cuidadosa de aproximação | texto literal recuperado; leitura autoral pendente |
 | 5 | construir a Primeira Cartografia da Experiência | texto literal recuperado; leitura autoral pendente |
@@ -123,7 +129,7 @@ Esses materiais podem informar a revisão, mas não constituem a versão curricu
 
 ## Ponto de continuidade
 
-> Deliberar sobre a [[Revisão Autoral Proposta - Parte 1 - Aula 0.1]]. Depois, consolidar a Parte 1 ou ajustá-la segundo a leitura de Fabiano e avançar para a revisão autoral da Parte 2, preservando a avaliação transversal do conjunto.
+> Ler conjuntamente as propostas das Partes 1 e 2, preservando-as como candidatas não aprovadas. Prosseguir pela revisão autoral da Parte 3 sem alterar o roteiro-fonte; a consolidação ocorrerá após a leitura autoral do arco completo.
 
 ## Relações
 
