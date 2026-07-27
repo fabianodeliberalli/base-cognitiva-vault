@@ -5,8 +5,8 @@ curso: nome-provisorio
 modulo: 0
 aula: "0.1"
 status: ativo
-estado_maturidade: roteiro-integral-recuperado-em-revisao-autoral
-versao: "1.1"
+estado_maturidade: montagem-integrada-candidata-v0.2-em-leitura-autoral
+versao: "1.2"
 criado_em: 2026-07-26
 atualizado_em: 2026-07-26
 autor_do_curso: Fabiano Deliberalli
@@ -34,7 +34,8 @@ A lacuna de procedência das Partes 1–5 foi resolvida em 26 de julho de 2026.
 - a leitura integral e a pauta transversal foram registradas;
 - as revisões autorais propostas das Partes 1–7 foram abertas, sem substituição do roteiro-fonte;
 - a leitura transversal das sete propostas foi concluída e registrada;
-- nenhuma proposta de revisão constitui aprovação ou autorização de gravação.
+- a Montagem Integrada Candidata v0.2 das Partes 1–7 foi preparada, com quatro macroblocos editoriais, transições uniformizadas e conteúdos complementares sinalizados;
+- nenhuma proposta ou montagem candidata constitui aprovação ou autorização de gravação.
 
 ## Síntese principal do trabalho atual
 
@@ -51,43 +52,50 @@ Este é o primeiro documento a consultar para compreender o estado humano, conce
 
 ## Documentos vigentes de trabalho e evidência
 
-2. [[Roteiro Integral Recuperado para Leitura Autoral - Aula 0.1]]
+2. [[Montagem Integrada Candidata v0.2 - Partes 1 a 7 - Aula 0.1]]
+   - texto contínuo candidato das sete Partes;
+   - quatro macroblocos editoriais, sem alteração da arquitetura curricular;
+   - condensações e transferências já recomendadas aplicadas;
+   - oito decisões autorais abertas;
+   - não aprovada e sem autorização de gravação.
+
+3. [[Roteiro Integral Recuperado para Leitura Autoral - Aula 0.1]]
    - primeira montagem completa das Partes 1–7;
    - base atual para leitura autoral;
    - não consolidada e não aprovada para gravação.
 
-3. [[Leitura Integral e Pauta de Revisão Autoral - Aula 0.1]]
+4. [[Leitura Integral e Pauta de Revisão Autoral - Aula 0.1]]
    - diagnóstico transversal do roteiro completo;
    - avaliação de densidade, ritmo, repetição e fronteiras curriculares;
    - pauta de revisão sem aplicação de cortes.
 
-4. [[Revisão Autoral Proposta - Parte 1 - Aula 0.1]]
+5. [[Revisão Autoral Proposta - Parte 1 - Aula 0.1]]
    - revisão comparativa da Parte 1;
    - classificação preservar, ajustar e reposicionar;
    - proposta revisada separada do roteiro recuperado;
    - deliberações que permanecem com Fabiano.
 
-5. [[Revisão Autoral Proposta - Parte 2 - Aula 0.1]]
+6. [[Revisão Autoral Proposta - Parte 2 - Aula 0.1]]
    - revisão conservadora do caso de Lívian;
    - preservação do caso como investigação, não demonstração teórica;
    - proposta separada do roteiro recuperado;
    - leitura autoral pendente.
 
-6. [[Revisão Autoral Proposta - Parte 3 - Aula 0.1]]
+7. [[Revisão Autoral Proposta - Parte 3 - Aula 0.1]]
    - revisão conservadora da pluralidade de mapas;
    - preservação dos diferentes estatutos sem equivalência ou hierarquia soberana;
    - proteção das fronteiras com as Aulas 0.2, 1.1 e 1.2;
    - proposta separada do roteiro recuperado;
    - leitura autoral pendente.
 
-7. [[Revisão Autoral Proposta - Parte 4 - Aula 0.1]]
+8. [[Revisão Autoral Proposta - Parte 4 - Aula 0.1]]
    - condensação da Parte mais extensa da aula;
    - preservação dos oito slides e da prática em cinco movimentos;
    - autonomia, dosagem, abertura, partilha opcional, alcance educacional e retorno;
    - proposta separada do roteiro recuperado;
    - leitura autoral pendente.
 
-8. [[Revisão Autoral Proposta - Parte 5 - Aula 0.1]]
+9. [[Revisão Autoral Proposta - Parte 5 - Aula 0.1]]
    - revisão conservadora da Primeira Cartografia;
    - preservação dos nove slides, quatro territórios e pergunta transversal;
    - prática condensada em cinco movimentos;
@@ -95,47 +103,47 @@ Este é o primeiro documento a consultar para compreender o estado humano, conce
    - proposta separada do roteiro recuperado;
    - leitura autoral pendente.
 
-9. [[Revisão Autoral Proposta - Parte 6 - Aula 0.1]]
+10. [[Revisão Autoral Proposta - Parte 6 - Aula 0.1]]
    - distinção entre mapa compreendido, capacidade disponível e sabedoria prática;
    - preservação dos Três Níveis como gramática não linear;
    - apresentação inicial do EIXO como capacidade, sem antecipar a Aula 0.2;
    - proposta separada do roteiro recuperado;
    - leitura autoral pendente.
 
-10. [[Revisão Autoral Proposta - Parte 7 - Aula 0.1]]
+11. [[Revisão Autoral Proposta - Parte 7 - Aula 0.1]]
    - integração breve da aula pela retomada da mesma Primeira Cartografia;
    - três registros: diferença percebida, disponibilidade possível e pergunta aberta;
    - retorno explícito ao presente e ponte protegida para a Aula 0.2;
    - proposta separada do roteiro recuperado;
    - leitura autoral pendente.
 
-11. [[Leitura Transversal das Propostas - Partes 1 a 7 - Aula 0.1]]
+12. [[Leitura Transversal das Propostas - Partes 1 a 7 - Aula 0.1]]
    - síntese comparativa das sete propostas;
    - duração transversal, repetições, transições e coerência das práticas;
    - fronteiras com as Aulas 0.2, 1.1 e 1.2;
    - recomendações para futura montagem integrada v0.2;
    - leitura autoral pendente.
 
-12. [[Montagem Literal Mais Recente - Partes 1 a 5 - Aula 0.1]]
+13. [[Montagem Literal Mais Recente - Partes 1 a 5 - Aula 0.1]]
    - últimas versões integrais identificáveis;
    - redação preservada sem revisão.
 
-13. [[Matriz de Sucessão das Versões Recuperadas - Aula 0.1]]
+14. [[Matriz de Sucessão das Versões Recuperadas - Aula 0.1]]
    - sucessão das versões;
    - justificativa documental das seleções.
 
-14. [[Transcrição integral - Elaboração das Partes 1 a 5 - Aula 0.1]]
+15. [[Transcrição integral - Elaboração das Partes 1 a 5 - Aula 0.1]]
    - fonte primária cronológica;
    - inclui intervenções e versões substituídas.
 
-15. [[Roteiro em Elaboração - Partes 6 e 7 - Aula 0.1]]
+16. [[Roteiro em Elaboração - Partes 6 e 7 - Aula 0.1]]
    - texto literal v0.4;
    - proposta em leitura autoral.
 
-16. [[Auditoria de Procedência, Montagem e Leitura Autoral - Aula 0.1]]
+17. [[Auditoria de Procedência, Montagem e Leitura Autoral - Aula 0.1]]
    - auditoria anterior, agora complementada pela recuperação literal.
 
-17. [[Leitura Integrada em Elaboração - Arco das Partes 1 a 7 - Aula 0.1]]
+18. [[Leitura Integrada em Elaboração - Arco das Partes 1 a 7 - Aula 0.1]]
    - síntese estrutural anterior à recuperação.
 
 ## Patrimônio histórico preservado
@@ -173,7 +181,7 @@ Esses materiais podem informar a revisão, mas não constituem a versão curricu
 
 ## Ponto de continuidade
 
-> Manter as propostas das Partes 1–7 e a leitura transversal como candidatas não aprovadas. A próxima etapa recomendada é preparar uma Montagem Integrada Candidata v0.2 das Partes 1–7, com transições uniformizadas, duração controlada, conteúdos complementares sinalizados e rastreabilidade integral com o roteiro recuperado, sem autorização de gravação.
+> A Montagem Integrada Candidata v0.2 das Partes 1–7 está preparada e permanece não aprovada. A próxima etapa é sua leitura autoral integral e a deliberação das oito decisões abertas; somente depois poderá ser produzida uma versão consolidada e iniciada a auditoria de encerramento da Aula 0.1. A gravação permanece não autorizada.
 
 ## Relações
 
