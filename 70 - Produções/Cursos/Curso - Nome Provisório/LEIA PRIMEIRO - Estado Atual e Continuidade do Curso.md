@@ -3,7 +3,7 @@ tipo: porta-de-entrada-continuidadade
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "1.6"
+versao: "1.7"
 criado_em: 2026-07-21
 atualizado_em: 2026-07-26
 autor: Fabiano Deliberalli
@@ -207,7 +207,7 @@ Não é necessário executar um ritual completo a cada conversa.
 
 ## Ponto exato de retomada
 
-> No chat **Curso — Módulo 0 — Orientação, mapa e contrato formativo**, recuperar os textos literais mais recentes das Partes 1–5 e incorporá-los sem alteração a uma montagem com registro de procedência. Confrontar essa montagem com as Partes 6–7 v0.4 e apresentar a versão integral a Fabiano. Não editar o roteiro, não reconstruir lacunas e não declarar a aula consolidada antes da leitura e da deliberação autoral.
+> No chat **Curso — Módulo 0 — Orientação, mapa e contrato formativo**, realizar a leitura autoral integral do [[Roteiro Integral Recuperado para Leitura Autoral - Aula 0.1]]. Depois, revisar as sete Partes sequencialmente e as questões transversais em relação ao curso. Não declarar a aula consolidada nem autorizar gravação antes da deliberação de Fabiano.
 
 ## Relações
 
