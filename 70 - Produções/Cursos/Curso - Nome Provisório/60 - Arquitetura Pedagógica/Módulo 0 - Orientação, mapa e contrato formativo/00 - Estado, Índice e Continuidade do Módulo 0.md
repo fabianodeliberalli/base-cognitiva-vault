@@ -7,7 +7,7 @@ status: ativo
 estado_maturidade: elaboracao-curricular-viva
 versao: "2.6"
 criado_em: 2026-07-21
-atualizado_em: 2026-07-26
+atualizado_em: 2026-07-27
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
@@ -122,6 +122,20 @@ Os antigos Capítulos 1–7 da Aula 0.1 passam a ser denominados **Partes 1–7*
 | 2026-07-26 | consolidar a Aula 0.1 em v1.0, mantendo 48 slides provisórios e gravação não autorizada |
 | 2026-07-26 | abrir a auditoria de encerramento da Aula 0.1 |
 
+## Encerramento da sessão de 27 de julho de 2026
+
+O estado integral desta passagem foi preservado em [[Encerramento de Sessão - 2026-07-27 - Consolidação da Aula 0.1]].
+
+- Aula 0.1 consolidada curricularmente em v1.0;
+- recomendações 1–8 aprovadas explicitamente por Fabiano;
+- sete Partes e quatro macroblocos aprovados;
+- Primeira Cartografia confirmada na Aula 0.1;
+- 48 slides provisórios;
+- gravação não autorizada;
+- auditoria de encerramento aberta e ainda não concluída;
+- Aula 0.2 aguardando o encerramento formal da Aula 0.1;
+- P7 ainda pendente antes da consolidação final do Módulo 0.
+
 ## Ponto de retomada
 
 > Executar a [[Auditoria de Encerramento - Aula 0.1]] sobre o [[Roteiro Consolidado v1.0 - Partes 1 a 7 - Aula 0.1]]. Não avançar à Aula 0.2 antes do encerramento desta auditoria.
@@ -136,4 +150,5 @@ Os antigos Capítulos 1–7 da Aula 0.1 passam a ser denominados **Partes 1–7*
 - [[Protocolo de Elaboração Curricular Viva e Continuidade Leve]]
 - [[00 - Modelo de Estado, Índice e Continuidade do Módulo]]
 - [[00 - Índice Mestre dos Kits de Aula]]
+- [[Encerramento de Sessão - 2026-07-27 - Consolidação da Aula 0.1]]
 - [[Prompts de Abertura - Orquestração Curricular Mestre e Módulo 0]]
