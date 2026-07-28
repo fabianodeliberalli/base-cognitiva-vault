@@ -152,7 +152,8 @@ O estado integral desta passagem foi preservado em [[Encerramento de Sessão - 2
 
 - [[04 - Deliberação Transversal - Público, Microaulas e Arquitetura de Marca - 2026-07-28]]
 
-- [[Aula 0.1 - Índice do Kit]]\n- [[Mapa Estrutural de Decomposição em Microaulas - Aula 0.1]]
+- [[Aula 0.1 - Índice do Kit]]
+- [[Mapa Estrutural de Decomposição em Microaulas - Aula 0.1]]
 - [[Auditoria de Procedência, Montagem e Leitura Autoral - Aula 0.1]]
 - [[Roteiro em Elaboração - Partes 6 e 7 - Aula 0.1]]
 - [[Leitura Integrada em Elaboração - Arco das Partes 1 a 7 - Aula 0.1]]
