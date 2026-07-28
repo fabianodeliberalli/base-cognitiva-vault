@@ -5,7 +5,7 @@ curso: nome-provisorio
 modulo: 0
 status: ativo
 estado_maturidade: elaboracao-curricular-viva
-versao: "3.0"
+versao: "3.1"
 criado_em: 2026-07-21
 atualizado_em: 2026-07-28
 autor: Fabiano Deliberalli
@@ -33,7 +33,7 @@ A formulação atual distingue compreensão, acesso a capacidades e incorporaç�
 
 | Unidade | Materiais existentes | Questões vivas | Estado |
 |---|---|---|---|
-| **Unidade 0.1 — Por que compreender ainda pode não ser suficiente?** | roteiro consolidado v1.0; sete Partes; quatro macroblocos; auditoria concluída; mapa estrutural piloto com 10 microaulas | roteiro oral, leitura cronometrada, storyboard, piloto e decisão de gravação | encerrada curricularmente; decomposição estrutural concluída; 48 slides e 10 cortes provisórios; gravação não autorizada |
+| **Unidade 0.1 — Por que compreender ainda pode não ser suficiente?** | roteiro consolidado v1.0; sete Partes; quatro macroblocos; auditoria concluída; mapa estrutural piloto v0.2 com 10 microaulas e títulos públicos aprovados | roteiro oral, leitura cronometrada, storyboard, piloto e decisão de gravação | encerrada curricularmente; decomposição estrutural concluída; 48 slides e 10 cortes provisórios; gravação não autorizada |
 | **Unidade 0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança** | kit textual organizado e referências visuais | como apresentar o percurso sem rigidez; qual contrato formativo emerge da Aula 0.1 | próxima aula em elaboração |
 
 ## Leitura consultiva já realizada
@@ -58,13 +58,15 @@ A Unidade 0.1 funciona como piloto do procedimento que será aplicado após a co
 
 1. preservar o arco curricular aprovado;
 2. localizar mudanças reais de pergunta ou função pedagógica;
-3. decompor sem exigir equivalência entre Parte e microaula;
+3. decompor imediatamente após a consolidação, sem exigir equivalência entre Parte e microaula;
 4. registrar entrada, chegada, ligação e recursos de cada corte;
 5. aplicar foco e essencialidade do DOC4;
-6. auditar títulos de forma subordinada pelo DOC2;
-7. deixar roteiro oral, duração final, storyboard, design e gravação para a preparação audiovisual.
+6. formular títulos públicos diretos, reconhecíveis e compreensíveis fora do contexto;
+7. preservar formulações conceituais densas no roteiro, nas perguntas internas ou nos slides;
+8. auditar clareza e promessa local de forma subordinada pelo DOC2;
+9. deixar roteiro oral, duração final, storyboard, design e gravação para a preparação audiovisual.
 
-O mapa propõe 10 microaulas provisórias. A decomposição não reabre as sete Partes, não altera os quatro macroblocos e não autoriza gravação. A Unidade 0.2 permanece como próxima frente curricular.
+O mapa propõe 10 microaulas provisórias, com títulos públicos aprovados em 28 de julho de 2026. A decomposição não reabre as sete Partes, não altera os quatro macroblocos e não autoriza gravação. A Unidade 0.2 permanece como próxima frente curricular.
 
 ## O que permanece protegido
 
@@ -110,7 +112,7 @@ Unidade curricular é a estrutura numerada que organiza uma capacidade e um arco
 
 Os antigos Capítulos 1–7 da Unidade Curricular 0.1 passam a ser denominados **Partes 1–7**, sem mudança de conteúdo ou estatuto. Os nomes históricos de arquivos e links com “Aula” são preservados para não romper vínculos documentais.
 
-A elaboração do Módulo 0 passa a favorecer **Experiência reconhecível → distinção acessível → conceito → aplicação → integração progressiva**. A decomposição em microaulas ocorrerá na preparação audiovisual, sem reabrir o encerramento curricular da Unidade 0.1.
+A elaboração do Módulo 0 passa a favorecer **Experiência reconhecível → distinção acessível → conceito → aplicação → integração progressiva**. A decomposição estrutural em microaulas ocorre logo após a consolidação curricular de cada unidade, sem reabri-la; roteiro oral, duração definitiva, storyboard, design e gravação permanecem para a preparação audiovisual.
 
 ## Decisões realmente tomadas
 
@@ -120,6 +122,7 @@ A elaboração do Módulo 0 passa a favorecer **Experiência reconhecível → d
 | 2026-07-26 | tratar a auditoria anterior da Aula 0.1 como leitura consultiva, não como pacote de decisões |
 | 2026-07-26 | iniciar a próxima sessão diretamente pela Mesa de Trabalho da Aula 0.1 |
 | 2026-07-28 | adotar Unidade curricular para as estruturas 0.1–6.2 e Microaula para a entrega audiovisual; incorporar a sequência pedagógica de tradução e preservar os códigos existentes |
+| 2026-07-28 | decompor cada unidade em microaulas logo após sua consolidação curricular e adotar títulos públicos diretos, sem confundir clareza de acesso com simplificação do conteúdo |
 | 2026-07-26 | adotar Parte como divisão pedagógica interna das aulas e reservar Vídeo para a forma de entrega |
 | 2026-07-26 | reconhecer o roteiro da Aula 0.1 como organizado em sete Partes e pronto para leitura autoral integrada, sem declará-lo consolidado |
 | 2026-07-26 | manter a composição revisada das Partes 6 e 7 como base de trabalho e reconhecer o arco das Partes 1–7 como estruturalmente coerente |
