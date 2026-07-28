@@ -3,7 +3,7 @@ tipo: registro-mestre-formulacoes-estruturantes
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: consolidacao-documental-para-auditoria-autoral
-versao: "0.5"
+versao: "0.6"
 autor: Fabiano Deliberalli
 organizado_em: 2026-07-21
 escopo: curso-metodo-pedagogia-epistemologia-publico-governanca
@@ -943,3 +943,46 @@ Fabiano Deliberalli aprovou integralmente P2 e o núcleo mínimo obrigatório de
 A aula foi criada durante uma fase anterior de consolidação e permanece valiosa como protótipo, kit de desenvolvimento e registro histórico. Entretanto, alterações posteriores na arquitetura curricular a impactam diretamente. Por isso, ela deverá ser revista e reorganizada com o mesmo escrutínio aplicado às demais aulas, antes de nova deliberação para pilotagem.
 
 Esta deliberação supera, quanto à vigência operacional, formulações anteriores de “preservação”, “não reabertura” ou exigência de evidência do piloto como única autorização para revisar a Aula 1.1. O histórico dessas decisões permanece preservado em seus documentos de origem.
+
+---
+
+# XVIII. Deliberação transversal — público, microaulas e arquitetura de marca — 28 de julho de 2026
+
+Esta deliberação autoral supera, quanto à vigência, as formulações anteriores que mantinham público, nome da oferta, subtítulo e distinção entre aula e vídeo como questões abertas.
+
+## F80 — Público primário sem pressuposição conceitual
+
+> O público primário do curso é constituído por adultos com trajetória prévia de psicoterapia, autoconhecimento, contemplação, espiritualidade ou outros caminhos reflexivos, que acumularam compreensões relevantes sobre si, mas ainda encontram dificuldade para acessar, sustentar e transformar essas compreensões quando padrões conhecidos são mobilizados. Essa trajetória não pressupõe formação acadêmica nem domínio prévio dos conceitos, mapas ou vocabulário do curso.
+
+- **Estatuto:** APROVADO — CURSO/PÚBLICO.
+- **Função:** governa desenho pedagógico, linguagem, comunicação e validação.
+- **Formulação comercial:** “Você já fez terapia, cursos ou práticas de autoconhecimento, entende muitos dos seus padrões e, mesmo assim, percebe que continua repetindo alguns deles?”
+
+## F81 — Sequência pedagógica predominante de tradução
+
+> **Experiência reconhecível → distinção acessível → conceito → aplicação → integração progressiva.**
+
+- **Estatuto:** APROVADO — CURSO/PEDAGOGIA.
+- **Função:** orientar a construção aula por aula e a criação de conteúdos abertos sem se tornar roteiro rígido ou novo portão.
+- **Sentido institucional:** realizar, dentro do próprio ensino, a promessa de Tradução da Experiência Humana.
+
+## F82 — Unidade curricular e microaula
+
+> As estruturas numeradas 0.1 a 6.2 são unidades curriculares nucleares: cada uma organiza uma capacidade, um problema pedagógico e um arco de aprendizagem. Microaula é a unidade audiovisual de entrega na plataforma. Uma unidade curricular pode originar várias microaulas sem alteração de seu código ou função.
+
+- **Estatuto:** APROVADO — CURSO/ARQUITETURA.
+- **Consequência:** permanecem 7 módulos e 14 unidades curriculares; a quantidade final de microaulas somente será divulgada após decomposição audiovisual suficiente.
+- **Transição documental:** nomes históricos de arquivos, links e kits com “Aula” podem permanecer para evitar ruptura de vínculos.
+
+## F83 — Marca e arquitetura comercial
+
+- **Marca e nome da oferta:** Traduzindo o Ser Humano.
+- **Subtítulo-base:** Da compreensão acumulada à mudança vivida.
+- **Headline-base:** Por que você entende seus padrões, mas continua repetindo?
+- **EIXO:** função pedagógica interna de coordenação, retorno e reorganização; não comanda a marca comercial.
+- **Estatuto:** APROVADO — CURSO/MARCA/POSICIONAMENTO.
+
+Em 28 de julho de 2026, Fabiano Deliberalli decidiu dar sequência ao pedido de registro de **Traduzindo** no INPI. Enquanto não houver concessão, o estado documental deve ser descrito como **pedido ou processo de registro em andamento**, nunca como marca já registrada.
+
+Ver [[04 - Deliberação Transversal - Público, Microaulas e Arquitetura de Marca - 2026-07-28]].
+
