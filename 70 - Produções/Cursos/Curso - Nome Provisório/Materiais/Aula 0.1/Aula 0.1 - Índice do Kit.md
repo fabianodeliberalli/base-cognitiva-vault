@@ -23,7 +23,8 @@ autoridade_de_aprovacao: Fabiano Deliberalli
 - **Estado:** encerrada curricularmente em v1.0; auditoria de encerramento concluída;
 - **Slides:** 48 provisórios;
 - **Gravação:** não autorizada;
-- **Nomenclatura interna:** Partes 1–7.\n- **Decomposição audiovisual:** mapa estrutural piloto v0.1 com 10 microaulas provisórias.
+- **Nomenclatura interna:** Partes 1–7.
+- **Decomposição audiovisual:** mapa estrutural piloto v0.1 com 10 microaulas provisórias.
 
 ## Estado documental
 
@@ -193,7 +194,14 @@ Esses materiais podem informar a revisão, mas não constituem a versão curricu
    - aprovou coerência, práticas, estatutos, cartografia e fronteiras;
    - registrou 48 slides, leitura oral, storyboard, piloto e autorização como etapas posteriores à gravação.
 
-21. [[Mapa Estrutural de Decomposição em Microaulas - Aula 0.1]]\n   - decomposição piloto em 10 microaulas provisórias;\n   - preserva as sete Partes, os quatro macroblocos e o encerramento curricular;\n   - aplica os critérios úteis do DOC4 e a auditoria subordinada do DOC2;\n   - registra focos, cortes, transições, recursos e dependências audiovisuais;\n   - não autoriza gravação.\n\n## Registro de encerramento da sessão
+21. [[Mapa Estrutural de Decomposição em Microaulas - Aula 0.1]]
+   - decomposição piloto em 10 microaulas provisórias;
+   - preserva as sete Partes, os quatro macroblocos e o encerramento curricular;
+   - aplica os critérios úteis do DOC4 e a auditoria subordinada do DOC2;
+   - registra focos, cortes, transições, recursos e dependências audiovisuais;
+   - não autoriza gravação.
+
+## Registro de encerramento da sessão
 
 - [[Encerramento de Sessão - 2026-07-27 - Consolidação da Aula 0.1]]
   - preserva o percurso integral da recuperação à consolidação v1.0;
