@@ -5,8 +5,8 @@ curso: Traduzindo o Ser Humano
 modulo: 0
 unidade_curricular: "0.1"
 status: piloto-estrutural
-estado_maturidade: v0.1-em-revisao-autoral
-versao: "0.1"
+estado_maturidade: v0.2-titulos-aprovados
+versao: "0.2"
 criado_em: 2026-07-28
 atualizado_em: 2026-07-28
 autor_do_curso: Fabiano Deliberalli
@@ -60,22 +60,26 @@ A arquitetura comercial consolidada permanece no pano de fundo: **Traduzindo o S
 5. retomadas são preservadas quando acrescentam nova função; recapitulações sem nova função serão avaliadas na leitura oral;
 6. a progressão é orientada, mas não apresentada como escada rígida;
 7. duração é consequência do arco e da experiência, não critério de validade;
-8. títulos públicos usam linguagem acessível, sem exigir familiaridade com o vocabulário autoral.
+8. títulos públicos usam linguagem acessível, sem exigir familiaridade com o vocabulário autoral;
+9. o título público informa imediatamente a dificuldade, a distinção, o instrumento ou a capacidade trabalhada;
+10. o título precisa funcionar fora do contexto do roteiro, sem depender de uma explicação prévia para fazer sentido;
+11. frases autorais amplas e formulações de síntese permanecem no conteúdo ou nos slides quando não informam claramente a aprendizagem;
+12. termos autorais podem aparecer no título quando acompanhados de uma explicação simples de sua função.
 
 ## Síntese da decomposição piloto
 
 | Código provisório | Título acessível | Pergunta central | Origem | Faixa indicativa |
 |---|---|---|---|---:|
-| 0.1.1 | Quando você entende — e quando ainda não consegue nomear | Quais são as duas portas de entrada do percurso? | Parte 1, slides 1–3 | 7–10 min |
-| 0.1.2 | Compreender, acessar e sustentar são coisas diferentes | Por que uma compreensão real pode ainda não estar disponível na vida? | Parte 1, slides 4–6 | 8–11 min |
-| 0.1.3 | Quando observar parece significar sentir menos | O que uma reação pode tentar preservar? | Parte 2, slides 7–12 | 10–13 min |
-| 0.1.4 | A experiência é maior do que qualquer explicação | Como distinguir território, mapa, percepção e conclusão? | Parte 3, slides 13–15 | 8–11 min |
-| 0.1.5 | Como usar diferentes mapas sem transformá-los em verdade total | Como linguagens diferentes podem participar da mesma investigação sem serem igualadas? | Parte 3, slides 16–19 | 9–12 min |
-| 0.1.6 | Como se aproximar da própria experiência com cuidado | Como investigar sem se forçar, perder autoria ou exigir conclusão? | Parte 4, slides 20–27 e prática | 13–18 min |
-| 0.1.7 | A Primeira Cartografia da Experiência | Quais territórios ajudam a organizar as primeiras pistas do vivido? | Parte 5, slides 28–34 | 10–14 min |
-| 0.1.8 | Como construir e revisar seu primeiro mapa | Como aplicar a cartografia sem transformar a primeira leitura em certeza? | Parte 5, slides 35–36 e prática | 9–13 min |
-| 0.1.9 | Do mapa compreendido à capacidade disponível | O que muda quando saber começa a se tornar capacidade? | Parte 6, slide 44 e cinco movimentos | 8–11 min |
-| 0.1.10 | O que ficou mais visível — e qual pergunta continua | Como integrar sem exigir conclusão e abrir o percurso seguinte? | Parte 7, slides 45–48 | 7–10 min |
+| 0.1.1 | Duas formas de começar: o que você entende e o que ainda não sabe nomear | Quais são as duas portas de entrada do percurso? | Parte 1, slides 1–3 | 7–10 min |
+| 0.1.2 | Por que entender não significa conseguir agir diferente | Por que uma compreensão real pode ainda não estar disponível na vida? | Parte 1, slides 4–6 | 8–11 min |
+| 0.1.3 | O que uma reação pode estar tentando proteger | O que uma reação pode tentar preservar? | Parte 2, slides 7–12 | 10–13 min |
+| 0.1.4 | Como distinguir o que você viveu da explicação que deu a isso | Como distinguir território, mapa, percepção e conclusão? | Parte 3, slides 13–15 | 8–11 min |
+| 0.1.5 | Como usar diferentes mapas sem tratá-los como verdade absoluta | Como linguagens diferentes podem participar da mesma investigação sem serem igualadas? | Parte 3, slides 16–19 | 9–12 min |
+| 0.1.6 | Como observar sua experiência sem se forçar | Como investigar sem se forçar, perder autoria ou exigir conclusão? | Parte 4, slides 20–27 e prática | 13–18 min |
+| 0.1.7 | Primeira Cartografia: quatro perguntas para organizar sua experiência | Quais territórios ajudam a organizar as primeiras pistas do vivido? | Parte 5, slides 28–34 | 10–14 min |
+| 0.1.8 | Como construir e revisar seu primeiro mapa da experiência | Como aplicar a cartografia sem transformar a primeira leitura em certeza? | Parte 5, slides 35–36 e prática | 9–13 min |
+| 0.1.9 | Quando o que você compreendeu começa a aparecer na vida prática | O que muda quando saber começa a se tornar capacidade? | Parte 6, slide 44 e cinco movimentos | 8–11 min |
+| 0.1.10 | O que ficou mais claro — e o que continua em aberto | Como integrar sem exigir conclusão e abrir o percurso seguinte? | Parte 7, slides 45–48 | 7–10 min |
 
 **Tempo total indicativo:** 89–123 minutos. A faixa serve somente para orientar leitura oral e storyboard; não constitui duração aprovada.
 
@@ -83,7 +87,7 @@ A arquitetura comercial consolidada permanece no pano de fundo: **Traduzindo o S
 
 # Mapa detalhado
 
-## Microaula 0.1.1 — Quando você entende — e quando ainda não consegue nomear
+## Microaula 0.1.1 — Duas formas de começar: o que você entende e o que ainda não sabe nomear
 
 **Pergunta principal**  
 Quais são as duas portas de entrada do percurso?
@@ -122,7 +126,7 @@ Slides 1–3; duas frases de identificação; formulação nuclear sobre traduzi
 
 ---
 
-## Microaula 0.1.2 — Compreender, acessar e sustentar são coisas diferentes
+## Microaula 0.1.2 — Por que entender não significa conseguir agir diferente
 
 **Pergunta principal**  
 Por que uma compreensão real pode ainda não estar disponível na vida?
@@ -161,7 +165,7 @@ Slides 4–6; definição operacional de competência incorporada; síntese do q
 
 ---
 
-## Microaula 0.1.3 — Quando observar parece significar sentir menos
+## Microaula 0.1.3 — O que uma reação pode estar tentando proteger
 
 **Pergunta principal**  
 O que uma reação pode tentar preservar?
@@ -201,7 +205,7 @@ Slides 7–12; caso composto inteiramente descaracterizado; hipótese de Traduç
 
 ---
 
-## Microaula 0.1.4 — A experiência é maior do que qualquer explicação
+## Microaula 0.1.4 — Como distinguir o que você viveu da explicação que deu a isso
 
 **Pergunta principal**  
 Como distinguir território, mapa, percepção e conclusão?
@@ -240,7 +244,7 @@ Slides 13–15; metáfora território–mapa; quatro perguntas de diferenciaçã
 
 ---
 
-## Microaula 0.1.5 — Como usar diferentes mapas sem transformá-los em verdade total
+## Microaula 0.1.5 — Como usar diferentes mapas sem tratá-los como verdade absoluta
 
 **Pergunta principal**  
 Como linguagens diferentes podem participar da mesma investigação sem serem igualadas?
@@ -279,7 +283,7 @@ Slides 16–19; retorno ao caso; quatro critérios de uso dos mapas; pergunta so
 
 ---
 
-## Microaula 0.1.6 — Como se aproximar da própria experiência com cuidado
+## Microaula 0.1.6 — Como observar sua experiência sem se forçar
 
 **Pergunta principal**  
 Como investigar sem se forçar, perder autoria ou exigir conclusão?
@@ -326,7 +330,7 @@ Slides 20–27; prática de 5–7 minutos; alternativas de participação; pergu
 
 ---
 
-## Microaula 0.1.7 — A Primeira Cartografia da Experiência
+## Microaula 0.1.7 — Primeira Cartografia: quatro perguntas para organizar sua experiência
 
 **Pergunta principal**  
 Quais territórios ajudam a organizar as primeiras pistas do vivido?
@@ -366,7 +370,7 @@ Slides 28–34; diagrama da Primeira Cartografia; um exemplo curto por territór
 
 ---
 
-## Microaula 0.1.8 — Como construir e revisar seu primeiro mapa
+## Microaula 0.1.8 — Como construir e revisar seu primeiro mapa da experiência
 
 **Pergunta principal**  
 Como aplicar a cartografia sem transformar a primeira leitura em certeza?
@@ -409,7 +413,7 @@ Slides 35–36; exemplo da interrupção revisto após nova informação; práti
 
 ---
 
-## Microaula 0.1.9 — Do mapa compreendido à capacidade disponível
+## Microaula 0.1.9 — Quando o que você compreendeu começa a aparecer na vida prática
 
 **Pergunta principal**  
 O que muda quando saber começa a se tornar capacidade?
@@ -449,7 +453,7 @@ Slide 44; cinco movimentos orais; definição de competência incorporada; defin
 
 ---
 
-## Microaula 0.1.10 — O que ficou mais visível — e qual pergunta continua
+## Microaula 0.1.10 — O que ficou mais claro — e o que continua em aberto
 
 **Pergunta principal**  
 Como integrar sem exigir conclusão e abrir o percurso seguinte?
@@ -507,13 +511,18 @@ A sequência é predominante, não rígida. Aplicação e integração já apare
 
 # Auditoria dos títulos pelo critério do DOC2
 
+**Status:** títulos públicos aprovados por Fabiano Deliberalli em 28 de julho de 2026.
+
 | Critério | Resultado |
 |---|---|
-| Situação reconhecível | presente nos títulos 0.1.1, 0.1.2, 0.1.3 e 0.1.10 |
-| Linguagem concreta | predominante; termos autorais aparecem somente quando constituem o objeto da microaula |
-| Relação entre problema e capacidade | progride de compreender/nomear para cartografar, revisar e reconhecer disponibilidade |
+| Compreensão imediata | cada título informa uma dificuldade, distinção, instrumento ou capacidade sem depender da aula para fazer sentido |
+| Linguagem direta | formulações abstratas ou literárias foram deslocadas para o conteúdo, para perguntas internas ou para slides |
+| Relação entre problema e capacidade | a sequência progride de reconhecer duas formas de entrada para observar, cartografar, revisar e perceber efeitos na vida prática |
+| Vocabulário autoral traduzido | `Primeira Cartografia` aparece acompanhado de sua função: quatro perguntas para organizar a experiência |
 | Promessa sustentável | os títulos descrevem aprendizagem e investigação, sem garantir transformação total |
 | Distinção de marca | nenhum título tenta substituir `Traduzindo o Ser Humano` como marca ou nome da oferta |
+
+O título público e a formulação conceitual interna cumprem funções diferentes: o primeiro abre acesso imediato; a segunda preserva a precisão e a profundidade dentro da microaula.
 
 # Achados para a preparação audiovisual
 
@@ -534,16 +543,18 @@ Depois da consolidação curricular de cada unidade:
 3. decompor sem exigir correspondência entre Parte e microaula;
 4. registrar entrada, chegada, conexão e recursos de cada corte;
 5. aplicar os critérios de foco e essencialidade do DOC4;
-6. auditar títulos e promessa local pelo DOC2;
-7. preservar o currículo e registrar separadamente qualquer lacuna real;
-8. deixar duração final, roteiro oral, storyboard, design e gravação para a preparação audiovisual.
+6. formular o título público pela perspectiva de quem verá a aula na plataforma: direto, reconhecível e compreensível fora do contexto;
+7. preservar formulações conceituais mais densas dentro do roteiro, dos slides ou da pergunta pedagógica;
+8. usar o DOC2 como auditor subordinado de clareza e promessa local;
+9. preservar o currículo e registrar separadamente qualquer lacuna real;
+10. deixar duração final, roteiro oral, storyboard, design e gravação para a preparação audiovisual.
 
 Esse padrão organiza o trabalho futuro sem criar novo portão burocrático.
 
 # Estado de saída e continuidade
 
 - Unidade Curricular 0.1: permanece encerrada curricularmente em v1.0;
-- decomposição estrutural: mapa piloto v0.1 concluído com 10 microaulas provisórias;
+- decomposição estrutural: mapa piloto v0.2 concluído com 10 microaulas provisórias e títulos públicos aprovados;
 - conteúdo curricular: não reaberto;
 - 48 slides: continuam provisórios e requerem reconciliação no storyboard;
 - gravação: não autorizada;
