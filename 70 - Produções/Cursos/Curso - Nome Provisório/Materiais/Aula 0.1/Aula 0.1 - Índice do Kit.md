@@ -5,8 +5,8 @@ curso: nome-provisorio
 modulo: 0
 aula: "0.1"
 status: ativo
-estado_maturidade: consolidada-v1.0-auditoria-de-encerramento-aberta
-versao: "1.3"
+estado_maturidade: consolidada-v1.0-auditoria-de-encerramento-concluida
+versao: "1.4"
 criado_em: 2026-07-26
 atualizado_em: 2026-07-27
 autor_do_curso: Fabiano Deliberalli
@@ -20,7 +20,7 @@ autoridade_de_aprovacao: Fabiano Deliberalli
 - **Título aprovado:** Por que compreender ainda pode não ser suficiente?;
 - **Subtítulo aprovado:** Como começar a traduzir a própria experiência e transformar compreensão em capacidade.;
 - **Módulo:** 0 — Orientação, mapa e contrato formativo;
-- **Estado:** consolidada curricularmente em v1.0; auditoria de encerramento aberta;
+- **Estado:** encerrada curricularmente em v1.0; auditoria de encerramento concluída;
 - **Slides:** 48 provisórios;
 - **Gravação:** não autorizada;
 - **Nomenclatura interna:** Partes 1–7.
@@ -189,8 +189,9 @@ Esses materiais podem informar a revisão, mas não constituem a versão curricu
    - gravação não autorizada.
 
 20. [[Auditoria de Encerramento - Aula 0.1]]
-   - auditoria formal aberta após a consolidação curricular;
-   - verifica coerência, práticas, duração, estatutos, fronteiras e pendências de entrega.
+   - auditoria formal concluída em 27 de julho de 2026;
+   - aprovou coerência, práticas, estatutos, cartografia e fronteiras;
+   - registrou 48 slides, leitura oral, storyboard, piloto e autorização como etapas posteriores à gravação.
 
 ## Registro de encerramento da sessão
 
@@ -201,7 +202,7 @@ Esses materiais podem informar a revisão, mas não constituem a versão curricu
 
 ## Ponto de continuidade
 
-> A Aula 0.1 está consolidada curricularmente em v1.0 e sua auditoria de encerramento está aberta. A próxima ação é executar a verificação sistemática da versão consolidada. A contagem de 48 slides permanece provisória e a gravação não está autorizada.
+> A Aula 0.1 está encerrada curricularmente em v1.0 e sua auditoria de encerramento foi concluída. A contagem de 48 slides permanece provisória e a gravação não está autorizada. O próximo ponto curricular do Módulo 0 é a Aula 0.2; as etapas audiovisuais da Aula 0.1 permanecem registradas para preparação posterior.
 
 ## Relações
 
