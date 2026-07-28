@@ -4,8 +4,8 @@ projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: prototipagem-curricular-em-andamento
 estado_maturidade: arquitetura-integral-em-prototipagem
-fase_atual: "construção curricular sequencial — Módulo 0 ativo — Aula 0.1 como ponto de entrada"
-versao: "0.32"
+fase_atual: "construção curricular sequencial — Módulo 0 ativo — Unidade Curricular 0.2 em elaboração"
+versao: "0.33"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-17
 atualizado_em: 2026-07-28
@@ -19,10 +19,10 @@ tags:
 
 # Dossiê de Contexto — Traduzindo o Ser Humano
 
-**Versão:** 0.32  
+**Versão:** 0.33  
 **Estado de maturidade:** arquitetura integral em prototipagem  
 **Fases concluídas:** Fase 0 — Abertura e governança; Fase 1 — Gênese, identidade e problema humano  
-**Fase atual:** construção curricular sequencial; Módulo 0 ativo; Aula 0.1 como ponto de entrada
+**Fase atual:** construção curricular sequencial; Módulo 0 ativo; Unidade Curricular 0.2 em elaboração
 
 ---
 
@@ -30,7 +30,7 @@ tags:
 
 - **Código do curso:** a definir;
 - **Nome atual da oferta:** Traduzindo o Ser Humano;
-- **Versão do Dossiê:** 0.32;
+- **Versão do Dossiê:** 0.33;
 - **Status documental:** documento evolutivo;
 - **Estado de maturidade:** arquitetura integral em prototipagem;
 - **Data de criação:** 2026-07-17;
@@ -51,7 +51,7 @@ Por decisão autoral, a construção curricular passa a seguir o [[Protocolo de 
 
 Na fase criativa, cada aula é território de investigação. Títulos, funções, sequências, mapas, práticas, autores e distribuição de conteúdos podem ser ampliados, reduzidos, combinados ou reposicionados. A auditoria formal e os checklists entram somente após sinalização de maturidade autoral ou antes da pilotagem. Códigos e taxonomias permanecem disponíveis nos bastidores e não devem ocupar a linguagem cotidiana da elaboração.
 
-A frente vigente é a leitura autoral integrada da Aula 0.1. Seu roteiro encontra-se organizado em sete Partes e possui arco conceitual e experiencial construído, ainda sem consolidação ou aprovação para gravação. A [[Auditoria de Procedência, Montagem e Leitura Autoral - Aula 0.1]] verificou que as Partes 6–7 possuem texto literal recente em v0.4, enquanto os textos literais recentes das Partes 1–5 ainda não estão sincronizados. A leitura estrutural e transversal foi concluída; a montagem integral certificada depende da incorporação fiel dessas Partes. A auditoria preliminar anterior mantém valor consultivo, não deliberativo.
+A Unidade Curricular 0.1 foi consolidada curricularmente em v1.0 e teve sua auditoria de encerramento concluída em 27 de julho de 2026. Seus 48 slides permanecem provisórios e a gravação continua não autorizada. A frente vigente é a Unidade Curricular 0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança.
 
 ### Atualização de nomenclatura curricular — 26 de julho de 2026
 
@@ -107,7 +107,7 @@ Naquele momento, a continuidade registrava:
 - **frente então ativa, posteriormente superada pela ordem sequencial:** revisar e reorganizar a Aula 1.1;
 - **frente então futura:** deliberar a versão reorganizada antes de sua pilotagem.
 
-Este bloco preserva a evolução documental, mas não governa a retomada atual. A seção seguinte e a seção 19 estabelecem Módulo 0/Aula 0.1 como frente vigente. Os vínculos de P2 e P6 permanecem estáveis e seus conteúdos declaram o estado aprovado.
+Este bloco preserva a evolução documental, mas não governa a retomada atual. O [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]] e a seção 19 estabelecem a Unidade Curricular 0.2 como frente vigente. Os vínculos de P2 e P6 permanecem estáveis e seus conteúdos declaram o estado aprovado.
 
 ### Atualização da arquitetura operacional por módulos — 21 de julho de 2026
 
@@ -878,6 +878,7 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 
 | Versão | Data | Mudança | Motivo |
 |---|---|---|---|
+| 0.33 | 2026-07-28 | Correção do estado operacional para Unidade 0.2 ativa e reconciliação da nomenclatura vigente | Auditoria documental pós-reconciliação |
 | 0.32 | 2026-07-28 | Público primário aprovado; distinção entre unidade curricular e microaula; sequência pedagógica de tradução; Traduzindo o Ser Humano como marca e reconciliação do papel de EIXO | Deliberação autoral após feedback da mentoria |
 | 0.31 | 2026-07-26 | Registro da lacuna de procedência das Partes 1–5 e da montagem integral controlada antes de qualquer edição | Solicitação autoral e auditoria documental |
 | 0.28 | 2026-07-21 | Marcação explícita da antiga frente da Aula 1.1 como registro histórico superado | Auditoria de continuidade |
@@ -957,14 +958,14 @@ Esta seção prevalece sobre indicações antigas de próxima aula ou frente ati
 - **produção:** um chat ativo por módulo;
 - **memória oficial:** Obsidian sincronizado no GitHub;
 - **camada intermediária:** Estado, Índice e Continuidade do Módulo;
-- **ordem:** iniciar pela Aula 0.1 e avançar sequencialmente;
-- **auditoria:** ao final de cada aula, de cada módulo e, posteriormente, do currículo completo.
+- **ordem:** Unidade 0.1 encerrada; Unidade 0.2 ativa; prosseguir sequencialmente pelas unidades seguintes;
+- **auditoria:** ao final de cada unidade curricular, de cada módulo e, posteriormente, do currículo completo.
 
 ### Frente curricular ativa e ponto de retomada
 
-> Módulo 0 ativo. Recuperar do chat de elaboração os textos literais recentes das Partes 1–5, incorporá-los sem alteração a uma montagem com registro de procedência e confrontá-los com as Partes 6–7 v0.4. Apresentar a versão integral a Fabiano antes de qualquer edição do roteiro.
+> Módulo 0 ativo. Abrir o [[Aula 0.2 - Índice do Kit]] e retomar a Unidade Curricular 0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança — sem reabrir a Unidade 0.1. A decomposição audiovisual da Unidade 0.1 permanece etapa posterior.
 
-A Aula 0.2 possui kit documental organizado e será auditada depois da Aula 0.1. A Aula 1.1 será retomada no Módulo 1 e submetida ao mesmo procedimento das demais aulas.
+A Unidade Curricular 1.1 será retomada no Módulo 1 e submetida ao mesmo procedimento das demais unidades.
 
 ### Regra de prevalência
 
