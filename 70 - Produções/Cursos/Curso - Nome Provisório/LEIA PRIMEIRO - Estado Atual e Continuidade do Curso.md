@@ -3,9 +3,9 @@ tipo: porta-de-entrada-continuidadade
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "1.9"
+versao: "2.0"
 criado_em: 2026-07-21
-atualizado_em: 2026-07-27
+atualizado_em: 2026-07-28
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 tags:
@@ -54,7 +54,7 @@ As decisões substantivas e os cuidados éticos permanecem protegidos. A documen
 ### Curso
 
 - arquitetura integral em prototipagem curricular controlada;
-- 7 módulos e 14 aulas nucleares;
+- 7 módulos e 14 unidades curriculares nucleares, posteriormente decomponíveis em microaulas;
 - arquitetura curricular v0.2 vigente como protótipo governado, não como currículo definitivamente congelado;
 - perspectiva espiritual afirmativa, plural e não dogmática;
 - dimensão energética retirada da condição de adendo, com aula nuclear própria e presença longitudinal;
@@ -78,13 +78,25 @@ As decisões substantivas e os cuidados éticos permanecem protegidos. A documen
 
 A arquitetura passa a utilizar a seguinte sequência:
 
-> **Curso → Módulo → Aula → Parte**
+> **Curso → Módulo → Unidade curricular → Parte**
 
-**Parte** é a divisão pedagógica interna de uma aula. **Vídeo** é um recurso de gravação e entrega, não um nível curricular. Uma Parte pode originar um ou mais vídeos; duas Partes curtas também podem compartilhar um vídeo sem que a arquitetura da aula seja alterada.
+**Unidade curricular** é a estrutura numerada de 0.1 a 6.2 que organiza uma capacidade, um problema pedagógico e um arco de aprendizagem. Os códigos existentes permanecem inalterados.
 
-Experiências e práticas podem conter **Momentos** internos. Slides, mapas, cadernos e demais materiais permanecem recursos vinculados, não novos níveis da arquitetura.
+**Parte** é a divisão pedagógica interna de uma unidade curricular. **Microaula** é a unidade audiovisual de entrega na plataforma, geralmente concentrada em uma pergunta ou ideia principal. Uma Parte pode originar uma ou mais microaulas; duas Partes breves também podem compartilhar uma microaula sem alterar a arquitetura curricular.
 
-O termo **Capítulo** deixa de ser utilizado para as divisões internas das aulas. A mudança é terminológica e organizacional: não altera o conteúdo, o estatuto ou a maturidade dos textos já produzidos.
+Experiências e práticas podem conter **Momentos** internos. Slides, mapas, cadernos e demais materiais permanecem recursos vinculados, não novos níveis da arquitetura. Os nomes históricos de arquivos e links com “Aula” podem ser preservados para evitar ruptura documental, mas a nomenclatura conceitual vigente é **Unidade curricular**.
+
+O termo **Capítulo** deixa de ser utilizado para as divisões internas das unidades curriculares. A mudança é terminológica e organizacional: não altera o conteúdo, o estatuto ou a maturidade dos textos já produzidos.
+
+### Deliberação transversal de 28 de julho de 2026
+
+A [[04 - Deliberação Transversal - Público, Microaulas e Arquitetura de Marca - 2026-07-28]] governa três decisões:
+
+- público primário com trajetória prévia, sem pressuposição de formação acadêmica ou domínio conceitual;
+- construção pedagógica orientada predominantemente por **Experiência reconhecível → distinção acessível → conceito → aplicação → integração progressiva**;
+- **Traduzindo o Ser Humano** como marca organizadora e nome da oferta, com subtítulo estável e headlines variáveis;
+- EIXO preservado como função pedagógica de coordenação, retorno e reorganização, sem comandar a marca comercial;
+- 7 módulos e 14 unidades curriculares nucleares, decompostas em microaulas na preparação audiovisual; a quantidade final de microaulas não será divulgada antes dessa decomposição.
 
 ### Referências técnicas já definidas
 
@@ -159,7 +171,7 @@ Acrescentar:
 | Consequência curricular das formulações | Guia Mestre de Incorporação e Rastreabilidade |
 | Redação e estatuto individual das formulações | Registro Mestre |
 | Relação entre movimentos, fases e Jornada | Matriz Integrada |
-| Distribuição atual das 14 aulas | Esqueleto Estrutural v0.2 |
+| Distribuição atual das 14 unidades curriculares | Esqueleto Estrutural vigente |
 | Continuidade entre chats e ritual de atualização | Protocolo de Continuidade |
 | Estado e continuidade de um módulo | 00 — Estado, Índice e Continuidade do respectivo módulo |
 | Estado operacional de uma aula | Índice, roteiro, QA e protocolo de pilotagem do respectivo kit |
@@ -182,7 +194,7 @@ Trechos históricos permanecem como memória evolutiva, mas não substituem seç
 - espiritualidade afirmativa, plural e não dogmática;
 - distinção entre dimensão energética e espiritualidade;
 - aula nuclear energética e aula nuclear espiritual na arquitetura v0.2;
-- 7 módulos e 14 aulas como base da prototipagem atual;
+- 7 módulos e 14 unidades curriculares nucleares como base da prototipagem atual;
 - estatuto da Aula 1.1 como protótipo revisável, sem proteção canônica e sujeito a escrutínio curricular normal.
 
 ## Dependências para consolidação e pilotagem
@@ -234,3 +246,4 @@ Não é necessário executar um ritual completo a cada conversa.
 - [[Auditoria de Procedência, Montagem e Leitura Autoral - Aula 0.1]]
 - [[Encerramento de Sessão - 2026-07-27 - Consolidação da Aula 0.1]]
 - [[Prompts de Abertura - Orquestração Curricular Mestre e Módulo 0]]
+- [[04 - Deliberação Transversal - Público, Microaulas e Arquitetura de Marca - 2026-07-28]]
