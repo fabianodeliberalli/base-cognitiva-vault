@@ -78,7 +78,7 @@ Este é o primeiro documento a consultar para compreender o estado humano, conce
    - deliberações que permanecem com Fabiano.
 
 6. [[Revisão Autoral Proposta - Parte 2 - Aula 0.1]]
-   - revisão conservadora do caso de Lívian;
+   - revisão conservadora do caso composto;
    - preservação do caso como investigação, não demonstração teórica;
    - proposta separada do roteiro recuperado;
    - leitura autoral pendente.
@@ -164,7 +164,7 @@ Esses materiais podem informar a revisão, mas não constituem a versão curricu
 | Parte | Função atual | Estado de revisão |
 |---|---|---|
 | 1 | reconhecer o problema humano de entrada | proposta de revisão v0.1 registrada; aguarda deliberação autoral |
-| 2 | concretizar a distância entre compreensão e disponibilidade pelo caso de Lívian | proposta de revisão v0.1 registrada; aguarda leitura autoral |
+| 2 | concretizar a distância entre compreensão e disponibilidade pelo caso composto | proposta de revisão v0.1 registrada; aguarda leitura autoral |
 | 3 | reconhecer pluralidade e limites dos mapas | proposta de revisão v0.1 registrada; aguarda leitura autoral |
 | 4 | aprender uma maneira cuidadosa de aproximação | proposta de revisão v0.1 registrada; aguarda leitura autoral |
 | 5 | construir a Primeira Cartografia da Experiência | proposta de revisão v0.1 registrada; aguarda leitura autoral |
