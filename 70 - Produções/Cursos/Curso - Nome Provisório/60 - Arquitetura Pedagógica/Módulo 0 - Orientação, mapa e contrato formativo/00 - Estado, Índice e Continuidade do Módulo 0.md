@@ -5,7 +5,7 @@ curso: nome-provisorio
 modulo: 0
 status: ativo
 estado_maturidade: elaboracao-curricular-viva
-versao: "2.8"
+versao: "2.9"
 criado_em: 2026-07-21
 atualizado_em: 2026-07-28
 autor: Fabiano Deliberalli
@@ -18,7 +18,7 @@ autoridade_de_aprovacao: Fabiano Deliberalli
 
 - **Nome provisório:** Orientação, mapa e contrato formativo;
 - **Chat ativo:** Curso — Módulo 0 — Orientação, mapa e contrato formativo;
-- **Aula em primeiro plano:** 0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança;
+- **Unidade curricular em primeiro plano:** 0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança;
 - **Estado:** elaboração curricular viva;
 - **Memória oficial:** GitHub/Obsidian;
 - **Modo de trabalho:** [[Protocolo de Elaboração Curricular Viva e Continuidade Leve]].
@@ -29,12 +29,12 @@ O Módulo 0 abre o percurso, ajuda o participante a reconhecer o problema que o 
 
 A formulação atual distingue compreensão, acesso a capacidades e incorporação progressiva. Também apresenta autonomia, dosagem, oscilação e retorno. Esses elementos são referências de trabalho, não limites fechados para a elaboração.
 
-## Aulas
+## Unidades curriculares
 
-| Aula | Materiais existentes | Questões vivas | Estado |
+| Unidade | Materiais existentes | Questões vivas | Estado |
 |---|---|---|---|
-| **0.1 — Por que compreender ainda pode não ser suficiente?** | roteiro consolidado v1.0; sete Partes; quatro macroblocos; auditoria concluída | preparar futuramente storyboard, leitura oral e piloto | encerrada curricularmente; 48 slides provisórios; gravação não autorizada |
-| **0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança** | kit textual organizado e referências visuais | como apresentar o percurso sem rigidez; qual contrato formativo emerge da Aula 0.1 | próxima aula em elaboração |
+| **Unidade 0.1 — Por que compreender ainda pode não ser suficiente?** | roteiro consolidado v1.0; sete Partes; quatro macroblocos; auditoria concluída | preparar futuramente storyboard, leitura oral e piloto | encerrada curricularmente; 48 slides provisórios; gravação não autorizada |
+| **Unidade 0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança** | kit textual organizado e referências visuais | como apresentar o percurso sem rigidez; qual contrato formativo emerge da Aula 0.1 | próxima aula em elaboração |
 
 ## Leitura consultiva já realizada
 
@@ -129,7 +129,7 @@ A elaboração do Módulo 0 passa a favorecer **Experiência reconhecível → d
 
 O estado integral desta passagem foi preservado em [[Encerramento de Sessão - 2026-07-27 - Consolidação da Aula 0.1]].
 
-- Aula 0.1 consolidada curricularmente em v1.0;
+- Unidade Curricular 0.1 consolidada curricularmente em v1.0;
 - recomendações 1–8 aprovadas explicitamente por Fabiano;
 - sete Partes e quatro macroblocos aprovados;
 - Primeira Cartografia confirmada na Aula 0.1;
@@ -138,12 +138,12 @@ O estado integral desta passagem foi preservado em [[Encerramento de Sessão - 2
 - auditoria de encerramento concluída em 27 de julho de 2026;
 - caso didático registrado como composto e inteiramente descaracterizado;
 - saneamentos documentais aplicados;
-- Aula 0.2 liberada como próximo ponto de elaboração;
+- Unidade Curricular 0.2 liberada como próximo ponto de elaboração;
 - P7 ainda pendente antes da consolidação final do Módulo 0.
 
 ## Ponto de retomada
 
-> Abrir o [[Aula 0.2 - Índice do Kit]] e retomar a Aula 0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança — a partir do estado documental vigente. Não reabrir a Aula 0.1; suas pendências remanescentes pertencem à futura preparação audiovisual e de pilotagem.
+> Abrir o [[Aula 0.2 - Índice do Kit]] e retomar a Unidade Curricular 0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança — a partir do estado documental vigente. Não reabrir a Unidade 0.1; suas pendências remanescentes pertencem à futura preparação audiovisual e de pilotagem.
 
 ## Relações
 
