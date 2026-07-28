@@ -3,10 +3,10 @@ tipo: protocolo-de-continuidade-integral
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "1.7"
+versao: "1.8"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-21
-atualizado_em: 2026-07-26
+atualizado_em: 2026-07-28
 fonte_persistente: fabianodeliberalli/base-cognitiva-vault
 branch: main
 tags:
@@ -123,12 +123,12 @@ A pedagogia do projeto parte do vivido, torna a experiência legível, favorece 
 
 ## 4. Identidade atual do curso
 
-O curso permanece com nome provisório.
+**Traduzindo o Ser Humano** é a marca organizadora e o nome atual da oferta. O subtítulo-base é **Da compreensão acumulada à mudança vivida**; headlines permanecem variáveis por contexto comercial.
 
 Natureza aprovada:
 
 - estrutura educacional complementar;
-- primeira expressão pedagógica e comercial derivada da arquitetura integral do Método EIXO;
+- primeira oferta formativa integral organizada pela marca Traduzindo o Ser Humano; EIXO permanece função pedagógica interna;
 - curso-piloto formativo integral;
 - percurso pelas seis fases em profundidade fundamental;
 - campo de validação pedagógica, ética e experiencial, não de validação clínica ou científica.
@@ -158,14 +158,13 @@ O curso não promete cura, integração completa, estabilidade permanente, resol
 
 Público principal:
 
-- adultos com trajetória prévia em autoconhecimento, psicoterapia, práticas contemplativas, espiritualidade ou religião;
-- pessoas que já possuem repertório, mapas, técnicas ou explicações;
-- pessoas que percebem distância entre o que sabem e o que conseguem sustentar quando a experiência se torna mobilizadora;
-- participantes dispostos a exercícios leves, graduados, facultativos e não expositivos.
+> O público primário do curso é constituído por adultos com trajetória prévia de psicoterapia, autoconhecimento, contemplação, espiritualidade ou outros caminhos reflexivos, que acumularam compreensões relevantes sobre si, mas ainda encontram dificuldade para acessar, sustentar e transformar essas compreensões quando padrões conhecidos são mobilizados. Essa trajetória não pressupõe formação acadêmica nem domínio prévio dos conceitos, mapas ou vocabulário do curso.
 
-Formulação estratégica do público:
+Formulação comercial de seleção:
 
-> Pessoas com trajetória prévia que continuam vivendo efeitos multidimensionais de experiências passadas e precisam de uma arquitetura para transformar o que já compreenderam em capacidade de reconhecer, sustentar e integrar no presente.
+> Você já fez terapia, cursos ou práticas de autoconhecimento, entende muitos dos seus padrões e, mesmo assim, percebe que continua repetindo alguns deles?
+
+Participantes devem poder escolher entre práticas leves, graduadas, facultativas e alternativas não expositivas.
 
 Persona candidata derivada da mentoria com Camila e da leitura de Joe Dispenza:
 
@@ -181,14 +180,25 @@ Para quem o curso não é:
 - quem espera intervenção clínica individual;
 - quem não pode ou não deseja participar de práticas leves mesmo com alternativas.
 
-Hipóteses comerciais ainda em revisão:
+Direções comerciais e de entrega:
 
-- entrega ao vivo pelo Zoom e posterior hospedagem na Hotmart;
+- sete módulos organizados em aulas curtas e progressivas;
+- 14 unidades curriculares nucleares, decompostas em microaulas na preparação audiovisual;
+- quantidade final de microaulas divulgada somente quando a decomposição estiver suficientemente avançada;
+- conteúdo estruturante preparado para a plataforma; encontros ao vivo, quando houver, cumprem função complementar de integração, aplicação e aprofundamento;
 - curso principal antes de um workshop de menor valor;
 - faixa de valor aproximada de R$ 997;
 - curso como acelerador no eixo Canal → Curso → Comunidade.
 
-Essas hipóteses não devem determinar artificialmente profundidade, promessa ou duração.
+Formato, calendário e duração total não devem determinar artificialmente profundidade ou promessa.
+
+## 5.1. Diretriz transversal de tradução
+
+A elaboração curricular e sua adaptação para conteúdos abertos favorecem a sequência:
+
+> **Experiência reconhecível → distinção acessível → conceito → aplicação → integração progressiva.**
+
+Essa orientação não cria um novo portão nem um checklist de superfície. Ela realiza pedagogicamente a promessa institucional de tradução. Ver [[04 - Deliberação Transversal - Público, Microaulas e Arquitetura de Marca - 2026-07-28]].
 
 ## 6. Método EIXO
 
@@ -313,7 +323,7 @@ Estado: proposta de prototipagem fundada em decisões estruturais aprovadas.
 Formato candidato:
 
 - 7 módulos, contando o Módulo 0;
-- 14 aulas nucleares;
+- 14 unidades curriculares nucleares;
 - primeira turma ao vivo;
 - gravação e eventual hospedagem;
 - caderno de práticas, fichas e mapas;
@@ -583,7 +593,7 @@ Todo conteúdo deve passar pelos testes de necessidade, função, estatuto da af
 
 Não tratar como resolvido:
 
-- nome e subtítulo do curso;
+- aplicação visual do nome, subtítulo e headlines da oferta;
 - formato definitivo;
 - carga horária total;
 - duração final de cada encontro;
