@@ -3,7 +3,7 @@ tipo: porta-de-entrada-continuidadade
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "2.1"
+versao: "2.2"
 criado_em: 2026-07-21
 atualizado_em: 2026-07-28
 autor: Fabiano Deliberalli
@@ -49,7 +49,7 @@ Na fase criativa, prevalecem linguagem natural, exploração progressiva, formas
 
 As decisões substantivas e os cuidados éticos permanecem protegidos. A documentação formal entra em marcos naturais e na consolidação autoral, não como condição para começar a pensar.
 
-## Estado vigente em 26 de julho de 2026
+## Estado vigente em 28 de julho de 2026
 
 ### Curso
 
@@ -125,6 +125,8 @@ Os 48 slides continuam provisórios até storyboard, leitura oral e piloto. A gr
 A [[Auditoria de Encerramento - Aula 0.1]] foi concluída em 27 de julho de 2026. O caso didático foi registrado como composto e inteiramente descaracterizado, e os saneamentos documentais foram aplicados. A Unidade Curricular 0.1 está encerrada curricularmente em v1.0.
 
 A contagem de 48 slides permanece provisória. Leitura oral, storyboard, piloto e autorização específica continuam necessários antes da gravação, que permanece não autorizada. Essas etapas audiovisuais não reabrem o encerramento curricular.
+
+Em 28 de julho de 2026 foi concluído o [[Mapa Estrutural de Decomposição em Microaulas - Aula 0.1]], que propõe 10 microaulas provisórias e inaugura o padrão de decompor cada unidade logo após sua consolidação curricular. O mapa aplica foco, essencialidade e progressão do DOC4 e auditoria comercial subordinada do DOC2; DOC5 e DOC6 permanecem fora do curso atual. A decomposição não altera as sete Partes, os quatro macroblocos nem a autorização de gravação.
 
 A Unidade Curricular 0.2 é agora a frente curricular ativa do Módulo 0.
 
