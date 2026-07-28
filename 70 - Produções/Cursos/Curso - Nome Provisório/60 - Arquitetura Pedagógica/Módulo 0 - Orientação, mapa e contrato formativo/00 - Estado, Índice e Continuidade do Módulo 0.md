@@ -5,7 +5,7 @@ curso: nome-provisorio
 modulo: 0
 status: ativo
 estado_maturidade: elaboracao-curricular-viva
-versao: "2.6"
+versao: "2.7"
 criado_em: 2026-07-21
 atualizado_em: 2026-07-27
 autor: Fabiano Deliberalli
@@ -18,7 +18,7 @@ autoridade_de_aprovacao: Fabiano Deliberalli
 
 - **Nome provisório:** Orientação, mapa e contrato formativo;
 - **Chat ativo:** Curso — Módulo 0 — Orientação, mapa e contrato formativo;
-- **Aula em primeiro plano:** 0.1 — Da compreensão acumulada à competência incorporada;
+- **Aula em primeiro plano:** 0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança;
 - **Estado:** elaboração curricular viva;
 - **Memória oficial:** GitHub/Obsidian;
 - **Modo de trabalho:** [[Protocolo de Elaboração Curricular Viva e Continuidade Leve]].
@@ -33,8 +33,8 @@ A formulação atual distingue compreensão, acesso a capacidades e incorporaç�
 
 | Aula | Materiais existentes | Questões vivas | Estado |
 |---|---|---|---|
-| **0.1 — Por que compreender ainda pode não ser suficiente?** | roteiro consolidado v1.0; sete Partes; quatro macroblocos; auditoria de encerramento aberta | concluir auditoria; depois preparar storyboard, leitura oral e piloto | consolidada curricularmente; 48 slides provisórios; gravação não autorizada |
-| **0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança** | kit textual organizado e referências visuais | como apresentar o percurso sem rigidez; qual contrato formativo emerge da elaboração da 0.1 | no horizonte do módulo |
+| **0.1 — Por que compreender ainda pode não ser suficiente?** | roteiro consolidado v1.0; sete Partes; quatro macroblocos; auditoria concluída | preparar futuramente storyboard, leitura oral e piloto | encerrada curricularmente; 48 slides provisórios; gravação não autorizada |
+| **0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança** | kit textual organizado e referências visuais | como apresentar o percurso sem rigidez; qual contrato formativo emerge da Aula 0.1 | próxima aula em elaboração |
 
 ## Leitura consultiva já realizada
 
@@ -132,13 +132,15 @@ O estado integral desta passagem foi preservado em [[Encerramento de Sessão - 2
 - Primeira Cartografia confirmada na Aula 0.1;
 - 48 slides provisórios;
 - gravação não autorizada;
-- auditoria de encerramento aberta e ainda não concluída;
-- Aula 0.2 aguardando o encerramento formal da Aula 0.1;
+- auditoria de encerramento concluída em 27 de julho de 2026;
+- caso didático registrado como composto e inteiramente descaracterizado;
+- saneamentos documentais aplicados;
+- Aula 0.2 liberada como próximo ponto de elaboração;
 - P7 ainda pendente antes da consolidação final do Módulo 0.
 
 ## Ponto de retomada
 
-> Executar a [[Auditoria de Encerramento - Aula 0.1]] sobre o [[Roteiro Consolidado v1.0 - Partes 1 a 7 - Aula 0.1]]. Não avançar à Aula 0.2 antes do encerramento desta auditoria.
+> Abrir o [[Aula 0.2 - Índice do Kit]] e retomar a Aula 0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança — a partir do estado documental vigente. Não reabrir a Aula 0.1; suas pendências remanescentes pertencem à futura preparação audiovisual e de pilotagem.
 
 ## Relações
 
