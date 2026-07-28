@@ -4,6 +4,7 @@ projeto: Traduzindo o Ser Humano
 documento: Raio X do Produto
 data: 2026-07-28
 status: vigente
+versao: "1.1"
 ---
 
 # Raio X do Produto — versão com deliberações atualizadas
@@ -73,7 +74,7 @@ Contribuições incorporadas como critérios naturais de elaboração:
 - progressão perceptível;
 - títulos claros e acessíveis.
 
-Esses critérios serão aplicados **depois que a unidade curricular estiver construída integralmente**, durante a preparação audiovisual. Não serão usados para regenerar os sete módulos ou impor quantidades.
+Esses critérios serão aplicados **logo depois que a unidade curricular estiver construída e consolidada**, por meio de uma decomposição estrutural que registra cortes, transições e recursos enquanto o arco ainda está presente. Roteiro oral, duração definitiva, storyboard, design e gravação permanecem para a preparação audiovisual. Os critérios não serão usados para regenerar os sete módulos ou impor quantidades.
 
 ### DOC2 — uso comercial subordinado
 
@@ -82,7 +83,9 @@ Será usado como auditor de comunicação depois da consolidação pedagógica d
 - clareza da situação reconhecível;
 - relação entre problema, capacidade desenvolvida e transformação;
 - distinção entre marca, subtítulo, headline e promessa;
-- linguagem concreta, acessível e não genérica.
+- linguagem concreta, acessível e não genérica;
+- títulos públicos que informem diretamente a dificuldade, a distinção, o instrumento ou a capacidade;
+- títulos compreensíveis fora do contexto, sem transformar frases de síntese em nomes de aulas.
 
 O DOC2 não renomeia a marca, não define o currículo e não autoriza promessas mais amplas que a aprendizagem efetivamente oferecida.
 
@@ -99,8 +102,11 @@ O fluxo recomendado é:
 1. construir integralmente a Unidade 0.2 a partir de seu problema, capacidade principal, arco e ponto de chegada;
 2. usar durante a elaboração a sequência pedagógica predominante, com liberdade para adaptar a ordem quando a unidade exigir;
 3. concluir a revisão autoral e transversal da unidade;
-4. somente então decompor seu arco em microaulas, aplicando os critérios úteis do DOC4;
-5. ao final, usar o DOC2 como checagem comercial de títulos, descrições e comunicação, sem alterar a identidade curricular;
-6. registrar estado, decisões, pendências e próximo ponto de retomada.
+4. imediatamente após a consolidação, decompor o arco em microaulas estruturais, aplicando os critérios úteis do DOC4;
+5. formular títulos públicos diretos e manter formulações conceituais mais densas dentro do conteúdo;
+6. usar o DOC2 como checagem subordinada de títulos, descrições e comunicação, sem alterar a identidade curricular;
+7. registrar recursos e necessidades da futura gravação;
+8. avançar para a unidade seguinte;
+9. deixar roteiro oral, duração definitiva, storyboard, design, piloto e gravação para a etapa audiovisual.
 
 Este fluxo não cria portão adicional. Os prompts funcionam como lentes de revisão nos momentos adequados.
