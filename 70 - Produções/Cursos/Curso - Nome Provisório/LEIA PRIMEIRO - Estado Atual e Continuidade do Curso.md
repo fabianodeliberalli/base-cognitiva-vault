@@ -3,7 +3,7 @@ tipo: porta-de-entrada-continuidadade
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "2.0"
+versao: "2.1"
 criado_em: 2026-07-21
 atualizado_em: 2026-07-28
 autor: Fabiano Deliberalli
@@ -109,28 +109,28 @@ A [[04 - Deliberação Transversal - Público, Microaulas e Arquitetura de Marca
 - **Chat permanente de governança:** Curso — Orquestração Curricular Mestre 03;
 - **unidade conversacional de produção:** um chat ativo por módulo, aberto somente quando o módulo entrar em trabalho real;
 - **memória oficial:** documentos do Obsidian sincronizados neste repositório;
-- **ordem de foco:** Aula 0.1 → Aula 0.2 → síntese do Módulo 0 → Aulas 1.1 e 1.2 → módulos seguintes; conexões e revisões podem ocorrer sem funcionar como bloqueios formais;
+- **ordem de foco:** Unidade 0.1 encerrada → Unidade 0.2 ativa → síntese do Módulo 0 → Unidades 1.1 e 1.2 → módulos seguintes; conexões e revisões podem ocorrer sem funcionar como bloqueios formais;
 - **revisões de consolidação:** realizadas quando uma aula ou módulo alcançar maturidade autoral ou precisar ser preparado para pilotagem; não bloqueiam a exploração criativa.
 
 Este chat atual assume a função de **Orquestração Curricular Mestre 03**. Um novo chat mestre só deverá ser aberto quando este atingir limite operacional; a continuidade será recuperada por esta nota, pelo Protocolo e pelos índices, não pela memória conversacional.
 
 ### Frente curricular ativa
 
-> Retomar a **Aula 0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança**
+> Retomar a **Unidade Curricular 0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança**
 
-A Aula 0.1 foi consolidada curricularmente em v1.0 após aprovação explícita de Fabiano. Estão aprovados o título, o subtítulo, as sete Partes, os quatro macroblocos e as funções distintas das práticas das Partes 4, 5 e 7. A Primeira Cartografia pertence à Aula 0.1.
+A Unidade Curricular 0.1 foi consolidada curricularmente em v1.0 após aprovação explícita de Fabiano. Estão aprovados o título, o subtítulo, as sete Partes, os quatro macroblocos e as funções distintas das práticas das Partes 4, 5 e 7. A Primeira Cartografia pertence à Aula 0.1.
 
 Os 48 slides continuam provisórios até storyboard, leitura oral e piloto. A gravação permanece não autorizada.
 
-A [[Auditoria de Encerramento - Aula 0.1]] foi concluída em 27 de julho de 2026. O caso didático foi registrado como composto e inteiramente descaracterizado, e os saneamentos documentais foram aplicados. A Aula 0.1 está encerrada curricularmente em v1.0.
+A [[Auditoria de Encerramento - Aula 0.1]] foi concluída em 27 de julho de 2026. O caso didático foi registrado como composto e inteiramente descaracterizado, e os saneamentos documentais foram aplicados. A Unidade Curricular 0.1 está encerrada curricularmente em v1.0.
 
 A contagem de 48 slides permanece provisória. Leitura oral, storyboard, piloto e autorização específica continuam necessários antes da gravação, que permanece não autorizada. Essas etapas audiovisuais não reabrem o encerramento curricular.
 
-A Aula 0.2 é agora a frente curricular ativa do Módulo 0.
+A Unidade Curricular 0.2 é agora a frente curricular ativa do Módulo 0.
 
 ### Lugar da Aula 1.1
 
-A Aula 1.1 permanece como protótipo revisável e será auditada quando o percurso alcançar o Módulo 1. A mudança de ordem não restaura proteção canônica nem invalida seu acervo; apenas a reinsere na sequência curricular comum das 14 aulas.
+A Unidade Curricular 1.1 permanece como protótipo revisável e será auditada quando o percurso alcançar o Módulo 1. A mudança de ordem não restaura proteção canônica nem invalida seu acervo; apenas a reinsere na sequência curricular comum das 14 unidades.
 
 ## Ordem mínima de leitura
 
@@ -225,7 +225,7 @@ Não é necessário executar um ritual completo a cada conversa.
 
 ## Ponto exato de retomada
 
-> No chat **Curso — Módulo 0 — Orientação, mapa e contrato formativo**, abrir o [[Aula 0.2 - Índice do Kit]] e os materiais vigentes da Aula 0.2. Retomar sua elaboração progressiva a partir do Percurso do EIXO — mapa, espiral, pêndulo e segurança — sem reabrir a Aula 0.1. Preservar, para preparação audiovisual posterior, os 48 slides provisórios e a gravação não autorizada da Aula 0.1.
+> No chat **Curso — Módulo 0 — Orientação, mapa e contrato formativo**, abrir o [[Aula 0.2 - Índice do Kit]] e os materiais vigentes da Unidade Curricular 0.2. Retomar sua elaboração progressiva a partir do Percurso do EIXO — mapa, espiral, pêndulo e segurança — sem reabrir a Unidade 0.1. Preservar, para preparação audiovisual posterior, os 48 slides provisórios e a gravação não autorizada da Unidade 0.1.
 
 ## Relações
 
