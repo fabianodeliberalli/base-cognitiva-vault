@@ -3,7 +3,7 @@ tipo: deliberacao-transversal
 projeto: Traduzindo o Ser Humano
 curso: Traduzindo o Ser Humano
 status: vigente
-versao: "1.0"
+versao: "1.1"
 data: 2026-07-28
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
@@ -87,6 +87,40 @@ Uma microaula deve privilegiar:
 
 Não se estabelece duração rígida como critério pedagógico.
 
+### Momento da decomposição
+
+A decomposição estrutural em microaulas acontece **logo após a consolidação curricular de cada unidade**, enquanto seu arco, suas transições e seus recursos ainda estão presentes no processo de elaboração. Ela funciona como ponte de organização para a gravação futura, sem reabrir automaticamente o conteúdo aprovado.
+
+O acabamento audiovisual permanece posterior: roteiro oral, duração definitiva, storyboard, design, leitura cronometrada, piloto e autorização de gravação.
+
+A sequência de trabalho passa a ser:
+
+1. construir integralmente a unidade curricular;
+2. consolidar seu problema, sua capacidade, seu arco e seu ponto de chegada;
+3. decompor imediatamente o arco em microaulas estruturais;
+4. registrar cortes, transições, recursos e necessidades futuras;
+5. revisar os títulos públicos;
+6. avançar para a unidade seguinte;
+7. realizar o acabamento audiovisual no momento próprio.
+
+Essa sequência organiza o trabalho e reduz acúmulo futuro; não constitui novo portão burocrático.
+
+### Critério dos títulos públicos
+
+O título público da microaula deve dizer de imediato pelo menos uma destas coisas:
+
+- qual dificuldade será compreendida;
+- qual diferença ficará mais clara;
+- o que a pessoa aprenderá a observar ou fazer;
+- qual instrumento será apresentado.
+
+Aplicam-se ainda as seguintes distinções:
+
+- o título deve fazer sentido fora do contexto do roteiro;
+- frases autorais, metáforas e formulações amplas podem permanecer no conteúdo ou nos slides quando não informarem claramente a aprendizagem;
+- termos autorais podem aparecer quando acompanhados de explicação simples sobre sua função;
+- título público e formulação conceitual interna não precisam ser idênticos: o primeiro abre acesso; a segunda preserva precisão e profundidade.
+
 ## 4. Arquitetura de marca e comunicação
 
 ### Funções
@@ -157,7 +191,7 @@ Transformar compreensão acumulada em capacidade progressiva de reconhecer o que
 
 ### Estrutura
 
-Sete módulos organizados em aulas curtas e progressivas. Internamente, o currículo possui 14 unidades curriculares nucleares, posteriormente decompostas em microaulas para a plataforma.
+Sete módulos organizados em aulas curtas e progressivas. Internamente, o currículo possui 14 unidades curriculares nucleares, decompostas estruturalmente em microaulas logo após a consolidação de cada unidade.
 
 ### Formato de entrega
 
