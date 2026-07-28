@@ -3,7 +3,7 @@ tipo: porta-de-entrada-continuidadade
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "2.2"
+versao: "2.3"
 criado_em: 2026-07-21
 atualizado_em: 2026-07-28
 autor: Fabiano Deliberalli
@@ -54,7 +54,7 @@ As decisões substantivas e os cuidados éticos permanecem protegidos. A documen
 ### Curso
 
 - arquitetura integral em prototipagem curricular controlada;
-- 7 módulos e 14 unidades curriculares nucleares, posteriormente decomponíveis em microaulas;
+- 7 módulos e 14 unidades curriculares nucleares, decompostas estruturalmente em microaulas logo após a consolidação de cada unidade;
 - arquitetura curricular v0.2 vigente como protótipo governado, não como currículo definitivamente congelado;
 - perspectiva espiritual afirmativa, plural e não dogmática;
 - dimensão energética retirada da condição de adendo, com aula nuclear própria e presença longitudinal;
@@ -84,6 +84,8 @@ A arquitetura passa a utilizar a seguinte sequência:
 
 **Parte** é a divisão pedagógica interna de uma unidade curricular. **Microaula** é a unidade audiovisual de entrega na plataforma, geralmente concentrada em uma pergunta ou ideia principal. Uma Parte pode originar uma ou mais microaulas; duas Partes breves também podem compartilhar uma microaula sem alterar a arquitetura curricular.
 
+A decomposição estrutural ocorre logo após a consolidação curricular da unidade. O título público da microaula deve informar diretamente a dificuldade, a distinção, o instrumento ou a capacidade trabalhada e fazer sentido sem depender do contexto do roteiro. Formulações conceituais mais densas permanecem no conteúdo quando forem mais precisas do que acessíveis como título.
+
 Experiências e práticas podem conter **Momentos** internos. Slides, mapas, cadernos e demais materiais permanecem recursos vinculados, não novos níveis da arquitetura. Os nomes históricos de arquivos e links com “Aula” podem ser preservados para evitar ruptura documental, mas a nomenclatura conceitual vigente é **Unidade curricular**.
 
 O termo **Capítulo** deixa de ser utilizado para as divisões internas das unidades curriculares. A mudança é terminológica e organizacional: não altera o conteúdo, o estatuto ou a maturidade dos textos já produzidos.
@@ -96,7 +98,7 @@ A [[04 - Deliberação Transversal - Público, Microaulas e Arquitetura de Marca
 - construção pedagógica orientada predominantemente por **Experiência reconhecível → distinção acessível → conceito → aplicação → integração progressiva**;
 - **Traduzindo o Ser Humano** como marca organizadora e nome da oferta, com subtítulo estável e headlines variáveis;
 - EIXO preservado como função pedagógica de coordenação, retorno e reorganização, sem comandar a marca comercial;
-- 7 módulos e 14 unidades curriculares nucleares, decompostas em microaulas na preparação audiovisual; a quantidade final de microaulas não será divulgada antes dessa decomposição.
+- 7 módulos e 14 unidades curriculares nucleares, decompostas estruturalmente em microaulas logo após a consolidação de cada unidade; quantidade e duração finais só serão definidas na preparação audiovisual.
 
 ### Referências técnicas já definidas
 
@@ -126,7 +128,7 @@ A [[Auditoria de Encerramento - Aula 0.1]] foi concluída em 27 de julho de 2026
 
 A contagem de 48 slides permanece provisória. Leitura oral, storyboard, piloto e autorização específica continuam necessários antes da gravação, que permanece não autorizada. Essas etapas audiovisuais não reabrem o encerramento curricular.
 
-Em 28 de julho de 2026 foi concluído o [[Mapa Estrutural de Decomposição em Microaulas - Aula 0.1]], que propõe 10 microaulas provisórias e inaugura o padrão de decompor cada unidade logo após sua consolidação curricular. O mapa aplica foco, essencialidade e progressão do DOC4 e auditoria comercial subordinada do DOC2; DOC5 e DOC6 permanecem fora do curso atual. A decomposição não altera as sete Partes, os quatro macroblocos nem a autorização de gravação.
+Em 28 de julho de 2026 foi concluído o [[Mapa Estrutural de Decomposição em Microaulas - Aula 0.1]], que propõe 10 microaulas provisórias e inaugura o padrão de decompor cada unidade logo após sua consolidação curricular. Os dez títulos públicos foram aprovados após revisão de clareza: devem ser diretos, reconhecíveis e compreensíveis fora do contexto da aula, enquanto formulações conceituais mais densas permanecem dentro do conteúdo. O mapa aplica foco, essencialidade e progressão do DOC4 e auditoria comercial subordinada do DOC2; DOC5 e DOC6 permanecem fora do curso atual. A decomposição não altera as sete Partes, os quatro macroblocos nem a autorização de gravação.
 
 A Unidade Curricular 0.2 é agora a frente curricular ativa do Módulo 0.
 
