@@ -5,10 +5,10 @@ curso: nome-provisorio
 status: prototipagem-curricular-em-andamento
 estado_maturidade: arquitetura-integral-em-prototipagem
 fase_atual: "construção curricular sequencial — Módulo 0 ativo — Aula 0.1 como ponto de entrada"
-versao: "0.31"
+versao: "0.32"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-17
-atualizado_em: 2026-07-26
+atualizado_em: 2026-07-28
 documento_superior: Protocolo Operacional para Construção da Arquitetura de Cursos v1.0
 tags:
   - traduzindo-o-ser-humano
@@ -17,9 +17,9 @@ tags:
   - arquitetura-pedagogica
 ---
 
-# Dossiê de Contexto — Curso [nome provisório]
+# Dossiê de Contexto — Traduzindo o Ser Humano
 
-**Versão:** 0.31  
+**Versão:** 0.32  
 **Estado de maturidade:** arquitetura integral em prototipagem  
 **Fases concluídas:** Fase 0 — Abertura e governança; Fase 1 — Gênese, identidade e problema humano  
 **Fase atual:** construção curricular sequencial; Módulo 0 ativo; Aula 0.1 como ponto de entrada
@@ -29,8 +29,8 @@ tags:
 ## 0. Controle documental
 
 - **Código do curso:** a definir;
-- **Nome atual:** Curso [nome provisório];
-- **Versão do Dossiê:** 0.31;
+- **Nome atual da oferta:** Traduzindo o Ser Humano;
+- **Versão do Dossiê:** 0.32;
 - **Status documental:** documento evolutivo;
 - **Estado de maturidade:** arquitetura integral em prototipagem;
 - **Data de criação:** 2026-07-17;
@@ -43,7 +43,7 @@ tags:
 
 ### Regra de evolução
 
-Este documento deverá permanecer como **Dossiê de Contexto** durante as fases de concepção. Somente depois da validação integral da arquitetura poderá ser renomeado como **Arquitetura Mestre — Curso [nome aprovado]**.
+Este documento deverá permanecer como **Dossiê de Contexto** durante as fases de concepção. Somente depois da validação integral da arquitetura poderá ser renomeado como **Arquitetura Mestre — Traduzindo o Ser Humano**.
 
 ### Atualização do modo de elaboração — 26 de julho de 2026
 
@@ -57,11 +57,30 @@ A frente vigente é a leitura autoral integrada da Aula 0.1. Seu roteiro encontr
 
 Por decisão autoral, a hierarquia de referência passa a ser:
 
-> **Curso → Módulo → Aula → Parte**
+> **Curso → Módulo → Unidade curricular → Parte**
 
-**Parte** nomeia a divisão pedagógica interna da aula. **Vídeo** nomeia apenas uma forma de gravação e entrega, podendo corresponder a uma Parte, dividir uma Parte longa ou reunir Partes breves. Experiência ou Prática e seus Momentos internos permanecem categorias subordinadas de atividade; slides, mapas e materiais são recursos vinculados.
+**Unidade curricular** nomeia cada estrutura numerada de 0.1 a 6.2 e preserva seu código, capacidade e arco de aprendizagem. **Parte** nomeia sua divisão pedagógica interna. **Microaula** nomeia a unidade audiovisual de entrega na plataforma, podendo corresponder a uma Parte, dividir uma Parte longa ou reunir Partes breves. Experiência ou Prática e seus Momentos internos permanecem categorias subordinadas de atividade; slides, mapas e materiais são recursos vinculados.
 
-O termo **Capítulo** deixa de nomear divisões internas das aulas. A substituição é terminológica e organizacional e deve ser aplicada aos roteiros na consolidação documental, sem modificar conteúdos nem conferir estatuto superior às versões em leitura autoral.
+O termo **Capítulo** deixa de nomear divisões internas das unidades curriculares. Nomes históricos de arquivos e links com “Aula” podem ser preservados para evitar ruptura documental. A mudança é terminológica e organizacional e não modifica conteúdos nem estatutos.
+
+### Atualização transversal — 28 de julho de 2026
+
+Fabiano Deliberalli aprovou a incorporação do feedback da mentoria com Camila como diretriz transversal da construção aula por aula, sem reiniciar o curso e sem criar novos mecanismos burocráticos. A elaboração passa a favorecer:
+
+> **Experiência reconhecível → distinção acessível → conceito → aplicação → integração progressiva.**
+
+A formulação interna vigente do público é:
+
+> O público primário do curso é constituído por adultos com trajetória prévia de psicoterapia, autoconhecimento, contemplação, espiritualidade ou outros caminhos reflexivos, que acumularam compreensões relevantes sobre si, mas ainda encontram dificuldade para acessar, sustentar e transformar essas compreensões quando padrões conhecidos são mobilizados. Essa trajetória não pressupõe formação acadêmica nem domínio prévio dos conceitos, mapas ou vocabulário do curso.
+
+A arquitetura comercial vigente distingue:
+
+- **marca e nome da oferta:** Traduzindo o Ser Humano;
+- **subtítulo-base:** Da compreensão acumulada à mudança vivida;
+- **headline-base:** Por que você entende seus padrões, mas continua repetindo?;
+- **EIXO:** função pedagógica interna de coordenação, retorno e reorganização.
+
+A primeira oferta mantém 7 módulos e 14 unidades curriculares nucleares. A quantidade de microaulas só será divulgada quando a decomposição audiovisual estiver suficientemente avançada. Ver [[04 - Deliberação Transversal - Público, Microaulas e Arquitetura de Marca - 2026-07-28]].
 
 ### Atualização operacional — 21 de julho de 2026
 
@@ -114,9 +133,9 @@ Existe uma distância entre o repertório já compreendido e a capacidade de ace
 
 Uma arquitetura educacional que ajude a transformar repertório acumulado em capacidade inicial de reconhecer, sustentar, discernir e começar a integrar a experiência presente, sem substituir cuidado clínico, médico ou espiritual individualizado.
 
-### Público preliminar
+### Público primário vigente
 
-Adultos com trajetória anterior relevante de reflexão, psicoterapia, práticas contemplativas ou caminhos espirituais/religiosos. A delimitação fina do público, das condições de entrada e das exclusões permanece como tarefa da Fase 2.
+Adultos com trajetória prévia de psicoterapia, autoconhecimento, contemplação, espiritualidade ou outros caminhos reflexivos, que acumularam compreensões relevantes sobre si, mas ainda encontram dificuldade para acessar, sustentar e transformar essas compreensões quando padrões conhecidos são mobilizados. Essa trajetória não pressupõe formação acadêmica nem domínio prévio dos conceitos, mapas ou vocabulário do curso.
 
 ### Transformação preliminar
 
@@ -124,11 +143,11 @@ Passagem de um repertório predominantemente compreendido ou narrado para uma ca
 
 ### Função no ecossistema
 
-O novo curso será definido como a **primeira expressão pedagógica e comercial derivada da arquitetura integral do Método EIXO**. Seu recorte, profundidade, duração e formato somente serão decididos depois que o percurso completo do Método estiver visível.
+**Traduzindo o Ser Humano** é a marca organizadora e a primeira oferta formativa integral do ecossistema. Sua pedagogia utiliza a Tradução da Experiência Humana como identidade e preserva o eixo como função de coordenação, retorno e reorganização ao longo do percurso.
 
 ### Relação com o Método EIXO
 
-A arquitetura integral e evolutiva do Método EIXO antecederá a arquitetura curricular da primeira oferta. O curso poderá percorrer todas as fases em profundidade inicial ou oferecer um recorte coerente, decisão que permanecerá aberta até a conclusão do mapa integral.
+O patrimônio metodológico anteriormente organizado sob o nome Método EIXO permanece disponível como arquitetura pedagógica e histórica. Na oferta, EIXO não disputa a marca principal: funciona como linguagem interna para coordenação, retorno e reorganização, em relação circular com a Tradução da Experiência Humana.
 
 ### Parecer de viabilidade
 
@@ -136,9 +155,9 @@ O projeto possui densidade filosófica, patrimônio intelectual e coerência ped
 
 ## 2. Identidade do curso
 
-- **Nome provisório:** Curso [nome provisório];
-- **Nome institucional:** em aberto;
-- **Subtítulo:** em aberto;
+- **Marca e nome atual da oferta:** Traduzindo o Ser Humano;
+- **Subtítulo-base:** Da compreensão acumulada à mudança vivida;
+- **Headline-base:** Por que você entende seus padrões, mas continua repetindo?;
 - **Natureza geral aprovada:** estrutura educacional complementar;
 - **Tese central:** compreender uma experiência não garante capacidade de sustentar e integrar aquilo que ela continua mobilizando;
 - **Pergunta organizadora provisória:** como transformar o que a pessoa já compreendeu em capacidade de reconhecer, sustentar, discernir e começar a integrar sua experiência?
@@ -156,7 +175,7 @@ A identidade nasce da experiência humana que justifica o curso. Nome, promessa 
 - **Decisão consolidada:** não substituir psicoterapia, cuidado em saúde ou acompanhamento espiritual;
 - **Formulação aprovada da Fase 1:** problema humano e necessidade formativa;
 - **Hipótese de trabalho:** curso-base de Tradução da Experiência Humana e Fundamentos do EIXO;
-- **Em aberto:** nome, formato, duração, valor, promessa comercial e posição institucional definitiva.
+- **Em aberto:** variações de headline, aplicação visual da arquitetura comercial, duração total, calendário, vagas e decomposição audiovisual definitiva;
 
 ## 3. Vínculo institucional
 
@@ -186,7 +205,7 @@ A identidade nasce da experiência humana que justifica o curso. Nome, promessa 
 
 ### 3.3. Função estratégica do novo curso
 
-**APROVADA EM NÍVEL ESTRUTURAL:** primeira oferta formativa integral e primeira expressão pedagógica e comercial derivada da arquitetura global do Método EIXO, com função simultânea de formação e validação pedagógica.
+**APROVADA EM NÍVEL ESTRUTURAL:** primeira oferta formativa integral organizada pela marca Traduzindo o Ser Humano, com função simultânea de formação e validação pedagógica. A Tradução da Experiência Humana governa a identidade; EIXO permanece função pedagógica interna.
 
 ### 3.4. Posição na jornada formativa
 
@@ -244,17 +263,17 @@ O curso não substitui psicoterapia, acompanhamento médico, cuidado em saúde m
 
 ## 5. Público e condições de entrada
 
-### Público preliminar derivado da Fase 1
+### Público primário vigente
 
-- **Público principal candidato:** adultos com trajetória prévia de autoconhecimento, psicoterapia, práticas contemplativas, espiritualidade ou religião;
-- **Momento existencial ou formativo:** já acumularam repertório e explicações, mas percebem que isso não basta para sustentar determinadas experiências no presente;
-- **Problemas reconhecidos:** repetição de padrões, distância entre saber e fazer, dificuldade de permanecer presente diante da mobilização;
-- **Necessidades ainda não reconhecidas:** tradução, diferenciação, sustentação, discernimento e integração gradual;
-- **Conhecimentos prévios:** não se exige formação acadêmica; espera-se familiaridade mínima com processos reflexivos;
-- **Experiências prévias:** alguma trajetória deliberada de autoconhecimento ou cuidado;
+- **Público principal:** adultos com trajetória prévia de psicoterapia, autoconhecimento, contemplação, espiritualidade ou outros caminhos reflexivos;
+- **Momento existencial ou formativo:** acumularam compreensões relevantes, mas têm dificuldade para acessá-las, sustentá-las e transformá-las quando padrões conhecidos são mobilizados;
+- **Problemas reconhecidos:** repetição de padrões, distância entre saber e fazer e perda de acesso ao que já compreenderam;
+- **Necessidades formativas:** tradução, diferenciação, sustentação, discernimento, aplicação e integração gradual;
+- **Conhecimentos prévios:** não se exige formação acadêmica nem domínio de conceitos, mapas ou vocabulário do curso;
+- **Experiências prévias:** trajetória deliberada por psicoterapia, autoconhecimento, contemplação, espiritualidade ou outros caminhos reflexivos;
 - **Disponibilidade para práticas:** deverá aceitar exercícios leves, graduados, facultativos e não expositivos;
 - **Para quem não é — limite preliminar:** pessoas que buscam tratamento, diagnóstico, resolução imediata, confirmação metafísica ou intervenção clínica individual;
-- **Condições de entrada, público secundário e barreiras:** EM DELIBERAÇÃO NA FASE 2.
+- **Condições de entrada, público secundário e barreiras:** serão refinadas por validação e pilotagem, sem reabrir a formulação do público primário;
 
 **Bloqueio de fase removido:** o problema humano foi formulado. A definição fina do público está autorizada, subordinada à posição e à natureza da oferta.
 
@@ -814,7 +833,7 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 | Qual é o percurso integral e necessário do Método? | Permite derivar o curso sem mutilação ou excesso | Alta | Fase 2 |
 | Quais são a competência nuclear, os princípios e os critérios de progressão? | Define a identidade metodológica | Alta | Fase 2 |
 | A primeira oferta percorrerá todas as fases ou um ciclo delimitado? | Define a natureza exata da oferta | Alta | Após mapa integral |
-| Qual público principal deve orientar a primeira edição? | Evita uma oferta excessivamente ampla | Alta | Após mapa integral |
+| Quais públicos secundários e barreiras de entrada devem ser considerados? | Refina acesso sem diluir o público primário aprovado | Média | Validação e piloto |
 | Qual transformação é legítima e observável? | Define promessa e avaliação | Alta | Fase 3 |
 | Qual patrimônio é estritamente necessário? | Evita acúmulo indiscriminado | Média | Fase 4 |
 | Qual relação operacional terá com o EIXO? | Define profundidade e limites | Alta | Fase 5 |
@@ -859,6 +878,7 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 
 | Versão | Data | Mudança | Motivo |
 |---|---|---|---|
+| 0.32 | 2026-07-28 | Público primário aprovado; distinção entre unidade curricular e microaula; sequência pedagógica de tradução; Traduzindo o Ser Humano como marca e reconciliação do papel de EIXO | Deliberação autoral após feedback da mentoria |
 | 0.31 | 2026-07-26 | Registro da lacuna de procedência das Partes 1–5 e da montagem integral controlada antes de qualquer edição | Solicitação autoral e auditoria documental |
 | 0.28 | 2026-07-21 | Marcação explícita da antiga frente da Aula 1.1 como registro histórico superado | Auditoria de continuidade |
 | 0.27 | 2026-07-21 | Orquestração Mestre permanente, um chat por módulo, camada de Estado e Índice do Módulo e retomada pela Aula 0.1 | Deliberação autoral |
@@ -926,7 +946,7 @@ Esta seção prevalece sobre indicações antigas de próxima aula ou frente ati
 
 - seis fases aprovadas;
 - primeira oferta integral autorizada para prototipagem curricular;
-- 7 módulos e 14 aulas nucleares;
+- 7 módulos e 14 unidades curriculares nucleares;
 - P2 aprovado integralmente;
 - núcleo mínimo de P6 aprovado para a primeira oferta;
 - Aula 1.1 preservada como protótipo revisável, sem precedência sobre a sequência curricular.
@@ -987,7 +1007,7 @@ ABBSP, TCC de Sincronia Neural, monografia de Psicologia Transpessoal, trabalhos
 
 ### Currículo e Raio X
 
-A estrutura de 14 aulas permanece vigente como arquitetura de prototipagem. Sua densidade e genealogia são revistas pela matriz transversal. O Raio X permanece patrimônio histórico e banco de conteúdos, agora lido por capacidade, profundidade e destino curricular, sem voltar a governar como currículo automático.
+A estrutura de 14 unidades curriculares permanece vigente como arquitetura de prototipagem. Cada unidade será decomposta em microaulas na preparação audiovisual, sem alteração dos códigos curriculares. Sua densidade e genealogia são revistas pela matriz transversal. O Raio X permanece patrimônio histórico e banco de conteúdos, agora lido por capacidade, profundidade e destino curricular, sem voltar a governar como currículo automático.
 
 ### Estatuto revisional da Aula 1.1
 
