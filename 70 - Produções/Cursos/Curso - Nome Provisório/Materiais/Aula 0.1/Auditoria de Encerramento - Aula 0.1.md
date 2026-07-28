@@ -4,9 +4,9 @@ projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 modulo: 0
 aula: "0.1"
-status: em-andamento
-estado_maturidade: auditoria-executada-com-pendencias
-versao: "1.1"
+status: concluida
+estado_maturidade: auditoria-de-encerramento-concluida
+versao: "1.2"
 criado_em: 2026-07-26
 atualizado_em: 2026-07-27
 autor_do_curso: Fabiano Deliberalli
@@ -92,18 +92,9 @@ O subtítulo usa “transformar compreensão em capacidade”, mas é protegido 
 
 ## Veredito do critério 1
 
-**APROVADO COM SANEAMENTO DOCUMENTAL NÃO ESTRUTURAL.**
+**APROVADO.**
 
-Há coerência entre identidade, função e capacidade. Não é necessária reconstrução curricular.
-
-### Saneamentos necessários
-
-1. o Slide 1 ainda exibe **Da compreensão acumulada à competência incorporada**, enquanto o título curricular aprovado é **Por que compreender ainda pode não ser suficiente?**; decidir no storyboard se a tela de abertura deve trazer o título oficial ou se a formulação antiga será mantida explicitamente como nome do primeiro movimento;
-2. alguns cabeçalhos internos ainda dizem **Proposta revisada**, resíduo do estatuto candidato;
-3. o final da v1.0 ainda conserva **Decisões autorais ainda abertas** e **Próximo portão** anteriores à aprovação, embora o registro de aprovação posterior as encerre;
-4. o Estado do Módulo 0 ainda usa, em um ponto de sua identidade, o nome anterior da Aula 0.1.
-
-Esses itens afetam clareza documental e audiovisual, não o conteúdo aprovado.
+Há coerência entre identidade, função e capacidade. Não é necessária reconstrução curricular. Os quatro saneamentos documentais identificados foram aplicados em 27 de julho de 2026: o Slide 1 foi alinhado ao título aprovado; os cabeçalhos candidatos foram removidos; as decisões históricas foram marcadas como encerradas; e o Estado do Módulo 0 foi alinhado à identidade oficial da aula.
 
 ---
 
@@ -281,8 +272,8 @@ O EIXO é interrompido no ponto correto: capacidade dinâmica de perceber afasta
 ## Obrigatórias antes da autorização de gravação
 
 1. ~~esclarecer e registrar o estatuto do caso composto;~~ **resolvido em 27/07/2026**
-2. sanear os demais resíduos documentais da v1.0;
-3. decidir a identidade visual do Slide 1;
+2. ~~sanear os demais resíduos documentais da v1.0;~~ **resolvido em 27/07/2026**
+3. ~~decidir a identidade visual do Slide 1;~~ **resolvido em 27/07/2026: utilizar o título oficial da aula**
 4. produzir roteiro oral limpo;
 5. realizar leitura cronometrada;
 6. produzir storyboard e rever os 48 slides;
@@ -311,15 +302,14 @@ Não foi encontrada razão para reconstruir a aula nem retornar às versões can
 
 ## Estado de saída
 
-**AUDITORIA SISTEMÁTICA EXECUTADA COM PENDÊNCIAS DE FECHAMENTO.**
+**AUDITORIA DE ENCERRAMENTO CONCLUÍDA.**
 
-A pendência de privacidade foi resolvida com o registro do estatuto de caso composto e a ocultação do nome próprio. A aula ainda não pode ser declarada formalmente encerrada porque:
+A identidade, a arquitetura, as práticas, os estatutos das linguagens, a Primeira Cartografia, o caso composto e as fronteiras curriculares foram aprovados. Todos os saneamentos documentais necessários ao fechamento foram aplicados e os documentos de estado foram atualizados.
 
-1. os demais saneamentos documentais identificados ainda não foram aplicados;
-2. os documentos de estado e índices ainda não foram atualizados para registrar o fechamento.
+A Aula 0.1 está encerrada curricularmente em v1.0. Os 48 slides permanecem provisórios, e leitura oral, storyboard, piloto e autorização específica continuam necessários antes da gravação.
 
-A gravação permanece não autorizada. A Aula 0.2 permanece bloqueada.
+A gravação permanece não autorizada. A Aula 0.2 deixa de estar bloqueada pelo encerramento curricular da Aula 0.1, mas não foi iniciada por esta auditoria.
 
 ## Próxima ação exata
 
-> Retomar pelos demais saneamentos documentais não estruturais já identificados, verificar o resultado e então fechar esta auditoria, atualizando o Índice do Kit, o Estado do Módulo 0 e o Índice Mestre. Não avançar à Aula 0.2 antes dessas ações.
+> Iniciar a retomada documental e a elaboração progressiva da Aula 0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança — sem reabrir a Aula 0.1. As pendências audiovisuais da Aula 0.1 permanecem registradas para a futura preparação de pilotagem e gravação.
