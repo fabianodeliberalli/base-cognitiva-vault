@@ -5,7 +5,7 @@ curso: nome-provisorio
 modulo: 0
 status: ativo
 estado_maturidade: elaboracao-curricular-viva
-versao: "2.9"
+versao: "3.0"
 criado_em: 2026-07-21
 atualizado_em: 2026-07-28
 autor: Fabiano Deliberalli
@@ -33,7 +33,7 @@ A formulação atual distingue compreensão, acesso a capacidades e incorporaç�
 
 | Unidade | Materiais existentes | Questões vivas | Estado |
 |---|---|---|---|
-| **Unidade 0.1 — Por que compreender ainda pode não ser suficiente?** | roteiro consolidado v1.0; sete Partes; quatro macroblocos; auditoria concluída | preparar futuramente storyboard, leitura oral e piloto | encerrada curricularmente; 48 slides provisórios; gravação não autorizada |
+| **Unidade 0.1 — Por que compreender ainda pode não ser suficiente?** | roteiro consolidado v1.0; sete Partes; quatro macroblocos; auditoria concluída; mapa estrutural piloto com 10 microaulas | roteiro oral, leitura cronometrada, storyboard, piloto e decisão de gravação | encerrada curricularmente; decomposição estrutural concluída; 48 slides e 10 cortes provisórios; gravação não autorizada |
 | **Unidade 0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança** | kit textual organizado e referências visuais | como apresentar o percurso sem rigidez; qual contrato formativo emerge da Aula 0.1 | próxima aula em elaboração |
 
 ## Leitura consultiva já realizada
@@ -50,18 +50,21 @@ Em especial, não está decidido antecipadamente:
 - que o título atual descreva integralmente a função desejada;
 - que a aula precise caber numa arquitetura já fechada.
 
-## Modo de elaboração da Aula 0.1
+## Preparação audiovisual piloto da Unidade 0.1
 
-A próxima conversa começa por uma Mesa de Trabalho:
+Em 28 de julho de 2026 foi criado o [[Mapa Estrutural de Decomposição em Microaulas - Aula 0.1]].
 
-1. recuperar o conteúdo já existente;
-2. reconhecer suas ideias centrais;
-3. relacioná-las ao título e à intenção atualmente propostos;
-4. explicitar tensões e perguntas abertas;
-5. explorar possibilidades sem decisão antecipada;
-6. escolher um primeiro núcleo de sentido e desenvolvê-lo com Fabiano.
+A Unidade 0.1 funciona como piloto do procedimento que será aplicado após a consolidação de cada unidade curricular:
 
-A conversa ocorre em linguagem natural. Códigos, portões, taxonomias e checklists ficam nos bastidores e só aparecem se ajudarem uma decisão concreta.
+1. preservar o arco curricular aprovado;
+2. localizar mudanças reais de pergunta ou função pedagógica;
+3. decompor sem exigir equivalência entre Parte e microaula;
+4. registrar entrada, chegada, ligação e recursos de cada corte;
+5. aplicar foco e essencialidade do DOC4;
+6. auditar títulos de forma subordinada pelo DOC2;
+7. deixar roteiro oral, duração final, storyboard, design e gravação para a preparação audiovisual.
+
+O mapa propõe 10 microaulas provisórias. A decomposição não reabre as sete Partes, não altera os quatro macroblocos e não autoriza gravação. A Unidade 0.2 permanece como próxima frente curricular.
 
 ## O que permanece protegido
 
@@ -143,13 +146,13 @@ O estado integral desta passagem foi preservado em [[Encerramento de Sessão - 2
 
 ## Ponto de retomada
 
-> Abrir o [[Aula 0.2 - Índice do Kit]] e retomar a Unidade Curricular 0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança — a partir do estado documental vigente. Não reabrir a Unidade 0.1; suas pendências remanescentes pertencem à futura preparação audiovisual e de pilotagem.
+> Abrir o [[Aula 0.2 - Índice do Kit]] e retomar a Unidade Curricular 0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança — a partir do estado documental vigente. A Unidade 0.1 permanece encerrada curricularmente; seu mapa estrutural piloto de 10 microaulas já foi produzido, e roteiro oral, storyboard, leitura cronometrada, piloto e autorização de gravação permanecem para a preparação audiovisual.
 
 ## Relações
 
 - [[04 - Deliberação Transversal - Público, Microaulas e Arquitetura de Marca - 2026-07-28]]
 
-- [[Aula 0.1 - Índice do Kit]]
+- [[Aula 0.1 - Índice do Kit]]\n- [[Mapa Estrutural de Decomposição em Microaulas - Aula 0.1]]
 - [[Auditoria de Procedência, Montagem e Leitura Autoral - Aula 0.1]]
 - [[Roteiro em Elaboração - Partes 6 e 7 - Aula 0.1]]
 - [[Leitura Integrada em Elaboração - Arco das Partes 1 a 7 - Aula 0.1]]
