@@ -65,18 +65,18 @@ A divisão em macroblocos é editorial. Curricularmente, esta continua sendo uma
 # Macrobloco 1 — Reconhecer o problema
 
 
-## Proposta revisada da Parte 1
+## Parte 1
 
 ### Título da Parte
 
 **Quando a experiência ainda não encontrou palavras — ou quando as palavras ainda não se tornaram capacidade**
 
-### Slide 1 — Da compreensão acumulada à competência incorporada
+### Slide 1 — Por que compreender ainda pode não ser suficiente?
 
 **Na tela**
 
-**Da compreensão acumulada à competência incorporada**  
-*Como começar a traduzir a própria experiência*
+**Por que compreender ainda pode não ser suficiente?**  
+*Como começar a traduzir a própria experiência e transformar compreensão em capacidade.*
 
 **Fala consolidada**
 
@@ -223,9 +223,7 @@ Os mapas que utilizaremos servem para orientar a investigação. Eles não defin
 
 ---
 
-## Proposta revisada
-
-### Parte 2 — Um caso composto: quando observar parece significar sentir menos
+## Parte 2 — Um caso composto: quando observar parece significar sentir menos
 
 > **Nota de integridade:** este é um caso composto, construído a partir de experiências clínicas e inteiramente descaracterizado para finalidade educacional. Não representa uma pessoa específica; seus elementos foram selecionados e reorganizados para tornar visível a dinâmica humana investigada nesta aula.
 
@@ -357,7 +355,7 @@ A participante não precisava escolher entre sentir intensamente e tornar-se ind
 
 # Macrobloco 2 — Aprender a caminhar
 
-## Proposta revisada da Parte 3
+## Parte 3
 
 ### Título da Parte
 
@@ -555,7 +553,7 @@ Uma explicação começa a participar da competência incorporada quando modific
 
 ---
 
-## Proposta revisada da Parte 4
+## Parte 4
 
 ### Título
 
@@ -1628,16 +1626,9 @@ A Primeira Cartografia pode aparecer ao fundo ou em miniatura como referência v
 
 ---
 
-## Decisões autorais ainda abertas
+## Decisões autorais encerradas
 
-1. Confirmar título e subtítulo.
-2. Confirmar a manutenção das sete Partes e dos 48 slides.
-3. Confirmar a organização editorial em quatro macroblocos.
-4. Confirmar as condensações orais e a transferência de conteúdos para notas do educador e material do participante.
-5. Confirmar a Parte 4 como primeira aproximação e a Parte 5 como única aplicação integral da Primeira Cartografia.
-6. Confirmar a Parte 7 como integração da mesma cartografia, não como nova prática.
-7. Confirmar a Primeira Cartografia na Aula 0.1 e sua retirada da atribuição comercial antiga da Aula 0.2.
-8. Confirmar esta montagem como base de uma futura versão consolidada, sem que isso constitua autorização automática de gravação.
+As oito decisões que orientaram a montagem foram aprovadas integralmente por Fabiano Deliberalli em 26 de julho de 2026. O registro abaixo preserva o alcance da deliberação; não há decisões curriculares abertas nesta seção.
 
 ## Regra de rastreabilidade
 
@@ -1650,9 +1641,9 @@ Para cada Parte, permanecem vigentes como evidência:
 
 Nenhuma fonte histórica deve ser apagada ou silenciosamente substituída.
 
-## Próximo portão
+## Passagem concluída
 
-Leitura autoral integral desta montagem por Fabiano, seguida de deliberação sobre as oito decisões abertas. Somente depois dessa deliberação poderá ser preparada uma versão consolidada da Aula 0.1 e iniciada sua auditoria de encerramento.
+A leitura autoral, a deliberação sobre as oito decisões e a consolidação curricular foram concluídas. A auditoria de encerramento foi executada em documento próprio. Permanecem posteriores apenas as etapas de preparação audiovisual, leitura oral, storyboard, piloto e autorização específica para gravação.
 
 
 ---
