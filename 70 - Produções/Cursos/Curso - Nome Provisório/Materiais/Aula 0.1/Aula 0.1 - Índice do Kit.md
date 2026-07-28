@@ -6,9 +6,9 @@ modulo: 0
 aula: "0.1"
 status: ativo
 estado_maturidade: consolidada-v1.0-auditoria-de-encerramento-concluida
-versao: "1.4"
+versao: "1.5"
 criado_em: 2026-07-26
-atualizado_em: 2026-07-27
+atualizado_em: 2026-07-28
 autor_do_curso: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
@@ -23,7 +23,7 @@ autoridade_de_aprovacao: Fabiano Deliberalli
 - **Estado:** encerrada curricularmente em v1.0; auditoria de encerramento concluída;
 - **Slides:** 48 provisórios;
 - **Gravação:** não autorizada;
-- **Nomenclatura interna:** Partes 1–7.
+- **Nomenclatura interna:** Partes 1–7.\n- **Decomposição audiovisual:** mapa estrutural piloto v0.1 com 10 microaulas provisórias.
 
 ## Estado documental
 
@@ -193,7 +193,7 @@ Esses materiais podem informar a revisão, mas não constituem a versão curricu
    - aprovou coerência, práticas, estatutos, cartografia e fronteiras;
    - registrou 48 slides, leitura oral, storyboard, piloto e autorização como etapas posteriores à gravação.
 
-## Registro de encerramento da sessão
+21. [[Mapa Estrutural de Decomposição em Microaulas - Aula 0.1]]\n   - decomposição piloto em 10 microaulas provisórias;\n   - preserva as sete Partes, os quatro macroblocos e o encerramento curricular;\n   - aplica os critérios úteis do DOC4 e a auditoria subordinada do DOC2;\n   - registra focos, cortes, transições, recursos e dependências audiovisuais;\n   - não autoriza gravação.\n\n## Registro de encerramento da sessão
 
 - [[Encerramento de Sessão - 2026-07-27 - Consolidação da Aula 0.1]]
   - preserva o percurso integral da recuperação à consolidação v1.0;
@@ -202,7 +202,7 @@ Esses materiais podem informar a revisão, mas não constituem a versão curricu
 
 ## Ponto de continuidade
 
-> A Aula 0.1 está encerrada curricularmente em v1.0 e sua auditoria de encerramento foi concluída. A contagem de 48 slides permanece provisória e a gravação não está autorizada. O próximo ponto curricular do Módulo 0 é a Aula 0.2; as etapas audiovisuais da Aula 0.1 permanecem registradas para preparação posterior.
+> A Unidade Curricular 0.1 permanece encerrada curricularmente em v1.0. Seu mapa estrutural piloto de decomposição em microaulas foi concluído em 28 de julho de 2026, sem reabertura do conteúdo. Os 10 cortes e os 48 slides permanecem provisórios até leitura oral, storyboard e piloto; a gravação não está autorizada. O próximo ponto curricular do Módulo 0 é a Unidade 0.2.
 
 ## Relações
 
