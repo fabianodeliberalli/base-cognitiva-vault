@@ -3,10 +3,10 @@ tipo: guia-governanca-curricular
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: base-vinculante-para-prototipagem-curricular-controlada
-versao: "0.5"
+versao: "0.6"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-21
-atualizado_em: 2026-07-21
+atualizado_em: 2026-07-28
 documento_fonte: Registro Mestre de Formulações Estruturantes
 tags:
   - traduzindo-o-ser-humano
@@ -31,6 +31,16 @@ Este documento governa a passagem entre as formulações estruturantes do projet
 ## 1.1. Deliberação de vigência sobre P2, P6 e Aula 1.1
 
 Em 21 de julho de 2026, Fabiano Deliberalli aprovou integralmente P2 e o núcleo mínimo obrigatório de P6. Também determinou que a Aula 1.1 não seja tratada como canônica nem protegida contra revisão até a pilotagem. O protótipo existente deverá passar por escrutínio e reorganização curricular normal, considerando todas as alterações posteriores que o impactam.
+
+## 1.2. Deliberação transversal de público, linguagem e entrega
+
+A construção de cada unidade curricular deve favorecer, sem rigidez mecânica, a passagem:
+
+> **Experiência reconhecível → distinção acessível → conceito → aplicação → integração progressiva.**
+
+O público possui trajetória reflexiva anterior, mas não se presume domínio acadêmico nem conhecimento dos mapas e termos autorais. As estruturas 0.1 a 6.2 são **unidades curriculares nucleares**; **microaula** é a unidade audiovisual de entrega. A quantidade final de microaulas será definida na preparação audiovisual.
+
+**Traduzindo o Ser Humano** governa a marca e a oferta. EIXO permanece função pedagógica interna de coordenação, retorno e reorganização. Ver [[04 - Deliberação Transversal - Público, Microaulas e Arquitetura de Marca - 2026-07-28]].
 
 Sua pergunta central é:
 
@@ -98,7 +108,7 @@ Uma mesma formulação pode ter estatutos diferentes conforme a aula. Exemplo: o
 
 Esta formulação:
 
-- orienta a arquitetura das 14 aulas;
+- orienta a arquitetura das 14 unidades curriculares;
 - não substitui as definições técnicas de cada movimento ou fase;
 - deve ser apresentada ao participante em linguagem progressivamente acessível;
 - impede a redução do curso a regulação, informação, espiritualidade, energia ou qualquer mapa isolado;
@@ -156,7 +166,7 @@ Consequência curricular:
 | F01–F05 | Curso complementar; compreender não garante incorporar; problema humano e necessidade formativa | Módulo 0 explicita natureza, problema e contrato; todas as aulas devem produzir capacidade, não apenas informação | E/I |
 | F06–F08 | Da compreensão acumulada à capacidade incorporada | Resultado longitudinal e critério de coerência das evidências de aprendizagem | E/I |
 | F09–F10 | Primeira oferta integral e posição no ecossistema | Profundidade fundamental nas seis fases; continuidade para Laboratório e Imersão sem retenção artificial de capacidades | I/FE |
-| F11–F12 | Público experiente e cartograficamente fragmentado | Linguagem respeita repertório prévio e organiza mapas sem infantilização nem pressuposição acadêmica | I/FE/P |
+| F11–F12 | Público com trajetória prévia, sem pressuposição conceitual | Linguagem parte de situações reconhecíveis, respeita o repertório anterior e introduz mapas e conceitos somente depois de distinções acessíveis | I/FE/P |
 | F13–F14 | Limites e não promessas | Contrato inicial, rodapé ético de práticas e fechamento; nenhum resultado é formulado como cura ou integração total | E/I |
 | F79 | Síntese integradora candidata | Índice de auditoria global; não substituirá a síntese executiva aprovada sem decisão autoral | FE/P |
 
@@ -537,7 +547,7 @@ Uma aula somente pode ser considerada coerente quando responde afirmativamente:
 
 ## 13. Conteúdos que podem permanecer abertos sem bloquear a arquitetura
 
-- nome e subtítulo comerciais;
+- aplicação visual de marca, subtítulo e headlines;
 - relação comercial definitiva com Workshop e Comunidade;
 - profundidade futura de NHI, disclosure e experiências liminares;
 - distribuição integral do acervo ABBSP;
@@ -575,7 +585,7 @@ Esses conteúdos constituem reserva curricular e patrimônio considerado. Não p
 - retirada da dimensão energética da condição de adendo;
 - presença de aula energética própria na arquitetura v0.2;
 - distribuição longitudinal dos fundamentos;
-- manutenção dos 7 módulos e 14 aulas;
+- manutenção dos 7 módulos e 14 unidades curriculares;
 - Aula 1.1 reconhecida como protótipo revisável, sujeito ao mesmo escrutínio curricular das demais aulas.
 
 ### Pendente de deliberação ou validação
@@ -597,7 +607,7 @@ Esses conteúdos constituem reserva curricular e patrimônio considerado. Não p
 6. auditar e reorganizar a Aula 1.1 como protótipo revisável, aplicando P2 e o núcleo mínimo de P6;
 7. construir a Aula 1.2 em conciliação com a Aula 1.1 e auditar o módulo;
 8. seguir módulo por módulo, encerrando os portões específicos antes dos kits dependentes;
-9. realizar auditoria de rastreabilidade ao final de cada aula, de cada módulo e das 14 aulas.
+9. realizar auditoria de rastreabilidade ao final de cada unidade curricular, de cada módulo e das 14 unidades curriculares.
 
 ---
 
@@ -605,7 +615,7 @@ Esses conteúdos constituem reserva curricular e patrimônio considerado. Não p
 
 Para cada revisão da arquitetura, verificar:
 
-- [ ] as 14 aulas continuam cobrindo as seis fases sem linearidade rígida;
+- [ ] as 14 unidades curriculares continuam cobrindo as seis fases sem linearidade rígida;
 - [ ] os quatro movimentos aparecem com funções diferenciais;
 - [ ] Perceber permanece transversal;
 - [ ] Tradução e EIXO permanecem circulares;
