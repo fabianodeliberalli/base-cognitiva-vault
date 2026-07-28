@@ -3,7 +3,7 @@ tipo: guia-governanca-curricular
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: base-vinculante-para-prototipagem-curricular-controlada
-versao: "0.6"
+versao: "0.7"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-21
 atualizado_em: 2026-07-28
@@ -194,8 +194,8 @@ Consequência curricular:
 
 | IDs | Núcleo | Consequência curricular | Estatuto predominante |
 |---|---|---|---|
-| F36–F37 | Conhecimento, competência e sabedoria prática | Aula 0.1 apresenta os três níveis; cada aula possui evidência e aplicação contextual | E/I |
-| F38–F39 | Horizonte integral; amplitude sem pressa e profundidade sem imposição | Mapa integral na Aula 0.2; progressão em camadas e práticas facultativas | E/I |
+| F36–F37 | Conhecimento, competência e sabedoria prática | Unidade 0.1 apresenta os três níveis; cada unidade possui evidência e aplicação contextual | E/I |
+| F38–F39 | Horizonte integral; amplitude sem pressa e profundidade sem imposição | Mapa integral na Unidade 0.2; progressão em camadas e práticas facultativas | E/I |
 | F40–F42 | Ciclo de aprendizagem; Perceber, presença e sentir | Aberturas, práticas, retornos e reflexão em todas as fases; sentir não substitui diferenciação | I/E |
 | F43 | Arquitetura de aula | Exposição, demonstração, prática, reflexão, aplicação, retorno e ligação com o percurso | I |
 | F44 | Camadas de profundidade | Todo kit separa participante, educador, opcional e formação futura | I/FE |
@@ -600,8 +600,8 @@ Esses conteúdos constituem reserva curricular e patrimônio considerado. Não p
 ### Sequência operacional
 
 1. iniciar a construção sequencial pelo Módulo 0;
-2. auditar e construir a Aula 0.1 antes da Aula 0.2;
-3. auditar a Aula 0.2 sob as decisões consolidadas na Aula 0.1;
+2. preservar a Unidade 0.1 como encerrada curricularmente e encaminhá-la posteriormente à preparação audiovisual;
+3. construir e auditar a Unidade 0.2 sob as decisões consolidadas na Unidade 0.1;
 4. realizar auditoria conjunta e encerrar o Módulo 0;
 5. avançar ao Módulo 1;
 6. auditar e reorganizar a Aula 1.1 como protótipo revisável, aplicando P2 e o núcleo mínimo de P6;
