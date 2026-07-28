@@ -42,7 +42,7 @@ A auditoria não retorna às versões candidatas, não reabre automaticamente as
 4. distinção entre fala principal, notas do educador e material do participante;
 5. escolha, dosagem, alternativas e retorno das práticas;
 6. aplicação dos estatutos das linguagens;
-7. integridade e privacidade do caso de Lívian;
+7. integridade e privacidade do caso composto;
 8. coerência da Primeira Cartografia;
 9. fronteiras com as Aulas 0.2, 1.1 e 1.2;
 10. pendências para storyboard, leitura oral, piloto e autorização de gravação;
@@ -218,28 +218,23 @@ O texto afirma que esses campos não possuem o mesmo estatuto, não precisam val
 
 ---
 
-# 7. Integridade e privacidade do caso de Lívian
+# 7. Integridade e privacidade do caso composto
 
 ## Verificação pedagógica
 
 O caso é usado para investigar, não para provar teoria ou fechar diagnóstico. O roteiro preserva hipótese, incerteza e pluralidade causal. Não há exposição de detalhes biográficos extensos na v1.0.
 
-## Lacuna documental
+## Deliberação autoral registrada
 
-Não foi localizado, nos documentos auditados, registro que esclareça se “Lívian” é:
+Fabiano Deliberalli definiu o exemplo como **caso composto**. O nome próprio foi ocultado no Roteiro Consolidado v1.0 e substituído por referências neutras.
 
-- personagem fictícia;
-- caso composto;
-- pseudônimo de caso real devidamente descaracterizado;
-- caso real com autorização de uso educacional.
+Formulação de transparência incorporada ao material:
 
-Sem esse estatuto, a auditoria de privacidade não pode ser encerrada.
+> Este é um caso composto, construído a partir de experiências clínicas e inteiramente descaracterizado para finalidade educacional. Não representa uma pessoa específica; seus elementos foram selecionados e reorganizados para tornar visível a dinâmica humana investigada nesta aula.
 
 ## Veredito do critério 7
 
-**PEDAGOGICAMENTE APROVADO; PRIVACIDADE PENDENTE DE COMPROVAÇÃO AUTORAL.**
-
-Esta é a única pendência que exige informação factual do autor antes de liberar storyboard ou gravação do caso.
+**APROVADO.** O estatuto foi comprovado pelo autor, registrado no material e o nome próprio foi ocultado. A função pedagógica do exemplo permanece inalterada.
 
 ---
 
@@ -285,8 +280,8 @@ O EIXO é interrompido no ponto correto: capacidade dinâmica de perceber afasta
 
 ## Obrigatórias antes da autorização de gravação
 
-1. esclarecer e registrar o estatuto do caso de Lívian;
-2. sanear resíduos documentais da v1.0;
+1. ~~esclarecer e registrar o estatuto do caso composto;~~ **resolvido em 27/07/2026**
+2. sanear os demais resíduos documentais da v1.0;
 3. decidir a identidade visual do Slide 1;
 4. produzir roteiro oral limpo;
 5. realizar leitura cronometrada;
@@ -318,14 +313,13 @@ Não foi encontrada razão para reconstruir a aula nem retornar às versões can
 
 **AUDITORIA SISTEMÁTICA EXECUTADA COM PENDÊNCIAS DE FECHAMENTO.**
 
-A aula ainda não pode ser declarada formalmente encerrada porque:
+A pendência de privacidade foi resolvida com o registro do estatuto de caso composto e a ocultação do nome próprio. A aula ainda não pode ser declarada formalmente encerrada porque:
 
-1. falta comprovar o estatuto de privacidade do caso de Lívian;
-2. os saneamentos documentais identificados ainda não foram aplicados;
-3. os documentos de estado e índices ainda não foram atualizados para registrar o fechamento.
+1. os demais saneamentos documentais identificados ainda não foram aplicados;
+2. os documentos de estado e índices ainda não foram atualizados para registrar o fechamento.
 
 A gravação permanece não autorizada. A Aula 0.2 permanece bloqueada.
 
 ## Próxima ação exata
 
-> Obter de Fabiano a classificação factual do caso de Lívian. Em seguida, registrar essa informação, aplicar somente os saneamentos documentais não estruturais, verificar o resultado, fechar esta auditoria e atualizar o Índice do Kit, o Estado do Módulo 0 e o Índice Mestre. Não avançar à Aula 0.2 antes dessas ações.
+> Retomar pelos demais saneamentos documentais não estruturais já identificados, verificar o resultado e então fechar esta auditoria, atualizando o Índice do Kit, o Estado do Módulo 0 e o Índice Mestre. Não avançar à Aula 0.2 antes dessas ações.
