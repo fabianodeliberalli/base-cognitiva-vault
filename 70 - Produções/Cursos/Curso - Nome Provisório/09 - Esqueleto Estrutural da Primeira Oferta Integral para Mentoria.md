@@ -2,9 +2,9 @@
 tipo: arquitetura-curricular
 projeto: Traduzindo o Ser Humano
 status: arquitetura-curricular-v0.2-governada-por-rastreabilidade-e-continuidade
-versao: "0.5"
+versao: "0.6"
 criado_em: 2026-07-19
-atualizado_em: 2026-07-21
+atualizado_em: 2026-07-28
 autor: Fabiano Deliberalli
 ---
 
@@ -20,7 +20,18 @@ Esta versão reconcilia o esqueleto anterior com:
 - a distribuição longitudinal dos fundamentos;
 - os portões formalizados no [[Guia Mestre de Incorporação e Rastreabilidade Curricular]].
 
-O curso mantém **7 módulos e 14 aulas nucleares**. A dimensão energética recebe aula própria sem aumento da quantidade de aulas; a espiritualidade recebe aula nuclear distinta. Uma prepara interlocuções da outra, mas elas não são tratadas como sinônimas.
+O curso mantém **7 módulos e 14 unidades curriculares nucleares**. A dimensão energética recebe unidade própria sem aumento da quantidade; a espiritualidade recebe unidade nuclear distinta. Uma prepara interlocuções da outra, mas elas não são tratadas como sinônimas. Na entrega digital, cada unidade curricular será decomposta em microaulas.
+
+## Público, marca e porta de entrada
+
+- **Público primário:** adultos com trajetória prévia de psicoterapia, autoconhecimento, contemplação, espiritualidade ou outros caminhos reflexivos, sem pressuposição de formação acadêmica ou domínio conceitual;
+- **Marca e nome da oferta:** Traduzindo o Ser Humano;
+- **Subtítulo-base:** Da compreensão acumulada à mudança vivida;
+- **Headline-base:** Por que você entende seus padrões, mas continua repetindo?;
+- **sequência pedagógica predominante:** Experiência reconhecível → distinção acessível → conceito → aplicação → integração progressiva;
+- **EIXO:** função pedagógica interna, não marca concorrente.
+
+Ver [[04 - Deliberação Transversal - Público, Microaulas e Arquitetura de Marca - 2026-07-28]].
 
 ## Decisão de desenho
 
@@ -30,7 +41,7 @@ O horizonte integral é apresentado desde o início; a capacidade de explorá-lo
 
 ## Estrutura curricular v0.2
 
-| Módulo | Fase e função | Aulas nucleares | Prática ou produção principal | Evidência de aprendizagem |
+| Módulo | Fase e função | Unidades curriculares nucleares | Prática ou produção principal | Evidência de aprendizagem |
 |---|---|---|---|---|
 | **0 — Orientação, mapa e contrato formativo** | Apresentar problema, natureza, horizonte e contrato | **0.1 Da compreensão acumulada à competência incorporada**; **0.2 O percurso do EIXO: mapa, espiral, pêndulo e segurança** | Linha de base formativa e acordo de percurso | Distingue compreensão, competência e incorporação; localiza-se no percurso e escolhe como participar |
 | **1 — Traduzir a Experiência** | Produzir legibilidade inicial sem fechamento | **1.1 A experiência em sua multidimensionalidade**; **1.2 Do vivido à Tradução** | Cartografia multidimensional e tradução provisória | Distingue fenômeno, manifestação, interpretação, hipótese e indeterminação |
@@ -109,11 +120,13 @@ O mapa longitudinal está autorizado, mas os kits dependem dos portões especifi
 
 Cada portão deve ser encerrado antes do kit que dele depende. O Guia contém regras provisórias para que a arquitetura permaneça operável sem canonização silenciosa.
 
-## Formato de trabalho candidato
+## Formato de trabalho vigente para a prototipagem
 
 - 7 módulos, incluindo orientação;
-- 14 aulas/encontros nucleares;
-- encontros ao vivo pelo Zoom, com gravação para hospedagem;
+- 14 unidades curriculares nucleares;
+- conteúdo organizado em microaulas curtas e progressivas para a plataforma;
+- quantidade final de microaulas definida somente na preparação audiovisual;
+- encontros ao vivo, quando adotados, com função complementar de integração, aplicação, dúvidas e aprofundamento;
 - caderno de práticas e mapas visuais;
 - integração entre exposição breve, demonstração, prática dosada, reflexão, aplicação e retorno;
 - primeira turma como campo de validação pedagógica, ética e experiencial.
@@ -124,7 +137,7 @@ A Aula 1.1 possui protótipo e aprovação histórica para pilotagem controlada,
 
 ## Próxima produção
 
-A construção curricular segue a ordem integral das 14 aulas, com um chat ativo por módulo e memória oficial no Obsidian/GitHub.
+A construção curricular segue a ordem integral das 14 unidades curriculares, com um chat ativo por módulo e memória oficial no Obsidian/GitHub. A decomposição em microaulas ocorre na preparação audiovisual, sem reabrir a identidade curricular.
 
 1. abrir o Módulo 0;
 2. auditar e construir a Aula 0.1;
@@ -134,7 +147,7 @@ A construção curricular segue a ordem integral das 14 aulas, com um chat ativo
 6. abrir o Módulo 1;
 7. auditar a Aula 1.1 como protótipo revisável, sem precedência canônica;
 8. prosseguir até o Módulo 6;
-9. realizar auditoria global das 14 aulas.
+9. realizar auditoria global das 14 unidades curriculares.
 
 P2 e o núcleo mínimo de P6 governam todas as aulas. Cada portão específico deverá ser encerrado antes do kit que dele depende.
 
