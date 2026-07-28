@@ -8,7 +8,7 @@ status: aprovado-curricularmente
 estado_maturidade: consolidado-v1.0
 versao: "1.0"
 criado_em: 2026-07-26
-atualizado_em: 2026-07-26
+atualizado_em: 2026-07-27
 autor_do_curso: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 roteiro_fonte: Roteiro Integral Recuperado para Leitura Autoral - Aula 0.1
@@ -225,7 +225,9 @@ Os mapas que utilizaremos servem para orientar a investigação. Eles não defin
 
 ## Proposta revisada
 
-### Parte 2 — O caso de Lívian: quando observar parece significar sentir menos
+### Parte 2 — Um caso composto: quando observar parece significar sentir menos
+
+> **Nota de integridade:** este é um caso composto, construído a partir de experiências clínicas e inteiramente descaracterizado para finalidade educacional. Não representa uma pessoa específica; seus elementos foram selecionados e reorganizados para tornar visível a dinâmica humana investigada nesta aula.
 
 **Duração estimada:** 10–13 minutos  
 **Slides:** 7–12
@@ -234,12 +236,12 @@ Os mapas que utilizaremos servem para orientar a investigação. Eles não defin
 
 **Na tela**
 
-**O caso de Lívian**  
+**Um caso composto**  
 *Quando observar parece significar sentir menos*
 
 **Fala consolidada**
 
-“Lívian possuía sensibilidade, repertório e capacidade de reflexão. Ela conseguia compreender muitas coisas sobre suas reações.
+“A participante possuía sensibilidade, repertório e capacidade de reflexão. Conseguia compreender muitas coisas sobre suas reações.
 
 Em determinadas situações, porém, observar a própria mobilização parecia trazer um risco: como se diminuir a intensidade significasse tornar-se menos sensível, menos comprometida ou menos fiel àquilo que considerava importante.
 
@@ -249,7 +251,7 @@ Não utilizaremos esse caso para provar uma teoria. Vamos acompanhá-lo como uma
 
 “Primeiro, precisamos distinguir o que ela conseguia compreender daquilo que acontecia quando era mobilizada.”
 
-### Slide 8 — O que Lívian já conseguia compreender
+### Slide 8 — O que a participante já conseguia compreender
 
 **Na tela**
 
@@ -259,7 +261,7 @@ Não utilizaremos esse caso para provar uma teoria. Vamos acompanhá-lo como uma
 
 **Fala consolidada**
 
-“Especialmente depois da situação, Lívian conseguia perceber que a intensidade de sua resposta nem sempre ajudava a cuidar do que realmente importava.
+“Especialmente depois da situação, a participante conseguia perceber que a intensidade de sua resposta nem sempre ajudava a cuidar do que realmente importava.
 
 Ela podia reconhecer consequências e imaginar outras maneiras de responder.
 
@@ -295,7 +297,7 @@ Não precisamos atribuir isso a uma região cerebral isolada ou a uma causa úni
 
 **Fala consolidada**
 
-“Para Lívian, observar não era uma ação neutra.
+“Para a participante, observar não era uma ação neutra.
 
 Em determinadas situações, fazer uma pausa podia parecer indiferença. Reduzir a intensidade podia soar como abandonar um valor, tolerar algo que considerava intolerável ou trair a própria sensibilidade.
 
@@ -319,7 +321,7 @@ Por isso, dizer apenas ‘observe antes de reagir’ não resolvia o conflito. A
 
 “Podemos formular uma aproximação: talvez diminuir a reação estivesse associado à possibilidade de abandonar aquilo que importava.
 
-Essa frase não precisa ter existido antes na experiência de Lívian. Ela é uma tentativa posterior e provisória de colocar em palavras algo que aparecia no vivido.
+Essa frase não precisa ter existido antes na experiência da participante. Ela é uma tentativa posterior e provisória de colocar em palavras algo que aparecia no vivido.
 
 Talvez ilumine a experiência. Talvez precise ser modificada. Talvez outras dimensões ainda não tenham sido percebidas.
 
@@ -341,7 +343,7 @@ Mas compreender sua possível função também não significa obedecer automatic
 
 A pergunta passa a ser: aquilo que importa pode ser preservado com maior espaço de escolha?
 
-Lívian não precisava escolher entre sentir intensamente e tornar-se indiferente. A aprendizagem possível era investigar se sensibilidade, observação e escolha poderiam coexistir.”
+A participante não precisava escolher entre sentir intensamente e tornar-se indiferente. A aprendizagem possível era investigar se sensibilidade, observação e escolha poderiam coexistir.”
 
 **Síntese**
 
@@ -407,7 +409,7 @@ Reconhecer isso não significa que já saibamos sua origem, causa ou significado
 
 Podemos levar uma experiência a sério sem decidir imediatamente o que ela prova.
 
-No caso de Lívian, podíamos reconhecer que fazer uma pausa parecia ameaçar algo importante. Podíamos formular hipóteses sobre sensibilidade, valores ou proteção. Mas não precisávamos transformar uma hipótese em diagnóstico ou localizar uma origem única.”
+No caso composto, podíamos reconhecer que fazer uma pausa parecia ameaçar algo importante. Podíamos formular hipóteses sobre sensibilidade, valores ou proteção. Mas não precisávamos transformar uma hipótese em diagnóstico ou localizar uma origem única.”
 
 **Formulação central**
 
@@ -471,7 +473,7 @@ Elas podem participar da mesma investigação sem precisarem ser convertidas uma
 
 **Na tela**
 
-**A experiência de Lívian**
+**A experiência da participante**
 
 - o que ela vive?
 - o que a reação manifesta?
@@ -481,7 +483,7 @@ Elas podem participar da mesma investigação sem precisarem ser convertidas uma
 
 **Fala consolidada**
 
-“Podemos retornar à experiência de Lívian sem escolher uma explicação vencedora.
+“Podemos retornar à experiência da participante sem escolher uma explicação vencedora.
 
 Podemos reconhecer a mobilização vivida, observar suas manifestações corporais, formular perguntas sobre proteção e valores, investigar as situações e relações em que acontece e preservar o que ainda não sabemos.
 
@@ -741,7 +743,7 @@ Retornar não apaga o que apareceu. Apenas reconhece que não precisamos resolve
 
 ### Orientação inicial
 
-“Você não precisa fechar os olhos nem escolher algo intenso. Pode utilizar uma situação cotidiana, o caso de Lívian, uma situação fictícia ou apenas acompanhar as perguntas. Também pode permanecer observando o ambiente e não realizar a parte pessoal.”
+“Você não precisa fechar os olhos nem escolher algo intenso. Pode utilizar uma situação cotidiana, o caso composto apresentado, uma situação fictícia ou apenas acompanhar as perguntas. Também pode permanecer observando o ambiente e não realizar a parte pessoal.”
 
 ### Movimento 1 — Presente
 
