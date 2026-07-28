@@ -55,7 +55,7 @@ Modelo obrigatório: [[00 - Modelo de Estado, Índice e Continuidade do Módulo]
 
 | Aula | Estado | Ponto de entrada |
 |---|---|---|
-| Aula 0.1 — Por que compreender ainda pode não ser suficiente? | consolidada curricularmente em v1.0; sete Partes e quatro macroblocos aprovados; 48 slides provisórios; auditoria de encerramento aberta; gravação não autorizada | [[Aula 0.1 - Índice do Kit]] |
+| Aula 0.1 — Por que compreender ainda pode não ser suficiente? | encerrada curricularmente em v1.0; sete Partes e quatro macroblocos aprovados; auditoria concluída; 48 slides provisórios; gravação não autorizada | [[Aula 0.1 - Índice do Kit]] |
 | Aula 0.2 — Percurso do EIXO | kit documental organizado; apresentação visual produzida | [[Aula 0.2 - Índice do Kit]] |
 | Aula 1.1 — A experiência em sua multidimensionalidade | protótipo reaberto para revisão e reorganização curricular antes da pilotagem; P2 e P6 aprovados governam a revisão | [[Aula 1.1 - Índice do Kit]] |
 | Aula 1.2 — Do vivido à Tradução | P2 e núcleo mínimo de P6 fechados; produção plena aguarda reorganização da Aula 1.1 e definição autoral da sequência de pilotagem | [[Guia Mestre de Incorporação e Rastreabilidade Curricular]] |
@@ -93,9 +93,10 @@ Ver [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]] e [[01 - Protocolo 
 
 - **Arquitetura de trabalho:** Orquestração Curricular Mestre 03 + um chat ativo por módulo;
 - **Módulo ativo:** Módulo 0;
-- **Aula ativa:** 0.1 — Por que compreender ainda pode não ser suficiente?;
-- **procedimento imediato:** executar e concluir a auditoria de encerramento da Aula 0.1 consolidada em v1.0; preservar os 48 slides como provisórios e manter a gravação não autorizada;
-- **Aula 0.2:** permanece no horizonte do módulo e pode iluminar a elaboração da Aula 0.1, sem funcionar como bloqueio formal;
+- **Aula encerrada:** 0.1 — Por que compreender ainda pode não ser suficiente? — consolidada em v1.0 e com auditoria concluída;
+- **Aula ativa:** 0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança;
+- **procedimento imediato:** abrir o índice e os materiais vigentes da Aula 0.2 e retomar sua elaboração progressiva, sem reabrir a Aula 0.1;
+- **Aula 0.1:** 48 slides provisórios; leitura oral, storyboard, piloto e autorização de gravação permanecem como etapas audiovisuais posteriores;
 - **Aula 1.1:** permanece protótipo revisável e será auditada no Módulo 1;
 - **P2:** aprovado integralmente;
 - **P6:** núcleo mínimo aprovado.
