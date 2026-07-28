@@ -3,7 +3,7 @@ tipo: porta-de-entrada-continuidadade
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "1.8"
+versao: "1.9"
 criado_em: 2026-07-21
 atualizado_em: 2026-07-27
 autor: Fabiano Deliberalli
@@ -104,13 +104,17 @@ Este chat atual assume a função de **Orquestração Curricular Mestre 03**. Um
 
 ### Frente curricular ativa
 
-> Concluir a **auditoria de encerramento da Aula 0.1 — Por que compreender ainda pode não ser suficiente?**
+> Retomar a **Aula 0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança**
 
 A Aula 0.1 foi consolidada curricularmente em v1.0 após aprovação explícita de Fabiano. Estão aprovados o título, o subtítulo, as sete Partes, os quatro macroblocos e as funções distintas das práticas das Partes 4, 5 e 7. A Primeira Cartografia pertence à Aula 0.1.
 
 Os 48 slides continuam provisórios até storyboard, leitura oral e piloto. A gravação permanece não autorizada.
 
-A [[Auditoria de Encerramento - Aula 0.1]] está aberta e ainda deve ser executada sistematicamente. A Aula 0.2 somente entra em auditoria depois do encerramento formal da Aula 0.1. O registro integral desta passagem está em [[Encerramento de Sessão - 2026-07-27 - Consolidação da Aula 0.1]].
+A [[Auditoria de Encerramento - Aula 0.1]] foi concluída em 27 de julho de 2026. O caso didático foi registrado como composto e inteiramente descaracterizado, e os saneamentos documentais foram aplicados. A Aula 0.1 está encerrada curricularmente em v1.0.
+
+A contagem de 48 slides permanece provisória. Leitura oral, storyboard, piloto e autorização específica continuam necessários antes da gravação, que permanece não autorizada. Essas etapas audiovisuais não reabrem o encerramento curricular.
+
+A Aula 0.2 é agora a frente curricular ativa do Módulo 0.
 
 ### Lugar da Aula 1.1
 
@@ -209,7 +213,7 @@ Não é necessário executar um ritual completo a cada conversa.
 
 ## Ponto exato de retomada
 
-> No chat **Curso — Módulo 0 — Orientação, mapa e contrato formativo**, abrir o [[Roteiro Consolidado v1.0 - Partes 1 a 7 - Aula 0.1]] e a [[Auditoria de Encerramento - Aula 0.1]]. Executar a auditoria sistemática começando pela coerência entre identidade, função e capacidade da aula. Preservar as decisões aprovadas, os 48 slides provisórios e a gravação não autorizada. Não avançar à Aula 0.2 antes de concluir e registrar a auditoria.
+> No chat **Curso — Módulo 0 — Orientação, mapa e contrato formativo**, abrir o [[Aula 0.2 - Índice do Kit]] e os materiais vigentes da Aula 0.2. Retomar sua elaboração progressiva a partir do Percurso do EIXO — mapa, espiral, pêndulo e segurança — sem reabrir a Aula 0.1. Preservar, para preparação audiovisual posterior, os 48 slides provisórios e a gravação não autorizada da Aula 0.1.
 
 ## Relações
 
