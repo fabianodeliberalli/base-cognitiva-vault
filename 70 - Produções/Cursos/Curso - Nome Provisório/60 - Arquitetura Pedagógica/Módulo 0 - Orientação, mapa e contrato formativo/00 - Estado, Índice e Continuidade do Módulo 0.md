@@ -5,9 +5,9 @@ curso: nome-provisorio
 modulo: 0
 status: ativo
 estado_maturidade: elaboracao-curricular-viva
-versao: "2.7"
+versao: "2.8"
 criado_em: 2026-07-21
-atualizado_em: 2026-07-27
+atualizado_em: 2026-07-28
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
@@ -101,11 +101,13 @@ Posteriormente, a conversa compartilhada permitiu recuperar literalmente as Part
 
 A arquitetura do curso utiliza:
 
-> **Curso → Módulo → Aula → Parte**
+> **Curso → Módulo → Unidade curricular → Parte**
 
-Parte é uma unidade pedagógica interna da aula. Vídeo é uma forma de entrega e não precisa manter correspondência fixa com a Parte. Experiências ou Práticas podem conter Momentos; slides, mapas e materiais permanecem recursos vinculados.
+Unidade curricular é a estrutura numerada que organiza uma capacidade e um arco de aprendizagem. Parte é sua divisão pedagógica interna. Microaula é a unidade audiovisual de entrega e não precisa manter correspondência fixa com a Parte. Experiências ou Práticas podem conter Momentos; slides, mapas e materiais permanecem recursos vinculados.
 
-Os antigos Capítulos 1–7 da Aula 0.1 passam a ser denominados **Partes 1–7**, sem mudança de conteúdo ou estatuto.
+Os antigos Capítulos 1–7 da Unidade Curricular 0.1 passam a ser denominados **Partes 1–7**, sem mudança de conteúdo ou estatuto. Os nomes históricos de arquivos e links com “Aula” são preservados para não romper vínculos documentais.
+
+A elaboração do Módulo 0 passa a favorecer **Experiência reconhecível → distinção acessível → conceito → aplicação → integração progressiva**. A decomposição em microaulas ocorrerá na preparação audiovisual, sem reabrir o encerramento curricular da Unidade 0.1.
 
 ## Decisões realmente tomadas
 
@@ -114,6 +116,7 @@ Os antigos Capítulos 1–7 da Aula 0.1 passam a ser denominados **Partes 1–7*
 | 2026-07-26 | substituir o fluxo de auditoria precoce por elaboração curricular progressiva, viva e autoral |
 | 2026-07-26 | tratar a auditoria anterior da Aula 0.1 como leitura consultiva, não como pacote de decisões |
 | 2026-07-26 | iniciar a próxima sessão diretamente pela Mesa de Trabalho da Aula 0.1 |
+| 2026-07-28 | adotar Unidade curricular para as estruturas 0.1–6.2 e Microaula para a entrega audiovisual; incorporar a sequência pedagógica de tradução e preservar os códigos existentes |
 | 2026-07-26 | adotar Parte como divisão pedagógica interna das aulas e reservar Vídeo para a forma de entrega |
 | 2026-07-26 | reconhecer o roteiro da Aula 0.1 como organizado em sete Partes e pronto para leitura autoral integrada, sem declará-lo consolidado |
 | 2026-07-26 | manter a composição revisada das Partes 6 e 7 como base de trabalho e reconhecer o arco das Partes 1–7 como estruturalmente coerente |
@@ -143,6 +146,8 @@ O estado integral desta passagem foi preservado em [[Encerramento de Sessão - 2
 > Abrir o [[Aula 0.2 - Índice do Kit]] e retomar a Aula 0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança — a partir do estado documental vigente. Não reabrir a Aula 0.1; suas pendências remanescentes pertencem à futura preparação audiovisual e de pilotagem.
 
 ## Relações
+
+- [[04 - Deliberação Transversal - Público, Microaulas e Arquitetura de Marca - 2026-07-28]]
 
 - [[Aula 0.1 - Índice do Kit]]
 - [[Auditoria de Procedência, Montagem e Leitura Autoral - Aula 0.1]]
