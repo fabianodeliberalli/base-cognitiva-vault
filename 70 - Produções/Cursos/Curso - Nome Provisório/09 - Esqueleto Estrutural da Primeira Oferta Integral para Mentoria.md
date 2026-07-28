@@ -2,7 +2,7 @@
 tipo: arquitetura-curricular
 projeto: Traduzindo o Ser Humano
 status: arquitetura-curricular-v0.2-governada-por-rastreabilidade-e-continuidade
-versao: "0.6"
+versao: "0.7"
 criado_em: 2026-07-19
 atualizado_em: 2026-07-28
 autor: Fabiano Deliberalli
@@ -140,10 +140,10 @@ A Aula 1.1 possui protótipo e aprovação histórica para pilotagem controlada,
 A construção curricular segue a ordem integral das 14 unidades curriculares, com um chat ativo por módulo e memória oficial no Obsidian/GitHub. A decomposição em microaulas ocorre na preparação audiovisual, sem reabrir a identidade curricular.
 
 1. abrir o Módulo 0;
-2. auditar e construir a Aula 0.1;
-3. realizar a auditoria de encerramento da Aula 0.1;
-4. auditar e construir a Aula 0.2;
-5. realizar a auditoria da Aula 0.2 e do Módulo 0;
+2. preservar a Unidade 0.1 como encerrada curricularmente;
+3. preparar futuramente sua decomposição audiovisual sem reabrir o currículo;
+4. construir e auditar a Unidade 0.2;
+5. realizar a auditoria da Unidade 0.2 e do Módulo 0;
 6. abrir o Módulo 1;
 7. auditar a Aula 1.1 como protótipo revisável, sem precedência canônica;
 8. prosseguir até o Módulo 6;
