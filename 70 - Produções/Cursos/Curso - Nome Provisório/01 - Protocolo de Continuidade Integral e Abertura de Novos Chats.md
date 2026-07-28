@@ -3,7 +3,7 @@ tipo: protocolo-de-continuidade-integral
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "1.8"
+versao: "1.9"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-21
 atualizado_em: 2026-07-28
@@ -320,18 +320,18 @@ Contrato formativo:
 
 Estado: proposta de prototipagem fundada em decisões estruturais aprovadas.
 
-Formato candidato:
+Formato vigente para prototipagem:
 
 - 7 módulos, contando o Módulo 0;
 - 14 unidades curriculares nucleares;
-- primeira turma ao vivo;
-- gravação e eventual hospedagem;
+- conteúdo estruturante decomposto em microaulas para a plataforma;
+- encontros ao vivo, quando adotados, com função complementar;
 - caderno de práticas, fichas e mapas;
 - validação progressiva após piloto.
 
 Estrutura:
 
-| Módulo | Função | Aulas candidatas | Evidência principal |
+| Módulo | Função | Unidades curriculares | Evidência principal |
 |---|---|---|---|
 | 0 | Orientação, mapa e contrato formativo | 0.1 Da compreensão acumulada à competência incorporada; 0.2 O percurso do EIXO: mapa, espiral, pêndulo e segurança | distingue compreensão, competência e incorporação; localiza-se e escolhe como participar |
 | 1 | Traduzir a Experiência | 1.1 A experiência em sua multidimensionalidade; 1.2 Do vivido à Tradução | distingue fenômeno, manifestação, interpretação, hipótese e indeterminação |
@@ -341,11 +341,11 @@ Estrutura:
 | 5 | Integrar Progressivamente | 5.1 Integrar sem apagar diferenças; 5.2 Tradução e EIXO em espiral | relaciona dimensões sem homogeneizar e atualiza Tradução e orientação |
 | 6 | Expressar e Contribuir | 6.1 Expressar com coerência: vínculos, limites e contribuição; 6.2 Reparar, aprender e continuar | experimenta ação proporcional, reconhece consequências, reparação possível, aprendizagem e retorno |
 
-Os títulos e a distribuição das aulas 2.1 a 6.2 ainda são protótipos curriculares, não texto congelado.
+Os títulos e a distribuição das unidades 2.1 a 6.2 ainda são protótipos curriculares, não texto congelado.
 
 ## 10. Organização obrigatória dos kits
 
-Cada aula deve possuir, conforme pertinência:
+Cada unidade curricular deve possuir, conforme pertinência:
 
 1. ficha pedagógica;
 2. roteiro do educador;
@@ -361,11 +361,11 @@ Decisões aprovadas permanecem na ficha pedagógica. Texto de fala pertence ao r
 
 ## 11. Estado dos kits
 
-### Aula 0.1
+### Unidade Curricular 0.1
 
-Conteúdo anterior existe, mas ainda precisa ser organizado no padrão oficial do kit. Não reconstruir do zero sem auditar o material existente.
+Encerrada curricularmente em v1.0, com sete Partes, quatro macroblocos e auditoria concluída. Os 48 slides permanecem provisórios e a gravação não está autorizada. A decomposição em microaulas pertence à preparação audiovisual posterior.
 
-### Aula 0.2 — Percurso do EIXO
+### Unidade Curricular 0.2 — Percurso do EIXO
 
 Kit documental organizado e apresentação visual produzida.
 
@@ -437,7 +437,7 @@ Próxima ação interna da Aula 1.1, quando o percurso alcançar o Módulo 1:
 
 > Realizar a revisão e reorganização curricular da Aula 1.1 sob o Guia Mestre, P2 e o núcleo mínimo de P6. Somente depois submeter a nova versão à deliberação autoral para pilotagem.
 
-Este trecho descreve a fila interna da Aula 1.1 e não substitui o ponto global vigente: Módulo 0, Aula 0.1.
+Este trecho descreve a fila interna da Unidade 1.1 e não substitui o ponto global vigente: Módulo 0, Unidade Curricular 0.2.
 
 ## 12. Mapas e patrimônio visual
 
@@ -718,7 +718,7 @@ Nome vigente:
 
 O chat atual assume essa função. Não é necessário abrir outro agora. Um sucessor será criado apenas por limite operacional, usando o prompt de continuidade registrado.
 
-Responsabilidades: decisões transversais, arquitetura global, integração entre módulos, portões, conflitos de distribuição, auditoria global das 14 aulas e atualização do Dossiê e do LEIA PRIMEIRO.
+Responsabilidades: decisões transversais, arquitetura global, integração entre módulos, portões, conflitos de distribuição, auditoria global das 14 unidades curriculares e atualização do Dossiê e do LEIA PRIMEIRO.
 
 ### Chats ativos por módulo
 
