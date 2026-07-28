@@ -2,16 +2,16 @@
 tipo: indice-mestre
 projeto: Traduzindo o Ser Humano
 estado: ativo
-data: 2026-07-21
+data: 2026-07-28
 ---
 
-# Índice Mestre dos Kits de Aula
+# Índice Mestre dos Kits Curriculares
 
 > **Antes de usar este índice:** consultar [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]].
 
 ## Organização dos kits
 
-Os componentes abaixo formam a organização desejável de uma aula madura, conforme pertinência. Não constituem formulário obrigatório durante a exploração criativa.
+Os componentes abaixo formam a organização desejável de uma unidade curricular madura, conforme pertinência. Não constituem formulário obrigatório durante a exploração criativa.
 
 1. ficha pedagógica;
 2. roteiro do educador;
@@ -27,17 +27,18 @@ Aplicar [[Protocolo de Elaboração Curricular Viva e Continuidade Leve]].
 
 ## Nomenclatura da arquitetura curricular
 
-> **Curso → Módulo → Aula → Parte**
+> **Curso → Módulo → Unidade curricular → Parte**
 
-- **Parte:** divisão pedagógica interna de uma aula;
-- **Vídeo:** recurso de gravação e entrega, sem equivalência estrutural obrigatória com uma Parte;
+- **Unidade curricular:** estrutura numerada de 0.1 a 6.2, com capacidade, problema pedagógico e arco próprios;
+- **Parte:** divisão pedagógica interna de uma unidade curricular;
+- **Microaula:** unidade audiovisual de entrega, geralmente concentrada em uma pergunta ou ideia principal;
 - **Experiência** ou **Prática:** atividade proposta ao participante;
 - **Momento:** passagem interna de uma experiência ou prática;
 - **Slide, mapa, ficha, caderno e outros materiais:** recursos vinculados, não níveis curriculares.
 
-Uma Parte pode originar um ou mais vídeos, e Partes breves podem compartilhar o mesmo vídeo. Alterar a distribuição audiovisual não exige renumerar a arquitetura pedagógica.
+Uma Parte pode originar uma ou mais microaulas, e Partes breves podem compartilhar a mesma microaula. Alterar a distribuição audiovisual não exige renumerar a arquitetura pedagógica. A quantidade final de microaulas só será divulgada depois da decomposição audiovisual.
 
-O termo **Capítulo** não deve ser utilizado para as divisões internas das aulas. Nos materiais anteriores, sua substituição por **Parte** não modifica o conteúdo nem o estado de maturidade do texto.
+O termo **Capítulo** não deve ser utilizado para as divisões internas das unidades curriculares. Nomes históricos de arquivos, links e kits com “Aula” são preservados para evitar ruptura documental; isso não modifica a nomenclatura conceitual vigente nem o estado de maturidade do material.
 
 ## Camada de estado e continuidade dos módulos
 
@@ -53,13 +54,13 @@ Modelo obrigatório: [[00 - Modelo de Estado, Índice e Continuidade do Módulo]
 
 ## Estado da produção
 
-| Aula | Estado | Ponto de entrada |
+| Unidade curricular | Estado | Ponto de entrada |
 |---|---|---|
 | Aula 0.1 — Por que compreender ainda pode não ser suficiente? | encerrada curricularmente em v1.0; sete Partes e quatro macroblocos aprovados; auditoria concluída; 48 slides provisórios; gravação não autorizada | [[Aula 0.1 - Índice do Kit]] |
 | Aula 0.2 — Percurso do EIXO | kit documental organizado; apresentação visual produzida | [[Aula 0.2 - Índice do Kit]] |
 | Aula 1.1 — A experiência em sua multidimensionalidade | protótipo reaberto para revisão e reorganização curricular antes da pilotagem; P2 e P6 aprovados governam a revisão | [[Aula 1.1 - Índice do Kit]] |
 | Aula 1.2 — Do vivido à Tradução | P2 e núcleo mínimo de P6 fechados; produção plena aguarda reorganização da Aula 1.1 e definição autoral da sequência de pilotagem | [[Guia Mestre de Incorporação e Rastreabilidade Curricular]] |
-| Aulas 2.1–6.2 | arquitetura de 14 aulas reconciliada; produção ainda não iniciada; dependem dos portões específicos | [[09 - Esqueleto Estrutural da Primeira Oferta Integral para Mentoria]] |
+| Unidades curriculares 2.1–6.2 | arquitetura de 14 unidades reconciliada; produção ainda não iniciada; dependem dos portões específicos | [[09 - Esqueleto Estrutural da Primeira Oferta Integral para Mentoria]] |
 
 ## Regras de versionamento
 
@@ -93,10 +94,10 @@ Ver [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]] e [[01 - Protocolo 
 
 - **Arquitetura de trabalho:** Orquestração Curricular Mestre 03 + um chat ativo por módulo;
 - **Módulo ativo:** Módulo 0;
-- **Aula encerrada:** 0.1 — Por que compreender ainda pode não ser suficiente? — consolidada em v1.0 e com auditoria concluída;
-- **Aula ativa:** 0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança;
+- **Unidade curricular encerrada:** 0.1 — Por que compreender ainda pode não ser suficiente? — consolidada em v1.0 e com auditoria concluída;
+- **Unidade curricular ativa:** 0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança;
 - **procedimento imediato:** abrir o índice e os materiais vigentes da Aula 0.2 e retomar sua elaboração progressiva, sem reabrir a Aula 0.1;
-- **Aula 0.1:** 48 slides provisórios; leitura oral, storyboard, piloto e autorização de gravação permanecem como etapas audiovisuais posteriores;
-- **Aula 1.1:** permanece protótipo revisável e será auditada no Módulo 1;
+- **Unidade curricular 0.1:** 48 slides provisórios; leitura oral, storyboard, piloto e autorização de gravação permanecem como etapas audiovisuais posteriores;
+- **Unidade curricular 1.1:** permanece protótipo revisável e será auditada no Módulo 1;
 - **P2:** aprovado integralmente;
 - **P6:** núcleo mínimo aprovado.
