@@ -3,9 +3,9 @@ tipo: protocolo-operacional-curricular
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "1.0"
+versao: "1.1"
 criado_em: 2026-07-26
-atualizado_em: 2026-07-26
+atualizado_em: 2026-07-28
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
@@ -98,22 +98,20 @@ Na ausência dessas situações, o trabalho continua e a organização é reconc
 
 ## Aplicação ao Módulo 0
 
-A leitura anterior da Aula 0.1 passa a ter estatuto de **leitura consultiva preliminar**. Suas recomendações não constituem decisões.
+A Unidade Curricular 0.1 está **encerrada curricularmente em v1.0**. Seu roteiro integral, suas sete Partes, seus quatro macroblocos, a Primeira Cartografia e seus critérios pedagógicos permanecem protegidos. A decomposição estrutural foi concluída em dez microaulas provisórias, com títulos públicos aprovados. Os 48 slides continuam provisórios e a gravação não está autorizada.
 
-A Aula 0.1 será retomada por uma **Mesa de Trabalho**, contendo:
+A frente curricular ativa é a **Unidade Curricular 0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança**. Ela deve começar por uma Mesa de Trabalho que recupere materiais existentes, ideias centrais, tensões abertas e um primeiro núcleo de elaboração, sem reabrir a Unidade 0.1.
 
-1. materiais já existentes;
-2. ideias centrais presentes;
-3. relações possíveis com o título e a função atualmente propostos;
-4. tensões e perguntas abertas;
-5. possibilidades de preservação, ampliação ou transformação, sem decisão antecipada;
-6. um primeiro núcleo de sentido para elaboração conjunta.
+Após a consolidação autoral de cada unidade, sua decomposição estrutural em microaulas deve ocorrer imediatamente, enquanto o raciocínio ainda está presente. Essa etapa define focos, cortes, progressão, recursos e títulos públicos diretos. Duração definitiva, roteiro oral, storyboard, design, piloto e gravação permanecem para a preparação audiovisual posterior.
 
-A Aula 0.2 permanece no horizonte do mesmo módulo e pode iluminar a elaboração da Aula 0.1, sem exigir fechamento formal antecipado.
+A elaboração favorece, sem rigidez, a sequência:
+
+> **Experiência reconhecível → distinção acessível → conceito → aplicação → integração progressiva.**
 
 ## Ponto de retomada
 
-> Abrir o chat **Curso — Módulo 0 — Orientação, mapa e contrato formativo** e iniciar diretamente a Mesa de Trabalho da Aula 0.1, em linguagem natural, tratando o conteúdo existente e a auditoria preliminar como fontes consultivas. Não emitir novo Relatório de Retomada e não solicitar pacotes de aprovação.
+> Abrir o chat **Curso — Módulo 0 — Continuidade 02 — Unidade 0.2** e iniciar diretamente a Mesa de Trabalho da Unidade Curricular 0.2, em linguagem natural. Não emitir novo Relatório de Retomada, não reabrir a Unidade 0.1 e não solicitar pacotes de aprovação.
+
 
 ## Relações
 
