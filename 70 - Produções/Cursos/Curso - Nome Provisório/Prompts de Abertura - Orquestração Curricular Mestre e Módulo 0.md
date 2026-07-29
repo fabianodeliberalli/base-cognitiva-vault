@@ -3,7 +3,7 @@ tipo: prompts-de-abertura
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "2.1"
+versao: "2.2"
 criado_em: 2026-07-21
 atualizado_em: 2026-07-28
 autor: Fabiano Deliberalli
@@ -13,18 +13,18 @@ autor: Fabiano Deliberalli
 
 ## Decisão de uso
 
-O chat permanente continua sendo **Curso — Orquestração Curricular Mestre 03**.
+O chat **Curso — Orquestração Curricular Mestre 03** encerra seu ciclo como registro da consultoria Camila e de suas incorporações transversais. Um sucessor de orquestração será aberto somente quando surgir nova questão transversal.
 
 O próximo chat de produção é:
 
-> **Curso — Módulo 0 — Orientação, mapa e contrato formativo**
+> **Curso — Módulo 0 — Continuidade 02 — Unidade 0.2**
 
 Os prompts abaixo substituem as versões anteriores quando houver conflito de modo de trabalho.
 
 ## Prompt curto — Orquestração Curricular Mestre
 
 ```text
-Este chat é o “Curso — Orquestração Curricular Mestre 03” do curso pertencente ao projeto Traduzindo o Ser Humano.
+Este chat é o “Curso — Orquestração Curricular Mestre 04” do curso pertencente ao projeto Traduzindo o Ser Humano.
 
 A memória oficial está no repositório GitHub/Obsidian:
 - repositório: fabianodeliberalli/base-cognitiva-vault
@@ -50,7 +50,7 @@ Só interrompa o fluxo por contradição material, questão ética ou de seguran
 ## Prompt pronto — Módulo 0
 
 ```text
-Este chat é o “Curso — Módulo 0 — Orientação, mapa e contrato formativo” e trabalha as Aulas 0.1 e 0.2 do curso pertencente ao projeto Traduzindo o Ser Humano.
+Este chat é o “Curso — Módulo 0 — Continuidade 02 — Unidade 0.2” e dá continuidade ao Módulo 0 do curso pertencente ao projeto Traduzindo o Ser Humano. O chat anterior do módulo passa a ser histórico; este é o único chat ativo para a produção curricular do Módulo 0.
 
 A memória oficial está no repositório GitHub sincronizado com meu Obsidian:
 - repositório: fabianodeliberalli/base-cognitiva-vault
@@ -61,6 +61,7 @@ Leia primeiro:
 1. LEIA PRIMEIRO - Estado Atual e Continuidade do Curso.md
 2. Protocolo de Elaboração Curricular Viva e Continuidade Leve.md
 3. 60 - Arquitetura Pedagógica/Módulo 0 - Orientação, mapa e contrato formativo/00 - Estado, Índice e Continuidade do Módulo 0.md
+4. 04 - Deliberação Transversal - Público, Microaulas e Arquitetura de Marca - 2026-07-28.md
 
 Consulte outros documentos e artefatos apenas quando forem necessários ao conteúdo em elaboração.
 
@@ -76,7 +77,9 @@ A Unidade Curricular 0.1 está encerrada curricularmente em v1.0. Comece diretam
 - indique possibilidades de ampliação, preservação ou transformação;
 - proponha apenas um primeiro núcleo de sentido para começarmos a elaborar juntos.
 
-Favoreça a sequência Experiência reconhecível → distinção acessível → conceito → aplicação → integração progressiva. Construa integralmente a unidade curricular e deixe sua decomposição em microaulas para a preparação audiovisual.
+Favoreça a sequência Experiência reconhecível → distinção acessível → conceito → aplicação → integração progressiva. Construa integralmente a unidade curricular. Quando ela estiver consolidada autoralmente, faça imediatamente sua decomposição estrutural em microaulas, antes de avançar para a unidade seguinte.
+
+Na decomposição, defina uma pergunta ou ideia principal por microaula, progressão perceptível, cortes não artificiais, recursos e títulos públicos diretos, compreensíveis isoladamente. Use o DOC4 da consultoria Camila somente como auditor de foco, essencialidade e progressão; use o DOC2 somente na auditoria posterior de títulos e comunicação. DOC5 e DOC6 permanecem fora do curso atual. Duração definitiva, roteiro oral, storyboard, design, piloto e gravação ficam para a preparação audiovisual posterior.
 
 Não peça aprovação de relatório antes de começar. Avance comigo núcleo por núcleo, permitindo acréscimos, retiradas e mudanças de direção. Registre a continuidade no GitHub/Obsidian apenas em marcos naturais de trabalho.
 
