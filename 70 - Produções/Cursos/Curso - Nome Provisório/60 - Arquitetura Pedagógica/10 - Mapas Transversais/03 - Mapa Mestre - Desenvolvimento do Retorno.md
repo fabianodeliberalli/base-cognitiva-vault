@@ -119,3 +119,12 @@ Competência incorporada não é saber explicar o mapa. É tornar reconhecimento
 ## Frase para slide
 
 > **O percurso aparece na qualidade do retorno: perceber, recuperar, escolher, reparar e aprender.**
+
+
+## Representação gráfica vetorial
+
+![[20 - Sistema Visual/03 - Gráfico Mestre - Desenvolvimento do Retorno.svg]]
+
+- Fonte conceitual oficial: esta nota.
+- Uso inicial: introdução breve na Unidade 0.2, após a distinção entre oscilação e percurso.
+- Derivações: auto-observação formativa ao longo das seis fases, conforme [[20 - Sistema Visual/00 - Sistema Visual dos Mapas - Traduzindo o Ser Humano]].
