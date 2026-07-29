@@ -3,9 +3,9 @@ tipo: porta-de-entrada-continuidadade
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "2.3"
+versao: "2.4"
 criado_em: 2026-07-21
-atualizado_em: 2026-07-28
+atualizado_em: 2026-07-29
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 tags:
@@ -49,7 +49,7 @@ Na fase criativa, prevalecem linguagem natural, exploração progressiva, formas
 
 As decisões substantivas e os cuidados éticos permanecem protegidos. A documentação formal entra em marcos naturais e na consolidação autoral, não como condição para começar a pensar.
 
-## Estado vigente em 28 de julho de 2026
+## Estado vigente em 29 de julho de 2026
 
 ### Curso
 
@@ -227,9 +227,26 @@ Em um marco natural de trabalho:
 
 Não é necessário executar um ritual completo a cada conversa.
 
+## Checkpoint de 29 de julho de 2026 — mapas transversais e sistema visual
+
+A elaboração da Unidade 0.2 produziu e incorporou uma família transversal de quatro mapas:
+
+1. [[01 - Mapa Mestre - Referência, EIXO e Estado]];
+2. [[02 - Mapa Mestre - Pêndulo, Espiral e Percurso]];
+3. [[03 - Mapa Mestre - Desenvolvimento do Retorno]];
+4. [[04 - Mapa Mestre - Três Perspectivas do Equilíbrio Dinâmico]].
+
+O constructo associado foi incorporado ao [[Fundamento transversal - oscilação, acesso, diferenciação e integração]] e governado por [[00 - Família de Mapas - Oscilação, Retorno e Equilíbrio Dinâmico]].
+
+Foi também criado o [[20 - Sistema Visual/00 - Sistema Visual dos Mapas - Traduzindo o Ser Humano]], com quatro gráficos vetoriais-mestre em formato 16:9. Seu estatuto é **produzido para validação visual**: o conteúdo conceitual está consolidado, enquanto forma, legibilidade e acabamento podem receber ajustes sem reabrir o fundamento.
+
+A primeira ação no retorno é realizar a validação autoral dos quatro gráficos-mestre. Depois, a Unidade 0.2 deve continuar a partir de seus materiais vigentes, derivando apenas as versões necessárias para slides e aplicação e incorporando principalmente **Pêndulo, Espiral e Percurso** como mapa visual central. Não reconstruir os mapas, não reabrir a Unidade 0.1 e não antecipar aprofundamentos reservados às fases futuras.
+
+O registro integral desta pausa está em [[Encerramento de Sessão - 2026-07-29 - Mapas Transversais e Sistema Visual]].
+
 ## Ponto exato de retomada
 
-> No chat **Curso — Módulo 0 — Orientação, mapa e contrato formativo**, abrir o [[Aula 0.2 - Índice do Kit]] e os materiais vigentes da Unidade Curricular 0.2. Retomar sua elaboração progressiva a partir do Percurso do EIXO — mapa, espiral, pêndulo e segurança — sem reabrir a Unidade 0.1. Preservar, para preparação audiovisual posterior, os 48 slides provisórios e a gravação não autorizada da Unidade 0.1.
+> No chat **Curso — Módulo 0 — Orientação, mapa e contrato formativo**, começar pela validação autoral dos quatro gráficos vetoriais-mestre da [[00 - Família de Mapas - Oscilação, Retorno e Equilíbrio Dinâmico]]. Em seguida, abrir o [[Aula 0.2 - Índice do Kit]] e continuar a Unidade 0.2 a partir do material vigente, usando **Pêndulo, Espiral e Percurso** como mapa visual central e derivando somente as versões necessárias para slides e aplicação. Não reabrir a Unidade 0.1 nem reconstruir os fundamentos já consolidados.
 
 ## Relações
 
