@@ -5,9 +5,9 @@ curso: nome-provisorio
 modulo: 0
 status: ativo
 estado_maturidade: elaboracao-curricular-viva
-versao: "3.1"
+versao: "3.2"
 criado_em: 2026-07-21
-atualizado_em: 2026-07-28
+atualizado_em: 2026-07-29
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
@@ -147,9 +147,23 @@ O estado integral desta passagem foi preservado em [[Encerramento de Sessão - 2
 - Unidade Curricular 0.2 liberada como próximo ponto de elaboração;
 - P7 ainda pendente antes da consolidação final do Módulo 0.
 
+## Encerramento da sessão de 29 de julho de 2026
+
+O estado desta passagem foi preservado em [[Encerramento de Sessão - 2026-07-29 - Mapas Transversais e Sistema Visual]].
+
+- quatro mapas conceituais transversais produzidos e incorporados;
+- fundamento transversal sobre oscilação, acesso, diferenciação, retorno e equilíbrio dinâmico atualizado;
+- governança longitudinal registrada para evitar reconstrução e equivalências impróprias;
+- sistema visual comum produzido;
+- quatro gráficos vetoriais-mestre 16:9 produzidos para validação visual;
+- conteúdo conceitual consolidado; acabamento gráfico ainda passível de validação e refinamento;
+- derivações para slide e aplicação reservadas à continuação da Unidade 0.2;
+- Unidade 0.1 permanece encerrada curricularmente e não deve ser reaberta;
+- P7 permanece pendente antes da consolidação final do Módulo 0.
+
 ## Ponto de retomada
 
-> Abrir o [[Aula 0.2 - Índice do Kit]] e retomar a Unidade Curricular 0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança — a partir do estado documental vigente. A Unidade 0.1 permanece encerrada curricularmente; seu mapa estrutural piloto de 10 microaulas já foi produzido, e roteiro oral, storyboard, leitura cronometrada, piloto e autorização de gravação permanecem para a preparação audiovisual.
+> Validar autoralmente os quatro gráficos vetoriais-mestre da [[00 - Família de Mapas - Oscilação, Retorno e Equilíbrio Dinâmico]]. Depois, abrir o [[Aula 0.2 - Índice do Kit]] e continuar a Unidade 0.2 a partir do estado documental vigente, usando **Pêndulo, Espiral e Percurso** como mapa visual central e derivando as versões de slide e aplicação sem reconstruir o conteúdo. A Unidade 0.1 permanece encerrada curricularmente; P7 continua pendente antes da consolidação final do Módulo 0.
 
 ## Relações
 
