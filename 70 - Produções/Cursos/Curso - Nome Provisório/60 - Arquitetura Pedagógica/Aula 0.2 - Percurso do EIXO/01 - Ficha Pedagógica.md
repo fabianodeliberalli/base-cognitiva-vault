@@ -34,6 +34,18 @@ O participante reconhece o eixo como capacidade dinâmica e progressivamente inc
 
 > A pessoa não perde o acesso ao que já compreendeu simplesmente por “não se esforçar”. O acesso às suas capacidades varia conforme o estado corporal e autonômico, as previsões que organizam a experiência, o contexto relacional e o grau de integração disponível naquele momento.
 
+## Responsabilidade concreta
+
+> Isso não retira responsabilidade. Ao contrário, substitui a culpa genérica por responsabilidades mais concretas: reconhecer condições, buscar apoio, pausar, ajustar a estratégia, reparar e aprender.
+
+A responsabilidade não será ensinada como exigência de controle permanente sobre o estado. Ela será reconhecida na maneira como o participante responde às condições percebidas, considera os efeitos de suas ações e mobiliza possibilidades reais de escolha, apoio e reparação.
+
+## Princípio de trabalho do curso
+
+> Uma explicação nova pode abrir caminho, mas não transforma imediatamente todas as respostas aprendidas. Outras possibilidades precisam tornar-se disponíveis na experiência real.
+
+A unidade deve apresentar esse princípio como razão pedagógica do percurso: o curso não se limita a oferecer novas explicações; trabalha para que capacidades de perceber, retornar, diferenciar, orientar, reparar e aprender se tornem progressivamente mais acessíveis na experiência vivida.
+
 ## Resultados observáveis
 
 Ao final, o participante poderá:
@@ -64,6 +76,15 @@ Ao final, o participante poderá:
 11. demonstração breve de “Diferenciar para orientar”;
 12. consequências, responsabilidade, reparação possível e aprendizagem;
 13. contrato de aprendizagem e linha de base não diagnóstica.
+
+## Articulação didática a preservar
+
+- **pêndulo:** variação de acesso;
+- **espiral:** reencontro de um tema sob novas condições;
+- **mapa:** localização no percurso;
+- **segurança:** condições suficientes de escolha, dosagem, apoio, pausa e retorno;
+- **eixo:** função pedagógica de reconhecimento, coordenação e orientação;
+- **competência incorporada:** disponibilidade progressiva dessas capacidades na experiência real.
 
 ## Microprática inicial — Diferenciar para orientar
 
