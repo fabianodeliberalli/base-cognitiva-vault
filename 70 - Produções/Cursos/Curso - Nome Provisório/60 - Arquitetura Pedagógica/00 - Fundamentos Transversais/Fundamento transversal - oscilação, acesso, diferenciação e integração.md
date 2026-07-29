@@ -149,6 +149,28 @@ Destinação: **Unidade 3.1 — Observar sem fugir do que sente nem ser dominado
 
 Durante a construção de cada unidade, deve-se verificar quais indicadores ela realmente desenvolve, por quais experiências pedagógicas e com quais formas de auto-observação. Os indicadores não são promessa de desempenho uniforme nem instrumento diagnóstico; funcionam como critérios de coerência pedagógica e benefício reconhecível.
 
+## Centro, Essência ou Self, eixo e estado momentâneo
+
+Para preservar simultaneamente a profundidade antropológica do projeto e sua tradução prática, o curso distingue três níveis:
+
+| Nível | Significado |
+|---|---|
+| **Centro, Essência ou Self** | Referência profunda de identidade, integração, sentido e direção |
+| **Eixo** | Capacidade funcional de reconhecer deslocamentos, recuperar coordenação e orientar a participação |
+| **Estado momentâneo** | Condição corporal, emocional, cognitiva e relacional que varia ao longo da experiência |
+
+A pessoa pode estar afastada de seu centro sem ter perdido sua Essência. Pode estar ativada sem ter perdido todo o percurso. Pode não conseguir acessar imediatamente uma capacidade sem que essa capacidade tenha desaparecido.
+
+> Retornar não é voltar a uma versão anterior nem reproduzir um estado ideal. É recuperar progressivamente o contato com um centro mais profundo de identidade, sentido e orientação, a partir das condições reais do presente.
+
+> O retorno ao centro não apaga a história nem elimina as oscilações. Ele amplia progressivamente a capacidade de reconhecer o que está acontecendo, reencontrar contato com a própria Essência e orientar a vida a partir dessa referência.
+
+Essa formulação permite afirmar ao mesmo tempo a existência de um centro, o Eu Essencial como horizonte, o desenvolvimento progressivo de capacidades, a variação de acesso, o movimento em espiral e a ausência de exigência de perfeição.
+
+O eixo não substitui a Essência nem produz o Self. Ele favorece condições de contato, coordenação e expressão:
+
+> A Essência oferece horizonte de identidade e sentido; o eixo desenvolve capacidades para reencontrar essa referência e viver progressivamente a partir dela.
+
 ## Relação com pêndulo, espiral e percurso
 
 ### Pêndulo
@@ -235,6 +257,8 @@ Precisão e acesso pedagógico não são objetivos concorrentes. A regra curricu
 3. **Bastidor bibliográfico:** “Neurocepção” é um termo específico da Teoria Polivagal e deve ser usado com seu estatuto e seus debates.
 
 Isso permite preservar a força didática sem transformar a aula numa sucessão de ressalvas acadêmicas.
+
+> Segurança não é ausência completa de risco, desconforto ou ativação. É a presença suficiente de condições internas, relacionais e ambientais para que alguma percepção, participação e escolha se tornem possíveis.
 
 Segurança, no curso, não equivale a calma, ausência de ativação ou estado vagal específico. Significa condições suficientes de escolha, dosagem, apoio, aproximação, pausa, limite e retorno.
 
