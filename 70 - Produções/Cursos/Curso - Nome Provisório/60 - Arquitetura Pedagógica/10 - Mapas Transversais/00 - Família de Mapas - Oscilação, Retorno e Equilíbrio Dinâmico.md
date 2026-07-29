@@ -132,4 +132,18 @@ A complexidade do bastidor sustenta uma fala simples e suficientemente precisa; 
 - Mapas conceituais: produzidos.
 - Versões simples para slides: definidas em cada nota.
 - Aprofundamentos teóricos: destinados longitudinalmente.
-- Adaptação gráfica final: realizar quando forem produzidos os slides da unidade correspondente, sem alterar a arquitetura conceitual sem registro.
+- Sistema visual e quatro gráficos vetoriais-mestre: produzidos para validação visual.
+- Derivações específicas para slides e fichas: realizar na produção da Unidade 0.2 a partir dos mestres, sem redesenhar o conteúdo do zero.
+
+
+## Sistema visual produzido
+
+A família gráfica vetorial e suas regras de reutilização estão registradas em:
+
+- [[20 - Sistema Visual/00 - Sistema Visual dos Mapas - Traduzindo o Ser Humano]]
+- [[20 - Sistema Visual/01 - Gráfico Mestre - Referência, EIXO e Estado.svg]]
+- [[20 - Sistema Visual/02 - Gráfico Mestre - Pêndulo, Espiral e Percurso.svg]]
+- [[20 - Sistema Visual/03 - Gráfico Mestre - Desenvolvimento do Retorno.svg]]
+- [[20 - Sistema Visual/04 - Gráfico Mestre - Três Perspectivas do Equilíbrio Dinâmico.svg]]
+
+Os gráficos derivam destas notas conceituais e não as substituem. A forma visual pode ser refinada; alterações de conteúdo exigem atualização explícita da nota-mestre correspondente.
