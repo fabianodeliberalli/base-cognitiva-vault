@@ -46,7 +46,9 @@ Esta nota articula:
 
 > A pessoa não perde o acesso ao que já compreendeu simplesmente por “não se esforçar”. O acesso às suas capacidades varia conforme o estado corporal e autonômico, as previsões que organizam a experiência, o contexto relacional e o grau de integração disponível naquele momento.
 
-Essa formulação não elimina responsabilidade. Ela substitui a moralização do estado por uma compreensão funcional: reconhecer condições de menor acesso permite escolher apoio, dosagem, pausa, reparação, nova tentativa e aprendizagem.
+Isso não retira responsabilidade. Ao contrário, substitui a culpa genérica por responsabilidades mais concretas: reconhecer condições, buscar apoio, pausar, ajustar a estratégia, reparar e aprender.
+
+Responsabilidade, aqui, não significa controlar integralmente o estado nem impedir toda oscilação. Significa responder do modo mais consciente e possível às condições reconhecidas, aos efeitos das próprias ações e às possibilidades reais de cuidado, escolha e reparação.
 
 ## Relação com pêndulo, espiral e percurso
 
@@ -71,9 +73,24 @@ O percurso é reconhecido pela ampliação gradual da capacidade de:
 
 Assim, perder o eixo pode ser um acontecimento dentro do percurso; perder o percurso seria deixar de poder reconhecer, retomar ou reorganizar o processo por tempo suficiente, situação em que apoio adicional pode ser necessário.
 
+## Articulação didática condensada
+
+- **pêndulo:** variação de acesso;
+- **espiral:** reencontro de um tema sob novas condições;
+- **mapa:** localização no percurso;
+- **segurança:** condições suficientes de escolha, dosagem, apoio, pausa e retorno;
+- **eixo:** função pedagógica de reconhecimento, coordenação e orientação;
+- **competência incorporada:** disponibilidade progressiva dessas capacidades na experiência real.
+
+Esses elementos não são sinônimos. Juntos, permitem compreender onde a pessoa está, como seu acesso varia, em quais condições consegue retornar e quais capacidades o curso pretende tornar progressivamente mais disponíveis.
+
 ## Competência incorporada
 
+> Uma explicação nova pode abrir caminho, mas não transforma imediatamente todas as respostas aprendidas. Outras possibilidades precisam tornar-se disponíveis na experiência real.
+
 > A mudança não consiste somente em adquirir uma explicação melhor. Ela envolve criar condições para que novas previsões, diferenciações e possibilidades de resposta se tornem acessíveis quando a experiência realmente acontece.
+
+Este é um dos trabalhos centrais propostos no curso: favorecer a passagem entre compreender uma possibilidade e conseguir acessá-la, reconhecê-la e exercê-la progressivamente quando a experiência acontece.
 
 O critério não é repetir corretamente uma ideia fora da situação de ativação, mas ampliar sua disponibilidade em condições reais. Isso exige experiência, repetição, corpo, contexto, relação, reflexão e revisão — não apenas informação.
 
