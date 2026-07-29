@@ -39,7 +39,9 @@ Não exigir resposta pública.
 
 Evitar que a formulação seja recebida como retirada de responsabilidade. Completar:
 
-> “Compreender essas condições não elimina responsabilidade; permite responder a ela com mais precisão: reconhecer, buscar apoio, pausar, reparar, tentar de outro modo e aprender.”
+> “Isso não retira responsabilidade. Ao contrário, substitui a culpa genérica por responsabilidades mais concretas: reconhecer condições, buscar apoio, pausar, ajustar a estratégia, reparar e aprender.”
+
+Explicitar que responsabilidade não é controle total sobre o estado. Ela aparece na resposta possível às condições reconhecidas, na consideração dos efeitos das próprias ações e na disposição para escolher, pedir apoio, colocar limites, reparar e aprender.
 
 ### Bastidor do educador
 
@@ -76,6 +78,15 @@ Não apresentá-los como quatro conceitos equivalentes:
 - **pêndulo:** imagem da oscilação de acesso;
 - **segurança:** condição de participação, escolha, dosagem e retorno.
 
+### Síntese dos elementos
+
+- **pêndulo:** variação de acesso;
+- **espiral:** reencontro de um tema sob novas condições;
+- **mapa:** localização no percurso;
+- **segurança:** condições suficientes de escolha, dosagem, apoio, pausa e retorno;
+- **eixo:** função pedagógica de reconhecimento, coordenação e orientação;
+- **competência incorporada:** disponibilidade progressiva dessas capacidades na experiência real.
+
 ### Frases pedagógicas
 
 > “Retornar não é regredir.”
@@ -95,6 +106,10 @@ Evitar sugerir trajetória sempre ascendente ou retorno espontâneo garantido.
 ### Conexão com competência incorporada
 
 > “Uma explicação nova pode abrir caminho, mas não transforma imediatamente todas as respostas aprendidas. Outras possibilidades precisam tornar-se disponíveis na experiência real.”
+
+Acrescentar:
+
+> “Esse é um dos trabalhos que faremos ao longo do curso: não apenas compreender novas possibilidades, mas criar condições para que elas se tornem progressivamente acessíveis quando forem necessárias.”
 
 Não usar “o cérebro inventa a realidade”, “tudo é alucinação” ou “basta mudar a crença”.
 
