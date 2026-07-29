@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="t d">
+<title id="t">Mapa Referência, EIXO e Estado</title><desc id="d">Mapa radial mostrando Essência no centro, EIXO como anel de coordenação, estado e acesso em camada variável, condições da experiência no campo externo e participação como expressão observável.</desc>
+<defs><style>
+.title{font:700 48px Georgia,serif;fill:#F4EFEA}.sub{font:400 24px Arial,sans-serif;fill:#DDE7E3}
+.h{font:700 27px Arial,sans-serif;fill:#F4EFEA}.b{font:400 22px Arial,sans-serif;fill:#F4EFEA}
+.small{font:400 18px Arial,sans-serif;fill:#DDE7E3}.label{font:700 20px Arial,sans-serif;letter-spacing:2px;fill:#C9D8D1}
+</style><filter id="shadow"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-opacity=".22"/></filter></defs><rect width="1600" height="900" rx="28" fill="#173F52"/><rect x="42" y="42" width="1516" height="816" rx="24" fill="none" stroke="#7E9E84" stroke-width="2"/>
+<text x="80" y="110" class="title">Referência, EIXO e Estado</text><text x="80" y="150" class="sub">O que permanece, o que se desenvolve e o que varia?</text>
+<ellipse cx="770" cy="474" rx="505" ry="275" fill="#245E78" opacity=".24" stroke="#7E9E84" stroke-width="2" stroke-dasharray="9 12"/>
+<text x="310" y="250" class="label">CONDIÇÕES DA EXPERIÊNCIA</text>
+<g filter="url(#shadow)"><circle cx="770" cy="474" r="190" fill="#245E78" stroke="#F4EFEA" stroke-width="3"/><circle cx="770" cy="474" r="118" fill="#F4EFEA"/></g>
+<text x="770" y="452" text-anchor="middle" style="font:700 31px Georgia,serif;fill:#173F52">Essência / Self</text><text x="770" y="487" text-anchor="middle" style="font:400 20px Arial;fill:#375A61">referência profunda</text><text x="770" y="518" text-anchor="middle" style="font:400 18px Arial;fill:#375A61">identidade · sentido · direção</text>
+<text x="770" y="328" text-anchor="middle" class="label">EIXO</text><text x="770" y="355" text-anchor="middle" class="small">contato · reconhecimento · coordenação · orientação</text>
+<g><rect x="168" y="365" width="330" height="116" rx="24" fill="#6E5C4D"/><text x="333" y="407" text-anchor="middle" class="h">Corpo e memória</text><text x="333" y="441" text-anchor="middle" class="small">história · intensidade · ritmo</text></g>
+<g><rect x="1042" y="365" width="330" height="116" rx="24" fill="#6E5C4D"/><text x="1207" y="407" text-anchor="middle" class="h">Contexto e vínculos</text><text x="1207" y="441" text-anchor="middle" class="small">ambiente · relação · segurança</text></g>
+<g><rect x="582" y="690" width="376" height="92" rx="24" fill="#7E9E84"/><text x="770" y="728" text-anchor="middle" style="font:700 26px Arial;fill:#173F52">Estado e acesso variam</text><text x="770" y="759" text-anchor="middle" style="font:400 19px Arial;fill:#173F52">capacidades podem ficar menos disponíveis</text></g>
+<path d="M770 666 C1040 650 1240 610 1390 540" fill="none" stroke="#C99A64" stroke-width="4"/><path d="M1390 540 l-26 -3 12 23z" fill="#C99A64"/>
+<text x="1150" y="650" class="h">Participação</text><text x="1150" y="683" class="small">resposta · efeitos · reparação · aprendizagem</text>
+<text x="80" y="824" class="sub">A Essência permanece como referência. O acesso oscila. O eixo favorece o retorno.</text><text x="1450" y="824" text-anchor="end" class="small">Traduzindo o Ser Humano</text></svg>
