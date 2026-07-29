@@ -132,3 +132,12 @@ A Unidade 0.2 não deve se transformar numa aula de Medicina Chinesa, Teoria Pol
 - literatura de neurobiologia autonômica, interocepção, regulação e corregulação;
 - Stephen Porges e Deb Dana — utilizar com explicitação do estatuto específico da Teoria Polivagal;
 - fundamentos autorais do Traduzindo o Ser Humano sobre Essência, EIXO, competência incorporada, pêndulo, espiral e retorno.
+
+
+## Representação gráfica vetorial
+
+![[20 - Sistema Visual/04 - Gráfico Mestre - Três Perspectivas do Equilíbrio Dinâmico.svg]]
+
+- Fonte conceitual oficial: esta nota.
+- Uso inicial: síntese simples ou bastidor do educador na Unidade 0.2.
+- Derivações: aprofundamentos separados em MTC/Qi Gong, regulação autonômica, aprendizagem e integração, conforme [[20 - Sistema Visual/00 - Sistema Visual dos Mapas - Traduzindo o Ser Humano]].
