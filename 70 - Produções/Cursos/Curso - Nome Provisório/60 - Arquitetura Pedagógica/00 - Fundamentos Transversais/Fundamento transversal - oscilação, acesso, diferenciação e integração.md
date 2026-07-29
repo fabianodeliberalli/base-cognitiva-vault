@@ -393,6 +393,33 @@ A obra integra trauma, corpo, identidade, relação terapêutica, presença, aut
 - Siegel, Daniel J. *The Developing Mind*, *Mind* e textos de Neurobiologia Interpessoal.
 - Salvador, Mario C. *Mais além do eu: encontrando nossa essência através da cura do trauma*.
 
+## Família de mapas produzida
+
+A consolidação visual e a governança de utilização futura deste fundamento estão registradas em:
+
+- [[00 - Família de Mapas - Oscilação, Retorno e Equilíbrio Dinâmico]]
+- [[01 - Mapa Mestre - Referência, EIXO e Estado]]
+- [[02 - Mapa Mestre - Pêndulo, Espiral e Percurso]]
+- [[03 - Mapa Mestre - Desenvolvimento do Retorno]]
+- [[04 - Mapa Mestre - Três Perspectivas do Equilíbrio Dinâmico]]
+
+### Direção do desenvolvimento incorporada
+
+> O desenvolvimento não elimina o movimento próprio da vida. Ele torna progressivamente mais estável e acessível o contato com a referência profunda, reduz oscilações desorganizadoras e amplia a capacidade de reconhecer, atravessar e reorganizar os deslocamentos quando eles acontecem.
+
+O treino pode modificar frequência, intensidade, duração e efeitos dos deslocamentos desorganizadores; antecipar seu reconhecimento; ampliar recursos e apoios; facilitar retorno, reparação e aprendizagem; e favorecer uma vida progressivamente mais orientada pela Essência.
+
+### Equilíbrio dinâmico e consiliência crítica
+
+Yin–yang, neurobiologia autonômica e equilibração em Piaget foram incorporados como perspectivas complementares, sem equivalência entre seus mecanismos ou estatutos:
+
+- **yin–yang:** relação, alternância e transformação; equilíbrio não significa imobilidade;
+- **neurobiologia autonômica:** variação corporal de acesso, mobilização, conexão, proteção, conservação e recuperação;
+- **equilibração:** assimilação, acomodação e reorganização possível diante de perturbações;
+- **Tradução/EIXO:** elaboração autoral que transforma essas contribuições em percurso pedagógico, sem pretender substituí-las ou ser provada por elas.
+
+A Teoria Polivagal permanece como modelo específico dentro da discussão autonômica. Não igualar “vagal e dorsal” nem “simpático e parassimpático”: dorsal é um ramo vagal e parassimpático; a formulação didática adequada considera organização vagal ventral, mobilização simpática, respostas vagais dorsais, combinações e transições.
+
 ## Relações
 
 - [[02 - Matriz Integrada - Quatro Movimentos, Seis Fases e Jornada Fenomenológica]]
