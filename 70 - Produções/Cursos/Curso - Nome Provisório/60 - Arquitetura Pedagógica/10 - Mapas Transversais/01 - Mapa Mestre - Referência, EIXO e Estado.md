@@ -104,3 +104,12 @@ O mapa articula formulações antropológicas, fenomenológicas, clínicas, peda
 ### Formulação canônica de retorno
 
 > Retornar não é voltar a uma versão anterior nem reproduzir um estado ideal. É recuperar progressivamente o contato com um centro mais profundo de identidade, sentido e orientação, a partir das condições reais do presente.
+
+
+## Representação gráfica vetorial
+
+![[20 - Sistema Visual/01 - Gráfico Mestre - Referência, EIXO e Estado.svg]]
+
+- Fonte conceitual oficial: esta nota.
+- Uso inicial: Unidade 0.2.
+- Derivações: slide, apostila e ficha de aplicação conforme [[20 - Sistema Visual/00 - Sistema Visual dos Mapas - Traduzindo o Ser Humano]].
