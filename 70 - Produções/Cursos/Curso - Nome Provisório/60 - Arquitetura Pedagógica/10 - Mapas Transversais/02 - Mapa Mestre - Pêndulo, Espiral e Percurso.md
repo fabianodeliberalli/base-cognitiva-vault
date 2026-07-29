@@ -120,3 +120,12 @@ Os movimentos não constituem uma sequência rígida. O mapa organiza possibilid
 - A neurobiologia autonômica ajuda a compreender variação de estado, acesso, mobilização, conexão, proteção e recuperação.
 - A equilibração ajuda a compreender como uma perturbação pode exigir assimilação, acomodação e reorganização.
 - Essas perspectivas iluminam perguntas diferentes e não devem ser fundidas numa explicação única.
+
+
+## Representação gráfica vetorial
+
+![[20 - Sistema Visual/02 - Gráfico Mestre - Pêndulo, Espiral e Percurso.svg]]
+
+- Fonte conceitual oficial: esta nota.
+- Uso inicial: imagem central da Unidade 0.2.
+- Derivações: slide, apostila e ficha de aplicação conforme [[20 - Sistema Visual/00 - Sistema Visual dos Mapas - Traduzindo o Ser Humano]].
