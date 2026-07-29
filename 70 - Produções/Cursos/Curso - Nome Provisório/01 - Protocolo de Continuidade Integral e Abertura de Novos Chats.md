@@ -3,7 +3,7 @@ tipo: protocolo-de-continuidade-integral
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "1.9"
+versao: "2.0"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-21
 atualizado_em: 2026-07-28
@@ -183,7 +183,7 @@ Para quem o curso não é:
 Direções comerciais e de entrega:
 
 - sete módulos organizados em aulas curtas e progressivas;
-- 14 unidades curriculares nucleares, decompostas em microaulas na preparação audiovisual;
+- 14 unidades curriculares nucleares; cada unidade é decomposta estruturalmente em microaulas logo após sua consolidação autoral;
 - quantidade final de microaulas divulgada somente quando a decomposição estiver suficientemente avançada;
 - conteúdo estruturante preparado para a plataforma; encontros ao vivo, quando houver, cumprem função complementar de integração, aplicação e aprofundamento;
 - curso principal antes de um workshop de menor valor;
@@ -363,7 +363,7 @@ Decisões aprovadas permanecem na ficha pedagógica. Texto de fala pertence ao r
 
 ### Unidade Curricular 0.1
 
-Encerrada curricularmente em v1.0, com sete Partes, quatro macroblocos e auditoria concluída. Os 48 slides permanecem provisórios e a gravação não está autorizada. A decomposição em microaulas pertence à preparação audiovisual posterior.
+Encerrada curricularmente em v1.0, com sete Partes, quatro macroblocos e auditoria concluída. Sua decomposição estrutural em dez microaulas foi concluída, e os títulos públicos foram aprovados. Os 48 slides permanecem provisórios e a gravação não está autorizada. Duração definitiva, roteiro oral, storyboard, design, piloto e gravação pertencem à preparação audiovisual posterior.
 
 ### Unidade Curricular 0.2 — Percurso do EIXO
 
@@ -608,7 +608,7 @@ Não tratar como resolvido:
 - seleção das práticas tradicionais;
 - versão final do léxico pedagógico reduzido;
 - execução, registro e deliberação pós-piloto da Aula 1.1;
-- organização completa da Aula 0.1;
+- construção integral, consolidação autoral e decomposição estrutural da Unidade Curricular 0.2;
 - inserção manual do PDF de Dispenza, se pendente.
 
 Não reabrir sem contradição real:
@@ -696,8 +696,9 @@ Antes de declarar ausência de conteúdo ou produzir do zero, consultar o Invent
 1. verificar função, capacidade e rastreabilidade;
 2. auditar P2, P6, sequência, prática, evidência, retorno e ponte;
 3. classificar materiais em preservar, adaptar, reposicionar, reservar, substituir ou excluir da entrega;
-4. atualizar o Índice do Kit, o Estado e Índice do Módulo e o Índice Mestre;
-5. registrar deliberação autoral, pendências, impactos e ponto seguinte.
+4. após a consolidação autoral, decompor a unidade em microaulas estruturais e revisar seus títulos públicos;
+5. atualizar o Índice do Kit, o Estado e Índice do Módulo e o Índice Mestre;
+6. registrar deliberação autoral, pendências, impactos e ponto seguinte.
 
 ### Auditoria de encerramento de cada módulo
 
@@ -712,11 +713,11 @@ Antes de declarar ausência de conteúdo ou produzir do zero, consultar o Invent
 
 ### Orquestração Curricular Mestre
 
-Nome vigente:
+Ciclo transversal mais recente encerrado:
 
 > **Curso — Orquestração Curricular Mestre 03**
 
-O chat atual assume essa função. Não é necessário abrir outro agora. Um sucessor será criado apenas por limite operacional, usando o prompt de continuidade registrado.
+Esse chat permanece como registro histórico do ciclo da consultoria Camila e de suas incorporações transversais. Não deve receber a construção da Unidade 0.2. O **Curso — Orquestração Curricular Mestre 04** será aberto somente quando surgir nova questão transversal que justifique sua ativação.
 
 Responsabilidades: decisões transversais, arquitetura global, integração entre módulos, portões, conflitos de distribuição, auditoria global das 14 unidades curriculares e atualização do Dossiê e do LEIA PRIMEIRO.
 
@@ -724,7 +725,7 @@ Responsabilidades: decisões transversais, arquitetura global, integração entr
 
 Abrir somente quando o módulo entrar em produção:
 
-- Curso — Módulo 0 — Orientação, mapa e contrato formativo;
+- Curso — Módulo 0 — Continuidade 02 — Unidade 0.2;
 - Curso — Módulo 1 — Traduzir a Experiência;
 - Curso — Módulo 2 — Corpo, energia, presença e retorno;
 - Curso — Módulo 3 — Observar e Diferenciar;
@@ -736,10 +737,10 @@ Cada módulo possui uma única nota oficial `00 - Estado, Índice e Continuidade
 
 ### Ordem de trabalho
 
-1. Aula 0.1 e sua auditoria;
-2. Aula 0.2 e sua auditoria;
+1. Unidade 0.1: consolidação, auditoria e decomposição estrutural concluídas;
+2. Unidade 0.2: construção integral, consolidação, decomposição estrutural e auditoria;
 3. auditoria do Módulo 0;
-4. Módulo 1, incluindo a auditoria normal do protótipo da Aula 1.1;
+4. Módulo 1, incluindo a auditoria normal do protótipo da Unidade 1.1;
 5. módulos seguintes;
 6. auditoria curricular global.
 
@@ -747,8 +748,8 @@ Cada módulo possui uma única nota oficial `00 - Estado, Índice e Continuidade
 
 Os prompts integrais estão em [[Prompts de Abertura - Orquestração Curricular Mestre e Módulo 0]].
 
-- O prompt da Orquestração Mestre serve para futura continuação quando o chat vigente atingir limite.
-- O prompt do Módulo 0 deve ser usado agora para abrir o primeiro chat de produção.
+- O prompt da Orquestração Mestre 04 serve para futura ativação quando surgir uma questão transversal.
+- O prompt do Módulo 0 deve ser usado agora para abrir o chat sucessor **Curso — Módulo 0 — Continuidade 02 — Unidade 0.2**.
 - Cada próximo módulo receberá um prompt gerado a partir do estado encerrado do módulo anterior.
 
 ## 21. Critério de continuidade plena
@@ -773,7 +774,9 @@ A continuidade é considerada plena quando o novo chat consegue responder, com f
 Se uma dessas respostas depender apenas da memória do chat, há uma deficiência de continuidade e ela deve ser registrada e corrigida no repositório.
 
 
-## 22. Controle de versão 1.6
+## 22. Controle de versão
+
+A versão 2.0 reconcilia a continuidade após o ciclo da consultoria Camila: encerra a Orquestração Mestre 03, ativa o sucessor do Módulo 0 na Unidade 0.2, registra a decomposição concluída da Unidade 0.1 e estabelece a decomposição estrutural imediatamente após a consolidação autoral de cada unidade.
 
 A versão 1.6 explicita que a ação descrita no estado da Aula 1.1 pertence à fila futura do Módulo 1 e não ao ponto global de retomada.
 
