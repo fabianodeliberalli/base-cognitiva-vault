@@ -13,6 +13,10 @@ tags:
   - seguranca
   - integracao
   - consiliencia-critica
+  - responsabilidade-sem-culpabilizacao
+  - equanimidade
+  - grandes-tradicoes
+  - resultados-observaveis
 ---
 
 # Fundamento transversal — oscilação, acesso, diferenciação e integração
@@ -49,6 +53,101 @@ Esta nota articula:
 Isso não retira responsabilidade. Ao contrário, substitui a culpa genérica por responsabilidades mais concretas: reconhecer condições, buscar apoio, pausar, ajustar a estratégia, reparar e aprender.
 
 Responsabilidade, aqui, não significa controlar integralmente o estado nem impedir toda oscilação. Significa responder do modo mais consciente e possível às condições reconhecidas, aos efeitos das próprias ações e às possibilidades reais de cuidado, escolha e reparação.
+
+## Formulação transversal integrada
+
+> Uma explicação nova pode abrir caminho, mas não transforma imediatamente todas as respostas aprendidas. Outras possibilidades precisam tornar-se disponíveis na experiência real. Esse é um dos trabalhos do curso: criar condições para que aquilo que a pessoa compreende se torne progressivamente mais acessível nos momentos em que seus padrões são ativados. Isso não significa controlar permanentemente o próprio estado, mas ampliar a capacidade de reconhecer o que está acontecendo, mobilizar escolhas e apoios possíveis, considerar os efeitos das próprias ações, reparar quando necessário e aprender com a experiência.
+
+### Formulação nuclear simplificada
+
+> Reconhecer as condições sem culpabilização, participar sem ilusão de controle, mobilizar possibilidades reais e aprender com os efeitos da experiência.
+
+Essa síntese deve orientar currículo, práticas, indicadores, Raio-X, apresentação da oferta e comunicação pública. Ela não substitui a fundamentação completa; traduz suas consequências pedagógicas e verificáveis.
+
+## Eixo como referência dinâmica
+
+> Eixo não é permanecer no centro. É desenvolver a capacidade de perceber deslocamentos, recuperar referência e participar conscientemente da resposta possível.
+
+Isso converge com a formulação já aprovada:
+
+> O EIXO está mais relacionado à capacidade de reconhecer o afastamento e reencontrar orientação.
+
+A articulação transversal fica:
+
+- **pêndulo:** mostra a oscilação e a variação de acesso;
+- **espiral:** mostra o reencontro de um tema sob novas condições;
+- **mapa:** ajuda a localizar;
+- **segurança:** oferece condições suficientes de participação e retorno;
+- **eixo:** oferece referência de coordenação e orientação;
+- **competência incorporada:** indica quanto essas capacidades estão disponíveis na experiência real.
+
+## Responsabilidade sem culpabilização nem passividade
+
+> Responsabilidade não significa manter controle permanente sobre o próprio estado. Significa reconhecer as condições que participam de uma resposta, considerar os efeitos das próprias ações e mobilizar, dentro do que é realmente possível, recursos de escolha, apoio, ajuste e reparação.
+
+Versão curta para o participante:
+
+> Compreender as condições não elimina sua participação. Ajuda você a descobrir onde e como ainda pode participar.
+
+“Responsabilidade situada” permanece como expressão de bastidor. Não deve ser criada como novo termo obrigatório para o participante.
+
+A formulação protege o curso de dois extremos:
+
+- **culpabilização:** “Se você já sabe, deveria conseguir”;
+- **passividade:** “Como meu estado explica minha reação, não tenho nada a fazer”.
+
+A saída não é um ponto médio abstrato, mas uma organização mais madura: reconhecer condições sem transformá-las em condenação nem em destino.
+
+## Multidimensionalidade e dignidade epistemológica
+
+> Como nossas respostas são organizadas por diferentes dimensões da experiência, uma única explicação raramente é suficiente. Os mapas do curso oferecem perspectivas complementares para reconhecer o que está participando da experiência e quais condições podem favorecer novas possibilidades de resposta.
+
+O curso não utiliza vários mapas para acumular teorias. Utiliza-os porque cada mapa ajuda a perceber uma parte do território e a encontrar diferentes possibilidades de intervenção.
+
+Os mapas não serão organizados por uma hierarquia automática que tome um único campo como medida universal dos demais. Ciência, clínica, fenomenologia, Grandes Tradições, linguagem simbólica, experiência pessoal e elaboração autoral ficam submetidas ao mesmo dever de clareza: explicitar a pergunta que ajudam a responder, o tipo de conhecimento que oferecem, suas condições de uso e seus limites.
+
+> Diferença de estatuto não significa diferença de dignidade.
+
+Essa regra corrige tratamentos assimétricos: mapas científicos também possuem pressupostos, recortes, condições de validade e limites; mapas tradicionais não precisam imitar a ciência para serem reconhecidos em sua potência experiencial, simbólica, ética, contemplativa ou espiritual.
+
+## Equanimidade e neutralidade consciente
+
+A palavra-síntese adotada para o estado e para o exercício é **equanimidade**, traduzida pedagogicamente como **neutralidade consciente e implicada**.
+
+> Equanimidade é o treino de observar sem agarrar, rejeitar ou concluir automaticamente.
+
+Ela não significa indiferença, omissão, ausência de afeto, de ação ou de posicionamento. Pode sustentar limites claros, escolhas maduras e participação consciente.
+
+Na Unidade 3.1, os três venenos entram como mapa das Grandes Tradições:
+
+| Tradição | Tradução funcional no curso |
+|---|---|
+| Apego | agarrar-se a uma experiência, interpretação, identidade, resultado ou estado desejado |
+| Aversão | rejeitar, expulsar, controlar, evitar ou lutar automaticamente contra o que aparece |
+| Ignorância | não reconhecer suficientemente as condições, relações e processos que participam da experiência |
+
+“Ignorância” não significa simplesmente falta de informação. Refere-se a não ver com clareza suficiente — inclusive não perceber que estamos agarrando, rejeitando ou confundindo uma parte da experiência com sua totalidade.
+
+Formulação acessível aprovada:
+
+> Diante do que vivemos, podemos nos agarrar ao que desejamos manter, rejeitar aquilo que não queremos sentir ou não perceber claramente o que está acontecendo. Algumas tradições descrevem esses movimentos como apego, aversão e ignorância. No curso, esse mapa será utilizado para ampliar a observação, não para julgar a experiência nem impor uma crença.
+
+Destinação: **Unidade 3.1 — Observar sem fugir do que sente nem ser dominado por isso**, como Mapa Agarrar–Rejeitar–Não perceber claramente e futuro recurso visual de PowerPoint.
+
+## Matriz transversal de resultados observáveis
+
+| Indicador | Unidades prioritárias |
+|---|---|
+| Perceber mais cedo a ativação e os sinais de afastamento | 0.2 e 2.1 |
+| Diferenciar sensação, emoção, pensamento, memória, interpretação e contexto | 0.1, 1.1, 1.2 e 3.1 |
+| Reconhecer quando uma capacidade ficou menos acessível sem interpretar isso automaticamente como fracasso | 0.1 e 0.2 |
+| Mobilizar pausa, retorno e apoio pessoal, relacional ou ambiental | 2.1 e 2.2 |
+| Observar com equanimidade, percebendo apego, aversão e falta de clareza | 3.1 |
+| Ampliar orientação, escolhas e participação possível | 4.1 e 4.2 |
+| Considerar efeitos, estabelecer limites e reparar quando necessário | 4.2, 5.1, 6.1 e 6.2 |
+| Aprender com a oscilação e construir continuidade | 0.2, 5.1 e 6.2 |
+
+Durante a construção de cada unidade, deve-se verificar quais indicadores ela realmente desenvolve, por quais experiências pedagógicas e com quais formas de auto-observação. Os indicadores não são promessa de desempenho uniforme nem instrumento diagnóstico; funcionam como critérios de coerência pedagógica e benefício reconhecível.
 
 ## Relação com pêndulo, espiral e percurso
 
