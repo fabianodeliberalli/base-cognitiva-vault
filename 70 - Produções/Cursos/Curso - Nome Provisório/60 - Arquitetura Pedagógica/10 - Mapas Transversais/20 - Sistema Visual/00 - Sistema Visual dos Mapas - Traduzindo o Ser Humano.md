@@ -4,6 +4,7 @@ projeto: Traduzindo o Ser Humano
 status: produzido-para-validacao-visual
 data: 2026-07-29
 origem: consolidação da Unidade 0.2
+fonte_governante: "[[05 - Diretriz Transversal - Espiritualidade Explícita, Singularidade Autoral e Não Neutralização]]"
 tags:
   - mapas-transversais
   - identidade-visual
@@ -19,6 +20,14 @@ tags:
 Os mapas conceituais consolidados permanecem como fonte oficial. Os SVGs desta pasta são representações gráficas derivadas: podem evoluir visualmente sem alterar o constructo teórico e didático registrado nas notas-mestres.
 
 A unidade da família está na gramática visual; a geometria varia conforme a pergunta de cada mapa.
+
+## Orientação governante incorporada em 30 de julho de 2026
+
+A validação visual deve preservar a espiritualidade explícita e a singularidade autoral do projeto. Centro, Essência/Self, energia, luz, verticalidade, transcendência, simetria e integração não serão reduzidos ou eliminados por associação abstrata a espiritualidade ou esoterismo.
+
+Esses elementos podem ser ajustados quando houver limitação técnica demonstrável, perda real de legibilidade, reprodução insuficiente ou ambiguidade comprovada. A resposta preferencial é criar hierarquias e versões responsivas, preservando o núcleo simbólico e conceitual.
+
+Os mapas devem continuar corporificados, humanos, relacionais e ligados à experiência concreta. Espiritualidade explícita não significa ornamentação espiritual genérica nem apagamento do rigor, do corpo, da pluralidade de mapas ou da vida cotidiana.
 
 ## Gramática comum
 
@@ -93,11 +102,14 @@ Usar em apostila, ficha ou exercício. Manter o desenho principal e acrescentar 
 8. Pêndulo e espiral são metáforas didáticas, não mecanismos físicos ou garantias de evolução.
 9. Os indicadores do retorno são tendências formativas, não escala diagnóstica.
 10. Novos mapas devem reutilizar a gramática comum, mas conservar geometria própria.
+11. Simetria pode representar EIXO, correspondência e organização dinâmica; não deve ser tratada automaticamente como perfeição estática.
+12. Centro, luz, energia, verticalidade, transcendência e integração não devem ser neutralizados por heurísticas genéricas externas.
+13. Ajustes nesses elementos exigem razão técnica ou comunicacional demonstrável e devem priorizar versões responsivas antes da exclusão.
 
 ## Próxima aplicação prevista
 
 Na retomada da Unidade 0.2:
-- usar o gráfico Referência–EIXO–Estado para a distinção entre referência, capacidade e condição variável;
+- usar o gráfico Referência–EIXO–Estado para a distinção entre referência, capacidade e condição variável, reconhecendo Centro, Essência ou Self também como referência antropológica e espiritual;
 - usar Pêndulo–Espiral–Percurso como imagem central;
 - apresentar Desenvolvimento do Retorno apenas depois que o participante compreender que oscilação não anula percurso;
 - manter Três Perspectivas como síntese curta, deslocando aprofundamentos para as unidades próprias.
