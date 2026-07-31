@@ -149,6 +149,14 @@ Destinação: **Unidade 3.1 — Observar sem fugir do que sente nem ser dominado
 
 Durante a construção de cada unidade, deve-se verificar quais indicadores ela realmente desenvolve, por quais experiências pedagógicas e com quais formas de auto-observação. Os indicadores não são promessa de desempenho uniforme nem instrumento diagnóstico; funcionam como critérios de coerência pedagógica e benefício reconhecível.
 
+## Regra de não redução e espiritualidade explícita
+
+Este fundamento é governado pela [[05 - Diretriz Transversal - Espiritualidade Explícita, Singularidade Autoral e Não Neutralização]].
+
+Centro, Essência ou Self não são introduzidos apenas como recursos psicológicos de autorregulação. Constituem também uma referência antropológica e espiritual legítima do percurso. A neurobiologia autonômica, a psicologia, a fenomenologia, as tradições energéticas e a espiritualidade podem dialogar sem equivalência automática e sem que a ciência funcione como autorização exclusiva para as demais linguagens.
+
+A Unidade 0.2 deve preservar essa multidimensionalidade de modo simples e experiencial: pêndulo, segurança e retorno não serão usados para secularizar o percurso, enquanto linguagem espiritual e energética não será apresentada como imposição ontológica ou explicação única.
+
 ## Centro, Essência ou Self, eixo e estado momentâneo
 
 Para preservar simultaneamente a profundidade antropológica do projeto e sua tradução prática, o curso distingue três níveis:
@@ -422,6 +430,7 @@ A Teoria Polivagal permanece como modelo específico dentro da discussão auton�
 
 ## Relações
 
+- [[05 - Diretriz Transversal - Espiritualidade Explícita, Singularidade Autoral e Não Neutralização]]
 - [[02 - Matriz Integrada - Quatro Movimentos, Seis Fases e Jornada Fenomenológica]]
 - [[01 - Ficha Pedagógica]]
 - [[02 - Roteiro do Educador]]
