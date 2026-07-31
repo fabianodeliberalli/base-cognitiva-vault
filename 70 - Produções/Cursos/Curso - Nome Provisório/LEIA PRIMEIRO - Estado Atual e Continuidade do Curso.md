@@ -3,9 +3,9 @@ tipo: porta-de-entrada-continuidadade
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "2.4"
+versao: "2.5"
 criado_em: 2026-07-21
-atualizado_em: 2026-07-29
+atualizado_em: 2026-07-30
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 tags:
@@ -49,7 +49,15 @@ Na fase criativa, prevalecem linguagem natural, exploração progressiva, formas
 
 As decisões substantivas e os cuidados éticos permanecem protegidos. A documentação formal entra em marcos naturais e na consolidação autoral, não como condição para começar a pensar.
 
-## Estado vigente em 29 de julho de 2026
+## Diretriz transversal governante vigente desde 30 de julho de 2026
+
+A [[05 - Diretriz Transversal - Espiritualidade Explícita, Singularidade Autoral e Não Neutralização]] é leitura obrigatória e prevalece sobre heurísticas genéricas de mercado, branding, ciência, psicologia, design ou IA quando estas tenderem a ocultar, secularizar, diluir ou reduzir a singularidade autoral do projeto.
+
+A espiritualidade explícita, afirmativa, plural e não dogmática é dimensão estrutural e longitudinal do **Traduzindo o Ser Humano**. Isso não obriga sua repetição nominal em toda Parte, microaula ou slide; obriga que o percurso não a trate como adendo, risco por princípio ou conteúdo isolado numa única unidade. Simplicidade de linguagem não autoriza neutralização conceitual.
+
+Antes de recomendar retirada ou redução de elementos espirituais, energéticos, simbólicos ou transpessoais, devem ser examinados sua origem, função, integração, risco real, custo de perda autoral e alternativas proporcionais. Limitações éticas, técnicas demonstráveis, evidência relevante e decisões autorais posteriores permanecem critérios legítimos.
+
+## Estado vigente em 30 de julho de 2026
 
 ### Curso
 
@@ -141,8 +149,9 @@ A Unidade Curricular 1.1 permanece como protótipo revisável e será auditada q
 ### Para qualquer retomada
 
 1. esta nota;
-2. [[Protocolo de Elaboração Curricular Viva e Continuidade Leve]];
-3. o Estado, Índice e Continuidade do módulo ativo.
+2. [[05 - Diretriz Transversal - Espiritualidade Explícita, Singularidade Autoral e Não Neutralização]];
+3. [[Protocolo de Elaboração Curricular Viva e Continuidade Leve]];
+4. o Estado, Índice e Continuidade do módulo ativo.
 
 Os demais documentos são consultados conforme a pergunta e o conteúdo em elaboração. Não é necessária leitura integral automática de todo o acervo antes de iniciar a conversa.
 
@@ -171,6 +180,7 @@ Acrescentar:
 | Necessidade | Documento que prevalece |
 |---|---|
 | Princípios e limites institucionais | Constituição, Manual Institucional e Protocolo Operacional |
+| Espiritualidade explícita, singularidade autoral e não neutralização | [[05 - Diretriz Transversal - Espiritualidade Explícita, Singularidade Autoral e Não Neutralização]] |
 | Estado geral, identidade, público e arquitetura do curso | Dossiê |
 | Consequência curricular das formulações | Guia Mestre de Incorporação e Rastreabilidade |
 | Redação e estatuto individual das formulações | Registro Mestre |
@@ -195,7 +205,8 @@ Trechos históricos permanecem como memória evolutiva, mas não substituem seç
 - integração como horizonte progressivo;
 - dignidade epistêmica e abertura ontológica responsável;
 - pluralidade de mapas sem equivalências automáticas;
-- espiritualidade afirmativa, plural e não dogmática;
+- espiritualidade explícita, afirmativa, plural e não dogmática como dimensão estrutural e longitudinal;
+- singularidade autoral e não neutralização por heurísticas genéricas externas;
 - distinção entre dimensão energética e espiritualidade;
 - aula nuclear energética e aula nuclear espiritual na arquitetura v0.2;
 - 7 módulos e 14 unidades curriculares nucleares como base da prototipagem atual;
@@ -240,7 +251,7 @@ O constructo associado foi incorporado ao [[Fundamento transversal - oscilação
 
 Foi também criado o [[20 - Sistema Visual/00 - Sistema Visual dos Mapas - Traduzindo o Ser Humano]], com quatro gráficos vetoriais-mestre em formato 16:9. Seu estatuto é **produzido para validação visual**: o conteúdo conceitual está consolidado, enquanto forma, legibilidade e acabamento podem receber ajustes sem reabrir o fundamento.
 
-A primeira ação no retorno é realizar a validação autoral dos quatro gráficos-mestre. Depois, a Unidade 0.2 deve continuar a partir de seus materiais vigentes, derivando apenas as versões necessárias para slides e aplicação e incorporando principalmente **Pêndulo, Espiral e Percurso** como mapa visual central. Não reconstruir os mapas, não reabrir a Unidade 0.1 e não antecipar aprofundamentos reservados às fases futuras.
+A primeira ação no retorno é aplicar a Diretriz Transversal como critério governante e realizar a validação autoral dos quatro gráficos-mestre, verificando se centro, Essência/Self, energia, verticalidade, espiritualidade e integração foram preservados sem perda de humanidade, corporeidade, relação ou rigor. Depois, a Unidade 0.2 deve continuar a partir de seus materiais vigentes, derivando apenas as versões necessárias para slides e aplicação e incorporando principalmente **Pêndulo, Espiral e Percurso** como mapa visual central. Não reconstruir os mapas, não reabrir a Unidade 0.1 e não antecipar aprofundamentos reservados às fases futuras.
 
 O registro integral desta pausa está em [[Encerramento de Sessão - 2026-07-29 - Mapas Transversais e Sistema Visual]].
 
@@ -250,6 +261,7 @@ O registro integral desta pausa está em [[Encerramento de Sessão - 2026-07-29 
 
 ## Relações
 
+- [[05 - Diretriz Transversal - Espiritualidade Explícita, Singularidade Autoral e Não Neutralização]]
 - [[Protocolo de Elaboração Curricular Viva e Continuidade Leve]]
 - [[P2 - Taxonomia Transversal dos Estatutos das Linguagens - Proposta v0.1]]
 - [[P6 - Protocolo Mestre de Seleção, Modulação e Encerramento de Práticas - Proposta v0.1]]
