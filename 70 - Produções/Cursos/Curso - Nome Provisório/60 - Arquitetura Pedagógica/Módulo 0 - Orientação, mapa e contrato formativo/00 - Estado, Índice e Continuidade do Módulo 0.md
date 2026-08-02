@@ -5,9 +5,9 @@ curso: nome-provisorio
 modulo: 0
 status: ativo
 estado_maturidade: elaboracao-curricular-viva
-versao: "3.3"
+versao: "3.4"
 criado_em: 2026-07-21
-atualizado_em: 2026-07-30
+atualizado_em: 2026-08-02
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
@@ -17,6 +17,7 @@ autoridade_de_aprovacao: Fabiano Deliberalli
 ## Identidade atual
 
 - **Nome provisório:** Orientação, mapa e contrato formativo;
+- **Camada de chegada na Hotmart:** Módulo 0 — Comece aqui → [[Aula de Entrada 0.0 - Boas-vindas, navegação e condições de participação]];
 - **Chat ativo:** Curso — Módulo 0 — Orientação, mapa e contrato formativo;
 - **Unidade curricular em primeiro plano:** 0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança;
 - **Estado:** elaboração curricular viva;
@@ -29,6 +30,20 @@ autoridade_de_aprovacao: Fabiano Deliberalli
 O Módulo 0 abre o percurso, ajuda o participante a reconhecer o problema que o curso procura enfrentar e oferece orientação suficiente para entrar na experiência sem transformar o mapa em uma sequência rígida.
 
 A formulação atual distingue compreensão, acesso a capacidades e incorporação progressiva. Também apresenta autonomia, dosagem, oscilação e retorno. Esses elementos são referências de trabalho, não limites fechados para a elaboração.
+
+Antes da entrada no arco curricular, a Hotmart contará com a [[Aula de Entrada 0.0 - Boas-vindas, navegação e condições de participação]], destinada à apresentação do curso, à navegação, ao ritmo das aulas, aos materiais, às práticas, às condições éticas e aos limites da proposta. Esse elemento é pré-curricular e não altera o conteúdo do Módulo 0.
+
+## Adendo pré-curricular aprovado em 2 de agosto de 2026
+
+Foi aprovada a inclusão da Aula de Entrada 0.0 como camada de chegada da oferta. A decisão:
+
+- preserva integralmente as Unidades Curriculares 0.1 e 0.2;
+- mantém a arquitetura de sete módulos e 14 unidades curriculares;
+- não cria uma 15ª unidade nem altera códigos, nomes ou caminhos das unidades existentes;
+- separa a orientação de entrada da Hotmart do conteúdo curricular nuclear;
+- mantém em aberto roteiro, duração, materiais, ordem de liberação e autorização de gravação.
+
+A produção curricular continua concentrada na Unidade 0.2. A nota própria da aula registra sua função e seus limites.
 
 ## Incorporação governante de 30 de julho de 2026
 
@@ -46,6 +61,8 @@ Na Unidade 0.2, isso exige:
 A longitudinalidade não exige inserir todos esses termos em toda microaula. Exige que a estrutura não confine espiritualidade e energia apenas às Unidades 4.2 e 2.1. Essas unidades permanecem como aprofundamentos focais, não como únicos lugares autorizados dessas dimensões.
 
 ## Unidades curriculares
+
+A tabela abaixo inclui exclusivamente as 14 unidades curriculares nucleares. A [[Aula de Entrada 0.0 - Boas-vindas, navegação e condições de participação]] pertence à camada de entrega da plataforma e não é uma unidade curricular.
 
 | Unidade | Materiais existentes | Questões vivas | Estado |
 |---|---|---|---|
@@ -128,6 +145,8 @@ Unidade curricular é a estrutura numerada que organiza uma capacidade e um arco
 
 Os antigos Capítulos 1–7 da Unidade Curricular 0.1 passam a ser denominados **Partes 1–7**, sem mudança de conteúdo ou estatuto. Os nomes históricos de arquivos e links com “Aula” são preservados para não romper vínculos documentais.
 
+A [[Aula de Entrada 0.0 - Boas-vindas, navegação e condições de participação]] não pertence à sequência conceitual **Curso → Módulo → Unidade curricular → Parte**. Ela é uma camada de entrada da Hotmart; no currículo nuclear, o Módulo 0 continua contendo somente as Unidades 0.1 e 0.2.
+
 A elaboração do Módulo 0 passa a favorecer **Experiência reconhecível → distinção acessível → conceito → aplicação → integração progressiva**. A decomposição estrutural em microaulas ocorre logo após a consolidação curricular de cada unidade, sem reabri-la; roteiro oral, duração definitiva, storyboard, design e gravação permanecem para a preparação audiovisual.
 
 ## Decisões realmente tomadas
@@ -147,6 +166,7 @@ A elaboração do Módulo 0 passa a favorecer **Experiência reconhecível → d
 | 2026-07-26 | consolidar a Aula 0.1 em v1.0, mantendo 48 slides provisórios e gravação não autorizada |
 | 2026-07-26 | abrir a auditoria de encerramento da Aula 0.1 |
 | 2026-07-30 | aplicar a Diretriz Transversal sobre espiritualidade explícita, singularidade autoral e não neutralização como orientação governante do Módulo 0, sem reabrir automaticamente a Unidade 0.1 |
+| 2026-08-02 | acrescentar a Aula de Entrada 0.0 como adendo pré-curricular da camada Hotmart, preservando os códigos 0.1–6.2 e a contagem de 14 unidades |
 
 ## Encerramento da sessão de 27 de julho de 2026
 
@@ -178,6 +198,10 @@ O estado desta passagem foi preservado em [[Encerramento de Sessão - 2026-07-29
 - Unidade 0.1 permanece encerrada curricularmente e não deve ser reaberta;
 - P7 permanece pendente antes da consolidação final do Módulo 0.
 
+## Registro da sessão de 2 de agosto de 2026
+
+A Aula de Entrada 0.0 foi registrada como adendo pré-curricular da Hotmart. A decisão não reabre a Unidade 0.1, não desloca a Unidade 0.2 e não altera a arquitetura nuclear. Permanecem em aberto a preparação audiovisual e as condições operacionais específicas da oferta.
+
 ## Ponto de retomada
 
 > Aplicar primeiro a [[05 - Diretriz Transversal - Espiritualidade Explícita, Singularidade Autoral e Não Neutralização]] e validar autoralmente os quatro gráficos vetoriais-mestre da [[00 - Família de Mapas - Oscilação, Retorno e Equilíbrio Dinâmico]]. Depois, abrir o [[Aula 0.2 - Índice do Kit]] e continuar a Unidade 0.2 a partir do estado documental vigente, usando **Pêndulo, Espiral e Percurso** como mapa visual central e derivando as versões de slide e aplicação sem reconstruir o conteúdo. A Unidade 0.1 permanece encerrada curricularmente; P7 continua pendente antes da consolidação final do Módulo 0.
@@ -186,6 +210,7 @@ O estado desta passagem foi preservado em [[Encerramento de Sessão - 2026-07-29
 
 - [[05 - Diretriz Transversal - Espiritualidade Explícita, Singularidade Autoral e Não Neutralização]]
 - [[04 - Deliberação Transversal - Público, Microaulas e Arquitetura de Marca - 2026-07-28]]
+- [[Aula de Entrada 0.0 - Boas-vindas, navegação e condições de participação]]
 
 - [[Aula 0.1 - Índice do Kit]]
 - [[Mapa Estrutural de Decomposição em Microaulas - Aula 0.1]]
