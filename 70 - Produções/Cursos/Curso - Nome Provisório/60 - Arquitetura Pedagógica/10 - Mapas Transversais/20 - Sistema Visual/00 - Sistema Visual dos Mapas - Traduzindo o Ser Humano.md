@@ -1,7 +1,7 @@
 ---
 tipo: sistema-visual-de-mapas
 projeto: Traduzindo o Ser Humano
-status: produzido-para-validacao-visual
+status: aprovado
 data: 2026-07-29
 origem: consolidação da Unidade 0.2
 fonte_governante: "[[05 - Diretriz Transversal - Espiritualidade Explícita, Singularidade Autoral e Não Neutralização]]"
@@ -60,6 +60,17 @@ Formato-mestre: 1600 × 900, vetorial, compatível com slides 16:9 e exportaçã
 - [[03 - Gráfico Mestre - Desenvolvimento do Retorno.svg]]
 - [[04 - Gráfico Mestre - Três Perspectivas do Equilíbrio Dinâmico.svg]]
 
+## Imagens finais aprovadas
+
+Aprovação autoral registrada em **2 de agosto de 2026**. Estes PNGs passam a constituir as versões visuais oficiais para uso e derivação:
+
+- ![[01 - Mapa Aprovado - Referência, EIXO e Estado.png]]
+- ![[02 - Mapa Aprovado - Pêndulo, Espiral e Percurso.png]]
+- ![[03 - Mapa Aprovado - Desenvolvimento do Retorno.png]]
+- ![[04 - Mapa Aprovado - Três Perspectivas do Equilíbrio Dinâmico.png]]
+
+Os SVGs permanecem preservados como fontes vetoriais técnicas e registros do desenvolvimento gráfico. Havendo futura necessidade de ajuste de formato, a derivação deverá respeitar os PNGs aprovados, as notas conceituais e as regras deste sistema visual, sem reabrir automaticamente a aprovação estética.
+
 ## Três níveis de uso
 
 ### 1. Mapa-mestre
@@ -115,7 +126,7 @@ A renderização integral dos quatro SVGs confirmou a coerência geral da famíl
 - **Desenvolvimento do Retorno:** foi corrigida a colisão entre indicadores e percurso; tornou-se explícito o horizonte de uma vida progressivamente orientada pela Essência.
 - **Três Perspectivas do Equilíbrio Dinâmico:** a dimensão energética do yin–yang foi preservada; a equilibração deixou de sugerir ascensão automática; a síntese autoral foi diferenciada visualmente das três lentes-fonte.
 
-Estatuto após esta auditoria: **coerência conceitual e legibilidade técnica verificadas; preferência estética e validação autoral final permanecem abertas**.
+Estatuto após esta auditoria: **coerência conceitual e legibilidade técnica verificadas**. Em 2 de agosto de 2026, as quatro imagens finais em PNG foram **aprovadas autoralmente** e incorporadas ao acervo oficial.
 
 ## Próxima aplicação prevista
 
@@ -128,6 +139,7 @@ Na retomada da Unidade 0.2:
 ## Estado
 
 - conteúdo conceitual: consolidado;
-- quatro gráficos vetoriais-mestre: revisados após auditoria visual técnica em 2 de agosto de 2026;
-- validação visual técnica: concluída; validação autoral estética: pendente;
-- derivações específicas para slides e fichas: realizar durante a produção da Unidade 0.2, tomando estes SVGs como fonte e não redesenhando do zero.
+- quatro gráficos vetoriais-mestre: preservados como fontes técnicas e registros do desenvolvimento;
+- quatro imagens finais em PNG: aprovadas autoralmente e arquivadas em 2 de agosto de 2026;
+- validação visual técnica e autoral: concluída;
+- derivações específicas para slides e fichas: realizar durante a produção da Unidade 0.2, tomando as imagens aprovadas como referência visual e os SVGs como apoio técnico, sem redesenhar do zero.
