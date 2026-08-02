@@ -3,9 +3,9 @@ tipo: porta-de-entrada-continuidadade
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "2.5"
+versao: "2.6"
 criado_em: 2026-07-21
-atualizado_em: 2026-07-30
+atualizado_em: 2026-08-02
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 tags:
@@ -57,11 +57,12 @@ A espiritualidade explícita, afirmativa, plural e não dogmática é dimensão 
 
 Antes de recomendar retirada ou redução de elementos espirituais, energéticos, simbólicos ou transpessoais, devem ser examinados sua origem, função, integração, risco real, custo de perda autoral e alternativas proporcionais. Limitações éticas, técnicas demonstráveis, evidência relevante e decisões autorais posteriores permanecem critérios legítimos.
 
-## Estado vigente em 30 de julho de 2026
+## Estado vigente em 2 de agosto de 2026
 
 ### Curso
 
 - arquitetura integral em prototipagem curricular controlada;
+- camada de entrega da Hotmart com **Módulo 0 — Comece aqui** e a [[Aula de Entrada 0.0 - Boas-vindas, navegação e condições de participação]] como chegada pré-curricular; essa camada não integra a contagem das 14 unidades;
 - 7 módulos e 14 unidades curriculares nucleares, decompostas estruturalmente em microaulas logo após a consolidação de cada unidade;
 - arquitetura curricular v0.2 vigente como protótipo governado, não como currículo definitivamente congelado;
 - perspectiva espiritual afirmativa, plural e não dogmática;
@@ -69,6 +70,12 @@ Antes de recomendar retirada ou redução de elementos espirituais, energéticos
 - aula energética: **2.1 — Energia, vitalidade e experiência nas Tradições Orientais**;
 - aula espiritual: **4.2 — Espiritualidade, experiência e EIXO**;
 - decisões e formulações devem manter seus estatutos individuais: aprovadas, consolidadas, candidatas, hipóteses, protótipos, pendências, patrimônio histórico, fontes ou reservas.
+
+### Aula de Entrada 0.0 — camada de chegada da Hotmart
+
+A [[Aula de Entrada 0.0 - Boas-vindas, navegação e condições de participação]] foi aprovada como adendo pré-curricular para a camada de entrega da Hotmart. Ela deverá receber o participante antes da sequência curricular, sem contar como unidade curricular e sem alterar os códigos 0.1–6.2.
+
+Sua função é apresentar o curso, a organização dos módulos, o ritmo das aulas, os materiais, as práticas, as condições éticas e os limites da proposta. Seu roteiro, duração, forma visual e gravação ainda não estão definidos. A nota própria registra a decisão e separa esse elemento de chegada do conteúdo nuclear.
 
 ### Aula 1.1
 
@@ -97,6 +104,8 @@ A decomposição estrutural ocorre logo após a consolidação curricular da uni
 Experiências e práticas podem conter **Momentos** internos. Slides, mapas, cadernos e demais materiais permanecem recursos vinculados, não novos níveis da arquitetura. Os nomes históricos de arquivos e links com “Aula” podem ser preservados para evitar ruptura documental, mas a nomenclatura conceitual vigente é **Unidade curricular**.
 
 O termo **Capítulo** deixa de ser utilizado para as divisões internas das unidades curriculares. A mudança é terminológica e organizacional: não altera o conteúdo, o estatuto ou a maturidade dos textos já produzidos.
+
+A [[Aula de Entrada 0.0 - Boas-vindas, navegação e condições de participação]] pertence à camada de chegada da plataforma e não altera a sequência conceitual **Curso → Módulo → Unidade curricular → Parte**. No currículo nuclear, o Módulo 0 continua contendo somente as Unidades Curriculares 0.1 e 0.2.
 
 ### Deliberação transversal de 28 de julho de 2026
 
@@ -210,7 +219,8 @@ Trechos históricos permanecem como memória evolutiva, mas não substituem seç
 - distinção entre dimensão energética e espiritualidade;
 - aula nuclear energética e aula nuclear espiritual na arquitetura v0.2;
 - 7 módulos e 14 unidades curriculares nucleares como base da prototipagem atual;
-- estatuto da Aula 1.1 como protótipo revisável, sem proteção canônica e sujeito a escrutínio curricular normal.
+- estatuto da Aula 1.1 como protótipo revisável, sem proteção canônica e sujeito a escrutínio curricular normal;
+- separação entre a aula de entrada da Hotmart e o currículo nuclear, com a Aula de Entrada 0.0 como adendo pré-curricular.
 
 ## Dependências para consolidação e pilotagem
 
@@ -257,6 +267,8 @@ O registro integral desta pausa está em [[Encerramento de Sessão - 2026-07-29 
 
 ## Ponto exato de retomada
 
+O adendo da [[Aula de Entrada 0.0 - Boas-vindas, navegação e condições de participação]] foi registrado sem alterar a frente curricular ativa. A retomada permanece dedicada à validação e à continuidade da Unidade 0.2.
+
 > No chat **Curso — Módulo 0 — Orientação, mapa e contrato formativo**, começar pela validação autoral dos quatro gráficos vetoriais-mestre da [[00 - Família de Mapas - Oscilação, Retorno e Equilíbrio Dinâmico]]. Em seguida, abrir o [[Aula 0.2 - Índice do Kit]] e continuar a Unidade 0.2 a partir do material vigente, usando **Pêndulo, Espiral e Percurso** como mapa visual central e derivando somente as versões necessárias para slides e aplicação. Não reabrir a Unidade 0.1 nem reconstruir os fundamentos já consolidados.
 
 ## Relações
@@ -280,3 +292,4 @@ O registro integral desta pausa está em [[Encerramento de Sessão - 2026-07-29 
 - [[Encerramento de Sessão - 2026-07-27 - Consolidação da Aula 0.1]]
 - [[Prompts de Abertura - Orquestração Curricular Mestre e Módulo 0]]
 - [[04 - Deliberação Transversal - Público, Microaulas e Arquitetura de Marca - 2026-07-28]]
+- [[Aula de Entrada 0.0 - Boas-vindas, navegação e condições de participação]]
