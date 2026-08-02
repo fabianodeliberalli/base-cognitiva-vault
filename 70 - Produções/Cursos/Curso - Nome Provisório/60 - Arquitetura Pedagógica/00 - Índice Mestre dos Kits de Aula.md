@@ -2,7 +2,7 @@
 tipo: indice-mestre
 projeto: Traduzindo o Ser Humano
 estado: ativo
-data: 2026-07-28
+data: 2026-08-02
 ---
 
 # Índice Mestre dos Kits Curriculares
@@ -40,6 +40,16 @@ Uma Parte pode originar uma ou mais microaulas, e Partes breves podem compartilh
 
 O termo **Capítulo** não deve ser utilizado para as divisões internas das unidades curriculares. Nomes históricos de arquivos, links e kits com “Aula” são preservados para evitar ruptura documental; isso não modifica a nomenclatura conceitual vigente nem o estado de maturidade do material.
 
+## Camada de entrada da plataforma
+
+A camada de entrega da Hotmart possui um elemento pré-curricular separado do currículo nuclear:
+
+| Elemento | Estado | Função |
+|---|---|---|
+| **Módulo 0 — Comece aqui** → [[Aula de Entrada 0.0 - Boas-vindas, navegação e condições de participação]] | adendo estrutural aprovado; conteúdo audiovisual ainda não produzido | boas-vindas, navegação, visão geral dos módulos, ritmo, materiais, práticas, condições éticas e limites da proposta |
+
+A Aula de Entrada 0.0 não é unidade curricular nem microaula derivada de uma unidade. Ela não entra na contagem oficial das 14 unidades e não altera os códigos 0.1–6.2. O Módulo 0 curricular continua contendo as Unidades 0.1 e 0.2.
+
 ## Camada de estado e continuidade dos módulos
 
 A unidade conversacional de produção é o módulo; a memória oficial permanece no Obsidian/GitHub.
@@ -53,6 +63,10 @@ A unidade conversacional de produção é o módulo; a memória oficial permanec
 Modelo obrigatório: [[00 - Modelo de Estado, Índice e Continuidade do Módulo]].
 
 ## Estado da produção
+
+A [[Aula de Entrada 0.0 - Boas-vindas, navegação e condições de participação]] está registrada como adendo pré-curricular da camada Hotmart. Seu roteiro, duração, forma visual e gravação permanecem em aberto.
+
+A tabela abaixo diz respeito exclusivamente às unidades curriculares nucleares.
 
 | Unidade curricular | Estado | Ponto de entrada |
 |---|---|---|
@@ -94,6 +108,7 @@ Ver [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]] e [[01 - Protocolo 
 ## Ponto curricular atual
 
 - **Arquitetura de trabalho:** Orquestração Curricular Mestre 03 + um chat ativo por módulo;
+- **Camada de entrega:** [[Aula de Entrada 0.0 - Boas-vindas, navegação e condições de participação]] precede a sequência curricular na Hotmart, sem integrar as 14 unidades;
 - **Módulo ativo:** Módulo 0;
 - **Unidade curricular encerrada:** 0.1 — Por que compreender ainda pode não ser suficiente? — consolidada em v1.0 e com auditoria concluída;
 - **Unidade curricular ativa:** 0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança;
@@ -102,3 +117,10 @@ Ver [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]] e [[01 - Protocolo 
 - **Unidade curricular 1.1:** permanece protótipo revisável e será auditada no Módulo 1;
 - **P2:** aprovado integralmente;
 - **P6:** núcleo mínimo aprovado.
+
+## Relações
+
+- [[Aula de Entrada 0.0 - Boas-vindas, navegação e condições de participação]]
+- [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]]
+- [[09 - Esqueleto Estrutural da Primeira Oferta Integral para Mentoria]]
+- [[00 - Estado, Índice e Continuidade do Módulo 0]]
