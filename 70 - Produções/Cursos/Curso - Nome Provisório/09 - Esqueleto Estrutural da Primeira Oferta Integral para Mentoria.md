@@ -2,9 +2,9 @@
 tipo: arquitetura-curricular
 projeto: Traduzindo o Ser Humano
 status: arquitetura-curricular-v0.2-governada-por-rastreabilidade-e-continuidade
-versao: "0.7"
+versao: "0.8"
 criado_em: 2026-07-19
-atualizado_em: 2026-07-28
+atualizado_em: 2026-08-02
 autor: Fabiano Deliberalli
 ---
 
@@ -30,6 +30,12 @@ O curso mantém **7 módulos e 14 unidades curriculares nucleares**. A dimensão
 - **Headline-base:** Por que você entende seus padrões, mas continua repetindo?;
 - **sequência pedagógica predominante:** Experiência reconhecível → distinção acessível → conceito → aplicação → integração progressiva;
 - **EIXO:** função pedagógica interna, não marca concorrente.
+
+### Adendo pré-curricular da entrega Hotmart
+
+Antes da sequência curricular, a camada de entrega da Hotmart contará com **Módulo 0 — Comece aqui**, contendo a [[Aula de Entrada 0.0 - Boas-vindas, navegação e condições de participação]]. Esse elemento foi incluído como adendo para acolhida, navegação, ritmo, materiais, práticas, condições éticas e limites da proposta.
+
+A Aula de Entrada 0.0 não constitui unidade curricular, não integra a contagem das 14 unidades e não altera os códigos 0.1–6.2. O Módulo 0 curricular permanece composto pelas Unidades 0.1 e 0.2.
 
 Ver [[04 - Deliberação Transversal - Público, Microaulas e Arquitetura de Marca - 2026-07-28]].
 
@@ -123,6 +129,7 @@ Cada portão deve ser encerrado antes do kit que dele depende. O Guia contém re
 ## Formato de trabalho vigente para a prototipagem
 
 - 7 módulos, incluindo orientação;
+- camada pré-curricular de chegada na Hotmart: **Módulo 0 — Comece aqui** → **Aula de Entrada 0.0**;
 - 14 unidades curriculares nucleares;
 - conteúdo organizado em microaulas curtas e progressivas para a plataforma;
 - quantidade final de microaulas definida somente na preparação audiovisual;
@@ -136,6 +143,8 @@ Cada portão deve ser encerrado antes do kit que dele depende. O Guia contém re
 A Aula 1.1 possui protótipo e aprovação histórica para pilotagem controlada, mas não é canônica nem está protegida contra revisão. Mudanças posteriores na arquitetura a impactam; portanto, deverá passar por escrutínio e reorganização curricular normal sob o Guia, P2 e P6 antes de nova deliberação para piloto.
 
 ## Próxima produção
+
+A [[Aula de Entrada 0.0 - Boas-vindas, navegação e condições de participação]] foi registrada como adendo estrutural aprovado. Seu conteúdo audiovisual específico permanece em aberto e não altera a ordem de construção das 14 unidades curriculares.
 
 A construção curricular segue a ordem integral das 14 unidades curriculares, com um chat ativo por módulo e memória oficial no Obsidian/GitHub. A decomposição em microaulas ocorre na preparação audiovisual, sem reabrir a identidade curricular.
 
@@ -159,5 +168,6 @@ P2 e o núcleo mínimo de P6 governam todas as aulas. Cada portão específico d
 - [[00 - Dossiê de Contexto e Arquitetura Mestre]]
 - [[Registro Mestre de Formulações Estruturantes]]
 - [[02 - Matriz Integrada - Quatro Movimentos, Seis Fases e Jornada Fenomenológica]]
+- [[Aula de Entrada 0.0 - Boas-vindas, navegação e condições de participação]]
 - [[10 - Revisão Autoral e Protocolo de Pilotagem v1]]
 
