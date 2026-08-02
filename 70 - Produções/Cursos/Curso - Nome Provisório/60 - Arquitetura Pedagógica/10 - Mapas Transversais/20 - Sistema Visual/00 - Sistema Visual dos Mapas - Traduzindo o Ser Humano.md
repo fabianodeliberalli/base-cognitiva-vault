@@ -106,6 +106,17 @@ Usar em apostila, ficha ou exercício. Manter o desenho principal e acrescentar 
 12. Centro, luz, energia, verticalidade, transcendência e integração não devem ser neutralizados por heurísticas genéricas externas.
 13. Ajustes nesses elementos exigem razão técnica ou comunicacional demonstrável e devem priorizar versões responsivas antes da exclusão.
 
+## Auditoria visual técnica — 2 de agosto de 2026
+
+A renderização integral dos quatro SVGs confirmou a coerência geral da família e também revelou ajustes técnicos necessários, aplicados sem alteração dos fundamentos conceituais:
+
+- **Referência, EIXO e Estado:** Centro foi explicitado junto a Essência e Self; a zona do EIXO foi descomprimida; a legenda de participação foi recolocada na área segura.
+- **Pêndulo, Espiral e Percurso:** a referência foi explicitada como Centro, Essência e Self; corpo, contexto, relação e segurança passaram a aparecer como condições que influenciam acesso e retorno; a formulação nuclear foi completada.
+- **Desenvolvimento do Retorno:** foi corrigida a colisão entre indicadores e percurso; tornou-se explícito o horizonte de uma vida progressivamente orientada pela Essência.
+- **Três Perspectivas do Equilíbrio Dinâmico:** a dimensão energética do yin–yang foi preservada; a equilibração deixou de sugerir ascensão automática; a síntese autoral foi diferenciada visualmente das três lentes-fonte.
+
+Estatuto após esta auditoria: **coerência conceitual e legibilidade técnica verificadas; preferência estética e validação autoral final permanecem abertas**.
+
 ## Próxima aplicação prevista
 
 Na retomada da Unidade 0.2:
@@ -117,6 +128,6 @@ Na retomada da Unidade 0.2:
 ## Estado
 
 - conteúdo conceitual: consolidado;
-- quatro gráficos vetoriais-mestre: produzidos;
-- validação visual pelo autor: pendente;
+- quatro gráficos vetoriais-mestre: revisados após auditoria visual técnica em 2 de agosto de 2026;
+- validação visual técnica: concluída; validação autoral estética: pendente;
 - derivações específicas para slides e fichas: realizar durante a produção da Unidade 0.2, tomando estes SVGs como fonte e não redesenhando do zero.
