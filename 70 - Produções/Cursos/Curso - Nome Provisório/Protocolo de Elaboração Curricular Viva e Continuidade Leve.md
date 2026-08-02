@@ -3,9 +3,9 @@ tipo: protocolo-operacional-curricular
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "1.1"
+versao: "1.2"
 criado_em: 2026-07-26
-atualizado_em: 2026-07-28
+atualizado_em: 2026-08-02
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
@@ -96,6 +96,12 @@ A documentação deve acontecer discretamente. Ideias que afetem outras aulas s�
 
 Na ausência dessas situações, o trabalho continua e a organização é reconciliada no próximo marco natural.
 
+## Separação entre frentes de trabalho
+
+A frente curricular ativa de uma unidade deve ser elaborada no chat curricular explicitamente designado para essa unidade. No estado atual, a elaboração profunda da Unidade Curricular 0.2 pertence ao chat **Curso — Módulo 0 — Continuidade 03 — Unidade 0.2**.
+
+Um chat destinado à fotografia estrutural da oferta, ao Raio X ou à mentoria não assume automaticamente a elaboração da unidade curricular ativa quando se usa a expressão “prosseguimos”. Nesses chats, a continuidade permanece limitada à finalidade da conversa: organizar a oferta, registrar sua arquitetura e atualizar a fotografia necessária para a mentoria. A distinção entre as frentes preserva a continuidade sem impedir conexões ou registrar impactos relevantes.
+
 ## Aplicação ao Módulo 0
 
 A Unidade Curricular 0.1 está **encerrada curricularmente em v1.0**. Seu roteiro integral, suas sete Partes, seus quatro macroblocos, a Primeira Cartografia e seus critérios pedagógicos permanecem protegidos. A decomposição estrutural foi concluída em dez microaulas provisórias, com títulos públicos aprovados. Os 48 slides continuam provisórios e a gravação não está autorizada.
@@ -110,7 +116,7 @@ A elaboração favorece, sem rigidez, a sequência:
 
 ## Ponto de retomada
 
-> Abrir o chat **Curso — Módulo 0 — Continuidade 02 — Unidade 0.2** e iniciar diretamente a Mesa de Trabalho da Unidade Curricular 0.2, em linguagem natural. Não emitir novo Relatório de Retomada, não reabrir a Unidade 0.1 e não solicitar pacotes de aprovação.
+> Abrir o chat **Curso — Módulo 0 — Continuidade 03 — Unidade 0.2** e iniciar diretamente a Mesa de Trabalho da Unidade Curricular 0.2, em linguagem natural. Não emitir novo Relatório de Retomada, não reabrir a Unidade 0.1 e não solicitar pacotes de aprovação.
 
 
 ## Relações
