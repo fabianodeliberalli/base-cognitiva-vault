@@ -3,7 +3,7 @@ tipo: porta-de-entrada-continuidadade
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "2.6"
+versao: "2.7"
 criado_em: 2026-07-21
 atualizado_em: 2026-08-02
 autor: Fabiano Deliberalli
@@ -127,6 +127,7 @@ A [[04 - Deliberação Transversal - Público, Microaulas e Arquitetura de Marca
 
 - **Chat permanente de governança:** Curso — Orquestração Curricular Mestre 03;
 - **unidade conversacional de produção:** um chat ativo por módulo, aberto somente quando o módulo entrar em trabalho real;
+- **separação de frentes:** a elaboração profunda da unidade curricular ativa pertence ao chat curricular designado; chats destinados ao Raio X, à fotografia estrutural ou à mentoria permanecem nessa finalidade e não absorvem automaticamente a frente curricular;
 - **memória oficial:** documentos do Obsidian sincronizados neste repositório;
 - **ordem de foco:** Unidade 0.1 encerrada → Unidade 0.2 ativa → síntese do Módulo 0 → Unidades 1.1 e 1.2 → módulos seguintes; conexões e revisões podem ocorrer sem funcionar como bloqueios formais;
 - **revisões de consolidação:** realizadas quando uma aula ou módulo alcançar maturidade autoral ou precisar ser preparado para pilotagem; não bloqueiam a exploração criativa.
@@ -269,7 +270,7 @@ O registro integral desta pausa está em [[Encerramento de Sessão - 2026-07-29 
 
 O adendo da [[Aula de Entrada 0.0 - Boas-vindas, navegação e condições de participação]] foi registrado sem alterar a frente curricular ativa. A retomada permanece dedicada à validação e à continuidade da Unidade 0.2.
 
-> No chat **Curso — Módulo 0 — Orientação, mapa e contrato formativo**, começar pela validação autoral dos quatro gráficos vetoriais-mestre da [[00 - Família de Mapas - Oscilação, Retorno e Equilíbrio Dinâmico]]. Em seguida, abrir o [[Aula 0.2 - Índice do Kit]] e continuar a Unidade 0.2 a partir do material vigente, usando **Pêndulo, Espiral e Percurso** como mapa visual central e derivando somente as versões necessárias para slides e aplicação. Não reabrir a Unidade 0.1 nem reconstruir os fundamentos já consolidados.
+> No chat curricular ativo **Curso — Módulo 0 — Continuidade 03 — Unidade 0.2**, começar pela validação autoral dos quatro gráficos vetoriais-mestre da [[00 - Família de Mapas - Oscilação, Retorno e Equilíbrio Dinâmico]]. Em seguida, abrir o [[Aula 0.2 - Índice do Kit]] e continuar a Unidade 0.2 a partir do material vigente, usando **Pêndulo, Espiral e Percurso** como mapa visual central e derivando somente as versões necessárias para slides e aplicação. Não reabrir a Unidade 0.1 nem reconstruir os fundamentos já consolidados.
 
 ## Relações
 
