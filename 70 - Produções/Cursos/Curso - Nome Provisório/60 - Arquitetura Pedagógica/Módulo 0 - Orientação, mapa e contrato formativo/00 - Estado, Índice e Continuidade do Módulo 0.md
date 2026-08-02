@@ -5,7 +5,7 @@ curso: nome-provisorio
 modulo: 0
 status: ativo
 estado_maturidade: elaboracao-curricular-viva
-versao: "3.4"
+versao: "3.5"
 criado_em: 2026-07-21
 atualizado_em: 2026-08-02
 autor: Fabiano Deliberalli
@@ -18,7 +18,7 @@ autoridade_de_aprovacao: Fabiano Deliberalli
 
 - **Nome provisório:** Orientação, mapa e contrato formativo;
 - **Camada de chegada na Hotmart:** Módulo 0 — Comece aqui → [[Aula de Entrada 0.0 - Boas-vindas, navegação e condições de participação]];
-- **Chat ativo:** Curso — Módulo 0 — Orientação, mapa e contrato formativo;
+- **Chat curricular ativo:** Curso — Módulo 0 — Continuidade 03 — Unidade 0.2;
 - **Unidade curricular em primeiro plano:** 0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança;
 - **Estado:** elaboração curricular viva;
 - **Memória oficial:** GitHub/Obsidian;
@@ -204,7 +204,7 @@ A Aula de Entrada 0.0 foi registrada como adendo pré-curricular da Hotmart. A d
 
 ## Ponto de retomada
 
-> Aplicar primeiro a [[05 - Diretriz Transversal - Espiritualidade Explícita, Singularidade Autoral e Não Neutralização]] e validar autoralmente os quatro gráficos vetoriais-mestre da [[00 - Família de Mapas - Oscilação, Retorno e Equilíbrio Dinâmico]]. Depois, abrir o [[Aula 0.2 - Índice do Kit]] e continuar a Unidade 0.2 a partir do estado documental vigente, usando **Pêndulo, Espiral e Percurso** como mapa visual central e derivando as versões de slide e aplicação sem reconstruir o conteúdo. A Unidade 0.1 permanece encerrada curricularmente; P7 continua pendente antes da consolidação final do Módulo 0.
+> No chat curricular ativo **Curso — Módulo 0 — Continuidade 03 — Unidade 0.2**, aplicar primeiro a [[05 - Diretriz Transversal - Espiritualidade Explícita, Singularidade Autoral e Não Neutralização]] e validar autoralmente os quatro gráficos vetoriais-mestre da [[00 - Família de Mapas - Oscilação, Retorno e Equilíbrio Dinâmico]]. Depois, abrir o [[Aula 0.2 - Índice do Kit]] e continuar a Unidade 0.2 a partir do estado documental vigente, usando **Pêndulo, Espiral e Percurso** como mapa visual central e derivando as versões de slide e aplicação sem reconstruir o conteúdo. A Unidade 0.1 permanece encerrada curricularmente; P7 continua pendente antes da consolidação final do Módulo 0.
 
 ## Relações
 
