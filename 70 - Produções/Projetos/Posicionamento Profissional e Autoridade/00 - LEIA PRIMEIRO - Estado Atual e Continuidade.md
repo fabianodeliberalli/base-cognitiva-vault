@@ -64,6 +64,7 @@ Não utilizar formulações que sugiram mais de 30 anos de exercício da Psicolo
 - [[09 - Prioridades Estratégicas e Mapa de Execução]]
 - [[10 - Pendências, Comprovações e Governança]]
 - [[11 - Prompt de Abertura do Projeto Estratégico]]
+- [[12 - Documentos Comprobatórios/00 - Índice de Diplomas e Certificados|Índice de Diplomas e Certificados]]
 
 # Relações com outros projetos
 
@@ -91,4 +92,4 @@ Em qualquer novo chat, ler primeiro esta nota e depois, conforme a tarefa:
 - CEEP: notas 05, 06, 08 e 09, além do projeto próprio do CEEP;
 - produtos digitais: notas 06, 07, 08 e 09;
 - comprovação ou auditoria: notas 03 e 10.
-
+- diplomas e certificados: pasta `12 - Documentos Comprobatórios`, começando pelo índice AUT-DOC-00.
