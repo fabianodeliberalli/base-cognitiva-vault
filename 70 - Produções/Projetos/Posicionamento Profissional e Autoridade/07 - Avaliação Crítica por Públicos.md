@@ -1,0 +1,175 @@
+---
+id: AUT-07
+titulo: Avaliação Crítica por Públicos
+tipo: diagnostico-de-percepcao
+status: consolidado
+projeto: Posicionamento Profissional e Autoridade Autoral
+data: 2026-08-15
+autor: Fabiano Deliberalli
+tags:
+  - mercado
+  - pacientes
+  - academia
+  - mídia
+  - produtos-digitais
+---
+
+# Tese central
+
+A mesma amplitude que gera interesse em pacientes, profissionais integrativos e mídia pode gerar cautela entre clínicos convencionais e exigência de comprovação no meio acadêmico. Autoridade não é uma qualidade única: cada público usa critérios distintos.
+
+# Profissionais de mercado
+
+## Leitura favorável provável
+
+- profissional maduro e experiente;
+- repertório corporal e clínico incomum;
+- capacidade de acolher experiências que escapam a modelos convencionais;
+- formação continuada em trauma;
+- possível interlocutor interdisciplinar;
+- professor capaz de traduzir conceitos complexos.
+
+## Reservas prováveis
+
+- dificuldade de identificar a abordagem central;
+- receio de mistura entre Psicologia, MTC, Reiki, PNL e espiritualidade;
+- questionamento sobre quais afirmações são empíricas, clínicas, fenomenológicas ou metafísicas;
+- dúvida sobre títulos, datas e instituições quando a apresentação é extensa.
+
+## Estratégia
+
+- apresentar um eixo e múltiplas fontes, não múltiplas identidades;
+- colocar Psicologia, trauma e discernimento no primeiro plano;
+- demonstrar raciocínio por casos, critérios e limites;
+- preservar MTC e práticas integrativas como genealogia incorporada;
+- tornar supervisão e atualização visíveis.
+
+# Pacientes
+
+## Leitura favorável provável
+
+- experiência e maturidade;
+- abertura para temas difíceis de comunicar;
+- possibilidade de ser compreendido sem julgamento;
+- integração entre corpo e palavra;
+- segurança para experiências espirituais ou incomuns.
+
+## Reservas prováveis
+
+- dúvida sobre o que acontece no atendimento;
+- receio de imposição espiritual;
+- confusão entre psicoterapia, terapias energéticas e curso;
+- sensação de que o profissional “faz de tudo”;
+- excesso de linguagem conceitual.
+
+## Estratégia
+
+- começar pela necessidade do paciente;
+- explicar como o trabalho acontece em linguagem concreta;
+- mostrar presença por fotos, vídeo e fala real;
+- declarar respeito à autonomia e ausência de imposição religiosa;
+- apresentar formações selecionadas, não o currículo completo;
+- manter CRP e identidade profissional visíveis.
+
+# Meio acadêmico
+
+## Leitura favorável provável
+
+- clínico com pergunta interdisciplinar original;
+- continuidade temática entre monografia transpessoal e TCC de neurociência;
+- experiência fenomenológica relevante;
+- capacidade de curadoria e síntese;
+- potencial de contribuição em espiritualidade, trauma, consciência e experiências anômalas.
+
+## Limites atuais
+
+- ausência de mestrado ou doutorado;
+- ausência de artigos revisados por pares;
+- ausência de vínculo estável com grupo de pesquisa;
+- pouca apresentação em congressos científicos;
+- ausência de carreira docente universitária regular;
+- necessidade de Lattes, ORCID e bibliografia pública.
+
+## Leitura sintética
+
+> Clínico experiente e intelectual interdisciplinar em processo de converter capital clínico e conceitual em capital acadêmico público.
+
+## Estratégia
+
+- transformar o TCC em artigo;
+- construir Lattes e ORCID;
+- separar relato subjetivo, formulação clínica, modelo teórico e evidência empírica;
+- participar de congressos e grupos de pesquisa;
+- adotar “interesses de estudo” antes de “pesquisador” como identidade principal;
+- considerar mestrado somente se houver intenção de inserção acadêmica sustentada.
+
+# Mídia
+
+## Potencial
+
+- história profissional singular;
+- temas emocionalmente relevantes;
+- boa conexão entre experiência prática e questões contemporâneas;
+- possibilidade de falar sobre trauma, consciência e espiritualidade sem linguagem religiosa;
+- frases fortes e mapas didáticos.
+
+## Riscos
+
+- redução a “terapeuta quântico” ou “psicólogo do paranormal”;
+- utilização de “neurociência” como validação aparente de afirmações não demonstradas;
+- cortes que eliminem qualificadores importantes;
+- sensacionalismo em torno de experiências anômalas;
+- confusão entre vivência reconhecida e origem confirmada.
+
+## Estratégia
+
+Três portas de entrada:
+
+1. por que compreender não basta para mudar;
+2. como corpo, trauma e vínculo organizam respostas;
+3. como escutar consciência e espiritualidade com abertura e critérios.
+
+Frase protetiva:
+
+> Reconhecer o impacto de uma experiência não exige concluir previamente qual foi sua origem.
+
+# Produtos digitais
+
+## Potencial
+
+- trajetória suficiente para criar um ecossistema autoral;
+- problema comercial claro em *Traduzindo o Ser Humano*;
+- temas com profundidade e diferenciação;
+- acervo de aulas, casos, mapas e bibliografia;
+- possibilidade de ofertas para público geral e profissionais.
+
+## Riscos
+
+- transformar currículo em ementa enciclopédica;
+- inserir toda a visão de mundo em um primeiro produto;
+- prometer transformação terapêutica em produto educacional;
+- não diferenciar CEEP, curso de desenvolvimento pessoal e clínica;
+- produzir muito conteúdo sem condução para uma oferta.
+
+## Estratégia
+
+- usar o currículo como infraestrutura de confiança, não como promessa de venda;
+- vender uma transformação delimitada;
+- manter espiritualidade como dimensão explícita, porém não compulsória;
+- mapear cada conteúdo a um problema, público e próximo passo;
+- documentar aprendizagem, conclusão, aplicação e satisfação sem prometer cura.
+
+# Síntese comparativa
+
+| Público | O que mais valoriza | Maior risco de percepção | Melhor prova |
+|---|---|---|---|
+| Profissionais | raciocínio, formação, supervisão | mistura de campos | casos, critérios e referências |
+| Pacientes | segurança, compreensão, presença | confusão sobre o atendimento | linguagem clara, CRP, processo e vínculo |
+| Academia | método, publicação e rastreabilidade | hipótese maior que evidência | artigo, Lattes, ORCID e eventos |
+| Mídia | história, clareza e relevância | simplificação e exotização | mensagem disciplinada e bons exemplos |
+| Produtos digitais | promessa e aplicação | curso excessivamente amplo | percurso, atividades e resultados educacionais |
+
+# Conclusão estratégica
+
+Fabiano não precisa parecer convencional para todos. Precisa ser inequívoco quanto a identidade, níveis de afirmação, escopo e público. Polarização por um campo autoral singular pode ser administrável; ambiguidade sobre o que ele oferece e afirma não é.
+
