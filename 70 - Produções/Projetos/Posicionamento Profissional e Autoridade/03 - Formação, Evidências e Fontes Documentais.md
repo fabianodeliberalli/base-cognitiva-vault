@@ -109,3 +109,4 @@ tags:
 
 Os arquivos integrais permanecem na Biblioteca ou no acervo pessoal. O vault preserva identificação, conteúdo factual necessário, função e status de comprovação. Quando um novo documento for obtido, atualizar esta matriz antes de alterar versões públicas.
 
+O inventário detalhado de diplomas, certificados, registros profissionais, matrículas e documentos acadêmicos relacionados está em [[12 - Documentos Comprobatórios/00 - Índice de Diplomas e Certificados]].
