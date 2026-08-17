@@ -2,9 +2,10 @@
 tipo: deliberacao-transversal
 projeto: Traduzindo o Ser Humano
 curso: Traduzindo o Ser Humano
-status: vigente
-versao: "1.1"
+status: vigente-com-atualizacao-de-escopo
+versao: "1.2"
 data: 2026-07-28
+atualizado_em: 2026-08-17
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 origem: feedback-da-mentoria-com-Camila-e-deliberacao-autoral
@@ -26,6 +27,9 @@ tags:
 **Status:** APROVADO — CURSO/GOVERNANÇA — 28 de julho de 2026.
 
 Esta nota incorpora o feedback da mentoria com Camila como diretriz transversal da construção aula por aula, sem reiniciar o curso e sem criar novos mecanismos burocráticos. Ela governa documentos pedagógicos, comerciais, o próximo Raio X, a preparação audiovisual e conteúdos abertos.
+
+> [!IMPORTANT] ATUALIZAÇÃO DE ESCOPO — 17/08/2026
+> Permanecem vigentes as decisões sobre público, sequência pedagógica, nomenclatura interna, decomposição em microaulas, títulos públicos, marca e EIXO. A formulação comercial “sete módulos” foi superada pela fotografia aprovada de **9 módulos/54 aulas**. Internamente, **7 módulos/14 unidades curriculares** continuam governando a elaboração. Ver [[12 - Nota-Ponte - Arquitetura Curricular 7x14 e Estrutura Pública 9x54]].
 
 ## 1. Público primário
 
@@ -70,11 +74,15 @@ Ela não é um roteiro rígido, checklist ou novo portão. É uma mentalidade de
 
 Uma Parte pode originar uma ou mais microaulas; Partes breves podem compartilhar a mesma microaula. A decomposição audiovisual não altera os códigos 0.1–6.2 nem reabre o conteúdo curricular já consolidado.
 
-### Formulação comercial de estrutura
+### Formulação comercial histórica, superada em 17 de agosto de 2026
 
 > **Sete módulos organizados em aulas curtas e progressivas.**
 
-A quantidade definitiva de microaulas somente será divulgada quando a decomposição audiovisual estiver suficientemente avançada.
+Esta formulação permanece como registro do marco de 28/07/2026. A comunicação vigente usa:
+
+> **9 módulos e 54 aulas curtas e progressivas: um módulo inicial, sete módulos centrais e um módulo final.**
+
+A arquitetura interna preserva sete módulos e 14 unidades curriculares. A lista detalhada das aulas públicas permanece condicionada à correção da terceira aula do Módulo 0 no Raio X.
 
 ### Critério da microaula
 
@@ -191,7 +199,7 @@ Transformar compreensão acumulada em capacidade progressiva de reconhecer o que
 
 ### Estrutura
 
-Sete módulos organizados em aulas curtas e progressivas. Internamente, o currículo possui 14 unidades curriculares nucleares, decompostas estruturalmente em microaulas logo após a consolidação de cada unidade.
+Publicamente, 9 módulos e 54 aulas curtas e progressivas. Internamente, o currículo possui sete módulos e 14 unidades curriculares nucleares, que alimentam a decomposição audiovisual após a consolidação de cada unidade. A relação entre as camadas é funcional, não uma equivalência automática.
 
 ### Formato de entrega
 

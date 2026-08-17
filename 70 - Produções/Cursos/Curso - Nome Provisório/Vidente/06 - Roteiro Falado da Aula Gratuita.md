@@ -1,3 +1,6 @@
+> [!WARNING] REGISTRO HISTÓRICO — NÃO USAR COMO ROTEIRO VIGENTE
+> Este roteiro antecede o Guia de Condução da Masterclass e contém formulações comerciais e de EIXO superadas. Preservar para comparação; produzir a versão atual a partir das fontes vigentes e de [[00 - LEIA PRIMEIRO - Estado Histórico dos Materiais Vidente]].
+
 # ROTEIRO FALADO DA AULA GRATUITA
 
 ## Por que você compreende seus padrões, mas continua repetindo-os?

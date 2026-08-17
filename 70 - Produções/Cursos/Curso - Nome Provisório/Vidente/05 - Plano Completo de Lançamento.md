@@ -1,3 +1,6 @@
+> [!WARNING] REGISTRO HISTÓRICO — NÃO USAR COMO PLANO VIGENTE
+> Este arquivo antecede o Workbook, o Guia da Masterclass, o Raio X aprovado e o Caderno atual. Prazos, estrutura 7/14, narrativa e condições permanecem apenas como memória. Consultar [[00 - LEIA PRIMEIRO - Estado Histórico dos Materiais Vidente]].
+
 # PLANO COMPLETO DE LANÇAMENTO
 
 ## Traduzindo o Ser Humano: Da Confusão Interna à Coerência

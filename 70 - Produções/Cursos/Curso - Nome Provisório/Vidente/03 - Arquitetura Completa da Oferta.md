@@ -1,3 +1,6 @@
+> [!WARNING] REGISTRO HISTÓRICO — NÃO USAR COMO ARQUITETURA VIGENTE
+> Este arquivo preserva a etapa anterior da oferta, incluindo 7 módulos/14 aulas, 12 semanas e Método EIXO como categoria comercial. Para produção atual, consultar [[00 - LEIA PRIMEIRO - Estado Histórico dos Materiais Vidente]], [[12 - Nota-Ponte - Arquitetura Curricular 7x14 e Estrutura Pública 9x54]] e o Caderno vigente.
+
 # ARQUITETURA COMPLETA DA OFERTA
 
 ## Traduzindo o Ser Humano: Da Confusão Interna à Coerência
