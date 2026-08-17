@@ -3,9 +3,9 @@ tipo: porta-de-entrada-continuidadade
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "2.7"
+versao: "2.8"
 criado_em: 2026-07-21
-atualizado_em: 2026-08-02
+atualizado_em: 2026-08-17
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 tags:
@@ -57,13 +57,25 @@ A espiritualidade explícita, afirmativa, plural e não dogmática é dimensão 
 
 Antes de recomendar retirada ou redução de elementos espirituais, energéticos, simbólicos ou transpessoais, devem ser examinados sua origem, função, integração, risco real, custo de perda autoral e alternativas proporcionais. Limitações éticas, técnicas demonstráveis, evidência relevante e decisões autorais posteriores permanecem critérios legítimos.
 
-## Estado vigente em 2 de agosto de 2026
+## Estado vigente em 17 de agosto de 2026
+
+### Dupla camada formalizada
+
+A [[12 - Nota-Ponte - Arquitetura Curricular 7x14 e Estrutura Pública 9x54]] separa duas representações legítimas do mesmo percurso:
+
+- **comunicação, oferta, Masterclass, páginas, Hotmart e apresentação pública:** 9 módulos e 54 aulas curtas e progressivas;
+- **elaboração, rastreabilidade, prototipagem e auditoria curricular:** 7 módulos e 14 unidades curriculares nucleares, códigos 0.1–6.2.
+
+A estrutura pública não reescreve automaticamente a arquitetura curricular. A arquitetura curricular não deve reaparecer como descrição comercial vigente. Materiais anteriores que comunicam 7 módulos/14 aulas permanecem como registro histórico.
+
+O Raio X vigente possui uma pendência de reconciliação fina: seu resumo declara três aulas no Módulo 0 e 54 no total, mas o corpo titula apenas duas aulas nesse módulo e 53 no conjunto. Até decisão autoral, 9/54 permanece a estrutura agregada aprovada; uma lista pública completa de aulas e a página de vendas definitiva não devem ser fechadas como se a terceira aula já estivesse definida.
 
 ### Curso
 
 - arquitetura integral em prototipagem curricular controlada;
-- camada de entrega da Hotmart com **Módulo 0 — Comece aqui** e a [[Aula de Entrada 0.0 - Boas-vindas, navegação e condições de participação]] como chegada pré-curricular; essa camada não integra a contagem das 14 unidades;
-- 7 módulos e 14 unidades curriculares nucleares, decompostas estruturalmente em microaulas logo após a consolidação de cada unidade;
+- camada pública de entrega descrita em 9 módulos e 54 aulas no Raio X aprovado;
+- camada de chegada da Hotmart com **Módulo 0 — Comece aqui** e a [[Aula de Entrada 0.0 - Boas-vindas, navegação e condições de participação]] como fonte pré-curricular; essa camada não integra a contagem das 14 unidades internas;
+- arquitetura interna de 7 módulos e 14 unidades curriculares nucleares, decompostas estruturalmente em microaulas logo após a consolidação de cada unidade;
 - arquitetura curricular v0.2 vigente como protótipo governado, não como currículo definitivamente congelado;
 - perspectiva espiritual afirmativa, plural e não dogmática;
 - dimensão energética retirada da condição de adendo, com aula nuclear própria e presença longitudinal;
@@ -115,7 +127,8 @@ A [[04 - Deliberação Transversal - Público, Microaulas e Arquitetura de Marca
 - construção pedagógica orientada predominantemente por **Experiência reconhecível → distinção acessível → conceito → aplicação → integração progressiva**;
 - **Traduzindo o Ser Humano** como marca organizadora e nome da oferta, com subtítulo estável e headlines variáveis;
 - EIXO preservado como função pedagógica de coordenação, retorno e reorganização, sem comandar a marca comercial;
-- 7 módulos e 14 unidades curriculares nucleares, decompostas estruturalmente em microaulas logo após a consolidação de cada unidade; quantidade e duração finais só serão definidas na preparação audiovisual.
+- internamente, 7 módulos e 14 unidades curriculares nucleares, decompostas estruturalmente em aulas públicas após a consolidação de cada unidade;
+- publicamente, 9 módulos e 54 aulas curtas e progressivas, conforme o Raio X aprovado e a nota-ponte; a formulação pública anterior de sete módulos fica preservada como etapa histórica.
 
 ### Referências técnicas já definidas
 
@@ -192,10 +205,11 @@ Acrescentar:
 | Princípios e limites institucionais | Constituição, Manual Institucional e Protocolo Operacional |
 | Espiritualidade explícita, singularidade autoral e não neutralização | [[05 - Diretriz Transversal - Espiritualidade Explícita, Singularidade Autoral e Não Neutralização]] |
 | Estado geral, identidade, público e arquitetura do curso | Dossiê |
+| Estrutura pública da oferta e apresentação comercial | Raio X vigente e [[12 - Nota-Ponte - Arquitetura Curricular 7x14 e Estrutura Pública 9x54]] |
 | Consequência curricular das formulações | Guia Mestre de Incorporação e Rastreabilidade |
 | Redação e estatuto individual das formulações | Registro Mestre |
 | Relação entre movimentos, fases e Jornada | Matriz Integrada |
-| Distribuição atual das 14 unidades curriculares | Esqueleto Estrutural vigente |
+| Distribuição interna das 14 unidades curriculares | Esqueleto Estrutural vigente |
 | Continuidade entre chats e ritual de atualização | Protocolo de Continuidade |
 | Estado e continuidade de um módulo | 00 — Estado, Índice e Continuidade do respectivo módulo |
 | Estado operacional de uma aula | Índice, roteiro, QA e protocolo de pilotagem do respectivo kit |
@@ -219,7 +233,9 @@ Trechos históricos permanecem como memória evolutiva, mas não substituem seç
 - singularidade autoral e não neutralização por heurísticas genéricas externas;
 - distinção entre dimensão energética e espiritualidade;
 - aula nuclear energética e aula nuclear espiritual na arquitetura v0.2;
-- 7 módulos e 14 unidades curriculares nucleares como base da prototipagem atual;
+- 7 módulos e 14 unidades curriculares nucleares como base interna da prototipagem atual;
+- 9 módulos e 54 aulas como estrutura pública vigente da oferta;
+- separação entre as duas camadas conforme a nota-ponte, sem equivalência automática entre unidade curricular e aula pública;
 - estatuto da Aula 1.1 como protótipo revisável, sem proteção canônica e sujeito a escrutínio curricular normal;
 - separação entre a aula de entrada da Hotmart e o currículo nuclear, com a Aula de Entrada 0.0 como adendo pré-curricular.
 
@@ -272,10 +288,21 @@ O adendo da [[Aula de Entrada 0.0 - Boas-vindas, navegação e condições de pa
 
 > No chat curricular ativo **Curso — Módulo 0 — Continuidade 03 — Unidade 0.2**, começar pela validação autoral dos quatro gráficos vetoriais-mestre da [[00 - Família de Mapas - Oscilação, Retorno e Equilíbrio Dinâmico]]. Em seguida, abrir o [[Aula 0.2 - Índice do Kit]] e continuar a Unidade 0.2 a partir do material vigente, usando **Pêndulo, Espiral e Percurso** como mapa visual central e derivando somente as versões necessárias para slides e aplicação. Não reabrir a Unidade 0.1 nem reconstruir os fundamentos já consolidados.
 
+## Checkpoint de 17 de agosto de 2026 — comunicação e ponte estrutural
+
+- criada a [[12 - Nota-Ponte - Arquitetura Curricular 7x14 e Estrutura Pública 9x54]];
+- mantida a arquitetura 7/14 como governança da elaboração curricular;
+- registrada a estrutura 9/54 como governança de comunicação e entrega pública;
+- preservados como históricos os materiais comerciais anteriores que apresentam 7/14 ao público;
+- criado o núcleo [[00 - LEIA PRIMEIRO - Estado e Continuidade da Comunicação]];
+- registrada a pendência da terceira aula do Módulo 0 no Raio X antes da página de vendas definitiva.
+
 ## Relações
 
 - [[05 - Diretriz Transversal - Espiritualidade Explícita, Singularidade Autoral e Não Neutralização]]
 - [[Protocolo de Elaboração Curricular Viva e Continuidade Leve]]
+- [[12 - Nota-Ponte - Arquitetura Curricular 7x14 e Estrutura Pública 9x54]]
+- [[00 - LEIA PRIMEIRO - Estado e Continuidade da Comunicação]]
 - [[P2 - Taxonomia Transversal dos Estatutos das Linguagens - Proposta v0.1]]
 - [[P6 - Protocolo Mestre de Seleção, Modulação e Encerramento de Práticas - Proposta v0.1]]
 - [[Registro Consolidado da Sessão - Governança e Arquitetura Curricular - 2026-07-21]]

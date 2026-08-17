@@ -3,9 +3,10 @@ tipo: registro-mestre-formulacoes-estruturantes
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: consolidacao-documental-para-auditoria-autoral
-versao: "0.6"
+versao: "0.7"
 autor: Fabiano Deliberalli
 organizado_em: 2026-07-21
+atualizado_em: 2026-08-17
 escopo: curso-metodo-pedagogia-epistemologia-publico-governanca
 tags:
   - traduzindo-o-ser-humano
@@ -972,6 +973,7 @@ Esta deliberação autoral supera, quanto à vigência, as formulações anterio
 
 - **Estatuto:** APROVADO — CURSO/ARQUITETURA.
 - **Consequência:** permanecem 7 módulos e 14 unidades curriculares; a quantidade final de microaulas somente será divulgada após decomposição audiovisual suficiente.
+- **Atualização de vigência — 17/08/2026:** a consequência acima permanece válida para a elaboração curricular interna. Para comunicação e entrega pública, prevalecem 9 módulos e 54 aulas, conforme F84 e a nota-ponte.
 - **Transição documental:** nomes históricos de arquivos, links e kits com “Aula” podem permanecer para evitar ruptura de vínculos.
 
 ## F83 — Marca e arquitetura comercial
@@ -986,3 +988,19 @@ Em 28 de julho de 2026, Fabiano Deliberalli decidiu dar sequência ao pedido de 
 
 Ver [[04 - Deliberação Transversal - Público, Microaulas e Arquitetura de Marca - 2026-07-28]].
 
+---
+
+# XIX. Nota-ponte entre arquitetura curricular e estrutura pública — 17 de agosto de 2026
+
+## F84 — Dupla representação governada do percurso
+
+> **Para comunicação, oferta e entrega pública, o Traduzindo o Ser Humano é apresentado em 9 módulos e 54 aulas curtas e progressivas. Para elaboração, rastreabilidade e auditoria curricular, permanece a arquitetura de 7 módulos e 14 unidades curriculares nucleares, códigos 0.1–6.2.**
+
+- **Estatuto:** APROVADO — CURSO/ARQUITETURA/COMUNICAÇÃO.
+- **Função:** impedir que granularidades diferentes sejam tratadas como versões concorrentes do currículo.
+- **Consequência curricular:** nenhuma unidade é apagada ou renumerada automaticamente; 7/14 continua governando capacidades, arcos e prototipagem.
+- **Consequência comunicacional:** materiais novos não devem apresentar 7/14 como composição pública da oferta.
+- **Preservação histórica:** páginas e planos anteriores permanecem disponíveis com aviso de não vigência.
+- **Pendência fina:** o Raio X declara três aulas no Módulo 0, mas titula duas; a terceira aula ou a correção da contagem deve ser deliberada antes da página de vendas definitiva.
+
+Ver [[12 - Nota-Ponte - Arquitetura Curricular 7x14 e Estrutura Pública 9x54]].

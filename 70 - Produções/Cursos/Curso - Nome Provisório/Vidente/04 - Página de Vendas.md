@@ -1,3 +1,6 @@
+> [!WARNING] REGISTRO HISTÓRICO — NÃO É A PÁGINA DE VENDAS VIGENTE
+> Preservado para rastrear a evolução. Não editar como base da página definitiva: contém título, promessa, duração, estrutura 7/14 e arquitetura de EIXO anteriores. Consultar [[00 - LEIA PRIMEIRO - Estado Histórico dos Materiais Vidente]] e [[12 - Nota-Ponte - Arquitetura Curricular 7x14 e Estrutura Pública 9x54]].
+
 # PÁGINA DE VENDAS
 
 ## Traduzindo o Ser Humano: Da Confusão Interna à Coerência

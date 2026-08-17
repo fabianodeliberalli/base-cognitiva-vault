@@ -2,13 +2,19 @@
 tipo: arquitetura-curricular
 projeto: Traduzindo o Ser Humano
 status: arquitetura-curricular-v0.2-governada-por-rastreabilidade-e-continuidade
-versao: "0.8"
+versao: "0.9"
 criado_em: 2026-07-19
-atualizado_em: 2026-08-02
+atualizado_em: 2026-08-17
 autor: Fabiano Deliberalli
 ---
 
 # Esqueleto Estrutural — Primeira Oferta Integral
+
+## Escopo desta arquitetura
+
+Este documento governa a **elaboração curricular interna**: sete módulos, 14 unidades curriculares nucleares e seus arcos de capacidade. Ele não governa sozinho a contagem comunicada ao público.
+
+Para páginas, Masterclass, anúncios, Hotmart e apresentação comercial, prevalecem **9 módulos e 54 aulas**, conforme o Raio X aprovado e a [[12 - Nota-Ponte - Arquitetura Curricular 7x14 e Estrutura Pública 9x54]]. A diferença é de camada e granularidade, não de descarte do currículo.
 
 ## Estado desta versão
 
@@ -20,7 +26,7 @@ Esta versão reconcilia o esqueleto anterior com:
 - a distribuição longitudinal dos fundamentos;
 - os portões formalizados no [[Guia Mestre de Incorporação e Rastreabilidade Curricular]].
 
-O curso mantém **7 módulos e 14 unidades curriculares nucleares**. A dimensão energética recebe unidade própria sem aumento da quantidade; a espiritualidade recebe unidade nuclear distinta. Uma prepara interlocuções da outra, mas elas não são tratadas como sinônimas. Na entrega digital, cada unidade curricular será decomposta em microaulas.
+A arquitetura curricular interna mantém **7 módulos e 14 unidades curriculares nucleares**. A dimensão energética recebe unidade própria sem aumento da quantidade; a espiritualidade recebe unidade nuclear distinta. Uma prepara interlocuções da outra, mas elas não são tratadas como sinônimas. Na entrega digital, as unidades curriculares alimentam a estrutura pública de aulas sem correspondência obrigatória de uma para uma.
 
 ## Público, marca e porta de entrada
 
@@ -128,7 +134,7 @@ Cada portão deve ser encerrado antes do kit que dele depende. O Guia contém re
 
 ## Formato de trabalho vigente para a prototipagem
 
-- 7 módulos, incluindo orientação;
+- 7 módulos curriculares internos, incluindo orientação;
 - camada pré-curricular de chegada na Hotmart: **Módulo 0 — Comece aqui** → **Aula de Entrada 0.0**;
 - 14 unidades curriculares nucleares;
 - conteúdo organizado em microaulas curtas e progressivas para a plataforma;
@@ -170,4 +176,4 @@ P2 e o núcleo mínimo de P6 governam todas as aulas. Cada portão específico d
 - [[02 - Matriz Integrada - Quatro Movimentos, Seis Fases e Jornada Fenomenológica]]
 - [[Aula de Entrada 0.0 - Boas-vindas, navegação e condições de participação]]
 - [[10 - Revisão Autoral e Protocolo de Pilotagem v1]]
-
+- [[12 - Nota-Ponte - Arquitetura Curricular 7x14 e Estrutura Pública 9x54]]

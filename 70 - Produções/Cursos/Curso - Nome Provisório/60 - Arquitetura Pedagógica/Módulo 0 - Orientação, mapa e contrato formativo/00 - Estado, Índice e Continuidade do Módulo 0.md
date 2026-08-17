@@ -5,14 +5,20 @@ curso: nome-provisorio
 modulo: 0
 status: ativo
 estado_maturidade: elaboracao-curricular-viva
-versao: "3.5"
+versao: "3.6"
 criado_em: 2026-07-21
-atualizado_em: 2026-08-02
+atualizado_em: 2026-08-17
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
 
 # Módulo 0 — Estado, Índice e Continuidade
+
+## Nota de escopo
+
+Este documento descreve o **Módulo 0 da arquitetura curricular interna** e preserva a contagem de sete módulos/14 unidades. Na estrutura pública aprovada, **Módulo 0 — Comece aqui** é a camada inicial de entrega de um curso apresentado como 9 módulos/54 aulas. A relação entre as duas nomenclaturas é governada por [[12 - Nota-Ponte - Arquitetura Curricular 7x14 e Estrutura Pública 9x54]].
+
+Não renumerar as Unidades 0.1 e 0.2 para imitar a plataforma e não usar este documento isoladamente para redigir a página de vendas.
 
 ## Identidade atual
 
@@ -167,6 +173,7 @@ A elaboração do Módulo 0 passa a favorecer **Experiência reconhecível → d
 | 2026-07-26 | abrir a auditoria de encerramento da Aula 0.1 |
 | 2026-07-30 | aplicar a Diretriz Transversal sobre espiritualidade explícita, singularidade autoral e não neutralização como orientação governante do Módulo 0, sem reabrir automaticamente a Unidade 0.1 |
 | 2026-08-02 | acrescentar a Aula de Entrada 0.0 como adendo pré-curricular da camada Hotmart, preservando os códigos 0.1–6.2 e a contagem de 14 unidades |
+| 2026-08-17 | explicitar a dupla camada: 7/14 permanece para elaboração curricular e 9/54 passa a governar comunicação e entrega pública, conforme nota-ponte |
 
 ## Encerramento da sessão de 27 de julho de 2026
 
@@ -218,6 +225,7 @@ A Aula de Entrada 0.0 foi registrada como adendo pré-curricular da Hotmart. A d
 - [[Roteiro em Elaboração - Partes 6 e 7 - Aula 0.1]]
 - [[Leitura Integrada em Elaboração - Arco das Partes 1 a 7 - Aula 0.1]]
 - [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]]
+- [[12 - Nota-Ponte - Arquitetura Curricular 7x14 e Estrutura Pública 9x54]]
 - [[Protocolo de Elaboração Curricular Viva e Continuidade Leve]]
 - [[00 - Modelo de Estado, Índice e Continuidade do Módulo]]
 - [[00 - Índice Mestre dos Kits de Aula]]

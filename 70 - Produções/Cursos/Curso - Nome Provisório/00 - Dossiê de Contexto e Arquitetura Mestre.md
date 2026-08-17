@@ -5,10 +5,10 @@ curso: nome-provisorio
 status: prototipagem-curricular-em-andamento
 estado_maturidade: arquitetura-integral-em-prototipagem
 fase_atual: "construção curricular sequencial — Módulo 0 ativo — Unidade Curricular 0.2 em elaboração"
-versao: "0.33"
+versao: "0.34"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-17
-atualizado_em: 2026-07-28
+atualizado_em: 2026-08-17
 documento_superior: Protocolo Operacional para Construção da Arquitetura de Cursos v1.0
 tags:
   - traduzindo-o-ser-humano
@@ -19,7 +19,7 @@ tags:
 
 # Dossiê de Contexto — Traduzindo o Ser Humano
 
-**Versão:** 0.33  
+**Versão:** 0.34
 **Estado de maturidade:** arquitetura integral em prototipagem  
 **Fases concluídas:** Fase 0 — Abertura e governança; Fase 1 — Gênese, identidade e problema humano  
 **Fase atual:** construção curricular sequencial; Módulo 0 ativo; Unidade Curricular 0.2 em elaboração
@@ -30,11 +30,11 @@ tags:
 
 - **Código do curso:** a definir;
 - **Nome atual da oferta:** Traduzindo o Ser Humano;
-- **Versão do Dossiê:** 0.33;
+- **Versão do Dossiê:** 0.34;
 - **Status documental:** documento evolutivo;
 - **Estado de maturidade:** arquitetura integral em prototipagem;
 - **Data de criação:** 2026-07-17;
-- **Última atualização:** 2026-07-21;
+- **Última atualização:** 2026-08-17;
 - **Autor:** Fabiano Deliberalli;
 - **Componente responsável:** orquestração da arquitetura do curso;
 - **Documento operacional superior:** Protocolo Operacional para Construção da Arquitetura de Cursos v1.0;
@@ -80,7 +80,18 @@ A arquitetura comercial vigente distingue:
 - **headline-base:** Por que você entende seus padrões, mas continua repetindo?;
 - **EIXO:** função pedagógica interna de coordenação, retorno e reorganização.
 
-A primeira oferta mantém 7 módulos e 14 unidades curriculares nucleares. A quantidade de microaulas só será divulgada quando a decomposição audiovisual estiver suficientemente avançada. Ver [[04 - Deliberação Transversal - Público, Microaulas e Arquitetura de Marca - 2026-07-28]].
+A elaboração curricular mantém 7 módulos e 14 unidades curriculares nucleares. Para comunicação e entrega pública, a fotografia aprovada passou a ser 9 módulos e 54 aulas. Ver [[12 - Nota-Ponte - Arquitetura Curricular 7x14 e Estrutura Pública 9x54]] e [[04 - Deliberação Transversal - Público, Microaulas e Arquitetura de Marca - 2026-07-28]].
+
+### Atualização de ponte — 17 de agosto de 2026
+
+A evolução comercial posterior ao desenho curricular foi formalizada sem renumerar ou apagar a arquitetura profunda:
+
+- **7 módulos/14 unidades** continuam governando elaboração, rastreabilidade e prototipagem curricular;
+- **9 módulos/54 aulas** governam comunicação, Masterclass, páginas, Hotmart e apresentação pública;
+- documentos comerciais anteriores que comunicam 7/14 permanecem históricos;
+- a correspondência funcional entre as camadas está em [[12 - Nota-Ponte - Arquitetura Curricular 7x14 e Estrutura Pública 9x54]].
+
+O Raio X vigente apresenta uma pendência de consistência: declara três aulas no Módulo 0 e 54 no total, mas titula somente duas nesse módulo. A contagem agregada 9/54 permanece aprovada; a lista completa e a página de vendas definitiva aguardam a decisão autoral sobre a terceira aula ou a correção formal da contagem.
 
 ### Atualização operacional — 21 de julho de 2026
 
@@ -947,7 +958,8 @@ Esta seção prevalece sobre indicações antigas de próxima aula ou frente ati
 
 - seis fases aprovadas;
 - primeira oferta integral autorizada para prototipagem curricular;
-- 7 módulos e 14 unidades curriculares nucleares;
+- arquitetura curricular interna de 7 módulos e 14 unidades curriculares nucleares;
+- estrutura pública de 9 módulos e 54 aulas, conforme a nota-ponte e o Raio X vigente;
 - P2 aprovado integralmente;
 - núcleo mínimo de P6 aprovado para a primeira oferta;
 - Aula 1.1 preservada como protótipo revisável, sem precedência sobre a sequência curricular.
@@ -1006,9 +1018,9 @@ Passam a orientar todas as aulas: Tradução; EIXO; circularidade Tradução–E
 
 ABBSP, TCC de Sincronia Neural, monografia de Psicologia Transpessoal, trabalhos de MTC, Arquitetura Invisível, Sistema Límbico-Telepático, experiência clínica, núcleo NHI, fontes bibliográficas, práticas e mapas permanecem disponíveis. Operadores gerais derivados do núcleo NHI são transversais; contato, disclosure e protocolos especializados permanecem aplicações temáticas.
 
-### Currículo e Raio X
+### Currículo, Raio X e comunicação
 
-A estrutura de 14 unidades curriculares permanece vigente como arquitetura de prototipagem. Cada unidade será decomposta em microaulas na preparação audiovisual, sem alteração dos códigos curriculares. Sua densidade e genealogia são revistas pela matriz transversal. O Raio X permanece patrimônio histórico e banco de conteúdos, agora lido por capacidade, profundidade e destino curricular, sem voltar a governar como currículo automático.
+A estrutura de 14 unidades curriculares permanece vigente como arquitetura de prototipagem. Cada unidade alimenta aulas públicas sem alteração automática dos códigos curriculares. Sua densidade e genealogia são revistas pela matriz transversal. O **Raio X aprovado em 04/08/2026** governa a fotografia atual da oferta e a comunicação 9/54, mas não substitui o currículo como arquitetura de elaboração. Versões anteriores do Raio X permanecem históricas.
 
 ### Estatuto revisional da Aula 1.1
 

@@ -3,8 +3,8 @@ tipo: indice-de-versoes
 projeto: Traduzindo o Ser Humano
 assunto: Raio-X do Produto e documentação de consultoria
 status: vigente
-versao: "1.0"
-atualizado_em: 2026-08-04
+versao: "1.1"
+atualizado_em: 2026-08-17
 autor: Fabiano Deliberalli
 autoridade_da_versao_vigente: aprovação de Camila registrada pelo usuário
 tags:
@@ -28,6 +28,19 @@ O arquivo abaixo é a versão válida escolhida por Fabiano e aprovada pela Cami
 - **SHA-256 do arquivo original:** `42e0a3955577142ddff81f17e01020a9217bf89bac68293fbbbb00e58a632008`
 
 A palavra “vigente” nesta nota significa vigente para a entrega à mentoria. Este arquivo registra uma fotografia comunicável da oferta e não substitui automaticamente os documentos curriculares governantes do curso. A separação entre a frente curricular profunda e o Raio-X permanece preservada: os documentos do Raio-X servem à fotografia, à consultoria e à comunicação da oferta; os documentos curriculares do repositório continuam governando a elaboração pedagógica, salvo nova deliberação autoral explícita.
+
+Essa separação foi formalizada em [[12 - Nota-Ponte - Arquitetura Curricular 7x14 e Estrutura Pública 9x54]]: **9 módulos/54 aulas** prevalece para comunicação e entrega pública; **7 módulos/14 unidades curriculares** permanece como arquitetura de elaboração e rastreabilidade.
+
+## Pendência de consistência interna registrada em 17 de agosto de 2026
+
+O resumo do arquivo vigente declara três aulas no Módulo 0 e 54 aulas no total. O corpo, entretanto, titula somente duas aulas no Módulo 0; a soma dos títulos expressos é 53.
+
+Até decisão autoral:
+
+- preservar 9 módulos/54 aulas como fotografia agregada aprovada;
+- não inventar a terceira aula;
+- não publicar uma lista apresentada como completa;
+- corrigir o arquivo vigente, esta nota e os ativos de venda no mesmo checkpoint quando Fabiano aprovar a terceira aula ou a alteração formal da contagem.
 
 ## Critério de preservação
 
@@ -75,3 +88,4 @@ Uma nova versão do Raio-X deve ser adicionada como novo arquivo datado, sem sob
 - [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]]
 - [[10 - Raio X do Produto/Interno/Registro Interno - Análises Operacionais do Raio X - 2026-08-02]]
 - [[Protocolo de Elaboração Curricular Viva e Continuidade Leve]]
+- [[12 - Nota-Ponte - Arquitetura Curricular 7x14 e Estrutura Pública 9x54]]
