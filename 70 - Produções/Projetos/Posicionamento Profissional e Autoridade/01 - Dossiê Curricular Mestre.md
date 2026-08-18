@@ -37,7 +37,7 @@ Essa pergunta se desenvolve em cinco movimentos:
 1. **Corpo:** massoterapia, reabilitação, práticas orientais, Medicina Tradicional Chinesa, Qi Gong e respiração.
 2. **Escuta e linguagem:** Psicanálise Integrativa, psicoterapia breve, Winnicott, hipnose e PNL.
 3. **Psicologia e integração:** graduação em Psicologia e pós-graduação em Psicologia Transpessoal.
-4. **Trauma e regulação:** EMDR, Brainspotting, Psicoterapia de Integração e Reprocessamento do Trauma e supervisão continuada.
+4. **Trauma e regulação:** EMDR, Brainspotting, Psicoterapia de Integração e Reprocessamento do Trauma, Neurobiologia Interpessoal, estudos sobre regulação autonômica e supervisão continuada.
 5. **Consciência e produção autoral:** Neurociências e Comportamento, TCC sobre sincronia neural e estados ampliados de consciência, CEEP, palestras e *Traduzindo o Ser Humano*.
 
 # Formação principal
@@ -59,6 +59,12 @@ Essa pergunta se desenvolve em cinco movimentos:
 - Estudo anterior presencial com Mário Salvador em Brasília, provavelmente em 2018 — data a confirmar.
 - Imersões presenciais de três dias com atendimentos e supervisões em 2025 e 2026.
 - Formação continuada em hipnose, incluindo hipnoterapia, regressão de memória, hipnose ericksoniana e hipnose clínica.
+
+## Neurobiologia relacional e regulação
+
+- Curso de Neurobiologia Interpessoal — realizado por webconferência em 16 e 17 de outubro de 2021, com carga horária de 16 horas, com certificado assinado por Daniel Siegel.
+- Formação online declarada em Teoria Polivagal aplicada à prática clínica com Deb Dana, realizada em 2024; certificado não disponível.
+
 
 ## Corpo, práticas integrativas e Medicina Tradicional Chinesa
 
@@ -119,7 +125,7 @@ Princípio epistemológico:
 
 ## Sustentação
 
-- supervisão continuada;
+- supervisão continuada, incluindo Neurobiologia Interpessoal e estudos em regulação autonômica;
 - experiência docente;
 - TCC e produção intelectual;
 - CEEP, ABBSP, IGM e *Além das Fronteiras do Saber*;

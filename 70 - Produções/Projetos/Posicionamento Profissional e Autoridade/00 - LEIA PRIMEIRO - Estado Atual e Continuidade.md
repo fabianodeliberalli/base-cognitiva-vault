@@ -4,7 +4,7 @@ titulo: LEIA PRIMEIRO - Estado Atual e Continuidade
 tipo: estado-e-continuidade
 status: ativo
 projeto: Posicionamento Profissional e Autoridade Autoral
-data: 2026-08-15
+data: 2026-08-18
 autor: Fabiano Deliberalli
 tags:
   - posicionamento
@@ -79,6 +79,7 @@ Não utilizar formulações que sugiram mais de 30 anos de exercício da Psicolo
 - arquitetura de autoridade definida;
 - dez prioridades estratégicas organizadas por dependência;
 - fontes curriculares inventariadas;
+- curso de Neurobiologia Interpessoal documentado por certificado e formação declarada em Teoria Polivagal registrada como pendência documental;
 - pendências documentais separadas da redação pública;
 - próximo passo: abrir o chat específico, auditar este núcleo e executar a Fase 1 — posicionamento, fronteiras e versões de currículo.
 

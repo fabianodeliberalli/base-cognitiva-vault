@@ -85,6 +85,10 @@ Esta cronologia distingue datas documentalmente sustentadas de datas fornecidas 
 - Início do curso on-line *Além das Fronteiras do Saber*, posteriormente realizado em cinco edições do nível básico ao avançado.
 - Início da formação em Psicoterapia de Integração e Reprocessamento do Trauma pelo Instituto ALECES, com Mário Salvador e Carmen Cuenca.
 
+## 2021
+
+- Participação no *Curso Neurobiologia Interpessoal — Como tornar a psicoterapia mais efetiva*, realizado por webconferência em 16 e 17 de outubro, com carga horária de 16 horas e certificado assinado por Daniel Siegel.
+
 ## 2023
 
 - Conclusão do ciclo formativo 2020–2023 no Instituto ALECES.
@@ -93,6 +97,7 @@ Esta cronologia distingue datas documentalmente sustentadas de datas fornecidas 
 ## 2024
 
 - Currículos daquele período registram a pós-graduação em Neurociências e Comportamento da PUCRS como em andamento.
+- Formação online declarada em Teoria Polivagal aplicada à prática clínica com Deb Dana; certificado perdido e dados institucionais a recuperar.
 
 ## 2025
 

@@ -4,7 +4,7 @@ titulo: Índice de Diplomas e Certificados
 tipo: indice-documental
 status: ativo
 projeto: Posicionamento Profissional e Autoridade Autoral
-data: 2026-08-15
+data: 2026-08-18
 autor: Fabiano Deliberalli
 tags:
   - documentos-comprobatorios
@@ -38,6 +38,8 @@ Os arquivos integrais permanecem na Biblioteca. O Obsidian guarda a descrição,
 | [[04 - MTC Espanha - Matrícula Máster 2014-2015]] | `matricula 1.jpg`, `matricula 2.jpg`, `matricula 3.jpg` | matrícula/documentos complementares | documentado; não comprova conclusão |
 | [[05 - MTC Espanha - Documento Complementar de Bolsa]] | `Bioenergética Hoja matricula BECA B.pdf` | matrícula/bolsa | documentado; não comprova conclusão |
 | [[06 - ABBSP - Certificado Workshop 2026]] | `ABBSP CERTIFICADO PALESTRANTE WORKSHOP FABIANO DELIBERALLI.pdf` | certificado de docência/participação como ministrante | documentado |
+| [[08 - Daniel Siegel - Certificado Neurobiologia Interpessoal 2021]] | `certificado Neurobiologia Interpressoal Siegel.pdf` | certificado de curso | documentado; 16 h, webconferência em 16–17/10/2021 |
+| [[09 - Deb Dana - Formação Declarada Teoria Polivagal 2024]] | nenhum arquivo; registro por relato direto | formação declarada sem certificado | pendente; certificado perdido |
 | [[07 - Documentos Acadêmicos Relacionados Não Comprobatórios]] | monografia, trabalho acadêmico e currículos | documentos acadêmicos/contextuais | não substituem diplomas ou certificados |
 
 # Formações mencionadas, mas sem diploma/certificado disponibilizado nesta etapa
@@ -51,6 +53,7 @@ Os arquivos integrais permanecem na Biblioteca. O Obsidian guarda a descrição,
 - Formação ALECES e supervisões com Mário Salvador.
 - Master Practitioner em PNL pela SBPNL.
 - Venia Docente associada ao programa espanhol.
+- Formação online em Teoria Polivagal aplicada à prática clínica com Deb Dana, realizada em 2024; certificado perdido.
 
 Essas informações permanecem na [[03 - Formação, Evidências e Fontes Documentais]], classificadas como declaradas, pendentes ou documentadas por outras fontes narrativas. Não foram convertidas em certificados inexistentes.
 

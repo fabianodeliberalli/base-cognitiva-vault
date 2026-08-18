@@ -37,6 +37,7 @@ Pendência documental não apaga uma trajetória real, mas modifica o grau de pr
 16. Organizar documentos e materiais das cinco edições de *Além das Fronteiras do Saber*.
 17. Resolver localização persistente e identificador do TCC da PUCRS no acervo.
 18. Criar Lattes e ORCID e vincular produções.
+19. Recuperar comprovante, e-mail de inscrição ou registro da formação online em Teoria Polivagal aplicada à prática clínica com Deb Dana, realizada em 2024.
 
 # Prioridade documental
 

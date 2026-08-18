@@ -68,6 +68,7 @@ Tradução significa:
 - EMDR e Brainspotting;
 - hipnose;
 - formação e supervisão continuadas em trauma;
+- Neurobiologia Interpessoal e estudos em regulação autonômica;
 - docência e produção autoral.
 
 ## Camada 3 — genealogia incorporada
@@ -83,7 +84,7 @@ A terceira camada não é escondida. Ela é apresentada no lugar em que explica 
 
 # Arco narrativo público
 
-> Fabiano começou pelo corpo. A experiência clínica mostrou que sensações e padrões não podiam ser compreendidos apenas pela anatomia ou pela técnica corporal. A Psicanálise acrescentou história, vínculo e simbolização. A Psicologia e a Transpessoal ampliaram o diálogo entre subjetividade, desenvolvimento e espiritualidade. O estudo do trauma introduziu segurança, regulação e reprocessamento. A neurociência e a fenomenologia ofereceram novas perguntas sobre corpo, relação e consciência. A docência transformou esse percurso em linguagem compartilhável.
+> Fabiano começou pelo corpo. A experiência clínica mostrou que sensações e padrões não podiam ser compreendidos apenas pela anatomia ou pela técnica corporal. A Psicanálise acrescentou história, vínculo e simbolização. A Psicologia e a Transpessoal ampliaram o diálogo entre subjetividade, desenvolvimento e espiritualidade. O estudo do trauma introduziu segurança, regulação e reprocessamento. A Neurobiologia Interpessoal e os estudos sobre regulação autonômica ampliaram a linguagem relacional e corporal desse percurso. A neurociência e a fenomenologia ofereceram novas perguntas sobre corpo, relação e consciência. A docência transformou esse percurso em linguagem compartilhável.
 
 # Questão autoral
 
@@ -112,7 +113,7 @@ Base: formação em Psicologia e CRP. Deve estar visível nos contextos de ofert
 
 ## Autoridade clínica
 
-Base: mais de três décadas de cuidado terapêutico, atuação como psicólogo desde 2010, formação continuada, supervisão e experiência com casos complexos.
+Base: mais de três décadas de cuidado terapêutico, atuação como psicólogo desde 2010, formação continuada — incluindo Neurobiologia Interpessoal —, supervisão e experiência com casos complexos.
 
 ## Autoridade pedagógica
 
@@ -129,6 +130,12 @@ Base: capacidade de criar mapas, distinções e linguagem própria para articula
 ## Autoridade midiática
 
 Base: história incomum, temas relevantes e capacidade de tradução. Risco: cortes descontextualizados, exotização e associação indevida entre neurociência e ontologias espirituais.
+
+# Uso público das formações recentes
+
+- **Neurobiologia Interpessoal:** pode ser nomeada como curso documentado de 16 horas, realizado em 2021 por webconferência, com Daniel Siegel.
+- **Teoria Polivagal aplicada à prática clínica:** pode ser apresentada, quando pertinente, como estudos/formação online declarada com Deb Dana, realizada em 2024. Não registrar como certificado até recuperar o documento.
+- Ambas reforçam o eixo corpo–relação–regulação; não substituem a formação em Psicologia, o CRP ou a supervisão clínica.
 
 # Princípios de linguagem pública
 

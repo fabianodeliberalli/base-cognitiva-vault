@@ -28,6 +28,8 @@ tags:
 | Graduação em Psicologia, Universidade São Marcos, conclusão 2009/diploma 2010 | DECLARADO, com evidência contextual | declaração de Fabiano e trabalho acadêmico de 2007 | Pode constar publicamente; obter segunda via do diploma para arquivo |
 | Pós-graduação em Psicologia Transpessoal, FACIS, 2009 | DECLARADO, com monografia apresentada | `Monografia Pós Transpessoal.doc` | Pode constar; solicitar certificado para arquivo |
 | Pós-graduação em Neurociências e Comportamento, PUCRS, 2026 | CONFIRMADO PELO AUTOR | currículo de 2026 e TCC | Pode constar; arquivar certificado e histórico definitivos |
+| Curso de Neurobiologia Interpessoal, 16–17/10/2021, 16 h | DOCUMENTADO | certificado anexado; Biblioteca `libfile_1212471b56bc8191afa27090fbfc332b` | Pode constar no currículo ampliado, em bio de palestrante e no eixo relacional/trauma |
+| Formação online em Teoria Polivagal aplicada à prática clínica com Deb Dana, 2024 | DECLARADO/PENDENTE | relato direto; certificado perdido | Registrar como formação/estudos continuados; recuperar comprovante antes de atribuir instituição, carga horária ou certificação |
 | TCC da PUCRS | DOCUMENTADO EM OUTRO NÚCLEO | `TCC Fabiano Deliberalli 1.pdf` | Usar título literal e transformar em artigo |
 | Técnico em Reabilitação — Massagista, EOMA, 1995, 1.440 h | DOCUMENTADO | diploma frente e verso | Usar na trajetória ampliada |
 | Acupuntura Tradicional Chinesa, CEMETRAC, 2002–2004, 1.200 h | DOCUMENTADO | certificado | Usar em currículo ampliado e trajetória corporal |
@@ -76,6 +78,7 @@ tags:
 ## Docência e palestras
 
 - `ABBSP CERTIFICADO PALESTRANTE WORKSHOP FABIANO DELIBERALLI.pdf` — Biblioteca `libfile_ecf4b0a6cf54819199c688b331003911`.
+- `certificado Neurobiologia Interpressoal Siegel.pdf` — Biblioteca `libfile_1212471b56bc8191afa27090fbfc332b`.
 
 # Conteúdo documental relevante recuperado
 
@@ -104,6 +107,20 @@ tags:
 - workshop on-line em 07/03/2026;
 - tema literal: *Autorregulação e Presença Clínica em Processos Espirituais e Estados Ampliados da Consciência*;
 - certificado emitido para Fabiano como ministrante.
+
+## Neurobiologia Interpessoal
+
+- Curso literal no certificado: *Curso Neurobiologia Interpessoal — Como tornar a psicoterapia mais efetiva*.
+- Realização: webconferência nos dias 16 e 17 de outubro de 2021.
+- Carga horária: 16 horas.
+- Documento emitido para Fabiano Deliberalli, com assinatura de Daniel Siegel.
+- Natureza: certificado de participação em curso; não é diploma de graduação ou pós-graduação.
+
+## Teoria Polivagal aplicada à prática clínica
+
+- Registro baseado no relato direto de Fabiano: formação online com Deb Dana, realizada em 2024.
+- Certificado perdido; não foram preenchidos instituição, carga horária, data exata ou denominação institucional além da formulação informada.
+- Natureza atual do registro: formação declarada, pendente de comprovação documental.
 
 # Política de preservação
 
