@@ -68,3 +68,20 @@ Ele não precisa ser apresentado como “terapeuta de dezenas de métodos”. O 
 - **Currículo ampliado:** acrescentar módulos, instituições, cargas e páginas de origem.
 - **Mídia:** traduzir trauma, regulação e experiências complexas em linguagem pública; evitar usar certificados como argumento isolado.
 - **Academia:** vincular as formações ao TCC e a perguntas de estudo, não tratá-las como evidência científica por si mesmas.
+
+
+## Revisão complementar do PDF de 117 páginas
+
+A auditoria [[19 - Auditoria Página a Página - Certificados e Diplomas 2026]] confirma e amplia o eixo clínico:
+
+- EMDR nível I de 20h em 07/05/2010 (p. 92) e EMDR Intermediário de 20h em 24/10/2010 (p. 93);
+- treinamento básico de 50h teórico-práticas + 10h de supervisão em março de 2011 (p. 57);
+- crianças/adolescentes e transtornos dissociativos, 28h, em 18/09/2011 (p. 21 e duplicata p. 24);
+- Teoria e Psicoterapia dos Estados do Ego, 18h presenciais + 18h de créditos (p. 32);
+- EMDR Clínico, 20h presenciais + 20h de créditos, e supervisão de 20h (p. 22–23 e 30);
+- Atualizações em Neurobiologia Interpessoal, 16h presenciais + 16h de créditos, em 10/11/2013 (p. 59), além de certificado FOCUS de 16h (p. 58);
+- Neuroendocrinologia do Trauma, atenção precoce/estresse traumático continuado, transmissão transgeracional e decisões durante o reprocessamento (p. 26, 52, 62, 65–66);
+- Brainspotting fases 1–2 e fase 4 (p. 2–3 e 12);
+- Psicoterapia Integradora e Reprocessamento do Trauma com Mário Salvador: AIBAPT p. 4, certificado complementar Aleces p. 17 e módulo 2 p. 35.
+
+Os certificados históricos de terapeuta certificado EMDR das páginas 71 e 82 permanecem registrados como marcos documentais com validade impressa encerrada. A narrativa atual deve privilegiar “formação continuada em EMDR e trauma” e a supervisão atual, sem declarar certificação vigente sem conferência específica.
