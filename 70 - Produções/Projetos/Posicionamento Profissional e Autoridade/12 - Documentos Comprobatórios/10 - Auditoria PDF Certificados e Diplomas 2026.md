@@ -80,10 +80,10 @@ A leitura estratégica é: a autoridade não vem de mencionar todos os certifica
 | 59 | Neurobiologia Interpessoal | Atualizações em Neurobiologia Interpessoal, 16h presenciais + créditos, 10/11/2013 | CEEP, currículo acadêmico e eixo corpo–relação |
 | 70 | Ata de defesa São Marcos | Título do trabalho final: O normal e o patológico nas vivências espirituais: explorações psicanalíticas e transpessoais; defesa em 04/12/2009 | Evidência acadêmica contextual; não substitui o diploma |
 | 72, 74, 76, 78 e 80 | CEMETC | Níveis e formação em Acupuntura Bioenergética e Moxibustão | Trajetória MTC; conservar a denominação documental |
-| 83 | Licença sanitária | Funcionamento histórico da Clínica de Psicologia Centralma EIRELI/Núcleo de Terapias Bioquantum em 2019; Fabiano como responsável legal/técnico no documento | Currículo institucional histórico; verificar situação atual antes de qualquer função presente |
+| 83 | Licença sanitária | Funcionamento histórico da Clínica de Psicologia Centralma EIRELI/Núcleo de Terapias Bioquantum em 2019; Fabiano como responsável legal/técnico no documento | Currículo institucional histórico; a continuidade atual da Centralma como empresa operante e eixo da clínica on-line é confirmada por Fabiano |
 | 84–90 | Hipnose e Mirroring Hands | Formação clínica e workshops entre 2019 e 2022 | Currículo clínico ampliado e palestras pertinentes |
 | 94, 97, 105 | EOMA e Shiozawa | Formação técnica e cursos corporais dos anos 1990 | Linha de origem da trajetória |
-| 99 e 101 | PNL | Master Practitioner, 80h, 2001, e Practitioner, 112h, 2001 | Currículo ampliado: “formação em PNL”; confirmar emissor antes de atribuir SBPNL |
+| 99 e 101 | PNL | Master Practitioner, 80h, 2001, e Practitioner, 112h, 2001, pelo Trivium | Currículo ampliado: “formação em PNL”; Practitioner anterior na SBPNL é informação autobiográfica distinta confirmada por Fabiano |
 | 100 e 110 | Pró-Salus Vitae | Auriculoterapia, 48h, e Semiologia/Propedêutica da MTC, 143h | Trajetória MTC ampliada |
 | 104 | Psicanálise Integrativa | Conclusão de curso livre de formação em Psicanálise Integrativa, 23/07/2002 | Currículo ampliado; sustenta a origem psicanalítica da psicoterapia |
 | 102–103 | Transpsicanálise | Neurociência das Funções Mentais, 12h, e Bases Bioquímicas dos Transtornos Mentais, 36h, em 2002 | Formação histórica complementar; não apresentar como pós-graduação |
@@ -98,7 +98,7 @@ A leitura estratégica é: a autoridade não vem de mencionar todos os certifica
 - p. 102–103: cursos de Transpsicanálise sobre neurociência das funções mentais e bases bioquímicas dos transtornos mentais.
 - p. 104: conclusão de formação em Psicanálise Integrativa.
 - p. 106: certificado de curso do Instituto Brasileiro de Transpsicanálise, título e data exigem leitura complementar.
-- A graduação em Psicologia passa a estar documentada pelo diploma da Universidade São Marcos; a pós-graduação em Psicologia Transpessoal continua com certificado e instituição a confirmar.
+- A graduação em Psicologia está documentada pelo diploma da Universidade São Marcos. A pós-graduação em Psicologia Transpessoal foi concluída, com TCC entregue e certificado emitido, conforme confirmação de Fabiano; o certificado físico não está disponível e a instituição encerrou as atividades.
 
 ## Trauma, EMDR, Brainspotting e regulação
 
@@ -174,18 +174,15 @@ Isso não invalida a experiência. Apenas evita que formações heterogêneas se
 
 A MTC, Qi Gong, Daniel Siegel, PUC-SP e CEMETC entram nas versões ampliadas ou quando forem pertinentes ao tema. A mini bio não deve carregar a auditoria inteira.
 
-# Pendências residuais de documentação
+# Questões documentais de uso específico
 
-- certificado da pós-graduação em Psicologia Transpessoal;
-- histórico definitivo da PUCRS, se necessário para currículo acadêmico;
-- documentos completos de conclusão do programa CEMETC/curso internacional e a denominação literal da credencial docente;
-- documentos das duas formações em Psicanálise Integrativa, além do certificado de 2002 já identificado;
-- confirmação do emissor do Master Practitioner em PNL e eventual vínculo com SBPNL;
-- situação atual de certificações EMDR e Brainspotting, se a publicidade usar “certificado” no presente;
-- certidão atual de regularidade do CRP;
-- situação jurídica/cadastral atual do Centralma;
-- leitura complementar de páginas com títulos parcialmente ilegíveis;
-- comprovação documental das supervisões mensais atuais com Mário Salvador e da formação online com Deb Dana.
+- histórico definitivo da PUCRS, se exigido em contexto acadêmico;
+- documentação adicional do CEMETC, apenas se uma apresentação formal exigir detalhe além do já registrado;
+- situação atual de certificações EMDR/Brainspotting, somente se a publicidade usar “certificação vigente”;
+- leitura complementar de páginas com títulos parcialmente ilegíveis, quando o item for necessário;
+- datas detalhadas de supervisões com Mário Salvador, se um currículo específico exigir.
+
+Não são pendências: Psicologia Transpessoal concluída; duas formações em Psicanálise Integrativa; Practitioner anterior na SBPNL; CRP 06/98630 ativo e regular; Centralma atual e operante; curso com Deb Dana documentado em setembro de 2023. Esses dados foram confirmados por Fabiano e constam da governança curricular.
 
 # Regra final
 
@@ -199,3 +196,8 @@ A amplitude deve aparecer como origem e capacidade de integração, não como ac
 ## Documento adicional — Diploma de Psicologia
 
 Em 21/08/2026 foi disponibilizada imagem do diploma da Universidade São Marcos, registrada em [[15 - Universidade São Marcos - Diploma de Psicologia 2010]]. O documento informa conclusão do Curso de Psicologia em 04/02/2010 e expedição do diploma em 14/09/2010. Esta fonte é complementar à auditoria do PDF de 117 páginas.
+
+
+# Nota de escopo da auditoria — 21/08/2026
+
+Esta auditoria informa o que o PDF contém; ela não substitui a fonte autobiográfica do autor. A ausência de um item no PDF não equivale à inexistência da formação ou da situação profissional correspondente.

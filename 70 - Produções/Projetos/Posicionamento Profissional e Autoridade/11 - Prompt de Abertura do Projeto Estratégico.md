@@ -2,9 +2,9 @@
 id: AUT-11
 titulo: Prompt de Abertura do Projeto Estratégico
 tipo: prompt-de-continuidade
-status: pronto-para-uso
+status: atualizado-para-uso
 projeto: Posicionamento Profissional e Autoridade Autoral
-data: 2026-08-15
+data: 2026-08-21
 autor: Fabiano Deliberalli
 tags:
   - prompt
@@ -13,39 +13,42 @@ tags:
   - execução
 ---
 
-# Título recomendado do chat
+# Título recomendado
 
 **Autoridade Autoral e Produção Pública — Fabiano Deliberalli**
 
-# Prompt integral
+# Prompt integral atualizado
 
-Quero iniciar um projeto estratégico específico para transformar minha trajetória profissional em produção pública organizada, coerente, verificável e reutilizável.
+Quero dar continuidade ao projeto estratégico **Autoridade Autoral e Produção Pública — Fabiano Deliberalli**, destinado a transformar minha trajetória profissional em produção pública organizada, coerente e reutilizável.
 
-Este chat será o núcleo de orquestração do projeto **Autoridade Autoral e Produção Pública — Fabiano Deliberalli**. Ele não deve reconstruir minha trajetória a partir do zero nem depender apenas da memória da conversa. A fonte oficial de continuidade é meu repositório GitHub sincronizado com o Obsidian:
+A fonte oficial de continuidade é o repositório GitHub sincronizado com meu Obsidian:
 
-- repositório: `fabianodeliberalli/base-cognitiva-vault`
-- branch: `main`
-- pasta: `70 - Produções/Projetos/Posicionamento Profissional e Autoridade`
+- repositório: fabianodeliberalli/base-cognitiva-vault
+- branch: main
+- pasta: 70 - Produções/Projetos/Posicionamento Profissional e Autoridade
 
-Antes de propor qualquer estratégia, leia integralmente, pelo GitHub, nesta ordem:
+Antes de propor estratégia ou redação, leia integralmente pelo GitHub, nesta ordem:
 
-1. `00 - LEIA PRIMEIRO - Estado Atual e Continuidade.md`
-2. `01 - Dossiê Curricular Mestre.md`
-3. `02 - Linha do Tempo Profissional.md`
-4. `03 - Formação, Evidências e Fontes Documentais.md`
-5. `04 - Experiência Clínica, Docente e Institucional.md`
-6. `05 - Versões Públicas de Bio e Currículo.md`
-7. `06 - Posicionamento Profissional e Arquitetura de Autoridade.md`
-8. `07 - Avaliação Crítica por Públicos.md`
-9. `08 - Matriz de Uso por Contexto e Fronteiras.md`
-10. `09 - Prioridades Estratégicas e Mapa de Execução.md`
-11. `10 - Pendências, Comprovações e Governança.md`
+1. 00 - LEIA PRIMEIRO - Estado Atual e Continuidade.md
+2. 01 - Dossiê Curricular Mestre.md
+3. 02 - Linha do Tempo Profissional.md
+4. 03 - Formação, Evidências e Fontes Documentais.md
+5. 04 - Experiência Clínica, Docente e Institucional.md
+6. 05 - Versões Públicas de Bio e Currículo.md
+7. 06 - Posicionamento Profissional e Arquitetura de Autoridade.md
+8. 07 - Avaliação Crítica por Públicos.md
+9. 08 - Matriz de Uso por Contexto e Fronteiras.md
+10. 09 - Prioridades Estratégicas e Mapa de Execução.md
+11. 10 - Pendências, Comprovações e Governança.md
+12. 15 - Currículo Profissional Consolidado 2026.md
+13. 16 - Reavaliação Curricular Após Novos Certificados 2026.md
 
-Consulte também, somente quando necessário à tarefa concreta:
+Para trabalho de site, leia também:
 
-- o projeto do CEEP em `70 - Produções/Projetos/Comunidade - Espiritualidade e Psicoterapia`;
-- o projeto *Traduzindo o Ser Humano* em `70 - Produções/Cursos/Curso - Nome Provisório`;
-- o TCC e os núcleos de neurociência, consciência, trauma e espiritualidade já existentes no vault.
+- 17 - Reestruturação do Site/00 - Estado, Decisões e Continuidade.md;
+- 17 - Reestruturação do Site/01 - Dossiê Operacional Reestruturação Site Fabiano Deliberalli.docx.
+
+Consulte o CEEP, *Traduzindo o Ser Humano*, o TCC e os núcleos temáticos apenas quando a tarefa concreta exigir.
 
 O diagnóstico governante é:
 
@@ -53,68 +56,59 @@ O diagnóstico governante é:
 
 Minha identidade profissional de base é:
 
-> Fabiano Deliberalli — psicólogo clínico e psicoterapeuta — CRP 06/98630. Mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas, e atuação como psicólogo desde 2010.
+> **Fabiano Deliberalli — psicólogo clínico e psicoterapeuta — CRP 06/98630.**
 
-O território autoral em consolidação reúne:
+Formulação temporal:
 
-- corpo;
-- trauma;
-- consciência;
-- espiritualidade;
-- tradução e integração de experiências humanas complexas.
+> **Mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas, e atuação como psicólogo desde 2010.**
 
-As dez prioridades do projeto são:
+Formulação pública canônica:
 
-1. consolidar uma frase de posicionamento e repeti-la de forma consistente;
-2. criar versões específicas de currículo para clínica, CEEP, academia, mídia e palestras;
-3. publicar um artigo derivado do TCC;
-4. organizar Lattes, ORCID e bibliografia pública;
-5. produzir uma palestra autoral reconhecível;
-6. criar três pilares editoriais fixos para redes sociais;
-7. reunir vídeos e imagens profissionais que transmitam autoridade e proximidade;
-8. documentar resultados educacionais dos cursos e da comunidade, sem promessas clínicas indevidas;
-9. transformar cada ciclo do CEEP em artigo, aula aberta ou material de referência;
-10. manter clara a diferença entre atendimento psicológico, educação continuada, curso de desenvolvimento pessoal, divulgação e investigação acadêmica.
+> **Corpo, trauma, consciência e espiritualidade na compreensão e tradução da experiência humana.**
 
-Use a ordem de dependência já definida na nota 09:
+Descrição nuclear:
 
-- Fase 0: fronteiras e governança;
-- Fase 1: posicionamento e versões curriculares;
-- Fase 2: infraestrutura de credibilidade;
-- Fase 3: presença editorial e visual;
-- Fase 4: artigo e palestra autoral;
-- Fase 5: evidências educacionais e ciclo de publicação do CEEP.
+> Fabiano Deliberalli é psicólogo clínico e psicoterapeuta. Seu trabalho articula corpo, trauma, consciência e espiritualidade para compreender, traduzir e favorecer a integração de experiências humanas complexas, com rigor clínico, abertura e discernimento.
 
-Regras de trabalho:
+Governança de fontes:
 
-1. Preserve separadamente fatos documentados, informações declaradas, formulações públicas, hipóteses estratégicas e pendências.
-2. Não apresente uma reconstrução como se fosse uma versão literal anteriormente aprovada.
-3. Não iguale todas as formações nem transforme o currículo em lista de técnicas.
-4. Preserve minha trajetória corporal, psicanalítica, integrativa e espiritual, mas hierarquize-a a partir da identidade atual como psicólogo.
-5. Evite tanto redação promocional inflada quanto ressalvas excessivamente defensivas.
-6. Diferencie experiência vivida, interpretação, hipótese clínica, evidência e conclusão.
-7. Não use neurociência como validação automática de modelos tradicionais ou afirmações metafísicas.
-8. Não confunda psicoterapia, educação continuada, desenvolvimento pessoal, mídia e pesquisa acadêmica.
-9. Faça perguntas apenas quando a resposta ausente modificar materialmente a decisão; não interrompa o fluxo por detalhes que possam permanecer como pendência explícita.
-10. Ao final de cada etapa consolidada, atualize o checkpoint e os arquivos correspondentes no repositório GitHub/Obsidian, preservando versões históricas.
+1. Fabiano é fonte primária de sua biografia profissional.
+2. Informações autobiográficas confirmadas são válidas para currículo e comunicação pública.
+3. Diplomas e certificados disponíveis servem ao arquivo, à literalidade e a exigências externas específicas.
+4. A ausência atual de um certificado físico não autoriza a IA a invalidar uma formação.
+5. Não reabra como pendências: Psicologia Transpessoal concluída; duas formações em Psicanálise Integrativa; Practitioner anterior na SBPNL; Centralma atual e operante; CRP 06/98630 ativo e regular.
+6. Só crie questão operacional quando a resposta modificar materialmente uma decisão ou entrega.
+7. Não invente instituição, data, carga ou título ausente.
+8. Preserve separadamente informação autobiográfica, registro documental, formulação pública, hipótese estratégica, questão operacional e histórico superado.
 
-Neste primeiro momento, não produza todos os ativos ao mesmo tempo. Faça primeiro:
+Arquitetura pública consolidada:
 
-1. uma confirmação objetiva de que os onze arquivos foram lidos;
-2. uma auditoria da coerência entre eles, indicando apenas conflitos reais ou lacunas decisivas;
-3. um quadro das dependências entre as dez prioridades;
-4. uma proposta de execução da Fase 0 e da Fase 1, com entregáveis, critérios de aprovação e sequência de decisões;
-5. a identificação da primeira decisão que preciso tomar, oferecendo no máximo três opções claramente comparadas.
+- Fabiano é a identidade central;
+- Centralma é a empresa atual e o eixo clínico exclusivamente on-line;
+- *Traduzindo o Ser Humano* é o eixo educacional e de produtos digitais;
+- CEEP é educação continuada para profissionais;
+- publicações, palestras e mídia constituem a infraestrutura de autoridade.
 
-O objetivo deste chat é funcionar como centro estratégico contínuo. Trabalhos extensos, como o artigo científico, a palestra ou uma campanha editorial, poderão posteriormente receber chats próprios, mas deverão retornar a este núcleo com decisões, links, estado e próximos passos.
+Regras permanentes:
+
+- não transformar currículo em lista de técnicas;
+- hierarquizar a trajetória a partir da identidade atual como psicólogo;
+- diferenciar experiência vivida, interpretação, hipótese clínica, evidência e conclusão;
+- não usar neurociência como validação automática de modelos tradicionais ou afirmações metafísicas;
+- não confundir psicoterapia, educação continuada, desenvolvimento pessoal, mídia e investigação acadêmica;
+- preservar versões históricas e atualizar checkpoints ao consolidar etapas.
+
+Estado atual:
+
+- Fase 0 concluída;
+- núcleo da Fase 1 concluído;
+- formulação canônica e bios contextuais consolidadas;
+- currículo-mestre normalizado;
+- dossiê operacional do site atualizado;
+- próxima execução: reestruturação técnica do site em homologação, seguida de infraestrutura de credibilidade e presença editorial.
+
+Ao final de cada trabalho, devolva ao núcleo: decisões tomadas, arquivos e links, estado, testes realizados, questões operacionais reais e próximos passos. Atualize o GitHub/Obsidian quando houver autorização, preservando o histórico.
 
 # Orientação de uso
 
-1. Abrir um chat novo com o título recomendado.
-2. Colar o prompt integral sem anexar novamente todos os currículos.
-3. Exigir que a primeira resposta confirme a leitura dos onze arquivos do GitHub.
-4. Não iniciar simultaneamente artigo, palestra, site e redes sociais.
-5. Concluir primeiro Fase 0 e Fase 1, pois elas governam todas as demais.
-6. Criar chats executivos separados apenas quando houver um objeto bem delimitado.
-7. Ao terminar cada subprojeto, retornar ao chat central para registrar resultado, versão e relações com os demais ativos.
-
+Este prompt substitui versões anteriores de abertura do projeto. Não solicitar novamente comprovações ou decisões já consolidadas nas notas governantes.

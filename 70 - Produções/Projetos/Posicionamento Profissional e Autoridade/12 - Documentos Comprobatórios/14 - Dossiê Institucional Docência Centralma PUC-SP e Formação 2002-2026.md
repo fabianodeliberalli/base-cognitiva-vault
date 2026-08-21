@@ -46,7 +46,7 @@ O valor desta experiência está em demonstrar que a capacidade de ensino e trad
 
 Formulação pública histórica:
 
-> Fundador do Centralma, onde atuou clinicamente e organizou cursos e atividades formativas até 2020.
+> Fundador do Bioquantum, posteriormente Centralma, onde atuou presencialmente e organizou cursos e atividades formativas até 2020. A Centralma permanece como sua empresa atual e como continuidade administrativa da clínica exclusivamente on-line.
 
 A licença documenta a situação institucional naquele momento. Não comprova funcionamento atual, função atual ou situação cadastral presente. Para qualquer texto que diga “diretor”, “responsável técnico” ou “clínica ativa”, é necessária verificação atualizada.
 
@@ -91,3 +91,8 @@ A auditoria [[19 - Auditoria Página a Página - Certificados e Diplomas 2026]] 
 - p. 97 e 107–108: diploma e verso da formação técnica em Reabilitação/Massagem, marco da origem de ensino e prática corporal.
 
 A redação de docência deve ser: “professor, palestrante e facilitador em cursos livres e educação continuada”, sempre acompanhada do projeto/evento quando pertinente. A aula da PUC-SP é uma experiência docente convidada, não vínculo acadêmico regular. A trajetória de cursos de Reiki, Seitai/Quiropraxia, atuação no Centralma, colaboração com Gilda Moura, Além das Fronteiras do Saber, ABBSP, IGM e CEEP compõe a história de transmissão de conhecimento e deve ser listada em versão completa conforme os comprovantes forem organizados.
+
+
+# Atualização institucional atual — 21/08/2026
+
+Fabiano confirma que a Centralma permanece registrada, aberta e operante e é a empresa pela qual emite notas fiscais de seus atendimentos psicológicos on-line. A licença de 2019 documenta o período presencial; a informação autobiográfica atual documenta a continuidade empresarial. Não manter “situação cadastral a verificar” como pendência genérica de IA.

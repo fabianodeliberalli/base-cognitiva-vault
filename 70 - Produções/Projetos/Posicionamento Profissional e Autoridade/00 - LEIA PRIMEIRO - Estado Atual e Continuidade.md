@@ -40,7 +40,7 @@ Não utilizar formulações que sugiram mais de 30 anos de exercício da Psicolo
 
 # Princípios de organização
 
-1. Separar fatos documentados, fatos declarados pelo autor, formulações públicas, hipóteses estratégicas e pendências.
+1. Separar a natureza das fontes sem criar uma hierarquia automática de validade biográfica: registros documentais disponíveis, informações autobiográficas confirmadas pelo autor, formulações públicas canônicas, hipóteses estratégicas, questões operacionais e versões históricas.
 2. Não conferir o mesmo peso público a todas as formações.
 3. Diferenciar identidade atual, formações estruturantes e linhagem histórica.
 4. Preservar a trajetória anterior à graduação sem confundi-la com exercício profissional da Psicologia.
@@ -48,7 +48,7 @@ Não utilizar formulações que sugiram mais de 30 anos de exercício da Psicolo
 6. Distinguir experiência vivida, interpretação, hipótese clínica, evidência e conclusão.
 7. Ajustar currículo e linguagem ao contexto, sem produzir identidades contraditórias.
 8. Evitar tanto a inflação de títulos quanto ressalvas defensivas em cada parágrafo.
-9. Não substituir rastreabilidade documental por memória narrativa.
+9. Usar o vault como memória oficial do projeto. A informação autobiográfica corrigida ou confirmada por Fabiano é fonte válida; documentos complementam datas, denominações e exigências externas específicas, sem transformar a IA em instância de validação da trajetória.
 10. Atualizar o projeto quando houver nova evidência, produção ou decisão pública.
 
 # Navegação
@@ -66,6 +66,9 @@ Não utilizar formulações que sugiram mais de 30 anos de exercício da Psicolo
 - [[11 - Prompt de Abertura do Projeto Estratégico]]
 - [[12 - Documentos Comprobatórios/00 - Índice de Diplomas e Certificados|Índice de Diplomas e Certificados]]
 - [[12 - Documentos Comprobatórios/15 - Universidade São Marcos - Diploma de Psicologia 2010]]
+- [[15 - Currículo Profissional Consolidado 2026]]
+- [[16 - Reavaliação Curricular Após Novos Certificados 2026]]
+- [[17 - Reestruturação do Site/00 - Estado, Decisões e Continuidade|Reestruturação do Site — estado e continuidade]]
 
 # Relações com outros projetos
 
@@ -80,10 +83,12 @@ Não utilizar formulações que sugiram mais de 30 anos de exercício da Psicolo
 - arquitetura de autoridade definida;
 - dez prioridades estratégicas organizadas por dependência;
 - fontes curriculares inventariadas;
-- curso de Neurobiologia Interpessoal documentado por certificado e formação declarada em Teoria Polivagal registrada como pendência documental;
+- curso de Neurobiologia Interpessoal documentado e curso com Deb Dana confirmado por certificado de 12 horas, em setembro de 2023;
 - auditoria documental de 117 páginas de certificados e diplomas concluída;
-- pendências documentais separadas da redação pública;
-- próximo passo: abrir o chat específico, auditar este núcleo e executar a Fase 1 — posicionamento, fronteiras e versões de currículo.
+- governança de fontes normalizada: a ausência atual de um certificado físico não invalida informação autobiográfica confirmada pelo autor para currículo e comunicação pública;
+- formulação pública canônica escolhida e versões contextuais consolidadas;
+- arquitetura do site consolidada: Fabiano como identidade central; Centralma como empresa atual e eixo clínico on-line; *Traduzindo o Ser Humano* como eixo educacional; CEEP como educação continuada;
+- próximo passo: executar a reestruturação do site em homologação e avançar para infraestrutura de credibilidade e produção editorial.
 
 # Regra de retomada
 
@@ -121,3 +126,26 @@ Em qualquer novo chat, ler primeiro esta nota e depois, conforme a tarefa:
 ## Atualização acadêmica — certificado PUCRS
 
 - [[12 - Documentos Comprobatórios/17 - PUCRS - Certificado Pós-Graduação Neurociências e Comportamento 2026]] — certificado institucional emitido em 25/03/2026.
+
+
+# Normalização de governança e posicionamento — 21/08/2026
+
+## Formulação pública canônica
+
+> **Corpo, trauma, consciência e espiritualidade na compreensão e tradução da experiência humana.**
+
+Descrição nuclear:
+
+> Fabiano Deliberalli é psicólogo clínico e psicoterapeuta. Seu trabalho articula corpo, trauma, consciência e espiritualidade para compreender, traduzir e favorecer a integração de experiências humanas complexas, com rigor clínico, abertura e discernimento.
+
+## Informações autobiográficas confirmadas pelo autor
+
+Passam a integrar o currículo e as versões públicas, sem serem tratadas como pendências de validação por IA:
+
+- pós-graduação em Psicologia Transpessoal concluída, com TCC entregue e certificado emitido; o certificado físico não está atualmente disponível e a instituição encerrou as atividades;
+- duas formações em Psicanálise Integrativa, incluindo a formação no Instituto Brasileiro de Transpsicanálise, com André Keppe, apoiada também por registros de cursos e workshops da instituição no vault;
+- Practitioner em PNL realizado na SBPNL antes das formações posteriores documentadas pelo Trivium;
+- Centralma como empresa atual, registrada, aberta e operante, utilizada na prestação e no faturamento dos atendimentos psicológicos on-line;
+- CRP 06/98630 pago, ativo e regular, conforme informação atual do autor.
+
+Quando um terceiro exigir comprovação formal específica, Fabiano decidirá como fornecê-la. Essa eventual exigência externa não deve ser convertida em controle geral da IA sobre a validade de sua trajetória.

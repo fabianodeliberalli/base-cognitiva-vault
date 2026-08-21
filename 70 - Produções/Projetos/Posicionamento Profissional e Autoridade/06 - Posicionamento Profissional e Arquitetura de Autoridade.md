@@ -2,7 +2,7 @@
 id: AUT-06
 titulo: Posicionamento Profissional e Arquitetura de Autoridade
 tipo: estrategia-de-posicionamento
-status: estrutura-governante
+status: estrutura-governante-e-formulacao-canonica
 projeto: Posicionamento Profissional e Autoridade Autoral
 data: 2026-08-21
 autor: Fabiano Deliberalli
@@ -134,7 +134,7 @@ Base: história incomum, temas relevantes e capacidade de tradução. Risco: cor
 # Uso público das formações recentes
 
 - **Neurobiologia Interpessoal:** pode ser nomeada como curso documentado de 16 horas, realizado em 2021 por webconferência, com Daniel Siegel.
-- **Teoria Polivagal aplicada à prática clínica:** pode ser apresentada, quando pertinente, como estudos/formação online declarada com Deb Dana, realizada em 2024. Não registrar como certificado até recuperar o documento.
+- **Deb Dana e regulação autonômica:** pode ser apresentado, quando pertinente, o curso documentado de 12 horas *Navigating the Nervous System: A Polyvagal Approach to Clinical Work*, concluído em setembro de 2023. O certificado não informa o formato.
 - Ambas reforçam o eixo corpo–relação–regulação; não substituem a formação em Psicologia, o CRP ou a supervisão clínica.
 
 # Princípios de linguagem pública
@@ -148,9 +148,13 @@ Base: história incomum, temas relevantes e capacidade de tradução. Risco: cor
 - Reconhecer controvérsias sem escrever um currículo defensivo.
 - Demonstrar rigor por distinções, referências e limites, não por excesso de ressalvas.
 
-# Formulação nuclear candidata
+# Formulação pública canônica
 
-> Fabiano Deliberalli é psicólogo clínico e educador. Seu trabalho articula corpo, trauma, consciência e espiritualidade para traduzir experiências humanas complexas em compreensão, discernimento e possibilidades de integração.
+> **Corpo, trauma, consciência e espiritualidade na compreensão e tradução da experiência humana.**
+
+Descrição nuclear:
+
+> Fabiano Deliberalli é psicólogo clínico e psicoterapeuta. Seu trabalho articula corpo, trauma, consciência e espiritualidade para compreender, traduzir e favorecer a integração de experiências humanas complexas, com rigor clínico, abertura e discernimento.
 
 # Critério de validação da frase final
 
@@ -189,3 +193,8 @@ O PDF de 117 páginas reforça a arquitetura em três camadas:
 - PNL, Reiki, Seitai e demais repertórios históricos.
 
 A nova evidência permite substituir a sensação de “trajetória apenas declarada” por uma arquitetura verificável. Ainda assim, o princípio permanece: provas documentais sustentam a autoria; não a substituem.
+
+
+# Governança biográfica consolidada — 21/08/2026
+
+A autoridade de Fabiano é construída por fontes documentais e por informações autobiográficas confirmadas pelo próprio autor. A falta atual de um certificado físico não invalida automaticamente uma formação. A IA deve preservar a natureza da fonte, sem assumir função de órgão certificador ou fiscalizador.

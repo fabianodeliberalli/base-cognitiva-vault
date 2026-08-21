@@ -2,7 +2,7 @@
 id: AUT-16
 titulo: Reavaliação Curricular Após Novos Certificados 2026
 tipo: avaliação-estratégica-curricular
-status: consolidado-para-revisão-publica
+status: consolidado-e-normalizado
 projeto: Posicionamento Profissional e Autoridade Autoral
 data: 2026-08-21
 autor: Fabiano Deliberalli
@@ -36,7 +36,7 @@ A trajetória está suficientemente diferenciada para sustentar uma persona prof
 4. **genealogia corporal e integrativa:** Reabilitação/Massagem, Medicina Tradicional Chinesa, acupuntura, Qi Gong, respiração, movimento, Seitai e Quiropraxia;
 5. **docência e construção institucional:** Centralma/Bioquantum, PUC-SP como aula convidada, Gilda Moura, *Além das Fronteiras do Saber*, ABBSP, IGM, CEEP e palestras.
 
-A formulação autoral resultante é: **percurso clínico interdisciplinar continuado, organizado pela integração entre corpo, trauma, consciência e significado.**
+A formulação pública canônica resultante é: **corpo, trauma, consciência e espiritualidade na compreensão e tradução da experiência humana.**
 
 # O que os novos certificados mudam
 
@@ -71,7 +71,7 @@ Esta é a abertura da persona. A expressão “mais de 30 anos” deve qualifica
 
 ## Eixo 2 — Formação clínica estruturante
 
-- Psicologia Transpessoal — usar a denominação e a instituição literais quando o certificado for recuperado.
+- Psicologia Transpessoal — formação concluída, com TCC entregue e certificado emitido, conforme confirmação de Fabiano. Usar a denominação sem instituição; o certificado físico não está atualmente disponível e a instituição encerrou as atividades.
 - Psicanálise Integrativa — apresentar como origem estruturante da escuta, da compreensão do conflito, do sentido e da singularidade.
 - EMDR e Brainspotting — formação continuada, com seleção dos módulos relevantes e sem declarar certificação vigente sem confirmação específica.
 - Hipnose e formações correlatas.
@@ -85,7 +85,7 @@ A lista deve ser agrupada por função clínica, e não apresentada como sequên
 
 - Supervisão mensal em grupo com Mário Salvador, em continuidade em 2026.
 - Estudos anteriores com Mário Salvador, incluindo formação presencial em Brasília — ano a confirmar — e imersões presenciais de três dias em 2025 e 2026.
-- Outros comprovantes de supervisão e imersão devem ser anexados quando disponíveis.
+- Outros comprovantes de supervisão e imersão podem ser arquivados se Fabiano decidir que serão úteis a um contexto específico; não constituem condição de validade da atividade atual confirmada.
 
 A supervisão é uma prova de maturidade profissional diferente de um diploma. Deve ter visibilidade própria.
 
@@ -153,7 +153,7 @@ Eles não precisam liderar a persona clínica nem aparecer na mini bio geral.
 # Formulações a preservar
 
 - **Trajetória:** “Mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas, e atuação como psicólogo desde 2010.”
-- **Eixo autoral:** “Corpo, trauma, consciência e significado na compreensão de experiências humanas complexas.”
+- **Eixo autoral canônico:** “Corpo, trauma, consciência e espiritualidade na compreensão e tradução da experiência humana.”
 - **Postura:** “Reconhecer o impacto de uma experiência não exige concluir previamente qual foi sua origem.”
 - **Docência:** “Professor, palestrante e facilitador em cursos livres e educação continuada.”
 - **CEMETC:** apresentar a formação e a credencial histórica com naturalidade, sem transformar a descrição em defesa ou em equivalência acadêmica.
@@ -191,18 +191,16 @@ Esta avaliação se apoia e deve ser mantida conectada às seguintes notas:
 - [[10 - Pendências, Comprovações e Governança]] — pendências documentais e administrativas;
 - [[20 - Novos Registros Documentais - ALECES e Deb Dana 2023]] — auditoria dos novos certificados.
 
-# Pendências que não bloqueiam a comunicação pública básica
+# Questões operacionais que não reabrem a validade curricular
 
-1. Recuperar certificado da Psicologia Transpessoal e confirmar denominação institucional literal.
-2. Obter certidão atual de regularidade do CRP.
-3. Organizar comprovantes específicos da supervisão mensal e das imersões com Mário Salvador.
-4. Confirmar a data do primeiro estudo presencial com Mário em Brasília.
-5. Confirmar situação atual de EMDR/Brainspotting quando a peça usar a palavra “certificação”.
-6. Completar a lista de palestras em organizações, com data, tema, instituição e prova documental.
-7. Organizar Lattes, ORCID e bibliografia pública.
-8. Transformar o TCC em artigo e registrar a produção derivada.
+1. Organizar datas detalhadas de supervisões e imersões com Mário Salvador quando um currículo específico exigir.
+2. Confirmar a data do primeiro estudo presencial com Mário em Brasília, caso o ano venha a ser publicado.
+3. Verificar situação atual de EMDR/Brainspotting somente quando uma peça usar “certificação vigente”.
+4. Completar a lista de palestras em organizações para o currículo de palestrante.
+5. Organizar Lattes, ORCID e bibliografia pública.
+6. Transformar o TCC em artigo e registrar a produção derivada.
 
-Essas pendências aperfeiçoam versões formais e acadêmicas; não impedem a mini bio baseada nos dados já documentados.
+A Psicologia Transpessoal, as duas formações em Psicanálise, o Practitioner na SBPNL, a Centralma atual e a regularidade do CRP estão confirmados por Fabiano. Não devem voltar a listas de pendências por ausência de documento físico no vault.
 
 # Parecer final
 
@@ -211,3 +209,8 @@ A versão de excelência não é a mais longa. É a que faz cada formação cump
 > **corpo e prática formaram a base incorporada; a Psicanálise organizou a escuta; a Psicologia formalizou a identidade profissional; trauma e neurobiologia aprofundaram a clínica; a fenomenologia e a consciência deram direção autoral; a docência transforma esse percurso em contribuição pública.**
 
 A próxima etapa de autoridade é produção: artigo derivado do TCC, palestra autoral, currículo por contexto, Lattes/ORCID, biblioteca pública e resultados educacionais documentados. O acervo de certificados agora sustenta essa narrativa com mais precisão, sem exigir que todos os documentos apareçam na superfície da persona.
+
+
+# Complemento de governança — 21/08/2026
+
+A auditoria documental descreve o acervo disponível; a biografia completa também se apoia em informações autobiográficas confirmadas pelo autor. Nenhuma IA deve assumir competência para validar ou invalidar formações, empresa ou registro profissional fora de uma demanda externa concreta.
