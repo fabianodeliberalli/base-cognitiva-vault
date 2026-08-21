@@ -78,8 +78,8 @@ A pergunta que dá unidade ao percurso é:
 | CRP 06/98630 | Registro profissional confirmado | Incluir em publicidade profissional pertinente |
 | Técnico em Reabilitação — modalidade Massagista — EOMA | Diploma localizado; conclusão em 1995; 1.440 horas, incluindo estágio | Formação de origem corporal no currículo ampliado |
 | Formação em Acupuntura Tradicional Chinesa — CEMETRAC | Certificado localizado; 2002–2004; 1.200 horas | Trajetória corporal e integrativa |
-| Máster en Acupuntura Bioenergética y Moxibustión — Fundación Europea de Medicina Tradicional China/CEMETC | Matrícula, módulos e autorização docente localizados; escopo final do programa a conferir | Formação continuada internacional no currículo ampliado |
-| Autorização docente do CEMETC | Documento localizado, PDF, p. 18; denominação literal “Venia Docente” a conferir | Usar “autorização docente do CEMETC para programas de formação em Acupuntura Bioenergética” |
+| Formação continuada internacional em *Acupuntura Bioenergética y Moxibustión* — CEMETC/Fundación Europea de Medicina Tradicional China | Certificados dos níveis 1, 2 e 3, certificados gerais de 360h/14,4 ECTS, programas detalhados e matrícula localizados | Formação continuada internacional no currículo ampliado; não converter em título acadêmico brasileiro nem somar cargas potencialmente sobrepostas |
+| *Venia Docente* do CEMETC | Documento localizado; emissão em Valladolid em 08/11/2014, validade impressa até 08/11/2017 e escopo para programas de formação em Acupuntura Bioenergética | Usar em tempo passado como credencial docente histórica; verificar renovação antes de indicar vigência atual |
 | Curso de Neurobiologia Interpessoal com Daniel Siegel | Certificado localizado; 16 horas, 16–17/10/2021 | CEEP, trauma, relação e currículo ampliado |
 | Teoria Polivagal aplicada à prática clínica com Deb Dana | Formação declarada, online, 2024; certificado perdido | Registrar como estudo continuado até recuperar comprovante |
 
@@ -117,14 +117,14 @@ A formação corporal não deve ser tratada como prólogo descartável nem apres
 - Atuação e estudos no Shiozawa, com práticas corporais orientais, Seitai, Quiropraxia e atendimento clínico corporal.
 - Acupuntura Tradicional Chinesa pelo CEMETRAC, de 2002 a 2004, com 1.200 horas, sob direção de Liu Chih Ming.
 - Formação em MTC com Ernesto Garcia/Pró-Salus e outros módulos documentados.
-- Programa internacional Máster en Acupuntura Bioenergética y Moxibustión, no ano acadêmico de 2014–2015, com módulos realizados na tradição institucional do CEMETC.
-- Autorização docente do CEMETC para programas específicos de formação em Acupuntura Bioenergética.
+- Formação continuada internacional em *Acupuntura Bioenergética y Moxibustión* pelo CEMETC, com certificados de 1º, 2º e 3º níveis emitidos entre agosto de 2015 e setembro de 2016, certificados gerais de 360 horas/14,4 ECTS e programas detalhados; as cargas não são somadas sem análise de sobreposição.
+- Em 08/11/2014, recebeu do CEMETC a credencial institucional *Venia Docente* para ministrar programas de formação em Acupuntura Bioenergética; o documento registra validade até 08/11/2017.
 - Formação em Qi Gong, incluindo Ba Duan Jin, Yi Jin Jing, Wu Qin Xi, Liu Zi Jue/Seis Sons de Cura e práticas de respiração e movimento.
 - Experiência histórica como instrutor de Reiki e professor de práticas corporais.
 
 Formulação pública recomendada:
 
-> Sua formação corporal inclui Reabilitação/Massagem, Medicina Tradicional Chinesa, Qi Gong, respiração e movimento, além de formação continuada internacional em Acupuntura Bioenergética e Moxibustão e autorização docente do CEMETC para programas específicos de formação.
+> Sua formação corporal inclui Reabilitação/Massagem, Medicina Tradicional Chinesa, Qi Gong, respiração e movimento, além de formação continuada internacional em Acupuntura Bioenergética e Moxibustión pelo CEMETC. Em 2014, recebeu a credencial institucional *Venia Docente* da instituição para ministrar programas de formação em Acupuntura Bioenergética.
 
 # Comunicação, linguagem e outros repertórios
 
@@ -211,7 +211,7 @@ A preservação interna não significa invalidação da trajetória. Significa a
 2. Certificado da pós-graduação em Psicologia Transpessoal e confirmação da instituição/denominação literal.
 3. Certidão atual de regularidade do CRP.
 4. Histórico definitivo da PUCRS, se necessário para currículo acadêmico.
-5. Documento final do programa CEMETC e confirmação da denominação literal da credencial docente.
+5. Verificar eventual renovação da *Venia Docente* após 08/11/2017, caso se pretenda apresentá-la como credencial vigente; sua denominação literal, escopo e validade histórica já estão documentados.
 6. Segundo certificado de Psicanálise Integrativa.
 7. Situação atual de certificações EMDR e eventuais registros de validade.
 8. Comprovantes das supervisões/imersões com Mário Salvador e confirmação da data de Brasília.
@@ -243,3 +243,15 @@ Quando um novo documento for obtido:
 ## Atualização documental — certificado PUCRS
 
 A Especialização em Neurociências e Comportamento pela PUCRS está documentada por certificado institucional emitido em Porto Alegre em 25/03/2026. Registro em [[12 - Documentos Comprobatórios/17 - PUCRS - Certificado Pós-Graduação Neurociências e Comportamento 2026]].
+
+## Atualização documental — CEMETC/Venia Docente
+
+A documentação incorporada em 21/08/2026 atualiza a matriz curricular:
+
+- a formação internacional em *Acupuntura Bioenergética y Moxibustión* está documentada por certificados gerais e pelos níveis 1, 2 e 3;
+- os documentos gerais registram 360 horas e 14,4 créditos ECTS, sem que essa carga deva ser somada entre certificados potencialmente complementares;
+- os programas detalhados cobrem fisiologia energética, Qi, meridianos, Cinco Movimentos, semiologia, diagnóstico e terapêutica segundo o modelo formativo do CEMETC;
+- a credencial literal é *Venia Docente*, emitida em Valladolid em 08/11/2014, com validade impressa até 08/11/2017;
+- para a comunicação pública, a credencial deve ser apresentada como etapa histórica de docência e formação continuada, em tempo passado.
+
+Registro completo: [[12 - Documentos Comprobatórios/18 - CEMETC - Venia Docente e Acupuntura Bioenergética 2014-2016]].
