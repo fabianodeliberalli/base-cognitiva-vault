@@ -223,11 +223,11 @@ O arquivo confirma uma aula convidada na PUC-SP e uma licença sanitária histó
 
 Formulação integral recomendada:
 
-> Fabiano Deliberalli é psicólogo clínico e psicoterapeuta, com CRP 06/98630, mais de 30 anos de trajetória no cuidado terapêutico e atuação como psicólogo desde 2010. Sua formação acadêmica inclui Psicologia, Psicologia Transpessoal e Neurociências e Comportamento pela PUCRS. Sua formação clínica reúne Psicanálise Integrativa, EMDR, Brainspotting, hipnose, Psicoterapia Integradora e Reprocessamento do Trauma, Neurobiologia Interpessoal e supervisão continuada. O percurso corporal que antecede a Psicologia inclui Reabilitação/Massagem, Medicina Tradicional Chinesa, acupuntura, Qi Gong, respiração, movimento, Seitai e Quiropraxia, com formação continuada internacional em Acupuntura Bioenergética e Moxibustión pelo CEMETC e credencial histórica de *Venia Docente* para programas específicos da instituição. Hoje, articula corpo, trauma, consciência e espiritualidade na compreensão de experiências humanas complexas, com atenção à descrição do vivido, à segurança clínica e aos limites entre experiência, interpretação e evidência.
+> Fabiano Deliberalli é psicólogo clínico e psicoterapeuta, com CRP 06/98630, mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas e consolidada com a Psicologia. Sua formação acadêmica inclui Psicologia, Psicologia Transpessoal e Neurociências e Comportamento pela PUCRS. Sua formação clínica reúne Psicanálise Integrativa, EMDR, Brainspotting, hipnose, Psicoterapia Integradora e Reprocessamento do Trauma, Neurobiologia Interpessoal e supervisão continuada. O percurso corporal que antecede a Psicologia inclui Reabilitação/Massagem, Medicina Tradicional Chinesa, acupuntura, Qi Gong, respiração, movimento, Seitai e Quiropraxia, com formação continuada internacional em Acupuntura Bioenergética e Moxibustión pelo CEMETC e credencial histórica de *Venia Docente* para programas específicos da instituição. Hoje, articula corpo, trauma, consciência e espiritualidade na compreensão de experiências humanas complexas, com atenção à descrição do vivido, à segurança clínica e aos limites entre experiência, interpretação e evidência.
 
 Mini bio derivada:
 
-> Fabiano Deliberalli é psicólogo clínico e psicoterapeuta (CRP 06/98630), com mais de 30 anos de trajetória no cuidado terapêutico e atuação como psicólogo desde 2010. É pós-graduado em Psicologia Transpessoal e em Neurociências e Comportamento pela PUCRS, com formação em Psicanálise Integrativa, EMDR, Brainspotting, hipnose e trauma. Seu trabalho articula corpo, trauma, consciência e espiritualidade, apoiado por uma formação corporal e integrativa iniciada na Medicina Tradicional Chinesa, Qi Gong e práticas de movimento.
+> Fabiano Deliberalli é psicólogo clínico e psicoterapeuta (CRP 06/98630), com mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas e consolidada com a Psicologia. É pós-graduado em Psicologia Transpessoal e em Neurociências e Comportamento pela PUCRS, com formação em Psicanálise Integrativa, EMDR, Brainspotting, hipnose e trauma. Seu trabalho articula corpo, trauma, consciência e espiritualidade, apoiado por uma formação corporal e integrativa iniciada na Medicina Tradicional Chinesa, Qi Gong e práticas de movimento.
 
 # Questões específicas após a auditoria
 
@@ -243,3 +243,8 @@ Foram encerradas como pendências de validação por IA: Psicologia Transpessoal
 # Regra de leitura conjunta — 21/08/2026
 
 A auditoria página a página descreve estritamente o PDF. A fonte curricular consolidada reúne essa camada documental e a fonte autobiográfica oficial. Ausência no PDF não equivale a inexistência biográfica.
+
+
+# Fonte curricular vigente
+
+Para qualquer consulta, revisão ou produção curricular, consultar primeiro [[00 - Governança Curricular - Fonte Única e Derivação por Contexto 2026]] e depois [[22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]]. Esta nota é fonte documental, histórica ou derivada conforme sua finalidade; não deve competir com a matriz como fonte de organização da trajetória.
