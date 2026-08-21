@@ -139,3 +139,12 @@ O arquivo integral de certificados e diplomas permanece na Biblioteca e/ou no ac
 - EMDR agora inclui os certificados de 2010 e as atualizações de Neurobiologia Interpessoal.
 - A página 104 é corrigida para 23/07/2002, conforme leitura visual do certificado de Psicanálise Integrativa.
 - Certificados com validade impressa encerrada continuam registrados como marcos históricos; a validade atual é tratada separadamente.
+
+
+## Novos registros documentais - 21/08/2026
+
+- [[20 - Novos Registros Documentais - ALECES e Deb Dana 2023]] — nota de auditoria dos três PDFs complementares.
+- **Deb Dana:** *Navigating the Nervous System: A Polyvagal Approach to Clinical Work*, 12h, setembro de 2023, certificado localizado.
+- **Instituto Aleces:** *Psicoterapia de Integración y Reprocesamiento del Trauma* (Níveis I, II e III, Modelo Aleceia), 216h, 2020-2023, certificado emitido em 15/10/2023.
+- **Instituto Aleces:** Nível II do mesmo programa, 90h, 2021-2022, certificado emitido em 11/06/2022; registro componente, sem soma adicional.
+- A referência anterior a Deb Dana como “2024, certificado perdido” foi corrigida pela fonte documental para setembro de 2023.
