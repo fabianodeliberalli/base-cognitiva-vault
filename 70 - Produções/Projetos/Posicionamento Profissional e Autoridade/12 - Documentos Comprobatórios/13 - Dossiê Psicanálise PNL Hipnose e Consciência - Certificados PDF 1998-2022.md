@@ -79,3 +79,41 @@ Este eixo explica como a trajetória chegou a uma pergunta própria sobre:
 - necessidade de traduzir sem reduzir.
 
 A melhor apresentação não é “um terapeuta que estudou muitas técnicas”, mas um psicólogo cuja escuta foi construída em camadas: corpo, psicanálise, Psicologia, trauma, consciência e produção autoral.
+
+
+## Revisão complementar do PDF de 117 páginas
+
+A auditoria [[19 - Auditoria Página a Página - Certificados e Diplomas 2026]] corrige e amplia este eixo:
+
+### Psicanálise e Transpsicanálise
+
+- p. 104: certificado de conclusão de curso livre de Formação em Psicanálise Integrativa, São Paulo, 23/07/2002;
+- p. 102: Neurociência das Funções Mentais, 12h, 02/09/2002;
+- p. 103: Bases Bioquímicas dos Transtornos Mentais, 36h, 16/09–16/12/2002;
+- p. 106: workshop do Instituto Brasileiro de Transpsicanálise com título ainda parcialmente ilegível.
+
+A Psicanálise Integrativa é um eixo de origem da escuta psicoterapêutica de Fabiano, que deve ser comunicado como formação histórica e base de pensamento clínico, sem substituir a identificação atual como psicólogo.
+
+### PNL, hipnose e comunicação
+
+- p. 99: Master Practitioner em PNL, 80h, Trivium, março–maio de 2001;
+- p. 101: Practitioner em PNL, 112h, Trivium, junho–dezembro de 2001;
+- p. 84: Mirroring Hands, 12h;
+- p. 85: PCH módulos B4–B8, 70h, 09–15/07/2022;
+- p. 87: Hypnotic Mastery Bootcamp, 18h, 06–07/08/2022;
+- p. 90: PCH módulos B1–B3, 30h, 10–12/09/2021.
+
+A formulação recomendada é “formação em PNL, hipnose clínica e Mirroring Hands”. A atribuição do Master Practitioner à SBPNL não deve ser incluída até a confirmação do emissor.
+
+### Constelações e consciência
+
+- p. 6: certificado institucional *Master Senior* em Constelaciones Integrativas USI, 252h;
+- p. 7: Constelaciones Individuales en Consultorio, 120h;
+- p. 37, 43, 47, 68: Constelação em Consultório/Familiar, módulos de quatro dias;
+- p. 40 e 42: Constelações Estruturais/Integrativas, incluindo 42h;
+- p. 41: Constelaciones Familiares I, 56h;
+- p. 50: Constelação Organizacional, módulo I, três dias.
+
+Os certificados USI/entidades associadas são registrados como formações institucionais complementares, sem converter “Master Senior” em mestrado acadêmico.
+
+Radiestesia, Reiki, Karuna Reiki, Karuna Ki–Tera Mai, Tameana, Melchizedek, apometria, Instituto Aleph e meditação permanecem preservados como genealogia histórica de estudos sobre consciência e espiritualidade.
