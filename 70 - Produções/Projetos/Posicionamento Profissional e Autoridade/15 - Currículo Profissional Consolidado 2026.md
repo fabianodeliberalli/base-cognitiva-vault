@@ -255,3 +255,27 @@ A documentação incorporada em 21/08/2026 atualiza a matriz curricular:
 - para a comunicação pública, a credencial deve ser apresentada como etapa histórica de docência e formação continuada, em tempo passado.
 
 Registro completo: [[12 - Documentos Comprobatórios/18 - CEMETC - Venia Docente e Acupuntura Bioenergética 2014-2016]].
+
+
+## Revisão documental complementar — auditoria de 117 páginas — 21/08/2026
+
+A nota [[12 - Documentos Comprobatórios/19 - Auditoria Página a Página - Certificados e Diplomas 2026]] passa a ser o inventário integral do PDF. Ela confirma e detalha uma trajetória formativa mais extensa do que a síntese anterior.
+
+### Dados que entram na leitura consolidada
+
+- USI: Constelaciones Individuales en Consultorio, 120 horas, 11/09/2017; certificado institucional *Master Senior* em Constelaciones Integrativas USI, 252 horas, na mesma data; cursos de Constelação Familiar, Constelação em Consultório, Constelações Estruturais e Constelação Organizacional entre 2016 e 2017.
+- CEMETC/Long Tao/Heiwa: módulos I, II e III de Acupuntura Bioenergética, seminários temáticos, certificados gerais de 360 horas/14,4 ECTS e formação continuada internacional. As cargas são registradas sem soma automática, pois há possíveis sobreposições.
+- Qi Gong: certificado de instrutor de Qi Gong com 96 horas; *Health Qigong Technical Degree Certificate* de 1 Duan; cursos de Liu Zi Jue, Sistema Energético Humano de 48 horas e formação de instrutor de Tai Chi Qi Gong nível I. Cada título é apresentado conforme a sua entidade emissora.
+- Corpo e movimento: Reflexologia e Alinhamento da Coluna, Técnicas de Alinhamento Postural/Reflexologia/Relaxamento, Drenagem Linfática, manipulações de clavícula/glenoumeral e bacia, fitoterapia, Seitai e Quiropraxia.
+- Trauma: além dos registros já sintetizados, o PDF traz EMDR nível I de 20 horas em 07/05/2010, EMDR Intermediário de 20 horas em 24/10/2010, Neurobiologia Interpessoal de 16 horas com FOCUS e Atualizações em Neurobiologia Interpessoal de 16 horas presenciais + 16 créditos em 10/11/2013.
+- PNL: os documentos legíveis identificam Trivium — Practitioner de 112 horas e Master Practitioner de 80 horas, ambos em 2001. A atribuição à SBPNL permanece fora do texto público até confirmação documental específica.
+- Psicanálise: o certificado legível da p. 104 informa conclusão em 23/07/2002. Registros anteriores que indicavam 23/06/2002 devem ser corrigidos.
+- Reiki e repertórios de consciência: primeiro e segundo graus de Usui Shiki Ryoho, Karuna Reiki Master registrado, Karuna Ki–Tera Mai, Melchizedek, Tameana, apometria, radiestesia e workshops de meditação/Aleph. Permanecem como genealogia histórica e não como eixo de abertura da persona.
+
+### Regra narrativa
+
+A amplitude é apresentada como percurso integrado: corpo e prática → escuta e Psicanálise → Psicologia → trauma e regulação → neurociência e consciência → docência e autoria. O currículo preserva os marcos alcançados, mas não os transforma em títulos equivalentes nem afirma vigência administrativa quando o documento registra apenas validade histórica.
+
+Formulação pública ampliada atualizada:
+
+> Psicólogo clínico e psicoterapeuta, com mais de 30 anos de trajetória no cuidado terapêutico e atuação como psicólogo desde 2010. Sua formação reúne Psicologia, Psicologia Transpessoal, Neurociências e Comportamento, Psicanálise Integrativa, EMDR, Brainspotting, hipnose, trauma e Neurobiologia Interpessoal. O percurso corporal inclui Reabilitação/Massagem, Medicina Tradicional Chinesa, acupuntura, Qi Gong, respiração, movimento, Seitai e Quiropraxia, com formação continuada internacional em Acupuntura Bioenergética e Moxibustión pelo CEMETC e credencial histórica de *Venia Docente* para programas específicos da instituição. Hoje articula corpo, trauma, consciência e espiritualidade na compreensão de experiências humanas complexas, com atenção à experiência vivida, à segurança clínica e aos limites entre interpretação e evidência.
