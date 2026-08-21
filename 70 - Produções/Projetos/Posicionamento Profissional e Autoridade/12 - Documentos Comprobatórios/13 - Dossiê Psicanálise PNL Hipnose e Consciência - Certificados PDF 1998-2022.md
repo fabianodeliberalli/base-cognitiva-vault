@@ -125,3 +125,8 @@ Radiestesia, Reiki, Karuna Reiki, Karuna Ki–Tera Mai, Tameana, Melchizedek, ap
 # Complemento autobiográfico oficial — 21/08/2026
 
 Os documentos deste dossiê descrevem o conteúdo do PDF. Para a biografia consolidada, prevalece também a confirmação direta de Fabiano sobre as duas formações em Psicanálise e sobre o Practitioner anterior na SBPNL. A natureza autobiográfica da fonte deve ser preservada sem converter esses marcos em pendências de validação por IA.
+
+
+# Fonte curricular vigente
+
+Para qualquer consulta, revisão ou produção curricular, consultar primeiro [[00 - Governança Curricular - Fonte Única e Derivação por Contexto 2026]] e depois [[22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]]. Esta nota é fonte documental, histórica ou derivada conforme sua finalidade; não deve competir com a matriz como fonte de organização da trajetória.
