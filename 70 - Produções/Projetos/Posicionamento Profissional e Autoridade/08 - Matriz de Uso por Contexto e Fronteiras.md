@@ -142,3 +142,16 @@ Os documentos recém-auditados devem ser usados conforme o regime da oferta:
 Formulação de governança:
 
 > A formação amplia a capacidade de formular perguntas e construir contextos de aprendizagem; não autoriza, sozinha, extrapolações de escopo profissional ou conclusões científicas.
+
+
+## Atualização de governança após a auditoria documental de 2026
+
+Os novos documentos devem ser usados com precisão:
+
+- **Instituto Aleces:** pode ser apresentado como programa documentado de 216 horas em Psicoterapia de Integração e Reprocessamento do Trauma, Níveis I, II e III, Modelo Aleceia. O certificado de 90 horas é etapa componente e não deve ser somado novamente.
+- **Deb Dana:** pode ser apresentado como curso documentado de 12 horas, *Navigating the Nervous System: A Polyvagal Approach to Clinical Work*, concluído em setembro de 2023. Não deve ser convertido em título, pós-graduação ou certificação profissional independente.
+- **Mário Salvador:** a supervisão mensal atual é formação continuada e deve aparecer separada dos certificados de cursos; imersões e datas sem comprovante próprio permanecem como experiência declarada.
+- **CEMETC:** a formação em Acupuntura Bioenergética, os níveis e a *Venia Docente* permanecem como parte histórica da linhagem corporal e de docência; não devem ser usados para sugerir equivalência com titulação acadêmica brasileira.
+- **Validade:** o fato de um documento ter validade impressa encerrada não apaga o curso ou o marco docente realizado. A narrativa pública deve usar o tempo histórico correto e reservar a vigência administrativa para a documentação específica.
+
+A regra operacional passa a ser: **registro documental amplo, apresentação pública seletiva e promessa sempre limitada ao regime da oferta**.

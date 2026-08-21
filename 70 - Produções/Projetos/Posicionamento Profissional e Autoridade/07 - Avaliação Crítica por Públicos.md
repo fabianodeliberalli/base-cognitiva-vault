@@ -173,3 +173,16 @@ Frase protetiva:
 
 Fabiano não precisa parecer convencional para todos. Precisa ser inequívoco quanto a identidade, níveis de afirmação, escopo e público. Polarização por um campo autoral singular pode ser administrável; ambiguidade sobre o que ele oferece e afirma não é.
 
+
+
+## Atualização após os certificados Aleces e Deb Dana
+
+A documentação complementar fortalece, no mercado e no CEEP, a leitura de um percurso clínico continuado em trauma, reprocessamento e regulação. O ganho de autoridade não vem de acrescentar mais nomes à apresentação, mas de tornar visível a continuidade entre formação, supervisão e prática.
+
+- **Profissionais:** o programa Aleces de 216 horas e a supervisão mensal com Mário Salvador reduzem a leitura de repertório disperso; ainda assim, a comunicação deve começar por Psicologia, trauma, discernimento e escopo.
+- **Pacientes:** a formação apoia uma mensagem de continuidade e cuidado, mas não substitui a explicação concreta de como funciona o atendimento.
+- **Academia:** os documentos ampliam a formação continuada documentada; não substituem artigo, método, Lattes, ORCID ou vínculo de pesquisa. O TCC da PUCRS permanece a ponte principal para essa frente.
+- **Mídia:** Deb Dana e Aleces podem sustentar entrevistas sobre regulação, trauma e corpo; não devem ser usados como argumento de autoridade para validar afirmações que excedam as fontes.
+- **Produtos digitais:** os registros dão lastro ao eixo educacional, mas cada produto precisa declarar se é clínica, educação continuada ou desenvolvimento pessoal.
+
+**Conclusão da atualização:** a amplitude está mais bem documentada, mas a estratégia permanece a mesma: uma identidade profissional, um eixo autoral e fontes formativas múltiplas, hierarquizadas por contexto.
