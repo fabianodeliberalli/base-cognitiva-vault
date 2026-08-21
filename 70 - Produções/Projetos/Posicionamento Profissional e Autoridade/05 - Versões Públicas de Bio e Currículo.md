@@ -37,7 +37,7 @@ As duas são candidatas. A decisão final pertence à Prioridade 1 do projeto es
 
 # Mini bio — versão geral
 
-> Fabiano Deliberalli é psicólogo clínico e psicoterapeuta (CRP 06/98630), com mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas, e atuação como psicólogo desde 2010. É pós-graduado em Psicologia Transpessoal e em Neurociências e Comportamento, com formações em Psicanálise Integrativa, EMDR, Brainspotting e hipnose.
+> Fabiano Deliberalli é psicólogo clínico e psicoterapeuta (CRP 06/98630), com mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas, e atuação como psicólogo desde 2010. É pós-graduado em Psicologia Transpessoal e em Neurociências e Comportamento, com formações em Psicanálise Integrativa, EMDR, Brainspotting e hipnose, além de formação continuada em trauma e reprocessamento.
 >
 > Seu trabalho articula corpo, trauma, consciência e espiritualidade para compreender e integrar experiências humanas complexas com rigor clínico, abertura e discernimento. Sua formação continuada inclui Neurobiologia Interpessoal, com Daniel Siegel, e curso documentado de 12 horas sobre uma abordagem polivagal ao trabalho clínico, com Deb Dana, em setembro de 2023. É professor e palestrante em cursos livres e educação continuada e atua no desenvolvimento do CEEP e do projeto *Traduzindo o Ser Humano*.
 
@@ -45,7 +45,7 @@ As duas são candidatas. A decisão final pertence à Prioridade 1 do projeto es
 
 > Fabiano Deliberalli é psicólogo clínico e psicoterapeuta (CRP 06/98630), pós-graduado em Psicologia Transpessoal e em Neurociências e Comportamento, com formações em Psicanálise Integrativa, EMDR, Brainspotting e hipnose. Há mais de 30 anos dedica-se ao cuidado terapêutico, articulando experiência corporal, escuta psicológica, trauma, consciência e espiritualidade.
 >
-> Professor do eixo Consciência no CEEP. Sua formação continuada inclui o Curso de Neurobiologia Interpessoal, realizado em 2021 com Daniel Siegel, e curso documentado de 12 horas sobre uma abordagem polivagal ao trabalho clínico, com Deb Dana, em setembro de 2023. Investiga como experiências espirituais, existenciais e estados ampliados de consciência podem ser reconhecidos, diferenciados e integrados sem patologização automática, romantização ou imposição de crenças. Seu trabalho enfatiza fenomenologia, significado, tradução da experiência e discernimento clínico.
+> Professor do eixo Consciência no CEEP. Sua formação continuada inclui o programa de 216 horas em Psicoterapia de Integração e Reprocessamento do Trauma, Níveis I, II e III do Modelo Aleceia, pelo Instituto Aleces; o Curso de Neurobiologia Interpessoal, realizado em 2021 com Daniel Siegel; e o curso documentado de 12 horas sobre uma abordagem polivagal ao trabalho clínico, com Deb Dana, em setembro de 2023. Investiga como experiências espirituais, existenciais e estados ampliados de consciência podem ser reconhecidos, diferenciados e integrados sem patologização automática, romantização ou imposição de crenças. Seu trabalho enfatiza fenomenologia, significado, tradução da experiência e discernimento clínico.
 
 # Bio — mídia e entrevistas
 
