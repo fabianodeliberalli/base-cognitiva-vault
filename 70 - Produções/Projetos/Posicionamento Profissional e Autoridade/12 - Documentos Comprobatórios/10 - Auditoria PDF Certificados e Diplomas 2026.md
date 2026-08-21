@@ -98,7 +98,7 @@ A leitura estratégica é: a autoridade não vem de mencionar todos os certifica
 - p. 102–103: cursos de Transpsicanálise sobre neurociência das funções mentais e bases bioquímicas dos transtornos mentais.
 - p. 104: conclusão de formação em Psicanálise Integrativa.
 - p. 106: certificado de curso do Instituto Brasileiro de Transpsicanálise, título e data exigem leitura complementar.
-- A graduação e a pós-graduação em Psicologia Transpessoal continuam com diploma/certificado próprio a recuperar, mas a trajetória acadêmica tem evidências contextuais adicionais.
+- A graduação em Psicologia passa a estar documentada pelo diploma da Universidade São Marcos; a pós-graduação em Psicologia Transpessoal continua com certificado e instituição a confirmar.
 
 ## Trauma, EMDR, Brainspotting e regulação
 
@@ -176,7 +176,6 @@ A MTC, Qi Gong, Daniel Siegel, PUC-SP e CEMETC entram nas versões ampliadas ou 
 
 # Pendências residuais de documentação
 
-- diploma de Psicologia da Universidade São Marcos;
 - certificado da pós-graduação em Psicologia Transpessoal;
 - histórico definitivo da PUCRS, se necessário para currículo acadêmico;
 - documentos completos de conclusão do programa CEMETC/curso internacional e a denominação literal da credencial docente;
@@ -195,3 +194,8 @@ O PDF fortalece a narrativa, mas não substitui a hierarquia:
 > identidade psicológica atual → formação clínica e supervisão → produção e docência → genealogia corporal e integrativa.
 
 A amplitude deve aparecer como origem e capacidade de integração, não como acúmulo de credenciais equivalentes.
+
+
+## Documento adicional — Diploma de Psicologia
+
+Em 21/08/2026 foi disponibilizada imagem do diploma da Universidade São Marcos, registrada em [[15 - Universidade São Marcos - Diploma de Psicologia 2010]]. O documento informa conclusão do Curso de Psicologia em 04/02/2010 e expedição do diploma em 14/09/2010. Esta fonte é complementar à auditoria do PDF de 117 páginas.

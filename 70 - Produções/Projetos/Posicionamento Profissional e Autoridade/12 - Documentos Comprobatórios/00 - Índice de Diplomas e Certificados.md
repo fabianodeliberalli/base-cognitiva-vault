@@ -48,6 +48,7 @@ O arquivo integral de certificados e diplomas permanece na Biblioteca e/ou no ac
 | [[12 - Dossiê MTC Qi Gong e Corpo - Certificados PDF 1995-2018]] | Corpo, MTC, Qi Gong e CEMETC |
 | [[13 - Dossiê Psicanálise PNL Hipnose e Consciência - Certificados PDF 1998-2022]] | Psicanálise, PNL, hipnose e consciência |
 | [[14 - Dossiê Institucional Docência Centralma PUC-SP e Formação 2002-2026]] | Docência, Centralma e experiência institucional |
+| [[15 - Universidade São Marcos - Diploma de Psicologia 2010]] | Diploma de Psicologia; conclusão 04/02/2010; expedição 14/09/2010 |
 
 # Fonte nova auditada
 
@@ -61,7 +62,7 @@ O arquivo integral de certificados e diplomas permanece na Biblioteca e/ou no ac
 ## Acadêmicos e profissionais
 
 - CRP 06/98630 — registro profissional.
-- Graduação em Psicologia: ata de defesa do trabalho final localizada no PDF, p. 70; diploma ainda não anexado.
+- Graduação em Psicologia: diploma da Universidade São Marcos localizado; conclusão em 04/02/2010 e expedição em 14/09/2010; CRP 06/98630 registrado separadamente.
 - Pós-graduação em Psicologia Transpessoal: declarada, certificado ainda não anexado.
 - Pós-graduação em Neurociências e Comportamento pela PUCRS: certificado localizado no PDF, p. 1; conclusão em 25/03/2026.
 - Trabalho final da graduação: O normal e o patológico nas vivências espirituais: explorações psicanalíticas e transpessoais, p. 70.

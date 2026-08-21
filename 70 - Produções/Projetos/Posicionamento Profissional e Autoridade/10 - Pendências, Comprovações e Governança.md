@@ -22,7 +22,6 @@ Pendência documental não apaga uma trajetória real, mas modifica o grau de pr
 A auditoria do PDF resolveu ou reduziu algumas pendências. Consulte a atualização abaixo antes de executar a lista.
 
 1. Emitir certidão atual de regularidade do CRP 06/98630.
-2. Obter segunda via do diploma de Psicologia da Universidade São Marcos.
 3. Obter segunda via do certificado da pós-graduação em Psicologia Transpessoal.
 4. Obter certificado e histórico definitivo da PUCRS.
 5. Organizar certificados das duas formações em Psicanálise Integrativa.
@@ -127,7 +126,7 @@ Para cada peça pública, verificar:
 
 ## Permanecem em aberto
 
-- diploma de Psicologia e certificado da pós-graduação em Psicologia Transpessoal;
+- certificado da pós-graduação em Psicologia Transpessoal;
 - histórico definitivo da PUCRS, caso necessário para currículo acadêmico;
 - confirmação da denominação literal “Venia Docente” e documento final/escopo integral do programa internacional;
 - segundo certificado de Psicanálise Integrativa;
@@ -146,3 +145,8 @@ A tarefa deixou de ser “encontrar todos os certificados” e passou a ser:
 1. confirmar os documentos ainda necessários para as versões formais;
 2. definir quais documentos realmente entram em cada contexto;
 3. converter a trajetória comprovada em produção pública organizada.
+
+
+## Atualização — diploma de Psicologia localizado em 21/08/2026
+
+O diploma da Universidade São Marcos foi disponibilizado e está registrado em [[12 - Documentos Comprobatórios/15 - Universidade São Marcos - Diploma de Psicologia 2010]]. A pendência de obtenção da segunda via foi encerrada. Permanecem separadas as datas de conclusão do curso (04/02/2010), expedição do diploma (14/09/2010) e inscrição no CRP (2010).

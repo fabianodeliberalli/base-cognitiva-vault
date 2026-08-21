@@ -44,8 +44,8 @@ Essa pergunta se desenvolve em cinco movimentos:
 
 ## Acadêmica e profissional
 
-- Graduação em Psicologia pela Universidade São Marcos, concluída em 2009; diploma e inscrição no CRP em 2010.
-- Pós-graduação em Psicologia Transpessoal pela FACIS, concluída em 2009, sob coordenação mencionada de Márcia Tabone.
+- Graduação em Psicologia pela Universidade São Marcos, concluída em 04/02/2010; diploma expedido em 14/09/2010; inscrição no CRP em 2010.
+- Pós-graduação em Psicologia Transpessoal, concluída; instituição e denominação documental a confirmar.
 - Pós-graduação em Neurociências e Comportamento pela PUCRS, concluída em 2026.
 - TCC: *Sincronia Neural Interpessoal e Estados Ampliados de Consciência: uma abordagem neurobiológico-relacional da espiritualidade*.
 

@@ -65,6 +65,7 @@ Não utilizar formulações que sugiram mais de 30 anos de exercício da Psicolo
 - [[10 - Pendências, Comprovações e Governança]]
 - [[11 - Prompt de Abertura do Projeto Estratégico]]
 - [[12 - Documentos Comprobatórios/00 - Índice de Diplomas e Certificados|Índice de Diplomas e Certificados]]
+- [[12 - Documentos Comprobatórios/15 - Universidade São Marcos - Diploma de Psicologia 2010]]
 
 # Relações com outros projetos
 

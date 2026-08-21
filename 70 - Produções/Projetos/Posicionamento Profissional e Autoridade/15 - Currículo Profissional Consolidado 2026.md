@@ -72,7 +72,7 @@ A pergunta que dá unidade ao percurso é:
 
 | Formação ou registro | Situação documental | Uso recomendado |
 |---|---|---|
-| Graduação em Psicologia — Universidade São Marcos, concluída em 2009; diploma obtido em 2010 | Dados declarados; ata de defesa localizada no PDF, p. 70; diploma não anexado | Pode constar publicamente; diploma deve ser recuperado para currículo formal |
+| Graduação em Psicologia — Universidade São Marcos, conclusão em 04/02/2010; diploma expedido em 14/09/2010 | Diploma localizado e arquivado na nota documental AUT-DOC-15 | Formação acadêmica documentada; registro profissional separado no CRP 06/98630 |
 | Pós-graduação em Psicologia Transpessoal | Conclusão declarada; certificado e instituição a confirmar | Usar sem instituição até conferir o certificado; não usar Instituto Humanitatis |
 | Pós-graduação em Neurociências e Comportamento — PUCRS | Certificado localizado; conclusão em 25/03/2026, PDF, p. 1 | Formação acadêmica frontal |
 | CRP 06/98630 | Registro profissional confirmado | Incluir em publicidade profissional pertinente |
@@ -189,6 +189,7 @@ O conjunto de 117 páginas do arquivo certificados e diplomas.pdf foi auditado e
 - [[12 - Documentos Comprobatórios/12 - Dossiê MTC Qi Gong e Corpo - Certificados PDF 1995-2018]]
 - [[12 - Documentos Comprobatórios/13 - Dossiê Psicanálise PNL Hipnose e Consciência - Certificados PDF 1998-2022]]
 - [[12 - Documentos Comprobatórios/14 - Dossiê Institucional Docência Centralma PUC-SP e Formação 2002-2026]]
+- [[12 - Documentos Comprobatórios/15 - Universidade São Marcos - Diploma de Psicologia 2010]]
 
 O inventário registra páginas, documentos legíveis, carga horária quando identificada e grau de comprovação. Títulos parcialmente ilegíveis permanecem marcados como pendentes; nenhum dado foi completado por inferência.
 
@@ -206,7 +207,7 @@ A preservação interna não significa invalidação da trajetória. Significa a
 
 # Pendências para versões formais
 
-1. Segunda via do diploma de Psicologia.
+1. Diploma de Psicologia: localizado e registrado em 21/08/2026; pendência encerrada.
 2. Certificado da pós-graduação em Psicologia Transpessoal e confirmação da instituição/denominação literal.
 3. Certidão atual de regularidade do CRP.
 4. Histórico definitivo da PUCRS, se necessário para currículo acadêmico.

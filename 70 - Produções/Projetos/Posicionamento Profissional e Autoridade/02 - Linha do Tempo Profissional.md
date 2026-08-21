@@ -54,7 +54,7 @@ Esta cronologia distingue datas documentalmente sustentadas de datas fornecidas 
 ## 2009
 
 - Conclusão da graduação em Psicologia, segundo declaração do autor.
-- Conclusão da pós-graduação em Psicologia Transpessoal pela FACIS.
+- Conclusão da pós-graduação em Psicologia Transpessoal; instituição e denominação documental a confirmar.
 - Monografia sobre o normal e o patológico nas vivências espirituais, em diálogo com Psicanálise, fenomenologia, Psicologia Transpessoal e Abordagem Integral.
 
 ## 2010

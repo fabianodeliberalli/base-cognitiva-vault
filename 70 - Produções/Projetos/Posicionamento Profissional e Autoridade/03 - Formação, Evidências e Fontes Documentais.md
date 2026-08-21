@@ -25,8 +25,8 @@ tags:
 | Informação | Estado | Base disponível | Regra de uso |
 |---|---|---|---|
 | Psicólogo, CRP 06/98630 | DOCUMENTADO/CONFIRMADO | `escaner CRP.pdf` e confirmação direta | Incluir em publicidade profissional |
-| Graduação em Psicologia, Universidade São Marcos, conclusão 2009/diploma 2010 | DECLARADO, com evidência contextual | declaração de Fabiano e trabalho acadêmico de 2007 | Pode constar publicamente; obter segunda via do diploma para arquivo |
-| Pós-graduação em Psicologia Transpessoal, FACIS, 2009 | DECLARADO, com monografia apresentada | `Monografia Pós Transpessoal.doc` | Pode constar; solicitar certificado para arquivo |
+| Graduação em Psicologia, Universidade São Marcos, conclusão em 04/02/2010/diploma expedido em 14/09/2010 | DECLARADO, com evidência contextual | declaração de Fabiano e trabalho acadêmico de 2007 | Pode constar publicamente; obter segunda via do diploma para arquivo |
+| Pós-graduação em Psicologia Transpessoal | DECLARADO, certificado e instituição a confirmar | `Monografia Pós Transpessoal.doc` | Usar sem instituição até conferir o certificado |
 | Pós-graduação em Neurociências e Comportamento, PUCRS, 2026 | DOCUMENTADO | certificado em certificados e diplomas.pdf, p. 1; conclusão em 25/03/2026 | Pode constar como pós-graduação concluída; histórico pode complementar o currículo acadêmico |
 | Curso de Neurobiologia Interpessoal, 16–17/10/2021, 16 h | DOCUMENTADO | certificado anexado; Biblioteca `libfile_1212471b56bc8191afa27090fbfc332b` | Pode constar no currículo ampliado, em bio de palestrante e no eixo relacional/trauma |
 | Formação online em Teoria Polivagal aplicada à prática clínica com Deb Dana, 2024 | DECLARADO/PENDENTE | relato direto; certificado perdido | Registrar como formação/estudos continuados; recuperar comprovante antes de atribuir instituição, carga horária ou certificação |
