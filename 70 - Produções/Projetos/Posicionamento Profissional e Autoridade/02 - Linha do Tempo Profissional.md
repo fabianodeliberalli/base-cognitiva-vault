@@ -53,13 +53,15 @@ Esta cronologia distingue datas documentalmente sustentadas de datas fornecidas 
 
 ## 2009
 
-- Conclusão da graduação em Psicologia, segundo declaração do autor.
+- Defesa do trabalho final da graduação em Psicologia em 04/12/2009, conforme documentação acadêmica localizada.
 - Conclusão da pós-graduação em Psicologia Transpessoal; instituição e denominação documental a confirmar.
 - Monografia sobre o normal e o patológico nas vivências espirituais, em diálogo com Psicanálise, fenomenologia, Psicologia Transpessoal e Abordagem Integral.
 
 ## 2010
 
-- Obtenção do diploma de Psicologia e inscrição no CRP 06/98630.
+- 04/02/2010: conclusão formal do Curso de Psicologia, conforme o diploma da Universidade São Marcos.
+- 14/09/2010: expedição do diploma de Psicólogo pela Universidade São Marcos.
+- 2010: inscrição no CRP 06/98630.
 - Início da atuação formal como psicólogo.
 - Início aproximado da formação continuada em abordagens de trauma, incluindo EMDR e posteriormente Brainspotting.
 
