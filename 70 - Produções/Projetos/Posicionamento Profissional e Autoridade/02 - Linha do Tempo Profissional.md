@@ -93,13 +93,14 @@ Esta cronologia distingue datas documentalmente sustentadas de datas fornecidas 
 
 ## 2023
 
-- Conclusão do ciclo formativo 2020–2023 no Instituto ALECES.
+- Conclusão do ciclo formativo 2020–2023 no Instituto ALECES, documentado em certificado de 216 horas, Níveis I, II e III, Modelo Aleceia.
+- Conclusão do curso de 12 horas *Navigating the Nervous System: A Polyvagal Approach to Clinical Work*, com Deb Dana, certificado em setembro de 2023.
 - Manutenção do vínculo formativo por supervisões e estudos avançados.
 
 ## 2024
 
 - Currículos daquele período registram a pós-graduação em Neurociências e Comportamento da PUCRS como em andamento.
-- Formação online declarada em Teoria Polivagal aplicada à prática clínica com Deb Dana; certificado perdido e dados institucionais a recuperar.
+- Registro anterior mencionava Deb Dana em 2024; o certificado posteriormente localizado fixa o curso em setembro de 2023 e registra 12 horas.
 
 ## 2025
 
@@ -165,3 +166,10 @@ A auditoria de 117 páginas acrescenta ou especifica:
 - **2026:** conclusão da PUCRS, continuidade de supervisão com Mário Salvador, docência e auditoria integral dos certificados.
 
 As datas que o documento não torna legíveis continuam marcadas como aproximadas ou pendentes; a cronologia não deve fechar essas lacunas por inferência.
+
+
+## Atualização documental - 21/08/2026
+
+- [[12 - Documentos Comprobatórios/20 - Novos Registros Documentais - ALECES e Deb Dana 2023]].
+- A formação Aleces passa de registro curricular declarado a formação documentalmente comprovada: 216h, 2020-2023.
+- O certificado de Deb Dana passa de pendência a registro documental: 12h, setembro de 2023.

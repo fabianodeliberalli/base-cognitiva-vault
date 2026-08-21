@@ -56,7 +56,7 @@ A pergunta que dá unidade ao percurso é:
 
 > Fabiano Deliberalli é psicólogo clínico e psicoterapeuta (CRP 06/98630), com mais de 30 anos de trajetória no cuidado terapêutico e atuação como psicólogo desde 2010. Sua formação acadêmica inclui graduação em Psicologia, pós-graduação em Psicologia Transpessoal e pós-graduação em Neurociências e Comportamento pela PUCRS, concluída em 2026.
 >
-> Sua formação clínica reúne Psicanálise Integrativa, EMDR, Brainspotting, hipnose, Psicoterapia Integradora e Reprocessamento do Trauma, além de supervisão continuada em grupo com Mário Salvador. Também realizou formação em Neurobiologia Interpessoal com Daniel Siegel e mantém estudos em Teoria Polivagal aplicada à prática clínica com Deb Dana. A denominação institucional da formação em Psicologia Transpessoal não é utilizada nesta versão até a conferência do certificado.
+> Sua formação clínica reúne Psicanálise Integrativa, EMDR, Brainspotting, hipnose e Psicoterapia Integradora e Reprocessamento do Trauma. O percurso inclui o programa de 216 horas do Instituto Aleces, nos Níveis I, II e III do Modelo Aleceia, realizado entre 2020 e 2023 com Mario Salvador e Carmen Cuenca, além de supervisão continuada em grupo com Mário Salvador. Também realizou formação em Neurobiologia Interpessoal com Daniel Siegel e o curso de 12 horas *Navigating the Nervous System: A Polyvagal Approach to Clinical Work*, com Deb Dana, em setembro de 2023. A denominação institucional da formação em Psicologia Transpessoal não é utilizada nesta versão até a conferência do certificado.
 >
 > O percurso anterior em práticas corporais, Medicina Tradicional Chinesa, acupuntura, Qi Gong, respiração e movimento sustenta uma compreensão incorporada da experiência humana. Ao longo dos anos, desenvolveu atividades clínicas, docentes e de organização de cursos, incluindo a fundação histórica do Bioquantum/Centralma, a colaboração com Gilda Moura, o curso Além das Fronteiras do Saber, palestras e projetos de educação continuada.
 >
@@ -81,7 +81,7 @@ A pergunta que dá unidade ao percurso é:
 | Formação continuada internacional em *Acupuntura Bioenergética y Moxibustión* — CEMETC/Fundación Europea de Medicina Tradicional China | Certificados dos níveis 1, 2 e 3, certificados gerais de 360h/14,4 ECTS, programas detalhados e matrícula localizados | Formação continuada internacional no currículo ampliado; não converter em título acadêmico brasileiro nem somar cargas potencialmente sobrepostas |
 | *Venia Docente* do CEMETC | Documento localizado; emissão em Valladolid em 08/11/2014, validade impressa até 08/11/2017 e escopo para programas de formação em Acupuntura Bioenergética | Usar em tempo passado como credencial docente histórica; verificar renovação antes de indicar vigência atual |
 | Curso de Neurobiologia Interpessoal com Daniel Siegel | Certificado localizado; 16 horas, 16–17/10/2021 | CEEP, trauma, relação e currículo ampliado |
-| Teoria Polivagal aplicada à prática clínica com Deb Dana | Formação declarada, online, 2024; certificado perdido | Registrar como estudo continuado até recuperar comprovante |
+| Curso *Navigating the Nervous System: A Polyvagal Approach to Clinical Work*, com Deb Dana | Certificado localizado; 12h, setembro de 2023 | Formação continuada documentada no eixo trauma/regulação |
 
 # Formação clínica e psicoterapêutica
 
@@ -96,7 +96,7 @@ A Psicanálise deve aparecer como origem estruturante da escuta, da compreensão
 - Formação continuada em EMDR desde aproximadamente 2010, com treinamento básico documentado de 50 horas teórico-práticas e 10 horas de supervisão, em março de 2011.
 - Formação em Brainspotting, com fases 1–2 e fase 4 documentadas.
 - Cursos de EMDR, trauma, estados do ego, atenção precoce, estresse traumático continuado, neuroendocrinologia do trauma e transmissão transgeracional.
-- Formação em Psicoterapia Integradora e Reprocessamento do Trauma com Mário Salvador e Carmen Cuenca, com documentos de módulos localizados.
+- Formação em Psicoterapia Integradora e Reprocessamento do Trauma com Mário Salvador e Carmen Cuenca, incluindo programa documentado de 216 horas do Instituto Aleces, Níveis I, II e III do Modelo Aleceia, realizado entre 2020 e 2023.
 - Supervisão mensal em grupo com Mário Salvador, em continuidade em 2026.
 - Estudo presencial anterior com Mário Salvador em Brasília, provavelmente em 2018, e imersões presenciais de três dias em 2025 e 2026, conforme relato do autor.
 - Formação em hipnose clínica, hipnoterapia, hipnose ericksoniana, regressão de memória e Mirroring Hands.
@@ -107,7 +107,7 @@ A publicidade deve usar “formação em EMDR e Brainspotting” e “formação
 
 - Curso Neurobiologia Interpessoal — Como tornar a psicoterapia mais efetiva, com Daniel Siegel, em webconferência nos dias 16 e 17 de outubro de 2021, com 16 horas e certificado localizado.
 - Atualizações anteriores em Neurobiologia Interpessoal documentadas no PDF de certificados.
-- Formação online declarada em Teoria Polivagal aplicada à prática clínica com Deb Dana, realizada em 2024; comprovante ainda não localizado.
+- Curso documentado de 12 horas *Navigating the Nervous System: A Polyvagal Approach to Clinical Work*, com Deb Dana, em setembro de 2023.
 
 # Corpo, Medicina Tradicional Chinesa e práticas integrativas
 
@@ -215,7 +215,7 @@ A preservação interna não significa invalidação da trajetória. Significa a
 6. Segundo certificado de Psicanálise Integrativa.
 7. Situação atual de certificações EMDR e eventuais registros de validade.
 8. Comprovantes das supervisões/imersões com Mário Salvador e confirmação da data de Brasília.
-9. Comprovante da formação com Deb Dana.
+9. Organização do certificado do curso com Deb Dana: pendência encerrada; manter a data documental de setembro de 2023.
 10. Confirmação do emissor do Master Practitioner em PNL.
 11. Situação jurídica/cadastral atual do Centralma.
 12. Lista de palestras em organizações, com instituições, datas, temas e comprovantes.
@@ -279,3 +279,15 @@ A amplitude é apresentada como percurso integrado: corpo e prática → escuta 
 Formulação pública ampliada atualizada:
 
 > Psicólogo clínico e psicoterapeuta, com mais de 30 anos de trajetória no cuidado terapêutico e atuação como psicólogo desde 2010. Sua formação reúne Psicologia, Psicologia Transpessoal, Neurociências e Comportamento, Psicanálise Integrativa, EMDR, Brainspotting, hipnose, trauma e Neurobiologia Interpessoal. O percurso corporal inclui Reabilitação/Massagem, Medicina Tradicional Chinesa, acupuntura, Qi Gong, respiração, movimento, Seitai e Quiropraxia, com formação continuada internacional em Acupuntura Bioenergética e Moxibustión pelo CEMETC e credencial histórica de *Venia Docente* para programas específicos da instituição. Hoje articula corpo, trauma, consciência e espiritualidade na compreensão de experiências humanas complexas, com atenção à experiência vivida, à segurança clínica e aos limites entre interpretação e evidência.
+
+
+# Atualização documental - novos certificados recebidos em 21/08/2026
+
+Foram incorporados três registros complementares:
+
+- [[12 - Documentos Comprobatórios/20 - Novos Registros Documentais - ALECES e Deb Dana 2023]].
+- Instituto Aleces: programa completo de 216 horas, Níveis I, II e III, Modelo Aleceia, 2020-2023.
+- Instituto Aleces: Nível II, 90 horas, 2021-2022; componente do total de 216 horas.
+- Deb Dana: curso de 12 horas, setembro de 2023.
+
+A atualização reforça a formulação “formação continuada em trauma, reprocessamento e regulação” e corrige o ano anteriormente atribuído ao curso de Deb Dana.

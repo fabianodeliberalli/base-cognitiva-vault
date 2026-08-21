@@ -44,6 +44,8 @@ Esta nota reúne os documentos do PDF certificados e diplomas.pdf que sustentam 
 
 - p. 4 e p. 17: Psicoterapia Integradora e Reprocessamento do Trauma, 28h, 05–08/09/2019, Brasília.
 - p. 35: módulo 2, 28h, 25–28/10/2018, Brasília.
+- Certificado complementar do Instituto Aleces: programa completo de 216h em Psicoterapia de Integración y Reprocesamiento del Trauma, Níveis I, II e III, Modelo Aleceia, realizado entre 2020 e 2023 e emitido em 15/10/2023.
+- Certificado complementar do Instituto Aleces: Nível II do mesmo programa, 90h, curso 2021-2022, emitido em 11/06/2022. Integra o total de 216h e não deve ser somado novamente.
 - Relato atual do autor: supervisões mensais em grupo com Mário Salvador; imersões presenciais de três dias em 2025 e 2026, com atendimentos e supervisões. Esses dados permanecem como formação continuada declarada até a organização de comprovantes específicos.
 
 ## Neurobiologia Interpessoal
@@ -51,6 +53,7 @@ Esta nota reúne os documentos do PDF certificados e diplomas.pdf que sustentam 
 - p. 59: atualizações em Neurobiologia Interpessoal, 2013.
 - nota vinculada: [[08 - Daniel Siegel - Certificado Neurobiologia Interpessoal 2021]].
 - O certificado de 2021 documenta curso de 16h, em webconferência nos dias 16–17/10/2021, com Daniel Siegel.
+- Documento complementar de Deb Dana: curso de 12h *Navigating the Nervous System: A Polyvagal Approach to Clinical Work*, realizado em setembro de 2023.
 - Uso público recomendado: nomear o curso quando o tema for corpo, relação, psicoterapia, regulação ou consciência; não apresentá-lo como pós-graduação ou certificação profissional independente.
 
 # Função na persona
@@ -85,3 +88,11 @@ A auditoria [[19 - Auditoria Página a Página - Certificados e Diplomas 2026]] 
 - Psicoterapia Integradora e Reprocessamento do Trauma com Mário Salvador: AIBAPT p. 4, certificado complementar Aleces p. 17 e módulo 2 p. 35.
 
 Os certificados históricos de terapeuta certificado EMDR das páginas 71 e 82 permanecem registrados como marcos documentais com validade impressa encerrada. A narrativa atual deve privilegiar “formação continuada em EMDR e trauma” e a supervisão atual, sem declarar certificação vigente sem conferência específica.
+
+
+# Documentos complementares acrescentados em 21/08/2026
+
+- [[20 - Novos Registros Documentais - ALECES e Deb Dana 2023]].
+- O certificado Aleces de 216h documenta o programa completo de 2020-2023.
+- O certificado de Nível II, 90h, documenta uma etapa do mesmo programa.
+- O certificado Deb Dana corrige o registro anterior de “2024, certificado perdido” para setembro de 2023, com 12h.

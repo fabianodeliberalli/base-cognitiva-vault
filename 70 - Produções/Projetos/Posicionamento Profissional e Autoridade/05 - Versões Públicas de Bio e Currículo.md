@@ -39,13 +39,13 @@ As duas são candidatas. A decisão final pertence à Prioridade 1 do projeto es
 
 > Fabiano Deliberalli é psicólogo clínico e psicoterapeuta (CRP 06/98630), com mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas, e atuação como psicólogo desde 2010. É pós-graduado em Psicologia Transpessoal e em Neurociências e Comportamento, com formações em Psicanálise Integrativa, EMDR, Brainspotting e hipnose.
 >
-> Seu trabalho articula corpo, trauma, consciência e espiritualidade para compreender e integrar experiências humanas complexas com rigor clínico, abertura e discernimento. Sua formação continuada inclui Neurobiologia Interpessoal, com Daniel Siegel, e estudos em Teoria Polivagal aplicada à prática clínica, com Deb Dana. É professor e palestrante em cursos livres e educação continuada e atua no desenvolvimento do CEEP e do projeto *Traduzindo o Ser Humano*.
+> Seu trabalho articula corpo, trauma, consciência e espiritualidade para compreender e integrar experiências humanas complexas com rigor clínico, abertura e discernimento. Sua formação continuada inclui Neurobiologia Interpessoal, com Daniel Siegel, e curso documentado de 12 horas sobre uma abordagem polivagal ao trabalho clínico, com Deb Dana, em setembro de 2023. É professor e palestrante em cursos livres e educação continuada e atua no desenvolvimento do CEEP e do projeto *Traduzindo o Ser Humano*.
 
 # Mini bio — CEEP
 
 > Fabiano Deliberalli é psicólogo clínico e psicoterapeuta (CRP 06/98630), pós-graduado em Psicologia Transpessoal e em Neurociências e Comportamento, com formações em Psicanálise Integrativa, EMDR, Brainspotting e hipnose. Há mais de 30 anos dedica-se ao cuidado terapêutico, articulando experiência corporal, escuta psicológica, trauma, consciência e espiritualidade.
 >
-> Professor do eixo Consciência no CEEP. Sua formação continuada inclui o Curso de Neurobiologia Interpessoal, realizado em 2021 com Daniel Siegel, e estudos em Teoria Polivagal aplicada à prática clínica, com Deb Dana. Investiga como experiências espirituais, existenciais e estados ampliados de consciência podem ser reconhecidos, diferenciados e integrados sem patologização automática, romantização ou imposição de crenças. Seu trabalho enfatiza fenomenologia, significado, tradução da experiência e discernimento clínico.
+> Professor do eixo Consciência no CEEP. Sua formação continuada inclui o Curso de Neurobiologia Interpessoal, realizado em 2021 com Daniel Siegel, e curso documentado de 12 horas sobre uma abordagem polivagal ao trabalho clínico, com Deb Dana, em setembro de 2023. Investiga como experiências espirituais, existenciais e estados ampliados de consciência podem ser reconhecidos, diferenciados e integrados sem patologização automática, romantização ou imposição de crenças. Seu trabalho enfatiza fenomenologia, significado, tradução da experiência e discernimento clínico.
 
 # Bio — mídia e entrevistas
 
@@ -53,7 +53,7 @@ As duas são candidatas. A decisão final pertence à Prioridade 1 do projeto es
 
 # Bio — palestrante
 
-> Fabiano Deliberalli é psicólogo clínico e psicoterapeuta (CRP 06/98630), professor e palestrante, com mais de 30 anos de trajetória no cuidado terapêutico. É pós-graduado em Psicologia Transpessoal e em Neurociências e Comportamento e possui formação continuada em trauma, EMDR, Brainspotting, Psicanálise e hipnose. Ministrou cursos em parceria com Gilda Moura, cocriou *Além das Fronteiras do Saber*, conduziu workshop para a comunidade da ABBSP e palestrou no IGM sobre experiências anômalas. Sua formação continuada inclui Neurobiologia Interpessoal, com Daniel Siegel, e estudos em Teoria Polivagal aplicada à prática clínica, com Deb Dana. Seus temas centrais são corpo, trauma, consciência, espiritualidade, autorregulação e integração da experiência humana.
+> Fabiano Deliberalli é psicólogo clínico e psicoterapeuta (CRP 06/98630), professor e palestrante, com mais de 30 anos de trajetória no cuidado terapêutico. É pós-graduado em Psicologia Transpessoal e em Neurociências e Comportamento e possui formação continuada em trauma, EMDR, Brainspotting, Psicanálise e hipnose. Ministrou cursos em parceria com Gilda Moura, cocriou *Além das Fronteiras do Saber*, conduziu workshop para a comunidade da ABBSP e palestrou no IGM sobre experiências anômalas. Sua formação continuada inclui Neurobiologia Interpessoal, com Daniel Siegel, e curso documentado de 12 horas sobre uma abordagem polivagal ao trabalho clínico, com Deb Dana, em setembro de 2023. Seus temas centrais são corpo, trauma, consciência, espiritualidade, autorregulação e integração da experiência humana.
 
 # Bio — contexto acadêmico
 
@@ -65,7 +65,7 @@ Usar “interesses de estudo” enquanto não houver vínculo formal de pesquisa
 
 > Fabiano Deliberalli é psicólogo clínico e psicoterapeuta (CRP 06/98630). Sua trajetória no cuidado terapêutico começou há mais de 30 anos, nas práticas corporais e integrativas, e gradualmente incorporou a escuta psicanalítica, a Psicologia, o estudo do trauma, a neurociência e a investigação da consciência.
 >
-> Graduou-se em Psicologia pela Universidade São Marcos e concluiu pós-graduações em Psicologia Transpessoal e em Neurociências e Comportamento. Sua formação clínica inclui Psicanálise Integrativa, EMDR, Brainspotting, hipnose e Psicoterapia de Integração e Reprocessamento do Trauma, mantendo supervisão continuada em grupo com Mário Salvador. Também realizou curso de Neurobiologia Interpessoal com Daniel Siegel e mantém estudos em Teoria Polivagal aplicada à prática clínica com Deb Dana. O percurso anterior em massoterapia, Medicina Tradicional Chinesa, acupuntura, Qi Gong e práticas de respiração sustenta uma compreensão incorporada da experiência humana e da relação entre corpo, estado interno e significado.
+> Graduou-se em Psicologia pela Universidade São Marcos e concluiu pós-graduações em Psicologia Transpessoal e em Neurociências e Comportamento. Sua formação clínica inclui Psicanálise Integrativa, EMDR, Brainspotting, hipnose e programa de 216 horas em Psicoterapia de Integração e Reprocessamento do Trauma pelo Instituto Aleces, mantendo supervisão continuada em grupo com Mário Salvador. Também realizou curso de Neurobiologia Interpessoal com Daniel Siegel e realizou curso documentado de 12 horas sobre uma abordagem polivagal ao trabalho clínico, com Deb Dana, em setembro de 2023. O percurso anterior em massoterapia, Medicina Tradicional Chinesa, acupuntura, Qi Gong e práticas de respiração sustenta uma compreensão incorporada da experiência humana e da relação entre corpo, estado interno e significado.
 >
 > Em sua prática, dedica-se especialmente a situações em que compreender intelectualmente não foi suficiente para produzir mudança; a processos de trauma e desorganização; e a experiências espirituais, existenciais ou incomuns que exigem escuta cuidadosa e diferenciação. Seu trabalho não parte da necessidade de confirmar ou negar previamente a origem de uma experiência. Procura compreender o que foi vivido, como a pessoa foi afetada, quais significados foram construídos e o que favorece segurança e integração.
 >
@@ -144,3 +144,13 @@ A formação pode ser descrita como:
 > Formação continuada internacional em Acupuntura Bioenergética e Moxibustión pelo CEMETC, com níveis 1, 2 e 3 documentados entre 2015 e 2016.
 
 A validade impressa até 08/11/2017 fica registrada no currículo formal e no dossiê documental para controle de atualidade; não é necessário sobrecarregar a mini bio com essa informação.
+
+
+## Atualização documental para versões públicas
+
+Os textos desta nota passam a considerar:
+
+- o programa Aleces de 216 horas, Níveis I, II e III, Modelo Aleceia, realizado entre 2020 e 2023;
+- o curso documentado de Deb Dana, 12 horas, em setembro de 2023.
+
+A versão curta não precisa mencionar horas ou denominações extensas; as versões ampliadas podem usar esses dados quando o contexto for trauma, regulação ou formação clínica continuada.

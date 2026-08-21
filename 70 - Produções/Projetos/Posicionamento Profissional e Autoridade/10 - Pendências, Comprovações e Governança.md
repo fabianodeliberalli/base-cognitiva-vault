@@ -26,7 +26,7 @@ A auditoria do PDF resolveu ou reduziu algumas pendências. Consulte a atualiza�
 4. Obter certificado e histórico definitivo da PUCRS.
 5. Organizar certificados das duas formações em Psicanálise Integrativa.
 6. Organizar certificados de EMDR, Brainspotting e hipnose.
-7. Organizar certificado e denominação literal da formação ALECES 2020–2023.
+7. [x] Certificado e denominação literal da formação ALECES 2020–2023 localizados; programa completo documentado em 216h.
 8. Registrar datas e documentos das supervisões e imersões com Mário Salvador.
 9. Confirmar o ano da formação presencial em Brasília, provavelmente 2018.
 10. Verificar se houve renovação da *Venia Docente* após 08/11/2017, caso se pretenda apresentá-la como credencial vigente; a credencial histórica e sua denominação literal já estão documentadas.
@@ -38,7 +38,7 @@ A auditoria do PDF resolveu ou reduziu algumas pendências. Consulte a atualiza�
 16. Organizar documentos e materiais das cinco edições de *Além das Fronteiras do Saber*.
 17. Resolver localização persistente e identificador do TCC da PUCRS no acervo.
 18. Criar Lattes e ORCID e vincular produções.
-19. Recuperar comprovante, e-mail de inscrição ou registro da formação online em Teoria Polivagal aplicada à prática clínica com Deb Dana, realizada em 2024.
+19. [x] Comprovante da formação com Deb Dana localizado; certificado registra 12h em setembro de 2023.
 
 # Prioridade documental
 
@@ -135,7 +135,7 @@ Para cada peça pública, verificar:
 - certidão atual do CRP;
 - situação jurídica/cadastral atual do Centralma;
 - datas e comprovantes das supervisões mensais e imersões com Mário Salvador;
-- certificado/comprovante da formação online com Deb Dana;
+- verificar se o formato online atribuído anteriormente a Deb Dana deve ser mantido como relato separado, pois o certificado não informa o formato;
 - leitura complementar de páginas do PDF com títulos parcialmente legíveis.
 
 # Atualização de prioridade
@@ -185,10 +185,21 @@ A leitura das 117 páginas encerra a busca ampla por “todos os certificados”
 - certificado da Psicologia Transpessoal e instituição;
 - histórico PUCRS, se necessário em contexto acadêmico;
 - situação atual de EMDR/Brainspotting quando a peça usar a palavra “certificado” no presente;
-- certificado de Deb Dana;
+- eventual documento complementar de Deb Dana, caso se queira registrar o formato do curso; o certificado de 12h já está localizado;
 - datas e comprovantes das supervisões/imersões com Mário Salvador;
 - segundo certificado de Psicanálise Integrativa;
 - confirmação do vínculo institucional do Master Practitioner em PNL com a SBPNL;
 - cópias mais legíveis das páginas marcadas como pendentes na nota 19;
 - situação cadastral atual do Centralma;
 - lista documental das palestras em organizações.
+
+
+## Atualização - novos certificados Aleces e Deb Dana
+
+A documentação recebida em 21/08/2026 encerra duas pendências de comprovação:
+
+- o Instituto Aleces certifica o programa de 216 horas em *Psicoterapia de Integración y Reprocesamiento del Trauma*, Níveis I, II e III, Modelo Aleceia, realizado entre 2020 e 2023;
+- o certificado de Nível II, 90 horas, integra esse total e não deve ser contabilizado novamente;
+- Deb Dana certifica 12 horas do curso *Navigating the Nervous System: A Polyvagal Approach to Clinical Work*, em setembro de 2023.
+
+A supervisão mensal com Mário Salvador permanece uma atividade continuada separada dos certificados do programa.
