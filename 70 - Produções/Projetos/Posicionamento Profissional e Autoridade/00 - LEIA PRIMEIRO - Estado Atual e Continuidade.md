@@ -111,3 +111,8 @@ Em qualquer novo chat, ler primeiro esta nota e depois, conforme a tarefa:
 ## Fonte curricular consolidada — 21/08/2026
 
 - [[15 - Currículo Profissional Consolidado 2026]] — fonte narrativa atualizada para currículo, site, CEEP, palestras e mídia.
+
+
+## Atualização acadêmica — TCC da PUCRS
+
+- [[12 - Documentos Comprobatórios/16 - PUCRS - TCC Nota 9,5 e Parecer 2026]] — orientação finalizada, nota 9,5 e parecer favorável em 11/02/2026.

@@ -30,7 +30,7 @@ tags:
 | Pós-graduação em Neurociências e Comportamento, PUCRS, 2026 | DOCUMENTADO | certificado em certificados e diplomas.pdf, p. 1; conclusão em 25/03/2026 | Pode constar como pós-graduação concluída; histórico pode complementar o currículo acadêmico |
 | Curso de Neurobiologia Interpessoal, 16–17/10/2021, 16 h | DOCUMENTADO | certificado anexado; Biblioteca `libfile_1212471b56bc8191afa27090fbfc332b` | Pode constar no currículo ampliado, em bio de palestrante e no eixo relacional/trauma |
 | Formação online em Teoria Polivagal aplicada à prática clínica com Deb Dana, 2024 | DECLARADO/PENDENTE | relato direto; certificado perdido | Registrar como formação/estudos continuados; recuperar comprovante antes de atribuir instituição, carga horária ou certificação |
-| TCC da PUCRS | DOCUMENTADO EM OUTRO NÚCLEO | `TCC Fabiano Deliberalli 1.pdf` | Usar título literal e transformar em artigo |
+| TCC da PUCRS | DOCUMENTADO; nota 9,5 e parecer favorável registrados | `TCC Fabiano Deliberalli 1.pdf` e [[12 - Documentos Comprobatórios/16 - PUCRS - TCC Nota 9,5 e Parecer 2026]] | Usar título, nota e avaliação; transformar em artigo |
 | Técnico em Reabilitação — Massagista, EOMA, 1995, 1.440 h | DOCUMENTADO | diploma frente e verso | Usar na trajetória ampliada |
 | Acupuntura Tradicional Chinesa, CEMETRAC, 2002–2004, 1.200 h | DOCUMENTADO | certificado | Usar em currículo ampliado e trajetória corporal |
 | Programa *Máster en Acupuntura Bioenergética y Moxibustión*, 2014–2015 | FORMAÇÃO/MÓDULOS DOCUMENTADOS; ESCOPO FINAL A CONFIRMAR | matrícula e certificados CEMETC do PDF 2026, p. 18, 55–56, 61, 64, 72–80 | Usar “formação continuada internacional” e “módulos documentados”; não converter em título acadêmico brasileiro |
@@ -147,3 +147,8 @@ O inventário completo está em [[12 - Documentos Comprobatórios/10 - Auditoria
 ## Correção de controle documental — Psicologia Transpessoal
 
 A instituição da pós-graduação em Psicologia Transpessoal não deve ser exibida em versões públicas até conferência do certificado. A referência ao Instituto Humanitatis não corresponde à formação de Fabiano. A versão consolidada usa apenas “pós-graduação em Psicologia Transpessoal”; referências institucionais anteriores permanecem como dados a verificar, não como fato pronto para publicação.
+
+
+## Atualização documental — TCC PUCRS, nota 9,5
+
+As imagens institucionais de 21/08/2026 registram orientação finalizada, envio do TCC final e nota 9,5. O parecer de Fernanda Bordignon Nunes, datado de 11/02/2026, destaca relevância científica, delimitação, coerência dos objetivos e fundamentação atualizada. Registro detalhado em [[12 - Documentos Comprobatórios/16 - PUCRS - TCC Nota 9,5 e Parecer 2026]].

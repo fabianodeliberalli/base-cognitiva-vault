@@ -110,7 +110,8 @@ Esta cronologia distingue datas documentalmente sustentadas de datas fornecidas 
 
 - Nova imersão presencial de três dias com Mário Salvador e continuidade das supervisões mensais em grupo.
 - Conclusão da pós-graduação em Neurociências e Comportamento pela PUCRS.
-- TCC: *Sincronia Neural Interpessoal e Estados Ampliados de Consciência: uma abordagem neurobiológico-relacional da espiritualidade*.
+- TCC: *Sincronia Neural Interpessoal e Estados Ampliados de Consciência: uma abordagem neurobiológico-relacional da espiritualidade*, aprovado com nota 9,5.
+- 11/02/2026: registro institucional da orientação finalizada, nota 9,5 e parecer favorável sobre relevância científica, delimitação, objetivos e fundamentação.
 - 7 de março: workshop da ABBSP sobre autorregulação e presença clínica em processos espirituais e estados ampliados da consciência.
 - Agosto: palestra no IGM sobre fenômenos anômalos, com Daiana Leite.
 - Desenvolvimento do CEEP como professor do eixo Consciência.

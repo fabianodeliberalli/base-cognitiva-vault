@@ -150,3 +150,8 @@ A tarefa deixou de ser “encontrar todos os certificados” e passou a ser:
 ## Atualização — diploma de Psicologia localizado em 21/08/2026
 
 O diploma da Universidade São Marcos foi disponibilizado e está registrado em [[12 - Documentos Comprobatórios/15 - Universidade São Marcos - Diploma de Psicologia 2010]]. A pendência de obtenção da segunda via foi encerrada. Permanecem separadas as datas de conclusão do curso (04/02/2010), expedição do diploma (14/09/2010) e inscrição no CRP (2010).
+
+
+## Atualização — TCC da PUCRS documentado com nota 9,5
+
+A orientação finalizada, a nota 9,5 e o parecer acadêmico favorável foram registrados em [[12 - Documentos Comprobatórios/16 - PUCRS - TCC Nota 9,5 e Parecer 2026]]. A confirmação da aprovação foi encerrada como pendência; permanece a produção do artigo derivado.

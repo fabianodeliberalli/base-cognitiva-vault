@@ -122,3 +122,8 @@ O PDF não exige uma mini bio maior. Ele permite que o currículo ampliado seja 
 ## Correção de controle documental — 21/08/2026
 
 A instituição da pós-graduação em Psicologia Transpessoal fica omitida nas versões públicas até conferência do certificado. A referência ao Instituto Humanitatis não corresponde à formação de Fabiano. Derivar novas bios de [[15 - Currículo Profissional Consolidado 2026]].
+
+
+## Atualização acadêmica — TCC PUCRS aprovado com nota 9,5
+
+Para currículo acadêmico e apresentações institucionais, pode-se informar: “Pós-graduado em Neurociências e Comportamento pela PUCRS, com TCC aprovado com nota 9,5 em 2026.” A nota não precisa entrar na mini bio geral.

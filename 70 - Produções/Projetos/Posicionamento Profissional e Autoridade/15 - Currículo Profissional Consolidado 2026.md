@@ -164,7 +164,7 @@ A expressão recomendada é “professor, palestrante e facilitador em cursos li
 # Pesquisa, estudos e autoria
 
 - Trabalho final da graduação em Psicologia: O normal e o patológico nas vivências espirituais: explorações psicanalíticas e transpessoais, com ata de defesa localizada em 04/12/2009.
-- Trabalho final da pós-graduação em Neurociências e Comportamento: o dossiê atual registra um trabalho sobre sincronia neural interpessoal, redes sociais do cérebro, espiritualidade e estados ampliados de consciência; o título literal da folha de rosto deve ser conferido antes de uso acadêmico.
+- Trabalho final da pós-graduação em Neurociências e Comportamento: *Sincronia Neural Interpessoal e Estados Ampliados de Consciência: uma abordagem neurobiológico-relacional da espiritualidade*, aprovado com nota 9,5 em 2026. O parecer avaliativo destacou relevância científica, delimitação, coerência dos objetivos e fundamentação teórica atualizada.
 - Interesses de estudo: neurofenomenologia, experiência incorporada, sincronia interpessoal, trauma, espiritualidade, consciência e diferenciação de experiências incomuns.
 - Não declarar “pesquisador”, “neurocientista” ou “autor publicado” como identidade principal sem produção e vínculo correspondentes. A autoridade atual está na prática clínica, na formação interdisciplinar e na capacidade de tradução.
 
@@ -219,7 +219,7 @@ A preservação interna não significa invalidação da trajetória. Significa a
 10. Confirmação do emissor do Master Practitioner em PNL.
 11. Situação jurídica/cadastral atual do Centralma.
 12. Lista de palestras em organizações, com instituições, datas, temas e comprovantes.
-13. Título literal do TCC da PUCRS conferido na folha de rosto.
+13. Artigo derivado do TCC da PUCRS e organização da produção pública.
 14. Organização do Lattes, ORCID e bibliografia pública.
 
 # Regra de atualização
@@ -233,3 +233,8 @@ Quando um novo documento for obtido:
 5. manter a distinção entre formação, título, experiência, docência e vínculo institucional.
 
 > A próxima etapa de autoridade não é acumular certificados: é transformar esta trajetória documentada em autoria pública coerente, aulas reconhecíveis, textos, palestras e produtos com fronteiras claras.
+
+
+## Atualização acadêmica — TCC aprovado
+
+- [[12 - Documentos Comprobatórios/16 - PUCRS - TCC Nota 9,5 e Parecer 2026]] — registro institucional de orientação finalizada, nota 9,5 e parecer favorável em 11/02/2026.
