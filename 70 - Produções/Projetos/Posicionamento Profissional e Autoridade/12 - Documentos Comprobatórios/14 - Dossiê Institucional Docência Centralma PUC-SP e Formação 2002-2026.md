@@ -77,3 +77,17 @@ A documentação institucional acrescenta três dimensões:
 - **capacidade de atuar em ambientes profissionais:** ABBSP, IGM e CEEP.
 
 Essa evidência fortalece a persona de psicólogo clínico, educador e tradutor de experiências humanas complexas, sem exigir uma imagem de carreira acadêmica que não corresponde à trajetória.
+
+
+## Revisão complementar do PDF de 117 páginas
+
+A auditoria [[19 - Auditoria Página a Página - Certificados e Diplomas 2026]] confirma:
+
+- p. 8: aula/palestra convidada na Faculdade de Psicologia da PUC-SP, “Corpo e Mente: Um mesmo sistema”, em 01/10/2002;
+- p. 18: *Venia Docente* do CEMETC, com escopo para ministrar programas de formação em Acupuntura Bioenergética e validade impressa até 08/11/2017;
+- p. 46: curso de Gilda Moura sobre recuperação de memórias em experiências extraordinárias/anômalas, relevante para a história da colaboração formativa;
+- p. 83: licença sanitária histórica do Centralma/Bioquantum, com Fabiano indicado como responsável legal/técnico no documento;
+- p. 5, 15, 60 e 81: registros que sustentam a genealogia didática em Qi Gong e práticas corporais, sem substituir a documentação narrativa de cursos ministrados;
+- p. 97 e 107–108: diploma e verso da formação técnica em Reabilitação/Massagem, marco da origem de ensino e prática corporal.
+
+A redação de docência deve ser: “professor, palestrante e facilitador em cursos livres e educação continuada”, sempre acompanhada do projeto/evento quando pertinente. A aula da PUC-SP é uma experiência docente convidada, não vínculo acadêmico regular. A trajetória de cursos de Reiki, Seitai/Quiropraxia, atuação no Centralma, colaboração com Gilda Moura, Além das Fronteiras do Saber, ABBSP, IGM e CEEP compõe a história de transmissão de conhecimento e deve ser listada em versão completa conforme os comprovantes forem organizados.
