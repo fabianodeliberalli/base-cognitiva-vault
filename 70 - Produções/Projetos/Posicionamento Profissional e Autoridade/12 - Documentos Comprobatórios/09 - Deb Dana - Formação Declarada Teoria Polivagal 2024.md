@@ -1,46 +1,52 @@
 ---
 id: AUT-DOC-09
-titulo: Deb Dana - Formação Declarada em Teoria Polivagal 2024
-tipo: formacao-declarada-sem-certificado
-status: declarado-pendente
+titulo: Deb Dana - Navigating the Nervous System 2023
+tipo: certificado-de-formacao-continuada
+status: documentado
 projeto: Posicionamento Profissional e Autoridade Autoral
-data: 2026-08-18
+data: 2026-08-21
 autor: Fabiano Deliberalli
 tags:
   - documentos-comprobatorios
   - teoria-polivagal
   - regulacao
   - trauma
+  - deb-dana
 ---
 
-# Registro da formação
+# Registro documental
 
-Segundo relato direto de Fabiano Deliberalli:
+- **Participante:** Fabiano Deliberalli.
+- **Formadora:** Deb Dana, LCSW.
+- **Título literal do curso:** *Navigating the Nervous System: A Polyvagal Approach to Clinical Work*.
+- **Carga horária:** 12 horas.
+- **Local e data impressos no certificado:** Brazil, September 2023.
+- **Fonte:** `Fabiano Deliberalli.pdf`, Library `libfile_b1a41d7bd4748191a48a8771c60a2bc5`.
+- **Formato:** não especificado no certificado. O relato anterior mencionava participação on-line e o ano de 2024, mas a data documental localizada é setembro de 2023; para o currículo, prevalece o documento.
 
-- **Formadora:** Deb Dana.
-- **Tema informado:** Teoria Polivagal aplicada à prática clínica.
-- **Formato:** on-line.
-- **Ano:** 2024.
-- **Certificado:** perdido; não disponibilizado nesta etapa.
+# Classificação
 
-# O que está confirmado e o que permanece pendente
-
-O registro confirma a declaração do participante sobre a realização da formação. Permanecem pendentes o nome literal do curso, a instituição ou plataforma emissora, as datas exatas, a carga horária e qualquer número ou elemento do certificado.
-
-Não preencher esses campos por inferência. O livro ou os materiais de Deb Dana presentes no acervo podem fundamentar o estudo do tema, mas não comprovam a participação de Fabiano.
+Trata-se de certificado de conclusão de formação continuada. O documento não apresenta pós-graduação, título de especialista ou autorização profissional independente.
 
 # Uso público recomendado
 
-Quando a formação for relevante para um contexto específico, preferir formulações proporcionais ao registro atual, como:
+> “Curso de 12 horas *Navigating the Nervous System: A Polyvagal Approach to Clinical Work*, com Deb Dana, concluído em setembro de 2023.”
 
-> “Estudos em Teoria Polivagal aplicada à prática clínica com Deb Dana, realizados on-line em 2024.”
+Em versões mais curtas:
 
-Ou:
+> “Formação continuada em Teoria Polivagal aplicada ao trabalho clínico, com Deb Dana.”
 
-> “Formação online declarada em Teoria Polivagal aplicada à prática clínica com Deb Dana (2024).”
+Não usar “pós-graduação”, “especialista” ou “certificação em Teoria Polivagal” como título profissional. A formação entra como parte do eixo trauma, regulação e neurobiologia relacional.
 
-Não usar, até recuperar o documento, “certificado”, “pós-graduação”, “especialista” ou denominação institucional não confirmada.
+# Relação com o percurso atual
 
-# Próxima ação
+O certificado complementa:
 
-Procurar e-mail de inscrição, comprovante de pagamento, histórico da plataforma, gravações, material didático ou segunda via do certificado. Ao localizar qualquer evidência, atualizar primeiro [[03 - Formação, Evidências e Fontes Documentais]] e este registro.
+- a formação em EMDR, Brainspotting e reprocessamento do trauma;
+- o curso documentado de Neurobiologia Interpessoal com Daniel Siegel;
+- a supervisão continuada em grupo com Mário Salvador;
+- o interesse autoral por corpo, estado interno, co-regulação e integração da experiência.
+
+# Correção do registro anterior
+
+O registro anterior tratava a formação como “2024, certificado perdido”. Essa formulação está superada pelo documento agora localizado. A linha curricular correta é **curso de 12 horas, setembro de 2023**. A referência a 2024 pode permanecer somente como nota de discrepância histórica no controle interno, não em materiais públicos.
