@@ -164,3 +164,31 @@ O certificado institucional foi registrado em [[12 - Documentos Comprobatórios/
 ## Complemento documental — CEMETC/Venia Docente
 
 Os novos comprovantes encerram a pendência de identificação da credencial: a denominação literal é *Venia Docente*, emitida em Valladolid em 08/11/2014, com validade impressa até 08/11/2017. A formação em Acupuntura Bioenergética e Moxibustión está documentada por certificados gerais e pelos níveis 1, 2 e 3. Permanece apenas a verificação de eventual renovação posterior, caso isso seja relevante para uma apresentação no presente.
+
+
+## Regra de permanência histórica — revisão após auditoria integral
+
+A auditoria do PDF confirmou que “validade” não é sinônimo de “existência do marco”. Um certificado de participação, diploma, autorização docente ou licença prova que determinado percurso ou atuação ocorreu no período documentado. Se o documento registra prazo encerrado, o fato histórico permanece válido como parte da biografia; somente a alegação de vigência atual exige renovação ou confirmação.
+
+Aplicação prática:
+
+- “formação realizada em...” permanece utilizável quando factual;
+- “credencial histórica emitida em...” é adequado quando o documento tinha prazo;
+- “atua atualmente como...” exige comprovação atual;
+- “certificado vigente” exige verificar a regra da entidade;
+- títulos institucionais como *Master Senior* ou *Venia Docente* devem conservar a denominação e o contexto de origem, sem serem convertidos em títulos acadêmicos brasileiros.
+
+## Pendências revistas
+
+A leitura das 117 páginas encerra a busca ampla por “todos os certificados”. Restam apenas pendências de precisão ou de uso atual:
+
+- certificado da Psicologia Transpessoal e instituição;
+- histórico PUCRS, se necessário em contexto acadêmico;
+- situação atual de EMDR/Brainspotting quando a peça usar a palavra “certificado” no presente;
+- certificado de Deb Dana;
+- datas e comprovantes das supervisões/imersões com Mário Salvador;
+- segundo certificado de Psicanálise Integrativa;
+- confirmação do vínculo institucional do Master Practitioner em PNL com a SBPNL;
+- cópias mais legíveis das páginas marcadas como pendentes na nota 19;
+- situação cadastral atual do Centralma;
+- lista documental das palestras em organizações.
