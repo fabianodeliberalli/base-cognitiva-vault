@@ -147,3 +147,21 @@ A trajetória não deve ser comunicada como sucessão de abandonos. Cada etapa a
 - Certificados gerais de 360 horas/14,4 ECTS documentados em novembro de 2014 e setembro de 2016.
 - A formação passa a ser registrada como percurso continuado internacional pelo CEMETC, sem somar cargas potencialmente sobrepostas.
 - A credencial docente passa a ser registrada pela denominação literal *Venia Docente*, com validade histórica até 08/11/2017.
+
+
+## Complemento cronológico — marcos recuperados no PDF
+
+A auditoria de 117 páginas acrescenta ou especifica:
+
+- **1993–1996:** primeiro e segundo graus de Usui Shiki Ryoho; cursos EOMA de manipulação, fitoterapia, alinhamento postural, reflexologia e massagem/drenagem.
+- **1998:** curso de Radiestesia básico de 15h em Psicanálise Integrativa Clínica Escola.
+- **2001:** Practitioner e Master Practitioner em PNL pelo Trivium, 112h e 80h.
+- **2002:** Psicanálise Integrativa, Neurociência das Funções Mentais, Bases Bioquímicas dos Transtornos Mentais, Radiestesia e aula convidada na PUC-SP.
+- **2004–2006:** Bioenergologia histórica; curso de Auriculoterapia de 48h e Semiologia/Propedêutica da MTC de 143h pela Pró-Salus.
+- **2010:** registros EMDR nível I e intermediário, além do início documentado do eixo de trauma.
+- **2013–2016:** Neurobiologia Interpessoal, seminários CEMETC, módulos Heiwa/Long Tao/CEMETC e formação em Qi Gong/Tai Chi Qi Gong.
+- **2016–2017:** Constelações Familiares, Estruturais, Organizacionais e em Consultório pela USI/entidades parceiras.
+- **2018–2022:** Seitai/Quiropraxia, módulos com Mário Salvador, Brainspotting fase 4, Centralma, Mirroring Hands e PCH.
+- **2026:** conclusão da PUCRS, continuidade de supervisão com Mário Salvador, docência e auditoria integral dos certificados.
+
+As datas que o documento não torna legíveis continuam marcadas como aproximadas ou pendentes; a cronologia não deve fechar essas lacunas por inferência.
