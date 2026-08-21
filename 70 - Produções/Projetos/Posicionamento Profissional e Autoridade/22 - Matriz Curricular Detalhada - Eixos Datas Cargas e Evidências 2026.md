@@ -17,6 +17,14 @@ tags:
   - evidências
 ---
 
+# Governança de consulta
+
+Esta nota é a fonte única de conteúdo para a reconstrução detalhada do percurso curricular. Sua governança está definida em [[00 - Governança Curricular - Fonte Única e Derivação por Contexto 2026]].
+
+Toda consulta futura sobre formações, diplomas, certificados, datas, cargas horárias, docência ou produção de materiais públicos deve começar pela nota de governança e continuar nesta matriz. Os dossiês documentais servem para conferir literalidade, datas, cargas e natureza dos registros; as bios e currículos narrativos são derivações por contexto.
+
+Quando houver conflito entre esta matriz, notas históricas e textos narrativos, deve prevalecer a correção posterior confirmada por Fabiano e a hierarquia estabelecida na nota de governança. Registros documentais com vencimento ou validade temporal permanecem como marcos históricos quando a formação, autorização ou experiência ocorreu; vigência atual é uma categoria separada.
+
 # Finalidade
 
 Esta nota é a matriz detalhada de consulta curricular de Fabiano Deliberalli. Ela reúne, por eixo temático, as formações, cursos, módulos, certificações, diplomas, experiências didáticas e marcos institucionais registrados no vault, no arquivo de 117 páginas de certificados e diplomas, nos documentos adicionais e nas informações autobiográficas confirmadas pelo autor.
