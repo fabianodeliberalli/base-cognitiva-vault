@@ -67,6 +67,7 @@ Não utilizar formulações que sugiram mais de 30 anos de exercício da Psicolo
 - [[12 - Documentos Comprobatórios/00 - Índice de Diplomas e Certificados|Índice de Diplomas e Certificados]]
 - [[12 - Documentos Comprobatórios/15 - Universidade São Marcos - Diploma de Psicologia 2010]]
 - [[15 - Currículo Profissional Consolidado 2026]]
+- [[18 - Currículo Profissional Ampliado Consolidado - Versão Pública 2026]]
 - [[16 - Reavaliação Curricular Após Novos Certificados 2026]]
 - [[17 - Reestruturação do Site/00 - Estado, Decisões e Continuidade|Reestruturação do Site — estado e continuidade]]
 
