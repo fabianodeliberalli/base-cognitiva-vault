@@ -43,11 +43,11 @@ A permanência em supervisões mensais em grupo com Mário Salvador é um elemen
 O percurso referido inclui:
 
 - formação presencial anterior em Brasília, provavelmente em 2018;
-- formação ALECES entre 2020 e 2023;
+- programa ALECES de 216 horas, Níveis I, II e III, entre 2020 e 2023, documentado por certificado;
 - continuidade mensal das supervisões;
 - imersões presenciais intensivas de três dias em 2025 e 2026, com atendimentos e supervisões.
 
-Na comunicação pública, o dado central é a **formação continuada e supervisão clínica em trauma**. Datas detalhadas devem ser publicadas apenas após confirmação.
+Na comunicação pública, o dado central é a **formação continuada e supervisão clínica em trauma**. O programa de 216 horas e o período 2020-2023 estão documentados; datas de supervisões avulsas permanecem separadas.
 
 # Experiência institucional e empreendedora
 
@@ -134,3 +134,12 @@ A p. 83 documenta licença sanitária histórica de 2019 para Clínica de Psicol
 ## Genealogia didática
 
 A docência deve ser narrada como uma continuidade de ensaios e contextos: cursos de Reiki e práticas corporais, Seitai/Quiropraxia, aula convidada na PUC-SP, organização de cursos no Centralma, assistência a Gilda Moura, Além das Fronteiras do Saber, ABBSP, IGM e CEEP. O conjunto sustenta “professor e palestrante em cursos livres e educação continuada”, sem sugerir carreira universitária regular.
+
+
+## Complemento documental - Aleces e Deb Dana
+
+Os novos certificados consolidam a formação continuada no eixo trauma, reprocessamento e regulação:
+
+- Instituto Aleces: 216 horas, Níveis I, II e III, Modelo Aleceia, 2020-2023.
+- Deb Dana: 12 horas, *Navigating the Nervous System: A Polyvagal Approach to Clinical Work*, setembro de 2023.
+- A supervisão mensal com Mário Salvador continua registrada como atividade formativa atual e não é confundida com a carga horária dos certificados.
