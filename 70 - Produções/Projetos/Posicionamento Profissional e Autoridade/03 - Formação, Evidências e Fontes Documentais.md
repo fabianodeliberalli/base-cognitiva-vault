@@ -29,7 +29,7 @@ tags:
 | Pós-graduação em Psicologia Transpessoal | DECLARADO, certificado e instituição a confirmar | `Monografia Pós Transpessoal.doc` | Usar sem instituição até conferir o certificado |
 | Pós-graduação em Neurociências e Comportamento, PUCRS, 2026 | DOCUMENTADO — certificado institucional localizado | [[12 - Documentos Comprobatórios/17 - PUCRS - Certificado Pós-Graduação Neurociências e Comportamento 2026]] e certificados e diplomas.pdf, p. 1 | Pode constar como especialização/pós-graduação concluída; histórico pode complementar o currículo acadêmico |
 | Curso de Neurobiologia Interpessoal, 16–17/10/2021, 16 h | DOCUMENTADO | certificado anexado; Biblioteca `libfile_1212471b56bc8191afa27090fbfc332b` | Pode constar no currículo ampliado, em bio de palestrante e no eixo relacional/trauma |
-| Formação online em Teoria Polivagal aplicada à prática clínica com Deb Dana, 2024 | DECLARADO/PENDENTE | relato direto; certificado perdido | Registrar como formação/estudos continuados; recuperar comprovante antes de atribuir instituição, carga horária ou certificação |
+| Curso *Navigating the Nervous System: A Polyvagal Approach to Clinical Work* com Deb Dana, setembro de 2023 | DOCUMENTADO | certificado localizado; 12h; Library `libfile_b1a41d7bd4748191a48a8771c60a2bc5` | Formação continuada no eixo trauma/regulação; não converter em pós-graduação ou título |
 | TCC da PUCRS | DOCUMENTADO; nota 9,5 e parecer favorável registrados | `TCC Fabiano Deliberalli 1.pdf` e [[12 - Documentos Comprobatórios/16 - PUCRS - TCC Nota 9,5 e Parecer 2026]] | Usar título, nota e avaliação; transformar em artigo |
 | Técnico em Reabilitação — Massagista, EOMA, 1995, 1.440 h | DOCUMENTADO | diploma frente e verso | Usar na trajetória ampliada |
 | Acupuntura Tradicional Chinesa, CEMETRAC, 2002–2004, 1.200 h | DOCUMENTADO | certificado | Usar em currículo ampliado e trajetória corporal |
@@ -37,7 +37,7 @@ tags:
 | *Venia Docente* do CEMETC | DOCUMENTADA; denominação literal, emissão em 08/11/2014 e validade impressa até 08/11/2017 | [[12 - Documentos Comprobatórios/18 - CEMETC - Venia Docente e Acupuntura Bioenergética 2014-2016]] | Usar em tempo passado como credencial docente histórica para programas de formação em Acupuntura Bioenergética |
 | Formação em Psicanálise Integrativa | DOCUMENTADO EM PARTE E DECLARADO | certificados e diplomas.pdf, p. 104; segunda formação ainda sem documento próprio | Usar “formação em Psicanálise Integrativa” na mini bio; detalhar duas formações somente após organizar ambos os documentos |
 | EMDR e Brainspotting | DOCUMENTADO | certificados e diplomas.pdf, p. 2–3, 12, 21–24, 30, 32, 52, 57, 59, 62, 65–66 | Pode constar no currículo ampliado; distinguir certificações históricas com validade encerrada de formação continuada |
-| Formação ALECES 2020–2023 | DECLARADO E REGISTRADO EM CURRÍCULO | currículo histórico | Organizar certificado e denominação literal |
+| Programa ALECES 2020–2023 | DOCUMENTADO | certificado de 216h, Níveis I, II e III, Modelo Aleceia; Library `libfile_c89f16c43c64819190d9c11462a312e3` | Formação continuada em psicoterapia integradora e reprocessamento do trauma |
 | Supervisões mensais com Mário Salvador | DECLARADO, ATUAL | relato direto | Pode constar como formação continuada/supervisão |
 | Imersões 2025 e 2026 com Mário Salvador | DECLARADO | relato direto | Registrar datas e certificados, se houver |
 | Estudo em Brasília com Mário Salvador, provável 2018 | PENDENTE | memória do autor | Não publicar o ano até confirmar |
@@ -118,7 +118,7 @@ tags:
 
 ## Teoria Polivagal aplicada à prática clínica
 
-- Registro baseado no relato direto de Fabiano: formação online com Deb Dana, realizada em 2024.
+- Certificado localizado: curso *Navigating the Nervous System: A Polyvagal Approach to Clinical Work*, 12h, Brazil, September 2023. O formato não consta no certificado; a referência anterior a 2024 foi corrigida.
 - Certificado perdido; não foram preenchidos instituição, carga horária, data exata ou denominação institucional além da formulação informada.
 - Natureza atual do registro: formação declarada, pendente de comprovação documental.
 
@@ -178,3 +178,11 @@ A auditoria integral [[12 - Documentos Comprobatórios/19 - Auditoria Página a 
 - Reiki, Karuna Reiki, Karuna Ki–Tera Mai e demais registros históricos de consciência.
 
 A regra documental é preservar cada marco, não somar duplicatas e não usar validade administrativa encerrada para negar a existência histórica da formação.
+
+
+## Registros complementares incorporados em 21/08/2026
+
+- [[12 - Documentos Comprobatórios/20 - Novos Registros Documentais - ALECES e Deb Dana 2023]].
+- Instituto Aleces: 216h, Níveis I, II e III, 2020-2023.
+- Instituto Aleces: Nível II, 90h, 2021-2022, como componente do total.
+- Deb Dana: 12h, setembro de 2023.
