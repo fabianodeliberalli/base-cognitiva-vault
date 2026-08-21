@@ -104,3 +104,8 @@ Os novos documentos tornam mais precisa a formulação pública:
 > Fabiano Deliberalli é psicólogo clínico e psicoterapeuta, com formação continuada em EMDR, Brainspotting e Psicoterapia de Integração e Reprocessamento do Trauma. Seu percurso inclui o programa de 216 horas do Instituto Aleces, nos Níveis I, II e III do Modelo Aleceia, e o curso de 12 horas com Deb Dana sobre uma abordagem polivagal ao trabalho clínico. Mantém supervisão continuada em grupo com Mário Salvador.
 
 A lista não deve ser apresentada como acúmulo de métodos, mas como uma linha de formação em trauma, corpo, regulação e integração da experiência.
+
+
+# Fonte curricular vigente
+
+Para qualquer consulta, revisão ou produção curricular, consultar primeiro [[00 - Governança Curricular - Fonte Única e Derivação por Contexto 2026]] e depois [[22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]]. Esta nota é fonte documental, histórica ou derivada conforme sua finalidade; não deve competir com a matriz como fonte de organização da trajetória.
