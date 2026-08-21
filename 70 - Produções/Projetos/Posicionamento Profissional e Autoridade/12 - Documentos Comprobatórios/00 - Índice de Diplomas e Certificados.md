@@ -42,7 +42,7 @@ O arquivo integral de certificados e diplomas permanece na Biblioteca e/ou no ac
 | [[06 - ABBSP - Certificado Workshop 2026]] | Docência em workshop |
 | [[07 - Documentos Acadêmicos Relacionados Não Comprobatórios]] | Contexto acadêmico |
 | [[08 - Daniel Siegel - Certificado Neurobiologia Interpessoal 2021]] | Curso documentado |
-| [[09 - Deb Dana - Formação Declarada Teoria Polivagal 2024]] | Formação declarada, certificado perdido |
+| [[09 - Deb Dana - Certificado Navigating Nervous System 2023]] | Curso documentado, 12h, setembro de 2023 |
 | [[10 - Auditoria PDF Certificados e Diplomas 2026]] | Auditoria integral de 117 páginas |
 | [[11 - Dossiê Clínico e Trauma - Certificados PDF 2010-2022]] | EMDR, Brainspotting, trauma e neurobiologia |
 | [[12 - Dossiê MTC Qi Gong e Corpo - Certificados PDF 1995-2018]] | Corpo, MTC, Qi Gong e CEMETC |
@@ -148,3 +148,8 @@ O arquivo integral de certificados e diplomas permanece na Biblioteca e/ou no ac
 - **Instituto Aleces:** *Psicoterapia de Integración y Reprocesamiento del Trauma* (Níveis I, II e III, Modelo Aleceia), 216h, 2020-2023, certificado emitido em 15/10/2023.
 - **Instituto Aleces:** Nível II do mesmo programa, 90h, 2021-2022, certificado emitido em 11/06/2022; registro componente, sem soma adicional.
 - A referência anterior a Deb Dana como “2024, certificado perdido” foi corrigida pela fonte documental para setembro de 2023.
+
+
+## Avaliação curricular atualizada
+
+- [[16 - Reavaliação Curricular Após Novos Certificados 2026]] — reavaliação estratégica após a auditoria dos novos certificados e integração com o currículo-mestre.
