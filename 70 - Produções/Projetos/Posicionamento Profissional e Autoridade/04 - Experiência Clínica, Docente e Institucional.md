@@ -61,7 +61,7 @@ Fabiano fundou o espaço inicialmente denominado Bioquantum e posteriormente Cen
 - articulou clínica, práticas corporais, educação e estudos da consciência;
 - acolheu a primeira turma presencial com Gilda Moura em 2018/2019.
 
-Sua atuação no Centralma ocorreu até 2020, quando as atividades presenciais foram interrompidas no contexto da pandemia.
+As atividades presenciais do espaço Centralma foram interrompidas em 2020, no contexto da pandemia. A empresa Centralma permanece registrada, aberta e operante e é atualmente utilizada para os atendimentos psicológicos exclusivamente on-line e para a emissão das respectivas notas fiscais.
 
 Valor narrativo: demonstra iniciativa, capacidade de articulação, hospitalidade pedagógica e construção de comunidade. Antes de empregar denominações atuais como diretor, responsável técnico ou fundador de uma instituição ativa, verificar a situação jurídica e cadastral.
 
@@ -129,7 +129,7 @@ O certificado da p. 8 documenta aula/palestra convidada na Faculdade de Psicolog
 
 ## Centralma/Bioquantum
 
-A p. 83 documenta licença sanitária histórica de 2019 para Clínica de Psicologia Centralma EIRELI/Núcleo de Terapias Bioquantum, com Fabiano como responsável legal e técnico naquele documento. Isso fortalece a narrativa de fundador e articulador institucional, mas não substitui a verificação cadastral atual.
+A p. 83 documenta licença sanitária histórica de 2019 para Clínica de Psicologia Centralma EIRELI/Núcleo de Terapias Bioquantum, com Fabiano como responsável legal e técnico naquele documento. Como atualização autobiográfica oficial, Fabiano confirma que a Centralma é sua empresa atual, registrada, aberta e operante. O espaço presencial foi encerrado, mas a pessoa jurídica permanece vinculada à psicoterapia on-line e ao faturamento dos atendimentos.
 
 ## Genealogia didática
 
@@ -143,3 +143,8 @@ Os novos certificados consolidam a formação continuada no eixo trauma, reproce
 - Instituto Aleces: 216 horas, Níveis I, II e III, Modelo Aleceia, 2020-2023.
 - Deb Dana: 12 horas, *Navigating the Nervous System: A Polyvagal Approach to Clinical Work*, setembro de 2023.
 - A supervisão mensal com Mário Salvador continua registrada como atividade formativa atual e não é confundida com a carga horária dos certificados.
+
+
+# Atualização de governança institucional — 21/08/2026
+
+A continuidade empresarial atual da Centralma é informação confirmada pelo titular e não depende de verificação autônoma pela IA. Consultas cadastrais ou documentos adicionais só deverão ser solicitados se uma tarefa jurídica, contábil, contratual ou técnica concreta os exigir.

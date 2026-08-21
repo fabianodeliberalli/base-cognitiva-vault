@@ -155,3 +155,14 @@ Os novos documentos devem ser usados com precisão:
 - **Validade:** o fato de um documento ter validade impressa encerrada não apaga o curso ou o marco docente realizado. A narrativa pública deve usar o tempo histórico correto e reservar a vigência administrativa para a documentação específica.
 
 A regra operacional passa a ser: **registro documental amplo, apresentação pública seletiva e promessa sempre limitada ao regime da oferta**.
+
+
+# Governança das fontes biográficas
+
+A fronteira ética entre as ofertas não depende de transformar a IA em instância de validação curricular. Para cada contexto:
+
+- informações autobiográficas confirmadas por Fabiano podem integrar currículo, bio e narrativa institucional;
+- documentos disponíveis fixam datas, títulos literais e cargas quando isso for relevante;
+- comprovação adicional só deve ser solicitada quando um terceiro ou uma finalidade concreta realmente a exigir;
+- a ausência atual de um certificado físico não autoriza apagar uma formação nem tratá-la como inexistente;
+- permanece obrigatório não converter uma formação em escopo profissional, título acadêmico ou conclusão científica que ela não representa.

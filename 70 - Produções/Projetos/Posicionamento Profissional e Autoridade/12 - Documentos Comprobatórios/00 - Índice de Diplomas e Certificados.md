@@ -66,7 +66,7 @@ O arquivo integral de certificados e diplomas permanece na Biblioteca e/ou no ac
 
 - CRP 06/98630 — registro profissional.
 - Graduação em Psicologia: diploma da Universidade São Marcos localizado; conclusão em 04/02/2010 e expedição em 14/09/2010; CRP 06/98630 registrado separadamente.
-- Pós-graduação em Psicologia Transpessoal: declarada, certificado ainda não anexado.
+- Pós-graduação em Psicologia Transpessoal: conclusão, entrega do TCC e emissão do certificado confirmadas por Fabiano; certificado físico atualmente indisponível e instituição encerrada. A formação integra o currículo sem instituição.
 - Pós-graduação em Neurociências e Comportamento pela PUCRS: certificado localizado no PDF, p. 1; conclusão em 25/03/2026.
 - Trabalho final da graduação: O normal e o patológico nas vivências espirituais: explorações psicanalíticas e transpessoais, p. 70.
 
@@ -92,7 +92,7 @@ O arquivo integral de certificados e diplomas permanece na Biblioteca e/ou no ac
 
 - Psicanálise Integrativa, p. 104.
 - Transpsicanálise e cursos de neurociência/biologia mental, p. 102–103 e 106.
-- PNL: Practitioner e Master Practitioner, p. 99 e 101; emissor da SBPNL a confirmar.
+- PNL: Practitioner e Master Practitioner pelo Trivium, p. 99 e 101; Practitioner anterior na SBPNL confirmado por Fabiano como formação distinta.
 - Constelações, meditação, radiestesia, Reiki e outros repertórios históricos, páginas listadas na auditoria.
 
 ## Docência e instituição
@@ -105,8 +105,8 @@ O arquivo integral de certificados e diplomas permanece na Biblioteca e/ou no ac
 
 - **Documentado:** o documento foi disponibilizado e os dados centrais estão legíveis.
 - **Documentado em parte:** há documento contextual ou módulo, mas falta diploma, conclusão integral ou denominação completa.
-- **Declarado:** informação fornecida pelo autor sem documento correspondente nesta etapa.
-- **Pendente:** falta confirmação, legibilidade ou documento.
+- **Confirmado por fonte autobiográfica:** informação fornecida ou corrigida pelo autor; válida para currículo e comunicação pública.
+- **Questão documental específica:** falta apenas literalidade, legibilidade ou documento que poderá ser exigido em contexto concreto; não invalida a informação autobiográfica.
 - **Histórico:** registro relevante para a trajetória, mas não deve ser lido como qualificação atual.
 - **Uso contextual:** só deve aparecer quando a finalidade da peça torna a formação pertinente.
 
@@ -153,3 +153,8 @@ O arquivo integral de certificados e diplomas permanece na Biblioteca e/ou no ac
 ## Avaliação curricular atualizada
 
 - [[16 - Reavaliação Curricular Após Novos Certificados 2026]] — reavaliação estratégica após a auditoria dos novos certificados e integração com o currículo-mestre.
+
+
+## Normalização de governança — 21/08/2026
+
+Este índice descreve documentos disponíveis; não delimita sozinho a biografia profissional. Informações confirmadas por Fabiano complementam o arquivo com igual validade curricular, mantendo-se identificada a natureza da fonte. Centralma atual, CRP regular, Psicologia Transpessoal, duas formações em Psicanálise e Practitioner anterior na SBPNL não são pendências de validação por IA.

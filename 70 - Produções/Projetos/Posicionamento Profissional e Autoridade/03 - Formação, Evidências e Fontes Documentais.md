@@ -1,188 +1,91 @@
 ---
 id: AUT-03
 titulo: Formação, Evidências e Fontes Documentais
-tipo: matriz-de-evidencias
-status: ativo
+tipo: matriz-de-fontes
+status: normalizado
 projeto: Posicionamento Profissional e Autoridade Autoral
 data: 2026-08-21
 autor: Fabiano Deliberalli
 tags:
   - documentos
-  - comprovação
-  - formação
   - fontes
+  - formação
+  - autobiografia
+  - governança
 ---
 
-# Classes de informação
+# Função desta nota
 
-- **DOCUMENTADO:** há documento apresentado nesta base ou registro institucional diretamente verificável.
-- **DECLARADO:** informação fornecida por Fabiano e coerente com currículos históricos, mas sem documento anexado nesta etapa.
-- **DERIVADO:** interpretação estratégica construída a partir dos fatos; não deve ser confundida com qualificação formal.
-- **PENDENTE:** falta data, certificado, denominação literal ou confirmação institucional.
+Esta nota registra a natureza das fontes utilizadas no currículo. Ela não delega à IA a competência para validar ou invalidar a trajetória profissional de Fabiano. O autor é fonte primária de sua biografia; diplomas, certificados, registros e documentos institucionais complementam o arquivo, fixam literalidade e atendem a exigências externas específicas.
+
+# Estados normalizados
+
+- **CONFIRMADO — FONTE AUTOBIOGRÁFICA:** informação atual fornecida ou corrigida por Fabiano. É válida para currículo e comunicação pública.
+- **CONFIRMADO — FONTE DOCUMENTAL:** há diploma, certificado, registro ou documento disponível no acervo.
+- **CONFIRMADO — FONTES COMBINADAS:** informação autobiográfica apoiada por documentos totais ou parciais.
+- **FORMULAÇÃO PÚBLICA CANÔNICA:** redação aprovada para uso público; deriva das fontes, mas não é uma nova credencial.
+- **QUESTÃO DE PRECISÃO OU USO ESPECÍFICO:** falta apenas literalidade, data ou documento que poderá ser solicitado por terceiro em contexto determinado. Não invalida o dado biográfico.
+- **HISTÓRICO:** versão anterior preservada no Git, mas não vigente.
+
+> A ausência atual de um certificado físico não deve ser convertida automaticamente em “pendência” nem em bloqueio de publicação. Se uma universidade, conselho, contratante ou outra instituição exigir comprovação formal específica, Fabiano decidirá como atender àquela exigência.
 
 # Matriz principal
 
-| Informação | Estado | Base disponível | Regra de uso |
+| Informação | Estado normalizado | Base disponível | Regra de uso |
 |---|---|---|---|
-| Psicólogo, CRP 06/98630 | DOCUMENTADO/CONFIRMADO | `escaner CRP.pdf` e confirmação direta | Incluir em publicidade profissional |
-| Graduação em Psicologia, Universidade São Marcos, conclusão em 04/02/2010/diploma expedido em 14/09/2010 | DECLARADO, com evidência contextual | declaração de Fabiano e trabalho acadêmico de 2007 | Pode constar publicamente; obter segunda via do diploma para arquivo |
-| Pós-graduação em Psicologia Transpessoal | DECLARADO, certificado e instituição a confirmar | `Monografia Pós Transpessoal.doc` | Usar sem instituição até conferir o certificado |
-| Pós-graduação em Neurociências e Comportamento, PUCRS, 2026 | DOCUMENTADO — certificado institucional localizado | [[12 - Documentos Comprobatórios/17 - PUCRS - Certificado Pós-Graduação Neurociências e Comportamento 2026]] e certificados e diplomas.pdf, p. 1 | Pode constar como especialização/pós-graduação concluída; histórico pode complementar o currículo acadêmico |
-| Curso de Neurobiologia Interpessoal, 16–17/10/2021, 16 h | DOCUMENTADO | certificado anexado; Biblioteca `libfile_1212471b56bc8191afa27090fbfc332b` | Pode constar no currículo ampliado, em bio de palestrante e no eixo relacional/trauma |
-| Curso *Navigating the Nervous System: A Polyvagal Approach to Clinical Work* com Deb Dana, setembro de 2023 | DOCUMENTADO | certificado localizado; 12h; Library `libfile_b1a41d7bd4748191a48a8771c60a2bc5` | Formação continuada no eixo trauma/regulação; não converter em pós-graduação ou título |
-| TCC da PUCRS | DOCUMENTADO; nota 9,5 e parecer favorável registrados | `TCC Fabiano Deliberalli 1.pdf` e [[12 - Documentos Comprobatórios/16 - PUCRS - TCC Nota 9,5 e Parecer 2026]] | Usar título, nota e avaliação; transformar em artigo |
-| Técnico em Reabilitação — Massagista, EOMA, 1995, 1.440 h | DOCUMENTADO | diploma frente e verso | Usar na trajetória ampliada |
-| Acupuntura Tradicional Chinesa, CEMETRAC, 2002–2004, 1.200 h | DOCUMENTADO | certificado | Usar em currículo ampliado e trajetória corporal |
-| Formação continuada internacional em *Acupuntura Bioenergética y Moxibustión* — CEMETC, 2014–2016 | DOCUMENTADA; níveis 1, 2 e 3, certificados gerais de 360h/14,4 ECTS e programas detalhados localizados | matrículas, certificados e imagens CEMETC desta atualização; [[12 - Documentos Comprobatórios/18 - CEMETC - Venia Docente e Acupuntura Bioenergética 2014-2016]] | Usar “formação continuada internacional pelo CEMETC”; não converter em título acadêmico brasileiro nem somar cargas sem excluir sobreposição |
-| *Venia Docente* do CEMETC | DOCUMENTADA; denominação literal, emissão em 08/11/2014 e validade impressa até 08/11/2017 | [[12 - Documentos Comprobatórios/18 - CEMETC - Venia Docente e Acupuntura Bioenergética 2014-2016]] | Usar em tempo passado como credencial docente histórica para programas de formação em Acupuntura Bioenergética |
-| Formação em Psicanálise Integrativa | DOCUMENTADO EM PARTE E DECLARADO | certificados e diplomas.pdf, p. 104; segunda formação ainda sem documento próprio | Usar “formação em Psicanálise Integrativa” na mini bio; detalhar duas formações somente após organizar ambos os documentos |
-| EMDR e Brainspotting | DOCUMENTADO | certificados e diplomas.pdf, p. 2–3, 12, 21–24, 30, 32, 52, 57, 59, 62, 65–66 | Pode constar no currículo ampliado; distinguir certificações históricas com validade encerrada de formação continuada |
-| Programa ALECES 2020–2023 | DOCUMENTADO | certificado de 216h, Níveis I, II e III, Modelo Aleceia; Library `libfile_c89f16c43c64819190d9c11462a312e3` | Formação continuada em psicoterapia integradora e reprocessamento do trauma |
-| Supervisões mensais com Mário Salvador | DECLARADO, ATUAL | relato direto | Pode constar como formação continuada/supervisão |
-| Imersões 2025 e 2026 com Mário Salvador | DECLARADO | relato direto | Registrar datas e certificados, se houver |
-| Estudo em Brasília com Mário Salvador, provável 2018 | PENDENTE | memória do autor | Não publicar o ano até confirmar |
-| Formação em PNL, incluindo Practitioner e Master Practitioner | DOCUMENTADO; emissor/SBPNL a confirmar | certificados e diplomas.pdf, p. 99 e 101 | Usar “formação em PNL” até confirmar a atribuição institucional à SBPNL |
-| Formações em hipnose | DECLARADO E REGISTRADO EM CURRÍCULOS | currículos históricos | Organizar certificados e denominações |
-| Reiki Master e docência em Reiki | DECLARADO | currículos e relato | Usar como linhagem histórica em versão ampliada |
-| Fundador do Bioquantum/Centralma e atuação até 2020 | DOCUMENTADO HISTORICAMENTE | licença sanitária em certificados e diplomas.pdf, p. 83; situação atual ainda não verificada | Usar como experiência histórica; não afirmar funcionamento ou função atual |
-| *Além das Fronteiras do Saber*, cinco edições | DECLARADO | relato e materiais de aula existentes | Usar em bio docente e currículo de palestrante |
-| Aula convidada na PUC-SP | DOCUMENTADO | certificados e diplomas.pdf, p. 8; 01/10/2002 | Usar no currículo completo como aula/palestra convidada; não sugerir vínculo docente regular |
-| Palestras em empresas | DECLARADO | currículos históricos | Levantar instituições, temas e datas |
-| Workshop ABBSP, 07/03/2026 | DOCUMENTADO | certificado ABBSP | Usar em bio de palestrante e CEEP |
-| Palestra IGM, agosto de 2026 | DOCUMENTADO POR ATIVOS DO PROJETO | apresentação e materiais do evento | Usar em bio de mídia/palestrante |
+| Psicólogo clínico e psicoterapeuta — CRP 06/98630 | CONFIRMADO — fontes combinadas | registro arquivado e confirmação atual de Fabiano de que o CRP está pago, ativo e regular | usar nos contextos profissionais pertinentes; não criar tarefa de emissão de certidão sem demanda externa concreta |
+| Graduação em Psicologia — Universidade São Marcos; conclusão em 04/02/2010; diploma expedido em 14/09/2010 | CONFIRMADO — fonte documental | [[12 - Documentos Comprobatórios/15 - Universidade São Marcos - Diploma de Psicologia 2010]] | formação acadêmica principal; atuação como psicólogo desde 2010 |
+| Pós-graduação em Psicologia Transpessoal | CONFIRMADO — fonte autobiográfica e produção acadêmica arquivada | Fabiano confirma conclusão, entrega do TCC e emissão do certificado; monografia disponível; certificado físico atualmente inacessível e instituição encerrada | usar “pós-graduado em Psicologia Transpessoal” no currículo e nas bios; não identificar instituição enquanto não houver decisão do autor |
+| Pós-graduação em Neurociências e Comportamento — PUCRS, 2026 | CONFIRMADO — fonte documental | [[12 - Documentos Comprobatórios/17 - PUCRS - Certificado Pós-Graduação Neurociências e Comportamento 2026]] | pode constar como especialização/pós-graduação concluída |
+| TCC PUCRS, nota 9,5 | CONFIRMADO — fonte documental | [[12 - Documentos Comprobatórios/16 - PUCRS - TCC Nota 9,5 e Parecer 2026]] | usar no currículo acadêmico e como base do artigo derivado |
+| Duas formações em Psicanálise Integrativa | CONFIRMADO — fontes combinadas | confirmação de Fabiano; certificado de uma formação; cursos e workshops da Transpsicanálise no vault | registrar uma formação na SBPI, com Maria de Fátima Mora, e outra no Instituto Brasileiro de Transpsicanálise, com André Keppe como professor principal |
+| Curso com Deb Dana, setembro de 2023, 12h | CONFIRMADO — fonte documental | [[12 - Documentos Comprobatórios/09 - Deb Dana - Certificado Navigating Nervous System 2023]] | formação continuada em trauma/regulação; o certificado não informa o formato |
+| Neurobiologia Interpessoal com Daniel Siegel, 16h, 2021 | CONFIRMADO — fonte documental | [[12 - Documentos Comprobatórios/08 - Daniel Siegel - Certificado Neurobiologia Interpessoal 2021]] | currículo ampliado, CEEP e contextos de trauma/relação |
+| Programa Aleces 2020–2023, 216h | CONFIRMADO — fonte documental | [[12 - Documentos Comprobatórios/20 - Novos Registros Documentais - ALECES e Deb Dana 2023]] | formação continuada em trauma e reprocessamento; o certificado de 90h é componente do total |
+| Supervisão mensal com Mário Salvador em 2026 | CONFIRMADO — fonte autobiográfica atual | informação direta de Fabiano | usar como supervisão/formação continuada, separada da carga horária dos cursos |
+| Imersões com Mário Salvador em 2025 e 2026 | CONFIRMADO — fonte autobiográfica | informação direta de Fabiano | pode constar quando pertinente; datas detalhadas só quando necessárias |
+| EMDR e Brainspotting | CONFIRMADO — fonte documental | auditoria do PDF, dossiê clínico e certificados correspondentes | usar “formação em EMDR e Brainspotting”; reservar “certificação vigente” para peça que realmente exija esse estatuto atual |
+| Hipnose e Mirroring Hands | CONFIRMADO — fontes combinadas | certificados do PDF e currículos históricos | usar como formação clínica complementar |
+| Practitioner em PNL pela SBPNL, anterior ao Trivium | CONFIRMADO — fonte autobiográfica | confirmação direta de Fabiano; certificado físico não localizado | pode constar em currículo formal detalhado; não confundir com os cursos posteriores do Trivium |
+| Practitioner em PNL, 112h, e Master Practitioner, 80h, pelo Trivium, em 2001 | CONFIRMADO — fonte documental | auditoria do PDF, p. 99 e 101 | usar em currículo ampliado; na bio geral, sintetizar como “formação em PNL” |
+| Técnico em Reabilitação — Massagista, EOMA, 1995, 1.440h | CONFIRMADO — fonte documental | diploma frente e verso | genealogia corporal |
+| Acupuntura Tradicional Chinesa — CEMETRAC, 2002–2004, 1.200h | CONFIRMADO — fonte documental | certificado arquivado | currículo ampliado e trajetória corporal |
+| Formação continuada internacional em Acupuntura Bioenergética e Moxibustión — CEMETC | CONFIRMADO — fonte documental | níveis 1–3, certificados gerais, programas e [[12 - Documentos Comprobatórios/18 - CEMETC - Venia Docente e Acupuntura Bioenergética 2014-2016]] | usar como formação continuada internacional, sem equivalência automática a título acadêmico brasileiro |
+| *Venia Docente* CEMETC, 2014 | CONFIRMADO — fonte documental histórica | documento emitido em 08/11/2014, validade impressa até 08/11/2017 | usar no passado como credencial docente histórica |
+| Fundação e atuação histórica Bioquantum/Centralma | CONFIRMADO — fontes combinadas | licença sanitária de 2019 e informação autobiográfica | usar como experiência clínica, institucional e de organização de cursos |
+| Centralma atual | CONFIRMADO — fonte autobiográfica atual | Fabiano informa que a empresa está registrada, aberta e operante e que emite as notas fiscais dos pacientes | apresentar como empresa atual e continuidade da clínica exclusivamente on-line; não afirmar continuidade do espaço presencial |
+| Aula convidada na PUC-SP, 01/10/2002 | CONFIRMADO — fonte documental | certificado institucional, p. 8 | descrever como aula/palestra convidada, sem vínculo docente regular |
+| *Além das Fronteiras do Saber*, cinco edições | CONFIRMADO — fonte autobiográfica e ativos do projeto | relato e materiais arquivados | bio docente e currículo de palestrante |
+| Workshop ABBSP, 07/03/2026 | CONFIRMADO — fonte documental | certificado ABBSP | bio CEEP e palestrante |
+| Palestra IGM, agosto de 2026 | CONFIRMADO — ativos do projeto | apresentação e materiais do evento | bio de mídia e palestrante |
 
-# Inventário dos arquivos fornecidos
+# Inventário documental
 
-## Currículos e textos próprios
+O inventário detalhado permanece em:
 
-- `Curriculum Fabiano - 2026.docx` — Biblioteca `libfile_ca3b362d9b0481918b96c4a62bc252a8`.
-- `CURRICULUM FABIANO atualizado.doc` — Biblioteca `libfile_21cf005b902c8191a9de922626d0bc32`.
-- `Monografia Pós Transpessoal.doc` — Biblioteca `libfile_e8c3545ef5f881918eb7b18ca0229890`.
-- `UNIVERSIDADE SÃO MARCOS.docm` — Biblioteca `libfile_7601d5afe40c8191be5a6a51d5fe284b`; trata-se de trabalho acadêmico de 2007, não de diploma.
-- `TCC Fabiano Deliberalli 1.pdf` — fonte registrada em contexto anterior; identificador persistente a resolver.
+- [[12 - Documentos Comprobatórios/00 - Índice de Diplomas e Certificados]];
+- [[12 - Documentos Comprobatórios/10 - Auditoria PDF Certificados e Diplomas 2026]];
+- [[12 - Documentos Comprobatórios/11 - Dossiê Clínico e Trauma - Certificados PDF 2010-2022]];
+- [[12 - Documentos Comprobatórios/12 - Dossiê MTC Qi Gong e Corpo - Certificados PDF 1995-2018]];
+- [[12 - Documentos Comprobatórios/13 - Dossiê Psicanálise PNL Hipnose e Consciência - Certificados PDF 1998-2022]];
+- [[12 - Documentos Comprobatórios/14 - Dossiê Institucional Docência Centralma PUC-SP e Formação 2002-2026]];
+- [[12 - Documentos Comprobatórios/19 - Auditoria Página a Página - Certificados e Diplomas 2026]].
 
-## Registro profissional
+Os dossiês documentais descrevem o que cada arquivo mostra. Esta matriz acrescenta as informações autobiográficas oficiais necessárias à leitura curricular completa.
 
-- `escaner CRP.pdf` — Biblioteca `libfile_b1eda2ba024081919cffb92bd8ceb20f`.
+# Política de preservação e atualização
 
-## Formação corporal e MTC
+1. Correções atuais de Fabiano prevalecem sobre classificações anteriores produzidas por IA.
+2. Documento novo deve ser incorporado ao inventário, sem rebaixar informações autobiográficas já confirmadas.
+3. Currículos históricos permanecem no Git, marcados como históricos quando divergirem da fonte atual.
+4. Só registrar questão operacional quando ela mudar uma tarefa concreta.
+5. Não exigir certificado, certidão ou consulta externa sem finalidade definida.
+6. Não transformar documento de curso em prova científica, título acadêmico ou habilitação de escopo diferente.
+7. Não somar cargas horárias potencialmente sobrepostas.
+8. Não confundir vigência administrativa com existência histórica de uma formação.
 
-- `certificado EOMA.jpg` — Biblioteca `libfile_d3986b5f136c819189900cbd021eb478`.
-- `certificado EOMA verso.jpg` — Biblioteca `libfile_17205ab094bc81918e3009aae859dbf6`.
-- `certificado CEMETRAC.jpg` — Biblioteca `libfile_bd99672597b48191a03131ae3be6c50b`.
-- `matricula 1.jpg` — Biblioteca `libfile_d31978658d8881918dd4d522e4d15f74`.
-- `matricula 2.jpg` — Biblioteca `libfile_a5edab120d8c81919e12821b0dfd247a`.
-- `matricula 3.jpg` — Biblioteca `libfile_f2193e3cb3b4819190078a4580333a72`.
-- `Bioenergética Hoja matricula BECA B.pdf` — Biblioteca `libfile_0fc79d2a7ed8819196559baffd12fe2f`.
+# Formulação pública canônica derivada
 
-## Docência e palestras
+> **Corpo, trauma, consciência e espiritualidade na compreensão e tradução da experiência humana.**
 
-- `ABBSP CERTIFICADO PALESTRANTE WORKSHOP FABIANO DELIBERALLI.pdf` — Biblioteca `libfile_ecf4b0a6cf54819199c688b331003911`.
-- `certificado Neurobiologia Interpressoal Siegel.pdf` — Biblioteca `libfile_1212471b56bc8191afa27090fbfc332b`.
-
-# Conteúdo documental relevante recuperado
-
-## EOMA
-
-- conclusão em 14/07/1995;
-- Curso de Qualificação Profissional IV de Reabilitação com habilitação afim em Massagista;
-- título indicado: Técnico em Reabilitação — modalidade Massagista;
-- carga total: 1.440 horas, incluindo 162 horas de estágio.
-
-## CEMETRAC
-
-- Curso de Acupuntura Tradicional Chinesa;
-- 16/03/2002 a 29/02/2004;
-- 1.200 horas.
-
-## Programa internacional
-
-- denominação literal na matrícula: *Máster Acupuntura Bioenergética y Moxibustión*;
-- ano acadêmico 2014–2015;
-- instituição impressa: Fundación Europea de Medicina Tradicional China;
-- a matrícula, por si só, não comprova conclusão nem a *Venia Docente*.
-
-## ABBSP
-
-- workshop on-line em 07/03/2026;
-- tema literal: *Autorregulação e Presença Clínica em Processos Espirituais e Estados Ampliados da Consciência*;
-- certificado emitido para Fabiano como ministrante.
-
-## Neurobiologia Interpessoal
-
-- Curso literal no certificado: *Curso Neurobiologia Interpessoal — Como tornar a psicoterapia mais efetiva*.
-- Realização: webconferência nos dias 16 e 17 de outubro de 2021.
-- Carga horária: 16 horas.
-- Documento emitido para Fabiano Deliberalli, com assinatura de Daniel Siegel.
-- Natureza: certificado de participação em curso; não é diploma de graduação ou pós-graduação.
-
-## Teoria Polivagal aplicada à prática clínica
-
-- Certificado localizado: curso *Navigating the Nervous System: A Polyvagal Approach to Clinical Work*, 12h, Brazil, September 2023. O formato não consta no certificado; a referência anterior a 2024 foi corrigida.
-- Certificado perdido; não foram preenchidos instituição, carga horária, data exata ou denominação institucional além da formulação informada.
-- Natureza atual do registro: formação declarada, pendente de comprovação documental.
-
-# Política de preservação
-
-Os arquivos integrais permanecem na Biblioteca ou no acervo pessoal. O vault preserva identificação, conteúdo factual necessário, função e status de comprovação. Quando um novo documento for obtido, atualizar esta matriz antes de alterar versões públicas.
-
-O inventário detalhado de diplomas, certificados, registros profissionais, matrículas e documentos acadêmicos relacionados está em [[12 - Documentos Comprobatórios/00 - Índice de Diplomas e Certificados]].
-
-# Atualização documental — PDF de 117 páginas
-
-O inventário completo está em [[12 - Documentos Comprobatórios/10 - Auditoria PDF Certificados e Diplomas 2026]]. Os dossiês por eixo estão em:
-
-- [[11 - Dossiê Clínico e Trauma - Certificados PDF 2010-2022]];
-- [[12 - Dossiê MTC Qi Gong e Corpo - Certificados PDF 1995-2018]];
-- [[13 - Dossiê Psicanálise PNL Hipnose e Consciência - Certificados PDF 1998-2022]];
-- [[14 - Dossiê Institucional Docência Centralma PUC-SP e Formação 2002-2026]].
-
-## Fonte nova
-
-- certificados e diplomas.pdf — Biblioteca libfile_8005a060ddbc81919f556da425e8e265.
-- 117 páginas auditadas.
-- O PDF confirma a conclusão da pós-graduação PUCRS, documenta formações clínicas e amplia a comprovação da genealogia corporal/MTC e da docência histórica.
-
-
-## Correção de controle documental — Psicologia Transpessoal
-
-A instituição da pós-graduação em Psicologia Transpessoal não deve ser exibida em versões públicas até conferência do certificado. A referência ao Instituto Humanitatis não corresponde à formação de Fabiano. A versão consolidada usa apenas “pós-graduação em Psicologia Transpessoal”; referências institucionais anteriores permanecem como dados a verificar, não como fato pronto para publicação.
-
-
-## Atualização documental — TCC PUCRS, nota 9,5
-
-As imagens institucionais de 21/08/2026 registram orientação finalizada, envio do TCC final e nota 9,5. O parecer de Fernanda Bordignon Nunes, datado de 11/02/2026, destaca relevância científica, delimitação, coerência dos objetivos e fundamentação atualizada. Registro detalhado em [[12 - Documentos Comprobatórios/16 - PUCRS - TCC Nota 9,5 e Parecer 2026]].
-
-
-## Atualização documental — certificado PUCRS localizado
-
-O certificado institucional registra a conclusão da Especialização em Neurociências e Comportamento, em Porto Alegre, em 25/03/2026. Registro: [[12 - Documentos Comprobatórios/17 - PUCRS - Certificado Pós-Graduação Neurociências e Comportamento 2026]].
-
-## Complemento documental — CEMETC/Venia Docente
-
-A documentação visualizada nesta atualização confirma a denominação literal *Venia Docente*, o escopo de autorização para ministrar programas do CEMETC, a emissão em Valladolid em 08/11/2014 e a validade impressa até 08/11/2017. Também confirma certificados de 1º, 2º e 3º níveis de Acupuntura Bioenergética e Moxibustión e certificados gerais de 360 horas/14,4 ECTS. Ver [[12 - Documentos Comprobatórios/18 - CEMETC - Venia Docente e Acupuntura Bioenergética 2014-2016]].
-
-
-## Complemento documental — revisão página a página
-
-A auditoria integral [[12 - Documentos Comprobatórios/19 - Auditoria Página a Página - Certificados e Diplomas 2026]] amplia a matriz com:
-
-- formação em Qi Gong de 96h e demais certificados de Qi Gong/Tai Chi;
-- *Health Qigong Technical Degree Certificate* de 1 Duan e Liu Zi Jue, preservando as limitações expressas nos documentos;
-- módulos Long Tao/Heiwa/CEMETC e seminários de Acupuntura Bioenergética;
-- USI: 120h, 252h e módulos de constelações de 2016–2017;
-- EMDR de 2010, cursos de trauma e Atualizações em Neurobiologia Interpessoal;
-- EOMA: fitoterapia, alinhamento postural, drenagem, manipulações e reflexologia;
-- Pró-Salus: Auriculoterapia de 48h e Semiologia/Propedêutica da MTC de 143h;
-- Psicanálise Integrativa de 23/07/2002, corrigindo a data anterior;
-- Reiki, Karuna Reiki, Karuna Ki–Tera Mai e demais registros históricos de consciência.
-
-A regra documental é preservar cada marco, não somar duplicatas e não usar validade administrativa encerrada para negar a existência histórica da formação.
-
-
-## Registros complementares incorporados em 21/08/2026
-
-- [[12 - Documentos Comprobatórios/20 - Novos Registros Documentais - ALECES e Deb Dana 2023]].
-- Instituto Aleces: 216h, Níveis I, II e III, 2020-2023.
-- Instituto Aleces: Nível II, 90h, 2021-2022, como componente do total.
-- Deb Dana: 12h, setembro de 2023.
+> Fabiano Deliberalli é psicólogo clínico e psicoterapeuta. Seu trabalho articula corpo, trauma, consciência e espiritualidade para compreender, traduzir e favorecer a integração de experiências humanas complexas, com rigor clínico, abertura e discernimento.

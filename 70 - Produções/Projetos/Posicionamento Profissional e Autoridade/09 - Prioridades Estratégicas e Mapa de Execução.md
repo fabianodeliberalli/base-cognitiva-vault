@@ -2,9 +2,9 @@
 id: AUT-09
 titulo: Prioridades Estratégicas e Mapa de Execução
 tipo: roadmap
-status: pronto-para-execucao
+status: fases-0-e-1-consolidadas
 projeto: Posicionamento Profissional e Autoridade Autoral
-data: 2026-08-15
+data: 2026-08-21
 autor: Fabiano Deliberalli
 tags:
   - prioridades
@@ -49,6 +49,8 @@ Critério de conclusão:
 
 > É possível olhar qualquer conteúdo ou oferta e identificar imediatamente sua finalidade, público, promessa e limite.
 
+**Estado em 21/08/2026:** concluído e governado por [[08 - Matriz de Uso por Contexto e Fronteiras]] e [[10 - Pendências, Comprovações e Governança]].
+
 ## Fase 1 — Identidade e legibilidade
 
 **Prioridades 1 e 2.** Consolidar posicionamento e currículos contextuais.
@@ -70,6 +72,8 @@ Entregáveis:
 Critério de conclusão:
 
 > Todas as versões parecem expressões da mesma pessoa e cada uma responde ao contexto sem omissões enganosas ou excesso de informação.
+
+**Estado em 21/08/2026:** núcleo concluído. A assinatura pública canônica e as bios por contexto estão em [[05 - Versões Públicas de Bio e Currículo]]; a aplicação ao site está em [[17 - Reestruturação do Site/00 - Estado, Decisões e Continuidade]].
 
 ## Fase 2 — Infraestrutura de credibilidade
 
@@ -214,11 +218,11 @@ Documentação educacional (8) ← Pipeline CEEP (9)
 
 ## Primeiros 30 dias
 
-- fechar fronteiras;
-- escolher frase de posicionamento;
-- aprovar bios e currículos;
-- iniciar matriz documental;
-- definir três pilares editoriais.
+- manter as fronteiras consolidadas;
+- aplicar a frase canônica ao site e aos perfis;
+- implementar as bios contextuais;
+- avançar na infraestrutura de credibilidade;
+- preparar o piloto dos três pilares editoriais.
 
 ## 31–90 dias
 
@@ -271,3 +275,11 @@ Documentação educacional (8) ← Pipeline CEEP (9)
 
 Uma nova formação só deve entrar como prioridade quando preencher uma lacuna estratégica real que não possa ser resolvida por publicação, parceria, supervisão, prática ou organização do acervo existente.
 
+
+
+# Checkpoint de 21/08/2026
+
+- **Fase 0:** concluída — regimes de clínica, CEEP, curso, mídia e academia diferenciados.
+- **Fase 1:** núcleo concluído — identidade, formulação temporal, assinatura canônica, bios e currículo-mestre normalizados.
+- **Site:** arquitetura e dossiê operacional atualizados; execução técnica deve ocorrer em homologação.
+- **Próxima dependência:** aplicar as formulações canônicas ao site e perfis e iniciar Lattes, ORCID, bibliografia pública e presença editorial.

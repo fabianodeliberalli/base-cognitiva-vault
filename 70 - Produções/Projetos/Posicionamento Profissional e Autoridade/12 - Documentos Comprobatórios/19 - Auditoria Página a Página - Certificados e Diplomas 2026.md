@@ -153,7 +153,7 @@ Assim, o currículo não precisa carregar notas defensivas sobre todos os certif
 | 80 | CEMETC — certificado geral de Acupuntura Bioenergética y Moxibustión, 360h/14,4 ECTS, emitido no Rio de Janeiro, 16/11/2014. | E3 | **Documentado.** Formação continuada; não somar automaticamente à p. 72. |
 | 81 | Associação Brasileira de Qigong para Saúde — Sistema Energético Humano, funções dos canais energéticos e aplicações, 48h em quatro módulos, concluído em 07/12/2014. | E3 | **Documentado.** Curso de Qi Gong/MTC; não confundir com formação em Psicologia. |
 | 82 | EMDR/Iberoamérica — certificado histórico de terapeuta certificado, com validade impressa até 10/04/2018. | E2 | **Marco histórico.** Não usar como certificação vigente sem confirmação atual. |
-| 83 | Prefeitura de São Paulo/Vigilância Sanitária — licença histórica do Centralma EIRELI/Núcleo de Terapias Bioquantum, 2019; Fabiano indicado como responsável legal/técnico. | E7 | **Documento institucional histórico.** Não comprova situação cadastral atual. |
+| 83 | Prefeitura de São Paulo/Vigilância Sanitária — licença histórica do Centralma EIRELI/Núcleo de Terapias Bioquantum, 2019; Fabiano indicado como responsável legal/técnico. | E7 | **Documento institucional histórico.** A continuidade atual da Centralma como empresa operante e eixo da clínica on-line é confirmada separadamente por Fabiano. |
 | 84 | Mirroring Hands — Essential Practice & Practitioner, 12h, 07–08/12/2019, com Richard Hill. | E2/E4 | **Documentado.** Formação complementar. |
 | 85 | PCH — Professional & Clinical Hypnosis, módulos B4–B8, 70h, 09–15/07/2022, São Paulo. | E4 | **Documentado.** Formação em hipnose clínica. |
 | 86 | Apometria Quântica — A Tecnologia do Espírito, com Carina Greco. | E6 | **Documentado como participação histórica.** Uso interno/contextual. |
@@ -169,7 +169,7 @@ Assim, o currículo não precisa carregar notas defensivas sobre todos os certif
 | 96 | EOMA — Nós de Fitoterapia, 6h, São Paulo, 10/05/1994. | E3 | **Documentado.** Curso breve de formação corporal/integrativa. |
 | 97 | EOMA — diploma de Técnico em Reabilitação, modalidade Massagista; conclusão em 1995, emissão em 14/07/1995, 1.440h incluindo 162h de estágio. | E3 | **Diploma documentado.** Um dos marcos estruturantes da trajetória. |
 | 98 | Psicanálise Integrativa Clínica Escola — Radiestesia básico, 15h/aula, com Antonio Rodrigues, São Paulo, 13/09/1998. | E6 | **Documentado.** O cabeçalho da instituição não deve ser interpretado como segunda formação em Psicanálise. |
-| 99 | Trivium — Master Practitioner em PNL, 80h, São Paulo, março–maio de 2001. | E4 | **Documentado.** Usar “Master Practitioner em PNL pelo Trivium” se essa identificação permanecer legível; não atribuir SBPNL sem fonte específica. |
+| 99 | Trivium — Master Practitioner em PNL, 80h, São Paulo, março–maio de 2001. | E4 | **Documentado.** Usar “Master Practitioner em PNL pelo Trivium”. O Practitioner anterior na SBPNL é formação distinta confirmada por Fabiano. |
 | 100 | Pró-Salus Vitalis — Curso Básico de Auriculoterapia, 48h, 18/02–02/04/2006. | E3 | **Documentado.** Formação em MTC. |
 | 101 | Trivium — Practitioner em PNL, 112h, São Paulo, junho–dezembro de 2001. | E4 | **Documentado.** Formação histórica em comunicação/linguagem. |
 | 102 | Instituto Brasileiro de Transpsicanálise — Neurociência das Funções Mentais, 12h, São Paulo, 02/09/2002. | E1 | **Documentado.** Curso livre complementar. |
@@ -229,17 +229,17 @@ Mini bio derivada:
 
 > Fabiano Deliberalli é psicólogo clínico e psicoterapeuta (CRP 06/98630), com mais de 30 anos de trajetória no cuidado terapêutico e atuação como psicólogo desde 2010. É pós-graduado em Psicologia Transpessoal e em Neurociências e Comportamento pela PUCRS, com formação em Psicanálise Integrativa, EMDR, Brainspotting, hipnose e trauma. Seu trabalho articula corpo, trauma, consciência e espiritualidade, apoiado por uma formação corporal e integrativa iniciada na Medicina Tradicional Chinesa, Qi Gong e práticas de movimento.
 
-# Pendências reais após a auditoria
+# Questões específicas após a auditoria
 
-- recuperar o certificado da pós-graduação em Psicologia Transpessoal e confirmar a denominação institucional;
 - confirmar histórico definitivo da PUCRS, se exigido em contexto acadêmico;
-- confirmar documentação atual de EMDR/Brainspotting se a publicidade usar “certificado vigente”;
-- recuperar o certificado de Deb Dana;
-- confirmar datas e documentos das supervisões/imersões com Mário Salvador;
-- localizar o segundo certificado de Psicanálise Integrativa;
-- confirmar o emissor institucional do Master Practitioner em PNL antes de atribuir SBPNL;
-- obter cópias legíveis das páginas 19, 20, 39, 40, 48, 54, 58, 63, 106 e 114, se esses registros forem necessários em uma versão formal;
-- verificar situação atual do Centralma, caso a instituição seja mencionada no presente;
-- levantar lista nominal de palestras e organizações.
+- confirmar documentação atual de EMDR/Brainspotting somente se a publicidade usar “certificação vigente”;
+- registrar datas detalhadas das supervisões/imersões com Mário Salvador quando necessárias;
+- obter cópias legíveis das páginas 19, 20, 39, 40, 48, 54, 58, 63, 106 e 114 apenas se algum desses registros entrar em versão formal;
+- levantar lista nominal de palestras e organizações para o currículo de palestrante.
 
-Estas pendências não desconstroem o currículo. Elas apenas definem quais informações podem ser publicadas com precisão máxima em cada contexto.
+Foram encerradas como pendências de validação por IA: Psicologia Transpessoal; duas formações em Psicanálise; Practitioner anterior na SBPNL; Deb Dana; CRP; e situação atual da Centralma. Esses dados são confirmados por Fabiano e complementam o inventário documental.
+
+
+# Regra de leitura conjunta — 21/08/2026
+
+A auditoria página a página descreve estritamente o PDF. A fonte curricular consolidada reúne essa camada documental e a fonte autobiográfica oficial. Ausência no PDF não equivale a inexistência biográfica.

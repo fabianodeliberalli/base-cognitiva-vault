@@ -2,7 +2,7 @@
 id: AUT-05
 titulo: Versões Públicas de Bio e Currículo
 tipo: banco-de-versoes-publicas
-status: candidatas-consolidadas
+status: canonico-para-uso-publico
 projeto: Posicionamento Profissional e Autoridade Autoral
 data: 2026-08-21
 autor: Fabiano Deliberalli
@@ -11,146 +11,120 @@ tags:
   - currículo
   - mídia
   - site
+  - canonico
 ---
 
-# Regra de uso
+# Autoridade desta nota
 
-As versões abaixo partem da mesma identidade e variam por finalidade. Não são currículos contraditórios. A versão escolhida deve responder ao que aquele público precisa compreender rapidamente.
+Esta é a fonte vigente para bios, apresentações, perfis e textos institucionais. Quando houver divergência com versões anteriores, prevalecem as formulações marcadas como canônicas nesta nota e o currículo-mestre [[15 - Currículo Profissional Consolidado 2026]].
 
-# Linha de identificação profissional
+# Núcleo público canônico
+
+## Identificação profissional
 
 > **Fabiano Deliberalli — psicólogo clínico e psicoterapeuta — CRP 06/98630.**
 
-# Assinatura curta de posicionamento
+## Formulação temporal
 
-> **Psicologia, corpo e consciência em diálogo para compreender e integrar experiências humanas complexas.**
+> **Mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas, e atuação como psicólogo desde 2010.**
 
-Alternativa mais funcional:
+## Assinatura de posicionamento
 
-> **Corpo, trauma, consciência e espiritualidade na tradução da experiência humana.**
+> **Corpo, trauma, consciência e espiritualidade na compreensão e tradução da experiência humana.**
 
-As duas são candidatas. A decisão final pertence à Prioridade 1 do projeto estratégico.
+## Descrição nuclear em uma frase
 
-# Bio ultracurta — identificação
+> **Fabiano Deliberalli é psicólogo clínico e psicoterapeuta. Seu trabalho articula corpo, trauma, consciência e espiritualidade para compreender, traduzir e favorecer a integração de experiências humanas complexas, com rigor clínico, abertura e discernimento.**
 
-> Fabiano Deliberalli é psicólogo clínico e psicoterapeuta (CRP 06/98630), professor e palestrante. Trabalha na interface entre corpo, trauma, consciência e espiritualidade, com foco na compreensão e integração de experiências humanas complexas.
+## Questão autoral principal
 
-# Mini bio — versão geral
+> **Por que uma pessoa pode compreender seus padrões e ainda assim continuar repetindo-os — e o que permite que uma compreensão se torne capacidade incorporada de responder de outra forma?**
 
-> Fabiano Deliberalli é psicólogo clínico e psicoterapeuta (CRP 06/98630), com mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas, e atuação como psicólogo desde 2010. É pós-graduado em Psicologia Transpessoal e em Neurociências e Comportamento, com formações em Psicanálise Integrativa, EMDR, Brainspotting e hipnose, além de formação continuada em trauma e reprocessamento.
+# Governança das informações curriculares
+
+Informações autobiográficas confirmadas diretamente por Fabiano são válidas para currículo e comunicação pública. Diplomas e certificados disponíveis permanecem como arquivo de apoio, precisão literal e eventual comprovação perante terceiros. A ausência atual de um certificado físico não autoriza uma IA a invalidar uma formação nem a transformá-la automaticamente em “pendência”.
+
+Aplicações específicas:
+
+- a pós-graduação em Psicologia Transpessoal foi concluída, com TCC entregue e certificado emitido; usar a formação sem instituição, pois o certificado físico não está disponível e a instituição encerrou as atividades;
+- as duas formações em Psicanálise Integrativa são válidas: uma na SBPI, com Maria de Fátima Mora, e outra no Instituto Brasileiro de Transpsicanálise, tendo André Keppe como professor principal;
+- houve Practitioner em PNL na SBPNL antes das formações posteriores documentadas no Trivium;
+- a Centralma é a empresa atual, registrada, aberta e operante, ligada aos atendimentos psicológicos exclusivamente on-line;
+- o CRP 06/98630 está pago, ativo e regular, conforme informação atual de Fabiano.
+
+# Bio ultracurta
+
+> Fabiano Deliberalli é psicólogo clínico e psicoterapeuta (CRP 06/98630), professor e palestrante. Seu trabalho articula corpo, trauma, consciência e espiritualidade na compreensão e tradução de experiências humanas complexas.
+
+# Mini bio geral — canônica
+
+> Fabiano Deliberalli é psicólogo clínico e psicoterapeuta (CRP 06/98630), com mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas, e atuação como psicólogo desde 2010. É pós-graduado em Psicologia Transpessoal e em Neurociências e Comportamento pela PUCRS, com formações em Psicanálise Integrativa, EMDR, Brainspotting, hipnose e trauma.
 >
-> Seu trabalho articula corpo, trauma, consciência e espiritualidade para compreender e integrar experiências humanas complexas com rigor clínico, abertura e discernimento. Sua formação continuada inclui Neurobiologia Interpessoal, com Daniel Siegel, e curso documentado de 12 horas sobre uma abordagem polivagal ao trabalho clínico, com Deb Dana, em setembro de 2023. É professor e palestrante em cursos livres e educação continuada e atua no desenvolvimento do CEEP e do projeto *Traduzindo o Ser Humano*.
+> Seu trabalho articula corpo, trauma, consciência e espiritualidade para compreender, traduzir e favorecer a integração de experiências humanas complexas, com rigor clínico, abertura e discernimento. É professor e palestrante em cursos livres e educação continuada e desenvolve o CEEP e o projeto *Traduzindo o Ser Humano*.
 
-# Mini bio — CEEP
+# Bio clínica para o site
 
-> Fabiano Deliberalli é psicólogo clínico e psicoterapeuta (CRP 06/98630), pós-graduado em Psicologia Transpessoal e em Neurociências e Comportamento, com formações em Psicanálise Integrativa, EMDR, Brainspotting e hipnose. Há mais de 30 anos dedica-se ao cuidado terapêutico, articulando experiência corporal, escuta psicológica, trauma, consciência e espiritualidade.
+> Fabiano Deliberalli é psicólogo clínico e psicoterapeuta (CRP 06/98630) e atende exclusivamente on-line. Sua trajetória no cuidado terapêutico começou há mais de 30 anos nas práticas corporais e integrativas; desde 2010, atua como psicólogo.
 >
-> Professor do eixo Consciência no CEEP. Sua formação continuada inclui o programa de 216 horas em Psicoterapia de Integração e Reprocessamento do Trauma, Níveis I, II e III do Modelo Aleceia, pelo Instituto Aleces; o Curso de Neurobiologia Interpessoal, realizado em 2021 com Daniel Siegel; e o curso documentado de 12 horas sobre uma abordagem polivagal ao trabalho clínico, com Deb Dana, em setembro de 2023. Investiga como experiências espirituais, existenciais e estados ampliados de consciência podem ser reconhecidos, diferenciados e integrados sem patologização automática, romantização ou imposição de crenças. Seu trabalho enfatiza fenomenologia, significado, tradução da experiência e discernimento clínico.
+> É pós-graduado em Psicologia Transpessoal e em Neurociências e Comportamento pela PUCRS. Sua formação clínica inclui Psicanálise Integrativa, EMDR, Brainspotting, hipnose, Neurobiologia Interpessoal e formação continuada em trauma e reprocessamento, incluindo o programa de 216 horas do Instituto Aleces e supervisão continuada com Mário Salvador.
+>
+> Seu trabalho acolhe situações em que compreender intelectualmente não foi suficiente para produzir mudança, processos relacionados a trauma e desorganização e experiências espirituais, existenciais ou incomuns que pedem escuta cuidadosa. A proposta é compreender o vivido, seus efeitos e significados, sem reduzir prematuramente a experiência a diagnóstico, crença ou explicação única.
 
-# Bio — mídia e entrevistas
+# Bio CEEP — canônica
 
-> Fabiano Deliberalli é psicólogo clínico, psicoterapeuta, professor e palestrante. Atua há mais de três décadas no cuidado terapêutico e pesquisa as relações entre corpo, trauma, consciência e espiritualidade. Seu trabalho busca traduzir experiências humanas complexas de forma acessível, preservando a realidade do vivido sem transformar hipóteses em certezas.
+> Fabiano Deliberalli é psicólogo clínico e psicoterapeuta (CRP 06/98630), pós-graduado em Psicologia Transpessoal e em Neurociências e Comportamento pela PUCRS. Sua formação reúne Psicanálise Integrativa, EMDR, Brainspotting, hipnose, Neurobiologia Interpessoal e formação continuada em trauma e reprocessamento, incluindo programa de 216 horas pelo Instituto Aleces e supervisão continuada com Mário Salvador.
+>
+> Professor do eixo Consciência no CEEP, dedica-se ao estudo e à tradução de experiências espirituais, existenciais e estados ampliados de consciência, com atenção à fenomenologia, ao significado e ao discernimento clínico. Sua contribuição enfatiza acolher sem patologizar automaticamente, investigar sem endossar interpretações como fatos e diferenciar experiência vivida, interpretação, hipótese, evidência e conclusão.
 
-# Bio — palestrante
+# Bio para mídia e entrevistas
 
-> Fabiano Deliberalli é psicólogo clínico e psicoterapeuta (CRP 06/98630), professor e palestrante, com mais de 30 anos de trajetória no cuidado terapêutico. É pós-graduado em Psicologia Transpessoal e em Neurociências e Comportamento e possui formação continuada em trauma, EMDR, Brainspotting, Psicanálise e hipnose. Ministrou cursos em parceria com Gilda Moura, cocriou *Além das Fronteiras do Saber*, conduziu workshop para a comunidade da ABBSP e palestrou no IGM sobre experiências anômalas. Sua formação continuada inclui Neurobiologia Interpessoal, com Daniel Siegel, e curso documentado de 12 horas sobre uma abordagem polivagal ao trabalho clínico, com Deb Dana, em setembro de 2023. Seus temas centrais são corpo, trauma, consciência, espiritualidade, autorregulação e integração da experiência humana.
+> Fabiano Deliberalli é psicólogo clínico, psicoterapeuta, professor e palestrante. Com mais de 30 anos de trajetória no cuidado terapêutico e atuação como psicólogo desde 2010, dedica-se a estudar e comunicar as relações entre corpo, trauma, consciência e espiritualidade. Seu trabalho busca traduzir experiências humanas complexas de forma acessível, preservando a realidade do vivido sem transformar hipóteses em certezas.
 
-# Bio — contexto acadêmico
+# Bio de palestrante
 
-> Fabiano Deliberalli é psicólogo (CRP 06/98630), pós-graduado em Psicologia Transpessoal e em Neurociências e Comportamento pela PUCRS. Desenvolveu o trabalho *Sincronia Neural Interpessoal e Estados Ampliados de Consciência: uma abordagem neurobiológico-relacional da espiritualidade*. Seus interesses de estudo incluem neurofenomenologia, experiência incorporada, trauma, espiritualidade, sincronia interpessoal e diferenciação clínica de experiências incomuns.
+> Fabiano Deliberalli é psicólogo clínico e psicoterapeuta (CRP 06/98630), professor e palestrante, com mais de 30 anos de trajetória no cuidado terapêutico. É pós-graduado em Psicologia Transpessoal e em Neurociências e Comportamento pela PUCRS, com formação em Psicanálise Integrativa, trauma, EMDR, Brainspotting, hipnose e Neurobiologia Interpessoal. Desenvolve palestras e experiências educacionais sobre corpo, padrões, trauma, consciência, espiritualidade, experiências incomuns e tradução da experiência humana.
 
-Usar “interesses de estudo” enquanto não houver vínculo formal de pesquisa e produção científica suficiente para adotar “pesquisador” como identificação principal.
+# Bio acadêmica
 
-# Apresentação para site — versão ampliada
+> Fabiano Deliberalli é psicólogo (CRP 06/98630), pós-graduado em Psicologia Transpessoal e especialista em Neurociências e Comportamento pela PUCRS. É autor do TCC *Sincronia Neural Interpessoal e Estados Ampliados de Consciência: uma abordagem neurobiológico-relacional da espiritualidade*, aprovado com nota 9,5 em 2026. Seus interesses de estudo incluem neurofenomenologia, experiência incorporada, trauma, espiritualidade, sincronia interpessoal, consciência e diferenciação clínica de experiências incomuns.
+
+Usar “interesses de estudo”, “autor do TCC” e “pós-graduado/especialista” conforme o contexto. Não usar “neurocientista” ou “pesquisador” como identidade principal enquanto essas designações não corresponderem à inserção acadêmica pretendida.
+
+# Apresentação ampliada para a página Sobre
 
 > Fabiano Deliberalli é psicólogo clínico e psicoterapeuta (CRP 06/98630). Sua trajetória no cuidado terapêutico começou há mais de 30 anos, nas práticas corporais e integrativas, e gradualmente incorporou a escuta psicanalítica, a Psicologia, o estudo do trauma, a neurociência e a investigação da consciência.
 >
-> Graduou-se em Psicologia pela Universidade São Marcos e concluiu pós-graduações em Psicologia Transpessoal e em Neurociências e Comportamento. Sua formação clínica inclui Psicanálise Integrativa, EMDR, Brainspotting, hipnose e programa de 216 horas em Psicoterapia de Integração e Reprocessamento do Trauma pelo Instituto Aleces, mantendo supervisão continuada em grupo com Mário Salvador. Também realizou curso de Neurobiologia Interpessoal com Daniel Siegel e realizou curso documentado de 12 horas sobre uma abordagem polivagal ao trabalho clínico, com Deb Dana, em setembro de 2023. O percurso anterior em massoterapia, Medicina Tradicional Chinesa, acupuntura, Qi Gong e práticas de respiração sustenta uma compreensão incorporada da experiência humana e da relação entre corpo, estado interno e significado.
+> Graduou-se em Psicologia pela Universidade São Marcos e concluiu pós-graduações em Psicologia Transpessoal e em Neurociências e Comportamento pela PUCRS. Realizou duas formações em Psicanálise Integrativa — uma na SBPI, com Maria de Fátima Mora, e outra no Instituto Brasileiro de Transpsicanálise, com André Keppe como professor principal. Sua formação clínica inclui EMDR, Brainspotting, hipnose, Neurobiologia Interpessoal e o programa de 216 horas em Psicoterapia de Integração e Reprocessamento do Trauma pelo Instituto Aleces, além de supervisão continuada com Mário Salvador.
 >
-> Em sua prática, dedica-se especialmente a situações em que compreender intelectualmente não foi suficiente para produzir mudança; a processos de trauma e desorganização; e a experiências espirituais, existenciais ou incomuns que exigem escuta cuidadosa e diferenciação. Seu trabalho não parte da necessidade de confirmar ou negar previamente a origem de uma experiência. Procura compreender o que foi vivido, como a pessoa foi afetada, quais significados foram construídos e o que favorece segurança e integração.
+> O percurso anterior em Reabilitação/Massagem, Medicina Tradicional Chinesa, acupuntura, Qi Gong, respiração e movimento sustenta uma compreensão incorporada da experiência humana. A PNL integra a genealogia de estudos sobre comunicação, linguagem, percepção de padrões e mudança: realizou Practitioner na SBPNL e, posteriormente, Practitioner e Master Practitioner no Trivium.
 >
-> Ao longo dos anos, também desenvolveu atividades docentes em cursos livres, palestras e programas de educação continuada. Foi fundador do Bioquantum/Centralma, colaborou com Gilda Moura e cocriou o curso *Além das Fronteiras do Saber*. Em 2026, ministrou workshop para a comunidade da ABBSP, participou do encontro de experienciadores do IGM e passou a integrar o CEEP como professor do eixo Consciência. É também criador do projeto *Traduzindo o Ser Humano*.
+> Fundou o Bioquantum, posteriormente Centralma. As atividades presenciais do espaço foram encerradas em 2020, mas a Centralma permanece como sua empresa atual e como continuidade administrativa da clínica on-line. Ao longo dos anos, desenvolveu cursos livres, palestras e projetos de educação continuada, incluindo colaborações com Gilda Moura, *Além das Fronteiras do Saber*, ABBSP, IGM, CEEP e *Traduzindo o Ser Humano*.
 >
-> Seu campo autoral reúne corpo, trauma, consciência e espiritualidade em torno de uma tarefa central: traduzir experiências humanas complexas com rigor, presença e discernimento, sem reduzi-las prematuramente a diagnóstico, crença ou explicação única.
+> Seu campo autoral reúne corpo, trauma, consciência e espiritualidade na compreensão e tradução da experiência humana. A postura que orienta seu trabalho é reconhecer o vivido, diferenciar suas camadas e favorecer integração sem impor diagnóstico, crença ou explicação única.
 
-# Currículo narrativo ampliado — estrutura de uso
+# Matriz de uso
 
-Quando for necessária uma versão formal mais longa, organizar nesta ordem:
+| Contexto | Abrir com | Sustentação seletiva | Não levar para a abertura |
+|---|---|---|---|
+| Site e clínica | psicólogo, psicoterapeuta, CRP, trajetória e atendimento on-line | Transpessoal, PUCRS, Psicanálise, trauma e supervisão | catálogo de técnicas e genealogia completa |
+| CEEP | psicólogo, PUCRS, trauma, consciência e espiritualidade | Psicanálise, Aleces, Mário Salvador, Siegel e Deb Dana | currículo corporal integral |
+| Academia | graduação, pós-graduações, TCC, método e interesses de estudo | eventos, PUC-SP, cursos documentados | repertórios livres sem relação com o objeto |
+| Mídia | trajetória, questão autoral e capacidade de tradução | exemplos de docência e temas | cargas horárias e inventário de certificados |
+| Palestras | tema, promessa da fala e experiência didática | credenciais relacionadas ao tema | currículo completo |
+| *Traduzindo o Ser Humano* | problema educacional, autoria e proposta do projeto | trajetória clínica e pedagógica em síntese | uso do curso como extensão da psicoterapia |
 
-1. identificação profissional atual;
-2. síntese da trajetória e campo autoral;
-3. graduação e pós-graduações;
-4. formações clínicas estruturantes;
-5. formação continuada e supervisão;
-6. linhagem corporal e MTC;
-7. experiência institucional e clínica;
-8. docência, palestras e produção autoral;
-9. projetos atuais;
-10. lista cronológica de formações e eventos, em anexo.
+# Formulações históricas não vigentes
 
-# Formulações que exigem cuidado
+As formulações abaixo permanecem preservadas no histórico do Git, mas não são a assinatura principal:
 
-- **“Mais de 30 anos de experiência”:** completar com “no cuidado terapêutico”; não usar como tempo de exercício da Psicologia.
-- **“Especialista”:** preferir “pós-graduado em” e “com formação em” quando a titulação pública específica não estiver formalmente estabelecida.
-- **“Professor”:** qualificar como cursos livres, educação continuada ou projeto específico; não sugerir vínculo universitário regular.
-- **“Pesquisador” ou “neurocientista”:** não usar como identificação principal no estágio atual.
-- **“Máster” e “Venia Docente”:** preservar denominações originais em currículo ampliado, com instituição, contexto e documentação correspondente.
-- **“Fundador do Centralma”:** adequado como dado histórico; verificar situação jurídica antes de apresentar função institucional atual.
-- **“Tratamento de trauma”:** associar à formação, experiência e campo clínico, evitando promessas de resultado.
+- “Psicologia, corpo e consciência em diálogo para compreender e integrar experiências humanas complexas.”
+- “Corpo, trauma, consciência e espiritualidade na tradução da experiência humana.”
+- “Corpo, trauma, consciência e significado na compreensão de experiências humanas complexas.”
 
-# Atualização de redação após auditoria documental — 21/08/2026
+A assinatura vigente é:
 
-A pós-graduação em Neurociências e Comportamento pela PUCRS está documentada pelo certificado de 25/03/2026. O eixo EMDR/Brainspotting e a trajetória corporal/MTC também possuem documentação mais ampla.
+> **Corpo, trauma, consciência e espiritualidade na compreensão e tradução da experiência humana.**
 
-## Mini bio geral revisada
+# Regra final
 
-> Fabiano Deliberalli é psicólogo clínico e psicoterapeuta (CRP 06/98630), com mais de 30 anos de trajetória no cuidado terapêutico e atuação como psicólogo desde 2010. É pós-graduado em Psicologia Transpessoal e em Neurociências e Comportamento pela PUCRS, com formação em Psicanálise Integrativa, EMDR, Brainspotting e hipnose.
->
-> Seu trabalho articula corpo, trauma, consciência e espiritualidade na compreensão de experiências humanas complexas. Professor e palestrante em cursos livres e educação continuada, desenvolve projetos voltados à tradução da experiência humana, incluindo o CEEP e Traduzindo o Ser Humano.
-
-## Site ampliado — parágrafo complementar
-
-> Sua trajetória corporal inclui formação técnica em Reabilitação/Massagem, estudos de Medicina Tradicional Chinesa, Qi Gong, respiração e movimento, além de formação continuada internacional em Acupuntura Bioenergética e Moxibustão e autorização docente do CEMETC para programas específicos de formação em Acupuntura Bioenergética.
-
-Este parágrafo deve entrar depois da identidade psicológica e da formação clínica, não na abertura da página.
-
-## Regra de seleção
-
-O PDF não exige uma mini bio maior. Ele permite que o currículo ampliado seja mais preciso, que o CEEP conte com sustentação documental e que a página de trajetória mostre a origem corporal da persona sem transformar a apresentação em catálogo.
-
-
-## Correção de controle documental — 21/08/2026
-
-A instituição da pós-graduação em Psicologia Transpessoal fica omitida nas versões públicas até conferência do certificado. A referência ao Instituto Humanitatis não corresponde à formação de Fabiano. Derivar novas bios de [[15 - Currículo Profissional Consolidado 2026]].
-
-
-## Atualização acadêmica — TCC PUCRS aprovado com nota 9,5
-
-Para currículo acadêmico e apresentações institucionais, pode-se informar: “Pós-graduado em Neurociências e Comportamento pela PUCRS, com TCC aprovado com nota 9,5 em 2026.” A nota não precisa entrar na mini bio geral.
-
-
-## Atualização acadêmica — certificado PUCRS localizado
-
-A pós-graduação em Neurociências e Comportamento pela PUCRS está comprovada por certificado institucional emitido em 25/03/2026. As versões acadêmicas podem utilizar “Especialização em Neurociências e Comportamento pela PUCRS”; a mini bio geral pode manter “pós-graduado em Neurociências e Comportamento pela PUCRS”.
-
-## Atualização pública — CEMETC e Venia Docente
-
-Para versões públicas, usar a credencial no passado e com sua denominação original:
-
-> Em 2014, recebeu do CEMETC a credencial institucional *Venia Docente* para ministrar programas de formação em Acupuntura Bioenergética.
-
-A formação pode ser descrita como:
-
-> Formação continuada internacional em Acupuntura Bioenergética e Moxibustión pelo CEMETC, com níveis 1, 2 e 3 documentados entre 2015 e 2016.
-
-A validade impressa até 08/11/2017 fica registrada no currículo formal e no dossiê documental para controle de atualidade; não é necessário sobrecarregar a mini bio com essa informação.
-
-
-## Atualização documental para versões públicas
-
-Os textos desta nota passam a considerar:
-
-- o programa Aleces de 216 horas, Níveis I, II e III, Modelo Aleceia, realizado entre 2020 e 2023;
-- o curso documentado de Deb Dana, 12 horas, em setembro de 2023.
-
-A versão curta não precisa mencionar horas ou denominações extensas; as versões ampliadas podem usar esses dados quando o contexto for trauma, regulação ou formação clínica continuada.
+A versão pública deve ser escolhida por contexto, mas identidade, formulação temporal e assinatura canônica não devem variar. Informações confirmadas pelo autor não devem ser rebaixadas por uma IA à condição de dúvida apenas porque um documento físico não está atualmente acessível.

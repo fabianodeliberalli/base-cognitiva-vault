@@ -36,7 +36,7 @@ Esta cronologia distingue datas documentalmente sustentadas de datas fornecidas 
 - Atuação com massagem, práticas corporais orientais, Reiki e posteriormente acupuntura.
 - Período de formação e atuação no Shiozawa Prevenção em Saúde com Mariko Sato, referido como aproximadamente dez anos.
 - Cursos ministrados de Reiki e, no contexto do Shiozawa, curso sobre Seitai e Quiropraxia.
-- Duas formações em Psicanálise Integrativa; início de estágios e atendimentos psicoterapêuticos desde a primeira formação. Datas e certificados a organizar.
+- Duas formações em Psicanálise Integrativa confirmadas pelo autor: uma na SBPI, com Maria de Fátima Mora, e outra no Instituto Brasileiro de Transpsicanálise, com André Keppe como professor principal. O acervo contém certificado de uma formação e registros complementares da Transpsicanálise. Início de estágios e atendimentos psicoterapêuticos desde a primeira formação.
 - Estudos em hipnose, regressão de memória e PNL.
 
 ## 2002–2004
@@ -54,7 +54,7 @@ Esta cronologia distingue datas documentalmente sustentadas de datas fornecidas 
 ## 2009
 
 - Defesa do trabalho final da graduação em Psicologia em 04/12/2009, conforme documentação acadêmica localizada.
-- Conclusão da pós-graduação em Psicologia Transpessoal; instituição e denominação documental a confirmar.
+- Conclusão da pós-graduação em Psicologia Transpessoal, com TCC entregue e certificado emitido. O certificado físico não está atualmente disponível e a instituição encerrou as atividades; a formação permanece confirmada pelo autor.
 - Monografia sobre o normal e o patológico nas vivências espirituais, em diálogo com Psicanálise, fenomenologia, Psicologia Transpessoal e Abordagem Integral.
 
 ## 2010
@@ -83,7 +83,7 @@ Esta cronologia distingue datas documentalmente sustentadas de datas fornecidas 
 
 ## 2020
 
-- Encerramento das atividades presenciais do Centralma no contexto da pandemia.
+- Encerramento das atividades presenciais do espaço Centralma no contexto da pandemia. A empresa Centralma permanece registrada, aberta e operante, vinculada à psicoterapia exclusivamente on-line e à emissão das notas fiscais dos atendimentos.
 - Início do curso on-line *Além das Fronteiras do Saber*, posteriormente realizado em cinco edições do nível básico ao avançado.
 - Início da formação em Psicoterapia de Integração e Reprocessamento do Trauma pelo Instituto ALECES, com Mário Salvador e Carmen Cuenca.
 
@@ -156,7 +156,8 @@ A auditoria de 117 páginas acrescenta ou especifica:
 
 - **1993–1996:** primeiro e segundo graus de Usui Shiki Ryoho; cursos EOMA de manipulação, fitoterapia, alinhamento postural, reflexologia e massagem/drenagem.
 - **1998:** curso de Radiestesia básico de 15h em Psicanálise Integrativa Clínica Escola.
-- **2001:** Practitioner e Master Practitioner em PNL pelo Trivium, 112h e 80h.
+- **Antes de 2001:** Practitioner em PNL realizado na SBPNL, conforme confirmação autobiográfica do autor.
+- **2001:** Practitioner e Master Practitioner em PNL pelo Trivium, 112h e 80h, documentados.
 - **2002:** Psicanálise Integrativa, Neurociência das Funções Mentais, Bases Bioquímicas dos Transtornos Mentais, Radiestesia e aula convidada na PUC-SP.
 - **2004–2006:** Bioenergologia histórica; curso de Auriculoterapia de 48h e Semiologia/Propedêutica da MTC de 143h pela Pró-Salus.
 - **2010:** registros EMDR nível I e intermediário, além do início documentado do eixo de trauma.
@@ -173,3 +174,8 @@ As datas que o documento não torna legíveis continuam marcadas como aproximada
 - [[12 - Documentos Comprobatórios/20 - Novos Registros Documentais - ALECES e Deb Dana 2023]].
 - A formação Aleces passa de registro curricular declarado a formação documentalmente comprovada: 216h, 2020-2023.
 - O certificado de Deb Dana passa de pendência a registro documental: 12h, setembro de 2023.
+
+
+# Regra de leitura da cronologia — normalização de 21/08/2026
+
+A cronologia combina registros documentais e informações autobiográficas confirmadas por Fabiano. A ausência atual de um certificado físico não apaga um marco formativo. Quando datas literais não estiverem disponíveis, registrar o evento sem inventar precisão; não converter essa ausência em invalidação da formação.

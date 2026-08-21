@@ -2,7 +2,7 @@
 id: AUT-15
 titulo: Currículo Profissional Consolidado 2026
 tipo: currículo-mestre-consolidado
-status: consolidado-para-publicacao-com-pendencias-documentais
+status: fonte-narrativa-canonica
 projeto: Posicionamento Profissional e Autoridade Autoral
 data: 2026-08-21
 autor: Fabiano Deliberalli
@@ -24,7 +24,7 @@ A regra central é:
 
 > identidade profissional atual → formação clínica e supervisão → produção e docência → genealogia corporal e integrativa.
 
-Os documentos integrais permanecem no acervo protegido. O vault registra metadados, páginas, conteúdo factual, função curricular e grau de comprovação.
+Os documentos integrais permanecem no acervo protegido. O vault registra metadados, páginas, conteúdo factual e função curricular. Informações autobiográficas confirmadas por Fabiano integram igualmente esta fonte; a ausência atual de um certificado físico não invalida automaticamente uma formação.
 
 # Identidade profissional
 
@@ -38,7 +38,7 @@ Essa frase reconhece a continuidade real do trabalho sem sugerir trinta anos de 
 
 # Posicionamento autoral
 
-Fabiano Deliberalli é psicólogo clínico, psicoterapeuta, educador e palestrante. Seu trabalho se desenvolve na interface entre corpo, trauma, consciência e espiritualidade, com interesse especial pela compreensão e integração de experiências humanas complexas.
+Fabiano Deliberalli é psicólogo clínico, psicoterapeuta, educador e palestrante. Seu trabalho articula corpo, trauma, consciência e espiritualidade na compreensão e tradução da experiência humana, favorecendo a integração de experiências complexas com rigor clínico, abertura e discernimento.
 
 Sua trajetória percorre cinco movimentos:
 
@@ -56,7 +56,7 @@ A pergunta que dá unidade ao percurso é:
 
 > Fabiano Deliberalli é psicólogo clínico e psicoterapeuta (CRP 06/98630), com mais de 30 anos de trajetória no cuidado terapêutico e atuação como psicólogo desde 2010. Sua formação acadêmica inclui graduação em Psicologia, pós-graduação em Psicologia Transpessoal e pós-graduação em Neurociências e Comportamento pela PUCRS, concluída em 2026.
 >
-> Sua formação clínica reúne Psicanálise Integrativa, EMDR, Brainspotting, hipnose e Psicoterapia Integradora e Reprocessamento do Trauma. O percurso inclui o programa de 216 horas do Instituto Aleces, nos Níveis I, II e III do Modelo Aleceia, realizado entre 2020 e 2023 com Mario Salvador e Carmen Cuenca, além de supervisão continuada em grupo com Mário Salvador. Também realizou formação em Neurobiologia Interpessoal com Daniel Siegel e o curso de 12 horas *Navigating the Nervous System: A Polyvagal Approach to Clinical Work*, com Deb Dana, em setembro de 2023. A denominação institucional da formação em Psicologia Transpessoal não é utilizada nesta versão até a conferência do certificado.
+> Sua formação clínica reúne Psicanálise Integrativa, EMDR, Brainspotting, hipnose e Psicoterapia Integradora e Reprocessamento do Trauma. O percurso inclui o programa de 216 horas do Instituto Aleces, nos Níveis I, II e III do Modelo Aleceia, realizado entre 2020 e 2023 com Mario Salvador e Carmen Cuenca, além de supervisão continuada em grupo com Mário Salvador. Também realizou formação em Neurobiologia Interpessoal com Daniel Siegel e o curso de 12 horas *Navigating the Nervous System: A Polyvagal Approach to Clinical Work*, com Deb Dana, em setembro de 2023. A pós-graduação em Psicologia Transpessoal foi concluída, com TCC entregue e certificado emitido. A instituição não é nomeada nesta versão porque o certificado físico não está atualmente disponível e a instituição encerrou as atividades.
 >
 > O percurso anterior em práticas corporais, Medicina Tradicional Chinesa, acupuntura, Qi Gong, respiração e movimento sustenta uma compreensão incorporada da experiência humana. Ao longo dos anos, desenvolveu atividades clínicas, docentes e de organização de cursos, incluindo a fundação histórica do Bioquantum/Centralma, a colaboração com Gilda Moura, o curso Além das Fronteiras do Saber, palestras e projetos de educação continuada.
 >
@@ -73,7 +73,7 @@ A pergunta que dá unidade ao percurso é:
 | Formação ou registro | Situação documental | Uso recomendado |
 |---|---|---|
 | Graduação em Psicologia — Universidade São Marcos, conclusão em 04/02/2010; diploma expedido em 14/09/2010 | Diploma localizado e arquivado na nota documental AUT-DOC-15 | Formação acadêmica documentada; registro profissional separado no CRP 06/98630 |
-| Pós-graduação em Psicologia Transpessoal | Conclusão declarada; certificado e instituição a confirmar | Usar sem instituição até conferir o certificado; não usar Instituto Humanitatis |
+| Pós-graduação em Psicologia Transpessoal | Conclusão, entrega do TCC e emissão do certificado confirmadas pelo autor; certificado físico atualmente indisponível e instituição encerrada | Usar como pós-graduação concluída, sem instituição nesta base; eventual comprovação acadêmica será tratada por Fabiano quando necessária |
 | Pós-graduação em Neurociências e Comportamento — PUCRS | Certificado institucional localizado; emissão em 25/03/2026; TCC aprovado com nota 9,5 | Formação acadêmica frontal |
 | CRP 06/98630 | Registro profissional confirmado | Incluir em publicidade profissional pertinente |
 | Técnico em Reabilitação — modalidade Massagista — EOMA | Diploma localizado; conclusão em 1995; 1.440 horas, incluindo estágio | Formação de origem corporal no currículo ampliado |
@@ -87,7 +87,7 @@ A pergunta que dá unidade ao percurso é:
 
 ## Psicanálise e escuta
 
-Fabiano iniciou sua trajetória psicoterapêutica em paralelo às primeiras formações e experiências de atendimento. Realizou duas formações em Psicanálise Integrativa, conforme relato: uma no Instituto Brasileiro de Transpsicanálise, com André Keppe, e outra na SBPI, com Maria de Fátima Mora. O PDF comprova, na p. 104, a conclusão de um curso livre de Formação em Psicanálise Integrativa em 23/07/2002; o segundo documento permanece a organizar.
+Fabiano iniciou sua trajetória psicoterapêutica em paralelo às primeiras formações e experiências de atendimento. Realizou duas formações em Psicanálise Integrativa: uma na SBPI, com Maria de Fátima Mora, e outra no Instituto Brasileiro de Transpsicanálise, tendo André Keppe como professor principal. A realização de ambas é confirmada pelo autor. O PDF comprova a conclusão de uma formação em 23/07/2002 e o vault preserva cursos e workshops complementares da Transpsicanálise.
 
 A Psicanálise deve aparecer como origem estruturante da escuta, da compreensão do conflito, do sentido e da singularidade — não como uma lista de técnicas equivalentes à Psicologia.
 
@@ -129,7 +129,8 @@ Formulação pública recomendada:
 # Comunicação, linguagem e outros repertórios
 
 - Formação em Psicanálise Integrativa e estudos de Transpsicanálise.
-- Practitioner e Master Practitioner em Programação Neurolinguística documentados no PDF; a atribuição institucional à SBPNL ainda deve ser confirmada. Na versão pública, usar “formação em PNL”.
+- Practitioner em PNL realizado na SBPNL antes da formação no Trivium, conforme confirmação autobiográfica de Fabiano.
+- Practitioner de 112 horas e Master Practitioner de 80 horas em PNL pelo Trivium, documentados em 2001. Na versão pública geral, pode-se sintetizar como “formação em PNL”.
 - Estudos e formações em hipnose, comunicação, linguagem, percepção de padrões e processos de mudança.
 - Estudos históricos em constelações, meditação, Reiki, estados ampliados de consciência e outros repertórios integrativos.
 
@@ -141,8 +142,8 @@ A PNL compõe o repertório histórico de linguagem e comunicação, mas não pr
 
 - Atendimento terapêutico iniciado ainda nas primeiras formações corporais e mantido de forma contínua, segundo relato do autor.
 - Atuação como psicólogo desde 2010.
-- Fundador do Bioquantum, posteriormente Centralma, com atuação clínica, organização de cursos e recepção de professores convidados até 2020.
-- Licença sanitária histórica de 2019 localizada no PDF para Clínica de Psicologia Centralma EIRELI/Núcleo de Terapias Bioquantum, com Fabiano indicado no documento; a situação cadastral atual do Centralma continua a verificar.
+- Fundador do Bioquantum, posteriormente Centralma, com atuação clínica, organização de cursos e recepção de professores convidados no espaço físico até 2020.
+- A Centralma permanece como empresa atual, registrada, aberta e operante, vinculada aos atendimentos psicológicos exclusivamente on-line e à emissão das notas fiscais. A licença sanitária de 2019 permanece como registro institucional histórico do período presencial.
 
 ## Docência e palestras
 
@@ -205,22 +206,18 @@ Podem permanecer na memória curricular interna, mas não devem liderar a person
 
 A preservação interna não significa invalidação da trajetória. Significa apenas que cada registro deve ocupar o contexto adequado.
 
-# Pendências para versões formais
+# Questões operacionais para versões específicas
 
-1. Diploma de Psicologia: localizado e registrado em 21/08/2026; pendência encerrada.
-2. Certificado da pós-graduação em Psicologia Transpessoal e confirmação da instituição/denominação literal.
-3. Certidão atual de regularidade do CRP.
-4. Histórico definitivo da PUCRS, se necessário para currículo acadêmico.
-5. Verificar eventual renovação da *Venia Docente* após 08/11/2017, caso se pretenda apresentá-la como credencial vigente; sua denominação literal, escopo e validade histórica já estão documentados.
-6. Segundo certificado de Psicanálise Integrativa.
-7. Situação atual de certificações EMDR e eventuais registros de validade.
-8. Comprovantes das supervisões/imersões com Mário Salvador e confirmação da data de Brasília.
-9. Organização do certificado do curso com Deb Dana: pendência encerrada; manter a data documental de setembro de 2023.
-10. Confirmação do emissor do Master Practitioner em PNL.
-11. Situação jurídica/cadastral atual do Centralma.
-12. Lista de palestras em organizações, com instituições, datas, temas e comprovantes.
-13. Artigo derivado do TCC da PUCRS e organização da produção pública.
-14. Organização do Lattes, ORCID e bibliografia pública.
+Não constituem dúvidas sobre a validade da trajetória:
+
+1. Histórico definitivo da PUCRS, somente se uma instituição acadêmica o exigir.
+2. Situação atual de certificações EMDR/Brainspotting, somente quando uma peça usar literalmente “certificação vigente”.
+3. Datas detalhadas e documentos de supervisões/imersões com Mário Salvador, quando um currículo específico exigir esse nível de precisão.
+4. Lista de palestras em organizações, com instituições, datas e temas, para o currículo de palestrante.
+5. Artigo derivado do TCC da PUCRS e organização da produção pública.
+6. Organização do Lattes, ORCID e bibliografia pública.
+
+A pós-graduação em Psicologia Transpessoal, as duas formações em Psicanálise, o Practitioner na SBPNL, a situação atual da Centralma e a regularidade do CRP estão confirmados pelo autor e não permanecem como pendências de validação.
 
 # Regra de atualização
 
@@ -268,8 +265,8 @@ A nota [[12 - Documentos Comprobatórios/19 - Auditoria Página a Página - Cert
 - Qi Gong: certificado de instrutor de Qi Gong com 96 horas; *Health Qigong Technical Degree Certificate* de 1 Duan; cursos de Liu Zi Jue, Sistema Energético Humano de 48 horas e formação de instrutor de Tai Chi Qi Gong nível I. Cada título é apresentado conforme a sua entidade emissora.
 - Corpo e movimento: Reflexologia e Alinhamento da Coluna, Técnicas de Alinhamento Postural/Reflexologia/Relaxamento, Drenagem Linfática, manipulações de clavícula/glenoumeral e bacia, fitoterapia, Seitai e Quiropraxia.
 - Trauma: além dos registros já sintetizados, o PDF traz EMDR nível I de 20 horas em 07/05/2010, EMDR Intermediário de 20 horas em 24/10/2010, Neurobiologia Interpessoal de 16 horas com FOCUS e Atualizações em Neurobiologia Interpessoal de 16 horas presenciais + 16 créditos em 10/11/2013.
-- PNL: os documentos legíveis identificam Trivium — Practitioner de 112 horas e Master Practitioner de 80 horas, ambos em 2001. A atribuição à SBPNL permanece fora do texto público até confirmação documental específica.
-- Psicanálise: o certificado legível da p. 104 informa conclusão em 23/07/2002. Registros anteriores que indicavam 23/07/2002 devem ser corrigidos.
+- PNL: os documentos legíveis identificam Trivium — Practitioner de 112 horas e Master Practitioner de 80 horas, ambos em 2001. Fabiano confirma também Practitioner anterior realizado na SBPNL; trata-se de formação distinta, cuja fonte atual é autobiográfica.
+- Psicanálise: o certificado legível da p. 104 informa conclusão em 23/07/2002. Registros anteriores que indicavam 23/06/2002 devem ser corrigidos.
 - Reiki e repertórios de consciência: primeiro e segundo graus de Usui Shiki Ryoho, Karuna Reiki Master registrado, Karuna Ki–Tera Mai, Melchizedek, Tameana, apometria, radiestesia e workshops de meditação/Aleph. Permanecem como genealogia histórica e não como eixo de abertura da persona.
 
 ### Regra narrativa
@@ -291,3 +288,12 @@ Foram incorporados três registros complementares:
 - Deb Dana: curso de 12 horas, setembro de 2023.
 
 A atualização reforça a formulação “formação continuada em trauma, reprocessamento e regulação” e corrige o ano anteriormente atribuído ao curso de Deb Dana.
+
+
+# Normalização final de fonte e posicionamento — 21/08/2026
+
+Formulação pública canônica:
+
+> **Corpo, trauma, consciência e espiritualidade na compreensão e tradução da experiência humana.**
+
+Este currículo combina documentos disponíveis e informações autobiográficas confirmadas por Fabiano. A natureza da fonte deve permanecer identificável, mas não funciona como escala automática de legitimidade. Exigências formais de terceiros serão tratadas por Fabiano no contexto em que surgirem.

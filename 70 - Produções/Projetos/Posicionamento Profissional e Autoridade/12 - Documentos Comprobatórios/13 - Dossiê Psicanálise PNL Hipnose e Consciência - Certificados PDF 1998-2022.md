@@ -24,7 +24,7 @@ Esta nota registra o eixo histórico de escuta, linguagem, hipnose e investigaç
 - p. 102: workshop Neurociência das Funções Mentais, 12h, 02/09/2002.
 - p. 103: curso Bases Bioquímicas dos Transtornos Mentais, 36h, 16/09–16/12/2002.
 - p. 106: certificado do Instituto Brasileiro de Transpsicanálise, com denominação e data parcialmente legíveis.
-- O autor declara duas formações em Psicanálise Integrativa e início de estágios e atendimentos psicoterapêuticos desde a primeira formação. O PDF comprova pelo menos uma conclusão formativa específica; a segunda formação e suas datas permanecem pendentes de documento próprio.
+- Fabiano confirma duas formações em Psicanálise Integrativa e o início de estágios e atendimentos psicoterapêuticos desde a primeira formação: uma na SBPI, com Maria de Fátima Mora, e outra no Instituto Brasileiro de Transpsicanálise, com André Keppe como professor principal. O PDF comprova uma conclusão específica e contém registros complementares da Transpsicanálise. A ausência do segundo certificado físico não invalida a formação.
 
 Formulação pública adequada:
 
@@ -36,7 +36,7 @@ Isso reconhece a história sem apresentar uma formação livre como pós-gradua�
 
 - p. 101: Practitioner em Programação Neurolinguística, 112h, 2001.
 - p. 99: Master Practitioner, 80h, São Paulo, maio de 2001, pelo Centro de Pesquisas e Estudos Trivium.
-- O documento disponível não confirma, na página auditada, a atribuição à SBPNL mencionada em currículos anteriores. Até confirmar o emissor, usar “formação em PNL, incluindo Practitioner e Master Practitioner” e não atribuir a SBPNL.
+- Os documentos das páginas auditadas identificam o Trivium. Fabiano confirma, como percurso distinto e anterior, um Practitioner realizado na SBPNL. A sequência correta é: Practitioner na SBPNL; posteriormente, Practitioner e Master Practitioner no Trivium.
 
 Formulação equilibrada:
 
@@ -103,7 +103,7 @@ A Psicanálise Integrativa é um eixo de origem da escuta psicoterapêutica de F
 - p. 87: Hypnotic Mastery Bootcamp, 18h, 06–07/08/2022;
 - p. 90: PCH módulos B1–B3, 30h, 10–12/09/2021.
 
-A formulação recomendada é “formação em PNL, hipnose clínica e Mirroring Hands”. A atribuição do Master Practitioner à SBPNL não deve ser incluída até a confirmação do emissor.
+A formulação pública sintética recomendada é “formação em PNL, hipnose clínica e Mirroring Hands”. Em currículo detalhado, registrar o Practitioner anterior na SBPNL e o Practitioner/Master Practitioner posteriores no Trivium, sem atribuir ao primeiro a documentação do segundo.
 
 ### Constelações e consciência
 
@@ -117,3 +117,8 @@ A formulação recomendada é “formação em PNL, hipnose clínica e Mirroring
 Os certificados USI/entidades associadas são registrados como formações institucionais complementares, sem converter “Master Senior” em mestrado acadêmico.
 
 Radiestesia, Reiki, Karuna Reiki, Karuna Ki–Tera Mai, Tameana, Melchizedek, apometria, Instituto Aleph e meditação permanecem preservados como genealogia histórica de estudos sobre consciência e espiritualidade.
+
+
+# Complemento autobiográfico oficial — 21/08/2026
+
+Os documentos deste dossiê descrevem o conteúdo do PDF. Para a biografia consolidada, prevalece também a confirmação direta de Fabiano sobre as duas formações em Psicanálise e sobre o Practitioner anterior na SBPNL. A natureza autobiográfica da fonte deve ser preservada sem converter esses marcos em pendências de validação por IA.
