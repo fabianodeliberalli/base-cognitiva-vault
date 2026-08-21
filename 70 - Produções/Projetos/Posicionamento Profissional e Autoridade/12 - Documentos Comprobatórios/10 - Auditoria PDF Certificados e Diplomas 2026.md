@@ -85,7 +85,7 @@ A leitura estratégica é: a autoridade não vem de mencionar todos os certifica
 | 94, 97, 105 | EOMA e Shiozawa | Formação técnica e cursos corporais dos anos 1990 | Linha de origem da trajetória |
 | 99 e 101 | PNL | Master Practitioner, 80h, 2001, e Practitioner, 112h, 2001 | Currículo ampliado: “formação em PNL”; confirmar emissor antes de atribuir SBPNL |
 | 100 e 110 | Pró-Salus Vitae | Auriculoterapia, 48h, e Semiologia/Propedêutica da MTC, 143h | Trajetória MTC ampliada |
-| 104 | Psicanálise Integrativa | Conclusão de curso livre de formação em Psicanálise Integrativa, 23/06/2002 | Currículo ampliado; sustenta a origem psicanalítica da psicoterapia |
+| 104 | Psicanálise Integrativa | Conclusão de curso livre de formação em Psicanálise Integrativa, 23/07/2002 | Currículo ampliado; sustenta a origem psicanalítica da psicoterapia |
 | 102–103 | Transpsicanálise | Neurociência das Funções Mentais, 12h, e Bases Bioquímicas dos Transtornos Mentais, 36h, em 2002 | Formação histórica complementar; não apresentar como pós-graduação |
 | 109 | Bioenergologia | Declaração histórica de curso e título interno da instituição | Arquivo interno; não usar o título institucional como identidade profissional atual |
 
