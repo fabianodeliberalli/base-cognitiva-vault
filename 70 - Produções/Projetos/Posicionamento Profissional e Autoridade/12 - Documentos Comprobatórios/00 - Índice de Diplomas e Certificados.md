@@ -124,3 +124,18 @@ O arquivo integral de certificados e diplomas permanece na Biblioteca e/ou no ac
 ## Fonte narrativa atual
 
 - [[15 - Currículo Profissional Consolidado 2026]] — currículo-mestre derivado da auditoria documental e da trajetória profissional consolidada.
+
+
+## Nova nota de auditoria integral
+
+- [[19 - Auditoria Página a Página - Certificados e Diplomas 2026]] — inventário visual das 117 páginas do PDF, com identificação individual, duplicatas, documentos complementares, imagens sem valor comprobatório e pendências de legibilidade.
+- O índice anterior permanece válido como mapa resumido; a nota 19 é a fonte de detalhe página a página.
+
+## Correções e ampliações incorporadas
+
+- USI agora está discriminada por carga horária e modalidade: 120h de Constelações Individuais em Consultório, 252h de *Master Senior* institucional e módulos familiares, estruturais, organizacionais e de consultório.
+- CEMETC agora inclui seminários, módulos Long Tao/Heiwa, níveis 1–3, programas curriculares, certificados gerais e *Venia Docente*.
+- Qi Gong agora inclui instrutoria de 96h, 1 Duan técnico, Liu Zi Jue, Sistema Energético Humano de 48h e Tai Chi Qi Gong nível I.
+- EMDR agora inclui os certificados de 2010 e as atualizações de Neurobiologia Interpessoal.
+- A página 104 é corrigida para 23/07/2002, conforme leitura visual do certificado de Psicanálise Integrativa.
+- Certificados com validade impressa encerrada continuam registrados como marcos históricos; a validade atual é tratada separadamente.
