@@ -20,6 +20,8 @@ Esta é a fonte vigente para bios, apresentações, perfis e textos instituciona
 
 # Núcleo público canônico
 
+Fonte ampliada vigente: [[18 - Currículo Profissional Ampliado Consolidado - Versão Pública 2026]].
+
 ## Identificação profissional
 
 > **Fabiano Deliberalli — psicólogo clínico e psicoterapeuta — CRP 06/98630.**
@@ -86,9 +88,9 @@ Aplicações específicas:
 
 # Bio acadêmica
 
-> Fabiano Deliberalli é psicólogo (CRP 06/98630), pós-graduado em Psicologia Transpessoal e especialista em Neurociências e Comportamento pela PUCRS. É autor do TCC *Sincronia Neural Interpessoal e Estados Ampliados de Consciência: uma abordagem neurobiológico-relacional da espiritualidade*, aprovado com nota 9,5 em 2026. Seus interesses de estudo incluem neurofenomenologia, experiência incorporada, trauma, espiritualidade, sincronia interpessoal, consciência e diferenciação clínica de experiências incomuns.
+> Fabiano Deliberalli é psicólogo (CRP 06/98630), pós-graduado em Psicologia Transpessoal e pós-graduado em Neurociências e Comportamento pela PUCRS. É autor do TCC *Sincronia Neural Interpessoal e Estados Ampliados de Consciência: uma abordagem neurobiológico-relacional da espiritualidade*, aprovado com nota 9,5 em 2026. Seus interesses de estudo incluem neurofenomenologia, experiência incorporada, trauma, espiritualidade, sincronia interpessoal, consciência e diferenciação clínica de experiências incomuns.
 
-Usar “interesses de estudo”, “autor do TCC” e “pós-graduado/especialista” conforme o contexto. Não usar “neurocientista” ou “pesquisador” como identidade principal enquanto essas designações não corresponderem à inserção acadêmica pretendida.
+Usar “interesses de estudo”, “autor do TCC” e “pós-graduado” conforme o contexto. Não usar “neurocientista” ou “pesquisador” como identidade principal enquanto essas designações não corresponderem à inserção acadêmica pretendida.
 
 # Apresentação ampliada para a página Sobre
 
