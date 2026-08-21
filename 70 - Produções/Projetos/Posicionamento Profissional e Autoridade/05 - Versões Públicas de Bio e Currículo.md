@@ -28,7 +28,7 @@ Fonte ampliada vigente: [[18 - Currículo Profissional Ampliado Consolidado - Ve
 
 ## Formulação temporal
 
-> **Mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas, e atuação como psicólogo desde 2010.**
+> **Mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas e consolidada com a Psicologia.**
 
 ## Assinatura de posicionamento
 
@@ -48,7 +48,7 @@ Informações autobiográficas confirmadas diretamente por Fabiano são válidas
 
 Aplicações específicas:
 
-- a pós-graduação em Psicologia Transpessoal foi concluída, com TCC entregue e certificado emitido; usar a formação sem instituição, pois o certificado físico não está disponível e a instituição encerrou as atividades;
+- a pós-graduação em Psicologia Transpessoal foi concluída em 2010, com Trabalho de Conclusão de Curso entregue e certificado emitido em 2011. A formação foi realizada na FACIS — Faculdade de Ciências da Saúde de São Paulo, sob orientação da Profª Drª Márcia Tabone;
 - as duas formações em Psicanálise Integrativa são válidas: uma na SBPI, com Maria de Fátima Mora, e outra no Instituto Brasileiro de Transpsicanálise, tendo André Keppe como professor principal;
 - houve Practitioner em PNL na SBPNL antes das formações posteriores documentadas no Trivium;
 - a Centralma é a empresa atual, registrada, aberta e operante, ligada aos atendimentos psicológicos exclusivamente on-line;
@@ -60,15 +60,15 @@ Aplicações específicas:
 
 # Mini bio geral — canônica
 
-> Fabiano Deliberalli é psicólogo clínico e psicoterapeuta (CRP 06/98630), com mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas, e atuação como psicólogo desde 2010. É pós-graduado em Psicologia Transpessoal e em Neurociências e Comportamento pela PUCRS, com formações em Psicanálise Integrativa, EMDR, Brainspotting, hipnose e trauma.
+> Fabiano Deliberalli é psicólogo clínico e psicoterapeuta (CRP 06/98630), com mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas e consolidada com a Psicologia. É pós-graduado em Psicologia Transpessoal e em Neurociências e Comportamento pela PUCRS, com formações em Psicanálise Integrativa, EMDR, Brainspotting, hipnose clínica e terapêutica e trauma.
 >
 > Seu trabalho articula corpo, trauma, consciência e espiritualidade para compreender, traduzir e favorecer a integração de experiências humanas complexas, com rigor clínico, abertura e discernimento. É professor e palestrante em cursos livres e educação continuada e desenvolve o CEEP e o projeto *Traduzindo o Ser Humano*.
 
 # Bio clínica para o site
 
-> Fabiano Deliberalli é psicólogo clínico e psicoterapeuta (CRP 06/98630) e atende exclusivamente on-line. Sua trajetória no cuidado terapêutico começou há mais de 30 anos nas práticas corporais e integrativas; desde 2010, atua como psicólogo.
+> Fabiano Deliberalli é psicólogo clínico e psicoterapeuta (CRP 06/98630) e atende exclusivamente on-line. Sua trajetória no cuidado terapêutico começou há mais de 30 anos nas práticas corporais e integrativas e se consolidou com a Psicologia.
 >
-> É pós-graduado em Psicologia Transpessoal e em Neurociências e Comportamento pela PUCRS. Sua formação clínica inclui Psicanálise Integrativa, EMDR, Brainspotting, hipnose, Neurobiologia Interpessoal e formação continuada em trauma e reprocessamento, incluindo o programa de 216 horas do Instituto Aleces e supervisão continuada com Mário Salvador.
+> É pós-graduado em Psicologia Transpessoal — formação concluída em 2010, com TCC entregue e certificado emitido em 2011 pela FACIS — e em Neurociências e Comportamento pela PUCRS. Sua formação clínica inclui Psicanálise Integrativa, EMDR, Brainspotting, formação continuada em hipnose clínica e terapêutica com estudos junto a Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sophia Bauer, Neurobiologia Interpessoal e formação continuada em trauma e reprocessamento, incluindo o programa de 216 horas do Instituto Aleces e supervisão continuada com Mário Salvador.
 >
 > Seu trabalho acolhe situações em que compreender intelectualmente não foi suficiente para produzir mudança, processos relacionados a trauma e desorganização e experiências espirituais, existenciais ou incomuns que pedem escuta cuidadosa. A proposta é compreender o vivido, seus efeitos e significados, sem reduzir prematuramente a experiência a diagnóstico, crença ou explicação única.
 
@@ -84,7 +84,7 @@ Aplicações específicas:
 
 # Bio de palestrante
 
-> Fabiano Deliberalli é psicólogo clínico e psicoterapeuta (CRP 06/98630), professor e palestrante, com mais de 30 anos de trajetória no cuidado terapêutico. É pós-graduado em Psicologia Transpessoal e em Neurociências e Comportamento pela PUCRS, com formação em Psicanálise Integrativa, trauma, EMDR, Brainspotting, hipnose e Neurobiologia Interpessoal. Desenvolve palestras e experiências educacionais sobre corpo, padrões, trauma, consciência, espiritualidade, experiências incomuns e tradução da experiência humana.
+> Fabiano Deliberalli é psicólogo clínico e psicoterapeuta (CRP 06/98630), professor e palestrante, com mais de 30 anos de trajetória no cuidado terapêutico. É pós-graduado em Psicologia Transpessoal e em Neurociências e Comportamento pela PUCRS, com formação em Psicanálise Integrativa, trauma, EMDR, Brainspotting, hipnose clínica e terapêutica e Neurobiologia Interpessoal. Desenvolve palestras e experiências educacionais sobre corpo, padrões, trauma, consciência, espiritualidade, experiências incomuns e tradução da experiência humana.
 
 # Bio acadêmica
 
