@@ -161,3 +161,20 @@ O certificado institucional registra a conclusão da Especialização em Neuroci
 ## Complemento documental — CEMETC/Venia Docente
 
 A documentação visualizada nesta atualização confirma a denominação literal *Venia Docente*, o escopo de autorização para ministrar programas do CEMETC, a emissão em Valladolid em 08/11/2014 e a validade impressa até 08/11/2017. Também confirma certificados de 1º, 2º e 3º níveis de Acupuntura Bioenergética e Moxibustión e certificados gerais de 360 horas/14,4 ECTS. Ver [[12 - Documentos Comprobatórios/18 - CEMETC - Venia Docente e Acupuntura Bioenergética 2014-2016]].
+
+
+## Complemento documental — revisão página a página
+
+A auditoria integral [[12 - Documentos Comprobatórios/19 - Auditoria Página a Página - Certificados e Diplomas 2026]] amplia a matriz com:
+
+- formação em Qi Gong de 96h e demais certificados de Qi Gong/Tai Chi;
+- *Health Qigong Technical Degree Certificate* de 1 Duan e Liu Zi Jue, preservando as limitações expressas nos documentos;
+- módulos Long Tao/Heiwa/CEMETC e seminários de Acupuntura Bioenergética;
+- USI: 120h, 252h e módulos de constelações de 2016–2017;
+- EMDR de 2010, cursos de trauma e Atualizações em Neurobiologia Interpessoal;
+- EOMA: fitoterapia, alinhamento postural, drenagem, manipulações e reflexologia;
+- Pró-Salus: Auriculoterapia de 48h e Semiologia/Propedêutica da MTC de 143h;
+- Psicanálise Integrativa de 23/07/2002, corrigindo a data anterior;
+- Reiki, Karuna Reiki, Karuna Ki–Tera Mai e demais registros históricos de consciência.
+
+A regra documental é preservar cada marco, não somar duplicatas e não usar validade administrativa encerrada para negar a existência histórica da formação.
