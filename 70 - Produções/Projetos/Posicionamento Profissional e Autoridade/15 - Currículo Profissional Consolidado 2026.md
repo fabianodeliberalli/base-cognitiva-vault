@@ -74,7 +74,7 @@ A pergunta que dá unidade ao percurso é:
 |---|---|---|
 | Graduação em Psicologia — Universidade São Marcos, conclusão em 04/02/2010; diploma expedido em 14/09/2010 | Diploma localizado e arquivado na nota documental AUT-DOC-15 | Formação acadêmica documentada; registro profissional separado no CRP 06/98630 |
 | Pós-graduação em Psicologia Transpessoal | Conclusão declarada; certificado e instituição a confirmar | Usar sem instituição até conferir o certificado; não usar Instituto Humanitatis |
-| Pós-graduação em Neurociências e Comportamento — PUCRS | Certificado localizado; conclusão em 25/03/2026, PDF, p. 1 | Formação acadêmica frontal |
+| Pós-graduação em Neurociências e Comportamento — PUCRS | Certificado institucional localizado; emissão em 25/03/2026; TCC aprovado com nota 9,5 | Formação acadêmica frontal |
 | CRP 06/98630 | Registro profissional confirmado | Incluir em publicidade profissional pertinente |
 | Técnico em Reabilitação — modalidade Massagista — EOMA | Diploma localizado; conclusão em 1995; 1.440 horas, incluindo estágio | Formação de origem corporal no currículo ampliado |
 | Formação em Acupuntura Tradicional Chinesa — CEMETRAC | Certificado localizado; 2002–2004; 1.200 horas | Trajetória corporal e integrativa |
@@ -238,3 +238,8 @@ Quando um novo documento for obtido:
 ## Atualização acadêmica — TCC aprovado
 
 - [[12 - Documentos Comprobatórios/16 - PUCRS - TCC Nota 9,5 e Parecer 2026]] — registro institucional de orientação finalizada, nota 9,5 e parecer favorável em 11/02/2026.
+
+
+## Atualização documental — certificado PUCRS
+
+A Especialização em Neurociências e Comportamento pela PUCRS está documentada por certificado institucional emitido em Porto Alegre em 25/03/2026. Registro em [[12 - Documentos Comprobatórios/17 - PUCRS - Certificado Pós-Graduação Neurociências e Comportamento 2026]].
