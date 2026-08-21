@@ -28,7 +28,7 @@ tags:
 
 ## Perfil profissional
 
-Fabiano Deliberalli é psicólogo clínico e psicoterapeuta, com mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas, e atuação como psicólogo desde 2010.
+Fabiano Deliberalli é psicólogo clínico e psicoterapeuta, com mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas e consolidada com a Psicologia.
 
 Seu percurso articula práticas corporais, escuta psicanalítica, Psicologia, trauma, neurociência, consciência e espiritualidade. A experiência acumulada em diferentes campos é organizada por uma questão central: como compreender o ser humano em suas dimensões corporal, afetiva, relacional, simbólica, consciente e espiritual sem reduzi-lo a uma única linguagem?
 
@@ -45,7 +45,7 @@ Na clínica, dedica-se à compreensão de padrões, sofrimento, trauma, processo
 ## Formação acadêmica
 
 - **Psicologia — Universidade São Marcos.** Curso concluído em 4 de fevereiro de 2010; diploma emitido em 14 de setembro de 2010.
-- **Pós-graduação em Psicologia Transpessoal.** Formação concluída, com Trabalho de Conclusão de Curso entregue e certificado emitido.
+- **Pós-graduação em Psicologia Transpessoal — FACIS, Faculdade de Ciências da Saúde de São Paulo.** Formação concluída em 2010, com Trabalho de Conclusão de Curso entregue; certificado emitido em 2011. Monografia orientada pela Profª Drª Márcia Tabone.
 - **Pós-graduação lato sensu em Neurociências e Comportamento — PUCRS.** Concluída em 2026, com certificado institucional emitido em 25 de março de 2026.
 - **Trabalho de Conclusão de Curso:** *Sincronia Neural Interpessoal e Estados Ampliados de Consciência: uma abordagem neurobiológico-relacional da espiritualidade*, aprovado com nota 9,5.
 
@@ -60,7 +60,7 @@ Seus interesses atuais de estudo incluem neurofenomenologia, experiência incorp
 - **Supervisão clínica continuada:** supervisão mensal em grupo com Mário Salvador, além de estudos presenciais anteriores e imersões de três dias realizadas em 2025 e 2026.
 - **Neurobiologia Interpessoal:** formação com Daniel Siegel, em 2021.
 - **Teoria Polivagal aplicada à prática clínica:** formação on-line com Deb Dana, em 2023.
-- **Hipnose clínica e terapêutica:** estudos e formações integrados à trajetória de psicoterapia, linguagem e mudança.
+- **Hipnose clínica e terapêutica:** formação continuada com estudos junto a Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sophia Bauer. Entre os registros documentais estão Mirroring Hands — Essential Practice & Practitioner (12h, 07–08/12/2019); Professional & Clinical Hypnosis, módulos B1–B3 (30h, 10–12/09/2021) e B4–B8 (70h, 09–15/07/2022); e Hypnotic Mastery Bootcamp (18h, 06–07/08/2022). O curso on-line com Sophia Bauer teve acesso pago confirmado entre agosto de 2023 e fevereiro de 2024, por registro independente da Hotmart. Esse conjunto integra estudos de psicoterapia, linguagem, comunicação e processos de mudança.
 
 O conjunto dessas formações sustenta uma prática interessada na relação entre experiência subjetiva, corpo, memória, trauma, vínculo, regulação e transformação.
 
@@ -138,7 +138,7 @@ Sua postura profissional é orientada pela possibilidade de acolher a experiênc
 
 ## Mini bio para uso público
 
-Fabiano Deliberalli é psicólogo clínico e psicoterapeuta (CRP 06/98630), com mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas, e atuação como psicólogo desde 2010. É pós-graduado em Psicologia Transpessoal e em Neurociências e Comportamento pela PUCRS, com formações em Psicanálise Integrativa, EMDR, Brainspotting, hipnose, Neurobiologia Interpessoal e trauma.
+Fabiano Deliberalli é psicólogo clínico e psicoterapeuta (CRP 06/98630), com mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas e consolidada com a Psicologia. É pós-graduado em Psicologia Transpessoal e em Neurociências e Comportamento pela PUCRS, com formações em Psicanálise Integrativa, EMDR, Brainspotting, hipnose, Neurobiologia Interpessoal e trauma.
 
 Seu trabalho articula corpo, trauma, consciência e espiritualidade para compreender, traduzir e favorecer a integração de experiências humanas complexas, com rigor clínico, abertura e discernimento. É professor e palestrante em cursos livres e educação continuada e desenvolve o CEEP e o projeto *Traduzindo o Ser Humano*.
 

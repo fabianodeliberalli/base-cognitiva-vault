@@ -19,7 +19,7 @@ tags:
 - **Nome profissional:** Fabiano Deliberalli.
 - **Profissão:** psicólogo clínico e psicoterapeuta.
 - **Registro:** CRP 06/98630.
-- **Atuação como psicólogo:** desde 2010.
+- **Consolidação da atuação profissional em Psicologia:** 2010.
 - **Trajetória no cuidado terapêutico:** mais de 30 anos, iniciada nas práticas corporais e integrativas.
 
 # Síntese profissional
@@ -45,7 +45,7 @@ Essa pergunta se desenvolve em cinco movimentos:
 ## Acadêmica e profissional
 
 - Graduação em Psicologia pela Universidade São Marcos, concluída em 04/02/2010; diploma expedido em 14/09/2010; inscrição no CRP em 2010.
-- Pós-graduação em Psicologia Transpessoal concluída, com TCC entregue e certificado emitido. O certificado físico não está atualmente disponível e a instituição encerrou as atividades; a formação permanece válida para currículo e comunicação, sem identificação institucional nesta base.
+- Pós-graduação em Psicologia Transpessoal pela FACIS — Faculdade de Ciências da Saúde de São Paulo, concluída em 2010, com Trabalho de Conclusão de Curso entregue e certificado emitido em 2011; monografia orientada pela Profª Drª Márcia Tabone.
 - Pós-graduação em Neurociências e Comportamento pela PUCRS, concluída em 2026.
 - TCC: *Sincronia Neural Interpessoal e Estados Ampliados de Consciência: uma abordagem neurobiológico-relacional da espiritualidade*.
 
@@ -58,7 +58,7 @@ Essa pergunta se desenvolve em cinco movimentos:
 - Supervisões mensais em grupo com Mário Salvador, em continuidade em 2026.
 - Estudo anterior presencial com Mário Salvador em Brasília, provavelmente em 2018 — data a confirmar.
 - Imersões presenciais de três dias com atendimentos e supervisões em 2025 e 2026.
-- Formação continuada em hipnose, incluindo hipnoterapia, regressão de memória, hipnose ericksoniana e hipnose clínica.
+- Formação continuada em hipnose clínica e terapêutica, com estudos junto a Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sophia Bauer; registros documentais de Mirroring Hands (2019), Professional & Clinical Hypnosis B1–B3 (2021), B4–B8 (2022) e Hypnotic Mastery Bootcamp (2022), além de acesso pago confirmado ao curso on-line de Sophia Bauer entre agosto de 2023 e fevereiro de 2024.
 
 ## Neurobiologia relacional e regulação
 
@@ -120,7 +120,7 @@ Princípio epistemológico:
 
 - psicólogo clínico e psicoterapeuta;
 - CRP 06/98630;
-- mais de 30 anos no cuidado terapêutico; psicólogo desde 2010;
+- mais de 30 anos no cuidado terapêutico, iniciada nas práticas corporais e integrativas e consolidada com a Psicologia;
 - corpo, trauma, consciência e espiritualidade;
 - Psicologia Transpessoal, Neurociências e Comportamento, EMDR, Brainspotting, Psicanálise e hipnose.
 

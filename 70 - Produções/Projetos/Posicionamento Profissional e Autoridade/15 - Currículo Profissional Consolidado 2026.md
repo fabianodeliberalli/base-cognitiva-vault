@@ -32,7 +32,7 @@ Os documentos integrais permanecem no acervo protegido. O vault registra metadad
 
 Formulação temporal aprovada:
 
-> Mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas, e atuação como psicólogo desde 2010.
+> Mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas e consolidada com a Psicologia.
 
 Essa frase reconhece a continuidade real do trabalho sem sugerir trinta anos de exercício da Psicologia.
 
@@ -54,9 +54,9 @@ A pergunta que dá unidade ao percurso é:
 
 # Texto-base para site
 
-> Fabiano Deliberalli é psicólogo clínico e psicoterapeuta (CRP 06/98630), com mais de 30 anos de trajetória no cuidado terapêutico e atuação como psicólogo desde 2010. Sua formação acadêmica inclui graduação em Psicologia, pós-graduação em Psicologia Transpessoal e pós-graduação em Neurociências e Comportamento pela PUCRS, concluída em 2026.
+> Fabiano Deliberalli é psicólogo clínico e psicoterapeuta (CRP 06/98630), com mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas e consolidada com a Psicologia. Sua formação acadêmica inclui graduação em Psicologia, pós-graduação em Psicologia Transpessoal pela FACIS — concluída em 2010, com TCC entregue e certificado emitido em 2011 — e pós-graduação em Neurociências e Comportamento pela PUCRS, concluída em 2026.
 >
-> Sua formação clínica reúne Psicanálise Integrativa, EMDR, Brainspotting, hipnose e Psicoterapia Integradora e Reprocessamento do Trauma. O percurso inclui o programa de 216 horas do Instituto Aleces, nos Níveis I, II e III do Modelo Aleceia, realizado entre 2020 e 2023 com Mario Salvador e Carmen Cuenca, além de supervisão continuada em grupo com Mário Salvador. Também realizou formação em Neurobiologia Interpessoal com Daniel Siegel e o curso de 12 horas *Navigating the Nervous System: A Polyvagal Approach to Clinical Work*, com Deb Dana, em setembro de 2023. 
+> Sua formação clínica reúne Psicanálise Integrativa, EMDR, Brainspotting, formação continuada em hipnose clínica e terapêutica — com estudos junto a Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sophia Bauer — e Psicoterapia Integradora e Reprocessamento do Trauma. O percurso inclui o programa de 216 horas do Instituto Aleces, nos Níveis I, II e III do Modelo Aleceia, realizado entre 2020 e 2023 com Mario Salvador e Carmen Cuenca, além de supervisão continuada em grupo com Mário Salvador. Também realizou formação em Neurobiologia Interpessoal com Daniel Siegel e o curso de 12 horas *Navigating the Nervous System: A Polyvagal Approach to Clinical Work*, com Deb Dana, em setembro de 2023. 
 >
 > O percurso anterior em práticas corporais, Medicina Tradicional Chinesa, acupuntura, Qi Gong, respiração e movimento sustenta uma compreensão incorporada da experiência humana. Ao longo dos anos, desenvolveu atividades clínicas, docentes e de organização de cursos, incluindo a fundação histórica do Bioquantum/Centralma, a colaboração com Gilda Moura, o curso Além das Fronteiras do Saber, palestras e projetos de educação continuada.
 >
@@ -64,7 +64,7 @@ A pergunta que dá unidade ao percurso é:
 
 # Mini bio para divulgação
 
-> Fabiano Deliberalli é psicólogo clínico e psicoterapeuta (CRP 06/98630), com mais de 30 anos de trajetória no cuidado terapêutico e atuação como psicólogo desde 2010. É pós-graduado em Psicologia Transpessoal e em Neurociências e Comportamento pela PUCRS, com formação em Psicanálise Integrativa, EMDR, Brainspotting e hipnose.
+> Fabiano Deliberalli é psicólogo clínico e psicoterapeuta (CRP 06/98630), com mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas e consolidada com a Psicologia. É pós-graduado em Psicologia Transpessoal e em Neurociências e Comportamento pela PUCRS, com formação em Psicanálise Integrativa, EMDR, Brainspotting e hipnose clínica e terapêutica.
 >
 > Seu trabalho articula corpo, trauma, consciência e espiritualidade na compreensão de experiências humanas complexas. É professor e palestrante em cursos livres e educação continuada e participa de projetos voltados à tradução da experiência humana, incluindo o CEEP e Traduzindo o Ser Humano.
 
@@ -73,7 +73,7 @@ A pergunta que dá unidade ao percurso é:
 | Formação ou registro | Situação documental | Uso recomendado |
 |---|---|---|
 | Graduação em Psicologia — Universidade São Marcos, conclusão em 04/02/2010; diploma expedido em 14/09/2010 | Diploma localizado e arquivado na nota documental AUT-DOC-15 | Formação acadêmica documentada; registro profissional separado no CRP 06/98630 |
-| Pós-graduação em Psicologia Transpessoal | Conclusão, entrega do TCC e emissão do certificado confirmadas pelo autor; certificado físico atualmente indisponível e instituição encerrada | Usar como pós-graduação concluída, sem instituição nesta base; eventual comprovação acadêmica será tratada por Fabiano quando necessária |
+| Pós-graduação em Psicologia Transpessoal — FACIS | Formação concluída em 2010, com TCC entregue e certificado emitido em 2011; monografia orientada pela Profª Drª Márcia Tabone | Formação acadêmica concluída; utilizar a denominação e as datas registradas |
 | Pós-graduação em Neurociências e Comportamento — PUCRS | Certificado institucional localizado; emissão em 25/03/2026; TCC aprovado com nota 9,5 | Formação acadêmica frontal |
 | CRP 06/98630 | Registro profissional confirmado | Incluir em publicidade profissional pertinente |
 | Técnico em Reabilitação — modalidade Massagista — EOMA | Diploma localizado; conclusão em 1995; 1.440 horas, incluindo estágio | Formação de origem corporal no currículo ampliado |
@@ -99,7 +99,7 @@ A Psicanálise deve aparecer como origem estruturante da escuta, da compreensão
 - Formação em Psicoterapia Integradora e Reprocessamento do Trauma com Mário Salvador e Carmen Cuenca, incluindo programa documentado de 216 horas do Instituto Aleces, Níveis I, II e III do Modelo Aleceia, realizado entre 2020 e 2023.
 - Supervisão mensal em grupo com Mário Salvador, em continuidade em 2026.
 - Estudo presencial anterior com Mário Salvador em Brasília, provavelmente em 2018, e imersões presenciais de três dias em 2025 e 2026, conforme relato do autor.
-- Formação em hipnose clínica, hipnoterapia, hipnose ericksoniana, regressão de memória e Mirroring Hands.
+- Formação continuada em hipnose clínica e terapêutica, com estudos junto a Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sophia Bauer. Registros documentais: Mirroring Hands — Essential Practice & Practitioner (12h, 07–08/12/2019); Professional & Clinical Hypnosis, módulos B1–B3 (30h, 10–12/09/2021) e B4–B8 (70h, 09–15/07/2022); Hypnotic Mastery Bootcamp (18h, 06–07/08/2022). O curso on-line com Sophia Bauer teve acesso pago confirmado entre agosto de 2023 e fevereiro de 2024, por registro independente da Hotmart.
 
 A publicidade deve usar “formação em EMDR e Brainspotting” e “formação continuada em trauma”. A expressão “terapeuta certificado” só deve ser utilizada quando a situação atual da certificação correspondente estiver confirmada.
 
@@ -275,7 +275,7 @@ A amplitude é apresentada como percurso integrado: corpo e prática → escuta 
 
 Formulação pública ampliada atualizada:
 
-> Psicólogo clínico e psicoterapeuta, com mais de 30 anos de trajetória no cuidado terapêutico e atuação como psicólogo desde 2010. Sua formação reúne Psicologia, Psicologia Transpessoal, Neurociências e Comportamento, Psicanálise Integrativa, EMDR, Brainspotting, hipnose, trauma e Neurobiologia Interpessoal. O percurso corporal inclui Reabilitação/Massagem, Medicina Tradicional Chinesa, acupuntura, Qi Gong, respiração, movimento, Seitai e Quiropraxia, com formação continuada internacional em Acupuntura Bioenergética e Moxibustión pelo CEMETC e credencial histórica de *Venia Docente* para programas específicos da instituição. Hoje articula corpo, trauma, consciência e espiritualidade na compreensão de experiências humanas complexas, com atenção à experiência vivida, à segurança clínica e aos limites entre interpretação e evidência.
+> Psicólogo clínico e psicoterapeuta, com mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas e consolidada com a Psicologia. Sua formação reúne Psicologia, Psicologia Transpessoal, Neurociências e Comportamento, Psicanálise Integrativa, EMDR, Brainspotting, hipnose clínica e terapêutica, trauma e Neurobiologia Interpessoal. O percurso corporal inclui Reabilitação/Massagem, Medicina Tradicional Chinesa, acupuntura, Qi Gong, respiração, movimento, Seitai e Quiropraxia, com formação continuada internacional em Acupuntura Bioenergética e Moxibustión pelo CEMETC e credencial histórica de *Venia Docente* para programas específicos da instituição. Hoje articula corpo, trauma, consciência e espiritualidade na compreensão de experiências humanas complexas, com atenção à experiência vivida, à segurança clínica e aos limites entre interpretação e evidência.
 
 
 # Atualização documental - novos certificados recebidos em 21/08/2026
