@@ -31,11 +31,13 @@ Esta nota registra a natureza das fontes utilizadas no currículo. Ela não dele
 
 # Matriz principal
 
+Fonte organizadora obrigatória: [[22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]].
+
 | Informação | Estado normalizado | Base disponível | Regra de uso |
 |---|---|---|---|
 | Psicólogo clínico e psicoterapeuta — CRP 06/98630 | CONFIRMADO — fontes combinadas | registro arquivado e confirmação atual de Fabiano de que o CRP está pago, ativo e regular | usar nos contextos profissionais pertinentes; não criar tarefa de emissão de certidão sem demanda externa concreta |
-| Graduação em Psicologia — Universidade São Marcos; conclusão em 04/02/2010; diploma expedido em 14/09/2010 | CONFIRMADO — fonte documental | [[12 - Documentos Comprobatórios/15 - Universidade São Marcos - Diploma de Psicologia 2010]] | formação acadêmica principal; atuação como psicólogo desde 2010 |
-| Pós-graduação em Psicologia Transpessoal | CONFIRMADO — fonte autobiográfica e produção acadêmica arquivada | Fabiano confirma conclusão, entrega do TCC e emissão do certificado; monografia disponível; certificado físico atualmente inacessível e instituição encerrada | usar “pós-graduado em Psicologia Transpessoal” no currículo e nas bios; não identificar instituição enquanto não houver decisão do autor |
+| Graduação em Psicologia — Universidade São Marcos; conclusão em 04/02/2010; diploma expedido em 14/09/2010 | CONFIRMADO — fonte documental | [[12 - Documentos Comprobatórios/15 - Universidade São Marcos - Diploma de Psicologia 2010]] | formação acadêmica principal; consolidação da atuação profissional em Psicologia: 2010 |
+| Pós-graduação em Psicologia Transpessoal pela FACIS — Faculdade de Ciências da Saúde de São Paulo | CONFIRMADO — fontes combinadas e produção acadêmica arquivada | Formação concluída em 2010; TCC entregue; certificado emitido em 2011; monografia disponível; certificado físico atualmente inacessível | usar a denominação, a conclusão, o TCC e a emissão do certificado nas versões pertinentes |
 | Pós-graduação em Neurociências e Comportamento — PUCRS, 2026 | CONFIRMADO — fonte documental | [[12 - Documentos Comprobatórios/17 - PUCRS - Certificado Pós-Graduação Neurociências e Comportamento 2026]] | pode constar como especialização/pós-graduação concluída |
 | TCC PUCRS, nota 9,5 | CONFIRMADO — fonte documental | [[12 - Documentos Comprobatórios/16 - PUCRS - TCC Nota 9,5 e Parecer 2026]] | usar no currículo acadêmico e como base do artigo derivado |
 | Duas formações em Psicanálise Integrativa | CONFIRMADO — fontes combinadas | confirmação de Fabiano; certificado de uma formação; cursos e workshops da Transpsicanálise no vault | registrar uma formação na SBPI, com Maria de Fátima Mora, e outra no Instituto Brasileiro de Transpsicanálise, com André Keppe como professor principal |
@@ -89,3 +91,8 @@ Os dossiês documentais descrevem o que cada arquivo mostra. Esta matriz acresce
 > **Corpo, trauma, consciência e espiritualidade na compreensão e tradução da experiência humana.**
 
 > Fabiano Deliberalli é psicólogo clínico e psicoterapeuta. Seu trabalho articula corpo, trauma, consciência e espiritualidade para compreender, traduzir e favorecer a integração de experiências humanas complexas, com rigor clínico, abertura e discernimento.
+
+
+# Fonte curricular vigente
+
+Para qualquer consulta, revisão ou produção curricular, consultar primeiro [[00 - Governança Curricular - Fonte Única e Derivação por Contexto 2026]] e depois [[22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]]. Esta nota é fonte documental, histórica ou derivada conforme sua finalidade; não deve competir com a matriz como fonte de organização da trajetória.

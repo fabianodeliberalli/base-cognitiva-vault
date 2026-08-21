@@ -80,7 +80,7 @@ Aplicações específicas:
 
 # Bio para mídia e entrevistas
 
-> Fabiano Deliberalli é psicólogo clínico, psicoterapeuta, professor e palestrante. Com mais de 30 anos de trajetória no cuidado terapêutico e atuação como psicólogo desde 2010, dedica-se a estudar e comunicar as relações entre corpo, trauma, consciência e espiritualidade. Seu trabalho busca traduzir experiências humanas complexas de forma acessível, preservando a realidade do vivido sem transformar hipóteses em certezas.
+> Fabiano Deliberalli é psicólogo clínico, psicoterapeuta, professor e palestrante. Com mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas e consolidada com a Psicologia, dedica-se a estudar e comunicar as relações entre corpo, trauma, consciência e espiritualidade. Seu trabalho busca traduzir experiências humanas complexas de forma acessível, preservando a realidade do vivido sem transformar hipóteses em certezas.
 
 # Bio de palestrante
 
@@ -130,3 +130,8 @@ A assinatura vigente é:
 # Regra final
 
 A versão pública deve ser escolhida por contexto, mas identidade, formulação temporal e assinatura canônica não devem variar. Informações confirmadas pelo autor não devem ser rebaixadas por uma IA à condição de dúvida apenas porque um documento físico não está atualmente acessível.
+
+
+# Fonte curricular vigente
+
+Para qualquer consulta, revisão ou produção curricular, consultar primeiro [[00 - Governança Curricular - Fonte Única e Derivação por Contexto 2026]] e depois [[22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]]. Esta nota é fonte documental, histórica ou derivada conforme sua finalidade; não deve competir com a matriz como fonte de organização da trajetória.

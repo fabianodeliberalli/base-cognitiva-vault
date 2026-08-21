@@ -201,3 +201,8 @@ Em 21/08/2026 foi disponibilizada imagem do diploma da Universidade São Marcos,
 # Nota de escopo da auditoria — 21/08/2026
 
 Esta auditoria informa o que o PDF contém; ela não substitui a fonte autobiográfica do autor. A ausência de um item no PDF não equivale à inexistência da formação ou da situação profissional correspondente.
+
+
+# Fonte curricular vigente
+
+Para qualquer consulta, revisão ou produção curricular, consultar primeiro [[00 - Governança Curricular - Fonte Única e Derivação por Contexto 2026]] e depois [[22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]]. Esta nota é fonte documental, histórica ou derivada conforme sua finalidade; não deve competir com a matriz como fonte de organização da trajetória.

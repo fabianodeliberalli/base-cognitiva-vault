@@ -32,6 +32,8 @@ O arquivo integral de certificados e diplomas permanece na Biblioteca e/ou no ac
 
 # Índice de notas
 
+- [[00 - Governança Curricular - Fonte Única e Derivação por Contexto 2026]] — regra de precedência e derivação.
+
 - [[22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]] — matriz detalhada por eixos, datas, cargas horárias e estados documentais.
 
 | Nota | Função |

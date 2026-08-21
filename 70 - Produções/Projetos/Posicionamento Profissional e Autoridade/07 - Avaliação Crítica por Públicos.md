@@ -186,3 +186,8 @@ A documentação complementar fortalece, no mercado e no CEEP, a leitura de um p
 - **Produtos digitais:** os registros dão lastro ao eixo educacional, mas cada produto precisa declarar se é clínica, educação continuada ou desenvolvimento pessoal.
 
 **Conclusão da atualização:** a amplitude está mais bem documentada, mas a estratégia permanece a mesma: uma identidade profissional, um eixo autoral e fontes formativas múltiplas, hierarquizadas por contexto.
+
+
+# Fonte curricular vigente
+
+Para qualquer consulta, revisão ou produção curricular, consultar primeiro [[00 - Governança Curricular - Fonte Única e Derivação por Contexto 2026]] e depois [[22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]]. Esta nota é fonte documental, histórica ou derivada conforme sua finalidade; não deve competir com a matriz como fonte de organização da trajetória.

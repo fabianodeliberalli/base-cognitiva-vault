@@ -35,7 +35,7 @@ Uma informação autobiográfica confirmada por Fabiano pode ser usada no currí
 
 ## Psicologia Transpessoal
 
-Fabiano concluiu a pós-graduação em Psicologia Transpessoal, entregou o TCC e recebeu o certificado. O certificado físico não está atualmente disponível e a instituição encerrou suas atividades. A formação é válida para currículo e comunicação pública. Usar a denominação sem instituição nesta base. Se uma instituição acadêmica exigir comprovação formal no futuro, Fabiano avaliará a forma de atendimento.
+Fabiano concluiu a pós-graduação em Psicologia Transpessoal pela FACIS — Faculdade de Ciências da Saúde de São Paulo, entregou o TCC e recebeu o certificado em 2011. A formação foi concluída em 2010; o certificado físico não está atualmente disponível e a instituição encerrou suas atividades. A formação é válida para currículo e comunicação pública. Usar a denominação sem instituição nesta base. Se uma instituição acadêmica exigir comprovação formal no futuro, Fabiano avaliará a forma de atendimento.
 
 ## Psicanálise Integrativa
 
@@ -98,7 +98,7 @@ Estas são tarefas de produção ou precisão, não dúvidas sobre a validade da
 
 ## Tempo de trajetória
 
-> **Mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas, e atuação como psicólogo desde 2010.**
+> **Mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas, e consolidação da atuação profissional em Psicologia: 2010.**
 
 ## Posicionamento
 
@@ -139,3 +139,8 @@ Quando surgir uma nova informação:
 3. atualizar a formulação pública somente se houver impacto real;
 4. preservar o histórico anterior;
 5. não converter o processo de arquivo em fiscalização da vida profissional de Fabiano.
+
+
+# Fonte curricular vigente
+
+Para qualquer consulta, revisão ou produção curricular, consultar primeiro [[00 - Governança Curricular - Fonte Única e Derivação por Contexto 2026]] e depois [[22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]]. Esta nota é fonte documental, histórica ou derivada conforme sua finalidade; não deve competir com a matriz como fonte de organização da trajetória.

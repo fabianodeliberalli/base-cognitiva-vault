@@ -115,3 +115,8 @@ Formulação pública segura:
 > Sua formação corporal inclui Reabilitação/Massagem, Medicina Tradicional Chinesa, acupuntura, Qi Gong, respiração, movimento, Seitai e Quiropraxia, além de formação continuada internacional em Acupuntura Bioenergética e Moxibustión pelo CEMETC. Em 2014, recebeu a credencial institucional *Venia Docente* para programas específicos de formação em Acupuntura Bioenergética.
 
 A *Venia Docente* permanece como marco histórico de docência; a página 15 não deve ser usada para reivindicar título de instrutor da ABQS ou CHQA.
+
+
+# Fonte curricular vigente
+
+Para qualquer consulta, revisão ou produção curricular, consultar primeiro [[00 - Governança Curricular - Fonte Única e Derivação por Contexto 2026]] e depois [[22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]]. Esta nota é fonte documental, histórica ou derivada conforme sua finalidade; não deve competir com a matriz como fonte de organização da trajetória.
