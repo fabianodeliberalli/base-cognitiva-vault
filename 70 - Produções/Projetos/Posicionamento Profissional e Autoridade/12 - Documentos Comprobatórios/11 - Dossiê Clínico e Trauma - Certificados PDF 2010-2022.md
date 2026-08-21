@@ -96,3 +96,8 @@ Os certificados históricos de terapeuta certificado EMDR das páginas 71 e 82 p
 - O certificado Aleces de 216h documenta o programa completo de 2020-2023.
 - O certificado de Nível II, 90h, documenta uma etapa do mesmo programa.
 - O certificado Deb Dana corrige o registro anterior de “2024, certificado perdido” para setembro de 2023, com 12h.
+
+
+# Fonte curricular vigente
+
+Para qualquer consulta, revisão ou produção curricular, consultar primeiro [[00 - Governança Curricular - Fonte Única e Derivação por Contexto 2026]] e depois [[22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]]. Esta nota é fonte documental, histórica ou derivada conforme sua finalidade; não deve competir com a matriz como fonte de organização da trajetória.
