@@ -41,7 +41,7 @@ Formulação adequada:
 
 ## CEMETC e Acupuntura Bioenergética
 
-- p. 18: autorização do CEMETC, registro 20068-D-B, emitida em Valladolid em 08/11/2014, autorizando Fabiano a ministrar programas de formação em Acupuntura Bioenergética estabelecidos pelo CEMETC e prevendo atualização do corpo docente.
+- A credencial literal *Venia Docente* do CEMETC, registro 20068-D-B, fólio 017, foi emitida em Valladolid em 08/11/2014 para ministrar programas de formação em Acupuntura Bioenergética; o documento registra validade até 08/11/2017 e prevê renovação mediante formação continuada do corpo docente.
 - p. 55: módulo 4, 32h, 07–09/08/2015.
 - p. 56: primeiro módulo internacional, 16h, 29–30/03/2014.
 - p. 61: módulo 2, 32h, 19–20/03/2016.
@@ -84,3 +84,14 @@ A MTC não deve ser apresentada como prova biomédica de teorias psicológicas. 
 - **Cursos de corpo/Qi Gong:** destacar instrutoria e módulos pertinentes.
 - **Currículo completo:** listar instituições, módulos, horas e a autorização docente do CEMETC.
 - **Academia:** tratar Qi, meridianos e Acupuntura Bioenergética como tradições e modelos históricos específicos, não como equivalentes automáticos à neurobiologia.
+
+## Complemento visual — comprovantes CEMETC disponibilizados em 21/08/2026
+
+Os novos arquivos confirmam, de modo independente e legível:
+
+- a *Venia Docente* e seu prazo documental;
+- certificados de 1º, 2º e 3º níveis;
+- certificados gerais de 360 horas/14,4 ECTS;
+- programas detalhados de fisiologia energética, Qi, meridianos, semiologia, diagnóstico e terapêutica.
+
+A leitura consolidada está em [[18 - CEMETC - Venia Docente e Acupuntura Bioenergética 2014-2016]].

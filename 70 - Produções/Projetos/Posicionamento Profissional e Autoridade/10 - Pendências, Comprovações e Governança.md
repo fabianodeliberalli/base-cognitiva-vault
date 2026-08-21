@@ -29,7 +29,7 @@ A auditoria do PDF resolveu ou reduziu algumas pendências. Consulte a atualiza�
 7. Organizar certificado e denominação literal da formação ALECES 2020–2023.
 8. Registrar datas e documentos das supervisões e imersões com Mário Salvador.
 9. Confirmar o ano da formação presencial em Brasília, provavelmente 2018.
-10. Obter documento de conclusão do programa estrangeiro e da *Venia Docente*.
+10. Verificar se houve renovação da *Venia Docente* após 08/11/2017, caso se pretenda apresentá-la como credencial vigente; a credencial histórica e sua denominação literal já estão documentadas.
 11. Localizar certificado da aula convidada na PUC-SP.
 12. Organizar certificado de Master Practitioner em PNL pela SBPNL.
 13. Verificar situação jurídica e cadastral do Centralma e a forma correta de referência histórica.
@@ -118,7 +118,7 @@ Para cada peça pública, verificar:
 - certificado da pós-graduação em Neurociências e Comportamento pela PUCRS: localizado;
 - certificados de EMDR e Brainspotting: conjunto relevante localizado;
 - certificado de aula convidada na PUC-SP: localizado;
-- autorização docente do CEMETC: localizada;
+- *Venia Docente* do CEMETC: denominação literal, escopo e validade impressa até 08/11/2017 localizados;
 - documentação histórica da licença sanitária do Centralma/Bioquantum: localizada;
 - certificado de conclusão de curso livre em Psicanálise Integrativa de 2002: localizado;
 - Practitioner e Master Practitioner em PNL: localizados;
@@ -128,7 +128,7 @@ Para cada peça pública, verificar:
 
 - certificado da pós-graduação em Psicologia Transpessoal;
 - histórico definitivo da PUCRS, caso necessário para currículo acadêmico;
-- confirmação da denominação literal “Venia Docente” e documento final/escopo integral do programa internacional;
+- eventual renovação da *Venia Docente* após 08/11/2017, se houver intenção de apresentar credencial vigente; o escopo histórico já está documentado;
 - segundo certificado de Psicanálise Integrativa;
 - confirmação de eventual vínculo do Master Practitioner com a SBPNL;
 - situação atual das certificações EMDR com prazo histórico de validade;
@@ -160,3 +160,7 @@ A orientação finalizada, a nota 9,5 e o parecer acadêmico favorável foram re
 ## Atualização — certificado PUCRS localizado
 
 O certificado institucional foi registrado em [[12 - Documentos Comprobatórios/17 - PUCRS - Certificado Pós-Graduação Neurociências e Comportamento 2026]]. A pendência do certificado foi encerrada; permanece apenas o histórico, caso necessário.
+
+## Complemento documental — CEMETC/Venia Docente
+
+Os novos comprovantes encerram a pendência de identificação da credencial: a denominação literal é *Venia Docente*, emitida em Valladolid em 08/11/2014, com validade impressa até 08/11/2017. A formação em Acupuntura Bioenergética e Moxibustión está documentada por certificados gerais e pelos níveis 1, 2 e 3. Permanece apenas a verificação de eventual renovação posterior, caso isso seja relevante para uma apresentação no presente.

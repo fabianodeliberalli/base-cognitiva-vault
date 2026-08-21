@@ -51,6 +51,7 @@ O arquivo integral de certificados e diplomas permanece na Biblioteca e/ou no ac
 | [[15 - Universidade São Marcos - Diploma de Psicologia 2010]] | Diploma de Psicologia; conclusão 04/02/2010; expedição 14/09/2010 |
 | [[16 - PUCRS - TCC Nota 9,5 e Parecer 2026]] | TCC aprovado; nota 9,5; parecer favorável em 11/02/2026 |
 | [[17 - PUCRS - Certificado Pós-Graduação Neurociências e Comportamento 2026]] | Certificado da especialização; emitido em 25/03/2026 |
+| [[18 - CEMETC - Venia Docente e Acupuntura Bioenergética 2014-2016]] | Venia Docente e formação em Acupuntura Bioenergética/Moxibustión; níveis 1–3 e certificados gerais |
 
 # Fonte nova auditada
 
@@ -75,7 +76,7 @@ O arquivo integral de certificados e diplomas permanece na Biblioteca e/ou no ac
 - CEMETRAC: Acupuntura Tradicional Chinesa, 2002–2004, 1.200h.
 - Pró-Salus Vitae: Auriculoterapia, 48h; Semiologia e Propedêutica da MTC, 143h.
 - CEMETC: módulos e níveis de Acupuntura Bioenergética e Moxibustão, páginas 18, 25, 27–28, 33, 36, 44, 53–56, 61, 64, 72–80.
-- CEMETC: autorização docente para ministrar programas de formação em Acupuntura Bioenergética, p. 18.
+- CEMETC: *Venia Docente* para ministrar programas de formação em Acupuntura Bioenergética, emitida em 08/11/2014, com validade impressa até 08/11/2017; níveis 1–3 e certificados gerais registrados em [[18 - CEMETC - Venia Docente e Acupuntura Bioenergética 2014-2016]].
 - Qi Gong e Tai Chi Qi Gong: instrutoria e cursos documentados, p. 5, 13, 15, 39, 60 e 81.
 - Seitai, Quiropraxia, alinhamento postural, reflexologia e cursos corporais: p. 16, 49, 94, 105, 112, 115 e 117.
 

@@ -33,8 +33,8 @@ tags:
 | TCC da PUCRS | DOCUMENTADO; nota 9,5 e parecer favorável registrados | `TCC Fabiano Deliberalli 1.pdf` e [[12 - Documentos Comprobatórios/16 - PUCRS - TCC Nota 9,5 e Parecer 2026]] | Usar título, nota e avaliação; transformar em artigo |
 | Técnico em Reabilitação — Massagista, EOMA, 1995, 1.440 h | DOCUMENTADO | diploma frente e verso | Usar na trajetória ampliada |
 | Acupuntura Tradicional Chinesa, CEMETRAC, 2002–2004, 1.200 h | DOCUMENTADO | certificado | Usar em currículo ampliado e trajetória corporal |
-| Programa *Máster en Acupuntura Bioenergética y Moxibustión*, 2014–2015 | FORMAÇÃO/MÓDULOS DOCUMENTADOS; ESCOPO FINAL A CONFIRMAR | matrícula e certificados CEMETC do PDF 2026, p. 18, 55–56, 61, 64, 72–80 | Usar “formação continuada internacional” e “módulos documentados”; não converter em título acadêmico brasileiro |
-| Autorização/credencial docente do CEMETC | DOCUMENTADO; denominação literal “Venia Docente” a confirmar | certificados e diplomas.pdf, p. 18 | Usar “autorização docente do CEMETC para programas de formação em Acupuntura Bioenergética”; confirmar a denominação Venia antes de usar isoladamente |
+| Formação continuada internacional em *Acupuntura Bioenergética y Moxibustión* — CEMETC, 2014–2016 | DOCUMENTADA; níveis 1, 2 e 3, certificados gerais de 360h/14,4 ECTS e programas detalhados localizados | matrículas, certificados e imagens CEMETC desta atualização; [[12 - Documentos Comprobatórios/18 - CEMETC - Venia Docente e Acupuntura Bioenergética 2014-2016]] | Usar “formação continuada internacional pelo CEMETC”; não converter em título acadêmico brasileiro nem somar cargas sem excluir sobreposição |
+| *Venia Docente* do CEMETC | DOCUMENTADA; denominação literal, emissão em 08/11/2014 e validade impressa até 08/11/2017 | [[12 - Documentos Comprobatórios/18 - CEMETC - Venia Docente e Acupuntura Bioenergética 2014-2016]] | Usar em tempo passado como credencial docente histórica para programas de formação em Acupuntura Bioenergética |
 | Formação em Psicanálise Integrativa | DOCUMENTADO EM PARTE E DECLARADO | certificados e diplomas.pdf, p. 104; segunda formação ainda sem documento próprio | Usar “formação em Psicanálise Integrativa” na mini bio; detalhar duas formações somente após organizar ambos os documentos |
 | EMDR e Brainspotting | DOCUMENTADO | certificados e diplomas.pdf, p. 2–3, 12, 21–24, 30, 32, 52, 57, 59, 62, 65–66 | Pode constar no currículo ampliado; distinguir certificações históricas com validade encerrada de formação continuada |
 | Formação ALECES 2020–2023 | DECLARADO E REGISTRADO EM CURRÍCULO | currículo histórico | Organizar certificado e denominação literal |
@@ -157,3 +157,7 @@ As imagens institucionais de 21/08/2026 registram orientação finalizada, envio
 ## Atualização documental — certificado PUCRS localizado
 
 O certificado institucional registra a conclusão da Especialização em Neurociências e Comportamento, em Porto Alegre, em 25/03/2026. Registro: [[12 - Documentos Comprobatórios/17 - PUCRS - Certificado Pós-Graduação Neurociências e Comportamento 2026]].
+
+## Complemento documental — CEMETC/Venia Docente
+
+A documentação visualizada nesta atualização confirma a denominação literal *Venia Docente*, o escopo de autorização para ministrar programas do CEMETC, a emissão em Valladolid em 08/11/2014 e a validade impressa até 08/11/2017. Também confirma certificados de 1º, 2º e 3º níveis de Acupuntura Bioenergética e Moxibustión e certificados gerais de 360 horas/14,4 ECTS. Ver [[12 - Documentos Comprobatórios/18 - CEMETC - Venia Docente e Acupuntura Bioenergética 2014-2016]].

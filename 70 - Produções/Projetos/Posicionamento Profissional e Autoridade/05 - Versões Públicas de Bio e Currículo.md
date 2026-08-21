@@ -132,3 +132,15 @@ Para currículo acadêmico e apresentações institucionais, pode-se informar: �
 ## Atualização acadêmica — certificado PUCRS localizado
 
 A pós-graduação em Neurociências e Comportamento pela PUCRS está comprovada por certificado institucional emitido em 25/03/2026. As versões acadêmicas podem utilizar “Especialização em Neurociências e Comportamento pela PUCRS”; a mini bio geral pode manter “pós-graduado em Neurociências e Comportamento pela PUCRS”.
+
+## Atualização pública — CEMETC e Venia Docente
+
+Para versões públicas, usar a credencial no passado e com sua denominação original:
+
+> Em 2014, recebeu do CEMETC a credencial institucional *Venia Docente* para ministrar programas de formação em Acupuntura Bioenergética.
+
+A formação pode ser descrita como:
+
+> Formação continuada internacional em Acupuntura Bioenergética e Moxibustión pelo CEMETC, com níveis 1, 2 e 3 documentados entre 2015 e 2016.
+
+A validade impressa até 08/11/2017 fica registrada no currículo formal e no dossiê documental para controle de atualidade; não é necessário sobrecarregar a mini bio com essa informação.

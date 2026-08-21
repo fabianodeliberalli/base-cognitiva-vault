@@ -69,7 +69,7 @@ Esta cronologia distingue datas documentalmente sustentadas de datas fornecidas 
 
 - Matrícula no programa internacional *Máster en Acupuntura Bioenergética y Moxibustión*, da Fundación Europea de Medicina Tradicional China.
 - Viagem à Espanha com grupo de brasileiros formados no programa.
-- Recebimento referido de *Venia Docente*. Documento específico ainda a organizar.
+- Em 08/11/2014, recebeu do CEMETC, em Valladolid, Espanha, a credencial institucional *Venia Docente* para ministrar programas de formação em Acupuntura Bioenergética; o documento registra validade até 08/11/2017.
 
 ## Aproximadamente 2018
 
@@ -140,3 +140,10 @@ A trajetória não deve ser comunicada como sucessão de abandonos. Cada etapa a
 - Autorização docente do CEMETC para programas de formação em Acupuntura Bioenergética localizada.
 - Aula convidada na PUC-SP, em 01/10/2002, e licença sanitária histórica do Centralma/Bioquantum, de 2019, localizadas.
 - A cronologia deve continuar distinguindo conclusão, participação, autorização docente, certificação histórica e formação declarada.
+
+## Complemento documental — CEMETC e Venia Docente
+
+- Certificados dos níveis 1, 2 e 3 de *Acupuntura Bioenergética y Moxibustión* documentados entre agosto de 2015 e setembro de 2016.
+- Certificados gerais de 360 horas/14,4 ECTS documentados em novembro de 2014 e setembro de 2016.
+- A formação passa a ser registrada como percurso continuado internacional pelo CEMETC, sem somar cargas potencialmente sobrepostas.
+- A credencial docente passa a ser registrada pela denominação literal *Venia Docente*, com validade histórica até 08/11/2017.
