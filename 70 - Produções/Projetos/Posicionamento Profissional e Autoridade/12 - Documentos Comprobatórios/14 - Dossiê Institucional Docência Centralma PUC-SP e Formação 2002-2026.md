@@ -96,3 +96,8 @@ A redação de docência deve ser: “professor, palestrante e facilitador em cu
 # Atualização institucional atual — 21/08/2026
 
 Fabiano confirma que a Centralma permanece registrada, aberta e operante e é a empresa pela qual emite notas fiscais de seus atendimentos psicológicos on-line. A licença de 2019 documenta o período presencial; a informação autobiográfica atual documenta a continuidade empresarial. Não manter “situação cadastral a verificar” como pendência genérica de IA.
+
+
+# Fonte curricular vigente
+
+Para qualquer consulta, revisão ou produção curricular, consultar primeiro [[00 - Governança Curricular - Fonte Única e Derivação por Contexto 2026]] e depois [[22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]]. Esta nota é fonte documental, histórica ou derivada conforme sua finalidade; não deve competir com a matriz como fonte de organização da trajetória.
