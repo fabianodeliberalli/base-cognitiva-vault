@@ -20,7 +20,7 @@ Esta nota registra o eixo histórico de escuta, linguagem, hipnose e investigaç
 
 # Psicanálise e Transpsicanálise
 
-- p. 104: certificado de conclusão do curso livre de formação em Psicanálise Integrativa, São Paulo, 23/06/2002.
+- p. 104: certificado de conclusão do curso livre de formação em Psicanálise Integrativa, São Paulo, 23/07/2002.
 - p. 102: workshop Neurociência das Funções Mentais, 12h, 02/09/2002.
 - p. 103: curso Bases Bioquímicas dos Transtornos Mentais, 36h, 16/09–16/12/2002.
 - p. 106: certificado do Instituto Brasileiro de Transpsicanálise, com denominação e data parcialmente legíveis.
