@@ -127,3 +127,8 @@ A instituição da pós-graduação em Psicologia Transpessoal fica omitida nas 
 ## Atualização acadêmica — TCC PUCRS aprovado com nota 9,5
 
 Para currículo acadêmico e apresentações institucionais, pode-se informar: “Pós-graduado em Neurociências e Comportamento pela PUCRS, com TCC aprovado com nota 9,5 em 2026.” A nota não precisa entrar na mini bio geral.
+
+
+## Atualização acadêmica — certificado PUCRS localizado
+
+A pós-graduação em Neurociências e Comportamento pela PUCRS está comprovada por certificado institucional emitido em 25/03/2026. As versões acadêmicas podem utilizar “Especialização em Neurociências e Comportamento pela PUCRS”; a mini bio geral pode manter “pós-graduado em Neurociências e Comportamento pela PUCRS”.

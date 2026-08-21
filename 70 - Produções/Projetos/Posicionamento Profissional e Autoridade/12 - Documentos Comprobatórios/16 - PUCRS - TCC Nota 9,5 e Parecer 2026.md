@@ -56,3 +56,8 @@ As imagens comprovam a finalização avaliativa, a nota e o parecer. O certifica
 # Próximo uso autoral
 
 A aprovação fortalece o currículo acadêmico, o artigo derivado do TCC e uma palestra autoral sobre sincronia neural interpessoal, neurofenomenologia, relação, consciência e espiritualidade. Esses produtos devem distinguir revisão teórica, hipótese autoral, evidência empírica e interpretação clínica.
+
+
+## Atualização — certificado da pós-graduação localizado
+
+O certificado institucional da PUCRS foi disponibilizado e está registrado em [[12 - Documentos Comprobatórios/17 - PUCRS - Certificado Pós-Graduação Neurociências e Comportamento 2026]].

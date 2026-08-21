@@ -155,3 +155,8 @@ O diploma da Universidade São Marcos foi disponibilizado e está registrado em 
 ## Atualização — TCC da PUCRS documentado com nota 9,5
 
 A orientação finalizada, a nota 9,5 e o parecer acadêmico favorável foram registrados em [[12 - Documentos Comprobatórios/16 - PUCRS - TCC Nota 9,5 e Parecer 2026]]. A confirmação da aprovação foi encerrada como pendência; permanece a produção do artigo derivado.
+
+
+## Atualização — certificado PUCRS localizado
+
+O certificado institucional foi registrado em [[12 - Documentos Comprobatórios/17 - PUCRS - Certificado Pós-Graduação Neurociências e Comportamento 2026]]. A pendência do certificado foi encerrada; permanece apenas o histórico, caso necessário.

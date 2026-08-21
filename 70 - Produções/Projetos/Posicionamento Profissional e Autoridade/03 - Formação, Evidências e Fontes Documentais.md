@@ -27,7 +27,7 @@ tags:
 | Psicólogo, CRP 06/98630 | DOCUMENTADO/CONFIRMADO | `escaner CRP.pdf` e confirmação direta | Incluir em publicidade profissional |
 | Graduação em Psicologia, Universidade São Marcos, conclusão em 04/02/2010/diploma expedido em 14/09/2010 | DECLARADO, com evidência contextual | declaração de Fabiano e trabalho acadêmico de 2007 | Pode constar publicamente; obter segunda via do diploma para arquivo |
 | Pós-graduação em Psicologia Transpessoal | DECLARADO, certificado e instituição a confirmar | `Monografia Pós Transpessoal.doc` | Usar sem instituição até conferir o certificado |
-| Pós-graduação em Neurociências e Comportamento, PUCRS, 2026 | DOCUMENTADO | certificado em certificados e diplomas.pdf, p. 1; conclusão em 25/03/2026 | Pode constar como pós-graduação concluída; histórico pode complementar o currículo acadêmico |
+| Pós-graduação em Neurociências e Comportamento, PUCRS, 2026 | DOCUMENTADO — certificado institucional localizado | [[12 - Documentos Comprobatórios/17 - PUCRS - Certificado Pós-Graduação Neurociências e Comportamento 2026]] e certificados e diplomas.pdf, p. 1 | Pode constar como especialização/pós-graduação concluída; histórico pode complementar o currículo acadêmico |
 | Curso de Neurobiologia Interpessoal, 16–17/10/2021, 16 h | DOCUMENTADO | certificado anexado; Biblioteca `libfile_1212471b56bc8191afa27090fbfc332b` | Pode constar no currículo ampliado, em bio de palestrante e no eixo relacional/trauma |
 | Formação online em Teoria Polivagal aplicada à prática clínica com Deb Dana, 2024 | DECLARADO/PENDENTE | relato direto; certificado perdido | Registrar como formação/estudos continuados; recuperar comprovante antes de atribuir instituição, carga horária ou certificação |
 | TCC da PUCRS | DOCUMENTADO; nota 9,5 e parecer favorável registrados | `TCC Fabiano Deliberalli 1.pdf` e [[12 - Documentos Comprobatórios/16 - PUCRS - TCC Nota 9,5 e Parecer 2026]] | Usar título, nota e avaliação; transformar em artigo |
@@ -152,3 +152,8 @@ A instituição da pós-graduação em Psicologia Transpessoal não deve ser exi
 ## Atualização documental — TCC PUCRS, nota 9,5
 
 As imagens institucionais de 21/08/2026 registram orientação finalizada, envio do TCC final e nota 9,5. O parecer de Fernanda Bordignon Nunes, datado de 11/02/2026, destaca relevância científica, delimitação, coerência dos objetivos e fundamentação atualizada. Registro detalhado em [[12 - Documentos Comprobatórios/16 - PUCRS - TCC Nota 9,5 e Parecer 2026]].
+
+
+## Atualização documental — certificado PUCRS localizado
+
+O certificado institucional registra a conclusão da Especialização em Neurociências e Comportamento, em Porto Alegre, em 25/03/2026. Registro: [[12 - Documentos Comprobatórios/17 - PUCRS - Certificado Pós-Graduação Neurociências e Comportamento 2026]].

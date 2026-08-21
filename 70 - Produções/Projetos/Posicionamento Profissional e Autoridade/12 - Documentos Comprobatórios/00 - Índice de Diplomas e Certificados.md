@@ -50,6 +50,7 @@ O arquivo integral de certificados e diplomas permanece na Biblioteca e/ou no ac
 | [[14 - Dossiê Institucional Docência Centralma PUC-SP e Formação 2002-2026]] | Docência, Centralma e experiência institucional |
 | [[15 - Universidade São Marcos - Diploma de Psicologia 2010]] | Diploma de Psicologia; conclusão 04/02/2010; expedição 14/09/2010 |
 | [[16 - PUCRS - TCC Nota 9,5 e Parecer 2026]] | TCC aprovado; nota 9,5; parecer favorável em 11/02/2026 |
+| [[17 - PUCRS - Certificado Pós-Graduação Neurociências e Comportamento 2026]] | Certificado da especialização; emitido em 25/03/2026 |
 
 # Fonte nova auditada
 
