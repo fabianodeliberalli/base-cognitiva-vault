@@ -87,7 +87,7 @@ A pergunta que dá unidade ao percurso é:
 
 ## Psicanálise e escuta
 
-Fabiano iniciou sua trajetória psicoterapêutica em paralelo às primeiras formações e experiências de atendimento. Realizou duas formações em Psicanálise Integrativa, conforme relato: uma no Instituto Brasileiro de Transpsicanálise, com André Keppe, e outra na SBPI, com Maria de Fátima Mora. O PDF comprova, na p. 104, a conclusão de um curso livre de Formação em Psicanálise Integrativa em 23/06/2002; o segundo documento permanece a organizar.
+Fabiano iniciou sua trajetória psicoterapêutica em paralelo às primeiras formações e experiências de atendimento. Realizou duas formações em Psicanálise Integrativa, conforme relato: uma no Instituto Brasileiro de Transpsicanálise, com André Keppe, e outra na SBPI, com Maria de Fátima Mora. O PDF comprova, na p. 104, a conclusão de um curso livre de Formação em Psicanálise Integrativa em 23/07/2002; o segundo documento permanece a organizar.
 
 A Psicanálise deve aparecer como origem estruturante da escuta, da compreensão do conflito, do sentido e da singularidade — não como uma lista de técnicas equivalentes à Psicologia.
 
@@ -269,7 +269,7 @@ A nota [[12 - Documentos Comprobatórios/19 - Auditoria Página a Página - Cert
 - Corpo e movimento: Reflexologia e Alinhamento da Coluna, Técnicas de Alinhamento Postural/Reflexologia/Relaxamento, Drenagem Linfática, manipulações de clavícula/glenoumeral e bacia, fitoterapia, Seitai e Quiropraxia.
 - Trauma: além dos registros já sintetizados, o PDF traz EMDR nível I de 20 horas em 07/05/2010, EMDR Intermediário de 20 horas em 24/10/2010, Neurobiologia Interpessoal de 16 horas com FOCUS e Atualizações em Neurobiologia Interpessoal de 16 horas presenciais + 16 créditos em 10/11/2013.
 - PNL: os documentos legíveis identificam Trivium — Practitioner de 112 horas e Master Practitioner de 80 horas, ambos em 2001. A atribuição à SBPNL permanece fora do texto público até confirmação documental específica.
-- Psicanálise: o certificado legível da p. 104 informa conclusão em 23/07/2002. Registros anteriores que indicavam 23/06/2002 devem ser corrigidos.
+- Psicanálise: o certificado legível da p. 104 informa conclusão em 23/07/2002. Registros anteriores que indicavam 23/07/2002 devem ser corrigidos.
 - Reiki e repertórios de consciência: primeiro e segundo graus de Usui Shiki Ryoho, Karuna Reiki Master registrado, Karuna Ki–Tera Mai, Melchizedek, Tameana, apometria, radiestesia e workshops de meditação/Aleph. Permanecem como genealogia histórica e não como eixo de abertura da persona.
 
 ### Regra narrativa
