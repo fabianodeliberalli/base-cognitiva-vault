@@ -141,7 +141,7 @@ A PNL compõe o repertório histórico de linguagem e comunicação, mas não pr
 ## Clínica e Centralma
 
 - Atendimento terapêutico iniciado ainda nas primeiras formações corporais e mantido de forma contínua, segundo relato do autor.
-- Atuação como psicólogo desde 2010.
+- Consolidação da atuação profissional em Psicologia: 2010.
 - Fundador do Bioquantum, posteriormente Centralma, com atuação clínica, organização de cursos e recepção de professores convidados no espaço físico até 2020.
 - A Centralma permanece como empresa atual, registrada, aberta e operante, vinculada aos atendimentos psicológicos exclusivamente on-line e à emissão das notas fiscais. A licença sanitária de 2019 permanece como registro institucional histórico do período presencial.
 
@@ -302,3 +302,8 @@ Este currículo combina documentos disponíveis e informações autobiográficas
 ## Documento público ampliado atualizado — 21/08/2026
 
 A versão pública ampliada, revisada após a auditoria curricular, está em [[18 - Currículo Profissional Ampliado Consolidado - Versão Pública 2026]].
+
+
+## Matriz detalhada de consulta
+
+A relação completa de formações, datas, cargas horárias, documentos, duplicatas, estados de comprovação e regras de uso está em [[22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]].

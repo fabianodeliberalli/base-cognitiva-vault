@@ -164,3 +164,8 @@ A biografia profissional não é limitada ao conjunto de certificados atualmente
 Formulação pública canônica:
 
 > **Corpo, trauma, consciência e espiritualidade na compreensão e tradução da experiência humana.**
+
+
+## Matriz detalhada de consulta
+
+A relação completa de formações, datas, cargas horárias, documentos, duplicatas, estados de comprovação e regras de uso está em [[22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]].

@@ -151,3 +151,8 @@ Seu trabalho articula corpo, trauma, consciência e espiritualidade para compree
 Este documento é a versão pública ampliada consolidada do percurso profissional de Fabiano Deliberalli. A partir dele podem ser derivadas versões específicas para clínica, CEEP, academia, mídia, palestras, site e produtos digitais, preservando a mesma identidade profissional e ajustando apenas a ênfase, a extensão e o vocabulário ao contexto.
 
 Para consultas documentais, fontes e governança curricular, ver no vault as notas [[03 - Formação, Evidências e Fontes Documentais]], [[10 - Pendências, Comprovações e Governança]], [[12 - Documentos Comprobatórios/00 - Índice de Diplomas e Certificados|Índice de Diplomas e Certificados]] e [[15 - Currículo Profissional Consolidado 2026]].
+
+
+## Matriz detalhada de consulta
+
+A relação completa de formações, datas, cargas horárias, documentos, duplicatas, estados de comprovação e regras de uso está em [[22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]].
