@@ -56,7 +56,7 @@ A pergunta que dá unidade ao percurso é:
 
 > Fabiano Deliberalli é psicólogo clínico e psicoterapeuta (CRP 06/98630), com mais de 30 anos de trajetória no cuidado terapêutico e atuação como psicólogo desde 2010. Sua formação acadêmica inclui graduação em Psicologia, pós-graduação em Psicologia Transpessoal e pós-graduação em Neurociências e Comportamento pela PUCRS, concluída em 2026.
 >
-> Sua formação clínica reúne Psicanálise Integrativa, EMDR, Brainspotting, hipnose e Psicoterapia Integradora e Reprocessamento do Trauma. O percurso inclui o programa de 216 horas do Instituto Aleces, nos Níveis I, II e III do Modelo Aleceia, realizado entre 2020 e 2023 com Mario Salvador e Carmen Cuenca, além de supervisão continuada em grupo com Mário Salvador. Também realizou formação em Neurobiologia Interpessoal com Daniel Siegel e o curso de 12 horas *Navigating the Nervous System: A Polyvagal Approach to Clinical Work*, com Deb Dana, em setembro de 2023. A pós-graduação em Psicologia Transpessoal foi concluída, com TCC entregue e certificado emitido. A instituição não é nomeada nesta versão porque o certificado físico não está atualmente disponível e a instituição encerrou as atividades.
+> Sua formação clínica reúne Psicanálise Integrativa, EMDR, Brainspotting, hipnose e Psicoterapia Integradora e Reprocessamento do Trauma. O percurso inclui o programa de 216 horas do Instituto Aleces, nos Níveis I, II e III do Modelo Aleceia, realizado entre 2020 e 2023 com Mario Salvador e Carmen Cuenca, além de supervisão continuada em grupo com Mário Salvador. Também realizou formação em Neurobiologia Interpessoal com Daniel Siegel e o curso de 12 horas *Navigating the Nervous System: A Polyvagal Approach to Clinical Work*, com Deb Dana, em setembro de 2023. 
 >
 > O percurso anterior em práticas corporais, Medicina Tradicional Chinesa, acupuntura, Qi Gong, respiração e movimento sustenta uma compreensão incorporada da experiência humana. Ao longo dos anos, desenvolveu atividades clínicas, docentes e de organização de cursos, incluindo a fundação histórica do Bioquantum/Centralma, a colaboração com Gilda Moura, o curso Além das Fronteiras do Saber, palestras e projetos de educação continuada.
 >
@@ -297,3 +297,8 @@ Formulação pública canônica:
 > **Corpo, trauma, consciência e espiritualidade na compreensão e tradução da experiência humana.**
 
 Este currículo combina documentos disponíveis e informações autobiográficas confirmadas por Fabiano. A natureza da fonte deve permanecer identificável, mas não funciona como escala automática de legitimidade. Exigências formais de terceiros serão tratadas por Fabiano no contexto em que surgirem.
+
+
+## Documento público ampliado atualizado — 21/08/2026
+
+A versão pública ampliada, revisada após a auditoria curricular, está em [[18 - Currículo Profissional Ampliado Consolidado - Versão Pública 2026]].
