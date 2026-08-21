@@ -4,7 +4,7 @@ titulo: Matriz de Uso por Contexto e Fronteiras
 tipo: governanca-de-ofertas
 status: governante
 projeto: Posicionamento Profissional e Autoridade Autoral
-data: 2026-08-15
+data: 2026-08-21
 autor: Fabiano Deliberalli
 tags:
   - ética
@@ -129,3 +129,16 @@ A antropologia e os princípios autorais podem permanecer comuns. O que muda é 
 
 Nenhuma oferta deve emprestar a autoridade de outra para prometer o que não realiza.
 
+# Atualização de fronteiras a partir dos certificados
+
+Os documentos recém-auditados devem ser usados conforme o regime da oferta:
+
+- **Clínica:** Psicologia, CRP, formação clínica, supervisão e experiência; certificações históricas não devem virar promessa de resultado.
+- **CEEP:** EMDR, trauma, Neurobiologia Interpessoal, fenomenologia, MTC e consciência podem aparecer como fontes de percurso e estudo, com referências e distinção entre modelos.
+- **Curso de desenvolvimento pessoal:** PNL, hipnose, Qi Gong e práticas corporais podem aparecer como repertórios educacionais, sem qualificar participantes para atender terceiros.
+- **Palestras e mídia:** usar a história corporal e a formação interdisciplinar como narrativa; evitar apresentar cursos de física quântica, radiestesia, bioenergologia ou Reiki como validação científica.
+- **Academia:** a pós-graduação PUCRS e a ata de defesa fortalecem o currículo; certificados de cursos não equivalem a produção revisada por pares ou vínculo de pesquisa.
+
+Formulação de governança:
+
+> A formação amplia a capacidade de formular perguntas e construir contextos de aprendizagem; não autoriza, sozinha, extrapolações de escopo profissional ou conclusões científicas.

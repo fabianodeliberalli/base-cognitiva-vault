@@ -4,7 +4,7 @@ titulo: Posicionamento Profissional e Arquitetura de Autoridade
 tipo: estrategia-de-posicionamento
 status: estrutura-governante
 projeto: Posicionamento Profissional e Autoridade Autoral
-data: 2026-08-15
+data: 2026-08-21
 autor: Fabiano Deliberalli
 tags:
   - posicionamento
@@ -164,3 +164,28 @@ A frase de posicionamento escolhida deverá:
 6. diferenciar sem produzir estranhamento desnecessário;
 7. permitir desdobramentos para clínica, CEEP, curso, mídia e academia.
 
+# Atualização de autoridade documental — 21/08/2026
+
+O PDF de 117 páginas reforça a arquitetura em três camadas:
+
+## Frente
+
+- Psicologia, CRP, pós-graduação PUCRS;
+- trauma, EMDR, Brainspotting e supervisão continuada;
+- consciência, espiritualidade e tradução da experiência.
+
+## Sustentação
+
+- Neurobiologia Interpessoal;
+- Mário Salvador e Psicoterapia Integradora e Reprocessamento do Trauma;
+- hipnose;
+- docência em cursos livres, ABBSP, IGM, CEEP e PUC-SP como aula convidada;
+- Centralma/Bioquantum como experiência institucional histórica.
+
+## Genealogia
+
+- EOMA, Shiozawa, CEMETRAC, Pró-Salus Vitae;
+- MTC, Qi Gong, respiração, movimento e autorização docente CEMETC;
+- PNL, Reiki, Seitai e demais repertórios históricos.
+
+A nova evidência permite substituir a sensação de “trajetória apenas declarada” por uma arquitetura verificável. Ainda assim, o princípio permanece: provas documentais sustentam a autoria; não a substituem.

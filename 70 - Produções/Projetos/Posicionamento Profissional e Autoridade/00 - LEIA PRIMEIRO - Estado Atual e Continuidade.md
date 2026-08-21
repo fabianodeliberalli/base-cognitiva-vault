@@ -4,7 +4,7 @@ titulo: LEIA PRIMEIRO - Estado Atual e Continuidade
 tipo: estado-e-continuidade
 status: ativo
 projeto: Posicionamento Profissional e Autoridade Autoral
-data: 2026-08-18
+data: 2026-08-21
 autor: Fabiano Deliberalli
 tags:
   - posicionamento
@@ -71,7 +71,7 @@ Não utilizar formulações que sugiram mais de 30 anos de exercício da Psicolo
 - [[70 - Produções/Projetos/Comunidade - Espiritualidade e Psicoterapia/00 - LEIA PRIMEIRO - Estado Atual e Continuidade|CEEP — estado e continuidade]]
 - [[70 - Produções/Cursos/Curso - Nome Provisório/LEIA PRIMEIRO - Estado Atual e Continuidade do Curso|Traduzindo o Ser Humano — estado e continuidade]]
 
-# Estado em 15 de agosto de 2026
+# Estado em 21 de agosto de 2026
 
 - currículo ampliado consolidado e criticamente revisado;
 - mini bio e versões contextuais reconstruídas;
@@ -80,6 +80,7 @@ Não utilizar formulações que sugiram mais de 30 anos de exercício da Psicolo
 - dez prioridades estratégicas organizadas por dependência;
 - fontes curriculares inventariadas;
 - curso de Neurobiologia Interpessoal documentado por certificado e formação declarada em Teoria Polivagal registrada como pendência documental;
+- auditoria documental de 117 páginas de certificados e diplomas concluída;
 - pendências documentais separadas da redação pública;
 - próximo passo: abrir o chat específico, auditar este núcleo e executar a Fase 1 — posicionamento, fronteiras e versões de currículo.
 
@@ -94,3 +95,13 @@ Em qualquer novo chat, ler primeiro esta nota e depois, conforme a tarefa:
 - produtos digitais: notas 06, 07, 08 e 09;
 - comprovação ou auditoria: notas 03 e 10.
 - diplomas e certificados: pasta `12 - Documentos Comprobatórios`, começando pelo índice AUT-DOC-00.
+
+## Auditoria documental do PDF de certificados e diplomas
+
+- auditoria do arquivo de 117 páginas concluída em 21/08/2026;
+- pós-graduação em Neurociências e Comportamento pela PUCRS confirmada por certificado;
+- núcleo EMDR, Brainspotting, Mário Salvador e Neurobiologia Interpessoal ampliado por documentos;
+- trajetória em MTC, Qi Gong e docência no CEMETC ampliada por módulos e autorização docente documentados;
+- aula convidada na PUC-SP e licença sanitária histórica do Centralma/Bioquantum documentadas;
+- inventário detalhado em [[12 - Documentos Comprobatórios/10 - Auditoria PDF Certificados e Diplomas 2026]];
+- fonte integral: certificados e diplomas.pdf, Biblioteca libfile_8005a060ddbc81919f556da425e8e265.

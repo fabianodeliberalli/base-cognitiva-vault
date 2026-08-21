@@ -4,7 +4,7 @@ titulo: Dossiê Curricular Mestre
 tipo: dossie-curricular
 status: consolidado-com-pendencias-documentais
 projeto: Posicionamento Profissional e Autoridade Autoral
-data: 2026-08-15
+data: 2026-08-21
 autor: Fabiano Deliberalli
 tags:
   - currículo
@@ -137,3 +137,15 @@ Princípio epistemológico:
 
 Essa terceira camada deve explicar a origem do olhar incorporado e integrativo, sem ocupar o primeiro parágrafo de toda apresentação.
 
+# Atualização documental em 21/08/2026
+
+A auditoria do arquivo [[12 - Documentos Comprobatórios/10 - Auditoria PDF Certificados e Diplomas 2026]] atualiza o grau de comprovação do dossiê:
+
+- pós-graduação em Neurociências e Comportamento pela PUCRS: certificado localizado, conclusão registrada em 25/03/2026;
+- EMDR, Brainspotting, Neurobiologia Interpessoal e módulos com Mário Salvador: certificados e declarações documentais localizados em diferentes páginas;
+- MTC, Qi Gong e Acupuntura Bioenergética: módulos, cargas e autorização docente do CEMETC documentados;
+- formação em Psicanálise Integrativa: certificado de conclusão de curso livre localizado em 2002; a segunda formação declarada continua pendente de documento próprio;
+- PNL: Practitioner e Master Practitioner documentados; o emissor identificado no PDF não deve ser substituído por SBPNL sem confirmação adicional;
+- aula convidada na PUC-SP e licença sanitária histórica do Centralma/Bioquantum documentadas.
+
+A diversidade permanece organizada por camadas: identidade psicológica atual, formação clínica e supervisão, docência/produção e genealogia corporal-integrativa.

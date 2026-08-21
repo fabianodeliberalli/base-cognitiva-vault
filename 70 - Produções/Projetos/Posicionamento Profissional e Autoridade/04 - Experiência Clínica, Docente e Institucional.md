@@ -4,7 +4,7 @@ titulo: Experiência Clínica, Docente e Institucional
 tipo: mapa-de-experiencia
 status: consolidado-com-detalhes-a-completar
 projeto: Posicionamento Profissional e Autoridade Autoral
-data: 2026-08-15
+data: 2026-08-21
 autor: Fabiano Deliberalli
 tags:
   - clínica
@@ -119,3 +119,18 @@ Evitar, sem vínculo correspondente:
 6. Conduzir grupos e comunidades de aprendizagem.
 7. Integrar repertório histórico sem apagar critérios éticos e epistemológicos atuais.
 
+# Atualização institucional e documental — 21/08/2026
+
+A auditoria do PDF acrescenta evidência para três áreas:
+
+## Docência convidada
+
+O certificado da p. 8 documenta aula/palestra convidada na Faculdade de Psicologia da PUC-SP, em 01/10/2002. A formulação correta é “professor convidado para uma aula na Faculdade de Psicologia da PUC-SP”; não há base para “professor da PUC-SP” ou vínculo regular.
+
+## Centralma/Bioquantum
+
+A p. 83 documenta licença sanitária histórica de 2019 para Clínica de Psicologia Centralma EIRELI/Núcleo de Terapias Bioquantum, com Fabiano como responsável legal e técnico naquele documento. Isso fortalece a narrativa de fundador e articulador institucional, mas não substitui a verificação cadastral atual.
+
+## Genealogia didática
+
+A docência deve ser narrada como uma continuidade de ensaios e contextos: cursos de Reiki e práticas corporais, Seitai/Quiropraxia, aula convidada na PUC-SP, organização de cursos no Centralma, assistência a Gilda Moura, Além das Fronteiras do Saber, ABBSP, IGM e CEEP. O conjunto sustenta “professor e palestrante em cursos livres e educação continuada”, sem sugerir carreira universitária regular.

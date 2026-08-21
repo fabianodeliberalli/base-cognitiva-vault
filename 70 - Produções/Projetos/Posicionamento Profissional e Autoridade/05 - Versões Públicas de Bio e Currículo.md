@@ -4,7 +4,7 @@ titulo: Versões Públicas de Bio e Currículo
 tipo: banco-de-versoes-publicas
 status: candidatas-consolidadas
 projeto: Posicionamento Profissional e Autoridade Autoral
-data: 2026-08-15
+data: 2026-08-21
 autor: Fabiano Deliberalli
 tags:
   - bio
@@ -98,3 +98,22 @@ Quando for necessária uma versão formal mais longa, organizar nesta ordem:
 - **“Fundador do Centralma”:** adequado como dado histórico; verificar situação jurídica antes de apresentar função institucional atual.
 - **“Tratamento de trauma”:** associar à formação, experiência e campo clínico, evitando promessas de resultado.
 
+# Atualização de redação após auditoria documental — 21/08/2026
+
+A pós-graduação em Neurociências e Comportamento pela PUCRS está documentada pelo certificado de 25/03/2026. O eixo EMDR/Brainspotting e a trajetória corporal/MTC também possuem documentação mais ampla.
+
+## Mini bio geral revisada
+
+> Fabiano Deliberalli é psicólogo clínico e psicoterapeuta (CRP 06/98630), com mais de 30 anos de trajetória no cuidado terapêutico e atuação como psicólogo desde 2010. É pós-graduado em Psicologia Transpessoal e em Neurociências e Comportamento pela PUCRS, com formação em Psicanálise Integrativa, EMDR, Brainspotting e hipnose.
+>
+> Seu trabalho articula corpo, trauma, consciência e espiritualidade na compreensão de experiências humanas complexas. Professor e palestrante em cursos livres e educação continuada, desenvolve projetos voltados à tradução da experiência humana, incluindo o CEEP e Traduzindo o Ser Humano.
+
+## Site ampliado — parágrafo complementar
+
+> Sua trajetória corporal inclui formação técnica em Reabilitação/Massagem, estudos de Medicina Tradicional Chinesa, Qi Gong, respiração e movimento, além de formação continuada internacional em Acupuntura Bioenergética e Moxibustão e autorização docente do CEMETC para programas específicos de formação em Acupuntura Bioenergética.
+
+Este parágrafo deve entrar depois da identidade psicológica e da formação clínica, não na abertura da página.
+
+## Regra de seleção
+
+O PDF não exige uma mini bio maior. Ele permite que o currículo ampliado seja mais preciso, que o CEEP conte com sustentação documental e que a página de trajetória mostre a origem corporal da persona sem transformar a apresentação em catálogo.

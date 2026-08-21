@@ -4,7 +4,7 @@ titulo: Linha do Tempo Profissional
 tipo: linha-do-tempo
 status: consolidado-com-datas-a-confirmar
 projeto: Posicionamento Profissional e Autoridade Autoral
-data: 2026-08-15
+data: 2026-08-21
 autor: Fabiano Deliberalli
 tags:
   - trajetória
@@ -129,3 +129,11 @@ A trajetória não deve ser comunicada como sucessão de abandonos. Cada etapa a
 - docência: tradução de complexidade;
 - produção autoral: organização das camadas em linguagem própria.
 
+## 2026-08-21 — auditoria documental
+
+- Auditoria visual do PDF certificados e diplomas.pdf, com 117 páginas.
+- Certificado da pós-graduação em Neurociências e Comportamento pela PUCRS localizado; conclusão em 25/03/2026.
+- Documentos de EMDR, Brainspotting, Neurobiologia Interpessoal e Psicoterapia Integradora e Reprocessamento do Trauma localizados.
+- Autorização docente do CEMETC para programas de formação em Acupuntura Bioenergética localizada.
+- Aula convidada na PUC-SP, em 01/10/2002, e licença sanitária histórica do Centralma/Bioquantum, de 2019, localizadas.
+- A cronologia deve continuar distinguindo conclusão, participação, autorização docente, certificação histórica e formação declarada.

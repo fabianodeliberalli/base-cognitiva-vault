@@ -4,7 +4,7 @@ titulo: Formação, Evidências e Fontes Documentais
 tipo: matriz-de-evidencias
 status: ativo
 projeto: Posicionamento Profissional e Autoridade Autoral
-data: 2026-08-15
+data: 2026-08-21
 autor: Fabiano Deliberalli
 tags:
   - documentos
@@ -27,26 +27,26 @@ tags:
 | Psicólogo, CRP 06/98630 | DOCUMENTADO/CONFIRMADO | `escaner CRP.pdf` e confirmação direta | Incluir em publicidade profissional |
 | Graduação em Psicologia, Universidade São Marcos, conclusão 2009/diploma 2010 | DECLARADO, com evidência contextual | declaração de Fabiano e trabalho acadêmico de 2007 | Pode constar publicamente; obter segunda via do diploma para arquivo |
 | Pós-graduação em Psicologia Transpessoal, FACIS, 2009 | DECLARADO, com monografia apresentada | `Monografia Pós Transpessoal.doc` | Pode constar; solicitar certificado para arquivo |
-| Pós-graduação em Neurociências e Comportamento, PUCRS, 2026 | CONFIRMADO PELO AUTOR | currículo de 2026 e TCC | Pode constar; arquivar certificado e histórico definitivos |
+| Pós-graduação em Neurociências e Comportamento, PUCRS, 2026 | DOCUMENTADO | certificado em certificados e diplomas.pdf, p. 1; conclusão em 25/03/2026 | Pode constar como pós-graduação concluída; histórico pode complementar o currículo acadêmico |
 | Curso de Neurobiologia Interpessoal, 16–17/10/2021, 16 h | DOCUMENTADO | certificado anexado; Biblioteca `libfile_1212471b56bc8191afa27090fbfc332b` | Pode constar no currículo ampliado, em bio de palestrante e no eixo relacional/trauma |
 | Formação online em Teoria Polivagal aplicada à prática clínica com Deb Dana, 2024 | DECLARADO/PENDENTE | relato direto; certificado perdido | Registrar como formação/estudos continuados; recuperar comprovante antes de atribuir instituição, carga horária ou certificação |
 | TCC da PUCRS | DOCUMENTADO EM OUTRO NÚCLEO | `TCC Fabiano Deliberalli 1.pdf` | Usar título literal e transformar em artigo |
 | Técnico em Reabilitação — Massagista, EOMA, 1995, 1.440 h | DOCUMENTADO | diploma frente e verso | Usar na trajetória ampliada |
 | Acupuntura Tradicional Chinesa, CEMETRAC, 2002–2004, 1.200 h | DOCUMENTADO | certificado | Usar em currículo ampliado e trajetória corporal |
-| Programa *Máster en Acupuntura Bioenergética y Moxibustión*, 2014–2015 | MATRÍCULA DOCUMENTADA; CONCLUSÃO PENDENTE | folhas de matrícula e PDF da bolsa | Preservar denominação original; obter documento de conclusão |
-| *Venia Docente* recebida na Espanha | DECLARADO/PENDENTE | relato de Fabiano | Usar apenas em currículo ampliado após organizar a credencial |
-| Duas formações em Psicanálise Integrativa | DECLARADO E REITERADO | currículos históricos e relato direto | Pode constar como formação; organizar certificados e datas |
-| EMDR e Brainspotting | DECLARADO E REITERADO | currículos históricos | Pode constar como formação; organizar certificados, níveis e datas |
+| Programa *Máster en Acupuntura Bioenergética y Moxibustión*, 2014–2015 | FORMAÇÃO/MÓDULOS DOCUMENTADOS; ESCOPO FINAL A CONFIRMAR | matrícula e certificados CEMETC do PDF 2026, p. 18, 55–56, 61, 64, 72–80 | Usar “formação continuada internacional” e “módulos documentados”; não converter em título acadêmico brasileiro |
+| Autorização/credencial docente do CEMETC | DOCUMENTADO; denominação literal “Venia Docente” a confirmar | certificados e diplomas.pdf, p. 18 | Usar “autorização docente do CEMETC para programas de formação em Acupuntura Bioenergética”; confirmar a denominação Venia antes de usar isoladamente |
+| Formação em Psicanálise Integrativa | DOCUMENTADO EM PARTE E DECLARADO | certificados e diplomas.pdf, p. 104; segunda formação ainda sem documento próprio | Usar “formação em Psicanálise Integrativa” na mini bio; detalhar duas formações somente após organizar ambos os documentos |
+| EMDR e Brainspotting | DOCUMENTADO | certificados e diplomas.pdf, p. 2–3, 12, 21–24, 30, 32, 52, 57, 59, 62, 65–66 | Pode constar no currículo ampliado; distinguir certificações históricas com validade encerrada de formação continuada |
 | Formação ALECES 2020–2023 | DECLARADO E REGISTRADO EM CURRÍCULO | currículo histórico | Organizar certificado e denominação literal |
 | Supervisões mensais com Mário Salvador | DECLARADO, ATUAL | relato direto | Pode constar como formação continuada/supervisão |
 | Imersões 2025 e 2026 com Mário Salvador | DECLARADO | relato direto | Registrar datas e certificados, se houver |
 | Estudo em Brasília com Mário Salvador, provável 2018 | PENDENTE | memória do autor | Não publicar o ano até confirmar |
-| Master Practitioner em PNL pela SBPNL | DECLARADO E REGISTRADO EM CURRÍCULOS | currículos históricos | Usar na versão ampliada, não como eixo atual |
+| Formação em PNL, incluindo Practitioner e Master Practitioner | DOCUMENTADO; emissor/SBPNL a confirmar | certificados e diplomas.pdf, p. 99 e 101 | Usar “formação em PNL” até confirmar a atribuição institucional à SBPNL |
 | Formações em hipnose | DECLARADO E REGISTRADO EM CURRÍCULOS | currículos históricos | Organizar certificados e denominações |
 | Reiki Master e docência em Reiki | DECLARADO | currículos e relato | Usar como linhagem histórica em versão ampliada |
-| Fundador do Bioquantum/Centralma e atuação até 2020 | DECLARADO | relatos e materiais públicos históricos | Verificar dados jurídicos antes de usar denominação institucional atual |
+| Fundador do Bioquantum/Centralma e atuação até 2020 | DOCUMENTADO HISTORICAMENTE | licença sanitária em certificados e diplomas.pdf, p. 83; situação atual ainda não verificada | Usar como experiência histórica; não afirmar funcionamento ou função atual |
 | *Além das Fronteiras do Saber*, cinco edições | DECLARADO | relato e materiais de aula existentes | Usar em bio docente e currículo de palestrante |
-| Aula convidada na PUC-SP | DECLARADO; CERTIFICADO REFERIDO | documento ainda não anexado | Usar no currículo completo após localizar certificado; não sugerir vínculo docente |
+| Aula convidada na PUC-SP | DOCUMENTADO | certificados e diplomas.pdf, p. 8; 01/10/2002 | Usar no currículo completo como aula/palestra convidada; não sugerir vínculo docente regular |
 | Palestras em empresas | DECLARADO | currículos históricos | Levantar instituições, temas e datas |
 | Workshop ABBSP, 07/03/2026 | DOCUMENTADO | certificado ABBSP | Usar em bio de palestrante e CEEP |
 | Palestra IGM, agosto de 2026 | DOCUMENTADO POR ATIVOS DO PROJETO | apresentação e materiais do evento | Usar em bio de mídia/palestrante |
@@ -127,3 +127,18 @@ tags:
 Os arquivos integrais permanecem na Biblioteca ou no acervo pessoal. O vault preserva identificação, conteúdo factual necessário, função e status de comprovação. Quando um novo documento for obtido, atualizar esta matriz antes de alterar versões públicas.
 
 O inventário detalhado de diplomas, certificados, registros profissionais, matrículas e documentos acadêmicos relacionados está em [[12 - Documentos Comprobatórios/00 - Índice de Diplomas e Certificados]].
+
+# Atualização documental — PDF de 117 páginas
+
+O inventário completo está em [[12 - Documentos Comprobatórios/10 - Auditoria PDF Certificados e Diplomas 2026]]. Os dossiês por eixo estão em:
+
+- [[11 - Dossiê Clínico e Trauma - Certificados PDF 2010-2022]];
+- [[12 - Dossiê MTC Qi Gong e Corpo - Certificados PDF 1995-2018]];
+- [[13 - Dossiê Psicanálise PNL Hipnose e Consciência - Certificados PDF 1998-2022]];
+- [[14 - Dossiê Institucional Docência Centralma PUC-SP e Formação 2002-2026]].
+
+## Fonte nova
+
+- certificados e diplomas.pdf — Biblioteca libfile_8005a060ddbc81919f556da425e8e265.
+- 117 páginas auditadas.
+- O PDF confirma a conclusão da pós-graduação PUCRS, documenta formações clínicas e amplia a comprovação da genealogia corporal/MTC e da docência histórica.

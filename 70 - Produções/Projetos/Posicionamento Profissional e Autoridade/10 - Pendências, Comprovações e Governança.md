@@ -4,7 +4,7 @@ titulo: Pendências, Comprovações e Governança
 tipo: backlog-de-comprovacao
 status: ativo
 projeto: Posicionamento Profissional e Autoridade Autoral
-data: 2026-08-15
+data: 2026-08-21
 autor: Fabiano Deliberalli
 tags:
   - pendências
@@ -17,7 +17,9 @@ tags:
 
 Pendência documental não apaga uma trajetória real, mas modifica o grau de precisão e a forma de publicação. A redação pública deve ser proporcional ao que está confirmado, enquanto o arquivo interno preserva a informação e indica o que falta.
 
-# Pendências prioritárias já reconhecidas
+# Pendências prioritárias já reconhecidas — lista original
+
+A auditoria do PDF resolveu ou reduziu algumas pendências. Consulte a atualização abaixo antes de executar a lista.
 
 1. Emitir certidão atual de regularidade do CRP 06/98630.
 2. Obter segunda via do diploma de Psicologia da Universidade São Marcos.
@@ -110,3 +112,37 @@ Para cada peça pública, verificar:
 - configuração final da página bibliográfica;
 - métricas e instrumento de avaliação educacional dos produtos.
 
+# Atualização após auditoria do PDF — 21/08/2026
+
+## Resolvidas ou substancialmente reduzidas
+
+- certificado da pós-graduação em Neurociências e Comportamento pela PUCRS: localizado;
+- certificados de EMDR e Brainspotting: conjunto relevante localizado;
+- certificado de aula convidada na PUC-SP: localizado;
+- autorização docente do CEMETC: localizada;
+- documentação histórica da licença sanitária do Centralma/Bioquantum: localizada;
+- certificado de conclusão de curso livre em Psicanálise Integrativa de 2002: localizado;
+- Practitioner e Master Practitioner em PNL: localizados;
+- módulos relevantes de hipnose, Qi Gong, MTC e Acupuntura Bioenergética: localizados.
+
+## Permanecem em aberto
+
+- diploma de Psicologia e certificado da pós-graduação em Psicologia Transpessoal;
+- histórico definitivo da PUCRS, caso necessário para currículo acadêmico;
+- confirmação da denominação literal “Venia Docente” e documento final/escopo integral do programa internacional;
+- segundo certificado de Psicanálise Integrativa;
+- confirmação de eventual vínculo do Master Practitioner com a SBPNL;
+- situação atual das certificações EMDR com prazo histórico de validade;
+- certidão atual do CRP;
+- situação jurídica/cadastral atual do Centralma;
+- datas e comprovantes das supervisões mensais e imersões com Mário Salvador;
+- certificado/comprovante da formação online com Deb Dana;
+- leitura complementar de páginas do PDF com títulos parcialmente legíveis.
+
+# Atualização de prioridade
+
+A tarefa deixou de ser “encontrar todos os certificados” e passou a ser:
+
+1. confirmar os documentos ainda necessários para as versões formais;
+2. definir quais documentos realmente entram em cada contexto;
+3. converter a trajetória comprovada em produção pública organizada.
