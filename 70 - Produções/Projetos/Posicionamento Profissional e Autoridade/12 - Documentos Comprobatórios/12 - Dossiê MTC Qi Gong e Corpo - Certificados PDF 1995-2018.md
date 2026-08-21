@@ -95,3 +95,23 @@ Os novos arquivos confirmam, de modo independente e legível:
 - programas detalhados de fisiologia energética, Qi, meridianos, semiologia, diagnóstico e terapêutica.
 
 A leitura consolidada está em [[18 - CEMETC - Venia Docente e Acupuntura Bioenergética 2014-2016]].
+
+
+## Revisão complementar do PDF de 117 páginas
+
+O eixo corporal é mais amplo e documentado do que a síntese anterior. A auditoria [[19 - Auditoria Página a Página - Certificados e Diplomas 2026]] registra:
+
+- EOMA: diploma de Técnico em Reabilitação — modalidade Massagista, 1.440h, além de Reflexologia/Alinhamento da Coluna, Alinhamento Postural/Reflexologia/Relaxamento, Drenagem Linfática, Nós de Fitoterapia e cursos de manipulação de clavícula/glenoumeral e bacia;
+- Shiatsu Yasuragi/Japan Sotai Institute: Sotai/Reeducação Postural Integral, nível básico (p. 31);
+- EOMA/Instituto Shioda: cursos intensivos de Chi Kung, Massagem Quiroprática e Seitai com Energização em 2017 e nível II em 2018 (p. 16 e 49);
+- Pró-Salus Vitalis: Auriculoterapia, 48h (p. 100) e Semiologia e Propedêutica da MTC, 143h (p. 110);
+- CEMETC: seminários de história clínica, semiologia, Ryodoraku, prática ambulatorial, dor, doenças cardiovasculares/dermatológicas, processos tumorais, ginecologia/obstetrícia, metabolismo e outros (p. 25, 27–28, 33, 36, 44, 53–54);
+- Heiwa/Long Tao/CEMETC: módulos de Acupuntura Bioenergética de 16h e 32h, níveis I–III, certificados gerais de 360h/14,4 ECTS e programas detalhados (p. 55–56, 61, 64, 72–80);
+- *Venia Docente* do CEMETC, emitida em Valladolid em 08/11/2014, para ministrar programas de formação em Acupuntura Bioenergética, com validade impressa até 08/11/2017 (p. 18);
+- Qi Gong: instrutor de 96h (p. 5), 1 Duan técnico da Chinese Health Qigong Association (p. 13 e complemento p. 39), Liu Zi Jue com limitação expressa de não conferir título de instrutor da ABQS/CHQA (p. 15), Tai Chi Qi Gong instrutor nível I (p. 60) e Sistema Energético Humano de 48h (p. 81).
+
+Formulação pública segura:
+
+> Sua formação corporal inclui Reabilitação/Massagem, Medicina Tradicional Chinesa, acupuntura, Qi Gong, respiração, movimento, Seitai e Quiropraxia, além de formação continuada internacional em Acupuntura Bioenergética e Moxibustión pelo CEMETC. Em 2014, recebeu a credencial institucional *Venia Docente* para programas específicos de formação em Acupuntura Bioenergética.
+
+A *Venia Docente* permanece como marco histórico de docência; a página 15 não deve ser usada para reivindicar título de instrutor da ABQS ou CHQA.
