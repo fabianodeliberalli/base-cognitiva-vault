@@ -142,3 +142,8 @@ O inventário completo está em [[12 - Documentos Comprobatórios/10 - Auditoria
 - certificados e diplomas.pdf — Biblioteca libfile_8005a060ddbc81919f556da425e8e265.
 - 117 páginas auditadas.
 - O PDF confirma a conclusão da pós-graduação PUCRS, documenta formações clínicas e amplia a comprovação da genealogia corporal/MTC e da docência histórica.
+
+
+## Correção de controle documental — Psicologia Transpessoal
+
+A instituição da pós-graduação em Psicologia Transpessoal não deve ser exibida em versões públicas até conferência do certificado. A referência ao Instituto Humanitatis não corresponde à formação de Fabiano. A versão consolidada usa apenas “pós-graduação em Psicologia Transpessoal”; referências institucionais anteriores permanecem como dados a verificar, não como fato pronto para publicação.

@@ -57,7 +57,7 @@ As duas são candidatas. A decisão final pertence à Prioridade 1 do projeto es
 
 # Bio — contexto acadêmico
 
-> Fabiano Deliberalli é psicólogo (CRP 06/98630), pós-graduado em Psicologia Transpessoal pela FACIS e em Neurociências e Comportamento pela PUCRS. Desenvolveu o trabalho *Sincronia Neural Interpessoal e Estados Ampliados de Consciência: uma abordagem neurobiológico-relacional da espiritualidade*. Seus interesses de estudo incluem neurofenomenologia, experiência incorporada, trauma, espiritualidade, sincronia interpessoal e diferenciação clínica de experiências incomuns.
+> Fabiano Deliberalli é psicólogo (CRP 06/98630), pós-graduado em Psicologia Transpessoal e em Neurociências e Comportamento pela PUCRS. Desenvolveu o trabalho *Sincronia Neural Interpessoal e Estados Ampliados de Consciência: uma abordagem neurobiológico-relacional da espiritualidade*. Seus interesses de estudo incluem neurofenomenologia, experiência incorporada, trauma, espiritualidade, sincronia interpessoal e diferenciação clínica de experiências incomuns.
 
 Usar “interesses de estudo” enquanto não houver vínculo formal de pesquisa e produção científica suficiente para adotar “pesquisador” como identificação principal.
 
@@ -117,3 +117,8 @@ Este parágrafo deve entrar depois da identidade psicológica e da formação cl
 ## Regra de seleção
 
 O PDF não exige uma mini bio maior. Ele permite que o currículo ampliado seja mais preciso, que o CEEP conte com sustentação documental e que a página de trajetória mostre a origem corporal da persona sem transformar a apresentação em catálogo.
+
+
+## Correção de controle documental — 21/08/2026
+
+A instituição da pós-graduação em Psicologia Transpessoal fica omitida nas versões públicas até conferência do certificado. A referência ao Instituto Humanitatis não corresponde à formação de Fabiano. Derivar novas bios de [[15 - Currículo Profissional Consolidado 2026]].

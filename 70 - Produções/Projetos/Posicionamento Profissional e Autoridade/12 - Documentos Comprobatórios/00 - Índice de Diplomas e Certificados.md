@@ -115,3 +115,8 @@ O arquivo integral de certificados e diplomas permanece na Biblioteca e/ou no ac
 5. Não transformar uma formação livre em pós-graduação, título de especialista ou vínculo docente.
 6. Não transformar certificação histórica vencida em certificação atual.
 7. Não converter práticas tradicionais ou espirituais em validação biomédica automática.
+
+
+## Fonte narrativa atual
+
+- [[15 - Currículo Profissional Consolidado 2026]] — currículo-mestre derivado da auditoria documental e da trajetória profissional consolidada.

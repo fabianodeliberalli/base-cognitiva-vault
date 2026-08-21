@@ -149,3 +149,8 @@ A auditoria do arquivo [[12 - Documentos Comprobatórios/10 - Auditoria PDF Cert
 - aula convidada na PUC-SP e licença sanitária histórica do Centralma/Bioquantum documentadas.
 
 A diversidade permanece organizada por camadas: identidade psicológica atual, formação clínica e supervisão, docência/produção e genealogia corporal-integrativa.
+
+
+## Fonte narrativa consolidada
+
+A versão de referência para divulgação e derivação de currículos é [[15 - Currículo Profissional Consolidado 2026]]. Ela incorpora a auditoria de 117 páginas e reorganiza a trajetória por camadas.

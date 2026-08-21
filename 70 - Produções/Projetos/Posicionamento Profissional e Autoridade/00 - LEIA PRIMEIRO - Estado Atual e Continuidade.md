@@ -105,3 +105,8 @@ Em qualquer novo chat, ler primeiro esta nota e depois, conforme a tarefa:
 - aula convidada na PUC-SP e licença sanitária histórica do Centralma/Bioquantum documentadas;
 - inventário detalhado em [[12 - Documentos Comprobatórios/10 - Auditoria PDF Certificados e Diplomas 2026]];
 - fonte integral: certificados e diplomas.pdf, Biblioteca libfile_8005a060ddbc81919f556da425e8e265.
+
+
+## Fonte curricular consolidada — 21/08/2026
+
+- [[15 - Currículo Profissional Consolidado 2026]] — fonte narrativa atualizada para currículo, site, CEEP, palestras e mídia.
