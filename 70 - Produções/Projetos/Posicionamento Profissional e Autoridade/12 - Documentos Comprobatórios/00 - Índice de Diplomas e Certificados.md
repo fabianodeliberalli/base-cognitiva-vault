@@ -81,14 +81,15 @@ O arquivo integral de certificados e diplomas permanece na Biblioteca e/ou no ac
 - CEMETRAC: Acupuntura Tradicional Chinesa, 2002–2004, 1.200h.
 - Pró-Salus Vitae: Auriculoterapia, 48h; Semiologia e Propedêutica da MTC, 143h.
 - CEMETC: módulos e níveis de Acupuntura Bioenergética e Moxibustão, páginas 18, 25, 27–28, 33, 36, 44, 53–56, 61, 64, 72–80.
-- CEMETC: *Venia Docente* para ministrar programas de formação em Acupuntura Bioenergética, emitida em 08/11/2014, com validade impressa até 08/11/2017; níveis 1–3 e certificados gerais registrados em [[18 - CEMETC - Venia Docente e Acupuntura Bioenergética 2014-2016]].
+- CEMETC/Yunnan: *Máster Iberoamericano en Acupuntura Bioenergética y Moxibustión*, certificado em outubro de 2015 no âmbito institucional da Universidad de Medicina Tradicional China de Yunnan, do CEMETC e da Fundación Europea de Medicina Tradicional China; níveis 1–3, certificados gerais e *Venia Docente* registrados em [[18 - CEMETC - Venia Docente e Acupuntura Bioenergética 2014-2016]].
 - Qi Gong e Tai Chi Qi Gong: instrutoria e cursos documentados, p. 5, 13, 15, 39, 60 e 81.
 - Seitai, Quiropraxia, alinhamento postural, reflexologia e cursos corporais: p. 16, 49, 94, 105, 112, 115 e 117.
 
 ## Trauma e psicoterapia
 
 - EMDR: treinamento básico e cursos clínicos, p. 19–24, 30, 32, 38, 52, 57, 59, 62, 65–66, 71 e 82.
-- Brainspotting: fases 1–2 e fase 4, p. 2–3 e 12.
+- Brainspotting: Fases 1 a 5 concluídas. Fases 1, 2 e 4 constam do PDF auditado; Fase 3 confirmada pelo autor e com certificado físico aguardando digitalização; Fase 5 documentada em certificado ABBSP de 24h, 22–24/08/2025, com David Grand.
+- Meditação Bodyspotting: workshop complementar de 4h, 11/04/2026, com Marília Toscano, certificado pela ABBSP.
 - Psicoterapia Integradora e Reprocessamento do Trauma com Mário Salvador, p. 4, 17 e 35.
 - Neurobiologia Interpessoal, p. 59, complementada pelo certificado com Daniel Siegel arquivado na nota 08.
 - Hipnose e Mirroring Hands, p. 84–85, 87 e 90.
@@ -98,6 +99,7 @@ O arquivo integral de certificados e diplomas permanece na Biblioteca e/ou no ac
 - Psicanálise Integrativa, p. 104.
 - Transpsicanálise e cursos de neurociência/biologia mental, p. 102–103 e 106.
 - PNL: Practitioner e Master Practitioner pelo Trivium, p. 99 e 101; Practitioner anterior na SBPNL confirmado por Fabiano como formação distinta.
+- Associação Palas Athena: sequência completa de três módulos de *Atenção e concentração nas práticas meditativas*; módulos 2 e 3 digitalizados, módulo 1 com certificado aguardando escaneamento.
 - Constelações, meditação, radiestesia, Reiki e outros repertórios históricos, páginas listadas na auditoria.
 
 ## Docência e instituição
@@ -105,6 +107,7 @@ O arquivo integral de certificados e diplomas permanece na Biblioteca e/ou no ac
 - Aula convidada na Faculdade de Psicologia da PUC-SP, p. 8, 01/10/2002.
 - Licença sanitária histórica do Centralma/Bioquantum, p. 83, 2019.
 - ABBSP, IGM, Gilda Moura, Além das Fronteiras do Saber e CEEP: documentos e registros organizados em notas do projeto.
+- Três cursos on-line de auto-hipnose ministrados com Gilda Moura entre 2020 e 2025: confirmação direta do autor e material histórico de curso no vault; detalhamento por edição a completar quando os ativos forem organizados.
 
 # Estados de comprovação
 
@@ -163,3 +166,7 @@ O arquivo integral de certificados e diplomas permanece na Biblioteca e/ou no ac
 ## Normalização de governança — 21/08/2026
 
 Este índice descreve documentos disponíveis; não delimita sozinho a biografia profissional. Informações confirmadas por Fabiano complementam o arquivo com igual validade curricular, mantendo-se identificada a natureza da fonte. Centralma atual, CRP regular, Psicologia Transpessoal, duas formações em Psicanálise e Practitioner anterior na SBPNL não são pendências de validação por IA.
+
+## Atualização integrada — Brainspotting, Palas Athena, CEMETC–Yunnan e auto-hipnose
+
+- [[22 - Atualização Brainspotting Palas Athena CEMETC Yunnan e Auto-Hipnose 2025-2026]] — consolida Fases 1–5 de Brainspotting, sequência completa de três módulos na Palas Athena, certificado conclusivo CEMETC–Yunnan, Bodyspotting e docência em três cursos de auto-hipnose.
