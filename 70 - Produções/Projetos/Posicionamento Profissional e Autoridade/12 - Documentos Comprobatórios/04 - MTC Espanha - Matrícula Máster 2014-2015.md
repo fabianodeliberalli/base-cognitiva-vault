@@ -1,44 +1,62 @@
 ---
 id: AUT-DOC-04
-titulo: MTC Espanha - Matrícula Máster 2014-2015
-tipo: matricula
-status: documentado-com-limite
+titulo: MTC Espanha - Matrícula e percurso conclusivo 2014-2015
+tipo: dossie-documental-de-matricula-e-conclusao
+status: reconciliado-com-documentos-posteriores
 projeto: Posicionamento Profissional e Autoridade Autoral
-data: 2026-08-15
+data: 2026-08-21
 autor: Fabiano Deliberalli
 tags:
   - matrícula
   - medicina-tradicional-chinesa
   - espanha
+  - CEMETC
+  - Yunnan
   - acupuntura-bioenergética
 ---
 
-# Identificação literal
+# Identificação da matrícula
 
 - **Denominação impressa:** *Máster Acupuntura Bioenergética y Moxibustión*.
 - **Programa:** ano acadêmico 2014–2015.
 - **Instituição indicada:** Fundación Europea de Medicina Tradicional China.
-- **Contexto:** matrícula para programa internacional presencial na Espanha.
-- **Docentes/instituições legíveis:** a matrícula apresenta referências à Fundación Europea de Medicina Tradicional China e à Universidad de M.T.C. de Yunnan/Colégio Oficial de Médicos de Tarragona, conforme o material visual.
-- **Valor indicado:** 3.000 euros, com quadro de bolsa indicando 0 euros com beca.
+- **Contexto:** matrícula em programa internacional com atividades presenciais na Espanha.
+- **Referências institucionais legíveis:** Fundación Europea de Medicina Tradicional China, Universidad de Medicina Tradicional China de Yunnan e Colégio Oficial de Médicos de Tarragona.
+- **Valor indicado:** 3.000 euros; o quadro de bolsa registra 0 euros com *beca*.
 
-# Fontes
+# Fontes de matrícula
 
 - `matricula 1.jpg` — Biblioteca `libfile_d31978658d8881918dd4d522e4d15f74`.
 - `matricula 2.jpg` — Biblioteca `libfile_a5edab120d8c81919e12821b0dfd247a`.
 - `matricula 3.jpg` — Biblioteca `libfile_f2193e3cb3b4819190078a4580333a72`.
+- `Bioenergética Hoja matricula BECA B.pdf` — Biblioteca `libfile_0fc79d2a7ed8819196559baffd12fe2f`.
 
-# Limite documental
+# Alcance documental da matrícula
 
-Estas imagens comprovam matrícula/admissão e condições do programa. Não comprovam, isoladamente, a conclusão do programa, a emissão de título ou o recebimento da *Venia Docente*.
+As imagens acima comprovam matrícula, admissão e condições do programa. Isoladamente, não são certificado de conclusão nem documento de *Venia Docente*. Essa limitação pertence apenas a estas fontes de matrícula.
 
-O usuário informou que participou da viagem à Espanha com um grupo de brasileiros formados no curso e que recebeu *Venia Docente* em atividade presencial. Essa informação permanece registrada na matriz curricular como declarada/pendente até que o documento correspondente seja disponibilizado.
+# Documentos posteriores que completam o percurso
 
-# Uso público provisório
+A conclusão e o marco docente deixaram de ser pendências porque foram incorporados em fontes posteriores:
 
-Enquanto a documentação de conclusão não estiver arquivada, a redação mais segura é:
+- **Título conclusivo:** *Máster Iberoamericano en Acupuntura Bioenergética y Moxibustión*, certificado em outubro de 2015 no âmbito institucional da Universidad de Medicina Tradicional China de Yunnan, do CEMETC e da Fundación Europea de Medicina Tradicional China.
+- **Venia Docente:** credencial emitida pelo CEMETC em Valladolid, em 08/11/2014, para ministrar os programas de formação em Acupuntura Bioenergética estabelecidos pela instituição.
+- **Formação continuada:** níveis, módulos e programas CEMETC documentados entre 2014 e 2016, incluindo certificados gerais de 360h/14,4 ECTS e módulos com cargas próprias.
 
-> Participou, no ano acadêmico de 2014–2015, de programa internacional de Acupuntura Bioenergética e Moxibustão promovido pela Fundación Europea de Medicina Tradicional China.
+Consultar em conjunto:
 
-Para utilizar “concluiu”, “obteve o título” ou “recebeu Venia Docente” em versão formal, anexar o documento correspondente nesta base.
+- [[18 - CEMETC - Venia Docente e Acupuntura Bioenergética 2014-2016]];
+- [[22 - Atualização Brainspotting Palas Athena CEMETC Yunnan e Auto-Hipnose 2025-2026]];
+- [[22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]].
 
+# Formulações vigentes
+
+## Currículo ampliado
+
+> Concluiu o *Máster Iberoamericano en Acupuntura Bioenergética y Moxibustión*, certificado em outubro de 2015 no âmbito institucional da Universidad de Medicina Tradicional China de Yunnan, do CEMETC e da Fundación Europea de Medicina Tradicional China. Em 2014, recebeu do CEMETC a credencial institucional *Venia Docente* para ministrar seus programas de formação em Acupuntura Bioenergética.
+
+## Comunicação breve
+
+> Formação internacional em Medicina Tradicional Chinesa, com aprofundamento em Acupuntura Bioenergética e Moxibustão.
+
+A matrícula permanece arquivada como etapa documental do percurso; não deve mais ser usada para rebaixar a conclusão ou a *Venia Docente* à condição de dúvida.

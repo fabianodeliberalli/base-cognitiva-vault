@@ -47,7 +47,7 @@ Identificação:
 
 Trajetória:
 
-> **Mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas, e atuação como psicólogo desde 2010.**
+> **Mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas e consolidada com a Psicologia.**
 
 Posicionamento:
 
@@ -56,6 +56,29 @@ Posicionamento:
 Descrição nuclear:
 
 > Fabiano Deliberalli é psicólogo clínico e psicoterapeuta. Seu trabalho articula corpo, trauma, consciência e espiritualidade para compreender, traduzir e favorecer a integração de experiências humanas complexas, com rigor clínico, abertura e discernimento.
+
+# Aplicação das inclusões recentes no site
+
+## Página inicial
+
+Não acrescentar listas de certificados. Manter identidade, posicionamento e rotas de oferta.
+
+## Página Sobre
+
+Pode apresentar, em arco narrativo:
+
+- Brainspotting com Fases 1–5 concluídas;
+- formação internacional em Medicina Tradicional Chinesa, com *Máster Iberoamericano* CEMETC–Yunnan e marco histórico da *Venia Docente*;
+- três módulos de atenção e práticas meditativas na Palas Athena;
+- docência em três cursos on-line de auto-hipnose e cinco edições de *Além das Fronteiras do Saber*.
+
+## Página de palestras e mídia
+
+Usar os detalhes CEMETC–Yunnan, *Venia Docente* e docência digital quando o tema envolver corpo, MTC, consciência, hipnose ou educação. Usar Brainspotting 1–5 quando o tema envolver trauma, processamento, regulação ou presença clínica.
+
+## Regra editorial
+
+Os detalhes devem ser selecionados por pertinência. A página Sobre explica a coerência do percurso; ela não reproduz a matriz curricular completa.
 
 # Governança curricular para o site
 

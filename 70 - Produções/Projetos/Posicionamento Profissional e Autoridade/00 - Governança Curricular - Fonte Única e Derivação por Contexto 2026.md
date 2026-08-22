@@ -1,5 +1,5 @@
 ---
-id: AUT-00
+id: AUT-GOV-00
 titulo: Governança Curricular — Fonte Única e Derivação por Contexto
 tipo: governanca-curricular
 status: vigente
@@ -10,7 +10,7 @@ tags:
   - currículo
   - governança
   - fonte-unica
-  - obisidian
+  - obsidian
   - posicionamento
 ---
 
@@ -59,6 +59,7 @@ Define se cada informação é documental, autobiográfica, combinada, históric
 - [[12 - Documentos Comprobatórios/13 - Dossiê Psicanálise PNL Hipnose e Consciência - Certificados PDF 1998-2022]]
 - [[12 - Documentos Comprobatórios/14 - Dossiê Institucional Docência Centralma PUC-SP e Formação 2002-2026]]
 - [[12 - Documentos Comprobatórios/20 - Novos Registros Documentais - ALECES e Deb Dana 2023]]
+- [[12 - Documentos Comprobatórios/23 - Complemento Documental Shiozawa Bioenergologia e Formação Histórica 1982-2019]]
 - [[12 - Documentos Comprobatórios/21 - Psicologia Transpessoal - FACIS - Monografia e Certificado 2010-2011]]
 
 Essas notas descrevem os documentos. Elas não substituem a matriz curricular como fonte de organização da trajetória.
@@ -83,7 +84,7 @@ Esta nota é a fonte vigente para bios por contexto. Ela não deve receber infor
 
 > **Mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas e consolidada com a Psicologia.**
 
-Não usar como formulação canônica: “mais de 30 anos de Psicologia” ou “atuação como psicólogo desde 2010” em substituição à frase acima. Quando for necessário registrar a linha do tempo, usar: “consolidação da atuação profissional em Psicologia: 2010”.
+Não usar como formulação canônica fórmulas que confundam o tempo total de cuidado terapêutico com o tempo de exercício profissional em Psicologia. Quando for necessário registrar a linha do tempo, usar: “consolidação da atuação profissional em Psicologia: 2010”.
 
 ## Psicologia Transpessoal
 
@@ -93,7 +94,7 @@ Não reduzir a informação a “formação em Psicologia Transpessoal” quando
 
 ## Hipnose
 
-> **Hipnose clínica e terapêutica: formação continuada com estudos junto a Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sophia Bauer.**
+> **Hipnose clínica e terapêutica: formação continuada com estudos junto a Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sofia Bauer.**
 
 Registros que devem permanecer associados:
 
@@ -101,7 +102,7 @@ Registros que devem permanecer associados:
 - Professional & Clinical Hypnosis B1–B3 — 30h, 10–12/09/2021;
 - Professional & Clinical Hypnosis B4–B8 — 70h, 09–15/07/2022;
 - Hypnotic Mastery Bootcamp — 18h, 06–07/08/2022;
-- curso com Sophia Bauer: acesso pago confirmado por registro independente da Hotmart entre agosto de 2023 e fevereiro de 2024.
+- curso com Sofia Bauer: acesso pago confirmado por registro independente da Hotmart entre agosto de 2023 e fevereiro de 2024.
 
 A expressão “estudos e formações integrados à trajetória de psicoterapia, linguagem e mudança” pode explicar a função do eixo, mas não deve substituir a identificação explícita da formação em hipnose clínica e terapêutica.
 
@@ -133,6 +134,9 @@ Qualificar a função por projeto ou evento. Não converter aula convidada na PU
 - Pós-graduação em Neurociências e Comportamento pela PUCRS: concluída em 2026; certificado localizado; TCC aprovado com nota 9,5.
 - EMDR e Brainspotting: formação continuada documentada; certificações históricas com validade impressa devem ser tratadas separadamente.
 - Deb Dana: curso documentado de 12h, setembro de 2023.
+- Shiozawa: Curso Intensivo de Shiatsu de 100h e estágio documentado de 2.000h, registrados separadamente.
+- Bioenergologia: Curso de Bioenergologia com Formação em Bioenergopatia, concluído em agosto de 2004; programa de 114 unidades-aula, sem conversão automática em horas.
+- Psicanálise Integrativa: certificado de 23/07/2002 e declaração de 31/07/2002, 294h, referentes à mesma primeira formação.
 - Programa Aleces: 216h, 2020–2023; certificado de 90h é componente e não carga adicional.
 - Supervisão mensal com Mário Salvador: formação continuada atual, distinta de cursos certificados.
 - Centralma: empresa atual confirmada por Fabiano; atuação presencial histórica encerrada em 2020.
@@ -153,6 +157,22 @@ Quando surgir uma nova informação:
 9. verificar se alguma nota histórica passou a divergir;
 10. registrar a data da revisão e a fonte utilizada.
 
+# Fatos consolidados de consulta obrigatória — atualização de 21/08/2026
+
+Além da matriz, consultar [[12 - Documentos Comprobatórios/22 - Atualização Brainspotting Palas Athena CEMETC Yunnan e Auto-Hipnose 2025-2026]] quando a demanda envolver Brainspotting, meditação, CEMETC–Yunnan ou auto-hipnose. Consultar também [[12 - Documentos Comprobatórios/23 - Complemento Documental Shiozawa Bioenergologia e Formação Histórica 1982-2019]] quando a demanda envolver origem corporal, Shiozawa, Shiatsu, estágio, Bioenergologia, primeira formação em Psicanálise Integrativa, Sandra Paulsen, Reiki ou marcos históricos de movimento.
+
+Estão consolidados e não devem ser reabertos como dúvida:
+
+- Brainspotting: Fases 1, 2, 3, 4 e 5 concluídas; a Fase 3 é confirmada diretamente por Fabiano.
+- Meditação Bodyspotting: workshop complementar de 4h, em 11/04/2026; não é uma sexta fase de Brainspotting.
+- Associação Palas Athena: sequência completa de três módulos de *Atenção e concentração nas práticas meditativas*, confirmada diretamente por Fabiano.
+- CEMETC–Yunnan: conclusão do *Máster Iberoamericano en Acupuntura Bioenergética y Moxibustión*, certificada em outubro de 2015.
+- CEMETC: *Venia Docente* recebida em Valladolid em 08/11/2014 como marco histórico de habilitação institucional para ministrar os programas da instituição.
+- Docência em auto-hipnose: três cursos on-line ministrados em parceria com Gilda Moura entre 2020 e 2025.
+- Não há pendências curriculares ou de validação abertas para essas formações.
+
+A reconciliação transversal e os documentos afetados estão registrados em [[23 - Registro de Reconciliação Curricular e Continuidade 2026]].
+
 # Protocolo de consulta para futuras IAs
 
 A instrução padrão para qualquer consulta curricular é:
@@ -164,3 +184,28 @@ A instrução padrão para qualquer consulta curricular é:
 O vault não deve funcionar como um único currículo público enciclopédico. A matriz detalhada preserva a totalidade relevante; as versões públicas selecionam camadas sem apagar a existência dos demais registros.
 
 ---
+
+# Governança dos arquivos editáveis consolidados — 21/08/2026
+
+O pacote arquivado em [[13 - Documentos Curriculares Consolidados/00 - Índice e Governança do Pacote Curricular Consolidado 2026]] contém os dois documentos DOCX consolidados e o gerador reproduzível.
+
+## Estatuto desses arquivos
+
+1. Os DOCX são **artefatos editoriais derivados**, destinados a download, envio, edição e apresentação formal.
+2. Eles não substituem a matriz curricular, a matriz de evidências, os dossiês documentais nem as notas narrativas canônicas.
+3. Correções futuras devem ser feitas primeiro nas fontes em Markdown; depois, o gerador deve ser atualizado e os DOCX regenerados.
+4. Toda nova versão deve registrar data, hash, tamanho, escopo da mudança e arquivo de origem no índice do pacote.
+5. Não editar silenciosamente apenas o DOCX, pois isso criaria divergência entre a versão distribuída e o vault.
+6. A confirmação direta de Fabiano continua suficiente para o registro biográfico; não se criam pendências de digitalização para formações confirmadas.
+7. Curso, estágio, supervisão, prática, docência, vínculo e credencial institucional permanecem categorias distintas.
+8. Cargas potencialmente sobrepostas não são somadas automaticamente.
+
+## Ordem de atualização
+
+1. [[22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]];
+2. [[03 - Formação, Evidências e Fontes Documentais]];
+3. dossiê documental pertinente;
+4. [[01 - Dossiê Curricular Mestre]];
+5. [[15 - Currículo Profissional Consolidado 2026]] e versões contextuais;
+6. regeneração e validação dos DOCX;
+7. atualização do índice do pacote e de [[23 - Registro de Reconciliação Curricular e Continuidade 2026]].

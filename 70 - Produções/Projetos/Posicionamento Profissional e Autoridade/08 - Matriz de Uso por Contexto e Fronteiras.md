@@ -164,9 +164,28 @@ A fronteira ética entre as ofertas não depende de transformar a IA em instânc
 - informações autobiográficas confirmadas por Fabiano podem integrar currículo, bio e narrativa institucional;
 - documentos disponíveis fixam datas, títulos literais e cargas quando isso for relevante;
 - comprovação adicional só deve ser solicitada quando um terceiro ou uma finalidade concreta realmente a exigir;
-- a ausência atual de um certificado físico não autoriza apagar uma formação nem tratá-la como inexistente;
+- a confirmação autobiográfica direta é fonte válida para registrar uma formação;
 - permanece obrigatório não converter uma formação em escopo profissional, título acadêmico ou conclusão científica que ela não representa.
 
+
+# Matriz de ativação das inclusões recentes
+
+| Ativo | Site — Início | Site — Sobre | Clínica | CEEP | Palestras/mídia | Produtos corpo/MTC | Acadêmico |
+|---|---|---|---|---|---|---|---|
+| Brainspotting — Fases 1 a 5 | não | síntese | destaque seletivo | destaque | conforme tema | secundário | mencionar como formação |
+| *Máster Iberoamericano* CEMETC–Yunnan | não | destaque narrativo | genealogia | contextual | destaque conforme tema | destaque principal | denominação literal |
+| *Venia Docente* CEMETC | não | marco histórico | não | contextual | destaque conforme tema | destaque | registro histórico |
+| Palas Athena — três módulos | não | síntese | não | contextual | conforme tema | contextual | formação complementar |
+| Três cursos de auto-hipnose | não | docência | não | contextual | destaque docente | conforme oferta | experiência de ensino |
+| Meditação Bodyspotting — 4h | não | opcional | currículo detalhado | contextual | opcional | não | formação complementar |
+
+## Regra de expressão
+
+- Fatos realizados permanecem válidos como marcos do percurso.
+- Datas de validade impressas em credenciais administrativas são registradas nos dossiês, mas não apagam o fato histórico.
+- Não há pendência curricular associada à ausência de um arquivo digital no vault.
+- O título conclusivo CEMETC–Yunnan deve ser reproduzido por sua denominação literal quando usado; na comunicação breve, pode ser sintetizado como formação internacional em Medicina Tradicional Chinesa.
+- Palas Athena e Brainspotting são percursos distintos; os três módulos da Palas não são “fases” de Brainspotting.
 
 # Fonte curricular vigente
 

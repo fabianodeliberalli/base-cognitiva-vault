@@ -34,7 +34,7 @@ Quando organizada como percurso, a trajetória deixa de parecer dispersa e passa
 
 Formulação temporal obrigatória:
 
-> Mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas, e atuação como psicólogo desde 2010.
+> Mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas e consolidada com a Psicologia.
 
 Não utilizar formulações que sugiram mais de 30 anos de exercício da Psicologia.
 
@@ -65,6 +65,7 @@ Não utilizar formulações que sugiram mais de 30 anos de exercício da Psicolo
 - [[10 - Pendências, Comprovações e Governança]]
 - [[11 - Prompt de Abertura do Projeto Estratégico]]
 - [[12 - Documentos Comprobatórios/00 - Índice de Diplomas e Certificados|Índice de Diplomas e Certificados]]
+- [[13 - Documentos Curriculares Consolidados/00 - Índice e Governança do Pacote Curricular Consolidado 2026|Pacote Curricular Consolidado — DOCX e gerador]]
 - [[12 - Documentos Comprobatórios/15 - Universidade São Marcos - Diploma de Psicologia 2010]]
 - [[15 - Currículo Profissional Consolidado 2026]]
 - [[18 - Currículo Profissional Ampliado Consolidado - Versão Pública 2026]]
@@ -86,7 +87,8 @@ Não utilizar formulações que sugiram mais de 30 anos de exercício da Psicolo
 - fontes curriculares inventariadas;
 - curso de Neurobiologia Interpessoal documentado e curso com Deb Dana confirmado por certificado de 12 horas, em setembro de 2023;
 - auditoria documental de 117 páginas de certificados e diplomas concluída;
-- governança de fontes normalizada: a ausência atual de um certificado físico não invalida informação autobiográfica confirmada pelo autor para currículo e comunicação pública;
+- auditoria complementar de 12 páginas concluída, com Shiozawa 100h + estágio 2.000h, Bioenergologia/Bioenergopatia, Psicanálise Integrativa 294h, trauma e registros históricos;
+- governança de fontes normalizada: informações autobiográficas confirmadas pelo autor integram a fonte curricular e a comunicação pública;
 - formulação pública canônica escolhida e versões contextuais consolidadas;
 - arquitetura do site consolidada: Fabiano como identidade central; Centralma como empresa atual e eixo clínico on-line; *Traduzindo o Ser Humano* como eixo educacional; CEEP como educação continuada;
 - próximo passo: executar a reestruturação do site em homologação e avançar para infraestrutura de credibilidade e produção editorial.
@@ -101,7 +103,7 @@ Em qualquer novo chat, ler primeiro esta nota e depois, conforme a tarefa:
 - CEEP: notas 05, 06, 08 e 09, além do projeto próprio do CEEP;
 - produtos digitais: notas 06, 07, 08 e 09;
 - comprovação ou auditoria: notas 03 e 10.
-- diplomas e certificados: pasta `12 - Documentos Comprobatórios`, começando pelo índice AUT-DOC-00.
+- diplomas e certificados: pasta `12 - Documentos Comprobatórios`, começando pelo índice AUT-DOC-00; para Shiozawa, Bioenergologia, primeira Psicanálise Integrativa e o lote histórico complementar, consultar AUT-DOC-23.
 
 ## Auditoria documental do PDF de certificados e diplomas
 
@@ -111,7 +113,8 @@ Em qualquer novo chat, ler primeiro esta nota e depois, conforme a tarefa:
 - trajetória em MTC, Qi Gong e docência no CEMETC ampliada por módulos e autorização docente documentados;
 - aula convidada na PUC-SP e licença sanitária histórica do Centralma/Bioquantum documentadas;
 - inventário detalhado em [[12 - Documentos Comprobatórios/10 - Auditoria PDF Certificados e Diplomas 2026]];
-- fonte integral: certificados e diplomas.pdf, Biblioteca libfile_8005a060ddbc81919f556da425e8e265.
+- fonte integral principal: `certificados e diplomas.pdf`, Biblioteca libfile_8005a060ddbc81919f556da425e8e265;
+- fonte complementar: PDF de 12 páginas contido no lote `drive-download-20260821T234950Z-1-001.zip`, auditado em [[12 - Documentos Comprobatórios/23 - Complemento Documental Shiozawa Bioenergologia e Formação Histórica 1982-2019]].
 
 
 ## Fonte curricular consolidada — 21/08/2026
@@ -143,10 +146,43 @@ Descrição nuclear:
 
 Passam a integrar o currículo e as versões públicas, sem serem tratadas como pendências de validação por IA:
 
-- pós-graduação em Psicologia Transpessoal concluída, com TCC entregue e certificado emitido; o certificado físico não está atualmente disponível e a instituição encerrou as atividades;
+- pós-graduação em Psicologia Transpessoal pela FACIS concluída em 2010, com TCC entregue e certificado emitido em 2011;
 - duas formações em Psicanálise Integrativa, incluindo a formação no Instituto Brasileiro de Transpsicanálise, com André Keppe, apoiada também por registros de cursos e workshops da instituição no vault;
 - Practitioner em PNL realizado na SBPNL antes das formações posteriores documentadas pelo Trivium;
 - Centralma como empresa atual, registrada, aberta e operante, utilizada na prestação e no faturamento dos atendimentos psicológicos on-line;
-- CRP 06/98630 pago, ativo e regular, conforme informação atual do autor.
+- CRP 06/98630 pago, ativo e regular, conforme informação atual do autor;
+- Brainspotting Fase 3 concluída entre as Fases 2 e 4, conforme confirmação direta de Fabiano;
+- sequência completa de três módulos de *Atenção e concentração nas práticas meditativas* pela Associação Palas Athena;
+- três cursos on-line de auto-hipnose ministrados em parceria com Gilda Moura entre 2020 e 2025.
 
 Quando um terceiro exigir comprovação formal específica, Fabiano decidirá como fornecê-la. Essa eventual exigência externa não deve ser convertida em controle geral da IA sobre a validade de sua trajetória.
+
+# Atualização de continuidade — Brainspotting, Palas Athena, CEMETC–Yunnan e auto-hipnose
+
+As notas [[12 - Documentos Comprobatórios/22 - Atualização Brainspotting Palas Athena CEMETC Yunnan e Auto-Hipnose 2025-2026]] e [[12 - Documentos Comprobatórios/23 - Complemento Documental Shiozawa Bioenergologia e Formação Histórica 1982-2019]] devem ser consultadas junto da matriz detalhada para futuras versões de currículo, site, bio, dossiê de palestrante e materiais do CEEP.
+
+# Reconciliação transversal concluída — 21/08/2026
+
+Os documentos ativos de currículo, posicionamento, evidências, uso por contexto, site e CEEP foram reconciliados com as inclusões mais recentes. A consulta futura deve seguir esta ordem:
+
+1. [[00 - Governança Curricular - Fonte Única e Derivação por Contexto 2026]];
+2. [[22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]];
+3. currículo ou bio adequada ao contexto;
+4. dossiê documental específico, quando forem necessárias literalidade, data ou carga horária;
+5. [[23 - Registro de Reconciliação Curricular e Continuidade 2026]] para conferir o alcance da atualização.
+
+A matriz integral preserva toda a trajetória. As versões públicas continuam seletivas e não devem se tornar inventários enciclopédicos.
+
+# Pacote curricular consolidado arquivado — 21/08/2026
+
+Os documentos editáveis gerados ao final desta reconciliação foram arquivados em [[13 - Documentos Curriculares Consolidados/00 - Índice e Governança do Pacote Curricular Consolidado 2026]].
+
+O pacote contém:
+
+- currículo profissional consolidado em DOCX;
+- Dossiê Curricular Mestre em DOCX;
+- script utilizado para gerar os dois documentos;
+- requisitos técnicos e hashes de integridade;
+- protocolo para futuras revisões e regenerações.
+
+Os arquivos DOCX são snapshots editoriais derivados. A governança continua nesta nota, em [[00 - Governança Curricular - Fonte Única e Derivação por Contexto 2026]], na [[22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]] e nas respectivas notas curriculares em Markdown.

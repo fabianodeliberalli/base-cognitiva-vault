@@ -65,15 +65,15 @@ A supervisão mensal atual com Mário Salvador deve aparecer em bloco próprio. 
 - Psicólogo, graduado pela Universidade São Marcos; diploma localizado, conclusão em 04/02/2010 e expedição em 14/09/2010.
 - Psicoterapeuta, conforme a prática e a apresentação profissional adotadas.
 - CRP 06/98630.
-- Mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas; atuação como psicólogo desde 2010.
+- Mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas e consolidada com a Psicologia.
 
 Esta é a abertura da persona. A expressão “mais de 30 anos” deve qualificar o cuidado terapêutico, não o tempo de exercício da Psicologia.
 
 ## Eixo 2 — Formação clínica estruturante
 
-- Psicologia Transpessoal — formação concluída, com TCC entregue e certificado emitido, conforme confirmação de Fabiano. Usar a denominação sem instituição; o certificado físico não está atualmente disponível e a instituição encerrou as atividades.
+- Psicologia Transpessoal pela FACIS — formação concluída em 2010, com TCC entregue e certificado emitido em 2011.
 - Psicanálise Integrativa — apresentar como origem estruturante da escuta, da compreensão do conflito, do sentido e da singularidade.
-- EMDR e Brainspotting — formação continuada, com seleção dos módulos relevantes e sem declarar certificação vigente sem confirmação específica.
+- EMDR e Brainspotting — formação continuada; em Brainspotting, Fases 1 a 5 concluídas entre 2011 e 2025, com Fase 5 de 24h ministrada por David Grand e Fase 3 confirmada diretamente por Fabiano.
 - Hipnose e formações correlatas.
 - Programa Aleces de 216 horas em trauma e reprocessamento.
 - Neurobiologia Interpessoal com Daniel Siegel.
@@ -84,7 +84,7 @@ A lista deve ser agrupada por função clínica, e não apresentada como sequên
 ## Eixo 3 — Supervisão e continuidade
 
 - Supervisão mensal em grupo com Mário Salvador, em continuidade em 2026.
-- Estudos anteriores com Mário Salvador, incluindo formação presencial em Brasília — ano a confirmar — e imersões presenciais de três dias em 2025 e 2026.
+- Estudos com Mário Salvador, incluindo formação presencial em Brasília documentada em 2018, atividade formativa documentada em 2019 e imersões presenciais de três dias em 2025 e 2026.
 - Outros comprovantes de supervisão e imersão podem ser arquivados se Fabiano decidir que serão úteis a um contexto específico; não constituem condição de validade da atividade atual confirmada.
 
 A supervisão é uma prova de maturidade profissional diferente de um diploma. Deve ter visibilidade própria.
@@ -121,7 +121,7 @@ A docência não começou apenas com o CEEP. Ela se desenvolveu por camadas:
 - aula convidada na Faculdade de Psicologia da PUC-SP, em 01/10/2002, com certificado institucional;
 - professor assistente de Gilda Moura em turma presencial no Centralma, em 2018/2019;
 - professor e cocriador de *Além das Fronteiras do Saber*, com cinco edições a partir de 2020;
-- palestras e cursos em organizações e projetos, cuja lista nominal ainda deve ser completada;
+- palestras e cursos em organizações e projetos;
 - workshop da ABBSP em 07/03/2026;
 - palestra no encontro de experienciadores do IGM em 2026;
 - professor do eixo Consciência no CEEP;
@@ -152,7 +152,7 @@ Eles não precisam liderar a persona clínica nem aparecer na mini bio geral.
 
 # Formulações a preservar
 
-- **Trajetória:** “Mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas, e atuação como psicólogo desde 2010.”
+- **Trajetória:** “Mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas e consolidada com a Psicologia.”
 - **Eixo autoral canônico:** “Corpo, trauma, consciência e espiritualidade na compreensão e tradução da experiência humana.”
 - **Postura:** “Reconhecer o impacto de uma experiência não exige concluir previamente qual foi sua origem.”
 - **Docência:** “Professor, palestrante e facilitador em cursos livres e educação continuada.”
@@ -200,7 +200,7 @@ Esta avaliação se apoia e deve ser mantida conectada às seguintes notas:
 5. Organizar Lattes, ORCID e bibliografia pública.
 6. Transformar o TCC em artigo e registrar a produção derivada.
 
-A Psicologia Transpessoal, as duas formações em Psicanálise, o Practitioner na SBPNL, a Centralma atual e a regularidade do CRP estão confirmados por Fabiano. Não devem voltar a listas de pendências por ausência de documento físico no vault.
+A Psicologia Transpessoal, as duas formações em Psicanálise, o Practitioner na SBPNL, a Centralma atual e a regularidade do CRP estão confirmados por Fabiano. Não há pendências curriculares de validação para esses dados.
 
 # Parecer final
 
@@ -214,3 +214,28 @@ A próxima etapa de autoridade é produção: artigo derivado do TCC, palestra a
 # Complemento de governança — 21/08/2026
 
 A auditoria documental descreve o acervo disponível; a biografia completa também se apoia em informações autobiográficas confirmadas pelo autor. Nenhuma IA deve assumir competência para validar ou invalidar formações, empresa ou registro profissional fora de uma demanda externa concreta.
+
+# Segunda atualização — reconciliação ampla de 21/08/2026
+
+Além dos três certificados que originaram esta nota, a arquitetura curricular passa a incorporar:
+
+- Brainspotting Fases 1–5 como percurso clínico longitudinal;
+- Meditação Bodyspotting como atualização complementar de 4h;
+- três módulos concluídos na Associação Palas Athena;
+- *Máster Iberoamericano* CEMETC–Yunnan, concluído em 2015;
+- *Venia Docente* CEMETC, recebida em 2014;
+- três cursos on-line de auto-hipnose ministrados com Gilda Moura entre 2020 e 2025.
+
+## Impacto na persona
+
+1. **Clínica:** Brainspotting 1–5 fortalece a imagem de profundidade e continuidade em trauma.
+2. **Corpo e MTC:** CEMETC–Yunnan organiza uma linhagem longa, internacional e documentada, relevante para corpo, Qi Gong, respiração e movimento.
+3. **Consciência:** Palas Athena sustenta o estudo de atenção e meditação, sem ocupar o centro da identidade clínica.
+4. **Docência:** os cursos de auto-hipnose acrescentam prova de repetição pedagógica em ambiente digital.
+5. **Autoria:** os ativos não pedem uma identidade mais ampla; pedem seleção mais precisa conforme o contexto.
+
+## Formulação temporal vigente
+
+> **Mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas e consolidada com a Psicologia.**
+
+Esta formulação substitui as versões anteriores que separavam o percurso em duas frases temporais.

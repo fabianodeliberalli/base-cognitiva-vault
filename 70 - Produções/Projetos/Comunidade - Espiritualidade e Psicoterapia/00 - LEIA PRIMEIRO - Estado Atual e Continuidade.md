@@ -56,3 +56,19 @@ O projeto não propõe converter religião em clínica, espiritualidade em técn
 
 Próxima etapa recomendada: produzir o roteiro oral do workshop de Fabiano a partir dos 19 slides, calibrar tempo e transições com as falas de Salene e Valber e, em seguida, transformar os eixos bibliográficos em planos de aula da comunidade.
 
+# Fonte de persona e currículo de Fabiano
+
+Para qualquer bio, apresentação de professor, página de vendas, material do workshop ou comunicação do CEEP, consultar pelo repositório GitHub sincronizado:
+
+1. [[70 - Produções/Projetos/Posicionamento Profissional e Autoridade/00 - Governança Curricular - Fonte Única e Derivação por Contexto 2026]];
+2. [[70 - Produções/Projetos/Posicionamento Profissional e Autoridade/05 - Versões Públicas de Bio e Currículo]];
+3. [[70 - Produções/Projetos/Posicionamento Profissional e Autoridade/18 - Currículo Profissional Ampliado Consolidado - Versão Pública 2026]];
+4. [[70 - Produções/Projetos/Posicionamento Profissional e Autoridade/22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]].
+
+## Regra de seleção para o CEEP
+
+- Identidade frontal: psicólogo clínico e psicoterapeuta, CRP 06/98630.
+- Sustentação prioritária: Psicologia Transpessoal, Neurociências e Comportamento, trauma, Brainspotting Fases 1–5, fenomenologia, consciência e espiritualidade.
+- CEMETC–Yunnan, Palas Athena e docência em auto-hipnose entram quando o tema concreto exigir corpo, atenção, meditação, MTC, linguagem ou experiência pedagógica.
+- A bio do CEEP deve permanecer seletiva; não reproduzir a matriz completa.
+- Não há pendências curriculares abertas.

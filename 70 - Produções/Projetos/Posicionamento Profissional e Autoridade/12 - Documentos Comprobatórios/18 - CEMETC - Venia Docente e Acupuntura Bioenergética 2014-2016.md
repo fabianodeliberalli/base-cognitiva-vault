@@ -48,6 +48,7 @@ Não usar o presente “é docente autorizado pelo CEMETC” sem documento de re
 - *Acupuntura Bioenergética y Moxibustión*: certificado emitido no Rio de Janeiro em 16/11/2014, com 360 horas e 14,4 créditos ECTS.
 - Certificado complementar do mesmo percurso, emitido em Santo André/SP em 10–11/09/2016, também com 360 horas e 14,4 créditos ECTS.
 - Matrícula anteriormente registrada para o programa internacional denominado *Máster Acupuntura Bioenergética y Moxibustión*, ano acadêmico 2014–2015.
+- Certificado conclusivo do *Máster Iberoamericano en Acupuntura Bioenergética y Moxibustión*, emitido em outubro de 2015 e identificado institucionalmente pela Universidad de Medicina Tradicional China de Yunnan, pelo CEMETC e pela Fundación Europea de Medicina Tradicional China. O certificado não explicita carga horária.
 - Os certificados gerais e os certificados dos níveis integram o mesmo percurso; não somar as cargas horárias sem excluir possível sobreposição.
 
 ## Níveis documentados
@@ -79,8 +80,8 @@ Na construção da persona, esse percurso explica a familiaridade de Fabiano com
 | Contexto | Formulação recomendada |
 |---|---|
 | Mini bio | “Formação continuada em Medicina Tradicional Chinesa e Acupuntura Bioenergética.” |
-| Site profissional ampliado | “Formação continuada internacional em Acupuntura Bioenergética e Moxibustión pelo CEMETC, com níveis 1, 2 e 3 documentados entre 2015 e 2016.” |
-| Currículo formal ampliado | “*Máster Acupuntura Bioenergética y Moxibustión* — CEMETC/Fundación Europea de Medicina Tradicional China, matrícula 2014–2015; níveis 1–3 documentados em 2015–2016; credencial histórica *Venia Docente*, emitida em Valladolid em 08/11/2014, com validade documental até 08/11/2017.” |
+| Site profissional ampliado | “Concluiu o *Máster Iberoamericano en Acupuntura Bioenergética y Moxibustión*, certificado em 2015 no âmbito institucional da Universidad de Medicina Tradicional China de Yunnan, do CEMETC e da Fundación Europea de Medicina Tradicional China.” |
+| Currículo formal ampliado | “*Máster Iberoamericano en Acupuntura Bioenergética y Moxibustión* — certificado em outubro de 2015; níveis 1–3 documentados em 2015–2016; credencial histórica *Venia Docente*, emitida pelo CEMETC em Valladolid em 08/11/2014.” |
 | Palestras e práticas corporais | “Experiência formativa em Qi, meridianos, respiração, movimento e Qi Gong, fundamentada em estudos de Medicina Tradicional Chinesa e Acupuntura Bioenergética.” |
 
 # Relevância estratégica
@@ -91,7 +92,15 @@ Esta documentação amplia a autoridade da trajetória em três frentes:
 2. qualifica a docência histórica em práticas corporais e MTC;
 3. diferencia o trabalho autoral quando ele articula corpo, respiração, movimento, experiência e consciência.
 
-A formação deve funcionar como **camada de sustentação** da persona, especialmente em cursos, palestras e práticas corporais. Não precisa liderar a mini bio clínica nem competir com Psicologia, trauma, Neurociências e supervisão continuada.
+A formação deve funcionar como **camada de sustentação qualificada** da persona, especialmente em cursos, palestras e práticas corporais. O certificado conclusivo ligado à Universidade de Yunnan reforça continuidade, densidade e inserção internacional do percurso em MTC. Na apresentação geral, ele vem depois de Psicologia, trauma e Neurociências; em produtos sobre corpo, Qi Gong, respiração, movimento e MTC, pode ocupar posição de destaque.
+
+Prioridade estratégica por contexto:
+
+- **Cursos e palestras de MTC, Qi Gong, respiração e corpo:** muito alta.
+- **Currículo ampliado e dossiê de palestrante:** alta.
+- **Posicionamento autoral corpo–consciência:** alta como sustentação.
+- **CEEP:** moderada e contextual.
+- **Mini bio clínica geral:** baixa; sintetizar como formação internacional em MTC.
 
 # Regra de apresentação
 
@@ -114,6 +123,7 @@ Os registros abaixo correspondem às imagens disponibilizadas nesta atualizaçã
 | 2º nível | Certificado de assistência e aproveitamento; Santo André/SP, 19–20/03/2016 |
 | 3º nível | Certificado de assistência e aproveitamento; Santo André/SP, 10–11/09/2016 |
 | Acupuntura Bioenergética e Moxibustión — certificado geral complementar | Certificado emitido em Santo André/SP, 10–11/09/2016; 360 horas e 14,4 créditos ECTS |
+| Certificado conclusivo CEMETC–Yunnan | *Máster Iberoamericano en Acupuntura Bioenergética y Moxibustión*; outubro de 2015; identificação institucional da Universidad de Medicina Tradicional China de Yunnan, do CEMETC e da Fundación Europea de Medicina Tradicional China |
 | Programas didáticos | Conteúdos detalhados dos três níveis: fisiologia energética, Qi, meridianos, Cinco Movimentos, semiologia, diagnóstico e terapêutica segundo a tradição institucional do CEMETC |
 
 Os certificados gerais de 360 horas e os certificados por níveis pertencem ao mesmo percurso formativo. As cargas não devem ser somadas sem análise de eventual sobreposição.

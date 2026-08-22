@@ -283,3 +283,10 @@ Uma nova formação só deve entrar como prioridade quando preencher uma lacuna 
 - **Fase 1:** núcleo concluído — identidade, formulação temporal, assinatura canônica, bios e currículo-mestre normalizados.
 - **Site:** arquitetura e dossiê operacional atualizados; execução técnica deve ocorrer em homologação.
 - **Próxima dependência:** aplicar as formulações canônicas ao site e perfis e iniciar Lattes, ORCID, bibliografia pública e presença editorial.
+
+# Checkpoint de reconciliação curricular — 21/08/2026
+
+- O corpus curricular foi reconciliado com Brainspotting Fases 1–5, Meditação Bodyspotting, sequência completa Palas Athena, *Máster Iberoamericano* CEMETC–Yunnan, *Venia Docente* e três cursos de auto-hipnose.
+- Currículo-mestre, currículo público ampliado, matriz detalhada, bios, estratégia por públicos, site e continuidade do CEEP passam a derivar da mesma fonte.
+- Não há pendências curriculares abertas; detalhes não informados são omitidos sem bloquear currículo ou comunicação.
+- A prioridade estratégica não muda para nova acumulação de credenciais. O próximo ganho de autoridade depende de aplicação: site, artigo do TCC, Lattes/ORCID, palestra autoral, biblioteca pública, pilares editoriais e documentação educacional do CEEP.
