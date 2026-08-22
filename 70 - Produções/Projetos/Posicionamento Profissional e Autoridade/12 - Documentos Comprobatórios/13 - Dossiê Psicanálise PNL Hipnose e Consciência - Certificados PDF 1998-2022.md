@@ -51,8 +51,8 @@ Não é necessário dizer em toda bio que PNL “não constitui o eixo central�
 - p. 85: módulos B4–B8 de Hipnose Profissional e Clínica, 70h, 09–15/07/2022.
 - p. 87: Hypnotic Mastery Bootcamp, 18h, 06–07/08/2022.
 - p. 90: módulos B1–B3 de Hipnose Profissional e Clínica, 30h, 10–12/09/2021.
-- A trajetória também inclui estudos em hipnose clínica e terapêutica com Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sophia Bauer.
-- O curso on-line com Sophia Bauer foi acompanhado entre agosto de 2023 e fevereiro de 2024, com acesso pago confirmado por registro independente da Hotmart.
+- A trajetória também inclui estudos em hipnose clínica e terapêutica com Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sofia Bauer.
+- O curso on-line com Sofia Bauer foi acompanhado entre agosto de 2023 e fevereiro de 2024, com acesso pago confirmado por registro independente da Hotmart.
 - As datas documentais acima pertencem aos cursos registrados no PDF; os nomes dos professores e o período de acesso da Hotmart integram a fonte curricular autobiográfica/documental complementar.
 - Outros cursos de hipnose, auto-hipnose e regressão aparecem nos currículos e materiais históricos.
 
