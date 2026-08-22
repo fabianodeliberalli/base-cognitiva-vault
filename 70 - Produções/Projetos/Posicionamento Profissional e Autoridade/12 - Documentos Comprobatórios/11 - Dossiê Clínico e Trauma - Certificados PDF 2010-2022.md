@@ -36,9 +36,20 @@ Esta nota reúne os documentos do PDF certificados e diplomas.pdf que sustentam 
 
 ## Brainspotting
 
+### Registros existentes no PDF de 117 páginas
+
 - p. 2–3: Fases 1 e 2, documentadas em 2011 e 2017.
 - p. 12: Fase 4, 18h, 02–04/08/2019.
-- Uso público: “formação continuada em Brainspotting, com fases documentadas” ou a denominação exata das fases, sem converter automaticamente em título de especialista.
+
+### Trajetória completa reconciliada
+
+- **Fase 3:** concluída sequencialmente entre a Fase 2 e a Fase 4, conforme confirmação direta de Fabiano.
+- **Fase 5 — treinamento avançado:** 24h, on-line ao vivo, 22–24/08/2025, ministrado por David Grand e certificado pela ABBSP.
+- **Meditação Bodyspotting:** workshop complementar de 4h com Marília Toscano, em 11/04/2026; não constitui uma sexta fase.
+- **Síntese vigente:** formação continuada em Brainspotting, com Fases 1 a 5 concluídas entre 2011 e 2025.
+- **Uso público:** pode-se nomear “Fases 1 a 5 concluídas”; reservar “certificação vigente” ou títulos institucionais específicos para situações que realmente exijam esse estatuto.
+
+Fonte complementar: [[22 - Atualização Brainspotting Palas Athena CEMETC Yunnan e Auto-Hipnose 2025-2026]].
 
 ## Mário Salvador e Psicoterapia Integradora
 
