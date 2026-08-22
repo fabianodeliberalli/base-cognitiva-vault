@@ -2,8 +2,8 @@
 tipo: diretriz-transversal-governante
 projeto: Traduzindo o Ser Humano
 status: vigente
-versao: "1.0"
-data: 2026-07-30
+versao: "1.1"
+data: 2026-08-22
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 aplicacao:
@@ -22,6 +22,8 @@ tags:
   - identidade-profissional
   - governanca
   - nao-neutralizacao
+  - pluralismo-epistemologico-nao-redutivo
+  - integracao-autoral
 ---
 
 # Diretriz Transversal — Espiritualidade Explícita, Singularidade Autoral e Não Neutralização
@@ -33,6 +35,8 @@ Esta é uma diretriz transversal vigente e obrigatória para qualquer pessoa, IA
 Sua finalidade é impedir que critérios genéricos de mercado, branding, psicologia, ciência, espiritualidade comercial ou prudência automatizada da IA neutralizem, reduzam ou descaracterizem a identidade intelectual, clínica, pedagógica e espiritual do projeto.
 
 Esta diretriz não é uma preferência estética isolada. Ela protege uma característica estrutural do patrimônio autoral.
+
+Somente **Fabiano Deliberalli** possui autoridade para aprovar, rejeitar ou alterar decisões autorais do projeto. IAs, consultores, mentores e colaboradores analisam, recomendam, executam e registram; não aprovam em nome do autor.
 
 ## 2. Decisão autoral central
 
@@ -70,6 +74,24 @@ Qualquer análise deverá partir do pressuposto de que:
 
 > A comunicação pode ser simples e acessível sem tornar o pensamento genérico, superficial ou intercambiável com outras propostas.
 
+### 3.1. Identidade profissional integrada
+
+A identidade profissional de Fabiano não deve ser dividida artificialmente entre “psicólogo” e “buscador ou praticante espiritual”. Psicologia, clínica, corpo, ciência, filosofia, tradições contemplativas, práticas energéticas, espiritualidade e experiência pessoal participam de uma trajetória polímata e de uma elaboração autoral integrada, preservadas as diferenças de estatuto e a precisão cronológica de cada formação.
+
+Uma prática tradicional, corporal, energética ou espiritual pode ser citada, demonstrada e ensinada no curso quando for pertinente, estiver dentro da competência de Fabiano e for apresentada segundo seu estatuto. A legitimidade da prática não depende de sua conversão em técnica psicológica ou de ratificação científica externa.
+
+### 3.2. Governança de afirmações, não separação de identidades
+
+O rigor deve incidir sobre o que cada enunciado efetivamente reivindica:
+
+- uma tradição pode ser apresentada e ensinada como tradição;
+- uma experiência autobiográfica pode ser narrada como experiência singular;
+- uma observação clínica deve ser identificada como tal;
+- uma afirmação científica, clínica ou terapêutica deve responder aos critérios do estatuto que reivindica;
+- diálogo entre campos não significa equivalência, fusão nem validação mútua.
+
+Não se deve deduzir, sem evidência textual concreta, que a presença de uma prática específica desloca o mecanismo do curso, promete um efeito rápido ou produz confusão de identidade profissional.
+
 ## 4. Correção de viés obrigatória
 
 É proibido adotar automaticamente os seguintes raciocínios:
@@ -83,6 +105,10 @@ Qualquer análise deverá partir do pressuposto de que:
 - “centro, luz, energia, verticalidade ou transcendência são clichês que devem ser excluídos por princípio”;
 - “um símbolo precisa explicar literalmente o mecanismo pedagógico do curso”;
 - “diferenciação mercadológica prevalece sobre fidelidade autoral”.
+- “uma prática tradicional citada numa história desloca automaticamente o mecanismo central”;
+- “um efeito descrito num episódio singular constitui automaticamente promessa universal de regulação rápida”;
+- “a identidade de psicólogo precisa ser separada das tradições, práticas energéticas ou espiritualidade que integram sua formação”;
+- “a possibilidade de o público esperar que uma prática seja ensinada é um problema mesmo quando ela pode legitimamente integrar o curso”.
 
 Essas interpretações só podem ser levantadas como hipóteses contextuais, nunca como conclusões automáticas. Devem ser confrontadas com a arquitetura do projeto e com a intenção autoral antes de produzir recomendações.
 
@@ -214,6 +240,8 @@ Toda produção futura deverá:
 6. propor versões, hierarquias e contextos de uso antes de recomendar exclusão;
 7. manter coerência entre clínica, curso, comunicação, mapas, identidade visual e demais produtos;
 8. registrar qualquer mudança real de perspectiva apenas após deliberação autoral explícita.
+9. aplicar o [[04 - Deliberação Transversal - Pluralismo Epistemológico Não Redutivo e Integração Autoral]] sempre que houver relação entre ciência, clínica, experiência, filosofia, tradição, energia, simbolismo ou espiritualidade;
+10. fundamentar qualquer ressalva em um enunciado concreto do material, e não em inferências genéricas sobre aparência, associação ou reputação.
 
 ## 11. Pergunta de controle obrigatória
 
@@ -260,7 +288,15 @@ Mesmo nesses casos, a resposta deve buscar integração e solução proporcional
 - [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]]
 - [[00 - Briefing Mestre de Identidade Visual - Traduzindo o Ser Humano]]
 - [[04 - Deliberação Transversal - Público, Microaulas e Arquitetura de Marca - 2026-07-28]]
+- [[04 - Deliberação Transversal - Pluralismo Epistemológico Não Redutivo e Integração Autoral]]
 - [[Tradução da Experiência Humana]]
 - [[Mapa Funcional Transversal dos Três Eus]]
 - [[Léxico Mestre do Traduzindo o Ser Humano]]
 - [[00 - Sistema Visual dos Mapas - Traduzindo o Ser Humano]]
+
+## Histórico de versões
+
+| Versão | Data | Alteração | Motivação | Impacto | Aprovação |
+|---|---|---|---|---|---|
+| 1.1 | 2026-08-22 | Explicitação da identidade profissional integrada, da governança por estatuto e do protocolo contra inferências genéricas sobre práticas tradicionais | Corrigir neutralização indevida do Sorriso Interior e propagar o pluralismo epistemológico não redutivo | Curso, masterclass, comunicação, prompts e futuras análises | Fabiano Deliberalli |
+| 1.0 | 2026-07-30 | Instituição da diretriz de espiritualidade explícita, singularidade autoral e não neutralização | Proteger o patrimônio autoral de heurísticas genéricas | Projeto inteiro | Fabiano Deliberalli |

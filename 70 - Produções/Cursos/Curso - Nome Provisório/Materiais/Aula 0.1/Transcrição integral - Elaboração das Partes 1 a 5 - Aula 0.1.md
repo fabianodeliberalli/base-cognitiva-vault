@@ -1,5 +1,8 @@
 # Transcrição integral — elaboração das Partes 1–5 da Aula 0.1
 
+> [!important] Transcrição histórica — não utilizar como regra vigente
+> O texto abaixo é preservado literalmente. Ocorrências de “consiliência”, referências a E. O. Wilson como fundamento epistemológico ou instruções produzidas pela IA naquele momento foram superadas pela decisão autoral de 26/07/2026, formalizada em [[04 - Deliberação Transversal - Pluralismo Epistemológico Não Redutivo e Integração Autoral]] em 22/08/2026. Prevalecem o pluralismo epistemológico não redutivo, a identidade autoral integrada e a autoridade exclusiva de Fabiano para aprovar decisões.
+
 **Fonte:** conversa compartilhada “Curso Módulo 0”  
 **Link de origem:** https://chatgpt.com/share/6a66b520-b7fc-83e9-85ae-40ce808a3124
 

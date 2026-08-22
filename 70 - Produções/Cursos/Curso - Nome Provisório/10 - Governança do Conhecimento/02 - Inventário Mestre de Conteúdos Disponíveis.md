@@ -50,7 +50,7 @@ Este Inventário é a porta de entrada para localizar, relacionar e reativar o p
 | Integração sem homogeneização | consolidada | operador geral | módulos 5 e 6; transversal |
 | Autonomia, agência e discernimento | horizonte aprovado | critério de qualidade | contrato e todo o curso |
 | Responsabilidade, reparação e aprendizagem | aprovados como retorno | transferência para a vida | módulos 4–6; transversal |
-| Consiliência crítica / passagens entre mapas | consolidada | operador epistemológico | contrato e todo o curso |
+| Pluralismo epistemológico não redutivo / articulação responsável entre regimes de conhecimento | decisão autoral vigente | princípio e operador epistemológico | contrato, governança e todo o curso |
 | Arquitetura plural das fontes | reconciliada | governança epistemológica | educador e participante em linguagem graduada |
 | Dignidade epistêmica | operador geral consolidado | ética do reconhecimento | contrato e todo o curso |
 | Abertura ontológica responsável | operador geral consolidado | sustentar incerteza sem fechamento | módulos 1–5; transversal |
@@ -200,4 +200,3 @@ Autores não são classificados como blocos científicos ou não científicos. C
 - completar a matriz Três Eus × quatro movimentos × seis fases × práticas × indicadores;
 - vincular cada Dívida de Organização ao ativo resultante;
 - atualizar este inventário após cada auditoria, piloto ou nova incorporação.
-

@@ -3,11 +3,11 @@ tipo: reconciliacao-fundamentos-revisao-curricular
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: aprovado-como-base-de-revisao
-versao: "1.0"
+versao: "1.1"
 autor: Fabiano Deliberalli
 aprovado_por: Fabiano Deliberalli
 criado_em: 2026-07-21
-atualizado_em: 2026-07-21
+atualizado_em: 2026-08-22
 ---
 
 # Reconciliação Documental dos Fundamentos Transversais e Revisão Curricular
@@ -36,7 +36,7 @@ São reconhecidos como fundamentos aprovados ou consolidados para a construção
 - autonomia, agência, discernimento, responsabilidade e reparação;
 - corpo e relação como participantes da organização;
 - arquitetura plural de fontes e validações;
-- consiliência crítica como construção de passagens responsáveis entre mapas;
+- pluralismo epistemológico não redutivo, operado por tradução e articulação responsável entre regimes de conhecimento;
 - dignidade epistêmica;
 - abertura ontológica responsável;
 - distinção entre fenômeno, manifestação, Tradução, interpretação, significado e hipótese;
@@ -46,9 +46,13 @@ São reconhecidos como fundamentos aprovados ou consolidados para a construção
 
 Esses fundamentos constituem a gramática das aulas e não uma disciplina adicional.
 
+> **Atualização governante de 22 de agosto de 2026:** “consiliência crítica” permanece apenas como registro histórico. A posição vigente está formalizada em [[04 - Deliberação Transversal - Pluralismo Epistemológico Não Redutivo e Integração Autoral]].
+
 ## 3. Arquitetura plural da ciência e das demais fontes
 
 Nenhum domínio constitui sozinho o tribunal final da experiência humana. A ciência oferece descrição, comparação, correlação, explicação parcial e possibilidade de revisão pública. Clínica, fenomenologia, filosofia, símbolo, tradição, espiritualidade, experiência e produção autoral oferecem outros tipos de acesso e elaboração.
+
+Esses regimes possuem critérios próprios e podem dialogar sem precisar comprovar-se mutuamente. Diferenciar não significa hierarquizar; traduzir não significa reduzir; integrar não significa fundir.
 
 O rigor incide sobre o enunciado utilizado, não sobre a classificação total de um autor. Toda afirmação relevante deve indicar seu modo:
 
@@ -175,4 +179,3 @@ Os fundamentos reconciliados entram como critérios de observação do piloto e 
 4. iniciar a Aula 1.2 usando a matriz transversal reconciliada;
 5. converter o Raio X em matriz capacidade–conteúdo–profundidade–destino;
 6. atualizar o Inventário Mestre a cada incorporação.
-

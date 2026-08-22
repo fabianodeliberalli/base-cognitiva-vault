@@ -4,6 +4,7 @@ projeto: Traduzindo o Ser Humano
 metodo: EIXO
 estado: aprovado
 data: 2026-07-20
+atualizado_em: 2026-08-22
 ---
 
 # Matriz de Inserção Curricular — Jung, símbolos e validação plural
@@ -24,9 +25,9 @@ Algum EIXO favorece a Tradução; traduzir favorece integração e reorganizaç�
 
 Entre o centro e a borda encontra-se o campo multidimensional da experiência: corpo, sensações, afetos, memórias, complexos, imagens, símbolos, narrativas, vínculos, energia, recursos, feridas e potências. A sombra atravessa esse campo onde conteúdos pertencentes à totalidade permanecem desconhecidos, reprimidos, traumatizados, projetados, acumulados ou sem expressão integrada. Traduzir esse campo a partir de um EIXO não significa eliminar a sombra, mas tornar progressivamente legíveis suas formas, funções e potências, reorganizando sua relação com a consciência, o corpo, os vínculos, as escolhas e a Essência.
 
-### Consiliência crítica
+### Pluralismo epistemológico não redutivo
 
-Traduzir não é reduzir todas as linguagens a uma só. É construir passagens responsáveis entre mapas, preservando o que cada um revela, o que deixa de fora e o tipo de afirmação que pode sustentar.
+Traduzir não é reduzir todas as linguagens a uma só. Experiência vivida, clínica, ciência, filosofia, tradição, simbolismo, práticas corporais e energéticas e espiritualidade operam segundo estatutos e critérios próprios. Podem dialogar e produzir passagens responsáveis sem se tornarem equivalentes, sem precisarem comprovar-se mutuamente e sem se submeterem a um tribunal epistemológico único.
 
 ## Cartografias aprovadas
 
@@ -54,7 +55,7 @@ Traduzir não é reduzir todas as linguagens a uma só. É construir passagens r
 | Fase 5 — Orientar e escolher | labirinto, direção, valores e retorno à vida; centro como orientação, não chegada definitiva | existencial e ético |
 | Fase 6 — Expressar e incorporar | borda como interface; persona, expressão, contribuição e consequências relacionais | integração na vida |
 | Encerramento e acompanhamento | segunda mandala ou cartografia comparativa; leitura pelo próprio participante | longitudinal, não avaliativa |
-| Formação de educadores | Jung, consiliência crítica, limites interpretativos e manejo das práticas simbólicas | aprofundada e obrigatória |
+| Formação de educadores | Jung, pluralismo epistemológico não redutivo, articulação responsável entre regimes de conhecimento, limites interpretativos e manejo das práticas simbólicas | aprofundada e obrigatória |
 
 ## Regra de progressão
 
@@ -78,4 +79,4 @@ O horizonte integral é apresentado desde o início; a capacidade de explorá-lo
 - [[Matriz de Autoridade - Jung, Self, Mandala e EIXO]]
 - [[Dossiê de Contexto do Curso]]
 - [[Aula 1.1 - A experiência em sua multidimensionalidade]]
-
+- [[04 - Deliberação Transversal - Pluralismo Epistemológico Não Redutivo e Integração Autoral]]

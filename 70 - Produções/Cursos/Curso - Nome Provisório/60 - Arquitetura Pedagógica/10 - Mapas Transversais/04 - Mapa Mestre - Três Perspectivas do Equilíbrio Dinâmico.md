@@ -11,7 +11,7 @@ tags:
   - teoria-polivagal
   - piaget
   - equilibracao
-  - consiliencia-critica
+  - pluralismo-epistemologico-nao-redutivo
 ---
 
 # Mapa Mestre — Três Perspectivas do Equilíbrio Dinâmico

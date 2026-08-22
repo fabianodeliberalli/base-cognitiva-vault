@@ -3,10 +3,10 @@ tipo: protocolo-de-continuidade-integral
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "2.0"
+versao: "2.1"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-21
-atualizado_em: 2026-07-28
+atualizado_em: 2026-08-22
 fonte_persistente: fabianodeliberalli/base-cognitiva-vault
 branch: main
 tags:
@@ -22,6 +22,8 @@ tags:
 > **Prevalência operacional desde 26/07/2026:** consultar [[Protocolo de Elaboração Curricular Viva e Continuidade Leve]]. Quando houver conflito sobre ritmo, relatórios, aprovações, códigos, portões, auditorias antecipadas, checklists ou carga de leitura, o protocolo mais recente prevalece. Este documento continua preservando identidade, memória, fontes e decisões substantivas.
 
 > **Entrada de continuidade:** iniciar por [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]].
+
+> **Governança epistemológica obrigatória:** aplicar [[04 - Deliberação Transversal - Pluralismo Epistemológico Não Redutivo e Integração Autoral]]. “Consiliência crítica” é terminologia histórica superada como regra do projeto.
 
 ## 1. Finalidade e garantia operacional
 
@@ -63,13 +65,15 @@ A continuidade deve obedecer a duas hierarquias simultâneas.
 2. Manual Institucional do Sistema Operacional;
 3. Protocolo Operacional para Construção da Arquitetura de Cursos v1.0;
 4. Dossiê de Contexto e Arquitetura Mestre do curso;
-5. Guia Mestre de Incorporação e Rastreabilidade Curricular;
-6. Registro Mestre de Formulações Estruturantes;
-7. documentos metodológicos consolidados do Método EIXO;
-8. arquitetura curricular e índices-mestres;
-9. kits das aulas;
-10. fontes, auditorias e patrimônio;
-11. propostas, hipóteses e protótipos.
+5. [[05 - Diretriz Transversal - Espiritualidade Explícita, Singularidade Autoral e Não Neutralização]];
+6. [[04 - Deliberação Transversal - Pluralismo Epistemológico Não Redutivo e Integração Autoral]];
+7. Guia Mestre de Incorporação e Rastreabilidade Curricular;
+8. Registro Mestre de Formulações Estruturantes;
+9. documentos metodológicos consolidados do Método EIXO;
+10. arquitetura curricular e índices-mestres;
+11. kits das aulas;
+12. fontes, auditorias e patrimônio;
+13. propostas, hipóteses e protótipos.
 
 ### 2.2. Atualidade operacional
 
@@ -118,6 +122,12 @@ Seu valor singular não é apenas integrar disciplinas, mas oferecer linguagem, 
 Campos como psicologia, neurociência, fenomenologia, tradições contemplativas, Medicina Chinesa e espiritualidade são tratados como mapas de um território humano comum. Não são verdades concorrentes nem equivalentes automáticos.
 
 A ciência participa como fundamento transversal, linguagem de convergência, descrição e correlação proporcional à evidência. Não ocupa o lugar de tribunal único ou principal da experiência humana. Clínica, fenomenologia, filosofia, símbolo, tradição, espiritualidade, experiência e produção autoral permanecem legítimos segundo o tipo de afirmação e o modo de uso. O rigor recai sobre o enunciado empregado, não sobre a classificação total de um autor.
+
+A posição governante é o **pluralismo epistemológico não redutivo**. Os regimes podem dialogar e produzir traduções parciais sem precisar comprovar-se mutuamente. Traduzir não é reduzir; integrar não é fundir; diferenciar não é hierarquizar.
+
+A identidade de Fabiano é profissional e autoralmente integrada. Psicologia, clínica, corpo, ciência, filosofia, tradições, práticas energéticas, espiritualidade e experiência pessoal não devem ser compartimentalizadas por conveniência externa. Uma prática específica não desloca automaticamente o mecanismo do curso, e o relato singular de um efeito ou duração não constitui automaticamente promessa universal. Toda objeção deve demonstrar o enunciado concreto, o estatuto reivindicado e o critério violado.
+
+Somente Fabiano Deliberalli aprova, rejeita ou altera decisões autorais. Chats, IAs, mentores, consultores e colaboradores analisam, recomendam, executam e registram.
 
 A pedagogia do projeto parte do vivido, torna a experiência legível, favorece orientação e retorna à vida concreta. Seu horizonte é autonomia, discernimento, integração progressiva e expressão coerente, sem impor metafísica única.
 
@@ -632,16 +642,19 @@ O manifesto abaixo é o núcleo mínimo para orientação rápida, não a totali
 
 Leitura obrigatória inicial:
 
-1. [[00 - Dossiê de Contexto e Arquitetura Mestre]];
-2. [[01 - Protocolo de Continuidade Integral e Abertura de Novos Chats]];
-3. [[02 - Matriz Integrada - Quatro Movimentos, Seis Fases e Jornada Fenomenológica]];
-4. [[09 - Esqueleto Estrutural da Primeira Oferta Integral para Mentoria]];
-5. [[00 - Índice Mestre dos Kits de Aula]];
-6. [[Aula 0.2 - Índice do Kit]];
-7. [[Aula 1.1 - Índice do Kit]];
-8. [[02 - Roteiro do Educador v1]];
-9. [[08 - Critérios de Pilotagem v1]];
-10. [[09 - Registro de Produção Visual e QA v1]].
+1. [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]];
+2. [[05 - Diretriz Transversal - Espiritualidade Explícita, Singularidade Autoral e Não Neutralização]];
+3. [[04 - Deliberação Transversal - Pluralismo Epistemológico Não Redutivo e Integração Autoral]];
+4. [[00 - Dossiê de Contexto e Arquitetura Mestre]];
+5. [[01 - Protocolo de Continuidade Integral e Abertura de Novos Chats]];
+6. [[02 - Matriz Integrada - Quatro Movimentos, Seis Fases e Jornada Fenomenológica]];
+7. [[09 - Esqueleto Estrutural da Primeira Oferta Integral para Mentoria]];
+8. [[00 - Índice Mestre dos Kits de Aula]];
+9. [[Aula 0.2 - Índice do Kit]];
+10. [[Aula 1.1 - Índice do Kit]];
+11. [[02 - Roteiro do Educador v1]];
+12. [[08 - Critérios de Pilotagem v1]];
+13. [[09 - Registro de Produção Visual e QA v1]].
 
 Leitura contextual antes de alterar a Aula 1.1:
 

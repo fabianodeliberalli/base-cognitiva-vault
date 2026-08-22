@@ -3,6 +3,7 @@ tipo: registro-visual
 projeto: Traduzindo o Ser Humano
 estado: prototipos-revisaveis
 data: 2026-07-20
+atualizado_em: 2026-08-22
 ---
 
 # Registro Visual — Jung, símbolos e validação plural
@@ -29,11 +30,13 @@ Os três mapas abaixo foram produzidos agora porque representam decisões estrut
 
 ## 3. Arquitetura Plural de Validação
 
-![[90 - Anexos/Mapas Conceituais/Mapa Arquitetura Plural de Validacao - prototipo v2.svg]]
+![[90 - Anexos/Mapas Conceituais/Mapa Arquitetura Plural de Validacao - prototipo v3.svg]]
 
 **Uso previsto:** versão simplificada nas Aulas 0.1 e 1.1; versão integral na formação de educadores e nos materiais de fundamentação.
 
 **Cuidado:** domínio de conhecimento e estatuto da afirmação são eixos diferentes.
+
+**Versão vigente:** v3, atualizada para o pluralismo epistemológico não redutivo. A v2 permanece preservada como histórico da terminologia “consiliência crítica”.
 
 ## 4. Mapa da experiência multidimensional
 

@@ -247,7 +247,7 @@ O risco é a pessoa terminar mais informada sobre distinções, porém cansada a
 
 **Função preservada:** mostrar que diferentes linguagens iluminam aspectos do vivido sem esgotá-lo.
 
-**Coerência com o curso:** alta. Expressa a arquitetura plural e prepara a consiliência crítica.
+**Coerência com o curso:** alta. Expressa a arquitetura plural e prepara o pluralismo epistemológico não redutivo e a articulação responsável entre regimes de conhecimento.
 
 **Força:** situa o diferencial do projeto como Tradução entre mapas, não coleção de disciplinas.
 
@@ -544,4 +544,3 @@ Após essa incorporação:
 - roteiro: não alterado;
 - gravação: não autorizada;
 - próxima decisão: permanece com Fabiano Deliberalli.
-

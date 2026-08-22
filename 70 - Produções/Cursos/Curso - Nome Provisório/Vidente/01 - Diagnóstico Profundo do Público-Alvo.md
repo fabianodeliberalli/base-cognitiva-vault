@@ -2,6 +2,9 @@
 
 ## Traduzindo o Ser Humano: Da Confusão Interna à Coerência
 
+> [!important] Atualização governante — 22/08/2026
+> Este diagnóstico deve ser lido sob a [[04 - Deliberação Transversal - Pluralismo Epistemológico Não Redutivo e Integração Autoral]]. O projeto articula regimes distintos de conhecimento sem reduzi-los, exigir validação mútua ou separar artificialmente a identidade profissional, espiritual e formativa de Fabiano. Somente Fabiano aprova decisões autorais; IAs e colaboradores analisam, recomendam e executam.
+
 ## 1. BASE ESTRATÉGICA EXTRAÍDA DO DOCUMENTO
 
 ### Público
@@ -598,7 +601,7 @@ Nesse público, status tende a aparecer de forma mais sutil do que ostentação 
 8. Consumir aulas e não realizar os exercícios.
 9. Registrar insights sem criar formas de revisitá-los.
 10. Não possuir critérios para comparar diferentes abordagens.
-11. Misturar termos de psicologia, neurociência, energia e espiritualidade.
+11. Confundir estatutos ao relacionar termos de psicologia, neurociência, energia e espiritualidade.
 12. Não saber transformar um conceito abstrato em uma ação concreta.
 13. Ter dificuldade para acompanhar mudanças graduais.
 14. Abandonar o processo quando os padrões reaparecem.

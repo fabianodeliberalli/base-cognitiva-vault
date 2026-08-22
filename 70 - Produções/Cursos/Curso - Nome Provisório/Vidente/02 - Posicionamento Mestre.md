@@ -2,6 +2,9 @@
 
 ## Traduzindo o Ser Humano: Da Confusão Interna à Coerência
 
+> [!important] Atualização governante — 22/08/2026
+> Este posicionamento deve ser lido sob a [[04 - Deliberação Transversal - Pluralismo Epistemológico Não Redutivo e Integração Autoral]]. A integração entre Psicologia, ciência, experiência, tradições, práticas corporais e energéticas e espiritualidade é parte da identidade autoral do projeto. O rigor incide sobre o estatuto e a proporcionalidade de cada afirmação, não sobre a separação artificial desses campos ou da identidade de Fabiano.
+
 ---
 
 # 1. ESSÊNCIA DO POSICIONAMENTO
@@ -534,9 +537,9 @@ O curso não parte da ideia de que tudo o que veio antes foi inútil. Ele foi co
 
 Não. É um curso educacional e complementar. Não oferece diagnóstico, tratamento clínico nem substitui psicoterapia, acompanhamento médico ou cuidado especializado.
 
-## “O curso mistura ciência e espiritualidade?”
+## “Como ciência, Psicologia e espiritualidade entram no curso?”
 
-Ele coloca diferentes áreas em diálogo, preservando suas diferenças e seus limites. Não afirma que ciência, psicologia, espiritualidade, Medicina Tradicional Chinesa e práticas energéticas dizem exatamente a mesma coisa.
+Elas participam explicitamente de uma proposta autoral integrada, segundo estatutos próprios. Ciência, Psicologia, experiência, espiritualidade, Medicina Tradicional Chinesa e práticas energéticas podem dialogar e produzir traduções parciais sem precisar dizer a mesma coisa, comprovar-se mutuamente ou submeter-se a um tribunal único.
 
 ## “Preciso aceitar alguma crença espiritual?”
 

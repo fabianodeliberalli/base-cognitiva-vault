@@ -3,9 +3,9 @@ tipo: porta-de-entrada-continuidadade
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "2.7"
+versao: "2.8"
 criado_em: 2026-07-21
-atualizado_em: 2026-08-02
+atualizado_em: 2026-08-22
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 tags:
@@ -56,6 +56,16 @@ A [[05 - Diretriz Transversal - Espiritualidade Explícita, Singularidade Autora
 A espiritualidade explícita, afirmativa, plural e não dogmática é dimensão estrutural e longitudinal do **Traduzindo o Ser Humano**. Isso não obriga sua repetição nominal em toda Parte, microaula ou slide; obriga que o percurso não a trate como adendo, risco por princípio ou conteúdo isolado numa única unidade. Simplicidade de linguagem não autoriza neutralização conceitual.
 
 Antes de recomendar retirada ou redução de elementos espirituais, energéticos, simbólicos ou transpessoais, devem ser examinados sua origem, função, integração, risco real, custo de perda autoral e alternativas proporcionais. Limitações éticas, técnicas demonstráveis, evidência relevante e decisões autorais posteriores permanecem critérios legítimos.
+
+## Deliberação epistemológica governante formalizada em 22 de agosto de 2026
+
+A [[04 - Deliberação Transversal - Pluralismo Epistemológico Não Redutivo e Integração Autoral]] é leitura obrigatória. Ela formaliza decisão autoral de 26 de julho de 2026 e substitui **“consiliência crítica”** como termo governante.
+
+O projeto assume **pluralismo epistemológico não redutivo**: experiência vivida, clínica, ciência, filosofia, tradição, simbolismo, práticas corporais e energéticas e espiritualidade podem dialogar segundo seus próprios estatutos, sem equivalência automática, validação mútua obrigatória ou tribunal epistemológico único. A operação autoral é tradução e articulação responsável entre regimes de conhecimento.
+
+A identidade profissional de Fabiano é integrada, não compartimentalizada. Práticas tradicionais, corporais, energéticas e espirituais podem ser nomeadas e ensinadas quando pertinentes e compatíveis com sua competência. Nenhuma IA ou colaborador deve inferir automaticamente que uma prática desloca o mecanismo do curso, promete efeito rápido ou mistura identidades. Toda ressalva deve citar o enunciado concreto, seu estatuto e o critério realmente aplicável.
+
+Somente Fabiano Deliberalli aprova decisões autorais. IAs, mentores, consultores e colaboradores analisam, recomendam, executam e registram.
 
 ## Estado vigente em 2 de agosto de 2026
 

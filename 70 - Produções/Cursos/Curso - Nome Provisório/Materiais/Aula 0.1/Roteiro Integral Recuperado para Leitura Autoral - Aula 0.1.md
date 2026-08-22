@@ -16,6 +16,9 @@ autoridade_de_aprovacao: Fabiano Deliberalli
 
 # Aula 0.1 — Roteiro integral recuperado para leitura autoral
 
+> [!important] Registro histórico — terminologia superada
+> Este roteiro preserva a montagem recuperada em 26/07/2026. Ocorrências de “consiliência” não governam mais o projeto. Prevalece a [[04 - Deliberação Transversal - Pluralismo Epistemológico Não Redutivo e Integração Autoral]], formalizada em 22/08/2026. Não atualizar silenciosamente o corpo recuperado.
+
 ## Estatuto
 
 Esta é a primeira montagem documentalmente completa das sete Partes da Aula 0.1 após a recuperação da transcrição das Partes 1–5.

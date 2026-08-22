@@ -94,7 +94,7 @@ Depois de diferenciar manifestação e interpretação, a aula amplia a pergunta
 
 Psicologia, neurociência, fenomenologia, tradições contemplativas, linguagens corporais, relacionais, simbólicas e energéticas podem iluminar aspectos diferentes da experiência. Nenhum mapa é apresentado como tradução total do território.
 
-A função é sustentar consiliência e não dogmatismo sem dissolver critérios.
+A função é sustentar pluralismo epistemológico não redutivo e não dogmatismo sem dissolver critérios.
 
 ### Parte 4 — Aprender uma maneira cuidadosa de aproximação
 

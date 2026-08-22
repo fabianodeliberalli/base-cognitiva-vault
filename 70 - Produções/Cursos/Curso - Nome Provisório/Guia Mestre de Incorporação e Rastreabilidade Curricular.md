@@ -207,7 +207,7 @@ Consequência curricular:
 | IDs | Núcleo | Consequência curricular | Estatuto predominante |
 |---|---|---|---|
 | F47 | Experiência multidimensional | Aula 1.1 oferece cartografia inicial; dimensões energética e espiritual possuem dignidade sem se tornarem causas universais | E/I |
-| F48–F50 | Diferentes mapas; distinguir e integrar; consiliência crítica | Fontes entram por função e estatuto; comparações não apagam diferenças | E/I/FE |
+| F48–F50 | Diferentes mapas; distinguir e integrar; pluralismo epistemológico não redutivo | Fontes entram por função e estatuto; comparações não apagam diferenças nem exigem validação mútua | E/I/FE |
 | F51–F52 | Arquitetura plural e estatutos das linguagens | Aula 1.2 ensina taxonomia; todos os materiais declaram o estatuto de alegações | E/I/P |
 | F53–F55 | Fenômeno, dignidade epistêmica e abertura ontológica responsável | Participante distingue vivido, interpretação e hipótese; o educador não confirma nem apaga causas | E/I |
 | F56 | Transformação não equivale a integração | Módulos 4 e 5 distinguem intensidade, mudança, reorganização e incorporação | E/I |
@@ -418,6 +418,7 @@ O participante formula sua posição espiritual atual, inclusive religiosa, espi
 - o curso não promete realização espiritual;
 - tradições não são niveladas nem transformadas em catálogo superficial;
 - neurociência não funciona como tribunal da verdade espiritual;
+- nenhum regime de conhecimento funciona como tribunal único dos demais;
 - a aula não substitui orientação religiosa ou espiritual individualizada.
 
 ---
@@ -651,4 +652,3 @@ Para cada revisão da arquitetura, verificar:
 - [[Princípio da Arquitetura Global Invariante]]
 - [[Pedagogia das Distinções Experienciais]]
 - [[Reparação como Indicador Transversal do EIXO]]
-

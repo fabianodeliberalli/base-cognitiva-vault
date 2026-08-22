@@ -16,6 +16,9 @@ autoridade_de_aprovacao: Fabiano Deliberalli
 
 # Aula 0.1 — Montagem literal mais recente das Partes 1–5
 
+> [!important] Registro histórico — terminologia superada
+> Esta montagem preserva literalmente a redação recuperada em 26/07/2026. Ocorrências de “consiliência” não governam mais o projeto. Prevalece a [[04 - Deliberação Transversal - Pluralismo Epistemológico Não Redutivo e Integração Autoral]], formalizada em 22/08/2026. Não atualizar o corpo literal deste documento.
+
 ## Natureza e procedência
 
 Esta montagem reúne, sem reescrita, as versões literais mais recentes identificáveis de cada Parte na transcrição cronológica da conversa compartilhada “Curso Módulo 0”.

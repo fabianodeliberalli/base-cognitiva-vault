@@ -4,9 +4,9 @@ projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 portao: P2
 status: aprovado-portao-fechado
-versao: "1.0"
+versao: "1.1"
 criado_em: 2026-07-21
-atualizado_em: 2026-07-21
+atualizado_em: 2026-08-22
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 documentos_governantes:
@@ -42,6 +42,8 @@ Esta taxonomia foi **aprovada integralmente por Fabiano Deliberalli em 21 de jul
 
 O documento transforma em sistema operacional a decisão já aprovada de que experiência, símbolo, tradição, hipótese, metáfora, modelo psicológico/clínico e afirmação científica não são intercambiáveis.
 
+Sua leitura é governada pela [[04 - Deliberação Transversal - Pluralismo Epistemológico Não Redutivo e Integração Autoral]]. A taxonomia diferencia os tipos de reivindicação; não estabelece uma hierarquia geral entre regimes de conhecimento nem exige que tradição, experiência, simbolismo, energia ou espiritualidade sejam validados pela ciência para serem apresentados em seus próprios estatutos.
+
 ## Pergunta decisória
 
 > Quais categorias, definições, marcadores e regras deverão ser utilizadas transversalmente para que cada afirmação declare de onde fala, o que pode sustentar e o que não autoriza concluir?
@@ -71,6 +73,8 @@ A proposta abaixo separa esses planos.
 # 1. Princípio nuclear aprovado
 
 > **Toda afirmação relevante deverá declarar seu estatuto principal, admitir marcadores complementares quando necessários e respeitar os limites do tipo de validade que reivindica. Traduzir aproxima mapas sem apagar diferenças entre vivido, observação, interpretação, tradição, modelo, ciência, filosofia e espiritualidade.**
+
+> **Cada regime possui critérios próprios de elaboração e validação. Eles podem dialogar sem se tornarem equivalentes, sem precisarem comprovar-se mutuamente e sem se submeterem a um tribunal único. Diferenciar não é hierarquizar.**
 
 **Estatuto:** A — formulação aprovada.  
 **Base relacionada:** F48–F55, F57–F58 e F69.
@@ -133,6 +137,8 @@ A função curricular não substitui o estatuto epistemológico.
 - uma frase composta que mistura estatutos deve ser desmembrada;
 - a fonte utilizada não determina sozinha o estatuto: um autor científico pode formular filosofia, e uma tradição pode oferecer prática, símbolo ou hipótese;
 - o estatuto descreve a reivindicação efetivamente feita, não o prestígio da fonte.
+- uma prática tradicional pode ser ensinada como prática tradicional; sua legitimidade nesse estatuto não depende de recategorização psicológica ou científica;
+- um relato autobiográfico preserva estatuto de experiência vivida: duração ou efeito singular não se convertem, por inferência, em promessa universal.
 
 ---
 

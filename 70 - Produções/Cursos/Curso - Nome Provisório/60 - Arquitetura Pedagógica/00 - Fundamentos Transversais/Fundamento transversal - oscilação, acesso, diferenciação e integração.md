@@ -12,7 +12,7 @@ tags:
   - granularidade-emocional
   - seguranca
   - integracao
-  - consiliencia-critica
+  - pluralismo-epistemologico-nao-redutivo
   - responsabilidade-sem-culpabilizacao
   - equanimidade
   - grandes-tradicoes
@@ -36,7 +36,7 @@ Esta nota articula:
 - integração como ligação entre elementos diferenciados;
 - competência incorporada;
 - simplificação pedagógica com precisão de bastidor;
-- consiliência crítica, plural e não redutiva.
+- pluralismo epistemológico não redutivo e articulação responsável entre regimes de conhecimento.
 
 ## Formulação nuclear preservada
 
@@ -378,7 +378,9 @@ A obra integra trauma, corpo, identidade, relação terapêutica, presença, aut
 | Siegel | integração pode ser nomeada brevemente | diferenciação, ligação e mente relacional | todo o arco, com ênfase na integração |
 | Schore/Winnicott | não | implícito, desenvolvimento e sustentação relacional | vínculos, padrões e corregulação |
 | Mario C. Salvador | não | narrativa fisiológica, identidade, trauma, presença e essência | padrões implícitos, relações e integração |
-| E. O. Wilson | não | inspiração para consiliência | fundamentos epistemológicos |
+| William James | não | pluralismo radical e empirismo radical como linhagem filosófica | fundamentos epistemológicos |
+| Pluralismo epistêmico contemporâneo | não | coexistência de modelos, métodos e critérios sem tribunal único | fundamentos epistemológicos |
+| E. O. Wilson | não | referência histórica contrastiva; sua consiliência não governa o projeto | formação do educador e memória epistemológica |
 | Tradução/EIXO | sim, como linguagem autoral | arquitetura organizadora | todo o percurso |
 
 ## Regra de mobilização futura
@@ -417,7 +419,7 @@ A consolidação visual e a governança de utilização futura deste fundamento 
 
 O treino pode modificar frequência, intensidade, duração e efeitos dos deslocamentos desorganizadores; antecipar seu reconhecimento; ampliar recursos e apoios; facilitar retorno, reparação e aprendizagem; e favorecer uma vida progressivamente mais orientada pela Essência.
 
-### Equilíbrio dinâmico e consiliência crítica
+### Equilíbrio dinâmico e pluralismo epistemológico não redutivo
 
 Yin–yang, neurobiologia autonômica e equilibração em Piaget foram incorporados como perspectivas complementares, sem equivalência entre seus mecanismos ou estatutos:
 
@@ -431,9 +433,8 @@ A Teoria Polivagal permanece como modelo específico dentro da discussão auton�
 ## Relações
 
 - [[05 - Diretriz Transversal - Espiritualidade Explícita, Singularidade Autoral e Não Neutralização]]
+- [[04 - Deliberação Transversal - Pluralismo Epistemológico Não Redutivo e Integração Autoral]]
 - [[02 - Matriz Integrada - Quatro Movimentos, Seis Fases e Jornada Fenomenológica]]
 - [[01 - Ficha Pedagógica]]
 - [[02 - Roteiro do Educador]]
 - [[Pedagogia das Distinções Experienciais]]
-- [[37-consiliencia-critica-e-arquitetura-plural]]
-

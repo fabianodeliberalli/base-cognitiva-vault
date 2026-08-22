@@ -5,10 +5,10 @@ curso: nome-provisorio
 status: prototipagem-curricular-em-andamento
 estado_maturidade: arquitetura-integral-em-prototipagem
 fase_atual: "construção curricular sequencial — Módulo 0 ativo — Unidade Curricular 0.2 em elaboração"
-versao: "0.33"
+versao: "0.34"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-17
-atualizado_em: 2026-07-28
+atualizado_em: 2026-08-22
 documento_superior: Protocolo Operacional para Construção da Arquitetura de Cursos v1.0
 tags:
   - traduzindo-o-ser-humano
@@ -19,7 +19,7 @@ tags:
 
 # Dossiê de Contexto — Traduzindo o Ser Humano
 
-**Versão:** 0.33  
+**Versão:** 0.34  
 **Estado de maturidade:** arquitetura integral em prototipagem  
 **Fases concluídas:** Fase 0 — Abertura e governança; Fase 1 — Gênese, identidade e problema humano  
 **Fase atual:** construção curricular sequencial; Módulo 0 ativo; Unidade Curricular 0.2 em elaboração
@@ -30,7 +30,7 @@ tags:
 
 - **Código do curso:** a definir;
 - **Nome atual da oferta:** Traduzindo o Ser Humano;
-- **Versão do Dossiê:** 0.33;
+- **Versão do Dossiê:** 0.34;
 - **Status documental:** documento evolutivo;
 - **Estado de maturidade:** arquitetura integral em prototipagem;
 - **Data de criação:** 2026-07-17;
@@ -778,6 +778,8 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 | Não iniciar módulos antes da arquitetura | APROVADO — CURSO | 2026-07-17 | Protocolo v1.0 | Bloqueia produção prematura | Após portão da Fase 8 |
 | Manter o Dossiê como documento evolutivo | APROVADO — CURSO | 2026-07-17 | Protocolo v1.0 | Centraliza contexto e decisões | Após validação integral |
 | Reconciliar autoridade, disponibilidade, função e momento do acervo | APROVADO — CURSO/GOVERNANÇA | 2026-07-21 | Deliberação autoral | Libera consulta e prototipagem sem dissolver autoridade | Revisão formal de governança |
+| Substituir “consiliência crítica” por pluralismo epistemológico não redutivo e articulação responsável entre regimes de conhecimento | APROVADO — PROJETO/CURSO/GOVERNANÇA | 2026-07-26 | Deliberação autoral formalizada em 2026-08-22 | Retira a unificação redutiva como referência, preserva regimes próprios e governa curso, masterclass, comunicação, mapas e IAs | Nova deliberação autoral explícita |
+| Reconhecer a identidade autoral e profissional de Fabiano como integrada, sem compartimentalização automática entre Psicologia, ciência, tradições, energia e espiritualidade | APROVADO — PROJETO/CURSO/GOVERNANÇA | 2026-08-22 | Correção autoral e propagação transversal | Impede neutralização, separação artificial de identidades e restrições não fundadas sobre práticas legítimas | Nova deliberação autoral explícita ou conflito ético concreto |
 | Tratar o pacote sobre experiências liminares como patrimônio candidato | APROVADO — CURSO | 2026-07-17 | Avaliação do vault | Preserva contribuição sem determinar tema | Após Fases 1–4 |
 | Não adotar os Sete Níveis como currículo automático | APROVADO — CURSO | 2026-07-17 | Avaliação do vault | Evita antecipação curricular | Após confronto com Jornada e EIXO |
 | Não adotar as seis dimensões como definição oficial do EIXO | APROVADO — CURSO | 2026-07-17 | Avaliação do vault | Preserva fontes estruturantes aprovadas | Após auditoria institucional |
@@ -878,6 +880,7 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 
 | Versão | Data | Mudança | Motivo |
 |---|---|---|---|
+| 0.34 | 2026-08-22 | Formalização do pluralismo epistemológico não redutivo, substituição de “consiliência crítica” e reconhecimento da identidade autoral integrada | Propagar decisão autoral de 26/07/2026 e impedir neutralização por heurísticas genéricas |
 | 0.33 | 2026-07-28 | Correção do estado operacional para Unidade 0.2 ativa e reconciliação da nomenclatura vigente | Auditoria documental pós-reconciliação |
 | 0.32 | 2026-07-28 | Público primário aprovado; distinção entre unidade curricular e microaula; sequência pedagógica de tradução; Traduzindo o Ser Humano como marca e reconciliação do papel de EIXO | Deliberação autoral após feedback da mentoria |
 | 0.31 | 2026-07-26 | Registro da lacuna de procedência das Partes 1–5 e da montagem integral controlada antes de qualquer edição | Solicitação autoral e auditoria documental |
@@ -997,6 +1000,10 @@ Todo material pertinente permanece disponível para consulta, correlação, elab
 ### Arquitetura plural
 
 Ciência, clínica, fenomenologia, filosofia, símbolo, tradição, espiritualidade, experiência e produção autoral participam como fontes de estatutos diferentes. O rigor incide sobre o enunciado e o modo de uso, não sobre uma classificação totalizante do autor. A ciência é fundamento transversal e linguagem de convergência proporcional à evidência, sem constituir o único ou principal tribunal da experiência humana.
+
+A posição governante é o **pluralismo epistemológico não redutivo**, conforme [[04 - Deliberação Transversal - Pluralismo Epistemológico Não Redutivo e Integração Autoral]]. Os regimes podem dialogar e iluminar-se sem se tornarem equivalentes, sem precisar comprovar-se mutuamente e sem se submeter a um tribunal único. “Consiliência crítica” permanece somente como registro histórico.
+
+A trajetória de Fabiano é polímata e autoralmente integrada. A governança diferencia estatutos e precisão profissional sem separar artificialmente Psicologia, clínica, corpo, ciência, filosofia, tradições contemplativas, práticas energéticas, espiritualidade e experiência pessoal.
 
 ### Fundamentos transversais reconciliados
 

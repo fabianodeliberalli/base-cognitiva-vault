@@ -524,13 +524,14 @@ Cada aula distingue:
 - **Recuperação:** literal/substancial.
 - **Função:** critério para níveis, linguagens, partes e campos de conhecimento.
 
-## F50 — Consiliência crítica
+## F50 — Pluralismo epistemológico não redutivo
 
-> A integração entre campos deve buscar correlações férteis sem apagar diferenças de objeto, método, linguagem, autoridade e limite.
+> Experiência vivida, clínica, ciência, filosofia, tradição, simbolismo, práticas corporais e energéticas e espiritualidade constituem regimes distintos de conhecimento e elaboração. Eles podem dialogar, iluminar-se e produzir traduções parciais sem se tornarem equivalentes, sem precisarem comprovar-se mutuamente e sem se submeterem a um tribunal epistemológico único.
 
-- **Estatuto:** B — fundamento epistemológico aprovado.
-- **Recuperação:** reconstruída a partir da nota Consiliência Crítica e Arquitetura Plural.
-- **Implicação:** ciência não é a única nem automaticamente a principal validação de todos os aspectos do vivido.
+- **Estatuto:** A — decisão autoral vigente, tomada em 26/07/2026 e formalizada em 22/08/2026.
+- **Formulação anterior:** “consiliência crítica”, superada como termo governante e preservada apenas no histórico.
+- **Referência:** [[04 - Deliberação Transversal - Pluralismo Epistemológico Não Redutivo e Integração Autoral]].
+- **Implicação:** traduzir não é reduzir; integrar não é fundir; diferenciar não é hierarquizar. A ciência não é a única nem automaticamente a principal validação de todos os aspectos do vivido.
 
 ## F51 — Arquitetura plural de validação
 
@@ -985,4 +986,3 @@ Esta deliberação autoral supera, quanto à vigência, as formulações anterio
 Em 28 de julho de 2026, Fabiano Deliberalli decidiu dar sequência ao pedido de registro de **Traduzindo** no INPI. Enquanto não houver concessão, o estado documental deve ser descrito como **pedido ou processo de registro em andamento**, nunca como marca já registrada.
 
 Ver [[04 - Deliberação Transversal - Público, Microaulas e Arquitetura de Marca - 2026-07-28]].
-

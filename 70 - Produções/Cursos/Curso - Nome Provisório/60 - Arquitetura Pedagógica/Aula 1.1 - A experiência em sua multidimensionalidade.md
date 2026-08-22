@@ -117,7 +117,7 @@ Ficam para aprofundamento posterior:
 - cartografia centro–campo–borda–sombra completa;
 - mandala como símbolo histórico de totalidade;
 - labirinto como metáfora do percurso recursivo;
-- consiliência e crítica ao reducionismo como conteúdo teórico explícito.
+- pluralismo epistemológico não redutivo e articulação crítica entre mapas como conteúdo teórico explícito.
 
 ## Materiais a produzir
 
@@ -162,7 +162,7 @@ Utilizar apenas para apresentar o campo multidimensional e a diferença entre or
 
 ### Contrato de pluralidade das linguagens
 
-![[90 - Anexos/Mapas Conceituais/Mapa Arquitetura Plural de Validacao - prototipo v2.svg]]
+![[90 - Anexos/Mapas Conceituais/Mapa Arquitetura Plural de Validacao - prototipo v3.svg]]
 
 Na Aula 1.1, apresentar a pergunta central — “de onde esta afirmação fala?” — sem aprofundar todos os domínios e estatutos.
 
