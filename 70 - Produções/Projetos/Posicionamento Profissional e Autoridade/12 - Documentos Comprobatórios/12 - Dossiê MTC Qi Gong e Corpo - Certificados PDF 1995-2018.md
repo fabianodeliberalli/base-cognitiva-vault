@@ -26,11 +26,13 @@ Esta nota reúne os documentos que explicam a origem corporal, oriental e integr
 - O diploma registra 1.440 horas totais, incluindo 162 horas de estágio.
 - p. 105: Técnicas de Alinhamento Postural, Reflexologia e Relaxamento, 60h, 1995.
 - p. 94: aperfeiçoamento em Reflexologia e Alinhamento da Coluna Vertebral, 60h, 1996.
-- p. 112, 115 e 117: documentos adicionais da EOMA/Shiozawa com títulos parcialmente legíveis; permanecem em inventário.
+- p. 112, 115 e 117: cursos adicionais EOMA de Drenagem Linfática, manipulação de clavícula/glenoumeral e manipulação da bacia.
+- PDF complementar, p. 8: **Shiozawa Prevenção em Saúde — Curso Intensivo de Shiatsu**, 100h, junho–dezembro de 1994; **estágio de 2.000h**, janeiro de 1995–julho de 1996; certificado emitido em 07/12/1996.
+- **Regra documental:** curso e estágio são categorias distintas. As 2.000h não integram as 100h do curso nem a formação EOMA de 1.440h.
 
 Formulação adequada:
 
-> Sua trajetória começou na formação corporal e nas práticas orientais, antes da graduação em Psicologia.
+> Sua trajetória começou na formação corporal e nas práticas orientais, antes da graduação em Psicologia. No Shiozawa, realizou Curso Intensivo de Shiatsu de 100 horas e estágio documentado de 2.000 horas entre 1995 e 1996.
 
 ## CEMETRAC e Pró-Salus Vitae
 
@@ -64,7 +66,7 @@ Formulação pública recomendada:
 
 Na comunicação breve, usar “formação internacional em Medicina Tradicional Chinesa”. No currículo ampliado, preservar a denominação literal.
 
-Consultar também [[18 - CEMETC - Venia Docente e Acupuntura Bioenergética 2014-2016]] e [[22 - Atualização Brainspotting Palas Athena CEMETC Yunnan e Auto-Hipnose 2025-2026]].
+Consultar também [[18 - CEMETC - Venia Docente e Acupuntura Bioenergética 2014-2016]], [[22 - Atualização Brainspotting Palas Athena CEMETC Yunnan e Auto-Hipnose 2025-2026]] e [[23 - Complemento Documental Shiozawa Bioenergologia e Formação Histórica 1982-2019]].
 
 ## Qi Gong, Tai Chi e respiração
 
@@ -115,6 +117,7 @@ O eixo corporal é mais amplo e documentado do que a síntese anterior. A audito
 
 - EOMA: diploma de Técnico em Reabilitação — modalidade Massagista, 1.440h, além de Reflexologia/Alinhamento da Coluna, Alinhamento Postural/Reflexologia/Relaxamento, Drenagem Linfática, Nós de Fitoterapia e cursos de manipulação de clavícula/glenoumeral e bacia;
 - Shiatsu Yasuragi/Japan Sotai Institute: Sotai/Reeducação Postural Integral, nível básico (p. 31);
+- Shiozawa Prevenção em Saúde: Curso Intensivo de Shiatsu de 100h, junho–dezembro de 1994, e estágio documentado de 2.000h, janeiro de 1995–julho de 1996 (PDF complementar, p. 8);
 - EOMA/Instituto Shioda: cursos intensivos de Chi Kung, Massagem Quiroprática e Seitai com Energização em 2017 e nível II em 2018 (p. 16 e 49);
 - Pró-Salus Vitalis: Auriculoterapia, 48h (p. 100) e Semiologia e Propedêutica da MTC, 143h (p. 110);
 - CEMETC: seminários de história clínica, semiologia, Ryodoraku, prática ambulatorial, dor, doenças cardiovasculares/dermatológicas, processos tumorais, ginecologia/obstetrícia, metabolismo e outros (p. 25, 27–28, 33, 36, 44, 53–54);
