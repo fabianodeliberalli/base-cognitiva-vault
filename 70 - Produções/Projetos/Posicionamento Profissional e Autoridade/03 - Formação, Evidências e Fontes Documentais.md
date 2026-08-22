@@ -24,10 +24,10 @@ Esta nota registra a natureza das fontes utilizadas no currículo. Ela não dele
 - **CONFIRMADO — FONTE DOCUMENTAL:** há diploma, certificado, registro ou documento disponível no acervo.
 - **CONFIRMADO — FONTES COMBINADAS:** informação autobiográfica apoiada por documentos totais ou parciais.
 - **FORMULAÇÃO PÚBLICA CANÔNICA:** redação aprovada para uso público; deriva das fontes, mas não é uma nova credencial.
-- **QUESTÃO DE PRECISÃO OU USO ESPECÍFICO:** falta apenas literalidade, data ou documento que poderá ser solicitado por terceiro em contexto determinado. Não invalida o dado biográfico.
+- **DETALHE NÃO INFORMADO:** algum campo literal não integra o registro atual; o dado biográfico confirmado permanece válido e o detalhe é simplesmente omitido.
 - **HISTÓRICO:** versão anterior preservada no Git, mas não vigente.
 
-> A ausência atual de um certificado físico não deve ser convertida automaticamente em “pendência” nem em bloqueio de publicação. Se uma universidade, conselho, contratante ou outra instituição exigir comprovação formal específica, Fabiano decidirá como atender àquela exigência.
+> Informações autobiográficas confirmadas por Fabiano integram a base curricular. Exigências documentais específicas de terceiros são tratadas somente no contexto em que surgirem e não criam pendências gerais no vault.
 
 # Matriz principal
 
@@ -37,7 +37,7 @@ Fonte organizadora obrigatória: [[22 - Matriz Curricular Detalhada - Eixos Data
 |---|---|---|---|
 | Psicólogo clínico e psicoterapeuta — CRP 06/98630 | CONFIRMADO — fontes combinadas | registro arquivado e confirmação atual de Fabiano de que o CRP está pago, ativo e regular | usar nos contextos profissionais pertinentes; não criar tarefa de emissão de certidão sem demanda externa concreta |
 | Graduação em Psicologia — Universidade São Marcos; conclusão em 04/02/2010; diploma expedido em 14/09/2010 | CONFIRMADO — fonte documental | [[12 - Documentos Comprobatórios/15 - Universidade São Marcos - Diploma de Psicologia 2010]] | formação acadêmica principal; consolidação da atuação profissional em Psicologia: 2010 |
-| Pós-graduação em Psicologia Transpessoal pela FACIS — Faculdade de Ciências da Saúde de São Paulo | CONFIRMADO — fontes combinadas e produção acadêmica arquivada | Formação concluída em 2010; TCC entregue; certificado emitido em 2011; monografia disponível; certificado físico atualmente inacessível | usar a denominação, a conclusão, o TCC e a emissão do certificado nas versões pertinentes |
+| Pós-graduação em Psicologia Transpessoal pela FACIS — Faculdade de Ciências da Saúde de São Paulo | CONFIRMADO — fontes combinadas e produção acadêmica arquivada | Formação concluída em 2010; TCC entregue; certificado emitido em 2011; monografia disponível | usar a denominação, a conclusão, o TCC e a emissão do certificado nas versões pertinentes |
 | Pós-graduação em Neurociências e Comportamento — PUCRS, 2026 | CONFIRMADO — fonte documental | [[12 - Documentos Comprobatórios/17 - PUCRS - Certificado Pós-Graduação Neurociências e Comportamento 2026]] | pode constar como especialização/pós-graduação concluída |
 | TCC PUCRS, nota 9,5 | CONFIRMADO — fonte documental | [[12 - Documentos Comprobatórios/16 - PUCRS - TCC Nota 9,5 e Parecer 2026]] | usar no currículo acadêmico e como base do artigo derivado |
 | Duas formações em Psicanálise Integrativa | CONFIRMADO — fontes combinadas | confirmação de Fabiano; certificado de uma formação; cursos e workshops da Transpsicanálise no vault | registrar uma formação na SBPI, com Maria de Fátima Mora, e outra no Instituto Brasileiro de Transpsicanálise, com André Keppe como professor principal |
@@ -48,13 +48,13 @@ Fonte organizadora obrigatória: [[22 - Matriz Curricular Detalhada - Eixos Data
 | Imersões com Mário Salvador em 2025 e 2026 | CONFIRMADO — fonte autobiográfica | informação direta de Fabiano | pode constar quando pertinente; datas detalhadas só quando necessárias |
 | EMDR | CONFIRMADO — fonte documental | auditoria do PDF, dossiê clínico e certificados correspondentes | usar “formação continuada em EMDR”; reservar “certificação vigente” para peça que realmente exija esse estatuto atual |
 | Brainspotting — Fases 1, 2 e 4 | CONFIRMADO — fonte documental | auditoria do PDF e certificados correspondentes | integrar ao percurso longitudinal de Brainspotting |
-| Brainspotting — Fase 3 | CONFIRMADO — fonte autobiográfica com certificado existente | confirmação direta de Fabiano; certificado físico ainda não digitalizado | pode constar como Fase 3 concluída sequencialmente entre as Fases 2 e 4; data e carga aguardam transcrição |
+| Brainspotting — Fase 3 | CONFIRMADO — fonte autobiográfica | confirmação direta de Fabiano | constar como Fase 3 concluída sequencialmente entre as Fases 2 e 4 |
 | Brainspotting — Fase 5 | CONFIRMADO — fonte documental | certificado ABBSP; 24h; 22–24/08/2025; David Grand | usar como treinamento avançado, completando publicamente as Fases 1 a 5 |
 | Meditação Bodyspotting | CONFIRMADO — fonte documental | certificado ABBSP; workshop on-line de 4h; 11/04/2026; Marília Toscano | atualização complementar; não classificar como fase de Brainspotting |
-| Palas Athena — três módulos de práticas meditativas | CONFIRMADO — fontes combinadas | módulos 2 e 3 documentados; módulo 1 confirmado por Fabiano, com certificado físico aguardando digitalização | usar como sequência completa de três módulos; preservar a diferença de fonte |
-| Três cursos on-line de auto-hipnose com Gilda Moura, 2020–2025 | CONFIRMADO — fonte autobiográfica e material histórico de curso | confirmação direta de Fabiano; outline do curso básico no vault | registrar em docência e em hipnose; datas, títulos e cargas por edição serão detalhados quando os ativos forem organizados |
+| Palas Athena — três módulos de práticas meditativas | CONFIRMADO — fontes combinadas | módulos 2 e 3 documentados; percurso integral confirmado por Fabiano | usar como sequência completa de três módulos |
+| Três cursos on-line de auto-hipnose com Gilda Moura, 2020–2025 | CONFIRMADO — fonte autobiográfica e material histórico de curso | confirmação direta de Fabiano; outline do curso básico no vault | registrar em docência e em hipnose; não criar campos não informados por edição |
 | Hipnose e Mirroring Hands | CONFIRMADO — fontes combinadas | certificados do PDF e currículos históricos | usar como formação clínica complementar |
-| Practitioner em PNL pela SBPNL, anterior ao Trivium | CONFIRMADO — fonte autobiográfica | confirmação direta de Fabiano; certificado físico não localizado | pode constar em currículo formal detalhado; não confundir com os cursos posteriores do Trivium |
+| Practitioner em PNL pela SBPNL, anterior ao Trivium | CONFIRMADO — fonte autobiográfica | confirmação direta de Fabiano | pode constar em currículo formal detalhado; não confundir com os cursos posteriores do Trivium |
 | Practitioner em PNL, 112h, e Master Practitioner, 80h, pelo Trivium, em 2001 | CONFIRMADO — fonte documental | auditoria do PDF, p. 99 e 101 | usar em currículo ampliado; na bio geral, sintetizar como “formação em PNL” |
 | Técnico em Reabilitação — Massagista, EOMA, 1995, 1.440h | CONFIRMADO — fonte documental | diploma frente e verso | genealogia corporal |
 | Acupuntura Tradicional Chinesa — CEMETRAC, 2002–2004, 1.200h | CONFIRMADO — fonte documental | certificado arquivado | currículo ampliado e trajetória corporal |
