@@ -53,8 +53,8 @@ Seus interesses atuais de estudo incluem neurofenomenologia, experiência incorp
 
 ## Formação clínica e psicoterapêutica
 
-- **Psicanálise Integrativa:** duas formações, incluindo uma realizada na SBPI, com Maria de Fátima Mora, e outra no Instituto Brasileiro de Transpsicanálise, com André Keppe como professor principal.
-- **EMDR:** formação continuada e integração do método ao repertório clínico de trauma e reprocessamento.
+- **Psicanálise Integrativa:** duas formações, incluindo uma realizada na SBPI/Psicanálise Integrativa Clínica Escola, com Maria de Fátima Mora, e outra no Instituto Brasileiro de Transpsicanálise, com André Keppe como professor principal. A primeira formação é documentada por certificado de 23/07/2002 e declaração curricular de 31/07/2002, com 294 horas.
+- **EMDR:** formação continuada e integração do método ao repertório clínico de trauma e reprocessamento, com treinamentos, supervisão e atualizações em estados do ego, trauma infantil, dissociação, apego e atenção precoce. Entre os registros estão dois cursos com Sandra Paulsen: processamento de trauma precoce e apego (7h, 2015) e EMDR e Estados do Ego (14h, 2019).
 - **Brainspotting:** formação continuada, com Fases 1 a 5 concluídas entre 2011 e 2025. A Fase 5 foi um treinamento avançado de 24 horas, ministrado por David Grand; a Fase 3 foi concluída na sequência formativa.
 - **Meditação Bodyspotting:** workshop complementar de 4 horas com Marília Toscano, realizado em 2026 e certificado pela ABBSP.
 - **Psicoterapia de Integração e Reprocessamento do Trauma — Instituto Aleces:** programa de 216 horas, realizado entre 2020 e 2023, com Mário Salvador e Carmen Cuenca.
@@ -69,7 +69,8 @@ O conjunto dessas formações sustenta uma prática interessada na relação ent
 
 Antes da graduação em Psicologia, Fabiano construiu uma experiência extensa com práticas corporais, reabilitação, massagem, Medicina Tradicional Chinesa, acupuntura, Qi Gong, respiração, movimento e terapias integrativas. Essa etapa não é um capítulo periférico de sua história: ela constitui a base incorporada a partir da qual passou a estudar escuta, sofrimento, consciência e mudança.
 
-- **Técnico em Reabilitação — modalidade Massagista — Escola Oriental de Massagem e Acupuntura (EOMA).** Diploma concluído em 1995, com 1.440 horas.
+- **Técnico em Reabilitação — modalidade Massagista — Escola Oriental de Massagem e Acupuntura (EOMA).** Diploma concluído em 1995, com 1.440 horas, incluindo 162 horas de estágio.
+- **Shiozawa Prevenção em Saúde.** Curso Intensivo de Shiatsu de 100 horas, realizado de junho a dezembro de 1994, e estágio documentado de 2.000 horas, realizado de janeiro de 1995 a julho de 1996. O curso e o estágio são registros distintos; a experiência prosseguiu em atendimento e estudos corporais no Shiozawa durante aproximadamente dez anos.
 - **Acupuntura Tradicional Chinesa — CEMETRAC.** Formação realizada entre 2002 e 2004, com carga horária total de 1.200 horas.
 - **Medicina Tradicional Chinesa:** estudos com Mestre Liu Chih Ming, Ernesto Garcia, pela Pró-Salus Vitae, e em outros programas de formação continuada.
 - **Máster Iberoamericano en Acupuntura Bioenergética y Moxibustión:** concluído e certificado em outubro de 2015 no âmbito institucional da Universidad de Medicina Tradicional China de Yunnan, do CEMETC e da Fundación Europea de Medicina Tradicional China.
@@ -77,7 +78,8 @@ Antes da graduação em Psicologia, Fabiano construiu uma experiência extensa c
 - **Venia Docente do CEMETC:** credencial institucional recebida em Valladolid, em 8 de novembro de 2014, para ministrar os programas de formação em Acupuntura Bioenergética estabelecidos pela instituição.
 - **Qi Gong, respiração e movimento:** formações em práticas de regulação, presença corporal, atenção e circulação do movimento, incluindo módulos de instrutor e práticas específicas.
 - **Associação Palas Athena:** sequência completa de três módulos de *Atenção e concentração nas práticas meditativas*; módulos 2 e 3 possuem datas documentadas em 2013 e o percurso integral é confirmado por Fabiano.
-- **Seitai, quiropraxia e práticas corporais orientais:** estudos e atuação cotidiana ao longo da trajetória no Shiozawa, durante aproximadamente dez anos.
+- **Seitai, quiropraxia e práticas corporais orientais:** estudos e atuação cotidiana ao longo da trajetória no Shiozawa, integrados à base corporal iniciada nos anos 1990.
+- **Bioenergologia e Bioenergopatia:** curso livre concluído em agosto de 2004, com nota final 9,0 e programa curricular detalhado, integrado à genealogia de estudos sobre consciência, percepção e práticas energéticas.
 - **Reiki e práticas energéticas:** cursos, práticas e formação de alunos em período anterior à docência em Psicologia.
 
 Esse percurso sustenta sua capacidade de compreender a experiência de modo incorporado e de conduzir práticas educativas e corporais informadas por tradições específicas, especialmente quando o tema exige diálogo entre corpo, atenção, respiração, movimento e significado.
@@ -153,7 +155,7 @@ Seu trabalho articula corpo, trauma, consciência e espiritualidade para compree
 
 Este documento é a versão pública ampliada consolidada do percurso profissional de Fabiano Deliberalli. A partir dele podem ser derivadas versões específicas para clínica, CEEP, academia, mídia, palestras, site e produtos digitais, preservando a mesma identidade profissional e ajustando apenas a ênfase, a extensão e o vocabulário ao contexto.
 
-Para consultas documentais, fontes e governança curricular, ver no vault as notas [[03 - Formação, Evidências e Fontes Documentais]], [[10 - Pendências, Comprovações e Governança]], [[12 - Documentos Comprobatórios/00 - Índice de Diplomas e Certificados|Índice de Diplomas e Certificados]] e [[15 - Currículo Profissional Consolidado 2026]].
+Para consultas documentais, fontes e governança curricular, ver no vault as notas [[03 - Formação, Evidências e Fontes Documentais]], [[10 - Pendências, Comprovações e Governança]], [[12 - Documentos Comprobatórios/00 - Índice de Diplomas e Certificados|Índice de Diplomas e Certificados]], [[12 - Documentos Comprobatórios/23 - Complemento Documental Shiozawa Bioenergologia e Formação Histórica 1982-2019]] e [[15 - Currículo Profissional Consolidado 2026]].
 
 
 ## Matriz detalhada de consulta
