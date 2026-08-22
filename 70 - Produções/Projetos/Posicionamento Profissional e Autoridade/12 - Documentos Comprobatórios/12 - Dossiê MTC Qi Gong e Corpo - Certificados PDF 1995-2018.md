@@ -50,9 +50,21 @@ Formulação adequada:
 - p. 74: segundo nível, realizado em 19–20/03/2016.
 - Os próprios documentos qualificam a formação como privada e não regulada academicamente. Isso é uma informação de governança interna; na comunicação pública basta usar a denominação correta e não apresentar o programa como mestrado acadêmico brasileiro ou título universitário.
 
+## Conclusão CEMETC–Yunnan incorporada posteriormente
+
+- **Título conclusivo:** *Máster Iberoamericano en Acupuntura Bioenergética y Moxibustión*.
+- **Data:** outubro de 2015.
+- **Âmbito institucional indicado no certificado:** Universidad de Medicina Tradicional China de Yunnan, CEMETC e Fundación Europea de Medicina Tradicional China.
+- **Carga do certificado conclusivo:** não explicitada; os certificados gerais do percurso registram 360h/14,4 ECTS, e módulos específicos possuem cargas próprias.
+- **Fonte complementar:** `CEMETC YUNAN.pdf`, incorporado ao lote documental de 21/08/2026.
+
 Formulação pública recomendada:
 
-> Formação continuada internacional em Acupuntura Bioenergética e Moxibustão pelo CEMETC, com módulos documentados e autorização docente do CEMETC para programas específicos de formação em Acupuntura Bioenergética.
+> Concluiu o *Máster Iberoamericano en Acupuntura Bioenergética y Moxibustión*, certificado em outubro de 2015 no âmbito institucional da Universidad de Medicina Tradicional China de Yunnan, do CEMETC e da Fundación Europea de Medicina Tradicional China. Em 2014, recebeu do CEMETC a credencial institucional *Venia Docente* para ministrar seus programas de formação em Acupuntura Bioenergética.
+
+Na comunicação breve, usar “formação internacional em Medicina Tradicional Chinesa”. No currículo ampliado, preservar a denominação literal.
+
+Consultar também [[18 - CEMETC - Venia Docente e Acupuntura Bioenergética 2014-2016]] e [[22 - Atualização Brainspotting Palas Athena CEMETC Yunnan e Auto-Hipnose 2025-2026]].
 
 ## Qi Gong, Tai Chi e respiração
 
