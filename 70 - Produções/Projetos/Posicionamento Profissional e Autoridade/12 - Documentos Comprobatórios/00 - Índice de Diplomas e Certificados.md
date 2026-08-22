@@ -88,7 +88,7 @@ O arquivo integral de certificados e diplomas permanece na Biblioteca e/ou no ac
 ## Trauma e psicoterapia
 
 - EMDR: treinamento básico e cursos clínicos, p. 19–24, 30, 32, 38, 52, 57, 59, 62, 65–66, 71 e 82.
-- Brainspotting: Fases 1 a 5 concluídas. Fases 1, 2 e 4 constam do PDF auditado; Fase 3 confirmada pelo autor e com certificado físico aguardando digitalização; Fase 5 documentada em certificado ABBSP de 24h, 22–24/08/2025, com David Grand.
+- Brainspotting: Fases 1 a 5 concluídas. Fases 1, 2 e 4 constam do PDF auditado; Fase 3 é confirmada diretamente por Fabiano; Fase 5 está documentada em certificado ABBSP de 24h, 22–24/08/2025, com David Grand.
 - Meditação Bodyspotting: workshop complementar de 4h, 11/04/2026, com Marília Toscano, certificado pela ABBSP.
 - Psicoterapia Integradora e Reprocessamento do Trauma com Mário Salvador, p. 4, 17 e 35.
 - Neurobiologia Interpessoal, p. 59, complementada pelo certificado com Daniel Siegel arquivado na nota 08.
@@ -99,7 +99,7 @@ O arquivo integral de certificados e diplomas permanece na Biblioteca e/ou no ac
 - Psicanálise Integrativa, p. 104.
 - Transpsicanálise e cursos de neurociência/biologia mental, p. 102–103 e 106.
 - PNL: Practitioner e Master Practitioner pelo Trivium, p. 99 e 101; Practitioner anterior na SBPNL confirmado por Fabiano como formação distinta.
-- Associação Palas Athena: sequência completa de três módulos de *Atenção e concentração nas práticas meditativas*; módulos 2 e 3 digitalizados, módulo 1 com certificado aguardando escaneamento.
+- Associação Palas Athena: sequência completa de três módulos de *Atenção e concentração nas práticas meditativas*; módulos 2 e 3 possuem datas documentadas e o percurso integral é confirmado diretamente por Fabiano.
 - Constelações, meditação, radiestesia, Reiki e outros repertórios históricos, páginas listadas na auditoria.
 
 ## Docência e instituição
@@ -107,14 +107,14 @@ O arquivo integral de certificados e diplomas permanece na Biblioteca e/ou no ac
 - Aula convidada na Faculdade de Psicologia da PUC-SP, p. 8, 01/10/2002.
 - Licença sanitária histórica do Centralma/Bioquantum, p. 83, 2019.
 - ABBSP, IGM, Gilda Moura, Além das Fronteiras do Saber e CEEP: documentos e registros organizados em notas do projeto.
-- Três cursos on-line de auto-hipnose ministrados com Gilda Moura entre 2020 e 2025: confirmação direta do autor e material histórico de curso no vault; detalhamento por edição a completar quando os ativos forem organizados.
+- Três cursos on-line de auto-hipnose ministrados com Gilda Moura entre 2020 e 2025: confirmação direta do autor e material histórico de curso no vault.
 
 # Estados de comprovação
 
 - **Documentado:** o documento foi disponibilizado e os dados centrais estão legíveis.
-- **Documentado em parte:** há documento contextual ou módulo, mas falta diploma, conclusão integral ou denominação completa.
+- **Registro parcial da fonte:** o arquivo contém apenas parte de um conjunto ou informação; isso descreve o arquivo, não a validade biográfica.
 - **Confirmado por fonte autobiográfica:** informação fornecida ou corrigida pelo autor; válida para currículo e comunicação pública.
-- **Questão documental específica:** falta apenas literalidade, legibilidade ou documento que poderá ser exigido em contexto concreto; não invalida a informação autobiográfica.
+- **Detalhe não legível:** o detalhe não é utilizado na comunicação; não constitui pendência curricular.
 - **Histórico:** registro relevante para a trajetória, mas não deve ser lido como qualificação atual.
 - **Uso contextual:** só deve aparecer quando a finalidade da peça torna a formação pertinente.
 
@@ -170,3 +170,7 @@ Este índice descreve documentos disponíveis; não delimita sozinho a biografia
 ## Atualização integrada — Brainspotting, Palas Athena, CEMETC–Yunnan e auto-hipnose
 
 - [[22 - Atualização Brainspotting Palas Athena CEMETC Yunnan e Auto-Hipnose 2025-2026]] — consolida Fases 1–5 de Brainspotting, sequência completa de três módulos na Palas Athena, certificado conclusivo CEMETC–Yunnan, Bodyspotting e docência em três cursos de auto-hipnose.
+
+## Reconciliação curricular encerrada — 21/08/2026
+
+- [[23 - Registro de Reconciliação Curricular e Continuidade 2026]] — registra a atualização transversal e confirma a inexistência de pendências curriculares abertas.
