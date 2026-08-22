@@ -53,10 +53,10 @@ Essa pergunta se desenvolve em cinco movimentos:
 
 - Duas formações em Psicanálise Integrativa: uma na SBPI, com Maria de Fátima Mora, e outra no Instituto Brasileiro de Transpsicanálise, tendo André Keppe como professor principal. A realização das duas formações é confirmada pelo autor; o vault contém certificado de uma formação e registros complementares de cursos e workshops da Transpsicanálise.
 - Formação e prática histórica em psicoterapia breve e referenciais winnicottianos.
-- Formação continuada em EMDR e Brainspotting desde aproximadamente 2010. Em Brainspotting, concluiu as Fases 1 a 5 entre 2011 e 2025; a Fase 3 foi realizada sequencialmente entre as Fases 2 e 4 e possui certificado ainda não digitalizado; a Fase 5 foi um treinamento avançado de 24 horas com David Grand, em agosto de 2025.
+- Formação continuada em EMDR e Brainspotting desde aproximadamente 2010. Em Brainspotting, concluiu as Fases 1 a 5 entre 2011 e 2025; a Fase 3 foi realizada sequencialmente entre as Fases 2 e 4 e a Fase 5 foi um treinamento avançado de 24 horas com David Grand, em agosto de 2025.
 - Formação em Psicoterapia de Integração e Reprocessamento do Trauma pelo Instituto ALECES, com Mário Salvador e Carmen Cuenca, realizada entre 2020 e 2023.
 - Supervisões mensais em grupo com Mário Salvador, em continuidade em 2026.
-- Estudo anterior presencial com Mário Salvador em Brasília, provavelmente em 2018 — data a confirmar.
+- Formação presencial com Mário Salvador em Brasília documentada em 2018, seguida de atividade formativa documentada em 2019.
 - Imersões presenciais de três dias com atendimentos e supervisões em 2025 e 2026.
 - Formação continuada em hipnose clínica e terapêutica, com estudos junto a Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sophia Bauer; registros documentais de Mirroring Hands (2019), Professional & Clinical Hypnosis B1–B3 (2021), B4–B8 (2022) e Hypnotic Mastery Bootcamp (2022), além de acesso pago confirmado ao curso on-line de Sophia Bauer entre agosto de 2023 e fevereiro de 2024.
 
@@ -82,7 +82,7 @@ Essa pergunta se desenvolve em cinco movimentos:
 - Practitioner em Programação Neurolinguística realizado na SBPNL antes da formação no Trivium, conforme confirmação do autor.
 - Practitioner de 112 horas e Master Practitioner de 80 horas em PNL pelo Trivium, ambos documentados em 2001.
 - Formação em Constelação Familiar com Gabriel de Velasco Valenzuela Vázquez, vinculada à Universidad Sistémica de Iberoamérica/Centro Constela Internacional, conforme currículo histórico.
-- Sequência completa de três módulos de *Atenção e concentração nas práticas meditativas* pela Associação Palas Athena; módulos 2 e 3 documentados em 2013 e módulo 1 com certificado aguardando digitalização.
+- Sequência completa de três módulos de *Atenção e concentração nas práticas meditativas* pela Associação Palas Athena; módulos 2 e 3 possuem datas documentadas em 2013 e o percurso integral é confirmado por Fabiano.
 - Estudos em Biopsicologia, Bioenergética/Core Energetics, práticas meditativas, estados ampliados de consciência e outros repertórios integrativos.
 
 # Experiência profissional
