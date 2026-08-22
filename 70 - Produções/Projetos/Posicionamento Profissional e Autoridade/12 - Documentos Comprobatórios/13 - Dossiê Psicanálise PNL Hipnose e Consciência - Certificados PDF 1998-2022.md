@@ -21,10 +21,11 @@ Esta nota registra o eixo histórico de escuta, linguagem, hipnose e investigaç
 # Psicanálise e Transpsicanálise
 
 - p. 104: certificado de conclusão do curso livre de formação em Psicanálise Integrativa, São Paulo, 23/07/2002.
+- PDF complementar, p. 7: declaração curricular da mesma primeira Formação em Psicanálise Integrativa, emitida em 31/07/2002, com 294h. Certificado e declaração são complementares e não representam duas formações.
 - p. 102: workshop Neurociência das Funções Mentais, 12h, 02/09/2002.
 - p. 103: curso Bases Bioquímicas dos Transtornos Mentais, 36h, 16/09–16/12/2002.
 - p. 106: certificado do Instituto Brasileiro de Transpsicanálise, com denominação e data parcialmente legíveis.
-- Fabiano confirma duas formações em Psicanálise Integrativa e o início de estágios e atendimentos psicoterapêuticos desde a primeira formação: uma na SBPI, com Maria de Fátima Mora, e outra no Instituto Brasileiro de Transpsicanálise, com André Keppe como professor principal. O PDF comprova uma conclusão específica e contém registros complementares da Transpsicanálise; ambas as formações integram o currículo.
+- Fabiano confirma duas formações em Psicanálise Integrativa e o início de estágios e atendimentos psicoterapêuticos desde a primeira formação: uma na SBPI/Psicanálise Integrativa Clínica Escola, com Maria de Fátima Mora, e outra no Instituto Brasileiro de Transpsicanálise, com André Keppe como professor principal. A primeira é documentada por certificado de 23/07/2002 e declaração curricular de 31/07/2002, com 294h; a segunda e os professores são confirmados pelo autor, com registros complementares da Transpsicanálise.
 
 Formulação pública adequada:
 
@@ -68,6 +69,9 @@ Evitar a expressão “hipnoterapeuta” como identidade isolada se o objetivo d
 - p. 6–7, 37, 40–43, 47–48, 50 e 68: estudos em Constelações Sistêmicas/Familiares, com títulos parcialmente legíveis.
 - p. 86, 88, 113–116: cursos e iniciações em repertórios espirituais e energéticos.
 - p. 45 e p. 98: Radiestesia, com o certificado de 1998 especificando curso básico de 15h.
+- p. 109 e PDF complementar, p. 4–6: **Curso de Bioenergologia com Formação em Bioenergopatia**, Instituto Medeiros de Ensino Livre e Pesquisas em Ciências Avançadas, concluído em agosto de 2004, nota final 9,0; declaração emitida em 29/11/2004. O programa registra 114 unidades-aula, sem equivalência horária total declarada; os títulos institucionais internos são “Pesquisador Bioenergólogo” e “Terapeuta Bioenergopata”.
+- PDF complementar, p. 10: Reiki Master, São Paulo, 30/09/2000.
+- PDF complementar, p. 9, 11 e 12: Leader Training e certificados históricos de Aikido e Wado-Ryu Karatê-Dô, preservados como genealogia de desenvolvimento e movimento.
 
 Esses documentos pertencem à história de exploração intelectual e experiencial. Não devem ser apresentados como equivalentes a formação acadêmica, formação psicológica ou evidência de eficácia clínica.
 
@@ -140,6 +144,10 @@ Formulação pública recomendada:
 # Palas Athena — sequência meditativa
 
 Fabiano concluiu os três módulos de *Atenção e concentração nas práticas meditativas* pela Associação Palas Athena. Os módulos 2 e 3 possuem datas documentadas de 18–20/10/2013 e 29/11–01/12/2013; o percurso integral é confirmado diretamente por Fabiano.
+
+# Complemento documental reconciliado
+
+Consultar [[23 - Complemento Documental Shiozawa Bioenergologia e Formação Histórica 1982-2019]] para a leitura página a página do lote adicional. Os títulos internos da Bioenergologia permanecem na literalidade do dossiê; em versões públicas gerais, usa-se o nome do curso.
 
 # Fonte curricular vigente
 
