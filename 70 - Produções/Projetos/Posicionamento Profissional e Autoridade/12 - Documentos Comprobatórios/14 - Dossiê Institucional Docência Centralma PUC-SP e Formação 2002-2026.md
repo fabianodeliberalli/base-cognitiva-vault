@@ -59,14 +59,33 @@ A docência aparece em vários momentos:
 3. aula convidada na PUC-SP em 2002;
 4. organização de cursos e acolhimento de professores no Centralma;
 5. assistência a Gilda Moura em turma presencial em 2018/2019;
-6. cinco edições de Além das Fronteiras do Saber a partir de 2020;
-7. ABBSP em 2026;
-8. IGM em 2026;
-9. CEEP e projetos autorais atuais.
+6. três cursos on-line de auto-hipnose ministrados em parceria com Gilda Moura entre 2020 e 2025;
+7. cinco edições de *Além das Fronteiras do Saber* a partir de 2020;
+8. *Venia Docente* recebida do CEMETC em 2014 como marco histórico de docência em Acupuntura Bioenergética;
+9. ABBSP em 2026;
+10. IGM em 2026;
+11. CEEP e projetos autorais atuais.
 
 A formulação agregadora mais forte é:
 
 > Professor e palestrante em cursos livres, práticas corporais, educação continuada e projetos de estudo, com experiência de ensino que antecede a docência online recente.
+
+# Docência digital em auto-hipnose
+
+Fabiano ministrou, em parceria com Gilda Moura, **três cursos on-line de auto-hipnose entre 2020 e 2025**.
+
+Este registro é distinto das cinco edições de *Além das Fronteiras do Saber*. Seu valor curricular está em demonstrar:
+
+- experiência pedagógica digital repetida;
+- colaboração docente;
+- capacidade de traduzir hipnose, atenção, linguagem e autorregulação em formato educacional;
+- continuidade entre o repertório clínico, a docência e os atuais produtos digitais.
+
+Formulação pública:
+
+> Ministrou, em parceria com Gilda Moura, três cursos on-line de auto-hipnose entre 2020 e 2025.
+
+Títulos, datas e cargas de cada edição serão transcritos quando os ativos correspondentes forem organizados. A ausência dessa granularidade não transforma a atividade confirmada em pendência.
 
 # Relação com a autoridade atual
 
