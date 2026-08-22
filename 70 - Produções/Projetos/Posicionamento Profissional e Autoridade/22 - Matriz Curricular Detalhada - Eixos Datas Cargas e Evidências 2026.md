@@ -115,7 +115,7 @@ Cargas horárias de módulos, duplicatas e níveis que pertencem à mesma forma�
 - **Certificado:** emitido em 2011.
 - **Orientadora:** Profª Drª Márcia Tabone.
 - **Título da monografia:** *O normal e o patológico nas vivências espirituais: explorações psicanalíticas e transpessoais*.
-- **Documentação:** monografia e folha de identificação institucional arquivadas; certificado físico atualmente não disponível.
+- **Documentação:** monografia e folha de identificação institucional arquivadas; conclusão e emissão do certificado confirmadas diretamente por Fabiano.
 - **Função curricular:** formação concluída que articula Psicologia, Psicanálise, espiritualidade, normalidade, patologia e perspectivas transpessoais.
 
 **Formulação obrigatória para versões públicas:**
@@ -191,11 +191,11 @@ Há certificados históricos de terapeuta certificado EMDR com validade impressa
 
 - **Fases 1 e 2:** 14h + 14h, São Paulo, 03/04/2011.
 - **Fases 1 e 2:** treinamento realizado em 10, 11, 12, 14 e 15/08/2017.
-- **Fase 3:** concluída sequencialmente após a Fase 2 e antes da Fase 4. Fabiano informa possuir o certificado; digitalização, data literal e carga horária aguardam incorporação ao vault.
+- **Fase 3:** concluída sequencialmente após a Fase 2 e antes da Fase 4, conforme confirmação direta de Fabiano.
 - **Fase 4:** 18h, São Paulo, 02–04/08/2019.
 - **Fase 5 — treinamento avançado:** 24h, on-line ao vivo, 22–24/08/2025, ministrado por David Grand e certificado pela Associação Brasileira de Brainspotting — ABBSP.
 - **Vivência em Meditação Bodyspotting:** workshop on-line de 4h, ministrado por Marília Toscano em 11/04/2026, com participação integral certificada pela ABBSP. É atualização complementar, não uma fase adicional.
-- **Situação:** formação continuada longitudinal, com Fases 1, 2, 3, 4 e 5 concluídas entre 2011 e 2025. A Fase 3 está confirmada pelo autor e possui certificado ainda não digitalizado; as demais fases possuem registros documentais no acervo.
+- **Situação:** formação continuada longitudinal, com Fases 1, 2, 3, 4 e 5 concluídas entre 2011 e 2025; a Fase 3 é confirmada diretamente por Fabiano e as demais fases possuem registros documentais no acervo.
 - **Uso:** pode constar como “formação continuada em Brainspotting, com Fases 1 a 5 concluídas”; reservar a expressão “certificação vigente” para contextos que exijam esse estatuto específico.
 
 ## 3. Psicoterapia de Integração e Reprocessamento do Trauma
@@ -336,7 +336,7 @@ Há certificados históricos de terapeuta certificado EMDR com validade impressa
 - **Liu Zi Jue/Seis Sons de Cura:** 23–24/08/2014, com Miguel Martín Vizán. O certificado informa expressamente que não confere título de instrutor/professor da ABQS ou CHQA.
 - **Tai Chi Qigong Instructor Training Course:** nível I, janeiro de 2016.
 - **Sistema Energético Humano:** 48h em módulos, concluído em 07/12/2014.
-- **Health Qigong:** certificados técnicos adicionais, com denominação integral parcialmente pendente.
+- **Health Qigong:** certificados técnicos adicionais; denominações não legíveis não são utilizadas.
 - **Função curricular:** base incorporada para práticas educativas de respiração, atenção, movimento e presença.
 
 ## 8. Estudos com professores e escolas de MTC
@@ -371,7 +371,7 @@ A expressão “Hipnose clínica e terapêutica” deve aparecer no currículo d
 
 ## 2. Programação Neurolinguística
 
-- **SBPNL:** formação anterior de Practitioner, confirmada autobiograficamente por Fabiano; data e certificado individual não localizados.
+- **SBPNL:** formação anterior de Practitioner, confirmada autobiograficamente por Fabiano.
 - **Trivium — Practitioner em PNL:** 112h, São Paulo, junho–dezembro de 2001.
 - **Trivium — Master Practitioner em PNL:** 80h, São Paulo, março–maio de 2001.
 - **Função curricular:** estudos históricos sobre comunicação, linguagem, percepção de padrões e processos de mudança.
@@ -406,10 +406,10 @@ Este eixo registra uma formação sistêmica extensa, sequencial e relevante par
 ## Meditação e atenção
 
 - **Associação Palas Athena — Atenção e concentração nas práticas meditativas:** sequência completa de três módulos concluída.
-- **Módulo 1:** concluído; Fabiano possui o certificado, cuja digitalização ainda não foi incorporada ao vault. Data literal e carga horária aguardam leitura do documento.
+- **Módulo 1:** concluído, conforme confirmação direta de Fabiano.
 - **Módulo 2:** 18–20/10/2013, certificado digitalizado.
 - **Módulo 3:** 29/11–01/12/2013, certificado digitalizado.
-- **Situação:** percurso completo confirmado pelo autor; módulos 2 e 3 documentalmente registrados e módulo 1 com certificado físico pendente de escaneamento.
+- **Situação:** percurso completo confirmado pelo autor; módulos 2 e 3 possuem datas documentadas e o módulo 1 é confirmado diretamente por Fabiano.
 - **Uso:** pode constar como “sequência de três módulos de atenção e concentração nas práticas meditativas pela Associação Palas Athena”.
 
 ## Reiki e linhagens energéticas
@@ -467,7 +467,7 @@ Este eixo registra uma formação sistêmica extensa, sequencial e relevante par
 
 - Professor assistente de Gilda Moura em turma presencial realizada no Centralma, em 2018/2019.
 - Curso e colaboração em temas de hipnose, regressão de memória, experiências anômalas e estados de consciência.
-- Ministrou, em parceria com Gilda Moura, três cursos on-line de auto-hipnose entre 2020 e 2025. O vault contém material histórico do curso básico; títulos, datas e cargas de cada edição serão transcritos quando os ativos correspondentes forem organizados.
+- Ministrou, em parceria com Gilda Moura, três cursos on-line de auto-hipnose entre 2020 e 2025. O vault contém material histórico do curso básico; detalhes não informados por edição são omitidos, sem constituir pendência.
 - Participação posterior no projeto on-line *Além das Fronteiras do Saber*.
 - Participação no encontro de experienciadores do IGM, em agosto de 2026, com palestra em conjunto com Daiana Leite.
 
@@ -564,7 +564,7 @@ Não somar:
 - **Confirmado por fonte autobiográfica:** informação declarada diretamente por Fabiano.
 - **Fontes combinadas:** informação autobiográfica apoiada por documentos totais ou parciais.
 - **Histórico:** marco real da trajetória cuja vigência administrativa não deve ser presumida.
-- **Pendente de precisão:** não publicar detalhes sem nova cópia ou conferência.
+- **Detalhe não legível:** não publicar o campo nem completá-lo por inferência; isso não constitui pendência curricular.
 - **Duplicata/complemento:** documento útil para confirmar outro, sem constituir nova formação.
 
 # Pontos que não devem voltar a ser omitidos
