@@ -6,7 +6,7 @@ status: vigente
 versao: "1.0"
 atualizado_em: 2026-08-04
 autor: Fabiano Deliberalli
-autoridade_da_versao_vigente: aprovação de Camila registrada pelo usuário
+autoridade_da_versao_vigente: Fabiano Deliberalli
 tags:
   - traduzindo-o-ser-humano
   - raio-x
@@ -19,7 +19,7 @@ tags:
 
 ## Estado vigente
 
-O arquivo abaixo é a versão válida escolhida por Fabiano e aprovada pela Camila para levar ao encontro de mentoria:
+O arquivo abaixo é a versão válida escolhida e aprovada por Fabiano para levar ao encontro de mentoria. Camila emitiu parecer favorável sobre seu uso naquele encontro, sem assumir autoridade autoral sobre o projeto:
 
 - **Arquivo vigente:** [[Vigente/Raio-X-Fabiano Deliberalli]]
 - **Nome original recebido:** Raio-X-Fabiano Deliberalli.docx
