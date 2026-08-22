@@ -27,6 +27,8 @@ Esta nota reúne os documentos do PDF certificados e diplomas.pdf que sustentam 
 - p. 30: manejo teórico-prático clínico, 20h presenciais + créditos, 03/02/2013.
 - p. 32: teoria e psicoterapia dos estados do ego, 18h presenciais + créditos, 12/08/2012.
 - p. 52: protocolos de EMDR para atenção precoce e estresse traumático continuado, 14h, 16/02/2019.
+- PDF complementar, p. 1: **EMDR e Estados do Ego**, 14h, com Sandra Paulsen, São Paulo, 04–05/04/2019.
+- PDF complementar, p. 3: **Quando não há Palavras: Introdução ao Processamento de Trauma Precoce e Apego**, 7h, com Sandra Paulsen, III Congresso Brasileiro de EMDR, São Paulo, 02/11/2015.
 - p. 59: atualizações em Neurobiologia Interpessoal, 16h presenciais + créditos, 10/11/2013.
 - p. 62: transmissão transgeracional de trauma, 16h, 18–19/03/2016.
 - p. 65: Neuroendocrinologia do Trauma, 14h.
@@ -104,6 +106,7 @@ Os certificados históricos de terapeuta certificado EMDR das páginas 71 e 82 p
 # Documentos complementares acrescentados em 21/08/2026
 
 - [[20 - Novos Registros Documentais - ALECES e Deb Dana 2023]].
+- [[23 - Complemento Documental Shiozawa Bioenergologia e Formação Histórica 1982-2019]] — acrescenta os dois registros de Sandra Paulsen e integra-os ao eixo EMDR/trauma.
 - O certificado Aleces de 216h documenta o programa completo de 2020-2023.
 - O certificado de Nível II, 90h, documenta uma etapa do mesmo programa.
 - O certificado Deb Dana corrige o registro anterior de “2024, certificado perdido” para setembro de 2023, com 12h.
