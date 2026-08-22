@@ -82,12 +82,13 @@ A leitura estratégica é: a autoridade não vem de mencionar todos os certifica
 | 72, 74, 76, 78 e 80 | CEMETC | Níveis e formação em Acupuntura Bioenergética e Moxibustão | Trajetória MTC; conservar a denominação documental |
 | 83 | Licença sanitária | Funcionamento histórico da Clínica de Psicologia Centralma EIRELI/Núcleo de Terapias Bioquantum em 2019; Fabiano como responsável legal/técnico no documento | Currículo institucional histórico; a continuidade atual da Centralma como empresa operante e eixo da clínica on-line é confirmada por Fabiano |
 | 84–90 | Hipnose e Mirroring Hands | Formação clínica e workshops entre 2019 e 2022 | Currículo clínico ampliado e palestras pertinentes |
-| 94, 97, 105 | EOMA e Shiozawa | Formação técnica e cursos corporais dos anos 1990 | Linha de origem da trajetória |
+| 94, 97, 105 | EOMA | Formação técnica e cursos corporais dos anos 1990 | Linha de origem da trajetória |
+| PDF complementar, p. 8 | Shiozawa Prevenção em Saúde | Curso Intensivo de Shiatsu, 100h, jun.–dez./1994; estágio de 2.000h, jan./1995–jul./1996 | Registro corporal estruturante; curso e estágio separados |
 | 99 e 101 | PNL | Master Practitioner, 80h, 2001, e Practitioner, 112h, 2001, pelo Trivium | Currículo ampliado: “formação em PNL”; Practitioner anterior na SBPNL é informação autobiográfica distinta confirmada por Fabiano |
 | 100 e 110 | Pró-Salus Vitae | Auriculoterapia, 48h, e Semiologia/Propedêutica da MTC, 143h | Trajetória MTC ampliada |
-| 104 | Psicanálise Integrativa | Conclusão de curso livre de formação em Psicanálise Integrativa, 23/07/2002 | Currículo ampliado; sustenta a origem psicanalítica da psicoterapia |
+| 104 + PDF complementar, p. 7 | Psicanálise Integrativa | Certificado de 23/07/2002 e declaração curricular de 31/07/2002, 294h, referentes à mesma formação | Currículo ampliado; sustenta a origem psicanalítica da psicoterapia |
 | 102–103 | Transpsicanálise | Neurociência das Funções Mentais, 12h, e Bases Bioquímicas dos Transtornos Mentais, 36h, em 2002 | Formação histórica complementar; não apresentar como pós-graduação |
-| 109 | Bioenergologia | Declaração histórica de curso e título interno da instituição | Arquivo interno; não usar o título institucional como identidade profissional atual |
+| 109 + PDF complementar, p. 4–6 | Bioenergologia/Bioenergopatia | Curso concluído em agosto de 2004, nota 9,0; programa de 114 unidades-aula; títulos internos “Pesquisador Bioenergólogo” e “Terapeuta Bioenergopata” | Arquivo interno e currículo ampliado; usar o nome do curso, não os títulos internos como identidade profissional |
 
 # Inventário por eixo
 
@@ -96,7 +97,7 @@ A leitura estratégica é: a autoridade não vem de mencionar todos os certifica
 - p. 1: pós-graduação PUCRS documentada.
 - p. 70: ata de defesa do trabalho final da Universidade São Marcos.
 - p. 102–103: cursos de Transpsicanálise sobre neurociência das funções mentais e bases bioquímicas dos transtornos mentais.
-- p. 104: conclusão de formação em Psicanálise Integrativa.
+- p. 104: conclusão de formação em Psicanálise Integrativa; o PDF complementar acrescenta a declaração curricular de 294h, emitida em 31/07/2002, relativa à mesma formação.
 - p. 106: certificado de curso do Instituto Brasileiro de Transpsicanálise, título e data exigem leitura complementar.
 - A graduação em Psicologia está documentada pelo diploma da Universidade São Marcos. A pós-graduação em Psicologia Transpessoal pela FACIS foi concluída em 2010, com TCC entregue e certificado emitido em 2011, conforme confirmação de Fabiano.
 
@@ -127,7 +128,8 @@ A leitura estratégica é: a autoridade não vem de mencionar todos os certifica
 - p. 45: Radiestesia, 90h.
 - p. 60: formação de instrutor em Tai Chi Qi Gong.
 - p. 81: Sistema Energético Humano, 48h.
-- p. 94, 97, 105, 112, 115 e 117: formação e aperfeiçoamentos EOMA/Shiozawa; algumas denominações exigem leitura complementar.
+- p. 94, 97, 105, 112, 115 e 117: formação e aperfeiçoamentos EOMA.
+- PDF complementar, p. 8: Curso Intensivo de Shiatsu de 100h e estágio de 2.000h no Shiozawa, com períodos e naturezas documentais separados.
 - p. 100 e 110: formação Pró-Salus Vitae.
 
 Formulação pública recomendada:
@@ -214,6 +216,10 @@ A auditoria acima permanece fiel às 117 páginas do arquivo `certificados e dip
 - docência: três cursos on-line de auto-hipnose com Gilda Moura entre 2020 e 2025.
 
 Fonte de reconciliação: [[22 - Atualização Brainspotting Palas Athena CEMETC Yunnan e Auto-Hipnose 2025-2026]].
+
+# Reconciliação com o PDF complementar de 12 páginas
+
+A auditoria estrita das 117 páginas permanece válida. O lote adicional, registrado em [[23 - Complemento Documental Shiozawa Bioenergologia e Formação Histórica 1982-2019]], acrescenta dados que não devem ser projetados retroativamente sobre as páginas do arquivo principal: Shiozawa 100h + estágio 2.000h, Psicanálise Integrativa 294h, Bioenergologia/Bioenergopatia, dois cursos com Sandra Paulsen e registros históricos adicionais.
 
 # Fonte curricular vigente
 
