@@ -86,6 +86,7 @@ Não utilizar formulações que sugiram mais de 30 anos de exercício da Psicolo
 - fontes curriculares inventariadas;
 - curso de Neurobiologia Interpessoal documentado e curso com Deb Dana confirmado por certificado de 12 horas, em setembro de 2023;
 - auditoria documental de 117 páginas de certificados e diplomas concluída;
+- auditoria complementar de 12 páginas concluída, com Shiozawa 100h + estágio 2.000h, Bioenergologia/Bioenergopatia, Psicanálise Integrativa 294h, trauma e registros históricos;
 - governança de fontes normalizada: informações autobiográficas confirmadas pelo autor integram a fonte curricular e a comunicação pública;
 - formulação pública canônica escolhida e versões contextuais consolidadas;
 - arquitetura do site consolidada: Fabiano como identidade central; Centralma como empresa atual e eixo clínico on-line; *Traduzindo o Ser Humano* como eixo educacional; CEEP como educação continuada;
@@ -101,7 +102,7 @@ Em qualquer novo chat, ler primeiro esta nota e depois, conforme a tarefa:
 - CEEP: notas 05, 06, 08 e 09, além do projeto próprio do CEEP;
 - produtos digitais: notas 06, 07, 08 e 09;
 - comprovação ou auditoria: notas 03 e 10.
-- diplomas e certificados: pasta `12 - Documentos Comprobatórios`, começando pelo índice AUT-DOC-00.
+- diplomas e certificados: pasta `12 - Documentos Comprobatórios`, começando pelo índice AUT-DOC-00; para Shiozawa, Bioenergologia, primeira Psicanálise Integrativa e o lote histórico complementar, consultar AUT-DOC-23.
 
 ## Auditoria documental do PDF de certificados e diplomas
 
@@ -111,7 +112,8 @@ Em qualquer novo chat, ler primeiro esta nota e depois, conforme a tarefa:
 - trajetória em MTC, Qi Gong e docência no CEMETC ampliada por módulos e autorização docente documentados;
 - aula convidada na PUC-SP e licença sanitária histórica do Centralma/Bioquantum documentadas;
 - inventário detalhado em [[12 - Documentos Comprobatórios/10 - Auditoria PDF Certificados e Diplomas 2026]];
-- fonte integral: certificados e diplomas.pdf, Biblioteca libfile_8005a060ddbc81919f556da425e8e265.
+- fonte integral principal: `certificados e diplomas.pdf`, Biblioteca libfile_8005a060ddbc81919f556da425e8e265;
+- fonte complementar: PDF de 12 páginas contido no lote `drive-download-20260821T234950Z-1-001.zip`, auditado em [[12 - Documentos Comprobatórios/23 - Complemento Documental Shiozawa Bioenergologia e Formação Histórica 1982-2019]].
 
 
 ## Fonte curricular consolidada — 21/08/2026
@@ -156,7 +158,7 @@ Quando um terceiro exigir comprovação formal específica, Fabiano decidirá co
 
 # Atualização de continuidade — Brainspotting, Palas Athena, CEMETC–Yunnan e auto-hipnose
 
-A nota [[12 - Documentos Comprobatórios/22 - Atualização Brainspotting Palas Athena CEMETC Yunnan e Auto-Hipnose 2025-2026]] deve ser consultada junto da matriz detalhada para futuras versões de currículo, site, bio, dossiê de palestrante e materiais do CEEP.
+As notas [[12 - Documentos Comprobatórios/22 - Atualização Brainspotting Palas Athena CEMETC Yunnan e Auto-Hipnose 2025-2026]] e [[12 - Documentos Comprobatórios/23 - Complemento Documental Shiozawa Bioenergologia e Formação Histórica 1982-2019]] devem ser consultadas junto da matriz detalhada para futuras versões de currículo, site, bio, dossiê de palestrante e materiais do CEEP.
 
 # Reconciliação transversal concluída — 21/08/2026
 
