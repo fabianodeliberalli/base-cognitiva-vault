@@ -58,7 +58,7 @@ Essa pergunta se desenvolve em cinco movimentos:
 - Supervisões mensais em grupo com Mário Salvador, em continuidade em 2026.
 - Formação presencial com Mário Salvador em Brasília documentada em 2018, seguida de atividade formativa documentada em 2019.
 - Imersões presenciais de três dias com atendimentos e supervisões em 2025 e 2026.
-- Formação continuada em hipnose clínica e terapêutica, com estudos junto a Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sophia Bauer; registros documentais de Mirroring Hands (2019), Professional & Clinical Hypnosis B1–B3 (2021), B4–B8 (2022) e Hypnotic Mastery Bootcamp (2022), além de acesso pago confirmado ao curso on-line de Sophia Bauer entre agosto de 2023 e fevereiro de 2024.
+- Formação continuada em hipnose clínica e terapêutica, com estudos junto a Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sofia Bauer; registros documentais de Mirroring Hands (2019), Professional & Clinical Hypnosis B1–B3 (2021), B4–B8 (2022) e Hypnotic Mastery Bootcamp (2022), além de acesso pago confirmado ao curso on-line de Sofia Bauer entre agosto de 2023 e fevereiro de 2024.
 
 ## Neurobiologia relacional e regulação
 
