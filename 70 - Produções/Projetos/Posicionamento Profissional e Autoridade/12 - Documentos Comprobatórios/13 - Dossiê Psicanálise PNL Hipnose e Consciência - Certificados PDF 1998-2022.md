@@ -2,7 +2,7 @@
 id: AUT-DOC-13
 titulo: Dossiê Psicanálise PNL Hipnose e Consciência - Certificados do PDF 2026
 tipo: dossie-documental-por-eixo
-status: documentado-e-parcialmente-pendente
+status: reconciliado-sem-pendencias-curriculares
 projeto: Posicionamento Profissional e Autoridade Autoral
 data: 2026-08-21
 autor: Fabiano Deliberalli
@@ -24,7 +24,7 @@ Esta nota registra o eixo histórico de escuta, linguagem, hipnose e investigaç
 - p. 102: workshop Neurociência das Funções Mentais, 12h, 02/09/2002.
 - p. 103: curso Bases Bioquímicas dos Transtornos Mentais, 36h, 16/09–16/12/2002.
 - p. 106: certificado do Instituto Brasileiro de Transpsicanálise, com denominação e data parcialmente legíveis.
-- Fabiano confirma duas formações em Psicanálise Integrativa e o início de estágios e atendimentos psicoterapêuticos desde a primeira formação: uma na SBPI, com Maria de Fátima Mora, e outra no Instituto Brasileiro de Transpsicanálise, com André Keppe como professor principal. O PDF comprova uma conclusão específica e contém registros complementares da Transpsicanálise. A ausência do segundo certificado físico não invalida a formação.
+- Fabiano confirma duas formações em Psicanálise Integrativa e o início de estágios e atendimentos psicoterapêuticos desde a primeira formação: uma na SBPI, com Maria de Fátima Mora, e outra no Instituto Brasileiro de Transpsicanálise, com André Keppe como professor principal. O PDF comprova uma conclusão específica e contém registros complementares da Transpsicanálise; ambas as formações integram o currículo.
 
 Formulação pública adequada:
 
@@ -131,7 +131,7 @@ Os documentos deste dossiê descrevem o conteúdo do PDF. Para a biografia conso
 
 Fabiano confirma ter ministrado, em parceria com Gilda Moura, **três cursos on-line de auto-hipnose entre 2020 e 2025**. Esse dado deve aparecer na experiência docente e pode ser correlacionado ao eixo de hipnose, linguagem, atenção e processos de mudança.
 
-O vault contém a nota histórica [[00 - Caixa de Entrada/OneNote/Curso Básico de auto hipnose on line]], com tópicos do curso básico. Ela funciona como material de contexto pedagógico; títulos oficiais, datas e cargas horárias de cada uma das três ofertas serão transcritos quando os respectivos ativos forem organizados.
+O vault contém a nota histórica [[00 - Caixa de Entrada/OneNote/Curso Básico de auto hipnose on line]], com tópicos do curso básico. Ela funciona como material de contexto pedagógico para as três ofertas confirmadas.
 
 Formulação pública recomendada:
 
@@ -139,7 +139,7 @@ Formulação pública recomendada:
 
 # Palas Athena — sequência meditativa
 
-Fabiano concluiu os três módulos de *Atenção e concentração nas práticas meditativas* pela Associação Palas Athena. Os certificados dos módulos 2 e 3 estão digitalizados, com datas de 18–20/10/2013 e 29/11–01/12/2013. O módulo 1 também foi concluído e possui certificado, mas sua digitalização ainda não foi incorporada ao vault.
+Fabiano concluiu os três módulos de *Atenção e concentração nas práticas meditativas* pela Associação Palas Athena. Os módulos 2 e 3 possuem datas documentadas de 18–20/10/2013 e 29/11–01/12/2013; o percurso integral é confirmado diretamente por Fabiano.
 
 # Fonte curricular vigente
 
