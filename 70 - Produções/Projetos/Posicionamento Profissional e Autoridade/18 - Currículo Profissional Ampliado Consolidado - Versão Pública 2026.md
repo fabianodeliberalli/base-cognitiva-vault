@@ -55,7 +55,8 @@ Seus interesses atuais de estudo incluem neurofenomenologia, experiência incorp
 
 - **Psicanálise Integrativa:** duas formações, incluindo uma realizada na SBPI, com Maria de Fátima Mora, e outra no Instituto Brasileiro de Transpsicanálise, com André Keppe como professor principal.
 - **EMDR:** formação continuada e integração do método ao repertório clínico de trauma e reprocessamento.
-- **Brainspotting:** formação continuada e utilização integrada ao trabalho clínico.
+- **Brainspotting:** formação continuada, com Fases 1 a 5 concluídas entre 2011 e 2025. A Fase 5 foi um treinamento avançado de 24 horas, ministrado por David Grand; a Fase 3 foi concluída na sequência formativa e seu certificado aguarda digitalização.
+- **Meditação Bodyspotting:** workshop complementar de 4 horas com Marília Toscano, realizado em 2026 e certificado pela ABBSP.
 - **Psicoterapia de Integração e Reprocessamento do Trauma — Instituto Aleces:** programa de 216 horas, realizado entre 2020 e 2023, com Mário Salvador e Carmen Cuenca.
 - **Supervisão clínica continuada:** supervisão mensal em grupo com Mário Salvador, além de estudos presenciais anteriores e imersões de três dias realizadas em 2025 e 2026.
 - **Neurobiologia Interpessoal:** formação com Daniel Siegel, em 2021.
@@ -71,10 +72,11 @@ Antes da graduação em Psicologia, Fabiano construiu uma experiência extensa c
 - **Técnico em Reabilitação — modalidade Massagista — Escola Oriental de Massagem e Acupuntura (EOMA).** Diploma concluído em 1995, com 1.440 horas.
 - **Acupuntura Tradicional Chinesa — CEMETRAC.** Formação realizada entre 2002 e 2004, com carga horária total de 1.200 horas.
 - **Medicina Tradicional Chinesa:** estudos com Mestre Liu Chih Ming, Ernesto Garcia, pela Pró-Salus Vitae, e em outros programas de formação continuada.
-- **CEMETC — Centro de Enseñanza de la Medicina Tradicional China:** formação internacional continuada em *Acupuntura Bioenergética y Moxibustión*, com níveis 1, 2 e 3, programas curriculares documentados e módulos de 360 horas/14,4 créditos ECTS.
-- **Máster en Acupuntura Bioenergética y Moxibustión:** participação no programa internacional promovido pela Fundación Europea de Medicina Tradicional China, no ano acadêmico de 2014–2015.
+- **Máster Iberoamericano en Acupuntura Bioenergética y Moxibustión:** concluído e certificado em outubro de 2015 no âmbito institucional da Universidad de Medicina Tradicional China de Yunnan, do CEMETC e da Fundación Europea de Medicina Tradicional China.
+- **CEMETC — Centro de Enseñanza de la Medicina Tradicional China:** formação internacional continuada em *Acupuntura Bioenergética y Moxibustión*, com níveis 1, 2 e 3, programas curriculares documentados e certificados gerais de 360 horas/14,4 créditos ECTS.
 - **Venia Docente do CEMETC:** credencial institucional recebida em Valladolid, em 8 de novembro de 2014, para ministrar os programas de formação em Acupuntura Bioenergética estabelecidos pela instituição.
 - **Qi Gong, respiração e movimento:** formações em práticas de regulação, presença corporal, atenção e circulação do movimento, incluindo módulos de instrutor e práticas específicas.
+- **Associação Palas Athena:** sequência completa de três módulos de *Atenção e concentração nas práticas meditativas*; módulos 2 e 3 documentados em 2013 e módulo 1 concluído, com certificado aguardando digitalização.
 - **Seitai, quiropraxia e práticas corporais orientais:** estudos e atuação cotidiana ao longo da trajetória no Shiozawa, durante aproximadamente dez anos.
 - **Reiki e práticas energéticas:** cursos, práticas e formação de alunos em período anterior à docência em Psicologia.
 
@@ -101,6 +103,7 @@ As experiências didáticas de Fabiano se desenvolveram em camadas, antes e depo
 - curso sobre Seitai e Quiropraxia durante a atuação no Shiozawa;
 - aula como professor convidado na PUC-SP, em 1º de outubro de 2002, sobre corpo, energia e experiência;
 - atuação como professor assistente de Gilda Moura em turma presencial realizada no Centralma, em 2018/2019;
+- ministrante, em parceria com Gilda Moura, de três cursos on-line de auto-hipnose entre 2020 e 2025;
 - professor e cocriador de *Além das Fronteiras do Saber*, com cinco edições on-line realizadas a partir de 2020, do nível básico ao avançado;
 - palestras e cursos em organizações, eventos e projetos de desenvolvimento humano;
 - workshop da ABBSP, em 7 de março de 2026, sobre autorregulação, presença clínica, processos espirituais e estados ampliados de consciência;
