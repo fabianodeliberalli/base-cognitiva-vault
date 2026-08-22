@@ -94,7 +94,8 @@ A Psicanálise deve aparecer como origem estruturante da escuta, da compreensão
 ## Trauma, reprocessamento e regulação
 
 - Formação continuada em EMDR desde aproximadamente 2010, com treinamento básico documentado de 50 horas teórico-práticas e 10 horas de supervisão, em março de 2011.
-- Formação em Brainspotting, com fases 1–2 e fase 4 documentadas.
+- Formação continuada em Brainspotting, com Fases 1 a 5 concluídas entre 2011 e 2025. A Fase 3 foi concluída sequencialmente entre as Fases 2 e 4 e possui certificado ainda pendente de digitalização; a Fase 5 corresponde ao treinamento avançado de 24 horas, ministrado por David Grand, on-line ao vivo, de 22 a 24/08/2025.
+- Atualização complementar em Meditação Bodyspotting, workshop on-line de 4 horas com Marília Toscano, realizado em 11/04/2026 e certificado pela ABBSP.
 - Cursos de EMDR, trauma, estados do ego, atenção precoce, estresse traumático continuado, neuroendocrinologia do trauma e transmissão transgeracional.
 - Formação em Psicoterapia Integradora e Reprocessamento do Trauma com Mário Salvador e Carmen Cuenca, incluindo programa documentado de 216 horas do Instituto Aleces, Níveis I, II e III do Modelo Aleceia, realizado entre 2020 e 2023.
 - Supervisão mensal em grupo com Mário Salvador, em continuidade em 2026.
@@ -117,9 +118,11 @@ A formação corporal não deve ser tratada como prólogo descartável nem apres
 - Atuação e estudos no Shiozawa, com práticas corporais orientais, Seitai, Quiropraxia e atendimento clínico corporal.
 - Acupuntura Tradicional Chinesa pelo CEMETRAC, de 2002 a 2004, com 1.200 horas, sob direção de Liu Chih Ming.
 - Formação em MTC com Ernesto Garcia/Pró-Salus e outros módulos documentados.
+- Conclusão do *Máster Iberoamericano en Acupuntura Bioenergética y Moxibustión*, certificado em outubro de 2015 no âmbito institucional da Universidad de Medicina Tradicional China de Yunnan, do CEMETC e da Fundación Europea de Medicina Tradicional China.
 - Formação continuada internacional em *Acupuntura Bioenergética y Moxibustión* pelo CEMETC, com certificados de 1º, 2º e 3º níveis emitidos entre agosto de 2015 e setembro de 2016, certificados gerais de 360 horas/14,4 ECTS e programas detalhados; as cargas não são somadas sem análise de sobreposição.
 - Em 08/11/2014, recebeu do CEMETC a credencial institucional *Venia Docente* para ministrar programas de formação em Acupuntura Bioenergética; o documento registra validade até 08/11/2017.
 - Formação em Qi Gong, incluindo Ba Duan Jin, Yi Jin Jing, Wu Qin Xi, Liu Zi Jue/Seis Sons de Cura e práticas de respiração e movimento.
+- Sequência completa de três módulos de *Atenção e concentração nas práticas meditativas* pela Associação Palas Athena; módulos 2 e 3 documentados em 2013 e módulo 1 concluído, com certificado aguardando digitalização.
 - Experiência histórica como instrutor de Reiki e professor de práticas corporais.
 
 Formulação pública recomendada:
@@ -153,6 +156,7 @@ As experiências didáticas começaram antes da trajetória acadêmica formal e 
 - curso de Seitai e Quiropraxia durante a atuação no Shiozawa;
 - aula convidada na Faculdade de Psicologia da PUC-SP sobre corpo e energia, em 01/10/2002, com certificado institucional localizado;
 - professor assistente de Gilda Moura em turma presencial no Centralma, em 2018/2019;
+- ministrante, em parceria com Gilda Moura, de três cursos on-line de auto-hipnose entre 2020 e 2025;
 - professor e cocriador do curso online Além das Fronteiras do Saber, em cinco edições a partir de 2020;
 - palestras e cursos em organizações, empresas e projetos de desenvolvimento humano; a lista nominal de instituições, temas e datas ainda deve ser completada;
 - workshop da ABBSP em 07/03/2026, como ministrante, com certificado localizado;
@@ -312,3 +316,11 @@ A relação completa de formações, datas, cargas horárias, documentos, duplic
 # Fonte curricular vigente
 
 Para qualquer consulta, revisão ou produção curricular, consultar primeiro [[00 - Governança Curricular - Fonte Única e Derivação por Contexto 2026]] e depois [[22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]]. Esta nota é fonte documental, histórica ou derivada conforme sua finalidade; não deve competir com a matriz como fonte de organização da trajetória.
+
+# Atualização integrada — Brainspotting, Palas Athena, CEMETC–Yunnan e auto-hipnose — 21/08/2026
+
+- **Brainspotting:** Fases 1 a 5 concluídas; Fase 3 confirmada pelo autor, com certificado físico ainda não digitalizado; Fase 5 documentada em 2025, 24h, com David Grand.
+- **Palas Athena:** sequência completa de três módulos de atenção e concentração nas práticas meditativas; módulos 2 e 3 digitalizados e módulo 1 com certificado pendente de escaneamento.
+- **CEMETC–Yunnan:** certificado conclusivo do *Máster Iberoamericano en Acupuntura Bioenergética y Moxibustión*, outubro de 2015, vinculado documentalmente à Universidad de Medicina Tradicional China de Yunnan, ao CEMETC e à Fundación Europea de Medicina Tradicional China.
+- **Docência em auto-hipnose:** três cursos on-line ministrados em parceria com Gilda Moura entre 2020 e 2025.
+- **Fonte detalhada:** [[12 - Documentos Comprobatórios/22 - Atualização Brainspotting Palas Athena CEMETC Yunnan e Auto-Hipnose 2025-2026]].
