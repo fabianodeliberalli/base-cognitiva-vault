@@ -179,7 +179,7 @@ Assim, o currículo não precisa carregar notas defensivas sobre todos os certif
 | 106 | Instituto Brasileiro de Transpsicanálise — workshop com título parcialmente legível; imagem preservada para nova conferência. | E1 | **Título não utilizável nesta cópia.** Não nomear o curso por inferência. |
 | 107 | EOMA — diploma de Técnico em Reabilitação/Massagista, frente; documento já descrito também na p. 97. | E3 | **Duplicata/complemento visual.** Não somar. |
 | 108 | Verso do diploma EOMA, com histórico/carga, registros e escolaridade anterior. | E3 | **Documento complementar.** Sustenta a leitura da p. 107; não é nova formação. |
-| 109 | Instituto Medeiros de Pesquisas Avançadas — curso livre de Bioenergologia, concluído em agosto de 2004; títulos internos Bioenergólogo e Terapeuta Bioenergopata. | E6 | **Documentado como formação histórica livre.** Não usar como identidade profissional regulamentada. |
+| 109 | Instituto Medeiros de Ensino Livre e Pesquisas em Ciências Avançadas — **Curso de Bioenergologia com Formação em Bioenergopatia**, concluído em agosto de 2004, nota final 9,0; títulos institucionais internos “Pesquisador Bioenergólogo” e “Terapeuta Bioenergopata”. | E6 | **Documentado como formação histórica livre.** O programa complementar registra 114 unidades-aula, sem equivalência horária total declarada; não usar os títulos internos como identidade profissional regulamentada. |
 | 110 | Pró-Salus Vitalis — Semiologia e Propedêutica da Medicina Tradicional Chinesa, 143 horas-aula, 12/02–04/12/2005. | E3 | **Documentado.** Formação MTC relevante. |
 | 111 | International Center for Reiki Training — Registered Karuna Reiki Master, 03/06/2001, registro BRM037. | E6 | **Documentado.** Linhagem histórica de Reiki. |
 | 112 | EOMA — Curso de Drenagem Linfática, 20h, abril–junho de 1996. | E3 | **Documentado.** Formação corporal breve. |
@@ -254,9 +254,10 @@ Esta nota continua sendo um inventário estrito das 117 páginas. As seguintes i
 - Meditação Bodyspotting, 4h, 11/04/2026;
 - Palas Athena: percurso completo em três módulos, conforme confirmação direta de Fabiano;
 - *Máster Iberoamericano en Acupuntura Bioenergética y Moxibustión*, CEMETC–Yunnan, outubro de 2015;
-- três cursos on-line de auto-hipnose com Gilda Moura, 2020–2025.
+- três cursos on-line de auto-hipnose com Gilda Moura, 2020–2025;
+- PDF complementar de 12 páginas com o Curso Intensivo de Shiatsu de 100h e estágio de 2.000h no Shiozawa, declaração curricular de Psicanálise Integrativa de 294h, Bioenergologia/Bioenergopatia, EMDR e Estados do Ego, processamento de trauma precoce e registros históricos adicionais.
 
-A consolidação dessas inclusões está em [[22 - Atualização Brainspotting Palas Athena CEMETC Yunnan e Auto-Hipnose 2025-2026]] e na matriz curricular.
+A consolidação das primeiras inclusões está em [[22 - Atualização Brainspotting Palas Athena CEMETC Yunnan e Auto-Hipnose 2025-2026]]. A auditoria do lote complementar está em [[23 - Complemento Documental Shiozawa Bioenergologia e Formação Histórica 1982-2019]]. Todos os dados normalizados convergem na matriz curricular.
 
 # Fonte curricular vigente
 
