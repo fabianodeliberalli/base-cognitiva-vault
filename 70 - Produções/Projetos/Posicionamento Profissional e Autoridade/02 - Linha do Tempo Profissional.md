@@ -54,7 +54,7 @@ Esta cronologia distingue datas documentalmente sustentadas de datas fornecidas 
 ## 2009
 
 - Defesa do trabalho final da graduação em Psicologia em 04/12/2009, conforme documentação acadêmica localizada.
-- Conclusão da pós-graduação em Psicologia Transpessoal, com TCC entregue e certificado emitido. O certificado físico não está atualmente disponível e a instituição encerrou as atividades; a formação permanece confirmada pelo autor.
+- Conclusão da pós-graduação em Psicologia Transpessoal pela FACIS, com TCC entregue; certificado emitido em 2011.
 - Monografia sobre o normal e o patológico nas vivências espirituais, em diálogo com Psicanálise, fenomenologia, Psicologia Transpessoal e Abordagem Integral.
 
 ## 2010
@@ -67,7 +67,7 @@ Esta cronologia distingue datas documentalmente sustentadas de datas fornecidas 
 
 ## 2013
 
-- Conclusão da sequência de três módulos de *Atenção e concentração nas práticas meditativas* pela Associação Palas Athena. Os módulos 2 e 3 estão documentados em 18–20/10/2013 e 29/11–01/12/2013; o módulo 1 foi concluído e possui certificado ainda não digitalizado.
+- Conclusão da sequência de três módulos de *Atenção e concentração nas práticas meditativas* pela Associação Palas Athena. Os módulos 2 e 3 estão documentados em 18–20/10/2013 e 29/11–01/12/2013; o percurso integral é confirmado por Fabiano.
 
 ## 2014–2015
 
@@ -83,7 +83,7 @@ Esta cronologia distingue datas documentalmente sustentadas de datas fornecidas 
 
 ## 2019
 
-- Antes da Fase 4 de Brainspotting, concluiu sequencialmente a Fase 3; o certificado existe e aguarda digitalização, por isso data literal e carga horária ainda não foram transcritas.
+- Antes da Fase 4 de Brainspotting, concluiu sequencialmente a Fase 3, conforme confirmação direta de Fabiano.
 - Continuidade da colaboração docente com Gilda Moura e seu instituto.
 - A redação histórica usa “desde 2019” para essa parceria.
 
@@ -175,7 +175,7 @@ A auditoria de 117 páginas acrescenta ou especifica:
 - **2018–2022:** Seitai/Quiropraxia, módulos com Mário Salvador, Brainspotting fase 4, Centralma, Mirroring Hands e PCH.
 - **2026:** conclusão da PUCRS, continuidade de supervisão com Mário Salvador, docência e auditoria integral dos certificados.
 
-As datas que o documento não torna legíveis continuam marcadas como aproximadas ou pendentes; a cronologia não deve fechar essas lacunas por inferência.
+Quando uma data não está legível ou não foi informada, a cronologia registra apenas o fato confirmado, sem inventar precisão e sem convertê-lo em pendência curricular.
 
 
 ## Atualização documental - 21/08/2026
@@ -187,4 +187,4 @@ As datas que o documento não torna legíveis continuam marcadas como aproximada
 
 # Regra de leitura da cronologia — normalização de 21/08/2026
 
-A cronologia combina registros documentais e informações autobiográficas confirmadas por Fabiano. A ausência atual de um certificado físico não apaga um marco formativo. Quando datas literais não estiverem disponíveis, registrar o evento sem inventar precisão; não converter essa ausência em invalidação da formação.
+A cronologia combina registros documentais e informações autobiográficas confirmadas por Fabiano. Quando uma data literal não está informada, registra-se o evento sem inventar precisão; isso não constitui pendência da formação.
