@@ -33,7 +33,7 @@ O arquivo integral contém documentos pessoais e permanece no acervo protegido. 
 # Método e critérios
 
 - Todas as 117 páginas foram renderizadas e examinadas visualmente; OCR foi usado apenas como apoio.
-- Quando título, data ou carga horária não estão legíveis, o dado permanece como **parcial**, **incerto** ou **pendente**.
+- Quando título, data ou carga horária não estão legíveis, o detalhe é classificado como **parcial** ou **não utilizável nesta cópia**; isso não cria pendência curricular.
 - Páginas duplicadas ou complementares são mantidas no inventário, mas não somadas como novas formações.
 - Uma fotografia ou imagem de apoio não é tratada como certificado.
 - Carga horária de módulos que integram uma mesma formação não é somada automaticamente, para evitar dupla contagem.
@@ -89,8 +89,8 @@ Assim, o currículo não precisa carregar notas defensivas sobre todos os certif
 | 16 | EOMA/Instituto Shioda — Massagem Quiroprática/Seitai com Energização (Chi Kung), nível II, 10–16/02/2018, com Mestre Kenichi Shioda. | E3 | **Documentado.** Formação corporal avançada. |
 | 17 | Instituto Aleces — Psicoterapia Integradora e Reprocessamento do Trauma, módulo 1, 28h, Brasília, 05–08/09/2019. | E2 | **Documento complementar/duplicado do evento da p. 4.** |
 | 18 | CEMETC — *La Venia Docente* para ministrar programas de formação em Acupuntura Bioenergética; Valladolid, 08/11/2014; validade impressa até 08/11/2017. | E3/E7 | **Documentado.** Credencial docente histórica; não afirmar vigência atual sem renovação. |
-| 19 | Imagem sobreposta/escaneamento de certificado ligado ao conjunto EMDR; conteúdo não legível com segurança. | E2 | **Registro de imagem pendente.** Não usar como comprovação independente. |
-| 20 | Certificado EMDR parcialmente superexposto, provavelmente relacionado ao conjunto de formação em trauma; dados insuficientes. | E2 | **Pendente.** Não completar por inferência. |
+| 19 | Imagem sobreposta/escaneamento de certificado ligado ao conjunto EMDR; conteúdo não legível com segurança. | E2 | **Imagem não utilizável como comprovação independente.** |
+| 20 | Certificado EMDR parcialmente superexposto, provavelmente relacionado ao conjunto de formação em trauma; dados insuficientes. | E2 | **Não utilizável para nomeação específica.** Não completar por inferência. |
 | 21 | EMDR — tratamento de crianças e adolescentes; trauma e transtornos dissociativos na infância, teoria e tratamento, 28h, São Paulo, 18/09/2011. | E2 | **Documentado.** Curso clínico relevante. |
 | 22 | EMDR Clínico — Manejo teórico-prático intensivo, 20h, Brasília, 03/02/2013. | E2 | **Documentado.** Curso clínico. |
 | 23 | EMDR — supervisão de casos, 20h, Brasília, 03/02/2013. | E2 | **Documentado.** Registrar separadamente como supervisão. |
@@ -118,7 +118,7 @@ Assim, o currículo não precisa carregar notas defensivas sobre todos os certif
 | 45 | Curso de Radiestesia, 90 horas/aula, professor Antonio Rodrigues/equipe, São Paulo, 14/04/2002. | E6 | **Documentado.** Registro histórico. |
 | 46 | Gilda Moura — Recuperação de Memórias em Pacientes que Vivenciaram Experiências Extraordinárias ou Anômalas, 16h, São Paulo, 21–22/10/2017. | E6/E7 | **Documentado.** Relevante para docência e tema de consciência; não afirmar método clínico validado só pelo certificado. |
 | 47 | USI — outra cópia/registro de Constelação em Consultório, 4 dias; dados repetidos ou incompletos. | E5 | **Complementar/duplicata.** Não somar. |
-| 48 | USI — certificado manuscrito com título parcialmente ilegível, relacionado ao percurso de constelações. | E5 | **Pendente.** Não nomear o curso sem nova cópia legível. |
+| 48 | USI — certificado manuscrito com título parcialmente ilegível, relacionado ao percurso de constelações. | E5 | **Título não utilizável nesta cópia.** Não nomear o curso por inferência. |
 | 49 | EOMA/Instituto Shioda — curso livre intensivo de Chi Kung (energização) e Massagem Quiroprática/Seitai com Energização, 01–07/07/2017, São Paulo. | E3 | **Documentado.** Formação corporal. |
 | 50 | USI — Constelação Organizacional, módulo I, 3 dias, 02–04/11/2016, São Paulo. | E5 | **Documentado.** Formação sistêmica. |
 | 51 | PHVIDA — curso para Healer do Sistema de Equilíbrio Energético (SEE), com Carlos Florêncio. | E6 | **Documentado como formação histórica.** Não usar o título como identidade profissional regulamentada atual. |
@@ -128,7 +128,7 @@ Assim, o currículo não precisa carregar notas defensivas sobre todos os certif
 | 55 | Instituto Long Tao — Formação Internacional em Acupuntura Bioenergética, módulo I, 32h, Carlos Nogueira Pérez/CEMETC, 07–09/08/2015. | E3 | **Documentado.** Módulo da formação internacional. |
 | 56 | Heiwa — 1º módulo do Curso Internacional de Acupuntura Bioenergética, 16h, 29–30/03/2014, ministrado por José Luís Alabau, com apoio do CEMETC. | E3 | **Documentado.** Formação complementar anterior aos módulos Long Tao. |
 | 57 | EMDR Iberoamérica-Brasil — Treinamento Básico em EMDR, 50h teórico-práticas + 10h supervisão de casos, 18–20/03/2011. | E2 | **Documentado.** Registro estruturante do eixo trauma. |
-| 58 | FOCUS — Atualizações em Neurobiologia Interpessoal, 16h, com André Maurício Monteiro; certificado sem data visível no recorte. | E2 | **Documentado com data pendente.** Complementa o certificado EMDR da p. 59 e o curso com Daniel Siegel. |
+| 58 | FOCUS — Atualizações em Neurobiologia Interpessoal, 16h, com André Maurício Monteiro; certificado sem data visível no recorte. | E2 | **Documentado sem data legível nesta cópia.** Complementa o certificado EMDR da p. 59 e o curso com Daniel Siegel. |
 | 59 | EMDR Iberoamérica Brasil — Atualizações em Neurobiologia Interpessoal, 16h presenciais + 16h créditos, São Paulo, 10/11/2013; provedor reconhecido para créditos pelo documento. | E2 | **Documentado.** Formação continuada. |
 | 60 | Tai Chi, Qigong & Feng Shui Institute — Comprehensive Tai Chi Qigong Instructor Training Course, nível I, janeiro de 2016. | E3 | **Documentado.** Formação de instrutor no âmbito da instituição emissora. |
 | 61 | Instituto Long Tao — Formação Internacional em Acupuntura Bioenergética, módulo II, 32h, 19–20/03/2016. | E3 | **Documentado.** Módulo da formação internacional. |
@@ -176,7 +176,7 @@ Assim, o currículo não precisa carregar notas defensivas sobre todos os certif
 | 103 | Instituto Brasileiro de Transpsicanálise — Bases Bioquímicas dos Transtornos Mentais, 36h, 16/09–16/12/2002. | E1 | **Documentado.** Curso livre complementar. |
 | 104 | Psicanálise Integrativa Clínica Escola — formação em Psicanálise Integrativa, São Paulo, 23/07/2002. | E1 | **Documentado.** A data visível no certificado é 23 de julho de 2002; corrigir registros anteriores que usavam 23/06. |
 | 105 | EOMA — Técnicas de Alinhamento Postural, Reflexologia e Relaxamento, 60h/aula, 26/03–25/06/1995. | E3 | **Documentado.** Formação corporal. |
-| 106 | Instituto Brasileiro de Transpsicanálise — workshop com título parcialmente legível; imagem preservada para nova conferência. | E1 | **Pendente.** Não nomear o curso sem cópia legível. |
+| 106 | Instituto Brasileiro de Transpsicanálise — workshop com título parcialmente legível; imagem preservada para nova conferência. | E1 | **Título não utilizável nesta cópia.** Não nomear o curso por inferência. |
 | 107 | EOMA — diploma de Técnico em Reabilitação/Massagista, frente; documento já descrito também na p. 97. | E3 | **Duplicata/complemento visual.** Não somar. |
 | 108 | Verso do diploma EOMA, com histórico/carga, registros e escolaridade anterior. | E3 | **Documento complementar.** Sustenta a leitura da p. 107; não é nova formação. |
 | 109 | Instituto Medeiros de Pesquisas Avançadas — curso livre de Bioenergologia, concluído em agosto de 2004; títulos internos Bioenergólogo e Terapeuta Bioenergopata. | E6 | **Documentado como formação histórica livre.** Não usar como identidade profissional regulamentada. |
@@ -237,13 +237,26 @@ Mini bio derivada:
 - obter cópias legíveis das páginas 19, 20, 39, 40, 48, 54, 58, 63, 106 e 114 apenas se algum desses registros entrar em versão formal;
 - levantar lista nominal de palestras e organizações para o currículo de palestrante.
 
-Foram encerradas como pendências de validação por IA: Psicologia Transpessoal; duas formações em Psicanálise; Practitioner anterior na SBPNL; Deb Dana; CRP; e situação atual da Centralma. Esses dados são confirmados por Fabiano e complementam o inventário documental.
+Não há pendências curriculares de validação por IA. Psicologia Transpessoal, duas formações em Psicanálise, Practitioner anterior na SBPNL, Deb Dana, CRP e situação atual da Centralma são dados consolidados por Fabiano e complementam o inventário documental.
 
 
 # Regra de leitura conjunta — 21/08/2026
 
 A auditoria página a página descreve estritamente o PDF. A fonte curricular consolidada reúne essa camada documental e a fonte autobiográfica oficial. Ausência no PDF não equivale a inexistência biográfica.
 
+
+# Suplemento de reconciliação com documentos externos ao PDF
+
+Esta nota continua sendo um inventário estrito das 117 páginas. As seguintes inclusões foram recebidas separadamente e, por isso, não devem ser atribuídas a páginas deste PDF:
+
+- Brainspotting Fase 5, 24h, 22–24/08/2025;
+- Brainspotting Fase 3 concluída, conforme confirmação direta de Fabiano;
+- Meditação Bodyspotting, 4h, 11/04/2026;
+- Palas Athena: percurso completo em três módulos, conforme confirmação direta de Fabiano;
+- *Máster Iberoamericano en Acupuntura Bioenergética y Moxibustión*, CEMETC–Yunnan, outubro de 2015;
+- três cursos on-line de auto-hipnose com Gilda Moura, 2020–2025.
+
+A consolidação dessas inclusões está em [[22 - Atualização Brainspotting Palas Athena CEMETC Yunnan e Auto-Hipnose 2025-2026]] e na matriz curricular.
 
 # Fonte curricular vigente
 
