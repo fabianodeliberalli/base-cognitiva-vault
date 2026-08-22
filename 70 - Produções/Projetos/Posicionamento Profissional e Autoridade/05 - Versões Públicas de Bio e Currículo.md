@@ -44,7 +44,7 @@ Fonte ampliada vigente: [[18 - Currículo Profissional Ampliado Consolidado - Ve
 
 # Governança das informações curriculares
 
-Informações autobiográficas confirmadas diretamente por Fabiano são válidas para currículo e comunicação pública. Diplomas e certificados disponíveis permanecem como arquivo de apoio, precisão literal e eventual comprovação perante terceiros. A ausência atual de um certificado físico não autoriza uma IA a invalidar uma formação nem a transformá-la automaticamente em “pendência”.
+Informações autobiográficas confirmadas diretamente por Fabiano são válidas para currículo e comunicação pública. Diplomas e certificados disponíveis permanecem como arquivo de apoio, precisão literal e eventual comprovação perante terceiros. Não há pendência curricular criada pela ausência de um arquivo digital no vault.
 
 Aplicações específicas:
 
@@ -131,6 +131,40 @@ A assinatura vigente é:
 
 A versão pública deve ser escolhida por contexto, mas identidade, formulação temporal e assinatura canônica não devem variar. Informações confirmadas pelo autor não devem ser rebaixadas por uma IA à condição de dúvida apenas porque um documento físico não está atualmente acessível.
 
+
+# Blocos seletivos para inserção por contexto
+
+Estes blocos podem ser acrescentados às versões acima somente quando sustentarem diretamente a finalidade do material.
+
+## Trauma e clínica profissional
+
+> Formação continuada em Brainspotting, com Fases 1 a 5 concluídas entre 2011 e 2025, além de formação em EMDR, psicoterapia de integração e reprocessamento do trauma e supervisão clínica continuada.
+
+**Uso prioritário:** currículo clínico ampliado, CEEP, programas para profissionais e apresentações técnicas.
+
+## Corpo, MTC e tradição chinesa
+
+> Sua formação corporal inclui Acupuntura Tradicional Chinesa, Qi Gong, respiração e movimento, além da conclusão do *Máster Iberoamericano en Acupuntura Bioenergética y Moxibustión*, certificado em 2015 no âmbito institucional CEMETC–Yunnan, e da *Venia Docente* recebida do CEMETC em 2014.
+
+**Uso prioritário:** página Sobre, currículo ampliado, dossiê de palestrante e ofertas diretamente relacionadas a corpo, MTC, Qi Gong ou respiração. Na mini bio clínica geral, preferir a síntese “formação internacional em Medicina Tradicional Chinesa”.
+
+## Atenção, meditação e consciência
+
+> Concluiu a sequência de três módulos de *Atenção e concentração nas práticas meditativas* pela Associação Palas Athena e mantém estudos na interface entre corpo, atenção, consciência e experiência vivida.
+
+**Uso prioritário:** CEEP, palestras sobre consciência e materiais autorais. Não usar como credencial frontal na bio clínica.
+
+## Docência digital e hipnose
+
+> Ministrou, em parceria com Gilda Moura, três cursos on-line de auto-hipnose entre 2020 e 2025 e foi professor e cocriador de cinco edições de *Além das Fronteiras do Saber*.
+
+**Uso prioritário:** currículo docente, mídia, dossiê de palestrante e produtos digitais.
+
+## Atualização complementar
+
+> Participou da *Vivência em Meditação Bodyspotting*, workshop de 4 horas com Marília Toscano, em 2026.
+
+**Uso prioritário:** currículo detalhado de formação continuada. O workshop é complementar e não deve ser apresentado como fase de Brainspotting.
 
 # Fonte curricular vigente
 
