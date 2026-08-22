@@ -191,9 +191,12 @@ Há certificados históricos de terapeuta certificado EMDR com validade impressa
 
 - **Fases 1 e 2:** 14h + 14h, São Paulo, 03/04/2011.
 - **Fases 1 e 2:** treinamento realizado em 10, 11, 12, 14 e 15/08/2017.
+- **Fase 3:** concluída sequencialmente após a Fase 2 e antes da Fase 4. Fabiano informa possuir o certificado; digitalização, data literal e carga horária aguardam incorporação ao vault.
 - **Fase 4:** 18h, São Paulo, 02–04/08/2019.
-- **Situação:** formação continuada com fases documentadas.
-- **Uso:** pode constar como formação em Brainspotting; não usar “certificação vigente” sem conferência específica.
+- **Fase 5 — treinamento avançado:** 24h, on-line ao vivo, 22–24/08/2025, ministrado por David Grand e certificado pela Associação Brasileira de Brainspotting — ABBSP.
+- **Vivência em Meditação Bodyspotting:** workshop on-line de 4h, ministrado por Marília Toscano em 11/04/2026, com participação integral certificada pela ABBSP. É atualização complementar, não uma fase adicional.
+- **Situação:** formação continuada longitudinal, com Fases 1, 2, 3, 4 e 5 concluídas entre 2011 e 2025. A Fase 3 está confirmada pelo autor e possui certificado ainda não digitalizado; as demais fases possuem registros documentais no acervo.
+- **Uso:** pode constar como “formação continuada em Brainspotting, com Fases 1 a 5 concluídas”; reservar a expressão “certificação vigente” para contextos que exijam esse estatuto específico.
 
 ## 3. Psicoterapia de Integração e Reprocessamento do Trauma
 
@@ -296,6 +299,8 @@ Há certificados históricos de terapeuta certificado EMDR com validade impressa
 - **Instituição:** Centro de Enseñanza de la Medicina Tradicional China — CEMETC.
 - **Denominação literal:** *Acupuntura Bioenergética y Moxibustión*.
 - **Direção:** Dr. A. Carlos Nogueira Pérez.
+- **Título conclusivo documentado:** *Máster Iberoamericano en Acupuntura Bioenergética y Moxibustión*, certificado em outubro de 2015 no âmbito institucional da Universidad de Medicina Tradicional China de Yunnan, do CEMETC e da Fundación Europea de Medicina Tradicional China.
+- **Fonte do título conclusivo:** certificado `CEMETC YUNAN.pdf`; o documento identifica as instituições e a conclusão, sem explicitar carga horária.
 - **Formação internacional:** módulos, níveis 1, 2 e 3, programas curriculares e certificados gerais.
 - **Certificados gerais:** 360h/14,4 ECTS, conforme os documentos.
 - **Módulo internacional anterior:** 16h, 29–30/03/2014, Heiwa/CEMETC.
@@ -400,8 +405,12 @@ Este eixo registra uma formação sistêmica extensa, sequencial e relevante par
 
 ## Meditação e atenção
 
-- **Associação Palas Athena — Atenção e concentração nas práticas meditativas, módulo 2:** 18–20/10/2013.
-- **Associação Palas Athena — Atenção e concentração nas práticas meditativas, módulo 3:** 29/11–01/12/2013.
+- **Associação Palas Athena — Atenção e concentração nas práticas meditativas:** sequência completa de três módulos concluída.
+- **Módulo 1:** concluído; Fabiano possui o certificado, cuja digitalização ainda não foi incorporada ao vault. Data literal e carga horária aguardam leitura do documento.
+- **Módulo 2:** 18–20/10/2013, certificado digitalizado.
+- **Módulo 3:** 29/11–01/12/2013, certificado digitalizado.
+- **Situação:** percurso completo confirmado pelo autor; módulos 2 e 3 documentalmente registrados e módulo 1 com certificado físico pendente de escaneamento.
+- **Uso:** pode constar como “sequência de três módulos de atenção e concentração nas práticas meditativas pela Associação Palas Athena”.
 
 ## Reiki e linhagens energéticas
 
@@ -458,6 +467,7 @@ Este eixo registra uma formação sistêmica extensa, sequencial e relevante par
 
 - Professor assistente de Gilda Moura em turma presencial realizada no Centralma, em 2018/2019.
 - Curso e colaboração em temas de hipnose, regressão de memória, experiências anômalas e estados de consciência.
+- Ministrou, em parceria com Gilda Moura, três cursos on-line de auto-hipnose entre 2020 e 2025. O vault contém material histórico do curso básico; títulos, datas e cargas de cada edição serão transcritos quando os ativos correspondentes forem organizados.
 - Participação posterior no projeto on-line *Além das Fronteiras do Saber*.
 - Participação no encontro de experienciadores do IGM, em agosto de 2026, com palestra em conjunto com Daiana Leite.
 
@@ -590,7 +600,7 @@ Não somar:
 
 ## CEMETC
 
-> **Formação continuada internacional em Acupuntura Bioenergética e Moxibustión pelo CEMETC, com níveis, módulos e programas documentados. Em 2014, recebeu da instituição a credencial histórica de Venia Docente para ministrar programas específicos de formação em Acupuntura Bioenergética.**
+> **Concluiu o *Máster Iberoamericano en Acupuntura Bioenergética y Moxibustión*, certificado em outubro de 2015 no âmbito institucional da Universidad de Medicina Tradicional China de Yunnan, do CEMETC e da Fundación Europea de Medicina Tradicional China. O percurso inclui níveis, módulos e programas documentados; em 2014, recebeu do CEMETC a credencial histórica de *Venia Docente* para ministrar programas específicos de formação em Acupuntura Bioenergética.**
 
 # Fontes e notas relacionadas
 
@@ -607,6 +617,7 @@ Não somar:
 - [[12 - Documentos Comprobatórios/14 - Dossiê Institucional Docência Centralma PUC-SP e Formação 2002-2026]]
 - [[12 - Documentos Comprobatórios/19 - Auditoria Página a Página - Certificados e Diplomas 2026]]
 - [[12 - Documentos Comprobatórios/20 - Novos Registros Documentais - ALECES e Deb Dana 2023]]
+- [[12 - Documentos Comprobatórios/22 - Atualização Brainspotting Palas Athena CEMETC Yunnan e Auto-Hipnose 2025-2026]]
 - [[12 - Documentos Comprobatórios/21 - Psicologia Transpessoal - FACIS - Monografia e Certificado 2010-2011]]
 
 # Regra de produção futura
