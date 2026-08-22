@@ -19,7 +19,7 @@ tags:
 
 # Finalidade
 
-Registrar a reconciliação transversal realizada após as inclusões de Brainspotting, Palas Athena, CEMETC–Yunnan, Meditação Bodyspotting e docência em auto-hipnose, garantindo que currículos, bios, dossiês, site, CEEP e documentos de continuidade derivem da mesma fonte.
+Registrar a reconciliação transversal realizada após as inclusões de Brainspotting, Palas Athena, CEMETC–Yunnan, Meditação Bodyspotting, docência em auto-hipnose e a auditoria complementar de Shiozawa, Bioenergologia, Psicanálise Integrativa e trauma, garantindo que currículos, bios, dossiês, site, CEEP e documentos de continuidade derivem da mesma fonte.
 
 # Decisão de fonte
 
@@ -39,6 +39,11 @@ Quando data ou carga horária não forem informadas no registro consolidado, o c
 - Docência: três cursos on-line de auto-hipnose ministrados com Gilda Moura entre 2020 e 2025.
 - Psicologia Transpessoal pela FACIS: concluída em 2010, com TCC entregue e certificado emitido em 2011.
 - Duas formações em Psicanálise Integrativa, Practitioner pela SBPNL, Centralma atual e CRP 06/98630: consolidados conforme governança vigente.
+- Primeira Psicanálise Integrativa: certificado de 23/07/2002 e declaração curricular de 31/07/2002, com 294h; ambos se referem à mesma formação.
+- Shiozawa: Curso Intensivo de Shiatsu de 100h, junho–dezembro de 1994, e estágio documentado de 2.000h, janeiro de 1995–julho de 1996.
+- Bioenergologia: Curso de Bioenergologia com Formação em Bioenergopatia, concluído em agosto de 2004, nota 9,0; programa de 114 unidades-aula, sem conversão automática em horas.
+- Trauma: incluídos os registros de Sandra Paulsen sobre processamento de trauma precoce e apego (7h, 2015) e EMDR e Estados do Ego (14h, 2019).
+- A confirmação direta de Fabiano sobre formações concluídas continua suficiente para o registro biográfico; não há pendência de digitalização a ser aberta para esses itens.
 
 # Documentos reconciliados
 
@@ -75,6 +80,7 @@ Quando data ou carga horária não forem informadas no registro consolidado, o c
 - [[12 - Documentos Comprobatórios/19 - Auditoria Página a Página - Certificados e Diplomas 2026]]
 - [[12 - Documentos Comprobatórios/20 - Novos Registros Documentais - ALECES e Deb Dana 2023]]
 - [[12 - Documentos Comprobatórios/22 - Atualização Brainspotting Palas Athena CEMETC Yunnan e Auto-Hipnose 2025-2026]]
+- [[12 - Documentos Comprobatórios/23 - Complemento Documental Shiozawa Bioenergologia e Formação Histórica 1982-2019]]
 
 ## Continuidade externa ao núcleo
 
