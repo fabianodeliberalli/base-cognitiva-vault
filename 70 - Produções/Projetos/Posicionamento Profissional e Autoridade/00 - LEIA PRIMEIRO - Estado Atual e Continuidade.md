@@ -147,6 +147,13 @@ Passam a integrar o currículo e as versões públicas, sem serem tratadas como 
 - duas formações em Psicanálise Integrativa, incluindo a formação no Instituto Brasileiro de Transpsicanálise, com André Keppe, apoiada também por registros de cursos e workshops da instituição no vault;
 - Practitioner em PNL realizado na SBPNL antes das formações posteriores documentadas pelo Trivium;
 - Centralma como empresa atual, registrada, aberta e operante, utilizada na prestação e no faturamento dos atendimentos psicológicos on-line;
-- CRP 06/98630 pago, ativo e regular, conforme informação atual do autor.
+- CRP 06/98630 pago, ativo e regular, conforme informação atual do autor;
+- Brainspotting Fase 3 concluída entre as Fases 2 e 4, com certificado físico ainda não digitalizado;
+- sequência completa de três módulos de *Atenção e concentração nas práticas meditativas* pela Associação Palas Athena, com módulos 2 e 3 digitalizados e módulo 1 aguardando escaneamento;
+- três cursos on-line de auto-hipnose ministrados em parceria com Gilda Moura entre 2020 e 2025.
 
 Quando um terceiro exigir comprovação formal específica, Fabiano decidirá como fornecê-la. Essa eventual exigência externa não deve ser convertida em controle geral da IA sobre a validade de sua trajetória.
+
+# Atualização de continuidade — Brainspotting, Palas Athena, CEMETC–Yunnan e auto-hipnose
+
+A nota [[12 - Documentos Comprobatórios/22 - Atualização Brainspotting Palas Athena CEMETC Yunnan e Auto-Hipnose 2025-2026]] deve ser consultada junto da matriz detalhada para futuras versões de currículo, site, bio, dossiê de palestrante e materiais do CEEP.
