@@ -113,7 +113,7 @@ Base: formação em Psicologia e CRP. Deve estar visível nos contextos de ofert
 
 ## Autoridade clínica
 
-Base: mais de três décadas de cuidado terapêutico, atuação como psicólogo desde 2010, formação continuada — incluindo Neurobiologia Interpessoal —, supervisão e experiência com casos complexos.
+Base: mais de três décadas de cuidado terapêutico, trajetória consolidada com a Psicologia, formação continuada — incluindo Neurobiologia Interpessoal —, supervisão e experiência com casos complexos.
 
 ## Autoridade pedagógica
 
@@ -209,4 +209,4 @@ A nova evidência permite substituir a sensação de “trajetória apenas decla
 
 # Governança biográfica consolidada — 21/08/2026
 
-A autoridade de Fabiano é construída por fontes documentais e por informações autobiográficas confirmadas pelo próprio autor. A falta atual de um certificado físico não invalida automaticamente uma formação. A IA deve preservar a natureza da fonte, sem assumir função de órgão certificador ou fiscalizador.
+A autoridade de Fabiano é construída por fontes documentais e por informações autobiográficas confirmadas pelo próprio autor. Ambas integram a governança biográfica; a IA deve preservar a natureza da fonte, sem assumir função de órgão certificador ou fiscalizador.
