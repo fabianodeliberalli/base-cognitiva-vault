@@ -363,7 +363,7 @@ Há certificados históricos de terapeuta certificado EMDR com validade impressa
 
 **Formulação curricular corrigida e obrigatória:**
 
-> **Hipnose clínica e terapêutica: formação continuada com estudos junto a Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sophia Bauer. Esse conjunto integra estudos de psicoterapia, linguagem, comunicação e processos de mudança.**
+> **Hipnose clínica e terapêutica: formação continuada com estudos junto a Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sofia Bauer. Esse conjunto integra estudos de psicoterapia, linguagem, comunicação e processos de mudança.**
 
 ### Registros documentais de formação
 
@@ -372,7 +372,7 @@ Há certificados históricos de terapeuta certificado EMDR com validade impressa
 - **Professional & Clinical Hypnosis — módulos B4–B8:** 70h, 09–15/07/2022.
 - **Hypnotic Mastery Bootcamp:** 18h, 06–07/08/2022.
 - **Carga documentada nesses quatro registros:** 130h, sem incluir outros estudos sem carga horária identificada.
-- **Sophia Bauer:** acesso pago confirmado ao curso on-line entre agosto de 2023 e fevereiro de 2024, por registro independente da Hotmart.
+- **Sofia Bauer:** acesso pago confirmado ao curso on-line entre agosto de 2023 e fevereiro de 2024, por registro independente da Hotmart.
 - **Registro de terceiros:** o acesso Hotmart comprova a inscrição/período de acesso, mas não deve ser descrito como certificado quando não houver certificado localizado.
 - **Datas individuais com cada professor:** não completar por inferência; usar as datas dos certificados correspondentes.
 
@@ -589,8 +589,8 @@ Não somar:
 # Pontos que não devem voltar a ser omitidos
 
 1. A pós-graduação em Psicologia Transpessoal foi concluída em 2010, com TCC entregue e certificado emitido em 2011.
-2. A formação em hipnose clínica e terapêutica deve ser nomeada explicitamente, com Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sophia Bauer.
-3. Os registros datados de hipnose devem aparecer: Mirroring Hands 2019; PCH B1–B3 2021; PCH B4–B8 2022; Hypnotic Mastery Bootcamp 2022; Sophia Bauer com acesso Hotmart de agosto de 2023 a fevereiro de 2024.
+2. A formação em hipnose clínica e terapêutica deve ser nomeada explicitamente, com Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sofia Bauer.
+3. Os registros datados de hipnose devem aparecer: Mirroring Hands 2019; PCH B1–B3 2021; PCH B4–B8 2022; Hypnotic Mastery Bootcamp 2022; Sofia Bauer com acesso Hotmart de agosto de 2023 a fevereiro de 2024.
 4. A trajetória corporal começa antes da Psicologia e inclui EOMA, Shiozawa, MTC, CEMETRAC, Pró-Salus, CEMETC, Qi Gong, respiração, Seitai e Quiropraxia.
 5. A *Venia Docente* do CEMETC é um marco histórico de docência institucional e deve ser listada com data, local, escopo e validade impressa.
 6. A formação em EMDR e Brainspotting deve ser apresentada longitudinalmente, com módulos, cargas e distinção entre formação histórica e certificação vigente.
@@ -610,7 +610,7 @@ Não somar:
 
 ## Hipnose
 
-> **Hipnose clínica e terapêutica: formação continuada com estudos junto a Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sophia Bauer, com registros documentais de Mirroring Hands, Professional & Clinical Hypnosis e Hypnotic Mastery Bootcamp. O curso on-line com Sophia Bauer teve acesso pago confirmado entre agosto de 2023 e fevereiro de 2024 por registro independente da Hotmart.**
+> **Hipnose clínica e terapêutica: formação continuada com estudos junto a Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sofia Bauer, com registros documentais de Mirroring Hands, Professional & Clinical Hypnosis e Hypnotic Mastery Bootcamp. O curso on-line com Sofia Bauer teve acesso pago confirmado entre agosto de 2023 e fevereiro de 2024 por registro independente da Hotmart.**
 
 ## Trajetória
 
