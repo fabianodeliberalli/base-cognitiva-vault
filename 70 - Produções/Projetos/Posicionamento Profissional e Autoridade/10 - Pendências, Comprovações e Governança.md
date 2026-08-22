@@ -1,8 +1,8 @@
 ---
 id: AUT-10
-titulo: Pendências, Comprovações e Governança
+titulo: Comprovações e Governança — Sem Pendências Curriculares
 tipo: governanca-de-fontes-e-questoes-operacionais
-status: normalizado
+status: normalizado-sem-pendencias-curriculares
 projeto: Posicionamento Profissional e Autoridade Autoral
 data: 2026-08-21
 autor: Fabiano Deliberalli
@@ -18,7 +18,7 @@ tags:
 
 A IA não é instância de validação da trajetória profissional, da regularidade de Fabiano ou da existência de suas formações. O autor é fonte primária de sua biografia. Documentos são preservados para arquivo, precisão literal e situações externas que efetivamente exijam comprovação.
 
-Uma informação autobiográfica confirmada por Fabiano pode ser usada no currículo e na comunicação pública mesmo quando o certificado físico não está atualmente disponível. Deve-se registrar a natureza da fonte, não rebaixar a informação à condição de dúvida.
+Uma informação autobiográfica confirmada por Fabiano integra o currículo e a comunicação pública. Deve-se registrar a natureza da fonte sem rebaixar o dado à condição de dúvida.
 
 # Classes operacionais
 
@@ -35,7 +35,7 @@ Uma informação autobiográfica confirmada por Fabiano pode ser usada no currí
 
 ## Psicologia Transpessoal
 
-Fabiano concluiu a pós-graduação em Psicologia Transpessoal pela FACIS — Faculdade de Ciências da Saúde de São Paulo, entregou o TCC e recebeu o certificado em 2011. A formação foi concluída em 2010; o certificado físico não está atualmente disponível e a instituição encerrou suas atividades. A formação é válida para currículo e comunicação pública. Usar a denominação sem instituição nesta base. Se uma instituição acadêmica exigir comprovação formal no futuro, Fabiano avaliará a forma de atendimento.
+Fabiano concluiu a pós-graduação em Psicologia Transpessoal pela FACIS — Faculdade de Ciências da Saúde de São Paulo em 2010, entregou o TCC e recebeu o certificado em 2011. A formação é válida para currículo e comunicação pública.
 
 ## Psicanálise Integrativa
 
@@ -44,7 +44,7 @@ Fabiano realizou duas formações em Psicanálise Integrativa:
 - uma na SBPI, com Maria de Fátima Mora;
 - outra no Instituto Brasileiro de Transpsicanálise, tendo André Keppe como professor principal.
 
-O vault contém certificado de uma formação e registros complementares de cursos e workshops da Transpsicanálise. A ausência do segundo certificado físico não invalida a formação confirmada pelo autor.
+O vault contém certificado de uma formação e registros complementares de cursos e workshops da Transpsicanálise. As duas formações em Psicanálise Integrativa são confirmadas pelo autor e integram o currículo.
 
 ## PNL
 
@@ -140,6 +140,26 @@ Quando surgir uma nova informação:
 4. preservar o histórico anterior;
 5. não converter o processo de arquivo em fiscalização da vida profissional de Fabiano.
 
+
+# Estado consolidado após as inclusões de 21/08/2026
+
+## Sem pendências curriculares abertas
+
+Estão consolidados:
+
+- Brainspotting: Fases 1 a 5 concluídas;
+- Associação Palas Athena: sequência completa de três módulos concluída;
+- *Máster Iberoamericano en Acupuntura Bioenergética y Moxibustión*: concluído no âmbito CEMETC–Yunnan;
+- *Venia Docente* do CEMETC: recebida em 2014;
+- três cursos on-line de auto-hipnose com Gilda Moura entre 2020 e 2025;
+- *Vivência em Meditação Bodyspotting*: realizada em 2026;
+- Psicologia Transpessoal, duas formações em Psicanálise Integrativa, PNL/SBPNL, Centralma e CRP.
+
+Quando data ou carga horária individual não estiverem informadas no registro consolidado, o campo é omitido. Isso não cria uma pendência nem reduz a validade biográfica do marco confirmado.
+
+## Credenciais com prazo impresso
+
+O vencimento administrativo de uma autorização não apaga o marco histórico. No caso da *Venia Docente*, o dossiê preserva a data e o prazo impressos; o currículo registra o fato histórico de que a credencial foi recebida em 2014, sem afirmar vigência atual.
 
 # Fonte curricular vigente
 
