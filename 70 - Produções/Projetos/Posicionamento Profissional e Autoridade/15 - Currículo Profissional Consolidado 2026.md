@@ -76,7 +76,10 @@ A pergunta que dá unidade ao percurso é:
 | Pós-graduação em Psicologia Transpessoal — FACIS | Formação concluída em 2010, com TCC entregue e certificado emitido em 2011; monografia orientada pela Profª Drª Márcia Tabone | Formação acadêmica concluída; utilizar a denominação e as datas registradas |
 | Pós-graduação em Neurociências e Comportamento — PUCRS | Certificado institucional localizado; emissão em 25/03/2026; TCC aprovado com nota 9,5 | Formação acadêmica frontal |
 | CRP 06/98630 | Registro profissional confirmado | Incluir em publicidade profissional pertinente |
-| Técnico em Reabilitação — modalidade Massagista — EOMA | Diploma localizado; conclusão em 1995; 1.440 horas, incluindo estágio | Formação de origem corporal no currículo ampliado |
+| Técnico em Reabilitação — modalidade Massagista — EOMA | Diploma localizado; conclusão em 1995; 1.440 horas, incluindo 162h de estágio | Formação de origem corporal no currículo ampliado |
+| Curso Intensivo de Shiatsu — Shiozawa Prevenção em Saúde | Certificado localizado; 100h; junho–dezembro de 1994 | Formação corporal estruturante |
+| Estágio no Shiozawa Prevenção em Saúde | Certificado localizado; 2.000h; janeiro de 1995–julho de 1996 | Registrar como estágio documentado, separado da carga do curso de Shiatsu |
+| Curso de Bioenergologia com Formação em Bioenergopatia — Instituto Medeiros | Declaração localizada; conclusão em agosto de 2004; nota 9,0; programa com 114 unidades-aula | Genealogia de estudos sobre consciência e práticas energéticas; não converter unidades-aula em horas nem usar títulos internos como identidade profissional |
 | Formação em Acupuntura Tradicional Chinesa — CEMETRAC | Certificado localizado; 2002–2004; 1.200 horas | Trajetória corporal e integrativa |
 | Formação continuada internacional em *Acupuntura Bioenergética y Moxibustión* — CEMETC/Fundación Europea de Medicina Tradicional China | Certificados dos níveis 1, 2 e 3, certificados gerais de 360h/14,4 ECTS, programas detalhados e matrícula localizados | Formação continuada internacional no currículo ampliado; não converter em título acadêmico brasileiro nem somar cargas potencialmente sobrepostas |
 | *Venia Docente* do CEMETC | Documento localizado; emissão em Valladolid em 08/11/2014, validade impressa até 08/11/2017 e escopo para programas de formação em Acupuntura Bioenergética | Usar em tempo passado como credencial docente histórica; verificar renovação antes de indicar vigência atual |
@@ -87,7 +90,7 @@ A pergunta que dá unidade ao percurso é:
 
 ## Psicanálise e escuta
 
-Fabiano iniciou sua trajetória psicoterapêutica em paralelo às primeiras formações e experiências de atendimento. Realizou duas formações em Psicanálise Integrativa: uma na SBPI, com Maria de Fátima Mora, e outra no Instituto Brasileiro de Transpsicanálise, tendo André Keppe como professor principal. A realização de ambas é confirmada pelo autor. O PDF comprova a conclusão de uma formação em 23/07/2002 e o vault preserva cursos e workshops complementares da Transpsicanálise.
+Fabiano iniciou sua trajetória psicoterapêutica em paralelo às primeiras formações e experiências de atendimento. Realizou duas formações em Psicanálise Integrativa: uma na SBPI/Psicanálise Integrativa Clínica Escola, com Maria de Fátima Mora, e outra no Instituto Brasileiro de Transpsicanálise, tendo André Keppe como professor principal. A primeira formação possui certificado datado de 23/07/2002 e declaração curricular emitida em 31/07/2002, com 294 horas; os documentos são complementares e comprovam a mesma formação. A realização da segunda formação é confirmada pelo autor e o vault preserva cursos e workshops complementares da Transpsicanálise.
 
 A Psicanálise deve aparecer como origem estruturante da escuta, da compreensão do conflito, do sentido e da singularidade — não como uma lista de técnicas equivalentes à Psicologia.
 
@@ -96,7 +99,7 @@ A Psicanálise deve aparecer como origem estruturante da escuta, da compreensão
 - Formação continuada em EMDR desde aproximadamente 2010, com treinamento básico documentado de 50 horas teórico-práticas e 10 horas de supervisão, em março de 2011.
 - Formação continuada em Brainspotting, com Fases 1 a 5 concluídas entre 2011 e 2025. A Fase 3 foi concluída sequencialmente entre as Fases 2 e 4; a Fase 5 corresponde ao treinamento avançado de 24 horas, ministrado por David Grand, on-line ao vivo, de 22 a 24/08/2025.
 - Atualização complementar em Meditação Bodyspotting, workshop on-line de 4 horas com Marília Toscano, realizado em 11/04/2026 e certificado pela ABBSP.
-- Cursos de EMDR, trauma, estados do ego, atenção precoce, estresse traumático continuado, neuroendocrinologia do trauma e transmissão transgeracional.
+- Cursos de EMDR, trauma, estados do ego, atenção precoce, estresse traumático continuado, neuroendocrinologia do trauma e transmissão transgeracional. Entre os registros complementares estão *Quando não há Palavras: Introdução ao Processamento de Trauma Precoce e Apego* (7h, Sandra Paulsen, 2015) e *EMDR e Estados do Ego* (14h, Sandra Paulsen, 2019).
 - Formação em Psicoterapia Integradora e Reprocessamento do Trauma com Mário Salvador e Carmen Cuenca, incluindo programa documentado de 216 horas do Instituto Aleces, Níveis I, II e III do Modelo Aleceia, realizado entre 2020 e 2023.
 - Supervisão mensal em grupo com Mário Salvador, em continuidade em 2026.
 - Estudo presencial anterior com Mário Salvador em Brasília, provavelmente em 2018, e imersões presenciais de três dias em 2025 e 2026, conforme relato do autor.
@@ -114,8 +117,9 @@ A publicidade deve usar “formação em EMDR e Brainspotting” e “formação
 
 A formação corporal não deve ser tratada como prólogo descartável nem apresentada como se fosse Psicologia. Ela é a origem do olhar incorporado que hoje informa a escuta clínica e a educação sobre corpo, estado interno, respiração e presença.
 
-- EOMA: diploma de Técnico em Reabilitação — modalidade Massagista, concluído em 1995, com 1.440 horas.
-- Atuação e estudos no Shiozawa, com práticas corporais orientais, Seitai, Quiropraxia e atendimento clínico corporal.
+- EOMA: diploma de Técnico em Reabilitação — modalidade Massagista, concluído em 1995, com 1.440 horas, incluindo 162h de estágio.
+- Shiozawa Prevenção em Saúde: Curso Intensivo de Shiatsu de 100 horas, de junho a dezembro de 1994, e estágio documentado de 2.000 horas, de janeiro de 1995 a julho de 1996. O curso e o estágio permanecem separados na leitura curricular.
+- Continuidade de atuação e estudos no Shiozawa durante aproximadamente dez anos, com práticas corporais orientais, Seitai, Quiropraxia e atendimento clínico corporal, conforme fonte autobiográfica.
 - Acupuntura Tradicional Chinesa pelo CEMETRAC, de 2002 a 2004, com 1.200 horas, sob direção de Liu Chih Ming.
 - Formação em MTC com Ernesto Garcia/Pró-Salus e outros módulos documentados.
 - Conclusão do *Máster Iberoamericano en Acupuntura Bioenergética y Moxibustión*, certificado em outubro de 2015 no âmbito institucional da Universidad de Medicina Tradicional China de Yunnan, do CEMETC e da Fundación Europea de Medicina Tradicional China.
@@ -123,6 +127,7 @@ A formação corporal não deve ser tratada como prólogo descartável nem apres
 - Em 08/11/2014, recebeu do CEMETC a credencial institucional *Venia Docente* para ministrar programas de formação em Acupuntura Bioenergética; o documento registra validade até 08/11/2017.
 - Formação em Qi Gong, incluindo Ba Duan Jin, Yi Jin Jing, Wu Qin Xi, Liu Zi Jue/Seis Sons de Cura e práticas de respiração e movimento.
 - Sequência completa de três módulos de *Atenção e concentração nas práticas meditativas* pela Associação Palas Athena; módulos 2 e 3 possuem datas documentadas em 2013 e o percurso integral é confirmado por Fabiano.
+- Curso de Bioenergologia com Formação em Bioenergopatia, concluído em agosto de 2004, com nota final 9,0 e programa curricular detalhado. Na versão pública, o curso integra a genealogia de estudos sobre consciência, percepção e práticas energéticas; os títulos institucionais internos permanecem restritos ao dossiê documental.
 - Experiência histórica como instrutor de Reiki e professor de práticas corporais.
 
 Formulação pública recomendada:
@@ -186,7 +191,7 @@ A expressão recomendada é “professor, palestrante e facilitador em cursos li
 
 # Registro documental completo
 
-O conjunto de 117 páginas do arquivo certificados e diplomas.pdf foi auditado e está registrado na pasta:
+O conjunto de 117 páginas do arquivo `certificados e diplomas.pdf` e o PDF complementar de 12 páginas foram auditados e estão registrados na pasta:
 
 - [[12 - Documentos Comprobatórios/00 - Índice de Diplomas e Certificados]]
 - [[12 - Documentos Comprobatórios/10 - Auditoria PDF Certificados e Diplomas 2026]]
@@ -195,6 +200,7 @@ O conjunto de 117 páginas do arquivo certificados e diplomas.pdf foi auditado e
 - [[12 - Documentos Comprobatórios/13 - Dossiê Psicanálise PNL Hipnose e Consciência - Certificados PDF 1998-2022]]
 - [[12 - Documentos Comprobatórios/14 - Dossiê Institucional Docência Centralma PUC-SP e Formação 2002-2026]]
 - [[12 - Documentos Comprobatórios/15 - Universidade São Marcos - Diploma de Psicologia 2010]]
+- [[12 - Documentos Comprobatórios/23 - Complemento Documental Shiozawa Bioenergologia e Formação Histórica 1982-2019]]
 
 O inventário registra páginas, documentos legíveis, carga horária quando identificada e grau de comprovação. Detalhes parcialmente ilegíveis não são utilizados; nenhum dado foi completado por inferência.
 
