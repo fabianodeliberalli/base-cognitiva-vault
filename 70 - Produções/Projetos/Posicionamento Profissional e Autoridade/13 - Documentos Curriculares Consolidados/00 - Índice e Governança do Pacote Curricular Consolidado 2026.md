@@ -30,11 +30,11 @@ Este diretório preserva os arquivos editáveis produzidos após a reconciliaç�
 
 # Hierarquia de governança
 
-1. [[../00 - Governança Curricular - Fonte Única e Derivação por Contexto 2026|Governança Curricular]] — regras procedimentais.
-2. [[../22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026|Matriz Curricular Detalhada]] — fonte de conteúdo integral.
-3. [[../03 - Formação, Evidências e Fontes Documentais|Formação, Evidências e Fontes Documentais]] e pasta `12 - Documentos Comprobatórios` — natureza e rastreabilidade das fontes.
-4. [[../01 - Dossiê Curricular Mestre|Dossiê Curricular Mestre em Markdown]] — síntese extensa e organizada.
-5. [[../15 - Currículo Profissional Consolidado 2026|Currículo Profissional Consolidado]] e [[../18 - Currículo Profissional Ampliado Consolidado - Versão Pública 2026|Currículo Público Ampliado]] — fontes narrativas derivadas por contexto.
+1. [[00 - Governança Curricular - Fonte Única e Derivação por Contexto 2026|Governança Curricular]] — regras procedimentais.
+2. [[22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026|Matriz Curricular Detalhada]] — fonte de conteúdo integral.
+3. [[03 - Formação, Evidências e Fontes Documentais|Formação, Evidências e Fontes Documentais]] e pasta `12 - Documentos Comprobatórios` — natureza e rastreabilidade das fontes.
+4. [[01 - Dossiê Curricular Mestre|Dossiê Curricular Mestre em Markdown]] — síntese extensa e organizada.
+5. [[15 - Currículo Profissional Consolidado 2026|Currículo Profissional Consolidado]] e [[18 - Currículo Profissional Ampliado Consolidado - Versão Pública 2026|Currículo Público Ampliado]] — fontes narrativas derivadas por contexto.
 6. Arquivos DOCX deste diretório — snapshots editoriais para distribuição e edição.
 
 Os arquivos binários não devem governar isoladamente uma nova versão. Se houver divergência, prevalecem a correção explícita mais recente de Fabiano e as fontes em Markdown reconciliadas segundo a ordem acima.
@@ -62,7 +62,7 @@ Os arquivos binários não devem governar isoladamente uma nova versão. Se houv
 6. Executar o gerador com Python e `python-docx`.
 7. Renderizar e verificar os DOCX antes de substituir os arquivos deste diretório.
 8. Calcular novos hashes SHA-256 e registrar tamanho, data, versão e escopo da mudança neste índice.
-9. Atualizar [[../23 - Registro de Reconciliação Curricular e Continuidade 2026|Registro de Reconciliação e Continuidade]].
+9. Atualizar [[23 - Registro de Reconciliação Curricular e Continuidade 2026|Registro de Reconciliação e Continuidade]].
 10. Não editar apenas o DOCX sem repercutir a alteração nas fontes em Markdown.
 
 # Reprodução técnica
@@ -105,4 +105,4 @@ Essas cópias facilitam download e uso em chats, mas o vault GitHub/Obsidian per
 
 Pacote incorporado pelo PR [#11](https://github.com/fabianodeliberalli/base-cognitiva-vault/pull/11), no branch `codex/atualiza-curriculo-brainspotting-palas-mtc-autohipnose-20260821`.
 
-A síntese das inclusões e correções está em [[../23 - Registro de Reconciliação Curricular e Continuidade 2026|Registro de Reconciliação Curricular e Continuidade]].
+A síntese das inclusões e correções está em [[23 - Registro de Reconciliação Curricular e Continuidade 2026|Registro de Reconciliação Curricular e Continuidade]].
