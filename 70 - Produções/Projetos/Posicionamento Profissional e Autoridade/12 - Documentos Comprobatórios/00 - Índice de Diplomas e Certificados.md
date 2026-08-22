@@ -181,3 +181,9 @@ Este índice descreve documentos disponíveis; não delimita sozinho a biografia
 ## Reconciliação curricular encerrada — 21/08/2026
 
 - [[23 - Registro de Reconciliação Curricular e Continuidade 2026]] — registra a atualização transversal e confirma a inexistência de pendências curriculares abertas.
+
+# Documentos curriculares derivados — não são comprovantes
+
+O currículo e o dossiê consolidados em DOCX estão arquivados em [[13 - Documentos Curriculares Consolidados/00 - Índice e Governança do Pacote Curricular Consolidado 2026]].
+
+Esses arquivos organizam e apresentam a trajetória, mas não substituem diplomas, certificados, declarações ou confirmações autobiográficas registradas neste índice. A separação impede que um documento de comunicação seja confundido com sua fonte de evidência.

@@ -1,5 +1,5 @@
 ---
-id: AUT-00
+id: AUT-GOV-00
 titulo: Governança Curricular — Fonte Única e Derivação por Contexto
 tipo: governanca-curricular
 status: vigente
@@ -10,7 +10,7 @@ tags:
   - currículo
   - governança
   - fonte-unica
-  - obisidian
+  - obsidian
   - posicionamento
 ---
 
@@ -94,7 +94,7 @@ Não reduzir a informação a “formação em Psicologia Transpessoal” quando
 
 ## Hipnose
 
-> **Hipnose clínica e terapêutica: formação continuada com estudos junto a Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sophia Bauer.**
+> **Hipnose clínica e terapêutica: formação continuada com estudos junto a Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sofia Bauer.**
 
 Registros que devem permanecer associados:
 
@@ -102,7 +102,7 @@ Registros que devem permanecer associados:
 - Professional & Clinical Hypnosis B1–B3 — 30h, 10–12/09/2021;
 - Professional & Clinical Hypnosis B4–B8 — 70h, 09–15/07/2022;
 - Hypnotic Mastery Bootcamp — 18h, 06–07/08/2022;
-- curso com Sophia Bauer: acesso pago confirmado por registro independente da Hotmart entre agosto de 2023 e fevereiro de 2024.
+- curso com Sofia Bauer: acesso pago confirmado por registro independente da Hotmart entre agosto de 2023 e fevereiro de 2024.
 
 A expressão “estudos e formações integrados à trajetória de psicoterapia, linguagem e mudança” pode explicar a função do eixo, mas não deve substituir a identificação explícita da formação em hipnose clínica e terapêutica.
 
@@ -184,3 +184,28 @@ A instrução padrão para qualquer consulta curricular é:
 O vault não deve funcionar como um único currículo público enciclopédico. A matriz detalhada preserva a totalidade relevante; as versões públicas selecionam camadas sem apagar a existência dos demais registros.
 
 ---
+
+# Governança dos arquivos editáveis consolidados — 21/08/2026
+
+O pacote arquivado em [[13 - Documentos Curriculares Consolidados/00 - Índice e Governança do Pacote Curricular Consolidado 2026]] contém os dois documentos DOCX consolidados e o gerador reproduzível.
+
+## Estatuto desses arquivos
+
+1. Os DOCX são **artefatos editoriais derivados**, destinados a download, envio, edição e apresentação formal.
+2. Eles não substituem a matriz curricular, a matriz de evidências, os dossiês documentais nem as notas narrativas canônicas.
+3. Correções futuras devem ser feitas primeiro nas fontes em Markdown; depois, o gerador deve ser atualizado e os DOCX regenerados.
+4. Toda nova versão deve registrar data, hash, tamanho, escopo da mudança e arquivo de origem no índice do pacote.
+5. Não editar silenciosamente apenas o DOCX, pois isso criaria divergência entre a versão distribuída e o vault.
+6. A confirmação direta de Fabiano continua suficiente para o registro biográfico; não se criam pendências de digitalização para formações confirmadas.
+7. Curso, estágio, supervisão, prática, docência, vínculo e credencial institucional permanecem categorias distintas.
+8. Cargas potencialmente sobrepostas não são somadas automaticamente.
+
+## Ordem de atualização
+
+1. [[22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]];
+2. [[03 - Formação, Evidências e Fontes Documentais]];
+3. dossiê documental pertinente;
+4. [[01 - Dossiê Curricular Mestre]];
+5. [[15 - Currículo Profissional Consolidado 2026]] e versões contextuais;
+6. regeneração e validação dos DOCX;
+7. atualização do índice do pacote e de [[23 - Registro de Reconciliação Curricular e Continuidade 2026]].

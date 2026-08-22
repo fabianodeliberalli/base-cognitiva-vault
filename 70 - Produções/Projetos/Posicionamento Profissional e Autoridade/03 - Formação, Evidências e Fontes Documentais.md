@@ -107,3 +107,9 @@ Os dossiês documentais descrevem o que cada arquivo mostra. Esta matriz acresce
 # Fonte curricular vigente
 
 Para qualquer consulta, revisão ou produção curricular, consultar primeiro [[00 - Governança Curricular - Fonte Única e Derivação por Contexto 2026]] e depois [[22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]]. Esta nota é fonte documental, histórica ou derivada conforme sua finalidade; não deve competir com a matriz como fonte de organização da trajetória.
+
+# Natureza dos documentos curriculares derivados — 21/08/2026
+
+Os arquivos DOCX arquivados em [[13 - Documentos Curriculares Consolidados/00 - Índice e Governança do Pacote Curricular Consolidado 2026]] são produtos editoriais derivados das fontes curriculares do vault.
+
+Eles comprovam o estado consolidado da redação em determinada versão, mas **não são documentos comprobatórios de formação**. Diplomas, certificados, declarações, confirmações autobiográficas e auditorias permanecem registrados segundo sua natureza própria nesta nota e na pasta `12 - Documentos Comprobatórios`.

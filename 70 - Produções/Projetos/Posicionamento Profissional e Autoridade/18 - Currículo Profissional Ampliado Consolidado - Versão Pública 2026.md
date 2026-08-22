@@ -166,3 +166,7 @@ A relação completa de formações, datas, cargas horárias, documentos, duplic
 # Fonte curricular vigente
 
 Para qualquer consulta, revisão ou produção curricular, consultar primeiro [[00 - Governança Curricular - Fonte Única e Derivação por Contexto 2026]] e depois [[22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]]. Esta nota é fonte documental, histórica ou derivada conforme sua finalidade; não deve competir com a matriz como fonte de organização da trajetória.
+
+# Documento editável relacionado — 21/08/2026
+
+A versão DOCX consolidada está em [[13 - Documentos Curriculares Consolidados/Curriculo_Profissional_Consolidado_Fabiano_Deliberalli_2026.docx]]. O arquivo deve ser derivado desta nota, de [[15 - Currículo Profissional Consolidado 2026]] e da matriz detalhada, sem substituir essas fontes.

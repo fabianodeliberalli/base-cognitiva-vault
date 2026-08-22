@@ -93,3 +93,21 @@ Quando data ou carga horária não forem informadas no registro consolidado, o c
 **Não há pendências curriculares abertas.**
 
 Existem próximos trabalhos estratégicos — site, artigo derivado do TCC, Lattes, ORCID, palestra autoral, biblioteca pública e produção editorial —, mas eles não são pendências de validação do percurso.
+
+# Arquivamento do pacote curricular consolidado — 21/08/2026
+
+Foi criado o pacote [[13 - Documentos Curriculares Consolidados/00 - Índice e Governança do Pacote Curricular Consolidado 2026]], contendo:
+
+- [[13 - Documentos Curriculares Consolidados/Curriculo_Profissional_Consolidado_Fabiano_Deliberalli_2026.docx]];
+- [[13 - Documentos Curriculares Consolidados/Dossie_Curricular_Mestre_Fabiano_Deliberalli_2026.docx]];
+- [[13 - Documentos Curriculares Consolidados/build_curriculum_docs.py]];
+- [[13 - Documentos Curriculares Consolidados/requirements.txt]].
+
+Também foram eliminadas divergências residuais localizadas nesta etapa:
+
+- grafia canônica **Sofia Bauer** repercutida nas notas de governança e bios;
+- data da primeira formação em Psicanálise Integrativa corrigida de 23/06/2002 para **23/07/2002** no currículo consolidado;
+- identificação da governança curricular alterada para **AUT-GOV-00**, eliminando duplicidade com a nota LEIA PRIMEIRO;
+- estatuto dos DOCX definido como derivação editorial, sem competir com matriz, evidências ou documentos comprobatórios.
+
+O pacote foi validado quanto à integridade dos arquivos, renderização visual, hierarquia de títulos, acessibilidade e geometria de tabelas.

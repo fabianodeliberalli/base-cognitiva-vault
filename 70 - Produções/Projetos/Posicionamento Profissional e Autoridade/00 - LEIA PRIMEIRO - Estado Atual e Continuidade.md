@@ -65,6 +65,7 @@ Não utilizar formulações que sugiram mais de 30 anos de exercício da Psicolo
 - [[10 - Pendências, Comprovações e Governança]]
 - [[11 - Prompt de Abertura do Projeto Estratégico]]
 - [[12 - Documentos Comprobatórios/00 - Índice de Diplomas e Certificados|Índice de Diplomas e Certificados]]
+- [[13 - Documentos Curriculares Consolidados/00 - Índice e Governança do Pacote Curricular Consolidado 2026|Pacote Curricular Consolidado — DOCX e gerador]]
 - [[12 - Documentos Comprobatórios/15 - Universidade São Marcos - Diploma de Psicologia 2010]]
 - [[15 - Currículo Profissional Consolidado 2026]]
 - [[18 - Currículo Profissional Ampliado Consolidado - Versão Pública 2026]]
@@ -171,3 +172,17 @@ Os documentos ativos de currículo, posicionamento, evidências, uso por context
 5. [[23 - Registro de Reconciliação Curricular e Continuidade 2026]] para conferir o alcance da atualização.
 
 A matriz integral preserva toda a trajetória. As versões públicas continuam seletivas e não devem se tornar inventários enciclopédicos.
+
+# Pacote curricular consolidado arquivado — 21/08/2026
+
+Os documentos editáveis gerados ao final desta reconciliação foram arquivados em [[13 - Documentos Curriculares Consolidados/00 - Índice e Governança do Pacote Curricular Consolidado 2026]].
+
+O pacote contém:
+
+- currículo profissional consolidado em DOCX;
+- Dossiê Curricular Mestre em DOCX;
+- script utilizado para gerar os dois documentos;
+- requisitos técnicos e hashes de integridade;
+- protocolo para futuras revisões e regenerações.
+
+Os arquivos DOCX são snapshots editoriais derivados. A governança continua nesta nota, em [[00 - Governança Curricular - Fonte Única e Derivação por Contexto 2026]], na [[22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]] e nas respectivas notas curriculares em Markdown.

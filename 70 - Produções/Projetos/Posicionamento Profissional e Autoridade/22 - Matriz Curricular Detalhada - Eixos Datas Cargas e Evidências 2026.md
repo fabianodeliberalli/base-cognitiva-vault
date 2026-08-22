@@ -656,3 +656,7 @@ Antes de gerar qualquer currículo, bio ou apresentação:
 7. não apagar um marco histórico por não ser o eixo frontal da persona;
 8. não apresentar uma credencial histórica como vigente sem documento atual;
 9. revisar o resultado contra esta matriz antes da publicação.
+
+# Snapshot editorial consolidado — 21/08/2026
+
+Os arquivos DOCX produzidos a partir desta matriz estão em [[13 - Documentos Curriculares Consolidados/00 - Índice e Governança do Pacote Curricular Consolidado 2026]]. A matriz permanece como fonte de conteúdo detalhado; os DOCX registram uma versão editorial derivada e não devem receber alterações isoladas.

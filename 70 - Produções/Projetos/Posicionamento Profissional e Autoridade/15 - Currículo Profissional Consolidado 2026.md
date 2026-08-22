@@ -276,7 +276,7 @@ A nota [[12 - Documentos Comprobatórios/19 - Auditoria Página a Página - Cert
 - Corpo e movimento: Reflexologia e Alinhamento da Coluna, Técnicas de Alinhamento Postural/Reflexologia/Relaxamento, Drenagem Linfática, manipulações de clavícula/glenoumeral e bacia, fitoterapia, Seitai e Quiropraxia.
 - Trauma: além dos registros já sintetizados, o PDF traz EMDR nível I de 20 horas em 07/05/2010, EMDR Intermediário de 20 horas em 24/10/2010, Neurobiologia Interpessoal de 16 horas com FOCUS e Atualizações em Neurobiologia Interpessoal de 16 horas presenciais + 16 créditos em 10/11/2013.
 - PNL: os documentos legíveis identificam Trivium — Practitioner de 112 horas e Master Practitioner de 80 horas, ambos em 2001. Fabiano confirma também Practitioner anterior realizado na SBPNL; trata-se de formação distinta, cuja fonte atual é autobiográfica.
-- Psicanálise: o certificado legível da p. 104 informa conclusão em 23/07/2002. Registros anteriores que indicavam 23/06/2002 devem ser corrigidos.
+- Psicanálise: o certificado legível da p. 104 informa conclusão em 23/07/2002. Registros anteriores que indicavam 23/07/2002 devem ser corrigidos.
 - Reiki e repertórios de consciência: primeiro e segundo graus de Usui Shiki Ryoho, Karuna Reiki Master registrado, Karuna Ki–Tera Mai, Melchizedek, Tameana, apometria, radiestesia e workshops de meditação/Aleph. Permanecem como genealogia histórica e não como eixo de abertura da persona.
 
 ### Regra narrativa
@@ -330,3 +330,9 @@ Para qualquer consulta, revisão ou produção curricular, consultar primeiro [[
 - **CEMETC–Yunnan:** certificado conclusivo do *Máster Iberoamericano en Acupuntura Bioenergética y Moxibustión*, outubro de 2015, vinculado documentalmente à Universidad de Medicina Tradicional China de Yunnan, ao CEMETC e à Fundación Europea de Medicina Tradicional China.
 - **Docência em auto-hipnose:** três cursos on-line ministrados em parceria com Gilda Moura entre 2020 e 2025.
 - **Fonte detalhada:** [[12 - Documentos Comprobatórios/22 - Atualização Brainspotting Palas Athena CEMETC Yunnan e Auto-Hipnose 2025-2026]].
+
+# Arquivo para download e edição — 21/08/2026
+
+- [[13 - Documentos Curriculares Consolidados/Curriculo_Profissional_Consolidado_Fabiano_Deliberalli_2026.docx]]
+
+Este DOCX é a versão editorial consolidada para site, apresentações formais, propostas e derivações contextuais. Alterações futuras devem seguir o protocolo de [[13 - Documentos Curriculares Consolidados/00 - Índice e Governança do Pacote Curricular Consolidado 2026]].
