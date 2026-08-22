@@ -51,9 +51,9 @@ Essa pergunta se desenvolve em cinco movimentos:
 
 ## Psicoterapia, trauma e reprocessamento
 
-- Duas formações em Psicanálise Integrativa: uma na SBPI, com Maria de Fátima Mora, e outra no Instituto Brasileiro de Transpsicanálise, tendo André Keppe como professor principal. A realização das duas formações é confirmada pelo autor; o vault contém certificado de uma formação e registros complementares de cursos e workshops da Transpsicanálise.
+- Duas formações em Psicanálise Integrativa: uma na SBPI/Psicanálise Integrativa Clínica Escola, com Maria de Fátima Mora, e outra no Instituto Brasileiro de Transpsicanálise, tendo André Keppe como professor principal. A primeira formação possui certificado datado de 23/07/2002 e declaração curricular emitida em 31/07/2002, com 294 horas; os dois documentos comprovam a mesma formação. A realização da segunda formação é confirmada pelo autor e o vault preserva cursos e workshops complementares da Transpsicanálise.
 - Formação e prática histórica em psicoterapia breve e referenciais winnicottianos.
-- Formação continuada em EMDR e Brainspotting desde aproximadamente 2010. Em Brainspotting, concluiu as Fases 1 a 5 entre 2011 e 2025; a Fase 3 foi realizada sequencialmente entre as Fases 2 e 4 e a Fase 5 foi um treinamento avançado de 24 horas com David Grand, em agosto de 2025.
+- Formação continuada em EMDR e Brainspotting desde aproximadamente 2010. O eixo EMDR inclui treinamento básico, supervisão, estados do ego, trauma infantil, dissociação, apego e atualizações. Entre os registros complementares estão *Quando não há Palavras: Introdução ao Processamento de Trauma Precoce e Apego* (7h, Sandra Paulsen, 2015) e *EMDR e Estados do Ego* (14h, Sandra Paulsen, 2019). Em Brainspotting, concluiu as Fases 1 a 5 entre 2011 e 2025; a Fase 3 foi realizada sequencialmente entre as Fases 2 e 4 e a Fase 5 foi um treinamento avançado de 24 horas com David Grand, em agosto de 2025.
 - Formação em Psicoterapia de Integração e Reprocessamento do Trauma pelo Instituto ALECES, com Mário Salvador e Carmen Cuenca, realizada entre 2020 e 2023.
 - Supervisões mensais em grupo com Mário Salvador, em continuidade em 2026.
 - Formação presencial com Mário Salvador em Brasília documentada em 2018, seguida de atividade formativa documentada em 2019.
@@ -69,7 +69,7 @@ Essa pergunta se desenvolve em cinco movimentos:
 ## Corpo, práticas integrativas e Medicina Tradicional Chinesa
 
 - Técnico em Reabilitação — modalidade Massagista, pela Escola Oriental de Massagem e Acupuntura — EOMA, concluído em 1995, com 1.440 horas conforme diploma apresentado.
-- Atuação e formação no Shiozawa Prevenção em Saúde com Mariko Sato, incluindo práticas corporais orientais; período referido de aproximadamente dez anos.
+- Shiozawa Prevenção em Saúde: Curso Intensivo de Shiatsu de 100 horas, realizado de junho a dezembro de 1994; estágio documentado de 2.000 horas, realizado de janeiro de 1995 a julho de 1996; certificado emitido em 07/12/1996. Curso e estágio são registrados separadamente. O percurso prosseguiu em atendimento e estudos corporais no Shiozawa durante aproximadamente dez anos, conforme fonte autobiográfica.
 - Acupuntura Tradicional Chinesa pelo CEMETRAC, de 2002 a 2004, com 1.200 horas, sob direção de Liu Chih Ming.
 - Estudos na Pró-Salus Vitae com Ernesto Garcia González e Pedro Pablo Arias Capdet.
 - Conclusão do *Máster Iberoamericano en Acupuntura Bioenergética y Moxibustión*, certificado em outubro de 2015 no âmbito institucional da Universidad de Medicina Tradicional China de Yunnan, do CEMETC e da Fundación Europea de Medicina Tradicional China, com Carlos Nogueira Pérez.
@@ -83,7 +83,9 @@ Essa pergunta se desenvolve em cinco movimentos:
 - Practitioner de 112 horas e Master Practitioner de 80 horas em PNL pelo Trivium, ambos documentados em 2001.
 - Formação em Constelação Familiar com Gabriel de Velasco Valenzuela Vázquez, vinculada à Universidad Sistémica de Iberoamérica/Centro Constela Internacional, conforme currículo histórico.
 - Sequência completa de três módulos de *Atenção e concentração nas práticas meditativas* pela Associação Palas Athena; módulos 2 e 3 possuem datas documentadas em 2013 e o percurso integral é confirmado por Fabiano.
+- Curso de Bioenergologia com Formação em Bioenergopatia, pelo Instituto Medeiros de Ensino Livre e Pesquisas em Ciências Avançadas, concluído em agosto de 2004, nota final 9,0; declaração emitida em 29/11/2004. O programa anexo registra 114 unidades-aula, sem equivalência horária total declarada. Os títulos institucionais internos “Pesquisador Bioenergólogo” e “Terapeuta Bioenergopata” permanecem apenas na literalidade documental.
 - Estudos em Biopsicologia, Bioenergética/Core Energetics, práticas meditativas, estados ampliados de consciência e outros repertórios integrativos.
+- Registros históricos adicionais: Leader Training (23/10/1999), Reiki Master (30/09/2000) e certificados de graduação em Aikido (13/06/1999) e Wado-Ryu Karatê-Dô (14/09/1982), preservados como genealogia de desenvolvimento e movimento.
 
 # Experiência profissional
 
@@ -147,7 +149,9 @@ A auditoria do arquivo [[12 - Documentos Comprobatórios/10 - Auditoria PDF Cert
 - pós-graduação em Neurociências e Comportamento pela PUCRS: certificado localizado, conclusão registrada em 25/03/2026;
 - EMDR, Brainspotting, Neurobiologia Interpessoal e módulos com Mário Salvador: certificados e declarações documentais localizados em diferentes páginas;
 - MTC, Qi Gong e Acupuntura Bioenergética: módulos, cargas e autorização docente do CEMETC documentados;
-- Psicanálise Integrativa: duas formações confirmadas pelo autor; certificado de uma formação e registros complementares da Transpsicanálise localizados;
+- Shiozawa: Curso Intensivo de Shiatsu de 100h e estágio de 2.000h documentados, com períodos e naturezas separados;
+- Bioenergologia/Bioenergopatia: denominação, conclusão em 2004, nota, títulos internos e programa curricular registrados;
+- Psicanálise Integrativa: primeira formação documentada por certificado de 23/07/2002 e declaração curricular de 31/07/2002, 294h; segunda formação confirmada pelo autor; registros complementares da Transpsicanálise localizados;
 - PNL: Practitioner e Master Practitioner pelo Trivium documentados; Practitioner anterior na SBPNL confirmado pelo autor como formação distinta;
 - aula convidada na PUC-SP e licença sanitária histórica do Centralma/Bioquantum documentadas; continuidade empresarial atual da Centralma confirmada pelo autor.
 
@@ -156,7 +160,7 @@ A diversidade permanece organizada por camadas: identidade psicológica atual, f
 
 ## Fonte narrativa consolidada
 
-A versão de referência para divulgação e derivação de currículos é [[15 - Currículo Profissional Consolidado 2026]]. Ela incorpora a auditoria de 117 páginas e reorganiza a trajetória por camadas.
+A versão de referência para divulgação e derivação de currículos é [[15 - Currículo Profissional Consolidado 2026]]. Ela incorpora a auditoria de 117 páginas, o complemento documental de 12 páginas registrado em [[12 - Documentos Comprobatórios/23 - Complemento Documental Shiozawa Bioenergologia e Formação Histórica 1982-2019]] e reorganiza a trajetória por camadas.
 
 
 # Governança de fonte autobiográfica — normalização de 21/08/2026
