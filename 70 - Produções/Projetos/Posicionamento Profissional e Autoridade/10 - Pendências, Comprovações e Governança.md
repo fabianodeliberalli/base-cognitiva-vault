@@ -44,7 +44,7 @@ Fabiano realizou duas formações em Psicanálise Integrativa:
 - uma na SBPI, com Maria de Fátima Mora;
 - outra no Instituto Brasileiro de Transpsicanálise, tendo André Keppe como professor principal.
 
-O vault contém certificado de uma formação e registros complementares de cursos e workshops da Transpsicanálise. As duas formações em Psicanálise Integrativa são confirmadas pelo autor e integram o currículo.
+A primeira formação possui certificado de 23/07/2002 e declaração curricular de 31/07/2002, com 294 horas; ambos comprovam a mesma formação. A segunda formação e os professores são confirmados pelo autor, e o vault contém registros complementares de cursos e workshops da Transpsicanálise. As duas formações integram o currículo.
 
 ## PNL
 
@@ -73,7 +73,10 @@ Documentos enviados ao vault cumprem função de registro e memória. Não devem
 - *Venia Docente* e níveis CEMETC documentados;
 - conjunto relevante de EMDR, Brainspotting, MTC, Qi Gong, PNL Trivium e formação corporal auditado;
 - licença sanitária histórica do Centralma/Bioquantum localizada;
-- data correta do certificado de Psicanálise Integrativa: 23/07/2002.
+- data correta do certificado de Psicanálise Integrativa: 23/07/2002; declaração curricular complementar de 31/07/2002, 294h;
+- Shiozawa: Curso Intensivo de Shiatsu de 100h e estágio documentado de 2.000h, com períodos separados;
+- Bioenergologia/Bioenergopatia: curso concluído em agosto de 2004, nota 9,0 e programa curricular registrado;
+- Sandra Paulsen: cursos de trauma precoce/apego (7h, 2015) e EMDR/Estados do Ego (14h, 2019) documentados.
 
 # Questões operacionais atuais
 
@@ -153,7 +156,10 @@ Estão consolidados:
 - *Venia Docente* do CEMETC: recebida em 2014;
 - três cursos on-line de auto-hipnose com Gilda Moura entre 2020 e 2025;
 - *Vivência em Meditação Bodyspotting*: realizada em 2026;
-- Psicologia Transpessoal, duas formações em Psicanálise Integrativa, PNL/SBPNL, Centralma e CRP.
+- Psicologia Transpessoal, duas formações em Psicanálise Integrativa, PNL/SBPNL, Centralma e CRP;
+- Shiozawa: Curso Intensivo de Shiatsu de 100h e estágio de 2.000h;
+- Bioenergologia com Formação em Bioenergopatia, 2004;
+- complemento documental registrado em [[12 - Documentos Comprobatórios/23 - Complemento Documental Shiozawa Bioenergologia e Formação Histórica 1982-2019]].
 
 Quando data ou carga horária individual não estiverem informadas no registro consolidado, o campo é omitido. Isso não cria uma pendência nem reduz a validade biográfica do marco confirmado.
 
