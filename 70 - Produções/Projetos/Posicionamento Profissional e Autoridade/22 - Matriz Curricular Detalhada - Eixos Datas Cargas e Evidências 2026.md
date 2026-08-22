@@ -138,8 +138,10 @@ Não substituir esta formulação por “formação em Psicologia Transpessoal�
 ## 5. Psicanálise Integrativa
 
 - **Primeira formação:** Psicanálise Integrativa Clínica Escola.
-- **Data documentada:** conclusão em 23/07/2002.
-- **Documento:** certificado localizado no inventário.
+- **Certificado de conclusão:** datado de 23/07/2002.
+- **Declaração curricular detalhada:** emitida em 31/07/2002, com carga total de 294h.
+- **Conteúdos registrados na declaração:** fundamentos psicanalíticos, Freud, Jung, pós e neofreudianos, Lacan, Reich, sexualidade, noções de hipnose, PNL, técnicas de atendimento, ética e monografia.
+- **Regra documental:** certificado e declaração são documentos complementares da mesma primeira formação; não contar como duas formações.
 - **Segunda formação:** formação em Psicanálise Integrativa no Instituto Brasileiro de Transpsicanálise.
 - **Professor principal:** André Keppe.
 - **Base autobiográfica:** Fabiano confirma duas formações em Psicanálise Integrativa, com estágios e início de atendimentos psicoterapêuticos em paralelo às formações iniciais.
@@ -170,7 +172,9 @@ A Psicanálise deve ser apresentada como formação e linhagem de escuta, sem se
 - **EMDR Clínico — manejo teórico-prático:** 20h presenciais + 20h de créditos, Brasília, 03/02/2013.
 - **Supervisão de casos em EMDR:** 20h, Brasília, 03/02/2013.
 - **Protocolos de EMDR para atenção precoce e estresse traumático continuado:** 14h, São Paulo, 16/02/2019.
-- **Cursos complementares:** trauma, estados do ego, atenção precoce, dissociação, neuroendocrinologia e transmissão transgeracional.
+- **EMDR e Estados do Ego:** 14h, com Sandra Paulsen, São Paulo, 04–05/04/2019.
+- **Quando não há Palavras — Introdução ao Processamento de Trauma Precoce e Apego:** 7h, com Sandra Paulsen, III Congresso Brasileiro de EMDR, São Paulo, 02/11/2015.
+- **Cursos complementares:** trauma, estados do ego, atenção precoce, dissociação, apego, neuroendocrinologia e transmissão transgeracional.
 
 ### Atualizações e eventos
 
@@ -259,15 +263,20 @@ Há certificados históricos de terapeuta certificado EMDR com validade impressa
 - Técnicas de Alinhamento Postural, Reflexologia e Relaxamento: 60h/aula, 26/03–25/06/1995.
 - Reflexologia e Alinhamento da Coluna Vertebral: 60h, março–julho de 1996.
 - Drenagem Linfática: 20h, abril–junho de 1996.
-- Outros documentos EOMA/Shiozawa: títulos parcialmente legíveis, mantidos no inventário até nova conferência.
+- Os registros do Shiozawa são tratados separadamente abaixo, distinguindo curso, estágio, experiência profissional e docência.
 
-## 2. Shiozawa, Seitai e Quiropraxia
+## 2. Shiozawa, Shiatsu, Seitai e Quiropraxia
 
-- Experiência cotidiana de atendimento corporal e estudos no Shiozawa, durante aproximadamente dez anos.
+- **Shiozawa Prevenção em Saúde — Curso Intensivo de Shiatsu:** 100h, realizado de junho a dezembro de 1994.
+- **Estágio documentado no Shiozawa:** 2.000h, realizado de janeiro de 1995 a julho de 1996.
+- **Emissão do certificado:** São Paulo, 07/12/1996.
+- **Regra de contagem:** as 2.000h pertencem ao estágio documentado e permanecem separadas das 100h do curso; não somar como uma única formação.
+- **Continuidade profissional:** experiência cotidiana de atendimento corporal e estudos no Shiozawa durante aproximadamente dez anos, conforme fonte autobiográfica.
 - **Shiatsu Yasuragi/Japan Sotai Institute — Sotai/Reeducação Postural Integral:** nível básico, fevereiro de 2015.
 - **EOMA/Instituto Shioda — Chi Kung e Massagem Quiroprática/Seitai com Energização:** 01–07/07/2017.
 - **Nível II de Massagem Quiroprática/Seitai com Energização:** 10–16/02/2018, com Mestre Kenichi Shioda.
 - **Experiência didática:** curso sobre Seitai e Quiropraxia durante o período de atuação no Shiozawa.
+- **Função curricular:** o curso e o estágio documentam a intensidade da base corporal anterior à Psicologia e devem constar do dossiê e das versões ampliadas do currículo.
 
 ## 3. Acupuntura Tradicional Chinesa — CEMETRAC
 
@@ -416,6 +425,7 @@ Este eixo registra uma formação sistêmica extensa, sequencial e relevante par
 
 - **Usui Shiki Ryoho — primeiro grau:** 22/08/1993.
 - **Usui Shiki Ryoho — segundo grau:** 21/11/1993.
+- **Reiki Master:** Clínica Integrativa Michael/Grupo de Desenvolvimento Espiritual “Júlia Magalhães”, São Paulo, 30/09/2000.
 - **Registered Karuna Reiki Master:** International Center for Reiki Training, registro BRM037, 03/06/2001.
 - **Karuna Ki–Tera Mai, níveis I e II:** data registrada como 29/10, ano parcialmente ilegível.
 - **Cursos de Reiki:** múltiplas turmas ministradas por Fabiano em período anterior à docência on-line.
@@ -425,7 +435,9 @@ Este eixo registra uma formação sistêmica extensa, sequencial e relevante par
 
 - **Radiestesia básico:** 15h/aula, 13/09/1998.
 - **Curso de Radiestesia:** 90h/aula, São Paulo, 14/04/2002, com Antonio Rodrigues/equipe.
-- **Bioenergologia:** curso livre concluído em agosto de 2004; títulos internos “Bioenergólogo” e “Terapeuta Bioenergopata”.
+- **Bioenergologia:** **Curso de Bioenergologia com Formação em Bioenergopatia**, Instituto Medeiros de Ensino Livre e Pesquisas em Ciências Avançadas; concluído em agosto de 2004, nota final 9,0; declaração emitida em 29/11/2004.
+- **Programa curricular:** anexo com 114 unidades-aula documentadas, distribuídas em conteúdos de matéria, origem do universo e da vida, percepção, consciência, corpo, campos energéticos, projeção extrafísica, Bioenergopatia e Psicobioenergia. Como o documento usa unidades mistas de “aulas” e “horas” e não informa carga total equivalente, não converter automaticamente esse total em horas.
+- **Títulos institucionais internos:** “Pesquisador Bioenergólogo” e “Terapeuta Bioenergopata”. Preservar apenas na literalidade documental; em apresentação pública, usar o nome do curso, não os títulos como identidade profissional.
 - **PHVIDA — Sistema de Equilíbrio Energético:** curso para Healer, com Carlos Florêncio.
 - **Apometria Quântica — A Tecnologia do Espírito:** com Carina Greco.
 - **Tameana — Pleiadian Connection:** níveis 1 e 2 e prática do Pojá, 28/09/2018.
@@ -441,6 +453,13 @@ Este eixo registra uma formação sistêmica extensa, sequencial e relevante par
 - **Gilda Moura — Recuperação de Memórias em Pacientes que Vivenciaram Experiências Extraordinárias ou Anômalas:** 16h, 21–22/10/2017.
 - **Função curricular:** genealogia intelectual e experiencial dos estudos de consciência, espiritualidade e fenômenos incomuns.
 - **Regra:** workshops e palestras não devem ser apresentados como formação científica, título acadêmico ou validação biomédica.
+
+## Outros marcos históricos de desenvolvimento e movimento
+
+- **Leader Training:** Núcleo Renascer Treinamento e Consultoria, Atibaia, 23/10/1999; carga não informada.
+- **Federação Paulista de Aikido — FEPAI:** certificado de promoção/graduação, 13/06/1999; a graduação não é publicada por insuficiência de legibilidade da cópia.
+- **Wado-Ryu Karate-Do Renmei do Brasil:** certificado de graduação, São Paulo, 14/09/1982; a graduação não é publicada por insuficiência de legibilidade da cópia.
+- **Função curricular:** registros de genealogia corporal e desenvolvimento pessoal; pertencem ao dossiê mestre, não à abertura do currículo profissional.
 
 ---
 
@@ -579,6 +598,9 @@ Não somar:
 8. As experiências didáticas começaram antes da docência on-line recente: Reiki, Seitai/Quiropraxia, PUC-SP, Centralma e assistência a Gilda Moura.
 9. PNL não deve ser apagada: deve ser organizada no eixo de linguagem, comunicação e mudança.
 10. Reiki, constelações, radiestesia e outros repertórios não devem desaparecer do dossiê; devem ocupar o eixo histórico adequado, sem liderar a persona clínica.
+11. O Shiozawa deve ser registrado com precisão: Curso Intensivo de Shiatsu de 100h, junho–dezembro de 1994, e estágio documentado de 2.000h, janeiro de 1995–julho de 1996; curso e estágio são categorias separadas.
+12. A Bioenergologia deve aparecer no dossiê com a denominação completa, conclusão em agosto de 2004, nota 9,0 e programa de 114 unidades-aula, sem conversão automática para horas.
+13. A primeira Psicanálise Integrativa possui certificado de 23/07/2002 e declaração curricular de 31/07/2002, com 294h; os dois documentos comprovam a mesma formação.
 
 # Formulações públicas canônicas
 
@@ -618,6 +640,7 @@ Não somar:
 - [[12 - Documentos Comprobatórios/19 - Auditoria Página a Página - Certificados e Diplomas 2026]]
 - [[12 - Documentos Comprobatórios/20 - Novos Registros Documentais - ALECES e Deb Dana 2023]]
 - [[12 - Documentos Comprobatórios/22 - Atualização Brainspotting Palas Athena CEMETC Yunnan e Auto-Hipnose 2025-2026]]
+- [[12 - Documentos Comprobatórios/23 - Complemento Documental Shiozawa Bioenergologia e Formação Histórica 1982-2019]]
 - [[12 - Documentos Comprobatórios/21 - Psicologia Transpessoal - FACIS - Monografia e Certificado 2010-2011]]
 
 # Regra de produção futura
