@@ -137,6 +137,18 @@ Base: história incomum, temas relevantes e capacidade de tradução. Risco: cor
 - **Deb Dana e regulação autonômica:** pode ser apresentado, quando pertinente, o curso documentado de 12 horas *Navigating the Nervous System: A Polyvagal Approach to Clinical Work*, concluído em setembro de 2023. O certificado não informa o formato.
 - Ambas reforçam o eixo corpo–relação–regulação; não substituem a formação em Psicologia, o CRP ou a supervisão clínica.
 
+# Uso estratégico das formações consolidadas em 21/08/2026
+
+| Ativo | Função principal de autoridade | Prioridade pública |
+|---|---|---|
+| Brainspotting — Fases 1 a 5 | Profundidade longitudinal em trauma, processamento e presença clínica | Alta em currículo clínico, CEEP e formação profissional |
+| *Máster Iberoamericano* CEMETC–Yunnan | Densidade, continuidade e inserção internacional no eixo corpo/MTC | Muito alta em produtos de MTC, Qi Gong, respiração e corpo; alta no currículo ampliado; secundária na mini bio clínica |
+| Palas Athena — três módulos | Repertório formativo em atenção, meditação e consciência | Moderada; funciona como sustentação, não como credencial frontal |
+| Três cursos de auto-hipnose com Gilda Moura | Experiência pedagógica digital e capacidade de tradução prática | Alta em currículo docente, mídia, produtos digitais e dossiê de palestrante |
+| Bodyspotting com Marília Toscano | Atualização complementar na interseção entre meditação e Brainspotting | Complementar; usar em versões detalhadas |
+
+A regra de hierarquia permanece: **identidade frontal primeiro; formações de sustentação depois; genealogia completa nos documentos ampliados**. O objetivo não é exibir acúmulo, mas demonstrar coerência, continuidade e capacidade autoral.
+
 # Princípios de linguagem pública
 
 - Começar pelo problema humano, não pela lista de formações.
