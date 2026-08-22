@@ -55,7 +55,7 @@ Seus interesses atuais de estudo incluem neurofenomenologia, experiência incorp
 
 - **Psicanálise Integrativa:** duas formações, incluindo uma realizada na SBPI, com Maria de Fátima Mora, e outra no Instituto Brasileiro de Transpsicanálise, com André Keppe como professor principal.
 - **EMDR:** formação continuada e integração do método ao repertório clínico de trauma e reprocessamento.
-- **Brainspotting:** formação continuada, com Fases 1 a 5 concluídas entre 2011 e 2025. A Fase 5 foi um treinamento avançado de 24 horas, ministrado por David Grand; a Fase 3 foi concluída na sequência formativa e seu certificado aguarda digitalização.
+- **Brainspotting:** formação continuada, com Fases 1 a 5 concluídas entre 2011 e 2025. A Fase 5 foi um treinamento avançado de 24 horas, ministrado por David Grand; a Fase 3 foi concluída na sequência formativa.
 - **Meditação Bodyspotting:** workshop complementar de 4 horas com Marília Toscano, realizado em 2026 e certificado pela ABBSP.
 - **Psicoterapia de Integração e Reprocessamento do Trauma — Instituto Aleces:** programa de 216 horas, realizado entre 2020 e 2023, com Mário Salvador e Carmen Cuenca.
 - **Supervisão clínica continuada:** supervisão mensal em grupo com Mário Salvador, além de estudos presenciais anteriores e imersões de três dias realizadas em 2025 e 2026.
@@ -76,7 +76,7 @@ Antes da graduação em Psicologia, Fabiano construiu uma experiência extensa c
 - **CEMETC — Centro de Enseñanza de la Medicina Tradicional China:** formação internacional continuada em *Acupuntura Bioenergética y Moxibustión*, com níveis 1, 2 e 3, programas curriculares documentados e certificados gerais de 360 horas/14,4 créditos ECTS.
 - **Venia Docente do CEMETC:** credencial institucional recebida em Valladolid, em 8 de novembro de 2014, para ministrar os programas de formação em Acupuntura Bioenergética estabelecidos pela instituição.
 - **Qi Gong, respiração e movimento:** formações em práticas de regulação, presença corporal, atenção e circulação do movimento, incluindo módulos de instrutor e práticas específicas.
-- **Associação Palas Athena:** sequência completa de três módulos de *Atenção e concentração nas práticas meditativas*; módulos 2 e 3 documentados em 2013 e módulo 1 concluído, com certificado aguardando digitalização.
+- **Associação Palas Athena:** sequência completa de três módulos de *Atenção e concentração nas práticas meditativas*; módulos 2 e 3 possuem datas documentadas em 2013 e o percurso integral é confirmado por Fabiano.
 - **Seitai, quiropraxia e práticas corporais orientais:** estudos e atuação cotidiana ao longo da trajetória no Shiozawa, durante aproximadamente dez anos.
 - **Reiki e práticas energéticas:** cursos, práticas e formação de alunos em período anterior à docência em Psicologia.
 
