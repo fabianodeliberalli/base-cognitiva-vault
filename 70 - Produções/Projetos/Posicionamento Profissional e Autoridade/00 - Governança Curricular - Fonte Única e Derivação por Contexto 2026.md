@@ -59,6 +59,7 @@ Define se cada informação é documental, autobiográfica, combinada, históric
 - [[12 - Documentos Comprobatórios/13 - Dossiê Psicanálise PNL Hipnose e Consciência - Certificados PDF 1998-2022]]
 - [[12 - Documentos Comprobatórios/14 - Dossiê Institucional Docência Centralma PUC-SP e Formação 2002-2026]]
 - [[12 - Documentos Comprobatórios/20 - Novos Registros Documentais - ALECES e Deb Dana 2023]]
+- [[12 - Documentos Comprobatórios/23 - Complemento Documental Shiozawa Bioenergologia e Formação Histórica 1982-2019]]
 - [[12 - Documentos Comprobatórios/21 - Psicologia Transpessoal - FACIS - Monografia e Certificado 2010-2011]]
 
 Essas notas descrevem os documentos. Elas não substituem a matriz curricular como fonte de organização da trajetória.
@@ -133,6 +134,9 @@ Qualificar a função por projeto ou evento. Não converter aula convidada na PU
 - Pós-graduação em Neurociências e Comportamento pela PUCRS: concluída em 2026; certificado localizado; TCC aprovado com nota 9,5.
 - EMDR e Brainspotting: formação continuada documentada; certificações históricas com validade impressa devem ser tratadas separadamente.
 - Deb Dana: curso documentado de 12h, setembro de 2023.
+- Shiozawa: Curso Intensivo de Shiatsu de 100h e estágio documentado de 2.000h, registrados separadamente.
+- Bioenergologia: Curso de Bioenergologia com Formação em Bioenergopatia, concluído em agosto de 2004; programa de 114 unidades-aula, sem conversão automática em horas.
+- Psicanálise Integrativa: certificado de 23/07/2002 e declaração de 31/07/2002, 294h, referentes à mesma primeira formação.
 - Programa Aleces: 216h, 2020–2023; certificado de 90h é componente e não carga adicional.
 - Supervisão mensal com Mário Salvador: formação continuada atual, distinta de cursos certificados.
 - Centralma: empresa atual confirmada por Fabiano; atuação presencial histórica encerrada em 2020.
@@ -155,7 +159,7 @@ Quando surgir uma nova informação:
 
 # Fatos consolidados de consulta obrigatória — atualização de 21/08/2026
 
-Além da matriz, consultar [[12 - Documentos Comprobatórios/22 - Atualização Brainspotting Palas Athena CEMETC Yunnan e Auto-Hipnose 2025-2026]] quando a demanda envolver trauma, meditação, Medicina Tradicional Chinesa ou docência.
+Além da matriz, consultar [[12 - Documentos Comprobatórios/22 - Atualização Brainspotting Palas Athena CEMETC Yunnan e Auto-Hipnose 2025-2026]] quando a demanda envolver Brainspotting, meditação, CEMETC–Yunnan ou auto-hipnose. Consultar também [[12 - Documentos Comprobatórios/23 - Complemento Documental Shiozawa Bioenergologia e Formação Histórica 1982-2019]] quando a demanda envolver origem corporal, Shiozawa, Shiatsu, estágio, Bioenergologia, primeira formação em Psicanálise Integrativa, Sandra Paulsen, Reiki ou marcos históricos de movimento.
 
 Estão consolidados e não devem ser reabertos como dúvida:
 
