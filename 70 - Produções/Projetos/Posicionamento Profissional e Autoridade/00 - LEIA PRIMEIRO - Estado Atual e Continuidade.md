@@ -34,7 +34,7 @@ Quando organizada como percurso, a trajetória deixa de parecer dispersa e passa
 
 Formulação temporal obrigatória:
 
-> Mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas, e atuação como psicólogo desde 2010.
+> Mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas e consolidada com a Psicologia.
 
 Não utilizar formulações que sugiram mais de 30 anos de exercício da Psicologia.
 
@@ -86,7 +86,7 @@ Não utilizar formulações que sugiram mais de 30 anos de exercício da Psicolo
 - fontes curriculares inventariadas;
 - curso de Neurobiologia Interpessoal documentado e curso com Deb Dana confirmado por certificado de 12 horas, em setembro de 2023;
 - auditoria documental de 117 páginas de certificados e diplomas concluída;
-- governança de fontes normalizada: a ausência atual de um certificado físico não invalida informação autobiográfica confirmada pelo autor para currículo e comunicação pública;
+- governança de fontes normalizada: informações autobiográficas confirmadas pelo autor integram a fonte curricular e a comunicação pública;
 - formulação pública canônica escolhida e versões contextuais consolidadas;
 - arquitetura do site consolidada: Fabiano como identidade central; Centralma como empresa atual e eixo clínico on-line; *Traduzindo o Ser Humano* como eixo educacional; CEEP como educação continuada;
 - próximo passo: executar a reestruturação do site em homologação e avançar para infraestrutura de credibilidade e produção editorial.
@@ -143,13 +143,13 @@ Descrição nuclear:
 
 Passam a integrar o currículo e as versões públicas, sem serem tratadas como pendências de validação por IA:
 
-- pós-graduação em Psicologia Transpessoal concluída, com TCC entregue e certificado emitido; o certificado físico não está atualmente disponível e a instituição encerrou as atividades;
+- pós-graduação em Psicologia Transpessoal pela FACIS concluída em 2010, com TCC entregue e certificado emitido em 2011;
 - duas formações em Psicanálise Integrativa, incluindo a formação no Instituto Brasileiro de Transpsicanálise, com André Keppe, apoiada também por registros de cursos e workshops da instituição no vault;
 - Practitioner em PNL realizado na SBPNL antes das formações posteriores documentadas pelo Trivium;
 - Centralma como empresa atual, registrada, aberta e operante, utilizada na prestação e no faturamento dos atendimentos psicológicos on-line;
 - CRP 06/98630 pago, ativo e regular, conforme informação atual do autor;
-- Brainspotting Fase 3 concluída entre as Fases 2 e 4, com certificado físico ainda não digitalizado;
-- sequência completa de três módulos de *Atenção e concentração nas práticas meditativas* pela Associação Palas Athena, com módulos 2 e 3 digitalizados e módulo 1 aguardando escaneamento;
+- Brainspotting Fase 3 concluída entre as Fases 2 e 4, conforme confirmação direta de Fabiano;
+- sequência completa de três módulos de *Atenção e concentração nas práticas meditativas* pela Associação Palas Athena;
 - três cursos on-line de auto-hipnose ministrados em parceria com Gilda Moura entre 2020 e 2025.
 
 Quando um terceiro exigir comprovação formal específica, Fabiano decidirá como fornecê-la. Essa eventual exigência externa não deve ser convertida em controle geral da IA sobre a validade de sua trajetória.
@@ -157,3 +157,15 @@ Quando um terceiro exigir comprovação formal específica, Fabiano decidirá co
 # Atualização de continuidade — Brainspotting, Palas Athena, CEMETC–Yunnan e auto-hipnose
 
 A nota [[12 - Documentos Comprobatórios/22 - Atualização Brainspotting Palas Athena CEMETC Yunnan e Auto-Hipnose 2025-2026]] deve ser consultada junto da matriz detalhada para futuras versões de currículo, site, bio, dossiê de palestrante e materiais do CEEP.
+
+# Reconciliação transversal concluída — 21/08/2026
+
+Os documentos ativos de currículo, posicionamento, evidências, uso por contexto, site e CEEP foram reconciliados com as inclusões mais recentes. A consulta futura deve seguir esta ordem:
+
+1. [[00 - Governança Curricular - Fonte Única e Derivação por Contexto 2026]];
+2. [[22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]];
+3. currículo ou bio adequada ao contexto;
+4. dossiê documental específico, quando forem necessárias literalidade, data ou carga horária;
+5. [[23 - Registro de Reconciliação Curricular e Continuidade 2026]] para conferir o alcance da atualização.
+
+A matriz integral preserva toda a trajetória. As versões públicas continuam seletivas e não devem se tornar inventários enciclopédicos.
