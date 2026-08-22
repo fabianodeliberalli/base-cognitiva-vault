@@ -30,7 +30,7 @@ Fabiano concluiu as **Fases 1, 2, 3, 4 e 5 de Brainspotting**.
 | Etapa | Dados consolidados | Natureza da fonte |
 |---|---|---|
 | Fases 1 e 2 | Registros históricos e certificados já auditados; há documentos datados de 2011 e treinamento registrado em agosto de 2017 | documental |
-| Fase 3 | Concluída sequencialmente após a Fase 2 e antes da Fase 4; Fabiano possui o certificado, ainda não digitalizado | autobiográfica confirmada com documento físico existente |
+| Fase 3 | Concluída sequencialmente após a Fase 2 e antes da Fase 4 | confirmação direta de Fabiano |
 | Fase 4 | 18h, São Paulo, 02–04/08/2019 | documental |
 | Fase 5 — treinamento avançado | 24h, on-line ao vivo, 22–24/08/2025, ministrado por David Grand e certificado pela Associação Brasileira de Brainspotting — ABBSP | documental |
 
@@ -42,7 +42,7 @@ Quando houver espaço, acrescentar:
 
 > A Fase 5 correspondeu a treinamento avançado de 24 horas, ministrado por David Grand.
 
-Não omitir novamente a Fase 3. Data literal e carga horária serão acrescentadas quando o certificado for digitalizado.
+Não omitir novamente a Fase 3. Data e carga horária não informadas são simplesmente omitidas.
 
 # 2. Meditação Bodyspotting
 
@@ -61,7 +61,7 @@ A referência à “Fase 1 na Palas Athena” não se refere a Brainspotting. Tr
 
 | Módulo | Dados consolidados | Natureza da fonte |
 |---|---|---|
-| Módulo 1 | Concluído; certificado físico existente, ainda não digitalizado; data literal e carga horária aguardam transcrição | autobiográfica confirmada com documento físico existente |
+| Módulo 1 | Concluído | confirmação direta de Fabiano |
 | Módulo 2 | 18–20/10/2013 | documental |
 | Módulo 3 | 29/11–01/12/2013 | documental |
 
@@ -123,7 +123,7 @@ Fabiano ministrou, em parceria com Gilda Moura, **três cursos on-line de auto-h
 
 > Ministrou, em parceria com Gilda Moura, três cursos on-line de auto-hipnose entre 2020 e 2025.
 
-O vault contém material histórico do curso básico em [[00 - Caixa de Entrada/OneNote/Curso Básico de auto hipnose on line]]. Títulos oficiais, datas e cargas horárias de cada edição serão acrescentados quando os ativos correspondentes forem organizados.
+O vault contém material histórico do curso básico em [[00 - Caixa de Entrada/OneNote/Curso Básico de auto hipnose on line]]. Detalhes não informados por edição são omitidos e não constituem pendência.
 
 # Hierarquia estratégica consolidada
 
@@ -143,3 +143,7 @@ O vault contém material histórico do curso básico em [[00 - Caixa de Entrada/
 - Certificado `CEMETC YUNAN.pdf` — lote ZIP disponibilizado em 21/08/2026.
 - Certificados Palas Athena dos módulos 2 e 3 já auditados no acervo.
 - Confirmações autobiográficas diretas de Fabiano sobre Brainspotting Fase 3, Palas Athena Módulo 1 e três cursos de auto-hipnose com Gilda Moura.
+
+# Estado de validação
+
+Não há pendências curriculares abertas relativas às formações e experiências desta nota. A confirmação direta de Fabiano é fonte suficiente para registrar a conclusão; arquivos documentais servem à literalidade e ao arquivo, não à validação biográfica pela IA.
