@@ -29,19 +29,23 @@ A fonte oficial de continuidade é o repositório GitHub sincronizado com meu Ob
 
 Antes de propor estratégia ou redação, leia integralmente pelo GitHub, nesta ordem:
 
-1. 00 - LEIA PRIMEIRO - Estado Atual e Continuidade.md
-2. 01 - Dossiê Curricular Mestre.md
-3. 02 - Linha do Tempo Profissional.md
-4. 03 - Formação, Evidências e Fontes Documentais.md
-5. 04 - Experiência Clínica, Docente e Institucional.md
-6. 05 - Versões Públicas de Bio e Currículo.md
-7. 06 - Posicionamento Profissional e Arquitetura de Autoridade.md
-8. 07 - Avaliação Crítica por Públicos.md
-9. 08 - Matriz de Uso por Contexto e Fronteiras.md
-10. 09 - Prioridades Estratégicas e Mapa de Execução.md
-11. 10 - Pendências, Comprovações e Governança.md
-12. 15 - Currículo Profissional Consolidado 2026.md
-13. 16 - Reavaliação Curricular Após Novos Certificados 2026.md
+1. 00 - Governança Curricular - Fonte Única e Derivação por Contexto 2026.md
+2. 00 - LEIA PRIMEIRO - Estado Atual e Continuidade.md
+3. 22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026.md
+4. 01 - Dossiê Curricular Mestre.md
+5. 02 - Linha do Tempo Profissional.md
+6. 03 - Formação, Evidências e Fontes Documentais.md
+7. 04 - Experiência Clínica, Docente e Institucional.md
+8. 05 - Versões Públicas de Bio e Currículo.md
+9. 06 - Posicionamento Profissional e Arquitetura de Autoridade.md
+10. 07 - Avaliação Crítica por Públicos.md
+11. 08 - Matriz de Uso por Contexto e Fronteiras.md
+12. 09 - Prioridades Estratégicas e Mapa de Execução.md
+13. 10 - Pendências, Comprovações e Governança.md
+14. 15 - Currículo Profissional Consolidado 2026.md
+15. 18 - Currículo Profissional Ampliado Consolidado - Versão Pública 2026.md
+16. 12 - Documentos Comprobatórios/22 - Atualização Brainspotting Palas Athena CEMETC Yunnan e Auto-Hipnose 2025-2026.md
+17. 23 - Registro de Reconciliação Curricular e Continuidade 2026.md
 
 Para trabalho de site, leia também:
 
@@ -60,7 +64,7 @@ Minha identidade profissional de base é:
 
 Formulação temporal:
 
-> **Mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas, e atuação como psicólogo desde 2010.**
+> **Mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas e consolidada com a Psicologia.**
 
 Formulação pública canônica:
 
@@ -75,8 +79,8 @@ Governança de fontes:
 1. Fabiano é fonte primária de sua biografia profissional.
 2. Informações autobiográficas confirmadas são válidas para currículo e comunicação pública.
 3. Diplomas e certificados disponíveis servem ao arquivo, à literalidade e a exigências externas específicas.
-4. A ausência atual de um certificado físico não autoriza a IA a invalidar uma formação.
-5. Não reabra como pendências: Psicologia Transpessoal concluída; duas formações em Psicanálise Integrativa; Practitioner anterior na SBPNL; Centralma atual e operante; CRP 06/98630 ativo e regular.
+4. Informações autobiográficas confirmadas por Fabiano integram a fonte curricular e não devem ser convertidas em pendências.
+5. Não reabra como pendências: Psicologia Transpessoal concluída; duas formações em Psicanálise Integrativa; Practitioner anterior na SBPNL; Centralma atual e operante; CRP 06/98630 ativo e regular; Brainspotting Fases 1–5; Palas Athena em três módulos; *Máster Iberoamericano* CEMETC–Yunnan; *Venia Docente*; três cursos de auto-hipnose com Gilda Moura. Não há pendências curriculares abertas.
 6. Só crie questão operacional quando a resposta modificar materialmente uma decisão ou entrega.
 7. Não invente instituição, data, carga ou título ausente.
 8. Preserve separadamente informação autobiográfica, registro documental, formulação pública, hipótese estratégica, questão operacional e histórico superado.
