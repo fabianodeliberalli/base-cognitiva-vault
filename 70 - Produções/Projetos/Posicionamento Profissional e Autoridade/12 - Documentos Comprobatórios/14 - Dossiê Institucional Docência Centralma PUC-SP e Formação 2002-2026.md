@@ -55,7 +55,7 @@ A licença documenta a situação institucional naquele momento. Não comprova f
 A docência aparece em vários momentos:
 
 1. cursos de Reiki e práticas integrativas, em período histórico;
-2. cursos de Seitai e Quiropraxia no contexto do trabalho corporal no Shiozawa;
+2. cursos de Seitai e Quiropraxia no contexto do trabalho corporal no Shiozawa; o antecedente formativo está documentado por Curso Intensivo de Shiatsu de 100h e estágio de 2.000h, mas esses documentos comprovam formação/estágio, não isoladamente a atividade docente;
 3. aula convidada na PUC-SP em 2002;
 4. organização de cursos e acolhimento de professores no Centralma;
 5. assistência a Gilda Moura em turma presencial em 2018/2019;
@@ -107,7 +107,8 @@ A auditoria [[19 - Auditoria Página a Página - Certificados e Diplomas 2026]] 
 - p. 46: curso de Gilda Moura sobre recuperação de memórias em experiências extraordinárias/anômalas, relevante para a história da colaboração formativa;
 - p. 83: licença sanitária histórica do Centralma/Bioquantum, com Fabiano indicado como responsável legal/técnico no documento;
 - p. 5, 15, 60 e 81: registros que sustentam a genealogia didática em Qi Gong e práticas corporais, sem substituir a documentação narrativa de cursos ministrados;
-- p. 97 e 107–108: diploma e verso da formação técnica em Reabilitação/Massagem, marco da origem de ensino e prática corporal.
+- p. 97 e 107–108: diploma e verso da formação técnica em Reabilitação/Massagem, marco da origem de ensino e prática corporal;
+- PDF complementar, p. 8: Shiozawa — Curso Intensivo de Shiatsu de 100h e estágio de 2.000h, base formativa da experiência corporal; consultar [[23 - Complemento Documental Shiozawa Bioenergologia e Formação Histórica 1982-2019]].
 
 A redação de docência deve ser: “professor, palestrante e facilitador em cursos livres e educação continuada”, sempre acompanhada do projeto/evento quando pertinente. A aula da PUC-SP é uma experiência docente convidada, não vínculo acadêmico regular. A trajetória de cursos de Reiki, Seitai/Quiropraxia, atuação no Centralma, colaboração com Gilda Moura, Além das Fronteiras do Saber, ABBSP, IGM e CEEP compõe a história de transmissão de conhecimento e deve ser listada em versão completa conforme os comprovantes forem organizados.
 
