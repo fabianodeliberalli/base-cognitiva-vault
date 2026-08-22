@@ -127,6 +127,20 @@ Radiestesia, Reiki, Karuna Reiki, Karuna Ki–Tera Mai, Tameana, Melchizedek, ap
 Os documentos deste dossiê descrevem o conteúdo do PDF. Para a biografia consolidada, prevalece também a confirmação direta de Fabiano sobre as duas formações em Psicanálise e sobre o Practitioner anterior na SBPNL. A natureza autobiográfica da fonte deve ser preservada sem converter esses marcos em pendências de validação por IA.
 
 
+# Docência em auto-hipnose — atualização de 21/08/2026
+
+Fabiano confirma ter ministrado, em parceria com Gilda Moura, **três cursos on-line de auto-hipnose entre 2020 e 2025**. Esse dado deve aparecer na experiência docente e pode ser correlacionado ao eixo de hipnose, linguagem, atenção e processos de mudança.
+
+O vault contém a nota histórica [[00 - Caixa de Entrada/OneNote/Curso Básico de auto hipnose on line]], com tópicos do curso básico. Ela funciona como material de contexto pedagógico; títulos oficiais, datas e cargas horárias de cada uma das três ofertas serão transcritos quando os respectivos ativos forem organizados.
+
+Formulação pública recomendada:
+
+> Ministrou, em parceria com Gilda Moura, três cursos on-line de auto-hipnose entre 2020 e 2025.
+
+# Palas Athena — sequência meditativa
+
+Fabiano concluiu os três módulos de *Atenção e concentração nas práticas meditativas* pela Associação Palas Athena. Os certificados dos módulos 2 e 3 estão digitalizados, com datas de 18–20/10/2013 e 29/11–01/12/2013. O módulo 1 também foi concluído e possui certificado, mas sua digitalização ainda não foi incorporada ao vault.
+
 # Fonte curricular vigente
 
 Para qualquer consulta, revisão ou produção curricular, consultar primeiro [[00 - Governança Curricular - Fonte Única e Derivação por Contexto 2026]] e depois [[22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]]. Esta nota é fonte documental, histórica ou derivada conforme sua finalidade; não deve competir com a matriz como fonte de organização da trajetória.
