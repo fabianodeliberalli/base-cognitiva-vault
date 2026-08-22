@@ -53,7 +53,7 @@ Essa pergunta se desenvolve em cinco movimentos:
 
 - Duas formações em Psicanálise Integrativa: uma na SBPI, com Maria de Fátima Mora, e outra no Instituto Brasileiro de Transpsicanálise, tendo André Keppe como professor principal. A realização das duas formações é confirmada pelo autor; o vault contém certificado de uma formação e registros complementares de cursos e workshops da Transpsicanálise.
 - Formação e prática histórica em psicoterapia breve e referenciais winnicottianos.
-- Formação continuada em EMDR e Brainspotting desde aproximadamente 2010.
+- Formação continuada em EMDR e Brainspotting desde aproximadamente 2010. Em Brainspotting, concluiu as Fases 1 a 5 entre 2011 e 2025; a Fase 3 foi realizada sequencialmente entre as Fases 2 e 4 e possui certificado ainda não digitalizado; a Fase 5 foi um treinamento avançado de 24 horas com David Grand, em agosto de 2025.
 - Formação em Psicoterapia de Integração e Reprocessamento do Trauma pelo Instituto ALECES, com Mário Salvador e Carmen Cuenca, realizada entre 2020 e 2023.
 - Supervisões mensais em grupo com Mário Salvador, em continuidade em 2026.
 - Estudo anterior presencial com Mário Salvador em Brasília, provavelmente em 2018 — data a confirmar.
@@ -72,7 +72,7 @@ Essa pergunta se desenvolve em cinco movimentos:
 - Atuação e formação no Shiozawa Prevenção em Saúde com Mariko Sato, incluindo práticas corporais orientais; período referido de aproximadamente dez anos.
 - Acupuntura Tradicional Chinesa pelo CEMETRAC, de 2002 a 2004, com 1.200 horas, sob direção de Liu Chih Ming.
 - Estudos na Pró-Salus Vitae com Ernesto Garcia González e Pedro Pablo Arias Capdet.
-- Participação, no ano acadêmico de 2014–2015, no programa internacional denominado *Máster en Acupuntura Bioenergética y Moxibustión*, promovido pela Fundación Europea de Medicina Tradicional China, com Carlos Nogueira Pérez.
+- Conclusão do *Máster Iberoamericano en Acupuntura Bioenergética y Moxibustión*, certificado em outubro de 2015 no âmbito institucional da Universidad de Medicina Tradicional China de Yunnan, do CEMETC e da Fundación Europea de Medicina Tradicional China, com Carlos Nogueira Pérez.
 - *Venia Docente* do CEMETC documentada, emitida em Valladolid em 08/11/2014 para programas de formação em Acupuntura Bioenergética, com validade impressa até 08/11/2017; utilizar como marco docente histórico.
 - Formação continuada em Qi Gong, respiração, movimento e modelos tradicionais de Qi e meridianos, com professores e linhagens mencionados nos currículos históricos.
 - Formação como Reiki Master em sistemas Usui e Karuna-Tera Mai e experiência histórica no ensino de Reiki.
@@ -82,6 +82,7 @@ Essa pergunta se desenvolve em cinco movimentos:
 - Practitioner em Programação Neurolinguística realizado na SBPNL antes da formação no Trivium, conforme confirmação do autor.
 - Practitioner de 112 horas e Master Practitioner de 80 horas em PNL pelo Trivium, ambos documentados em 2001.
 - Formação em Constelação Familiar com Gabriel de Velasco Valenzuela Vázquez, vinculada à Universidad Sistémica de Iberoamérica/Centro Constela Internacional, conforme currículo histórico.
+- Sequência completa de três módulos de *Atenção e concentração nas práticas meditativas* pela Associação Palas Athena; módulos 2 e 3 documentados em 2013 e módulo 1 com certificado aguardando digitalização.
 - Estudos em Biopsicologia, Bioenergética/Core Energetics, práticas meditativas, estados ampliados de consciência e outros repertórios integrativos.
 
 # Experiência profissional
@@ -92,6 +93,7 @@ Essa pergunta se desenvolve em cinco movimentos:
 - Experiência clínica com trauma, corpo, regulação, estados ampliados de consciência, espiritualidade e experiências de difícil tradução.
 - Experiência docente anterior à atuação com Gilda Moura em cursos de Reiki, Seitai, Quiropraxia e práticas corporais.
 - Professor assistente de Gilda Moura em turma presencial no Centralma, em 2018/2019.
+- Ministrante, em parceria com Gilda Moura, de três cursos on-line de auto-hipnose entre 2020 e 2025.
 - Professor e cocriador do curso on-line *Além das Fronteiras do Saber*, em cinco edições a partir de 2020.
 - Professor convidado para aula/palestra na Faculdade de Psicologia da PUC-SP sobre corpo e energia, em 01/10/2002, com certificado institucional localizado.
 - Palestras em organizações e empresas, incluindo parcerias com a Simbolicah Desenvolvimento Humano; instituições e datas devem ser completadas.
