@@ -65,10 +65,15 @@ Esta cronologia distingue datas documentalmente sustentadas de datas fornecidas 
 - Início da atuação formal como psicólogo.
 - Início aproximado da formação continuada em abordagens de trauma, incluindo EMDR e posteriormente Brainspotting.
 
+## 2013
+
+- Conclusão da sequência de três módulos de *Atenção e concentração nas práticas meditativas* pela Associação Palas Athena. Os módulos 2 e 3 estão documentados em 18–20/10/2013 e 29/11–01/12/2013; o módulo 1 foi concluído e possui certificado ainda não digitalizado.
+
 ## 2014–2015
 
 - Matrícula no programa internacional *Máster en Acupuntura Bioenergética y Moxibustión*, da Fundación Europea de Medicina Tradicional China.
 - Viagem à Espanha com grupo de brasileiros formados no programa.
+- Em outubro de 2015, recebeu o certificado de conclusão do *Máster Iberoamericano en Acupuntura Bioenergética y Moxibustión*, identificado institucionalmente pela Universidad de Medicina Tradicional China de Yunnan, pelo CEMETC e pela Fundación Europea de Medicina Tradicional China.
 - Em 08/11/2014, recebeu do CEMETC, em Valladolid, Espanha, a credencial institucional *Venia Docente* para ministrar programas de formação em Acupuntura Bioenergética; o documento registra validade até 08/11/2017.
 
 ## Aproximadamente 2018
@@ -78,6 +83,7 @@ Esta cronologia distingue datas documentalmente sustentadas de datas fornecidas 
 
 ## 2019
 
+- Antes da Fase 4 de Brainspotting, concluiu sequencialmente a Fase 3; o certificado existe e aguarda digitalização, por isso data literal e carga horária ainda não foram transcritas.
 - Continuidade da colaboração docente com Gilda Moura e seu instituto.
 - A redação histórica usa “desde 2019” para essa parceria.
 
@@ -85,6 +91,7 @@ Esta cronologia distingue datas documentalmente sustentadas de datas fornecidas 
 
 - Encerramento das atividades presenciais do espaço Centralma no contexto da pandemia. A empresa Centralma permanece registrada, aberta e operante, vinculada à psicoterapia exclusivamente on-line e à emissão das notas fiscais dos atendimentos.
 - Início do curso on-line *Além das Fronteiras do Saber*, posteriormente realizado em cinco edições do nível básico ao avançado.
+- Entre 2020 e 2025, ministrou, em parceria com Gilda Moura, três cursos on-line de auto-hipnose.
 - Início da formação em Psicoterapia de Integração e Reprocessamento do Trauma pelo Instituto ALECES, com Mário Salvador e Carmen Cuenca.
 
 ## 2021
@@ -104,6 +111,7 @@ Esta cronologia distingue datas documentalmente sustentadas de datas fornecidas 
 
 ## 2025
 
+- Conclusão do treinamento avançado de Brainspotting — Fase 5, 24 horas, on-line ao vivo, ministrado por David Grand, em 22–24/08/2025.
 - Imersão presencial de três dias com Mário Salvador, incluindo atendimentos e supervisões em grupo.
 - Desenvolvimento do TCC da PUCRS sobre sincronia neural interpessoal e estados ampliados de consciência.
 
@@ -114,6 +122,7 @@ Esta cronologia distingue datas documentalmente sustentadas de datas fornecidas 
 - TCC: *Sincronia Neural Interpessoal e Estados Ampliados de Consciência: uma abordagem neurobiológico-relacional da espiritualidade*, aprovado com nota 9,5.
 - 11/02/2026: registro institucional da orientação finalizada, nota 9,5 e parecer favorável sobre relevância científica, delimitação, objetivos e fundamentação.
 - 7 de março: workshop da ABBSP sobre autorregulação e presença clínica em processos espirituais e estados ampliados da consciência.
+- 11 de abril: participação integral na *Vivência em Meditação Bodyspotting*, workshop on-line de 4 horas com Marília Toscano, certificado pela ABBSP.
 - Agosto: palestra no IGM sobre fenômenos anômalos, com Daiana Leite.
 - Desenvolvimento do CEEP como professor do eixo Consciência.
 - Desenvolvimento do curso *Traduzindo o Ser Humano* e de sua arquitetura autoral.
