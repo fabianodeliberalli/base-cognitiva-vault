@@ -83,7 +83,7 @@ Esta nota é a fonte vigente para bios por contexto. Ela não deve receber infor
 
 > **Mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas e consolidada com a Psicologia.**
 
-Não usar como formulação canônica: “mais de 30 anos de Psicologia” ou “atuação como psicólogo desde 2010” em substituição à frase acima. Quando for necessário registrar a linha do tempo, usar: “consolidação da atuação profissional em Psicologia: 2010”.
+Não usar como formulação canônica fórmulas que confundam o tempo total de cuidado terapêutico com o tempo de exercício profissional em Psicologia. Quando for necessário registrar a linha do tempo, usar: “consolidação da atuação profissional em Psicologia: 2010”.
 
 ## Psicologia Transpessoal
 
@@ -152,6 +152,22 @@ Quando surgir uma nova informação:
 8. revisar [[05 - Versões Públicas de Bio e Currículo]] apenas nas versões pertinentes;
 9. verificar se alguma nota histórica passou a divergir;
 10. registrar a data da revisão e a fonte utilizada.
+
+# Fatos consolidados de consulta obrigatória — atualização de 21/08/2026
+
+Além da matriz, consultar [[12 - Documentos Comprobatórios/22 - Atualização Brainspotting Palas Athena CEMETC Yunnan e Auto-Hipnose 2025-2026]] quando a demanda envolver trauma, meditação, Medicina Tradicional Chinesa ou docência.
+
+Estão consolidados e não devem ser reabertos como dúvida:
+
+- Brainspotting: Fases 1, 2, 3, 4 e 5 concluídas; a Fase 3 é confirmada diretamente por Fabiano.
+- Meditação Bodyspotting: workshop complementar de 4h, em 11/04/2026; não é uma sexta fase de Brainspotting.
+- Associação Palas Athena: sequência completa de três módulos de *Atenção e concentração nas práticas meditativas*, confirmada diretamente por Fabiano.
+- CEMETC–Yunnan: conclusão do *Máster Iberoamericano en Acupuntura Bioenergética y Moxibustión*, certificada em outubro de 2015.
+- CEMETC: *Venia Docente* recebida em Valladolid em 08/11/2014 como marco histórico de habilitação institucional para ministrar os programas da instituição.
+- Docência em auto-hipnose: três cursos on-line ministrados em parceria com Gilda Moura entre 2020 e 2025.
+- Não há pendências curriculares ou de validação abertas para essas formações.
+
+A reconciliação transversal e os documentos afetados estão registrados em [[23 - Registro de Reconciliação Curricular e Continuidade 2026]].
 
 # Protocolo de consulta para futuras IAs
 
