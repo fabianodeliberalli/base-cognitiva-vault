@@ -1,78 +1,109 @@
 ---
 tipo: protocolo-de-producao
 projeto: Traduzindo o Ser Humano
-status: proposta-operacional
-versao: "0.1"
-data: 2026-07-19
+status: aprovado-vigente
+versao: "1.0"
+criado_em: 2026-07-19
+atualizado_em: 2026-08-23
 ---
 
 # Esteira de Produção dos Materiais do Curso
 
-## Avaliação
+## Finalidade
 
-Sim: depois de roteirizar cada módulo e suas aulas, já é adequado produzir o material. Não é necessário aguardar o curso inteiro para iniciar. O método mais eficiente é trabalhar por **pacotes verticais completos**, começando pelos Módulos 0 e 1, enquanto os módulos seguintes continuam sendo roteirizados.
+Governar a passagem do patrimônio curricular para aulas efetivamente produzíveis, impedindo perda de conteúdo, duplicação de autoridade documental e antecipação indevida da gravação.
 
-## Unidade de produção — kit de aula
+## Arquiteturas que a esteira conecta
 
-| Peça | Função | Formato principal |
+- **7 módulos / 14 unidades:** desenvolvimento, integração, procedência e rastreabilidade do conteúdo;
+- **9 módulos / 54 aulas:** comunicação, apresentação comercial e organização atual da entrega;
+- **Nota-Ponte e Matriz Mestre:** correspondência entre as duas estruturas.
+
+Nenhuma estrutura substitui automaticamente a outra. Todo ativo concluído, canônico ou consolidado recebe origem, destino, função e tratamento.
+
+## Unidade de produção — pacote por aula
+
+| Peça | Função | Estatuto antes da gravação |
 |---|---|---|
-| Ficha pedagógica | preserva objetivo, limite e indicador | Markdown/Obsidian |
-| Roteiro do educador | organiza fala, tempo, transições e alertas | DOCX ou Markdown |
-| Apresentação | sustenta exposição e demonstração visual | PowerPoint |
-| Ficha do participante | conduz a prática e o registro | PDF preenchível + versão imprimível |
-| Mapas | tornam relações complexas visíveis | SVG/PNG/PDF |
-| Exemplos | demonstram uso antes da prática pessoal | slides + banco didático |
-| Síntese | favorece revisão e incorporação | cartão de uma página |
-| Evidência de aprendizagem | valida clareza e transferência | formulário breve |
-| Versão hospedada | organiza replay e materiais | vídeo + PDF + descrição |
+| ficha de destino | registra pergunta, capacidade, fontes e limites | obrigatória |
+| roteiro oral | transforma conteúdo em fala ensinável | obrigatório |
+| sequência visual | define função de cada tela e mapa | obrigatória |
+| exemplo ou caso | demonstra sem provar teoria ou diagnosticar | quando pertinente |
+| prática ou aplicação | transforma distinção em uso possível | quando pertinente |
+| material do participante | apoia orientação, registro e retomada | quando pertinente |
+| evidência de aprendizagem | verifica compreensão e transferência | obrigatória |
+| fontes e bastidor | preservam rigor e procedência | obrigatórios |
+| leitura cronometrada | determina duração real e carga | obrigatória |
+| piloto e QA | verificam linguagem, segurança e coerência | obrigatórios |
 
-## Fluxo por aula
+## Fluxo vigente por aula
 
-1. aprovar ficha pedagógica;
-2. escrever roteiro falado;
-3. definir storyboard dos slides;
-4. selecionar ou produzir mapas e exemplos;
-5. produzir apresentação e ficha;
-6. ensaiar e verificar tempo;
-7. revisar carga, linguagem, segurança e coerência;
-8. aplicar ao vivo;
-9. registrar observações;
-10. revisar antes da hospedagem definitiva.
+1. confirmar o destino 9/54 e a origem 7/14;
+2. recuperar somente fontes vigentes ou expressamente preservadas;
+3. delimitar pergunta, capacidade, conteúdo essencial e não antecipações;
+4. derivar roteiro oral, sequência visual e material vinculado;
+5. verificar exemplos, práticas, estatutos das linguagens e não promessas;
+6. realizar leitura cronometrada e revisar carga;
+7. auditar a aula no arco longitudinal do módulo;
+8. produzir storyboard e materiais definitivos;
+9. pilotar e corrigir;
+10. autorizar gravação por decisão específica;
+11. registrar versão, aprendizados e destinos do material excedente.
 
-## Critérios de prontidão
+## Critérios de prontidão para derivação
 
-Uma aula está pronta para produção quando possui:
+Uma aula pode entrar em derivação quando possui:
 
-- uma competência observável;
-- uma pergunta nuclear;
-- conteúdo essencial delimitado;
-- prática coerente com o conteúdo;
-- exemplo demonstrativo;
-- indicador de aprendizagem;
-- limites e não promessas;
-- transição clara para a aula seguinte.
+- correspondência documentada entre as duas arquiteturas;
+- fontes protegidas identificadas;
+- uma pergunta central e uma capacidade observável;
+- conteúdo essencial e fronteiras delimitados;
+- destino para ativos que não entram na fala principal;
+- coerência com posicionamento, pluralismo epistemológico e identidade autoral.
+
+## Critérios de prontidão para gravação
+
+A gravação somente é autorizada depois de:
+
+- roteiro oral aprovado;
+- sequência visual e materiais vinculados concluídos;
+- leitura cronometrada;
+- auditoria longitudinal;
+- verificação de práticas, exemplos, linguagem e acessibilidade;
+- piloto;
+- deliberação específica de autorização.
 
 ## Separação documental
 
-### Arquitetura interna
+### Fonte curricular
 
-Contém método, fundamentos, decisões autorais, roteiros completos, práticas, indicadores, fontes e notas de validação.
+Preserva a elaboração profunda, as distinções, os fundamentos, os mapas, as práticas e a procedência. Não é automaticamente um roteiro audiovisual.
+
+### Documento de produção
+
+Seleciona e organiza o necessário para uma aula da entrega 9/54. Não altera silenciosamente a fonte curricular.
 
 ### Material do participante
 
-Contém apenas o necessário para orientação, experiência, prática e incorporação. Não carrega toda a genealogia teórica.
+Contém somente o necessário para orientação, aplicação e retomada. Não carrega toda a genealogia teórica.
 
-### Material da mentoria
+### Material comercial e de mentoria
 
-Contém produto, público, problema, promessa responsável, diferenciais, formato, módulos, entregáveis, objeções, preço candidato e estratégia de lançamento. Não redefine o Método.
+Apresenta produto, público, problema, promessa, módulos e entregáveis. Não redefine o currículo nem governa sozinho a produção.
 
-## Ordem recomendada agora
+## Ordem vigente em 23 de agosto de 2026
 
-1. validar roteiros dos Módulos 0 e 1;
-2. produzir PowerPoint-mestre e sistema visual do curso;
-3. produzir fichas das Aulas 0.1 a 1.2;
-4. ensaiar o primeiro ciclo;
-5. continuar roteirização dos Módulos 2 e 3;
-6. atualizar progressivamente o documento da mentoria;
-7. finalizar o novo Raio X somente após fechar todos os módulos e aulas.
+1. derivar M1.1 a partir do plano aprovado e do caso composto protegido;
+2. avançar por M1.2–M1.6;
+3. derivar M1.7 a partir da consolidação v1.1 da Unidade 0.2;
+4. realizar leitura longitudinal de M1.1–M1.7;
+5. somente então fechar storyboards definitivos, pilotos e autorizações de gravação;
+6. prosseguir para as unidades seguintes conforme a Matriz Mestre.
 
+## Relações
+
+- [[05 - Nota-Ponte - Desenvolvimento do Conteúdo 7-14 e Entrega 9-54]]
+- [[06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54]]
+- [[07 - Deliberação Transversal - Posicionamento, Linguagem e Arquitetura Dupla - 2026-08-23]]
+- [[Plano Efetivo de Produção M1.1 a M1.6]]
+- [[07 - Consolidação de Conteúdo e Destinação para M1.7]]
