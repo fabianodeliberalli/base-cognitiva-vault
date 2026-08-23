@@ -4,7 +4,7 @@ projeto: Traduzindo o Ser Humano
 chat_encerrado: "HIST — TSH — Orquestração Geral 01"
 chat_sucessor: "ATIVO — TSH — Orquestração Geral 02"
 status: encerrado
-versao: "1.0"
+versao: "1.1"
 data: 2026-08-23
 producao_curricular_iniciada: false
 ---
@@ -64,7 +64,7 @@ O Orquestrador não deve:
 3. `ATIVO — TSH — Comunicação e Criativos`
 4. `ATIVO — TSH — Masterclass`
 5. `ATIVO — TSH — Operação do Lançamento`
-6. `ESPERA — TSH — Laboratório Clínico`
+6. `AGUARDA — TSH — Laboratório Clínico`
 
 Todos os demais chats devem permanecer históricos ou arquivados, sem exclusão do patrimônio.
 
