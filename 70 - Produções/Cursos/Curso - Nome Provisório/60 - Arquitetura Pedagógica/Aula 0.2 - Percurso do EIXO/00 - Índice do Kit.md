@@ -1,7 +1,8 @@
 ---
 tipo: indice-kit-aula
 aula: 0.2
-estado: conteudo-consolidado-candidato-v1.0
+estado: conteudo-consolidado-v1.1-pronto-para-derivacao
+atualizado_em: 2026-08-23
 ---
 
 # Aula 0.2 — Índice do Kit
@@ -28,8 +29,8 @@ A documentação textual está integralmente no vault. A apresentação e sua mo
 
 ## Estado de consolidação
 
-O conteúdo da Unidade 0.2 foi reunido e delimitado como candidato v1.0 em [[07 - Consolidação de Conteúdo e Destinação para M1.7]]. A entrega primária permanece M1.7; os ativos que excedem seu núcleo receberam destino explícito em material do participante, fundamento do educador e retomadas M3.7, M6.5 e M8.2.
+O conteúdo da Unidade 0.2 foi consolidado em v1.1 e liberado para derivação audiovisual em [[07 - Consolidação de Conteúdo e Destinação para M1.7]]. A entrega primária permanece M1.7; os ativos que excedem seu núcleo receberam destino explícito em material do participante, fundamento do educador e retomadas M3.7, M6.5 e M8.2.
 
 ## Próxima revisão
 
-Realizar avaliação autoral da consolidação. Depois, derivar roteiro oral, selecionar as versões necessárias dos mapas aprovados, produzir o cartão do participante, cronometrar, revisar a carga, preparar storyboard e pilotar. A gravação permanece não autorizada.
+Iniciar a derivação audiovisual sequencial por M1.1 e avançar até M1.7. Para M1.7, derivar roteiro oral, selecionar as versões necessárias dos dois mapas centrais, produzir o cartão do participante, cronometrar, revisar a carga e pilotar. A gravação permanece não autorizada.
