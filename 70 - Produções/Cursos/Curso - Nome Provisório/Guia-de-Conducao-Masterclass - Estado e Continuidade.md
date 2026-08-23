@@ -13,7 +13,7 @@ autor: Fabiano Deliberalli
 ## Documento vigente
 
 - [[Guia-de-Conducao-Masterclass-Traduzindo-o-Ser-Humano-v2.6]]
-- **Estatuto:** canônico para condução;
+- **Estatuto:** canônico para condução;\n- **SHA-256:** `065fd70c28e67ed6e8fe67aea5bdf3aac177001b59b24fad93353374b3690d8c`;
 - **Condição de uso ao vivo:** correção visual do slide 16 e ensaio operacional integral;
 - **Estrutura pública apresentada:** 9 módulos e 54 aulas;
 - **Rastreabilidade do conteúdo:** arquitetura 7/14, Nota-Ponte e Matriz Mestre.
