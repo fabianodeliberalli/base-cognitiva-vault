@@ -3,7 +3,7 @@ tipo: reconciliacao-fundamentos-revisao-curricular
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: aprovado-como-base-de-revisao
-versao: "1.1"
+versao: "1.2"
 autor: Fabiano Deliberalli
 aprovado_por: Fabiano Deliberalli
 criado_em: 2026-07-21
@@ -14,7 +14,7 @@ atualizado_em: 2026-08-22
 
 ## 1. Parecer executivo
 
-A arquitetura de 14 aulas permanece adequada. A reconciliação não exige criar mais aulas, mas aumentar sua densidade interna, corrigir a genealogia das fundamentações e tornar explícita uma gramática transversal comum.
+A arquitetura de 14 **unidades curriculares** permanece adequada como estrutura interna de desenvolvimento, integração e rastreabilidade. A entrega vigente é composta por 9 módulos e 54 aulas. A reconciliação exige correspondência explícita entre ambas, sem transformar a 7/14 num curso paralelo nem reduzir a 9/54 a mera embalagem comercial.
 
 O curso é compreendido como:
 
@@ -107,22 +107,22 @@ Autores serão agrupados por contribuição à capacidade trabalhada, sem uma es
 | fenomenologia, experiência e abertura | fenomenologia; Varela; clínica; núcleo de experiências liminares |
 | escolha, valores, expressão e reparação | Método EIXO; psicologia existencial; ética; clínica autoral |
 
-## 6. Revisão da arquitetura de 14 aulas
+## 6. Revisão da arquitetura de 14 unidades curriculares
 
-| Aula | Capacidade principal | Fundamentos e fontes incorporados | Semente longitudinal |
+| Unidade | Capacidade principal | Fundamentos e fontes incorporados | Semente longitudinal |
 |---|---|---|---|
 | 0.1 | compreender o contrato de Tradução | dignidade epistêmica; pluralidade de mapas; autonomia; natureza educacional | nenhuma linguagem é obrigatória |
 | 0.2 | reconhecer o percurso EIXO | recursividade; presença recuperável; quatro movimentos; seis fases | retornar não é regredir |
 | 1.1 | perceber a multidimensionalidade | ABBSP; onze dimensões; estatutos das linguagens; Semente–Casca–Campo | fenômeno antes da explicação |
 | 1.2 | tornar o vivido legível | distinção fenômeno–manifestação–interpretação–hipótese; Tradução provisória | traduções podem ser revistas |
-| 2.1 | reconhecer corpo, ritmo e afastamento | interocepção; corpo preditivo; Levine; ABBSP; neurociência | proteção não é falha moral |
-| 2.2 | recuperar presença com dosagem | recursos, corregulação, Três Regulações, Qi Gong, Yang Jwing-Ming | retorno gradual e situado |
+| 2.1 | reconhecer energia e vitalidade segundo estatutos declarados | MTC; Qi Gong; Yang Jwing-Ming; trabalhos autorais; cartografias tradicionais | energia não é metáfora psicológica obrigatória |
+| 2.2 | recuperar presença com sinais, apoio e dosagem | interocepção; corpo preditivo; Levine; recursos; corregulação; neurociência | retorno gradual e situado |
 | 3.1 | observar sem suprimir ou fundir-se | fenomenologia; presença; atenção; práticas contemplativas | observar é relação, não distância absoluta |
 | 3.2 | diferenciar padrões, partes e contextos | Schwartz; Jung; von Franz; sombra; fronteira e permeabilidade | partes possuem função e contexto |
-| 4.1 | orientar por valores e essencial | EIXO; Jung; Self/Essência sob léxico contextual; labirinto e mandala | sentido sem imposição metafísica |
-| 4.2 | ampliar espaço entre impulso e resposta | funções executivas como correlação; escolha situada; ética | orientação permanece revisável |
-| 5.1 | revisar Tradução e reorganização | circularidade Tradução–EIXO; transformação versus integração | mudança de mapa acompanha mudança da pessoa |
-| 5.2 | conectar sem apagar diferenças | unidade diferenciada; Três Eus sob teste; mandala; espiritualidade integrada | ampliar o mundo sem perder o centro |
+| 4.1 | coordenar informações, valores e orientação | EIXO; escolha situada; ética; símbolos; Três Eus quando necessários | orientação permanece revisável |
+| 4.2 | diferenciar e integrar espiritualidade, experiência e EIXO | Jung; Self/Essência sob léxico contextual; Psicologia Transpessoal; tradições; discernimento | espiritualidade explícita sem imposição metafísica |
+| 5.1 | integrar sem apagar diferenças | unidade diferenciada; pluralismo não redutivo; integração funcional | ampliar o mundo sem homogeneizá-lo |
+| 5.2 | revisar Tradução e EIXO em espiral | circularidade Tradução–EIXO; transformação versus integração; recursividade | mudança de mapa acompanha mudança da pessoa |
 | 6.1 | expressar, delimitar e contribuir | borda; ego funcional; comunicação; relação e campo | expressão inclui limite |
 | 6.2 | reparar, aprender e continuar | reparação; incorporação; comunidade; plano de continuidade | conclusão é retorno ao percurso |
 
@@ -137,9 +137,9 @@ Cada aula deverá distinguir:
 
 Essa separação recupera densidade sem sobrecarregar o participante.
 
-## 8. Revisão do Raio X
+## 8. Relação com o Raio-X vigente
 
-O Raio X definitivo permanece patrimônio histórico e protoarquitetura genealógica. Ele não é descartado nem convertido automaticamente em currículo. Sua revisão deve obedecer aos seguintes critérios:
+Versões anteriores do Raio-X permanecem patrimônio histórico e protoarquitetura genealógica. O Raio-X vigente de 4 de agosto de 2026 governa a entrega e a comunicação em 9 módulos e 54 aulas. Ele não apaga a arquitetura interna 7/14; ambos se conectam pela [[06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54]].
 
 | Dimensão do Raio X | Decisão reconciliada |
 |---|---|
@@ -155,7 +155,7 @@ O Raio X definitivo permanece patrimônio histórico e protoarquitetura genealó
 | reservado para o futuro | fila curricular rastreável com gatilhos de retomada |
 | mercado, preço e duração | hipóteses comerciais separadas da arquitetura formativa |
 
-O Raio X revisado deverá ser lido como uma matriz de quatro colunas: capacidade; conteúdo possível; profundidade; destino curricular. O teste de removibilidade verifica se um elemento é estruturalmente indispensável, não se ele pode ser consultado ou utilizado.
+O inventário histórico pode continuar sendo lido por capacidade, conteúdo possível, profundidade e destino. Para a oferta atual, porém, o destino final deve ser registrado na estrutura 9/54 ou numa das demais categorias legítimas de uso do acervo.
 
 ## 9. Preservação integral da Aula 1.1
 

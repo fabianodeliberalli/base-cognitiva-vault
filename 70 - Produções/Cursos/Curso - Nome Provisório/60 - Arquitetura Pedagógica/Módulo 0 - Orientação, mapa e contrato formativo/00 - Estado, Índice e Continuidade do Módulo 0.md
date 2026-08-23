@@ -4,10 +4,10 @@ projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 modulo: 0
 status: ativo
-estado_maturidade: elaboracao-curricular-viva
-versao: "3.5"
+estado_maturidade: desenvolvimento-e-integracao-do-conteudo
+versao: "3.6"
 criado_em: 2026-07-21
-atualizado_em: 2026-08-02
+atualizado_em: 2026-08-22
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
@@ -20,7 +20,7 @@ autoridade_de_aprovacao: Fabiano Deliberalli
 - **Camada de chegada na Hotmart:** Módulo 0 — Comece aqui → [[Aula de Entrada 0.0 - Boas-vindas, navegação e condições de participação]];
 - **Chat curricular ativo:** Curso — Módulo 0 — Continuidade 03 — Unidade 0.2;
 - **Unidade curricular em primeiro plano:** 0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança;
-- **Estado:** elaboração curricular viva;
+- **Estado:** desenvolvimento e integração do conteúdo;
 - **Memória oficial:** GitHub/Obsidian;
 - **Modo de trabalho:** [[Protocolo de Elaboração Curricular Viva e Continuidade Leve]];
 - **Diretriz governante:** [[05 - Diretriz Transversal - Espiritualidade Explícita, Singularidade Autoral e Não Neutralização]].
@@ -38,10 +38,13 @@ Antes da entrada no arco curricular, a Hotmart contará com a [[Aula de Entrada 
 Foi aprovada a inclusão da Aula de Entrada 0.0 como camada de chegada da oferta. A decisão:
 
 - preserva integralmente as Unidades Curriculares 0.1 e 0.2;
-- mantém a arquitetura de sete módulos e 14 unidades curriculares;
+- mantém a arquitetura interna de sete módulos e 14 unidades curriculares;
+- integra a entrega vigente do Módulo 0 em três aulas da estrutura 9/54;
 - não cria uma 15ª unidade nem altera códigos, nomes ou caminhos das unidades existentes;
 - separa a orientação de entrada da Hotmart do conteúdo curricular nuclear;
 - mantém em aberto roteiro, duração, materiais, ordem de liberação e autorização de gravação.
+
+Na estrutura 9/54, a chegada está organizada em: **M0.1 Boas-vindas**, **M0.2 Como usar o percurso, os mapas, as práticas e os materiais** e **M0.3 O que você precisa ter ou saber antes de começar**. As Unidades 0.1 e 0.2 alimentam principalmente o Módulo 1 da entrega, conforme a Matriz Mestre.
 
 A produção curricular continua concentrada na Unidade 0.2. A nota própria da aula registra sua função e seus limites.
 

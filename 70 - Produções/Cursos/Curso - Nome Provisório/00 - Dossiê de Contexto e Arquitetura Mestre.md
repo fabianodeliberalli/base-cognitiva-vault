@@ -30,11 +30,11 @@ tags:
 
 - **Código do curso:** a definir;
 - **Nome atual da oferta:** Traduzindo o Ser Humano;
-- **Versão do Dossiê:** 0.34;
+- **Versão do Dossiê:** 0.35;
 - **Status documental:** documento evolutivo;
 - **Estado de maturidade:** arquitetura integral em prototipagem;
 - **Data de criação:** 2026-07-17;
-- **Última atualização:** 2026-07-21;
+- **Última atualização:** 2026-08-22;
 - **Autor:** Fabiano Deliberalli;
 - **Componente responsável:** orquestração da arquitetura do curso;
 - **Documento operacional superior:** Protocolo Operacional para Construção da Arquitetura de Cursos v1.0;
@@ -44,6 +44,14 @@ tags:
 ### Regra de evolução
 
 Este documento deverá permanecer como **Dossiê de Contexto** durante as fases de concepção. Somente depois da validação integral da arquitetura poderá ser renomeado como **Arquitetura Mestre — Traduzindo o Ser Humano**.
+
+### Atualização de coexistência estrutural — 22 de agosto de 2026
+
+A oferta vigente possui **9 módulos e 54 aulas**, conforme o Raio-X de 4 de agosto de 2026. Essa arquitetura governa comunicação, mentoria, apresentação comercial e organização visível da entrega.
+
+Os **7 módulos e 14 unidades curriculares** permanecem como arquitetura interna de desenvolvimento, integração e rastreabilidade do conteúdo. Não constituem uma oferta paralela. Nenhuma arquitetura substitui automaticamente a outra; sua correspondência muitos-para-muitos é governada pela [[05 - Nota-Ponte - Desenvolvimento do Conteúdo 7-14 e Entrega 9-54]] e pela [[06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54]].
+
+Todo material relevante, inclusive concluído, consolidado ou canônico, deve receber destino explícito na 9/54 ou ser classificado como material do participante, fundamento do educador, aprofundamento, reserva para produção futura ou exclusão autoral.
 
 ### Atualização do modo de elaboração — 26 de julho de 2026
 
@@ -80,7 +88,7 @@ A arquitetura comercial vigente distingue:
 - **headline-base:** Por que você entende seus padrões, mas continua repetindo?;
 - **EIXO:** função pedagógica interna de coordenação, retorno e reorganização.
 
-A primeira oferta mantém 7 módulos e 14 unidades curriculares nucleares. A quantidade de microaulas só será divulgada quando a decomposição audiovisual estiver suficientemente avançada. Ver [[04 - Deliberação Transversal - Público, Microaulas e Arquitetura de Marca - 2026-07-28]].
+A primeira oferta é comunicada e entregue em 9 módulos e 54 aulas. Os 7 módulos e 14 unidades permanecem como arquitetura interna de desenvolvimento e rastreabilidade. Ver [[04 - Deliberação Transversal - Público, Microaulas e Arquitetura de Marca - 2026-07-28]].
 
 ### Atualização operacional — 21 de julho de 2026
 
@@ -950,7 +958,9 @@ Esta seção prevalece sobre indicações antigas de próxima aula ou frente ati
 
 - seis fases aprovadas;
 - primeira oferta integral autorizada para prototipagem curricular;
-- 7 módulos e 14 unidades curriculares nucleares;
+- 9 módulos e 54 aulas como arquitetura vigente de entrega e comunicação;
+- 7 módulos e 14 unidades curriculares como arquitetura interna de desenvolvimento, integração e rastreabilidade;
+- correspondência obrigatória pela Nota-Ponte e pela Matriz Mestre de Incorporação;
 - P2 aprovado integralmente;
 - núcleo mínimo de P6 aprovado para a primeira oferta;
 - Aula 1.1 preservada como protótipo revisável, sem precedência sobre a sequência curricular.
@@ -1015,7 +1025,7 @@ ABBSP, TCC de Sincronia Neural, monografia de Psicologia Transpessoal, trabalhos
 
 ### Currículo e Raio X
 
-A estrutura de 14 unidades curriculares permanece vigente como arquitetura de prototipagem. Cada unidade será decomposta em microaulas na preparação audiovisual, sem alteração dos códigos curriculares. Sua densidade e genealogia são revistas pela matriz transversal. O Raio X permanece patrimônio histórico e banco de conteúdos, agora lido por capacidade, profundidade e destino curricular, sem voltar a governar como currículo automático.
+A estrutura de 14 unidades curriculares permanece vigente para desenvolvimento, integração e rastreabilidade do conteúdo. O Raio-X de 4 de agosto de 2026 governa a entrega e a comunicação em 9 módulos e 54 aulas. Nenhum substitui automaticamente o outro. A densidade e a genealogia do conteúdo são preservadas internamente e recebem destino explícito na matriz 9/54.
 
 ### Estatuto revisional da Aula 1.1
 

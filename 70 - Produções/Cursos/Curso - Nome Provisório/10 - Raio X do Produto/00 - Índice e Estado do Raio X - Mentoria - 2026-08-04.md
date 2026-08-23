@@ -3,8 +3,8 @@ tipo: indice-de-versoes
 projeto: Traduzindo o Ser Humano
 assunto: Raio-X do Produto e documentação de consultoria
 status: vigente
-versao: "1.0"
-atualizado_em: 2026-08-04
+versao: "1.1"
+atualizado_em: 2026-08-22
 autor: Fabiano Deliberalli
 autoridade_da_versao_vigente: Fabiano Deliberalli
 tags:
@@ -24,10 +24,21 @@ O arquivo abaixo é a versão válida escolhida e aprovada por Fabiano para leva
 - **Arquivo vigente:** [[Vigente/Raio-X-Fabiano Deliberalli]]
 - **Nome original recebido:** Raio-X-Fabiano Deliberalli.docx
 - **Data de registro:** 2026-08-04
-- **Estatuto:** versão vigente para a consultoria e para a fotografia atual da oferta.
-- **SHA-256 do arquivo original:** `42e0a3955577142ddff81f17e01020a9217bf89bac68293fbbbb00e58a632008`
+- **Estatuto:** versão vigente para a comunicação, a consultoria e a arquitetura atual de entrega em 9 módulos e 54 aulas.
+- **SHA-256 vigente após correção técnica:** `9111233ccca1e6d1f25e484c743a9c5b2fd8e7547cedf0d1efe1361307446362`
+- **SHA-256 original aprovado e preservado no histórico:** `42e0a3955577142ddff81f17e01020a9217bf89bac68293fbbbb00e58a632008`
 
-A palavra “vigente” nesta nota significa vigente para a entrega à mentoria. Este arquivo registra uma fotografia comunicável da oferta e não substitui automaticamente os documentos curriculares governantes do curso. A separação entre a frente curricular profunda e o Raio-X permanece preservada: os documentos do Raio-X servem à fotografia, à consultoria e à comunicação da oferta; os documentos curriculares do repositório continuam governando a elaboração pedagógica, salvo nova deliberação autoral explícita.
+A palavra “vigente” significa vigente para a entrega, a comunicação e a fotografia comercial da oferta. O arquivo governa a estrutura 9/54. Os documentos 7/14 governam o desenvolvimento, a integração e a rastreabilidade do conteúdo. Nenhum substitui automaticamente o outro; a correspondência é documentada na Nota-Ponte e na Matriz Mestre de Incorporação.
+
+### Correção técnica de consistência — 22 de agosto de 2026
+
+O arquivo aprovado declarava 3 aulas no Módulo inicial e 54 no total, mas detalhava apenas 2 aulas no Módulo 0, somando 53. A correção não restaurou a antiga aula de apresentação da mentoria e não alterou a proposta comercial. O conteúdo de orientação já existente foi organizado em três aulas:
+
+1. Boas-vindas;
+2. Como usar o percurso, os mapas, as práticas e os materiais;
+3. O que você precisa ter ou saber antes de começar.
+
+O original aprovado foi preservado integralmente em [[Histórico/2026-08-04 - Raio-X-Fabiano Deliberalli - aprovado na mentoria]].
 
 ## Critério de preservação
 
@@ -37,6 +48,7 @@ Nenhum arquivo anterior foi sobrescrito. As versões abaixo permanecem como patr
 
 | Data | Arquivo | Estatuto histórico | SHA-256 |
 |---|---|---|---|
+| 2026-08-04 | [[Histórico/2026-08-04 - Raio-X-Fabiano Deliberalli - aprovado na mentoria]] | original aprovado, preservado antes da correção técnica de consistência | `42e0a3955577142ddff81f17e01020a9217bf89bac68293fbbbb00e58a632008` |
 | 2026-08-04 | [[Histórico/2026-08-04 - Raio-X-Traduzindo-o-Ser-Humano - Level Up - Versão anterior ao arquivo aprovado]] | versão anterior ao arquivo aprovado; preservada para comparação imediata | `475350893734b265b2e0cb8e6073997dee39eda5aae361b472f010e48d183839` |
 | 2026-08-03 | [[Histórico/2026-08-03 - Raio-X-Traduzindo-o-Ser-Humano - Refinado - Level Up]] | adaptação do refinamento ao template Level Up | `30abe4ecfb489e0f4f4ac91c23a3eca0fd37118c2dcb1152f8db556a330bc3e7` |
 | 2026-08-03 | [[Histórico/2026-08-03 - Raio-X-Traduzindo-o-Ser-Humano - Refinado - Conteúdo Consolidado]] | síntese curricular refinada antes da adaptação ao template | `7a0e59cdb0d4ab9ee64d238f6ab8df4e2254a0a9fe534627e9e6a74b2523992a` |
@@ -47,6 +59,10 @@ Nenhum arquivo anterior foi sobrescrito. As versões abaixo permanecem como patr
 | 2026-08-02 | [[Histórico/2026-08-02 - Raio-X do Produto - Level Up - Arquivo da Versão Anterior]] | versão anterior correspondente à matriz de consultoria | `dfc85e39c622c999e5ad33b9c367bf3d6d908b2f877ddf67e5eb3b197a039f65` |
 | 2026-07-29 | [[Histórico/2026-07-29 - Raio X do Produto - Versão Transversal Atualizada]] | versão transversal atualizada, preservada como etapa anterior | `92c6866a2afdd304f1b775f77ab7b21b557b82c872a7ee60b4ad246c851fc581` |
 | 2026-07-28 | [[Histórico/2026-07-28 - Raio X do Produto - Arquivo da Versão Vigente]] | versão vigente naquele marco histórico | `332d58fe4e4a0ced6a1ee4c5a003566974102b13c49cb2d7d48ea1771e681eac` |
+| 2026-07-28 | [[Histórico/2026-07-28 - Raio X do Produto - alinhado à função pedagógica de eixo]] | versão histórica anteriormente mantida na pasta Vigente | `8f10e05629b4e8ecc77bdd50212ccacdd56742a3a35e1e2f89f63b43f2539329` |
+| 2026-07-28 | [[Histórico/2026-07-28 - Raio X do Produto - deliberações atualizadas]] | versão histórica anteriormente mantida na pasta Vigente | `46bd6cf97cf6586a6dc030cdfba6f698292a88255676799398db952b119851c3` |
+| 2026-07-28 | [[Histórico/2026-07-28 - Registro da versão atualizada e incorporação dos prompts ao fluxo]] | registro histórico de processo | `b84542414ea3372fb76fd490fdd747df0e216bc5612e846d0c3c2435be621c90` |
+| 2026-07-28 | [[Histórico/2026-07-28 - Registro da versão válida do Raio X]] | registro histórico de vigência naquele marco | `4abab7c1c4893b74ce5cb1081cf1a8782e688a5c21b8d99aee65de2745e73079` |
 | sem data | [[Histórico/Sem data - Raio X Definitivo - arquivo histórico]] | reserva histórica de linguagem, identidade e formulações | `06a434b793f7f93020b4dbba306efa548558998f84765df645191f9909a654e1` |
 
 ## Documento associado de consultoria
@@ -68,10 +84,12 @@ O arquivo histórico foi mantido uma vez, sem perda de conteúdo.
 
 ## Regra para próximas versões
 
-Uma nova versão do Raio-X deve ser adicionada como novo arquivo datado, sem sobrescrever a pasta `Vigente` nem os arquivos históricos. Quando houver nova aprovação, esta nota deve ser atualizada para apontar explicitamente o novo arquivo vigente e manter o anterior no histórico.
+Uma nova versão substantiva do Raio-X deve ser adicionada como novo arquivo datado. Correções estritamente técnicas podem conservar o nome vigente somente quando o original for preservado integralmente no histórico, a mudança for descrita e os hashes forem registrados. Quando houver nova aprovação, esta nota deve apontar explicitamente o novo arquivo vigente e manter o anterior no histórico.
 
 ## Relações
 
 - [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]]
 - [[10 - Raio X do Produto/Interno/Registro Interno - Análises Operacionais do Raio X - 2026-08-02]]
 - [[Protocolo de Elaboração Curricular Viva e Continuidade Leve]]
+- [[05 - Nota-Ponte - Desenvolvimento do Conteúdo 7-14 e Entrega 9-54]]
+- [[06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54]]

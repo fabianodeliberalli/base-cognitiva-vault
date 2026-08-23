@@ -2,7 +2,7 @@
 tipo: indice-mestre
 projeto: Traduzindo o Ser Humano
 estado: ativo
-data: 2026-08-02
+data: 2026-08-22
 ---
 
 # Índice Mestre dos Kits Curriculares
@@ -27,16 +27,20 @@ Aplicar [[Protocolo de Elaboração Curricular Viva e Continuidade Leve]].
 
 ## Nomenclatura da arquitetura curricular
 
+> **Entrega vigente:** Curso → 9 módulos → 54 aulas → práticas e materiais.
+
+> **Desenvolvimento e rastreabilidade:** Curso → 7 módulos → 14 unidades curriculares → Partes.
+
 > **Curso → Módulo → Unidade curricular → Parte**
 
 - **Unidade curricular:** estrutura numerada de 0.1 a 6.2, com capacidade, problema pedagógico e arco próprios;
 - **Parte:** divisão pedagógica interna de uma unidade curricular;
-- **Microaula:** unidade audiovisual de entrega, geralmente concentrada em uma pergunta ou ideia principal;
+- **Microaula:** corte interno preservado em decomposições anteriores; fonte de progressão para uma ou mais aulas da 9/54;
 - **Experiência** ou **Prática:** atividade proposta ao participante;
 - **Momento:** passagem interna de uma experiência ou prática;
 - **Slide, mapa, ficha, caderno e outros materiais:** recursos vinculados, não níveis curriculares.
 
-Uma Parte pode originar uma ou mais microaulas, e Partes breves podem compartilhar a mesma microaula. Alterar a distribuição audiovisual não exige renumerar a arquitetura pedagógica. A quantidade final de microaulas só será divulgada depois da decomposição audiovisual.
+Uma Parte pode originar uma ou mais microaulas internas, e uma aula 9/54 pode integrar mais de uma origem. Alterar a distribuição de entrega não exige renumerar a arquitetura interna, mas exige atualizar a Matriz Mestre de Incorporação.
 
 O termo **Capítulo** não deve ser utilizado para as divisões internas das unidades curriculares. Nomes históricos de arquivos, links e kits com “Aula” são preservados para evitar ruptura documental; isso não modifica a nomenclatura conceitual vigente nem o estado de maturidade do material.
 

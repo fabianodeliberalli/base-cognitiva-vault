@@ -1,10 +1,10 @@
 ---
 tipo: arquitetura-curricular
 projeto: Traduzindo o Ser Humano
-status: arquitetura-curricular-v0.2-governada-por-rastreabilidade-e-continuidade
-versao: "0.8"
+status: arquitetura-interna-de-desenvolvimento-integracao-e-rastreabilidade
+versao: "0.9"
 criado_em: 2026-07-19
-atualizado_em: 2026-08-02
+atualizado_em: 2026-08-22
 autor: Fabiano Deliberalli
 ---
 
@@ -20,7 +20,9 @@ Esta versão reconcilia o esqueleto anterior com:
 - a distribuição longitudinal dos fundamentos;
 - os portões formalizados no [[Guia Mestre de Incorporação e Rastreabilidade Curricular]].
 
-O curso mantém **7 módulos e 14 unidades curriculares nucleares**. A dimensão energética recebe unidade própria sem aumento da quantidade; a espiritualidade recebe unidade nuclear distinta. Uma prepara interlocuções da outra, mas elas não são tratadas como sinônimas. Na entrega digital, cada unidade curricular será decomposta em microaulas.
+Este documento preserva **7 módulos e 14 unidades curriculares** como arquitetura interna de desenvolvimento, integração e rastreabilidade do conteúdo. Ele não descreve um segundo curso nem governa a apresentação comercial. A entrega vigente possui **9 módulos e 54 aulas**, conforme o Raio-X de 4 de agosto de 2026. A relação muitos-para-muitos entre as duas arquiteturas está na Nota-Ponte e na Matriz Mestre de Incorporação.
+
+A dimensão energética recebe unidade própria; a espiritualidade recebe unidade nuclear distinta. Uma prepara interlocuções da outra, mas elas não são tratadas como sinônimas. Seus conteúdos são distribuídos nas aulas 9/54 sem perda de estatuto ou profundidade.
 
 ## Público, marca e porta de entrada
 
@@ -126,13 +128,12 @@ O mapa longitudinal está autorizado, mas os kits dependem dos portões especifi
 
 Cada portão deve ser encerrado antes do kit que dele depende. O Guia contém regras provisórias para que a arquitetura permaneça operável sem canonização silenciosa.
 
-## Formato de trabalho vigente para a prototipagem
+## Formato de trabalho vigente para o desenvolvimento do conteúdo
 
-- 7 módulos, incluindo orientação;
-- camada pré-curricular de chegada na Hotmart: **Módulo 0 — Comece aqui** → **Aula de Entrada 0.0**;
-- 14 unidades curriculares nucleares;
-- conteúdo organizado em microaulas curtas e progressivas para a plataforma;
-- quantidade final de microaulas definida somente na preparação audiovisual;
+- 7 módulos e 14 unidades como mapa interno de capacidades, arcos e proveniência;
+- 9 módulos e 54 aulas como destino vigente da entrega e comunicação;
+- ligação obrigatória, muitos-para-muitos, pela matriz de incorporação;
+- mapas de microaulas anteriores preservados como fontes de corte e progressão, não como terceira arquitetura concorrente;
 - encontros ao vivo, quando adotados, com função complementar de integração, aplicação, dúvidas e aprofundamento;
 - caderno de práticas e mapas visuais;
 - integração entre exposição breve, demonstração, prática dosada, reflexão, aplicação e retorno;
@@ -146,17 +147,19 @@ A Aula 1.1 possui protótipo e aprovação histórica para pilotagem controlada,
 
 A [[Aula de Entrada 0.0 - Boas-vindas, navegação e condições de participação]] foi registrada como adendo estrutural aprovado. Seu conteúdo audiovisual específico permanece em aberto e não altera a ordem de construção das 14 unidades curriculares.
 
-A construção curricular segue a ordem integral das 14 unidades curriculares, com um chat ativo por módulo e memória oficial no Obsidian/GitHub. A decomposição em microaulas ocorre na preparação audiovisual, sem reabrir a identidade curricular.
+A produção combina a conclusão dos núcleos autorais ativos com sua destinação progressiva na 9/54, mantendo a memória oficial no Obsidian/GitHub. O conteúdo consolidado não é reaberto sem contradição real, mas sua correspondência de entrega deve ser registrada.
 
 1. abrir o Módulo 0;
 2. preservar a Unidade 0.1 como encerrada curricularmente;
-3. preparar futuramente sua decomposição audiovisual sem reabrir o currículo;
-4. construir e auditar a Unidade 0.2;
+3. converter a Unidade 0.1 em plano de produção para M1.1–M1.6, preservando seu conteúdo e o caso composto;
+4. construir e integrar a Unidade 0.2, com destino primário em M1.7;
 5. realizar a auditoria da Unidade 0.2 e do Módulo 0;
 6. abrir o Módulo 1;
 7. auditar a Aula 1.1 como protótipo revisável, sem precedência canônica;
 8. prosseguir até o Módulo 6;
 9. realizar auditoria global das 14 unidades curriculares.
+
+Em paralelo, atualizar a [[06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54]] nos marcos naturais de consolidação.
 
 P2 e o núcleo mínimo de P6 governam todas as aulas. Cada portão específico deverá ser encerrado antes do kit que dele depende.
 
@@ -168,6 +171,7 @@ P2 e o núcleo mínimo de P6 governam todas as aulas. Cada portão específico d
 - [[00 - Dossiê de Contexto e Arquitetura Mestre]]
 - [[Registro Mestre de Formulações Estruturantes]]
 - [[02 - Matriz Integrada - Quatro Movimentos, Seis Fases e Jornada Fenomenológica]]
+- [[05 - Nota-Ponte - Desenvolvimento do Conteúdo 7-14 e Entrega 9-54]]
+- [[06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54]]
 - [[Aula de Entrada 0.0 - Boas-vindas, navegação e condições de participação]]
 - [[10 - Revisão Autoral e Protocolo de Pilotagem v1]]
-
