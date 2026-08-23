@@ -10,7 +10,7 @@ destinos_entrega:
   - M1.5
   - M1.6
 status: aprovado-para-derivacao-audiovisual
-versao: "1.1"
+versao: "1.2"
 criado_em: 2026-08-22
 atualizado_em: 2026-08-23
 autor_do_curso: Fabiano Deliberalli
@@ -265,7 +265,7 @@ Nenhuma prática é descartada ou fundida silenciosamente. Suas funções perman
 
 | Aula | Roteiro oral | Slides | Material/Prática | Situação |
 |---|---|---|---|---|
-| M1.1 | derivar do caso e da abertura | contraste + sequência do caso | cartão de investigação | pronto para derivação |
+| M1.1 | [[M1.1 - Pacote de Derivação Audiovisual v0.1]] | sequência candidata de 10 telas | cartão de investigação incluído | leitura autoral e cronometragem pendentes |
 | M1.2 | derivar da distinção central | quatro verbos | auto-observação breve | pronto para derivação |
 | M1.3 | derivar da Parte 6 | incorporação e limites | indicadores seletivos | pronto para derivação |
 | M1.4 | derivar da Parte 3 | território, mapas e hipóteses | quadro de diferenciação | pronto para derivação |
@@ -287,7 +287,7 @@ Nenhuma prática é descartada ou fundida silenciosamente. Suas funções perman
 
 ## Ordem imediata de execução audiovisual
 
-1. M1.1 — derivar roteiro oral e sequência visual do caso composto;
+1. M1.1 — realizar leitura autoral e cronometrada do pacote v0.1 e registrar ajustes;
 2. M1.2 — produzir a distinção saber–acessar–sustentar–utilizar;
 3. M1.3 — produzir competência incorporada e suas guardas;
 4. M1.4 — produzir território, mapas e pluralidade criteriosa;
@@ -303,4 +303,6 @@ Nenhuma prática é descartada ou fundida silenciosamente. Suas funções perman
 - [[Caderno do Participante - Aula 0.1]]
 - [[05 - Nota-Ponte - Desenvolvimento do Conteúdo 7-14 e Entrega 9-54]]
 - [[06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54]]
+- [[00 - Estado e Continuidade da Produção M1]]
+- [[M1.1 - Pacote de Derivação Audiovisual v0.1]]
 
