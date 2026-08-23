@@ -10,7 +10,7 @@ destinos_entrega:
   - M1.5
   - M1.6
 status: aprovado-para-derivacao-audiovisual
-versao: "1.2"
+versao: "1.3"
 criado_em: 2026-08-22
 atualizado_em: 2026-08-23
 autor_do_curso: Fabiano Deliberalli
