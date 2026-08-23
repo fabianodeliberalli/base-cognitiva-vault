@@ -5,7 +5,7 @@ curso: nome-provisorio
 modulo: 0
 status: ativo
 estado_maturidade: conteudo-m1-1-a-m1-7-planejado-para-avaliacao-e-producao
-versao: "3.8"
+versao: "3.9"
 criado_em: 2026-07-21
 atualizado_em: 2026-08-23
 autor: Fabiano Deliberalli
@@ -221,12 +221,12 @@ A Aula de Entrada 0.0 foi registrada como adendo pré-curricular da Hotmart. A d
 - a correspondência Unidade 0.2/M1.7 foi consolidada em v1.1 para derivação audiovisual;
 - “Saber não é ainda ter acesso” e presença que sustenta foram integrados como camada de acesso, sem substituir o arco curricular;
 - ficha, roteiro-base e storyboard preliminar da 0.2 foram reclassificados como fontes, eliminando concorrência documental;
-- o plano M1.1–M1.6 passou a v1.1 e está aprovado para derivação audiovisual;
+- o plano M1.1–M1.6 permanece como preparação de correspondência; a produção oficial não foi iniciada;
 - a gravação permanece não autorizada.
 
 ## Ponto de retomada
 
-> Sem nova reorganização, iniciar a derivação audiovisual de M1.1 conforme [[Plano Efetivo de Produção M1.1 a M1.6]] e avançar sequencialmente até M1.7. Em M1.5, incorporar apenas a versão mínima das Cinco Janelas necessária à aula. Realizar leitura longitudinal M1.1–M1.7 antes do storyboard definitivo. A Unidade 0.1 permanece encerrada curricularmente; P7 continua pendente antes da consolidação final do Módulo 0.
+> Encerrar a Orquestração Geral 01 e transferir a futura produção para o chat `ATIVO — TSH — Curso — Produção M1.1–M1.7`. Nesse chat, recuperar primeiro a Unidade 0.1 canônica, o plano vigente e a consolidação da Unidade 0.2/M1.7. O arquivo preliminar M1.1 é apenas insumo não vinculante. A Unidade 0.1 permanece encerrada curricularmente; P7 continua pendente antes da consolidação final do Módulo 0.
 
 ## Relações
 
