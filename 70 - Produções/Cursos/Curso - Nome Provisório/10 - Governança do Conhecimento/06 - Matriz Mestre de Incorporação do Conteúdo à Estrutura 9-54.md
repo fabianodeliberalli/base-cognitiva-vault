@@ -46,7 +46,13 @@ Esta matriz liga a arquitetura de desenvolvimento e rastreabilidade 7/14 à arqu
 | Título e distinções da UC 0.2 | aprovados e reunidos em consolidação v1.1 | M1.7 | núcleo delimitado; derivação audiovisual autorizada, gravação ainda não |
 | Mapas de centro, EIXO, estado, pêndulo e espiral | aprovados ou vinculados à UC 0.2 conforme seus registros | M1.7; recursos em M3.7, M6.5 e M8.2 | preservar arquivos; adaptar apenas uso e vínculo quando necessário |
 | Kit/protótipo da UC 1.1 | protótipo revisável | M1.4–M1.6 e M2.1–M2.3/M2.5 | matéria-prima qualificada; não governa automaticamente a versão final |
-| Formulações “Saber não é ainda ter acesso” e “compreender, acessar e sustentar” | aprovadas na deliberação de posicionamento de 23/08 | M1.1–M1.3; masterclass e comunicação | preservar progressão: experiência reconhecível antes do conceito |\n| Competência incorporada | definição aprovada como aprofundamento | M1.3; retomadas posteriores quando pertinentes | não usar como headline fria; distinguir de disponibilidade constante |\n| Presença que sustenta | definição aprovada como síntese de capacidade | M1.7; retornos em M3.7 e M6.5; masterclass | não converter em promessa de estabilidade ou controle |\n| Fórmula “padrões atraem; acesso reposiciona; Tradução diferencia” | decisão de posicionamento | comunicação, masterclass e aberturas de aula quando pertinente | camada de nomeação; não substitui o conteúdo curricular |\n| História composta da masterclass — demora de resposta e medo de rejeição | narrativa pedagógica composta | masterclass | não substituir automaticamente o caso composto curricular de M1.1; preservar estatutos distintos |\n| Episódio autobiográfico do Sorriso Interior | relato singular e prática taoísta integrada | masterclass; patrimônio autobiográfico | segmento breve e ilustrativo; não prova, garantia ou universalização |\n| ABBSP, trabalhos acadêmicos e autorais, NHI, bibliografia, práticas e mapas | acervo disponível com estatutos próprios | conforme aula e função | separar fundamento do educador, conteúdo, recurso, aprofundamento e reserva |
+| Formulações “Saber não é ainda ter acesso” e “compreender, acessar e sustentar” | aprovadas na deliberação de posicionamento de 23/08 | M1.1–M1.3; masterclass e comunicação | preservar progressão: experiência reconhecível antes do conceito |
+| Competência incorporada | definição aprovada como aprofundamento | M1.3; retomadas posteriores quando pertinentes | não usar como headline fria; distinguir de disponibilidade constante |
+| Presença que sustenta | definição aprovada como síntese de capacidade | M1.7; retornos em M3.7 e M6.5; masterclass | não converter em promessa de estabilidade ou controle |
+| Fórmula “padrões atraem; acesso reposiciona; Tradução diferencia” | decisão de posicionamento | comunicação, masterclass e aberturas de aula quando pertinente | camada de nomeação; não substitui o conteúdo curricular |
+| História composta da masterclass — demora de resposta e medo de rejeição | narrativa pedagógica composta | masterclass | não substituir automaticamente o caso composto curricular de M1.1; preservar estatutos distintos |
+| Episódio autobiográfico do Sorriso Interior | relato singular e prática taoísta integrada | masterclass; patrimônio autobiográfico | segmento breve e ilustrativo; não prova, garantia ou universalização |
+| ABBSP, trabalhos acadêmicos e autorais, NHI, bibliografia, práticas e mapas | acervo disponível com estatutos próprios | conforme aula e função | separar fundamento do educador, conteúdo, recurso, aprofundamento e reserva |
 
 ## Registro progressivo por aula
 
@@ -83,4 +89,5 @@ Documento operacional: [[00 - Estado e Continuidade da Produção M1]].
 - [[Plano Efetivo de Produção M1.1 a M1.6]]
 - [[07 - Consolidação de Conteúdo e Destinação para M1.7]]
 - [[09 - Esqueleto Estrutural da Primeira Oferta Integral para Mentoria]]
-- [[00 - Índice e Estado do Raio X - Mentoria - 2026-08-04]]\n- [[07 - Deliberação Transversal - Posicionamento, Linguagem e Arquitetura Dupla - 2026-08-23]]
+- [[00 - Índice e Estado do Raio X - Mentoria - 2026-08-04]]
+- [[07 - Deliberação Transversal - Posicionamento, Linguagem e Arquitetura Dupla - 2026-08-23]]
