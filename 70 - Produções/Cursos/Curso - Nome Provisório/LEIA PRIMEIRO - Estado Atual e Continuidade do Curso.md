@@ -3,9 +3,9 @@ tipo: porta-de-entrada-continuidadade
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "3.1"
+versao: "3.2"
 criado_em: 2026-07-21
-atualizado_em: 2026-08-22
+atualizado_em: 2026-08-23
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 tags:
@@ -67,7 +67,7 @@ A identidade profissional de Fabiano é integrada, não compartimentalizada. Pr�
 
 Somente Fabiano Deliberalli aprova decisões autorais. IAs, mentores, consultores e colaboradores analisam, recomendam, executam e registram.
 
-## Estado vigente em 22 de agosto de 2026
+## Deliberação transversal de posicionamento vigente desde 23 de agosto de 2026\n\nA [[07 - Deliberação Transversal - Posicionamento, Linguagem e Arquitetura Dupla - 2026-08-23]] incorpora seletivamente os acréscimos do trabalho com o Vidente. Ela governa posicionamento, linguagem pública e masterclass sem substituir a arquitetura curricular, a Nota-Ponte, a Matriz Mestre, a espiritualidade explícita ou o pluralismo epistemológico não redutivo.\n\nAs formulações aprovadas incluem: **“Saber não é ainda ter acesso”**; **“Sustentar exige mais do que compreender racionalmente”**; competência incorporada como conceito de aprofundamento; presença que sustenta como capacidade suficiente e variável; e **“padrões atraem; acesso reposiciona; Tradução diferencia”**.\n\nO Raio-X de 4 de agosto permanece vigente para comunicação, apresentação comercial e entrega 9/54. O documento consolidado de 23 de agosto funciona como complemento de posicionamento, não como substituição automática. A arquitetura 7/14 continua governando desenvolvimento, integração e rastreabilidade do conteúdo.\n\n## Estado vigente em 23 de agosto de 2026
 
 ### Curso
 
@@ -217,7 +217,7 @@ Acrescentar:
 | Redação e estatuto individual das formulações | Registro Mestre |
 | Relação entre movimentos, fases e Jornada | Matriz Integrada |
 | Distribuição atual das 14 unidades curriculares | Esqueleto Estrutural vigente |
-| Entrega, comunicação e fotografia comercial em 9 módulos e 54 aulas | Raio-X vigente de 4 de agosto de 2026 |
+| Entrega, comunicação e fotografia comercial em 9 módulos e 54 aulas | Raio-X vigente de 4 de agosto de 2026 |\n| Posicionamento, linguagem pública e condução da masterclass | Deliberação Transversal de 23 de agosto de 2026 e documentos reconciliados vinculados |
 | Correspondência entre 7/14, 9/54 e os ativos do acervo | Nota-Ponte e Matriz Mestre de Incorporação |
 | Continuidade entre chats e ritual de atualização | Protocolo de Continuidade |
 | Estado e continuidade de um módulo | 00 — Estado, Índice e Continuidade do respectivo módulo |
@@ -230,7 +230,7 @@ Trechos históricos permanecem como memória evolutiva, mas não substituem seç
 
 - Tradução da Experiência Humana como ato pedagógico;
 - diferença entre compreensão, competência incorporada e sabedoria prática;
-- EIXO como capacidade dinâmica de coordenação, retorno e reorganização, não estado permanente;
+- EIXO como capacidade dinâmica de coordenação, retorno e reorganização, não estado permanente;\n- “Saber não é ainda ter acesso” e a distinção compreender–acessar–sustentar;\n- competência incorporada como aprofundamento, não headline fria;\n- presença que sustenta como capacidade suficiente e variável, não promessa de estabilidade;
 - quatro movimentos funcionais e seis fases recursivas;
 - Perceber como abertura transversal;
 - percurso em espiral e movimento pendular;
