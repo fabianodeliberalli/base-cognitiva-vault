@@ -2,7 +2,7 @@
 tipo: matriz-incorporacao-conteudo
 projeto: Traduzindo o Ser Humano
 status: aprovado-vigente-evolutivo
-versao: "1.3"
+versao: "1.4"
 criado_em: 2026-08-22
 atualizado_em: 2026-08-23
 autor: Fabiano Deliberalli
@@ -54,7 +54,7 @@ Ao consolidar uma aula da estrutura 9/54, acrescentar ou atualizar uma linha com
 
 | Aula 9/54 | Capacidade e ponto de chegada | Unidades/ativos de origem | Conteúdo do participante | Fundamento do educador | Prática/recursos | Reserva/exclusão | Estado |
 |---|---|---|---|---|---|---|---|
-| M1.1 — Por que entender um padrão não impede que ele se repita? | reconhecer a distância entre compreensão e resposta disponível | UC 0.1; microaulas 0.1.1 e 0.1.3; caso composto | duas portas de entrada; caso; função protetiva como hipótese | padrão, proteção e incorporação | caso composto; cartão de investigação | eco conceitual, sem repetir o caso, em M4.4 | plano de produção concluído; derivação audiovisual pendente |
+| M1.1 — Por que entender um padrão não impede que ele se repita? | reconhecer a distância entre compreensão e resposta disponível | UC 0.1; microaulas 0.1.1 e 0.1.3; caso composto | duas portas de entrada; caso; função protetiva como hipótese | padrão, proteção e incorporação | caso composto; cartão de investigação | eco conceitual, sem repetir o caso, em M4.4 | pacote de derivação audiovisual v0.1 produzido; leitura autoral e cronometragem pendentes |
 | M1.2 — Saber, acessar e sustentar não são a mesma coisa | distinguir conhecimento, acesso, sustentação e uso/revisão | UC 0.1; microaula 0.1.2 | distinção dos quatro momentos | disponibilidade variável das capacidades | auto-observação breve | aprofundamento de incorporação em M1.3 | plano de produção concluído; derivação audiovisual pendente |
 | M1.3 — O que é competência incorporada — e o que ela não promete | reconhecer disponibilidade progressiva sem ideal de controle | UC 0.1; microaula 0.1.9; Parte 6 | definição, indicadores e limites | aprendizagem, incorporação e primeira aproximação ao EIXO | indicadores seletivos | pêndulo, espiral e três níveis reservados a M1.7 | plano de produção concluído; derivação audiovisual pendente |
 | M1.4 — A experiência é o território; as explicações são mapas | diferenciar vivido, percepção, nomeação, interpretação e hipótese | UC 0.1; microaulas 0.1.4 e 0.1.5; contribuições da UC 1.1 | território, mapas e pluralidade criteriosa | estatutos epistemológicos e pluralismo não redutivo | quadro de diferenciação | teoria epistemológica expandida no bastidor | plano de produção concluído; derivação audiovisual pendente |
@@ -68,10 +68,13 @@ Uma aula não precisa consumir todo o patrimônio relacionado. Ela precisa demon
 
 ## Ponto de retomada
 
-1. iniciar por M1.1 a derivação de roteiro oral, sequência visual e material vinculado;
-2. avançar sequencialmente por M1.2–M1.7 segundo os planos e consolidações vigentes;
+1. realizar leitura autoral e cronometrada do pacote M1.1 v0.1;
+2. registrar ajustes de oralidade e carga e iniciar M1.2;
+3. avançar sequencialmente por M1.3–M1.7 segundo os planos e consolidações vigentes;
 3. atualizar esta matriz a cada marco natural de consolidação;
 4. auditar longitudinalmente M1.1–M1.7 antes de storyboard e gravações definitivas.
+
+Documento operacional: [[00 - Estado e Continuidade da Produção M1]].
 
 ## Relações
 
