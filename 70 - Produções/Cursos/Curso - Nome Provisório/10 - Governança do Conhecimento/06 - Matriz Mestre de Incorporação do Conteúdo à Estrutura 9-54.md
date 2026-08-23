@@ -2,7 +2,7 @@
 tipo: matriz-incorporacao-conteudo
 projeto: Traduzindo o Ser Humano
 status: aprovado-vigente-evolutivo
-versao: "1.5"
+versao: "1.6"
 criado_em: 2026-08-22
 atualizado_em: 2026-08-23
 autor: Fabiano Deliberalli
@@ -14,6 +14,8 @@ autoridade_de_aprovacao: Fabiano Deliberalli
 ## Função
 
 Esta matriz liga a arquitetura de desenvolvimento e rastreabilidade 7/14 à arquitetura vigente de entrega e comunicação 9/54. Ela registra destinos, não equivalências rígidas. Uma unidade pode alimentar várias aulas; uma aula pode integrar várias unidades e ativos.
+
+A fotografia pública vigente é governada pelo Raio-X público canônico de 23 de agosto de 2026 — v2.0. A página e o checkout devem usar a Copy Canônica relacionada; esta matriz permanece dedicada à correspondência 7/14→9/54.
 
 ## Correspondência estrutural inicial
 
@@ -91,3 +93,4 @@ Documento operacional: [[00 - Estado e Continuidade da Produção M1]]. O Orques
 - [[09 - Esqueleto Estrutural da Primeira Oferta Integral para Mentoria]]
 - [[00 - Índice e Estado do Raio X - Mentoria - 2026-08-04]]
 - [[07 - Deliberação Transversal - Posicionamento, Linguagem e Arquitetura Dupla - 2026-08-23]]
+- [[10 - Raio X do Produto/Consultoria/2026-08-23 - Copy Canônica - Página e Checkout - Traduzindo o Ser Humano]]

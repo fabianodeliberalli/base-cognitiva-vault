@@ -3,7 +3,7 @@ tipo: porta-de-entrada-continuidadade
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "3.5"
+versao: "3.6"
 criado_em: 2026-07-21
 atualizado_em: 2026-08-23
 autor: Fabiano Deliberalli
@@ -73,13 +73,19 @@ A [[07 - Deliberação Transversal - Posicionamento, Linguagem e Arquitetura Dup
 
 As formulações aprovadas incluem: **“Saber não é ainda ter acesso”**; **“Sustentar exige mais do que compreender racionalmente”**; competência incorporada como conceito de aprofundamento; presença que sustenta como capacidade suficiente e variável; e **“padrões atraem; acesso reposiciona; Tradução diferencia”**.
 
-O Raio-X de 4 de agosto permanece vigente para comunicação, apresentação comercial e entrega 9/54. O documento consolidado de 23 de agosto funciona como complemento de posicionamento, não como substituição automática. A arquitetura 7/14 continua governando desenvolvimento, integração e rastreabilidade do conteúdo.
+O Raio-X público canônico de 23 de agosto de 2026 — v2.0 — governa a comunicação, a apresentação comercial e a entrega 9/54. A versão de 4 de agosto permanece preservada como histórico. A arquitetura 7/14 continua governando desenvolvimento, integração e rastreabilidade do conteúdo.
+
+## Fonte pública canônica para página e checkout
+
+- [[10 - Raio X do Produto/Consultoria/2026-08-23 - Raio-X-Fabiano Deliberalli - Versão Pública Canônica v2.0]]
+- [[10 - Raio X do Produto/Consultoria/2026-08-23 - Copy Canônica - Página e Checkout - Traduzindo o Ser Humano]]
+- A versão de 4 de agosto permanece no histórico; resgates devem consultar o índice do Raio-X antes de reutilizar arquivos antigos.
 
 ## Estado vigente em 23 de agosto de 2026
 
 ### Curso
 
-- **arquitetura vigente de entrega e comunicação:** 9 módulos e 54 aulas, conforme o Raio-X de 4 de agosto de 2026;
+- **arquitetura vigente de entrega e comunicação:** 9 módulos e 54 aulas, conforme o Raio-X público canônico de 23 de agosto de 2026 — v2.0;
 - **arquitetura de desenvolvimento, integração e rastreabilidade do conteúdo:** 7 módulos e 14 unidades curriculares;
 - nenhuma das duas substitui automaticamente a outra; a 7/14 não é um segundo curso e a 9/54 não apaga o patrimônio curricular;
 - a correspondência muitos-para-muitos é governada pela [[05 - Nota-Ponte - Desenvolvimento do Conteúdo 7-14 e Entrega 9-54]] e pela [[06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54]];
@@ -225,7 +231,7 @@ Acrescentar:
 | Redação e estatuto individual das formulações | Registro Mestre |
 | Relação entre movimentos, fases e Jornada | Matriz Integrada |
 | Distribuição atual das 14 unidades curriculares | Esqueleto Estrutural vigente |
-| Entrega, comunicação e fotografia comercial em 9 módulos e 54 aulas | Raio-X vigente de 4 de agosto de 2026 |
+| Entrega, comunicação e fotografia comercial em 9 módulos e 54 aulas | Raio-X público canônico de 23 de agosto de 2026 — v2.0 |
 | Posicionamento, linguagem pública e condução da masterclass | Deliberação Transversal de 23 de agosto de 2026 e documentos reconciliados vinculados |
 | Correspondência entre 7/14, 9/54 e os ativos do acervo | Nota-Ponte e Matriz Mestre de Incorporação |
 | Continuidade entre chats e ritual de atualização | Protocolo de Continuidade |

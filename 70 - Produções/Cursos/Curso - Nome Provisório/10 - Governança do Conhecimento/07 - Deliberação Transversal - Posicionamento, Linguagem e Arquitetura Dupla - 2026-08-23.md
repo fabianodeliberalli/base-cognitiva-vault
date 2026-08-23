@@ -2,7 +2,7 @@
 tipo: deliberacao-transversal
 projeto: Traduzindo o Ser Humano
 status: aprovado-vigente
-versao: "1.0"
+versao: "1.1"
 criado_em: 2026-08-23
 atualizado_em: 2026-08-23
 autor: Fabiano Deliberalli
@@ -25,7 +25,7 @@ Esta deliberação governa a passagem entre:
 
 ## Hierarquia e regra de não substituição
 
-1. O **Raio-X vigente de 4 de agosto de 2026**, em **9 módulos e 54 aulas**, governa a comunicação, a apresentação comercial e a fotografia atual da oferta.
+1. O **Raio-X público canônico de 23 de agosto de 2026 — v2.0**, em **9 módulos e 54 aulas**, governa a comunicação, a apresentação comercial, a página e a fotografia atual da oferta. A versão de 4 de agosto permanece preservada como histórico.
 2. A arquitetura de **7 módulos e 14 unidades curriculares** governa o desenvolvimento, a integração e a rastreabilidade do conteúdo.
 3. Nenhuma arquitetura substitui automaticamente a outra.
 4. A [[05 - Nota-Ponte - Desenvolvimento do Conteúdo 7-14 e Entrega 9-54]] e a [[06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54]] governam a correspondência entre elas.
@@ -100,7 +100,7 @@ A masterclass preserva:
 - a integração explícita entre práticas corporais e energéticas, Psicologia, clínica, ciência, filosofia e espiritualidade;
 - a cronologia precisa: trajetória no cuidado terapêutico com mais de 30 anos; atuação como psicólogo clínico desde 2010.
 
-O guia v2.6 é canônico para condução. A transmissão ao vivo permanece condicionada à correção visual do slide 16 e ao ensaio operacional integral.
+O guia v2.6.1 é canônico para condução. A revisão visual do slide 16 e o ensaio operacional integral pertencem à futura produção humana; não são condições documentais de vigência nem pendências atribuídas ao GPT.
 
 ## Higiene de linguagem
 
@@ -113,8 +113,8 @@ Simplicidade pública não autoriza neutralizar espiritualidade, energia, simbol
 ## Estatuto dos documentos de 23 de agosto de 2026
 
 - o Relatório Mestre reconciliado é referência estratégica subordinada a esta deliberação e aos documentos superiores;
-- o Raio-X consolidado de posicionamento reconciliado é documento complementar de linguagem e não substitui automaticamente o Raio-X vigente de 4 de agosto;
-- o Guia de Condução da Masterclass v2.6 é o documento operacional vigente da masterclass, respeitadas as pendências registradas;
+- o Raio-X consolidado de posicionamento reconciliado é a base de reconciliação; a fonte pública vigente é o Raio-X canônico v2.0 de 23 de agosto;
+- o Guia de Condução da Masterclass v2.6.1 é o documento operacional vigente da masterclass; revisão visual e ensaio são referências de produção futura, não pendências documentais;
 - as versões originais anexadas permanecem preservadas na Biblioteca do ChatGPT e podem ser consultadas como histórico de desenvolvimento.
 
 ## Próximo movimento substantivo
@@ -132,3 +132,4 @@ Simplicidade pública não autoriza neutralizar espiritualidade, energia, simbol
 - [[05 - Diretriz Transversal - Espiritualidade Explícita, Singularidade Autoral e Não Neutralização]]
 - [[04 - Deliberação Transversal - Pluralismo Epistemológico Não Redutivo e Integração Autoral]]
 - [[00 - Índice e Estado do Raio X - Mentoria - 2026-08-04]]
+- [[10 - Raio X do Produto/Consultoria/2026-08-23 - Copy Canônica - Página e Checkout - Traduzindo o Ser Humano]]

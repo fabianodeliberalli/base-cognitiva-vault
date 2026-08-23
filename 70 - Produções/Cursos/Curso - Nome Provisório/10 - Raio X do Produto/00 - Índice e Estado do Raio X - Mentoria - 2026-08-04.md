@@ -3,7 +3,7 @@ tipo: indice-de-versoes
 projeto: Traduzindo o Ser Humano
 assunto: Raio-X do Produto e documentação de consultoria
 status: vigente
-versao: "1.2"
+versao: "1.3"
 atualizado_em: 2026-08-23
 autor: Fabiano Deliberalli
 autoridade_da_versao_vigente: Fabiano Deliberalli
@@ -19,18 +19,31 @@ tags:
 
 ## Estado vigente
 
-O arquivo abaixo é a versão válida escolhida e aprovada por Fabiano para levar ao encontro de mentoria. Camila emitiu parecer favorável sobre seu uso naquele encontro, sem assumir autoridade autoral sobre o projeto:
+O arquivo abaixo é a fonte pública canônica escolhida e aprovada por Fabiano para a comunicação, a página, a conferência do checkout e a entrega pública em 9 módulos e 54 aulas. Camila emitiu parecer favorável sobre o uso do material de mentoria, sem assumir autoridade autoral sobre o projeto:
 
-- **Arquivo vigente:** [[Vigente/Raio-X-Fabiano Deliberalli]]
-- **Nome original recebido:** Raio-X-Fabiano Deliberalli.docx
-- **Data de registro:** 2026-08-04
-- **Estatuto:** versão vigente para a comunicação, a consultoria e a arquitetura atual de entrega em 9 módulos e 54 aulas.
-- **SHA-256 vigente após correção técnica:** `9111233ccca1e6d1f25e484c743a9c5b2fd8e7547cedf0d1efe1361307446362`
-- **SHA-256 original aprovado e preservado no histórico:** `42e0a3955577142ddff81f17e01020a9217bf89bac68293fbbbb00e58a632008`
+- **Arquivo canônico datado:** [[Consultoria/2026-08-23 - Raio-X-Fabiano Deliberalli - Versão Pública Canônica v2.0]]
+- **Espelho vigente de consulta:** [[Vigente/Raio-X-Fabiano Deliberalli]]
+- **Data da versão:** 2026-08-23
+- **Estatuto:** versão pública canônica para comunicação, consultoria, página e checkout.
+- **SHA-256 do arquivo canônico:** `72a92860c4c1209cb32a34a5fd8bc16d498cbdca5b63d612b7a7a94c5f97d4a7`
+- **Copy canônica relacionada:** [[Consultoria/2026-08-23 - Copy Canônica - Página e Checkout - Traduzindo o Ser Humano]]
+- **Versão de 4 de agosto:** preservada como histórico, não como fonte pública atual.
+- **Arquitetura interna:** 7 módulos e 14 unidades curriculares para desenvolvimento, integração e rastreabilidade.
 
-A palavra “vigente” significa vigente para a entrega, a comunicação e a fotografia comercial da oferta. O arquivo governa a estrutura 9/54. Os documentos 7/14 governam o desenvolvimento, a integração e a rastreabilidade do conteúdo. Nenhum substitui automaticamente o outro; a correspondência é documentada na Nota-Ponte e na Matriz Mestre de Incorporação.
+A palavra “vigente” significa vigente para a entrega, a comunicação e a fotografia comercial da oferta. O bloco canônico do Raio-X também registra as condições da página e do checkout. Nenhum resgate antigo deve prevalecer sobre ele para a comunicação pública; a correspondência 7/14 permanece documentada na Nota-Ponte e na Matriz Mestre de Incorporação.
 
-### Incorporação de posicionamento — 23 de agosto de 2026\n\nO trabalho de posicionamento realizado com o Vidente acrescentou linguagem proprietária, definições de competência incorporada e presença que sustenta e diretrizes para a masterclass. Após reconciliação, esses acréscimos foram formalizados na [[07 - Deliberação Transversal - Posicionamento, Linguagem e Arquitetura Dupla - 2026-08-23]].\n\nO **Raio-X vigente de 4 de agosto continua governando a fotografia comercial 9/54**. O [[Consultoria/2026-08-23 - Raio-X-Consolidado-Posicionamento-Reconciliado]] é documento complementar de linguagem: não substitui automaticamente o arquivo vigente, não altera a arquitetura 7/14 e não autoriza perda de conteúdo. Uma futura substituição do Raio-X exigirá aprovação autoral expressa e preservação da versão anterior no histórico.\n\n- **SHA-256 do complemento reconciliado:** `0bcfb5e0c65dca816b518cc3aeed21601aac7b92eeac8d3677f2a63b578e956b`\n\n### Correção técnica de consistência — 22 de agosto de 2026
+### Harmonização pública e incorporação de posicionamento — 23 de agosto de 2026
+
+O trabalho de posicionamento realizado com o Vidente acrescentou linguagem proprietária, definições de competência incorporada e presença que sustenta e diretrizes para a masterclass. Após reconciliação, esses acréscimos foram formalizados na [[07 - Deliberação Transversal - Posicionamento, Linguagem e Arquitetura Dupla - 2026-08-23]] e incorporados ao Raio-X público canônico v2.0.
+
+O [[Consultoria/2026-08-23 - Raio-X-Consolidado-Posicionamento-Reconciliado]] permanece como documento de base da reconciliação. Ele não é uma segunda fonte pública: o arquivo canônico datado e o bloco de copy harmonizado governam a comunicação atual.
+
+- **Raio-X público canônico:** `72a92860c4c1209cb32a34a5fd8bc16d498cbdca5b63d612b7a7a94c5f97d4a7`
+- **Copy canônica para página e checkout:** usar o documento relacionado acima.
+- **Versão de 4 de agosto:** patrimônio histórico preservado.
+- **Guia de condução vigente relacionado:** v2.6.1; revisão visual do deck e ensaio pertencem à futura produção humana e não são pendências documentais do GPT.
+
+### Correção técnica de consistência — 22 de agosto de 2026
 
 O arquivo aprovado declarava 3 aulas no Módulo inicial e 54 no total, mas detalhava apenas 2 aulas no Módulo 0, somando 53. A correção não restaurou a antiga aula de apresentação da mentoria e não alterou a proposta comercial. O conteúdo de orientação já existente foi organizado em três aulas:
 
@@ -42,12 +55,14 @@ O original aprovado foi preservado integralmente em [[Histórico/2026-08-04 - Ra
 
 ## Critério de preservação
 
-Nenhum arquivo anterior foi sobrescrito. As versões abaixo permanecem como patrimônio histórico para consulta posterior, comparação de decisões, recuperação de linguagem e rastreamento da evolução do produto. Cópias tecnicamente idênticas não foram multiplicadas: quando nomes diferentes correspondiam ao mesmo SHA-256, foi preservada uma única cópia canônica e a duplicação foi registrada nesta nota.
+O conteúdo anterior do espelho vigente foi preservado no histórico antes da atualização. As versões abaixo permanecem como patrimônio histórico para consulta posterior, comparação de decisões, recuperação de linguagem e rastreamento da evolução do produto. Cópias tecnicamente idênticas não foram multiplicadas: quando nomes diferentes correspondiam ao mesmo SHA-256, foi preservada uma única cópia canônica e a duplicação foi registrada nesta nota.
 
 ## Linha histórica
 
 | Data | Arquivo | Estatuto histórico | SHA-256 |
 |---|---|---|---|
+| 2026-08-23 | [[Consultoria/2026-08-23 - Raio-X-Fabiano Deliberalli - Versão Pública Canônica v2.0]] | versão pública canônica harmonizada para Raio-X, página e checkout | `72a92860c4c1209cb32a34a5fd8bc16d498cbdca5b63d612b7a7a94c5f97d4a7` |
+| 2026-08-22 | [[Histórico/2026-08-22 - Raio-X-Fabiano Deliberalli - antes da harmonização]] | conteúdo do espelho anterior preservado antes da nova versão pública | `9111233ccca1e6d1f25e484c743a9c5b2fd8e7547cedf0d1efe1361307446362` |
 | 2026-08-04 | [[Histórico/2026-08-04 - Raio-X-Fabiano Deliberalli - aprovado na mentoria]] | original aprovado, preservado antes da correção técnica de consistência | `42e0a3955577142ddff81f17e01020a9217bf89bac68293fbbbb00e58a632008` |
 | 2026-08-04 | [[Histórico/2026-08-04 - Raio-X-Traduzindo-o-Ser-Humano - Level Up - Versão anterior ao arquivo aprovado]] | versão anterior ao arquivo aprovado; preservada para comparação imediata | `475350893734b265b2e0cb8e6073997dee39eda5aae361b472f010e48d183839` |
 | 2026-08-03 | [[Histórico/2026-08-03 - Raio-X-Traduzindo-o-Ser-Humano - Refinado - Level Up]] | adaptação do refinamento ao template Level Up | `30abe4ecfb489e0f4f4ac91c23a3eca0fd37118c2dcb1152f8db556a330bc3e7` |
@@ -92,4 +107,5 @@ Uma nova versão substantiva do Raio-X deve ser adicionada como novo arquivo dat
 - [[10 - Raio X do Produto/Interno/Registro Interno - Análises Operacionais do Raio X - 2026-08-02]]
 - [[Protocolo de Elaboração Curricular Viva e Continuidade Leve]]
 - [[05 - Nota-Ponte - Desenvolvimento do Conteúdo 7-14 e Entrega 9-54]]
-- [[06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54]]\n- [[07 - Deliberação Transversal - Posicionamento, Linguagem e Arquitetura Dupla - 2026-08-23]]
+- [[06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54]]
+- [[07 - Deliberação Transversal - Posicionamento, Linguagem e Arquitetura Dupla - 2026-08-23]]

@@ -2,9 +2,9 @@
 tipo: nota-ponte-arquiteturas
 projeto: Traduzindo o Ser Humano
 status: aprovado-vigente
-versao: "1.0"
+versao: "1.1"
 criado_em: 2026-08-22
-atualizado_em: 2026-08-22
+atualizado_em: 2026-08-23
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
@@ -15,7 +15,7 @@ autoridade_de_aprovacao: Fabiano Deliberalli
 
 O curso possui duas arquiteturas legítimas, com funções diferentes e ligação obrigatória:
 
-1. **Arquitetura vigente de entrega e comunicação — 9 módulos e 54 aulas.** Governa o Raio-X de 4 de agosto de 2026, a mentoria, a apresentação comercial, a organização visível da oferta e a destinação final do conteúdo na plataforma.
+1. **Arquitetura vigente de entrega e comunicação — 9 módulos e 54 aulas.** Governa o Raio-X público canônico de 23 de agosto de 2026 — v2.0, a mentoria, a apresentação comercial, a organização visível da oferta e a destinação final do conteúdo na plataforma. A versão de 4 de agosto permanece histórica.
 2. **Arquitetura de desenvolvimento, integração e rastreabilidade do conteúdo — 7 módulos e 14 unidades curriculares.** Governa a preservação dos arcos autorais, das capacidades, dos fundamentos, das práticas, dos mapas e da memória de elaboração.
 
 Nenhuma substitui automaticamente a outra. A 7/14 não constitui um segundo curso, e a 9/54 não elimina a inteligência curricular acumulada. A ligação entre elas é muitos-para-muitos e está registrada na [[06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54]].
@@ -94,3 +94,4 @@ Somente Fabiano Deliberalli aprova mudanças substantivas. IAs e colaboradores p
 - [[00 - Índice e Estado do Raio X - Mentoria - 2026-08-04]]
 - [[01 - Reconciliação da Governança do Conhecimento e Disponibilidade do Acervo]]
 - [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]]
+- [[10 - Raio X do Produto/Consultoria/2026-08-23 - Copy Canônica - Página e Checkout - Traduzindo o Ser Humano]]
