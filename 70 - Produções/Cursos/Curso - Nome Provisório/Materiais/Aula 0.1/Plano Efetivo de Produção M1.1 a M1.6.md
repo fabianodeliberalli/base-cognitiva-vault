@@ -9,8 +9,8 @@ destinos_entrega:
   - M1.4
   - M1.5
   - M1.6
-status: aprovado-para-derivacao-audiovisual
-versao: "1.3"
+status: planejamento-preparatorio-concluido-producao-nao-iniciada
+versao: "1.4"
 criado_em: 2026-08-22
 atualizado_em: 2026-08-23
 autor_do_curso: Fabiano Deliberalli
@@ -265,7 +265,7 @@ Nenhuma prática é descartada ou fundida silenciosamente. Suas funções perman
 
 | Aula | Roteiro oral | Slides | Material/Prática | Situação |
 |---|---|---|---|---|
-| M1.1 | [[M1.1 - Pacote de Derivação Audiovisual v0.1]] | sequência candidata de 10 telas | cartão de investigação incluído | leitura autoral e cronometragem pendentes |
+| M1.1 | [[M1.1 - Pacote de Derivação Audiovisual v0.1]] — insumo não vinculante | material preliminar produzido fora do chat competente | somente para consulta | produção oficial não iniciada |
 | M1.2 | derivar da distinção central | quatro verbos | auto-observação breve | pronto para derivação |
 | M1.3 | derivar da Parte 6 | incorporação e limites | indicadores seletivos | pronto para derivação |
 | M1.4 | derivar da Parte 3 | território, mapas e hipóteses | quadro de diferenciação | pronto para derivação |
@@ -287,13 +287,14 @@ Nenhuma prática é descartada ou fundida silenciosamente. Suas funções perman
 
 ## Ordem imediata de execução audiovisual
 
-1. M1.1 — realizar leitura autoral e cronometrada do pacote v0.1 e registrar ajustes;
-2. M1.2 — produzir a distinção saber–acessar–sustentar–utilizar;
-3. M1.3 — produzir competência incorporada e suas guardas;
-4. M1.4 — produzir território, mapas e pluralidade criteriosa;
-5. M1.5 — extrair e reduzir as Cinco Janelas do kit revisável da UC 1.1;
-6. M1.6 — adaptar a Primeira Cartografia e sua prática para entrega assíncrona;
-7. realizar leitura longitudinal de M1.1–M1.7 antes de storyboard definitivo.
+1. abrir o chat `ATIVO — TSH — Curso — Produção M1.1–M1.7` e recuperar o patrimônio canônico da UC 0.1;
+2. nesse chat, avaliar o insumo preparatório M1.1 sem adotá-lo automaticamente;
+3. M1.2 — produzir a distinção saber–acessar–sustentar–utilizar;
+4. M1.3 — produzir competência incorporada e suas guardas;
+5. M1.4 — produzir território, mapas e pluralidade criteriosa;
+6. M1.5 — extrair e reduzir as Cinco Janelas do kit revisável da UC 1.1;
+7. M1.6 — adaptar a Primeira Cartografia e sua prática para entrega assíncrona;
+8. realizar leitura longitudinal de M1.1–M1.7 antes de storyboard definitivo.
 
 ## Relações
 
