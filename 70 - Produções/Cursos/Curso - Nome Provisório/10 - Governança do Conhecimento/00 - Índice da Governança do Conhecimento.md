@@ -3,7 +3,7 @@ tipo: indice-governanca-conhecimento
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "1.1"
+versao: "1.2"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-21
 atualizado_em: 2026-08-22
@@ -17,6 +17,8 @@ atualizado_em: 2026-08-22
 2. [[02 - Inventário Mestre de Conteúdos Disponíveis]] — porta de entrada para localizar e reativar o patrimônio do curso.
 3. [[03 - Reconciliação Documental dos Fundamentos Transversais e Revisão Curricular]] — canonização das decisões aprovadas, integração ABBSP–patrimônio autoral–neurociência–arquitetura plural, revisão das 14 aulas e do Raio X.
 4. [[04 - Deliberação Transversal - Pluralismo Epistemológico Não Redutivo e Integração Autoral]] — posição epistemológica governante, identidade autoral integrada, substituição de “consiliência crítica” e protocolo obrigatório para IAs e colaboradores.
+5. [[05 - Nota-Ponte - Desenvolvimento do Conteúdo 7-14 e Entrega 9-54]] — separação funcional e ligação obrigatória entre as duas arquiteturas.
+6. [[06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54]] — correspondência evolutiva entre unidades, aulas e ativos do acervo.
 
 ## Relação com os documentos superiores
 
@@ -32,6 +34,8 @@ atualizado_em: 2026-08-22
 ## Regra sintética
 
 > Grau de aprovação define autoridade, não disponibilidade. Momento curricular define entrega, não acesso arquitetônico. Todo material pertinente permanece consultável e reutilizável, salvo exclusão autoral explícita ou restrição ética, jurídica, de confidencialidade ou de direitos.
+
+> Concluído, consolidado ou canônico protege o núcleo de sentido; não dispensa sua destinação explícita na arquitetura vigente de entrega 9/54.
 
 ## Ponto de retomada
 

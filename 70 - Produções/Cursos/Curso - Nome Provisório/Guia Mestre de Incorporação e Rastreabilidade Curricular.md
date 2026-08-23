@@ -3,10 +3,10 @@ tipo: guia-governanca-curricular
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: base-vinculante-para-prototipagem-curricular-controlada
-versao: "0.7"
+versao: "0.8"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-21
-atualizado_em: 2026-07-28
+atualizado_em: 2026-08-22
 documento_fonte: Registro Mestre de Formulações Estruturantes
 tags:
   - traduzindo-o-ser-humano
@@ -24,6 +24,8 @@ tags:
 
 > **Entrada de continuidade:** consultar primeiro [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]] e o [[Registro Consolidado da Sessão - Governança e Arquitetura Curricular - 2026-07-21]].
 
+> **Atualização estrutural de 22/08/2026:** as estruturas 0.1 a 6.2 permanecem unidades internas de desenvolvimento, integração e rastreabilidade. A entrega vigente é 9 módulos/54 aulas. “Microaula” permanece como corte interno quando já registrado, não como terceira arquitetura de oferta. Toda incorporação deve apontar para a [[06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54]].
+
 ## 1. Finalidade
 
 Este documento governa a passagem entre as formulações estruturantes do projeto **Traduzindo o Ser Humano** e a construção efetiva dos módulos, aulas, práticas, materiais e evidências de aprendizagem da primeira oferta integral do curso.
@@ -38,7 +40,7 @@ A construção de cada unidade curricular deve favorecer, sem rigidez mecânica,
 
 > **Experiência reconhecível → distinção acessível → conceito → aplicação → integração progressiva.**
 
-O público possui trajetória reflexiva anterior, mas não se presume domínio acadêmico nem conhecimento dos mapas e termos autorais. As estruturas 0.1 a 6.2 são **unidades curriculares nucleares**; **microaula** é a unidade audiovisual de entrega. A quantidade final de microaulas será definida na preparação audiovisual.
+O público possui trajetória reflexiva anterior, mas não se presume domínio acadêmico nem conhecimento dos mapas e termos autorais. As estruturas 0.1 a 6.2 são **unidades curriculares internas**; as 54 **aulas** são as unidades vigentes de entrega. Microaulas já decompostas funcionam como fontes de corte e progressão.
 
 **Traduzindo o Ser Humano** governa a marca e a oferta. EIXO permanece função pedagógica interna de coordenação, retorno e reorganização. Ver [[04 - Deliberação Transversal - Público, Microaulas e Arquitetura de Marca - 2026-07-28]].
 

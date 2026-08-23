@@ -3,10 +3,12 @@ tipo: registro-interno
 projeto: Traduzindo o Ser Humano
 assunto: análises operacionais do Raio X, estrutura audiovisual, calendário e viabilidade
 data: 2026-08-02
-status: base interna para desenvolvimento e comunicação
+status: historico-interno-superado-na-estrutura-de-entrega
 ---
 
 # Registro interno — análises operacionais do Raio X
+
+> **Estatuto atualizado em 22/08/2026:** as estimativas de 7 módulos, 14 unidades e 80–95 microaulas abaixo permanecem memória de planejamento. Foram superadas, para entrega e comunicação, pelo Raio-X vigente de 4 de agosto de 2026, com 9 módulos e 54 aulas. Podem ser consultadas como genealogia e fonte de cortes, mas não governam quantidade, promessa ou organização visível da oferta.
 
 Este registro preserva, para uso posterior no projeto, as análises que não precisam aparecer no documento destinado à consultoria. Ele pode orientar a elaboração curricular, a preparação audiovisual, a gravação, a divulgação, o marketing, a página de vendas, a comunicação no Instagram e o planejamento da primeira oferta.
 
@@ -28,7 +30,7 @@ O planejamento interno pode conservar:
 
 ## 2. Formulação pública consolidada
 
-A formulação adequada para o Raio X e para materiais institucionais de apresentação é:
+A formulação que era considerada adequada neste marco histórico foi:
 
 > **7 módulos • 14 unidades curriculares • microaulas curtas e progressivas • aproximadamente 13 semanas de percurso.**
 
@@ -160,7 +162,7 @@ Este registro pode servir como base para:
 - decisão posterior sobre calendário de liberação;
 - revisão da estimativa de horas e microaulas após a consolidação dos roteiros.
 
-Qualquer número deste registro permanece uma estimativa de planejamento até ser confirmado na preparação audiovisual. A arquitetura canônica continua sendo **7 módulos e 14 unidades curriculares**; microaulas, duração e calendário podem ser refinados sem alterar essa base.
+Qualquer número deste registro permanece uma estimativa histórica de planejamento. A arquitetura 7/14 continua útil internamente; a comunicação e a entrega atuais são governadas pela 9/54, conforme o índice vigente do Raio-X.
 
 ## Relações
 

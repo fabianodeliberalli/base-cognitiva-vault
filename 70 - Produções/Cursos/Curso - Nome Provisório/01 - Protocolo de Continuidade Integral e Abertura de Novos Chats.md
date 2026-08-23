@@ -3,7 +3,7 @@ tipo: protocolo-de-continuidade-integral
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "2.1"
+versao: "2.2"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-21
 atualizado_em: 2026-08-22
@@ -24,6 +24,8 @@ tags:
 > **Entrada de continuidade:** iniciar por [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]].
 
 > **Governança epistemológica obrigatória:** aplicar [[04 - Deliberação Transversal - Pluralismo Epistemológico Não Redutivo e Integração Autoral]]. “Consiliência crítica” é terminologia histórica superada como regra do projeto.
+
+> **Coexistência estrutural vigente desde 22/08/2026:** 9 módulos e 54 aulas governam entrega e comunicação; 7 módulos e 14 unidades governam desenvolvimento, integração e rastreabilidade do conteúdo. Nenhuma substitui automaticamente a outra. Consultar a [[05 - Nota-Ponte - Desenvolvimento do Conteúdo 7-14 e Entrega 9-54]] e a [[06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54]]. Cláusulas posteriores deste protocolo que tratem microaulas como quantidade futura devem ser lidas como registro histórico.
 
 ## 1. Finalidade e garantia operacional
 
@@ -194,7 +196,7 @@ Direções comerciais e de entrega:
 
 - sete módulos organizados em aulas curtas e progressivas;
 - 14 unidades curriculares nucleares; cada unidade é decomposta estruturalmente em microaulas logo após sua consolidação autoral;
-- quantidade final de microaulas divulgada somente quando a decomposição estiver suficientemente avançada;
+- 54 aulas como quantidade vigente de entrega; cortes internos e duração permanecem refináveis na preparação audiovisual;
 - conteúdo estruturante preparado para a plataforma; encontros ao vivo, quando houver, cumprem função complementar de integração, aplicação e aprofundamento;
 - curso principal antes de um workshop de menor valor;
 - faixa de valor aproximada de R$ 997;

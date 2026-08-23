@@ -3,9 +3,9 @@ tipo: protocolo-operacional-curricular
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "1.2"
+versao: "1.3"
 criado_em: 2026-07-26
-atualizado_em: 2026-08-02
+atualizado_em: 2026-08-22
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
@@ -15,6 +15,8 @@ autoridade_de_aprovacao: Fabiano Deliberalli
 ## Decisão autoral
 
 A partir de 26 de julho de 2026, a construção do curso passa a operar como **elaboração curricular progressiva, viva e autoral**.
+
+Em 22 de agosto de 2026, para evitar ambiguidade, o trabalho substantivo passa a ser descrito preferencialmente como **desenvolvimento e integração do conteúdo**: recuperar patrimônio, aprofundar fundamentos, selecionar o necessário ao participante, adaptar à aula de entrega e registrar proveniência e destino.
 
 A estrutura existe para sustentar o pensamento, preservar a continuidade e tornar o material utilizável. Ela não deve antecipar decisões ainda não amadurecidas, transformar hipóteses em currículo fechado nem interromper o processo criativo com exigências documentais constantes.
 
@@ -42,7 +44,9 @@ Os documentos anteriores permanecem como memória e fonte. Suas decisões substa
 - GitHub/Obsidian como memória oficial do curso;
 - preservação de versões e materiais anteriores;
 - autoria e decisão final de Fabiano Deliberalli;
-- arquitetura atual de 7 módulos e 14 aulas como hipótese governante de prototipagem, não grade irreversível;
+- arquitetura vigente de entrega e comunicação em 9 módulos e 54 aulas;
+- arquitetura interna de desenvolvimento, integração e rastreabilidade em 7 módulos e 14 unidades;
+- ligação obrigatória entre ambas pela Nota-Ponte e pela Matriz Mestre de Incorporação;
 - um chat ativo por módulo como recurso de foco;
 - decisões conceituais explicitamente aprovadas, sem impedir aprofundamento ou nova articulação;
 - linguagem acessível, pluralidade de mapas e rigor proporcional ao tipo de afirmação;
@@ -98,7 +102,7 @@ Na ausência dessas situações, o trabalho continua e a organização é reconc
 
 ## Separação entre frentes de trabalho
 
-A frente curricular ativa de uma unidade deve ser elaborada no chat curricular explicitamente designado para essa unidade. No estado atual, a elaboração profunda da Unidade Curricular 0.2 pertence ao chat **Curso — Módulo 0 — Continuidade 03 — Unidade 0.2**.
+A frente ativa de desenvolvimento e integração de uma unidade deve ser trabalhada no chat curricular explicitamente designado. No estado atual, a Unidade Curricular 0.2 pertence ao chat **Curso — Módulo 0 — Continuidade 03 — Unidade 0.2** e alimenta principalmente a Aula M1.7 da estrutura 9/54.
 
 Um chat destinado à fotografia estrutural da oferta, ao Raio X ou à mentoria não assume automaticamente a elaboração da unidade curricular ativa quando se usa a expressão “prosseguimos”. Nesses chats, a continuidade permanece limitada à finalidade da conversa: organizar a oferta, registrar sua arquitetura e atualizar a fotografia necessária para a mentoria. A distinção entre as frentes preserva a continuidade sem impedir conexões ou registrar impactos relevantes.
 

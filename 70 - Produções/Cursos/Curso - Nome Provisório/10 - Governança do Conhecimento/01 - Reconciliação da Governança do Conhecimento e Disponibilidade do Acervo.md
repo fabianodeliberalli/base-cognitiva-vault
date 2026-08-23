@@ -3,11 +3,11 @@ tipo: reconciliacao-governanca-conhecimento
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: aprovado-vigente
-versao: "1.0"
+versao: "1.1"
 autor: Fabiano Deliberalli
 aprovado_por: Fabiano Deliberalli
 criado_em: 2026-07-21
-atualizado_em: 2026-07-21
+atualizado_em: 2026-08-22
 documentos_relacionados:
   - 00 - Dossiê de Contexto e Arquitetura Mestre
   - 01 - Protocolo de Continuidade Integral e Abertura de Novos Chats
@@ -48,6 +48,12 @@ Contém somente o que pode governar a construção dentro de um escopo declarado
 ### 3.3. Arquitetura de Entrega
 
 Contém o que foi selecionado para determinado público, aula, oferta, regime pedagógico e profundidade. Estar no acervo não obriga inclusão; não estar na entrega atual não retira o conteúdo do campo arquitetônico.
+
+Na oferta vigente, a Arquitetura de Entrega corresponde aos **9 módulos e 54 aulas do Raio-X de 4 de agosto de 2026**. A arquitetura 7/14 permanece como estrutura interna de desenvolvimento, integração e rastreabilidade. A ligação entre ambas é obrigatória e está registrada na Nota-Ponte e na Matriz Mestre de Incorporação.
+
+### 3.4. Conteúdo concluído continua integrado
+
+Os estatutos concluído, consolidado, aprovado ou canônico protegem o núcleo de sentido e sua proveniência. Não tornam o material indisponível, isolado ou dispensado de destinação na oferta atual. Adaptação de título, formato, sequência, combinação ou endereço 9/54 não reabre automaticamente o núcleo aprovado; mudança substantiva, sim.
 
 ## 4. Classificação multiaxial obrigatória
 
@@ -178,3 +184,4 @@ O acervo ampliado pode orientar leitura do piloto, identificar sementes e ausên
 
 Esta norma é específica do curso e complementa, sem substituir, a Constituição, o Manual e o Protocolo Operacional. Deve ser aplicada ao Dossiê, ao Protocolo de Continuidade, aos índices, ao Raio X, ao currículo e a toda nova produção documental.
 
+Todo ativo relevante deve receber uma das seguintes destinações: aula 9/54, material do participante, fundamento do educador, aprofundamento, reserva para produção futura ou exclusão autoral explícita. A mera existência no acervo não encerra sua integração.

@@ -376,7 +376,7 @@ A Aula 1.1 deverá passar por escrutínio curricular normal e poderá ser reorga
 - das alterações estruturais aprovadas depois de sua criação;
 - da taxonomia P2 agora aprovada;
 - do núcleo mínimo de P6;
-- da coerência com a arquitetura vigente dos 7 módulos e 14 aulas;
+- da coerência com a arquitetura interna 7/14 e com sua destinação na entrega vigente 9/54;
 - da carga cognitiva e experiencial;
 - da função real de cada mapa, exemplo, prática e material;
 - de futuras evidências de pilotagem, quando uma nova versão estiver aprovada para piloto.

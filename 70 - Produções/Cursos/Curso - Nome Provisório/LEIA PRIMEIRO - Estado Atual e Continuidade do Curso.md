@@ -3,7 +3,7 @@ tipo: porta-de-entrada-continuidadade
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "2.8"
+versao: "3.0"
 criado_em: 2026-07-21
 atualizado_em: 2026-08-22
 autor: Fabiano Deliberalli
@@ -67,14 +67,16 @@ A identidade profissional de Fabiano é integrada, não compartimentalizada. Pr�
 
 Somente Fabiano Deliberalli aprova decisões autorais. IAs, mentores, consultores e colaboradores analisam, recomendam, executam e registram.
 
-## Estado vigente em 2 de agosto de 2026
+## Estado vigente em 22 de agosto de 2026
 
 ### Curso
 
-- arquitetura integral em prototipagem curricular controlada;
-- camada de entrega da Hotmart com **Módulo 0 — Comece aqui** e a [[Aula de Entrada 0.0 - Boas-vindas, navegação e condições de participação]] como chegada pré-curricular; essa camada não integra a contagem das 14 unidades;
-- 7 módulos e 14 unidades curriculares nucleares, decompostas estruturalmente em microaulas logo após a consolidação de cada unidade;
-- arquitetura curricular v0.2 vigente como protótipo governado, não como currículo definitivamente congelado;
+- **arquitetura vigente de entrega e comunicação:** 9 módulos e 54 aulas, conforme o Raio-X de 4 de agosto de 2026;
+- **arquitetura de desenvolvimento, integração e rastreabilidade do conteúdo:** 7 módulos e 14 unidades curriculares;
+- nenhuma das duas substitui automaticamente a outra; a 7/14 não é um segundo curso e a 9/54 não apaga o patrimônio curricular;
+- a correspondência muitos-para-muitos é governada pela [[05 - Nota-Ponte - Desenvolvimento do Conteúdo 7-14 e Entrega 9-54]] e pela [[06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54]];
+- todo material relevante, inclusive concluído, consolidado ou canônico, deve receber destino na 9/54, em material do participante, fundamento do educador, aprofundamento, reserva ou exclusão autoral explícita;
+- o Raio-X vigente recebeu correção técnica de consistência no Módulo 0: preservaram-se os totais aprovados de 9 módulos e 54 aulas, com três aulas iniciais coerentes com o conteúdo já existente;
 - perspectiva espiritual afirmativa, plural e não dogmática;
 - dimensão energética retirada da condição de adendo, com aula nuclear própria e presença longitudinal;
 - aula energética: **2.1 — Energia, vitalidade e experiência nas Tradições Orientais**;
@@ -99,17 +101,21 @@ Sua função é apresentar o curso, a organização dos módulos, o ritmo das au
 
 ## Deliberações encerradas e arquitetura de trabalho vigente
 
-### Nomenclatura curricular adotada
+### Nomenclatura das duas arquiteturas
 
-A arquitetura passa a utilizar a seguinte sequência:
+Na oferta visível, prevalece:
+
+> **Curso → 9 módulos → 54 aulas → práticas e materiais vinculados**
+
+No desenvolvimento e na rastreabilidade interna, permanece:
 
 > **Curso → Módulo → Unidade curricular → Parte**
 
 **Unidade curricular** é a estrutura numerada de 0.1 a 6.2 que organiza uma capacidade, um problema pedagógico e um arco de aprendizagem. Os códigos existentes permanecem inalterados.
 
-**Parte** é a divisão pedagógica interna de uma unidade curricular. **Microaula** é a unidade audiovisual de entrega na plataforma, geralmente concentrada em uma pergunta ou ideia principal. Uma Parte pode originar uma ou mais microaulas; duas Partes breves também podem compartilhar uma microaula sem alterar a arquitetura curricular.
+**Parte** é a divisão pedagógica interna de uma unidade curricular. Os mapas anteriores de **microaulas** continuam válidos como fontes de corte e progressão, mas a oferta vigente chama suas 54 unidades de entrega de **aulas**. Uma Parte ou microaula interna pode alimentar uma ou mais aulas; uma aula pode integrar conteúdos de mais de uma unidade.
 
-A decomposição estrutural ocorre logo após a consolidação curricular da unidade. O título público da microaula deve informar diretamente a dificuldade, a distinção, o instrumento ou a capacidade trabalhada e fazer sentido sem depender do contexto do roteiro. Formulações conceituais mais densas permanecem no conteúdo quando forem mais precisas do que acessíveis como título.
+No marco natural de consolidação, o conteúdo deve ser mapeado à 9/54. O título público da aula deve informar diretamente a dificuldade, a distinção, o instrumento ou a capacidade trabalhada e fazer sentido sem depender do contexto do roteiro. Formulações conceituais mais densas permanecem no conteúdo quando forem mais precisas do que acessíveis como título.
 
 Experiências e práticas podem conter **Momentos** internos. Slides, mapas, cadernos e demais materiais permanecem recursos vinculados, não novos níveis da arquitetura. Os nomes históricos de arquivos e links com “Aula” podem ser preservados para evitar ruptura documental, mas a nomenclatura conceitual vigente é **Unidade curricular**.
 
@@ -125,7 +131,8 @@ A [[04 - Deliberação Transversal - Público, Microaulas e Arquitetura de Marca
 - construção pedagógica orientada predominantemente por **Experiência reconhecível → distinção acessível → conceito → aplicação → integração progressiva**;
 - **Traduzindo o Ser Humano** como marca organizadora e nome da oferta, com subtítulo estável e headlines variáveis;
 - EIXO preservado como função pedagógica de coordenação, retorno e reorganização, sem comandar a marca comercial;
-- 7 módulos e 14 unidades curriculares nucleares, decompostas estruturalmente em microaulas logo após a consolidação de cada unidade; quantidade e duração finais só serão definidas na preparação audiovisual.
+- 9 módulos e 54 aulas como fotografia vigente da entrega e comunicação;
+- 7 módulos e 14 unidades curriculares como arquitetura interna de desenvolvimento, integração e rastreabilidade, ligadas à entrega por matriz explícita.
 
 ### Referências técnicas já definidas
 
@@ -137,7 +144,7 @@ A [[04 - Deliberação Transversal - Público, Microaulas e Arquitetura de Marca
 
 - **Chat permanente de governança:** Curso — Orquestração Curricular Mestre 03;
 - **unidade conversacional de produção:** um chat ativo por módulo, aberto somente quando o módulo entrar em trabalho real;
-- **separação de frentes:** a elaboração profunda da unidade curricular ativa pertence ao chat curricular designado; chats destinados ao Raio X, à fotografia estrutural ou à mentoria permanecem nessa finalidade e não absorvem automaticamente a frente curricular;
+- **separação de frentes:** o desenvolvimento e a integração do conteúdo da unidade ativa pertencem ao chat curricular designado; chats destinados ao Raio-X, à fotografia estrutural ou à mentoria permanecem nessa finalidade, mas suas decisões aprovadas de entrega devem ser refletidas na matriz;
 - **memória oficial:** documentos do Obsidian sincronizados neste repositório;
 - **ordem de foco:** Unidade 0.1 encerrada → Unidade 0.2 ativa → síntese do Módulo 0 → Unidades 1.1 e 1.2 → módulos seguintes; conexões e revisões podem ocorrer sem funcionar como bloqueios formais;
 - **revisões de consolidação:** realizadas quando uma aula ou módulo alcançar maturidade autoral ou precisar ser preparado para pilotagem; não bloqueiam a exploração criativa.
@@ -171,7 +178,9 @@ A Unidade Curricular 1.1 permanece como protótipo revisável e será auditada q
 1. esta nota;
 2. [[05 - Diretriz Transversal - Espiritualidade Explícita, Singularidade Autoral e Não Neutralização]];
 3. [[Protocolo de Elaboração Curricular Viva e Continuidade Leve]];
-4. o Estado, Índice e Continuidade do módulo ativo.
+4. [[05 - Nota-Ponte - Desenvolvimento do Conteúdo 7-14 e Entrega 9-54]];
+5. [[06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54]];
+6. o Estado, Índice e Continuidade do módulo ativo.
 
 Os demais documentos são consultados conforme a pergunta e o conteúdo em elaboração. Não é necessária leitura integral automática de todo o acervo antes de iniciar a conversa.
 
@@ -206,6 +215,8 @@ Acrescentar:
 | Redação e estatuto individual das formulações | Registro Mestre |
 | Relação entre movimentos, fases e Jornada | Matriz Integrada |
 | Distribuição atual das 14 unidades curriculares | Esqueleto Estrutural vigente |
+| Entrega, comunicação e fotografia comercial em 9 módulos e 54 aulas | Raio-X vigente de 4 de agosto de 2026 |
+| Correspondência entre 7/14, 9/54 e os ativos do acervo | Nota-Ponte e Matriz Mestre de Incorporação |
 | Continuidade entre chats e ritual de atualização | Protocolo de Continuidade |
 | Estado e continuidade de um módulo | 00 — Estado, Índice e Continuidade do respectivo módulo |
 | Estado operacional de uma aula | Índice, roteiro, QA e protocolo de pilotagem do respectivo kit |
@@ -229,7 +240,9 @@ Trechos históricos permanecem como memória evolutiva, mas não substituem seç
 - singularidade autoral e não neutralização por heurísticas genéricas externas;
 - distinção entre dimensão energética e espiritualidade;
 - aula nuclear energética e aula nuclear espiritual na arquitetura v0.2;
-- 7 módulos e 14 unidades curriculares nucleares como base da prototipagem atual;
+- 9 módulos e 54 aulas como arquitetura vigente de entrega e comunicação;
+- 7 módulos e 14 unidades como arquitetura de desenvolvimento, integração e rastreabilidade do conteúdo;
+- nenhuma das arquiteturas substitui automaticamente a outra e nenhum ativo relevante pode permanecer sem destino documentado;
 - estatuto da Aula 1.1 como protótipo revisável, sem proteção canônica e sujeito a escrutínio curricular normal;
 - separação entre a aula de entrada da Hotmart e o currículo nuclear, com a Aula de Entrada 0.0 como adendo pré-curricular.
 

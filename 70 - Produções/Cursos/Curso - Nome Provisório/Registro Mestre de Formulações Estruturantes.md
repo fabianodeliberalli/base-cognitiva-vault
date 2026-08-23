@@ -3,7 +3,7 @@ tipo: registro-mestre-formulacoes-estruturantes
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: consolidacao-documental-para-auditoria-autoral
-versao: "0.6"
+versao: "0.7"
 autor: Fabiano Deliberalli
 organizado_em: 2026-07-21
 escopo: curso-metodo-pedagogia-epistemologia-publico-governanca
@@ -17,6 +17,8 @@ tags:
 ---
 
 # Registro Mestre de Formulações Estruturantes
+
+> **Atualização estrutural de 22/08/2026:** registros que afirmem 7 módulos/14 unidades como estrutura da oferta devem ser lidos como arquitetura interna de desenvolvimento, integração e rastreabilidade. A oferta vigente é 9 módulos/54 aulas. Nenhuma substitui automaticamente a outra; a incorporação é governada pela Nota-Ponte e pela Matriz Mestre.
 
 ## Finalidade
 
@@ -972,7 +974,7 @@ Esta deliberação autoral supera, quanto à vigência, as formulações anterio
 > As estruturas numeradas 0.1 a 6.2 são unidades curriculares nucleares: cada uma organiza uma capacidade, um problema pedagógico e um arco de aprendizagem. Microaula é a unidade audiovisual de entrega na plataforma. Uma unidade curricular pode originar várias microaulas sem alteração de seu código ou função.
 
 - **Estatuto:** APROVADO — CURSO/ARQUITETURA.
-- **Consequência:** permanecem 7 módulos e 14 unidades curriculares; a quantidade final de microaulas somente será divulgada após decomposição audiovisual suficiente.
+- **Consequência atualizada em 22/08/2026:** permanecem 7 módulos e 14 unidades como arquitetura interna; a entrega vigente possui 9 módulos e 54 aulas, com cortes e duração ainda refináveis.
 - **Transição documental:** nomes históricos de arquivos, links e kits com “Aula” podem permanecer para evitar ruptura de vínculos.
 
 ## F83 — Marca e arquitetura comercial

@@ -3,7 +3,7 @@ tipo: deliberacao-transversal
 projeto: Traduzindo o Ser Humano
 curso: Traduzindo o Ser Humano
 status: vigente
-versao: "1.1"
+versao: "2.0"
 data: 2026-07-28
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
@@ -55,30 +55,37 @@ Essa sequência:
 
 Ela não é um roteiro rígido, checklist ou novo portão. É uma mentalidade de tradução aplicável às unidades curriculares, microaulas, Instagram, conteúdos abertos, criativos e materiais comerciais.
 
-## 3. Arquitetura curricular e audiovisual
+## 3. Arquitetura de entrega e desenvolvimento do conteúdo
 
-### Nomenclatura vigente
+### Duas arquiteturas conectadas
+
+Desde 4 de agosto de 2026, as cláusulas estruturais desta deliberação são lidas assim:
+
+- **9 módulos e 54 aulas:** arquitetura vigente de entrega, comunicação, mentoria e fotografia da oferta;
+- **7 módulos e 14 unidades curriculares:** arquitetura interna de desenvolvimento, integração e rastreabilidade do conteúdo.
+
+Nenhuma substitui automaticamente a outra. A correspondência é governada pela [[05 - Nota-Ponte - Desenvolvimento do Conteúdo 7-14 e Entrega 9-54]] e pela [[06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54]].
+
+### Nomenclatura interna preservada
 
 > **Curso → Módulo → Unidade curricular → Parte**
 
 - **Unidade curricular:** estrutura numerada de 0.1 a 6.2 que organiza uma capacidade, um problema pedagógico e um arco de aprendizagem;
 - **Parte:** divisão pedagógica interna da unidade curricular;
-- **Microaula:** unidade audiovisual de entrega na plataforma, geralmente concentrada em uma pergunta ou ideia principal;
+- **Microaula:** corte estrutural interno registrado em decomposições anteriores; pode alimentar uma ou mais aulas da entrega vigente;
 - **Experiência ou Prática:** atividade proposta ao participante;
 - **Momento:** passagem interna de uma experiência ou prática;
 - **Slides, mapas, fichas e cadernos:** recursos vinculados.
 
-Uma Parte pode originar uma ou mais microaulas; Partes breves podem compartilhar a mesma microaula. A decomposição audiovisual não altera os códigos 0.1–6.2 nem reabre o conteúdo curricular já consolidado.
+Uma Parte pode originar uma ou mais microaulas internas; uma aula 9/54 pode combinar cortes e conteúdos de mais de uma origem. O mapeamento não altera os códigos 0.1–6.2 nem reabre automaticamente o conteúdo já consolidado.
 
 ### Formulação comercial de estrutura
 
-> **Sete módulos organizados em aulas curtas e progressivas.**
+> **Nove módulos e 54 aulas curtas e progressivas.**
 
-A quantidade definitiva de microaulas somente será divulgada quando a decomposição audiovisual estiver suficientemente avançada.
+### Critério da aula de entrega
 
-### Critério da microaula
-
-Uma microaula deve privilegiar:
+Uma aula deve privilegiar:
 
 - uma pergunta reconhecível;
 - uma ideia principal;
@@ -87,9 +94,9 @@ Uma microaula deve privilegiar:
 
 Não se estabelece duração rígida como critério pedagógico.
 
-### Momento da decomposição
+### Momento da incorporação
 
-A decomposição estrutural em microaulas acontece **logo após a consolidação curricular de cada unidade**, enquanto seu arco, suas transições e seus recursos ainda estão presentes no processo de elaboração. Ela funciona como ponte de organização para a gravação futura, sem reabrir automaticamente o conteúdo aprovado.
+O conteúdo é mapeado à estrutura 9/54 **no marco natural de consolidação**, enquanto seu arco, suas transições e seus recursos ainda estão presentes no processo de elaboração. Essa incorporação organiza a gravação futura sem reabrir automaticamente o núcleo aprovado.
 
 O acabamento audiovisual permanece posterior: roteiro oral, duração definitiva, storyboard, design, leitura cronometrada, piloto e autorização de gravação.
 
@@ -97,8 +104,8 @@ A sequência de trabalho passa a ser:
 
 1. construir integralmente a unidade curricular;
 2. consolidar seu problema, sua capacidade, seu arco e seu ponto de chegada;
-3. decompor imediatamente o arco em microaulas estruturais;
-4. registrar cortes, transições, recursos e necessidades futuras;
+3. relacionar o arco às aulas 9/54 adequadas;
+4. registrar cortes, transições, recursos, fundamentos e reservas;
 5. revisar os títulos públicos;
 6. avançar para a unidade seguinte;
 7. realizar o acabamento audiovisual no momento próprio.
@@ -107,7 +114,7 @@ Essa sequência organiza o trabalho e reduz acúmulo futuro; não constitui novo
 
 ### Critério dos títulos públicos
 
-O título público da microaula deve dizer de imediato pelo menos uma destas coisas:
+O título público da aula deve dizer de imediato pelo menos uma destas coisas:
 
 - qual dificuldade será compreendida;
 - qual diferença ficará mais clara;
@@ -191,11 +198,11 @@ Transformar compreensão acumulada em capacidade progressiva de reconhecer o que
 
 ### Estrutura
 
-Sete módulos organizados em aulas curtas e progressivas. Internamente, o currículo possui 14 unidades curriculares nucleares, decompostas estruturalmente em microaulas logo após a consolidação de cada unidade.
+Nove módulos e 54 aulas curtas e progressivas governam a entrega. Internamente, 7 módulos e 14 unidades curriculares preservam o desenvolvimento, a integração e a rastreabilidade do conteúdo. A matriz de incorporação liga as duas arquiteturas.
 
 ### Formato de entrega
 
-Conteúdo estruturante organizado em microaulas. Encontros ao vivo, quando adotados, cumprem função complementar de integração, aplicação, dúvidas e aprofundamento.
+Conteúdo estruturante organizado em 54 aulas. Encontros ao vivo, quando adotados, cumprem função complementar de integração, aplicação, dúvidas e aprofundamento.
 
 ### Linguagem comercial
 
