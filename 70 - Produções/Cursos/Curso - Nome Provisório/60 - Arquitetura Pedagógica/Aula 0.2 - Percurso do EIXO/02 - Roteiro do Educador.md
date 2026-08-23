@@ -1,11 +1,14 @@
 ---
 tipo: roteiro-do-educador
 aula: "0.2"
-status: base-reconstruida-para-elaboracao-conjunta
-atualizado_em: 2026-07-29
+status: fonte-autoral-consolidada-sucedida-para-producao
+atualizado_em: 2026-08-23
 ---
 
 # Roteiro-base do Educador — Unidade 0.2
+
+> [!important] Estatuto vigente
+> Este roteiro-base preserva a elaboração autoral da Unidade 0.2, mas não é o roteiro oral definitivo de M1.7. A seleção, a ordem e os limites de produção são governados por [[07 - Consolidação de Conteúdo e Destinação para M1.7]].
 
 ## Observação de processo
 
