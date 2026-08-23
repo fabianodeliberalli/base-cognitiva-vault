@@ -3,7 +3,7 @@ tipo: porta-de-entrada-continuidadade
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "3.2"
+versao: "3.3"
 criado_em: 2026-07-21
 atualizado_em: 2026-08-23
 autor: Fabiano Deliberalli
@@ -67,7 +67,15 @@ A identidade profissional de Fabiano é integrada, não compartimentalizada. Pr�
 
 Somente Fabiano Deliberalli aprova decisões autorais. IAs, mentores, consultores e colaboradores analisam, recomendam, executam e registram.
 
-## Deliberação transversal de posicionamento vigente desde 23 de agosto de 2026\n\nA [[07 - Deliberação Transversal - Posicionamento, Linguagem e Arquitetura Dupla - 2026-08-23]] incorpora seletivamente os acréscimos do trabalho com o Vidente. Ela governa posicionamento, linguagem pública e masterclass sem substituir a arquitetura curricular, a Nota-Ponte, a Matriz Mestre, a espiritualidade explícita ou o pluralismo epistemológico não redutivo.\n\nAs formulações aprovadas incluem: **“Saber não é ainda ter acesso”**; **“Sustentar exige mais do que compreender racionalmente”**; competência incorporada como conceito de aprofundamento; presença que sustenta como capacidade suficiente e variável; e **“padrões atraem; acesso reposiciona; Tradução diferencia”**.\n\nO Raio-X de 4 de agosto permanece vigente para comunicação, apresentação comercial e entrega 9/54. O documento consolidado de 23 de agosto funciona como complemento de posicionamento, não como substituição automática. A arquitetura 7/14 continua governando desenvolvimento, integração e rastreabilidade do conteúdo.\n\n## Estado vigente em 23 de agosto de 2026
+## Deliberação transversal de posicionamento vigente desde 23 de agosto de 2026
+
+A [[07 - Deliberação Transversal - Posicionamento, Linguagem e Arquitetura Dupla - 2026-08-23]] incorpora seletivamente os acréscimos do trabalho com o Vidente. Ela governa posicionamento, linguagem pública e masterclass sem substituir a arquitetura curricular, a Nota-Ponte, a Matriz Mestre, a espiritualidade explícita ou o pluralismo epistemológico não redutivo.
+
+As formulações aprovadas incluem: **“Saber não é ainda ter acesso”**; **“Sustentar exige mais do que compreender racionalmente”**; competência incorporada como conceito de aprofundamento; presença que sustenta como capacidade suficiente e variável; e **“padrões atraem; acesso reposiciona; Tradução diferencia”**.
+
+O Raio-X de 4 de agosto permanece vigente para comunicação, apresentação comercial e entrega 9/54. O documento consolidado de 23 de agosto funciona como complemento de posicionamento, não como substituição automática. A arquitetura 7/14 continua governando desenvolvimento, integração e rastreabilidade do conteúdo.
+
+## Estado vigente em 23 de agosto de 2026
 
 ### Curso
 
@@ -153,7 +161,7 @@ Este chat atual assume a função de **Orquestração Curricular Mestre 03**. Um
 
 ### Frente substantiva ativa
 
-> Avaliar a consolidação candidata da **Unidade Curricular 0.2 / M1.7** e iniciar a derivação audiovisual de **M1.1–M1.7** sem reabrir a Unidade 0.1.
+> Iniciar a derivação audiovisual de **M1.1–M1.7** sem reabrir a Unidade 0.1. A Unidade 0.2/M1.7 está consolidada em v1.1 para produção; a gravação permanece condicionada a roteiro, leitura, storyboard, piloto e autorização específica.
 
 A Unidade Curricular 0.1 foi consolidada curricularmente em v1.0 após aprovação explícita de Fabiano. Estão aprovados o título, o subtítulo, as sete Partes, os quatro macroblocos e as funções distintas das práticas das Partes 4, 5 e 7. A Primeira Cartografia pertence à Aula 0.1.
 
@@ -165,7 +173,7 @@ A contagem de 48 slides permanece provisória. Leitura oral, storyboard, piloto 
 
 Em 28 de julho de 2026 foi concluído o [[Mapa Estrutural de Decomposição em Microaulas - Aula 0.1]], que propõe 10 microaulas provisórias e inaugura o padrão de decompor cada unidade logo após sua consolidação curricular. Os dez títulos públicos foram aprovados após revisão de clareza: devem ser diretos, reconhecíveis e compreensíveis fora do contexto da aula, enquanto formulações conceituais mais densas permanecem dentro do conteúdo. O mapa aplica foco, essencialidade e progressão do DOC4 e auditoria comercial subordinada do DOC2; DOC5 e DOC6 permanecem fora do curso atual. A decomposição não altera as sete Partes, os quatro macroblocos nem a autorização de gravação.
 
-Em 22 de agosto de 2026, a Unidade 0.2 foi reunida em [[07 - Consolidação de Conteúdo e Destinação para M1.7]] como candidata v1.0 para avaliação autoral. O documento responde ao núcleo “O que realmente oscila quando perdemos o eixo?”, delimita os dois mapas centrais de M1.7 e destina o restante do patrimônio a material do participante, fundamento do educador e retomadas M3.7, M6.5 e M8.2. A unidade deixa de exigir nova elaboração estrutural; permanece pendente a aprovação autoral e a preparação audiovisual.
+Em 23 de agosto de 2026, [[07 - Consolidação de Conteúdo e Destinação para M1.7]] foi auditada e consolidada em v1.1 para derivação audiovisual. O documento responde ao núcleo “O que realmente oscila quando perdemos o eixo?”, integra “Saber não é ainda ter acesso” e presença que sustenta, delimita os dois mapas centrais e destina o restante do patrimônio a material do participante, fundamento do educador e retomadas M3.7, M6.5 e M8.2. A unidade não exige nova elaboração estrutural; roteiro oral, storyboard definitivo, piloto e autorização de gravação permanecem posteriores.
 
 O conteúdo canônico da Unidade 0.1 foi convertido em [[Plano Efetivo de Produção M1.1 a M1.6]], preservando a correspondência das dez microaulas internas com as seis aulas de entrega, o caso composto em M1.1 e a Primeira Cartografia em M1.6. O plano identifica apenas uma dependência complementar real: extrair do kit revisável da UC 1.1 a versão mínima das Cinco Janelas para M1.5.
 
@@ -217,7 +225,8 @@ Acrescentar:
 | Redação e estatuto individual das formulações | Registro Mestre |
 | Relação entre movimentos, fases e Jornada | Matriz Integrada |
 | Distribuição atual das 14 unidades curriculares | Esqueleto Estrutural vigente |
-| Entrega, comunicação e fotografia comercial em 9 módulos e 54 aulas | Raio-X vigente de 4 de agosto de 2026 |\n| Posicionamento, linguagem pública e condução da masterclass | Deliberação Transversal de 23 de agosto de 2026 e documentos reconciliados vinculados |
+| Entrega, comunicação e fotografia comercial em 9 módulos e 54 aulas | Raio-X vigente de 4 de agosto de 2026 |
+| Posicionamento, linguagem pública e condução da masterclass | Deliberação Transversal de 23 de agosto de 2026 e documentos reconciliados vinculados |
 | Correspondência entre 7/14, 9/54 e os ativos do acervo | Nota-Ponte e Matriz Mestre de Incorporação |
 | Continuidade entre chats e ritual de atualização | Protocolo de Continuidade |
 | Estado e continuidade de um módulo | 00 — Estado, Índice e Continuidade do respectivo módulo |
@@ -230,7 +239,10 @@ Trechos históricos permanecem como memória evolutiva, mas não substituem seç
 
 - Tradução da Experiência Humana como ato pedagógico;
 - diferença entre compreensão, competência incorporada e sabedoria prática;
-- EIXO como capacidade dinâmica de coordenação, retorno e reorganização, não estado permanente;\n- “Saber não é ainda ter acesso” e a distinção compreender–acessar–sustentar;\n- competência incorporada como aprofundamento, não headline fria;\n- presença que sustenta como capacidade suficiente e variável, não promessa de estabilidade;
+- EIXO como capacidade dinâmica de coordenação, retorno e reorganização, não estado permanente;
+- “Saber não é ainda ter acesso” e a distinção compreender–acessar–sustentar;
+- competência incorporada como aprofundamento, não headline fria;
+- presença que sustenta como capacidade suficiente e variável, não promessa de estabilidade;
 - quatro movimentos funcionais e seis fases recursivas;
 - Perceber como abertura transversal;
 - percurso em espiral e movimento pendular;
@@ -293,7 +305,7 @@ O registro integral desta pausa está em [[Encerramento de Sessão - 2026-07-29 
 
 ## Ponto exato de retomada
 
-> Primeiro, realizar a avaliação autoral de [[07 - Consolidação de Conteúdo e Destinação para M1.7]]. Sem nova reorganização, iniciar depois por M1.1 a derivação de roteiro oral, sequência visual e material vinculado conforme [[Plano Efetivo de Produção M1.1 a M1.6]], seguindo até M1.7. Em M1.5, integrar somente a versão mínima necessária das Cinco Janelas do kit revisável da UC 1.1. Antes de storyboard definitivo, fazer leitura longitudinal de M1.1–M1.7. A gravação permanece não autorizada.
+> Iniciar por M1.1 a derivação de roteiro oral, sequência visual e material vinculado conforme [[Plano Efetivo de Produção M1.1 a M1.6]], seguindo sequencialmente até M1.7. Em M1.5, integrar somente a versão mínima necessária das Cinco Janelas do kit revisável da UC 1.1. Antes de storyboard definitivo, fazer leitura longitudinal de M1.1–M1.7. A gravação permanece não autorizada.
 
 ## Relações
 
