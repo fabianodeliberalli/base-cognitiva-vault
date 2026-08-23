@@ -86,7 +86,7 @@ Não há equivalência rígida entre microaula interna e aula de entrega. Repeti
 
 | Elemento | Decisão |
 |---|---|
-| Faixa inicial de vídeo | 15–20 min, sujeita a leitura cronometrada |
+| Faixa candidata após derivação v0.1 | 10–13 min com pausas; confirmar por leitura cronometrada |
 | Recurso narrativo | caso composto; explicitar seu estatuto uma vez |
 | Visual principal | contraste “compreender” / “conseguir responder” e sequência simples do caso |
 | Material vinculado | cartão: “O que esta reação talvez esteja tentando preservar?” |
