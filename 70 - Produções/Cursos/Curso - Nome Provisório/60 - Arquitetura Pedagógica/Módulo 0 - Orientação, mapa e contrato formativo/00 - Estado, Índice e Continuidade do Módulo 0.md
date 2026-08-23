@@ -4,8 +4,8 @@ projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 modulo: 0
 status: ativo
-estado_maturidade: desenvolvimento-e-integracao-do-conteudo
-versao: "3.6"
+estado_maturidade: conteudo-m1-1-a-m1-7-planejado-para-avaliacao-e-producao
+versao: "3.7"
 criado_em: 2026-07-21
 atualizado_em: 2026-08-22
 autor: Fabiano Deliberalli
@@ -170,6 +170,7 @@ A elaboração do Módulo 0 passa a favorecer **Experiência reconhecível → d
 | 2026-07-26 | abrir a auditoria de encerramento da Aula 0.1 |
 | 2026-07-30 | aplicar a Diretriz Transversal sobre espiritualidade explícita, singularidade autoral e não neutralização como orientação governante do Módulo 0, sem reabrir automaticamente a Unidade 0.1 |
 | 2026-08-02 | acrescentar a Aula de Entrada 0.0 como adendo pré-curricular da camada Hotmart, preservando os códigos 0.1–6.2 e a contagem de 14 unidades |
+| 2026-08-22 | reunir a Unidade 0.2 em consolidação candidata v1.0 destinada a M1.7 e converter o conteúdo canônico da Unidade 0.1 em plano efetivo de produção para M1.1–M1.6, sem nova reorganização |
 
 ## Encerramento da sessão de 27 de julho de 2026
 
@@ -205,9 +206,19 @@ O estado desta passagem foi preservado em [[Encerramento de Sessão - 2026-07-29
 
 A Aula de Entrada 0.0 foi registrada como adendo pré-curricular da Hotmart. A decisão não reabre a Unidade 0.1, não desloca a Unidade 0.2 e não altera a arquitetura nuclear. Permanecem em aberto a preparação audiovisual e as condições operacionais específicas da oferta.
 
+## Registro substantivo de 22 de agosto de 2026
+
+- [[07 - Consolidação de Conteúdo e Destinação para M1.7]] reúne o conteúdo da Unidade 0.2 como candidato v1.0 para avaliação autoral;
+- M1.7 permanece uma única aula da entrega, sustentada por dois mapas centrais e uma prática breve;
+- o restante do patrimônio da 0.2 foi destinado a material, fundamento e retomadas M3.7, M6.5 e M8.2;
+- [[Plano Efetivo de Produção M1.1 a M1.6]] documenta a correspondência 10→6 da Unidade 0.1 sem reabrir seu conteúdo;
+- o caso composto permanece primário em M1.1 e a Primeira Cartografia em M1.6;
+- a única dependência complementar identificada é a versão mínima das Cinco Janelas, a extrair do kit revisável da UC 1.1 para M1.5;
+- roteiro oral, storyboard, leitura cronometrada, piloto e gravação continuam posteriores.
+
 ## Ponto de retomada
 
-> No chat curricular ativo **Curso — Módulo 0 — Continuidade 03 — Unidade 0.2**, aplicar primeiro a [[05 - Diretriz Transversal - Espiritualidade Explícita, Singularidade Autoral e Não Neutralização]] e validar autoralmente os quatro gráficos vetoriais-mestre da [[00 - Família de Mapas - Oscilação, Retorno e Equilíbrio Dinâmico]]. Depois, abrir o [[Aula 0.2 - Índice do Kit]] e continuar a Unidade 0.2 a partir do estado documental vigente, usando **Pêndulo, Espiral e Percurso** como mapa visual central e derivando as versões de slide e aplicação sem reconstruir o conteúdo. A Unidade 0.1 permanece encerrada curricularmente; P7 continua pendente antes da consolidação final do Módulo 0.
+> Avaliar autoralmente [[07 - Consolidação de Conteúdo e Destinação para M1.7]]. Depois, sem nova reorganização, iniciar a derivação audiovisual de M1.1 conforme [[Plano Efetivo de Produção M1.1 a M1.6]] e avançar sequencialmente até M1.7. Em M1.5, incorporar apenas a versão mínima das Cinco Janelas necessária à aula. Realizar leitura longitudinal M1.1–M1.7 antes do storyboard definitivo. A Unidade 0.1 permanece encerrada curricularmente; P7 continua pendente antes da consolidação final do Módulo 0.
 
 ## Relações
 
@@ -217,6 +228,8 @@ A Aula de Entrada 0.0 foi registrada como adendo pré-curricular da Hotmart. A d
 
 - [[Aula 0.1 - Índice do Kit]]
 - [[Mapa Estrutural de Decomposição em Microaulas - Aula 0.1]]
+- [[Plano Efetivo de Produção M1.1 a M1.6]]
+- [[07 - Consolidação de Conteúdo e Destinação para M1.7]]
 - [[Auditoria de Procedência, Montagem e Leitura Autoral - Aula 0.1]]
 - [[Roteiro em Elaboração - Partes 6 e 7 - Aula 0.1]]
 - [[Leitura Integrada em Elaboração - Arco das Partes 1 a 7 - Aula 0.1]]

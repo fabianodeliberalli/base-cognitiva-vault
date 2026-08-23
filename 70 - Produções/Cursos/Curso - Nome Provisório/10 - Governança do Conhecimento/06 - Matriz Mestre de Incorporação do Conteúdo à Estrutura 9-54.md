@@ -2,7 +2,7 @@
 tipo: matriz-incorporacao-conteudo
 projeto: Traduzindo o Ser Humano
 status: aprovado-vigente-evolutivo
-versao: "1.0"
+versao: "1.1"
 criado_em: 2026-08-22
 atualizado_em: 2026-08-22
 autor: Fabiano Deliberalli
@@ -20,8 +20,8 @@ Esta matriz liga a arquitetura de desenvolvimento e rastreabilidade 7/14 à arqu
 | Origem de desenvolvimento e rastreabilidade | Destino principal na entrega 9/54 | Retornos e recursos relacionados | Estado da correspondência |
 |---|---|---|---|
 | Aula de Entrada 0.0 | M0.1 Boas-vindas; M0.2 Como usar o percurso, os mapas, as práticas e os materiais; M0.3 O que você precisa ter ou saber antes de começar | orientações éticas e de participação ao longo do curso | corrigido e vigente |
-| UC 0.1 — Da compreensão acumulada à competência incorporada | M1.1 a M1.6 | Primeira Cartografia em M1.6; distinções retomadas em M4 e M6 | conteúdo consolidado; adaptação de entrega pendente |
-| UC 0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança | M1.7 Perder o eixo não significa perder o percurso | M3.7 recursos de retorno; M6.5 Tradução/EIXO em espiral; M8.2 continuidade | elaboração ativa; destino primário definido |
+| UC 0.1 — Da compreensão acumulada à competência incorporada | M1.1 a M1.6 | Primeira Cartografia em M1.6; distinções retomadas em M4 e M6 | conteúdo consolidado; plano efetivo de produção 10→6 concluído |
+| UC 0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança | M1.7 Perder o eixo não significa perder o percurso | M3.7 recursos de retorno; M6.5 Tradução/EIXO em espiral; M8.2 continuidade | conteúdo consolidado como candidato v1.0 para avaliação autoral |
 | UC 1.1 — A experiência em sua multidimensionalidade | M1.4 a M1.6; M2.1 a M2.3 e M2.5 | Cartografia Multidimensional e Cinco Janelas | patrimônio disponível; integração a desenvolver |
 | UC 1.2 — Do vivido à Tradução | M2.4 a M2.6 | Tradução provisória retomada nos módulos 4 a 7 | patrimônio disponível; integração a desenvolver |
 | UC 2.1 — Energia, vitalidade e experiência nas Tradições Orientais | M3.5 e M3.6 | presença longitudinal de energia e vitalidade | arquitetura aprovada; conteúdo a desenvolver |
@@ -43,7 +43,7 @@ Esta matriz liga a arquitetura de desenvolvimento e rastreabilidade 7/14 à arqu
 | Dez microaulas estruturais da UC 0.1 | títulos e decomposição aprovados | fonte de corte para M1.1–M1.6; conteúdos relacionados em M4 | não assumir equivalência 10→6; documentar combinações e retomadas |
 | Caso didático composto e descaracterizado | concluído na UC 0.1 | primário em M1.1; eco conceitual em M4.4 | preservar função protetiva e confidencialidade; não reabrir o caso |
 | Primeira Cartografia | pertence à UC 0.1 | M1.6 | material necessário ao participante |
-| Título e distinções da UC 0.2 | aprovados/em consolidação | M1.7 | núcleo da aula; conclusão autoral permanece ativa |
+| Título e distinções da UC 0.2 | aprovados e reunidos em consolidação candidata v1.0 | M1.7 | núcleo delimitado; aguarda avaliação autoral antes da produção audiovisual |
 | Mapas de centro, EIXO, estado, pêndulo e espiral | aprovados ou vinculados à UC 0.2 conforme seus registros | M1.7; recursos em M3.7, M6.5 e M8.2 | preservar arquivos; adaptar apenas uso e vínculo quando necessário |
 | Kit/protótipo da UC 1.1 | protótipo revisável | M1.4–M1.6 e M2.1–M2.3/M2.5 | matéria-prima qualificada; não governa automaticamente a versão final |
 | ABBSP, trabalhos acadêmicos e autorais, NHI, bibliografia, práticas e mapas | acervo disponível com estatutos próprios | conforme aula e função | separar fundamento do educador, conteúdo, recurso, aprofundamento e reserva |
@@ -54,8 +54,13 @@ Ao consolidar uma aula da estrutura 9/54, acrescentar ou atualizar uma linha com
 
 | Aula 9/54 | Capacidade e ponto de chegada | Unidades/ativos de origem | Conteúdo do participante | Fundamento do educador | Prática/recursos | Reserva/exclusão | Estado |
 |---|---|---|---|---|---|---|---|
-| M1.1 — Por que entender um padrão não impede que ele se repita? | distinguir compreensão de acesso e resposta incorporada | UC 0.1; caso composto; roteiro consolidado v1.0 | caso e distinção central | fundamentos sobre padrão, proteção e incorporação | recurso narrativo do caso | aprofundamentos não necessários à entrada | correspondência aprovada; produção audiovisual pendente |
-| M1.7 — Perder o eixo não significa perder o percurso | reconhecer deslocamento sem confundir estado, centro e percurso | UC 0.2; mapas aprovados | núcleo em elaboração | fundamentos autorais e transversais da UC 0.2 | mapas, práticas e retornos | redistribuição para M3.7/M6.5/M8.2 | elaboração ativa |
+| M1.1 — Por que entender um padrão não impede que ele se repita? | reconhecer a distância entre compreensão e resposta disponível | UC 0.1; microaulas 0.1.1 e 0.1.3; caso composto | duas portas de entrada; caso; função protetiva como hipótese | padrão, proteção e incorporação | caso composto; cartão de investigação | eco conceitual, sem repetir o caso, em M4.4 | plano de produção concluído; derivação audiovisual pendente |
+| M1.2 — Saber, acessar e sustentar não são a mesma coisa | distinguir conhecimento, acesso, sustentação e uso/revisão | UC 0.1; microaula 0.1.2 | distinção dos quatro momentos | disponibilidade variável das capacidades | auto-observação breve | aprofundamento de incorporação em M1.3 | plano de produção concluído; derivação audiovisual pendente |
+| M1.3 — O que é competência incorporada — e o que ela não promete | reconhecer disponibilidade progressiva sem ideal de controle | UC 0.1; microaula 0.1.9; Parte 6 | definição, indicadores e limites | aprendizagem, incorporação e primeira aproximação ao EIXO | indicadores seletivos | pêndulo, espiral e três níveis reservados a M1.7 | plano de produção concluído; derivação audiovisual pendente |
+| M1.4 — A experiência é o território; as explicações são mapas | diferenciar vivido, percepção, nomeação, interpretação e hipótese | UC 0.1; microaulas 0.1.4 e 0.1.5; contribuições da UC 1.1 | território, mapas e pluralidade criteriosa | estatutos epistemológicos e pluralismo não redutivo | quadro de diferenciação | teoria epistemológica expandida no bastidor | plano de produção concluído; derivação audiovisual pendente |
+| M1.5 — As Cinco Janelas: ampliar a leitura do que acontece | observar por perguntas complementares com escolha e dosagem | UC 0.1, microaula 0.1.6; Cartografia das Cinco Janelas e kit revisável da UC 1.1 | versão mínima das cinco perguntas | multidimensionalidade e estatutos das linguagens | ficha assíncrona reduzida; prática seletiva | versão integral histórica da UC 1.1 permanece matéria-prima | plano concluído com dependência complementar identificada |
+| M1.6 — Primeira Cartografia: localizar-se antes de responder | organizar situação, manifestação, Tradução provisória e orientação possível | UC 0.1; microaulas 0.1.7, 0.1.8 e 0.1.10; Partes 5 e 7 | quatro territórios e pergunta transversal | tradução, revisão e indeterminação | ficha necessária; prática guiada | mapas mais amplos permanecem posteriores | plano de produção concluído; derivação audiovisual pendente |
+| M1.7 — Perder o eixo não significa perder o percurso | reconhecer que estado, acesso e coordenação oscilam sem apagar referência e percurso | UC 0.2; consolidação candidata v1.0; mapas aprovados | três níveis; pêndulo e espiral; responsabilidade situada | experiência preditiva, corpo, memória, contexto, regulação e pluralismo | dois mapas centrais; prática Reconhecer para retornar; cartão | Desenvolvimento do Retorno em M3.7/M6.5/M8.2; Três Perspectivas no bastidor | conteúdo consolidado para avaliação autoral; audiovisual pendente |
 
 ## Critério de completude
 
@@ -63,14 +68,16 @@ Uma aula não precisa consumir todo o patrimônio relacionado. Ela precisa demon
 
 ## Ponto de retomada
 
-1. concluir a UC 0.2 sem reabrir a UC 0.1;
-2. converter o conteúdo consolidado da UC 0.1 em plano de produção para M1.1–M1.6;
+1. avaliar autoralmente a consolidação candidata da UC 0.2/M1.7;
+2. derivar os roteiros orais e recursos de M1.1–M1.7 segundo os planos concluídos;
 3. atualizar esta matriz a cada marco natural de consolidação;
-4. auditar longitudinalmente a 9/54 antes de gravações definitivas.
+4. auditar longitudinalmente M1.1–M1.7 antes de storyboard e gravações definitivas.
 
 ## Relações
 
 - [[05 - Nota-Ponte - Desenvolvimento do Conteúdo 7-14 e Entrega 9-54]]
 - [[Mapa Estrutural de Decomposição em Microaulas - Aula 0.1]]
+- [[Plano Efetivo de Produção M1.1 a M1.6]]
+- [[07 - Consolidação de Conteúdo e Destinação para M1.7]]
 - [[09 - Esqueleto Estrutural da Primeira Oferta Integral para Mentoria]]
 - [[00 - Índice e Estado do Raio X - Mentoria - 2026-08-04]]

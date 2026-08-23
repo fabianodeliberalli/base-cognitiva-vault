@@ -6,9 +6,9 @@ modulo: 0
 aula: "0.1"
 status: ativo
 estado_maturidade: consolidada-v1.0-auditoria-de-encerramento-concluida
-versao: "1.5"
+versao: "1.6"
 criado_em: 2026-07-26
-atualizado_em: 2026-07-28
+atualizado_em: 2026-08-22
 autor_do_curso: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
@@ -25,6 +25,7 @@ autoridade_de_aprovacao: Fabiano Deliberalli
 - **Gravação:** não autorizada;
 - **Nomenclatura interna:** Partes 1–7.
 - **Decomposição audiovisual:** mapa estrutural piloto v0.1 com 10 microaulas provisórias.
+- **Destino vigente:** plano efetivo de produção para M1.1–M1.6 concluído, sem reabertura curricular.
 
 ## Estado documental
 
@@ -201,6 +202,13 @@ Esses materiais podem informar a revisão, mas não constituem a versão curricu
    - registra focos, cortes, transições, recursos e dependências audiovisuais;
    - não autoriza gravação.
 
+22. [[Plano Efetivo de Produção M1.1 a M1.6]]
+   - documenta a correspondência dos dez cortes internos com as seis aulas vigentes de entrega;
+   - preserva o caso composto como núcleo de M1.1 e a Primeira Cartografia como núcleo de M1.6;
+   - destina as três práticas sem fusão silenciosa;
+   - identifica a versão mínima das Cinco Janelas como única dependência complementar de M1.5;
+   - não reabre o conteúdo canônico nem autoriza gravação.
+
 ## Registro de encerramento da sessão
 
 - [[Encerramento de Sessão - 2026-07-27 - Consolidação da Aula 0.1]]
@@ -210,7 +218,7 @@ Esses materiais podem informar a revisão, mas não constituem a versão curricu
 
 ## Ponto de continuidade
 
-> A Unidade Curricular 0.1 permanece encerrada curricularmente em v1.0. Seu mapa estrutural piloto de decomposição em microaulas foi concluído em 28 de julho de 2026, sem reabertura do conteúdo. Os 10 cortes e os 48 slides permanecem provisórios até leitura oral, storyboard e piloto; a gravação não está autorizada. O próximo ponto curricular do Módulo 0 é a Unidade 0.2.
+> A Unidade Curricular 0.1 permanece encerrada curricularmente em v1.0. Seu conteúdo foi destinado a M1.1–M1.6 em [[Plano Efetivo de Produção M1.1 a M1.6]], sem reabertura. O próximo movimento é derivar, a partir de M1.1, roteiro oral, sequência visual e material vinculado, preservando leitura longitudinal até M1.7. A gravação permanece não autorizada.
 
 ## Relações
 

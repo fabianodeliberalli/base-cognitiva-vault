@@ -3,7 +3,7 @@ tipo: porta-de-entrada-continuidadade
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "3.0"
+versao: "3.1"
 criado_em: 2026-07-21
 atualizado_em: 2026-08-22
 autor: Fabiano Deliberalli
@@ -146,14 +146,14 @@ A [[04 - Deliberação Transversal - Público, Microaulas e Arquitetura de Marca
 - **unidade conversacional de produção:** um chat ativo por módulo, aberto somente quando o módulo entrar em trabalho real;
 - **separação de frentes:** o desenvolvimento e a integração do conteúdo da unidade ativa pertencem ao chat curricular designado; chats destinados ao Raio-X, à fotografia estrutural ou à mentoria permanecem nessa finalidade, mas suas decisões aprovadas de entrega devem ser refletidas na matriz;
 - **memória oficial:** documentos do Obsidian sincronizados neste repositório;
-- **ordem de foco:** Unidade 0.1 encerrada → Unidade 0.2 ativa → síntese do Módulo 0 → Unidades 1.1 e 1.2 → módulos seguintes; conexões e revisões podem ocorrer sem funcionar como bloqueios formais;
+- **ordem de foco:** avaliar a consolidação da Unidade 0.2/M1.7 → produzir audiovisualmente M1.1–M1.7 a partir dos planos vigentes → síntese do Módulo 0 → unidades seguintes; conexões e revisões podem ocorrer sem funcionar como bloqueios formais;
 - **revisões de consolidação:** realizadas quando uma aula ou módulo alcançar maturidade autoral ou precisar ser preparado para pilotagem; não bloqueiam a exploração criativa.
 
 Este chat atual assume a função de **Orquestração Curricular Mestre 03**. Um novo chat mestre só deverá ser aberto quando este atingir limite operacional; a continuidade será recuperada por esta nota, pelo Protocolo e pelos índices, não pela memória conversacional.
 
-### Frente curricular ativa
+### Frente substantiva ativa
 
-> Retomar a **Unidade Curricular 0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança**
+> Avaliar a consolidação candidata da **Unidade Curricular 0.2 / M1.7** e iniciar a derivação audiovisual de **M1.1–M1.7** sem reabrir a Unidade 0.1.
 
 A Unidade Curricular 0.1 foi consolidada curricularmente em v1.0 após aprovação explícita de Fabiano. Estão aprovados o título, o subtítulo, as sete Partes, os quatro macroblocos e as funções distintas das práticas das Partes 4, 5 e 7. A Primeira Cartografia pertence à Aula 0.1.
 
@@ -165,7 +165,9 @@ A contagem de 48 slides permanece provisória. Leitura oral, storyboard, piloto 
 
 Em 28 de julho de 2026 foi concluído o [[Mapa Estrutural de Decomposição em Microaulas - Aula 0.1]], que propõe 10 microaulas provisórias e inaugura o padrão de decompor cada unidade logo após sua consolidação curricular. Os dez títulos públicos foram aprovados após revisão de clareza: devem ser diretos, reconhecíveis e compreensíveis fora do contexto da aula, enquanto formulações conceituais mais densas permanecem dentro do conteúdo. O mapa aplica foco, essencialidade e progressão do DOC4 e auditoria comercial subordinada do DOC2; DOC5 e DOC6 permanecem fora do curso atual. A decomposição não altera as sete Partes, os quatro macroblocos nem a autorização de gravação.
 
-A Unidade Curricular 0.2 é agora a frente curricular ativa do Módulo 0.
+Em 22 de agosto de 2026, a Unidade 0.2 foi reunida em [[07 - Consolidação de Conteúdo e Destinação para M1.7]] como candidata v1.0 para avaliação autoral. O documento responde ao núcleo “O que realmente oscila quando perdemos o eixo?”, delimita os dois mapas centrais de M1.7 e destina o restante do patrimônio a material do participante, fundamento do educador e retomadas M3.7, M6.5 e M8.2. A unidade deixa de exigir nova elaboração estrutural; permanece pendente a aprovação autoral e a preparação audiovisual.
+
+O conteúdo canônico da Unidade 0.1 foi convertido em [[Plano Efetivo de Produção M1.1 a M1.6]], preservando a correspondência das dez microaulas internas com as seis aulas de entrega, o caso composto em M1.1 e a Primeira Cartografia em M1.6. O plano identifica apenas uma dependência complementar real: extrair do kit revisável da UC 1.1 a versão mínima das Cinco Janelas para M1.5.
 
 ### Lugar da Aula 1.1
 
@@ -291,9 +293,7 @@ O registro integral desta pausa está em [[Encerramento de Sessão - 2026-07-29 
 
 ## Ponto exato de retomada
 
-O adendo da [[Aula de Entrada 0.0 - Boas-vindas, navegação e condições de participação]] foi registrado sem alterar a frente curricular ativa. A retomada permanece dedicada à validação e à continuidade da Unidade 0.2.
-
-> No chat curricular ativo **Curso — Módulo 0 — Continuidade 03 — Unidade 0.2**, começar pela validação autoral dos quatro gráficos vetoriais-mestre da [[00 - Família de Mapas - Oscilação, Retorno e Equilíbrio Dinâmico]]. Em seguida, abrir o [[Aula 0.2 - Índice do Kit]] e continuar a Unidade 0.2 a partir do material vigente, usando **Pêndulo, Espiral e Percurso** como mapa visual central e derivando somente as versões necessárias para slides e aplicação. Não reabrir a Unidade 0.1 nem reconstruir os fundamentos já consolidados.
+> Primeiro, realizar a avaliação autoral de [[07 - Consolidação de Conteúdo e Destinação para M1.7]]. Sem nova reorganização, iniciar depois por M1.1 a derivação de roteiro oral, sequência visual e material vinculado conforme [[Plano Efetivo de Produção M1.1 a M1.6]], seguindo até M1.7. Em M1.5, integrar somente a versão mínima necessária das Cinco Janelas do kit revisável da UC 1.1. Antes de storyboard definitivo, fazer leitura longitudinal de M1.1–M1.7. A gravação permanece não autorizada.
 
 ## Relações
 
@@ -312,6 +312,8 @@ O adendo da [[Aula de Entrada 0.0 - Boas-vindas, navegação e condições de pa
 - [[00 - Modelo de Estado, Índice e Continuidade do Módulo]]
 - [[00 - Estado, Índice e Continuidade do Módulo 0]]
 - [[Aula 0.1 - Índice do Kit]]
+- [[Plano Efetivo de Produção M1.1 a M1.6]]
+- [[07 - Consolidação de Conteúdo e Destinação para M1.7]]
 - [[Auditoria de Procedência, Montagem e Leitura Autoral - Aula 0.1]]
 - [[Encerramento de Sessão - 2026-07-27 - Consolidação da Aula 0.1]]
 - [[Prompts de Abertura - Orquestração Curricular Mestre e Módulo 0]]
