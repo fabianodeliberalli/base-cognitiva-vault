@@ -3,8 +3,8 @@ tipo: indice-de-versoes
 projeto: Traduzindo o Ser Humano
 assunto: Raio-X do Produto e documentação de consultoria
 status: vigente
-versao: "1.1"
-atualizado_em: 2026-08-22
+versao: "1.2"
+atualizado_em: 2026-08-23
 autor: Fabiano Deliberalli
 autoridade_da_versao_vigente: Fabiano Deliberalli
 tags:
@@ -30,7 +30,7 @@ O arquivo abaixo é a versão válida escolhida e aprovada por Fabiano para leva
 
 A palavra “vigente” significa vigente para a entrega, a comunicação e a fotografia comercial da oferta. O arquivo governa a estrutura 9/54. Os documentos 7/14 governam o desenvolvimento, a integração e a rastreabilidade do conteúdo. Nenhum substitui automaticamente o outro; a correspondência é documentada na Nota-Ponte e na Matriz Mestre de Incorporação.
 
-### Correção técnica de consistência — 22 de agosto de 2026
+### Incorporação de posicionamento — 23 de agosto de 2026\n\nO trabalho de posicionamento realizado com o Vidente acrescentou linguagem proprietária, definições de competência incorporada e presença que sustenta e diretrizes para a masterclass. Após reconciliação, esses acréscimos foram formalizados na [[07 - Deliberação Transversal - Posicionamento, Linguagem e Arquitetura Dupla - 2026-08-23]].\n\nO **Raio-X vigente de 4 de agosto continua governando a fotografia comercial 9/54**. O “Raio-X consolidado de posicionamento reconciliado — 23/08/2026” é documento complementar de linguagem: não substitui automaticamente o arquivo vigente, não altera a arquitetura 7/14 e não autoriza perda de conteúdo. Uma futura substituição do Raio-X exigirá aprovação autoral expressa e preservação da versão anterior no histórico.\n\n### Correção técnica de consistência — 22 de agosto de 2026
 
 O arquivo aprovado declarava 3 aulas no Módulo inicial e 54 no total, mas detalhava apenas 2 aulas no Módulo 0, somando 53. A correção não restaurou a antiga aula de apresentação da mentoria e não alterou a proposta comercial. O conteúdo de orientação já existente foi organizado em três aulas:
 
@@ -92,4 +92,4 @@ Uma nova versão substantiva do Raio-X deve ser adicionada como novo arquivo dat
 - [[10 - Raio X do Produto/Interno/Registro Interno - Análises Operacionais do Raio X - 2026-08-02]]
 - [[Protocolo de Elaboração Curricular Viva e Continuidade Leve]]
 - [[05 - Nota-Ponte - Desenvolvimento do Conteúdo 7-14 e Entrega 9-54]]
-- [[06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54]]
+- [[06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54]]\n- [[07 - Deliberação Transversal - Posicionamento, Linguagem e Arquitetura Dupla - 2026-08-23]]
