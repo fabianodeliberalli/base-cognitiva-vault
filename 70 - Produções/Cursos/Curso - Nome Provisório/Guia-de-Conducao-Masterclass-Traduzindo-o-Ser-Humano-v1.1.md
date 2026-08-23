@@ -1,4 +1,4 @@
-# Guia de Condução Completo da Masterclass
+> [!warning] VERSÃO HISTÓRICA — NÃO USAR PARA CONDUÇÃO ATUAL\n> O documento vigente é o [[Guia-de-Conducao-Masterclass-Traduzindo-o-Ser-Humano-v2.6]], governado por [[Guia-de-Conducao-Masterclass - Estado e Continuidade]] e pela [[07 - Deliberação Transversal - Posicionamento, Linguagem e Arquitetura Dupla - 2026-08-23]]. Esta v1.1 permanece apenas como memória de desenvolvimento.\n\n# Guia de Condução Completo da Masterclass
 
 ## Por que você entende seus padrões, mas continua repetindo?
 
