@@ -3,10 +3,10 @@ tipo: consolidacao-de-conteudo-e-destinacao
 projeto: Traduzindo o Ser Humano
 unidade_curricular: "0.2"
 destino_entrega: "M1.7"
-status: candidato-v1.0-para-avaliacao-autoral
-versao: "1.0"
+status: consolidado-v1.1-para-derivacao-audiovisual
+versao: "1.1"
 criado_em: 2026-08-22
-atualizado_em: 2026-08-22
+atualizado_em: 2026-08-23
 autor_do_curso: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 gravacao_autorizada: false
@@ -20,7 +20,7 @@ gravacao_autorizada: false
 **Subtítulo:** Por que nem sempre nossas capacidades ficam mais acessíveis ao longo da experiência  
 **Título na entrega 9/54:** M1.7 — Perder o eixo não significa perder o percurso  
 **Pergunta nuclear:** O que realmente oscila quando perdemos o eixo?  
-**Estado desta versão:** conteúdo reunido e delimitado como candidato v1.0 para avaliação autoral; roteiro oral, duração final, storyboard, piloto e gravação permanecem posteriores.
+**Estado desta versão:** conteúdo consolidado em v1.1 e liberado para derivação audiovisual. Roteiro oral, duração final, storyboard definitivo, piloto e autorização de gravação permanecem posteriores.
 
 Esta consolidação não cria uma terceira arquitetura nem comprime todo o patrimônio da Unidade 0.2 no vídeo de M1.7. Ela preserva o arco autoral da unidade e define o que entra na aula, o que a acompanha e o que será retomado mais adiante.
 
@@ -37,6 +37,10 @@ Ao final de M1.7, o participante deverá conseguir:
 ## Tese central consolidada
 
 > Perder o eixo não significa perder o centro, a Essência ou tudo o que já foi construído. O que pode oscilar é o estado momentâneo e, com ele, o acesso às capacidades de perceber, diferenciar, coordenar e escolher. O EIXO é a função dinâmica que favorece contato, reconhecimento do deslocamento, retorno possível e orientação. O percurso aparece não na ausência de toda oscilação, mas na transformação progressiva da maneira de reconhecê-la, atravessá-la, responder aos seus efeitos e aprender com ela.
+
+A tese pública **“Saber não é ainda ter acesso”** nomeia a porta de entrada desta aula. M1.7 aprofunda o que acontece quando o acesso se estreita e mostra que sustentar uma capacidade exige mais do que compreendê-la racionalmente.
+
+Aqui, **presença que sustenta** significa presença suficiente para continuar em contato com o que acontece, diferenciar o que está misturado e recuperar orientação antes que o impulso decida tudo sozinho. Não significa estabilidade permanente, neutralização da intensidade ou controle total do estado.
 
 Essa formulação preserva simultaneamente três responsabilidades:
 
@@ -209,7 +213,23 @@ Utilizar uma situação cotidiana de intensidade leve ou moderada. A pessoa pode
 
 Essa destinação resolve a assimetria entre a densidade do kit e uma única aula de entrega: o acervo não é descartado nem despejado integralmente em M1.7. Cada componente recebe função e endereço.
 
-## Critérios para aprovação autoral
+## Auditoria de coerência e liberação para produção — 23 de agosto de 2026
+
+A consolidação foi confrontada com a Nota-Ponte 7/14–9/54, a Matriz Mestre de Incorporação, a Diretriz de Espiritualidade Explícita, o Pluralismo Epistemológico Não Redutivo e a Deliberação de Posicionamento de 23 de agosto.
+
+Resultado:
+
+- a Unidade 0.2 permanece como origem curricular e M1.7 como destino principal de entrega;
+- “Saber não é ainda ter acesso” funciona como porta de entrada, sem substituir o conteúdo;
+- competência incorporada e presença que sustenta permanecem capacidades progressivas, não promessas de estabilidade;
+- Centro/Essência/Self, EIXO, estado e acesso continuam diferenciados;
+- energia, corporeidade, espiritualidade, relação e contexto permanecem legítimos e não são reduzidos a uma única explicação;
+- os ativos excedentes possuem destinos explícitos e nenhum material consolidado fica órfão;
+- o roteiro-base e o storyboard anteriores permanecem como fontes, não como versões audiovisuais finais.
+
+**Veredito:** conteúdo consolidado e coerente para derivação audiovisual. A gravação continua não autorizada até roteiro oral, leitura cronometrada, storyboard definitivo, piloto e deliberação específica.
+
+## Critérios de integridade preservados
 
 - a resposta à pergunta “o que oscila?” preserva Centro/Essência/Self, EIXO e estado sem fusão;
 - M1.7 continua sendo uma aula coerente, e não um módulo comprimido;
@@ -219,13 +239,13 @@ Essa destinação resolve a assimetria entre a densidade do kit e uma única aul
 - energia, espiritualidade e referência profunda permanecem legítimas, sem serem utilizadas como explicação obrigatória;
 - o patrimônio destinado a outras aulas continua rastreável.
 
-## Próximo movimento após aprovação
+## Próximo movimento de produção
 
-1. derivar roteiro oral limpo de M1.7;
-2. selecionar somente as telas necessárias dos mapas aprovados;
-3. produzir o cartão do participante;
-4. realizar leitura cronometrada e revisão de carga;
-5. preparar storyboard e piloto;
+1. iniciar por M1.1 a derivação audiovisual sequencial do conjunto M1.1–M1.7;
+2. manter M1.7 como fecho do arco, com os dois mapas centrais e a prática breve;
+3. realizar leitura longitudinal de M1.1–M1.7 antes do storyboard definitivo;
+4. derivar o roteiro oral limpo de M1.7, selecionar as telas necessárias e produzir o cartão do participante;
+5. realizar leitura cronometrada, revisão de carga e piloto;
 6. autorizar gravação somente após deliberação específica.
 
 ## Relações
@@ -236,4 +256,5 @@ Essa destinação resolve a assimetria entre a densidade do kit e uma única aul
 - [[00 - Família de Mapas - Oscilação, Retorno e Equilíbrio Dinâmico]]
 - [[05 - Nota-Ponte - Desenvolvimento do Conteúdo 7-14 e Entrega 9-54]]
 - [[06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54]]
+- [[07 - Deliberação Transversal - Posicionamento, Linguagem e Arquitetura Dupla - 2026-08-23]]
 
