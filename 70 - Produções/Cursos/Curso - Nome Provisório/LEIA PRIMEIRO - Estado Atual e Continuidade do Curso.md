@@ -3,7 +3,7 @@ tipo: porta-de-entrada-continuidadade
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "3.3"
+versao: "3.4"
 criado_em: 2026-07-21
 atualizado_em: 2026-08-23
 autor: Fabiano Deliberalli
@@ -305,7 +305,7 @@ O registro integral desta pausa está em [[Encerramento de Sessão - 2026-07-29 
 
 ## Ponto exato de retomada
 
-> Iniciar por M1.1 a derivação de roteiro oral, sequência visual e material vinculado conforme [[Plano Efetivo de Produção M1.1 a M1.6]], seguindo sequencialmente até M1.7. Em M1.5, integrar somente a versão mínima necessária das Cinco Janelas do kit revisável da UC 1.1. Antes de storyboard definitivo, fazer leitura longitudinal de M1.1–M1.7. A gravação permanece não autorizada.
+> Realizar leitura autoral e cronometrada de [[M1.1 - Pacote de Derivação Audiovisual v0.1]], registrar ajustes de oralidade e carga e iniciar M1.2. Avançar sequencialmente até M1.7, integrar em M1.5 somente a versão mínima das Cinco Janelas e realizar leitura longitudinal M1.1–M1.7 antes dos storyboards definitivos. A gravação permanece não autorizada.
 
 ## Relações
 
@@ -326,6 +326,8 @@ O registro integral desta pausa está em [[Encerramento de Sessão - 2026-07-29 
 - [[Aula 0.1 - Índice do Kit]]
 - [[Plano Efetivo de Produção M1.1 a M1.6]]
 - [[07 - Consolidação de Conteúdo e Destinação para M1.7]]
+- [[00 - Estado e Continuidade da Produção M1]]
+- [[M1.1 - Pacote de Derivação Audiovisual v0.1]]
 - [[Auditoria de Procedência, Montagem e Leitura Autoral - Aula 0.1]]
 - [[Encerramento de Sessão - 2026-07-27 - Consolidação da Aula 0.1]]
 - [[Prompts de Abertura - Orquestração Curricular Mestre e Módulo 0]]
