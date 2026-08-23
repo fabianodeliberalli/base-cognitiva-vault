@@ -9,10 +9,10 @@ destinos_entrega:
   - M1.4
   - M1.5
   - M1.6
-status: pronto-para-avaliacao-e-producao
-versao: "1.0"
+status: aprovado-para-derivacao-audiovisual
+versao: "1.1"
 criado_em: 2026-08-22
-atualizado_em: 2026-08-22
+atualizado_em: 2026-08-23
 autor_do_curso: Fabiano Deliberalli
 nao_reabre_curriculo: true
 gravacao_autorizada: false
@@ -25,6 +25,18 @@ gravacao_autorizada: false
 Converter o conteúdo canônico da Unidade 0.1 em seis aulas da arquitetura vigente de entrega 9/54, preservando sua procedência e seu núcleo de sentido. Este plano não reabre as sete Partes, os quatro macroblocos, as dez microaulas estruturais, o caso composto, a Primeira Cartografia nem as decisões autorais encerradas.
 
 A operação é de **seleção, combinação, adaptação de linguagem e destinação audiovisual**. Os dez cortes internos continuam válidos como fontes de progressão, mas não precisam aparecer como dez aulas da plataforma.
+
+## Incorporação do posicionamento de 23 de agosto
+
+As formulações promovidas a decisões transversais entram como camada de acesso e nomeação, sem substituir a progressão curricular:
+
+- **“Padrões atraem; acesso reposiciona; Tradução diferencia.”** orienta a passagem da identificação inicial ao mecanismo do curso;
+- **“Saber não é ainda ter acesso.”** organiza a ponte entre M1.1 e M1.2;
+- **compreender → acessar → sustentar** estrutura M1.2 sem funcionar como escada rígida;
+- **competência incorporada** é nomeada somente em M1.3, depois que o problema foi vivido e diferenciado;
+- **presença que sustenta** é introduzida como capacidade suficiente e variável, com aprofundamento em M1.7.
+
+Essas formulações não autorizam promessas de estabilidade, controle total ou aquisição instantânea.
 
 ## Resultado do módulo
 
@@ -93,7 +105,7 @@ Não há equivalência rígida entre microaula interna e aula de entrega. Repeti
 
 1. **Saber:** possuir linguagem, explicação ou orientação.
 2. **Acessar:** conseguir encontrar essa orientação quando a situação acontece.
-3. **Sustentar:** manter presença e coordenação suficientes para uma resposta possível.
+3. **Sustentar:** manter presença e coordenação suficientes para uma resposta possível. Presença que sustenta é presença suficiente para continuar em contato com o que acontece, diferenciar o que está misturado e recuperar orientação antes que o impulso decida tudo sozinho.
 4. **Utilizar e revisar:** agir, observar efeitos e aprender.
 5. **Proteção pedagógica:** acesso varia; perceber depois, pausar, retornar ou pedir apoio também são formas relevantes de aprendizagem.
 
@@ -119,7 +131,7 @@ Não há equivalência rígida entre microaula interna e aula de entrega. Repeti
 ### Arco de conteúdo
 
 1. **Do conhecimento à disponibilidade:** uma ideia pode orientar sem ainda participar de todas as respostas.
-2. **Competência incorporada:** capacidade progressivamente acessível antes, durante ou depois de uma situação.
+2. **Competência incorporada:** é quando aquilo que foi compreendido começa a ficar mais disponível nas situações reais da vida — antes, durante ou depois de uma situação.
 3. **Indicadores concretos:** perceber mais cedo; conservar alguma presença; retornar; pedir apoio; limitar efeitos; reparar; aprender.
 4. **O que não promete:** ausência de oscilação, estabilidade constante, controle do organismo, resposta perfeita ou superioridade.
 5. **Primeira aproximação ao EIXO:** capacidade de perceber afastamento, recuperar presença possível e reencontrar direção; aprofundamento reservado a M1.7.
