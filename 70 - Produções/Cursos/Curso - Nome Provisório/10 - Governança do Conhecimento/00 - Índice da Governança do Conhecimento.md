@@ -3,10 +3,10 @@ tipo: indice-governanca-conhecimento
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "1.2"
+versao: "1.3"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-21
-atualizado_em: 2026-08-22
+atualizado_em: 2026-08-23
 ---
 
 # Índice — Governança do Conhecimento e Disponibilidade do Acervo
@@ -18,7 +18,7 @@ atualizado_em: 2026-08-22
 3. [[03 - Reconciliação Documental dos Fundamentos Transversais e Revisão Curricular]] — canonização das decisões aprovadas, integração ABBSP–patrimônio autoral–neurociência–arquitetura plural, revisão das 14 aulas e do Raio X.
 4. [[04 - Deliberação Transversal - Pluralismo Epistemológico Não Redutivo e Integração Autoral]] — posição epistemológica governante, identidade autoral integrada, substituição de “consiliência crítica” e protocolo obrigatório para IAs e colaboradores.
 5. [[05 - Nota-Ponte - Desenvolvimento do Conteúdo 7-14 e Entrega 9-54]] — separação funcional e ligação obrigatória entre as duas arquiteturas.
-6. [[06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54]] — correspondência evolutiva entre unidades, aulas e ativos do acervo.
+6. [[06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54]] — correspondência evolutiva entre unidades, aulas e ativos do acervo.\n7. [[07 - Deliberação Transversal - Posicionamento, Linguagem e Arquitetura Dupla - 2026-08-23]] — incorporação seletiva do posicionamento do Vidente, proteção das duas arquiteturas e prevenção de perda do conteúdo.
 
 ## Relação com os documentos superiores
 
@@ -43,4 +43,4 @@ atualizado_em: 2026-08-22
 2. usar o Inventário Mestre antes de declarar ausência de conteúdo;
 3. revisar a arquitetura curricular e o Raio X pela matriz transversal reconciliada;
 4. preservar a Aula 1.1 para inspeção pré-piloto e pilotagem controlada.
-5. aplicar a deliberação 04 antes de criar restrições sobre práticas, exemplos autobiográficos ou integração da identidade profissional.
+5. aplicar a deliberação 04 antes de criar restrições sobre práticas, exemplos autobiográficos ou integração da identidade profissional;\n6. aplicar a deliberação 07 a peças públicas e à masterclass sem substituir a Nota-Ponte, a Matriz Mestre ou o conteúdo consolidado.
