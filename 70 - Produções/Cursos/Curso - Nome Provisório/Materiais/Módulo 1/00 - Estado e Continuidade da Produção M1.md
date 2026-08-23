@@ -2,8 +2,8 @@
 tipo: estado-e-continuidade-de-producao
 projeto: Traduzindo o Ser Humano
 recorte_entrega: "M1.1-M1.7"
-status: ativo
-versao: "1.0"
+status: preparado-para-futuro-chat-de-producao
+versao: "1.1"
 criado_em: 2026-08-23
 atualizado_em: 2026-08-23
 gravacao_autorizada: false
@@ -26,13 +26,17 @@ Coordenar a derivação audiovisual das aulas M1.1–M1.7 sem criar uma terceira
 
 | Aula | Pacote de derivação | Estado atual | Próxima ação |
 |---|---|---|---|
-| M1.1 | [[M1.1 - Pacote de Derivação Audiovisual v0.1]] | roteiro oral, sequência visual e cartão produzidos como candidato v0.1 | leitura autoral e cronometragem |
+| M1.1 | [[M1.1 - Pacote de Derivação Audiovisual v0.1]] | insumo preparatório não vinculante; produção oficial não iniciada | abrir no chat de produção e decidir aproveitamento |
 | M1.2 | previsto no plano v1.1 | ainda não derivado | iniciar após leitura estrutural de M1.1 |
 | M1.3 | previsto no plano v1.1 | ainda não derivado | preservar competência incorporada como aprofundamento |
 | M1.4 | previsto no plano v1.1 | ainda não derivado | preservar pluralidade criteriosa |
 | M1.5 | previsto no plano v1.1 | dependência complementar identificada | extrair versão mínima das Cinco Janelas |
 | M1.6 | previsto no plano v1.1 | ainda não derivado | adaptar Primeira Cartografia |
 | M1.7 | consolidação v1.1 | pronto para derivação | derivar após M1.6 e auditar o arco |
+
+## Correção de estatuto
+
+A presença de um arquivo preliminar de M1.1 não significa que a produção tenha começado. O arquivo foi preservado para evitar perda, mas sua autoridade é inferior ao patrimônio canônico e ao futuro trabalho do chat competente.
 
 ## Guardas
 
@@ -46,7 +50,7 @@ Coordenar a derivação audiovisual das aulas M1.1–M1.7 sem criar uma terceira
 
 ## Ponto exato de retomada
 
-> Realizar leitura autoral e cronometrada de [[M1.1 - Pacote de Derivação Audiovisual v0.1]], registrar ajustes de oralidade e carga e, em seguida, iniciar M1.2 — Saber, acessar e sustentar não são a mesma coisa.
+> No chat `ATIVO — TSH — Curso — Produção M1.1–M1.7`, recuperar primeiro o patrimônio canônico da UC 0.1 e o plano vigente. Somente então avaliar o insumo M1.1 não vinculante e iniciar oficialmente a produção. O Orquestrador não deve produzir, revisar ou aprovar roteiros.
 
 ## Relações
 
