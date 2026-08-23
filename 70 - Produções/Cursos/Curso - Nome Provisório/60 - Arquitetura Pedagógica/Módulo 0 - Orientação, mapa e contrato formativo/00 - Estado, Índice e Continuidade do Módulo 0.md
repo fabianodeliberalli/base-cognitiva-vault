@@ -5,9 +5,9 @@ curso: nome-provisorio
 modulo: 0
 status: ativo
 estado_maturidade: conteudo-m1-1-a-m1-7-planejado-para-avaliacao-e-producao
-versao: "3.7"
+versao: "3.8"
 criado_em: 2026-07-21
-atualizado_em: 2026-08-22
+atualizado_em: 2026-08-23
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
@@ -70,7 +70,7 @@ A tabela abaixo inclui exclusivamente as 14 unidades curriculares nucleares. A [
 | Unidade | Materiais existentes | Questões vivas | Estado |
 |---|---|---|---|
 | **Unidade 0.1 — Por que compreender ainda pode não ser suficiente?** | roteiro consolidado v1.0; sete Partes; quatro macroblocos; auditoria concluída; mapa estrutural piloto v0.2 com 10 microaulas e títulos públicos aprovados | roteiro oral, leitura cronometrada, storyboard, piloto e decisão de gravação | encerrada curricularmente; decomposição estrutural concluída; 48 slides e 10 cortes provisórios; gravação não autorizada |
-| **Unidade 0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança** | kit textual organizado e referências visuais | como apresentar o percurso sem rigidez; qual contrato formativo emerge da Aula 0.1 | próxima aula em elaboração |
+| **Unidade 0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança** | conteúdo consolidado v1.1, kit textual e referências visuais | como apresentar o percurso sem rigidez e preservar acesso, estado e referência | derivação audiovisual de M1.7 pendente |
 
 ## Leitura consultiva já realizada
 
@@ -216,9 +216,17 @@ A Aula de Entrada 0.0 foi registrada como adendo pré-curricular da Hotmart. A d
 - a única dependência complementar identificada é a versão mínima das Cinco Janelas, a extrair do kit revisável da UC 1.1 para M1.5;
 - roteiro oral, storyboard, leitura cronometrada, piloto e gravação continuam posteriores.
 
+## Atualização substantiva de 23 de agosto de 2026
+
+- a correspondência Unidade 0.2/M1.7 foi consolidada em v1.1 para derivação audiovisual;
+- “Saber não é ainda ter acesso” e presença que sustenta foram integrados como camada de acesso, sem substituir o arco curricular;
+- ficha, roteiro-base e storyboard preliminar da 0.2 foram reclassificados como fontes, eliminando concorrência documental;
+- o plano M1.1–M1.6 passou a v1.1 e está aprovado para derivação audiovisual;
+- a gravação permanece não autorizada.
+
 ## Ponto de retomada
 
-> Avaliar autoralmente [[07 - Consolidação de Conteúdo e Destinação para M1.7]]. Depois, sem nova reorganização, iniciar a derivação audiovisual de M1.1 conforme [[Plano Efetivo de Produção M1.1 a M1.6]] e avançar sequencialmente até M1.7. Em M1.5, incorporar apenas a versão mínima das Cinco Janelas necessária à aula. Realizar leitura longitudinal M1.1–M1.7 antes do storyboard definitivo. A Unidade 0.1 permanece encerrada curricularmente; P7 continua pendente antes da consolidação final do Módulo 0.
+> Sem nova reorganização, iniciar a derivação audiovisual de M1.1 conforme [[Plano Efetivo de Produção M1.1 a M1.6]] e avançar sequencialmente até M1.7. Em M1.5, incorporar apenas a versão mínima das Cinco Janelas necessária à aula. Realizar leitura longitudinal M1.1–M1.7 antes do storyboard definitivo. A Unidade 0.1 permanece encerrada curricularmente; P7 continua pendente antes da consolidação final do Módulo 0.
 
 ## Relações
 
