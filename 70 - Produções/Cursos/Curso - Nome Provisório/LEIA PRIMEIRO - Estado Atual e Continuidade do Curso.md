@@ -3,7 +3,7 @@ tipo: porta-de-entrada-continuidadade
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: vigente
-versao: "3.4"
+versao: "3.5"
 criado_em: 2026-07-21
 atualizado_em: 2026-08-23
 autor: Fabiano Deliberalli
@@ -161,7 +161,7 @@ Este chat atual assume a função de **Orquestração Curricular Mestre 03**. Um
 
 ### Frente substantiva ativa
 
-> Iniciar a derivação audiovisual de **M1.1–M1.7** sem reabrir a Unidade 0.1. A Unidade 0.2/M1.7 está consolidada em v1.1 para produção; a gravação permanece condicionada a roteiro, leitura, storyboard, piloto e autorização específica.
+> A Orquestração deve apenas transferir a frente ao chat `ATIVO — TSH — Curso — Produção M1.1–M1.7`. A produção oficial ainda não começou. A Unidade 0.2/M1.7 permanece consolidada como fonte preparada para futura derivação, sem autorização de gravação.
 
 A Unidade Curricular 0.1 foi consolidada curricularmente em v1.0 após aprovação explícita de Fabiano. Estão aprovados o título, o subtítulo, as sete Partes, os quatro macroblocos e as funções distintas das práticas das Partes 4, 5 e 7. A Primeira Cartografia pertence à Aula 0.1.
 
@@ -305,7 +305,7 @@ O registro integral desta pausa está em [[Encerramento de Sessão - 2026-07-29 
 
 ## Ponto exato de retomada
 
-> Realizar leitura autoral e cronometrada de [[M1.1 - Pacote de Derivação Audiovisual v0.1]], registrar ajustes de oralidade e carga e iniciar M1.2. Avançar sequencialmente até M1.7, integrar em M1.5 somente a versão mínima das Cinco Janelas e realizar leitura longitudinal M1.1–M1.7 antes dos storyboards definitivos. A gravação permanece não autorizada.
+> Encerrar `HIST — TSH — Orquestração Geral 01` e abrir `ATIVO — TSH — Orquestração Geral 02` somente para coordenação. A produção curricular permanece não iniciada e deverá começar exclusivamente no chat `ATIVO — TSH — Curso — Produção M1.1–M1.7`, recuperando primeiro o patrimônio canônico e tratando o arquivo preliminar de M1.1 apenas como insumo não vinculante.
 
 ## Relações
 
@@ -327,7 +327,9 @@ O registro integral desta pausa está em [[Encerramento de Sessão - 2026-07-29 
 - [[Plano Efetivo de Produção M1.1 a M1.6]]
 - [[07 - Consolidação de Conteúdo e Destinação para M1.7]]
 - [[00 - Estado e Continuidade da Produção M1]]
-- [[M1.1 - Pacote de Derivação Audiovisual v0.1]]
+- [[2026-08-23 - Checkpoint Final - Orquestração Geral 01]]
+- [[Prompt Mínimo - Orquestração Geral 02]]
+- [[M1.1 - Pacote de Derivação Audiovisual v0.1]] — insumo preparatório sem autoridade de produção
 - [[Auditoria de Procedência, Montagem e Leitura Autoral - Aula 0.1]]
 - [[Encerramento de Sessão - 2026-07-27 - Consolidação da Aula 0.1]]
 - [[Prompts de Abertura - Orquestração Curricular Mestre e Módulo 0]]
