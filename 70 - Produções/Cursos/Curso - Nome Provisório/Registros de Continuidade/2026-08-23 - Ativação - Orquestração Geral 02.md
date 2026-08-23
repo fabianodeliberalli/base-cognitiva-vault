@@ -4,8 +4,9 @@ projeto: Traduzindo o Ser Humano
 chat_ativo: "ATIVO — TSH — Orquestração Geral 02"
 chat_antecessor: "HIST — TSH — Orquestração Geral 01"
 status: ativo
-versao: "1.0"
+versao: "1.1"
 data: 2026-08-23
+atualizado_em: 2026-08-23
 producao_curricular_iniciada: false
 ---
 
@@ -42,9 +43,9 @@ Este chat não produz nem revisa aulas, roteiros, slides, práticas ou materiais
 5. `ATIVO — TSH — Operação do Lançamento`;
 6. `AGUARDA — TSH — Laboratório Clínico`.
 
-## Pendência operacional
+## Conferência operacional
 
-Não há conflito documental substantivo para a ativação. O título visível da conversa deve corresponder a `ATIVO — TSH — Orquestração Geral 02`.
+Não há conflito documental substantivo para a ativação. O título visível da conversa foi alterado por Fabiano para `ATIVO — TSH — Orquestração Geral 02`; a pendência de interface está concluída.
 
 ## Próximo encaminhamento
 
