@@ -208,7 +208,7 @@ A Aula de Entrada 0.0 foi registrada como adendo pré-curricular da Hotmart. A d
 
 ## Registro substantivo de 22 de agosto de 2026
 
-- [[07 - Consolidação de Conteúdo e Destinação para M1.7]] reúne o conteúdo da Unidade 0.2 como candidato v1.0 para avaliação autoral;
+- em 22 de agosto, [[07 - Consolidação de Conteúdo e Destinação para M1.7]] reuniu o conteúdo da Unidade 0.2 como candidato v1.0; esse estatuto foi sucedido pela consolidação v1.1 de 23 de agosto para derivação audiovisual;
 - M1.7 permanece uma única aula da entrega, sustentada por dois mapas centrais e uma prática breve;
 - o restante do patrimônio da 0.2 foi destinado a material, fundamento e retomadas M3.7, M6.5 e M8.2;
 - [[Plano Efetivo de Produção M1.1 a M1.6]] documenta a correspondência 10→6 da Unidade 0.1 sem reabrir seu conteúdo;
