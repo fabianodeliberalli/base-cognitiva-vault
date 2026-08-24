@@ -2,7 +2,7 @@
 id: AUT-DOC-13
 titulo: Dossiê Psicanálise PNL Hipnose e Consciência - Certificados do PDF 2026
 tipo: dossie-documental-por-eixo
-status: documentado-e-parcialmente-pendente
+status: reconciliado-sem-pendencias-curriculares
 projeto: Posicionamento Profissional e Autoridade Autoral
 data: 2026-08-21
 autor: Fabiano Deliberalli
@@ -21,10 +21,11 @@ Esta nota registra o eixo histórico de escuta, linguagem, hipnose e investigaç
 # Psicanálise e Transpsicanálise
 
 - p. 104: certificado de conclusão do curso livre de formação em Psicanálise Integrativa, São Paulo, 23/07/2002.
+- PDF complementar, p. 7: declaração curricular da mesma primeira Formação em Psicanálise Integrativa, emitida em 31/07/2002, com 294h. Certificado e declaração são complementares e não representam duas formações.
 - p. 102: workshop Neurociência das Funções Mentais, 12h, 02/09/2002.
 - p. 103: curso Bases Bioquímicas dos Transtornos Mentais, 36h, 16/09–16/12/2002.
 - p. 106: certificado do Instituto Brasileiro de Transpsicanálise, com denominação e data parcialmente legíveis.
-- Fabiano confirma duas formações em Psicanálise Integrativa e o início de estágios e atendimentos psicoterapêuticos desde a primeira formação: uma na SBPI, com Maria de Fátima Mora, e outra no Instituto Brasileiro de Transpsicanálise, com André Keppe como professor principal. O PDF comprova uma conclusão específica e contém registros complementares da Transpsicanálise. A ausência do segundo certificado físico não invalida a formação.
+- Fabiano confirma duas formações em Psicanálise Integrativa e o início de estágios e atendimentos psicoterapêuticos desde a primeira formação: uma na SBPI/Psicanálise Integrativa Clínica Escola, com Maria de Fátima Mora, e outra no Instituto Brasileiro de Transpsicanálise, com André Keppe como professor principal. A primeira é documentada por certificado de 23/07/2002 e declaração curricular de 31/07/2002, com 294h; a segunda e os professores são confirmados pelo autor, com registros complementares da Transpsicanálise.
 
 Formulação pública adequada:
 
@@ -50,8 +51,8 @@ Não é necessário dizer em toda bio que PNL “não constitui o eixo central�
 - p. 85: módulos B4–B8 de Hipnose Profissional e Clínica, 70h, 09–15/07/2022.
 - p. 87: Hypnotic Mastery Bootcamp, 18h, 06–07/08/2022.
 - p. 90: módulos B1–B3 de Hipnose Profissional e Clínica, 30h, 10–12/09/2021.
-- A trajetória também inclui estudos em hipnose clínica e terapêutica com Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sophia Bauer.
-- O curso on-line com Sophia Bauer foi acompanhado entre agosto de 2023 e fevereiro de 2024, com acesso pago confirmado por registro independente da Hotmart.
+- A trajetória também inclui estudos em hipnose clínica e terapêutica com Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sofia Bauer.
+- O curso on-line com Sofia Bauer foi acompanhado entre agosto de 2023 e fevereiro de 2024, com acesso pago confirmado por registro independente da Hotmart.
 - As datas documentais acima pertencem aos cursos registrados no PDF; os nomes dos professores e o período de acesso da Hotmart integram a fonte curricular autobiográfica/documental complementar.
 - Outros cursos de hipnose, auto-hipnose e regressão aparecem nos currículos e materiais históricos.
 
@@ -68,6 +69,9 @@ Evitar a expressão “hipnoterapeuta” como identidade isolada se o objetivo d
 - p. 6–7, 37, 40–43, 47–48, 50 e 68: estudos em Constelações Sistêmicas/Familiares, com títulos parcialmente legíveis.
 - p. 86, 88, 113–116: cursos e iniciações em repertórios espirituais e energéticos.
 - p. 45 e p. 98: Radiestesia, com o certificado de 1998 especificando curso básico de 15h.
+- p. 109 e PDF complementar, p. 4–6: **Curso de Bioenergologia com Formação em Bioenergopatia**, Instituto Medeiros de Ensino Livre e Pesquisas em Ciências Avançadas, concluído em agosto de 2004, nota final 9,0; declaração emitida em 29/11/2004. O programa registra 114 unidades-aula, sem equivalência horária total declarada; os títulos institucionais internos são “Pesquisador Bioenergólogo” e “Terapeuta Bioenergopata”.
+- PDF complementar, p. 10: Reiki Master, São Paulo, 30/09/2000.
+- PDF complementar, p. 9, 11 e 12: Leader Training e certificados históricos de Aikido e Wado-Ryu Karatê-Dô, preservados como genealogia de desenvolvimento e movimento.
 
 Esses documentos pertencem à história de exploração intelectual e experiencial. Não devem ser apresentados como equivalentes a formação acadêmica, formação psicológica ou evidência de eficácia clínica.
 
@@ -126,6 +130,24 @@ Radiestesia, Reiki, Karuna Reiki, Karuna Ki–Tera Mai, Tameana, Melchizedek, ap
 
 Os documentos deste dossiê descrevem o conteúdo do PDF. Para a biografia consolidada, prevalece também a confirmação direta de Fabiano sobre as duas formações em Psicanálise e sobre o Practitioner anterior na SBPNL. A natureza autobiográfica da fonte deve ser preservada sem converter esses marcos em pendências de validação por IA.
 
+
+# Docência em auto-hipnose — atualização de 21/08/2026
+
+Fabiano confirma ter ministrado, em parceria com Gilda Moura, **três cursos on-line de auto-hipnose entre 2020 e 2025**. Esse dado deve aparecer na experiência docente e pode ser correlacionado ao eixo de hipnose, linguagem, atenção e processos de mudança.
+
+O vault contém a nota histórica [[00 - Caixa de Entrada/OneNote/Curso Básico de auto hipnose on line]], com tópicos do curso básico. Ela funciona como material de contexto pedagógico para as três ofertas confirmadas.
+
+Formulação pública recomendada:
+
+> Ministrou, em parceria com Gilda Moura, três cursos on-line de auto-hipnose entre 2020 e 2025.
+
+# Palas Athena — sequência meditativa
+
+Fabiano concluiu os três módulos de *Atenção e concentração nas práticas meditativas* pela Associação Palas Athena. Os módulos 2 e 3 possuem datas documentadas de 18–20/10/2013 e 29/11–01/12/2013; o percurso integral é confirmado diretamente por Fabiano.
+
+# Complemento documental reconciliado
+
+Consultar [[23 - Complemento Documental Shiozawa Bioenergologia e Formação Histórica 1982-2019]] para a leitura página a página do lote adicional. Os títulos internos da Bioenergologia permanecem na literalidade do dossiê; em versões públicas gerais, usa-se o nome do curso.
 
 # Fonte curricular vigente
 

@@ -55,18 +55,37 @@ A licença documenta a situação institucional naquele momento. Não comprova f
 A docência aparece em vários momentos:
 
 1. cursos de Reiki e práticas integrativas, em período histórico;
-2. cursos de Seitai e Quiropraxia no contexto do trabalho corporal no Shiozawa;
+2. cursos de Seitai e Quiropraxia no contexto do trabalho corporal no Shiozawa; o antecedente formativo está documentado por Curso Intensivo de Shiatsu de 100h e estágio de 2.000h, mas esses documentos comprovam formação/estágio, não isoladamente a atividade docente;
 3. aula convidada na PUC-SP em 2002;
 4. organização de cursos e acolhimento de professores no Centralma;
 5. assistência a Gilda Moura em turma presencial em 2018/2019;
-6. cinco edições de Além das Fronteiras do Saber a partir de 2020;
-7. ABBSP em 2026;
-8. IGM em 2026;
-9. CEEP e projetos autorais atuais.
+6. três cursos on-line de auto-hipnose ministrados em parceria com Gilda Moura entre 2020 e 2025;
+7. cinco edições de *Além das Fronteiras do Saber* a partir de 2020;
+8. *Venia Docente* recebida do CEMETC em 2014 como marco histórico de docência em Acupuntura Bioenergética;
+9. ABBSP em 2026;
+10. IGM em 2026;
+11. CEEP e projetos autorais atuais.
 
 A formulação agregadora mais forte é:
 
 > Professor e palestrante em cursos livres, práticas corporais, educação continuada e projetos de estudo, com experiência de ensino que antecede a docência online recente.
+
+# Docência digital em auto-hipnose
+
+Fabiano ministrou, em parceria com Gilda Moura, **três cursos on-line de auto-hipnose entre 2020 e 2025**.
+
+Este registro é distinto das cinco edições de *Além das Fronteiras do Saber*. Seu valor curricular está em demonstrar:
+
+- experiência pedagógica digital repetida;
+- colaboração docente;
+- capacidade de traduzir hipnose, atenção, linguagem e autorregulação em formato educacional;
+- continuidade entre o repertório clínico, a docência e os atuais produtos digitais.
+
+Formulação pública:
+
+> Ministrou, em parceria com Gilda Moura, três cursos on-line de auto-hipnose entre 2020 e 2025.
+
+Títulos, datas e cargas de cada edição serão transcritos quando os ativos correspondentes forem organizados. A ausência dessa granularidade não transforma a atividade confirmada em pendência.
 
 # Relação com a autoridade atual
 
@@ -88,7 +107,8 @@ A auditoria [[19 - Auditoria Página a Página - Certificados e Diplomas 2026]] 
 - p. 46: curso de Gilda Moura sobre recuperação de memórias em experiências extraordinárias/anômalas, relevante para a história da colaboração formativa;
 - p. 83: licença sanitária histórica do Centralma/Bioquantum, com Fabiano indicado como responsável legal/técnico no documento;
 - p. 5, 15, 60 e 81: registros que sustentam a genealogia didática em Qi Gong e práticas corporais, sem substituir a documentação narrativa de cursos ministrados;
-- p. 97 e 107–108: diploma e verso da formação técnica em Reabilitação/Massagem, marco da origem de ensino e prática corporal.
+- p. 97 e 107–108: diploma e verso da formação técnica em Reabilitação/Massagem, marco da origem de ensino e prática corporal;
+- PDF complementar, p. 8: Shiozawa — Curso Intensivo de Shiatsu de 100h e estágio de 2.000h, base formativa da experiência corporal; consultar [[23 - Complemento Documental Shiozawa Bioenergologia e Formação Histórica 1982-2019]].
 
 A redação de docência deve ser: “professor, palestrante e facilitador em cursos livres e educação continuada”, sempre acompanhada do projeto/evento quando pertinente. A aula da PUC-SP é uma experiência docente convidada, não vínculo acadêmico regular. A trajetória de cursos de Reiki, Seitai/Quiropraxia, atuação no Centralma, colaboração com Gilda Moura, Além das Fronteiras do Saber, ABBSP, IGM e CEEP compõe a história de transmissão de conhecimento e deve ser listada em versão completa conforme os comprovantes forem organizados.
 

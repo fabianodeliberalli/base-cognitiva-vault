@@ -188,6 +188,28 @@ A documentação complementar fortalece, no mercado e no CEEP, a leitura de um p
 **Conclusão da atualização:** a amplitude está mais bem documentada, mas a estratégia permanece a mesma: uma identidade profissional, um eixo autoral e fontes formativas múltiplas, hierarquizadas por contexto.
 
 
+# Reavaliação estratégica dos ativos incorporados em 21/08/2026
+
+Os percentuais abaixo são índices estratégicos de aderência contextual, não notas acadêmicas nem medidas objetivas de competência. Servem para decidir quanto destaque cada ativo deve receber.
+
+| Ativo | Clínica | CEEP | Academia | Mídia/palestras | Produtos digitais |
+|---|---:|---:|---:|---:|---:|
+| Brainspotting — Fases 1 a 5 | 90% | 80% | 40% | 65% | 75% |
+| CEMETC–Yunnan + *Venia Docente* | 55% | 60% | 35% | 85% | 88% |
+| Três cursos de auto-hipnose | 45% | 55% | 25% | 72% | 88% |
+| Palas Athena — três módulos | 30% | 58% | 30% | 60% | 55% |
+| Meditação Bodyspotting | 55% | 60% | 25% | 50% | 50% |
+
+## Leitura estratégica
+
+- **Brainspotting 1–5** é o novo ativo mais forte para a autoridade clínica e para o CEEP, porque demonstra continuidade longitudinal e aprofundamento técnico.
+- **CEMETC–Yunnan e a *Venia Docente*** são ativos de alto valor para corpo, MTC, Qi Gong, respiração, palestras e produtos autorais. Na clínica psicológica geral, devem aparecer como genealogia formativa, não como manchete.
+- **Os três cursos de auto-hipnose** fortalecem especialmente a autoridade pedagógica digital: mostram repetição de oferta, colaboração docente e capacidade de tradução prática.
+- **Palas Athena** sustenta o eixo atenção–meditação–consciência, mas funciona melhor como repertório coerente do que como credencial frontal.
+- **Bodyspotting** sinaliza atualização recente e interseção temática; permanece complementar.
+
+A consequência para o mercado é clara: o conjunto aumenta a densidade da trajetória, mas não altera a regra de posicionamento. A superfície pública deve comunicar uma identidade e uma questão autoral; o acervo completo entra como sustentação selecionada por contexto.
+
 # Fonte curricular vigente
 
 Para qualquer consulta, revisão ou produção curricular, consultar primeiro [[00 - Governança Curricular - Fonte Única e Derivação por Contexto 2026]] e depois [[22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]]. Esta nota é fonte documental, histórica ou derivada conforme sua finalidade; não deve competir com a matriz como fonte de organização da trajetória.

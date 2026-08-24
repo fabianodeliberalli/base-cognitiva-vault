@@ -84,7 +84,7 @@ O certificado de Nível II é um registro específico que integra o percurso de 
 Os certificados documentam a formação do programa Aleces. Permanecem registrados separadamente, como continuidade clínica declarada:
 
 - supervisões mensais em grupo com Mário Salvador;
-- estudo presencial anterior em Brasília, com ano ainda a confirmar;
+- formação presencial em Brasília documentada em 2018 e atividade formativa documentada em 2019;
 - imersões presenciais de três dias em 2025 e 2026.
 
 A formação documentada e a supervisão atual são fatos relacionados, mas não são o mesmo tipo de evidência: os certificados comprovam o programa realizado; a supervisão continuada exige seus próprios registros, se necessário em versões formais.

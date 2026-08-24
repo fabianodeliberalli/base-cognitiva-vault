@@ -1,3 +1,12 @@
+---
+tipo: curriculo-historico
+status: arquivo-nao-vigente
+fonte-atual: "[[70 - Produções/Projetos/Posicionamento Profissional e Autoridade/00 - Governança Curricular - Fonte Única e Derivação por Contexto 2026]]"
+---
+
+> [!warning] Registro histórico — não usar como currículo atual
+> Esta nota preserva uma versão antiga do currículo do período Bioquantum. Para qualquer consulta, texto público ou reconstrução profissional, usar primeiro a governança curricular e a [[70 - Produções/Projetos/Posicionamento Profissional e Autoridade/22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]]. As denominações, tempos de atuação e formulações abaixo não são canônicos hoje.
+
 Fabiano Deliberalli
  
 Psicólogo, Acupunturista e Terapeuta Corporal com 27 anos de atuação clínica, integrando mente, corpo, energia e espírito, com ampla e diversificada formação:

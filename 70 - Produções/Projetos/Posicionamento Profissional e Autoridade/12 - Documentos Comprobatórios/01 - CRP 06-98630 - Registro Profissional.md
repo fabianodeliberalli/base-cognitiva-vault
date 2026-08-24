@@ -32,5 +32,5 @@ O PDF digitalizado não forneceu texto extraível no processamento automático u
 
 > Fabiano Deliberalli — psicólogo clínico e psicoterapeuta — CRP 06/98630.
 
-Fabiano confirma em 21/08/2026 que o CRP 06/98630 está pago, ativo e regular. Não há pendência de emissão de certidão para validar o uso curricular ou publicitário do registro. Se um terceiro solicitar documento atualizado em procedimento específico, Fabiano decidirá como fornecê-lo.
+Fabiano confirma em 21/08/2026 que o CRP 06/98630 está pago, ativo e regular. O uso curricular e publicitário do registro está consolidado. Eventual solicitação documental de terceiro será tratada somente no procedimento específico.
 

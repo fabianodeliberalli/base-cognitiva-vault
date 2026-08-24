@@ -81,6 +81,7 @@ Essas experiências podem ser reunidas como **docência em cursos livres e prát
 ## Consolidação recente
 
 - Professor assistente de Gilda Moura em turma presencial no Centralma, em 2018/2019.
+- Ministrante, em parceria com Gilda Moura, de três cursos on-line de auto-hipnose entre 2020 e 2025. Essa experiência pertence simultaneamente ao eixo de docência digital e ao repertório de hipnose, comunicação e autorregulação.
 - Professor e cocriador de *Além das Fronteiras do Saber*, realizado on-line em cinco edições a partir de 2020, com temas como hipnose, memória, consciência, espiritualidade e experiências anômalas.
 - Ministrante do workshop da ABBSP em março de 2026.
 - Palestrante no IGM em agosto de 2026, com Daiana Leite.

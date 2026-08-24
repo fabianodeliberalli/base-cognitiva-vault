@@ -57,6 +57,7 @@ O arquivo integral de certificados e diplomas permanece na Biblioteca e/ou no ac
 | [[17 - PUCRS - Certificado Pós-Graduação Neurociências e Comportamento 2026]] | Certificado da especialização; emitido em 25/03/2026 |
 | [[21 - Psicologia Transpessoal - FACIS - Monografia e Certificado 2010-2011]] | Pós-graduação concluída em 2010; TCC entregue; certificado emitido em 2011 |
 | [[18 - CEMETC - Venia Docente e Acupuntura Bioenergética 2014-2016]] | Venia Docente e formação em Acupuntura Bioenergética/Moxibustión; níveis 1–3 e certificados gerais |
+| [[23 - Complemento Documental Shiozawa Bioenergologia e Formação Histórica 1982-2019]] | Auditoria complementar: Shiozawa 100h + estágio 2.000h, Bioenergologia, Psicanálise 294h, trauma e registros históricos |
 
 # Fonte nova auditada
 
@@ -64,6 +65,7 @@ O arquivo integral de certificados e diplomas permanece na Biblioteca e/ou no ac
 - **Biblioteca:** libfile_8005a060ddbc81919f556da425e8e265
 - **Páginas:** 117
 - **Resultado:** certificado PUCRS documentado; conjunto clínico EMDR/Brainspotting ampliado; MTC/Qi Gong/CEMETC ampliados; PUC-SP e Centralma/Bioquantum documentados historicamente.
+- **Complemento auditado:** PDF adicional de 12 páginas, registrado em [[23 - Complemento Documental Shiozawa Bioenergologia e Formação Histórica 1982-2019]].
 
 # Formações e registros documentais consolidados
 
@@ -77,27 +79,31 @@ O arquivo integral de certificados e diplomas permanece na Biblioteca e/ou no ac
 
 ## Corpo, MTC e práticas integrativas
 
-- EOMA: diploma Técnico em Reabilitação — modalidade Massagista, 1995, 1.440h.
+- EOMA: diploma Técnico em Reabilitação — modalidade Massagista, 1995, 1.440h, incluindo 162h de estágio.
+- Shiozawa: Curso Intensivo de Shiatsu, 100h, junho–dezembro de 1994; estágio documentado de 2.000h, janeiro de 1995–julho de 1996; certificado emitido em 07/12/1996.
 - CEMETRAC: Acupuntura Tradicional Chinesa, 2002–2004, 1.200h.
 - Pró-Salus Vitae: Auriculoterapia, 48h; Semiologia e Propedêutica da MTC, 143h.
 - CEMETC: módulos e níveis de Acupuntura Bioenergética e Moxibustão, páginas 18, 25, 27–28, 33, 36, 44, 53–56, 61, 64, 72–80.
-- CEMETC: *Venia Docente* para ministrar programas de formação em Acupuntura Bioenergética, emitida em 08/11/2014, com validade impressa até 08/11/2017; níveis 1–3 e certificados gerais registrados em [[18 - CEMETC - Venia Docente e Acupuntura Bioenergética 2014-2016]].
+- CEMETC/Yunnan: *Máster Iberoamericano en Acupuntura Bioenergética y Moxibustión*, certificado em outubro de 2015 no âmbito institucional da Universidad de Medicina Tradicional China de Yunnan, do CEMETC e da Fundación Europea de Medicina Tradicional China; níveis 1–3, certificados gerais e *Venia Docente* registrados em [[18 - CEMETC - Venia Docente e Acupuntura Bioenergética 2014-2016]].
 - Qi Gong e Tai Chi Qi Gong: instrutoria e cursos documentados, p. 5, 13, 15, 39, 60 e 81.
 - Seitai, Quiropraxia, alinhamento postural, reflexologia e cursos corporais: p. 16, 49, 94, 105, 112, 115 e 117.
 
 ## Trauma e psicoterapia
 
 - EMDR: treinamento básico e cursos clínicos, p. 19–24, 30, 32, 38, 52, 57, 59, 62, 65–66, 71 e 82.
-- Brainspotting: fases 1–2 e fase 4, p. 2–3 e 12.
+- Brainspotting: Fases 1 a 5 concluídas. Fases 1, 2 e 4 constam do PDF auditado; Fase 3 é confirmada diretamente por Fabiano; Fase 5 está documentada em certificado ABBSP de 24h, 22–24/08/2025, com David Grand.
+- Meditação Bodyspotting: workshop complementar de 4h, 11/04/2026, com Marília Toscano, certificado pela ABBSP.
 - Psicoterapia Integradora e Reprocessamento do Trauma com Mário Salvador, p. 4, 17 e 35.
 - Neurobiologia Interpessoal, p. 59, complementada pelo certificado com Daniel Siegel arquivado na nota 08.
 - Hipnose e Mirroring Hands, p. 84–85, 87 e 90.
 
 ## Psicanálise, linguagem e consciência
 
-- Psicanálise Integrativa, p. 104.
+- Psicanálise Integrativa: certificado de 23/07/2002, p. 104; declaração curricular complementar de 31/07/2002, 294h, no PDF adicional de 12 páginas.
 - Transpsicanálise e cursos de neurociência/biologia mental, p. 102–103 e 106.
 - PNL: Practitioner e Master Practitioner pelo Trivium, p. 99 e 101; Practitioner anterior na SBPNL confirmado por Fabiano como formação distinta.
+- Associação Palas Athena: sequência completa de três módulos de *Atenção e concentração nas práticas meditativas*; módulos 2 e 3 possuem datas documentadas e o percurso integral é confirmado diretamente por Fabiano.
+- Bioenergologia com Formação em Bioenergopatia: conclusão em agosto de 2004, nota 9,0, programa de 114 unidades-aula e títulos institucionais internos preservados no dossiê.
 - Constelações, meditação, radiestesia, Reiki e outros repertórios históricos, páginas listadas na auditoria.
 
 ## Docência e instituição
@@ -105,13 +111,14 @@ O arquivo integral de certificados e diplomas permanece na Biblioteca e/ou no ac
 - Aula convidada na Faculdade de Psicologia da PUC-SP, p. 8, 01/10/2002.
 - Licença sanitária histórica do Centralma/Bioquantum, p. 83, 2019.
 - ABBSP, IGM, Gilda Moura, Além das Fronteiras do Saber e CEEP: documentos e registros organizados em notas do projeto.
+- Três cursos on-line de auto-hipnose ministrados com Gilda Moura entre 2020 e 2025: confirmação direta do autor e material histórico de curso no vault.
 
 # Estados de comprovação
 
 - **Documentado:** o documento foi disponibilizado e os dados centrais estão legíveis.
-- **Documentado em parte:** há documento contextual ou módulo, mas falta diploma, conclusão integral ou denominação completa.
+- **Registro parcial da fonte:** o arquivo contém apenas parte de um conjunto ou informação; isso descreve o arquivo, não a validade biográfica.
 - **Confirmado por fonte autobiográfica:** informação fornecida ou corrigida pelo autor; válida para currículo e comunicação pública.
-- **Questão documental específica:** falta apenas literalidade, legibilidade ou documento que poderá ser exigido em contexto concreto; não invalida a informação autobiográfica.
+- **Detalhe não legível:** o detalhe não é utilizado na comunicação; não constitui pendência curricular.
 - **Histórico:** registro relevante para a trajetória, mas não deve ser lido como qualificação atual.
 - **Uso contextual:** só deve aparecer quando a finalidade da peça torna a formação pertinente.
 
@@ -142,7 +149,9 @@ O arquivo integral de certificados e diplomas permanece na Biblioteca e/ou no ac
 - CEMETC agora inclui seminários, módulos Long Tao/Heiwa, níveis 1–3, programas curriculares, certificados gerais e *Venia Docente*.
 - Qi Gong agora inclui instrutoria de 96h, 1 Duan técnico, Liu Zi Jue, Sistema Energético Humano de 48h e Tai Chi Qi Gong nível I.
 - EMDR agora inclui os certificados de 2010 e as atualizações de Neurobiologia Interpessoal.
-- A página 104 é corrigida para 23/07/2002, conforme leitura visual do certificado de Psicanálise Integrativa.
+- A página 104 é corrigida para 23/07/2002, conforme leitura visual do certificado de Psicanálise Integrativa; a declaração de 31/07/2002 acrescenta carga de 294h à mesma formação.
+- O Shiozawa passa a ser discriminado por natureza documental: Curso Intensivo de Shiatsu de 100h e estágio de 2.000h, sem fusão das cargas.
+- A Bioenergologia passa a usar a denominação literal completa e os 114 registros de unidades-aula do programa, sem conversão automática em horas.
 - Certificados com validade impressa encerrada continuam registrados como marcos históricos; a validade atual é tratada separadamente.
 
 
@@ -163,3 +172,18 @@ O arquivo integral de certificados e diplomas permanece na Biblioteca e/ou no ac
 ## Normalização de governança — 21/08/2026
 
 Este índice descreve documentos disponíveis; não delimita sozinho a biografia profissional. Informações confirmadas por Fabiano complementam o arquivo com igual validade curricular, mantendo-se identificada a natureza da fonte. Centralma atual, CRP regular, Psicologia Transpessoal, duas formações em Psicanálise e Practitioner anterior na SBPNL não são pendências de validação por IA.
+
+## Atualização integrada — Brainspotting, Palas Athena, CEMETC–Yunnan e auto-hipnose
+
+- [[22 - Atualização Brainspotting Palas Athena CEMETC Yunnan e Auto-Hipnose 2025-2026]] — consolida Fases 1–5 de Brainspotting, sequência completa de três módulos na Palas Athena, certificado conclusivo CEMETC–Yunnan, Bodyspotting e docência em três cursos de auto-hipnose.
+- [[23 - Complemento Documental Shiozawa Bioenergologia e Formação Histórica 1982-2019]] — consolida o novo lote auditado e corrige as omissões de Shiozawa, Bioenergologia e carga da primeira Psicanálise Integrativa.
+
+## Reconciliação curricular encerrada — 21/08/2026
+
+- [[23 - Registro de Reconciliação Curricular e Continuidade 2026]] — registra a atualização transversal e confirma a inexistência de pendências curriculares abertas.
+
+# Documentos curriculares derivados — não são comprovantes
+
+O currículo e o dossiê consolidados em DOCX estão arquivados em [[13 - Documentos Curriculares Consolidados/00 - Índice e Governança do Pacote Curricular Consolidado 2026]].
+
+Esses arquivos organizam e apresentam a trajetória, mas não substituem diplomas, certificados, declarações ou confirmações autobiográficas registradas neste índice. A separação impede que um documento de comunicação seja confundido com sua fonte de evidência.

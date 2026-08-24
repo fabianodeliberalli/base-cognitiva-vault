@@ -113,7 +113,7 @@ Base: formação em Psicologia e CRP. Deve estar visível nos contextos de ofert
 
 ## Autoridade clínica
 
-Base: mais de três décadas de cuidado terapêutico, atuação como psicólogo desde 2010, formação continuada — incluindo Neurobiologia Interpessoal —, supervisão e experiência com casos complexos.
+Base: mais de três décadas de cuidado terapêutico, trajetória consolidada com a Psicologia, formação continuada — incluindo Neurobiologia Interpessoal —, supervisão e experiência com casos complexos.
 
 ## Autoridade pedagógica
 
@@ -136,6 +136,18 @@ Base: história incomum, temas relevantes e capacidade de tradução. Risco: cor
 - **Neurobiologia Interpessoal:** pode ser nomeada como curso documentado de 16 horas, realizado em 2021 por webconferência, com Daniel Siegel.
 - **Deb Dana e regulação autonômica:** pode ser apresentado, quando pertinente, o curso documentado de 12 horas *Navigating the Nervous System: A Polyvagal Approach to Clinical Work*, concluído em setembro de 2023. O certificado não informa o formato.
 - Ambas reforçam o eixo corpo–relação–regulação; não substituem a formação em Psicologia, o CRP ou a supervisão clínica.
+
+# Uso estratégico das formações consolidadas em 21/08/2026
+
+| Ativo | Função principal de autoridade | Prioridade pública |
+|---|---|---|
+| Brainspotting — Fases 1 a 5 | Profundidade longitudinal em trauma, processamento e presença clínica | Alta em currículo clínico, CEEP e formação profissional |
+| *Máster Iberoamericano* CEMETC–Yunnan | Densidade, continuidade e inserção internacional no eixo corpo/MTC | Muito alta em produtos de MTC, Qi Gong, respiração e corpo; alta no currículo ampliado; secundária na mini bio clínica |
+| Palas Athena — três módulos | Repertório formativo em atenção, meditação e consciência | Moderada; funciona como sustentação, não como credencial frontal |
+| Três cursos de auto-hipnose com Gilda Moura | Experiência pedagógica digital e capacidade de tradução prática | Alta em currículo docente, mídia, produtos digitais e dossiê de palestrante |
+| Bodyspotting com Marília Toscano | Atualização complementar na interseção entre meditação e Brainspotting | Complementar; usar em versões detalhadas |
+
+A regra de hierarquia permanece: **identidade frontal primeiro; formações de sustentação depois; genealogia completa nos documentos ampliados**. O objetivo não é exibir acúmulo, mas demonstrar coerência, continuidade e capacidade autoral.
 
 # Princípios de linguagem pública
 
@@ -197,4 +209,4 @@ A nova evidência permite substituir a sensação de “trajetória apenas decla
 
 # Governança biográfica consolidada — 21/08/2026
 
-A autoridade de Fabiano é construída por fontes documentais e por informações autobiográficas confirmadas pelo próprio autor. A falta atual de um certificado físico não invalida automaticamente uma formação. A IA deve preservar a natureza da fonte, sem assumir função de órgão certificador ou fiscalizador.
+A autoridade de Fabiano é construída por fontes documentais e por informações autobiográficas confirmadas pelo próprio autor. Ambas integram a governança biográfica; a IA deve preservar a natureza da fonte, sem assumir função de órgão certificador ou fiscalizador.

@@ -115,7 +115,7 @@ Cargas horárias de módulos, duplicatas e níveis que pertencem à mesma forma�
 - **Certificado:** emitido em 2011.
 - **Orientadora:** Profª Drª Márcia Tabone.
 - **Título da monografia:** *O normal e o patológico nas vivências espirituais: explorações psicanalíticas e transpessoais*.
-- **Documentação:** monografia e folha de identificação institucional arquivadas; certificado físico atualmente não disponível.
+- **Documentação:** monografia e folha de identificação institucional arquivadas; conclusão e emissão do certificado confirmadas diretamente por Fabiano.
 - **Função curricular:** formação concluída que articula Psicologia, Psicanálise, espiritualidade, normalidade, patologia e perspectivas transpessoais.
 
 **Formulação obrigatória para versões públicas:**
@@ -138,8 +138,10 @@ Não substituir esta formulação por “formação em Psicologia Transpessoal�
 ## 5. Psicanálise Integrativa
 
 - **Primeira formação:** Psicanálise Integrativa Clínica Escola.
-- **Data documentada:** conclusão em 23/07/2002.
-- **Documento:** certificado localizado no inventário.
+- **Certificado de conclusão:** datado de 23/07/2002.
+- **Declaração curricular detalhada:** emitida em 31/07/2002, com carga total de 294h.
+- **Conteúdos registrados na declaração:** fundamentos psicanalíticos, Freud, Jung, pós e neofreudianos, Lacan, Reich, sexualidade, noções de hipnose, PNL, técnicas de atendimento, ética e monografia.
+- **Regra documental:** certificado e declaração são documentos complementares da mesma primeira formação; não contar como duas formações.
 - **Segunda formação:** formação em Psicanálise Integrativa no Instituto Brasileiro de Transpsicanálise.
 - **Professor principal:** André Keppe.
 - **Base autobiográfica:** Fabiano confirma duas formações em Psicanálise Integrativa, com estágios e início de atendimentos psicoterapêuticos em paralelo às formações iniciais.
@@ -170,7 +172,9 @@ A Psicanálise deve ser apresentada como formação e linhagem de escuta, sem se
 - **EMDR Clínico — manejo teórico-prático:** 20h presenciais + 20h de créditos, Brasília, 03/02/2013.
 - **Supervisão de casos em EMDR:** 20h, Brasília, 03/02/2013.
 - **Protocolos de EMDR para atenção precoce e estresse traumático continuado:** 14h, São Paulo, 16/02/2019.
-- **Cursos complementares:** trauma, estados do ego, atenção precoce, dissociação, neuroendocrinologia e transmissão transgeracional.
+- **EMDR e Estados do Ego:** 14h, com Sandra Paulsen, São Paulo, 04–05/04/2019.
+- **Quando não há Palavras — Introdução ao Processamento de Trauma Precoce e Apego:** 7h, com Sandra Paulsen, III Congresso Brasileiro de EMDR, São Paulo, 02/11/2015.
+- **Cursos complementares:** trauma, estados do ego, atenção precoce, dissociação, apego, neuroendocrinologia e transmissão transgeracional.
 
 ### Atualizações e eventos
 
@@ -191,9 +195,12 @@ Há certificados históricos de terapeuta certificado EMDR com validade impressa
 
 - **Fases 1 e 2:** 14h + 14h, São Paulo, 03/04/2011.
 - **Fases 1 e 2:** treinamento realizado em 10, 11, 12, 14 e 15/08/2017.
+- **Fase 3:** concluída sequencialmente após a Fase 2 e antes da Fase 4, conforme confirmação direta de Fabiano.
 - **Fase 4:** 18h, São Paulo, 02–04/08/2019.
-- **Situação:** formação continuada com fases documentadas.
-- **Uso:** pode constar como formação em Brainspotting; não usar “certificação vigente” sem conferência específica.
+- **Fase 5 — treinamento avançado:** 24h, on-line ao vivo, 22–24/08/2025, ministrado por David Grand e certificado pela Associação Brasileira de Brainspotting — ABBSP.
+- **Vivência em Meditação Bodyspotting:** workshop on-line de 4h, ministrado por Marília Toscano em 11/04/2026, com participação integral certificada pela ABBSP. É atualização complementar, não uma fase adicional.
+- **Situação:** formação continuada longitudinal, com Fases 1, 2, 3, 4 e 5 concluídas entre 2011 e 2025; a Fase 3 é confirmada diretamente por Fabiano e as demais fases possuem registros documentais no acervo.
+- **Uso:** pode constar como “formação continuada em Brainspotting, com Fases 1 a 5 concluídas”; reservar a expressão “certificação vigente” para contextos que exijam esse estatuto específico.
 
 ## 3. Psicoterapia de Integração e Reprocessamento do Trauma
 
@@ -256,15 +263,20 @@ Há certificados históricos de terapeuta certificado EMDR com validade impressa
 - Técnicas de Alinhamento Postural, Reflexologia e Relaxamento: 60h/aula, 26/03–25/06/1995.
 - Reflexologia e Alinhamento da Coluna Vertebral: 60h, março–julho de 1996.
 - Drenagem Linfática: 20h, abril–junho de 1996.
-- Outros documentos EOMA/Shiozawa: títulos parcialmente legíveis, mantidos no inventário até nova conferência.
+- Os registros do Shiozawa são tratados separadamente abaixo, distinguindo curso, estágio, experiência profissional e docência.
 
-## 2. Shiozawa, Seitai e Quiropraxia
+## 2. Shiozawa, Shiatsu, Seitai e Quiropraxia
 
-- Experiência cotidiana de atendimento corporal e estudos no Shiozawa, durante aproximadamente dez anos.
+- **Shiozawa Prevenção em Saúde — Curso Intensivo de Shiatsu:** 100h, realizado de junho a dezembro de 1994.
+- **Estágio documentado no Shiozawa:** 2.000h, realizado de janeiro de 1995 a julho de 1996.
+- **Emissão do certificado:** São Paulo, 07/12/1996.
+- **Regra de contagem:** as 2.000h pertencem ao estágio documentado e permanecem separadas das 100h do curso; não somar como uma única formação.
+- **Continuidade profissional:** experiência cotidiana de atendimento corporal e estudos no Shiozawa durante aproximadamente dez anos, conforme fonte autobiográfica.
 - **Shiatsu Yasuragi/Japan Sotai Institute — Sotai/Reeducação Postural Integral:** nível básico, fevereiro de 2015.
 - **EOMA/Instituto Shioda — Chi Kung e Massagem Quiroprática/Seitai com Energização:** 01–07/07/2017.
 - **Nível II de Massagem Quiroprática/Seitai com Energização:** 10–16/02/2018, com Mestre Kenichi Shioda.
 - **Experiência didática:** curso sobre Seitai e Quiropraxia durante o período de atuação no Shiozawa.
+- **Função curricular:** o curso e o estágio documentam a intensidade da base corporal anterior à Psicologia e devem constar do dossiê e das versões ampliadas do currículo.
 
 ## 3. Acupuntura Tradicional Chinesa — CEMETRAC
 
@@ -296,6 +308,8 @@ Há certificados históricos de terapeuta certificado EMDR com validade impressa
 - **Instituição:** Centro de Enseñanza de la Medicina Tradicional China — CEMETC.
 - **Denominação literal:** *Acupuntura Bioenergética y Moxibustión*.
 - **Direção:** Dr. A. Carlos Nogueira Pérez.
+- **Título conclusivo documentado:** *Máster Iberoamericano en Acupuntura Bioenergética y Moxibustión*, certificado em outubro de 2015 no âmbito institucional da Universidad de Medicina Tradicional China de Yunnan, do CEMETC e da Fundación Europea de Medicina Tradicional China.
+- **Fonte do título conclusivo:** certificado `CEMETC YUNAN.pdf`; o documento identifica as instituições e a conclusão, sem explicitar carga horária.
 - **Formação internacional:** módulos, níveis 1, 2 e 3, programas curriculares e certificados gerais.
 - **Certificados gerais:** 360h/14,4 ECTS, conforme os documentos.
 - **Módulo internacional anterior:** 16h, 29–30/03/2014, Heiwa/CEMETC.
@@ -331,7 +345,7 @@ Há certificados históricos de terapeuta certificado EMDR com validade impressa
 - **Liu Zi Jue/Seis Sons de Cura:** 23–24/08/2014, com Miguel Martín Vizán. O certificado informa expressamente que não confere título de instrutor/professor da ABQS ou CHQA.
 - **Tai Chi Qigong Instructor Training Course:** nível I, janeiro de 2016.
 - **Sistema Energético Humano:** 48h em módulos, concluído em 07/12/2014.
-- **Health Qigong:** certificados técnicos adicionais, com denominação integral parcialmente pendente.
+- **Health Qigong:** certificados técnicos adicionais; denominações não legíveis não são utilizadas.
 - **Função curricular:** base incorporada para práticas educativas de respiração, atenção, movimento e presença.
 
 ## 8. Estudos com professores e escolas de MTC
@@ -349,7 +363,7 @@ Há certificados históricos de terapeuta certificado EMDR com validade impressa
 
 **Formulação curricular corrigida e obrigatória:**
 
-> **Hipnose clínica e terapêutica: formação continuada com estudos junto a Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sophia Bauer. Esse conjunto integra estudos de psicoterapia, linguagem, comunicação e processos de mudança.**
+> **Hipnose clínica e terapêutica: formação continuada com estudos junto a Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sofia Bauer. Esse conjunto integra estudos de psicoterapia, linguagem, comunicação e processos de mudança.**
 
 ### Registros documentais de formação
 
@@ -358,7 +372,7 @@ Há certificados históricos de terapeuta certificado EMDR com validade impressa
 - **Professional & Clinical Hypnosis — módulos B4–B8:** 70h, 09–15/07/2022.
 - **Hypnotic Mastery Bootcamp:** 18h, 06–07/08/2022.
 - **Carga documentada nesses quatro registros:** 130h, sem incluir outros estudos sem carga horária identificada.
-- **Sophia Bauer:** acesso pago confirmado ao curso on-line entre agosto de 2023 e fevereiro de 2024, por registro independente da Hotmart.
+- **Sofia Bauer:** acesso pago confirmado ao curso on-line entre agosto de 2023 e fevereiro de 2024, por registro independente da Hotmart.
 - **Registro de terceiros:** o acesso Hotmart comprova a inscrição/período de acesso, mas não deve ser descrito como certificado quando não houver certificado localizado.
 - **Datas individuais com cada professor:** não completar por inferência; usar as datas dos certificados correspondentes.
 
@@ -366,7 +380,7 @@ A expressão “Hipnose clínica e terapêutica” deve aparecer no currículo d
 
 ## 2. Programação Neurolinguística
 
-- **SBPNL:** formação anterior de Practitioner, confirmada autobiograficamente por Fabiano; data e certificado individual não localizados.
+- **SBPNL:** formação anterior de Practitioner, confirmada autobiograficamente por Fabiano.
 - **Trivium — Practitioner em PNL:** 112h, São Paulo, junho–dezembro de 2001.
 - **Trivium — Master Practitioner em PNL:** 80h, São Paulo, março–maio de 2001.
 - **Função curricular:** estudos históricos sobre comunicação, linguagem, percepção de padrões e processos de mudança.
@@ -400,13 +414,18 @@ Este eixo registra uma formação sistêmica extensa, sequencial e relevante par
 
 ## Meditação e atenção
 
-- **Associação Palas Athena — Atenção e concentração nas práticas meditativas, módulo 2:** 18–20/10/2013.
-- **Associação Palas Athena — Atenção e concentração nas práticas meditativas, módulo 3:** 29/11–01/12/2013.
+- **Associação Palas Athena — Atenção e concentração nas práticas meditativas:** sequência completa de três módulos concluída.
+- **Módulo 1:** concluído, conforme confirmação direta de Fabiano.
+- **Módulo 2:** 18–20/10/2013, certificado digitalizado.
+- **Módulo 3:** 29/11–01/12/2013, certificado digitalizado.
+- **Situação:** percurso completo confirmado pelo autor; módulos 2 e 3 possuem datas documentadas e o módulo 1 é confirmado diretamente por Fabiano.
+- **Uso:** pode constar como “sequência de três módulos de atenção e concentração nas práticas meditativas pela Associação Palas Athena”.
 
 ## Reiki e linhagens energéticas
 
 - **Usui Shiki Ryoho — primeiro grau:** 22/08/1993.
 - **Usui Shiki Ryoho — segundo grau:** 21/11/1993.
+- **Reiki Master:** Clínica Integrativa Michael/Grupo de Desenvolvimento Espiritual “Júlia Magalhães”, São Paulo, 30/09/2000.
 - **Registered Karuna Reiki Master:** International Center for Reiki Training, registro BRM037, 03/06/2001.
 - **Karuna Ki–Tera Mai, níveis I e II:** data registrada como 29/10, ano parcialmente ilegível.
 - **Cursos de Reiki:** múltiplas turmas ministradas por Fabiano em período anterior à docência on-line.
@@ -416,7 +435,9 @@ Este eixo registra uma formação sistêmica extensa, sequencial e relevante par
 
 - **Radiestesia básico:** 15h/aula, 13/09/1998.
 - **Curso de Radiestesia:** 90h/aula, São Paulo, 14/04/2002, com Antonio Rodrigues/equipe.
-- **Bioenergologia:** curso livre concluído em agosto de 2004; títulos internos “Bioenergólogo” e “Terapeuta Bioenergopata”.
+- **Bioenergologia:** **Curso de Bioenergologia com Formação em Bioenergopatia**, Instituto Medeiros de Ensino Livre e Pesquisas em Ciências Avançadas; concluído em agosto de 2004, nota final 9,0; declaração emitida em 29/11/2004.
+- **Programa curricular:** anexo com 114 unidades-aula documentadas, distribuídas em conteúdos de matéria, origem do universo e da vida, percepção, consciência, corpo, campos energéticos, projeção extrafísica, Bioenergopatia e Psicobioenergia. Como o documento usa unidades mistas de “aulas” e “horas” e não informa carga total equivalente, não converter automaticamente esse total em horas.
+- **Títulos institucionais internos:** “Pesquisador Bioenergólogo” e “Terapeuta Bioenergopata”. Preservar apenas na literalidade documental; em apresentação pública, usar o nome do curso, não os títulos como identidade profissional.
 - **PHVIDA — Sistema de Equilíbrio Energético:** curso para Healer, com Carlos Florêncio.
 - **Apometria Quântica — A Tecnologia do Espírito:** com Carina Greco.
 - **Tameana — Pleiadian Connection:** níveis 1 e 2 e prática do Pojá, 28/09/2018.
@@ -432,6 +453,13 @@ Este eixo registra uma formação sistêmica extensa, sequencial e relevante par
 - **Gilda Moura — Recuperação de Memórias em Pacientes que Vivenciaram Experiências Extraordinárias ou Anômalas:** 16h, 21–22/10/2017.
 - **Função curricular:** genealogia intelectual e experiencial dos estudos de consciência, espiritualidade e fenômenos incomuns.
 - **Regra:** workshops e palestras não devem ser apresentados como formação científica, título acadêmico ou validação biomédica.
+
+## Outros marcos históricos de desenvolvimento e movimento
+
+- **Leader Training:** Núcleo Renascer Treinamento e Consultoria, Atibaia, 23/10/1999; carga não informada.
+- **Federação Paulista de Aikido — FEPAI:** certificado de promoção/graduação, 13/06/1999; a graduação não é publicada por insuficiência de legibilidade da cópia.
+- **Wado-Ryu Karate-Do Renmei do Brasil:** certificado de graduação, São Paulo, 14/09/1982; a graduação não é publicada por insuficiência de legibilidade da cópia.
+- **Função curricular:** registros de genealogia corporal e desenvolvimento pessoal; pertencem ao dossiê mestre, não à abertura do currículo profissional.
 
 ---
 
@@ -458,6 +486,7 @@ Este eixo registra uma formação sistêmica extensa, sequencial e relevante par
 
 - Professor assistente de Gilda Moura em turma presencial realizada no Centralma, em 2018/2019.
 - Curso e colaboração em temas de hipnose, regressão de memória, experiências anômalas e estados de consciência.
+- Ministrou, em parceria com Gilda Moura, três cursos on-line de auto-hipnose entre 2020 e 2025. O vault contém material histórico do curso básico; detalhes não informados por edição são omitidos, sem constituir pendência.
 - Participação posterior no projeto on-line *Além das Fronteiras do Saber*.
 - Participação no encontro de experienciadores do IGM, em agosto de 2026, com palestra em conjunto com Daiana Leite.
 
@@ -554,14 +583,14 @@ Não somar:
 - **Confirmado por fonte autobiográfica:** informação declarada diretamente por Fabiano.
 - **Fontes combinadas:** informação autobiográfica apoiada por documentos totais ou parciais.
 - **Histórico:** marco real da trajetória cuja vigência administrativa não deve ser presumida.
-- **Pendente de precisão:** não publicar detalhes sem nova cópia ou conferência.
+- **Detalhe não legível:** não publicar o campo nem completá-lo por inferência; isso não constitui pendência curricular.
 - **Duplicata/complemento:** documento útil para confirmar outro, sem constituir nova formação.
 
 # Pontos que não devem voltar a ser omitidos
 
 1. A pós-graduação em Psicologia Transpessoal foi concluída em 2010, com TCC entregue e certificado emitido em 2011.
-2. A formação em hipnose clínica e terapêutica deve ser nomeada explicitamente, com Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sophia Bauer.
-3. Os registros datados de hipnose devem aparecer: Mirroring Hands 2019; PCH B1–B3 2021; PCH B4–B8 2022; Hypnotic Mastery Bootcamp 2022; Sophia Bauer com acesso Hotmart de agosto de 2023 a fevereiro de 2024.
+2. A formação em hipnose clínica e terapêutica deve ser nomeada explicitamente, com Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sofia Bauer.
+3. Os registros datados de hipnose devem aparecer: Mirroring Hands 2019; PCH B1–B3 2021; PCH B4–B8 2022; Hypnotic Mastery Bootcamp 2022; Sofia Bauer com acesso Hotmart de agosto de 2023 a fevereiro de 2024.
 4. A trajetória corporal começa antes da Psicologia e inclui EOMA, Shiozawa, MTC, CEMETRAC, Pró-Salus, CEMETC, Qi Gong, respiração, Seitai e Quiropraxia.
 5. A *Venia Docente* do CEMETC é um marco histórico de docência institucional e deve ser listada com data, local, escopo e validade impressa.
 6. A formação em EMDR e Brainspotting deve ser apresentada longitudinalmente, com módulos, cargas e distinção entre formação histórica e certificação vigente.
@@ -569,6 +598,9 @@ Não somar:
 8. As experiências didáticas começaram antes da docência on-line recente: Reiki, Seitai/Quiropraxia, PUC-SP, Centralma e assistência a Gilda Moura.
 9. PNL não deve ser apagada: deve ser organizada no eixo de linguagem, comunicação e mudança.
 10. Reiki, constelações, radiestesia e outros repertórios não devem desaparecer do dossiê; devem ocupar o eixo histórico adequado, sem liderar a persona clínica.
+11. O Shiozawa deve ser registrado com precisão: Curso Intensivo de Shiatsu de 100h, junho–dezembro de 1994, e estágio documentado de 2.000h, janeiro de 1995–julho de 1996; curso e estágio são categorias separadas.
+12. A Bioenergologia deve aparecer no dossiê com a denominação completa, conclusão em agosto de 2004, nota 9,0 e programa de 114 unidades-aula, sem conversão automática para horas.
+13. A primeira Psicanálise Integrativa possui certificado de 23/07/2002 e declaração curricular de 31/07/2002, com 294h; os dois documentos comprovam a mesma formação.
 
 # Formulações públicas canônicas
 
@@ -578,7 +610,7 @@ Não somar:
 
 ## Hipnose
 
-> **Hipnose clínica e terapêutica: formação continuada com estudos junto a Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sophia Bauer, com registros documentais de Mirroring Hands, Professional & Clinical Hypnosis e Hypnotic Mastery Bootcamp. O curso on-line com Sophia Bauer teve acesso pago confirmado entre agosto de 2023 e fevereiro de 2024 por registro independente da Hotmart.**
+> **Hipnose clínica e terapêutica: formação continuada com estudos junto a Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sofia Bauer, com registros documentais de Mirroring Hands, Professional & Clinical Hypnosis e Hypnotic Mastery Bootcamp. O curso on-line com Sofia Bauer teve acesso pago confirmado entre agosto de 2023 e fevereiro de 2024 por registro independente da Hotmart.**
 
 ## Trajetória
 
@@ -590,7 +622,7 @@ Não somar:
 
 ## CEMETC
 
-> **Formação continuada internacional em Acupuntura Bioenergética e Moxibustión pelo CEMETC, com níveis, módulos e programas documentados. Em 2014, recebeu da instituição a credencial histórica de Venia Docente para ministrar programas específicos de formação em Acupuntura Bioenergética.**
+> **Concluiu o *Máster Iberoamericano en Acupuntura Bioenergética y Moxibustión*, certificado em outubro de 2015 no âmbito institucional da Universidad de Medicina Tradicional China de Yunnan, do CEMETC e da Fundación Europea de Medicina Tradicional China. O percurso inclui níveis, módulos e programas documentados; em 2014, recebeu do CEMETC a credencial histórica de *Venia Docente* para ministrar programas específicos de formação em Acupuntura Bioenergética.**
 
 # Fontes e notas relacionadas
 
@@ -607,6 +639,8 @@ Não somar:
 - [[12 - Documentos Comprobatórios/14 - Dossiê Institucional Docência Centralma PUC-SP e Formação 2002-2026]]
 - [[12 - Documentos Comprobatórios/19 - Auditoria Página a Página - Certificados e Diplomas 2026]]
 - [[12 - Documentos Comprobatórios/20 - Novos Registros Documentais - ALECES e Deb Dana 2023]]
+- [[12 - Documentos Comprobatórios/22 - Atualização Brainspotting Palas Athena CEMETC Yunnan e Auto-Hipnose 2025-2026]]
+- [[12 - Documentos Comprobatórios/23 - Complemento Documental Shiozawa Bioenergologia e Formação Histórica 1982-2019]]
 - [[12 - Documentos Comprobatórios/21 - Psicologia Transpessoal - FACIS - Monografia e Certificado 2010-2011]]
 
 # Regra de produção futura
@@ -622,3 +656,7 @@ Antes de gerar qualquer currículo, bio ou apresentação:
 7. não apagar um marco histórico por não ser o eixo frontal da persona;
 8. não apresentar uma credencial histórica como vigente sem documento atual;
 9. revisar o resultado contra esta matriz antes da publicação.
+
+# Snapshot editorial consolidado — 21/08/2026
+
+Os arquivos DOCX produzidos a partir desta matriz estão em [[13 - Documentos Curriculares Consolidados/00 - Índice e Governança do Pacote Curricular Consolidado 2026]]. A matriz permanece como fonte de conteúdo detalhado; os DOCX registram uma versão editorial derivada e não devem receber alterações isoladas.
