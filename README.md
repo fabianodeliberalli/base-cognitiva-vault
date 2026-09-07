@@ -30,4 +30,5 @@ Este vault é a memória persistente do projeto e do trabalho intelectual de Fab
 - relações precisam ter justificativa e utilidade;
 - hipóteses permanecem hipóteses;
 - decisões humanas devem ser distinguíveis das interpretações da IA;
-- o vault não contém agentes, scripts ou configurações técnicas do Codex.
+- o vault admite somente adaptadores técnicos mínimos de IA, claramente identificados, que apontem para uma fonte comum em `90 - Sistema` e não dupliquem conteúdo autoral;
+- scripts ou skills adicionais exigem justificativa, testes, manutenção definida e homologação de Fabiano.
