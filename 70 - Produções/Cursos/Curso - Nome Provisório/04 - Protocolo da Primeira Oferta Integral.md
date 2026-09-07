@@ -15,6 +15,10 @@ tags:
   - metodo-eixo
 ---
 
+> [!NOTE] Estimativa de duração — 7 de setembro de 2026
+> Referências a **12 semanas** neste documento são estimativas provisórias de etapas anteriores, não duração definitiva, promessa ou cronograma vigente. A duração será revista conforme a construção das 54 aulas, considerando volume, ritmo, práticas, materiais, forma de liberação e outros fatores ainda em curso. O texto abaixo permanece preservado como memória e hipótese de trabalho.
+
+
 # Protocolo da Primeira Oferta Integral
 
 ## Decisão aprovada
@@ -191,8 +195,8 @@ Antes de estruturar módulos, a próxima sessão deverá deliberar:
 
 ## Relações
 
-- [[Dossiê de Contexto e Arquitetura Mestre]]
-- [[Matriz Integrada - Quatro Movimentos, Seis Fases e Jornada Fenomenológica]]
+- [[00 - Dossiê de Contexto e Arquitetura Mestre|Dossiê de Contexto e Arquitetura Mestre]]
+- [[02 - Matriz Integrada - Quatro Movimentos, Seis Fases e Jornada Fenomenológica|Matriz Integrada - Quatro Movimentos, Seis Fases e Jornada Fenomenológica]]
 - [[Regimes Pedagógicos do Ecossistema]]
-- [[Ficha de Regime Pedagógico - Modelo]]
+- [[03 - Ficha de Regime Pedagógico - Modelo|Ficha de Regime Pedagógico - Modelo]]
 - [[Sessão 2A-F - Deliberação das Seis Fases do Método EIXO]]

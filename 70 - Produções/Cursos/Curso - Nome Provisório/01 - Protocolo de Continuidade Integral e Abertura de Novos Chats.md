@@ -17,6 +17,14 @@ tags:
   - arquitetura-pedagogica
 ---
 
+> [!NOTE] Leitura dos códigos históricos 2.1 e 2.2
+> Quando estes códigos nomearem antigas aulas ou unidades, eles identificam somente materiais do acervo histórico. Todas as variantes ficam preservadas e nenhuma é aula vigente. Seus títulos, conteúdos e fundamentações podem contribuir para qualquer uma das 54 aulas conforme pertinência, sem determinar numeração, posição ou ordem de gravação. Códigos iguais usados como versão, seção ou identificador técnico não são afetados.
+
+
+> [!IMPORTANT] Regra de leitura vigente — 7 de setembro de 2026
+> Aplicar [[11 - Contexto Mínimo - Traduzindo o Ser Humano]]: **9 módulos e 54 aulas** são a única arquitetura vigente. A organização inicial de **7 módulos e 14 aulas ou unidades** permanece como acervo histórico de títulos e conteúdos e pode contribuir, por pertinência, com ampliações, correlações e fundamentações durante a construção das aulas ainda não gravadas. Ela não governa o desenvolvimento atual, não exige correspondência com as 54 aulas e não transporta automaticamente sua numeração. Neste documento, formulações anteriores sobre “duas arquiteturas”, “arquitetura interna” ou ligação obrigatória têm valor histórico, não normativo.
+
+
 # Protocolo de Continuidade Integral e Abertura de Novos Chats
 
 > **Prevalência operacional desde 26/07/2026:** consultar [[Protocolo de Elaboração Curricular Viva e Continuidade Leve]]. Quando houver conflito sobre ritmo, relatórios, aprovações, códigos, portões, auditorias antecipadas, checklists ou carga de leitura, o protocolo mais recente prevalece. Este documento continua preservando identidade, memória, fontes e decisões substantivas.
@@ -135,7 +143,7 @@ A pedagogia do projeto parte do vivido, torna a experiência legível, favorece 
 
 ## 4. Identidade atual do curso
 
-**Traduzindo o Ser Humano** é a marca organizadora e o nome atual da oferta. O subtítulo-base é **Da compreensão acumulada à mudança vivida**; headlines permanecem variáveis por contexto comercial.
+**Traduzindo o Ser Humano** é a marca organizadora e o nome atual da oferta. O subtítulo-base é **Da compreensão acumulada à presença que sustenta**; headlines permanecem variáveis por contexto comercial.
 
 Natureza aprovada:
 
@@ -652,8 +660,8 @@ Leitura obrigatória inicial:
 6. [[02 - Matriz Integrada - Quatro Movimentos, Seis Fases e Jornada Fenomenológica]];
 7. [[09 - Esqueleto Estrutural da Primeira Oferta Integral para Mentoria]];
 8. [[00 - Índice Mestre dos Kits de Aula]];
-9. [[Aula 0.2 - Índice do Kit]];
-10. [[Aula 1.1 - Índice do Kit]];
+9. [[70 - Produções/Cursos/Curso - Nome Provisório/60 - Arquitetura Pedagógica/Aula 0.2 - Percurso do EIXO/00 - Índice do Kit|Aula 0.2 - Índice do Kit]];
+10. [[70 - Produções/Cursos/Curso - Nome Provisório/60 - Arquitetura Pedagógica/Aula 1.1 - A experiência em sua multidimensionalidade/00 - Índice do Kit|Aula 1.1 - Índice do Kit]];
 11. [[02 - Roteiro do Educador v1]];
 12. [[08 - Critérios de Pilotagem v1]];
 13. [[09 - Registro de Produção Visual e QA v1]].
@@ -692,7 +700,7 @@ Antes de declarar ausência de conteúdo ou produzir do zero, consultar o Invent
 2. identificar se o trabalho pertence à Orquestração Mestre ou ao chat de um módulo;
 3. no chat do módulo, ler integralmente o respectivo `00 - Estado, Índice e Continuidade do Módulo`;
 4. ler o Índice Mestre e os kits das aulas do módulo;
-5. emitir Relatório de Retomada e aguardar deliberação autoral antes de modificar documentos;
+5. ~~emitir Relatório de Retomada e aguardar deliberação autoral antes de modificar documentos;~~ **cláusula operacional substituída:** iniciar diretamente pela demanda atual, aplicando o Protocolo de Continuidade Leve e consultar Fabiano somente diante de conflito material;
 6. distinguir aprovado, consolidado, candidato, hipótese, protótipo, pendência, patrimônio histórico, fonte e reserva;
 7. confirmar o ponto operacional exato;
 8. não reabrir decisões aprovadas sem contradição documentada.
@@ -706,7 +714,9 @@ Antes de declarar ausência de conteúdo ou produzir do zero, consultar o Invent
 - separar material do educador, do participante, opcional e reserva;
 - encaminhar à Orquestração Mestre qualquer mudança que afete outro módulo, três ou mais aulas ou um fundamento transversal.
 
-### Auditoria de encerramento de cada aula
+### Auditoria de consolidação de cada aula
+
+> Aplicar em marco real de consolidação ou preparação para pilotagem, não como ritual antecipado nem ao final de toda conversa.
 
 1. verificar função, capacidade e rastreabilidade;
 2. auditar P2, P6, sequência, prática, evidência, retorno e ponte;
@@ -715,7 +725,9 @@ Antes de declarar ausência de conteúdo ou produzir do zero, consultar o Invent
 5. atualizar o Índice do Kit, o Estado e Índice do Módulo e o Índice Mestre;
 6. registrar deliberação autoral, pendências, impactos e ponto seguinte.
 
-### Auditoria de encerramento de cada módulo
+### Auditoria de consolidação de cada módulo
+
+> Aplicar quando o módulo alcançar maturidade suficiente, sem bloquear exploração, elaboração ou conversa por checklist prematuro.
 
 1. verificar coerência entre as duas aulas;
 2. conferir progressão, não duplicação e ponte para o módulo seguinte;

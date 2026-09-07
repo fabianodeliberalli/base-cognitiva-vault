@@ -16,6 +16,18 @@ tags:
   - auditoria-autoral
 ---
 
+> [!NOTE] Leitura dos códigos históricos 2.1 e 2.2
+> Quando estes códigos nomearem antigas aulas ou unidades, eles identificam somente materiais do acervo histórico. Todas as variantes ficam preservadas e nenhuma é aula vigente. Seus títulos, conteúdos e fundamentações podem contribuir para qualquer uma das 54 aulas conforme pertinência, sem determinar numeração, posição ou ordem de gravação. Códigos iguais usados como versão, seção ou identificador técnico não são afetados.
+
+
+> [!NOTE] Subtítulo vigente desde 7 de setembro de 2026
+> O subtítulo oficial é **Da compreensão acumulada à presença que sustenta**. A formulação **Da compreensão acumulada à mudança vivida** permanece abaixo como registro histórico ou matéria-prima de comunicação, sem governar a identidade atual.
+
+
+> [!IMPORTANT] Regra de leitura vigente — 7 de setembro de 2026
+> Aplicar [[11 - Contexto Mínimo - Traduzindo o Ser Humano]]: **9 módulos e 54 aulas** são a única arquitetura vigente. A organização inicial de **7 módulos e 14 aulas ou unidades** permanece como acervo histórico de títulos e conteúdos e pode contribuir, por pertinência, com ampliações, correlações e fundamentações durante a construção das aulas ainda não gravadas. Ela não governa o desenvolvimento atual, não exige correspondência com as 54 aulas e não transporta automaticamente sua numeração. Neste documento, formulações anteriores sobre “duas arquiteturas”, “arquitetura interna” ou ligação obrigatória têm valor histórico, não normativo.
+
+
 # Registro Mestre de Formulações Estruturantes
 
 > **Atualização estrutural de 22/08/2026:** registros que afirmem 7 módulos/14 unidades como estrutura da oferta devem ser lidos como arquitetura interna de desenvolvimento, integração e rastreabilidade. A oferta vigente é 9 módulos/54 aulas. Nenhuma substitui automaticamente a outra; a incorporação é governada pela Nota-Ponte e pela Matriz Mestre.

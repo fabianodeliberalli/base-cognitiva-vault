@@ -7,6 +7,14 @@ status: vigente
 versao: "1.1"
 ---
 
+> [!NOTE] Estimativa de duração — 7 de setembro de 2026
+> Referências a **12 semanas** neste documento são estimativas provisórias de etapas anteriores, não duração definitiva, promessa ou cronograma vigente. A duração será revista conforme a construção das 54 aulas, considerando volume, ritmo, práticas, materiais, forma de liberação e outros fatores ainda em curso. O texto abaixo permanece preservado como memória e hipótese de trabalho.
+
+
+> [!NOTE] Subtítulo vigente desde 7 de setembro de 2026
+> O subtítulo oficial é **Da compreensão acumulada à presença que sustenta**. A formulação **Da compreensão acumulada à mudança vivida** permanece abaixo como registro histórico ou matéria-prima de comunicação, sem governar a identidade atual.
+
+
 # Raio X do Produto — versão com deliberações atualizadas
 
 ## Identificação

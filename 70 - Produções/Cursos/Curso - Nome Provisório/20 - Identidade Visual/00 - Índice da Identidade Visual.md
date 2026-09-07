@@ -45,7 +45,7 @@ Antes de produzir qualquer material visual, consultar:
 ### Institucional do curso
 
 **Traduzindo o Ser Humano**  
-**Da compreensão acumulada à mudança vivida**
+**Da compreensão acumulada à presença que sustenta**
 
 ## Produção futura
 

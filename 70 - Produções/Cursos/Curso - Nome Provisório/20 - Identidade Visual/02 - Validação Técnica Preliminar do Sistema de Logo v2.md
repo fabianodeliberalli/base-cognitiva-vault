@@ -18,6 +18,10 @@ tags:
   - marca
 ---
 
+> [!NOTE] Subtítulo vigente desde 7 de setembro de 2026
+> O subtítulo oficial é **Da compreensão acumulada à presença que sustenta**. A formulação **Da compreensão acumulada à mudança vivida** permanece abaixo como registro histórico ou matéria-prima de comunicação, sem governar a identidade atual.
+
+
 # Validação Técnica Preliminar do Sistema de Logo v2
 
 ## 1. Estatuto

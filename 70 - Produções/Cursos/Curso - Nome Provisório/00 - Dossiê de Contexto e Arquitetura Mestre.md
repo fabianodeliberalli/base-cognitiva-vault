@@ -17,6 +17,14 @@ tags:
   - arquitetura-pedagogica
 ---
 
+> [!NOTE] Leitura dos códigos históricos 2.1 e 2.2
+> Quando estes códigos nomearem antigas aulas ou unidades, eles identificam somente materiais do acervo histórico. Todas as variantes ficam preservadas e nenhuma é aula vigente. Seus títulos, conteúdos e fundamentações podem contribuir para qualquer uma das 54 aulas conforme pertinência, sem determinar numeração, posição ou ordem de gravação. Códigos iguais usados como versão, seção ou identificador técnico não são afetados.
+
+
+> [!IMPORTANT] Regra de leitura vigente — 7 de setembro de 2026
+> Aplicar [[11 - Contexto Mínimo - Traduzindo o Ser Humano]]: **9 módulos e 54 aulas** são a única arquitetura vigente. A organização inicial de **7 módulos e 14 aulas ou unidades** permanece como acervo histórico de títulos e conteúdos e pode contribuir, por pertinência, com ampliações, correlações e fundamentações durante a construção das aulas ainda não gravadas. Ela não governa o desenvolvimento atual, não exige correspondência com as 54 aulas e não transporta automaticamente sua numeração. Neste documento, formulações anteriores sobre “duas arquiteturas”, “arquitetura interna” ou ligação obrigatória têm valor histórico, não normativo.
+
+
 # Dossiê de Contexto — Traduzindo o Ser Humano
 
 **Versão:** 0.34  
@@ -84,7 +92,7 @@ A formulação interna vigente do público é:
 A arquitetura comercial vigente distingue:
 
 - **marca e nome da oferta:** Traduzindo o Ser Humano;
-- **subtítulo-base:** Da compreensão acumulada à mudança vivida;
+- **subtítulo-base:** Da compreensão acumulada à presença que sustenta;
 - **headline-base:** Por que você entende seus padrões, mas continua repetindo?;
 - **EIXO:** função pedagógica interna de coordenação, retorno e reorganização.
 
@@ -164,7 +172,7 @@ O projeto possui densidade filosófica, patrimônio intelectual e coerência ped
 ## 2. Identidade do curso
 
 - **Marca e nome atual da oferta:** Traduzindo o Ser Humano;
-- **Subtítulo-base:** Da compreensão acumulada à mudança vivida;
+- **Subtítulo-base:** Da compreensão acumulada à presença que sustenta;
 - **Headline-base:** Por que você entende seus padrões, mas continua repetindo?;
 - **Natureza geral aprovada:** estrutura educacional complementar;
 - **Tese central:** compreender uma experiência não garante capacidade de sustentar e integrar aquilo que ela continua mobilizando;
@@ -416,7 +424,7 @@ Documentos relacionados:
 
 - [[Pacote Comercial Inicial - Manifesto de Fontes e Proveniência]];
 - [[Auditoria Curricular Pormenorizada do Raio X Definitivo]];
-- [[Matriz de Reaproveitamento do Patrimônio Inicial]].
+- [[01 - Matriz de Reaproveitamento do Patrimônio Inicial|Matriz de Reaproveitamento do Patrimônio Inicial]].
 
 
 ---
@@ -741,7 +749,7 @@ Distinção:
 - entrega Zoom/Hotmart, duração e valor: hipóteses a deliberar;
 - primeira turma produz evidência pedagógica, não validação clínica ou científica.
 
-Ver [[Protocolo da Primeira Oferta Integral]].
+Ver [[04 - Protocolo da Primeira Oferta Integral|Protocolo da Primeira Oferta Integral]].
 
 
 ---
@@ -942,7 +950,7 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 
 > definir o que será testado e os critérios de seleção do conteúdo essencial de cada uma das seis fases.
 
-Ver [[Protocolo da Primeira Oferta Integral]].
+Ver [[04 - Protocolo da Primeira Oferta Integral|Protocolo da Primeira Oferta Integral]].
 
 
 ---
@@ -976,7 +984,7 @@ Esta seção prevalece sobre indicações antigas de próxima aula ou frente ati
 
 ### Frente curricular ativa e ponto de retomada
 
-> Módulo 0 ativo. Abrir o [[Aula 0.2 - Índice do Kit]] e retomar a Unidade Curricular 0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança — sem reabrir a Unidade 0.1. A decomposição audiovisual da Unidade 0.1 permanece etapa posterior.
+> Módulo 0 ativo. Abrir o [[70 - Produções/Cursos/Curso - Nome Provisório/60 - Arquitetura Pedagógica/Aula 0.2 - Percurso do EIXO/00 - Índice do Kit|Aula 0.2 - Índice do Kit]] e retomar a Unidade Curricular 0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança — sem reabrir a Unidade 0.1. A decomposição audiovisual da Unidade 0.1 permanece etapa posterior.
 
 A Unidade Curricular 1.1 será retomada no Módulo 1 e submetida ao mesmo procedimento das demais unidades.
 

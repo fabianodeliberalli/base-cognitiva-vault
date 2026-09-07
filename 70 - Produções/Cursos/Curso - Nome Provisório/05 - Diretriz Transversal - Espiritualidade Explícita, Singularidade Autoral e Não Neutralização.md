@@ -222,7 +222,7 @@ Uso: capas, apresentações institucionais, eventos, materiais amplos do projeto
 ### Versão institucional do curso
 
 > **Traduzindo o Ser Humano**  
-> **Da compreensão acumulada à mudança vivida**
+> **Da compreensão acumulada à presença que sustenta**
 
 Uso: Hotmart, página da oferta, cadernos, certificados, documentos e materiais diretamente vinculados ao curso atual.
 
