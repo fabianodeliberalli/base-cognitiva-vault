@@ -268,5 +268,33 @@ A correção foi iniciada em ramificação isolada:
 - o verificador passou sem erros ou avisos no estado correto;
 - testes negativos reintroduziram a antiga autoridade da estrutura 7/14 na porta de entrada e no Dossiê; ambos foram rejeitados pelo verificador.
 
-A segunda integração permanece pendente de comparação e validação final de Fabiano.
+A segunda integração foi incorporada à ramificação principal em 7 de setembro de 2026, no registro `52333e0952a2a007c4350bb46808265abfd226f8`.
 
+## Auditoria residual de propostas antigas — 7 de setembro de 2026
+
+Uma verificação posterior incluiu o estado das propostas de alteração ainda abertas no GitHub, que não fazia parte da árvore da ramificação principal auditada inicialmente.
+
+### Proposta de alteração 2 — Comunicação e Criativos
+
+- situação encontrada: um commit próprio, 93 commits atrás da ramificação principal;
+- conteúdo exclusivo: 12 arquivos, aproximadamente 4.800 linhas de texto e um DOCX;
+- conflito: a proposta ainda tratava 7 módulos e 14 aulas como arquitetura paralela de desenvolvimento;
+- tratamento: os arquivos exclusivos foram preservados integralmente em [[00 - Sobre este acervo recuperado]], dentro de Fundamentos e Patrimônio;
+- leitura atual: o pacote é fonte histórica consultável para comunicação e criativos, sem autoridade automática sobre a arquitetura de 9 módulos e 54 aulas.
+
+### Proposta de alteração 11 — currículo e evidências
+
+- situação encontrada: 69 commits próprios e 59 commits atrás da ramificação principal;
+- conteúdo exclusivo: fatos curriculares, duas notas documentais, um registro de reconciliação, dois DOCX e um gerador editorial;
+- colisão identificada: a proposta usava `AUT-DOC-22` para um dossiê diferente do certificado da Masterclass de Brainspotting posteriormente integrado;
+- tratamento documental: o dossiê recuperado passou a `AUT-DOC-23` e o complemento de Shiozawa/Bioenergologia a `AUT-DOC-24`;
+- tratamento do conteúdo: fatos confirmados foram incorporados às fontes atuais; derivações antigas não foram aplicadas em bloco;
+- preservação: os oito arquivos exclusivos permanecem integralmente no pacote histórico da proposta 11.
+
+### Resultado
+
+- nenhum conteúdo exclusivo das duas propostas ficou dependente apenas de uma ramificação aberta;
+- nenhuma interpretação antiga foi restaurada como orientação atual;
+- a versão principal passou a registrar Brainspotting fases 1–5, Bodyspotting, Palas Athena, CEMETC–Yunnan, auto-hipnose, Shiozawa, Bioenergologia, Psicanálise Integrativa e formações históricas complementares;
+- as propostas antigas podem ser encerradas depois da integração deste tratamento, sem perda do material recuperado;
+- a limpeza de ramificações já integradas é manutenção do GitHub e não altera o conteúdo disponível no Obsidian.

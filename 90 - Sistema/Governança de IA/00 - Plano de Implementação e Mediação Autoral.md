@@ -86,9 +86,10 @@ Somente conflitos materiais exigem pausa. A consulta deve explicar, em linguagem
 
 A ordem pode mudar conforme a demanda. Essas frentes não são portões para o trabalho criativo.
 
-## Estado inicial
+## Estado após a implementação
 
-- Ponto de restauração: preservado.
-- Auditoria e simplificação: em andamento.
-- Exclusões, movimentos e renomeações: bloqueados.
-- Conflitos materiais são apresentados a Fabiano apenas quando uma escolha real for necessária.
+- Ponto de restauração preservado no commit de origem indicado nos metadados.
+- Reorganização principal integrada em 7 de setembro de 2026.
+- Portas de entrada, proteção contra regressão e contexto do projeto de posicionamento integrados em etapas posteriores rastreáveis no GitHub.
+- Conteúdos históricos foram preservados; propostas antigas encontradas depois da integração receberam auditoria residual e destinação própria.
+- Conflitos materiais continuam sendo apresentados a Fabiano somente quando uma escolha autoral real for necessária.

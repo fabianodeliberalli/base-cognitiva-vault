@@ -37,9 +37,18 @@ Esta nota reúne os documentos do PDF certificados e diplomas.pdf que sustentam 
 ## Brainspotting
 
 - p. 2–3: Fases 1 e 2, documentadas em 2011 e 2017.
+- Fase 3: conclusão confirmada diretamente por Fabiano, entre as fases 2 e 4.
 - p. 12: Fase 4, 18h, 02–04/08/2019.
+- Fase 5: treinamento avançado de 24h, on-line ao vivo, 22–24/08/2025, com David Grand e certificado da Associação Brasileira de Brainspotting.
+- Vivência em Meditação Bodyspotting: 4h, on-line, 11/04/2026, com Marília Toscano; atualização complementar, não uma sexta fase.
 - Certificado complementar: Brainspotting® — Masterclass com David Grand, concluída de 21 a 23/08/2026; ver [[22 - Brainspotting - Masterclass com David Grand 2026]]. O documento não declara carga horária, modalidade, local ou nova certificação profissional.
-- Uso público: “formação continuada em Brainspotting, com fases documentadas” ou a denominação exata das fases, sem converter automaticamente em título de especialista.
+- Uso público: “formação continuada em Brainspotting, com fases 1 a 5 concluídas” ou a denominação exata das fases, sem converter automaticamente esse percurso em título de especialista ou certificação profissional vigente.
+
+## Sandra Paulsen — trauma precoce, apego e estados do ego
+
+- *Quando não há Palavras: Introdução ao Processamento de Trauma Precoce e Apego*: 7h, São Paulo, 02/11/2015.
+- *EMDR e Estados do Ego*: 14h, São Paulo, 04–05/04/2019.
+- Os dois registros foram recuperados na revisão documental complementar; ver [[24 - Complemento Documental Shiozawa Bioenergologia e Formação Histórica 1982-2019]].
 
 ## Mário Salvador e Psicoterapia Integradora
 
@@ -94,6 +103,8 @@ Os certificados históricos de terapeuta certificado EMDR das páginas 71 e 82 p
 # Documentos complementares acrescentados em 21/08/2026
 
 - [[20 - Novos Registros Documentais - ALECES e Deb Dana 2023]].
+- [[23 - Atualização Brainspotting Palas Athena CEMETC Yunnan e Auto-Hipnose 2025-2026]].
+- [[24 - Complemento Documental Shiozawa Bioenergologia e Formação Histórica 1982-2019]].
 - O certificado Aleces de 216h documenta o programa completo de 2020-2023.
 - O certificado de Nível II, 90h, documenta uma etapa do mesmo programa.
 - O certificado Deb Dana corrige o registro anterior de “2024, certificado perdido” para setembro de 2023, com 12h.

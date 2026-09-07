@@ -59,9 +59,10 @@ A docência aparece em vários momentos:
 3. aula convidada na PUC-SP em 2002;
 4. organização de cursos e acolhimento de professores no Centralma;
 5. assistência a Gilda Moura em turma presencial em 2018/2019;
-6. cinco edições de Além das Fronteiras do Saber a partir de 2020;
-7. ABBSP em 2026;
-8. IGM em 2026;
+6. três cursos on-line de auto-hipnose ministrados em parceria com Gilda Moura entre 2020 e 2025;
+7. cinco edições de Além das Fronteiras do Saber a partir de 2020;
+8. ABBSP em 2026;
+9. IGM em 2026;
 9. CEEP e projetos autorais atuais.
 
 A formulação agregadora mais forte é:

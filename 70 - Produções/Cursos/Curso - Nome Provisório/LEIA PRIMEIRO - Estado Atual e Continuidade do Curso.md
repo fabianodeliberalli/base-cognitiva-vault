@@ -71,6 +71,7 @@ Não existe lista fixa de documentos para toda retomada.
 | Masterclass | [[Guia-de-Conducao-Masterclass - Estado e Continuidade]] e a versão de trabalho indicada nele |
 | Identidade visual | [[00 - Índice da Identidade Visual]] e somente os ativos necessários |
 | Conteúdo possivelmente existente | [[02 - Inventário Mestre de Conteúdos Disponíveis]] e busca no repositório |
+| Comunicação e criativos produzidos em agosto de 2026 | [[00 - Sobre este acervo recuperado]]; usar como acervo histórico consultável e confrontar com as decisões atuais |
 | Histórico de decisões | deliberação, registro de continuidade ou snapshot correspondente |
 | Atrito repetido entre ferramentas | [[12 - Aprendizado Operacional e Melhoria Contínua]] |
 

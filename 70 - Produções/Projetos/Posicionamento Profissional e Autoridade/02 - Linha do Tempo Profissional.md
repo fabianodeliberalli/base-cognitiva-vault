@@ -30,6 +30,7 @@ Esta cronologia distingue datas documentalmente sustentadas de datas fornecidas 
 - Conclusão do Curso de Qualificação Profissional IV de Reabilitação com habilitação afim em Massagista, EOMA.
 - Diploma emitido em 14 de julho de 1995.
 - Carga horária total registrada: 1.440 horas, incluindo estágio.
+- Continuidade do estágio documentado no Shiozawa Prevenção em Saúde, com 2.000 horas entre janeiro de 1995 e julho de 1996; o Curso Intensivo de Shiatsu correspondente teve 100 horas entre junho e dezembro de 1994.
 
 ## Década de 1990 e início dos anos 2000
 
@@ -70,6 +71,12 @@ Esta cronologia distingue datas documentalmente sustentadas de datas fornecidas 
 - Matrícula no programa internacional *Máster en Acupuntura Bioenergética y Moxibustión*, da Fundación Europea de Medicina Tradicional China.
 - Viagem à Espanha com grupo de brasileiros formados no programa.
 - Em 08/11/2014, recebeu do CEMETC, em Valladolid, Espanha, a credencial institucional *Venia Docente* para ministrar programas de formação em Acupuntura Bioenergética; o documento registra validade até 08/11/2017.
+- Outubro de 2015: certificado conclusivo do *Máster Iberoamericano en Acupuntura Bioenergética y Moxibustión*, com identificação institucional do CEMETC, da Universidad de Medicina Tradicional China de Yunnan e da Fundación Europea de Medicina Tradicional China.
+
+## 2020–2025
+
+- Três cursos on-line de auto-hipnose ministrados em parceria com Gilda Moura, conforme confirmação direta de Fabiano.
+- 22–24/08/2025: Brainspotting fase 5, treinamento avançado de 24 horas, on-line ao vivo, com David Grand.
 
 ## Aproximadamente 2018
 
@@ -114,6 +121,7 @@ Esta cronologia distingue datas documentalmente sustentadas de datas fornecidas 
 - TCC: *Sincronia Neural Interpessoal e Estados Ampliados de Consciência: uma abordagem neurobiológico-relacional da espiritualidade*, aprovado com nota 9,5.
 - 11/02/2026: registro institucional da orientação finalizada, nota 9,5 e parecer favorável sobre relevância científica, delimitação, objetivos e fundamentação.
 - 7 de março: workshop da ABBSP sobre autorregulação e presença clínica em processos espirituais e estados ampliados da consciência.
+- 11 de abril: Vivência em Meditação Bodyspotting, 4 horas, on-line, com Marília Toscano.
 - 21 a 23 de agosto: conclusão da Brainspotting® — Masterclass com David Grand, conforme certificado; o documento não declara carga horária, modalidade ou local.
 - Agosto: palestra no IGM sobre fenômenos anômalos, com Daiana Leite.
 - Desenvolvimento do CEEP como professor do eixo Consciência.

@@ -21,6 +21,7 @@ Esta nota registra o eixo histórico de escuta, linguagem, hipnose e investigaç
 # Psicanálise e Transpsicanálise
 
 - p. 104: certificado de conclusão do curso livre de formação em Psicanálise Integrativa, São Paulo, 23/07/2002.
+- Declaração curricular complementar de 31/07/2002: 294h referentes à mesma primeira formação; não constitui uma terceira formação.
 - p. 102: workshop Neurociência das Funções Mentais, 12h, 02/09/2002.
 - p. 103: curso Bases Bioquímicas dos Transtornos Mentais, 36h, 16/09–16/12/2002.
 - p. 106: certificado do Instituto Brasileiro de Transpsicanálise, com denominação e data parcialmente legíveis.
@@ -50,8 +51,8 @@ Não é necessário dizer em toda bio que PNL “não constitui o eixo central�
 - p. 85: módulos B4–B8 de Hipnose Profissional e Clínica, 70h, 09–15/07/2022.
 - p. 87: Hypnotic Mastery Bootcamp, 18h, 06–07/08/2022.
 - p. 90: módulos B1–B3 de Hipnose Profissional e Clínica, 30h, 10–12/09/2021.
-- A trajetória também inclui estudos em hipnose clínica e terapêutica com Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sophia Bauer.
-- O curso on-line com Sophia Bauer foi acompanhado entre agosto de 2023 e fevereiro de 2024, com acesso pago confirmado por registro independente da Hotmart.
+- A trajetória também inclui estudos em hipnose clínica e terapêutica com Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sofia Bauer.
+- O curso on-line com Sofia Bauer foi acompanhado entre agosto de 2023 e fevereiro de 2024, com acesso pago confirmado por registro independente da Hotmart.
 - As datas documentais acima pertencem aos cursos registrados no PDF; os nomes dos professores e o período de acesso da Hotmart integram a fonte curricular autobiográfica/documental complementar.
 - Outros cursos de hipnose, auto-hipnose e regressão aparecem nos currículos e materiais históricos.
 
@@ -63,7 +64,7 @@ Evitar a expressão “hipnoterapeuta” como identidade isolada se o objetivo d
 
 # Consciência, espiritualidade e repertórios históricos
 
-- p. 9 e p. 14: práticas meditativas na Associação Palas Athena.
+- Associação Palas Athena — *Atenção e concentração nas práticas meditativas*: percurso de três módulos concluído; módulo 1 confirmado diretamente por Fabiano, módulo 2 documentado nas p. 9 e módulo 3 na p. 14.
 - p. 29, 34, 89 e 91: workshops e palestras com Amit Goswami e Instituto Aleph.
 - p. 6–7, 37, 40–43, 47–48, 50 e 68: estudos em Constelações Sistêmicas/Familiares, com títulos parcialmente legíveis.
 - p. 86, 88, 113–116: cursos e iniciações em repertórios espirituais e energéticos.
