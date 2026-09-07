@@ -165,3 +165,47 @@ Aplicação:
 - o guia comum, a skill e os adaptadores de ChatGPT, Codex e Claude passaram a orientar trabalho leve, criativo e revisável;
 - nenhum arquivo foi excluído, movido ou renomeado;
 - a ramificação principal permanece sem alteração.
+
+
+## Regressão integral — 7 de setembro de 2026
+
+### Preservação
+
+- a ramificação principal permanece no ponto de restauração original;
+- nenhuma entrada da árvore original desapareceu;
+- não houve arquivo removido ou renomeado;
+- nenhum dos 42 arquivos modificados ficou menor que sua versão de origem;
+- todas as linhas substituídas foram revisadas: correspondem ao subtítulo confirmado, à desativação do relatório obrigatório de retomada e à aplicação de auditorias apenas em marcos úteis.
+
+### Integridade documental
+
+- 55 arquivos Markdown alterados foram verificados;
+- nenhum cabeçalho de metadados ficou aberto ou malformado;
+- nenhuma referência quebrada nova foi introduzida;
+- doze referências internas antigas para arquivos existentes foram reparadas sem mudar o texto visível;
+- seis referências a arquivos vetoriais ausentes permanecem preservadas e foram registradas no manual de identidade como lacuna herdada, sem recriação automática.
+
+### Carga de contexto
+
+A rota inicial anterior exigia aproximadamente 73.783 bytes. A nova rota inicial usa:
+
+- ChatGPT e Codex: aproximadamente 10.461 bytes;
+- Claude: aproximadamente 10.424 bytes.
+
+A redução da carga inicial é de aproximadamente 86%, mantendo recuperação progressiva do restante do acervo.
+
+### Comportamento dos assistentes
+
+Foram verificados os seguintes resultados:
+
+- trabalho criativo reversível pode avançar sem cadeia de aprovação;
+- nenhuma formulação criada por IA pode adquirir estatuto rígido por iniciativa da IA;
+- estados antigos não impedem revisão por Fabiano;
+- consultas ficam reservadas a conflito autoral real, risco de perda, falsa atribuição ou ação irreversível;
+- preservar conteúdo não significa congelar ideias;
+- doze semanas permanece estimativa provisória;
+- a estrutura inicial continua disponível para ampliar, correlacionar e fundamentar as 54 aulas.
+
+### Estado
+
+A regressão da reforma de governança foi aprovada na ramificação de trabalho. Nenhuma integração à `main` foi realizada. A comparação completa deverá ser apresentada a Fabiano antes dessa decisão.
