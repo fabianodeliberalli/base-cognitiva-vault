@@ -18,6 +18,10 @@ tags:
   - dimensao-energetica
 ---
 
+> [!IMPORTANT] Regra de leitura vigente — 7 de setembro de 2026
+> Aplicar [[11 - Contexto Mínimo - Traduzindo o Ser Humano]]: **9 módulos e 54 aulas** são a única arquitetura vigente. A organização inicial de **7 módulos e 14 aulas ou unidades** permanece como acervo histórico de títulos e conteúdos e pode contribuir, por pertinência, com ampliações, correlações e fundamentações durante a construção das aulas ainda não gravadas. Ela não governa o desenvolvimento atual, não exige correspondência com as 54 aulas e não transporta automaticamente sua numeração. Neste documento, formulações anteriores sobre “duas arquiteturas”, “arquitetura interna” ou ligação obrigatória têm valor histórico, não normativo.
+
+
 # Guia Mestre de Incorporação e Rastreabilidade Curricular
 
 > **Modo de aplicação vigente desde 26/07/2026:** este Guia é instrumento de memória, consulta e consolidação. Não deve comandar a superfície da conversa criativa nem bloquear a exploração de uma aula. Durante a elaboração, códigos, portões, matrizes e checklists são usados apenas nos bastidores quando ajudarem. A aplicação formal ocorre quando Fabiano sinalizar maturidade da aula ou antes da pilotagem, conforme o [[Protocolo de Elaboração Curricular Viva e Continuidade Leve]].
