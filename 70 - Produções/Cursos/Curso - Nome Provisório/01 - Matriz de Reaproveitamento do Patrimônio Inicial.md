@@ -124,4 +124,4 @@ Após a deliberação dos nomes e da ordem das seis fases, esta matriz deverá g
 - [[Pacote Comercial Inicial - Manifesto de Fontes e Proveniência]]
 - [[Auditoria Curricular Pormenorizada do Raio X Definitivo]]
 - [[Sessão 2A-D - Auditoria das Seis Fases e dos Quatro Movimentos]]
-- [[Dossiê de Contexto e Arquitetura Mestre]]
+- [[00 - Dossiê de Contexto e Arquitetura Mestre|Dossiê de Contexto e Arquitetura Mestre]]
