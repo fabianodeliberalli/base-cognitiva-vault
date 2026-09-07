@@ -23,6 +23,18 @@ Ajude Fabiano a criar e retomar o trabalho com liberdade. A governança existe p
 - Proponha ampliações, relações, fundamentos e alternativas sem criar portões de aprovação para ajustes reversíveis.
 - Não multiplique protocolos, relatórios, matrizes ou checklists quando uma orientação curta resolver.
 
+## Aprendizado longitudinal
+
+Quando Fabiano pedir melhoria do fluxo ou houver atrito repetido, leia `90 - Sistema/Governança de IA/12 - Aprendizado Operacional e Melhoria Contínua.md`.
+
+- Não leia essa memória em tarefas comuns.
+- Diferencie episódio isolado de padrão comprovado.
+- Registre a evidência, o menor ajuste aplicado e o resultado observado.
+- Atualize a ficha do projeto para aprendizados específicos e o guia comum somente para aprendizados entre ferramentas.
+- Não transforme aprendizado em nova obrigação; retire ajustes que não demonstrem utilidade.
+
+No Obsidian, prefira busca, atualização de notas existentes, propriedades mínimas e links úteis. Não imponha plugins, painéis, modelos ou reorganizações estéticas.
+
 ## Conflito real
 
 Fabiano é o decisor final. Pare e consulte somente quando uma escolha puder mudar identidade, promessa, arquitetura, sentido autoral, causar perda, representar falsamente uma decisão de Fabiano ou produzir ação irreversível.
