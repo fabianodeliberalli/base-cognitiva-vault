@@ -2,10 +2,10 @@
 tipo: estado-e-continuidade-de-producao
 projeto: Traduzindo o Ser Humano
 recorte_entrega: "M1.1-M1.7"
-status: preparado-para-futuro-chat-de-producao
-versao: "1.1"
+status: referencia-atual-revisavel
+versao: "1.2"
 criado_em: 2026-08-23
-atualizado_em: 2026-08-23
+atualizado_em: 2026-09-07
 gravacao_autorizada: false
 ---
 
@@ -17,9 +17,9 @@ Coordenar a derivação audiovisual das aulas M1.1–M1.7 sem criar uma terceira
 
 ## Correspondência
 
-| Entrega | Origem principal | Documento governante | Estado |
+| Entrega | Origem principal | Referência de procedência | Estado |
 |---|---|---|---|
-| M1.1–M1.6 | UC 0.1 | [[Plano Efetivo de Produção M1.1 a M1.6]] | plano v1.1 aprovado |
+| M1.1–M1.6 | UC 0.1 | [[Plano Efetivo de Produção M1.1 a M1.6]] | plano v1.1 de referência |
 | M1.7 | UC 0.2 | [[07 - Consolidação de Conteúdo e Destinação para M1.7]] | conteúdo v1.1 consolidado |
 
 ## Estado por aula
@@ -36,21 +36,21 @@ Coordenar a derivação audiovisual das aulas M1.1–M1.7 sem criar uma terceira
 
 ## Correção de estatuto
 
-A presença de um arquivo preliminar de M1.1 não significa que a produção tenha começado. O arquivo foi preservado para evitar perda, mas sua autoridade é inferior ao patrimônio canônico e ao futuro trabalho do chat competente.
+A presença de um arquivo preliminar de M1.1 não significa que a produção tenha começado. Ele foi preservado para evitar perda e pode ser aproveitado, ampliado ou substituído conforme o trabalho atual.
 
 ## Guardas
 
-- não reabrir a UC 0.1;
+- usar a UC 0.1 como fonte de partida, reabrindo-a quando a construção atual pedir revisão, ampliação ou nova relação;
 - não reduzir a UC 0.2 a todo o seu acervo em uma única aula;
 - não tratar formulações de posicionamento como substitutas do conteúdo;
 - manter o caso composto curricular de M1.1 distinto da história composta da masterclass;
 - preservar energia, espiritualidade, simbolismo, corpo, relação e ciência conforme seus estatutos;
 - realizar leitura longitudinal M1.1–M1.7 antes de storyboards definitivos;
-- não autorizar gravação antes de leitura, QA, piloto e decisão específica.
+- distinguir elaboração, teste e gravação; a autorização de gravação depende de decisão específica de Fabiano quando a aula estiver madura.
 
-## Ponto exato de retomada
+## Ponto de retomada
 
-> No chat `ATIVO — TSH — Curso — Produção M1.1–M1.7`, recuperar primeiro o patrimônio canônico da UC 0.1 e o plano vigente. Somente então avaliar o insumo M1.1 não vinculante e iniciar oficialmente a produção. O Orquestrador não deve produzir, revisar ou aprovar roteiros.
+> Retomar pela aula solicitada e consultar a UC 0.1, a UC 0.2 ou o plano apenas conforme a necessidade. O material preliminar de M1.1 é insumo revisável. Nenhum chat possui competência exclusiva: o trabalho pode continuar a partir do repositório e da demanda atual de Fabiano.
 
 ## Relações
 
