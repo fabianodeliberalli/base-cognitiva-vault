@@ -206,9 +206,9 @@ Foram verificados os seguintes resultados:
 - doze semanas permanece estimativa provisória;
 - a estrutura inicial continua disponível para ampliar, correlacionar e fundamentar as 54 aulas.
 
-### Estado
+### Estado naquele momento
 
-A regressão da reforma de governança foi aprovada na ramificação de trabalho. Nenhuma integração à `main` foi realizada. A comparação completa deverá ser apresentada a Fabiano antes dessa decisão.
+Antes da homologação final, a regressão da reforma de governança estava aprovada somente na ramificação de trabalho. A integração posterior está registrada na conclusão desta auditoria.
 
 ## Revalidação após incorporar o aprendizado operacional — 7 de setembro de 2026
 
@@ -252,6 +252,19 @@ A correção foi iniciada em ramificação isolada:
 - os estados de M1, masterclass e identidade visual foram convertidos em referências revisáveis;
 - o verificador passou a testar essas portas ativas e o limite de carga;
 - os seis ativos vetoriais ausentes continuam apenas documentados, sem recriação automática.
+
+### Validação da correção residual
+
+- 12 arquivos estão envolvidos: um snapshot acrescentado, dez documentos atualizados e o verificador;
+- nenhum arquivo foi removido ou renomeado;
+- o corpo da antiga porta de entrada está contido integralmente no snapshot histórico;
+- nenhum cabeçalho de metadados ficou aberto;
+- nenhuma referência interna quebrada nova foi introduzida;
+- a porta ativa caiu de 29.095 para 5.755 bytes;
+- a rota típica de consulta de estado caiu de aproximadamente 94.260 para 19.940 bytes, redução próxima de 79%;
+- a habilidade permaneceu estruturalmente válida;
+- o verificador passou sem erros ou avisos no estado correto;
+- um teste negativo reintroduziu a antiga afirmação de autoridade da estrutura 7/14 e foi rejeitado pelo verificador.
 
 A segunda integração permanece pendente de comparação e validação final de Fabiano.
 
