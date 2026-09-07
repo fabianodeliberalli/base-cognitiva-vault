@@ -56,7 +56,7 @@ A pergunta que dá unidade ao percurso é:
 
 > Fabiano Deliberalli é psicólogo clínico e psicoterapeuta (CRP 06/98630), com mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas e consolidada com a Psicologia. Sua formação acadêmica inclui graduação em Psicologia, pós-graduação em Psicologia Transpessoal pela FACIS — concluída em 2010, com TCC entregue e certificado emitido em 2011 — e pós-graduação em Neurociências e Comportamento pela PUCRS, concluída em 2026.
 >
-> Sua formação clínica reúne Psicanálise Integrativa, EMDR, Brainspotting, formação continuada em hipnose clínica e terapêutica — com estudos junto a Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sophia Bauer — e Psicoterapia Integradora e Reprocessamento do Trauma. O percurso inclui o programa de 216 horas do Instituto Aleces, nos Níveis I, II e III do Modelo Aleceia, realizado entre 2020 e 2023 com Mario Salvador e Carmen Cuenca, além de supervisão continuada em grupo com Mário Salvador. Também realizou formação em Neurobiologia Interpessoal com Daniel Siegel e o curso de 12 horas *Navigating the Nervous System: A Polyvagal Approach to Clinical Work*, com Deb Dana, em setembro de 2023. 
+> Sua formação clínica reúne Psicanálise Integrativa, EMDR, Brainspotting, formação continuada em hipnose clínica e terapêutica — com estudos junto a Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sofia Bauer — e Psicoterapia Integradora e Reprocessamento do Trauma. O percurso inclui o programa de 216 horas do Instituto Aleces, nos Níveis I, II e III do Modelo Aleceia, realizado entre 2020 e 2023 com Mario Salvador e Carmen Cuenca, além de supervisão continuada em grupo com Mário Salvador. Também realizou formação em Neurobiologia Interpessoal com Daniel Siegel e o curso de 12 horas *Navigating the Nervous System: A Polyvagal Approach to Clinical Work*, com Deb Dana, em setembro de 2023.
 >
 > O percurso anterior em práticas corporais, Medicina Tradicional Chinesa, acupuntura, Qi Gong, respiração e movimento sustenta uma compreensão incorporada da experiência humana. Ao longo dos anos, desenvolveu atividades clínicas, docentes e de organização de cursos, incluindo a fundação histórica do Bioquantum/Centralma, a colaboração com Gilda Moura, o curso Além das Fronteiras do Saber, palestras e projetos de educação continuada.
 >
@@ -87,19 +87,20 @@ A pergunta que dá unidade ao percurso é:
 
 ## Psicanálise e escuta
 
-Fabiano iniciou sua trajetória psicoterapêutica em paralelo às primeiras formações e experiências de atendimento. Realizou duas formações em Psicanálise Integrativa: uma na SBPI, com Maria de Fátima Mora, e outra no Instituto Brasileiro de Transpsicanálise, tendo André Keppe como professor principal. A realização de ambas é confirmada pelo autor. O PDF comprova a conclusão de uma formação em 23/07/2002 e o vault preserva cursos e workshops complementares da Transpsicanálise.
+Fabiano iniciou sua trajetória psicoterapêutica em paralelo às primeiras formações e experiências de atendimento. Realizou duas formações em Psicanálise Integrativa: uma na SBPI, com Maria de Fátima Mora, e outra no Instituto Brasileiro de Transpsicanálise, tendo André Keppe como professor principal. A realização de ambas é confirmada pelo autor. A primeira possui certificado de 23/07/2002 e declaração curricular de 31/07/2002, com 294 horas; o vault também preserva cursos e workshops complementares da Transpsicanálise.
 
 A Psicanálise deve aparecer como origem estruturante da escuta, da compreensão do conflito, do sentido e da singularidade — não como uma lista de técnicas equivalentes à Psicologia.
 
 ## Trauma, reprocessamento e regulação
 
 - Formação continuada em EMDR desde aproximadamente 2010, com treinamento básico documentado de 50 horas teórico-práticas e 10 horas de supervisão, em março de 2011.
-- Formação continuada em Brainspotting, com fases 1–2, fase 4 e Masterclass com David Grand, realizada de 21 a 23 de agosto de 2026, documentadas.
+- Formação continuada em Brainspotting, com fases 1 a 5 concluídas entre 2011 e 2025; a fase 5 correspondeu a treinamento avançado de 24 horas, on-line ao vivo, com David Grand, em agosto de 2025. Masterclass com David Grand realizada de 21 a 23 de agosto de 2026, documentada separadamente.
+- Formação complementar em trauma com Sandra Paulsen: *Quando não há Palavras: Introdução ao Processamento de Trauma Precoce e Apego* (7h, 2015) e *EMDR e Estados do Ego* (14h, 2019).
 - Cursos de EMDR, trauma, estados do ego, atenção precoce, estresse traumático continuado, neuroendocrinologia do trauma e transmissão transgeracional.
 - Formação em Psicoterapia Integradora e Reprocessamento do Trauma com Mário Salvador e Carmen Cuenca, incluindo programa documentado de 216 horas do Instituto Aleces, Níveis I, II e III do Modelo Aleceia, realizado entre 2020 e 2023.
 - Supervisão mensal em grupo com Mário Salvador, em continuidade em 2026.
 - Estudo presencial anterior com Mário Salvador em Brasília, provavelmente em 2018, e imersões presenciais de três dias em 2025 e 2026, conforme relato do autor.
-- Formação continuada em hipnose clínica e terapêutica, com estudos junto a Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sophia Bauer. Registros documentais: Mirroring Hands — Essential Practice & Practitioner (12h, 07–08/12/2019); Professional & Clinical Hypnosis, módulos B1–B3 (30h, 10–12/09/2021) e B4–B8 (70h, 09–15/07/2022); Hypnotic Mastery Bootcamp (18h, 06–07/08/2022). O curso on-line com Sophia Bauer teve acesso pago confirmado entre agosto de 2023 e fevereiro de 2024, por registro independente da Hotmart.
+- Formação continuada em hipnose clínica e terapêutica, com estudos junto a Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sofia Bauer. Registros documentais: Mirroring Hands — Essential Practice & Practitioner (12h, 07–08/12/2019); Professional & Clinical Hypnosis, módulos B1–B3 (30h, 10–12/09/2021) e B4–B8 (70h, 09–15/07/2022); Hypnotic Mastery Bootcamp (18h, 06–07/08/2022). O curso on-line com Sofia Bauer teve acesso pago confirmado entre agosto de 2023 e fevereiro de 2024, por registro independente da Hotmart.
 
 A publicidade deve usar “formação em EMDR e Brainspotting” e “formação continuada em trauma”. A expressão “terapeuta certificado” só deve ser utilizada quando a situação atual da certificação correspondente estiver confirmada.
 
@@ -114,10 +115,10 @@ A publicidade deve usar “formação em EMDR e Brainspotting” e “formação
 A formação corporal não deve ser tratada como prólogo descartável nem apresentada como se fosse Psicologia. Ela é a origem do olhar incorporado que hoje informa a escuta clínica e a educação sobre corpo, estado interno, respiração e presença.
 
 - EOMA: diploma de Técnico em Reabilitação — modalidade Massagista, concluído em 1995, com 1.440 horas.
-- Atuação e estudos no Shiozawa, com práticas corporais orientais, Seitai, Quiropraxia e atendimento clínico corporal.
+- Shiozawa Prevenção em Saúde: Curso Intensivo de Shiatsu de 100 horas, realizado de junho a dezembro de 1994, e estágio documentado de 2.000 horas, de janeiro de 1995 a julho de 1996, além da atuação posterior com práticas corporais orientais, Seitai e Quiropraxia.
 - Acupuntura Tradicional Chinesa pelo CEMETRAC, de 2002 a 2004, com 1.200 horas, sob direção de Liu Chih Ming.
 - Formação em MTC com Ernesto Garcia/Pró-Salus e outros módulos documentados.
-- Formação continuada internacional em *Acupuntura Bioenergética y Moxibustión* pelo CEMETC, com certificados de 1º, 2º e 3º níveis emitidos entre agosto de 2015 e setembro de 2016, certificados gerais de 360 horas/14,4 ECTS e programas detalhados; as cargas não são somadas sem análise de sobreposição.
+- Formação continuada internacional em *Acupuntura Bioenergética y Moxibustión* pelo CEMETC, incluindo o certificado conclusivo *Máster Iberoamericano en Acupuntura Bioenergética y Moxibustión*, de outubro de 2015, certificados de 1º, 2º e 3º níveis emitidos entre agosto de 2015 e setembro de 2016, certificados gerais de 360 horas/14,4 ECTS e programas detalhados; as cargas não são somadas sem análise de sobreposição.
 - Em 08/11/2014, recebeu do CEMETC a credencial institucional *Venia Docente* para ministrar programas de formação em Acupuntura Bioenergética; o documento registra validade até 08/11/2017.
 - Formação em Qi Gong, incluindo Ba Duan Jin, Yi Jin Jing, Wu Qin Xi, Liu Zi Jue/Seis Sons de Cura e práticas de respiração e movimento.
 - Experiência histórica como instrutor de Reiki e professor de práticas corporais.
@@ -153,6 +154,7 @@ As experiências didáticas começaram antes da trajetória acadêmica formal e 
 - curso de Seitai e Quiropraxia durante a atuação no Shiozawa;
 - aula convidada na Faculdade de Psicologia da PUC-SP sobre corpo e energia, em 01/10/2002, com certificado institucional localizado;
 - professor assistente de Gilda Moura em turma presencial no Centralma, em 2018/2019;
+- professor, em parceria com Gilda Moura, em três cursos on-line de auto-hipnose realizados entre 2020 e 2025;
 - professor e cocriador do curso online Além das Fronteiras do Saber, em cinco edições a partir de 2020;
 - palestras e cursos em organizações, empresas e projetos de desenvolvimento humano; a lista nominal de instituições, temas e datas ainda deve ser completada;
 - workshop da ABBSP em 07/03/2026, como ministrante, com certificado localizado;

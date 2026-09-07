@@ -95,7 +95,7 @@ Não reduzir a informação a “formação em Psicologia Transpessoal” quando
 
 ## Hipnose
 
-> **Hipnose clínica e terapêutica: formação continuada com estudos junto a Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sophia Bauer.**
+> **Hipnose clínica e terapêutica: formação continuada com estudos junto a Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sofia Bauer.**
 
 Registros que devem permanecer associados:
 
@@ -103,7 +103,7 @@ Registros que devem permanecer associados:
 - Professional & Clinical Hypnosis B1–B3 — 30h, 10–12/09/2021;
 - Professional & Clinical Hypnosis B4–B8 — 70h, 09–15/07/2022;
 - Hypnotic Mastery Bootcamp — 18h, 06–07/08/2022;
-- curso com Sophia Bauer: acesso pago confirmado por registro independente da Hotmart entre agosto de 2023 e fevereiro de 2024.
+- curso com Sofia Bauer: acesso pago confirmado por registro independente da Hotmart entre agosto de 2023 e fevereiro de 2024.
 
 A expressão “estudos e formações integrados à trajetória de psicoterapia, linguagem e mudança” pode explicar a função do eixo, mas não deve substituir a identificação explícita da formação em hipnose clínica e terapêutica.
 

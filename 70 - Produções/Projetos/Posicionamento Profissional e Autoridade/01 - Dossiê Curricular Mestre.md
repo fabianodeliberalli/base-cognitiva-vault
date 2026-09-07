@@ -51,14 +51,14 @@ Essa pergunta se desenvolve em cinco movimentos:
 
 ## Psicoterapia, trauma e reprocessamento
 
-- Duas formações em Psicanálise Integrativa: uma na SBPI, com Maria de Fátima Mora, e outra no Instituto Brasileiro de Transpsicanálise, tendo André Keppe como professor principal. A realização das duas formações é confirmada pelo autor; o vault contém certificado de uma formação e registros complementares de cursos e workshops da Transpsicanálise.
+- Duas formações em Psicanálise Integrativa: uma na SBPI, com Maria de Fátima Mora, e outra no Instituto Brasileiro de Transpsicanálise, tendo André Keppe como professor principal. A realização das duas formações é confirmada pelo autor; a primeira possui certificado de 23/07/2002 e declaração curricular de 31/07/2002, com 294 horas, e o vault contém registros complementares da Transpsicanálise.
 - Formação e prática histórica em psicoterapia breve e referenciais winnicottianos.
-- Formação continuada em EMDR e Brainspotting desde aproximadamente 2010.
+- Formação continuada em EMDR e Brainspotting desde aproximadamente 2010, com fases 1 a 5 de Brainspotting concluídas entre 2011 e 2025 e atualizações posteriores documentadas.
 - Formação em Psicoterapia de Integração e Reprocessamento do Trauma pelo Instituto ALECES, com Mário Salvador e Carmen Cuenca, realizada entre 2020 e 2023.
 - Supervisões mensais em grupo com Mário Salvador, em continuidade em 2026.
 - Estudo anterior presencial com Mário Salvador em Brasília, provavelmente em 2018 — data a confirmar.
 - Imersões presenciais de três dias com atendimentos e supervisões em 2025 e 2026.
-- Formação continuada em hipnose clínica e terapêutica, com estudos junto a Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sophia Bauer; registros documentais de Mirroring Hands (2019), Professional & Clinical Hypnosis B1–B3 (2021), B4–B8 (2022) e Hypnotic Mastery Bootcamp (2022), além de acesso pago confirmado ao curso on-line de Sophia Bauer entre agosto de 2023 e fevereiro de 2024.
+- Formação continuada em hipnose clínica e terapêutica, com estudos junto a Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sofia Bauer; registros documentais de Mirroring Hands (2019), Professional & Clinical Hypnosis B1–B3 (2021), B4–B8 (2022) e Hypnotic Mastery Bootcamp (2022), além de acesso pago confirmado ao curso on-line de Sofia Bauer entre agosto de 2023 e fevereiro de 2024.
 
 ## Neurobiologia relacional e regulação
 
@@ -69,10 +69,10 @@ Essa pergunta se desenvolve em cinco movimentos:
 ## Corpo, práticas integrativas e Medicina Tradicional Chinesa
 
 - Técnico em Reabilitação — modalidade Massagista, pela Escola Oriental de Massagem e Acupuntura — EOMA, concluído em 1995, com 1.440 horas conforme diploma apresentado.
-- Atuação e formação no Shiozawa Prevenção em Saúde com Mariko Sato, incluindo práticas corporais orientais; período referido de aproximadamente dez anos.
+- Atuação e formação no Shiozawa Prevenção em Saúde com Mariko Sato, incluindo Curso Intensivo de Shiatsu de 100 horas, em 1994, estágio documentado de 2.000 horas entre 1995 e 1996 e práticas corporais orientais posteriores; período total referido de aproximadamente dez anos.
 - Acupuntura Tradicional Chinesa pelo CEMETRAC, de 2002 a 2004, com 1.200 horas, sob direção de Liu Chih Ming.
 - Estudos na Pró-Salus Vitae com Ernesto Garcia González e Pedro Pablo Arias Capdet.
-- Participação, no ano acadêmico de 2014–2015, no programa internacional denominado *Máster en Acupuntura Bioenergética y Moxibustión*, promovido pela Fundación Europea de Medicina Tradicional China, com Carlos Nogueira Pérez.
+- Participação, no ano acadêmico de 2014–2015, no programa internacional de Acupuntura Bioenergética e Moxibustión, com certificado conclusivo *Máster Iberoamericano en Acupuntura Bioenergética y Moxibustión* emitido em outubro de 2015 no contexto institucional do CEMETC, da Universidad de Medicina Tradicional China de Yunnan e da Fundación Europea de Medicina Tradicional China.
 - *Venia Docente* do CEMETC documentada, emitida em Valladolid em 08/11/2014 para programas de formação em Acupuntura Bioenergética, com validade impressa até 08/11/2017; utilizar como marco docente histórico.
 - Formação continuada em Qi Gong, respiração, movimento e modelos tradicionais de Qi e meridianos, com professores e linhagens mencionados nos currículos históricos.
 - Formação como Reiki Master em sistemas Usui e Karuna-Tera Mai e experiência histórica no ensino de Reiki.

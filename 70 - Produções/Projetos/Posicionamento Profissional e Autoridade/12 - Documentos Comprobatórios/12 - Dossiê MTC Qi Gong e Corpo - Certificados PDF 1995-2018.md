@@ -27,6 +27,7 @@ Esta nota reúne os documentos que explicam a origem corporal, oriental e integr
 - p. 105: Técnicas de Alinhamento Postural, Reflexologia e Relaxamento, 60h, 1995.
 - p. 94: aperfeiçoamento em Reflexologia e Alinhamento da Coluna Vertebral, 60h, 1996.
 - p. 112, 115 e 117: documentos adicionais da EOMA/Shiozawa com títulos parcialmente legíveis; permanecem em inventário.
+- Documento complementar: Shiozawa Prevenção em Saúde — Curso Intensivo de Shiatsu de 100h, junho–dezembro de 1994, e estágio documentado de 2.000h, janeiro de 1995–julho de 1996; curso e estágio permanecem categorias separadas. Ver [[24 - Complemento Documental Shiozawa Bioenergologia e Formação Histórica 1982-2019]].
 
 Formulação adequada:
 
@@ -41,6 +42,7 @@ Formulação adequada:
 
 ## CEMETC e Acupuntura Bioenergética
 
+- Certificado conclusivo: *Máster Iberoamericano en Acupuntura Bioenergética y Moxibustión*, outubro de 2015, com identificação institucional da Universidad de Medicina Tradicional China de Yunnan, CEMETC e Fundación Europea de Medicina Tradicional China; carga horária não informada no documento conclusivo.
 - A credencial literal *Venia Docente* do CEMETC, registro 20068-D-B, fólio 017, foi emitida em Valladolid em 08/11/2014 para ministrar programas de formação em Acupuntura Bioenergética; o documento registra validade até 08/11/2017 e prevê renovação mediante formação continuada do corpo docente.
 - p. 55: módulo 4, 32h, 07–09/08/2015.
 - p. 56: primeiro módulo internacional, 16h, 29–30/03/2014.

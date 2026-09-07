@@ -179,6 +179,8 @@ A Psicanálise deve ser apresentada como formação e linhagem de escuta, sem se
 - **FOCUS — Atualizações em Neurobiologia Interpessoal:** 16h; data não legível no recorte disponível.
 - **III Congresso Brasileiro de EMDR:** participação em 01/11/2015.
 - **Deany Laliotis — tomada de decisões durante e fora do reprocessamento:** 7h, 30/10/2015.
+- **Sandra Paulsen — Quando não há Palavras: Introdução ao Processamento de Trauma Precoce e Apego:** 7h, São Paulo, 02/11/2015.
+- **Sandra Paulsen — EMDR e Estados do Ego:** 14h, São Paulo, 04–05/04/2019.
 
 ### Situação de certificações
 
@@ -192,9 +194,12 @@ Há certificados históricos de terapeuta certificado EMDR com validade impressa
 
 - **Fases 1 e 2:** 14h + 14h, São Paulo, 03/04/2011.
 - **Fases 1 e 2:** treinamento realizado em 10, 11, 12, 14 e 15/08/2017.
+- **Fase 3:** conclusão confirmada diretamente por Fabiano; realizada entre as fases 2 e 4, sem data e carga horária acrescentadas por inferência.
 - **Fase 4:** 18h, São Paulo, 02–04/08/2019.
+- **Fase 5 — treinamento avançado:** 24h, on-line ao vivo, 22–24/08/2025, com David Grand e certificado da Associação Brasileira de Brainspotting.
+- **Vivência em Meditação Bodyspotting:** 4h, on-line, 11/04/2026, com Marília Toscano; atualização complementar, não uma sexta fase.
 - **Masterclass com David Grand:** atividade concluída de 21 a 23/08/2026; certificado documentado em [[12 - Documentos Comprobatórios/22 - Brainspotting - Masterclass com David Grand 2026]]. O documento não informa carga horária, modalidade ou local.
-- **Situação:** formação continuada com fases documentadas.
+- **Situação:** formação continuada com fases 1 a 5 concluídas e atualizações posteriores documentadas.
 - **Uso:** pode constar como formação em Brainspotting; não usar “certificação vigente” sem conferência específica.
 
 ## 3. Psicoterapia de Integração e Reprocessamento do Trauma
@@ -263,6 +268,8 @@ Há certificados históricos de terapeuta certificado EMDR com validade impressa
 ## 2. Shiozawa, Seitai e Quiropraxia
 
 - Experiência cotidiana de atendimento corporal e estudos no Shiozawa, durante aproximadamente dez anos.
+- **Shiozawa — Curso Intensivo de Shiatsu:** 100h, junho–dezembro de 1994.
+- **Shiozawa — estágio documentado:** 2.000h, janeiro de 1995–julho de 1996. Não somar às 100h do curso.
 - **Shiatsu Yasuragi/Japan Sotai Institute — Sotai/Reeducação Postural Integral:** nível básico, fevereiro de 2015.
 - **EOMA/Instituto Shioda — Chi Kung e Massagem Quiroprática/Seitai com Energização:** 01–07/07/2017.
 - **Nível II de Massagem Quiroprática/Seitai com Energização:** 10–16/02/2018, com Mestre Kenichi Shioda.
@@ -299,6 +306,7 @@ Há certificados históricos de terapeuta certificado EMDR com validade impressa
 - **Denominação literal:** *Acupuntura Bioenergética y Moxibustión*.
 - **Direção:** Dr. A. Carlos Nogueira Pérez.
 - **Formação internacional:** módulos, níveis 1, 2 e 3, programas curriculares e certificados gerais.
+- **Certificado conclusivo:** *Máster Iberoamericano en Acupuntura Bioenergética y Moxibustión*, outubro de 2015, com identificação institucional da Universidad de Medicina Tradicional China de Yunnan, CEMETC e Fundación Europea de Medicina Tradicional China; carga horária não informada nesse certificado.
 - **Certificados gerais:** 360h/14,4 ECTS, conforme os documentos.
 - **Módulo internacional anterior:** 16h, 29–30/03/2014, Heiwa/CEMETC.
 - **Módulo 4:** 32h, 07–09/08/2015.
@@ -351,7 +359,7 @@ Há certificados históricos de terapeuta certificado EMDR com validade impressa
 
 **Formulação curricular corrigida naquela etapa:**
 
-> **Hipnose clínica e terapêutica: formação continuada com estudos junto a Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sophia Bauer. Esse conjunto integra estudos de psicoterapia, linguagem, comunicação e processos de mudança.**
+> **Hipnose clínica e terapêutica: formação continuada com estudos junto a Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sofia Bauer. Esse conjunto integra estudos de psicoterapia, linguagem, comunicação e processos de mudança.**
 
 ### Registros documentais de formação
 
@@ -360,7 +368,7 @@ Há certificados históricos de terapeuta certificado EMDR com validade impressa
 - **Professional & Clinical Hypnosis — módulos B4–B8:** 70h, 09–15/07/2022.
 - **Hypnotic Mastery Bootcamp:** 18h, 06–07/08/2022.
 - **Carga documentada nesses quatro registros:** 130h, sem incluir outros estudos sem carga horária identificada.
-- **Sophia Bauer:** acesso pago confirmado ao curso on-line entre agosto de 2023 e fevereiro de 2024, por registro independente da Hotmart.
+- **Sofia Bauer:** acesso pago confirmado ao curso on-line entre agosto de 2023 e fevereiro de 2024, por registro independente da Hotmart.
 - **Registro de terceiros:** o acesso Hotmart comprova a inscrição/período de acesso, mas não deve ser descrito como certificado quando não houver certificado localizado.
 - **Datas individuais com cada professor:** não completar por inferência; usar as datas dos certificados correspondentes.
 
@@ -402,6 +410,7 @@ Este eixo registra uma formação sistêmica extensa, sequencial e relevante par
 
 ## Meditação e atenção
 
+- **Associação Palas Athena — Atenção e concentração nas práticas meditativas, módulo 1:** conclusão confirmada diretamente por Fabiano.
 - **Associação Palas Athena — Atenção e concentração nas práticas meditativas, módulo 2:** 18–20/10/2013.
 - **Associação Palas Athena — Atenção e concentração nas práticas meditativas, módulo 3:** 29/11–01/12/2013.
 
@@ -419,6 +428,7 @@ Este eixo registra uma formação sistêmica extensa, sequencial e relevante par
 - **Radiestesia básico:** 15h/aula, 13/09/1998.
 - **Curso de Radiestesia:** 90h/aula, São Paulo, 14/04/2002, com Antonio Rodrigues/equipe.
 - **Bioenergologia:** curso livre concluído em agosto de 2004; títulos internos “Bioenergólogo” e “Terapeuta Bioenergopata”.
+- **Complemento documental de Bioenergologia:** nota final 9,0 e programa com 114 unidades-aula; não converter o total automaticamente em horas.
 - **PHVIDA — Sistema de Equilíbrio Energético:** curso para Healer, com Carlos Florêncio.
 - **Apometria Quântica — A Tecnologia do Espírito:** com Carina Greco.
 - **Tameana — Pleiadian Connection:** níveis 1 e 2 e prática do Pojá, 28/09/2018.
@@ -562,8 +572,8 @@ Não somar:
 # Pontos que não devem voltar a ser omitidos
 
 1. A pós-graduação em Psicologia Transpessoal foi concluída em 2010, com TCC entregue e certificado emitido em 2011.
-2. A formação em hipnose clínica e terapêutica deve ser nomeada explicitamente, com Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sophia Bauer.
-3. Os registros datados de hipnose devem aparecer: Mirroring Hands 2019; PCH B1–B3 2021; PCH B4–B8 2022; Hypnotic Mastery Bootcamp 2022; Sophia Bauer com acesso Hotmart de agosto de 2023 a fevereiro de 2024.
+2. A formação em hipnose clínica e terapêutica deve ser nomeada explicitamente, com Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sofia Bauer.
+3. Os registros datados de hipnose devem aparecer: Mirroring Hands 2019; PCH B1–B3 2021; PCH B4–B8 2022; Hypnotic Mastery Bootcamp 2022; Sofia Bauer com acesso Hotmart de agosto de 2023 a fevereiro de 2024.
 4. A trajetória corporal começa antes da Psicologia e inclui EOMA, Shiozawa, MTC, CEMETRAC, Pró-Salus, CEMETC, Qi Gong, respiração, Seitai e Quiropraxia.
 5. A *Venia Docente* do CEMETC é um marco histórico de docência institucional e deve ser listada com data, local, escopo e validade impressa.
 6. A formação em EMDR e Brainspotting deve ser apresentada longitudinalmente, com módulos, cargas e distinção entre formação histórica e certificação vigente.
@@ -580,7 +590,7 @@ Não somar:
 
 ## Hipnose
 
-> **Hipnose clínica e terapêutica: formação continuada com estudos junto a Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sophia Bauer, com registros documentais de Mirroring Hands, Professional & Clinical Hypnosis e Hypnotic Mastery Bootcamp. O curso on-line com Sophia Bauer teve acesso pago confirmado entre agosto de 2023 e fevereiro de 2024 por registro independente da Hotmart.**
+> **Hipnose clínica e terapêutica: formação continuada com estudos junto a Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sofia Bauer, com registros documentais de Mirroring Hands, Professional & Clinical Hypnosis e Hypnotic Mastery Bootcamp. O curso on-line com Sofia Bauer teve acesso pago confirmado entre agosto de 2023 e fevereiro de 2024 por registro independente da Hotmart.**
 
 ## Trajetória
 
@@ -610,6 +620,9 @@ Não somar:
 - [[12 - Documentos Comprobatórios/19 - Auditoria Página a Página - Certificados e Diplomas 2026]]
 - [[12 - Documentos Comprobatórios/20 - Novos Registros Documentais - ALECES e Deb Dana 2023]]
 - [[12 - Documentos Comprobatórios/21 - Psicologia Transpessoal - FACIS - Monografia e Certificado 2010-2011]]
+- [[12 - Documentos Comprobatórios/22 - Brainspotting - Masterclass com David Grand 2026]]
+- [[12 - Documentos Comprobatórios/23 - Atualização Brainspotting Palas Athena CEMETC Yunnan e Auto-Hipnose 2025-2026]]
+- [[12 - Documentos Comprobatórios/24 - Complemento Documental Shiozawa Bioenergologia e Formação Histórica 1982-2019]]
 
 # Regra de produção futura
 

@@ -58,6 +58,8 @@ O arquivo integral de certificados e diplomas permanece na Biblioteca e/ou no ac
 | [[21 - Psicologia Transpessoal - FACIS - Monografia e Certificado 2010-2011]] | Pós-graduação concluída em 2010; TCC entregue; certificado emitido em 2011 |
 | [[18 - CEMETC - Venia Docente e Acupuntura Bioenergética 2014-2016]] | Venia Docente e formação em Acupuntura Bioenergética/Moxibustión; níveis 1–3 e certificados gerais |
 | [[22 - Brainspotting - Masterclass com David Grand 2026]] | Formação continuada em Brainspotting; masterclass concluída de 21 a 23/08/2026 |
+| [[23 - Atualização Brainspotting Palas Athena CEMETC Yunnan e Auto-Hipnose 2025-2026]] | Fases 1–5 de Brainspotting, Bodyspotting, Palas Athena, CEMETC–Yunnan e docência em auto-hipnose |
+| [[24 - Complemento Documental Shiozawa Bioenergologia e Formação Histórica 1982-2019]] | Shiozawa, Bioenergologia, Psicanálise Integrativa, trauma e registros históricos complementares |
 
 # Fonte nova auditada
 
@@ -81,7 +83,7 @@ O arquivo integral de certificados e diplomas permanece na Biblioteca e/ou no ac
 - EOMA: diploma Técnico em Reabilitação — modalidade Massagista, 1995, 1.440h.
 - CEMETRAC: Acupuntura Tradicional Chinesa, 2002–2004, 1.200h.
 - Pró-Salus Vitae: Auriculoterapia, 48h; Semiologia e Propedêutica da MTC, 143h.
-- CEMETC: módulos e níveis de Acupuntura Bioenergética e Moxibustão, páginas 18, 25, 27–28, 33, 36, 44, 53–56, 61, 64, 72–80.
+- CEMETC: módulos e níveis de Acupuntura Bioenergética e Moxibustão, páginas 18, 25, 27–28, 33, 36, 44, 53–56, 61, 64, 72–80; certificado conclusivo do *Máster Iberoamericano* registrado na nota 23.
 - CEMETC: *Venia Docente* para ministrar programas de formação em Acupuntura Bioenergética, emitida em 08/11/2014, com validade impressa até 08/11/2017; níveis 1–3 e certificados gerais registrados em [[18 - CEMETC - Venia Docente e Acupuntura Bioenergética 2014-2016]].
 - Qi Gong e Tai Chi Qi Gong: instrutoria e cursos documentados, p. 5, 13, 15, 39, 60 e 81.
 - Seitai, Quiropraxia, alinhamento postural, reflexologia e cursos corporais: p. 16, 49, 94, 105, 112, 115 e 117.
@@ -89,14 +91,14 @@ O arquivo integral de certificados e diplomas permanece na Biblioteca e/ou no ac
 ## Trauma e psicoterapia
 
 - EMDR: treinamento básico e cursos clínicos, p. 19–24, 30, 32, 38, 52, 57, 59, 62, 65–66, 71 e 82.
-- Brainspotting: fases 1–2 e fase 4, p. 2–3 e 12; masterclass com David Grand, de 21 a 23/08/2026, registrada em [[22 - Brainspotting - Masterclass com David Grand 2026]].
+- Brainspotting: fases 1–5 concluídas entre 2011 e 2025, conforme fontes documentais e confirmação direta; masterclass com David Grand, de 21 a 23/08/2026, registrada separadamente em [[22 - Brainspotting - Masterclass com David Grand 2026]].
 - Psicoterapia Integradora e Reprocessamento do Trauma com Mário Salvador, p. 4, 17 e 35.
 - Neurobiologia Interpessoal, p. 59, complementada pelo certificado com Daniel Siegel arquivado na nota 08.
 - Hipnose e Mirroring Hands, p. 84–85, 87 e 90.
 
 ## Psicanálise, linguagem e consciência
 
-- Psicanálise Integrativa, p. 104.
+- Psicanálise Integrativa, p. 104; declaração complementar de 294h registrada na nota 24.
 - Transpsicanálise e cursos de neurociência/biologia mental, p. 102–103 e 106.
 - PNL: Practitioner e Master Practitioner pelo Trivium, p. 99 e 101; Practitioner anterior na SBPNL confirmado por Fabiano como formação distinta.
 - Constelações, meditação, radiestesia, Reiki e outros repertórios históricos, páginas listadas na auditoria.
