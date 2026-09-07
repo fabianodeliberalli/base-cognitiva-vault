@@ -90,7 +90,7 @@ Uso: apresentações institucionais, eventos, capas, materiais amplos do projeto
 ### Marca institucional do curso
 
 > **Traduzindo o Ser Humano**  
-> **Da compreensão acumulada à mudança vivida**
+> **Da compreensão acumulada à presença que sustenta**
 
 Uso: Hotmart, página da oferta, certificados, cadernos, documentos do participante e materiais diretamente vinculados ao curso atual.
 
