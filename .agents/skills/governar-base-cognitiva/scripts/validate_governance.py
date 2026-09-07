@@ -116,7 +116,6 @@ def main() -> int:
             "fonte normativa comum",
             "decisões consolidadas",
         ),
-    }
         README: (
             "Ao final, gera um pacote de registro",
         ),
