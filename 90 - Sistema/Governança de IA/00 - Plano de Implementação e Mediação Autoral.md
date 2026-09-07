@@ -1,9 +1,11 @@
 ---
 tipo: governanca-ia
-status: referencia-de-implementacao-revisavel
+status: implementacao-concluida-referencia-revisavel
 autoridade_final: Fabiano Deliberalli
 criado_em: 2026-09-07
 baseline_main: 0efe9721b0954d5eb8a06a33f0575b4dcc41edee
+integrado_em: 2026-09-07
+commit_integracao: d4358417d85e271729297862330b6620136d30e1
 branch: refactor/governanca-contexto-ia-2026-09
 ---
 
