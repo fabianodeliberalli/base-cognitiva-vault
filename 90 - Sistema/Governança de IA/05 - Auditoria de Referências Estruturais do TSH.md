@@ -1,7 +1,7 @@
 ---
 tipo: auditoria-de-referencias-estruturais
 projeto: Traduzindo o Ser Humano
-status: primeira-decisao-autoral-confirmada
+status: duas-decisoes-autorais-confirmadas
 data: 2026-09-07
 autoridade_de_decisao: Fabiano Deliberalli
 escopo: leitura integral dos arquivos Markdown do núcleo do curso
@@ -88,6 +88,16 @@ Exemplos do conflito encontrado:
 - produção sequencial e auditorias organizadas pelas 14 unidades antigas.
 
 Essas formulações contradizem a decisão validada de que a estrutura inicial é arquivo de consulta, e não estrutura governante.
+
+## Decisão autoral sobre o subtítulo confirmada em 7 de setembro de 2026
+
+Fabiano Deliberalli confirmou como subtítulo vigente **Da compreensão acumulada à presença que sustenta**.
+
+Aplicação:
+
+- fontes ativas de identidade, continuidade e produção usam o subtítulo vigente;
+- versões anteriores, protótipos e registros preservam **Da compreensão acumulada à mudança vivida** como formulação histórica ou matéria-prima de comunicação;
+- a formulação anterior não governa a identidade atual.
 
 ## Conflito de identidade vigente
 
