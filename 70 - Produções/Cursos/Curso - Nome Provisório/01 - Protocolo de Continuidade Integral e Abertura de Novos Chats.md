@@ -692,7 +692,7 @@ Antes de declarar ausência de conteúdo ou produzir do zero, consultar o Invent
 2. identificar se o trabalho pertence à Orquestração Mestre ou ao chat de um módulo;
 3. no chat do módulo, ler integralmente o respectivo `00 - Estado, Índice e Continuidade do Módulo`;
 4. ler o Índice Mestre e os kits das aulas do módulo;
-5. emitir Relatório de Retomada e aguardar deliberação autoral antes de modificar documentos;
+5. ~~emitir Relatório de Retomada e aguardar deliberação autoral antes de modificar documentos;~~ **cláusula operacional substituída:** iniciar diretamente pela demanda atual, aplicando o Protocolo de Continuidade Leve e consultar Fabiano somente diante de conflito material;
 6. distinguir aprovado, consolidado, candidato, hipótese, protótipo, pendência, patrimônio histórico, fonte e reserva;
 7. confirmar o ponto operacional exato;
 8. não reabrir decisões aprovadas sem contradição documentada.
@@ -706,7 +706,9 @@ Antes de declarar ausência de conteúdo ou produzir do zero, consultar o Invent
 - separar material do educador, do participante, opcional e reserva;
 - encaminhar à Orquestração Mestre qualquer mudança que afete outro módulo, três ou mais aulas ou um fundamento transversal.
 
-### Auditoria de encerramento de cada aula
+### Auditoria de consolidação de cada aula
+
+> Aplicar em marco real de consolidação ou preparação para pilotagem, não como ritual antecipado nem ao final de toda conversa.
 
 1. verificar função, capacidade e rastreabilidade;
 2. auditar P2, P6, sequência, prática, evidência, retorno e ponte;
@@ -715,7 +717,9 @@ Antes de declarar ausência de conteúdo ou produzir do zero, consultar o Invent
 5. atualizar o Índice do Kit, o Estado e Índice do Módulo e o Índice Mestre;
 6. registrar deliberação autoral, pendências, impactos e ponto seguinte.
 
-### Auditoria de encerramento de cada módulo
+### Auditoria de consolidação de cada módulo
+
+> Aplicar quando o módulo alcançar maturidade suficiente, sem bloquear exploração, elaboração ou conversa por checklist prematuro.
 
 1. verificar coerência entre as duas aulas;
 2. conferir progressão, não duplicação e ponte para o módulo seguinte;
