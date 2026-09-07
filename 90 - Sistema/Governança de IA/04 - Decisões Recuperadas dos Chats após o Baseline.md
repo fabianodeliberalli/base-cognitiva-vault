@@ -1,6 +1,6 @@
 ---
 tipo: recuperacao-de-decisoes
-status: em-reconciliacao
+status: reconciliado-na-branch
 fonte: chats-e-arquivos-associados
 janela: posterior-ao-baseline-de-2026-08-25
 registrado_em: 2026-09-07
@@ -30,17 +30,19 @@ Este registro não transforma automaticamente toda fala de chat em regra do vaul
 
 ## Confirmado nos materiais recuperados
 
-- Para comunicação/oferta, 9 módulos e 54 aulas são a fotografia vigente.
-- 7 módulos e 14 unidades permanecem documentados como arquitetura profunda no repositório; o estatuto de coexistência ou substituição está em mediação C-003.
+- A arquitetura vigente é de 9 módulos e 54 aulas; ela constitui o formato atual e ainda será estruturada para posterior gravação.
+- A organização inicial de 7 módulos e 14 aulas não é mais estrutura ativa. Ela permanece como acervo histórico de títulos e conteúdos, aproveitável conforme pertinência.
 - Espiritualidade permanece explícita, plural, não dogmática e longitudinal.
 - Teste inicial em conteúdo orgânico/lives é sequência de canal, não neutralização identitária.
 - O projeto já possui identidade e arquitetura; o trabalho atual é transformar arquitetura em produção consistente.
 - O Método EIXO é componente metodológico permanente, progressivo e reproduzível.
 - Competência incorporada descreve passagem da compreensão para prática e vida cotidiana.
 
-## Pendências
+## Decisões consolidadas após mediação
 
-- C-003: estatuto final de 7/14 frente a 9/54.
-- C-004: definição e numeração das Unidades 2.1 e 2.2.
-- C-005: subtítulo-base atual.
-- Não foi recuperada evidência suficiente para alterar o estado específico de M1.1–M1.7 além do que já consta no repositório.
+- O subtítulo-base vigente é **“Da compreensão acumulada à presença que sustenta”**.
+- A divergência 2.1/2.2 foi encerrada como histórica; não governa a arquitetura atual.
+- As respostas do formulário são fonte qualificada para tráfego, anúncios e briefings compatíveis, mas sua adequação deve ser verificada antes de cada reutilização.
+- Essas respostas não alteram automaticamente materiais pedagógicos, arquitetura curricular ou toda a comunicação institucional.
+- O arquivo recuperado foi preservado em `10 - Raio X do Produto/Consultoria/2026-09-06 - Respostas Recuperadas do Formulário de Tráfego Pago.md`.
+- Não foi recuperada evidência suficiente para alterar o estado específico da produção audiovisual além do que consta no repositório.
