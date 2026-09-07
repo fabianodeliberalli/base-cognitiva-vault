@@ -16,6 +16,10 @@ tags:
   - auditoria-autoral
 ---
 
+> [!IMPORTANT] Regra de leitura vigente — 7 de setembro de 2026
+> Aplicar [[11 - Contexto Mínimo - Traduzindo o Ser Humano]]: **9 módulos e 54 aulas** são a única arquitetura vigente. A organização inicial de **7 módulos e 14 aulas ou unidades** permanece como acervo histórico de títulos e conteúdos e pode contribuir, por pertinência, com ampliações, correlações e fundamentações durante a construção das aulas ainda não gravadas. Ela não governa o desenvolvimento atual, não exige correspondência com as 54 aulas e não transporta automaticamente sua numeração. Neste documento, formulações anteriores sobre “duas arquiteturas”, “arquitetura interna” ou ligação obrigatória têm valor histórico, não normativo.
+
+
 # Registro Mestre de Formulações Estruturantes
 
 > **Atualização estrutural de 22/08/2026:** registros que afirmem 7 módulos/14 unidades como estrutura da oferta devem ser lidos como arquitetura interna de desenvolvimento, integração e rastreabilidade. A oferta vigente é 9 módulos/54 aulas. Nenhuma substitui automaticamente a outra; a incorporação é governada pela Nota-Ponte e pela Matriz Mestre.
