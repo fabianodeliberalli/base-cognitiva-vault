@@ -2,14 +2,18 @@
 tipo: prompts-de-abertura
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
-status: vigente
-versao: "2.4"
+status: historico-consultivo-substituido
+uso_atual: consulta-historica
+versao: "2.5"
 criado_em: 2026-07-21
-atualizado_em: 2026-08-22
+atualizado_em: 2026-09-07
 autor: Fabiano Deliberalli
 ---
 
 # Prompts de Abertura — Orquestração Curricular Mestre e Módulo 0
+
+> [!WARNING] Prompts históricos substituídos
+> Não usar estes textos para abrir novos chats. Eles preservam a antiga divisão de competências entre conversas. Atualmente, use a ficha de contexto mínimo, comece pela demanda presente e não atribua exclusividade a nenhum chat.
 
 ## Decisão de uso
 

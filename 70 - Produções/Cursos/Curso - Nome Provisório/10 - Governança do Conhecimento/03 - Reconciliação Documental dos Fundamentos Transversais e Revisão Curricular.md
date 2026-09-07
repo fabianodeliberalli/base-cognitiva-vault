@@ -2,12 +2,13 @@
 tipo: reconciliacao-fundamentos-revisao-curricular
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
-status: aprovado-como-base-de-revisao
-versao: "1.2"
+status: acervo-historico-consultivo
+uso_atual: acervo-consultivo
+versao: "1.3"
 autor: Fabiano Deliberalli
 aprovado_por: Fabiano Deliberalli
 criado_em: 2026-07-21
-atualizado_em: 2026-08-22
+atualizado_em: 2026-09-07
 ---
 
 > [!NOTE] Leitura dos códigos históricos 2.1 e 2.2
@@ -19,6 +20,9 @@ atualizado_em: 2026-08-22
 
 
 # Reconciliação Documental dos Fundamentos Transversais e Revisão Curricular
+
+> [!WARNING] Registro histórico consultivo
+> A revisão abaixo preserva uma etapa importante de integração de fundamentos, mas sua descrição arquitetônica foi superada. Seus conteúdos podem fundamentar aulas por pertinência; suas hierarquias, correspondências e exigências não orientam automaticamente o trabalho atual.
 
 ## 1. Parecer executivo
 

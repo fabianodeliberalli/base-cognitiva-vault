@@ -4,6 +4,9 @@
 from __future__ import annotations
 
 import json
+import os
+import re
+import subprocess
 import sys
 from pathlib import Path
 
@@ -18,6 +21,17 @@ DOSSIER = COURSE / "00 - Dossiê de Contexto e Arquitetura Mestre.md"
 M1_STATE = COURSE / "Materiais/Módulo 1/00 - Estado e Continuidade da Produção M1.md"
 MASTERCLASS_STATE = COURSE / "Guia-de-Conducao-Masterclass - Estado e Continuidade.md"
 IDENTITY_INDEX = COURSE / "20 - Identidade Visual/00 - Índice da Identidade Visual.md"
+KNOWLEDGE = COURSE / "10 - Governança do Conhecimento"
+KNOWLEDGE_INDEX = KNOWLEDGE / "00 - Índice da Governança do Conhecimento.md"
+OLD_RECONCILIATION = KNOWLEDGE / "01 - Reconciliação da Governança do Conhecimento e Disponibilidade do Acervo.md"
+INVENTORY = KNOWLEDGE / "02 - Inventário Mestre de Conteúdos Disponíveis.md"
+OLD_FOUNDATIONS = KNOWLEDGE / "03 - Reconciliação Documental dos Fundamentos Transversais e Revisão Curricular.md"
+PLURALISM = KNOWLEDGE / "04 - Deliberação Transversal - Pluralismo Epistemológico Não Redutivo e Integração Autoral.md"
+BRIDGE = KNOWLEDGE / "05 - Nota-Ponte - Desenvolvimento do Conteúdo 7-14 e Entrega 9-54.md"
+OLD_MATRIX = KNOWLEDGE / "06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54.md"
+OLD_POSITIONING = KNOWLEDGE / "07 - Deliberação Transversal - Posicionamento, Linguagem e Arquitetura Dupla - 2026-08-23.md"
+FORMULATIONS = COURSE / "Registro Mestre de Formulações Estruturantes.md"
+OLD_PROTOCOL = COURSE / "01 - Protocolo de Continuidade Integral e Abertura de Novos Chats.md"
 ENTRY_SNAPSHOT = COURSE / "Registros de Continuidade/2026-08-23 - Snapshot da antiga porta de entrada do curso.md"
 DOSSIER_SNAPSHOT = COURSE / "Registros de Continuidade/2026-08-22 - Snapshot do Dossiê de Contexto e Arquitetura Mestre.md"
 README = ROOT / "README.md"
@@ -25,6 +39,171 @@ SKILL = ROOT / ".agents/skills/governar-base-cognitiva/SKILL.md"
 CLAUDE_SKILL = ROOT / ".claude/skills/governar-base-cognitiva/SKILL.md"
 ADAPTERS = (ROOT / "AGENTS.md", ROOT / "CLAUDE.md")
 REQUIRED_POINTERS = (str(COMMON.relative_to(ROOT)), str(TSH.relative_to(ROOT)))
+
+HISTORICAL_STATUS_MARKERS = (
+    "histor",
+    "snapshot",
+    "substitu",
+    "arquiv",
+    "acervo",
+    "memoria",
+)
+ACTIVE_STATUS_MARKERS = (
+    "vigente",
+    "ativo",
+    "referencia-atual",
+    "oficial",
+    "canon",
+    "definitiv",
+    "consolidado",
+)
+GOVERNANCE_NAME_MARKERS = (
+    "leia primeiro",
+    "estado e continuidade",
+    "dossiê",
+    "dossie",
+    "governança",
+    "governanca",
+    "protocolo",
+    "matriz mestre",
+    "registro mestre",
+)
+HIGH_CONFIDENCE_RIGIDITY = (
+    ("fonte exclusiva", re.compile(r"\bfonte\s+(?:única|exclusiva|canônica|canonica|oficial)\b", re.I)),
+    ("entrada obrigatória", re.compile(r"\b(?:porta|leitura|entrada)\s+(?:única|obrigatória|obrigatorio|obrigatória|obrigatório)\b", re.I)),
+    ("chat exclusivo", re.compile(r"\b(?:único\s+chat|somente\s+(?:neste|nesse)\s+chat|apenas\s+(?:neste|nesse)\s+chat|chat\s+competente)\b", re.I)),
+    (
+        "bloqueio de revisão",
+        re.compile(
+            r"\b(?:não\s+reabrir|nao\s+reabrir|proibid[ao]\s+(?:a\s+)?revisão|"
+            r"(?:é|será|sera|permanece|fica)\s+(?:imutável|imutavel|congelad[oa]))\b",
+            re.I,
+        ),
+    ),
+    ("cânone imposto", re.compile(r"\b(?:patrimônio|patrimonio|implementação|implementacao|formulação|formulacao|copy|texto)\s+canônic[oa]\b", re.I)),
+    ("decisão governante", re.compile(r"\bdecisão\s+governante\b", re.I)),
+    (
+        "estrutura 7/14 governante",
+        re.compile(
+            r"(?:7\s*(?:módulos)?\s*(?:/|e)\s*14\s*(?:aulas|unidades)?[^\n.]{0,140}\bgoverna|"
+            r"\bgoverna[^\n.]{0,140}7\s*(?:módulos)?\s*(?:/|e)\s*14\s*(?:aulas|unidades)?)",
+            re.I,
+        ),
+    ),
+)
+
+
+def frontmatter(text: str) -> dict[str, str]:
+    """Lê apenas propriedades YAML simples; suficiente para classificação documental."""
+    if not text.startswith("---\n"):
+        return {}
+    end = text.find("\n---", 4)
+    if end == -1:
+        return {}
+    properties: dict[str, str] = {}
+    for line in text[4:end].splitlines():
+        if ":" not in line or line.startswith((" ", "\t", "-")):
+            continue
+        key, value = line.split(":", 1)
+        properties[key.strip().lower()] = value.strip().strip('"\'').lower()
+    return properties
+
+
+def is_historical(properties: dict[str, str]) -> bool:
+    status = properties.get("status", "")
+    current_use = properties.get("uso_atual", "")
+    return any(marker in status for marker in HISTORICAL_STATUS_MARKERS) or current_use in {
+        "consulta-historica",
+        "consulta-histórica",
+        "acervo-consultivo",
+    }
+
+
+def is_active_governance(path: Path, properties: dict[str, str]) -> bool:
+    if is_historical(properties):
+        return False
+    status = properties.get("status", "")
+    kind = properties.get("tipo", "")
+    name = path.name.lower()
+    return (
+        any(marker in status for marker in ACTIVE_STATUS_MARKERS)
+        or any(marker in name for marker in GOVERNANCE_NAME_MARKERS)
+        or any(marker in kind for marker in ("govern", "protocolo", "contexto", "continuidade"))
+    )
+
+
+def visible_text(text: str) -> str:
+    """Evita tratar nomes técnicos ocultos por alias como instrução ao leitor."""
+    text = re.sub(r"\[\[[^\]|]+\|([^\]]+)\]\]", r"\1", text)
+    text = re.sub(r"\[([^\]]+)\]\([^\)]+\)", r"\1", text)
+    return text
+
+
+def git_lines(*args: str) -> set[str]:
+    try:
+        process = subprocess.run(
+            ("git", "-c", "core.quotepath=false", *args),
+            cwd=ROOT,
+            check=False,
+            capture_output=True,
+            text=True,
+        )
+    except OSError:
+        return set()
+    if process.returncode != 0:
+        return set()
+    return {line for line in process.stdout.splitlines() if line}
+
+
+def changed_markdown_files() -> list[Path]:
+    """Descobre alterações locais e, em branches, tudo que diverge da main."""
+    names = set()
+    names |= git_lines("diff", "--name-only", "--diff-filter=AM")
+    names |= git_lines("diff", "--cached", "--name-only", "--diff-filter=AM")
+    names |= git_lines("ls-files", "--others", "--exclude-standard")
+
+    base_ref = os.environ.get("GOVERNANCE_BASE_REF")
+    if not base_ref and os.environ.get("GITHUB_BASE_REF"):
+        base_ref = f"origin/{os.environ['GITHUB_BASE_REF']}"
+    if not base_ref and git_lines("rev-parse", "--verify", "origin/main"):
+        base_ref = "origin/main"
+    if base_ref:
+        merge_bases = git_lines("merge-base", "HEAD", base_ref)
+        if merge_bases:
+            merge_base = next(iter(merge_bases))
+            names |= git_lines("diff", "--name-only", "--diff-filter=AM", f"{merge_base}...HEAD")
+
+    paths: list[Path] = []
+    for name in sorted(names):
+        path = ROOT / name
+        if path.suffix.lower() == ".md" and path.is_file():
+            paths.append(path)
+    return paths
+
+
+def validate_changed_documents(errors: list[str]) -> None:
+    """Impede que um arquivo novo ou alterado recrie autoridade rígida."""
+    for path in changed_markdown_files():
+        text = path.read_text(encoding="utf-8")
+        properties = frontmatter(text)
+        if not is_active_governance(path, properties):
+            continue
+        relative = path.relative_to(ROOT)
+        text_for_review = visible_text(text)
+        for label, pattern in HIGH_CONFIDENCE_RIGIDITY:
+            match = pattern.search(text_for_review)
+            if match:
+                excerpt = " ".join(match.group(0).split())[:160]
+                errors.append(
+                    f"nova rigidez em referência ativa ({label}) — {relative}: {excerpt}. "
+                    "Reformular como referência revisável ou classificar como histórico consultivo."
+                )
+
+        is_entrypoint = any(marker in path.name.lower() for marker in GOVERNANCE_NAME_MARKERS[:4])
+        if is_entrypoint and path.stat().st_size > 12000:
+            errors.append(
+                f"nova porta de contexto excede 12000 bytes: {relative} ({path.stat().st_size})"
+            )
 
 
 def require_phrases(text: str, phrases: tuple[str, ...], label: str, errors: list[str]) -> None:
@@ -37,7 +216,13 @@ def main() -> int:
     errors: list[str] = []
     warnings: list[str] = []
 
-    required_files = (COMMON, TSH, LEARNING, ENTRY, DOSSIER, M1_STATE, MASTERCLASS_STATE, IDENTITY_INDEX, ENTRY_SNAPSHOT, DOSSIER_SNAPSHOT, README, SKILL, CLAUDE_SKILL, *ADAPTERS)
+    required_files = (
+        COMMON, TSH, LEARNING, ENTRY, DOSSIER, M1_STATE, MASTERCLASS_STATE,
+        IDENTITY_INDEX, KNOWLEDGE_INDEX, OLD_RECONCILIATION, INVENTORY,
+        OLD_FOUNDATIONS, PLURALISM, BRIDGE, OLD_MATRIX, OLD_POSITIONING,
+        FORMULATIONS, OLD_PROTOCOL, ENTRY_SNAPSHOT, DOSSIER_SNAPSHOT, README,
+        SKILL, CLAUDE_SKILL, *ADAPTERS,
+    )
     for path in required_files:
         if not path.is_file():
             errors.append(f"arquivo obrigatório ausente: {path.relative_to(ROOT)}")
@@ -54,6 +239,16 @@ def main() -> int:
     m1_text = M1_STATE.read_text(encoding="utf-8")
     masterclass_text = MASTERCLASS_STATE.read_text(encoding="utf-8")
     identity_text = IDENTITY_INDEX.read_text(encoding="utf-8")
+    knowledge_index_text = KNOWLEDGE_INDEX.read_text(encoding="utf-8")
+    old_reconciliation_text = OLD_RECONCILIATION.read_text(encoding="utf-8")
+    inventory_text = INVENTORY.read_text(encoding="utf-8")
+    old_foundations_text = OLD_FOUNDATIONS.read_text(encoding="utf-8")
+    pluralism_text = PLURALISM.read_text(encoding="utf-8")
+    bridge_text = BRIDGE.read_text(encoding="utf-8")
+    old_matrix_text = OLD_MATRIX.read_text(encoding="utf-8")
+    old_positioning_text = OLD_POSITIONING.read_text(encoding="utf-8")
+    formulations_text = FORMULATIONS.read_text(encoding="utf-8")
+    old_protocol_text = OLD_PROTOCOL.read_text(encoding="utf-8")
     snapshot_text = ENTRY_SNAPSHOT.read_text(encoding="utf-8")
     dossier_snapshot_text = DOSSIER_SNAPSHOT.read_text(encoding="utf-8")
     readme_text = README.read_text(encoding="utf-8")
@@ -70,6 +265,9 @@ def main() -> int:
             "Não transformar refinamentos rotineiros",
             "Não carregar essa nota em tarefas comuns",
             "Não exigir plugin, painel, modelo ou configuração específica",
+            "Continuidade em sessões longas",
+            "Ativação entre ferramentas",
+            "não descobrir seus arquivos automaticamente",
         ),
         "guia comum",
         errors,
@@ -81,6 +279,7 @@ def main() -> int:
             "Doze semanas",
             "estimativa provisória",
             "Nenhuma inteligência artificial pode declarar uma proposta própria",
+            "usar o Registro Mestre como acervo histórico consultivo",
         ),
         "contexto mínimo do TSH",
         errors,
@@ -92,6 +291,8 @@ def main() -> int:
             "Ideias isoladas, explorações criativas e preferências momentâneas não viram regra",
             "não exigir plugin, painel, modelo ou configuração do Obsidian",
             "Não criar revisão periódica obrigatória",
+            "o verificador protegia arquivos conhecidos",
+            "sessões longas podem acumular decisões",
         ),
         "aprendizado operacional",
         errors,
@@ -151,6 +352,19 @@ def main() -> int:
         "índice da identidade visual",
         errors,
     )
+    for text, label, phrases in (
+        (knowledge_index_text, "índice da governança do conhecimento", ("status: referencia-atual-revisavel", "Mapa atual de uso", "não como correspondências obrigatórias")),
+        (old_reconciliation_text, "reconciliação antiga", ("status: acervo-historico-consultivo", "Registro de uma etapa anterior")),
+        (inventory_text, "inventário de conteúdos", ("status: referencia-de-busca-revisavel", "fotografias das etapas")),
+        (old_foundations_text, "reconciliação curricular antiga", ("status: acervo-historico-consultivo", "Registro histórico consultivo")),
+        (pluralism_text, "referência autoral de pluralismo", ("status: referencia-atual-revisavel", "permanece uma formulação autoral revisável")),
+        (bridge_text, "nota-ponte histórica", ("status: acervo-historico-consultivo", "Registro histórico da decisão à época")),
+        (old_matrix_text, "matriz histórica", ("status: acervo-historico-consultivo", "não define correspondências obrigatórias", "nenhum chat possui exclusividade")),
+        (old_positioning_text, "deliberação antiga de posicionamento", ("status: acervo-historico-consultivo", "Registro misto de uma etapa anterior")),
+        (formulations_text, "registro de formulações", ("status: acervo-historico-consultivo", "não cria portões para as aulas", "Aprovada na etapa registrada")),
+        (old_protocol_text, "protocolo histórico", ("status: historico-consultivo-substituido", "Documento histórico consultivo", "nenhuma conversa possui autoridade exclusiva")),
+    ):
+        require_phrases(text, phrases, label, errors)
     require_phrases(
         snapshot_text,
         (
@@ -178,6 +392,7 @@ def main() -> int:
         (
             "Fluxo leve",
             "Uso com o Obsidian",
+            "Uso em diferentes assistentes",
             "não há plugin, painel, modelo ou configuração obrigatória",
         ),
         "README",
@@ -192,6 +407,8 @@ def main() -> int:
             "Questões reversíveis e criativas podem avançar",
             "Aprendizado longitudinal",
             "Não leia essa memória em tarefas comuns",
+            "Continuidade proporcional",
+            "documentos novos ou alterados em relação à `main`",
         ),
         "skill principal",
         errors,
@@ -256,16 +473,14 @@ def main() -> int:
             if pointer not in text:
                 errors.append(f"{adapter.name} não aponta para {pointer}")
 
-    old_protocol = ROOT / (
-        "70 - Produções/Cursos/Curso - Nome Provisório/"
-        "01 - Protocolo de Continuidade Integral e Abertura de Novos Chats.md"
-    )
-    if old_protocol.is_file():
-        for number, line in enumerate(old_protocol.read_text(encoding="utf-8").splitlines(), start=1):
+    if OLD_PROTOCOL.is_file():
+        for number, line in enumerate(old_protocol_text.splitlines(), start=1):
             if "emitir Relatório de Retomada e aguardar deliberação autoral" in line and "~~" not in line:
-                errors.append(f"ritual ultrapassado ainda ativo: {old_protocol}:{number}")
+                errors.append(f"ritual ultrapassado ainda ativo: {OLD_PROTOCOL}:{number}")
     else:
         warnings.append("protocolo histórico do TSH não encontrado no caminho esperado")
+
+    validate_changed_documents(errors)
 
     result = {"ok": not errors, "errors": errors, "warnings": warnings}
     print(json.dumps(result, ensure_ascii=False, indent=2))

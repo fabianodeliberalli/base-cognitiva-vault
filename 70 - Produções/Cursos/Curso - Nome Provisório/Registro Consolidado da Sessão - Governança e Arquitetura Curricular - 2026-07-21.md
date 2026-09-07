@@ -2,11 +2,12 @@
 tipo: registro-consolidado-de-sessao
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
-status: vigente-como-registro-de-decisoes
+status: historico-consultivo
+uso_atual: consulta-historica
 data_da_sessao: 2026-07-21
 versao: "1.1"
 criado_em: 2026-07-21
-atualizado_em: 2026-07-21
+atualizado_em: 2026-09-07
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 tags:
@@ -22,6 +23,9 @@ tags:
 
 
 # Registro Consolidado da Sessão — Governança e Arquitetura Curricular — 21 de julho de 2026
+
+> [!WARNING] Registro histórico consultivo
+> Preserva integralmente o entendimento desta sessão. Seus estados, bloqueios de revisão e regras de entrada não orientam automaticamente o trabalho atual.
 
 ## Finalidade
 

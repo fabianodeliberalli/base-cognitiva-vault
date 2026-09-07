@@ -2,7 +2,8 @@
 tipo: registro de governança e arquivamento
 projeto: Traduzindo o Ser Humano
 data: 2026-08-24
-status: vigente
+status: historico-consultivo
+uso_atual: consulta-historica
 escopo: Raio-X, Masterclass, Workbook de Lançamento, página e checkout
 tags:
   - TSH
@@ -14,6 +15,9 @@ tags:
 ---
 
 # Registro de versões finais produzidas no chat — 2026-08-24
+
+> [!WARNING] Registro histórico de arquivamento
+> “Final”, “vigente” e “canônico” abaixo descrevem o estado atribuído aos arquivos em 24 de agosto de 2026. O registro comprova versões e hashes daquela operação, mas não decide o estado atual do curso nem impede revisões posteriores.
 
 ## Resultado
 

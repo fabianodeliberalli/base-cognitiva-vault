@@ -15,8 +15,8 @@ autor: Fabiano Deliberalli
 - [[Guia-de-ConducaoMasterclass-Traduzindo-o-Ser-Humano-v2.6.1]]
 - **Estatuto:** referência atual e revisável para a condução da masterclass.
 - **SHA-256:** `72d8e0543ba51604ac9923327364b6139f5b391683f3dc8a802e4fff6f687888`
-- **Fonte pública relacionada:** [[10 - Raio X do Produto/Consultoria/2026-08-23 - Raio-X-Fabiano Deliberalli - Versão Pública Canônica v2.0]]
-- **Copy para página e checkout:** [[10 - Raio X do Produto/Consultoria/2026-08-23 - Copy Canônica - Página e Checkout - Traduzindo o Ser Humano]]
+- **Referência pública relacionada:** [[10 - Raio X do Produto/Consultoria/2026-08-23 - Raio-X-Fabiano Deliberalli - Versão Pública Canônica v2.0|Raio-X público de 23 de agosto de 2026]]
+- **Referência de texto para página e checkout:** [[10 - Raio X do Produto/Consultoria/2026-08-23 - Copy Canônica - Página e Checkout - Traduzindo o Ser Humano|Copy de 23 de agosto de 2026]]
 - **Estrutura pública apresentada:** 9 módulos e 54 aulas.
 - **Rastreabilidade do conteúdo:** estrutura atual de 9 módulos e 54 aulas; o acervo de 7 módulos e 14 conteúdos permanece como fonte histórica consultável.
 

@@ -1,10 +1,11 @@
 ---
 tipo: nota-ponte-arquiteturas
 projeto: Traduzindo o Ser Humano
-status: aprovado-vigente
-versao: "1.1"
+status: acervo-historico-consultivo
+uso_atual: acervo-consultivo
+versao: "1.2"
 criado_em: 2026-08-22
-atualizado_em: 2026-08-23
+atualizado_em: 2026-09-07
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
@@ -15,9 +16,11 @@ autoridade_de_aprovacao: Fabiano Deliberalli
 
 # Nota-Ponte — Desenvolvimento do Conteúdo 7/14 e Entrega 9/54
 
-## Decisão governante
+## Registro histórico da decisão à época
 
-O curso possui duas arquiteturas legítimas, com funções diferentes e ligação obrigatória:
+O texto abaixo registra a interpretação adotada naquela etapa. Hoje, não há duas arquiteturas concorrentes nem ligação obrigatória: 9 módulos e 54 aulas são a estimativa estrutural atual; 7 módulos e 14 aulas são acervo de títulos e conteúdos consultável por pertinência.
+
+Na etapa registrada, o curso foi descrito como possuindo duas arquiteturas legítimas, com funções diferentes e ligação obrigatória:
 
 1. **Arquitetura vigente de entrega e comunicação — 9 módulos e 54 aulas.** Governa o Raio-X público canônico de 23 de agosto de 2026 — v2.0, a mentoria, a apresentação comercial, a organização visível da oferta e a destinação final do conteúdo na plataforma. A versão de 4 de agosto permanece histórica.
 2. **Arquitetura de desenvolvimento, integração e rastreabilidade do conteúdo — 7 módulos e 14 unidades curriculares.** Governa a preservação dos arcos autorais, das capacidades, dos fundamentos, das práticas, dos mapas e da memória de elaboração.

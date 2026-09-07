@@ -1,21 +1,21 @@
 ---
-tipo: copy-canonica-pagina-checkout
+tipo: referencia-de-copy-pagina-checkout
 projeto: Traduzindo o Ser Humano
-status: vigente
-versao: "1.0"
+status: referencia-atual-revisavel
+versao: "1.1"
 criado_em: 2026-08-23
-atualizado_em: 2026-08-23
+atualizado_em: 2026-09-07
 autoridade_autoral: Fabiano Deliberalli
-fonte_canonica: "00 - Índice e Estado do Raio X - Mentoria - 2026-08-04"
+referencia_relacionada: "00 - Índice e Estado do Raio X - Mentoria - 2026-08-04"
 ---
 
-# Copy Canônica — Página e Checkout
+# Referência de copy — Página e Checkout
 
 ## Função deste documento
 
-Este é o bloco único de redação pública para a página e para a conferência do checkout do **Traduzindo o Ser Humano**. A página e o checkout devem apresentar a mesma identidade, promessa, contagem, recursos e condições.
+Este é o bloco de referência usado atualmente para a página e para a conferência do checkout do **Traduzindo o Ser Humano**. A página e o checkout devem buscar coerência de identidade, promessa, contagem, recursos e condições, considerando sempre alterações posteriores confirmadas por Fabiano.
 
-Se a oferta configurada na Hotmart mudar, a condição exibida no checkout prevalece operacionalmente. A mudança deve ser refletida de forma coordenada neste documento, no Raio-X público canônico, na página e no checkout.
+Se a oferta configurada na Hotmart mudar, a condição realmente exibida no checkout precisa ser conferida. A mudança pode então ser refletida de forma coordenada nesta referência, no Raio-X público, na página e no checkout.
 
 ## Identidade e promessa
 
@@ -63,7 +63,7 @@ A Aula de Entrada 0.0 da Hotmart é um adendo pré-curricular de chegada. Ela n�
 
 ## Limites de comunicação
 
-- O Raio-X público canônico governa a comunicação pública; a versão de 4 de agosto permanece preservada como histórico.
+- O Raio-X público mais recente confirmado por Fabiano é uma referência de comunicação e permanece revisável; a versão de 4 de agosto está preservada como histórico.
 - A matriz 7/14 é consultada para desenvolvimento, integração e rastreabilidade, não para substituir a fotografia pública 9/54.
 - O **Sorriso Interior** é o trecho autobiográfico breve, real, singular e vigente da documentação da masterclass. Não é o caso principal, depoimento de aluno, prova de eficácia ou garantia universal; não deve ser convertido em promessa comercial da oferta.
 - A demonstração ao vivo, a história composta e os trechos de transformação têm função pedagógica e ilustrativa. Não são depoimentos reais nem prova de resultado garantido.
@@ -71,7 +71,7 @@ A Aula de Entrada 0.0 da Hotmart é um adendo pré-curricular de chegada. Ela n�
 
 ## Protocolo de harmonização
 
-1. Aprovar a alteração no Raio-X público canônico e neste bloco.
+1. Confirmar com Fabiano a alteração substantiva no Raio-X público e neste bloco.
 2. Replicar a mesma redação na página oficial.
 3. Configurar a oferta e conferir o checkout da Hotmart.
 4. Comparar página e checkout: identidade, promessa, 9/54, acesso, recursos, preço, parcelamento e garantia.

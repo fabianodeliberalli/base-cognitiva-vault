@@ -2,12 +2,13 @@
 tipo: reconciliacao-governanca-conhecimento
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
-status: aprovado-vigente
-versao: "1.1"
+status: acervo-historico-consultivo
+uso_atual: acervo-consultivo
+versao: "1.2"
 autor: Fabiano Deliberalli
 aprovado_por: Fabiano Deliberalli
 criado_em: 2026-07-21
-atualizado_em: 2026-08-22
+atualizado_em: 2026-09-07
 documentos_relacionados:
   - 00 - Dossiê de Contexto e Arquitetura Mestre
   - 01 - Protocolo de Continuidade Integral e Abertura de Novos Chats
@@ -19,6 +20,9 @@ documentos_relacionados:
 
 
 # Reconciliação da Governança do Conhecimento e Disponibilidade do Acervo
+
+> [!WARNING] Registro de uma etapa anterior
+> Este documento preserva o raciocínio que ampliou a disponibilidade do acervo, mas não estabelece hierarquia ou procedimento atual. Aproveite seus critérios quando forem úteis e use a ficha de contexto mínimo para orientar a tarefa presente.
 
 ## 1. Decisão institucional
 

@@ -1,7 +1,8 @@
 ---
 tipo: copy-canonica-pagina-checkout
 projeto: Traduzindo o Ser Humano
-status: vigente
+status: espelho-historico-preservado
+uso_atual: consulta-historica
 versao: "1.0"
 criado_em: 2026-08-23
 atualizado_em: 2026-08-23
@@ -10,6 +11,9 @@ fonte_canonica: "00 - Índice e Estado do Raio X - Mentoria - 2026-08-04"
 ---
 
 # Copy Canônica — Página e Checkout
+
+> [!WARNING] Espelho histórico preservado
+> Na integração de 7 de setembro de 2026, este arquivo era cópia textual exata do documento datado na pasta `10 - Raio X do Produto/Consultoria`. Ele permanece como prova do arquivamento realizado em 24 de agosto; não funciona como uma segunda fonte atual.
 
 ## Função deste documento
 

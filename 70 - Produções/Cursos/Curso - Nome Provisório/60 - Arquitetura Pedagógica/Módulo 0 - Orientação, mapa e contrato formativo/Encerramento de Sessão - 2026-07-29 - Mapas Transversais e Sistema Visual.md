@@ -4,7 +4,8 @@ projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 modulo: 0
 unidade: 0.2
-status: vigente-para-retomada
+status: historico-consultivo
+uso_atual: consulta-historica
 data: 2026-07-29
 autor: Fabiano Deliberalli
 tags:
@@ -16,6 +17,9 @@ tags:
 ---
 
 # Encerramento de Sessão — 29 de julho de 2026
+
+> [!WARNING] Marco histórico
+> Este encerramento preserva o estado de 29 de julho de 2026. Não bloqueia a revisão de unidades, mapas ou decisões posteriores.
 
 ## Marco alcançado
 

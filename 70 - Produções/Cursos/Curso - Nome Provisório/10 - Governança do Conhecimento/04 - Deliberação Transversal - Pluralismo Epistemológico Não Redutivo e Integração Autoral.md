@@ -1,13 +1,14 @@
 ---
-tipo: deliberacao-transversal-governante
+tipo: referencia-transversal-autoral
 projeto: Traduzindo o Ser Humano
-status: vigente
-versao: "1.0"
+status: referencia-atual-revisavel
+versao: "1.1"
 decidido_em: 2026-07-26
 formalizado_em: 2026-08-22
+atualizado_em: 2026-09-07
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
-substitui_como_termo_governante:
+substitui_como_referencia:
   - consiliencia-critica
 aplicacao:
   - governanca-do-conhecimento
@@ -28,15 +29,15 @@ tags:
 
 # Deliberação Transversal — Pluralismo Epistemológico Não Redutivo e Integração Autoral
 
-## 1. Estatuto e autoridade
+## 1. Origem e uso atual
 
-Esta deliberação formaliza e propaga a decisão autoral tomada em **26 de julho de 2026**: **“consiliência crítica” deixa de ser o termo governante do Traduzindo o Ser Humano**. A formulação podia sugerir, especialmente pela referência a E. O. Wilson, uma unificação redutiva dos saberes sob critérios naturalistas incompatível com a arquitetura efetiva do projeto.
+Esta deliberação preserva a decisão autoral tomada em **26 de julho de 2026**: **“consiliência crítica” deixa de ser a referência organizadora do Traduzindo o Ser Humano**. A formulação podia sugerir, especialmente pela referência a E. O. Wilson, uma unificação redutiva dos saberes sob critérios naturalistas incompatível com a arquitetura efetiva do projeto.
 
-A posição governante passa a ser **pluralismo epistemológico não redutivo**, operado por **tradução e articulação responsável entre regimes de conhecimento**.
+A referência adotada passa a ser **pluralismo epistemológico não redutivo**, operado por **tradução e articulação responsável entre regimes de conhecimento**. Ela permanece uma formulação autoral revisável por Fabiano, não uma regra independente sobre a criação.
 
 Somente **Fabiano Deliberalli** aprova, rejeita ou altera decisões autorais do projeto. IAs, consultores, mentores e colaboradores analisam, perguntam, recomendam, executam e registram; não atribuem a si mesmos autoridade de aprovação.
 
-## 2. Formulação canônica
+## 2. Formulação autoral de referência
 
 > O Traduzindo o Ser Humano assume um pluralismo epistemológico não redutivo. Experiência vivida, observação clínica, ciência, filosofia, tradição, simbolismo, práticas corporais e energéticas e espiritualidade constituem regimes distintos de conhecimento e elaboração. Eles podem dialogar, iluminar-se e produzir traduções parciais, mas não precisam tornar-se equivalentes, comprovar-se mutuamente nem submeter-se a um tribunal epistemológico único.
 >
@@ -95,7 +96,7 @@ A presença da prática em uma história real:
 
 Qualquer ressalva deverá apontar uma frase concreta que generalize, prometa, recategorize ou confunda estatutos. Sem essa evidência textual, a objeção deverá ser classificada como **heurística genérica não autorizada**.
 
-## 7. Protocolo obrigatório para IAs e colaboradores
+## 7. Orientação de leitura para IAs e colaboradores
 
 Antes de afirmar que uma prática, exemplo, símbolo ou linguagem:
 
@@ -119,8 +120,8 @@ o agente deverá demonstrar, com base no material real:
 
 - **William James:** referência filosófica primária para pluralismo radical, empirismo radical e atenção à experiência sem fechamento prematuro.
 - **Pluralismo epistêmico e científico contemporâneo:** apoio para a coexistência de modelos, métodos e critérios de validade sem redução a uma única gramática.
-- **Ken Wilber:** interlocutor comparativo possível pela tentativa de organizar perspectivas, sem constituir fundamento governante nem modelo obrigatório.
-- **E. O. Wilson:** referência histórica contrastiva. Sua noção de consiliência pode permanecer em bibliografia ou memória de elaboração, mas não governa a epistemologia do projeto.
+- **Ken Wilber:** interlocutor comparativo possível pela tentativa de organizar perspectivas, sem constituir fundamento determinante nem modelo obrigatório.
+- **E. O. Wilson:** referência histórica contrastiva. Sua noção de consiliência pode permanecer em bibliografia ou memória de elaboração, mas não define a epistemologia do projeto.
 
 ## 9. Hierarquia verbal aprovada para materiais públicos
 
@@ -137,7 +138,7 @@ O vocabulário filosófico completo pertence prioritariamente à governança e �
 
 - ocorrências históricas de “consiliência” não serão apagadas de manifestos, transcrições ou protótipos fechados;
 - documentos históricos deverão receber marca de terminologia superada quando houver risco de serem usados como fonte vigente;
-- documentos ativos deverão substituir o termo governante e apontar para esta deliberação;
+- documentos ativos podem atualizar a terminologia quando isso evitar confusão, sem exigir alteração de registros históricos;
 - mapas ativos deverão utilizar a nova formulação, preservando as versões anteriores como histórico;
 - prompts, instruções de continuidade, cadernos de comunicação e guias de condução deverão conter o protocolo contra neutralização e inferências genéricas.
 
@@ -147,8 +148,8 @@ O vocabulário filosófico completo pertence prioritariamente à governança e �
 - formalização e propagação documental: 2026-08-22;
 - autoridade de aprovação: Fabiano Deliberalli;
 - estado: vigente e transversal;
-- termo governante superado: “consiliência crítica”;
-- nova posição governante: pluralismo epistemológico não redutivo;
+- referência organizadora superada: “consiliência crítica”;
+- referência atual revisável: pluralismo epistemológico não redutivo;
 - operação autoral: tradução e articulação responsável entre regimes de conhecimento.
 
 ## Relações

@@ -2,7 +2,7 @@
 tipo: guia-comum-de-contexto
 status: referencia-de-trabalho-revisavel
 autoridade_final: Fabiano Deliberalli
-versao: "0.3"
+versao: "0.4"
 atualizado_em: 2026-09-07
 ---
 
@@ -32,6 +32,24 @@ Não carregar o vault inteiro.
 4. Expandir a busca quando houver lacuna relevante, contradição, risco de repetir trabalho ou possibilidade de aproveitar conteúdo existente.
 5. Distinguir fonte consultada, inferência e proposta nova.
 6. Registrar apenas o que Fabiano queira preservar ou o que seja necessário para evitar perda de continuidade.
+
+## Continuidade em sessões longas
+
+Não criar um relatório ao fim de cada conversa. Fazer um registro mínimo somente quando ocorrer pelo menos um destes gatilhos:
+
+- Fabiano confirmar uma escolha com efeito durável no projeto;
+- a conversa longa se aproximar de uma troca de chat, ferramenta, dispositivo ou responsável;
+- houver risco concreto de uma frente ativa perder seu ponto de retomada;
+- uma correção repetida revelar aprendizado que deva evitar novo retrabalho.
+
+Atualizar primeiro a ficha mínima ou o estado já existente da frente. Criar outro documento apenas quando nenhum arquivo atual puder cumprir essa função sem mistura indevida. Registrar, conforme necessário: o que mudou, o que continua aberto e qual é o próximo ponto útil. Formulações exploratórias e alternativas ainda em avaliação permanecem na conversa ou no material de trabalho.
+
+## Ativação entre ferramentas
+
+- Quando o ambiente ler automaticamente `AGENTS.md` ou `CLAUDE.md`, não repetir instruções no chat.
+- Quando a ferramenta tiver acesso ao repositório, mas não descobrir seus arquivos automaticamente, fornecer somente um apontador: **“Use o repositório `fabianodeliberalli/base-cognitiva-vault`, leia o adaptador da sua ferramenta e a ficha mínima do projeto; depois consulte apenas as fontes necessárias à tarefa.”**
+- Quando a ferramenta não tiver acesso ao repositório, fornecer a ficha mínima do projeto e apenas os materiais indispensáveis à demanda. Não colar o conjunto da governança nem reconstruir um dossiê extenso.
+- A existência de uma instrução no repositório não garante que toda conversa externa a tenha carregado; antes de aplicar regras, confirmar o acesso disponível sem transferir a Fabiano checagens técnicas desnecessárias.
 
 ## Liberdade criativa e estados documentais
 

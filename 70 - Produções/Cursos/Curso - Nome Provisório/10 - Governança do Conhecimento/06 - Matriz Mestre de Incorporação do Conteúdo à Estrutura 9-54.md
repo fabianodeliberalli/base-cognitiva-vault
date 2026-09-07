@@ -1,10 +1,11 @@
 ---
 tipo: matriz-incorporacao-conteudo
 projeto: Traduzindo o Ser Humano
-status: aprovado-vigente-evolutivo
-versao: "1.6"
+status: acervo-historico-consultivo
+uso_atual: acervo-consultivo
+versao: "1.7"
 criado_em: 2026-08-22
-atualizado_em: 2026-08-23
+atualizado_em: 2026-09-07
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
@@ -21,9 +22,9 @@ autoridade_de_aprovacao: Fabiano Deliberalli
 
 ## Função
 
-Esta matriz liga a arquitetura de desenvolvimento e rastreabilidade 7/14 à arquitetura vigente de entrega e comunicação 9/54. Ela registra destinos, não equivalências rígidas. Uma unidade pode alimentar várias aulas; uma aula pode integrar várias unidades e ativos.
+Esta matriz preserva uma tentativa anterior de relacionar o acervo 7/14 à estimativa 9/54. Ela não define correspondências obrigatórias, não governa a construção atual e não precisa ser preenchida para que uma aula avance. Seus títulos, conteúdos, fundamentos e relações podem ser consultados individualmente quando contribuírem para uma das aulas em elaboração.
 
-A fotografia pública vigente é governada pelo Raio-X público canônico de 23 de agosto de 2026 — v2.0. A página e o checkout devem usar a Copy Canônica relacionada; esta matriz permanece dedicada à correspondência 7/14→9/54.
+As referências ao Raio-X público e à Copy Canônica abaixo registram os nomes e o estado usados naquela etapa. Para comunicação atual, consultar a fonte mais recente da peça específica e tratá-la como referência revisável.
 
 ## Correspondência estrutural inicial
 
@@ -85,8 +86,8 @@ Uma aula não precisa consumir todo o patrimônio relacionado. Ela precisa demon
 ## Ponto de retomada
 
 1. abrir o chat `ATIVO — TSH — Curso — Produção M1.1–M1.7`;
-2. recuperar o patrimônio canônico e o plano vigente antes de avaliar qualquer insumo;
-3. tratar o arquivo preliminar M1.1 como não vinculante e iniciar oficialmente a produção somente nesse chat;
+2. recuperar somente o acervo e o plano pertinentes ao trabalho solicitado;
+3. tratar o arquivo preliminar M1.1 como fonte revisável; nenhum chat possui exclusividade sobre a produção;
 3. atualizar esta matriz a cada marco natural de consolidação;
 4. auditar longitudinalmente M1.1–M1.7 antes de storyboard e gravações definitivas.
 

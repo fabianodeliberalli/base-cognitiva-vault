@@ -2,12 +2,16 @@
 tipo: prompt-de-abertura
 projeto: Traduzindo o Ser Humano
 chat_destino: "ATIVO — TSH — Orquestração Geral 02"
-status: vigente
-versao: "1.0"
+status: historico-consultivo-substituido
+uso_atual: consulta-historica
+versao: "1.1"
 data: 2026-08-23
 ---
 
 # Prompt mínimo — Orquestração Geral 02
+
+> [!WARNING] Prompt histórico substituído
+> Não usar para abrir um novo chat. Sua divisão exclusiva de funções e sua leitura da arquitetura foram substituídas pela ficha de contexto mínimo e pelo guia comum.
 
 Este chat é o `ATIVO — TSH — Orquestração Geral 02` e sucede o chat histórico `HIST — TSH — Orquestração Geral 01`.
 

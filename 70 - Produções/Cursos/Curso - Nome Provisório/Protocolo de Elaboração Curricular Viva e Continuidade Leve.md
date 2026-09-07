@@ -2,10 +2,10 @@
 tipo: protocolo-operacional-curricular
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
-status: vigente
-versao: "1.3"
+status: referencia-atual-revisavel
+versao: "1.4"
 criado_em: 2026-07-26
-atualizado_em: 2026-08-22
+atualizado_em: 2026-09-07
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
@@ -24,11 +24,11 @@ Em 22 de agosto de 2026, para evitar ambiguidade, o trabalho substantivo passa a
 
 A estrutura existe para sustentar o pensamento, preservar a continuidade e tornar o material utilizável. Ela não deve antecipar decisões ainda não amadurecidas, transformar hipóteses em currículo fechado nem interromper o processo criativo com exigências documentais constantes.
 
-## Prevalência
+## Relação com orientações anteriores
 
 Este Protocolo atualiza o modo operacional de construção do curso.
 
-Ele não altera a Constituição Filosófico-Pedagógica, os fundamentos já aprovados, a autoria de Fabiano Deliberalli, os limites éticos nem a necessidade de preservar o acervo. Entretanto, **prevalece sobre instruções anteriores quando houver conflito relativo a ritmo de trabalho, relatórios de retomada, pacotes de aprovação, códigos, portões, auditorias antecipadas, checklists de sessão ou quantidade obrigatória de documentos a consultar**.
+Ele preserva a autoria de Fabiano Deliberalli, os limites éticos e a disponibilidade do acervo. É a referência atual quando orientações anteriores exigirem relatórios de retomada, pacotes de aprovação, códigos, portões, auditorias antecipadas, checklists de sessão ou quantidade fixa de documentos. Fabiano pode revisar qualquer uma dessas escolhas conforme o trabalho evoluir.
 
 Os documentos anteriores permanecem como memória e fonte. Suas decisões substantivas continuam válidas conforme seu estatuto; suas exigências procedimentais incompatíveis com este Protocolo deixam de comandar a fase criativa.
 
@@ -124,7 +124,7 @@ A elaboração favorece, sem rigidez, a sequência:
 
 ## Ponto de retomada
 
-> Abrir o chat **Curso — Módulo 0 — Continuidade 03 — Unidade 0.2** e iniciar diretamente a Mesa de Trabalho da Unidade Curricular 0.2, em linguagem natural. Não emitir novo Relatório de Retomada, não reabrir a Unidade 0.1 e não solicitar pacotes de aprovação.
+> Este ponto de retomada registrava a passagem para o chat **Curso — Módulo 0 — Continuidade 03 — Unidade 0.2**. Atualmente, começar pela demanda presente e recuperar somente o estado e as fontes pertinentes; qualquer aula pode ser revista quando isso contribuir para a construção.
 
 
 ## Relações

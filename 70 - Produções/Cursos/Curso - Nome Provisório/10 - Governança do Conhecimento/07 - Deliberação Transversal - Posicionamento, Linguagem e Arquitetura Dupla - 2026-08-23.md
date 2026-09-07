@@ -1,10 +1,11 @@
 ---
 tipo: deliberacao-transversal
 projeto: Traduzindo o Ser Humano
-status: aprovado-vigente
-versao: "1.1"
+status: acervo-historico-consultivo
+uso_atual: acervo-consultivo
+versao: "1.2"
 criado_em: 2026-08-23
-atualizado_em: 2026-08-23
+atualizado_em: 2026-09-07
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
@@ -14,6 +15,9 @@ autoridade_de_aprovacao: Fabiano Deliberalli
 
 
 # Deliberação Transversal — Posicionamento, Linguagem e Arquitetura Dupla — 2026-08-23
+
+> [!WARNING] Registro misto de uma etapa anterior
+> As formulações de posicionamento e linguagem permanecem disponíveis para consulta. A arquitetura dupla, as hierarquias e as exigências descritas abaixo são históricas e não orientam a construção atual das aulas.
 
 ## Finalidade
 
