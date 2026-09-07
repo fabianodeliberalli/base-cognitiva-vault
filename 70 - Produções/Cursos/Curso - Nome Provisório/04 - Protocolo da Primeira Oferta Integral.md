@@ -195,8 +195,8 @@ Antes de estruturar módulos, a próxima sessão deverá deliberar:
 
 ## Relações
 
-- [[Dossiê de Contexto e Arquitetura Mestre]]
-- [[Matriz Integrada - Quatro Movimentos, Seis Fases e Jornada Fenomenológica]]
+- [[00 - Dossiê de Contexto e Arquitetura Mestre|Dossiê de Contexto e Arquitetura Mestre]]
+- [[02 - Matriz Integrada - Quatro Movimentos, Seis Fases e Jornada Fenomenológica|Matriz Integrada - Quatro Movimentos, Seis Fases e Jornada Fenomenológica]]
 - [[Regimes Pedagógicos do Ecossistema]]
-- [[Ficha de Regime Pedagógico - Modelo]]
+- [[03 - Ficha de Regime Pedagógico - Modelo|Ficha de Regime Pedagógico - Modelo]]
 - [[Sessão 2A-F - Deliberação das Seis Fases do Método EIXO]]
