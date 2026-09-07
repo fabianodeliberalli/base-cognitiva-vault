@@ -1,6 +1,6 @@
 ---
 tipo: auditoria-inicial
-status: em-andamento
+status: auditoria-inicial-concluida
 capturado_em: 2026-09-07
 baseline: 0efe9721b0954d5eb8a06a33f0575b4dcc41edee
 escopo: Traduzindo o Ser Humano
