@@ -424,7 +424,7 @@ Documentos relacionados:
 
 - [[Pacote Comercial Inicial - Manifesto de Fontes e Proveniência]];
 - [[Auditoria Curricular Pormenorizada do Raio X Definitivo]];
-- [[Matriz de Reaproveitamento do Patrimônio Inicial]].
+- [[01 - Matriz de Reaproveitamento do Patrimônio Inicial|Matriz de Reaproveitamento do Patrimônio Inicial]].
 
 
 ---
@@ -749,7 +749,7 @@ Distinção:
 - entrega Zoom/Hotmart, duração e valor: hipóteses a deliberar;
 - primeira turma produz evidência pedagógica, não validação clínica ou científica.
 
-Ver [[Protocolo da Primeira Oferta Integral]].
+Ver [[04 - Protocolo da Primeira Oferta Integral|Protocolo da Primeira Oferta Integral]].
 
 
 ---
@@ -950,7 +950,7 @@ O curso será uma estrutura educacional complementar, com componentes reflexivos
 
 > definir o que será testado e os critérios de seleção do conteúdo essencial de cada uma das seis fases.
 
-Ver [[Protocolo da Primeira Oferta Integral]].
+Ver [[04 - Protocolo da Primeira Oferta Integral|Protocolo da Primeira Oferta Integral]].
 
 
 ---
@@ -984,7 +984,7 @@ Esta seção prevalece sobre indicações antigas de próxima aula ou frente ati
 
 ### Frente curricular ativa e ponto de retomada
 
-> Módulo 0 ativo. Abrir o [[Aula 0.2 - Índice do Kit]] e retomar a Unidade Curricular 0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança — sem reabrir a Unidade 0.1. A decomposição audiovisual da Unidade 0.1 permanece etapa posterior.
+> Módulo 0 ativo. Abrir o [[70 - Produções/Cursos/Curso - Nome Provisório/60 - Arquitetura Pedagógica/Aula 0.2 - Percurso do EIXO/00 - Índice do Kit|Aula 0.2 - Índice do Kit]] e retomar a Unidade Curricular 0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança — sem reabrir a Unidade 0.1. A decomposição audiovisual da Unidade 0.1 permanece etapa posterior.
 
 A Unidade Curricular 1.1 será retomada no Módulo 1 e submetida ao mesmo procedimento das demais unidades.
 
