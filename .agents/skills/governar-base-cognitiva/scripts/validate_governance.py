@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Valida invariantes mínimas da governança de IA do vault."""
+"""Valida preservação, autoria e liberdade criativa na governança do vault."""
 
 from __future__ import annotations
 
@@ -11,15 +11,24 @@ from pathlib import Path
 ROOT = Path.cwd()
 COMMON = ROOT / "90 - Sistema/Governança de IA/10 - Contrato Comum de Contexto para Assistentes de IA.md"
 TSH = ROOT / "90 - Sistema/Governança de IA/11 - Contexto Mínimo - Traduzindo o Ser Humano.md"
+SKILL = ROOT / ".agents/skills/governar-base-cognitiva/SKILL.md"
+CLAUDE_SKILL = ROOT / ".claude/skills/governar-base-cognitiva/SKILL.md"
 ADAPTERS = (ROOT / "AGENTS.md", ROOT / "CLAUDE.md")
 REQUIRED_POINTERS = (str(COMMON.relative_to(ROOT)), str(TSH.relative_to(ROOT)))
+
+
+def require_phrases(text: str, phrases: tuple[str, ...], label: str, errors: list[str]) -> None:
+    for phrase in phrases:
+        if phrase not in text:
+            errors.append(f"orientação ausente em {label}: {phrase}")
 
 
 def main() -> int:
     errors: list[str] = []
     warnings: list[str] = []
 
-    for path in (COMMON, TSH, *ADAPTERS):
+    required_files = (COMMON, TSH, SKILL, CLAUDE_SKILL, *ADAPTERS)
+    for path in required_files:
         if not path.is_file():
             errors.append(f"arquivo obrigatório ausente: {path.relative_to(ROOT)}")
 
@@ -28,14 +37,62 @@ def main() -> int:
         return 1
 
     common_text = COMMON.read_text(encoding="utf-8")
-    required_phrases = (
-        "Fabiano é o decisor final",
-        "Não carregar o vault inteiro",
-        "Não integrar à `main` sem homologação de Fabiano",
+    tsh_text = TSH.read_text(encoding="utf-8")
+    skill_text = SKILL.read_text(encoding="utf-8")
+    claude_skill_text = CLAUDE_SKILL.read_text(encoding="utf-8")
+
+    require_phrases(
+        common_text,
+        (
+            "Fabiano é o decisor final",
+            "Não carregar o vault inteiro",
+            "Nenhuma formulação criada por IA",
+            "Não integrar à `main` sem homologação de Fabiano",
+            "Não transformar refinamentos rotineiros",
+        ),
+        "guia comum",
+        errors,
     )
-    for phrase in required_phrases:
-        if phrase not in common_text:
-            errors.append(f"invariante ausente no contrato comum: {phrase}")
+    require_phrases(
+        tsh_text,
+        (
+            "referências atuais de trabalho",
+            "Doze semanas",
+            "estimativa provisória",
+            "Nenhuma inteligência artificial pode declarar uma proposta própria",
+        ),
+        "contexto mínimo do TSH",
+        errors,
+    )
+    require_phrases(
+        skill_text,
+        (
+            "A governança existe para reduzir carga",
+            "Nenhum texto gerado por IA pode ser declarado",
+            "Pare e consulte somente",
+            "Questões reversíveis e criativas podem avançar",
+        ),
+        "skill principal",
+        errors,
+    )
+
+    forbidden_active_phrases = {
+        TSH: (
+            "Formulação canônica",
+            "proteção canônica",
+            "Produção curricular oficial deve ocorrer",
+        ),
+        CLAUDE_SKILL: ("implementação canônica",),
+        SKILL: (
+            "fonte normativa comum",
+            "decisões consolidadas",
+        ),
+    }
+    for path, phrases in forbidden_active_phrases.items():
+        text = path.read_text(encoding="utf-8")
+        for phrase in phrases:
+            if phrase in text:
+                errors.append(f"rigidez antiga ainda ativa em {path.relative_to(ROOT)}: {phrase}")
 
     for adapter in ADAPTERS:
         text = adapter.read_text(encoding="utf-8")
