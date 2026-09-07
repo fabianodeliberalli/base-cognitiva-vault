@@ -114,6 +114,7 @@ Esta cronologia distingue datas documentalmente sustentadas de datas fornecidas 
 - TCC: *Sincronia Neural Interpessoal e Estados Ampliados de Consciência: uma abordagem neurobiológico-relacional da espiritualidade*, aprovado com nota 9,5.
 - 11/02/2026: registro institucional da orientação finalizada, nota 9,5 e parecer favorável sobre relevância científica, delimitação, objetivos e fundamentação.
 - 7 de março: workshop da ABBSP sobre autorregulação e presença clínica em processos espirituais e estados ampliados da consciência.
+- 21 a 23 de agosto: conclusão da Brainspotting® — Masterclass com David Grand, conforme certificado; o documento não declara carga horária, modalidade ou local.
 - Agosto: palestra no IGM sobre fenômenos anômalos, com Daiana Leite.
 - Desenvolvimento do CEEP como professor do eixo Consciência.
 - Desenvolvimento do curso *Traduzindo o Ser Humano* e de sua arquitetura autoral.
