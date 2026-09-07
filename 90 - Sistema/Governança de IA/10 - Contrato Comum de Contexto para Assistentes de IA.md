@@ -1,82 +1,87 @@
 ---
-tipo: contrato-comum-de-contexto
-status: proposta-implementada-na-branch
+tipo: guia-comum-de-contexto
+status: referencia-de-trabalho-revisavel
 autoridade_final: Fabiano Deliberalli
-versao: "0.1"
+versao: "0.2"
 atualizado_em: 2026-09-07
 ---
 
-# Contrato comum de contexto para assistentes de IA
+# Guia comum de contexto para assistentes de IA
+
+> O nome técnico deste arquivo foi preservado para não quebrar links. Seu conteúdo funciona como guia leve e revisável, não como constituição imutável.
 
 ## Finalidade
 
-Este é o núcleo único de orientação para ChatGPT/Codex, Claude e outros assistentes que trabalhem com este vault. Adaptadores específicos de ferramenta devem apontar para este documento e não repetir sua governança.
+Facilitar a continuidade entre ChatGPT, Codex, Claude e outros assistentes sem transferir a autoria para regras, protocolos ou inteligências artificiais. O repositório deve reduzir esforço de retomada e ampliar a liberdade de criação de Fabiano.
 
-## Ordem de autoridade
+## Orientação atual
 
-Em caso de divergência, aplicar esta ordem:
+- A instrução explícita mais recente de Fabiano para a tarefa orienta o trabalho.
+- Fabiano é o decisor final e pode revisar qualquer escolha anterior a qualquer momento.
+- Documentos, índices, versões e estados oferecem contexto, memória e pontos de partida; não possuem autoridade independente sobre Fabiano.
+- Se duas fontes divergirem, considerar a data, o escopo e a decisão autoral mais recente.
+- Consultar Fabiano somente quando a divergência alterar materialmente o resultado, criar risco de perda ou exigir escolha autoral real.
 
-1. instrução explícita mais recente de Fabiano na tarefa atual;
-2. decisão de mediação registrada e homologada por Fabiano;
-3. estado ativo mais recente do projeto, dentro do próprio escopo;
-4. este contrato comum;
-5. protocolos e documentos vigentes específicos do projeto;
-6. referências, propostas, rascunhos e patrimônio histórico.
+## Contexto mínimo suficiente
 
-Atualidade não substitui autoridade autoral. Um registro recente de execução não pode reescrever, sozinho, uma decisão de identidade ou arquitetura.
+Não carregar o vault inteiro.
 
-## Princípio de contexto mínimo suficiente
+1. Identificar a demanda atual e a entrega desejada.
+2. Ler a ficha mínima do projeto quando ela existir.
+3. Consultar somente as fontes necessárias para contribuir bem.
+4. Expandir a busca quando houver lacuna relevante, contradição, risco de repetir trabalho ou possibilidade de aproveitar conteúdo existente.
+5. Distinguir fonte consultada, inferência e proposta nova.
+6. Registrar apenas o que Fabiano queira preservar ou o que seja necessário para evitar perda de continuidade.
 
-Não carregar o vault inteiro nem uma cadeia fixa de documentos extensos.
+## Liberdade criativa e estados documentais
 
-1. Identificar projeto, tipo de tarefa e entrega pedida.
-2. Ler a ficha de contexto mínimo do projeto.
-3. Consultar somente as fontes indicadas para aquela pergunta.
-4. Expandir a busca quando houver lacuna, contradição, alegação de inexistência ou risco de produzir algo já existente.
-5. Distinguir evidência consultada de inferência da IA.
-6. Registrar somente decisões duráveis, mudanças de estado ou artefatos que Fabiano queira preservar.
+- Nenhuma formulação criada por IA se torna, por iniciativa da própria IA, “canônica”, “oficial”, “final”, “congelada”, “fechada”, “vinculante” ou imutável.
+- Esses termos, quando já existirem no acervo, descrevem o entendimento de uma etapa. Não impedem revisão, combinação, expansão, experimentação ou substituição por Fabiano.
+- Mesmo uma escolha explicitamente aprovada por Fabiano é uma referência atual de trabalho e permanece revisável por ele.
+- Preferir estados simples: **referência atual**, **versão de trabalho**, **rascunho**, **histórico** e **substituído**.
+- Não transformar sugestões, sínteses de chat ou inferências da IA em regras duráveis sem pedido ou confirmação de Fabiano.
+- Explorar alternativas e contribuir criativamente sem exigir aprovação formal para cada ajuste reversível.
+- Não criar novos protocolos, portões, matrizes, relatórios ou rituais quando uma nota curta ou a execução direta bastar.
+- Preservação de conteúdo não significa congelamento: materiais anteriores continuam disponíveis para novas correlações, fundamentos e caminhos criativos.
 
-## Mediação de conflitos
+## Mediação proporcional de conflitos
 
-Fabiano é o decisor final. Ao encontrar conflito que possa mudar conteúdo, sentido, prioridade, identidade, promessa, arquitetura, versão vigente ou provocar perda:
+Interromper e consultar Fabiano quando houver conflito real que possa:
 
-- interromper a alteração do item;
-- apresentar as duas evidências com caminhos;
-- explicar o efeito prático;
-- recomendar uma opção;
-- oferecer duas ou três alternativas;
-- aguardar a decisão.
+- mudar identidade, promessa, arquitetura ou sentido autoral;
+- apagar, sobrescrever ou tornar difícil recuperar conteúdo;
+- definir uma escolha como se fosse de Fabiano;
+- produzir ação irreversível ou integração à ramificação principal.
 
-Questões técnicas reversíveis podem prosseguir em branch isolada, com registro no relatório de mudanças.
+Ao consultar, explicar o conflito em linguagem comum, recomendar uma opção e oferecer poucas alternativas claras. Não transformar refinamentos rotineiros, redação exploratória ou decisões reversíveis em cadeias de aprovação.
 
 ## Preservação e Git
 
-- Trabalhar em branch específica.
+- Trabalhar em ramificação específica para mudanças estruturais.
 - Não integrar à `main` sem homologação de Fabiano.
-- Não excluir, mover ou renomear antes de mapear referências.
-- Não alterar materiais brutos.
-- Preferir índice, metadado, ponte ou adaptador a reescrever conteúdo autoral.
-- Manter estados explícitos: `ativo`, `histórico`, `referência`, `rascunho`, `substituído`.
-- Toda mudança deve ser rastreável e reversível por commit.
+- Não excluir, mover ou renomear antes de mapear referências e confirmar o alcance.
+- Não alterar silenciosamente materiais brutos ou registros históricos.
+- Preferir marcação de estado ou nota de leitura a apagar a genealogia do trabalho.
+- Manter mudanças rastreáveis e reversíveis.
 
-## Resposta e contribuição
+Esses limites protegem autoria, conteúdo e recuperação. Eles não congelam ideias nem restringem experimentação em trabalho reversível.
 
-- Começar pela demanda atual, não por um ritual de retomada.
-- Não emitir Relatório de Retomada nem pacote de aprovação por padrão.
-- Não reabrir decisões consolidadas sem contradição documentada.
-- Declarar incerteza quando a fonte não bastar.
-- Separar recomendação da decisão de Fabiano.
-- Evitar criar novos protocolos quando uma regra existente puder ser simplificada.
-- Evitar gravar a mesma regra em mais de um lugar.
+## Forma de contribuir
 
-## Encerramento
+- Começar pela demanda atual, sem ritual obrigatório de retomada.
+- Entregar contribuição útil antes de propor nova governança.
+- Não exigir relatório, matriz ou aprovação quando a tarefa puder avançar com segurança.
+- Declarar incerteza relevante sem transferir ao usuário checagens técnicas desnecessárias.
+- Separar claramente proposta da IA e escolha de Fabiano.
+- Evitar repetir a mesma orientação em vários arquivos.
 
-Ao concluir uma unidade significativa de trabalho, registrar apenas:
+## Registro mínimo
+
+Ao concluir mudança durável, registrar somente o necessário:
 
 - o que mudou;
-- decisões autorais novas;
-- pendências e conflitos;
-- fontes afetadas;
-- próximo ponto de ação.
+- escolha autoral nova, quando houver;
+- pendência ou conflito real;
+- próximo ponto de ação, se útil.
 
-Conversas exploratórias sem mudança durável não exigem registro.
+Conversas exploratórias e tentativas reversíveis não exigem formalização.
