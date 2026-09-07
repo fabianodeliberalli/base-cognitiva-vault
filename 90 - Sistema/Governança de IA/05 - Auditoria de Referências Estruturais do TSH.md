@@ -1,7 +1,7 @@
 ---
 tipo: auditoria-de-referencias-estruturais
 projeto: Traduzindo o Ser Humano
-status: aguardando-mediacao-autoral
+status: primeira-decisao-autoral-confirmada
 data: 2026-09-07
 autoridade_de_decisao: Fabiano Deliberalli
 escopo: leitura integral dos arquivos Markdown do núcleo do curso
@@ -17,7 +17,7 @@ A regra validada para esta auditoria é:
 
 - a única arquitetura vigente é **9 módulos e 54 aulas**;
 - a estrutura inicial de **7 módulos e 14 aulas ou unidades** é um **arquivo histórico de títulos e conteúdos**;
-- esse arquivo pode ser consultado livremente durante a futura estruturação das 54 aulas, conforme pertinência;
+- esse arquivo pode ser consultado durante a futura estruturação das 54 aulas e contribuir, conforme necessidade e pertinência, com ampliações, correlações e fundamentações;
 - não existe obrigação de correspondência individual nem de manutenção da estrutura antiga como arquitetura interna;
 - as variantes antigas identificadas como aulas 2.1 e 2.2 permanecem como registros históricos e fontes possíveis;
 - o subtítulo vigente é **Traduzindo o Ser Humano — Da compreensão acumulada à presença que sustenta**;
@@ -50,6 +50,12 @@ Esta auditoria:
 | Numeração 2.1 ou 2.2 | 39 | 14 |
 
 As contagens são sinais de revisão, não uma lista automática de erros. Por exemplo, a numeração 2.1 ou 2.2 também aparece em versões documentais e títulos de seção; por isso, nenhuma substituição automática é segura.
+
+## Decisão autoral confirmada em 7 de setembro de 2026
+
+Fabiano Deliberalli confirmou que a organização inicial permanece somente como acervo histórico de títulos e conteúdos. Acrescentou que esse material deverá continuar disponível como fonte qualificada durante a construção das aulas ainda não gravadas, inclusive para ampliações, correlações e fundamentações pertinentes.
+
+Essa disponibilidade não restabelece a organização inicial como arquitetura, não cria correspondência obrigatória e não transporta automaticamente sua numeração para as 54 aulas.
 
 ## Conflito principal na camada ativa
 
