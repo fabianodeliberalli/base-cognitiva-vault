@@ -71,7 +71,7 @@ O arquivo integral de certificados e diplomas permanece na Biblioteca e/ou no ac
 
 - CRP 06/98630 — registro profissional.
 - Graduação em Psicologia: diploma da Universidade São Marcos localizado; conclusão em 04/02/2010 e expedição em 14/09/2010; CRP 06/98630 registrado separadamente.
-- Pós-graduação em Psicologia Transpessoal pela FACIS — Faculdade de Ciências da Saúde de São Paulo: formação concluída em 2010, com Trabalho de Conclusão de Curso entregue e certificado emitido em 2011; monografia orientada pela Profª Drª Márcia Tabone.
+- Pós-graduação em Psicologia Transpessoal pela FACIS — Faculdade de Ciências da Saúde de São Paulo: formação concluída em 2010, com Trabalho de Conclusão de Curso entregue e certificado emitido em 2011; monografia orientada pela Profª Drª Márcia Tabone. A monografia foi uma segunda produção acadêmica, distinta do trabalho de graduação, mantendo o mesmo título após ampliação da pesquisa iniciada na Universidade São Marcos.
 - Pós-graduação em Neurociências e Comportamento pela PUCRS: certificado localizado no PDF, p. 1; conclusão em 25/03/2026.
 - Trabalho final da graduação: O normal e o patológico nas vivências espirituais: explorações psicanalíticas e transpessoais, p. 70.
 

@@ -165,6 +165,7 @@ A expressão recomendada é “professor, palestrante e facilitador em cursos li
 # Pesquisa, estudos e autoria
 
 - Trabalho final da graduação em Psicologia: O normal e o patológico nas vivências espirituais: explorações psicanalíticas e transpessoais, com ata de defesa localizada em 04/12/2009.
+- Monografia da pós-graduação em Psicologia Transpessoal: uma segunda produção acadêmica com o mesmo título, concluída em 2010 após ampliação e amadurecimento da pesquisa iniciada na graduação. Essa relação fica registrada para precisão interna e não exige destaque nas versões públicas.
 - Trabalho final da pós-graduação em Neurociências e Comportamento: *Sincronia Neural Interpessoal e Estados Ampliados de Consciência: uma abordagem neurobiológico-relacional da espiritualidade*, aprovado com nota 9,5 em 2026. O parecer avaliativo destacou relevância científica, delimitação, coerência dos objetivos e fundamentação teórica atualizada.
 - Interesses de estudo: neurofenomenologia, experiência incorporada, sincronia interpessoal, trauma, espiritualidade, consciência e diferenciação de experiências incomuns.
 - Não declarar “pesquisador”, “neurocientista” ou “autor publicado” como identidade principal sem produção e vínculo correspondentes. A autoridade atual está na prática clínica, na formação interdisciplinar e na capacidade de tradução.
