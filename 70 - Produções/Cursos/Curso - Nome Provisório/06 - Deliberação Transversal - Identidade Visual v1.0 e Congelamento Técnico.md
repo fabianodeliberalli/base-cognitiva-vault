@@ -83,7 +83,7 @@ A simetria permanece autorizada como representação de EIXO, correspondência, 
 ### Institucional do curso
 
 **Traduzindo o Ser Humano**  
-**Da compreensão acumulada à mudança vivida**
+**Da compreensão acumulada à presença que sustenta**
 
 ## Regra para alterações futuras
 
