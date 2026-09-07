@@ -11,6 +11,8 @@ from pathlib import Path
 ROOT = Path.cwd()
 COMMON = ROOT / "90 - Sistema/Governança de IA/10 - Contrato Comum de Contexto para Assistentes de IA.md"
 TSH = ROOT / "90 - Sistema/Governança de IA/11 - Contexto Mínimo - Traduzindo o Ser Humano.md"
+LEARNING = ROOT / "90 - Sistema/Governança de IA/12 - Aprendizado Operacional e Melhoria Contínua.md"
+README = ROOT / "README.md"
 SKILL = ROOT / ".agents/skills/governar-base-cognitiva/SKILL.md"
 CLAUDE_SKILL = ROOT / ".claude/skills/governar-base-cognitiva/SKILL.md"
 ADAPTERS = (ROOT / "AGENTS.md", ROOT / "CLAUDE.md")
@@ -27,7 +29,7 @@ def main() -> int:
     errors: list[str] = []
     warnings: list[str] = []
 
-    required_files = (COMMON, TSH, SKILL, CLAUDE_SKILL, *ADAPTERS)
+    required_files = (COMMON, TSH, LEARNING, README, SKILL, CLAUDE_SKILL, *ADAPTERS)
     for path in required_files:
         if not path.is_file():
             errors.append(f"arquivo obrigatório ausente: {path.relative_to(ROOT)}")
@@ -38,6 +40,8 @@ def main() -> int:
 
     common_text = COMMON.read_text(encoding="utf-8")
     tsh_text = TSH.read_text(encoding="utf-8")
+    learning_text = LEARNING.read_text(encoding="utf-8")
+    readme_text = README.read_text(encoding="utf-8")
     skill_text = SKILL.read_text(encoding="utf-8")
     claude_skill_text = CLAUDE_SKILL.read_text(encoding="utf-8")
 
@@ -49,6 +53,8 @@ def main() -> int:
             "Nenhuma formulação criada por IA",
             "Não integrar à `main` sem homologação de Fabiano",
             "Não transformar refinamentos rotineiros",
+            "Não carregar essa nota em tarefas comuns",
+            "Não exigir plugin, painel, modelo ou configuração específica",
         ),
         "guia comum",
         errors,
@@ -65,12 +71,35 @@ def main() -> int:
         errors,
     )
     require_phrases(
+        learning_text,
+        (
+            "Não consultar por padrão em tarefas comuns",
+            "Ideias isoladas, explorações criativas e preferências momentâneas não viram regra",
+            "não exigir plugin, painel, modelo ou configuração do Obsidian",
+            "Não criar revisão periódica obrigatória",
+        ),
+        "aprendizado operacional",
+        errors,
+    )
+    require_phrases(
+        readme_text,
+        (
+            "Fluxo leve",
+            "Uso com o Obsidian",
+            "não há plugin, painel, modelo ou configuração obrigatória",
+        ),
+        "README",
+        errors,
+    )
+    require_phrases(
         skill_text,
         (
             "A governança existe para reduzir carga",
             "Nenhum texto gerado por IA pode ser declarado",
             "Pare e consulte somente",
             "Questões reversíveis e criativas podem avançar",
+            "Aprendizado longitudinal",
+            "Não leia essa memória em tarefas comuns",
         ),
         "skill principal",
         errors,
@@ -86,6 +115,10 @@ def main() -> int:
         SKILL: (
             "fonte normativa comum",
             "decisões consolidadas",
+        ),
+    }
+        README: (
+            "Ao final, gera um pacote de registro",
         ),
     }
     for path, phrases in forbidden_active_phrases.items():
