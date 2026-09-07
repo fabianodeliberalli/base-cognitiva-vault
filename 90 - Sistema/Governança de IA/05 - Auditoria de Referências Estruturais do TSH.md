@@ -1,7 +1,7 @@
 ---
 tipo: auditoria-de-referencias-estruturais
 projeto: Traduzindo o Ser Humano
-status: decisoes-aplicadas-na-branch
+status: decisoes-aplicadas-na-principal
 data: 2026-09-07
 autoridade_de_decisao: Fabiano Deliberalli
 escopo: leitura integral dos arquivos Markdown do núcleo do curso
@@ -239,5 +239,19 @@ A memória de aprendizado não integra a abertura de tarefas comuns. Após o acr
 
 ### Conclusão da reavaliação
 
-A incorporação de aprendizado é funcional porque registra padrões comprovados sem obrigar sua consulta cotidiana. Ela melhora a continuidade entre assistentes e o uso do Obsidian, mas preserva a liberdade criativa, a revisão autoral e o princípio do menor ajuste útil. A integração permanece condicionada à escolha explícita de Fabiano sobre como registrar o histórico técnico na ramificação principal.
+A incorporação de aprendizado é funcional porque registra padrões comprovados sem obrigar sua consulta cotidiana. Ela melhora a continuidade entre assistentes e o uso do Obsidian, mas preserva a liberdade criativa, a revisão autoral e o princípio do menor ajuste útil. A primeira reorganização foi integrada à ramificação principal em 7 de setembro de 2026, no registro `d4358417d85e271729297862330b6620136d30e1`. O histórico técnico detalhado permanece preservado na ramificação de trabalho.
+
+## Auditoria residual das portas de entrada — 7 de setembro de 2026
+
+Após a integração, uma verificação de uso real mostrou que a carga inicial estava reduzida, mas a consulta de estado ainda podia abrir uma rota de aproximadamente 94 mil bytes. A antiga nota “LEIA PRIMEIRO” começava com a correção de 9 módulos e 54 aulas, porém mantinha no corpo a leitura anterior de duas arquiteturas, linguagem rígida e uma lista extensa de leitura.
+
+A correção foi iniciada em ramificação isolada:
+
+- o conteúdo substantivo anterior foi preservado em snapshot histórico;
+- a porta ativa foi condensada e reconciliada;
+- os estados de M1, masterclass e identidade visual foram convertidos em referências revisáveis;
+- o verificador passou a testar essas portas ativas e o limite de carga;
+- os seis ativos vetoriais ausentes continuam apenas documentados, sem recriação automática.
+
+A segunda integração permanece pendente de comparação e validação final de Fabiano.
 
