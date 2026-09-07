@@ -6,6 +6,10 @@ data: 2026-08-02
 status: historico-interno-superado-na-estrutura-de-entrega
 ---
 
+> [!NOTE] Estimativa de duração — 7 de setembro de 2026
+> Referências a **12 semanas** neste documento são estimativas provisórias de etapas anteriores, não duração definitiva, promessa ou cronograma vigente. A duração será revista conforme a construção das 54 aulas, considerando volume, ritmo, práticas, materiais, forma de liberação e outros fatores ainda em curso. O texto abaixo permanece preservado como memória e hipótese de trabalho.
+
+
 # Registro interno — análises operacionais do Raio X
 
 > **Estatuto atualizado em 22/08/2026:** as estimativas de 7 módulos, 14 unidades e 80–95 microaulas abaixo permanecem memória de planejamento. Foram superadas, para entrega e comunicação, pelo Raio-X vigente de 4 de agosto de 2026, com 9 módulos e 54 aulas. Podem ser consultadas como genealogia e fonte de cortes, mas não governam quantidade, promessa ou organização visível da oferta.
