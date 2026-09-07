@@ -1,7 +1,7 @@
 ---
 tipo: auditoria-de-referencias-estruturais
 projeto: Traduzindo o Ser Humano
-status: duas-decisoes-autorais-confirmadas
+status: tres-decisoes-autorais-confirmadas
 data: 2026-09-07
 autoridade_de_decisao: Fabiano Deliberalli
 escopo: leitura integral dos arquivos Markdown do núcleo do curso
@@ -98,6 +98,12 @@ Aplicação:
 - fontes ativas de identidade, continuidade e produção usam o subtítulo vigente;
 - versões anteriores, protótipos e registros preservam **Da compreensão acumulada à mudança vivida** como formulação histórica ou matéria-prima de comunicação;
 - a formulação anterior não governa a identidade atual.
+
+## Decisão autoral sobre as antigas aulas 2.1 e 2.2 confirmada em 7 de setembro de 2026
+
+Fabiano Deliberalli confirmou que os códigos 2.1 e 2.2, quando identificam antigas aulas ou unidades, pertencem somente à organização histórica. Todas as variantes de títulos, conteúdos e fundamentações serão preservadas; nenhuma foi escolhida como aula vigente.
+
+Esses materiais podem contribuir individualmente para qualquer uma das 54 aulas, conforme pertinência, sem determinar numeração, posição ou ordem de gravação. Ocorrências de 2.1 ou 2.2 como versão, seção ou outro identificador técnico não são afetadas por esta decisão.
 
 ## Conflito de identidade vigente
 
