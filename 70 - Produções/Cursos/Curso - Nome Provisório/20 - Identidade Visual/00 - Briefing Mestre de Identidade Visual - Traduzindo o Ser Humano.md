@@ -48,7 +48,7 @@ Função: território autoral e organizador estável.
 
 ### Subtítulo estável
 
-> **Da compreensão acumulada à mudança vivida**
+> **Da compreensão acumulada à presença que sustenta**
 
 Função: expressar o deslocamento formativo central do curso.
 
@@ -250,7 +250,7 @@ O candidato atual utiliza:
 
 A frase **“Compreender · Integrar · Transformar”** não é o subtítulo estável atualmente aprovado. Ela pode permanecer como formulação editorial ou campanha, se deliberada, mas não deve substituir automaticamente:
 
-> **Da compreensão acumulada à mudança vivida**
+> **Da compreensão acumulada à presença que sustenta**
 
 O logotipo principal deve priorizar a marca. O subtítulo deve possuir versão institucional separada. A headline não deve integrar o arquivo nuclear do logo.
 
