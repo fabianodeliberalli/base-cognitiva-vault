@@ -255,13 +255,15 @@ A correção foi iniciada em ramificação isolada:
 
 ### Validação da correção residual
 
-- 12 arquivos estão envolvidos: um snapshot acrescentado, dez documentos atualizados e o verificador;
+- 14 arquivos estão envolvidos: dois snapshots acrescentados, onze documentos atualizados e o verificador;
 - nenhum arquivo foi removido ou renomeado;
-- o corpo da antiga porta de entrada está contido integralmente no snapshot histórico;
+- os corpos da antiga porta de entrada e do antigo Dossiê Mestre estão contidos integralmente nos respectivos snapshots históricos;
 - nenhum cabeçalho de metadados ficou aberto;
 - nenhuma referência interna quebrada nova foi introduzida;
 - a porta ativa caiu de 29.095 para 5.755 bytes;
+- o Dossiê ativo caiu de 83.591 para 7.885 bytes;
 - a rota típica de consulta de estado caiu de aproximadamente 94.260 para 19.940 bytes, redução próxima de 79%;
+- a rota de visão geral que incluía o antigo Dossiê caiu de aproximadamente 123.555 para 24.509 bytes, redução próxima de 80%;
 - a habilidade permaneceu estruturalmente válida;
 - o verificador passou sem erros ou avisos no estado correto;
 - um teste negativo reintroduziu a antiga afirmação de autoridade da estrutura 7/14 e foi rejeitado pelo verificador.
