@@ -94,7 +94,7 @@ A Psicanálise deve aparecer como origem estruturante da escuta, da compreensão
 ## Trauma, reprocessamento e regulação
 
 - Formação continuada em EMDR desde aproximadamente 2010, com treinamento básico documentado de 50 horas teórico-práticas e 10 horas de supervisão, em março de 2011.
-- Formação em Brainspotting, com fases 1–2 e fase 4 documentadas.
+- Formação continuada em Brainspotting, com fases 1–2, fase 4 e Masterclass com David Grand, realizada de 21 a 23 de agosto de 2026, documentadas.
 - Cursos de EMDR, trauma, estados do ego, atenção precoce, estresse traumático continuado, neuroendocrinologia do trauma e transmissão transgeracional.
 - Formação em Psicoterapia Integradora e Reprocessamento do Trauma com Mário Salvador e Carmen Cuenca, incluindo programa documentado de 216 horas do Instituto Aleces, Níveis I, II e III do Modelo Aleceia, realizado entre 2020 e 2023.
 - Supervisão mensal em grupo com Mário Salvador, em continuidade em 2026.

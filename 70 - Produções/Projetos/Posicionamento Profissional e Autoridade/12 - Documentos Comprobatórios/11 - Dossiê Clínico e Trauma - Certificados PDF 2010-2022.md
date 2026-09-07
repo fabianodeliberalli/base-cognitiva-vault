@@ -38,6 +38,7 @@ Esta nota reúne os documentos do PDF certificados e diplomas.pdf que sustentam 
 
 - p. 2–3: Fases 1 e 2, documentadas em 2011 e 2017.
 - p. 12: Fase 4, 18h, 02–04/08/2019.
+- Certificado complementar: Brainspotting® — Masterclass com David Grand, concluída de 21 a 23/08/2026; ver [[22 - Brainspotting - Masterclass com David Grand 2026]]. O documento não declara carga horária, modalidade, local ou nova certificação profissional.
 - Uso público: “formação continuada em Brainspotting, com fases documentadas” ou a denominação exata das fases, sem converter automaticamente em título de especialista.
 
 ## Mário Salvador e Psicoterapia Integradora

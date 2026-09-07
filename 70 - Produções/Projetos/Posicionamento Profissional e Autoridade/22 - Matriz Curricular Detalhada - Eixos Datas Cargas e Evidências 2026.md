@@ -193,6 +193,7 @@ Há certificados históricos de terapeuta certificado EMDR com validade impressa
 - **Fases 1 e 2:** 14h + 14h, São Paulo, 03/04/2011.
 - **Fases 1 e 2:** treinamento realizado em 10, 11, 12, 14 e 15/08/2017.
 - **Fase 4:** 18h, São Paulo, 02–04/08/2019.
+- **Masterclass com David Grand:** atividade concluída de 21 a 23/08/2026; certificado documentado em [[12 - Documentos Comprobatórios/22 - Brainspotting - Masterclass com David Grand 2026]]. O documento não informa carga horária, modalidade ou local.
 - **Situação:** formação continuada com fases documentadas.
 - **Uso:** pode constar como formação em Brainspotting; não usar “certificação vigente” sem conferência específica.
 
