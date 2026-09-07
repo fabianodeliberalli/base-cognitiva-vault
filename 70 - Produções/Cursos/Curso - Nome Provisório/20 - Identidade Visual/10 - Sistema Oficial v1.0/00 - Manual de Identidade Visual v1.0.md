@@ -222,7 +222,10 @@ A instrução autoral de prosseguir consolida as seguintes escolhas técnicas:
 - Micro C para 16–24 px;
 - coexistência das três assinaturas oficiais.
 
-## 15. Ativos oficiais vinculados
+## 15. Ativos vinculados nesta versão
+
+> [!WARNING] Lacuna de arquivos identificada na regressão de 7 de setembro de 2026
+> Os seis arquivos vetoriais referenciados abaixo não estão presentes no repositório. As referências foram preservadas para permitir recuperação futura. A ausência não autoriza recriação automática nem torna estes ativos imutáveis; localizar os originais ou consultar Fabiano antes de uso em produção.
 
 - [[Ativos Vetoriais/01 - Símbolo Principal Premium.svg]]
 - [[Ativos Vetoriais/02 - Marca Nuclear.svg]]
