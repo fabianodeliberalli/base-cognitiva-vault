@@ -24,6 +24,10 @@ tags:
 - **Orientação:** Profª Drª Márcia Tabone.
 - **Título da monografia:** *O normal e o patológico nas vivências espirituais: explorações psicanalíticas e transpessoais*.
 
+## Relação com o trabalho da graduação
+
+O trabalho final da graduação em Psicologia, defendido na Universidade São Marcos em 4 de dezembro de 2009, e a monografia desta pós-graduação são duas produções acadêmicas distintas com o mesmo título. A pesquisa começou na graduação e foi posteriormente amadurecida e ampliada para a entrega da pós-graduação, concluída em 2010. Esta distinção é mantida para precisão interna e não exige destaque nas versões públicas do currículo.
+
 # Documentos de referência
 
 - Monografia completa: `Monografia Pos Trans revisada Cleo.doc`.

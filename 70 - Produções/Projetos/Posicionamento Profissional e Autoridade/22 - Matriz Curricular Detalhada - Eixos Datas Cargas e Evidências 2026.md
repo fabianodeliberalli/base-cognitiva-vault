@@ -115,6 +115,7 @@ Cargas horárias de módulos, duplicatas e níveis que pertencem à mesma forma�
 - **Certificado:** emitido em 2011.
 - **Orientadora:** Profª Drª Márcia Tabone.
 - **Título da monografia:** *O normal e o patológico nas vivências espirituais: explorações psicanalíticas e transpessoais*.
+- **Relação com a graduação:** trata-se de uma segunda produção acadêmica, distinta do trabalho defendido na Universidade São Marcos em 2009, embora mantenha o mesmo título. A pesquisa começou na graduação e foi amadurecida e ampliada para a monografia da pós-graduação.
 - **Documentação:** monografia e folha de identificação institucional arquivadas; certificado físico atualmente não disponível.
 - **Função curricular:** formação concluída que articula Psicologia, Psicanálise, espiritualidade, normalidade, patologia e perspectivas transpessoais.
 

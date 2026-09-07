@@ -54,8 +54,7 @@ Esta cronologia distingue datas documentalmente sustentadas de datas fornecidas 
 ## 2009
 
 - Defesa do trabalho final da graduação em Psicologia em 04/12/2009, conforme documentação acadêmica localizada.
-- Conclusão da pós-graduação em Psicologia Transpessoal, com TCC entregue e certificado emitido. O certificado físico não está atualmente disponível e a instituição encerrou as atividades; a formação permanece confirmada pelo autor.
-- Monografia sobre o normal e o patológico nas vivências espirituais, em diálogo com Psicanálise, fenomenologia, Psicologia Transpessoal e Abordagem Integral.
+- O trabalho *O normal e o patológico nas vivências espirituais: explorações psicanalíticas e transpessoais* inicia uma pesquisa que seria posteriormente ampliada na pós-graduação em Psicologia Transpessoal.
 
 ## 2010
 
@@ -63,6 +62,7 @@ Esta cronologia distingue datas documentalmente sustentadas de datas fornecidas 
 - 14/09/2010: expedição do diploma de Psicólogo pela Universidade São Marcos.
 - 2010: inscrição no CRP 06/98630.
 - Início da atuação formal como psicólogo.
+- Conclusão da pós-graduação em Psicologia Transpessoal, com entrega de uma segunda produção acadêmica, distinta da apresentada na graduação, mas com o mesmo título e resultante do amadurecimento e da ampliação daquela pesquisa. O certificado foi emitido em 2011.
 - Início aproximado da formação continuada em abordagens de trauma, incluindo EMDR e posteriormente Brainspotting.
 
 ## 2014–2015
