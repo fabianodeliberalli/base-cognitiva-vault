@@ -209,3 +209,35 @@ Foram verificados os seguintes resultados:
 ### Estado
 
 A regressão da reforma de governança foi aprovada na ramificação de trabalho. Nenhuma integração à `main` foi realizada. A comparação completa deverá ser apresentada a Fabiano antes dessa decisão.
+
+## Revalidação após incorporar o aprendizado operacional — 7 de setembro de 2026
+
+A autorização de integração veio acompanhada de um critério adicional: esta revisão também deve produzir aprendizado útil para o trabalho futuro com ChatGPT, Claude e Obsidian. O critério foi aplicado sem transformar a memória de uso em nova burocracia.
+
+### Ajustes incorporados
+
+- foi criada uma única nota de aprendizado operacional, consultada somente quando Fabiano pedir melhoria do fluxo ou quando houver atrito repetido;
+- episódios isolados, explorações criativas e preferências momentâneas não se tornam regras;
+- aprendizados específicos permanecem na ficha do projeto; somente padrões úteis entre ferramentas entram no guia comum;
+- no Obsidian, a orientação é buscar antes de criar, atualizar notas que já tenham a mesma finalidade, usar poucas propriedades e criar apenas links úteis;
+- nenhum plugin, painel, modelo, configuração ou reorganização estética foi imposto;
+- ajustes sem benefício demonstrado devem ser revistos ou retirados;
+- não foi criada revisão periódica obrigatória.
+
+### Verificações repetidas
+
+- a skill passou na validação estrutural;
+- o validador de governança passou na verificação de sintaxe e em todos os critérios de comportamento;
+- a árvore contém 576 arquivos e 88 pastas, sem configuração do Obsidian adicionada ao repositório;
+- a comparação com a ramificação principal mostra 57 arquivos alterados: 15 acrescentados e 42 modificados;
+- nenhum arquivo foi removido ou renomeado;
+- nenhum arquivo modificado apresenta perda líquida de conteúdo;
+- as notas atingidas pelo novo ajuste não possuem cabeçalho aberto nem nova referência interna quebrada;
+- a ramificação principal continua inalterada e a ramificação de trabalho está atualizada em relação a ela.
+
+A memória de aprendizado não integra a abertura de tarefas comuns. Após o acréscimo das orientações, a carga inicial estimada ficou em aproximadamente 11.546 bytes para ChatGPT e Codex e 11.509 bytes para Claude, redução de aproximadamente 84% em relação à rota anterior de 73.783 bytes.
+
+### Conclusão da reavaliação
+
+A incorporação de aprendizado é funcional porque registra padrões comprovados sem obrigar sua consulta cotidiana. Ela melhora a continuidade entre assistentes e o uso do Obsidian, mas preserva a liberdade criativa, a revisão autoral e o princípio do menor ajuste útil. A integração permanece condicionada à escolha explícita de Fabiano sobre como registrar o histórico técnico na ramificação principal.
+
