@@ -115,7 +115,7 @@ Na leitura inicial, o subtítulo anterior aparecia como “subtítulo-base” ou
 - [[09 - Esqueleto Estrutural da Primeira Oferta Integral para Mentoria]];
 - [[00 - Briefing Mestre de Identidade Visual - Traduzindo o Ser Humano]];
 - [[00 - Índice da Identidade Visual]];
-- [[10 - Sistema Oficial v1.0/00 - Manual de Identidade Visual v1.0]];
+- [[00 - Manual de Identidade Visual v1.0]];
 - [[Registro Mestre de Formulações Estruturantes]].
 
 Documentos históricos datados podem conservar o subtítulo anterior desde que seu estatuto histórico fique inequívoco.
