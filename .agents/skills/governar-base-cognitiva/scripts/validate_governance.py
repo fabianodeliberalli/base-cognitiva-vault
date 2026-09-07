@@ -56,7 +56,7 @@ def main() -> int:
     require_phrases(
         tsh_text,
         (
-            "referências atuais de trabalho",
+            "Referências atuais de trabalho",
             "Doze semanas",
             "estimativa provisória",
             "Nenhuma inteligência artificial pode declarar uma proposta própria",
