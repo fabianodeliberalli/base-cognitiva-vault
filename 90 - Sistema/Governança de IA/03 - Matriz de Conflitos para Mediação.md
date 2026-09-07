@@ -1,6 +1,6 @@
 ---
 tipo: matriz-de-conflitos
-status: decisoes-validadas-na-branch
+status: decisoes-validadas-e-integradas
 autoridade_final: Fabiano Deliberalli
 baseline: 0efe9721b0954d5eb8a06a33f0575b4dcc41edee
 atualizado_em: 2026-09-07
@@ -8,7 +8,7 @@ atualizado_em: 2026-09-07
 
 # Matriz de conflitos para mediação
 
-Nenhum item abaixo será corrigido antes da decisão de Fabiano.
+Os itens abaixo preservam a evidência dos conflitos apresentados a Fabiano. As decisões foram validadas e integradas; o registro permanece como memória do processo.
 
 ## C-001 — Ritual obrigatório de retomada
 

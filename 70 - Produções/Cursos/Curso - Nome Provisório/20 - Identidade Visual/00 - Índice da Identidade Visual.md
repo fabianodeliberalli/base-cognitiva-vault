@@ -1,18 +1,21 @@
 ---
 tipo: indice-de-identidade-visual
 projeto: Traduzindo o Ser Humano
-status: vigente
+status: referencia-atual-revisavel
 data: 2026-07-31
+atualizado_em: 2026-09-07
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
 
 # Índice da Identidade Visual — Traduzindo o Ser Humano
 
+> Os nomes históricos de pastas e arquivos com “Sistema Oficial” ou “Congelamento Técnico” foram preservados para não quebrar referências. Eles não impedem revisão por Fabiano.
+
 ## Função
 
-Esta é a porta de entrada obrigatória para qualquer pessoa, IA, designer, consultor ou novo chat que produza, revise ou aplique identidade visual no projeto, no curso, em livros, mapas, apresentações, materiais pedagógicos, comunicação, marketing, redes sociais ou produtos futuros.
+Este é o ponto de partida para trabalhos de identidade visual. Consulte somente as referências necessárias à aplicação ou revisão atual.
 
-Antes de produzir qualquer material visual, consultar:
+Referências disponíveis:
 
 1. [[10 - Sistema Oficial v1.0/00 - Manual de Identidade Visual v1.0]];
 2. [[06 - Deliberação Transversal - Identidade Visual v1.0 e Congelamento Técnico]];
@@ -20,18 +23,18 @@ Antes de produzir qualquer material visual, consultar:
 4. [[05 - Diretriz Transversal - Espiritualidade Explícita, Singularidade Autoral e Não Neutralização]];
 5. [[00 - Briefing Mestre de Identidade Visual - Traduzindo o Ser Humano]].
 
-## Estado vigente
+## Referência visual atual
 
-- sistema oficial: v1.0;
-- direção conceitual: congelada;
+- sistema atualmente utilizado: v1.0, revisável por Fabiano;
+- direção conceitual: referência atual, aberta a revisão autoral;
 - vetor fiel à referência aprovada: consolidado;
 - tipografia: EB Garamond e Inter;
 - sistema cromático: consolidado;
 - sistema responsivo: Micro B para 32–48 px e Micro C para 16–24 px;
-- assinaturas oficiais: nuclear, lema do projeto e institucional do curso;
-- alterações futuras: somente por defeito técnico comprovado, exigência legal ou marcária, inadequação material ou nova deliberação autoral explícita.
+- assinaturas atualmente utilizadas: nuclear, lema do projeto e institucional do curso;
+- alterações futuras podem decorrer de necessidade criativa, técnica, legal, marcária ou nova escolha autoral. Para reprodução consistente, usar esta referência até que Fabiano indique outra.
 
-## Assinaturas oficiais
+## Assinaturas atualmente utilizadas
 
 ### Nuclear
 
@@ -58,6 +61,6 @@ Antes de produzir qualquer material visual, consultar:
 
 ## Registro marcário
 
-Consultar também:
+Quando pertinente, consultar também:
 
 - [[10 - Sistema Oficial v1.0/98 - Registro do Pacote de Encaminhamento ao INPI - 2026-07-31]].

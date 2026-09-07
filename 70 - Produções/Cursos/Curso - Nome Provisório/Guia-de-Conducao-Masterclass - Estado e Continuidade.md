@@ -1,26 +1,26 @@
 ---
 tipo: estado-e-continuidade-masterclass
 projeto: Traduzindo o Ser Humano
-status: vigente
-versao: "1.1"
+status: referencia-atual-revisavel
+versao: "1.2"
 criado_em: 2026-08-23
-atualizado_em: 2026-08-23
+atualizado_em: 2026-09-07
 autor: Fabiano Deliberalli
 ---
 
 # Guia de Condução da Masterclass — Estado e Continuidade
 
-## Documento vigente
+## Referência atual
 
 - [[Guia-de-ConducaoMasterclass-Traduzindo-o-Ser-Humano-v2.6.1]]
-- **Estatuto:** canônico para a condução da masterclass.
+- **Estatuto:** referência atual e revisável para a condução da masterclass.
 - **SHA-256:** `72d8e0543ba51604ac9923327364b6139f5b391683f3dc8a802e4fff6f687888`
 - **Fonte pública relacionada:** [[10 - Raio X do Produto/Consultoria/2026-08-23 - Raio-X-Fabiano Deliberalli - Versão Pública Canônica v2.0]]
 - **Copy para página e checkout:** [[10 - Raio X do Produto/Consultoria/2026-08-23 - Copy Canônica - Página e Checkout - Traduzindo o Ser Humano]]
 - **Estrutura pública apresentada:** 9 módulos e 54 aulas.
-- **Rastreabilidade do conteúdo:** arquitetura 7/14, Nota-Ponte e Matriz Mestre.
+- **Rastreabilidade do conteúdo:** estrutura atual de 9 módulos e 54 aulas; o acervo de 7 módulos e 14 conteúdos permanece como fonte histórica consultável.
 
-## Decisões protegidas
+## Referências atuais preservadas
 
 - título: “Por que você entende seus padrões, mas continua repetindo?”;
 - big idea: “Saber não é ainda ter acesso”;
@@ -36,7 +36,7 @@ autor: Fabiano Deliberalli
 
 A revisão visual do slide 16 e o ensaio integral com cronômetro pertencem à futura produção humana dos materiais e da apresentação. Não bloqueiam a vigência deste documento, não são tarefas deste GPT e não devem ser registrados como pendências documentais do estado atual.
 
-A harmonização textual do Raio-X, da página e do checkout está registrada no Raio-X público canônico e na Copy Canônica relacionada. A aplicação externa efetiva na página ou na Hotmart é uma operação comercial futura; este estado não afirma que ela já tenha sido executada nem a transforma em pendência do trabalho atual.
+A harmonização textual do Raio-X, da página e do checkout está registrada nos arquivos cujos nomes históricos contêm “Canônica”. Esses nomes foram mantidos para preservar links, mas o conteúdo continua revisável por Fabiano. A aplicação externa efetiva na página ou na Hotmart é uma operação comercial futura; este estado não afirma que ela já tenha sido executada nem a transforma em pendência do trabalho atual.
 
 A versão Markdown v1.1 permanece histórica e não governa a condução atual.
 

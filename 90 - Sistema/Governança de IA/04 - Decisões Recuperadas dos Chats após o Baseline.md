@@ -1,6 +1,6 @@
 ---
 tipo: recuperacao-de-decisoes
-status: reconciliado-na-branch
+status: reconciliado-e-integrado
 fonte: chats-e-arquivos-associados
 janela: posterior-ao-baseline-de-2026-08-25
 registrado_em: 2026-09-07
