@@ -5,6 +5,10 @@ estado: ativo
 data: 2026-08-22
 ---
 
+> [!IMPORTANT] Regra de leitura vigente — 7 de setembro de 2026
+> Aplicar [[11 - Contexto Mínimo - Traduzindo o Ser Humano]]: **9 módulos e 54 aulas** são a única arquitetura vigente. A organização inicial de **7 módulos e 14 aulas ou unidades** permanece como acervo histórico de títulos e conteúdos e pode contribuir, por pertinência, com ampliações, correlações e fundamentações durante a construção das aulas ainda não gravadas. Ela não governa o desenvolvimento atual, não exige correspondência com as 54 aulas e não transporta automaticamente sua numeração. Neste documento, formulações anteriores sobre “duas arquiteturas”, “arquitetura interna” ou ligação obrigatória têm valor histórico, não normativo.
+
+
 # Índice Mestre dos Kits Curriculares
 
 > **Antes de usar este índice:** consultar [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]].
