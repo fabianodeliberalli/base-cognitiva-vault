@@ -15,6 +15,12 @@ ROOT = Path.cwd()
 COMMON = ROOT / "90 - Sistema/Governança de IA/10 - Contrato Comum de Contexto para Assistentes de IA.md"
 TSH = ROOT / "90 - Sistema/Governança de IA/11 - Contexto Mínimo - Traduzindo o Ser Humano.md"
 LEARNING = ROOT / "90 - Sistema/Governança de IA/12 - Aprendizado Operacional e Melhoria Contínua.md"
+POSITIONING = ROOT / "70 - Produções/Projetos/Posicionamento Profissional e Autoridade"
+POSITIONING_ENTRY = POSITIONING / "00 - LEIA PRIMEIRO - Estado Atual e Continuidade.md"
+POSITIONING_PROMPT = POSITIONING / "11 - Prompt de Abertura do Projeto Estratégico.md"
+POSITIONING_SNAPSHOTS = POSITIONING / "Registros de Continuidade"
+POSITIONING_ENTRY_SNAPSHOT = POSITIONING_SNAPSHOTS / "2026-09-07 - Snapshot da antiga porta de entrada.md"
+POSITIONING_PROMPT_SNAPSHOT = POSITIONING_SNAPSHOTS / "2026-09-07 - Snapshot do antigo prompt de abertura.md"
 COURSE = ROOT / "70 - Produções/Cursos/Curso - Nome Provisório"
 ENTRY = COURSE / "LEIA PRIMEIRO - Estado Atual e Continuidade do Curso.md"
 DOSSIER = COURSE / "00 - Dossiê de Contexto e Arquitetura Mestre.md"
@@ -38,7 +44,11 @@ README = ROOT / "README.md"
 SKILL = ROOT / ".agents/skills/governar-base-cognitiva/SKILL.md"
 CLAUDE_SKILL = ROOT / ".claude/skills/governar-base-cognitiva/SKILL.md"
 ADAPTERS = (ROOT / "AGENTS.md", ROOT / "CLAUDE.md")
-REQUIRED_POINTERS = (str(COMMON.relative_to(ROOT)), str(TSH.relative_to(ROOT)))
+REQUIRED_POINTERS = (
+    str(COMMON.relative_to(ROOT)),
+    str(TSH.relative_to(ROOT)),
+    str(POSITIONING_ENTRY.relative_to(ROOT)),
+)
 
 HISTORICAL_STATUS_MARKERS = (
     "histor",
@@ -199,7 +209,10 @@ def validate_changed_documents(errors: list[str]) -> None:
                     "Reformular como referência revisável ou classificar como histórico consultivo."
                 )
 
-        is_entrypoint = any(marker in path.name.lower() for marker in GOVERNANCE_NAME_MARKERS[:4])
+        is_entrypoint = any(
+            marker in path.name.lower()
+            for marker in ("leia primeiro", "estado e continuidade", "prompt de abertura")
+        )
         if is_entrypoint and path.stat().st_size > 12000:
             errors.append(
                 f"nova porta de contexto excede 12000 bytes: {relative} ({path.stat().st_size})"
@@ -217,7 +230,9 @@ def main() -> int:
     warnings: list[str] = []
 
     required_files = (
-        COMMON, TSH, LEARNING, ENTRY, DOSSIER, M1_STATE, MASTERCLASS_STATE,
+        COMMON, TSH, LEARNING, POSITIONING_ENTRY, POSITIONING_PROMPT,
+        POSITIONING_ENTRY_SNAPSHOT, POSITIONING_PROMPT_SNAPSHOT,
+        ENTRY, DOSSIER, M1_STATE, MASTERCLASS_STATE,
         IDENTITY_INDEX, KNOWLEDGE_INDEX, OLD_RECONCILIATION, INVENTORY,
         OLD_FOUNDATIONS, PLURALISM, BRIDGE, OLD_MATRIX, OLD_POSITIONING,
         FORMULATIONS, OLD_PROTOCOL, ENTRY_SNAPSHOT, DOSSIER_SNAPSHOT, README,
@@ -234,6 +249,10 @@ def main() -> int:
     common_text = COMMON.read_text(encoding="utf-8")
     tsh_text = TSH.read_text(encoding="utf-8")
     learning_text = LEARNING.read_text(encoding="utf-8")
+    positioning_entry_text = POSITIONING_ENTRY.read_text(encoding="utf-8")
+    positioning_prompt_text = POSITIONING_PROMPT.read_text(encoding="utf-8")
+    positioning_entry_snapshot_text = POSITIONING_ENTRY_SNAPSHOT.read_text(encoding="utf-8")
+    positioning_prompt_snapshot_text = POSITIONING_PROMPT_SNAPSHOT.read_text(encoding="utf-8")
     entry_text = ENTRY.read_text(encoding="utf-8")
     dossier_text = DOSSIER.read_text(encoding="utf-8")
     m1_text = M1_STATE.read_text(encoding="utf-8")
@@ -295,6 +314,49 @@ def main() -> int:
             "sessões longas podem acumular decisões",
         ),
         "aprendizado operacional",
+        errors,
+    )
+    require_phrases(
+        positioning_entry_text,
+        (
+            "status: referencia-atual-revisavel",
+            "Consultar somente os materiais relacionados à tarefa",
+            "Nenhuma formulação, bio, currículo ou estratégia se torna imutável",
+            "Não formam uma cadeia obrigatória",
+            "mais de 30 anos de trajetória no cuidado terapêutico, desde as práticas corporais e integrativas até a Psicologia Clínica",
+            "carga de duas mil horas de estágio no Shiozawa, confirmada anteriormente por Fabiano",
+        ),
+        "porta de entrada de Posicionamento Profissional e Autoridade",
+        errors,
+    )
+    require_phrases(
+        positioning_prompt_text,
+        (
+            "status: referencia-atual-revisavel",
+            "consulte apenas as fontes necessárias à tarefa atual",
+            "Este apontador substitui a antiga abertura que exigia a leitura integral de treze documentos",
+        ),
+        "apontador de Posicionamento Profissional e Autoridade",
+        errors,
+    )
+    require_phrases(
+        positioning_entry_snapshot_text,
+        (
+            "status: snapshot-historico-preservado",
+            "conteúdo da antiga porta de entrada, preservado integralmente",
+            "Suas instruções não orientam automaticamente o trabalho atual",
+        ),
+        "snapshot da antiga porta de Posicionamento Profissional e Autoridade",
+        errors,
+    )
+    require_phrases(
+        positioning_prompt_snapshot_text,
+        (
+            "status: snapshot-historico-preservado",
+            "conteúdo do antigo prompt de abertura, preservado integralmente",
+            "A lista de treze leituras não orienta automaticamente novos chats",
+        ),
+        "snapshot do antigo prompt de Posicionamento Profissional e Autoridade",
         errors,
     )
     require_phrases(
@@ -453,6 +515,16 @@ def main() -> int:
         README: (
             "Ao final, gera um pacote de registro",
         ),
+        POSITIONING_ENTRY: (
+            "Formulação pública canônica",
+            "Fonte curricular de consulta obrigatória",
+            "A fonte única para reconstrução",
+        ),
+        POSITIONING_PROMPT: (
+            "Antes de propor estratégia ou redação, leia integralmente",
+            "Formulação pública canônica",
+            "Não reabra como pendências",
+        ),
     }
     for path, phrases in forbidden_active_phrases.items():
         text = path.read_text(encoding="utf-8")
@@ -464,6 +536,16 @@ def main() -> int:
         errors.append(f"porta de entrada do TSH excede 12000 bytes: {ENTRY.stat().st_size}")
     if DOSSIER.stat().st_size > 12000:
         errors.append(f"dossiê ativo do TSH excede 12000 bytes: {DOSSIER.stat().st_size}")
+    if POSITIONING_ENTRY.stat().st_size > 8000:
+        errors.append(
+            "porta de entrada de Posicionamento Profissional e Autoridade "
+            f"excede 8000 bytes: {POSITIONING_ENTRY.stat().st_size}"
+        )
+    if POSITIONING_PROMPT.stat().st_size > 2500:
+        errors.append(
+            "apontador de Posicionamento Profissional e Autoridade "
+            f"excede 2500 bytes: {POSITIONING_PROMPT.stat().st_size}"
+        )
 
     for adapter in ADAPTERS:
         text = adapter.read_text(encoding="utf-8")

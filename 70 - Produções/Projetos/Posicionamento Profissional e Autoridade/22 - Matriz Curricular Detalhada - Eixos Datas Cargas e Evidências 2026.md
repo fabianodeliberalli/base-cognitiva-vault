@@ -2,7 +2,7 @@
 id: AUT-22
 titulo: Matriz Curricular Detalhada — Eixos, Cronologia, Cargas e Evidências
 tipo: matriz-curricular-detalhada
-status: fonte-de-consulta-interna
+status: referencia-curricular-detalhada-revisavel
 projeto: Posicionamento Profissional e Autoridade Autoral
 data: 2026-08-21
 autor: Fabiano Deliberalli
@@ -17,13 +17,13 @@ tags:
   - evidências
 ---
 
-# Governança de consulta
+# Função desta nota
 
-Esta nota é a fonte única de conteúdo para a reconstrução detalhada do percurso curricular. Sua governança está definida em [[00 - Governança Curricular - Fonte Única e Derivação por Contexto 2026]].
+Esta nota reúne o conteúdo detalhado disponível para reconstruir o percurso curricular. Deve ser consultada quando a tarefa exigir formações, datas, cargas e evidências, sem excluir correções posteriores de Fabiano nem outras fontes pertinentes.
 
 Toda consulta futura sobre formações, diplomas, certificados, datas, cargas horárias, docência ou produção de materiais públicos deve começar pela nota de governança e continuar nesta matriz. Os dossiês documentais servem para conferir literalidade, datas, cargas e natureza dos registros; as bios e currículos narrativos são derivações por contexto.
 
-Quando houver conflito entre esta matriz, notas históricas e textos narrativos, deve prevalecer a correção posterior confirmada por Fabiano e a hierarquia estabelecida na nota de governança. Registros documentais com vencimento ou validade temporal permanecem como marcos históricos quando a formação, autorização ou experiência ocorreu; vigência atual é uma categoria separada.
+Quando houver conflito entre esta matriz, notas históricas e textos narrativos, considerar primeiro a correção posterior confirmada por Fabiano, a natureza das fontes e o contexto da tarefa. Registros documentais com vencimento ou validade temporal permanecem como marcos históricos quando a formação, autorização ou experiência ocorreu; vigência atual é uma categoria separada.
 
 # Finalidade
 
@@ -70,7 +70,7 @@ Cargas horárias de módulos, duplicatas e níveis que pertencem à mesma forma�
 - **Nome:** Fabiano Deliberalli.
 - **Profissão:** psicólogo clínico e psicoterapeuta.
 - **Registro:** CRP 06/98630.
-- **Formulação temporal canônica:** **mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas e consolidada com a Psicologia.**
+- **Formulação temporal registrada em 21 de agosto de 2026:** **mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas e consolidada com a Psicologia.**
 - **Posicionamento:** corpo, trauma, consciência e espiritualidade na compreensão e tradução da experiência humana.
 - **Núcleo autoral:** traduzir experiências humanas complexas sem reduzi-las prematuramente a diagnóstico, crença ou explicação única.
 
@@ -118,7 +118,7 @@ Cargas horárias de módulos, duplicatas e níveis que pertencem à mesma forma�
 - **Documentação:** monografia e folha de identificação institucional arquivadas; certificado físico atualmente não disponível.
 - **Função curricular:** formação concluída que articula Psicologia, Psicanálise, espiritualidade, normalidade, patologia e perspectivas transpessoais.
 
-**Formulação obrigatória para versões públicas:**
+**Formulação proposta naquela etapa para versões públicas:**
 
 > **Pós-graduação em Psicologia Transpessoal pela FACIS — Faculdade de Ciências da Saúde de São Paulo. Formação concluída em 2010, com Trabalho de Conclusão de Curso entregue e certificado emitido em 2011.**
 
@@ -347,7 +347,7 @@ Há certificados históricos de terapeuta certificado EMDR com validade impressa
 
 ## 1. Hipnose clínica e terapêutica
 
-**Formulação curricular corrigida e obrigatória:**
+**Formulação curricular corrigida naquela etapa:**
 
 > **Hipnose clínica e terapêutica: formação continuada com estudos junto a Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sophia Bauer. Esse conjunto integra estudos de psicoterapia, linguagem, comunicação e processos de mudança.**
 
@@ -570,7 +570,7 @@ Não somar:
 9. PNL não deve ser apagada: deve ser organizada no eixo de linguagem, comunicação e mudança.
 10. Reiki, constelações, radiestesia e outros repertórios não devem desaparecer do dossiê; devem ocupar o eixo histórico adequado, sem liderar a persona clínica.
 
-# Formulações públicas canônicas
+# Formulações públicas registradas naquela etapa
 
 ## Psicologia Transpessoal
 
@@ -616,7 +616,7 @@ Antes de gerar qualquer currículo, bio ou apresentação:
 1. consultar esta matriz;
 2. selecionar o eixo pertinente;
 3. verificar data, carga e natureza do documento;
-4. preservar as formulações canônicas;
+4. preservar as formulações anteriores como material consultável e adaptar a redação à tarefa;
 5. separar formação, experiência, docência, supervisão e vínculo;
 6. não reduzir uma formação específica a uma expressão genérica;
 7. não apagar um marco histórico por não ser o eixo frontal da persona;

@@ -2,7 +2,7 @@
 id: AUT-09
 titulo: Prioridades Estratégicas e Mapa de Execução
 tipo: roadmap
-status: fases-0-e-1-consolidadas
+status: plano-de-trabalho-revisavel
 projeto: Posicionamento Profissional e Autoridade Autoral
 data: 2026-08-21
 autor: Fabiano Deliberalli
@@ -73,7 +73,7 @@ Critério de conclusão:
 
 > Todas as versões parecem expressões da mesma pessoa e cada uma responde ao contexto sem omissões enganosas ou excesso de informação.
 
-**Estado em 21/08/2026:** núcleo concluído. A assinatura pública canônica e as bios por contexto estão em [[05 - Versões Públicas de Bio e Currículo]]; a aplicação ao site está em [[17 - Reestruturação do Site/00 - Estado, Decisões e Continuidade]].
+**Estado em 21/08/2026:** núcleo concluído naquela etapa. A assinatura pública e as bios por contexto registradas então estão em [[05 - Versões Públicas de Bio e Currículo]]; a aplicação ao site está em [[17 - Reestruturação do Site/00 - Estado, Decisões e Continuidade]].
 
 ## Fase 2 — Infraestrutura de credibilidade
 
@@ -219,7 +219,7 @@ Documentação educacional (8) ← Pipeline CEEP (9)
 ## Primeiros 30 dias
 
 - manter as fronteiras consolidadas;
-- aplicar a frase canônica ao site e aos perfis;
+- adaptar a frase de referência ao site e aos perfis;
 - implementar as bios contextuais;
 - avançar na infraestrutura de credibilidade;
 - preparar o piloto dos três pilares editoriais.
@@ -280,6 +280,6 @@ Uma nova formação só deve entrar como prioridade quando preencher uma lacuna 
 # Checkpoint de 21/08/2026
 
 - **Fase 0:** concluída — regimes de clínica, CEEP, curso, mídia e academia diferenciados.
-- **Fase 1:** núcleo concluído — identidade, formulação temporal, assinatura canônica, bios e currículo-mestre normalizados.
+- **Fase 1:** núcleo concluído naquela etapa — identidade, formulação temporal, assinatura, bios e currículo-mestre organizados.
 - **Site:** arquitetura e dossiê operacional atualizados; execução técnica deve ocorrer em homologação.
-- **Próxima dependência:** aplicar as formulações canônicas ao site e perfis e iniciar Lattes, ORCID, bibliografia pública e presença editorial.
+- **Próxima dependência registrada em 21/08/2026:** adaptar as formulações de referência ao site e perfis e iniciar Lattes, ORCID, bibliografia pública e presença editorial.

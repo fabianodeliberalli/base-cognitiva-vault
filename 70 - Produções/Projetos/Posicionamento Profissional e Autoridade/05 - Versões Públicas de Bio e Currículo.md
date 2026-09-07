@@ -2,7 +2,7 @@
 id: AUT-05
 titulo: Versões Públicas de Bio e Currículo
 tipo: banco-de-versoes-publicas
-status: canonico-para-uso-publico
+status: banco-de-versoes-revisaveis
 projeto: Posicionamento Profissional e Autoridade Autoral
 data: 2026-08-21
 autor: Fabiano Deliberalli
@@ -11,14 +11,14 @@ tags:
   - currículo
   - mídia
   - site
-  - canonico
+  - versões-de-trabalho
 ---
 
-# Autoridade desta nota
+# Função desta nota
 
-Esta é a fonte vigente para bios, apresentações, perfis e textos institucionais. Quando houver divergência com versões anteriores, prevalecem as formulações marcadas como canônicas nesta nota e o currículo-mestre [[15 - Currículo Profissional Consolidado 2026]].
+Este é um banco de versões já elaboradas para bios, apresentações, perfis e textos institucionais. A escolha e a adaptação dependem da tarefa atual e das decisões mais recentes de Fabiano. O currículo narrativo em [[15 - Currículo Profissional Consolidado 2026]] pode oferecer contexto adicional, sem impedir novas formulações.
 
-# Núcleo público canônico
+# Núcleo público de referência
 
 Fonte ampliada vigente: [[18 - Currículo Profissional Ampliado Consolidado - Versão Pública 2026]].
 
@@ -58,7 +58,7 @@ Aplicações específicas:
 
 > Fabiano Deliberalli é psicólogo clínico e psicoterapeuta (CRP 06/98630), professor e palestrante. Seu trabalho articula corpo, trauma, consciência e espiritualidade na compreensão e tradução de experiências humanas complexas.
 
-# Mini bio geral — canônica
+# Mini bio geral — versão de referência
 
 > Fabiano Deliberalli é psicólogo clínico e psicoterapeuta (CRP 06/98630), com mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas e consolidada com a Psicologia. É pós-graduado em Psicologia Transpessoal e em Neurociências e Comportamento pela PUCRS, com formações em Psicanálise Integrativa, EMDR, Brainspotting, hipnose clínica e terapêutica e trauma.
 >
@@ -72,7 +72,7 @@ Aplicações específicas:
 >
 > Seu trabalho acolhe situações em que compreender intelectualmente não foi suficiente para produzir mudança, processos relacionados a trauma e desorganização e experiências espirituais, existenciais ou incomuns que pedem escuta cuidadosa. A proposta é compreender o vivido, seus efeitos e significados, sem reduzir prematuramente a experiência a diagnóstico, crença ou explicação única.
 
-# Bio CEEP — canônica
+# Bio CEEP — versão de referência
 
 > Fabiano Deliberalli é psicólogo clínico e psicoterapeuta (CRP 06/98630), pós-graduado em Psicologia Transpessoal e em Neurociências e Comportamento pela PUCRS. Sua formação reúne Psicanálise Integrativa, EMDR, Brainspotting, hipnose, Neurobiologia Interpessoal e formação continuada em trauma e reprocessamento, incluindo programa de 216 horas pelo Instituto Aleces e supervisão continuada com Mário Salvador.
 >
@@ -129,9 +129,4 @@ A assinatura vigente é:
 
 # Regra final
 
-A versão pública deve ser escolhida por contexto, mas identidade, formulação temporal e assinatura canônica não devem variar. Informações confirmadas pelo autor não devem ser rebaixadas por uma IA à condição de dúvida apenas porque um documento físico não está atualmente acessível.
-
-
-# Fonte curricular vigente
-
-Para qualquer consulta, revisão ou produção curricular, consultar primeiro [[00 - Governança Curricular - Fonte Única e Derivação por Contexto 2026]] e depois [[22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]]. Esta nota é fonte documental, histórica ou derivada conforme sua finalidade; não deve competir com a matriz como fonte de organização da trajetória.
+A versão pública deve ser escolhida e adaptada ao contexto, considerando a identidade, a trajetória e a intenção atual de Fabiano. Informações confirmadas pelo autor não devem ser rebaixadas por uma IA à condição de dúvida apenas porque um documento físico não está atualmente acessível.

@@ -2,7 +2,7 @@
 id: AUT-02
 titulo: Linha do Tempo Profissional
 tipo: linha-do-tempo
-status: consolidado-com-datas-a-confirmar
+status: referencia-cronologica-revisavel
 projeto: Posicionamento Profissional e Autoridade Autoral
 data: 2026-08-21
 autor: Fabiano Deliberalli

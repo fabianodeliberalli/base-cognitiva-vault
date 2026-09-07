@@ -1,20 +1,22 @@
 ---
-id: AUT-00
+id: AUT-GOV-2026-08
 titulo: Governança Curricular — Fonte Única e Derivação por Contexto
 tipo: governanca-curricular
-status: vigente
+status: historico-consultivo
 projeto: Posicionamento Profissional e Autoridade Autoral
 data: 2026-08-21
 autor: Fabiano Deliberalli
 tags:
   - currículo
   - governança
-  - fonte-unica
-  - obisidian
+  - referência-histórica
+  - obsidian
   - posicionamento
 ---
 
 # Finalidade
+
+> **Leitura atual:** esta nota preserva a organização adotada em 21 de agosto de 2026. Suas hierarquias e formulações obrigatórias são memória do processo, não comandos ativos. Para retomar o projeto, usar [[00 - LEIA PRIMEIRO - Estado Atual e Continuidade]] e consultar os materiais necessários à tarefa.
 
 Esta nota estabelece como todas as consultas, revisões e produções curriculares do vault devem ser orientadas. Seu objetivo é eliminar divergências entre notas históricas, auditorias documentais, versões públicas e informações autobiográficas posteriormente corrigidas por Fabiano.
 

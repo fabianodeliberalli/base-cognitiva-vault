@@ -2,7 +2,7 @@
 id: AUT-04
 titulo: Experiência Clínica, Docente e Institucional
 tipo: mapa-de-experiencia
-status: consolidado-com-detalhes-a-completar
+status: referencia-de-experiencia-revisavel
 projeto: Posicionamento Profissional e Autoridade Autoral
 data: 2026-08-21
 autor: Fabiano Deliberalli

@@ -2,7 +2,7 @@
 id: AUT-06
 titulo: Posicionamento Profissional e Arquitetura de Autoridade
 tipo: estrategia-de-posicionamento
-status: estrutura-governante-e-formulacao-canonica
+status: diagnostico-estrategico-revisavel
 projeto: Posicionamento Profissional e Autoridade Autoral
 data: 2026-08-21
 autor: Fabiano Deliberalli
@@ -148,7 +148,7 @@ Base: história incomum, temas relevantes e capacidade de tradução. Risco: cor
 - Reconhecer controvérsias sem escrever um currículo defensivo.
 - Demonstrar rigor por distinções, referências e limites, não por excesso de ressalvas.
 
-# Formulação pública canônica
+# Formulação pública de referência em 21 de agosto de 2026
 
 > **Corpo, trauma, consciência e espiritualidade na compreensão e tradução da experiência humana.**
 
