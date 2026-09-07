@@ -8,4 +8,4 @@ Antes de atuar neste repositório, leia:
 Para **Traduzindo o Ser Humano**, use:
 `90 - Sistema/Governança de IA/11 - Contexto Mínimo - Traduzindo o Ser Humano.md`.
 
-Não carregue o vault inteiro. Recupere fontes sob demanda. Fabiano Deliberalli é o decisor final em qualquer conflito. Trabalhe em branch e não integre à `main` sem sua homologação.
+Não carregue o vault inteiro. Recupere fontes sob demanda. Trate estados documentais como referências revisáveis: não crie cânones nem peça aprovações para ajustes criativos reversíveis. Fabiano Deliberalli decide conflitos reais. Trabalhe em branch e não integre à `main` sem sua homologação.
