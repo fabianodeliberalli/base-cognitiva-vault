@@ -1,7 +1,7 @@
 ---
 tipo: auditoria-de-referencias-estruturais
 projeto: Traduzindo o Ser Humano
-status: tres-decisoes-autorais-confirmadas
+status: decisoes-aplicadas-na-branch
 data: 2026-09-07
 autoridade_de_decisao: Fabiano Deliberalli
 escopo: leitura integral dos arquivos Markdown do núcleo do curso
@@ -22,7 +22,8 @@ A regra validada para esta auditoria é:
 - as variantes antigas identificadas como aulas 2.1 e 2.2 permanecem como registros históricos e fontes possíveis;
 - o subtítulo vigente é **Traduzindo o Ser Humano — Da compreensão acumulada à presença que sustenta**;
 - o subtítulo **Da compreensão acumulada à mudança vivida** permanece histórico ou matéria-prima de comunicação;
-- a duração de 12 semanas é histórica e não governa a oferta atual.
+- a duração de 12 semanas é uma estimativa provisória oriunda de etapas anteriores; a duração permanece aberta e dependerá da construção das aulas e de fatores ainda em curso;
+- estados como “canônico”, “final”, “congelado” ou equivalentes não limitam a liberdade de Fabiano para revisar o projeto e não podem ser criados por iniciativa da IA.
 
 ## Escopo e preservação
 
@@ -57,7 +58,7 @@ Fabiano Deliberalli confirmou que a organização inicial permanece somente como
 
 Essa disponibilidade não restabelece a organização inicial como arquitetura, não cria correspondência obrigatória e não transporta automaticamente sua numeração para as 54 aulas.
 
-## Conflito principal na camada ativa
+## Conflito principal identificado e mediado
 
 Os documentos abaixo ainda apresentam a estrutura inicial como arquitetura vigente de desenvolvimento, integração ou rastreabilidade, ou tornam obrigatória a ligação entre duas arquiteturas:
 
@@ -105,9 +106,9 @@ Fabiano Deliberalli confirmou que os códigos 2.1 e 2.2, quando identificam anti
 
 Esses materiais podem contribuir individualmente para qualquer uma das 54 aulas, conforme pertinência, sem determinar numeração, posição ou ordem de gravação. Ocorrências de 2.1 ou 2.2 como versão, seção ou outro identificador técnico não são afetadas por esta decisão.
 
-## Conflito de identidade vigente
+## Conflito de identidade identificado e mediado
 
-O subtítulo anterior ainda aparece como “subtítulo-base” ou componente oficial em documentos ativos do curso e da identidade visual, entre eles:
+Na leitura inicial, o subtítulo anterior aparecia como “subtítulo-base” ou componente oficial nos seguintes documentos:
 
 - [[00 - Dossiê de Contexto e Arquitetura Mestre]];
 - [[01 - Protocolo de Continuidade Integral e Abertura de Novos Chats]];
@@ -135,19 +136,32 @@ As seguintes classes de materiais devem conservar conteúdo e formulações de �
 
 Quando necessário, o tratamento adequado é acrescentar contexto de status, não reescrever a história.
 
-## Correções seguras após mediação
+## Decisão autoral sobre a duração confirmada em 7 de setembro de 2026
 
-Depois de aprovação autoral, a correção pode ser realizada sem perda de conteúdo por meio de:
+Doze semanas permanece como estimativa provisória, não como duração definitiva, promessa ou cronograma vigente. A definição dependerá da construção posterior das 54 aulas, de seu volume, ritmo, práticas, materiais, forma de liberação e outros fatores ainda em curso.
 
-1. atualizar primeiro os documentos de entrada e continuidade;
-2. substituir a ideia de “duas arquiteturas vigentes” por “uma arquitetura vigente e um acervo estrutural histórico”;
-3. manter os títulos e conteúdos da estrutura inicial como fontes consultáveis;
-4. tornar qualquer matriz de reaproveitamento uma ferramenta opcional de proveniência, sem correspondência obrigatória;
-5. retirar tarefas e portões que façam a produção atual seguir obrigatoriamente as 14 unidades;
-6. atualizar o subtítulo somente nos documentos ativos;
-7. marcar claramente como históricas as formulações anteriores nos registros que precisam permanecer intactos;
-8. validar links, referências cruzadas e regras de contexto antes de qualquer consolidação.
+As onze fontes que mencionam doze semanas mantêm seu conteúdo e receberam uma nota de leitura provisória.
 
-## Ponto de mediação
+## Princípio autoral de fluidez confirmado em 7 de setembro de 2026
 
-Nenhuma correção substantiva foi aplicada aos documentos listados. A próxima ação depende da decisão de Fabiano Deliberalli sobre o tratamento da antiga estrutura nos documentos ativos.
+Fabiano determinou que o repositório e a skill devem facilitar a construção, sem obrigá-lo a administrar rigidez criada por assistentes.
+
+Aplicação:
+
+- nenhuma IA pode declarar sua própria formulação como canônica, oficial, final, congelada, fechada, vinculante ou imutável;
+- estados antigos com esses nomes são fotografias de uma etapa e continuam revisáveis por Fabiano;
+- aprovação autoral indica referência atual de trabalho, não impossibilidade de revisão;
+- contribuições criativas e reversíveis não exigem cadeias de aprovação;
+- consultas ficam reservadas a conflitos autorais reais, risco de perda, falsa atribuição de decisão ou ação irreversível;
+- limites firmes permanecem somente para proteger autoria, conteúdo, recuperação e integração à ramificação principal.
+
+## Correções implementadas na ramificação de trabalho
+
+- documentos de entrada e continuidade receberam a arquitetura atual;
+- o patrimônio inicial permaneceu integralmente consultável;
+- as antigas aulas 2.1 e 2.2 foram marcadas como referências históricas;
+- o subtítulo atual foi aplicado às fontes ativas, preservando versões anteriores;
+- a duração de doze semanas foi marcada como estimativa provisória;
+- o guia comum, a skill e os adaptadores de ChatGPT, Codex e Claude passaram a orientar trabalho leve, criativo e revisável;
+- nenhum arquivo foi excluído, movido ou renomeado;
+- a ramificação principal permanece sem alteração.
