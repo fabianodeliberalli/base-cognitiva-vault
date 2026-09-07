@@ -1,6 +1,6 @@
 ---
 tipo: baseline-preservacao
-status: congelado
+status: snapshot-de-restauracao-preservado
 capturado_em: 2026-09-07
 repositorio: fabianodeliberalli/base-cognitiva-vault
 branch_origem: main
