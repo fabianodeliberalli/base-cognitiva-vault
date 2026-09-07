@@ -266,7 +266,7 @@ A correção foi iniciada em ramificação isolada:
 - a rota de visão geral que incluía o antigo Dossiê caiu de aproximadamente 123.555 para 24.509 bytes, redução próxima de 80%;
 - a habilidade permaneceu estruturalmente válida;
 - o verificador passou sem erros ou avisos no estado correto;
-- um teste negativo reintroduziu a antiga afirmação de autoridade da estrutura 7/14 e foi rejeitado pelo verificador.
+- testes negativos reintroduziram a antiga autoridade da estrutura 7/14 na porta de entrada e no Dossiê; ambos foram rejeitados pelo verificador.
 
 A segunda integração permanece pendente de comparação e validação final de Fabiano.
 
