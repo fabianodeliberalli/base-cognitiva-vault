@@ -1,19 +1,19 @@
 ---
 tipo: governanca-ia
-status: ativo-na-branch
+status: referencia-de-implementacao-revisavel
 autoridade_final: Fabiano Deliberalli
 criado_em: 2026-09-07
 baseline_main: 0efe9721b0954d5eb8a06a33f0575b4dcc41edee
 branch: refactor/governanca-contexto-ia-2026-09
 ---
 
-# Plano de implementação e mediação autoral
+# Plano leve de implementação e mediação autoral
 
 ## Objetivo
 
 Reduzir sobrecarga, redundância e contradições nas instruções usadas por ChatGPT/Codex e Claude, preservando integralmente o conteúdo do vault e melhorando a contribuição ao projeto **Traduzindo o Ser Humano (TSH)** e aos demais trabalhos apoiados por GitHub e Obsidian.
 
-Este documento governa somente a branch de reforma até homologação expressa de Fabiano. Nada desta branch será integrado à `main` sem sua aprovação.
+Este documento registra a direção atual da reforma e pode ser simplificado ou revisto por Fabiano. Nada desta branch será integrado à `main` sem sua aprovação.
 
 ## Autoridade
 
@@ -59,16 +59,9 @@ O item fica bloqueado. Nenhuma das alternativas será aplicada antes da decisão
 
 Inclui inventário, checagem de links, medição de tamanho, normalização segura de metadados, criação de relatórios, validações e edições isoladas na branch que não alterem conteúdo autoral. Essas ações serão documentadas no relatório de mudanças.
 
-## Pacote obrigatório para mediação
+## Consulta breve quando houver conflito real
 
-Cada consulta a Fabiano deverá conter:
-
-1. questão em linguagem direta;
-2. evidência A e evidência B, com caminhos e datas quando disponíveis;
-3. consequência prática de cada interpretação;
-4. recomendação fundamentada;
-5. duas ou três alternativas mutuamente exclusivas;
-6. indicação explícita de que o item permanece sem alteração até a decisão.
+Somente conflitos materiais exigem pausa. A consulta deve explicar, em linguagem direta, o que diverge, o efeito prático e a recomendação. Apresentar poucas alternativas quando elas ajudarem a decisão, sem criar pacote, relatório ou ritual obrigatório.
 
 ## Regras de preservação
 
@@ -80,22 +73,20 @@ Cada consulta a Fabiano deverá conter:
 - Alterações estruturais deverão passar por comparação antes/depois e teste de links.
 - A integração à `main` depende de diff legível, testes e homologação de Fabiano.
 
-## Fluxo de implementação
+## Direção flexível de implementação
 
-| Fase | Entrega | Porta de saída |
-|---|---|---|
-| 0 | Baseline e branch isolada | commit-base verificado |
-| 1 | Inventário de documentos, decisões e instruções | cobertura e classificação verificadas |
-| 2 | Matriz de conflitos e precedência | conflitos materiais decididos por Fabiano |
-| 3 | Arquitetura comum de contexto | proposta homologada |
-| 4 | Camada ativa do TSH | links e conteúdo preservados |
-| 5 | Adaptadores mínimos para as IAs | ausência de duplicação normativa |
-| 6 | Skills estritamente justificadas | testes e manutenção documentados |
-| 7 | Regressão e auditoria final | aprovação expressa antes da `main` |
+- preservar um ponto seguro de restauração;
+- reduzir instruções duplicadas e carga inicial;
+- corrigir conflitos materiais após decisão de Fabiano;
+- manter um guia comum revisável e adaptadores curtos;
+- usar somente a skill necessária, com comportamento testável;
+- verificar preservação antes de solicitar integração à `main`.
+
+A ordem pode mudar conforme a demanda. Essas frentes não são portões para o trabalho criativo.
 
 ## Estado inicial
 
-- Fase 0: concluída.
-- Fase 1: em andamento.
+- Ponto de restauração: preservado.
+- Auditoria e simplificação: em andamento.
 - Exclusões, movimentos e renomeações: bloqueados.
-- Conflitos materiais conhecidos: serão registrados em matriz própria e submetidos a Fabiano antes de correção.
+- Conflitos materiais são apresentados a Fabiano apenas quando uma escolha real for necessária.
