@@ -1,6 +1,6 @@
 ---
 tipo: matriz-de-conflitos
-status: aguardando-mediacao
+status: mediado-em-implementacao
 autoridade_final: Fabiano Deliberalli
 baseline: 0efe9721b0954d5eb8a06a33f0575b4dcc41edee
 atualizado_em: 2026-09-07
@@ -46,3 +46,24 @@ Para cada item, registrar:
 - alcance;
 - documentos autorizados a mudar;
 - restrições adicionais.
+
+
+# Decisões de mediação — 2026-09-07
+
+## C-001 — decisão
+
+**Opção adotada:** marcar e redirecionar.
+
+**Justificativa operacional:** preserva o protocolo histórico e sua memória substantiva, elimina a instrução contraditória no ponto de execução e concentra o ritual vigente no protocolo leve e no contrato comum. Auditorias passam a ocorrer em marcos de consolidação, não como barreira a cada conversa.
+
+**Alcance autorizado:** ajustar marcação e redação operacional do protocolo antigo sem apagar seu conteúdo autoral.
+
+## C-002 — decisão
+
+**Opção adotada:** permitir adaptadores mínimos.
+
+**Justificativa operacional:** possibilita que Codex e Claude encontrem automaticamente a mesma governança, enquanto uma fonte comum impede divergência entre instruções. O README passa a permitir somente adaptadores mínimos e exige justificativa e homologação para qualquer skill ou script adicional.
+
+**Alcance autorizado:** criar `AGENTS.md`, `CLAUDE.md`, contrato comum e fichas mínimas de projeto; alterar a regra correspondente do README.
+
+**Restrição:** adaptadores não devem reproduzir protocolos, decisões autorais ou contexto extenso.
