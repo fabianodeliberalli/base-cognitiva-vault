@@ -660,8 +660,8 @@ Leitura obrigatória inicial:
 6. [[02 - Matriz Integrada - Quatro Movimentos, Seis Fases e Jornada Fenomenológica]];
 7. [[09 - Esqueleto Estrutural da Primeira Oferta Integral para Mentoria]];
 8. [[00 - Índice Mestre dos Kits de Aula]];
-9. [[Aula 0.2 - Índice do Kit]];
-10. [[Aula 1.1 - Índice do Kit]];
+9. [[70 - Produções/Cursos/Curso - Nome Provisório/60 - Arquitetura Pedagógica/Aula 0.2 - Percurso do EIXO/00 - Índice do Kit|Aula 0.2 - Índice do Kit]];
+10. [[70 - Produções/Cursos/Curso - Nome Provisório/60 - Arquitetura Pedagógica/Aula 1.1 - A experiência em sua multidimensionalidade/00 - Índice do Kit|Aula 1.1 - Índice do Kit]];
 11. [[02 - Roteiro do Educador v1]];
 12. [[08 - Critérios de Pilotagem v1]];
 13. [[09 - Registro de Produção Visual e QA v1]].
