@@ -2,7 +2,7 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: validado-na-branch
-versao: "0.3"
+versao: "0.4"
 atualizado_em: 2026-09-07
 ---
 
@@ -17,6 +17,7 @@ Use esta ficha para começar. Expanda a leitura somente conforme a tarefa.
 - **9 módulos / 54 aulas** são a única arquitetura vigente. Esse é o formato atual, ainda a ser estruturado para posterior gravação.
 - A organização inicial de **7 módulos / 14 aulas** não é mais estrutura. Seus títulos e conteúdos permanecem como acervo histórico de consulta.
 - Durante a estruturação das 54 aulas para posterior gravação, o acervo inicial pode ser consultado como fonte qualificada para **ampliações, correlações e fundamentações**. Cada contribuição será escolhida por necessidade e pertinência ao conteúdo da aula, sem correspondência obrigatória, sem transportar a numeração antiga e sem restaurar a estrutura inicial como arquitetura.
+- Quando **2.1** ou **2.2** identificarem antigas aulas ou unidades, são apenas códigos históricos. Todas as variantes de títulos e conteúdos devem ser preservadas; nenhuma é aula vigente. Elas podem ser consultadas individualmente conforme pertinência, sem determinar numeração, posição ou ordem de gravação nas 54 aulas.
 - O subtítulo-base vigente é **Da compreensão acumulada à presença que sustenta**.
 - Espiritualidade é dimensão explícita, afirmativa, plural e não dogmática. A identidade integrada de Fabiano não deve ser neutralizada por heurísticas genéricas.
 - “Competência incorporada” é conceito de aprofundamento; não deve virar headline fria por padrão.
