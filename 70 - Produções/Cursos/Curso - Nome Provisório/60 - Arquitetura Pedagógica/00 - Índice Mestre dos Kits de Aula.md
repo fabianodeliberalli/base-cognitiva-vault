@@ -83,8 +83,8 @@ A tabela abaixo diz respeito exclusivamente às unidades curriculares nucleares.
 | Unidade curricular | Estado | Ponto de entrada |
 |---|---|---|
 | Unidade 0.1 — Por que compreender ainda pode não ser suficiente? | encerrada curricularmente em v1.0; sete Partes e quatro macroblocos aprovados; auditoria concluída; 48 slides provisórios; gravação não autorizada | [[Aula 0.1 - Índice do Kit]] |
-| Unidade 0.2 — Percurso do EIXO | kit documental organizado; apresentação visual produzida | [[Aula 0.2 - Índice do Kit]] |
-| Unidade 1.1 — A experiência em sua multidimensionalidade | protótipo reaberto para revisão e reorganização curricular antes da pilotagem; P2 e P6 aprovados governam a revisão | [[Aula 1.1 - Índice do Kit]] |
+| Unidade 0.2 — Percurso do EIXO | kit documental organizado; apresentação visual produzida | [[70 - Produções/Cursos/Curso - Nome Provisório/60 - Arquitetura Pedagógica/Aula 0.2 - Percurso do EIXO/00 - Índice do Kit|Aula 0.2 - Índice do Kit]] |
+| Unidade 1.1 — A experiência em sua multidimensionalidade | protótipo reaberto para revisão e reorganização curricular antes da pilotagem; P2 e P6 aprovados governam a revisão | [[70 - Produções/Cursos/Curso - Nome Provisório/60 - Arquitetura Pedagógica/Aula 1.1 - A experiência em sua multidimensionalidade/00 - Índice do Kit|Aula 1.1 - Índice do Kit]] |
 | Unidade 1.2 — Do vivido à Tradução | P2 e núcleo mínimo de P6 fechados; produção plena aguarda reorganização da Aula 1.1 e definição autoral da sequência de pilotagem | [[Guia Mestre de Incorporação e Rastreabilidade Curricular]] |
 | Unidades curriculares 2.1–6.2 | arquitetura de 14 unidades reconciliada; produção ainda não iniciada; dependem dos portões específicos | [[09 - Esqueleto Estrutural da Primeira Oferta Integral para Mentoria]] |
 
@@ -124,7 +124,7 @@ Ver [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]] e [[01 - Protocolo 
 - **Módulo ativo:** Módulo 0;
 - **Unidade curricular encerrada:** 0.1 — Por que compreender ainda pode não ser suficiente? — consolidada em v1.0 e com auditoria concluída;
 - **Unidade curricular ativa:** 0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança;
-- **procedimento imediato:** abrir o [[Aula 0.2 - Índice do Kit]] e os materiais vigentes da Unidade 0.2; retomar sua elaboração progressiva sem reabrir a Unidade 0.1;
+- **procedimento imediato:** abrir o [[70 - Produções/Cursos/Curso - Nome Provisório/60 - Arquitetura Pedagógica/Aula 0.2 - Percurso do EIXO/00 - Índice do Kit|Aula 0.2 - Índice do Kit]] e os materiais vigentes da Unidade 0.2; retomar sua elaboração progressiva sem reabrir a Unidade 0.1;
 - **Unidade curricular 0.1:** 48 slides provisórios; leitura oral, storyboard, piloto e autorização de gravação permanecem como etapas audiovisuais posteriores;
 - **Unidade curricular 1.1:** permanece protótipo revisável e será auditada no Módulo 1;
 - **P2:** aprovado integralmente;
