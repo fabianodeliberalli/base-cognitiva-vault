@@ -2,7 +2,7 @@
 id: AUT-03
 titulo: Formação, Evidências e Fontes Documentais
 tipo: matriz-de-fontes
-status: normalizado
+status: referencia-de-fontes-revisavel
 projeto: Posicionamento Profissional e Autoridade Autoral
 data: 2026-08-21
 autor: Fabiano Deliberalli
@@ -23,7 +23,7 @@ Esta nota registra a natureza das fontes utilizadas no currículo. Ela não dele
 - **CONFIRMADO — FONTE AUTOBIOGRÁFICA:** informação atual fornecida ou corrigida por Fabiano. É válida para currículo e comunicação pública.
 - **CONFIRMADO — FONTE DOCUMENTAL:** há diploma, certificado, registro ou documento disponível no acervo.
 - **CONFIRMADO — FONTES COMBINADAS:** informação autobiográfica apoiada por documentos totais ou parciais.
-- **FORMULAÇÃO PÚBLICA CANÔNICA:** redação aprovada para uso público; deriva das fontes, mas não é uma nova credencial.
+- **FORMULAÇÃO PÚBLICA DE REFERÊNCIA:** redação aprovada em determinado contexto; deriva das fontes, mas não é uma nova credencial nem impede revisões.
 - **QUESTÃO DE PRECISÃO OU USO ESPECÍFICO:** falta apenas literalidade, data ou documento que poderá ser solicitado por terceiro em contexto determinado. Não invalida o dado biográfico.
 - **HISTÓRICO:** versão anterior preservada no Git, mas não vigente.
 
@@ -31,7 +31,7 @@ Esta nota registra a natureza das fontes utilizadas no currículo. Ela não dele
 
 # Matriz principal
 
-Fonte organizadora obrigatória: [[22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]].
+Referência organizadora detalhada: [[22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]].
 
 | Informação | Estado normalizado | Base disponível | Regra de uso |
 |---|---|---|---|
@@ -86,13 +86,8 @@ Os dossiês documentais descrevem o que cada arquivo mostra. Esta matriz acresce
 7. Não somar cargas horárias potencialmente sobrepostas.
 8. Não confundir vigência administrativa com existência histórica de uma formação.
 
-# Formulação pública canônica derivada
+# Formulação pública de referência
 
 > **Corpo, trauma, consciência e espiritualidade na compreensão e tradução da experiência humana.**
 
 > Fabiano Deliberalli é psicólogo clínico e psicoterapeuta. Seu trabalho articula corpo, trauma, consciência e espiritualidade para compreender, traduzir e favorecer a integração de experiências humanas complexas, com rigor clínico, abertura e discernimento.
-
-
-# Fonte curricular vigente
-
-Para qualquer consulta, revisão ou produção curricular, consultar primeiro [[00 - Governança Curricular - Fonte Única e Derivação por Contexto 2026]] e depois [[22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]]. Esta nota é fonte documental, histórica ou derivada conforme sua finalidade; não deve competir com a matriz como fonte de organização da trajetória.

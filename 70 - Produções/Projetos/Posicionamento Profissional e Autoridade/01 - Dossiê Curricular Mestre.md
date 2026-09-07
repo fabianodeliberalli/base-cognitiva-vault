@@ -2,7 +2,7 @@
 id: AUT-01
 titulo: Dossiê Curricular Mestre
 tipo: dossie-curricular
-status: consolidado-e-normalizado
+status: referencia-curricular-revisavel
 projeto: Posicionamento Profissional e Autoridade Autoral
 data: 2026-08-21
 autor: Fabiano Deliberalli
@@ -161,7 +161,7 @@ A versão de referência para divulgação e derivação de currículos é [[15 
 
 A biografia profissional não é limitada ao conjunto de certificados atualmente acessíveis. Informações confirmadas diretamente por Fabiano integram esta fonte curricular oficial e podem ser utilizadas em versões públicas e formais com redação precisa. Os documentos disponíveis cumprem função de arquivo, literalidade e suporte para usos externos que exijam comprovação específica; não constituem autorização para a IA validar ou invalidar a trajetória.
 
-Formulação pública canônica:
+Formulação pública de referência em 21 de agosto de 2026:
 
 > **Corpo, trauma, consciência e espiritualidade na compreensão e tradução da experiência humana.**
 
@@ -169,8 +169,3 @@ Formulação pública canônica:
 ## Matriz detalhada de consulta
 
 A relação completa de formações, datas, cargas horárias, documentos, duplicatas, estados de comprovação e regras de uso está em [[22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]].
-
-
-# Fonte curricular vigente
-
-Para qualquer consulta, revisão ou produção curricular, consultar primeiro [[00 - Governança Curricular - Fonte Única e Derivação por Contexto 2026]] e depois [[22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]]. Esta nota é fonte documental, histórica ou derivada conforme sua finalidade; não deve competir com a matriz como fonte de organização da trajetória.

@@ -243,8 +243,3 @@ Foram encerradas como pendências de validação por IA: Psicologia Transpessoal
 # Regra de leitura conjunta — 21/08/2026
 
 A auditoria página a página descreve estritamente o PDF. A fonte curricular consolidada reúne essa camada documental e a fonte autobiográfica oficial. Ausência no PDF não equivale a inexistência biográfica.
-
-
-# Fonte curricular vigente
-
-Para qualquer consulta, revisão ou produção curricular, consultar primeiro [[00 - Governança Curricular - Fonte Única e Derivação por Contexto 2026]] e depois [[22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]]. Esta nota é fonte documental, histórica ou derivada conforme sua finalidade; não deve competir com a matriz como fonte de organização da trajetória.

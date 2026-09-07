@@ -28,7 +28,7 @@ tags:
 
 - Monografia completa: `Monografia Pos Trans revisada Cleo.doc`.
 - Versão curta com folha de rosto e identificação institucional: `Fabiano- Monografia revisada Cleo.doc`.
-- A formação, as datas de conclusão e emissão do certificado foram confirmadas diretamente por Fabiano e passam a integrar o currículo canônico.
+- A formação, as datas de conclusão e emissão do certificado foram confirmadas diretamente por Fabiano e integram as referências curriculares atuais.
 
 # Função no percurso
 
@@ -39,8 +39,3 @@ Esta formação faz a ponte entre a formação psicanalítica inicial, a gradua�
 > **Pós-graduação em Psicologia Transpessoal — FACIS. Formação concluída em 2010, com Trabalho de Conclusão de Curso entregue e certificado emitido em 2011.**
 
 A formação deve aparecer nominalmente em currículos públicos, bios, apresentações e materiais institucionais pertinentes.
-
-
-# Fonte curricular vigente
-
-Para qualquer consulta, revisão ou produção curricular, consultar primeiro [[00 - Governança Curricular - Fonte Única e Derivação por Contexto 2026]] e depois [[22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]]. Esta nota é fonte documental, histórica ou derivada conforme sua finalidade; não deve competir com a matriz como fonte de organização da trajetória.

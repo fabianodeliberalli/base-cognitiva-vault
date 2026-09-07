@@ -1,152 +1,84 @@
 ---
-id: AUT-00
+id: AUT-ENTRADA
 titulo: LEIA PRIMEIRO - Estado Atual e Continuidade
-tipo: estado-e-continuidade
-status: ativo
+tipo: contexto-minimo-do-projeto
+status: referencia-atual-revisavel
 projeto: Posicionamento Profissional e Autoridade Autoral
-data: 2026-08-21
+data: 2026-09-07
 autor: Fabiano Deliberalli
 tags:
   - posicionamento
   - currículo
   - autoridade
-  - identidade-profissional
   - continuidade
 ---
 
 # Finalidade
 
-Este projeto transforma a trajetória profissional de Fabiano Deliberalli em uma base pública organizada, verificável e reutilizável. Ele não pertence exclusivamente à clínica, ao CEEP, ao curso *Traduzindo o Ser Humano*, à produção acadêmica ou às palestras. É uma infraestrutura transversal que fornece identidade, currículo, linguagem, evidências e fronteiras para todos esses contextos.
+Esta é a porta breve de retomada do projeto **Posicionamento Profissional e Autoridade**. Seu papel é orientar a busca, não fixar um currículo definitivo nem obrigar a leitura de todo o acervo.
 
-# Diagnóstico governante
+O projeto reúne identidade profissional, trajetória, currículo, documentos comprobatórios, posicionamento, versões de comunicação e relações com a clínica, o CEEP, o curso *Traduzindo o Ser Humano*, o site, palestras e produção acadêmica.
 
-Fabiano já possui diferenciação suficiente. Seu principal risco não é parecer pouco qualificado, mas parecer excessivamente amplo quando sua trajetória é apresentada como uma lista horizontal de técnicas e formações.
+# Como trabalhar neste projeto
 
-> O próximo salto de autoridade não depende prioritariamente de novas credenciais, mas da conversão da trajetória existente em autoria, produção pública, provas rastreáveis e uma narrativa estável.
+1. Começar pela demanda atual de Fabiano.
+2. Consultar somente os materiais relacionados à tarefa.
+3. Tratar todos os documentos como referências revisáveis, versões de trabalho ou registros históricos.
+4. Usar correções e escolhas mais recentes de Fabiano para interpretar versões anteriores.
+5. Preservar materiais antigos: eles podem contribuir com títulos, conteúdos, relações e fundamentos quando forem pertinentes.
+6. Consultar Fabiano somente quando houver conflito real que altere identidade, sentido autoral, promessa, arquitetura, fato curricular ou preservação do conteúdo.
 
-Quando organizada como percurso, a trajetória deixa de parecer dispersa e passa a revelar um arco coerente:
+Nenhuma formulação, bio, currículo ou estratégia se torna imutável por estar registrada no repositório. O material pode ser ampliado, combinado, reformulado ou substituído por decisão de Fabiano.
 
-> corpo e práticas integrativas → escuta psicanalítica → Psicologia → trauma e reprocessamento → neurociência e consciência → tradução pública de experiências humanas complexas.
+# Referências atuais de trabalho
 
-# Identidade profissional de base
+- **Currículo e trajetória em forma narrativa:** [[15 - Currículo Profissional Consolidado 2026]]
+- **Detalhamento de formações, datas, cargas e evidências:** [[22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]]
+- **Cronologia profissional:** [[02 - Linha do Tempo Profissional]]
+- **Natureza das fontes e documentos:** [[03 - Formação, Evidências e Fontes Documentais]]
+- **Experiência clínica, docente e institucional:** [[04 - Experiência Clínica, Docente e Institucional]]
+- **Bios e textos públicos já elaborados:** [[05 - Versões Públicas de Bio e Currículo]]
+- **Posicionamento e estratégia:** [[06 - Posicionamento Profissional e Arquitetura de Autoridade]] e [[07 - Avaliação Crítica por Públicos]]
+- **Uso por contexto e fronteiras profissionais:** [[08 - Matriz de Uso por Contexto e Fronteiras]]
+- **Planejamento e próximos movimentos:** [[09 - Prioridades Estratégicas e Mapa de Execução]]
+- **Questões já examinadas e comprovações:** [[10 - Pendências, Comprovações e Governança]]
+- **Diplomas, certificados e auditorias:** [[12 - Documentos Comprobatórios/00 - Índice de Diplomas e Certificados|Índice de Diplomas e Certificados]]
+- **Site:** [[17 - Reestruturação do Site/00 - Estado, Decisões e Continuidade|Reestruturação do Site — estado e continuidade]]
 
-**Fabiano Deliberalli — psicólogo clínico e psicoterapeuta — CRP 06/98630.**
+Essas funções ajudam a localizar o material. Não formam uma cadeia obrigatória nem uma hierarquia que limite a autoria.
 
-Formulação temporal obrigatória:
+# Referências profissionais atuais
 
-> Mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas, e atuação como psicólogo desde 2010.
+- **Identidade:** Fabiano Deliberalli — psicólogo clínico e psicoterapeuta — CRP 06/98630.
+- **Trajetória:** mais de 30 anos de trajetória no cuidado terapêutico, desde as práticas corporais e integrativas até a Psicologia Clínica.
+- **Centralma:** as atividades presenciais do espaço terminaram em 2020; a empresa permanece registrada, aberta e operante, vinculada à psicoterapia on-line e ao faturamento dos atendimentos.
+- **Integração de saberes:** a formação acadêmica, clínica, corporal, integrativa e autoral faz parte da trajetória e não deve ser reduzida a uma identidade exclusivamente acadêmica.
 
-Não utilizar formulações que sugiram mais de 30 anos de exercício da Psicologia.
+As formulações públicas existentes são pontos de partida adaptáveis ao contexto, e não frases obrigatórias para todas as entregas.
 
-# Princípios de organização
+# Estado da organização
 
-1. Separar a natureza das fontes sem criar uma hierarquia automática de validade biográfica: registros documentais disponíveis, informações autobiográficas confirmadas pelo autor, formulações públicas canônicas, hipóteses estratégicas, questões operacionais e versões históricas.
-2. Não conferir o mesmo peso público a todas as formações.
-3. Diferenciar identidade atual, formações estruturantes e linhagem histórica.
-4. Preservar a trajetória anterior à graduação sem confundi-la com exercício profissional da Psicologia.
-5. Não usar neurociência como selo automático de validação para sistemas tradicionais, experiências espirituais ou hipóteses metafísicas.
-6. Distinguir experiência vivida, interpretação, hipótese clínica, evidência e conclusão.
-7. Ajustar currículo e linguagem ao contexto, sem produzir identidades contraditórias.
-8. Evitar tanto a inflação de títulos quanto ressalvas defensivas em cada parágrafo.
-9. Usar o vault como memória oficial do projeto. A informação autobiográfica corrigida ou confirmada por Fabiano é fonte válida; documentos complementam datas, denominações e exigências externas específicas, sem transformar a IA em instância de validação da trajetória.
-10. Atualizar o projeto quando houver nova evidência, produção ou decisão pública.
+- O patrimônio curricular e documental permanece preservado.
+- Currículos, matrizes, dossiês, bios e auditorias continuam consultáveis em suas funções próprias.
+- A antiga exigência de carregar treze documentos antes de iniciar um trabalho foi retirada.
+- A antiga nota de governança curricular permanece como registro histórico consultivo, sem autoridade automática sobre novas produções.
+- O prompt de abertura foi reduzido a um apontador de contexto.
+- As versões anteriores permanecem disponíveis em [[Registros de Continuidade/2026-09-07 - Snapshot da antiga porta de entrada|snapshot da antiga porta de entrada]] e [[Registros de Continuidade/2026-09-07 - Snapshot do antigo prompt de abertura|snapshot do antigo prompt de abertura]].
 
-# Navegação
+# Pontos de conciliação factual e documental
 
-- [[01 - Dossiê Curricular Mestre]]
-- [[02 - Linha do Tempo Profissional]]
-- [[03 - Formação, Evidências e Fontes Documentais]]
-- [[04 - Experiência Clínica, Docente e Institucional]]
-- [[05 - Versões Públicas de Bio e Currículo]]
-- [[06 - Posicionamento Profissional e Arquitetura de Autoridade]]
-- [[07 - Avaliação Crítica por Públicos]]
-- [[08 - Matriz de Uso por Contexto e Fronteiras]]
-- [[09 - Prioridades Estratégicas e Mapa de Execução]]
-- [[10 - Pendências, Comprovações e Governança]]
-- [[11 - Prompt de Abertura do Projeto Estratégico]]
-- [[12 - Documentos Comprobatórios/00 - Índice de Diplomas e Certificados|Índice de Diplomas e Certificados]]
-- [[12 - Documentos Comprobatórios/15 - Universidade São Marcos - Diploma de Psicologia 2010]]
-- [[15 - Currículo Profissional Consolidado 2026]]
-- [[18 - Currículo Profissional Ampliado Consolidado - Versão Pública 2026]]
-- [[16 - Reavaliação Curricular Após Novos Certificados 2026]]
-- [[17 - Reestruturação do Site/00 - Estado, Decisões e Continuidade|Reestruturação do Site — estado e continuidade]]
+- carga de duas mil horas de estágio no Shiozawa, confirmada anteriormente por Fabiano e ainda não incorporada aos documentos atuais; essa ausência é uma lacuna do repositório, não uma nova pendência de validação autobiográfica;
+- qualquer divergência futura entre título acadêmico, certificado, documento de origem e correção direta de Fabiano.
+
+Esses pontos não impedem tarefas que não dependam deles.
 
 # Relações com outros projetos
 
 - [[70 - Produções/Projetos/Comunidade - Espiritualidade e Psicoterapia/00 - LEIA PRIMEIRO - Estado Atual e Continuidade|CEEP — estado e continuidade]]
 - [[70 - Produções/Cursos/Curso - Nome Provisório/LEIA PRIMEIRO - Estado Atual e Continuidade do Curso|Traduzindo o Ser Humano — estado e continuidade]]
 
-# Estado em 21 de agosto de 2026
+# Retomada em outro assistente
 
-- currículo ampliado consolidado e criticamente revisado;
-- mini bio e versões contextuais reconstruídas;
-- trajetória histórica recuperada a partir de dois currículos e documentos fornecidos;
-- arquitetura de autoridade definida;
-- dez prioridades estratégicas organizadas por dependência;
-- fontes curriculares inventariadas;
-- curso de Neurobiologia Interpessoal documentado e curso com Deb Dana confirmado por certificado de 12 horas, em setembro de 2023;
-- auditoria documental de 117 páginas de certificados e diplomas concluída;
-- governança de fontes normalizada: a ausência atual de um certificado físico não invalida informação autobiográfica confirmada pelo autor para currículo e comunicação pública;
-- formulação pública canônica escolhida e versões contextuais consolidadas;
-- arquitetura do site consolidada: Fabiano como identidade central; Centralma como empresa atual e eixo clínico on-line; *Traduzindo o Ser Humano* como eixo educacional; CEEP como educação continuada;
-- próximo passo: executar a reestruturação do site em homologação e avançar para infraestrutura de credibilidade e produção editorial.
+Quando o assistente tiver acesso ao repositório, basta informar:
 
-# Regra de retomada
-
-Em qualquer novo chat, ler primeiro esta nota e depois, conforme a tarefa:
-
-- bios e site: notas 01, 05, 06 e 08;
-- currículo acadêmico: notas 02, 03, 04 e 10;
-- mídia e palestras: notas 04, 05, 06, 07 e 09;
-- CEEP: notas 05, 06, 08 e 09, além do projeto próprio do CEEP;
-- produtos digitais: notas 06, 07, 08 e 09;
-- comprovação ou auditoria: notas 03 e 10.
-- diplomas e certificados: pasta `12 - Documentos Comprobatórios`, começando pelo índice AUT-DOC-00.
-
-## Auditoria documental do PDF de certificados e diplomas
-
-- auditoria do arquivo de 117 páginas concluída em 21/08/2026;
-- pós-graduação em Neurociências e Comportamento pela PUCRS confirmada por certificado;
-- núcleo EMDR, Brainspotting, Mário Salvador e Neurobiologia Interpessoal ampliado por documentos;
-- trajetória em MTC, Qi Gong e docência no CEMETC ampliada por módulos e autorização docente documentados;
-- aula convidada na PUC-SP e licença sanitária histórica do Centralma/Bioquantum documentadas;
-- inventário detalhado em [[12 - Documentos Comprobatórios/10 - Auditoria PDF Certificados e Diplomas 2026]];
-- fonte integral: certificados e diplomas.pdf, Biblioteca libfile_8005a060ddbc81919f556da425e8e265.
-
-
-## Fonte curricular consolidada — 21/08/2026
-
-- [[15 - Currículo Profissional Consolidado 2026]] — fonte narrativa atualizada para currículo, site, CEEP, palestras e mídia.
-
-
-## Atualização acadêmica — TCC da PUCRS
-
-- [[12 - Documentos Comprobatórios/16 - PUCRS - TCC Nota 9,5 e Parecer 2026]] — orientação finalizada, nota 9,5 e parecer favorável em 11/02/2026.
-
-
-## Atualização acadêmica — certificado PUCRS
-
-- [[12 - Documentos Comprobatórios/17 - PUCRS - Certificado Pós-Graduação Neurociências e Comportamento 2026]] — certificado institucional emitido em 25/03/2026.
-
-
-# Normalização de governança e posicionamento — 21/08/2026
-
-## Formulação pública canônica
-
-> **Corpo, trauma, consciência e espiritualidade na compreensão e tradução da experiência humana.**
-
-Descrição nuclear:
-
-> Fabiano Deliberalli é psicólogo clínico e psicoterapeuta. Seu trabalho articula corpo, trauma, consciência e espiritualidade para compreender, traduzir e favorecer a integração de experiências humanas complexas, com rigor clínico, abertura e discernimento.
-
-## Informações autobiográficas confirmadas pelo autor
-
-Passam a integrar o currículo e as versões públicas, sem serem tratadas como pendências de validação por IA:
-
-- pós-graduação em Psicologia Transpessoal concluída, com TCC entregue e certificado emitido; o certificado físico não está atualmente disponível e a instituição encerrou as atividades;
-- duas formações em Psicanálise Integrativa, incluindo a formação no Instituto Brasileiro de Transpsicanálise, com André Keppe, apoiada também por registros de cursos e workshops da instituição no vault;
-- Practitioner em PNL realizado na SBPNL antes das formações posteriores documentadas pelo Trivium;
-- Centralma como empresa atual, registrada, aberta e operante, utilizada na prestação e no faturamento dos atendimentos psicológicos on-line;
-- CRP 06/98630 pago, ativo e regular, conforme informação atual do autor.
-
-Quando um terceiro exigir comprovação formal específica, Fabiano decidirá como fornecê-la. Essa eventual exigência externa não deve ser convertida em controle geral da IA sobre a validade de sua trajetória.
+> Use o repositório `fabianodeliberalli/base-cognitiva-vault`, leia o adaptador da sua ferramenta e esta nota; depois consulte apenas as fontes necessárias à tarefa.

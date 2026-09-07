@@ -2,7 +2,7 @@
 id: AUT-16
 titulo: Reavaliação Curricular Após Novos Certificados 2026
 tipo: avaliação-estratégica-curricular
-status: consolidado-e-normalizado
+status: avaliacao-historica-consultiva
 projeto: Posicionamento Profissional e Autoridade Autoral
 data: 2026-08-21
 autor: Fabiano Deliberalli
@@ -36,7 +36,7 @@ A trajetória está suficientemente diferenciada para sustentar uma persona prof
 4. **genealogia corporal e integrativa:** Reabilitação/Massagem, Medicina Tradicional Chinesa, acupuntura, Qi Gong, respiração, movimento, Seitai e Quiropraxia;
 5. **docência e construção institucional:** Centralma/Bioquantum, PUC-SP como aula convidada, Gilda Moura, *Além das Fronteiras do Saber*, ABBSP, IGM, CEEP e palestras.
 
-A formulação pública canônica resultante é: **corpo, trauma, consciência e espiritualidade na compreensão e tradução da experiência humana.**
+A formulação pública resultante naquela etapa foi: **corpo, trauma, consciência e espiritualidade na compreensão e tradução da experiência humana.**
 
 # O que os novos certificados mudam
 
@@ -153,7 +153,7 @@ Eles não precisam liderar a persona clínica nem aparecer na mini bio geral.
 # Formulações a preservar
 
 - **Trajetória:** “Mais de 30 anos de trajetória no cuidado terapêutico, iniciada nas práticas corporais e integrativas, e atuação como psicólogo desde 2010.”
-- **Eixo autoral canônico:** “Corpo, trauma, consciência e espiritualidade na compreensão e tradução da experiência humana.”
+- **Eixo autoral formulado naquela etapa:** “Corpo, trauma, consciência e espiritualidade na compreensão e tradução da experiência humana.”
 - **Postura:** “Reconhecer o impacto de uma experiência não exige concluir previamente qual foi sua origem.”
 - **Docência:** “Professor, palestrante e facilitador em cursos livres e educação continuada.”
 - **CEMETC:** apresentar a formação e a credencial histórica com naturalidade, sem transformar a descrição em defesa ou em equivalência acadêmica.

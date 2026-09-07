@@ -2,7 +2,7 @@
 id: AUT-18
 titulo: Currículo Profissional Ampliado Consolidado - Versão Pública 2026
 tipo: currículo-ampliado-publico
-status: versão-canônica-derivada
+status: versao-publica-revisavel
 projeto: Posicionamento Profissional e Autoridade Autoral
 data: 2026-08-21
 autor: Fabiano Deliberalli
@@ -156,8 +156,3 @@ Para consultas documentais, fontes e governança curricular, ver no vault as not
 ## Matriz detalhada de consulta
 
 A relação completa de formações, datas, cargas horárias, documentos, duplicatas, estados de comprovação e regras de uso está em [[22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]].
-
-
-# Fonte curricular vigente
-
-Para qualquer consulta, revisão ou produção curricular, consultar primeiro [[00 - Governança Curricular - Fonte Única e Derivação por Contexto 2026]] e depois [[22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]]. Esta nota é fonte documental, histórica ou derivada conforme sua finalidade; não deve competir com a matriz como fonte de organização da trajetória.

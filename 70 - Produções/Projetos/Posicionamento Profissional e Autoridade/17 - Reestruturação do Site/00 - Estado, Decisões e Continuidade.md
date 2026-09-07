@@ -2,7 +2,7 @@
 id: AUT-SITE-00
 titulo: Reestruturação do Site - Estado, Decisões e Continuidade
 tipo: estado-e-continuidade-site
-status: pronto-para-execucao-em-homologacao
+status: referencia-de-trabalho-revisavel
 projeto: Posicionamento Profissional e Autoridade Autoral
 data: 2026-08-21
 autor: Fabiano Deliberalli
@@ -16,7 +16,7 @@ tags:
 
 # Finalidade
 
-Esta nota governa a reestruturação de https://centralma.com.br/ e impede que a execução dependa de um anexo isolado ou da memória de conversas. O dossiê operacional versionado está em:
+Esta nota reúne o estado e as referências de trabalho para a reestruturação de https://centralma.com.br/. O dossiê operacional versionado, também revisável, está em:
 
 - [[01 - Dossiê Operacional Reestruturação Site Fabiano Deliberalli.docx]]
 
@@ -24,7 +24,7 @@ Esta nota governa a reestruturação de https://centralma.com.br/ e impede que a
 
 - auditoria estratégica do site concluída;
 - currículo e governança de fontes normalizados;
-- formulação pública canônica escolhida;
+- formulação pública de referência escolhida naquela etapa;
 - arquitetura de identidade aprovada;
 - dossiê operacional atualizado;
 - próxima etapa: auditoria técnica atualizada, backup, homologação, inventário de URLs e implementação por gates.
@@ -39,7 +39,7 @@ Esta nota governa a reestruturação de https://centralma.com.br/ e impede que a
 - **CEEP:** educação continuada para profissionais; não é extensão da clínica individual nem certificação automática de técnica.
 - **Publicações, palestras e mídia:** infraestrutura de autoridade autoral.
 
-## Formulações obrigatórias
+## Formulações de referência daquela etapa
 
 Identificação:
 
@@ -89,7 +89,7 @@ A visibilidade do CEEP no lançamento permanece uma decisão operacional conform
 # Hierarquia da página inicial
 
 1. nome, identidade profissional e CRP;
-2. assinatura canônica;
+2. assinatura de referência;
 3. breve descrição nuclear;
 4. rotas distintas para psicoterapia on-line, *Traduzindo o Ser Humano* e conteúdos;
 5. trajetória em arco: corpo → escuta → Psicologia → trauma → consciência → autoria;
@@ -103,9 +103,9 @@ A visibilidade do CEEP no lançamento permanece uma decisão operacional conform
 |---|---|---|
 | Início | [[05 - Versões Públicas de Bio e Currículo]] e [[06 - Posicionamento Profissional e Arquitetura de Autoridade]] | [[09 - Prioridades Estratégicas e Mapa de Execução]] |
 | Sobre | [[15 - Currículo Profissional Consolidado 2026]] | linha do tempo e experiência institucional |
-| Psicoterapia on-line | [[08 - Matriz de Uso por Contexto e Fronteiras]] | bio clínica canônica |
+| Psicoterapia on-line | [[08 - Matriz de Uso por Contexto e Fronteiras]] | bio clínica de referência |
 | Traduzindo | checkpoint e Raio X vigente do projeto | identidade visual oficial |
-| CEEP | decisões consolidadas do projeto CEEP | bio CEEP canônica |
+| CEEP | referências atuais do projeto CEEP | bio CEEP de referência |
 | Artigos | pilares editoriais e política de acervo | TCC e bibliografia |
 | Palestras e mídia | bios correspondentes e experiência docente | banco visual e registros |
 | Contato | matriz de rotas | política de privacidade e operação real |

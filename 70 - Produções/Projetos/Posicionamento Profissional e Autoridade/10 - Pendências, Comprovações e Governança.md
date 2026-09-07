@@ -2,7 +2,7 @@
 id: AUT-10
 titulo: Pendências, Comprovações e Governança
 tipo: governanca-de-fontes-e-questoes-operacionais
-status: normalizado
+status: registro-de-questoes-revisavel
 projeto: Posicionamento Profissional e Autoridade Autoral
 data: 2026-08-21
 autor: Fabiano Deliberalli
@@ -14,7 +14,7 @@ tags:
   - continuidade
 ---
 
-# Princípio governante
+# Princípio de trabalho
 
 A IA não é instância de validação da trajetória profissional, da regularidade de Fabiano ou da existência de suas formações. O autor é fonte primária de sua biografia. Documentos são preservados para arquivo, precisão literal e situações externas que efetivamente exijam comprovação.
 
@@ -26,7 +26,7 @@ Uma informação autobiográfica confirmada por Fabiano pode ser usada no currí
 |---|---|---|
 | Informação autobiográfica confirmada | dado fornecido ou corrigido por Fabiano | válido para currículo, bio e continuidade |
 | Registro documental disponível | diploma, certificado, registro ou documento arquivado | fixa literalidade, datas, carga e instituição quando legíveis |
-| Formulação pública canônica | redação aprovada para uso recorrente | deve ser repetida de forma consistente |
+| Formulação pública de referência | redação aprovada em determinado contexto | pode ser reutilizada ou adaptada conforme a tarefa |
 | Hipótese estratégica | proposta ainda não decidida | permanece como recomendação |
 | Questão operacional | item cuja ausência modifica uma tarefa concreta | recebe responsável e próximo passo |
 | Histórico superado | versão anterior preservada no Git | não deve orientar novas produções |
@@ -79,7 +79,7 @@ Documentos enviados ao vault cumprem função de registro e memória. Não devem
 
 Estas são tarefas de produção ou precisão, não dúvidas sobre a validade da trajetória:
 
-1. aplicar a formulação canônica ao site e aos perfis;
+1. adaptar a formulação de referência ao site e aos perfis;
 2. implementar a reestruturação do site em homologação;
 3. organizar Lattes, ORCID e bibliografia pública;
 4. transformar o TCC em artigo;
@@ -90,7 +90,7 @@ Estas são tarefas de produção ou precisão, não dúvidas sobre a validade da
 9. decidir a visibilidade do CEEP no lançamento do novo site;
 10. inventariar e classificar o acervo antigo de artigos por URL.
 
-# Formulações canônicas
+# Formulações de referência daquela etapa
 
 ## Identificação
 
@@ -120,12 +120,12 @@ Estas são tarefas de produção ou precisão, não dúvidas sobre a validade da
 # Regras para futuras IAs
 
 1. Ler primeiro [[00 - LEIA PRIMEIRO - Estado Atual e Continuidade]].
-2. Não reabrir como dúvida os itens consolidados nesta nota.
+2. Não transformar automaticamente em dúvida os itens já confirmados por Fabiano; uma nova correção dele pode revisá-los.
 3. Não exigir documento físico para aceitar informação autobiográfica confirmada por Fabiano.
 4. Não inventar instituição, data ou carga horária ausente.
 5. Não confundir natureza da fonte com validade biográfica.
 6. Só criar pendência quando sua resolução modificar uma decisão ou entrega concreta.
-7. Manter versões históricas no Git e identificar claramente a fonte vigente.
+7. Manter versões históricas no Git e identificar claramente a referência atual da tarefa.
 8. Aplicar as fronteiras de [[08 - Matriz de Uso por Contexto e Fronteiras]].
 9. Derivar novas bios de [[05 - Versões Públicas de Bio e Currículo]] e currículos de [[15 - Currículo Profissional Consolidado 2026]].
 10. Para o site, usar [[17 - Reestruturação do Site/00 - Estado, Decisões e Continuidade]] e o dossiê operacional versionado na mesma pasta.
@@ -139,8 +139,3 @@ Quando surgir uma nova informação:
 3. atualizar a formulação pública somente se houver impacto real;
 4. preservar o histórico anterior;
 5. não converter o processo de arquivo em fiscalização da vida profissional de Fabiano.
-
-
-# Fonte curricular vigente
-
-Para qualquer consulta, revisão ou produção curricular, consultar primeiro [[00 - Governança Curricular - Fonte Única e Derivação por Contexto 2026]] e depois [[22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]]. Esta nota é fonte documental, histórica ou derivada conforme sua finalidade; não deve competir com a matriz como fonte de organização da trajetória.
