@@ -88,7 +88,7 @@ A formulação interna vigente do público é:
 A arquitetura comercial vigente distingue:
 
 - **marca e nome da oferta:** Traduzindo o Ser Humano;
-- **subtítulo-base:** Da compreensão acumulada à mudança vivida;
+- **subtítulo-base:** Da compreensão acumulada à presença que sustenta;
 - **headline-base:** Por que você entende seus padrões, mas continua repetindo?;
 - **EIXO:** função pedagógica interna de coordenação, retorno e reorganização.
 
@@ -168,7 +168,7 @@ O projeto possui densidade filosófica, patrimônio intelectual e coerência ped
 ## 2. Identidade do curso
 
 - **Marca e nome atual da oferta:** Traduzindo o Ser Humano;
-- **Subtítulo-base:** Da compreensão acumulada à mudança vivida;
+- **Subtítulo-base:** Da compreensão acumulada à presença que sustenta;
 - **Headline-base:** Por que você entende seus padrões, mas continua repetindo?;
 - **Natureza geral aprovada:** estrutura educacional complementar;
 - **Tese central:** compreender uma experiência não garante capacidade de sustentar e integrar aquilo que ela continua mobilizando;
