@@ -19,6 +19,10 @@ tags:
   - resultados-observaveis
 ---
 
+> [!NOTE] Leitura dos códigos históricos 2.1 e 2.2
+> Quando estes códigos nomearem antigas aulas ou unidades, eles identificam somente materiais do acervo histórico. Todas as variantes ficam preservadas e nenhuma é aula vigente. Seus títulos, conteúdos e fundamentações podem contribuir para qualquer uma das 54 aulas conforme pertinência, sem determinar numeração, posição ou ordem de gravação. Códigos iguais usados como versão, seção ou identificador técnico não são afetados.
+
+
 # Fundamento transversal — oscilação, acesso, diferenciação e integração
 
 ## Finalidade
