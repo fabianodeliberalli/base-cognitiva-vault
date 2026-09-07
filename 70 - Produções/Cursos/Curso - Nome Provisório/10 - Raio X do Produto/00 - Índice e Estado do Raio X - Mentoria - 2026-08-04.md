@@ -2,11 +2,11 @@
 tipo: indice-de-versoes
 projeto: Traduzindo o Ser Humano
 assunto: Raio-X do Produto e documentação de consultoria
-status: vigente
-versao: "1.3"
+status: referencia-atual-revisavel
+versao: "1.4"
 atualizado_em: 2026-08-23
 autor: Fabiano Deliberalli
-autoridade_da_versao_vigente: Fabiano Deliberalli
+responsavel_pelas_escolhas: Fabiano Deliberalli
 tags:
   - traduzindo-o-ser-humano
   - raio-x
@@ -17,29 +17,29 @@ tags:
 
 # Índice e estado das versões do Raio-X — Mentoria
 
-## Estado vigente
+## Referência usada atualmente
 
-O arquivo abaixo é a fonte pública canônica escolhida e aprovada por Fabiano para a comunicação, a página, a conferência do checkout e a entrega pública em 9 módulos e 54 aulas. Camila emitiu parecer favorável sobre o uso do material de mentoria, sem assumir autoridade autoral sobre o projeto:
+O arquivo abaixo foi escolhido por Fabiano como referência pública em 23 de agosto de 2026 para comunicação, página e conferência do checkout. A organização em 9 módulos e 54 aulas continua estimativa revisável. Camila emitiu parecer favorável sobre o uso do material de mentoria, sem assumir autoria sobre o projeto:
 
-- **Arquivo canônico datado:** [[Consultoria/2026-08-23 - Raio-X-Fabiano Deliberalli - Versão Pública Canônica v2.0]]
-- **Espelho vigente de consulta:** [[Vigente/Raio-X-Fabiano Deliberalli]]
+- **Arquivo datado de referência:** [[Consultoria/2026-08-23 - Raio-X-Fabiano Deliberalli - Versão Pública Canônica v2.0|Raio-X público de 23 de agosto de 2026]]
+- **Espelho atual de consulta:** [[Vigente/Raio-X-Fabiano Deliberalli]]
 - **Data da versão:** 2026-08-23
-- **Estatuto:** versão pública canônica para comunicação, consultoria, página e checkout.
-- **SHA-256 do arquivo canônico:** `72a92860c4c1209cb32a34a5fd8bc16d498cbdca5b63d612b7a7a94c5f97d4a7`
-- **Copy canônica relacionada:** [[Consultoria/2026-08-23 - Copy Canônica - Página e Checkout - Traduzindo o Ser Humano]]
+- **Estatuto:** referência pública revisável para comunicação, consultoria, página e checkout.
+- **SHA-256 do arquivo datado:** `72a92860c4c1209cb32a34a5fd8bc16d498cbdca5b63d612b7a7a94c5f97d4a7`
+- **Copy relacionada:** [[Consultoria/2026-08-23 - Copy Canônica - Página e Checkout - Traduzindo o Ser Humano|Copy de 23 de agosto de 2026]]
 - **Versão de 4 de agosto:** preservada como histórico, não como fonte pública atual.
-- **Arquitetura interna:** 7 módulos e 14 unidades curriculares para desenvolvimento, integração e rastreabilidade.
+- **Acervo anterior:** títulos e conteúdos de 7 módulos e 14 unidades podem ser consultados por pertinência, sem funcionar como arquitetura interna.
 
-A palavra “vigente” significa vigente para a entrega, a comunicação e a fotografia comercial da oferta. O bloco canônico do Raio-X também registra as condições da página e do checkout. Nenhum resgate antigo deve prevalecer sobre ele para a comunicação pública; a correspondência 7/14 permanece documentada na Nota-Ponte e na Matriz Mestre de Incorporação.
+“Atual” registra a referência usada neste momento, sem torná-la definitiva. O Raio-X também registra condições da página e do checkout. Versões anteriores permanecem disponíveis para comparação e reaproveitamento, mas não substituem silenciosamente uma escolha posterior de Fabiano.
 
 ### Harmonização pública e incorporação de posicionamento — 23 de agosto de 2026
 
-O trabalho de posicionamento realizado com o Vidente acrescentou linguagem proprietária, definições de competência incorporada e presença que sustenta e diretrizes para a masterclass. Após reconciliação, esses acréscimos foram formalizados na [[07 - Deliberação Transversal - Posicionamento, Linguagem e Arquitetura Dupla - 2026-08-23]] e incorporados ao Raio-X público canônico v2.0.
+O trabalho de posicionamento realizado com o Vidente acrescentou linguagem proprietária, definições de competência incorporada e presença que sustenta e referências para a masterclass. Esses acréscimos foram registrados na [[07 - Deliberação Transversal - Posicionamento, Linguagem e Arquitetura Dupla - 2026-08-23]] e incorporados ao Raio-X público v2.0.
 
-O [[Consultoria/2026-08-23 - Raio-X-Consolidado-Posicionamento-Reconciliado]] permanece como documento de base da reconciliação. Ele não é uma segunda fonte pública: o arquivo canônico datado e o bloco de copy harmonizado governam a comunicação atual.
+O [[Consultoria/2026-08-23 - Raio-X-Consolidado-Posicionamento-Reconciliado]] permanece como documento de base da reconciliação. Ele não é uma segunda referência pública: o arquivo datado e a copy relacionada são os pontos de partida atuais, ambos revisáveis.
 
-- **Raio-X público canônico:** `72a92860c4c1209cb32a34a5fd8bc16d498cbdca5b63d612b7a7a94c5f97d4a7`
-- **Copy canônica para página e checkout:** usar o documento relacionado acima.
+- **Raio-X público de referência:** `72a92860c4c1209cb32a34a5fd8bc16d498cbdca5b63d612b7a7a94c5f97d4a7`
+- **Copy de referência para página e checkout:** usar o documento relacionado acima.
 - **Versão de 4 de agosto:** patrimônio histórico preservado.
 - **Guia de condução vigente relacionado:** v2.6.1; revisão visual do deck e ensaio pertencem à futura produção humana e não são pendências documentais do GPT.
 
@@ -55,13 +55,13 @@ O original aprovado foi preservado integralmente em [[Histórico/2026-08-04 - Ra
 
 ## Critério de preservação
 
-O conteúdo anterior do espelho vigente foi preservado no histórico antes da atualização. As versões abaixo permanecem como patrimônio histórico para consulta posterior, comparação de decisões, recuperação de linguagem e rastreamento da evolução do produto. Cópias tecnicamente idênticas não foram multiplicadas: quando nomes diferentes correspondiam ao mesmo SHA-256, foi preservada uma única cópia canônica e a duplicação foi registrada nesta nota.
+O conteúdo anterior do espelho foi preservado no histórico antes da atualização. As versões abaixo permanecem disponíveis para consulta posterior, comparação de decisões, recuperação de linguagem e rastreamento da evolução do produto. Quando nomes diferentes correspondiam ao mesmo SHA-256, uma cópia foi usada como referência técnica e a duplicação foi registrada nesta nota.
 
 ## Linha histórica
 
 | Data | Arquivo | Estatuto histórico | SHA-256 |
 |---|---|---|---|
-| 2026-08-23 | [[Consultoria/2026-08-23 - Raio-X-Fabiano Deliberalli - Versão Pública Canônica v2.0]] | versão pública canônica harmonizada para Raio-X, página e checkout | `72a92860c4c1209cb32a34a5fd8bc16d498cbdca5b63d612b7a7a94c5f97d4a7` |
+| 2026-08-23 | [[Consultoria/2026-08-23 - Raio-X-Fabiano Deliberalli - Versão Pública Canônica v2.0|Raio-X público v2.0]] | referência pública harmonizada naquela etapa para Raio-X, página e checkout | `72a92860c4c1209cb32a34a5fd8bc16d498cbdca5b63d612b7a7a94c5f97d4a7` |
 | 2026-08-22 | [[Histórico/2026-08-22 - Raio-X-Fabiano Deliberalli - antes da harmonização]] | conteúdo do espelho anterior preservado antes da nova versão pública | `9111233ccca1e6d1f25e484c743a9c5b2fd8e7547cedf0d1efe1361307446362` |
 | 2026-08-04 | [[Histórico/2026-08-04 - Raio-X-Fabiano Deliberalli - aprovado na mentoria]] | original aprovado, preservado antes da correção técnica de consistência | `42e0a3955577142ddff81f17e01020a9217bf89bac68293fbbbb00e58a632008` |
 | 2026-08-04 | [[Histórico/2026-08-04 - Raio-X-Traduzindo-o-Ser-Humano - Level Up - Versão anterior ao arquivo aprovado]] | versão anterior ao arquivo aprovado; preservada para comparação imediata | `475350893734b265b2e0cb8e6073997dee39eda5aae361b472f010e48d183839` |
@@ -99,7 +99,7 @@ O arquivo histórico foi mantido uma vez, sem perda de conteúdo.
 
 ## Regra para próximas versões
 
-Uma nova versão substantiva do Raio-X deve ser adicionada como novo arquivo datado. Correções estritamente técnicas podem conservar o nome vigente somente quando o original for preservado integralmente no histórico, a mudança for descrita e os hashes forem registrados. Quando houver nova aprovação, esta nota deve apontar explicitamente o novo arquivo vigente e manter o anterior no histórico.
+Uma nova versão substantiva do Raio-X pode ser adicionada como arquivo datado para preservar comparação. Correções estritamente técnicas podem conservar o nome atual quando o original estiver recuperável no histórico, a mudança for descrita e os hashes forem registrados. Quando Fabiano confirmar outra referência, esta nota deve apontá-la explicitamente e manter a anterior acessível.
 
 ## Relações
 

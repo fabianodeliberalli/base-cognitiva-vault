@@ -31,6 +31,13 @@ Este vault é a memória persistente do projeto e do trabalho intelectual de Fab
 - evitar mover arquivos apenas por organização estética;
 - usar fichas mínimas como entrada dos projetos e recuperar o restante sob demanda.
 
+## Uso em diferentes assistentes
+
+- Codex e agentes compatíveis começam por `AGENTS.md`;
+- Claude em ambiente conectado começa por `CLAUDE.md`;
+- se a ferramenta tiver acesso ao repositório, mas não carregar esses arquivos automaticamente, indique apenas: **“Use o repositório `fabianodeliberalli/base-cognitiva-vault`, leia o adaptador da sua ferramenta e a ficha mínima do projeto; depois consulte somente as fontes necessárias à tarefa.”**;
+- se a ferramenta não tiver acesso ao repositório, forneça somente a ficha mínima e as fontes essenciais à demanda, sem copiar todo o vault ou toda a governança.
+
 ## Regras
 
 - materiais brutos não são alterados;

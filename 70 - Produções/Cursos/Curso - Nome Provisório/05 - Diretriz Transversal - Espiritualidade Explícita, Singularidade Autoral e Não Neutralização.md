@@ -1,9 +1,10 @@
 ---
-tipo: diretriz-transversal-governante
+tipo: referencia-transversal-autoral
 projeto: Traduzindo o Ser Humano
-status: vigente
-versao: "1.1"
+status: referencia-atual-revisavel
+versao: "1.2"
 data: 2026-08-22
+atualizado_em: 2026-09-07
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 aplicacao:
@@ -30,7 +31,7 @@ tags:
 
 ## 1. Estatuto
 
-Esta é uma diretriz transversal vigente e obrigatória para qualquer pessoa, IA, agente, designer, consultor, colaborador ou novo chat que analise, desenvolva, revise ou produza materiais relacionados ao **Traduzindo o Ser Humano**, ao curso, à identidade visual e à atuação profissional de Fabiano Deliberalli.
+Esta é uma referência autoral transversal e revisável para pessoas, IAs, agentes, designers, consultores, colaboradores ou novos chats que analisem, desenvolvam, revisem ou produzam materiais relacionados ao **Traduzindo o Ser Humano**, ao curso, à identidade visual e à atuação profissional de Fabiano Deliberalli.
 
 Sua finalidade é impedir que critérios genéricos de mercado, branding, psicologia, ciência, espiritualidade comercial ou prudência automatizada da IA neutralizem, reduzam ou descaracterizem a identidade intelectual, clínica, pedagógica e espiritual do projeto.
 
@@ -92,7 +93,7 @@ O rigor deve incidir sobre o que cada enunciado efetivamente reivindica:
 
 Não se deve deduzir, sem evidência textual concreta, que a presença de uma prática específica desloca o mecanismo do curso, promete um efeito rápido ou produz confusão de identidade profissional.
 
-## 4. Correção de viés obrigatória
+## 4. Correção de viés a considerar
 
 É proibido adotar automaticamente os seguintes raciocínios:
 
@@ -114,7 +115,7 @@ Essas interpretações só podem ser levantadas como hipóteses contextuais, nun
 
 ## 5. Protocolo de análise antes de recomendar alterações
 
-Antes de sugerir retirada, redução, neutralização ou substituição de qualquer elemento espiritual, energético, simbólico ou transpessoal, é obrigatório responder:
+Antes de sugerir retirada, redução, neutralização ou substituição de qualquer elemento espiritual, energético, simbólico ou transpessoal, examinar:
 
 1. **Origem:** esse critério vem de qual documento do projeto, decisão autoral, dado do público ou evidência de uso?
 2. **Função:** qual função legítima o elemento cumpre na arquitetura global?
@@ -243,7 +244,7 @@ Toda produção futura deverá:
 9. aplicar o [[04 - Deliberação Transversal - Pluralismo Epistemológico Não Redutivo e Integração Autoral]] sempre que houver relação entre ciência, clínica, experiência, filosofia, tradição, energia, simbolismo ou espiritualidade;
 10. fundamentar qualquer ressalva em um enunciado concreto do material, e não em inferências genéricas sobre aparência, associação ou reputação.
 
-## 11. Pergunta de controle obrigatória
+## 11. Pergunta de controle útil
 
 Antes de concluir qualquer análise, o agente deverá perguntar internamente:
 
@@ -267,17 +268,17 @@ prevalece esta diretriz, exceto quando houver:
 
 Mesmo nesses casos, a resposta deve buscar integração e solução proporcional, não neutralização automática.
 
-## 13. Formulação canônica
+## 13. Formulação autoral de referência
 
 > O Traduzindo o Ser Humano assume de forma explícita uma compreensão multidimensional do ser humano, na qual corpo, afeto, consciência, relação, energia, sentido e espiritualidade podem ser reconhecidos e articulados sem redução, equivalência automática ou dogmatismo. A identidade e os materiais do projeto devem expressar essa singularidade com clareza, profundidade e rigor, sem adaptar o patrimônio autoral a modelos genéricos de mercado ou aos vieses defensivos de sistemas de IA.
 
 ## 14. Estado e incorporação
 
-- decisão autoral: aprovada e vigente;
-- aplicação ao curso: obrigatória e transversal;
-- aplicação à identidade visual: obrigatória;
-- aplicação à comunicação e marketing: obrigatória;
-- aplicação à atuação profissional e materiais futuros: obrigatória;
+- decisão autoral: referência atual e revisável;
+- aplicação ao curso: transversal quando pertinente;
+- aplicação à identidade visual: considerar conforme a peça;
+- aplicação à comunicação e marketing: considerar conforme a demanda;
+- aplicação à atuação profissional e materiais futuros: considerar sem neutralizar a identidade de Fabiano.
 - espiritualidade explícita: preservada;
 - neutralização automática: vedada;
 - critérios técnicos: preservados, desde que demonstrados e proporcionais;

@@ -2,7 +2,7 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.6"
+versao: "0.7"
 atualizado_em: 2026-09-07
 ---
 
@@ -48,7 +48,7 @@ Use esta ficha para começar. Expanda a leitura somente conforme a tarefa. Todas
 | Identidade, limites e promessa | Dossiê; diretriz de espiritualidade e não neutralização |
 | Aproveitamento do acervo inicial de 7 módulos e 14 aulas | Documentos históricos, Nota-Ponte e Matriz Mestre de Incorporação, apenas como fontes de conteúdo |
 | Produção de M1 | Estado da Produção M1 e artefatos exatos da aula solicitada |
-| Formulações atuais e histórico de desenvolvimento | Registro Mestre de Formulações Estruturantes |
+| Linguagem e formulações possivelmente aproveitáveis | fontes atuais da frente; usar o Registro Mestre como acervo histórico consultivo |
 | Fonte ou conteúdo possivelmente existente | Inventário Mestre e busca temática no acervo |
 | Histórico de uma decisão | protocolo, deliberação ou registro de sessão correspondente |
 | Atrito repetido ou melhoria do fluxo | `12 - Aprendizado Operacional e Melhoria Contínua.md`, somente sob demanda |

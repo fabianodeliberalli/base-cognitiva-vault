@@ -4,16 +4,20 @@ projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 modulo: 0
 aula: "0.1"
-status: vigente-como-sintese-de-trabalho
+status: historico-consultivo
+uso_atual: consulta-historica
 estado_maturidade: roteiro-integral-recuperado-em-leitura-autoral
 versao: "1.1"
 criado_em: 2026-07-26
-atualizado_em: 2026-07-26
+atualizado_em: 2026-09-07
 autor_do_curso: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
 
 # Aula 0.1 — Consolidação do trabalho do chat e estado atual
+
+> [!WARNING] Síntese histórica consultiva
+> Esta nota preserva a consolidação daquele chat. O estado atual da produção está na nota da frente M1; a Aula 0.1 e seus materiais podem ser reabertos e revistos quando isso contribuir para a construção.
 
 ## Natureza deste documento
 

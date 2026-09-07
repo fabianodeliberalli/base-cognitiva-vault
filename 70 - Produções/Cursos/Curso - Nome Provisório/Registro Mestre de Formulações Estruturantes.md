@@ -2,8 +2,9 @@
 tipo: registro-mestre-formulacoes-estruturantes
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
-status: consolidacao-documental-para-auditoria-autoral
-versao: "0.7"
+status: acervo-historico-consultivo
+uso_atual: acervo-consultivo
+versao: "0.8"
 autor: Fabiano Deliberalli
 organizado_em: 2026-07-21
 escopo: curso-metodo-pedagogia-epistemologia-publico-governanca
@@ -20,8 +21,8 @@ tags:
 > Quando estes códigos nomearem antigas aulas ou unidades, eles identificam somente materiais do acervo histórico. Todas as variantes ficam preservadas e nenhuma é aula vigente. Seus títulos, conteúdos e fundamentações podem contribuir para qualquer uma das 54 aulas conforme pertinência, sem determinar numeração, posição ou ordem de gravação. Códigos iguais usados como versão, seção ou identificador técnico não são afetados.
 
 
-> [!NOTE] Subtítulo vigente desde 7 de setembro de 2026
-> O subtítulo oficial é **Da compreensão acumulada à presença que sustenta**. A formulação **Da compreensão acumulada à mudança vivida** permanece abaixo como registro histórico ou matéria-prima de comunicação, sem governar a identidade atual.
+> [!NOTE] Subtítulo usado atualmente desde 7 de setembro de 2026
+> A referência atual é **Da compreensão acumulada à presença que sustenta**. A formulação **Da compreensão acumulada à mudança vivida** permanece abaixo como registro histórico ou matéria-prima de comunicação, sem impedir revisão autoral.
 
 
 > [!IMPORTANT] Regra de leitura vigente — 7 de setembro de 2026
@@ -30,7 +31,10 @@ tags:
 
 # Registro Mestre de Formulações Estruturantes
 
-> **Atualização estrutural de 22/08/2026:** registros que afirmem 7 módulos/14 unidades como estrutura da oferta devem ser lidos como arquitetura interna de desenvolvimento, integração e rastreabilidade. A oferta vigente é 9 módulos/54 aulas. Nenhuma substitui automaticamente a outra; a incorporação é governada pela Nota-Ponte e pela Matriz Mestre.
+> [!IMPORTANT] Uso atual
+> Este registro preserva formulações e seus estatutos na etapa em que foram produzidos. Ele serve para recuperar linguagem, fundamentos, relações e genealogia. Não constitui hierarquia atual, não cria portões para as aulas e não prevalece sobre uma instrução recente de Fabiano. Quando houver utilidade, cada formulação pode ser retomada, combinada, ampliada ou revista.
+
+> **Registro estrutural de 22/08/2026, hoje histórico:** a leitura daquela etapa tratava 7 módulos/14 unidades como arquitetura interna e 9 módulos/54 aulas como entrega. A leitura atual está no aviso de 7 de setembro e na ficha de contexto mínimo.
 
 ## Finalidade
 
@@ -76,7 +80,7 @@ Quando houver divergência:
 
 | Código | Estatuto | Significado |
 |---|---|---|
-| A | Aprovada/canônica | Conteúdo e redação aprovados ou formalmente registrados como canônicos |
+| A | Aprovada na etapa registrada | Conteúdo e redação aprovados naquele momento; continuam revisáveis por Fabiano |
 | B | Consolidada | Conteúdo estabilizado; a redação ainda pode ser lapidada sem alterar o núcleo |
 | C | Candidata | Formulação relevante aguardando deliberação autoral explícita |
 | D | Protótipo | Recurso em teste pedagógico, visual ou experiencial |
@@ -924,7 +928,7 @@ Após a organização inicial deste Registro, Fabiano Deliberalli aprovou formul
 3. **Dimensão energética:** deixa de ser tratada como adendo ou sinônimo de espiritualidade; recebe aula nuclear própria e presença longitudinal.
 4. **Distinção energético–espiritual:** linguagens energéticas traduzem relações entre corpo, vitalidade, consciência, ambiente e prática e podem dialogar com espiritualidade sem se confundirem com ela.
 5. **Arquitetura v0.2:** mantém 7 módulos e 14 aulas, com Aula 2.1 energética e Aula 4.2 espiritual.
-6. **Rastreabilidade:** toda aula futura deve declarar formulações governantes, estatutos de linguagem, camadas de profundidade, prática, alternativa, retorno, evidência e portões específicos.
+6. **Rastreabilidade prevista naquela etapa:** as aulas poderiam declarar formulações, estatutos de linguagem, camadas de profundidade, práticas e evidências quando isso ajudasse. Atualmente, esses elementos são usados apenas se forem úteis e não funcionam como portões obrigatórios.
 7. **Aula 1.1:** é protótipo revisável; deverá passar por escrutínio e reorganização curricular normal antes de nova deliberação para pilotagem.
 
 ## Estatuto do adendo
@@ -986,7 +990,7 @@ Esta deliberação autoral supera, quanto à vigência, as formulações anterio
 > As estruturas numeradas 0.1 a 6.2 são unidades curriculares nucleares: cada uma organiza uma capacidade, um problema pedagógico e um arco de aprendizagem. Microaula é a unidade audiovisual de entrega na plataforma. Uma unidade curricular pode originar várias microaulas sem alteração de seu código ou função.
 
 - **Estatuto:** APROVADO — CURSO/ARQUITETURA.
-- **Consequência atualizada em 22/08/2026:** permanecem 7 módulos e 14 unidades como arquitetura interna; a entrega vigente possui 9 módulos e 54 aulas, com cortes e duração ainda refináveis.
+- **Leitura atualizada em 07/09/2026:** os 7 módulos e 14 unidades permanecem como acervo histórico de títulos e conteúdos. A estimativa atual possui 9 módulos e 54 aulas e poderá evoluir durante a construção e preparação para gravação.
 - **Transição documental:** nomes históricos de arquivos, links e kits com “Aula” podem permanecer para evitar ruptura de vínculos.
 
 ## F83 — Marca e arquitetura comercial

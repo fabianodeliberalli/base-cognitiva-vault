@@ -2,12 +2,12 @@
 tipo: inventario-mestre-conteudos
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
-status: ativo-evolutivo
-versao: "1.0"
+status: referencia-de-busca-revisavel
+versao: "1.1"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-21
-atualizado_em: 2026-07-21
-governado_por: 01 - Reconciliação da Governança do Conhecimento e Disponibilidade do Acervo
+atualizado_em: 2026-09-07
+relacionado_a: 01 - Reconciliação da Governança do Conhecimento e Disponibilidade do Acervo
 ---
 
 > [!IMPORTANT] Regra de leitura vigente — 7 de setembro de 2026
@@ -15,6 +15,9 @@ governado_por: 01 - Reconciliação da Governança do Conhecimento e Disponibili
 
 
 # Inventário Mestre de Conteúdos Disponíveis
+
+> [!NOTE] Uso atual
+> Use como apoio para localizar possíveis fontes. Os estados registrados nas tabelas são fotografias das etapas em que foram catalogados e precisam ser conferidos na fonte antes de orientar uma tarefa atual.
 
 ## 1. Finalidade
 
@@ -179,7 +182,7 @@ Autores não são classificados como blocos científicos ou não científicos. C
 |---|---|---|
 | Aula 0.1 | conteúdo anterior a organizar | disponível para padronização |
 | Aula 0.2 | kit documental e apresentação produzidos | referência visual e pedagógica |
-| Aula 1.1 | aprovada para pilotagem controlada | não reabrir; executar requisitos pré-piloto |
+| Aula 1.1 | estado registrado à época | protótipo revisável; conferir necessidades atuais antes de pilotagem |
 | Aulas 1.2–6.2 | arquitetura de 14 aulas em revisão | usar fundamentos transversais e inventário antes de roteirizar |
 
 ## 13. Fila curricular rastreável

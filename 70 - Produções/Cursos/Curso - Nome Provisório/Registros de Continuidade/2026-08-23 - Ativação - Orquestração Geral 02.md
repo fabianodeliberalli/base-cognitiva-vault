@@ -3,14 +3,18 @@ tipo: checkpoint-de-ativacao
 projeto: Traduzindo o Ser Humano
 chat_ativo: "ATIVO — TSH — Orquestração Geral 02"
 chat_antecessor: "HIST — TSH — Orquestração Geral 01"
-status: ativo
-versao: "1.1"
+status: historico-consultivo-substituido
+uso_atual: consulta-historica
+versao: "1.2"
 data: 2026-08-23
-atualizado_em: 2026-08-23
+atualizado_em: 2026-09-07
 producao_curricular_iniciada: false
 ---
 
 # Ativação — Orquestração Geral 02
+
+> [!WARNING] Checkpoint histórico
+> A exclusividade atribuída a este chat foi desativada. O registro permanece disponível para recuperar o estado daquela etapa, sem dividir a autoridade do projeto entre conversas.
 
 ## Estado
 

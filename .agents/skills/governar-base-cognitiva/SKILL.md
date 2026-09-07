@@ -35,6 +35,16 @@ Quando Fabiano pedir melhoria do fluxo ou houver atrito repetido, leia `90 - Sis
 
 No Obsidian, prefira busca, atualização de notas existentes, propriedades mínimas e links úteis. Não imponha plugins, painéis, modelos ou reorganizações estéticas.
 
+## Continuidade proporcional
+
+Em conversas extensas, atualize uma nota existente somente quando Fabiano confirmar uma escolha durável, houver troca de chat ou ferramenta, existir risco concreto de perda do ponto de retomada ou uma correção repetida revelar aprendizado útil.
+
+- Não gere relatório obrigatório ao encerrar cada conversa.
+- Prefira a ficha mínima ou o estado já existente da frente.
+- Registre apenas o que mudou, o que permanece aberto e o próximo ponto útil.
+- Não formalize explorações, alternativas provisórias ou redações ainda em desenvolvimento.
+- Se o assistente não carregar o repositório automaticamente, use o apontador curto definido no guia comum em vez de duplicar instruções.
+
 ## Conflito real
 
 Fabiano é o decisor final. Pare e consulte somente quando uma escolha puder mudar identidade, promessa, arquitetura, sentido autoral, causar perda, representar falsamente uma decisão de Fabiano ou produzir ação irreversível.
@@ -55,4 +65,4 @@ Preservar não significa congelar. Conteúdos antigos podem ser retomados, combi
 
 Execute `python3 .agents/skills/governar-base-cognitiva/scripts/validate_governance.py` na raiz do repositório.
 
-Corrija falhas de preservação, autoria, roteamento ou rigidez criada pela IA. Avisos não autorizam mudanças de conteúdo nem obrigam Fabiano a administrar etapas adicionais.
+O validador examina também documentos novos ou alterados em relação à `main`. Corrija falhas de preservação, autoria, roteamento ou rigidez criada pela IA. Avisos não autorizam mudanças de conteúdo nem obrigam Fabiano a administrar etapas adicionais.

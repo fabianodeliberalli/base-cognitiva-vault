@@ -2,11 +2,13 @@
 tipo: protocolo-de-continuidade-integral
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
-status: vigente
-versao: "2.2"
+status: historico-consultivo-substituido
+uso_atual: consulta-historica
+substituido_por: Protocolo de Elaboração Curricular Viva e Continuidade Leve
+versao: "2.3"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-21
-atualizado_em: 2026-08-22
+atualizado_em: 2026-09-07
 fonte_persistente: fabianodeliberalli/base-cognitiva-vault
 branch: main
 tags:
@@ -27,13 +29,16 @@ tags:
 
 # Protocolo de Continuidade Integral e Abertura de Novos Chats
 
+> [!WARNING] Documento histórico consultivo
+> Este protocolo não orienta a abertura ou o encerramento atual de chats. Ele permanece integralmente disponível como memória de desenvolvimento. Use o [[Protocolo de Elaboração Curricular Viva e Continuidade Leve]] e a ficha de contexto mínimo; nenhuma conversa possui autoridade exclusiva e nenhuma retomada exige ritual, relatório ou cadeia fixa de leitura.
+
 > **Prevalência operacional desde 26/07/2026:** consultar [[Protocolo de Elaboração Curricular Viva e Continuidade Leve]]. Quando houver conflito sobre ritmo, relatórios, aprovações, códigos, portões, auditorias antecipadas, checklists ou carga de leitura, o protocolo mais recente prevalece. Este documento continua preservando identidade, memória, fontes e decisões substantivas.
 
 > **Entrada de continuidade:** iniciar por [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]].
 
 > **Governança epistemológica obrigatória:** aplicar [[04 - Deliberação Transversal - Pluralismo Epistemológico Não Redutivo e Integração Autoral]]. “Consiliência crítica” é terminologia histórica superada como regra do projeto.
 
-> **Coexistência estrutural vigente desde 22/08/2026:** 9 módulos e 54 aulas governam entrega e comunicação; 7 módulos e 14 unidades governam desenvolvimento, integração e rastreabilidade do conteúdo. Nenhuma substitui automaticamente a outra. Consultar a [[05 - Nota-Ponte - Desenvolvimento do Conteúdo 7-14 e Entrega 9-54]] e a [[06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54]]. Cláusulas posteriores deste protocolo que tratem microaulas como quantidade futura devem ser lidas como registro histórico.
+> **Leitura estrutural atual desde 07/09/2026:** 9 módulos e 54 aulas são a estimativa atual de estrutura e ainda serão desenvolvidos para gravação. Os 7 módulos e 14 aulas ou unidades permanecem como acervo consultivo de títulos e conteúdos, sem governar o desenvolvimento e sem correspondência obrigatória. Cláusulas posteriores deste protocolo preservam o entendimento histórico da etapa.
 
 ## 1. Finalidade e garantia operacional
 

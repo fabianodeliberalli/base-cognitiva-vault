@@ -1,0 +1,25 @@
+name: Validar governança leve
+
+on:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Obter repositório e histórico
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Testar proteção contra recorrência
+        run: python3 -m unittest discover -s .agents/skills/governar-base-cognitiva/tests -p 'test_*.py'
+
+      - name: Validar documentos e alterações da proposta
+        env:
+          GOVERNANCE_BASE_REF: origin/${{ github.base_ref }}
+        run: python3 .agents/skills/governar-base-cognitiva/scripts/validate_governance.py

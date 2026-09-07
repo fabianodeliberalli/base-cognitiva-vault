@@ -19,6 +19,10 @@ Desktop.ini
 .env
 .env.*
 !.env.example
+
+# Temporários de validação em Python
+__pycache__/
+*.pyc
 .obsidian/
 .trash/
 *.tmp
