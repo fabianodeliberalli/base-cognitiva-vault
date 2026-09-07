@@ -1,9 +1,9 @@
 ---
 name: governar-base-cognitiva
-description: Auditar ou alterar governança de IA, protocolos de continuidade e fichas de contexto no vault Base Cognitiva; não usar para redação comum.
+description: Facilitar mudanças de governança, continuidade e contexto no vault Base Cognitiva sem impor rigidez à criação; não usar para redação comum.
 ---
 
-Leia e siga a implementação canônica em:
+Leia a orientação compartilhada em:
 `.agents/skills/governar-base-cognitiva/SKILL.md`.
 
-Não replique as instruções neste adaptador.
+Não replique instruções neste adaptador.
