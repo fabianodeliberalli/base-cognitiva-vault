@@ -2,7 +2,7 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.5"
+versao: "0.6"
 atualizado_em: 2026-09-07
 ---
 
@@ -51,6 +51,7 @@ Use esta ficha para começar. Expanda a leitura somente conforme a tarefa. Todas
 | Formulações atuais e histórico de desenvolvimento | Registro Mestre de Formulações Estruturantes |
 | Fonte ou conteúdo possivelmente existente | Inventário Mestre e busca temática no acervo |
 | Histórico de uma decisão | protocolo, deliberação ou registro de sessão correspondente |
+| Atrito repetido ou melhoria do fluxo | `12 - Aprendizado Operacional e Melhoria Contínua.md`, somente sob demanda |
 
 ## Regras de carga
 
