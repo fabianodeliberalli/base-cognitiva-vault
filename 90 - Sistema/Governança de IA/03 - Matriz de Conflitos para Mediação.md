@@ -67,3 +67,40 @@ Para cada item, registrar:
 **Alcance autorizado:** criar `AGENTS.md`, `CLAUDE.md`, contrato comum e fichas mínimas de projeto; alterar a regra correspondente do README.
 
 **Restrição:** adaptadores não devem reproduzir protocolos, decisões autorais ou contexto extenso.
+
+
+# Segundo pacote de mediação — decisões recuperadas dos chats
+
+## C-003 — 7/14 substituído ou coexistente com 9/54
+
+**Evidência A:** o repositório no baseline, atualizado em 22–23/08/2026, afirma que 7 módulos/14 unidades governam desenvolvimento, integração e rastreabilidade, enquanto 9 módulos/54 aulas governam entrega e comunicação; nenhuma estrutura substitui automaticamente a outra.
+
+**Evidência B:** o arquivo externo `relatorio-auditoria-vault-para-execucao.md`, recuperado do contexto dos chats, descreve 7/14/12 semanas como superado pelo Raio-X vigente. Outro registro de comunicação exige nota-ponte e reconhece 7/14 como arquitetura profunda até reconciliação formal.
+
+**Impacto:** declarar substituição pode apagar a rastreabilidade de conteúdo; declarar coexistência sem confirmação pode perpetuar uma estrutura interna que Fabiano pretendia abandonar.
+
+**Recomendação:** confirmar a coexistência funcional já documentada no repositório, tratando “12 semanas” separadamente e não como parte necessária de 7/14.
+
+**Estado:** bloqueado, aguardando decisão.
+
+## C-004 — definição das Unidades 2.1 e 2.2
+
+**Evidência disponível:** relatório externo registra “reconciliação de numeração” e determina levar a Fabiano qual definição de 2.1/2.2 prevalece. Os trechos recuperados não contêm os títulos, as duas versões nem as alternativas concretas.
+
+**Impacto:** qualquer correção agora seria inferência e poderia trocar conteúdos de lugar.
+
+**Recomendação:** manter bloqueado e recuperar os documentos/fontes completos antes de apresentar alternativas substantivas.
+
+**Estado:** bloqueado por evidência insuficiente e aguardando orientação de Fabiano.
+
+## C-005 — subtítulo-base da oferta
+
+**Evidência A:** o repositório no baseline fixa `Da compreensão acumulada à mudança vivida` como subtítulo-base, com headlines variáveis.
+
+**Evidência B:** decisão registrada em chat de 06/09/2026 deixou o nome como `Traduzindo o Ser Humano — Da compreensão acumulada à presença que sustenta`. Na mesma revisão, Fabiano aprovou o resultado `Perceber o automático mais cedo, recuperar clareza e responder com mais coerência`.
+
+**Impacto:** manter duas formulações como subtítulo-base gera inconsistência entre curso, briefing, formulário e peças de comunicação.
+
+**Recomendação:** adotar `Da compreensão acumulada à presença que sustenta` como subtítulo-base atual, preservando `mudança vivida` como formulação histórica ou headline quando adequada.
+
+**Estado:** bloqueado, aguardando decisão.
