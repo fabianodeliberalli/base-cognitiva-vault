@@ -139,7 +139,7 @@ A pedagogia do projeto parte do vivido, torna a experiência legível, favorece 
 
 ## 4. Identidade atual do curso
 
-**Traduzindo o Ser Humano** é a marca organizadora e o nome atual da oferta. O subtítulo-base é **Da compreensão acumulada à mudança vivida**; headlines permanecem variáveis por contexto comercial.
+**Traduzindo o Ser Humano** é a marca organizadora e o nome atual da oferta. O subtítulo-base é **Da compreensão acumulada à presença que sustenta**; headlines permanecem variáveis por contexto comercial.
 
 Natureza aprovada:
 
