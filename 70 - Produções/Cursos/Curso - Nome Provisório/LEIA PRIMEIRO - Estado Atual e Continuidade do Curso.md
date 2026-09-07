@@ -85,7 +85,7 @@ O Raio-X público canônico de 23 de agosto de 2026 — v2.0 — governa a comun
 
 ## Fonte pública canônica para página e checkout
 
-- [[10 - Raio X do Produto/Consultoria/2026-08-23 - Raio-X-Fabiano Deliberalli - Versão Pública Canônica v2.0]]
+- [[10 - Raio X do Produto/Consultoria/2026-08-23 - Raio-X-Fabiano Deliberalli - Versão Pública Canônica v2.0.docx|Raio-X público de 23 de agosto de 2026]]
 - [[10 - Raio X do Produto/Consultoria/2026-08-23 - Copy Canônica - Página e Checkout - Traduzindo o Ser Humano]]
 - A versão de 4 de agosto permanece no histórico; resgates devem consultar o índice do Raio-X antes de reutilizar arquivos antigos.
 
