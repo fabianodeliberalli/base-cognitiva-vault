@@ -16,6 +16,10 @@ nao_reabre_curriculo: true
 gravacao_autorizada: false
 ---
 
+> [!NOTE] Subtítulo vigente desde 7 de setembro de 2026
+> O subtítulo oficial é **Da compreensão acumulada à presença que sustenta**. A formulação **Da compreensão acumulada à mudança vivida** permanece abaixo como registro histórico ou matéria-prima de comunicação, sem governar a identidade atual.
+
+
 # Unidade Curricular 0.1 — Mapa Estrutural de Decomposição em Microaulas
 
 ## Identidade preservada
