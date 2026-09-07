@@ -1,8 +1,8 @@
 ---
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
-status: proposta-implementada-na-branch
-versao: "0.1"
+status: validado-na-branch
+versao: "0.2"
 atualizado_em: 2026-09-07
 ---
 
@@ -14,9 +14,10 @@ Use esta ficha para começar. Expanda a leitura somente conforme a tarefa.
 
 - **Traduzindo o Ser Humano** é a marca organizadora e o nome atual da oferta.
 - **EIXO** é função pedagógica interna de presença, discernimento, orientação e retorno; não é automaticamente produto, mecanismo comercial ou promessa.
-- **7 módulos / 14 unidades** governam desenvolvimento, integração e rastreabilidade interna.
-- **9 módulos / 54 aulas** governam entrega e comunicação.
-- As duas arquiteturas coexistem em relação muitos-para-muitos; nenhuma substitui automaticamente a outra.
+- **9 módulos / 54 aulas** são a única arquitetura vigente. Esse é o formato atual, ainda a ser estruturado para posterior gravação.
+- A organização inicial de **7 módulos / 14 aulas** não é mais estrutura. Seus títulos e conteúdos permanecem como acervo histórico de consulta.
+- Conteúdos da organização inicial podem ser incorporados às 54 aulas conforme necessidade e pertinência, sem correspondência obrigatória e sem transportar a numeração antiga.
+- O subtítulo-base vigente é **Da compreensão acumulada à presença que sustenta**.
 - Espiritualidade é dimensão explícita, afirmativa, plural e não dogmática. A identidade integrada de Fabiano não deve ser neutralizada por heurísticas genéricas.
 - “Competência incorporada” é conceito de aprofundamento; não deve virar headline fria por padrão.
 - O curso não promete cura, integração completa, estabilidade permanente, resolução de trauma, realização espiritual ou confirmação metafísica.
@@ -37,7 +38,7 @@ Use esta ficha para começar. Expanda a leitura somente conforme a tarefa.
 |---|---|
 | Estado e próxima ação | `LEIA PRIMEIRO - Estado Atual e Continuidade do Curso.md` e estado da frente ativa |
 | Identidade, limites e promessa | Dossiê; diretriz de espiritualidade e não neutralização |
-| Relação 7/14–9/54 | Nota-Ponte e Matriz Mestre de Incorporação |
+| Aproveitamento do acervo inicial de 7 módulos e 14 aulas | Documentos históricos, Nota-Ponte e Matriz Mestre de Incorporação, apenas como fontes de conteúdo |
 | Produção de M1 | Estado da Produção M1 e artefatos exatos da aula solicitada |
 | Formulação canônica | Registro Mestre de Formulações Estruturantes |
 | Fonte ou conteúdo possivelmente existente | Inventário Mestre e busca temática no acervo |
