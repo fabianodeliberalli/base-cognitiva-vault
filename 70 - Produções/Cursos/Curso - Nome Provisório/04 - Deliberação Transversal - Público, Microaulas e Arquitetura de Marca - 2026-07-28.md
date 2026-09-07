@@ -135,7 +135,7 @@ Aplicam-se ainda as seguintes distinções:
 | Elemento | Formulação-base | Função |
 |---|---|---|
 | Marca e nome da oferta | **Traduzindo o Ser Humano** | território autoral e organizador estável |
-| Subtítulo | **Da compreensão acumulada à mudança vivida** | recorte formativo e transformação |
+| Subtítulo | **Da compreensão acumulada à presença que sustenta** | recorte formativo e transformação |
 | Headline | **Por que você entende seus padrões, mas continua repetindo?** | identificação imediata com o problema |
 | Pergunta qualificadora | **Você já fez terapia, cursos ou práticas de autoconhecimento, entende muitos dos seus padrões e, mesmo assim, percebe que continua repetindo alguns deles?** | seleção do público pela situação vivida |
 | EIXO | função pedagógica de coordenação, retorno e reorganização | linguagem interna do percurso, não marca concorrente |
@@ -145,7 +145,7 @@ Aplicam-se ainda as seguintes distinções:
 #### Marca + subtítulo
 
 > **Traduzindo o Ser Humano**  
-> *Da compreensão acumulada à mudança vivida*
+> *Da compreensão acumulada à presença que sustenta*
 
 Uso recomendado para capa, Hotmart, documentos institucionais, materiais do participante e apresentação estável do produto.
 
@@ -159,7 +159,7 @@ Uso recomendado para criativos, anúncios, posts, vídeos de entrada e campanhas
 #### Marca + subtítulo + headline
 
 > **Traduzindo o Ser Humano**  
-> *Da compreensão acumulada à mudança vivida*  
+> *Da compreensão acumulada à presença que sustenta*  
 > **Por que você entende seus padrões, mas continua repetindo?**
 
 Uso recomendado para página de vendas, abertura de apresentação comercial e Raio X, desde que a hierarquia visual deixe claro que a terceira linha é headline, não um segundo subtítulo.
@@ -178,7 +178,7 @@ A arquitetura mais forte não utiliza dois subtítulos. Utiliza:
 
 ### Subtítulo
 
-**Da compreensão acumulada à mudança vivida**
+**Da compreensão acumulada à presença que sustenta**
 
 ### Headline ou pergunta de entrada
 
