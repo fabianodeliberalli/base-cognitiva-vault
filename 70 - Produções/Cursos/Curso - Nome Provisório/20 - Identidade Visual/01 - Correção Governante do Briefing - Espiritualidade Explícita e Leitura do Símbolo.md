@@ -113,7 +113,7 @@ Esse risco deverá ser avaliado pelo conjunto da identidade, pelo nome, pelas as
 ### Marca institucional do curso
 
 **Traduzindo o Ser Humano**  
-**Da compreensão acumulada à mudança vivida**
+**Da compreensão acumulada à presença que sustenta**
 
 As três versões cumprem funções diferentes. A solução não é eleger uma frase única para todas as aplicações, mas construir um sistema responsivo de marca.
 
