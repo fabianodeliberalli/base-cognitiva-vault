@@ -1,6 +1,6 @@
 ---
 tipo: matriz-de-conflitos
-status: mediado-em-implementacao
+status: decisoes-validadas-na-branch
 autoridade_final: Fabiano Deliberalli
 baseline: 0efe9721b0954d5eb8a06a33f0575b4dcc41edee
 atualizado_em: 2026-09-07
@@ -22,7 +22,7 @@ Nenhum item abaixo será corrigido antes da decisão de Fabiano.
 
 **Recomendação:** preservar o documento integral, mas marcar as cláusulas operacionais ultrapassadas como substituídas e encaminhar para um contrato operacional único e curto.
 
-**Estado:** bloqueado, aguardando decisão.
+**Estado:** validado por Fabiano — marcar e redirecionar.
 
 ## C-002 — Configuração de IA dentro do vault
 
@@ -34,7 +34,7 @@ Nenhum item abaixo será corrigido antes da decisão de Fabiano.
 
 **Recomendação:** permitir apenas adaptadores mínimos e um validador claramente delimitado, mantendo conteúdo autoral em `90 - Sistema` e proibindo duplicação de regras nos adaptadores.
 
-**Estado:** bloqueado, aguardando decisão.
+**Estado:** validado por Fabiano — permitir somente adaptadores mínimos.
 
 ## Formato da decisão
 
@@ -71,36 +71,30 @@ Para cada item, registrar:
 
 # Segundo pacote de mediação — decisões recuperadas dos chats
 
-## C-003 — 7/14 substituído ou coexistente com 9/54
+## C-003 — Estatuto da arquitetura inicial e da arquitetura vigente
 
-**Evidência A:** o repositório no baseline, atualizado em 22–23/08/2026, afirma que 7 módulos/14 unidades governam desenvolvimento, integração e rastreabilidade, enquanto 9 módulos/54 aulas governam entrega e comunicação; nenhuma estrutura substitui automaticamente a outra.
+**Decisão de Fabiano:** a arquitetura vigente é de **9 módulos e 54 aulas**. A organização inicial de **7 módulos e 14 aulas** não permanece como estrutura ativa. Seus arquivos serão preservados como acervo de títulos e conteúdos para consulta.
 
-**Evidência B:** o arquivo externo `relatorio-auditoria-vault-para-execucao.md`, recuperado do contexto dos chats, descreve 7/14/12 semanas como superado pelo Raio-X vigente. Outro registro de comunicação exige nota-ponte e reconhece 7/14 como arquitetura profunda até reconciliação formal.
+As 54 aulas constituem o formato vigente e ainda serão estruturadas para posterior gravação. Conteúdos da organização inicial poderão ser incorporados conforme necessidade e pertinência, sem correspondência obrigatória e sem conservar sua numeração antiga.
 
-**Impacto:** declarar substituição pode apagar a rastreabilidade de conteúdo; declarar coexistência sem confirmação pode perpetuar uma estrutura interna que Fabiano pretendia abandonar.
+A antiga duração de 12 semanas também não governa a arquitetura atual.
 
-**Recomendação:** confirmar a coexistência funcional já documentada no repositório, tratando “12 semanas” separadamente e não como parte necessária de 7/14.
+**Estado:** validado por Fabiano.
 
-**Estado:** bloqueado, aguardando decisão.
+## C-004 — Divergência histórica entre as antigas aulas 2.1 e 2.2
 
-## C-004 — definição das Unidades 2.1 e 2.2
+**Evidência:** o `LEIA PRIMEIRO` colocava a aula energética em 2.1; a `Reconciliação Documental dos Fundamentos Transversais e Revisão Curricular` colocava corpo, ritmo e afastamento em 2.1 e a aula energética em 2.2.
 
-**Evidência disponível:** relatório externo registra “reconciliação de numeração” e determina levar a Fabiano qual definição de 2.1/2.2 prevalece. Os trechos recuperados não contêm os títulos, as duas versões nem as alternativas concretas.
+**Decisão de Fabiano:** não escolher uma dessas numerações como estrutura vigente. As duas versões pertencem à organização inicial e serão preservadas como registros históricos. Seus conteúdos serão avaliados individualmente quando forem pertinentes à estruturação das 54 aulas atuais.
 
-**Impacto:** qualquer correção agora seria inferência e poderia trocar conteúdos de lugar.
+**Estado:** encerrado como divergência histórica; não é conflito da arquitetura vigente.
 
-**Recomendação:** manter bloqueado e recuperar os documentos/fontes completos antes de apresentar alternativas substantivas.
+## C-005 — Subtítulo-base da oferta
 
-**Estado:** bloqueado por evidência insuficiente e aguardando orientação de Fabiano.
+**Versão histórica:** `Da compreensão acumulada à mudança vivida`.
 
-## C-005 — subtítulo-base da oferta
+**Decisão de Fabiano:** o subtítulo-base vigente é `Da compreensão acumulada à presença que sustenta`.
 
-**Evidência A:** o repositório no baseline fixa `Da compreensão acumulada à mudança vivida` como subtítulo-base, com headlines variáveis.
+A versão anterior permanece preservada como formulação histórica e poderá ser consultada como matéria-prima de comunicação, sem funcionar como subtítulo-base.
 
-**Evidência B:** decisão registrada em chat de 06/09/2026 deixou o nome como `Traduzindo o Ser Humano — Da compreensão acumulada à presença que sustenta`. Na mesma revisão, Fabiano aprovou o resultado `Perceber o automático mais cedo, recuperar clareza e responder com mais coerência`.
-
-**Impacto:** manter duas formulações como subtítulo-base gera inconsistência entre curso, briefing, formulário e peças de comunicação.
-
-**Recomendação:** adotar `Da compreensão acumulada à presença que sustenta` como subtítulo-base atual, preservando `mudança vivida` como formulação histórica ou headline quando adequada.
-
-**Estado:** bloqueado, aguardando decisão.
+**Estado:** validado por Fabiano.
