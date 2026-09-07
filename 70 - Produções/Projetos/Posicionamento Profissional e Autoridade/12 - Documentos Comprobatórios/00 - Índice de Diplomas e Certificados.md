@@ -57,6 +57,7 @@ O arquivo integral de certificados e diplomas permanece na Biblioteca e/ou no ac
 | [[17 - PUCRS - Certificado Pós-Graduação Neurociências e Comportamento 2026]] | Certificado da especialização; emitido em 25/03/2026 |
 | [[21 - Psicologia Transpessoal - FACIS - Monografia e Certificado 2010-2011]] | Pós-graduação concluída em 2010; TCC entregue; certificado emitido em 2011 |
 | [[18 - CEMETC - Venia Docente e Acupuntura Bioenergética 2014-2016]] | Venia Docente e formação em Acupuntura Bioenergética/Moxibustión; níveis 1–3 e certificados gerais |
+| [[22 - Brainspotting - Masterclass com David Grand 2026]] | Formação continuada em Brainspotting; masterclass concluída de 21 a 23/08/2026 |
 
 # Fonte nova auditada
 
@@ -88,7 +89,7 @@ O arquivo integral de certificados e diplomas permanece na Biblioteca e/ou no ac
 ## Trauma e psicoterapia
 
 - EMDR: treinamento básico e cursos clínicos, p. 19–24, 30, 32, 38, 52, 57, 59, 62, 65–66, 71 e 82.
-- Brainspotting: fases 1–2 e fase 4, p. 2–3 e 12.
+- Brainspotting: fases 1–2 e fase 4, p. 2–3 e 12; masterclass com David Grand, de 21 a 23/08/2026, registrada em [[22 - Brainspotting - Masterclass com David Grand 2026]].
 - Psicoterapia Integradora e Reprocessamento do Trauma com Mário Salvador, p. 4, 17 e 35.
 - Neurobiologia Interpessoal, p. 59, complementada pelo certificado com Daniel Siegel arquivado na nota 08.
 - Hipnose e Mirroring Hands, p. 84–85, 87 e 90.
