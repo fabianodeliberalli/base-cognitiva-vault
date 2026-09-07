@@ -2,7 +2,7 @@
 tipo: guia-comum-de-contexto
 status: referencia-de-trabalho-revisavel
 autoridade_final: Fabiano Deliberalli
-versao: "0.2"
+versao: "0.3"
 atualizado_em: 2026-09-07
 ---
 
@@ -43,6 +43,26 @@ Não carregar o vault inteiro.
 - Explorar alternativas e contribuir criativamente sem exigir aprovação formal para cada ajuste reversível.
 - Não criar novos protocolos, portões, matrizes, relatórios ou rituais quando uma nota curta ou a execução direta bastar.
 - Preservação de conteúdo não significa congelamento: materiais anteriores continuam disponíveis para novas correlações, fundamentos e caminhos criativos.
+
+## Aprendizado com o uso
+
+Quando Fabiano pedir melhoria do fluxo ou o mesmo atrito reaparecer, consultar [[12 - Aprendizado Operacional e Melhoria Contínua]].
+
+- Não carregar essa nota em tarefas comuns.
+- Não transformar um caso isolado em regra.
+- Aprendizado específico atualiza somente a ficha do projeto.
+- Aprendizado comum entre assistentes pode ajustar este guia.
+- Evidências e resultados de testes ficam na memória de aprendizado.
+- Aplicar a menor mudança útil e retirar o que não demonstrar melhora.
+
+### Organização no Obsidian
+
+- Pesquisar antes de criar nova nota.
+- Atualizar uma fonte existente quando ela já cumprir a função.
+- Manter poucas propriedades e links realmente úteis.
+- Não mover conteúdo apenas por estética.
+- Não exigir plugin, painel, modelo ou configuração específica para o fluxo funcionar.
+- Separar referência atual, trabalho em curso e histórico pela leitura e pelo contexto, sem congelar o conteúdo.
 
 ## Mediação proporcional de conflitos
 
