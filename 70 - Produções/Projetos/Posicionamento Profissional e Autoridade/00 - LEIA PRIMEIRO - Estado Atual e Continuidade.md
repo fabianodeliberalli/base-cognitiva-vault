@@ -4,7 +4,7 @@ titulo: LEIA PRIMEIRO - Estado Atual e Continuidade
 tipo: contexto-minimo-do-projeto
 status: referencia-atual-revisavel
 projeto: Posicionamento Profissional e Autoridade Autoral
-data: 2026-09-07
+data: 2026-09-14
 autor: Fabiano Deliberalli
 tags:
   - posicionamento
@@ -65,12 +65,14 @@ As formulações públicas existentes são pontos de partida adaptáveis ao cont
 - O prompt de abertura foi reduzido a um apontador de contexto.
 - As versões anteriores permanecem disponíveis em [[Registros de Continuidade/2026-09-07 - Snapshot da antiga porta de entrada|snapshot da antiga porta de entrada]] e [[Registros de Continuidade/2026-09-07 - Snapshot do antigo prompt de abertura|snapshot do antigo prompt de abertura]].
 
-# Pontos de conciliação factual e documental
+# Conciliação factual e documental concluída
 
-- carga de duas mil horas de estágio no Shiozawa, confirmada anteriormente por Fabiano e ainda não incorporada aos documentos atuais; essa ausência é uma lacuna do repositório, não uma nova pendência de validação autobiográfica;
-- qualquer divergência futura entre título acadêmico, certificado, documento de origem e correção direta de Fabiano.
+- A carga de **2.000 horas de estágio no Shiozawa Prevenção em Saúde**, realizada de janeiro de 1995 a julho de 1996, foi confirmada por Fabiano e também está registrada na fonte documental correspondente.
+- O dado está incorporado às referências curriculares atuais: dossiê mestre, linha do tempo, matriz de fontes, currículo narrativo consolidado, currículo público ampliado, matriz curricular detalhada, mapa de experiência e registro de pendências.
+- O estágio de 2.000 horas permanece separado do **Curso Intensivo de Shiatsu de 100 horas**, realizado de junho a dezembro de 1994.
+- Não reabrir esse dado como pendência de validação autobiográfica ou documental. Nova conferência só se justifica se surgir divergência material em documento de origem ou correção direta de Fabiano.
 
-Esses pontos não impedem tarefas que não dependam deles.
+Qualquer divergência futura entre título acadêmico, certificado, documento de origem e correção direta de Fabiano deve ser tratada conforme o escopo concreto em que aparecer.
 
 # Relações com outros projetos
 
