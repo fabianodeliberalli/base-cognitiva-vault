@@ -5,6 +5,7 @@ tipo: matriz-curricular-detalhada
 status: referencia-curricular-detalhada-revisavel
 projeto: Posicionamento Profissional e Autoridade Autoral
 data: 2026-08-21
+atualizado_em: 2026-09-14
 autor: Fabiano Deliberalli
 tags:
   - currículo
@@ -524,6 +525,7 @@ Essa formulação é mais precisa do que “professor universitário” e não r
 ## Cargas claramente identificadas
 
 - EOMA — Técnico em Reabilitação/Massagista: 1.440h, incluindo 162h de estágio.
+- Shiozawa Prevenção em Saúde — estágio documentado: 2.000h, janeiro de 1995–julho de 1996; manter separado do Curso Intensivo de Shiatsu de 100h.
 - CEMETRAC — Acupuntura Tradicional Chinesa: 1.200h.
 - Qi Gong — formação de instrutor: 96h.
 - Sistema Energético Humano: 48h.
@@ -574,7 +576,7 @@ Não somar:
 1. A pós-graduação em Psicologia Transpessoal foi concluída em 2010, com TCC entregue e certificado emitido em 2011.
 2. A formação em hipnose clínica e terapêutica deve ser nomeada explicitamente, com Alberto Dell’Isola, Marco Ceda Natali, Fernando Toledo Piza e Sofia Bauer.
 3. Os registros datados de hipnose devem aparecer: Mirroring Hands 2019; PCH B1–B3 2021; PCH B4–B8 2022; Hypnotic Mastery Bootcamp 2022; Sofia Bauer com acesso Hotmart de agosto de 2023 a fevereiro de 2024.
-4. A trajetória corporal começa antes da Psicologia e inclui EOMA, Shiozawa, MTC, CEMETRAC, Pró-Salus, CEMETC, Qi Gong, respiração, Seitai e Quiropraxia.
+4. A trajetória corporal começa antes da Psicologia e inclui EOMA; Curso Intensivo de Shiatsu de 100h e estágio de 2.000h no Shiozawa, mantidos separadamente; MTC, CEMETRAC, Pró-Salus, CEMETC, Qi Gong, respiração, Seitai e Quiropraxia.
 5. A *Venia Docente* do CEMETC é um marco histórico de docência institucional e deve ser listada com data, local, escopo e validade impressa.
 6. A formação em EMDR e Brainspotting deve ser apresentada longitudinalmente, com módulos, cargas e distinção entre formação histórica e certificação vigente.
 7. A supervisão mensal com Mário Salvador é formação continuada e merece uma seção própria.

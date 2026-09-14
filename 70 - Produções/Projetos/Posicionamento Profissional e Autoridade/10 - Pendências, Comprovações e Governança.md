@@ -5,6 +5,7 @@ tipo: governanca-de-fontes-e-questoes-operacionais
 status: registro-de-questoes-revisavel
 projeto: Posicionamento Profissional e Autoridade Autoral
 data: 2026-08-21
+atualizado_em: 2026-09-14
 autor: Fabiano Deliberalli
 tags:
   - governança
@@ -58,6 +59,10 @@ A Centralma é a empresa atual de Fabiano, registrada, aberta e operante, utiliz
 
 O CRP 06/98630 está pago, ativo e regular, conforme informação atual de Fabiano. Não criar tarefa genérica de obtenção de certidão. Caso um terceiro exija documento atual em um procedimento específico, Fabiano decidirá como fornecê-lo.
 
+## Shiozawa — estágio de 2.000 horas
+
+A carga de 2.000 horas de estágio no Shiozawa Prevenção em Saúde, realizada de janeiro de 1995 a julho de 1996, foi confirmada por Fabiano e está registrada na fonte documental correspondente. O estágio é distinto do Curso Intensivo de Shiatsu de 100 horas, realizado de junho a dezembro de 1994. O dado está consolidado nas referências curriculares atuais e não deve voltar a ser tratado como pendência de validação autobiográfica ou documental.
+
 ## Outros dados institucionais
 
 Documentos enviados ao vault cumprem função de registro e memória. Não devem gerar automaticamente um backlog de validação. Consultas externas, certidões ou novos documentos só entram como questão operacional quando uma finalidade concreta justificar.
@@ -73,7 +78,8 @@ Documentos enviados ao vault cumprem função de registro e memória. Não devem
 - *Venia Docente* e níveis CEMETC documentados;
 - conjunto relevante de EMDR, Brainspotting, MTC, Qi Gong, PNL Trivium e formação corporal auditado;
 - licença sanitária histórica do Centralma/Bioquantum localizada;
-- data correta do certificado de Psicanálise Integrativa: 23/07/2002.
+- data correta do certificado de Psicanálise Integrativa: 23/07/2002;
+- Curso Intensivo de Shiatsu de 100 horas e estágio de 2.000 horas no Shiozawa registrados separadamente, com períodos próprios.
 
 # Questões operacionais atuais
 
