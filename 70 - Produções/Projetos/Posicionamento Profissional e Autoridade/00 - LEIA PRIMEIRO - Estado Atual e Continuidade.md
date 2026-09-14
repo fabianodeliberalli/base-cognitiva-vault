@@ -68,9 +68,9 @@ As formulações públicas existentes são pontos de partida adaptáveis ao cont
 # Conciliação factual e documental concluída
 
 - A carga de **2.000 horas de estágio no Shiozawa Prevenção em Saúde**, realizada de janeiro de 1995 a julho de 1996, foi confirmada por Fabiano e também está registrada na fonte documental correspondente.
-- O dado está incorporado às referências curriculares atuais: dossiê mestre, linha do tempo, matriz de fontes, currículo narrativo consolidado, currículo público ampliado, matriz curricular detalhada, mapa de experiência e registro de pendências.
+- **Registro de continuidade:** a orientação anterior sobre a “carga de duas mil horas de estágio no Shiozawa, confirmada anteriormente por Fabiano” foi atendida. O dado está incorporado às referências curriculares atuais: dossiê mestre, linha do tempo, matriz de fontes, currículo narrativo consolidado, currículo público ampliado, matriz curricular detalhada, mapa de experiência e registro de pendências.
 - O estágio de 2.000 horas permanece separado do **Curso Intensivo de Shiatsu de 100 horas**, realizado de junho a dezembro de 1994.
-- Não reabrir esse dado como pendência de validação autobiográfica ou documental. Nova conferência só se justifica se surgir divergência material em documento de origem ou correção direta de Fabiano.
+- A validação já concluída permanece como referência atual, sem nova exigência de prova autobiográfica ou documental. Nova conferência só se justifica se surgir divergência material em documento de origem ou correção direta de Fabiano.
 
 Qualquer divergência futura entre título acadêmico, certificado, documento de origem e correção direta de Fabiano deve ser tratada conforme o escopo concreto em que aparecer.
 
