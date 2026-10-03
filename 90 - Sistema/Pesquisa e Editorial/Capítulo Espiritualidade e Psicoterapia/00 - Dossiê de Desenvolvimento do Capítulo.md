@@ -1,0 +1,173 @@
+---
+tipo: dossie-editorial
+status: versão-de-trabalho
+versao: "0.1"
+criado_em: 2026-10-03
+autoridade_final: Fabiano Deliberalli
+origem: auditoria-teorica-e-laboratorio-clinico
+---
+
+# Dossiê de desenvolvimento do capítulo Espiritualidade e Psicoterapia
+
+## Escopo e estado
+
+Título de trabalho: **Espiritualidade e Psicoterapia: entre o reducionismo e a credulidade**.
+
+Dossiê inicial para pesquisa e escrita. Contém sinopse, argumento, protótipo da Matriz de Discernimento e comparação inicial de duas fontes clínicas. Não é capítulo concluído nem instrumento validado. A redação foi preparada pelo assistente a partir dos interesses declarados por Fabiano e está aberta à revisão autoral.
+
+Público de trabalho: profissionais de psicoterapia e saúde mental. Idioma, extensão, prazo, normas e escopo final da coletânea ainda não confirmados. Isso não impede o desenvolvimento inicial. Não houve envio a terceiros.
+
+## Pergunta editorial
+
+Como acolher e investigar experiências espirituais em psicoterapia quando sua relevância para a pessoa é reconhecível, mas as interpretações sobre sua natureza permanecem abertas ou disputadas?
+
+Pergunta complementar: o que a psicoterapia pode oferecer à elaboração dessas experiências, e que dimensões de sentido, valor, vínculo e existência a espiritualidade pode trazer ao encontro clínico?
+
+## Tese candidata
+
+A relevância clínica de uma experiência espiritual pode ser investigada sem pressupor uma conclusão sobre sua natureza última. Distinguir o fenômeno relatado, os significados da pessoa, as hipóteses funcionais e explicativas e as necessidades de cuidado permite construir um campo de investigação compartilhada. Esse campo deve permanecer sensível às transformações da relação com o vivido e às consequências na vida.
+
+A tese é metodológica e clínico-epistemológica. Não pretende resolver a ontologia da consciência, demonstrar a eficácia de uma abordagem nem validar integralmente o TSH.
+
+## Sinopse de trabalho
+
+Quando uma pessoa relata uma experiência espiritual, o terapeuta se encontra diante de um acontecimento que pode envolver corpo, imagens, memória, relações, crenças e sentido. As palavras utilizadas para nomeá-lo nem sempre permitem distinguir a descrição do vivido das interpretações que a acompanham. O problema clínico não se limita a decidir qual explicação parece mais plausível: inclui compreender como a experiência participa da vida e o que solicita no encontro terapêutico.
+
+Este capítulo propõe examinar essa tarefa a partir da precedência fenomenológica, da abertura ontológica e da hospitalidade epistemológica. Desenvolve uma Matriz de Discernimento da Experiência como roteiro de reflexão e supervisão, diferenciando fenômeno, significado, função, correlações, hipóteses, ontologia e segurança. Registros clínicos retrospectivos serão utilizados para tornar visível o raciocínio e seus limites, sem funcionar como demonstrações de eficácia ou confirmação de interpretações espirituais.
+
+O argumento investiga como acolhimento, discernimento e responsabilidade clínica podem coexistir e como a psicoterapia pode participar da elaboração de experiências espirituais. A contribuição pretendida é oferecer uma organização autoral, examinável e utilizável dessas perguntas, cuja originalidade e utilidade ainda serão confrontadas com a literatura e com outras formas de trabalho clínico.
+
+## Núcleos a preservar
+
+> A clínica precisa ser suficientemente aberta para que aquilo que ainda não possui tradução possa aparecer antes de ser explicado.
+
+Formulação candidata do Princípio da Precedência Fenomenológica. A precedência orienta a atenção e a prudência interpretativa. Não pressupõe experiência pura, ausência de interpretação ou sequência temporal obrigatória. Diferenciar as interpretações já presentes também faz parte da investigação.
+
+> Abertura sem credulidade. Rigor sem reducionismo.
+
+Abertura ontológica concerne aos pressupostos sobre a realidade; hospitalidade epistemológica concerne à investigação de afirmações e explicações. Abertura não atribui sustentação equivalente a todas as hipóteses.
+
+> Não precisamos resolver o nível 6 para trabalhar competentemente os níveis 1–5 e 7.
+
+Na matriz abaixo, o nível 6 trata da ontologia. A frase indica que o cuidado não depende de uma solução metafísica. Não suspende decisões clínicas ou investigação de hipóteses com evidências diferenciadas.
+
+> A experiência espiritual pode ser clinicamente significativa sem precisar ser utilizada como explicação total da experiência.
+
+A espiritualidade conserva função positiva na elaboração: experiência, sentido, valor, orientação e relação. O capítulo deve desenvolver essa função, além de discutir fechamento e riscos.
+
+## Matriz de argumentos e fontes
+
+| Argumento | Fonte disponível | O que permite afirmar | Trabalho pendente |
+|---|---|---|---|
+| Espiritualidade merece consideração no encontro clínico | WPA, 2016 | Posição profissional favorável à consideração centrada na pessoa e sem proselitismo | Acrescentar fontes específicas da psicoterapia e delimitar afirmações de benefício |
+| Significados e contexto cultural integram a investigação | APA, módulos suplementares da CFI, 2013 | Existe referência de entrevista cultural que inclui espiritualidade, práticas, apoio e conflito | Comparar escopo e funções, sem alegar equivalência com a matriz autoral |
+| O vivido precisa de espaço antes do fechamento explicativo | Princípio de trabalho do TSH; material do Laboratório | Proposta metodológica autoral e pergunta clínica delimitada | Fundamentação fenomenológica e experiencial; objeções e limites |
+| Aquisição de forma reconhecível e diferenciação reflexiva podem ser examinadas separadamente | CASOS 001 e 004; notas de Tradução | Possibilidade conceitual a investigar em relatos retrospectivos | Comparação com focusing/experiencing, simbolização e meaning-making |
+| Abertura ontológica e hospitalidade epistemológica cumprem funções distintas | Formulação recebida do Laboratório e pluralismo do projeto | Distinção autoral de trabalho | Confronto epistemológico, clínico e cultural; evitar apresentar nomenclatura como inédita |
+| Uma matriz pode tornar proveniência e inferência mais visíveis | Protótipo abaixo | Finalidade de organização do raciocínio | Avaliar se efetivamente melhora registros e supervisão |
+| Efeitos imediatos não documentam por si integração longitudinal | Limites dos registros de caso e distinções do projeto | Necessidade de distinguir o que foi observado do que não foi acompanhado | Revisão de literatura sobre processos, resultados e acompanhamento |
+
+As duas fontes externas localizadas não sustentam todas as proposições do capítulo. São pontos de partida, não revisão concluída. Não extrapolar posição profissional para prova de eficácia.
+
+## Estrutura argumentativa
+
+1. **Quando a espiritualidade entra no consultório.** Apresentar a pergunta e as diferenças entre experiência, linguagem e interpretação.
+2. **A posição do terapeuta.** Investigar pressupostos e participação relacional sem presumir neutralidade absoluta.
+3. **Dois fechamentos possíveis.** Analisar redução prematura e confirmação literal; não equiparar toda psicologia ao materialismo nem toda espiritualidade à credulidade.
+4. **Abertura ontológica e hospitalidade epistemológica.** Definir alcance e relação com julgamento fundamentado.
+5. **Precedência fenomenológica e Tradução.** Mostrar como aparição, reconhecimento, diferenciação e explicação podem ser relacionados sem cronologia universal.
+6. **Matriz de Discernimento da Experiência.** Apresentar roteiro e tornar explícito seu estatuto de protótipo.
+7. **Vinheta e raciocínio comentado.** Separar descrição, interpretação da pessoa, intervenções, hipóteses e dados ausentes.
+8. **Segurança, contexto e avaliação clínica.** Desenvolver critérios com literatura própria; esses aspectos já atravessam as seções anteriores.
+9. **Efeitos, indeterminação e continuidade.** Diferenciar mudança situada e acompanhamento na vida; explicitar o que permanece desconhecido.
+10. **Contribuições à psicoterapia e à elaboração espiritual.** Retomar as duas direções da relação e os limites da proposta.
+
+## Matriz de Discernimento da Experiência — protótipo v0.1
+
+Finalidade: registro reflexivo e supervisão. Não produz escore, categoria diagnóstica ou conclusão ontológica. Não pressupõe ordem fixa. As perguntas são propostas de trabalho, não protocolo clínico validado.
+
+| Domínio | Pergunta orientadora | Registrar separadamente |
+|---|---|---|
+| 1. Fenômeno | Como a experiência foi descrita e o que foi observado? | Relato, observação do terapeuta, momento e condições disponíveis |
+| 2. Significado | Que sentido a pessoa lhe atribui? | Vocabulário da pessoa e possíveis alterações de sentido |
+| 3. Função | Que papel ou efeito parece ter na organização da experiência? | Hipótese funcional, quem a propõe e quais dados a sustentam |
+| 4. Correlação | Com quais aspectos de corpo, história, vínculos e contexto foi relacionada? | Associação relatada ou proposta pelo terapeuta; correlação não demonstra causa |
+| 5. Hipóteses | Quais explicações são consideradas e o que favorece ou limita cada uma? | Alternativas, apoio, objeções e dados necessários |
+| 6. Ontologia | O que se afirma sobre sua natureza última e com que fundamento? | Crença pessoal/tradicional, hipótese ou questão indeterminada |
+| 7. Segurança | Que necessidades de avaliação e cuidado exigem atenção? | Dados disponíveis, ações efetivamente documentadas e lacunas; prioridade transversal |
+
+Campos de fechamento:
+- O que está suficientemente descrito?
+- O que é interpretação e de quem?
+- O que permanece desconhecido?
+- Que pergunta ou informação adicional mudaria a compreensão?
+- O que foi feito e que consequências foram efetivamente acompanhadas?
+
+Não converter ausência de informação em ausência de risco, hipótese em fato ou melhora situada em conclusão longitudinal. Os itens de segurança não substituem avaliação clínica pertinente.
+
+## Aplicação inicial às fontes clínicas
+
+### CASO-001 — metáfora oferecida
+
+Fonte: registro retrospectivo do terapeuta sobre uma experiência de perda e vulnerabilidade. Foi oferecida a imagem de uma fronteira viva e permeável. O registro descreve relaxamento corporal e mudança na maneira de considerar a experiência.
+
+Pergunta gerada: em que medida uma imagem oferecida se torna um recurso experiencial reconhecível, e como distinguir organização por metáfora, compreensão intelectual e mudança da relação com o vivido?
+
+Hipótese de trabalho: modalidade de Tradução com oferta explícita de recurso organizador. O relato não permite isolar causalmente metáfora, relação terapêutica, expectativa ou outros componentes.
+
+Informações ausentes: transcrição integral, comparação com alternativas, medidas independentes e evolução longitudinal suficiente para atribuir integração.
+
+A referência a Markov blanket no caso é uso metafórico; o formalismo não constitui validação da intervenção.
+
+### CASO-004 — formas emergentes e participação do terapeuta
+
+Fonte: registro retrospectivo em que sensações, imagens, lembranças e significados se articulam ao longo da exploração. Algumas imagens são relatadas como espontâneas; também há orientações e intervenções do terapeuta.
+
+Pergunta gerada: como descrever a interação entre aquilo que emerge no percurso da pessoa e a participação relacional e verbal do terapeuta?
+
+Hipótese de trabalho: a distinção emergente/mediada pode descrever ênfases combináveis, em vez de episódios puros ou mutuamente exclusivos.
+
+A natureza última das imagens não é decidida pelo registro. Mudanças corporais e de ânimo descritas não permitem, isoladamente, concluir integração duradoura, mecanismo ou resolução das necessidades de cuidado.
+
+Para publicação: construir a vinheta a partir do mínimo necessário ao argumento; conferir condições de uso e confidencialidade; não inventar diálogos nem ampliar resultados. Essa verificação editorial ainda não foi concluída.
+
+### Ganho desta comparação
+
+A pergunta investigável se torna mais específica: **o que diferencia uma forma apenas oferecida ou reconhecida de uma forma que amplia possibilidades de diferenciação, relação e resposta?**
+
+O material também solicita examinar como a pessoa pode revisar, recusar ou modificar a organização proposta. Essa é uma pergunta de investigação, não um evento presumido nos casos.
+
+## Abertura provisória do capítulo
+
+Quando uma experiência espiritual chega ao consultório, ela costuma chegar com uma linguagem. A pessoa pode falar de presença, energia, proteção, encontro, vazio ou transformação. Essas palavras dizem algo sobre o vivido e, por vezes, já carregam uma interpretação sobre sua origem. Para o terapeuta, surge a tarefa de escutar o que está sendo comunicado e reconhecer o que ainda precisa ser compreendido.
+
+Uma explicação pode organizar a experiência. Pode também anteceder sua descrição de tal modo que aquilo que a pessoa procura comunicar passe a ser ouvido apenas como exemplo de uma teoria. O problema se coloca tanto quando uma interpretação psicológica encerra prematuramente a investigação quanto quando uma leitura espiritual recebe confirmação antes de ser examinada.
+
+A proposta deste capítulo parte de uma pergunta: que condições permitem acolher a experiência, investigar seus sentidos e responder às necessidades clínicas enquanto aspectos de sua natureza permanecem abertos? O trabalho começa pela distinção entre o que se apresentou, o que isso significa para a pessoa e o que podemos sustentar sobre suas relações e efeitos.
+
+Esta abertura é redação ensaística de trabalho; as generalizações clínicas deverão ser revistas e fundamentadas na versão do capítulo.
+
+## Fontes
+
+### Internas
+
+- [[Princípio - A Experiência Deve Poder Aparecer Antes de Ser Explicada]]
+- [[Princípio - Abertura Ontológica e Hospitalidade Epistemológica]]
+- [[Matriz de Discernimento da Experiência]]
+- [[Tradução - Modalidade Emergente e Modalidade Mediada]]
+- [[Tradução da Experiência Humana]]
+- [[CASO-001 - A Membrana que se Rompeu - 01 - Registro Clínico]]
+- [[CASO-001 - A Membrana que se Rompeu - 03 - Hipóteses e Correlações]]
+- [[CASO-004 - O Executivo, o Contemplativo e o Oni - 01 - Registro Clínico]]
+- [[CASO-004 - O Executivo, o Contemplativo e o Oni - 02 - Observações Fenomenológicas]]
+- [[CASO-004 - O Executivo, o Contemplativo e o Oni - 03 - Hipóteses e Correlações]]
+- [[04 - Deliberação Transversal - Pluralismo Epistemológico Não Redutivo e Integração Autoral]]
+
+### Externas verificadas
+
+- Moreira-Almeida A, Sharma A, van Rensburg BJ, Verhagen PJ, Cook CCH. WPA Position Statement on Spirituality and Religion in Psychiatry. World Psychiatry. 2016;15(1):87–88. [DOI e texto](https://onlinelibrary.wiley.com/doi/full/10.1002/wps.20304).
+- American Psychiatric Association. Supplementary Modules to the Core Cultural Formulation Interview. 2013. [Documento oficial](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/APA_DSM5_Cultural-Formulation-Interview-Supplementary-Modules.pdf).
+
+## Próxima ação
+
+Desenvolver a fundamentação da precedência fenomenológica e da diferenciação entre experiência, interpretação e explicação, registrando convergências e objeções em fontes primárias. Em seguida, redigir as seções iniciais e aplicar criticamente o protótipo à vinheta, mantendo visíveis os dados ausentes. A validação discriminante global do TSH e a integração com AISB não são pressupostos desta escrita.
