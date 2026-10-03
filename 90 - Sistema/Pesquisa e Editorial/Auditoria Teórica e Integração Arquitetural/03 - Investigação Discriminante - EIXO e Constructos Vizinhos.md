@@ -3,12 +3,12 @@ tipo: investigacao-discriminante
 status: versão-de-trabalho
 autoridade_final: Fabiano Deliberalli
 data: 2026-10-03
-versao: "0.2"
+versao: "0.3"
 ---
 
 # Investigação discriminante — EIXO e constructos vizinhos
 
-Pesquisa nova, conceitual e documental. Não recupera a investigação histórica integral ainda ausente, não testa validade discriminante empiricamente e não homologa alterações do Método. Esta investigação examina EIXO × flexibilidade psicológica na ACT e × flexibilidade regulatória, e qualifica o anexo enviado por Fabiano. Decentramento e autorregulação permanecem por investigar diretamente.
+Pesquisa nova, conceitual e documental. Não recupera a investigação histórica integral ainda ausente, não testa validade discriminante empiricamente e não homologa alterações do Método. Esta investigação examina EIXO × flexibilidade psicológica na ACT e × flexibilidade regulatória, e qualifica o anexo enviado por Fabiano. O confronto com decentramento também está disponível; autorregulação permanece por investigar diretamente.
 
 ## 1. Fontes e estatutos
 
@@ -168,8 +168,82 @@ Para o livro, há um argumento candidato mais preciso: **a capacidade desenvolvi
 
 O ganho desta unidade é transformar “não consigo sustentar” em perguntas localizadas sobre condições, recursos, execução, adequação e revisão. Uma descrição mais precisa poderá revelar o que o EIXO acrescenta ou mostrar que uma combinação de interlocutores já oferece descrição suficiente. Próximo confronto: decentramento, seguido de autorregulação e síntese combinada.
 
+
+
+## 8. EIXO × decentramento — 03/10/2026
+
+### Fontes e alcance
+
+- Fresco DM, Moore MT, van Dulmen MHM, Segal ZV, Ma SH, Teasdale JD, Williams JMG. *Initial Psychometric Properties of the Experiences Questionnaire: Validation of a Self-Report Measure of Decentering*. Behavior Therapy. 2007;38(3):234–246. DOI 10.1016/j.beth.2006.08.003. [Cópia do original na ACBS](https://contextualscience.org/files/Fresco%2C2007.pdf). Definição, desenvolvimento do instrumento, passagens dos estudos e discussão geral examinados.
+- Bernstein A, Hadash Y, Lichtash Y, Tanay G, Shepherd K, Fresco DM. *Decentering and Related Constructs: A Critical Review and Metacognitive Processes Model*. Perspectives on Psychological Science. 2015;10(5):599–617. DOI 10.1177/1745691615594577. [Editora](https://journals.sagepub.com/doi/abs/10.1177/1745691615594577). Resumo e metadados consultados. PMC bloqueado; texto integral não recuperado nesta unidade. Não declarar consulta às argumentações detalhadas.
+- Naragon-Gainey K, DeMarree KG. *Structure and Validity of Measures of Decentering and Defusion*. Psychological Assessment. 2017;29(7):935–954. DOI 10.1037/pas0000405. [Original no laboratório dos autores](https://ubwp.buffalo.edu/socmetalab/wp-content/uploads/sites/241/2025/10/2017.N-GD.PsyAss.pdf). Definições, síntese dos resultados, implicações e limitações examinadas. Estudo empírico primário.
+- Recursividade conferida novamente na main: mesmo blob. Referências atuais e propostas de EIXO mantêm seus estatutos já registrados.
+
+Comparação conceitual com exame delimitado de instrumentos. Não revisão completa do campo, estudo de eficácia, validação de EIXO ou diagnóstico dos casos.
+
+### Definição e problema de medida
+
+Fresco et al. descrevem decentramento como observar pensamentos e sentimentos enquanto acontecimentos mentais transitórios, sem tomá-los necessariamente como verdade ou identidade. Sua formulação inclui postura de aceitação no presente. Os estudos oferecem apoio inicial ao fator de decentramento do EQ em amostras estudantis e clínica; não autorizam usar o instrumento como medida de EIXO.
+
+No resumo de Bernstein et al., a proposta articula meta-consciência, desidentificação da experiência interna e menor reatividade ao conteúdo do pensamento. Essa formulação já ultrapassa mera descrição intelectual. É fonte direta da proposta dos autores, revisão para evidências de terceiros.
+
+Naragon-Gainey e DeMarree examinam cinco medidas em quatro amostras. Encontram dois fatores: perspectiva de observador e menor luta com a experiência interna; esta última apresenta discriminação problemática frente a sofrimento psicológico. As medidas não se comportam como intercambiáveis. Autorrelato, desenho transversal, conteúdo dos itens e amostras limitam as inferências. O resultado não prova dois mecanismos naturais nem invalida toda teoria do decentramento.
+
+### Confronto funcional: inferências da auditoria
+
+| Função ou alegação | Resultado |
+|---|---|
+| Perceber que um pensamento está ocorrendo | Antecedente direto no decentramento; não novidade EIXO |
+| Não tratar pensamento ou emoção como identidade inteira | Antecedente direto; forte sobreposição |
+| Sustentar experiência sem captura total | Proximidade funcional; especificar o que permaneceu possível |
+| Orientar escolha, retorno e reparação | Tarefas explícitas no EIXO vigente; não definidas integralmente pela perspectiva de observador isolada |
+| EIXO é experiencial e decentramento é apenas intelectual | Distinção não sustentada |
+| Decentramento equivale a todo EIXO | Equivalência global não demonstrada |
+| A maior abrangência de EIXO prova mecanismo próprio | Inferência não sustentada |
+
+A fronteira produtiva é entre tarefas: **que relação com a experiência mudou e que participação tornou-se possível?** Não são necessariamente etapas separadas; podem ocorrer conjuntamente e influenciar-se.
+
+Essa distinção tem função documental, não prova de independência. Observar com menor identificação pode modificar a resposta; não se afirma que o decentramento seja incapaz de fazê-lo. A questão é se a ocorrência registrada documenta também orientação, recursos, escolhas e consequências.
+
+### Exemplos que delimitam a observação
+
+Exemplos hipotéticos:
+
+1. A pessoa reconhece “estou pensando que vou fracassar”, mas ainda não sabe como participar de uma conversa difícil. Há relato compatível com perspectiva descentrada; falta documentar a resposta possível. Não concluir ausência de todo EIXO.
+2. A pessoa continua sentindo medo e consegue pedir apoio ou estabelecer um limite. A mudança de relação e a ação podem coexistir; não precisam competir pelo nome correto do episódio.
+3. A pessoa repete linguagem de observação, mas o registro não mostra como se relacionou com o conteúdo. Conhecer a frase não comprova decentramento ou EIXO.
+4. A pessoa permanece quieta. Sem relato e contexto, isso não distingue contato, esforço, inibição, afastamento ou simples pausa. Não inferir capacidade ou condição clínica pela aparência.
+
+A formulação EIXO pode reunir perguntas sobre esses acontecimentos, mas os interlocutores combinados também podem formulá-las. O ganho adicional precisa ser mostrado em comparação.
+
+### Espiritualidade e estatutos
+
+Uma posição de observador pode ser descrita funcionalmente e também receber interpretação contemplativa ou espiritual. A comparação não estabelece que essa posição seja Eu Superior, Essência, alma ou self como contexto. Cada aproximação precisa explicitar a pergunta e a natureza da afirmação.
+
+Preservar o significado espiritual atribuído pela pessoa sem transformar seu sentido em comprovação de mecanismo ou ontologia. Também não reduzir a experiência espiritual integral a uma operação metacognitiva: o interlocutor examina um aspecto possível, não decide tudo o que a experiência é.
+
+### Consequências concretas para os produtos
+
+**TSH:** observar sem ser inteiramente dominado possui antecedentes claros. A contribuição candidata reside em sua articulação com legibilidade, disponibilidade, orientação e retorno. Nenhuma das fontes obriga substituir EIXO por decentramento.
+
+**Capítulo:** acolhimento, reconhecimento da interpretação e resposta possível são perguntas relacionadas, com resultados a documentar separadamente. Descentrar-se de uma explicação não significa desvalorizar a experiência espiritual nem concluir que sua interpretação é falsa.
+
+**Livro:** argumento candidato: “Posso reconhecer o que me atravessa sem reduzir-me a isso; ainda preciso descobrir como participar da situação.” Formulação editorial do auditor, não frase homologada ou definição científica. Permite desenvolver consciência e ação sem impor um observador totalmente separado da vida.
+
+**Pesquisa:** manter os campos de episódio da seção 7 e acrescentar somente o necessário: fonte do indício de menor identificação, mudança efetivamente relatada e participação observada. Separar pensamento reconhecido como pensamento, menor luta, alívio e ação. Não criar escala EIXO por renomeação de itens do EQ ou de outros instrumentos. Antes de medir, definir a função investigada e o que a distinguiria.
+
+### Classificação e continuidade
+
+- Mudança de perspectiva, desidentificação parcial e menor captura: **já existente** nos interlocutores.
+- Articulação dessas funções com retorno, escolha e reparação no TSH: **reformulação útil candidata**.
+- Decentramento como sinônimo de EIXO ou prova de seu mecanismo: **insuficientemente fundamentado**.
+- Referência espiritual como demonstração científica de diferença funcional: mistura de níveis a evitar; não tese necessária do projeto.
+- Redundância de todo EIXO: não demonstrada pelo confronto com uma função isolada.
+
+Três interlocutores focais estão disponíveis: flexibilidade psicológica, flexibilidade regulatória e decentramento. Próxima unidade: autorregulação, seguida de síntese combinada aplicada a episódios. Esta unidade não encerra a validade discriminante geral.
+
 ## Continuidade
 
-Confrontos com flexibilidade psicológica e regulatória disponíveis. Próximas unidades: decentramento e autorregulação; ao final, confronto combinado. As lacunas da Matriz dos 12 elos e da investigação histórica continuam abertas. AISB permanece fora desta etapa.
+Confrontos com flexibilidade psicológica, flexibilidade regulatória e decentramento disponíveis. Próxima unidade: autorregulação; ao final, confronto combinado. As lacunas da Matriz dos 12 elos e da investigação histórica continuam abertas. AISB permanece fora desta etapa.
 
 Relações: [[00 - LEIA PRIMEIRO - Estado e Protocolo da Auditoria]], [[01 - Manifesto de Fontes da Auditoria]], [[02 - Parecer Consolidado - Movimento 1 - Coerência e Suficiência]].
