@@ -554,6 +554,7 @@ O Banco Fenomenológico oferece uma sequência fértil para livro, ensino e inve
 - **CASO-002 — A Criança que Só Queria Brincar:** adaptação, necessidade de amor, corpo e história infantil;
 - **CASO-003 — A Singularidade que Busca Expressão:** Árvore da Singularidade, raízes, estrutura e expressão;
 - **CASO-004 — O Executivo, o Contemplativo e o Oni:** crescimento assimétrico, espiritualidade, Tradução emergente, abertura ontológica e competência/congruência.
+- **CASO-005 — Entre a Experiência e a Sexta Pergunta:** dúvida ontológica, invalidação prévia, dignidade epistêmica, Precedência Fenomenológica e possibilidade de integração sem fechamento metafísico.
 
 ### Uso recomendado
 
