@@ -127,6 +127,8 @@ Nenhuma hipótese perde automaticamente valor editorial ou fenomenológico por n
 
 ## Capítulo — Desenvolvimento editorial prioritário
 
+Estado em 03/10/2026: preparado o [[00 - Dossiê de Desenvolvimento do Capítulo]], versão 0.1, com sinopse, matriz de argumentos e fontes, protótipo de discernimento, comparação inicial dos CASOS 001 e 004 e abertura ensaística. A redação integral e a fundamentação ampliada permanecem em desenvolvimento.
+
 Título de trabalho preservado: **Espiritualidade e Psicoterapia: entre o reducionismo e a credulidade**.
 
 Tese candidata:
