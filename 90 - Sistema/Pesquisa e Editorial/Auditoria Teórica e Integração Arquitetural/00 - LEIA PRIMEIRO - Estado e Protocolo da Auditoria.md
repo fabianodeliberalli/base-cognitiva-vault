@@ -4,7 +4,7 @@ status: versão-de-trabalho
 autoridade_final: Fabiano Deliberalli
 criado_em: 2026-10-03
 atualizado_em: 2026-10-03
-versao: "0.7"
+versao: "0.8"
 projeto: Traduzindo o Ser Humano
 ---
 
@@ -27,6 +27,7 @@ O curso de 9 módulos/54 aulas é uma expressão pedagógica do patrimônio e n�
 - Cinco blocos preliminares do Movimento 1 foram realizados: Tradução/EIXO/disponibilidade; integração/congruência/expressão; singularidade/potência/adaptação; modalidades de Tradução; confronto arquitetural.
 - Esses pareceres são resultados preliminares, não deliberações autorais.
 - A revisão crítica identificou excesso de ênfase na compatibilidade, pouco confronto da suficiência do modelo e desenvolvimento editorial insuficiente. O Movimento 1 permanece aberto para corrigir essa assimetria.
+- Rodada focal de Tradução consolidada provisoriamente nesta branch: confronto com interlocutores combinados aplicado aos CASOS 001 e 004; retorno ao parecer de coerência e suficiência é a próxima entrega. Não houve validação empírica ou homologação das hipóteses.
 - Reaproveitar as distinções já produzidas. Evitar reiniciar toda a recuperação ou repetir ressalvas sem um problema novo.
 - Referências centrais do TSH, Método EIXO, casos e currículo não são alteradas por este protocolo.
 
@@ -410,6 +411,98 @@ Os confrontos focais identificaram antecedentes para diferenciação afetiva, re
 Ainda falta comparar o mesmo episódio descrito por Tradução com a combinação pertinente dos interlocutores. Somar nomes teóricos não constitui uma alternativa operacional suficiente. É preciso verificar o que cada organização permite observar, perguntar e decidir, e se há ganho de clareza ou apenas maior complexidade.
 
 Próxima entrega: síntese transversal com essa comparação aplicada ao material já recuperado, seguida de retorno ao parecer de coerência e suficiência do Movimento 1. Não declarar o Movimento 2 concluído. AISB permanece excluído.
+
+
+
+## Síntese transversal — Tradução e interlocutores combinados (03/10/2026)
+
+**Parecer provisório:** nos recortes documentados dos CASOS 001 e 004, não foi identificado um ganho de legibilidade que exija postular um processo psicológico exclusivo de Tradução. Há contribuição autoral plausível na organização das perguntas, na articulação entre dimensões e na disciplina de distinguir vivido, atribuição, hipótese e consequência. A utilidade adicional dessa organização ainda não foi demonstrada comparativamente. Ausência de exclusividade identificada não equivale a prova de redundância global.
+
+Trata-se de comparação documental feita pelo auditor, com fontes primárias já qualificadas no Manifesto. A combinação abaixo foi construída para o confronto; não é um modelo integrado consagrado na literatura, uma intervenção aplicada aos pacientes ou um teste empírico. Não encerra o Movimento 1 ou a validade discriminante geral.
+
+### 1. Fontes, estatutos e nova discrepância documental
+
+Registros clínicos 001 e 004, definição ampliada de Tradução e Síntese Emergente conferidos diretamente na main. Referência de captura: commit `035bc2f44f2ea1287ed46abb7c3bfa52d3458a56`. Foi localizado também o [[04 - Dossiê - Eixos Clínicos, Epistemológicos e Editoriais Emergentes]], documento de consulta recém-incorporado à main. Seu estatuto explícito é preservação e desenvolvimento, com maturidades diferentes; não homologa conclusões desta auditoria.
+
+Diferenças a conservar visíveis:
+- O novo dossiê chama o CASO-004 de forte exemplo de Tradução emergente. O registro mostra emergência de conteúdos e intervenções orientadoras no mesmo percurso. A designação é útil como ênfase narrativa; não estabelece modalidade pura ou mecanismo separado.
+- A avaliação de “alta maturidade” de princípios indica potencial de elaboração. Não equivale a prioridade histórica, validação clínica ou prontidão para publicação.
+- As sequências gráficas são provisórias. A Síntese inclui EIXO depois de Tradução no desenho e como condição de disponibilidade no texto. Isso pede explicitação da relação recursiva; só haveria incompatibilidade demonstrada se a seta fosse declarada ordem necessária e exclusiva.
+- A recomendação de iniciar o capítulo, preservada no dossiê, antecede o estado desta branch, que já contém uma primeira redação das dez seções. Os documentos cumprem funções diferentes.
+
+Nenhuma dessas diferenças foi apagada ou reconciliada automaticamente.
+
+### 2. Uma combinação funcional para comparação
+
+As tarefas abaixo são perguntas que a auditoria construiu com os interlocutores já examinados. Não se presume que todos precisem ser mobilizados em toda sessão, nem que tenham unidades de análise ou pressupostos idênticos.
+
+| Pergunta de comparação | Interlocutor pertinente | Limite ao aplicar aos registros |
+|---|---|---|
+| Como uma forma, palavra ou imagem participa do vivido? | Experiencing/simbolização, Gendlin | Compatibilidade descritiva não identifica mecanismo causal |
+| Quais afetos se diferenciam? | Granularidade emocional | Não há medida de granularidade nos casos |
+| Como a pessoa compreende estados mentais e relações? | Mentalização | Não classificar toda imagem ou sensação como mentalização |
+| O que reconhece saber, desconhecer ou precisar rever? | Metacognição | Abertura verbal para aprender não mede capacidade |
+| Como atribui origem a lembrança, imagem ou informação recebida? | Monitoramento da fonte | Julgamento de fonte é falível e não resolve ontologia |
+| Como o acontecimento se relaciona a orientações e significado? | Meaning-making | Busca, resultado e efeito na vida exigem descrições próprias |
+
+A dimensão espiritual pode participar das perguntas segundo a perspectiva da pessoa. Não é necessário convertê-la em mecanismo psicológico para examiná-la; tampouco o reconhecimento de seu valor autoriza uma conclusão sobre sua natureza última.
+
+### 3. CASO-001 — o que a descrição combinada consegue fazer
+
+O registro apresenta metáforas oferecidas pelo terapeuta, distinções entre exposição, fechamento e permeabilidade, relaxamento observado e reconhecimento de que havia o que aprender. A elaboração também propôs olhar a ruptura como ocasião de aprendizagem.
+
+Uma descrição combinada pode investigar: a relação entre metáfora e reconhecimento experiencial; o que mudou na compreensão da situação; a abertura declarada ao próprio desconhecimento; e a reformulação do significado da ruptura. Isso já permite formular perguntas pertinentes sem usar o termo Tradução.
+
+A organização por Tradução acrescenta aqui uma exigência documental útil: **qual aspecto ficou mais legível para o paciente e como sabemos disso?** O registro detalha a oferta do terapeuta mais do que a elaboração do paciente. Relaxamento não responde sozinho a essa pergunta. Há indícios compatíveis com ganho de legibilidade, mas sua extensão permanece pouco especificada.
+
+Essa exigência também pode ser formulada pelos interlocutores combinados. O possível ganho do TSH está em reuni-la num foco de trabalho reconhecível, não em possuir uma pergunta inacessível a outras abordagens. A proposta de fronteira e a linguagem de Markov blanket devem permanecer diferenciadas: o relato de uma metáfora não demonstra uma formalização matemática aplicada à pessoa.
+
+**Juízo:** a mediação está diretamente documentada; ganho experiencial é plausível e parcialmente descrito; mecanismo específico e integração posterior não foram estabelecidos.
+
+### 4. CASO-004 — distinguir conteúdo, condução e efeito
+
+| Recorte documentado | Leitura comparativa possível | Pergunta útil organizada por Tradução |
+|---|---|---|
+| Pressão corporal e emergência de cena infantil | Relação entre vivido, imagem/lembrança e elaboração experiencial | O que passou a ser reconhecido e a quem pertence a associação? |
+| Associação entre isolamento atual e infantil | Articulação de memória, relação e significado | Associação percebida agora, hipótese causal e confirmação histórica estão distinguidas? |
+| Atribuição de proteção e custo à presença percebida | Exame do sentido atribuído e da relação com a figura | A função é atribuída pelo paciente ou demonstrada pela investigação? |
+| Orientação para declarar desnecessária a vinculação | Participação do terapeuta na construção do posicionamento | Qual conteúdo foi oferecido, como foi recebido e poderia ser revisto? |
+| Imagem do Buda, paz e alívio | Acontecimento experiencial e efeito imediato relatado | O que mudou naquele momento e o que permaneceu fora do registro? |
+
+As perguntas da terceira coluna não são exclusivas do TSH. Nesta aplicação, organizam pontos que uma leitura centrada apenas no conteúdo simbólico poderia deixar menos explícitos. Não houve comparação com avaliadores independentes que permita afirmar superioridade.
+
+O registro sustenta que certas imagens apareceram espontaneamente na sessão, mas também descreve perguntas, orientações, repertório cultural prévio e significado atribuído. Portanto, **espontaneidade do conteúdo e participação terapêutica precisam ser examinadas separadamente**. Como proposta investigativa, emergente/mediada pode qualificar momentos, formas oferecidas e modos de reconhecimento; não é necessário etiquetar todo o caso com uma modalidade.
+
+A familiaridade anterior com o oni não determina a origem de cada imagem. A orientação do terapeuta não comprova sugestão causal, confirmação literal ou inadequação. Essas inferências excederiam a fonte. Também não há base para atribuir aos instrumentos conceituais aqui comparados o alívio narrado ou a melhora entre sessões.
+
+### 5. Onde está a contribuição e onde está o problema
+
+É necessário preservar dois sentidos de Tradução sem convertê-los numa contradição artificial:
+- **Processo descrito:** a experiência se torna mais legível para a pessoa, eventualmente por operações compartilhadas com outros constructos.
+- **Metodologia:** perguntas e recursos que procuram favorecer, acompanhar e examinar essa legibilidade.
+
+Chamar Tradução apenas de “organização metodológica” deixaria de fora o processo explicitado na definição vigente. Chamar todo ganho de legibilidade de “mecanismo novo” ultrapassaria a evidência. A auditoria mantém ambos os níveis e pergunta como se relacionam.
+
+Há ainda uma vulnerabilidade da definição ampla: se qualquer reconhecimento, elaboração ou mudança for contado como Tradução, sua fronteira ficará difícil de examinar. Propõe-se um critério documental mínimo para investigação, não uma escala: indicar o aspecto inicialmente pouco diferenciável, o ganho relatado/observado e sua fonte; distinguir esse ganho de mudança de estado, confiança ou concordância. Reconhecimento parcial e expressão não verbal permanecem possíveis. O critério limita o que o auditor pode afirmar sobre um registro; não exige que toda experiência clínica seja verbalizada ou mensurada.
+
+| Alegação | Classificação provisória |
+|---|---|
+| Os componentes examinados possuem antecedentes | Já existente, com combinações e ênfases distintas |
+| Legibilidade como foco comum de investigação clínica, pedagógica e editorial | Reformulação útil candidata |
+| Emergente/mediada como descrição da proveniência e participação em episódios | Hipótese promissora de utilidade |
+| Tradução como mecanismo científico exclusivo ou superior | Insuficientemente fundamentado |
+| Toda a proposta é redundante porque seus componentes já existem | Conclusão não demonstrada |
+| Os casos validam uma cadeia necessária até expressão da singularidade | Insuficientemente fundamentado |
+
+### 6. Implicações e conclusão desta unidade
+
+**Para o capítulo:** apresentar uma proposta clínico-epistemológica de investigação e acompanhamento. Sua força pode estar na clareza do raciocínio, nos limites de cada afirmação e na consideração positiva da espiritualidade. O método de análise da experiência não pode, por si, resolver sua natureza metafísica. A vinheta ilustra perguntas e tensões, inclusive a participação do terapeuta; não comprova efeito específico da matriz.
+
+**Para o livro:** desenvolver a relação entre reconhecer, compreender, sustentar e viver de outro modo. Os casos dão concretude às perguntas sem provar toda a arquitetura. A genealogia dos interlocutores permite autoria por articulação e elaboração própria; a tese antropológica sobre singularidade continua necessitando argumento próprio.
+
+**Para a pesquisa:** o próximo teste útil de organização é fazer leitores independentes examinarem os mesmos registros com um roteiro de Tradução e com uma alternativa combinada explicitada. Comparar distinções justificadas, inferências sem apoio, perguntas relevantes, concordância e esforço. Esse seria estudo de utilidade do roteiro, não prova imediata de um constructo latente ou de eficácia terapêutica. Nenhum desses procedimentos foi executado nesta auditoria.
+
+**Para a continuidade:** a rodada focal de Tradução dispõe agora de uma síntese provisória suficiente para alimentar o parecer do Movimento 1. Evitar prolongar indefinidamente comparações isoladas. Próxima entrega: consolidar as sete unidades prioritárias de coerência e suficiência, distinguindo conclusões disponíveis e lacunas que realmente as limitam. A investigação discriminante geral de EIXO e a pré-produção do livro permanecem frentes próprias; AISB continua posterior.
 
 
 ## Capítulo — Desenvolvimento editorial prioritário
