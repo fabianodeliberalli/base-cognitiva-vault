@@ -4,7 +4,7 @@ status: versão-de-trabalho
 autoridade_final: Fabiano Deliberalli
 criado_em: 2026-10-03
 atualizado_em: 2026-10-03
-versao: "0.6"
+versao: "0.7"
 projeto: Traduzindo o Ser Humano
 ---
 
@@ -352,6 +352,64 @@ Nos CASOS 001 e 004, as mudanças narradas já documentadas podem orientar pergu
 **Pesquisa:** uma primeira comparação pode examinar descrições do mesmo episódio: apenas distinções afetivas; distinções afetivas acrescidas de proveniência e contexto; organização por Tradução. Perguntar que informação ou decisão adicional aparece e qual esforço é exigido. Isso avalia utilidade metodológica inicial; não basta para validade discriminante de um constructo. Eventual estudo quantitativo exigirá operacionalização própria e método apropriado.
 
 Próximo confronto: meaning-making. Depois, síntese transversal que teste se a combinação dos interlocutores já descreve suficientemente a contribuição atribuída a Tradução. AISB permanece fora desta etapa.
+
+
+
+## Confronto focal — Tradução × meaning-making (03/10/2026)
+
+Pesquisa nova e comparação conceitual delimitada. Não recupera a investigação histórica nem conclui validade empírica ou coerência interna global.
+
+### Interlocutor e fonte
+
+Park (2010), formulação integrativa da própria autora, examinada nas seções conceituais e metodológicas do texto original. O artigo também é revisão: seu resumo de estudos não foi tratado como consulta direta aos originais empíricos. Distingue significado global/situacional e esforços de elaboração/produtos obtidos; admite dimensões cognitivas, emocionais, automáticas e deliberadas. Inclui revisão de crenças e metas. Não reduzir esse interlocutor a pensamento verbal ou busca de explicação causal. Park e Folkman (1997) foram localizados como antecedente, com acesso ao resumo, sem leitura integral.
+
+### Comparação — inferências da auditoria
+
+A definição ampliada de Tradução torna legível o vivido, incluindo o considerado significativo, sem garantir reorganização. Na comparação delimitada, meaning-making focaliza relações entre um acontecimento e orientações de significado. Há sobreposição quando a legibilidade envolve elaboração de sentido; há diferença de tarefa quando se reconhece uma sensação, imagem ou proveniência sem rever essas orientações.
+
+| Enunciado | Juízo provisório | Fundamentação comparativa |
+|---|---|---|
+| Uma experiência pode adquirir sentido e participar da revisão da vida | Já existente no interlocutor | Não constitui novidade exclusiva de Tradução |
+| Tradução inclui afeto; meaning-making seria exclusivamente intelectual | Distinção não sustentada | A formulação consultada é mais ampla |
+| Tornar legível é necessariamente reconstruir sentido | Equivalência global não demonstrada | A definição do TSH admite ganhos parciais em outros aspectos |
+| Reconhecer um significado garante integração | Insuficientemente fundamentado | Ganho situado e participação duradoura são perguntas diferentes |
+| Organizar legibilidade, proveniência e sentido numa arquitetura | Reformulação útil candidata | O ganho frente aos interlocutores combinados permanece aberto |
+
+Três perguntas de trabalho, sem convertê-las em estágios necessários:
+1. O que a pessoa consegue reconhecer e diferenciar no vivido?
+2. Que significado atribui a isso e como o relaciona com suas orientações de vida?
+3. O que se modifica em escolhas, relações e funcionamento, em quais condições?
+
+Exemplos hipotéticos: reconhecer uma pressão como sensação atual pode aumentar legibilidade sem produzir uma orientação existencial; relacionar uma ruptura à revisão de uma meta pode caber nos dois vocabulários; formular “agora compreendo” não informa sozinho qual das três perguntas foi respondida.
+
+### Confronto inverso: competência, congruência e singularidade
+
+Para o problema já documentado de funcionamento executivo e perda de sentido no CASO-004, a auditoria deve considerar ao menos duas leituras candidatas:
+
+- **Congruência expressiva:** dimensões valorizadas pela pessoa encontram participação insuficiente em sua vida.
+- **Relações entre metas, crenças e acontecimento:** modos de funcionamento e acontecimentos presentes entram em tensão com orientações pessoais, sem necessidade de postular uma potência não expressa.
+
+São hipóteses comparativas, não explicações demonstradas do caso. Podem coexistir ou iluminar aspectos diferentes. Descrever satisfação, prioridades e possibilidades concretas ao longo do tempo ajudaria a decidir o que cada leitura acrescenta. O êxito executivo não estabelece competência EIXO; a perda de sentido não comprova incongruência em todos os domínios.
+
+A pergunta antropológica sobre singularidade permanece legítima. Sua contribuição exige elaboração própria; não pode ser considerada comprovada pela literatura psicológica consultada. Na direção inversa, uma descrição funcional de metas não esgota automaticamente o valor existencial ou espiritual reconhecido pela pessoa.
+
+### Contribuições concretas
+
+**TSH:** preservar a definição vigente. Investigar legibilidade e elaboração de sentido como tarefas relacionadas, sem impor que uma sempre anteceda ou produza a outra. A expressão “experiência precisa ser traduzida antes de ser integrada”, preservada na camada histórica da nota, requer delimitação se tomada como lei universal; não usar este confronto para alterá-la automaticamente.
+
+**Capítulo:** acrescentar à seção de acompanhamento a distinção entre busca e resultado de elaboração de sentido. Examinar significado e efeitos separadamente, sem solicitar narrativa positiva ou explicação última como condição de legitimidade da experiência.
+
+**Livro:** desenvolver a relação entre reconhecimento do vivido, transformação de orientações e expressão na vida. A hipótese de congruência expressiva ganha um contraponto substantivo, que deve ser preservado na argumentação.
+
+**Pesquisa:** comparar as três perguntas e suas respostas no mesmo material. Distinguir a atividade de elaboração, o resultado reconhecido e o efeito acompanhado. Não atribuir eficácia ao TSH com base na literatura de outro modelo.
+
+### Síntese transversal inicial e próximo trabalho
+
+Os confrontos focais identificaram antecedentes para diferenciação afetiva, reconhecimento experiencial, exame de estados mentais, avaliação do próprio conhecimento, atribuição de fonte e elaboração de sentido. A contribuição mais defensável de Tradução neste estágio é uma organização metodológica autoral dessas tarefas em torno da legibilidade multidimensional. Esse juízo preserva seu valor e não estabelece exclusividade científica.
+
+Ainda falta comparar o mesmo episódio descrito por Tradução com a combinação pertinente dos interlocutores. Somar nomes teóricos não constitui uma alternativa operacional suficiente. É preciso verificar o que cada organização permite observar, perguntar e decidir, e se há ganho de clareza ou apenas maior complexidade.
+
+Próxima entrega: síntese transversal com essa comparação aplicada ao material já recuperado, seguida de retorno ao parecer de coerência e suficiência do Movimento 1. Não declarar o Movimento 2 concluído. AISB permanece excluído.
 
 
 ## Capítulo — Desenvolvimento editorial prioritário
