@@ -4,7 +4,7 @@ status: versão-de-trabalho
 autoridade_final: Fabiano Deliberalli
 criado_em: 2026-10-03
 atualizado_em: 2026-10-03
-versao: "0.3"
+versao: "0.4"
 projeto: Traduzindo o Ser Humano
 ---
 
@@ -178,6 +178,79 @@ Esses exemplos não exigem que todas as dimensões sejam diferenciadas em toda o
 - **Pesquisa:** comparar episódios pelas mudanças efetivamente documentadas, examinando se a linguagem de Tradução acrescenta distinções que não são obtidas com os interlocutores isolados ou combinados.
 
 Próximo confronto focal: Tradução × metacognição, incluindo distinção de fontes da experiência, monitoramento e limites do conhecimento. Pergunta decisiva: a organização do TSH muda observação e investigação ou reúne operações já descritas em uma arquitetura útil? Resultado esperado: juízo delimitado sobre contribuição metodológica e eventual lacuna conceitual, não proclamação de novidade.
+
+
+## Confronto focal — Tradução × metacognição × monitoramento da fonte (03/10/2026)
+
+Continuação da pesquisa nova para o capítulo e a auditoria. É comparação conceitual delimitada, não recuperação da investigação histórica nem estudo de validade discriminante empírica. Não conclui a coerência interna global ou o Movimento 2.
+
+### Interlocutores e fontes
+
+Definição ampliada de [[Tradução da Experiência Humana]], recuperada diretamente da main: legibilidade progressiva e diferenciação do percebido, sentido, interpretado, lembrado, imaginado, relacionado e significativo. A comparação considera ganhos parciais, sem exigir todas as distinções em cada ocorrência.
+
+Fontes primárias externas:
+- Flavell (1979), *Metacognition and cognitive monitoring*: modelo de conhecimentos, experiências metacognitivas, objetivos e estratégias; passagens pertinentes examinadas no texto original.
+- Nelson e Narens (1990), *Metamemory: A theoretical framework and new findings*: seções iniciais do modelo e discussão metodológica dos relatos subjetivos; não se declara revisão integral dos achados do capítulo.
+- Johnson, Hashtroudi e Lindsay (1993), *Source monitoring*: introdução e fundamentação examinadas nas três primeiras páginas por imagem, no PDF disponibilizado pelo laboratório de um coautor. A pesquisa não cobriu integralmente as 26 páginas.
+
+Monitoramento da fonte não é sinônimo de toda metacognição. Os interlocutores têm unidades e perguntas parcialmente distintas; não são tratados como uma teoria única.
+
+### O que já está descrito
+
+Flavell inclui conhecimentos sobre cognição e experiências conscientes cognitivas ou afetivas referentes a uma atividade cognitiva. Também considera mudanças de objetivos e estratégias e a possibilidade de conhecimento metacognitivo inexato ou pouco útil. Assim, “Tradução inclui afeto e metacognição é só intelectual” não constitui distinção sustentada por este interlocutor.
+
+Nelson e Narens distinguem monitoramento, que informa o modelo no metanível, e controle, que altera o processo no nível do objeto. Seus relatos introspectivos são dados cuja precisão e distorções devem ser examinadas, não acesso infalível aos processos. Essa arquitetura de metamemória não equivale automaticamente a EIXO–Tradução; serve de comparação funcional inicial, não de substituição.
+
+Johnson e colaboradores investigam atribuições sobre a origem de memórias, conhecimentos e crenças. Diferenciam fontes externas, fontes internas e origem interna/externa. As atribuições dependem de características disponíveis e processos de julgamento, podendo falhar. O modelo não fornece um teste da natureza metafísica de uma experiência.
+
+### Comparação funcional e classificação
+
+| Tarefa/enunciado | Sobreposição ou limite | Juízo provisório |
+|---|---|---|
+| Reconhecer que se entende ou não entende, examinar confiança e revisar uma estratégia | Contemplado na investigação metacognitiva | Já existente; pode integrar Tradução |
+| Diferenciar lembrado, imaginado e originado em informação externa | Há antecedente específico em monitoramento da fonte | Já existente; não sustenta novidade exclusiva |
+| Observar cognição e modificar o curso de uma tarefa | A distinção monitoramento/controle já organiza essa relação | Relação recursiva, isoladamente, não demonstra novidade |
+| Acolher o sentido de um vivido corporal e distingui-lo de uma explicação | Não é esgotado pela tarefa de atribuição de fonte | Escopo distinto, sem exclusividade frente ao conjunto dos interlocutores |
+| Organizar corpo, afeto, história, relação, sentido e estatuto das afirmações | Pode reunir tarefas parcialmente compartilhadas | Síntese metodológica candidata |
+| Aumento da clareza ou da confiança significa maior precisão | Os interlocutores não autorizam essa equivalência | Inferência insuficientemente fundamentada |
+| Tradução é idêntica a metacognição | A definição do TSH não exige sempre julgamento sobre o próprio conhecimento | Equivalência global não demonstrada |
+| Tradução é processo científico distinto | Ainda faltam definição operacional e comparação empírica | Insuficientemente fundamentado |
+
+Categorias como “percebido”, “lembrado” e “interpretado” podem se sobrepor no mesmo relato: uma lembrança é experienciada agora e pode estar acompanhada de interpretação. Como proposta para a auditoria, convém utilizá-las como perguntas sobre aspectos e proveniência, não como compartimentos mutuamente exclusivos. Essa recomendação não altera a nota vigente.
+
+### Consequência crítica: legibilidade e precisão
+
+A auditoria propõe distinguir três perguntas:
+1. A formulação passou a fazer sentido experiencial para a pessoa?
+2. A pessoa confia nela e reconhece seus limites?
+3. Que apoio existe para aquilo que está sendo afirmado?
+
+São perguntas relacionadas, mas não intercambiáveis. Uma metáfora pode ser fecunda sem descrever literalmente um mecanismo; uma lembrança pode ganhar forma sem adquirir confirmação histórica. A atribuição de fonte também permanece sujeita a erro. Essas distinções não retiram o valor existencial ou espiritual da experiência; delimitam o alcance da afirmação produzida sobre ela.
+
+A formulação atual de Tradução já abre espaço para diferenciar imaginação, memória e interpretação. O ganho deste confronto é tornar mais exigente a pergunta pelos indicadores: legibilidade para quem, acerca de qual aspecto e segundo qual critério? Confiança ou riqueza narrativa, isoladamente, não bastam como indicador de precisão ou benefício.
+
+### Exemplos conceituais de discriminação
+
+Exemplos hipotéticos, não fatos atribuídos aos casos:
+
+- Uma pessoa identifica uma imagem como algo que imaginou durante uma pergunta. Há atribuição de fonte; não se segue que a função ou o sentido da imagem tenha sido elaborado.
+- Uma pessoa encontra uma metáfora reconhecível para um afeto, sem avaliar o próprio conhecimento. Pode haver ganho parcial de Tradução; não é necessário chamar todo esse episódio de metacognição.
+- Uma pessoa formula uma explicação muito coerente e aumenta sua confiança, embora não disponha de apoio adicional. A narrativa ficou organizada; a precisão não foi estabelecida.
+- Uma pessoa reconhece a diferença entre a cena lembrada e a associação que construiu agora. Pode haver ganho descrito pelos dois vocabulários. A dupla descrição não demonstra dois mecanismos.
+
+A possibilidade de descrever um episódio com mais de um conceito exige comparar a contribuição de cada descrição, não declarar redundância de toda a arquitetura.
+
+### Implicações e próximo trabalho
+
+**TSH:** preservar a definição vigente; investigar Tradução como tarefa integradora, sem afirmar exclusividade de seus componentes. Não transformar amplitude temática em demonstração de constructo novo.
+
+**Capítulo:** a separação entre fenômeno, significado e hipóteses ganha uma pergunta adicional sobre apoio e revisão. Na aplicação ao caso, distinguir o relato de lembrança de sua confirmação e a familiaridade cultural da explicação de sua origem.
+
+**Livro:** explorar narrativamente a diferença entre algo ganhar forma, ganhar sentido e tornar-se uma afirmação justificável. Essas possibilidades podem coexistir sem uma sequência universal.
+
+**Pesquisa:** comparar descrições do mesmo episódio feitas com Tradução e com experiencing/simbolização, metacognição e monitoramento da fonte combinados. Perguntar quais observações e decisões adicionais a organização autoral permite; avaliar também redundância e esforço desnecessário. Nenhum resultado empírico desse exame foi produzido.
+
+Próximo confronto focal: Tradução × mentalização. Examinar o entendimento de estados mentais próprios e alheios, incluindo corpo, afeto e relações, sem restringir mentalização a uma inferência intelectual. Granularidade emocional e meaning-making permanecem para confrontos próprios. A validade discriminante geral continua aberta.
 
 
 ## Capítulo — Desenvolvimento editorial prioritário
