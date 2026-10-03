@@ -3,15 +3,27 @@ id: CASO-005-PESQ
 tipo: dividas-de-pesquisa
 status: aberto
 projeto: Traduzindo o Ser Humano
+fonte_factual_principal: Caso_clinico.05docx.docx
 ---
 
 # CASO-005 — 05 — Dívidas de Pesquisa
 
-## 1. Proveniência clínica
-- localizar, se existirem, registros contemporâneos da sessão;
-- comparar a vinheta posterior com prontuário/notas originais;
-- corrigir inconsistências de gênero e detalhes biográficos sem reduzir anonimização;
-- identificar quais detalhes foram adicionados durante elaboração com Claude.
+## 1. Proveniência clínica — parcialmente resolvida
+
+### Resolvido
+Foi localizado o relato autoral original do terapeuta:
+- `Caso_clinico.05docx.docx`
+
+Isso estabelece uma hierarquia documental mais robusta:
+1. relato original;
+2. reelaborações teóricas posteriores com Claude;
+3. análises do Banco Fenomenológico.
+
+### Ainda pendente
+- localizar, se existirem, prontuário ou notas contemporâneas das sessões;
+- esclarecer o contexto específico da referência a discriminação de gênero presente no relato original;
+- verificar se algum detalhe das reelaborações posteriores não aparece no relato original;
+- preservar diferenças entre relato retrospectivo e registro contemporâneo, se este for localizado.
 
 ## 2. Abertura ontológica / indecidibilidade
 Verificar e aprofundar:
@@ -41,7 +53,7 @@ Revisar critérios contemporâneos para diferenciar:
 - experiências anômalas não patológicas.
 
 ## 5. Sustentação relacional
-A tese de “variável causal” presente nos textos-fonte é mais forte do que o caso permite.
+A tese de “variável causal” presente nas reelaborações posteriores é mais forte do que o caso original permite.
 
 Pesquisar:
 - aliança terapêutica;
@@ -74,8 +86,15 @@ Confrontar com:
 - processamento experiencial;
 - metacognição.
 
-## 8. Validação das referências dos textos Claude
-As referências e afirmações científicas presentes nos documentos precisam ser verificadas em fontes primárias antes de uso editorial ou acadêmico.
+## 8. Validação das referências dos textos elaborados com Claude
+As referências e afirmações científicas presentes nos documentos posteriores precisam ser verificadas em fontes primárias antes de uso editorial ou acadêmico.
+
+Distinguir:
+- conteúdo clínico originalmente escrito por Fabiano;
+- reorganização/redação posterior;
+- inferências teóricas;
+- referências adicionadas;
+- afirmações causais ou mecanísticas propostas posteriormente.
 
 ## 9. Segurança e ética editorial
 - anonimização robusta;
@@ -84,7 +103,7 @@ As referências e afirmações científicas presentes nos documentos precisam se
 - não usar melhora subjetiva como prova de ontologia;
 - não apresentar caso isolado como prova de eficácia ou causalidade.
 
-## 10. Microcaso distinto encontrado nas mesmas fontes
+## 10. Microcaso distinto encontrado nas fontes secundárias
 Há uma segunda vinheta: pessoa grávida, com dor facial de longa duração, que durante trabalho com respiração/ponto de mirada relata cena noturna envolvendo tecnologia extraterrestre e escaneamento, seguida de alívio somático.
 
-Esse material **não foi incorporado ao CASO-005**. Pode futuramente ser registrado como microcaso ou CASO-006 caso haja dados clínicos suficientes.
+Esse material **não pertence ao CASO-005** e não aparece no relato original agora localizado. Deve permanecer separado e pode futuramente ser registrado como microcaso ou CASO-006 caso haja dados clínicos suficientes.
