@@ -203,3 +203,14 @@ Estatuto: literatura primária localizada, com acesso parcial explicitado. Pesqu
 - Park CL, Folkman S. Meaning in the context of stress and coping. *Review of General Psychology*. 1997;1(2):115–144. DOI: 10.1037/1089-2680.1.2.115. [Registro e resumo da editora](https://journals.sagepub.com/doi/10.1037/1089-2680.1.2.115). Apenas resumo e metadados consultados; texto integral restrito.
 
 Pesquisa nova e conceitual. Formulação de trabalho no Protocolo; contribuição ao acompanhamento na seção 9 do capítulo. Não constitui recuperação histórica, revisão sistemática, prova de congruência expressiva ou estudo de eficácia de Tradução.
+
+## Atualização focal — síntese transversal aplicada (03/10/2026)
+
+Recuperados novamente da main os registros clínicos 001 e 004, a definição ampliada de Tradução e a Síntese Emergente. Commit de referência da captura: `035bc2f44f2ea1287ed46abb7c3bfa52d3458a56`.
+
+Nova fonte direta localizada:
+- [[04 - Dossiê - Eixos Clínicos, Epistemológicos e Editoriais Emergentes]], em `90 - Sistema/Pesquisa e Editorial/`; blob `aa5d7c116b1dfccafab0c02c04b6208c671e3086`. Estatuto: referência de consulta revisável, que reúne versões de trabalho de maturidade desigual, oriundas do Laboratório Clínico. Lido integralmente. Não equivale a validação independente dos casos nem à homologação da auditoria.
+
+O parecer transversal registra diferenças de força de afirmação: modalidade emergente atribuída ao CASO-004; maturidade dos princípios; função das sequências gráficas; estado editorial do capítulo. Essas diferenças foram qualificadas, sem alteração do dossiê-fonte.
+
+A comparação combinada é construção analítica desta auditoria, apoiada nos interlocutores já registrados acima. Não é modelo integrado publicado nem estudo empírico executado. O parecer se encontra no Protocolo, em “Síntese transversal — Tradução e interlocutores combinados”. As lacunas dos originais integrais dos 12 elos e da investigação discriminante histórica permanecem.
