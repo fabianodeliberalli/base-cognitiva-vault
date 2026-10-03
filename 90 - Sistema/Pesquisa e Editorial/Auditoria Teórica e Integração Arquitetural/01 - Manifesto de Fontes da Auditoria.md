@@ -182,3 +182,10 @@ Pesquisa nova, de escopo conceitual; não substitui a investigação histórica 
 - Johnson MK, Hashtroudi S, Lindsay DS. Source monitoring. *Psychological Bulletin*. 1993;114(1):3–28. DOI: 10.1037/0033-2909.114.1.3. [PDF no laboratório de coautor](https://onlineacademiccommunity.uvic.ca/lindsaylab/wp-content/uploads/sites/4861/2020/07/JohnsonHashtroudiLindsay1993_0.pdf). As três primeiras páginas foram examinadas por imagem; PDF sem extração textual na ferramenta. [Registro bibliográfico](https://pubmed.ncbi.nlm.nih.gov/8346328/).
 
 Estatuto: fontes diretas localizadas, literatura histórica primária. As sínteses e classificações são inferências comparativas do auditor, registradas no Protocolo. Não declarar leitura integral de todos os textos, teste empírico, equivalência global com Tradução ou detector ontológico.
+
+## Fontes primárias do confronto com mentalização — 03/10/2026
+
+- Fonagy P, Luyten P. A developmental, mentalization-based approach to the understanding and treatment of borderline personality disorder. *Development and Psychopathology*. 2009;21(4):1355–1381. DOI: 10.1017/S0954579409990198. [Texto original em PDF](https://mentalisation.org/wp-content/uploads/2018/09/16_Fonagy_2009_MBT_BL.pdf). Passagens conceituais e dimensionais examinadas; não revisão integral das evidências neurobiológicas.
+- Bateman A, Fonagy P. Mentalization based treatment for borderline personality disorder. *World Psychiatry*. 2010;9(1):11–15. DOI: 10.1002/j.2051-5545.2010.tb00255.x. [Texto original no PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2816926/). Definição, intervenções e postura terapêutica consultadas.
+
+Estatuto: fontes diretas localizadas, literatura histórica primária. Pesquisa nova, conceitual e delimitada; não recuperação do estudo histórico desaparecido. Contexto dos textos: transtorno de personalidade borderline. Não utilizar como diagnóstico dos casos do vault ou prova de eficácia do TSH. O confronto e seus juízos estão no Protocolo; o antecedente de postura clínica foi acrescentado à primeira redação do capítulo, na branch.
