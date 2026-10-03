@@ -4,8 +4,10 @@ tipo: registro-clinico
 status: ativo
 anonimizado: true
 projeto: Traduzindo o Ser Humano
-origem: reconstrução retrospectiva a partir de textos autorais elaborados com apoio do Claude
+origem: relato autoral original do terapeuta, posteriormente reelaborado em textos com apoio do Claude
 fontes_origem:
+  - Caso_clinico.05docx.docx
+fontes_secundarias_de_elaboracao:
   - Arquitetura_Invisivel_capitulo_consolidado.docx
   - o problema da informação multidimensional.docx
 tags:
@@ -21,81 +23,89 @@ tags:
 # CASO-005 — Entre a Experiência e a Sexta Pergunta
 ## 01 — Registro Clínico
 
-> [!warning] Estatuto documental
-> Este não é um registro transcrito diretamente de prontuário ou áudio de sessão. É uma reconstrução retrospectiva extraída de dois textos autorais posteriores, produzidos com apoio do Claude e destinados a elaboração teórica/editorial. O conteúdo factual abaixo preserva apenas o que essas fontes relatam. Interpretações ficam separadas em [[CASO-005 - Entre a Experiência e a Sexta Pergunta - 03 - Hipóteses e Correlações]].
+> [!important] Estatuto documental
+> Este registro foi revisado a partir do **relato autoral original do terapeuta**, preservado no arquivo `Caso_clinico.05docx.docx`. Os textos posteriormente elaborados com apoio do Claude passam a ser tratados como fontes secundárias de desenvolvimento teórico e editorial, não como fonte primária do caso. Não se trata de transcrição literal de sessão ou prontuário contemporâneo.
 
-> [!note] Anonimização e inconsistência de gênero
-> As fontes alternam linguagem masculina e feminina ao descrever a pessoa atendida. Para não inferir gênero nem ampliar identificabilidade, este registro utiliza linguagem neutra quanto ao gênero.
+## Identificação anonimizada
 
-## Contexto anonimizado
+Paciente homem, adulto, professor universitário por muitos anos, com pós-graduações na área, casado, com filhos, já aposentado, com vida financeira relativamente tranquila e projetos de longo prazo para mudança de carreira nesta fase da vida.
 
-Pessoa adulta, com longa trajetória acadêmica como docente universitária/o, pós-graduações na área, aposentada/o, casada/o e com filhos. Relata vida financeira relativamente estruturada e projetos de mudança profissional nesta fase da vida.
-
-Já havia realizado muitos anos de psicoterapia, com trabalho prévio sobre aspectos do desenvolvimento psicológico, afetivo e relacional.
+Já havia realizado muitos anos de psicoterapia, com trabalho efetivo sobre questões primárias do percurso de desenvolvimento psicológico, afetivo e relacional.
 
 ## Motivo de busca
 
-Busca psicoterapia porque relata experiências de natureza espiritual desde a infância, entre elas:
-- experiências descritas como projeções astrais lúcidas ou saídas extracorpóreas;
+Busca apoio terapêutico porque, desde a infância, vivencia experiências que descreve como de cunho espiritual, incluindo:
+
+- projeções astrais lúcidas ou saídas extracorpóreas;
 - contato percebido com entidades desencarnadas;
 - contato percebido com consciências identificadas como extraterrestres;
-- Estados Ampliados de Consciência, espontâneos ou associados a meditação, práticas e retiros.
+- Estados Ampliados da Consciência, espontâneos ou associados a meditações e práticas específicas.
 
-A pessoa procurava compreender e integrar essas experiências de forma madura.
+Há uma busca de compreensão e ampliação madura daquilo que vivencia naturalmente desde criança.
 
-Relata não ter encontrado anteriormente espaço terapêutico no qual pudesse falar livremente sobre essa dimensão da vida. Os textos-fonte descrevem que, em psicoterapias anteriores, essa parte de seu percurso teria sido pouco acolhida ou suprimida.
+O paciente relata não ter encontrado, até então, um espaço terapêutico adequado para falar livremente sobre suas vivências espirituais. Em processos terapêuticos anteriores, segundo seu relato, houve uma espécie de supressão dessa dimensão de seu percurso de desenvolvimento.
 
-A angústia principal apresentada era a dúvida persistente sobre a autenticidade das experiências: seriam “reais” ou “imaginárias”?
+A angústia apresentada era a dúvida persistente sobre a autenticidade das experiências: seriam reais ou imaginárias?
 
 ## Primeira sessão
 
-A primeira sessão é descrita como predominantemente dedicada ao acolhimento e à escuta livre.
+A primeira sessão foi descrita pelo terapeuta como de acolhimento, com escuta empática e livre.
 
-Foram relatadas diferentes experiências espirituais e explicitada a necessidade de um espaço terapêutico onde elas pudessem ser abordadas sem confirmação literal e sem patologização automática.
+O paciente relatou brevemente várias experiências espirituais e explicitou que procurava um espaço psicoterapêutico no qual pudesse abordar livremente esses temas.
 
-A postura do terapeuta, segundo as fontes, foi:
-- acolher;
-- não confirmar ontologicamente;
-- não patologizar de imediato;
-- indicar a necessidade de maior processamento e integração das vivências.
+A postura do terapeuta foi descrita como:
+
+- acolhimento;
+- ausência de confirmação literal;
+- ausência de patologização automática;
+- indicação de que as experiências ainda demandavam maior processamento e integração psíquica.
 
 ## Segunda sessão
 
-O trabalho começou a partir da sensação de medo associada à dúvida sobre a realidade ou não das experiências.
+O trabalho iniciou-se com uma mirada sobre a sensação de medo que acompanhava a angústia acerca da realidade ou não das experiências vividas.
 
-A exploração conduziu a memórias de períodos de vida em que a pessoa encontrou obstáculos para ser e fazer aquilo que desejava profissionalmente. O texto-fonte afirma que desde a infância havia clareza sobre um percurso desejado, mas fatores sociais e sistêmicos dificultaram sua realização, incluindo mensagens externas de incapacidade e referências a discriminação de gênero.
+O processo evoluiu para memórias de períodos da vida em que houve conflitos para que o paciente pudesse ser e fazer aquilo que queria no âmbito profissional. O relato original registra que, desde criança, ele sabia o percurso que gostaria de seguir, mas fatores sociais e sistêmicos dificultaram esse caminho, incluindo falas externas de incapacidade e referências a discriminação de gênero.
 
-Durante o processo houve:
-- grande carga emocional;
-- trabalho de reprocessamento;
-- atualização de memórias e perspectivas biográficas, conforme descrito pela fonte;
-- posterior relaxamento;
-- sensação de felicidade e bem-estar.
+> [!note] Ponto documental a esclarecer
+> A referência a discriminação de gênero está presente no relato original e é preservada como tal. Seu contexto específico não está detalhado no documento de origem e não deve ser inferido.
 
-Quando esse estado foi sustentado na sessão, a pessoa relatou a emergência de um Estado Ampliado de Consciência semelhante a estados previamente alcançados durante meditação.
+Após um percurso inicial de reprocessamento com grande carga emocional explicitada, o relato original descreve integração das vivências do passado com uma perspectiva atualizada.
 
-Nesse estado, percebeu uma mensagem de caráter espiritual que foi experienciada como confirmação e reforço do processo que estava ocorrendo.
+Por fim, houve:
+- relaxamento;
+- felicidade;
+- bem-estar.
+
+Quando esse estado foi sustentado na sessão, ocorreu a replicação de um Estado Ampliado da Consciência já conhecido pelo paciente durante meditação.
+
+Nesse estado, ele percebeu uma mensagem espiritual que foi vivenciada como confirmação e reforço do processo que estava sendo realizado naquele momento e como algo de auxílio efetivo.
 
 ## Desfecho imediato descrito
 
-O texto-fonte registra:
+O relato original sustenta como fatos narrados:
+- diminuição da carga emocional ao final do processo;
 - relaxamento;
-- felicidade/bem-estar;
-- maior integração narrativa;
-- reforço subjetivo do processo terapêutico;
-- manutenção de uma experiência espiritual sem que terapeuta ou paciente precisassem resolver sua verdade ontológica naquele momento.
+- sensação de felicidade e bem-estar;
+- emergência de EAC previamente conhecido;
+- percepção de mensagem espiritual com sentido confirmatório para o paciente.
 
 ## O que este registro não afirma
 
 Este caso não estabelece:
 - se as experiências correspondem a agentes ou realidades externas;
-- se a mensagem espiritual tinha origem externa ou interna;
+- se a mensagem espiritual possuía origem externa ao paciente;
 - diagnóstico;
 - mecanismo causal específico;
 - eficácia de uma técnica particular;
 - causalidade entre sustentação relacional e integração.
 
 Essas questões pertencem às hipóteses e à pesquisa.
+
+## Hierarquia de fontes
+
+1. **Fonte primária de reconstrução:** `Caso_clinico.05docx.docx` — relato autoral original do terapeuta.
+2. **Fontes secundárias:** `Arquitetura_Invisivel_capitulo_consolidado.docx` e `o problema da informação multidimensional.docx` — reelaborações posteriores com aprofundamento teórico e editorial.
+3. **Interpretações do Banco Fenomenológico:** documentos 02–05 deste caso.
 
 ## Navegação
 
