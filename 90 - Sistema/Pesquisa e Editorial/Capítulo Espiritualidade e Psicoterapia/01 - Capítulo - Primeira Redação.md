@@ -1,14 +1,14 @@
 ---
 tipo: capitulo-em-desenvolvimento
 status: rascunho
-versao: "0.2"
+versao: "0.3"
 criado_em: 2026-10-03
 autoridade_final: Fabiano Deliberalli
 ---
 
 # Espiritualidade e Psicoterapia: entre o reducionismo e a credulidade
 
-Redação inicial das seções 1–7, preparada pelo assistente para revisão autoral de Fabiano. O capítulo permanece incompleto. As definições propostas são de trabalho; as referências não equivalem a revisão sistemática. [[00 - Dossiê de Desenvolvimento do Capítulo]] contém o plano, o protótipo da matriz e os limites dos registros clínicos.
+Primeira redação das dez seções, preparada pelo assistente para revisão autoral de Fabiano. A estrutura recebeu uma primeira redação completa; a pesquisa e a revisão editorial permanecem em curso. As definições propostas são de trabalho; as referências não equivalem a revisão sistemática. [[00 - Dossiê de Desenvolvimento do Capítulo]] contém o plano, o protótipo da matriz e os limites dos registros clínicos.
 
 ## 1. Quando a espiritualidade entra no consultório
 
@@ -148,19 +148,95 @@ O registro menciona melhora corporal e de ânimo no intervalo entre duas sessõe
 
 A contribuição da vinheta é expor um raciocínio revisável. Ela não demonstra a eficácia da matriz ou do TSH. A próxima pergunta é se esse modo de organizar o registro permite compreender melhor o percurso, identificar informações necessárias e construir alternativas de trabalho. Essa utilidade permanece uma hipótese a investigar.
 
+## 8. Segurança, contexto e avaliação clínica
+
+A segurança atravessa a investigação desde o primeiro encontro. Sua prioridade não depende de confirmar ou refutar a interpretação espiritual. Uma pessoa pode necessitar de avaliação e cuidado enquanto a natureza última de uma experiência permanece indeterminada.
+
+O documento do Comitê de Ética da APA sobre religião, espiritualidade e prática psiquiátrica recomenda respeito às convicções da pessoa, atenção à diversidade dentro de uma mesma tradição e cuidado com a imposição de crenças religiosas ou não religiosas do profissional. Também sustenta que compromissos e práticas espirituais não devem substituir métodos diagnósticos ou cuidados profissionalmente reconhecidos [3]. Trata-se de orientação ética situada na psiquiatria; seu emprego neste capítulo oferece um interlocutor para o raciocínio, sem constituir regulamentação da psicoterapia brasileira.
+
+### Descrever antes de classificar
+
+No caso apresentado, o termo “imagem” não informa suficientemente como a experiência se deu. Precisaríamos esclarecer se foi vivida como imagem mental, sonho, percepção situada no ambiente ou outra modalidade; quando ocorreu, quanto durou e como a pessoa a compreendeu. Essas são perguntas propostas para ampliar a descrição, não critérios diagnósticos validados pela matriz.
+
+Uma mesma expressão pode designar experiências diferentes. “Presença”, por exemplo, pode comunicar uma impressão relacional ou uma percepção à qual se atribui existência independente. A investigação precisa esclarecer o uso da palavra naquela pessoa, sem substituí-lo automaticamente pela categoria familiar ao terapeuta.
+
+A avaliação clínica também deve considerar o contexto e o funcionamento. Quando há sintomas psicóticos, a diretriz NICE CG178 recomenda avaliação abrangente e multidisciplinar [4]. Esse enquadramento não autoriza chamar de psicose uma imagem descrita no caso. Indica a necessidade de avaliação própria quando a investigação produz essa suspeita.
+
+Neste capítulo, propomos organizar perguntas sobre curso, sofrimento, repercussões na vida e condições associadas ao episódio, registrando o que foi efetivamente investigado. Essa organização não constitui algoritmo para distinguir experiência espiritual de transtorno mental. A fundamentação empírica desse diagnóstico diferencial permanece uma tarefa específica da pesquisa.
+
+### Cultura não é diagnóstico nem garantia de ausência de sofrimento
+
+Conhecer uma tradição ajuda a compreender o vocabulário e o contexto da experiência. Não permite presumir como uma pessoa particular a vive. O documento ético da APA enfatiza essa diversidade e a necessidade de evitar suposições baseadas apenas na afiliação religiosa [3].
+
+No raciocínio proposto, a compatibilidade cultural é informação contextual. Não deve funcionar como certificado de saúde; tampouco a distância em relação às crenças do terapeuta deve funcionar como critério de doença. A pergunta permanece situada: o que ocorre com esta pessoa, em quais condições e com quais consequências?
+
+Também interessa conhecer o que a espiritualidade oferece: vínculos, orientação, práticas valorizadas e perguntas existenciais. Investigá-la apenas como possível risco empobreceria o encontro. O cuidado deve permitir que sua contribuição seja descrita, inclusive quando não depende de uma experiência extraordinária.
+
+### Ideação suicida exige investigação específica
+
+No CASO-004, a ideação suicida está documentada; sua avaliação e evolução não são suficientemente detalhadas nesta fonte. O guia ambulatorial do NIMH, destinado à avaliação de adultos após rastreio positivo pelo ASQ, inclui pensamentos atuais, frequência, planejamento, acesso a meios, comportamento anterior, sintomas, apoios e razões para viver. Também orienta planejamento de segurança e definição de encaminhamento conforme a avaliação [5].
+
+Esses componentes são citados para explicitar a informação necessária ao raciocínio. O guia não foi aplicado retrospectivamente ao caso, e seu contexto norte-americano não deve ser transferido automaticamente para os serviços brasileiros. O registro não permite atribuir um nível de risco ou decidir qual conduta teria sido indicada.
+
+Há uma distinção adicional: perguntar de modo estruturado não equivale a prever um desfecho por escore. Na diretriz sobre autolesão, a NICE recomenda não utilizar escalas ou estratificação global para prever suicídio ou decidir acesso a tratamento [6]. Seu escopo é autolesão; o caso consultado documenta ideação e não estabelece episódio de autolesão.
+
+Para a auditoria, a consequência é documental: alívio corporal, paz ou significado espiritual não completam os dados de segurança ausentes. A ausência desses dados no relato retrospectivo também não prova ausência de cuidado na prática.
+
+### Cuidado e elaboração podem coexistir
+
+A investigação espiritual e as ações clínicas pertinentes podem participar do mesmo acompanhamento. A abertura fenomenológica permite compreender; a responsabilidade clínica exige responder ao que a avaliação indica. Nenhuma dessas tarefas precisa aguardar uma decisão metafísica.
+
+O domínio 7 da matriz deve registrar necessidades, avaliações e ações, com autoria e momento. Seu preenchimento não substitui a avaliação profissional nem torna a matriz uma ferramenta de triagem.
+
+## 9. Efeitos, indeterminação e continuidade
+
+O registro clínico apresenta mudanças durante as sessões e melhora corporal e de ânimo relatada no intervalo entre elas. Essas informações merecem ser preservadas na extensão em que foram documentadas. O limite não elimina o acontecimento; delimita a conclusão.
+
+Para organizar o acompanhamento, propomos distinguir três perguntas. O que mudou durante o encontro? O que a pessoa relata entre encontros? O que passa a participar de sua vida em diferentes situações? São perguntas sobre momentos e contextos, não etapas obrigatórias de desenvolvimento.
+
+Uma mudança situada pode ser importante sem estabelecer integração duradoura. A integração, tal como investigada no TSH, solicita examinar recorrência, incorporação e participação no cotidiano. No caso, ainda faltam informações suficientes sobre escolhas, relações, funcionamento e resposta a novas perturbações.
+
+A distinção Acesso × Sustentação pode orientar uma pergunta de pesquisa. Entretanto, o relato de retorno da ideação após práticas espirituais não descreve com precisão qual estado foi acessado ou quais condições favoreceram seu retorno. Não deve, portanto, ser apresentado como demonstração de falha de sustentação, de bypass espiritual ou de insuficiência da prática.
+
+O acompanhamento também pode modificar a interpretação da experiência. A pessoa pode reconhecer novos sentidos, relativizar uma leitura ou conservar sua compreensão espiritual enquanto altera sua relação com o vivido. O registro disponível não documenta esses desdobramentos; eles são possibilidades a investigar.
+
+Propomos acompanhar efeitos em linguagem suficientemente concreta para que possam ser revistos. “Integração” precisará indicar que mudanças estão sendo consideradas, em quais condições e com quais fontes. O reconhecimento de uma imagem, por si só, não responde a todas essas perguntas.
+
+## 10. Contribuições à psicoterapia e à elaboração espiritual
+
+A proposta deste capítulo reúne uma prioridade de atenção, uma distinção entre abertura ontológica e hospitalidade epistemológica e um roteiro para tornar as inferências examináveis. Sua contribuição pretendida é ajudar a sustentar um encontro em que a experiência possa ganhar descrição, sentido e contexto sem que a explicação encerre prematuramente o trabalho.
+
+A psicoterapia pode oferecer à elaboração espiritual um espaço para examinar como uma experiência participa da história, do corpo, dos vínculos e das escolhas. Essa oferta não exige decidir sua natureza última. Também não exige reduzir sua importância à função de aliviar sintomas.
+
+A espiritualidade, por sua vez, pode trazer ao encontro clínico perguntas sobre finitude, pertencimento, valor, responsabilidade e orientação da vida. A proposta autoral é acolher essas perguntas como parte da experiência humana, preservando a liberdade da pessoa para elaborá-las. Seu lugar não precisa depender de imagens extraordinárias nem de concordância entre as convicções da pessoa e do terapeuta.
+
+A vinheta tornou visível uma exigência dessa posição: a abertura deve alcançar as intervenções do próprio profissional. Não basta manter hipóteses ontológicas indeterminadas; é preciso examinar como perguntas e orientações participam da forma e do sentido que a experiência adquire.
+
+A matriz permanece um protótipo. Seu valor deverá ser investigado em comparação com outras formas de registro e supervisão, incluindo situações em que se mostre redundante ou dificulte a escuta. A organização proposta não estabelece um novo mecanismo clínico nem demonstra superioridade de uma abordagem.
+
+O princípio que orienta esse trabalho permanece: a clínica precisa ser suficientemente aberta para que aquilo que ainda não possui tradução possa aparecer antes de ser explicado. Sua realização exige disponibilidade para ouvir, discernir, agir quando necessário e rever o que julgávamos compreender.
+
 ## Referências utilizadas nesta redação
 
 [1] American Psychiatric Association. *Supplementary Modules to the Core Cultural Formulation Interview*. 2013. Módulo 5: Spirituality, Religion, and Moral Traditions. [Documento oficial](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/APA_DSM5_Cultural-Formulation-Interview-Supplementary-Modules.pdf).
 
 [2] Gendlin ET. The client's client: The edge of awareness. In: Levant RL, Shlien JM, eds. *Client-centered therapy and the person-centered approach: New directions in theory, research and practice*. New York: Praeger; 1984. p. 76–107. [Texto do autor](https://focusing.org/gendlin/docs/gol_2149.html).
 
+[3] American Psychiatric Association, Ethics Committee. *Resource Document on Ethics at the Interface of Religion, Spirituality, and Psychiatric Practice*. Aprovado pelo Joint Reference Committee em abril de 2021. O documento explicita que suas conclusões não representam necessariamente as posições de todos os membros ou dirigentes da APA. [Texto oficial](https://www.psychiatry.org/getattachment/37142161-b62b-45c0-a990-4649b790d72d/Resource-Document-2021-Religion-Spirituality-and-Psychiatric-Practice.pdf).
+
+[4] National Institute for Health and Care Excellence. *Psychosis and schizophrenia in adults: prevention and management*. CG178, recomendação 1.3.3.1. 2014. [Fonte oficial](https://www.nice.org.uk/Guidance/CG178/chapter/recommendations). Nesta etapa, a recomendação de avaliação abrangente foi conferida no trecho indexado da fonte oficial; as tentativas de acesso integral retornaram bloqueio. Não se utilizou o documento como fundamentação de critérios detalhados.
+
+[5] National Institute of Mental Health. *Adult Outpatient Brief Suicide Safety Assessment Guide*. [Guia oficial](https://www.nimh.nih.gov/research/research-conducted-at-nimh/asq-toolkit-materials/adult-outpatient/adult-outpatient-brief-suicide-safety-assessment-guide). Consultado em 2026-10-03. Guia para adultos após rastreio positivo pelo ASQ; não aplicado retrospectivamente à vinheta.
+
+[6] National Institute for Health and Care Excellence. *Self-harm: assessment, management and preventing recurrence*. NG225, recomendações 1.6.1–1.6.6. 2022. [Fonte oficial](https://www.nice.org.uk/guidance/ng225/chapter/Recommendations). As recomendações citadas foram conferidas em conteúdo indexado da fonte oficial; o acesso direto integral esteve bloqueado nesta etapa. Escopo: autolesão.
+
 ## Notas de desenvolvimento — fora do corpo do capítulo
 
 - A formulação da Precedência Fenomenológica permanece candidata. Gendlin oferece um antecedente experiencial específico; não representa sozinho a diversidade das tradições fenomenológicas.
 - Abertura ontológica e hospitalidade epistemológica são definições autorais de trabalho. A redação não estabelece prioridade histórica desses termos.
-- As seções 1–7 constituem argumentação metodológica e aplicação documental inicial, não demonstração de eficácia.
-- Ainda faltam as seções 8–10, a verificação das condições de uso da vinheta e a fundamentação própria de segurança e diagnóstico diferencial.
+- As dez seções constituem primeira argumentação metodológica e aplicação documental, não demonstração de eficácia.
+- Permanecem pendentes a verificação das condições de uso da vinheta, a leitura integral das diretrizes NICE e a pesquisa empírica específica do diagnóstico diferencial. A seção 8 fornece fundamentos éticos e referências de avaliação, sem resolver esse diagnóstico.
 - Não utilizar a vinheta como confirmação metafísica, evidência causal ou prova de superioridade do TSH.
 - O capítulo pode aproveitar a auditoria sem depender da estabilização de toda a arquitetura do Método. AISB não integra seu argumento.
 - Fontes clínicas da aplicação: [[CASO-004 - O Executivo, o Contemplativo e o Oni - 01 - Registro Clínico]], [[CASO-004 - O Executivo, o Contemplativo e o Oni - 02 - Observações Fenomenológicas]] e [[CASO-004 - O Executivo, o Contemplativo e o Oni - 03 - Hipóteses e Correlações]], recuperadas diretamente da main em 2026-10-03. O exame não alterou essas fontes.
-- Próxima ação: fundamentar e redigir a seção 8, seguida das seções sobre continuidade e contribuições à elaboração espiritual. A tensão sobre participação do terapeuta permanece aberta, sem necessidade de alterar o caso ou decidir sua ontologia.
+- Próxima ação: revisar o argumento de ponta a ponta, confrontar sua contribuição com a literatura clínica específica e aprofundar a pergunta discriminante sobre Tradução, simbolização e experiencing. Manter visíveis os limites da pesquisa e da vinheta.
