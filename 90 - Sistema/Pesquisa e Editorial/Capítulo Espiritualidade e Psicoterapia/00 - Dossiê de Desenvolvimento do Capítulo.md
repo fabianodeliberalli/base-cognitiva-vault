@@ -1,7 +1,7 @@
 ---
 tipo: dossie-editorial
 status: versão-de-trabalho
-versao: "0.5"
+versao: "0.6"
 criado_em: 2026-10-03
 autoridade_final: Fabiano Deliberalli
 origem: auditoria-teorica-e-laboratorio-clinico
@@ -203,6 +203,17 @@ O Protocolo da Auditoria passou a registrar o confronto entre Tradução, experi
 
 Resultado provisório: emergência, metáfora e mediação não estabelecem novidade exclusiva. A contribuição candidata está na organização da legibilidade e na articulação arquitetural. As modalidades podem funcionar como distinções de proveniência e participação; processos distintos não foram demonstrados. A genealogia deverá ser refletida na revisão do capítulo, sem alterar automaticamente sua tese.
 
+
+### Síntese transversal da rodada de Tradução — 03/10/2026
+
+O Protocolo registra agora os confrontos focais completos desta rodada e sua aplicação combinada aos CASOS 001 e 004. O ganho candidato está na organização da legibilidade e do exame das afirmações; não foi identificado, nesses recortes, um processo exclusivo que os interlocutores combinados sejam incapazes de descrever. Isso não demonstra redundância global nem superioridade do roteiro autoral.
+
+Tradução permanece examinada em dois níveis: processo de ganho de legibilidade e metodologia que procura favorecê-lo e acompanhá-lo. No CASO-001, a oferta do terapeuta está mais detalhada que o reconhecimento do paciente. No CASO-004, conteúdo espontâneo e condução coexistem; emergente/mediada é uma distinção investigativa por momento e participação, não classificação pura do caso.
+
+O manuscrito já recebeu os antecedentes de postura clínica em MBT e a distinção entre elaboração de sentido e seus resultados. A próxima revisão deve manter a tese delimitada, examinar o papel do terapeuta na vinheta e desenvolver a contribuição afirmativa da espiritualidade. Não é necessário inserir todos os comparadores teóricos no corpo do capítulo.
+
+O [[04 - Dossiê - Eixos Clínicos, Epistemológicos e Editoriais Emergentes]], recuperado da main, é fonte transversal de consulta e preservação. Seus juízos de maturidade não equivalem a validação clínica nem a manuscrito pronto para publicação.
+
 ## Próxima ação
 
-Avançar o confronto focal com metacognição e discriminação da fonte. Revisar o argumento integral e investigar o diagnóstico diferencial em estudos originais. Conferir condições de uso da vinheta antes de publicação. A validação discriminante global do TSH e a integração com AISB não são pressupostos desta escrita.
+Na auditoria, consolidar o parecer de coerência e suficiência das sete unidades prioritárias do Movimento 1, utilizando a síntese focal já concluída. No capítulo, revisar o argumento integral e investigar o diagnóstico diferencial em estudos originais, preservando as condições de uso da vinheta como pendência antes de publicação. O livro permanece em pré-produção; AISB continua posterior.
