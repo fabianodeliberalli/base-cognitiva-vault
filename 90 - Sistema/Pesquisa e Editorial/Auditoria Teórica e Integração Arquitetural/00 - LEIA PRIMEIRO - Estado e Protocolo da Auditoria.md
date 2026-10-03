@@ -4,7 +4,7 @@ status: versão-de-trabalho
 autoridade_final: Fabiano Deliberalli
 criado_em: 2026-10-03
 atualizado_em: 2026-10-03
-versao: "0.2"
+versao: "0.3"
 projeto: Traduzindo o Ser Humano
 ---
 
@@ -125,9 +125,64 @@ Comparar cada proposta com constructos isolados e com sua combinação. Examinar
 
 Nenhuma hipótese perde automaticamente valor editorial ou fenomenológico por não justificar um constructo científico novo. Explicitar esse resultado.
 
+## Confronto focal — Tradução × experiencing × simbolização (03/10/2026)
+
+Pesquisa nova, circunscrita às necessidades do capítulo e às modalidades emergente/mediada. Não recupera a investigação histórica desaparecida, não encerra o Movimento 1 nem conclui a validade discriminante geral. Comparação conceitual e documental; validade empírica não foi testada.
+
+### Fontes e unidade de comparação
+
+Formulação ampliada de [[Tradução da Experiência Humana]], [[Princípio de Recursividade EIXO–Tradução]] e versão de trabalho [[Tradução - Modalidade Emergente e Modalidade Mediada]], recuperadas da main. Na nota de Tradução, a ampliação distingue seu estatuto da formulação histórica: esta não deve ser usada isoladamente como definição atual.
+
+Interlocutor: simbolização na teoria de Gendlin, não todas as acepções psicanalíticas, cognitivas ou semióticas do termo. Fontes primárias: *A theory of personality change* (1964), passagens sobre implicit/explicit, carrying forward, focusing e interação; *The significance of felt meaning* (1970, excerto adaptado do livro de 1962); prefácio à edição em brochura de *Experiencing and the creation of meaning* (1997). Foram examinadas passagens pertinentes; não se declara leitura integral do livro de 1962 ou revisão completa do corpus.
+
+### O que o interlocutor já oferece
+
+Gendlin (1964) distingue experiencing como processo e focusing como um modo de atenção a ele. Símbolos, atenção, acontecimentos e respostas de outras pessoas podem participar do processo; não é uma teoria restrita à nomeação verbal. Sua simbolização envolve interação com o vivido, não simples extração de conceitos prontos ocultos. O autor também descreve reformulação e desdobramento durante o percurso.
+
+No texto de 1970, significado se forma na interação entre experiencing e símbolos ou coisas; a diferenciação pode prosseguir e não se limita a uma tradução verbal única. O texto é reaproveitamento de material de 1962, não confirmação empírica independente.
+
+O prefácio de 1997 explicita que experiencing e simbolização não são dois elementos originalmente separados. Mesmo sem conceitos explícitos, situações e interações já participam da experiência. Isso reforça a cautela diante de “experiência bruta” ou de emergência sem qualquer mediação.
+
+### Comparação e classificação provisória
+
+| Enunciado examinado | Resultado do confronto | Classificação |
+|---|---|---|
+| O vivido pouco formulado pode ganhar expressão e diferenciação | Há antecedente claro na teoria experiencial consultada | Já existente nesse interlocutor; redescrição útil possível no TSH |
+| Imagens, palavras e metáforas podem participar desse percurso | Não distingue, sozinho, Tradução da simbolização experiencial | Redundância se apresentado como novidade exclusiva |
+| Um recurso oferecido por outra pessoa pode participar do processo | A interação já está contemplada no interlocutor | Já existente; distinção de proveniência pode ser reformulação útil |
+| Emergente e mediada são processos próprios, mutuamente exclusivos | Os casos não os isolam e as definições disponíveis não estabelecem fronteira suficiente | Insuficientemente fundamentado |
+| As modalidades descrevem ênfases na oferta e no reconhecimento da forma | Permite registrar quem oferece o conteúdo, como é recebido e revisto | Reformulação útil candidata; utilidade adicional não demonstrada |
+| Tradução organiza legibilidade e distingue percebido, sentido, lembrado, imaginado, interpretado e significativo | Diferença de ênfase e tarefa metodológica frente às passagens consultadas | Contribuição candidata; não prova constructo novo |
+| Tradução se articula recursivamente com EIXO, reorganização e integração | Especificidade da arquitetura autoral, ainda dependente de confronto com outros modelos | Ampliação legítima no projeto; mecanismo distintivo não demonstrado |
+
+A interpretação mais consistente neste estágio é tratar Tradução como **organização autoral de uma tarefa de legibilidade**, com possíveis componentes compartilhados. Essa leitura não reduz o seu valor: situa onde procurar sua contribuição real.
+
+O foco da teoria de 1964 em carrying forward e mudança não deve ser convertido em alegação de que toda simbolização produz integração ou resolve problemas. A comparação distingue tarefas e critérios de descrição, sem usar eficácia automática como diferença artificial. A definição atual do TSH, por sua vez, admite ganho parcial de legibilidade sem reorganização garantida.
+
+### Exemplos conceituais que delimitam a pergunta
+
+Exemplos hipotéticos, não acontecimentos atribuídos aos casos:
+
+1. Uma palavra passa a corresponder ao sentido corporal pouco claro. A descrição pode caber em ambos os vocabulários; renomeá-la não demonstra diferença.
+2. Uma pessoa diferencia sensação atual, lembrança, imagem e explicação, sem relatar mudança corporal. Pode haver Tradução segundo a definição atual. É necessário confrontar esse ganho com metacognição e discriminação da fonte, antes de considerá-lo exclusivo.
+3. Um mapa teórico é recitado sem tornar o vivido mais diferenciável para a pessoa. A presença de linguagem sofisticada não basta para estabelecer Tradução.
+4. Uma imagem aparece espontaneamente, mas sua função e seu sentido permanecem indeterminados. Há material experiencial; a extensão da legibilidade conquistada precisa ser descrita.
+
+Esses exemplos não exigem que todas as dimensões sejam diferenciadas em toda ocorrência. Solicitam identificar qual ganho ocorreu e onde a descrição ultrapassa os dados.
+
+### Consequências concretas e próximo confronto
+
+- **TSH:** preservar a formulação vigente; não promover modalidades de trabalho a processos novos ou exclusivos por esta análise.
+- **Capítulo:** reconhecer o antecedente experiencial; usar as modalidades para examinar proveniência e participação, sem dependência de novidade científica.
+- **Livro:** há potencial narrativo na passagem entre reconhecimento, diferenciação e expressão, com genealogia teórica explícita.
+- **Pesquisa:** comparar episódios pelas mudanças efetivamente documentadas, examinando se a linguagem de Tradução acrescenta distinções que não são obtidas com os interlocutores isolados ou combinados.
+
+Próximo confronto focal: Tradução × metacognição, incluindo distinção de fontes da experiência, monitoramento e limites do conhecimento. Pergunta decisiva: a organização do TSH muda observação e investigação ou reúne operações já descritas em uma arquitetura útil? Resultado esperado: juízo delimitado sobre contribuição metodológica e eventual lacuna conceitual, não proclamação de novidade.
+
+
 ## Capítulo — Desenvolvimento editorial prioritário
 
-Estado em 03/10/2026: preparado o [[00 - Dossiê de Desenvolvimento do Capítulo]], versão 0.1, com sinopse, matriz de argumentos e fontes, protótipo de discernimento, comparação inicial dos CASOS 001 e 004 e abertura ensaística. A redação integral e a fundamentação ampliada permanecem em desenvolvimento.
+Estado em 03/10/2026: [[01 - Capítulo - Primeira Redação]] reúne primeira redação das dez seções, com aplicação documental da matriz ao CASO-004. [[00 - Dossiê de Desenvolvimento do Capítulo]] conserva fontes, limites e pendências. Pesquisa empírica do diagnóstico diferencial, revisão argumentativa e condições de uso da vinheta permanecem abertas; o manuscrito não está pronto para publicação.
 
 Título de trabalho preservado: **Espiritualidade e Psicoterapia: entre o reducionismo e a credulidade**.
 
