@@ -273,3 +273,12 @@ Seções 9–10 de [[03 - Investigação Discriminante - EIXO e Constructos Vizi
 - Wrosch C, Scheier MF, Miller GE, Schulz R, Carver CS. *Adaptive Self-Regulation of Unattainable Goals: Goal Disengagement, Goal Reengagement, and Subjective Well-Being*. Personality and Social Psychology Bulletin. 2003;29(12):1494–1508. DOI 10.1177/0146167203256921. [Original na Carnegie Mellon](https://www.cmu.edu/dietrich/psychology/pdf/scales/GAS_article.pdf). Formulação, síntese dos estudos e limitações examinadas; não reanálise nem exame integral de todas as tabelas.
 
 Fontes diretas localizadas, literatura primária histórica. Síntese combinada é análise do auditor, não modelo publicado que une os interlocutores. Recursividade e registros clínicos recuperados integralmente da main, sem mudança de blobs: princípio `6788478e958eaf0efbac55f27f406c1b392a60f4`, CASO-001 `32e5328d3c4f6166752f3cd5d7990b6598f27e4a`, CASO-004 `cf433fa7ac5899cbdf3f5e30b2617a6d6b814eb2`. Aplicação documental a relatos retrospectivos; não novos dados clínicos, comprovação causal ou homologação.
+
+## Revisão argumentativa do capítulo — 03/10/2026
+
+Proposta preservada em [[00 - Dossiê de Desenvolvimento do Capítulo]], versão 0.7. Manuscrito examinado integralmente: [[01 - Capítulo - Primeira Redação]], versão 0.5, blob `08b7470d21cbaf37d1e0f09875edf897e3229350`. Proposta editorial, não nova decisão autoral ou validação do TSH.
+
+- Vieten C, Scammell S, Pilato R, Ammondson I, Pargament KI, Lukoff D. *Spiritual and religious competencies for psychologists*. Psychology of Religion and Spirituality. 2013;5(3):129–144. DOI 10.1037/a0032699. [Original em cópia de terceiro](https://psptraining.com/wp-content/uploads/2013-20580-001-Vieten.pdf). Resumo, competências, explicações pertinentes e limites consultados; fonte direta da proposta, revisão para estudos citados. Página da APA com conteúdo insuficiente.
+- Koenig HG et al. *Religious vs. conventional cognitive behavioral therapy for major depression in persons with chronic medical illness: a pilot randomized trial*. Journal of Nervous and Mental Disease. 2015;203(4):243–251. DOI 10.1097/NMD.0000000000000273. [Duke](https://scholars.duke.edu/publication/1061926). Apenas resumo e metadados institucionais; artigo integral não recuperado nesta unidade.
+
+Fontes diretas localizadas com alcance de leitura discriminado. Não demonstram eficácia do roteiro autoral nem resolvem o diagnóstico diferencial da vinheta. A contribuição afirmativa e a organização editorial são propostas do auditor, sustentadas e limitadas conforme o dossiê.
