@@ -22,8 +22,9 @@ criado_em: 2026-10-02
 | Precedência fenomenológica | importante | central | útil | literatura fenomenológica | princípio clínico |
 | Abertura ontológica | capítulo próprio possível | central | complementar | pesquisa clínica | não equivale a credulidade |
 | Hospitalidade epistemológica | importante | central | complementar | pesquisa clínica | confrontar literatura |
+| Desautorização epistêmica do vivido | importante | **central** | complementar | pesquisa clínica | relacionar a injustiça epistêmica sem equiparar automaticamente |
 | Matriz de Discernimento | útil | central | possível | desenvolvimento metodológico | protótipo |
-| CASOS 001–005 | vinhetas | CASO-004 prioritário | seletivo | geradores de hipótese | nunca usar como “prova” |
+| CASOS 001–005 | vinhetas | **CASO-005 prioritário; CASO-004 complementar** | seletivo | geradores de hipótese | nunca usar como “prova” |
 | Sincronia Neural Interpessoal | fundamentação | possível | fundamentação | central | ponte empírica |
 | AISB | aguardar auditoria | não necessário neste momento | aguardar | investigação central | não usar como fundamento obrigatório antes de amadurecer |
 | Pluralismo epistemológico não redutivo | base epistemológica | central | transversal | filosófico-metodológico | já possui deliberação própria |
