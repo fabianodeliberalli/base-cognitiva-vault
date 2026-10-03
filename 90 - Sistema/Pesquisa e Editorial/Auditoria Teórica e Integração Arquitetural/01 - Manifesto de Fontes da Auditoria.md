@@ -162,3 +162,13 @@ Consultadas em 03/10/2026; não constituem revisão sistemática nem demonstram 
 - American Psychiatric Association. Supplementary Modules to the Core Cultural Formulation Interview. 2013. [Documento oficial](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/APA_DSM5_Cultural-Formulation-Interview-Supplementary-Modules.pdf). Atenção especial ao módulo 5, Spirituality, Religion, and Moral Traditions. Referência para comparação de escopo, contexto e investigação; não substitui fundamentação e avaliação da ferramenta autoral.
 
 O corpus de livro indicado no Protocolo inclui documentos apenas localizados por título, além de notas já lidas. Não atribuir conteúdo ou prontidão editorial aos textos extensos ainda não examinados para esse fim.
+
+## Fontes primárias do confronto focal com Gendlin — 03/10/2026
+
+Pesquisa nova para o capítulo e para a distinção das modalidades de Tradução; não recuperação da investigação histórica integral.
+
+- Gendlin ET. A theory of personality change. In: Worchel P, Byrne D, eds. *Personality change*. New York: John Wiley & Sons; 1964. p. 100–148. [Texto](https://focusing.org/gendlin/docs/gol_2145.html). Passagens examinadas: experiencing, implicit/explicit, carrying forward, focusing e interação.
+- Gendlin ET. The significance of felt meaning. In: Cormier R, Chinn E, Lineback RH, eds. *Encounter: An introduction to philosophy*. Glenview, IL: Scott, Foresman & Co.; 1970. p. 561–566. [Texto](https://focusing.org/gendlin/docs/gol_2084.html). A página identifica adaptação de trechos do livro de 1962; não registrar como evidência independente dele.
+- Gendlin ET. Preface to the paper edition. In: *Experiencing and the creation of meaning: A philosophical and psychological approach to the subjective*. Evanston, IL: Northwestern University Press; 1997. p. xi–xxiii. [Texto](https://focusing.org/gendlin/docs/gol_2152.html). Prefácio consultado; não equivale a leitura integral da obra.
+
+Estatuto: fontes diretas localizadas; literatura histórica primária. A comparação realizada é conceitual, não estudo de validade empírica nem revisão sistemática. “Simbolização” foi examinada na acepção deste autor. O resultado e as classificações provisórias estão no Protocolo, em “Confronto focal — Tradução × experiencing × simbolização”.
