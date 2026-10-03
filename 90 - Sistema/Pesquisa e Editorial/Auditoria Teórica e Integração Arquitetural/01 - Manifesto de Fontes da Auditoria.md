@@ -276,9 +276,35 @@ Fontes diretas localizadas, literatura primária histórica. Síntese combinada 
 
 ## Revisão argumentativa do capítulo — 03/10/2026
 
+Registro da unidade anterior; a incorporação ao manuscrito e a qualificação posterior do anexo constam da atualização abaixo.
+
+
 Proposta preservada em [[00 - Dossiê de Desenvolvimento do Capítulo]], versão 0.7. Manuscrito examinado integralmente: [[01 - Capítulo - Primeira Redação]], versão 0.5, blob `08b7470d21cbaf37d1e0f09875edf897e3229350`. Proposta editorial, não nova decisão autoral ou validação do TSH.
 
 - Vieten C, Scammell S, Pilato R, Ammondson I, Pargament KI, Lukoff D. *Spiritual and religious competencies for psychologists*. Psychology of Religion and Spirituality. 2013;5(3):129–144. DOI 10.1037/a0032699. [Original em cópia de terceiro](https://psptraining.com/wp-content/uploads/2013-20580-001-Vieten.pdf). Resumo, competências, explicações pertinentes e limites consultados; fonte direta da proposta, revisão para estudos citados. Página da APA com conteúdo insuficiente.
 - Koenig HG et al. *Religious vs. conventional cognitive behavioral therapy for major depression in persons with chronic medical illness: a pilot randomized trial*. Journal of Nervous and Mental Disease. 2015;203(4):243–251. DOI 10.1097/NMD.0000000000000273. [Duke](https://scholars.duke.edu/publication/1061926). Apenas resumo e metadados institucionais; artigo integral não recuperado nesta unidade.
 
 Fontes diretas localizadas com alcance de leitura discriminado. Não demonstram eficácia do roteiro autoral nem resolvem o diagnóstico diferencial da vinheta. A contribuição afirmativa e a organização editorial são propostas do auditor, sustentadas e limitadas conforme o dossiê.
+
+## Capítulo 0.6 — anexo integral e avaliação/diferencial, 03/10/2026
+
+Atualização do manuscrito autorizada por Fabiano para desenvolver as contribuições recíprocas, precisar abertura ontológica e hospitalidade epistemológica, incluir Vieten e aprofundar a pesquisa clínica. Alterações preparadas na branch `auditoria/reorganizacao-2026-10-03-0201`; a main permanece fonte oficial até homologação.
+
+| Material | Classificação documental | Recuperação e alcance |
+|---|---|---|
+| Vieten et al. 2013, `Spiritual-Vieten 2013.pdf` | fonte direta localizada | Anexo fornecido pelo usuário, leitura integral; substitui a qualificação anterior de leitura parcial |
+| Peters et al. 2016, DOI 10.1002/wps.20301 | fonte direta localizada; literatura primária histórica | Texto original em cópia pública; leitura focal de método, resultados pertinentes e limites |
+| Peters et al. 2017, DOI 10.1016/S2215-0366(17)30409-1 | fonte direta localizada; literatura primária histórica | Texto original em cópia pública; leitura focal de método, resultados e limites |
+| Moreira-Almeida, Lotufo Neto e Cardeña 2008, DOI 10.1097/NMD.0b013e31816ff3a1 | fonte direta localizada; literatura primária histórica | PDF original em cópia pública; seções pertinentes examinadas |
+| Diretrizes ABP, DOI 10.47626/1516-4446-2023-3056 | fonte direta localizada | Texto SciELO: método, avaliação, recomendações e limites; documento de diretriz, revisão para dados de terceiros |
+| NICE CG178 e guia ambulatorial NIMH | fontes diretas localizadas, alcance delimitado | NICE: recomendações pertinentes conferidas em conteúdo indexado oficial; NIMH: consulta direta ao guia |
+| Manuscrito 0.6 e dossiê 0.8 | versões de trabalho | Revisão efetivamente incorporada; não publicação, homologação ou mudança canônica |
+| Fonte qualitativa de 2025, DOI 10.1590/1982-0275202542e220012 | lacuna de leitura integral | Apontador bibliográfico localizado; não utilizado como fundamento |
+
+Anexo Vieten: 16 páginas; paginação editorial 129–144; 234.652 bytes. SHA-256 `ae8ca07d2856f57868e03ddcc22968009a7fa945576f6bff1166ec0e589aec96`. O PDF fornecido corresponde ao artigo já identificado; não deve ser contado como fonte empírica independente da cópia pública anterior. A leitura integral qualifica o acesso, sem promover a proposta a instrumento validado ou norma profissional.
+
+Referências, cópias efetivamente consultadas, implicações e limites metodológicos estão em [[01 - Capítulo - Primeira Redação]] e [[00 - Dossiê de Desenvolvimento do Capítulo]]. A pesquisa é focal e nova; não recupera os estudos históricos ainda ausentes do projeto nem encerra a validade discriminante de Tradução/EIXO.
+
+Discrepâncias de estatuto resolvidas documentalmente: proposta editorial 0.7 do dossiê passa a revisão incorporada no capítulo 0.6; Vieten passa de consulta parcial para leitura integral do anexo. Permanecem distintas a data da publicação e a cobertura temporal das buscas das fontes. O conteúdo interpretativo dos estudos não é convertido em critério diagnóstico individual.
+
+As fontes clínicas, referências do TSH, Método EIXO e arquitetura pedagógica não foram alteradas. AISB continua excluído desta unidade.
