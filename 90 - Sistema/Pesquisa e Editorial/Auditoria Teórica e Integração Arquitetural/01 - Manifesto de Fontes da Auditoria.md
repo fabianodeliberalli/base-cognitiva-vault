@@ -242,3 +242,14 @@ Literatura primária nova:
 - Hayes SC, Pistorello J, Levin ME. *Acceptance and Commitment Therapy as a Unified Model of Behavior Change*. The Counseling Psychologist. 2012;40(7):976–1002. DOI 10.1177/0011000012460836. [Editora](https://journals.sagepub.com/doi/pdf/10.1177/0011000012460836). Resumo e metadados consultados; integral não recuperado. Registro da USU contém DOI e paginação discrepantes; dados da editora adotados.
 
 Formulações do GitHub: Recursividade e fundamento transversal atuais; EIXO Integrador lido como proposta de expansão, sem promoção das seis dimensões. Flavell, Fonagy/Luyten e Erbas foram revisitados nas passagens pertinentes para qualificar afirmações do anexo. Regulatory flexibility, decentramento e autorregulação ainda aguardam confronto direto nesta frente.
+
+
+## Flexibilidade regulatória — pesquisa nova, 03/10/2026
+
+Confronto registrado na seção 7 de [[03 - Investigação Discriminante - EIXO e Constructos Vizinhos]], versão 0.2. Comparação conceitual e documental, com consulta delimitada a estudo empírico; não validação de EIXO.
+
+- Bonanno GA, Burton CL. *Regulatory Flexibility: An Individual Differences Perspective on Coping and Emotion Regulation*. Perspectives on Psychological Science. 2013;8(6):591–612. DOI 10.1177/1745691613504116. [Original universitário](https://www.tc.columbia.edu/faculty/gab38/faculty-profile/files/2013_Bonanno_Burton_REGULATORY_FLEXIBLITY.pdf). Definições, figura 1, componentes e limitações examinados; fonte direta da proposta, revisão para estudos de terceiros.
+- Troy AS, Shallcross AJ, Mauss IB. *A Person-by-Situation Approach to Emotion Regulation: Cognitive Reappraisal Can Either Help or Hurt, Depending on the Context*. Psychological Science. 2013;24(12):2505–2514. DOI 10.1177/0956797613496434. [Original no laboratório](https://eerlab.berkeley.edu/pdf/papers/A_Person_by_Situation_Approach_to_Emotion_Regulation.pdf). Método, resultados pertinentes e discussão examinados; não replicação ou reanálise independente.
+- *Corrigendum* do artigo anterior. Psychological Science. 2016;27(3):428–431. DOI 10.1177/0956797615627417. [Correção](https://journals.sagepub.com/doi/pdf/10.1177/0956797615627417). Integral consultado; considerar a correção junto ao original.
+
+Fontes diretas localizadas; literatura primária histórica. O confronto não descreve integralmente o campo atual. Recursividade conferida novamente na main, sem mudança de blob. A proposta de exame por episódios é construção da auditoria, não escala publicada, nova arquitetura ou decisão autoral.
