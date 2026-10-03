@@ -4,7 +4,7 @@ status: versão-de-trabalho
 autoridade_final: Fabiano Deliberalli
 criado_em: 2026-10-03
 atualizado_em: 2026-10-03
-versao: "0.8"
+versao: "0.9"
 projeto: Traduzindo o Ser Humano
 ---
 
@@ -26,8 +26,10 @@ O curso de 9 módulos/54 aulas é uma expressão pedagógica do patrimônio e n�
 - As Cinco Janelas foram localizadas textualmente em materiais pedagógicos; consultar o Manifesto atualizado.
 - Cinco blocos preliminares do Movimento 1 foram realizados: Tradução/EIXO/disponibilidade; integração/congruência/expressão; singularidade/potência/adaptação; modalidades de Tradução; confronto arquitetural.
 - Esses pareceres são resultados preliminares, não deliberações autorais.
-- A revisão crítica identificou excesso de ênfase na compatibilidade, pouco confronto da suficiência do modelo e desenvolvimento editorial insuficiente. O Movimento 1 permanece aberto para corrigir essa assimetria.
-- Rodada focal de Tradução consolidada provisoriamente nesta branch: confronto com interlocutores combinados aplicado aos CASOS 001 e 004; retorno ao parecer de coerência e suficiência é a próxima entrega. Não houve validação empírica ou homologação das hipóteses.
+- A revisão crítica identificou excesso de ênfase na compatibilidade, pouco confronto da suficiência do modelo e desenvolvimento editorial insuficiente. Essas limitações foram tratadas no parecer consolidado, preparado para revisão autoral; o confronto integral com os 12 elos permanece pendente da fonte original.
+- Rodada focal de Tradução consolidada provisoriamente nesta branch: confronto com interlocutores combinados aplicado aos CASOS 001 e 004. Não houve validação empírica ou homologação das hipóteses.
+- [[02 - Parecer Consolidado - Movimento 1 - Coerência e Suficiência]] reúne as sete unidades prioritárias, confrontos arquiteturais, classificações e propostas concretas. A entrega de consolidação está concluída no alcance das fontes disponíveis; o Movimento 1 não foi declarado integralmente encerrado.
+- Próxima pesquisa dirigida: EIXO e seus interlocutores funcionais, identificada como pesquisa nova. O capítulo segue em revisão e o livro em pré-produção.
 - Reaproveitar as distinções já produzidas. Evitar reiniciar toda a recuperação ou repetir ressalvas sem um problema novo.
 - Referências centrais do TSH, Método EIXO, casos e currículo não são alteradas por este protocolo.
 
