@@ -1,7 +1,7 @@
 ---
 tipo: capitulo-em-desenvolvimento
 status: rascunho
-versao: "0.4"
+versao: "0.5"
 criado_em: 2026-10-03
 autoridade_final: Fabiano Deliberalli
 ---
@@ -198,6 +198,8 @@ Para organizar o acompanhamento, propomos distinguir três perguntas. O que mudo
 
 Uma mudança situada pode ser importante sem estabelecer integração duradoura. A integração, tal como investigada no TSH, solicita examinar recorrência, incorporação e participação no cotidiano. No caso, ainda faltam informações suficientes sobre escolhas, relações, funcionamento e resposta a novas perturbações.
 
+Park distingue esforços de elaboração de sentido e significados obtidos [8]. Essa distinção orienta outra pergunta de acompanhamento: a pessoa está buscando compreender, reconheceu algum significado ou alterou sua orientação de vida? São possibilidades a examinar, sem exigir interpretação positiva nem confundir elaboração com integração duradoura.
+
 A distinção Acesso × Sustentação pode orientar uma pergunta de pesquisa. Entretanto, o relato de retorno da ideação após práticas espirituais não descreve com precisão qual estado foi acessado ou quais condições favoreceram seu retorno. Não deve, portanto, ser apresentado como demonstração de falha de sustentação, de bypass espiritual ou de insuficiência da prática.
 
 O acompanhamento também pode modificar a interpretação da experiência. A pessoa pode reconhecer novos sentidos, relativizar uma leitura ou conservar sua compreensão espiritual enquanto altera sua relação com o vivido. O registro disponível não documenta esses desdobramentos; eles são possibilidades a investigar.
@@ -233,6 +235,8 @@ O princípio que orienta esse trabalho permanece: a clínica precisa ser suficie
 [6] National Institute for Health and Care Excellence. *Self-harm: assessment, management and preventing recurrence*. NG225, recomendações 1.6.1–1.6.6. 2022. [Fonte oficial](https://www.nice.org.uk/guidance/ng225/chapter/Recommendations). As recomendações citadas foram conferidas em conteúdo indexado da fonte oficial; o acesso direto integral esteve bloqueado nesta etapa. Escopo: autolesão.
 
 [7] Bateman A, Fonagy P. Mentalization based treatment for borderline personality disorder. *World Psychiatry*. 2010;9(1):11–15. DOI: 10.1002/j.2051-5545.2010.tb00255.x. [Texto original](https://pmc.ncbi.nlm.nih.gov/articles/PMC2816926/). Referência utilizada para postura terapêutica no contexto de MBT para transtorno de personalidade borderline; não fundamenta diagnóstico da vinheta nem eficácia do TSH.
+
+[8] Park CL. Making sense of the meaning literature: An integrative review of meaning making and its effects on adjustment to stressful life events. *Psychological Bulletin*. 2010;136(2):257–301. DOI: 10.1037/a0018301. [Texto original](https://ovc.ojp.gov/sites/g/files/xyckuh226/files/media/document/os_meaning_making_review.pdf). Utilizado para distinção conceitual; não como comprovação de eficácia da proposta deste capítulo.
 
 ## Notas de desenvolvimento — fora do corpo do capítulo
 
