@@ -39,3 +39,27 @@ Experiências místicas, de quase morte, meditativas, dissociativas, psicóticas
 
 - Delimitar “experiência liminar” para evitar generalização clínica indevida.
 - Investigar diferenças entre intensidade, ausência de categorias e ausência de reconhecimento social.
+
+
+## Ampliação clínica — indecidibilidade e ação
+
+A suspensão ontológica não deve ser confundida com neutralidade passiva. O terapeuta pode atuar intensamente sobre:
+
+- medo;
+- sofrimento;
+- corpo;
+- significado;
+- memória;
+- relações;
+- funcionalidade;
+- segurança;
+- consequências;
+
+sem precisar concluir se a experiência correspondeu a uma realidade externa independente.
+
+Formulação associada:
+
+> **Não precisamos decidir o que uma experiência é em última instância para trabalhar competentemente com aquilo que ela produz no ser humano.**
+
+### Caso relacionado
+- [[CASO-005 - Entre a Experiência e a Sexta Pergunta - 03 - Hipóteses e Correlações]]
