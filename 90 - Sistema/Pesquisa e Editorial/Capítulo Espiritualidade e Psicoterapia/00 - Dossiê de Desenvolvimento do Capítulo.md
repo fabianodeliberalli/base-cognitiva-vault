@@ -1,7 +1,7 @@
 ---
 tipo: dossie-editorial
 status: versão-de-trabalho
-versao: "0.1"
+versao: "0.2"
 criado_em: 2026-10-03
 autoridade_final: Fabiano Deliberalli
 origem: auditoria-teorica-e-laboratorio-clinico
@@ -67,7 +67,7 @@ A espiritualidade conserva função positiva na elaboração: experiência, sent
 | Uma matriz pode tornar proveniência e inferência mais visíveis | Protótipo abaixo | Finalidade de organização do raciocínio | Avaliar se efetivamente melhora registros e supervisão |
 | Efeitos imediatos não documentam por si integração longitudinal | Limites dos registros de caso e distinções do projeto | Necessidade de distinguir o que foi observado do que não foi acompanhado | Revisão de literatura sobre processos, resultados e acompanhamento |
 
-As duas fontes externas localizadas não sustentam todas as proposições do capítulo. São pontos de partida, não revisão concluída. Não extrapolar posição profissional para prova de eficácia.
+As fontes externas localizadas não sustentam todas as proposições do capítulo. São pontos de partida, não revisão concluída. Não extrapolar posição profissional para prova de eficácia.
 
 ## Estrutura argumentativa
 
@@ -165,9 +165,15 @@ Esta abertura é redação ensaística de trabalho; as generalizações clínica
 
 ### Externas verificadas
 
+- Gendlin ET. The client's client: The edge of awareness. In: Levant RL, Shlien JM, eds. Client-centered therapy and the person-centered approach: New directions in theory, research and practice. New York: Praeger; 1984. p. 76–107. [Texto do autor](https://focusing.org/gendlin/docs/gol_2149.html). Antecedente experiencial específico; não demonstra equivalência com Tradução nem representa sozinho a tradição fenomenológica.
+
 - Moreira-Almeida A, Sharma A, van Rensburg BJ, Verhagen PJ, Cook CCH. WPA Position Statement on Spirituality and Religion in Psychiatry. World Psychiatry. 2016;15(1):87–88. [DOI e texto](https://onlinelibrary.wiley.com/doi/full/10.1002/wps.20304).
 - American Psychiatric Association. Supplementary Modules to the Core Cultural Formulation Interview. 2013. [Documento oficial](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/APA_DSM5_Cultural-Formulation-Interview-Supplementary-Modules.pdf).
 
+## Estado da redação — 2026-10-03
+
+As seções 1–5 foram redigidas em [[01 - Capítulo - Primeira Redação]], separando manuscrito e dossiê de pesquisa. A sequência do princípio permanece didática e revisável. A fundamentação disponível não estabelece novidade histórica, eficácia ou validade discriminante do TSH. As seções 6–10 ainda não foram redigidas.
+
 ## Próxima ação
 
-Desenvolver a fundamentação da precedência fenomenológica e da diferenciação entre experiência, interpretação e explicação, registrando convergências e objeções em fontes primárias. Em seguida, redigir as seções iniciais e aplicar criticamente o protótipo à vinheta, mantendo visíveis os dados ausentes. A validação discriminante global do TSH e a integração com AISB não são pressupostos desta escrita.
+Redigir a seção 6 e aplicar criticamente a matriz aos dados disponíveis do CASO-004, registrando proveniência, alternativas e lacunas. Desenvolver a fundamentação própria da avaliação clínica na seção 8 e conferir condições de uso da vinheta antes de publicação. A validação discriminante global do TSH e a integração com AISB não são pressupostos desta escrita.
