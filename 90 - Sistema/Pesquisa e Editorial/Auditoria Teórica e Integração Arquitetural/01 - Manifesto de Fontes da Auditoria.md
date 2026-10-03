@@ -189,3 +189,10 @@ Estatuto: fontes diretas localizadas, literatura histórica primária. As sínte
 - Bateman A, Fonagy P. Mentalization based treatment for borderline personality disorder. *World Psychiatry*. 2010;9(1):11–15. DOI: 10.1002/j.2051-5545.2010.tb00255.x. [Texto original no PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2816926/). Definição, intervenções e postura terapêutica consultadas.
 
 Estatuto: fontes diretas localizadas, literatura histórica primária. Pesquisa nova, conceitual e delimitada; não recuperação do estudo histórico desaparecido. Contexto dos textos: transtorno de personalidade borderline. Não utilizar como diagnóstico dos casos do vault ou prova de eficácia do TSH. O confronto e seus juízos estão no Protocolo; o antecedente de postura clínica foi acrescentado à primeira redação do capítulo, na branch.
+
+## Fontes do confronto com granularidade emocional — 03/10/2026
+
+- Erbas Y, Ceulemans E, Lee Pe M, Koval P, Kuppens P. Negative emotion differentiation: Its personality and well-being correlates and a comparison of different assessment methods. *Cognition and Emotion*. 2014;28(7):1196–1213. DOI: 10.1080/02699931.2013.875890. [Texto original na KU Leuven](https://ppw.kuleuven.be/okp/_pdf/Erbas2014NEDIP.pdf). Definição, avaliação e discussão/limitações examinadas; não revisão integral de todas as análises.
+- Barrett LF, Gross J, Conner Christensen T, Benvenuto M. Knowing what you're feeling and knowing what to do about it: Mapping the relation between emotion differentiation and emotion regulation. *Cognition and Emotion*. 2001;15(6):713–724. DOI: 10.1080/02699930143000239. [Registro e resumo na editora](https://www.tandfonline.com/doi/abs/10.1080/02699930143000239). Resumo recuperado pela busca; abertura direta e tentativa de PDF falharam. Texto integral não consultado nesta etapa.
+
+Estatuto: literatura primária localizada, com acesso parcial explicitado. Pesquisa nova, conceitual; não recuperação histórica nem estudo de validade do TSH. Resultado registrado no Protocolo. Não deduzir granularidade dos pacientes a partir de riqueza narrativa ou alívio em sessão.
