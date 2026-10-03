@@ -1,7 +1,7 @@
 ---
 tipo: dossie-editorial
 status: versão-de-trabalho
-versao: "0.2"
+versao: "0.3"
 criado_em: 2026-10-03
 autoridade_final: Fabiano Deliberalli
 origem: auditoria-teorica-e-laboratorio-clinico
@@ -172,8 +172,21 @@ Esta abertura é redação ensaística de trabalho; as generalizações clínica
 
 ## Estado da redação — 2026-10-03
 
-As seções 1–5 foram redigidas em [[01 - Capítulo - Primeira Redação]], separando manuscrito e dossiê de pesquisa. A sequência do princípio permanece didática e revisável. A fundamentação disponível não estabelece novidade histórica, eficácia ou validade discriminante do TSH. As seções 6–10 ainda não foram redigidas.
+As seções 1–7 foram redigidas em [[01 - Capítulo - Primeira Redação]], separando manuscrito e dossiê de pesquisa. A sequência do princípio permanece didática e revisável. A fundamentação disponível não estabelece novidade histórica, eficácia ou validade discriminante do TSH. As seções 8–10 ainda não foram redigidas.
+
+### Resultado da aplicação documental ao CASO-004
+
+A matriz foi aplicada ao registro retrospectivo e confrontada com as notas de observações e hipóteses, recuperadas diretamente da main. Esse exercício é análise documental inicial; não valida o instrumento.
+
+- **Tensão entre fontes:** a nota de hipóteses descreve abertura intermediária; o registro contém instruções para encerrar uma vinculação percebida. A intervenção pode ter organizado parte do sentido. O texto não permite concluir confirmação literal, neutralidade integral ou inadequação clínica. Examinar linguagem, recepção e possibilidade de revisão antes de decidir.
+- **Força da conclusão:** a nota de hipóteses afirma que a trajetória sustenta utilidade clínica da precedência. O material permite ilustrar e gerar essa hipótese, mas não demonstrar sua utilidade específica ou isolar seu efeito.
+- **Espontaneidade e repertório:** havia familiaridade cultural anterior com a figura. Aparecimento espontâneo na sessão não significa origem sem referências prévias.
+- **Função e significado:** proteção é atribuição da pessoa; ainda não é demonstração de mecanismo protetivo. As hipóteses cultural, simbólica, funcional, relacional e espiritual respondem a perguntas parcialmente distintas; não são automaticamente alternativas excludentes ou igualmente sustentadas.
+- **Continuidade:** o registro inclui melhora corporal e de ânimo entre sessões, além de alívio durante o encontro. Isso constitui informação limitada de continuidade, sem demonstrar integração longitudinal ou mudança da ideação suicida.
+- **Documentação e cuidado:** a fonte não detalha avaliação e manejo de risco. Ausência nessa fonte não prova ausência de cuidado; também não autoriza inferir resolução.
+
+A aplicação torna explícitos limites e perguntas que a interpretação inicial deixava menos visíveis. A utilidade adicional da matriz frente a uma supervisão narrativa cuidadosa ainda precisa ser investigada. As fontes clínicas permaneceram inalteradas.
 
 ## Próxima ação
 
-Redigir a seção 6 e aplicar criticamente a matriz aos dados disponíveis do CASO-004, registrando proveniência, alternativas e lacunas. Desenvolver a fundamentação própria da avaliação clínica na seção 8 e conferir condições de uso da vinheta antes de publicação. A validação discriminante global do TSH e a integração com AISB não são pressupostos desta escrita.
+Desenvolver a fundamentação própria da avaliação clínica e redigir a seção 8. Em seguida, redigir continuidade e contribuições à elaboração espiritual, mantendo a função positiva da espiritualidade. Conferir condições de uso da vinheta antes de publicação. A validação discriminante global do TSH e a integração com AISB não são pressupostos desta escrita.
