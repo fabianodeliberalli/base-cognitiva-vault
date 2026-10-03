@@ -18,6 +18,8 @@ tags:
 
 Este caso possui aderência particularmente alta ao capítulo em desenvolvimento.
 
+**Uso prioritário aprovado para desenvolvimento:** exemplo de Precedência Fenomenológica articulando indecidibilidade ontológica, hospitalidade epistemológica e dignidade do vivido.
+
 Pode funcionar como vinheta para:
 - o problema da ontologia do terapeuta;
 - a “sexta pergunta”;
@@ -25,7 +27,13 @@ Pode funcionar como vinheta para:
 - hospitalidade epistemológica;
 - Precedência Fenomenológica;
 - distinção experiência × significado × hipótese × ontologia;
-- efeito clínico sem prova metafísica.
+- efeito clínico sem prova metafísica;
+- possível repetição terapêutica de desautorização do saber experiencial;
+- distinção prática entre Tradução emergente e Tradução mediada.
+
+Formulação central para o capítulo:
+
+> **O sofrimento espiritual pode ser agravado não apenas pelo conteúdo da experiência, mas pela dificuldade de encontrar um contexto relacional e epistemológico onde ela possa ser pensada sem ser imediatamente negada, confirmada ou colonizada por uma teoria.**
 
 Ele complementa o CASO-004:
 - CASO-004 mostra uma experiência incomum emergindo dentro da sessão;
@@ -84,3 +92,17 @@ Candidato forte para futura casuística estruturada por IPA ou outra metodologia
 - [[Tradução - Modalidade Emergente e Modalidade Mediada]]
 - [[Dignidade Epistêmica diante do Vivido]]
 - [[04 - Dossiê - Eixos Clínicos, Epistemológicos e Editoriais Emergentes]]
+
+
+## 8. Tradução emergente e mediada — uso prático no capítulo
+
+O CASO-005 permite mostrar que **Tradução emergente** não significa ausência de mediação terapêutica. O terapeuta medeia condições — presença, ritmo, perguntas, segurança, atenção — sem impor o conteúdo final da Tradução.
+
+Isso contrasta com **Tradução mediada**, em que o terapeuta oferece explicitamente um mapa, metáfora ou formulação que encontra correspondência no vivido.
+
+No capítulo, a distinção pode ser exemplificada assim:
+
+- **emergente:** “vamos acompanhar o medo e observar o que aparece”;
+- **mediada:** “há uma forma de compreender isso que talvez ajude a organizar o que você sente”.
+
+A diferença é de **origem predominante da forma organizadora**, não de presença versus ausência do terapeuta.
