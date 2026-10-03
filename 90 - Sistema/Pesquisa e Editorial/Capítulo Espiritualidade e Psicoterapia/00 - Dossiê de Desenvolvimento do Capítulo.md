@@ -1,7 +1,7 @@
 ---
 tipo: dossie-editorial
 status: versão-de-trabalho
-versao: "0.3"
+versao: "0.4"
 criado_em: 2026-10-03
 autoridade_final: Fabiano Deliberalli
 origem: auditoria-teorica-e-laboratorio-clinico
@@ -13,7 +13,7 @@ origem: auditoria-teorica-e-laboratorio-clinico
 
 Título de trabalho: **Espiritualidade e Psicoterapia: entre o reducionismo e a credulidade**.
 
-Dossiê inicial para pesquisa e escrita. Contém sinopse, argumento, protótipo da Matriz de Discernimento e comparação inicial de duas fontes clínicas. Não é capítulo concluído nem instrumento validado. A redação foi preparada pelo assistente a partir dos interesses declarados por Fabiano e está aberta à revisão autoral.
+Dossiê inicial para pesquisa e escrita. Contém sinopse, argumento, protótipo da Matriz de Discernimento e comparação inicial de duas fontes clínicas. A primeira redação do capítulo já cobre as dez seções; permanece em pesquisa e revisão. A matriz não é instrumento validado. A redação foi preparada pelo assistente a partir dos interesses declarados por Fabiano e está aberta à revisão autoral.
 
 Público de trabalho: profissionais de psicoterapia e saúde mental. Idioma, extensão, prazo, normas e escopo final da coletânea ainda não confirmados. Isso não impede o desenvolvimento inicial. Não houve envio a terceiros.
 
@@ -170,9 +170,13 @@ Esta abertura é redação ensaística de trabalho; as generalizações clínica
 - Moreira-Almeida A, Sharma A, van Rensburg BJ, Verhagen PJ, Cook CCH. WPA Position Statement on Spirituality and Religion in Psychiatry. World Psychiatry. 2016;15(1):87–88. [DOI e texto](https://onlinelibrary.wiley.com/doi/full/10.1002/wps.20304).
 - American Psychiatric Association. Supplementary Modules to the Core Cultural Formulation Interview. 2013. [Documento oficial](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/APA_DSM5_Cultural-Formulation-Interview-Supplementary-Modules.pdf).
 
+- American Psychiatric Association, Ethics Committee. Resource Document on Ethics at the Interface of Religion, Spirituality, and Psychiatric Practice. Abril de 2021. [Texto oficial](https://www.psychiatry.org/getattachment/37142161-b62b-45c0-a990-4649b790d72d/Resource-Document-2021-Religion-Spirituality-and-Psychiatric-Practice.pdf). Fonte ética; não tomada como revisão empírica ou regulamentação brasileira.
+- National Institute of Mental Health. Adult Outpatient Brief Suicide Safety Assessment Guide. [Texto oficial](https://www.nimh.nih.gov/research/research-conducted-at-nimh/asq-toolkit-materials/adult-outpatient/adult-outpatient-brief-suicide-safety-assessment-guide). Fonte de avaliação após ASQ positivo em adultos; não aplicada retrospectivamente ao caso.
+- NICE CG178, recomendação 1.3.3.1, e NG225, recomendações 1.6.1–1.6.6. Trechos oficiais indexados consultados; tentativas de leitura integral bloqueadas. Referências limitadas ao conteúdo conferido, com escopos explicitados no manuscrito.
+
 ## Estado da redação — 2026-10-03
 
-As seções 1–7 foram redigidas em [[01 - Capítulo - Primeira Redação]], separando manuscrito e dossiê de pesquisa. A sequência do princípio permanece didática e revisável. A fundamentação disponível não estabelece novidade histórica, eficácia ou validade discriminante do TSH. As seções 8–10 ainda não foram redigidas.
+As dez seções receberam primeira redação em [[01 - Capítulo - Primeira Redação]], separando manuscrito e dossiê de pesquisa. A sequência do princípio permanece didática e revisável. A fundamentação disponível não estabelece novidade histórica, eficácia ou validade discriminante do TSH. As seções 8–10 foram acrescentadas: segurança e contexto, continuidade e contribuições à psicoterapia e à elaboração espiritual. A redação estruturalmente completa não equivale a manuscrito pronto para publicação.
 
 ### Resultado da aplicação documental ao CASO-004
 
@@ -187,6 +191,12 @@ A matriz foi aplicada ao registro retrospectivo e confrontada com as notas de ob
 
 A aplicação torna explícitos limites e perguntas que a interpretação inicial deixava menos visíveis. A utilidade adicional da matriz frente a uma supervisão narrativa cuidadosa ainda precisa ser investigada. As fontes clínicas permaneceram inalteradas.
 
+### Refinamento ao redigir continuidade
+
+O retorno da ideação após práticas espirituais não demonstra falha de sustentação ou bypass: o registro não caracteriza suficientemente o estado acessado e as condições do retorno. A distinção Acesso × Sustentação permanece pergunta conceitual e investigativa.
+
+A seção 8 diferencia acolhimento, avaliação clínica e decisão ontológica. Sua fundamentação disponível é ética e orientadora da avaliação; não apresenta critérios validados para distinguir experiência espiritual de transtorno. A pesquisa empírica dessa distinção permanece pendente. A conclusão do capítulo inclui uma contribuição afirmativa da espiritualidade: sentido, valor, pertencimento e orientação da vida.
+
 ## Próxima ação
 
-Desenvolver a fundamentação própria da avaliação clínica e redigir a seção 8. Em seguida, redigir continuidade e contribuições à elaboração espiritual, mantendo a função positiva da espiritualidade. Conferir condições de uso da vinheta antes de publicação. A validação discriminante global do TSH e a integração com AISB não são pressupostos desta escrita.
+Revisar o argumento integral, investigar o diagnóstico diferencial em estudos originais e retomar a validade discriminante de Tradução frente a experiencing e simbolização. Conferir condições de uso da vinheta antes de publicação. A validação discriminante global do TSH e a integração com AISB não são pressupostos desta escrita.
