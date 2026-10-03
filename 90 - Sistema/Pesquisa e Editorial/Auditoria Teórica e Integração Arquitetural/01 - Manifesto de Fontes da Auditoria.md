@@ -172,3 +172,13 @@ Pesquisa nova para o capítulo e para a distinção das modalidades de Traduçã
 - Gendlin ET. Preface to the paper edition. In: *Experiencing and the creation of meaning: A philosophical and psychological approach to the subjective*. Evanston, IL: Northwestern University Press; 1997. p. xi–xxiii. [Texto](https://focusing.org/gendlin/docs/gol_2152.html). Prefácio consultado; não equivale a leitura integral da obra.
 
 Estatuto: fontes diretas localizadas; literatura histórica primária. A comparação realizada é conceitual, não estudo de validade empírica nem revisão sistemática. “Simbolização” foi examinada na acepção deste autor. O resultado e as classificações provisórias estão no Protocolo, em “Confronto focal — Tradução × experiencing × simbolização”.
+
+## Fontes primárias do confronto com metacognição e monitoramento da fonte — 03/10/2026
+
+Pesquisa nova, de escopo conceitual; não substitui a investigação histórica integral ainda ausente.
+
+- Flavell JH. Metacognition and cognitive monitoring: A new area of cognitive–developmental inquiry. *American Psychologist*. 1979;34(10):906–911. DOI: 10.1037/0003-066X.34.10.906. [Cópia do texto original](https://www.neurodyspaca.org/IMG/pdf/flavell_-_1979_-_metacognition_and_cognitive_monitoring.pdf). Passagens sobre modelo, conhecimento, experiências e estratégias examinadas; cópia hospedada por terceiro.
+- Nelson TO, Narens L. Metamemory: A theoretical framework and new findings. *Psychology of Learning and Motivation*. 1990;26:125–173. DOI: 10.1016/S0079-7421(08)60053-5. [Cópia do texto original](https://pdf.retrievalpractice.org/metacognition/4_Nelson_Narens_1990.pdf). Seções iniciais teóricas e metodológicas examinadas; não foi feita revisão integral dos achados. Cópia hospedada por terceiro.
+- Johnson MK, Hashtroudi S, Lindsay DS. Source monitoring. *Psychological Bulletin*. 1993;114(1):3–28. DOI: 10.1037/0033-2909.114.1.3. [PDF no laboratório de coautor](https://onlineacademiccommunity.uvic.ca/lindsaylab/wp-content/uploads/sites/4861/2020/07/JohnsonHashtroudiLindsay1993_0.pdf). As três primeiras páginas foram examinadas por imagem; PDF sem extração textual na ferramenta. [Registro bibliográfico](https://pubmed.ncbi.nlm.nih.gov/8346328/).
+
+Estatuto: fontes diretas localizadas, literatura histórica primária. As sínteses e classificações são inferências comparativas do auditor, registradas no Protocolo. Não declarar leitura integral de todos os textos, teste empírico, equivalência global com Tradução ou detector ontológico.
