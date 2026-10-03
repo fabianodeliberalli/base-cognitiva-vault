@@ -144,3 +144,43 @@ O capítulo pode propor que o problema do terapeuta diante da espiritualidade n�
 - [[Matriz de Discernimento da Experiência]]
 - [[Tradução - Modalidade Emergente e Modalidade Mediada]]
 - [[04 - Deliberação Transversal - Pluralismo Epistemológico Não Redutivo e Integração Autoral]]
+
+
+## Fundamentação externa preliminar
+
+### Rabeyron — experiências anômalas e indecidibilidade
+Thomas Rabeyron (2022) propõe uma psicoterapia focada em experiências anômalas organizada por exploração fenomenológica, inscrição subjetiva e integração subjetiva. O modelo trabalha com escuta aberta e não julgadora e recupera a posição de **indecidibilidade**: suspensão do julgamento sobre a dimensão ontológica da experiência.
+
+**Convergência com este capítulo:** fornece precedente publicado para a suspensão da sexta pergunta e para a ideia de que descrição e integração podem avançar sem fechamento ontológico.
+
+**Limite:** o modelo de Rabeyron não é equivalente à Precedência Fenomenológica nem à Tradução; deve ser usado como interlocutor e fundamento parcial.
+
+### Vieten & Lukoff — competências espirituais e religiosas
+A literatura de competências espirituais e religiosas em psicologia sustenta a necessidade de atitudes, conhecimento e habilidades específicas para trabalhar eticamente com religião e espiritualidade como dimensões relevantes da diversidade humana.
+
+**Convergência:** reforça que abertura, autoconsciência do terapeuta, avaliação e repertório não são acessórios opcionais quando espiritualidade participa do caso.
+
+### Injustiça epistêmica em saúde mental
+Carel & Kidd e Crichton, Carel & Kidd descrevem injustiça epistêmica em saúde/psiquiatria como dano à pessoa em sua capacidade de conhecer, testemunhar e tornar inteligível sua experiência.
+
+**Convergência:** oferece fundamento conceitual para investigar como contextos clínicos podem descredibilizar ou tornar incompreensível o vivido.
+
+**Cuidado:** “desautorização epistêmica do vivido” é formulação do projeto; não deve ser declarada sinônimo automático de injustiça epistêmica em todos os casos.
+
+### Cultural Formulation Interview
+A Formulação Cultural do DSM inclui religião e espiritualidade como dimensões culturais relevantes e favorece a elicitação da linguagem, dos modelos explicativos, dos contextos e das formas de busca de ajuda da própria pessoa.
+
+**Convergência:** sustenta uma clínica que investiga primeiro como a pessoa compreende o fenômeno antes de impor o modelo do profissional.
+
+## Hipótese de contribuição autoral a investigar
+
+A articulação específica proposta pelo capítulo pode estar menos em inventar cada componente isoladamente e mais em conectá-los operacionalmente:
+
+**indecidibilidade ontológica**
+→ **Precedência Fenomenológica**
+→ **hospitalidade epistemológica**
+→ **proteção da dignidade do vivido**
+→ **Tradução emergente ou mediada**
+→ **integração possível sem prova metafísica**.
+
+A originalidade dessa articulação precisa ser testada por revisão bibliográfica; não deve ser presumida.
