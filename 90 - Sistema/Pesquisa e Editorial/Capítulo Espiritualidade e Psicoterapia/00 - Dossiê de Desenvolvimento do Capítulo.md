@@ -1,7 +1,7 @@
 ---
 tipo: dossie-editorial
 status: versão-de-trabalho
-versao: "0.4"
+versao: "0.5"
 criado_em: 2026-10-03
 autoridade_final: Fabiano Deliberalli
 origem: auditoria-teorica-e-laboratorio-clinico
@@ -197,6 +197,12 @@ O retorno da ideação após práticas espirituais não demonstra falha de suste
 
 A seção 8 diferencia acolhimento, avaliação clínica e decisão ontológica. Sua fundamentação disponível é ética e orientadora da avaliação; não apresenta critérios validados para distinguir experiência espiritual de transtorno. A pesquisa empírica dessa distinção permanece pendente. A conclusão do capítulo inclui uma contribuição afirmativa da espiritualidade: sentido, valor, pertencimento e orientação da vida.
 
+### Confronto conceitual focal — 03/10/2026
+
+O Protocolo da Auditoria passou a registrar o confronto entre Tradução, experiencing e simbolização na acepção de Gendlin, com fontes no Manifesto. Trata-se de pesquisa nova, não recuperação do trabalho histórico nem conclusão da validade discriminante global.
+
+Resultado provisório: emergência, metáfora e mediação não estabelecem novidade exclusiva. A contribuição candidata está na organização da legibilidade e na articulação arquitetural. As modalidades podem funcionar como distinções de proveniência e participação; processos distintos não foram demonstrados. A genealogia deverá ser refletida na revisão do capítulo, sem alterar automaticamente sua tese.
+
 ## Próxima ação
 
-Revisar o argumento integral, investigar o diagnóstico diferencial em estudos originais e retomar a validade discriminante de Tradução frente a experiencing e simbolização. Conferir condições de uso da vinheta antes de publicação. A validação discriminante global do TSH e a integração com AISB não são pressupostos desta escrita.
+Avançar o confronto focal com metacognição e discriminação da fonte. Revisar o argumento integral e investigar o diagnóstico diferencial em estudos originais. Conferir condições de uso da vinheta antes de publicação. A validação discriminante global do TSH e a integração com AISB não são pressupostos desta escrita.
