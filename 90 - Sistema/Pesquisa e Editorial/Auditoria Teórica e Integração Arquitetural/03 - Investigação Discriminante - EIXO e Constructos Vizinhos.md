@@ -3,12 +3,12 @@ tipo: investigacao-discriminante
 status: versão-de-trabalho
 autoridade_final: Fabiano Deliberalli
 data: 2026-10-03
-versao: "0.3"
+versao: "0.4"
 ---
 
 # Investigação discriminante — EIXO e constructos vizinhos
 
-Pesquisa nova, conceitual e documental. Não recupera a investigação histórica integral ainda ausente, não testa validade discriminante empiricamente e não homologa alterações do Método. Esta investigação examina EIXO × flexibilidade psicológica na ACT e × flexibilidade regulatória, e qualifica o anexo enviado por Fabiano. O confronto com decentramento também está disponível; autorregulação permanece por investigar diretamente.
+Pesquisa nova, conceitual e documental. Não recupera a investigação histórica integral ainda ausente, não testa validade discriminante empiricamente e não homologa alterações do Método. Esta investigação examina EIXO em confronto com flexibilidade psicológica na ACT, flexibilidade regulatória, decentramento e uma família de modelos de autorregulação. Qualifica o anexo enviado por Fabiano e consolida uma comparação documental aplicada aos CASOS 001 e 004.
 
 ## 1. Fontes e estatutos
 
@@ -242,8 +242,86 @@ Preservar o significado espiritual atribuído pela pessoa sem transformar seu se
 
 Três interlocutores focais estão disponíveis: flexibilidade psicológica, flexibilidade regulatória e decentramento. Próxima unidade: autorregulação, seguida de síntese combinada aplicada a episódios. Esta unidade não encerra a validade discriminante geral.
 
+
+## 9. EIXO × autorregulação — 03/10/2026
+
+### Fontes e delimitação
+
+- Carver CS, Scheier MF. *Control Theory: A Useful Conceptual Framework for Personality-Social, Clinical, and Health Psychology*. Psychological Bulletin. 1982;92(1):111–135. DOI 10.1037/0033-2909.92.1.111. [Original disponibilizado pelo autor](https://www.researchgate.net/profile/Charles-Carver-7/publication/16065403_Control_theory_A_useful_conceptual_framework_for_personality-social_clinical_and_health_psychology/links/5783c54708ae37d3af6c0e90/Control-theory-A-useful-conceptual-framework-for-personality-social-clinical-and-health-psychology.pdf). Passagens sobre feedback, hierarquia de referências e relação entre atenção, conhecimento e ação examinadas, especialmente pp. 112–114 e 120.
+- Wrosch C, Scheier MF, Miller GE, Schulz R, Carver CS. *Adaptive Self-Regulation of Unattainable Goals: Goal Disengagement, Goal Reengagement, and Subjective Well-Being*. Personality and Social Psychology Bulletin. 2003;29(12):1494–1508. DOI 10.1177/0146167203256921. [Original na Carnegie Mellon](https://www.cmu.edu/dietrich/psychology/pdf/scales/GAS_article.pdf). Formulação, síntese dos três estudos e discussão de limitações examinadas; não leitura analítica de todos os resultados ou reanálise.
+
+Este confronto examina uma família de modelos, não toda a literatura de autorregulação. Literatura primária histórica; não revisão sistemática da situação atual.
+
+### O que já está formulado
+
+Carver e Scheier descrevem feedback entre percepção, referência e resposta, com efeitos ambientais e novas comparações. Referências podem organizar-se hierarquicamente; o processo não exige elaboração verbal consciente. Acessar conhecimento não garante que ele oriente comportamento. O texto admite reflexão sobre o próprio processo.
+
+Wrosch et al. investigam retirada de esforço/compromisso de metas inviáveis e investimento em alternativas valorizadas. Os três estudos são transversais, com amostras de 115, 120 e 45 participantes. As associações com bem-estar não autorizam causalidade; abandonar uma meta e engajar-se em outra não constituem sequência necessária. Portanto, autorregulação não pode ser reduzida a autocontrole rígido, produtividade ou persistência invariável.
+
+### Confronto: inferências da auditoria
+
+| Problema EIXO | Antecedente ou limite da distinção | Consequência |
+|---|---|---|
+| Perceber deslocamento e recuperar referência | Monitoramento e feedback já formulados | Retorno não constitui novidade exclusiva |
+| Saber sem conseguir responder | Conhecimento e atuação não equivalem no interlocutor | Acesso × exercício precisa ser operacionalizado; a distinção não prova mecanismo novo |
+| Orientar em níveis diferentes | Hierarquia de referências oferece antecedente | Não proclamar exclusividade da orientação integrada |
+| Sustentar uma direção | Persistência pode ser pertinente, mas também revisão de metas | Sustentação não é insistir em uma estratégia ou meta inviável |
+| Reparar consequências | Pode ser descrito como ação e revisão; tarefa ética precisa ser explicitada | Organização autoral candidata, não ausência demonstrada nos vizinhos |
+| Referir-se à Essência/Self | Estatuto antropológico/espiritual diferente de padrão funcional | Não equiparar automaticamente nem converter diferença de nível em validação científica |
+
+**Qualificação proposta:** retornar à possibilidade de discernir e participar pode requerer mudar a direção anterior. Não significa voltar ao mesmo estado, restaurar uma rotina a qualquer custo ou insistir em uma demanda que deixou de fazer sentido. Esta é uma interpretação operacional compatível com a função vigente; não nova definição homologada.
+
+A auditoria tampouco recomenda abandonar metas diante de qualquer dificuldade. Distinguir inviabilidade, custo, conflito entre direções, falta de recursos e necessidade de apoio. O estudo não fornece regra para decidir esses casos particulares.
+
+## 10. Síntese combinada e aplicação documental
+
+### Resultado focal
+
+Os quatro interlocutores examinados, considerados conjuntamente, oferecem antecedentes para boa parte das funções descritas no EIXO. O conjunto não constitui uma teoria única, protocolo integrado ou mecanismo cuja combinação tenha sido testada. Sua função aqui é impedir que uma lacuna de um interlocutor isolado seja proclamada exclusividade do TSH.
+
+| Alegação do projeto | Classificação provisória | O que permanece relevante |
+|---|---|---|
+| Presença, menor captura, orientação e ação | Já existente nos interlocutores, sob formulações diferentes | Precisar tarefas e condições |
+| Contexto, repertório, retorno, feedback e revisão | Já existente | Tornar acompanhamento utilizável no TSH |
+| Articulação entre legibilidade, disponibilidade, discernimento e reparação | Reformulação útil candidata | Comparar organização e perguntas produzidas |
+| Recursividade Tradução–EIXO | Elaboração arquitetural legítima | Investigar utilidade e relações propostas; mecanismo exclusivo não estabelecido |
+| EIXO como capacidade científica independente ou superior | Insuficientemente fundamentado | Definição operacional, critérios e investigação próprios |
+| Maior abrangência ou espiritualidade provam originalidade funcional | Inferência não sustentada | Diferenciar contribuição antropológica de mecanismo |
+| EIXO é integralmente equivalente ou redundante | Não demonstrado | Sobreposição não decide valor clínico, pedagógico e autoral |
+
+O risco principal é transformar EIXO em nome de todo funcionamento desejável e explicar qualquer êxito pela sua presença. Evitar também o inverso: chamar toda dificuldade de falta de EIXO. Definir o que a hipótese permite prever ou distinguir e quais ocorrências exigem explicação diferente. Apoios e condições ambientais integram o problema; resultado adverso isolado não identifica déficit pessoal.
+
+### Aplicação aos registros existentes
+
+CASOS 001 e 004 recuperados integralmente da main nesta unidade, respectivamente blobs `32e5328d3c4f6166752f3cd5d7990b6598f27e4a` e `cf433fa7ac5899cbdf3f5e30b2617a6d6b814eb2`. São relatos retrospectivos do terapeuta, não transcrições ou testes. Esta aplicação é análise documental, não investigação empírica independente.
+
+| Registro | O que há documentado | O que o confronto combinado permite perguntar | O que permanece indeterminado |
+|---|---|---|---|
+| CASO-001: metáfora da membrana | Oferta de imagens pelo terapeuta, relaxamento observado e reconhecimento de possibilidades de aprendizagem | A metáfora alterou significado, percepção de recursos, relação com vulnerabilidade ou resposta concreta? | Não há documentação suficiente de escolha, reparação, retorno ou transferência posterior; alívio não comprova desenvolvimento de EIXO |
+| CASO-004: primeira sessão | Exploração corporal com orientação, memória narrada, diferenciação entre dimensões de si e alívio da pressão | O que mudou na relação com o vivido? Que orientação estava disponível com apoio? | Não é possível separar causalmente exploração, intervenção, significado e regulação; melhora imediata não demonstra integração |
+| CASO-004: segunda sessão | Melhora corporal e do ânimo relatada no intervalo; persistência de dificuldades profissionais; posicionamento orientado e paz ao final | A possibilidade emergente participou de decisões profissionais, relações e cuidado posterior? | Transferência ampla, duração, condições de retorno e evolução do risco não estão estabelecidas |
+| CASO-004: retiro | Relato de reaparecimento de ideações cerca de dez minutos após as práticas | Que estado havia durante a prática, que apoio e contexto estavam disponíveis, e o que ocorreu depois? | O registro não descreve suficientemente um estado acessado; não prova falha de sustentação, bypass ou efeito causal da prática |
+
+O EIXO organiza uma leitura possível desses episódios; o conjunto de interlocutores também oferece perguntas pertinentes. Não se identificou, nesses registros, uma observação que exija exclusivamente o mecanismo EIXO. Tampouco se demonstrou que as descrições tenham a mesma utilidade para formação, clínica ou narrativa autoral.
+
+O CASO-004 conserva força editorial ao mostrar a diferença entre êxito externo, sofrimento, experiências de sentido e possibilidades reais de vida. Sua dimensão espiritual não precisa ser decidida ontologicamente para investigar esses aspectos. O caso não confirma entidade, dissociação, integração definitiva ou resolução da ideação suicida. Ausência de detalhes no registro não significa ausência de cuidados.
+
+### Ganhos e decisões para os produtos
+
+**TSH:** preservar EIXO como função autoral vigente, com fundamentação e indicadores ainda em desenvolvimento. A contribuição mais defensável agora é a organização clínica e pedagógica; independência científica permanece questão aberta. Não substituir a referência nem promover a expansão proposta.
+
+**Capítulo:** argumento candidato: acolher e explorar uma experiência pode ser valioso; seu significado, mudança de estado e repercussões na vida requerem acompanhamento distinto. A vinheta pode ilustrar discernimento e limites de afirmação, sem funcionar como prova do modelo. Abertura ontológica e hospitalidade epistemológica permanecem pertinentes.
+
+**Livro:** desenvolver a pergunta sobre como uma experiência se torna legível, utilizável e participante de uma vida singular. A força da obra pode residir na articulação entre experiência, desenvolvimento, orientação e expressão. Não depende de provar que cada componente é inédito. Competência sem congruência continua hipótese clínica, não diagnóstico ou constructo validado.
+
+**Pesquisa:** comparar os mesmos episódios por leitores independentes usando a referência EIXO e uma alternativa explicitada com os interlocutores pertinentes. Registrar distinções justificadas, perguntas novas, inferências indevidas, concordância e esforço de uso. Testa utilidade de organização, não demonstra entidade latente, causalidade ou eficácia. Não somar escalas vizinhas e denominá-las medida de EIXO.
+
+### Próxima unidade delimitada
+
+Produzir proposta de revisão argumentativa do capítulo: tese, função da vinheta, separação entre ocorrência e interpretação e relação entre acolhimento, cuidado e acompanhamento. Reaproveitar os resultados desta investigação. Não alterar automaticamente o manuscrito; a proposta deve tornar as decisões editoriais concretas e revisáveis.
+
 ## Continuidade
 
-Confrontos com flexibilidade psicológica, flexibilidade regulatória e decentramento disponíveis. Próxima unidade: autorregulação; ao final, confronto combinado. As lacunas da Matriz dos 12 elos e da investigação histórica continuam abertas. AISB permanece fora desta etapa.
+Rodada focal documental de EIXO consolidada provisoriamente: ACT, flexibilidade regulatória, decentramento e uma família de modelos de autorregulação; síntese combinada aplicada aos CASOS 001 e 004. Validade discriminante empírica, equivalência global e mecanismo exclusivo não estabelecidos. Próxima unidade: proposta editorial delimitada para o capítulo. As lacunas da Matriz dos 12 elos e da investigação histórica continuam abertas. AISB permanece fora desta etapa.
 
 Relações: [[00 - LEIA PRIMEIRO - Estado e Protocolo da Auditoria]], [[01 - Manifesto de Fontes da Auditoria]], [[02 - Parecer Consolidado - Movimento 1 - Coerência e Suficiência]].
