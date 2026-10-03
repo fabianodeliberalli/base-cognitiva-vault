@@ -1,7 +1,7 @@
 ---
 tipo: dossie-editorial
 status: versão-de-trabalho
-versao: "0.7"
+versao: "0.8"
 criado_em: 2026-10-03
 autoridade_final: Fabiano Deliberalli
 origem: auditoria-teorica-e-laboratorio-clinico
@@ -13,15 +13,15 @@ origem: auditoria-teorica-e-laboratorio-clinico
 
 Título de trabalho: **Espiritualidade e Psicoterapia: entre o reducionismo e a credulidade**.
 
-Dossiê inicial para pesquisa e escrita. Contém sinopse, argumento, protótipo da Matriz de Discernimento e comparação inicial de duas fontes clínicas. A primeira redação do capítulo já cobre as dez seções; permanece em pesquisa e revisão. A matriz não é instrumento validado. A redação foi preparada pelo assistente a partir dos interesses declarados por Fabiano e está aberta à revisão autoral.
+Dossiê inicial para pesquisa e escrita. Contém sinopse, argumento, protótipo da Matriz de Discernimento e comparação inicial de duas fontes clínicas. O capítulo 0.6 integra a revisão argumentativa nas duas direções, a distinção entre abertura ontológica clínica e hospitalidade epistemológica, Vieten et al. e pesquisa focal de diagnóstico diferencial. Permanece em pesquisa e revisão autoral. A matriz não é instrumento validado. A redação foi preparada pelo assistente a partir dos interesses declarados por Fabiano e está aberta à revisão autoral.
 
 Público de trabalho: profissionais de psicoterapia e saúde mental. Idioma, extensão, prazo, normas e escopo final da coletânea ainda não confirmados. Isso não impede o desenvolvimento inicial. Não houve envio a terceiros.
 
 ## Pergunta editorial
 
-Como acolher e investigar experiências espirituais em psicoterapia quando sua relevância para a pessoa é reconhecível, mas as interpretações sobre sua natureza permanecem abertas ou disputadas?
+O que a espiritualidade oferece à psicoterapia e o que a psicoterapia oferece à elaboração espiritual?
 
-Pergunta complementar: o que a psicoterapia pode oferecer à elaboração dessas experiências, e que dimensões de sentido, valor, vínculo e existência a espiritualidade pode trazer ao encontro clínico?
+Pergunta metodológica associada: como acolher e investigar o vivido, avaliar interpretações e responder às necessidades de cuidado quando terapeuta e pessoa podem conservar compreensões diferentes da realidade?
 
 ## Tese candidata
 
@@ -69,7 +69,10 @@ A espiritualidade conserva função positiva na elaboração: experiência, sent
 
 As fontes externas localizadas não sustentam todas as proposições do capítulo. São pontos de partida, não revisão concluída. Não extrapolar posição profissional para prova de eficácia.
 
-## Estrutura argumentativa
+## Estrutura argumentativa inicial — preservada como histórico
+
+A sequência abaixo documenta a primeira redação. A estrutura atual é a do capítulo 0.6 e está discriminada na atualização ao final deste dossiê.
+
 
 1. **Quando a espiritualidade entra no consultório.** Apresentar a pergunta e as diferenças entre experiência, linguagem e interpretação.
 2. **A posição do terapeuta.** Investigar pressupostos e participação relacional sem presumir neutralidade absoluta.
@@ -217,6 +220,9 @@ O [[04 - Dossiê - Eixos Clínicos, Epistemológicos e Editoriais Emergentes]], 
 
 ## Proposta de revisão argumentativa — 03/10/2026
 
+Proposta da versão 0.7, incorporada e desenvolvida no manuscrito 0.6 por solicitação subsequente de Fabiano. Os futuros e pendências desta seção registram aquele momento; consultar a atualização adiante para o estado atual.
+
+
 **Estatuto:** proposta editorial do assistente para revisão autoral. Base: leitura integral de [[01 - Capítulo - Primeira Redação]], versão 0.5, blob `08b7470d21cbaf37d1e0f09875edf897e3229350`; síntese focal de Tradução e [[03 - Investigação Discriminante - EIXO e Constructos Vizinhos]], versão 0.4. O manuscrito não foi modificado nesta unidade.
 
 ### Diagnóstico editorial e contribuição pretendida
@@ -331,6 +337,97 @@ O capítulo pode incorporar a distinção entre legibilidade, disponibilidade, m
 
 Para o livro, preservar o argumento mais amplo sobre experiência, formação, orientação e expressão da singularidade. Esta revisão oferece um núcleo possível, não sumário definitivo. AISB permanece fora da fundamentação do capítulo nesta etapa.
 
+## Revisão incorporada e pesquisa de avaliação — 03/10/2026
+
+### Entrega concreta e alcance
+
+[[01 - Capítulo - Primeira Redação]] passa de 0.5 para 0.6. A revisão foi solicitada por Fabiano no chat, com explicitação das duas direções de contribuição, precisão da abertura ontológica e inclusão de Vieten et al. A incorporação é editorial, em branch de trabalho; não equivale à homologação de mudanças nas referências do TSH.
+
+A estrutura atual contém: (1) problema e reciprocidade; (2) convicções e fechamentos; (3) abertura ontológica clínica e hospitalidade epistemológica; (4) Precedência Fenomenológica e Tradução; (5) contribuição da espiritualidade; (6) matriz; (7) vinheta; (8) avaliação e diferencial; (9) participação na vida; (10) contribuição da psicoterapia à elaboração espiritual.
+
+Os antigos capítulos sobre posição e fechamentos foram reunidos, liberando espaço para desenvolver a contribuição afirmativa. A vinheta foi condensada, mantendo a atribuição protetora, a intervenção do terapeuta, a familiaridade cultural, a melhora entre sessões e a ideação documentada. Informação ausente permaneceu ausente. Não houve alteração dos registros clínicos.
+
+### Precisão conceitual resultante
+
+A abertura ontológica recebe delimitação **clínica**: disponibilidade para investigar uma experiência organizada por outra compreensão da realidade. Não requer agnosticismo pessoal ou renúncia a convicções. Seu uso neste capítulo não pretende resolver todos os sentidos filosóficos de “abertura ontológica”.
+
+A hospitalidade epistemológica recebe uma função crítica explícita: acolher interpretações para exame, identificar a pergunta a que respondem e discriminar seu apoio. O acolhimento de um testemunho não transforma automaticamente a explicação que o acompanha em conclusão profissional.
+
+Há uma intersecção real entre os termos. Impedir que convicção seja apresentada como prova é também uma responsabilidade epistemológica. A distinção se sustenta quando abertura nomeia a disponibilidade diante de outra compreensão da realidade e hospitalidade nomeia as condições de exame das afirmações. Não se propõe uma separação absoluta de faculdades ou etapas.
+
+A consequência para o juízo profissional é positiva: o terapeuta pode formular uma hipótese, afastar uma alegação sem fundamento suficiente e tomar uma decisão clínica enquanto mantém outra pergunta aberta. Pluralismo não exige indiferença quanto à evidência, nem suspensão do cuidado.
+
+O critério de nível tornou-se mais explícito. Relato experiencial, interpretação de tradição, explicação funcional, alegação causal e tese ontológica possuem perguntas e formas de sustentação diferentes. Uma formulação muda de exigência quando passa de “isto é significativo para mim” a “isto causou minha doença” ou “isto torna o tratamento desnecessário”.
+
+### Vieten et al. — qualificação integral do anexo
+
+Fonte: `Spiritual-Vieten 2013.pdf`, enviada por Fabiano; 16 páginas, correspondentes às páginas 129–144 do artigo; DOI 10.1037/a0032699. Leitura integral do PDF e conferência visual da tabela de competências. SHA-256: `ae8ca07d2856f57868e03ddcc22968009a7fa945576f6bff1166ec0e589aec96`.
+
+A proposta resulta de revisão de literatura, grupo focal com 15 especialistas e consulta on-line com 184 participantes. A análise de especialistas considerou 105 clínicos habilitados, com formação de mestrado ou superior e proficiência autodeclarada na intersecção entre psicoterapia e espiritualidade/religião. A seleção e a autodeclaração precisam ser consideradas; não se trata de uma amostra representativa da profissão. A amostra total era 90,8% branca.
+
+O conjunto final contém 16 competências: três de atitudes, sete de conhecimentos e seis de habilidades. O artigo é fonte primária para essa proposta e seu processo de construção; funciona como revisão quando relata resultados de outros estudos. Não é ensaio de eficácia, demonstração de validade de uma escala clínica ou regulamentação obrigatória da APA.
+
+Contribuições pertinentes ao capítulo:
+- respeito a diferentes perspectivas religiosas, espirituais e seculares;
+- reconhecimento da influência das convicções do próprio profissional;
+- diversidade interna às tradições, impedindo presumir que afiliação equivale a competência;
+- investigação de história, recursos e problemas espirituais;
+- diferenciação clínica e atenção a limites de atuação;
+- acesso a recursos reconhecidos pela pessoa e colaboração quando pertinente.
+
+A competência para acolher esse domínio não exige adesão às crenças do paciente nem confere competência automática para conduzir intervenções religiosas específicas. Essa distinção fortalece as seções 2, 5, 8 e 10. O artigo não é apresentado como fonte das expressões autorais “abertura ontológica clínica”, “hospitalidade epistemológica” ou “Precedência Fenomenológica”.
+
+A classificação documental de Vieten passa de consulta parcial de cópia pública para **fonte direta localizada e lida integralmente no anexo do usuário**. O anexo amplia e qualifica a leitura do mesmo artigo; não é uma confirmação empírica independente.
+
+### Estudos originais e diretrizes — alcance de leitura
+
+As referências completas e os achados incorporados estão no capítulo [10–13]. Nesta tabela registram-se particularidades de método e acesso, evitando duplicar a discussão do manuscrito.
+
+| Fonte | Acesso efetivo | Limite adicional relevante |
+|---|---|---|
+| Peters et al. 2016 [10] | Texto original em cópia pública no ResearchGate; métodos, resultados pertinentes e discussão examinados | Controles foram aproximados do grupo não clínico; seleção e diferenças entre grupos limitam inferências causais |
+| Peters et al. 2017 [11] | Texto original no ResearchGate; seleção, entrevistas, tarefas, resultados e limites examinados | A indução experimental não randomizou uma intervenção sobre crenças; não testa se adotar interpretação espiritual previne adoecimento |
+| Moreira-Almeida et al. 2008 [12] | PDF original em cópia pública; método, resultados e discussão pertinentes | Comparação com séries históricas norte-americanas; instrumento em português sem validação naquele estudo; não estima desempenho diagnóstico prospectivo |
+| Mosqueiro et al. [13] | Texto da SciELO; métodos, avaliação, recomendações e limites | Busca bibliográfica até julho de 2020; publicação posterior não atualiza automaticamente esse corte |
+
+Cópias consultadas:
+- [Peters 2016](https://www.researchgate.net/publication/292677111_Clinical_socio-demographic_and_psychological_characteristics_in_individuals_with_persistent_psychotic_experiences_with_and_without_a_need_for_care).
+- [Peters 2017](https://www.researchgate.net/publication/321438304_Clinical_relevance_of_appraisals_of_persistent_psychotic_experiences_in_people_with_and_without_a_need_for_care_an_experimental_study).
+- [Moreira-Almeida et al. 2008](https://espiritualidades.com.br/artigos/M_autores/MOREIRA-ALMEIDA_Alexander_et_LOTUFO_NETO_Francisco_e_CARDENA_Etzel_tit_Comparison_of_Brazilian_Spiritist_Mediumship.pdf).
+- [Diretriz da ABP](https://www.scielo.br/j/rbp/a/TLYQBZscnBhzYPpwY5z8HFs/?lang=en).
+
+NIMH: guia oficial de avaliação ambulatorial de segurança em adultos consultado diretamente. NICE CG178: recomendações pertinentes 1.3.3.1–1.3.3.4 e 1.3.4.3 conferidas em conteúdo indexado oficial, ampliando a conferência anterior limitada a 1.3.3.1; acesso direto continuou bloqueado. NICE NG225: mantém o alcance previamente registrado. Não se declara leitura integral direta das diretrizes NICE.
+
+Esta é pesquisa focal nova. A inclusão de estudos originais não recupera a investigação histórica de validade discriminante do projeto. Também não constitui revisão sistemática exaustiva nem homologa diagnóstico da vinheta.
+
+### Ganho para avaliação e diagnóstico diferencial
+
+A seção 8 passa a organizar quatro tarefas relacionadas: caracterizar o vivido; compreender sua interpretação e contexto; examinar conjunto clínico e funcionamento; responder a necessidades de cuidado. A categoria espiritual não exclui a categoria clínica, e a presença de uma necessidade de cuidado não elimina significado espiritual.
+
+As perguntas foram oferecidas como apoio de reflexão, sem escore ou pontos de corte. A firmeza da convicção e a concordância com o terapeuta não foram transformadas em testes. A compatibilidade cultural também não foi tratada como critério suficiente.
+
+O problema de validação da matriz ficou delimitado: se ela pretende apenas tornar inferências mais examináveis, precisa ser comparada com formas usuais de registro e supervisão. Se futuramente reivindicar desempenho diagnóstico, serão necessários estudos específicos para essa finalidade. Não se transferem propriedades dos instrumentos utilizados pelos artigos para o protótipo autoral.
+
+### Lacunas e pesquisa seguinte delimitadas
+
+| Pergunta ainda aberta | Pesquisa necessária | Efeito esperado no capítulo |
+|---|---|---|
+| Que características antecipam evolução e necessidade de cuidado? | Estudos prospectivos e amostras menos selecionadas | Separar associação contemporânea de capacidade prognóstica |
+| Como diferenciar quadros afetivos, dissociativos e condições médicas? | Fontes específicas de avaliação e diagnóstico, com atenção ao curso e ao contexto | Evitar que toda a seção clínica se organize apenas em torno de psicose |
+| Como práticas intensivas participam de dificuldades e recursos? | Estudos originais que caracterizem prática, condições, temporalidade e efeitos | Qualificar o episódio de retiro sem inferir causalidade ou estado não documentado |
+| Como a psicoterapia participa da elaboração espiritual? | Estudos qualitativos e de processo, além de desfechos clínicos | Examinar discernimento, conflitos e participação na vida com indicadores proporcionais |
+| O que sustenta as contribuições afirmativas? | Estudos originais sobre práticas, recursos e problemas específicos | Diferenciar valor existencial, preferência, processo e eficácia |
+
+Uma busca exploratória adicional localizou “Spiritual experiences hallucination phenomenology associated with spiritual experiences in a non-clinical population: a qualitative study” (2025), DOI 10.1590/1982-0275202542e220012. O texto integral não foi examinado nesta unidade; acesso direto à página retornou bloqueio. Permanece apontador bibliográfico, sem sustentar afirmações no capítulo. Não ampliar a lista apenas por novidade: a inclusão dependerá do ganho para as perguntas acima.
+
+### Consequências para livro, TSH e linhas de pesquisa
+
+O capítulo ganha autonomia argumentativa: contribuições recíprocas, postura clínica, elaboração e avaliação. Tradução e EIXO permanecem onde ajudam a nomear uma tarefa; o argumento não depende de demonstrar exclusividade desses conceitos.
+
+Para a pré-produção do livro, conservar a distinção entre tornar o vivido legível, discernir suas interpretações e acompanhar sua participação na vida. Ela permite ligar experiência, história e expressão sem congelar um sumário ou apresentar sequência universal.
+
+A revisão não altera a antropologia espiritual do TSH nem a torna obrigação do paciente ou conclusão científica. O pluralismo preserva os níveis e examina as alegações conforme seu alcance. AISB permanece fora desta unidade.
+
 ## Próxima ação
 
-Integrar a proposta editorial ao rascunho em revisão, com referências proporcionais e rastreabilidade. Antes de ampliar a seção clínica sobre diagnóstico diferencial, realizar pesquisa dirigida em estudos originais que comparem experiências e funcionamento, examinando limites de amostras e generalização. Condições de publicação da vinheta permanecem pendentes. A revisão aqui apresentada não substitui deliberação autoral nem encerra a auditoria.
+Revisão autoral do manuscrito 0.6, com atenção à tese nas duas direções e à proporção entre núcleo afirmativo, vinheta e avaliação clínica. A pesquisa pode continuar nas lacunas delimitadas acima, priorizando prognóstico, quadros afetivos/dissociativos e condições das práticas. Depois, ajustar extensão, estilo e referências às normas da coletânea. Condições de publicação da vinheta continuam pendentes; nenhum envio ou alteração de documento canônico foi realizado.
