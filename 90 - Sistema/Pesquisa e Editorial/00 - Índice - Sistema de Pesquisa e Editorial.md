@@ -55,6 +55,7 @@ A mesma fonte pode alimentar vários conhecimentos; o mesmo conhecimento pode al
 - [[01 - Mapa Mestre de Linhas, Ativos e Produtos]]
 - [[02 - Proveniência e Estatuto - Convenções Leves]]
 - [[03 - Matriz Tema × Produto]]
+- [[04 - Dossiê - Eixos Clínicos, Epistemológicos e Editoriais Emergentes]]
 
 ## Regra de não duplicação
 
