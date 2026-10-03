@@ -22,6 +22,7 @@ Os registros factuais e clínicos devem permanecer separados das interpretaçõe
 - [[CASO-001 - A Membrana que se Rompeu - 01 - Registro Clínico]]
 - [[CASO-002 - A Criança que Só Queria Brincar - 01 - Registro Clínico]]
 - [[CASO-003 - A Singularidade que Busca Expressão - 01 - Registro Clínico]]
+- [[CASO-004 - O Executivo, o Contemplativo e o Oni - 01 - Registro Clínico]]
 
 ## Gênese conceitual
 
@@ -33,3 +34,16 @@ Os registros factuais e clínicos devem permanecer separados das interpretaçõe
 - [[Metáfora Estruturante - A Árvore da Singularidade]]
 - [[Mapa Conceitual - Da Potência à Expressão]]
 - [[Módulo Futuro - A Expressão da Singularidade]]
+
+
+## Derivações conceituais em trabalho
+
+> [!warning]
+> Os documentos abaixo são recuperáveis para pesquisa e desenvolvimento, mas não são canônicos até deliberação explícita.
+
+- [[Tradução - Modalidade Emergente e Modalidade Mediada]]
+- [[Princípio - A Experiência Deve Poder Aparecer Antes de Ser Explicada]]
+- [[Princípio - Abertura Ontológica e Hospitalidade Epistemológica]]
+- [[Matriz de Discernimento da Experiência]]
+- [[Árvore da Singularidade - Crescimento Assimétrico e Congruência Expressiva]]
+- [[Síntese Emergente - Da Potência à Expressão - Versão de Trabalho]]
