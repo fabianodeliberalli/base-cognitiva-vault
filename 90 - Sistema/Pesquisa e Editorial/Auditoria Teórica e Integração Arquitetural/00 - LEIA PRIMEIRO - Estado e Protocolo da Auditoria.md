@@ -4,7 +4,7 @@ status: versão-de-trabalho
 autoridade_final: Fabiano Deliberalli
 criado_em: 2026-10-03
 atualizado_em: 2026-10-03
-versao: "0.14"
+versao: "0.15"
 projeto: Traduzindo o Ser Humano
 ---
 
@@ -29,7 +29,8 @@ O curso de 9 módulos/54 aulas é uma expressão pedagógica do patrimônio e n�
 - A revisão crítica identificou excesso de ênfase na compatibilidade, pouco confronto da suficiência do modelo e desenvolvimento editorial insuficiente. Essas limitações foram tratadas no parecer consolidado, preparado para revisão autoral; o confronto integral com os 12 elos permanece pendente da fonte original.
 - Rodada focal de Tradução consolidada provisoriamente nesta branch: confronto com interlocutores combinados aplicado aos CASOS 001 e 004. Não houve validação empírica ou homologação das hipóteses.
 - [[02 - Parecer Consolidado - Movimento 1 - Coerência e Suficiência]] reúne as sete unidades prioritárias, confrontos arquiteturais, classificações e propostas concretas. A entrega de consolidação está concluída no alcance das fontes disponíveis; o Movimento 1 não foi declarado integralmente encerrado.
-- Pesquisa dirigida de EIXO iniciada em [[03 - Investigação Discriminante - EIXO e Constructos Vizinhos]]: primeiro confronto com flexibilidade psicológica na ACT e qualificação integral do anexo enviado por Fabiano. Resultado provisório: sobreposição funcional forte; equivalência global e mecanismo exclusivo não estabelecidos; organização autoral com utilidade candidata. Confronto com flexibilidade regulatória acrescentado na seção 7: reconhecimento contextual, repertório e revisão já possuem antecedentes; a contribuição candidata do EIXO exige comparação por episódios e condições. Confronto com decentramento acrescentado na seção 8: antecedentes claros de menor identificação e mudança de perspectiva; orientação e participação precisam ser documentadas, sem equivalência global ou uso de medidas vizinhas como escala EIXO. Confronto com autorregulação e síntese combinada acrescentados nas seções 9–10, com aplicação documental aos CASOS 001 e 004: monitoramento, referência, conhecimento × ação e revisão de metas têm antecedentes; contribuição organizadora candidata, independência científica não estabelecida. Rodada focal documental consolidada no alcance declarado, sem encerrar a validade discriminante geral. Proposta de revisão argumentativa concluída em [[00 - Dossiê de Desenvolvimento do Capítulo]], versão 0.7: tese nas duas direções, reorganização das dez seções, função da vinheta e passagens candidatas. Diagnóstico editorial: desenvolver a contribuição afirmativa da espiritualidade e concentrar ressalvas repetidas. Manuscrito 0.5 preservado. Próxima unidade: integrar a revisão ao rascunho e realizar pesquisa original dirigida para a seção de diagnóstico diferencial, sem inferir diagnóstico retrospectivo. O capítulo segue em revisão e o livro em pré-produção.
+- Pesquisa dirigida de EIXO iniciada em [[03 - Investigação Discriminante - EIXO e Constructos Vizinhos]]: primeiro confronto com flexibilidade psicológica na ACT e qualificação integral do anexo enviado por Fabiano. Resultado provisório: sobreposição funcional forte; equivalência global e mecanismo exclusivo não estabelecidos; organização autoral com utilidade candidata. Confronto com flexibilidade regulatória acrescentado na seção 7: reconhecimento contextual, repertório e revisão já possuem antecedentes; a contribuição candidata do EIXO exige comparação por episódios e condições. Confronto com decentramento acrescentado na seção 8: antecedentes claros de menor identificação e mudança de perspectiva; orientação e participação precisam ser documentadas, sem equivalência global ou uso de medidas vizinhas como escala EIXO. Confronto com autorregulação e síntese combinada acrescentados nas seções 9–10, com aplicação documental aos CASOS 001 e 004: monitoramento, referência, conhecimento × ação e revisão de metas têm antecedentes; contribuição organizadora candidata, independência científica não estabelecida. Rodada focal documental consolidada no alcance declarado, sem encerrar a validade discriminante geral. 
+- Revisão argumentativa incorporada em [[01 - Capítulo - Primeira Redação]], versão 0.6, por solicitação de Fabiano: duas direções de contribuição, abertura ontológica clínica sem exigência de agnosticismo pessoal, hospitalidade epistemológica com discriminação de fundamentos e pesquisa focal de avaliação/diferencial. [[00 - Dossiê de Desenvolvimento do Capítulo]], versão 0.8, registra o anexo integral de Vieten, o alcance dos estudos e as lacunas seguintes. O capítulo segue em revisão autoral e o livro em pré-produção. Próxima unidade: refinar a seção clínica nas perguntas prospectivas, afetivas/dissociativas e de condições das práticas, além de revisar proporção e extensão para a coletânea. Não há diagnóstico retrospectivo ou homologação de mudança canônica.
 - Reaproveitar as distinções já produzidas. Evitar reiniciar toda a recuperação ou repetir ressalvas sem um problema novo.
 - Referências centrais do TSH, Método EIXO, casos e currículo não são alteradas por este protocolo.
 
@@ -509,7 +510,7 @@ Há ainda uma vulnerabilidade da definição ampla: se qualquer reconhecimento, 
 
 ## Capítulo — Desenvolvimento editorial prioritário
 
-Estado em 03/10/2026: [[01 - Capítulo - Primeira Redação]] reúne primeira redação das dez seções, com aplicação documental da matriz ao CASO-004. [[00 - Dossiê de Desenvolvimento do Capítulo]] conserva fontes, limites e pendências. Pesquisa empírica do diagnóstico diferencial, revisão argumentativa e condições de uso da vinheta permanecem abertas; o manuscrito não está pronto para publicação.
+Estado em 03/10/2026: [[01 - Capítulo - Primeira Redação]], versão 0.6, incorpora a revisão nas duas direções e a pesquisa focal de avaliação/diferencial. [[00 - Dossiê de Desenvolvimento do Capítulo]], versão 0.8, conserva proveniência, limites e lacunas delimitadas. O anexo integral de Vieten foi qualificado. Pesquisa focal realizada não equivale a revisão sistemática ou encerramento do diagnóstico diferencial. Revisão autoral, adequação editorial e condições de publicação da vinheta permanecem abertas.
 
 Título de trabalho preservado: **Espiritualidade e Psicoterapia: entre o reducionismo e a credulidade**.
 
@@ -526,17 +527,21 @@ Frases a preservar como núcleos de trabalho:
 
 A primeira é tratada como formulação candidata do Princípio da Precedência Fenomenológica: prioridade de atenção e investigação, sem impor cronologia universal ou experiência livre de interpretação. A terceira é explicada como não dependência de uma conclusão ontológica, não como ausência de avaliação ou ação quando necessárias.
 
-Estrutura de trabalho, revisável:
-1. Quando a espiritualidade entra no consultório: problema e relevância.
-2. A posição do terapeuta: pressupostos, escuta e limites.
-3. Fechamentos interpretativos: redução prematura e confirmação literal.
-4. Abertura ontológica e hospitalidade epistemológica.
-5. Precedência fenomenológica e modalidades de Tradução.
+Estrutura atual do rascunho 0.6, revisável:
+1. Quando a espiritualidade entra no consultório: pergunta nas duas direções.
+2. Convicções do terapeuta e fechamentos da investigação.
+3. Abertura ontológica clínica e hospitalidade epistemológica.
+4. Precedência Fenomenológica e Tradução.
+5. O que a espiritualidade oferece à psicoterapia.
 6. Matriz de Discernimento da Experiência.
-7. Vinheta anonimizada e aplicação comentada, preservando dados ausentes.
-8. Segurança, avaliação clínica e contexto cultural, já considerados transversalmente desde o início.
-9. O que pode ser conhecido, o que permanece aberto e como acompanhar efeitos na vida.
-10. Implicações para psicoterapia e integração da experiência espiritual.
+7. Vinheta anonimizada e raciocínio comentado.
+8. Avaliação clínica e diagnóstico diferencial, com segurança transversal.
+9. Da experiência à participação na vida.
+10. O que a psicoterapia oferece à elaboração espiritual.
+
+Abertura ontológica clínica designa disponibilidade para investigar uma experiência organizada por outra compreensão da realidade; não exige agnosticismo pessoal do terapeuta. Hospitalidade epistemológica explicita as condições de recepção, exame e discriminação das interpretações. O profissional pode conservar convicções, reconhecer diferenças de sustentação e tomar decisões clínicas sem apresentar sua posição pessoal como prova obtida no encontro.
+
+A pesquisa desta unidade está qualificada no dossiê e no Manifesto. Vieten fundamenta competências, não a autoria dos termos; estudos originais contribuem para perguntas de avaliação, sem validar a matriz. As publicações de Peters consultadas não constituem replicações independentes.
 
 A tríade didática descreve posições de fechamento ou abertura, não caricaturas de todas as abordagens psicológicas ou espirituais. Uma hipótese psicológica não é, por si, reducionista; uma linguagem espiritual não é, por si, credulidade.
 
