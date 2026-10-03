@@ -4,7 +4,7 @@ status: versão-de-trabalho
 autoridade_final: Fabiano Deliberalli
 criado_em: 2026-10-03
 atualizado_em: 2026-10-03
-versao: "0.4"
+versao: "0.5"
 projeto: Traduzindo o Ser Humano
 ---
 
@@ -251,6 +251,58 @@ A possibilidade de descrever um episódio com mais de um conceito exige comparar
 **Pesquisa:** comparar descrições do mesmo episódio feitas com Tradução e com experiencing/simbolização, metacognição e monitoramento da fonte combinados. Perguntar quais observações e decisões adicionais a organização autoral permite; avaliar também redundância e esforço desnecessário. Nenhum resultado empírico desse exame foi produzido.
 
 Próximo confronto focal: Tradução × mentalização. Examinar o entendimento de estados mentais próprios e alheios, incluindo corpo, afeto e relações, sem restringir mentalização a uma inferência intelectual. Granularidade emocional e meaning-making permanecem para confrontos próprios. A validade discriminante geral continua aberta.
+
+
+## Confronto focal — Tradução × mentalização (03/10/2026)
+
+Pesquisa nova e conceitual, com finalidade delimitada para auditoria e capítulo. Não constitui estudo empírico de validade discriminante, revisão sistemática ou recuperação da investigação histórica. A definição ampliada de [[Tradução da Experiência Humana]] foi conferida diretamente na main.
+
+### Fontes e delimitação
+
+Fonagy e Luyten (2009), texto original em PDF, passagens sobre definição, multidimensionalidade e contexto interpessoal; Bateman e Fonagy (2010), texto original no PMC, seções sobre mentalização, intervenções e postura terapêutica. As proposições clínicas desses textos são desenvolvidas no contexto do transtorno de personalidade borderline. Não se transporta esse diagnóstico aos casos do TSH, nem a evidência de MBT para a eficácia de Tradução.
+
+Fonagy e Luyten definem mentalização pelo entendimento do comportamento em termos de estados mentais intencionais. Organizam quatro polaridades: automática/controlada, cognitiva/afetiva, interna/externa e self/outro. Consideram variações com ativação emocional e contexto interpessoal. Portanto, ela não é apenas inferência verbal sobre a mente alheia; entretanto, reconhecer seu alcance não significa que toda percepção corporal seja mentalização.
+
+Bateman e Fonagy descrevem uma postura de incerteza reconhecida, perguntas descritivas e revisão da participação do terapeuta. Validar a perspectiva da pessoa não equivale a concordar com ela. Há antecedente direto para componentes da precedência e da investigação compartilhada propostas no TSH.
+
+### Comparação e classificação
+
+| Proposição | Confronto | Juízo provisório |
+|---|---|---|
+| Tradução inclui afeto, enquanto mentalização seria apenas intelectual | A polaridade cognitiva/afetiva contradiz essa caricatura | Distinção não sustentada |
+| Tradução inclui relações e estados próprios | Ambos são contemplados na mentalização | Já existente; não prova exclusividade |
+| A capacidade varia com o contexto | Há antecedente no interlocutor | Já existente como relação geral; EIXO ainda exige confronto próprio |
+| Descrever antes de fechar a explicação e rever a contribuição do terapeuta | Há convergência explícita na postura de MBT | Reformulação útil, sem novidade exclusiva |
+| Legibilidade e mentalização são a mesma tarefa | A primeira não exige sempre entender comportamento por estados mentais | Equivalência global não demonstrada |
+| Tradução integra proveniência, sentido e estatuto epistemológico | Ênfase metodológica candidata frente às passagens consultadas | Hipótese promissora de contribuição; exclusividade não demonstrada |
+
+Diferença de foco candidata: mentalização pergunta pelo entendimento de si e dos outros em termos mentais; Tradução organiza a legibilidade multidimensional de um vivido. As tarefas podem se sobrepor, e maior amplitude temática não demonstra mecanismo distinto.
+
+### Limites e exemplos
+
+Exemplos hipotéticos, não episódios acrescentados aos casos:
+
+- Identificar onde uma sensação aparece e distinguir sensação atual de lembrança pode produzir legibilidade parcial sem ainda explicar comportamento em termos de estados mentais.
+- Entender que alguém agiu por uma crença equivocada pode ser descrito como mentalização. Na definição ampla do TSH, também pode participar de Tradução; não constitui exemplo que isole esta última.
+- Compreender uma imagem espiritual quanto a medo, desejo ou expectativa examina aspectos mentais. Isso não resolve sua natureza última nem autoriza reduzir toda a experiência a esses aspectos.
+
+A abertura ontológica não deve ser defendida por oposição genérica à mentalização. Uma leitura de estados mentais pode coexistir com indeterminação ontológica; precisamos examinar enunciados concretos para demonstrar fechamento ou incompatibilidade.
+
+Do mesmo modo, a presença de uma pergunta ou descrição no caso não demonstra qual capacidade mudou. Não foram utilizados instrumentos ou indicadores de mentalização para reavaliar os pacientes.
+
+### Ganho para a arquitetura e os produtos
+
+A formulação mais consistente permanece: Tradução como organização metodológica autoral, possivelmente reunindo processos compartilhados. Mentalização pode ser um interlocutor ou componente de determinados episódios, sem se tornar explicação total do modelo.
+
+A contribuição útil à precedência não depende de prioridade histórica. Pode estar na forma como o TSH organiza a atenção ao vivido, a diferenciação de afirmações e o retorno do exame ao terapeuta. O ganho adicional frente aos interlocutores combinados ainda precisa ser demonstrado.
+
+**Capítulo:** acrescentar o antecedente de MBT à seção 5, deixando explícito seu contexto e evitando alegação de novidade ou transferência de eficácia. Essa revisão bibliográfica é de trabalho; não altera referências centrais do TSH.
+
+**Livro:** aproveitar a genealogia para desenvolver a relação entre experiência, reconhecimento e compreensão de si/outro, sem construir oposição artificial entre corpo e mente.
+
+**Pesquisa:** buscar episódios e critérios que permitam comparar o que cada descrição efetivamente acrescenta. Dados sobre resultados de tratamentos não isolam automaticamente os processos examinados.
+
+Próximo confronto: Tradução × granularidade emocional. Pergunta: diferenciar emoções é um componente possível da legibilidade, e que dimensões permanecem fora dessa tarefa específica? Depois, meaning-making e uma síntese transversal devem comparar também a combinação dos interlocutores. AISB permanece excluído.
 
 
 ## Capítulo — Desenvolvimento editorial prioritário
