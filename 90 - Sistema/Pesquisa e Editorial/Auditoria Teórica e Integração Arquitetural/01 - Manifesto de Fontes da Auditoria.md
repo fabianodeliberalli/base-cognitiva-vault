@@ -196,3 +196,10 @@ Estatuto: fontes diretas localizadas, literatura histórica primária. Pesquisa 
 - Barrett LF, Gross J, Conner Christensen T, Benvenuto M. Knowing what you're feeling and knowing what to do about it: Mapping the relation between emotion differentiation and emotion regulation. *Cognition and Emotion*. 2001;15(6):713–724. DOI: 10.1080/02699930143000239. [Registro e resumo na editora](https://www.tandfonline.com/doi/abs/10.1080/02699930143000239). Resumo recuperado pela busca; abertura direta e tentativa de PDF falharam. Texto integral não consultado nesta etapa.
 
 Estatuto: literatura primária localizada, com acesso parcial explicitado. Pesquisa nova, conceitual; não recuperação histórica nem estudo de validade do TSH. Resultado registrado no Protocolo. Não deduzir granularidade dos pacientes a partir de riqueza narrativa ou alívio em sessão.
+
+## Fontes do confronto com meaning-making — 03/10/2026
+
+- Park CL. Making sense of the meaning literature: An integrative review of meaning making and its effects on adjustment to stressful life events. *Psychological Bulletin*. 2010;136(2):257–301. DOI: 10.1037/a0018301. [Texto original hospedado no OVC](https://ovc.ojp.gov/sites/g/files/xyckuh226/files/media/document/os_meaning_making_review.pdf). Seções conceituais e metodológicas examinadas. Fonte direta da formulação da autora; revisão quando relata estudos de terceiros. Não substitui consulta aos originais empíricos.
+- Park CL, Folkman S. Meaning in the context of stress and coping. *Review of General Psychology*. 1997;1(2):115–144. DOI: 10.1037/1089-2680.1.2.115. [Registro e resumo da editora](https://journals.sagepub.com/doi/10.1037/1089-2680.1.2.115). Apenas resumo e metadados consultados; texto integral restrito.
+
+Pesquisa nova e conceitual. Formulação de trabalho no Protocolo; contribuição ao acompanhamento na seção 9 do capítulo. Não constitui recuperação histórica, revisão sistemática, prova de congruência expressiva ou estudo de eficácia de Tradução.
