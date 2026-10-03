@@ -253,3 +253,14 @@ Confronto registrado na seção 7 de [[03 - Investigação Discriminante - EIXO 
 - *Corrigendum* do artigo anterior. Psychological Science. 2016;27(3):428–431. DOI 10.1177/0956797615627417. [Correção](https://journals.sagepub.com/doi/pdf/10.1177/0956797615627417). Integral consultado; considerar a correção junto ao original.
 
 Fontes diretas localizadas; literatura primária histórica. O confronto não descreve integralmente o campo atual. Recursividade conferida novamente na main, sem mudança de blob. A proposta de exame por episódios é construção da auditoria, não escala publicada, nova arquitetura ou decisão autoral.
+
+
+## Decentramento — pesquisa nova, 03/10/2026
+
+Confronto na seção 8 de [[03 - Investigação Discriminante - EIXO e Constructos Vizinhos]], versão 0.3. Pesquisa conceitual e documental; exame de estudos de medida não equivale a validação de EIXO.
+
+- Fresco DM, Moore MT, van Dulmen MHM, Segal ZV, Ma SH, Teasdale JD, Williams JMG. *Initial Psychometric Properties of the Experiences Questionnaire: Validation of a Self-Report Measure of Decentering*. Behavior Therapy. 2007;38(3):234–246. DOI 10.1016/j.beth.2006.08.003. [Original na ACBS](https://contextualscience.org/files/Fresco%2C2007.pdf). Definição, desenvolvimento, passagens dos estudos e discussão examinados; não reanálise.
+- Bernstein A, Hadash Y, Lichtash Y, Tanay G, Shepherd K, Fresco DM. *Decentering and Related Constructs: A Critical Review and Metacognitive Processes Model*. Perspectives on Psychological Science. 2015;10(5):599–617. DOI 10.1177/1745691615594577. [Editora](https://journals.sagepub.com/doi/abs/10.1177/1745691615594577). Apenas resumo e metadados; integral não recuperado nesta unidade, acesso ao PMC bloqueado.
+- Naragon-Gainey K, DeMarree KG. *Structure and Validity of Measures of Decentering and Defusion*. Psychological Assessment. 2017;29(7):935–954. DOI 10.1037/pas0000405. [Original no laboratório](https://ubwp.buffalo.edu/socmetalab/wp-content/uploads/sites/241/2025/10/2017.N-GD.PsyAss.pdf). Definições, síntese dos resultados, implicações e limitações examinadas; não reanálise.
+
+Fontes diretas localizadas, com acesso parcial discriminado; literatura histórica primária. Modelo e comparação são distinguidos das evidências relatadas por revisão. Recursividade recuperada novamente da main, sem alteração do blob. Exemplos da unidade são hipotéticos, não novos dados dos casos.
