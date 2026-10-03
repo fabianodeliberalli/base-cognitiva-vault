@@ -222,3 +222,23 @@ A comparação combinada é construção analítica desta auditoria, apoiada nos
 A Matriz Integrada e o fechamento da sessão 2A-F confirmam os nomes aprovados das seis fases; a sequência candidata anterior no corpo da sessão preserva genealogia e não substitui o fechamento. Integração e expressão já constam da arquitetura. EIXO Integrador e Transformação e Integração foram lidos sob seus estatutos de proposta e validação pendente.
 
 O parecer é versão de trabalho do auditor, não decisão autoral ou fonte independente. Conclui a entrega de consolidação no alcance documental disponível. O confronto integral com a Matriz Teórica Mestra e a recuperação da investigação histórica permanecem lacunas; não foram supridos por inferência.
+
+
+## Anexo e investigação dirigida de EIXO — 03/10/2026
+
+[[03 - Investigação Discriminante - EIXO e Constructos Vizinhos]] registra o primeiro confronto, EIXO × flexibilidade psicológica na ACT, e a qualificação do documento enviado por Fabiano. Pesquisa nova, conceitual; não recuperação histórica, validação empírica ou homologação do Método.
+
+**Flexibilidade psicológica_261003_140025.pdf**:
+- proveniência: anexo enviado por Fabiano neste chat em 03/10/2026; 15 páginas lidas integralmente por imagem;
+- classificação: fonte direta localizada; material de consulta com autoria intelectual, data de composição e estatuto original não identificados;
+- conteúdo: metacognição, relações propostas com mentalização e granularidade, e afirmação final de equivalência da tríade com flexibilidade psicológica;
+- uso: fonte da proposta comparativa a investigar, sem substituir os textos primários científicos;
+- identificador do anexo: `file_00000000c174820eaca58e2a2c57c829`;
+- SHA-256: `58a38e2ec239b5dcf260e4b8b01820ad5329080bb854e9971992f37cb3ab9769`;
+- o PDF não foi copiado ao vault. O registro de proveniência não substitui sua recuperação para futuras conferências.
+
+Literatura primária nova:
+- Hayes SC, Luoma JB, Bond FW, Masuda A, Lillis J. *Acceptance and Commitment Therapy: Model, processes and outcomes*. Behaviour Research and Therapy. 2006;44(1):1–25. DOI 10.1016/j.brat.2005.06.006. [Cópia do original](https://i-cbt.org.ua/wp-content/uploads/2017/11/Hayes-ACT-2006.pdf). Passagens conceituais das páginas 7–10 examinadas; estudos empíricos não revisados integralmente. Cópia no Anxiety Institute teve acesso bloqueado.
+- Hayes SC, Pistorello J, Levin ME. *Acceptance and Commitment Therapy as a Unified Model of Behavior Change*. The Counseling Psychologist. 2012;40(7):976–1002. DOI 10.1177/0011000012460836. [Editora](https://journals.sagepub.com/doi/pdf/10.1177/0011000012460836). Resumo e metadados consultados; integral não recuperado. Registro da USU contém DOI e paginação discrepantes; dados da editora adotados.
+
+Formulações do GitHub: Recursividade e fundamento transversal atuais; EIXO Integrador lido como proposta de expansão, sem promoção das seis dimensões. Flavell, Fonagy/Luyten e Erbas foram revisitados nas passagens pertinentes para qualificar afirmações do anexo. Regulatory flexibility, decentramento e autorregulação ainda aguardam confronto direto nesta frente.
