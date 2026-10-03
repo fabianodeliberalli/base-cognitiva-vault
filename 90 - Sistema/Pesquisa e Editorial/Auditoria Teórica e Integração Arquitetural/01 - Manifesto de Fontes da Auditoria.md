@@ -214,3 +214,11 @@ Nova fonte direta localizada:
 O parecer transversal registra diferenças de força de afirmação: modalidade emergente atribuída ao CASO-004; maturidade dos princípios; função das sequências gráficas; estado editorial do capítulo. Essas diferenças foram qualificadas, sem alteração do dossiê-fonte.
 
 A comparação combinada é construção analítica desta auditoria, apoiada nos interlocutores já registrados acima. Não é modelo integrado publicado nem estudo empírico executado. O parecer se encontra no Protocolo, em “Síntese transversal — Tradução e interlocutores combinados”. As lacunas dos originais integrais dos 12 elos e da investigação discriminante histórica permanecem.
+
+## Conclusão documental qualificada do Movimento 1 — 03/10/2026
+
+[[02 - Parecer Consolidado - Movimento 1 - Coerência e Suficiência]] reúne sete unidades e confrontos arquiteturais. Fontes da main conferidas novamente nesta etapa: notas de precedência, abertura/hospitalidade, matriz, modalidades, Árvore e sua gênese; Recursividade; Três Eus; Matriz Integrada v0.3; deliberação 2A-F; fundamento transversal; ficha das Cinco Janelas; porta atual do curso e Síntese Emergente.
+
+A Matriz Integrada e o fechamento da sessão 2A-F confirmam os nomes aprovados das seis fases; a sequência candidata anterior no corpo da sessão preserva genealogia e não substitui o fechamento. Integração e expressão já constam da arquitetura. EIXO Integrador e Transformação e Integração foram lidos sob seus estatutos de proposta e validação pendente.
+
+O parecer é versão de trabalho do auditor, não decisão autoral ou fonte independente. Conclui a entrega de consolidação no alcance documental disponível. O confronto integral com a Matriz Teórica Mestra e a recuperação da investigação histórica permanecem lacunas; não foram supridos por inferência.
