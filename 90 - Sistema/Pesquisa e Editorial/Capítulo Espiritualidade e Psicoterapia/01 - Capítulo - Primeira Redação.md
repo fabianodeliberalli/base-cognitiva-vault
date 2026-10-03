@@ -1,7 +1,7 @@
 ---
 tipo: capitulo-em-desenvolvimento
 status: rascunho
-versao: "0.3"
+versao: "0.4"
 criado_em: 2026-10-03
 autoridade_final: Fabiano Deliberalli
 ---
@@ -69,6 +69,8 @@ A pessoa pode chegar com uma explicação pronta. Essa explicação também inte
 A sequência **aparecer → diferenciar → explorar → traduzir → interpretar** funciona como lembrete didático. No encontro real, esses movimentos podem se sobrepor e retornar uns aos outros. Uma interpretação pode abrir uma nova descrição; uma imagem pode tornar algo reconhecível; uma diferenciação pode exigir nova exploração. A direção pode mudar sem abandonar a prudência interpretativa.
 
 Há um antecedente relevante na proposta experiencial de Gendlin. Em *The client's client: The edge of awareness*, o autor distingue sentimentos reconhecíveis de um sentido experiencial ainda pouco claro e propõe conferir palavras, imagens e intervenções com a resposta da pessoa. Também enfatiza a possibilidade de abandonar intervenções que interfiram em seu processo [2]. Essa aproximação fundamenta uma convergência; não demonstra equivalência entre focusing e Tradução.
+
+A postura clínica descrita por Bateman e Fonagy em MBT também oferece um antecedente: privilegia descrição, perspectivas revisáveis e exame da participação do terapeuta [7]. A convergência situa a genealogia da proposta; não transfere resultados desse tratamento para Tradução.
 
 No TSH, a Tradução oferece a pergunta sobre como a experiência ganha legibilidade e diferenciação. Sua inclusão aqui é uma referência autoral em investigação. Reconhecer uma imagem ou encontrar palavras pode participar desse processo, mas não estabelece, por si só, que a explicação seja verdadeira ou que tenha ocorrido integração duradoura.
 
@@ -229,6 +231,8 @@ O princípio que orienta esse trabalho permanece: a clínica precisa ser suficie
 [5] National Institute of Mental Health. *Adult Outpatient Brief Suicide Safety Assessment Guide*. [Guia oficial](https://www.nimh.nih.gov/research/research-conducted-at-nimh/asq-toolkit-materials/adult-outpatient/adult-outpatient-brief-suicide-safety-assessment-guide). Consultado em 2026-10-03. Guia para adultos após rastreio positivo pelo ASQ; não aplicado retrospectivamente à vinheta.
 
 [6] National Institute for Health and Care Excellence. *Self-harm: assessment, management and preventing recurrence*. NG225, recomendações 1.6.1–1.6.6. 2022. [Fonte oficial](https://www.nice.org.uk/guidance/ng225/chapter/Recommendations). As recomendações citadas foram conferidas em conteúdo indexado da fonte oficial; o acesso direto integral esteve bloqueado nesta etapa. Escopo: autolesão.
+
+[7] Bateman A, Fonagy P. Mentalization based treatment for borderline personality disorder. *World Psychiatry*. 2010;9(1):11–15. DOI: 10.1002/j.2051-5545.2010.tb00255.x. [Texto original](https://pmc.ncbi.nlm.nih.gov/articles/PMC2816926/). Referência utilizada para postura terapêutica no contexto de MBT para transtorno de personalidade borderline; não fundamenta diagnóstico da vinheta nem eficácia do TSH.
 
 ## Notas de desenvolvimento — fora do corpo do capítulo
 
