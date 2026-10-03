@@ -78,6 +78,22 @@ O terapeuta não oferece previamente uma cosmologia para explicar o vivido.
 
 Relacionar com [[Tradução - Modalidade Emergente e Modalidade Mediada]].
 
+## 5A. Combinação entre mediação de enquadre e emergência de conteúdo
+
+O CASO-005 parece mais preciso quando descrito como **processo misto**, e não como exemplo “puro” de Tradução emergente.
+
+Na primeira sessão, o terapeuta oferece uma **mediação de enquadre** ao formular que as vivências precisavam de maior processamento e integração. Essa intervenção organiza a direção do trabalho, mas não define o significado nem a ontologia das experiências.
+
+Na segunda sessão, o conteúdo da Tradução emerge predominantemente da própria experiência:
+**medo → memórias → história de desautorização/impedimento → atualização → mudança de estado → nova experiência espiritual significativa.**
+
+Isso permite distinguir dois níveis de mediação:
+
+- **mediação de condições/enquadre:** o terapeuta oferece segurança, direção investigativa, perguntas e critérios;
+- **mediação de conteúdo:** o terapeuta oferece uma metáfora, mapa ou formulação sobre o que a experiência significa.
+
+No CASO-005 há forte mediação do primeiro tipo e baixa imposição do segundo. Essa diferenciação pode refinar a oposição simples entre Tradução emergente e mediada.
+
 ## 6. Tradução e EIXO
 
 A postura de não fechamento pode ter favorecido presença suficiente para que o pessoa permanecesse diante do medo e do desconhecido.
