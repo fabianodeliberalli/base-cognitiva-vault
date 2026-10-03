@@ -4,7 +4,7 @@ status: versão-de-trabalho
 autoridade_final: Fabiano Deliberalli
 criado_em: 2026-10-03
 atualizado_em: 2026-10-03
-versao: "0.5"
+versao: "0.6"
 projeto: Traduzindo o Ser Humano
 ---
 
@@ -303,6 +303,55 @@ A contribuição útil à precedência não depende de prioridade histórica. Po
 **Pesquisa:** buscar episódios e critérios que permitam comparar o que cada descrição efetivamente acrescenta. Dados sobre resultados de tratamentos não isolam automaticamente os processos examinados.
 
 Próximo confronto: Tradução × granularidade emocional. Pergunta: diferenciar emoções é um componente possível da legibilidade, e que dimensões permanecem fora dessa tarefa específica? Depois, meaning-making e uma síntese transversal devem comparar também a combinação dos interlocutores. AISB permanece excluído.
+
+
+
+## Confronto focal — Tradução × granularidade emocional (03/10/2026)
+
+Pesquisa nova, conceitual e delimitada. Não recupera a investigação histórica, não testa validade discriminante e não encerra os movimentos gerais da auditoria. Definição ampliada de [[Tradução da Experiência Humana]] conferida diretamente na main.
+
+### Fontes e alcance
+
+Erbas et al. (2014), texto original disponibilizado pela KU Leuven: definição, procedimento de avaliação e discussão/limitações examinados. Granularidade refere-se à diferenciação entre estados emocionais; sua avaliação pode inferir diferenciação pela covariação de avaliações emocionais em várias ocasiões. O trabalho apresenta três estudos correlacionais, com estudantes, e explicita limites relativos a contexto, intensidade e métodos. Associação não estabelece causalidade.
+
+Barrett et al. (2001): consultado o resumo bibliográfico do artigo na editora; texto integral não obtido nesta etapa. O resumo relata diário de 14 dias e associação entre diferenciação negativa e frequência de regulação, especialmente com maior intensidade. Não atribuir ao artigo demonstração de eficácia de Tradução ou garantia de integração.
+
+### Resultado comparativo — inferência do auditor
+
+A diferenciação emocional pode constituir um ganho parcial de legibilidade no sentido atual do TSH. Tradução, entretanto, também pergunta por memória, imagem, interpretação, relações e significado. Essa diferença de escopo delimita as tarefas, mas não demonstra processo novo: uma metodologia mais ampla pode reunir componentes já conhecidos.
+
+| Proposição examinada | Juízo provisório | Razão |
+|---|---|---|
+| Distinguir medo, tristeza ou vergonha acrescenta legibilidade | Já existente como tarefa; pode participar de Tradução | Sobreposição no domínio afetivo |
+| Tradução é idêntica à granularidade | Equivalência global não sustentada | A definição vigente admite ganhos em outros aspectos do vivido |
+| Tradução tem escopo maior, logo é constructo científico novo | Insuficientemente fundamentado | Amplitude não estabelece mecanismo ou validade |
+| Organizar a diferenciação afetiva junto de proveniência, contexto e sentido | Reformulação metodológica útil candidata | Sua utilidade precisa ser comparada com interlocutores combinados |
+| Mais palavras, imagens ou detalhes provam maior granularidade | Insuficientemente fundamentado | A descrição de uma sessão não equivale ao procedimento de avaliação examinado |
+| Clareza em sessão garante sustentação ou integração | Insuficientemente fundamentado | Não há esse indicador nos registros nem demonstração causal |
+
+A distinção proposta não exige que cada episódio de Tradução cubra todos os aspectos. Tampouco trata emoções como unidades puras, separadas de história, corpo ou relação.
+
+### Exemplos e contribuição aos casos
+
+Exemplos hipotéticos, não acontecimentos atribuídos aos pacientes:
+
+- “Agora diferencio vergonha de medo” pode caber nos dois vocabulários. Isso não isola um mecanismo exclusivo de Tradução.
+- “Reconheço que esta cena é uma lembrança e que a conclusão sobre ela foi construída agora” pode aumentar legibilidade sem evidenciar maior diferenciação entre emoções.
+- Um relato muito elaborado pode continuar misturando lembrança e interpretação. Sua riqueza não permite decidir, sozinha, quais capacidades mudaram.
+
+Nos CASOS 001 e 004, as mudanças narradas já documentadas podem orientar perguntas sobre reconhecimento e diferenciação. Os registros retrospectivos não oferecem avaliações repetidas para estimar granularidade nos moldes examinados. Por isso, não classificar pacientes como altos/baixos diferenciadores nem atribuir suas mudanças a esse mecanismo.
+
+### Ganho concreto para o projeto
+
+**TSH:** preservar Tradução como tarefa de legibilidade multidimensional. A diferenciação afetiva é um componente possível; não há razão neste confronto para substituir a definição vigente ou promover uma nova entidade científica.
+
+**Capítulo:** na vinheta, registrar qual aspecto se tornou mais reconhecível — sensação, afeto, imagem, lembrança, associação ou significado. Evitar trocar relato de alívio ou riqueza imagética por alegação de melhora da granularidade. Não é necessário acrescentar outra teoria ao manuscrito enquanto ela não cumprir função argumentativa própria.
+
+**Livro:** a contribuição narrativa candidata é mostrar que encontrar palavras para emoções e compreender relações entre experiência, história e sentido são ganhos relacionados, com critérios diferentes. A literatura sobre emoções não valida automaticamente a tese antropológica de singularidade.
+
+**Pesquisa:** uma primeira comparação pode examinar descrições do mesmo episódio: apenas distinções afetivas; distinções afetivas acrescidas de proveniência e contexto; organização por Tradução. Perguntar que informação ou decisão adicional aparece e qual esforço é exigido. Isso avalia utilidade metodológica inicial; não basta para validade discriminante de um constructo. Eventual estudo quantitativo exigirá operacionalização própria e método apropriado.
+
+Próximo confronto: meaning-making. Depois, síntese transversal que teste se a combinação dos interlocutores já descreve suficientemente a contribuição atribuída a Tradução. AISB permanece fora desta etapa.
 
 
 ## Capítulo — Desenvolvimento editorial prioritário
