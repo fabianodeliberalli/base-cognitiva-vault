@@ -1,7 +1,7 @@
 ---
 tipo: dossie-editorial
 status: versão-de-trabalho
-versao: "0.6"
+versao: "0.7"
 criado_em: 2026-10-03
 autoridade_final: Fabiano Deliberalli
 origem: auditoria-teorica-e-laboratorio-clinico
@@ -214,6 +214,123 @@ O manuscrito já recebeu os antecedentes de postura clínica em MBT e a distinç
 
 O [[04 - Dossiê - Eixos Clínicos, Epistemológicos e Editoriais Emergentes]], recuperado da main, é fonte transversal de consulta e preservação. Seus juízos de maturidade não equivalem a validação clínica nem a manuscrito pronto para publicação.
 
+
+## Proposta de revisão argumentativa — 03/10/2026
+
+**Estatuto:** proposta editorial do assistente para revisão autoral. Base: leitura integral de [[01 - Capítulo - Primeira Redação]], versão 0.5, blob `08b7470d21cbaf37d1e0f09875edf897e3229350`; síntese focal de Tradução e [[03 - Investigação Discriminante - EIXO e Constructos Vizinhos]], versão 0.4. O manuscrito não foi modificado nesta unidade.
+
+### Diagnóstico editorial e contribuição pretendida
+
+A redação já diferencia relato, significado, hipótese e ontologia; examina a participação do terapeuta e preserva limites dos registros. Sua principal insuficiência atual é de desenvolvimento afirmativo e distribuição do argumento: a discussão dos fechamentos, indeterminações e limites ocupa mais espaço e progressão do que a contribuição positiva da espiritualidade. Esta aparece, mas permanece dispersa nas seções 1, 8 e 10.
+
+Parte da linguagem de auditoria entrou no corpo do capítulo: acessos bloqueados, estado de validação e próxima pesquisa são informações necessárias ao trabalho, mas várias pertencem às notas de desenvolvimento. Conservar no texto os limites que alteram a compreensão do argumento ou da vinheta; reunir as ressalvas repetidas e deslocar o histórico de verificação para o dossiê. A passagem não deve ocultar incertezas substantivas.
+
+A contribuição editorial pretendida pode ser descrita como **uma forma explícita e revisável de acolher, discernir e acompanhar a experiência espiritual em psicoterapia**. Não exige instituir um mecanismo novo. Seu valor será reconhecido pela clareza das distinções, pela qualidade da leitura clínica e pelas perguntas que ajuda o leitor a formular.
+
+### Tese recomendada
+
+> A psicoterapia pode acolher a experiência espiritual como dimensão de sentido, vínculo e orientação da vida, favorecer sua elaboração e acompanhar suas repercussões, enquanto investiga as necessidades clínicas e explicita os limites de suas interpretações. A espiritualidade pode ampliar o campo do que importa à pessoa; a psicoterapia pode oferecer condições para examinar como essa experiência encontra linguagem, contexto e participação na vida.
+
+Formulação candidata, sem promessa de resultado. Preserva a tese já existente sobre indeterminação ontológica e desenvolve as duas direções de interesse do capítulo.
+
+**Abertura ontológica:** conservar a disposição de não pressupor que apenas uma concepção de realidade pode conter a experiência. Isso não exige que o terapeuta abandone suas convicções ou adote agnosticismo pessoal; exige distinguir convicção, enquadre profissional e conclusão sustentada naquele caso. A formulação atual enfatiza limites do conhecimento, mas pode desenvolver melhor esse acolhimento da realidade tal como vivida pela pessoa.
+
+**Hospitalidade epistemológica:** tornar explicações recebíveis e examináveis, com fundamentos, alcance e possibilidade de revisão. Diferentes níveis podem coexistir; afirmações concorrentes sobre o mesmo fenômeno não recebem automaticamente o mesmo apoio.
+
+**Precedência fenomenológica:** manter a frase original e seu sentido de prioridade de atenção. A clínica pode precisar agir enquanto ainda compreende. Essa coexistência deve aparecer em um parágrafo claro, sem fazer o princípio depender de uma experiência pura ou de descrição completa anterior a todo cuidado.
+
+### Reorganização proposta das dez seções
+
+| Seção proposta | Trabalho sobre a versão 0.5 | Função no argumento |
+|---|---|---|
+| 1. Quando a espiritualidade entra no consultório | Rever a abertura; incluir práticas cotidianas e questões existenciais além de experiências incomuns | Apresentar relevância positiva e problema clínico |
+| 2. Convicções do terapeuta e fechamento interpretativo | Reunir as atuais seções 2 e 3, reduzindo repetição | Examinar participação profissional e dois fechamentos sem falsa simetria |
+| 3. Abertura ontológica e hospitalidade epistemológica | Aproveitar a atual seção 4 e precisar o sentido de abertura | Explicitar a posição clínica e seus critérios |
+| 4. A experiência antes do fechamento explicativo | Aproveitar a atual seção 5 | Desenvolver precedência e legibilidade, com antecedentes reconhecidos |
+| 5. O que a espiritualidade traz ao encontro clínico | Desenvolver material hoje disperso nas seções 1, 8 e 10 | Dar espaço próprio a sentido, pertença, valores, práticas e conflitos |
+| 6. Matriz de Discernimento da Experiência | Preservar os sete domínios; enxugar repetições | Oferecer roteiro de reflexão e supervisão |
+| 7. Vinheta: experiência, intervenção e possibilidades de elaboração | Preservar a origem e a participação do terapeuta; reequilibrar descrição e comentário | Mostrar aplicação e perguntas abertas |
+| 8. Necessidades de cuidado e avaliação clínica | Preservar o essencial e concentrar qualificações | Mostrar responsabilidade clínica simultânea à exploração |
+| 9. Da experiência às possibilidades de vida | Desenvolver condições, retorno, revisão e acompanhamento | Tornar concretas as repercussões e a investigação de integração |
+| 10. Espiritualidade e psicoterapia: contribuições recíprocas | Reescrever a conclusão a partir da tese | Reunir as duas direções sem repetir o inventário de limites |
+
+Essa reorganização conserva dez seções por economia editorial; a extensão final dependerá da coletânea. Não é arquitetura congelada. O título de trabalho permanece pertinente se a abertura e a conclusão tornarem a contribuição positiva tão visível quanto os extremos criticados.
+
+### Núcleo afirmativo a desenvolver
+
+Quatro perguntas podem dar substância à seção 5, como proposta autoral de exploração:
+
+- **Sentido e valor:** o que a pessoa considera sagrado, digno de cuidado ou capaz de orientar sua vida?
+- **Vínculo e pertença:** com quem, com o mundo ou com o transcendente ela se sente relacionada? Como vive esses vínculos?
+- **Práticas e experiência:** o que oração, contemplação, ritual, arte ou serviço significam em sua trajetória, quando fizerem parte dela?
+- **Conflito e transformação:** que culpas, exigências, perdas de fé, dúvidas ou mudanças precisam de elaboração?
+
+Essas perguntas não tornam espiritualidade sinônimo de recurso para reduzir sintomas. Seu significado para a pessoa pode exceder uma finalidade terapêutica. Também não pressupõem que toda pessoa seja espiritual ou queira introduzir essa dimensão no trabalho.
+
+A contribuição recíproca da psicoterapia deve aparecer por tarefas: elaborar sofrimento e ambivalência, distinguir experiência e exigência interpretativa, reconhecer condições de participação, examinar vínculos e acompanhar escolhas. Cada efeito terá de ser documentado; essas tarefas são uma proposta de trabalho, não resultados presumidos.
+
+### Vinheta: função editorial e limites proporcionais
+
+Recomenda-se manter o CASO-004 como vinheta principal, em apresentação mínima. Ele oferece material sobre sofrimento, corpo, história, repertório espiritual, participação do terapeuta e mudanças relatadas. O caso permite interrogar a própria postura clínica. Não precisa representar uma condução exemplar em todos os aspectos para contribuir com o capítulo.
+
+O contraste entre elevada competência profissional e perda de sentido merece uma frase contextual, pois amplia a pergunta para além da imagem incomum. Evitar detalhes biográficos identificadores dispensáveis. A formulação é descritiva; não converter esse contraste em diagnóstico de incongruência.
+
+A apresentação deve conservar três momentos: situação e significado; exploração e intervenções; mudanças relatadas e acompanhamento disponível. A interpretação protetora pertence inicialmente à atribuição da pessoa. A instrução para encerrar a vinculação percebida deve permanecer identificável como participação do terapeuta.
+
+As hipóteses do comentário precisam apontar para perguntas concretas: a pessoa reconheceu novas possibilidades? Como recebeu a proposta do terapeuta? Houve espaço para discordar? Que decisões ou relações foram afetadas depois? O registro não responde a todas. A força editorial está também em explicitar como o clínico procuraria saber.
+
+Conservar uma nota clara sobre fonte retrospectiva, informação limitada e condições de uso para publicação. A ideação suicida é dado clínico substantivo; não pode desaparecer da análise nem ser considerada resolvida pelo alívio. Ao mesmo tempo, não preencher lacunas com condutas supostas ou transformar ausência documental em acusação sobre o atendimento.
+
+O CASO-001 pode permanecer no dossiê como contraponto da oferta de metáfora. Inserir duas vinhetas extensas diluiria o foco atual, salvo exigência editorial posterior.
+
+### Passagens prontas para revisão autoral
+
+**Abertura e tese — proposta para a seção 1**
+
+Quando a espiritualidade entra no consultório, pode trazer uma experiência difícil de nomear, uma prática que acompanha a pessoa há anos ou uma pergunta sobre a vida que ela deseja viver. Pode aparecer na linguagem do sagrado, no pertencimento a uma tradição, na contemplação ou em um conflito que já não encontra resposta nas convicções anteriores. A primeira tarefa clínica é compreender que lugar isso ocupa para aquela pessoa e por que se tornou relevante naquele momento.
+
+O encontro coloca uma questão nas duas direções. Que possibilidades de sentido, vínculo e orientação essa dimensão oferece à psicoterapia? E o que a psicoterapia pode oferecer à elaboração de experiências, práticas e conflitos espirituais? Propomos investigar essa relação a partir do que se apresenta, dos significados que adquire e das repercussões que podem ser acompanhadas na vida.
+
+A clínica precisa ser suficientemente aberta para que aquilo que ainda não possui tradução possa aparecer antes de ser explicado. Essa abertura envolve disponibilidade para compreender e responsabilidade para discernir. O terapeuta participa do percurso por sua escuta, por suas perguntas e pelas formas que oferece; suas próprias intervenções também precisam permanecer examináveis.
+
+**Desenvolvimento afirmativo — proposta para a seção 5**
+
+Investigar a espiritualidade inclui perguntar pelo que sustenta valor na experiência da pessoa. Uma prática pode ser vivida como encontro, uma comunidade como pertença, uma imagem como orientação e um compromisso como expressão de algo que merece ser cuidado. Cabe compreender como essas possibilidades se apresentam e o que permitem naquela trajetória. Seu significado não se esgota no efeito imediato sobre um sintoma.
+
+Essa investigação também encontra tensões. Algo antes vivido como apoio pode passar a ser sentido como exigência; uma convicção pode oferecer sentido e, simultaneamente, produzir conflito. A elaboração clínica permite examinar essas relações e a liberdade da pessoa para conservar, transformar ou questionar seus compromissos. O profissional participa dessa reflexão a partir de sua competência e do que é relevante para o cuidado.
+
+**Continuidade e integração — proposta para a seção 9**
+
+Depois de uma experiência marcante, interessa acompanhar o que se tornou possível. A pessoa encontrou palavras, percebeu algo de outra maneira, conseguiu pedir ajuda, mudou uma escolha ou reconheceu um limite? São perguntas diferentes, cujas respostas podem aparecer em momentos distintos. A relevância do acontecimento não depende de que todas recebam uma resposta positiva.
+
+Acompanhamento também significa reconhecer condições. O que esteve disponível com apoio no encontro pode exigir outros recursos em casa, no trabalho ou nas relações. Retornar pode significar reencontrar uma referência, pedir ajuda ou rever a direção antes escolhida. No horizonte do EIXO, a orientação permanece dinâmica: sua presença precisa ser descrita pelas possibilidades concretas de discernimento e participação, sem ser deduzida apenas de paz, intensidade ou linguagem espiritual.
+
+**Fecho — proposta para a seção 10**
+
+A contribuição da psicoterapia à vida espiritual pode ser procurada nas condições de elaboração: dar linguagem ao vivido, reconhecer seus vínculos com a história, examinar conflitos e acompanhar como participa das escolhas. A contribuição da espiritualidade ao encontro clínico pode ser encontrada nas perguntas de sentido, pertença e valor que a própria pessoa traz. A relação entre essas duas direções permanece situada, aberta ao que o acompanhamento permite compreender.
+
+Abertura sem credulidade. Rigor sem reducionismo. Essa orientação ganha consistência quando o terapeuta acolhe, torna seu raciocínio examinável, responde às necessidades de cuidado e conserva disponibilidade para rever o que julgava compreender.
+
+As passagens são redação candidata e deverão receber as referências pertinentes na integração ao manuscrito. Não são falas reais dos pacientes nem conclusões empíricas novas.
+
+### Fontes novas e alcance da fundamentação
+
+**Vieten et al. (2013).** A proposta de 16 competências foi construída com revisão, grupo focal e consulta a 184 participantes; 105 psicoterapeutas habilitados avaliaram clareza e importância. Inclui explorar recursos, reconhecer problemas e examinar a posição do profissional. A amostra não era representativa; não é ensaio de eficácia. Fonte primária para a proposta e sua construção, revisão para resultados de terceiros.
+
+Referência: Vieten C, Scammell S, Pilato R, Ammondson I, Pargament KI, Lukoff D. *Spiritual and religious competencies for psychologists*. Psychology of Religion and Spirituality. 2013;5(3):129–144. DOI 10.1037/a0032699. [Original em cópia de terceiro](https://psptraining.com/wp-content/uploads/2013-20580-001-Vieten.pdf). Resumo, competências e explicações pertinentes, discussão e limites examinados; não leitura analítica integral de todas as fontes citadas. A página da APA retornou conteúdo insuficiente.
+
+**Koenig et al. (2015).** No resumo do ensaio piloto com 132 participantes com depressão e doença médica crônica, a comparação entre TCC convencional e integrada à religião não encontrou diferença global significativa em 12 semanas. Não se adota isso como demonstração formal de equivalência. Acesso limitado ao resumo e metadados institucionais; não revisão do método integral. Serve como limite a alegações universais de superioridade, não como evidência sobre a vinheta ou o TSH.
+
+Referência: Koenig HG et al. *Religious vs. conventional cognitive behavioral therapy for major depression in persons with chronic medical illness: a pilot randomized trial*. Journal of Nervous and Mental Disease. 2015;203(4):243–251. DOI 10.1097/NMD.0000000000000273. [Registro e resumo na Duke](https://scholars.duke.edu/publication/1061926).
+
+A contribuição afirmativa proposta possui dimensão clínica e antropológica, além de perguntas empíricas. Estudos de sintomas não resolvem, sozinhos, o valor existencial de uma experiência; relatos de valor tampouco comprovam eficácia terapêutica. A pesquisa empírica específica do diagnóstico diferencial continua pendente. Não foram produzidos novos critérios diagnósticos nesta revisão.
+
+### Relação com a auditoria e o livro
+
+O capítulo pode incorporar a distinção entre legibilidade, disponibilidade, mudança situada e participação na vida. Não precisa reproduzir os quatro confrontos teóricos do EIXO ou inserir sua nomenclatura em cada seção. Tradução e EIXO entram onde tornam uma tarefa mais clara.
+
+Para o livro, preservar o argumento mais amplo sobre experiência, formação, orientação e expressão da singularidade. Esta revisão oferece um núcleo possível, não sumário definitivo. AISB permanece fora da fundamentação do capítulo nesta etapa.
+
 ## Próxima ação
 
-Na auditoria, consolidar o parecer de coerência e suficiência das sete unidades prioritárias do Movimento 1, utilizando a síntese focal já concluída. No capítulo, revisar o argumento integral e investigar o diagnóstico diferencial em estudos originais, preservando as condições de uso da vinheta como pendência antes de publicação. O livro permanece em pré-produção; AISB continua posterior.
+Integrar a proposta editorial ao rascunho em revisão, com referências proporcionais e rastreabilidade. Antes de ampliar a seção clínica sobre diagnóstico diferencial, realizar pesquisa dirigida em estudos originais que comparem experiências e funcionamento, examinando limites de amostras e generalização. Condições de publicação da vinheta permanecem pendentes. A revisão aqui apresentada não substitui deliberação autoral nem encerra a auditoria.
