@@ -28,7 +28,7 @@ tags:
 
 ## Identificação anonimizada
 
-Paciente homem, adulto, professor universitário por muitos anos, com pós-graduações na área, casado, com filhos, já aposentado, com vida financeira relativamente tranquila e projetos de longo prazo para mudança de carreira nesta fase da vida.
+Paciente adulto. **Gênero deliberadamente não registrado neste acervo para ampliar a anonimização.** O relato original utiliza o masculino como forma narrativa genérica; isso não deve ser interpretado como informação factual sobre gênero. Professor/a universitário/a por muitos anos, com pós-graduações na área, já aposentado/a, com vida financeira relativamente tranquila e projetos de longo prazo para mudança de carreira nesta fase da vida.
 
 Já havia realizado muitos anos de psicoterapia, com trabalho efetivo sobre questões primárias do percurso de desenvolvimento psicológico, afetivo e relacional.
 
@@ -43,7 +43,7 @@ Busca apoio terapêutico porque, desde a infância, vivencia experiências que d
 
 Há uma busca de compreensão e ampliação madura daquilo que vivencia naturalmente desde criança.
 
-O paciente relata não ter encontrado, até então, um espaço terapêutico adequado para falar livremente sobre suas vivências espirituais. Em processos terapêuticos anteriores, segundo seu relato, houve uma espécie de supressão dessa dimensão de seu percurso de desenvolvimento.
+A pessoa relata não ter encontrado, até então, um espaço terapêutico adequado para falar livremente sobre suas vivências espirituais. Em processos terapêuticos anteriores, segundo seu relato, houve uma espécie de supressão dessa dimensão de seu percurso de desenvolvimento.
 
 A angústia apresentada era a dúvida persistente sobre a autenticidade das experiências: seriam reais ou imaginárias?
 
@@ -51,7 +51,7 @@ A angústia apresentada era a dúvida persistente sobre a autenticidade das expe
 
 A primeira sessão foi descrita pelo terapeuta como de acolhimento, com escuta empática e livre.
 
-O paciente relatou brevemente várias experiências espirituais e explicitou que procurava um espaço psicoterapêutico no qual pudesse abordar livremente esses temas.
+A pessoa relatou brevemente várias experiências espirituais e explicitou que procurava um espaço psicoterapêutico no qual pudesse abordar livremente esses temas.
 
 A postura do terapeuta foi descrita como:
 
@@ -64,10 +64,10 @@ A postura do terapeuta foi descrita como:
 
 O trabalho iniciou-se com uma mirada sobre a sensação de medo que acompanhava a angústia acerca da realidade ou não das experiências vividas.
 
-O processo evoluiu para memórias de períodos da vida em que houve conflitos para que o paciente pudesse ser e fazer aquilo que queria no âmbito profissional. O relato original registra que, desde criança, ele sabia o percurso que gostaria de seguir, mas fatores sociais e sistêmicos dificultaram esse caminho, incluindo falas externas de incapacidade e referências a discriminação de gênero.
+O processo evoluiu para memórias de períodos da vida em que houve conflitos para que a pessoa pudesse ser e fazer aquilo que queria no âmbito profissional. O relato original registra que, desde a infância, havia clareza sobre o percurso que gostaria de seguir, mas fatores sociais e sistêmicos dificultaram esse caminho, incluindo falas externas de incapacidade e referências a discriminação de gênero.
 
-> [!note] Ponto documental a esclarecer
-> A referência a discriminação de gênero está presente no relato original e é preservada como tal. Seu contexto específico não está detalhado no documento de origem e não deve ser inferido.
+> [!note] Anonimização e referência a gênero
+> A referência a discriminação de gênero é preservada porque faz parte do relato original e pode ter relevância clínica. Ela não deve ser usada para inferir o gênero da pessoa atendida. O gênero permanece deliberadamente omitido neste acervo.
 
 Após um percurso inicial de reprocessamento com grande carga emocional explicitada, o relato original descreve integração das vivências do passado com uma perspectiva atualizada.
 
@@ -78,7 +78,7 @@ Por fim, houve:
 
 Quando esse estado foi sustentado na sessão, ocorreu a replicação de um Estado Ampliado da Consciência já conhecido pelo paciente durante meditação.
 
-Nesse estado, ele percebeu uma mensagem espiritual que foi vivenciada como confirmação e reforço do processo que estava sendo realizado naquele momento e como algo de auxílio efetivo.
+Nesse estado, percebeu uma mensagem espiritual que foi vivenciada como confirmação e reforço do processo que estava sendo realizado naquele momento e como algo de auxílio efetivo.
 
 ## Desfecho imediato descrito
 
