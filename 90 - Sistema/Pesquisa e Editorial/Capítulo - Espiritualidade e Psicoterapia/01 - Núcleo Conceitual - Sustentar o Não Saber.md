@@ -1,6 +1,6 @@
 ---
 tipo: nucleo-conceitual-editorial
-status: versao-de-trabalho-fundamentada
+status: incorporado-na-redacao-v0.7
 autoridade_final: Fabiano Deliberalli
 criado_em: 2026-10-03
 produto: capítulo de livro
@@ -204,3 +204,8 @@ Isso demonstra que:
 > **sustentar a incerteza também significa aceitar que uma sessão pode terminar sem uma interpretação conclusiva.**
 
 - [[CASO-006 - A Dor Facial e a Cena Anômala - 04 - Aplicações no Ecossistema]]
+
+
+## Estado após redação v0.7
+
+A arquitetura **Abertura ontológica → Precedência Fenomenológica → Sustentação da incerteza → Hospitalidade epistemológica → tradução da experiência → integração** foi incorporada à [[02 - Capítulo - Redação Integrada v0.7]]. Este documento permanece como nota conceitual de apoio e genealogia.
