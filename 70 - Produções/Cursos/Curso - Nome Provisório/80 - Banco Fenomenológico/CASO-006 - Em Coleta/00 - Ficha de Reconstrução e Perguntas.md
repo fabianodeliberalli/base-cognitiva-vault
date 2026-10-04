@@ -1,7 +1,7 @@
 ---
 id: CASO-006-COLETA
 tipo: ficha-de-reconstrucao-clinica
-status: coleta-pendente
+status: consolidado-em-caso-006
 anonimizado: true
 projeto: Traduzindo o Ser Humano
 origem_inicial: vinheta secundária presente em textos autorais reelaborados com apoio do Claude
@@ -86,3 +86,12 @@ Quando houver material suficiente, avaliar separadamente:
 
 Criar CASO-006 definitivo somente depois de recuperar informação suficiente para separar:
 **fato narrado → observação fenomenológica → interpretação → hipótese → aplicação**.
+
+
+## Consolidação
+
+Em 2026-10-03, Fabiano forneceu informações adicionais suficientes para abrir o caso definitivo:
+
+[[CASO-006 - A Dor Facial e a Cena Anômala - 01 - Registro Clínico]]
+
+Esta ficha permanece apenas como histórico de coleta e rastreabilidade.
