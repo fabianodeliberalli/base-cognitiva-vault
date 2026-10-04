@@ -74,3 +74,4 @@ Nenhum conhecimento relevante deve depender exclusivamente da memória de um cha
 ## Produtos editoriais com continuidade própria
 
 - [[LEIA PRIMEIRO - Estado e Continuidade do Capítulo]]
+- [[00 - LEIA PRIMEIRO - Estado e Continuidade do Livro]]
