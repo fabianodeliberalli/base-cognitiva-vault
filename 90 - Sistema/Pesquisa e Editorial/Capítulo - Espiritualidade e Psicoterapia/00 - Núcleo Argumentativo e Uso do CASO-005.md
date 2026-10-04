@@ -1,6 +1,6 @@
 ---
 tipo: pre-producao-editorial
-status: versao-de-trabalho
+status: incorporado-na-redacao-v0.7
 autoridade_final: Fabiano Deliberalli
 criado_em: 2026-10-03
 produto: capítulo de livro
@@ -184,3 +184,8 @@ A articulação específica proposta pelo capítulo pode estar menos em inventar
 → **integração possível sem prova metafísica**.
 
 A originalidade dessa articulação precisa ser testada por revisão bibliográfica; não deve ser presumida.
+
+
+## Estado após redação v0.7
+
+Este documento permanece como registro de gênese e fundamentação. Seus elementos centrais foram incorporados à [[02 - Capítulo - Redação Integrada v0.7]]. Para continuidade editorial, iniciar por [[LEIA PRIMEIRO - Estado e Continuidade do Capítulo]].
