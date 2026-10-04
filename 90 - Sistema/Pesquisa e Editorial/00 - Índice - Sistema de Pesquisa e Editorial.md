@@ -56,6 +56,7 @@ A mesma fonte pode alimentar vários conhecimentos; o mesmo conhecimento pode al
 - [[02 - Proveniência e Estatuto - Convenções Leves]]
 - [[03 - Matriz Tema × Produto]]
 - [[04 - Dossiê - Eixos Clínicos, Epistemológicos e Editoriais Emergentes]]
+- [[05 - Roteamento Operacional de Frentes e Chats]]
 
 ## Regra de não duplicação
 
@@ -68,3 +69,8 @@ Antes de criar nova regra, protocolo, matriz ou registro mestre, verificar se a 
 - **GitHub:** histórico, rastreabilidade, sincronização e reversibilidade.
 
 Nenhum conhecimento relevante deve depender exclusivamente da memória de um chat quando Fabiano decidir preservá-lo.
+
+
+## Produtos editoriais com continuidade própria
+
+- [[LEIA PRIMEIRO - Estado e Continuidade do Capítulo]]
