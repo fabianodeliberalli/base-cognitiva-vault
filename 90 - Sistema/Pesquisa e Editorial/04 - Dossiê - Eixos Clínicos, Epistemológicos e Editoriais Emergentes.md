@@ -686,3 +686,12 @@ Manter investigação própria até atingir maturidade suficiente para uma fase 
 # 28. Nota final
 
 Este dossiê preserva uma etapa fértil de desenvolvimento. Sua função é **manter recuperáveis as ideias, suas relações e seus possíveis destinos**, permitindo que o capítulo avance, que o livro seja preparado e que a auditoria teórica refine o modelo sem apagar a criatividade que deu origem ao material.
+
+
+## Atualização editorial — v0.7
+
+O capítulo **Espiritualidade e Psicoterapia: entre o reducionismo e a credulidade** possui agora redação integrada v0.7, preservada em [[02 - Capítulo - Redação Integrada v0.7]]. A continuidade editorial deve partir de [[LEIA PRIMEIRO - Estado e Continuidade do Capítulo]].
+
+A redação consolidou como núcleo clínico a sequência: **Abertura ontológica → Precedência Fenomenológica → Sustentação da incerteza → Hospitalidade epistemológica → tradução da experiência → integração**, com segurança e diagnóstico diferencial transversais.
+
+Para o capítulo, as vinhetas são atualmente organizadas como: **Entre a experiência e a pergunta “é real?” → O executivo, o contemplativo e o oni → A dor facial e a cena anômala**, correspondendo internamente aos CASOS 005, 004 e 006.
