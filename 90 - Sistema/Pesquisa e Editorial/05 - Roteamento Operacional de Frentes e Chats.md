@@ -129,3 +129,14 @@ Uma ideia pode nascer em qualquer frente. Quando adquirir valor de continuidade:
 ## Salvaguarda
 
 Essa divisão serve para reduzir ruído e retrabalho. Não constitui fronteira epistemológica nem impede que uma mesma formulação seja examinada em mais de uma frente.
+
+
+## Atualização — Livro Autoral
+
+A frente anteriormente descrita como **Integração Teórica e Pesquisa Transversal** passa, para o ciclo atual, a ser realizada dentro do chat **ATIVO — LIVRO — Arquitetura Transversal do Corpus e Integração Teórica**.
+
+Fonte de continuidade: [[00 - LEIA PRIMEIRO - Estado e Continuidade do Livro]].
+
+Objetivo imediato: descobrir os grandes problemas intelectuais que atravessam o corpus antes de definir sumário, capítulos ou decidir entre uma ou duas obras.
+
+O livro está em **cartografia transversal**, não mais apenas em pré-produção passiva.
