@@ -20,7 +20,7 @@ criado_em: 2026-10-02
 | AISB — Acoplamento Informacional | investigação teórica em desenvolvimento | investigação aberta | informação, memória, sistemas, acoplamento |
 | Sincronia Neural Interpessoal / TCC | base acadêmica e ponte empírica | pesquisa consolidada/em expansão | co-regulação, hyperscanning, redes sociais do cérebro |
 | Espiritualidade e Psicoterapia | linha clínica, epistemológica e editorial | desenvolvimento ativo | abertura ontológica, discernimento, CEEP, capítulo |
-| Livro autoral | futura síntese de maior fôlego | pré-produção | TSH, clínica, espiritualidade, singularidade |
+| Livro autoral | descobrir e organizar os grandes problemas transversais do corpus antes da arquitetura editorial | **cartografia transversal iniciada** | AISB, informação/memória, Arquitetura Invisível, TCC, singularidade, espiritualidade, epistemologia |
 | Capítulo Espiritualidade e Psicoterapia | produto editorial delimitado | **redação integrada v0.7 em revisão autoral** | indecidibilidade, Precedência Fenomenológica, hospitalidade epistemológica, matriz de discernimento, CASOS 005→004→006 |
 
 ## Ativos transversais a acompanhar
@@ -55,3 +55,4 @@ Exemplo: AISB pode futuramente fundamentar, complementar, redescrever, conflitar
 - [[04 - Deliberação Transversal - Pluralismo Epistemológico Não Redutivo e Integração Autoral]]
 - [[LEIA PRIMEIRO - Estado e Continuidade do Capítulo]]
 - [[05 - Roteamento Operacional de Frentes e Chats]]
+- [[00 - LEIA PRIMEIRO - Estado e Continuidade do Livro]]
