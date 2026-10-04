@@ -1,72 +1,67 @@
 ---
 tipo: plano-de-ciclos
-status: versao-de-trabalho
+status: ordem-aprovada-revisavel
 autoridade_final: Fabiano Deliberalli
 criado_em: 2026-10-03
+atualizado_em: 2026-10-04
 ---
 
 # Ordem Provisória dos Ciclos de Investigação
 
-## Fase 0 — Cartografia
+## Estado
 
-Antes de aprofundar literatura:
-- validar as oito constelações;
-- identificar fontes e lacunas;
-- verificar sobreposições;
-- localizar contradições;
-- decidir quais problemas devem ser fundidos ou divididos;
-- propor ordem definitiva dos ciclos.
+Fabiano aprovou a cartografia, a ordem revista abaixo e a continuidade em 04/10/2026. O título do arquivo é preservado para manter os links; a ordem é referência aprovada e revisável. Esta sequência de sete ciclos substitui a proposta inicial de oito, preservada no histórico Git.
 
-## Ciclo 1 — Informação → organismo → significado
+A Fase 0 foi ampliada com leitura substantiva das monografias de Acupuntura e Psicologia Transpessoal e materiais históricos pertinentes. Resultados e limites: [[01 - Mapa Preliminar dos Grandes Problemas do Corpus]]. Não é necessário recuperar todo o acervo para iniciar o primeiro ciclo.
 
-Constelações 1 + 4.
+## Ciclo 1 — Informação, memória e constituição da experiência
 
-Razão: estabelece a gramática mínima para discutir AISB, Markov blankets, permeabilidade, sinal, transdução, fronteira e informação sem confundir níveis.
+Partir da **Matriz AISB + informação multidimensional + Arquitetura Invisível**. Distinguir organização físico-biológica, memória, experiência e significado; explicitar energia, sinal, informação, comunicação e interpretação.
 
-## Ciclo 2 — Relação → acoplamento → co-regulação
+Incorporar a monografia de Acupuntura de 2004 e os históricos pertinentes: que pergunta permanece e que equivalências antigas precisam ser reexaminadas? Fronteiras entram aqui quando necessárias à gramática de sistemas; seu confronto clínico e relacional fica concentrado no Ciclo 2.
 
-Constelação 2.
+## Ciclo 2 — Relação, acoplamento e fronteiras
 
-Razão: faz a ponte entre TCC, AISB, campo relacional, sincronia e clínica.
+Investigar juntas as constelações 2 e 4, mantendo suas diferenças: co-regulação, sustentação, permeabilidade, diferenciação, fusão e limites.
 
-## Ciclo 3 — Experiência → simbolização → sentido
+Cruzar TCC, AISB, casos e Arquitetura Invisível com o espaço potencial e o holding trabalhados na monografia transpessoal. Distinguir associação, hipótese causal, mecanismo e metáfora.
 
-Constelação 3.
+## Ciclo 3 — Tradução, simbolização e significado
 
-Razão: confronta tradução da experiência com constructos vizinhos e conecta corpo, fenomenologia e linguagem.
+Investigar como sensação, imagem e afeto se tornam legíveis, simbolizáveis e elaboráveis. Confrontar Tradução com os constructos próximos por necessidade do problema, sem exigir novidade do nome.
 
-## Ciclo 4 — Regulação → disponibilidade → competência incorporada
+Trazer o retorno à experiência vivida e a simbolização da monografia transpessoal, os antecedentes de assimilação em 2004 e as modalidades emergente/mediada recentes.
 
-Constelação 6.
+## Ciclo 4 — Regulação, disponibilidade e competência incorporada
 
-Razão: testa EIXO e a passagem compreensão–acesso–sustentação–integração–expressão.
+Investigar a disponibilidade de compreensão e recursos sob perturbação; confrontar EIXO, flexibilidade, sustentação e transferência para a vida.
 
-## Ciclo 5 — Singularidade → adaptação → congruência → expressão
+A distinção histórica entre estados e estágios entra como antecedente, sem determinar uma sequência linear. Examinar recursividade EIXO–Tradução e a diferença entre mudança momentânea e capacidade sustentada.
 
-Constelação 5.
+## Ciclo 5 — Singularidade, adaptação e expressão
 
-Razão: é o principal ciclo antropológico/desenvolvimental e poderá reorganizar a arquitetura do livro.
+Cruzar Árvore da Singularidade, crescimento assimétrico, congruência e desenvolvimento com os antecedentes de expressão, verdadeiro/falso self e essência.
 
-## Ciclo 6 — Espiritualidade → experiências liminares → integração
+Examinar tanto as restrições quanto as capacidades produzidas na adaptação. Preservar as diferenças entre tradições e constructos; não tomar “essência soterrada” e “singularidade que se desenvolve” como imagens automaticamente equivalentes.
 
-Constelação 7.
+## Ciclo 6 — Espiritualidade, experiências liminares e integração
 
-Razão: aplica e tensiona todos os ciclos anteriores em um domínio onde erros epistemológicos têm alto custo.
+Investigar espiritualidade cotidiana e experiências liminares, mantendo a reciprocidade entre espiritualidade e psicoterapia. Incorporar as duas monografias, o TCC, o capítulo e o Banco Fenomenológico.
 
-## Ciclo 7 — Epistemologia e ética do corpus
+Examinar abertura, incerteza, hospitalidade, elaboração, contexto e integração ao longo do tempo. Nenhum desfecho clínico decide sozinho a ontologia de uma experiência.
 
-Constelação 8, revisitada formalmente.
+## Ciclo 7 — Síntese arquitetural e avaliação de uma ou duas obras
 
-Razão: auditar afirmações, níveis, estatutos e limites depois de compreender os conteúdos.
+Reunir o que os ciclos mostraram: problemas centrais, relações indispensáveis, tensões, contribuição efetiva e limites. Avaliar o centro clínico-existencial e o centro teórico-informacional por suas dependências explicativas e pela autonomia de perguntas, exigências e leitores.
 
-## Ciclo 8 — Síntese arquitetural do livro
+Somente a partir disso propor arquiteturas editoriais. A hipótese de duas obras será acompanhada durante os ciclos, sem exigir agora duas frentes nem interromper o desenvolvimento.
 
-Somente após os ciclos anteriores:
-- formular mapa dos grandes problemas;
-- identificar princípios transversais;
-- distinguir conceitos nucleares e derivados;
-- avaliar uma obra × duas obras;
-- somente então propor arquiteturas editoriais.
+## Presenças transversais
 
-> [!note]
-> Esta ordem é provisória. A Fase 0 pode alterá-la.
+Epistemologia e ética acompanham **todos os ciclos** e voltam à síntese final; não ficam adiadas para uma auditoria isolada no fim. Memória/temporalidade, corpo/regulação e cultura/símbolo/mundos compartilhados atravessam os ciclos pertinentes.
+
+A investigação de contribuição pergunta o que a articulação permite compreender, distinguir e transmitir melhor, inclusive a partir do percurso clínico e pessoal. Não depende de reivindicar novidade para cada constructo.
+
+## Próximo ponto útil
+
+Iniciar o Ciclo 1. A ampliação histórica desta fase está registrada; o aprofundamento teórico e a revisão externa específicos desse ciclo ainda não foram realizados nesta etapa.

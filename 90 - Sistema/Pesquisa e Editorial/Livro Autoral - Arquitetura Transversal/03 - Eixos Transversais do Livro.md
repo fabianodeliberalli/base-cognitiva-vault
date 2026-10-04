@@ -3,6 +3,7 @@ tipo: eixos-transversais
 status: versao-de-trabalho
 autoridade_final: Fabiano Deliberalli
 criado_em: 2026-10-03
+atualizado_em: 2026-10-04
 ---
 
 # Eixos Transversais do Livro
@@ -74,7 +75,7 @@ Cruzar:
 - patologização e legitimação.
 
 Status:
-eixo candidato. Sua autonomia como terceiro eixo transversal deverá ser testada na Fase 0.
+eixo mantido ativo na cartografia aprovada. A leitura da monografia transpessoal, do AISB e das fontes de religião vivida sustenta sua presença; o desenvolvimento permanece revisável.
 
 ## 4. Relação como condição de reorganização
 
@@ -93,3 +94,13 @@ Cruzar:
 
 Cuidado:
 a hipótese de sustentação relacional como variável causal precisa ser separada de evidências de associação e de explicações alternativas.
+
+
+## Ampliação histórica dos eixos — 04/10/2026
+
+- **Memória e temporalidade:** a monografia de 2004 já relaciona memória, assimilação, experiência e ação em Yi/Zhi; a de 2010 distingue estados transitórios e desenvolvimento. O ciclo atual precisa conservar as diferenças entre esses modelos e as pesquisas contemporâneas sobre memória.
+- **Corpo e regulação:** a formação corporal antecede a Psicologia e a monografia de 2004 formula explicitamente sua relação com mente e espírito. Isso é genealogia substantiva, não simples ilustração biográfica.
+- **Cultura, símbolo e mundos compartilhados:** a monografia transpessoal relaciona espaço potencial, simbolização, brincar e cultura; o corpus recente amplia a questão com religião vivida e construção compartilhada de significado.
+- **Relação como condição de reorganização:** é uma pergunta do núcleo de relação que atravessa os demais; sua presença aqui não acrescenta uma quarta constelação transversal. A discussão winnicottiana de 2010 é um antecedente importante, sem equivaler aos modelos atuais de acoplamento ou sincronia.
+
+Evidências, estatutos e lacunas: [[01 - Mapa Preliminar dos Grandes Problemas do Corpus#Continuidade discriminada dos oito problemas]].
