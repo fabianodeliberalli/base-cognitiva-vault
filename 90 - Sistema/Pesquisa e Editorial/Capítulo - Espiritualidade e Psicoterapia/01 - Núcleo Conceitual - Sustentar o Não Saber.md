@@ -174,3 +174,33 @@ Cada componente possui precedentes claros. A hipótese de originalidade está na
 - [[Princípio - Abertura Ontológica e Hospitalidade Epistemológica]]
 - [[Tradução - Modalidade Emergente e Modalidade Mediada]]
 - [[Matriz de Discernimento da Experiência]]
+
+
+## Cuidado acadêmico com o Princípio da Incerteza
+
+No texto de Mario Salvador, o Princípio da Incerteza é aproximado do princípio físico de Heisenberg. Para uso acadêmico no capítulo, convém separar os níveis:
+
+- **clinicamente**, o princípio é valioso como postura de não saber, não imposição, presença e acompanhamento do que emerge;
+- **epistemologicamente**, sustenta humildade diante da complexidade e reconhecimento de que observador e relação participam do processo;
+- **fisicamente**, a mecânica quântica não deve ser apresentada como prova do funcionamento psicoterapêutico.
+
+A sustentação do argumento do capítulo deve vir de fenomenologia, epistemologia clínica, psicoterapia, pesquisa sobre experiências anômalas e relação terapêutica — não de extrapolação direta da física.
+
+## Sequência dos casos no capítulo
+
+### Primeiro — CASO-005
+Função: mostrar por que um espaço relacional e epistemológico adequado é necessário.
+
+Núcleo:
+experiência espiritual recorrente → ausência de espaço → dúvida “real ou imaginário?” → suspensão do veredito → exploração do medo e da biografia → reorganização → nova experiência significativa → ontologia permanece aberta.
+
+### Depois — CASO-004
+Função: mostrar o princípio sob maior complexidade clínica, quando conteúdo espiritual/anômalo emerge dentro da própria sessão e precisa coexistir com avaliação de risco, presença regulada e ausência de validação cosmológica automática.
+
+### Contraponto opcional — CASO-006
+Função: impedir uma narrativa de sucesso excessivamente limpa. O conteúdo anômalo emerge, há mudança somática parcial, o sintoma retorna e nenhuma explicação final é obtida.
+
+Isso demonstra que:
+> **sustentar a incerteza também significa aceitar que uma sessão pode terminar sem uma interpretação conclusiva.**
+
+- [[CASO-006 - A Dor Facial e a Cena Anômala - 04 - Aplicações no Ecossistema]]
