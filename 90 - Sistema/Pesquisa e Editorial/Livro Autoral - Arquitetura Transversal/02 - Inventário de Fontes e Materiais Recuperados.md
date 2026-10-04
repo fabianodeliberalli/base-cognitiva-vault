@@ -99,3 +99,16 @@ criado_em: 2026-10-03
 - documentos do Claude não ainda migrados além das duas fontes recuperadas.
 
 Esses itens devem ser buscados por necessidade de cada ciclo, não acumulados indiscriminadamente.
+
+
+## E. Fontes pessoais disponíveis na File Library e não replicadas no vault
+
+Para respeitar direitos autorais e evitar duplicação de arquivos publicados, estas fontes permanecem na biblioteca pessoal e devem ser consultadas diretamente quando necessárias:
+
+- **Vieten et al. (2013) — Spiritual and Religious Competencies for Psychologists**;
+- **Kenneth Pargament — The Psychology of Religion and Coping**;
+- **Daniel J. Siegel — Intraconectados / IntraConnected**;
+- **Mario C. Salvador — Mais Além do Eu**;
+- materiais de Rabeyron já sintetizados na biblioteca temática do projeto.
+
+A existência da cópia pessoal não transforma a fonte em autoridade automática. Cada uso deve registrar a afirmação apoiada e o limite da extrapolação.
