@@ -25,6 +25,7 @@ Os registros factuais e clínicos devem permanecer separados das interpretaçõe
 - [[CASO-004 - O Executivo, o Contemplativo e o Oni - 01 - Registro Clínico]]
 - [[CASO-005 - Entre a Experiência e a Sexta Pergunta - 01 - Registro Clínico]]
 - [[CASO-006 - A Dor Facial e a Cena Anômala - 01 - Registro Clínico]]
+- [[CASO-007 - A Segurança de Ontem nas Escolhas de Hoje - 01 - Registro Clínico]]
 
 ## Gênese conceitual
 
