@@ -16,7 +16,7 @@ criado_em: 2026-10-02
 |---|---|---|---|
 | Traduzindo o Ser Humano | arquitetura autoral, clínica, fenomenológica e educacional | desenvolvimento avançado | Tradução, EIXO, Três Eus, Cinco Janelas, curso |
 | Curso TSH | expressão pedagógica vigente do TSH | produção ativa | 9 módulos/54 aulas, masterclass, materiais |
-| Banco Fenomenológico | preservar casos e gênese clínico-conceitual | ativo | CASOS 001–006, derivações conceituais |
+| Banco Fenomenológico | preservar casos e gênese clínico-conceitual | ativo | CASOS 001–007, derivações conceituais |
 | AISB — Acoplamento Informacional | investigação teórica em desenvolvimento | investigação aberta | informação, memória, sistemas, acoplamento |
 | Sincronia Neural Interpessoal / TCC | base acadêmica e ponte empírica | pesquisa consolidada/em expansão | co-regulação, hyperscanning, redes sociais do cérebro |
 | Espiritualidade e Psicoterapia | linha clínica, epistemológica e editorial | desenvolvimento ativo | abertura ontológica, discernimento, CEEP, capítulo |
