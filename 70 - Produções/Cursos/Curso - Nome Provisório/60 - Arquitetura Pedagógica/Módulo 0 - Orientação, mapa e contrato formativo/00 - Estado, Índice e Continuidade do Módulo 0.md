@@ -3,14 +3,28 @@ tipo: estado-indice-modulo
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 modulo: 0
-status: ativo
+status: acervo-historico-consultivo
 estado_maturidade: conteudo-m1-1-a-m1-7-planejado-para-avaliacao-e-producao
 versao: "3.9"
 criado_em: 2026-07-21
-atualizado_em: 2026-08-23
+atualizado_em: 2026-10-24
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
+
+## Raio X vigente — decisão de Fabiano em 24 de outubro de 2026
+
+A única referência vigente do Raio X é o arquivo **RAIO X - congelado(1).docx**, fornecido e confirmado por Fabiano nesta data, preservado integralmente em [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Raio X do Produto/Vigente/Raio-X-Fabiano Deliberalli.docx|Raio X vigente — Word]]. Para leitura e busca, usar [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Raio X do Produto/Vigente/Raio-X-Fabiano Deliberalli - Texto para consulta|Raio X vigente — texto para consulta]]; essa transcrição é derivada do Word e não constitui versão independente.
+
+Todas as demais versões do Raio X, seus resumos, matrizes de correspondência e referências de oferta anteriores têm valor histórico. Expressões como “vigente”, “canônico”, “definitivo” ou “aprovado” dentro desses materiais descrevem o estado da época e não lhes conferem precedência atual. Isso inclui versões de agosto e rascunhos de outubro, independentemente da data ou do nome do arquivo.
+
+Consultar o histórico somente quando Fabiano solicitar ou quando houver conteúdo ou estrutura efetivamente desenvolvidos com pertinência e relevância concretas para a tarefa. Ao recuperar algo, identificar fonte, vínculo com a aula ou questão atual e contribuição possível; apresentar como material passível de análise. Não reincorporar automaticamente títulos, focos, recursos, promessas, numerações, cronogramas ou condições antigos, nem completar silêncios do Raio X atual com decisões de versões anteriores. Dúvidas internas do documento atual devem ser explicitadas, sem correção silenciosa ou recurso automático ao histórico.
+
+Esta atualização registra a decisão de Fabiano; não altera o conteúdo do Word nem declara outras propostas aprovadas. A data de consolidação de 23/08/2026 presente no próprio Word foi preservada e não deve ser confundida com a confirmação de vigência de 24/10/2026.
+
+## Leitura deste documento
+
+O corpo abaixo preserva o desenvolvimento anterior. Suas declarações de estado, oferta, arquitetura e produção são históricas e não substituem o Raio X vigente. Para o Módulo 0 atual, usar exclusivamente as três aulas e os focos do Word confirmado; a antiga Aula de Entrada 0.0 não deve ser acrescentada automaticamente à oferta.
 
 > [!NOTE] Leitura dos códigos históricos 2.1 e 2.2
 > Quando estes códigos nomearem antigas aulas ou unidades, eles identificam somente materiais do acervo histórico. Todas as variantes ficam preservadas e nenhuma é aula vigente. Seus títulos, conteúdos e fundamentações podem contribuir para qualquer uma das 54 aulas conforme pertinência, sem determinar numeração, posição ou ordem de gravação. Códigos iguais usados como versão, seção ou identificador técnico não são afetados.

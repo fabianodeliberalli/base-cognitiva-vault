@@ -1,23 +1,42 @@
 ---
 tipo: indice-de-versoes
 projeto: Traduzindo o Ser Humano
-assunto: Raio-X do Produto e documentação de consultoria
-status: referencia-atual-revisavel
-versao: "1.4"
-atualizado_em: 2026-08-23
-autor: Fabiano Deliberalli
-responsavel_pelas_escolhas: Fabiano Deliberalli
-tags:
-  - traduzindo-o-ser-humano
-  - raio-x
-  - mentoria
-  - consultoria
-  - historico
+status: referencia-vigente
+versao: "1.5"
+atualizado_em: 2026-10-24
+autoridade_de_decisao: Fabiano Deliberalli
 ---
 
-# Índice e estado das versões do Raio-X — Mentoria
+# Índice e estado das versões do Raio X
 
-## Referência usada atualmente
+## Raio X vigente — decisão de Fabiano em 24 de outubro de 2026
+
+A única referência vigente do Raio X é o arquivo **RAIO X - congelado(1).docx**, fornecido e confirmado por Fabiano nesta data, preservado integralmente em [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Raio X do Produto/Vigente/Raio-X-Fabiano Deliberalli.docx|Raio X vigente — Word]]. Para leitura e busca, usar [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Raio X do Produto/Vigente/Raio-X-Fabiano Deliberalli - Texto para consulta|Raio X vigente — texto para consulta]]; essa transcrição é derivada do Word e não constitui versão independente.
+
+Todas as demais versões do Raio X, seus resumos, matrizes de correspondência e referências de oferta anteriores têm valor histórico. Expressões como “vigente”, “canônico”, “definitivo” ou “aprovado” dentro desses materiais descrevem o estado da época e não lhes conferem precedência atual. Isso inclui versões de agosto e rascunhos de outubro, independentemente da data ou do nome do arquivo.
+
+Consultar o histórico somente quando Fabiano solicitar ou quando houver conteúdo ou estrutura efetivamente desenvolvidos com pertinência e relevância concretas para a tarefa. Ao recuperar algo, identificar fonte, vínculo com a aula ou questão atual e contribuição possível; apresentar como material passível de análise. Não reincorporar automaticamente títulos, focos, recursos, promessas, numerações, cronogramas ou condições antigos, nem completar silêncios do Raio X atual com decisões de versões anteriores. Dúvidas internas do documento atual devem ser explicitadas, sem correção silenciosa ou recurso automático ao histórico.
+
+Esta atualização registra a decisão de Fabiano; não altera o conteúdo do Word nem declara outras propostas aprovadas. A data de consolidação de 23/08/2026 presente no próprio Word foi preservada e não deve ser confundida com a confirmação de vigência de 24/10/2026.
+
+## Identificação e verificação
+
+- Nome recebido: `RAIO X - congelado(1).docx`.
+- SHA-256: `f12017a1cca2ed123721558ef0dfe942f79cc1cc6fb4cd70e29d067c12f8c095`.
+- Conteúdo: 9 módulos e 54 aulas; Módulo 0 com três aulas.
+- O arquivo anterior da pasta Vigente era diferente. Sua cópia integral permanece em [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Raio X do Produto/Consultoria/2026-08-23 - Raio-X-Fabiano Deliberalli - Versão Pública Canônica v2.0.docx|Raio X de agosto — histórico]].
+- O primeiro anexo recebido, `RAIO_X_-_congelado[1].docx`, continha uma página de login, não o documento; não foi incorporado.
+- Transcrição de consulta: derivação textual do Word vigente, preservando a ordem e as palavras; conferir o Word para formatação e apresentação.
+- Esta atualização é documental no GitHub/Obsidian; não atesta configuração da Hotmart, página de vendas ou checkout.
+
+## Registro histórico do índice anterior
+
+O texto abaixo é preservado para rastreabilidade. Todas as referências de vigência nele pertencem ao período anterior à decisão de 24/10/2026.
+
+
+### Índice e estado das versões do Raio-X — Mentoria
+
+#### Referência usada atualmente
 
 O arquivo abaixo foi escolhido por Fabiano como referência pública em 23 de agosto de 2026 para comunicação, página e conferência do checkout. A organização em 9 módulos e 54 aulas continua estimativa revisável. Camila emitiu parecer favorável sobre o uso do material de mentoria, sem assumir autoria sobre o projeto:
 
@@ -32,7 +51,7 @@ O arquivo abaixo foi escolhido por Fabiano como referência pública em 23 de ag
 
 “Atual” registra a referência usada neste momento, sem torná-la definitiva. O Raio-X também registra condições da página e do checkout. Versões anteriores permanecem disponíveis para comparação e reaproveitamento, mas não substituem silenciosamente uma escolha posterior de Fabiano.
 
-### Harmonização pública e incorporação de posicionamento — 23 de agosto de 2026
+##### Harmonização pública e incorporação de posicionamento — 23 de agosto de 2026
 
 O trabalho de posicionamento realizado com o Vidente acrescentou linguagem proprietária, definições de competência incorporada e presença que sustenta e referências para a masterclass. Esses acréscimos foram registrados na [[07 - Deliberação Transversal - Posicionamento, Linguagem e Arquitetura Dupla - 2026-08-23]] e incorporados ao Raio-X público v2.0.
 
@@ -53,11 +72,11 @@ O arquivo aprovado declarava 3 aulas no Módulo inicial e 54 no total, mas detal
 
 O original aprovado foi preservado integralmente em [[Histórico/2026-08-04 - Raio-X-Fabiano Deliberalli - aprovado na mentoria]].
 
-## Critério de preservação
+#### Critério de preservação
 
 O conteúdo anterior do espelho foi preservado no histórico antes da atualização. As versões abaixo permanecem disponíveis para consulta posterior, comparação de decisões, recuperação de linguagem e rastreamento da evolução do produto. Quando nomes diferentes correspondiam ao mesmo SHA-256, uma cópia foi usada como referência técnica e a duplicação foi registrada nesta nota.
 
-## Linha histórica
+#### Linha histórica
 
 | Data | Arquivo | Estatuto histórico | SHA-256 |
 |---|---|---|---|
@@ -80,13 +99,13 @@ O conteúdo anterior do espelho foi preservado no histórico antes da atualizaç
 | 2026-07-28 | [[Histórico/2026-07-28 - Registro da versão válida do Raio X]] | registro histórico de vigência naquele marco | `4abab7c1c4893b74ce5cb1081cf1a8782e688a5c21b8d99aee65de2745e73079` |
 | sem data | [[Histórico/Sem data - Raio X Definitivo - arquivo histórico]] | reserva histórica de linguagem, identidade e formulações | `06a434b793f7f93020b4dbba306efa548558998f84765df645191f9909a654e1` |
 
-## Documento associado de consultoria
+#### Documento associado de consultoria
 
 - [[Consultoria/2026-08-04 - Feedback da Camila sobre o Raio-X]]
 - **Estatuto:** feedback recebido, não versão reescrita do Raio-X.
 - **SHA-256:** `43b4485297fbc9ccfe479a5daf0cce2f3fa5c583f606a5169003db354a71f7c4`
 
-## Duplicações técnicas não multiplicadas
+#### Duplicações técnicas não multiplicadas
 
 Os arquivos abaixo tinham o mesmo conteúdo binário do histórico preservado com SHA-256 `dfc85e39c622c999e5ad33b9c367bf3d6d908b2f877ddf67e5eb3b197a039f65`:
 
@@ -97,11 +116,11 @@ Os arquivos abaixo tinham o mesmo conteúdo binário do histórico preservado co
 
 O arquivo histórico foi mantido uma vez, sem perda de conteúdo.
 
-## Regra para próximas versões
+#### Regra para próximas versões
 
 Uma nova versão substantiva do Raio-X pode ser adicionada como arquivo datado para preservar comparação. Correções estritamente técnicas podem conservar o nome atual quando o original estiver recuperável no histórico, a mudança for descrita e os hashes forem registrados. Quando Fabiano confirmar outra referência, esta nota deve apontá-la explicitamente e manter a anterior acessível.
 
-## Relações
+#### Relações
 
 - [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]]
 - [[10 - Raio X do Produto/Interno/Registro Interno - Análises Operacionais do Raio X - 2026-08-02]]
