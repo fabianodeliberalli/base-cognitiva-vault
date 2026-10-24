@@ -5,6 +5,7 @@ tipo: mapa-de-experiencia
 status: referencia-de-experiencia-revisavel
 projeto: Posicionamento Profissional e Autoridade Autoral
 data: 2026-08-21
+atualizado_em: 2026-09-14
 autor: Fabiano Deliberalli
 tags:
   - clínica
@@ -18,6 +19,8 @@ tags:
 ## Trajetória anterior à Psicologia
 
 Fabiano iniciou os atendimentos durante sua primeira formação corporal, no início dos anos 1990, e manteve atividade contínua no cuidado terapêutico. Trabalhou inicialmente com massoterapia e práticas corporais orientais, incorporando posteriormente Reiki, acupuntura, Qi Gong e outros referenciais da Medicina Tradicional Chinesa.
+
+No Shiozawa Prevenção em Saúde, realizou o Curso Intensivo de Shiatsu de 100 horas, de junho a dezembro de 1994, e estágio de 2.000 horas, de janeiro de 1995 a julho de 1996. Curso e estágio permanecem registrados separadamente. A formação e a atuação posteriores no Shiozawa, com práticas corporais orientais, Seitai e Quiropraxia, integram um período total referido de aproximadamente dez anos.
 
 As formações em Psicanálise Integrativa, hipnose e PNL ampliaram a passagem do trabalho predominantemente corporal para a psicoterapia. Segundo relato do autor, estágios e atendimentos psicoterapêuticos começaram desde a primeira formação psicanalítica, antes da graduação em Psicologia.
 
