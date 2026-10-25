@@ -127,3 +127,75 @@ Regras:
 - não apresentar correspondências como mecanismos biomédicos;
 - não usar o caso como prova de eficácia;
 - distinguir coerência interna da tradição de validação científica externa.
+
+
+## 9. Correlações curriculares detalhadas
+
+O caso pode reaparecer longitudinalmente sem ser repetido da mesma forma.
+
+### M1.1–M1.3
+Problema central: compreender, acessar e sustentar não são equivalentes.
+
+### M1.4–M1.6
+Usar o caso para mostrar que diferentes mapas podem iluminar dimensões distintas e para treinar cartografia de uma cena concreta.
+
+### M2.1–M2.6
+A cena do suporte é especialmente forte para:
+- predição;
+- saliência;
+- mapa rígido;
+- respostas familiares;
+- separar fato, vivido e interpretação;
+- revisar uma tradução quando o ambiente oferece informação nova.
+
+### M3.1–M3.4
+Retomar cansaço, estado corporal, interocepção e mapas autonômicos.
+
+### M3.5 — Energia e vitalidade nas tradições orientais
+Aula prioritária para:
+- Qi;
+- Zhi/Rins;
+- Pulmão/Metal → Água;
+- Coração/Fogo ↔ Rins/Água;
+- Laogong;
+- Dantian;
+- três regulações do Qi Gong.
+
+### M3.6
+Centro, circulação, limite e enraizamento:
+- baixo Dantian;
+- postura;
+- mãos;
+- intenção;
+- sensação de centro e apoio.
+
+### M3.7
+Recursos de retorno:
+- respiração;
+- autocontato;
+- automassagem;
+- práticas simples de Qi Gong;
+- escolha e dosagem segundo P6.
+
+### M4.4–M4.6
+Segurança como aprendizagem/proteção e passagem do automatismo para ação possível.
+
+### M5.1–M5.4
+Coordenação entre cautela, recursos atuais, vontade, valor de segurança e capacidade de escolha.
+
+### M6.2, M6.5 e M6.6
+Diferenciar saberes sem fragmentar; revisar traduções em espiral; construir coerência situada.
+
+### M8.2
+Práticas corporais/tradicionais podem integrar a trilha autônoma quando escolhidas com função, dosagem e compreensão.
+
+## 10. Princípio de integração de saberes
+
+Para este caso e para o TSH:
+
+> **Os diferentes saberes entram no TSH pelo que conseguem iluminar e pela função que podem cumprir na experiência. Quando há correlações pertinentes entre eles, elas podem ser apresentadas; quando não há correspondência demonstrada, cada mapa pode ser utilizado em seus próprios termos.**
+
+A precisão epistemológica permanece como responsabilidade do educador, sem transformar cada aula em uma defesa da legitimidade das Grandes Tradições.
+
+Ver:
+[[00 - Fundamento Integrado - Qi, Corpo, Respiração, Intenção e Articulação Multirreferencial]]
