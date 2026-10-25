@@ -1004,3 +1004,14 @@ Esta deliberação autoral supera, quanto à vigência, as formulações anterio
 Em 28 de julho de 2026, Fabiano Deliberalli decidiu dar sequência ao pedido de registro de **Traduzindo** no INPI. Enquanto não houver concessão, o estado documental deve ser descrito como **pedido ou processo de registro em andamento**, nunca como marca já registrada.
 
 Ver [[04 - Deliberação Transversal - Público, Microaulas e Arquitetura de Marca - 2026-07-28]].
+
+
+## F84 — Qi como linguagem dinâmica de configurações corporais e atencionais
+
+> **Dentro da MTC e do Qigong, diferentes configurações corporais, respiratórias, afetivas, posturais e atencionais são descritas por meio da dinâmica do Qi.**
+
+- **Estatuto:** A — APROVADA em 24/10/2026.
+- **Recuperação:** literal, formulação autoral de Fabiano Deliberalli.
+- **Função:** fundamentar o ensino de MTC/Qi Gong no TSH sem reduzir Qi a uma única variável biomédica e sem exigir equivalência entre sistemas.
+- **Aplicação prioritária:** M3.5 — Energia e vitalidade nas tradições orientais; M3.6 — Centro, circulação, limite e enraizamento; M3.7 — Recursos de retorno.
+- **Relações:** [[00 - Fundamento Integrado - Qi, Corpo, Respiração, Intenção e Articulação Multirreferencial]], [[15 - Três Regulações, Qi Gong e EIXO]], [[04 - Deliberação Transversal - Pluralismo Epistemológico Não Redutivo e Integração Autoral]].
