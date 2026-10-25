@@ -128,3 +128,42 @@ Registrar, se disponíveis:
 - se a pessoa utilizou ação exploratória espontaneamente;
 - tolerabilidade e eventual desconforto;
 - percepção do paciente sobre a formulação.
+
+
+## 11. Pesquisa MTC/Qi Gong já consolidada em 24/10/2026
+
+Os seguintes pontos deixaram de ser apenas lacunas iniciais e possuem agora fundamentação suficiente para uso interno e planejamento curricular:
+
+- Zhi associado aos Rins e a vontade/determinação/resolução;
+- medo como correspondência tradicional do Rim;
+- Pulmão/Metal e Rim/Água no ciclo gerador;
+- comunicação Coração/Fogo – Rim/Água;
+- Laogong (PC8) como ponto Fogo do Pericárdio;
+- uso das palmas/Laogong em práticas de Qi Gong relacionadas aos Rins e à dinâmica Coração–Rins;
+- baixo Dantian como referência recorrente do Qi Gong;
+- três regulações: corpo, respiração e mente/intenção;
+- diversidade de padrões respiratórios no Qi Gong;
+- evidência de que diferentes padrões respiratórios podem produzir respostas fisiológicas diferentes;
+- respiração lenta e modulação cardiorrespiratória/autonômica;
+- necessidade de distinguir “Breath of Fire” do vocabulário geral do Qi Gong.
+
+A consolidação completa está em:
+[[00 - Fundamento Integrado - Qi, Corpo, Respiração, Intenção e Articulação Multirreferencial]]
+
+## 12. Questões MTC/Qi Gong que permanecem abertas
+
+- identificar, quando pertinente, a linhagem exata das variantes específicas de respiração mobilizadora ensinadas na formação de Fabiano;
+- recuperar páginas específicas dos livros de Yang Jwing-Ming já arquivados no vault para reforçar genealogia de práticas;
+- definir quais exercícios tradicionais entram no curso-base e quais ficam em aprofundamento;
+- produzir ficha P6 de cada prática selecionada;
+- verificar contraindicações específicas de respirações intensas, retenções e práticas mobilizadoras.
+
+## 13. Questões empíricas ainda abertas
+
+Continuam exigindo pesquisa:
+- predictive processing e ação exploratória;
+- flexibilidade regulatória;
+- autoeficácia;
+- ruminação/custo atencional;
+- relação entre prática corporal e mudança decisória neste paciente;
+- resposta longitudinal do CASO-007.
