@@ -155,7 +155,7 @@ atenção ao corpo, reconhecimento de padrão, atualização contextual, recurso
 ### Fisiologia contemporânea
 respiração lenta, interocepção, atenção corporal e modulação autonômica como mecanismos possíveis e parcialmente sustentados.
 
-A integração responsável é por **correspondência funcional**, não por equivalência causal.
+Esta articulação é **multirreferencial**: cada saber pode contribuir em seu próprio regime, e as correlações são apresentadas quando acrescentam compreensão. Não é necessário converter um sistema no outro para que ambos sejam clinicamente ou pedagogicamente úteis.
 
 ## Síntese
 
