@@ -611,8 +611,8 @@ Para o educador, os estatutos epistemológicos permanecem explícitos no bastido
 - [[P6 - Protocolo Mestre de Seleção, Modulação e Encerramento de Práticas - Proposta v0.1]]
 - [[04 - Deliberação Transversal - Pluralismo Epistemológico Não Redutivo e Integração Autoral]]
 - [[12 - Dossiê MTC Qi Gong e Corpo - Certificados PDF 1995-2018]]
-- [[CASO-007 - A Segurança de Ontem nas Escolhas de Hoje - 01 - Registro Clínico]]
-- [[CASO-007 - A Segurança de Ontem nas Escolhas de Hoje - 03 - Hipóteses e Correlações]]
+- [[CASO-007 - Segurança e Decisão/01 - Registro Clínico|CASO-007 - A Segurança de Ontem nas Escolhas de Hoje — Registro Clínico]]
+- [[CASO-007 - Segurança e Decisão/03 - Hipóteses e Correlações|CASO-007 - A Segurança de Ontem nas Escolhas de Hoje — Hipóteses e Correlações]]
 
 ## 22. Fontes externas consultadas
 
