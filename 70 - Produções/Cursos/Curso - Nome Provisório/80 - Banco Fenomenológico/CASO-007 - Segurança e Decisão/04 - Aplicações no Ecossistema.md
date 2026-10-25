@@ -43,6 +43,23 @@ Uso forte em versão minimizada:
 
 Não utilizar detalhes identificadores nem a intervenção MTC/Qi Gong nesta primeira apresentação.
 
+## 3A. Governança de anonimização e uso público
+
+O registro interno pode permanecer detalhado para preservar a utilidade clínica e fenomenológica do caso. A passagem para material público, gravado ou didático exige uma segunda operação de anonimização: **não basta retirar nome, idade ou profissão; é necessário avaliar o risco de reidentificação produzido pela combinação de detalhes biográficos, relacionais, temporais e clínicos.**
+
+Na versão pública, reduzir ou generalizar, conforme a finalidade pedagógica:
+- o falecimento do pai;
+- o contraste específico entre as figuras materna e paterna;
+- detalhes da trajetória patrimonial e financeira familiar;
+- a longa duração do acompanhamento;
+- a localização lombar quando não for necessária ao ponto ensinado;
+- cronologias e circunstâncias excessivamente específicas;
+- detalhes singulares da intervenção MTC/Qi Gong quando não forem necessários ao objetivo da aula.
+
+Antes de utilizar o caso real em material público, avaliar o grau de identificabilidade e a necessidade/adequação de consentimento específico para aquele formato. Quando o ganho pedagógico não depender da biografia singular, preferir uma **vinheta minimizada, generalizada ou composta**, preservando o mecanismo clínico relevante sem acumular pistas de reconhecimento.
+
+A anonimização não autoriza alterar o sentido clínico do episódio nem acrescentar resultados que não foram observados.
+
 ## 4. Desenvolvimento curricular
 
 ### M1 — compreensão, acesso e sustentação
