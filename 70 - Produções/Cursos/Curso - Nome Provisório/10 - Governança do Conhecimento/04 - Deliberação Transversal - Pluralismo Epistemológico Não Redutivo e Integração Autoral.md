@@ -5,7 +5,7 @@ status: referencia-atual-revisavel
 versao: "1.1"
 decidido_em: 2026-07-26
 formalizado_em: 2026-08-22
-atualizado_em: 2026-09-07
+atualizado_em: 2026-10-24
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 substitui_como_referencia:
