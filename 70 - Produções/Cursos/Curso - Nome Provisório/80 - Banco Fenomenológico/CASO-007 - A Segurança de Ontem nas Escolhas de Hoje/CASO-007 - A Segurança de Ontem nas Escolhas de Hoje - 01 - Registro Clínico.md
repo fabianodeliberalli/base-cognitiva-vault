@@ -121,7 +121,23 @@ O terapeuta relacionou o caso a uma leitura tradicional envolvendo:
 - Pulmão como associado ao Metal;
 - respiração, Dantian, mãos e intencionalidade como componentes de Qi Gong.
 
-Essas relações pertencem ao sistema conceitual tradicional da MTC e do Qi Gong e não devem ser apresentadas como equivalentes a mecanismos biomédicos demonstrados.
+Essas relações pertencem ao sistema conceitual tradicional da MTC e do Qi Gong.
+
+### Racional tradicional explicitado pelo terapeuta
+
+A intervenção foi pensada também a partir de relações tradicionais específicas:
+
+- **Laogong (PC8):** ponto Fogo do canal do Pericárdio, localizado na palma, com relação tradicional ao sistema Coração–Pericárdio e ao Shen;
+- **palmas sobre a região lombar/Rins:** recurso presente em práticas de Qi Gong que articulam Fogo do Coração e Água dos Rins;
+- **Rins/Água/Zhi:** Zhi como vontade, determinação, resolução e compromisso;
+- **Pulmão/Metal → Rim/Água:** ciclo gerador das Cinco Fases utilizado como lógica tradicional para o papel da respiração;
+- **baixo Dantian:** centro tradicional de cultivo e organização do Qi;
+- **respiração + atenção/intenção:** componentes das três regulações do Qi Gong;
+- **mãos + respiração + intenção:** organização prática destinada, dentro desse referencial, a reunir vitalidade, direção e capacidade de ação.
+
+A intenção clínica foi associar essa estrutura tradicional ao reconhecimento de recursos atuais de segurança e decisão.
+
+Para fundamentação detalhada, ver [[00 - Fundamento Integrado - Qi, Corpo, Respiração, Intenção e Articulação Multirreferencial]].
 
 ## Resultado da intervenção
 
@@ -151,3 +167,4 @@ O caso não estabelece:
 - [[CASO-007 - A Segurança de Ontem nas Escolhas de Hoje - 03 - Hipóteses e Correlações]]
 - [[CASO-007 - A Segurança de Ontem nas Escolhas de Hoje - 04 - Aplicações no Ecossistema]]
 - [[CASO-007 - A Segurança de Ontem nas Escolhas de Hoje - 05 - Dívidas de Pesquisa]]
+- [[CASO-007 - A Segurança de Ontem nas Escolhas de Hoje - 06 - Fundamentação Integrada MTC, Qi Gong e TSH]]
