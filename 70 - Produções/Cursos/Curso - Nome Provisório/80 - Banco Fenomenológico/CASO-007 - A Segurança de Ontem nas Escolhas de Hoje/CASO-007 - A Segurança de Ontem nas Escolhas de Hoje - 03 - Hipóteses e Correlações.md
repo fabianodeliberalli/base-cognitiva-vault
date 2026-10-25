@@ -166,3 +166,88 @@ O caso é particularmente forte para mostrar:
 E:
 
 > **O que precisava ser atualizado não era apenas uma crença; era a disponibilidade de uma ação capaz de deixar o presente informar a decisão.**
+
+
+## 13. Qi como linguagem de configurações integradas
+
+Formulação aprovada no TSH:
+
+> **Dentro da MTC e do Qigong, diferentes configurações corporais, respiratórias, afetivas, posturais e atencionais são descritas por meio da dinâmica do Qi.**
+
+No caso, isso permite compreender como cansaço, lombar, respiração, intenção, postura e capacidade de ação podem ser trabalhados conjuntamente no referencial tradicional sem reduzir Qi a uma única variável.
+
+## 14. Laogong e relação Coração–Rins
+
+A pesquisa posterior fortaleceu o racional tradicional:
+- Laogong (PC8) é ponto Fogo do Pericárdio;
+- práticas de Qi Gong utilizam o centro das palmas sobre a região dos Rins;
+- Yang Jwing-Ming descreve essa prática como uso do Fogo do Coração para nutrir a Água dos Rins;
+- tradições de Medical Qigong também descrevem Laogong entre os “Five Hearts/Five Palms” e sua participação na integração Coração–Rins.
+
+No CASO-007, a colocação das mãos na região lombar possui, portanto, antecedente tradicional específico.
+
+## 15. Shen–Zhi: clareza e determinação
+
+Na leitura de Maciocia da tradição chinesa:
+- o Coração abriga Shen;
+- os Rins abrigam Zhi;
+- Shen oferece clareza e direção;
+- Zhi oferece determinação, impulso, resolução e compromisso.
+
+Essa relação cria uma correlação clínica interessante com o caso:
+- a pessoa possui compreensão e recursos atuais;
+- o problema aparece na passagem entre reconhecer e agir.
+
+Não se afirma equivalência entre Shen/Zhi e funções psicológicas contemporâneas, mas o mapa tradicional é especialmente pertinente à temática decisória.
+
+## 16. Pulmão–Metal → Água e respiração
+
+No ciclo gerador das Cinco Fases, Metal gera Água; Pulmão pertence ao Metal e Rim à Água.
+
+Dentro da lógica do Qi Gong/MTC, a respiração participa da mobilização e cultivo do Qi e pode integrar práticas voltadas aos Rins.
+
+Isso fundamenta tradicionalmente a inclusão da respiração na intervenção sem exigir que “Metal gera Água” seja traduzido como mecanismo pulmonar-renal biomédico.
+
+## 17. Respiração não é sempre sedativa
+
+Diferentes padrões de Qi Gong podem produzir estados distintos.
+
+Há literatura mostrando:
+- uso de respiração abdominal e reversa;
+- práticas com sons e pausas;
+- Dan Tian Breathing passiva e ativa;
+- padrões respiratórios de Qi Gong associados a perfis autonômicos diferentes.
+
+Portanto:
+
+> **A respiração é um recurso de modulação de estado; sua função depende de como é realizada, do objetivo da prática e da resposta da pessoa.**
+
+A expressão “Breath of Fire” é predominantemente iogue; em práticas chinesas, utilizar o nome da técnica ou linhagem específica.
+
+## 18. Pontes com fisiologia contemporânea
+
+Há evidência independente de que respiração voluntária lenta pode modificar HRV e parâmetros de modulação autonômica.
+
+Esses dados podem ampliar a leitura da prática, mas não são necessários para legitimar o referencial tradicional.
+
+A formulação “respirar no baixo ventre ativa o vago ventral” não será utilizada como mecanismo estabelecido. O TSH pode falar em:
+- modulação autonômica;
+- dinâmica cardiorrespiratória;
+- estado corporal;
+- interocepção;
+- sensação de segurança.
+
+## 19. Integração autoral
+
+A intervenção do caso é exemplar da integração multirreferencial do TSH:
+
+- a MTC fornece uma cartografia tradicional de Qi, Zhi, Rins, Pulmão, Coração, Cinco Fases e Dantian;
+- o Qi Gong fornece uma tecnologia prática de corpo, respiração, atenção e intenção;
+- a psicoterapia organiza história, padrão, significado e recursos atuais;
+- o TSH articula essas dimensões em torno de disponibilidade, Tradução, EIXO e resposta situada;
+- a ciência contemporânea pode acrescentar dados quando houver correspondência pertinente.
+
+A singularidade está na articulação competente dos saberes, não em transformar um deles em tradução obrigatória do outro.
+
+## Relação principal
+[[00 - Fundamento Integrado - Qi, Corpo, Respiração, Intenção e Articulação Multirreferencial]]
