@@ -13,11 +13,11 @@ autoridade_final: Fabiano Deliberalli
 
 Este documento reúne a fundamentação específica da intervenção realizada no CASO-007 e deve ser lido em conjunto com:
 
-- [[01 - Registro Clínico]]
-- [[02 - Observações Fenomenológicas]]
-- [[03 - Hipóteses e Correlações]]
-- [[04 - Aplicações no Ecossistema]]
-- [[05 - Dívidas de Pesquisa]]
+- [[CASO-007 - Segurança e Decisão/01 - Registro Clínico|01 - Registro Clínico]]
+- [[CASO-007 - Segurança e Decisão/02 - Observações Fenomenológicas|02 - Observações Fenomenológicas]]
+- [[CASO-007 - Segurança e Decisão/03 - Hipóteses e Correlações|03 - Hipóteses e Correlações]]
+- [[CASO-007 - Segurança e Decisão/04 - Aplicações no Ecossistema|04 - Aplicações no Ecossistema]]
+- [[CASO-007 - Segurança e Decisão/05 - Dívidas de Pesquisa|05 - Dívidas de Pesquisa]]
 - [[00 - Fundamento Integrado - Qi, Corpo, Respiração, Intenção e Articulação Multirreferencial]]
 
 O objetivo é preservar a lógica clínica e tradicional da intervenção sem converter a vinheta em prova de eficácia ou em demonstração causal.
