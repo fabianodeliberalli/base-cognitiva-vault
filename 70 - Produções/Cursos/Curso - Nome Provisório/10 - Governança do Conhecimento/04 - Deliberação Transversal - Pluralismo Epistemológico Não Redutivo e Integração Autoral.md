@@ -71,6 +71,28 @@ Não se deve converter essa integração em dois personagens artificiais — “
 
 **Polímata** descreve a amplitude da trajetória. **Pluralismo epistemológico não redutivo** descreve a posição adotada diante dos diferentes regimes de conhecimento. **Tradução e articulação responsável** descrevem a operação autoral que os coloca em relação sem os fundir.
 
+## 4A. Integração clínica multirreferencial — deliberação de 24/10/2026
+
+A integração de saberes é reconhecida como parte constitutiva da singularidade autoral do Traduzindo o Ser Humano.
+
+Fabiano Deliberalli possui formação documentada e experiência acumulada em Psicologia, psicoterapia, Neurociências, Medicina Tradicional Chinesa, Acupuntura Bioenergética, Qi Gong, práticas corporais, trauma, hipnose, Brainspotting, tradições contemplativas e espiritualidade. Correlações produzidas a partir desse repertório podem ser clinicamente e pedagogicamente pertinentes mesmo quando não existe equivalência científica direta entre os referenciais mobilizados.
+
+A regra não é exigir que todo conhecimento tradicional seja convertido em neurociência. A regra é:
+- conhecer o referencial utilizado;
+- deixar clara sua origem quando necessário;
+- fazer aproximações quando houver ganho real de compreensão;
+- não inventar equivalências;
+- não usar uma correlação como prova de causalidade que ela não demonstra;
+- preservar a utilidade de um conhecimento tradicional quando ele funciona como mapa ou ferramenta em seu próprio regime.
+
+Formulação de comunicação preferencial:
+
+> **Os diferentes saberes entram no TSH pelo que conseguem iluminar e pela função que podem cumprir na experiência. Quando há correlações pertinentes entre eles, elas podem ser apresentadas; quando não há correspondência demonstrada, cada mapa pode ser utilizado em seus próprios termos.**
+
+A originalidade autoral pode residir na articulação clínica e pedagógica de saberes efetivamente estudados e praticados, sem que cada conceito isolado precise ser novo ou que cada ponte precise constituir uma equivalência científica.
+
+Em materiais públicos, evitar ressalvas defensivas repetitivas que sugiram que a ciência funciona como autorização dos demais regimes. A precisão epistemológica deve permanecer no bastidor e aparecer ao participante quando for relevante para compreender o alcance de uma afirmação, uma prática ou uma correlação.
+
 ## 5. Práticas tradicionais, corporais, energéticas e espirituais
 
 Práticas pertencentes à formação e à experiência de Fabiano podem ser nomeadas, demonstradas e ensinadas no curso quando forem pertinentes ao percurso e compatíveis com sua competência e com a natureza educacional da oferta.
