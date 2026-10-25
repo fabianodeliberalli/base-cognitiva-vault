@@ -167,3 +167,16 @@ Continuam exigindo pesquisa:
 - ruminação/custo atencional;
 - relação entre prática corporal e mudança decisória neste paciente;
 - resposta longitudinal do CASO-007.
+
+## 14. Governança de uso público e privacidade
+
+Pendências operacionais antes de qualquer uso público do caso real:
+- definir a versão minimizada da vinheta para cada finalidade pedagógica;
+- avaliar risco de reidentificação pela **combinação** de dados, e não apenas pela presença de identificadores diretos;
+- decidir, conforme formato e grau de identificabilidade, quando é necessário ou adequado obter consentimento específico;
+- evitar reunir, numa mesma versão pública, detalhes como falecimento do pai, contraste parental, trajetória patrimonial/financeira, longa duração da psicoterapia, localização lombar e elementos muito singulares da intervenção;
+- documentar separadamente o que pertence ao registro clínico interno e o que foi autorizado/selecionado para comunicação pública;
+- preservar a sequência clínica relevante sem inventar desfechos ou efeitos da prática ainda não registrados.
+
+A existência de um registro interno anonimizado não deve ser tratada automaticamente como autorização suficiente para exposição pública detalhada.
+
