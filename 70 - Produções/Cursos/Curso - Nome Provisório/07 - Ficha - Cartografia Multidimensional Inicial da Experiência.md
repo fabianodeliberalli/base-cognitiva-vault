@@ -9,6 +9,19 @@ data: 2026-07-19
 
 > Escolha uma experiência que possa ser visitada agora sem ultrapassar suas condições atuais de presença e sustentação. É permitido trabalhar com uma sensação leve, uma situação fictícia, uma imagem ou simplesmente observar o presente. Compartilhar é sempre opcional.
 
+## Registro breve para as aulas e encontros ao vivo
+
+Escolha de três a cinco perguntas, conforme a prática. Você pode registrar por palavras, traço, cor, imagem, gesto ou silêncio; não precisa nomear ou preencher tudo.
+
+- O que notei e como posso registrar?
+- O que associei e o que concluí?
+- O que permanece desconhecido ou poderia mudar minha leitura?
+- Como meu estado está mudando e o que continua possível?
+- Que apoio ou condição preciso construir?
+- O que vou experimentar na vida e que efeitos observarei?
+
+A versão extensa abaixo serve a investigações escolhidas. Intensidade percebida e acesso às respostas são perguntas diferentes. Ver [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo]].
+
 ## 1. Escolha e sustentação
 
 - Experiência escolhida:
@@ -67,5 +80,5 @@ Marque somente o que estiver presente e descreva brevemente.
 
 ## Tradução provisória
 
-> Neste momento, reconheço que ____________________. Isso se manifesta principalmente em ____________________. Eu o nomeio provisoriamente como ____________________, sem concluir que ____________________. Agora, a experiência parece solicitar ____________________.
+> Neste momento, reconheço que ____________________. Isso se manifesta principalmente em ____________________. Posso registrá-lo por palavra, imagem, gesto ou outra linguagem como ____________________, sem concluir que ____________________. Agora, a experiência parece solicitar ____________________.
 

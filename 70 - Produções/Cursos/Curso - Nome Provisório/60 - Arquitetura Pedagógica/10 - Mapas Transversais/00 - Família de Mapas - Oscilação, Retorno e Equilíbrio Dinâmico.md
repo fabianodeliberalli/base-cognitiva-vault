@@ -35,7 +35,9 @@ Nesta família, **EIXO é função pedagógica dentro do Traduzindo o Ser Humano
 
 | Nível | Função |
 |---|---|
-| Centro, Essência ou Self | referência profunda de identidade, integração, sentido e direção |
+| Referência profunda | orientação por identidade, integração, sentido e direção, conforme o mapa |
+| Essência | fundamento primordial na perspectiva espiritual e transpessoal autoral; não sinônimo de Self |
+| Self | significado psicológico ou junguiano conforme a fonte; não equivale a Essência |
 | Eixo | capacidade funcional de reconhecer deslocamentos, recuperar coordenação e orientar a participação |
 | Estado momentâneo | condição corporal, emocional, cognitiva e relacional que varia |
 | Condições da experiência | corpo, contexto, vínculos, memórias, ambiente, intensidade e segurança |
@@ -59,7 +61,13 @@ A Essência não desaparece quando o estado muda. O contato consciente com ela e
 | Desenvolvimento do Retorno | O que muda concretamente com o treino? | introdução breve na 0.2 | auto-observação formativa ao longo das seis fases |
 | Três Perspectivas do Equilíbrio Dinâmico | Como diferentes tradições descrevem movimento, desequilíbrio e reorganização? | síntese simples na 0.2 ou nota do educador | MTC/Qi Gong, regulação autonômica, aprendizagem e integração |
 
-## Distribuição longitudinal
+## Distribuição atual nas 54 aulas
+
+Árvore: M1, M4, M5 e M7. Pêndulo: M1.7, M3 e M4, com estado, movimento, referência e participação. Espiral: introdução em M1.7, aprofundamento em M6.5 e M8, incluindo impasses. Circulação: M3 e M6. Árvore e Cosmos: M5.5 a M5.8, expressão e continuidade. Cinco Janelas e Três Eus conservam suas funções próprias.
+
+O exemplo fictício ou cedo ou rompo retorna com perguntas novas, alternado com experiências de criação e cultivo. Plano detalhado: [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo]]. A atualização é textual; os gráficos serão adaptados na produção visual das aulas.
+
+## Distribuição longitudinal do acervo de origem
 
 | Momento do curso | Uso previsto |
 |---|---|

@@ -26,6 +26,10 @@ A Tradução articula conhecimentos, experiências e linguagens para tornar essa
 
 A Árvore da Singularidade situa a história e as condições de desenvolvimento. O pêndulo permite investigar mudanças de estado e de acesso às possibilidades. O EIXO favorece orientação dentro desse movimento. A espiral acompanha os reencontros com os temas e as mudanças, impasses e retomadas na participação. A circulação mantém sustentação, expansão e retorno em relação. O Cosmos amplia o horizonte de pertencimento e de investigação transpessoal.
 
+### Desenvolvimento curricular posterior
+
+A revisão solicitada em 30/10/2026 é desenvolvida em [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo]]: finalidade ampliada, três situações de aprendizagem, distribuição da Essência, MTC, correlações científicas, materiais e encontros ao vivo. Este registro remete ao desenvolvimento novo e preserva abaixo a transcrição integral do Word da síntese. O Word original não foi silenciosamente reescrito.
+
 ### Função deste documento
 
 Esta síntese reúne as decisões conceituais do chat e organiza suas relações para orientar os roteiros e o registro posterior no acervo. Integra o refinamento conceitual inicial e as contribuições do documento sobre pêndulo e Bentov, preservados como antecedentes de consulta. Não altera automaticamente o Raio X, os títulos das aulas ou o Guia de Condução.
