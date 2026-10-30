@@ -7,6 +7,16 @@ autoridade_de_aprovacao: Fabiano Deliberalli
 escopo: arquitetura, governança, mensagens, validação e ordem de produção
 ---
 
+## Referência de comunicação solicitada em 30 de outubro de 2026
+
+A finalidade ampliada, a persona, os benefícios e a entrega desta turma estão descritos em [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo]] e no Raio X revisado na mesma ramificação. Usar essas formulações ao revisar comunicação e oferta. Não restaurar automaticamente condições de agosto.
+
+Apresentar um encontro online ao vivo por módulo: duas horas, divididas entre dúvidas e prática orientada. M0 a M8 correspondem a nove encontros e 18 horas. São parte da entrega desta turma, sem transformar o acesso de um ano em promessa de encontros durante um ano. Calendário e gravações permanecem abertos.
+
+A frase de entrada sobre repetição permanece; desenvolver também reconhecimento de possibilidades, cultivo e expressão. O benefício expressivo inclui palavras, imagens, sensações e outras linguagens. A persona reconhece recursos pessoais, apoios e condições; evitar categorias moralizantes. A documentação não atesta atualização de página, anúncios ou checkout.
+
+
+
 # Caderno de Comunicação e Criativos — Traduzindo o Ser Humano
 
 ## Versão 0.2 — Arquitetura inicial, acervo histórico, nota-ponte e definições operacionais

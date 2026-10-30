@@ -198,7 +198,7 @@ A orientação atribuída ao essencial pode ser examinada por seus efeitos sobre
 
 ### Uso pedagógico
 
-Introduzir referência profunda sem colapsar nomenclaturas. Desenvolver as distinções em M5.7 e retomar seus efeitos em M6 e M7. Perguntar o que busca expressão, que condições favorecem essa expressão e como ela participa da vida concreta.
+Apresentar brevemente a perspectiva multidimensional e transpessoal em M0 e M1; em M4, mostrar que a pessoa não se esgota no padrão. Aprofundar conceitos, fontes e experiência espiritual em M5, distinguindo Eu Superior e Self desde M5.3. Relacionar reconhecimento, integração e expressão em M6 e M7 e continuidade do cultivo em M8. Distinguir perspectiva autoral, experiência do participante, desenvolvimento e aprendizagem observável; ver [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo]]. Perguntar o que busca expressão, que condições favorecem essa expressão e como ela participa da vida concreta.
 
 Fonte: [[TSH - Síntese Integrativa do Refinamento]], seções 2, 3, 5 e 14.
 

@@ -1,24 +1,26 @@
 ---
 tipo: transcricao-de-consulta
 projeto: Traduzindo o Ser Humano
-status: derivado-do-raio-x-vigente
-atualizado_em: 2026-10-24
-fonte_sha256: f12017a1cca2ed123721558ef0dfe942f79cc1cc6fb4cd70e29d067c12f8c095
+status: revisao-de-trabalho-para-homologacao
+atualizado_em: 2026-10-30
+fonte_sha256: 0630830b9193e290c5b2801a2efc6a55ce62584caa97d7c628fce37322bf9848
 ---
 
-# Raio X vigente — texto para consulta
+Transcrição do Word revisado na mesma ramificação. Documento-base confirmado em 24/10/2026 preservado no histórico; revisão solicitada por Fabiano em 30/10/2026. Não editar esta transcrição isoladamente. Desenvolvimento pedagógico e fontes: [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo]].
 
-Fonte única: [[Raio-X-Fabiano Deliberalli.docx]], cópia integral do arquivo **RAIO X - congelado(1).docx**, confirmado por Fabiano em 24/10/2026. Esta transcrição serve à busca e leitura no Obsidian; não é uma versão independente e não deve ser editada isoladamente. O Word prevalece em caso de divergência. As palavras e a ordem dos parágrafos foram preservadas; somente foram adicionados títulos Markdown e espaços para leitura.
+# Raio X do Traduzindo o Ser Humano
 
-Para procedência, histórico e regra de consulta, ver [[00 - Índice e Estado do Raio X - Mentoria - 2026-08-04]]. Versões anteriores são históricas: só consultar por solicitação ou pertinência concreta, explicitando a contribuição para análise, sem incorporação automática.
-
-## Início da transcrição
+Revisão de trabalho de 30 de outubro de 2026. Preserva 9 módulos e 54 aulas. Preparada para revisão e integração ao repositório; não atesta publicação externa da oferta.
 
 Questionário Raio X de produtos
 
 Nome do PRODUTO: Traduzindo o Ser Humano — Por que você entende seus padrões, mas continua repetindo?
 
 Promessa: Aprenda a ampliar o acesso ao que você já compreendeu sobre si e a sustentar, nas situações reais da vida, capacidades práticas para responder com mais clareza, presença e coerência.
+
+Finalidade ampliada: O TSH oferece mapas e práticas para compreender a experiência, ampliar o acesso aos próprios recursos e cultivar possibilidades de vida que ainda encontram pouco espaço de expressão, considerando corpo, história, relações, condições de vida e dimensão espiritual.
+
+Orientação do percurso: Compreender como minha vida se organizou, construir condições para participar de outra maneira e cultivar possibilidades de expressão que ainda encontram pouco espaço.
 
 Frase de aprofundamento: Sustentar exige mais do que compreender racionalmente.
 
@@ -27,6 +29,8 @@ Síntese de posicionamento: Da compreensão acumulada à presença que sustenta.
 Formato de entrega (curso ou mentoria): Formação educacional online voltada ao desenvolvimento de capacidades práticas para a vida: compreender, organizar, acessar, sustentar e integrar a experiência humana.
 
 O curso é organizado em 9 módulos e 54 aulas curtas e progressivas, disponibilizadas pela Hotmart com 1 ano de acesso. (Não possui caráter de graduação, especialização, psicoterapia ou tratamento clínico).
+
+Encontros ao vivo: Nesta turma, a cada módulo liberado haverá um encontro online ao vivo de duas horas com Fabiano: uma hora para dúvidas e uma hora para prática orientada. A interpretação operacional adotada contempla M0 a M8: nove encontros e 18 horas ao vivo, adicionais às 54 aulas gravadas. Datas, plataforma dos encontros e política de gravação serão informadas separadamente; o acesso de um ano ao curso não implica encontros recorrentes por um ano.
 
 Tempo de acesso: 1 ano.
 
@@ -44,11 +48,11 @@ De se sentir dividido a se expressar com mais coerência — Aprende a conectar 
 
 ## 2. Liste 10 benefícios que as pessoas terão fazendo o seu curso.
 
-Encontrar palavras para compreender o que vive — Usar termos e mapas para organizar experiências que antes pareciam confusas ou contraditórias.
+Encontrar formas de reconhecer e comunicar o que vive: utilizar palavras, imagens, sensações e outros recursos expressivos, inclusive quando o sentido ainda está em elaboração.
 
-Enxergar a experiência por inteiro — Perceber como corpo, mente, emoções, relações, símbolos, sentido e espiritualidade participam de um mesmo acontecimento.
+Ampliar a leitura da experiência — Perceber como corpo, mente, emoções, relações, símbolos, sentido e espiritualidade participam de um mesmo acontecimento.
 
-Separar o que acontece hoje do padrão criado pelo passado — Distinguir a experiência vivida e real do que vem do passado como padrão repetido e automatismo.
+Investigar presente e história — Diferenciar acontecimentos, vivências e padrões, reconhecendo suas influências recíprocas e o que ainda permanece incerto.
 
 Perceber quando está se afastando de seu eixo — Reconhecer precocemente mudanças corporais, emocionais e relacionais que indicam perda de presença e rigidez.
 
@@ -62,11 +66,11 @@ Fazer escolhas orientadas pelo que realmente importa — Identificar valores e c
 
 Melhorar a comunicação, os limites e as relações — Expressar vivências difíceis, comunicar necessidades com dignidade, delimitar seu espaço e reparar rupturas relacionais.
 
-Saber como levar melhor a vida depois do curso — Concluir a formação com práticas integradas e um plano pessoal autônomo para continuar recuperando presença e direção.
+Saber como levar melhor a vida depois do curso — Concluir a formação com práticas integradas e um plano pessoal de cultivo, apoios e revisão para sustentar presença, direção e expressão.
 
 ## 3. Para quem é esse produto (persona)?
 
-O público primário é formado por adultos que querem realmente se tornarem responsáveis por si mesmos. Para os que estão cansados de estarem dependentes de algo externo para se manterem bem, centrados e organizados frente aos desafios da vida. Alguns com trajetória prévia de psicoterapia, caminhos contemplativos, espiritualidade ou autoconhecimento.
+Adultos que desejam ampliar sua participação consciente na própria vida, desenvolver recursos pessoais e reconhecer os apoios e condições necessários para sustentar escolhas, relações e possibilidades de expressão. Pessoas com trajetória prévia de psicoterapia, caminhos contemplativos, espiritualidade ou autoconhecimento podem reconhecer questões familiares; essa trajetória não é requisito obrigatório.
 
 São pessoas que:
 
@@ -90,7 +94,7 @@ Quem deseja uma única explicação obrigatória e dogmática sobre a realidade 
 
 Quem busca apenas acumular conceitos teóricos adicionais sem disposição para realizar as práticas e os exercícios no cotidiano.
 
-Quem usa a espiritualidade para fugir do corpo, das emoções ou da própria responsabilidade prática pelas suas escolhas.
+A proposta inclui corpo, emoções, relações e responsabilidade pelas escolhas; não oferece uma explicação espiritual que dispense cuidado, investigação ou participação concreta.
 
 ## 5. Descreva abaixo os módulos do seu produto/etapas da sua mentoria.
 
@@ -98,129 +102,128 @@ Quem usa a espiritualidade para fugir do corpo, das emoções ou da própria res
 
 ### Aula 1 — Boas-vindas
 
-Foco: Funcionamento do curso, exploração da plataforma e como aproveitar a progressão das aulas de forma orgânica.
+Foco: Apresentar o funcionamento do curso e a perspectiva multidimensional, espiritual e transpessoal de Fabiano. Explicar a articulação entre aulas gravadas, encontros online ao vivo e experiências cotidianas, acolhendo diferentes linguagens e modos de participação.
 
 ### Aula 2 — Como usar o percurso, os mapas, as práticas e os materiais
 
-Foco: Orientações para utilizar os mapas de apoio e registrar seu percurso sem transformar a jornada em uma nova cobrança ou cobrança de performance.
+Foco: Orientar o uso dos mapas, registros verbais e não verbais e materiais de apoio. Distinguir preparação individual, esclarecimento de dúvidas e prática acompanhada, sem transformar o percurso em cobrança de desempenho.
 
 ### Aula 3 — O que você precisa ter ou saber antes de começar
 
-Foco: Organização pessoal, tempo para os exercícios, respeito ao próprio ritmo e alinhamento dos limites da proposta educacional.
+Foco: Organizar tempo, espaço e recursos para estudar e participar dos encontros ao vivo. Respeitar condições corporais, ritmos e limites da proposta educacional; conhecer alternativas de participação, adaptação e pausa.
 
 ## MÓDULO 1 — Traduzindo a experiência
 
 ### Aula 1 — Por que entender um padrão não impede que ele se repita?
 
-Foco: Distinguir a compreensão puramente intelectual (racionalização) do que está efetivamente disponível na experiência no calor do momento.
+Foco: Distinguir compreensão conceitual, disponibilidade na situação e condições para agir. A compreensão intelectual é um recurso legítimo; racionalização designa um possível uso defensivo da explicação e não toda atividade de pensar.
 
 ### Aula 2 — Saber, acessar e sustentar não são a mesma coisa
 
-Foco: Compreender algo sobre si, conseguir acessar essa capacidade sob pressão e sustentá-la tempo suficiente para modular a resposta. Diferença entre estado e estágio.
+Foco: Diferenciar compreender, acessar e sustentar; reconhecer também possibilidades ainda não percebidas ou pouco desenvolvidas. Examinar estado, aprendizagem, condições e apoios necessários à participação.
 
 ### Aula 3 — O que é competência incorporada — e o que ela não promete
 
-Foco: Introdução gradual do conceito: competência incorporada é quando o que foi compreendido fica mais disponível no cotidiano. Ocorre de forma progressiva e não promete perfeição ou imunidade a oscilações.
+Foco: Apresentar competência incorporada como disponibilidade progressiva do aprendido e capacidade de adaptá-lo às situações. Distinguir competência, disponibilidade atual e congruência expressiva; cultivar capacidades novas exige experiência, tempo e condições.
 
 ### Aula 4 — A experiência é o território; as explicações são mapas
 
-Foco: Aprender a utilizar teorias da psicologia e neurociência como ferramentas úteis sem reduzir a complexidade da própria vida a rótulos rígidos.
+Foco: Utilizar mapas da psicologia, neurociência, filosofia, Medicina Chinesa e espiritualidade para ampliar a compreensão. Identificar a pergunta e o alcance de cada linguagem, preservando a experiência que ainda não ganhou explicação.
 
 ### Aula 5 — As Cinco Janelas: ampliar a leitura do que acontece
 
-Foco: Apresentação das lentes multidimensionais (corpo, emoção, mente, relações, espiritualidade) pelas quais a experiência humana se organiza. Perspectivas do Ocidente e do Oriente. Esclarecimentos sobre “eso” e “exo”.
+Foco: Apresentar corpo, emoção, mente, relações e espiritualidade como janelas interdependentes. Introduzir a árvore como imagem de desenvolvimento em relação com o ambiente, incluindo possibilidades pouco nutridas; situar a perspectiva transpessoal do autor sem exigir adesão.
 
 ### Aula 6 — Primeira Cartografia: localizar-se antes de responder
 
-Foco: Exercício prático para mapear a situação, notar manifestações da multidimensionalidade no corpo e estruturar uma tradução provisória.
+Foco: Mapear uma situação por palavras, traços, cores, imagens, gestos ou silêncio. Notar dimensões presentes e elaborar uma Tradução provisória, incluindo o que permanece desconhecido e uma participação possível.
 
 ### Aula 7 — Perder o eixo não significa perder o percurso
 
-Foco: Diferenciar a função pedagógica interna EIXO (retorno e diferenciação) do seu estado momentâneo, acolhendo e organizando as oscilações naturais.
+Foco: Observar estado, movimento, referência e participação pelo pêndulo; distinguir intensidade da experiência e restrição das respostas. Introduzir a espiral como reencontro com temas ao longo do tempo, incluindo impasses. EIXO orienta a participação sem exigir imobilidade.
 
 ## MÓDULO 2 — Aprenda a traduzir sua experiência sem reduzi-la
 
 ### Aula 1 — Perceber não é simplesmente copiar o mundo
 
-Foco: Como nossas expectativas anteriores e contexto moldam a percepção, explicando o funcionamento do cérebro preditivo como máquina que antecipa a realidade.
+Foco: Investigar como expectativas, aprendizagem, sinais corporais e contexto participam da percepção. Apresentar o processamento preditivo como família de modelos explicativos, em diálogo com a experiência, sem convertê-lo em teoria total da pessoa.
 
 ### Aula 2 — Por que alguns sinais ganham mais importância?
 
-Foco: Dinâmica da atenção, relevância sensorial e o aprisionamento cognitivo através dos padrões e crenças.
+Foco: Diferenciar notar estímulos, atribuir relevância, identificar sentimentos e comunicá-los. Apresentar alexitimia como dificuldade de identificar e descrever sentimentos; inibição latente como conceito experimental distinto. Explorar sensibilidade, aprendizagem e sobrecarga sem equivalência entre esses conceitos ou classificação dos alunos.
 
-O conceito de alexitimia e de Baixa Inibição Latente, demonstrando porque pessoas que aprendem a não sentir ou que são altamente sensíveis sofrem com sobrecarga de estímulos ambientais e como organizar esse fluxo.
 
 ### Aula 3 — Quando o mapa parece ser a própria realidade
 
-Foco: Notar como interpretações e predições antigas do cérebro criam "bolhas de realidade" rígidas pelo filtro do SARA, impedindo novas respostas.
+Foco: Investigar como expectativas, atenção, memória e contexto podem estabilizar interpretações e dificultar sua revisão. Situar o SARA e os sistemas de alerta como contribuição ao estado de vigília e disponibilidade atencional; explorar as bolhas de realidade como metáfora, sem atribuí-las a um único filtro cerebral.
 
 ### Aula 4 — Por que respostas familiares voltam?
 
-Foco: A economia do sistema nervoso: por que o cérebro prefere reutilizar predições conhecidas (padrões familiares de sobrevivência do "jacaré interior") para poupar energia biológica, mesmo quando causam sofrimento.
+Foco: Relacionar repetição a aprendizagem, pistas contextuais, familiaridade, consequências, proteção e vínculos. Apresentar economia e antecipação de recursos como uma lente complementar. A imagem do jacaré interior ilustra rapidez protetiva e não uma divisão anatômica ou evolutiva literal do cérebro.
 
 ### Aula 5 — O que aconteceu, o que foi vivido e o que foi interpretado
 
-Foco: Separação cirúrgica entre o fato bruto do ambiente, a resposta visceral do corpo e as camadas de interpretação mental subsequentes.
+Foco: Diferenciar o acontecimento observável, o vivido, as associações e as conclusões, reconhecendo influências recíprocas e incertezas. Investigar o percebido, o associado, o concluído e o desconhecido, sem pressupor separação completa entre corpo e interpretação.
 
 ### Aula 6 — Como construir e revisar uma Tradução provisória
 
-Foco: Prática de flexibilidade cognitiva: colocar diferentes explicações em diálogo e atualizar narrativas quando novos sinais surgem no corpo ou no ambiente.
+Foco: Construir e revisar uma Tradução provisória com diferentes mapas e linguagens. Perguntar o que percebi, associei, concluí e o que permanece desconhecido ou pode mudar minha leitura; sensibilidade inclui abertura e discernimento.
 
 ## MÓDULO 3 — Use o corpo como apoio para recuperar presença e orientação
 
 ### Aula 1 — O corpo muda o que fica acessível
 
-Foco: Entender a base biológica do acesso: como nosso estado fisiológico estreita ou expande as capacidades cognitivas e relacionais disponíveis no momento. Introdução ao conceito de Janela de Tolerância.
+Foco: Investigar como condições corporais e relacionais participam do acesso às respostas. Apresentar a Janela de Tolerância como mapa clínico e pedagógico; reconhecer que mobilização, repouso e apoio podem cumprir funções diferentes.
 
 ### Aula 2 — Interocepção: perceber e interpretar sinais internos
 
-Foco: Apresentação da interocepção (leitura dos sinais biológicos brutos pelo cérebro), demonstrando como rastrear batimentos, respiração e tensão sem pânico ou interpretação catastrófica.
+Foco: Apresentar interocepção como detecção, interpretação e integração de sinais internos, com processos conscientes e não conscientes. Explorar sensações e significados sem exigir foco interno contínuo; alternar com apoios externos quando isso favorecer a participação.
 
 ### Aula 3 — Como o organismo antecipa necessidades e distribui recursos
 
-Foco: Introdução aos conceitos de alostase e do orçamento corporal (body budget), ensinando a monitorar o gasto de energia biológica e reduzir o desgaste sistêmico crônico.
+Foco: Apresentar alostase como modelo de antecipação e regulação de necessidades. Usar orçamento corporal como metáfora para investigar demandas, descanso, nutrição, recursos e desgaste percebido, sem sugerir medição direta do metabolismo. Construir condições concretas de sustentação.
 
 ### Aula 4 — Mapas do sistema nervoso autônomo
 
-Foco: Reconhecer estados de mobilização (luta/fuga), proteção (colapso) e engajamento social sob as lentes práticas da Teoria Polivagal (acelerador e freio do sistema).
+Foco: Apresentar a fisiologia autonômica em termos amplos e a Teoria Polivagal como perspectiva específica de leitura de estados e relações, com hipóteses e debates próprios. Não inferir estados neurais diretamente de sensações nem igualar yin e yang a ramos autonômicos.
 
 ### Aula 5 — Energia e vitalidade nas tradições orientais
 
-Foco: Introduzir o conceito tradicional de Qi e o centro de energia (Tan Tien), correlacionando com a neurobiologia e respeitando  ambas as tradições sem misturá-las.
+Foco: Apresentar Qi, constituição, reserva e cultivo segundo as fontes utilizadas, distinguindo linguagem tradicional, experiência e aproximações contemporâneas. Situar Jing, Shen, Zhi e Dantian conforme pertinência, articulando sustentação, circulação e direção na trajetória de 25 anos de estudo e trabalho com MTC relatada por Fabiano.
 
 ### Aula 6 — Centro, circulação, limite e enraizamento
 
-Foco: Práticas corporais de enraizamento e orientação espacial para restabelecer a estabilidade física básica quando há ativação emocional excessiva.
+Foco: Explorar apoio, organização corporal, circulação e limites, reconhecendo diferentes finalidades e efeitos das práticas. Preparar o encontro ao vivo com corpo, respiração e intenção; apresentar o mapa tradicional da Órbita Microcósmica como possibilidade de desenvolvimento progressivo, sem antecipar seu protocolo completo.
 
 ### Aula 7 — Recursos de retorno: escolher, dosar e adaptar
 
-Foco: Aprender a selecionar e dosar estímulos — respiração, toques de automassagem, voz e som — para acalmar o sistema nervoso e retornar para a Janela de Tolerância.
+Foco: Experimentar recursos corporais, respiratórios, vocais e atencionais, observando o que favorece orientação, vitalidade ou participação em cada situação. Escolher, dosar e adaptar com orientação ao vivo, incluindo pausa e mudança de recurso; o objetivo não se restringe a acalmar.
 
 ## MÓDULO 4 — Diferencie emoções e padrões para ampliar suas respostas
 
 ### Aula 1 — Quando “estou mal” ainda diz muito pouco
 
-Foco: Como a falta de distinção interna sobrecarrega o orçamento do corpo; o trabalho de separação entre ativação fisiológica bruta (arousal) e sentimentos elaborados.
+Foco: Diferenciar sensações, ativação, sentimentos, contexto e necessidades sem exigir explicação imediata. Investigar o que ainda encontra pouca forma de expressão, acolhendo descrições aproximativas e registros não verbais.
 
 ### Aula 2 — Granularidade emocional: diferenças que ampliam possibilidades
 
-Foco: Desenvolver a granularidade emocional (a riqueza conceitual do "sommelier" das emoções) para ajudar o cérebro a classificar as sensações com precisão e reduzir a hiperatividade da amígdala.
+Foco: Desenvolver diferenciação emocional para reconhecer nuances e ampliar possibilidades de resposta. Situar estudos de granularidade e de nomeação afetiva como linhas relacionadas, mas distintas; efeitos experimentais não garantem redução de atividade da amígdala neste exercício.
 
 ### Aula 3 — Nomear para diferenciar, não para encerrar a experiência
 
-Foco: Aplicação do Exercício da Triangulação (Sensação Física + Contexto + Nome de Alta Resolução) e a Regra dos 3 Rótulos para forçar o cérebro preditivo a calibrar sua resposta de estresse.
+Foco: Experimentar a triangulação entre sensação percebida, contexto e nome provisório. Usar até três hipóteses de nomeação quando isso ajudar, admitindo imagem, gesto, silêncio e ainda não sei. Comparar o que cada leitura permite perceber e revisar, sem forçar uma explicação ou prometer recalibração neural.
 
 ### Aula 4 — Padrões como aprendizagem, proteção e relação
 
-Foco: Compreender o comportamento repetitivo não como um defeito de caráter ou erro biológico, mas como um mecanismo de adaptação e preservação de vínculos herdados. Lealdade invisível e membrana de proteção.
+Foco: Compreender padrões como aprendizagens e adaptações em relações e condições concretas. Usar a árvore para examinar proteção, heranças de cuidado, crescimento assimétrico e possibilidades pouco nutridas. A pessoa não se esgota no padrão ou na organização defensiva.
 
 ### Aula 5 — Partes internas como mapa de escuta
 
-Foco: Uso da metáfora de "partes internas" para dar voz e compreender as necessidades de diferentes lados de si em conflito, promovendo a autocompaixão.
+Foco: Utilizar partes internas como mapa de escuta de necessidades e conflitos, sem transformá-las em entidades fixas. Reconhecer competências desenvolvidas para sobreviver e possibilidades que ainda necessitam de cultivo.
 
 ### Aula 6 — Do automatismo a uma resposta possível
 
-Foco: Unificar o rastreamento físico, conceitual e histórico das “partes internas” para criar um pequeno espaço de intervalo consciente diante de um gatilho.
+Foco: Articular percepção corporal, hipóteses de leitura, história e condições atuais para experimentar uma resposta possível. Retomar o pêndulo e o exemplo ou cedo ou rompo, incluindo pedir tempo, negociar, buscar apoio ou afastar-se quando necessário.
 
 ## MÓDULO 5 — Oriente suas escolhas por valores, sentido e referência profunda
 
@@ -234,27 +237,27 @@ Foco: Apresentação didática de atitudes orientadas pelas perguntas norteadora
 
 ### Aula 3 — Os Três Eus e a função EIXO
 
-Foco: Apresentação didática das dimensões da consciência: Eu Básico (instintivo), Eu Médio (ego social) e Eu Superior (Self/referência), coordenados pela função EIXO (alinhamento).
+Foco: Apresentar os Três Eus como mapa autoral de funções: sustentação e sensibilidade, mediação reflexiva e orientação por sentido. Diferenciar Eu Superior, Self, Essência e referência profunda desde a introdução. EIXO participa da coordenação e não equivale a nenhum desses termos ou a uma estrutura cerebral.
 
 ### Aula 4 — Criar espaço entre impulso e escolha
 
-Foco: Como expandir Presença como um exercício para ampliar o intervalo temporal entre a ativação fisiológica e a ação, praticando a recategorização do arousal/ativação (redirecionar a energia da ansiedade ou medo para foco e prontidão).
+Foco: Investigar como presença, apoio e condições concretas podem ampliar possibilidades entre impulso e ação. Experimentar leituras alternativas da ativação quando pertinentes, sem exigir transformar medo em prontidão ou desconsiderar risco real.
 
 ### Aula 5 — Símbolos e imagens como recursos de orientação
 
-Foco: Como metáforas visuais, mitos e imagens simbólicas ajudam a organizar estados subjetivos que a linguagem conceitual não consegue abarcar.
+Foco: Explorar símbolos e imagens que organizam e também ajudam a descobrir sentidos ainda não reconhecidos. Trabalhar árvore e Cosmos, horizontalidade das relações e verticalidade do sentido como metáforas autorais, sem hierarquia de valor entre pessoas.
 
 ### Aula 6 — Espiritualidade como dimensão legítima da experiência humana
 
-Foco: Abordar a dimensão de conexão do ser humano separando os aspectos psicológicos, energéticos, religiosos e espirituais de forma madura e plural.
+Foco: Apresentar afirmativamente a espiritualidade como dimensão legítima da experiência e da perspectiva autoral. Diferenciar vivência, tradição, interpretação e proposição ontológica, acolhendo pluralidade e investigação sem adesão obrigatória.
 
 ### Aula 7 — Self, Essência, Alma, Eu Superior e Fonte
 
-Foco: Explorar e diferenciar as nomenclaturas que apontam para a referência profunda de identidade, sem forçar dogmas intelectuais.
+Foco: Diferenciar Self psicológico e junguiano, Essência, Alma, Eu Superior e Fonte segundo suas origens. Apresentar Essência, na perspectiva espiritual e transpessoal de Fabiano, como fundamento primordial que antecede e transcende a existência corporal. Distinguir essa perspectiva, experiência do participante, desenvolvimento da expressão e aprendizagem observável.
 
 ### Aula 8 — Discernimento espiritual: liberdade, autoridade e efeitos
 
-Foco: Preservação do senso crítico, da autonomia e da autoridade pessoal frente a diversidade da vida.
+Foco: Cultivar sensibilidade e discernimento: perceber, associar, concluir e manter aberto o desconhecido. Examinar liberdade, autoridade, efeitos, relações e responsabilidade sem medir Essência ou realização espiritual pelo desempenho, intensidade ou concordância com o educador.
 
 ## MÓDULO 6 — Integre diferenças e construa uma coerência possível
 
@@ -268,25 +271,25 @@ Foco: Desenvolver uma visão unificada que diferencie corpo, mente e espírito s
 
 ### Aula 3 — Sustentar ambivalências e aparentes contradições
 
-Foco: Aprender a habitar sentimentos contraditórios e dúvidas existenciais sem pressa ansiosa ou necessidade de soluções imediatistas.
+Foco: Sustentar ambivalências, dúvidas e aparentes contradições, reconhecendo ritmos e condições de maturação. Integrar também a falta de clareza e o que ainda não pode ser resolvido.
 
 ### Aula 4 — Mapa de Integração Funcional
 
-Foco: Identificar no percurso atual o que já pode ser unificado, o que ainda precisa de distanciamento seguro e o que exige tempo para maturação interna.
+Foco: Investigar o que pode ser articulado, o que requer diferenciação, distância, apoio ou tempo. Retomar sustentação, circulação e direção; integrar a experiência corporal orientada e, quando desenvolvida para a turma, a Órbita Microcósmica, preservando seu sentido tradicional.
 
 ### Aula 5 — Tradução e EIXO em espiral
 
-Foco: Entender os ciclos dentro do percurso: retornar a situações antigas com maior nível de presença, revisando as traduções que fazemos de nós mesmos e dos outros.
+Foco: Comparar reencontros com temas pela espiral: condições, participação, respostas e efeitos. Incluir mudanças, impasses, menor disponibilidade e retomadas sem melhora identificável; retornar ao tema não assegura progresso.
 
 ### Aula 6 — Presença situada e coerência possível
 
-Foco: Resgatar uma soberania pessoal real, porém madura e situada, reconhecendo os limites inerentes ao corpo, ao contexto físico e à nossa história.
+Foco: Construir coerência possível em condições corporais, relacionais e materiais reais. Investigar recursos pessoais e mudanças no ambiente: negociar demandas, buscar apoio, descansar, criar ou rever vínculos. Relacionar reconhecimento do essencial, integração e expressão.
 
 ## MÓDULO 7 — Leve o aprendizado para relações, limites e reparação
 
 ### Aula 1 — Expressar é traduzir a experiência para uma relação
 
-Foco: Traduzir a percepção e necessidades identificadas internamente em formas de linguagem que o outro possa de fato receber e assimilar.
+Foco: Traduzir o vivido em palavras, ritmo, gesto, silêncio, limite e ação conforme a relação. Examinar intenção e efeitos; comunicar com clareza não garante recepção ou concordância do outro. Incluir criatividade e expressão singular.
 
 ### Aula 2 — Falar do que você vive sem converter experiência em acusação
 
@@ -298,37 +301,37 @@ Foco: Acolher feedbacks e pontos de vista externos divergentes sem anular suas p
 
 ### Aula 4 — Colocar limites sem precisar apagar o outro
 
-Foco: Entender os limites saudáveis não como punição ou rejeição reativa, mas como um ato de responsabilidade e diferenciação relacional.
+Foco: Construir limites como diferenciação e cuidado, considerando contexto, reciprocidade e assimetrias de poder. Limites podem incluir negociação, proteção, distância e interrupção de contato.
 
 ### Aula 5 — Pertencimento, diferença e conflito
 
-Foco: Sustentar o vínculo afetivo e o respeito recíproco mesmo quando há divergências profundas de ideias ou estilos de vida.
+Foco: Investigar pertencimento e diferença sem obrigatoriedade de preservar todo vínculo. Considerar diálogo, renegociação, distanciamento e encerramento, conforme segurança, reciprocidade e condições reais.
 
 ### Aula 6 — Contribuição e serviço sem autoabandono
 
-Foco: Canalizar a alta sensibilidade e a criatividade no serviço consciente e na contribuição para o mundo sem resvalar no sacrifício neurótico crônico.
+Foco: Cultivar criatividade, expressão singular e contribuição, examinando condições de sustentação e tendências a assumir demandas além dos próprios recursos. Oferecer algo ao mundo pode incluir reconhecer e comunicar limites.
 
 ### Aula 7 — Efeitos e responsabilidade situada
 
-Foco: Assumir responsabilidade madura pelas consequências das próprias atitudes, fugindo tanto da culpa paralisante quanto da passividade vitimista.
+Foco: Reconhecer os efeitos da própria participação e o que pode ser ajustado, distinguindo responsabilidade, culpa e limites de controle. Considerar coerção, desigualdades, apoios e reciprocidade do campo sem culpabilizar quem sofre.
 
 ### Aula 8 — Reparar, aprender e reentrar no percurso
 
-Foco: A arte da reparação nas relações humanas, compreendendo os limites da conciliação e utilizando os erros como solo para aprendizagem contínua.
+Foco: Experimentar reparação por reconhecimento de efeitos, ajuste da forma e ações possíveis. Reparar não exige reconciliação nem abandono daquilo que se busca expressar; inclui limites, aprendizagem e continuidade.
 
 ## MÓDULO 8 — Conclusão e continuidade
 
 ### Aula 1 — Resumo da jornada
 
-Foco: Recapitulação integrativa de todas as capacidades desenvolvidas: compreender a reatividade, regular o orçamento corporal, observar com granularidade, orientar por valores e expressar-se no mundo.
+Foco: Retomar reconhecimento, acesso, cultivo e expressão: compreender como a vida se organizou, construir condições de participação e sustentar possibilidades ainda pouco desenvolvidas. Relacionar árvore, pêndulo, espiral e circulação sem exigir memorização de todos os mapas.
 
 ### Aula 2 — Próximos passos
 
-Foco: Elaboração de uma trilha prática autônoma individual, com diretrizes diárias para manter as capacidades de regulação e tradução acessíveis na vida real.
+Foco: Construir um percurso pessoal de cuidado da base, nutrição, circulação, expressão e revisão. Selecionar práticas, apoios e condições realistas; combinar autonomia, interdependência e continuidade de cultivo.
 
 ### Aula 3 — Convite para continuidade
 
-Foco: Fortalecer a comunidade de apoio mútuo como o ambiente ideal para nutrir e manter as novas capacidades ativas ao longo do tempo.
+Foco: Apresentar a comunidade como possibilidade de troca, dúvidas e integração, cuja pertinência depende da pessoa e das condições do grupo. Reconhecer outros apoios e preservar liberdade de continuidade, sem idealizar a comunidade ou fazê-la requisito de autonomia.
 
 ## 6. Qual o preço pensa em cobrar por esse produto?
 
@@ -340,13 +343,13 @@ Garantia: 7 dias para solicitação de reembolso direto pela plataforma, sem pro
 
 ## 7. Descreva abaixo quais bônus pretende dar no seu curso e faça um resumo do benefício da transformação de cada um desses bônus na vida do seu cliente. (não é obrigatório)
 
-Bônus 1. Mapas Visuais do Percurso — Representações gráficas das dimensões da experiência, do funcionamento da reatividade biológica, dos sinais de alerta e do caminho de retorno. Facilita a consolidação visual de conceitos complexos.
+Bônus 1. Mapas Visuais do Percurso — Imagens para investigar dimensões, desenvolvimento, campo, sustentação, movimento, reencontros e possibilidades de expressão. Árvore, pêndulo, espiral, circulação e árvore em relação com o Cosmos são apresentados conforme sua função pedagógica.
 
-Bônus 2. Fichas de Exercícios Práticos — Questionários, diários de interocepção, roteiros do Exercício da Triangulação e tabelas de observação atreladas a cada aula para apoiar a transição prática do conteúdo para o cotidiano.
+Bônus 2. Fichas de Exercícios Práticos — Registros breves, verbais e não verbais, escolhidos conforme a aula. Incluem percebido, associado, concluído e desconhecido; condições de participação, efeitos, apoios e transferência à vida. Não é necessário preencher todos os campos em toda prática.
 
-Bônus 3. Guia de Palavras e Conceitos (formato E-book) — Glossário semântico e conceitual essencial para treinar o cérebro em conceitos emocionais de alta resolução, expandindo ativamente a granularidade emocional.
+Bônus 3. Guia de Palavras e Conceitos (formato E-book) — Guia de funções, fontes e usos de termos psicológicos, científicos, tradicionais e espirituais, com exemplos e distinções. Amplia o vocabulário sem exigir nomeação e sem substituir a experiência por categorias.
 
-Recurso Complementar. Comunidade de Continuidade — Espaço moderado para troca segura entre participantes, suporte de práticas de autorregulação e sustentação do percurso após as aulas.
+Recurso Complementar. Comunidade de Continuidade — Possibilidade de troca, cultivo, dúvidas e integração. Sua pertinência depende das condições do grupo e de cada participante; não constitui requisito de autonomia nem garantia de sustentação suficiente para todos. Duração, moderação e regras de funcionamento precisam ser explicitadas na oferta.
 
 ## 8. Descreva as grandes dificuldades que seu cliente tem por não ter os benefícios do seu produto em sua vida
 
@@ -354,7 +357,7 @@ A fragmentação central: Sentir um "abismo" entre aquilo que a pessoa já compr
 
 Acumular uma quantidade imensa de conhecimento psicológico e espiritual, mas perceber que ele "desaparece" e perde o acesso quando é criticado ou mobilizado em uma discussão real.
 
-Vivenciar dores físicas e emocionais profundas (como taquicardia, aperto e estresse genérico), mas não encontrar as palavras corretas para traduzir o que está acontecendo, sentindo-se desorganizado ou exagerado.
+Vivenciar dores físicas e emocionais profundas (como taquicardia, aperto e estresse genérico), mas ainda não encontrar formas de reconhecer e comunicar o que está acontecendo, sentindo-se desorganizado ou exagerado.
 
 Confundir o fato que ocorreu, a reação biológica que surgiu no corpo, a emoção gerada, o pensamento reativo e as projeções mentais criadas a partir do passado.
 
@@ -374,7 +377,9 @@ Não conseguir colocar limites claros em suas relações por medo do conflito ou
 
 Público prioritário: Homens e mulheres adultos, com foco comunicativo em pessoas de 35 a 60 anos.
 
-Pré-requisitos vivenciais: Indivíduos com trajetória prévia em terapia, autoconhecimento, estudos filosóficos ou jornadas de espiritualidade plural.
+Trajetórias possíveis: experiências anteriores em terapia, autoconhecimento, filosofia ou espiritualidade podem enriquecer o percurso, mas não constituem pré-requisito de entrada.
+
+Persona de referência: Adultos que desejam ampliar sua participação consciente na própria vida, desenvolver recursos pessoais e reconhecer os apoios e condições necessários para sustentar escolhas, relações e possibilidades de expressão.
 
 Perfil cognitivo: Pessoas com facilidade de autorreflexão, alto senso crítico, que buscam profundidade intelectual com ancoragem real na vida cotidiana e recusam promessas milagrosas ou simplificações baratas.
 
@@ -385,6 +390,8 @@ Idade: Foco comunicativo em pessoas de 35 a 60 anos.
 Desejos / sonhos: Transformar o autoconhecimento acumulado em capacidades mais disponíveis na vida real; integrar ciência, psicologia e espiritualidade plural; responder com mais clareza, presença, coerência, autonomia e direção.
 
 Medos / objeções: Receio de encontrar apenas mais teoria, fórmulas mágicas, dogmas ou uma nova cobrança de desempenho; medo de que o repertório desapareça sob pressão e de não conseguir sustentar limites, escolhas e mudanças no cotidiano.
+
+Possibilidades pouco reconhecidas ou cultivadas: desejar criar, relacionar-se ou contribuir de outras formas, mas ainda não ter encontrado linguagem, aprendizagem, apoio ou condições para desenvolvê-las.
 
 ## 10. Quais são os problemas da sua audiência que o seu curso/produto resolve?
 
@@ -398,6 +405,8 @@ Excesso de conhecimento desconectado: O acúmulo de mapas científicos, terapêu
 
 Inacessibilidade das capacidades no cotidiano: O desaparecimento do repertório de autoconhecimento justamente nos instantes em que o estresse, a provocação ou a vulnerabilidade exigem uma resposta situada.
 
+Desenvolvimento ainda sem condições: reconhecer desejos e capacidades possíveis, mas precisar de experiências, apoios e tempo para lhes dar forma.
+
 ## 11. Liste abaixo de 5 a 10 temas e/ou headlines de assuntos que o seu público pergunta/interage bastante.
 
 Por que eu compreendo racionalmente todos os meus padrões, mas continuo repetindo-os quando sou criticado?
@@ -408,15 +417,15 @@ Como voltar ao presente e recuperar orientação quando meu corpo físico entra 
 
 É possível aproximar ciência, psicologia e espiritualidade integrativa sem precisar aceitar dogmas ou respostas únicas?
 
-Como estabelecer limites saudáveis com familiares ou parceiros sem carregar culpa, rigidez ou causar rupturas?
+Como estabelecer limites saudáveis com familiares ou parceiros reconhecendo culpa, conflitos e quando é necessário renegociar ou encerrar um vínculo?
 
 Por que experiências terapêuticas marcantes que mudam nossa percepção momentaneamente às vezes não conseguem mudar nossa vida prática?
 
 Como fazer da alta sensibilidade e da percepção intensa um recurso autêntico em vez de uma sobrecarga sensorial crônica?
 
-BLOCO COMPLEMENTAR — GOVERNANÇA CANÔNICA
+BLOCO COMPLEMENTAR — REFERÊNCIAS DE TRABALHO
 
-Consolidação de referência: 23 de agosto de 2026.
+Antecedente de consolidação: 23 de agosto de 2026; Word confirmado em 24 de outubro. Revisão de trabalho solicitada em 30 de outubro de 2026.
 
 Arquitetura pública e de entrega: 9 módulos e 54 aulas curtas e progressivas.
 
@@ -426,7 +435,7 @@ Headline de Entrada: Por que você entende seus padrões, mas continua repetindo
 
 Subtítulo: Da compreensão acumulada à presença que sustenta.
 
-Mecanismo de Ensino: Tradução da Experiência Humana — a habilidade de diferenciar o fato do corpo, da emoção, da história e das predições, abrindo espaço para uma resposta situada consciente.
+Mecanismo de Ensino: Tradução da Experiência Humana — reconhecer e diferenciar dimensões do vivido, por linguagens verbais e não verbais, colocando mapas em diálogo para ampliar possibilidades de participação e expressão situada.
 
 Função Pedagógica EIXO: É um mapa interno de retorno, diferenciação e orientação prática. Não deve ser anunciado como um método comercial apartado ou marca paralela de mercado.
 
@@ -434,4 +443,4 @@ Definição de Presença que Sustenta: Presença suficiente para continuar em co
 
 Definição de Competência Incorporada: Quando aquilo que você compreendeu começa a ficar mais disponível nas situações reais da vida. Deve ser ensinado progressivamente e nunca apresentado como headline fria de aquisição em páginas ou anúncios.
 
-Forma de Comunicação Obrigatória: É proibido prometer a eliminação definitiva de padrões, o destravar instantâneo de potencial ou o equilíbrio permanente. Toda comunicação deve focar em respostas situadas, maior legibilidade da experiência, recuperação de orientação e desenvolvimento gradual de capacidades.
+Forma de Comunicação Obrigatória: É proibido prometer a eliminação definitiva de padrões, o destravar instantâneo de potencial ou o equilíbrio permanente. Toda comunicação deve focar em respostas situadas, maior legibilidade da experiência, recuperação de orientação e desenvolvimento gradual de capacidades e cultivo de possibilidades ainda pouco expressas.
