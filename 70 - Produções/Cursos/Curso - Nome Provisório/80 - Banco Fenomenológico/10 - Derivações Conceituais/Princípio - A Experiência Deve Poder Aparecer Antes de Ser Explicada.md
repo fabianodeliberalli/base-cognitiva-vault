@@ -27,3 +27,11 @@ Colonização interpretativa: substituir prematuramente a forma emergente da exp
 - [[Princípio - Abertura Ontológica e Hospitalidade Epistemológica]]
 - [[Matriz de Discernimento da Experiência]]
 - [[CASO-004 - O Executivo, o Contemplativo e o Oni - 02 - Observações Fenomenológicas]]
+
+## Refinamento incorporado em 30 de outubro de 2026
+
+O princípio ganha aplicação educacional: sensações, imagens, afetos, gestos e silêncios podem participar do reconhecimento antes de encontrar palavras. Uma descrição provisória e o reconhecimento do desconhecido são resultados legítimos da Tradução.
+
+Preservar a origem clínica desta nota; o uso no curso não transporta automaticamente procedimentos clínicos. A Cartografia de M1.6 e as aulas M2.5–M2.6 oferecem destinos para a formulação geral.
+
+Fonte integrativa: [[TSH - Síntese Integrativa do Refinamento]]. Incorporação solicitada por Fabiano; práticas descritas permanecem propostas de desenvolvimento e condução autoral.

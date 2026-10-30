@@ -43,7 +43,9 @@ Registre apenas as dimensões que realmente aparecerem.
 
 - O que consigo descrever?
 - Que nomes utilizo?
-- O que já é interpretação?
+- O que associei ao que percebi?
+- O que já é interpretação ou conclusão?
+- O que permanece desconhecido ou sem palavras?
 
 ....................................................................................
 
@@ -72,3 +74,9 @@ Se ajudar, utilize palavra, traço, cor, forma, símbolo, postura, movimento ou 
 Neste momento, reconheço ............................................................
 
 Para permanecer presente, ajuda ....................................................
+
+## Nota de desenvolvimento — 30 de outubro de 2026
+
+A ficha permanece um protótipo revisável, aproveitável em M1.6. Cultivar sensibilidade e discernimento: uma impressão sensível pode orientar uma pergunta e continuar aberta à confirmação, à revisão ou à ausência de confirmação. Sensações, imagens, afetos, gestos e silêncios participam do reconhecimento; não é necessário concluir um sentido.
+
+Fonte: [[TSH - Síntese Integrativa do Refinamento]].

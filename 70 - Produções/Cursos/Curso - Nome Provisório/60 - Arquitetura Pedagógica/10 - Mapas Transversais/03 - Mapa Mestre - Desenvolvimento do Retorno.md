@@ -128,3 +128,11 @@ Competência incorporada não é saber explicar o mapa. É tornar reconhecimento
 - Fonte conceitual oficial: esta nota.
 - Uso inicial: introdução breve na Unidade 0.2, após a distinção entre oscilação e percurso.
 - Derivações: auto-observação formativa ao longo das seis fases, conforme [[20 - Sistema Visual/00 - Sistema Visual dos Mapas - Traduzindo o Ser Humano]].
+
+## Refinamento incorporado em 30 de outubro de 2026
+
+Comparar reconhecimento, intensidade, duração, condições, apoios, participação e efeitos, incluindo impasses e perdas de recursos. Menor oscilação não é objetivo universal; interessa sua relação com vitalidade, orientação e possibilidades de resposta.
+
+A base permanece em cuidado durante toda a expansão. Criatividade, espiritualidade e expressão não dependem de estar inteiramente regulado ou resolvido. O registro longitudinal pode começar com as quatro entradas do pêndulo e aprofundar apenas as dimensões pertinentes.
+
+Fonte integrativa: [[TSH - Síntese Integrativa do Refinamento]]. Incorporação solicitada por Fabiano; práticas descritas permanecem propostas de desenvolvimento e condução autoral.

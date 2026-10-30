@@ -20,3 +20,11 @@ Não é sinônimo de empatia, afinidade ou fusão. Deve dialogar com corregulaç
 ## Inserção
 
 Conteúdo relacional transversal, com aprofundamento posterior e presença obrigatória na formação de educadores.
+
+## Refinamento incorporado em 30 de outubro de 2026
+
+O campo inclui condições que influenciam a pessoa e condições que ela ajuda a constituir. Pergunta de Tradução: além do que esse ambiente produz em mim, como minha participação modifica esse ambiente?
+
+Trabalhar cenas concretas: pedir tempo, mudar o tom ou comunicar um limite e observar o que acontece. Influência recíproca não significa poder igual; considerar dependência, recursos e assimetrias. Ressonância estrutural continua hipótese de aprofundamento para o educador, sem necessidade de ensinar o termo no curso geral. Aplicação transversal em M6 e M7.
+
+Fonte integrativa: [[TSH - Síntese Integrativa do Refinamento]]. Incorporação solicitada por Fabiano; práticas descritas permanecem propostas de desenvolvimento e condução autoral.

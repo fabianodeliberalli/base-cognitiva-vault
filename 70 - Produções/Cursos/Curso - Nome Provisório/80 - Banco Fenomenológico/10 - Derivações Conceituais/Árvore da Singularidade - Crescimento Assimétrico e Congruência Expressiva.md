@@ -33,3 +33,19 @@ A expressão “congruência expressiva” permanece hipótese de trabalho até 
 - [[CASO-003 - A Singularidade que Busca Expressão - 03 - Hipóteses e Correlações]]
 - [[CASO-004 - O Executivo, o Contemplativo e o Oni - 03 - Hipóteses e Correlações]]
 - [[Síntese Emergente - Da Potência à Expressão - Versão de Trabalho]]
+
+## Refinamento incorporado em 30 de outubro de 2026
+
+### Capacidade disponibilidade e expressão
+
+1. Capacidade: consigo realizar?
+2. Disponibilidade: consigo acessar e sustentar essa capacidade nesta situação?
+3. Expressão: como seu uso se relaciona ao que considero significativo e à vida que desejo cultivar?
+
+Congruência expressiva permanece hipótese de trabalho. Sua distinção de competência é pedagogicamente útil sem impor novo vocabulário ao participante. Cultivar outros ramos pode envolver tempo, apoio, negociação e recursos; não exige abandonar capacidades anteriores ou tornar a árvore simétrica.
+
+### Campo e efeitos
+
+Investigar também: como minha participação modifica esse ambiente? Reciprocidade não implica igualdade de poder. Expressão se desenvolve no encontro com seus efeitos, podendo exigir ajuste ou reparação sem abandono da necessidade reconhecida.
+
+Fonte integrativa: [[TSH - Síntese Integrativa do Refinamento]]. Incorporação solicitada por Fabiano; práticas descritas permanecem propostas de desenvolvimento e condução autoral.

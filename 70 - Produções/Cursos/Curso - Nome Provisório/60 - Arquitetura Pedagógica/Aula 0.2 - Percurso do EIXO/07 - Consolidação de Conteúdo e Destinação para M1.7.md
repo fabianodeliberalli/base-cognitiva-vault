@@ -6,7 +6,7 @@ destino_entrega: "M1.7"
 status: consolidado-v1.1-para-derivacao-audiovisual
 versao: "1.1"
 criado_em: 2026-08-22
-atualizado_em: 2026-08-23
+atualizado_em: 2026-10-30
 autor_do_curso: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 gravacao_autorizada: false
@@ -52,7 +52,7 @@ Essa formulação preserva simultaneamente três responsabilidades:
 
 | Nível | Estatuto | O que pode acontecer |
 |---|---|---|
-| Centro, Essência ou Self | referência profunda de identidade, integração, sentido e direção | não é tratado como estado emocional que aparece e desaparece; o contato consciente e a expressão dessa referência podem variar |
+| Referência profunda | referência profunda de identidade, integração, sentido e direção | não é tratado como estado emocional que aparece e desaparece; o contato consciente e a expressão dessa referência podem variar |
 | EIXO | capacidade funcional de contato, reconhecimento, coordenação, retorno e orientação | pode estar mais ou menos disponível e torna-se progressivamente incorporado pela experiência e pelo treino |
 | Estado momentâneo | condição corporal, afetiva, cognitiva e relacional | oscila conforme intensidade, cansaço, memória, ambiente, vínculo, contexto, previsões e segurança suficiente |
 | Acesso às capacidades | disponibilidade prática do que já foi aprendido | pode se estreitar, ampliar ou reorganizar sem que a aprendizagem tenha sido apagada |
@@ -100,13 +100,13 @@ Usar o [[01 - Mapa Mestre - Referência, EIXO e Estado]] em sua versão simples:
 
 | O que permanece como referência | O que se desenvolve | O que varia |
 |---|---|---|
-| Centro, Essência ou Self | EIXO | estado momentâneo e acesso às capacidades |
+| Referência profunda | EIXO | estado momentâneo e acesso às capacidades |
 
 **Definição operacional:**
 
 > “EIXO é a capacidade progressiva de perceber o afastamento, recuperar presença possível, diferenciar a experiência, reencontrar orientação e ampliar a liberdade da resposta.”
 
-**Guardas obrigatórias:** EIXO não é centro fixo, ausência de oscilação, controle de todas as partes, estado superior ou segunda marca do curso. Centro, Essência e Self funcionam aqui como linguagens de referência profunda; não são apresentados como equivalências ontológicas obrigatórias.
+**Guardas obrigatórias:** EIXO não é centro fixo, ausência de oscilação, controle de todas as partes, estado superior ou segunda marca do curso. Essência, Self e centro conservam sentidos próprios; a legenda didática é Referência profunda. A definição atual de Essência está no Léxico Mestre.
 
 ### Movimento 4 — Pêndulo, espiral e percurso
 
@@ -172,7 +172,7 @@ Utilizar uma situação cotidiana de intensidade leve ou moderada. A pessoa pode
 #### Prática — Reconhecer para retornar
 
 1. **Situação:** o que aconteceu?
-2. **Estado:** o que mudou no corpo, atenção, emoção, pensamento ou impulso?
+2. **Estado e movimento:** como estou e para onde minha experiência está se deslocando? O que mudou no corpo, atenção, emoção, pensamento ou impulso?
 3. **Acesso:** o que eu sabia ou conseguia fazer e ficou menos disponível?
 4. **Condições:** o que participou — contexto, vínculo, cansaço, intensidade, memória, ambiente?
 5. **Retorno possível:** apoio, pausa, movimento, limite, palavra, tempo ou contato com uma referência?
@@ -258,3 +258,13 @@ Resultado:
 - [[06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54]]
 - [[07 - Deliberação Transversal - Posicionamento, Linguagem e Arquitetura Dupla - 2026-08-23]]
 
+
+## Refinamento incorporado em 30 de outubro de 2026
+
+As quatro entradas de orientação são **estado** (como estou), **movimento** (para onde a experiência se desloca), **referência** (o que ajuda a reconhecer e orientar o movimento) e **participação** (o que consigo fazer nas condições presentes). Elas articulam as sete perguntas já desenvolvidas, sem exigir um segundo formulário.
+
+Intensidade vivida e amplitude das possibilidades de resposta não são a mesma medida. Investigar também velocidade, permanência, transições, recuperação, contexto relacional e efeitos. A espiral admite impasses e retomadas; reencontrar um tema não comprova progresso nem regressão por si só.
+
+Ampliar o mapa pode revelar caminhos; o percurso envolve construir condições para caminhar por eles. No exemplo “ou cedo ou rompo”, distinguir compreensão, condições de participação e experimentação com integração.
+
+A legenda histórica “Centro, Essência ou Self” foi refinada para Referência profunda. Este acréscimo atualiza a base para derivação; não autoriza gravação nem fixa duração. Fonte: [[TSH - Síntese Integrativa do Refinamento]].

@@ -60,3 +60,25 @@ A Tradução passa a relacionar-se de forma estrutural com [[Princípio de Recur
 
 - Confirmar a autoria institucional e a formulação canônica.
 - Delimitar usos pedagógicos, clínicos e investigativos sem confundi-los.
+
+## Refinamento incorporado em 30 de outubro de 2026
+
+### Finalidade formativa
+
+Favorecer o reconhecimento, a integração e a expressão das possibilidades da Essência, considerando as condições concretas em que a singularidade se desenvolve.
+
+A definição operacional de legibilidade permanece. A finalidade explicita a serviço de que a Tradução participa do TSH. Reconhecimento não garante integração nem expressão: tempo, apoio, relações, prática e condições materiais também participam.
+
+### Experiências que ainda não encontraram palavras
+
+A Tradução acolhe sensações, imagens, afetos, gestos e silêncios. Quando o sentido permanece aberto, pode sustentar uma descrição provisória, reconhecer o que ainda não sabemos e permitir outras formas de compreensão.
+
+### Sensibilidade e discernimento
+
+Captação sensível é a disponibilidade para notar nuances corporais, afetivas, imagéticas e relacionais, inclusive sem formulação clara. Cultivar: o que percebi? O que associei? O que concluí? O que permanece desconhecido ou pode modificar essa leitura?
+
+Uma impressão corporal ou intuitiva pode orientar uma pergunta aberta à confirmação, à revisão ou à ausência de confirmação. Na relação, a pergunta admite discordância; perceber não autoriza afirmar a experiência do outro.
+
+Aplicações: M1.6, M2.5–M2.6, M3.2, M5.8 e relações em M7.
+
+Fonte integrativa: [[TSH - Síntese Integrativa do Refinamento]]. Incorporação solicitada por Fabiano; práticas descritas permanecem propostas de desenvolvimento e condução autoral.

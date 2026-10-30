@@ -5,7 +5,7 @@ recorte_entrega: "M1.1-M1.7"
 status: referencia-atual-revisavel
 versao: "1.2"
 criado_em: 2026-08-23
-atualizado_em: 2026-10-24
+atualizado_em: 2026-10-30
 gravacao_autorizada: false
 ---
 
@@ -68,3 +68,15 @@ A presença de um arquivo preliminar de M1.1 não significa que a produção ten
 - [[05 - Nota-Ponte - Desenvolvimento do Conteúdo 7-14 e Entrega 9-54]]
 - [[06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54]]
 - [[07 - Deliberação Transversal - Posicionamento, Linguagem e Arquitetura Dupla - 2026-08-23]]
+
+## Refinamento integrado às bases de desenvolvimento — 30 de outubro de 2026
+
+Referência: [[TSH - Síntese Integrativa do Refinamento]]. O documento revisado e sua transcrição integral integram o acervo. Os materiais continuam revisáveis; não há mudança automática de autorização audiovisual.
+
+| Destino | Contribuição para o desenvolvimento |
+|---|---|
+| M1.1–M1.3 | Distinguir reconhecer, acessar e construir condições de participação. |
+| M1.4–M1.6 | Acolher experiência não verbal, descrição provisória e desconhecido; diferenciar percebido, associado e concluído. A Cartografia existente recebeu essas perguntas. |
+| M1.7 | Integrar estado, movimento, referência e participação à prática já existente; distinguir intensidade de acesso, pêndulo de espiral e compreensão de condições de ação. |
+
+As retomadas em M2–M8 estão discriminadas na síntese. MTC, Órbita Microcósmica, árvore e Cosmos conservam linguagem, procedência e função próprias. Práticas requerem desenvolvimento de instrução, observação e transferência conforme as escolhas de Fabiano.

@@ -5,7 +5,7 @@ curso: nome-provisorio
 status: referencia-atual-revisavel
 versao: "4.0"
 criado_em: 2026-07-21
-atualizado_em: 2026-10-24
+atualizado_em: 2026-10-30
 autor: Fabiano Deliberalli
 autoridade_de_decisao: Fabiano Deliberalli
 ---
@@ -30,6 +30,12 @@ Para o contexto comum dos assistentes e a leitura atual do projeto, consultar:
 
 - [[10 - Contrato Comum de Contexto para Assistentes de IA]];
 - [[11 - Contexto Mínimo - Traduzindo o Ser Humano]].
+
+## Refinamento integrativo — 30 de outubro de 2026
+
+Consultar [[TSH - Síntese Integrativa do Refinamento]] e [[TSH-Sintese-Integrativa-do-Refinamento.docx|documento revisado integral]]. A síntese articula Essência, Tradução, Árvore da Singularidade, pêndulo, EIXO, espiral, circulação e horizonte transpessoal. Seus refinamentos foram distribuídos nas notas conceituais e nos materiais de desenvolvimento pertinentes.
+
+A decisão de incorporação não torna toda prática candidata um roteiro final. Fabiano mantém a escolha e a condução autoral; protocolos anteriores são referências revisáveis. O Raio X vigente permanece preservado. A síntese indica destinos de contribuição, sem criar nova arquitetura.
 
 ## Referências atuais
 

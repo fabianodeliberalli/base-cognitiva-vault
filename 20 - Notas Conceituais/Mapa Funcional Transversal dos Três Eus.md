@@ -6,7 +6,7 @@ status: aprovado-no-projeto-nao-canonico-no-metodo
 natureza: mapa-funcional-transversal-autoral
 autor: Fabiano Deliberalli
 criado_em: 2026-07-18
-atualizado_em: 2026-07-18
+atualizado_em: 2026-10-30
 fontes:
   - "[[Arquitetura Invisível]]"
   - "[[Três Eus, Jung e Rede Tripartite]]"
@@ -201,3 +201,11 @@ A matriz será preenchida depois de:
 > **Self × Essência × Alma:** determinar se os três termos descrevem realidades diferentes, funções distintas, tradições linguísticas diferentes ou perspectivas complementares do mesmo horizonte espiritual.
 
 Essa deliberação antecede módulos, aulas e o preenchimento da Matriz de Inserção Transversal.
+
+## Refinamento incorporado em 30 de outubro de 2026
+
+As Cinco Janelas oferecem dimensões de observação; os Três Eus distinguem funções; a árvore situa desenvolvimento; o pêndulo acompanha movimento; a espiral compara reencontros; o EIXO orienta participação. Não é necessário usar todos numa mesma aula.
+
+Raízes, tronco e copa não equivalem a Eu Básico, Eu Médio e Eu Superior. Espiritualidade participa da árvore inteira. O conceito de Essência deve seguir o verbete atualizado no [[Léxico Mestre do Traduzindo o Ser Humano]], preservando as distinções de Self, Eu Superior e Fonte. M5.3 e M5.7 são destinos atuais do diálogo, sem transportar numerações históricas.
+
+Fonte integrativa: [[TSH - Síntese Integrativa do Refinamento]]. Incorporação solicitada por Fabiano; práticas descritas permanecem propostas de desenvolvimento e condução autoral.

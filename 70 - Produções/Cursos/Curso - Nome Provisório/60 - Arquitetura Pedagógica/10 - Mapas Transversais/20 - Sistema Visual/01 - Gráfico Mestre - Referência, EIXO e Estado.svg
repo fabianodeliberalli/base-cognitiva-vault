@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="t d">
-<title id="t">Mapa Referência, EIXO e Estado</title><desc id="d">Mapa radial mostrando Essência no centro, EIXO como anel de coordenação, estado e acesso em camada variável, condições da experiência no campo externo e participação como expressão observável.</desc>
+<title id="t">Mapa Referência, EIXO e Estado</title><desc id="d">Mapa radial mostrando referência profunda no centro, EIXO como anel de coordenação, estado e acesso em camada variável, condições da experiência no campo externo e participação como expressão observável.</desc>
 <defs><style>
 .title{font:700 48px Georgia,serif;fill:#F4EFEA}.sub{font:400 24px Arial,sans-serif;fill:#DDE7E3}
 .h{font:700 27px Arial,sans-serif;fill:#F4EFEA}.b{font:400 22px Arial,sans-serif;fill:#F4EFEA}
@@ -9,7 +9,7 @@
 <ellipse cx="770" cy="474" rx="505" ry="275" fill="#245E78" opacity=".24" stroke="#7E9E84" stroke-width="2" stroke-dasharray="9 12"/>
 <text x="310" y="250" class="label">CONDIÇÕES DA EXPERIÊNCIA</text>
 <g filter="url(#shadow)"><circle cx="770" cy="474" r="190" fill="#245E78" stroke="#F4EFEA" stroke-width="3"/><circle cx="770" cy="474" r="118" fill="#F4EFEA"/></g>
-<text x="770" y="452" text-anchor="middle" style="font:700 27px Georgia,serif;fill:#173F52">Centro · Essência · Self</text><text x="770" y="487" text-anchor="middle" style="font:400 20px Arial;fill:#375A61">referência profunda</text><text x="770" y="518" text-anchor="middle" style="font:400 18px Arial;fill:#375A61">identidade · sentido · direção</text>
+<text x="770" y="452" text-anchor="middle" style="font:700 27px Georgia,serif;fill:#173F52">Referência</text><text x="770" y="487" text-anchor="middle" style="font:400 20px Arial;fill:#375A61">profunda</text><text x="770" y="518" text-anchor="middle" style="font:400 18px Arial;fill:#375A61">identidade · sentido · direção</text>
 <text x="770" y="310" text-anchor="middle" class="label">EIXO</text><text x="770" y="340" text-anchor="middle" class="small">contato · reconhecimento · coordenação · orientação</text>
 <g><rect x="168" y="365" width="330" height="116" rx="24" fill="#6E5C4D"/><text x="333" y="407" text-anchor="middle" class="h">Corpo e memória</text><text x="333" y="441" text-anchor="middle" class="small">história · intensidade · ritmo</text></g>
 <g><rect x="1042" y="365" width="330" height="116" rx="24" fill="#6E5C4D"/><text x="1207" y="407" text-anchor="middle" class="h">Contexto e vínculos</text><text x="1207" y="441" text-anchor="middle" class="small">ambiente · relação · segurança</text></g>

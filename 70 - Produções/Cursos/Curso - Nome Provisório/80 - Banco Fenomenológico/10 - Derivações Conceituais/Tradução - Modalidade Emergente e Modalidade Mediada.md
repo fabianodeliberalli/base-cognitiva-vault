@@ -32,3 +32,11 @@ Determinar o que esta distinção acrescenta em relação a mentalização, meta
 ## Relações
 - [[Princípio - A Experiência Deve Poder Aparecer Antes de Ser Explicada]]
 - [[Síntese Emergente - Da Potência à Expressão - Versão de Trabalho]]
+
+## Refinamento incorporado em 30 de outubro de 2026
+
+As modalidades emergente e mediada permanecem hipóteses úteis de desenvolvimento. A abertura à experiência não verbal foi incorporada à formulação pedagógica da Tradução: a pessoa pode reconhecer algo em sensação, imagem, afeto, gesto ou silêncio e conservar o sentido provisório.
+
+A mediação oferece perguntas e imagens sem substituir o vivido pela teoria do educador. O cultivo da captação sensível distingue percebido, associado, concluído e desconhecido.
+
+Fonte integrativa: [[TSH - Síntese Integrativa do Refinamento]]. Incorporação solicitada por Fabiano; práticas descritas permanecem propostas de desenvolvimento e condução autoral.

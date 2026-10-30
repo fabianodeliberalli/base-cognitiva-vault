@@ -37,3 +37,11 @@ Esta atualização amplia a nota original:
 - Qi pode funcionar como linguagem tradicional para transformações de configuração corporal e vital;
 - Laogong, Dantian, Zhi, Coração–Rins, Cinco Fases e técnicas respiratórias passam a ter fundamentação específica no patrimônio;
 - correlações neurofisiológicas entram como interlocução quando úteis, não como condição de legitimidade do Qi Gong.
+
+## Refinamento incorporado em 30 de outubro de 2026
+
+O cultivo pode servir à sustentação, circulação e direção. A imagem da bateria é uma entrada para constituição e cuidado contínuo, sem esgotar a dinâmica de Qi. Corpo, respiração e intenção podem ser investigados um de cada vez para discriminar suas relações, sem pressupor isolamento fisiológico.
+
+Retomar [[00 - Fundamento Integrado - Qi, Corpo, Respiração, Intenção e Articulação Multirreferencial]] em M3.5–M3.7. A seleção e condução pertencem a Fabiano; classificações e protocolos anteriores são referências revisáveis.
+
+Fonte integrativa: [[TSH - Síntese Integrativa do Refinamento]]. Incorporação solicitada por Fabiano; práticas descritas permanecem propostas de desenvolvimento e condução autoral.
