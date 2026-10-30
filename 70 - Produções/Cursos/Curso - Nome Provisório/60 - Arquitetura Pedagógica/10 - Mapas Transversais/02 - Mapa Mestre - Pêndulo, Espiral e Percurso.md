@@ -129,3 +129,22 @@ Os movimentos não constituem uma sequência rígida. O mapa organiza possibilid
 - Fonte conceitual oficial: esta nota.
 - Uso inicial: imagem central da Unidade 0.2.
 - Derivações: slide, apostila e ficha de aplicação conforme [[20 - Sistema Visual/00 - Sistema Visual dos Mapas - Traduzindo o Ser Humano]].
+
+## Refinamento incorporado em 30 de outubro de 2026
+
+### Quatro entradas didáticas
+
+| Entrada | Pergunta |
+|---|---|
+| Estado | Como estou neste momento? |
+| Movimento | Para onde minha experiência está se deslocando? |
+| Referência | O que me ajuda a reconhecer e orientar esse movimento? |
+| Participação | O que consigo fazer nas condições presentes? |
+
+As entradas podem ser usadas em qualquer ordem. Intensidade semelhante pode ocorrer durante perda de alternativas ou recuperação de orientação. Distinguir “Quão intensa foi a experiência?” de “O que continuou possível e o que ficou menos acessível?”.
+
+Aprofundamentos: amplitude/impacto funcional, velocidade de mudança, permanência, sinais de transição, recuperação, contexto relacional e efeitos. Velocidade não é frequência de repetição. Recuperação pode encontrar nova orientação.
+
+O pêndulo descreve mudanças numa experiência; a espiral compara nossa participação nos reencontros. A ampliação da perspectiva pode revelar alternativas; realizá-las pode exigir mudanças de condições. Destinos: M1.7, M3, M4.6 e M6.3–M6.5.
+
+Fonte integrativa: [[TSH - Síntese Integrativa do Refinamento]]. Incorporação solicitada por Fabiano; práticas descritas permanecem propostas de desenvolvimento e condução autoral.

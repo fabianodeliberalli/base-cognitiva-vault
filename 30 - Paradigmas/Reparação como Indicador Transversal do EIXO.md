@@ -4,7 +4,7 @@ projeto: Traduzindo o Ser Humano
 metodo: EIXO
 status: aprovado-em-desenvolvimento
 criado_em: 2026-07-19
-atualizado_em: 2026-07-19
+atualizado_em: 2026-10-30
 autor: Fabiano Deliberalli
 tags:
   - reparacao
@@ -61,3 +61,11 @@ Cláusula:
 - [[Pedagogia das Distinções Experienciais]]
 - [[Sessão 2A-F - Deliberação das Seis Fases do Método EIXO]]
 - [[Matriz Integrada - Quatro Movimentos, Seis Fases e Jornada Fenomenológica]]
+
+## Refinamento incorporado em 30 de outubro de 2026
+
+A expressão singular se desenvolve também no encontro com os efeitos que produz. Reconhecer esses efeitos pode modificar sua forma sem exigir abandono daquilo que se busca expressar.
+
+Em M7, distinguir intenção, expressão, impacto, contexto e responsabilidade proporcional. Uma necessidade legítima pode ganhar forma que requer ajuste. A prática candidata usa situação leve ou fictícia para considerar esclarecimento, reparação, limite ou apoio. Examina-se a participação concreta, não o valor da Essência.
+
+Fonte integrativa: [[TSH - Síntese Integrativa do Refinamento]]. Incorporação solicitada por Fabiano; práticas descritas permanecem propostas de desenvolvimento e condução autoral.

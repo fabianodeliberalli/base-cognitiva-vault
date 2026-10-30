@@ -22,7 +22,7 @@ tags:
 
 ```mermaid
 flowchart TD
-    A["Centro, Essência ou Self<br/>identidade, integração, sentido e direção"]
+    A["Referência profunda<br/>identidade, integração, sentido e direção"]
     B["EIXO<br/>contato, reconhecimento, coordenação e orientação"]
     C["Condições da experiência<br/>corpo, contexto, vínculos, memória, ambiente e segurança"]
     D["Estado e acesso<br/>condições variáveis"]
@@ -37,19 +37,19 @@ flowchart TD
 
 ## Leitura do mapa
 
-- **Centro, Essência ou Self:** referência profunda; não é um estado emocional ideal.
+- **Referência profunda:** referência profunda; não é um estado emocional ideal.
 - **EIXO:** conjunto articulado de capacidades que favorece contato, reconhecimento do deslocamento, coordenação, retorno e orientação.
 - **Condições da experiência:** influenciam o que fica acessível; segurança atua como campo de possibilidades, não como degrau isolado.
 - **Estado e acesso:** oscilam; uma capacidade pode existir e ficar temporariamente menos disponível.
 - **Participação:** torna o processo observável em escolhas, efeitos, limites, apoio, reparação e aprendizagem.
 
-O eixo não substitui a Essência nem produz o Self. Favorece condições para reencontrar essa referência e viver progressivamente a partir dela.
+O EIXO favorece orientação e participação nas condições presentes. Essência, Self e centro conservam sentidos próprios conforme o mapa adotado. Na perspectiva transpessoal do TSH, a Essência é fundamento primordial da vida; o contato experiencial e as condições de sua expressão podem variar sem diminuir a própria Essência.
 
 ## Versão simples para o participante
 
 | O que permanece como referência | O que se desenvolve | O que varia |
 |---|---|---|
-| Centro, Essência ou Self | EIXO | estado momentâneo e acesso às capacidades |
+| Referência profunda | EIXO | estado momentâneo e acesso às capacidades |
 
 > Você pode estar afastado de sua referência sem ter perdido sua Essência. Pode estar ativado sem ter perdido todo o percurso. Pode não conseguir acessar uma capacidade naquele momento sem que ela tenha desaparecido.
 
@@ -113,3 +113,9 @@ O mapa articula formulações antropológicas, fenomenológicas, clínicas, peda
 - Fonte conceitual oficial: esta nota.
 - Uso inicial: Unidade 0.2.
 - Derivações: slide, apostila e ficha de aplicação conforme [[20 - Sistema Visual/00 - Sistema Visual dos Mapas - Traduzindo o Ser Humano]].
+
+## Refinamento de 30 de outubro de 2026
+
+A legenda anterior “Centro, Essência ou Self” foi substituída por “Referência profunda” para evitar equivalência entre conceitos. Referências podem incluir sentido, valores, vínculos e apoios; orientação não exige um estado ideal. A definição atual de Essência está no [[Léxico Mestre do Traduzindo o Ser Humano]].
+
+Fonte: [[TSH - Síntese Integrativa do Refinamento]].

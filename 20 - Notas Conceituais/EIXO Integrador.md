@@ -66,3 +66,11 @@ A aprovação da relação circular não valida automaticamente:
 
 - Confrontar as seis dimensões com as fontes canônicas do Método EIXO.
 - Validar limites entre uso pedagógico, clínico e existencial.
+
+## Refinamento incorporado em 30 de outubro de 2026
+
+O EIXO conserva sua função de orientação, diferenciação, retorno e participação. Não é sinônimo de Essência nem centro geométrico fixo. Uma referência pode vir do corpo, do ambiente, das relações, dos valores e da perspectiva espiritual.
+
+Ampliar o mapa pode revelar caminhos; o percurso envolve construir condições para caminhar por eles. Diferenciar reconhecimento de alternativas, condições para experimentá-las e aprendizagem por seus efeitos. As seis dimensões propostas anteriormente conservam seu estatuto de hipótese.
+
+Fonte integrativa: [[TSH - Síntese Integrativa do Refinamento]]. Incorporação solicitada por Fabiano; práticas descritas permanecem propostas de desenvolvimento e condução autoral.

@@ -6,7 +6,7 @@ status: em-formacao
 versao: "0.1"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-18
-atualizado_em: 2026-07-18
+atualizado_em: 2026-10-30
 fontes:
   - "[[Dossiê de Contexto e Arquitetura Mestre]]"
   - "[[Mapa Funcional Transversal dos Três Eus]]"
@@ -172,6 +172,43 @@ Pode dialogar com Essência e Eu Superior, mas não é sinônimo institucional d
 
 ## 3. Essência
 
+### Definição atualizada em 30 de outubro de 2026
+
+No TSH, Essência é compreendida, na perspectiva espiritual e transpessoal de Fabiano, como fundamento primordial da vida e de suas possibilidades de expressão, que antecede e transcende a existência corporal. Sua expressão encontra condições mais ou menos favoráveis de desenvolvimento, relacionadas à vitalidade, à consciência, à criatividade, à capacidade de amar e à singularidade, sem pressupor que a própria Essência seja diminuída pelas experiências.
+
+Singularidade diz respeito à maneira própria como essas possibilidades encontram forma na existência. O desenvolvimento envolve condições corporais, relacionais, históricas e de cultivo que favorecem reconhecimento, integração e expressão.
+
+### Distinções operacionais
+
+- **Essência:** fundamento primordial na perspectiva autoral.
+- **Experiência de contato com o essencial:** aquilo que a pessoa reconhece e interpreta, aberto a discernimento e revisão.
+- **Expressão singular:** forma que essas possibilidades encontram na vida concreta.
+
+Uma sensação de certeza não confirma automaticamente sua interpretação. Vitalidade, criatividade e capacidade de amar são campos de expressão; não medem quanto de Essência alguém possui. Essência não implica personalidade pronta ou destino fechado.
+
+### Campo e estatuto
+
+Elaboração autoral espiritual e transpessoal, em diálogo com tradições, experiência clínica e investigação da existência. A formulação não reivindica demonstração empírica de uma realidade anterior ao corpo. A perspectiva pode ser ensinada explicitamente sem exigir adesão ontológica do participante.
+
+### Relações e discernimento
+
+Self, Alma, Eu Superior, Jing, EIXO e Fonte conservam seus sentidos próprios. EIXO favorece orientação e participação; não produz a Essência. Reconhecimento, integração e expressão podem alimentar-se reciprocamente. A base continua sendo cuidada durante a expansão.
+
+A orientação atribuída ao essencial pode ser examinada por seus efeitos sobre liberdade, vínculos, responsabilidade, cuidado e expressão, sem converter resultados em medida do fundamento espiritual.
+
+### Uso pedagógico
+
+Introduzir referência profunda sem colapsar nomenclaturas. Desenvolver as distinções em M5.7 e retomar seus efeitos em M6 e M7. Perguntar o que busca expressão, que condições favorecem essa expressão e como ela participa da vida concreta.
+
+Fonte: [[TSH - Síntese Integrativa do Refinamento]], seções 2, 3, 5 e 14.
+
+### Histórico preservado
+
+<details>
+<summary>Verbete anterior de julho de 2026 — antecedente, não definição atual</summary>
+
+#### Redação anterior
+
 ### Definição nuclear
 
 Horizonte experiencial no qual a pessoa reconhece potenciais, valores, qualidades e direções percebidos como profundamente coerentes com aquilo que é e pode vir a expressar, sem que isso pressuponha identidade fixa, substância demonstrada ou acesso infalível a uma verdade transcendente.
@@ -225,6 +262,10 @@ Essência é horizonte favorecido pelo percurso, não competência inicial nem p
 ### Status
 
 **CONCEITO AUTORAL APROVADO PARA O LÉXICO; POSIÇÃO CANÔNICA FINAL NO MÉTODO AINDA DEPENDE DA ARQUITETURA.**
+
+---
+
+</details>
 
 ---
 

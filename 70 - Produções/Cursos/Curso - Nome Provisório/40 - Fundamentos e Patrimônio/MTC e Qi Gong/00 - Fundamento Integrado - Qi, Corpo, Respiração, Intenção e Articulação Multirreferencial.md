@@ -660,3 +660,25 @@ No TSH:
 - utilidade não autoriza promessas;
 - prática tradicional não precisa ser neutralizada para caber no curso;
 - práticas são escolhidas por função, competência, segurança e coerência curricular.
+
+## Refinamento incorporado em 30 de outubro de 2026
+
+### Sustentação circulação e direção
+
+- Sustentação: quais condições favorecem continuidade e vitalidade?
+- Circulação: como a prática trabalha movimento, atenção e relação entre componentes?
+- Direção: como o cultivo encontra relação com intenção, decisão e expressão?
+
+Rim–Jing e bateria oferecem uma entrada para constituição e reserva, sem medida literal de energia ou previsão de longevidade. Jing e Essência transpessoal não são sinônimos. Zhi, Shen, Coração–Rins e Dantian preservam as fontes e funções descritas nesta nota.
+
+### Órbita Microcósmica
+
+Progressão para desenvolvimento: apresentar origem, mapa e finalidade; construir familiaridade com apoio, corpo e atenção; diferenciar sensação, imaginação, expectativa e interpretação; ensinar a prática conforme a formação e procedimento de Fabiano; integrar efeitos e participação na vida. Varredura corporal preparatória não recebe automaticamente o nome de Órbita.
+
+Bentov pode contribuir para comparação de imagens e circulação, sem substituir a fundamentação tradicional. As equivalências Tan Tien inferior–vago ventral, Jing–DNA e Jing–suprarrenais não são fundamentos estabelecidos do projeto.
+
+### Decisão sobre práticas
+
+Fabiano escolhe finalidade, público, procedimento, intensidade e formas de participação. P6 oferece referências para registrar finalidade, participação, modulação/retorno e transferência; restrições de versões anteriores não funcionam como impedimentos automáticos à criação atual. As propostas desta síntese não são roteiros finais de condução.
+
+Fonte integrativa: [[TSH - Síntese Integrativa do Refinamento]]. Incorporação solicitada por Fabiano; práticas descritas permanecem propostas de desenvolvimento e condução autoral.
