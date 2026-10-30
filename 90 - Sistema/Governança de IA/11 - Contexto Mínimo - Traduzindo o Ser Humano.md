@@ -2,8 +2,8 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.7"
-atualizado_em: 2026-10-24
+versao: "0.8"
+atualizado_em: 2026-10-30
 ---
 
 ## Raio X vigente — decisão de Fabiano em 24 de outubro de 2026
@@ -34,6 +34,14 @@ Use esta ficha para começar. Expanda a leitura somente conforme a tarefa. Todas
 - O curso não promete cura, integração completa, estabilidade permanente, resolução de trauma, realização espiritual ou confirmação metafísica.
 - Fabiano pode aprovar, rejeitar, combinar ou revisar qualquer escolha autoral a qualquer momento. Nenhuma inteligência artificial pode declarar uma proposta própria como final, canônica, congelada ou imutável.
 
+## Síntese integrativa do refinamento — incorporação aprovada em 30/10/2026
+
+Fabiano aprovou a incorporação de [[70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/TSH - Síntese Integrativa do Refinamento|TSH — Síntese Integrativa do Refinamento]] como fonte de diálogo para estruturar aulas e produzir conteúdos do TSH, inclusive em consultas por diferentes assistentes de IA. A nota contém o texto integral pesquisável e aponta para o Word revisado.
+
+Consultar os trechos pertinentes ao desenvolver fundamentos, práticas, roteiros, Masterclass e comunicação. A síntese articula Essência e singularidade; Tradução e captação sensível com discernimento; árvore, pêndulo, EIXO, espiral e circulação; Medicina Chinesa e horizonte transpessoal. Colocá-la em diálogo com o Raio X vigente e os materiais da aula ou conteúdo em elaboração, explicitando o acréscimo realmente útil, sem reproduzir todo o documento.
+
+Preservar a distinção entre formulações autorais, conhecimentos tradicionais, achados de pesquisa, hipóteses e propostas de práticas. A aprovação incorpora o material ao acervo e não converte propostas em roteiros finais nem impede revisões por Fabiano. As notas relacionadas e os materiais de M1 receberam refinamentos correspondentes.
+
 ## Duração ainda em construção
 
 - **Doze semanas** é somente uma estimativa provisória recuperada de versões anteriores.
@@ -57,6 +65,7 @@ Use esta ficha para começar. Expanda a leitura somente conforme a tarefa. Todas
 | Estado e próxima ação | `LEIA PRIMEIRO - Estado Atual e Continuidade do Curso.md` e estado da frente ativa |
 | Identidade, limites e promessa | Dossiê; diretriz de espiritualidade e não neutralização |
 | Aproveitamento do acervo inicial de 7 módulos e 14 aulas | Documentos históricos, Nota-Ponte e Matriz Mestre de Incorporação, apenas como fontes de conteúdo |
+| Refinamento de aulas, práticas, Masterclass e conteúdos do TSH | [[TSH - Síntese Integrativa do Refinamento]], trechos pertinentes, e materiais atuais da entrega |
 | Produção de M1 | Estado da Produção M1 e artefatos exatos da aula solicitada |
 | Linguagem e formulações possivelmente aproveitáveis | fontes atuais da frente; usar o Registro Mestre como acervo histórico consultivo |
 | Fonte ou conteúdo possivelmente existente | Inventário Mestre e busca temática no acervo |
