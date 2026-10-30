@@ -1,7 +1,7 @@
 ---
 tipo: desenvolvimento-pedagogico
 projeto: Traduzindo o Ser Humano
-status: versao-de-trabalho
+status: referencia-atual-revisavel
 atualizado_em: 2026-10-30
 autor_do_projeto: Fabiano Deliberalli
 ---
@@ -11,6 +11,8 @@ autor_do_projeto: Fabiano Deliberalli
 Esta elaboração acompanha a revisão do Raio X solicitada por Fabiano em 30 de outubro de 2026. Mantém nove módulos e 54 aulas e relaciona fundamentos, linguagem da oferta, práticas, encontros ao vivo e materiais complementares. As formulações reproduzidas abaixo e o encontro de duas horas por módulo são decisões explicitadas por Fabiano. A distribuição das práticas, os exemplos e as escolhas de condução são propostas para seu desenvolvimento autoral.
 
 Fontes internas: [[TSH - Síntese Integrativa do Refinamento]], [[Raio-X-Fabiano Deliberalli - Texto para consulta]], [[Léxico Mestre do Traduzindo o Ser Humano]] e [[07 - Ficha - Cartografia Multidimensional Inicial da Experiência]]. A síntese permanece patrimônio integral; esta nota acrescenta sua aplicação curricular e não substitui seus fundamentos.
+
+Integração ao acervo homologada por Fabiano em 30/10/2026. As propostas de condução continuam revisáveis; a aprovação documental não declara executadas as gravações, práticas ou publicações externas.
 
 ## Formulações escolhidas
 

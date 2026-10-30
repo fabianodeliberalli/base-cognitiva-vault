@@ -12,7 +12,7 @@ autoridade_de_decisao: Fabiano Deliberalli
 
 ## Revisão solicitada em 30 de outubro de 2026
 
-O Raio X recebeu uma revisão de trabalho em Word e Markdown, acompanhada de [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo]]. A formulação ampliada, a persona, o benefício expressivo e um encontro online ao vivo de duas horas por módulo foram explicitamente solicitados por Fabiano. Os exemplos, a distribuição de práticas e o modo de condução são propostas pedagógicas revisáveis. A integração desta ramificação à principal depende da homologação do conjunto.
+O Raio X recebeu uma revisão de trabalho em Word e Markdown, acompanhada de [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo]]. A formulação ampliada, a persona, o benefício expressivo e um encontro online ao vivo de duas horas por módulo foram explicitamente solicitados por Fabiano. Os exemplos, a distribuição de práticas e o modo de condução são propostas pedagógicas revisáveis. Fabiano homologou a integração deste conjunto em 30/10/2026 ao solicitar as modificações no Obsidian. O Raio X revisado passa a ser a referência atual; o anterior permanece no histórico.
 
 O TSH oferece mapas e práticas para compreender a experiência, ampliar o acesso aos próprios recursos e cultivar possibilidades de vida que ainda encontram pouco espaço de expressão, considerando corpo, história, relações, condições de vida e dimensão espiritual.
 

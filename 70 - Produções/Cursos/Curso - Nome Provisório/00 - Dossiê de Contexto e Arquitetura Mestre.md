@@ -12,7 +12,7 @@ autoridade_de_decisao: Fabiano Deliberalli
 
 ## Revisão solicitada em 30 de outubro de 2026
 
-O Raio X recebeu uma revisão de trabalho em Word e Markdown, acompanhada de [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo]]. A formulação ampliada, a persona, o benefício expressivo e um encontro online ao vivo de duas horas por módulo foram explicitamente solicitados por Fabiano. Os exemplos, a distribuição de práticas e o modo de condução são propostas pedagógicas revisáveis. A integração desta ramificação à principal depende da homologação do conjunto.
+O Raio X recebeu uma revisão de trabalho em Word e Markdown, acompanhada de [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo]]. A formulação ampliada, a persona, o benefício expressivo e um encontro online ao vivo de duas horas por módulo foram explicitamente solicitados por Fabiano. Os exemplos, a distribuição de práticas e o modo de condução são propostas pedagógicas revisáveis. Fabiano homologou a integração deste conjunto em 30/10/2026 ao solicitar as modificações no Obsidian. O Raio X revisado passa a ser a referência atual; o anterior permanece no histórico.
 
 O TSH oferece mapas e práticas para compreender a experiência, ampliar o acesso aos próprios recursos e cultivar possibilidades de vida que ainda encontram pouco espaço de expressão, considerando corpo, história, relações, condições de vida e dimensão espiritual.
 
@@ -20,7 +20,7 @@ Persona: Adultos que desejam ampliar sua participação consciente na própria v
 
 Nesta turma: um encontro online ao vivo de duas horas a cada módulo, uma hora de dúvidas e uma hora de prática. Considerando M0 a M8, são nove encontros e 18 horas adicionais às 54 aulas gravadas. Calendário, plataforma dos encontros, política de gravação, faltas e condições de acompanhamento permanecem a definir; o acesso de um ano não significa encontros ao vivo durante um ano.
 
-Consultar a nota de integração junto da síntese ao produzir aulas, práticas, Masterclass, comunicação e complementos. Ela diferencia decisões autorais, propostas didáticas e fontes de pesquisa; mantém a MTC em linguagem própria e organiza correlações sem exigir equivalência neurobiológica. As três situações de reconhecimento, acesso e cultivo orientam o percurso.
+Consultar a nota de integração junto da síntese para produzir aulas, práticas e comunicação, distinguindo decisões autorais, propostas e fontes.
 
 O Word confirmado em 24/10 permanece integralmente recuperável em [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Raio X do Produto/Histórico/2026-10-24 - Raio-X-Fabiano Deliberalli - anterior ao refinamento.docx]]. O registro abaixo descreve o estado anterior à presente revisão.
 

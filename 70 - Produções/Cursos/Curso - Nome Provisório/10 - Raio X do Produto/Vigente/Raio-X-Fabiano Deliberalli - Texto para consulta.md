@@ -1,12 +1,12 @@
 ---
 tipo: transcricao-de-consulta
 projeto: Traduzindo o Ser Humano
-status: revisao-de-trabalho-para-homologacao
+status: referencia-atual-homologada
 atualizado_em: 2026-10-30
 fonte_sha256: 0630830b9193e290c5b2801a2efc6a55ce62584caa97d7c628fce37322bf9848
 ---
 
-Transcrição do Word revisado na mesma ramificação. Documento-base confirmado em 24/10/2026 preservado no histórico; revisão solicitada por Fabiano em 30/10/2026. Não editar esta transcrição isoladamente. Desenvolvimento pedagógico e fontes: [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo]].
+Transcrição do Word revisado, com integração homologada por Fabiano em 30/10/2026. Documento-base confirmado em 24/10/2026 preservado no histórico; revisão solicitada por Fabiano em 30/10/2026. Não editar esta transcrição isoladamente. Desenvolvimento pedagógico e fontes: [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo]].
 
 # Raio X do Traduzindo o Ser Humano
 
