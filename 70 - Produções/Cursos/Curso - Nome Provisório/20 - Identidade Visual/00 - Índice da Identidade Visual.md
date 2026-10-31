@@ -6,6 +6,11 @@ data: 2026-07-31
 atualizado_em: 2026-09-07
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
+## Produção de materiais — 31/10/2026
+
+Fabiano confirmou o manual como base visual transversal para slides e entregáveis. Ver a atualização de aplicação em [[70 - Produções/Cursos/Curso - Nome Provisório/20 - Identidade Visual/10 - Sistema Oficial v1.0/00 - Manual de Identidade Visual v1.0]]. PDF original e reprodução raster recuperados; vetores continuam pendentes. Preservar o subtítulo atual do Raio X.
+
+
 
 # Índice da Identidade Visual — Traduzindo o Ser Humano
 
