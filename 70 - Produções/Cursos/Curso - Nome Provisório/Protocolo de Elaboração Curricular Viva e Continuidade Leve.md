@@ -16,6 +16,22 @@ autoridade_de_aprovacao: Fabiano Deliberalli
 
 # Protocolo de Elaboração Curricular Viva e Continuidade Leve
 
+## Resgate aplicado às aulas — atualização proposta em 31/10/2026
+
+Pedido de Fabiano: recuperar conceitos refinados, teorias, produções autorais e práticas pertinentes durante a construção de cada aula. Contexto mínimo é tamanho de carregamento, não limite do acervo pesquisável.
+
+Partir da pergunta da aula; pesquisar termos e variantes, autores e função prática no inventário e nas fontes; abrir passagens e seguir relações pertinentes; confrontar formulações atuais e históricas; registrar contribuição e destino. Incluir TCC, monografias, livro, apresentações, notas de formações, pesquisas e materiais já produzidos quando responderem à pergunta. Não há quota de autores ou arquivos.
+
+Conferir seis frentes conforme pertinência: conceitos autorais, fundamentos, produções anteriores, exemplos/mapas, materiais do aluno e práticas. No bastidor da aula, preservar somente fonte/trecho/ref, contribuição, destino e pendência. Destino pode ser fala, demonstração, material, prática, fundamento do educador, aprofundamento ou reserva justificada. Uma lista de referências não comprova incorporação.
+
+Consulta do Obsidian sempre pelo GitHub. Quando a main não contiver um desenvolvimento conhecido, conferir a ramificação ou proposta indicada e preservar seu estatuto. Para originais externos, usar os localizadores existentes; marcar falta de acesso sem inventar leitura. Fonte teórica, síntese de IA e decisão autoral são distintas.
+
+Avançar para a elaboração com os achados suficientes, sem relatório ou aprovação intermediária rotineira. Antes de fechar a gravação ou um material, verificar afirmações centrais, instruções da prática, fidelidade das simplificações e lacunas materiais. Atualizar as fontes usadas na retomada, não reler todo o vault.
+
+Rotas e fontes: [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Governança do Conhecimento/02 - Inventário Mestre de Conteúdos Disponíveis|Inventário Mestre]]. Associação inicial às 54 aulas: [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Governança do Conhecimento/06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54|Matriz de Incorporação]]. Não se declara ausência absoluta de omissões ou validação científica do curso.
+
+
+
 ## Decisão autoral
 
 A partir de 26 de julho de 2026, a construção do curso passa a operar como **elaboração curricular progressiva, viva e autoral**.

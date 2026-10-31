@@ -30,6 +30,71 @@ Esta atualização registra a decisão de Fabiano; não altera o conteúdo do Wo
 
 # Matriz Mestre de Incorporação do Conteúdo à Estrutura 9/54
 
+## Resgate por aula — proposta de trabalho de 31/10/2026
+
+As linhas abaixo usam os 54 títulos do Raio X de 30/10 com refinamentos de 31/10. São caminhos iniciais de investigação, não conteúdo incorporado ou aulas aprovadas. As rotas R01–R26 estão no [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Governança do Conhecimento/02 - Inventário Mestre de Conteúdos Disponíveis|Inventário Mestre]]. Ao produzir cada aula, registrar no estado do módulo as fontes efetivamente usadas, seus trechos e destinos; ampliar a busca quando necessário. As tabelas anteriores preservadas abaixo são históricas, inclusive a antiga leitura de Cinco Janelas como cinco perguntas.
+
+| Aula atual | Rotas iniciais | Pergunta de resgate e contribuição |
+|---|---|---|
+| M0.1 — Boas-vindas | R13, R25, R02 | Recuperar a formulação atual da identidade e uma apresentação acessível da perspectiva autoral. Termos: perspectiva multidimensional; espiritualidade; participação. |
+| M0.2 — Como usar o percurso, os mapas, as práticas e os materiais | R18, R19, R07 | Localizar os exemplares efetivos e demonstrar uma escolha de uso, preservando a descoberta de sentido. Termos: mapa; ficha; guia; cartografia; registro não verbal. |
+| M0.3 — O que você precisa ter ou saber antes de começar | R17, R25 | Recuperar instruções de participação e adaptar o que é necessário a um ambiente educacional. Termos: participação; dosagem; apoio; pausa; continuidade. |
+| M1.1 — Por que entender um padrão não impede que ele se repita? | R19, R01, R10 | Comparar compreensão e atuação numa mesma situação, recuperando explicações já desenvolvidas. Termos: padrão; conhecimento; disponibilidade; contexto. |
+| M1.2 — Saber, acessar e sustentar não são a mesma coisa | R01, R10, R11 | Diferenciar conhecer, mobilizar e cultivar recursos, sem tornar a dificuldade uma incapacidade global. Termos: acesso; repertório; sustentação; cultivo. |
+| M1.3 — O que é competência incorporada — e o que ela não promete | R08, R10, R04 | Recuperar critérios de aprendizagem e adaptação, com exemplos e efeitos observáveis. Termos: competência incorporada; aprendizagem; transferência. |
+| M1.4 — A experiência é o território; as explicações são mapas | R07, R14, R09 | Relacionar fenomenologia, linguagem e procedência da interpretação numa cena simples. Termos: experiência; território; mapas; interpretação. |
+| M1.5 — As Cinco Janelas: ampliar a leitura do que acontece | R11, R13, R18 | Distinguir as cinco dimensões do antigo mapa de perguntas e ampliar uma cena por perspectivas pertinentes. Termos: Cinco Janelas; corpo; emoção; mente; relações; espiritualidade. |
+| M1.6 — Primeira Cartografia: localizar-se antes de responder | R07, R09, R18 | Usar a investigação de Gendlin para apoiar registro que ajuda a descobrir, sem antecipar uma resposta. Termos: cartografia; felt sense; simbolização; emergência. |
+| M1.7 — Perder o eixo não significa perder o percurso | R08, R10, R19 | Recuperar o conteúdo desenvolvido de M1.7 e ampliar a distinção entre retorno e repetição do mesmo estado. Termos: pêndulo; espiral; retorno; referência; estado. |
+| M2.1 — Perceber não é simplesmente copiar o mundo | R20, R01, R09 | Relacionar contexto e expectativas com a leitura de uma cena, identificando o alcance do modelo. Termos: percepção; predição; expectativa; predictive processing. |
+| M2.2 — Por que alguns sinais ganham mais importância? | R01, R22, R09 | Buscar fundamentos para diferenças entre perceber, atribuir relevância e conseguir expressar. Termos: saliência; interocepção; atenção; alexitimia. |
+| M2.3 — Quando o mapa parece ser a própria realidade | R09, R20, R01 | Recuperar formas de investigar como uma leitura se mantém e quais dados poderiam revisá-la. Termos: hipótese; confirmação; atenção; source monitoring. |
+| M2.4 — Por que respostas familiares voltam? | R01, R04, R11 | Relacionar história, contexto e função da resposta sem converter proteção em causa universal. Termos: aprendizagem; padrões; proteção; memória. |
+| M2.5 — O que aconteceu, o que foi vivido e o que foi interpretado | R07, R09, R21 | Construir exemplo que distingue o observado da associação e da conclusão, preservando influências recíprocas. Termos: acontecimento; vivido; lembrança; imagem; interpretação. |
+| M2.6 — Como construir e revisar uma Tradução provisória | R09, R07, R14 | Apoiar a revisão de uma tradução com nova informação e liberdade de discordar. Termos: procedência; revisão; mentalização; significado. |
+| M3.1 — O corpo muda o que fica acessível | R01, R22, R08 | Recuperar fundamentos e exemplos de condições corporais e relacionais de participação. Termos: corpo; disponibilidade; regulação; apoio. |
+| M3.2 — Interocepção: perceber e interpretar sinais internos | R01, R22, R14 | Diferenciar sinal e leitura, aproveitando notas corporais e conferindo afirmações científicas específicas. Termos: interocepção; sensação; percepção; interpretação. |
+| M3.3 — Como o organismo antecipa necessidades e distribui recursos | R20, R01, R10 | Localizar referências específicas para antecipação de necessidades; não apresentar metáfora como medida fisiológica. Termos: alostase; recursos; orçamento corporal; contexto. |
+| M3.4 — Mapas do sistema nervoso autônomo | R01, R22, R17 | Recuperar o que já foi elaborado, distinguir fisiologia estabelecida, teoria e recurso pedagógico. Termos: sistema nervoso autônomo; polivagal; janela de tolerância. |
+| M3.5 — Energia e vitalidade nas tradições orientais | R03, R06, R05 | Trazer a contribuição substantiva da formação e monografia de MTC em diálogo com refinamentos atuais. Termos: Qi; Jing; Shen; Zhi; vitalidade; cultivo. |
+| M3.6 — Centro, circulação, limite e enraizamento | R06, R03, R17 | Fundamentar apoio, postura e intenção; localizar e explicitar o procedimento realmente escolhido. Termos: Dantian; centro; limite; enraizamento; Órbita. |
+| M3.7 — Recursos de retorno: escolher, dosar e adaptar | R06, R17, R10 | Selecionar uma prática conforme finalidade e condições, com revisão a partir do efeito observado. Termos: recurso; escolha; dose; alternativa; feedback. |
+| M4.1 — Quando “estou mal” ainda diz muito pouco | R07, R09, R01 | Ajudar a ampliar uma descrição emocional sem exigir nome imediato. Termos: afeto; sensação; sentimento; diferenciação. |
+| M4.2 — Granularidade emocional: diferenças que ampliam possibilidades | R09, R01 | Distinguir riqueza descritiva, diferenciação e medida de granularidade antes de criar o material. Termos: granularidade emocional; Erbas; Barrett; diferenciação. |
+| M4.3 — Nomear para diferenciar, não para encerrar a experiência | R09, R07, R21 | Recuperar exemplos em que a expressão ajuda a reconhecer e pode ser recusada ou corrigida. Termos: nomeação; simbolização; correção; felt meaning. |
+| M4.4 — Padrões como aprendizagem, proteção e relação | R02, R11, R04 | Investigar função adaptativa e possibilidades pouco nutridas; não equiparar toda competência a falso self. Termos: Winnicott; adaptação; ambiente; proteção; singularidade. |
+| M4.5 — Partes internas como mapa de escuta | R22, R16, R04 | Aproveitar o mapa de partes como escuta de funções e relações, com fontes e linguagem delimitadas. Termos: partes; IFS; Schwartz; conflito; necessidades. |
+| M4.6 — Do automatismo a uma resposta possível | R10, R08, R17 | Relacionar compreensão, apoio e ensaio de alternativa proporcional numa situação concreta. Termos: resposta possível; repertório; contexto; experimentação. |
+| M5.1 — O que fazer quando muitas vozes aparecem ao mesmo tempo? | R12, R22, R04 | Recuperar formas de escutar conflitos e coordenar possibilidades sem introduzir todos os mapas simultaneamente. Termos: vozes; partes; coordenação; decisão. |
+| M5.2 — Valores como bússolas, não como ordens | R10, R13, R15 | Distinguir valor, obrigação e direção autoral, buscando fontes para as referências efetivamente utilizadas. Termos: valores; sentido; Amor Poder Sabedoria; escolha. |
+| M5.3 — Os Três Eus e a função EIXO | R12, R06, R01 | Explicar a genealogia e função do mapa, sem igualar sistemas teóricos ou regiões corporais. Termos: Eu Básico; Eu Médio; Eu Superior; funções. |
+| M5.4 — Criar espaço entre impulso e escolha | R10, R17, R08 | Fundamentar intervalo e alternativas de participação que não dependam de eliminar desconforto. Termos: impulso; pausa; desfusão; flexibilidade; ação. |
+| M5.5 — Símbolos e imagens como recursos de orientação | R16, R11, R02 | Selecionar imagens que acrescentem reconhecimento e sentido, com interpretação aberta ao participante. Termos: símbolo; imagem; Jung; árvore; Cosmos. |
+| M5.6 — Espiritualidade como dimensão legítima da experiência humana | R02, R15, R01 | Trazer a dimensão espiritual com história intelectual e exemplos concretos, preservando diversidade. Termos: espiritualidade; Maslow; Grof; Ammerman; cotidiano. |
+| M5.7 — Self, Essência, Alma, Eu Superior e Fonte | R13, R12, R23 | Confrontar definições por autor e domínio, articulando a definição atual de Fabiano. Termos: Self; Essência; Alma; Eu Superior; Fonte. |
+| M5.8 — Discernimento espiritual: liberdade, autoridade e efeitos | R02, R21, R15 | Apoiar perguntas sobre experiência espiritual e participação na vida sem exigir conclusão ontológica. Termos: discernimento; autoridade; liberdade; efeitos. |
+| M6.1 — Integrar não é tornar tudo igual | R04, R08, R02 | Recuperar argumentos para integração que preserva diferenças e admite impasses. Termos: integração; diferenciação; unidade; contradição. |
+| M6.2 — Diferenciar sem fragmentar | R14, R16, R13 | Mostrar o que cada perspectiva acrescenta ao mesmo problema, sem dividir a pessoa em gavetas. Termos: níveis; linguagem; multidimensionalidade; articulação. |
+| M6.3 — Sustentar ambivalências e aparentes contradições | R10, R02, R21 | Recuperar formas de acompanhar tensões sem exigir solução prematura ou suportar situações danosas. Termos: ambivalência; sustentação; incerteza; contexto. |
+| M6.4 — Mapa de Integração Funcional | R06, R08, R17 | Conectar o mapa a recursos realmente ensinados e práticas selecionadas; evitar protocolo corporal inventado. Termos: integração funcional; sustentação; circulação; direção. |
+| M6.5 — Tradução e EIXO em espiral | R01, R08, R10 | Retomar a investigação temporal do TCC e do EIXO para um registro longitudinal simples. Termos: espiral; tempo; efeitos; transferência; condições. |
+| M6.6 — Presença situada e coerência possível | R11, R10, R04 | Relacionar orientação e expressão com apoios, recursos, relações e limites concretos. Termos: coerência; congruência expressiva; condições; vida. |
+| M7.1 — Expressar é traduzir a experiência para uma relação | R04, R01, R07 | Recuperar formas de transformar o reconhecido em expressão que considera o interlocutor. Termos: expressão; relação; comunicação; participação. |
+| M7.2 — Falar do que você vive sem converter experiência em acusação | R09, R21, R14 | Distinguir experiência própria e hipótese sobre o outro, mantendo clareza e firmeza. Termos: mentalização; interpretação; intenção; fala. |
+| M7.3 — Escutar e ajustar sem abandonar sua posição | R01, R09, R21 | Conectar a escuta à literatura relacional sem presumir conhecer a experiência alheia. Termos: escuta; sintonia; correção; intersubjetividade. |
+| M7.4 — Colocar limites sem precisar apagar o outro | R05, R11, R10 | Recuperar a função de diferenciação e proteção dos limites, incluindo condições de reciprocidade. Termos: limite; fronteira; casca; relação; poder. |
+| M7.5 — Pertencimento, diferença e conflito | R01, R15, R02 | Trabalhar relação e identidade sem transformar comunidade em exigência de fusão. Termos: pertencimento; vínculo; diferença; conflito. |
+| M7.6 — Contribuição e serviço sem autoabandono | R11, R13, R10 | Articular singularidade e contribuição com tempo, condições e limites pessoais. Termos: expressão; contribuição; serviço; recursos. |
+| M7.7 — Efeitos e responsabilidade situada | R08, R10, R24 | Distinguir intenção, participação, efeitos e fatores fora do controle numa situação didática. Termos: responsabilidade situada; consequência; controle. |
+| M7.8 — Reparar, aprender e reentrar no percurso | R08, R10, R21 | Recuperar a formulação específica de reparação e orientar ação proporcional, sem prometer reconciliação. Termos: reparação; aprendizagem; retorno; vínculo. |
+| M8.1 — Resumo da jornada | R08, R18, R11 | Revisitar o percurso por mudanças e perguntas do aluno, com mapas usados pela função. Termos: síntese; percurso; registros; reconhecimento. |
+| M8.2 — Próximos passos | R10, R17, R23 | Construir plano possível a partir do repertório ensinado, retomando efeitos e revisão. Termos: continuidade; prática; condições; acompanhamento. |
+| M8.3 — Convite para continuidade | R25, R15, R08 | Recuperar condições reais de continuidade e comunicar somente o que estiver implementado. Termos: apoio; autonomia; comunidade; continuidade. |
+
+Estado: 54 aulas com investigação orientada; nenhuma linha atesta roteiro pronto, original bibliográfico verificado, prática selecionada ou publicação. M0/M1 compartilham um encontro; oito encontros/16h conforme calendário de 31/10.
+
+
+
 ## Função
 
 Esta matriz preserva uma tentativa anterior de relacionar o acervo 7/14 à estimativa 9/54. Ela não define correspondências obrigatórias, não governa a construção atual e não precisa ser preenchida para que uma aula avance. Seus títulos, conteúdos, fundamentos e relações podem ser consultados individualmente quando contribuírem para uma das aulas em elaboração.

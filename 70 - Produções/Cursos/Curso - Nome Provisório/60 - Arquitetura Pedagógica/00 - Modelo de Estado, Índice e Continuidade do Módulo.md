@@ -12,6 +12,16 @@ autoridade_de_aprovacao: Fabiano Deliberalli
 
 # Modelo — Estado, Índice e Continuidade do Módulo
 
+## Fontes e destinação quando uma aula for consolidada
+
+| Aula | Fonte e trecho ou seção | Versão ou ref Git | Contribuição e destino | Lacuna ou próximo resgate |
+|---|---|---|---|---|
+| | | | | |
+
+Usar somente para fontes efetivamente mobilizadas, sem preencher por obrigação a cada conversa. Distinguir conteúdo da fala, material do aluno, prática, fundamento do educador e reserva. As rotas iniciais na [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Governança do Conhecimento/06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54|Matriz de Incorporação]] não substituem esse registro nem comprovam incorporação. Ao retomar, conferir se as fontes utilizadas mudaram e se uma nova decisão afeta outra aula.
+
+
+
 ## Finalidade
 
 Esta nota preserva o fio do módulo sem transformar a elaboração em preenchimento de formulários.
