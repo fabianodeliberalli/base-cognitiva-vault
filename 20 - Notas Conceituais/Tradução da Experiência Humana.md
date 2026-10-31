@@ -58,7 +58,7 @@ A Tradução passa a relacionar-se de forma estrutural com [[Princípio de Recur
 
 # Questões abertas
 
-- Confirmar a autoria institucional e a formulação canônica.
+- Manter identificada a autoria e a formulação atual, revisável por Fabiano.
 - Delimitar usos pedagógicos, clínicos e investigativos sem confundi-los.
 
 ## Refinamento incorporado em 30 de outubro de 2026
