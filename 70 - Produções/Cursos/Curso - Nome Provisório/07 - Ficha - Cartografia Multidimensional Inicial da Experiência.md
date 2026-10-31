@@ -54,6 +54,7 @@ Marque somente o que estiver presente e descreva brevemente.
 - Que palavras, imagens ou símbolos aproximam-se da experiência?
 - O que é observação e o que já é interpretação?
 - Essa linguagem esclarece ou acrescenta uma conclusão prematura?
+- Quando pertinente: como essa interpretação foi construída ou recebida? O que reconheço nela e o que preciso corrigir?
 
 ## 5. Que mapas e hipóteses utilizo?
 
@@ -74,7 +75,7 @@ Marque somente o que estiver presente e descreva brevemente.
 
 ## 8. Fechamento e incorporação inicial
 
-- O que ficou mais legível?
+- Algo ficou mais legível, surgiu uma pergunta diferente ou ainda falta uma forma de dizer?
 - Qual pequeno gesto pode incorporar essa compreensão à vida?
 - Como está seu estado agora? O que ajuda a concluir a prática com presença?
 
@@ -82,3 +83,7 @@ Marque somente o que estiver presente e descreva brevemente.
 
 > Neste momento, reconheço que ____________________. Isso se manifesta principalmente em ____________________. Posso registrá-lo por palavra, imagem, gesto ou outra linguagem como ____________________, sem concluir que ____________________. Agora, a experiência parece solicitar ____________________.
 
+
+## Retomada temporal — uso em M6.5 e M8.2
+
+Selecionar conforme a experiência: o que vivi durante? O que permaneceu depois? Que sentido atribuí? Como isso participou da vida? Que condições ainda preciso construir? Não é necessário preencher tudo.

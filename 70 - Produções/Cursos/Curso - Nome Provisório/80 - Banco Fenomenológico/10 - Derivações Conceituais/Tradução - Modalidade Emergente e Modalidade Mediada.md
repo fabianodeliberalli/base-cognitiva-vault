@@ -40,3 +40,7 @@ As modalidades emergente e mediada permanecem hipóteses úteis de desenvolvimen
 A mediação oferece perguntas e imagens sem substituir o vivido pela teoria do educador. O cultivo da captação sensível distingue percebido, associado, concluído e desconhecido.
 
 Fonte integrativa: [[TSH - Síntese Integrativa do Refinamento]]. Incorporação solicitada por Fabiano; práticas descritas permanecem propostas de desenvolvimento e condução autoral.
+
+## Destinação pedagógica — 31/10/2026
+
+M1.6 e M4.3 admitem que o registro e a expressão participem da elaboração de sentido. A mediação pode ser corrigida pelo participante; M2.6 investiga sua procedência. Gendlin, The Experiential Response (1968), é uma referência complementar de diálogo: https://focusing.org/gendlin/docs/gol_2156.html. Essa referência foi acrescentada na análise do roteiro da Live, não citada na Live fornecida. A hipótese autoral permanece revisável e não equivale ao protocolo de Focusing.

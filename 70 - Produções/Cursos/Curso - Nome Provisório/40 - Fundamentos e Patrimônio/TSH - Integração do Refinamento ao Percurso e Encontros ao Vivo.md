@@ -2,7 +2,7 @@
 tipo: desenvolvimento-pedagogico
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-atualizado_em: 2026-10-30
+atualizado_em: 2026-10-31
 autor_do_projeto: Fabiano Deliberalli
 ---
 
@@ -155,7 +155,7 @@ Um pequeno detalhe visual da árvore pode acompanhar o caso; não exibir todos o
 
 Decisão de Fabiano: nesta turma, a cada módulo liberado na Hotmart haverá uma aula online ao vivo de duas horas, uma hora de dúvidas e uma hora de prática. Para comunicação pública, usar “online ao vivo” ou “encontro de prática orientada”, evitando “presencial online”, que pode sugerir presença física.
 
-A leitura operacional literal inclui M0 a M8: **nove encontros e 18 horas ao vivo**, adicionais às 54 aulas gravadas. Esse cálculo deriva do formato escolhido; não fixa calendário, frequência semanal ou duração total do curso. A liberação do módulo deve anteceder o encontro o suficiente para que o aluno tenha contato com o material e leve dúvidas. O intervalo será definido no calendário da turma.
+Nesta turma, haverá oito encontros online ao vivo de duas horas com Fabiano, totalizando 16 horas: um encontro conjunto de M0 e M1 e um encontro para cada módulo de M2 a M8. Em cada encontro, a primeira hora será destinada a dúvidas e a segunda à prática orientada. Os encontros ocorrerão das 9h às 11h, horário de Brasília, conforme o calendário consolidado. São adicionais às 54 aulas gravadas. Plataforma, links e política de gravação dos encontros do curso serão informados separadamente. O acesso de um ano ao conteúdo não implica encontros recorrentes por um ano. Ver [[TSH - Preparação dos Roteiros e Calendário 2026-2027]].
 
 Esses encontros pertencem à entrega central desta turma. Apresentá-los apenas como bônus ocultaria sua função na aprendizagem corporal. O acesso de um ano refere-se ao conteúdo da formação, não a encontros mensais durante um ano.
 
@@ -182,9 +182,9 @@ No ensino remoto, oferecer instruções verbais claras e alternativas de postura
 
 Práticas devem permitir olhos abertos, pausa, observação e amplitude menor. Não exigir retenção respiratória, hiperventilação, esforço ou experiência intensa como sinal de êxito. Se surgir desconforto relevante, interromper a prática e orientar retorno aos apoios; demandas clínicas individuais não são resolvidas pela aula coletiva. Essas condições pertencem à condução prática, não precisam ocupar toda a divulgação do curso.
 
-Antes da divulgação completa, definir datas, plataforma dos encontros, gravação e acesso às gravações, tratamento das perguntas pessoais, participação de quem faltar e moderação da comunidade. Uma opção é gravar a exposição e a prática demonstrada pelo educador e preservar falas pessoais, mediante comunicação prévia e consentimento pertinente. Essa opção ainda não está decidida.
+O calendário está definido na nota de preparação. Antes da divulgação completa, definir plataforma dos encontros, gravação e acesso às gravações, tratamento das perguntas pessoais, participação de quem faltar e moderação da comunidade. Uma opção é gravar a exposição e a prática demonstrada pelo educador e preservar falas pessoais, mediante comunicação prévia e consentimento pertinente. Essa opção ainda não está decidida.
 
-Texto-base da entrega: “Além das 54 aulas gravadas, nesta turma teremos um encontro online ao vivo de duas horas a cada módulo: uma hora para esclarecer dúvidas e uma hora para praticar com minha orientação. Os encontros ajudam a experimentar, adaptar e integrar o que estudamos, especialmente nas práticas corporais, respiratórias e de Qi Gong.”
+Texto-base da entrega: “Além das 54 aulas gravadas, nesta turma teremos oito encontros online ao vivo de duas horas, com M0 e M1 juntos e um encontro para cada módulo de M2 a M8: uma hora para esclarecer dúvidas e uma hora para praticar com minha orientação. Os encontros ajudam a experimentar, adaptar e integrar o que estudamos, especialmente nas práticas corporais, respiratórias e de Qi Gong.”
 
 ## Lugar da Órbita Microcósmica
 
@@ -253,3 +253,9 @@ As prioridades conceituais e editoriais estão contempladas na proposta. A execu
 12. Kashdan e colaboradores (2010). *Emotion differentiation as resilience against excessive alcohol use*. Estudo de avaliação momentânea em população específica; não validação do exercício autoral do TSH. https://pubmed.ncbi.nlm.nih.gov/20696854/
 
 Pesquisa realizada em 30 de outubro de 2026. Os vínculos pedagógicos entre fontes e TSH são elaboração proposta nesta revisão; não equivalem a endosso dos pesquisadores ao curso.
+
+## Refinamentos localizados da Live — 31/10/2026
+
+Tradução da Experiência Humana — reconhecer e diferenciar dimensões do vivido, encontrar formas de expressão e elaborar sentidos ainda pouco claros, por linguagens verbais e não verbais, colocando mapas em diálogo para ampliar possibilidades de participação e expressão situada.
+
+A contribuição da Live operacionaliza princípios já existentes: M2.6 investiga procedência e revisão da interpretação; M4.3 admite corrigir a formulação do professor; M7.3 amplia escuta sem substituir o vivido do outro; M6.5 acompanha durante, depois, sentido, participação e condições. M1.6 admite que o registro participe da descoberta de sentido. Ver [[TSH - Preparação dos Roteiros e Calendário 2026-2027]] para fontes e destinações.

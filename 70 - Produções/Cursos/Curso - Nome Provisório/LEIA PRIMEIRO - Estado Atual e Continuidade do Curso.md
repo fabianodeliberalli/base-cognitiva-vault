@@ -5,12 +5,16 @@ curso: nome-provisorio
 status: referencia-atual-revisavel
 versao: "4.0"
 criado_em: 2026-07-21
-atualizado_em: 2026-10-30
+atualizado_em: 2026-10-31
 autor: Fabiano Deliberalli
 autoridade_de_decisao: Fabiano Deliberalli
 ---
 
-## Revisão solicitada em 30 de outubro de 2026
+## Atualização de 31 de outubro de 2026
+
+Os refinamentos aprovados da Live, as referências por aula e o calendário estão em [[TSH - Preparação dos Roteiros e Calendário 2026-2027]]. Usar o Raio X atualizado e [[Guia-de-Conducao-Masterclass-TSH-2026-10-31]]. Entrega atual: 54 aulas, oito encontros (16h), M0/M1 juntos. M0/M1 liberados em 17/11; último encontro em 30/01/2027. Datas de gravação continuam abertas. O registro operacional de 30/10 abaixo é histórico.
+
+## Registro de 30/10 — entrega operacional atualizada acima
 
 O Raio X recebeu uma revisão de trabalho em Word e Markdown, acompanhada de [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo]]. A formulação ampliada, a persona, o benefício expressivo e um encontro online ao vivo de duas horas por módulo foram explicitamente solicitados por Fabiano. Os exemplos, a distribuição de práticas e o modo de condução são propostas pedagógicas revisáveis. Fabiano homologou a integração deste conjunto em 30/10/2026 ao solicitar as modificações no Obsidian. O Raio X revisado passa a ser a referência atual; o anterior permanece no histórico.
 
