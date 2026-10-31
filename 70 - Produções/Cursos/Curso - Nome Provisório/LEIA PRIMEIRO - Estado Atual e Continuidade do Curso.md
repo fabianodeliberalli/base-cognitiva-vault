@@ -5,12 +5,22 @@ curso: nome-provisorio
 status: referencia-atual-revisavel
 versao: "4.0"
 criado_em: 2026-07-21
-atualizado_em: 2026-10-30
+atualizado_em: 2026-10-31
 autor: Fabiano Deliberalli
 autoridade_de_decisao: Fabiano Deliberalli
 ---
 
-## Revisão solicitada em 30 de outubro de 2026
+## Atualização de 31 de outubro de 2026
+
+Raio X de 30/10 preservado como base, com refinamentos localizados aprovados por Fabiano: procedência/revisão das interpretações, liberdade de corrigir uma formulação, Tradução que participa da elaboração de sentido e acompanhamento temporal da integração. Consultar [[TSH - Preparação dos Roteiros e Calendário 2026-2027]] e [[Guia-de-Conducao-Masterclass-TSH-2026-10-31]].
+
+Nesta turma, haverá oito encontros online ao vivo de duas horas com Fabiano, totalizando 16 horas: um encontro conjunto de M0 e M1 e um encontro para cada módulo de M2 a M8. Em cada encontro, a primeira hora será destinada a dúvidas e a segunda à prática orientada. Os encontros ocorrerão das 9h às 11h, horário de Brasília, conforme o calendário consolidado. São adicionais às 54 aulas gravadas. Plataforma, links e política de gravação dos encontros do curso serão informados separadamente. O acesso de um ano ao conteúdo não implica encontros recorrentes por um ano.
+
+M0 e M1: liberação em 17/11/2026 às 00h. Último módulo: 24/01/2027. Último encontro: 30/01/2027. Datas de gravação e edição não foram definidas. O cadastro não atesta publicação na Hotmart. Referências anteriores a nove encontros/18h e acesso a M0/M1 no ingresso estão superadas por este calendário.
+
+
+
+## Registro de 30/10 — entrega operacional atualizada acima
 
 O Raio X recebeu uma revisão de trabalho em Word e Markdown, acompanhada de [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo]]. A formulação ampliada, a persona, o benefício expressivo e um encontro online ao vivo de duas horas por módulo foram explicitamente solicitados por Fabiano. Os exemplos, a distribuição de práticas e o modo de condução são propostas pedagógicas revisáveis. Fabiano homologou a integração deste conjunto em 30/10/2026 ao solicitar as modificações no Obsidian. O Raio X revisado passa a ser a referência atual; o anterior permanece no histórico.
 

@@ -10,7 +10,7 @@ Transcrição do Word revisado, com integração homologada por Fabiano em 30/10
 
 # Raio X do Traduzindo o Ser Humano
 
-Revisão de trabalho de 30 de outubro de 2026. Preserva 9 módulos e 54 aulas. Preparada para revisão e integração ao repositório; não atesta publicação externa da oferta.
+Revisão de 31 de outubro de 2026. Base conceitual de 30/10 preservada; quatro refinamentos localizados e calendário consolidado. 9 módulos, 54 aulas gravadas e 8 encontros ao vivo.
 
 Questionário Raio X de produtos
 
@@ -30,7 +30,7 @@ Formato de entrega (curso ou mentoria): Formação educacional online voltada ao
 
 O curso é organizado em 9 módulos e 54 aulas curtas e progressivas, disponibilizadas pela Hotmart com 1 ano de acesso. (Não possui caráter de graduação, especialização, psicoterapia ou tratamento clínico).
 
-Encontros ao vivo: Nesta turma, a cada módulo liberado haverá um encontro online ao vivo de duas horas com Fabiano: uma hora para dúvidas e uma hora para prática orientada. A interpretação operacional adotada contempla M0 a M8: nove encontros e 18 horas ao vivo, adicionais às 54 aulas gravadas. Datas, plataforma dos encontros e política de gravação serão informadas separadamente; o acesso de um ano ao curso não implica encontros recorrentes por um ano.
+Encontros ao vivo: Nesta turma, haverá oito encontros online ao vivo de duas horas com Fabiano, totalizando 16 horas: um encontro conjunto de M0 e M1 e um encontro para cada módulo de M2 a M8. Em cada encontro, a primeira hora será destinada a dúvidas e a segunda à prática orientada. Os encontros ocorrerão das 9h às 11h, horário de Brasília, conforme o calendário consolidado. São adicionais às 54 aulas gravadas. Plataforma, links e política de gravação dos encontros do curso serão informados separadamente. O acesso de um ano ao conteúdo não implica encontros recorrentes por um ano.
 
 Tempo de acesso: 1 ano.
 
@@ -136,7 +136,7 @@ Foco: Apresentar corpo, emoção, mente, relações e espiritualidade como janel
 
 ### Aula 6 — Primeira Cartografia: localizar-se antes de responder
 
-Foco: Mapear uma situação por palavras, traços, cores, imagens, gestos ou silêncio. Notar dimensões presentes e elaborar uma Tradução provisória, incluindo o que permanece desconhecido e uma participação possível.
+Foco: Mapear uma situação por palavras, traços, cores, imagens, gestos ou silêncio. Notar dimensões presentes e elaborar uma Tradução provisória, incluindo o que permanece desconhecido e uma participação possível. O registro pode ajudar a descobrir um sentido ainda em elaboração; não é necessário encontrar palavras ou uma conclusão durante o exercício.
 
 ### Aula 7 — Perder o eixo não significa perder o percurso
 
@@ -167,7 +167,7 @@ Foco: Diferenciar o acontecimento observável, o vivido, as associações e as c
 
 ### Aula 6 — Como construir e revisar uma Tradução provisória
 
-Foco: Construir e revisar uma Tradução provisória com diferentes mapas e linguagens. Perguntar o que percebi, associei, concluí e o que permanece desconhecido ou pode mudar minha leitura; sensibilidade inclui abertura e discernimento.
+Foco: Construir e revisar uma Tradução provisória com diferentes mapas e linguagens. Perguntar o que percebi, associei, concluí e o que permanece desconhecido ou pode mudar minha leitura; sensibilidade inclui abertura e discernimento. Investigar também como uma interpretação foi construída ou recebida, o que a sustenta e o que poderia levar à sua revisão.
 
 ## MÓDULO 3 — Use o corpo como apoio para recuperar presença e orientação
 
@@ -211,7 +211,7 @@ Foco: Desenvolver diferenciação emocional para reconhecer nuances e ampliar po
 
 ### Aula 3 — Nomear para diferenciar, não para encerrar a experiência
 
-Foco: Experimentar a triangulação entre sensação percebida, contexto e nome provisório. Usar até três hipóteses de nomeação quando isso ajudar, admitindo imagem, gesto, silêncio e ainda não sei. Comparar o que cada leitura permite perceber e revisar, sem forçar uma explicação ou prometer recalibração neural.
+Foco: Experimentar a triangulação entre sensação percebida, contexto e nome provisório. Usar até três hipóteses de nomeação quando isso ajudar, admitindo imagem, gesto, silêncio e ainda não sei. Comparar o que cada leitura permite perceber e revisar, sem forçar uma explicação ou prometer recalibração neural. Incluir a possibilidade de corrigir ou recusar uma formulação oferecida pelo educador, explicando o que corresponde ou não à própria experiência.
 
 ### Aula 4 — Padrões como aprendizagem, proteção e relação
 
@@ -279,7 +279,7 @@ Foco: Investigar o que pode ser articulado, o que requer diferenciação, distâ
 
 ### Aula 5 — Tradução e EIXO em espiral
 
-Foco: Comparar reencontros com temas pela espiral: condições, participação, respostas e efeitos. Incluir mudanças, impasses, menor disponibilidade e retomadas sem melhora identificável; retornar ao tema não assegura progresso.
+Foco: Comparar reencontros com temas pela espiral: condições, participação, respostas e efeitos. Incluir mudanças, impasses, menor disponibilidade e retomadas sem melhora identificável; retornar ao tema não assegura progresso. Acompanhar o que foi vivido durante uma experiência, o que permaneceu depois, o sentido atribuído, sua participação na vida e as condições ainda necessárias.
 
 ### Aula 6 — Presença situada e coerência possível
 
@@ -297,7 +297,7 @@ Foco: Comunicar o próprio desconforto sem transformar a expressão íntima em j
 
 ### Aula 3 — Escutar e ajustar sem abandonar sua posição
 
-Foco: Acolher feedbacks e pontos de vista externos divergentes sem anular suas próprias referências internas, valores e dignidade.
+Foco: Acolher feedbacks e pontos de vista externos divergentes sem anular suas próprias referências internas, valores e dignidade. Escutar também sem substituir a experiência do outro pela própria interpretação, oferecendo leituras que possam ser corrigidas.
 
 ### Aula 4 — Colocar limites sem precisar apagar o outro
 
@@ -435,7 +435,7 @@ Headline de Entrada: Por que você entende seus padrões, mas continua repetindo
 
 Subtítulo: Da compreensão acumulada à presença que sustenta.
 
-Mecanismo de Ensino: Tradução da Experiência Humana — reconhecer e diferenciar dimensões do vivido, por linguagens verbais e não verbais, colocando mapas em diálogo para ampliar possibilidades de participação e expressão situada.
+Mecanismo de Ensino: Tradução da Experiência Humana — reconhecer e diferenciar dimensões do vivido, encontrar formas de expressão e elaborar sentidos ainda pouco claros, por linguagens verbais e não verbais, colocando mapas em diálogo para ampliar possibilidades de participação e expressão situada.
 
 Função Pedagógica EIXO: É um mapa interno de retorno, diferenciação e orientação prática. Não deve ser anunciado como um método comercial apartado ou marca paralela de mercado.
 
@@ -444,3 +444,9 @@ Definição de Presença que Sustenta: Presença suficiente para continuar em co
 Definição de Competência Incorporada: Quando aquilo que você compreendeu começa a ficar mais disponível nas situações reais da vida. Deve ser ensinado progressivamente e nunca apresentado como headline fria de aquisição em páginas ou anúncios.
 
 Forma de Comunicação Obrigatória: É proibido prometer a eliminação definitiva de padrões, o destravar instantâneo de potencial ou o equilíbrio permanente. Toda comunicação deve focar em respostas situadas, maior legibilidade da experiência, recuperação de orientação e desenvolvimento gradual de capacidades e cultivo de possibilidades ainda pouco expressas.
+
+## Calendário consolidado em 31/10/2026
+
+Nesta turma, haverá oito encontros online ao vivo de duas horas com Fabiano, totalizando 16 horas: um encontro conjunto de M0 e M1 e um encontro para cada módulo de M2 a M8. Em cada encontro, a primeira hora será destinada a dúvidas e a segunda à prática orientada. Os encontros ocorrerão das 9h às 11h, horário de Brasília, conforme o calendário consolidado. São adicionais às 54 aulas gravadas. Plataforma, links e política de gravação dos encontros do curso serão informados separadamente. O acesso de um ano ao conteúdo não implica encontros recorrentes por um ano.
+
+Consultar [[TSH - Preparação dos Roteiros e Calendário 2026-2027]]. M0/M1: liberação em 17/11/2026 às 00h. Datas detalhadas na nota de preparação.

@@ -82,3 +82,9 @@ Uma impressão corporal ou intuitiva pode orientar uma pergunta aberta à confir
 Aplicações: M1.6, M2.5–M2.6, M3.2, M5.8 e relações em M7.
 
 Fonte integrativa: [[TSH - Síntese Integrativa do Refinamento]]. Incorporação solicitada por Fabiano; práticas descritas permanecem propostas de desenvolvimento e condução autoral.
+
+## Aplicação pedagógica refinada em 31/10/2026
+
+Tradução da Experiência Humana — reconhecer e diferenciar dimensões do vivido, encontrar formas de expressão e elaborar sentidos ainda pouco claros, por linguagens verbais e não verbais, colocando mapas em diálogo para ampliar possibilidades de participação e expressão situada.
+
+Esta precisão retoma as modalidades emergente e mediada já registradas; não cria uma terceira modalidade. O educador oferece perguntas e palavras que o participante pode corrigir. M2.6 investiga a procedência das interpretações e M7.3 considera as condições do encontro. A origem clínica das notas não transporta procedimentos terapêuticos para o curso.
