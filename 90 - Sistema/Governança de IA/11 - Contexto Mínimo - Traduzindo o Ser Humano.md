@@ -6,6 +6,10 @@ versao: "0.8"
 atualizado_em: 2026-10-31
 ---
 
+## Recuperação de fundamentos na produção de aulas — 31/10/2026
+
+Ao elaborar uma aula, recuperar conteúdo autoral e fundamentos por pertinência além das fontes iniciais: TCC, monografias de Transpessoal e MTC, livro, pesquisas, apresentações, práticas e materiais. [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Governança do Conhecimento/02 - Inventário Mestre de Conteúdos Disponíveis|Inventário Mestre]] fornece rotas; [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Governança do Conhecimento/06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54|Matriz de Incorporação]] relaciona-as às 54 aulas; [[70 - Produções/Cursos/Curso - Nome Provisório/Protocolo de Elaboração Curricular Viva e Continuidade Leve|Protocolo de Elaboração]] descreve o resgate. Abrir os trechos de origem, explicitar contribuição/destino e registrar lacunas. Fontes em ramificação e originais externos mantêm seu estatuto; não presumir que estejam na main ou integralmente acessíveis. O contexto permanece progressivo, sem carregar todo o acervo nem exigir relatório antes da criação.
+
 ## Atualização de 31 de outubro de 2026
 
 Raio X de 30/10 preservado como base, com refinamentos localizados aprovados por Fabiano: procedência/revisão das interpretações, liberdade de corrigir uma formulação, Tradução que participa da elaboração de sentido e acompanhamento temporal da integração. Consultar [[TSH - Preparação dos Roteiros e Calendário 2026-2027]] e [[Guia-de-Conducao-Masterclass-TSH-2026-10-31]].
