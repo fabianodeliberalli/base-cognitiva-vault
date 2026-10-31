@@ -2,11 +2,11 @@
 tipo: transcricao-de-consulta
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-homologada
-atualizado_em: 2026-10-30
-fonte_sha256: 0630830b9193e290c5b2801a2efc6a55ce62584caa97d7c628fce37322bf9848
+atualizado_em: 2026-10-31
+fonte_sha256: 8502e4a3d4860d4a9d89969e1ca792ca5c7cb8b991e98f472ec1808ef5837ecb
 ---
 
-Transcrição do Word revisado, com integração homologada por Fabiano em 30/10/2026. Documento-base confirmado em 24/10/2026 preservado no histórico; revisão solicitada por Fabiano em 30/10/2026. Não editar esta transcrição isoladamente. Desenvolvimento pedagógico e fontes: [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo]].
+Transcrição do Word atualizado em 31/10/2026, incorporando os refinamentos solicitados e aprovados por Fabiano nesta data. Documento-base confirmado em 24/10/2026 preservado no histórico; revisão solicitada por Fabiano em 30/10/2026. Não editar esta transcrição isoladamente. Desenvolvimento pedagógico e fontes: [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo]].
 
 # Raio X do Traduzindo o Ser Humano
 
@@ -450,3 +450,17 @@ Forma de Comunicação Obrigatória: É proibido prometer a eliminação definit
 Nesta turma, haverá oito encontros online ao vivo de duas horas com Fabiano, totalizando 16 horas: um encontro conjunto de M0 e M1 e um encontro para cada módulo de M2 a M8. Em cada encontro, a primeira hora será destinada a dúvidas e a segunda à prática orientada. Os encontros ocorrerão das 9h às 11h, horário de Brasília, conforme o calendário consolidado. São adicionais às 54 aulas gravadas. Plataforma, links e política de gravação dos encontros do curso serão informados separadamente. O acesso de um ano ao conteúdo não implica encontros recorrentes por um ano.
 
 Consultar [[TSH - Preparação dos Roteiros e Calendário 2026-2027]]. M0/M1: liberação em 17/11/2026 às 00h. Datas detalhadas na nota de preparação.
+
+| Módulo | Liberação às 00h | Encontro 9h–11h |
+| --- | --- | --- |
+| M0 | 17/11/2026 | 28/11/2026 (conjunto M0/M1) |
+| M1 | 17/11/2026 | 28/11/2026 (conjunto M0/M1) |
+| M2 | 29/11/2026 | 05/12/2026 |
+| M3 | 06/12/2026 | 12/12/2026 |
+| M4 | 13/12/2026 | 19/12/2026 |
+| M5 | 20/12/2026 | 09/01/2027 |
+| M6 | 10/01/2027 | 16/01/2027 |
+| M7 | 17/01/2027 | 23/01/2027 |
+| M8 | 24/01/2027 | 30/01/2027 |
+
+Horário de Brasília. Masterclass em 10/11/2026, 19h–20h30, Zoom; inscrições até 17/11/2026, 23h59. M0/M1 serão liberados em 17/11 mesmo para inscrições anteriores. Sem encontros em 26/12 e 02/01. O último encontro não encerra o ano de acesso.
