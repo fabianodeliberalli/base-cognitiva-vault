@@ -9,6 +9,42 @@ atualizado_em: 2026-10-24
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
+## Refinamento M1 e retomadas — 01/11/2026
+
+**Incorporação solicitada por Fabiano:** mentalização implícita/explícita (Allen, Fonagy e Bateman), mente corporificada e relacional (Siegel), distinção entre sensação e interpretação na M1.1. A formulação de Siegel sobre fluxos de energia e informação dentro de nós e entre nós encontra aderência na sensibilidade e perspectiva autoral de Fabiano e promove diálogo substantivo com Qi, práticas vitalistas orientais e sistemas. Distinguir procedências deve permitir a tradução, sem neutralizar a dimensão energética/espiritual e sem atribuir equivalências demonstradas às fontes. Siegel apresenta uma definição de trabalho de um aspecto da mente; não uma explicação completa da consciência.
+
+**Referência formativa informada por Fabiano:** teve aulas com Yolanda Cintrão Forghieri na pós em Transpessoal sobre envolvimento existencial e distanciamento reflexivo; utiliza essa elaboração em aulas e como recurso didático e postura clínica de escuta e elaboração. Articular essa procedência ao refinamento, distinguindo contribuição da autora e desenvolvimento próprio.
+
+**Fontes diretamente examinadas no chat de M1:** Allen, Fonagy e Bateman, Mentalizing in Clinical Practice (2008), novo PDF de 424 páginas, trechos sobre mentalização implícita/explícita (pp. 27–28), postura de não saber (p. 47), afetividade mentalizada (pp. 66–67) e psicoeducação (pp. 293–295); Siegel, Mind, capítulo 2 (pp. 49–50 do PDF fornecido); Tsakiris e De Preester (orgs.), The Interoceptive Mind (2019), capítulo 12 de Farb e Logie, pp. 227–230. São leituras dirigidas, não leitura integral dos livros.
+
+### Pyasik et al. — referência recuperável e destinos
+
+Pyasik, M., Marini, E., Ippolito, G., Fusco, G., Tarasi, L., Finisguerra, A., Romei, V., & Urgesi, C. (2026). Biasing predictive processing of interoceptive information affects implicit spirituality but not religiosity. Acta Psychologica, 267, 107185.
+
+- DOI: https://doi.org/10.1016/j.actpsy.2026.107185
+- PubMed: https://pubmed.ncbi.nlm.nih.gov/42241846/
+- Artigo: https://www.sciencedirect.com/science/article/pii/S0001691826009868
+- PDF fornecido e examinado: “PYASIK et al; 2026 Biasing predictive processing of interoceptive information affects implicit.pdf”. Cópia na conta do autor: https://chatgpt.com/library?file_id=libfile_3e284da9db908191bf11813140457623&account_id=personal (acesso depende da conta).
+- Resgate: interocepção; expectativa; processamento preditivo; espiritualidade implícita; IAT; percepção e interpretação; Qi; discernimento.
+- Contribuição: investigar relações entre expectativas, discriminação dos batimentos e associações implícitas ligadas à espiritualidade. Dois experimentos, amostras finais de 31 e 24 participantes. O efeito dependeu da condição experimental e das análises; o segundo experimento não encontrou mudança significativa em espiritualidade/religiosidade. Os autores reconhecem limitações amostrais e a dificuldade de excluir viés de resposta. Não extrapolar uma medida de associação implícita para a totalidade da espiritualidade, nem apresentar o estudo como teste de Qi.
+- **M2.1 — Perceber não é simplesmente copiar o mundo:** recuperar como exemplo possível da participação de expectativas na tarefa perceptiva; explicar manipulação e limites.
+- **M2.5 — O que aconteceu, o que foi vivido e o que foi interpretado:** consultar para diferenciar procedimento experimental, resposta medida e interpretação.
+- **M3.2 — Interocepção: perceber e interpretar sinais internos:** destino prioritário para apresentação acessível do estudo, em conjunto com The Interoceptive Mind.
+- **M3.5 — Energia e vitalidade nas tradições orientais:** referência de diálogo possível sobre experiência e expectativa; contextualizar Qi em sua tradição, sem usar o artigo para confirmar ou refutar Qi.
+- **M5.6 — Espiritualidade como dimensão legítima da experiência humana; M5.8 — Discernimento espiritual: liberdade, autoridade e efeitos:** recuperar a diferença entre medida experimental, experiência vivida e interpretação de origem/sentido. Estudar mediações não resolve a questão ontológica.
+- M1.1: fundamento ampliado; não acrescentar exposição técnica do experimento por obrigação.
+- Ao produzir esses roteiros, consultar o original e registrar onde contribuiu ou por que sua inclusão não acrescentou. Os destinos são oportunidades concretas de resgate, não obrigação de citar em todas as aulas.
+
+### Prática com as mãos — proposta em avaliação
+
+Fabiano propôs exercício leve de percepção energética, possivelmente no encontro on-line. Proposta pedagógica: primeiro contato no encontro conjunto M0/M1 pelo Zoom, na hora de prática, com retomada em M3.2, M3.5 e M3.6. Ainda não é prática final aprovada nem exercício formal de uma linhagem identificada.
+
+Explorar postura confortável, respiração espontânea, palmas voltadas uma para a outra e pequenos movimentos, sem exigir sensação específica. Primeiro descrever livremente; depois dialogar com a linguagem de Qi, expectativas e efeitos da atenção. Ausência de sensação também pode ser registrada. Sensações nas mãos envolvem várias modalidades corporais; não classificar toda a prática como interocepção estrita. A prática é cultivo perceptivo e ocasião de tradução, não teste de emissão ou transmissão de energia entre pessoas pela tela.
+
+Rever a tabela de investigação: “o que acontece no organismo?” não pode ser respondido integralmente pela introspecção. Preferir experiência percebida → condições/modificações da prática → palavras/imagens → leitura no mapa de Qi e outros mapas → abertura à revisão → efeito/participação. Diferenciar clareza da sensação de certeza sobre sua causa. Manter envolvimento e reflexão como movimentos reversíveis, sem converter a prática em autoavaliação permanente.
+
+**Próxima ação:** incorporar os fundamentos ao roteiro M1.1 v0.2 e desenvolver a proposta do encontro M0/M1 conforme pertinência. Slides, notas e entregáveis ainda não foram produzidos nesta etapa.
+
 ## Retomadas e materiais registrados em 31/10/2026
 
 Antes de produzir a aula pertinente, consultar [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Governança do Conhecimento/TSH - Retomadas de escrita atenção e diferenciação nas 54 aulas]] e os itens correspondentes em [[70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/TSH - Escrita atenção e diferenciação - Referências e limites]]. A matriz utiliza o Raio X atualizado de 31/10; não altera a arquitetura. [[70 - Produções/Cursos/Curso - Nome Provisório/Práticas Candidatas/Práticas por Módulo - Consulta em criação e expansão]] está em plena criação e expansão: somente consulta contextual, sem governar as práticas. Aplicar [[70 - Produções/Cursos/Curso - Nome Provisório/20 - Identidade Visual/10 - Sistema Oficial v1.0/00 - Manual de Identidade Visual v1.0]] aos slides e entregáveis. Registrar o uso efetivo de cada fonte e sua limitação. M0.2 atual: [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 0/M0.2 - Roteiro e notas sincronizados v1.2]].
