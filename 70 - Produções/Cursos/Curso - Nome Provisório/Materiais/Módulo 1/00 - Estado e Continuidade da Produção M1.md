@@ -10,6 +10,14 @@ preparacao_de_gravacoes: autorizada
 status_audiovisual: arquivos-finais-e-ensaio-pendentes
 ---
 
+## Produção de M1.2 — 01/11/2026
+
+M1.2 produzida em versão de trabalho 0.1: roteiro completo, onze slides com notas integrais, caderno do professor DOCX e caderno do aluno de aprofundamento/registro DOCX/PDF. Consultar [[M1.2 - Produção e continuidade]] para arquivos, fontes e apontadores. Duração estimada 15–18 minutos; revisão autoral e ensaio pendentes. Nenhuma gravação ou publicação atestada.
+
+A continuidade utiliza também M1.1 v0.3 e aprofundamento v1.1 produzidos neste chat, disponíveis na [PR35](https://github.com/fabianodeliberalli/base-cognitiva-vault/pull/35), ainda aberta na consulta desta etapa. O estado de M1.1 abaixo descreve a main consultada; a proposta da PR35 atualiza seus apontadores e não foi integrada por esta produção. A atualização de M1.2 deve ser preservada ao reconciliar as propostas.
+
+Próxima ação nesta frente: revisar/ensaiar M1.2 e prosseguir para M1.3 quando solicitado. M1.3 aprofunda competência incorporada; não repetir toda a distinção entre saber, acessar e sustentar. Prática mãos/Qi Gong permanece no encontro M0/M1.
+
 ## Estado atual — 01/11/2026
 
 Referência curricular: Raio X revisado de 30/10 e refinamentos de 31/10, conforme prompt de produção M1 e ficha mínima atual. Os registros de 24/10 abaixo permanecem históricos. A solicitação atual de Fabiano autoriza desenvolver roteiros e preparar gravações; não exige autorização adicional baseada nos marcadores antigos.
@@ -50,7 +58,7 @@ Coordenar a derivação audiovisual das aulas M1.1–M1.7 sem criar uma terceira
 | Aula | Pacote de derivação | Estado atual | Próxima ação |
 |---|---|---|---|
 | M1.1 | [[M1.1 - Roteiro oral e caderno de produção v0.2]] e [[M1.1 - Registro de percepção expressão e retorno v0.2]] | roteiro completo consolidado; matriz textual do aluno pronta para diagramação | derivar PPTX/DOCX/PDF e conferir duração |
-| M1.2 | previsto no plano v1.1 | ainda não derivado | iniciar após leitura estrutural de M1.1 |
+| M1.2 | [[M1.2 - Produção e continuidade]] | roteiro, onze slides/notas e cadernos v0.1 produzidos | revisão autoral e ensaio |
 | M1.3 | previsto no plano v1.1 | ainda não derivado | preservar competência incorporada como aprofundamento |
 | M1.4 | previsto no plano v1.1 | ainda não derivado | preservar pluralidade criteriosa |
 | M1.5 | previsto no plano v1.1 | dependência complementar identificada | extrair versão mínima das Cinco Janelas |
@@ -93,3 +101,4 @@ Referência: [[TSH - Síntese Integrativa do Refinamento]]. O documento revisado
 | M1.7 | Integrar estado, movimento, referência e participação à prática já existente; distinguir intensidade de acesso, pêndulo de espiral e compreensão de condições de ação. |
 
 As retomadas em M2–M8 estão discriminadas na síntese. MTC, Órbita Microcósmica, árvore e Cosmos conservam linguagem, procedência e função próprias. Práticas requerem desenvolvimento de instrução, observação e transferência conforme as escolhas de Fabiano.
+
