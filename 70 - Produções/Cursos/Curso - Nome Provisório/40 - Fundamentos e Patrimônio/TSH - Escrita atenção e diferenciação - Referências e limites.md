@@ -232,4 +232,11 @@ A M0.2 apresenta a função do registro em linguagem cotidiana. As redes ficam n
 
 Destinação por aula: [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Governança do Conhecimento/TSH - Retomadas de escrita atenção e diferenciação nas 54 aulas]].
 Práticas em elaboração: [[70 - Produções/Cursos/Curso - Nome Provisório/Práticas Candidatas/Práticas por Módulo - Consulta em criação e expansão]].
-Roteiro atual: [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 0/M0.2 - Roteiro e notas sincronizados v1.2]].
+Roteiro atual: [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 0/M0.2 - Roteiro e notas sincronizados v1.3]].
+
+
+## Cameron e Rubin — referências de reflexão criativa
+
+Cameron, Julia. O caminho do artista. Tradução de Leila Couceiro. Sextante, 2017. Leitura dirigida do PDF fornecido, pp. 45–65: páginas matinais e encontro com o artista. Rubin, Rick, com Neil Strauss. The Creative Act: A Way of Being. Penguin Press, 2023. Leitura dirigida do anexo em tradução automática: pp. 50–52, 92–94, 215–216 e 232–234; espiritualidade e discernimento, pp. 25–29. Paginação dos PDFs, não das edições impressas. Fontes de reflexão criativa, não evidência de eficácia clínica ou de mecanismos neurais. Gendlin permanece como fundamentação específica da elaboração experiencial.
+
+Contribuições, adaptações, limites e destinos aprovados: [[70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/TSH - Escrita livre criatividade e discernimento - Cameron e Rubin]]
