@@ -9,6 +9,10 @@ atualizado_em: 2026-10-24
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
+## Consolidação do roteiro M1.1 — 01/11/2026
+
+Fabiano solicitou consolidar os alicerces no roteiro e integrar as alterações ao repositório. Produzidos [[M1.1 - Roteiro oral e caderno de produção v0.2]] (fala integral em 12 blocos, notas e fundamentação) e [[M1.1 - Registro de percepção expressão e retorno v0.2]] (matriz textual do aluno). Usar [[00 - Estado e Continuidade da Produção M1]] como entrada atual. Os registros abaixo documentam a preparação; onde indicam roteiro/registro ainda pendentes, essa etapa textual foi concluída. PowerPoint, DOCX e PDF diagramados permanecem pendentes, assim como ensaio, gravação e publicação.
+
 ## Refinamento M1 e retomadas — 01/11/2026
 
 **Incorporação solicitada por Fabiano:** mentalização implícita/explícita (Allen, Fonagy e Bateman), mente corporificada e relacional (Siegel), distinção entre sensação e interpretação na M1.1. A formulação de Siegel sobre fluxos de energia e informação dentro de nós e entre nós encontra aderência na sensibilidade e perspectiva autoral de Fabiano e promove diálogo substantivo com Qi, práticas vitalistas orientais e sistemas. Distinguir procedências deve permitir a tradução, sem neutralizar a dimensão energética/espiritual e sem atribuir equivalências demonstradas às fontes. Siegel apresenta uma definição de trabalho de um aspecto da mente; não uma explicação completa da consciência.
