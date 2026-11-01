@@ -836,3 +836,18 @@ Centre for Clinical Interventions. Assertiveness resources. https://www.cci.heal
 ## Nota de estatuto
 
 Recuperada significa que a sequência já estava documentada em material curricular maduro. Adaptada significa que existe patrimônio autoral claro, mas o roteiro curto é novo. Proposta significa síntese elaborada para este desenho e dependente de validação autoral. Nenhuma dessas categorias equivale a validação clínica.
+
+## Prática candidata para M5.5 — Contato e curiosidade
+
+Inclusão solicitada por Fabiano em 31/10/2026. Adaptação autoral em elaboração, inspirada no encontro com o artista de Cameron e nas reflexões de Rubin. Não é reprodução integral dessas práticas. É uma oportunidade de contato sem obrigação de produzir algo.
+
+1. Escolher algo que desperte curiosidade: uma música, uma caminhada possível, um objeto, uma fotografia ou uma experiência culinária.
+2. Permanecer algum tempo em contato com isso, conforme a disponibilidade e as condições da pessoa.
+3. Registrar o que chamou a atenção, por palavras, imagem ou outra forma, se desejar.
+4. Diferenciar o que foi percebido das associações e dos sentidos que surgiram.
+
+O registro é uma possibilidade, não uma entrega obrigatória. Pode-se apenas observar, deixar em aberto, interromper ou retomar. Não exigir produto artístico, interpretação espiritual, compartilhamento ou um efeito específico. Escolher estímulos acessíveis e manejáveis; ajustar a atividade ao contexto ao elaborar o roteiro. Perguntas possíveis: “O que percebi?”, “O que associei?” e “Que sentido isso teve para mim?”. Essas distinções não supõem percepção pura.
+
+Este acervo permanece em plena criação e expansão: referencial de consulta quando pertinente, não documento diretor para construir práticas. O roteiro de M5.5 ainda será desenvolvido.
+
+Fundamentação: [[70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/TSH - Escrita livre criatividade e discernimento - Cameron e Rubin]]

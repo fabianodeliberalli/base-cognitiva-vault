@@ -126,3 +126,22 @@ Identidade: [[70 - Produções/Cursos/Curso - Nome Provisório/20 - Identidade V
 ## Referências específicas ainda necessárias
 
 Esta matriz cobre as referências levantadas nesta pesquisa. Ela não substitui pesquisa própria sobre processamento preditivo, interocepção, alostase, granularidade, aprendizagem de hábitos, comunicação, MTC ou valores. A bibliografia adicional do anexo de práticas está preservada como bibliografia do documento-fonte, sem declaração de nova checagem integral. Deve ser verificada por componente antes de sustentar instrução ou afirmação nova.
+
+
+## Escrita livre criatividade e discernimento — inclusão de 31/10/2026
+
+Contribuições selecionadas por Fabiano; recuperar na elaboração das aulas abaixo. Fundamentos e adaptações: [[70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/TSH - Escrita livre criatividade e discernimento - Cameron e Rubin]]
+
+| Aula ou momento | Contribuição a recuperar |
+|---|---|
+| M0.2 | Começar com fragmentos; distinguir revisão de desqualificação pessoal. Passagem breve, sem outra prática obrigatória. |
+| M1.4 e M2.5 | Metáfora dos filtros como convite à investigação, sem prometer percepção pura, livre de interpretação. |
+| M2.6 | Experimentar formulações e conferir sua pertinência. O primeiro registro pode mudar. |
+| M4.4 e M4.5 | Investigar o julgamento sobre a própria expressão: quando aparece, o que teme e o que procura proteger. |
+| M5.5 | Principal lugar para curiosidade, brincadeira, repertório sensorial e encontros criativos opcionais. |
+| M5.6 a M5.8 | Escrita como experiência de sentido; distinguir vivência, interpretação, autoridade e decisão. |
+| M6.3 e M6.5 | Permitir expressões contraditórias e comparar registros sem exigir evolução linear. |
+| M7.1 e M7.3 | Distinguir registro privado e comunicação a alguém, considerando recepção e possibilidade de ajuste. |
+| M8.2 | Escolher práticas criativas sustentáveis, com liberdade para adaptar, interromper ou retomar. |
+
+A M0.2 já incorpora a passagem na versão 1.3. A M5.5 tem prática candidata no acervo, em criação e expansão. Nas M5.6–M5.8, distinguir vivência, interpretação, autoridade e decisão.
