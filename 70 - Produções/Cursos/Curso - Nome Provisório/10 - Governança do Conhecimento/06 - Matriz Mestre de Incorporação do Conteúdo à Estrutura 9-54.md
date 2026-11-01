@@ -35,13 +35,64 @@ Pyasik, M., Marini, E., Ippolito, G., Fusco, G., Tarasi, L., Finisguerra, A., Ro
 - M1.1: fundamento ampliado; não acrescentar exposição técnica do experimento por obrigação.
 - Ao produzir esses roteiros, consultar o original e registrar onde contribuiu ou por que sua inclusão não acrescentou. Os destinos são oportunidades concretas de resgate, não obrigação de citar em todas as aulas.
 
-### Prática com as mãos — proposta em avaliação
+### Prática com as mãos — inclusão no encontro solicitada por Fabiano em 01/11/2026
 
-Fabiano propôs exercício leve de percepção energética, possivelmente no encontro on-line. Proposta pedagógica: primeiro contato no encontro conjunto M0/M1 pelo Zoom, na hora de prática, com retomada em M3.2, M3.5 e M3.6. Ainda não é prática final aprovada nem exercício formal de uma linhagem identificada.
+Fabiano solicitou registrar a prática leve de percepção energética com as mãos e Qi Gong para o encontro conjunto M0/M1 pelo Zoom. Construir no M1 os alicerces de fundamentação e propósito. A inclusão está decidida; sequência, duração e condução detalhadas continuam em elaboração, a partir da formação e prática do autor.
 
 Explorar postura confortável, respiração espontânea, palmas voltadas uma para a outra e pequenos movimentos, sem exigir sensação específica. Primeiro descrever livremente; depois dialogar com a linguagem de Qi, expectativas e efeitos da atenção. Ausência de sensação também pode ser registrada. Sensações nas mãos envolvem várias modalidades corporais; não classificar toda a prática como interocepção estrita. A prática é cultivo perceptivo e ocasião de tradução, não teste de emissão ou transmissão de energia entre pessoas pela tela.
 
 Rever a tabela de investigação: “o que acontece no organismo?” não pode ser respondido integralmente pela introspecção. Preferir experiência percebida → condições/modificações da prática → palavras/imagens → leitura no mapa de Qi e outros mapas → abertura à revisão → efeito/participação. Diferenciar clareza da sensação de certeza sobre sua causa. Manter envolvimento e reflexão como movimentos reversíveis, sem converter a prática em autoavaliação permanente.
+
+### Decisões para slides, entregável e retomadas — complemento de 01/11/2026
+
+Preservar o exemplo do aperto no peito diante de um pedido e acrescentar experiências de curiosidade, vitalidade e descoberta. O cultivo da sensibilidade corporal não se organiza somente em torno de desconforto ou dificuldade.
+
+**Tabela selecionada por Fabiano para apoiar aula/PowerPoint e entregável** (na aplicação ao Qi; outros contextos podem adaptar a pergunta Traduzir):
+
+| Movimento | Pergunta possível |
+|---|---|
+| Aproximar-se | O que percebo agora, mesmo que ainda não saiba nomear? |
+| Diferenciar | Onde percebo? Como isso varia quando mudo a posição, o movimento ou a atenção? |
+| Expressar | Que palavra, imagem ou gesto ajuda a apresentar essa experiência? |
+| Traduzir | Como a linguagem do Qi ajuda a compreender ou acompanhar o que vivi? Que outras leituras acrescentam algo? |
+| Rever | O que está claro para mim? Sobre o que ainda tenho dúvidas? |
+| Participar | O que acontece quando ajusto a maneira de me relacionar com essa experiência? |
+
+O envolvimento pede espaço; a reflexão pode acontecer depois e abrir novo retorno à experiência. Forghieri e mentalização contribuem para essa condução, sem identificação automática entre teorias. As seis perguntas são apoio flexível, não etapas obrigatórias nem novo mapa das Cinco Janelas.
+
+**Entregável escolhido:** espaço para “o que percebi; como procurei expressar; o que mudou ao retornar; o que quero continuar observando”. Permitir escrita, imagem, gesto descrito e ausência de nome. A linguagem energética pode ajudar a elaboração sem exigir vocabulário especializado. PowerPoint: apresentar os movimentos de modo legível, com perguntas nas notas e/ou em mais de um slide conforme o roteiro. Arquivos finais ainda não produzidos.
+
+| Momento | Função da proposta |
+|---|---|
+| M1.1 | Introduzir que compreensão, percepção e resposta disponível podem se desenvolver em ritmos diferentes. |
+| M1.4 — Território e mapas | Retomar uma mesma experiência por linguagens diferentes, examinando o que cada uma permite perceber. |
+| M1.5 — Cinco Janelas | Mostrar relações entre corpo, emoção, mente, relações e espiritualidade, sem exigir que todas apareçam numa prática. |
+| M1.6 — Primeira Cartografia | Registrar sensações, imagens e palavras provisórias, inclusive aquilo que ainda não encontrou expressão. |
+| Encontro M0/M1 | Experimentar a exploração com as mãos e elaborar o vivido com a condução de Fabiano. |
+| M3.2 — Interocepção | Aprofundar percepção, expectativa, interpretação e confiança. |
+| M3.5–M3.6 — Energia, vitalidade, centro e circulação | Desenvolver a linguagem e as práticas orientais com maior contexto e continuidade. |
+
+### Formação com Siegel e patrimônio do Qi Gong
+
+Consulta realizada pelo GitHub ao Dossiê Curricular Mestre, à Matriz Curricular Detalhada e às notas comprobatórias:
+- [[70 - Produções/Projetos/Posicionamento Profissional e Autoridade/12 - Documentos Comprobatórios/08 - Daniel Siegel - Certificado Neurobiologia Interpessoal 2021]]: registro dos dados do certificado de curso de 16h por webconferência, 16–17/10/2021, “Como tornar a psicoterapia mais efetiva”, assinado por Daniel Siegel. O PDF original não foi reinspecionado nesta consulta.
+- [[70 - Produções/Projetos/Posicionamento Profissional e Autoridade/12 - Documentos Comprobatórios/11 - Dossiê Clínico e Trauma - Certificados PDF 2010-2022]]: atualizações presenciais em Neurobiologia Interpessoal em 10/11/2013, 16h + créditos (p. 59 do conjunto auditado); registro FOCUS de 16h (p. 58).
+- [[70 - Produções/Projetos/Posicionamento Profissional e Autoridade/22 - Matriz Curricular Detalhada - Eixos Datas Cargas e Evidências 2026]]: Tai Chi Qigong Instructor Training Course, nível I, janeiro de 2016.
+- **Relato autobiográfico fornecido por Fabiano em 01/11/2026:** em workshop de Siegel para terapeutas EMDR, psicólogos e psiquiatras atuantes em trauma, vivenciou práticas de autorregulação baseadas em movimentos de Qi Gong e Tai Chi Chuan. O relato pode integrar a genealogia autoral da aula. A data exata desse episódio não foi determinada pelos registros consultados; não atribuir automaticamente ao curso de 2021 ou ao evento de 2013.
+- Recuperar [[70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/MTC e Qi Gong/00 - Fundamento Integrado - Qi, Corpo, Respiração, Intenção e Articulação Multirreferencial]], especialmente seções 2–5 e 9. O documento já afirma que Qi pode ser ensinado em sua linguagem tradicional e que as pontes contemporâneas são complementares. Preservar essa orientação.
+
+### Bottom-up, top-down e granularidade — avaliação e fontes para resgate
+
+**Bottom-up/top-down:** leitura dirigida de Siegel, Mind, seção “Top-Down and Bottom-Up”, pp. 175 e 178–182 do PDF fornecido. Usar a relação entre informação sensorial e conhecimentos, expectativas e modelos prévios como recurso didático. Não reduzir a dois sentidos anatômicos literais, nem a corpo verdadeiro versus pensamento distorcido; aprendizagem e conceitos também permitem diferenciação. Não apresentar a prática como acesso garantido a percepção sem mediação. Em M1.1, no máximo uma explicação breve; em M1.4 explicitar a relação entre experiência e mapas; aprofundar em M2.1–M2.3 e M3.2. O livro fornecido permanece na conta do autor: https://chatgpt.com/library?file_id=libfile_676ae043a8ec81919ec0db59ed21b2f3&account_id=personal .
+
+**Granularidade emocional:** o acervo já a destina à M4.2; M4.1 e M4.3 oferecem continuidade. No M1, preparar a diferenciação de experiências e a expressão provisória; não converter precisão sensorial em medida de granularidade emocional. Exemplo: diferenciar receio, culpa e irritação em torno de uma recusa, sem deduzi-los do aperto no peito; também diferenciar alívio, entusiasmo e tranquilidade em experiências agradáveis. M1.5/M1.6 podem introduzir o termo de modo breve quando contribuir. O aprofundamento e eventual material de vocabulário ficam para M4.2.
+
+Fonte primária complementar consultada (resumo, introdução e método): Barrett, L. F., Gross, J., Christensen, T. C., & Benvenuto, M. (2001). Knowing what you're feeling and knowing what to do about it: Mapping the relation between emotion differentiation and emotion regulation. Cognition and Emotion, 15(6), 713–724.
+- DOI: https://doi.org/10.1080/02699930143000239
+- Original no laboratório: https://affective-science.org/pubs/2001/01MaprelationDiffReg.pdf
+- Estudo com registros ao longo de 14 dias; associação entre diferenciação emocional negativa e frequência autorrelatada de regulação, especialmente sob maior intensidade. Não demonstra que preencher a ficha TSH causa regulação, nem que mais palavras significam mais granularidade.
+
+Rota de acervo examinada fora da main: [Investigação Discriminante — EIXO e Constructos Vizinhos](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/656615f531e3efce73f4a95be8774a75b9ea1c31/90%20-%20Sistema/Pesquisa%20e%20Editorial/Auditoria%20Te%C3%B3rica%20e%20Integra%C3%A7%C3%A3o%20Arquitetural/03%20-%20Investiga%C3%A7%C3%A3o%20Discriminante%20-%20EIXO%20e%20Constructos%20Vizinhos.md). Recupera Erbas e distingue diferenciação, certeza introspectiva e capacidade de resposta. Pergunta pertinente à M1.1: quando uma diferenciação se torna utilizável na situação concreta e quando permanece apenas compreendida? Consulta de trechos, sem incorporar automaticamente toda a auditoria.
 
 **Próxima ação:** incorporar os fundamentos ao roteiro M1.1 v0.2 e desenvolver a proposta do encontro M0/M1 conforme pertinência. Slides, notas e entregáveis ainda não foram produzidos nesta etapa.
 
