@@ -400,6 +400,16 @@ Para pedir uma aula: “Elabore o roteiro de Mx.y usando o Raio X atualizado em 
 
 ## 8. Operação e fontes de decisão
 
-Definidos: módulos, títulos, 54 aulas, datas de liberação, oito encontros, horários, Masterclass e fechamento das inscrições. A definir: datas de gravação/edição/envio, plataforma e links dos encontros do curso, política de replay e faltas. O cadastro textual e a planilha preparam a plataforma; não constituem publicação na Hotmart.
+Definidos: módulos, títulos, 54 aulas, datas de liberação, oito encontros, horários, Masterclass e fechamento das inscrições. Definição operacional de Fabiano em 31/10/2026: Os encontros serão realizados pelo Zoom, com link disponibilizado no grupo de WhatsApp da turma. Quem não participar ao vivo poderá assistir posteriormente à gravação na Hotmart, na área correspondente às aulas on-line. O prazo de publicação não foi definido. A definir: datas de gravação/edição/envio, prazo de publicação das gravações e tratamento operacional de imagens e relatos. O cadastro textual e a planilha preparam a plataforma; não constituem publicação na Hotmart.
 
 Calendário: TSH_Cadastro_Hotmart_Copiar_Colar.txt, registro de 31/10/2026. Conteúdo: anexos Raio X de 30/10 e Guia de 28/10; refinamentos aprovados neste chat em 31/10. Obsidian consultado pelo repositório fabianodeliberalli/base-cognitiva-vault, main, em 31/10; notas indicadas nas seções anteriores. Consulta direcionada, sem auditoria integral do vault.
+
+## Padrão de produção das aulas — decisão de Fabiano em 31/10/2026
+
+Todas as aulas a produzir para as gravações do TSH terão apresentação de apoio em PowerPoint, seguindo o padrão visual da M0.2 e o manual de identidade vigente: marca, paleta, tipografia, hierarquia e legibilidade. Preservar a voz autoral; slides apoiam a fala. Manter roteiro oral completo, notas do orador e caderno de produção sincronizados, com identificação de versão e correspondência por slide. Rever os quatro componentes quando houver alteração de conteúdo. Fundamentação detalhada e orientações de condução ficam nas notas e no caderno.
+
+Em cada aula, avaliar a pertinência de entregáveis e produzir os materiais escolhidos de forma padronizada, com marca, módulo/aula, instruções claras e espaço adequado ao uso. Disponibilizá-los em anexo próprio para download, separado do caderno do professor; preferir PDF para o aluno e manter matriz editável quando pertinente. Registrar a decisão e sua justificativa no caderno, inclusive quando não couber um novo material. Evitar acumular tarefas obrigatórias.
+
+M0.3 aplica o padrão: dez slides, roteiro e notas v1.1 e Plano pessoal de participação em Word/PDF. A utilidade do entregável é transformar condições de participação em um plano breve, pessoal e revisável, sem exigir entrega ou exposição.
+
+Consultar [[M0.3 - Roteiro e notas sincronizados v1.1]] e [[M0.3 - Plano pessoal de participação - Entregável]].

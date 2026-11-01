@@ -2,9 +2,19 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.8"
+versao: "0.9"
 atualizado_em: 2026-10-31
 ---
+
+## Padrão de produção das aulas — decisão de Fabiano em 31/10/2026
+
+Todas as aulas a produzir para as gravações do TSH terão apresentação de apoio em PowerPoint, seguindo o padrão visual da M0.2 e o manual de identidade vigente: marca, paleta, tipografia, hierarquia e legibilidade. Preservar a voz autoral; slides apoiam a fala. Manter roteiro oral completo, notas do orador e caderno de produção sincronizados, com identificação de versão e correspondência por slide. Rever os quatro componentes quando houver alteração de conteúdo. Fundamentação detalhada e orientações de condução ficam nas notas e no caderno.
+
+Em cada aula, avaliar a pertinência de entregáveis e produzir os materiais escolhidos de forma padronizada, com marca, módulo/aula, instruções claras e espaço adequado ao uso. Disponibilizá-los em anexo próprio para download, separado do caderno do professor; preferir PDF para o aluno e manter matriz editável quando pertinente. Registrar a decisão e sua justificativa no caderno, inclusive quando não couber um novo material. Evitar acumular tarefas obrigatórias.
+
+M0.3 aplica o padrão: dez slides, roteiro e notas v1.1 e Plano pessoal de participação em Word/PDF. A utilidade do entregável é transformar condições de participação em um plano breve, pessoal e revisável, sem exigir entrega ou exposição.
+
+Consultar [[M0.3 - Roteiro e notas sincronizados v1.1]] e [[M0.3 - Plano pessoal de participação - Entregável]].
 
 ## Recuperação de fundamentos na produção de aulas — 31/10/2026
 
@@ -14,7 +24,7 @@ Ao elaborar uma aula, recuperar conteúdo autoral e fundamentos por pertinência
 
 Raio X de 30/10 preservado como base, com refinamentos localizados aprovados por Fabiano: procedência/revisão das interpretações, liberdade de corrigir uma formulação, Tradução que participa da elaboração de sentido e acompanhamento temporal da integração. Consultar [[TSH - Preparação dos Roteiros e Calendário 2026-2027]] e [[Guia-de-Conducao-Masterclass-TSH-2026-10-31]].
 
-Nesta turma, haverá oito encontros online ao vivo de duas horas com Fabiano, totalizando 16 horas: um encontro conjunto de M0 e M1 e um encontro para cada módulo de M2 a M8. Em cada encontro, a primeira hora será destinada a dúvidas e a segunda à prática orientada. Os encontros ocorrerão das 9h às 11h, horário de Brasília, conforme o calendário consolidado. São adicionais às 54 aulas gravadas. Plataforma, links e política de gravação dos encontros do curso serão informados separadamente. O acesso de um ano ao conteúdo não implica encontros recorrentes por um ano.
+Nesta turma, haverá oito encontros online ao vivo de duas horas com Fabiano, totalizando 16 horas: um encontro conjunto de M0 e M1 e um encontro para cada módulo de M2 a M8. Em cada encontro, a primeira hora será destinada a dúvidas e a segunda à prática orientada. Os encontros ocorrerão das 9h às 11h, horário de Brasília, conforme o calendário consolidado. São adicionais às 54 aulas gravadas. Os encontros serão realizados pelo Zoom, com link disponibilizado no grupo de WhatsApp da turma. Quem não participar ao vivo poderá assistir posteriormente à gravação na Hotmart, na área correspondente às aulas on-line. O prazo de publicação não foi definido. O acesso de um ano ao conteúdo não implica encontros recorrentes por um ano.
 
 M0 e M1: liberação em 17/11/2026 às 00h. Último módulo: 24/01/2027. Último encontro: 30/01/2027. Datas de gravação e edição não foram definidas. O cadastro não atesta publicação na Hotmart. Referências anteriores a nove encontros/18h e acesso a M0/M1 no ingresso estão superadas por este calendário.
 
