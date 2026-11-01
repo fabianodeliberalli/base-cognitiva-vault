@@ -30,7 +30,7 @@ Formato de entrega (curso ou mentoria): Formação educacional online voltada ao
 
 O curso é organizado em 9 módulos e 54 aulas curtas e progressivas, disponibilizadas pela Hotmart com 1 ano de acesso. (Não possui caráter de graduação, especialização, psicoterapia ou tratamento clínico).
 
-Encontros ao vivo: Nesta turma, haverá oito encontros online ao vivo de duas horas com Fabiano, totalizando 16 horas: um encontro conjunto de M0 e M1 e um encontro para cada módulo de M2 a M8. Em cada encontro, a primeira hora será destinada a dúvidas e a segunda à prática orientada. Os encontros ocorrerão das 9h às 11h, horário de Brasília, conforme o calendário consolidado. São adicionais às 54 aulas gravadas. Plataforma, links e política de gravação dos encontros do curso serão informados separadamente. O acesso de um ano ao conteúdo não implica encontros recorrentes por um ano.
+Encontros ao vivo: Nesta turma, haverá oito encontros online ao vivo de duas horas com Fabiano, totalizando 16 horas: um encontro conjunto de M0 e M1 e um encontro para cada módulo de M2 a M8. Em cada encontro, a primeira hora será destinada a dúvidas e a segunda à prática orientada. Os encontros ocorrerão das 9h às 11h, horário de Brasília, conforme o calendário consolidado. São adicionais às 54 aulas gravadas. Os encontros serão realizados pelo Zoom, com link disponibilizado no grupo de WhatsApp da turma. Quem não participar ao vivo poderá assistir posteriormente à gravação na Hotmart, na área correspondente às aulas on-line. O prazo de publicação não foi definido. O acesso de um ano ao conteúdo não implica encontros recorrentes por um ano.
 
 Tempo de acesso: 1 ano.
 
@@ -447,7 +447,7 @@ Forma de Comunicação Obrigatória: É proibido prometer a eliminação definit
 
 ## Calendário consolidado em 31/10/2026
 
-Nesta turma, haverá oito encontros online ao vivo de duas horas com Fabiano, totalizando 16 horas: um encontro conjunto de M0 e M1 e um encontro para cada módulo de M2 a M8. Em cada encontro, a primeira hora será destinada a dúvidas e a segunda à prática orientada. Os encontros ocorrerão das 9h às 11h, horário de Brasília, conforme o calendário consolidado. São adicionais às 54 aulas gravadas. Plataforma, links e política de gravação dos encontros do curso serão informados separadamente. O acesso de um ano ao conteúdo não implica encontros recorrentes por um ano.
+Nesta turma, haverá oito encontros online ao vivo de duas horas com Fabiano, totalizando 16 horas: um encontro conjunto de M0 e M1 e um encontro para cada módulo de M2 a M8. Em cada encontro, a primeira hora será destinada a dúvidas e a segunda à prática orientada. Os encontros ocorrerão das 9h às 11h, horário de Brasília, conforme o calendário consolidado. São adicionais às 54 aulas gravadas. Os encontros serão realizados pelo Zoom, com link disponibilizado no grupo de WhatsApp da turma. Quem não participar ao vivo poderá assistir posteriormente à gravação na Hotmart, na área correspondente às aulas on-line. O prazo de publicação não foi definido. O acesso de um ano ao conteúdo não implica encontros recorrentes por um ano.
 
 Consultar [[TSH - Preparação dos Roteiros e Calendário 2026-2027]]. M0/M1: liberação em 17/11/2026 às 00h. Datas detalhadas na nota de preparação.
 
@@ -464,3 +464,8 @@ Consultar [[TSH - Preparação dos Roteiros e Calendário 2026-2027]]. M0/M1: li
 | M8 | 24/01/2027 | 30/01/2027 |
 
 Horário de Brasília. Masterclass em 10/11/2026, 19h–20h30, Zoom; inscrições até 17/11/2026, 23h59. M0/M1 serão liberados em 17/11 mesmo para inscrições anteriores. Sem encontros em 26/12 e 02/01. O último encontro não encerra o ano de acesso.
+
+
+## Complemento operacional — decisão autoral de 31/10/2026
+
+Os encontros serão realizados pelo Zoom, com link disponibilizado no grupo de WhatsApp da turma. Quem não participar ao vivo poderá assistir posteriormente à gravação na Hotmart, na área correspondente às aulas on-line. O prazo de publicação não foi definido. Esta atualização complementa o texto de consulta; não implica edição do arquivo Word histórico de origem. Padrão de produção e entregáveis registrado em [[TSH - Preparação dos Roteiros e Calendário 2026-2027]].
