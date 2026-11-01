@@ -1,10 +1,15 @@
 ---
 tipo: instrumento-de-validacao-pedagogica
 aula: "0.2"
-status: pronto-para-primeira-oferta
+status: patrimonio-consultivo-para-revisao
+uso_atual: fonte-historica-consultiva
+atualizado_em: 2026-11-01
 ---
 
 # Critérios de Pilotagem — Aula 0.2
+
+> [!IMPORTANT] Leitura atual
+> Estes critérios preservam perguntas úteis de uma versão anterior da aula. Antes de pilotar, derivar critérios compatíveis com o Raio‑X vigente e tratar **eixo** como imagem didática contextual, não como conteúdo metodológico a ser dominado.
 
 ## Compreensão
 

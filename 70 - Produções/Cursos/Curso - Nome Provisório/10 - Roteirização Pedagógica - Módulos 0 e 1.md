@@ -2,12 +2,17 @@
 tipo: roteiro-pedagogico
 projeto: Traduzindo o Ser Humano
 curso: primeira-oferta-integral
-status: prototipo-para-validacao
-versao: "0.1"
+status: acervo-historico-consultivo
+uso_atual: acervo-consultivo
+versao: "0.2"
 data: 2026-07-19
+atualizado_em: 2026-11-01
 ---
 
 # Roteirização Pedagógica — Módulos 0 e 1
+
+> [!IMPORTANT] Regra de leitura vigente — 1º de novembro de 2026
+> Este protótipo preserva uma roteirização anterior à arquitetura atual de 9 módulos e 54 aulas. Suas elaborações podem alimentar aulas, roteiros, PowerPoints e entregáveis por pertinência. As referências a “Método EIXO” são históricas; no TSH vigente, **eixo** é apenas um recurso didático contextual, escrito em minúsculas e sem hierarquia especial. A produção atual deve partir do Raio‑X vigente e de [[11 - Contexto Mínimo - Traduzindo o Ser Humano]].
 
 ## Decisão de produção
 

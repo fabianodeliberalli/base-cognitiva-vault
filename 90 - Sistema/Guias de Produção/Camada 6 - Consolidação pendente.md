@@ -1,4 +1,14 @@
+---
+tipo: guia-historico-de-producao
+status: patrimonio-historico-consultivo
+uso_atual: registro-de-hipotese-nao-desenvolvida
+atualizado_em: 2026-11-01
+---
+
 # Guia Operacional — Camada 6 — Consolidação pendente
+
+> [!IMPORTANT] Leitura atual
+> Este arquivo pertence à hipótese histórica de ecossistema em camadas. Ele não cria uma pendência operacional para o TSH atual e permanece somente como registro do que não chegou a ser definido naquela etapa.
 
 **Status:** bloqueado até recuperação da definição oficial
 

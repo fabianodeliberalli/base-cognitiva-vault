@@ -1,17 +1,25 @@
 ---
 titulo: Caderno de Comunicação e Criativos — Traduzindo o Ser Humano
-versao: "0.1"
-data: 2026-08-17
+versao: "0.3"
+data: 2026-11-01
 status: base-estrategica-em-validacao-autoral
 autoridade_de_aprovacao: Fabiano Deliberalli
 escopo: arquitetura, governança, mensagens, validação e ordem de produção
 ---
 
+## Referência de comunicação atualizada em 1º de novembro de 2026
+
+Nome do produto: **Traduzindo o Ser Humano**. Pergunta de entrada: **“Por que você entende seus padrões, mas continua repetindo?”** Formulação de aquisição: **“Entender um padrão nem sempre basta para responder de outro modo.”** Resultado desejado: **“Perceber o automático mais cedo, recuperar clareza e responder com mais coerência.”** A promessa mais longa orienta o percurso e não precisa ocupar anúncios curtos.
+
+A entrega desta turma reúne 54 aulas em vídeo e oito encontros online ao vivo de duas horas, totalizando 16 horas. M0 e M1 compartilham o primeiro encontro; M2 a M8 têm um encontro cada. Os encontros serão realizados pelo Zoom, com link no grupo de WhatsApp; as gravações serão disponibilizadas posteriormente na Hotmart, em prazo ainda não definido.
+
+Árvore, pêndulo, espiral, escada, artesão, espelho, eixo e outros mapas ou imagens são recursos didáticos contextuais. Não apresentar “Método EIXO”, não criar uma segunda marca e não destacar o eixo como mecanismo central ou estrutura superior do TSH.
+
 ## Referência de comunicação solicitada em 30 de outubro de 2026
 
 A finalidade ampliada, a persona, os benefícios e a entrega desta turma estão descritos em [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo]] e no Raio X revisado na mesma ramificação. Usar essas formulações ao revisar comunicação e oferta. Não restaurar automaticamente condições de agosto.
 
-Apresentar um encontro online ao vivo por módulo: duas horas, divididas entre dúvidas e prática orientada. M0 a M8 correspondem a nove encontros e 18 horas. São parte da entrega desta turma, sem transformar o acesso de um ano em promessa de encontros durante um ano. Calendário e gravações permanecem abertos.
+O desenho de 30/10 previa nove encontros e 18 horas. Ele foi substituído pelo calendário de oito encontros e 16 horas descrito acima.
 
 A frase de entrada sobre repetição permanece; desenvolver também reconhecimento de possibilidades, cultivo e expressão. O benefício expressivo inclui palavras, imagens, sensações e outras linguagens. A persona reconhece recursos pessoais, apoios e condições; evitar categorias moralizantes. A documentação não atesta atualização de página, anúncios ou checkout.
 
@@ -49,7 +57,7 @@ Toda peça futura deverá registrar, no mínimo:
 | 4 | `LEIA PRIMEIRO — Estado Atual e Continuidade do Curso` | v2.7, 02/08/2026 | Governa a consulta ao repositório, os estatutos documentais e a arquitetura curricular profunda | Canônico para governança curricular |
 | 4 | `Deliberação Transversal — Público, Microaulas e Arquitetura de Marca` | v1.1, 28/07/2026 | Governa público, sequência pedagógica, marca, subtítulo, headline e entrada pela experiência | Canônico transversal |
 | 4 | `Diretriz Transversal — Espiritualidade Explícita, Singularidade Autoral e Não Neutralização` | v1.0, 30/07/2026 | Governa espiritualidade, identidade autoral e prevenção de neutralização genérica | Canônico transversal |
-| 4 | `Fundamento transversal — oscilação, acesso, diferenciação e integração` | 29/07/2026 | Sustenta as mensagens sobre estado, acesso, retorno, responsabilidade, EIXO e integração | Fundamento incorporado |
+| 4 | `Fundamento transversal — oscilação, acesso, diferenciação e integração` | atualizado em 01/11/2026 | Sustenta as mensagens sobre estado, acesso, retorno, responsabilidade, integração e recursos didáticos contextuais | Fundamento incorporado |
 | 4 | `Módulo 0 — Estado, Índice e Continuidade` | v3.5, 02/08/2026 | Esclarece o estado curricular e as formulações do Módulo 0 | Canônico para a frente curricular registrada |
 | 4 | `Perfil de Público — Camila e o Leitor de Dispenza` | 21/07/2026 | Oferece uma persona cultural candidata, sem torná-la público exclusivo | Hipótese fortemente sustentada |
 | 5 | [[2026-08-17 - Export integral do chat anterior - Camada 1 Conteúdo Aberto]] | export integral recebido em 17/08/2026 | Laboratório histórico de arquitetura editorial, roteiros, ganchos e territórios | Reaproveitável somente conforme a auditoria |
@@ -115,7 +123,7 @@ Assim, o termo pode aparecer depois que a experiência já foi tornada compreens
 
 Registros antigos descreviam o EIXO como método ou camada comercial autônoma. Essa arquitetura foi superada para o lançamento atual.
 
-**Decisão vigente:** EIXO é função pedagógica interna de reconhecimento, retorno, diferenciação e orientação. Não é segunda marca, promessa de estabilidade permanente nem produto concorrente com Traduzindo o Ser Humano.
+**Decisão vigente:** **eixo** é um recurso didático contextual de reconhecimento, retorno, diferenciação ou orientação, usado somente quando contribuir para a explicação. Tem o mesmo estatuto de árvore, pêndulo, espiral, escada, artesão, espelho e outros recursos; não é função autônoma, método, segunda marca ou promessa.
 
 ## 3. Sumário completo proposto para o Caderno
 
@@ -135,7 +143,7 @@ Registros antigos descreviam o EIXO como método ou camada comercial autônoma. 
 - 1.3. Promessas e limites
 - 1.4. Big Idea
 - 1.5. Mecanismo central
-- 1.6. Papel do EIXO
+- 1.6. Uso contextual do eixo e preservação do patrimônio histórico
 - 1.7. Diferenciais autorais
 - 1.8. Relação entre curso, masterclass e conteúdo aberto
 
@@ -172,7 +180,7 @@ Registros antigos descreviam o EIXO como método ou camada comercial autônoma. 
 - 4.4. Tom de voz
 - 4.5. Simplicidade sem neutralização
 - 4.6. Ciência, experiência, símbolo, energia e espiritualidade
-- 4.7. Regras de capitalização e uso de EIXO
+- 4.7. Regra de minúsculas e usos históricos de EIXO
 - 4.8. Identificação profissional e assinatura
 
 ### 5. Banco de experiências reconhecíveis
@@ -294,24 +302,24 @@ Registros antigos descreviam o EIXO como método ou camada comercial autônoma. 
 
 | Domínio | Decisão | Consequência operacional |
 |---|---|---|
-| Produto | **Traduzindo o Ser Humano — Da compreensão acumulada à mudança vivida** | Nome estável da oferta; não substituir por EIXO |
+| Produto | **Traduzindo o Ser Humano** | Nome estável da oferta; “Da compreensão acumulada à presença que sustenta” é síntese de posicionamento, não parte obrigatória do nome |
 | Masterclass | **Por que você entende seus padrões, mas continua repetindo?** | Headline principal de captação |
 | Promessa da masterclass | **Entenda por que querer fazer diferente nem sempre basta. Conheça um mapa simples para reconhecer quando você entra no automático e criar espaço para responder de outro modo.** | Não ampliar para cura, mudança definitiva ou controle |
 | Linha de conversão | **Ao final da aula, você terá um mapa simples para distinguir o que aconteceu, o que foi ativado em você e qual resposta pode se tornar possível agora.** | Toda comunicação da aula deve convergir para essa entrega |
 | Big Idea | **Saber não é ainda ter acesso.** | Núcleo de reconhecimento, explicação e conversão |
 | Promessa do curso | **Aprenda a transformar o que você já compreendeu sobre si em capacidade prática para responder à vida com mais clareza, presença e coerência.** | Promessa estável do produto |
 | Mecanismo | **Tradução da Experiência Humana** | Deve ser mostrado como diferenciação e organização do vivido, não como fórmula mágica |
-| EIXO | Função pedagógica interna de reconhecimento, retorno, diferenciação e orientação | Não usar como segunda marca, método independente ou promessa de equilíbrio permanente |
+| eixo | Recurso didático contextual de reconhecimento, retorno, diferenciação ou orientação | Usar em minúsculas e somente quando pertinente; não destacar como método, mecanismo ou estrutura superior |
 | Identidade pública | Fabiano Deliberalli como identidade central; Traduzindo como projeto autoral educacional; Centralma como continuidade clínica on-line; CEEP como educação continuada profissional | Não usar Centralma como guarda-chuva de curso, CEEP e produção pública |
 | Assinatura profissional | **Fabiano Deliberalli — psicólogo clínico e psicoterapeuta — CRP 06/98630** | Usar nos contextos em que Fabiano se apresente profissionalmente como psicólogo; preservar as fronteiras entre curso e psicoterapia |
 | Público | Adultos, predominantemente 35–60, com trajetória prévia em psicoterapia, autoconhecimento, contemplação, estudos ou espiritualidade | Comunicação respeita maturidade e não pressupõe domínio técnico |
 | Entrada pedagógica | Experiência reconhecível → distinção acessível → conceito → aplicação → integração progressiva | Não abrir peças com a arquitetura conceitual completa |
 | Linhas editoriais | 1. entende e ainda repete; 2. traduzir a experiência; 3. perder o eixo não é perder o percurso | Três linhas governam a base orgânica |
-| Estrutura pública | 9 módulos, 54 aulas curtas, cerca de 13 semanas, acesso por 12 meses | Governa a comunicação; a lista detalhada depende da correção da terceira aula do Módulo 0 |
+| Estrutura pública | 9 módulos, 54 aulas em vídeo, oito encontros ao vivo de duas horas e acesso por 12 meses | M0/M1 compartilham o primeiro encontro; M2–M8 têm um encontro cada |
 | Oferta | R$ 997 à vista ou 12× de R$ 97,70 conforme checkout; garantia de 7 dias | Não inventar ancoragem, bônus ou condições |
-| Lançamento | Masterclass ao vivo no Zoom, 90 minutos, carrinho de 7 dias, replay até o fechamento | Sem data absoluta antes do portão de prontidão |
+| Lançamento | Masterclass ao vivo no Zoom em 10/11/2026, das 19h às 20h30; inscrições até 17/11/2026, às 23h59 | Usar o calendário vigente e revisar qualquer mudança antes de publicar |
 | Fundação orgânica | Oito semanas; 16 Reels, 8 carrosséis, Stories em 4–5 dias/semana e quatro lives/colaborações | Produção em ciclos curtos, com aprendizagem entre lotes |
-| Mídia | Meta Ads; teto de R$ 3.000 liberado progressivamente | Não abrir YouTube Ads no primeiro ciclo |
+| Mídia | Meta Ads; teto de R$ 1.500 liberado progressivamente | Não abrir YouTube Ads no primeiro ciclo |
 | Equipe | Fabiano: autoria e condução; Lívian: operação e suporte; Tiago: edição e fluxo do Instagram | Briefings devem declarar responsável e aprovador |
 | Espiritualidade | Explícita, afirmativa, plural, não dogmática e não apresentada como comprovação científica | Presente em orgânico e lives; mídia paga só após ressonância qualificada |
 | Ética | Sem cura, diagnóstico, eliminação de padrões, igualdade de resultados, exposição clínica, vergonha ou urgência fabricada | Checklist obrigatório antes da aprovação |
@@ -361,7 +369,7 @@ O chat anterior propôs:
 
 1. reconhecimento e identificação;
 2. tradução da experiência;
-3. EIXO, presença e retorno;
+3. eixo como imagem contextual, presença e retorno;
 4. integração e aplicação;
 5. convite e preparação para o curso.
 
@@ -371,7 +379,7 @@ Eles serão reaproveitados, mas não como cinco pilares equivalentes:
 |---|---|
 | Reconhecimento e identificação | Linha 1: por que você entende e ainda repete |
 | Tradução da experiência | Linha 2: traduzir a experiência |
-| EIXO, presença e retorno | Linha 3: perder o eixo não é perder o percurso |
+| Eixo, presença e retorno | Linha 3: perder o eixo não é perder o percurso |
 | Integração e aplicação | Modo transversal de construir conteúdos nas três linhas |
 | Convite e preparação para o curso | Etapa de campanha, não pilar editorial |
 
@@ -414,7 +422,7 @@ As dez perguntas finais do Raio X são um banco qualificado de temas, mas não c
 | Relações geram reconhecimento mais rápido | qualidade da resposta e avanço para a masterclass | que o curso promete resolver relacionamentos |
 | Trabalho e decisões ampliam o público sem diluir a proposta | resposta de pessoas com o problema central | que produtividade é a promessa do curso |
 | Autocobrança produz identificação e alívio legítimo | comentários que reconheçam culpa sem perder agência | que retirar culpa significa retirar responsabilidade |
-| “Perder o eixo não é perder o percurso” funciona como mensagem de continuidade | compreensão do sentido e ausência de leitura como equilíbrio permanente | que EIXO deve virar marca |
+| “Perder o eixo não é perder o percurso” funciona como mensagem de continuidade | compreensão do sentido e ausência de leitura como equilíbrio permanente | que eixo deva virar método, mecanismo central ou marca |
 | Conteúdo explícito sobre espiritualidade atrai o público culturalmente mais alinhado | respostas qualificadas, perguntas e participação em lives | que engajamento alto autoriza anúncio pago imediato |
 | Reels de fala direta superam carrosséis na descoberta | alcance qualificado e retenção | que um formato é universalmente superior |
 | Carrosséis produzem mais salvamentos e compreensão de mapas | salvamentos, compartilhamentos e cliques qualificados | que salvamento sozinho prova intenção de compra |
@@ -422,7 +430,7 @@ As dez perguntas finais do Raio X são um banco qualificado de temas, mas não c
 
 ### 4.4 Descartado ou contraindicado
 
-- usar EIXO como nome concorrente, método autônomo ou promessa de equilíbrio;
+- usar eixo como nome concorrente, método autônomo, mecanismo central ou promessa de equilíbrio;
 - tratar repetição como falta de vontade, inteligência, consciência ou evolução;
 - prometer cura, reprogramação, desbloqueio definitivo, eliminação de padrões ou controle emocional permanente;
 - sugerir que uma aula de 90 minutos trata trauma ou resolve um padrão;
@@ -520,7 +528,7 @@ Nem toda peça precisa expor os sete passos verbalmente. A arquitetura deve esta
 
 ### 6.2 Condicional: explicar antes ou logo depois
 
-- EIXO;
+- eixo, somente quando a imagem for pertinente e estiver contextualizada;
 - Tradução da Experiência Humana;
 - competência incorporada;
 - responsabilidade situada;
@@ -563,7 +571,7 @@ Nem toda peça precisa expor os sete passos verbalmente. A arquitetura deve esta
 | Depois de reagir, surge “eu já deveria saber” | Autocrítica adiciona pressão ao sistema | Reconhecer condições não elimina participação | Diferenciação + responsabilidade concreta | Trocar culpa genérica por pausa, reparação e aprendizagem | Não retirar responsabilidade nem moralizar | “Envie para si mesmo como lembrete: compreender condições ajuda a escolher onde participar.” | Reel orgânico; futuro anúncio de autocobrança |
 | A pessoa não sabe se está reagindo ao presente ou ao passado | Experiência, memória e interpretação ficam fundidas | Sentimento é real como vivido; interpretação ainda pode ser examinada | Mapa de Acesso | Construir hipótese provisória e atualizar com novos dados | Não invalidar intuição nem confirmar origem automaticamente | “Use as três perguntas do carrossel numa situação de baixa intensidade.” | Carrossel orgânico e pago: acontecimento–ativação–resposta |
 | O corpo “toma a frente” e a clareza diminui | Estado e contexto modulam o repertório acessível | Capacidade não aparece isolada do estado | Tradução corporificada e situada | Reconhecer sinais mais cedo e mobilizar apoio proporcional | Não reduzir tudo ao sistema nervoso nem garantir regulação | “Observe qual sinal aparece antes da resposta automática.” | Reel orgânico de educação; Stories com enquete não clínica |
-| Depois de um episódio, parece que todo o percurso foi perdido | Oscilação é interpretada como fracasso total | Estado momentâneo, EIXO e referência profunda não são a mesma coisa | EIXO como função pedagógica | Retomar orientação, reparar e seguir o percurso | Não prometer retorno automático ou equilíbrio permanente | “Salve: perder o eixo não é perder o percurso.” | Peça estática e Reel; orgânico e futura mídia |
+| Depois de um episódio, parece que todo o percurso foi perdido | Oscilação é interpretada como fracasso total | Estado momentâneo, referência profunda e orientação não são a mesma coisa | Imagem do eixo, se útil, como recurso contextual | Retomar orientação, reparar e seguir o percurso | Não prometer retorno automático ou equilíbrio permanente | “Salve: perder o eixo não é perder o percurso.” | Peça estática e Reel; orgânico e futura mídia |
 | Colocar limite parece significar rejeitar ou abandonar | Medo, culpa e rigidez fecham opções | Limite pode ser diferenciação e responsabilidade, não apagamento do outro | Tradução de impacto, necessidade, valor e consequência | Comunicar posição com menos acusação e revisar efeitos | Não prometer mudar a relação ou o outro | “Que diferença muda mais sua leitura: limite ou rejeição?” | Carrossel orgânico; hipótese futura de mídia |
 | A pessoa transita entre psicologia, ciência e espiritualidade sem se sentir inteira numa única escola | Vários mapas são confundidos ou colocados em disputa | Diferentes linguagens podem dialogar sem equivalência automática | Tradução multidimensional | Relacionar mapas preservando estatutos e discernimento | Não provar espiritualidade pela ciência nem induzir crença | “Participe da live: integrar sem confundir.” | Live e carrossel orgânico; não usar na primeira onda paga |
 | A resposta automática já aconteceu | A pessoa conclui que só resta culpa ou desistência | Mudança também inclui observar efeitos, reparar e aprender | Tradução retrospectiva e percurso em espiral | Reentrar no percurso com novas condições | Não assegurar reparação ou reconciliação | “Pergunte: o que ainda pode ser reconhecido, comunicado ou reparado?” | Reel ou carrossel orgânico de continuidade |

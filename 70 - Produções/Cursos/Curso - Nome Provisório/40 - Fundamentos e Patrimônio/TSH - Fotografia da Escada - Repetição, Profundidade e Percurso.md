@@ -88,11 +88,11 @@ A distinção tem consequências práticas: fortalecer um limite que protege; fl
 
 Na fotografia, a grade é observável; seu sentido de prisão é uma leitura simbólica possível, afirmativa e relevante. Para o ensino, acolher essa leitura sem impor a mesma experiência a todos. A palavra do participante e as condições concretas qualificam a investigação.
 
-### 10. Vão central e relação com o EIXO
+### 10. Vão central e possível relação com o eixo
 
 Os diferentes níveis compartilham uma referência espacial em torno do vão. No TSH, isso pode apoiar a ideia de reconhecer relações entre momentos do percurso e conservar orientação enquanto se muda de posição. O centro visível é um espaço aberto, não uma coluna que deva ser percorrida.
 
-Pergunta: “O que me orienta enquanto as condições mudam?” Não equiparar automaticamente vão, EIXO, Essência, Self ou localização corporal. O EIXO permanece função de orientação e participação.
+Pergunta: “O que me orienta enquanto as condições mudam?” Não equiparar automaticamente vão, eixo, Essência, Self ou localização corporal. O eixo é uma imagem didática possível de orientação e participação, não uma função autônoma ou leitura obrigatória da fotografia.
 
 ### 11. O desconhecido e os limites do enquadramento
 

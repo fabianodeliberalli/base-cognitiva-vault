@@ -2,11 +2,12 @@
 tipo: protocolo-oferta-piloto
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
-metodo: EIXO
-status: decisao-de-natureza-aprovada-desenho-pendente
-versao: "0.1"
+metodo_historico: EIXO
+status: acervo-historico-consultivo
+uso_atual: acervo-consultivo
+versao: "0.2"
 criado_em: 2026-07-19
-atualizado_em: 2026-07-19
+atualizado_em: 2026-11-01
 autor: Fabiano Deliberalli
 tags:
   - primeira-oferta
@@ -14,6 +15,9 @@ tags:
   - validacao-pedagogica
   - metodo-eixo
 ---
+
+> [!IMPORTANT] Regra de leitura vigente — 1º de novembro de 2026
+> Este protocolo registra uma etapa anterior da oferta, formulada quando **Método EIXO** ainda era hipótese de nome. O conteúdo continua disponível como patrimônio consultivo para a produção do TSH. Hoje, **eixo** é apenas um recurso didático contextual, em minúsculas e sem função de marca ou arquitetura governante.
 
 > [!NOTE] Estimativa de duração — 7 de setembro de 2026
 > Referências a **12 semanas** neste documento são estimativas provisórias de etapas anteriores, não duração definitiva, promessa ou cronograma vigente. A duração será revista conforme a construção das 54 aulas, considerando volume, ritmo, práticas, materiais, forma de liberação e outros fatores ainda em curso. O texto abaixo permanece preservado como memória e hipótese de trabalho.

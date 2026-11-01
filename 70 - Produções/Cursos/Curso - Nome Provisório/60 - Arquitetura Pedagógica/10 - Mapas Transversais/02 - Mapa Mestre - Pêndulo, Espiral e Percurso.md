@@ -24,7 +24,7 @@ tags:
 flowchart TD
     A["Condições atuais<br/>corpo, contexto, relação e segurança"]
     B["Pêndulo<br/>estado e acesso oscilam"]
-    C["EIXO<br/>reconhecer, recuperar, diferenciar e orientar"]
+    C["Eixo como recurso<br/>referência, deslocamento e retorno"]
     D["Efeitos<br/>resposta, apoio, limite e reparação"]
     E["Espiral<br/>aprendizagem e novo reencontro"]
 
@@ -42,9 +42,9 @@ flowchart TD
 | Pêndulo | variação de estado e de acesso numa experiência | lei física da consciência, falha ou retorno automático |
 | Espiral | reencontro de temas sob outras condições | ascensão garantida ou progresso linear |
 | Percurso | transformações acumuladas na maneira de reconhecer, responder, reparar e aprender | ausência definitiva de repetição |
-| EIXO | capacidade de participar do movimento de retorno e orientação | ponto imóvel em que a pessoa deveria permanecer |
+| Eixo | recurso para investigar referência, deslocamento e retorno | método, mecanismo central ou ponto imóvel em que a pessoa deveria permanecer |
 
-> O pêndulo mostra o movimento vivido; a espiral mostra o percurso construído; o eixo favorece reconhecimento, retorno e direção.
+> O pêndulo mostra o movimento vivido; a espiral mostra o percurso construído; o eixo pode representar referência e retorno quando essa imagem for útil.
 
 ## Oscilação vital e deslocamento desorganizador
 

@@ -41,7 +41,7 @@ Formulações derivadas:
 
 > **Às vezes, o que mantém uma resposta antiga não é a falta de compreensão do presente, mas a dificuldade de realizar a pequena ação que permitiria ao presente atualizar a experiência.**
 
-> **Fortalecer o EIXO não significa eliminar a cautela; significa impedir que a cautela decida sozinha.**
+> **Ampliar retorno e orientação não significa eliminar a cautela; significa não deixar que ela decida sozinha.**
 
 ## 3. Formulação TSH sobre Qi
 
@@ -217,7 +217,7 @@ A intervenção reúne campos diferentes por competência e pertinência.
 - compreensão × disponibilidade;
 - atualização das condições atuais;
 - ação exploratória;
-- EIXO e resposta situada.
+- orientação, retorno e resposta situada; eixo apenas como imagem didática contextual, se útil.
 
 ### Medicina Tradicional Chinesa
 - Rim/Água;

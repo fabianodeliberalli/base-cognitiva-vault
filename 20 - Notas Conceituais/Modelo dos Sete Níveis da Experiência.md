@@ -34,8 +34,8 @@ Pode sustentar futuros protocolos clínicos, investigativos e pedagógicos. Esse
 # Relações justificadas
 
 - É a arquitetura operacional de [[Tradução da Experiência Humana]].
-- Os níveis seis e sete dependem de [[EIXO Integrador]].
-- Relaciona-se diretamente a [[Camada 4 - Laboratório EIXO]], que distingue observação, interpretação e hipótese.
+- Os níveis seis e sete podem mobilizar recursos de orientação, participação e integração, sem depender de um mapa específico. A imagem do eixo é apenas uma possibilidade contextual.
+- Relaciona-se historicamente a [[Camada 4 - Laboratório EIXO]], que preserva distinções úteis entre observação, interpretação e hipótese; o nome registra uma etapa anterior e não define a arquitetura atual.
 
 # Questões abertas
 

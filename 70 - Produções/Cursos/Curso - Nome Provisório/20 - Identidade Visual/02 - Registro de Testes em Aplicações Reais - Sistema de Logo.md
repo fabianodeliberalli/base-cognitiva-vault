@@ -2,8 +2,9 @@
 tipo: registro-de-validacao-visual
 projeto: Traduzindo o Ser Humano
 status: em-validacao-autoral
-versao: "1.0"
+versao: "1.1"
 data: 2026-07-30
+atualizado_em: 2026-11-01
 autor: Fabiano Deliberalli
 origem: desenvolvimento técnico do sistema de logo
 relacoes:
@@ -51,7 +52,7 @@ Os arquivos de trabalho foram reunidos no pacote externo:
 - a existência de três assinaturas verbais resolve funções diferentes sem competir;
 - o lockup horizontal amplia a flexibilidade do sistema;
 - a marca d’água funciona quando a opacidade é reduzida;
-- espiritualidade, consciência, humanidade, relação, EIXO e transformação permanecem visíveis sem neutralização.
+- espiritualidade, consciência, humanidade, relação, organização dinâmica e transformação permanecem como leituras possíveis sem neutralização; nenhum recurso didático específico governa a marca.
 
 ### Pendências técnicas
 

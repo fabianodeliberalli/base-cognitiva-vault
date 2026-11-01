@@ -2,11 +2,13 @@
 tipo: sintese-integrativa
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-atualizado_em: 2026-10-30
+atualizado_em: 2026-11-01
 autor_do_projeto: Fabiano Deliberalli
 ---
 
 > **Registro de incorporação ao acervo.** Transcrição integral da versão revisada do documento, preservada em [[TSH-Sintese-Integrativa-do-Refinamento.docx]]. As passagens que anunciam uma incorporação posterior registram o momento de elaboração do Word. Esta nota e as atualizações relacionadas realizam essa etapa documental, sem transformar propostas de práticas em roteiros finais.
+
+> **Leitura atual desde 01/11/2026.** Árvore, pêndulo, espiral, escada, artesão, espelho, eixo e outras imagens ou mapas têm o mesmo estatuto de recursos didáticos contextuais. O eixo não nomeia método, produto, marca, mecanismo central ou estrutura superior do TSH. As passagens históricas que lhe atribuem função arquitetônica devem ser lidas à luz desta decisão.
 
 Referências de continuidade: [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]] · [[Léxico Mestre do Traduzindo o Ser Humano]] · [[Tradução da Experiência Humana]] · [[00 - Estado e Continuidade da Produção M1]].
 
@@ -24,7 +26,7 @@ A Tradução articula conhecimentos, experiências e linguagens para tornar essa
 
 ### Como os fundamentos se articulam
 
-A Árvore da Singularidade situa a história e as condições de desenvolvimento. O pêndulo permite investigar mudanças de estado e de acesso às possibilidades. O EIXO favorece orientação dentro desse movimento. A espiral acompanha os reencontros com os temas e as mudanças, impasses e retomadas na participação. A circulação mantém sustentação, expansão e retorno em relação. O Cosmos amplia o horizonte de pertencimento e de investigação transpessoal.
+A Árvore da Singularidade situa a história e as condições de desenvolvimento. O pêndulo permite investigar mudanças de estado e de acesso às possibilidades. A imagem do eixo pode ajudar a investigar referência e orientação quando esse for o foco da aula. A espiral acompanha os reencontros com os temas e as mudanças, impasses e retomadas na participação. A circulação mantém sustentação, expansão e retorno em relação. O Cosmos amplia o horizonte de pertencimento e de investigação transpessoal.
 
 ### Desenvolvimento curricular posterior
 
@@ -49,7 +51,7 @@ Diferentes mapas podem iluminar dimensões de uma mesma experiência sem precisa
 | Essência | Fundamento primordial da vida e de suas possibilidades. | Sua expressão encontra condições na existência. |
 | Singularidade | Forma própria de expressão na vida concreta. | Articula potência, história, corpo e relações. |
 | Tradução | Reconhecimento e diferenciação da experiência. | Favorece integração e expressão situada. |
-| EIXO | Orientação e recuperação de referências. | Participa do acesso e da escolha possível. |
+| Eixo | Recurso para investigar referência, deslocamento e retorno. | Usado somente quando pertinente à aula ou prática. |
 | Árvore | Desenvolvimento, proteção, nutrição e expressão. | Inclui campo e crescimento assimétrico. |
 | Pêndulo | Variação de estado e acesso aos recursos. | Investiga movimento, referência e participação. |
 | Espiral | Reencontro com temas ao longo do tempo. | Compara condições, respostas e efeitos. |
@@ -73,7 +75,7 @@ As Cinco Janelas, os Três Eus e as imagens desta síntese respondem a perguntas
 | Pêndulo | Como a experiência está mudando agora? Acompanha estado, movimento, referências e participação. |
 | Espiral | Como reencontro esse tema? Compara condições, participação, efeitos, impasses e retomadas. |
 | Três Eus | Que funções participam da experiência? Oferece uma leitura de sustentação e sensibilidade, mediação reflexiva e orientação por sentido. |
-| EIXO | Como reconheço, recupero orientação e participo? Articula diferenciação, retorno, escolha e aprendizagem. |
+| Eixo | Onde reconheço referência, deslocamento ou retorno? Recurso didático contextual, sem função superior aos demais. |
 | Circulação e Cosmos | Como sustentação e expansão se relacionam? Como minha existência se situa num horizonte mais amplo? Cada imagem conserva sua linguagem e finalidade. |
 
 A árvore não transforma os Três Eus em partes anatômicas: raízes, tronco e copa não equivalem a Eu Básico, Eu Médio e Eu Superior. A espiritualidade pode participar de toda a experiência. Esses recursos ajudam a traduzir relações e não precisam aparecer simultaneamente em cada aula.
@@ -116,7 +118,7 @@ Na introdução do curso, referência profunda pode nomear a função de orienta
 
 Esta atualização deve orientar a revisão posterior do verbete Essência e dos materiais que usam Centro, Essência ou Self numa mesma posição didática. O registro histórico permitirá reconhecer a evolução da formulação. A incorporação nesta síntese não modifica automaticamente as notas do repositório.
 
-## 3 Tradução e EIXO
+## 3 Tradução e recursos didáticos
 
 ### Definição operacional preservada
 
@@ -132,11 +134,11 @@ A definição operacional responde ao que fazemos ao traduzir. A finalidade resp
 
 A formulação “Tradução faz a mediação entre o que existe em potência e o que consegue ser reconhecido, integrado e expresso” é pertinente como síntese autoral. “Faz a mediação” não significa produzir necessariamente integração. Reconhecer pode abrir uma possibilidade, que ainda depende de tempo, relação, condições materiais, prática e apoio.
 
-EIXO continua sendo uma referência pedagógica de orientação, diferenciação, presença e possibilidade de retorno. Não deve ser usado como sinônimo de Essência, localização corporal de um centro espiritual ou certificado de integração. As formulações ainda propositivas do acervo, como possíveis dimensões internas do EIXO, não se tornam aprovadas por aparecerem nesta síntese.
+O eixo pode ser usado como imagem pedagógica de referência, deslocamento e retorno, no mesmo nível de árvore, pêndulo, espiral, escada, artesão, espelho e outros recursos. Não deve ser usado como sinônimo de Essência, localização corporal de um centro espiritual, certificado de integração ou estrutura central do TSH. Formulações anteriores sobre dimensões internas do EIXO permanecem como registro histórico, não como definição vigente.
 
 ### Recursividade preservada
 
-Algum EIXO favorece a Tradução; maior legibilidade pode favorecer reorganização; essa reorganização pode fortalecer o EIXO. O percurso admite pausas, ambiguidades e ausência de mudança imediata. Não requer que a pessoa esteja completamente regulada para começar a compreender, criar, relacionar-se ou participar de uma prática espiritual.
+Recursos didáticos podem favorecer a Tradução quando tornam um aspecto da experiência observável; maior legibilidade pode favorecer reorganização, participação e aprendizagem. O percurso admite pausas, ambiguidades e ausência de mudança imediata. Não requer que a pessoa esteja completamente regulada para começar a compreender, criar, relacionar-se ou participar de uma prática espiritual.
 
 ### Exemplo de aplicação
 
@@ -175,7 +177,7 @@ A árvore articula condições de desenvolvimento e expressão. Ela funciona mel
 | Solo e campo | Relações, cultura, recursos, condições históricas e materiais. | O contexto pode sustentar ou limitar; não é mero cenário. |
 | Raízes | Apoios corporais, afetivos, relacionais, energéticos e espirituais. | Espiritualidade não fica reservada ao topo. |
 | Casca | Proteção, limites e intercâmbio com o ambiente. | Proteção não é automaticamente máscara ou patologia. |
-| Tronco | Continuidade, sustentação e articulação. | Pode dialogar com EIXO sem ser sua anatomia. |
+| Tronco | Continuidade, sustentação e articulação. | Pode dialogar com a imagem do eixo sem equivalência estrutural. |
 | Seiva e circulação | Nutrição, trocas, cultivo e reciprocidade. | Fluxo metafórico não comprova canal energético. |
 | Ramos e copa | Capacidades e formas de expressão desigualmente desenvolvidas. | Ramo maior não é necessariamente mais verdadeiro. |
 | Frutos e novas sementes | Contribuição, efeitos e transmissão. | Valor pessoal não depende de produtividade. |
@@ -305,9 +307,9 @@ A base continua sendo cuidada durante toda a expansão. Não é uma etapa que se
 
 ### Orientação não exige imobilidade
 
-O EIXO não corresponde necessariamente ao centro geométrico de um pêndulo, ao meio-termo entre duas posições ou à ausência de emoção. Uma afirmação firme, um limite ou um afastamento podem constituir participação congruente. Diminuir toda oscilação não é uma finalidade universal; interessa sua relação com orientação, vitalidade, resposta e efeitos.
+A imagem do eixo não corresponde necessariamente ao centro geométrico de um pêndulo, ao meio-termo entre duas posições ou à ausência de emoção. Uma afirmação firme, um limite ou um afastamento podem constituir participação congruente. Diminuir toda oscilação não é uma finalidade universal; interessa sua relação com orientação, vitalidade, resposta e efeitos.
 
-Na aprendizagem, uma experiência pode tornar algo reconhecível; esse reconhecimento pode orientar nova participação; os efeitos dessa participação podem modificar o mapa. Essa relação recíproca preserva a recursividade EIXO–Tradução e impede que o curso seja apresentado como uma escada rígida de etapas vencidas.
+Na aprendizagem, uma experiência pode tornar algo reconhecível; esse reconhecimento pode orientar nova participação; os efeitos dessa participação podem modificar o mapa. Essa relação recíproca entre experiência, Tradução, participação e aprendizagem impede que o curso seja apresentado como uma escada rígida de etapas vencidas.
 
 ## 9 Medicina Chinesa e cultivo da vida
 
@@ -335,7 +337,7 @@ A imagem da bateria é uma entrada didática para constituição, reserva e cuid
 
 Três perguntas organizam esse aprofundamento. Sustentação: quais condições favorecem continuidade e vitalidade? Circulação: como a prática trabalha movimento, atenção e relação entre componentes? Direção: como esse cultivo encontra relação com intenção, decisão e expressão?
 
-Na linguagem tradicional apresentada pelas fontes do acervo, Zhi e Shen, a relação Coração–Rins e o Dantian podem contribuir para essa investigação, preservando suas definições e procedências. Essas relações serão ensinadas conforme a formação de Fabiano, sem reduzir Qi a uma única variável biomédica nem equiparar os conceitos ao EIXO ou aos Três Eus.
+Na linguagem tradicional apresentada pelas fontes do acervo, Zhi e Shen, a relação Coração–Rins e o Dantian podem contribuir para essa investigação, preservando suas definições e procedências. Essas relações serão ensinadas conforme a formação de Fabiano, sem reduzir Qi a uma única variável biomédica nem equiparar os conceitos aos Três Eus ou a outros mapas do curso.
 
 A formulação autoral já registrada permanece uma base: “Dentro da MTC e do Qigong, diferentes configurações corporais, respiratórias, afetivas, posturais e atencionais são descritas por meio da dinâmica do Qi”. O cultivo pode servir à mobilização, ao aquietamento, à focalização, ao enraizamento ou a outras finalidades específicas. A observação dos efeitos participa da escolha e da adaptação.
 
@@ -585,7 +587,7 @@ Para cada proposta selecionada, explicitar finalidade, origem, pergunta de Tradu
 
 ### Incorporação posterior no Obsidian
 
-Usar esta síntese como referência integrativa e preservar os dois documentos antecedentes. Consultar as versões atuais das notas pelo repositório sincronizado no GitHub. Atualizar de modo articulado Tradução, Essência, EIXO, Árvore, Semente–Casca–Campo, Crescimento Assimétrico, Pêndulo–Espiral, MTC e banco de práticas. Registrar data, origem e relação entre as mudanças, evitando transformar propostas em decisões já aprovadas.
+Usar esta síntese como referência integrativa e preservar os dois documentos antecedentes. Consultar as versões atuais das notas pelo repositório sincronizado no GitHub. Atualizar de modo articulado Tradução, Essência, Árvore, Semente–Casca–Campo, Crescimento Assimétrico, Pêndulo–Espiral, eixo quando contextual, MTC e banco de práticas. Registrar data, origem e relação entre as mudanças, evitando transformar propostas em decisões já aprovadas.
 
 A mudança da definição de Essência merece histórico explícito. A nova perspectiva transpessoal aprofunda a formulação anterior, e sua evolução deve permanecer reconhecível. O registro também distinguirá conceitos consolidados, hipóteses autorais, contribuições das fontes e questões abertas. Esta síntese prepara essa etapa; não realiza a escrita no repositório.
 
@@ -636,7 +638,7 @@ Aprofundar conceitos e fontes de fractais e holografia; definir o destino do ane
 
 A comparação foi realizada com notas do repositório fabianodeliberalli/base-cognitiva-vault, branch main, consultadas em 30/10/2026, e com a versão 1 desta síntese. Esta revisão incorpora os acréscimos selecionados por Fabiano após a avaliação. A consulta não constituiu auditoria de todos os arquivos do vault.
 
-Léxico Mestre do Traduzindo o Ser Humano: antecedente da definição de Essência e das distinções entre Self, Alma, Eu Superior, EIXO e Fonte.
+Léxico Mestre do Traduzindo o Ser Humano: antecedente da definição de Essência e das distinções entre Self, Alma, Eu Superior, eixo e Fonte.
 
 Tradução da Experiência Humana; Princípio de Recursividade EIXO–Tradução; Pedagogia das Distinções Experienciais: fundamentos já desenvolvidos para legibilidade, reorganização, ensino e aprendizagem.
 

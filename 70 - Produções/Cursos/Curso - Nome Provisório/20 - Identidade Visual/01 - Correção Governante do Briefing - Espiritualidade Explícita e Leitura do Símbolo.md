@@ -2,8 +2,9 @@
 tipo: correcao-governante-de-briefing
 projeto: Traduzindo o Ser Humano
 status: vigente
-versao: "1.0"
+versao: "1.1"
 data: 2026-07-30
+atualizado_em: 2026-11-01
 autor: Fabiano Deliberalli
 documento-corrigido: "[[00 - Briefing Mestre de Identidade Visual - Traduzindo o Ser Humano]]"
 fonte-governante: "[[05 - Diretriz Transversal - Espiritualidade Explícita, Singularidade Autoral e Não Neutralização]]"
@@ -50,7 +51,7 @@ Retira-se como inferência necessária a associação entre simetria e:
 - integração definitivamente concluída;
 - imobilidade.
 
-No símbolo candidato, a simetria pode expressar EIXO, correspondência, relação entre polos, organização, integração e presença de uma referência. A linha central sinuosa, a abertura do campo e a verticalidade preservam movimento, percurso, oscilação e transformação.
+No símbolo candidato, a simetria pode expressar correspondência, relação entre polos, organização, integração e presença de uma referência. A linha central sinuosa, a abertura do campo e a verticalidade preservam movimento, percurso, oscilação e transformação. Nenhum recurso didático específico funciona como significado governante da marca.
 
 Qualquer leitura negativa da simetria deverá ser demonstrada em teste de uso ou de público, e não presumida a partir de heurística genérica.
 
@@ -78,7 +79,7 @@ O símbolo deve ser lido inicialmente como uma composição polissêmica e integ
 - **centro solar:** consciência, Essência, Self, sentido, referência e espiritualidade;
 - **arco:** campo, totalidade, integração, pertencimento e abertura;
 - **pontos verticais:** continuidade entre dimensões, transcendência e incorporação, sutil e manifesto;
-- **simetria:** EIXO, integração, correspondência e organização dinâmica.
+- **simetria:** integração, correspondência e organização dinâmica.
 
 A polissemia é uma qualidade possível do símbolo, desde que o conjunto permaneça reconhecível, tecnicamente funcional e coerente com a marca.
 

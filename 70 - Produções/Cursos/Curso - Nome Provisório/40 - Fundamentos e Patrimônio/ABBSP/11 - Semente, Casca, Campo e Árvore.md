@@ -22,7 +22,7 @@ A verticalidade representa desenvolvimento funcional, não superioridade espirit
 ## Relações
 
 - [[Cartografia Centro, Campo, Borda e Sombra]]
-- [[Mandala, Labirinto e EIXO]]
+- [[90 - Anexos/Mapas Conceituais/Mapa Mandala Labirinto e EIXO - prototipo v1.svg|Mandala, Labirinto e eixo — protótipo histórico]]
 - [[Aula 1.1 - A experiência em sua multidimensionalidade]]
 
 ## Refinamento incorporado em 30 de outubro de 2026

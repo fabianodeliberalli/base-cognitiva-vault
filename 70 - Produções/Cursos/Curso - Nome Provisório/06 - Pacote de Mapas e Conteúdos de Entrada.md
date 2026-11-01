@@ -1,11 +1,16 @@
 ---
 tipo: pacote-curricular
 projeto: Traduzindo o Ser Humano
-status: protótipo aprovado para primeira oferta
+status: acervo-historico-consultivo
+uso_atual: acervo-consultivo
 data: 2026-07-19
+atualizado_em: 2026-11-01
 ---
 
 # Pacote de Mapas e Conteúdos de Entrada
+
+> [!IMPORTANT] Regra de leitura vigente — 1º de novembro de 2026
+> Este pacote preserva mapas e formulações de uma etapa anterior. Eles continuam disponíveis por pertinência para os materiais atuais, mas não governam a sequência vigente. “Método EIXO” é nomenclatura histórica; **eixo**, em minúsculas, é somente um recurso didático contextual entre os demais mapas e imagens do TSH.
 
 ## Decisão pedagógica
 

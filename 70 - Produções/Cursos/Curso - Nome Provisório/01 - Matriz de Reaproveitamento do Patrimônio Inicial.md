@@ -2,14 +2,14 @@
 tipo: matriz-curadoria-curricular
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
-status: matriz-base-aberta
+status: matriz-base-aberta-reconciliada
 criado_em: 2026-07-18
-atualizado_em: 2026-07-18
+atualizado_em: 2026-11-01
 autor: Fabiano Deliberalli
 tags:
   - patrimonio-curricular
   - curadoria
-  - metodo-eixo
+  - metodo-eixo-historico
   - arquitetura-do-curso
 ---
 
@@ -18,6 +18,9 @@ tags:
 
 
 # Matriz de Reaproveitamento do Patrimônio Inicial
+
+> [!IMPORTANT] Atualização de leitura — 1º de novembro de 2026
+> “EIXO” e “Método EIXO” identificam a procedência histórica de parte do patrimônio. As funções, perguntas, distinções e práticas continuam disponíveis por pertinência; no uso atual, **eixo** é somente um recurso didático contextual em minúsculas, sem nomear método, capacidade exclusiva ou princípio estrutural do TSH.
 
 ## Função
 
@@ -42,7 +45,7 @@ Impedir simultaneamente:
 |---|---|---:|---|---|
 | ausência de linguagem e integração amplia sofrimento | apresentações | projeto | P/R | problema humano, com linguagem atualizada |
 | Tradução da experiência | todas | projeto/método | P | núcleo transversal |
-| circularidade Tradução–EIXO | elaboração atual | método | P | princípio estrutural |
+| relações históricas entre Tradução, retorno e orientação, antes formuladas como Tradução–EIXO | elaboração histórica | patrimônio metodológico | R | recuperar funções úteis sem restaurar a antiga hierarquia |
 | público com trajetória prévia | workshop, apresentações e Dossiê | curso | P | público nuclear |
 | alta sensibilidade como entrada | Raio X do Produto | comunicação | T | hipótese de segmentação |
 | executivos, carreira e controle | Raio X definitivo | comunicação | T/R | persona alternativa, não identidade nuclear |
@@ -52,7 +55,7 @@ Impedir simultaneamente:
 | compreender | seis fases históricas | método | R | Traduzir/Compreender em deliberação |
 | regular | seis fases históricas | método | P/R | regulação suficiente e retorno possível |
 | observar | seis fases históricas | método | P/R | observar e diferenciar |
-| construir EIXO | seis fases históricas | método | R | fortalecer/desenvolver capacidade de EIXO |
+| construir EIXO | seis fases históricas | patrimônio metodológico | H/R | recuperar capacidades de percepção, retorno e orientação; eixo apenas como recurso didático contextual |
 | integrar | seis fases históricas | método | P/R | integração progressiva |
 | manifestar | seis fases históricas | método | R | expressar e contribuir |
 | padrões possuem história | Raio X definitivo | curso | P | núcleo de Tradução |

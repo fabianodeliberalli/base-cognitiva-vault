@@ -1,7 +1,7 @@
 ---
 tipo: mapa-de-retomadas-curriculares
 status: proposta-de-incorporacao-revisavel
-atualizado_em: 2026-10-31
+atualizado_em: 2026-11-01
 ---
 
 # Retomadas de escrita atenção e diferenciação nas 54 aulas
@@ -84,7 +84,7 @@ Identidade: [[70 - Produções/Cursos/Curso - Nome Provisório/20 - Identidade V
 |---|---|---|---|---|
 | M5.1 O que fazer quando muitas vozes aparecem ao mesmo tempo? | R06,R09,R15,A04 | Ao ouvir muitas vozes: discriminar demandas e manter pergunta aberta. | Exemplo | Não localizar cada voz numa rede. |
 | M5.2 Valores como bússolas, não como ordens | R02,R15,A03 | Ao passar de valor a ação: registrar direção e condição possível. | Material | Fontes não validam Poder Amor e Sabedoria como taxonomia neural. |
-| M5.3 Os Três Eus e a função EIXO | R16,R20,A01 | Ao apresentar Três Eus: separar mapa autoral de descrição neurofuncional. | Notas do educador | Sem correspondência um a um Eu/DMN/SN/FPN. |
+| M5.3 Os Três Eus como mapa de coordenação | R16,R20,A01 | Ao apresentar Três Eus: separar mapa autoral de descrição neurofuncional. | Notas do educador | Sem correspondência um a um Eu/DMN/SN/FPN. |
 | M5.4 Criar espaço entre impulso e escolha | R07,R15,R17 | Ao ensaiar escolha: notar impulso, contexto e alternativas. | Fala e prática | Controle executivo não é um eu isolado acima do corpo. |
 | M5.5 Símbolos e imagens como recursos de orientação | R06,A03,A04 | Ao trabalhar imagem: perguntar que sentido emerge e pode mudar. | Registro verbal ou não verbal | Não tratar imagem como mensagem neural objetiva. |
 | M5.6 Espiritualidade como dimensão legítima da experiência humana | R20,A01 | Após acolher vivência espiritual: apresentar níveis de descrição. | Aprofundamento + notas | TPM cycling é hipótese; preservar pluralidade. |
@@ -99,7 +99,7 @@ Identidade: [[70 - Produções/Cursos/Curso - Nome Provisório/20 - Identidade V
 | M6.2 Diferenciar sem fragmentar | R15,R16,A01 | Na explicação integrativa: coordenação entre processos distintos como analogia delimitada. | Bastidor | Não equivaler integração subjetiva e conectividade medida. |
 | M6.3 Sustentar ambivalências e aparentes contradições | R06,R07,R09 | Ao sustentar dúvida: escrever o ainda aberto sem pressionar solução. | Prática e notas | Não obrigar narrativa coerente nem exposição prolongada. |
 | M6.4 Mapa de Integração Funcional | R01,R02,R06,A05 | No mapa: diferenciar o que articular, afastar, apoiar ou amadurecer. | Ficha | Não validar prática completa com estudos de um componente. |
-| M6.5 Tradução e EIXO em espiral | R02,R04,R05,A05 | Ao comparar datas: durante, depois, sentido, participação e condições. | Registros longitudinais | Mudança de relato não demonstra progresso ou plasticidade. |
+| M6.5 Tradução e retorno em espiral | R02,R04,R05,A05 | Ao comparar datas: durante, depois, sentido, participação e condições. | Registros longitudinais | Mudança de relato não demonstra progresso ou plasticidade. |
 | M6.6 Presença situada e coerência possível | R02,R09,A03 | No próximo passo: descrever condições pessoais e ambientais reais. | Exemplo | Não transformar dificuldade em falha de atenção individual. |
 
 ## Módulo 7

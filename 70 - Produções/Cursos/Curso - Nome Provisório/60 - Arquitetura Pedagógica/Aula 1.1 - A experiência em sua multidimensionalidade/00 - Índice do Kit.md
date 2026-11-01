@@ -2,9 +2,14 @@
 tipo: indice-kit-aula
 aula: 1.1
 estado: prototipo-reaberto-para-revisao-curricular-pre-piloto
+uso_atual: acervo-historico-consultivo
+atualizado_em: 2026-11-01
 ---
 
 # Aula 1.1 — Índice do Kit
+
+> [!IMPORTANT] Regra de leitura vigente — 1º de novembro de 2026
+> Este kit pertence a uma organização curricular anterior e permanece disponível para derivação seletiva. As pontes “Tradução–EIXO” e os mapas associados registram a formulação histórica: ao reaproveitar seu conteúdo, preservar as distinções úteis e tratar **eixo** em minúsculas como um recurso didático contextual entre os demais. A produção vigente de M1.1 está em [[M1.1 - Roteiro oral e caderno de produção v0.2]].
 
 > **Vigência atual:** o kit é um protótipo revisável. A aprovação de 21 de julho de 2026 para pilotagem controlada permanece como registro histórico, mas alterações curriculares posteriores exigem revisão e reorganização antes de qualquer piloto.
 

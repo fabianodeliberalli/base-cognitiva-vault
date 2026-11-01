@@ -83,9 +83,9 @@ Hipótese clínica:
 
 O cansaço trazido em sessão torna essa hipótese clinicamente relevante, mas não prova que o cansaço tenha sido causado por esse processo.
 
-## 8. EIXO como disponibilidade contextual
+## 8. Eixo como imagem de disponibilidade contextual
 
-O caso oferece uma aplicação limpa do EIXO:
+O caso permite usar a imagem do eixo, se ela ajudar a organizar estas capacidades:
 
 - perceber a ativação;
 - recuperar presença;
@@ -96,7 +96,7 @@ O caso oferece uma aplicação limpa do EIXO:
 
 Formulação candidata:
 
-> **Fortalecer o EIXO não significa eliminar a cautela; significa impedir que a cautela decida sozinha.**
+> **Ampliar retorno e orientação não significa eliminar a cautela; significa não deixar que ela decida sozinha.**
 
 ## 9. Tradução da experiência
 
@@ -244,7 +244,7 @@ A intervenção do caso é exemplar da integração multirreferencial do TSH:
 - a MTC fornece uma cartografia tradicional de Qi, Zhi, Rins, Pulmão, Coração, Cinco Fases e Dantian;
 - o Qi Gong fornece uma tecnologia prática de corpo, respiração, atenção e intenção;
 - a psicoterapia organiza história, padrão, significado e recursos atuais;
-- o TSH articula essas dimensões em torno de disponibilidade, Tradução, EIXO e resposta situada;
+- o TSH articula essas dimensões em torno de disponibilidade, Tradução, orientação e resposta situada; o eixo pode representá-las didaticamente quando pertinente;
 - a ciência contemporânea pode acrescentar dados quando houver correspondência pertinente.
 
 A singularidade está na articulação competente dos saberes, não em transformar um deles em tradução obrigatória do outro.

@@ -2,12 +2,16 @@
 tipo: arquivo-de-consulta
 projeto: Traduzindo o Ser Humano
 finalidade: respostas-para-formulario-de-trafego-pago
-status: recuperacao-documental-com-adendo
+status: patrimonio-historico-consultivo
 fonte_principal: Level_Up_Etapa_2_Raio_X_Preenchido_Traduzindo_o_Ser_Humano.docx
 fonte_principal_data: 2026-08-23
 adendo_chat: 2026-09-06
 criado_em: 2026-09-07
+atualizado_em: 2026-11-01
 ---
+
+> [!WARNING] Respostas históricas substituídas
+> Este arquivo preserva a recuperação do formulário e seus adendos de agosto/setembro. Não usar como fotografia atual do produto ou da comunicação. Consultar o [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Raio X do Produto/Vigente/Raio-X-Fabiano Deliberalli - Texto para consulta|Raio X atual]] e o formulário efetivamente salvo. As ocorrências de “EIXO” abaixo pertencem à redação histórica; em materiais atuais, **eixo** é somente um recurso didático contextual, em minúsculas.
 
 > [!NOTE] Estimativa de duração — 7 de setembro de 2026
 > Referências a **12 semanas** neste documento são estimativas provisórias de etapas anteriores, não duração definitiva, promessa ou cronograma vigente. A duração será revista conforme a construção das 54 aulas, considerando volume, ritmo, práticas, materiais, forma de liberação e outros fatores ainda em curso. O texto abaixo permanece preservado como memória e hipótese de trabalho.

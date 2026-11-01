@@ -1,4 +1,14 @@
+---
+tipo: guia-historico-de-producao
+status: patrimonio-historico-consultivo
+uso_atual: fonte-de-elaboracoes-recuperaveis
+atualizado_em: 2026-11-01
+---
+
 # Guia Operacional — Camada 5 — Imersão EIXO
+
+> [!IMPORTANT] Leitura atual
+> Este guia preserva a etapa em que “Imersão EIXO” nomeava uma hipótese de oferta. Suas distinções sobre preparação, intensidade, integração, segurança e continuidade continuam disponíveis por pertinência. O nome não define uma camada atual nem atribui estatuto especial ao eixo.
 
 **Status:** rascunho operacional para validação
 

@@ -64,7 +64,7 @@ Frase de aprofundamento Sustentar exige mais do que compreender racionalmente.
 
 Mecanismo central Tradução da Experiência Humana.
 
-Síntese do percurso Perder o eixo não significa perder o percurso.
+Síntese do percurso Oscilar não significa perder o percurso.
 
 ### Análise crítica do título e da promessa
 
@@ -84,15 +84,15 @@ Compreender é reconhecer ou explicar. Acessar é conseguir encontrar essa orien
 
 Competência incorporada pode ser nomeada somente depois dessa distinção. No contexto da aula, significa que aquilo que foi compreendido começa a ficar mais disponível em situações reais. Não significa domínio permanente, imunidade a oscilações ou desempenho perfeito.
 
-### A função do EIXO
+### Recursos didáticos no percurso
 
-EIXO é uma função pedagógica interna de reconhecimento, retorno, diferenciação e orientação. Não é uma segunda marca, um produto separado nem a promessa de permanecer centrado o tempo todo.
+Árvore, pêndulo, espiral, escada, artesão, espelho, eixo e outras imagens ajudam a observar aspectos diferentes da experiência. São recursos didáticos e nenhum deles nomeia o método, o produto, a marca, o mecanismo central ou uma estrutura superior do TSH.
 
 FORMULAÇÃO DE REFERÊNCIA
 
-Eixo não é permanecer no centro. É perceber deslocamentos, recuperar referência e participar conscientemente da resposta possível.
+A imagem do eixo pode ajudar a perceber deslocamentos e referências quando esse for o foco da explicação. Ela não precisa aparecer fora desse contexto nem receber destaque diferente dos demais recursos.
 
-Na Masterclass, o EIXO surge como síntese do que o participante acabou de experimentar. Ele não deve aparecer como um quarto ensinamento, nem antes que a Tradução da Experiência Humana tenha sido compreendida.
+Na Masterclass, cada imagem deve aparecer somente quando ajuda a experiência em curso. A síntese pública permanece centrada na Tradução da Experiência Humana e na possibilidade de perceber o automático mais cedo, recuperar clareza e responder com mais coerência.
 
 ### As cinco dimensões atuais
 
@@ -138,7 +138,7 @@ A aula não promete tratar trauma, resolver um padrão, confirmar uma interpreta
 | 19h08 a 19h15 | 2 Consequências | Dar peso ao custo sem dramatizar | Seriedade e responsabilidade |
 | 19h15 a 19h22 | 3 Caso demonstrativo | Humanizar e mostrar o mecanismo sem prova fabricada | Curiosidade e compreensão |
 | 19h22 a 19h50 | 4 Conteúdo | Ensinar três movimentos e aplicar o Mapa de Acesso | Clareza e agência |
-| 19h50 a 19h58 | 5 Transformação | Consolidar EIXO, presença e possibilidade realista | Esperança e confiança |
+| 19h50 a 19h58 | 5 Transformação | Consolidar reconhecimento, retorno e possibilidade de resposta | Esperança e confiança |
 | 19h58 a 20h11 | 6 Oferta | Apresentar o percurso completo como continuidade | Desejo e avaliação |
 | 20h11 a 20h30 | 7 CTA | Orientar a decisão, responder perguntas e encerrar | Autonomia e decisão |
 
@@ -163,7 +163,7 @@ Cortar exemplos adicionais antes de cortar qualquer retorno da prática.
 
 Reduzir o Bloco 2 a uma consequência relacional e uma consequência interna.
 
-No Bloco 5, usar somente a síntese do EIXO e a versão mínima do Sorriso Interior.
+No Bloco 5, usar somente a síntese do percurso e a versão mínima do Sorriso Interior.
 
 Ajuste do ensaio de 01/11: slides 17, 20 e 34 substituem telas de síntese. Reservar aproximadamente 45, 75 e 90 segundos, respectivamente, redistribuídos dentro dos blocos 4 e 5. Manter 90 minutos e testar em ensaio; reduzir comentários redundantes, sem retirar a prática ou as perguntas.
 
@@ -502,7 +502,7 @@ Comprimir o retorno para recuperar tempo.
 
 2. Convidar o participante a observar se houve alguma diferença em sua pergunta, sem pressupor mudança ou pedir conteúdo pessoal.
 
-3. Apresentar o EIXO como síntese funcional.
+3. Retomar o que se tornou mais legível e a resposta que pode se tornar possível.
 
 4. Narrar o Sorriso Interior como experiência autobiográfica singular, não como prova.
 
@@ -510,7 +510,7 @@ TRANSFORMAÇÃO OBSERVÁVEL
 
 Antes, a demora parecia significar rejeição. Depois da Tradução, a rejeição continua sendo uma hipótese possível, mas deixa de ocupar sozinha todo o campo. Corpo, emoção, história, dados presentes, limites e outras respostas podem ser reconhecidos.
 
-SÍNTESE DO EIXO
+SÍNTESE DO PERCURSO
 
 O objetivo não é nunca entrar no automático. É reconhecer mais cedo, criar algum intervalo, diferenciar o que ficou misturado, recuperar orientação e participar da resposta com mais frequência.
 
@@ -632,7 +632,7 @@ Se você reconheceu que não precisa apenas de mais uma explicação, mas de um 
 
 CHAMADA PRINCIPAL
 
-Quero aprender a traduzir o que vivo e retornar ao meu EIXO.
+Quero aprender a traduzir o que vivo e responder de outro modo.
 
 Lívian envia o link, fixa a mensagem e confirma no chat que a página abriu corretamente. O slide deve dizer claramente Link no chat. Não desenhar botão que pareça clicável.
 
@@ -743,10 +743,10 @@ Não prometer cura, integração completa, estabilidade permanente ou resultado 
 | 30 | De volta ao presente | Conteúdo e aplicação |
 | 31 | O que ficou diferente na sua pergunta? | Conteúdo e aplicação |
 | 32 | A interpretação agora pode ser examinada | Síntese e possibilidade |
-| 33 | EIXO | Síntese e possibilidade |
+| 33 | Responder de outro modo | Síntese e possibilidade |
 | 34 | Necessidades, relações e participação | Necessidade, disponibilidade e limites de responsabilidade |
 | 35 | Sorriso Interior | Síntese e possibilidade |
-| 36 | Perder o eixo não significa perder o percurso | Síntese e possibilidade |
+| 36 | Oscilar não significa perder o percurso | Síntese e possibilidade |
 | 37 | Traduzindo o Ser Humano | Percurso e condições |
 | 38 | Para quem quer participar de outra maneira | Percurso e condições |
 | 39 | O que você poderá cultivar | Percurso e condições |
@@ -811,7 +811,7 @@ As cinco perguntas do Mapa de Acesso.
 
 A definição pública da Tradução da Experiência Humana.
 
-A síntese do EIXO e de presença que sustenta.
+A síntese do percurso e de presença que sustenta.
 
 A transição explícita para a oferta.
 
@@ -975,7 +975,7 @@ Esta seção não deve ser lida na Masterclass. Ela oferece sustentação concei
 
 A Tradução da Experiência Humana — reconhecer e diferenciar dimensões do vivido, encontrar formas de expressão e elaborar sentidos ainda pouco claros, por linguagens verbais e não verbais, colocando mapas em diálogo para ampliar possibilidades de participação e expressão situada.
 
-Algum EIXO favorece a Tradução; ao tornar a experiência mais legível, a Tradução pode favorecer reorganização, e essa reorganização pode fortalecer o EIXO. A relação é circular, dinâmica e progressiva, não linear nem automática.
+Ao tornar a experiência mais legível, a Tradução pode favorecer reorganização, participação e aprendizagem. Recursos didáticos podem apoiar esse processo quando ajudam a observar um aspecto concreto, sem se tornarem explicação total da experiência.
 
 Presença é a capacidade variável de manter ou recuperar contato suficiente com o corpo, o ambiente, a experiência e a possibilidade de escolha.
 

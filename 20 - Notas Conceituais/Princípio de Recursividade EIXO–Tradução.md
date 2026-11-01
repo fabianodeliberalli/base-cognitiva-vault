@@ -1,13 +1,13 @@
 ---
-tipo: principio-estruturante
+tipo: principio-pedagogico-revisavel
 id: principio-2026-0001
 projeto: Traduzindo o Ser Humano
-metodo: Método EIXO
-status: consolidado-em-fundamentacao
+status: referencia-atual-revisavel
 natureza_epistemologica: formulacao-autoral-do-projeto
 origem_registro: Sessão 2A-B
 validado_por_fabiano: true
-data_validacao: 2026-07-18
+data_validacao: 2026-11-01
+atualizado_em: 2026-11-01
 relacoes:
   - "[[Tradução da Experiência Humana]]"
   - "[[EIXO Integrador]]"
@@ -15,25 +15,27 @@ relacoes:
   - "[[01 - Auditoria do Lote 2026-07-18]]"
 tags:
   - traducao-da-experiencia-humana
-  - metodo-eixo
   - recursividade
   - reorganizacao
 ---
 
-# Princípio de Recursividade EIXO–Tradução
+# Recursividade entre Tradução participação e aprendizagem
+
+O nome técnico do arquivo foi preservado para não quebrar links. A formulação atual não estabelece um “Método EIXO”. O eixo é um recurso didático contextual, no mesmo nível de árvore, pêndulo, espiral, escada, artesão, espelho e outras imagens ou mapas.
 
 ## Formulação consolidada
 
-> Algum EIXO favorece a Tradução da experiência; ao torná-la mais legível, a Tradução pode favorecer reorganização, e essa reorganização pode fortalecer o EIXO. Essa relação é circular, dinâmica e progressiva, não linear nem automática.
+> A Tradução pode tornar uma experiência mais legível; maior legibilidade pode favorecer participação, reorganização e aprendizagem; os efeitos dessa participação podem, por sua vez, revisar a Tradução. A relação é circular, dinâmica e progressiva, não linear nem automática.
 
 ## Funções diferenciadas
 
-- **EIXO:** função dinâmica de orientação que favorece presença possível, sustentação, discernimento, escolha, retorno e reparação;
 - **Tradução:** processo que torna a experiência progressivamente perceptível, diferenciável, nomeável, situável e relacionável;
+- **recursos didáticos:** imagens, mapas e perguntas que ajudam a observar um aspecto da experiência quando pertinentes;
+- **participação:** resposta, pausa, apoio, limite ou ação possível nas condições presentes;
 - **reorganização:** alteração da relação da pessoa com a experiência e de suas possibilidades de resposta;
 - **integração:** resultado progressivo possível da recorrência, incorporação e transferência desse processo para a vida.
 
-Os termos se relacionam, mas não são sinônimos. Tradução não garante reorganização; reorganização não garante integração; EIXO não equivale a estado permanente.
+Os termos se relacionam, mas não são sinônimos. Tradução não garante reorganização, participação não controla todos os efeitos e reorganização não garante integração.
 
 ## Escopo ampliado da Tradução
 
@@ -56,19 +58,18 @@ Essas dimensões não constituem degraus universais nem hierarquia de valor. Pod
 
 Linguagens energéticas ou espirituais deverão conservar seu estatuto experiencial, simbólico, tradicional ou hipotético. Correlações fenomenológicas ou neurobiológicas possíveis não autorizam equivalência científica automática.
 
-## Consequência para o Método
+## Consequência para o percurso
 
-O Método não deve ser representado como passagem linear do caos à integração. Seu movimento global é recursivo:
+O TSH não deve ser representado como passagem linear do caos à integração. Seu percurso pode ser descrito de modo recursivo:
 
-1. reconhecer alguma orientação possível;
-2. aproximar-se do vivido;
-3. diferenciar e traduzir dimensões da experiência;
-4. reorganizar a relação com o que está acontecendo;
-5. orientar resposta, escolha ou reparação;
-6. reconhecer novos afastamentos e retornar;
-7. transferir progressivamente a capacidade para a vida.
+1. reconhecer o que acontece e o que ainda não está claro;
+2. diferenciar e traduzir dimensões da experiência;
+3. considerar condições, apoios, limites e referências;
+4. experimentar uma participação possível;
+5. observar efeitos, reparar quando necessário e aprender;
+6. revisar o mapa quando a experiência trouxer novas informações.
 
-Esse movimento global não substitui os quatro movimentos funcionais, as seis fases nem a Jornada Fenomenológica. Ele oferece o princípio que deverá relacioná-los.
+Nenhum recurso didático precisa aparecer em todas essas passagens. A imagem escolhida depende da pergunta, da aula e da experiência trabalhada.
 
 ## Consequência para o curso
 
@@ -83,3 +84,11 @@ Os indicadores de aprendizagem deverão observar retorno, discernimento, escolha
 - **posição nas seis fases:** pendente da matriz estrutural;
 - **instrumentos de avaliação:** pendentes de validação pedagógica;
 - **alegação de eficácia científica:** não realizada.
+
+## Registro histórico
+
+Em julho de 2026, a recursividade foi formulada com destaque para uma arquitetura então chamada “Método EIXO”:
+
+> Algum EIXO favorece a Tradução da experiência; ao torná-la mais legível, a Tradução pode favorecer reorganização, e essa reorganização pode fortalecer o EIXO.
+
+Essa redação permanece como genealogia do projeto. Desde 01/11/2026, não define método, mecanismo central ou hierarquia entre recursos didáticos.

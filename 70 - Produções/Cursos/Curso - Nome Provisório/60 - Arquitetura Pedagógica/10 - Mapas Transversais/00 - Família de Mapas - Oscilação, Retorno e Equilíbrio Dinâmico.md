@@ -4,6 +4,7 @@ projeto: Traduzindo o Ser Humano
 origem: Unidade 0.2
 status: incorporado-para-continuidade-curricular
 data: 2026-07-29
+atualizado_em: 2026-11-01
 autor: Fabiano Deliberalli
 tags:
   - mapas-transversais
@@ -23,9 +24,9 @@ Reunir os mapas produzidos a partir da Unidade 0.2 e definir sua utilização lo
 
 Os mapas traduzem um único núcleo transversal por perguntas distintas:
 
-> A Essência oferece referência. O estado e o acesso variam. O eixo desenvolve capacidades de contato, reconhecimento, coordenação, retorno e orientação. O aprendizado não elimina o movimento da vida: transforma a maneira como atravessamos, reorganizamos e integramos suas oscilações.
+> A Essência oferece referência. O estado e o acesso variam. Diferentes recursos didáticos podem ajudar a reconhecer movimento, condições, orientação e retorno. O aprendizado não elimina o movimento da vida: transforma a maneira como atravessamos, reorganizamos e integramos suas oscilações.
 
-Nesta família, **EIXO é função pedagógica dentro do Traduzindo o Ser Humano**, não marca autônoma nem explicação total do ser humano.
+Nesta família, o **eixo** é uma imagem entre outras. Árvore, pêndulo, espiral, escada, artesão, espelho e eixo têm o mesmo estatuto de recursos didáticos contextuais; nenhum deles constitui marca, método ou explicação total do ser humano.
 
 ## Fundamento transversal associado
 
@@ -38,7 +39,7 @@ Nesta família, **EIXO é função pedagógica dentro do Traduzindo o Ser Humano
 | Referência profunda | orientação por identidade, integração, sentido e direção, conforme o mapa |
 | Essência | fundamento primordial na perspectiva espiritual e transpessoal autoral; não sinônimo de Self |
 | Self | significado psicológico ou junguiano conforme a fonte; não equivale a Essência |
-| Eixo | capacidade funcional de reconhecer deslocamentos, recuperar coordenação e orientar a participação |
+| Eixo | recurso didático para investigar referência, deslocamento e retorno quando pertinente |
 | Estado momentâneo | condição corporal, emocional, cognitiva e relacional que varia |
 | Condições da experiência | corpo, contexto, vínculos, memórias, ambiente, intensidade e segurança |
 | Competência incorporada | disponibilidade progressiva das capacidades em situações reais |
@@ -47,7 +48,7 @@ A Essência não desaparece quando o estado muda. O contato consciente com ela e
 
 ## Mapas integrantes
 
-1. [[01 - Mapa Mestre - Referência, EIXO e Estado]]
+1. [[01 - Mapa Mestre - Referência, EIXO e Estado|Referência, eixo e estado]]
 2. [[02 - Mapa Mestre - Pêndulo, Espiral e Percurso]]
 3. [[03 - Mapa Mestre - Desenvolvimento do Retorno]]
 4. [[04 - Mapa Mestre - Três Perspectivas do Equilíbrio Dinâmico]]
@@ -56,8 +57,8 @@ A Essência não desaparece quando o estado muda. O contato consciente com ela e
 
 | Mapa | Pergunta central | Primeira entrada | Retomadas |
 |---|---|---|---|
-| Referência, EIXO e Estado | O que permanece como referência, o que se desenvolve e o que varia? | Unidade 0.2 | todas as fases |
-| Pêndulo, Espiral e Percurso | Como distinguir oscilação atual de desenvolvimento longitudinal? | Unidade 0.2 | regulação, fortalecimento do eixo, integração e continuidade |
+| Referência, eixo e estado | O que permanece como referência, o que se desenvolve e o que varia? | Unidade 0.2 | somente quando a imagem do eixo acrescentar clareza |
+| Pêndulo, Espiral e Percurso | Como distinguir oscilação atual de desenvolvimento longitudinal? | Unidade 0.2 | regulação, orientação, integração e continuidade |
 | Desenvolvimento do Retorno | O que muda concretamente com o treino? | introdução breve na 0.2 | auto-observação formativa ao longo das seis fases |
 | Três Perspectivas do Equilíbrio Dinâmico | Como diferentes tradições descrevem movimento, desequilíbrio e reorganização? | síntese simples na 0.2 ou nota do educador | MTC/Qi Gong, regulação autonômica, aprendizagem e integração |
 
@@ -75,7 +76,7 @@ O exemplo fictício ou cedo ou rompo retorna com perguntas novas, alternado com 
 | Fase 1 — Traduzir a Experiência | usar Referência–EIXO–Estado para distinguir estado, identidade e interpretação; relacionar com Cinco Janelas |
 | Fase 2 — Regular e Recuperar Presença | aprofundar condições de acesso, segurança suficiente, flexibilidade autonômica, apoio e retorno |
 | Fase 3 — Observar e Diferenciar | usar os mapas para localizar oscilações sem fusão identitária e praticar diferenciação |
-| Fase 4 — Fortalecer o EIXO | transformar reconhecimento em coordenação, orientação, limite, escolha e ação |
+| Escolhas e orientação | transformar reconhecimento em coordenação, orientação, limite, escolha e ação |
 | Fase 5 — Integrar Progressivamente | retomar espiral, equilibração, ligação entre elementos diferenciados e novos equilíbrios provisórios |
 | Fase 6 — Expressar e Contribuir | observar constância, participação, efeitos, reparação, continuidade e expressão da Essência |
 | MTC e Qi Gong | aprofundar yin–yang como relação, alternância e transformação; não igualar yin/yang a ramos autonômicos |
@@ -98,7 +99,7 @@ A complexidade do bastidor sustenta uma fala simples e suficientemente precisa; 
 4. Não tratar toda oscilação como problema; distinguir movimento vital de deslocamento desorganizador.
 5. Não prometer permanência contínua num estado ideal.
 6. Não transformar indicadores de retorno em diagnóstico, ranking ou cobrança de desempenho.
-7. Não usar autores externos para “provar” o EIXO; eles iluminam perguntas específicas.
+7. Não usar autores externos para “provar” uma síntese autoral ou um recurso didático; eles iluminam perguntas específicas.
 8. Preservar diferença de estatuto entre ciência, teoria, síntese interdisciplinar, clínica, tradição, fenomenologia e elaboração autoral.
 9. Articular os mapas já existentes: Bússola dos Quatro Movimentos, Cinco Janelas e Do Sentir à Orientação.
 10. Em cada nova aula, registrar qual mapa é mobilizado, em qual versão e com qual objetivo.
@@ -123,15 +124,15 @@ A complexidade do bastidor sustenta uma fala simples e suficientemente precisa; 
 - Há risco de confundir estado com identidade, oscilação com fracasso ou equilíbrio com imobilidade?
 - A retomada foi registrada no roteiro, nos slides e na ficha pedagógica?
 
-## Formulações canônicas
+## Formulações de referência
 
 > Oscilar significa que nosso estado e nosso acesso às capacidades variam. Não significa que nossa Essência desaparece a cada mudança.
 
 > O desenvolvimento não elimina todo movimento. Torna mais estável o contato com a Essência, reduz deslocamentos desorganizadores e facilita o retorno quando eles acontecem.
 
-> A Essência permanece como referência. O acesso oscila. O eixo torna o retorno progressivamente mais possível.
+> A Essência permanece como referência. O acesso oscila. A imagem do eixo pode ajudar a investigar referências e retornos possíveis.
 
-> O pêndulo mostra o movimento vivido; a espiral mostra o percurso construído; o eixo favorece reconhecimento, retorno e direção.
+> O pêndulo mostra o movimento vivido; a espiral mostra o percurso construído; o eixo pode representar referência e retorno quando essa imagem for útil.
 
 > Equilíbrio não é imobilidade. É capacidade de preservar ou reorganizar a unidade do percurso enquanto estados, necessidades e condições se transformam.
 
@@ -149,7 +150,7 @@ A complexidade do bastidor sustenta uma fala simples e suficientemente precisa; 
 A família gráfica vetorial e suas regras de reutilização estão registradas em:
 
 - [[20 - Sistema Visual/00 - Sistema Visual dos Mapas - Traduzindo o Ser Humano]]
-- [[20 - Sistema Visual/01 - Gráfico Mestre - Referência, EIXO e Estado.svg]]
+- [[20 - Sistema Visual/01 - Gráfico Mestre - Referência, EIXO e Estado.svg|Gráfico histórico Referência eixo e estado]]
 - [[20 - Sistema Visual/02 - Gráfico Mestre - Pêndulo, Espiral e Percurso.svg]]
 - [[20 - Sistema Visual/03 - Gráfico Mestre - Desenvolvimento do Retorno.svg]]
 - [[20 - Sistema Visual/04 - Gráfico Mestre - Três Perspectivas do Equilíbrio Dinâmico.svg]]

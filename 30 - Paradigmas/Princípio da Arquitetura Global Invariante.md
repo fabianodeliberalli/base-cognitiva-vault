@@ -1,10 +1,10 @@
 ---
 tipo: principio-institucional-pedagogico
 projeto: Traduzindo o Ser Humano
-metodo: EIXO
-status: aprovado
+nome_historico: Método EIXO
+status: historico-consultivo-substituido
 criado_em: 2026-07-19
-atualizado_em: 2026-07-19
+atualizado_em: 2026-11-01
 autor: Fabiano Deliberalli
 tags:
   - arquitetura-global
@@ -12,6 +12,8 @@ tags:
   - metodo-eixo
   - governanca
 ---
+
+> **Leitura atual desde 01/11/2026.** Esta nota preserva uma hipótese histórica de arquitetura ligada ao antigo nome “Método EIXO”. Seus movimentos, fases, perguntas, práticas e relações continuam disponíveis para fundamentar aulas e materiais por pertinência, mas não formam método vigente nem estrutura superior do TSH. Nas formulações atuais, escrever **eixo** em minúsculas e tratá-lo como recurso didático contextual.
 
 # Princípio da Arquitetura Global Invariante
 

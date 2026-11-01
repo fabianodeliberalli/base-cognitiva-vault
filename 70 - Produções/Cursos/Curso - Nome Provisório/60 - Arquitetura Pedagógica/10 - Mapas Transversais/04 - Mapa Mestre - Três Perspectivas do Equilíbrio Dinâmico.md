@@ -27,7 +27,7 @@ tags:
 | Yin–yang | Como tendências diferentes se relacionam, alternam e transformam? | expansão/recolhimento, atividade/repouso, exteriorização/interiorização, conforme a relação e o contexto | harmonia dinâmica e capacidade de transformação | mapa tradicional e sistêmico; não é descrição neurofisiológica |
 | Neurobiologia autonômica | Por que estado corporal e acesso mudam conforme segurança, ameaça, mobilização, conexão e conservação? | variações autonômicas, combinações e transições | flexibilidade regulatória, corregulação e recuperação | campo científico amplo; Teoria Polivagal é um modelo específico, com contribuições e debates |
 | Equilibração em Piaget | Como uma perturbação pode transformar estruturas de compreensão e ação? | desequilíbrio, assimilação e acomodação | nova organização ou equilíbrio provisório mais abrangente | teoria do desenvolvimento e da aprendizagem; não descreve diretamente estados autonômicos ou energéticos |
-| Tradução/EIXO | Como transformar essas contribuições em experiência pedagógica acessível? | reconhecer, recuperar presença, diferenciar, orientar e aprender | competência incorporada, retorno e integração progressiva | elaboração autoral do curso; não substitui nem “prova” os mapas-fonte |
+| Tradução e recursos do TSH | Como transformar essas contribuições em experiência pedagógica acessível? | reconhecer, recuperar presença, diferenciar, orientar e aprender | competência incorporada, retorno e integração progressiva | elaboração autoral do curso; não substitui nem “prova” os mapas-fonte |
 
 ## Síntese autoral
 
@@ -118,7 +118,7 @@ A Unidade 0.2 não deve se transformar numa aula de Medicina Chinesa, Teoria Pol
 - Tradição não precisa imitar ciência para ter potência experiencial ou pedagógica.
 - Ciência também possui recortes, pressupostos e limites.
 - A diferença de estatuto não estabelece automaticamente uma hierarquia de dignidade.
-- Nenhum mapa externo deve ser apresentado como prova total do EIXO.
+- Nenhum mapa externo deve ser apresentado como prova total de uma síntese autoral ou de um recurso didático.
 - Toda perspectiva deve declarar qual pergunta responde, o que oferece e onde deixa de ser suficiente.
 
 ## Frase para slide
@@ -131,7 +131,7 @@ A Unidade 0.2 não deve se transformar numa aula de Medicina Chinesa, Teoria Pol
 - Jean Piaget — assimilação, acomodação e equilibração;
 - literatura de neurobiologia autonômica, interocepção, regulação e corregulação;
 - Stephen Porges e Deb Dana — utilizar com explicitação do estatuto específico da Teoria Polivagal;
-- fundamentos autorais do Traduzindo o Ser Humano sobre Essência, EIXO, competência incorporada, pêndulo, espiral e retorno.
+- fundamentos autorais do Traduzindo o Ser Humano sobre Essência, competência incorporada, pêndulo, espiral, eixo quando pertinente e retorno.
 
 
 ## Representação gráfica vetorial

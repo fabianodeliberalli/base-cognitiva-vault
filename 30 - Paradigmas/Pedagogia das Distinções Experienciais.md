@@ -1,17 +1,15 @@
 ---
 tipo: componente-pedagogico-transversal
 projeto: Traduzindo o Ser Humano
-metodo: EIXO
-status: aprovado-em-desenvolvimento
+status: referencia-atual-revisavel
 criado_em: 2026-07-19
-atualizado_em: 2026-07-19
+atualizado_em: 2026-11-01
 autor: Fabiano Deliberalli
 tags:
   - pedagogia
   - perceber
   - presenca
   - traducao
-  - metodo-eixo
 ---
 
 # Pedagogia das Distinções Experienciais
@@ -34,11 +32,11 @@ Princípio:
 | Diferenciar | operação discriminativa | distinguir dimensões sem fragmentar |
 | Traduzir | operação de legibilidade | organizar o percebido sem reduzi-lo |
 | Consciência | campo ou capacidade mais ampla | reconhecer e relacionar-se com a experiência |
-| EIXO | função de coordenação e orientação | relacionar capacidades e orientar respostas |
+| Orientar | participação situada | relacionar capacidades, condições, valores e efeitos para responder |
 
 Síntese:
 
-> **Perceber permite que algo apareça; presença permite permanecer ou retornar; observação acompanha; diferenciação esclarece; Tradução torna legível; o EIXO orienta a resposta.**
+> **Perceber permite que algo apareça; presença permite permanecer ou retornar; observação acompanha; diferenciação esclarece; Tradução torna legível; orientação ajuda a construir uma resposta situada.**
 
 ## Estatuto de Perceber
 
@@ -59,7 +57,7 @@ Presença atravessa todo o Método. Recebe primeiro aprofundamento explícito na
 | Traduzir a Experiência | perceber × interpretar; experiência × explicação; nomeação × conclusão |
 | Regular e Recuperar Presença | perceber × permanecer; presença × calma; sustentar × forçar; autorregulação × corregulação |
 | Observar e Diferenciar | perceber × observar; sensação × emoção; impulso × ação; pensamento × fato; interpretação × hipótese |
-| Fortalecer o EIXO | presença × orientação; percepção × escolha; impulso × resposta; afastamento × fracasso |
+| Orientar respostas | presença × orientação; percepção × escolha; impulso × resposta; afastamento × fracasso |
 | Integrar Progressivamente | diferenciar × fragmentar; relacionar × confundir; integrar × eliminar conflito |
 | Expressar e Contribuir | autenticidade × impulsividade; expressão × exposição; intenção × consequência; reparação × punição |
 

@@ -58,7 +58,7 @@ Este documento registra os possíveis desdobramentos do caso no ecossistema **Tr
 - solo: condições relacionais e contextuais;
 - nutrientes: cuidado, segurança, linguagem, vínculos e recursos;
 - raízes: corpo, segurança e Eu Básico;
-- tronco: estrutura, integração e EIXO;
+- tronco: estrutura e integração; eixo como imagem contextual possível;
 - galhos e copa: diferenciação e expansão;
 - flores e frutos: expressão e contribuição;
 - novas sementes: legado, transmissão e continuidade.
@@ -77,7 +77,7 @@ Este documento registra os possíveis desdobramentos do caso no ecossistema **Tr
 
 - pêndulo: variação de estado e acessibilidade;
 - espiral: repetição transformada ao longo do desenvolvimento;
-- EIXO: capacidade de reconhecer, coordenar e retornar à orientação.
+- eixo: recurso didático possível para investigar reconhecimento, coordenação, retorno e orientação.
 
 ## 4. Caso fenomenológico
 
@@ -97,7 +97,7 @@ Ele poderá futuramente ser complementado com registros anonimizados mais espec�
 
 Integrar o percurso anterior do curso e responder à pergunta:
 
-> Para que fortalecer o EIXO, traduzir a experiência e ampliar a presença?
+> Para que ampliar retorno e orientação, traduzir a experiência e cultivar presença possível?
 
 Resposta pedagógica: para tornar mais acessível uma expressão singular, coerente e incorporada no mundo.
 
@@ -105,7 +105,7 @@ Resposta pedagógica: para tornar mais acessível uma expressão singular, coere
 
 1. Potência, adaptação e sobreposição.
 2. Raízes: segurança, corpo e sustentação.
-3. Tronco: estrutura, EIXO e integração.
+3. Tronco: estrutura, integração e possível imagem de eixo.
 4. Pêndulo e espiral: oscilação e desenvolvimento.
 5. Florescer sem idealização.
 6. Frutos, contribuição e legado.

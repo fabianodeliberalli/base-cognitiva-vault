@@ -2,10 +2,14 @@
 tipo: roteiro-do-educador
 aula: "0.2"
 status: fonte-autoral-consolidada-sucedida-para-producao
-atualizado_em: 2026-08-23
+uso_atual: fonte-historica-consultiva
+atualizado_em: 2026-11-01
 ---
 
 # Roteiro-base do Educador — Unidade 0.2
+
+> [!IMPORTANT] Leitura atual
+> Este roteiro preserva integralmente a elaboração produzida na etapa “EIXO”. Ao reutilizá-la, selecionar funções, perguntas, distinções e práticas pertinentes sem restaurar a antiga hierarquia. Nas novas formulações, **eixo** é um recurso didático contextual em minúsculas. Consultar [[07 - Consolidação de Conteúdo e Destinação para M1.7]].
 
 > [!important] Estatuto vigente
 > Este roteiro-base preserva a elaboração autoral da Unidade 0.2, mas não é o roteiro oral definitivo de M1.7. A seleção, a ordem e os limites de produção são governados por [[07 - Consolidação de Conteúdo e Destinação para M1.7]].

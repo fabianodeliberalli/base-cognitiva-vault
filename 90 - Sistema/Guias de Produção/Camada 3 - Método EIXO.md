@@ -1,4 +1,14 @@
+---
+tipo: guia-historico-de-producao
+status: patrimonio-historico-consultivo
+uso_atual: fonte-de-elaboracoes-recuperaveis
+atualizado_em: 2026-11-01
+---
+
 # Guia Operacional — Camada 3 — Método EIXO
+
+> [!IMPORTANT] Leitura atual
+> Este guia preserva a etapa em que “Método EIXO” nomeava uma hipótese de percurso. Suas distinções sobre aprendizagem, prática, incorporação, autonomia e progressão continuam disponíveis para aulas, roteiros, PowerPoints e entregáveis. O nome não define método vigente; em materiais atuais, **eixo** é somente um recurso didático contextual, em minúsculas.
 
 **Status:** rascunho operacional para validação
 

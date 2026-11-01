@@ -1,13 +1,17 @@
 ---
 tipo: caderno-de-mentoria
 projeto: Traduzindo o Ser Humano
-status: documento-vivo
+status: acervo-historico-consultivo
 origem-modelo: raio X definitivo.docx
-versao: "0.1"
+versao: "0.2"
 data: 2026-07-19
+atualizado_em: 2026-11-01
 ---
 
 # Caderno da Mentoria — Base para o Novo Raio X do Produto
+
+> [!WARNING] Caderno histórico substituído
+> Este caderno registra a construção inicial da mentoria e não descreve a oferta atual. Usar o [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Raio X do Produto/Vigente/Raio-X-Fabiano Deliberalli - Texto para consulta|Raio X vigente]] para nome, promessa, módulos, aulas, recursos e entrega. As formulações abaixo sobre EIXO permanecem como patrimônio consultivo; qualquer derivação atual trata **eixo** apenas como recurso didático contextual, em minúsculas.
 
 ## Função
 
@@ -80,17 +84,17 @@ Pessoas que já percorreram trajetórias de autoconhecimento, psicoterapia, cont
 
 **Estado:** consolidado em formulação metodológica.
 
-Tradução da Experiência Humana em relação circular com o Método EIXO, organizando a multidimensionalidade do vivido por meio de mapas, práticas progressivas, discernimento epistemológico e transferência para a vida.
+Tradução da Experiência Humana organizando a multidimensionalidade do vivido por meio de mapas, práticas progressivas, discernimento epistemológico e transferência para a vida. As antigas formulações sobre “Método EIXO” permanecem como patrimônio consultivo; eixo é hoje um recurso didático contextual entre outros.
 
 ## Módulos do produto
 
-**Estado:** arquitetura aprovada; nomes comerciais ainda candidatos.
+**Estado histórico:** arquitetura anterior, preservada apenas como fonte consultiva.
 
 0. Entrar no Percurso.
 1. Compreender pela Tradução.
 2. Regular e Recuperar Presença.
 3. Observar e Diferenciar.
-4. Fortalecer o EIXO / Orientar e Escolher — nome a deliberar.
+4. Fortalecer o EIXO / Orientar e Escolher — nomenclatura histórica.
 5. Integrar Progressivamente.
 6. Expressar e Contribuir / Incorporar — nome a deliberar.
 

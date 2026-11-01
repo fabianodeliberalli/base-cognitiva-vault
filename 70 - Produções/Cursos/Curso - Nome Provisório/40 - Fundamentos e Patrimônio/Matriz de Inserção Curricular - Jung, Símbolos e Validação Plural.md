@@ -1,29 +1,28 @@
 ---
 tipo: matriz-de-insercao-curricular
 projeto: Traduzindo o Ser Humano
-metodo: EIXO
-estado: aprovado
+estado: referencia-atual-revisavel
 data: 2026-07-20
-atualizado_em: 2026-08-22
+atualizado_em: 2026-11-01
 ---
 
 # Matriz de Inserção Curricular — Jung, símbolos e validação plural
 
 ## Decisão consolidada
 
-O conteúdo aprovado constitui patrimônio conceitual e pedagógico transversal do projeto. Ele não altera as seis fases nem converte Jung em fundamento exclusivo do Método EIXO. Sua função é oferecer cartografias auxiliares para traduzir a experiência, sustentar práticas simbólicas e explicitar o estatuto das diferentes linguagens.
+O conteúdo aprovado constitui patrimônio conceitual e pedagógico transversal do projeto. Ele não converte Jung em fundamento exclusivo do TSH. Sua função é oferecer cartografias auxiliares para traduzir a experiência, sustentar práticas simbólicas e explicitar o estatuto das diferentes linguagens.
 
 ## Formulações canônicas
 
-### EIXO, Tradução e reorganização
+### Eixo como recurso, Tradução e reorganização
 
-O EIXO é função dinâmica e praticável de reconhecer o afastamento, recuperar presença e reencontrar orientação. Seu desenvolvimento funcional pode criar condições para que a totalidade psíquica seja reconhecida e expressa, mas não produz nem garante Self, Essência, unidade ou individuação.
+Quando utilizado neste mapa, o **eixo** ajuda a representar a possibilidade dinâmica e praticável de reconhecer afastamento, recuperar presença e reencontrar orientação. O recurso pode criar condições para observar como a totalidade psíquica é reconhecida e expressa, mas não produz nem garante Self, Essência, unidade ou individuação.
 
-Algum EIXO favorece a Tradução; traduzir favorece integração e reorganização; a experiência reorganizada pode fortalecer o EIXO.
+Alguma orientação favorece a Tradução; traduzir pode favorecer integração e reorganização; a experiência reorganizada pode ampliar as condições de retorno e orientação.
 
 ### Centro, campo, borda e sombra
 
-Entre o centro e a borda encontra-se o campo multidimensional da experiência: corpo, sensações, afetos, memórias, complexos, imagens, símbolos, narrativas, vínculos, energia, recursos, feridas e potências. A sombra atravessa esse campo onde conteúdos pertencentes à totalidade permanecem desconhecidos, reprimidos, traumatizados, projetados, acumulados ou sem expressão integrada. Traduzir esse campo a partir de um EIXO não significa eliminar a sombra, mas tornar progressivamente legíveis suas formas, funções e potências, reorganizando sua relação com a consciência, o corpo, os vínculos, as escolhas e a Essência.
+Entre o centro e a borda encontra-se o campo multidimensional da experiência: corpo, sensações, afetos, memórias, complexos, imagens, símbolos, narrativas, vínculos, energia, recursos, feridas e potências. A sombra atravessa esse campo onde conteúdos pertencentes à totalidade permanecem desconhecidos, reprimidos, traumatizados, projetados, acumulados ou sem expressão integrada. Traduzir esse campo com apoio da imagem de um eixo não significa eliminar a sombra, mas tornar progressivamente legíveis suas formas, funções e potências, reorganizando sua relação com a consciência, o corpo, os vínculos, as escolhas e a Essência.
 
 ### Pluralismo epistemológico não redutivo
 
@@ -33,7 +32,7 @@ Traduzir não é reduzir todas as linguagens a uma só. Experiência vivida, cl�
 
 | Recurso | Função | Estatuto | Regra de uso |
 |---|---|---|---|
-| EIXO | orientação, contato e retorno | função operacional do Método | não confundir com estado fixo ou Self |
+| eixo | imagem de orientação, contato e retorno | recurso didático contextual | não confundir com estado fixo, Self ou método |
 | Self | totalidade psíquica e centro ordenador | conceito junguiano e horizonte experiencial | não prometer realização |
 | Mandala | imagem possível de centro, totalidade e organização | símbolo e prática expressiva | produção livre, não diagnóstica e não interpretada pelo educador |
 | Labirinto | percurso temporal, recursivo e não linear | metáfora e prática candidata | distinguir labirinto unicursal de maze; o centro não é fuga da vida |
@@ -46,12 +45,12 @@ Traduzir não é reduzir todas as linguagens a uma só. Experiência vivida, cl�
 |---|---|---|
 | Comunicação e abertura do curso | horizonte integral; pluralidade de linguagens; ausência de promessa de realização espiritual | explícita e breve |
 | Aula 0.1 | contrato epistemológico e ético; estatutos das afirmações | introdutória |
-| Aula 0.2 | EIXO dinâmico; centro como orientação e retorno, não ponto fixo | operacional |
+| Aula 0.2 | imagem dinâmica de eixo; centro como orientação e retorno, não ponto fixo | operacional |
 | Aula 1.1 — A experiência em sua multidimensionalidade | campo multidimensional; vários mapas para o mesmo território; primeiro contato opcional com imagem/forma da experiência | fundacional, sem aprofundar Jung |
 | Aula 1.2 — Tradução | passagem entre vivido, símbolo, narrativa e hipótese; declarar estatutos | aplicada |
 | Fase 2 — Regular e sustentar | corpo, limites, borda, apoio e recursos; imagem apenas como apoio opcional | somática e prática |
 | Fase 3 — Observar e diferenciar | persona, projeção, complexos e sombra; distinguir conteúdo, função e interpretação | aprofundamento intermediário |
-| Fase 4 — Integrar e reorganizar | cartografia centro–campo–borda–sombra; mandala longitudinal; relação circular Tradução–EIXO | aprofundamento principal |
+| Integrar e reorganizar | cartografia centro–campo–borda–sombra; mandala longitudinal; relações entre Tradução, retorno e orientação | aprofundamento principal |
 | Fase 5 — Orientar e escolher | labirinto, direção, valores e retorno à vida; centro como orientação, não chegada definitiva | existencial e ético |
 | Fase 6 — Expressar e incorporar | borda como interface; persona, expressão, contribuição e consequências relacionais | integração na vida |
 | Encerramento e acompanhamento | segunda mandala ou cartografia comparativa; leitura pelo próprio participante | longitudinal, não avaliativa |

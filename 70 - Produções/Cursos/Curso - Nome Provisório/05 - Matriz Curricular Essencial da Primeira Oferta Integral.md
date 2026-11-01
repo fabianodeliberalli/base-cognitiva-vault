@@ -2,11 +2,12 @@
 tipo: matriz-curricular-essencial
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
-metodo: EIXO
-status: fase-1-aprovada-para-prototipagem
-versao: "0.2"
+metodo_historico: EIXO
+status: acervo-historico-consultivo
+uso_atual: acervo-consultivo
+versao: "0.3"
 criado_em: 2026-07-19
-atualizado_em: 2026-07-19
+atualizado_em: 2026-11-01
 autor: Fabiano Deliberalli
 tags:
   - primeira-oferta
@@ -16,6 +17,9 @@ tags:
 ---
 
 # Matriz Curricular Essencial da Primeira Oferta Integral
+
+> [!IMPORTANT] Regra de leitura vigente — 1º de novembro de 2026
+> Esta matriz conserva a elaboração curricular produzida quando **Método EIXO** ainda era uma hipótese. Suas distinções, conteúdos e práticas podem ser recuperados por pertinência para aulas, roteiros, apresentações e entregáveis do TSH. No uso atual, **eixo** é apenas um recurso didático contextual, em minúsculas, sem hierarquia especial.
 
 ## Regra
 

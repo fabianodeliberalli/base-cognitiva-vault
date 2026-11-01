@@ -7,10 +7,14 @@ status: acervo-historico-consultivo
 estado_maturidade: conteudo-m1-1-a-m1-7-planejado-para-avaliacao-e-producao
 versao: "3.9"
 criado_em: 2026-07-21
-atualizado_em: 2026-10-24
+atualizado_em: 2026-11-01
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
+
+## Atualização de 1º de novembro de 2026
+
+Este arquivo preserva o estado da antiga organização curricular e não deve ser usado como estado operacional atual. Para a produção vigente, começar em [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]], [[TSH - Preparação dos Roteiros e Calendário 2026-2027]] e [[00 - Estado e Continuidade da Produção M1]]. A antiga Unidade 0.2 e o “Percurso do EIXO” permanecem disponíveis como fontes; ao derivar seu conteúdo, usar **eixo** em minúsculas e somente como recurso didático contextual entre os demais mapas e imagens.
 
 ## Raio X vigente — decisão de Fabiano em 24 de outubro de 2026
 

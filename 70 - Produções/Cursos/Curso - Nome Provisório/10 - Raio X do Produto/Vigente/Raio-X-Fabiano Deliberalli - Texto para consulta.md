@@ -1,22 +1,28 @@
 ---
 tipo: transcricao-de-consulta
 projeto: Traduzindo o Ser Humano
-status: referencia-atual-homologada
-atualizado_em: 2026-10-31
-fonte_sha256: 8502e4a3d4860d4a9d89969e1ca792ca5c7cb8b991e98f472ec1808ef5837ecb
+status: referencia-atual-revisavel
+atualizado_em: 2026-11-01
+fonte_sha256: 0d787c2f8668ae6e4f1df69a3837bc0753fb68e9148469ebf9ea6ceea1f5d95f
 ---
 
-Transcrição do Word atualizado em 31/10/2026, incorporando os refinamentos solicitados e aprovados por Fabiano nesta data. Documento-base confirmado em 24/10/2026 preservado no histórico; revisão solicitada por Fabiano em 30/10/2026. Não editar esta transcrição isoladamente. Desenvolvimento pedagógico e fontes: [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo]].
+Transcrição do Word atualizado em 01/11/2026, incorporando os refinamentos solicitados por Fabiano e o alinhamento dos recursos didáticos. Documento-base confirmado em 24/10/2026 preservado no histórico; revisão solicitada por Fabiano em 30/10/2026. Não editar esta transcrição isoladamente. Desenvolvimento pedagógico e fontes: [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo]].
 
 # Raio X do Traduzindo o Ser Humano
 
-Revisão de 31 de outubro de 2026. Base conceitual de 30/10 preservada; quatro refinamentos localizados e calendário consolidado. 9 módulos, 54 aulas gravadas e 8 encontros ao vivo.
+Revisão de 1º de novembro de 2026. Base conceitual de 30/10 preservada; comunicação, recursos didáticos e calendário consolidados. 9 módulos, 54 aulas em vídeo e 8 encontros ao vivo.
 
 Questionário Raio X de produtos
 
-Nome do PRODUTO: Traduzindo o Ser Humano — Por que você entende seus padrões, mas continua repetindo?
+Nome do PRODUTO: Traduzindo o Ser Humano.
 
-Promessa: Aprenda a ampliar o acesso ao que você já compreendeu sobre si e a sustentar, nas situações reais da vida, capacidades práticas para responder com mais clareza, presença e coerência.
+Pergunta de entrada: Por que você entende seus padrões, mas continua repetindo?
+
+Formulação de aquisição: Entender um padrão nem sempre basta para responder de outro modo.
+
+Resultado desejado: Perceber o automático mais cedo, recuperar clareza e responder com mais coerência.
+
+Promessa estratégica do percurso: Aprenda a ampliar o acesso ao que você já compreendeu sobre si e a sustentar, nas situações reais da vida, capacidades práticas para responder com mais clareza, presença e coerência.
 
 Finalidade ampliada: O TSH oferece mapas e práticas para compreender a experiência, ampliar o acesso aos próprios recursos e cultivar possibilidades de vida que ainda encontram pouco espaço de expressão, considerando corpo, história, relações, condições de vida e dimensão espiritual.
 
@@ -30,7 +36,7 @@ Formato de entrega (curso ou mentoria): Formação educacional online voltada ao
 
 O curso é organizado em 9 módulos e 54 aulas curtas e progressivas, disponibilizadas pela Hotmart com 1 ano de acesso. (Não possui caráter de graduação, especialização, psicoterapia ou tratamento clínico).
 
-Encontros ao vivo: Nesta turma, haverá oito encontros online ao vivo de duas horas com Fabiano, totalizando 16 horas: um encontro conjunto de M0 e M1 e um encontro para cada módulo de M2 a M8. Em cada encontro, a primeira hora será destinada a dúvidas e a segunda à prática orientada. Os encontros ocorrerão das 9h às 11h, horário de Brasília, conforme o calendário consolidado. São adicionais às 54 aulas gravadas. Os encontros serão realizados pelo Zoom, com link disponibilizado no grupo de WhatsApp da turma. Quem não participar ao vivo poderá assistir posteriormente à gravação na Hotmart, na área correspondente às aulas on-line. O prazo de publicação não foi definido. O acesso de um ano ao conteúdo não implica encontros recorrentes por um ano.
+Encontros ao vivo: Nesta turma, haverá oito encontros online ao vivo de duas horas com Fabiano, totalizando 16 horas: um encontro conjunto de M0 e M1 e um encontro para cada módulo de M2 a M8. Em cada encontro, a primeira hora será destinada a dúvidas e a segunda à prática orientada. Os encontros ocorrerão das 9h às 11h, horário de Brasília, conforme o calendário consolidado. São adicionais às 54 aulas em vídeo. Os encontros serão realizados pelo Zoom, com link disponibilizado no grupo de WhatsApp da turma. Quem não participar ao vivo poderá assistir posteriormente à gravação na Hotmart, na área correspondente às aulas on-line. O prazo de publicação não foi definido. O acesso de um ano ao conteúdo não implica encontros recorrentes por um ano.
 
 Tempo de acesso: 1 ano.
 
@@ -54,7 +60,7 @@ Ampliar a leitura da experiência — Perceber como corpo, mente, emoções, rel
 
 Investigar presente e história — Diferenciar acontecimentos, vivências e padrões, reconhecendo suas influências recíprocas e o que ainda permanece incerto.
 
-Perceber quando está se afastando de seu eixo — Reconhecer precocemente mudanças corporais, emocionais e relacionais que indicam perda de presença e rigidez.
+Perceber mais cedo quando entrou no automático — Reconhecer mudanças corporais, emocionais e relacionais antes que uma resposta conhecida assuma toda a situação.
 
 Usar recursos para voltar ao presente — Experimentar práticas portáteis de corpo, respiração e atenção para recuperar condições de presença, energia e orientação na vida cotidiana.
 
@@ -102,7 +108,7 @@ A proposta inclui corpo, emoções, relações e responsabilidade pelas escolhas
 
 ### Aula 1 — Boas-vindas
 
-Foco: Apresentar o funcionamento do curso e a perspectiva multidimensional, espiritual e transpessoal de Fabiano. Explicar a articulação entre aulas gravadas, encontros online ao vivo e experiências cotidianas, acolhendo diferentes linguagens e modos de participação.
+Foco: Apresentar o funcionamento do curso e a perspectiva multidimensional, espiritual e transpessoal de Fabiano. Explicar a articulação entre aulas em vídeo, encontros online ao vivo e experiências cotidianas, acolhendo diferentes linguagens e modos de participação.
 
 ### Aula 2 — Como usar o percurso, os mapas, as práticas e os materiais
 
@@ -140,7 +146,7 @@ Foco: Mapear uma situação por palavras, traços, cores, imagens, gestos ou sil
 
 ### Aula 7 — Perder o eixo não significa perder o percurso
 
-Foco: Observar estado, movimento, referência e participação pelo pêndulo; distinguir intensidade da experiência e restrição das respostas. Introduzir a espiral como reencontro com temas ao longo do tempo, incluindo impasses. EIXO orienta a participação sem exigir imobilidade.
+Foco: Observar estado, movimento, referência e participação pelo pêndulo; distinguir intensidade da experiência e restrição das respostas. Introduzir a espiral como reencontro com temas ao longo do tempo, incluindo impasses. Usar a imagem do eixo, quando útil, para investigar referência, deslocamento e retorno, sem transformá-la em estrutura central do curso.
 
 ## MÓDULO 2 — Aprenda a traduzir sua experiência sem reduzi-la
 
@@ -229,15 +235,15 @@ Foco: Articular percepção corporal, hipóteses de leitura, história e condiç
 
 ### Aula 1 — O que fazer quando muitas vozes aparecem ao mesmo tempo?
 
-Foco: Coordenação interna: aprender a escutar impulsos de autopreservação (medo, vergonha, raiva, etc) sem deixar que eles assumam as decisões de forma automática.
+Foco: Reconhecer necessidades, impulsos, medos, valores e perspectivas que aparecem ao mesmo tempo, sem permitir que uma delas determine automaticamente a resposta.
 
 ### Aula 2 — Valores como bússolas, não como ordens
 
 Foco: Apresentação didática de atitudes orientadas pelas perguntas norteadoras de Poder, Amor e Sabedoria, agindo por intenção de valor e não por regras morais punitivas ou distorções biográficas. Diferença entre empatia e compaixão.
 
-### Aula 3 — Os Três Eus e a função EIXO
+### Aula 3 — Os Três Eus como mapa de coordenação
 
-Foco: Apresentar os Três Eus como mapa autoral de funções: sustentação e sensibilidade, mediação reflexiva e orientação por sentido. Diferenciar Eu Superior, Self, Essência e referência profunda desde a introdução. EIXO participa da coordenação e não equivale a nenhum desses termos ou a uma estrutura cerebral.
+Foco: Apresentar os Três Eus como mapa autoral de funções: sustentação e sensibilidade, mediação reflexiva e orientação por sentido. Diferenciar Eu Superior, Self, Essência e referência profunda desde a introdução, sem transformar essas funções em estruturas cerebrais ou entidades fixas.
 
 ### Aula 4 — Criar espaço entre impulso e escolha
 
@@ -263,11 +269,11 @@ Foco: Cultivar sensibilidade e discernimento: perceber, associar, concluir e man
 
 ### Aula 1 — Integrar não é tornar tudo igual
 
-Foco: Polaridades e neutralidade. Compreender a integração interna como um processo ecológico que respeita a diversidade de necessidades íntimas, sem forçar um estado de harmonia artificial.
+Foco: Compreender integração como relação entre diferenças corporais, emocionais, mentais, relacionais, energéticas e espirituais, sem homogeneizá-las nem forçar harmonia.
 
 ### Aula 2 — Diferenciar sem fragmentar
 
-Foco: Desenvolver uma visão unificada que diferencie corpo, mente e espírito sem cindir o indivíduo em gavetas isoladas.
+Foco: Diferenciar corpo, emoções, pensamentos, relações, energia e espiritualidade, reconhecendo suas conexões sem tratá-los como equivalentes ou compartimentos isolados.
 
 ### Aula 3 — Sustentar ambivalências e aparentes contradições
 
@@ -277,7 +283,7 @@ Foco: Sustentar ambivalências, dúvidas e aparentes contradições, reconhecend
 
 Foco: Investigar o que pode ser articulado, o que requer diferenciação, distância, apoio ou tempo. Retomar sustentação, circulação e direção; integrar a experiência corporal orientada e, quando desenvolvida para a turma, a Órbita Microcósmica, preservando seu sentido tradicional.
 
-### Aula 5 — Tradução e EIXO em espiral
+### Aula 5 — Tradução e retorno em espiral
 
 Foco: Comparar reencontros com temas pela espiral: condições, participação, respostas e efeitos. Incluir mudanças, impasses, menor disponibilidade e retomadas sem melhora identificável; retornar ao tema não assegura progresso. Acompanhar o que foi vivido durante uma experiência, o que permaneceu depois, o sentido atribuído, sua participação na vida e as condições ainda necessárias.
 
@@ -293,7 +299,7 @@ Foco: Traduzir o vivido em palavras, ritmo, gesto, silêncio, limite e ação co
 
 ### Aula 2 — Falar do que você vive sem converter experiência em acusação
 
-Foco: Comunicar o próprio desconforto sem transformar a expressão íntima em julgamento ou ataque defensivo ao parceiro.
+Foco: Comunicar percepções, necessidades e impactos sem converter a própria experiência em julgamento ou acusação, em diferentes tipos de relação.
 
 ### Aula 3 — Escutar e ajustar sem abandonar sua posição
 
@@ -343,29 +349,33 @@ Garantia: 7 dias para solicitação de reembolso direto pela plataforma, sem pro
 
 ## 7. Descreva abaixo quais bônus pretende dar no seu curso e faça um resumo do benefício da transformação de cada um desses bônus na vida do seu cliente. (não é obrigatório)
 
-Bônus 1. Mapas Visuais do Percurso — Imagens para investigar dimensões, desenvolvimento, campo, sustentação, movimento, reencontros e possibilidades de expressão. Árvore, pêndulo, espiral, circulação e árvore em relação com o Cosmos são apresentados conforme sua função pedagógica.
+Não há bônus artificiais. Os materiais abaixo integram a formação.
 
-Bônus 2. Fichas de Exercícios Práticos — Registros breves, verbais e não verbais, escolhidos conforme a aula. Incluem percebido, associado, concluído e desconhecido; condições de participação, efeitos, apoios e transferência à vida. Não é necessário preencher todos os campos em toda prática.
+Mapas Visuais do Percurso — Imagens para investigar dimensões, desenvolvimento, campo, sustentação, movimento, reencontros e possibilidades de expressão. Árvore, pêndulo, espiral, escada, artesão, espelho, eixo, circulação e árvore em relação com o Cosmos são usados conforme a função de cada aula.
 
-Bônus 3. Guia de Palavras e Conceitos (formato E-book) — Guia de funções, fontes e usos de termos psicológicos, científicos, tradicionais e espirituais, com exemplos e distinções. Amplia o vocabulário sem exigir nomeação e sem substituir a experiência por categorias.
+Fichas de Exercícios Práticos — Registros breves, verbais e não verbais, escolhidos conforme a aula. Incluem percebido, associado, concluído e desconhecido; condições de participação, efeitos, apoios e transferência à vida. Não é necessário preencher todos os campos em toda prática.
+
+Resumos de Integração — Sínteses para retomar as distinções principais e relacioná-las ao percurso, sem substituir a experiência ou exigir memorização.
+
+Guia de Palavras e Conceitos — Guia de funções, fontes e usos de termos psicológicos, científicos, tradicionais e espirituais, com exemplos e distinções. Amplia o vocabulário sem exigir nomeação e sem substituir a experiência por categorias.
 
 Recurso Complementar. Comunidade de Continuidade — Possibilidade de troca, cultivo, dúvidas e integração. Sua pertinência depende das condições do grupo e de cada participante; não constitui requisito de autonomia nem garantia de sustentação suficiente para todos. Duração, moderação e regras de funcionamento precisam ser explicitadas na oferta.
 
 ## 8. Descreva as grandes dificuldades que seu cliente tem por não ter os benefícios do seu produto em sua vida
 
-A fragmentação central: Sentir um "abismo" entre aquilo que a pessoa já compreendeu racionalmente na terapia, em cursos ou em livros, aquilo que sente fisicamente e o que de fato consegue responder na vida prática.
+Entender um padrão e, ainda assim, reagir do mesmo modo quando uma situação mobiliza a pessoa.
 
-Acumular uma quantidade imensa de conhecimento psicológico e espiritual, mas perceber que ele "desaparece" e perde o acesso quando é criticado ou mobilizado em uma discussão real.
+Ter conhecimento psicológico ou espiritual, mas encontrá-lo pouco acessível diante de crítica, conflito ou vulnerabilidade.
 
-Vivenciar dores físicas e emocionais profundas (como taquicardia, aperto e estresse genérico), mas ainda não encontrar formas de reconhecer e comunicar o que está acontecendo, sentindo-se desorganizado ou exagerado.
+Perceber sinais corporais e emocionais intensos, mas ter dificuldade para reconhecer e comunicar o que está acontecendo.
 
-Confundir o fato que ocorreu, a reação biológica que surgiu no corpo, a emoção gerada, o pensamento reativo e as projeções mentais criadas a partir do passado.
+Misturar o que aconteceu, o que foi sentido, o que foi lembrado e as interpretações produzidas naquele momento.
 
 Acumular explicações concorrentes da neurociência, psicologia e espiritualidade, mas sentir-se confuso por não ter uma estrutura que as integre com coerência.
 
 Interpretar os padrões corporais de defesa ou as oscilações fisiológicas como se fossem defeitos de caráter ou falhas definitivas da própria identidade.
 
-Só notar a perda de presença e a entrada no piloto automático depois de já ter agido com grosseria, reatividade ou de ter se fechado emocionalmente.
+Só reconhecer o automatismo depois de já ter reagido, se fechado ou prejudicado uma relação.
 
 Acreditar erroneamente que estar estável significa nunca sentir desconfortos ou emoções difíceis, cobrando-se por não estar sempre centrado.
 
@@ -395,15 +405,15 @@ Possibilidades pouco reconhecidas ou cultivadas: desejar criar, relacionar-se ou
 
 ## 10. Quais são os problemas da sua audiência que o seu curso/produto resolve?
 
-Problema central — A fragmentação sistêmica entre o que o indivíduo sabe, o que sente no corpo e o que efetivamente consegue sustentar na experiência real sob ativação.
+Problema central — A pessoa entende seus padrões, mas, quando algo a mobiliza, perde acesso ao que sabe e reage do mesmo modo.
 
-Experiência sem tradução legível: A tendência crônica de misturar fato, ativação corporal, sentimento, pensamento e as interpretações criadas no piloto automático.
+Experiência pouco diferenciada: Misturar o que aconteceu, sinais do corpo, sentimentos, pensamentos, memórias e interpretações.
 
-Identificação tardia do automatismo: Perceber que foi sequestrado por um padrão reativo apenas depois que a relação ou a situação prática já foi prejudicada.
+Identificação tardia do automatismo: Reconhecer a repetição apenas depois que a resposta já produziu efeitos.
 
-Excesso de conhecimento desconectado: O acúmulo de mapas científicos, terapêuticos e espirituais sem uma arquitetura central que permita correlacioná-los de forma coerente e prática.
+Excesso de conhecimento desconectado: Acumular mapas científicos, terapêuticos e espirituais sem uma forma prática de relacioná-los à própria experiência.
 
-Inacessibilidade das capacidades no cotidiano: O desaparecimento do repertório de autoconhecimento justamente nos instantes em que o estresse, a provocação ou a vulnerabilidade exigem uma resposta situada.
+Pouco acesso às capacidades no cotidiano: Ter dificuldade para usar o que já compreendeu quando estresse, conflito ou vulnerabilidade exigem uma resposta.
 
 Desenvolvimento ainda sem condições: reconhecer desejos e capacidades possíveis, mas precisar de experiências, apoios e tempo para lhes dar forma.
 
@@ -433,21 +443,23 @@ Nome Oficial: Traduzindo o Ser Humano.
 
 Headline de Entrada: Por que você entende seus padrões, mas continua repetindo?
 
+Formulação de aquisição: Entender um padrão nem sempre basta para responder de outro modo.
+
+Resultado desejado: Perceber o automático mais cedo, recuperar clareza e responder com mais coerência.
+
 Subtítulo: Da compreensão acumulada à presença que sustenta.
 
 Mecanismo de Ensino: Tradução da Experiência Humana — reconhecer e diferenciar dimensões do vivido, encontrar formas de expressão e elaborar sentidos ainda pouco claros, por linguagens verbais e não verbais, colocando mapas em diálogo para ampliar possibilidades de participação e expressão situada.
-
-Função Pedagógica EIXO: É um mapa interno de retorno, diferenciação e orientação prática. Não deve ser anunciado como um método comercial apartado ou marca paralela de mercado.
 
 Definição de Presença que Sustenta: Presença suficiente para continuar em contato com o que acontece, diferenciar o que está misturado e recuperar orientação antes que o impulso decida tudo sozinho. Não representa tranquilidade permanente ou imunidade a ativações fisiológicas.
 
 Definição de Competência Incorporada: Quando aquilo que você compreendeu começa a ficar mais disponível nas situações reais da vida. Deve ser ensinado progressivamente e nunca apresentado como headline fria de aquisição em páginas ou anúncios.
 
-Forma de Comunicação Obrigatória: É proibido prometer a eliminação definitiva de padrões, o destravar instantâneo de potencial ou o equilíbrio permanente. Toda comunicação deve focar em respostas situadas, maior legibilidade da experiência, recuperação de orientação e desenvolvimento gradual de capacidades e cultivo de possibilidades ainda pouco expressas.
+Limites éticos e comunicacionais: Não prometer eliminação definitiva de padrões, desbloqueio instantâneo de potencial ou equilíbrio permanente. A comunicação deve tratar de respostas situadas, maior legibilidade da experiência, recuperação de orientação e desenvolvimento gradual de capacidades e possibilidades ainda pouco expressas.
 
 ## Calendário consolidado em 31/10/2026
 
-Nesta turma, haverá oito encontros online ao vivo de duas horas com Fabiano, totalizando 16 horas: um encontro conjunto de M0 e M1 e um encontro para cada módulo de M2 a M8. Em cada encontro, a primeira hora será destinada a dúvidas e a segunda à prática orientada. Os encontros ocorrerão das 9h às 11h, horário de Brasília, conforme o calendário consolidado. São adicionais às 54 aulas gravadas. Os encontros serão realizados pelo Zoom, com link disponibilizado no grupo de WhatsApp da turma. Quem não participar ao vivo poderá assistir posteriormente à gravação na Hotmart, na área correspondente às aulas on-line. O prazo de publicação não foi definido. O acesso de um ano ao conteúdo não implica encontros recorrentes por um ano.
+Nesta turma, haverá oito encontros online ao vivo de duas horas com Fabiano, totalizando 16 horas: um encontro conjunto de M0 e M1 e um encontro para cada módulo de M2 a M8. Em cada encontro, a primeira hora será destinada a dúvidas e a segunda à prática orientada. Os encontros ocorrerão das 9h às 11h, horário de Brasília, conforme o calendário consolidado. São adicionais às 54 aulas em vídeo. Os encontros serão realizados pelo Zoom, com link disponibilizado no grupo de WhatsApp da turma. Quem não participar ao vivo poderá assistir posteriormente à gravação na Hotmart, na área correspondente às aulas on-line. O prazo de publicação não foi definido. O acesso de um ano ao conteúdo não implica encontros recorrentes por um ano.
 
 Consultar [[TSH - Preparação dos Roteiros e Calendário 2026-2027]]. M0/M1: liberação em 17/11/2026 às 00h. Datas detalhadas na nota de preparação.
 
@@ -463,9 +475,4 @@ Consultar [[TSH - Preparação dos Roteiros e Calendário 2026-2027]]. M0/M1: li
 | M7 | 17/01/2027 | 23/01/2027 |
 | M8 | 24/01/2027 | 30/01/2027 |
 
-Horário de Brasília. Masterclass em 10/11/2026, 19h–20h30, Zoom; inscrições até 17/11/2026, 23h59. M0/M1 serão liberados em 17/11 mesmo para inscrições anteriores. Sem encontros em 26/12 e 02/01. O último encontro não encerra o ano de acesso.
-
-
-## Complemento operacional — decisão autoral de 31/10/2026
-
-Os encontros serão realizados pelo Zoom, com link disponibilizado no grupo de WhatsApp da turma. Quem não participar ao vivo poderá assistir posteriormente à gravação na Hotmart, na área correspondente às aulas on-line. O prazo de publicação não foi definido. Esta atualização complementa o texto de consulta; não implica edição do arquivo Word histórico de origem. Padrão de produção e entregáveis registrado em [[TSH - Preparação dos Roteiros e Calendário 2026-2027]].
+Horário de Brasília. Masterclass em 10/11/2026, 19h–20h30, Zoom; inscrições até 17/11/2026, 23h59. M0/M1 serão liberados em 17/11 mesmo para inscrições anteriores. Sem encontros em 26/12 e 02/01. O último encontro não encerra o ano de acesso. Padrão de produção e entregáveis registrado em [[TSH - Preparação dos Roteiros e Calendário 2026-2027]].

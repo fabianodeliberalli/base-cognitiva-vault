@@ -2,9 +2,14 @@
 tipo: instrumento-de-auto-observacao
 aula: "0.2"
 status: prototipo-nao-diagnostico
+uso_atual: recurso-candidato-revisavel
+atualizado_em: 2026-11-01
 ---
 
 # Linha de Base Inicial — Como reconheço e retorno?
+
+> [!IMPORTANT] Leitura atual
+> Este instrumento permanece disponível por sua função de auto-observação. Ele não depende de “Método EIXO”; qualquer referência atual ao eixo deve ser contextual, em minúsculas e equivalente aos demais recursos didáticos.
 
 > Registro privado. Não é teste, diagnóstico ou medida de valor pessoal.
 

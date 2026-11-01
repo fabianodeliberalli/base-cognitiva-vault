@@ -1,23 +1,31 @@
 ---
 tipo: indice-de-versoes
 projeto: Traduzindo o Ser Humano
-status: referencia-vigente
-versao: "1.5"
-atualizado_em: 2026-10-30
+status: referencia-atual-revisavel
+versao: "1.7"
+atualizado_em: 2026-11-01
 autoridade_de_decisao: Fabiano Deliberalli
 ---
 
 # Índice e estado das versões do Raio X
 
+## Atualização de 1º de novembro de 2026
+
+O Raio X vigente foi sincronizado em Word e Markdown. O nome do produto, a pergunta de entrada, a formulação de aquisição, o resultado desejado e a promessa estratégica foram separados. A entrega registra 54 aulas em vídeo e oito encontros online ao vivo, totalizando 16 horas, com M0 e M1 no mesmo encontro. Zoom, WhatsApp e disponibilização posterior das gravações na Hotmart foram incorporados ao texto principal.
+
+Arquivo Word vigente em 01/11/2026: `Raio-X-Fabiano Deliberalli.docx`. SHA-256: `0d787c2f8668ae6e4f1df69a3837bc0753fb68e9148469ebf9ea6ceea1f5d95f`.
+
+O alinhamento conceitual também foi atualizado: árvore, pêndulo, espiral, escada, artesão, espelho, eixo e outras imagens ou mapas são recursos didáticos contextuais. O eixo não nomeia método, marca, produto, mecanismo central ou estrutura superior do TSH. A denominação “Método EIXO” permanece somente como registro histórico da etapa anterior.
+
 ## Revisão solicitada em 30 de outubro de 2026
 
-O Raio X recebeu uma revisão de trabalho em Word e Markdown, acompanhada de [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo]]. A formulação ampliada, a persona, o benefício expressivo e um encontro online ao vivo de duas horas por módulo foram explicitamente solicitados por Fabiano. Os exemplos, a distribuição de práticas e o modo de condução são propostas pedagógicas revisáveis. Fabiano homologou a integração deste conjunto em 30/10/2026 ao solicitar as modificações no Obsidian. O Raio X revisado passa a ser a referência atual; o anterior permanece no histórico.
+O Raio X recebeu uma revisão de trabalho em Word e Markdown, acompanhada de [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo]]. A formulação ampliada, a persona, o benefício expressivo e um encontro online ao vivo de duas horas por módulo foram explicitamente solicitados por Fabiano. Os exemplos, a distribuição de práticas e o modo de condução são propostas pedagógicas revisáveis. Fabiano solicitou a incorporação deste conjunto em 30/10/2026. O Raio X revisado passa a ser a referência atual e continua revisável; o anterior permanece no histórico.
 
 O TSH oferece mapas e práticas para compreender a experiência, ampliar o acesso aos próprios recursos e cultivar possibilidades de vida que ainda encontram pouco espaço de expressão, considerando corpo, história, relações, condições de vida e dimensão espiritual.
 
 Persona: Adultos que desejam ampliar sua participação consciente na própria vida, desenvolver recursos pessoais e reconhecer os apoios e condições necessários para sustentar escolhas, relações e possibilidades de expressão.
 
-Nesta turma: um encontro online ao vivo de duas horas a cada módulo, uma hora de dúvidas e uma hora de prática. Considerando M0 a M8, são nove encontros e 18 horas adicionais às 54 aulas gravadas. Calendário, plataforma dos encontros, política de gravação, faltas e condições de acompanhamento permanecem a definir; o acesso de um ano não significa encontros ao vivo durante um ano.
+O desenho de 30/10 previa nove encontros e 18 horas. Ele foi substituído em 31/10 pelo calendário de oito encontros e 16 horas registrado na atualização acima.
 
 Consultar a nota de integração junto da síntese ao produzir aulas, práticas, Masterclass, comunicação e complementos. Ela diferencia decisões autorais, propostas didáticas e fontes de pesquisa; mantém a MTC em linguagem própria e organiza correlações sem exigir equivalência neurobiológica. As três situações de reconhecimento, acesso e cultivo orientam o percurso.
 
@@ -26,23 +34,31 @@ O Word confirmado em 24/10 permanece integralmente recuperável em [[70 - Produ�
 
 ## Registro de vigência anterior — decisão de 24 de outubro de 2026
 
-Na decisão de 24/10/2026, a referência vigente do Raio X passou a ser o arquivo **RAIO X - congelado(1).docx**, fornecido e confirmado por Fabiano nesta data, preservado integralmente em [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Raio X do Produto/Vigente/Raio-X-Fabiano Deliberalli.docx|Raio X vigente — Word]]. Para leitura e busca, usar [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Raio X do Produto/Vigente/Raio-X-Fabiano Deliberalli - Texto para consulta|Raio X vigente — texto para consulta]]; essa transcrição é derivada do Word e não constitui versão independente.
+Na decisão de 24/10/2026, a referência vigente do Raio X passou a ser o arquivo **RAIO X - congelado(1).docx**, fornecido e confirmado por Fabiano naquela data. Essa versão está preservada integralmente em [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Raio X do Produto/Histórico/2026-10-24 - Raio-X-Fabiano Deliberalli - anterior ao refinamento.docx|Raio X de 24/10 — histórico]]. O Word vigente foi atualizado em 01/11/2026 e permanece em [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Raio X do Produto/Vigente/Raio-X-Fabiano Deliberalli.docx|Raio X vigente — Word]]. Para leitura e busca, usar [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Raio X do Produto/Vigente/Raio-X-Fabiano Deliberalli - Texto para consulta|Raio X vigente — texto para consulta]]; essa transcrição é derivada do Word e não constitui versão independente.
 
 Todas as demais versões do Raio X, seus resumos, matrizes de correspondência e referências de oferta anteriores têm valor histórico. Expressões como “vigente”, “canônico”, “definitivo” ou “aprovado” dentro desses materiais descrevem o estado da época e não lhes conferem precedência atual. Isso inclui versões de agosto e rascunhos de outubro, independentemente da data ou do nome do arquivo.
 
 Consultar o histórico somente quando Fabiano solicitar ou quando houver conteúdo ou estrutura efetivamente desenvolvidos com pertinência e relevância concretas para a tarefa. Ao recuperar algo, identificar fonte, vínculo com a aula ou questão atual e contribuição possível; apresentar como material passível de análise. Não reincorporar automaticamente títulos, focos, recursos, promessas, numerações, cronogramas ou condições antigos, nem completar silêncios do Raio X atual com decisões de versões anteriores. Dúvidas internas do documento atual devem ser explicitadas, sem correção silenciosa ou recurso automático ao histórico.
 
-Esta atualização registra a decisão de Fabiano; não altera o conteúdo do Word nem declara outras propostas aprovadas. A data de consolidação de 23/08/2026 presente no próprio Word foi preservada e não deve ser confundida com a confirmação de vigência de 24/10/2026.
+O parágrafo anterior descreve a decisão histórica de 24/10. A atualização de 01/11 altera e sincroniza o Word e a transcrição conforme autorização posterior de Fabiano, preservando a versão congelada no histórico.
 
-## Identificação e verificação
+## Identificação e verificação atuais
+
+- Arquivo vigente: `Raio-X-Fabiano Deliberalli.docx`.
+- Atualização: 01/11/2026.
+- SHA-256 vigente: `0d787c2f8668ae6e4f1df69a3837bc0753fb68e9148469ebf9ea6ceea1f5d95f`.
+- Conteúdo: 9 módulos, 54 aulas em vídeo e oito encontros ao vivo; M0 e M1 compartilham o primeiro encontro.
+- Transcrição de consulta: derivação textual sincronizada do Word vigente; conferir o Word para formatação e apresentação.
+- Esta atualização é documental no GitHub/Obsidian; não atesta configuração da Hotmart, página de vendas, anúncios ou checkout.
+
+### Baseline congelado de 24/10/2026
 
 - Nome recebido: `RAIO X - congelado(1).docx`.
 - SHA-256: `f12017a1cca2ed123721558ef0dfe942f79cc1cc6fb4cd70e29d067c12f8c095`.
 - Conteúdo: 9 módulos e 54 aulas; Módulo 0 com três aulas.
 - O arquivo anterior da pasta Vigente era diferente. Sua cópia integral permanece em [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Raio X do Produto/Consultoria/2026-08-23 - Raio-X-Fabiano Deliberalli - Versão Pública Canônica v2.0.docx|Raio X de agosto — histórico]].
 - O primeiro anexo recebido, `RAIO_X_-_congelado[1].docx`, continha uma página de login, não o documento; não foi incorporado.
-- Transcrição de consulta: derivação textual do Word vigente, preservando a ordem e as palavras; conferir o Word para formatação e apresentação.
-- Esta atualização é documental no GitHub/Obsidian; não atesta configuração da Hotmart, página de vendas ou checkout.
+- A identificação e o hash acima pertencem ao baseline histórico, não ao Word vigente de 01/11.
 
 ## Registro histórico do índice anterior
 

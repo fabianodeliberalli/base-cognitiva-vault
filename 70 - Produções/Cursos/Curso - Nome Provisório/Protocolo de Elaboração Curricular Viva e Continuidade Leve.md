@@ -3,12 +3,16 @@ tipo: protocolo-operacional-curricular
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: referencia-atual-revisavel
-versao: "1.4"
+versao: "1.5"
 criado_em: 2026-07-26
-atualizado_em: 2026-09-07
+atualizado_em: 2026-11-01
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
+## Atualização de 1º de novembro de 2026
+
+A produção atual parte da arquitetura de 9 módulos e 54 aulas e da frente M1.1–M1.7. A antiga Unidade 0.2 e o material chamado “Percurso do EIXO” permanecem como fontes históricas de conteúdo, perguntas, práticas e mapas. Ao recuperar esse patrimônio, usar **eixo** em minúsculas e somente quando for um recurso didático útil à aula, no mesmo estatuto de árvore, pêndulo, espiral, escada, artesão, espelho e outras imagens. Não transportar a antiga hierarquia, a denominação de método ou a obrigação de apresentar o recurso.
+
 ## Retomadas e materiais registrados em 31/10/2026
 
 Antes de produzir a aula pertinente, consultar [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Governança do Conhecimento/TSH - Retomadas de escrita atenção e diferenciação nas 54 aulas]] e os itens correspondentes em [[70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/TSH - Escrita atenção e diferenciação - Referências e limites]]. A matriz utiliza o Raio X atualizado de 31/10; não altera a arquitetura. [[70 - Produções/Cursos/Curso - Nome Provisório/Práticas Candidatas/Práticas por Módulo - Consulta em criação e expansão]] está em plena criação e expansão: somente consulta contextual, sem governar as práticas. Aplicar [[70 - Produções/Cursos/Curso - Nome Provisório/20 - Identidade Visual/10 - Sistema Oficial v1.0/00 - Manual de Identidade Visual v1.0]] aos slides e entregáveis. Registrar o uso efetivo de cada fonte e sua limitação. M0.2 atual: [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 0/M0.2 - Roteiro e notas sincronizados v1.2]].
@@ -70,8 +74,8 @@ Os documentos anteriores permanecem como memória e fonte. Suas decisões substa
 - preservação de versões e materiais anteriores;
 - autoria e decisão final de Fabiano Deliberalli;
 - arquitetura vigente de entrega e comunicação em 9 módulos e 54 aulas;
-- arquitetura interna de desenvolvimento, integração e rastreabilidade em 7 módulos e 14 unidades;
-- ligação obrigatória entre ambas pela Nota-Ponte e pela Matriz Mestre de Incorporação;
+- disponibilidade consultiva da arquitetura anterior de 7 módulos e 14 unidades, sem funcionar como segunda estrutura;
+- recuperação por pertinência pela Nota-Ponte, pela Matriz Mestre de Incorporação e pelas fontes de cada aula, sem correspondência obrigatória;
 - um chat ativo por módulo como recurso de foco;
 - decisões conceituais explicitamente aprovadas, sem impedir aprofundamento ou nova articulação;
 - linguagem acessível, pluralidade de mapas e rigor proporcional ao tipo de afirmação;
@@ -127,17 +131,15 @@ Na ausência dessas situações, o trabalho continua e a organização é reconc
 
 ## Separação entre frentes de trabalho
 
-A frente ativa de desenvolvimento e integração de uma unidade deve ser trabalhada no chat curricular explicitamente designado. No estado atual, a Unidade Curricular 0.2 pertence ao chat **Curso — Módulo 0 — Continuidade 03 — Unidade 0.2** e alimenta principalmente a Aula M1.7 da estrutura 9/54.
+A frente ativa de desenvolvimento e integração deve acompanhar a aula ou o conjunto de aulas explicitamente indicado na demanda. No estado atual registrado no repositório, a produção se concentra em **M1.1–M1.7**; o acervo das antigas Unidades 0.1 e 0.2 pode alimentar essas aulas por pertinência, sem impor numeração, sequência ou nomenclatura.
 
 Um chat destinado à fotografia estrutural da oferta, ao Raio X ou à mentoria não assume automaticamente a elaboração da unidade curricular ativa quando se usa a expressão “prosseguimos”. Nesses chats, a continuidade permanece limitada à finalidade da conversa: organizar a oferta, registrar sua arquitetura e atualizar a fotografia necessária para a mentoria. A distinção entre as frentes preserva a continuidade sem impedir conexões ou registrar impactos relevantes.
 
-## Aplicação ao Módulo 0
+## Aplicação atual e origem dos materiais
 
-A Unidade Curricular 0.1 está **encerrada curricularmente em v1.0**. Seu roteiro integral, suas sete Partes, seus quatro macroblocos, a Primeira Cartografia e seus critérios pedagógicos permanecem protegidos. A decomposição estrutural foi concluída em dez microaulas provisórias, com títulos públicos aprovados. Os 48 slides continuam provisórios e a gravação não está autorizada.
+As antigas Unidades Curriculares 0.1 e 0.2, seus roteiros, Partes, mapas, slides e critérios pedagógicos permanecem integralmente disponíveis como patrimônio de produção. Elas não são aulas vigentes nem fila operacional. Ao desenvolver M1.1–M1.7, recuperar delas somente o conteúdo que contribuir para a pergunta, a progressão e o material atual.
 
-A frente curricular ativa é a **Unidade Curricular 0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança**. Ela deve começar por uma Mesa de Trabalho que recupere materiais existentes, ideias centrais, tensões abertas e um primeiro núcleo de elaboração, sem reabrir a Unidade 0.1.
-
-Após a consolidação autoral de cada unidade, sua decomposição estrutural em microaulas deve ocorrer imediatamente, enquanto o raciocínio ainda está presente. Essa etapa define focos, cortes, progressão, recursos e títulos públicos diretos. Duração definitiva, roteiro oral, storyboard, design, piloto e gravação permanecem para a preparação audiovisual posterior.
+Após a consolidação autoral de cada aula, sua preparação audiovisual deve definir foco, corte, progressão, roteiro oral, apresentação, notas, entregáveis e condições de pilotagem. A decomposição anterior pode oferecer soluções e alertas, mas não determina a forma final.
 
 A elaboração favorece, sem rigidez, a sequência:
 

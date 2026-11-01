@@ -66,9 +66,9 @@ O tronco pode ser associado à capacidade de traduzir, diferenciar, simbolizar, 
 
 A copa, as flores, os frutos e as sementes podem se relacionar ao Eu Superior enquanto direção, sentido, valores, contribuição e continuidade.
 
-### EIXO
+### Eixo como imagem contextual
 
-O EIXO aparece como coordenação entre raízes, estrutura e direção. Não é ausência de oscilação, mas capacidade de reconhecer afastamentos, recuperar orientação e sustentar expressão coerente.
+O eixo pode aparecer como imagem da coordenação entre raízes, estrutura e direção. Não significa ausência de oscilação nem constitui uma capacidade separada; ajuda a investigar afastamentos, retorno, orientação e expressão coerente.
 
 ## Tradução como mediação
 

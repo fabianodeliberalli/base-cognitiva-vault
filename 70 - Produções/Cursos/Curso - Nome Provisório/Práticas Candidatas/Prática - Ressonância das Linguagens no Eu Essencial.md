@@ -2,11 +2,11 @@
 tipo: pratica-candidata
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
-metodo: Método EIXO
+metodo_historico: Método EIXO
 status: patrimonio-pedagogico-candidato
 natureza: investigacao-experiencial-nao-interpretativa
 criado_em: 2026-07-18
-atualizado_em: 2026-07-18
+atualizado_em: 2026-11-01
 autor: Fabiano Deliberalli
 tags:
   - pratica-candidata
@@ -17,6 +17,9 @@ tags:
 ---
 
 # Prática candidata — Ressonância das Linguagens no Eu Essencial
+
+> [!IMPORTANT] Leitura vigente
+> A prática continua disponível para avaliação curricular. A indicação “Método EIXO” no metadado registra sua origem histórica; não vincula a prática a um método atual. Se a imagem do **eixo** for útil durante a condução, empregá-la em minúsculas e como recurso didático contextual entre outros.
 
 ## Origem
 
@@ -55,7 +58,7 @@ Sem alterar as perguntas nucleares, uma aplicação futura poderá convidar a pe
 - se o termo permanece útil depois da experiência;
 - se outra linguagem pessoal ou tradicional seria mais adequada.
 
-## Relação com o Método EIXO
+## Relação histórica com a antiga formulação Método EIXO
 
 A prática poderá mobilizar:
 

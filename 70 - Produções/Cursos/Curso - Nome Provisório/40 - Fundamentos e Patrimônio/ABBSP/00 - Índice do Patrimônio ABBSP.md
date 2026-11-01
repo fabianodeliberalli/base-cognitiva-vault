@@ -25,7 +25,7 @@ O material original é preservado como patrimônio autoral bruto. As notas deriv
 - [[12 - Sentir, Interocepção e Coração]]
 - [[13 - Fronteira, Ego Funcional e Permeabilidade]]
 - [[14 - Ressonância Estrutural e Campo Relacional]]
-- [[15 - Três Regulações, Qi Gong e EIXO]]
+- [[15 - Três Regulações, Qi Gong e EIXO|Três Regulações e Qi Gong — arquivo com título histórico]]
 - [[16 - Unidade Diferenciada e Espiritualidade Integrada]]
 - [[17 - Diferenciação Clínica de Experiências Espirituais]]
 

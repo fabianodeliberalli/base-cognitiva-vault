@@ -2,11 +2,15 @@
 tipo: storyboard-de-apresentacao
 aula: "0.2"
 status: fonte-visual-preliminar-sucedida-para-producao
+uso_atual: fonte-historica-consultiva
 versao: "1.1"
-atualizado_em: 2026-08-23
+atualizado_em: 2026-11-01
 ---
 
 # Storyboard — Apresentação da Aula 0.2
+
+> [!IMPORTANT] Leitura atual
+> Este storyboard registra a etapa em que o eixo recebia centralidade metodológica. Suas soluções visuais e distinções permanecem disponíveis, mas uma nova apresentação deve usar **eixo** em minúsculas e somente no contexto em que a imagem ajude, sem hierarquia sobre árvore, pêndulo, espiral, escada, artesão, espelho ou outros recursos.
 
 > [!warning] Estatuto vigente
 > Esta sequência de 15 telas permanece como fonte visual preliminar do kit curricular. Não é o storyboard definitivo de M1.7. A nova derivação deverá partir de [[07 - Consolidação de Conteúdo e Destinação para M1.7]], concentrando a fala nos mapas Referência–EIXO–Estado e Pêndulo–Espiral–Percurso, sem comprimir os demais ativos.

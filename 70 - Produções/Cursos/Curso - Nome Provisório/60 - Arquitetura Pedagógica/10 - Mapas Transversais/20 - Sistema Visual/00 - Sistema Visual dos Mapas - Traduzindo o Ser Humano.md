@@ -1,8 +1,9 @@
 ---
 tipo: sistema-visual-de-mapas
 projeto: Traduzindo o Ser Humano
-status: aprovado
+status: referencia-visual-revisavel
 data: 2026-07-29
+atualizado_em: 2026-11-01
 origem: consolidação da Unidade 0.2
 fonte_governante: "[[05 - Diretriz Transversal - Espiritualidade Explícita, Singularidade Autoral e Não Neutralização]]"
 tags:
@@ -14,6 +15,8 @@ tags:
 ---
 
 # Sistema Visual dos Mapas — Traduzindo o Ser Humano
+
+> **Leitura atual desde 01/11/2026.** Os arquivos e imagens produzidos em agosto preservam a história visual do projeto. Em novas derivações, escrever **eixo** em minúsculas e tratá-lo como recurso didático contextual, no mesmo nível de árvore, pêndulo, espiral, escada, artesão, espelho e outros mapas. A aprovação visual anterior não cria uma hierarquia conceitual nem obriga o uso do recurso.
 
 ## Decisão arquitetônica
 
@@ -48,7 +51,7 @@ Formato-mestre: 1600 × 900, vetorial, compatível com slides 16:9 e exportaçã
 
 ## Geometria própria de cada mapa
 
-1. **Referência, EIXO e Estado:** camadas radiais e campo de condições.
+1. **Referência, eixo e estado:** camadas radiais e campo de condições.
 2. **Pêndulo, Espiral e Percurso:** oscilação atual à esquerda, percurso longitudinal à direita e referência articuladora no centro.
 3. **Desenvolvimento do Retorno:** percurso aberto em ondas; não ciclo fechado nem escada hierárquica.
 4. **Três Perspectivas:** tríptico de lentes; não Venn e não diagrama de equivalências.
@@ -96,8 +99,8 @@ Usar em apostila, ficha ou exercício. Manter o desenho principal e acrescentar 
 
 | Recurso | Entrada inicial | Uso futuro |
 |---|---|---|
-| Referência–EIXO–Estado | Unidade 0.2 | todas as seis fases |
-| Pêndulo–Espiral–Percurso | desenvolvimento principal da Unidade 0.2 | regulação, fortalecimento do eixo, integração e continuidade |
+| Referência–eixo–estado | Unidade 0.2 | somente quando a imagem do eixo acrescentar clareza |
+| Pêndulo–Espiral–Percurso | desenvolvimento principal da Unidade 0.2 | regulação, orientação, integração e continuidade |
 | Desenvolvimento do Retorno | introdução breve na Unidade 0.2 | auto-observação formativa longitudinal |
 | Três Perspectivas | síntese simples ou bastidor na Unidade 0.2 | MTC/Qi Gong, neurobiologia autonômica, aprendizagem e integração |
 
@@ -108,12 +111,12 @@ Usar em apostila, ficha ou exercício. Manter o desenho principal e acrescentar 
 3. Cada aula deve declarar se apresenta, pratica, retoma ou aprofunda o mapa.
 4. Yin–yang, estados autonômicos e equilibração não devem ser visualmente alinhados como equivalências.
 5. A Essência não deve ser representada como estado emocional ideal.
-6. O EIXO permanece função pedagógica dentro do Traduzindo o Ser Humano.
+6. O eixo permanece recurso didático contextual dentro do Traduzindo o Ser Humano.
 7. Oscilação vital não deve ser colorida como falha; usar destaque apenas para deslocamentos desorganizadores quando a aula exigir a distinção.
 8. Pêndulo e espiral são metáforas didáticas, não mecanismos físicos ou garantias de evolução.
 9. Os indicadores do retorno são tendências formativas, não escala diagnóstica.
 10. Novos mapas devem reutilizar a gramática comum, mas conservar geometria própria.
-11. Simetria pode representar EIXO, correspondência e organização dinâmica; não deve ser tratada automaticamente como perfeição estática.
+11. Simetria pode representar correspondência e organização dinâmica; não deve ser tratada automaticamente como perfeição estática.
 12. Centro, luz, energia, verticalidade, transcendência e integração não devem ser neutralizados por heurísticas genéricas externas.
 13. Ajustes nesses elementos exigem razão técnica ou comunicacional demonstrável e devem priorizar versões responsivas antes da exclusão.
 
@@ -121,7 +124,7 @@ Usar em apostila, ficha ou exercício. Manter o desenho principal e acrescentar 
 
 A renderização integral dos quatro SVGs confirmou a coerência geral da família e também revelou ajustes técnicos necessários, aplicados sem alteração dos fundamentos conceituais:
 
-- **Referência, EIXO e Estado:** Centro foi explicitado junto a Essência e Self; a zona do EIXO foi descomprimida; a legenda de participação foi recolocada na área segura.
+- **Referência, eixo e estado:** Centro foi explicitado junto a Essência e Self; a zona do eixo foi descomprimida; a legenda de participação foi recolocada na área segura.
 - **Pêndulo, Espiral e Percurso:** a referência foi explicitada como Centro, Essência e Self; corpo, contexto, relação e segurança passaram a aparecer como condições que influenciam acesso e retorno; a formulação nuclear foi completada.
 - **Desenvolvimento do Retorno:** foi corrigida a colisão entre indicadores e percurso; tornou-se explícito o horizonte de uma vida progressivamente orientada pela Essência.
 - **Três Perspectivas do Equilíbrio Dinâmico:** a dimensão energética do yin–yang foi preservada; a equilibração deixou de sugerir ascensão automática; a síntese autoral foi diferenciada visualmente das três lentes-fonte.
@@ -131,7 +134,7 @@ Estatuto após esta auditoria: **coerência conceitual e legibilidade técnica v
 ## Próxima aplicação prevista
 
 Na retomada da Unidade 0.2:
-- usar o gráfico Referência–EIXO–Estado para a distinção entre referência, capacidade e condição variável, reconhecendo Centro, Essência ou Self também como referência antropológica e espiritual;
+- usar o gráfico Referência–eixo–estado somente quando ele ajudar a distinguir referência, recurso e condição variável, reconhecendo Centro, Essência ou Self também como referência antropológica e espiritual;
 - usar Pêndulo–Espiral–Percurso como imagem central;
 - apresentar Desenvolvimento do Retorno apenas depois que o participante compreender que oscilação não anula percurso;
 - manter Três Perspectivas como síntese curta, deslocando aprofundamentos para as unidades próprias.

@@ -108,7 +108,7 @@ Entram nesta aula:
 - legitimidade das linguagens simbólicas, energéticas e espirituais;
 - pluralidade de mapas e declaração de estatutos;
 - imagem livre como forma possível de Tradução;
-- EIXO como capacidade de presença e retorno durante a exploração.
+- presença e retorno durante a exploração; eixo apenas como imagem didática contextual, se contribuir.
 
 Ficam para aprofundamento posterior:
 

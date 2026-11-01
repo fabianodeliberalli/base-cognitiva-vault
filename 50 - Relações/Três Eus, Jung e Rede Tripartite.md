@@ -1,11 +1,11 @@
 ---
 tipo: relacao-conceitual
 projeto: Traduzindo o Ser Humano
-metodo: Método EIXO
-status: consolidada-como-correspondencia-heuristica
+status: referencia-heuristica-revisavel
 natureza_epistemologica: sintese-autoral-interdisciplinar
 validado_por_fabiano: true
 data_validacao: 2026-07-18
+atualizado_em: 2026-11-01
 fontes:
   - "[[Arquitetura Invisível]]"
   - "[[DELIBERALLI_TCC_SINCRONIA_NEURAL_ESTADOS_CONSCIENCIA_2026 (1)]]"
@@ -72,9 +72,9 @@ O diálogo com Jung fortalece dois elementos:
 1. a necessidade de um ponto de apoio reflexivo diante da intensidade psíquica;
 2. a diferença entre encontrar conteúdos internos e ser absorvido por eles.
 
-Essa contribuição aproxima-se diretamente do EIXO como capacidade de reconhecer afastamento, sustentar presença possível e reencontrar orientação. Ela não demonstra que o Self junguiano seja o Eu Superior.
+Essa contribuição aproxima-se de questões de reconhecimento do afastamento, presença possível e orientação. Ela não demonstra que o Self junguiano seja o Eu Superior.
 
-## Relação com o Princípio EIXO–Tradução
+## Relação com a recursividade da Tradução
 
 A Rede Tripartite oferece uma analogia neurofuncional mais coerente com circularidade do que com hierarquia:
 
@@ -94,7 +94,7 @@ Os três Eus ficam classificados como:
 ### Autoridade por domínio
 
 - **Traduzindo o Ser Humano:** autorizado como mapa tradutivo autoral;
-- **Método EIXO:** patrimônio candidato; não integra ainda o núcleo canônico;
+- **patrimônio histórico do antigo Método EIXO:** disponível para consulta, sem governar o TSH atual;
 - **curso:** pode ser recurso pedagógico se demonstrar necessidade, clareza e segurança;
 - **prática clínica:** experiência autoral relevante, não evidência de eficácia;
 - **neurociência:** correspondência heurística; não modelo neurobiológico validado;
@@ -114,13 +114,13 @@ Se a mesma aprendizagem puder ocorrer de forma mais clara sem os três Eus, eles
 
 ## Posição como Mapa Funcional Transversal
 
-Os Três Eus são aprovados no Traduzindo o Ser Humano como [[Mapa Funcional Transversal dos Três Eus]]: uma ferramenta pedagógica autoral para traduzir sistemas funcionais mobilizados pelo EIXO.
+Os Três Eus integram o Traduzindo o Ser Humano como [[Mapa Funcional Transversal dos Três Eus]]: uma ferramenta pedagógica autoral para traduzir funções que participam da experiência.
 
 Essa posição preserva simultaneamente:
 
 - seu valor integrador entre campos;
 - sua utilidade clínica-reflexiva e pedagógica;
-- a independência canônica do Método EIXO;
+- a independência do TSH em relação a qualquer recurso ou nomenclatura específica;
 - a ausência de validação neurocientífica direta;
 - a possibilidade de uso seletivo conforme público, oferta e momento do percurso.
 
@@ -128,7 +128,7 @@ O mapa deverá ser apresentado depois do contato direto com corpo, presença e T
 
 ### Teste de removibilidade
 
-Sem a nomenclatura dos Três Eus, o EIXO deverá permanecer compreensível, praticável e avaliável. O mapa acrescenta legibilidade, mas não é condição de existência do Método.
+Sem a nomenclatura dos Três Eus, o TSH deverá permanecer compreensível, praticável e avaliável. O mapa acrescenta legibilidade, mas não é condição de existência do percurso.
 
 ### Matriz futura
 
@@ -136,4 +136,4 @@ A inserção será examinada na futura matriz Três Eus × quatro movimentos × 
 
 ## Próxima distinção
 
-Antes de avançar para módulos, deverá ser concluída a distinção **Self × Essência × Alma**, verificando se os termos descrevem realidades diferentes ou perspectivas distintas do mesmo horizonte espiritual e confrontando-os com Eu Superior, EIXO e a cláusula de horizonte não dogmático.
+Antes de avançar para módulos, deverá ser concluída a distinção **Self × Essência × Alma**, verificando se os termos descrevem realidades diferentes ou perspectivas distintas do mesmo horizonte espiritual e confrontando-os com Eu Superior, os recursos de orientação e a cláusula de horizonte não dogmático.

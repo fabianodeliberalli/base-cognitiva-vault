@@ -1,10 +1,9 @@
 ---
 tipo: relacao-conceitual
 projeto: Traduzindo o Ser Humano
-metodo: Método EIXO
-status: consolidada-com-governanca-contextual
+status: referencia-atual-revisavel
 criado_em: 2026-07-18
-atualizado_em: 2026-07-18
+atualizado_em: 2026-11-01
 fontes:
   - "[[Wilber - Los Tres Ojos del Conocimiento]]"
   - "[[Wilber et al. - La Práctica Integral de Vida]]"
@@ -26,7 +25,7 @@ tags:
 
 ## Questão
 
-Self, Essência e Alma descrevem realidades diferentes ou perspectivas distintas do mesmo horizonte espiritual? Como se relacionam com Eu Superior e EIXO sem sinonímia, reducionismo ou imposição metafísica?
+Self, Essência e Alma descrevem realidades diferentes ou perspectivas distintas do mesmo horizonte espiritual? Como se relacionam com Eu Superior e com os recursos de orientação sem sinonímia, reducionismo ou imposição metafísica?
 
 ## Resultado da avaliação
 
@@ -46,12 +45,12 @@ Pode haver convergência fenomenológica, simbólica ou espiritual entre os term
 
 | Conceito | Referência principal | Função candidata | Estatuto | Não equivale a |
 |---|---|---|---|---|
-| **self psicológico** | psicodinâmica, desenvolvimento, enativismo e TCC | coesão, fronteiras, autorreferência, continuidade e organização dinâmica | psicológico-fenomenológico-relacional | Alma, Essência, Eu Superior ou EIXO |
+| **self psicológico** | psicodinâmica, desenvolvimento, enativismo e TCC | coesão, fronteiras, autorreferência, continuidade e organização dinâmica | psicológico-fenomenológico-relacional | Alma, Essência ou Eu Superior |
 | **Self junguiano** | psicologia analítica | totalidade psíquica e processo de individuação, maior que o ego | psicológico-simbólico com abertura transpessoal | ego, rede neural ou Eu Superior |
 | **Essência** | elaboração autoral do projeto | horizonte experiencial de autenticidade, potência, valores e coerência profunda | autoral, fenomenológico-existencial e espiritual não dogmático | substância cientificamente demonstrada ou identidade fixa |
 | **Alma** | tradições religiosas, filosóficas e espirituais | linguagem para profundidade, singularidade ou continuidade espiritual | tradicional, simbólico, experiencial ou metafísico conforme a fonte | conceito psicológico unívoco |
 | **Eu Superior** | Mapa Funcional Transversal dos Três Eus | traduzir sentido, valores, direção, transcendência e contribuição | metáfora funcional autoral | Self, Essência, Alma ou fonte infalível |
-| **EIXO** | núcleo do Método EIXO | reconhecer estado, recuperar presença, organizar experiência e orientar respostas | função operacional canônica | estado espiritual, Eu Superior ou totalidade psíquica |
+| **eixo** | elaboração autoral do TSH | investigar referência, deslocamento, orientação e retorno quando pertinente | recurso didático contextual | método, estado espiritual, Eu Superior ou totalidade psíquica |
 | **Fonte/campo profundo** | Laszlo | hipótese cosmológica de interconexão e realidade profunda | filosófico-cosmológico e hipotético | Essência individual, Alma ou comprovação do Eu Superior |
 
 ## Contribuição de Wilber
@@ -77,7 +76,7 @@ A obra contribui para:
 - valor da Testemunha diante dos conteúdos;
 - arquitetura global anterior ao recorte de uma oferta.
 
-Não autoriza importar os módulos de Wilber como fases do EIXO nem tratar desenvolvimento espiritual como progressão obrigatória.
+Não autoriza importar os módulos de Wilber como fases obrigatórias do TSH nem tratar desenvolvimento espiritual como progressão necessária.
 
 ### Sex, Ecology, Spirituality
 
@@ -93,7 +92,7 @@ Laszlo oferece:
 - cosmologia autoatualizante;
 - possibilidade filosófica de situar a experiência humana em um Todo.
 
-Sua contribuição é de horizonte cosmológico, não de definição psicológica. Campo Akáshico, atrator holotrópico e conexões não locais não serão utilizados como fatos científicos estabelecidos, mecanismo do EIXO ou validação do Eu Superior.
+Sua contribuição é de horizonte cosmológico, não de definição psicológica. Campo Akáshico, atrator holotrópico e conexões não locais não serão utilizados como fatos científicos estabelecidos, mecanismo central do TSH ou validação do Eu Superior.
 
 ## Ampliação da formulação de Essência
 
@@ -127,20 +126,20 @@ O Eu Superior permanece função do mapa auxiliar:
 
 Pode servir como ponte pedagógica para linguagens de Essência, Self, Alma, Espírito ou Fonte, mas não é idêntico a nenhuma delas e não garante acesso privilegiado ou infalível.
 
-## EIXO como condição de discernimento
+## Apoios ao discernimento
 
-As fontes ampliam o horizonte, mas reforçam a importância do EIXO:
+As fontes ampliam o horizonte, mas reforçam a importância de condições de discernimento:
 
 - experiências contemplativas necessitam observação e integração;
 - conteúdos simbólicos requerem função reflexiva;
 - cosmologias exigem distinção entre experiência e interpretação;
 - orientação espiritual precisa permanecer relacionada ao corpo, ao contexto, aos vínculos e às consequências.
 
-O EIXO não produz a Essência nem comprova a Alma. Ele amplia a capacidade de sustentar, traduzir e discernir aquilo que a pessoa experimenta como profundo ou espiritual.
+Nenhum recurso didático produz a Essência ou comprova a Alma. Práticas, relações e mapas podem apoiar a capacidade de sustentar, traduzir e discernir aquilo que a pessoa experimenta como profundo ou espiritual.
 
 ## Formulação-síntese candidata
 
-> **Self, Essência e Alma podem convergir como perspectivas de profundidade, totalidade e transcendência, mas não serão tratados como sinônimos técnicos. Self designará processos de organização ou totalidade psíquica conforme o referencial explicitado; Essência designará o horizonte experiencial de autenticidade, potência e coerência profunda; Alma permanecerá linguagem espiritual, tradicional ou poética contextualizada. Eu Superior será a função tradutiva de orientação do mapa auxiliar, enquanto EIXO permanecerá a função operacional de presença, discernimento e retorno.**
+> **Self, Essência e Alma podem convergir como perspectivas de profundidade, totalidade e transcendência, mas não serão tratados como sinônimos técnicos. Self designará processos de organização ou totalidade psíquica conforme o referencial explicitado; Essência designará o horizonte experiencial de autenticidade, potência e coerência profunda; Alma permanecerá linguagem espiritual, tradicional ou poética contextualizada. Eu Superior será a função tradutiva de orientação do mapa auxiliar; o eixo poderá aparecer apenas como recurso didático contextual.**
 
 ## Estatuto
 

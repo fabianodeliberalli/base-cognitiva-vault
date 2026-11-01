@@ -120,7 +120,7 @@ Não há base no caso para concluir causalidade psicossomática das doenças res
 - leitura de sentido, ancestralidade e propósito;
 - busca de transformação do sistema familiar.
 
-## EIXO e responsabilidade situada
+## Eixo como imagem e responsabilidade situada
 
 O caso permite distinguir:
 
@@ -131,7 +131,7 @@ O caso permite distinguir:
 
 Formulação candidata:
 
-> Compaixão amplia a compreensão; EIXO preserva a capacidade de reconhecer responsabilidades, limites e escolhas concretas.
+> Compaixão amplia a compreensão; retorno e orientação ajudam a reconhecer responsabilidades, limites e escolhas concretas. A imagem do eixo pode apoiar essa leitura quando pertinente.
 
 ## Espiritualidade e dignidade epistêmica
 

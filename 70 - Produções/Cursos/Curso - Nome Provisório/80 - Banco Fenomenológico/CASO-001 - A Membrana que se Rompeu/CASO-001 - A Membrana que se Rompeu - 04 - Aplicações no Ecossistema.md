@@ -49,7 +49,7 @@ Frase de síntese candidata:
 Possíveis inserções:
 
 - unidade sobre Tradução;
-- unidade sobre EIXO e regulação de contato;
+- unidade sobre regulação de contato, com eixo como imagem didática opcional;
 - aula sobre competência incorporada;
 - aula sobre metáforas organizadoras;
 - aula sobre corpo, estado e acesso às capacidades;

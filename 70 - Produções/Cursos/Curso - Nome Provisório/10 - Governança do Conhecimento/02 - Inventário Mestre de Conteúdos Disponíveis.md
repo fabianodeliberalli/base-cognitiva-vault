@@ -3,15 +3,19 @@ tipo: inventario-mestre-conteudos
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: referencia-de-busca-revisavel
-versao: "1.1"
+versao: "1.2"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-21
-atualizado_em: 2026-09-07
+atualizado_em: 2026-11-01
 relacionado_a: 01 - Reconciliação da Governança do Conhecimento e Disponibilidade do Acervo
 ---
 ## Retomadas e materiais registrados em 31/10/2026
 
 Antes de produzir a aula pertinente, consultar [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Governança do Conhecimento/TSH - Retomadas de escrita atenção e diferenciação nas 54 aulas]] e os itens correspondentes em [[70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/TSH - Escrita atenção e diferenciação - Referências e limites]]. A matriz utiliza o Raio X atualizado de 31/10; não altera a arquitetura. [[70 - Produções/Cursos/Curso - Nome Provisório/Práticas Candidatas/Práticas por Módulo - Consulta em criação e expansão]] está em plena criação e expansão: somente consulta contextual, sem governar as práticas. Aplicar [[70 - Produções/Cursos/Curso - Nome Provisório/20 - Identidade Visual/10 - Sistema Oficial v1.0/00 - Manual de Identidade Visual v1.0]] aos slides e entregáveis. Registrar o uso efetivo de cada fonte e sua limitação. M0.2 atual: [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 0/M0.2 - Roteiro e notas sincronizados v1.2]].
+
+## Patrimônio de eixo e da antiga formulação Método EIXO — 01/11/2026
+
+Usar [[EIXO Integrador]] como rota inicial para recuperar todas as elaborações construídas sob “EIXO” e “Método EIXO”. O acervo permanece disponível para aulas, roteiros, PowerPoints, práticas e entregáveis por pertinência. Recuperar funções, distinções, perguntas e propostas úteis sem restaurar a antiga hierarquia ou uma segunda marca. Em materiais atuais, escrever **eixo** em minúsculas; manter a grafia histórica apenas em títulos, nomes de arquivos e citações.
 
 
 
@@ -105,7 +109,7 @@ Procurar: Definição atual e ampliações; expressão emergente/mediada; fonte 
 
 Leitura: A mediação é corrigível; não transformar um nome proposto em verdade sobre o participante.
 
-### R08 — EIXO e aprendizagem recursiva
+### R08 — Retorno, participação e aprendizagem recursiva
 
 Relacionar disponibilidade, condições, apoio, retorno e efeitos na vida.
 
@@ -115,7 +119,7 @@ Procurar: Reconhecer, retornar, orientar, responder, revisar; estado, movimento,
 - [[70 - Produções/Cursos/Curso - Nome Provisório/60 - Arquitetura Pedagógica/00 - Fundamentos Transversais/Fundamento transversal - oscilação, acesso, diferenciação e integração|Fundamento transversal - oscilação, acesso, diferenciação e integração]] — caminho confirmado na árvore; conteúdo ainda a examinar.
 - [[70 - Produções/Cursos/Curso - Nome Provisório/60 - Arquitetura Pedagógica/10 - Mapas Transversais/02 - Mapa Mestre - Pêndulo, Espiral e Percurso|02 - Mapa Mestre - Pêndulo, Espiral e Percurso]] — texto recuperado; consultar passagem pertinente.
 
-Leitura: Atualizar legendas antigas à luz do Léxico e da síntese atual. Não tratar EIXO como calma constante, mecanismo neural validado ou Essência.
+Leitura: As fontes incluem formulações históricas sobre EIXO. Recuperar suas distinções sobre disponibilidade, condições, apoio, retorno e efeitos; no uso atual, eixo é apenas uma imagem didática contextual e não equivale a calma constante, mecanismo neural validado ou Essência.
 
 ### R09 — Investigação de Tradução e interlocutores
 
@@ -128,7 +132,7 @@ Procurar: Confrontos focais com experiencing/Gendlin, metacognição/Flavell, mo
 
 Leitura: Pesquisa nova de 03/10, fora da main; não recupera a matriz histórica de setembro e não demonstra validade empírica. Conferir originais antes de afirmações específicas em aula.
 
-### R10 — Investigação de EIXO e interlocutores
+### R10 — Investigação histórica de EIXO e interlocutores
 
 Distinguir recurso conhecido, acesso, uso, adequação, revisão e transferência; enriquecer práticas e acompanhamento.
 
@@ -137,7 +141,7 @@ Procurar: Seções 3–10: ACT/Hayes; flexibilidade regulatória/Bonanno e Burto
 - [03 - Investigação Discriminante - EIXO e Constructos Vizinhos.md](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/656615f531e3efce73f4a95be8774a75b9ea1c31/90%20-%20Sistema/Pesquisa%20e%20Editorial/Auditoria%20Te%C3%B3rica%20e%20Integra%C3%A7%C3%A3o%20Arquitetural/03%20-%20Investiga%C3%A7%C3%A3o%20Discriminante%20-%20EIXO%20e%20Constructos%20Vizinhos.md) — texto recuperado em ramificação; consulta dirigida; fora da main.
 - [01 - Manifesto de Fontes da Auditoria.md](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/656615f531e3efce73f4a95be8774a75b9ea1c31/90%20-%20Sistema/Pesquisa%20e%20Editorial/Auditoria%20Te%C3%B3rica%20e%20Integra%C3%A7%C3%A3o%20Arquitetural/01%20-%20Manifesto%20de%20Fontes%20da%20Auditoria.md) — texto recuperado em ramificação; consulta dirigida; fora da main.
 
-Leitura: Sobreposição funcional não implica equivalência nem superioridade. Versão de trabalho fora da main; não substituir definições autorais atuais pela interpretação do auditor.
+Leitura: A pesquisa registra o período em que EIXO era hipótese de método. Suas distinções podem fundamentar aulas e práticas, mas sobreposição funcional não implica equivalência nem superioridade. Versão de trabalho fora da main; não substituir as formulações atuais do TSH pela interpretação do auditor.
 
 ### R11 — Árvore e singularidade
 
@@ -359,17 +363,17 @@ Este Inventário é a porta de entrada para localizar, relacionar e reativar o p
 | [[00 - Dossiê de Contexto e Arquitetura Mestre]] | documento mestre vivo | ativo | arquitetura geral | toda retomada e deliberação curricular |
 | [[01 - Protocolo de Continuidade Integral e Abertura de Novos Chats]] | vigente | ativo | continuidade | abertura e encerramento de chats |
 | [[01 - Reconciliação da Governança do Conhecimento e Disponibilidade do Acervo]] | aprovado vigente | ativo | disponibilidade e classificação | toda busca, curadoria e produção |
-| [[02 - Matriz Integrada - Quatro Movimentos, Seis Fases e Jornada Fenomenológica]] | matriz técnica em auditoria | ativo | arquitetura do Método | revisão curricular e longitudinal |
-| [[09 - Esqueleto Estrutural da Primeira Oferta Integral para Mentoria]] | arquitetura de 14 aulas em revisão | ativo | estrutura curricular | desenho e revisão das aulas |
-| [[00 - Índice Mestre dos Kits de Aula]] | vigente | ativo | produção comparativa | gestão dos kits |
+| [[02 - Matriz Integrada - Quatro Movimentos, Seis Fases e Jornada Fenomenológica]] | patrimônio histórico consultivo | disponível | movimentos, perguntas, fases e práticas recuperáveis | fundamentação e revisão por pertinência |
+| [[09 - Esqueleto Estrutural da Primeira Oferta Integral para Mentoria]] | arquitetura histórica de 14 aulas | disponível | conteúdos e soluções de estrutura recuperáveis | produção das 54 aulas por pertinência |
+| [[00 - Índice Mestre dos Kits de Aula]] | índice histórico consultivo | disponível | localização dos kits anteriores | recuperação de fontes, não fila operacional |
 
 ## 4. Fundamentos transversais disponíveis
 
 | Núcleo | Autoridade | Função principal | Distribuição |
 |---|---|---|---|
 | Tradução da Experiência Humana | estruturante aprovada | gramática pedagógica | todo o curso |
-| Método EIXO como capacidade de retorno e reorganização | aprovado | competência incorporada | todo o curso |
-| Circularidade Tradução–EIXO | aprovada | princípio dinâmico | todo o curso |
+| Elaborações históricas de retorno e reorganização produzidas sob “Método EIXO” | patrimônio consultivo | funções, perguntas e práticas recuperáveis por pertinência; eixo atual como recurso didático contextual | aulas e entregáveis pertinentes |
+| Recursividade entre Tradução, participação e aprendizagem | referência atual; origem na antiga circularidade Tradução–EIXO | princípio dinâmico sem depender de um recurso específico | todo o curso |
 | Multidimensionalidade | aprovada | campo da experiência | todo o curso |
 | Perceber e presença recuperável | aprovados como transversalidades | condição de aprendizagem | todo o curso |
 | Recursividade | aprovada | leitura do percurso | todo o curso |
@@ -400,7 +404,7 @@ Este Inventário é a porta de entrada para localizar, relacionar e reativar o p
 | Sentir, Interocepção e Coração | corpo vivido, sinais e orientação | Módulo 2; fundamento transversal |
 | Fronteira, Ego Funcional e Permeabilidade | borda, limite, diferenciação | Módulos 3, 5 e 6 |
 | Ressonância Estrutural e Campo Relacional | corpo–relação–campo | Módulos 2, 3 e 6; educador |
-| Três Regulações, Qi Gong e EIXO | prática tradicional e incorporação | Módulos 2, 4 e 6; práticas selecionadas |
+| Três Regulações, Qi Gong e EIXO — título histórico da fonte | prática tradicional e incorporação; eixo somente se útil como imagem contextual | Módulos 2, 4 e 6; práticas selecionadas |
 | Unidade Diferenciada e Espiritualidade Integrada | integração sem fusão | Módulos 5 e 6 |
 | Diferenciação Clínica de Experiências Espirituais | segurança e formação avançada | fundamento do educador; formação profissional futura |
 | Energia Livre, inferência ativa e Markov blankets | aprofundamento neuroteórico | educador, formação futura ou material de apoio |
@@ -425,7 +429,7 @@ Este Inventário é a porta de entrada para localizar, relacionar e reativar o p
 | Núcleo | Contribuição possível | Limite de uso |
 |---|---|---|
 | interocepção | percepção de estados corporais e construção da experiência | não reduzir experiência a mecanismo |
-| saliência e Rede de Saliência | seleção de relevância e mudança de estado | correlação funcional, não identidade com EIXO |
+| saliência e Rede de Saliência | seleção de relevância e mudança de estado | correlação funcional; não identificar com eixo nem com qualquer método do TSH |
 | DMN–SN–FPN | autorreferência, saliência e coordenação executiva | heurística; não mapear um-a-um nos Três Eus |
 | corpo preditivo e inferência ativa | expectativas, atualização e ação | aprofundamento proporcional à aula |
 | regulação e corregulação | recursos internos e relacionais | não prometer estabilidade permanente |

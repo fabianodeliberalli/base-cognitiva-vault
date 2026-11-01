@@ -1,11 +1,14 @@
 ---
 tipo: indice-kit-aula
 aula: 0.2
-estado: conteudo-consolidado-v1.1-pronto-para-derivacao
-atualizado_em: 2026-08-23
+estado: patrimonio-consolidado-para-derivacao-seletiva
+atualizado_em: 2026-11-01
 ---
 
 # Aula 0.2 — Índice do Kit
+
+> [!IMPORTANT] Uso atual do kit
+> O nome da pasta registra a etapa histórica em que “EIXO” ainda era uma hipótese metodológica. Todo o conteúdo permanece disponível para aulas, roteiros, PowerPoints, práticas e entregáveis. A entrada de derivação atual é [[07 - Consolidação de Conteúdo e Destinação para M1.7]], que trata **eixo**, em minúsculas, como recurso didático contextual entre outros e recupera separadamente as contribuições de estado, acesso, retorno, orientação, participação e aprendizagem.
 
 ## Documentação
 

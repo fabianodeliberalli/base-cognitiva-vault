@@ -3,12 +3,16 @@ tipo: ficha-pedagogica-de-aula
 curso: primeira-oferta-integral
 aula: "0.2"
 status: fonte-curricular-consolidada-integrada-em-m1.7
+uso_atual: fonte-historica-consultiva
 duracao: a-definir-apos-decomposicao
 data: 2026-07-20
-atualizado_em: 2026-08-23
+atualizado_em: 2026-11-01
 ---
 
 # Unidade 0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança
+
+> [!IMPORTANT] Leitura atual
+> O título e a grafia preservam a origem histórica. Recuperar deste documento as distinções e propostas úteis por pertinência; em materiais atuais, escrever **eixo** em minúsculas e tratá-lo apenas como recurso didático contextual. A derivação vigente está em [[07 - Consolidação de Conteúdo e Destinação para M1.7]].
 
 > [!important] Estatuto vigente
 > Esta ficha permanece como fonte curricular da arquitetura 7/14. A delimitação para a entrega 9/54 e para a produção audiovisual é governada por [[07 - Consolidação de Conteúdo e Destinação para M1.7]]. Não reconstruir esta ficha isoladamente nem tratá-la como roteiro final.

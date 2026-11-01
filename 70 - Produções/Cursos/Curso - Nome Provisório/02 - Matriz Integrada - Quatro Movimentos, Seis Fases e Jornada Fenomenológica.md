@@ -2,11 +2,12 @@
 tipo: matriz-arquitetura-metodologica
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
-metodo: EIXO
-status: matriz-mestre-consolidada-para-proxima-auditoria
-versao: "0.3"
+metodo_historico: EIXO
+status: acervo-historico-consultivo
+uso_atual: acervo-consultivo
+versao: "0.4"
 criado_em: 2026-07-19
-atualizado_em: 2026-07-19
+atualizado_em: 2026-11-01
 autor: Fabiano Deliberalli
 tags:
   - quatro-movimentos
@@ -16,6 +17,9 @@ tags:
 ---
 
 # Matriz Integrada — Quatro Movimentos, Seis Fases e Jornada Fenomenológica
+
+> [!IMPORTANT] Regra de leitura vigente — 1º de novembro de 2026
+> Este documento preserva a elaboração produzida quando **Método EIXO** era uma hipótese de nome e arquitetura. Seus movimentos, distinções, perguntas e práticas continuam disponíveis como patrimônio para aulas, roteiros, apresentações e entregáveis. No TSH vigente, **eixo** é escrito em minúsculas e usado somente quando pertinente como um recurso didático entre outros; não nomeia método, marca, mecanismo central nem estrutura governante.
 
 ## Finalidade
 

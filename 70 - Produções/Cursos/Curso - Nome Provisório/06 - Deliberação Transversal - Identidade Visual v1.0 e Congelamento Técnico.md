@@ -2,8 +2,9 @@
 tipo: deliberacao-transversal
 projeto: Traduzindo o Ser Humano
 status: vigente
-versao: "1.0"
+versao: "1.1"
 data: 2026-07-30
+atualizado_em: 2026-11-01
 autoridade_de_aprovacao: Fabiano Deliberalli
 governa:
   - identidade-visual
@@ -51,9 +52,9 @@ Não devem ser reabertos por preferência estética, tendência de mercado ou he
 - pontos verticais;
 - simetria estruturante;
 - espiritualidade explícita e não dogmática;
-- integração entre humanidade, consciência, energia, EIXO e transformação.
+- integração entre humanidade, consciência, energia, experiência e transformação.
 
-A simetria permanece autorizada como representação de EIXO, correspondência, integração e organização dinâmica.
+A simetria permanece autorizada como representação de correspondência, integração e organização dinâmica. Em um material cujo tema peça essa leitura, ela também pode dialogar com a imagem do **eixo**, sem transformá-la em significado exclusivo da marca ou em categoria superior aos demais recursos didáticos.
 
 ## Escolhas técnicas consolidadas
 

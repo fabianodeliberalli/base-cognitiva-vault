@@ -4,17 +4,21 @@ projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 modulo: 0
 aula: "0.1"
-status: aprovado-curricularmente
+status: acervo-historico-consultivo
+uso_atual: fonte-historica-para-derivacao-seletiva
 estado_maturidade: consolidado-v1.0
-versao: "1.0"
+versao: "1.1"
 criado_em: 2026-07-26
-atualizado_em: 2026-07-27
+atualizado_em: 2026-11-01
 autor_do_curso: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 roteiro_fonte: Roteiro Integral Recuperado para Leitura Autoral - Aula 0.1
 ---
 
 # Aula 0.1 — Roteiro Consolidado v1.0
+
+> [!IMPORTANT] Leitura atual
+> A aprovação registrada neste roteiro pertence à arquitetura anterior. O texto permanece integralmente disponível para recuperar linguagem, exemplos e distinções, mas não governa M1.1. Toda referência a “EIXO” abaixo deve ser lida como formulação histórica; no TSH vigente, **eixo** é um recurso didático contextual em minúsculas, não uma capacidade ou método. Roteiro atual: [[M1.1 - Roteiro oral e caderno de produção v0.2]].
 
 ## Identidade
 

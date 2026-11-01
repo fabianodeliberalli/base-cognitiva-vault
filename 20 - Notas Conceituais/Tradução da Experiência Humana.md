@@ -9,6 +9,7 @@ temas: [experiência, tradução, integração, epistemologia]
 relacoes: ["[[Modelo dos Sete Níveis da Experiência]]", "[[EIXO Integrador]]"]
 validado_por_fabiano: true
 data_validacao: 2026-07-18
+atualizado_em: 2026-11-01
 protegida: false
 ---
 
@@ -36,9 +37,9 @@ Uma explicação neurofisiológica, psicológica, cultural ou ontológica pode s
 # Relações justificadas
 
 - [[Modelo dos Sete Níveis da Experiência]] operacionaliza as distinções da metodologia.
-- [[EIXO Integrador]] oferece a posição interna necessária para sustentar e incorporar aquilo que foi traduzido.
+- Recursos didáticos como árvore, pêndulo, espiral, escada, artesão, espelho ou eixo podem apoiar a Tradução quando tornam uma relação específica mais observável.
 - [[Camada 2 - Workshop]] já prevê tradução e reorganização inicial; relação provável.
-- [[Camada 3 - Método EIXO]] inclui perceber, traduzir, sustentar e reorganizar a experiência; relação clara.
+- A antiga [[Camada 3 - Método EIXO]] registra uma organização histórica anterior ao TSH atual; não governa a metodologia nem a arquitetura vigente.
 
 # Ampliação autoral — 2026-07-18
 

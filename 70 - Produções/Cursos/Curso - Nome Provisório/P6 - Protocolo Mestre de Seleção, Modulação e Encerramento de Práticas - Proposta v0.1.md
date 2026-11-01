@@ -4,9 +4,9 @@ projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 portao: P6
 status: nucleo-minimo-aprovado-portao-fechado-no-escopo
-versao: "1.0"
+versao: "1.1"
 criado_em: 2026-07-21
-atualizado_em: 2026-07-21
+atualizado_em: 2026-11-01
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 documentos_governantes:
@@ -103,7 +103,7 @@ Antes de adaptar ou escrever uma prática, responder:
 
 1. Qual problema vivido desta aula ela ajuda a trabalhar?
 2. Qual capacidade concreta ela treina?
-3. Qual movimento do EIXO sustenta, organiza, retoma ou transfere?
+3. Qual capacidade, distinção ou recurso didático a prática sustenta, organiza, retoma ou transfere?
 4. Qual resultado não poderia ser obtido apenas por exposição?
 5. A prática é a via mais simples e proporcional para essa finalidade?
 6. O que se perde se ela for removida?
@@ -430,7 +430,7 @@ Não integrar ao kit quando a prática:
 
 - **Problema vivido ao qual responde:**
 - **Capacidade treinada:**
-- **Movimento(s) do EIXO e função:**
+- **Capacidade(s), distinção(ões) e recurso(s) didático(s) mobilizados:**
 - **Relação com a Jornada:**
 - **Por que a prática é necessária:**
 - **O que ocorreria se fosse removida:**

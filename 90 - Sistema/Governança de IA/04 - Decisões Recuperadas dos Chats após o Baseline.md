@@ -1,14 +1,18 @@
 ---
 tipo: recuperacao-de-decisoes
-status: reconciliado-e-integrado
+status: reconciliado-e-integrado-com-atualizacao
 fonte: chats-e-arquivos-associados
 janela: posterior-ao-baseline-de-2026-08-25
 registrado_em: 2026-09-07
+atualizado_em: 2026-11-01
 ---
 
 # Decisões recuperadas dos chats após o baseline
 
 Este registro não transforma automaticamente toda fala de chat em regra do vault. Ele separa decisões confirmadas, estado de artefatos e conflitos que exigem mediação.
+
+> [!IMPORTANT] Atualização governante — 1º de novembro de 2026
+> A decisão posterior de Fabiano substitui a antiga classificação metodológica: **eixo** é um recurso didático contextual entre árvore, pêndulo, espiral, escada, artesão, espelho e outros. Não nomeia método, marca, mecanismo central ou arquitetura superior. Todo o patrimônio elaborado sob “EIXO” e “Método EIXO” continua disponível por pertinência para aulas, roteiros, PowerPoints, práticas e entregáveis; recuperar suas contribuições sem restaurar a antiga hierarquia e usar minúsculas nas formulações atuais. Rota de consulta: [[EIXO Integrador]].
 
 ## Confirmado por Fabiano em 06/09/2026
 
@@ -35,7 +39,7 @@ Este registro não transforma automaticamente toda fala de chat em regra do vaul
 - Espiritualidade permanece explícita, plural, não dogmática e longitudinal.
 - Teste inicial em conteúdo orgânico/lives é sequência de canal, não neutralização identitária.
 - O projeto já possui identidade e arquitetura; o trabalho atual é transformar arquitetura em produção consistente.
-- O Método EIXO é componente metodológico permanente, progressivo e reproduzível.
+- **Registro histórico posteriormente substituído:** naquela data, o Método EIXO foi descrito como componente metodológico permanente, progressivo e reproduzível. A regra atual está no aviso de 1º de novembro de 2026 e em [[11 - Contexto Mínimo - Traduzindo o Ser Humano]].
 - Competência incorporada descreve passagem da compreensão para prática e vida cotidiana.
 
 ## Decisões consolidadas após mediação

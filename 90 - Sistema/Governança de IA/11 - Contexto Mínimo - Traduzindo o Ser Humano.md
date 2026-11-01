@@ -2,9 +2,15 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.9"
-atualizado_em: 2026-10-31
+versao: "1.0"
+atualizado_em: 2026-11-01
 ---
+
+## Recursos didáticos — decisão de 01/11/2026
+
+Árvore, pêndulo, espiral, escada, artesão, espelho, eixo e outras imagens ou mapas são recursos didáticos do TSH. O eixo possui o mesmo estatuto pedagógico dos demais: pode ser usado quando ajudar uma aula ou prática, sem nomear método, produto, marca, mecanismo central, estrutura superior ou promessa comercial. A denominação histórica “Método EIXO” registra uma etapa anterior à adoção do TSH e não orienta materiais atuais. Fora do contexto concreto em que o recurso seja útil, não há razão para destacá-lo ou defini-lo separadamente.
+
+Todas as elaborações produzidas sob os nomes “EIXO” e “Método EIXO” permanecem disponíveis no acervo para fundamentar aulas, roteiros, PowerPoints, práticas e entregáveis por pertinência. Recuperar conteúdo, distinções e perguntas úteis sem transportar automaticamente a antiga hierarquia ou nomenclatura. Nas formulações atuais, escrever **eixo** em minúsculas; conservar maiúsculas somente em títulos, nomes de arquivos e citações históricas. A rota de consulta começa em [[EIXO Integrador]].
 
 ## Diálogo ativo e repertório visual — decisão de 01/11/2026
 
@@ -30,7 +36,7 @@ Ao elaborar uma aula, recuperar conteúdo autoral e fundamentos por pertinência
 
 Raio X de 30/10 preservado como base, com refinamentos localizados aprovados por Fabiano: procedência/revisão das interpretações, liberdade de corrigir uma formulação, Tradução que participa da elaboração de sentido e acompanhamento temporal da integração. Consultar [[TSH - Preparação dos Roteiros e Calendário 2026-2027]] e [[Guia-de-Conducao-Masterclass-TSH-2026-10-31]].
 
-Nesta turma, haverá oito encontros online ao vivo de duas horas com Fabiano, totalizando 16 horas: um encontro conjunto de M0 e M1 e um encontro para cada módulo de M2 a M8. Em cada encontro, a primeira hora será destinada a dúvidas e a segunda à prática orientada. Os encontros ocorrerão das 9h às 11h, horário de Brasília, conforme o calendário consolidado. São adicionais às 54 aulas gravadas. Os encontros serão realizados pelo Zoom, com link disponibilizado no grupo de WhatsApp da turma. Quem não participar ao vivo poderá assistir posteriormente à gravação na Hotmart, na área correspondente às aulas on-line. O prazo de publicação não foi definido. O acesso de um ano ao conteúdo não implica encontros recorrentes por um ano.
+Nesta turma, haverá oito encontros online ao vivo de duas horas com Fabiano, totalizando 16 horas: um encontro conjunto de M0 e M1 e um encontro para cada módulo de M2 a M8. Em cada encontro, a primeira hora será destinada a dúvidas e a segunda à prática orientada. Os encontros ocorrerão das 9h às 11h, horário de Brasília, conforme o calendário consolidado. São adicionais às 54 aulas em vídeo. Os encontros serão realizados pelo Zoom, com link disponibilizado no grupo de WhatsApp da turma. Quem não participar ao vivo poderá assistir posteriormente à gravação na Hotmart, na área correspondente às aulas on-line. O prazo de publicação não foi definido. O acesso de um ano ao conteúdo não implica encontros recorrentes por um ano.
 
 M0 e M1: liberação em 17/11/2026 às 00h. Último módulo: 24/01/2027. Último encontro: 30/01/2027. Datas de gravação e edição não foram definidas. O cadastro não atesta publicação na Hotmart. Referências anteriores a nove encontros/18h e acesso a M0/M1 no ingresso estão superadas por este calendário.
 
@@ -38,7 +44,7 @@ M0 e M1: liberação em 17/11/2026 às 00h. Último módulo: 24/01/2027. Último
 
 ## Registro de 30/10 — entrega operacional atualizada acima
 
-O Raio X recebeu uma revisão de trabalho em Word e Markdown, acompanhada de [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo]]. A formulação ampliada, a persona, o benefício expressivo e um encontro online ao vivo de duas horas por módulo foram explicitamente solicitados por Fabiano. Os exemplos, a distribuição de práticas e o modo de condução são propostas pedagógicas revisáveis. Fabiano homologou a integração deste conjunto em 30/10/2026 ao solicitar as modificações no Obsidian. O Raio X revisado passa a ser a referência atual; o anterior permanece no histórico.
+O Raio X recebeu uma revisão de trabalho em Word e Markdown, acompanhada de [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo]]. A formulação ampliada, a persona, o benefício expressivo e um encontro online ao vivo de duas horas por módulo foram explicitamente solicitados por Fabiano. Os exemplos, a distribuição de práticas e o modo de condução são propostas pedagógicas revisáveis. Fabiano solicitou a incorporação deste conjunto em 30/10/2026. O Raio X revisado passa a ser a referência atual e continua revisável; o anterior permanece no histórico.
 
 O TSH oferece mapas e práticas para compreender a experiência, ampliar o acesso aos próprios recursos e cultivar possibilidades de vida que ainda encontram pouco espaço de expressão, considerando corpo, história, relações, condições de vida e dimensão espiritual.
 
@@ -53,7 +59,7 @@ O Word confirmado em 24/10 permanece integralmente recuperável em [[70 - Produ�
 
 ## Registro de vigência anterior — decisão de 24 de outubro de 2026
 
-Na decisão de 24/10/2026, a referência vigente do Raio X passou a ser o arquivo **RAIO X - congelado(1).docx**, fornecido e confirmado por Fabiano nesta data, preservado integralmente em [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Raio X do Produto/Vigente/Raio-X-Fabiano Deliberalli.docx|Raio X vigente — Word]]. Para leitura e busca, usar [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Raio X do Produto/Vigente/Raio-X-Fabiano Deliberalli - Texto para consulta|Raio X vigente — texto para consulta]]; essa transcrição é derivada do Word e não constitui versão independente.
+Na decisão de 24/10/2026, a referência vigente do Raio X passou a ser o arquivo **RAIO X - congelado(1).docx**, fornecido e confirmado por Fabiano nesta data, preservado integralmente em [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Raio X do Produto/Histórico/2026-10-24 - Raio-X-Fabiano Deliberalli - anterior ao refinamento.docx|Raio X de 24/10 — histórico]]. A referência atual está em [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Raio X do Produto/Vigente/Raio-X-Fabiano Deliberalli.docx|Raio X atual — Word]]; para leitura e busca, usar sua [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Raio X do Produto/Vigente/Raio-X-Fabiano Deliberalli - Texto para consulta|transcrição sincronizada]].
 
 Todas as demais versões do Raio X, seus resumos, matrizes de correspondência e referências de oferta anteriores têm valor histórico. Expressões como “vigente”, “canônico”, “definitivo” ou “aprovado” dentro desses materiais descrevem o estado da época e não lhes conferem precedência atual. Isso inclui versões de agosto e rascunhos de outubro, independentemente da data ou do nome do arquivo.
 
@@ -68,7 +74,7 @@ Use esta ficha para começar. Expanda a leitura somente conforme a tarefa. Todas
 ## Referências atuais de trabalho
 
 - **Traduzindo o Ser Humano** é a marca organizadora e o nome atual da oferta.
-- **EIXO** é função pedagógica interna de presença, discernimento, orientação e retorno; não é automaticamente produto, mecanismo comercial ou promessa.
+- Árvore, pêndulo, espiral, escada, artesão, espelho, eixo e outros mapas ou imagens são recursos didáticos usados por pertinência. Nenhum deles nomeia o método, a marca, o mecanismo central ou uma estrutura superior do TSH.
 - **9 módulos / 54 aulas** são a arquitetura usada atualmente. Esse formato ainda será estruturado para posterior gravação e pode evoluir por decisão de Fabiano.
 - A organização inicial de **7 módulos / 14 aulas** não é mais estrutura. Seus títulos e conteúdos permanecem como acervo histórico de consulta.
 - Durante a estruturação das 54 aulas para posterior gravação, o acervo inicial pode ser consultado como fonte qualificada para **ampliações, correlações e fundamentações**. Cada contribuição será escolhida por necessidade e pertinência ao conteúdo da aula, sem correspondência obrigatória, sem transportar a numeração antiga e sem restaurar a estrutura inicial como arquitetura.
@@ -83,7 +89,7 @@ Use esta ficha para começar. Expanda a leitura somente conforme a tarefa. Todas
 
 Fabiano aprovou a incorporação de [[70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/TSH - Síntese Integrativa do Refinamento|TSH — Síntese Integrativa do Refinamento]] como fonte de diálogo para estruturar aulas e produzir conteúdos do TSH, inclusive em consultas por diferentes assistentes de IA. A nota contém o texto integral pesquisável e aponta para o Word revisado.
 
-Consultar os trechos pertinentes ao desenvolver fundamentos, práticas, roteiros, Masterclass e comunicação. A síntese articula Essência e singularidade; Tradução e captação sensível com discernimento; árvore, pêndulo, EIXO, espiral e circulação; Medicina Chinesa e horizonte transpessoal. Colocá-la em diálogo com o Raio X vigente e os materiais da aula ou conteúdo em elaboração, explicitando o acréscimo realmente útil, sem reproduzir todo o documento.
+Consultar os trechos pertinentes ao desenvolver fundamentos, práticas, roteiros, Masterclass e comunicação. A síntese articula Essência e singularidade; Tradução e captação sensível com discernimento; árvore, pêndulo, eixo, espiral e circulação; Medicina Chinesa e horizonte transpessoal. Colocá-la em diálogo com o Raio X vigente e os materiais da aula ou conteúdo em elaboração, explicitando o acréscimo realmente útil, sem reproduzir todo o documento.
 
 Preservar a distinção entre formulações autorais, conhecimentos tradicionais, achados de pesquisa, hipóteses e propostas de práticas. A aprovação incorpora o material ao acervo e não converte propostas em roteiros finais nem impede revisões por Fabiano. As notas relacionadas e os materiais de M1 receberam refinamentos correspondentes.
 

@@ -3,37 +3,24 @@ tipo: dossie-de-contexto
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: referencia-atual-revisavel
-versao: "0.36"
+versao: "0.37"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-17
-atualizado_em: 2026-10-30
+atualizado_em: 2026-11-01
 autoridade_de_decisao: Fabiano Deliberalli
 ---
 
-## Revisão solicitada em 30 de outubro de 2026
+## Atualização de 1º de novembro de 2026
 
-O Raio X recebeu uma revisão de trabalho em Word e Markdown, acompanhada de [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo]]. A formulação ampliada, a persona, o benefício expressivo e um encontro online ao vivo de duas horas por módulo foram explicitamente solicitados por Fabiano. Os exemplos, a distribuição de práticas e o modo de condução são propostas pedagógicas revisáveis. Fabiano homologou a integração deste conjunto em 30/10/2026 ao solicitar as modificações no Obsidian. O Raio X revisado passa a ser a referência atual; o anterior permanece no histórico.
+O produto se chama **Traduzindo o Ser Humano**. Para aquisição, a pergunta de entrada é **“Por que você entende seus padrões, mas continua repetindo?”** e a formulação curta é **“Entender um padrão nem sempre basta para responder de outro modo.”** O resultado desejado para comunicação é **“Perceber o automático mais cedo, recuperar clareza e responder com mais coerência.”** A promessa mais longa permanece como formulação estratégica do percurso, não como obrigação de headline.
 
-O TSH oferece mapas e práticas para compreender a experiência, ampliar o acesso aos próprios recursos e cultivar possibilidades de vida que ainda encontram pouco espaço de expressão, considerando corpo, história, relações, condições de vida e dimensão espiritual.
+Nesta turma, a formação terá 54 aulas em vídeo e oito encontros online ao vivo de duas horas, totalizando 16 horas. M0 e M1 compartilham o primeiro encontro; M2 a M8 têm um encontro cada. Os encontros serão realizados pelo Zoom, com link no grupo de WhatsApp. As gravações serão disponibilizadas posteriormente na Hotmart; o prazo de publicação ainda não foi definido.
 
-Persona: Adultos que desejam ampliar sua participação consciente na própria vida, desenvolver recursos pessoais e reconhecer os apoios e condições necessários para sustentar escolhas, relações e possibilidades de expressão.
+Árvore, pêndulo, espiral, escada, artesão, espelho, eixo e outras imagens ou mapas são recursos didáticos do TSH. O eixo tem o mesmo estatuto dos demais e não nomeia método, produto, marca, mecanismo central ou arquitetura superior. “Método EIXO” é uma denominação histórica anterior ao TSH e não orienta a produção atual. As elaborações construídas naquela etapa continuam disponíveis como patrimônio para aulas, roteiros, PowerPoints, práticas e entregáveis. Seu reaproveitamento deve identificar a contribuição concreta, abandonar a antiga hierarquia e usar eixo em minúsculas nas formulações atuais.
 
-Nesta turma: um encontro online ao vivo de duas horas a cada módulo, uma hora de dúvidas e uma hora de prática. Considerando M0 a M8, são nove encontros e 18 horas adicionais às 54 aulas gravadas. Calendário, plataforma dos encontros, política de gravação, faltas e condições de acompanhamento permanecem a definir; o acesso de um ano não significa encontros ao vivo durante um ano.
+## Histórico recente do Raio X
 
-Consultar a nota de integração junto da síntese para produzir aulas, práticas e comunicação, distinguindo decisões autorais, propostas e fontes.
-
-O Word confirmado em 24/10 permanece integralmente recuperável em [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Raio X do Produto/Histórico/2026-10-24 - Raio-X-Fabiano Deliberalli - anterior ao refinamento.docx]]. O registro abaixo descreve o estado anterior à presente revisão.
-
-
-## Registro de vigência anterior — decisão de 24 de outubro de 2026
-
-Na decisão de 24/10/2026, a referência vigente do Raio X passou a ser o arquivo **RAIO X - congelado(1).docx**, fornecido e confirmado por Fabiano nesta data, preservado integralmente em [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Raio X do Produto/Vigente/Raio-X-Fabiano Deliberalli.docx|Raio X vigente — Word]]. Para leitura e busca, usar [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Raio X do Produto/Vigente/Raio-X-Fabiano Deliberalli - Texto para consulta|Raio X vigente — texto para consulta]]; essa transcrição é derivada do Word e não constitui versão independente.
-
-Todas as demais versões do Raio X, seus resumos, matrizes de correspondência e referências de oferta anteriores têm valor histórico. Expressões como “vigente”, “canônico”, “definitivo” ou “aprovado” dentro desses materiais descrevem o estado da época e não lhes conferem precedência atual. Isso inclui versões de agosto e rascunhos de outubro, independentemente da data ou do nome do arquivo.
-
-Consultar o histórico somente quando Fabiano solicitar ou quando houver conteúdo ou estrutura efetivamente desenvolvidos com pertinência e relevância concretas para a tarefa. Ao recuperar algo, identificar fonte, vínculo com a aula ou questão atual e contribuição possível; apresentar como material passível de análise. Não reincorporar automaticamente títulos, focos, recursos, promessas, numerações, cronogramas ou condições antigos, nem completar silêncios do Raio X atual com decisões de versões anteriores. Dúvidas internas do documento atual devem ser explicitadas, sem correção silenciosa ou recurso automático ao histórico.
-
-Esta atualização registra a decisão de Fabiano; não altera o conteúdo do Word nem declara outras propostas aprovadas. A data de consolidação de 23/08/2026 presente no próprio Word foi preservada e não deve ser confundida com a confirmação de vigência de 24/10/2026.
+O Word de 24/10 permanece preservado em [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Raio X do Produto/Histórico/2026-10-24 - Raio-X-Fabiano Deliberalli - anterior ao refinamento.docx]]. Fabiano solicitou refinamentos em 30/10; o calendário foi corrigido em 31/10; e Word e Markdown foram sincronizados em 01/11. A referência atual é revisável e está em [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Raio X do Produto/Vigente/Raio-X-Fabiano Deliberalli.docx|Raio X atual — Word]] e em sua [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Raio X do Produto/Vigente/Raio-X-Fabiano Deliberalli - Texto para consulta|transcrição de consulta]]. Detalhes, hashes e versões anteriores: [[10 - Raio X do Produto/00 - Índice e Estado do Raio X - Mentoria - 2026-08-04]].
 
 # Dossiê de Contexto — Traduzindo o Ser Humano
 
@@ -57,6 +44,14 @@ Pergunta de entrada atualmente utilizada:
 
 > **Por que você entende seus padrões, mas continua repetindo?**
 
+Formulação de aquisição:
+
+> **Entender um padrão nem sempre basta para responder de outro modo.**
+
+Resultado desejado para comunicação:
+
+> **Perceber o automático mais cedo, recuperar clareza e responder com mais coerência.**
+
 Promessa de trabalho:
 
 > **Compreender como minha vida se organizou, construir condições para participar de outra maneira e cultivar possibilidades de expressão que ainda encontram pouco espaço.**
@@ -67,7 +62,7 @@ O projeto acolhe especialmente adultos com trajetória anterior de psicoterapia,
 
 ## Arquitetura atual e acervo inicial
 
-- **9 módulos e 54 aulas** constituem o formato usado atualmente.
+- **9 módulos e 54 aulas em vídeo** constituem o formato usado atualmente.
 - A organização e a duração das aulas ainda serão construídas para posterior gravação.
 - **Doze semanas** permanece apenas como estimativa proveniente de versões anteriores.
 - A organização inicial de **7 módulos e 14 aulas ou unidades** não funciona como arquitetura paralela.
@@ -79,17 +74,17 @@ A genealogia do conteúdo deve ser recuperável, mas não precisa determinar a f
 
 ## Sistema pedagógico em desenvolvimento
 
-Referências conceituais disponíveis:
+Recursos e referências disponíveis:
 
 - **Mapa dos Três Eus:** Eu Básico, Eu Médio e Eu Superior;
-- **EIXO:** função pedagógica relacionada a presença, discernimento, orientação e retorno;
 - **Cinco Janelas:** recurso de observação e diferenciação;
-- relação recursiva entre tradução e EIXO;
+- **árvore, pêndulo, espiral, escada, artesão, espelho, eixo e outras imagens:** recursos didáticos usados conforme a aula ou prática;
+- relações recursivas entre tradução, experiência, recursos, participação e aprendizagem;
 - quatro movimentos funcionais e seis fases pedagógicas;
 - presença suficiente e variável, sem ideal de estabilidade permanente;
 - diferenciação sem fragmentação e integração sem homogeneização.
 
-Essas referências podem ser aprofundadas, relacionadas, reformuladas ou reposicionadas durante a elaboração das aulas. EIXO não se torna automaticamente nome de produto, promessa comercial ou explicação única.
+Essas referências podem ser aprofundadas, relacionadas, reformuladas ou reposicionadas durante a elaboração das aulas. Nenhum recurso didático se torna nome de produto, promessa comercial, explicação única ou estrutura superior do TSH.
 
 ## Pluralismo e responsabilidade
 

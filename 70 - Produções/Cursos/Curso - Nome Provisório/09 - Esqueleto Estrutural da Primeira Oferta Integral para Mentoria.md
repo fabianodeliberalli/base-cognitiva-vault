@@ -1,12 +1,16 @@
 ---
 tipo: arquitetura-curricular
 projeto: Traduzindo o Ser Humano
-status: arquitetura-interna-de-desenvolvimento-integracao-e-rastreabilidade
-versao: "0.9"
+status: acervo-historico-consultivo
+uso_atual: acervo-consultivo
+versao: "1.0"
 criado_em: 2026-07-19
-atualizado_em: 2026-08-22
+atualizado_em: 2026-11-01
 autor: Fabiano Deliberalli
 ---
+
+> [!IMPORTANT] Regra de leitura vigente — 1º de novembro de 2026
+> Este esqueleto documenta uma arquitetura anterior à estrutura vigente de 9 módulos e 54 aulas. As elaborações associadas a **EIXO/Método EIXO** permanecem disponíveis como patrimônio curricular; ao serem reutilizadas, devem ser traduzidas para a arquitetura atual. **Eixo**, em minúsculas, é um recurso didático contextual entre árvore, pêndulo, espiral, escada, artesão, espelho e outros, não o nome do método ou uma estrutura governante.
 
 > [!NOTE] Leitura dos códigos históricos 2.1 e 2.2
 > Quando estes códigos nomearem antigas aulas ou unidades, eles identificam somente materiais do acervo histórico. Todas as variantes ficam preservadas e nenhuma é aula vigente. Seus títulos, conteúdos e fundamentações podem contribuir para qualquer uma das 54 aulas conforme pertinência, sem determinar numeração, posição ou ordem de gravação. Códigos iguais usados como versão, seção ou identificador técnico não são afetados.

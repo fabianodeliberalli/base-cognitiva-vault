@@ -2,13 +2,13 @@
 tipo: desenvolvimento-pedagogico
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-atualizado_em: 2026-10-31
+atualizado_em: 2026-11-01
 autor_do_projeto: Fabiano Deliberalli
 ---
 
 # Integração do refinamento ao percurso do TSH
 
-Esta elaboração acompanha a revisão do Raio X solicitada por Fabiano em 30 de outubro de 2026. Mantém nove módulos e 54 aulas e relaciona fundamentos, linguagem da oferta, práticas, encontros ao vivo e materiais complementares. As formulações reproduzidas abaixo e o encontro de duas horas por módulo são decisões explicitadas por Fabiano. A distribuição das práticas, os exemplos e as escolhas de condução são propostas para seu desenvolvimento autoral.
+Esta elaboração acompanha a revisão do Raio X solicitada por Fabiano em 30 de outubro de 2026 e atualizada em 1º de novembro. Mantém nove módulos e 54 aulas em vídeo e relaciona fundamentos, linguagem da oferta, práticas, oito encontros ao vivo e materiais complementares. A distribuição das práticas, os exemplos e as escolhas de condução são propostas para seu desenvolvimento autoral.
 
 Fontes internas: [[TSH - Síntese Integrativa do Refinamento]], [[Raio-X-Fabiano Deliberalli - Texto para consulta]], [[Léxico Mestre do Traduzindo o Ser Humano]] e [[07 - Ficha - Cartografia Multidimensional Inicial da Experiência]]. A síntese permanece patrimônio integral; esta nota acrescenta sua aplicação curricular e não substitui seus fundamentos.
 
@@ -33,6 +33,12 @@ Benefício: **Encontrar formas de reconhecer e comunicar o que vive:** utilizar 
 Orientação do percurso: **Compreender como minha vida se organizou, construir condições para participar de outra maneira e cultivar possibilidades de expressão que ainda encontram pouco espaço.**
 
 A pergunta sobre compreender padrões e continuar repetindo permanece como entrada reconhecível. A finalidade ampliada permite prosseguir para descoberta, aprendizagem e expressão. O subtítulo existente permanece referência revisável; esta ampliação não exige nova marca ou produto.
+
+Formulação de aquisição: **Entender um padrão nem sempre basta para responder de outro modo.**
+
+Resultado desejado: **Perceber o automático mais cedo, recuperar clareza e responder com mais coerência.**
+
+Árvore, pêndulo, espiral, escada, artesão, espelho, eixo e outros mapas ou imagens são recursos didáticos usados conforme a necessidade de cada aula. O eixo não nomeia método, produto, marca, mecanismo central ou estrutura superior do TSH.
 
 ## Essência e presença transpessoal ao longo do curso
 
@@ -155,7 +161,7 @@ Um pequeno detalhe visual da árvore pode acompanhar o caso; não exibir todos o
 
 Decisão de Fabiano: nesta turma, a cada módulo liberado na Hotmart haverá uma aula online ao vivo de duas horas, uma hora de dúvidas e uma hora de prática. Para comunicação pública, usar “online ao vivo” ou “encontro de prática orientada”, evitando “presencial online”, que pode sugerir presença física.
 
-Nesta turma, haverá oito encontros online ao vivo de duas horas com Fabiano, totalizando 16 horas: um encontro conjunto de M0 e M1 e um encontro para cada módulo de M2 a M8. Em cada encontro, a primeira hora será destinada a dúvidas e a segunda à prática orientada. Os encontros ocorrerão das 9h às 11h, horário de Brasília, conforme o calendário consolidado. São adicionais às 54 aulas gravadas. Plataforma, links e política de gravação dos encontros do curso serão informados separadamente. O acesso de um ano ao conteúdo não implica encontros recorrentes por um ano. Ver [[TSH - Preparação dos Roteiros e Calendário 2026-2027]].
+Nesta turma, haverá oito encontros online ao vivo de duas horas com Fabiano, totalizando 16 horas: um encontro conjunto de M0 e M1 e um encontro para cada módulo de M2 a M8. Em cada encontro, a primeira hora será destinada a dúvidas e a segunda à prática orientada. Os encontros ocorrerão das 9h às 11h, horário de Brasília, conforme o calendário consolidado. São adicionais às 54 aulas em vídeo. Os encontros serão realizados pelo Zoom, com link disponibilizado no grupo de WhatsApp da turma. Quem não participar ao vivo poderá assistir posteriormente à gravação na Hotmart, na área correspondente às aulas on-line. O prazo de publicação não foi definido. O acesso de um ano ao conteúdo não implica encontros recorrentes por um ano. Ver [[TSH - Preparação dos Roteiros e Calendário 2026-2027]].
 
 Esses encontros pertencem à entrega central desta turma. Apresentá-los apenas como bônus ocultaria sua função na aprendizagem corporal. O acesso de um ano refere-se ao conteúdo da formação, não a encontros mensais durante um ano.
 
@@ -182,9 +188,9 @@ No ensino remoto, oferecer instruções verbais claras e alternativas de postura
 
 Práticas devem permitir olhos abertos, pausa, observação e amplitude menor. Não exigir retenção respiratória, hiperventilação, esforço ou experiência intensa como sinal de êxito. Se surgir desconforto relevante, interromper a prática e orientar retorno aos apoios; demandas clínicas individuais não são resolvidas pela aula coletiva. Essas condições pertencem à condução prática, não precisam ocupar toda a divulgação do curso.
 
-O calendário está definido na nota de preparação. Antes da divulgação completa, definir plataforma dos encontros, gravação e acesso às gravações, tratamento das perguntas pessoais, participação de quem faltar e moderação da comunidade. Uma opção é gravar a exposição e a prática demonstrada pelo educador e preservar falas pessoais, mediante comunicação prévia e consentimento pertinente. Essa opção ainda não está decidida.
+O calendário, o Zoom, a distribuição dos links pelo grupo de WhatsApp e a disponibilização posterior das gravações na Hotmart estão definidos. Permanecem abertos o prazo de publicação, o tratamento das perguntas pessoais, a participação de quem faltar e a moderação da comunidade. A gravação deve preservar falas pessoais mediante comunicação prévia e consentimento pertinente.
 
-Texto-base da entrega: “Além das 54 aulas gravadas, nesta turma teremos oito encontros online ao vivo de duas horas, com M0 e M1 juntos e um encontro para cada módulo de M2 a M8: uma hora para esclarecer dúvidas e uma hora para praticar com minha orientação. Os encontros ajudam a experimentar, adaptar e integrar o que estudamos, especialmente nas práticas corporais, respiratórias e de Qi Gong.”
+Texto-base da entrega: “Além das 54 aulas em vídeo, nesta turma teremos oito encontros online ao vivo de duas horas, com M0 e M1 juntos e um encontro para cada módulo de M2 a M8: uma hora para esclarecer dúvidas e uma hora para praticar com minha orientação. Os encontros ajudam a experimentar, adaptar e integrar o que estudamos, especialmente nas práticas corporais, respiratórias e de Qi Gong.”
 
 ## Lugar da Órbita Microcósmica
 
@@ -207,9 +213,9 @@ Não nomear toda varredura corporal ou visualização como Órbita Microcósmica
 
 **Fichas de Exercícios.** Versão curta: “O que notei?”, “Como posso registrar?”, “O que associei ou concluí?”, “O que permanece aberto?”, “O que ficou possível?”, “Que condição ou apoio preciso?” e “O que vou observar na vida?”. Selecionar de três a cinco perguntas conforme o encontro. Acrescentar posteriormente “Que efeito ocorreu?” e “O que quero ajustar?”. A ficha extensa continua disponível para investigação escolhida, não como obrigação diária.
 
-**Guia de Palavras e Conceitos.** Cada verbete deve conter significado no curso, campo de origem, pergunta que ajuda a investigar, exemplo cotidiano, distinção importante e fonte de aprofundamento. Incluir Qi, Jing, Shen, Zhi, Dantian, interocepção, alostase, granularidade, Tradução, EIXO, Essência, Self e Eu Superior segundo pertinência. Aumentar vocabulário não exige substituir a linguagem do participante.
+**Guia de Palavras e Conceitos.** Cada verbete deve conter significado no curso, campo de origem, pergunta que ajuda a investigar, exemplo cotidiano, distinção importante e fonte de aprofundamento. Incluir Qi, Jing, Shen, Zhi, Dantian, interocepção, alostase, granularidade, Tradução, Essência, Self, Eu Superior e os recursos didáticos efetivamente usados em cada aula. Aumentar vocabulário não exige substituir a linguagem do participante.
 
-**Comunidade de Continuidade.** Organizar trocas por dúvidas, descobertas, adaptações e integração cotidiana. Evitar comparação de intensidade, leitura da experiência espiritual alheia como diagnóstico e incentivo a orientar práticas complexas sem o educador. Informar duração, moderação, canais e limites antes de divulgá-la como entrega definida. Sua existência não substitui os nove encontros ou outros apoios pessoais.
+**Comunidade de Continuidade.** Organizar trocas por dúvidas, descobertas, adaptações e integração cotidiana. Evitar comparação de intensidade, leitura da experiência espiritual alheia como diagnóstico e incentivo a orientar práticas complexas sem o educador. Informar duração, moderação, canais e limites antes de divulgá-la como entrega definida. Sua existência não substitui os oito encontros ou outros apoios pessoais.
 
 ## Refinamento autoral que organiza o conjunto
 
@@ -233,7 +239,7 @@ O acréscimo real é passar de uma ênfase em recuperar recursos para um percurs
 | Articular família de mapas | Funções, destinos e caso recorrente definidos. | Produzir ou revisar peças gráficas conforme necessidade das aulas. |
 | Situar responsabilidade e relações | Persona e M7 revisados; apoio, poder, limites e encerramento incluídos. | Testar a clareza dos exemplos com diferentes contextos. |
 | Atualizar complementos | Descrições, ficha breve e estrutura dos verbetes alinhadas. | Diagramar os materiais finais; definir operação da comunidade. |
-| Integrar entrega ao vivo | Um encontro por módulo registrado; nove encontros e 18 horas pela leitura M0 a M8. | Definir calendário, plataforma, gravações, faltas e capacidade de acompanhamento. |
+| Integrar entrega ao vivo | Oito encontros e 16 horas: M0/M1 juntos e um encontro de M2 a M8. | Definir prazo das gravações, tratamento de faltas e capacidade de acompanhamento. |
 
 As prioridades conceituais e editoriais estão contempladas na proposta. A execução pedagógica e operacional permanece distinguida da revisão documental: não se afirmam gravações, publicação na Hotmart, atualização de checkout ou conclusão de protocolos ainda não realizados.
 
@@ -315,7 +321,7 @@ O espelho é uma imagem auxiliar: a situação ajuda a reconhecer o que se mobil
 
 ### Inserção na Masterclass
 
-A apresentação permanece com 67 slides e sete blocos em 90 minutos. No slide 8, a fala distingue visibilidade do padrão e finalidade do sofrimento. O slide 17 incorpora o artesão depois da distinção entre compreender e acessar. O slide 20 apresenta os três planos depois das dimensões da experiência. A condução do slide 27 acolhe associações como hipóteses e a imagem do espelho parcial. O slide 34 apresenta as quatro distinções relacionais após a retomada do caso e a síntese do EIXO.
+A apresentação permanece com 67 slides e sete blocos em 90 minutos. No slide 8, a fala distingue visibilidade do padrão e finalidade do sofrimento. O slide 17 incorpora o artesão depois da distinção entre compreender e acessar. O slide 20 apresenta os três planos depois das dimensões da experiência. A condução do slide 27 acolhe associações como hipóteses e a imagem do espelho parcial. O slide 34 apresenta as quatro distinções relacionais após a retomada do caso e a síntese do percurso.
 
 As telas 17, 20 e 34 substituem telas de síntese, cujas ideias permanecem nas notas. Reservar aproximadamente 45, 75 e 90 segundos, respectivamente, dentro dos blocos existentes e confirmar em ensaio. Preservar tempo de prática e perguntas. A Masterclass introduz as distinções; o curso desenvolve sua aplicação.
 

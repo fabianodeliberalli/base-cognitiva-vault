@@ -86,9 +86,9 @@ O caso pode ser correlacionado a temas como:
 - orientação para aprendizagem, humildade e sentido;
 - deslocamento da pergunta “como volto a ser quem era?” para “o que posso desenvolver a partir daqui?”.
 
-## Integração com o EIXO
+## Integração com o recurso do eixo
 
-A fronteira permeável pode ser lida como manifestação de EIXO funcional:
+A fronteira permeável pode ser investigada com apoio da imagem de um eixo:
 
 - reconhecer o estado atual;
 - discriminar o que entra e o que sai;
@@ -97,7 +97,7 @@ A fronteira permeável pode ser lida como manifestação de EIXO funcional:
 
 Formulação candidata:
 
-> EIXO não é permanecer fechado ou protegido; é poder regular contato sem desaparecer de si.
+> Neste caso, eixo não significa permanecer fechado ou protegido; ajuda a representar a possibilidade de regular contato sem desaparecer de si.
 
 ## Corpo como indicador
 

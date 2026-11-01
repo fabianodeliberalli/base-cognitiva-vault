@@ -516,7 +516,7 @@ Distinguir:
 - segurança como valor legítimo;
 - segurança como regra rígida.
 
-### M5.3 — Três Eus e função EIXO
+### M5.3 — Os Três Eus como mapa de coordenação
 Zhi/Shen podem aparecer como comparação de tradição, sem equivaler aos Três Eus.
 
 ### M5.4 — Espaço entre impulso e escolha
@@ -525,7 +525,7 @@ O caso mostra que o intervalo precisa produzir orientação e não apenas mais r
 ### M6.2 — Diferenciar sem fragmentar
 Ocidente e Oriente podem descrever dimensões do caso sem necessidade de fundi-las.
 
-### M6.5 — Tradução e EIXO em espiral
+### M6.5 — Tradução e retorno em espiral
 O padrão é reconhecido novamente sob condição cotidiana e ganha nova oportunidade de atualização.
 
 ### M6.6 — Presença situada e coerência possível

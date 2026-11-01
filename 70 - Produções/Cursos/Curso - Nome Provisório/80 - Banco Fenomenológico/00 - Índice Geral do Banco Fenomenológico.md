@@ -11,6 +11,9 @@ tags:
 
 # Índice Geral do Banco Fenomenológico
 
+> [!IMPORTANT] Regra vigente para o patrimônio EIXO
+> Os casos preservam formulações produzidas em diferentes etapas do TSH. Referências históricas a “EIXO” e “Método EIXO” continuam disponíveis como matéria-prima de investigação e criação. Ao derivar aulas, roteiros, apresentações, práticas ou entregáveis, recuperar a função e a distinção pertinentes, escrever **eixo** em minúsculas e tratá-lo somente como recurso didático contextual entre outros — nunca como método, capacidade autônoma ou arquitetura governante.
+
 Este banco reúne registros clínicos anonimizados, observações fenomenológicas, hipóteses, correlações, metáforas estruturantes, paradigmas, mapas conceituais e derivações curriculares do projeto **Traduzindo o Ser Humano**.
 
 ## Princípio de organização

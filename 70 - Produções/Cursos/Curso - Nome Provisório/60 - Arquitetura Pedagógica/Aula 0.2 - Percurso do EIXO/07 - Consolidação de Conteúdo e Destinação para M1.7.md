@@ -3,16 +3,19 @@ tipo: consolidacao-de-conteudo-e-destinacao
 projeto: Traduzindo o Ser Humano
 unidade_curricular: "0.2"
 destino_entrega: "M1.7"
-status: consolidado-v1.1-para-derivacao-audiovisual
-versao: "1.1"
+status: consolidado-v1.2-para-derivacao-audiovisual
+versao: "1.2"
 criado_em: 2026-08-22
-atualizado_em: 2026-10-30
+atualizado_em: 2026-11-01
 autor_do_curso: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 gravacao_autorizada: false
 ---
 
 # Unidade 0.2 / M1.7 — Consolidação de conteúdo e destinação
+
+> [!IMPORTANT] Regra vigente sobre o recurso eixo
+> Esta consolidação preserva todo o patrimônio da antiga Unidade 0.2, inclusive as formulações produzidas quando “EIXO” tinha estatuto metodológico. Na derivação atual, **eixo** é escrito em minúsculas e usado somente como uma imagem didática contextual, no mesmo nível de árvore, pêndulo, espiral, escada, artesão e espelho. As distinções sobre estado, acesso, retorno, orientação e participação permanecem disponíveis; não apresentar o eixo como método, capacidade autônoma, mecanismo central ou mapa obrigatório.
 
 ## Identidade preservada
 
@@ -28,7 +31,7 @@ Esta consolidação não cria uma terceira arquitetura nem comprime todo o patri
 
 Ao final de M1.7, o participante deverá conseguir:
 
-- distinguir referência profunda, função EIXO e estado momentâneo;
+- distinguir referência profunda, orientação possível e estado momentâneo;
 - compreender que o estado e o acesso às capacidades podem oscilar sem que a Essência ou o percurso desapareçam;
 - reconhecer pêndulo e espiral como mapas de perguntas diferentes;
 - identificar condições que reduziram ou ampliaram seu acesso numa situação concreta;
@@ -36,7 +39,7 @@ Ao final de M1.7, o participante deverá conseguir:
 
 ## Tese central consolidada
 
-> Perder o eixo não significa perder o centro, a Essência ou tudo o que já foi construído. O que pode oscilar é o estado momentâneo e, com ele, o acesso às capacidades de perceber, diferenciar, coordenar e escolher. O EIXO é a função dinâmica que favorece contato, reconhecimento do deslocamento, retorno possível e orientação. O percurso aparece não na ausência de toda oscilação, mas na transformação progressiva da maneira de reconhecê-la, atravessá-la, responder aos seus efeitos e aprender com ela.
+> Perder o eixo não significa perder o centro, a Essência ou tudo o que já foi construído. O que pode oscilar é o estado momentâneo e, com ele, o acesso às capacidades de perceber, diferenciar, coordenar e escolher. A imagem do eixo pode ajudar a reconhecer deslocamento, retorno possível e orientação. O percurso aparece não na ausência de toda oscilação, mas na transformação progressiva da maneira de reconhecê-la, atravessá-la, responder aos seus efeitos e aprender com ela.
 
 A tese pública **“Saber não é ainda ter acesso”** nomeia a porta de entrada desta aula. M1.7 aprofunda o que acontece quando o acesso se estreita e mostra que sustentar uma capacidade exige mais do que compreendê-la racionalmente.
 
@@ -53,7 +56,7 @@ Essa formulação preserva simultaneamente três responsabilidades:
 | Nível | Estatuto | O que pode acontecer |
 |---|---|---|
 | Referência profunda | referência profunda de identidade, integração, sentido e direção | não é tratado como estado emocional que aparece e desaparece; o contato consciente e a expressão dessa referência podem variar |
-| EIXO | capacidade funcional de contato, reconhecimento, coordenação, retorno e orientação | pode estar mais ou menos disponível e torna-se progressivamente incorporado pela experiência e pelo treino |
+| eixo | imagem didática de contato, reconhecimento, retorno e orientação | pode ser usada quando ajudar a tornar o movimento legível; não nomeia uma capacidade separada nem um método |
 | Estado momentâneo | condição corporal, afetiva, cognitiva e relacional | oscila conforme intensidade, cansaço, memória, ambiente, vínculo, contexto, previsões e segurança suficiente |
 | Acesso às capacidades | disponibilidade prática do que já foi aprendido | pode se estreitar, ampliar ou reorganizar sem que a aprendizagem tenha sido apagada |
 | Participação | resposta possível nas condições reais | torna-se observável em pausa, apoio, limite, escolha, efeitos, reparação e aprendizagem |
@@ -92,21 +95,21 @@ Corpo, atenção, emoção, memória, previsão, impulso, contexto e vínculo pa
 
 O conteúdo científico sobre experiência preditiva, interocepção, memória implícita e regulação permanece como fundamento do educador. Na fala principal, ele aparece apenas o suficiente para sustentar a distinção sem transformar a aula numa exposição de teorias.
 
-### Movimento 3 — Referência profunda, EIXO e estado momentâneo
+### Movimento 3 — Referência profunda, eixo e estado momentâneo
 
 **Função:** apresentar o primeiro mapa central.
 
-Usar o [[01 - Mapa Mestre - Referência, EIXO e Estado]] em sua versão simples:
+Usar, se for útil à aula, o [[01 - Mapa Mestre - Referência, EIXO e Estado|mapa de referência, eixo e estado]] em sua versão simples:
 
 | O que permanece como referência | O que se desenvolve | O que varia |
 |---|---|---|
-| Referência profunda | EIXO | estado momentâneo e acesso às capacidades |
+| Referência profunda | eixo como imagem de orientação | estado momentâneo e acesso às capacidades |
 
 **Definição operacional:**
 
-> “EIXO é a capacidade progressiva de perceber o afastamento, recuperar presença possível, diferenciar a experiência, reencontrar orientação e ampliar a liberdade da resposta.”
+> “Neste mapa, o eixo representa a possibilidade de perceber o afastamento, recuperar presença possível, diferenciar a experiência e reencontrar orientação.”
 
-**Guardas obrigatórias:** EIXO não é centro fixo, ausência de oscilação, controle de todas as partes, estado superior ou segunda marca do curso. Essência, Self e centro conservam sentidos próprios; a legenda didática é Referência profunda. A definição atual de Essência está no Léxico Mestre.
+**Guardas obrigatórias:** eixo não é método, mecanismo central, centro fixo, ausência de oscilação, controle de todas as partes, estado superior ou segunda marca do curso. É apenas um recurso didático possível. Essência, Self e centro conservam sentidos próprios; a legenda didática é Referência profunda. A definição atual de Essência está no Léxico Mestre.
 
 ### Movimento 4 — Pêndulo, espiral e percurso
 
@@ -117,7 +120,7 @@ Usar como imagem central o [[02 - Mapa Mestre - Pêndulo, Espiral e Percurso]].
 - **pêndulo:** mostra variação de estado e de acesso;
 - **espiral:** mostra o reencontro de um tema sob outras condições;
 - **percurso:** mostra transformações acumuladas na maneira de reconhecer, responder, reparar e aprender;
-- **EIXO:** favorece participação no movimento de retorno e orientação.
+- **eixo:** pode representar didaticamente participação, retorno e orientação.
 
 **Formulações consolidadas:**
 
@@ -189,7 +192,7 @@ Utilizar uma situação cotidiana de intensidade leve ou moderada. A pessoa pode
 |---|---|
 | Vídeo principal | uma aula, com arco reconhecimento → distinção → dois mapas → condições → responsabilidade → aplicação |
 | Faixa inicial para leitura oral | 20–28 minutos; não definitiva e sujeita a cronometragem |
-| Mapas na fala principal | Referência–EIXO–Estado e Pêndulo–Espiral–Percurso |
+| Mapas na fala principal | referência–eixo–estado, se útil, e pêndulo–espiral–percurso |
 | Exemplo | situação cotidiana de ativação após conversa difícil, sem exposição clínica |
 | Prática | Reconhecer para retornar, breve, modulável e encerrada no presente |
 | Material do participante | cartão de uma página com os três níveis e as sete perguntas da prática |
@@ -201,7 +204,7 @@ Utilizar uma situação cotidiana de intensidade leve ou moderada. A pessoa pode
 | Ativo | Destino | Tratamento |
 |---|---|---|
 | Título, pergunta e tese central | M1.7 | núcleo obrigatório |
-| Mapa Referência–EIXO–Estado | M1.7 | mapa central em versão simples |
+| Mapa referência–eixo–estado | M1.7 | recurso possível em versão simples; não é obrigatório nem superior aos demais |
 | Mapa Pêndulo–Espiral–Percurso | M1.7 | imagem central da aula |
 | Mapa Desenvolvimento do Retorno | cartão de apoio em M1.7; retomadas M3.7, M6.5 e M8.2 | introdução breve, não lista de exigências |
 | Três Perspectivas do Equilíbrio Dinâmico | fundamento do educador; aprofundamentos em M3 e M6 | não entra como terceiro bloco teórico de M1.7 |

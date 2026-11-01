@@ -94,14 +94,14 @@ Isso permite distinguir dois níveis de mediação:
 
 No CASO-005 há forte mediação do primeiro tipo e baixa imposição do segundo. Essa diferenciação pode refinar a oposição simples entre Tradução emergente e mediada.
 
-## 6. Tradução e EIXO
+## 6. Tradução, orientação e recurso do eixo
 
 A postura de não fechamento pode ter favorecido presença suficiente para que o pessoa permanecesse diante do medo e do desconhecido.
 
 Hipótese:
-- algum EIXO favorece sustentação da incerteza;
+- alguma presença e orientação podem favorecer a sustentação da incerteza;
 - Tradução torna a experiência mais legível;
-- reorganização possível pode fortalecer EIXO.
+- reorganização possível pode ampliar condições de retorno e orientação.
 
 Relacionar com [[Princípio de Recursividade EIXO–Tradução]].
 

@@ -1,19 +1,20 @@
 ---
 tipo: nota-conceitual
 id: conceito-2026-0005
-status: em-validacao-autoral
+status: referencia-revisavel
 natureza_epistemologica: interpretacao-do-ChatGPT-ou-do-agente
 origem_registro: pacote-aprovado-da-sessao
 fontes: ["[[Experiências Liminares, Fenomenologia, Tradução e EIXO]]"]
 temas: [transformação, integração, liberdade, incorporação]
 relacoes: ["[[EIXO Integrador]]"]
 validado_por_fabiano: false
+atualizado_em: 2026-11-01
 protegida: false
 ---
 
 # Formulação
 
-> Toda experiência transformadora pode produzir algum grau de desorganização; mas a transformação somente se torna integração quando a pessoa recupera uma posição interna a partir da qual pode relacionar-se com o vivido sem ser reduzida a ele. Essa posição é o EIXO.
+> Toda experiência transformadora pode produzir algum grau de desorganização; a integração se torna possível quando a pessoa consegue relacionar elementos diferentes do vivido sem ser reduzida a um deles e sem exigir resolução imediata.
 
 Transformação não é sinônimo de integração. Uma mudança pode produzir rigidez, isolamento, grandiosidade, dependência interpretativa ou menor tolerância à dúvida.
 
@@ -32,8 +33,8 @@ O critério central é perguntar se a nova organização ampliou ou reduziu:
 
 # Relações justificadas
 
-- [[EIXO Integrador]] nomeia a capacidade de reorganização que torna possível a integração.
-- Relação clara com [[Camada 5 - Imersão EIXO]], que distingue intensidade, integração e incorporação.
+- [[EIXO Integrador]] registra o uso histórico e atual da imagem do eixo como um recurso didático entre outros.
+- Relação histórica com [[Camada 5 - Imersão EIXO]], nome usado numa etapa anterior do projeto.
 
 # Questões abertas
 

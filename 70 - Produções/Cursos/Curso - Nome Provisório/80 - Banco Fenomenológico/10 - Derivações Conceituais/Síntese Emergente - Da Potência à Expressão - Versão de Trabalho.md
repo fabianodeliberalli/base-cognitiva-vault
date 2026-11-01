@@ -9,7 +9,7 @@ tags: [síntese-emergente, tradução, eixo, singularidade, integração]
 # Síntese Emergente — Da Potência à Expressão — Versão de Trabalho
 
 > [!danger] NÃO CANÔNICO
-> Documento destinado a confronto. Não substituir Matriz Teórica Mestra, Três Eus, Cinco Janelas, EIXO ou arquitetura pedagógica vigente antes de deliberação explícita.
+> Documento destinado a confronto. Não substituir a Matriz Teórica Mestra, os Três Eus, as Cinco Janelas nem a arquitetura pedagógica vigente antes de deliberação explícita. As referências a “EIXO” abaixo são históricas; eixo é atualmente um recurso didático contextual.
 
 ## Sequência emergente
 **Singularidade/Potência**
@@ -18,7 +18,7 @@ tags: [síntese-emergente, tradução, eixo, singularidade, integração]
 → desenvolvimento possivelmente assimétrico
 → perturbação/incongruência
 → Tradução
-→ EIXO/presença e disponibilidade
+→ presença, disponibilidade e possível imagem de eixo
 → integração
 → congruência
 → expressão
@@ -26,7 +26,7 @@ tags: [síntese-emergente, tradução, eixo, singularidade, integração]
 
 ## Hipóteses incorporadas
 1. Tradução pode ser emergente ou mediada.
-2. EIXO pode funcionar como condição de disponibilidade para que a experiência seja traduzida e sustentada.
+2. Presença e disponibilidade podem criar condições para que a experiência seja traduzida e sustentada; o eixo pode representar esse movimento didaticamente.
 3. Integração não é apenas compreensão; envolve mudança da relação com a experiência.
 4. Expressão da singularidade pode ser horizonte desenvolvimental, sem pressupor que “Essência” seja constructo empírico estabelecido.
 5. Adaptação pode gerar crescimento assimétrico, não necessariamente falso self.
@@ -37,7 +37,7 @@ tags: [síntese-emergente, tradução, eixo, singularidade, integração]
 - Singularidade/Potência acrescenta algo ou apenas renomeia constructos existentes?
 - Onde entram exatamente Eu Básico, Eu Médio e Eu Superior?
 - As Cinco Janelas são vias de leitura da sequência ou componentes dela?
-- EIXO é etapa, condição, competência ou síntese transversal?
+- Que distinções úteis permanecem da antiga formulação EIXO, sem transformá-la em etapa, condição, competência ou síntese governante?
 - “Integração”, “congruência” e “expressão” estão suficientemente diferenciadas?
 - A sequência compreensão → acesso → sustentação → diferenciar → orientar → responder → integrar permanece válida?
 - Como compatibilizar arquitetura profunda e arquitetura pedagógica vigente sem criar novo currículo paralelo?
@@ -56,4 +56,4 @@ Confrontar sistematicamente com:
 2. Três Eus;
 3. Cinco Janelas;
 4. arquitetura pedagógica vigente;
-5. literatura e matriz de validade discriminante de Tradução/EIXO.
+5. literatura e matriz de validade discriminante da Tradução e das capacidades de presença, retorno e orientação historicamente associadas a EIXO.

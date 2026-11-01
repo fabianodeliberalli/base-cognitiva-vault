@@ -1,10 +1,15 @@
 ---
 tipo: material-do-participante
 aula: "0.2"
-status: documento-vivo-para-pilotagem
+status: patrimonio-consultivo-para-revisao
+uso_atual: fonte-historica-consultiva
+atualizado_em: 2026-11-01
 ---
 
 # Contrato de Aprendizagem — Percurso EIXO
+
+> [!IMPORTANT] Leitura atual
+> O contrato continua disponível como insumo de autonomia, dosagem e participação. Seu título registra a origem histórica; qualquer versão atual deverá usar **eixo** apenas em minúsculas e quando a imagem for realmente pertinente, sem apresentá-la como método ou percurso obrigatório.
 
 Este contrato orienta a participação e poderá ser revisto durante o curso.
 

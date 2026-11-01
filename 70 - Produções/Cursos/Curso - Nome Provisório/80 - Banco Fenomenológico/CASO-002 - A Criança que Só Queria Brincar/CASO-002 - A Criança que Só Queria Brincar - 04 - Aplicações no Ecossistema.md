@@ -99,7 +99,7 @@ Possíveis inserções:
 - Eu Básico e necessidades pré-reflexivas;
 - Eu Médio e tradução autobiográfica;
 - Eu Superior, sentido e espiritualidade;
-- EIXO como coordenação entre compreensão, limite e ação.
+- eixo como imagem didática possível da coordenação entre compreensão, limite e ação.
 
 ## Futuro módulo ou unidade
 

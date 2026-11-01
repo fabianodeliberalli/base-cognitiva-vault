@@ -1,10 +1,10 @@
 ---
 tipo: principio-pedagogico-operacional
 projeto: Traduzindo o Ser Humano
-metodo: EIXO
-status: aprovado-em-desenvolvimento
+nome_historico: Método EIXO
+status: historico-consultivo-revisavel
 criado_em: 2026-07-19
-atualizado_em: 2026-07-19
+atualizado_em: 2026-11-01
 autor: Fabiano Deliberalli
 tags:
   - regimes-pedagogicos
@@ -12,6 +12,8 @@ tags:
   - ofertas
   - arquitetura-global
 ---
+
+> **Leitura atual desde 01/11/2026.** As distinções sobre recorte, profundidade, duração, repetição, interação e suporte permanecem disponíveis para o desenho das ofertas. As referências a uma arquitetura única do antigo “Método EIXO” registram a etapa em que este texto foi produzido e não governam o TSH atual.
 
 # Regimes Pedagógicos do Ecossistema
 

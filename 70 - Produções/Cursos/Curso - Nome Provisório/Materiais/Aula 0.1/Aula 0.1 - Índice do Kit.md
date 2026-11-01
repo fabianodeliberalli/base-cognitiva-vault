@@ -4,16 +4,20 @@ projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 modulo: 0
 aula: "0.1"
-status: ativo
+status: acervo-historico-consultivo
+uso_atual: fonte-historica-para-derivacao-seletiva
 estado_maturidade: consolidada-v1.0-auditoria-de-encerramento-concluida
-versao: "1.6"
+versao: "1.7"
 criado_em: 2026-07-26
-atualizado_em: 2026-08-22
+atualizado_em: 2026-11-01
 autor_do_curso: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
 
 # Aula 0.1 — Índice do Kit
+
+> [!IMPORTANT] Regra de leitura vigente — 1º de novembro de 2026
+> Este kit pertence à arquitetura anterior e continua disponível como patrimônio para a produção atual. O roteiro vigente de M1.1 está em [[M1.1 - Roteiro oral e caderno de produção v0.2]]. As referências a “EIXO” no acervo abaixo preservam a etapa histórica em que ele era tratado como capacidade ou método; ao reutilizar qualquer contribuição, escrever **eixo** em minúsculas e empregá-lo somente como recurso didático contextual entre outros.
 
 ## Identidade
 

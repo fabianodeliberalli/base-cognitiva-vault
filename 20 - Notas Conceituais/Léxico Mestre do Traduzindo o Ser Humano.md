@@ -1,12 +1,11 @@
 ---
 tipo: lexico-mestre
 projeto: Traduzindo o Ser Humano
-metodo: Método EIXO
 status: em-formacao
-versao: "0.1"
+versao: "0.2"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-18
-atualizado_em: 2026-10-30
+atualizado_em: 2026-11-01
 fontes:
   - "[[Dossiê de Contexto e Arquitetura Mestre]]"
   - "[[Mapa Funcional Transversal dos Três Eus]]"
@@ -16,20 +15,19 @@ tags:
   - lexico
   - governanca-conceitual
   - traducao-da-experiencia-humana
-  - metodo-eixo
 ---
 
 # Léxico Mestre do Traduzindo o Ser Humano
 
 ## Finalidade
 
-Documento de governança conceitual para preservar coerência, diferenciação e rastreabilidade do vocabulário utilizado no projeto Traduzindo o Ser Humano, no Método EIXO, nos cursos e em suas derivações.
+Documento de governança conceitual para preservar coerência, diferenciação e rastreabilidade do vocabulário utilizado no projeto Traduzindo o Ser Humano, nos cursos e em suas derivações.
 
 O Léxico Mestre reúne o patrimônio completo. Cada oferta deverá derivar dele um **léxico pedagógico reduzido**, contendo apenas os termos necessários à transformação e às práticas daquele percurso.
 
 ## Decisão de governança lexical
 
-> Self, Essência, Alma, Eu Superior, EIXO e Fonte integram o patrimônio lexical do Traduzindo o Ser Humano como linguagens diferenciadas de Tradução da experiência. Sua presença em cursos e materiais será contextual, progressiva e subordinada à necessidade pedagógica. Nenhum termo será apresentado como sinônimo automático dos demais ou como interpretação obrigatória da experiência do participante.
+> Self, Essência, Alma, Eu Superior e Fonte integram o patrimônio lexical do Traduzindo o Ser Humano como linguagens diferenciadas de Tradução da experiência. Árvore, pêndulo, espiral, escada, artesão, espelho, eixo e outras imagens ou mapas são recursos didáticos contextuais. A presença de cada termo ou recurso será progressiva e subordinada à necessidade pedagógica.
 
 ## Regras gerais de uso
 
@@ -41,7 +39,7 @@ O Léxico Mestre reúne o patrimônio completo. Cada oferta deverá derivar dele
 6. preservar o direito de não adotar uma linguagem;
 7. não incluir um termo no currículo apenas por sua riqueza teórica;
 8. avaliar efeitos no corpo, nas relações, nas escolhas e na realidade compartilhada;
-9. manter o Método EIXO praticável sem vocabulário espiritual;
+9. manter o TSH compreensível e praticável sem exigir vocabulário espiritual;
 10. registrar revisões, decisões e fontes.
 
 ## Camadas de uso
@@ -49,7 +47,6 @@ O Léxico Mestre reúne o patrimônio completo. Cada oferta deverá derivar dele
 | Camada | Finalidade | Extensão |
 |---|---|---|
 | **Léxico Mestre** | governança do projeto e formação de autores/facilitadores | completo |
-| **Léxico do Método EIXO** | termos operacionais necessários ao Método | canônico e restrito |
 | **Léxico pedagógico da oferta** | vocabulário necessário a um curso específico | selecionado |
 | **Léxico experiencial do participante** | palavras pessoais, culturais ou tradicionais que ajudam a traduzir o vivido | aberto e não obrigatório |
 
@@ -60,7 +57,7 @@ O Léxico Mestre reúne o patrimônio completo. Cada oferta deverá derivar dele
 3. presença possível;
 4. observação;
 5. Tradução;
-6. EIXO e retorno;
+6. recursos de referência, retorno e orientação conforme a aula;
 7. Mapa dos Três Eus;
 8. Essência e direção;
 9. Self, Alma e Fonte como aprofundamentos comparativos.
@@ -107,7 +104,7 @@ Empregar “self psicológico” ou especificar a escola. Evitar “Self” isol
 
 ### Relações
 
-O desenvolvimento de EIXO pode favorecer flexibilidade e reorganização do self, sem ser idêntico a ele.
+Práticas de presença, diferenciação, apoio, retorno e aprendizagem podem favorecer flexibilidade e reorganização do self, sem serem idênticas a ele.
 
 ### Fontes
 
@@ -192,7 +189,7 @@ Elaboração autoral espiritual e transpessoal, em diálogo com tradições, exp
 
 ### Relações e discernimento
 
-Self, Alma, Eu Superior, Jing, EIXO e Fonte conservam seus sentidos próprios. EIXO favorece orientação e participação; não produz a Essência. Reconhecimento, integração e expressão podem alimentar-se reciprocamente. A base continua sendo cuidada durante a expansão.
+Self, Alma, Eu Superior, Jing e Fonte conservam seus sentidos próprios. Recursos didáticos não produzem a Essência nem certificam integração. Reconhecimento, integração e expressão podem alimentar-se reciprocamente. A base continua sendo cuidada durante a expansão.
 
 A orientação atribuída ao essencial pode ser examinada por seus efeitos sobre liberdade, vínculos, responsabilidade, cuidado e expressão, sem converter resultados em medida do fundamento espiritual.
 
@@ -345,7 +342,7 @@ Metáfora funcional autoral e componente de mapa auxiliar.
 
 ### Não significa
 
-- EIXO;
+- eixo como recurso didático;
 - Self junguiano;
 - Essência;
 - Alma;
@@ -369,53 +366,47 @@ Pode servir como ponte para linguagens de Essência, Self, Alma, Espírito ou Fo
 
 ### Status
 
-**APROVADO NO MAPA AUXILIAR; NÃO CANÔNICO NO MÉTODO.**
+**REFERÊNCIA DO MAPA AUXILIAR; USO CONTEXTUAL.**
 
 ---
 
-## 6. EIXO
+## 6. eixo como recurso didático
 
 ### Definição nuclear
 
-Função dinâmica de orientação pela qual a pessoa reconhece seu estado, recupera presença possível, organiza a multidimensionalidade da experiência e amplia sua liberdade de responder com coerência.
+Imagem usada, quando pertinente, para investigar referência, deslocamento, orientação ou retorno em uma experiência.
 
 ### Campo de origem
 
-Método EIXO, expressão metodológica autoral do Traduzindo o Ser Humano.
+Elaboração autoral do TSH, derivada de uma nomenclatura que já foi cogitada para o método antes da adoção do nome atual.
 
 ### Estatuto
 
-Função operacional canônica do Método.
+Recurso didático contextual, com o mesmo estatuto de árvore, pêndulo, espiral, escada, artesão, espelho e outras imagens ou mapas.
 
 ### Ajuda a traduzir
 
-- afastamento;
-- presença possível;
-- retorno;
-- diferenciação;
-- discernimento;
-- escolha;
-- reparação;
-- reorganização.
+- referência e deslocamento;
+- retorno e orientação;
+- relação entre movimento e participação.
 
 ### Não significa
 
 - estado permanente;
 - controle total;
-- Eu Médio;
-- Eu Superior;
-- Essência;
-- Self;
-- Alma;
-- iluminação espiritual.
+- método ou marca;
+- mecanismo central do TSH;
+- capacidade exclusiva ou estrutura superior;
+- Eu Médio, Eu Superior, Essência, Self ou Alma;
+- centro fixo ou garantia de integração.
 
 ### Uso recomendado
 
-É vocabulário nuclear do Método. Sua compreensão e prática não dependem dos Três Eus ou de crença espiritual.
+Usar somente quando a imagem ajuda a pergunta da aula ou da prática. Não definir nem destacar fora desse contexto. Escrever como substantivo comum, salvo em títulos e citações históricas.
 
 ### Relações
 
-Algum EIXO favorece a Tradução; ao tornar a experiência legível, a Tradução pode favorecer reorganização; e essa reorganização pode fortalecer o EIXO.
+Pode dialogar com a Tradução quando ajuda a observar uma referência, um deslocamento ou uma possibilidade de retorno. A Tradução não depende desse recurso.
 
 ### Fontes
 
@@ -425,7 +416,7 @@ Algum EIXO favorece a Tradução; ao tornar a experiência legível, a Traduçã
 
 ### Status
 
-**CANÔNICO NO MÉTODO EIXO.**
+**RECURSO DIDÁTICO CONTEXTUAL DO TSH.**
 
 ---
 
@@ -459,7 +450,7 @@ Experiencial, simbólico, tradicional, filosófico ou hipotético, conforme o co
 - Essência individual;
 - Alma;
 - Eu Superior;
-- mecanismo do EIXO.
+- mecanismo central do TSH.
 
 ### Uso recomendado
 
@@ -467,7 +458,7 @@ Qualificar: “experiência de Fonte”, “Fonte nesta tradição” ou “hip�
 
 ### Relações
 
-Pode integrar o horizonte espiritual não dogmático do projeto, mas não é requisito para realizar o Método.
+Pode integrar o horizonte espiritual não dogmático do projeto, mas não é requisito para participar do TSH.
 
 ### Fontes
 

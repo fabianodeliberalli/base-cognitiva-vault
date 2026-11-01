@@ -14,11 +14,13 @@ Masterclass alinhada a 67 slides editáveis: https://chatgpt.com/space/page_5705
 
 O Raio X permanece como base; o refinamento de ensino não muda os 9 módulos, as 54 aulas ou o calendário. Os roteiros das aulas indicadas devem consultar essa seção. Nesta atualização, os slides e o Guia da Masterclass já receberam as alterações; não se declara que os materiais de todas as aulas estejam produzidos.
 
+Árvore, pêndulo, espiral, escada, artesão, espelho, eixo e outros mapas ou imagens são recursos didáticos com o mesmo estatuto. A Masterclass não deve apresentar “Método EIXO”, transformar o eixo em mecanismo central ou dedicar a ele uma síntese comercial própria. Quando a imagem do eixo aparecer, ela serve somente ao contexto da explicação em curso.
+
 ## Atualização de 31 de outubro de 2026
 
 Raio X de 30/10 preservado como base, com refinamentos localizados aprovados por Fabiano: procedência/revisão das interpretações, liberdade de corrigir uma formulação, Tradução que participa da elaboração de sentido e acompanhamento temporal da integração. Consultar [[TSH - Preparação dos Roteiros e Calendário 2026-2027]] e [[Guia-de-Conducao-Masterclass-TSH-2026-10-31]].
 
-Nesta turma, haverá oito encontros online ao vivo de duas horas com Fabiano, totalizando 16 horas: um encontro conjunto de M0 e M1 e um encontro para cada módulo de M2 a M8. Em cada encontro, a primeira hora será destinada a dúvidas e a segunda à prática orientada. Os encontros ocorrerão das 9h às 11h, horário de Brasília, conforme o calendário consolidado. São adicionais às 54 aulas gravadas. Plataforma, links e política de gravação dos encontros do curso serão informados separadamente. O acesso de um ano ao conteúdo não implica encontros recorrentes por um ano.
+Nesta turma, haverá oito encontros online ao vivo de duas horas com Fabiano, totalizando 16 horas: um encontro conjunto de M0 e M1 e um encontro para cada módulo de M2 a M8. Em cada encontro, a primeira hora será destinada a dúvidas e a segunda à prática orientada. Os encontros ocorrerão das 9h às 11h, horário de Brasília, conforme o calendário consolidado. São adicionais às 54 aulas em vídeo. Os encontros serão realizados pelo Zoom, com link no grupo de WhatsApp, e as gravações serão disponibilizadas posteriormente na Hotmart. O prazo de publicação não foi definido. O acesso de um ano ao conteúdo não implica encontros recorrentes por um ano.
 
 M0 e M1: liberação em 17/11/2026 às 00h. Último módulo: 24/01/2027. Último encontro: 30/01/2027. Datas de gravação e edição não foram definidas. O cadastro não atesta publicação na Hotmart. Referências anteriores a nove encontros/18h e acesso a M0/M1 no ingresso estão superadas por este calendário.
 
@@ -55,7 +57,7 @@ A frase de entrada sobre repetição permanece; desenvolver também reconhecimen
 - episódio autobiográfico do Sorriso Interior como segmento breve, singular e ilustrativo;
 - práticas corporais e energéticas, Psicologia, clínica, ciência, filosofia e espiritualidade integradas sem neutralização;
 - trajetória no cuidado terapêutico com mais de 30 anos e atuação como psicólogo clínico desde 2010;
-- EIXO como função pedagógica interna;
+- recursos didáticos usados conforme o contexto, sem segunda marca ou mecanismo central;
 - oferta de 9 módulos, 54 aulas, acesso de um ano, condições de preço sujeitas ao checkout e garantia de sete dias.
 
 ## Escopo fora da pendência documental

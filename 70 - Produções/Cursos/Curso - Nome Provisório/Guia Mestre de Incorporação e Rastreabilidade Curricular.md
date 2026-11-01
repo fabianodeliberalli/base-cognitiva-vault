@@ -2,11 +2,11 @@
 tipo: guia-governanca-curricular
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
-status: base-vinculante-para-prototipagem-curricular-controlada
-versao: "0.8"
+status: acervo-consultivo-para-incorporacao
+versao: "0.9"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-21
-atualizado_em: 2026-08-22
+atualizado_em: 2026-11-01
 documento_fonte: Registro Mestre de Formulações Estruturantes
 tags:
   - traduzindo-o-ser-humano
@@ -24,6 +24,9 @@ tags:
 
 > [!IMPORTANT] Regra de leitura vigente — 7 de setembro de 2026
 > Aplicar [[11 - Contexto Mínimo - Traduzindo o Ser Humano]]: **9 módulos e 54 aulas** são a única arquitetura vigente. A organização inicial de **7 módulos e 14 aulas ou unidades** permanece como acervo histórico de títulos e conteúdos e pode contribuir, por pertinência, com ampliações, correlações e fundamentações durante a construção das aulas ainda não gravadas. Ela não governa o desenvolvimento atual, não exige correspondência com as 54 aulas e não transporta automaticamente sua numeração. Neste documento, formulações anteriores sobre “duas arquiteturas”, “arquitetura interna” ou ligação obrigatória têm valor histórico, não normativo.
+
+> [!IMPORTANT] Leitura de eixo desde 01/11/2026
+> “EIXO” e “Método EIXO” registram a nomenclatura de uma etapa anterior. Todo o conteúdo desenvolvido permanece disponível para aulas, roteiros, PowerPoints, práticas e entregáveis, mas não governa a arquitetura atual. Reaproveitar contribuições por pertinência e escrever **eixo** em minúsculas nas formulações atuais. O eixo é um recurso didático no mesmo nível de árvore, pêndulo, espiral, escada, artesão, espelho e outros mapas ou imagens. Rota inicial: [[EIXO Integrador]].
 
 
 # Guia Mestre de Incorporação e Rastreabilidade Curricular
@@ -50,7 +53,7 @@ A construção de cada unidade curricular deve favorecer, sem rigidez mecânica,
 
 O público possui trajetória reflexiva anterior, mas não se presume domínio acadêmico nem conhecimento dos mapas e termos autorais. As estruturas 0.1 a 6.2 são **unidades curriculares internas**; as 54 **aulas** são as unidades vigentes de entrega. Microaulas já decompostas funcionam como fontes de corte e progressão.
 
-**Traduzindo o Ser Humano** governa a marca e a oferta. EIXO permanece função pedagógica interna de coordenação, retorno e reorganização. Ver [[04 - Deliberação Transversal - Público, Microaulas e Arquitetura de Marca - 2026-07-28]].
+**Traduzindo o Ser Humano** governa a marca e a oferta. **Eixo**, em minúsculas, é um recurso didático contextual entre outros; as elaborações produzidas sob “EIXO” e “Método EIXO” permanecem disponíveis como patrimônio consultivo. Ver [[04 - Deliberação Transversal - Público, Microaulas e Arquitetura de Marca - 2026-07-28]].
 
 Sua pergunta central é:
 

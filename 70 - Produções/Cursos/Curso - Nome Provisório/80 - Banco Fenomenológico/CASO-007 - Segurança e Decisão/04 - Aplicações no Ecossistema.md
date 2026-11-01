@@ -29,7 +29,7 @@ Portanto, evita a falsa oposição “entendeu × não mudou”.
 
 > **Não basta possuir um recurso; ele precisa estar disponível quando a situação o exige.**
 
-> **Fortalecer o EIXO não significa eliminar a cautela; significa impedir que a cautela decida sozinha.**
+> **Ampliar retorno e orientação não significa eliminar a cautela; significa não deixar que ela decida sozinha.**
 
 > **Às vezes o que fica bloqueado não é a solução, mas o primeiro gesto que permitiria descobrir qual solução é realmente necessária.**
 

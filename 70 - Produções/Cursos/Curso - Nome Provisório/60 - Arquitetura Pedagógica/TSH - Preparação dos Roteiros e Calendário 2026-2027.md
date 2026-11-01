@@ -1,18 +1,20 @@
 ---
 tipo: preparacao-de-producao
-atualizado_em: 2026-10-31
+atualizado_em: 2026-11-01
 status: referencia-atual-revisavel
 ---
 
 # TSH — Preparação dos roteiros e calendário
 
-Referência de trabalho • 31 de outubro de 2026
+Referência de trabalho • 1º de novembro de 2026
 
-9 módulos • 54 aulas gravadas • 8 encontros online ao vivo • 16 horas ao vivo
+9 módulos • 54 aulas em vídeo • 8 encontros online ao vivo • 16 horas ao vivo
 
 ## 1. O que orienta a produção
 
 O Raio X de 30/10 permanece a base conceitual, com os quatro refinamentos localizados aprovados em 31/10. O Guia recebe substituições breves. Os títulos e a arquitetura das aulas foram preservados. A Live é utilizada pelo roteiro fornecido; a gravação não foi avaliada.
+
+Atualização de 01/11: árvore, pêndulo, espiral, escada, artesão, espelho, eixo e outras imagens ou mapas são recursos didáticos contextuais. Não tratar o eixo como método, marca, mecanismo central ou estrutura superior. Nos materiais atuais, usar a palavra somente quando o recurso participar efetivamente da aula.
 
 Finalidade: compreender como minha vida se organizou, construir condições para participar de outra maneira e cultivar possibilidades de expressão que ainda encontram pouco espaço.
 
@@ -330,7 +332,7 @@ M5.1 — O que fazer quando muitas vozes aparecem ao mesmo tempo?
 
 M5.2 — Valores como bússolas, não como ordens
 
-M5.3 — Os Três Eus e a função EIXO
+M5.3 — Os Três Eus como mapa de coordenação
 
 M5.4 — Criar espaço entre impulso e escolha
 
@@ -354,7 +356,7 @@ M6.3 — Sustentar ambivalências e aparentes contradições
 
 M6.4 — Mapa de Integração Funcional
 
-M6.5 — Tradução e EIXO em espiral
+M6.5 — Tradução e retorno em espiral
 
 M6.6 — Presença situada e coerência possível
 

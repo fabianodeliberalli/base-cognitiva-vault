@@ -32,7 +32,7 @@ tags:
 # Registro Mestre de Formulações Estruturantes
 
 > [!IMPORTANT] Uso atual
-> Este registro preserva formulações e seus estatutos na etapa em que foram produzidos. Ele serve para recuperar linguagem, fundamentos, relações e genealogia. Não constitui hierarquia atual, não cria portões para as aulas e não prevalece sobre uma instrução recente de Fabiano. Quando houver utilidade, cada formulação pode ser retomada, combinada, ampliada ou revista.
+> Este registro preserva formulações e seus estatutos na etapa em que foram produzidos. Ele serve para recuperar linguagem, fundamentos, relações e genealogia. Não constitui hierarquia atual, não cria portões para as aulas e não prevalece sobre uma instrução recente de Fabiano. Quando houver utilidade, cada formulação pode ser retomada, combinada, ampliada ou revista. As formulações sobre “EIXO” e “Método EIXO” permanecem pesquisáveis como patrimônio; no uso vigente, **eixo** é um recurso didático contextual entre outros, escrito em minúsculas e sem função de método, marca ou arquitetura governante. Consultar [[EIXO Integrador]].
 
 > **Registro estrutural de 22/08/2026, hoje histórico:** a leitura daquela etapa tratava 7 módulos/14 unidades como arquitetura interna e 9 módulos/54 aulas como entrega. A leitura atual está no aviso de 7 de setembro e na ficha de contexto mínimo.
 

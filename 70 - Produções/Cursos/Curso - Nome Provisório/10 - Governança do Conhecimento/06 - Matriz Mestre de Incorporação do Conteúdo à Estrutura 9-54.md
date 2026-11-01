@@ -5,10 +5,13 @@ status: acervo-historico-consultivo
 uso_atual: acervo-consultivo
 versao: "1.7"
 criado_em: 2026-08-22
-atualizado_em: 2026-10-24
+atualizado_em: 2026-11-01
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
+> [!IMPORTANT] Leitura atual das referências a EIXO
+> As ocorrências de “EIXO”, “Método EIXO” e nomes de antigas unidades identificam fontes, títulos e formulações históricas. Seus conteúdos permanecem recuperáveis por pertinência. Na arquitetura e nos materiais atuais, **eixo** é somente um recurso didático contextual entre outros, escrito em minúsculas; não nomeia método, capacidade exclusiva, mecanismo central nem estrutura superior do TSH.
+
 ## Consolidação do roteiro M1.1 — 01/11/2026
 
 Fabiano solicitou consolidar os alicerces no roteiro e integrar as alterações ao repositório. Produzidos [[M1.1 - Roteiro oral e caderno de produção v0.2]] (fala integral em 12 blocos, notas e fundamentação) e [[M1.1 - Registro de percepção expressão e retorno v0.2]] (matriz textual do aluno). Usar [[00 - Estado e Continuidade da Produção M1]] como entrada atual. Os registros abaixo documentam a preparação; onde indicam roteiro/registro ainda pendentes, essa etapa textual foi concluída. PowerPoint, DOCX e PDF diagramados permanecem pendentes, assim como ensaio, gravação e publicação.
@@ -163,7 +166,7 @@ As linhas abaixo usam os 54 títulos do Raio X de 30/10 com refinamentos de 31/1
 | M4.6 — Do automatismo a uma resposta possível | R10, R08, R17 | Relacionar compreensão, apoio e ensaio de alternativa proporcional numa situação concreta. Termos: resposta possível; repertório; contexto; experimentação. |
 | M5.1 — O que fazer quando muitas vozes aparecem ao mesmo tempo? | R12, R22, R04 | Recuperar formas de escutar conflitos e coordenar possibilidades sem introduzir todos os mapas simultaneamente. Termos: vozes; partes; coordenação; decisão. |
 | M5.2 — Valores como bússolas, não como ordens | R10, R13, R15 | Distinguir valor, obrigação e direção autoral, buscando fontes para as referências efetivamente utilizadas. Termos: valores; sentido; Amor Poder Sabedoria; escolha. |
-| M5.3 — Os Três Eus e a função EIXO | R12, R06, R01 | Explicar a genealogia e função do mapa, sem igualar sistemas teóricos ou regiões corporais. Termos: Eu Básico; Eu Médio; Eu Superior; funções. |
+| M5.3 — Os Três Eus como mapa de coordenação | R12, R06, R01 | Explicar a genealogia e função do mapa, sem igualar sistemas teóricos ou regiões corporais. Termos: Eu Básico; Eu Médio; Eu Superior; funções. |
 | M5.4 — Criar espaço entre impulso e escolha | R10, R17, R08 | Fundamentar intervalo e alternativas de participação que não dependam de eliminar desconforto. Termos: impulso; pausa; desfusão; flexibilidade; ação. |
 | M5.5 — Símbolos e imagens como recursos de orientação | R16, R11, R02 | Selecionar imagens que acrescentem reconhecimento e sentido, com interpretação aberta ao participante. Termos: símbolo; imagem; Jung; árvore; Cosmos. |
 | M5.6 — Espiritualidade como dimensão legítima da experiência humana | R02, R15, R01 | Trazer a dimensão espiritual com história intelectual e exemplos concretos, preservando diversidade. Termos: espiritualidade; Maslow; Grof; Ammerman; cotidiano. |
@@ -173,7 +176,7 @@ As linhas abaixo usam os 54 títulos do Raio X de 30/10 com refinamentos de 31/1
 | M6.2 — Diferenciar sem fragmentar | R14, R16, R13 | Mostrar o que cada perspectiva acrescenta ao mesmo problema, sem dividir a pessoa em gavetas. Termos: níveis; linguagem; multidimensionalidade; articulação. |
 | M6.3 — Sustentar ambivalências e aparentes contradições | R10, R02, R21 | Recuperar formas de acompanhar tensões sem exigir solução prematura ou suportar situações danosas. Termos: ambivalência; sustentação; incerteza; contexto. |
 | M6.4 — Mapa de Integração Funcional | R06, R08, R17 | Conectar o mapa a recursos realmente ensinados e práticas selecionadas; evitar protocolo corporal inventado. Termos: integração funcional; sustentação; circulação; direção. |
-| M6.5 — Tradução e EIXO em espiral | R01, R08, R10 | Retomar a investigação temporal do TCC e do EIXO para um registro longitudinal simples. Termos: espiral; tempo; efeitos; transferência; condições. |
+| M6.5 — Tradução e retorno em espiral | R01, R08, R10 | Retomar a investigação temporal do TCC e do patrimônio antes associado ao EIXO para um registro longitudinal simples. Termos: espiral; tempo; efeitos; transferência; condições. |
 | M6.6 — Presença situada e coerência possível | R11, R10, R04 | Relacionar orientação e expressão com apoios, recursos, relações e limites concretos. Termos: coerência; congruência expressiva; condições; vida. |
 | M7.1 — Expressar é traduzir a experiência para uma relação | R04, R01, R07 | Recuperar formas de transformar o reconhecido em expressão que considera o interlocutor. Termos: expressão; relação; comunicação; participação. |
 | M7.2 — Falar do que você vive sem converter experiência em acusação | R09, R21, R14 | Distinguir experiência própria e hipótese sobre o outro, mantendo clareza e firmeza. Termos: mentalização; interpretação; intenção; fala. |
@@ -203,7 +206,7 @@ As referências ao Raio-X público e à Copy Canônica abaixo registram os nomes
 |---|---|---|---|
 | Aula de Entrada 0.0 | M0.1 Boas-vindas; M0.2 Como usar o percurso, os mapas, as práticas e os materiais; M0.3 O que você precisa ter ou saber antes de começar | orientações éticas e de participação ao longo do curso | corrigido e vigente |
 | UC 0.1 — Da compreensão acumulada à competência incorporada | M1.1 a M1.6 | Primeira Cartografia em M1.6; distinções retomadas em M4 e M6 | conteúdo consolidado; plano efetivo de produção 10→6 concluído |
-| UC 0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança | M1.7 Perder o eixo não significa perder o percurso | M3.7 recursos de retorno; M6.5 Tradução/EIXO em espiral; M8.2 continuidade | conteúdo consolidado em v1.1; liberado para derivação audiovisual |
+| UC 0.2 — O percurso do EIXO: mapa, espiral, pêndulo e segurança — título histórico | M1.7 Perder o eixo não significa perder o percurso | M3.7 recursos de retorno; M6.5 Tradução e retorno em espiral; M8.2 continuidade | patrimônio consolidado em v1.1; recuperar por pertinência, sem restaurar a antiga centralidade do eixo |
 | UC 1.1 — A experiência em sua multidimensionalidade | M1.4 a M1.6; M2.1 a M2.3 e M2.5 | Cartografia Multidimensional e Cinco Janelas | patrimônio disponível; integração a desenvolver |
 | UC 1.2 — Do vivido à Tradução | M2.4 a M2.6 | Tradução provisória retomada nos módulos 4 a 7 | patrimônio disponível; integração a desenvolver |
 | UC 2.1 — Energia, vitalidade e experiência nas Tradições Orientais | M3.5 e M3.6 | presença longitudinal de energia e vitalidade | arquitetura aprovada; conteúdo a desenvolver |
@@ -211,9 +214,9 @@ As referências ao Raio-X público e à Copy Canônica abaixo registram os nomes
 | UC 3.1 — Perceber, observar e diferenciar | M4.1 a M4.3 e M4.6 | diferenciação transversal | arquitetura aprovada; conteúdo a desenvolver |
 | UC 3.2 — Padrões, partes, relações e contexto | M4.4 a M4.6 | caso composto: eco conceitual em M4.4 | arquitetura aprovada; conteúdo a desenvolver |
 | UC 4.1 — Coordenação interna, valores e orientação | M5.1 a M5.5 | Três Eus, símbolos e valores | arquitetura aprovada; conteúdo a desenvolver |
-| UC 4.2 — Espiritualidade, experiência e EIXO | M5.6 a M5.8 | espiritualidade explícita e longitudinal | arquitetura aprovada; conteúdo a desenvolver |
+| UC 4.2 — Espiritualidade, experiência e EIXO — título histórico | M5.6 a M5.8 | espiritualidade explícita, discernimento e diferenças entre linguagens | patrimônio disponível; conteúdo atual a desenvolver |
 | UC 5.1 — Integrar sem apagar diferenças | M6.1 a M6.4 | pluralismo e integração funcional | arquitetura aprovada; conteúdo a desenvolver |
-| UC 5.2 — Tradução e EIXO em espiral | M6.5 e M6.6 | retornos a M1.7, M3.7 e M8.2 | arquitetura aprovada; conteúdo a desenvolver |
+| UC 5.2 — Tradução e EIXO em espiral — título histórico | M6.5 e M6.6 | retornos a M1.7, M3.7 e M8.2 | patrimônio disponível; conteúdo atual a desenvolver |
 | UC 6.1 — Expressar com coerência: vínculos, limites e contribuição | M7.1 a M7.6 | aplicações relacionais | arquitetura aprovada; conteúdo a desenvolver |
 | UC 6.2 — Reparar, aprender e continuar | M7.7 e M7.8; M8.1 a M8.3 | plano de continuidade e comunidade | arquitetura aprovada; conteúdo a desenvolver |
 
@@ -226,7 +229,7 @@ As referências ao Raio-X público e à Copy Canônica abaixo registram os nomes
 | Caso didático composto e descaracterizado | concluído na UC 0.1 | primário em M1.1; eco conceitual em M4.4 | preservar função protetiva e confidencialidade; não reabrir o caso |
 | Primeira Cartografia | pertence à UC 0.1 | M1.6 | material necessário ao participante |
 | Título e distinções da UC 0.2 | aprovados e reunidos em consolidação v1.1 | M1.7 | núcleo delimitado; derivação audiovisual autorizada, gravação ainda não |
-| Mapas de centro, EIXO, estado, pêndulo e espiral | aprovados ou vinculados à UC 0.2 conforme seus registros | M1.7; recursos em M3.7, M6.5 e M8.2 | preservar arquivos; adaptar apenas uso e vínculo quando necessário |
+| Mapas históricos de centro, EIXO, estado, pêndulo e espiral | patrimônio vinculado à antiga UC 0.2 | M1.7; recursos em M3.7, M6.5 e M8.2 quando pertinentes | preservar arquivos; derivar eixo em minúsculas e sem hierarquia especial |
 | Kit/protótipo da UC 1.1 | protótipo revisável | M1.4–M1.6 e M2.1–M2.3/M2.5 | matéria-prima qualificada; não governa automaticamente a versão final |
 | Formulações “Saber não é ainda ter acesso” e “compreender, acessar e sustentar” | aprovadas na deliberação de posicionamento de 23/08 | M1.1–M1.3; masterclass e comunicação | preservar progressão: experiência reconhecível antes do conceito |
 | Competência incorporada | definição aprovada como aprofundamento | M1.3; retomadas posteriores quando pertinentes | não usar como headline fria; distinguir de disponibilidade constante |
@@ -244,7 +247,7 @@ Ao consolidar uma aula da estrutura 9/54, acrescentar ou atualizar uma linha com
 |---|---|---|---|---|---|---|---|
 | M1.1 — Por que entender um padrão não impede que ele se repita? | reconhecer a distância entre compreensão e resposta disponível | UC 0.1; microaulas 0.1.1 e 0.1.3; caso composto | duas portas de entrada; caso; função protetiva como hipótese | padrão, proteção e incorporação | caso composto; cartão de investigação | eco conceitual, sem repetir o caso, em M4.4 | insumo preparatório não vinculante produzido fora do chat competente; produção oficial não iniciada |
 | M1.2 — Saber, acessar e sustentar não são a mesma coisa | distinguir conhecimento, acesso, sustentação e uso/revisão | UC 0.1; microaula 0.1.2 | distinção dos quatro momentos | disponibilidade variável das capacidades | auto-observação breve | aprofundamento de incorporação em M1.3 | plano de produção concluído; derivação audiovisual pendente |
-| M1.3 — O que é competência incorporada — e o que ela não promete | reconhecer disponibilidade progressiva sem ideal de controle | UC 0.1; microaula 0.1.9; Parte 6 | definição, indicadores e limites | aprendizagem, incorporação e primeira aproximação ao EIXO | indicadores seletivos | pêndulo, espiral e três níveis reservados a M1.7 | plano de produção concluído; derivação audiovisual pendente |
+| M1.3 — O que é competência incorporada — e o que ela não promete | reconhecer disponibilidade progressiva sem ideal de controle | UC 0.1; microaula 0.1.9; Parte 6 | definição, indicadores e limites | aprendizagem, incorporação, acesso e sustentação | indicadores seletivos | pêndulo, espiral e imagem do eixo somente quando pertinentes a M1.7 | plano de produção concluído; derivação audiovisual pendente |
 | M1.4 — A experiência é o território; as explicações são mapas | diferenciar vivido, percepção, nomeação, interpretação e hipótese | UC 0.1; microaulas 0.1.4 e 0.1.5; contribuições da UC 1.1 | território, mapas e pluralidade criteriosa | estatutos epistemológicos e pluralismo não redutivo | quadro de diferenciação | teoria epistemológica expandida no bastidor | plano de produção concluído; derivação audiovisual pendente |
 | M1.5 — As Cinco Janelas: ampliar a leitura do que acontece | observar por perguntas complementares com escolha e dosagem | UC 0.1, microaula 0.1.6; Cartografia das Cinco Janelas e kit revisável da UC 1.1 | versão mínima das cinco perguntas | multidimensionalidade e estatutos das linguagens | ficha assíncrona reduzida; prática seletiva | versão integral histórica da UC 1.1 permanece matéria-prima | plano concluído com dependência complementar identificada |
 | M1.6 — Primeira Cartografia: localizar-se antes de responder | organizar situação, manifestação, Tradução provisória e orientação possível | UC 0.1; microaulas 0.1.7, 0.1.8 e 0.1.10; Partes 5 e 7 | quatro territórios e pergunta transversal | tradução, revisão e indeterminação | ficha necessária; prática guiada | mapas mais amplos permanecem posteriores | plano de produção concluído; derivação audiovisual pendente |

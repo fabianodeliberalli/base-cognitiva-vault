@@ -98,7 +98,7 @@ Critério de conclusão:
 
 Três pilares candidatos:
 
-1. **Compreender não é o mesmo que transformar** — padrões, repetição, resposta incorporada e EIXO.
+1. **Compreender não é o mesmo que transformar** — padrões, repetição, acesso às capacidades e respostas possíveis.
 2. **Corpo, trauma e relação** — estado, regulação, presença, vínculo e integração.
 3. **Consciência, espiritualidade e discernimento** — experiência vivida, significado, fenômenos incomuns e limites de afirmação.
 

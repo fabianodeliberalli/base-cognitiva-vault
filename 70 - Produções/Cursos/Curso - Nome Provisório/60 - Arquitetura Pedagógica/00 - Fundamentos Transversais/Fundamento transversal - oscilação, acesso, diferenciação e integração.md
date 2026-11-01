@@ -4,6 +4,7 @@ projeto: Traduzindo o Ser Humano
 unidade-de-origem: "0.2"
 status: incorporado-para-continuidade-curricular
 data: 2026-07-29
+atualizado_em: 2026-11-01
 autor: Fabiano Deliberalli
 tags:
   - competencia-incorporada
@@ -24,6 +25,8 @@ tags:
 
 
 # Fundamento transversal — oscilação, acesso, diferenciação e integração
+
+> **Leitura atual desde 01/11/2026.** A imagem do eixo permanece disponível como recurso didático, no mesmo nível de árvore, pêndulo, espiral, escada, artesão, espelho e outros mapas. Escrever **eixo** em minúsculas nas formulações atuais e não tratá-lo como método, mecanismo central ou estrutura superior.
 
 ## Finalidade
 
@@ -68,13 +71,13 @@ Responsabilidade, aqui, não significa controlar integralmente o estado nem impe
 
 Essa síntese deve orientar currículo, práticas, indicadores, Raio-X, apresentação da oferta e comunicação pública. Ela não substitui a fundamentação completa; traduz suas consequências pedagógicas e verificáveis.
 
-## Eixo como referência dinâmica
+## Eixo como imagem didática dinâmica
 
-> Eixo não é permanecer no centro. É desenvolver a capacidade de perceber deslocamentos, recuperar referência e participar conscientemente da resposta possível.
+> A imagem do eixo não representa permanência no centro. Quando pertinente, ela ajuda a investigar deslocamentos, referência, retorno e participação na resposta possível.
 
 Isso converge com a formulação já aprovada:
 
-> O EIXO está mais relacionado à capacidade de reconhecer o afastamento e reencontrar orientação.
+> A imagem do eixo pode ajudar a reconhecer afastamento, referência e orientação.
 
 A articulação transversal fica:
 
@@ -82,7 +85,7 @@ A articulação transversal fica:
 - **espiral:** mostra o reencontro de um tema sob novas condições;
 - **mapa:** ajuda a localizar;
 - **segurança:** oferece condições suficientes de participação e retorno;
-- **eixo:** oferece referência de coordenação e orientação;
+- **eixo:** pode representar coordenação e orientação, quando a imagem contribuir para a aula;
 - **competência incorporada:** indica quanto essas capacidades estão disponíveis na experiência real.
 
 ## Responsabilidade sem culpabilização nem passividade
@@ -161,14 +164,14 @@ Centro, Essência ou Self não são introduzidos apenas como recursos psicológi
 
 A Unidade 0.2 deve preservar essa multidimensionalidade de modo simples e experiencial: pêndulo, segurança e retorno não serão usados para secularizar o percurso, enquanto linguagem espiritual e energética não será apresentada como imposição ontológica ou explicação única.
 
-## Centro, Essência ou Self, eixo e estado momentâneo
+## Centro, Essência ou Self, orientação e estado momentâneo
 
 Para preservar simultaneamente a profundidade antropológica do projeto e sua tradução prática, o curso distingue três níveis:
 
 | Nível | Significado |
 |---|---|
 | **Centro, Essência ou Self** | Referência profunda de identidade, integração, sentido e direção |
-| **Eixo** | Capacidade funcional de reconhecer deslocamentos, recuperar coordenação e orientar a participação |
+| **Orientação e retorno** | Capacidades de reconhecer deslocamentos, recuperar coordenação e participar da resposta; o eixo pode representá-las didaticamente, sem constituir uma capacidade separada |
 | **Estado momentâneo** | Condição corporal, emocional, cognitiva e relacional que varia ao longo da experiência |
 
 A pessoa pode estar afastada de seu centro sem ter perdido sua Essência. Pode estar ativada sem ter perdido todo o percurso. Pode não conseguir acessar imediatamente uma capacidade sem que essa capacidade tenha desaparecido.
@@ -179,9 +182,9 @@ A pessoa pode estar afastada de seu centro sem ter perdido sua Essência. Pode e
 
 Essa formulação permite afirmar ao mesmo tempo a existência de um centro, o Eu Essencial como horizonte, o desenvolvimento progressivo de capacidades, a variação de acesso, o movimento em espiral e a ausência de exigência de perfeição.
 
-O eixo não substitui a Essência nem produz o Self. Ele favorece condições de contato, coordenação e expressão:
+O recurso do eixo não substitui a Essência nem produz o Self. Quando utilizado, ajuda a representar condições de contato, coordenação e expressão:
 
-> A Essência oferece horizonte de identidade e sentido; o eixo desenvolve capacidades para reencontrar essa referência e viver progressivamente a partir dela.
+> A Essência oferece horizonte de identidade e sentido; as capacidades de retorno e orientação podem ampliar o contato com essa referência e sua expressão situada.
 
 ## Relação com pêndulo, espiral e percurso
 
@@ -212,7 +215,7 @@ Assim, perder o eixo pode ser um acontecimento dentro do percurso; perder o perc
 - **espiral:** reencontro de um tema sob novas condições;
 - **mapa:** localização no percurso;
 - **segurança:** condições suficientes de escolha, dosagem, apoio, pausa e retorno;
-- **eixo:** função pedagógica de reconhecimento, coordenação e orientação;
+- **eixo:** imagem didática possível de reconhecimento, coordenação e orientação;
 - **competência incorporada:** disponibilidade progressiva dessas capacidades na experiência real.
 
 Esses elementos não são sinônimos. Juntos, permitem compreender onde a pessoa está, como seu acesso varia, em quais condições consegue retornar e quais capacidades o curso pretende tornar progressivamente mais disponíveis.
@@ -229,7 +232,7 @@ O critério não é repetir corretamente uma ideia fora da situação de ativaç
 
 ## Arquitetura consiliente dos fundamentos
 
-As referências não formam uma teoria única nem “provam” o EIXO. Cada uma ilumina uma pergunta diferente:
+As referências não formam uma teoria única nem “provam” o TSH ou qualquer recurso didático. Cada uma ilumina uma pergunta diferente:
 
 | Pergunta | Perspectiva principal | Função no curso |
 |---|---|---|
@@ -237,13 +240,13 @@ As referências não formam uma teoria única nem “provam” o EIXO. Cada uma 
 | Por que o que compreendemos varia de acessibilidade? | Damasio, Castellanos, Dana, Porges e literatura autonômica/interoceptiva | corpo, estado, proteção, segurança e retorno |
 | Como padrões implícitos e relacionais persistem? | Schore, Siegel, Winnicott e Mario C. Salvador | desenvolvimento, vínculo, memória implícita, narrativa fisiológica e corregulação |
 | O que significa integrar sem apagar diferenças? | Siegel | diferenciar e ligar dimensões da experiência |
-| Como transformar esses fundamentos em percurso pedagógico? | Tradução da Experiência Humana e EIXO | elaboração autoral, quatro movimentos, seis fases, práticas e critérios |
+| Como transformar esses fundamentos em percurso pedagógico? | Tradução da Experiência Humana e recursos do TSH | elaboração autoral, práticas, critérios e mapas contextuais |
 
 ### Divisão de funções aprovada
 
 - **Friston:** fundamento técnico de bastidor;
 - **Andy Clark:** tradução conceitual utilizável na aula;
-- **EIXO:** elaboração autoral das implicações pedagógicas.
+- **recursos didáticos do TSH:** elaborações autorais usadas conforme a pergunta pedagógica.
 
 Clark ajuda a explicar que experiência resulta da interação entre expectativas, sinais sensoriais, corpo, ação e mundo. Isso permite compreender:
 
@@ -278,13 +281,13 @@ Segurança, no curso, não equivale a calma, ausência de ativação ou estado v
 
 Na Neurobiologia Interpessoal, integração é descrita como ligação entre elementos diferenciados. Para o curso, essa contribuição sustenta a seguinte elaboração:
 
-> EIXO não é controlar todas as partes da experiência, mas ampliar a capacidade de reconhecê-las, diferenciá-las e coordená-las sem que uma delas precise representar a totalidade do ser.
+> O trabalho pedagógico não busca controlar todas as partes da experiência, mas ampliar a capacidade de reconhecê-las, diferenciá-las e coordená-las sem que uma delas precise representar a totalidade do ser.
 
 Pensamento, emoção, sensação, memória, imagem, relação, energia e interpretação espiritual não precisam ser fundidos nem eliminados. Devem ter seus estatutos reconhecidos e participar de relações mais organizadas.
 
 ### Limite
 
-Integração é um interlocutor estrutural do EIXO, não uma equivalência total. As formulações amplas da Neurobiologia Interpessoal constituem uma síntese interdisciplinar e não devem ser apresentadas como descobertas neurocientíficas isoladas.
+Integração é um horizonte transversal do TSH, não uma equivalência total entre mapas. As formulações amplas da Neurobiologia Interpessoal constituem uma síntese interdisciplinar e não devem ser apresentadas como descobertas neurocientíficas isoladas.
 
 ## Granularidade emocional — avaliação do anexo
 
@@ -332,7 +335,7 @@ Nome provisório: **Diferenciar para orientar**.
 - **Fase 1 — Traduzir a Experiência:** vocabulário, hipótese e tradução provisória;
 - **Fase 2 — Regular e Recuperar Presença:** dosagem, interocepção e alternativas de entrada;
 - **Fase 3 — Observar e Diferenciar:** prática completa e repetida;
-- **Fase 4 — Fortalecer o EIXO:** transformar distinção em orientação e escolha;
+- **Escolhas e orientação:** transformar distinção em orientação e escolha;
 - **Fase 5 — Integrar Progressivamente:** sustentar estados mistos e ligar elementos diferenciados;
 - **Fase 6 — Expressar e Contribuir:** comunicação precisa, consequências, reparação e aprendizagem.
 
@@ -357,8 +360,8 @@ A obra integra trauma, corpo, identidade, relação terapêutica, presença, aut
 
 ### Limites e distinções
 
-- “Eu essencial” em Salvador não é sinônimo de EIXO;
-- EIXO permanece uma função pedagógica de reconhecimento, retorno, coordenação e orientação;
+- “Eu essencial” em Salvador não é sinônimo de eixo nem de qualquer outro recurso didático;
+- o eixo permanece uma imagem possível para investigar reconhecimento, retorno e orientação quando pertinente;
 - afirmações sobre essência devem ser apresentadas como formulações clínicas, fenomenológicas e espirituais, não como achado neurocientífico;
 - práticas de processamento de trauma pertencem ao cuidado clínico e não devem ser transportadas automaticamente para um curso educacional.
 
@@ -385,7 +388,7 @@ A obra integra trauma, corpo, identidade, relação terapêutica, presença, aut
 | William James | não | pluralismo radical e empirismo radical como linhagem filosófica | fundamentos epistemológicos |
 | Pluralismo epistêmico contemporâneo | não | coexistência de modelos, métodos e critérios sem tribunal único | fundamentos epistemológicos |
 | E. O. Wilson | não | referência histórica contrastiva; sua consiliência não governa o projeto | formação do educador e memória epistemológica |
-| Tradução/EIXO | sim, como linguagem autoral | arquitetura organizadora | todo o percurso |
+| Tradução e recursos do TSH | sim, como linguagem autoral | organização pedagógica contextual | todo o percurso |
 
 ## Regra de mobilização futura
 
@@ -393,7 +396,7 @@ A obra integra trauma, corpo, identidade, relação terapêutica, presença, aut
 2. Mobilizá-la quando responder a uma dificuldade pedagógica real.
 3. Preservar o estatuto da fonte: evidência, teoria, síntese interdisciplinar, tradução clínica, tradição, experiência ou elaboração autoral.
 4. Traduzir para linguagem simples antes de apresentar nomenclatura.
-5. Não reduzir o EIXO nem a Tradução a uma única perspectiva.
+5. Não reduzir o TSH, a Tradução ou qualquer recurso didático a uma única perspectiva.
 6. Registrar aplicações futuras nesta nota e retomá-las durante a construção da unidade correspondente.
 
 ## Referências de verificação
@@ -412,7 +415,7 @@ A obra integra trauma, corpo, identidade, relação terapêutica, presença, aut
 A consolidação visual e a governança de utilização futura deste fundamento estão registradas em:
 
 - [[00 - Família de Mapas - Oscilação, Retorno e Equilíbrio Dinâmico]]
-- [[01 - Mapa Mestre - Referência, EIXO e Estado]]
+- [[01 - Mapa Mestre - Referência, EIXO e Estado|Mapa de referência eixo e estado]]
 - [[02 - Mapa Mestre - Pêndulo, Espiral e Percurso]]
 - [[03 - Mapa Mestre - Desenvolvimento do Retorno]]
 - [[04 - Mapa Mestre - Três Perspectivas do Equilíbrio Dinâmico]]
@@ -430,7 +433,7 @@ Yin–yang, neurobiologia autonômica e equilibração em Piaget foram incorpora
 - **yin–yang:** relação, alternância e transformação; equilíbrio não significa imobilidade;
 - **neurobiologia autonômica:** variação corporal de acesso, mobilização, conexão, proteção, conservação e recuperação;
 - **equilibração:** assimilação, acomodação e reorganização possível diante de perturbações;
-- **Tradução/EIXO:** elaboração autoral que transforma essas contribuições em percurso pedagógico, sem pretender substituí-las ou ser provada por elas.
+- **Tradução e recursos do TSH:** elaboração autoral que transforma essas contribuições em percurso pedagógico, sem pretender substituí-las ou ser provada por elas.
 
 A Teoria Polivagal permanece como modelo específico dentro da discussão autonômica. Não igualar “vagal e dorsal” nem “simpático e parassimpático”: dorsal é um ramo vagal e parassimpático; a formulação didática adequada considera organização vagal ventral, mobilização simpática, respostas vagais dorsais, combinações e transições.
 

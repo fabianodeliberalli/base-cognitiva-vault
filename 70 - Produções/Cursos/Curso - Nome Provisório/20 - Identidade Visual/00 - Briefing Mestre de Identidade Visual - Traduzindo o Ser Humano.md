@@ -2,8 +2,9 @@
 tipo: briefing-mestre-de-identidade-visual
 projeto: Traduzindo o Ser Humano
 status: em-validacao-autoral
-versao: "1.0"
+versao: "1.1"
 data: 2026-07-30
+atualizado_em: 2026-11-01
 autor: Fabiano Deliberalli
 elaboracao: ChatGPT sob direção autoral
 fonte-governante:
@@ -58,9 +59,9 @@ Função: expressar o deslocamento formativo central do curso.
 
 Função: gerar identificação imediata com o problema vivido pelo público.
 
-### EIXO
+### Recursos didáticos e identidade
 
-EIXO permanece como função pedagógica de coordenação, retorno e reorganização dentro do projeto. Não deve disputar visualmente o lugar da marca principal nem constituir uma segunda marca concorrente.
+Árvore, pêndulo, espiral, escada, artesão, espelho, eixo e outras imagens podem aparecer em aulas, mapas e peças quando o conteúdo pedir essa linguagem. Nenhum desses recursos governa isoladamente a identidade visual, nomeia o método ou constitui segunda marca.
 
 ### Regra visual de hierarquia
 
@@ -132,7 +133,7 @@ A experiência visual deve transmitir que aquilo que parecia confuso pode tornar
 | profundidade | acessibilidade | complexidade legível |
 | ciência | espiritualidade | abertura com rigor |
 | corpo | sentido | experiência multidimensional |
-| estabilidade | movimento | eixo dinâmico e capacidade de retorno |
+| estabilidade | movimento | equilíbrio dinâmico e possibilidades de retorno |
 | individualidade | relação | identidade em campo relacional |
 | tradição | contemporaneidade | sabedoria traduzida para o presente |
 | sofisticação | proximidade | autoridade humana, não distância |
@@ -535,7 +536,7 @@ O logotipo somente poderá ser considerado definitivo se responder positivamente
 - comunica tradução, diferenciação e integração, não apenas mente, terapia ou espiritualidade?
 - preserva a experiência como complexa e viva?
 - evita sugerir perfeição estática?
-- representa retorno e orientação sem transformar EIXO em marca concorrente?
+- representa retorno e orientação sem transformar qualquer recurso didático em método, mecanismo central ou marca concorrente?
 
 ### 19.3 Distinção de mercado
 

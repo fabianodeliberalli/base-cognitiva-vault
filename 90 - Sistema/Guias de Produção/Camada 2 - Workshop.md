@@ -1,4 +1,14 @@
+---
+tipo: guia-historico-de-producao
+status: patrimonio-historico-consultivo
+uso_atual: fonte-de-elaboracoes-recuperaveis
+atualizado_em: 2026-11-01
+---
+
 # Guia Operacional — Camada 2 — Workshop
+
+> [!IMPORTANT] Leitura atual
+> Este guia pertence à hipótese histórica de ecossistema em camadas. Suas soluções de workshop permanecem disponíveis por pertinência, mas as pontes para “Método EIXO” registradas abaixo não orientam a arquitetura atual do TSH.
 
 **Status:** rascunho operacional para validação
 

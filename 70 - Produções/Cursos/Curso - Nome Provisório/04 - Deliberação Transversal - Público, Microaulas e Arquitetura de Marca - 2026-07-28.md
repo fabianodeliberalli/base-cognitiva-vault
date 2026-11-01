@@ -3,8 +3,9 @@ tipo: deliberacao-transversal
 projeto: Traduzindo o Ser Humano
 curso: Traduzindo o Ser Humano
 status: vigente
-versao: "2.0"
+versao: "2.1"
 data: 2026-07-28
+atualizado_em: 2026-11-01
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 origem: feedback-da-mentoria-com-Camila-e-deliberacao-autoral
@@ -138,7 +139,7 @@ Aplicam-se ainda as seguintes distinções:
 | Subtítulo | **Da compreensão acumulada à presença que sustenta** | recorte formativo e transformação |
 | Headline | **Por que você entende seus padrões, mas continua repetindo?** | identificação imediata com o problema |
 | Pergunta qualificadora | **Você já fez terapia, cursos ou práticas de autoconhecimento, entende muitos dos seus padrões e, mesmo assim, percebe que continua repetindo alguns deles?** | seleção do público pela situação vivida |
-| EIXO | função pedagógica de coordenação, retorno e reorganização | linguagem interna do percurso, não marca concorrente |
+| Recursos didáticos | árvore, pêndulo, espiral, escada, artesão, espelho, eixo e outros, conforme o contexto | apoiam a compreensão sem constituir método, marca ou mecanismo comercial |
 
 ### Uso das três composições
 
@@ -225,7 +226,7 @@ Até eventual concessão:
 - os códigos 0.1–6.2 permanecem;
 - conteúdos curriculares aprovados não são reabertos apenas pela decomposição audiovisual;
 - nomes históricos de arquivos e links com “Aula” podem ser preservados para evitar ruptura documental;
-- EIXO permanece no curso como função pedagógica;
+- as elaborações históricas de EIXO permanecem disponíveis como patrimônio; eixo, em minúsculas, é usado somente como recurso didático contextual quando pertinente;
 - o feedback de mercado melhora acesso, linguagem e entrega sem diminuir a profundidade do patrimônio intelectual.
 
 ## Relações

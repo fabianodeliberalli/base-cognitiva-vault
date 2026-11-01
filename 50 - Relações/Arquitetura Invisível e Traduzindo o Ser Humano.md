@@ -2,7 +2,7 @@
 tipo: relacao
 id: relacao-2026-0002
 titulo: "Arquitetura Invisível e Traduzindo o Ser Humano"
-status: proposta-estruturante
+status: proposta-historica-consultiva
 natureza_epistemologica: sintese-autoral-e-institucional
 origem_registro: leitura-relacional-do-manuscrito-e-da-base-cognitiva
 data_registro: 2026-07-17
@@ -20,7 +20,10 @@ relacoes:
   - "[[Camada 5 - Imersão EIXO]]"
 validado_por_fabiano: false
 protegida: false
+atualizado_em: 2026-11-01
 ---
+
+> **Leitura atual desde 01/11/2026.** Esta relação preserva a etapa em que “Método EIXO” organizava a hipótese de ecossistema. Todo o conteúdo continua disponível para fundamentação e criação por pertinência, mas não define a marca, o método ou a arquitetura vigente do TSH. Quando o recurso do eixo for retomado em material atual, usar minúsculas e situá-lo junto dos demais recursos didáticos.
 
 # Relação central
 

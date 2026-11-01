@@ -2,9 +2,12 @@
 tipo: nota-pratica-derivada
 estado: patrimonio-tradicional-e-autoral
 origem: ABBSP slides 81-96, 121-180, 201-240
+atualizado_em: 2026-11-01
 ---
 
-# Três Regulações, Qi Gong e EIXO
+# Três Regulações e Qi Gong
+
+O nome do arquivo preserva a etapa histórica em que “EIXO” era hipótese de método. As elaborações sobre corpo, respiração, mente/intenção, Qi, presença, ritmo e orientação continuam disponíveis por pertinência. Em materiais atuais, **eixo** só deve aparecer se contribuir como imagem didática contextual, sem nomear esta prática ou lhe atribuir estatuto superior.
 
 A tradição do Qi Gong organiza a prática por regulação do corpo, da respiração e da mente/intenção. No projeto, esse patrimônio pode sustentar presença, sensibilidade, ritmo e orientação.
 

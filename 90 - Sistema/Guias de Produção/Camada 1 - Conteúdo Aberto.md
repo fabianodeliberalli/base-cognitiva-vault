@@ -1,4 +1,14 @@
+---
+tipo: guia-historico-de-producao
+status: patrimonio-historico-consultivo
+uso_atual: fonte-de-elaboracoes-recuperaveis
+atualizado_em: 2026-11-01
+---
+
 # Guia Operacional — Camada 1 — Conteúdo Aberto
+
+> [!IMPORTANT] Leitura atual
+> Este guia pertence à hipótese histórica de ecossistema em camadas. Suas soluções de conteúdo aberto permanecem disponíveis por pertinência, mas a ponte para “Método EIXO” registrada abaixo não orienta a arquitetura atual do TSH.
 
 **Status:** rascunho operacional para validação
 

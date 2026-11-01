@@ -2,9 +2,9 @@
 tipo: referencia-transversal-autoral
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "1.2"
+versao: "1.3"
 data: 2026-08-22
-atualizado_em: 2026-09-07
+atualizado_em: 2026-11-01
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 aplicacao:
@@ -127,13 +127,12 @@ Antes de sugerir retirada, redução, neutralização ou substituição de qualq
 
 Sem esse exame, a recomendação deverá ser classificada como **heurística genérica não autorizada**.
 
-## 6. Simetria, EIXO e integração
+## 6. Simetria, recursos didáticos e integração
 
 A simetria não deverá ser interpretada automaticamente como equilíbrio ideal, integração concluída ou perfeição estática.
 
 No projeto, ela pode representar legitimamente:
 
-- EIXO;
 - correspondência;
 - reciprocidade;
 - organização dinâmica;
@@ -142,6 +141,8 @@ No projeto, ela pode representar legitimamente:
 - presença de uma referência;
 - coerência possível;
 - alinhamento sem apagamento das diferenças.
+
+Quando a leitura de uma aula ou mapa pedir essa associação, a simetria pode dialogar com a imagem do **eixo**. Essa é uma possibilidade contextual, não o significado governante da identidade visual nem um destaque superior ao de árvore, pêndulo, espiral, escada, artesão, espelho e outros recursos do TSH.
 
 A leitura deverá considerar a composição inteira. Linhas sinuosas, espirais, oscilações, aberturas e variações podem preservar movimento e impedir que a simetria seja reduzida a imobilidade.
 

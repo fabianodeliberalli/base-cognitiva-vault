@@ -2,8 +2,9 @@
 tipo: manual-de-identidade-visual
 projeto: Traduzindo o Ser Humano
 status: vigente-uso-controlado
-versao: "1.0"
+versao: "1.1"
 data: 2026-07-30
+atualizado_em: 2026-11-01
 autor: Fabiano Deliberalli
 elaboracao: ChatGPT sob direcao autoral
 aplicacao:
@@ -67,7 +68,7 @@ A identidade expressa:
 - consciência;
 - espiritualidade explícita, plural e não dogmática;
 - energia e experiência em movimento;
-- EIXO e organização dinâmica;
+- referência e organização dinâmica;
 - integração;
 - transformação vivida.
 
@@ -80,7 +81,7 @@ A identidade expressa:
 | Centro solar | consciência, Essência, Self, sentido, referência e espiritualidade |
 | Arco | campo, totalidade, integração, pertencimento e abertura |
 | Pontos verticais | continuidade entre dimensões, transcendência e incorporação, sutil e manifesto |
-| Simetria | EIXO, correspondência, integração e organização dinâmica |
+| Simetria | correspondência, integração e organização dinâmica |
 
 A simetria não deverá ser interpretada automaticamente como imobilidade, perfeição estática ou integração concluída. A linha sinuosa, a abertura e a verticalidade preservam movimento, percurso e transformação.
 
@@ -168,7 +169,7 @@ Aplicações principais:
 | Escala | Versão | Regra |
 |---|---|---|
 | 64 px ou mais | símbolo principal | preservar todos os elementos |
-| 32–48 px | Micro B | preservar campo humano, centro, EIXO e percurso |
+| 32–48 px | Micro B | preservar campo humano, centro, verticalidade e percurso |
 | 16–24 px | Micro C | preservar centro solar, verticalidade, pontos e linha sinuosa |
 
 A simplificação responsiva não autoriza alteração do símbolo principal.

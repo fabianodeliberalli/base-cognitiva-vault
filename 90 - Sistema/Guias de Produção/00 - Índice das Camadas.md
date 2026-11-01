@@ -1,4 +1,14 @@
+---
+tipo: indice-historico-de-guias
+status: patrimonio-historico-consultivo
+uso_atual: fonte-de-elaboracoes-recuperaveis
+atualizado_em: 2026-11-01
+---
+
 # Índice dos Guias Operacionais das Camadas
+
+> [!IMPORTANT] Leitura atual
+> Este índice preserva a hipótese histórica de ecossistema em camadas construída antes da adoção integral do TSH. Os guias continuam disponíveis como fontes de funções, perguntas, práticas, critérios e formatos para aulas, roteiros, PowerPoints e entregáveis. Eles não definem a arquitetura atual nem restauram “Método EIXO”; nas derivações atuais, **eixo** é somente um recurso didático contextual, em minúsculas.
 
 ## Função
 

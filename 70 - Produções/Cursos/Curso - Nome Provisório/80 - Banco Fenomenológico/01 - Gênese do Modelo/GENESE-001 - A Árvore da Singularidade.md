@@ -32,7 +32,7 @@ tags:
 
 Durante dois atendimentos clínicos distintos ocorridos no mesmo dia, surgiu uma formulação comum: a singularidade humana parece buscar expressão ao longo da vida, mas essa expressão pode ser sobreposta, comprimida ou desviada pelas condições emocionais, relacionais e culturais dos ambientes iniciais.
 
-A elaboração apareceu em continuidade com conceitos já presentes no projeto **Traduzindo o Ser Humano**: Tradução, EIXO, integração, competência incorporada, Três Eus, pêndulo, espiral, presença e Essência.
+A elaboração apareceu em continuidade com conceitos e recursos já presentes no projeto **Traduzindo o Ser Humano**: Tradução, eixo — à época grafado “EIXO” —, integração, competência incorporada, Três Eus, pêndulo, espiral, presença e Essência.
 
 ## Formulação de origem
 
@@ -58,7 +58,7 @@ Segurança corporal, sustentação, Eu Básico, presença e possibilidade de aut
 
 ### Tronco
 
-Estrutura integrada, diferenciação, continuidade e EIXO.
+Estrutura integrada, diferenciação, continuidade e eixo como imagem contextual.
 
 ### Copa, flores e frutos
 

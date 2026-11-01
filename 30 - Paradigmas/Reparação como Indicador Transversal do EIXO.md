@@ -1,23 +1,23 @@
 ---
 tipo: componente-etico-pedagogico
 projeto: Traduzindo o Ser Humano
-metodo: EIXO
-status: aprovado-em-desenvolvimento
+status: referencia-atual-revisavel
 criado_em: 2026-07-19
-atualizado_em: 2026-10-30
+atualizado_em: 2026-11-01
 autor: Fabiano Deliberalli
 tags:
   - reparacao
   - aprendizagem
   - etica
-  - metodo-eixo
 ---
 
-# Reparação como Indicador Transversal do EIXO
+# Reparação como indicador transversal da aprendizagem
+
+O nome do arquivo foi preservado para não quebrar links. Reparação pertence ao percurso do TSH e não a um método ou recurso didático específico.
 
 ## Definição aprovada
 
-> **Reparação é um indicador transversal da competência EIXO. Consiste em reconhecer consequências, discernir responsabilidade e realizar ações possíveis de cuidado, correção e aprendizagem, sem confundi-la com culpa total, punição, reconciliação obrigatória ou restauração garantida.**
+> **Reparação é um indicador transversal de participação e aprendizagem. Consiste em reconhecer consequências, discernir responsabilidade e realizar ações possíveis de cuidado, correção e aprendizagem, sem confundi-la com culpa total, punição, reconciliação obrigatória ou restauração garantida.**
 
 Cláusula:
 
@@ -52,7 +52,7 @@ Cláusula:
 | Traduzir a Experiência | compreender acontecimento e efeitos |
 | Regular e Recuperar Presença | não responder somente por defesa, culpa ou urgência |
 | Observar e Diferenciar | distinguir intenção, ação, impacto, contexto e responsabilidade |
-| Fortalecer o EIXO | consultar valores, limites e possibilidades |
+| Orientar respostas | consultar valores, limites e possibilidades |
 | Integrar Progressivamente | incorporar aprendizagem e atualizar padrões |
 | Expressar e Contribuir | realizar ação reparadora e observar consequências |
 

@@ -1,12 +1,11 @@
 ---
 tipo: nota-conceitual-mestra
 projeto: Traduzindo o Ser Humano
-metodo: Método EIXO
-status: aprovado-no-projeto-nao-canonico-no-metodo
+status: referencia-atual-revisavel
 natureza: mapa-funcional-transversal-autoral
 autor: Fabiano Deliberalli
 criado_em: 2026-07-18
-atualizado_em: 2026-10-30
+atualizado_em: 2026-11-01
 fontes:
   - "[[Arquitetura Invisível]]"
   - "[[Três Eus, Jung e Rede Tripartite]]"
@@ -15,7 +14,6 @@ fontes:
 tags:
   - tres-eus
   - mapa-funcional-transversal
-  - metodo-eixo
   - traducao-da-experiencia-humana
   - arquitetura-do-curso
 ---
@@ -24,18 +22,17 @@ tags:
 
 ## Função deste documento
 
-Esta é a nota-mãe de fundamentação, organização e consolidação das elaborações sobre Eu Básico, Eu Médio e Eu Superior para o projeto Traduzindo o Ser Humano. Ela registra a decisão vigente, preserva a proveniência intelectual, delimita a autoridade do modelo e orienta seu possível uso no Método EIXO, na arquitetura global dos cursos e em futuras derivações.
+Esta é a nota-mãe de fundamentação, organização e consolidação das elaborações sobre Eu Básico, Eu Médio e Eu Superior para o projeto Traduzindo o Ser Humano. Ela registra a decisão vigente, preserva a proveniência intelectual, delimita a autoridade do modelo e orienta seu possível uso nas aulas e em futuras derivações.
 
-Este documento não transforma os Três Eus em núcleo canônico do Método EIXO nem os converte automaticamente em módulos, fases ou conteúdos da primeira oferta.
+Este documento não transforma os Três Eus em núcleo obrigatório do TSH nem os converte automaticamente em módulos, fases ou conteúdos da primeira oferta.
 
 ## 1. Decisão consolidada e estatuto
 
-> Os Três Eus são aprovados no projeto Traduzindo o Ser Humano como **Mapa Funcional Transversal** e ferramenta pedagógica autoral de Tradução. Não substituem os quatro movimentos funcionais, as seis fases do Método EIXO nem a Jornada Fenomenológica. Permanecem, no Método EIXO, como patrimônio candidato não canônico e, no curso, como recurso pedagógico cuja inserção depende de necessidade demonstrada.
+> Os Três Eus são uma ferramenta pedagógica autoral de Tradução. Sua inserção depende da necessidade da aula e do ganho de compreensão, prática ou transferência. O mapa não constitui anatomia mental, hierarquia espiritual nem estrutura cerebral.
 
 **Classificação de autoridade:**
 
-- **aprovado no projeto:** como mapa tradutivo autoral reutilizável;
-- **não canônico no Método:** não define o EIXO nem suas seis fases;
+- **referência atual do projeto:** como mapa tradutivo autoral reutilizável;
 - **candidato no curso:** pode entrar quando melhorar compreensão, prática e transferência;
 - **não validado cientificamente:** possui correlações heurísticas, não comprovação direta;
 - **espiritual não dogmático:** oferece linguagem de horizonte sem impor ontologia.
@@ -60,46 +57,43 @@ Sua contribuição principal é traduzir essa complexidade sem exigir que o part
 
 ## 4. Definições funcionais vigentes
 
-| Elemento | Função candidata consolidada | Relação com o EIXO |
+| Elemento | Função candidata consolidada | Contribuição pedagógica e limite |
 |---|---|---|
 | **Eu Básico** | sustentação corporificada; sensibilidade corporal e afetiva; acesso ao implícito, imagético, simbólico, habitual e pré-reflexivo | condição fundamental de acesso, presença e retorno; não é idêntico ao corpo, sistema límbico, inconsciente ou Rede de Saliência |
-| **Eu Médio** | Tradução, simbolização, discriminação, reflexão, mediação e escolha | contribui para legibilidade, discernimento e orientação de respostas; não é idêntico ao EIXO, ego, FPN ou consciência total |
+| **Eu Médio** | Tradução, simbolização, discriminação, reflexão, mediação e escolha | contribui para legibilidade, discernimento e orientação de respostas; não é idêntico ao ego, à FPN ou à consciência total |
 | **Eu Superior** | sentido, valores, direção, coerência, transcendência e contribuição | oferece horizonte possível de orientação; não comanda automaticamente, não é resultado garantido e não possui correlato neural específico |
-| **EIXO** | coordenação dinâmica, reconhecimento do afastamento, recuperação de presença e capacidade de retorno | atravessa e relaciona as três funções; não pertence exclusivamente a nenhuma delas |
 
 As funções são lentes de observação e Tradução. Não são três entidades separadas, compartimentos psíquicos rígidos, níveis evolutivos universais nem estruturas cerebrais.
 
-## 5. Relação estrutural com o Método EIXO
+## 5. Relação com o percurso e outros recursos
 
-Os Três Eus não substituem:
+Os Três Eus podem dialogar com:
 
 - os **quatro movimentos funcionais**, que descrevem a competência em ação;
 - as **seis fases**, que organizam o percurso metodológico;
 - a **Jornada Fenomenológica**, que organiza a aproximação ao vivido;
-- o **Princípio de Recursividade EIXO–Tradução**, que descreve a circularidade entre legibilidade, reorganização e fortalecimento do EIXO.
+- a recursividade entre Tradução, participação, efeitos e aprendizagem.
 
 Sua função é transversal: ajudar a reconhecer quais sistemas funcionais estão mobilizados, desconectados, em conflito ou cooperando durante o percurso.
 
-> Algum EIXO favorece a Tradução; ao tornar a experiência mais legível, a Tradução pode favorecer reorganização; e essa reorganização pode fortalecer o EIXO.
+> A Tradução pode tornar uma experiência mais legível; essa legibilidade pode favorecer participação, reorganização e aprendizagem; os efeitos da participação podem revisar a Tradução.
 
-Nessa circularidade, o Eu Básico oferece acesso corporificado e implícito; o Eu Médio participa da Tradução reflexiva; o Eu Superior nomeia um horizonte possível de sentido e direção; e o EIXO coordena a possibilidade de presença, retorno e resposta.
+Nessa circularidade, o Eu Básico oferece acesso corporificado e implícito; o Eu Médio participa da Tradução reflexiva; e o Eu Superior nomeia um horizonte possível de sentido e direção.
 
-## 6. Independência canônica e teste de removibilidade
+## 6. Teste de removibilidade
 
-O Método EIXO deve permanecer integralmente inteligível, praticável e avaliável sem depender da nomenclatura dos Três Eus.
+O TSH deve permanecer inteligível, praticável e avaliável sem depender da nomenclatura dos Três Eus.
 
 **Teste de removibilidade:**
 
 Se forem retirados os termos “Eu Básico”, “Eu Médio” e “Eu Superior”:
 
-1. a definição do EIXO continua compreensível;
-2. os quatro movimentos continuam executáveis;
-3. as seis fases continuam organizáveis;
-4. as práticas essenciais continuam realizáveis;
-5. os indicadores de aprendizagem continuam observáveis;
-6. o participante continua capaz de reconhecer, retornar, escolher, reparar e reorganizar-se.
+1. as práticas essenciais continuam realizáveis;
+2. os indicadores de aprendizagem continuam observáveis;
+3. o participante continua capaz de reconhecer, diferenciar, escolher, reparar e aprender;
+4. outros recursos didáticos continuam disponíveis conforme a aula.
 
-Se qualquer elemento nuclear falhar nesse teste, a arquitetura deverá ser revista antes de atribuir aos Três Eus uma função canônica. No estado atual, o mapa passa no teste: ele acrescenta legibilidade, mas não sustenta sozinho o Método.
+Se a aula deixar de funcionar sem essa nomenclatura, sua necessidade deve ser revista. No estado atual, o mapa acrescenta legibilidade, mas não sustenta sozinho o percurso.
 
 ## 7. Lugar pedagógico na arquitetura global
 
@@ -110,7 +104,7 @@ A sequência recomendada para a arquitetura global é:
 3. observação e Tradução inicial;
 4. apresentação opcional do Mapa dos Três Eus;
 5. aplicação a conflitos entre sensação, narrativa, escolha e direção;
-6. correlação com o EIXO como coordenação e capacidade de retorno;
+6. diálogo com outros recursos didáticos quando isso acrescentar clareza;
 7. aprofundamentos teóricos opcionais;
 8. transferência para situações de vida;
 9. revisão da utilidade do mapa para cada público e oferta.
@@ -125,7 +119,7 @@ Estas são famílias candidatas de práticas educacionais, não prescrições cl
 - **triângulo de Tradução:** diferenciar o que é sentido, o que é compreendido e o que orienta uma resposta;
 - **mapa de conflito funcional:** reconhecer desalinhamentos entre impulso, interpretação, valor e ação;
 - **revisão de resposta:** observar escolha, consequência, reparação e aprendizagem;
-- **retorno ao EIXO:** recuperar presença possível antes de transformar o mapa em explicação.
+- **retomada de referência:** recuperar presença possível antes de transformar o mapa em explicação.
 
 Indicadores pedagógicos possíveis:
 
@@ -151,7 +145,7 @@ Sua finalidade será verificar onde o mapa acrescenta legibilidade e prática, o
 
 ### Estrutura prevista
 
-| Três Eus / função | Movimento funcional | Fase do Método EIXO | Tipo de prática | Indicador de aprendizagem | Necessidade pedagógica | Risco/limite | Estatuto |
+| Três Eus / função | Movimento funcional | Momento do percurso | Tipo de prática | Indicador de aprendizagem | Necessidade pedagógica | Risco/limite | Estatuto |
 |---|---|---|---|---|---|---|---|
 | a preencher | a preencher | a preencher | a preencher | a preencher | a demonstrar | a registrar | proposta/validado/retirado |
 
@@ -204,7 +198,7 @@ Essa deliberação antecede módulos, aulas e o preenchimento da Matriz de Inser
 
 ## Refinamento incorporado em 30 de outubro de 2026
 
-As Cinco Janelas oferecem dimensões de observação; os Três Eus distinguem funções; a árvore situa desenvolvimento; o pêndulo acompanha movimento; a espiral compara reencontros; o EIXO orienta participação. Não é necessário usar todos numa mesma aula.
+As Cinco Janelas oferecem dimensões de observação; os Três Eus distinguem funções; a árvore situa desenvolvimento; o pêndulo acompanha movimento; a espiral compara reencontros; o eixo pode ajudar a observar referência e retorno. Todos são recursos didáticos contextuais e nenhum precisa aparecer em toda aula.
 
 Raízes, tronco e copa não equivalem a Eu Básico, Eu Médio e Eu Superior. Espiritualidade participa da árvore inteira. O conceito de Essência deve seguir o verbete atualizado no [[Léxico Mestre do Traduzindo o Ser Humano]], preservando as distinções de Self, Eu Superior e Fonte. M5.3 e M5.7 são destinos atuais do diálogo, sem transportar numerações históricas.
 

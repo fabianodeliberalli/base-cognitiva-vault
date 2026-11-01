@@ -3,12 +3,17 @@ tipo: kit-de-aula
 projeto: Traduzindo o Ser Humano
 modulo: 0
 aula: "0.1"
-status: prototipo-produzido-para-ensaio
-versao: "0.1"
+status: acervo-historico-consultivo
+uso_atual: fonte-historica-para-derivacao-seletiva
+versao: "0.2"
 data: 2026-07-19
+atualizado_em: 2026-11-01
 ---
 
 # Kit da Aula 0.1 — Por que Traduzir a Experiência Humana?
+
+> [!IMPORTANT] Leitura atual
+> Este protótipo foi sucedido pela arquitetura vigente. Suas formulações permanecem disponíveis como insumo, mas “EIXO” registra o estatuto histórico. Em novas aulas e entregáveis, **eixo** é somente um recurso didático contextual em minúsculas; a produção atual deve partir de [[M1.1 - Roteiro oral e caderno de produção v0.2]].
 
 ## Função da aula
 

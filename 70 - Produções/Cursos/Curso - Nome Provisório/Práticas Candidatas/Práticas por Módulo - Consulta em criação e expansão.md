@@ -10,6 +10,8 @@ incorporado_em: 2026-10-31
 
 As expressões internas “congelar”, “núcleo”, “portão de validação” e “decisão recomendada” pertencem à proposta de 12/10. São preservadas no original e não se tornam decisões atuais pelo arquivamento. Práticas devem ser construídas pela pergunta da aula, pelo Raio X vigente, pelo acervo autoral e pelas escolhas atuais de Fabiano.
 
+As referências internas a “EIXO”, “retorno ao EIXO”, “circuito do EIXO”, “Laboratório EIXO” ou “Imersão EIXO” também pertencem à nomenclatura histórica do original transcrito. As capacidades, distinções e práticas continuam disponíveis para avaliação; em qualquer derivação atual, **eixo** é somente um recurso didático contextual, em minúsculas e sem estatuto especial.
+
 ## Diferenças que exigem contextualização
 
 - Na seção M1, o documento chama de Cinco Janelas uma sequência de perguntas. No Raio X atual, as Cinco Janelas são corpo, emoção, mente, relações e espiritualidade. Reaproveitar perguntas por função, sem restaurar a definição antiga.

@@ -97,7 +97,7 @@ Ao final de cada fase, selecionar somente as dimensões que foram efetivamente p
 | 1 — Traduzir | reconhecimento, linguagem e diferenciação |
 | 2 — Regular | intensidade, duração, recursos, segurança e retorno |
 | 3 — Observar | percepção precoce, amplitude, equanimidade e diferenciação |
-| 4 — Fortalecer o EIXO | coordenação, orientação, limite e escolha |
+| 4 — Orientar respostas | coordenação, orientação, limite e escolha |
 | 5 — Integrar | estados mistos, ligação entre dimensões e continuidade |
 | 6 — Expressar | efeitos, comunicação, reparação, coerência e contribuição |
 

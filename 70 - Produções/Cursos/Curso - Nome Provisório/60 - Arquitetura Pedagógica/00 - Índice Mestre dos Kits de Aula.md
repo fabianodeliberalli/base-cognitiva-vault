@@ -1,8 +1,10 @@
 ---
 tipo: indice-mestre
 projeto: Traduzindo o Ser Humano
-estado: ativo
+estado: acervo-historico-consultivo
+uso_atual: indice-de-fontes-anteriores
 data: 2026-08-22
+atualizado_em: 2026-11-01
 ---
 
 > [!NOTE] Leitura dos códigos históricos 2.1 e 2.2
@@ -11,6 +13,9 @@ data: 2026-08-22
 
 > [!IMPORTANT] Regra de leitura vigente — 7 de setembro de 2026
 > Aplicar [[11 - Contexto Mínimo - Traduzindo o Ser Humano]]: **9 módulos e 54 aulas** são a única arquitetura vigente. A organização inicial de **7 módulos e 14 aulas ou unidades** permanece como acervo histórico de títulos e conteúdos e pode contribuir, por pertinência, com ampliações, correlações e fundamentações durante a construção das aulas ainda não gravadas. Ela não governa o desenvolvimento atual, não exige correspondência com as 54 aulas e não transporta automaticamente sua numeração. Neste documento, formulações anteriores sobre “duas arquiteturas”, “arquitetura interna” ou ligação obrigatória têm valor histórico, não normativo.
+
+> [!IMPORTANT] Atualização operacional — 1º de novembro de 2026
+> Este índice preserva os kits da arquitetura anterior como fontes consultivas. Não usar a tabela nem o “Ponto curricular” abaixo como fila operacional atual. A produção vigente começa em [[TSH - Preparação dos Roteiros e Calendário 2026-2027]] e, para o módulo em elaboração, em [[00 - Estado e Continuidade da Produção M1]]. As referências históricas a “EIXO” permanecem pesquisáveis; nas novas aulas, **eixo** é um recurso didático contextual em minúsculas, sem estatuto de método ou capacidade autônoma.
 
 
 # Índice Mestre dos Kits Curriculares
@@ -74,7 +79,7 @@ A unidade conversacional de produção é o módulo; a memória oficial permanec
 
 Modelo obrigatório: [[00 - Modelo de Estado, Índice e Continuidade do Módulo]].
 
-## Estado da produção
+## Estado registrado na arquitetura anterior — histórico
 
 A [[Aula de Entrada 0.0 - Boas-vindas, navegação e condições de participação]] está registrada como adendo pré-curricular da camada Hotmart. Seu roteiro, duração, forma visual e gravação permanecem em aberto.
 
@@ -117,7 +122,7 @@ Ver [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]] e [[01 - Protocolo 
 - Mudanças transversais retornam à Orquestração Mestre antes de alterar múltiplos módulos.
 
 
-## Ponto curricular atual
+## Ponto curricular registrado na arquitetura anterior — histórico
 
 - **Arquitetura de trabalho:** Orquestração Curricular Mestre 03 + um chat ativo por módulo;
 - **Camada de entrega:** [[Aula de Entrada 0.0 - Boas-vindas, navegação e condições de participação]] precede a sequência curricular na Hotmart, sem integrar as 14 unidades;

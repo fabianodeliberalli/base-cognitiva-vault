@@ -3,7 +3,7 @@ tipo: modelo-ficha-regime-pedagogico
 projeto: Traduzindo o Ser Humano
 status: modelo
 criado_em: 2026-07-19
-atualizado_em: 2026-07-19
+atualizado_em: 2026-11-01
 tags:
   - regime-pedagogico
   - oferta
@@ -66,7 +66,7 @@ Nenhum item listado pertence exclusivamente à oferta.
 | Tradução |  |  |  |  |  |  |
 | Quatro movimentos |  |  |  |  |  |  |
 | Seis fases |  |  |  |  |  |  |
-| EIXO |  |  |  |  |  |  |
+| Recursos didáticos mobilizados |  |  |  |  |  |  |
 | Integração |  |  |  |  |  |  |
 | Reparação |  |  |  |  |  |  |
 | Jornada |  |  |  |  |  |  |

@@ -12,7 +12,7 @@ tags: [curso, livro, ceep, masterclass, supervisão]
 Caso forte para demonstrar:
 - compreensão extensa não equivale a transformação incorporada;
 - Tradução emergente versus mediada;
-- relação entre adaptação, EIXO, integração e expressão;
+- relação entre adaptação, orientação, integração e expressão; eixo como imagem didática contextual, se útil;
 - crescimento assimétrico da Árvore da Singularidade;
 - diferença entre acesso de estado e sustentação.
 
