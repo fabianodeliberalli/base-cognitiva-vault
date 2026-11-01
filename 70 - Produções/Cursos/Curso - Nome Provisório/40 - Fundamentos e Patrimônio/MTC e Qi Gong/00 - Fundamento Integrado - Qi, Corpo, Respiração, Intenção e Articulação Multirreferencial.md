@@ -682,3 +682,8 @@ Bentov pode contribuir para comparação de imagens e circulação, sem substitu
 Fabiano escolhe finalidade, público, procedimento, intensidade e formas de participação. P6 oferece referências para registrar finalidade, participação, modulação/retorno e transferência; restrições de versões anteriores não funcionam como impedimentos automáticos à criação atual. As propostas desta síntese não são roteiros finais de condução.
 
 Fonte integrativa: [[TSH - Síntese Integrativa do Refinamento]]. Incorporação solicitada por Fabiano; práticas descritas permanecem propostas de desenvolvimento e condução autoral.
+
+
+## Retomada para produção M1 e encontro M0/M1 — 01/11/2026
+
+Fabiano solicitou incluir a prática leve de percepção energética com as mãos e Qi Gong no encontro conjunto M0/M1, construindo seus alicerces ao longo do M1. A sequência detalhada permanece em elaboração. Recuperar a seção “Decisões para slides, entregável e retomadas” de [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Governança do Conhecimento/06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54]]: tabela Aproximar-se, Diferenciar, Expressar, Traduzir, Rever e Participar; quatro campos do registro; destinos M1.1, M1.4–M1.6, encontro M0/M1, M3.2 e M3.5–M3.6; fontes Siegel, Forghieri, mentalização, Barrett e Pyasik. Preservar o aperto no peito como exemplo e incluir curiosidade, vitalidade e descoberta. A matriz registra separadamente documentos de formação e relato autobiográfico de práticas com Siegel, sem fixar uma data ainda não confirmada para esse episódio.
