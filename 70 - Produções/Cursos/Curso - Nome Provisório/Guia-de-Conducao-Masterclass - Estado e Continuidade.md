@@ -4,9 +4,15 @@ projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
 versao: "1.2"
 criado_em: 2026-08-23
-atualizado_em: 2026-10-31
+atualizado_em: 2026-11-01
 autor: Fabiano Deliberalli
 ---
+
+## Atualização de 1 de novembro de 2026
+
+Masterclass alinhada a 67 slides editáveis: https://chatgpt.com/space/page_5705be6f3cf0819191a642839ccf58e9 . Guia Word e transcrição sincronizados com esse mapa. Incorporados os três usos de “antes de estarmos aqui”, a imagem do artesão e as quatro distinções relacionais. “Padrões que saem” expressa possibilidade de investigação do que se torna visível, sem atribuir finalidade ao sofrimento. Aplicação curricular em [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo]], seção de 01/11.
+
+O Raio X permanece como base; o refinamento de ensino não muda os 9 módulos, as 54 aulas ou o calendário. Os roteiros das aulas indicadas devem consultar essa seção. Nesta atualização, os slides e o Guia da Masterclass já receberam as alterações; não se declara que os materiais de todas as aulas estejam produzidos.
 
 ## Atualização de 31 de outubro de 2026
 
