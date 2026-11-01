@@ -259,3 +259,65 @@ Pesquisa realizada em 30 de outubro de 2026. Os vínculos pedagógicos entre fon
 Tradução da Experiência Humana — reconhecer e diferenciar dimensões do vivido, encontrar formas de expressão e elaborar sentidos ainda pouco claros, por linguagens verbais e não verbais, colocando mapas em diálogo para ampliar possibilidades de participação e expressão situada.
 
 A contribuição da Live operacionaliza princípios já existentes: M2.6 investiga procedência e revisão da interpretação; M4.3 admite corrigir a formulação do professor; M7.3 amplia escuta sem substituir o vivido do outro; M6.5 acompanha durante, depois, sentido, participação e condições. M1.6 admite que o registro participe da descoberta de sentido. Ver [[TSH - Preparação dos Roteiros e Calendário 2026-2027]] para fontes e destinações.
+
+
+## Antecedentes, trabalho artesanal e necessidades relacionais — 01/11/2026
+
+Refinamento solicitado por Fabiano para a Masterclass e as aulas. Mantém a arquitetura de 9 módulos e 54 aulas e o calendário vigente. Esta seção orienta a elaboração dos roteiros nos pontos abaixo; não declara que apresentações de todas essas aulas já foram produzidas ou revistas.
+
+### Três usos de “antes de estarmos aqui”
+
+| Plano | Sentido no TSH | Destino e contribuição |
+| --- | --- | --- |
+| Histórico e familiar | Relações, perdas, formas de cuidado, condições sociais e expectativas que antecedem nosso nascimento. | M1.5: apresentação breve. M4.4–M4.5: investigar formação dos padrões, heranças de cuidado, adaptação e possibilidades pouco nutridas. Reconhecer também recursos e apoios transmitidos. |
+| Biológico | Influências genéticas, gestacionais e possíveis processos epigenéticos, com mecanismos e graus de evidência diferentes. | M1.4: distinguir alcance dos mapas. M2.4: diálogo localizado sobre repetição e condições, sem reduzir a história a um mecanismo. M3.1: condições corporais de acesso, quando contribuir para o exemplo. |
+| Espiritual | Perspectiva autoral sobre encarnação, continuidade da existência e fundamento primordial da vida. | M0.1 e M1.5: afirmação breve. M5.6–M5.8: aprofundar fontes, experiência espiritual, Essência e interpretação, preservando a liberdade do participante. |
+
+Os planos podem dialogar dentro do TSH. A distinção torna o diálogo mais preciso: uma aproximação entre linguagens não demonstra equivalência causal. A repetição familiar, por si só, não estabelece transmissão epigenética; um achado biológico não comprova encarnação. Não presumir a origem de uma experiência individual a partir de um padrão de grupo. O plano espiritual tem lugar afirmativo na perspectiva autoral, sem depender dessa comprovação.
+
+Para bastidor biológico: [NHGRI — Epigenomics Fact Sheet](https://www.genome.gov/about-genomics/fact-sheets/Epigenomics-Fact-Sheet), sobre regulação da expressão gênica e herança; [Yehuda et al. (2016)](https://pubmed.ncbi.nlm.nih.gov/26410355/), estudo de associação em FKBP5 entre sobreviventes do Holocausto e descendentes, que não estabelece o mecanismo de transmissão. Essas fontes delimitam afirmações biológicas e não fundamentam o plano espiritual.
+
+### Imagem do artesão
+
+Formulação de ensino: “Há algo de artesanal na transformação. Cada pessoa participa de esculpir a própria estrutura, reconhecendo seus recursos e aprendendo a trabalhar com eles. Esse trabalho precisa de condições, ferramentas, tempo e colaboração. Às vezes, o próximo movimento é pedir ajuda, negociar uma demanda ou sair de uma situação.”
+
+A imagem agrega valor ao explicar como se aprende e se cultiva. Não introduzir outro mapa a memorizar. A árvore continua investigando desenvolvimento e campo; o pêndulo acompanha disponibilidade; a espiral compara reencontros. O artesão ajuda a escolher e experimentar um movimento possível. “Esculpir” não implica que a pessoa seja defeituosa, controle todas as condições ou tenha de construir-se sozinha.
+
+| Aula | Incorporação localizada |
+| --- | --- |
+| M1.3 | Uma breve imagem após competência incorporada: adquirir habilidade exige experimentar, adaptar e contar com condições. |
+| M6.6 | Uso principal: escolher um próximo movimento e identificar ferramenta, condição, tempo e colaboração necessários. Uma negociação ou mudança de contexto também é trabalho de transformação. |
+| M7.4 e M7.7 | Aplicar a pedidos, limites e assimetrias de poder. Distinguir o que posso tentar, o que depende de acordo e o que não controlo. |
+| M8.2 | Retomada de uma frase no plano de continuidade: que trabalho cabe agora e de que apoio preciso? Sem novo exercício obrigatório. |
+
+No caso “ou cedo ou rompo”, a retomada de M6 pode mostrar que Ana prepara uma frase e combina apoio, mas o familiar recusa a negociação. A espiral compara condições e efeitos; o artesão orienta a revisão do próximo movimento. Não usar a recusa para concluir que Ana praticou pouco ou fracassou.
+
+### Necessidades e limites da relação
+
+| Distinção | Consequência pedagógica |
+| --- | --- |
+| Minha necessidade pode ser legítima. | Não preciso desqualificá-la para reconhecer os limites da relação. |
+| Esta pessoa pode não conseguir ou não querer corresponder. | Precisamos investigar sua disponibilidade, sem concluir a causa à distância. |
+| Posso mudar aspectos da minha participação. | Isso não garante que o outro mude ou ofereça o que falta. |
+| Posso reconhecer uma repetição familiar. | Isso não me torna responsável por resolver sozinho a história da família. |
+
+M4.1 reconhece a necessidade antes de explicar sua origem; M4.4–M4.5 investigam hipóteses de repetição e também o presente. M6.6 situa condições e apoios. M7.1 e M7.3 trabalham expressão e escuta sem garantir recepção; M7.4 e M7.7 aprofundam disponibilidade, negociação, limites e responsabilidade; M7.8 diferencia reparação de reconciliação. O quadro completo cabe prioritariamente em M7.4. Nas demais aulas, retomar somente a distinção necessária.
+
+### Padrões que se tornam visíveis
+
+“Padrões que saem para serem trabalhados” expressa uma possibilidade de investigação. Fabiano não atribui uma finalidade ao sofrimento. A situação pode tornar certas necessidades e maneiras de responder mais visíveis, inclusive repetições de faltas e afetos do passado. Crenças, sensações, sentimentos, imagens e memórias podem ganhar forma e oferecer material para reconhecimento e mudança.
+
+Formulação educativa: “Quando uma situação nos mobiliza, podemos perceber necessidades e modos de responder que antes estavam pouco claros. Às vezes reconhecemos algo que se repete. Podemos investigar isso, revisar nossa interpretação e construir condições para outro movimento.”
+
+M2.5–M2.6 diferenciam o observado, o associado, o concluído e o desconhecido. M4.3 acolhe nomes provisórios; M4.4–M4.5 aprofundam o reconhecimento de padrões sem tomar repetição como diagnóstico. M6.5 observa o que efetivamente mudou nos reencontros. A pergunta “o que se repete em mim?” acompanha “o que está acontecendo nesta relação e nestas condições?”. A dor pode envolver uma falta atual real; não é obrigatório identificar um padrão em todo sofrimento.
+
+O espelho é uma imagem auxiliar: a situação ajuda a reconhecer o que se mobiliza e o que está em acordo ou desacordo com a vida que se deseja cultivar. Isso não significa que a realidade externa seja produzida pelo indivíduo ou que o comportamento alheio seja simples reflexo dele. O sentido pode continuar em elaboração.
+
+### Inserção na Masterclass
+
+A apresentação permanece com 67 slides e sete blocos em 90 minutos. No slide 8, a fala distingue visibilidade do padrão e finalidade do sofrimento. O slide 17 incorpora o artesão depois da distinção entre compreender e acessar. O slide 20 apresenta os três planos depois das dimensões da experiência. A condução do slide 27 acolhe associações como hipóteses e a imagem do espelho parcial. O slide 34 apresenta as quatro distinções relacionais após a retomada do caso e a síntese do EIXO.
+
+As telas 17, 20 e 34 substituem telas de síntese, cujas ideias permanecem nas notas. Reservar aproximadamente 45, 75 e 90 segundos, respectivamente, dentro dos blocos existentes e confirmar em ensaio. Preservar tempo de prática e perguntas. A Masterclass introduz as distinções; o curso desenvolve sua aplicação.
+
+Slides: https://chatgpt.com/space/page_5705be6f3cf0819191a642839ccf58e9
+Guia alinhado: [[Guia-de-Conducao-Masterclass-TSH-2026-10-31]]. A data do nome foi preservada para manter os vínculos; o conteúdo registra a atualização de 01/11/2026.
