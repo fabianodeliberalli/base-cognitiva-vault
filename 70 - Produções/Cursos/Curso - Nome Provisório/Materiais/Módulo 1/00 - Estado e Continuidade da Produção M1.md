@@ -3,13 +3,26 @@ tipo: estado-e-continuidade-de-producao
 projeto: Traduzindo o Ser Humano
 recorte_entrega: "M1.1-M1.7"
 status: referencia-atual-revisavel
-versao: "1.2"
+versao: "1.3"
 criado_em: 2026-08-23
-atualizado_em: 2026-10-30
-gravacao_autorizada: false
+atualizado_em: 2026-11-01
+preparacao_de_gravacoes: autorizada
+status_audiovisual: arquivos-finais-e-ensaio-pendentes
 ---
 
-## Raio X vigente — decisão de Fabiano em 24 de outubro de 2026
+## Estado atual — 01/11/2026
+
+Referência curricular: Raio X revisado de 30/10 e refinamentos de 31/10, conforme prompt de produção M1 e ficha mínima atual. Os registros de 24/10 abaixo permanecem históricos. A solicitação atual de Fabiano autoriza desenvolver roteiros e preparar gravações; não exige autorização adicional baseada nos marcadores antigos.
+
+M1.1 possui roteiro oral completo consolidado v0.2, sequência textual de telas, notas de produção, fontes do educador e matriz textual do material do aluno. Fontes e decisões de resgate estão em [[06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54]]. Prática mãos/Qi Gong destinada ao encontro M0/M1; M1 constrói seus alicerces. Encontros pelo Zoom, M0/M1 juntos, oito encontros/16h no curso, conforme ficha mínima.
+
+Arquivos:
+- [[M1.1 - Roteiro oral e caderno de produção v0.2]]
+- [[M1.1 - Registro de percepção expressão e retorno v0.2]]
+
+Próxima ação: derivar PowerPoint, notas do orador, caderno DOCX e ficha PDF/editável, mantendo versão/correspondência; ensaiar duração. Nenhum desses arquivos diagramados foi produzido nesta consolidação. Gravação e publicação não atestadas.
+
+## Histórico — decisão de Fabiano em 24 de outubro de 2026
 
 A única referência vigente do Raio X é o arquivo **RAIO X - congelado(1).docx**, fornecido e confirmado por Fabiano nesta data, preservado integralmente em [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Raio X do Produto/Vigente/Raio-X-Fabiano Deliberalli.docx|Raio X vigente — Word]]. Para leitura e busca, usar [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Raio X do Produto/Vigente/Raio-X-Fabiano Deliberalli - Texto para consulta|Raio X vigente — texto para consulta]]; essa transcrição é derivada do Word e não constitui versão independente.
 
@@ -36,7 +49,7 @@ Coordenar a derivação audiovisual das aulas M1.1–M1.7 sem criar uma terceira
 
 | Aula | Pacote de derivação | Estado atual | Próxima ação |
 |---|---|---|---|
-| M1.1 | [[M1.1 - Pacote de Derivação Audiovisual v0.1]] | insumo preparatório não vinculante; produção oficial não iniciada | abrir no chat de produção e decidir aproveitamento |
+| M1.1 | [[M1.1 - Roteiro oral e caderno de produção v0.2]] e [[M1.1 - Registro de percepção expressão e retorno v0.2]] | roteiro completo consolidado; matriz textual do aluno pronta para diagramação | derivar PPTX/DOCX/PDF e conferir duração |
 | M1.2 | previsto no plano v1.1 | ainda não derivado | iniciar após leitura estrutural de M1.1 |
 | M1.3 | previsto no plano v1.1 | ainda não derivado | preservar competência incorporada como aprofundamento |
 | M1.4 | previsto no plano v1.1 | ainda não derivado | preservar pluralidade criteriosa |
@@ -46,7 +59,7 @@ Coordenar a derivação audiovisual das aulas M1.1–M1.7 sem criar uma terceira
 
 ## Correção de estatuto
 
-A presença de um arquivo preliminar de M1.1 não significa que a produção tenha começado. Ele foi preservado para evitar perda e pode ser aproveitado, ampliado ou substituído conforme o trabalho atual.
+O pacote preliminar v0.1 permanece como histórico. A produção atual foi iniciada e consolidada no roteiro v0.2 em 01/11/2026; usar os arquivos atuais para continuidade.
 
 ## Guardas
 
@@ -56,7 +69,7 @@ A presença de um arquivo preliminar de M1.1 não significa que a produção ten
 - manter o caso composto curricular de M1.1 distinto da história composta da masterclass;
 - preservar energia, espiritualidade, simbolismo, corpo, relação e ciência conforme seus estatutos;
 - realizar leitura longitudinal M1.1–M1.7 antes de storyboards definitivos;
-- distinguir elaboração, teste e gravação; a autorização de gravação depende de decisão específica de Fabiano quando a aula estiver madura.
+- distinguir elaboração, ensaio, geração dos arquivos, gravação e publicação; a preparação está autorizada pela solicitação atual, sem presumir etapas concluídas.
 
 ## Ponto de retomada
 
