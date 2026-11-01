@@ -6,6 +6,12 @@ versao: "0.9"
 atualizado_em: 2026-10-31
 ---
 
+## Diálogo ativo e repertório visual — decisão de 01/11/2026
+
+O TSH busca ativamente o diálogo livre e criterioso entre Freud, psicologia, conhecimentos biológicos e Grandes Tradições, como mapas de dimensões distintas e parcialmente sobrepostas que podem se complementar. A multidimensionalidade humana orienta o trabalho; as linguagens tradicionais e espirituais contribuem em seus próprios termos. Recuperar por pertinência [[TSH - Fotografia da Escada - Repetição, Profundidade e Percurso]] ao produzir M4, M5, M6.5, M7 e M8, além de usos pontuais em M1/M2. A nota preserva dezesseis leituras, grades como limite/proteção/prisão, três planos de antecedentes e diálogo com vṛttis, saṃskāras, vāsanās e karma, fontes e perguntas de aplicação. Vṛttis são movimentos/modificações da mente, não somente tendências repetitivas. Essa correlação é procurada ativamente, sem exigir equivalência de mecanismos ou identidade entre doutrinas.
+
+Imagem-base: [[TSH-escada-adaptacao-IA-scripz.png]]. Fotografia original de [@scripz](https://www.instagram.com/scripz/), autoria informada por Fabiano; adaptação visual por IA para o TSH. Capturas de origem preservadas. Masterclass: imagem/credito no slide 8; diálogo ativo explicitado no slide 58; notas de 19, 20, 40 e 47 aprofundam a condução. Guia e repertório docente sincronizados; 67 slides, 9 módulos, 54 aulas e calendário preservados.
+
 ## Padrão de produção das aulas — decisão de Fabiano em 31/10/2026
 
 Todas as aulas a produzir para as gravações do TSH terão apresentação de apoio em PowerPoint, seguindo o padrão visual da M0.2 e o manual de identidade vigente: marca, paleta, tipografia, hierarquia e legibilidade. Preservar a voz autoral; slides apoiam a fala. Manter roteiro oral completo, notas do orador e caderno de produção sincronizados, com identificação de versão e correspondência por slide. Rever os quatro componentes quando houver alteração de conteúdo. Fundamentação detalhada e orientações de condução ficam nas notas e no caderno.
@@ -116,3 +122,4 @@ Preservar a distinção entre formulações autorais, conhecimentos tradicionais
 Não ler automaticamente todos os documentos da tabela. Escolher apenas a linha pertinente. Documentos extensos, transcrições, montagens e fontes são recuperados sob demanda.
 
 Se a tarefa não exigir mudança autoral, não transformar a resposta em nova deliberação.
+

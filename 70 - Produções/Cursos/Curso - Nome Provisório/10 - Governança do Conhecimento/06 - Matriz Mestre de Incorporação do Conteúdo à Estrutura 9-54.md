@@ -274,3 +274,11 @@ Documento operacional: [[00 - Estado e Continuidade da Produção M1]]. O Orques
 - [[00 - Índice e Estado do Raio X - Mentoria - 2026-08-04]]
 - [[07 - Deliberação Transversal - Posicionamento, Linguagem e Arquitetura Dupla - 2026-08-23]]
 - [[10 - Raio X do Produto/Consultoria/2026-08-23 - Copy Canônica - Página e Checkout - Traduzindo o Ser Humano]]
+
+
+
+## Diálogo ativo e fotografia — incorporação de 01/11/2026
+
+Consultar [[TSH - Fotografia da Escada - Repetição, Profundidade e Percurso]] como material de base na produção das aulas. O TSH busca ativamente relações entre Freud, psicologia, conhecimentos biológicos e Grandes Tradições, com complementaridade investigada e preservação das linguagens. A nota inclui vṛttis (movimentos da mente), saṃskāras (impressões), vāsanās (tendências), karma (ação e efeitos), fontes, distinções e usos transpessoais. M4: repetição e elaboração; M5: aprofundamento tradicional e espiritual; M6.5: intenção, prática, condições e efeitos; M7/M8: limites, colaboração, expressão e cultivo. As dezesseis leituras da escada permanecem disponíveis, inclusive grades como prisão.
+
+Acervo: [[TSH-escada-adaptacao-IA-scripz.png]], com fotografia original de [@scripz](https://www.instagram.com/scripz/) e adaptação por IA identificada; capturas originais preservadas. A Masterclass utiliza a imagem no slide 8, explicita o diálogo ativo no 58 e inclui notas nos slides 19, 20, 40 e 47. O Guia e o caderno docente foram atualizados. Não houve alteração de módulos, aulas, datas ou duração da Masterclass.
