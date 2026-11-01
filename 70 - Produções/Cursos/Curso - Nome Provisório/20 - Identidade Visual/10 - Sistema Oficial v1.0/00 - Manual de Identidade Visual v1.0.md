@@ -29,6 +29,18 @@ tags:
   - sistema-responsivo
 ---
 
+## Aplicação transversal na produção de aulas — 31/10/2026
+
+Fabiano solicitou que o manual anexado seja a base visual onde pertinente e que a marca acompanhe slides e entregáveis. Aplicar a marca nuclear com proporções e proteção preservadas. Em slides, usar uma assinatura legível no canto; em cadernos/fichas, assegurar identificação sem ocupar o espaço de resposta. A aplicação não exige marca d’água atrás do texto nem logotipo em cada célula. Paleta #082A45, #173F52, #245E78, #C99A64 e #F4EFEA; Inter nos materiais pedagógicos, EB Garamond nos títulos institucionais e logotipo conforme original.
+
+O PDF anexado de julho contém o subtítulo anterior “Da compreensão acumulada à mudança vivida”. O Raio X e esta nota utilizam “Da compreensão acumulada à presença que sustenta”. A anexação não reverte a redação vigente. Na M0.2 foi usada a marca nuclear, evitando transportar a assinatura antiga.
+
+PDF original: [[90 - Anexos/TSH/Manual_de_Identidade_Visual_TSH_v1.0_2026-07-30.pdf]]. Imagem nuclear extraída sem redesenho da página 11: [[90 - Anexos/TSH/Marca_nuclear_extraida_manual_v1.0.jpg]]. Trata-se de reprodução raster para uso digital, não recuperação dos vetores ausentes. Os originais vetoriais permanecem pendentes para aplicações que os exijam.
+
+Não alterar mapas autorais ou imagens históricas internamente apenas para padronizar cores. Aplicar identidade no suporte e preservar conteúdo, procedência e legibilidade.
+
+
+
 # Manual de Identidade Visual v1.0 — Traduzindo o Ser Humano
 
 ## 1. Estatuto
