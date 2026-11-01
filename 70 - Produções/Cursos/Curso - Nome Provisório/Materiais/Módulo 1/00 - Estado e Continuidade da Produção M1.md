@@ -3,24 +3,24 @@ tipo: estado-e-continuidade-de-producao
 projeto: Traduzindo o Ser Humano
 recorte_entrega: "M1.1-M1.7"
 status: referencia-atual-revisavel
-versao: "1.3"
+versao: "1.4"
 criado_em: 2026-08-23
 atualizado_em: 2026-11-01
 preparacao_de_gravacoes: autorizada
-status_audiovisual: arquivos-finais-e-ensaio-pendentes
+status_audiovisual: materiais-revisados-para-revisao-final-e-ensaio
 ---
 
 ## Estado atual — 01/11/2026
 
 Referência curricular: Raio X revisado de 30/10 e refinamentos de 31/10, conforme prompt de produção M1 e ficha mínima atual. Os registros de 24/10 abaixo permanecem históricos. A solicitação atual de Fabiano autoriza desenvolver roteiros e preparar gravações; não exige autorização adicional baseada nos marcadores antigos.
 
-M1.1 possui roteiro oral completo consolidado v0.2, sequência textual de telas, notas de produção, fontes do educador e matriz textual do material do aluno. Fontes e decisões de resgate estão em [[06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54]]. Prática mãos/Qi Gong destinada ao encontro M0/M1; M1 constrói seus alicerces. Encontros pelo Zoom, M0/M1 juntos, oito encontros/16h no curso, conforme ficha mínima.
+M1.1 possui roteiro/caderno de produção v0.3, apresentação editável de 13 slides com notas integrais sincronizadas, ficha do aluno v0.3 em Word/PDF e caderno de aprofundamento v1.1 em Word/PDF. Revisão de alinhamento concluída nesta frente; arquivos, decisões e fontes em [[M1.1 - Alinhamento e continuidade dos materiais]]. Fontes e decisões de resgate estão em [[06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54]]. Prática mãos/Qi Gong destinada ao encontro M0/M1; M1 constrói seus alicerces. Encontros pelo Zoom, M0/M1 juntos, oito encontros/16h no curso, conforme ficha mínima.
 
 Arquivos:
-- [[M1.1 - Roteiro oral e caderno de produção v0.2]]
-- [[M1.1 - Registro de percepção expressão e retorno v0.2]]
+- [[M1.1 - Roteiro oral e caderno de produção v0.3]]
+- [[M1.1 - Registro de percepção expressão e retorno v0.3]]
 
-Próxima ação: derivar PowerPoint, notas do orador, caderno DOCX e ficha PDF/editável, mantendo versão/correspondência; ensaiar duração. Nenhum desses arquivos diagramados foi produzido nesta consolidação. Gravação e publicação não atestadas.
+Próxima ação: revisão final autoral e ensaio da M1.1 (estimativa 18–23 minutos); depois M1.2. Materiais diagramados e apresentação conferidos. Gravações ainda não iniciadas; nenhuma publicação ou operação na Hotmart realizada.
 
 ## Histórico — decisão de Fabiano em 24 de outubro de 2026
 
@@ -49,7 +49,7 @@ Coordenar a derivação audiovisual das aulas M1.1–M1.7 sem criar uma terceira
 
 | Aula | Pacote de derivação | Estado atual | Próxima ação |
 |---|---|---|---|
-| M1.1 | [[M1.1 - Roteiro oral e caderno de produção v0.2]] e [[M1.1 - Registro de percepção expressão e retorno v0.2]] | roteiro completo consolidado; matriz textual do aluno pronta para diagramação | derivar PPTX/DOCX/PDF e conferir duração |
+| M1.1 | [[M1.1 - Roteiro oral e caderno de produção v0.3]] e [[M1.1 - Registro de percepção expressão e retorno v0.3]] | roteiro, 13 slides/notas, ficha e aprofundamento revisados e sincronizados | revisão final autoral e ensaio |
 | M1.2 | previsto no plano v1.1 | ainda não derivado | iniciar após leitura estrutural de M1.1 |
 | M1.3 | previsto no plano v1.1 | ainda não derivado | preservar competência incorporada como aprofundamento |
 | M1.4 | previsto no plano v1.1 | ainda não derivado | preservar pluralidade criteriosa |
@@ -59,7 +59,7 @@ Coordenar a derivação audiovisual das aulas M1.1–M1.7 sem criar uma terceira
 
 ## Correção de estatuto
 
-O pacote preliminar v0.1 permanece como histórico. A produção atual foi iniciada e consolidada no roteiro v0.2 em 01/11/2026; usar os arquivos atuais para continuidade.
+O pacote preliminar v0.1 permanece como histórico. A produção foi consolidada no roteiro v0.2 e revista no conjunto v0.3 em 01/11/2026. As versões anteriores permanecem históricas; usar [[M1.1 - Alinhamento e continuidade dos materiais]] para continuidade.
 
 ## Guardas
 
