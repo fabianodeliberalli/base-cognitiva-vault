@@ -71,3 +71,10 @@ A versão Markdown v1.1 permanece histórica e não governa a condução atual.
 - [[07 - Deliberação Transversal - Posicionamento, Linguagem e Arquitetura Dupla - 2026-08-23]]
 - [[05 - Nota-Ponte - Desenvolvimento do Conteúdo 7-14 e Entrega 9-54]]
 - [[06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54]]
+
+
+## Incorporação visual de 1 de novembro — escada, espelho e efeitos
+
+A apresentação mantém 67 slides. A fotografia do quadro da escada foi incluída no slide 8, com fala de 35–45 segundos dentro do bloco e retomada verbal no slide 40. O espelho com reflexos sucessivos está no slide 27. O artesão (17), as árvores (19 e 33), o pêndulo (36) e a espiral circular ascendente com eixo (40) permanecem. As notas acolhem a distinção entre grades como proteção, limite e prisão. Detalhamento em [[TSH - Fotografia da Escada - Repetição, Profundidade e Percurso]].
+
+A versão para apresentação ao vivo é [TSH-Masterclass-Animada.pptx](https://chatgpt.com/library?file_id=libfile_63be9c5377b4819192ea99988a4f186a&account_id=personal), com efeitos adaptados do CEEP e avanço por clique. A cópia no editor mantém conteúdo e imagens; os efeitos estão no PPTX. [Guia atualizado](https://chatgpt.com/library?file_id=libfile_04a3c987324c8191b43d26e8381ad866&account_id=personal). A reprodução dinâmica no aplicativo PowerPoint não foi testada neste ambiente. As datas e a arquitetura do Raio X não foram alteradas.

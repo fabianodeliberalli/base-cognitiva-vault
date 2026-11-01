@@ -148,3 +148,8 @@ Aprofundamentos: amplitude/impacto funcional, velocidade de mudança, permanênc
 O pêndulo descreve mudanças numa experiência; a espiral compara nossa participação nos reencontros. A ampliação da perspectiva pode revelar alternativas; realizá-las pode exigir mudanças de condições. Destinos: M1.7, M3, M4.6 e M6.3–M6.5.
 
 Fonte integrativa: [[TSH - Síntese Integrativa do Refinamento]]. Incorporação solicitada por Fabiano; práticas descritas permanecem propostas de desenvolvimento e condução autoral.
+
+
+## Fotografia da escada — 1 de novembro de 2026
+
+[[TSH - Fotografia da Escada - Repetição, Profundidade e Percurso]] reúne dezesseis leituras didáticas, perguntas, práticas e destinos curriculares. A fotografia oferece recorrência, profundidade, perspectiva, apoios, patamares e limites. Por solicitação de Fabiano, as grades incluem explicitamente proteção e prisão, considerando restrições internas e externas. O espelho reconhece recorrências; a escada explora posições e condições; a espiral compara reencontros. Uso prioritário em M4 e M6.5, com retomadas selecionadas. As duas capturas originais estão preservadas junto à nota; a atual requer controle de reflexos para reprodução definitiva.
