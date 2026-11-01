@@ -153,3 +153,11 @@ Fonte integrativa: [[TSH - Síntese Integrativa do Refinamento]]. Incorporação
 ## Fotografia da escada — 1 de novembro de 2026
 
 [[TSH - Fotografia da Escada - Repetição, Profundidade e Percurso]] reúne dezesseis leituras didáticas, perguntas, práticas e destinos curriculares. A fotografia oferece recorrência, profundidade, perspectiva, apoios, patamares e limites. Por solicitação de Fabiano, as grades incluem explicitamente proteção e prisão, considerando restrições internas e externas. O espelho reconhece recorrências; a escada explora posições e condições; a espiral compara reencontros. Uso prioritário em M4 e M6.5, com retomadas selecionadas. As duas capturas originais estão preservadas junto à nota; a atual requer controle de reflexos para reprodução definitiva.
+
+
+
+## Diálogo ativo e fotografia — incorporação de 01/11/2026
+
+Consultar [[TSH - Fotografia da Escada - Repetição, Profundidade e Percurso]] como material de base na produção das aulas. O TSH busca ativamente relações entre Freud, psicologia, conhecimentos biológicos e Grandes Tradições, com complementaridade investigada e preservação das linguagens. A nota inclui vṛttis (movimentos da mente), saṃskāras (impressões), vāsanās (tendências), karma (ação e efeitos), fontes, distinções e usos transpessoais. M4: repetição e elaboração; M5: aprofundamento tradicional e espiritual; M6.5: intenção, prática, condições e efeitos; M7/M8: limites, colaboração, expressão e cultivo. As dezesseis leituras da escada permanecem disponíveis, inclusive grades como prisão.
+
+Acervo: [[TSH-escada-adaptacao-IA-scripz.png]], com fotografia original de [@scripz](https://www.instagram.com/scripz/) e adaptação por IA identificada; capturas originais preservadas. A Masterclass utiliza a imagem no slide 8, explicita o diálogo ativo no 58 e inclui notas nos slides 19, 20, 40 e 47. O Guia e o caderno docente foram atualizados. Não houve alteração de módulos, aulas, datas ou duração da Masterclass.

@@ -12,11 +12,11 @@ autor_do_projeto: Fabiano Deliberalli
 
 Repertório para construir aulas, falas e práticas do TSH a partir da fotografia de uma escada que Fabiano possui em um quadro. O pedido de incorporação foi feito em 01/11/2026. As leituras abaixo são propostas pedagógicas abertas à revisão do autor e às associações dos participantes. Não pretendem determinar o significado da obra nem esgotar suas interpretações.
 
-Arquivo atual: escada espiral.jpeg, 1600 × 900 pixels, enviado após a primeira captura. O enquadramento mostra quase todo o quadro, mas apresenta reflexos visíveis da pessoa e do ambiente, sobretudo no centro e à direita. Arquivo anterior preservado: espiral.jpeg, 900 × 1600 pixels, com perspectiva oblíqua e lateral direita parcialmente fora do enquadramento. Ambos são fotografias do quadro na parede. O arquivo fotográfico original não está disponível. Fotógrafo, título, local e data da obra não foram informados. A origem clínica da relação com o fotógrafo não integra a apresentação pública.
+Arquivo atual: escada espiral.jpeg, 1600 × 900 pixels, enviado após a primeira captura. O enquadramento mostra quase todo o quadro, mas apresenta reflexos visíveis da pessoa e do ambiente, sobretudo no centro e à direita. Arquivo anterior preservado: espiral.jpeg, 900 × 1600 pixels, com perspectiva oblíqua e lateral direita parcialmente fora do enquadramento. Ambos são fotografias do quadro na parede. O arquivo fotográfico original não está disponível. Autoria informada por Fabiano: @scripz, https://www.instagram.com/scripz/ . Título, local e data da obra não foram informados. A origem clínica da relação com o fotógrafo não integra a apresentação pública.
 
-![[TSH-escada-fotografia-do-quadro-atual.jpeg]]
+![[TSH-escada-adaptacao-IA-scripz.png]]
 
-A reprodução acima preserva os bytes recebidos. Na Masterclass, o enquadramento é ajustado no próprio slide, sem reconstrução generativa. Nome e crédito do fotógrafo e condições de utilização em aulas gravadas, materiais e divulgação devem ser combinados com o autor. A relação pessoal de Fabiano com o quadro pode ser mencionada sem atribuir ao fotógrafo uma interpretação que ele não declarou.
+A imagem acima é uma adaptação visual por IA para o TSH, realizada a partir da captura do quadro. Retira moldura, parede e reflexos, com reconstrução de detalhes; preserva o caráter fotográfico e a composição em profundidade. As duas capturas recebidas permanecem preservadas separadamente. Crédito de uso: Fotografia original: @scripz · Adaptação visual por IA para o TSH. A interpretação pedagógica é de Fabiano e não deve ser atribuída ao fotógrafo.
 
 ## O que a imagem efetivamente mostra
 
@@ -161,6 +161,79 @@ Formulação de trabalho: “Uma situação pode tornar mais visível uma maneir
 
 Evitar “a vida repete a lição até aprendermos” como explicação geral. O sofrimento não recebe uma finalidade automática, e a repetição não se encerra necessariamente pelo insight. Também não é necessário encontrar uma origem remota para agir sobre uma condição atual.
 
+## Diálogo ativo entre mapas — decisão autoral de 01/11/2026
+
+O TSH busca ativamente o diálogo livre e criterioso entre Freud, outras perspectivas psicológicas, conhecimentos biológicos e as Grandes Tradições. Esses mapas investigam dimensões distintas e parcialmente sobrepostas da experiência humana e podem se complementar em algum grau. A multidimensionalidade é uma orientação constitutiva do projeto: ampliar, correlacionar, traduzir e fundamentar são movimentos de trabalho, não concessões ocasionais à espiritualidade.
+
+Em diferentes tempos, culturas e linguagens, encontram-se questões recorrentes sobre sofrimento, repetição, identificação, liberdade, cultivo e transformação. O TSH investiga essas ressonâncias sem pressupor que os conceitos sejam idênticos. A linguagem científica não é requisito de legitimidade para uma linguagem tradicional ou espiritual. Cada fonte pode contribuir em seus próprios termos, com seus pressupostos, finalidades e modos de conhecer; a correlação autoral explicita o acréscimo que oferece ao ensino.
+
+Não adotar uma divisão histórica rígida entre épocas exclusivamente biológicas/psicológicas e épocas exclusivamente espirituais: diferentes olhares coexistem, inclusive dentro das tradições. O ponto autoral é reconhecer que a experiência humana pode ser explorada por diferentes entradas, sem esgotar-se em qualquer delas. A semelhança de perguntas é motivo para investigar, e as diferenças também ensinam.
+
+### Vṛttis, saṃskāras e vāsanās: relações que ajudam a traduzir
+
+No Yoga de Patañjali, vṛttis são modificações, atividades ou movimentos da mente. Podem participar de configurações repetitivas, mas não designam somente tendências de repetição. Os sūtras 1.5–1.11 distinguem cinco classes, incluindo conhecimento válido, conhecimento equivocado, construção conceitual, sono e memória. Nem todo movimento mental é prejudicial. Saṃskāras designam impressões; vāsanās, tendências ou disposições latentes, com variações de tradução e interpretação.
+
+Para fins pedagógicos, distinguir o movimento que se manifesta agora, as impressões relacionadas à história e as tendências que podem favorecer sua recorrência. Esses conceitos se relacionam na tradição, mas não devem ser fixados como três compartimentos psicológicos ou uma cadeia causal universal. A associação com o TSH é uma tradução didática situada.
+
+| Referência | Contribuição para o TSH | Distinção necessária |
+|---|---|---|
+| Freud: repetição e elaboração | Podemos repetir nas ações e relações algo cuja participação em nossa história ainda não reconhecemos suficientemente. | Reconhecer intelectualmente uma repetição não equivale a elaborá-la. |
+| Yoga de Patañjali: vṛttis | Investigar os movimentos da mente que se apresentam agora e a identificação com eles; observar quais configurações se repetem. | Vṛtti não é sinônimo de trauma ou tendência latente; inclui diferentes atividades mentais. |
+| Yoga de Patañjali: saṃskāras e vāsanās | Impressões e tendências oferecem uma linguagem para investigar a continuidade de disposições e sua manifestação sob determinadas condições. | Pertencem a uma tradição própria; não são traduções exatas do inconsciente freudiano. |
+| Karma no budismo: intenção e ação | Investigar o que cultivamos por meio de intenções, ações, palavras e seus efeitos. | Karma não se reduz a destino, punição ou repetição involuntária. |
+| Perspectiva espiritual autoral do TSH | Investigar continuidade da existência, encarnação e libertação de condicionamentos. | Explicitar a perspectiva de Fabiano, sem atribuí-la integralmente a Freud ou a todas as tradições orientais. |
+
+### O acréscimo transpessoal e suas consequências
+
+O diálogo amplia o horizonte do TSH para além da biografia consciente e de explicações exclusivamente biológicas ou traumáticas. Permite investigar identificação, cultivo, sentido, pertencimento e liberdade em relação aos condicionamentos. A pessoa não se esgota no padrão, e a dimensão espiritual pode oferecer referência para a participação concreta.
+
+Freud não precisa validar karma; karma não precisa funcionar como comprovação de Freud. O encontro pode ocorrer entre perguntas, descrições da experiência, práticas e possibilidades de transformação. A complementaridade é examinada em cada aproximação, incluindo divergências sobre Eu, consciência, continuidade e libertação. As tradições têm diferenças internas e entre si; “Grandes Tradições” não designa uma doutrina única.
+
+A continuidade espiritual não deve ser confundida com herança familiar ou transmissão biológica. Repetição não é prova de vida anterior nem de transmissão epigenética. Karma não autoriza atribuir culpa a quem sofre ou supor que uma restrição externa foi escolhida para aprender. O trabalho inclui condições materiais, relações, colaboração e mudanças no ambiente.
+
+### Leituras da escada em diálogo com esses mapas
+
+| Elemento | Ampliação possível | Pergunta de trabalho |
+|---|---|---|
+| Lances e contornos recorrentes | Repetição na ação; movimentos mentais recorrentes; manifestação de disposições. | O que se repete: acontecimento, interpretação, impulso, resposta ou efeito? |
+| Profundidade | História pessoal e familiar; impressões; continuidade da existência no horizonte espiritual autoral. | Que antecedentes conheço e quais permanecem como hipótese ou mistério? |
+| Patamar e mudança de direção | Tempo de elaboração, prática e abertura para outra participação. | O que posso cultivar e que condições precisam mudar? |
+| Grades e corrimãos | Sustentação, identificação, limite e aprisionamento interno ou externo. | O que me sustenta e o que restringe minha liberdade real de movimento? |
+| Vão e referência vertical | Relação entre os momentos do percurso e abertura a um horizonte maior. | O que orienta minha participação para além da reação imediata? |
+| Reencontro em outro ponto | Comparação de condições, intenção, resposta e consequências. | Houve diferença concreta? O que ainda exige trabalho ou apoio? |
+
+Essas leituras ampliam as dezesseis explorações anteriores, sem substituí-las. Não transformar ascensão em escala de superioridade espiritual. Uma descida pode representar aprofundamento; sair do percurso pode ser necessário. A metáfora não promete que a vida repetirá uma lição até que seja aprendida.
+
+### Exemplo renovado: “ou cedo ou rompo”
+
+Na situação atual, surge “se eu discordar, serei abandonado”. O professor pode investigar esse movimento da mente em diálogo com vṛtti; perguntar por impressões e disposições recorrentes em diálogo com saṃskāra e vāsanā; examinar a atualização da história nas relações com Freud; e considerar intenção, ação e efeitos em diálogo com karma. São perguntas complementares, não diagnósticos sobre a origem da situação.
+
+Uma alternativa pode envolver reconhecer a urgência, pedir tempo, buscar apoio, formular uma necessidade, estabelecer um limite ou deixar a relação. O trabalho não exige demonstrar primeiro a origem do padrão. O próximo reencontro permite comparar o que foi possível e o que ainda depende de outras condições.
+
+### Endereços para a produção das aulas
+
+| Lugar | Incorporação | Uso docente |
+|---|---|---|
+| Masterclass, slide 8 | Escada como abertura para repetição, condições e outra participação. | Fala breve; não listar termos sânscritos. |
+| Masterclass, slides 19–20 e 58 | Multidimensionalidade e diálogo ativo entre psicologia, ciência e Grandes Tradições. | Uma formulação afirmativa, com referências nas notas. |
+| M4 — Emoções e padrões | Freud, repetição e elaboração; pessoa não se esgota no padrão. | Investigar a presença atual da história e suas condições. |
+| M5 — Valores e referência profunda | Vṛttis, saṃskāras, vāsanās e karma, suas fontes e diálogo com a perspectiva espiritual. | Aprofundamento conceitual; em M5.5–M5.8, selecionar usos simbólicos e transpessoais pertinentes. |
+| M6.5 — Espiral | Intenção, prática, condições e efeitos nos reencontros. | Comparar episódios sem pressupor progresso automático. |
+| M7 — Relações e expressão | Escolhas, limites, reciprocidade, poder e colaboração. | Diferenciar trabalho pessoal e condições externas. |
+| M8 — Continuidade | Cultivo, apoios e revisão do percurso. | Selecionar continuidade possível e observar efeitos. |
+
+Ao preparar essas aulas, recuperar esta nota e o Raio X vigente. Selecionar a contribuição pertinente, indicar a fonte e a pergunta que ela acrescenta, preservando liberdade de criação. Não inserir todos os conceitos em cada aula nem transformar o repertório em tarefa de memorização.
+
+### Fontes para consulta localizada
+
+- Patañjali, Yoga Sūtras 1.2–1.14: vṛttis, identificação e prática; 2.12: ações e continuidade; 4.8–4.11: disposições, impressões e condições. Tradução de J. H. Woods (1914): https://www.theessentialway.org/yoga-sutras/
+- Patañjali, Yoga Sūtra 2.12, tradução de Rāma Prasāda com comentários tradicionais: https://www.wisdomlib.org/hinduism/book/yoga-sutras-with-commentaries/d/doc1216663.html
+- AN 6.63, Nibbedhika Sutta: intenção, ação e efeitos. Tradução de Ṭhānissaro Bhikkhu: https://www.dhammatalks.org/suttas/AN/AN6_63.html
+- SN 36.21, Sivaka Sutta: rejeição da atribuição de toda experiência a ações anteriores; pluralidade de condições: https://www.dhammatalks.org/suttas/SN/SN36_21.html
+- Freud (1914), Recordar, repetir e elaborar: https://www.marxists.org/reference/subject/philosophy/works/at/catharsis.htm
+
+
+
 ## Distribuição no percurso
 
 | Destino | Uso selecionado | Evidência de aprendizagem possível |
@@ -188,7 +261,7 @@ Comparação: a espiral examina o que mudou e o que não mudou. A outra pessoa p
 
 Inserção no slide 8, “Quando a resposta conhecida se repete”, preservando o texto e os 67 slides. A fotografia entra como referência de recorrência e contexto, com fala de 35–45 segundos dentro do tempo já reservado. O espelho permanece no slide 27 e a hélice circular com eixo no slide 40. A passagem final retoma verbalmente a escada por cerca de dez segundos, sem outra imagem ou novo bloco.
 
-Fala sugerida: “Tenho este quadro na minha parede. Os lances se parecem, e nosso olhar encontra formas que reaparecem. Na vida, uma situação também pode mobilizar uma interpretação conhecida, uma resposta habitual e seus efeitos. Podemos investigar o que se repete e o que é diferente desta vez. Mais adiante, vamos distinguir reconhecer esse movimento de construir condições para participar de outra maneira.”
+Fala sugerida: “Tenho este quadro na minha parede. Os lances se parecem, mas ocupam posições diferentes. Essa imagem me ajuda a perguntar o que se repete e o que muda na nossa maneira de participar. Freud investigou a repetição; tradições contemplativas também desenvolveram mapas dos movimentos da mente e dos condicionamentos. No TSH, buscamos esse diálogo para compreender a experiência e construir condições para outro movimento.”
 
 Retomada no slide 40: “Lembram da escada? A forma pode reaparecer enquanto nossa posição muda. A espiral nos ajuda a observar o que mudou nas condições, na resposta e nos efeitos.”
 
@@ -210,15 +283,15 @@ Perguntar o que a imagem desperta antes de oferecer os sentidos do professor. Pe
 
 ## Reprodução e uso da obra
 
-A melhor opção é obter nova fotografia frontal do quadro ou uma reprodução profissional. A captura atual basta para mostrar o quadro como objeto presente na vida de Fabiano, mas limita uma reprodução limpa em tela cheia.
+Para reprodução fiel da obra, a melhor opção continua sendo obter o arquivo original ou uma reprodução profissional. Para o uso didático atual, foi escolhida a adaptação por IA já produzida, com identificação clara dessa intervenção.
 
 Para uma nova captura: limpar a lente; posicionar a câmera na altura do centro da obra e paralela à superfície; incluir os quatro cantos e pequena margem; preencher a maior parte do enquadramento; usar luz difusa e uniforme, sem flash; controlar reflexos; apoiar o celular; evitar lente ultrawide, modo retrato e zoom digital; enviar o arquivo original na resolução máxima, sem captura de tela ou compressão de mensageiro. Se houver vidro, não desmontar a obra sem segurança; uma reprodução profissional pode controlar reflexos.
 
 Digitalização por scanner é apropriada apenas se a impressão puder ser retirada e acomodada sem risco, dobra ou pressão. Para quadro grande ou montado, uma boa reprodução fotográfica é mais prática. Não é necessário escanear para preparar slides.
 
-Ajustes de enquadramento, perspectiva, exposição e cor podem melhorar uma captura completa sem reinventar a arquitetura. A primeira captura não inclui toda a borda direita; a segunda melhora o enquadramento, mas os reflexos encobrem detalhes. Retificar ou retirar parede não recupera com certeza os dados ausentes ou encobertos. Ampliação por IA pode suavizar defeitos ou criar detalhes plausíveis, mas não recupera com certeza o original. Reconstrução generativa deve ser identificada como adaptação inspirada na obra, em arquivo separado. Não foi produzida nesta etapa.
+Ajustes de enquadramento, perspectiva, exposição e cor podem melhorar uma captura completa sem reinventar a arquitetura. A primeira captura não inclui toda a borda direita; a segunda melhora o enquadramento, mas os reflexos encobrem detalhes. Retificar ou retirar parede não recupera com certeza os dados ausentes ou encobertos. Ampliação por IA pode suavizar defeitos ou criar detalhes plausíveis, mas não recupera com certeza o original. Reconstrução generativa deve ser identificada como adaptação inspirada na obra, em arquivo separado. A adaptação foi produzida em 01/11/2026 e está identificada separadamente no acervo.
 
-Produção atual: imagem original no repositório, enquadramento não destrutivo no slide 8, notas do orador e Guia sincronizados, animações mantidas no PPTX. Pendências de qualidade: nova captura frontal e informação de autoria/crédito.
+Produção atual: capturas originais preservadas, adaptação por IA de 1536 × 1024 pixels incorporada ao acervo e ao slide 8, crédito a @scripz, notas e Guia sincronizados. Slide 58 explicita psicologia e Grandes Tradições em diálogo ativo. As animações do PPTX permanecem. O arquivo fotográfico original da obra continua indisponível, sem bloquear o uso da adaptação didática.
 
 ## Fontes e continuidade
 
@@ -228,3 +301,4 @@ Freud, S. (1914). Recordar, repetir e elaborar. https://www.marxists.org/referen
 Freud, S. (1920). Além do princípio do prazer. https://www.lutecium.org/ftp/Freud/pdf/1920_beyond_the_pleasure_principle.pdf
 Government of Newfoundland and Labrador. How to Photograph Your Art. https://www.gov.nl.ca/tcar/artsheritage/culture/arts-and-letters-program/suggestions-for-photographing-your-artwork/
 Canadian Conservation Institute. Lighting Methods for Photographing Museum Objects. https://publications.gc.ca/collections/collection_2025/pch/CH57-4-2-2010-eng.pdf
+
