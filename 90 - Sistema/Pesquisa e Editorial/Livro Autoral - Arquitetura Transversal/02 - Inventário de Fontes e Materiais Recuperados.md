@@ -3,6 +3,7 @@ tipo: inventario-de-fontes
 status: vivo
 autoridade_final: Fabiano Deliberalli
 criado_em: 2026-10-03
+atualizado_em: 2026-10-04
 ---
 
 # Inventário de Fontes e Materiais Recuperados
@@ -112,3 +113,19 @@ Para respeitar direitos autorais e evitar duplicação de arquivos publicados, e
 - materiais de Rabeyron já sintetizados na biblioteca temática do projeto.
 
 A existência da cópia pessoal não transforma a fonte em autoridade automática. Cada uso deve registrar a afirmação apoiada e o limite da extrapolação.
+
+
+## F. Monografias e materiais históricos incorporados à leitura substantiva — 04/10/2026
+
+| Fonte | Data/estatuto | Entrada na investigação |
+|---|---|---|
+| [[MONOGRAFIA Acupuntura]] — *Um estudo da relação mente/corpo/espírito na Medicina Tradicional Chinesa* | Capa: fevereiro de 2004; texto autoral de conclusão do curso CEMETRAC | Corpo, consciência, organização, memória, expressão, fronteiras e integração; reexaminar as equivalências entre modelos tradicionais e explicações científicas. |
+| [[Monografia Pos Transpessoal]] — *O normal e o patológico nas vivências espirituais: explorações psicanalíticas e transpessoais* | Pós concluída em 2010; certificado em 2011, segundo [[21 - Psicologia Transpessoal - FACIS - Monografia e Certificado 2010-2011]] | Experiência, simbolização, self, ambiente, estados/estágios, integração e pluralidade de perspectivas. A versão de graduação de 2009 é distinta e não foi confrontada integralmente. |
+| [[Essência - Workshop vivencial]] | Sem data segura de composição; proposta e materiais de estudo heterogêneos | Condicionamento, liberdade, essência, corpo, presença, Três Eus, informação e transmissão pedagógica; separar redação de proposta, citações e colagens. |
+| [[Mentalma - 17-07-21]] | Apontamentos com datas de 17/07/2021 no título e 27/11/2021 em seção interna; autoria de cada proposição não estabelecida | Automatismo, observador/definidor, respiração, vontade e incerteza; documento de estudo, sem presumir adesão autoral a cada afirmação. |
+| [[curriculum]] do OneNote | Histórico, sem data única; reúne versões e contém data de pós depois reconciliada | Relato da integração de corpo, clínica e espiritualidade. Para datas, confrontar [[01 - Dossiê Curricular Mestre]]. |
+| [[24 - Complemento Documental Shiozawa Bioenergologia e Formação Histórica 1982-2019]], [[12 - Dossiê MTC Qi Gong e Corpo - Certificados PDF 1995-2018]] e [[11 - Dossiê Clínico e Trauma - Certificados PDF 2010-2022]] | Auditorias retrospectivas preservadas no vault, com apontadores a certificados | Localização de marcos dos anos 1980–2020. Formação documentada não comprova, por si só, formulação autoral contemporânea de cada problema. |
+
+Escopo da leitura e localizadores de seções: [[01 - Mapa Preliminar dos Grandes Problemas do Corpus#Alcance documental desta leitura]]. As monografias foram examinadas nos seus argumentos centrais pertinentes à cartografia; não se declara auditoria integral de cada referência. Os originais dos certificados não foram reinspecionados nesta fase.
+
+Essas fontes entram nos ciclos pertinentes já aprovados. Não precisam constituir um ciclo histórico separado nem exigir a recuperação de todo o acervo antes do Ciclo 1.

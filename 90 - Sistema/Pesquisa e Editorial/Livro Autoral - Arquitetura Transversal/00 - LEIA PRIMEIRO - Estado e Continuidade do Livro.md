@@ -3,8 +3,9 @@ tipo: estado-e-continuidade-livro
 status: referencia-atual-revisavel
 autoridade_final: Fabiano Deliberalli
 criado_em: 2026-10-03
+atualizado_em: 2026-10-04
 projeto: livro-autoral
-fase: cartografia-transversal-do-corpus
+fase: cartografia-aprovada-ampliada-historicamente
 ---
 
 # LEIA PRIMEIRO — Estado e Continuidade do Livro
@@ -41,10 +42,23 @@ Fluxo de cada ciclo:
 Eixos transversais:
 - memória e temporalidade;
 - corpo e regulação;
-- cultura, símbolo e mundos compartilhados (a desenvolver conforme o corpus justificar).
+- cultura, símbolo e mundos compartilhados, mantido ativo pela leitura do corpus.
+
+## Aprovação e ampliação de 04/10/2026
+
+Fabiano aprovou a cartografia, a ordem revista de sete ciclos e as propostas de continuidade. Solicitou incorporar substantivamente as monografias de Acupuntura e Psicologia Transpessoal e os materiais históricos, avaliar a sustentação documental da trajetória e examinar um ou dois livros de modo integrado à pesquisa.
+
+A contribuição efetiva do percurso, inclusive clínico e pessoal, orienta a investigação. Novidade isolada de constructos não é requisito. A articulação discriminada entre problemas será avaliada pelo que acrescenta à compreensão, ao discernimento e à transmissão do trabalho.
+
+A leitura histórica e seus limites estão em [[01 - Mapa Preliminar dos Grandes Problemas do Corpus#Avaliação da cartografia e ampliação histórica — 04/10/2026]]. Ela distingue antecedentes, textos autorais datados, registros de formação e materiais sem data. A recorrência intelectual é substancial desde 2004; não se afirma que todas as constelações atuais estejam documentalmente formuladas em todas as décadas.
+
+A aprovação do mapa não encerra a pesquisa nem torna as novas interpretações históricas decisões do autor. Sete núcleos substantivos e a camada epistemológica/ética continuam revisáveis; relação e fronteiras serão investigadas conjuntamente, mantendo suas diferenças.
 
 ## Fontes centrais já posicionadas
 
+- [[MONOGRAFIA Acupuntura]] — fevereiro de 2004.
+- [[Monografia Pos Transpessoal]] — conclusão da pós em 2010; distinguir da pesquisa de graduação de 2009.
+- Materiais históricos e limites de data/autoria: [[02 - Inventário de Fontes e Materiais Recuperados]].
 - [[Matriz_Preliminar_AISB_Organizacao_do_Corpus_2026-09-09]]
 - [[Arquitetura Invisível]]
 - [[Arquitetura_Invisivel_capitulo_consolidado - fonte recuperada]]
@@ -91,6 +105,8 @@ Separar sempre:
 
 ## Próxima ação
 
-Abrir o chat **ATIVO — LIVRO — Arquitetura Transversal do Corpus e Integração Teórica** usando [[06 - Prompt de Abertura do Chat do Livro]].
+**Ciclo 1 — Informação, memória e constituição da experiência**, conforme [[04 - Ordem Provisória dos Ciclos de Investigação]]. Partir da Matriz AISB, da fonte de informação multidimensional e das versões de Arquitetura Invisível, trazendo a monografia de 2004 e os históricos pertinentes para discriminar continuidades e mudanças de explicação.
 
-A primeira tarefa do chat será **FASE 0 — CARTOGRAFIA**. Não iniciar revisão bibliográfica extensa antes da aprovação do mapa preliminar.
+A Fase 0 está aprovada e foi ampliada historicamente. O aprofundamento do Ciclo 1 está autorizado; esta ampliação não equivale à sua execução ou a uma revisão externa já concluída.
+
+Manter uma investigação comum. A hipótese de duas obras será examinada dentro de cada ciclo, pelo ganho explicativo, pelas dependências do argumento e pela autonomia das perguntas e dos leitores; síntese editorial no Ciclo 7. Não há decisão por dois livros nem necessidade de interromper a pesquisa para tomá-la agora.
