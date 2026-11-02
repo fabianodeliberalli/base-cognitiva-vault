@@ -112,6 +112,104 @@ Registro solicitado por Fabiano. Conteúdo preservado e distribuído por funçã
 
 ---
 
+## Complemento — anexos examinados em 02/11/2026
+
+Leitura dirigida por pertinência, não leitura integral de todas as obras. Os arquivos foram fornecidos por Fabiano após a avaliação de Centro/Essência/Self. Este complemento amplia a mesma frente de produção e preserva os originais. As páginas abaixo são posições no PDF (iniciando em 1), salvo quando explicitamente indicadas como impressas.
+
+### Jung — Psicologia e alquimia
+
+Edição digital Vozes, 2016, identificada no próprio anexo. [Arquivo fornecido](https://chatgpt.com/library?file_id=libfile_db40550c5d448191962069241b729096&account_id=personal).
+- PDF p. 43: no trecho que antecede §35, Jung descreve séries de sonhos por circumambulação, desenvolvimento cíclico/em espiral e aproximação com crescimento vegetal e símbolos de árvore/flor.
+- PDF pp. 57–58, §44: si-mesmo como centro e circunferência da totalidade consciente/inconsciente.
+- **Acréscimo:** a relação centro–espiral–árvore possui interlocução textual direta em Jung. O pêndulo não foi encontrado nesses trechos como modelo de Jung; permanece recurso didático do TSH.
+- **Uso:** M1.7, uma frase na fala e referência discreta no texto do aluno; M5.5/M5.7, aprofundamento simbólico; M6.5/M8, retomada do percurso.
+- **Formulação possível:** “Jung descreve processos de desenvolvimento que se aproximam de um movimento em espiral. Reencontrar um tema pode permitir perceber aspectos que antes não apareciam.” A segunda frase é aplicação didática, não promessa de avanço em todo retorno.
+
+### Mario C. Salvador — Mais Além do Eu: Encontrando nossa essência através da cura do trauma
+
+[Arquivo fornecido](https://chatgpt.com/library?file_id=libfile_c86447b51a208191afcdc0b1a957f382&account_id=personal). Edição/ano não confirmados nos trechos examinados; não inventar referência editorial.
+- PDF pp. 55–58: Eu Essencial, relação com partes, observador compassivo e funções protetivas; o autor aproxima explicitamente diversas linguagens.
+- PDF p. 94, abertura do capítulo 5: distinção entre experiência, ideia do eu e Eu Essencial, passagem do interpessoal ao transpessoal.
+- PDF pp. 95–98: presença, sintonia e condições relacionais de elaboração.
+- **Acréscimo:** ponte direta entre Essência, organização da personalidade e forma de relacionar-se com a experiência. Muito pertinente ao repertório profissional de Fabiano, que informa formação Aleceia. O livro não foi usado para verificar a certificação.
+- **M1.7:** acrescentar uma contribuição curta: não se resumir ao estado ou à parte mobilizada; aproximar-se com curiosidade e cuidado. Não somar uma aula de terapia de partes nem um protocolo de trauma.
+- **M4.4–M4.5:** proteção e aprendizagem; perguntar o que uma reação tenta preservar, sem julgar uma parte como má nem supor explicação única.
+- **M5.7:** comparar a síntese de Salvador com Jung, Winnicott e a Essência no TSH. As aproximações que Salvador faz são sua construção integrativa; nomes associados a Assagioli, Schwartz, Stone e tradições budistas requerem fontes próprias antes de exposição detalhada.
+- **M6/M7:** acolher diferenças internas, sustentar presença e reconhecer efeitos relacionais.
+- **Adaptação pedagógica:** “Há algo em mim vivendo isso” pode abrir diferenciação sem desautorizar a experiência; observar não é se retirar do corpo ou negar o afeto. Manter agência e condições externas. Não transpor afirmações clínicas de cura, hierarquias neurais, generalizações familiares ou promessa de controle do sistema interno para o curso.
+- **Fala breve proposta:** “Mario Salvador trabalha com a ideia de um Eu Essencial a partir do qual podemos nos relacionar com diferentes aspectos da nossa experiência. Isso nos ajuda a considerar que uma reação pode estar muito presente sem precisar definir tudo o que somos. Podemos tentar escutá-la e, ao mesmo tempo, investigar outras possibilidades de participação.”
+
+### Marie-Louise von Franz — Alquimia: introdução ao simbolismo
+
+[Arquivo fornecido](https://chatgpt.com/library?file_id=libfile_af79384ff5e481918d708305dfec46d3&account_id=personal). Transcrição em português com problemas de tradução/revisão; verificar edição antes de citação literal.
+- PDF pp. 13–14: projeção, interpretação e atitude investigativa diante de material desconhecido.
+- PDF pp. 123–124: a discussão racional ou censura de um impulso não bastam para transformá-lo; investigar o que busca e o material imaginativo associado.
+- PDF p. 243: imagens de nascimento, recipiente e conjunção de opostos.
+- **Uso:** M1.1/M1.3/M1.7 como fundamento docente sobre diferença entre compreensão e transformação; M2.5–M2.6 para construção/revisão de interpretações; M5.5 para símbolo; M6.1–M6.3 para polaridades e elaboração.
+- **Recurso:** perguntar “O que essa imagem me ajuda a perceber? O que ainda não cabe nela?”. O recipiente pode orientar condições de elaboração — tempo, atenção, relação, limite — sem criar outra metáfora obrigatória.
+- A tradução psicológica da alquimia é a leitura da autora; não esgota os sentidos históricos e espirituais das tradições alquímicas. Evitar transportar interpretações clínicas e generalizações do texto como fatos universais.
+
+### Marie-Louise von Franz — A Alquimia e a Imaginação Ativa
+
+[Arquivo fornecido](https://chatgpt.com/library?file_id=libfile_7353f26668ec8191991c07f979b3c68b&account_id=personal). PDF digitalizado sem camada de texto; leitura visual de sumário, dados editoriais e trechos selecionados. Original identificado: Alchemical Active Imagination, copyright 1979; tradução Cultrix, ano desta impressão não confirmado.
+- PDF p. 7: sumário — corpo, matéria, imaginação, sincronicidade e Unus Mundus como rotas.
+- PDF pp. 59–61, impressas 57–59: interpretação de Dorn, relação entre centro/Self, corpo e retorno à vida exterior.
+- **Achado especialmente pertinente, impressa p. 59:** compreensão consciente pode coexistir com aspectos da personalidade que continuam funcionando autonomamente; incluí-los no processo exige tempo. A autora exemplifica com sua relação com dinheiro e impostos.
+- **Uso prioritário:** M1.1–M1.3/M1.7 como fundamentação docente; M4.5 e M6.4–M6.6 para integração. Sua contribuição não se limita ao futuro módulo espiritual.
+- **Aplicação:** comparar uma compreensão que funciona em determinada área com outra situação em que ainda não orienta a participação. Não transportar o caso da autora como caso de Fabiano.
+- **M5.5:** estudo futuro de imaginação ativa a partir de leitura dirigida adicional. A leitura realizada não fundamenta ainda um protocolo completo. A Cartografia expressiva não passa a ser chamada de imaginação ativa só por utilizar imagens.
+- **M5.7:** Unus Mundus é rota identificada pelo sumário, ainda não aprofundada neste exame; não atribuir conclusões ao capítulo não lido.
+
+### Gilberto Antônio Silva — Os Caminhos do Taoismo
+
+Edição do autor, São Paulo, 2014. [Arquivo fornecido](https://chatgpt.com/library?file_id=libfile_815a2b1154c081919968d395cbdad462&account_id=personal).
+- PDF pp. 118–122 (impressas 117–121): relações Céu–ser humano–Terra, símbolos e Dantian.
+- PDF pp. 136–137 (impressas 135–136): wuwei, oportunidade, resposta ao movimento.
+- PDF pp. 189–190 (impressas 188–189): Qigong como cultivo com movimento, respiração e foco.
+- PDF pp. 197–199 (impressas 196–198): alquimia interna e distinção entre praticar Qigong e realizar trabalho alquímico.
+- **Acréscimo:** sustenta linguagem tradicional de cultivo, enraizamento e participação num campo mais amplo. Centro pode ser vivido corporalmente e simbolicamente sem ser reduzido à calma.
+- **M1.7:** orientar a fala sobre equilíbrio vivo; não incluir nova exposição histórica.
+- **Encontro M0/M1 e M3.5–M3.6:** apoio à contextualização da prática das mãos e do centro corporal; mãos, pés e orientação corporal podem ser pontos de exploração sob condução de Fabiano. Não é necessário ensinar pontos de acupuntura na primeira prática.
+- **M5.5–M5.7 e M6.4:** Céu–Terra e árvore/Cosmos; cultivo e integração. Wuwei pode abrir uma investigação sobre esforço e oportunidade, sem recomendar passividade diante de restrições ou violência.
+- Fonte introdutória de um autor contemporâneo, não expressão única de todo o taoismo. Passagens com alegações físicas, históricas ou biológicas amplas devem ser verificadas separadamente se forem utilizadas como fatos; o valor tradicional não exige essas generalizações.
+
+### 3 tesouros Taoismo
+
+[Arquivo fornecido](https://chatgpt.com/library?file_id=libfile_17fbf7e40ad08191acf45cb7eebbabe3&account_id=personal). Nove páginas em espanhol, URL antiga Fortunecity, autoria/edição não identificadas no trecho.
+- PDF pp. 3–5: ching/jing, ch’i/qi, shên/shen; inter-relações e refinamento alquímico. O texto faz comparação com hermetismo ocidental.
+- **Uso:** pista complementar para M3.5 e M5.7; não fundamento principal para definir os três tesouros. A fonte reúne sentidos diferentes e comparações próprias.
+- **Distinção produtiva para o TSH:** Jing, frequentemente traduzido como essência, não pode receber automaticamente toda a definição autoral de Essência. Registrar o termo chinês e o contexto ajuda a ampliar a leitura, em vez de perder diferenças na tradução.
+- Retomar Maciocia, Wu Jyh Cherng e fontes específicas da tradição antes da exposição detalhada. Não equiparar Jing–Qi–Shen aos Três Eus ou a redes neurais.
+
+### Reconecte-se_a_Fonte[1].onetoc2 — lacuna identificada
+
+O arquivo recebido, apesar da extensão, contém HTML de uma página de autenticação Microsoft/OneDrive. Não contém o texto da obra nem excertos legíveis. Nenhuma contribuição nova foi atribuída a Laszlo a partir deste arquivo. Para examiná-lo, será necessária uma exportação com conteúdo, por exemplo PDF ou DOCX; isso não impede o uso das demais fontes nem a continuidade de M1.7.
+
+### Laszlo — verificação adicional no GitHub solicitada por Fabiano
+
+A lacuna acima é do anexo .onetoc2, não ausência da obra no acervo. Na main foram localizados:
+- [[70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Reconecte-se a fonte_ a nova ci - Ervin Laszlo.pdf]] — arquivo PDF de 3.150.685 bytes, blob 7149593589dcd269f3229b6b1e63c5a707512050. Existência verificada; conteúdo integral não lido nesta operação porque o conector GitHub disponível rejeitou o binário e não retornou conteúdo na solicitação base64.
+- [[Laszlo - Reconecte-se à Fonte - excertos pessoais]] — ficha lida integralmente. Registra compilação pessoal de Fabiano em oito páginas, cobrindo aproximadamente páginas Kindle 3–26; os excertos integrais não estão transcritos na ficha. Temas: realidade material/mental, coerência cósmica, dimensão profunda/Fonte, tradições, experiência espiritual, atrator holotrópico, conexão e transformação.
+- [[Laszlo - A Ciência e o Campo Akáshico]] — ficha lida: Cultrix, 2008; hipótese informacional de interconexão e totalidade.
+- [[Laszlo - A Plenitude do Cosmos]] — ficha lida: Cultrix, 2018; cosmos integral/autoatualizante, dimensão manifesta e profunda, consciência e participação.
+
+**Contribuição recuperável agora:** Laszlo amplia a escala da investigação, da organização pessoal e relacional ao pertencimento a uma realidade maior. Pode dialogar com Essência como fundamento, com árvore/Cosmos e com linguagens de Fonte; acrescenta a pergunta “De que totalidade participo e como isso orienta meu modo de viver?”. Apresentar suas proposições como perspectiva filosófico-cosmológica do autor; esta operação não verificou as alegações empíricas dos livros.
+
+**Destinação:** M1.7, horizonte breve nas notas e eventual frase de continuidade, sem nova exposição cosmológica; M5.5 (símbolos/Cosmos), M5.6–M5.7 (experiência espiritual/Fonte), M6.6 e M7.6 (participação, coerência e contribuição). O conteúdo das fichas permite esse roteamento; afirmações detalhadas ou citações do livro exigem leitura do PDF já localizado. Não exigir reenvio como se a obra estivesse ausente do repositório. Termos históricos “Método EIXO” nas fichas não restauram a nomenclatura.
+
+
+### Ajuste da seleção para M1.7 após os anexos
+
+Manter Essência como formulação explícita do curso. Usar **Jung** como fundamento central de centro/totalidade/espiral e **Salvador** como ponte breve entre Eu Essencial, estado e relação com a experiência. **Winnicott** continua sustentando espontaneidade e ambiente, sobretudo no texto de apoio e nas notas; não precisa disputar espaço com todos os autores na fala. **Von Franz** reforça compreensão versus integração nas notas e pode aparecer numa frase ou no texto. **Taoismo** orienta cultivo e equilíbrio vivo; conceitos detalhados de alquimia e Três Tesouros ficam nas aulas apropriadas.
+
+Isso refina a seleção anterior sem somar seis exposições bibliográficas. Não atribuir a Jung o pêndulo nem converter espiral em promessa de melhora. Evitar que “retorno ao centro” seja exclusivamente recomposição: pode incluir descoberta, desenvolvimento e expressão nova.
+
+**Pergunta de aplicação:** “Em que situação essa compreensão já participa da minha vida? Onde ainda não? O que pede reconhecimento, aprendizagem ou apoio?”. Manter os quatro campos do registro já existente e a liberdade de não concluir.
+
+**Estado:** fontes e trechos registrados; originais preservados na Biblioteca; não foi feita cópia integral das obras para o GitHub. Textos/PPTX/DOCX/PDF da aula ainda não foram reexportados. Próxima ação: sincronizar o pacote M1.7 com a seleção refinada e conservar estas rotas para as próximas produções.
+
+
+
 ## Registro histórico de julho de 2026 — preservado para genealogia
 
 
