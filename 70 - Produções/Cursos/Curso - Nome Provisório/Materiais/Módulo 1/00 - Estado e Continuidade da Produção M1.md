@@ -3,12 +3,32 @@ tipo: estado-e-continuidade-de-producao
 projeto: Traduzindo o Ser Humano
 recorte_entrega: "M1.1-M1.7"
 status: referencia-atual-revisavel
-versao: "1.3"
+versao: "1.4"
 criado_em: 2026-08-23
-atualizado_em: 2026-11-01
+atualizado_em: 2026-11-02
 preparacao_de_gravacoes: autorizada
 status_audiovisual: arquivos-finais-e-ensaio-pendentes
 ---
+
+## Produção M1.5 — 02/11/2026
+
+Versão de trabalho v0.1, preparada para revisão autoral e ensaio. Pesquisa prévia no Raio X, Síntese Integrativa, Integração do Refinamento, Matriz Mestre, nota Varela/Castellanos, Árvore da Singularidade e cartografia existente. A sequência vigente apresenta corpo, emoção, mente, relações e espiritualidade; as cinco perguntas do SVG histórico não foram importadas como estrutura atual.
+
+Matrizes recuperáveis:
+- [[M1.5 - Roteiro oral e caderno de produção v0.1]] — objetivo, fala integral, texto dos 12 slides, condução, fundamentação e destinos futuros.
+- [[M1.5 - Texto breve de apoio - Cinco Janelas]] — leitura do aluno, referências breves e quatro campos do registro existente.
+
+Arquivos produzidos:
+- [Apresentação editável com notas integrais](https://chatgpt.com/space/page_004e79edd6dc81919b2237f4b919f7c0).
+- [Caderno de produção Word](https://chatgpt.com/library?file_id=libfile_bc6cd9c00e648191adfc1d99777ea119&account_id=personal).
+- [Material de apoio Word](https://chatgpt.com/library?file_id=libfile_2da82a0e19f481919020428309223034&account_id=personal).
+- [Material de apoio PDF](https://chatgpt.com/library?file_id=libfile_c3d5e16891dc8191aa5972f4e97fc7d7&account_id=personal).
+
+Decisões: cinco janelas interdependentes; árvore como desenvolvimento em ambiente e cultivo de possibilidades pouco nutridas; espiritualidade e Essência explícitas, com liberdade de participação; pedido/aperto no peito e vontade de dançar como exemplos. Prática opcional de uma janela e outra pergunta, sem novo formulário obrigatório. Mãos/Qi Gong mantido no encontro M0/M1. Varela, Castellanos, Siegel e Forghieri aparecem brevemente no apoio; mentalização orienta notas e condução. Barrett aprofundado em M4.2, tradições em M5. A imagem histórica da árvore foi preservada; a cópia recuperada não pôde ser decodificada e a metáfora foi trabalhada na fala/texto.
+
+Verificação: 12 slides conferidos visualmente, notas correspondentes às falas; caderno Word de 16 páginas e apoio Word/PDF de duas páginas conferidos. Duração estimada de 17–20 minutos, a confirmar no ensaio. Não há declaração de gravação ou publicação. Nenhuma lacuna conceitual impeditiva identificada.
+
+Continuidade: revisar e ensaiar M1.5; pesquisar M1.6 antes de produzir, recuperando situação, manifestação, tradução provisória e orientação possível. M1.4 permanece no PR41, aberto como rascunho no momento desta consulta; PR35/36/38 são frentes separadas. Este registro não declara integração dessas propostas. Os registros anteriores abaixo conservam seu contexto histórico.
 
 ## Incorporação — Varela e Castellanos
 
@@ -58,7 +78,7 @@ Coordenar a derivação audiovisual das aulas M1.1–M1.7 sem criar uma terceira
 | M1.2 | previsto no plano v1.1 | ainda não derivado | iniciar após leitura estrutural de M1.1 |
 | M1.3 | previsto no plano v1.1 | ainda não derivado | preservar competência incorporada como aprofundamento |
 | M1.4 | previsto no plano v1.1 | ainda não derivado | preservar pluralidade criteriosa |
-| M1.5 | previsto no plano v1.1 | dependência complementar identificada | extrair versão mínima das Cinco Janelas |
+| M1.5 | [[M1.5 - Roteiro oral e caderno de produção v0.1]] e [[M1.5 - Texto breve de apoio - Cinco Janelas]] | roteiro, apresentação com notas, caderno Word e apoio Word/PDF produzidos; versão de trabalho | revisão autoral e ensaio (17–20 min estimados) |
 | M1.6 | previsto no plano v1.1 | ainda não derivado | adaptar Primeira Cartografia |
 | M1.7 | consolidação v1.1 | pronto para derivação | derivar após M1.6 e auditar o arco |
 
