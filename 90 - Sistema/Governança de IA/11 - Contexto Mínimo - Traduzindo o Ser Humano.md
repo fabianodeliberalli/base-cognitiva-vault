@@ -2,9 +2,24 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.9"
-atualizado_em: 2026-10-31
+versao: "0.10"
+atualizado_em: 2026-11-02
 ---
+
+## Estilo dos textos de apoio ao aluno — decisão de Fabiano em 02/11/2026
+
+Adotar nos entregáveis do TSH uma escrita leve, fluida, substantiva e dirigida ao participante. Apresentar fundamentos como parte da leitura, articulados à experiência, aos exemplos e às perguntas da aula.
+
+- Autores e teorias externos podem ser apresentados brevemente quando acrescentarem compreensão; reunir referências bibliográficas discretas ao final, conforme a necessidade do texto.
+- Integrar naturalmente as formulações de Fabiano e do TSH, sem autocitações, inventários de fontes autorais ou marcações repetidas de “elaboração autoral”. Não exigir justificativas para cada articulação entre perspectivas.
+- Evitar ressalvas defensivas recorrentes e explicações sobre o processo editorial no texto do aluno. Preservar precisão conceitual e diferenças relevantes entre perspectivas com linguagem proporcional à necessidade pedagógica.
+- Manter o diálogo afirmativo entre psicologia, conhecimentos biológicos, práticas orientais e dimensão espiritual. A linguagem tradicional pode contribuir em seus próprios termos.
+- Registrar procedência detalhada, correlações, limites de pesquisa e decisões de produção no caderno do professor e nas notas de fundamentação, quando pertinentes. Essa rastreabilidade não precisa ser reproduzida na leitura do participante.
+- Ajustar extensão e profundidade à função do material; a concisão dos exemplos abaixo não impõe limite fixo de uma página nem exige um novo entregável para cada referência.
+
+Referências práticas de escrita: [[M1.1 - Texto breve de apoio - Compreender, perceber e participar]] e [[M1.2 - Texto breve de apoio - Da compreensão à experiência]]. São textos breves de apoio; os cadernos extensos e materiais anteriores permanecem disponíveis. Ao refiná-los, aplicar esta orientação sem presumir que já tenham sido todos revisados.
+
+Registro de continuidade: diretriz solicitada explicitamente por Fabiano; M1.1 recebeu texto breve no estilo de M1.2. Próximas produções devem recuperar esta orientação antes de redigir entregáveis, preservando o padrão visual vigente e a separação entre materiais do aluno e preparação do professor.
 
 ## Diálogo ativo e repertório visual — decisão de 01/11/2026
 
