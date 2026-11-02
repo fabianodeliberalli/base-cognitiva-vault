@@ -3,14 +3,24 @@ tipo: estado-e-continuidade-de-producao
 projeto: Traduzindo o Ser Humano
 recorte_entrega: "M1.1-M1.7"
 status: referencia-atual-revisavel
-versao: "1.3"
+versao: "1.4"
 criado_em: 2026-08-23
 atualizado_em: 2026-11-01
 preparacao_de_gravacoes: autorizada
 status_audiovisual: arquivos-finais-e-ensaio-pendentes
 ---
 
-## Estado atual — 01/11/2026
+## Produção M1.3 — 01/11/2026
+
+M1.3 — **O que é competência incorporada — e o que ela não promete** recebeu roteiro integral, apresentação editável com 12 slides e notas, caderno do professor e material do aluno em duas páginas (texto breve de fundamentos e registro opcional). Usar [[M1.3 - Produção e continuidade]] para arquivos, fontes e retomada. Versão de trabalho para revisão e ensaio; duração estimada de 15–18 minutos. Nenhuma gravação ou publicação atestada.
+
+Distinguir capacidade desenvolvida, disponibilidade atual e espaço de expressão. Aprendizagem inclui adaptação, efeitos, reconhecimento posterior, descoberta e cultivo. Soderstrom/Bjork acrescentam distinção entre desempenho imediato e aprendizagem; Bonanno/Burton contribuem para contexto e ajuste; Forghieri orienta envolvimento e retorno. A escrita do aluno segue a diretriz já integrada na ficha mínima pela PR37.
+
+Continuidade recuperada: a revisão ampliada de M1.1 está na [PR35](https://github.com/fabianodeliberalli/base-cognitiva-vault/pull/35) e a produção de M1.2 na [PR36](https://github.com/fabianodeliberalli/base-cognitiva-vault/pull/36), ambas ainda abertas nesta consulta. Os textos breves de M1.1/M1.2 estão na main pela PR37. A produção de M1.3 não homologa automaticamente essas propostas anteriores.
+
+Próxima ação: revisar e ensaiar M1.3; produzir M1.4 com foco em território, linguagens e diálogo ativo entre mapas. Mãos/Qi Gong permanece no encontro conjunto M0/M1. Fontes e reservas de aprofundamento registradas no caderno de M1.3.
+
+## Registro anterior de produção — 01/11/2026
 
 Referência curricular: Raio X revisado de 30/10 e refinamentos de 31/10, conforme prompt de produção M1 e ficha mínima atual. Os registros de 24/10 abaixo permanecem históricos. A solicitação atual de Fabiano autoriza desenvolver roteiros e preparar gravações; não exige autorização adicional baseada nos marcadores antigos.
 
@@ -51,7 +61,7 @@ Coordenar a derivação audiovisual das aulas M1.1–M1.7 sem criar uma terceira
 |---|---|---|---|
 | M1.1 | [[M1.1 - Roteiro oral e caderno de produção v0.2]] e [[M1.1 - Registro de percepção expressão e retorno v0.2]] | roteiro completo consolidado; matriz textual do aluno pronta para diagramação | derivar PPTX/DOCX/PDF e conferir duração |
 | M1.2 | previsto no plano v1.1 | ainda não derivado | iniciar após leitura estrutural de M1.1 |
-| M1.3 | previsto no plano v1.1 | ainda não derivado | preservar competência incorporada como aprofundamento |
+| M1.3 | [[M1.3 - Roteiro oral e caderno de produção v0.1]]; [[M1.3 - Apoio e registro do aluno v0.1]] | roteiro, slides, notas e documentos produzidos | revisão autoral e ensaio |
 | M1.4 | previsto no plano v1.1 | ainda não derivado | preservar pluralidade criteriosa |
 | M1.5 | previsto no plano v1.1 | dependência complementar identificada | extrair versão mínima das Cinco Janelas |
 | M1.6 | previsto no plano v1.1 | ainda não derivado | adaptar Primeira Cartografia |
