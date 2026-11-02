@@ -3,12 +3,27 @@ tipo: estado-e-continuidade-de-producao
 projeto: Traduzindo o Ser Humano
 recorte_entrega: "M1.1-M1.7"
 status: referencia-atual-revisavel
-versao: "1.3"
+versao: "1.4"
 criado_em: 2026-08-23
-atualizado_em: 2026-11-01
+atualizado_em: 2026-11-02
 preparacao_de_gravacoes: autorizada
 status_audiovisual: arquivos-finais-e-ensaio-pendentes
 ---
+
+## Produção M1.4 — 02/11/2026
+
+Versão de trabalho 0.1 de **A experiência é o território; as explicações são mapas**, preparada para revisão autoral e ensaio. Não declara gravação ou publicação. A pesquisa prévia retomou UC 0.1, Tradução, Síntese/Integração do Refinamento, monografias e rotas de Varela/Castellanos. Acrescentou leitura dirigida do trecho de Korzybski em Science and Sanity (1933, p. 58), reproduzido pelo Institute of General Semantics: https://www.generalsemantics.org/event-4967707 . Contribuição breve na abertura conceitual e no entregável: representação, parcialidade e utilidade do mapa; critérios de revisão. Fundamentação, alcance da consulta e destinos estão no caderno.
+
+- [[M1.4 - Roteiro oral e caderno de produção v0.1]]: fala integral, texto dos 12 slides, notas, fontes, decisões e continuidade.
+- [[M1.4 - Texto breve de apoio - Mapas para acompanhar a experiência]]: texto do aluno no padrão autoral atual; matriz editável.
+- [Apresentação editável com notas](https://chatgpt.com/space/page_74d8df743d9081919d6a7075e9a2bc7b).
+- [Caderno docente Word](https://chatgpt.com/library?file_id=libfile_815b363ccbe88191a2057121625871b0&account_id=personal).
+- [Texto de apoio Word](https://chatgpt.com/library?file_id=libfile_e35f8dc2518c81918ed2684e77fcb6c4&account_id=personal).
+- [Texto de apoio PDF](https://chatgpt.com/library?file_id=libfile_8fc507e8d6608191abfa960a1435a347&account_id=personal).
+
+Arquivos diagramados disponibilizados nos links acima; este conjunto registra no GitHub as matrizes textuais, não os binários. Links dependem do acesso à conta. Duração estimada de 16–19 minutos, 1.972 palavras de fala, a conferir em ensaio. Slides e notas conferidos; documentos renderizados e revisados. Prática opcional de comparação de leituras; mantém registro de quatro campos e mãos/Qi Gong no encontro M0/M1. Curiosidade e cultivo aparecem no exemplo da dança. M1.5/M1.6 recebem continuidade; M3/M5 aprofundam práticas e tradições.
+
+Próxima ação: revisão e ensaio de M1.4, seguido de pesquisa pertinente antes de M1.5. A diretriz de pesquisa prévia foi solicitada por Fabiano e registrada na ficha mínima por PR40. O pacote M1.4 é proposta de produção para revisão, sem declaração de homologação final. PR35/36/38 permanecem frentes separadas; os estados históricos abaixo não descrevem todos os arquivos produzidos nessas frentes.
 
 ## Incorporação — Varela e Castellanos
 
@@ -57,7 +72,7 @@ Coordenar a derivação audiovisual das aulas M1.1–M1.7 sem criar uma terceira
 | M1.1 | [[M1.1 - Roteiro oral e caderno de produção v0.2]] e [[M1.1 - Registro de percepção expressão e retorno v0.2]] | roteiro completo consolidado; matriz textual do aluno pronta para diagramação | derivar PPTX/DOCX/PDF e conferir duração |
 | M1.2 | previsto no plano v1.1 | ainda não derivado | iniciar após leitura estrutural de M1.1 |
 | M1.3 | previsto no plano v1.1 | ainda não derivado | preservar competência incorporada como aprofundamento |
-| M1.4 | previsto no plano v1.1 | ainda não derivado | preservar pluralidade criteriosa |
+| M1.4 | [[M1.4 - Roteiro oral e caderno de produção v0.1]] e texto de apoio | 12 slides com notas, DOCX docente e apoio Word/PDF produzidos; versão de trabalho | revisão autoral e ensaio |
 | M1.5 | previsto no plano v1.1 | dependência complementar identificada | extrair versão mínima das Cinco Janelas |
 | M1.6 | previsto no plano v1.1 | ainda não derivado | adaptar Primeira Cartografia |
 | M1.7 | consolidação v1.1 | pronto para derivação | derivar após M1.6 e auditar o arco |
