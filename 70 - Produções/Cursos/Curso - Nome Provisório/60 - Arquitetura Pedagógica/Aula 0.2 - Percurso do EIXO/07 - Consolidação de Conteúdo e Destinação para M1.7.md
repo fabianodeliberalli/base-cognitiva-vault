@@ -14,6 +14,84 @@ gravacao_autorizada: false
 
 # Unidade 0.2 / M1.7 — Consolidação de conteúdo e destinação
 
+
+## Refinamento em elaboração — Essência, Centro e Self — 02/11/2026
+
+Fabiano solicitou avaliar a introdução explícita de Essência e conceitos próximos na M1.7, além das imagens, e registrar as correlações para futuras aulas. Fundamentação e destinos completos: [[Self, Essência, Alma, Eu Superior e Fontes Integrais#Atualização de trabalho — Centro, Essência, Self e expressão no percurso — 02/11/2026]].
+
+### Avaliação pedagógica e resultado de aprendizagem
+
+Cabe uma introdução substantiva breve nesta aula. Ela aprofunda a distinção entre estado, referência e participação e inclui reconhecimento e cultivo de possibilidades, além do acesso ao que já foi aprendido. O aluno deve poder distinguir **o que vive agora, o que reconhece como referência e o que precisa de desenvolvimento ou condições para ganhar expressão**, sem precisar memorizar autores ou adotar uma explicação espiritual.
+
+Essência é apresentada afirmativamente na perspectiva espiritual do TSH; Jung e Winnicott contribuem com conceitos próprios, não com definições equivalentes de Essência. M5.6–M5.8 conserva o aprofundamento comparativo. O eixo é recurso didático em minúsculas, sem restaurar Método EIXO. Os marcadores antigos de autorização e nomenclatura abaixo pertencem ao histórico.
+
+### Inserção no roteiro oral — substituir/ampliar o movimento 3
+
+Tempo estimado: 4–5 minutos com pausas, a conferir no ensaio; não somar uma exposição acadêmica ao roteiro completo.
+
+“Antes de acompanharmos o movimento do pêndulo, quero aprofundar uma diferença. O que você está vivendo agora não esgota quem você é. E aquilo que ainda não consegue expressar também não precisa ser tomado como uma ausência definitiva.
+
+Quando falo em Essência, trago uma perspectiva espiritual que atravessa meu trabalho: um fundamento primordial da vida, que antecede e transcende a existência corporal. Essa dimensão pode encontrar condições diferentes para se expressar na vida concreta. Podemos reconhecer algo muito significativo e ainda não saber como lhe dar forma.
+
+Pense na possibilidade de criar. Às vezes a pessoa reconhece uma vontade antiga de desenhar, escrever ou cantar. Essa vontade pode ficar abafada pela crítica, pela falta de tempo ou por uma história em que criar parecia não ter lugar. Em outra situação, ela sequer reconhece essa possibilidade até experimentar algo novo. E, mesmo quando a reconhece, precisa aprender, praticar, encontrar apoio e fazer escolhas.
+
+Perceba que há movimentos diferentes: reconhecer, conseguir acessar e desenvolver. A perspectiva de uma dimensão essencial não significa que todas as nossas habilidades estejam prontas. Há formas de viver e de expressar que precisam ser cultivadas.
+
+A psicologia também oferece linguagens que ampliam esse olhar. Jung utiliza Self para falar de uma totalidade que inclui o que conhecemos conscientemente e também o que ainda não conhecemos de nós. Ele associa essa totalidade tanto ao centro quanto ao conjunto que o cerca. Isso nos ajuda a perceber que não somos apenas a imagem que fazemos de nós neste momento. O percurso pode incluir encontros com possibilidades, conflitos e sentidos que ainda não tinham espaço.
+
+Winnicott traz outra contribuição: o gesto espontâneo, a criatividade e o sentimento de estar vivo e real na própria experiência. Para que isso encontre expressão, o ambiente importa. Um gesto pode encontrar acolhimento, tempo e espaço; pode também encontrar exigências que o interrompem ou o tornam difícil de sustentar.
+
+Essas perspectivas nos ajudam a fazer perguntas diferentes. O que estou reconhecendo? O que quer ganhar expressão? O que ainda precisa de experiência, aprendizagem, apoio ou condições?
+
+Quando usamos a imagem do centro, podemos pensar numa referência que nos ajuda a participar do movimento. Não é preciso ficar imóvel para ter orientação. Há momentos em que participar pede repouso; em outros, pede iniciativa, firmeza, curiosidade ou um limite.
+
+Também podemos sentir algo com muita intensidade e manter alguma possibilidade de escutar e escolher. Ou parecer tranquilos e ter poucas respostas disponíveis. Por isso, no pêndulo, vamos observar tanto o estado quanto aquilo que fica possível fazer.
+
+Se uma situação me desorganiza, posso investigar o que mudou e de que apoio preciso. Se reencontro um tema antigo, posso observar o que permanece e o que está diferente. E se aparece uma possibilidade nova, posso cuidar das condições para que ela se desenvolva.
+
+É com essas perguntas que vamos olhar o percurso. Não apenas para voltar a algo que já conhecíamos, mas para descobrir e cultivar maneiras de viver que ainda precisam ganhar espaço.”
+
+### Duas telas de apoio e notas correspondentes
+
+**Tela A — O estado não esgota a pessoa**
+- O que vivo agora.
+- O que reconheço como referência profunda.
+- O que ainda pode ganhar expressão.
+
+Notas: apresentar Essência em sua dimensão espiritual, sem reduzi-la a valores ou autenticidade; valores podem participar de sua tradução na vida. Usar o exemplo criativo. Não inferir que um desejo ou uma sensação revele infalivelmente a Essência.
+
+**Tela B — Profundidade, expressão e condições**
+- Jung: totalidade e possibilidades além da imagem consciente de si.
+- Winnicott: espontaneidade, vitalidade e ambiente.
+- Reconhecer, acessar e desenvolver pedem cuidados diferentes.
+
+Notas: fontes primárias e diferenças conceituais estão na nota de Relações. Não apresentar “variantes da Essência segundo cada autor”; não identificar ego com mal ou falso self com mentira. Perguntar o que cada mapa acrescenta. Transição para pêndulo/espiral e para intensidade versus disponibilidade.
+
+### Gráfico e aplicação
+
+O original [[02 - Gráfico Mestre - Pêndulo, Espiral e Percurso.svg]] permanece preservado. Na derivação para a aula, substituir a lista indiferenciada “Referência · Centro · Essência · Self” por **“Centro como referência no movimento”**; a fala apresenta as linguagens em diálogo. Essa é uma proposta visual de trabalho, não uma edição já executada no SVG. Preservar título vigente da aula e arquitetura. Possível subtítulo apenas para o gráfico derivado: “Como atravessamos mudanças e cultivamos possibilidades ao longo do percurso”.
+
+Após o bloco, retomar a Cartografia por 60–90 segundos, facultativamente: “Há algo que gostaria de expressar nesta situação? O que já reconheço, o que ainda preciso desenvolver e que condição ajudaria?”. Pode escolher curiosidade, criação ou vitalidade em vez de sofrimento. Sem novo formulário: manter “o que percebi; como procurei expressar; o que mudou ao retornar; o que quero continuar observando”.
+
+### Parágrafos para integrar ao texto de apoio do aluno
+
+Um estado difícil pode ocupar grande parte da nossa atenção sem contar toda a história de quem somos. Também há possibilidades que ainda não reconhecemos ou que começam a aparecer antes de encontrarmos uma maneira de vivê-las. Reconhecer, acessar e desenvolver são movimentos relacionados, mas cada um pode pedir cuidados diferentes.
+
+A Essência é compreendida aqui como fundamento primordial da vida, que antecede e transcende a existência corporal. Sua expressão acontece em condições concretas: um corpo, uma história, relações, oportunidades e limites. Reconhecer essa dimensão pode abrir uma direção; dar forma a uma possibilidade envolve também aprender, experimentar e construir apoios.
+
+Jung amplia o olhar sobre a pessoa ao apresentar o Self como uma totalidade que inclui a consciência e o inconsciente. Winnicott acrescenta a importância da espontaneidade, da vitalidade e do ambiente para que a pessoa possa sentir sua vida como própria. Essas contribuições ajudam a perguntar tanto pelo que ainda desconhecemos de nós quanto pelo espaço necessário para que algo singular encontre expressão.
+
+O centro pode ser uma imagem de orientação durante esse movimento. Às vezes precisamos recuperar uma capacidade conhecida. Em outros momentos, precisamos descobrir ou desenvolver uma possibilidade nova. Um pequeno gesto criativo, um limite ou uma conversa podem fazer parte desse cultivo, desde que encontrem condições para acontecer e possam ser revistos à luz da experiência.
+
+Referências discretas ao final do material: Jung, Psicologia e alquimia, §44; Winnicott, Distorção do ego em termos de verdadeiro e falso self (1960). Procedência autoral e comparação detalhada ficam no caderno do professor.
+
+### Registro de produção
+
+Este complemento contém roteiro do bloco, telas, notas, aplicação e texto-base do aluno; não é o roteiro completo da M1.7 nem atesta atualização dos arquivos diagramados. Próxima ação: incorporar ao pacote integral em produção, conferir transições, evitar redundância e ensaiar duração. Preservar a continuidade das demais aulas e consultar a matriz da nota de Relações quando suas produções forem retomadas.
+
+---
+
+
 ## Identidade preservada
 
 **Título curricular:** Perder o eixo não significa perder o percurso — Como reconhecer deslocamentos, recuperar orientação e aprender com as oscilações  
