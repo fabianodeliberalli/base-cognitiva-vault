@@ -6,6 +6,11 @@ versao: "0.10"
 atualizado_em: 2026-11-02
 ---
 
+## Incorporação — Varela e Castellanos
+
+Fabiano solicitou incorporar as elaborações e avaliar o acréscimo em M1.1–M1.3. Consultar [[TSH - Varela e Castellanos - Experiência corporificada e cultivo]]: fontes originais, TCC e monografia MTC, diálogo com Forghieri, Qi Gong e Essência, destinos por aula e auditoria dos materiais. M1.1/M1.2 já contemplam os fundamentos na didática; M1.3 recebe texto breve ampliado em [[M1.3 - Texto breve de apoio - O aprendido na vida]]. Falas, slides e práticas existentes preservados. Arquivos diagramados anteriores não foram reexportados. Retomar sobretudo em M1.4, M2, M3 e M5. PR35/36/38 continuam frentes de produção separadas; este registro não declara sua integração.
+
+
 ## Estilo dos textos de apoio ao aluno — decisão de Fabiano em 02/11/2026
 
 Adotar nos entregáveis do TSH uma escrita leve, fluida, substantiva e dirigida ao participante. Apresentar fundamentos como parte da leitura, articulados à experiência, aos exemplos e às perguntas da aula.

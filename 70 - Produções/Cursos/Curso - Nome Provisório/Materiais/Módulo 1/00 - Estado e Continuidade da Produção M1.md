@@ -10,6 +10,11 @@ preparacao_de_gravacoes: autorizada
 status_audiovisual: arquivos-finais-e-ensaio-pendentes
 ---
 
+## Incorporação — Varela e Castellanos
+
+Fabiano solicitou incorporar as elaborações e avaliar o acréscimo em M1.1–M1.3. Consultar [[TSH - Varela e Castellanos - Experiência corporificada e cultivo]]: fontes originais, TCC e monografia MTC, diálogo com Forghieri, Qi Gong e Essência, destinos por aula e auditoria dos materiais. M1.1/M1.2 já contemplam os fundamentos na didática; M1.3 recebe texto breve ampliado em [[M1.3 - Texto breve de apoio - O aprendido na vida]]. Falas, slides e práticas existentes preservados. Arquivos diagramados anteriores não foram reexportados. Retomar sobretudo em M1.4, M2, M3 e M5. PR35/36/38 continuam frentes de produção separadas; este registro não declara sua integração.
+
+
 ## Estado atual — 01/11/2026
 
 Referência curricular: Raio X revisado de 30/10 e refinamentos de 31/10, conforme prompt de produção M1 e ficha mínima atual. Os registros de 24/10 abaixo permanecem históricos. A solicitação atual de Fabiano autoriza desenvolver roteiros e preparar gravações; não exige autorização adicional baseada nos marcadores antigos.
