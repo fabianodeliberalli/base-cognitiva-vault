@@ -10,6 +10,16 @@ autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
 
+## Recuperação — Centro, Essência, Self e expressão — 02/11/2026
+
+Por solicitação de Fabiano, [[Self, Essência, Alma, Eu Superior e Fontes Integrais]] recebeu atualização de trabalho com relações afirmativas, diferenças conceituais, fontes primárias, destinos em M1–M8 e recursos práticos. Ler a atualização de novembro antes do histórico de julho: Essência tem a definição espiritual ampliada do Léxico; eixo é recurso didático, sem restaurar Método EIXO.
+
+Para M1.7, [[07 - Consolidação de Conteúdo e Destinação para M1.7]] contém proposta de bloco oral de 4–5 minutos, duas telas, notas, retomada facultativa da Cartografia e parágrafos para o texto de apoio: Essência explícita; Jung (totalidade/individuação); Winnicott (vitalidade/espontaneidade/ambiente); reconhecimento, acesso e cultivo. M5 conserva o aprofundamento comparativo. A nota de Relações distribui também Forghieri, mentalização, Siegel, Varela/Castellanos, MTC/Qi, granularidade, interocepção, Wilber/Laszlo, tradições, escada e expressão.
+
+Registro textual concluído nesta frente; slides e arquivos DOCX/PDF ainda precisam de sincronização. Não atesta gravação ou publicação. Preservar as frentes de produção anteriores e não confundir esta atualização com integração de seus PRs. Próxima ação: incorporar o bloco ao pacote integral da M1.7 e verificar duração/correspondência.
+
+
+
 ## Incorporação — Varela e Castellanos
 
 Fabiano solicitou incorporar as elaborações e avaliar o acréscimo em M1.1–M1.3. Consultar [[TSH - Varela e Castellanos - Experiência corporificada e cultivo]]: fontes originais, TCC e monografia MTC, diálogo com Forghieri, Qi Gong e Essência, destinos por aula e auditoria dos materiais. M1.1/M1.2 já contemplam os fundamentos na didática; M1.3 recebe texto breve ampliado em [[M1.3 - Texto breve de apoio - O aprendido na vida]]. Falas, slides e práticas existentes preservados. Arquivos diagramados anteriores não foram reexportados. Retomar sobretudo em M1.4, M2, M3 e M5. PR35/36/38 continuam frentes de produção separadas; este registro não declara sua integração.
