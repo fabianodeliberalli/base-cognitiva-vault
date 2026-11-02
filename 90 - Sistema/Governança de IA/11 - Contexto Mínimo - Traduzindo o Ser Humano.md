@@ -2,7 +2,7 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.10"
+versao: "0.11"
 atualizado_em: 2026-11-02
 ---
 
@@ -42,9 +42,11 @@ M0.3 aplica o padrão: dez slides, roteiro e notas v1.1 e Plano pessoal de parti
 
 Consultar [[M0.3 - Roteiro e notas sincronizados v1.1]] e [[M0.3 - Plano pessoal de participação - Entregável]].
 
-## Recuperação de fundamentos na produção de aulas — 31/10/2026
+## Recuperação de fundamentos antes da produção de aulas — ampliada por Fabiano em 02/11/2026
 
 Ao elaborar uma aula, recuperar conteúdo autoral e fundamentos por pertinência além das fontes iniciais: TCC, monografias de Transpessoal e MTC, livro, pesquisas, apresentações, práticas e materiais. [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Governança do Conhecimento/02 - Inventário Mestre de Conteúdos Disponíveis|Inventário Mestre]] fornece rotas; [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Governança do Conhecimento/06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54|Matriz de Incorporação]] relaciona-as às 54 aulas; [[70 - Produções/Cursos/Curso - Nome Provisório/Protocolo de Elaboração Curricular Viva e Continuidade Leve|Protocolo de Elaboração]] descreve o resgate. Abrir os trechos de origem, explicitar contribuição/destino e registrar lacunas. Fontes em ramificação e originais externos mantêm seu estatuto; não presumir que estejam na main ou integralmente acessíveis. O contexto permanece progressivo, sem carregar todo o acervo nem exigir relatório antes da criação.
+
+Em todo pedido de produção de aula do TSH, inclusive na abertura de um novo chat, realizar essa busca **antes da produção efetiva**: conferir a arquitetura vigente, recuperar as fundamentações pertinentes no repositório e ler os trechos necessários. Avaliar o acréscimo real e o destino de cada contribuição: fala, exemplo, prática, texto do aluno, notas do professor ou aprofundamento posterior. Se faltarem fundamentos adequados, apresentar a lacuna e possibilidades de ampliação para análise de Fabiano; continuar o trabalho que não dependa dela. Não presumir acesso a anexos ou outros chats, nem converter toda referência encontrada em conteúdo obrigatório. Registrar brevemente fontes utilizadas, decisões, arquivos, pendências e próxima ação no estado ou caderno existente. Este procedimento foi solicitado por Fabiano durante a produção de M1.4; mantém-se o estilo de entregáveis definido acima.
 
 ## Atualização de 31 de outubro de 2026
 
