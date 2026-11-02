@@ -3,12 +3,32 @@ tipo: estado-e-continuidade-de-producao
 projeto: Traduzindo o Ser Humano
 recorte_entrega: "M1.1-M1.7"
 status: referencia-atual-revisavel
-versao: "1.3"
+versao: "1.4"
 criado_em: 2026-08-23
-atualizado_em: 2026-11-01
+atualizado_em: 2026-11-02
 preparacao_de_gravacoes: autorizada
 status_audiovisual: arquivos-finais-e-ensaio-pendentes
 ---
+
+## Produção M1.6 — 02/11/2026
+
+Versão de trabalho v0.1 de **Primeira Cartografia: localizar-se antes de responder**. Pesquisa prévia no Raio X, ficha de Cartografia e banco de exemplos, Síntese Integrativa, Integração do Refinamento, notas de escrita/atenção, Cameron/Rubin e Varela/Castellanos. Reaberto o trecho da monografia Transpessoal sobre Forghieri; consultado diretamente Gendlin, The Experiential Response (1968). Fontes e alcance no caderno.
+
+Matrizes:
+- [[M1.6 - Roteiro oral e caderno de produção v0.1]] — objetivo, fala integral por slide, condução, fundamentos e continuidade.
+- [[M1.6 - Material de apoio e Primeira Cartografia v0.1]] — leitura do aluno, referências breves e ficha concisa.
+
+Arquivos produzidos:
+- [Apresentação editável com notas integrais](https://chatgpt.com/space/page_49739e2b9b9881919509b4632b767129).
+- [Caderno do professor Word](https://chatgpt.com/library?file_id=libfile_7957b89f9c5c8191b44850ddb33581e8&account_id=personal).
+- [Material do aluno Word](https://chatgpt.com/library?file_id=libfile_51e0480533a08191ba57d8f1932f19f5&account_id=personal).
+- [Material do aluno PDF](https://chatgpt.com/library?file_id=libfile_f76ee8095c3081918d37c8999cab3789&account_id=personal).
+
+Decisões de produção: quatro referências flexíveis (situação, manifestação, Tradução provisória, orientação possível); cinco janelas como entradas, sem preenchimento obrigatório. Exemplos fictícios do pedido/aperto e da vontade de dançar preservam continuidade de M1.5. Expressão verbal/não verbal, desconhecido, revisão, condições materiais e relacionais, curiosidade e cultivo atravessam a aula. Relato de Fabiano sobre sua formação com Forghieri incorporado fielmente. Ficha extensa original preservada. Quatro perguntas de percepção/expressão/retorno/observação continuam disponíveis; mãos/Qi Gong permanece no encontro M0/M1.
+
+Verificação: 12 slides renderizados e conferidos; notas integrais correspondem às matrizes; caderno Word de 16 páginas e material do aluno Word/PDF de três páginas conferidos. Duração estimada de 19–22 minutos, incluindo pausa opcional de 60–90 segundos; confirmar em ensaio. Não há gravação ou publicação atestada. Sem lacuna indispensável à produção; leituras indiretas identificadas no caderno.
+
+Continuidade: revisão autoral e ensaio de M1.6; próxima produção M1.7, com pesquisa do pêndulo/espiral, estado, movimento, referência e participação. Distinguir intensidade e disponibilidade. M6.5/M8.2 aprofundam retorno temporal. M1.5 continua no PR42, aberto como rascunho e não integrado nesta consulta. Este registro não modifica o estado das frentes PR35/36/38/41/42 nem declara sua homologação. Registros anteriores abaixo mantidos com seu contexto.
 
 ## Incorporação — Varela e Castellanos
 
@@ -59,7 +79,7 @@ Coordenar a derivação audiovisual das aulas M1.1–M1.7 sem criar uma terceira
 | M1.3 | previsto no plano v1.1 | ainda não derivado | preservar competência incorporada como aprofundamento |
 | M1.4 | previsto no plano v1.1 | ainda não derivado | preservar pluralidade criteriosa |
 | M1.5 | previsto no plano v1.1 | dependência complementar identificada | extrair versão mínima das Cinco Janelas |
-| M1.6 | previsto no plano v1.1 | ainda não derivado | adaptar Primeira Cartografia |
+| M1.6 | [[M1.6 - Roteiro oral e caderno de produção v0.1]] e [[M1.6 - Material de apoio e Primeira Cartografia v0.1]] | roteiro, slides com notas, caderno Word e apoio/ficha Word/PDF produzidos; versão de trabalho | revisão autoral e ensaio |
 | M1.7 | consolidação v1.1 | pronto para derivação | derivar após M1.6 e auditar o arco |
 
 ## Correção de estatuto
