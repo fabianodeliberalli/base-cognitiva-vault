@@ -3,12 +3,31 @@ tipo: estado-e-continuidade-de-producao
 projeto: Traduzindo o Ser Humano
 recorte_entrega: "M1.1-M1.7"
 status: referencia-atual-revisavel
-versao: "1.3"
+versao: "1.4"
 criado_em: 2026-08-23
-atualizado_em: 2026-11-01
+atualizado_em: 2026-11-02
 preparacao_de_gravacoes: autorizada
 status_audiovisual: arquivos-finais-e-ensaio-pendentes
 ---
+
+## Produção M1.7 — pacote v0.1 — 02/11/2026
+
+M1.7 — **Perder o eixo não significa perder o percurso**: roteiro integral, 16 slides com notas, caderno DOCX e apoio do aluno DOCX/PDF produzidos para revisão e ensaio. Ler este estado antes das pendências históricas abaixo. Fontes de texto em [[M1.7 - Roteiro oral e caderno de produção v0.1]] e [[M1.7 - Texto de apoio e registro - Percurso e expressão v0.1]].
+
+- [Apresentação editável — 16 slides e notas](https://chatgpt.com/space/page_208a5ea78b248191be6fa4e35f7de638)
+- [Caderno de produção — DOCX](https://chatgpt.com/library?file_id=libfile_4035889858f081919b4cf4a51eba502b&account_id=personal)
+- [Material do aluno — DOCX](https://chatgpt.com/library?file_id=libfile_a7ac3faad494819190471f7956291b09&account_id=personal)
+- [Material do aluno — PDF](https://chatgpt.com/library?file_id=libfile_57ae18c46b3c8191a68fce526fb7d4c3&account_id=personal)
+
+Incorpora a integração #44: Essência explícita segundo Léxico/Arquitetura Invisível; Jung (totalidade e movimento em espiral); Salvador (Eu Essencial e escuta); Winnicott (espontaneidade e ambiente); von Franz (compreensão e participação); Forghieri (envolvimento e retorno reflexivo); MTC/taoismo (yin-yang e equilíbrio vivo). Siegel, mentalização e Varela/Castellanos orientam condições e perguntas nas notas. Fontes, localizadores e destinos M2–M8 no caderno e em [[Self, Essência, Alma, Eu Superior e Fontes Integrais]]. Laszlo foi recuperado pelas fichas; PDF localizado, mas não extraído: permanece nas notas e no aprofundamento M5, sem nova atribuição literal.
+
+Mantidos reconhecimento, acesso e cultivo; pêndulo e espiral com funções distintas; retomada facultativa da Cartografia e quatro campos de registro. Mãos/Qi Gong continua no encontro M0/M1. Material do aluno em prosa fluida, sem autocitação obrigatória.
+
+Verificação: 16 slides revisados visualmente, roteiro e notas derivados da mesma fonte; caderno de 20 páginas e apoio de 3 páginas renderizados. Aproximadamente 2.800 palavras de fala; estimativa 24–28 minutos, incluindo pausa de 60–90 segundos, a confirmar em ensaio. Aplicada a atualização visual da main de 02/11/2026 (commit 7a95aff): EB Garamond/Inter, subtítulo oficial, paleta e tipos de tela. EIXO mantém o mesmo estatuto didático dos demais mapas, sem Método EIXO.
+
+Limite técnico: apresentação nativa editável; não foi gerado PPTX nesta ferramenta, nem configurados esmaecimento ou cliques. Conferir esses itens na preparação do PowerPoint. Não registrar como arquivo padronizado PPTX já produzido. Próxima ação: revisão autoral e ensaio; preparar/exportar PowerPoint com fontes e transições antes da gravação. Nenhuma gravação/publicação/Hotmart declarada. Demais aulas e seus PRs não foram alterados nesta produção.
+
+
 
 ## Recuperação — Centro, Essência, Self e expressão — 02/11/2026
 
