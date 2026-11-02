@@ -10,6 +10,18 @@ preparacao_de_gravacoes: autorizada
 status_audiovisual: arquivos-finais-e-ensaio-pendentes
 ---
 
+## Atualização M1.7 v0.2 — processo 3-2-1 — 02/11/2026
+
+Decisão de Fabiano incorporada: preparação breve M1.7, apresentação M4.5 e desenvolvimento acompanhado M6. Fonte e condução recuperáveis em [[Wilber et al. - La Práctica Integral de Vida]] e na Matriz Mestre de Incorporação.
+
+Usar [[M1.7 - Roteiro oral e caderno de produção v0.2]]: cerca de um minuto acrescentado à fala do slide 4, notas sincronizadas na apresentação. Caderno DOCX revisado e renderizado, 20 páginas; 2.894 palavras de fala, estimativa 25–29 minutos incluindo pausa, a confirmar no ensaio. Objetivo, 16 telas, prática de Cartografia e entregável do aluno permanecem pertinentes; este último continua v0.1, sem nova ficha.
+
+- [Caderno atualizado v0.2](https://chatgpt.com/library?file_id=libfile_4035889858f081919b4cf4a51eba502b&account_id=personal)
+- [Apresentação com notas atualizadas](https://chatgpt.com/space/page_208a5ea78b248191be6fa4e35f7de638)
+
+Próxima ação: revisão/ensaio de M1.7; resgatar a ficha bibliográfica na produção de M4.5 e M6. PPTX, transições e cliques continuam pendentes conforme registro anterior. Alterações nesta ramificação/proposta não atestam integração à main nem gravação.
+
+
 ## Produção M1.7 — pacote v0.1 — 02/11/2026
 
 M1.7 — **Perder o eixo não significa perder o percurso**: roteiro integral, 16 slides com notas, caderno DOCX e apoio do aluno DOCX/PDF produzidos para revisão e ensaio. Ler este estado antes das pendências históricas abaixo. Fontes de texto em [[M1.7 - Roteiro oral e caderno de produção v0.1]] e [[M1.7 - Texto de apoio e registro - Percurso e expressão v0.1]].

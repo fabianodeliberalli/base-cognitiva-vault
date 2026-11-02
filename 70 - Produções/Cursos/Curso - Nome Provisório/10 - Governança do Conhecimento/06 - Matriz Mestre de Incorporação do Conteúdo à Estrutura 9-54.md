@@ -297,3 +297,15 @@ Documento operacional: [[00 - Estado e Continuidade da Produção M1]]. O Orques
 Consultar [[TSH - Fotografia da Escada - Repetição, Profundidade e Percurso]] como material de base na produção das aulas. O TSH busca ativamente relações entre Freud, psicologia, conhecimentos biológicos e Grandes Tradições, com complementaridade investigada e preservação das linguagens. A nota inclui vṛttis (movimentos da mente), saṃskāras (impressões), vāsanās (tendências), karma (ação e efeitos), fontes, distinções e usos transpessoais. M4: repetição e elaboração; M5: aprofundamento tradicional e espiritual; M6.5: intenção, prática, condições e efeitos; M7/M8: limites, colaboração, expressão e cultivo. As dezesseis leituras da escada permanecem disponíveis, inclusive grades como prisão.
 
 Acervo: [[TSH-escada-adaptacao-IA-scripz.png]], com fotografia original de [@scripz](https://www.instagram.com/scripz/) e adaptação por IA identificada; capturas originais preservadas. A Masterclass utiliza a imagem no slide 8, explicita o diálogo ativo no 58 e inclui notas nos slides 19, 20, 40 e 47. O Guia e o caderno docente foram atualizados. Não houve alteração de módulos, aulas, datas ou duração da Masterclass.
+
+
+## Processo 3-2-1 — decisão de Fabiano em 02/11/2026
+
+Incorporado ao repertório de fundamentação e práticas. Consultar [[Wilber et al. - La Práctica Integral de Vida#Processo 3-2-1 — incorporação ao TSH em 02/11/2026]]: descrição original, adaptação educativa, fontes, correlações e condições de condução. Objetivo: entrar em relação com algo distante e investigar expressão e desenvolvimento, também por curiosidade e admiração.
+
+- **M1.7:** preparação breve no slide 4, fala/notas/caderno v0.2; telas e material do aluno v0.1 preservados.
+- **M4.5:** apresentação do processo e diferenças entre descrição, diálogo imaginativo e expressão em primeira pessoa.
+- **M6:** desenvolvimento acompanhado, especialmente encontro e relações com M6.1–M6.4; prática facultativa, retorno reflexivo e condições concretas.
+- Retomadas por pertinência: M5.5/M5.8, M7 e M8. Manter quatro campos existentes, sem nova ficha obrigatória.
+
+Correlações: Forghieri (envolvimento/reflexão), Salvador (escuta), Jung/von Franz (sombra/símbolos), mentalização (hipóteses revisáveis), Winnicott (espontaneidade/ambiente). Não tomar toda reação por projeção, toda admiração por capacidade pronta ou resposta imaginada por conhecimento da intenção alheia. Procedência docente; prosa fluida para o aluno. Recuperar esta rota antes de produzir M4.5/M6.
