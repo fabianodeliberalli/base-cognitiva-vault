@@ -49,7 +49,7 @@ def cards(slide, items, y=2.45, h=3.4, n=None):
     for x in xs: rect(slide, x, y, cw, h, fill=CARD, line=LINHA, rounded=0.05)
     return xs, cw
 
-SUB_CURSO = "DA COMPREENSÃO ACUMULADA À MUDANÇA VIVIDA"
+SUB_CURSO = "DA COMPREENSÃO ACUMULADA À PRESENÇA QUE SUSTENTA"
 
 def triad(slide, cur):
     words = ["SABER", "ACESSAR", "SUSTENTAR"]
@@ -79,7 +79,7 @@ code, q = items
 place(code, 0.95, 4.75, 7, 0.4); frame(code, "t"); style(code, SANS, 16, OURO, bold=True, spc=120)
 place(q, 0.95, 5.3, 7.2, 0.6); frame(q, "t"); style(q, SERIF, 26, BEGE, italic=True)
 pic(s, A + "mark_gold.png", 8.95, 0.9, h=4.15)
-label(s, 8.2, 5.25, 5.5, 0.35, SUB_CURSO, size=11, color="E9E2D8", bold=False, align="ctr", spc=120)
+label(s, 8.62, 5.25, 4.65, 0.35, SUB_CURSO, size=8.5, color="E9E2D8", bold=False, align="ctr", spc=120)
 f._element.getparent().remove(f._element)
 
 # 2 cena em três momentos

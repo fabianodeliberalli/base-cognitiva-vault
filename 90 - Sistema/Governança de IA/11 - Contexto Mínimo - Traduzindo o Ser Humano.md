@@ -2,16 +2,16 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.12"
-atualizado_em: 2026-11-02
+versao: "0.13"
+atualizado_em: 2026-11-03
 ---
 
-## EIXO, subtítulo e padrão de slides — decisões de Fabiano em 02/11/2026
+## EIXO, subtítulo e padrão de slides — decisões de Fabiano em 02/11/2026 e 03/11/2026
 
 - **EIXO** é conceito didático adotado no TSH, com a mesma relevância e perspectiva didática de pêndulo, árvore, espiral e demais mapas e metáforas do curso. Pode ser nomeado, explicado e representado quando for pertinente à aula. A única distinção é não apresentá-lo como "Método EIXO" nem como método, marca ou produto alternativo ao TSH, porque esse nome já foi cogitado no lugar de Traduzindo o Ser Humano.
 - O critério de antecipação vale igualmente para todos os mapas: o mapa completo de cada conceito acompanha a aula em que ele é desenvolvido; menções e usos pontuais podem aparecer antes. Não há restrição especial ao EIXO.
 - A linha vertical com os pontos do símbolo, usada nos slides, é elemento da identidade visual (simetria como EIXO, conforme o Manual v1.0) e pode ser usada em qualquer aula.
-- **Subtítulo oficial do curso:** "Da compreensão acumulada à mudança vivida", conforme o Manual de Identidade Visual v1.0. Substitui "à presença que sustenta" em capas, slides e roteiros. "Presença que sustenta" permanece como conceito do curso (Guia de Palavras e Conceitos).
+- **Subtítulo oficial do curso (decisão de Fabiano em 03/11/2026):** "Da compreensão acumulada à presença que sustenta", de forma uniforme em capas, slides, roteiros, Guia de Condução, Masterclass, Raio X e página. Revoga a decisão de 02/11 que adotava "à mudança vivida" (subtítulo anterior do PDF de julho do Manual). "Presença que sustenta" é também conceito do curso (Guia de Palavras e Conceitos). O lema "Compreender · Integrar · Transformar" permanece no Manual para materiais institucionais amplos do projeto, fora do curso.
 - **Slides das aulas a partir de M1.3:** seguir [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]], que atualiza a referência visual de M0.2 citada abaixo. Aulas já padronizadas não serão refeitas.
 
 ## Recuperação — Centro, Essência, Self e expressão — 02/11/2026
@@ -113,7 +113,7 @@ Use esta ficha para começar. Expanda a leitura somente conforme a tarefa. Todas
 - A organização inicial de **7 módulos / 14 aulas** não é mais estrutura. Seus títulos e conteúdos permanecem como acervo histórico de consulta.
 - Durante a estruturação das 54 aulas para posterior gravação, o acervo inicial pode ser consultado como fonte qualificada para **ampliações, correlações e fundamentações**. Cada contribuição será escolhida por necessidade e pertinência ao conteúdo da aula, sem correspondência obrigatória, sem transportar a numeração antiga e sem restaurar a estrutura inicial como arquitetura.
 - Quando **2.1** ou **2.2** identificarem antigas aulas ou unidades, são apenas códigos históricos. Todas as variantes de títulos e conteúdos devem ser preservadas; nenhuma é aula vigente. Elas podem ser consultadas individualmente conforme pertinência, sem determinar numeração, posição ou ordem de gravação nas 54 aulas.
-- O subtítulo oficial é **Da compreensão acumulada à mudança vivida** (Manual de Identidade Visual v1.0), decisão de 02/11/2026; permanece revisável por Fabiano.
+- O subtítulo oficial é **Da compreensão acumulada à presença que sustenta**, decisão de 03/11/2026; permanece revisável por Fabiano.
 - Espiritualidade é dimensão explícita, afirmativa, plural e não dogmática. A identidade integrada de Fabiano não deve ser neutralizada por heurísticas genéricas.
 - “Competência incorporada” é conceito de aprofundamento; não deve virar headline fria por padrão.
 - O curso não promete cura, integração completa, estabilidade permanente, resolução de trauma, realização espiritual ou confirmação metafísica.

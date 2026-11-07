@@ -2,7 +2,7 @@
 tipo: padrao-de-producao
 projeto: Traduzindo o Ser Humano
 status: referencia-revisavel
-versao: "1.1"
+versao: "1.2"
 criado_em: 2026-11-02
 aplica_se_a: aulas a partir de M1.3
 autor: Fabiano Deliberalli
@@ -37,7 +37,7 @@ Referência de produção revisável, derivada das aulas já padronizadas (M0.1�
 
 ### Elementos fixos
 
-- **Capa:** rótulo "TRADUZINDO O SER HUMANO", título da aula, código (ex.: "M1.3"), autor e, se houver, a pergunta da aula em itálico. À direita, a marca nuclear dourada com o subtítulo oficial **"DA COMPREENSÃO ACUMULADA À MUDANÇA VIVIDA"** em caixa-alta sob a marca. Sem número de página.
+- **Capa:** rótulo "TRADUZINDO O SER HUMANO", título da aula, código (ex.: "M1.3"), autor e, se houver, a pergunta da aula em itálico. À direita, a marca nuclear dourada com o subtítulo oficial **"DA COMPREENSÃO ACUMULADA À PRESENÇA QUE SUSTENTA"** em caixa-alta sob a marca (corpo 8,5 pt, centralizado sob a marca). Sem número de página.
 - **Telas de conteúdo:** cabeçalho "TRADUZINDO O SER HUMANO" no alto à esquerda; rodapé "M1.3 • 02 / 12" embaixo à esquerda; símbolo pequeno no canto inferior direito (omitido quando uma ilustração ocupa a área).
 - **Encerramento:** degradê, símbolo em marca-d'água, rótulo "PRÓXIMA AULA" em dourado e a ponte em itálico.
 
@@ -75,7 +75,7 @@ Referência de produção revisável, derivada das aulas já padronizadas (M0.1�
 - Uma ideia por item; frases curtas; sem quebra de linha manual no meio da frase.
 - Verbo e pergunta em campos separados, não unidos por "•".
 - Cena ou exemplo fictício identificado na tela com o rótulo "SITUAÇÃO FICTÍCIA" ou "EXEMPLO FICTÍCIO".
-- Subtítulo do curso: sempre "Da compreensão acumulada à mudança vivida".
+- Subtítulo do curso: sempre "Da compreensão acumulada à presença que sustenta" (decisão de Fabiano em 03/11/2026).
 - EIXO é conceito didático com o mesmo estatuto de pêndulo, árvore e espiral; pode ser nomeado e representado quando pertinente. Não usar "Método EIXO" nem apresentá-lo como método ou marca alternativa ao TSH.
 - A linha vertical com os pontos do símbolo é elemento da identidade visual e pode ser usada em qualquer aula.
 - Citações entre aspas curvas “ ”.
@@ -114,12 +114,16 @@ O deck bruto, venha de onde vier, fica pronto para padronizar sem ajustes quando
 - [ ] Cópia em `Materiais/Módulo N/` com sufixo "- padronizado".
 - [ ] Roteiro do vault atualizado com as marcas de clique.
 
+## Câmera
+
+- Quando a gravação usar câmera no canto superior direito, reservar a área de x > 10,7 pol. e y < 2,4 pol. (círculo de cerca de 2,25 pol.): nenhum texto ou elemento essencial nessa área; o objeto de câmera não fica no arquivo.
+
 ## Diferenças conhecidas nas aulas já padronizadas (sem retrabalho)
 
 - **M0.1, M0.2, M0.3:** rodapé só com número ("02"), sem cabeçalho.
 - **M1.1:** capa sem o subtítulo oficial sob a marca; o subtítulo aparece em itálico abaixo do autor.
 - **M0.2, M0.3:** roteiros do vault ainda sem as marcas [CLIQUE].
-- **M1.1:** roteiro v0.2 do vault ainda com o subtítulo antigo na indicação da tela 1.
+- **M1.1:** roteiro v0.2 do vault ainda sem a indicação do subtítulo na tela 1.
 - **M0.2, slide 10:** condução aponta a frase inferior "ao falar da linguagem própria", mas a frase corresponde ao parágrafo sobre disponibilidade; clique colocado nesse parágrafo.
 
 ## Ferramentas
