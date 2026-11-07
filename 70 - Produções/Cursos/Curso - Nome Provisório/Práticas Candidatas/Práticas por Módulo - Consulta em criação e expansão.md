@@ -4,6 +4,20 @@ status: em-criacao-e-expansao
 incorporado_em: 2026-10-31
 ---
 
+## Orientação transversal das práticas — sentir, diferenciar e participar (07/11/2026)
+
+A prática é uma possibilidade de **cultivar condições para perceber, diferenciar, orientar ou integrar**, não uma exigência para demonstrar mudança. Ao escolher ou revisar uma prática, perguntar que capacidade ela pode desenvolver e que continuidade viável oferece ao participante. Isto não torna esta coleção de práticas obrigatória nem modifica suas funções originais.
+
+- Sensação percebida é experiência válida em primeira pessoa, **não prova automática** de causa, intenção do outro ou explicação espiritual.
+- Pode haver ganho em nomear, contextualizar, reconhecer limites ou decidir não aprofundar uma experiência naquele momento.
+- Em experiências intensas, a prioridade são condições de segurança e regulação; não impor atenção corporal prolongada.
+- O participante pode diferenciar com palavras, imagem, gesto, reflexão ou diálogo, conforme contexto e escolha.
+- **Bússola em movimento** permanece prática candidata para desenvolvimento preferencial em M6 e retomada em M7/M8: situação cotidiana de baixa intensidade; notar o que percebo; o que interpreto; o que minha história acrescenta; que outras hipóteses são possíveis; e que pequena direção posso experimentar observando seus efeitos. Não é técnica de leitura mental.
+- A Árvore da Singularidade conserva singularidade e interação permanente com campo; eixo, bússola, pêndulo e espiral são recursos complementares, não métodos autônomos.
+
+Consultar [[TSH - Destinação dos quatro movimentos, bússola e sentir como aprendizagem - 2026-11-07]] antes de desenvolver a prática na aula pertinente. Não acrescentar uma ficha automática em todos os módulos.
+
+
 # Práticas por módulo como consulta em criação e expansão
 
 > Decisão expressa de Fabiano em 31/10/2026: este material está em plena criação e expansão. É um referencial de consulta quando pertinente ao conjunto do curso, também em construção. Não é o documento de referência para construir as práticas, não define uma prática obrigatória por módulo e não fixa doses, técnicas ou roteiros.
