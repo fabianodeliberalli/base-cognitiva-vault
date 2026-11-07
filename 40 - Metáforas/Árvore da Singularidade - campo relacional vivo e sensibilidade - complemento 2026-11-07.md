@@ -27,3 +27,12 @@ Ver [[TSH - Sensibilidade percepcao diferenciacao e liberdade - fundamentacao in
 
 ## Leitura integrada confirmada 07/11
 A metáfora da árvore dialoga com os quatro movimentos sem equivalência mecânica: sensibilidade = capacidade viva de interação com campo; casca/limites = proteção e permeabilidade; as condições se transformam e a árvore participa da transformação. A bússola pode simbolizar, quando pertinente, orientação na experiência espiritual e relação com Essência **sem virar detector infalível**. A distinção permanece: Essência como dimensão fundante; singularidade como expressão própria; recursos didáticos como formas de observação, orientação e participação. A bússola ajuda investigar percepção/importância/direção; o eixo a reconhecer referência/estado/movimento/retorno. Não fixar como única gramática do projeto.
+
+
+## Singularidade e participação além da individualidade — registro autoral
+
+Preservar simultaneamente duas dimensões no TSH: **a singularidade da pessoa e sua participação em relações e realidades que ultrapassam uma concepção exclusivamente individual**. A Árvore da Singularidade é a expressão pedagógica dessa coexistência: **a árvore é singular, mas não existe fora das condições e relações com as quais continua interagindo**.
+
+O Campo não é cenário estático ou somente influência pretérita: envolve relações presentes, possibilidades de apoio, limitações, trocas e transformações recíprocas. A singularidade não se dissolve no campo e tampouco se constitui como isolamento autossuficiente. Casca/limites preservam diferenciação e permeabilidade. A base segue recebendo cuidado ao longo da expansão. A abertura espiritual/transpessoal permanece em seus próprios termos sem confundir o enunciado metafórico com uma explicação causal comprovada.
+
+As três perspectivas de aprendizagem — **Percepção, Diferenciação, Participação** — articulam-se à árvore: perceber o que acontece no encontro com o campo; diferenciar história, experiência, interpretação e condições; participar da relação e cultivar expressão própria mais livre e congruente. Ver [[TSH - Sensibilidade percepcao diferenciacao e liberdade - fundamentacao integrada]].
