@@ -10,6 +10,10 @@ autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
 
+## Referência de qualidade pedagógica para cada aula (07/11/2026)
+
+Ao buscar fontes, exemplos e materiais em cada uma das 54 aulas, consultar [[70 - Produções/Cursos/Curso - Nome Provisório/Protocolo de Elaboração Curricular Viva e Continuidade Leve#Critério de qualidade pedagógica — formulação integral e aplicação por material (07/11/2026)]]. O princípio completo está registrado **uma única vez** no protocolo para evitar versões divergentes. Perguntar não só o que o participante compreenderá, mas o que poderá perceber, diferenciar, desenvolver ou expressar; escolher o melhor meio de acordo com a aula. Verificar suficiência pedagógica antes de propor nova prática, slide ou entregável. Reconhecimento de algo antes indistinto pode ser aprendizagem suficiente; não exigir comportamento novo, nem replicar a tríade em todos os materiais. As três situações do TSH ajudam a distinguir reconhecimento, acesso e cultivo. Esta matriz mantém função consultiva e não obriga alterações massivas nos 54 roteiros.
+
 ## Diretriz transversal de criação e revisão — participação consciente (07/11/2026)
 
 Antes de selecionar exemplos, apresentações, práticas e entregáveis de uma aula, aplicar a orientação incorporada ao [[Protocolo de Elaboração Curricular Viva e Continuidade Leve]]: não basta perguntar “o que a pessoa compreenderá?”; perguntar também **“o que poderá reconhecer, diferenciar, acessar, desenvolver ou expressar?”**. Essa escolha guia os materiais, **não cria outro tema ou bloco obrigatório**.
