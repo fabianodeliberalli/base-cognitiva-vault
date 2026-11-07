@@ -67,3 +67,44 @@ Em uma interação segura, perceber o que muda no corpo, nomear a sensação sem
 
 ## Critério de reuso
 Consultar esta nota ao produzir os materiais acima **apenas quando pertinente**. Não transformar metáfora em técnica validada, hipótese ontológica em dado empírico, nem sincronia em certeza sobre o estado interior de outra pessoa. Preservar liberdade autoral e revisibilidade.
+
+
+## Ampliação autoral solicitada em 07/11/2026 — quatro movimentos e aprender a sentir
+
+### Quatro movimentos transversais do TSH
+1. **O corpo também percebe.** Não é apenas suporte de sintomas ou veículo dos padrões; participa da percepção de condições ambientais e relacionais.
+2. **A sensibilidade pode ser cultivada.** Aprendizagens defensivas e previsões modulam o sentir, mas mudanças de contexto, estado, atenção, segurança e novas experiências podem ampliar discriminação e liberdade.
+3. **O sentir pode anteceder a formulação verbal.** Reconhecer uma experiência pré-reflexiva não equivale a conhecer imediatamente sua origem, nem significa ausência completa de cognição.
+4. **O encontro participa do que sentimos.** Sentimentos e sensações que emergem na relação podem informar o processo de auto-observação de qualquer pessoa, além do uso especializado da contratransferência em psicoterapia.
+
+### Bússola interna em diálogo com o eixo
+- **Bússola interna**: metáfora complementar da sensibilidade que busca direção, discrimina sinais e investiga relevância. Não pressupõe verdade infalível, pureza infantil anterior aos padrões, leitura mental nem detecção automática da Essência.
+- **eixo**: referência didática de estado, participação, orientação, movimento e retorno. Não transformar em marca/método independente; não fixar a imagem como sistema único de leitura do ser humano.
+- **Relação**: a bússola favorece investigar “o que percebo, o que importa e para onde me orientar”; o eixo favorece “de onde respondo, como me movimento e como recupero referência”.
+- **Pêndulo**: sentir a amplitude, velocidade, permanência e regularidade das oscilações sem exigir imobilidade.
+- **Espiral**: a discriminação se amplia por revisitações e novas experiências; retorno não é repetição idêntica.
+- **Árvore da Singularidade**: percepção no campo relacional e congruência expressiva; valores e condições para a singularidade se manifestar. A bússola não é Essência/Self/Eu Superior, embora possa dialogar com buscas existenciais e espirituais.
+
+### Aprender a sentir — público geral, além do contexto clínico
+A formação não ensina o participante a “ler” estados internos alheios, mas a desenvolver contato mais fino com experiência interna e encontro. Sequência didática não linear, revisável:
+1. perceber o estado e o ambiente;
+2. acolher a sensação sem decretar a causa;
+3. distinguir corpo, memória, expectativa, sinais relacionais e significados possíveis;
+4. verificar com contexto, diálogo respeitoso quando cabível e observação continuada;
+5. escolher resposta pequena, observar efeito e integrar.
+Pode haver ausência de sinal claro, sensações ambíguas e estados de alta ativação; nesses casos, regulação e segurança vêm antes da interpretação. Evitar práticas de hipervigilância corporal ou exposição emocional obrigatória.
+
+### Estados e dimensões ampliadas — quadro de tradução
+| Plano | Possibilidade experiencial | Pergunta de diferenciação | Estatuto |
+|---|---|---|---|
+| Fisiológico | alteração respiratória, tensão, excitação, repouso | que estado corporal está presente? | descritivo, investigável |
+| Afetivo | atração, receio, cuidado, estranhamento | que emoção ou valência posso reconhecer? | experiência + hipótese |
+| Histórico | familiaridade, defesa, previsão | o que a minha história pode acrescentar? | interpretação revisável |
+| Relacional | sintonia, ruptura, proximidade, sensação evocada pelo encontro | o que se modificou nesta interação? | intersubjetivo, confirmação parcial |
+| Existencial | direção, valor, pertencimento, congruência | que sentido emerge e que efeito tem em minha vida? | fenomenológico |
+| Contemplativo/transpessoal | unidade, conexão, expansão de consciência | como descrever sem impor causa? | relato vivido; ontologia em aberto |
+
+Estados fisiológicos são parte de experiências ampliadas, não seu sinônimo nem sua prova. Distinguir dimensão da experiência, interpretação pessoal e validação externa. A experiência merece acolhimento mesmo quando seu mecanismo permanece incerto.
+
+### Destinos prospectivos e critério editorial
+Consultar [[TSH - Destinação dos quatro movimentos, bússola e sentir como aprendizagem - 2026-11-07]] para oportunidades por módulo, roteiro, slide, nota e entregável. Não antecipar toda a elaboração nas primeiras aulas; inserir conforme a arquitetura vigente e verificar materiais já produzidos antes de alterá-los. Preservar as quatro perspectivas como fundamentos e a bússola como metáfora associada ao eixo, não como nova promessa central.
