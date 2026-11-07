@@ -60,7 +60,13 @@ O terceiro capítulo contém a diferença pedagógica mais importante: a queda s
 
 ### Masterclass: dose e sequência
 
-Tela 4 abre a pergunta a partir da trajetória. Tela 16 preserva Leong e Meltzoff na fala, acrescenta uma frase com regularidade, ensaio e uso posterior e retorna à mão no telefone. Tela 20 conserva uma única cena familiar, mostrando o recurso aprendido com a tia ganhar expressão anos depois quando há apoio para discordar. Tela 31 preserva as perguntas aprovadas e a pausa. Na tela 32, retomar a mensagem por meio de uma paráfrase de Portia Nelson (até 35 segundos), sem projetar o poema. Perguntar “O que exatamente voltou?”. O aprofundamento sobre os mapas fica no curso.
+Tela 4 abre a pergunta a partir da trajetória. Tela 16 preserva Leong e Meltzoff na fala, acrescenta uma frase com regularidade, ensaio e uso posterior e retorna à mão no telefone. Tela 20 conserva uma única cena familiar, mostrando o recurso aprendido com a tia ganhar expressão anos depois quando há apoio para discordar. Tela 31 preserva as perguntas aprovadas e a pausa. Na tela 32, retomar a mensagem por meio de uma paráfrase de Portia Nelson (até 50 segundos, com a pergunta sobre condições), sem projetar o poema. Perguntar “O que exatamente voltou?”. O aprofundamento sobre os mapas fica no curso.
+
+### Leitura própria para 10/11 e retomadas no curso
+
+Na tela 31, preservar o retorno da tela 30, fazer as duas perguntas e aguardar em silêncio. Só então avançar. Tela 32: dizer a paráfrase creditada a Portia Nelson e fazer a ponte oral “O poema fala em culpa. Eu perguntaria o que estava ao alcance daquela pessoa. E se aquela fosse a única rua segura para chegar ao trabalho? Às vezes o próximo passo depende de companhia, dinheiro ou de uma passagem que ainda precisa ser aberta.” Reservar até 50 s no bloco de 19h50. O slide continua a mostrar o antes e o agora da mensagem.
+
+Nas telas já existentes, usar o espelho (27) para discernir o que foi mobilizado e o que a situação exige; o eixo (33) para recuperar referência; o pêndulo (36) para observar a rapidez e as alternativas; a espiral (40) para comparar o que senti, fiz e encontrei em dois reencontros. Desenvolver os quatro mapas ao longo das aulas. A [[06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54#Fonte, pergunta e ação para a gravação e a ficha do participante|matriz por fonte]] traz a atividade e o alcance de cada referência.
 
 ## Atualização de 1 de novembro de 2026
 
