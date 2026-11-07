@@ -10,6 +10,10 @@ autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
 
+## Recuperação para gravação — repetição, aprendizagem e campos (07/11/2026)
+
+Abrir [[Guia-de-Conducao-Masterclass - Estado e Continuidade#Preparação para gravação: fontes, mapa e ação do aluno|Preparação para gravação por módulo]] antes de escrever as aulas pertinentes. M1: regularidade, coordenação e imitação diferida (Saffran, Leong, Meltzoff). M4: espelho, pêndulo e distinção entre impulso e ação. M5: Chalmers, Lutz/Varela e James para experiência em primeira pessoa; Masuda e Nisbett para atenção cultural ao contexto. M6.5: espiral, eixo e terceiro capítulo da parábola de Portia Nelson. M7: prática situada, custos e apoios. M8: retenção, expressão posterior e continuidade. O registro contém referências primárias, exemplos e perguntas de condução.
+
 ## Recuperação — Centro, Essência, Self e expressão — 02/11/2026
 
 Por solicitação de Fabiano, [[Self, Essência, Alma, Eu Superior e Fontes Integrais]] recebeu atualização de trabalho com relações afirmativas, diferenças conceituais, fontes primárias, destinos em M1–M8 e recursos práticos. Ler a atualização de novembro antes do histórico de julho: Essência tem a definição espiritual ampliada do Léxico; eixo é recurso didático, sem restaurar Método EIXO.
