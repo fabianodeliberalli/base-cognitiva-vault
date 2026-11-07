@@ -71,3 +71,25 @@ Distinguir (a) fenomenologia e relatos; (b) possíveis correlações psicofisiol
 
 ## Nota de proveniência
 A ampliação nasce de formulações explícitas de Fabiano, correlacionadas criticamente com as fontes. **O manuscrito de Arquitetura Invisível enviado neste turno não pôde ser lido: o arquivo .docx continha uma página de login do OneDrive, não um documento Word válido.** O capítulo *Espiritualidade e Psicoterapia: entre o reducionismo e a credulidade* foi efetivamente consultado, e suas categorias dialogam em nota editorial separada. Revisar o texto literal do TCC Transpessoal no vault quando seu caminho específico for encontrado.
+
+
+## Consolidação expressamente aprovada — 07/11/2026 (com imagens da Roda de Siegel)
+Formulação integrada a recuperar literalmente nas aulas: **“O TSH compreende a aprendizagem humana como um processo de ampliação da percepção, diferenciação e integração da experiência, pelo qual a pessoa desenvolve maior capacidade de reconhecer seus estados, suas histórias e suas relações, atribuir sentidos revisáveis ao que vive e cultivar condições para responder com maior liberdade e congruência.”**
+Outras formulações:
+- “A consciência não precisa substituir a sensibilidade pré-reflexiva. Pode ampliar a capacidade de reconhecê-la, diferenciá-la e integrá-la.”
+- “A consciência reflexiva não precisa assumir o controle da experiência para que possamos desenvolvê-la. Pode aprender a reconhecer e integrar aquilo que já acontece em nosso corpo, nas relações e nas formas não conscientes de percepção. Ao mesmo tempo, aquilo que sentimos pode encontrar novas possibilidades de organização quando desenvolvemos linguagem, discernimento, segurança e liberdade de resposta.”
+- “O desenvolvimento humano não consiste apenas em compreender melhor aquilo que sentimos, mas em desenvolver condições para perceber o que antes não reconhecíamos, diferenciar o que aprendemos a interpretar, integrar dimensões de nossa experiência e ampliar nossa liberdade de participação na vida.”
+- “Sentir amplia a compreensão; compreender refina o sentir; e a experiência vivida oferece novas oportunidades para ambos se transformarem.”
+A bússola, o eixo, a árvore, o pêndulo e a espiral traduzem aspectos complementares da mesma realidade, **sem qualquer metáfora pretender explicar sozinha o ser humano**.
+
+### Precisão neurocientífica de uso obrigatório nas notas de fundamentação
+Não mapear processamento não consciente = subcórtex e processamento reflexivo = córtex; tampouco equiparar hemisfério direito = sentimento e esquerdo = razão. Processos conscientes e não conscientes recrutam redes corticais/subcorticais distribuídas, com interações e feedback recíprocos. Schore enfatiza especialmente circuitos e comunicação afetiva ligados ao hemisfério direito, mas isso é recorte teórico, não exclusividade neural. Separar esta discussão do significado espiritual da Essência.
+
+### Desenvolvimento — proposição de ensino
+Capacidades perceptivas e relacionais precoces continuam participando da vida adulta, porém sua **organização, acessibilidade e interpretação** mudam. Adversidade pode privilegiar ameaça, desconfiança das próprias experiências, supressão perceptiva ou respostas antes adaptativas; não significa perda geral da sensibilidade. Em situações de hipervigilância, pode até haver sensibilidade intensa com baixa discriminação e baixa flexibilidade. “Recuperar a bússola” pode significar recuperar liberdade de relação com capacidades já presentes, e não retornar a uma percepção infantil supostamente perfeita.
+
+### Fonte autoral primária efetivamente recuperada
+[[00 - Caixa de Entrada/Monografia Pos Transpessoal/Monografia Pos Transpessoal]] — monografia de pós-graduação de Fabiano, consultada diretamente no GitHub (na seção introdutória, discussão de Wilber 2006–2007, falácia pré/trans, relação entre psicanálise/espiritualidade; mais adiante, discussão Winnicott, mãe-bebê, holding, espaço potencial, constituição egóica e experiência espiritual). Distinguir o argumento efetivamente formulado por Fabiano no TCC das ampliações deste chat. Fonte externa primária: Wilber (1982), https://doi.org/10.1177/0022167882222002. A hipótese de continuidade da sensibilidade infantil não equivale a identificação do pré-pessoal com trans-pessoal.
+
+### Relação com Siegel e a figura do chat
+Ver [[TSH - Roda da Consciência de Siegel e autoria da síntese da experiência - 2026-11-07]]. A figura sistêmica em torno de “experiência integrada” é **síntese pedagógica**, não teoria neurocientífica original; a Roda da Consciência (centro, raio, periferia, sentidos 1–8) é de autoria de Daniel J. Siegel. Não apresentar nem reaproveitar como diagrama original do TSH sem distinção e crédito.
