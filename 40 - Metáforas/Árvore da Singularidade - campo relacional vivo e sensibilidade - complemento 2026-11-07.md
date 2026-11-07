@@ -23,3 +23,7 @@ A Essência permanece fundamento primordial e dimensão espiritual/transpessoal 
 ## Possibilidades curriculares
 M1.7: relação delicada entre eixo, Essência, expressão (avaliar carga da aula). M3: perceber o campo e recursos de retorno. M4: limites e filtros aprendidos. M5: dimensão vertical/transpessoal sem reduzir tudo ao contexto. M6–M7: interagir de modo mais livre e congruente; prática da bússola em movimento. M8: continuar o cultivo da base e da relação com o campo.
 Ver [[TSH - Sensibilidade percepcao diferenciacao e liberdade - fundamentacao integrada]] e [[TSH - Destinação dos quatro movimentos, bússola e sentir como aprendizagem - 2026-11-07]].
+
+
+## Leitura integrada confirmada 07/11
+A metáfora da árvore dialoga com os quatro movimentos sem equivalência mecânica: sensibilidade = capacidade viva de interação com campo; casca/limites = proteção e permeabilidade; as condições se transformam e a árvore participa da transformação. A bússola pode simbolizar, quando pertinente, orientação na experiência espiritual e relação com Essência **sem virar detector infalível**. A distinção permanece: Essência como dimensão fundante; singularidade como expressão própria; recursos didáticos como formas de observação, orientação e participação. A bússola ajuda investigar percepção/importância/direção; o eixo a reconhecer referência/estado/movimento/retorno. Não fixar como única gramática do projeto.
