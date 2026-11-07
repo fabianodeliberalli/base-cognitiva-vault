@@ -6,6 +6,10 @@ versao: "0.13"
 atualizado_em: 2026-11-07
 ---
 
+## Critério de qualidade pedagógica — texto integral agora no Protocolo (07/11/2026)
+
+Ao iniciar ou revisar **qualquer** aula TSH, recuperar [[70 - Produções/Cursos/Curso - Nome Provisório/Protocolo de Elaboração Curricular Viva e Continuidade Leve#Critério de qualidade pedagógica — formulação integral e aplicação por material (07/11/2026)]]. Lá constam a redação exata da finalidade de cada aula, a pergunta “O que esta aula pode ajudá-lo a perceber, diferenciar, desenvolver ou expressar na própria vida?”, a aplicação para **roteiro oral, PowerPoint, notas do apresentador, práticas, entregáveis e encontros ao vivo**, e o critério de suficiência: aprendizagem pode ser reconhecimento/diferenciação sem mudança comportamental imediata. Aplicar no fluxo já existente, sem checklist ou formato compulsório. Consultar as três situações do TSH e avaliar materiais já produzidos antes de modificá-los. Esta atualização na branch ainda requer integração à main para valer no acesso padrão.
+
 ## Princípio orientador da produção — aplicação em todos os materiais (07/11/2026)
 
 **Decisão de Fabiano:** percepção, diferenciação e participação são uma **orientação de elaboração das aulas**, não apenas conteúdo e não novo método. Na produção de qualquer roteiro, slide, nota, encontro ou entregável TSH, aplicar o trecho [[Protocolo de Elaboração Curricular Viva e Continuidade Leve#Princípio orientador transversal de produção — percepção, diferenciação e participação (decisão de Fabiano, 07/11/2026)]]. A questão de trabalho é: “O que esta aula pode ajudar a pessoa a perceber, diferenciar, desenvolver ou expressar em sua própria vida?”, junto à pergunta sobre o que ela precisa compreender.
