@@ -51,3 +51,20 @@ James, Rabeyron, Fonagy, Stern, Winnicott e Varela: fenomenologia, diálogo, nã
 
 ## Regime da próxima intervenção
 Nada foi editado nos dois documentos autorais originais. Retomar este roteiro ao realizar revisão substantiva dos capítulos; consultar originais, preservar linguagem e fundamentação prévias, propor inserções pontuais sem converter obra literária em manual, nem capítulo clínico em material comercial do curso.
+
+## Atualização posterior — recuperação de originais pelo repositório em 07/11/2026
+A pendência anterior referia-se somente ao **DOCX anexado pelo OneDrive** (que retornou conteúdo HTML de login). O inventário do TSH permitiu recuperar efetivamente, no GitHub:
+- [[00 - Caixa de Entrada/Arquitetura Invisível]]: projeto autoral amplo, cujo Prefácio–Manifesto se intitula “A Sensibilidade como Arquitetura da Consciência” e organiza bases neurobiológica, relacional, regulatória e fenomenológica. Há também metáfora funcional dos Eus (Eu Básico/Eu Médio/Eu Superior), Alma e Essência, sensibilidade e narrativa, com premissas ontológicas próprias. **Não é sinônimo da arquitetura das 54 aulas do TSH.**
+- [[90 - Sistema/Pesquisa e Editorial/Livro Autoral - Arquitetura Transversal/10 - Fontes Recuperadas/Arquitetura Invisível/Arquitetura_Invisivel_capitulo_consolidado - fonte recuperada]]: versão histórica do capítulo “O problema da informação multidimensional e a Fisiologia da Consciência Integrada”, com proposta expressa de que a sustentação relacional pode ser variável causal importante da integração, apresentada pelo próprio autor como hipótese clínica mais forte/arriscada que o modelo do TCC PUCRS. **Não converter hipótese causal em evidência demonstrada.**
+- [[00 - Caixa de Entrada/Monografia Pos Transpessoal/Monografia Pos Transpessoal]]: TCC de Pós em Transpessoal recuperado; discussão de Wilber e falácia pré/trans, Winnicott e relações mãe-bebê, ambiente e processos transicionais.
+
+### Contribuição nova frente ao Prefácio–Manifesto
+O texto já entende a captação sensível como competência estruturante e descreve que o Eu Médio não deve dominar a sensibilidade. A ampliação atual do TSH melhora a precisão ao recusar a organização rígida “experiência inconsciente = subcórtex/hemisfério direito versus controle cortical”, propondo **interações entre redes distribuídas, percepção pré-reflexiva e reflexão**. Incorpora ainda a diferença entre sensibilidade intensa e discernimento, a dimensão pedagógica universal (não somente formação de clínicos) e a prática de perceber/diferenciar/orientar/integrar. Conectar isso ao livro **como possibilidade de refinamento**, sem alterar as fontes originais nem negar a ontologia própria da Essência.
+
+### Contribuição nova frente ao capítulo histórico
+A tese da sustentação relacional como fator causal precisa ser mantida como hipótese clínica e testável, não conclusão da revisão narrativa do TCC. A introdução de validação fenomenológica versus interpretação e da bússola ajustável pode tornar mais claro o que é observado, o que é inferido e o que se pretende investigar em experiências espirituais ou incomuns. Recuperar as formulações atuais do capítulo *Espiritualidade e Psicoterapia* como referência de abertura ontológica e hospitalidade epistemológica, evitando retroceder a certezas prematuras. Distinguir as camadas interpretativas do livro das afirmações pedagógicas do TSH.
+
+### Links do OneDrive desta conversa
+TCC Transpessoal: https://1drv.ms/w/c/804d971312b1dfc2/IQDC37ESE5dNIICAUBQAAAAAAWwSb516Y1BhmXYykYo04VY?e=b9cABK
+Arquitetura Invisível: https://1drv.ms/w/c/804d971312b1dfc2/IQCiIsN57mQdRZFaGc3OOWaPAfjk0cU2xvQVMNtDF7rQoJY?e=w5MHKQ
+Os links não retornaram os documentos para leitura direta nesta sessão; a consulta no GitHub recuperou textos históricos, **não comprova que correspondem à versão mais atual desses links**.
