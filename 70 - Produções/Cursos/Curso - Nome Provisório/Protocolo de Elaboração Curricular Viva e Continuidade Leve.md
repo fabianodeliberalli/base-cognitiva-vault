@@ -9,6 +9,32 @@ atualizado_em: 2026-09-07
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
+
+## Princípio orientador transversal de produção — percepção, diferenciação e participação (decisão de Fabiano, 07/11/2026)
+
+**Função:** orientar as decisões pedagógicas de **cada aula e de cada material** do TSH, não inserir uma nova unidade, fórmula, prática obrigatória, slogan em todos os slides ou roteiro rígido. A elaboração parte da pergunta: **“O que esta aula pode ajudar a pessoa a perceber, diferenciar, desenvolver ou expressar em sua própria vida?”** Ao lado da pergunta sobre o que ela precisa compreender.
+
+> Ampliar a percepção não significa apenas sentir mais intensamente, mas desenvolver condições para sentir, diferenciar, atribuir sentido e responder com maior liberdade.
+
+> A aprendizagem deixa de ser apenas uma aquisição de informações sobre si. Torna-se também um processo de refinamento da percepção, da participação consciente e da capacidade de responder à experiência.
+
+> Sentir amplia a compreensão; compreender refina o sentir; e a experiência vivida oferece novas oportunidades para ambos se transformarem.
+
+A intenção pedagógica atravessa **percepção** (reconhecer experiências ainda não verbalizadas), **diferenciação** (distinguir experiência sentida de interpretações e seus antecedentes) e **participação** (cultivar condições para expressão em escolhas, relações e modos de viver). Esses termos orientam o trabalho **em conjunto**, sem exigência de exposição explícita, ordem, contagem de itens ou prática em todas as aulas. A pessoa é singular e permanece em interação com campo, relações e possibilidades de sentido, inclusive a dimensão espiritual própria do TSH.
+
+**Aplicar no fluxo de criação já existente, sem adicionar outro formulário ou etapa:**
+- **Ao definir a finalidade e a progressão da aula:** identificar que aspecto do vivido se tornará mais reconhecível, diferenciável, acessível ou expressável. Nas três situações do TSH, distinguir *ainda não reconheço*, *compreendo e não acesso* e *reconheço e não desenvolvi*; não presumir mudança imediata.
+- **No roteiro oral:** escolher no mínimo uma ponte substantiva entre a compreensão oferecida e uma experiência humana concreta, quando essa ponte contribuir à finalidade da aula. Pode ser uma cena, pergunta, contraste, metáfora ou observação; não incluir exercícios por obrigação.
+- **Nos slides:** priorizar representações que efetivamente esclareçam estados, relações, condições, interpretações e escolhas, mantendo legibilidade e o padrão visual. Nenhum novo carimbo, ícone, tríade fixa ou slide obrigatório.
+- **Nas notas/caderno do professor:** registrar sinteticamente a intenção experiencial, o fundamento pertinente e a contribuição/limites das fontes, incluindo a distinção entre relato, interpretação, hipótese e evidência. Não transferir aparato acadêmico integral ao aluno.
+- **Nas práticas e encontros:** favorecer investigação segura e proporcional, reconhecimento de apoios e possibilidade de revisão; atividades podem ser contemplativas, reflexivas, corporais, relacionais ou apenas observacionais. Evitar exigir intensidade emocional, interpretações de estados alheios ou exposição traumática.
+- **Nos entregáveis:** só produzir quando ajudarem a continuidade do que a aula oferece (reconhecimento, diferenciação, experimentação, cultivo ou registro de mudanças); não criar mais uma ficha para comprovar presença do princípio.
+- **Na revisão de coerência antes de concluir uma versão:** perguntar se o material oferece participação possível na aprendizagem, preserva singularidade/condições concretas, e não confunde compreensão com mudança, intensidade com integração ou sensação com prova de sua causa. Ajustar apenas onde houver acréscimo real.
+
+**Critério de qualidade:** uma aula conceitual pode cumprir plenamente sua função ao ampliar a capacidade de nomear ou diferenciar algo; não se exige comportamento observável imediato nem mudança de estado como condição de aprendizagem. Em outros casos o ganho pode ser um ensaio, um recurso de retorno, uma escolha pequena ou integração posterior. A dimensão espiritual não precisa ser reduzida a fisiologia.
+
+**Fontes de aprofundamento sob demanda, não carregamento obrigatório integral:** [[TSH - Sensibilidade percepcao diferenciacao e liberdade - fundamentacao integrada]], [[TSH - Destinação dos quatro movimentos, bússola e sentir como aprendizagem - 2026-11-07]], [[Árvore da Singularidade - campo relacional vivo e sensibilidade - complemento 2026-11-07]]. Para representações que dialogam com Siegel, consultar [[TSH - Roda da Consciência de Siegel e autoria da síntese da experiência - 2026-11-07]]. Aplicar o fundamento a novas aulas e a revisões substantivas de materiais existentes, **não refazer automaticamente os 54 roteiros ou as apresentações**. Este princípio não altera arquitetura 9/54, promessa, subtítulo ou a função pedagógica própria do eixo, bússola, árvore, pêndulo e espiral.
+
 ## Retomadas e materiais registrados em 31/10/2026
 
 Antes de produzir a aula pertinente, consultar [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Governança do Conhecimento/TSH - Retomadas de escrita atenção e diferenciação nas 54 aulas]] e os itens correspondentes em [[70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/TSH - Escrita atenção e diferenciação - Referências e limites]]. A matriz utiliza o Raio X atualizado de 31/10; não altera a arquitetura. [[70 - Produções/Cursos/Curso - Nome Provisório/Práticas Candidatas/Práticas por Módulo - Consulta em criação e expansão]] está em plena criação e expansão: somente consulta contextual, sem governar as práticas. Aplicar [[70 - Produções/Cursos/Curso - Nome Provisório/20 - Identidade Visual/10 - Sistema Oficial v1.0/00 - Manual de Identidade Visual v1.0]] aos slides e entregáveis. Registrar o uso efetivo de cada fonte e sua limitação. M0.2 atual: [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 0/M0.2 - Roteiro e notas sincronizados v1.2]].
