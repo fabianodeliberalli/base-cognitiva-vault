@@ -6,6 +6,18 @@ versao: "0.13"
 atualizado_em: 2026-11-07
 ---
 
+## Revisão de autoria e fundamentos do sentir — 07/11/2026
+
+**Orientação autoral confirmada:** “Ampliar a percepção não significa apenas sentir mais intensamente, mas desenvolver condições para sentir, diferenciar, atribuir sentido e responder com maior liberdade.” Aprendizagem = refinamento da percepção, participação consciente e capacidade de resposta. Sentir e compreender cooperam. Consultar [[TSH - Sensibilidade percepcao diferenciacao e liberdade - fundamentacao integrada]] e [[TSH - Destinação dos quatro movimentos, bússola e sentir como aprendizagem - 2026-11-07]].
+
+**Imagem da Roda de Siegel:** distingue centro (*hub*), raio de atenção (*spoke*) e aro (*rim*) com cinco sentidos, interocepção, atividade mental e interconexão. Não apresentá-la como autoria TSH nem afirmar que “Self separado é ilusão” é achado neurocientífico; conferir [[TSH - Roda da Consciência de Siegel e autoria da síntese da experiência - 2026-11-07]]. Estudos SVG de bússola/eixo na pasta de recursos visuais são próprios e editáveis, sem substituir o manual ou copiar a Roda.
+
+**Fontes autorais efetivamente localizadas:** [[00 - Caixa de Entrada/Monografia Pos Transpessoal/Monografia Pos Transpessoal]] (Wilber, falácia pré/trans e Winnicott); [[00 - Caixa de Entrada/Arquitetura Invisível]] (sensibilidade como arquitetura da consciência) e [[90 - Sistema/Pesquisa e Editorial/Livro Autoral - Arquitetura Transversal/10 - Fontes Recuperadas/Arquitetura Invisível/Arquitetura_Invisivel_capitulo_consolidado - fonte recuperada]] (fonte histórica). Links OneDrive fornecidos não foram diretamente acessíveis; não presumir equivalência com versões atuais. [[TSH - Ampliações dos manuscritos Psicoterapia e Espiritualidade e Arquitetura Invisível - 2026-11-07]] documenta diálogo e limites.
+
+**Ressalva neural:** processamento não consciente versus reflexivo não se localiza exclusivamente em subcórtex versus córtex ou hemisfério direito versus esquerdo; considerar circuitos distribuídos e recíprocos. Em desenvolvimento adverso pode aumentar a sensibilidade a ameaça enquanto diminui discriminação e liberdade de resposta; “recuperar bússola” não é retornar à inocência infantil.
+
+Material registrado **nesta ramificação**, não na main, para reuso por pertinência nos roteiros, apresentações, notas do professor e entregáveis. Não declarar produção dos arquivos das aulas concluída.
+
 ## Recuperação imediata — sensibilidade, discernimento e liberdade (07/11/2026)
 Fabiano confirmou as duas formulações estruturantes sobre ampliação da percepção e aprendizagem como refinamento da percepção/participação/resposta. Quatro movimentos e eixo–bússola devem atravessar aulas por pertinência, sem novo método. Consultar [[TSH - Sensibilidade percepcao diferenciacao e liberdade - fundamentacao integrada]] (Siegel, Schore, Castellanos, infância, Wilber/pré-trans, experiência ampliada), [[TSH - Destinação dos quatro movimentos, bússola e sentir como aprendizagem - 2026-11-07]] (destinação M1–M8 e exercício Bússola em movimento), [[Árvore da Singularidade - campo relacional vivo e sensibilidade - complemento 2026-11-07]] (campo relacional vivo), e [[TSH - Ampliações dos manuscritos Psicoterapia e Espiritualidade e Arquitetura Invisível - 2026-11-07]] (textos de Fabiano, avaliação editorial). Registros em branch de trabalho, não main; nenhum PPT/roteiro ou DOCX original foi modificado. O arquivo Arquitetura Invisível fornecido neste turno não continha DOCX válido e o trecho literal do TCC Transpessoal ainda deve ser localizado e confrontado.
 
