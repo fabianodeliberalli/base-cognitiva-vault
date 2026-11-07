@@ -190,3 +190,8 @@ Não ler automaticamente todos os documentos da tabela. Escolher apenas a linha 
 
 Se a tarefa não exigir mudança autoral, não transformar a resposta em nova deliberação.
 
+
+
+## Síntese de continuidade — singularidade, percepção, diferenciação, participação
+
+Por instrução autoral, preservar em conjunto: **Percepção** (reconhecer o vivido ainda não verbalizado), **Diferenciação** (acolher o sentir sem tornar infalível sua interpretação) e **Participação** (cultivar condições para expressão em escolhas, relações e vida). Síntese: “Sentir amplia a compreensão; compreender refina o sentir; e a experiência vivida oferece novas oportunidades para ambos se transformarem.” Finalidade: ampliar a participação consciente na própria experiência e na vida construída. Manter simultaneamente singularidade pessoal e participação em relações/realidades mais amplas: “a árvore é singular, mas não existe fora das condições e relações com as quais continua interagindo”. Recuperar [[TSH - Sensibilidade percepcao diferenciacao e liberdade - fundamentacao integrada]], [[Árvore da Singularidade - campo relacional vivo e sensibilidade - complemento 2026-11-07]] e [[TSH - Destinação dos quatro movimentos, bússola e sentir como aprendizagem - 2026-11-07]]. Não criar novo método nem substituir estrutura vigente. Registro nesta branch, não na main.
