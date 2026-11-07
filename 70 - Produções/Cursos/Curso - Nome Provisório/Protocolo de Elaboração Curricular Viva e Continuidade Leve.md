@@ -10,6 +10,41 @@ autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
 
+## Critério de qualidade pedagógica — formulação integral e aplicação por material (07/11/2026)
+
+A construção do TSH não pergunta apenas **“o que o participante precisa compreender nesta aula?”**, mas também: **“O que esta aula pode ajudá-lo a perceber, diferenciar, desenvolver ou expressar na própria vida?”**. A experiência do participante orienta as escolhas desde a elaboração do roteiro. A pergunta não exige que toda aula tenha prática, ficha ou exposição explícita de percepção, diferenciação e participação.
+
+> Cada aula do TSH deve contribuir, de acordo com sua finalidade, para ampliar as condições pelas quais o participante reconhece a própria experiência, diferencia seus possíveis significados e desenvolve recursos para participar de sua vida com maior presença, liberdade e congruência. Essa contribuição pode acontecer pela compreensão, observação, reflexão, experiência orientada, prática ou integração posterior.
+
+### Aplicação no pacote de cada aula
+
+| Material | Como o princípio deve orientar a elaboração |
+|---|---|
+| Roteiro oral | Relacionar a compreensão apresentada à experiência que o participante pode reconhecer ou investigar. |
+| PowerPoint | Utilizar exemplos, perguntas e imagens que facilitem diferenciações, em vez de apenas transmitir definições. |
+| Notas do apresentador | Recuperar os fundamentos científicos, clínicos, filosóficos e espirituais pertinentes, distinguindo suas contribuições. |
+| Práticas | Desenvolver percepção, discernimento, experimentação ou integração, sem exigir resultados internos predeterminados. |
+| Entregáveis | Oferecer uma oportunidade real de continuidade da aprendizagem, não apenas resumir o conteúdo. |
+| Encontros ao vivo | Favorecer a passagem entre compreensão, experiência, condições concretas e possibilidades de resposta. |
+
+### Qualidade, suficiência e avaliação
+
+Uma aula **conceitualmente correta pode continuar pedagogicamente incompleta** se não permitir ao participante estabelecer uma relação significativa entre o conhecimento e sua experiência. Inversamente, **tornar algo antes indistinto mais reconhecível já pode cumprir integralmente a função da aula**: não exigir mudança comportamental imediata ou estados internos intensos como prova de aprendizagem.
+
+As três situações orientam escolhas proporcionais, sem diagnosticar participantes:
+- **Ainda não reconheço:** favorecer percepção, diferenciação e linguagem.
+- **Compreendo, mas não acesso:** reconhecer estado, condições, referências e apoios para a possibilidade já compreendida.
+- **Reconheço, mas não desenvolvi:** cultivar recursos e condições, experimentar e acompanhar a integração.
+
+Na revisão do material já existente, **verificar primeiro se ele cumpre sua finalidade pedagógica**. Uma aula de percepção pode oferecer uma nova distinção; uma aula de padrões pode tornar reconhecíveis condições que restringem respostas; uma aula de espiritualidade pode ampliar investigação e sentido. As aulas não precisam compartilhar a mesma organização e a avaliação não deve se tornar checklist mecânico.
+
+**Pergunta de revisão e concepção:** 
+> O que esta aula permite ao participante reconhecer, desenvolver ou expressar que antes encontrava menos espaço em sua experiência e em sua vida?
+
+Ela traduz a intenção do TSH: compreender a história sem ficar reduzido a ela, reconhecer a singularidade sem perder a relação com o mundo e desenvolver condições para participar da própria existência com maior presença, discernimento e liberdade.
+
+**Integração ao fluxo existente:** aplicar este critério no momento de definir foco, selecionar exemplos, redigir roteiro, construir apresentação, preparar notas, decidir sobre práticas/entregáveis e revisar o pacote da aula; não abrir novo protocolo, artefato, etapa de aprovação, pontuação ou ficha. Respeitar a produção já consolidada quando o acréscimo não justificar alteração. Recuperar a fundamentação em [[TSH - Sensibilidade percepcao diferenciacao e liberdade - fundamentacao integrada]] e as destinações em [[TSH - Destinação dos quatro movimentos, bússola e sentir como aprendizagem - 2026-11-07]].
+
 ## Princípio orientador transversal de produção — percepção, diferenciação e participação (decisão de Fabiano, 07/11/2026)
 
 **Função:** orientar as decisões pedagógicas de **cada aula e de cada material** do TSH, não inserir uma nova unidade, fórmula, prática obrigatória, slogan em todos os slides ou roteiro rígido. A elaboração parte da pergunta: **“O que esta aula pode ajudar a pessoa a perceber, diferenciar, desenvolver ou expressar em sua própria vida?”** Ao lado da pergunta sobre o que ela precisa compreender.
