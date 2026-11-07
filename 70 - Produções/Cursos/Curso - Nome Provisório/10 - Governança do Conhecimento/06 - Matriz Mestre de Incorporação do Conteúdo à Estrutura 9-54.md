@@ -10,6 +10,23 @@ autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
 
+## Diretriz transversal de criação e revisão — participação consciente (07/11/2026)
+
+Antes de selecionar exemplos, apresentações, práticas e entregáveis de uma aula, aplicar a orientação incorporada ao [[Protocolo de Elaboração Curricular Viva e Continuidade Leve]]: não basta perguntar “o que a pessoa compreenderá?”; perguntar também **“o que poderá reconhecer, diferenciar, acessar, desenvolver ou expressar?”**. Essa escolha guia os materiais, **não cria outro tema ou bloco obrigatório**.
+
+| Foco da aula | Pergunta de aplicação | Possível expressão na aula |
+|---|---|---|
+| Introdução / compreensão | O que na experiência se torna reconhecível? | cena ou contraste que aproxima conhecimento e vivido |
+| Percepção / corpo | O que a pessoa pode notar e nomear sem impor causa? | atenção proporcional, alternativas de registro e estado |
+| Padrões / história | O que é sensação, fato, expectativa, memória ou interpretação? | discriminação e hipóteses revisáveis |
+| Orientação / escolhas | Que condições, apoios, valores e referências abrem liberdade? | reflexão, ensaio ou possibilidade de resposta |
+| Relação / singularidade | Como a pessoa se expressa no campo relacional sem perder a diferença? | árvore, limites permeáveis, diálogo, interdependência |
+| Ampliação / espiritualidade | Como acolher o vivido sem fechar a interpretação? | experiência, sentido, função e ontologia em planos distintos |
+| Integração / continuidade | O que pode ser retomado, cultivado ou acompanhado? | registro leve, retorno, espiral ou observação posterior |
+
+Usar a pergunta que corresponda à aula; não aplicar todas. Nas três situações TSH: *ainda não reconheço* → ampliar percepção e linguagem; *compreendo e não acesso* → investigar estado e condições; *reconheço e não desenvolvi* → cultivar recursos, praticar, experimentar e integrar. Na elaboração, consultar [[TSH - Destinação dos quatro movimentos, bússola e sentir como aprendizagem - 2026-11-07]] para destinos M1–M8 e [[TSH - Sensibilidade percepcao diferenciacao e liberdade - fundamentacao integrada]] para o fundamento. A matriz preserva o estatuto consultivo de suas linhas históricas.
+
+
 ## Auditoria do manuscrito de Fabiano — 07/11/2026
 
 Para recuperar o texto de origem, a avaliação do que já estava incorporado, os acréscimos por aula, a destinação aos entregáveis e as referências mantidas apenas como consulta: [[TSH - Auditoria do texto de reabertura da Masterclass - 07-11-2026]]. Começar por M1.3–M1.7, M2.1–M2.6, M3.2/M3.5–M3.7, M4.4/M4.6, M5.5–M5.8, M6.5, M7 e M8 conforme a pergunta da aula. Usar a tabela abaixo para o vínculo direto fonte–pergunta–ação.
