@@ -85,3 +85,10 @@ Fabiano confirmou como transversal: “Ampliar a percepção não significa apen
 - **M8**: continuidade e revisitação; integrar bússola/eixo/árvore/pêndulo/espiral sem empilhar imagens.
 - **Ilustrações**: usar Roda da Consciência de Siegel **como referência identificada e creditada**; criar figuras didáticas próprias do TSH para percepção-interpretação-resposta; evitar copiar centro/raio/aro ou quatro quadrantes como se fossem criação original; consultar [[TSH - Roda da Consciência de Siegel e autoria da síntese da experiência - 2026-11-07]].
 - **Entregáveis**: colocar afirmações autorais com clareza, não saturar bibliografia; fundamentos técnicos/restrições em notas e caderno do professor.
+
+
+## Ponte transversal confirmada — percepção, diferenciação e participação
+
+Preservar as três proposições **em conjunto** e sem criar outra estrutura pedagógica: (1) perceber dimensões ainda não verbalizadas, (2) diferenciar a realidade do sentir e as interpretações moduladas por história/estado/relação, (3) cultivar condições para converter o percebido e compreendido em expressão concreta. Ligar à finalidade de participação consciente na vida, ao princípio “Sentir amplia a compreensão; compreender refina o sentir; e a experiência vivida oferece novas oportunidades para ambos se transformarem.”
+
+**Destinos de recuperação:** M1 — explicitar diferença entre perceber, compreender e acessar; M2–M3 — sensibilidade, corpo, relações e aprendizagem; M4 — interpretações, padrões e liberdade de discriminação; M5 — singularidade, dimensão espiritual e interdependência sem redução ontológica; M6–M7 — práticas de discernimento e escolha; M8 — cultivo permanente. A Árvore da Singularidade mostra a pessoa única e continuamente implicada no campo; eixo e bússola auxiliam orientação e movimento sem se tornarem um novo método. Não antecipar nem modificar automaticamente roteiros/PowerPoints/entregáveis.
