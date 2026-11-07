@@ -8,6 +8,35 @@ atualizado_em: 2026-11-01
 autor: Fabiano Deliberalli
 ---
 
+## 07/11/2026 — Aprendizagem no encontro, repetição e campos de experiência
+
+Masterclass de 10/11, versão de 69 telas. A pergunta de Fabiano organiza a abertura, a cena da mensagem, a história familiar e a elaboração após a prática: “O que consigo perceber de um encontro antes de saber explicá-lo, e como descubro o que essa percepção me permite fazer?”
+
+### Fundamentos para o professor
+
+- **Coordenação durante o encontro.** Leong et al. (2017) compararam a direção do olhar de uma adulta cantando para bebês. O olhar direto se associou a maior acoplamento temporal dos sinais de EEG. Na interação ao vivo houve influência temporal nas duas direções. O bebê participa da organização do encontro. [Artigo original](https://pmc.ncbi.nlm.nih.gov/articles/PMC5740679/).
+- **Aprendizagem que reaparece depois.** Meltzoff (1988) observou bebês de nove meses reproduzirem ações simples com objetos novos após verem um adulto realizá-las, inclusive 24 horas depois. A tarefa demonstrou imitação diferida e retenção de ações. [Artigo original](https://pubmed.ncbi.nlm.nih.gov/3342714/).
+- **Repetição e mudança.** Distinguir a regularidade percebida no ambiente, a repetição de uma ação durante o treino e a reaparição posterior de uma resposta. Praticar pode tornar uma resposta mais disponível. A criança também pode aprender por observação antes de praticar aquele gesto. Os dois experimentos investigaram tarefas diferentes, sem acompanhamento até a idade adulta. A ligação com padrões adultos é hipótese de desenvolvimento.
+- **Pergunta após a terapia.** O retorno de uma reação admite investigação situada. Comparar contexto, intensidade, duração, tempo até percebê-la, liberdade de resposta e efeitos. Se mudou a ação, pode haver aprendizagem mesmo quando persiste o impulso. Investigar prática, proteção passada ou atual, consequências reais, apoio e alternativas disponíveis. A expectativa anterior orienta a atenção (top-down); dados sensoriais que chegam podem atualizar a leitura (bottom-up). O aperto corporal já pode reunir expectativa e sinais presentes. O mapa educativo permite escolher uma experiência possível, sem deduzir o que faltou numa psicoterapia.
+- **Método e experiência.** O método escolhido determina quais aspectos da experiência entram no estudo. Há métodos que incluem o relato da pessoa como dado. Distinguir a ocorrência e qualidade do vivido, a interpretação de seu sentido e a investigação de sua origem. [Chalmers (1995)](https://consc.net/papers/facing.html) pergunta como a explicação de funções se relaciona com a existência da experiência subjetiva. [Lutz, Lachaux, Martinerie e Varela (2002)](https://pubmed.ncbi.nlm.nih.gov/11805299/) combinaram relatos em primeira pessoa com registros neurais durante uma tarefa visual. [William James (1902), conferências XVI–XVII](https://www.gutenberg.org/files/621/621-h/621-h.htm), investigou o valor e a autoridade de experiências místicas para quem as vive e a diferença entre esse alcance pessoal e a aceitação por terceiros.
+- **Perspectiva espiritual do TSH.** A experiência pessoal, o ensino e a escuta clínica prolongada de Fabiano fundamentam sua formulação autoral e suas perguntas sobre alcance extrafísico, encarnação e continuidade. Investigar o que foi percebido, o sentido que ganhou e os efeitos sobre a vida. O testemunho em primeira pessoa contribui com o vivido. A atribuição de uma origem externa ou extrafísica requer outra investigação. O diálogo entre mapas é uma prática deliberada do TSH.
+- **Campo coletivo e transgeracional.** Examinar como condições de subsistência, regras de pertencimento, gestos de cuidado, modelos de discordância e recursos atravessam gerações. [Masuda e Nisbett (2001)](https://pubmed.ncbi.nlm.nih.gov/11708567/) encontraram diferenças entre amostras japonesas e norte-americanas na atenção ao contexto e nas relações percebidas em cenas. O estudo sustenta uma comparação cultural delimitada. A cena familiar da Masterclass é um exemplo pedagógico, sem atribuição de mecanismo biológico, espiritual ou destino individual por lugar de nascimento.
+
+### Destinos no curso
+
+| Lugar | Uso na construção da aula |
+|---|---|
+| M1 — Árvore e cartografia | Perguntar “O que já estava organizado quando cheguei?” e “Quem me mostrou que havia outro jeito?”. Mapear condições, recursos, palavras, traços ou impressões ainda em elaboração. |
+| M4 — Emoções e padrões | Investigar observação, repetição, consequências e regras de pertencimento. Separar história conhecida, inferência e desconhecido. |
+| M5 — Valores e referência profunda | Desenvolver campo transpessoal, continuidade da existência e diálogo com karma, impressões e tendências nas tradições pertinentes. Distinguir a experiência, sua leitura histórica ou biológica e a perspectiva espiritual autoral. Chalmers, Varela e James aprofundam perguntas diferentes. |
+| M6.5 — Espiral | Reencontrar “ou cedo ou rompo”. Comparar condições, tempo para perceber, participação e efeitos concretos. |
+| M7 — Relações e expressão | Examinar dependência, hierarquia e risco real. Experimentar pedir apoio, adiar uma resposta, discordar ou sair, conforme o que a situação permite. |
+| M8 — Continuidade | Escolher uma herança que vale nutrir e uma resposta a experimentar. Acompanhar o que muda nos próximos encontros. |
+
+### Condução de 10/11
+
+Tela 4: teia, rádio, centro espírita, três salas e pergunta-guia. Tela 16: perguntas visíveis sobre o retorno do padrão, cena da mensagem e breves menções orais a Leong e Meltzoff. Tela 20: uma família em que ceder preservava o sustento, com uma tia que mostrava outro modo de discordar. Masuda e Nisbett ficam como referência nas notas. Tela 31: “O que você percebe agora que antes passava depressa demais? E de que condição precisaria para fazer algo com isso?”. Chalmers, Lutz/Varela e James ficam nas notas do professor, com desenvolvimento principal em M5.
+
 ## Atualização de 1 de novembro de 2026
 
 Masterclass alinhada a 67 slides editáveis: https://chatgpt.com/space/page_5705be6f3cf0819191a642839ccf58e9 . Guia Word e transcrição sincronizados com esse mapa. Incorporados os três usos de “antes de estarmos aqui”, a imagem do artesão e as quatro distinções relacionais. “Padrões que saem” expressa possibilidade de investigação do que se torna visível, sem atribuir finalidade ao sofrimento. Aplicação curricular em [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo]], seção de 01/11.
