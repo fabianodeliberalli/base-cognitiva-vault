@@ -4,6 +4,13 @@ status: proposta-de-incorporacao-revisavel
 atualizado_em: 2026-10-31
 ---
 
+## Critério transversal ao retomar cada aula — decisão autoral de 07/11/2026
+
+Usar esta pergunta como orientação de elaboração, não como tarefa adicional: **“O que nesta aula ajuda o participante a perceber, diferenciar ou participar de sua experiência com mais liberdade?”** Considerar se a contribuição é de compreensão, observação, linguagem, corpo, relação, suporte, experimentação ou integração. Qualquer uma pode ser suficiente segundo a finalidade da aula. Não repetir todos os três termos em toda aula nem produzir uma prática obrigatória.
+
+Recuperar o [[Protocolo de Elaboração Curricular Viva e Continuidade Leve]] na abertura de trabalhos de produção e, somente quando pertinente, [[TSH - Sensibilidade percepcao diferenciacao e liberdade - fundamentacao integrada]]. Respeitar a orientação vigente do Raio X, os registros particulares de cada aula e o estatuto da matriz 9/54. As três situações — não reconhecer, compreender e não acessar, reconhecer e não desenvolver — ajudam a escolher intervenções proporcionais; não constituem diagnóstico padronizado. Nos slides, notas, entregáveis e encontros a experiência vivida deve poder ganhar tradução, diferenciação ou participação, sem exigir performance, exposição ou mudança imediata.
+
+
 # Retomadas de escrita atenção e diferenciação nas 54 aulas
 
 Pesquisa de correlações feita sobre os títulos e focos do Raio X vigente de 31/10/2026, commit de base 6cef81c17472b6a6be44d28a163d92ae0ae89bff. Não altera títulos ou focos e não representa 54 roteiros prontos. As associações são propostas pedagógicas; a M0.2 já recebeu incorporação efetiva. Em cada novo roteiro, consultar somente a linha pertinente e abrir a fonte antes de utilizá-la.
