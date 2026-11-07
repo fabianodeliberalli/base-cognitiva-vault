@@ -6,6 +6,10 @@ versao: "0.13"
 atualizado_em: 2026-11-07
 ---
 
+## Sentir, bússola interna e eixo — ampliação de 07/11/2026
+
+Fabiano determinou incorporar ao repertório transversal do TSH os quatro movimentos: corpo que também percebe; sensibilidade que pode ser cultivada; sentir pré-reflexivo com elaboração posterior; e relação que participa do sentir. O sentir será trabalhado como aprendizagem para **todos os participantes**, não somente como instrumento clínico. A **bússola interna** é metáfora candidata complementar ao **eixo** (percepção, discernimento, direção versus referência, movimento e retorno), nunca método separado nem detecção infalível de verdade/Essência. Estados e experiências ampliadas incluem dimensões corporal, afetiva, histórica, intersubjetiva, existencial e contemplativa, mantendo distinção entre experiência, interpretação e evidência. Consultar [[Sentir o outro dentro de nós - bússola relacional e contratransferência]] e [[TSH - Destinação dos quatro movimentos, bússola e sentir como aprendizagem - 2026-11-07]] em construções pertinentes de M1 a M8, livro e psicoterapia/espiritualidade; não alterar automaticamente materiais já produzidos. Esta atualização está em ramificação de trabalho, sem homologação de integração na main.
+
 ## Auditoria da reabertura — 07/11/2026
 
 [[TSH - Auditoria do texto de reabertura da Masterclass - 07-11-2026]] reúne o trecho autoral, o destino por aula, a fonte a recuperar, a prática ou o texto do aluno e as referências opcionais ou excluídas. Consultar antes de reaproveitar as cenas da infância, as três salas, a formação em MTC, o pêndulo, percepção sutil, heranças familiares ou a parábola do buraco.
