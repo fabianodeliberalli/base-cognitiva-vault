@@ -10,6 +10,10 @@ autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
 
+## Auditoria do manuscrito de Fabiano — 07/11/2026
+
+Para recuperar o texto de origem, a avaliação do que já estava incorporado, os acréscimos por aula, a destinação aos entregáveis e as referências mantidas apenas como consulta: [[TSH - Auditoria do texto de reabertura da Masterclass - 07-11-2026]]. Começar por M1.3–M1.7, M2.1–M2.6, M3.2/M3.5–M3.7, M4.4/M4.6, M5.5–M5.8, M6.5, M7 e M8 conforme a pergunta da aula. Usar a tabela abaixo para o vínculo direto fonte–pergunta–ação.
+
 ## Recuperação para gravação — repetição, aprendizagem e campos (07/11/2026)
 
 Abrir [[Guia-de-Conducao-Masterclass - Estado e Continuidade#Preparação para gravação: fontes, mapa e ação do aluno|Preparação para gravação por módulo]] antes de escrever as aulas pertinentes. M1: regularidade, coordenação e imitação diferida (Saffran, Leong, Meltzoff). M4: espelho, pêndulo e distinção entre impulso e ação. M5: Chalmers, Lutz/Varela e James para experiência em primeira pessoa; Masuda e Nisbett para atenção cultural ao contexto. M6.5: espiral, eixo e terceiro capítulo da parábola de Portia Nelson. M7: prática situada, custos e apoios. M8: retenção, expressão posterior e continuidade. O registro contém referências primárias, exemplos e perguntas de condução.
