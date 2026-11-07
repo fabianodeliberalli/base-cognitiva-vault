@@ -93,3 +93,20 @@ Capacidades perceptivas e relacionais precoces continuam participando da vida ad
 
 ### Relação com Siegel e a figura do chat
 Ver [[TSH - Roda da Consciência de Siegel e autoria da síntese da experiência - 2026-11-07]]. A figura sistêmica em torno de “experiência integrada” é **síntese pedagógica**, não teoria neurocientífica original; a Roda da Consciência (centro, raio, periferia, sentidos 1–8) é de autoria de Daniel J. Siegel. Não apresentar nem reaproveitar como diagrama original do TSH sem distinção e crédito.
+
+
+## Consolidação das três proposições e do fundamento relacional da singularidade — decisão autoral
+
+A pessoa é singular **e** participa de relações e realidades que excedem uma concepção exclusivamente individual de existência. Não há oposição necessária entre singularidade, interdependência e abertura transpessoal. A distinção entre experiência, interpretações e ontologia permanece válida.
+
+Três proposições devem ser preservadas **em conjunto**, como lentes que atravessam a aprendizagem do TSH, sem instituir um novo método ou substituir sua estrutura curricular:
+
+1. **Percepção:** desenvolver a capacidade de reconhecer dimensões da experiência que nem sempre estão disponíveis à compreensão verbal imediata.
+2. **Diferenciação:** reconhecer que aquilo que sentimos é real como experiência, mas que sua interpretação pode ser influenciada por nossa história, estado, relações e referências.
+3. **Participação:** cultivar as condições pelas quais aquilo que percebemos e compreendemos pode encontrar expressão em escolhas, relações e modos de viver.
+
+> Sentir amplia a compreensão; compreender refina o sentir; e a experiência vivida oferece novas oportunidades para ambos se transformarem.
+
+**Finalidade do TSH neste recorte:** “A finalidade não é apenas conhecer melhor a própria experiência, mas ampliar nossa capacidade de participar conscientemente dela e da vida que construímos.”
+
+Essas três proposições se articulam com os quatro movimentos já registrados e com Perceber–Diferenciar–Orientar–Integrar; não são um algoritmo rígido ou uma nova estrutura obrigatória. Recuperá-las em aulas, práticas, textos de apoio, exemplos e notas de fundamentação somente quando gerarem acréscimo real. A experiência vivida é acolhida sem assegurar automaticamente a correção de explicações sobre sua origem.
