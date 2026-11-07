@@ -6,6 +6,10 @@ versao: "0.13"
 atualizado_em: 2026-11-07
 ---
 
+## Auditoria da reabertura — 07/11/2026
+
+[[TSH - Auditoria do texto de reabertura da Masterclass - 07-11-2026]] reúne o trecho autoral, o destino por aula, a fonte a recuperar, a prática ou o texto do aluno e as referências opcionais ou excluídas. Consultar antes de reaproveitar as cenas da infância, as três salas, a formação em MTC, o pêndulo, percepção sutil, heranças familiares ou a parábola do buraco.
+
 ## Aprendizagem, experiência e campos — 07/11/2026
 
 Consultar a seção de 07/11 em [[Guia-de-Conducao-Masterclass - Estado e Continuidade]] ao produzir M1, M4, M5, M6.5, M7 e M8. Reúne fontes, destinos curriculares e a sequência da Masterclass de 69 telas (4, 16, 20 e 31). Distinguir coordenação no encontro (Leong), imitação diferida (Meltzoff), estudo em primeira pessoa e investigação da origem. Reencontrar uma resposta permite comparar o que foi aprendido, o acesso atual, os apoios e os efeitos concretos.
