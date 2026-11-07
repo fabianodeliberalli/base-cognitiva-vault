@@ -6,6 +6,13 @@ versao: "0.13"
 atualizado_em: 2026-11-07
 ---
 
+## Princípio orientador da produção — aplicação em todos os materiais (07/11/2026)
+
+**Decisão de Fabiano:** percepção, diferenciação e participação são uma **orientação de elaboração das aulas**, não apenas conteúdo e não novo método. Na produção de qualquer roteiro, slide, nota, encontro ou entregável TSH, aplicar o trecho [[Protocolo de Elaboração Curricular Viva e Continuidade Leve#Princípio orientador transversal de produção — percepção, diferenciação e participação (decisão de Fabiano, 07/11/2026)]]. A questão de trabalho é: “O que esta aula pode ajudar a pessoa a perceber, diferenciar, desenvolver ou expressar em sua própria vida?”, junto à pergunta sobre o que ela precisa compreender.
+
+**Não converter em checklist ou fórmula:** a intenção pode ser contemplativa, conceitual, reflexiva, prática ou relacional; não exige prática em toda aula, três palavras em todo slide, saída comportamental imediata ou material novo por obrigação. O critério é haver uma ponte pertinente entre conteúdo e possibilidade de participação na experiência. Preservar as três situações do TSH, a Essência e a singularidade em campo vivo, referências epistemológicas e o subtítulo vigente. Na revisão de aula existente, alterar só quando houver ganho concreto. Recuperar [[TSH - Destinação dos quatro movimentos, bússola e sentir como aprendizagem - 2026-11-07]] para a destinação M1–M8 e [[TSH - Sensibilidade percepcao diferenciacao e liberdade - fundamentacao integrada]] para fundamentação. **Registro em ramificação de trabalho, ainda não integrado à main.**
+
+
 ## Revisão de autoria e fundamentos do sentir — 07/11/2026
 
 **Orientação autoral confirmada:** “Ampliar a percepção não significa apenas sentir mais intensamente, mas desenvolver condições para sentir, diferenciar, atribuir sentido e responder com maior liberdade.” Aprendizagem = refinamento da percepção, participação consciente e capacidade de resposta. Sentir e compreender cooperam. Consultar [[TSH - Sensibilidade percepcao diferenciacao e liberdade - fundamentacao integrada]] e [[TSH - Destinação dos quatro movimentos, bússola e sentir como aprendizagem - 2026-11-07]].
