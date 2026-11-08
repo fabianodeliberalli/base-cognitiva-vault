@@ -1,0 +1,29 @@
+# Módulo 1 | Revisão para ensaio de 7 de novembro de 2026
+
+Cada pasta de aula contém material do professor e do aluno. Na pasta do professor, abra o PowerPoint no modo do apresentador. O roteiro sincronizado reproduz as notas da cópia revisada, com os cliques e a sequência exata. O caderno Word oferece o contexto de produção. As datas e estimativas registradas nas matrizes anteriores indicam a origem dos documentos. Use o ensaio para medir a duração da versão revisada. As apresentações preservam a parte visual, a numeração e as animações incorporadas nos arquivos padronizados.
+
+## Avaliação por aula
+
+| Aula | O que já funciona | Refinamento e destino |
+|---|---|---|
+| M1.1 | O pedido, o aperto no peito, a interpretação e a revisão já têm lugares distintos. Há espaço para curiosidade e vitalidade. | Tela 5: voz, aperto e leitura sobre a decepção em três frases. Pergunta que permite conferir com o outro. Tela 8: workshop de Siegel realizado on-line. As mãos/Qi Gong ficam no encontro M0/M1. Usar o primeiro campo da ficha para observar o sinal, a mobilização própria e o que se pode perguntar. |
+| M1.2 | Saber, acessar e sustentar têm exemplos próprios. O exercício inclui recursos, apoios e o momento da descoberta. | Tela 2: comparar a pergunta que só ocorreu depois com a que se tornou possível durante a conversa. A condição de participação aparece na fala e no caderno do aluno. |
+| M1.3 | As telas 4–8 já diferenciam passagem do tempo, condições de uso e desenvolvimento de uma possibilidade. | Tela 6: distinguir regularidade no ambiente, ensaio intencional e uso em outra ocasião. No apoio, usar a versão ampliada de “O aprendido na vida”, que já inclui Varela e Castellanos. |
+| M1.4 | O diálogo de mapas, Qi e sentido espiritual já aparecem, assim como uma formulação que o interlocutor pode corrigir. | Tela 5: uma passagem pela trajetória de Fabiano dá função concreta às linguagens do corpo, da Medicina Chinesa e da espiritualidade. No apoio, distinguir o vivido, o sentido encontrado e a questão ainda aberta sobre sua origem. |
+| M1.5 | As Cinco Janelas ampliam uma cena. A árvore e o exemplo da música acolhem expressões que ainda procuram espaço. | Tela 7: a tia que podia discordar ilustra o encontro entre uma referência familiar, o custo de uma escolha e os apoios concretos. Exemplo condicional. |
+| M1.6 | A Cartografia já permite palavra, cor, movimento e silêncio. Situação, manifestação, tradução provisória e orientação têm funções próprias. | Tela 7: retomar a cena familiar no registro. Indicar o conhecido, o suposto e o apoio atual. A pessoa pode desenhar ou deixar uma pergunta aberta. |
+| M1.7 | O PPTX e o caderno docente da main incorporam o 3-2-1 e o slide de equilíbrio vivo. O suporte do aluno da main também contém Piaget. | Telas 6 e 12: amplitude, rapidez, permanência e respostas disponíveis. Ao reencontrar um tema, comparar impulso, ação, tempo para perceber, apoio e efeito. A parábola completa fica para os módulos posteriores. |
+
+## Fontes e continuidade
+
+As integrações [46](https://github.com/fabianodeliberalli/base-cognitiva-vault/pull/46), [47](https://github.com/fabianodeliberalli/base-cognitiva-vault/pull/47), [48](https://github.com/fabianodeliberalli/base-cognitiva-vault/pull/48) e [49](https://github.com/fabianodeliberalli/base-cognitiva-vault/pull/49) documentam as decisões de 7/11. A ficha mínima confirma o subtítulo oficial aprovado em 3/11, “Da compreensão acumulada à presença que sustenta”. O Raio X orienta o arco das sete aulas. A distribuição de conteúdo e oferta da Masterclass tem outra finalidade.
+
+A matriz associa [Saffran, Aslin e Newport](https://pubmed.ncbi.nlm.nih.gov/8943209/) à aprendizagem de regularidades sonoras, [Leong et al.](https://pmc.ncbi.nlm.nih.gov/articles/PMC5740679/) à coordenação durante um encontro adulto–bebê e [Meltzoff](https://pubmed.ncbi.nlm.nih.gov/3342714/) à imitação diferida. Em M1.3, os exemplos adultos servem para comparar momentos de aprendizagem. [Shea e Morgan](https://doi.org/10.1037/0278-7393.5.2.179) investigaram retenção e transferência em tarefas motoras. O uso posterior de uma frase em uma relação é uma aplicação pedagógica do curso.
+
+Em M1.1 e M1.2, a percepção do outro encontra interlocução com Siegel, com o trabalho de conclusão de Fabiano e com a mentalização. A [proposta 50](https://github.com/fabianodeliberalli/base-cognitiva-vault/pull/50) reúne aprofundamentos sobre Castellanos, Salvador e James e estava aberta na conferência. A formulação de M1 já consta da auditoria integrada na proposta 49. Investigar uma percepção sutil comporta qualidade vivida, hipóteses sobre origem, verificação possível e efeitos. A elaboração espiritual mais extensa continua em M5.
+
+Para M1.5–M1.6, [Masuda e Nisbett](https://pubmed.ncbi.nlm.nih.gov/11708567/) orientam a pergunta sobre quais aspectos do contexto receberam atenção. A cena da tia é uma aplicação ao ensino. A origem geográfica ou uma história familiar incompleta não determina um mecanismo de transmissão individual.
+
+Para M1.7, a pergunta “o que voltou?” retoma o trabalho com a espiral e a elaboração do TSH em diálogo com Portia Nelson. O registro do 3-2-1 mantém apresentação em M4.5 e desenvolvimento acompanhado em M6. A questão sobre Orch-OR tem destino possível em M5.8. A próxima verificação prática é ensaiar as passagens acrescentadas e testar os cliques no PowerPoint que será usado para gravação.
+
+[Pacote editável revisto para ensaio, 07/11](https://chatgpt.com/library?file_id=libfile_35e1b3f8d1008191a7dfe1f555ee93bc&account_id=personal)
