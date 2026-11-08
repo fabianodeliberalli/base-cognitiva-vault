@@ -2,6 +2,10 @@
 
 Cada pasta de aula contém material do professor e do aluno. Na pasta do professor, abra o PowerPoint no modo do apresentador. O roteiro sincronizado reproduz as notas da cópia revisada, com os cliques e a sequência exata. O caderno Word oferece o contexto de produção. As datas e estimativas registradas nas matrizes anteriores indicam a origem dos documentos. Use o ensaio para medir a duração da versão revisada. As apresentações preservam a parte visual, a numeração e as animações incorporadas nos arquivos padronizados.
 
+## Versão para gravação com câmera no Zoom
+
+[Pacote com os sete PPTX ajustados](https://chatgpt.com/library?file_id=libfile_c2a7fe3d7e888191a56b6f56229f225b&account_id=personal). Usar esta versão ao gravar com câmera no canto superior direito. Nas 88 telas renderizadas, a faixa x > 10,7 e y < 2,4 polegadas ficou livre de texto e imagem. Notas, texto dos slides e animações conferidos contra a versão visual anterior. A prévia no pacote simula o enquadramento. Pendente teste no Zoom com a configuração real de Fabiano.
+
 ## Revisão visual para gravação
 
 Esta versão inclui os sete PPTX editáveis, seus PDFs para consulta, as notas sincronizadas e os cadernos do professor revistos. Os campos do aluno continuam correspondendo ao pacote de conteúdo de 07/11.
