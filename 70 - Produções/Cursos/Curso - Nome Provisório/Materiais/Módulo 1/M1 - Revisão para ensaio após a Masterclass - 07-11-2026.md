@@ -2,6 +2,25 @@
 
 Cada pasta de aula contém material do professor e do aluno. Na pasta do professor, abra o PowerPoint no modo do apresentador. O roteiro sincronizado reproduz as notas da cópia revisada, com os cliques e a sequência exata. O caderno Word oferece o contexto de produção. As datas e estimativas registradas nas matrizes anteriores indicam a origem dos documentos. Use o ensaio para medir a duração da versão revisada. As apresentações preservam a parte visual, a numeração e as animações incorporadas nos arquivos padronizados.
 
+## Revisão visual para gravação
+
+Esta versão inclui os sete PPTX editáveis, seus PDFs para consulta, as notas sincronizadas e os cadernos do professor revistos. Os campos do aluno continuam correspondendo ao pacote de conteúdo de 07/11.
+
+| Aula | Telas e condução |
+|---|---|
+| M1.1 | Tela 5: sinal observado à vista; três cliques para sensação, interpretação e pergunta de verificação. |
+| M1.2 | Telas 3–5: acompanhar uma mesma pessoa em saber, acessar e sustentar. Tela 6: quatro perguntas em 2 × 2. Pausa na tela 9. |
+| M1.3 | Tela 3: cartão central ampliado. Tela 6: regularidade visível, dois cliques para ensaio e uso posterior. Pausa na tela 10. |
+| M1.4 | Telas 4–5: a mesma faixa mantém o pedido e o aperto visíveis na mudança de mapa. Pausa na tela 10. |
+| M1.5 | Telas 2 e 4–8: faixa das Cinco Janelas. Tela 7: pergunta sobre a tia. Tela 9: orientar o olhar das raízes à copa. Pausa na tela 11. |
+| M1.6 | Telas 3–8: localizar, preencher progressivamente e reunir os quatro campos da cartografia. Pausa na tela 10. |
+| M1.7 | Tela 6: arco e três posições do pêndulo. Tela 8: quatro entradas em 2 × 2. Tela 10: ceder ou romper, pedir tempo e investigar condições. Tela 12: comparar o que voltou. Pausa na tela 14. |
+
+Conferência: 88 telas renderizadas; entradas por clique verificadas contra as marcas na fala. Ensaiar no PowerPoint de gravação para conferir o tempo dos cliques e do silêncio.
+
+
+[Baixar a versão visual para ensaio](https://chatgpt.com/library?file_id=libfile_c98b484798ac81919106c04e1bb6d670&account_id=personal)
+
 ## Avaliação por aula
 
 | Aula | O que já funciona | Refinamento e destino |
