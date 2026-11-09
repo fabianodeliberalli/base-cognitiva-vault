@@ -41,3 +41,9 @@ origem: anexos fornecidos por Fabiano na conversa de refinamento da Masterclass
 | **Livro/psicoterapia/espiritualidade** | comparação dos mapas e fontes autorais | distinguir experiência, tradição, inferência, alcance científico e dimensões espirituais |
 
 **Estado de acesso:** os quatro originais estão identificados na conversa, mas nenhum caminho interno ao GitHub apontando para os seus binários foi confirmado. Não confundir o link deste índice e dos estudos com armazenamento dos anexos. A integração da branch à `main` também permanece pendente.
+
+## Obras de Yang Jwing-Ming localizadas — complemento de 09/11/2026
+
+Os quatro livros das capas fornecidas e um quinto livro sobre Grande Circulação **foram localizados na Biblioteca do ChatGPT do usuário**, não comprovados como PDFs binários no GitHub. Abrir [[TSH - Yang Jwing-Ming - localizadores e diálogo com cultivo Qi Gong]] para nomes exatos, tamanhos, temas, destinos curriculares, referência ao documento no Google Drive e distinções frente ao material de Pai Lin e Além das Fronteiras. **Não confundir localização na Biblioteca/Drive com armazenamento no Obsidian.**
+
+Um pacote preparado para importação dos originais já disponíveis nesta conversa foi gerado localmente como `TSH_Pacote_Originais_MTC_QiGong_GitHub.zip` (PPTM, PDFs Pai Lin/interocepção, imagens), com `MANIFESTO_ORIGINAIS.json` contendo SHA-256. Esse ZIP **não está no GitHub e não inclui os cinco livros protegidos**; após importação manual à cópia local do vault, conferir hashes e commit. 
