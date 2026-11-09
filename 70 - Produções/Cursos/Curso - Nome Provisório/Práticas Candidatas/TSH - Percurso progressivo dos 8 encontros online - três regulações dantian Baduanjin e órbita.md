@@ -1,0 +1,62 @@
+---
+tipo: roteiro-progressivo-de-praticas
+projeto: Traduzindo o Ser Humano
+status: proposta-para-desenvolvimento-e-validacao-do-educador
+data: 2026-11-09
+origem: proposta de Fabiano, patrimonio autoral MTC Qi Gong e resumo do video das seis fugas
+relacoes: [M0-M8, M3.5, M3.6, M3.7]
+---
+# Percurso de cultivo — oito encontros online do TSH
+
+## Critério orientador
+**Não apenas recuperar regulação quando algo nos mobiliza: cultivar continuamente as condições de presença, vitalidade, discernimento e expressão.** A experiência do participante conduz o ensino: o que pode perceber, diferenciar, desenvolver e expressar? Cada prática se relaciona ao módulo vigente. Não criar outro método, nem transformar os encontros em curso independente de Qi Gong.
+
+O percurso utiliza **三调 (três regulações)**: corpo/postura e movimento, respiração, e mente/atenção/intenção. Tan Tien/Tan Tian/Dantian inferior (丹田, dāntián), Qi, Jing, Shen, Ba Duan Jin/Baduanjin (八段锦) e órbita microcósmica (小周天, xiǎo zhōu tiān) permanecem em seus próprios termos tradicionais; não equivaler a estruturas anatômicas, meridianos medidos ou mecanismos biomédicos demonstrados. No TSH, **Essência espiritual/transpessoal não é sinônimo de Jing**.
+
+## Estrutura de cada encontro (2h)
+- Primeira hora: **dúvidas** dos módulos e integração com experiências, sem interpretar casos íntimos em público.
+- Segunda hora: **prática guiada e conversa** (exemplo ajustável: 10 min chegada e adaptação; 10 min retomada e fundamentos; 25–30 min experiência guiada gradual; 10–15 min descrição, diferenciação e transferência para a vida). A prática real depende das condições do grupo e não precisa ocupar 60 minutos de exercício.
+- Retomar ao início um recurso do encontro anterior, introduzir apenas o necessário e finalizar com orientação ao ambiente/apoios e opção de pausa. Não exigir relato, vivência intensa, “energia percebida” nem mudança de estado.
+- Os encontros são no Zoom; adaptações sentadas e de menor amplitude devem estar disponíveis. Não prometer correção individual de postura como equivalente a avaliação clínica.
+
+## Sequência candidata dos oito encontros
+
+| Encontro / módulos | Objetivo pedagógico | Práticas e passos candidatos | Integração na vida |
+|---|---|---|---|
+| 1 — M0/M1 | Aproximar-se da própria experiência e do centro | Apoios/pés e assento; observar respiração sem controlá-la; localização tradicional de dantian inferior sem exigir sensação; três regulações em linguagem simples | Pergunta: “o que percebo antes de tentar mudar?” |
+| 2 — M2 | Discriminar atenção, corpo e interpretação | Alternar atenção ao entorno, apoio e região inferior abdominal; respiração natural; intenção (Yi) sem esforço de concentração; pequenas mudanças de postura | “o que noto, o que atribuo, o que ainda não sei?” |
+| 3 — M3 | Cultivar coordenação corporal-respiratória-atencional | Revisitar três regulações; um ou dois movimentos de Ba Duan Jin com adaptações; explorar ritmo/limites e pausas | Relação esforço–presença–disponibilidade |
+| 4 — M4 | Reconhecer proteções e tensão habitual sem forçar catarse | Mandíbula, ombros e abdome: notar/soltar quando confortável; movimento leve, orientação ao ambiente, limites; observar emoção sem interpretar órgão como diagnóstico | “que resposta foi protetora e que alternativas encontro?” |
+| 5 — M5 | Centro, contemplação e sentido | Retorno ao dantian como representação tradicional; atenção aberta; apresentação conceitual da circulação, com distinção de experiência/sentido/ontologia | “como acolho o desconhecido sem exigir conclusão?” |
+| 6 — M6 | Explorar direção e integração gradualmente | Preparação para circulação: perceber frente/costas sem induzir sensações; se houver preparo, explorar **visualização simples, optativa, da órbita microcósmica** com ritmo próprio, sem retenções, pressão, manobras ou indução de intensidade; retornar à orientação externa | “o que pude integrar, quais limites reconheci?” |
+| 7 — M7 | Expressão e limites em movimento | Dois ou mais movimentos selecionados do Ba Duan Jin, passagens entre abertura/fechamento, postura e coordenação; ajustes para equilíbrio e articulações | Ensaio da expressão sem rigidez |
+| 8 — M8 | Autonomia, continuidade e cultivo | Escolha do repertório pessoal: três regulações, dantian, movimentos do Ba Duan Jin e/ou circulação optativa; planejar continuidade realista com apoios e condições | “o que posso cultivar sem transformar prática em cobrança?” |
+
+**Status:** arquitetura de prática proposta; não foram escolhidos/revistos com Fabiano os movimentos exatos, a linhagem e progressão técnica do Ba Duan Jin, nem protocolada a órbita. A escolha final pertence à formação do educador e à observação do grupo. Não prometer ensino completo dos oito brocados ou capacitação formal em órbita microcósmica.
+
+## Escada de aprendizagem — órbita microcósmica
+1. Estabelecer conforto/apoios e percepção de limites; reconhecer contrações e sinais de desconforto.
+2. Familiaridade sem esforço com atenção corporal e respiração espontânea; não exigir “sentir Qi”.
+3. Reconhecer o mapa tradicional dos trajetos anterior/posterior (Ren Mai e Du Mai), distinguindo cartografia ritual/energética de anatomia.
+4. Explorar **somente sob condução adequada** uma versão leve, imagética, facultativa e reversível do percurso, com possibilidade de ficar apenas na observação do corpo e do entorno.
+5. Retomar ancoragens, pausas e diferenciar experiência, interpretação e efeitos posteriores. Sem prender a respiração, técnicas de pressão, concentração coercitiva, movimentos intensos ou promessas de desbloqueio energético.
+
+**Cautelas:** sintomas de tontura, palpitações, falta de ar, tensão no peito, ansiedade intensa ou desorientação pedem interrupção da prática e retorno a condições de segurança; sintomas clínicos relevantes requerem avaliação adequada. Para pessoas com condições cardiorrespiratórias, vestibulares, limitações de equilíbrio, gestação ou traumas e experiências dissociativas, oferecer participação adaptada e evitar exigir interiorização prolongada. Técnicas respiratórias não são intervenção clínica individual no grupo. Não extrapolar dados de segurança de exercícios suaves para a órbita microcósmica, que possui evidência própria muito limitada.
+
+## Ba Duan Jin — critérios de escolha
+Selecionar por função pedagógica, acessibilidade, amplitude e possibilidade de adaptação, **não** por uma promessa sobre órgãos ou meridianos. Possibilidades a avaliar: erguer as mãos ao céu (postura, extensão confortável e respiração); separar céu e terra (assimetria e coordenação); olhar para trás (orientação cervical com limites); flexões/agachamentos apenas para quem puder, com alternativa sentada. Evitar linguagem de cura de sistemas orgânicos. Escolher movimentos com base em linhagem efetivamente ensinada por Fabiano; não improvisar sequências complexas no Zoom.
+
+## Fonte e evidência
+**Fonte de inspiração inicial:** resumo com marcação temporal fornecido por Fabiano do vídeo https://youtu.be/9_gb9oSfDZs (não assistido diretamente). A metáfora “seis fugas” é ponte pedagógica, não diagnóstico tradicional padronizado ou causalidade comprovada.
+
+**Fonte autoral no vault:** [[00 - Fundamento Integrado - Qi, Corpo, Respiração, Intenção e Articulação Multirreferencial]]; [[15 - Três Regulações, Qi Gong e EIXO]]; monografia de MTC e patrimônio pessoal. [[TSH - Masterclass - Vitalidade e cultivo - diálogo com seis fugas taoístas - 2026-11-09]].
+
+**Pesquisa externa para o caderno docente:** NCCIH, Qigong: What You Need To Know https://www.nccih.nih.gov/health/qigong-what-you-need-to-know ; Mak e colegas (2025/2026), *Evidence Map of Tai Chi and Qigong, 2014–2024*, https://pubmed.ncbi.nlm.nih.gov/40953174/ ; *The Safety of Baduanjin Exercise: A Systematic Review* (2021), https://pubmed.ncbi.nlm.nih.gov/33552220/ . Há evidência heterogênea para diferentes aplicações e práticas de Qi Gong/Tai Chi. Estudos relataram eventos menores e monitoramento incompleto de danos; não inferir resultados clínicos individualizados. A órbita microcósmica não dispõe de evidência de eficácia e segurança comparável à de Baduanjin como exercício suave.
+
+## Relação com a tríade do TSH
+- **Percepção:** o que se modifica no corpo, no estado e na relação sem impor sentido?
+- **Diferenciação:** o que senti, o que interpretei à luz de mapa tradicional e o que posso ou não concluir?
+- **Participação:** quais apoios, condições, limites e decisões podem contribuir para cultivar vitalidade e presença? Cultivo não é desempenho obrigatório.
+
+## Regra de continuidade
+Recuperar esta nota **na preparação concreta dos oito encontros**, junto ao roteiro de cada módulo; não copiar mecanicamente práticas para as 54 aulas nem forçar o mapa das seis fugas sobre todos os módulos. Não confundir a decisão de registrar proposta com execução, gravação ou homologação de práticas.
