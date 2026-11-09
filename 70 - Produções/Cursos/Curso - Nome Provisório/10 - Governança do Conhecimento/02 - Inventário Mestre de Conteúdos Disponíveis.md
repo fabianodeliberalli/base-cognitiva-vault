@@ -531,3 +531,7 @@ Autores não são classificados como blocos científicos ou não científicos. C
 - completar a matriz Três Eus × quatro movimentos × seis fases × práticas × indicadores;
 - vincular cada Dívida de Organização ao ativo resultante;
 - atualizar este inventário após cada auditoria, piloto ou nova incorporação.
+
+## Yang Jwing-Ming — localização real dos livros (09/11/2026)
+
+Recuperados na **Biblioteca ChatGPT**, não identificados como binários no GitHub: `Qigong Meditation Embryonic Bre - Jwing-Ming Yang.pdf`, `Qigong Meditation Small Circula - Jwing-Ming Yang.pdf`, `Qigong Secret of Youth 3rd. ed. - Jwing-Ming Yang.pdf`, `The Root of Chinese Qigong 3rd. - Jwing-Ming Yang.pdf` e `Qigong Grand Circulation For Sp - Yang Jwing-Ming (1).pdf`. No Google Drive existe `La Respiracion Embrionica Meditacion Qigong` em documento próprio. Consultar **[[TSH - Yang Jwing-Ming - localizadores e diálogo com cultivo Qi Gong]]** para referência e comparação de conteúdos, antes de afirmar que obra está depositada no vault. Contribuições: respiração e dantian; Ren/Du e pequena circulação; Yijinjing/Xisuijing; princípios de Qi Gong; doze meridianos/grande circulação. Distinções frente a Pai Lin: [[TSH - Chong Mai pequena e grande circulação - comparação das fontes Pai Lin e Além das Fronteiras]].
