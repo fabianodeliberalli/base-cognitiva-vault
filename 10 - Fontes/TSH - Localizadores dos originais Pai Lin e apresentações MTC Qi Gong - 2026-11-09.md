@@ -56,3 +56,7 @@ Três arquivos ZIP foram preparados e tiveram sua integridade conferida nesta se
 3. `TSH_Livros_Yang_Jwing_Ming_para_Repositorio.zip` (~166,6 MB): cinco PDFs originais de Yang Jwing-Ming, com hashes SHA-256; destino `10 - Fontes/Originais/Livros Yang Jwing-Ming/`.
 
 Para autonomia completa, extrair os ZIPs **na raiz de uma cópia local do vault**, preservando caminhos, verificar hashes e enviar commits à branch `tsh-sentir-outro-intersubjetividade-20261107`. Se arquivos excederem limitações de upload do GitHub, usar Git LFS em repositório privado ou outra infraestrutura com suporte a objetos grandes. Os cinco livros são protegidos; conferir políticas de armazenamento e compartilhamento antes do commit. Não integrar à `main` sem homologação.
+
+## Novos sete PDFs do Taoísmo — fonte original recebida em 09/11/2026
+
+Ler [[TSH - Taoismo e cultivo - sete originais enviados 2026-11-09]] para **nomes exatos, páginas, tamanho, prefixos SHA-256, identificação de obras e conteúdo, distinção entre traduções e destinos M1–M8**. Novos arquivos: `-Respiracion-Embrionaria.pdf` (Yang Jwing-Ming, espanhol), `-Despierta-La-Luz-Curativa-Del-Tao-Mantak-Chia.pdf`, `A-energia-curativa-atraves-do-tao-Mantak-Chia.pdf`, `Meditacao-Taoista.pdf` (Wu Jyh Cherng), `MEDITACAO-TAOISTA(1).pdf` (Cleary/Salvagni; **outra obra**), `Wu Wei - A Arte de Viver o Tao.pdf` (Theo Fischer), `caminhos_do_taoismo(1).pdf` (Gilberto Antônio Silva). Os binários estão na conversa e não tiveram commit confirmado na árvore GitHub.
