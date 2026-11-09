@@ -1,3 +1,7 @@
+## Acesso auditado aos originais e vínculo com os oito encontros (09/11/2026)
+
+Antes de preparar qualquer encontro, consultar [[TSH - Acervo primario verificado e recuperacao transversal - 2026-11-09]] e suas entradas para **Yang Jwing-Ming, Pai Lin, Mantak Chia, Wu Jyh Cherng, Cleary, Theo Fischer e Gilberto Silva**. A consulta segue a função da etapa: E1–2 respiração/dantian/atenção; E3–4 movimento, limites e emoção; E5 contemplação; E5–6 circulação pequena; E7–8 integração, campo e grande circulação quando adequada. Preservar as três modalidades de observação (interior, movimento, ambiente) e não exigir que todos realizem todas as técnicas. Os PDFs estão conferidos por SHA-256 em pacotes locais, **ainda não importados no repositório porque sua visibilidade atual é pública**.
+
 ---
 tipo: roteiro-progressivo-de-praticas
 projeto: Traduzindo o Ser Humano
