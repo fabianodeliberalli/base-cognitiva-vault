@@ -701,3 +701,12 @@ Fabiano propôs desenvolver as **três regulações**, dantian inferior, Ba Duan
 A fonte imediata é **resumo fornecido por Fabiano**, não leitura integral de mestre taoísta. A progressão específica está em [[TSH - Percurso progressivo dos 8 encontros online - três regulações dantian Baduanjin e órbita]] e a aplicação pública em [[TSH - Masterclass - Vitalidade e cultivo - diálogo com seis fugas taoístas - 2026-11-09]]. Incluir esses mapas ao preparar M3.5 (constituição, Jing e cultivo), M3.6 (centro, circulação, limites) e M3.7 (retorno, respiração, corpo e movimento), sem aprisionar o tema apenas a M3. O conteúdo tradicional e os correlatos empíricos têm estatutos distintos; a eficácia de Ba Duan Jin não autoriza assumir segurança/eficácia da órbita microcósmica.
 
 **Base empírica para reflexão, não equivalência ou promessa:** NCCIH Qigong What You Need To Know; Mak et al. Evidence Map 2014–2024 (2025), PMID 40953174; revisão de segurança do Baduanjin (2021), PMID 33552220.
+
+
+## Novo material de fundamentação e formação (09/11/2026) — interocepção, circulação e docência
+
+Consultar [[TSH - Interocepção propriocepção exterocepção e cultivo em Qi Gong - análise do anexo 2026-11-09]], elaborado após leitura integral do PDF de 15 páginas `Qi Gong e interocepcao.pdf`, e [[TSH - Percurso progressivo dos 8 encontros online - três regulações dantian Baduanjin e órbita]]. O anexo oferece aplicação experiencial de exterocepção, propriocepção e interocepção ao Ba Duan Jin; contém também exageros neurofisiológicos que não devem ser reproduzidos como efeitos comprovados. Diferenciar as três modalidades de percepção das três regulações tradicionais de Qi Gong, sem negar suas convergências funcionais.
+
+A imagem de Fabiano “Bateria energética R+” apresenta referências a Bao Zhong, Chong Mai, Ren e Du e grande circulação. **Não confundir com diagrama da pequena órbita microcósmica**, nem com anatomia comprovada. É patrimônio relevante para preparação de aprofundamentos, com crédito à formação de origem.
+
+Credenciais/linhagens informadas por Fabiano para documentar a escolha docente: Shioda Sensei/Liu Pai Lin; Ely Brito/Mantak Chia; Miguel Martins (Espanha); Cassiano Takaiassu e Jaime Kuk; Carlos Nogueira Pérez/CEMETC (Espanha). Informação fornecida pelo autor, sem verificação independente de certificados; consultar os ensinamentos específicos ao preparar uma aula. Condições de adaptação pertencem ao exercício competente da docência e não constituem proibição geral de práticas tradicionais.
