@@ -60,3 +60,26 @@ Selecionar por função pedagógica, acessibilidade, amplitude e possibilidade d
 
 ## Regra de continuidade
 Recuperar esta nota **na preparação concreta dos oito encontros**, junto ao roteiro de cada módulo; não copiar mecanicamente práticas para as 54 aulas nem forçar o mapa das seis fugas sobre todos os módulos. Não confundir a decisão de registrar proposta com execução, gravação ou homologação de práticas.
+
+
+## Ampliação autoral — fontes formativas, três percepções e progressão da prática (09/11/2026)
+
+Fabiano declarou a seguinte genealogia relevante à escolha e condução das práticas: formação com **Shioda Sensei**, discípulo de **Liu Pai Lin**; formação com **Ely Brito**, discípula de **Mantak Chia**; formações com **Miguel Martins** (Espanha); formação de professor de Qi Gong com **Cassiano Takaiassu e Jaime Kuk**; e estudos de MTC com **Carlos Nogueira Pérez/CEMETC (Espanha)**, usados também nas apresentações de *Além das Fronteiras*. Preservar como **informação profissional fornecida por Fabiano**, não credenciais certificadas independentemente nesta sessão. Consultar as práticas e materiais de origem da linhagem ao escolher movimentos, ritmo, intenção e visualizações. A existência de formação é fundamento relevante para o planejamento de uma condução experiente, não promessa de segurança universal nem impedimento ao ensino.
+
+A nota fornecida **Qi Gong e interocepcao.pdf**, 15 páginas, foi efetivamente examinada; sua leitura crítica encontra-se em [[TSH - Interocepção propriocepção exterocepção e cultivo em Qi Gong - análise do anexo 2026-11-09]]. A tríade **interocepção / propriocepção / exterocepção** complementa, mas não substitui ou equivale automaticamente, às **três regulações do Qi Gong** (corpo, respiração, mente/intenção). Usar como três perguntas abertas dentro dos oito encontros:
+- *Interior*: que sinais e estados consigo perceber, sem forçar sensação ou explicação?
+- *Postura e movimento*: onde está meu peso, como me movimento, que esforço é necessário e que amplitude é adequada?
+- *Ambiente e relação*: como me oriento pelo chão, espaço, luz, sons e presença dos outros?
+A prática pode ainda incluir valores e dimensão contemplativa, sem fixar fenômenos internos como estados obrigatórios.
+
+### Desenvolvimento de Ba Duan Jin
+Introduzir **Sustentar o Céu** como exemplo inicial de integração entre corpo, respiração e percepção, respeitando linhagem e adaptações. Outros movimentos devem ser escolhidos pelo professor por função (mobilidade/limites, distribuição de esforço, direcionalidade e expressão), não por uma alegação de cura de órgãos. Evitar assumir que o método do PDF contém instruções suficientes para execução autônoma segura.
+
+### Circulação e órbita
+A imagem **Bateria energética R+** fornecida nesta data diferencia cartografias de grande circulação e relações tradicionais de Chong Mai, Ren e Du. Não usá-la como representação da pequena órbita sem explicitar diferença entre trajetos. Orquestrar a progressão de mapas e prática na linguagem das formações de Fabiano; explorar a órbita microcósmica como possibilidade posterior e adaptável, sem forçar retenções ou experiências energéticas.
+
+### Transposição à vida
+No encerramento de cada exercício, em vez de perguntar apenas “melhorou?”, investigar: **o que percebi, o que diferenciei, que condições influenciaram, como poderia cultivar isso em uma situação cotidiana?** A aprendizagem não exige relaxamento nem intensidade subjetiva.
+
+### Fontes e limites
+Para consulta docente: Chen et al. (2021), https://pmc.ncbi.nlm.nih.gov/articles/PMC7780231/ ; revisão de consciência corporal https://pmc.ncbi.nlm.nih.gov/articles/PMC11048399/ ; NCCIH Qigong https://www.nccih.nih.gov/health/qigong-what-you-need-to-know ; revisão de segurança Baduanjin https://pmc.ncbi.nlm.nih.gov/articles/PMC7847359/ . Evitar atribuir queda imediata de cortisol ou ativação parassimpática específica a qualquer movimento com base no PDF. O rigor descritivo não anula valor das práticas em seus termos tradicionais.
