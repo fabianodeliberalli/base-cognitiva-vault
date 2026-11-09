@@ -6,6 +6,8 @@ data: 2026-11-09
 origem: proposta de Fabiano, patrimonio autoral MTC Qi Gong e resumo do video das seis fugas
 relacoes: [M0-M8, M3.5, M3.6, M3.7]
 ---
+> **Recuperação de fontes antes da preparação prática:** [[TSH - Localizadores dos originais Pai Lin e apresentações MTC Qi Gong - 2026-11-09]]. O índice discrimina PDF Pai Lin (pp.1–6), PPTM Além das Fronteiras (slides 9/23), imagem R+ e nota de interocepção (pp.10–15). Consultar a síntese em GitHub e **abrir originais disponíveis na conversa** quando precisar conferir ilustrações, instruções ou variantes de linhagem. O índice **não comprova upload dos originais ao GitHub**.
+
 # Percurso de cultivo — oito encontros online do TSH
 
 ## Critério orientador
