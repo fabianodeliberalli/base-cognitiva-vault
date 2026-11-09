@@ -47,3 +47,12 @@ origem: anexos fornecidos por Fabiano na conversa de refinamento da Masterclass
 Os quatro livros das capas fornecidas e um quinto livro sobre Grande Circulação **foram localizados na Biblioteca do ChatGPT do usuário**, não comprovados como PDFs binários no GitHub. Abrir [[TSH - Yang Jwing-Ming - localizadores e diálogo com cultivo Qi Gong]] para nomes exatos, tamanhos, temas, destinos curriculares, referência ao documento no Google Drive e distinções frente ao material de Pai Lin e Além das Fronteiras. **Não confundir localização na Biblioteca/Drive com armazenamento no Obsidian.**
 
 Um pacote preparado para importação dos originais já disponíveis nesta conversa foi gerado localmente como `TSH_Pacote_Originais_MTC_QiGong_GitHub.zip` (PPTM, PDFs Pai Lin/interocepção, imagens), com `MANIFESTO_ORIGINAIS.json` contendo SHA-256. Esse ZIP **não está no GitHub e não inclui os cinco livros protegidos**; após importação manual à cópia local do vault, conferir hashes e commit. 
+
+## Pacotes de originais já preparados no ambiente da conversa
+
+Três arquivos ZIP foram preparados e tiveram sua integridade conferida nesta sessão. **Não equivalem a commit de binários no GitHub**:
+1. `TSH_Pacote_Originais_MTC_QiGong_GitHub.zip` (~38,7 MB): PPTM Além das Fronteiras, PDF Pai Lin, PDF interocepção, imagens R+, duas referências visuais de Siegel, imagem das capas; manifesto SHA-256. Destino `10 - Fontes/Originais/`.
+2. `TSH_Pacote_Originais_Masterclass_GitHub.zip` (~56,5 MB): apresentações Masterclass v11, v12, v13, v14 e histórica, com manifesto; destino `70 - Produções/Originais/Masterclass/`.
+3. `TSH_Livros_Yang_Jwing_Ming_para_Repositorio.zip` (~166,6 MB): cinco PDFs originais de Yang Jwing-Ming, com hashes SHA-256; destino `10 - Fontes/Originais/Livros Yang Jwing-Ming/`.
+
+Para autonomia completa, extrair os ZIPs **na raiz de uma cópia local do vault**, preservando caminhos, verificar hashes e enviar commits à branch `tsh-sentir-outro-intersubjetividade-20261107`. Se arquivos excederem limitações de upload do GitHub, usar Git LFS em repositório privado ou outra infraestrutura com suporte a objetos grandes. Os cinco livros são protegidos; conferir políticas de armazenamento e compartilhamento antes do commit. Não integrar à `main` sem homologação.
