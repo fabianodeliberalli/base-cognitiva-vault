@@ -1,3 +1,7 @@
+## Recuperação transversal de fontes auditadas (09/11/2026)
+
+Ao produzir ou revisar aulas, buscar [[TSH - Acervo primario verificado e recuperacao transversal - 2026-11-09]] por pertinência à finalidade: os oito encontros; consciência e interocepção em M1–M3; espiritualidade em M5; singularidade e relações em M1/M4/M7; diferenciação, expressão e integração em M6–M8; cultivo e práticas em M3.5–M3.7. O índice aponta para as obras originais e notas sobre Pai Lin, Yang Jwing-Ming, Mantak Chia, Wu Jyh Cherng, Cleary, Theo Fischer, Gilberto Silva e arquivos autorais da Masterclass. Os 24 binários foram conferidos localmente mas **não depositados no GitHub (ainda público)**. Não supor leitura da fonte integral a partir de índice. Não acrescentar conteúdo onde não houver ganho real.
+
 ---
 tipo: matriz-incorporacao-conteudo
 projeto: Traduzindo o Ser Humano
