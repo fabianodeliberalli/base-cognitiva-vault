@@ -71,3 +71,27 @@ O item circulação/órbita microcósmica permanece na fundamentação da fala c
 **Ponte para convite sem exploração do sofrimento:** “Se você reconheceu algum desses desgastes, o curso não exige que encontre seis soluções. Ele propõe aprendizagem gradual: perceber, diferenciar e experimentar recursos, com acompanhamento, condições e liberdade de adaptar.” Não usar lista de sintomas para presumir doença ou criar medo. Não equiparar desinteresse em compra a falta de cuidado pessoal.
 
 **Nota de execução:** este registro é proposta para v14; o PPTX v13 não foi modificado nesta operação. Preservar a versão editável até decidir a composição final.
+
+
+## Inserção editorial refinada — um exemplo concreto de tradução do TSH
+
+**Avaliação após novo anexo:** a tabela de seis condições de desgaste merece **uma tela única, breve**, entre a passagem sobre integração corpo/mente e a prática, para mostrar um exemplo de tradução entre MTC/Taoísmo e linguagem cotidiana. Não usar a lâmina técnica “Bateria energética R+” nesse ponto — ela exige exposição sobre Chong Mai, Ren/Du e grande circulação e não foi desenhada para uma introdução popular. Preservar sua procedência como formação de Fabiano.
+
+### Texto-base da tela proposta
+**Título:** “Onde perdemos disponibilidade — e o que podemos cultivar?”
+| Uma lente da MTC / Taoísmo | O que pode aparecer na vida |
+|---|---|
+| Respiração e regulação | Respiração curta e tensão habitual |
+| Qi e emoções | Emoções sem espaço de elaboração |
+| Dantian e centro | Atenção distante do corpo e dos apoios |
+| Circulação do Qi | Sensação de estagnação e pouca mobilidade |
+| Jing, reserva e cultivo | Exigências excessivas e recuperação insuficiente |
+| Corpo e movimento | Esforço desnecessário e rigidez recorrente |
+
+Esses emparelhamentos são **traduções pedagógicas aproximativas, não equivalências diagnósticas, anatômicas ou fisiológicas**. A metáfora das seis “fugas” é do vídeo analisado pelo resumo de Fabiano, não uma classificação tradicional uniforme da MTC.
+
+**Fala de ligação:** “Na Medicina Chinesa, aprendi a olhar não apenas para o que nos desorganiza, mas para o que sustenta ou desgasta nossos recursos. Às vezes convivemos com respiração curta, tensões despercebidas, emoções sem espaço ou condições insuficientes de repouso. A tradição oferece mapas de Qi, Jing, centro e circulação. No TSH, eles entram em diálogo com aquilo que percebemos na experiência concreta, sem que um mapa precise provar o outro. E não buscamos apenas recuperar um estado: queremos cultivar presença, sensibilidade e possibilidades de expressão ao longo da vida.”
+
+**Diferencial do curso na oferta, sem promessa excessiva:** oito encontros online — um para M0/M1 e um para cada M2–M8 — permitem aprofundar progressivamente as três regulações, a percepção interna/do movimento/do ambiente, dantian, movimentos do Ba Duan Jin e, se adequado ao grupo, uma exploração introdutória da órbita microcósmica. Não apresentar como certificação em Qi Gong, nem garantir ensino completo da órbita a todos. A formação docente acumulada por Fabiano justifica a confiança em percurso guiado, sem comparação inadequada com atendimento individual.
+
+**Critério audiovisual:** manter ~60 min de conteúdo, ~15 min oferta e ~15 min perguntas; avaliar legibilidade da tabela em Zoom antes de acrescentar; se a tela nova aumentar tempo, ajustar texto de um slide existente. Uma tabela com seis linhas pode ficar apertada: alternativa é uma composição em 3 pares visuais ou 2 colunas com palavras-chave e aprofundamento oral. Esta atualização **não altera o PPTX v13**.
