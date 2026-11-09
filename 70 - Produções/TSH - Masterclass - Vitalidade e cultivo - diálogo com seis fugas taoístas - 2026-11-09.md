@@ -95,3 +95,14 @@ Esses emparelhamentos são **traduções pedagógicas aproximativas, não equiva
 **Diferencial do curso na oferta, sem promessa excessiva:** oito encontros online — um para M0/M1 e um para cada M2–M8 — permitem aprofundar progressivamente as três regulações, a percepção interna/do movimento/do ambiente, dantian, movimentos do Ba Duan Jin e, se adequado ao grupo, uma exploração introdutória da órbita microcósmica. Não apresentar como certificação em Qi Gong, nem garantir ensino completo da órbita a todos. A formação docente acumulada por Fabiano justifica a confiança em percurso guiado, sem comparação inadequada com atendimento individual.
 
 **Critério audiovisual:** manter ~60 min de conteúdo, ~15 min oferta e ~15 min perguntas; avaliar legibilidade da tabela em Zoom antes de acrescentar; se a tela nova aumentar tempo, ajustar texto de um slide existente. Uma tabela com seis linhas pode ficar apertada: alternativa é uma composição em 3 pares visuais ou 2 colunas com palavras-chave e aprofundamento oral. Esta atualização **não altera o PPTX v13**.
+
+
+## Execução editorial da proposta — versão v14 (09/11/2026)
+
+Foi criado na conversa o arquivo **Masterclass_TSH_V14_Cultivo_e_Oito_Encontros.pptx**, a partir da v13 (44 telas), com **45 slides**:
+- **Nova tela 21** (logo após “Duas direções que interagem o tempo todo” e antes de “Uma prática do corpo”): “Onde perdemos disponibilidade? O que podemos cultivar?” com dois campos, **mapa da tradição** e **experiência cotidiana**, em seis pares breves. Regulação = cuidado, cultivo = desenvolvimento. Mantém notas com leitura explícita de aproximação pedagógica, não diagnóstico de Qi/Jing.
+- **Tela 36** (antiga 35, de oito encontros): segunda hora reescrita como **“Práticas progressivas de cultivo”**, com notas explicando progressão desde três regulações/dantian até Ba Duan Jin e princípios de circulação, sem garantia de executar todas as técnicas. Primeira hora continua destinada a dúvidas.
+- Total de slides de oferta preservado: a tela adicional pertence ao bloco de conteúdo e a passagem para o curso continua concisa. A pausa de fala foi planejada em até 75 segundos para não sacrificar a sessão de perguntas.
+- Título e corpo do slide 21 separados por linha vertical, com texto legível no PowerPoint e área esquerda livre para enquadramento do Zoom. Notas alteradas; apresentação renderizada e conferida visualmente.
+- O PPTX binário foi disponibilizado para download na conversa; **não foi transferido ao repositório GitHub**, cuja atualização aqui é textual. A v13 permanece preservada como antecedente.
+- **As fontes Pai Lin e Além das Fronteiras não aparecem na tela pública**: os slides técnicos e a distinção entre Ren/Du, Chong Mai e Circulação do Grande Universo ficam na fundamentação docente em [[TSH - Chong Mai pequena e grande circulação - comparação das fontes Pai Lin e Além das Fronteiras]].
