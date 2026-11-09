@@ -865,3 +865,8 @@ O registro é uma possibilidade, não uma entrega obrigatória. Pode-se apenas o
 Este acervo permanece em plena criação e expansão: referencial de consulta quando pertinente, não documento diretor para construir práticas. O roteiro de M5.5 ainda será desenvolvido.
 
 Fundamentação: [[70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/TSH - Escrita livre criatividade e discernimento - Cameron e Rubin]]
+
+
+## Percurso vivo dos oito encontros — extensão 09/11/2026
+
+Para os **oito encontros de duas horas (primeira hora dúvidas; segunda hora prática e integração)**, recuperar [[TSH - Percurso progressivo dos 8 encontros online - três regulações dantian Baduanjin e órbita]]. Progressão candidata: corpo/respiração/atenção e dantian → discriminação da experiência → Ba Duan Jin adaptado → tensões/proteções → contemplação e circulação tradicional → introdução opcional e proporcional à órbita microcósmica → expressão em movimento → síntese e continuidade. Seleção exata dos movimentos, dose e adequação fica com Fabiano, sem transformar encontros em curso autônomo de Qi Gong nem impor a órbita a todos. Preservar alternativas para quem acompanha sentado, não pode realizar movimentos ou prefere apenas observar. Ver [[00 - Fundamento Integrado - Qi, Corpo, Respiração, Intenção e Articulação Multirreferencial]].
