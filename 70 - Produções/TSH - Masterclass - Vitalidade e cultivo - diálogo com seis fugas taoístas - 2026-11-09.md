@@ -48,3 +48,26 @@ A v13 possui 44 slides e compromisso de ~60 min conteúdo/experiência, ~15 min 
 
 ## Próxima avaliação
 Quando a Masterclass for novamente refinada, examinar se o cuidado com vitalidade está sub-representado e inserir apenas a contribuição que acrescente compreensão/experiência sem tirar tempo das perguntas ou da apresentação concisa do curso. Esta nota **não atesta edição do arquivo PPTX**.
+
+
+## Ampliação solicitada em 09/11 — seis fugas como ponte de reconhecimento da oferta
+
+**Decisão de conteúdo:** apresentar **as seis condições de desgaste em linguagem cotidiana, de modo breve, não como seis diagnósticos**. Em uma Masterclass de 44 slides / 90 min, **candidata uma única tela** imediatamente antes da prática corporal, preferencialmente por substituição/simplificação de tela explicativa já existente (sem expandir a parte comercial). Se optar por uma tela extra, compensar o tempo em outro trecho, mantendo 60 min conteúdo, 15 oferta e 15 perguntas/fechamento. Não alterar sem avaliar índice atual após edição.
+
+**Título sugerido:** “O que pode estar consumindo nossos recursos?”
+**Conteúdo de tela sugerido (seis frases curtas):**
+- Respiração encurtada e tensão constante
+- Emoções sem espaço para elaboração
+- Atenção distante do corpo e dos apoios
+- Rigidez, sensação de estagnação e pouco movimento
+- Excesso de exigências e pouca recuperação
+- Tensões mantidas sem necessidade percebida
+
+O item circulação/órbita microcósmica permanece na fundamentação da fala como **mapa tradicional**, não mecanismo biomédico nem condição que o público possa diagnosticar por sensação. O item jing traduz-se em aula geral como questão de reserva/cultivo e condições de descanso, sem reduzir Jing à fadiga.
+
+**Fala-ponte candidata (45–70 s):**
+“Na Medicina Chinesa aprendi a investigar não apenas o que acontece quando nos desorganizamos, mas também aquilo que continuamente consome ou sustenta nossos recursos. Uma respiração curta, tensões que não percebemos, emoções sem espaço, uma rotina sem recuperação — tudo isso pode participar de nossas condições de vida. Na tradição taoísta usamos mapas de Qi, Jing, circulação e cultivo para investigar essas relações. O TSH não oferece seis diagnósticos, nem a promessa de recuperar energia rapidamente. Oferece um percurso para reconhecer padrões e cultivar, aos poucos, as condições que favorecem presença, sensibilidade e expressão. Vamos experimentar apenas uma pequena parte disso agora.”
+
+**Ponte para convite sem exploração do sofrimento:** “Se você reconheceu algum desses desgastes, o curso não exige que encontre seis soluções. Ele propõe aprendizagem gradual: perceber, diferenciar e experimentar recursos, com acompanhamento, condições e liberdade de adaptar.” Não usar lista de sintomas para presumir doença ou criar medo. Não equiparar desinteresse em compra a falta de cuidado pessoal.
+
+**Nota de execução:** este registro é proposta para v14; o PPTX v13 não foi modificado nesta operação. Preservar a versão editável até decidir a composição final.
