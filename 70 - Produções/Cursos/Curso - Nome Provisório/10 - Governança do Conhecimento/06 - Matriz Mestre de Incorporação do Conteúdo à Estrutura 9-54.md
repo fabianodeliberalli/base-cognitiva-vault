@@ -10,6 +10,18 @@ autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
 
+## Interocepção, três regulações e circulação — destinação detalhada (09/11/2026)
+
+**Fonte de revisão obrigatória por pertinência:** [[TSH - Interocepção propriocepção exterocepção e cultivo em Qi Gong - análise do anexo 2026-11-09]], nota crítica do PDF enviado por Fabiano (15 páginas), e [[TSH - Percurso progressivo dos 8 encontros online - três regulações dantian Baduanjin e órbita]]. A aplicação da prática em aula do curso não substitui nem antecipa toda a progressão presencial online. Selecionar na construção, segundo função:
+- M1/M2: perceber o corpo, posição e entorno, distinguindo experiência de interpretação.
+- M3.5: constituição, Jing, reserva/cultivo; M3.6: dantian, centro, circulação/limite; M3.7: três regulações, Qi Gong e recursos de retorno.
+- M4: tensionamento e defesa, emoções e possibilidade de observação.
+- M5: contemplação e experiências ampliadas; manter distinção entre mapa energético e experiência espiritual.
+- M6/M7: integrar atenção e movimento, eventual prática de órbita como aprofundamento conduzido; Ba Duan Jin e expressão.
+- M8: continuidade da prática sem exigência de intensidade ou adesão a uma cosmologia.
+
+**Aula ao vivo é laboratório experiencial, não demonstração obrigatória de resultados.** Interocepção/propriocepção/exterocepção dialogam com três regulações corpo/respiração/mente-intenção sem equivalência categorial. A imagem “Bateria energética R+” é material de pesquisa docente oriundo da formação de Fabiano: contém Chong Mai/Bao Zhong e representações Ren/Du, sem se confundir com pequena órbita. A proposta de Masterclass de uma tela “Onde perdemos disponibilidade — e o que podemos cultivar?” encontra-se em [[TSH - Masterclass - Vitalidade e cultivo - diálogo com seis fugas taoístas - 2026-11-09]].
+
 ## MTC e cultivo — recuperação na produção das aulas e dos encontros (09/11/2026)
 
 Na construção dos roteiros, notas docentes, slides e entregáveis de **M3.5–M3.7**, e nas retomadas pertinentes de M4, M5, M6, M7 e M8, consultar [[TSH - Percurso progressivo dos 8 encontros online - três regulações dantian Baduanjin e órbita]] e [[00 - Fundamento Integrado - Qi, Corpo, Respiração, Intenção e Articulação Multirreferencial]]. A nova proposta pedagógica é passar de “retorno ao estado” ao **cultivo contínuo das condições de vitalidade, presença e expressão**; não substituir o tema curricular da aula por explicação de técnicas de Qi Gong. As práticas têm desenvolvimento ao vivo progressivo e devem articular-se à questão de cada módulo: perceber, diferenciar, participar.
