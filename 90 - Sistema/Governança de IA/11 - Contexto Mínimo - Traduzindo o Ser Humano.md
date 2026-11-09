@@ -6,6 +6,10 @@ versao: "0.13"
 atualizado_em: 2026-11-07
 ---
 
+## Localizador dos originais MTC/Qi Gong e Pai Lin — 09/11/2026
+
+Para elaboração de M3.5–M3.7, dos oito encontros online, de materiais sobre Chong Mai, Ren/Du, pequena e grande circulação, consultar **primeiro** [[TSH - Localizadores dos originais Pai Lin e apresentações MTC Qi Gong - 2026-11-09]]. O índice informa nomes exatos dos anexos, locais de origem na conversa, slides/páginas relevantes, notas críticas existentes no GitHub, funções por módulo e limites de acesso. Os originais são `Qi Gong MTC - Além das Fronteiras.pptm` (39 slides), `Órbita Macro cósmica Pai Lin_.pdf` (6 páginas), imagem `Bateria energética R+` e `Qi Gong e interocepcao.pdf` (15 páginas). **Os binários originais ainda não foram confirmados no GitHub**; não afirmar que o índice equivale à incorporação física dos arquivos. Abrir o conteúdo integral da fonte quando a aula exigir precisão visual ou textual.
+
 ## Critério de qualidade pedagógica — texto integral agora no Protocolo (07/11/2026)
 
 Ao iniciar ou revisar **qualquer** aula TSH, recuperar [[70 - Produções/Cursos/Curso - Nome Provisório/Protocolo de Elaboração Curricular Viva e Continuidade Leve#Critério de qualidade pedagógica — formulação integral e aplicação por material (07/11/2026)]]. Lá constam a redação exata da finalidade de cada aula, a pergunta “O que esta aula pode ajudá-lo a perceber, diferenciar, desenvolver ou expressar na própria vida?”, a aplicação para **roteiro oral, PowerPoint, notas do apresentador, práticas, entregáveis e encontros ao vivo**, e o critério de suficiência: aprendizagem pode ser reconhecimento/diferenciação sem mudança comportamental imediata. Aplicar no fluxo já existente, sem checklist ou formato compulsório. Consultar as três situações do TSH e avaliar materiais já produzidos antes de modificá-los. Esta atualização na branch ainda requer integração à main para valer no acesso padrão.
