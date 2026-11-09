@@ -10,6 +10,12 @@ autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
 
+## MTC e cultivo — recuperação na produção das aulas e dos encontros (09/11/2026)
+
+Na construção dos roteiros, notas docentes, slides e entregáveis de **M3.5–M3.7**, e nas retomadas pertinentes de M4, M5, M6, M7 e M8, consultar [[TSH - Percurso progressivo dos 8 encontros online - três regulações dantian Baduanjin e órbita]] e [[00 - Fundamento Integrado - Qi, Corpo, Respiração, Intenção e Articulação Multirreferencial]]. A nova proposta pedagógica é passar de “retorno ao estado” ao **cultivo contínuo das condições de vitalidade, presença e expressão**; não substituir o tema curricular da aula por explicação de técnicas de Qi Gong. As práticas têm desenvolvimento ao vivo progressivo e devem articular-se à questão de cada módulo: perceber, diferenciar, participar.
+
+Destinação: M3.5 Qi/Jing/constituição/reserva/cultivo; M3.6 dantian/centro/circulação/limites; M3.7 três regulações/respiração/retorno/movimento; M4 tensão/emoções e padrões; M5 contemplação e integração sem prova ontológica; M6 eventual visualização leve de órbita apenas com orientação e alternativas; M7 Ba Duan Jin, limites e expressão; M8 repertório pessoal de continuidade. **Baduanjin e órbita microcósmica não são exigências para todos.** A seleção dos movimentos e condução específica devem ser validadas no preparo de cada encontro. A metáfora das seis fugas é recurso pontual de reconhecimento do desgaste na Masterclass, não novo paradigma do TSH.
+
 ## Referência de qualidade pedagógica para cada aula (07/11/2026)
 
 Ao buscar fontes, exemplos e materiais em cada uma das 54 aulas, consultar [[70 - Produções/Cursos/Curso - Nome Provisório/Protocolo de Elaboração Curricular Viva e Continuidade Leve#Critério de qualidade pedagógica — formulação integral e aplicação por material (07/11/2026)]]. O princípio completo está registrado **uma única vez** no protocolo para evitar versões divergentes. Perguntar não só o que o participante compreenderá, mas o que poderá perceber, diferenciar, desenvolver ou expressar; escolher o melhor meio de acordo com a aula. Verificar suficiência pedagógica antes de propor nova prática, slide ou entregável. Reconhecimento de algo antes indistinto pode ser aprendizagem suficiente; não exigir comportamento novo, nem replicar a tríade em todos os materiais. As três situações do TSH ajudam a distinguir reconhecimento, acesso e cultivo. Esta matriz mantém função consultiva e não obriga alterações massivas nos 54 roteiros.
