@@ -83,3 +83,18 @@ No encerramento de cada exercício, em vez de perguntar apenas “melhorou?”, 
 
 ### Fontes e limites
 Para consulta docente: Chen et al. (2021), https://pmc.ncbi.nlm.nih.gov/articles/PMC7780231/ ; revisão de consciência corporal https://pmc.ncbi.nlm.nih.gov/articles/PMC11048399/ ; NCCIH Qigong https://www.nccih.nih.gov/health/qigong-what-you-need-to-know ; revisão de segurança Baduanjin https://pmc.ncbi.nlm.nih.gov/articles/PMC7847359/ . Evitar atribuir queda imediata de cortisol ou ativação parassimpática específica a qualquer movimento com base no PDF. O rigor descritivo não anula valor das práticas em seus termos tradicionais.
+
+
+## Refinamento a partir de fontes primárias de prática — 09/11/2026
+
+Ler [[TSH - Chong Mai pequena e grande circulação - comparação das fontes Pai Lin e Além das Fronteiras]] antes de selecionar exercícios de circulação. Foram conferidos os slides 9 e 23 do PowerPoint autoral *Além das Fronteiras* (39 slides) e as seis páginas de *Tao Gong Quan — Formas de Treinamento do Tao*, Instituto Pai Lin. A órbita microcósmica Ren/Du é distinta da cartografia de Chong Mai e da prática de Circulação do Grande Universo, que, no documento de Pai Lin, passa por umbigo, membros inferiores, coluna, cabeça, relação céu/terra e posteriormente ligação dos oito meridianos. **Não é necessário encadear tudo numa única técnica.**
+
+**Sequência de cultivo revisável:**
+- Encontros 1–2: “Abraço do Taiji” como referência de postura/apoio/atenção, respiração natural, três regulações e observação de interocepção, propriocepção e exterocepção. O texto de Pai Lin usa a linguagem dos três relaxamentos e três tesouros. A prática não precisa reproduzir literalmente instruções avançadas para um grupo iniciante.
+- Encontros 3–4: integrar “Sustentar o Céu” e outros movimentos de Ba Duan Jin segundo linha de transmissão praticada por Fabiano; observar atenção, esforço, movimento e campo relacional, sem prometer efeitos autonômicos específicos.
+- Encontros 5–6: comparar mapa do centro/Dantian, Ren/Du e Chong Mai no caderno docente; introduzir opcionalmente princípios da pequena circulação, mantendo diferenciação entre sensação, intenção, representação e ontologia.
+- Encontros 7–8: recuperar o princípio da Circulação do Grande Universo e integração céu/terra/homem **como aprofundamento possível** de intenção, movimento e relação com campo. O PDF Pai Lin afirma que o primeiro passo pode ser realizado isoladamente e que um segundo envolve os oito meridianos; **não presumir ensino integral de toda a tradição em oito horas de prática cumulativa**. Elaborar passos exatos com Fabiano quando preparar cada encontro.
+
+Em cada prática: **percepção interna** (sinais corporais), **percepção de postura/movimento** (apoios, amplitude, esforço), **relação com ambiente** (espaço, outras pessoas, orientação). Não exigir realização de todas as técnicas para aprender. Observar, adaptar, diferenciar e reconhecer limites são resultados pedagógicos válidos. Separar três regulações tradicionais de três modalidades perceptivas da ciência.
+
+**Fontes práticas e linhagem:** tradição Pai Lin — texto do Instituto; formação com Shioda Sensei/Liu Pai Lin; Ely Brito/Mantak Chia; Carlos Nogueira Pérez/CEMETC; Miguel Martins; Cassiano Takaiassu e Jaime Kuk, conforme relato formativo de Fabiano. Registrar procedência sem pressupor equivalência de métodos ou validação neurobiológica.
