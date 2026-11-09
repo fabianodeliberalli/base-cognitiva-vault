@@ -42,3 +42,9 @@ Os livros são obras protegidas por direitos autorais; esta ficha contém apenas
 [[TSH - Chong Mai pequena e grande circulação - comparação das fontes Pai Lin e Além das Fronteiras]]
 [[TSH - Percurso progressivo dos 8 encontros online - três regulações dantian Baduanjin e órbita]]
 [[00 - Fundamento Integrado - Qi, Corpo, Respiração, Intenção e Articulação Multirreferencial]]
+
+## Estado de preservação — arquivos preparados para importação (09/11/2026)
+
+Os **cinco PDFs originais foram copiados da Biblioteca do ChatGPT para arquivos binários locais**, mantidos íntegros em `/mnt/data/Yang_Jwing_Ming_Originais/`. Foi criado o pacote privado `TSH_Livros_Yang_Jwing_Ming_para_Repositorio.zip`, com `MANIFESTO_YANG.json` (tamanho e SHA-256 de cada livro), testado sem erros e organizado para destino `10 - Fontes/Originais/Livros Yang Jwing-Ming/`. **O ZIP não foi enviado ao GitHub**. Importá-lo posteriormente pela cópia local do vault e conferir hashes; não distribuir publicamente obras sob direitos autorais. O pacote contém **os cinco livros**, incluindo *Grand Circulation for Sports*, e não somente suas capas.
+
+**Google Drive:** o documento encontrado `La Respiracion Embrionica Meditacion Qigong` foi aberto e contém três parágrafos, começando com chamadas de download e um trecho textual; **não se mostrou versão completa verificada do livro**. A fonte integral para consulta continua sendo o PDF localizado na Biblioteca. URL: https://docs.google.com/document/d/1G3aOtDY407un-iPl2q7IKLP_q0KB24NWTJA-T7YOwaI/edit?usp=drivesdk
