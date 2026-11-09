@@ -9,6 +9,10 @@ criado_em: 2026-07-21
 atualizado_em: 2026-09-07
 relacionado_a: 01 - Reconciliação da Governança do Conhecimento e Disponibilidade do Acervo
 ---
+## Fontes primárias MTC/Qi Gong — localizadores confirmados (09/11/2026)
+
+Consultar [[TSH - Localizadores dos originais Pai Lin e apresentações MTC Qi Gong - 2026-11-09]] para recuperar `Qi Gong MTC - Além das Fronteiras.pptm` (slide 9 órbita microcósmica; slide 23 Chong Mai e bateria R+), `Órbita Macro cósmica Pai Lin_.pdf` (pp.1–3 Abraço do Taiji; pp.4–6 Circulação do Grande Universo), imagem `Bateria energética R+` e `Qi Gong e interocepcao.pdf` (pp.10–15 Qi Gong e movimento Sustentar o Céu). Abrir as notas de fundamentação [[TSH - Chong Mai pequena e grande circulação - comparação das fontes Pai Lin e Além das Fronteiras]] e [[TSH - Interocepção propriocepção exterocepção e cultivo em Qi Gong - análise do anexo 2026-11-09]]. Os documentos originais foram fornecidos na conversa ChatGPT de refinamento da Masterclass e **não estão atestados como arquivos binários na árvore GitHub**.
+
 ## Retomadas e materiais registrados em 31/10/2026
 
 Antes de produzir a aula pertinente, consultar [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Governança do Conhecimento/TSH - Retomadas de escrita atenção e diferenciação nas 54 aulas]] e os itens correspondentes em [[70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/TSH - Escrita atenção e diferenciação - Referências e limites]]. A matriz utiliza o Raio X atualizado de 31/10; não altera a arquitetura. [[70 - Produções/Cursos/Curso - Nome Provisório/Práticas Candidatas/Práticas por Módulo - Consulta em criação e expansão]] está em plena criação e expansão: somente consulta contextual, sem governar as práticas. Aplicar [[70 - Produções/Cursos/Curso - Nome Provisório/20 - Identidade Visual/10 - Sistema Oficial v1.0/00 - Manual de Identidade Visual v1.0]] aos slides e entregáveis. Registrar o uso efetivo de cada fonte e sua limitação. M0.2 atual: [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 0/M0.2 - Roteiro e notas sincronizados v1.2]].
