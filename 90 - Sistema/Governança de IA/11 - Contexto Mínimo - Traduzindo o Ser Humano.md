@@ -1,3 +1,7 @@
+## Índice mestre de fontes e preservação privada — 09/11/2026
+
+**Consultar por pertinência** [[TSH - Acervo primario verificado e recuperacao transversal - 2026-11-09]] em oito encontros e aulas de consciência, espiritualidade, singularidade, integração, MTC e Qi Gong. Contém 24 objetos binários cujos SHA-256 foram conferidos localmente em quatro pacotes, além da matriz de relação entre fontes e módulos. **Alerta confirmado pela API GitHub:** `fabianodeliberalli/base-cognitiva-vault` tem visibilidade **public**. As fontes protegidas não foram transferidas como binários. A alteração de visibilidade depende do controle `Settings > General > Danger Zone > Change repository visibility`, não disponível pela conexão desta sessão; não publicar originais enquanto não houver confirmação de `private`. A indexação não equivale ao depósito do binário.
+
 ---
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
