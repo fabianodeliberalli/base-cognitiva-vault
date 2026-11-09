@@ -8,6 +8,8 @@ fontes:
   - Órbita Macro cósmica Pai Lin_.pdf, 6 páginas, material do Instituto Pai Lin
   - imagem Bateria energética R+, fornecida por Fabiano
 ---
+> **Fonte e localização:** [[TSH - Localizadores dos originais Pai Lin e apresentações MTC Qi Gong - 2026-11-09]] contém os nomes exatos dos originais enviados à conversa, páginas/slides, proveniência e limites de acesso. Este estudo é derivado: não representa a presença dos binários no GitHub.
+
 # Chong Mai, órbita microcósmica e Circulação do Grande Universo
 
 ## Premissa de método
