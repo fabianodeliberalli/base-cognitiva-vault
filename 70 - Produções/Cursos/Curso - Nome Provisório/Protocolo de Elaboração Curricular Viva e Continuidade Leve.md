@@ -215,3 +215,9 @@ A elaboração favorece, sem rigidez, a sequência:
 - [[01 - Protocolo de Continuidade Integral e Abertura de Novos Chats]]
 - [[00 - Estado, Índice e Continuidade do Módulo 0]]
 - [[Prompts de Abertura - Orquestração Curricular Mestre e Módulo 0]]
+
+## Continuidade pedagógica — critério transversal confirmado (09/11/2026)
+
+> **Cada etapa da experiência do aluno — da Masterclass ao último encontro — deve ajudá-lo a compreender melhor por que está ali, o que está aprendendo e como poderá continuar cultivando esse aprendizado na própria vida.**
+
+Orientação aplicável à jornada de inscrição, onboarding, aulas M0–M8, PowerPoints, notas, mapas, fichas, comunidade e oito encontros. Não é checklist obrigatório ao aluno nem promessa de evolução linear. Na produção, perguntar proporcionalmente **por que este conteúdo está aqui, que aprendizagem ele torna possível e que continuidade viável pode ter na vida**. A resposta pode vir em experiência, compreensão, diferenciação, observação, prática ou integração posterior, sem exercício obrigatório e sem exposição pessoal. Evitar slides e metáforas sem fio de retorno ou relação com o bloco anterior. **Caso ilustrativo:** [[TSH - Masterclass v16 - ponte pedagogica e recuperacao da mensagem - 2026-11-09]] explicita o arco da mensagem dos slides 9–10 até o slide 25 e a ponte de experiência para oferta nos slides 28–32.
