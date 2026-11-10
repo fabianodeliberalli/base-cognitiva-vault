@@ -136,3 +136,12 @@ Os **modelos completos em espiral não devem ser adicionados à Masterclass de 9
 - William James (1902), `The Varieties of Religious Experience`, https://www.gutenberg.org/cache/epub/621/pg621-images.html
 - Pargament/Exline, dimensão das lutas espirituais (2024), https://doi.org/10.1007/s10862-024-10182-9
 - Encontros das fontes taoístas (Tan Tien, Jing/Qi/Shen, céu/terra/homem): [[TSH - Yang Jwing-Ming - localizadores e diálogo com cultivo Qi Gong]], [[TSH - Taoismo e cultivo - sete originais enviados 2026-11-09]], [[TSH - Mantak Chia Cura Cosmica I - fonte original e destinacao didatica]].
+
+
+## Expansão metodológica solicitada em 10/11/2026 — modelo como base, não hipótese confinada
+
+**Orientação autoral recente:** desenvolver o modelo neurobiológico-relacional como base de **tradução fenomenológica e multidimensional** com relações produtivas entre campos, sem exigir comprovação científica de todas as correlações para permitir ensiná-las. A precisão dos termos serve à **ampliação do diálogo**, não a restringir corpo, afetos, experiência espiritual ou intuição clínica. O estudo científico é **um dos interlocutores** e não o árbitro de todos os campos de sentido.
+
+Consultar [[TSH - Cartografia de Campos em Interação - base multidimensional e mapas de tradução 2026-11-10]] para cartografia de cinco campos em interação, dois níveis de representação (mapa amplo e mapas temáticos), quadro das três funções contemplativas dos dantians, modalidade simbólica dos três Eus, duas perguntas sobre emergência e integração da experiência espiritual, definição de unidade diferenciada, céu–terra–homem/Qi Gong e aplicação modular. **“Maturidade espiritual não é fusão indiferenciada. É capacidade de experimentar unidade sem perder singularidade.”** — referência pedagógica da perspectiva autoral, não teste normativo. **“Conquistar eixo não é deixar de ressoar.”** — articulação transversal.
+
+**Referência nova de Masterclass:** [[TSH - Masterclass v17 - singularidade ressonancia e abertura sem ampliacao - 2026-11-10]]. A pergunta “Como é você na sua vida sem seus padrões?” foi inserida como **tela 6**, após autobiografia, substituindo repetição da pergunta da capa; 47 telas mantidas. Os diagramas complexos devem ser recuperados **no curso**, prioritariamente em M5, não expostos de forma superficial no evento.
