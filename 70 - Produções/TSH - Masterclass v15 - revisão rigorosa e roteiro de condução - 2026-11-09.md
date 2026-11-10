@@ -44,3 +44,7 @@ A apresentação editável `Masterclass_TSH_V15_Revisao_Final_2026-11-09.pptx` f
 [[TSH - Acervo primario verificado e recuperacao transversal - 2026-11-09]]
 [[TSH - Percurso progressivo dos 8 encontros online - três regulações dantian Baduanjin e órbita]]
 [[TSH - Sensibilidade percepcao diferenciacao e liberdade - fundamentacao integrada]]
+
+## Atualização de fonte e auditoria de produto — 09/11/2026
+
+A fonte `Mantak-Chia-Cura-Cosmica-1.pdf` foi preservada na Biblioteca pessoal e indexada em [[TSH - Mantak Chia Cura Cosmica I - fonte original e destinacao didatica]]; pp.34–36 e 232–234 sustentam consulta docente sobre Sorriso Interior do slide 27. Para decisões comerciais, onboarding e correção de inconsistência com site público, consultar [[TSH - Auditoria de produto e lançamento - Masterclass v15 - 2026-11-09]]. Evitar tráfego para página com “EIXO” como nome de método, “Três Eus”, “Cinco Janelas” e “sete movimentos” sem revisão com diretrizes atuais do TSH. **Nenhuma alteração do arquivo binário v15 foi realizada nesta nota.**
