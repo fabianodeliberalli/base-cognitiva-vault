@@ -71,3 +71,8 @@ A tríade orienta roteiros, slides, notas e materiais, mas não obriga recurso o
 [[Protocolo de Elaboração Curricular Viva e Continuidade Leve]]
 [[TSH - Percurso progressivo dos 8 encontros online - três regulações dantian Baduanjin e órbita]]
 [[TSH - Sensibilidade percepcao diferenciacao e liberdade - fundamentacao integrada]]
+
+
+## Candidata à abertura — pergunta autoral sobre padrões (10/11/2026)
+
+Fonte original do autor `padrões e ressonância.pdf` (2 pp.), desenvolvida em [[TSH - Ressonância estrutural singularidade eixo e integração espiritual - fundamentação autoral 2026-11-10]]. Propor **após os slides autobiográficos** uma tela ou pausa de 40–60 segundos com **“Como é você na sua vida sem seus padrões?”**. Condução: “Algumas formas de sentir e responder foram aprendidas para proteger e pertencer; outras nos ajudam. Quanto do que você vive como identidade foi uma maneira necessária de adaptação, e que possibilidades talvez tenham tido pouco espaço? Não somos literalmente pessoas sem história ou padrões.” Preservar pergunta de abertura da Masterclass “Por que você entende seus padrões, mas continua repetindo?”. Reativar a pergunta na Árvore e na tese do slide 28. **Este registro não equivale a alteração da v16 em PPTX.**
