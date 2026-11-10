@@ -114,3 +114,8 @@ Reapresentar a pergunta na síntese em arco: padrões aprendidos → experiênci
 - Gibson (2024), *Meditation and interoception: a conceptual framework for the narrative and experiential self*: https://pubmed.ncbi.nlm.nih.gov/39478794/
 - James, *The Varieties of Religious Experience*: https://www.gutenberg.org/cache/epub/621/pg621-images.html
 - Interlocuções com Wong/Winnicott/Fonagy, Laszlo e tradições taoístas podem ser ampliadas em notas individuais mediante fonte primária, preservando conceitos próprios.
+
+
+## Recurso prático de leitura dos campos — eixo, ressonância e unidade diferenciada (10/11/2026)
+
+Ver [[TSH - Eixo e ressonância não são opostos - tabela didática e maturidade espiritual 2026-11-10]] para tabela pronta de cinco pares. A cartografia de campos permite estudar participação e ressonância entre corpo, padrões, vínculos, experiência espiritual e ambiente sem pressupor que a pessoa perca singularidade. O **eixo** refere-se à capacidade de reconhecer influências e retornar às próprias referências em diferentes estados e relações; não é “centro” neuroanatômico nem conquista definitiva. **Maturidade espiritual não é fusão indiferenciada. É capacidade de experimentar unidade sem perder singularidade.** Conectar as duas perguntas do modelo — como experiência espiritual surge e como integra-se à vida — com discernimento, contexto, tempo e liberdade expressiva.
