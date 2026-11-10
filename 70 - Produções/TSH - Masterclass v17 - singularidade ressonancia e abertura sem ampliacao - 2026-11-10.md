@@ -42,3 +42,8 @@ O PPTX e o PDF foram efetivamente produzidos no ambiente da conversa e disponibi
 [[TSH - Ressonância estrutural singularidade eixo e integração espiritual - fundamentação autoral 2026-11-10]]
 [[TSH - Cartografia de Campos em Interação - base multidimensional e mapas de tradução 2026-11-10]]
 [[TSH - Masterclass v16 - ponte pedagogica e recuperacao da mensagem - 2026-11-09]]
+
+
+## Avaliação da imagem do Washington Post e reforço das notas (10/11/2026)
+
+A fonte candidata é Sarah Kaplan, *The Washington Post* (28/07/2015), sobre a sincronização em antífase dos relógios pendulares de Huygens apoiados sobre a mesma estrutura: https://www.washingtonpost.com/news/morning-mix/wp/2015/07/28/scientists-may-have-solved-a-mystery-thats-been-ticking-for-350-years/ . A analogia é compatível com o bloco já existente de pêndulos, mas **a apresentação v17 já dispõe dessa ilustração** e o exemplo de acoplamento físico exige deixar clara sua condição de metáfora, sem confundi-lo com sincronia neural ou espiritualidade. **Não acrescentar uma segunda imagem jornalística neste momento; imagem exata referida pelo autor não foi identificada ou licenciada.** Se houver substituição futura, preferir desenho original, sem reproduzir imagem protegida. Recuperar [[TSH - Eixo e ressonância não são opostos - tabela didática e maturidade espiritual 2026-11-10]] como fonte da **tabela de cinco pares**, principalmente M6; na Masterclass, uma fala de 30–45 s próximo do slide 26 é mais eficiente: “Conquistar eixo não é deixar de ressoar: é ampliar a capacidade de permanecer presente e diferenciado enquanto ressoamos”. Nenhuma mudança ao PPTX v17 foi realizada neste complemento.
