@@ -369,3 +369,23 @@ Acervo: [[TSH-escada-adaptacao-IA-scripz.png]], com fotografia original de [@scr
 ## Fonte Mantak Chia Cura Cósmica I — destino modular (09/11/2026)
 
 [[TSH - Mantak Chia Cura Cosmica I - fonte original e destinacao didatica]] relaciona o PDF integral de 250 páginas efetivamente preservado na Biblioteca pessoal a M3.5 (Qi, cultivo, reserva), M3.6 (dantian, Ren/Du, vasos extraordinários), M3.7 (Sorriso Interior, recursos), M4 (emocional sem reduzir afetos a “Qi negativo”), M5 (contemplação/espiritualidade), M6–M7 (movimento, integração e expressão), M8 (autonomia) e encontros online. Usar por pertinência. Discernir tradição e afirmação empírica: alegações de tratamento de doenças, água, DNA e imunidade do livro não constituem evidência clínica validada. Arquivo original **não comitado ao GitHub público**; ficha consultiva disponível aqui.
+
+
+## Destinação transversal — ressonância estrutural, pertencimento e eixo (10/11/2026)
+
+**Referência autoral transversal:** [[TSH - Ressonância estrutural singularidade eixo e integração espiritual - fundamentação autoral 2026-11-10]]. Fonte original `padrões e ressonância.pdf` (2 pp.) preservada na Biblioteca ChatGPT; diagramas enviados na conversa, não armazenados no GitHub. Seleção por **pertinência**, sem adicionar em toda aula:
+
+| Módulo / frente | O que investigar | Destino pedagógico |
+|---|---|---|
+| Masterclass | “Como é você na sua vida sem seus padrões?” | após autobiografia, pausa reflexiva curta; não substituir título da Masterclass, não exigir vida literalmente sem padrões |
+| M0–M1 | pessoa não esgotada por padrões; estado, sentimento e interpretação | introdução acessível ao eixo e à árvore |
+| M2 | aprendizagem relacional desde bebê, campo, pertencimento | ressonância estrutural + autorregulação/interação; Beebe/Tronick/Schore/Varela |
+| M3 | corpo vivido, sentido, ritmos, interocepção, campo, Qi | distinguir cartografias tradicionais e observação psicofisiológica |
+| M4 | vergonha, medo, limites, padrões protetivos que restringem busca de ajuda | condições para reconhecer e expressar sem culpabilizar |
+| M5 | unidade diferenciada; espiritualidade, Eu Essencial, discernimento | modelo neurobiológico-relacional como cartografia autoral em desenvolvimento |
+| M6 | sentir o outro dentro de nós, eixo e diferenciação, comunicação implícita | sentir não prova a origem; maior presença no encontro |
+| M7 | expressão da singularidade, proteção/casca e participação | cultivar limites e autenticidade em relação |
+| M8 | autonomia, continuidade e integração | cultivar sem tornar-se dependente do professor |
+| oito encontros | experiência interna, posição/movimento, campo e contemplação | eixo como referência dinâmica, sem prática obrigatória universal |
+
+Proteger a ontologia afirmativa da Essência no TSH e a distinção entre ela, self psicológico, redes e modelos tradicionais. Imagens históricas dos Três Eus são material de pesquisa, não estrutura curricular oficial por default.
