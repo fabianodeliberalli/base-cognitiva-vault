@@ -79,3 +79,9 @@ Acompanhar em um quadro único: visitantes de landing page, inscritos no evento,
 [[TSH - Mantak Chia Cura Cosmica I - fonte original e destinacao didatica]]
 [[TSH - Acervo primario verificado e recuperacao transversal - 2026-11-09]]
 [[TSH - Percurso progressivo dos 8 encontros online - três regulações dantian Baduanjin e órbita]]
+
+## ALERTA DE CONVERSÃO E CONFIANÇA — garantia anterior à entrega (09/11/2026)
+
+Segundo a documentação atual da Hotmart (https://suportehotmart.zendesk.com/hc/pt-br/articles/360038569752-Como-posso-cancelar-a-minha-compra), o período de reembolso pode ser de 7/15/21/30 dias **após o primeiro pagamento**. O TSH anuncia **7 dias** e liberação progressiva em **17/11/2026**. Comprador de **10/11** terá garantia que pode expirar em torno da data de liberação inicial; o primeiro encontro está previsto para 28/11. Isso é **risco de percepção de justiça da oferta**, não afirmação de irregularidade legal. Também a Hotmart informa que o período de acesso começa normalmente na aprovação do pagamento (https://suportehotmart.zendesk.com/hc/pt-br/articles/360038515132-Como-sei-quanto-tempo-tenho-para-acessar-meu-curso). Revisar em operação: (a) oferecer acesso imediato às aulas M0/M1 já prontas; ou (b) avaliar prazo de garantia maior, formalmente configurado e atualizado nos slides/páginas; e (c) informar início real dos 12 meses de acesso. Sem autorização do produtor, não alterar termos da venda. É prioridade superior a ajustes cosméticos dos slides.
+
+A Hotmart descreve parcelamento sem taxas para o comprador com ônus da taxa de parcelamento ao produtor (https://suportehotmart.zendesk.com/hc/pt-br/articles/216440337-Quais-tipos-e-formas-de-pagamento-eu-posso-escolher-para-meu-produto). Confirmar rentabilidade líquida após taxas, impostos, mídia, edição, suporte e 16 horas de encontro, sem usar faturamento bruto como lucro.
