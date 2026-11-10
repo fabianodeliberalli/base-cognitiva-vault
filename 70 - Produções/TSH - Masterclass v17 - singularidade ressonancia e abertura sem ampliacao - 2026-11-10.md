@@ -47,3 +47,15 @@ O PPTX e o PDF foram efetivamente produzidos no ambiente da conversa e disponibi
 ## Avaliação da imagem do Washington Post e reforço das notas (10/11/2026)
 
 A fonte candidata é Sarah Kaplan, *The Washington Post* (28/07/2015), sobre a sincronização em antífase dos relógios pendulares de Huygens apoiados sobre a mesma estrutura: https://www.washingtonpost.com/news/morning-mix/wp/2015/07/28/scientists-may-have-solved-a-mystery-thats-been-ticking-for-350-years/ . A analogia é compatível com o bloco já existente de pêndulos, mas **a apresentação v17 já dispõe dessa ilustração** e o exemplo de acoplamento físico exige deixar clara sua condição de metáfora, sem confundi-lo com sincronia neural ou espiritualidade. **Não acrescentar uma segunda imagem jornalística neste momento; imagem exata referida pelo autor não foi identificada ou licenciada.** Se houver substituição futura, preferir desenho original, sem reproduzir imagem protegida. Recuperar [[TSH - Eixo e ressonância não são opostos - tabela didática e maturidade espiritual 2026-11-10]] como fonte da **tabela de cinco pares**, principalmente M6; na Masterclass, uma fala de 30–45 s próximo do slide 26 é mais eficiente: “Conquistar eixo não é deixar de ressoar: é ampliar a capacidade de permanecer presente e diferenciado enquanto ressoamos”. Nenhuma mudança ao PPTX v17 foi realizada neste complemento.
+
+## Edição efetiva seguinte — v18, slide 26 (10/11/2026)
+
+Gerado o PPTX editável `Masterclass_TSH_V18_Fala_Eixo_Ressonancia_Slide26.pptx` a partir da v17, preservando **47 slides e a composição visual**. Foram modificadas **somente as notas do apresentador do slide 26**, substituindo o bloco anterior de ressonância pela fala:
+
+> Os pêndulos nos ajudaram a visualizar que sistemas podem influenciar-se mutuamente. Mas, no ser humano, essa relação envolve muito mais: corpo, história, sensibilidade, interpretação, vínculos e consciência.
+>
+> Desenvolver eixo não significa impedir essa influência. Significa cultivar condições para reconhecer o que acontece conosco e continuar participando com maior presença e diferenciação.
+>
+> Conquistar eixo não é deixar de ressoar.
+
+A nota orienta a retomar o exemplo da mensagem do slide 25, usar os conceitos projetados “Estado e movimento / Referência e participação”, evitar apresentar pêndulos como equivalência mecânica humana e conduzir ao Sorriso Interior do slide 27. Duração estimada do trecho: 35–45 segundos, com substituição de explicações redundantes. O arquivo PPTX foi gravado e reaberto com 47 slides e texto de notas conferido. **Binário disponibilizado no chat, não comitado ao GitHub**; branch de trabalho não integrada à main.
