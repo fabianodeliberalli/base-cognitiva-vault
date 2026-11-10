@@ -389,3 +389,12 @@ Acervo: [[TSH-escada-adaptacao-IA-scripz.png]], com fotografia original de [@scr
 | oito encontros | experiência interna, posição/movimento, campo e contemplação | eixo como referência dinâmica, sem prática obrigatória universal |
 
 Proteger a ontologia afirmativa da Essência no TSH e a distinção entre ela, self psicológico, redes e modelos tradicionais. Imagens históricas dos Três Eus são material de pesquisa, não estrutura curricular oficial por default.
+
+
+## Cartografia de Campos em Interação — destinação curricular aprovada como direção (10/11/2026)
+
+Consultar [[TSH - Cartografia de Campos em Interação - base multidimensional e mapas de tradução 2026-11-10]] durante a preparação das aulas pertinentes; **não aplicar tabela ou exercício idêntico a todas as aulas**. M0–M1: pessoa mais ampla que os padrões e pergunta autoral sobre expressão; M2: mãe–bebê, pertença, campo e construção participativa de sentido; M3: corpo, ritmos, dantians/3 regulações e Qigong/ambiente; M4: adaptação, vergonha, medo, padrões que restringem expressão e busca de ajuda; **M5: desenvolvimento aprofundado da cartografia de campos e modelo neurobiológico-relacional da espiritualidade**, duas perguntas de emergência/integração e unidade diferenciada; M6: ressonância estrutural, eixo e bússola como diferenciação em relação; M7: expressão de singularidade sem fusão, limites/casca e pertencimento; M8: autonomia e cultivo continuado. Nos oito encontros, integrar corpo/respiração/intenção, os três focos perceptivos e participação no campo sem exigir técnicas avançadas de todos.
+
+**Três dantians (tradução experiencial, não sinonímia com redes neurais)**: inferior → corpo/apoios/centro/vitalidade percebida; médio → afetos/relações/cuidado; superior → atenção/reflexão/imagens/contemplação. Eu Básico, Médio e Superior podem ser estudados como **mapa simbólico distinto** com paralelos funcionais, sem reintroduzi-los automaticamente como estrutura curricular oficial. **Céu–terra–homem**: cultivar não é apenas mudar estado interno; é orientar participação em relações, ambientes e condições.
+
+A pergunta “Como é você na sua vida sem seus padrões?” foi incorporada à tela 6 da **Masterclass v17** (não slide extra), que mantém gancho sobre repetição no slide 1. A pergunta deve retornar em M4 e síntese de M7, sem sugerir identidade literalmente desprovida de padrões.
