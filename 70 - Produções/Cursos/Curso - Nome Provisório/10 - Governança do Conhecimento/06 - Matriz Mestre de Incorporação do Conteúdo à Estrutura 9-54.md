@@ -10,6 +10,24 @@ autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
 
+## Destinação de máscara, armadura, castelos e Amor–Poder–Sabedoria — 11/11/2026
+
+Consultar [[70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/TSH - Máscara Armadura Castelos e Amor Poder Sabedoria - Destinação e Fontes]] antes de produzir as aulas abaixo.
+
+| Aula | Contribuição | Limite |
+|---|---|---|
+| M4.4 | armadura como proteção rigidificada; contraste com Casca viva | não demonizar defesa nem propor retirada total |
+| M4.6 | máscara como experimento/andaime; prática e feedback | não igualar repetição a prática deliberada |
+| M5.2 | Amor–Poder–Sabedoria como três perguntas de orientação | mapa autoral do TSH, não tríade de Jung |
+| M5.3 | relação não biunívoca com os Três Eus | nenhum mapeamento um-a-um |
+| M5.5 | castelos como narrativa de predominâncias; Vértice como integração provisória | não criar etapas universais |
+| M6.1/M6.3/M6.6 | configuração contextual; dilema máscara–armadura; resposta integrada possível | não exigir equilíbrio igual ou soberania final |
+| M7.3–M7.8 | escuta, posição, limite, efeitos, responsabilidade e reparação | Amor não é fusão; Poder não é dominação |
+| M8.1–M8.2 | síntese, sinais de rigidificação e continuidade | não prometer integração final |
+
+As imagens fornecidas permanecem fontes de bastidor; a mensagem de aluno está anonimizada e depende de autorização expressa para qualquer uso didático ou público.
+
+
 ## Auditoria do manuscrito de Fabiano — 07/11/2026
 
 Para recuperar o texto de origem, a avaliação do que já estava incorporado, os acréscimos por aula, a destinação aos entregáveis e as referências mantidas apenas como consulta: [[TSH - Auditoria do texto de reabertura da Masterclass - 07-11-2026]]. Começar por M1.3–M1.7, M2.1–M2.6, M3.2/M3.5–M3.7, M4.4/M4.6, M5.5–M5.8, M6.5, M7 e M8 conforme a pergunta da aula. Usar a tabela abaixo para o vínculo direto fonte–pergunta–ação.

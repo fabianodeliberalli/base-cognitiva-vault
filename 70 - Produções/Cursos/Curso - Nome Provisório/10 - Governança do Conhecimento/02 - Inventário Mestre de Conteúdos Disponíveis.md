@@ -9,6 +9,18 @@ criado_em: 2026-07-21
 atualizado_em: 2026-09-07
 relacionado_a: 01 - Reconciliação da Governança do Conhecimento e Disponibilidade do Acervo
 ---
+
+## R27 — Máscara, armadura, castelos e Amor–Poder–Sabedoria — 11/11/2026
+
+Recuperar somente quando a aula pedir proteção rigidificada, papel/andaime, orientação por vínculo–agência–discernimento, narrativa dos castelos ou correção do uso de prática deliberada.
+
+- [[70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/TSH - Máscara Armadura Castelos e Amor Poder Sabedoria - Destinação e Fontes|TSH — Máscara, armadura, castelos e Amor–Poder–Sabedoria]] — síntese ampla, formulações, destinos e limites.
+- [[40 - Metáforas/Máscara Manto Armadura e Casca Viva|Máscara, Manto, Armadura e Casca Viva]] — diferenciação operacional.
+- [[10 - Fontes/TSH - Fontes fornecidas sobre máscara armadura e Amor Poder Sabedoria - 2026-11-11|Fontes fornecidas em 11/11/2026]] — hashes, Library IDs, mensagem anonimizada e governança.
+- [[80 - Fontes Bibliográficas/Fisher, Robert - O Cavaleiro Preso na Armadura|Fisher]]; [[80 - Fontes Bibliográficas/Jung e IAAP - Individuação Eros poder Self e sabedoria - Dossiê de rigor|Jung e IAAP]]; [[80 - Fontes Bibliográficas/Ericsson, Krampe e Tesch-Römer - Prática deliberada|Ericsson et al.]].
+
+Leitura: M4.4 recebe armadura e Casca viva; M4.6, máscara como andaime; M5.2, as três perguntas; M5.5, castelos; M6–M8, integração, relação e continuidade. Não criar tipologia, nova arquitetura, atribuição indevida a Jung ou publicação de fonte privada.
+
 ## Retomadas e materiais registrados em 31/10/2026
 
 Antes de produzir a aula pertinente, consultar [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Governança do Conhecimento/TSH - Retomadas de escrita atenção e diferenciação nas 54 aulas]] e os itens correspondentes em [[70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/TSH - Escrita atenção e diferenciação - Referências e limites]]. A matriz utiliza o Raio X atualizado de 31/10; não altera a arquitetura. [[70 - Produções/Cursos/Curso - Nome Provisório/Práticas Candidatas/Práticas por Módulo - Consulta em criação e expansão]] está em plena criação e expansão: somente consulta contextual, sem governar as práticas. Aplicar [[70 - Produções/Cursos/Curso - Nome Provisório/20 - Identidade Visual/10 - Sistema Oficial v1.0/00 - Manual de Identidade Visual v1.0]] aos slides e entregáveis. Registrar o uso efetivo de cada fonte e sua limitação. M0.2 atual: [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 0/M0.2 - Roteiro e notas sincronizados v1.2]].

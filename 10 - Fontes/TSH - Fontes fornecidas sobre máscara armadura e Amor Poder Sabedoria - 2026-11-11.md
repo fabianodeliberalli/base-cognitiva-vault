@@ -1,0 +1,64 @@
+---
+tipo: registro-de-fontes-fornecidas
+projeto: Traduzindo o Ser Humano
+status: fonte-registrada-com-restricoes
+criado_em: 2026-11-11
+atualizado_em: 2026-11-11
+---
+
+# TSH — Fontes fornecidas sobre máscara, armadura e Amor–Poder–Sabedoria — 11/11/2026
+
+## Função
+
+Registrar procedência, integridade, rota de resgate e limites das fontes fornecidas por Fabiano durante a elaboração de [[TSH - Máscara Armadura Castelos e Amor Poder Sabedoria - Destinação e Fontes]].
+
+O repositório é público. Por isso, os arquivos originais e a identificação do aluno **não** foram copiados para o GitHub. Esta nota registra os localizadores e os critérios de uso.
+
+## Arquivos
+
+| Arquivo | SHA-256 | Tamanho / resolução | Library ID | Estatuto |
+|---|---|---|---|---|
+| `-o-cavaleiro-preso-na-armadura-2-pdf-free.pdf` | `d0b7015cff0b93649c3dbf1aaa019f206acb9254d58f6844eee64cc4b3895ad4` | 909.570 bytes; 62 páginas | `libfile_b2a699d1ad1081919017d3e3b55e170b` | exemplar externo; não redistribuir |
+| `Amor, poder, sabedoria 1jpeg.jpeg` | `05a128dd6c8853d3851d66533a7cc37e8dff4f6315c09108199f76bf27a5321b` | 192.081 bytes; 1280×853 | `libfile_6c241ed2ffa08191829ae2aa29d23688` | imagem fornecida; autoria/licença a confirmar |
+| `Amor, poder, sabedoria 2.jpeg` | `2a5c8b6dde6038b8a02b57a9bf44febc0b0db482a445c97d92828fa9e024104b` | 183.862 bytes; 1280×853 | `libfile_ddb698ccbe548191b5e525859d6ce8cb` | imagem fornecida; autoria/licença a confirmar |
+
+## Decisão de preservação
+
+- O PDF integral não será redistribuído pelo vault.
+- As imagens podem ser examinadas para criação de um desenho autoral novo, mas não publicadas nem incorporadas a slides/Instagram até confirmar autoria e licença.
+- O documento amplo incorpora as imagens somente para crítica interna, com legenda de procedência incerta.
+- A edição brasileira exata do livro precisa ser confirmada antes de citação editorial pública.
+
+## Mensagem privada do aluno — versão anonimizada
+
+Recebida por Fabiano em 11/11/2026. A assinatura foi suprimida. A reprodução abaixo serve à análise de bastidor e não autoriza uso público ou didático.
+
+> **Por que os heróis usam máscara?**
+>
+> Existe um equívoco comum de que a máscara serve apenas para esconder quem somos. Mas, na psicologia dos grandes arquétipos e na dinâmica do comportamento humano, ela cumpre um papel muito mais nobre: ela é a ponte entre o que somos hoje e quem precisamos nos tornar amanhã.
+>
+> Ninguém acorda com a bravura pronta para enfrentar o caos do mundo. O herói não veste o manto porque já é destemido; ele veste o manto exatamente porque a armadura o obriga a sustentar uma postura maior do que a sua vulnerabilidade momentânea. No início, parece um disfarce, um esforço consciente e desconfortável. Mas a repetição diária consolida o hábito, e o que era apenas um papel desempenhado com disciplina se funde à própria identidade.
+>
+> Enquanto os observadores acomodados chamam isso de encenação ou falsidade, os que trilham o caminho da alta performance e da superação entendem o verdadeiro nome disso: treinamento deliberado.
+>
+> Afinal, a máscara que você tem a coragem de sustentar nos dias difíceis é, inevitavelmente, a pele que o seu caráter vestirá no futuro.
+>
+> `[assinatura suprimida]`
+
+## Governança da mensagem
+
+- Fonte fenomenológica e intelectual privada; não é prova teórica.
+- Usar no bastidor para discutir a tensão entre andaime e armadura.
+- Não informar nome, vínculo ou outros dados do remetente.
+- Exigir autorização expressa antes de usar texto, paráfrase identificável ou história de origem em aula, Masterclass, material ou rede social.
+- Se autorizada, preservar a possibilidade de discordância e apresentar a leitura como diálogo, não correção pública do aluno.
+
+## Destino das fontes
+
+| Fonte | Destino |
+|---|---|
+| Livro de Fisher | M4.4 e M5.5 como fonte literária e simbólica; bastidor docente |
+| Imagem 1 | base conceitual para redesenho autoral; não projetar no estado atual |
+| Imagem 2 | referência de organização; evitar tipologia e rótulos |
+| Mensagem do aluno | M4.6/M6.3 como vinheta apenas após autorização |
+

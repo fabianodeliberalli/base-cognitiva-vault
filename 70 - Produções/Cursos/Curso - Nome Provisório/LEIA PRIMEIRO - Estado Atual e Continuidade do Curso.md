@@ -10,6 +10,13 @@ autor: Fabiano Deliberalli
 autoridade_de_decisao: Fabiano Deliberalli
 ---
 
+## Atualização de 11 de novembro de 2026 — máscara, armadura, castelos e Amor–Poder–Sabedoria
+
+A frente foi consolidada em [[70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/TSH - Máscara Armadura Castelos e Amor Poder Sabedoria - Destinação e Fontes]]. O material entra como lente auxiliar, sem criar nova arquitetura: armadura em M4.4; máscara/andaime em M4.6; Amor–Poder–Sabedoria em M5.2; castelos em M5.5; integração e aplicações em M6–M8.
+
+As fontes foram registradas com procedência e limites. O PDF do livro, os dois diagramas e a identificação do aluno não foram copiados para o repositório público. A mensagem está anonimizada e exige autorização antes de uso didático ou público.
+
+
 ## Atualização de 31 de outubro de 2026
 
 Os refinamentos aprovados da Live, as referências por aula e o calendário estão em [[TSH - Preparação dos Roteiros e Calendário 2026-2027]]. Usar o Raio X atualizado e [[Guia-de-Conducao-Masterclass-TSH-2026-10-31]]. Entrega atual: 54 aulas, oito encontros (16h), M0/M1 juntos. M0/M1 liberados em 17/11; último encontro em 30/01/2027. Datas de gravação continuam abertas. O registro operacional de 30/10 abaixo é histórico.
