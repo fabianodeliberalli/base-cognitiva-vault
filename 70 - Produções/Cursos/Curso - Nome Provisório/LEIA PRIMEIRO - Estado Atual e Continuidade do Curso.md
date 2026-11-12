@@ -12,7 +12,7 @@ autoridade_de_decisao: Fabiano Deliberalli
 
 ## Máscara, armadura, castelos e Amor–Poder–Sabedoria — 12 de novembro de 2026
 
-O conjunto elaborado nesta frente foi preservado em [[TSH - Máscara Armadura Castelos e Amor Poder Sabedoria - Destinação e Fontes]]. O documento amplo existe em Markdown pesquisável, DOCX editável e PDF; os cinco mapas estão em [[05 - Família de Mapas - Amor Poder Sabedoria Castelos e Integração]], com PNGs para uso direto e SVGs editáveis. Consultar por pertinência ao produzir M4.4, M4.6, M5.2, M5.5, M6.1, M6.3, M6.6, M7.4 e M8.2. O conjunto não altera a arquitetura 9×54 nem autoriza uso público das fontes privadas ou de autoria incerta.
+O conjunto elaborado nesta frente foi preservado em [[TSH - Máscara Armadura Castelos e Amor Poder Sabedoria - Destinação e Fontes]]. O documento amplo existe em [[TSH - Máscara Armadura Castelos e Amor Poder Sabedoria - Texto integral para consulta|texto integral pesquisável]], DOCX editável e PDF; os cinco mapas estão em [[05 - Família de Mapas - Amor Poder Sabedoria Castelos e Integração]], com PNGs para uso direto e SVGs editáveis. Consultar por pertinência ao produzir M4.4, M4.6, M5.2, M5.5, M6.1, M6.3, M6.6, M7.4 e M8.2. O conjunto não altera a arquitetura 9×54 nem autoriza uso público das fontes privadas ou de autoria incerta.
 
 ## Atualização de 31 de outubro de 2026
 

@@ -156,6 +156,8 @@ Na montagem de cada aula, registrar se o mapa é apresentado, praticado, retomad
 
 ## Documentos relacionados
 
+- [[TSH - Máscara Armadura Castelos e Amor Poder Sabedoria - Texto integral para consulta]] — conteúdo completo para busca e reaproveitamento.
+
 - [[TSH - Máscara Armadura Castelos e Amor Poder Sabedoria - Destinação e Fontes]] — governança conceitual e curricular.
 - [[TSH-Governanca-Mascara-Armadura-Castelos-Amor-Poder-Sabedoria.docx|documento amplo editável]].
 - [[TSH-Governanca-Mascara-Armadura-Castelos-Amor-Poder-Sabedoria.pdf|documento amplo para leitura]].

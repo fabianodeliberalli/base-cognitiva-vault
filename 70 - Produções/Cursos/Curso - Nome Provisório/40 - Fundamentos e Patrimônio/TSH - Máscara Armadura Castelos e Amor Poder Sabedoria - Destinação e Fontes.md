@@ -13,11 +13,11 @@ atualizado_em: 2026-11-12
 
 Preservar as construções elaboradas em 11/11/2026, explicitar seu destino na arquitetura vigente de **9 módulos e 54 aulas** e registrar as fontes e seus limites. Esta nota não cria nova arquitetura, não acrescenta aulas e não converte uma elaboração recente em teoria governante do curso.
 
-Documento amplo produzido na mesma frente: **Máscara, Armadura, Castelos e Amor · Poder · Sabedoria — Governança conceitual, destino curricular e registro de fontes**. Foram preservados no vault o [[TSH-Governanca-Mascara-Armadura-Castelos-Amor-Poder-Sabedoria.docx|arquivo editável]], a [[TSH-Governanca-Mascara-Armadura-Castelos-Amor-Poder-Sabedoria.pdf|versão para leitura]] e esta versão Markdown pesquisável.
+Documento amplo produzido na mesma frente: **Máscara, Armadura, Castelos e Amor · Poder · Sabedoria — Governança conceitual, destino curricular e registro de fontes**. Foram preservados no vault o [[TSH-Governanca-Mascara-Armadura-Castelos-Amor-Poder-Sabedoria.docx|arquivo editável]], a [[TSH-Governanca-Mascara-Armadura-Castelos-Amor-Poder-Sabedoria.pdf|versão para leitura]] e o [[TSH - Máscara Armadura Castelos e Amor Poder Sabedoria - Texto integral para consulta|texto integral pesquisável]]. Esta nota é a síntese de destinação e não substitui o documento amplo.
 
 Os cinco mapas derivados estão reunidos em [[05 - Família de Mapas - Amor Poder Sabedoria Castelos e Integração]], com PNGs para uso direto e SVGs editáveis.
 
-Integridade dos documentos públicos: DOCX `f5e8fefe9b4857c4f5fcd770fa94d2a38a327459872527b08a7b1a0a80671a09`; PDF `5e9e7e580592ed1b4db7f4aa5deb710cb60601ffc56fa898f6711695b953555e`. As duas imagens-fonte de autoria incerta foram retiradas dessas versões públicas; suas rotas e hashes permanecem no registro de fontes.
+Integridade dos documentos públicos: DOCX `49476db51585c240e02571d241ad59166e1b15c6f0663d6ad9ebf58debeea782`; PDF `d8e298d9187208ace8e126d46a44b510e46bf88d771a03a63dc9592362802e55`. As duas imagens-fonte de autoria incerta foram retiradas dessas versões públicas; suas rotas e hashes permanecem no registro de fontes.
 
 Fontes de origem: [[TSH - Fontes fornecidas sobre máscara armadura e Amor Poder Sabedoria - 2026-11-11]].
 
@@ -36,7 +36,7 @@ Fontes de origem: [[TSH - Fontes fornecidas sobre máscara armadura e Amor Poder
 
 ### Delimitação central
 
-Amor–Poder–Sabedoria entra como **lente auxiliar de orientação**, não como explicação total da personalidade, nova estrutura-mãe, tipologia ou tríade canônica junguiana. Os castelos funcionam como narrativa ilustrativa. A armadura complementa, sem substituir, a [[Semente, Casca, Campo e Árvore|Casca viva]].
+Amor–Poder–Sabedoria entra como **lente auxiliar de orientação**, não como explicação total da personalidade, nova estrutura-mãe, tipologia ou tríade canônica junguiana. Os castelos funcionam como narrativa ilustrativa. A armadura complementa, sem substituir, a [[11 - Semente, Casca, Campo e Árvore|Casca viva]].
 
 ## 1. Máscara, manto, armadura e Casca viva
 
@@ -190,7 +190,7 @@ O índice visual, as versões SVG e os critérios de uso estão em [[05 - Famíl
 
 ## 6. Mensagem do aluno — máscara e herói
 
-A fonte está preservada, sem identificação, em [[TSH - Fontes fornecidas sobre máscara armadura e Amor Poder Sabedoria - 2026-11-11]].
+A procedência e a síntese não literal estão registradas em [[TSH - Fontes fornecidas sobre máscara armadura e Amor Poder Sabedoria - 2026-11-11]].
 
 ### Contribuição
 
@@ -266,7 +266,7 @@ Usar apenas como vinheta anonimizada e dialética. Qualquer uso em aula gravada,
 - [[Fisher, Robert - O Cavaleiro Preso na Armadura]] — fonte literária; não redistribuir PDF.
 - [[Jung e IAAP - Individuação Eros poder Self e sabedoria - Dossiê de rigor]] — fundamentação e limites de atribuição.
 - [[Ericsson, Krampe e Tesch-Römer - Prática deliberada]] — correção do uso técnico da expressão.
-- [[TSH - Fontes fornecidas sobre máscara armadura e Amor Poder Sabedoria - 2026-11-11]] — diagramas, hashes, Library IDs e mensagem anonimizada.
+- [[TSH - Fontes fornecidas sobre máscara armadura e Amor Poder Sabedoria - 2026-11-11]] — diagramas, hashes, localizadores e registro da fonte privada, sem reprodução da mensagem.
 - [[06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54]] — destino curricular vigente.
 - [[02 - Inventário Mestre de Conteúdos Disponíveis]] — rota de recuperação.
 - [[Registro Mestre de Formulações Estruturantes]] — princípios transversais usados na avaliação.

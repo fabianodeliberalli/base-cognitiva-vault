@@ -30,21 +30,9 @@ O repositório é público. Por isso, os arquivos originais e a identificação 
 - O redesenho autoral resultante foi concluído e está em [[05 - Família de Mapas - Amor Poder Sabedoria Castelos e Integração]], com cinco PNGs e cinco SVGs.
 - A edição brasileira exata do livro precisa ser confirmada antes de citação editorial pública.
 
-## Mensagem privada do aluno — versão anonimizada
+## Mensagem privada — registro de procedência
 
-Recebida por Fabiano em 11/11/2026. A assinatura foi suprimida. A reprodução abaixo serve à análise de bastidor e não autoriza uso público ou didático.
-
-> **Por que os heróis usam máscara?**
->
-> Existe um equívoco comum de que a máscara serve apenas para esconder quem somos. Mas, na psicologia dos grandes arquétipos e na dinâmica do comportamento humano, ela cumpre um papel muito mais nobre: ela é a ponte entre o que somos hoje e quem precisamos nos tornar amanhã.
->
-> Ninguém acorda com a bravura pronta para enfrentar o caos do mundo. O herói não veste o manto porque já é destemido; ele veste o manto exatamente porque a armadura o obriga a sustentar uma postura maior do que a sua vulnerabilidade momentânea. No início, parece um disfarce, um esforço consciente e desconfortável. Mas a repetição diária consolida o hábito, e o que era apenas um papel desempenhado com disciplina se funde à própria identidade.
->
-> Enquanto os observadores acomodados chamam isso de encenação ou falsidade, os que trilham o caminho da alta performance e da superação entendem o verdadeiro nome disso: treinamento deliberado.
->
-> Afinal, a máscara que você tem a coragem de sustentar nos dias difíceis é, inevitavelmente, a pele que o seu caráter vestirá no futuro.
->
-> `[assinatura suprimida]`
+Texto recebido por Fabiano em 11/11/2026, mantido no registro privado de origem. Seu teor literal não integra esta versão pública. A contribuição conceitual aproveitável é a possibilidade de um papel funcionar como ensaio para uma capacidade, com exame dos limites entre aprendizagem e identificação rígida.
 
 ## Governança da mensagem
 
