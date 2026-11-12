@@ -10,9 +10,9 @@ autor: Fabiano Deliberalli
 autoridade_de_decisao: Fabiano Deliberalli
 ---
 
-## Máscara, armadura, castelos e Amor–Poder–Sabedoria — 12 de novembro de 2026
+## Máscara, armadura e potencialidades — 12/11/2026
 
-O conjunto elaborado nesta frente foi preservado em [[TSH - Máscara Armadura Castelos e Amor Poder Sabedoria - Destinação e Fontes]]. O documento amplo existe em [[TSH - Máscara Armadura Castelos e Amor Poder Sabedoria - Texto integral para consulta|texto integral pesquisável]], DOCX editável e PDF; os cinco mapas estão em [[05 - Família de Mapas - Amor Poder Sabedoria Castelos e Integração]], com PNGs para uso direto e SVGs editáveis. Consultar por pertinência ao produzir M4.4, M4.6, M5.2, M5.5, M6.1, M6.3, M6.6, M7.4 e M8.2. O conjunto não altera a arquitetura 9×54 nem autoriza uso público das fontes privadas ou de autoria incerta.
+Consultar [[TSH - Máscara Armadura Castelos e Amor Poder Sabedoria - Destinação e Fontes]]: documento integral, fontes, cinco mapas PNG/SVG e destinos em M4–M8.
 
 ## Atualização de 31 de outubro de 2026
 
@@ -107,7 +107,7 @@ Não existe lista fixa de documentos para toda retomada.
 | Recuperar conteúdo inicial | [[05 - Nota-Ponte - Desenvolvimento do Conteúdo 7-14 e Entrega 9-54]], [[06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54]] e busca temática |
 | Identidade, espiritualidade e limites | [[00 - Dossiê de Contexto e Arquitetura Mestre]] e [[05 - Diretriz Transversal - Espiritualidade Explícita, Singularidade Autoral e Não Neutralização]] |
 | Formulação pedagógica | artefato da aula, [[Registro Mestre de Formulações Estruturantes]] e fundamentos pertinentes |
-| Máscara, armadura, castelos e Amor–Poder–Sabedoria | [[TSH - Máscara Armadura Castelos e Amor Poder Sabedoria - Destinação e Fontes]]; para os visuais, [[05 - Família de Mapas - Amor Poder Sabedoria Castelos e Integração]] |
+| Máscara, armadura e mapas | [[TSH - Máscara Armadura Castelos e Amor Poder Sabedoria - Destinação e Fontes]] |
 | Masterclass | [[Guia-de-Conducao-Masterclass - Estado e Continuidade]] e a versão de trabalho indicada nele |
 | Identidade visual | [[00 - Índice da Identidade Visual]] e somente os ativos necessários |
 | Conteúdo possivelmente existente | [[02 - Inventário Mestre de Conteúdos Disponíveis]] e busca no repositório |
