@@ -34,7 +34,7 @@ O conjunto não cria nova arquitetura, aula, tipologia ou teoria total da person
 
 ## 1 — Três potencialidades em relação
 
-![[20 - Sistema Visual/30 - Amor Poder Sabedoria e Castelos/01 - Mapa - Três Potencialidades em Relação.png]]
+![[70 - Produções/Cursos/Curso - Nome Provisório/60 - Arquitetura Pedagógica/10 - Mapas Transversais/20 - Sistema Visual/30 - Amor Poder Sabedoria e Castelos/01 - Mapa - Três Potencialidades em Relação.png]]
 
 - **Amor — vínculo e reconhecimento:** o que importa aqui e quem precisa ser considerado?
 - **Poder — capacidade de agir e colocar limites:** o que posso fazer, sustentar ou interromper?
@@ -43,12 +43,12 @@ O conjunto não cria nova arquitetura, aula, tipologia ou teoria total da person
 
 Arquivos:
 
-- [[20 - Sistema Visual/30 - Amor Poder Sabedoria e Castelos/01 - Mapa - Três Potencialidades em Relação.png|PNG para uso direto]]
-- [[20 - Sistema Visual/30 - Amor Poder Sabedoria e Castelos/01 - Gráfico Mestre - Três Potencialidades em Relação.svg|SVG editável]]
+- [[70 - Produções/Cursos/Curso - Nome Provisório/60 - Arquitetura Pedagógica/10 - Mapas Transversais/20 - Sistema Visual/30 - Amor Poder Sabedoria e Castelos/01 - Mapa - Três Potencialidades em Relação.png|PNG para uso direto]]
+- [[70 - Produções/Cursos/Curso - Nome Provisório/60 - Arquitetura Pedagógica/10 - Mapas Transversais/20 - Sistema Visual/30 - Amor Poder Sabedoria e Castelos/01 - Gráfico Mestre - Três Potencialidades em Relação.svg|SVG editável]]
 
 ## 2 — Quando duas potencialidades cooperam
 
-![[20 - Sistema Visual/30 - Amor Poder Sabedoria e Castelos/02 - Mapa - Quando Duas Potencialidades Cooperam.png]]
+![[70 - Produções/Cursos/Curso - Nome Provisório/60 - Arquitetura Pedagógica/10 - Mapas Transversais/20 - Sistema Visual/30 - Amor Poder Sabedoria e Castelos/02 - Mapa - Quando Duas Potencialidades Cooperam.png]]
 
 | Cooperação | Potencial construtivo | O que a terceira pode acrescentar |
 |---|---|---|
@@ -58,12 +58,12 @@ Arquivos:
 
 Arquivos:
 
-- [[20 - Sistema Visual/30 - Amor Poder Sabedoria e Castelos/02 - Mapa - Quando Duas Potencialidades Cooperam.png|PNG para uso direto]]
-- [[20 - Sistema Visual/30 - Amor Poder Sabedoria e Castelos/02 - Gráfico Mestre - Quando Duas Potencialidades Cooperam.svg|SVG editável]]
+- [[70 - Produções/Cursos/Curso - Nome Provisório/60 - Arquitetura Pedagógica/10 - Mapas Transversais/20 - Sistema Visual/30 - Amor Poder Sabedoria e Castelos/02 - Mapa - Quando Duas Potencialidades Cooperam.png|PNG para uso direto]]
+- [[70 - Produções/Cursos/Curso - Nome Provisório/60 - Arquitetura Pedagógica/10 - Mapas Transversais/20 - Sistema Visual/30 - Amor Poder Sabedoria e Castelos/02 - Gráfico Mestre - Quando Duas Potencialidades Cooperam.svg|SVG editável]]
 
 ## 3 — Quando uma potencialidade se desconecta
 
-![[20 - Sistema Visual/30 - Amor Poder Sabedoria e Castelos/03 - Mapa - Quando Uma Potencialidade se Desconecta.png]]
+![[70 - Produções/Cursos/Curso - Nome Provisório/60 - Arquitetura Pedagógica/10 - Mapas Transversais/20 - Sistema Visual/30 - Amor Poder Sabedoria e Castelos/03 - Mapa - Quando Uma Potencialidade se Desconecta.png]]
 
 O mapa distingue duas possibilidades: uma potencialidade pode ocupar espaço demais ou ficar pouco acessível. Não são defeitos nem identidades; são modos de responder que podem ser percebidos, diferenciados e ajustados.
 
@@ -75,12 +75,12 @@ Perguntas de retorno:
 
 Arquivos:
 
-- [[20 - Sistema Visual/30 - Amor Poder Sabedoria e Castelos/03 - Mapa - Quando Uma Potencialidade se Desconecta.png|PNG para uso direto]]
-- [[20 - Sistema Visual/30 - Amor Poder Sabedoria e Castelos/03 - Gráfico Mestre - Quando Uma Potencialidade se Desconecta.svg|SVG editável]]
+- [[70 - Produções/Cursos/Curso - Nome Provisório/60 - Arquitetura Pedagógica/10 - Mapas Transversais/20 - Sistema Visual/30 - Amor Poder Sabedoria e Castelos/03 - Mapa - Quando Uma Potencialidade se Desconecta.png|PNG para uso direto]]
+- [[70 - Produções/Cursos/Curso - Nome Provisório/60 - Arquitetura Pedagógica/10 - Mapas Transversais/20 - Sistema Visual/30 - Amor Poder Sabedoria e Castelos/03 - Gráfico Mestre - Quando Uma Potencialidade se Desconecta.svg|SVG editável]]
 
 ## 4 — Três castelos, três portas
 
-![[20 - Sistema Visual/30 - Amor Poder Sabedoria e Castelos/04 - Mapa - Três Castelos, Três Portas.png]]
+![[70 - Produções/Cursos/Curso - Nome Provisório/60 - Arquitetura Pedagógica/10 - Mapas Transversais/20 - Sistema Visual/30 - Amor Poder Sabedoria e Castelos/04 - Mapa - Três Castelos, Três Portas.png]]
 
 | Castelo | Porta didática | Movimento | Contribuição das outras potencialidades |
 |---|---|---|---|
@@ -92,12 +92,12 @@ O **Vértice da Verdade** é ponto temporário de integração, não quarta pote
 
 Arquivos:
 
-- [[20 - Sistema Visual/30 - Amor Poder Sabedoria e Castelos/04 - Mapa - Três Castelos, Três Portas.png|PNG para uso direto]]
-- [[20 - Sistema Visual/30 - Amor Poder Sabedoria e Castelos/04 - Gráfico Mestre - Três Castelos, Três Portas.svg|SVG editável]]
+- [[70 - Produções/Cursos/Curso - Nome Provisório/60 - Arquitetura Pedagógica/10 - Mapas Transversais/20 - Sistema Visual/30 - Amor Poder Sabedoria e Castelos/04 - Mapa - Três Castelos, Três Portas.png|PNG para uso direto]]
+- [[70 - Produções/Cursos/Curso - Nome Provisório/60 - Arquitetura Pedagógica/10 - Mapas Transversais/20 - Sistema Visual/30 - Amor Poder Sabedoria e Castelos/04 - Gráfico Mestre - Três Castelos, Três Portas.svg|SVG editável]]
 
 ## 5 — Integração dinâmica
 
-![[20 - Sistema Visual/30 - Amor Poder Sabedoria e Castelos/05 - Mapa - Integração Dinâmica.png]]
+![[70 - Produções/Cursos/Curso - Nome Provisório/60 - Arquitetura Pedagógica/10 - Mapas Transversais/20 - Sistema Visual/30 - Amor Poder Sabedoria e Castelos/05 - Mapa - Integração Dinâmica.png]]
 
 O ciclo visual organiza:
 
@@ -111,8 +111,8 @@ Integração não significa tornar as três potencialidades iguais. As proporç�
 
 Arquivos:
 
-- [[20 - Sistema Visual/30 - Amor Poder Sabedoria e Castelos/05 - Mapa - Integração Dinâmica.png|PNG para uso direto]]
-- [[20 - Sistema Visual/30 - Amor Poder Sabedoria e Castelos/05 - Gráfico Mestre - Integração Dinâmica.svg|SVG editável]]
+- [[70 - Produções/Cursos/Curso - Nome Provisório/60 - Arquitetura Pedagógica/10 - Mapas Transversais/20 - Sistema Visual/30 - Amor Poder Sabedoria e Castelos/05 - Mapa - Integração Dinâmica.png|PNG para uso direto]]
+- [[70 - Produções/Cursos/Curso - Nome Provisório/60 - Arquitetura Pedagógica/10 - Mapas Transversais/20 - Sistema Visual/30 - Amor Poder Sabedoria e Castelos/05 - Gráfico Mestre - Integração Dinâmica.svg|SVG editável]]
 
 ## Regras de linguagem e uso
 

@@ -180,11 +180,11 @@ Os dois diagramas são fontes visuais de trabalho, não materiais prontos. A pri
 
 ### Sequência visual produzida
 
-1. [[20 - Sistema Visual/30 - Amor Poder Sabedoria e Castelos/01 - Mapa - Três Potencialidades em Relação.png|Três potencialidades em relação]].
-2. [[20 - Sistema Visual/30 - Amor Poder Sabedoria e Castelos/02 - Mapa - Quando Duas Potencialidades Cooperam.png|Quando duas potencialidades cooperam]].
-3. [[20 - Sistema Visual/30 - Amor Poder Sabedoria e Castelos/03 - Mapa - Quando Uma Potencialidade se Desconecta.png|Quando uma potencialidade se desconecta]].
-4. [[20 - Sistema Visual/30 - Amor Poder Sabedoria e Castelos/04 - Mapa - Três Castelos, Três Portas.png|Três castelos, três portas]].
-5. [[20 - Sistema Visual/30 - Amor Poder Sabedoria e Castelos/05 - Mapa - Integração Dinâmica.png|Integração dinâmica]].
+1. [[70 - Produções/Cursos/Curso - Nome Provisório/60 - Arquitetura Pedagógica/10 - Mapas Transversais/20 - Sistema Visual/30 - Amor Poder Sabedoria e Castelos/01 - Mapa - Três Potencialidades em Relação.png|Três potencialidades em relação]].
+2. [[70 - Produções/Cursos/Curso - Nome Provisório/60 - Arquitetura Pedagógica/10 - Mapas Transversais/20 - Sistema Visual/30 - Amor Poder Sabedoria e Castelos/02 - Mapa - Quando Duas Potencialidades Cooperam.png|Quando duas potencialidades cooperam]].
+3. [[70 - Produções/Cursos/Curso - Nome Provisório/60 - Arquitetura Pedagógica/10 - Mapas Transversais/20 - Sistema Visual/30 - Amor Poder Sabedoria e Castelos/03 - Mapa - Quando Uma Potencialidade se Desconecta.png|Quando uma potencialidade se desconecta]].
+4. [[70 - Produções/Cursos/Curso - Nome Provisório/60 - Arquitetura Pedagógica/10 - Mapas Transversais/20 - Sistema Visual/30 - Amor Poder Sabedoria e Castelos/04 - Mapa - Três Castelos, Três Portas.png|Três castelos, três portas]].
+5. [[70 - Produções/Cursos/Curso - Nome Provisório/60 - Arquitetura Pedagógica/10 - Mapas Transversais/20 - Sistema Visual/30 - Amor Poder Sabedoria e Castelos/05 - Mapa - Integração Dinâmica.png|Integração dinâmica]].
 
 O índice visual, as versões SVG e os critérios de uso estão em [[05 - Família de Mapas - Amor Poder Sabedoria Castelos e Integração]].
 
