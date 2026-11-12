@@ -240,3 +240,7 @@ Roteiro atual: [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Mód
 Cameron, Julia. O caminho do artista. Tradução de Leila Couceiro. Sextante, 2017. Leitura dirigida do PDF fornecido, pp. 45–65: páginas matinais e encontro com o artista. Rubin, Rick, com Neil Strauss. The Creative Act: A Way of Being. Penguin Press, 2023. Leitura dirigida do anexo em tradução automática: pp. 50–52, 92–94, 215–216 e 232–234; espiritualidade e discernimento, pp. 25–29. Paginação dos PDFs, não das edições impressas. Fontes de reflexão criativa, não evidência de eficácia clínica ou de mecanismos neurais. Gendlin permanece como fundamentação específica da elaboração experiencial.
 
 Contribuições, adaptações, limites e destinos aprovados: [[70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/TSH - Escrita livre criatividade e discernimento - Cameron e Rubin]]
+
+## Alinhamento dos materiais M0 — 01/11/2026
+
+Recuperar [[M0 - Alinhamento e continuidade dos materiais]] antes de produzir ou revisar aulas desta frente. M0.1 v1.1, M0.2 v1.4 e M0.3 v1.2: falas, apresentações/notas, cadernos e entregáveis sincronizados com os refinamentos das integrações 31–33. Ainda não gravados. O registro reúne arquivos, fontes efetivamente consultadas, limites, encaminhamentos para M1–M8 e pendência de captura da Hotmart. Preservar reconhecimento, acesso, condições, cultivo e expressão; mapas tradicionais e espirituais contribuem em seus próprios termos. Nenhum novo mapa é obrigatório no M0.

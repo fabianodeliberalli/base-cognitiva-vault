@@ -413,3 +413,7 @@ Em cada aula, avaliar a pertinência de entregáveis e produzir os materiais esc
 M0.3 aplica o padrão: dez slides, roteiro e notas v1.1 e Plano pessoal de participação em Word/PDF. A utilidade do entregável é transformar condições de participação em um plano breve, pessoal e revisável, sem exigir entrega ou exposição.
 
 Consultar [[M0.3 - Roteiro e notas sincronizados v1.1]] e [[M0.3 - Plano pessoal de participação - Entregável]].
+
+## Alinhamento dos materiais M0 — 01/11/2026
+
+Recuperar [[M0 - Alinhamento e continuidade dos materiais]] antes de produzir ou revisar aulas desta frente. M0.1 v1.1, M0.2 v1.4 e M0.3 v1.2: falas, apresentações/notas, cadernos e entregáveis sincronizados com os refinamentos das integrações 31–33. Ainda não gravados. O registro reúne arquivos, fontes efetivamente consultadas, limites, encaminhamentos para M1–M8 e pendência de captura da Hotmart. Preservar reconhecimento, acesso, condições, cultivo e expressão; mapas tradicionais e espirituais contribuem em seus próprios termos. Nenhum novo mapa é obrigatório no M0.
