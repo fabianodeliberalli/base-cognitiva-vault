@@ -10,6 +10,11 @@ preparacao_de_gravacoes: autorizada
 status_audiovisual: arquivos-finais-e-ensaio-pendentes
 ---
 
+## Revisão para ensaio — 07/11/2026
+
+Consultar [[M1 - Revisão para ensaio após a Masterclass - 07-11-2026]] para o pacote das sete aulas, os fundamentos aplicados, versões de origem e pontos de revisão. O ensaio deve partir das notas dos PPTX revistos. O pacote reúne cópias de trabalho; os arquivos padronizados anteriores continuam identificáveis.
+
+
 ## Recuperação — Centro, Essência, Self e expressão — 02/11/2026
 
 Por solicitação de Fabiano, [[Self, Essência, Alma, Eu Superior e Fontes Integrais]] recebeu atualização de trabalho com relações afirmativas, diferenças conceituais, fontes primárias, destinos em M1–M8 e recursos práticos. Ler a atualização de novembro antes do histórico de julho: Essência tem a definição espiritual ampliada do Léxico; eixo é recurso didático, sem restaurar Método EIXO.
