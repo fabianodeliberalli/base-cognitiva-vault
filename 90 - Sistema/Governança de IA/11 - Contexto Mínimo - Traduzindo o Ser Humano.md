@@ -2,9 +2,15 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.13"
-atualizado_em: 2026-11-07
+versao: "0.14"
+atualizado_em: 2026-11-12
 ---
+
+## Máscara, armadura, castelos e Amor–Poder–Sabedoria — 12/11/2026
+
+Ao produzir **M4.4, M4.6, M5.2, M5.5, M6.1, M6.3, M6.6, M7.4 ou M8.2**, consultar [[TSH - Máscara Armadura Castelos e Amor Poder Sabedoria - Destinação e Fontes]]. Para a montagem visual de **M5.2, M5.5 e M6.1**, abrir também [[05 - Família de Mapas - Amor Poder Sabedoria Castelos e Integração]], que reúne os cinco mapas em PNG e SVG, a sequência progressiva e as regras de linguagem.
+
+Amor–Poder–Sabedoria é mapa autoral auxiliar de orientação, não nova arquitetura, tipologia ou tríade de Jung. Poder deve ser apresentado ao aluno como **capacidade de agir e colocar limites**. Os castelos são portas narrativas por predominância funcional, e a integração é proporcional ao contexto e revisável. As imagens-fonte externas e a mensagem privada do aluno permanecem sob as restrições registradas; não usar publicamente sem direitos ou autorização.
 
 ## Auditoria da reabertura — 07/11/2026
 
