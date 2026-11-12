@@ -3,12 +3,16 @@ tipo: porta-de-entrada-de-contexto
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: referencia-atual-revisavel
-versao: "4.0"
+versao: "4.1"
 criado_em: 2026-07-21
-atualizado_em: 2026-10-31
+atualizado_em: 2026-11-12
 autor: Fabiano Deliberalli
 autoridade_de_decisao: Fabiano Deliberalli
 ---
+
+## Máscara, armadura e potencialidades — 12/11/2026
+
+Consultar [[TSH - Máscara Armadura Castelos e Amor Poder Sabedoria - Destinação e Fontes]]: documento integral, fontes, cinco mapas PNG/SVG e destinos em M4–M8.
 
 ## Atualização de 31 de outubro de 2026
 
@@ -103,6 +107,7 @@ Não existe lista fixa de documentos para toda retomada.
 | Recuperar conteúdo inicial | [[05 - Nota-Ponte - Desenvolvimento do Conteúdo 7-14 e Entrega 9-54]], [[06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54]] e busca temática |
 | Identidade, espiritualidade e limites | [[00 - Dossiê de Contexto e Arquitetura Mestre]] e [[05 - Diretriz Transversal - Espiritualidade Explícita, Singularidade Autoral e Não Neutralização]] |
 | Formulação pedagógica | artefato da aula, [[Registro Mestre de Formulações Estruturantes]] e fundamentos pertinentes |
+| Máscara, armadura e mapas | [[TSH - Máscara Armadura Castelos e Amor Poder Sabedoria - Destinação e Fontes]] |
 | Masterclass | [[Guia-de-Conducao-Masterclass - Estado e Continuidade]] e a versão de trabalho indicada nele |
 | Identidade visual | [[00 - Índice da Identidade Visual]] e somente os ativos necessários |
 | Conteúdo possivelmente existente | [[02 - Inventário Mestre de Conteúdos Disponíveis]] e busca no repositório |

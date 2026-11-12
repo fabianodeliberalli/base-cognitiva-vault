@@ -4,6 +4,7 @@ projeto: Traduzindo o Ser Humano
 origem: Unidade 0.2
 status: incorporado-para-continuidade-curricular
 data: 2026-07-29
+atualizado_em: 2026-11-12
 autor: Fabiano Deliberalli
 tags:
   - mapas-transversais
@@ -51,6 +52,7 @@ A Essência não desaparece quando o estado muda. O contato consciente com ela e
 2. [[02 - Mapa Mestre - Pêndulo, Espiral e Percurso]]
 3. [[03 - Mapa Mestre - Desenvolvimento do Retorno]]
 4. [[04 - Mapa Mestre - Três Perspectivas do Equilíbrio Dinâmico]]
+5. [[05 - Família de Mapas - Amor Poder Sabedoria Castelos e Integração]]
 
 ## Função de cada mapa
 
@@ -60,10 +62,11 @@ A Essência não desaparece quando o estado muda. O contato consciente com ela e
 | Pêndulo, Espiral e Percurso | Como distinguir oscilação atual de desenvolvimento longitudinal? | Unidade 0.2 | regulação, fortalecimento do eixo, integração e continuidade |
 | Desenvolvimento do Retorno | O que muda concretamente com o treino? | introdução breve na 0.2 | auto-observação formativa ao longo das seis fases |
 | Três Perspectivas do Equilíbrio Dinâmico | Como diferentes tradições descrevem movimento, desequilíbrio e reorganização? | síntese simples na 0.2 ou nota do educador | MTC/Qi Gong, regulação autonômica, aprendizagem e integração |
+| Amor, Poder, Sabedoria, Castelos e Integração | O que importa, o que posso fazer e o que compreendo — e como revisar pelos efeitos? | M5.2 | M5.5, M6.1 e aplicações M6–M8 |
 
 ## Distribuição atual nas 54 aulas
 
-Árvore: M1, M4, M5 e M7. Pêndulo: M1.7, M3 e M4, com estado, movimento, referência e participação. Espiral: introdução em M1.7, aprofundamento em M6.5 e M8, incluindo impasses. Circulação: M3 e M6. Árvore e Cosmos: M5.5 a M5.8, expressão e continuidade. Cinco Janelas e Três Eus conservam suas funções próprias.
+Árvore: M1, M4, M5 e M7. Pêndulo: M1.7, M3 e M4, com estado, movimento, referência e participação. Espiral: introdução em M1.7, aprofundamento em M6.5 e M8, incluindo impasses. Circulação: M3 e M6. Árvore e Cosmos: M5.5 a M5.8, expressão e continuidade. Cinco Janelas e Três Eus conservam suas funções próprias. A família Amor–Poder–Sabedoria entra em M5.2, usa os castelos em M5.5 e apresenta integração dinâmica em M6.1, com aplicações posteriores sem se tornar tipologia ou nova arquitetura.
 
 O exemplo fictício ou cedo ou rompo retorna com perguntas novas, alternado com experiências de criação e cultivo. Plano detalhado: [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo]]. A atualização é textual; os gráficos serão adaptados na produção visual das aulas.
 
@@ -111,6 +114,7 @@ A complexidade do bastidor sustenta uma fala simples e suficientemente precisa; 
 | Cinco Janelas | amplia perspectivas para ler a experiência sem transformar uma janela em verdade total |
 | Do Sentir à Orientação | organiza a passagem entre experiência percebida, diferenciação e resposta |
 | Família Oscilação–Retorno | localiza variação de acesso, percurso, desenvolvimento e equilíbrio dinâmico |
+| Família Amor–Poder–Sabedoria | orienta perguntas, cooperação, desconexão, narrativa dos castelos e revisão pelos efeitos |
 
 ## Checklist para a construção futura de cada aula
 
@@ -141,6 +145,7 @@ A complexidade do bastidor sustenta uma fala simples e suficientemente precisa; 
 - Versões simples para slides: definidas em cada nota.
 - Aprofundamentos teóricos: destinados longitudinalmente.
 - Sistema visual e quatro gráficos vetoriais-mestre: produzidos para validação visual.
+- Família Amor–Poder–Sabedoria: cinco PNGs e cinco SVGs produzidos e registrados como referência visual atual e revisável.
 - Derivações específicas para slides e fichas: realizar na produção da Unidade 0.2 a partir dos mestres, sem redesenhar o conteúdo do zero.
 
 
@@ -153,5 +158,6 @@ A família gráfica vetorial e suas regras de reutilização estão registradas 
 - [[20 - Sistema Visual/02 - Gráfico Mestre - Pêndulo, Espiral e Percurso.svg]]
 - [[20 - Sistema Visual/03 - Gráfico Mestre - Desenvolvimento do Retorno.svg]]
 - [[20 - Sistema Visual/04 - Gráfico Mestre - Três Perspectivas do Equilíbrio Dinâmico.svg]]
+- [[05 - Família de Mapas - Amor Poder Sabedoria Castelos e Integração]]
 
 Os gráficos derivam destas notas conceituais e não as substituem. A forma visual pode ser refinada; alterações de conteúdo exigem atualização explícita da nota-mestre correspondente.

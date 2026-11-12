@@ -225,6 +225,8 @@ Reutilizar o que já existe e verificar o que aparecerá na tela ou será entreg
 Procurar: Ficha de cada mapa, destino do original e versão; ficha breve; exemplos; guia por verbetes.
 
 - [[80 - Mapas Conceituais/00 - Índice dos Mapas Conceituais|00 - Índice dos Mapas Conceituais]] — texto recuperado; consultar passagem pertinente.
+- [[70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/TSH - Máscara Armadura Castelos e Amor Poder Sabedoria - Destinação e Fontes|TSH - Máscara, Armadura, Castelos e Amor–Poder–Sabedoria]] — governança pesquisável, fontes, limites e destino curricular; consultar em M4.4, M4.6, M5.2, M5.5, M6.1, M6.3, M6.6, M7.4 e M8.2.
+- [[70 - Produções/Cursos/Curso - Nome Provisório/60 - Arquitetura Pedagógica/10 - Mapas Transversais/05 - Família de Mapas - Amor Poder Sabedoria Castelos e Integração|05 - Família de Mapas - Amor, Poder, Sabedoria, Castelos e Integração]] — cinco PNGs, cinco SVGs, sequência e regras de uso para M5.2, M5.5 e M6.1.
 - [[70 - Produções/Cursos/Curso - Nome Provisório/07 - Ficha - Cartografia Multidimensional Inicial da Experiência|07 - Ficha - Cartografia Multidimensional Inicial da Experiência]] — texto recuperado; consultar passagem pertinente.
 - [[70 - Produções/Cursos/Curso - Nome Provisório/08 - Banco de Exemplos Didáticos da Cartografia Multidimensional|08 - Banco de Exemplos Didáticos da Cartografia Multidimensional]] — texto recuperado; consultar passagem pertinente.
 
