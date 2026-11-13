@@ -59,7 +59,7 @@ Perguntas de aplicação: como meus apoios e posição participam do vivido? O q
 
 Para preparação docente: não converter formulações amplas de divulgação — corpo sempre antecipar consciência, interromper emoções ou melhorar decisões por consciência corporal — em regras universais. Alegações específicas pedem consulta aos estudos originais. Uma formulação adequada: perceber mudanças corporais pode ampliar os elementos disponíveis para compreender e participar da situação.
 
-Zelano et al. (2016), citado no livro, investigou respiração nasal, oscilações neurais e desempenho em tarefas específicas. Pode fundamentar M3, sem inferir eficácia de toda prática respiratória ou do Qi Gong a partir desse estudo. Herrero et al. (2018), também citado, é rota adicional sobre controle voluntário e atenção à respiração; original ainda não examinado nesta etapa.
+Zelano et al. (2016), citado no livro, investigou respiração nasal, oscilações neurais e desempenho em tarefas específicas. Pode fundamentar M3, sem inferir eficácia de toda prática respiratória ou do Qi Gong a partir desse estudo. Herrero et al. (2018), também citado, foi aprofundado na revisão de 13/11/2026: resumo, método e resultados recuperados do periódico sobre controle voluntário e atenção à respiração. A distinção entre observar e modificar o respirar foi incorporada em P2 e M3.2. Ver [[04 - Caderno de Fundamentação - Cultivo Meditação Prana e Circulação]], seção 10.
 
 ## 5. Continuidade com o patrimônio autoral
 
@@ -108,7 +108,7 @@ Leitura dirigida, não integral dos livros:
 - Marchitelli, R. Francisco Varela’s view on phenomenology in his cognitive interpretation. Dialogues in Philosophy, Mental and Neuro Sciences, 3(2), 42–44, 2010. [Anexo secundário](https://chatgpt.com/library?file_id=libfile_fbaf3bfbfab88191bb7ffe3f1e07c686&account_id=personal).
 - Castellanos, N. Neurociencia del cuerpo: cómo el organismo esculpe el cerebro. Kairós, 2022. Abertura; Incorporar el cuerpo; trechos de La respiración e bibliografia. Usar capítulos para resgate: PDF digital com paginação distinta da edição impressa. [PDF fornecido](https://chatgpt.com/library?file_id=libfile_0131f3b191308191a494b65a1ec094ed&account_id=personal).
 - Zelano et al. Nasal Respiration Entrains Human Limbic Oscillations and Modulates Cognitive Function. Journal of Neuroscience, 36(49), 12448–12467, 2016. https://doi.org/10.1523/JNEUROSCI.2586-16.2016 ; https://pubmed.ncbi.nlm.nih.gov/27927961/ . Consulta dirigida ao registro/resumo e resultados apresentados; não revisão integral metodológica.
-- Herrero et al. Breathing above the brain stem: volitional control and attentional modulation in humans. Journal of Neurophysiology, 119(1), 145–159, 2018. Rota bibliográfica encontrada em Castellanos; verificar original antes de usar alegações específicas.
+- Herrero et al. Breathing above the brain stem: volitional control and attentional modulation in humans. Journal of Neurophysiology, 119(1), 145–159, 2018. https://doi.org/10.1152/jn.00551.2017 . Resumo, método e resultados recuperados do periódico examinados em 13/11/2026; aplicação e alcance registrados no caderno de fundamentação, seção 10.
 
 Os PDFs de livros permanecem no acervo da conta; não foram copiados integralmente para o GitHub. Links dependem do acesso à conta. A síntese e os apontadores no repositório permitem recuperar o contexto sem depender do chat. Se um original não abrir em outra sessão, usar a referência bibliográfica e declarar a lacuna apenas se impedir o trabalho.
 

@@ -2,13 +2,13 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.15"
+versao: "0.16"
 atualizado_em: 2026-11-13
 ---
 
 ## Cultivo corporal, energético e contemplativo — 13/11/2026
 
-Fabiano autorizou incorporar permanentemente esta base do TSH, com distribuição revisável: [[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]]. Recuperar [[02 - Ernesto Garcia e Fontes de Cultivo - Leitura e Destinação]] para a lógica de Ernesto Garcia, monografia autoral, Yang, meditação e diálogo com outros saberes; [[03 - Ba Duan Jin e Yi Jin Jing - Movimentos e Articulação Didática]] para exercícios pontuais das duas técnicas em que Fabiano tem formação e prática. A trajetória começa em M0/M1, estrutura-se em M3, aprofunda interiorização em M5 e integração/relação/continuidade em M6–M8. Recursos breves são uma das formas de uso; desenvolver também prática regular e repetição entre encontros. Pequena circulação tem preparação e versão próprias. Registro curricular não declara roteiros, slides e demonstrações já atualizados.
+Base permanente solicitada por Fabiano: [[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]]. Aprofundamento substantivo em [[04 - Caderno de Fundamentação - Cultivo Meditação Prana e Circulação]], com fontes examinadas de prática integral, James, Mantak Chia, Prana, meditação, circulação e pesquisa. A nota 03 avalia tecnicamente as vinte formas de Ba Duan Jin/Yi Jin Jing; 05 redige oito sequências e 06 distribui funções nas 54 aulas, fornece falas e organiza a hora de prática dos oito encontros. Há oito telas transversais com notas sincronizadas e apoio do aluno. Roteiros M0.2/M0.3/M1.1 e textos M1.1–M1.3 receberam inserções. Recuperar os trechos pertinentes; gravação e demonstração pessoal continuam etapas de realização audiovisual. O exemplar de prática integral tem páginas ausentes, identificadas na leitura; não alegar leitura integral.
 
 
 ## Máscara, armadura, castelos e Amor–Poder–Sabedoria — 12/11/2026
