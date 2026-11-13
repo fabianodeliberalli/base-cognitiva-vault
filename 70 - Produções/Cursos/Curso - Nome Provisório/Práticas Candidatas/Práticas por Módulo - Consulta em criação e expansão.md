@@ -4,6 +4,15 @@ status: em-criacao-e-expansao
 incorporado_em: 2026-10-31
 ---
 
+## Ampliação prática e estatuto do original — 13/11/2026
+
+A transcrição de outubro abaixo permanece integral como consulta histórica. A nova solicitação de Fabiano exige ampliar seu desenho: [[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]] organiza uma trajetória de cultivo com sequência regular, repetição entre encontros e aprofundamento corporal, energético e contemplativo. [[03 - Ba Duan Jin e Yi Jin Jing - Movimentos e Articulação Didática]] apresenta exercícios pontuais de Ba Duan Jin e Yi Jin Jing conforme a formação e prática de Fabiano.
+
+O bloco histórico de M3 com 6–8 minutos e retomadas de 60–90 segundos é utilizável como recurso breve; não dimensiona sozinho o currículo prático atual. A formação passa a considerar três usos complementares: recurso breve de retorno, prática regular e sessão orientada de aprofundamento. Ensinar uma pequena sequência desde M0/M1, refiná-la em M2/M3, aprofundar quietude em M5 e integração/continuidade em M6–M8. Tempos dependem da técnica e da turma.
+
+Para a produção atual de M3, desenvolver postura/Song, raiz/centro, respiração, atenção/Yi, Dantian, Qi Ji, dinâmica/quietude e encerramento. A finalidade inclui familiaridade com a linguagem e experiência de Qi. A leitura contemporânea pode acrescentar compreensão, enquanto a finalidade tradicional permanece explícita. As seleções e proibições do original são propostas daquela versão, contextualizáveis por Fabiano.
+
+
 # Práticas por módulo como consulta em criação e expansão
 
 > Decisão expressa de Fabiano em 31/10/2026: este material está em plena criação e expansão. É um referencial de consulta quando pertinente ao conjunto do curso, também em construção. Não é o documento de referência para construir as práticas, não define uma prática obrigatória por módulo e não fixa doses, técnicas ou roteiros.

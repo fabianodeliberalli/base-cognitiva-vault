@@ -1,8 +1,17 @@
 ---
 tipo: preparacao-de-producao
-atualizado_em: 2026-10-31
+atualizado_em: 2026-11-13
 status: referencia-atual-revisavel
 ---
+
+## Base de cultivo para produção das aulas — 13/11/2026
+
+Fabiano autorizou a incorporação permanente de [[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]], com fontes em [[02 - Ernesto Garcia e Fontes de Cultivo - Leitura e Destinação]] e repertórios de Ba Duan Jin/Yi Jin Jing em [[03 - Ba Duan Jin e Yi Jin Jing - Movimentos e Articulação Didática]]. Os tempos e sequências continuam propostas revisáveis. O calendário e a contagem de entrega abaixo não foram alterados por esse registro.
+
+Na produção, identificar o fundamento retomado, a capacidade acrescentada e a experiência que poderá ser repetida até o próximo encontro. Articular a explicação à demonstração e ao apoio do aluno. Desde M0/M1 oferecer uma primeira sequência; M3 estrutura o cultivo e M5 desenvolve meditação efetiva. M6 pode aprofundar circulação conforme a preparação, e M7/M8 trabalham relação e continuidade.
+
+Para cada exercício selecionado, recuperar nome/versão, fundamento tradicional, pergunta da aula, demonstração, atenção/intenção, respiração inicial, adaptações e encerramento. Atualizar roteiro, slides, notas e entregável juntos quando a aula for produzida. Evitar apresentar a transcrição antiga de micropráticas como se já realizasse toda essa trajetória. Este registro não afirma que os arquivos de produção existentes tenham recebido essas alterações.
+
 
 # TSH — Preparação dos roteiros e calendário
 

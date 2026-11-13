@@ -2,9 +2,16 @@
 tipo: sintese-integrativa
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-atualizado_em: 2026-10-30
+atualizado_em: 2026-11-13
 autor_do_projeto: Fabiano Deliberalli
 ---
+
+## Ampliação da trajetória de cultivo — 13/11/2026
+
+A deliberação atual de Fabiano amplia a aplicação dos fundamentos desta síntese: [[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]] desenvolve uma trajetória cumulativa de conhecimento e prática, articulada ao corpo, ao cultivo energético, à meditação e à construção de eixo. [[02 - Ernesto Garcia e Fontes de Cultivo - Leitura e Destinação]] registra Ernesto Garcia, monografia de Fabiano, Yang Jwing-Ming, fontes contemplativas e relações com o acervo. [[03 - Ba Duan Jin e Yi Jin Jing - Movimentos e Articulação Didática]] destina movimentos de Ba Duan Jin e Yi Jin Jing às aulas, apoiados na formação e prática de Fabiano.
+
+Para desenvolver os conteúdos de Qi, órbita e prática presentes abaixo, recuperar essa ampliação. O aluno precisa poder aprender uma sequência, repeti-la, refinar postura/respiração/intenção e aprofundar quietude e circulação. Micropráticas e interpretação simbólica conservam suas funções dentro de uma formação mais ampla. A organização é permanente como base de produção e revisável em sua distribuição.
+
 
 > **Registro de incorporação ao acervo.** Transcrição integral da versão revisada do documento, preservada em [[TSH-Sintese-Integrativa-do-Refinamento.docx]]. As passagens que anunciam uma incorporação posterior registram o momento de elaboração do Word. Esta nota e as atualizações relacionadas realizam essa etapa documental, sem transformar propostas de práticas em roteiros finais.
 

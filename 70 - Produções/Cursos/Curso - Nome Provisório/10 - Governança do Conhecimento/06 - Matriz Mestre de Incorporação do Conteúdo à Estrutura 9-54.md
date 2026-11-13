@@ -5,10 +5,30 @@ status: acervo-historico-consultivo
 uso_atual: acervo-consultivo
 versao: "1.7"
 criado_em: 2026-08-22
-atualizado_em: 2026-10-24
+atualizado_em: 2026-11-13
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
+
+## Recuperação curricular — cultivo corporal, energético e contemplativo — 13/11/2026
+
+Por autorização de Fabiano, [[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]] passa a integrar permanentemente a base de produção do TSH. [[02 - Ernesto Garcia e Fontes de Cultivo - Leitura e Destinação]] documenta a fundamentação; [[03 - Ba Duan Jin e Yi Jin Jing - Movimentos e Articulação Didática]] distribui Ba Duan Jin e Yi Jin Jing. A matriz histórica conserva suas associações e recebe este roteiro atual de recuperação:
+
+| Destino | Fundamento a recuperar | Trabalho prático/material a desenvolver |
+| --- | --- | --- |
+| M0.2–M0.3; M1.1–M1.3 | Cultivo e aprendizagem incorporada; três regulações. | Sequência inicial conhecida; preparação e conclusão; repetição. |
+| M1.4–M1.7 | Qi em seus termos; mapas, Janelas, cartografia e centro. | Percepção com linguagem gradual; registro aberto; eixo como referência dinâmica. |
+| M2.1–M2.3; M2.5–M2.6 | Atenção e distinção entre sensação, intenção, imagem e interpretação. | Comparar o mesmo movimento com uma variação e registrar perguntas. |
+| M3.1–M3.4 | Corpo/estado, interocepção e sistema nervoso em diálogo com cultivo. | Retomada das regulações com explicações proporcionais à aula. |
+| M3.5–M3.7 | Jing/Qi/Shen, Song, raiz, Dantian, Qi Ji e circulação. | Sequência regular; movimentos selecionados; versões e adaptações. |
+| M4.1–M4.3; M4.4–M4.6 | Emoções, padrões, intenção e controle. | Refinar esforço/soltura e permanência com conteúdos sem perder referência. |
+| M5.1; M5.4–M5.8 | Quietude, meditação, Shen, espiritualidade e discernimento. | Prática contemplativa efetiva; elaboração e integração da experiência. |
+| M6.1–M6.2; M6.4–M6.6 | Integração; Ren Mai/Du Mai e pequena circulação em contexto. | Reunir fundamentos; distinguir mapa, preparação e prática orientada. |
+| M7.1–M7.8 | Centro no encontro, intenção, escuta, expressão e reparação. | Transição entre cultivo individual e situações relacionais. |
+| M8.1–M8.3 | Constância, autonomia e aprofundamento. | Plano pessoal e sequência efetivamente aprendida. |
+
+Estado: fundamentação e destinação registradas; roteiros, apresentações, áudios, vídeos e fichas continuam sujeitos à produção/revisão correspondente. A distribuição é operacional e revisável, sem instituir uma nova contagem de aulas.
+
 
 ## Auditoria do manuscrito de Fabiano — 07/11/2026
 

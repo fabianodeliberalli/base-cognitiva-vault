@@ -4,7 +4,7 @@ projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
 versao: "1.2"
 data: 2026-08-22
-atualizado_em: 2026-09-07
+atualizado_em: 2026-11-13
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 aplicacao:
@@ -26,6 +26,13 @@ tags:
   - pluralismo-epistemologico-nao-redutivo
   - integracao-autoral
 ---
+
+## Aplicação ao cultivo e à meditação — 13/11/2026
+
+[[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]] aplica esta diretriz à formação corporal, energética e contemplativa solicitada por Fabiano. Qi, Jing, Shen, Dantian e cultivo são ensinados em suas tradições, em diálogo com os mapas psicológicos e contemporâneos pertinentes. A meditação recebe desenvolvimento prático desde as primeiras aulas e aprofundamento em M5; símbolos e relatos espirituais acompanham a formação, sem substituir o treino e a interiorização.
+
+O diálogo com Prana será ampliado por fontes indianas próprias. Preservar as diferenças entre conceitos permite correlações mais férteis. [[02 - Ernesto Garcia e Fontes de Cultivo - Leitura e Destinação]] registra contribuições examinadas e leituras ainda necessárias.
+
 
 # Diretriz Transversal — Espiritualidade Explícita, Singularidade Autoral e Não Neutralização
 

@@ -3,12 +3,17 @@ tipo: porta-de-entrada-de-contexto
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: referencia-atual-revisavel
-versao: "4.1"
+versao: "4.2"
 criado_em: 2026-07-21
-atualizado_em: 2026-11-12
+atualizado_em: 2026-11-13
 autor: Fabiano Deliberalli
 autoridade_de_decisao: Fabiano Deliberalli
 ---
+
+## Cultivo corporal, energético e contemplativo — 13/11/2026
+
+Base permanente autorizada por Fabiano: [[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]]. Fontes de Ernesto e do acervo: [[02 - Ernesto Garcia e Fontes de Cultivo - Leitura e Destinação]]. Exercícios pontuais de Ba Duan Jin/Yi Jin Jing: [[03 - Ba Duan Jin e Yi Jin Jing - Movimentos e Articulação Didática]]. Distribuição cumulativa M0–M8, prática regular, meditação e circulação; escolhas didáticas revisáveis. Materiais revistos na produção.
+
 
 ## Máscara, armadura e potencialidades — 12/11/2026
 
@@ -20,7 +25,7 @@ Os refinamentos aprovados da Live, as referências por aula e o calendário est�
 
 ## Registro de 30/10 — entrega operacional atualizada acima
 
-O Raio X recebeu uma revisão de trabalho em Word e Markdown, acompanhada de [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo]]. A formulação ampliada, a persona, o benefício expressivo e um encontro online ao vivo de duas horas por módulo foram explicitamente solicitados por Fabiano. Os exemplos, a distribuição de práticas e o modo de condução são propostas pedagógicas revisáveis. Fabiano homologou a integração deste conjunto em 30/10/2026 ao solicitar as modificações no Obsidian. O Raio X revisado passa a ser a referência atual; o anterior permanece no histórico.
+Fabiano homologou em 30/10 a integração do Raio X revisado e de [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo]]. Formulação ampliada solicitada por ele; práticas e condução revisáveis. Entrega de 31/10 acima; anteriores no histórico.
 
 O TSH oferece mapas e práticas para compreender a experiência, ampliar o acesso aos próprios recursos e cultivar possibilidades de vida que ainda encontram pouco espaço de expressão, considerando corpo, história, relações, condições de vida e dimensão espiritual.
 
