@@ -9,6 +9,8 @@ autor_do_projeto: Fabiano Deliberalli
 
 # Mapas Rim–Nao e interocepção: leitura e incorporação
 
+**Imagens disponíveis para montagem:** [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos|00 - Catálogo de Imagens e Destinos]] reúne as 39 lâminas completas, as 48 figuras extraídas e os destinos por módulo. A extração preserva os mapas originais; a cópia editável do PPTM continua pendente.
+
 ## 1. Fontes recuperadas e alcance da leitura
 
 Fabiano forneceu o [link da apresentação *Qi Gong MTC — Além das Fronteiras*](https://1drv.ms/p/c/804d971312b1dfc2/IQDC37ESE5dNIICA3AMAAAAAAStlBkm1Q1u_XI8Brf0GSVg?e=jdHrX9), com 39 lâminas. O conteúdo foi acessado no PowerPoint on-line e exportado pelo próprio aplicativo para leitura: [[70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Fabiano Deliberalli - Qi Gong MTC - Além das Fronteiras - exportação de leitura.pdf|Apresentação preservada em PDF]]. Foram examinados o texto acessível e as imagens das 39 páginas. Os metadados da exportação identificam Fabiano Deliberalli como autor; a seleção, organização e articulação convivem com figuras e textos de outras fontes. A data da exportação não estabelece quando o PowerPoint foi originalmente elaborado.
@@ -142,6 +144,20 @@ Nas lâminas 16–18, conservar a pergunta autoral sobre estresse, energia dispo
 **Fala de M3.5:** “O Rim, neste mapa, participa de uma organização mais ampla do que o órgão isolado. A relação com Jing, circulação e Nao nos ajuda a compreender por que cuidamos da base, do repouso e da maneira de praticar. A imagem da seiva mostra um conjunto: raízes, tronco, ramos e copa participam da mesma vida.”
 
 **Fala de M6.5:** “Este desenho explica relações; este outro nos ajuda a acompanhar a versão da prática. Vamos começar pela preparação conhecida, explorar por partes e aprender a reunir e concluir. A versão para continuar será a que efetivamente praticarmos aqui.”
+
+## 9. Arquivos visuais e função na fundamentação
+
+[[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos|00 - Catálogo de Imagens e Destinos]] oferece cada lâmina e seus componentes. Para recuperar diretamente os núcleos do trabalho anterior:
+
+| Fundamento | Lâmina | Destino principal |
+| --- | --- | --- |
+| Três campos e referência interna | [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L08_tres_dantian.jpg|08 - três Dantian]] | Apresentação inicial M1.4; ampliação M3.6/P2C; retomadas M5/M6. |
+| Base, nutrição e circulação | [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L22_jingshen_circulacao.jpg|22 - circulação de Jingshen]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L23_rim_nao_grande_circulacao.jpg|23 - Rim-Nao]] | M1.4 oferece a leitura inicial; M3.5-M3.6 desenvolvem; M6.5 distingue mapa funcional e prática. |
+| Seiva, árvore e psiquismo | [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L27_arvore_jingshen_shen.jpg|27 - circulação de Jingshen e formação de Shen]] | M1.4 como ponte; M3/M4/M5/M6 aprofundam conforme a função da aula. |
+| Atenção afetiva e retorno | [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L29_sorriso_tan_tien.jpg|29 - Sorriso ao Tan Tien inferior]] | Preparação quando ensinada; P4 em M4/M5. |
+| Versões da órbita | [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L12_orbita_sequencia_da_fonte.jpg|12 - sequência da fonte]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L14_orbita_e_outras_tradicoes.jpg|14 - outra versão]] | Comparação docente e escolha em M6.5; conservar os procedimentos e localizações de cada fonte. |
+
+As figuras autônomas estão vinculadas na mesma linha do inventário do catálogo. Isso permite ampliar uma figura sem recortar uma captura de tela e conservar a lâmina completa para contexto. As fontes com texto histórico a atualizar continuam disponíveis com essa indicação.
 
 ## Relações e estado
 

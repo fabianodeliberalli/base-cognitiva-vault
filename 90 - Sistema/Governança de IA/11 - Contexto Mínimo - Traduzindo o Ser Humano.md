@@ -2,10 +2,14 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.20"
+versao: "0.21"
 atualizado_em: 2026-11-13
 ---
 
+
+## Resgate de Rohden e imagens - 13/11/2026
+
+[[07 - Rohden - Assimilação Centro e Vida Cotidiana]] verifica o livro completo identificado e os destinos. [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos|00 - Catálogo de Imagens e Destinos]] oferece 39 lâminas, 48 figuras da apresentação e dois diagramas de Rohden, vinculados a M0-M8 e à fundamentação. Consultar na produção; a progressão e P1B permanecem. Atualização no PR #58, sem integração à main ou reedição dos PPTX das aulas.
 
 ## Preservação na troca de chat — 13/11/2026
 
@@ -186,4 +190,3 @@ Preservar a distinção entre formulações autorais, conhecimentos tradicionais
 Não ler automaticamente todos os documentos da tabela. Escolher apenas a linha pertinente. Documentos extensos, transcrições, montagens e fontes são recuperados sob demanda.
 
 Se a tarefa não exigir mudança autoral, não transformar a resposta em nova deliberação.
-

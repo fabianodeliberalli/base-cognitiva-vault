@@ -26,6 +26,9 @@ tags:
   - pluralismo-epistemologico
 ---
 
+
+**Resgate de Rohden e das imagens - 13/11/2026:** [[07 - Rohden - Assimilação Centro e Vida Cotidiana]] identifica o original completo e as contribuições; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos|00 - Catálogo de Imagens e Destinos]] disponibiliza as lâminas, figuras e diagramas com destinos M0-M8. A leitura conceitual e a distribuição das práticas permanecem em 04/05/06/08.
+
 ## Aprofundamento e aplicação às aulas — 13/11/2026
 
 Desenvolvimento solicitado por Fabiano: [[04 - Caderno de Fundamentação - Cultivo Meditação Prana e Circulação]]; [[05 - Caderno de Condução - Sequências e Aprendizagens do Cultivo]]; [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH]]. A nota das vinte formas recebeu aprofundamento técnico/didático. Estão redigidos exercícios, falas, destinos nas 54 aulas e organização da hora de prática dos oito encontros. Recuperar esses conteúdos na produção, além do mapeamento inicial. Materiais transversais em `Materiais/Práticas Transversais`: apresentação de oito telas, roteiro sincronizado e apoio do aluno. O exemplar de prática integral tem páginas de amostra; as passagens efetivamente examinadas e as diferenças de versão estão documentadas.

@@ -8,6 +8,8 @@ atualizado_em: 2026-11-13
 
 # Fundamentos do cultivo, da meditação, de Prana e da circulação
 
+**Fontes visuais para recuperar na fundamentação e nas aulas:** [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos|00 - Catálogo de Imagens e Destinos]]. Conservar 07 para Rohden, 08 para a leitura dos mapas, 05 para os procedimentos e 06 para os destinos; o catálogo acrescenta os arquivos de imagem efetivamente disponíveis.
+
 ## 1. Finalidade e composição
 
 Este aprofundamento responde ao pedido de Fabiano de transformar os destinos de pesquisa em fundamentos efetivos das práticas e das aulas. Desenvolve [[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]], com aplicação em [[05 - Caderno de Condução - Sequências e Aprendizagens do Cultivo]] e [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH]]. A avaliação das vinte formas está em [[03 - Ba Duan Jin e Yi Jin Jing - Movimentos e Articulação Didática]].
@@ -22,6 +24,7 @@ O currículo relaciona organização corporal, linguagem energética, qualidade 
 | Yang Jwing-Ming | Regulações interdependentes, distinção entre modalidades e desenvolvimento do sentir; circulação com preparação e conclusão. | Refinamento do que já se pratica; diferença entre conhecer o trajeto e conduzi-lo. | M3, M5 e aprofundamentos de M6. |
 | Wilber, Patten, Leonard e Morelli | Prática integral personalizada; dimensões corporal, energética, contemplativa e psicológica; integração à vida. | Relacionar exercícios que antes pareciam separados e construir continuidade. | M1.3, M3, M5, M6.5 e M8.2. |
 | James | Investigação receptiva da experiência e de sua transformação ao longo do tempo. | Reconhecer significado, dificuldades de expressão e repercussões da interiorização. | M1.4, M2.5 e M5.6–M5.8; retomada M8. |
+| Rohden, *Rumo à Consciência Cósmica*, PDF 6-14, 18-28, 31-40, 60 e 73-81 | Assimilação, concentração, receptividade e integração da referência espiritual à vida. | Distinguir compreender, experienciar e continuar cultivando; interiorização como ato e atitude. | M1/M5/M6/M7/M8, com preparação desde M0; leitura, limites e destinos em [[07 - Rohden - Assimilação Centro e Vida Cotidiana]]. |
 | Mantak Chia | Sorriso Interior e cultivo de uma relação afetiva com o próprio corpo na linguagem de sua escola. | Perceber como a maneira de dirigir atenção modifica a participação na prática. | Introdução M1/M3; desenvolvimento M4/M5. |
 | Sivananda e Patañjali na tradução/comentário de Vivekananda | Prana em contexto indiano; relação entre postura, sopro, concentração e interiorização. | Compreender por que o sopro recebe uma função formativa nas tradições do Yoga. | M3.5; articulação contemplativa em M5. |
 | Ānāpānasati, MN 118 | Atenção ao respirar, sensibilidade e investigação gradual. | Aprender a reconhecer a experiência enquanto ela muda. | Atenção desde M1; investigação e meditação em M4/M5. |

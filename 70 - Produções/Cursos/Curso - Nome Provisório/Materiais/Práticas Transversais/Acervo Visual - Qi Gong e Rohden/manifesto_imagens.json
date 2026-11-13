@@ -1,0 +1,2310 @@
+{
+  "date": "2026-11-13",
+  "basis_commit": "40f27015e0a6954d4816b2f2ecc4bd475f8a9174",
+  "sources": {
+    "powerpoint_pdf": "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Fabiano Deliberalli - Qi Gong MTC - Além das Fronteiras - exportação de leitura.pdf",
+    "powerpoint_blob_sha": "54d020de851b2eb694376ddce40d4dfedc00f962",
+    "rohden_pdf": "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Huberto Rohden - Rumo à Consciência Cósmica.pdf",
+    "rohden_blob_sha": "bfcd7b5323b7470bac41d48ab8ac112dd5a4bb95"
+  },
+  "method": "Lâminas renderizadas integralmente em JPEG com 2560 px de largura, qualidade 95 e sem subamostragem de cor. O PDF conserva a fonte completa. Figuras extraídas do PDF na resolução nativa; máscaras alfa reintegradas quando presentes. Sem redesenho, tradução ou aumento de detalhe de imagens de baixa resolução.",
+  "slides": [
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L01_qi_gong_e_medicina_chinesa.jpg",
+      "size_bytes": 363377,
+      "sha256": "e10f5ceedf7a8e7203300c2207b61644c3530c1c7189262622883b9dbefd2819",
+      "width": 2560,
+      "height": 1441,
+      "mode": "RGB",
+      "slide": 1,
+      "title": "Qi Gong e medicina chinesa",
+      "lessons": [
+        "M0.1",
+        "M1.1"
+      ],
+      "purpose": "Procedência e finalidades do cultivo.",
+      "notes": "Apresentação breve; a imagem de capa é um recurso gráfico.",
+      "components": [
+        {
+          "ordinal": 1,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L01_F01_qi_gong_e_medicina_chinesa.jpeg",
+          "decorative": false
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L02_ancestrais_taoistas.jpg",
+      "size_bytes": 456337,
+      "sha256": "fa0eb137a66549f89c8d138f77460f479ed1e475c864f44eb7569e33168684b0",
+      "width": 2560,
+      "height": 1441,
+      "mode": "RGB",
+      "slide": 2,
+      "title": "Ancestrais da tradição taoista",
+      "lessons": [
+        "M0.1",
+        "M1.4"
+      ],
+      "purpose": "Linhagem e transmissão.",
+      "notes": "Referência docente; conferir nomes legíveis na fonte.",
+      "components": [
+        {
+          "ordinal": 1,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L02_F01_ancestrais_taoistas.jpeg",
+          "decorative": false
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L03_linhagem_taoista.jpg",
+      "size_bytes": 559860,
+      "sha256": "c1c2fe38200e1a5b90de5c64d5551aecbf824d229c2bf365d7cb8e71bee4ef37",
+      "width": 2560,
+      "height": 1441,
+      "mode": "RGB",
+      "slide": 3,
+      "title": "Linhagem taoista",
+      "lessons": [
+        "M0.1",
+        "M1.4",
+        "M3.5"
+      ],
+      "purpose": "Mestres na trajetória de formação.",
+      "notes": "Distinguir Liu Pai Lin e Liu Chih Ming; as fotografias conservam sua procedência.",
+      "components": [
+        {
+          "ordinal": 1,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L03_F01_linhagem_taoista.jpeg",
+          "decorative": false
+        },
+        {
+          "ordinal": 2,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L03_F02_linhagem_taoista.jpeg",
+          "decorative": false
+        },
+        {
+          "ordinal": 3,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L03_F03_linhagem_taoista.jpeg",
+          "decorative": false
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L04_respiracao_abdominal.jpg",
+      "size_bytes": 321301,
+      "sha256": "0c3078b63fea7c11f1ca13c021897665cac77adc003b67590d2892d9b9e1d3ab",
+      "width": 2560,
+      "height": 1441,
+      "mode": "RGB",
+      "slide": 4,
+      "title": "Respiração abdominal normal",
+      "lessons": [
+        "M0.2",
+        "M1.1",
+        "M2.1",
+        "M3.1"
+      ],
+      "purpose": "Preparação P0/P1/P2 e comparação de uma base conhecida.",
+      "notes": "A câmera demonstra; o diagrama não exige amplitude ou ritmo padronizados.",
+      "components": [
+        {
+          "ordinal": 1,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L04_F01_fundo_circular.png",
+          "decorative": true
+        },
+        {
+          "ordinal": 2,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L04_F02_respiracao_abdominal.jpeg",
+          "decorative": false
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L05_sopro_e_centro_inferior.jpg",
+      "size_bytes": 288920,
+      "sha256": "efc363d8c9254d39e9c521f833c9325a31685efda9f6ed1e978c2a1a6f293183",
+      "width": 2560,
+      "height": 1441,
+      "mode": "RGB",
+      "slide": 5,
+      "title": "Sopro e centro inferior",
+      "lessons": [
+        "M0.2",
+        "M1.1",
+        "M2.1",
+        "M3.1"
+      ],
+      "purpose": "Expansão e recolhimento na preparação.",
+      "notes": "Retomar a versão já ensinada; M2 varia a atenção, sem acrescentar técnica.",
+      "components": [
+        {
+          "ordinal": 1,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L04_F01_fundo_circular.png",
+          "decorative": true
+        },
+        {
+          "ordinal": 2,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L05_F02_sopro_e_centro_inferior.jpeg",
+          "decorative": false
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L06_orbita_macrocosmica.jpg",
+      "size_bytes": 385157,
+      "sha256": "14037a8945904617908e23e03849df4140ac0f552568cec7072ac68780b65416",
+      "width": 2560,
+      "height": 1441,
+      "mode": "RGB",
+      "slide": 6,
+      "title": "Órbita macrocósmica e repertórios associados",
+      "lessons": [
+        "M6.5",
+        "M8.2"
+      ],
+      "purpose": "Fonte de aprofundamento sobre circulação.",
+      "notes": "Caderno docente; não transportar Sanchin ou Xi Sui Jing como pré-requisito.",
+      "components": [
+        {
+          "ordinal": 1,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L06_F01_orbita_macrocosmica.jpeg",
+          "decorative": false
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L07_pontos_anteriores_posteriores.jpg",
+      "size_bytes": 298258,
+      "sha256": "e7130800984e02f57f843cf7d4cc80b259f8c76347d2d2681dade6a1cb0e51ef",
+      "width": 2560,
+      "height": 1441,
+      "mode": "RGB",
+      "slide": 7,
+      "title": "Referências anteriores e posteriores",
+      "lessons": [
+        "M3.6",
+        "M6.5"
+      ],
+      "purpose": "Superfície corporal e referência interna.",
+      "notes": "Selecionar pontos necessários à versão demonstrada; não ensinar a figura inteira na entrada.",
+      "components": [
+        {
+          "ordinal": 1,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L04_F01_fundo_circular.png",
+          "decorative": true
+        },
+        {
+          "ordinal": 2,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L07_F02_pontos_anteriores_posteriores.jpeg",
+          "decorative": false
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L08_tres_dantian.jpg",
+      "size_bytes": 411035,
+      "sha256": "0d2f33d0b15d5d3db976c9796fe0378d08b3304df687953dd7461bf3940372f6",
+      "width": 2560,
+      "height": 1441,
+      "mode": "RGB",
+      "slide": 8,
+      "title": "Três Dantian e referências internas",
+      "lessons": [
+        "M1.4",
+        "M1.7",
+        "M3.6",
+        "M5.3",
+        "M6.5"
+      ],
+      "purpose": "Mapa inicial dos três campos; aprofundamento P2C.",
+      "notes": "Campo interno e ponto de superfície têm funções próprias. Figura nativa de 394 x 562 px.",
+      "components": [
+        {
+          "ordinal": 1,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L04_F01_fundo_circular.png",
+          "decorative": true
+        },
+        {
+          "ordinal": 2,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L08_F02_tres_dantian.png",
+          "decorative": false
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L09_circulacao_microcosmica.jpg",
+      "size_bytes": 311144,
+      "sha256": "d7a0202fd94c990ab432dcc63d4bb4f85df08a9db8007893cca9fa43cd101957",
+      "width": 2560,
+      "height": 1441,
+      "mode": "RGB",
+      "slide": 9,
+      "title": "Circulação microcósmica e centros",
+      "lessons": [
+        "M3.6",
+        "M6.5"
+      ],
+      "purpose": "Mapa comparativo de centros e circuito.",
+      "notes": "A figura também reúne termos de outras tradições; identificar o modelo usado.",
+      "components": [
+        {
+          "ordinal": 1,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L09_F01_circulacao_microcosmica.jpeg",
+          "decorative": false
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L10_campos_e_consciencia.jpg",
+      "size_bytes": 283983,
+      "sha256": "542897d34f77a1d19d76182b09ef718a4930b8b03e62c21b9fb21ab525c79e72",
+      "width": 2560,
+      "height": 1441,
+      "mode": "RGB",
+      "slide": 10,
+      "title": "Campos, percepção, consciência e observação",
+      "lessons": [
+        "M3.6",
+        "M5.3",
+        "M6.5"
+      ],
+      "purpose": "Comparação entre mapas de cultivo.",
+      "notes": "As associações não instituem três compartimentos rígidos da pessoa.",
+      "components": [
+        {
+          "ordinal": 1,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L10_F01_campos_e_consciencia.png",
+          "decorative": false
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L11_centros_e_campo.jpg",
+      "size_bytes": 278560,
+      "sha256": "ed791cc2ec5d5f27f5cb06cba1c127291e7d333bdaaa26d9b011b943eba4b458",
+      "width": 2560,
+      "height": 1441,
+      "mode": "RGB",
+      "slide": 11,
+      "title": "Centros e direções do campo",
+      "lessons": [
+        "M5.2",
+        "M5.5",
+        "M6.1",
+        "M7.1"
+      ],
+      "purpose": "Mapa comparativo de sentimentos, vontade e mente.",
+      "notes": "Conservar identidade do modelo; não nomeá-lo automaticamente três Tan Tien.",
+      "components": [
+        {
+          "ordinal": 1,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L11_F01_centros_e_campo.jpeg",
+          "decorative": false
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L12_orbita_sequencia_da_fonte.jpg",
+      "size_bytes": 545382,
+      "sha256": "d19b93d2e1ab4999ad40d17218db60f95af4c4f5280f6e35f3254817ba357dc6",
+      "width": 2560,
+      "height": 1441,
+      "mode": "RGB",
+      "slide": 12,
+      "title": "Sequência de circulação da fonte",
+      "lessons": [
+        "M6.5"
+      ],
+      "purpose": "Comparação docente de uma versão operacional.",
+      "notes": "A fonte inclui inspiração de 12 s e pausas de 3 s; não adotar automaticamente esses tempos. Ver 08, seção 5.",
+      "components": [
+        {
+          "ordinal": 1,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L12_F01_orbita_sequencia_da_fonte.jpeg",
+          "decorative": false
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L13_campos_e_chong_mai.jpg",
+      "size_bytes": 184500,
+      "sha256": "d1d9230609347fed4603dece9cf9c114f048ad27f16868384bdc8f2d5aa2b9c1",
+      "width": 2560,
+      "height": 1441,
+      "mode": "RGB",
+      "slide": 13,
+      "title": "Campos e Chong Mai",
+      "lessons": [
+        "M3.6",
+        "M6.5"
+      ],
+      "purpose": "Relação entre campos e via central.",
+      "notes": "Distinguir via central e circuito Ren Mai/Du Mai; o quadro original contém recortes.",
+      "components": [
+        {
+          "ordinal": 1,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L13_F01_campos_e_chong_mai.jpeg",
+          "decorative": false
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L14_orbita_e_outras_tradicoes.jpg",
+      "size_bytes": 311602,
+      "sha256": "480b861e436e07c5538b6ac8b6245a8cdf7c58ee60634397046f362dbc4701ca",
+      "width": 2560,
+      "height": 1441,
+      "mode": "RGB",
+      "slide": 14,
+      "title": "Órbita e referências de outras tradições",
+      "lessons": [
+        "M3.6",
+        "M6.5"
+      ],
+      "purpose": "Outra versão de circulação representada no acervo.",
+      "notes": "Os nomes e procedimentos indianos da figura não são comandos da versão introdutória.",
+      "components": [
+        {
+          "ordinal": 1,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L04_F01_fundo_circular.png",
+          "decorative": true
+        },
+        {
+          "ordinal": 2,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L14_F02_orbita_e_outras_tradicoes.jpeg",
+          "decorative": false
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L15_shaoyin_e_chong_mai.jpg",
+      "size_bytes": 343772,
+      "sha256": "f9b3072c7bf358f7106d15dfc9e852785ac21c1939688031466ef2da30cfa7c6",
+      "width": 2560,
+      "height": 1441,
+      "mode": "RGB",
+      "slide": 15,
+      "title": "Shaoyin, Coração-Rim e Chong Mai",
+      "lessons": [
+        "M3.5",
+        "M3.6"
+      ],
+      "purpose": "Sustentação, reciprocidade e circulação na leitura bioenergética.",
+      "notes": "Aprofundamento docente; correlações endócrinas conservam seu estatuto de aproximação.",
+      "components": [
+        {
+          "ordinal": 1,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L15_F01_sombra_de_quadro.png",
+          "decorative": true
+        },
+        {
+          "ordinal": 2,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L15_F02_shaoyin_e_chong_mai.jpeg",
+          "decorative": false
+        },
+        {
+          "ordinal": 3,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L15_F03_shaoyin_e_chong_mai.jpeg",
+          "decorative": false
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L16_estresse_hpa_fonte_historica.jpg",
+      "size_bytes": 662163,
+      "sha256": "a8508e63190cc424180b3daf056d480a99140bee55dd1dfca234628d722a96bf",
+      "width": 2560,
+      "height": 1441,
+      "mode": "RGB",
+      "slide": 16,
+      "title": "Estresse e eixo HPA - fonte histórica",
+      "lessons": [
+        "M3.4"
+      ],
+      "purpose": "Origem de uma explicação autoral a atualizar.",
+      "notes": "Consultar 08, seção 7; não projetar o texto histórico como explicação científica já revisada.",
+      "components": [
+        {
+          "ordinal": 1,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L16_F01_estresse_hpa_fonte_historica.jpeg",
+          "decorative": false
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L17_estresse_funcoes_fonte_historica.jpg",
+      "size_bytes": 675055,
+      "sha256": "953684c15a8a277361c8b321da35dded3793db6b9ffa24b333774130899f0904",
+      "width": 2560,
+      "height": 1441,
+      "mode": "RGB",
+      "slide": 17,
+      "title": "Estresse, funções e recursos - fonte histórica",
+      "lessons": [
+        "M3.1",
+        "M3.4",
+        "M4.4"
+      ],
+      "purpose": "Histórico da articulação corpo, estresse e funções.",
+      "notes": "Revisar a fala científica conforme 08, seção 7; a imagem isolada não valida os mecanismos do texto.",
+      "components": [
+        {
+          "ordinal": 1,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L17_F01_fundo_circular_alternativo.png",
+          "decorative": true
+        },
+        {
+          "ordinal": 2,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L17_F02_estresse_funcoes_fonte_historica.jpeg",
+          "decorative": false
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L18_tao_yin_yang.jpg",
+      "size_bytes": 359662,
+      "sha256": "e4e331138f9b27170ca2a8f1e3d71917cc463bb15425c3e463b5d9684e27743c",
+      "width": 2560,
+      "height": 1441,
+      "mode": "RGB",
+      "slide": 18,
+      "title": "Tao e Yin-Yang",
+      "lessons": [
+        "M1.4",
+        "M3.5"
+      ],
+      "purpose": "Linguagem filosófica e organização de relações.",
+      "notes": "Contextualizar analogias e atribuições históricas da lâmina; não transportar sinais de igualdade como identidades anatômicas.",
+      "components": []
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L19_jing_inato.jpg",
+      "size_bytes": 448506,
+      "sha256": "742f5022f09be29e484f9f3ce4b741f80ec1b5fac99bf7e5aae9067d29d711f0",
+      "width": 2560,
+      "height": 1441,
+      "mode": "RGB",
+      "slide": 19,
+      "title": "Jing inato",
+      "lessons": [
+        "M3.3",
+        "M3.5"
+      ],
+      "purpose": "Constituição, origem e reserva no modelo tradicional.",
+      "notes": "Explicar a perspectiva da formação; Jing não recebe definição automática de DNA.",
+      "components": [
+        {
+          "ordinal": 1,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L19_F01_jing_inato.jpeg",
+          "decorative": false
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L20_jing_inato_adquirido.jpg",
+      "size_bytes": 381444,
+      "sha256": "59d854033e08de4f4a8ec5aa2804eaf4eb561333ec230eae1f351673541bbddc",
+      "width": 2560,
+      "height": 1441,
+      "mode": "RGB",
+      "slide": 20,
+      "title": "Jing inato e adquirido",
+      "lessons": [
+        "M3.3",
+        "M3.5"
+      ],
+      "purpose": "Reserva, alimentação, respiração e cultivo.",
+      "notes": "A duração da vida não é estimada pela figura; recuperação pela experiência e pelo contexto.",
+      "components": [
+        {
+          "ordinal": 1,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L20_F01_jing_inato_adquirido.png",
+          "decorative": false
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L21_embriogenese_energetica.jpg",
+      "size_bytes": 564273,
+      "sha256": "b9f58b5100e1878cf3e9b76e24abe6d67e17f45a8a188ccfbfcbc2652cbe89ff",
+      "width": 2560,
+      "height": 1441,
+      "mode": "RGB",
+      "slide": 21,
+      "title": "Embriogênese energética",
+      "lessons": [
+        "M3.5"
+      ],
+      "purpose": "Detalhamento da escola bioenergética.",
+      "notes": "Caderno docente e aprofundamento; não converter núcleos latentes em descrição embriológica contemporânea.",
+      "components": [
+        {
+          "ordinal": 1,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L21_F01_embriogenese_energetica.png",
+          "decorative": false
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L22_jingshen_circulacao.jpg",
+      "size_bytes": 382838,
+      "sha256": "2e91274e1227164ddf860702850954846d82151f3d6f44ec4b908001ec5fb438",
+      "width": 2560,
+      "height": 1441,
+      "mode": "RGB",
+      "slide": 22,
+      "title": "Jingshen e circulação",
+      "lessons": [
+        "M1.4",
+        "M3.5",
+        "M3.6",
+        "M6.5"
+      ],
+      "purpose": "Relação entre base, circulação e nutrição superior.",
+      "notes": "Leitura inicial em M1; desenvolvimento em M3; em M6 distinguir função e procedimento.",
+      "components": [
+        {
+          "ordinal": 1,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L22_F01_jingshen_circulacao.jpeg",
+          "decorative": false
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L23_rim_nao_grande_circulacao.jpg",
+      "size_bytes": 407834,
+      "sha256": "33033c3af71da963a5ae21d1e5bd36374b645ff5b68dcb78b541b82708bc9c3c",
+      "width": 2560,
+      "height": 1441,
+      "mode": "RGB",
+      "slide": 23,
+      "title": "Rim-Nao e grande circulação",
+      "lessons": [
+        "M1.4",
+        "M3.5",
+        "M3.6",
+        "M6.5"
+      ],
+      "purpose": "Mapa recuperado de base, reserva, circulação e clareza.",
+      "notes": "Preservar R+/R-, SGU, 1RM, T Chong, Ren/Du e Nao; não substituir siglas de memória. Não extrair ritmo respiratório desse mapa.",
+      "components": [
+        {
+          "ordinal": 1,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L15_F03_shaoyin_e_chong_mai.jpeg",
+          "decorative": false
+        },
+        {
+          "ordinal": 2,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L23_F02_rim_nao_grande_circulacao.jpeg",
+          "decorative": false
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L24_genese_do_shen.jpg",
+      "size_bytes": 422917,
+      "sha256": "590b607a9dd231408708b9a8976efb5b56f63cdbf637bb4f6e4c99fef92ac1a1",
+      "width": 2560,
+      "height": 1441,
+      "mode": "RGB",
+      "slide": 24,
+      "title": "Gênese do Shen",
+      "lessons": [
+        "M3.5",
+        "M5.3"
+      ],
+      "purpose": "Organização tradicional da relação corpo, vitalidade e psiquismo.",
+      "notes": "As figuras pertencem à escola apresentada; linguagem tradicional e correlação anatômica permanecem identificadas.",
+      "components": [
+        {
+          "ordinal": 1,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L24_F01_genese_do_shen.jpeg",
+          "decorative": false
+        },
+        {
+          "ordinal": 2,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L24_F02_genese_do_shen.jpeg",
+          "decorative": false
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L25_energia_zheng.jpg",
+      "size_bytes": 475603,
+      "sha256": "c2765773362fb13de4053e10a14fc0561932cbecebd8ad5797c6b5ac80d91300",
+      "width": 2560,
+      "height": 1441,
+      "mode": "RGB",
+      "slide": 25,
+      "title": "Energia Zheng e relação dos Jing",
+      "lessons": [
+        "M3.5"
+      ],
+      "purpose": "Constituição e aquisição na organização bioenergética.",
+      "notes": "Aprofundamento docente; não reduzir Jing ou Essência ao rim anatômico.",
+      "components": [
+        {
+          "ordinal": 1,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L25_F01_energia_zheng.jpeg",
+          "decorative": false
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L26_emocoes_orgaos_xin_bao.jpg",
+      "size_bytes": 438742,
+      "sha256": "fb57f38aa949bc65bc12e5b3c566fbcd5dc3261691cb2ff3e444f3f1de825ff4",
+      "width": 2560,
+      "height": 1441,
+      "mode": "RGB",
+      "slide": 26,
+      "title": "Emoções, órgãos e Xin Bao",
+      "lessons": [
+        "M3.5",
+        "M4.1",
+        "M4.2",
+        "M5.3"
+      ],
+      "purpose": "Qualidades psíquicas e sua reunião no modelo.",
+      "notes": "Percepções e emoções são investigadas em contexto; não diagnosticar órgãos por um relato isolado.",
+      "components": [
+        {
+          "ordinal": 1,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L26_F01_emocoes_orgaos_xin_bao.png",
+          "decorative": false
+        },
+        {
+          "ordinal": 2,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L26_F02_emocoes_orgaos_xin_bao.jpeg",
+          "decorative": false
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L27_arvore_jingshen_shen.jpg",
+      "size_bytes": 518469,
+      "sha256": "29145bd4c76b11b040c9e73509c1d29497717b26710e16d38f3b31a097c8ffb4",
+      "width": 2560,
+      "height": 1441,
+      "mode": "RGB",
+      "slide": 27,
+      "title": "Árvore, circulação de Jingshen e formação de Shen",
+      "lessons": [
+        "M1.4",
+        "M3.5",
+        "M4.4",
+        "M5.3",
+        "M6.1"
+      ],
+      "purpose": "Seiva, raiz, tronco e copa em diálogo com a Árvore da Singularidade.",
+      "notes": "A árvore bioenergética e a metáfora autoral do TSH conservam funções e genealogias próprias.",
+      "components": [
+        {
+          "ordinal": 1,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L27_F01_arvore_jingshen_shen.jpeg",
+          "decorative": false
+        },
+        {
+          "ordinal": 2,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L27_F02_arvore_jingshen_shen.jpeg",
+          "decorative": false
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L28_ritmos_e_horarios.jpg",
+      "size_bytes": 664351,
+      "sha256": "3e7771d106e8f1e25cacc0ecc1de8dc4b48a5c52d0a94ad1f6da2f5cc8415fb7",
+      "width": 2560,
+      "height": 1441,
+      "mode": "RGB",
+      "slide": 28,
+      "title": "Ritmos e horários",
+      "lessons": [
+        "M3.3",
+        "M8.2"
+      ],
+      "purpose": "Ritmos da vida e condições de continuidade.",
+      "notes": "Distinguir relógio de canais e mapa de ritmos circadianos; não apresentar equivalência automática.",
+      "components": [
+        {
+          "ordinal": 1,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L28_F01_ritmos_e_horarios.jpeg",
+          "decorative": false
+        },
+        {
+          "ordinal": 2,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L28_F02_ritmos_e_horarios.jpeg",
+          "decorative": false
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L29_sorriso_tan_tien.jpg",
+      "size_bytes": 446684,
+      "sha256": "b4a90c3e84788e03987562b260b0d0046af26894b0e46621b66fc3d0e50ac966",
+      "width": 2560,
+      "height": 1441,
+      "mode": "RGB",
+      "slide": 29,
+      "title": "Sorriso ao Tan Tien inferior",
+      "lessons": [
+        "M1.7",
+        "M3.6",
+        "M4.6",
+        "M5.4"
+      ],
+      "purpose": "Qualidade afetiva da atenção e reunião no inferior.",
+      "notes": "Uso inicial facultativo quando ensinado; P4 se desenvolve em M4/M5. Preservar a atribuição da figura.",
+      "components": [
+        {
+          "ordinal": 1,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L29_F01_sorriso_tan_tien.jpeg",
+          "decorative": false
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L30_canais_yin_membros.jpg",
+      "size_bytes": 512898,
+      "sha256": "4820f24e67784e618e938cc48d0dad8265c5dac551195ac4975285f1d76d3409",
+      "width": 2560,
+      "height": 1441,
+      "mode": "RGB",
+      "slide": 30,
+      "title": "Canais Yin dos membros inferiores",
+      "lessons": [
+        "M3.6",
+        "M6.2",
+        "M6.5"
+      ],
+      "purpose": "Centro, extremidades e trajetos tradicionais.",
+      "notes": "Aprofundamento; a figura não exige memorização dos canais para realizar as formas selecionadas.",
+      "components": [
+        {
+          "ordinal": 1,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L30_F01_canais_yin_membros.jpeg",
+          "decorative": false
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L31_canais_yang_membros.jpg",
+      "size_bytes": 608781,
+      "sha256": "6b843fcf4a07559e7d460f5ac001af00ec45592f53bd642f770774ef2461bc54",
+      "width": 2560,
+      "height": 1441,
+      "mode": "RGB",
+      "slide": 31,
+      "title": "Canais Yang dos membros inferiores",
+      "lessons": [
+        "M3.6",
+        "M6.2",
+        "M6.5"
+      ],
+      "purpose": "Articulação entre apoio, membros e circulação.",
+      "notes": "Aprofundamento; não acrescentar rotas à prática que ainda não foram ensinadas.",
+      "components": [
+        {
+          "ordinal": 1,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L31_F01_canais_yang_membros.jpeg",
+          "decorative": false
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L32_centro_extremidades_campo.jpg",
+      "size_bytes": 465542,
+      "sha256": "6d8471e626fb008de136ae365fa8cfd52cda5b8c92a3fc84b376585337ad8580",
+      "width": 2560,
+      "height": 1441,
+      "mode": "RGB",
+      "slide": 32,
+      "title": "Centro, extremidades e campo",
+      "lessons": [
+        "M3.6",
+        "M6.1",
+        "M7.1"
+      ],
+      "purpose": "Continuidade entre organização individual e expressão.",
+      "notes": "Distinguir figura tradicional, pergunta perceptiva e elaboração relacional.",
+      "components": [
+        {
+          "ordinal": 1,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L32_F01_centro_extremidades_campo.jpeg",
+          "decorative": false
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L33_campo_coracao_cerebro.jpg",
+      "size_bytes": 616929,
+      "sha256": "8a7960fafc0cdc2266887d855367321b9e36ff51f19380971a967d23535b41e9",
+      "width": 2560,
+      "height": 1441,
+      "mode": "RGB",
+      "slide": 33,
+      "title": "Campo, coração e cérebro",
+      "lessons": [
+        "M5.5",
+        "M7.5"
+      ],
+      "purpose": "Imagem comparativa para explorar referência e relação.",
+      "notes": "Fonte composta com atribuições visíveis; não é medição do campo de participantes nem evidência de sintonia cerebral.",
+      "components": [
+        {
+          "ordinal": 1,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L33_F01_campo_coracao_cerebro.jpeg",
+          "decorative": false
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L34_pai_lin_natureza_1.jpg",
+      "size_bytes": 1203219,
+      "sha256": "6b62b44e16a8de9583358138b742b845dfb394e1ff1928aa04e40dd683444475",
+      "width": 2560,
+      "height": 1441,
+      "mode": "RGB",
+      "slide": 34,
+      "title": "Pai Lin, natureza e percepção - parte 1",
+      "lessons": [
+        "M3.5",
+        "M5.6",
+        "M7.5"
+      ],
+      "purpose": "Registro de transmissão e relação com a natureza.",
+      "notes": "Fonte para o professor. O reaproveitamento pedagógico se faz pelo contato com ambiente, árvore ou flor, sem instruir observação direta do Sol.",
+      "components": [
+        {
+          "ordinal": 1,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L34_F01_pai_lin_natureza_1.jpeg",
+          "decorative": false
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L35_pai_lin_natureza_2.jpg",
+      "size_bytes": 821563,
+      "sha256": "af8e2174c285a9bf016c4bbc908b886f4485ccd76ddafa93ead5ee5d0a49d3b8",
+      "width": 2560,
+      "height": 1441,
+      "mode": "RGB",
+      "slide": 35,
+      "title": "Pai Lin, natureza e percepção - parte 2",
+      "lessons": [
+        "M3.5",
+        "M5.6",
+        "M7.5"
+      ],
+      "purpose": "Aprendizagem pela sensação viva e ambiente.",
+      "notes": "Mesma contextualização da lâmina 34; preservar o texto recebido como registro histórico.",
+      "components": [
+        {
+          "ordinal": 1,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L35_F01_pai_lin_natureza_2.jpeg",
+          "decorative": false
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L36_ceu_terra_equilibrio.jpg",
+      "size_bytes": 305524,
+      "sha256": "035c4964d72b8381b44e1b99e43a4fabf0e61569bdb8282267ddd2196aae9e4d",
+      "width": 2560,
+      "height": 1441,
+      "mode": "RGB",
+      "slide": 36,
+      "title": "Céu-Terra e equilíbrio dinâmico",
+      "lessons": [
+        "M1.7",
+        "M3.6",
+        "M6.1",
+        "M7.3",
+        "M8.2"
+      ],
+      "purpose": "Imagem de referência, troca e equilíbrio dinâmico.",
+      "notes": "Eixo como recurso didático; a figura não estabelece um mecanismo neurofisiológico.",
+      "components": [
+        {
+          "ordinal": 1,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L36_F01_ceu_terra_equilibrio.jpeg",
+          "decorative": false
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L37_linha_hara_campo.jpg",
+      "size_bytes": 458105,
+      "sha256": "609cb356a1751c99f83b5b6a448a7abb8146aaba9b6edf9643c2536945786595",
+      "width": 2560,
+      "height": 1441,
+      "mode": "RGB",
+      "slide": 37,
+      "title": "Linha do hara e campo",
+      "lessons": [
+        "M1.7",
+        "M5.5",
+        "M6.1",
+        "M7.3"
+      ],
+      "purpose": "Mapa comparativo de alinhamento e referência.",
+      "notes": "Nomear a perspectiva; não equiparar automaticamente hara, três campos, Self e eixo autoral.",
+      "components": [
+        {
+          "ordinal": 1,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L37_F01_linha_hara_campo.jpeg",
+          "decorative": false
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L38_linha_hara_distorcao.jpg",
+      "size_bytes": 123357,
+      "sha256": "b22c51f6ff43c3d67d8e7e40e217fb2abcbdf8dbd138f2f0ec7fe866225dd23a",
+      "width": 2560,
+      "height": 1441,
+      "mode": "RGB",
+      "slide": 38,
+      "title": "Linha do hara e sua representação de distorção",
+      "lessons": [
+        "M5.5",
+        "M6.3",
+        "M7.3"
+      ],
+      "purpose": "Imagem de uma perspectiva sobre integração.",
+      "notes": "Uso simbólico e comparativo; não classificar ou diagnosticar participantes pelo desenho.",
+      "components": [
+        {
+          "ordinal": 1,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L38_F01_linha_hara_distorcao.png",
+          "decorative": false
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L39_imagem_simbolica_integrativa.jpg",
+      "size_bytes": 1371680,
+      "sha256": "42278aa78cc5700d59212b44bb23202270b5e4e94be1b111280a1b0f88dfe6ab",
+      "width": 2560,
+      "height": 1441,
+      "mode": "RGB",
+      "slide": 39,
+      "title": "Imagem simbólica integrativa",
+      "lessons": [
+        "M5.5",
+        "M5.6"
+      ],
+      "purpose": "Ampliação simbólica da relação entre dimensões.",
+      "notes": "Arquivo preservado; uso eventual na leitura de símbolos, sem fazê-lo evidência de uma cosmologia.",
+      "components": [
+        {
+          "ordinal": 1,
+          "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L39_F01_imagem_simbolica_integrativa.jpeg",
+          "decorative": false
+        }
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L01_F01_qi_gong_e_medicina_chinesa.jpeg",
+      "size_bytes": 34110,
+      "sha256": "5d969d12d239dcb8d477d769e55130dd4fa7883fde997e6cc511388bdf75963b",
+      "width": 703,
+      "height": 800,
+      "mode": "RGB",
+      "xref": 12,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 1,
+          "ordinal": 1,
+          "rectangles": [
+            [
+              -0.0,
+              -0.005,
+              474.48,
+              540.135
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L02_F01_ancestrais_taoistas.jpeg",
+      "size_bytes": 53726,
+      "sha256": "cabdb633a3d8cb94d3f5b255fdbc95d1d524a228582c95c19c8b54b3dfea5b86",
+      "width": 900,
+      "height": 323,
+      "mode": "RGB",
+      "xref": 15,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 2,
+          "ordinal": 1,
+          "rectangles": [
+            [
+              50.4,
+              115.23,
+              909.36,
+              424.91
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L03_F01_linhagem_taoista.jpeg",
+      "size_bytes": 47222,
+      "sha256": "b3d02b18692b30c7bf2ad488c77c737b7859be0fc73ecd43f68df1973bbbd21b",
+      "width": 804,
+      "height": 840,
+      "mode": "RGB",
+      "xref": 18,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 3,
+          "ordinal": 1,
+          "rectangles": [
+            [
+              25.2,
+              40.33,
+              295.2,
+              322.64
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L03_F02_linhagem_taoista.jpeg",
+      "size_bytes": 15724,
+      "sha256": "3547965255639e62253a5f25ccad1d9bdf08638a33a6ba5d7f0b481de028c4eb",
+      "width": 234,
+      "height": 244,
+      "mode": "RGB",
+      "xref": 19,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 3,
+          "ordinal": 2,
+          "rectangles": [
+            [
+              345.6,
+              40.33,
+              615.6,
+              322.64
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L03_F03_linhagem_taoista.jpeg",
+      "size_bytes": 94519,
+      "sha256": "c5fa9d6b0de9ea9b2268712267041b71cb00e7e6b07dc1ec7458b1bb689cd4dc",
+      "width": 960,
+      "height": 1003,
+      "mode": "RGB",
+      "xref": 20,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 3,
+          "ordinal": 3,
+          "rectangles": [
+            [
+              665.28,
+              42.49,
+              934.56,
+              324.08
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L04_F01_fundo_circular.png",
+      "size_bytes": 69774,
+      "sha256": "0dd187698b3ae5f57f74740dfd0fdf7d0634eb86cacd07e57bc9dcd618af5ece",
+      "width": 2000,
+      "height": 1125,
+      "mode": "RGBA",
+      "xref": 60,
+      "soft_mask": true,
+      "decorative": true,
+      "occurrences": [
+        {
+          "slide": 4,
+          "ordinal": 1,
+          "rectangles": [
+            [
+              0.0,
+              0.005,
+              959.76,
+              540.135
+            ]
+          ]
+        },
+        {
+          "slide": 5,
+          "ordinal": 1,
+          "rectangles": [
+            [
+              0.0,
+              0.005,
+              959.76,
+              540.135
+            ]
+          ]
+        },
+        {
+          "slide": 7,
+          "ordinal": 1,
+          "rectangles": [
+            [
+              0.0,
+              0.005,
+              959.76,
+              540.135
+            ]
+          ]
+        },
+        {
+          "slide": 8,
+          "ordinal": 1,
+          "rectangles": [
+            [
+              0.0,
+              0.005,
+              959.76,
+              540.135
+            ]
+          ]
+        },
+        {
+          "slide": 14,
+          "ordinal": 1,
+          "rectangles": [
+            [
+              0.0,
+              0.005,
+              959.76,
+              540.135
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L04_F02_respiracao_abdominal.jpeg",
+      "size_bytes": 8838,
+      "sha256": "274c9656ce3404107fa5b4b8ff075e2079918f9011b3a14eaa8b145263dabe84",
+      "width": 224,
+      "height": 213,
+      "mode": "RGB",
+      "xref": 67,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 4,
+          "ordinal": 2,
+          "rectangles": [
+            [
+              291.6,
+              38.885,
+              668.16,
+              501.245
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L05_F02_sopro_e_centro_inferior.jpeg",
+      "size_bytes": 7436,
+      "sha256": "f11845248a5d5c99017e0b6f496b7b3a8967506d874647bc04d4dcd19bc1fa83",
+      "width": 264,
+      "height": 191,
+      "mode": "RGB",
+      "xref": 112,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 5,
+          "ordinal": 2,
+          "rectangles": [
+            [
+              254.88,
+              66.975,
+              684.72,
+              459.475
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L06_F01_orbita_macrocosmica.jpeg",
+      "size_bytes": 74586,
+      "sha256": "8d75318b3b70cdd9e9dc0aac8f556d0e5bcbd4805f166085b53defb532001660",
+      "width": 638,
+      "height": 903,
+      "mode": "RGB",
+      "xref": 115,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 6,
+          "ordinal": 1,
+          "rectangles": [
+            [
+              176.4,
+              0.001,
+              841.68,
+              566.061
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L07_F02_pontos_anteriores_posteriores.jpeg",
+      "size_bytes": 12206,
+      "sha256": "2628bf33b66dbdfcaa5311f829fa383810f163914987629e6f22c011dda6ca02",
+      "width": 310,
+      "height": 320,
+      "mode": "RGB",
+      "xref": 160,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 7,
+          "ordinal": 2,
+          "rectangles": [
+            [
+              281.52,
+              33.129,
+              675.36,
+              514.929
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L08_F02_tres_dantian.png",
+      "size_bytes": 74158,
+      "sha256": "d3525bc92155466df4927a50b0d4edb5d5e283ba18f650e0ddd41858e4a1e7b6",
+      "width": 394,
+      "height": 562,
+      "mode": "RGB",
+      "xref": 205,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 8,
+          "ordinal": 2,
+          "rectangles": [
+            [
+              283.68,
+              0.003,
+              636.48,
+              532.213
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L09_F01_circulacao_microcosmica.jpeg",
+      "size_bytes": 14284,
+      "sha256": "540d63d1045779a1645b20d0194dbd229311f5c092076b47b4d86082dd9f8fa4",
+      "width": 297,
+      "height": 270,
+      "mode": "RGB",
+      "xref": 209,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 9,
+          "ordinal": 1,
+          "rectangles": [
+            [
+              408.96,
+              15.12,
+              940.32,
+              522.13
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L10_F01_campos_e_consciencia.png",
+      "size_bytes": 179606,
+      "sha256": "4667f9223a0c86024dea5155d8faf4609e629761253d837f293e9c797c8e1937",
+      "width": 1280,
+      "height": 737,
+      "mode": "RGB",
+      "xref": 212,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 10,
+          "ordinal": 1,
+          "rectangles": [
+            [
+              0.0,
+              0.005,
+              959.76,
+              540.135
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L11_F01_centros_e_campo.jpeg",
+      "size_bytes": 47938,
+      "sha256": "6646da7b4603864d00125ceae73b5381f27c792cee5141cdebd99b4d5a342b20",
+      "width": 509,
+      "height": 743,
+      "mode": "RGB",
+      "xref": 215,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 11,
+          "ordinal": 1,
+          "rectangles": [
+            [
+              192.24,
+              7.203,
+              721.44,
+              533.653
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L12_F01_orbita_sequencia_da_fonte.jpeg",
+      "size_bytes": 94072,
+      "sha256": "2442273988ec8fe04d166b80d1c3338fb75d3a57ea1bd9385c92826e457b5305",
+      "width": 1011,
+      "height": 656,
+      "mode": "RGB",
+      "xref": 218,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 12,
+          "ordinal": 1,
+          "rectangles": [
+            [
+              33.12,
+              14.405,
+              920.88,
+              540.135
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L13_F01_campos_e_chong_mai.jpeg",
+      "size_bytes": 52976,
+      "sha256": "ec43e46e5ccd1e7d44e633082380014bac48668325aac1960f7029efe0c9adf2",
+      "width": 555,
+      "height": 874,
+      "mode": "RGB",
+      "xref": 221,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 13,
+          "ordinal": 1,
+          "rectangles": [
+            [
+              622.08,
+              190.846,
+              822.24,
+              505.566
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L14_F02_orbita_e_outras_tradicoes.jpeg",
+      "size_bytes": 27627,
+      "sha256": "7eaa38032598a9e06116921692d5d82cbfd66e335fc72284a8f56e07abdc1d47",
+      "width": 333,
+      "height": 580,
+      "mode": "RGB",
+      "xref": 229,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 14,
+          "ordinal": 2,
+          "rectangles": [
+            [
+              366.48,
+              92.903,
+              572.4,
+              450.833
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L15_F01_sombra_de_quadro.png",
+      "size_bytes": 5698,
+      "sha256": "b007fbcb1c50ecf723de34de980d91bcb2a613eb995af0de52c02edcf34444c3",
+      "width": 1245,
+      "height": 661,
+      "mode": "RGBA",
+      "xref": 233,
+      "soft_mask": true,
+      "decorative": true,
+      "occurrences": [
+        {
+          "slide": 15,
+          "ordinal": 1,
+          "rectangles": [
+            [
+              31.68,
+              33.12,
+              927.72,
+              508.68
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L15_F02_shaoyin_e_chong_mai.jpeg",
+      "size_bytes": 81822,
+      "sha256": "c4b153828c92e0e7ad60e87e9f1d16784a16ff85cbb47721f6cc3845c311f701",
+      "width": 1282,
+      "height": 1545,
+      "mode": "RGB",
+      "xref": 235,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 15,
+          "ordinal": 2,
+          "rectangles": [
+            [
+              77.04,
+              50.412,
+              441.36,
+              489.002
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L15_F03_shaoyin_e_chong_mai.jpeg",
+      "size_bytes": 55739,
+      "sha256": "e489e404b6b14a168f96969ce5996a42495610f791ae89567507586cc689837f",
+      "width": 768,
+      "height": 960,
+      "mode": "RGB",
+      "xref": 236,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 15,
+          "ordinal": 3,
+          "rectangles": [
+            [
+              525.6,
+              50.412,
+              876.24,
+              489.002
+            ]
+          ]
+        },
+        {
+          "slide": 23,
+          "ordinal": 1,
+          "rectangles": [
+            [
+              115.2,
+              190.846,
+              366.48,
+              505.566
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L16_F01_estresse_hpa_fonte_historica.jpeg",
+      "size_bytes": 248522,
+      "sha256": "6d18cb7a55a687366369ce0fb182eba3f56978fb41eee7dc637945d98c6c38a8",
+      "width": 2560,
+      "height": 1440,
+      "mode": "RGB",
+      "xref": 239,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 16,
+          "ordinal": 1,
+          "rectangles": [
+            [
+              0.0,
+              0.005,
+              959.76,
+              540.135
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L17_F01_fundo_circular_alternativo.png",
+      "size_bytes": 67439,
+      "sha256": "93f12898a8673478c884af55e88f5d29e85b27848b3f56127e301743593a2ebb",
+      "width": 1920,
+      "height": 1080,
+      "mode": "RGBA",
+      "xref": 253,
+      "soft_mask": true,
+      "decorative": true,
+      "occurrences": [
+        {
+          "slide": 17,
+          "ordinal": 1,
+          "rectangles": [
+            [
+              0.0,
+              -0.005,
+              959.76,
+              540.135
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L17_F02_estresse_funcoes_fonte_historica.jpeg",
+      "size_bytes": 61899,
+      "sha256": "2487089bd67e251fe9f43ed3e7d6fca900d0de0a6d9dc80fa11d882c57b113f5",
+      "width": 899,
+      "height": 1173,
+      "mode": "RGB",
+      "xref": 255,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 17,
+          "ordinal": 2,
+          "rectangles": [
+            [
+              26.64,
+              63.375,
+              350.64,
+              540.135
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L19_F01_jing_inato.jpeg",
+      "size_bytes": 166522,
+      "sha256": "66e3a26cbc71bf0fac9281d05304764f56530f879da2c64f26576d7eeab9ad7d",
+      "width": 2087,
+      "height": 1565,
+      "mode": "RGB",
+      "xref": 262,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 19,
+          "ordinal": 1,
+          "rectangles": [
+            [
+              94.32,
+              59.882,
+              884.88,
+              489.002
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L20_F01_jing_inato_adquirido.png",
+      "size_bytes": 141717,
+      "sha256": "4262e93b6f7c71d67f22a6aad45c4a7297496fc89af0dadc9acfa7a850ba88bf",
+      "width": 2548,
+      "height": 1600,
+      "mode": "RGB",
+      "xref": 265,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 20,
+          "ordinal": 1,
+          "rectangles": [
+            [
+              51.84,
+              50.413,
+              902.86,
+              488.993
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L21_F01_embriogenese_energetica.png",
+      "size_bytes": 350747,
+      "sha256": "075f459e93bd51b0edc7c69a75e5edf2b3529fb88d2aa833df3703f7219f0eeb",
+      "width": 2560,
+      "height": 1600,
+      "mode": "RGB",
+      "xref": 268,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 21,
+          "ordinal": 1,
+          "rectangles": [
+            [
+              77.04,
+              37.445,
+              895.68,
+              501.965
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L22_F01_jingshen_circulacao.jpeg",
+      "size_bytes": 208812,
+      "sha256": "4d1715b2dd82f7a7f7028f0c80042a57404ff26526dc2364a8433d27e78d3231",
+      "width": 2560,
+      "height": 1600,
+      "mode": "RGB",
+      "xref": 271,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 22,
+          "ordinal": 1,
+          "rectangles": [
+            [
+              67.68,
+              50.412,
+              878.4,
+              489.002
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L23_F02_rim_nao_grande_circulacao.jpeg",
+      "size_bytes": 62848,
+      "sha256": "bcb7674a3e7ce7f6940d9136658274833f12da74428f71d3f0553ea4ad62b9c6",
+      "width": 1191,
+      "height": 812,
+      "mode": "RGB",
+      "xref": 274,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 23,
+          "ordinal": 2,
+          "rectangles": [
+            [
+              507.6,
+              202.374,
+              936.72,
+              494.764
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L24_F01_genese_do_shen.jpeg",
+      "size_bytes": 73014,
+      "sha256": "7a30656de23c88e02b297f7c5aa7d447ce1063b8c751462120ef9369604de058",
+      "width": 1193,
+      "height": 832,
+      "mode": "RGB",
+      "xref": 282,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 24,
+          "ordinal": 1,
+          "rectangles": [
+            [
+              25.92,
+              198.775,
+              455.76,
+              498.365
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L24_F02_genese_do_shen.jpeg",
+      "size_bytes": 82365,
+      "sha256": "a444bf1f73eafa12e16614ae9237f152ae34b50497c12e8011de29f0aaf88999",
+      "width": 1191,
+      "height": 832,
+      "mode": "RGB",
+      "xref": 283,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 24,
+          "ordinal": 2,
+          "rectangles": [
+            [
+              507.6,
+              198.772,
+              936.72,
+              498.362
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L25_F01_energia_zheng.jpeg",
+      "size_bytes": 125801,
+      "sha256": "39c42cc317a2ce7e5badf5f4f5cbffe5db0e5625ac76084fa3bc55c2f74e0372",
+      "width": 1833,
+      "height": 1303,
+      "mode": "RGB",
+      "xref": 286,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 25,
+          "ordinal": 1,
+          "rectangles": [
+            [
+              67.68,
+              50.412,
+              897.84,
+              489.002
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L26_F01_emocoes_orgaos_xin_bao.png",
+      "size_bytes": 131741,
+      "sha256": "cdf1d1901fc63ed331797766dde6d3f817a1e13f4e923305412bd9e2e888398f",
+      "width": 1193,
+      "height": 832,
+      "mode": "RGB",
+      "xref": 289,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 26,
+          "ordinal": 1,
+          "rectangles": [
+            [
+              25.92,
+              198.772,
+              455.76,
+              498.362
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L26_F02_emocoes_orgaos_xin_bao.jpeg",
+      "size_bytes": 67299,
+      "sha256": "eda6002fa501db3b575ecaae57c58608ca8726bee42632d56648143c357220be",
+      "width": 1191,
+      "height": 850,
+      "mode": "RGB",
+      "xref": 290,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 26,
+          "ordinal": 2,
+          "rectangles": [
+            [
+              507.6,
+              195.165,
+              936.72,
+              501.245
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L27_F01_arvore_jingshen_shen.jpeg",
+      "size_bytes": 77322,
+      "sha256": "8b429f643b9875dc3c4e5be3b37619344df64e7bd29a86c1fde781ebd14f178e",
+      "width": 1193,
+      "height": 862,
+      "mode": "RGB",
+      "xref": 293,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 27,
+          "ordinal": 1,
+          "rectangles": [
+            [
+              25.92,
+              193.006,
+              455.76,
+              503.406
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L27_F02_arvore_jingshen_shen.jpeg",
+      "size_bytes": 86438,
+      "sha256": "865886b9347d708dc699d7bfa090bce74b60ceb9fd725e7a75c947489626f240",
+      "width": 1191,
+      "height": 834,
+      "mode": "RGB",
+      "xref": 294,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 27,
+          "ordinal": 2,
+          "rectangles": [
+            [
+              507.6,
+              198.054,
+              936.72,
+              498.364
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L28_F01_ritmos_e_horarios.jpeg",
+      "size_bytes": 60585,
+      "sha256": "7e8ecbd84855fcfda1ee3a39145661409721f7fa56e39baf8b46418b91d1d23b",
+      "width": 818,
+      "height": 571,
+      "mode": "RGB",
+      "xref": 297,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 28,
+          "ordinal": 1,
+          "rectangles": [
+            [
+              -0.0,
+              0.0,
+              479.52,
+              334.88
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L28_F02_ritmos_e_horarios.jpeg",
+      "size_bytes": 67445,
+      "sha256": "fdadffe67ce24a68202d595f8b9d89d64d6f06de65fc4bab4cd73487e298cb50",
+      "width": 829,
+      "height": 579,
+      "mode": "RGB",
+      "xref": 298,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 28,
+          "ordinal": 2,
+          "rectangles": [
+            [
+              479.52,
+              0.0,
+              959.76,
+              334.88
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L29_F01_sorriso_tan_tien.jpeg",
+      "size_bytes": 188843,
+      "sha256": "1bc28a720d522ab9a87cb3a86ef33402cc3fdefdee47d7d5d3eb6b65471b4b22",
+      "width": 1164,
+      "height": 1600,
+      "mode": "RGB",
+      "xref": 301,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 29,
+          "ordinal": 1,
+          "rectangles": [
+            [
+              280.8,
+              50.412,
+              721.44,
+              489.002
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L30_F01_canais_yin_membros.jpeg",
+      "size_bytes": 126161,
+      "sha256": "4912cd1d23b5e2e26ef43e6c3dc07891d41ccf9b503d8fb739605aa1be41f36a",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGB",
+      "xref": 304,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 30,
+          "ordinal": 1,
+          "rectangles": [
+            [
+              105.12,
+              50.412,
+              871.2,
+              489.002
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L31_F01_canais_yang_membros.jpeg",
+      "size_bytes": 147086,
+      "sha256": "6e61d5cd989fa435c875ee37c0790700b683d76c4e9418fb24f5131e6fcde40e",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGB",
+      "xref": 307,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 31,
+          "ordinal": 1,
+          "rectangles": [
+            [
+              99.36,
+              50.412,
+              864.72,
+              489.002
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L32_F01_centro_extremidades_campo.jpeg",
+      "size_bytes": 68873,
+      "sha256": "6e13ccdb5538bf0ad3d345eab8d2e3960902f448141589702cd4a82ffd2bedc7",
+      "width": 627,
+      "height": 593,
+      "mode": "RGB",
+      "xref": 310,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 32,
+          "ordinal": 1,
+          "rectangles": [
+            [
+              94.32,
+              50.412,
+              876.24,
+              489.002
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L33_F01_campo_coracao_cerebro.jpeg",
+      "size_bytes": 49948,
+      "sha256": "3571f7ba1ffa97e01fac77b99b1b503d3ace2cd480078b72e68e68ab4a265c55",
+      "width": 470,
+      "height": 426,
+      "mode": "RGB",
+      "xref": 313,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 33,
+          "ordinal": 1,
+          "rectangles": [
+            [
+              365.04,
+              -0.0,
+              959.76,
+              540.13
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L34_F01_pai_lin_natureza_1.jpeg",
+      "size_bytes": 169627,
+      "sha256": "e6cb8cb036589890c3040102e5d9e018231edbf5abb2ed360e6d6e730748267c",
+      "width": 808,
+      "height": 1198,
+      "mode": "RGB",
+      "xref": 316,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 34,
+          "ordinal": 1,
+          "rectangles": [
+            [
+              0.0,
+              0.005,
+              365.03,
+              540.135
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L35_F01_pai_lin_natureza_2.jpeg",
+      "size_bytes": 5083,
+      "sha256": "3914daaab7c1af71d5a54e6b4bc3d1e146ece026164e60e7aaa54626ce9e78bb",
+      "width": 279,
+      "height": 181,
+      "mode": "RGB",
+      "xref": 319,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 35,
+          "ordinal": 1,
+          "rectangles": [
+            [
+              0.0,
+              0.0,
+              959.76,
+              262.87
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L36_F01_ceu_terra_equilibrio.jpeg",
+      "size_bytes": 70564,
+      "sha256": "9b084a4ecac45b9084590614697a928a40953da139a2450210a657c6cf7563ef",
+      "width": 1280,
+      "height": 617,
+      "mode": "RGB",
+      "xref": 322,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 36,
+          "ordinal": 1,
+          "rectangles": [
+            [
+              0.0,
+              0.005,
+              959.76,
+              540.135
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L37_F01_linha_hara_campo.jpeg",
+      "size_bytes": 77233,
+      "sha256": "2102026e45ebd271ee83d06fef6a69e2447f52249eb6381e542419795dbca71e",
+      "width": 1280,
+      "height": 748,
+      "mode": "RGB",
+      "xref": 325,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 37,
+          "ordinal": 1,
+          "rectangles": [
+            [
+              0.0,
+              0.002,
+              959.76,
+              526.452
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L38_F01_linha_hara_distorcao.png",
+      "size_bytes": 62944,
+      "sha256": "a008df606a302e3c42aabf444640767babe56c022d64ba8ea1b303f9270354fd",
+      "width": 1280,
+      "height": 755,
+      "mode": "RGB",
+      "xref": 328,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 38,
+          "ordinal": 1,
+          "rectangles": [
+            [
+              0.0,
+              0.005,
+              959.76,
+              540.135
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Figuras/QG_L39_F01_imagem_simbolica_integrativa.jpeg",
+      "size_bytes": 246249,
+      "sha256": "7ef5cf31ea6d70d725a76a62b273ab1a9f98332e2b6393e487a9d6e2d8fa994a",
+      "width": 1000,
+      "height": 855,
+      "mode": "RGB",
+      "xref": 331,
+      "soft_mask": false,
+      "decorative": false,
+      "occurrences": [
+        {
+          "slide": 39,
+          "ordinal": 1,
+          "rectangles": [
+            [
+              37.44,
+              37.445,
+              922.32,
+              501.965
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "rohden": [
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Rohden/RH_p019_concentracao_e_retorno.jpeg",
+      "size_bytes": 19467,
+      "sha256": "7b07a25738bede9fec41a35f891f8ed94a99c20bd649e9d3ead0fe3092db4bbe",
+      "width": 773,
+      "height": 350,
+      "mode": "RGB",
+      "pdf_page": 19,
+      "title": "concentracao_e_retorno",
+      "lessons": [
+        "M5.4",
+        "M6.1"
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Rohden/RH_p039_referencia_e_vida.jpeg",
+      "size_bytes": 17588,
+      "sha256": "3b934799d85cb46bb5e49a3d5f4ead0c17573a3166137d1bda2f7996754c18a5",
+      "width": 649,
+      "height": 415,
+      "mode": "RGB",
+      "pdf_page": 39,
+      "title": "referencia_e_vida",
+      "lessons": [
+        "M1.7",
+        "M5.3",
+        "M6.1",
+        "M7.1",
+        "M8.2"
+      ]
+    }
+  ],
+  "counts": {
+    "slides": 39,
+    "unique_figures": 48,
+    "figure_occurrences": 53,
+    "rohden_diagrams": 2
+  }
+}

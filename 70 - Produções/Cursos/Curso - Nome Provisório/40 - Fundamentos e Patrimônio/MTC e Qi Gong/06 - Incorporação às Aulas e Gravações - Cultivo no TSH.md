@@ -105,6 +105,12 @@ O total varia com as escolhas de condução. A avaliação evita atribuir a cada
 | M8.2 | Organizar plano pessoal e aprofundamento. | P8; fala K; desenho da prática integral personalizado. |
 | M8.3 | Apresentar possibilidades de continuidade. | Distinguir manutenção da base, estudo de séries completas e aprofundamentos orientados. |
 
+### Fontes visuais e Rohden por módulo
+
+Na tabela das 54 aulas, recuperar os arquivos pela entrada do módulo correspondente: [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M0 - Orientação e condições de participação|M0]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M1 - Experiência, assimilação e referência|M1]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M2 - Percepção e tradução|M2]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M3 - Corpo, vitalidade e cultivo|M3]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M4 - Emoções, padrões e participação|M4]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M5 - Valores, interiorização e espiritualidade|M5]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M6 - Integração e coerência possível|M6]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M7 - Expressão, relação e limites|M7]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M8 - Continuidade e revisão|M8]]. O catálogo relaciona número da lâmina, componentes extraídos e condição de uso; a nota 07 relaciona passagens de Rohden. M2 retoma figuras da preparação conhecida para comparar percepção. M3 aprofunda os mapas já apresentados; M6.5 conserva o ensino orientado da órbita.
+
+As figuras de Rohden em PDF 19/39 estão disponíveis para M5.4 e M1.7/M5.3, com retomadas em integração, relações e continuidade. Seu papel é filosófico, espiritual e pedagógico; a técnica de circulação continua nas fontes e na demonstração de Fabiano.
+
 ## 3. Blocos orais para incorporação
 
 As falas abaixo são textos de trabalho para a voz de Fabiano. As referências detalhadas ficam nas notas e no caderno de fundamentação. Quando acompanharem o PowerPoint transversal, manter a correspondência de conteúdo e condução.
@@ -117,7 +123,7 @@ Talvez você perceba um ajuste nos ombros, no apoio ou na maneira de dirigir a a
 
 Essa é uma das razões para termos práticas ao longo do TSH. Queremos desenvolver familiaridade, linguagem e possibilidade de participação. Vamos começar com poucos elementos e voltar a eles com mais compreensão. A experiência refina o que entendemos, e o que entendemos pode orientar uma nova experiência.”
 
-**Condução:** realizar P1; reservar a explicação mais extensa de Qi e dos mapas para M3. **Tela:** “Repetir permite perceber novas diferenças”. **Fonte:** Ernesto e experiência corporificada; prática integral, PDF 161/173.
+**Condução:** realizar P1 ou a comparação P1B; M1.4 apresenta inicialmente Qi, três campos e Rim-Nao; M3 aprofunda os mapas e a linguagem já encontrados. **Tela:** “Repetir permite perceber novas diferenças”. **Fonte:** Ernesto e experiência corporificada; prática integral, PDF 161/173.
 
 ### B. M1.4 — A linguagem de Qi e a experiência
 
@@ -296,3 +302,7 @@ Os roteiros textuais M0.2/M0.3/M1.1 e o apoio do participante foram atualizados 
 ### Fonte autoral recuperada e ampliação sensorial
 
 [[08 - Mapas Rim Nao e Interocepção - Leitura e Incorporação]] identifica as lâminas a recuperar para M1/M3/M5/M6 e redige as falas de ligação. P1B acrescenta uma comparação perceptiva à mesma base. A leitura do PDF de interocepção também fornece redações proporcionais às afirmações sobre estresse; preservar os originais e usar a revisão docente ao montar a fala científica. A fonte recuperada já está disponível como PDF; a produção das telas atuais permanece uma etapa própria.
+
+### Imagens extraídas disponíveis - 13/11/2026
+
+[[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos|00 - Catálogo de Imagens e Destinos]] resolve a disponibilidade dos arquivos visuais para montagem: 39 lâminas, 48 figuras distintas da apresentação e dois diagramas de Rohden, com origem e destinos. A fonte histórica não foi reescrita. A composição final nas aulas, a revisão de legendas e a sincronização dos PPTX/roteiros/notas/entregáveis seguem a produção de cada aula.

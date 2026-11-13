@@ -3,12 +3,17 @@ tipo: porta-de-entrada-de-contexto
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: referencia-atual-revisavel
-versao: "4.3"
+versao: "4.4"
 criado_em: 2026-07-21
 atualizado_em: 2026-11-13
 autor: Fabiano Deliberalli
 autoridade_de_decisao: Fabiano Deliberalli
 ---
+
+
+## Rohden e imagens recuperáveis - 13/11/2026
+
+[[07 - Rohden - Assimilação Centro e Vida Cotidiana]] confere o exemplar e suas contribuições; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos|00 - Catálogo de Imagens e Destinos]] disponibiliza 39 lâminas, 48 figuras da apresentação e dois diagramas de Rohden, com destinos M0-M8. Recuperar para M1.3/M1.4/M1.7 e demais aulas pertinentes. Fonte visual disponível não declara PPTX das aulas reeditados. Atualização na ramificação do PR #58.
 
 ## Cultivo corporal, energético e contemplativo — 13/11/2026
 

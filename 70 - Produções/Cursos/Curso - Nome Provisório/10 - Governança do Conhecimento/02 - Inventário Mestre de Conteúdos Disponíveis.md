@@ -3,13 +3,20 @@ tipo: inventario-mestre-conteudos
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: referencia-de-busca-revisavel
-versao: "1.2"
+versao: "1.3"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-21
 atualizado_em: 2026-11-13
 relacionado_a: 01 - Reconciliação da Governança do Conhecimento e Disponibilidade do Acervo
 ---
 
+
+
+## Rohden e imagens para produção - conferência de 13/11/2026
+
+[[07 - Rohden - Assimilação Centro e Vida Cotidiana]] documenta o exemplar integral identificado de Rohden, os trechos escolhidos e o papel de cada um no curso. [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos|00 - Catálogo de Imagens e Destinos]] disponibiliza 39 lâminas, 48 figuras distintas da apresentação e os diagramas de Rohden das páginas 19/39. Recuperação por módulo: [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M0 - Orientação e condições de participação|M0]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M1 - Experiência, assimilação e referência|M1]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M2 - Percepção e tradução|M2]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M3 - Corpo, vitalidade e cultivo|M3]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M4 - Emoções, padrões e participação|M4]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M5 - Valores, interiorização e espiritualidade|M5]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M6 - Integração e coerência possível|M6]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M7 - Expressão, relação e limites|M7]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M8 - Continuidade e revisão|M8]].
+
+Os cadernos 04/05/06/07/08 fornecem fundamento, condução, destinos e fontes; o catálogo fornece os arquivos visuais. A base começa em M0.2, os três campos e Rim-Nao aparecem inicialmente em M1.4, M2 refina a percepção, M3 aprofunda e M6.5/encontro M6 ensinam a órbita. A seleção de imagens preserva essa progressão. Disponibilidade de fonte, incorporação textual e edição final de cada aula permanecem estados distintos.
 
 ## Preservação na troca de chat — 13/11/2026
 
@@ -102,6 +109,8 @@ Procurar: Matriz de extração com números dos slides e notas derivadas.
 Leitura: Destinos e números antigos não governam 9/54. Extração textual não garante acesso à apresentação integral nem licença de imagens.
 
 ### R06 — Fundamentação atual de MTC e Qi Gong
+
+[[08 - Mapas Rim Nao e Interocepção - Leitura e Incorporação]] reúne a leitura da apresentação e a contribuição de interocepção; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos|00 - Catálogo de Imagens e Destinos]] dá acesso às lâminas e figuras por módulo. Os cadernos 01-06 organizam progressão, movimentos, fontes, condução e as 54 aulas.
 
 Conectar tradição, formação autoral, intenções da prática, demonstração e observação do participante.
 
@@ -299,6 +308,8 @@ Procurar: Notas de partes e proteção, mente corporificada e interocepção; pr
 Leitura: Notas pessoais não são obras originais nem protocolos completos. A nota de auto-hipnose contém apenas cinco tópicos; não foi localizado nela um roteiro prático pronto.
 
 ### R23 — Biblioteca integral e filosófica
+
+[[07 - Rohden - Assimilação Centro e Vida Cotidiana]] — leitura e aplicação do exemplar completo de *Rumo à Consciência Cósmica*, [[70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Huberto Rohden - Rumo à Consciência Cósmica.pdf|92 páginas de PDF]]. Assimilação, Eu/ego, concentração, referência interior e presença cotidiana; destinos principais M1/M5/M6/M7/M8. O apoio a M0/M2/M3/M4 é proporcional à função registrada, sem tornar uma leitura obrigatória em todos os módulos.
 
 Ampliar comparação entre perspectivas e apoiar aprofundamentos selecionados.
 

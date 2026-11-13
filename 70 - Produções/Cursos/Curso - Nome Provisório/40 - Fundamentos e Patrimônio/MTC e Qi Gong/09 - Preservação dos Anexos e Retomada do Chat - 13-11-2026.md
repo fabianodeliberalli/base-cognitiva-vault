@@ -9,6 +9,24 @@ escopo: fundamentacao-e-praticas-corporais-energeticas-contemplativas
 
 # Preservação dos anexos e retomada do chat — 13/11/2026
 
+## Conferência de Rohden, incorporações e imagens - 13/11/2026
+
+Solicitação atual: verificar resgate de Rohden, compatibilidade com a construção do chat anterior e recuperação para aulas e fundamentação; disponibilizar também as imagens do PowerPoint.
+
+| Frente | Resultado da conferência | Providência e estado |
+| --- | --- | --- |
+| Original de Rohden | Um livro completo identificado, 92 páginas; anexo e cópia da main idênticos por blob Git. Nenhum outro original do autor foi identificado nas buscas e no histórico específico disponíveis. | Leitura temática já desenvolvida em 07; acrescidos conferência, rota M0-M8 e acesso às figuras 19/39. Não afirmar inventário exaustivo de mensagens não exportadas. |
+| Qualidade da incorporação | 07 já continha quatorze passagens, correlações e três unidades de aprendizagem; 06 possuía 54 destinos e oito encontros. | Preservadas contribuições filosóficas e espirituais, linguagem própria das tradições e elaboração autoral de Fabiano. Sem tornar Eu, Dantian, Shen ou eixo sinônimos. |
+| Último desenvolvimento anterior | Treze caminhos do PR #57 comparados à consolidação #58; suas fontes e desenvolvimentos já estão preservados nessa base. | Mantidos 08, P1B, as falas e a progressão M0.2/M1.4/M3/M6.5. As revisões atuais acrescentam rotas e imagens sem substituir a evolução anterior. |
+| Imagens da apresentação | PDF íntegro, 39 páginas. Extraídas 48 imagens distintas, com 53 ocorrências; renderizadas todas as 39 lâminas, inclusive a de texto/formas sem imagem raster. | [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos|00 - Catálogo de Imagens e Destinos]] contém os arquivos e os destinos por módulo; conserva imagens tradicionais, fontes comparativas, decorativas e históricas com seu papel identificado. |
+| Imagens de Rohden | Dois diagramas embutidos no corpo do livro, PDF 19 e 39. | Extraídos para recuperação independente e vinculados à leitura, às aulas e ao catálogo. Capa e retrato biográfico continuam preservados no PDF integral. |
+| Caminhos de resgate | Entradas anteriores nem sempre apontavam diretamente a 07/08 ou a arquivos individuais. | Atualizados inventário R06/R23, matriz, práticas por módulo, entrada do curso, ficha mínima, estado M1 e cadernos 00/04/06/07/08. |
+| Edição final das aulas | As incorporações textuais e as fontes visuais não significam que os PPTX/DOCX/PDF das aulas já tenham sido reeditados. | Essa pendência continua explícita; o PPTM editável e a transcrição literal integral do chat também permanecem ausentes. |
+
+Os anexos de taoismo, pontos, postura e a sexta transcrição conservam o estado indicado no inventário abaixo: preservação não os transforma em leitura integral ou incorporação concluída. Não foi encontrada perda dos desenvolvimentos documentados nos arquivos comparados; o alcance da conferência continua limitado às fontes efetivamente recuperadas.
+
+O conjunto desta atualização fica na ramificação do PR #58. A main permanece no commit `2aff8b4a4efdcc6ed5e4b18abee6de24d40f21d1`; não declarar a integração enquanto ela não ocorrer. O histórico de preservação abaixo é mantido.
+
 Fabiano solicitou preservar o trabalho do chat anterior e os anexos ao abrir esta conversa por limite de utilização. A recuperação identificou a frente de fundamentação e incorporação das práticas corporais, energéticas e contemplativas ao TSH, correspondente ao histórico disponível de “Fundamentação Aulas Práticas TSH”. O título não foi confirmado por uma exportação integral da conversa.
 
 Este registro reúne o estado verificável do repositório, os arquivos efetivamente recuperados e os trechos de continuidade disponíveis. Não constitui transcrição literal integral do chat nem comprova acesso a mensagens ou anexos que não apareceram nas fontes recuperadas.
