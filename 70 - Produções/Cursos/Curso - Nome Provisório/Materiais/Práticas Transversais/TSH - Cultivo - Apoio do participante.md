@@ -64,3 +64,14 @@ Uma experiência importante pode precisar de tempo para ganhar linguagem e integ
 **Quando vou rever este plano:**
 
 Seu plano pode mudar com a experiência e com as condições da vida. A continuidade se constrói pelo sentido de praticar, pelas descobertas e pelos ajustes que você consegue sustentar.
+
+
+## Cultivo interno e modos de atenção
+
+Ao longo do percurso, você conhecerá três Tan Tien, campos de cultivo da tradição chinesa, e aprenderá a reconhecer a versão apresentada. Começamos ganhando familiaridade com o centro inferior e com a possibilidade de reunir a atenção e concluir.
+
+Nas práticas de quietude, o professor explicará se a proposta é acompanhar uma referência, observar o que aparece ou investigar uma questão. Perceber que se distraiu também faz parte da aprendizagem. Haverá momentos para observar e momentos para elaborar o sentido do que viveu.
+
+A órbita microcósmica será ensinada de maneira orientada, a partir da preparação desenvolvida. Conheceremos o trajeto e como começar, acompanhar, reunir e concluir a versão praticada. Uma alternativa preparatória continuará disponível. Seu plano de continuidade utiliza o que foi efetivamente aprendido.
+
+Um pensamento ou uma impressão intuitiva pode ser acolhido e investigado. Registrar o vivido, considerar o contexto e voltar aos efeitos na vida ajuda a refinar sua compreensão.

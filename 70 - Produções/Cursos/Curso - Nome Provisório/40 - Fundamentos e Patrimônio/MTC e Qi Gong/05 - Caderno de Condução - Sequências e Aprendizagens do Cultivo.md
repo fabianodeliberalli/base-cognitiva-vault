@@ -60,6 +60,20 @@ Retome uma percepção mais ampla do corpo. Como estão os pés, as mãos e o ro
 
 **Variação de aprendizagem:** comparar atenção muito localizada e atenção que inclui apoio. O aluno relata o que muda sem atribuir valor automático a uma forma. Coordenações respiratórias específicas são ensinadas quando pertencem à prática escolhida.
 
+### P2C. Três Tan Tien — familiarização interna e reunião
+
+**Entrada:** M3.6, retomada em M5/M6. **Proposta de tempo:** 8–10 min dentro do bloco da aula, ajustável. **Finalidade:** reconhecer três campos de cultivo e a relação entre eles, com uma conclusão no centro inferior. Esta é uma composição introdutória do TSH, fundamentada nas referências de 04, seção 13; não é anunciada como transmissão integral de um método de Pai Lin, Yang ou Chia.
+
+**Preparação, 2 min:** postura conhecida, apoio e respiração confortável. Identificar no desenho e no próprio corpo as regiões da versão ensinada. O campo é interno; o gesto sobre a superfície oferece uma referência aproximada.
+
+**Exploração, 4–5 min:** permanecer inicialmente com a região inferior. Em seguida, aproximar atenção da região média e brevemente da superior, conservando o contato com o conjunto do corpo. Para esta primeira aprendizagem, não exigir permanências iguais nem dirigir pressão, respiração ou esforço para a cabeça. O professor explica que localização e procedimentos específicos variam entre fontes.
+
+**Fala proposta:** “Vamos conhecer estas referências sem exigir que você sinta algo determinado. Perceba o corpo e o que consegue acompanhar em cada região. A atenção pode ser delicada. Depois de reconhecer as três, voltaremos ao centro inferior e ao apoio.”
+
+**Reunião e conclusão, 2–3 min:** reencontrar o baixo ventre, notar o corpo inteiro, movimentar mãos e pés e retomar o ambiente. O aluno pode descrever diferença entre reconhecer uma região, imaginar e sentir algo nela.
+
+**Progressão:** repetir a mesma exploração antes de ampliar; em M4/P4, investigar a qualidade da atenção; em M5, relacionar centro e quietude; em M6, recuperar os campos como preparação e conclusão da órbita. O nome de um campo não determina a interpretação de qualquer emoção ou sensação que surja.
+
 ## P3. Movimento, centro e direções complementares
 
 **Entrada:** M3.6 e encontro M3. **Duração:** 10–15 min; uma versão de 6–8 min conserva o conjunto com menos repetições. **Base:** Sustentar o Céu e Separar Céu e Terra, selecionados do Ba Duan Jin; preparação e conclusão da versão de Fabiano.
@@ -106,6 +120,8 @@ Vamos ampliar a percepção para o corpo todo e concluir. Observe se algo mudou 
 
 ## P5. Continuidade da atenção na quietude
 
+**P5A** designa a condução apoiada abaixo; P5B acrescenta uma proposta de observação mais aberta. O professor identifica a modalidade antes de começar.
+
 **Entrada:** pequenos períodos desde M1; desenvolvimento M5.1/M5.4. **Duração:** 6–10 min, ampliável conforme a turma. **Base:** preparação corporal, atenção ao respirar e retorno, em diálogo com as fontes contemplativas e integrais examinadas.
 
 **Fala proposta:**
@@ -126,6 +142,18 @@ Vamos diminuir as palavras por alguns instantes.”
 
 **Elaboração:** discriminar atenção contínua, percepção de distração e capacidade de retorno. A contagem é adaptação do TSH; não é teste de concentração. A pergunta de acompanhamento é “O que ajudou a reencontrar?”. Em M5, relacionar essa aprendizagem à interiorização e à abertura espiritual, preservando a singularidade do que foi vivido.
 
+### P5B. Observar sem acompanhar toda a narrativa
+
+**Entrada:** M4 como aproximação; desenvolvimento em M5.4. **Tempo proposto:** 8–12 min, utilizando parte do período já reservado a P5/P6. **Finalidade:** ampliar a capacidade de reconhecer a experiência presente e diferenciá-la da elaboração contínua sobre si. Fundamentação: Castellanos, PDF 161–164; Farb et al.; modalidades contemplativas em 04, seção 16.
+
+Após preparação e alguns minutos com referência conhecida, o professor convida a notar sons, contato, respiração e acontecimentos mentais que se apresentem, sem procurar analisar cada um. Se a abertura se tornar dispersão, reencontrar a referência já aprendida. Esse retorno permite regular a extensão da experiência.
+
+**Fala proposta:** “Quando aparecer uma história, você pode reconhecer que está pensando. Não precisa concluir essa história agora. O que mais está presente na experiência? Se precisar de apoio, volte ao contato do corpo ou à respiração que já conhece.”
+
+Oferecer intervalos reais de silêncio. Ao concluir, reencontrar o corpo inteiro, o centro familiar e o ambiente. Reservar depois um momento de elaboração: perceber uma narrativa não obriga a descartá-la; ela pode conter algo relevante a compreender em outro momento.
+
+Esta é uma proposta de aprendizagem do TSH. Não recebe automaticamente o nome de Vipassana completa, nem transforma observação aberta em uma exigência de ausência de pensamentos. Em outras sessões, o objetivo pode ser atenção apoiada, Sorriso Interior ou circulação; nomear a mudança de tarefa antes de começar.
+
 ## P6. Observar mudanças e elaborar significado
 
 **Entrada:** M2 prepara a diferenciação; desenvolvimento M4 e M5.6/M5.8. **Duração:** 8–12 min, incluindo registro. **Base:** atenção e investigação; James; cartografia do TSH.
@@ -142,9 +170,27 @@ Volte por alguns instantes à referência inicial. Depois, se fizer sentido, rec
 
 **Retomada posterior:** em outro dia, verificar o que permaneceu significativo e o que mudou. Quando houver vivência espiritual, acolher seu sentido e investigar seus efeitos, sem exigir que o participante a exponha ao grupo.
 
+### P6B. Perceber um pensamento e investigar uma resposta
+
+**Entrada:** exemplo breve em M1.7/M2.5; desenvolvimento em M4.5/M5.8; transferência para M7. **Tempo proposto:** 8–12 min em uma das aulas/encontros escolhidos, com retomadas breves depois. **Base:** quinta transcrição avaliada em 04, seção 19, fontes de metacognição e patrimônio Self/Essência. Esta é uma elaboração pedagógica do TSH.
+
+**Situação:** utilizar uma cena fictícia simples: uma pessoa precisa enviar uma mensagem para pedir um ajuste de horário e pensa “vai dar errado”. Não pedir que a turma reviva uma situação traumática.
+
+1. Reconhecer a frase e algum aspecto corporal presente. O pensamento pode ser ouvido sem ser tomado imediatamente como previsão verdadeira.
+2. Reencontrar apoio e fazer uma pausa confortável. Perguntar se há uma lembrança ou expectativa associada; a associação é uma possibilidade, não prova da origem da frase.
+3. Distinguir o que foi percebido, o que foi lembrado e a interpretação atual. Não é necessário resolver toda a história durante o exercício.
+4. Abrir uma pergunta: “O que preciso considerar nesta situação?”. Uma compreensão súbita ou intuitiva pode ser acolhida e investigada junto do contexto e de informações disponíveis.
+5. Escolher uma resposta pequena e revisável: formular a mensagem, pedir esclarecimento ou escolher um momento adequado. Depois, acompanhar o efeito e rever a compreensão.
+
+**Fala proposta:** “Você pode perceber esse pensamento e também o que acontece no corpo. A frase pode ter uma história e ainda precisa ser examinada nesta situação. Vamos dar espaço para sentir, diferenciar e escolher um próximo movimento possível.”
+
+**Conclusão:** reunir a atenção no corpo e no centro familiar, retomar o ambiente e registrar descoberta/pergunta. Se houver elaboração espiritual sobre observador, Eu ou Essência, acolher como dimensão de sentido e apresentar as fontes pertinentes em sua aula. A capacidade de observar não exige imaginar alguém fora do corpo controlando a experiência.
+
+**Aprendizagem:** reconhecer pensamento, contexto e qualidade de participação; não classificar quem “é” o verdadeiro Eu nem testar a intuição pelo resultado imediato. O acompanhamento posterior refina discernimento e integra a prática à vida.
+
 ## P7. Centro, direções e pequena circulação
 
-**Entrada:** M3 apresenta centro/direções; M5 desenvolve quietude; M6 reúne fundamentos. **A. Estudo experiencial preparatório:** 8–12 min. **B. Pequena circulação orientada:** extensão escolhida por Fabiano conforme a preparação, com técnica explicitamente identificada.
+**Entrada:** M3 apresenta centro/direções; M5 desenvolve quietude; M6 reúne fundamentos e oferece ensino orientado da órbita. **A. Estudo experiencial preparatório:** 8–12 min. **B. Pequena circulação orientada:** extensão escolhida por Fabiano conforme a preparação, com técnica explicitamente identificada.
 
 ### A. Preparação e estudo do mapa
 
@@ -166,7 +212,17 @@ Organizar a sessão em: preparação de corpo e respiração; reunião da atenç
 
 **Indicações de fala ao professor:** “Acompanhe a orientação que estamos utilizando hoje”; “Se o ritmo exigir esforço respiratório, retome a respiração espontânea e o centro”; “A experiência pode ser discreta; não é necessário produzir calor, pressão ou imagens”; “Vamos concluir pelo retorno que aprendemos”.
 
-A orientação por escrito não substitui a decisão do professor sobre qual passo cabe à turma. Respiração inversa, contrações e retenções não são acrescentadas automaticamente ao trajeto. M6 oferece um lugar para estudo e eventual aprofundamento, enquanto M8 pode indicar continuidade específica.
+A orientação por escrito não substitui a decisão do professor sobre qual passo cabe à turma. Respiração inversa, contrações e retenções não são acrescentadas automaticamente ao trajeto. M6.5 e o encontro M6 oferecem lugar de ensino orientado da órbita e revisão da execução. A alternativa preparatória continua disponível para quem precisa ou prefere permanecer nela. M8 organiza repetição do que foi efetivamente aprendido e continuidade específica.
+
+### C. Sessão de ensino da órbita — organização para Fabiano
+
+A proposta reserva **25 min do encontro M6**: 5 min para apoio, centro inferior e referência aos três campos; 5 min para demonstrar o circuito e a versão; 10 min para exploração orientada, com pausas e correções; 5 min para reunião, quietude e conclusão. São tempos de ensino do TSH, não requisitos de realização tradicional.
+
+Na demonstração, identificar centro de partida, percurso posterior e anterior, direção, relação com respiração e modo de concluir. Fabiano utiliza a técnica de sua formação. A versão respiratória de Ernesto, p. 36, pode ser explicitada junto da demonstração, preservando-se a coordenação descrita naquela fonte. A familiarização atencional com o desenho recebe seu nome próprio; não é apresentada como confirmação de abertura energética.
+
+Na exploração, decompor o percurso em trechos ensináveis, sem obrigação de percorrer tudo em um único fôlego. Retomar a referência inferior entre tentativas e verificar se o aluno compreendeu a direção e consegue acompanhar sem esforço respiratório adicional. A turma pode precisar de mais de uma ocasião de ensino. Ao final, distinguir: o que foi mostrado; o que foi praticado; o que permanece difícil; qual versão foi aprendida para retomar.
+
+Chia também apresenta variantes de coordenação e uma fase de repouso; Yang detalha etapas próprias. O quadro de fontes em 04 acompanha a preparação docente, sem obrigar a apresentar simultaneamente todas as versões ao iniciante. A escolha da versão e a demonstração são registradas nas notas da gravação. A finalidade curricular é aprender uma prática interna com procedência, sustentação e possibilidade de continuidade.
 
 ## P8. Cultivo, relação e continuidade pessoal
 
@@ -192,10 +248,10 @@ Perguntas de revisão: o que consigo reencontrar? O que compreendo melhor? O que
 | --- | --- | --- |
 | M0/M1 até M2 | P1; P2 quando introduzida. | Aprender preparação e conclusão; reconhecer uma descoberta e uma dúvida. |
 | M2 até M3 | Repetir P1/P2. | Variar um elemento e comparar a experiência. |
-| M3 até M4 | P3 como sequência regular. | Refinar Song, apoio, direção e centro. |
+| M3 até M4 | P3 e P2C conforme ensino. | Refinar Song, apoio, direção e centro; reconhecer os três campos e reunião no inferior. |
 | M4 até M5 | P3; P4 como complemento ensinado. | Perceber qualidade da atenção e modos de esforço/controle. |
-| M5 até M6 | P3 seguida de P5 ou P6. | Reunir movimento, quietude e elaboração. |
-| M6 até M7 | Sequência conhecida; P7 conforme ensino. | Distinguir base comum e aprofundamento de circulação. |
+| M5 até M6 | P3/P2C seguida de P5A ou P5B, com P6 em momento de elaboração. | Reunir movimento, quietude, modos de observar e elaboração, distinguindo as tarefas. |
+| M6 até M7 | Sequência conhecida; P7 na versão efetivamente ensinada ou alternativa preparatória. | Retomar centro, circuito aprendido, reunião e quietude; levar dúvidas ao encontro. |
 | M7 até M8 | Sequência familiar e P8. | Investigar efeitos no encontro e possibilidade de retorno. |
 | Após M8 | Plano pessoal de P8. | Continuidade, revisão e aprofundamento escolhido. |
 
