@@ -12,7 +12,7 @@ status_audiovisual: arquivos-finais-e-ensaio-pendentes
 
 ## Desenvolvimento aplicado — 13/11/2026
 
-Primeiro ensino P0/P1 em **M0.2**: árvore, pés/R1, respiração, centro inferior e conclusão. M1.1 retoma; M1.3 repete; M1.4 apresenta três campos e Rim–Jing–Nao. Recuperar 04 (§20), 05 e 06; [[07 - Rohden - Assimilação Centro e Vida Cotidiana]] acrescenta assimilação e vida cotidiana. A produção autoral desde 2004 e o filtro experiencial/clínico orientam a integração. Roteiros textuais atualizados; binários anteriores ainda não reexportados. O PPT original Rim–Nao não foi localizado.
+Primeiro ensino P0/P1 em **M0.2**: árvore, pés/R1, respiração, centro inferior e conclusão. M1.1 retoma; M1.3 repete; M1.4 apresenta três campos e Rim–Jing–Nao. Recuperar 04 (§20), 05 e 06; [[07 - Rohden - Assimilação Centro e Vida Cotidiana]] acrescenta assimilação e vida cotidiana. A produção autoral desde 2004 e o filtro experiencial/clínico orientam a integração. Roteiros textuais atualizados; binários anteriores ainda não reexportados. Mapas recuperados na apresentação-fonte: 8, 22/23 e 27; leitura e P1B em 08.
 
 
 Para M1.7, recuperar também P6B e a avaliação de metacognição em 04, seção 19: observação, história, intuição e interpretação espiritual. A retomada breve não antecipa todos os métodos internos de M3/M5/M6.

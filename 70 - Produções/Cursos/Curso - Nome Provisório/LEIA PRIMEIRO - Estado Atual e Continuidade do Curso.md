@@ -12,7 +12,7 @@ autoridade_de_decisao: Fabiano Deliberalli
 
 ## Cultivo corporal, energético e contemplativo — 13/11/2026
 
-Base: [[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]]. P0/P1 ensinam árvore, pés/R1 e centro inferior desde M0.2; M1 apresenta três campos e Rim–Jing–Nao; M3 aprofunda; M6.5/encontro M6 ensinam órbita. Fontes em 04; condução 05; aulas 06; Rohden e articulação autoral em 07. Produção desde 2004 e seleção experiencial/clínica reconhecidas. Binários e mapa original Rim–Nao ainda a atualizar/recuperar.
+Base: [[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]]. P0/P1 ensinam árvore, pés/R1 e centro inferior desde M0.2; M1 apresenta três campos e Rim–Jing–Nao; M3 aprofunda; M6.5/encontro M6 ensinam órbita. Fontes em 04; condução 05; aulas 06; Rohden e articulação autoral em 07. Produção desde 2004 e seleção experiencial/clínica reconhecidas. Rim–Nao localizado: lâminas 22/23 e 27 em 08. Binários de aulas ainda a atualizar.
 
 
 ## Máscara, armadura e potencialidades — 12/11/2026
