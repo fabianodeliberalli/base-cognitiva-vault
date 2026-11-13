@@ -10,14 +10,9 @@ autor: Fabiano Deliberalli
 autoridade_de_decisao: Fabiano Deliberalli
 ---
 
-
-## Rohden e imagens recuperáveis - 13/11/2026
-
-[[07 - Rohden - Assimilação Centro e Vida Cotidiana]] confere o exemplar e suas contribuições; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos|00 - Catálogo de Imagens e Destinos]] disponibiliza 39 lâminas, 48 figuras da apresentação e dois diagramas de Rohden, com destinos M0-M8. Recuperar para M1.3/M1.4/M1.7 e demais aulas pertinentes. Fonte visual disponível não declara PPTX das aulas reeditados. Atualização na ramificação do PR #58.
-
 ## Cultivo corporal, energético e contemplativo — 13/11/2026
 
-Base: [[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]]. Desde M0.2: árvore, pés/R1 e centro inferior; M1: três campos/Rim–Jing–Nao; M3: aprofundamento; M6.5/encontro M6: órbita. Consultar 04–08: fontes, condução, aulas, Rohden e mapas (22/23 e 27). Produção autoral desde 2004 e filtro experiencial/clínico preservados. Binários a atualizar. Anexos/retomada: [[09 - Preservação dos Anexos e Retomada do Chat - 13-11-2026]].
+[[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]]: base desde M0.2; três campos/Rim-Nao em M1; aprofundamento M3; órbita M6.5/encontro M6. Fontes 04-08; condução 05; aulas 06; Rohden [[07 - Rohden - Assimilação Centro e Vida Cotidiana]]; imagens [[00 - Catálogo de Imagens e Destinos]]. Autoria desde 2004 e filtro experiencial/clínico preservados. Binários a atualizar. Retomada: [[09 - Preservação dos Anexos e Retomada do Chat - 13-11-2026]].
 
 
 ## Máscara, armadura e potencialidades — 12/11/2026
