@@ -113,3 +113,8 @@ Leitura dirigida, não integral dos livros:
 Os PDFs de livros permanecem no acervo da conta; não foram copiados integralmente para o GitHub. Links dependem do acesso à conta. A síntese e os apontadores no repositório permitem recuperar o contexto sem depender do chat. Se um original não abrir em outra sessão, usar a referência bibliográfica e declarar a lacuna apenas se impedir o trabalho.
 
 Próxima ação: recuperar esta nota ao produzir M1.4; diagramar a matriz breve M1.3 na próxima edição dos entregáveis. Preservar cronograma, títulos, arquitetura e materiais de origem.
+
+
+## Aprofundamento da meditação e das transcrições — 13/11/2026
+
+[[04 - Caderno de Fundamentação - Cultivo Meditação Prana e Circulação]], seções 16–19, registra nova leitura do livro de Castellanos (PDF 21–22, 129–130, 161–164), recuperação de [[Curso Nirakara - Nazareth Castellanos]], cinco transcrições e pesquisa primária de atenção, modos de autorreferência e relações coração–cérebro. A nota histórica do curso não foi tratada como transcrição do curso atual. P5B diferencia observar e elaborar; P6B desenvolve metacognição em uma situação cotidiana. As fontes e modalidades são identificadas sem reduzir cultivo energético a uma medida neural.

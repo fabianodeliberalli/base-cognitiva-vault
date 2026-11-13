@@ -138,6 +138,10 @@ As páginas sobre recuperação dão finalidade à conclusão: reunir, sair da a
 
 Esse contraste foi efetivamente encontrado nas fontes. A convergência está no reconhecimento do cultivo e da circulação; a diferença respiratória precisa permanecer visível ao professor. A instrução escolhida acompanha a formação e a demonstração de Fabiano. Uma aula pode apresentar o mapa sem conduzir tecnicamente todo o circuito.
 
+### Mantak Chia: variantes e repouso examinados
+
+Fonte adicional direta: *Hundred Day Program*, [PDF da escola](https://school.mantakchia.com/wp-content/uploads/2024/03/BL36-Hundred-Day-Program-ID-PDF-1-6-17.pdf), PDF 7 e 29–39. A leitura localiza coordenação inspirar pela subida posterior/expirar pela descida anterior; outra seção descreve condução sem padrão respiratório deliberado. O programa inclui preparação, desenvolvimento, repouso e conclusão. O título não impõe cem dias como prazo universal do TSH. O acréscimo principal é ensinar também a passagem de conduzir para repousar, identificando a modalidade praticada. As instruções particulares do livro não são combinadas indiscriminadamente às de Yang ou Ernesto.
+
 ### Grande circulação, quatro portas e Chong Mai
 
 Na seção 2.7, Yang distingue modalidades de grande circulação, incluindo circulação nos doze canais, articulações e quatro portas. Isso amplia o horizonte e esclarece a relação da atenção às mãos e aos pés com o cultivo mais amplo. A experiência introdutória de mãos/pés no TSH conserva sua finalidade própria e não atesta realização das técnicas avançadas do autor.
@@ -207,3 +211,194 @@ As correlações desta seção não acrescentam uma nova série de exercícios: 
 O percurso passa a explicar por que preparar, mover, respirar, orientar, permanecer, elaborar e integrar constituem aprendizagens relacionadas. Permite ensinar uma rotina e reencontrá-la por diferentes perguntas, preservando o cultivo energético e espiritual como parte substantiva da formação. A dimensão psicológica ajuda a reconhecer história, proteção, afetos e relação; a pesquisa contemporânea acrescenta recortes observáveis; as tradições oferecem mapas e modos próprios de cultivo.
 
 Para a gravação, a prioridade é clareza de procedimento e continuidade: o que o aluno está aprendendo agora, como experimentar, como concluir e o que retomar depois. Os exemplos e tempos detalhados nos cadernos são propostas de trabalho revisáveis por Fabiano. A base já permite produzir as aulas indicadas; uma edição integral da Prática Integral de Vida enriquecerá passagens ausentes, mas não impede o uso das passagens aqui efetivamente examinadas.
+
+
+## 12. Reavaliação do cultivo interno — 13/11/2026
+
+Fabiano solicitou conferir a órbita microcósmica, os três Tan Tien, Pai Lin, o uso autoral de sua monografia e a relação entre práticas internas, meditação e neurociência. A conferência mostrou uma assimetria: os movimentos tinham vinte fichas individualizadas, enquanto a progressão interna estava distribuída entre P2, P4, P5, P6 e P7, com menor desenvolvimento dos três campos e frequentes menções a um aprofundamento eventual da órbita. Essa diferença de concretização precisava ser corrigida.
+
+A leitura do conjunto não permite afirmar que só havia práticas dinâmicas. Permite afirmar que **o cultivo interno precisava ganhar a mesma clareza de fundamento, condução, retomada e elaboração**. A ampliação atual desenvolve essa necessidade em P2C, P5B, P7 e nas destinações de M3/M5/M6. Ba Duan Jin e Yi Jin Jing participam da formação; a construção de eixo inclui igualmente quietude, atenção, reunião, circulação e integração.
+
+Movimento externo, permanência postural e cultivo interno são modos relacionados de trabalhar. A atenção e a intenção também fazem parte do exercício em movimento; uma postura imóvel pode envolver esforço e dispersão. O ensino ajuda o aluno a reconhecer o que está praticando, a função do método e a maneira como participa. A divisão aqui utilizada é pedagógica do TSH, sem impor uma classificação universal às escolas.
+
+## 13. Três Tan Tien: campos de cultivo e diferenças entre fontes
+
+Tan Tien e Dantian são grafias usadas no acervo para 丹田. Não se confundem com os Três Tesouros, embora estes participem de sua compreensão tradicional. Também não correspondem automaticamente aos três aquecedores do San Jiao. A localização superficial ajuda a orientar; a tradição descreve campos internos de cultivo, e não três pontos na pele.
+
+### Fontes efetivamente confrontadas nesta revisão
+
+| Fonte e localizador | O que acrescenta | Consequência para a condução |
+| --- | --- | --- |
+| Compilação fornecida como material de Ernesto, PDF 8–10. | Organização axial; inferior no baixo ventre, médio no peito atrás do esterno, superior no interior da cabeça. Relaciona os campos aos processos de cultivo de Jing, Qi e Shen. | Ensinar o conjunto dos três e iniciar a familiaridade pelo inferior. Não atribuir cada formulação da compilação a uma fala literal do professor. |
+| Yang, *Embryonic Breathing*, PDF 180–184; *Small Circulation*, PDF 122 e 131–133. | Explicita diferenças de localização e elaboração: médio associado ao esterno inferior/diafragma; superior relacionado ao cérebro e à região frontal; distingue apresentações do campo inferior. | Mostrar que o centro médio não recebe uma localização idêntica em todas as fontes. Reservar a distinção entre campo inferior anterior e profundo ao estudo docente antes de instrução especializada. |
+| Mantak Chia, *Cosmic Orbit*, capítulos 1, 4 e 6, [PDF da escola](https://school.mantakchia.com/wp-content/uploads/2022/11/B25-Cosmic-Orbit-ID-PDF03-05.pdf), figuras 1.41, 4.20 e 6.53; resumo da órbita no cap. 6. | Relaciona região cerebral, coração e abdômen inferior; reúne três modos de presença no centro inferior e articula-os à órbita. | Acrescenta integração de centros e retorno ao centro; apresentar como organização de sua escola. |
+| Pai Lin: [Associação Tai Chi Pai Lin](https://www.taichipailin.com.br/tai-chi-pai-lin) e [programação](https://www.taichipailin.com.br/programa%C3%A7%C3%A3o); [registro do Instituto Confúcio/Udelar](https://udelar.edu.uy/confucio/seminario-tai-ji/), 2019, atividade “Meditación en los tres centros”. | Confirma a presença de meditação, centros e circulação na transmissão pública da escola. | Os registros consultados não descrevem integralmente a técnica dos três centros. Não atribuir a Pai Lin a sequência adaptada de P2C como se fosse seu protocolo documentado. |
+
+Em Yang, foram lidos também os parágrafos explicativos de sua hipótese bioelétrica. Quando o curso utiliza essa explicação, precisa nomeá-la como interpretação do autor. O mapa tradicional já oferece um fundamento de cultivo em seus próprios termos. A passagem de um modelo para outro não precisa resultar em equivalências como Dantian superior = rede neural específica ou inferior = nervo vago.
+
+### Compreensão e experiência no TSH
+
+| Campo | Entrada de compreensão | Experiência de aprendizagem proposta | Retomada |
+| --- | --- | --- | --- |
+| Inferior | Reunir, sustentar, cultivar e retornar; familiaridade com o centro que acompanha corpo e movimento. | Atenção ao baixo ventre interno, respiração confortável e relação com apoio, sem exigir uma sensação particular. | Desde M1; explicitação em M3.5–M3.6; conclusão de práticas posteriores. |
+| Médio | Relação entre peito, sopro e qualidade da participação, identificando a localização da versão. | Reconhecer a região e perceber como recebe a experiência; P4 pode aprofundar a disposição afetiva. | M3.6; M4; M5 e experiência relacional. |
+| Superior | Shen, clareza e interiorização no mapa tradicional. | Conhecer a referência, notar a atividade mental e a possibilidade de observar. A aproximação inicial é breve e retorna ao conjunto corporal. | M3 como mapa; M5 como aprofundamento contemplativo. |
+| Relação entre os três | Organização e comunicação, com diferenças de funções. | P2C: reconhecer cada referência e o conjunto, depois reunir no inferior e concluir. | M5/M6: integrar e reconhecer o papel da preparação para a circulação. |
+
+Essas funções didáticas são elaboração do TSH. O campo médio não fica reduzido a emoção e o superior a pensamento; o mapa inclui alcance energético e espiritual próprio. As perguntas ajudam a começar sem impor uma experiência ideal nem exigir que o aluno localize três estruturas anatômicas.
+
+## 14. Pai Lin: serenidade como componente substantivo
+
+Contatore, Tesser e Barros, *Autocuidado autorreferido*, 2021, [DOI 10.1590/interface.200461](https://doi.org/10.1590/interface.200461), foi examinado nas seções de método e aprendizado com Liu Pai Lin. A pesquisa utiliza autoetnografia e entrevistas; relaciona medicina, movimento e serenidade e descreve aprendizagem pelo cuidado pessoal e pela experiência. A contribuição é formativa e cultural, sem ser um ensaio de eficácia da órbita.
+
+A [apresentação da Associação](https://www.taichipailin.com.br/tai-chi-pai-lin) identifica Tao In como meditação para serenidade. A [programação](https://www.taichipailin.com.br/programa%C3%A7%C3%A3o) associa sentar-a-calma, centros e circulação. As páginas institucionais foram recuperadas em pesquisa; a abertura direta retornou erro. Esse alcance não autoriza reconstruir todos os comandos de sua transmissão.
+
+Para o TSH, essa leitura dá maior lugar à quietude e à constância. O movimento pode preparar e expressar o cultivo; a serenidade merece tempo próprio. Essa articulação apoia P5 e o plano de continuidade, respeitando as técnicas que Fabiano efetivamente aprendeu.
+
+A monografia de Fabiano é vinculada a **Liu Chih Ming/CEMETRAC**. Não substituir esse nome por Liu Pai Lin nem atribuir automaticamente os enunciados de um ao outro. A presença dos dois no diálogo pede identificação de fonte e transmissão. Para aprofundar a técnica específica de Pai Lin sobre três centros e órbita, um manual ou registro de formação com autoria e sequência identificadas será uma fonte adicional pertinente; a base pública encontrada sustenta o contexto, não todos os detalhes.
+
+## 15. Monografia de MTC: material autoral que estrutura a integração
+
+Fonte primária autoral: [[00 - Caixa de Entrada/MONOGRAFIA Acupuntura/MONOGRAFIA Acupuntura]], **Um estudo da relação mente/corpo/espírito na Medicina Tradicional Chinesa**, Fabiano Deliberalli, fevereiro de 2004, conclusão da formação em Acupuntura com Liu Chih Ming, CEMETRAC. Nesta revisão foram relidas apresentação, Três Tesouros, meridianos, passagens de movimento/psiquismo e os Cinco Shen. Os localizadores abaixo são títulos internos; o sumário preserva a paginação histórica, que não é a numeração de um PDF atual.
+
+| Passagem autoral | Contribuição à construção atual | Uso concreto |
+| --- | --- | --- |
+| Apresentação e “Os Três Tesouros da MTC”. | A relação mente/corpo/espírito e o diálogo de saberes já eram problemas organizadores do trabalho de Fabiano. | Em M3.5, apresentar a continuidade autoral, com uma formulação de sua trajetória, sem converter toda a apresentação histórica em afirmação científica atual. |
+| Shen, Tchi e Jing. | Reciprocidade de dimensões mais densas e sutis e linguagem de vitalidade, mente e espírito. | Fundamentar o porquê de trabalhar simultaneamente condições de vida, corpo, atenção e interiorização. |
+| “Meridianos”. | Explicita Ren Mai/Du Mai e denomina sua circulação microcósmica; apresenta também circulação dos doze canais. | Usar em M3.6/M6.5 como fonte autoral do mapa e da pergunta pelo conjunto. Não confundir a descrição dos doze canais com todos os métodos de grande circulação. |
+| “Os Cinco Shen” e “Alma Corpórea (Po)”. | Relações entre corpo, sentidos, sopro e interiorização. | Em P2/P5 e M5, explicar a pertinência tradicional do corpo para meditar. |
+| “Alma Etérea (Hun)”. | Imagens, inspiração, direção e relação com Shen. | Em M5.5–M5.8, dar lugar à experiência simbólica e à sua elaboração, contextualizando as correlações psicológicas do texto de 2004. |
+| “Inteligência (Yi)”. | Atenção, integração e discernimento; relação entre conteúdos e sua assimilação. | Em M2/M4/M5, distinguir acompanhar, interpretar e elaborar. O sentido de Yi nos Cinco Shen é apresentado em contexto, sem igualar automaticamente todos os usos de Yi em outros textos. |
+| “Força de Vontade (Zhi)”. | Relação entre direção e capacidade de realizar; continuidade e expressão. | Em M3.3/M8.2, construir constância com sentido e condições reais; em M7, investigar participação na vida. |
+
+A autoria da monografia está no recorte do problema, na organização, nas interpretações e nas articulações de Fabiano. Citações de mestres e autores continuam atribuídas às suas fontes. O trabalho funciona como fundamento de continuidade e contribuição substantiva, além da documentação curricular de formação. Não é usado como manual completo da órbita nem apresenta, nos trechos relidos, uma exposição técnica dos três Tan Tien. Essas partes recebem fundamento das outras fontes identificadas.
+
+As analogias de 2004 podem ser retomadas e amadurecidas à luz do percurso atual. Por exemplo, a aproximação entre Hun e inconsciente é apresentada como correlação construída no trabalho, com suas possibilidades, sem fixar uma tradução universal de um conceito pelo outro. Preservar o original permite que o TSH mostre o amadurecimento da própria investigação autoral.
+
+## 16. Meditação, mindfulness e Castellanos: aprofundamento efetivo
+
+### Livro e curso: o que foi realmente recuperado
+
+Livro do acervo: [[70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/611202503-Neurociencia-del-cuerpo-Nazareth-Castellanos.pdf]]. Nova leitura dirigida: PDF 21–22, 129–130, 161–164; bibliografia nas páginas 204–207. Os números são do arquivo de 215 páginas, não da edição impressa. A consulta acrescenta atenção, corpo, modos de autorreferência e relações coração–cérebro à leitura anterior.
+
+Nota de formação: [[00 - Caixa de Entrada/OneNote/Meu Bloco de Anotações/Anotações Rápidas/Curso Nirakara - Nazareth Castellanos]]. O registro contém observações sobre comunicação cérebro–corpo, percepção e uma referência ao estudo de meditação. Fabiano informa que faz atualmente um curso com a professora. A nota histórica não é transcrição integral do curso atual e não dá acesso a todos os seus módulos. Não atribuir ao curso conteúdo novo que só tenha sido lido no livro ou em artigo.
+
+O livro contribui especialmente para diferenciar **observar-se e pensar sobre si**. A reflexão tem lugar na formação, mas ocupar todo o silêncio com análise modifica a tarefa meditativa. O TSH pode ensinar um período de observação, um período de investigação orientada e um momento posterior de elaboração, explicando as passagens. Isso desenvolve P5/P6 e evita transformar quietude em análise contínua de padrões.
+
+O trabalho atencional descrito no começo do livro ajuda a compreender a aprendizagem de perceber dispersão e retornar. As páginas sobre coração e meditação ampliam o diálogo para a relação entre ritmos corporais e experiência de si. A linguagem pública permanece proporcional ao estudo: referências a ondas cerebrais não se tornam uma escala para classificar o aluno ou uma explicação única dos estados espirituais.
+
+### Práticas internas relacionadas, com funções identificadas
+
+| Modalidade de trabalho | Aprendizagem compartilhada | Função que precisa ficar clara | Exercício no percurso |
+| --- | --- | --- | --- |
+| Atenção apoiada e retorno | Reconhecer dispersão e reencontrar referência. | O objetivo imediato é aprender a acompanhar, sem exigir uma mente vazia. | P2/P5A; M1–M5. |
+| Observação mais aberta | Notar acontecimentos sem seguir continuamente sua narrativa. | Abertura atencional não é o mesmo que dirigir Qi por um trajeto. | P5B; M4/M5. |
+| Investigação contemplativa | Reconhecer mudanças, modos de apego e a relação com o vivido. | A seleção no TSH não equivale à transmissão integral de Vipassana. | P6; M5 e elaboração posterior. |
+| Sorriso Interior | Qualidade da relação interna, atenção e cultivo. | Apresentação da escola de origem e adaptação escolhida. | P4; M3–M5. |
+| Três Tan Tien | Reunião, diferenciação e integração de referências internas. | Campos de cultivo possuem sentido tradicional; a aproximação inicial não certifica realização alquímica. | P2C; M3/M5/M6. |
+| Órbita microcósmica | Atenção, intenção, continuidade e refinamento da percepção. | Finalidade energética e trajeto Ren Mai/Du Mai, na versão ensinada. | P7; preparação em M3/M5, ensino orientado em M6.5/encontro M6. |
+
+Mindfulness pode nomear uma qualidade de presença ou programas com método e contexto próprios. Samatha e Vipassana têm funções e horizontes tradicionais próprios. O TSH explicita o que compartilha e o que seleciona. Essa precisão permite correlações afirmativas sem converter todos os métodos em uma técnica única.
+
+### Estudos originais e uso docente
+
+| Estudo e acesso examinado | Contribuição e limite | Aplicação |
+| --- | --- | --- |
+| Hasenkamp et al., 2012, [DOI 10.1016/j.neuroimage.2011.07.008](https://doi.org/10.1016/j.neuroimage.2011.07.008); PDF disponibilizado no site da autora, resumo, tarefa, modelo e limites. | Quatorze praticantes em tarefa de atenção à respiração; diferencia dispersão, reconhecimento, redirecionamento e sustentação. O desenho não demonstra causalmente que a meditação produziu todas as diferenças. | Explicar por que perceber a distração e retornar integram o aprendizado de P5. |
+| Farb et al., 2007, [DOI 10.1093/scan/nsm030](https://doi.org/10.1093/scan/nsm030); [texto aberto](https://pmc.ncbi.nlm.nih.gov/articles/PMC2566754/), método e resultados pertinentes. | Contrasta foco narrativo e experiencial em participantes antes/depois do treinamento em grupos distintos. Ajuda a diferenciar modos de autorreferência, sem definir um cérebro espiritual. | M2.5/M4/M5.4; P5B e momento posterior de P6. |
+| Jiang et al., 2020, publicado on-line em 2019, [DOI 10.1093/cercor/bhz095](https://doi.org/10.1093/cercor/bhz095); método e resultados pertinentes do periódico. | Registros EEG/ECG em 60 monges e 25 controles; mudanças situadas de potenciais evocados por batimentos e conectividade. O livro resume 85 como monges; o artigo distingue os dois grupos. O decréscimo de uma medida não significa desconexão global coração–cérebro. | Ampliar a compreensão das práticas internas e da experiência de si em M5, sem equiparar essa medida aos três campos. |
+| Soriano et al., com Castellanos, 2024, [DOI 10.1007/s12671-024-02431-5](https://doi.org/10.1007/s12671-024-02431-5); resumo da publicação revisada por pares, não texto integral por assinatura. | Vinte iniciantes; atenção ao respirar comparada a aritmética, EEG/ECG e relações de frequência. Acrescenta participação corporal e diferenças entre tarefas. A maior parte da mudança de razão foi conduzida pela frequência cardíaca; não demonstra eficácia de um currículo ou de uma órbita. | M3.2/M5; diferenciar tarefa, experiência e medida. |
+| Faber et al., 2012, [DOI 10.1007/s10339-012-0441-4](https://doi.org/10.1007/s10339-012-0441-4); resumo na universidade de um dos autores, sem alegar leitura integral. | Compara duas meditações de Qi Gong, com diferenças de distribuição de atividade estimada por EEG/sLORETA. A denominação geral da prática não prevê sozinha seu correlato neural. | Fundamentar a necessidade de dizer qual prática interna se ensina, em vez de falar genericamente de “o efeito do Qi Gong”. |
+
+As pesquisas acrescentam uma via de fundamentação contemporânea; a monografia de Fabiano e as tradições fundamentam outros planos da proposta. O curso não precisa medir EEG, HRV ou calor para reconhecer a aprendizagem. Acompanhamento pedagógico observa procedimento, compreensão, qualidade da participação, continuidade e integração, sem converter o relato do aluno em leitura direta de redes neurais.
+
+## 17. Cinco transcrições: leitura substantiva e destinação
+
+Após a conferência de acesso, Fabiano forneceu quatro transcrições dos vídeos indicados e uma quinta sobre voz interior e metacognição. **As cinco transcrições foram lidas integralmente**, preservadas sem correção silenciosa em `80 - Fontes Bibliográficas/Transcricoes - Qi Gong e Praticas Internas`. A leitura é textual: não houve exame integral das imagens nem conferência palavra a palavra com o áudio. Os canais e durações dos quatro primeiros foram confirmados na página pública/oEmbed do YouTube; a autoria e o URL do quinto não foram informados.
+
+### Fontes recebidas e contribuição principal
+
+| Fonte | Contribuição efetivamente examinada | Uso no percurso |
+| --- | --- | --- |
+| [[01 - Chi Kung Tai Chi e Neurociencia - Zaya H Reyes.txt]]; [vídeo](https://www.youtube.com/watch?v=iyV1rKHEMeI), 15min18s; canal de publicação Zaya H. Reyes. | Expõe corpo, propriocepção/interocepção, meditação em movimento, constância e atividade espontânea. Descreve aproximação pessoal e de pesquisa ao Qi Gong, sem pretender superioridade sobre Yoga ou meditação. | M1.2/M1.3: experiência e continuidade; M3.2: percepção corporal; M5.4: modos de atenção e participação. Não atribuir automaticamente a fala ao titular do canal. |
+| [[02 - Qigong e Neurociencia - Teresa Menchen.txt]]; [vídeo](https://www.youtube.com/watch?v=bYo1Yv0IJdA), 6min47s. | Aproxima movimento lento, atenção, respiração e sinais do corpo; contém uma síntese de explicações neurocientíficas. A descrição traz errata no minuto 4:00: amígdala em lugar de ínsula no texto da imagem. | Exemplos de diálogo em M3; as afirmações científicas são retomadas pelas fontes identificadas abaixo. |
+| [[03 - Qigong Neurociencia Aspectos Praticos - Teresa Menchen.txt]]; [vídeo](https://www.youtube.com/watch?v=P5RsfiA0MLk), 8min23s. | Organiza preparação, postura de Wuji, três regulações, Yi Shou Tan Tien, atenção ao cheio/vazio, intenção e respiração confortável. | Contribuição prática mais direta: P2C, P3, P5 e ensino de continuidade em M3–M5. |
+| [[04 - Seis Fugas de Energia - Mensajes Ancestrales.txt]]; [vídeo](https://www.youtube.com/watch?v=9_gb9oSfDZs), 27min49s. | Narrativa sobre respiração, emoções, Dantian, órbita, Jing e tensão, com exercícios e uma imagem de interdependência. A descrição identifica inspiração em Chia. | Perguntas sobre cultivo e desgaste em M3.3/M3.5, P4, P7 e plano pessoal. Não substituir os tratados e fontes de formação pela narrativa do canal. |
+| [[05 - Voz Interior e Metacognicao - Autoria a identificar.txt]]. | Propõe quatro camadas — pensamento, memória, intuição e observador — e um exemplo de mensagem difícil. Relaciona pesquisa cerebral, Freud, metafísica e uma oferta de mapa de 22 arquétipos. | M1.7/M2.5/M4.5/M5.4/M5.8: capacidade de observar, história, discernimento e elaboração espiritual. Desenvolvimento próprio na seção 19 e P6B. |
+
+### O que a leitura dos quatro primeiros acrescenta às práticas
+
+A segunda parte de Menchén ajuda a tornar visível uma sequência de aprendizagem: preparar o corpo, reconhecer a postura, acompanhar a respiração e reunir atenção no centro. A expressão **Yi Shou Tan Tien**, conforme essa transcrição, dá linguagem para conservar a atenção numa região e retornar quando se dispersa. P2C e P5 utilizam essa contribuição em diálogo com Ernesto e Yang, com intenção suave e sem a ordem de suprimir qualquer pensamento.
+
+A alternância cheio/vazio ajuda a perguntar como o peso e o apoio passam de uma configuração a outra; não exige uma terceira série de movimentos. O aluno pode investigar essa qualidade em um exercício conhecido ou numa transferência simples de apoio, demonstrada por Fabiano. A mesma condução pode terminar em quietude, conservando uma referência interna. Assim, mover e meditar se articulam sem se confundirem.
+
+O vídeo das seis fugas oferece uma metáfora de relações circulares, aproveitável no TSH: esforço, respiração, afeto, centro, circulação e condições de vida se influenciam. A própria monografia de Fabiano fornece uma base mais desenvolvida para explicar essas relações. A ordem de seis itens permanece organização narrativa desse vídeo; não foi confirmada como sequência oficial universal da escola de Chia. A metáfora de bateria auxilia a discussão de reserva, mas o TSH apresenta Jing pré/pós-celestial e cultivo conforme suas fontes, sem usar uma porcentagem literal de carga humana.
+
+Na transcrição das seis fugas há trocas que exigem atenção: “ombro” aparece onde o contexto indica umbigo, “coelho” em passagens do pescoço, “ying” onde o tema é Jing; a raiva aparece inicialmente ligada ao estômago e depois ao fígado. A leitura didática utiliza a terminologia do acervo de MTC e conserva essas ocorrências no arquivo bruto. Na órbita, o vídeo orienta **expirar na subida posterior e inspirar na descida anterior**. Isso se aproxima da coordenação localizada no exemplar de prática integral e difere de Ernesto p. 36. A diferença é registrada; não se mistura silenciosamente com a versão demonstrada.
+
+### Rastreabilidade das afirmações científicas
+
+O interesse dos vídeos está em propor pontes. Para o TSH, a ponte ganha precisão ao identificar método, população e variável. Essa conferência das alegações científicas não subordina o valor da transmissão tradicional a um único tipo de pesquisa.
+
+| Referência ou afirmação da divulgação | Fonte examinada e alcance | Incorporação adequada |
+| --- | --- | --- |
+| Tang, 2007, PNAS, citado no primeiro vídeo. | Tang et al., [DOI 10.1073/pnas.0707678104](https://doi.org/10.1073/pnas.0707678104), original aberto, método e resultados pertinentes: 80 universitários, cinco dias de IBMT, 20 min/dia, comparação com relaxamento. | Fundamenta estudo de treinamento integrativo corpo–mente. Não é ensaio de Ba Duan Jin, Yi Jin Jing ou órbita; nem comparação simples de pensar com mover. |
+| Science, 2017, preBötzinger/locus coeruleus, citado na segunda parte. | Yackle et al., [DOI 10.1126/science.aai7984](https://doi.org/10.1126/science.aai7984), estudo experimental em camundongos; resumo, circuito e métodos pertinentes lidos. | Exemplo de relação entre circuitos respiratórios e alerta; identificar modelo animal antes de dialogar com práticas humanas. |
+| Relações entre respiração e atenção via locus coeruleus. | Melnychuk et al., 2018, [DOI 10.1111/psyp.13091](https://doi.org/10.1111/psyp.13091), resumo da publicação, com dados de sincronização e proposta de modelo. | Amplia a hipótese de articulação sopro–atenção. Não constitui medida de Prana, nem prova isolada do mecanismo do Qi Gong. |
+| PNAS sobre meditação e rede de modo padrão. | Brewer et al., 2011, [DOI 10.1073/pnas.1112029108](https://doi.org/10.1073/pnas.1112029108), PDF do laboratório, método e resultados: comparação de praticantes experientes e controles, diferentes condições e conectividade. A identificação com o artigo não pode ser garantida apenas pela menção genérica do vídeo. | Fonte pertinente para dialogar com atenção e autorreferência. Não demonstra, por esse desenho, que dez minutos produzam silêncio cerebral duradouro em qualquer iniciante. |
+| Aumentar a ínsula amplia todas as funções; amígdala como ego; cérebro em três camadas. | A leitura do TSH utiliza relações em redes, em diálogo com Pessoa, 2017, [DOI 10.1016/j.tics.2017.03.002](https://doi.org/10.1016/j.tics.2017.03.002), resumo e desenvolvimento conceitual inicial. | Tratar corpo, atenção e emoção como processos relacionados. Uma mudança regional não autoriza inferir melhora de toda capacidade; ego não é localizado numa única região. |
+| Alongar antes de meditar, atribuído a Tang, 2018. | A referência exata não foi localizada com os dados da transcrição. | Preparar o corpo já tem fundamento tradicional e didático. A alegação específica permanece atribuída ao vídeo, sem receber uma referência inventada. |
+| Alfa, respiração seis vezes/minuto, cortisol/testosterona, imunidade e benefícios duradouros. | As transcrições reúnem programas e medidas diferentes sem identificar todos os artigos. Os estudos de Faber e Soriano desta nota mostram por que tarefa e condição precisam ser discriminadas. | Utilizar os estudos identificados para suas perguntas próprias. A postura e o ritmo ensinados são escolhidos por finalidade e execução; não anunciar um pacote hormonal ou neurofisiológico uniforme. |
+
+### Exercícios derivados e identificados
+
+1. **Wuji e três regulações:** preparação conhecida seguida de observação de apoio, respiração e atenção; P1/P2/P3.
+2. **Yi Shou Tan Tien:** reunir atenção no inferior, reconhecer dispersão e reencontrar; P2C/P5. O professor diferencia acompanhar e contrair/concentrar com força.
+3. **Cheio/vazio:** transferência pequena de apoio ou retomada de movimento já aprendido; observar continuidade, direção e esforço. Fabiano demonstra a variante ensinada.
+4. **Sorriso ao centro:** aproximar atenção com gentileza; relacionar P4 e P2C sem exigir alegria, calor ou uma sensação de ativação.
+5. **Tensão necessária/desnecessária:** durante postura ou tarefa cotidiana, investigar o que pode soltar conservando sustentação; Song e contexto da atividade.
+6. **Reunião, circulação e repouso:** ensinar P7 com procedência e conclusão; não exigir que a primeira tentativa reúna todos os passos de uma escola.
+
+Essas utilizações transformam os vídeos em perguntas, procedimentos e complementos de compreensão, articulados às fontes do TSH. A transcrição não substitui a demonstração de um movimento que dependa da imagem. O material visual dos vídeos precisará ser conferido se o objetivo for reproduzir uma demonstração específica.
+
+## 18. Texto indicado sobre Prática da Vida Integral
+
+[A Prática da Vida Integral, segundo Ken Wilber](https://www.urantiagaia.org/mental/integral/movimento_integral_kenwilber.html) é trabalho de Ednize Monteiro, Mara Rebollo e Sandra Regina S. Gonçalves, Humanitatis, 2009; o original vinculado tem 18 páginas. Foram examinados texto, identificação, organização e bibliografia. É uma síntese secundária de fundamentos e prática integral, útil para uma entrada em português. A bibliografia reúne *Psicologia Integral*, *A Visão Integral* e materiais de curso; não é o exemplar completo de Wilber, Patten, Leonard e Morelli. Portanto, não preenche as páginas ausentes do livro. As tabelas incorporadas como imagens não receberam transcrição integral nesta consulta. Uso: orientação bibliográfica e apoio à compreensão geral; procedimentos específicos continuam fundamentados nas passagens primárias examinadas.
+
+### Consequência didática da comparação
+
+O TSH pode utilizar uma explicação acessível da composição da prática, mostrando como movimento, cultivo interno, meditação e elaboração participam de uma vida de treino. O aluno aprende a reconhecer funções e escolher uma continuidade. A organização dos módulos do TSH permanece autoral; mapas integrais contribuem para suas perguntas e articulações.
+
+
+## 19. Voz interior, metacognição e observador: avaliação da quinta transcrição
+
+### Lógica própria e contribuição
+
+O vídeo organiza uma investigação do autoconhecimento: reconhecer o pensamento, considerar a memória, abrir-se à intuição e perguntar pelo observador. A experiência de observar é interpretada numa perspectiva espiritual em que o Eu tem alcance maior que o ego. Essa lógica dialoga com presença, diferenciação, Self/Essência e integração já desenvolvidos no TSH. Sua melhor contribuição prática é interromper a identificação automática com uma frase interna e abrir possibilidade de investigação e resposta.
+
+As quatro camadas constituem o esquema expositivo do narrador. Não são um modelo neuroanatômico nem uma hierarquia adotada pelo TSH. Há pensamento deliberado e automático, memória explícita e implícita, intuição com interpretações diversas e diferentes modos de perceber o próprio funcionamento. A compreensão pode crescer pela relação entre esses aspectos, em vez de transformar o percurso numa fuga do corpo para um controlador separado.
+
+### Experiência, hipótese e interpretação espiritual
+
+| Movimento do argumento | O que pode acrescentar | Desenvolvimento pertinente no TSH |
+| --- | --- | --- |
+| “Posso perceber um pensamento”. | Familiaridade com uma capacidade de observação e com a diferença entre conteúdo e resposta. | Investigar se consigo notar, reencontrar apoio e escolher como participar. Não é necessário provar antes uma natureza metafísica do observador. |
+| “Meus pensamentos têm história”. | Relação com memória, proteção, padrões e contexto. | Considerar uma associação como possibilidade, sem declarar que todo pensamento é repetição fiel do passado ou que toda lembrança dá sua origem exata. |
+| “Existe uma compreensão que surge sem raciocínio explícito”. | Acolher intuição, inspiração e experiência espiritual como questões legítimas. | Descrever, considerar interpretações, conferir contexto e acompanhar efeitos. A calma da impressão não garante por si só sua procedência ou acerto. |
+| “O Eu é maior que o ego”. | Diálogo espiritual/transpessoal com Self, Essência e observação compassiva. | Recuperar [[50 - Relações/Self, Essência, Alma, Eu Superior e Fontes Integrais]] e as passagens já estudadas de Salvador/James. Preservar o alcance espiritual sem apresentá-lo como resultado demonstrado de um exame cerebral. |
+| “Há um arquétipo regente entre 22”. | Identifica o sistema autoral e a oferta comercial do narrador. | Não incorporar como teste, critério de intuição ou arquitetura do TSH. A transcrição não oferece documentação suficiente para validar esse procedimento. |
+
+A frase “se observo, preciso estar fora” funciona como argumento e imagem no vídeo; não é uma demonstração de separação espacial entre consciência e corpo. O TSH pode investigar a experiência de testemunho e sua interpretação espiritual mantendo a participação corporal já cultivada. Do mesmo modo, o problema difícil da consciência abre uma discussão filosófica; a ausência de explicação consensual não prova, sozinha, uma conclusão ontológica particular.
+
+### Fontes e alcance da conferência
+
+- **Rede de modo padrão:** a referência correta é Marcus E. Raichle et al., 2001, [DOI 10.1073/pnas.98.2.676](https://doi.org/10.1073/pnas.98.2.676), registro/resumo e apresentação original recuperados. “Marcus Heiko” é ocorrência da transcrição. O trabalho apresenta um modo basal organizado; não identifica uma máquina que fabrica todo pensamento nem localiza o Eu espiritual. Hasenkamp, Farb e Brewer complementam a articulação curricular.
+- **Metacognição:** Fleming e Lau, 2014, [DOI 10.3389/fnhum.2014.00443](https://doi.org/10.3389/fnhum.2014.00443), artigo metodológico, definições e resumo examinados. Distingue confiança, sensibilidade e eficiência metacognitiva. Perceber um processo e estar certo sobre ele são questões diferentes, fecundas para diferenciação e discernimento.
+- **Intuição:** Kahneman e Klein, 2009, [DOI 10.1037/a0016755](https://doi.org/10.1037/a0016755), síntese de pesquisa e condições de expertise, resumo/recorte pertinente examinados. A aprendizagem implícita é uma possibilidade relevante para algumas intuições; contexto e feedback importam. Esse recorte não pretende esgotar as interpretações espirituais da intuição.
+- **Freud, Fílon, carta Jung–White e Huberto Rohden:** foram examinados como referências mobilizadas na transcrição; os originais específicos não foram recuperados integralmente nesta etapa. Não transportar a leitura de Freud como depósito literal de tudo, a primeira ocorrência histórica de “arquétipo”, a carta de 1948 ou as frases de Rohden como citações já conferidas. A biblioteca do TSH já permite trabalhar história, partes, Self e espiritualidade por fontes examinadas. Os originais poderão acrescentar fundamentação quando selecionados para exposição própria.
+
+A analogia do avatar pode abrir uma pergunta espiritual; a identificação matemática de grão de areia com fractal não é uma definição adequada de autossimilaridade. Para a aula, preferir as imagens autorais já desenvolvidas no TSH. O ponto relevante é ampliar diferenciação e integração, não acumular uma nova metáfora de governante interno.
+
+### Condução e integração
+
+P6B desenvolve o exemplo da mensagem difícil em formato pedagógico. A observação não torna a pessoa imediatamente imune à ansiedade. O aluno pode reconhecer ansiedade, pensamento e necessidade e continuar participando com apoio. Em M1.7, essa capacidade dialoga com centro; em M2.5, com descrição/interpretação; em M4.5, com partes e presença; em M5.4/M5.8, com quietude e discernimento; em M7, com a resposta na relação. O cultivo interno apoia essa aprendizagem sem assumir a função de apagar história, necessidade ou vínculo.

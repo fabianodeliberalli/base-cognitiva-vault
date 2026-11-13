@@ -12,7 +12,7 @@ autoridade_de_decisao: Fabiano Deliberalli
 
 ## Cultivo corporal, energético e contemplativo — 13/11/2026
 
-Base permanente autorizada por Fabiano: [[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]]. Fontes de Ernesto e do acervo: [[02 - Ernesto Garcia e Fontes de Cultivo - Leitura e Destinação]]. Exercícios pontuais de Ba Duan Jin/Yi Jin Jing: [[03 - Ba Duan Jin e Yi Jin Jing - Movimentos e Articulação Didática]]. Aprofundamentos, exercícios, falas e telas registrados nas notas 04–06; distribuição M0–M8 revisável.
+Base de cultivo: [[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]]. Fontes em 02; movimentos em 03; fundamentos em 04, incluindo três Tan Tien, órbita, monografia autoral, Pai Lin/Castellanos e cinco transcrições. Conduções P2C/P5B/P6B/P7 em 05 e destinos/falas em 06. Distribuição M0–M8 revisável; novos mapas visuais internos ainda a produzir.
 
 
 ## Máscara, armadura e potencialidades — 12/11/2026

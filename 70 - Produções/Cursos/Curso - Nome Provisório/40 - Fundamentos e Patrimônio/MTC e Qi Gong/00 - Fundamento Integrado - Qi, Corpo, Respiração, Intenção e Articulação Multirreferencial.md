@@ -31,6 +31,10 @@ tags:
 Desenvolvimento solicitado por Fabiano: [[04 - Caderno de Fundamentação - Cultivo Meditação Prana e Circulação]]; [[05 - Caderno de Condução - Sequências e Aprendizagens do Cultivo]]; [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH]]. A nota das vinte formas recebeu aprofundamento técnico/didático. Estão redigidos exercícios, falas, destinos nas 54 aulas e organização da hora de prática dos oito encontros. Recuperar esses conteúdos na produção, além do mapeamento inicial. Materiais transversais em `Materiais/Práticas Transversais`: apresentação de oito telas, roteiro sincronizado e apoio do aluno. O exemplar de prática integral tem páginas de amostra; as passagens efetivamente examinadas e as diferenças de versão estão documentadas.
 
 
+## Práticas internas — reavaliação de 13/11/2026
+
+Três Tan Tien, órbita, quietude e metacognição receberam desenvolvimento em [[04 - Caderno de Fundamentação - Cultivo Meditação Prana e Circulação]], seções 12–19. Recuperar a contribuição autoral da monografia de MTC, as diferenças entre Pai Lin/Liu Chih Ming, Ernesto/Yang/Chia e a leitura de Castellanos. [[05 - Caderno de Condução - Sequências e Aprendizagens do Cultivo]] oferece P2C/P5B/P6B e ensino de P7; [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH]] incorpora esses desenvolvimentos em M3/M5/M6 e nos encontros. As classificações de versões históricas abaixo não retiram os conteúdos internos do percurso atual.
+
 ## Cultivo longitudinal — incorporação autoral de 13/11/2026
 
 Fabiano autorizou incorporar permanentemente uma base cumulativa de cultivo corporal, energético e contemplativo. [[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]] organiza fundamentos, progressão, destinos por aula, oito encontros e continuidade entre eles; [[02 - Ernesto Garcia e Fontes de Cultivo - Leitura e Destinação]] documenta a leitura interna do material de Ernesto Garcia e a articulação com o acervo. [[03 - Ba Duan Jin e Yi Jin Jing - Movimentos e Articulação Didática]] incorpora exercícios pontuais de Ba Duan Jin e Yi Jin Jing, técnicas em que Fabiano informa ter formação e prática, também documentadas no acervo.

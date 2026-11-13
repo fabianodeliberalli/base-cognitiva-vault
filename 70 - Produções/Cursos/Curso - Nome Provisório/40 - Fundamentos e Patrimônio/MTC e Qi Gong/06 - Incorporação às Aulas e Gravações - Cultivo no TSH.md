@@ -18,10 +18,10 @@ A proposta abaixo desenvolve o conteúdo existente, com base em [[04 - Caderno d
 
 - **M0/M1:** ensinar como entrar, praticar e retornar; introduzir linguagem de cultivo e aprendizagem pela experiência.
 - **M2:** utilizar a mesma prática para refinar a percepção e a tradução; conter a introdução de técnicas novas.
-- **M3:** concentrar explicitação tradicional, leitura corporal e ensino da sequência regular.
+- **M3:** concentrar explicitação tradicional, leitura corporal, três Tan Tien e ensino da sequência regular com prática interna.
 - **M4:** investigar emoções, padrões de esforço e qualidade afetiva da atenção, usando repertório familiar.
-- **M5:** desenvolver meditação e interiorização de maneira efetiva, além da elaboração simbólica e espiritual.
-- **M6:** reunir os fundamentos e dar lugar ao estudo/aprofundamento da circulação conforme a turma.
+- **M5:** desenvolver meditação e interiorização efetivas: atenção apoiada, observação e elaboração em momentos identificados; retomar os três campos.
+- **M6:** reunir os fundamentos e ensinar a órbita de modo orientado, na versão de Fabiano, com alternativa preparatória para quem dela precisar ou a escolher.
 - **M7:** experimentar a relação entre cultivo, expressão e vínculo, em conjunto com aprendizagem relacional própria.
 - **M8:** consolidar uma prática que o aluno consegue continuar e rever.
 
@@ -34,11 +34,11 @@ As faixas abaixo são estimativas para a parte de cultivo dentro das aulas, incl
 | M0/M1 | Uma primeira condução e retomadas, sem repetir sete vezes toda a sequência. | Condução 4–6 min no destino escolhido; retomadas de 1–3 min quando úteis. |
 | M2 | Comparação e registro usando exercício já ensinado. | Uma experiência de 4–6 min; comentários breves nas demais aulas. |
 | M3.5 | Linguagem energética e comparação situada Qi/Prana. | Cerca de 8–12 min de exposição dentro da aula. |
-| M3.6 | Fundamentos, demonstração e sequência P3. | Cerca de 18–25 min no bloco de cultivo; se houver muito conteúdo teórico, levar parte da repetição ao encontro. |
+| M3.6 | Fundamentos, demonstração, três Tan Tien e sequência P3/P2C. | Cerca de 18–25 min no bloco de cultivo; distribuir demonstração e repetição com o encontro, sem somar automaticamente todos os tempos de P2C e P3. |
 | M3.7 | Versões, adaptação e encerramento. | Cerca de 6–10 min de demonstração/comparação. |
 | M4 | Retomada da sequência e qualidade da participação. | Um bloco de 5–8 min; outros retornos breves. |
-| M5 | Preparação, quietude e elaboração. | Um bloco de 8–12 min e retomadas; oferecer áudio para repetir. |
-| M6 | Integração e estudo de circulação. | Um bloco de 8–12 min; aprofundamento técnico orientado no encontro ou continuidade específica. |
+| M5 | Preparação, quietude, modos de observar e elaboração posterior. | Um bloco de 8–12 min e retomadas; oferecer áudio da modalidade efetivamente ensinada. |
+| M6 | Integração, centros e ensino da circulação. | Um bloco de 8–12 min na aula; reservar 25 min da prática do encontro para demonstração e ensino de P7. |
 | M7 | Referência corporal antes/depois de uma experiência relacional. | 3–5 min dentro da atividade relacional. |
 | M8 | Seleção de prática e plano de continuidade. | 8–12 min de síntese e planejamento, mais a prática do encontro. |
 
@@ -59,39 +59,39 @@ O total varia com as escolhas de condução. A avaliação evita atribuir a cada
 | M1.4 | Reconhecer finalidade e linguagem de diferentes mapas. | Fala B; Qi em contexto, James e distinção experiência/interpretação. |
 | M1.5 | Reconhecer diferentes dimensões da prática pelas Cinco Janelas. | Retomada breve; sensação, afeto, pensamento, relação e sentido. |
 | M1.6 | Registrar o vivido e formular uma pergunta de continuidade. | P6 em sua função de registro; adaptar a cartografia existente. |
-| M1.7 | Reencontrar centro e referência sem exigir estabilidade permanente. | Retomada de P1; relação com eixo e interiorização. |
+| M1.7 | Reencontrar centro e referência; introduzir diferença entre pensamento e participação. | Retomada de P1; exemplo breve P6B; relação com eixo e interiorização. |
 | M2.1 | Investigar como atenção e movimento participam do percebido. | Mesma prática com um foco diferente; sem nova técnica obrigatória. |
 | M2.2 | Perceber o que ganha destaque na experiência. | Comparar apoio e mãos em P1; observar mudanças de saliência. |
 | M2.3 | Distinguir sensação, imagem e expectativa. | P1/P2; não induzir uma sensação energética padronizada. |
 | M2.4 | Relacionar repetição de prática e modos habituais de participar. | Exemplo de pressa/controle no exercício; sem equiparar os processos. |
-| M2.5 | Diferenciar ocorrido, vivido e interpretado, inclusive em experiências espirituais. | P6; James e tradução provisória. |
+| M2.5 | Diferenciar ocorrido, vivido, memória associada e interpretação, inclusive espiritual. | P6/P6B; James, metacognição e tradução provisória. |
 | M2.6 | Rever uma compreensão a partir de nova tentativa. | Repetição de P1 com registro comparativo. |
 | M3.1 | Relacionar estado corporal e possibilidade de participação. | P2; experiência corporificada e escolha do exercício. |
 | M3.2 | Refinar sensação interna e reconhecimento de apoio/movimento. | P1/P2; distinguir interocepção, propriocepção e interpretação. |
 | M3.3 | Considerar descanso, ritmo e condições da prática. | Jing/reserva na linguagem tradicional em diálogo com necessidades do organismo. |
 | M3.4 | Apresentar o mapa autonômico como uma escala de compreensão. | Nota de pesquisa; exemplos de mobilizar, repousar e ajustar, sem equivalência Qi–vago. |
-| M3.5 | Desenvolver Qi/Jing/Shen e comparação situada com Prana. | Fala C; glossário gradual; fontes indianas examinadas em 04. |
-| M3.6 | Ensinar Song, raiz, centro, direções e sequência regular. | P3; fichas B1/B3 e alternativa Wei Tuo; fala D. |
+| M3.5 | Desenvolver Qi/Jing/Shen, três Tan Tien e comparação situada com Prana. | Fala C; glossário gradual; monografia autoral de 2004 e fontes tradicionais/indianas em 04. |
+| M3.6 | Ensinar Song, raiz, três centros, direções e sequência regular com cultivo interno. | P3/P2C e falas D/L; fichas B1/B3 e alternativa Wei Tuo; explicar Yi Shou Tan Tien. |
 | M3.7 | Demonstrar versões e ensinar como concluir e retomar. | P3 breve/regular; introdução de P4 quando pertinente; fala E. |
 | M4.1 | Perceber qualidades diferentes em um desconforto. | Observação em prática familiar; não atribuir diagnóstico energético automático. |
 | M4.2 | Diferenciar força, tensão, mobilização e afeto. | B7 ou Y6 já ensinados; retomada corporal curta. |
 | M4.3 | Nomear sem encerrar o sentido da experiência. | P6; possibilidade de ainda não encontrar palavra. |
 | M4.4 | Reconhecer proteção e história na maneira de praticar. | Exemplo de exigência, comparação ou evitação; respeitar contexto. |
-| M4.5 | Relacionar presença e partes internas sem transformar toda prática em trabalho de partes. | Salvador e prática integral; P4/P6 conforme o objetivo. |
+| M4.5 | Relacionar presença, partes e observação; distinguir compreensão e controle forçado. | Salvador, prática integral e avaliação da quinta transcrição; P4/P6/P6B conforme objetivo. |
 | M4.6 | Experimentar ajuste de intenção e esforço. | B2 ou Y5, se ensinados; fala F; posterior resposta cotidiana. |
 | M5.1 | Preparar atenção diante de conteúdos internos múltiplos. | P5 com suporte corporal conhecido. |
 | M5.2 | Investigar valores e direção do cultivo na vida. | Pergunta sobre o que deseja cultivar; cabeça/coração/hara como diálogo auxiliar. |
 | M5.3 | Articular referência profunda e eixo ao percurso existente. | Retomar o corpo como apoio, sem igualar Self, Shen e Dantian. |
-| M5.4 | Desenvolver continuidade da atenção e espaço de participação. | P5; fala G; prática de quietude com silêncio real. |
+| M5.4 | Desenvolver continuidade, metaconsciência e observação; diferenciar observar e elaborar. | P5A/P5B; falas G/M; Castellanos e estudos de atenção; silêncio real e retomada dos centros. |
 | M5.5 | Investigar imagem e símbolo no cultivo. | Distinguir recurso imaginativo, sensação e sentido; P4/P6. |
 | M5.6 | Acolher experiência espiritual como dimensão legítima. | James, tradições e fontes autorais; P6. |
 | M5.7 | Relacionar interiorização, Self e Essência. | Fontes já desenvolvidas de Salvador/Jung e léxico do TSH. |
-| M5.8 | Examinar efeitos, autoridade e interpretação. | Fala H; registro imediato e retomada posterior de P6. |
+| M5.8 | Examinar efeitos, autoridade e interpretação; investigar intuição e origem presumida. | Falas H/M; P6/P6B; James e leitura crítica da quinta transcrição. |
 | M6.1 | Reunir dimensões sem apagar diferenças. | P3/P5; fala I; prática integral e mapas tradicionais. |
 | M6.2 | Perceber partes e conjunto em movimento conhecido. | B3 ou forma axial de Yi Jin Jing devidamente ensinada. |
 | M6.3 | Permanecer com ambivalências e reconhecer necessidade de elaboração. | P4/P6; Salvador e prática integral. |
 | M6.4 | Relacionar recursos ao mapa de integração funcional. | Identificar o que cada parte da sequência oferece. |
-| M6.5 | Aprofundar centro e circulação com procedência clara. | P7; fala J; quadro de versões respiratórias em 04. |
+| M6.5 | Ensinar órbita com procedência, demonstração, reunião e repouso; relacionar os três centros. | P7A/P7B/P7C; falas J/N; fontes Ernesto/Yang/Chia, monografia autoral e quadro de versões em 04. |
 | M6.6 | Integrar experiência ao contexto e à participação possível. | Conclusão de P7 e escolha de continuidade. |
 | M7.1 | Investigar a passagem da prática individual à expressão. | P8 antes/depois de diálogo. |
 | M7.2 | Distinguir vivido e acusação numa situação relacional. | Retomada de registro/percepção; linguagem da experiência. |
@@ -201,9 +201,9 @@ Vamos reencontrar uma sequência e observar a função de cada parte. O que a pr
 
 Há diferenças de instrução entre fontes. Por isso, ao praticar, precisamos reconhecer a versão que estamos aprendendo e sua maneira de preparar, conduzir e concluir. Conhecer um desenho e desenvolver uma prática são aprendizagens relacionadas, que podem exigir tempos diferentes.
 
-Vamos começar reencontrando centro, respiração e atenção e, a partir daí, estudar o passo que cabe a este encontro.”
+Vamos começar reencontrando centro, respiração e atenção. Vou demonstrar a versão que ensinarei e vamos aprender por partes, incluindo como reunir e concluir. A preparação continua disponível para quem preferir permanecer nela hoje.”
 
-**Tela:** “Centro e pequena circulação”. **Condução:** P7A ou P7B conforme a proposta da turma. **Fonte:** quadro comparativo Ernesto/Yang/Wilber em 04.
+**Tela:** “Centro e pequena circulação”. **Condução:** preparação P7A e ensino P7B/P7C; alternativa preparatória disponível. **Fonte:** quadro de versões em 04, ampliado por Chia e pela avaliação dos vídeos; monografia autoral.
 
 ### K. M8.2 — Continuidade que ganha forma
 
@@ -215,6 +215,32 @@ Vamos escrever uma proposta simples e escolher quando voltar a ela. O percurso c
 
 **Tela:** “Meu plano de continuidade”. **Condução:** P8; apoio do aluno. **Fonte:** prática integral, PDF 305/309/325, e trajetória do TSH.
 
+### L. M3.6 — Três campos, uma organização que se cultiva
+
+“Vamos ampliar uma referência que já utilizamos. Nas fontes taoístas que estamos estudando, encontramos três Tan Tien, campos internos de cultivo. O inferior, o médio e o superior têm relações e funções próprias. Vamos apresentar a localização da versão que praticaremos e conhecer também a relação entre eles.
+
+Começamos pelo inferior para ganhar familiaridade com reunir e retornar. Depois aproximamos a atenção das outras referências, conservando o corpo inteiro. Não precisamos fabricar uma sensação para começar a aprender. A compreensão do mapa e a prática vão amadurecendo juntas.”
+
+**Tela a desenvolver:** três campos identificados por versão, com referência interna e retorno ao inferior. **Condução:** P2C. **Fonte:** Ernesto p. 8–10; Yang, *Embryonic*, PDF 180–184; Chia e distinções em 04, seção 13.
+
+### M. M5.4/M5.8 — Observar, compreender e discernir
+
+“Um pensamento pode aparecer antes de você decidir pensar. Quando percebe isso, encontra uma possibilidade de participação: acompanhar a história, voltar ao apoio ou permanecer observando o que está acontecendo.
+
+Há um momento para observar e outro para compreender melhor o que apareceu. Não precisamos fazer as duas coisas o tempo todo. Também pode surgir uma impressão intuitiva ou uma vivência espiritual. Podemos acolhê-la, buscar uma linguagem e acompanhar seus efeitos, conservando liberdade para rever uma interpretação.
+
+No TSH, essa diferenciação se soma à presença, ao corpo e à nossa história. Ela pode abrir espaço para responder com mais discernimento.”
+
+**Tela a desenvolver:** perceber, diferenciar e participar; observação e elaboração em momentos identificados. **Condução:** P5B ou P6B conforme pergunta da aula. **Fonte:** Castellanos, James, Salvador; metacognição e quinta transcrição avaliadas em 04.
+
+### N. M6.5 — Continuidade autoral e órbita
+
+“Na monografia que escrevi ao concluir minha formação em acupuntura, em 2004, eu já investigava as relações entre mente, corpo e espírito e apresentava os canais Ren Mai e Du Mai. Esse interesse continua no TSH, agora articulado a outras leituras e experiências.
+
+Vamos trabalhar a órbita com sua finalidade de cultivo energético, aprender a versão que demonstrarei e reconhecer como centro, respiração e intenção participam. Também aprenderemos a reunir, repousar e concluir. Circular e permanecer em quietude podem ter momentos próprios dentro da mesma prática.”
+
+**Tela a desenvolver:** trajeto da versão, partida/retorno e fontes; não confundir eixo central com circuito Ren Mai/Du Mai. **Condução:** P7. **Fonte:** monografia, Ernesto, Yang e Chia; 04, seções 7/13/15.
+
 ## 4. Oito encontros: uso concreto da hora de prática
 
 Mantém-se a organização atual: primeira hora de dúvidas e segunda hora de prática. A distribuição abaixo refere-se a essa segunda hora, totalizando 60 minutos por encontro.
@@ -223,10 +249,10 @@ Mantém-se a organização atual: primeira hora de dúvidas e segunda hora de pr
 | --- | --- | --- | --- | --- |
 | M0/M1 | 10 min: espaço, postura, demonstração. | 25 min: P1, P2 e repetição. | 15 min: reconhecer diferenças e quietude breve. | 10 min: concluir e escolher versão inicial. |
 | M2 | 10 min: reencontrar P1. | 25 min: variar um elemento e comparar. | 15 min: registro do vivido/interpretação. | 10 min: retomar e formular pergunta. |
-| M3 | 10 min: preparação conhecida. | 30 min: P3, demonstração e repetição. | 10 min: quietude e dúvidas de execução. | 10 min: conclusão e versões. |
+| M3 | 10 min: preparação conhecida. | 30 min: 20 de P3 e 10 de P2C, com demonstração e repetição. | 10 min: quietude, centro inferior e dúvidas de execução. | 10 min: conclusão e versões. |
 | M4 | 10 min: sequência familiar. | 25 min: intenção/esforço e P4. | 15 min: diferenciação e elaboração. | 10 min: conclusão e continuidade. |
-| M5 | 10 min: movimento preparatório. | 25 min: P5/P6 com condução e silêncio. | 15 min: elaborar sem exigir relato. | 10 min: concluir e orientar repetição. |
-| M6 | 10 min: base conhecida. | 25 min: integração e P7 conforme preparação. | 15 min: esclarecer mapa/técnica/experiência. | 10 min: reunião e conclusão. |
+| M5 | 10 min: movimento/centros como preparação. | 25 min: P5A/P5B, modalidade identificada, com silêncio real. | 15 min: P6 ou recorte P6B; elaborar sem exigir relato. | 10 min: concluir e orientar repetição. |
+| M6 | 10 min: base conhecida e três centros. | 25 min: ensino de P7C — preparação, demonstração, exploração e conclusão; alternativa P7A. | 15 min: esclarecer versão, experiência e dificuldades; repouso e registro. | 10 min: retorno global e continuidade. |
 | M7 | 10 min: preparação individual. | 25 min: P8 e experiência relacional. | 15 min: comparar e elaborar. | 10 min: retorno e continuidade. |
 | M8 | 10 min: preparação e escolha. | 25 min: sequência efetivamente aprendida. | 15 min: plano pessoal e perguntas. | 10 min: conclusão do encontro e próximos passos. |
 
@@ -237,3 +263,10 @@ O PowerPoint transversal de cultivo e seu roteiro sincronizado acompanham o mate
 Nos roteiros existentes de M0.2/M0.3 e M1.1, as inserções atuais são identificadas junto ao conteúdo correspondente. Os textos breves de apoio de M1.2/M1.3 recebem a ampliação sobre cultivo e continuidade. Nas aulas ainda sem roteiro integral, a tabela das 54 aulas, os blocos orais e P1–P8 fornecem conteúdo efetivo para a montagem, sem alegar que toda a produção audiovisual esteja concluída.
 
 Estado de produção: fundamentação, avaliação das vinte formas, propostas de exercícios, falas e distribuição curricular desenvolvidas. Apresentação transversal e apoio do aluno são derivados próprios desta incorporação. As gravações e a demonstração pessoal de Fabiano continuam sendo a realização audiovisual do material; revisões dos demais decks ocorrerão na produção de cada aula, conforme seu padrão e sem substituir silenciosamente arquivos anteriores.
+
+
+## 6. Alcance da ampliação sobre práticas internas
+
+A reavaliação identificou que a distribuição anterior precisava explicitar melhor três centros e ensino da órbita. P2C, P5B, P6B e o desenvolvimento de P7 corrigem essa assimetria, sem acrescentar séries obrigatórias nem prolongar automaticamente todas as aulas. Os períodos práticos dos encontros continuam totalizando uma hora; a revisão redistribui seu conteúdo.
+
+As oito telas transversais já produzidas continuam úteis como introdução. **Elas não contêm ainda os desenhos específicos dos três centros e do trajeto da órbita.** As indicações L/M/N fornecem conteúdo para essas telas na produção de M3/M5/M6; não declarar esses novos mapas visuais já desenhados nem vídeos demonstrativos já gravados. A demonstração segue a versão que Fabiano ensina e registra nas notas.
