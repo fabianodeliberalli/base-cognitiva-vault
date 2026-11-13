@@ -57,6 +57,16 @@ Para concluir, deixe as mãos repousarem na forma que vou mostrar. Reencontre o 
 
 **Retomada:** M2 compara uma variável da mesma base; M3 explicita relações tradicionais e aprofunda três campos; M5 usa P0 antes da quietude; M6 a recupera antes e depois da órbita; M7 a retoma na passagem para o diálogo.
 
+### P1B. A mesma base, diferentes entradas de atenção
+
+**Entrada:** comparação em M1.3/M2.1–M2.3; explicitação em M3.2. **Tempo:** 5–7 min dentro da prática prevista. **Finalidade:** ampliar e diferenciar a percepção sem multiplicar técnicas. Fundamentação, redação e fontes em [[08 - Mapas Rim Nao e Interocepção - Leitura e Incorporação]], seção 6.
+
+Após P0, reconhecer um som ou aspecto visual do ambiente; depois perceber a organização corporal, apoio e posição dos braços; em seguida acompanhar a respiração ou outra sensação interna disponível. Reunir o conjunto e concluir pela versão conhecida. Só depois registrar uma diferença e uma pergunta. A distinção organiza perguntas; não exige classificar toda sensação numa única categoria.
+
+**Fala:** “Vamos repetir a mesma preparação e mudar apenas a direção da atenção. Primeiro reconheça um aspecto do ambiente. Agora perceba como o corpo se organiza. Depois acompanhe o que consegue notar internamente. Ao final, reúna essas referências e observe o que mudou. Você pode retornar ao apoio ou ao ambiente quando isso ajudar a acompanhar.”
+
+**Variação com Sustentar o Céu:** aplicar após a demonstração técnica; comparar percepção das mãos/ambiente, organização do gesto e sopro em repetições separadas, reunindo depois. A coordenação segue a versão ensinada por Fabiano. Calma imediata, alteração hormonal e ausência de medo não são critérios de execução.
+
 ## P2. Respiração, atenção e linguagem de cultivo
 
 **Entrada:** respiração confortável em P0/P1 desde M0.2; exploração em M1/M2 e explicitação M3.1/M3.5. **Duração:** 5–7 min, incluindo P0 e conclusão. **Base:** respiração confortável, relação corpo–sopro–atenção e apresentação situada de Qi/Prana.
@@ -271,3 +281,7 @@ Perguntas de revisão: o que consigo reencontrar? O que compreendo melhor? O que
 | Após M8 | Plano pessoal de P8. | Continuidade, revisão e aprofundamento escolhido. |
 
 Uma organização inicial pode prever três ocasiões semanais de prática regular, com retomadas breves quando úteis. É sugestão para facilitar o planejamento, ajustável à técnica e à vida do aluno. Não é dose clínica extraída das pesquisas. A regularidade se desenvolve pela viabilidade e pelo sentido de continuar praticando.
+
+## 3. Mapas visuais recuperados para o ensino interno
+
+[[08 - Mapas Rim Nao e Interocepção - Leitura e Incorporação]] oferece os localizadores para a montagem: três campos na lâmina 8; Rim–Nao em 22/23 e seiva/árvore em 27; Sorriso ao inferior em 29; variantes da órbita em 12/14. P2C retoma a organização interna; P7 diferencia mapa funcional e procedimento da versão. A lâmina 12 inclui tempos e pausas próprios: registrá-los como variante da fonte, sem acrescentá-los automaticamente à condução introdutória.

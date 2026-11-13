@@ -2,13 +2,22 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.18"
+versao: "0.21"
 atualizado_em: 2026-11-13
 ---
 
+
+## Resgate de Rohden e imagens - 13/11/2026
+
+[[07 - Rohden - Assimilação Centro e Vida Cotidiana]] verifica o livro completo identificado e os destinos. [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos|00 - Catálogo de Imagens e Destinos]] oferece 39 lâminas, 48 figuras da apresentação e dois diagramas de Rohden, vinculados a M0-M8 e à fundamentação. Consultar na produção; a progressão e P1B permanecem. Atualização no PR #58, sem integração à main ou reedição dos PPTX das aulas.
+
+## Preservação na troca de chat — 13/11/2026
+
+[[09 - Preservação dos Anexos e Retomada do Chat - 13-11-2026]] reúne os 18 arquivos recuperados e a última atualização do chat, preservada no PR #57 e ainda fora da main. A ramificação de preservação inclui essa atualização, a fonte visual de 39 lâminas, P1B e as pendências; não certifica uma transcrição literal integral do chat.
+
 ## Cultivo corporal, energético e contemplativo — 13/11/2026
 
-Base permanente solicitada por Fabiano: [[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]]. A base P0/P1 começa em **M0.2**, com Zhan Zhuang/árvore, pés/R1, respiração, centro inferior e conclusão; abre as práticas em extensão adequada desde o início. M1 apresenta três campos e conteúdo recuperado de Rim–Jing–Nao; M3 aprofunda; M5 amplia quietude; M6.5/encontro M6 ensinam órbita; M8 continua a versão aprendida. 04 reúne fontes e base (§20); 03 desenvolve vinte formas; 05 oferece conduções; 06 distribui 54 aulas/oito encontros; 07 examina Rohden e articula contribuições. Reconhecer produção autoral desde a monografia de 2004 e o filtro prévio de estudo, prática e clínica explicitado por Fabiano (deliberação sobre pluralismo, §4B). A função é integrar e articular os saberes selecionados. Distinguir Liu Chih Ming/CEMETRAC, fonte da monografia, de Pai Lin. Roteiros textuais M0.2/M0.3/M1.1 e apoio do participante foram atualizados; binários M0/M1 e PPTX transversal anteriores não foram reexportados. O mapa original Rim–Nao ainda não foi localizado; sua leitura conceitual e procedência estão recuperadas. Não declarar novos mapas ou vídeos produzidos, originais ausentes conferidos nem versões técnicas fundidas.
+Base permanente solicitada por Fabiano: [[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]]. A base P0/P1 começa em **M0.2**, com Zhan Zhuang/árvore, pés/R1, respiração, centro inferior e conclusão; abre as práticas em extensão adequada desde o início. M1 apresenta três campos e conteúdo recuperado de Rim–Jing–Nao; M3 aprofunda; M5 amplia quietude; M6.5/encontro M6 ensinam órbita; M8 continua a versão aprendida. 04 reúne fontes e base (§20); 03 desenvolve vinte formas; 05 oferece conduções; 06 distribui 54 aulas/oito encontros; 07 examina Rohden e articula contribuições. Reconhecer produção autoral desde a monografia de 2004 e o filtro prévio de estudo, prática e clínica explicitado por Fabiano (deliberação sobre pluralismo, §4B). A função é integrar e articular os saberes selecionados. Distinguir Liu Chih Ming/CEMETRAC, fonte da monografia, de Pai Lin. Roteiros textuais M0.2/M0.3/M1.1 e apoio do participante foram atualizados; binários M0/M1 e PPTX transversal anteriores não foram reexportados. A apresentação-fonte de 39 lâminas foi acessada e preservada em PDF: Rim–Nao em 22/23, seiva/árvore em 27, três campos em 8 e órbita em 7–14. [[08 - Mapas Rim Nao e Interocepção - Leitura e Incorporação]] integra a leitura, o PDF de interocepção e P1B. A cópia editável do PPTM não foi obtida. Não declarar novos vídeos ou telas atuais reeditadas nem fundir versões técnicas.
 
 
 ## Máscara, armadura, castelos e Amor–Poder–Sabedoria — 12/11/2026
@@ -181,4 +190,3 @@ Preservar a distinção entre formulações autorais, conhecimentos tradicionais
 Não ler automaticamente todos os documentos da tabela. Escolher apenas a linha pertinente. Documentos extensos, transcrições, montagens e fontes são recuperados sob demanda.
 
 Se a tarefa não exigir mudança autoral, não transformar a resposta em nova deliberação.
-

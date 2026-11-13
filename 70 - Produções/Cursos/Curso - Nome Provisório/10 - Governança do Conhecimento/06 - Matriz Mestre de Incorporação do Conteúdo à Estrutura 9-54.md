@@ -3,12 +3,19 @@ tipo: matriz-incorporacao-conteudo
 projeto: Traduzindo o Ser Humano
 status: acervo-historico-consultivo
 uso_atual: acervo-consultivo
-versao: "1.7"
+versao: "1.8"
 criado_em: 2026-08-22
 atualizado_em: 2026-11-13
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
+
+
+## Rohden e imagens para produção - conferência de 13/11/2026
+
+[[07 - Rohden - Assimilação Centro e Vida Cotidiana]] documenta o exemplar integral identificado de Rohden, os trechos escolhidos e o papel de cada um no curso. [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos|00 - Catálogo de Imagens e Destinos]] disponibiliza 39 lâminas, 48 figuras distintas da apresentação e os diagramas de Rohden das páginas 19/39. Recuperação por módulo: [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M0 - Orientação e condições de participação|M0]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M1 - Experiência, assimilação e referência|M1]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M2 - Percepção e tradução|M2]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M3 - Corpo, vitalidade e cultivo|M3]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M4 - Emoções, padrões e participação|M4]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M5 - Valores, interiorização e espiritualidade|M5]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M6 - Integração e coerência possível|M6]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M7 - Expressão, relação e limites|M7]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M8 - Continuidade e revisão|M8]].
+
+Os cadernos 04/05/06/07/08 fornecem fundamento, condução, destinos e fontes; o catálogo fornece os arquivos visuais. A base começa em M0.2, os três campos e Rim-Nao aparecem inicialmente em M1.4, M2 refina a percepção, M3 aprofunda e M6.5/encontro M6 ensinam a órbita. A seleção de imagens preserva essa progressão. Disponibilidade de fonte, incorporação textual e edição final de cada aula permanecem estados distintos.
 
 ## Aprofundamento e aplicação às aulas — 13/11/2026
 

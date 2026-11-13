@@ -26,6 +26,9 @@ tags:
   - pluralismo-epistemologico
 ---
 
+
+**Resgate de Rohden e das imagens - 13/11/2026:** [[07 - Rohden - Assimilação Centro e Vida Cotidiana]] identifica o original completo e as contribuições; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos|00 - Catálogo de Imagens e Destinos]] disponibiliza as lâminas, figuras e diagramas com destinos M0-M8. A leitura conceitual e a distribuição das práticas permanecem em 04/05/06/08.
+
 ## Aprofundamento e aplicação às aulas — 13/11/2026
 
 Desenvolvimento solicitado por Fabiano: [[04 - Caderno de Fundamentação - Cultivo Meditação Prana e Circulação]]; [[05 - Caderno de Condução - Sequências e Aprendizagens do Cultivo]]; [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH]]. A nota das vinte formas recebeu aprofundamento técnico/didático. Estão redigidos exercícios, falas, destinos nas 54 aulas e organização da hora de prática dos oito encontros. Recuperar esses conteúdos na produção, além do mapeamento inicial. Materiais transversais em `Materiais/Práticas Transversais`: apresentação de oito telas, roteiro sincronizado e apoio do aluno. O exemplar de prática integral tem páginas de amostra; as passagens efetivamente examinadas e as diferenças de versão estão documentadas.
@@ -35,7 +38,7 @@ Desenvolvimento solicitado por Fabiano: [[04 - Caderno de Fundamentação - Cult
 
 Orientação atual de Fabiano: P0/P1, com árvore/Zhan Zhuang, pés/R1, respiração, centro inferior e conclusão, começam em M0.2 e abrem as práticas posteriores em extensão adequada. M1 apresenta três campos e o conteúdo recuperado de Rim–Jing–Nao; M3 aprofunda a base já vivida. M6.5/encontro M6 ensinam a órbita; M8 continua a versão aprendida. A seção 20 de 04 e os cadernos 05/06 desenvolvem o ensino.
 
-A seleção de referências que Fabiano traz já tem fundamento em seus estudos, prática e experiência clínica; sua monografia de 2004 documenta mais de vinte anos dessa elaboração. Recuperar seu conteúdo, além da credencial. [[07 - Rohden - Assimilação Centro e Vida Cotidiana]] acrescenta leitura do livro, aplicação a eixo/meditação/cotidiano e articulação das fontes. O PowerPoint original Rim–Nao não foi recuperado; seu conteúdo está registrado na síntese, com procedência em Acupuntura Bioenergética.
+A seleção de referências que Fabiano traz já tem fundamento em seus estudos, prática e experiência clínica; sua monografia de 2004 documenta mais de vinte anos dessa elaboração. Recuperar seu conteúdo, além da credencial. [[07 - Rohden - Assimilação Centro e Vida Cotidiana]] acrescenta leitura do livro, aplicação a eixo/meditação/cotidiano e articulação das fontes. A apresentação Rim–Nao foi acessada pelo link posterior de Fabiano e preservada em PDF: lâminas 22/23 e 27. [[08 - Mapas Rim Nao e Interocepção - Leitura e Incorporação]] documenta os mapas, os três campos, variantes da órbita e a ampliação sensorial P1B.
 
 ## Práticas internas — reavaliação de 13/11/2026
 

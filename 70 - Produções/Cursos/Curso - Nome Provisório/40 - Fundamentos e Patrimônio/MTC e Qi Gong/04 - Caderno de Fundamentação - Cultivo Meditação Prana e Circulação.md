@@ -8,6 +8,8 @@ atualizado_em: 2026-11-13
 
 # Fundamentos do cultivo, da meditação, de Prana e da circulação
 
+**Fontes visuais para recuperar na fundamentação e nas aulas:** [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos|00 - Catálogo de Imagens e Destinos]]. Conservar 07 para Rohden, 08 para a leitura dos mapas, 05 para os procedimentos e 06 para os destinos; o catálogo acrescenta os arquivos de imagem efetivamente disponíveis.
+
 ## 1. Finalidade e composição
 
 Este aprofundamento responde ao pedido de Fabiano de transformar os destinos de pesquisa em fundamentos efetivos das práticas e das aulas. Desenvolve [[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]], com aplicação em [[05 - Caderno de Condução - Sequências e Aprendizagens do Cultivo]] e [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH]]. A avaliação das vinte formas está em [[03 - Ba Duan Jin e Yi Jin Jing - Movimentos e Articulação Didática]].
@@ -22,6 +24,7 @@ O currículo relaciona organização corporal, linguagem energética, qualidade 
 | Yang Jwing-Ming | Regulações interdependentes, distinção entre modalidades e desenvolvimento do sentir; circulação com preparação e conclusão. | Refinamento do que já se pratica; diferença entre conhecer o trajeto e conduzi-lo. | M3, M5 e aprofundamentos de M6. |
 | Wilber, Patten, Leonard e Morelli | Prática integral personalizada; dimensões corporal, energética, contemplativa e psicológica; integração à vida. | Relacionar exercícios que antes pareciam separados e construir continuidade. | M1.3, M3, M5, M6.5 e M8.2. |
 | James | Investigação receptiva da experiência e de sua transformação ao longo do tempo. | Reconhecer significado, dificuldades de expressão e repercussões da interiorização. | M1.4, M2.5 e M5.6–M5.8; retomada M8. |
+| Rohden, *Rumo à Consciência Cósmica*, PDF 6-14, 18-28, 31-40, 60 e 73-81 | Assimilação, concentração, receptividade e integração da referência espiritual à vida. | Distinguir compreender, experienciar e continuar cultivando; interiorização como ato e atitude. | M1/M5/M6/M7/M8, com preparação desde M0; leitura, limites e destinos em [[07 - Rohden - Assimilação Centro e Vida Cotidiana]]. |
 | Mantak Chia | Sorriso Interior e cultivo de uma relação afetiva com o próprio corpo na linguagem de sua escola. | Perceber como a maneira de dirigir atenção modifica a participação na prática. | Introdução M1/M3; desenvolvimento M4/M5. |
 | Sivananda e Patañjali na tradução/comentário de Vivekananda | Prana em contexto indiano; relação entre postura, sopro, concentração e interiorização. | Compreender por que o sopro recebe uma função formativa nas tradições do Yoga. | M3.5; articulação contemplativa em M5. |
 | Ānāpānasati, MN 118 | Atenção ao respirar, sensibilidade e investigação gradual. | Aprender a reconhecer a experiência enquanto ela muda. | Atenção desde M1; investigação e meditação em M4/M5. |
@@ -432,12 +435,18 @@ No material de Ernesto, R1 recebe desenvolvimento desde as páginas 1–3: enrai
 
 [[TSH - Síntese Integrativa do Refinamento]] registra as imagens de Acupuntura Bioenergética fornecidas por Fabiano: Rim/Jing, “Circulación de Jingshen”, Chong Mai, Ren Mai, Du Mai, Nao, Xin Bao e eixo Shaoyin, em contexto de formação com Carlos Nogueira Pérez/CEMETC. A nota [[18 - CEMETC - Venia Docente e Acupuntura Bioenergética 2014-2016]] documenta a formação correspondente. A relação Rim–Jing como reserva e sustentação já integra a construção autoral do curso.
 
-Nesta retomada, foram recuperados os registros e a leitura conceitual do mapa; **o PowerPoint original Rim–Nao não foi localizado** entre os arquivos identificados no repositório e nas buscas pertinentes. O PDF *SHEN - JUNG.pptx.pdf*, efetivamente consultado, contém uma passagem sobre Jing, rins e nutrição do cérebro, mas não contém o diagrama original procurado. Não tratar esses arquivos como o mesmo material.
+**Fonte visual recuperada após o envio do link por Fabiano:** a apresentação *Qi Gong MTC — Além das Fronteiras*, com 39 lâminas, foi acessada e preservada em exportação PDF. A lâmina 23 reúne R+/R−, SGU, 1RM, T Chong, Ren Mai, Du Mai e Nao; a 22 desenvolve Jingshen/circulação, e a 27 representa Jingshen como seiva da árvore. [[08 - Mapas Rim Nao e Interocepção - Leitura e Incorporação]] documenta a leitura das figuras, sua lógica, as versões e a incorporação. O arquivo anexo `.pptm` continha HTML; a cópia editável não foi obtida, mas o acesso ao conteúdo e aos mapas está resolvido. *SHEN - JUNG.pptx.pdf* permanece outra fonte, não substituto desse material.
 
-O conteúdo recuperado já entra na progressão. A montagem da tela precisa retomar o original quando disponível para conservar setas e legendas, especialmente R+/R− e suas relações. Até lá, a explicação usa o que está documentado e não reproduz um trajeto atribuído ao slide ausente. R1, sistema Rim, campo inferior e Nao participam de relações, conservando funções próprias: o ponto não é todo o sistema Rim, e o centro inferior não é reduzido ao rim anatômico.
+A montagem já pode recuperar as lâminas identificadas, conservando setas e legendas. O mapa funcional da lâmina 23 descreve duas ramificações ascendentes até Nao; essa descrição não determina, por si, a coordenação respiratória de uma prática da órbita. As lâminas 12 e 14 oferecem versões operacionais a distinguir. R1, sistema Rim, campo inferior e Nao participam de relações, conservando funções próprias. A base desde M0/M1 permanece; M1 apresenta os mapas, M3 amplia suas relações e M6.5 ensina a versão prática escolhida.
 
 ### Retomadas com finalidade
 
 M0.2 ensina uma experiência repetível; M0.3 organiza sua ocasião de prática. M1.1 a retoma antes da investigação; M1.3 compara explicação e assimilação; M1.4 apresenta Qi e os mapas; M1.7 reúne centro e referência. M2 refina linguagem. M3 aprofunda conhecimentos que já possuem memória corporal. M5 amplia quietude; M6.5 ensina a órbita sobre essa base; M8 conserva a versão aprendida e a possibilidade de revisão.
 
 [[07 - Rohden - Assimilação Centro e Vida Cotidiana]] amplia a relação entre interiorização, eixo e vida. Rohden ajuda a compreender assimilação, receptividade e continuidade; Ernesto, Yang e Chia oferecem procedimentos e linguagens específicos do cultivo chinês; a elaboração de Fabiano organiza seu encontro na formação. O livro de Rohden não fornece o trajeto técnico da órbita nem um método dos três Tan Tien.
+
+## 21. Apresentação autoral e interocepção — fonte visual recuperada
+
+[[08 - Mapas Rim Nao e Interocepção - Leitura e Incorporação]] registra a leitura das 39 lâminas de *Qi Gong MTC — Além das Fronteiras* e das 15 páginas de conteúdo do PDF de interocepção. Foram localizados mapas dos três campos (8/10), órbita (7/9/12/14), Rim–Nao (22/23), Jingshen e Shen (24–27), Sorriso ao centro inferior (29), Pai Lin/natureza (34–35) e eixo/campo (36–38). A exportação e o PDF fornecido estão preservados em `80 - Fontes Bibliográficas`.
+
+A contribuição sensorial se concretiza em P1B, em 05: repetir a mesma base, variar uma entrada de atenção e depois reunir o conjunto. O caderno 08 distingue os mapas, identifica as versões respiratórias e propõe atualização das afirmações científicas específicas de estresse/interocepção. A integração preserva a lógica do cultivo, o filtro experiencial e clínico de Fabiano e a continuidade da monografia de 2004.

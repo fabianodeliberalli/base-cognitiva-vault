@@ -55,19 +55,19 @@ O total varia com as escolhas de condução. A avaliação evita atribuir a cada
 | M0.3 | Reencontrar a base e organizar sua repetição entre aulas. | P0 e plano pessoal; ocasião e versão de P1; Wilber e continuidade. |
 | M1.1 | Retomar a base e relacionar compreensão à aprendizagem cultivada. | P0 na abertura e antes da exploração; conteúdo de P1 já aprendido em M0.2. |
 | M1.2 | Distinguir saber, acesso e sustentação em uma experiência conhecida. | Retomada de P1; texto de apoio ampliado. |
-| M1.3 | Experimentar repetição com refinamento e assimilação. | Repetição P1 em 4–6 min; fala A; Varela, Ernesto, prática integral e Rohden, PDF 9–11. |
-| M1.4 | Apresentar Qi, três campos e Rim–Jing–Nao a partir da base vivida. | Fala B/O; conteúdo recuperado do mapa e fonte em 04 §20; James; referência histórica à atividade de Pai Lin. |
+| M1.3 | Experimentar repetição com refinamento e assimilação. | P1 ou comparação P1B em 5–7 min; fala A; Varela, Ernesto, prática integral e Rohden, PDF 9–11. |
+| M1.4 | Apresentar Qi, três campos e Rim–Jing–Nao a partir da base vivida. | Fala B/O; apresentação autoral, lâminas 8, 22/23 e 27, com leitura inicial; 08 e 04 §20; James/Pai Lin. |
 | M1.5 | Reconhecer diferentes dimensões da prática pelas Cinco Janelas. | Retomada breve; sensação, afeto, pensamento, relação e sentido. |
 | M1.6 | Registrar o vivido e formular uma pergunta de continuidade. | P6 em sua função de registro; adaptar a cartografia existente. |
 | M1.7 | Reencontrar centro e referência; apresentar interiorização e expressão na vida. | P0/P1, mapa dos três campos e Rohden PDF 13 e 38–40; eixo e oscilação. |
-| M2.1 | Investigar como atenção e movimento participam do percebido. | Mesma prática com um foco diferente; sem nova técnica obrigatória. |
+| M2.1 | Investigar como atenção e movimento participam do percebido. | P1B: variar uma entrada de atenção e reunir; manter a base conhecida. |
 | M2.2 | Perceber o que ganha destaque na experiência. | Comparar apoio e mãos em P1; observar mudanças de saliência. |
 | M2.3 | Distinguir sensação, imagem e expectativa. | P1/P2; não induzir uma sensação energética padronizada. |
 | M2.4 | Relacionar repetição de prática e modos habituais de participar. | Exemplo de pressa/controle no exercício; sem equiparar os processos. |
 | M2.5 | Diferenciar ocorrido, vivido, memória associada e interpretação, inclusive espiritual. | P6/P6B; James, metacognição e tradução provisória. |
 | M2.6 | Rever uma compreensão a partir de nova tentativa. | Repetição de P1 com registro comparativo. |
 | M3.1 | Relacionar estado corporal e possibilidade de participação. | P2; experiência corporificada e escolha do exercício. |
-| M3.2 | Refinar sensação interna e reconhecimento de apoio/movimento. | P1/P2; distinguir interocepção, propriocepção e interpretação. |
+| M3.2 | Refinar sensação interna, apoio/movimento e relação com ambiente. | P0/P1B/P2; perguntas perceptivas e distinção entre vivido e interpretação; PDF e estudos em 08. |
 | M3.3 | Considerar descanso, ritmo e condições da prática. | Jing/reserva na linguagem tradicional em diálogo com necessidades do organismo. |
 | M3.4 | Apresentar o mapa autonômico como uma escala de compreensão. | Nota de pesquisa; exemplos de mobilizar, repousar e ajustar, sem equivalência Qi–vago. |
 | M3.5 | Desenvolver Qi/Jing/Shen, três Tan Tien e comparação situada com Prana. | Fala C; glossário gradual; monografia autoral de 2004 e fontes tradicionais/indianas em 04. |
@@ -91,7 +91,7 @@ O total varia com as escolhas de condução. A avaliação evita atribuir a cada
 | M6.2 | Perceber partes e conjunto em movimento conhecido. | B3 ou forma axial de Yi Jin Jing devidamente ensinada. |
 | M6.3 | Permanecer com ambivalências e reconhecer necessidade de elaboração. | P4/P6; Salvador e prática integral. |
 | M6.4 | Relacionar recursos ao mapa de integração funcional. | Identificar o que cada parte da sequência oferece. |
-| M6.5 | Ensinar órbita com procedência, demonstração, reunião e repouso; relacionar os três centros. | P7A/P7B/P7C; falas J/N; fontes Ernesto/Yang/Chia, monografia autoral e quadro de versões em 04. |
+| M6.5 | Ensinar órbita com procedência, demonstração, reunião e repouso; relacionar os três centros. | P7A/P7B/P7C; falas J/N; fontes Ernesto/Yang/Chia, monografia autoral e lâminas 7–14/23, com distinções de 08. |
 | M6.6 | Integrar experiência ao contexto e à participação possível. | Conclusão de P7 e escolha de continuidade. |
 | M7.1 | Experimentar interiorização que sustenta expressão e retorno. | P0/P8 antes/depois de diálogo; Rohden PDF 60 e 69–72. |
 | M7.2 | Distinguir vivido e acusação numa situação relacional. | Retomada de registro/percepção; linguagem da experiência. |
@@ -105,6 +105,12 @@ O total varia com as escolhas de condução. A avaliação evita atribuir a cada
 | M8.2 | Organizar plano pessoal e aprofundamento. | P8; fala K; desenho da prática integral personalizado. |
 | M8.3 | Apresentar possibilidades de continuidade. | Distinguir manutenção da base, estudo de séries completas e aprofundamentos orientados. |
 
+### Fontes visuais e Rohden por módulo
+
+Na tabela das 54 aulas, recuperar os arquivos pela entrada do módulo correspondente: [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M0 - Orientação e condições de participação|M0]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M1 - Experiência, assimilação e referência|M1]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M2 - Percepção e tradução|M2]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M3 - Corpo, vitalidade e cultivo|M3]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M4 - Emoções, padrões e participação|M4]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M5 - Valores, interiorização e espiritualidade|M5]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M6 - Integração e coerência possível|M6]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M7 - Expressão, relação e limites|M7]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M8 - Continuidade e revisão|M8]]. O catálogo relaciona número da lâmina, componentes extraídos e condição de uso; a nota 07 relaciona passagens de Rohden. M2 retoma figuras da preparação conhecida para comparar percepção. M3 aprofunda os mapas já apresentados; M6.5 conserva o ensino orientado da órbita.
+
+As figuras de Rohden em PDF 19/39 estão disponíveis para M5.4 e M1.7/M5.3, com retomadas em integração, relações e continuidade. Seu papel é filosófico, espiritual e pedagógico; a técnica de circulação continua nas fontes e na demonstração de Fabiano.
+
 ## 3. Blocos orais para incorporação
 
 As falas abaixo são textos de trabalho para a voz de Fabiano. As referências detalhadas ficam nas notas e no caderno de fundamentação. Quando acompanharem o PowerPoint transversal, manter a correspondência de conteúdo e condução.
@@ -117,7 +123,7 @@ Talvez você perceba um ajuste nos ombros, no apoio ou na maneira de dirigir a a
 
 Essa é uma das razões para termos práticas ao longo do TSH. Queremos desenvolver familiaridade, linguagem e possibilidade de participação. Vamos começar com poucos elementos e voltar a eles com mais compreensão. A experiência refina o que entendemos, e o que entendemos pode orientar uma nova experiência.”
 
-**Condução:** realizar P1; reservar a explicação mais extensa de Qi e dos mapas para M3. **Tela:** “Repetir permite perceber novas diferenças”. **Fonte:** Ernesto e experiência corporificada; prática integral, PDF 161/173.
+**Condução:** realizar P1 ou a comparação P1B; M1.4 apresenta inicialmente Qi, três campos e Rim-Nao; M3 aprofunda os mapas e a linguagem já encontrados. **Tela:** “Repetir permite perceber novas diferenças”. **Fonte:** Ernesto e experiência corporificada; prática integral, PDF 161/173.
 
 ### B. M1.4 — A linguagem de Qi e a experiência
 
@@ -247,7 +253,7 @@ Vamos trabalhar a órbita com sua finalidade de cultivo energético, aprender a 
 
 Esta integração vem de um trabalho que desenvolvo há muitos anos, em estudo, prática pessoal e atendimentos clínicos. Na minha monografia de Medicina Tradicional Chinesa, de 2004, a relação entre mente, corpo e espírito já orientava essa investigação. As referências que trago para o TSH participam desse caminho e ajudam a compreender diferentes aspectos do que vamos experimentar.”
 
-**Uso:** primeira parte acompanha o ensino em M0.2; a continuidade autoral pode entrar na apresentação de M0.1/M1.1, com formulação ajustada à fala pessoal de Fabiano. Em M1.4, mostrar o conjunto inicial dos três campos e explicar o mapa Rim–Jing–Nao a partir do conteúdo documentado em 04, seção 20; não identificar outra figura como o PowerPoint original ausente.
+**Uso:** primeira parte acompanha o ensino em M0.2; a continuidade autoral pode entrar na apresentação de M0.1/M1.1, com formulação ajustada à fala pessoal de Fabiano. Em M1.4, mostrar o conjunto inicial dos três campos e explicar o mapa Rim–Jing–Nao com as lâminas recuperadas 8, 22/23 e 27 da apresentação autoral, conforme 08 e 04, seção 20.
 
 ### P. M5/M7/M8 — Interiorização e presença na vida
 
@@ -291,4 +297,12 @@ As oito telas transversais já produzidas continuam úteis como introdução. **
 
 Esta revisão antecipa o primeiro ensino de P1 para M0.2 e a apresentação dos mapas para M1.4, com retomada desde M1.1. M3 aprofunda uma aprendizagem iniciada; o ensino orientado da órbita permanece em M6.5/encontro M6. O registro autoral e a leitura de Rohden estão incorporados a 01/04/07 e aos blocos O/P. P0 abre também as propostas práticas de escrita e relação, em versão breve.
 
-Os roteiros textuais M0.2/M0.3/M1.1 e o apoio do participante foram atualizados nesta revisão. **Os PPTX/DOCX/PDF anteriores de M0/M1 e o PPTX transversal de oito telas não foram reexportados nesta etapa.** O roteiro das telas indica a substituição da tela 2 e das notas para a próxima edição; sua versão anterior continua preservada. O mapa original Rim–Nao permanece a recuperar para reprodução visual fiel. Nenhuma dessas pendências retira o conteúdo da base curricular nem declara realizadas gravações ou demonstrações audiovisuais.
+Os roteiros textuais M0.2/M0.3/M1.1 e o apoio do participante foram atualizados nesta revisão. **Os PPTX/DOCX/PDF anteriores de M0/M1 e o PPTX transversal de oito telas não foram reexportados nesta etapa.** O roteiro das telas indica a substituição da tela 2 e das notas para a próxima edição; sua versão anterior continua preservada. A apresentação-fonte foi acessada após o envio do link; seus mapas estão preservados em PDF, com localizadores e uso em 08. A cópia editável do PPTM não foi obtida. A recuperação não declara reeditadas as apresentações atuais nem realizadas novas gravações.
+
+### Fonte autoral recuperada e ampliação sensorial
+
+[[08 - Mapas Rim Nao e Interocepção - Leitura e Incorporação]] identifica as lâminas a recuperar para M1/M3/M5/M6 e redige as falas de ligação. P1B acrescenta uma comparação perceptiva à mesma base. A leitura do PDF de interocepção também fornece redações proporcionais às afirmações sobre estresse; preservar os originais e usar a revisão docente ao montar a fala científica. A fonte recuperada já está disponível como PDF; a produção das telas atuais permanece uma etapa própria.
+
+### Imagens extraídas disponíveis - 13/11/2026
+
+[[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos|00 - Catálogo de Imagens e Destinos]] resolve a disponibilidade dos arquivos visuais para montagem: 39 lâminas, 48 figuras distintas da apresentação e dois diagramas de Rohden, com origem e destinos. A fonte histórica não foi reescrita. A composição final nas aulas, a revisão de legendas e a sincronização dos PPTX/roteiros/notas/entregáveis seguem a produção de cada aula.
