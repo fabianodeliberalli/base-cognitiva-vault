@@ -3,16 +3,20 @@ tipo: porta-de-entrada-de-contexto
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: referencia-atual-revisavel
-versao: "4.2"
+versao: "4.3"
 criado_em: 2026-07-21
 atualizado_em: 2026-11-13
 autor: Fabiano Deliberalli
 autoridade_de_decisao: Fabiano Deliberalli
 ---
 
+## Preservação na troca de chat — 13/11/2026
+
+Retomada desta frente em [[08 - Preservação dos Anexos e Retomada do Chat - 13-11-2026]]: 18 arquivos preservados; quatro incorporações confirmadas na main; PDF de 39 lâminas recuperado; próximos passos e limites da recuperação identificados.
+
 ## Cultivo corporal, energético e contemplativo — 13/11/2026
 
-Base: [[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]]. P0/P1 ensinam árvore, pés/R1 e centro inferior desde M0.2; M1 apresenta três campos e Rim–Jing–Nao; M3 aprofunda; M6.5/encontro M6 ensinam órbita. Fontes em 04; condução 05; aulas 06; Rohden e articulação autoral em 07. Produção desde 2004 e seleção experiencial/clínica reconhecidas. Binários e mapa original Rim–Nao ainda a atualizar/recuperar.
+Base: [[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]]. P0/P1 ensinam árvore, pés/R1 e centro inferior desde M0.2; M1 apresenta três campos e Rim–Jing–Nao; M3 aprofunda; M6.5/encontro M6 ensinam órbita. Fontes em 04; condução 05; aulas 06; Rohden e articulação autoral em 07. Produção desde 2004 e seleção experiencial/clínica reconhecidas. Binários das aulas ainda a atualizar; fonte visual Rim–Nao recuperada no PDF indicado em 08, com editável pendente.
 
 
 ## Máscara, armadura e potencialidades — 12/11/2026

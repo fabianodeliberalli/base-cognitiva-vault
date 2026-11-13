@@ -432,9 +432,11 @@ No material de Ernesto, R1 recebe desenvolvimento desde as páginas 1–3: enrai
 
 [[TSH - Síntese Integrativa do Refinamento]] registra as imagens de Acupuntura Bioenergética fornecidas por Fabiano: Rim/Jing, “Circulación de Jingshen”, Chong Mai, Ren Mai, Du Mai, Nao, Xin Bao e eixo Shaoyin, em contexto de formação com Carlos Nogueira Pérez/CEMETC. A nota [[18 - CEMETC - Venia Docente e Acupuntura Bioenergética 2014-2016]] documenta a formação correspondente. A relação Rim–Jing como reserva e sustentação já integra a construção autoral do curso.
 
-Nesta retomada, foram recuperados os registros e a leitura conceitual do mapa; **o PowerPoint original Rim–Nao não foi localizado** entre os arquivos identificados no repositório e nas buscas pertinentes. O PDF *SHEN - JUNG.pptx.pdf*, efetivamente consultado, contém uma passagem sobre Jing, rins e nutrição do cérebro, mas não contém o diagrama original procurado. Não tratar esses arquivos como o mesmo material.
+Na conferência encerrada no PR #56, o PowerPoint original Rim–Nao não havia sido localizado. O PDF *SHEN - JUNG.pptx.pdf*, então consultado, contém uma passagem sobre Jing, rins e nutrição do cérebro, mas não contém esse diagrama.
 
-O conteúdo recuperado já entra na progressão. A montagem da tela precisa retomar o original quando disponível para conservar setas e legendas, especialmente R+/R− e suas relações. Até lá, a explicação usa o que está documentado e não reproduz um trajeto atribuído ao slide ausente. R1, sistema Rim, campo inferior e Nao participam de relações, conservando funções próprias: o ponto não é todo o sistema Rim, e o centro inferior não é reduzido ao rim anatômico.
+**Atualização na troca de chat, 13/11/2026:** o link de “Qi Gong MTC — Além das Fronteiras” abriu a apresentação de 39 lâminas e permitiu recuperar uma exportação visual em PDF. A lâmina 23 contém o mapa “Bateria energética R+”, com R+/R−, T Chong, Ren, Du e Nao; a lâmina 27 contém as imagens de circulação de Jingshen e formação do Shen. Arquivo, procedência e inventário em [[08 - Preservação dos Anexos e Retomada do Chat - 13-11-2026]]. O anexo .pptm recebido é HTML; o arquivo editável continua pendente. O PDF recuperado já permite conferir visualmente setas e legendas, sem confundi-lo com *SHEN - JUNG*.
+
+O conteúdo permanece na progressão. Ao montar a tela, consultar a fonte visual e a versão prática efetivamente ensinada. R1, sistema Rim, campo inferior e Nao participam de relações, conservando funções próprias: o ponto não é todo o sistema Rim, e o centro inferior não é reduzido ao rim anatômico.
 
 ### Retomadas com finalidade
 

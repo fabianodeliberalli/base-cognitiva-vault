@@ -247,7 +247,7 @@ Vamos trabalhar a órbita com sua finalidade de cultivo energético, aprender a 
 
 Esta integração vem de um trabalho que desenvolvo há muitos anos, em estudo, prática pessoal e atendimentos clínicos. Na minha monografia de Medicina Tradicional Chinesa, de 2004, a relação entre mente, corpo e espírito já orientava essa investigação. As referências que trago para o TSH participam desse caminho e ajudam a compreender diferentes aspectos do que vamos experimentar.”
 
-**Uso:** primeira parte acompanha o ensino em M0.2; a continuidade autoral pode entrar na apresentação de M0.1/M1.1, com formulação ajustada à fala pessoal de Fabiano. Em M1.4, mostrar o conjunto inicial dos três campos e explicar o mapa Rim–Jing–Nao a partir do conteúdo documentado em 04, seção 20; não identificar outra figura como o PowerPoint original ausente.
+**Uso:** primeira parte acompanha o ensino em M0.2; a continuidade autoral pode entrar na apresentação de M0.1/M1.1, com formulação ajustada à fala pessoal de Fabiano. Em M1.4, mostrar o conjunto inicial dos três campos e explicar o mapa Rim–Jing–Nao a partir do conteúdo documentado em 04, seção 20; consultar a fonte visual recuperada em 08, lâmina 23, e distinguir o PDF do PPTM editável ainda pendente.
 
 ### P. M5/M7/M8 — Interiorização e presença na vida
 
@@ -291,4 +291,4 @@ As oito telas transversais já produzidas continuam úteis como introdução. **
 
 Esta revisão antecipa o primeiro ensino de P1 para M0.2 e a apresentação dos mapas para M1.4, com retomada desde M1.1. M3 aprofunda uma aprendizagem iniciada; o ensino orientado da órbita permanece em M6.5/encontro M6. O registro autoral e a leitura de Rohden estão incorporados a 01/04/07 e aos blocos O/P. P0 abre também as propostas práticas de escrita e relação, em versão breve.
 
-Os roteiros textuais M0.2/M0.3/M1.1 e o apoio do participante foram atualizados nesta revisão. **Os PPTX/DOCX/PDF anteriores de M0/M1 e o PPTX transversal de oito telas não foram reexportados nesta etapa.** O roteiro das telas indica a substituição da tela 2 e das notas para a próxima edição; sua versão anterior continua preservada. O mapa original Rim–Nao permanece a recuperar para reprodução visual fiel. Nenhuma dessas pendências retira o conteúdo da base curricular nem declara realizadas gravações ou demonstrações audiovisuais.
+Os roteiros textuais M0.2/M0.3/M1.1 e o apoio do participante foram atualizados nesta revisão. **Os PPTX/DOCX/PDF anteriores de M0/M1 e o PPTX transversal de oito telas não foram reexportados nesta etapa.** O roteiro das telas indica a substituição da tela 2 e das notas para a próxima edição; sua versão anterior continua preservada. A fonte visual Rim–Nao foi recuperada no PDF de 39 lâminas indicado em 08; a obtenção do PPTM editável permanece pendente. A reprodução deverá consultar a lâmina 23 e suas legendas. Nenhuma dessas pendências retira o conteúdo da base curricular nem declara realizadas gravações ou demonstrações audiovisuais.

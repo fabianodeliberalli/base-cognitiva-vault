@@ -3,16 +3,20 @@ tipo: estado-e-continuidade-de-producao
 projeto: Traduzindo o Ser Humano
 recorte_entrega: "M1.1-M1.7"
 status: referencia-atual-revisavel
-versao: "1.4"
+versao: "1.5"
 criado_em: 2026-08-23
 atualizado_em: 2026-11-13
 preparacao_de_gravacoes: autorizada
 status_audiovisual: arquivos-finais-e-ensaio-pendentes
 ---
 
+## Preservação na troca de chat — 13/11/2026
+
+[[08 - Preservação dos Anexos e Retomada do Chat - 13-11-2026]] recupera a comparação M1/M2 e a apresentação de 39 lâminas. Na produção de M1.4, a fonte visual Rim–Nao está na lâmina 23; conferir a preparação recorrente e a correspondência com os materiais ainda a reexportar.
+
 ## Desenvolvimento aplicado — 13/11/2026
 
-Primeiro ensino P0/P1 em **M0.2**: árvore, pés/R1, respiração, centro inferior e conclusão. M1.1 retoma; M1.3 repete; M1.4 apresenta três campos e Rim–Jing–Nao. Recuperar 04 (§20), 05 e 06; [[07 - Rohden - Assimilação Centro e Vida Cotidiana]] acrescenta assimilação e vida cotidiana. A produção autoral desde 2004 e o filtro experiencial/clínico orientam a integração. Roteiros textuais atualizados; binários anteriores ainda não reexportados. O PPT original Rim–Nao não foi localizado.
+Primeiro ensino P0/P1 em **M0.2**: árvore, pés/R1, respiração, centro inferior e conclusão. M1.1 retoma; M1.3 repete; M1.4 apresenta três campos e Rim–Jing–Nao. Recuperar 04 (§20), 05 e 06; [[07 - Rohden - Assimilação Centro e Vida Cotidiana]] acrescenta assimilação e vida cotidiana. A produção autoral desde 2004 e o filtro experiencial/clínico orientam a integração. Roteiros textuais atualizados; binários anteriores ainda não reexportados. A fonte visual Rim–Nao está no PDF de 39 lâminas registrado em 08; o PPTM editável permanece pendente.
 
 
 Para M1.7, recuperar também P6B e a avaliação de metacognição em 04, seção 19: observação, história, intuição e interpretação espiritual. A retomada breve não antecipa todos os métodos internos de M3/M5/M6.
