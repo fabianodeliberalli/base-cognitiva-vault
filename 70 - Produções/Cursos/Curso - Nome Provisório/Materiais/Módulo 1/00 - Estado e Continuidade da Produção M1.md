@@ -10,6 +10,11 @@ preparacao_de_gravacoes: autorizada
 status_audiovisual: arquivos-finais-e-ensaio-pendentes
 ---
 
+## Desenvolvimento aplicado — 13/11/2026
+
+[[04 - Caderno de Fundamentação - Cultivo Meditação Prana e Circulação]] e [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH]] aprofundam a base anterior. M1.1 recebeu fala de cultivo na seção 8a; os textos de apoio M1.1–M1.3 receberam ampliações. A primeira condução P1 está redigida para M1.3 ou encontro M0/M1. Há oito telas transversais com notas e roteiro correspondente em `Materiais/Práticas Transversais`. Os demais decks existentes não foram sobrescritos; a demonstração corporal será realizada por Fabiano.
+
+
 ## Retomada de produção — cultivo e sequência inicial — 13/11/2026
 
 Incorporar a base autorizada em [[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]]: M1 apresenta uma primeira sequência repetível de corpo, respiração e atenção, com linguagem inicial de Qi. [[03 - Ba Duan Jin e Yi Jin Jing - Movimentos e Articulação Didática]] propõe Sustentar o Céu ou Wei Tuo I, conforme a escolha e a versão ensinada por Fabiano. M1.1–M1.3 relacionam prática e aprendizagem; M1.4 diferencia mapas; M1.5/M1.6 registram o vivido; M1.7 retoma centro/eixo. [[02 - Ernesto Garcia e Fontes de Cultivo - Leitura e Destinação]] permite recuperar Ernesto e os demais fundamentos.

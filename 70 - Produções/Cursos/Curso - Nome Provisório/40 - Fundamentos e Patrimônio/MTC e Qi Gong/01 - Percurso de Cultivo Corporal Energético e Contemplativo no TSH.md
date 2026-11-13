@@ -8,6 +8,13 @@ autor_do_projeto: Fabiano Deliberalli
 origem: deliberacao-autoral-e-reorganizacao-do-acervo
 ---
 
+## Desenvolvimento substantivo de 13/11/2026
+
+O pedido posterior de Fabiano ampliou a leitura e a concretização desta base: [[04 - Caderno de Fundamentação - Cultivo Meditação Prana e Circulação]] desenvolve prática integral, James, Sorriso Interior, Prana, meditação, circulação e pesquisa acadêmica; [[05 - Caderno de Condução - Sequências e Aprendizagens do Cultivo]] redige oito sequências; [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH]] avalia carga, distribui funções nas 54 aulas e fornece blocos orais e uso dos oito encontros. A nota das vinte formas recebeu aprofundamento técnico/didático. Há também oito telas de apoio com notas sincronizadas e texto do aluno em `Materiais/Práticas Transversais`.
+
+As distribuições iniciais abaixo passam a ser lidas junto desses desenvolvimentos. O diálogo com Prana possui agora fontes indianas examinadas. A divergência respiratória da pequena circulação foi localizada em Ernesto/Yang e na Prática Integral de Vida, com suas versões identificadas. A conclusão arquitetural mantém a distribuição 9/54 como proposta viável, com redistribuição interna e tempo de prática efetivo.
+
+
 # Percurso de cultivo corporal, energético e contemplativo no TSH
 
 ## 1. Decisão autoral e alcance desta incorporação

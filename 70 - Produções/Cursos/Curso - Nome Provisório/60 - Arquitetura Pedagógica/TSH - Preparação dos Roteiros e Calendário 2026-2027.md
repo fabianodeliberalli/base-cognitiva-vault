@@ -4,6 +4,11 @@ atualizado_em: 2026-11-13
 status: referencia-atual-revisavel
 ---
 
+## Aprofundamento e aplicação às aulas — 13/11/2026
+
+Desenvolvimento solicitado por Fabiano: [[04 - Caderno de Fundamentação - Cultivo Meditação Prana e Circulação]]; [[05 - Caderno de Condução - Sequências e Aprendizagens do Cultivo]]; [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH]]. A nota das vinte formas recebeu aprofundamento técnico/didático. Estão redigidos exercícios, falas, destinos nas 54 aulas e organização da hora de prática dos oito encontros. Recuperar esses conteúdos na produção, além do mapeamento inicial. Materiais transversais em `Materiais/Práticas Transversais`: apresentação de oito telas, roteiro sincronizado e apoio do aluno. O exemplar de prática integral tem páginas de amostra; as passagens efetivamente examinadas e as diferenças de versão estão documentadas.
+
+
 ## Base de cultivo para produção das aulas — 13/11/2026
 
 Fabiano autorizou a incorporação permanente de [[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]], com fontes em [[02 - Ernesto Garcia e Fontes de Cultivo - Leitura e Destinação]] e repertórios de Ba Duan Jin/Yi Jin Jing em [[03 - Ba Duan Jin e Yi Jin Jing - Movimentos e Articulação Didática]]. Os tempos e sequências continuam propostas revisáveis. O calendário e a contagem de entrega abaixo não foram alterados por esse registro.
