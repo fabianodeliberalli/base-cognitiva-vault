@@ -26,6 +26,17 @@ tags:
   - pluralismo-epistemologico
 ---
 
+## Cultivo longitudinal — incorporação autoral de 13/11/2026
+
+Fabiano autorizou incorporar permanentemente uma base cumulativa de cultivo corporal, energético e contemplativo. [[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]] organiza fundamentos, progressão, destinos por aula, oito encontros e continuidade entre eles; [[02 - Ernesto Garcia e Fontes de Cultivo - Leitura e Destinação]] documenta a leitura interna do material de Ernesto Garcia e a articulação com o acervo. [[03 - Ba Duan Jin e Yi Jin Jing - Movimentos e Articulação Didática]] incorpora exercícios pontuais de Ba Duan Jin e Yi Jin Jing, técnicas em que Fabiano informa ter formação e prática, também documentadas no acervo.
+
+Esta ampliação desenvolve os refinamentos de outubro/novembro: três regulações, Song, raiz, centro, Jing/Qi/Shen, Dantian, Qi Ji, intenção, dinâmica/quietude, meditação e circulação compõem uma formação reiterada. Os recursos breves de retorno passam a ser uma das formas de uso. M3 concentra explicitação e estruturação, com experiências desde M0/M1, interiorização efetiva em M5, integração em M6 e aplicação/continuidade em M7/M8.
+
+Na escolha prática, distinguir a versão introdutória, a prática regular e o aprofundamento orientado. A classificação histórica da seção 19 não impede toda experiência de cultivo nem define por si só o que Fabiano pode ensinar. Pequena circulação conserva preparação e técnica próprias. Sua versão respiratória deve ser identificada por fonte: Ernesto descreve na p. 36 subida posterior na inspiração e descida anterior na expiração; orientações diferentes presentes no acervo requerem contextualização antes de reutilização.
+
+As propostas de distribuição e duração permanecem revisáveis. Roteiros, apresentações e demonstrações ainda precisam receber a revisão correspondente durante sua produção.
+
+
 ## Incorporação — Varela e Castellanos
 
 Fabiano solicitou incorporar as elaborações e avaliar o acréscimo em M1.1–M1.3. Consultar [[TSH - Varela e Castellanos - Experiência corporificada e cultivo]]: fontes originais, TCC e monografia MTC, diálogo com Forghieri, Qi Gong e Essência, destinos por aula e auditoria dos materiais. M1.1/M1.2 já contemplam os fundamentos na didática; M1.3 recebe texto breve ampliado em [[M1.3 - Texto breve de apoio - O aprendido na vida]]. Falas, slides e práticas existentes preservados. Arquivos diagramados anteriores não foram reexportados. Retomar sobretudo em M1.4, M2, M3 e M5. PR35/36/38 continuam frentes de produção separadas; este registro não declara sua integração.

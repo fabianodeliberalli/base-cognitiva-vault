@@ -6,9 +6,18 @@ status: referencia-de-busca-revisavel
 versao: "1.1"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-21
-atualizado_em: 2026-09-07
+atualizado_em: 2026-11-13
 relacionado_a: 01 - Reconciliação da Governança do Conhecimento e Disponibilidade do Acervo
 ---
+
+## Cultivo corporal, energético e contemplativo — recuperação de 13/11/2026
+
+Destino atual: [[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]]; fundamentos e cobertura da leitura: [[02 - Ernesto Garcia e Fontes de Cultivo - Leitura e Destinação]]; movimentos e aulas: [[03 - Ba Duan Jin e Yi Jin Jing - Movimentos e Articulação Didática]].
+
+Conteúdos articulados: material de Ernesto Garcia fornecido por Fabiano; monografia autoral de acupuntura (2004); fundamentos de MTC/Qi Gong do TSH; *The Root of Chinese Qigong*, *Small Circulation* e *Embryonic Breathing*, de Yang Jwing-Ming, com leitura dirigida documentada; *Secret of Youth* como rota específica de Yi Jin Jing; nota de Samatha/Vipassana; prática integral; Taoismo, Self/Essência, Salvador, Varela/Castellanos e fontes autorais de espiritualidade. Formação de Fabiano em Ba Duan Jin e Yi Jin Jing confirmada por sua informação e pelo dossiê documental do acervo.
+
+Aplicação: experiência desde M0/M1, refinamento em M2, estruturação em M3, emoções/padrões em M4, meditação/interiorização em M5, integração/circulação em M6, relação em M7 e continuidade em M8. Associações antigas que concentram o cultivo em poucos módulos ou o reservam genericamente ao laboratório são fotografias anteriores, a contextualizar por esta ampliação. Preservar a leitura específica necessária para cada técnica; disponibilidade de PDF não comprova leitura integral.
+
 ## Retomadas e materiais registrados em 31/10/2026
 
 Antes de produzir a aula pertinente, consultar [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Governança do Conhecimento/TSH - Retomadas de escrita atenção e diferenciação nas 54 aulas]] e os itens correspondentes em [[70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/TSH - Escrita atenção e diferenciação - Referências e limites]]. A matriz utiliza o Raio X atualizado de 31/10; não altera a arquitetura. [[70 - Produções/Cursos/Curso - Nome Provisório/Práticas Candidatas/Práticas por Módulo - Consulta em criação e expansão]] está em plena criação e expansão: somente consulta contextual, sem governar as práticas. Aplicar [[70 - Produções/Cursos/Curso - Nome Provisório/20 - Identidade Visual/10 - Sistema Oficial v1.0/00 - Manual de Identidade Visual v1.0]] aos slides e entregáveis. Registrar o uso efetivo de cada fonte e sua limitação. M0.2 atual: [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 0/M0.2 - Roteiro e notas sincronizados v1.2]].

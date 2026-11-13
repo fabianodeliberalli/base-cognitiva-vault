@@ -2,9 +2,29 @@
 tipo: desenvolvimento-pedagogico
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-atualizado_em: 2026-10-31
+atualizado_em: 2026-11-13
 autor_do_projeto: Fabiano Deliberalli
 ---
+
+## Reorganização do cultivo no percurso — 13/11/2026
+
+[[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]] amplia esta integração por decisão de Fabiano: cultivo corporal, energético e contemplativo desde M0/M1, com repetição entre encontros, estruturação em M3, interiorização em M5 e continuidade em M6–M8. [[02 - Ernesto Garcia e Fontes de Cultivo - Leitura e Destinação]] fundamenta a construção e [[03 - Ba Duan Jin e Yi Jin Jing - Movimentos e Articulação Didática]] apresenta a seleção pontual de Ba Duan Jin e Yi Jin Jing.
+
+### Atualização da função prática dos oito encontros
+
+| Encontro | Trabalho a desenvolver | Retomada entre encontros |
+| --- | --- | --- |
+| M0/M1 | Primeira sequência reconhecível; apoio, mãos, atenção e encerramento. | Repetir a versão inicial; reconhecer descobertas e dúvidas. |
+| M2 | Mesmos movimentos, variando um elemento; vivido e interpretação. | Comparar experiências sem exigir uma sensação esperada. |
+| M3 | Três regulações, Song, raiz, Dantian e Qi Ji; sequência regular. | Refinar a prática ensinada com apoio da demonstração. |
+| M4 | Padrões de esforço, controle e relação com emoções durante o cultivo. | Ajustar participação sem exigir supressão emocional. |
+| M5 | Quietude e interiorização, sustentadas pela prática corporal. | Integrar movimento e meditação em rotina possível. |
+| M6 | Reunir fundamentos e estudar circulação; aprofundar segundo preparação. | Consolidar a base e distinguir estudo do mapa de realização técnica. |
+| M7 | Relação entre centro cultivado, escuta, expressão e limites. | Investigar efeitos e dificuldades em situações cotidianas. |
+| M8 | Selecionar sequência conhecida e construir continuidade. | Plano pessoal revisável e escolha de apoio/aprofundamento. |
+
+Essa atualização amplia o quadro de encontros preservado abaixo. M0/M1 continuam conjuntos; são oito encontros/16h. A prática de M5 inclui aprendizagem contemplativa efetiva, além da elaboração de símbolos e sentidos. A pequena circulação pode ser estudada em M6 e desenvolvida quando pertinente à turma, sem certificação automática de preparo por ter alcançado o módulo.
+
 
 # Integração do refinamento ao percurso do TSH
 
@@ -192,10 +212,10 @@ A Órbita pode encontrar coerência curricular pelo desenvolvimento progressivo 
 
 | Etapa | Função |
 | --- | --- |
-| M1 e M2 | Cultivar observação e distinguir percebido, associado, concluído e desconhecido. |
+| M1 e M2 | Iniciar apoio, movimento, respiração e atenção em sequência repetível; refinar observação e distinguir percebido, associado, concluído e desconhecido. |
 | M3.5 | Apresentar linguagem e origem tradicional, conforme a formação efetivamente utilizada por Fabiano. |
 | M3.6 e encontro de M3 | Trabalhar apoios, centro, movimento, respiração confortável e intenção; diferenciar mapa e sensação. O professor decide se cabe uma introdução ao percurso. |
-| M5 | Investigar sentidos simbólicos e espirituais possíveis sem fazer da sensação prova de circulação ou realização espiritual. |
+| M5 | Aprofundar quietude, continuidade da atenção e cultivo contemplativo; elaborar sentidos espirituais e simbólicos sem exigir sensações específicas como prova de realização. |
 | M6 e encontro de M6 | Retomar fundamentos, ajustar a participação e, se pertinente à turma, orientar a sequência escolhida; integrar a experiência com palavras, imagens ou registro aberto. |
 | M8 | Decidir continuidade, dose e necessidade de orientação, a partir da prática efetivamente ensinada. |
 

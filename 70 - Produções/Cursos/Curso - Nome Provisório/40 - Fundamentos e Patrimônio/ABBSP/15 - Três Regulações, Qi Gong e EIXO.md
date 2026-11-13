@@ -4,6 +4,11 @@ estado: patrimonio-tradicional-e-autoral
 origem: ABBSP slides 81-96, 121-180, 201-240
 ---
 
+## Desenvolvimento curricular de 13/11/2026
+
+As três regulações integram agora [[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]], com fundamentos em [[02 - Ernesto Garcia e Fontes de Cultivo - Leitura e Destinação]] e exercícios em [[03 - Ba Duan Jin e Yi Jin Jing - Movimentos e Articulação Didática]]. Recuperar esta ampliação para a produção: recursos breves, sequência regular, quietude e aprofundamento em circulação possuem funções complementares. Eixo permanece recurso didático em minúsculas; o título histórico desta nota é preservado para recuperação.
+
+
 # Três Regulações, Qi Gong e EIXO
 
 A tradição do Qi Gong organiza a prática por regulação do corpo, da respiração e da mente/intenção. No projeto, esse patrimônio pode sustentar presença, sensibilidade, ritmo e orientação.

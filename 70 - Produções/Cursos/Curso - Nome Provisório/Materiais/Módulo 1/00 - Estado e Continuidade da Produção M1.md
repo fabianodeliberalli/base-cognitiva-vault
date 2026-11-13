@@ -5,10 +5,17 @@ recorte_entrega: "M1.1-M1.7"
 status: referencia-atual-revisavel
 versao: "1.3"
 criado_em: 2026-08-23
-atualizado_em: 2026-11-01
+atualizado_em: 2026-11-13
 preparacao_de_gravacoes: autorizada
 status_audiovisual: arquivos-finais-e-ensaio-pendentes
 ---
+
+## Retomada de produção — cultivo e sequência inicial — 13/11/2026
+
+Incorporar a base autorizada em [[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]]: M1 apresenta uma primeira sequência repetível de corpo, respiração e atenção, com linguagem inicial de Qi. [[03 - Ba Duan Jin e Yi Jin Jing - Movimentos e Articulação Didática]] propõe Sustentar o Céu ou Wei Tuo I, conforme a escolha e a versão ensinada por Fabiano. M1.1–M1.3 relacionam prática e aprendizagem; M1.4 diferencia mapas; M1.5/M1.6 registram o vivido; M1.7 retoma centro/eixo. [[02 - Ernesto Garcia e Fontes de Cultivo - Leitura e Destinação]] permite recuperar Ernesto e os demais fundamentos.
+
+Rever a correspondência entre roteiro, tela, fala, ficha e encontro M0/M1. A base foi registrada; apresentações, documentos e demonstrações já produzidos não foram regenerados nesta incorporação.
+
 
 ## Recuperação — Centro, Essência, Self e expressão — 02/11/2026
 

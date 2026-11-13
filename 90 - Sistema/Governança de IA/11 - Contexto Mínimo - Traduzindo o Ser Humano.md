@@ -2,9 +2,14 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.14"
-atualizado_em: 2026-11-12
+versao: "0.15"
+atualizado_em: 2026-11-13
 ---
+
+## Cultivo corporal, energético e contemplativo — 13/11/2026
+
+Fabiano autorizou incorporar permanentemente esta base do TSH, com distribuição revisável: [[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]]. Recuperar [[02 - Ernesto Garcia e Fontes de Cultivo - Leitura e Destinação]] para a lógica de Ernesto Garcia, monografia autoral, Yang, meditação e diálogo com outros saberes; [[03 - Ba Duan Jin e Yi Jin Jing - Movimentos e Articulação Didática]] para exercícios pontuais das duas técnicas em que Fabiano tem formação e prática. A trajetória começa em M0/M1, estrutura-se em M3, aprofunda interiorização em M5 e integração/relação/continuidade em M6–M8. Recursos breves são uma das formas de uso; desenvolver também prática regular e repetição entre encontros. Pequena circulação tem preparação e versão próprias. Registro curricular não declara roteiros, slides e demonstrações já atualizados.
+
 
 ## Máscara, armadura, castelos e Amor–Poder–Sabedoria — 12/11/2026
 
