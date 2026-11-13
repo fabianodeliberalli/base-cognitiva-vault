@@ -10,9 +10,10 @@ atualizado_em: 2026-11-13
 relacionado_a: 01 - Reconciliação da Governança do Conhecimento e Disponibilidade do Acervo
 ---
 
+
 ## Preservação na troca de chat — 13/11/2026
 
-O inventário dos 18 arquivos recuperados e a fonte visual de 39 lâminas estão em [[08 - Preservação dos Anexos e Retomada do Chat - 13-11-2026]], com identificação dos originais já presentes na main, versões diferentes, leituras a conferir e pendências de produção.
+O catálogo dos 18 arquivos e o estado das incorporações estão em [[09 - Preservação dos Anexos e Retomada do Chat - 13-11-2026]]. A preservação inclui também o PR #57, com a leitura de mapas/interocepção e a proposta P1B, ainda fora da main.
 
 ## Aprofundamento e aplicação às aulas — 13/11/2026
 

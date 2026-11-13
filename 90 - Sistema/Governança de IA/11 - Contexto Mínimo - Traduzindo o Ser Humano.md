@@ -2,17 +2,18 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.19"
+versao: "0.20"
 atualizado_em: 2026-11-13
 ---
 
+
 ## Preservação na troca de chat — 13/11/2026
 
-[[08 - Preservação dos Anexos e Retomada do Chat - 13-11-2026]] registra os 18 arquivos recuperados, a fonte visual de 39 lâminas, o trecho M1/M2 e as pendências. Consultar esse registro para a continuidade desta frente; o PPTM editável e a exportação integral do chat não foram recuperados.
+[[09 - Preservação dos Anexos e Retomada do Chat - 13-11-2026]] reúne os 18 arquivos recuperados e a última atualização do chat, preservada no PR #57 e ainda fora da main. A ramificação de preservação inclui essa atualização, a fonte visual de 39 lâminas, P1B e as pendências; não certifica uma transcrição literal integral do chat.
 
 ## Cultivo corporal, energético e contemplativo — 13/11/2026
 
-Base permanente solicitada por Fabiano: [[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]]. A base P0/P1 começa em **M0.2**, com Zhan Zhuang/árvore, pés/R1, respiração, centro inferior e conclusão; abre as práticas em extensão adequada desde o início. M1 apresenta três campos e conteúdo recuperado de Rim–Jing–Nao; M3 aprofunda; M5 amplia quietude; M6.5/encontro M6 ensinam órbita; M8 continua a versão aprendida. 04 reúne fontes e base (§20); 03 desenvolve vinte formas; 05 oferece conduções; 06 distribui 54 aulas/oito encontros; 07 examina Rohden e articula contribuições. Reconhecer produção autoral desde a monografia de 2004 e o filtro prévio de estudo, prática e clínica explicitado por Fabiano (deliberação sobre pluralismo, §4B). A função é integrar e articular os saberes selecionados. Distinguir Liu Chih Ming/CEMETRAC, fonte da monografia, de Pai Lin. Roteiros textuais M0.2/M0.3/M1.1 e apoio do participante foram atualizados; binários M0/M1 e PPTX transversal anteriores não foram reexportados. A fonte visual do mapa Rim–Nao foi recuperada no PDF de 39 lâminas indicado em 08; o arquivo editável ainda não foi obtido. Não declarar novos mapas ou vídeos produzidos, originais ausentes conferidos nem versões técnicas fundidas.
+Base permanente solicitada por Fabiano: [[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]]. A base P0/P1 começa em **M0.2**, com Zhan Zhuang/árvore, pés/R1, respiração, centro inferior e conclusão; abre as práticas em extensão adequada desde o início. M1 apresenta três campos e conteúdo recuperado de Rim–Jing–Nao; M3 aprofunda; M5 amplia quietude; M6.5/encontro M6 ensinam órbita; M8 continua a versão aprendida. 04 reúne fontes e base (§20); 03 desenvolve vinte formas; 05 oferece conduções; 06 distribui 54 aulas/oito encontros; 07 examina Rohden e articula contribuições. Reconhecer produção autoral desde a monografia de 2004 e o filtro prévio de estudo, prática e clínica explicitado por Fabiano (deliberação sobre pluralismo, §4B). A função é integrar e articular os saberes selecionados. Distinguir Liu Chih Ming/CEMETRAC, fonte da monografia, de Pai Lin. Roteiros textuais M0.2/M0.3/M1.1 e apoio do participante foram atualizados; binários M0/M1 e PPTX transversal anteriores não foram reexportados. A apresentação-fonte de 39 lâminas foi acessada e preservada em PDF: Rim–Nao em 22/23, seiva/árvore em 27, três campos em 8 e órbita em 7–14. [[08 - Mapas Rim Nao e Interocepção - Leitura e Incorporação]] integra a leitura, o PDF de interocepção e P1B. A cópia editável do PPTM não foi obtida. Não declarar novos vídeos ou telas atuais reeditadas nem fundir versões técnicas.
 
 
 ## Máscara, armadura, castelos e Amor–Poder–Sabedoria — 12/11/2026

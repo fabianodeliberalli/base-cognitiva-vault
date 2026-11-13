@@ -109,7 +109,7 @@ A tabela explicita funções complementares dos materiais já trabalhados. As le
 | Varela, Castellanos, pesquisas e transcrições de meditação/Qi Gong | Experiência corporificada, percepção e investigação de processos e efeitos específicos. | M1/M2/M3/M5: perguntas sobre corpo, atenção e repetição; distinguir pesquisa original examinada e exposição do vídeo. Os módulos atuais do curso de Castellanos dependem do conteúdo efetivamente recebido. |
 | Salvador, perspectivas transpessoais e mapas psicológicos/relacionais do TSH | Presença, partes, diferenciação, simbolização, elaboração e relação. | M4–M7: conteúdos que aparecem na prática recebem espaço de compreensão e integração; não são tratados só como obstáculos a calar. |
 | Samatha/Vipassana e outros textos contemplativos do acervo | Funções de estabilizar, observar e investigar; disposições éticas e de prática. | P5/P6: identificar a modalidade, desenvolver atenção e elaborar no momento pertinente. |
-| Mapa Rim–Jing–Nao e imagens de Acupuntura Bioenergética | Reserva, sustentação, nutrição e articulação entre dimensões no mapa tradicional de formação de Fabiano. | Conteúdo recuperado apresentado desde M1.4; aprofundamento M3/M5/M6. Recuperar o PPT original para a reprodução fiel de setas e legendas; 04, seção 20. |
+| Mapa Rim–Jing–Nao e imagens de Acupuntura Bioenergética | Reserva, sustentação, nutrição e articulação entre dimensões no mapa tradicional de formação de Fabiano. | Conteúdo recuperado apresentado desde M1.4; aprofundamento M3/M5/M6. A apresentação-fonte foi acessada: lâminas 22/23 e 27, preservadas em PDF e analisadas em 08; 04, seção 20. |
 
 O fio que reúne esses materiais é a formação do participante: aprender uma base desde o começo, ganhar linguagem pela experiência, diferenciar funções e mapas, cultivar continuidade, interiorizar e expressar com maior participação na vida. As fontes passam a sustentar decisões concretas de ensino.
 
@@ -120,4 +120,4 @@ O fio que reúne esses materiais é a formação do participante: aprender uma b
 - [[05 - Caderno de Condução - Sequências e Aprendizagens do Cultivo]] — P0 e P1–P8.
 - [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH]] — destinos, falas e tempo dos encontros.
 
-Esta nota incorpora fundamentação e propostas concretas ao material de produção. Não declara novas gravações, conferência do PowerPoint Rim–Nao ausente ou reexportação dos binários de aulas anteriores. O exemplar de Rohden está preservado pelo arquivo fornecido; os materiais históricos de Fabiano continuam íntegros no acervo.
+Esta nota incorpora fundamentação e propostas concretas ao material de produção. Não declara novas gravações ou reexportação dos binários de aulas anteriores. A recuperação posterior da apresentação Rim–Nao e o exame de suas figuras estão documentados em 08. O exemplar de Rohden está preservado pelo arquivo fornecido; os materiais históricos de Fabiano continuam íntegros no acervo.

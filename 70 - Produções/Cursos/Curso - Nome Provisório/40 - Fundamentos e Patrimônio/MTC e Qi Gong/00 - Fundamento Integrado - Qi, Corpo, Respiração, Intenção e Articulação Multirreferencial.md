@@ -35,7 +35,7 @@ Desenvolvimento solicitado por Fabiano: [[04 - Caderno de Fundamentação - Cult
 
 Orientação atual de Fabiano: P0/P1, com árvore/Zhan Zhuang, pés/R1, respiração, centro inferior e conclusão, começam em M0.2 e abrem as práticas posteriores em extensão adequada. M1 apresenta três campos e o conteúdo recuperado de Rim–Jing–Nao; M3 aprofunda a base já vivida. M6.5/encontro M6 ensinam a órbita; M8 continua a versão aprendida. A seção 20 de 04 e os cadernos 05/06 desenvolvem o ensino.
 
-A seleção de referências que Fabiano traz já tem fundamento em seus estudos, prática e experiência clínica; sua monografia de 2004 documenta mais de vinte anos dessa elaboração. Recuperar seu conteúdo, além da credencial. [[07 - Rohden - Assimilação Centro e Vida Cotidiana]] acrescenta leitura do livro, aplicação a eixo/meditação/cotidiano e articulação das fontes. O PowerPoint original Rim–Nao não foi recuperado; seu conteúdo está registrado na síntese, com procedência em Acupuntura Bioenergética.
+A seleção de referências que Fabiano traz já tem fundamento em seus estudos, prática e experiência clínica; sua monografia de 2004 documenta mais de vinte anos dessa elaboração. Recuperar seu conteúdo, além da credencial. [[07 - Rohden - Assimilação Centro e Vida Cotidiana]] acrescenta leitura do livro, aplicação a eixo/meditação/cotidiano e articulação das fontes. A apresentação Rim–Nao foi acessada pelo link posterior de Fabiano e preservada em PDF: lâminas 22/23 e 27. [[08 - Mapas Rim Nao e Interocepção - Leitura e Incorporação]] documenta os mapas, os três campos, variantes da órbita e a ampliação sensorial P1B.
 
 ## Práticas internas — reavaliação de 13/11/2026
 

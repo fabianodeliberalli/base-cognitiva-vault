@@ -23,7 +23,7 @@ Por orientação expressa de Fabiano, **a preparação corporal e interna começ
 
 **M3 aprofunda e articula a base já ensinada.** O conjunto dos três campos é apresentado como mapa inicial em M1, com familiaridade prioritária no inferior. M2 refina a percepção; M3 desenvolve a organização; M5 amplia interiorização; M6.5 e o encontro M6 ensinam a órbita de forma orientada; M8 dá continuidade à versão aprendida. A numeração não substitui o acompanhamento do que a turma aprendeu.
 
-A produção autoral de Fabiano, documentada desde a monografia de 2004 e amadurecida por estudos, prática e clínica, organiza a integração. As referências que ele traz já passaram por seu filtro experiencial e clínico. A articulação deve explicitar suas funções, preservando as diferenças úteis à aprendizagem. [[07 - Rohden - Assimilação Centro e Vida Cotidiana]] acrescenta leitura substantiva do livro e uma visão conjunta das contribuições ao TSH. A seção 20 de 04 desenvolve Zhan Zhuang/R1/Rim–Nao e a antecipação da base.
+A produção autoral de Fabiano, documentada desde a monografia de 2004 e amadurecida por estudos, prática e clínica, organiza a integração. As referências que ele traz já passaram por seu filtro experiencial e clínico. A articulação deve explicitar suas funções, preservando as diferenças úteis à aprendizagem. [[07 - Rohden - Assimilação Centro e Vida Cotidiana]] acrescenta leitura substantiva do livro e uma visão conjunta das contribuições ao TSH. A seção 20 de 04 desenvolve Zhan Zhuang/R1/Rim–Nao e a antecipação da base. [[08 - Mapas Rim Nao e Interocepção - Leitura e Incorporação]] localiza os mapas da apresentação autoral, preservada em PDF, e concretiza a ampliação sensorial P1B.
 
 ## 1. Decisão autoral e alcance desta incorporação
 

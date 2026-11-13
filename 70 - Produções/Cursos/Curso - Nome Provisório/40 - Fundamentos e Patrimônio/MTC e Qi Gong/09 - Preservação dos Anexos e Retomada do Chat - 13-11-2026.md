@@ -35,6 +35,15 @@ Rotas de conteúdo:
 - [[05 - Caderno de Condução - Sequências e Aprendizagens do Cultivo]].
 - [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH]].
 - [[07 - Rohden - Assimilação Centro e Vida Cotidiana]].
+- [[08 - Mapas Rim Nao e Interocepção - Leitura e Incorporação]] — desenvolvimento mais recente, preservado no PR #57.
+
+## Última atualização do chat anterior: PR #57
+
+Foi localizada também a [proposta #57](https://github.com/fabianodeliberalli/base-cognitiva-vault/pull/57), commit `0440962c72a8751f2a7b3aadd510577d69fef69d`, **aberta e ainda não integrada à main**. Ela preserva 13 caminhos, incluindo [[08 - Mapas Rim Nao e Interocepção - Leitura e Incorporação]], os dois PDFs de origem e atualizações nos cadernos e referências de continuidade.
+
+Essa nota contém a leitura detalhada das 39 lâminas, os localizadores de centros/órbita/Rim–Nao, o desenvolvimento de P1B com a comparação sensorial, falas de ligação e destinos para M1/M2/M3/M5/M6. O PDF de interocepção possui leitura e incorporação documentadas nessa proposta. A recuperação independente do PDF de 39 lâminas neste chat produziu bytes idênticos ao arquivo já preservado no PR #57.
+
+A preservação desta troca de chat **inclui o conteúdo do PR #57**, sem sobrescrever seus desenvolvimentos com a fotografia anterior da main. A nova ramificação consolida essa proposta e o presente inventário; isso não declara integração à main.
 
 ## Referências de continuidade recuperadas
 
@@ -42,7 +51,7 @@ A preparação corporal e interna começa em M0/M1: postura da árvore/Zhan Zhua
 
 Preservar a produção autoral desde a monografia de 2004 e o filtro prévio de estudo, prática e clínica informado por Fabiano. Distinguir Liu Chih Ming/CEMETRAC de Liu Pai Lin e identificar a versão técnica demonstrada, inclusive quando fontes oferecem coordenações respiratórias diferentes.
 
-No trecho final recuperado da conversa anterior, a comparação entre M1 e M2 propunha **repetir a mesma preparação e variar o foco da atenção entre ambiente, postura e sensações internas, reunindo depois o conjunto**. O ganho pedagógico seria ampliar a percepção sobre uma base familiar. Esta formulação foi recuperada como desenvolvimento de trabalho; não transforma cada exemplo ou duração em decisão autoral.
+A comparação entre M1 e M2 está desenvolvida como **P1B — A mesma base, diferentes entradas de atenção**, em [[08 - Mapas Rim Nao e Interocepção - Leitura e Incorporação]], seção 6. Propõe repetir a preparação, variar o foco entre ambiente, organização corporal e sensações internas e reunir o conjunto ao final. A versão completa, a fala breve e os destinos curriculares estão preservados; tempos e exemplos conservam seu estatuto de proposta didática.
 
 ## Anexos efetivamente recuperados
 
@@ -58,7 +67,7 @@ Foram recuperados **18 arquivos**, totalizando 66.720.207 bytes, preservando nom
 | [imagens pontos qi gong.pdf](https://chatgpt.com/library?file_id=libfile_f7dfbd8d13948191abaae0d6a232bde1&account_id=personal) | 16 páginas; material visual preservado; seleção dos pontos e imagens a desenvolver. |
 | [POSTURA ARVORE.jpg](https://chatgpt.com/library?file_id=libfile_72a670aaa7d0819191a265785d827d00&account_id=personal) | Imagem preservada; seleção para a produção audiovisual a desenvolver. |
 | [Qi_Gong_MTC_-_Além_das_Fronteiras\[1\].pptm](https://chatgpt.com/library?file_id=libfile_f7d60353a1b481919b8120a3b904b110&account_id=personal) | O conteúdo recebido é HTML do OneDrive, apesar da extensão .pptm; não é o arquivo editável. |
-| [Qi Gong e interocepcao(1).pdf](https://chatgpt.com/library?file_id=libfile_da2ec98c7ccc8191af00ed18c9b4e78d&account_id=personal) | 17 páginas; preservado; contribuições específicas a retomar na produção. |
+| [Qi Gong e interocepcao(1).pdf](https://chatgpt.com/library?file_id=libfile_da2ec98c7ccc8191af00ed18c9b4e78d&account_id=personal) | 17 páginas; leitura e incorporação documentadas na nota 08 do PR #57, ainda fora da main. |
 | [-Huberto-Rohden-Rumo-a-Consciencia-Cosmica-pdf.pdf](https://chatgpt.com/library?file_id=libfile_acd00c9c98e88191be73ed98c58afaa5&account_id=personal) | 92 páginas; original idêntico ao já preservado na main; leitura em 07. |
 | [Existe Alguém Controlando a Voz Dentro da Sua Cabeça_ METACOGNIÇÃO.txt](https://chatgpt.com/library?file_id=libfile_c8e6645ba5d4819187a036d2ee48f524&account_id=personal) | Original idêntico ao preservado na main; avaliação em 04 §19. |
 | [🧠 Qigong y Neurociencia ➡️ ¡Evidencias Científicas sobre los BENEFICIOS! 💪🏻.txt](https://chatgpt.com/library?file_id=libfile_4296c21aecf88191bc83e45604f3c337&account_id=personal) | Original idêntico ao preservado na main; avaliação em 04 §19. |
@@ -100,13 +109,13 @@ O download do arquivo editável não foi disponibilizado nas tentativas realizad
 
 1. Recuperar a transcrição literal integral do chat anterior, se for necessária uma conferência de todas as mensagens. O material disponível permite continuidade do trabalho, mas não certifica uma exportação completa.
 2. Obter o PPTM editável da apresentação, preservando o PDF recuperado como fonte visual.
-3. Conferir as contribuições e a destinação dos últimos anexos. A preservação dos arquivos está realizada; a consulta disponível não comprova avaliação integral de todos eles.
+3. Conferir as contribuições e a destinação dos últimos anexos de taoismo, pontos e postura. A leitura dos mapas e da interocepção está documentada no PR #57; a preservação dos demais arquivos não equivale a avaliação integral de todos eles.
 4. Atualizar PowerPoints, notas do orador e arquivos DOCX/PDF das aulas conforme os textos mais recentes. O registro anterior já explicita que os binários de M0/M1 e as oito telas transversais não acompanharam todas as revisões.
 5. Produzir ou selecionar mapas específicos de centros/órbita e demonstrações audiovisuais; ensaiar procedimento e duração com Fabiano.
 6. Conciliar por pertinência as duas versões de “EIXO Integrador”, mantendo genealogia e evitando restaurar a antiga denominação de método.
 
 ## Próximo ponto útil
 
-Retomar pela revisão da apresentação recuperada em diálogo com 04 §20, 05 e 06. Usar as lâminas 23 e 27 para localizar a fonte dos mapas, e então incorporar os acréscimos pertinentes aos materiais de M0/M1, M3 e M6. A produção deve recuperar o que já foi desenvolvido e distinguir preservação da fonte, leitura, incorporação textual e produção audiovisual.
+Retomar pelo desenvolvimento mais recente em [[08 - Mapas Rim Nao e Interocepção - Leitura e Incorporação]], em diálogo com 04 §20, 05 e 06. Usar as lâminas 23 e 27 para localizar a fonte dos mapas, e então incorporar os acréscimos pertinentes aos materiais de M0/M1, M3 e M6. A produção deve recuperar o que já foi desenvolvido e distinguir preservação da fonte, leitura, incorporação textual e produção audiovisual.
 
-A atualização preparada nesta troca de chat fica em ramificação própria. O registro não declara sua integração à main, gravações realizadas ou publicação dos materiais.
+A atualização preparada nesta troca de chat fica em ramificação própria e inclui o conteúdo do PR #57. O registro não declara sua integração à main, gravações realizadas ou publicação dos materiais.
