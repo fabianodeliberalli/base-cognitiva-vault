@@ -31,7 +31,7 @@ tags:
 
 [[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]] aplica esta diretriz à formação corporal, energética e contemplativa solicitada por Fabiano. Qi, Jing, Shen, Dantian e cultivo são ensinados em suas tradições, em diálogo com os mapas psicológicos e contemporâneos pertinentes. A meditação recebe desenvolvimento prático desde as primeiras aulas e aprofundamento em M5; símbolos e relatos espirituais acompanham a formação, sem substituir o treino e a interiorização.
 
-O diálogo com Prana será ampliado por fontes indianas próprias. Preservar as diferenças entre conceitos permite correlações mais férteis. [[02 - Ernesto Garcia e Fontes de Cultivo - Leitura e Destinação]] registra contribuições examinadas e leituras ainda necessárias.
+O diálogo com Prana foi aprofundado por fontes indianas próprias em 04. A revisão atual ensina árvore, pés/R1 e centro inferior desde M0.2 e apresenta os três campos em M1; M3 aprofunda a base. A seleção dos interlocutores parte do estudo, prática e experiência clínica de Fabiano, com produção autoral documentada desde 2004, conforme a seção 4B da deliberação sobre pluralismo. [[07 - Rohden - Assimilação Centro e Vida Cotidiana]] acrescenta interiorização, assimilação e vida cotidiana; a dimensão espiritual de sua linguagem é preservada.
 
 
 # Diretriz Transversal — Espiritualidade Explícita, Singularidade Autoral e Não Neutralização

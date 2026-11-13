@@ -2,13 +2,13 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.17"
+versao: "0.18"
 atualizado_em: 2026-11-13
 ---
 
 ## Cultivo corporal, energético e contemplativo — 13/11/2026
 
-Base permanente solicitada por Fabiano: [[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]]. 04 aprofunda fontes e, nas seções 12–19, três Tan Tien, órbita, monografia autoral de MTC, Pai Lin, Castellanos e cinco transcrições preservadas no diretório bibliográfico. 03 desenvolve vinte formas; 05 oferece P1–P8, com P2C (centros), P5B (observação), P6B (metacognição) e ensino de P7; 06 distribui nas 54 aulas e oito encontros, com falas L/M/N para M3/M5/M6. Há oito telas introdutórias e apoio do aluno; os novos mapas específicos de centros/órbita ainda não foram desenhados. Roteiros M0/M1 receberam inserções na etapa anterior. A base inclui cultivo interno efetivo; movimento, quietude e circulação se articulam. Diferenciar Liu Chih Ming/CEMETRAC, fonte da monografia de 2004, e Pai Lin. Ler as fontes pertinentes; não declarar gravações realizadas, leitura de páginas ausentes da prática integral ou conferência de originais apenas citados nas transcrições.
+Base permanente solicitada por Fabiano: [[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]]. A base P0/P1 começa em **M0.2**, com Zhan Zhuang/árvore, pés/R1, respiração, centro inferior e conclusão; abre as práticas em extensão adequada desde o início. M1 apresenta três campos e conteúdo recuperado de Rim–Jing–Nao; M3 aprofunda; M5 amplia quietude; M6.5/encontro M6 ensinam órbita; M8 continua a versão aprendida. 04 reúne fontes e base (§20); 03 desenvolve vinte formas; 05 oferece conduções; 06 distribui 54 aulas/oito encontros; 07 examina Rohden e articula contribuições. Reconhecer produção autoral desde a monografia de 2004 e o filtro prévio de estudo, prática e clínica explicitado por Fabiano (deliberação sobre pluralismo, §4B). A função é integrar e articular os saberes selecionados. Distinguir Liu Chih Ming/CEMETRAC, fonte da monografia, de Pai Lin. Roteiros textuais M0.2/M0.3/M1.1 e apoio do participante foram atualizados; binários M0/M1 e PPTX transversal anteriores não foram reexportados. O mapa original Rim–Nao ainda não foi localizado; sua leitura conceitual e procedência estão recuperadas. Não declarar novos mapas ou vídeos produzidos, originais ausentes conferidos nem versões técnicas fundidas.
 
 
 ## Máscara, armadura, castelos e Amor–Poder–Sabedoria — 12/11/2026

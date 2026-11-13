@@ -17,6 +17,14 @@ A reavaliação solicitada por Fabiano tornou explícita a progressão interna: 
 
 # Percurso de cultivo corporal, energético e contemplativo no TSH
 
+## Reorganização da base desde a entrada — 13/11/2026
+
+Por orientação expressa de Fabiano, **a preparação corporal e interna começa em M0/M1 e abre todas as propostas práticas**, inclusive as de observação, escrita e relação, na extensão adequada à atividade. Zhan Zhuang (postura da árvore), apoio dos pés, R1/Yongquan, respiração confortável, centro inferior e conclusão constituem a entrada recorrente P0, desenvolvida em P1. Uma retomada breve preserva essa preparação; não exige repetir toda a aula de postura antes de cada exercício.
+
+**M3 aprofunda e articula a base já ensinada.** O conjunto dos três campos é apresentado como mapa inicial em M1, com familiaridade prioritária no inferior. M2 refina a percepção; M3 desenvolve a organização; M5 amplia interiorização; M6.5 e o encontro M6 ensinam a órbita de forma orientada; M8 dá continuidade à versão aprendida. A numeração não substitui o acompanhamento do que a turma aprendeu.
+
+A produção autoral de Fabiano, documentada desde a monografia de 2004 e amadurecida por estudos, prática e clínica, organiza a integração. As referências que ele traz já passaram por seu filtro experiencial e clínico. A articulação deve explicitar suas funções, preservando as diferenças úteis à aprendizagem. [[07 - Rohden - Assimilação Centro e Vida Cotidiana]] acrescenta leitura substantiva do livro e uma visão conjunta das contribuições ao TSH. A seção 20 de 04 desenvolve Zhan Zhuang/R1/Rim–Nao e a antecipação da base.
+
 ## 1. Decisão autoral e alcance desta incorporação
 
 Em novembro de 2026, Fabiano solicitou que o material de Qi Gong do professor Ernesto Garcia fosse compreendido primeiro em seus próprios termos e que seus fundamentos contribuíssem efetivamente para reorganizar o percurso formativo do TSH. Em 13/11, autorizou a incorporação permanente desta base curricular e didática, em diálogo com os demais saberes e materiais do acervo. Permanente significa disponível para fundamentar e orientar a produção continuada; a organização permanece aberta a aperfeiçoamentos.
@@ -70,9 +78,9 @@ A progressão abaixo é uma espiral: o estudante retorna aos mesmos fundamentos 
 
 | Etapa | Base retomada e acréscimo | Proposta de experiência | Capacidade que apoia o passo seguinte |
 | --- | --- | --- | --- |
-| M0/M1 — entrar e reencontrar | Aproximação com escolha; apoio; primeiras relações entre corpo, respiração e atenção. | Postura acessível, pequeno movimento, mãos, respiração espontânea e breve quietude. | Reconhecer uma referência, perceber variações e aprender a começar e encerrar. |
+| M0/M1 — aprender a base e reencontrá-la | Zhan Zhuang, pés/R1, Song inicial, centro inferior, respiração e conclusão; apresentação simples dos três campos. | P0/P1 ensinados em M0.2 e retomados desde M1.1; mapa Rim–Jing–Nao em M1.4 e referência aos três campos. | Reencontrar a mesma preparação e perceber o que cada retomada acrescenta. |
 | M2 — refinar a leitura | Mesma experiência corporal; acrescentar distinção entre sensação, imagem, intenção e interpretação. | Repetir um movimento e mudar apenas um elemento: velocidade, amplitude ou direção da atenção. | Comparar experiências e formular perguntas sem precisar encerrar seu significado. |
-| M3 — estruturar o cultivo | Três regulações; acrescentar Song, raiz/centro, Dantian, Qi Ji e relação entre movimento e quietude. | Aprender uma sequência recorrente com começo, desenvolvimento, quietude e conclusão. | Executar uma prática conhecida, localizar dificuldades e ajustar apoio, esforço e atenção. |
+| M3 — aprofundar a organização já praticada | Explicitar relações entre três regulações, Song, raiz/centro, R1, Rim–Jing–Nao, três Tan Tien e Qi Ji. | Aprender uma sequência recorrente com começo, desenvolvimento, quietude e conclusão. | Executar uma prática conhecida, localizar dificuldades e ajustar apoio, esforço e atenção. |
 | M4 — permanecer com diferenças | Sequência corporal conhecida; acrescentar escuta de emoções, partes e padrões sem perder a referência. | Perceber como muda a prática diante de uma emoção cotidiana; retomar movimento ou apoio quando necessário. | Diferenciar o que emerge, sem confundir meditar com eliminar conteúdos ou praticar com analisá-los sem fim. |
 | M5 — aprofundar a interiorização | Corpo, respiração, atenção e centro como suporte; acrescentar maior continuidade contemplativa e linguagem espiritual. | Quietude sentada ou em pé, atenção estável e observação; relação com sentido, Self e Essência. | Sustentar presença e elaborar experiências sem dependência de intensidade, imagens ou interpretações do professor. |
 | M6 — integrar e aprofundar | Reunir fundamentos, os três centros e continuidade de circulação. | Integrar prática dinâmica e estática; ensinar a órbita orientada na versão de Fabiano, com alternativa preparatória e conclusão. | Distinguir compreensão do mapa, preparação e realização da prática; reconhecer o que pode continuar sozinho e o que pede orientação. |
@@ -87,9 +95,9 @@ As aulas indicadas são destinos de incorporação, sem renomeação ou declara�
 
 | Aulas | Conteúdo a incorporar ou ampliar | Função prática e material de apoio |
 | --- | --- | --- |
-| M0.2–M0.3 | Como utilizar práticas, preparar espaço, escolher postura e construir constância possível. | Demonstração inicial; ficha simples de preparação, experiência e encerramento. |
+| M0.2–M0.3 | Ensinar P0/P1: árvore, apoio/R1, respiração, centro inferior e conclusão; organizar repetição. | Demonstração em M0.2; rotina breve em M0.3 e apoio do participante. |
 | M1.1–M1.3 | Entender, acessar, sustentar e aprender corporalmente; cultivo como processo que se transforma pela repetição. | Primeira experiência repetível, além do exemplo oral; comparar o explicado com o vivido. |
-| M1.4 | Mapas tradicionais em seus próprios termos; experiência e explicação em diálogo. | Contato inicial com Qi; descrever sensações e conhecer a leitura tradicional, sem exigir conclusão imediata. |
+| M1.4 | Apresentar Qi, três campos e Rim–Jing–Nao em linguagem inicial; relacionar o mapa à base já vivida. | Reencontrar pés/R1 e centro inferior; visualizar o conjunto, deixando a explicação ampliada para M3. |
 | M1.5–M1.6 | Cinco Janelas e cartografia; corpo, emoção, mente, relações e espiritualidade participam do cultivo. | Registro breve que preserve também o que ainda não tem nome. |
 | M1.7 | Centro, referência e possibilidades de retorno; eixo como imagem didática dinâmica. | Retomar a experiência inicial e relacionar apoio, atenção e intenção à referência interior. |
 | M2.1–M2.3 | Atenção, saliência, expectativa e mapas; diferenças entre orientar e fabricar experiência. | Comparações no mesmo exercício, com relatos abertos, evitando induzir uma sensação esperada. |
@@ -103,7 +111,7 @@ As aulas indicadas são destinos de incorporação, sem renomeação ou declara�
 | M5.1 e M5.4 | Atenção, presença diante das vozes internas e espaço entre impulso e escolha. | Retomar a quietude já ensinada, com permanência ampliável e movimentos de retorno conhecidos. |
 | M5.5–M5.8 | Símbolo, espiritualidade, Self, Essência e discernimento. | Explicitar a meditação e o cultivo de Shen; diálogo entre tradições, experiência autoral e elaboração psicológica. |
 | M6.1–M6.2 | Integração com diferenças; dimensões corporais, energéticas, psíquicas e espirituais. | Sequência conhecida, identificando as funções complementares de seus elementos. |
-| M6.4–M6.6 | Coerência possível e continuidade do cultivo; aprofundamento do mapa de circulação. | Ren Mai/Du Mai como estudo situado; eventual prática orientada depende da preparação, não apenas do número do módulo. |
+| M6.4–M6.6 | Coerência e continuidade; ensino da órbita em M6.5 e no encontro M6. | P7 por partes, reunião, repouso e conclusão; alternativa preparatória; versão efetivamente ensinada para continuar. |
 | M7.1–M7.4 | Expressar, escutar, manter referência e colocar limites. | Experiência individual antes e depois de diálogo; eixo como referência flexível no encontro. |
 | M7.5–M7.8 | Pertencimento, contribuição, responsabilidade e reparação. | Observar o que o cultivo ajuda a sustentar no vínculo e o que ainda requer aprendizagem relacional. |
 | M8.1–M8.3 | Síntese, continuidade e escolha de aprofundamentos. | Plano de prática com sequência, frequência possível, revisão e fontes de orientação. |
@@ -115,7 +123,7 @@ As aulas indicadas são destinos de incorporação, sem renomeação ou declara�
 
 Uma hipótese de sequência didática para desenvolvimento por Fabiano:
 
-1. **Preparar e assentar:** espaço, postura e apoio; intenção de praticar sem cobrança de resultado.
+1. **Preparar e assentar — P0:** espaço; Zhan Zhuang e alternativa acessível; apoio dos pés/R1; respiração confortável; referência no centro inferior. A mesma base abre as práticas desde M0/M1.
 2. **Soltar e organizar:** movimentos acessíveis, relação com raiz e centro, Song; automassagem quando integrada ao conjunto escolhido.
 3. **Coordenar:** movimento, respiração confortável e atenção. A coordenação respiratória é ensinada gradualmente, conforme a técnica.
 4. **Cultivar:** atenção às mãos, centro inferior e dinâmicas próprias da prática ensinada, com linguagem de Qi contextualizada.
@@ -156,7 +164,7 @@ O acervo já contém fundamento para a pequena circulação: monografia de acupu
 
 **Antes:** familiaridade com postura e Song, raiz/centro, respiração, atenção/intenção e Dantian; prática regular e capacidade de concluir. O aluno pode conhecer conceitualmente o mapa antes de estar preparado para praticá-lo.
 
-**No percurso:** M3 apresenta centro e circulação; M5 amplia quietude e interiorização; M6 oferece um destino possível para estudar mais claramente Ren Mai, Du Mai e a pequena circulação. A condução prática pode ocorrer nesse momento ou mais adiante, segundo a experiência da turma, a modalidade e a avaliação de Fabiano. A existência do módulo não atesta preparo uniforme.
+**No percurso:** M0/M1 iniciam árvore, pés/R1, centro inferior e conclusão; M1 apresenta o conjunto dos três campos; M2 desenvolve diferenciação; M3 aprofunda o mapa e a prática; M5 amplia quietude e interiorização. **M6.5 e o encontro M6 têm ensino orientado da pequena circulação**, com preparação, exploração por partes, reunião, repouso e conclusão. Fabiano acompanha as condições de participação e conserva a alternativa preparatória. M8 organiza a continuidade da versão efetivamente aprendida.
 
 **Na técnica:** identificar fonte, trajeto, coordenação respiratória, preparação e encerramento. No material de Ernesto, p. 36, a orientação descrita é subir pelo trajeto posterior durante a inspiração e descer pela frente durante a expiração. Uma orientação anterior do acervo com outra coordenação precisa ser identificada por fonte e contexto antes de ser reutilizada. As versões não devem ser fundidas por aparência de equivalência.
 
@@ -225,7 +233,7 @@ A aula anunciada — perceber, diferenciar e recuperar a presença — pode ofer
 | --- | --- |
 | 0–10 min | Acolher, contextualizar a proposta e preparar o espaço e as possibilidades de participação. |
 | 10–20 min | Apresentar eixo como referência dinâmica e as três regulações como entrada para a experiência. |
-| 20–40 min | Ensinar poucos movimentos e apoios, respiração confortável e percepção; primeira sequência. |
+| 20–40 min | Ensinar P0/P1: árvore, pés/R1, respiração, centro inferior e conclusão; acrescentar poucos movimentos. |
 | 40–50 min | Registrar e esclarecer: o que percebeu, como nomeou, o que ainda não sabe. |
 | 50–70 min | Repetir a sequência, refinando apoio, intenção e contato com o centro; linguagem inicial de Qi. |
 | 70–85 min | Quietude acessível, retorno da atenção e encerramento orientado. |

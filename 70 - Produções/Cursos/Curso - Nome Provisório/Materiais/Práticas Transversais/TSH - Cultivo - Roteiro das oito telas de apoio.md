@@ -7,7 +7,7 @@ atualizado_em: 2026-11-13
 
 # Cultivo: roteiro das oito telas de apoio
 
-Apresentação transversal para os destinos indicados, sem substituir silenciosamente os decks existentes. Telas estáveis. Notas de fala e condução correspondem ao PPTX desta versão. A demonstração corporal é parte do ensino por Fabiano.
+Apresentação transversal para os destinos indicados. **Revisão textual de 13/11:** a tela 2 abaixo passa a ensinar a base desde M0.2; seu conteúdo e suas notas substituem a versão anterior na próxima edição do PPTX. O binário de oito telas ainda preserva a redação anterior. A demonstração corporal é parte do ensino por Fabiano.
 
 [[05 - Caderno de Condução - Sequências e Aprendizagens do Cultivo]] e [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH]].
 
@@ -26,29 +26,20 @@ CONDUÇÃO E FONTES
 Destino: Aula aberta e M0/M1; retomada M3/M5/M8. Demonstrar quando indicado. Tela estável, sem cliques internos. Na demonstração corporal, manter o corpo visível e pausar a explicação quando o aluno precisar observar. A área inferior direita permanece livre para a janela do Zoom.
 Percurso de cultivo do TSH, seções 2–6. Material de Ernesto Garcia, PDF 7–10 e 52–60.
 
-## Tela 2 — Uma referência para começar
+## Tela 2 — A base das práticas
 
 NA TELA
-Uma referência para começar
-Reconhecer o apoio
-Encontrar uma postura disponível
-Acompanhar as mãos e o corpo
-Perceber o ajuste e concluir
+A base das práticas
+Postura da árvore
+Apoio dos pés e R1
+Respiração e centro inferior
+Reunião e conclusão
 
 FALA
-Vamos começar pelo lugar em que o corpo está apoiado. Você pode ficar em pé ou sentado. Perceba os pés e, se estiver sentado, também o apoio da cadeira. Faça um pequeno ajuste que ajude a sustentar o corpo com menos esforço.
-
-Agora acompanhe a posição que vou mostrar para as mãos. Podemos reuni-las diante do corpo, em uma altura confortável. Observe também os ombros e o rosto. Deixe a respiração acontecer.
-
-Reconheça como está essa experiência agora. Talvez perceba temperatura, peso, contato, movimento ou algo ainda difícil de nomear. Pode ser discreto. Enquanto as mãos permanecem organizadas, reconheça também os apoios.
-
-Vamos soltar os braços e perceber essa passagem. O que muda quando a ação termina? Repetiremos, desta vez procurando um ajuste simples que torne a posição mais disponível.
-
-Agora deixe as mãos repousarem. Reconheça o corpo e o espaço ao redor. Você pode guardar uma palavra ou uma pergunta sobre o que viveu.
+Utilizar integralmente a fala de P1 em [[05 - Caderno de Condução - Sequências e Aprendizagens do Cultivo]], versão atualizada em 13/11/2026. Ela demonstra árvore/adaptação, localiza R1, reencontra respiração e centro e ensina a conclusão. As retomadas utilizam P0. A fonte única evita pequenas divergências entre comandos ao aluno.
 
 CONDUÇÃO E FONTES
-Destino: P1; M0/M1 e M1.3. Demonstrar quando indicado. Tela estável, sem cliques internos. Na demonstração corporal, manter o corpo visível e pausar a explicação quando o aluno precisar observar. A área inferior direita permanece livre para a janela do Zoom.
-Caderno de condução P1. Ernesto: três regulações e Song. Yi Jin Jing, Wei Tuo I, conforme versão demonstrada por Fabiano.
+Primeiro ensino em M0.2, repetição M1.3/encontro M0/M1. Reservar 6–8 min na primeira demonstração. Câmera de corpo inteiro e demonstração próxima de R1 antes de praticar. Ernesto, PDF 1–3, 11–18 e 69–73; 04, seção 20. A área inferior direita continua reservada ao Zoom. Atualizar tela e notas na edição do PPTX; este registro não declara essa exportação realizada.
 
 ## Tela 3 — Movimento e centro
 
