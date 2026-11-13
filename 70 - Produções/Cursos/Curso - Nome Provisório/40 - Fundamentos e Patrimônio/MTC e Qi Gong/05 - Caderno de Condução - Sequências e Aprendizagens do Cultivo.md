@@ -14,37 +14,52 @@ Os roteiros abaixo concretizam [[01 - Percurso de Cultivo Corporal Energético e
 
 São propostas de condução do TSH para ensaio e ensino por Fabiano, com base em sua formação e nas fontes examinadas. Os tempos organizam uma aula e podem variar. A demonstração corporal é parte do ensino; o texto oferece fala, sequência, intenção pedagógica e critérios de acompanhamento. A realização audiovisual depende de gravar essa demonstração.
 
-P1 permanece a entrada reconhecível. P2 e P3 ampliam sua formação. P4 acrescenta a qualidade afetiva da atenção; P5 aprofunda continuidade; P6 investigação; P7 centro/circulação; P8 relação e continuidade. P4–P8 podem retomar a preparação de P1, evitando oito inícios inteiramente novos.
+P0 é a preparação comum, ensinada em P1 desde M0.2. Todas as propostas práticas a retomam na extensão pertinente, inclusive escrita e relação. P2 e P3 ampliam sua formação. P4 acrescenta a qualidade afetiva da atenção; P5 aprofunda continuidade; P6 investigação; P7 centro/circulação; P8 relação e continuidade. A preparação volta em cada modalidade, sem exigir uma sequência completa antes de cada pequena atividade.
 
 ### O que o professor acompanha
 
 Observar se a instrução foi compreendida, se o aluno consegue reencontrar a postura e concluir, se pode reduzir esforço e se distingue sensação de explicação. Perguntar de modo aberto. Sensação sutil, ausência de sensação ou dificuldade de nomear podem contribuir para a aprendizagem. Se houver dor, tontura ou desorganização, interromper, retomar apoio e ambiente e avaliar a continuidade; queixas relevantes ou persistentes requerem cuidado apropriado.
 
-## P1. Apoio, mãos e presença
+## P0. Preparação comum desde o início
 
-**Entrada:** M0/M1 e aula aberta. **Duração de referência:** 4–6 min; versão de aula teórica, 60–90 s. **Base:** três regulações, Song e Wei Tuo I ou sua preparação acessível. **Aprendizagem:** começar, perceber, ajustar e concluir.
+**Função:** entrar na prática com a base que Fabiano solicita para o percurso. **Primeiro ensino:** em M0.2, integrado a P1; retomar em M0.3 e desde M1.1. **Procedência:** Zhan Zhuang e R1 no material de Ernesto, PDF 1–3, 11–18 e 69–73; integração de centro e preparação nas fontes de 04. A tradução para a duração das aulas é elaboração didática do TSH.
 
-**Antes da fala:** demonstrar a posição em pé e a alternativa sentada. Mostrar a posição das mãos da versão ensinada. A câmera deve permitir ver a organização corporal, sem obrigar o aluno a acompanhar a tela durante toda a permanência.
+1. **Postura da árvore:** demonstrar a versão de Fabiano, com pés apoiados, joelhos disponíveis, tronco sustentado, ombros soltos e braços em altura confortável. Relacionar raiz e leveza. Não prescrever profundidade de flexão nem sustentação dolorosa. A alternativa sentada conserva apoio, organização e intenção; nomeá-la como adaptação dos princípios da postura.
+2. **Pés e R1/Yongquan:** localizar por demonstração a região plantar do primeiro ponto do canal do Rim. Reconhecer também a planta inteira, sem transferir todo o peso para o ponto. Aproximar a atenção de R1 e do contato com o solo; retornar ao conjunto. A automassagem é uma possibilidade ensinada separadamente, com gesto leve e acesso confortável, não condição para cada início.
+3. **Respiração e centro inferior:** acompanhar o sopro sem impor ritmo; reconhecer o baixo ventre interno, mantendo apoio e conjunto corporal. Diferenciar a região do campo de cultivo da sensação que eventualmente apareça.
+4. **Entrada na proposta:** abrir movimento, quietude, observação, registro ou diálogo a partir dessa organização. Ao concluir, reunir no centro inferior, reencontrar pés, pequenos movimentos e ambiente, conforme a versão demonstrada.
+
+**Uso do tempo:** a preparação pode ocupar 2–3 min dentro de uma prática completa; nas retomadas teóricas/escritas, cerca de 45–90 s recuperam seus elementos sem exigir a mesma permanência. O primeiro ensino de P1 reserva 6–8 min com demonstração. Esses tempos são escolhas de montagem, não doses tradicionais ou clínicas. Nos encontros, P0 já integra os minutos de preparação previstos; não é somado por fora da hora prática.
+
+**Como reconhecer aprendizagem:** o aluno reencontra postura, pés/R1, respiração e referência inferior com orientação cada vez menor; identifica um ajuste possível e sabe concluir. A experiência pode ser discreta. A finalidade é desenvolver familiaridade, não produzir sensações obrigatórias.
+
+## P1. Árvore, pés/R1, centro e presença
+
+**Entrada:** M0.2 e aula aberta; repetição em M1.3 e encontro M0/M1. **Duração de referência:** 6–8 min na primeira demonstração; 4–6 min na repetição; retorno P0 de 45–90 s. **Aprendizagem:** começar pela base, perceber, ajustar e concluir.
+
+**Antes da fala:** demonstrar árvore e adaptação sentada; enquadrar pés, pernas, tronco e mãos. Para localizar R1, fazer uma demonstração próxima em pé-modelo, desenho conferido ou no próprio pé acessível. Depois retomar câmera de corpo inteiro. O aluno pode observar antes de executar.
 
 **Fala proposta:**
 
-“Vamos começar pelo lugar em que o corpo está apoiado. Você pode ficar em pé ou sentado. Perceba os pés e, se estiver sentado, também o apoio da cadeira. Faça um pequeno ajuste que ajude a sustentar o corpo com menos esforço.
+“Vamos aprender uma preparação que voltará nas nossas práticas. Esta é a postura da árvore, Zhan Zhuang. Observe primeiro como organizo os pés, os joelhos, o tronco e os braços. Depois encontre uma posição que você consiga sustentar com disponibilidade. Também vou mostrar como adaptar os princípios sentado.
 
-Agora acompanhe a posição que vou mostrar para as mãos. Podemos reuni-las diante do corpo, em uma altura confortável. Observe também os ombros e o rosto. Deixe a respiração acontecer.
+Reconheça o apoio dos pés e permita um pequeno ajuste. Os joelhos permanecem disponíveis, os ombros podem soltar e os braços ficam na altura que você consegue manter com conforto. Perceba a relação entre sustentar e soltar.
 
-Reconheça como está essa experiência agora. Talvez perceba temperatura, peso, contato, movimento ou algo ainda difícil de nomear. Pode ser discreto. Enquanto as mãos permanecem organizadas, reconheça também os apoios.
+Vou mostrar uma região na planta do pé chamada R1, Yongquan, na medicina chinesa. Depois de reconhecê-la, aproxime delicadamente a atenção dessa região nos dois pés. Continue sentindo também o restante do apoio. Não é preciso pressionar o chão nem procurar uma sensação específica.
 
-Vamos soltar os braços e perceber essa passagem. O que muda quando a ação termina? Repetiremos, desta vez procurando um ajuste simples que torne a posição mais disponível.
+Deixe a respiração acontecer. Agora reconheça a região interna abaixo do umbigo. Nas práticas de cultivo, vamos aprender a reunir a atenção nesse centro inferior. Você pode começar percebendo o que está disponível, ainda que seja algo discreto.
 
-Agora deixe as mãos repousarem. Reconheça o corpo e o espaço ao redor. Você pode guardar uma palavra ou uma pergunta sobre o que viveu.”
+Observe como estão mãos, rosto e ombros sem perder o contato com os pés. Se precisar, solte os braços e ajuste a postura. Vamos repetir por alguns instantes e perceber se algo fica mais claro.
 
-**Depois:** perguntar “O que descobriu na segunda tentativa?”. Introduzir Qi como linguagem da tradição que será desenvolvida gradualmente. A investigação com mãos pode ser ampliada conforme a formação de Fabiano, sem induzir que todos sintam pressão ou magnetismo.
+Para concluir, deixe as mãos repousarem na forma que vou mostrar. Reencontre o centro inferior e o apoio dos pés. Retome pequenos movimentos e olhe o ambiente. Guarde uma descoberta ou uma pergunta sobre o que viveu.”
 
-**Retomada:** M2 repete a mesma entrada e muda uma variável de atenção; M3 relaciona apoio e Song; M5 usa a preparação antes da quietude.
+**Depois:** perguntar o que ficou diferente ao repetir. Explicar, em linguagem inicial, a relação tradicional entre R1, enraizamento e reunião da atenção. O mapa Rim–Jing–Nao ampliará essa compreensão em M1.4/M3; não é necessário antecipar sua exposição completa. As mãos podem ser exploradas depois desta base, inclusive em Wei Tuo I, preservando o nome e a finalidade de cada exercício.
+
+**Retomada:** M2 compara uma variável da mesma base; M3 explicita relações tradicionais e aprofunda três campos; M5 usa P0 antes da quietude; M6 a recupera antes e depois da órbita; M7 a retoma na passagem para o diálogo.
 
 ## P2. Respiração, atenção e linguagem de cultivo
 
-**Entrada:** aproximações em M1/M2; explicitação M3.1/M3.5. **Duração:** 5–7 min, iniciando e concluindo com P1. **Base:** respiração confortável, relação corpo–sopro–atenção e apresentação situada de Qi/Prana.
+**Entrada:** respiração confortável em P0/P1 desde M0.2; exploração em M1/M2 e explicitação M3.1/M3.5. **Duração:** 5–7 min, incluindo P0 e conclusão. **Base:** respiração confortável, relação corpo–sopro–atenção e apresentação situada de Qi/Prana.
 
 **Fala proposta:**
 
@@ -62,9 +77,9 @@ Retome uma percepção mais ampla do corpo. Como estão os pés, as mãos e o ro
 
 ### P2C. Três Tan Tien — familiarização interna e reunião
 
-**Entrada:** M3.6, retomada em M5/M6. **Proposta de tempo:** 8–10 min dentro do bloco da aula, ajustável. **Finalidade:** reconhecer três campos de cultivo e a relação entre eles, com uma conclusão no centro inferior. Esta é uma composição introdutória do TSH, fundamentada nas referências de 04, seção 13; não é anunciada como transmissão integral de um método de Pai Lin, Yang ou Chia.
+**Entrada:** mapa inicial dos três campos em M1.4/M1.7, com referência inferior praticada desde M0.2; exploração ampliada em M3.6 e retomada em M5/M6. **Proposta de tempo:** 8–10 min dentro do bloco da aula, ajustável. **Finalidade:** reconhecer três campos de cultivo e a relação entre eles, com uma conclusão no centro inferior. Esta é uma composição introdutória do TSH, fundamentada nas referências de 04, seção 13; não é anunciada como transmissão integral de um método de Pai Lin, Yang ou Chia.
 
-**Preparação, 2 min:** postura conhecida, apoio e respiração confortável. Identificar no desenho e no próprio corpo as regiões da versão ensinada. O campo é interno; o gesto sobre a superfície oferece uma referência aproximada.
+**Preparação, 2 min:** P0 — árvore/adaptação, pés/R1, respiração confortável e centro inferior. Identificar no desenho e no próprio corpo as regiões da versão ensinada. O campo é interno; o gesto sobre a superfície oferece uma referência aproximada.
 
 **Exploração, 4–5 min:** permanecer inicialmente com a região inferior. Em seguida, aproximar atenção da região média e brevemente da superior, conservando o contato com o conjunto do corpo. Para esta primeira aprendizagem, não exigir permanências iguais nem dirigir pressão, respiração ou esforço para a cabeça. O professor explica que localização e procedimentos específicos variam entre fontes.
 
@@ -76,9 +91,9 @@ Retome uma percepção mais ampla do corpo. Como estão os pés, as mãos e o ro
 
 ## P3. Movimento, centro e direções complementares
 
-**Entrada:** M3.6 e encontro M3. **Duração:** 10–15 min; uma versão de 6–8 min conserva o conjunto com menos repetições. **Base:** Sustentar o Céu e Separar Céu e Terra, selecionados do Ba Duan Jin; preparação e conclusão da versão de Fabiano.
+**Entrada:** movimentos pontuais podem acompanhar P1 desde M1, conforme demonstração de Fabiano; composição ampliada em M3.6 e encontro M3. **Duração:** 10–15 min; uma versão de 6–8 min conserva o conjunto com menos repetições. **Base:** Sustentar o Céu e Separar Céu e Terra, selecionados do Ba Duan Jin; preparação e conclusão da versão de Fabiano.
 
-**Sequência:** preparação P1, 1–2 min; demonstração de Sustentar o Céu e tentativas, 3–4 min; demonstração de Separar Céu e Terra e tentativas, 3–4 min; breve quietude, 1–2 min; conclusão e registro, 1–3 min. O período de ensino pode ser maior na primeira apresentação.
+**Sequência:** preparação P0, cerca de 2 min; demonstração de Sustentar o Céu e tentativas, 3–4 min; demonstração de Separar Céu e Terra e tentativas, 3–4 min; breve quietude, 1–2 min; conclusão e registro, 1–3 min. O período de ensino pode ser maior na primeira apresentação; a versão breve reduz repetições e conserva preparação e conclusão.
 
 **Fala de abertura:**
 
@@ -190,11 +205,11 @@ Volte por alguns instantes à referência inicial. Depois, se fizer sentido, rec
 
 ## P7. Centro, direções e pequena circulação
 
-**Entrada:** M3 apresenta centro/direções; M5 desenvolve quietude; M6 reúne fundamentos e oferece ensino orientado da órbita. **A. Estudo experiencial preparatório:** 8–12 min. **B. Pequena circulação orientada:** extensão escolhida por Fabiano conforme a preparação, com técnica explicitamente identificada.
+**Entrada:** base e centro inferior desde M0.2; mapa inicial dos três campos em M1; M3 aprofunda centro/direções; M5 desenvolve quietude; M6.5/encontro M6 ensinam a órbita de forma orientada. **A. Estudo experiencial preparatório:** 8–12 min. **B. Pequena circulação orientada:** extensão escolhida por Fabiano conforme a preparação, com técnica explicitamente identificada.
 
 ### A. Preparação e estudo do mapa
 
-Reencontrar a preparação P1 e a respiração P2. Utilizar movimentos familiares de P3. Depois, apresentar um desenho de Ren Mai/Du Mai e explicar a direção da versão escolhida, distinguindo o mapa da realização de circulação de Qi.
+Reencontrar P0 — árvore/adaptação, pés/R1, respiração e centro inferior — e retomar o que foi aprendido em P2. Utilizar movimentos familiares de P3. Depois, apresentar um desenho de Ren Mai/Du Mai e explicar a direção da versão escolhida, distinguindo o mapa da realização de circulação de Qi.
 
 **Fala proposta:**
 

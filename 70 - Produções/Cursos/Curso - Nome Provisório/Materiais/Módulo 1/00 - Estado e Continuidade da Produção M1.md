@@ -3,7 +3,7 @@ tipo: estado-e-continuidade-de-producao
 projeto: Traduzindo o Ser Humano
 recorte_entrega: "M1.1-M1.7"
 status: referencia-atual-revisavel
-versao: "1.3"
+versao: "1.4"
 criado_em: 2026-08-23
 atualizado_em: 2026-11-13
 preparacao_de_gravacoes: autorizada
@@ -12,7 +12,7 @@ status_audiovisual: arquivos-finais-e-ensaio-pendentes
 
 ## Desenvolvimento aplicado — 13/11/2026
 
-[[04 - Caderno de Fundamentação - Cultivo Meditação Prana e Circulação]] e [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH]] aprofundam a base anterior. M1.1 recebeu fala de cultivo na seção 8a; os textos de apoio M1.1–M1.3 receberam ampliações. A primeira condução P1 está redigida para M1.3 ou encontro M0/M1. Há oito telas transversais com notas e roteiro correspondente em `Materiais/Práticas Transversais`. Os demais decks existentes não foram sobrescritos; a demonstração corporal será realizada por Fabiano.
+Primeiro ensino P0/P1 em **M0.2**: árvore, pés/R1, respiração, centro inferior e conclusão. M1.1 retoma; M1.3 repete; M1.4 apresenta três campos e Rim–Jing–Nao. Recuperar 04 (§20), 05 e 06; [[07 - Rohden - Assimilação Centro e Vida Cotidiana]] acrescenta assimilação e vida cotidiana. A produção autoral desde 2004 e o filtro experiencial/clínico orientam a integração. Roteiros textuais atualizados; binários anteriores ainda não reexportados. O PPT original Rim–Nao não foi localizado.
 
 
 Para M1.7, recuperar também P6B e a avaliação de metacognição em 04, seção 19: observação, história, intuição e interpretação espiritual. A retomada breve não antecipa todos os métodos internos de M3/M5/M6.

@@ -241,8 +241,8 @@ Em Yang, foram lidos também os parágrafos explicativos de sua hipótese bioel�
 | Campo | Entrada de compreensão | Experiência de aprendizagem proposta | Retomada |
 | --- | --- | --- | --- |
 | Inferior | Reunir, sustentar, cultivar e retornar; familiaridade com o centro que acompanha corpo e movimento. | Atenção ao baixo ventre interno, respiração confortável e relação com apoio, sem exigir uma sensação particular. | Desde M1; explicitação em M3.5–M3.6; conclusão de práticas posteriores. |
-| Médio | Relação entre peito, sopro e qualidade da participação, identificando a localização da versão. | Reconhecer a região e perceber como recebe a experiência; P4 pode aprofundar a disposição afetiva. | M3.6; M4; M5 e experiência relacional. |
-| Superior | Shen, clareza e interiorização no mapa tradicional. | Conhecer a referência, notar a atividade mental e a possibilidade de observar. A aproximação inicial é breve e retorna ao conjunto corporal. | M3 como mapa; M5 como aprofundamento contemplativo. |
+| Médio | Relação entre peito, sopro e qualidade da participação, identificando a localização da versão. | Reconhecer a região e perceber como recebe a experiência; P4 pode aprofundar a disposição afetiva. | Apresentação M1; exploração ampliada M3.6; M4/M5 e relação. |
+| Superior | Shen, clareza e interiorização no mapa tradicional. | Conhecer a referência e a organização do conjunto; depois ampliar a observação. A aproximação inicial é breve e retorna ao conjunto corporal. | M1 como apresentação; M3 amplia o mapa; M5 aprofunda a prática contemplativa. |
 | Relação entre os três | Organização e comunicação, com diferenças de funções. | P2C: reconhecer cada referência e o conjunto, depois reunir no inferior e concluir. | M5/M6: integrar e reconhecer o papel da preparação para a circulação. |
 
 Essas funções didáticas são elaboração do TSH. O campo médio não fica reduzido a emoção e o superior a pensamento; o mapa inclui alcance energético e espiritual próprio. As perguntas ajudam a começar sem impor uma experiência ideal nem exigir que o aluno localize três estruturas anatômicas.
@@ -257,9 +257,19 @@ Para o TSH, essa leitura dá maior lugar à quietude e à constância. O movimen
 
 A monografia de Fabiano é vinculada a **Liu Chih Ming/CEMETRAC**. Não substituir esse nome por Liu Pai Lin nem atribuir automaticamente os enunciados de um ao outro. A presença dos dois no diálogo pede identificação de fonte e transmissão. Para aprofundar a técnica específica de Pai Lin sobre três centros e órbita, um manual ou registro de formação com autoria e sequência identificadas será uma fonte adicional pertinente; a base pública encontrada sustenta o contexto, não todos os detalhes.
 
+### Registro institucional dos três centros e uso na docência
+
+O [Instituto Confúcio da Universidad de la República, Uruguai](https://udelar.edu.uy/confucio/seminario-tai-ji/), anunciou seminário em abril de 2019. Na programação de 13/4, das 10h55 às 11h40, consta atividade teórica/prática sobre origem e significado do Tai Ji e “Meditación en los tres centros”, com Rosario Mora, Tai Chi Pai Lin. A página situa o ensino dos centros em um encontro que articula compreensão e experiência.
+
+**Aplicação elaborada para o TSH:** utilizar esse registro no caderno docente e na bibliografia de M1.4/M3.6/M5.4 para situar a transmissão; uma menção breve pode acompanhar o mapa. O desenho de aula combina explicação do sentido, demonstração, experiência e elaboração posterior. O registro não substitui os comandos da versão ensinada por Fabiano. P2C conserva sua identificação como composição introdutória do TSH; a formação pessoal de Fabiano e as fontes técnicas dão os procedimentos.
+
+Contatore, Tesser e Barros acrescentam uma compreensão do aprendizado que articula saber transmitido, experiência pessoal e cuidado. Para o TSH, a consequência é acompanhar também o que o aluno aprende a perceber e a escolher para si, além da reprodução da forma. Essa contribuição orienta P0/P1, diário e continuidade, preservando movimento e serenidade como partes relacionadas do cultivo.
+
 ## 15. Monografia de MTC: material autoral que estrutura a integração
 
 Fonte primária autoral: [[00 - Caixa de Entrada/MONOGRAFIA Acupuntura/MONOGRAFIA Acupuntura]], **Um estudo da relação mente/corpo/espírito na Medicina Tradicional Chinesa**, Fabiano Deliberalli, fevereiro de 2004, conclusão da formação em Acupuntura com Liu Chih Ming, CEMETRAC. Nesta revisão foram relidas apresentação, Três Tesouros, meridianos, passagens de movimento/psiquismo e os Cinco Shen. Os localizadores abaixo são títulos internos; o sumário preserva a paginação histórica, que não é a numeração de um PDF atual.
+
+**Continuidade autoral:** o documento de fevereiro de 2004 registra uma investigação mente/corpo/espírito que, em 2026, possui pelo menos 22 anos de elaboração documentada. O TSH amadurece uma trajetória já existente, com estudos, prática e atendimentos clínicos. Fabiano explicita que os interlocutores que traz passaram por seu filtro experiencial e clínico. Essa origem deve ser reconhecida desde M0/M1 e recuperada substantivamente nas aulas correspondentes; não limitar sua monografia a uma prova de formação mencionada apenas em M3.
 
 | Passagem autoral | Contribuição à construção atual | Uso concreto |
 | --- | --- | --- |
@@ -402,3 +412,32 @@ A analogia do avatar pode abrir uma pergunta espiritual; a identificação matem
 ### Condução e integração
 
 P6B desenvolve o exemplo da mensagem difícil em formato pedagógico. A observação não torna a pessoa imediatamente imune à ansiedade. O aluno pode reconhecer ansiedade, pensamento e necessidade e continuar participando com apoio. Em M1.7, essa capacidade dialoga com centro; em M2.5, com descrição/interpretação; em M4.5, com partes e presença; em M5.4/M5.8, com quietude e discernimento; em M7, com a resposta na relação. O cultivo interno apoia essa aprendizagem sem assumir a função de apagar história, necessidade ou vínculo.
+
+## 20. A base desde M0/M1: Zhan Zhuang, R1 e Rim–Jing–Nao
+
+### O fundamento e o que se acrescenta com a prática
+
+No material de Ernesto, R1 recebe desenvolvimento desde as páginas 1–3: enraizamento, atenção aos pés e orientação descendente do Qi; a postura em pé e o alinhamento retornam nas páginas 11–18; automassagem e pontos aparecem em 69–73. Ler esse conjunto mostra que a base antecede e acompanha os aprofundamentos internos. Começar seu ensino apenas em M3 reduziria as oportunidades de repetição necessárias ao percurso proposto.
+
+**Zhan Zhuang** é a grafia usada nesta revisão para a postura da árvore mencionada por Fabiano. Na lógica do cultivo, a permanência organiza corpo, sopro e intenção e permite aprender Song, raiz, centro e leveza. O apoio plantar e R1 tornam concreto o trabalho com a base; o centro inferior oferece referência para reunião e continuidade. A preparação reaparece ao movimentar, meditar, observar e entrar em relação, em versões proporcionais à atividade. P0/P1, em 05, tornam esse começo ensinável.
+
+| Referência | Fundamento próprio | Experiência inicial | Ampliação no percurso |
+| --- | --- | --- | --- |
+| Árvore/Zhan Zhuang | Estrutura e soltura; raiz e disponibilidade; cultivo na quietude. | M0.2: aprender a posição e perceber um ajuste; M1: repetir e comparar. | M3 explicita Song e relações; M4 percebe modos de esforço; M5 sustenta quietude; M7 leva referência à relação. |
+| Pés/R1, Yongquan | Primeiro ponto do canal do Rim; atenção à base e descida/enraizamento na apresentação de Ernesto. | Localizar por demonstração e aproximar a atenção sem concentrar todo o peso no ponto. Automassagem leve, quando ensinada, é uma prática específica. | Apoia entrada e conclusão; M2 distingue contato, intenção e interpretação; M3 articula o mapa energético; M6 permanece como referência da preparação. |
+| Centro inferior | Reunião, cultivo e relação com o conjunto corporal. | Reconhecer baixo ventre interno e respiração confortável desde M0.2. | Apresentar três campos em M1 e explorar progressivamente; reunião após quietude e circulação. |
+| Rim–Jing–Nao | Reserva/constituição, nutrição e relação mente/corpo/espírito na linguagem de MTC/Acupuntura Bioenergética do acervo. | M1.4: oferecer visão do conjunto depois da experiência de apoio e centro. | M3.3/M3.5 aprofundam reserva, ritmos e cultivo; M5 retoma clareza e interiorização; M6 articula centros e circulação. |
+
+### O mapa fornecido e sua procedência recuperada
+
+[[TSH - Síntese Integrativa do Refinamento]] registra as imagens de Acupuntura Bioenergética fornecidas por Fabiano: Rim/Jing, “Circulación de Jingshen”, Chong Mai, Ren Mai, Du Mai, Nao, Xin Bao e eixo Shaoyin, em contexto de formação com Carlos Nogueira Pérez/CEMETC. A nota [[18 - CEMETC - Venia Docente e Acupuntura Bioenergética 2014-2016]] documenta a formação correspondente. A relação Rim–Jing como reserva e sustentação já integra a construção autoral do curso.
+
+Nesta retomada, foram recuperados os registros e a leitura conceitual do mapa; **o PowerPoint original Rim–Nao não foi localizado** entre os arquivos identificados no repositório e nas buscas pertinentes. O PDF *SHEN - JUNG.pptx.pdf*, efetivamente consultado, contém uma passagem sobre Jing, rins e nutrição do cérebro, mas não contém o diagrama original procurado. Não tratar esses arquivos como o mesmo material.
+
+O conteúdo recuperado já entra na progressão. A montagem da tela precisa retomar o original quando disponível para conservar setas e legendas, especialmente R+/R− e suas relações. Até lá, a explicação usa o que está documentado e não reproduz um trajeto atribuído ao slide ausente. R1, sistema Rim, campo inferior e Nao participam de relações, conservando funções próprias: o ponto não é todo o sistema Rim, e o centro inferior não é reduzido ao rim anatômico.
+
+### Retomadas com finalidade
+
+M0.2 ensina uma experiência repetível; M0.3 organiza sua ocasião de prática. M1.1 a retoma antes da investigação; M1.3 compara explicação e assimilação; M1.4 apresenta Qi e os mapas; M1.7 reúne centro e referência. M2 refina linguagem. M3 aprofunda conhecimentos que já possuem memória corporal. M5 amplia quietude; M6.5 ensina a órbita sobre essa base; M8 conserva a versão aprendida e a possibilidade de revisão.
+
+[[07 - Rohden - Assimilação Centro e Vida Cotidiana]] amplia a relação entre interiorização, eixo e vida. Rohden ajuda a compreender assimilação, receptividade e continuidade; Ernesto, Yang e Chia oferecem procedimentos e linguagens específicos do cultivo chinês; a elaboração de Fabiano organiza seu encontro na formação. O livro de Rohden não fornece o trajeto técnico da órbita nem um método dos três Tan Tien.

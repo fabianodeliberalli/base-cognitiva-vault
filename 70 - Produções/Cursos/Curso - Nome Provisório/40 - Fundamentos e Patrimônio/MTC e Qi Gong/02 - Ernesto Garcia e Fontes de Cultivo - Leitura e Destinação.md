@@ -13,6 +13,8 @@ atualizado_em: 2026-11-13
 
 # Ernesto Garcia e fontes de cultivo: leitura e destinação
 
+**Reorganização atual:** a seção 20 de 04 aprofunda a base árvore/Zhan Zhuang, pés/R1 e Rim–Jing–Nao desde M0/M1. O ensino começa em M0.2; M3 aprofunda. [[07 - Rohden - Assimilação Centro e Vida Cotidiana]] examina o PDF fornecido e articula as funções dos materiais no conjunto. A monografia autoral de 2004 e o filtro experiencial/clínico explicitado por Fabiano orientam a integração. Os registros iniciais de lacuna abaixo devem ser lidos junto desses desenvolvimentos.
+
 Esta nota documenta as fontes pertinentes à reorganização de [[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]]. Distingue material examinado, contribuição curricular e leituras ainda necessárias. As páginas de PDF abaixo são a contagem do arquivo consultado, que pode divergir da paginação editorial.
 
 ## 1. Material de Ernesto Garcia

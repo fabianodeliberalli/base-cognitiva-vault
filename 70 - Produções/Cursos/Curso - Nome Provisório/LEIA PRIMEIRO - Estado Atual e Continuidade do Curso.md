@@ -12,7 +12,7 @@ autoridade_de_decisao: Fabiano Deliberalli
 
 ## Cultivo corporal, energético e contemplativo — 13/11/2026
 
-Base de cultivo: [[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]]. Fontes em 02; movimentos em 03; fundamentos em 04, incluindo três Tan Tien, órbita, monografia autoral, Pai Lin/Castellanos e cinco transcrições. Conduções P2C/P5B/P6B/P7 em 05 e destinos/falas em 06. Distribuição M0–M8 revisável; novos mapas visuais internos ainda a produzir.
+Base: [[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]]. P0/P1 ensinam árvore, pés/R1 e centro inferior desde M0.2; M1 apresenta três campos e Rim–Jing–Nao; M3 aprofunda; M6.5/encontro M6 ensinam órbita. Fontes em 04; condução 05; aulas 06; Rohden e articulação autoral em 07. Produção desde 2004 e seleção experiencial/clínica reconhecidas. Binários e mapa original Rim–Nao ainda a atualizar/recuperar.
 
 
 ## Máscara, armadura e potencialidades — 12/11/2026

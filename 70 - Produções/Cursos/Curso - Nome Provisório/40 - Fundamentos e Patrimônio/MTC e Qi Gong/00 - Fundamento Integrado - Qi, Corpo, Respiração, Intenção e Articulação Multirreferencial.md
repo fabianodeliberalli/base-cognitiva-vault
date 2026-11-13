@@ -31,6 +31,12 @@ tags:
 Desenvolvimento solicitado por Fabiano: [[04 - Caderno de Fundamentação - Cultivo Meditação Prana e Circulação]]; [[05 - Caderno de Condução - Sequências e Aprendizagens do Cultivo]]; [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH]]. A nota das vinte formas recebeu aprofundamento técnico/didático. Estão redigidos exercícios, falas, destinos nas 54 aulas e organização da hora de prática dos oito encontros. Recuperar esses conteúdos na produção, além do mapeamento inicial. Materiais transversais em `Materiais/Práticas Transversais`: apresentação de oito telas, roteiro sincronizado e apoio do aluno. O exemplar de prática integral tem páginas de amostra; as passagens efetivamente examinadas e as diferenças de versão estão documentadas.
 
 
+## Base desde a entrada e continuidade autoral — 13/11/2026
+
+Orientação atual de Fabiano: P0/P1, com árvore/Zhan Zhuang, pés/R1, respiração, centro inferior e conclusão, começam em M0.2 e abrem as práticas posteriores em extensão adequada. M1 apresenta três campos e o conteúdo recuperado de Rim–Jing–Nao; M3 aprofunda a base já vivida. M6.5/encontro M6 ensinam a órbita; M8 continua a versão aprendida. A seção 20 de 04 e os cadernos 05/06 desenvolvem o ensino.
+
+A seleção de referências que Fabiano traz já tem fundamento em seus estudos, prática e experiência clínica; sua monografia de 2004 documenta mais de vinte anos dessa elaboração. Recuperar seu conteúdo, além da credencial. [[07 - Rohden - Assimilação Centro e Vida Cotidiana]] acrescenta leitura do livro, aplicação a eixo/meditação/cotidiano e articulação das fontes. O PowerPoint original Rim–Nao não foi recuperado; seu conteúdo está registrado na síntese, com procedência em Acupuntura Bioenergética.
+
 ## Práticas internas — reavaliação de 13/11/2026
 
 Três Tan Tien, órbita, quietude e metacognição receberam desenvolvimento em [[04 - Caderno de Fundamentação - Cultivo Meditação Prana e Circulação]], seções 12–19. Recuperar a contribuição autoral da monografia de MTC, as diferenças entre Pai Lin/Liu Chih Ming, Ernesto/Yang/Chia e a leitura de Castellanos. [[05 - Caderno de Condução - Sequências e Aprendizagens do Cultivo]] oferece P2C/P5B/P6B e ensino de P7; [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH]] incorpora esses desenvolvimentos em M3/M5/M6 e nos encontros. As classificações de versões históricas abaixo não retiram os conteúdos internos do percurso atual.

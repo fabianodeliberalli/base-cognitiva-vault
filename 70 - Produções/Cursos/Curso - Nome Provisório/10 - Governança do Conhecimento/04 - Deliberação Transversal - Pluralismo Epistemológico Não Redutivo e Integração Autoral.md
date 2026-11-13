@@ -2,10 +2,10 @@
 tipo: referencia-transversal-autoral
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "1.1"
+versao: "1.2"
 decidido_em: 2026-07-26
 formalizado_em: 2026-08-22
-atualizado_em: 2026-10-24
+atualizado_em: 2026-11-13
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 substitui_como_referencia:
@@ -92,6 +92,16 @@ Formulação de comunicação preferencial:
 A originalidade autoral pode residir na articulação clínica e pedagógica de saberes efetivamente estudados e praticados, sem que cada conceito isolado precise ser novo ou que cada ponte precise constituir uma equivalência científica.
 
 Em materiais públicos, evitar ressalvas defensivas repetitivas que sugiram que a ciência funciona como autorização dos demais regimes. A precisão epistemológica deve permanecer no bastidor e aparecer ao participante quando for relevante para compreender o alcance de uma afirmação, uma prática ou uma correlação.
+
+## 4B. Trajetória autoral e seleção prévia das referências — 13/11/2026
+
+Fabiano explicita que os autores, mapas e práticas que traz ao diálogo do TSH já passaram por sua seleção, estudo e validação em sua experiência pessoal e clínica. Essa escolha integra a autoria e deve ser considerada ponto de partida do trabalho. A função de colaboradores e IAs é recuperar o material pertinente, compreender sua lógica, ampliar correlações e organizar sua contribuição às aulas e práticas de forma coerente.
+
+Há documentação autoral dessa investigação há mais de vinte anos: *Um estudo da relação mente/corpo/espírito na Medicina Tradicional Chinesa*, de fevereiro de 2004, é uma fonte substantiva do percurso atual. Sua presença não se limita a uma credencial biográfica. Estudos, formação, práticas e atendimentos clínicos continuados dão sustentação à seleção e às articulações que Fabiano desenvolve. A data documenta 22 anos até 2026; não é apresentada como início de toda a sua trajetória.
+
+Esse filtro experiencial e clínico é reconhecido em seu próprio estatuto. A integração registra quem formula uma ideia, que experiência ajuda a compreender e como entra no ensino. Não reabre, a cada referência, um julgamento geral de legitimidade nem exige ratificação científica para ensinar um mapa tradicional ou espiritual. Quando houver diferença técnica concreta entre fontes, explicita-a para realizar a versão escolhida por Fabiano com fidelidade. A investigação bibliográfica apoia e aprofunda sua elaboração; não substitui a decisão autoral.
+
+Aplicação curricular e fonte de retomada: [[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]], [[04 - Caderno de Fundamentação - Cultivo Meditação Prana e Circulação]] e [[07 - Rohden - Assimilação Centro e Vida Cotidiana]].
 
 ## 5. Práticas tradicionais, corporais, energéticas e espirituais
 
