@@ -34,7 +34,7 @@ data: 2026-11-13
 
 A disponibilidade das fontes estava melhor consolidada do que a sinalização em algumas entradas de produção. Os ajustes desta conferência aproximam o estado de M1 e a preparação de roteiros das leituras posteriores de 11; explicitam os complementos em R06/R23 do inventário; e ligam diretamente os dois catálogos e a família de cinco mapas. A revisão anterior de Ernesto (F08) foi relida integralmente e conciliada por temas em 02 §1, incluindo Te/Ziran/Pu e a qualidade da atenção, que estavam apenas nomeados.
 
-Esses ajustes de recuperação são preparados em ramificação a partir da main conferida. Não alteram a arquitetura, não adicionam autores obrigatórios e não certificam produção audiovisual concluída. O relatório abaixo preserva o diagnóstico anterior à recuperação do PR #59 e deve ser lido como histórico.
+Esses ajustes de recuperação estão preparados no [PR #60](https://github.com/fabianodeliberalli/base-cognitiva-vault/pull/60), a partir da main conferida. Não alteram a arquitetura, não adicionam autores obrigatórios e não certificam produção audiovisual concluída. O relatório abaixo preserva o diagnóstico anterior à recuperação do PR #59 e deve ser lido como histórico.
 
 ### Condições para utilizar a base
 
