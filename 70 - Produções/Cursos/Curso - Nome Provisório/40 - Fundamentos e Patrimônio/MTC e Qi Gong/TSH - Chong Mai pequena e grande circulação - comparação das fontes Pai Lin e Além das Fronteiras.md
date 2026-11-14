@@ -66,3 +66,9 @@ A formação de Fabiano é fundamento da seleção competente das técnicas, nã
 
 ## Proveniência
 As fontes foram lidas em 09/11/2026 no ambiente desta conversa. A apresentação PPTM tem 39 slides e foi examinada em texto e visual, incluindo slides 9 e 23. O PDF de Pai Lin tem seis páginas escaneadas e foi lido visualmente. **Os binários não foram copiados ao GitHub por este registro**; preservar originais e créditos em suas localizações autorizadas.
+
+## Fonte CEMETC recuperada para comparação — 14/11/2026
+
+A leitura do pacote de formação acrescenta C32, Psicossomática Vitalista, PDF 11–15, e C12, capítulo dos vasos reguladores, PDF 3–15 (impressas 391–403). O mapa da grande circulação em C32 PDF 11 corresponde visual e textualmente à figura direita da lâmina autoral 23, com composição diferente. C12 desenvolve reservatórios, coordenação, três campos e funções. Esta fonte escrita amplia a comparação com Pai Lin e as fontes de procedimento; não acrescenta por si só uma técnica completa de órbita ou uma nova ordem respiratória.
+
+Localizadores, diferenças de edição e alcance em [[13 - Nogueira Pérez e CEMETC - Acupuntura Bioenergética - Fontes Correlações e Destinos]]; comparação visual em [[15 - CEMETC - Imagens Correspondências e Materiais para as Aulas]]; destinos em [[14 - CEMETC - Destinos Pedagógicos Práticas e Correlações]]. Permanecem a base desde M0.2 e o ensino orientado da órbita em M6.5/encontro M6, com continuidade da versão aprendida.

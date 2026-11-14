@@ -348,3 +348,7 @@ Recuperar [[11 - Leituras Recuperadas - Taoismo Shen e Transformação]] e [[00 
 | M8.2 | Continuidade por função, condições e efeitos; aprofundamentos possíveis. |
 
 A produção pode recuperar esses conteúdos como fala, exemplo, prática, texto do aluno, imagem ou preparação docente. Healing Love/Fusão/canais permanecem como possibilidades de desenvolvimento específico, sem nova oferta ou carga obrigatória por este registro.
+
+## 9. CEMETC — recuperação na montagem — 14/11/2026
+
+Antes de montar os blocos de reserva, constituição, capacidades, mediação e circulação, consultar [[13 - Nogueira Pérez e CEMETC - Acupuntura Bioenergética - Fontes Correlações e Destinos]], os destinos de [[14 - CEMETC - Destinos Pedagógicos Práticas e Correlações]] e as correspondências de [[15 - CEMETC - Imagens Correspondências e Materiais para as Aulas]]. Escolher a função da contribuição: fala, exemplo, prática, imagem, apoio do participante ou nota docente. A correspondência de imagens com a apresentação autoral foi ampliada; a seleção para cada PowerPoint, roteiro e entregável permanece na produção efetiva. Arquitetura, carga e progressão do cultivo não são alteradas por este registro.

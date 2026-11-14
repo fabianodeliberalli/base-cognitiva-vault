@@ -1,0 +1,472 @@
+{
+  "project": "Traduzindo o Ser Humano",
+  "date": "2026-11-14",
+  "status": "avaliacao-e-propostas-de-desenvolvimento",
+  "source_zip": "Acervo CEMETC - Acupuntura Bioenergética.zip",
+  "source_zip_sha256": "d8d17157fa240fe268a78701e4c573804b7719b67bbc6badfc8f680d452f5949",
+  "library_file_id": "libfile_fde3_f-97f8a808d5548191863efa9fe797d68f_ad925f8fadbc81918eab9ef0eafee9a9",
+  "source_url": "https://chatgpt.com/library?file_id=libfile_fde3_f-97f8a808d5548191863efa9fe797d68f_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal",
+  "counts": {
+    "files": 48,
+    "pdfs": 39,
+    "pdf_pages_including_repeated_content": 1807,
+    "ppt": 1,
+    "ppt_slides_reading_copy": 40,
+    "docx": 1,
+    "onenote": 5,
+    "markdown": 2
+  },
+  "scope": "Inventário, leitura dirigida e desenvolvimento de propostas; não declara leitura integral de todos os livros ou restauração completa dos OneNote. Não contém originais integrais nem questionários pessoais.",
+  "files": [
+    {
+      "id": "C01",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/00 - LEIA-ME - Índice e origem dos arquivos.md",
+      "extension": ".md",
+      "bytes": 4888,
+      "sha256": "49b82d9ac1508d6ca94c5640ffdaad8aeaf62835bb4ee2b4b82d2d9b48d551a9",
+      "reading_scope": "Leitura integral; procedência declarada conferida com a composição do ZIP.",
+      "repository_copy_path": "70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/MTC e Qi Gong/Anexos/TSH_CEMETC_Indice_de_Origem_Recebido_2026-11-14.txt",
+      "repository_copy_sha256": "49b82d9ac1508d6ca94c5640ffdaad8aeaf62835bb4ee2b4b82d2d9b48d551a9",
+      "repository_copy_scope": "Texto recebido preservado integralmente; histórico de consulta, não substitui a avaliação atual."
+    },
+    {
+      "id": "C02",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/01 - Livro Tomo I completo (espanhol)/AcupunturaI.FundamentosdeBioenergetica.CarlosNogueiraLibrocompleto.pdf",
+      "extension": ".pdf",
+      "bytes": 5910165,
+      "sha256": "cdfccf8ccf3ca4e200b664e7f99a15b05f1590a9f6ac20f799b1b9e38986eb8e",
+      "pdf_pages": 567,
+      "reading_scope": "Leitura dirigida: plano/introdução e PDF 122–130; buscas temáticas no restante. Não é leitura integral das 567 páginas."
+    },
+    {
+      "id": "C03",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/02 - Tomo I em capítulos/1- Tomo I paginas 1-8 PORTADA.pdf",
+      "extension": ".pdf",
+      "bytes": 154005,
+      "sha256": "228b96be2ebd9ae410a4916cb47c67bac1833181805140c490fd0eb0b5137d38",
+      "pdf_pages": 8,
+      "reading_scope": "Capa e ficha de edição conferidas: sexta edição, 2006."
+    },
+    {
+      "id": "C04",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/02 - Tomo I em capítulos/2- Tomo I paginas 9-14 SUMARIO Y PLAN DE LA OBRA.pdf",
+      "extension": ".pdf",
+      "bytes": 100700,
+      "sha256": "344d5122720f5a7d96542eb134a6c4881d3211f21cb03ddb0aa6a49b712e1747",
+      "pdf_pages": 6,
+      "reading_scope": "Consulta ao sumário e à organização da sexta edição."
+    },
+    {
+      "id": "C05",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/02 - Tomo I em capítulos/20- Tomo I paginas 385-398 LECCION 6 CAPITULO 1.pdf",
+      "extension": ".pdf",
+      "bytes": 181818,
+      "sha256": "e9d5cc9e4caac22ddf5cd7d9ec99fd888f28cde72a229ff84ab634d9ae0804f7",
+      "pdf_pages": 14,
+      "reading_scope": "Triagem: identificação de capítulo clínico Shu-Mu, não capítulo de Shen."
+    },
+    {
+      "id": "C06",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/02 - Tomo I em capítulos/3- Tomo I paginas 15-18 INTRODUCCION.pdf",
+      "extension": ".pdf",
+      "bytes": 63258,
+      "sha256": "0e5dffd0333bae89603b53bc7f424fef5eaf8c6d2898c3a66a7135ffcf4c2ccb",
+      "pdf_pages": 4,
+      "reading_scope": "Triagem da introdução em português; versão diferente do arquivo completo C02."
+    },
+    {
+      "id": "C07",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/02 - Tomo I em capítulos/5- Tomo I paginas 21-46 LECCION 1 CAPITULO 1.pdf",
+      "extension": ".pdf",
+      "bytes": 425443,
+      "sha256": "8ab425c5604fe520b4e501230a42b308e95575deb29506e949e60d48d671ea89",
+      "pdf_pages": 26,
+      "reading_scope": "Estrutura/abertura; fundamentos como apoio à comparação com C31."
+    },
+    {
+      "id": "C08",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/02 - Tomo I em capítulos/6- Tomo I paginas 47-68 LECCION 1 CAPITULO 2.pdf",
+      "extension": ".pdf",
+      "bytes": 257642,
+      "sha256": "2d3dc82fd753dc3ce7e4f69b8d6c0bd53baf4f3e8d2b6b78402a8dc5cb4c107f",
+      "pdf_pages": 22,
+      "reading_scope": "Leitura dirigida dos princípios e trechos sobre integração/autorreparação; comparar síntese em C31."
+    },
+    {
+      "id": "C09",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/02 - Tomo I em capítulos/7- Tomo I paginas 69-84 LECCION 1 CAPITULO 3.pdf",
+      "extension": ".pdf",
+      "bytes": 160149,
+      "sha256": "279340101b60e1cc9a7026a14dc409e7f05378a5be3194ab9a1f21d6fb9dc6b1",
+      "pdf_pages": 16,
+      "reading_scope": "Estrutura e trechos de Yin–Yang e relatividade; não leitura integral."
+    },
+    {
+      "id": "C10",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/02 - Tomo I em capítulos/8- Tomo I paginas 85-110 LECCION 1 CAPITULO 4.pdf",
+      "extension": ".pdf",
+      "bytes": 1413561,
+      "sha256": "f554c02ff91110a7c83195ee3f5164deddd5297e004180956d6ca9558e36b079",
+      "pdf_pages": 26,
+      "reading_scope": "Leitura dirigida de interdependência e ciclos Sheng–Ke, sobretudo PDF 15–18."
+    },
+    {
+      "id": "C11",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/03 - Tomo II em capítulos (fragmentos)/10- Tomo II paginas 375-388 LECCION 9 CAPITULO 2.pdf",
+      "extension": ".pdf",
+      "bytes": 144288,
+      "sha256": "db34cedaaf1ad40baa146febfdd97c357c359f09879be33e112bba13c543d5fe",
+      "pdf_pages": 14,
+      "reading_scope": "Identificação da estrutura e triagem de capítulo clínico Luo-Yuan."
+    },
+    {
+      "id": "C12",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/03 - Tomo II em capítulos (fragmentos)/11- Tomo II paginas 389-442 LECCION 9 CAPITULO 3.pdf",
+      "extension": ".pdf",
+      "bytes": 2457557,
+      "sha256": "c9279bac0de379e4466c73a79a794fa58b925f1524a3dc462dacf3fac0b4f8b8",
+      "pdf_pages": 54,
+      "reading_scope": "Leitura dirigida de PDF 3–15 (impressas 391–403): funções, reservatórios, campos e capacidades; demais trajetos identificados para consulta."
+    },
+    {
+      "id": "C13",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/03 - Tomo II em capítulos (fragmentos)/12- Tomo II paginas 443-456 LECCION 10 CAPITULO 1.pdf",
+      "extension": ".pdf",
+      "bytes": 147686,
+      "sha256": "7bcbe7d266a056a0ef68ef5a12179347ec475ba7d749ac104607c4b055a809c9",
+      "pdf_pages": 14,
+      "reading_scope": "Identificação de etiopatogenia/semiologia por estrutura e abertura."
+    },
+    {
+      "id": "C14",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/03 - Tomo II em capítulos (fragmentos)/13- Tomo II paginas 457-506 LECCION 10 CAPITULO 2.pdf",
+      "extension": ".pdf",
+      "bytes": 264421,
+      "sha256": "1fd9f56cd347b15c4405797cf97b2d951e14a19ea4332d6750d62ef5eca97a4a",
+      "pdf_pages": 50,
+      "reading_scope": "Leitura dirigida de PDF 3–13 (impressas 459–469): fatores, Xin Bao, emoções, constituição e hipóteses do autor."
+    },
+    {
+      "id": "C15",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/03 - Tomo II em capítulos (fragmentos)/14- Tomo II paginas 507-550 LECCION 10 CAPITULO 3.pdf",
+      "extension": ".pdf",
+      "bytes": 241116,
+      "sha256": "296f733480d0c65bb9ef73046f7f3162a69da5179df4f411d862af3d746f0b7d",
+      "pdf_pages": 44,
+      "reading_scope": "Triagem de síndromes climatológicas; sem proposta de aplicação clínica no TSH."
+    },
+    {
+      "id": "C16",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/03 - Tomo II em capítulos (fragmentos)/15- Tomo II paginas 551-600 LECCION 10 CAPITULO 4.pdf",
+      "extension": ".pdf",
+      "bytes": 261506,
+      "sha256": "b27744050e0329c19534b1ba8d05492ae34018f974e5059078e3c2b732674203",
+      "pdf_pages": 50,
+      "reading_scope": "Triagem de síndromes gerais; sem leitura integral."
+    },
+    {
+      "id": "C17",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/03 - Tomo II em capítulos (fragmentos)/16- Tomo II paginas 601-726 LECCION 10 CAPITULO 5.pdf",
+      "extension": ".pdf",
+      "bytes": 1016479,
+      "sha256": "54b2b02b98bb02271612c038645cefbf405d61f4fe9d661bff60e68aba606622",
+      "pdf_pages": 126,
+      "reading_scope": "Triagem e busca de funções psíquicas; síndromes Zang-Fu para consulta docente."
+    },
+    {
+      "id": "C18",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/03 - Tomo II em capítulos (fragmentos)/2- Tomo II paginas 8-9 INDICE.pdf",
+      "extension": ".pdf",
+      "bytes": 136991,
+      "sha256": "36e981db94e26b0aa113ba0d3520a3f9f2f6c8968245dd5d1bd17ac5fbe41eb4",
+      "pdf_pages": 2,
+      "reading_scope": "Consulta integral ao sumário; identificação dos fragmentos e das lacunas."
+    },
+    {
+      "id": "C19",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/03 - Tomo II em capítulos (fragmentos)/20- Tomo II paginas 867-896 LECCION 12 CAPITULO 1.pdf",
+      "extension": ".pdf",
+      "bytes": 197960,
+      "sha256": "834a3f4e99ca380a3bad0bbf9276c976bde8a4ec453fc9cbd756b991439c18d2",
+      "pdf_pages": 30,
+      "reading_scope": "Triagem de técnicas terapêuticas; consulta profissional, sem transposição de protocolos."
+    },
+    {
+      "id": "C20",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/03 - Tomo II em capítulos (fragmentos)/21- Tomo II paginas 897-908 LECCION 12 CAPITULO 2.pdf",
+      "extension": ".pdf",
+      "bytes": 115737,
+      "sha256": "ac8e5b1f4563e97f9408374a3808171fd23072562bbfe63d391d805f5c601c68",
+      "pdf_pages": 12,
+      "reading_scope": "Triagem de índice terapêutico geral; não leitura clínica integral."
+    },
+    {
+      "id": "C21",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/03 - Tomo II em capítulos (fragmentos)/22- Tomo II paginas 909-954 LECCION 12 CAPITULO 3.pdf",
+      "extension": ".pdf",
+      "bytes": 524444,
+      "sha256": "e15b28f2672e4e7988568956370a48f9dade2deb2687a64573480312ff6009a4",
+      "pdf_pages": 46,
+      "reading_scope": "Triagem de história clínica acupuntural; não leitura integral."
+    },
+    {
+      "id": "C22",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/03 - Tomo II em capítulos (fragmentos)/23- Tomo II paginas 955-972 BIBLIOGRAFIA E INDICE.pdf",
+      "extension": ".pdf",
+      "bytes": 354793,
+      "sha256": "33bf32ac447c41fa04e47a18f7ee81ba8d93243a5308b4cac4af09d65f55c363",
+      "pdf_pages": 18,
+      "reading_scope": "Consulta à estrutura de bibliografia/índice e referências localizadas."
+    },
+    {
+      "id": "C23",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/03 - Tomo II em capítulos (fragmentos)/7- Tomo II paginas 201-224 LECCION 8 CAPITULO 4.pdf",
+      "extension": ".pdf",
+      "bytes": 225416,
+      "sha256": "1faf363d3fa698af2336debf908be58100c931fa081e4c816baf4c7e9006988d",
+      "pdf_pages": 24,
+      "reading_scope": "Triagem de capítulo reumático; consulta profissional."
+    },
+    {
+      "id": "C24",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/03 - Tomo II em capítulos (fragmentos)/8- Tomo II paginas 225-262 LECCION 8 CAPITULO 5.pdf",
+      "extension": ".pdf",
+      "bytes": 257812,
+      "sha256": "b44ce0b5ec08f8c77f480daeee009de765c2a7273aabfd80dcc0860c34a2899c",
+      "pdf_pages": 38,
+      "reading_scope": "Triagem de exemplos clínicos de dor; consulta profissional."
+    },
+    {
+      "id": "C25",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/03 - Tomo II em capítulos (fragmentos)/9- Tomo II paginas 263-374 LECCION 9 CAPITULO 1.pdf",
+      "extension": ".pdf",
+      "bytes": 1699929,
+      "sha256": "4cefe40265ae27916455cc52f6f3d1e200fe24e158e96d69437778bec679c576",
+      "pdf_pages": 112,
+      "reading_scope": "Triagem de microsistemas; consulta profissional."
+    },
+    {
+      "id": "C26",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/04 - Slides e aulas CEMETC/5_movimientos.pdf",
+      "extension": ".pdf",
+      "bytes": 3212667,
+      "sha256": "6b8c9fe4c92292a42637bce62610faf3200cbbf9a094cb03e2c365c295b74b6a",
+      "pdf_pages": 59,
+      "reading_scope": "Estrutura textual; figuras selecionadas: PDF 15,18–25,30–31,49,52,56; autoria não confirmada."
+    },
+    {
+      "id": "C27",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/04 - Slides e aulas CEMETC/ATLAS.pdf",
+      "extension": ".pdf",
+      "bytes": 904185,
+      "sha256": "69f3c7c9c10bc7ecf297ddd0e861ff04aff06e26cfa1324a367352ed03244564",
+      "pdf_pages": 22,
+      "reading_scope": "OCR de apoio das 22 páginas e leitura visual dirigida, sobretudo PDF 2. O OCR não garante precisão de localização de pontos."
+    },
+    {
+      "id": "C28",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/04 - Slides e aulas CEMETC/Guia Practica Anatomofisiologica de la Medicina Tradicional China.pdf",
+      "extension": ".pdf",
+      "bytes": 4374275,
+      "sha256": "73e6cc1b926a134e7e0bdfe5cc4b15857d345cdce7cf4517584e1fcae320f38f",
+      "pdf_pages": 6,
+      "reading_scope": "OCR de apoio das seis pranchas e leitura visual dirigida à classificação do material; não transcrição técnica integral."
+    },
+    {
+      "id": "C29",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/04 - Slides e aulas CEMETC/POWER POINT TOMO I LECCION 2 (versão 2).pdf",
+      "extension": ".pdf",
+      "bytes": 2281383,
+      "sha256": "a34439ca0a60a8b1955e90ca453686650497f6cbbe4ff32cae5e8ede66735e42",
+      "pdf_pages": 42,
+      "reading_scope": "Estrutura das 42 páginas e trechos localizados; versão em português."
+    },
+    {
+      "id": "C30",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/04 - Slides e aulas CEMETC/POWER POINT TOMO I LECCION 2.pdf",
+      "extension": ".pdf",
+      "bytes": 4254900,
+      "sha256": "cd5010d873b2c79b698a46db6e1ced1ba3390e912be2d98d025454128df9e9ea",
+      "pdf_pages": 48,
+      "reading_scope": "Estrutura das 48 páginas e comparação com C29; ordem de texto extraído irregular. Preservar a versão."
+    },
+    {
+      "id": "C31",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/04 - Slides e aulas CEMETC/PRINCIPIOS   DE FISIOLOGÍA     ENERGÉTICA Português.pdf",
+      "extension": ".pdf",
+      "bytes": 2074596,
+      "sha256": "eca3c58bf3667c4cbe3f3fdefa453c0b23279f3c379f686ef017cf36d202e0c3",
+      "pdf_pages": 31,
+      "reading_scope": "Texto integral examinado; princípios e relações de sistemas. Imagens/teses mantêm seu estatuto de fonte."
+    },
+    {
+      "id": "C32",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/04 - Slides e aulas CEMETC/PSICOSOMATICA VITALISTA.pdf",
+      "extension": ".pdf",
+      "bytes": 3639337,
+      "sha256": "109a68abfd682b33adc9e8c523e445280ba862adcb54d4b965d2a68f057c0e52",
+      "pdf_pages": 53,
+      "reading_scope": "Texto integral examinado; comparação visual de PDF 7–21 com a apresentação autoral e renderização alternativa de PDF 11."
+    },
+    {
+      "id": "C33",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/04 - Slides e aulas CEMETC/SINDROMES METAL.pdf",
+      "extension": ".pdf",
+      "bytes": 2684272,
+      "sha256": "aa87abfa7c393bcec07184c8cfb6e62cc561d66ad33614f4028513920d3811da",
+      "pdf_pages": 21,
+      "reading_scope": "Estrutura e trechos dirigidos, PDF 4–6 e 8."
+    },
+    {
+      "id": "C34",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/04 - Slides e aulas CEMETC/sindromes AGUA.pdf",
+      "extension": ".pdf",
+      "bytes": 2140679,
+      "sha256": "79daae4f57f887c190a85b4f49ce108e8df59f1342eb626ca6c6376989f7d9c1",
+      "pdf_pages": 21,
+      "reading_scope": "Estrutura e trechos dirigidos, PDF 5–7,9,11."
+    },
+    {
+      "id": "C35",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/04 - Slides e aulas CEMETC/sindromes FUEGO.pdf",
+      "extension": ".pdf",
+      "bytes": 2184818,
+      "sha256": "0fd732a39ec1672dca4874c67c436aeb0ac98e43fe51e599c3ed0f26b7cfd349",
+      "pdf_pages": 19,
+      "reading_scope": "Estrutura e trechos dirigidos, PDF 4–5,7."
+    },
+    {
+      "id": "C36",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/04 - Slides e aulas CEMETC/sindromes madera (1).pdf",
+      "extension": ".pdf",
+      "bytes": 2581119,
+      "sha256": "fcb44b0da3a66bfcbb05f2f63cbba2c44d7e2aa74fe9dd9a21da8c496d4cdda5",
+      "pdf_pages": 23,
+      "reading_scope": "Estrutura e trechos dirigidos, PDF 4–6,8."
+    },
+    {
+      "id": "C37",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/04 - Slides e aulas CEMETC/sindromes tierra.pdf",
+      "extension": ".pdf",
+      "bytes": 2541344,
+      "sha256": "28f88d274dea6465b75cc8a66a948379ff2e375a01a9b3c31974bec8f871f90e",
+      "pdf_pages": 21,
+      "reading_scope": "Estrutura e trechos dirigidos, PDF 4–6,8."
+    },
+    {
+      "id": "C38",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/05 - Temas clínicos/Acupuntura Bioenergética - OBESIDAD traducao.ppt",
+      "extension": ".ppt",
+      "bytes": 5361664,
+      "sha256": "56cae436da8e11518e5dbdab66593adb6899f524702fe779bacaaf0ec154e483",
+      "reading_scope": "Conversão de cópia de leitura para PDF: 40 telas. Estrutura e leitura dirigida, sobretudo telas 19–25.",
+      "reading_copy_slides": 40
+    },
+    {
+      "id": "C39",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/05 - Temas clínicos/ciclos patologicos MTC.pdf",
+      "extension": ".pdf",
+      "bytes": 6769,
+      "sha256": "7b7d07535ce5c9ddb59628a151058e62a28e94864f3ee6adca6798d8bbeac127",
+      "pdf_pages": 1,
+      "reading_scope": "Triagem de mapa técnico de ciclos patológicos, uma página."
+    },
+    {
+      "id": "C40",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/05 - Temas clínicos/diabetes MTC CEMETC.pdf",
+      "extension": ".pdf",
+      "bytes": 1735586,
+      "sha256": "3c6f1c012af6293c413c91a63bfd25817f9830c2cc359c7525f24ccce5ca91a0",
+      "pdf_pages": 52,
+      "reading_scope": "Triagem da estrutura de 52 telas; consulta clínica, sem leitura integral ou recomendação terapêutica."
+    },
+    {
+      "id": "C41",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/06 - Cadernos OneNote/Acupuntura Bioenergética - OBESIDAD-FLEUMA.one",
+      "extension": ".one",
+      "bytes": 32993544,
+      "sha256": "f980e042d47d3a97e6adf6f88381103638f84eb61d189e16a37baba0f276d848",
+      "reading_scope": "Texto e amostra de imagens recuperados parcialmente; sem restauração da ordem completa das páginas.",
+      "partial_recovered_text_sha256": "7d494ff636b2dd9ec6818f625abe64aaef69fd09955646de7e465133371f9b96",
+      "partial_recovered_text_characters": 31493
+    },
+    {
+      "id": "C42",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/06 - Cadernos OneNote/Acupuntura Bioenergética 2.one",
+      "extension": ".one",
+      "bytes": 34854736,
+      "sha256": "e3e2077ac880496f2e664a632d66a51743ea732a4ad6f3ffd97b4695596243c1",
+      "reading_scope": "Texto e amostra de imagens recuperados parcialmente; acrescenta questionários da formação. Manter no acesso pessoal.",
+      "partial_recovered_text_sha256": "62f721764c2844b5d1bb10419cda5783fc7e1151065b0f7184c8d16956f44161",
+      "partial_recovered_text_characters": 82796
+    },
+    {
+      "id": "C43",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/06 - Cadernos OneNote/Acupuntura Bioenergética 3.one",
+      "extension": ".one",
+      "bytes": 33149912,
+      "sha256": "38a5012acb2c7aa5f82dc0364782f7cab85b37b0fdd167d2049a57d651a8dea5",
+      "reading_scope": "Texto e amostra de imagens recuperados parcialmente; mesmo texto recuperado que C41, sem comprovar identidade de todas as páginas.",
+      "partial_recovered_text_sha256": "7d494ff636b2dd9ec6818f625abe64aaef69fd09955646de7e465133371f9b96",
+      "partial_recovered_text_characters": 31493
+    },
+    {
+      "id": "C44",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/06 - Cadernos OneNote/Acupuntura Bioenergética 4.one",
+      "extension": ".one",
+      "bytes": 33149912,
+      "sha256": "9f8b374e0ffbc1409700d4a3ebdb880aae7c3ea22450119289364d0c63ca69f6",
+      "reading_scope": "Texto e amostra de imagens recuperados parcialmente; mesmo texto recuperado que C41, sem comprovar identidade de todas as páginas.",
+      "partial_recovered_text_sha256": "7d494ff636b2dd9ec6818f625abe64aaef69fd09955646de7e465133371f9b96",
+      "partial_recovered_text_characters": 31493
+    },
+    {
+      "id": "C45",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/06 - Cadernos OneNote/Acupuntura Bioenergética.one",
+      "extension": ".one",
+      "bytes": 33149912,
+      "sha256": "f0b95b61172e460d41b665f049842f787b6edc205101efe8620d5c7407fdf558",
+      "reading_scope": "Texto e amostra de imagens recuperados parcialmente; mesmo texto recuperado que C41, sem comprovar identidade de todas as páginas.",
+      "partial_recovered_text_sha256": "7d494ff636b2dd9ec6818f625abe64aaef69fd09955646de7e465133371f9b96",
+      "partial_recovered_text_characters": 31493
+    },
+    {
+      "id": "C46",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/07 - Material de terceiros sobre a escola/TRATADO DE PSICOPATOLOGIA EM PSICONEUROACUPUNTURA.docx",
+      "extension": ".docx",
+      "bytes": 618557,
+      "sha256": "679cd4308247c017f29ee59e2e6f4f796c0ca53e4989699493bca0ecba824106",
+      "reading_scope": "Estrutura, introdução e trechos por parágrafo; 2326 parágrafos extraídos. Modelos: P476–550; comparações de autores: trechos P1657–1900. Não leitura clínica integral."
+    },
+    {
+      "id": "C47",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/07 - Material de terceiros sobre a escola/Teorias_Basicas Acupuntura Bioeneegética.pdf",
+      "extension": ".pdf",
+      "bytes": 1648996,
+      "sha256": "c84a268abd4aa4ca77b425f316c68857f98abf9cd38b1d5cf9ecbc372a924c65",
+      "pdf_pages": 65,
+      "reading_scope": "Introdução e índice; compilação com orientação expressa de consultar autores originais."
+    },
+    {
+      "id": "C48",
+      "relative_path": "Acervo CEMETC - Acupuntura Bioenergética/08 - Nota de correlações para o TSH/13 - Nogueira Pérez e CEMETC - Acupuntura Bioenergética - Fontes Correlações e Destinos.md",
+      "extension": ".md",
+      "bytes": 21610,
+      "sha256": "4e6661e5c8462eb0a893506347d0023c8e13307a029eb9cd0cb29e01b625cf3b",
+      "reading_scope": "Leitura integral e conferência das doze linhas de propostas; original preservado no ZIP.",
+      "repository_copy_path": "70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/MTC e Qi Gong/Anexos/TSH_CEMETC_Avaliacao_Anterior_Recebida_2026-11-14.txt",
+      "repository_copy_sha256": "4e6661e5c8462eb0a893506347d0023c8e13307a029eb9cd0cb29e01b625cf3b",
+      "repository_copy_scope": "Texto recebido preservado integralmente; histórico de consulta, não substitui a avaliação atual."
+    }
+  ],
+  "report": {
+    "repository_path": "70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/MTC e Qi Gong/Anexos/TSH_CEMETC_Avaliacao_e_Destinos_Pedagogicos_2026-11-14.pdf",
+    "pages": 19,
+    "bytes": 105665,
+    "sha256": "a90d442aba61641a8c8eb8d07dd1018e18d8fc97c6b1427ca1d9fee992d4e484",
+    "library_file_id": "libfile_fde3_f-c1466791e998819186e85634152bdd3d_ad925f8fadbc81918eab9ef0eafee9a9",
+    "scope": "Caderno de avaliação e destinação; reúne as três notas de conteúdo em versão de consulta."
+  },
+  "registration_requested_by": "Fabiano Deliberalli",
+  "registration_requested_on": "2026-11-14"
+}

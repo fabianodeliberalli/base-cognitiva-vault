@@ -368,3 +368,7 @@ Consultar fontes/versões e as revisões concretas da seção 8 antes de escolhe
 ## Possibilidade de Tonglen e HeartMath na condução — 14/11/2026
 
 [[05 - Tonglen e HeartMath - Correlações e Proposta de Prática]] desenvolve CP8 como proposta consultável: apoio e qualidade de cuidado, preparação de dar/receber e transferência para uma participação concreta. Também conserva um caminho que começa pela compaixão diante da própria dificuldade, sem exigir calma perfeita. Recuperar a procedência e versão antes de ensinar uma técnica tradicional ou HeartMath específica. A base P0/P1 continua disponível; o roteiro, as variações e a conversa posterior ficam discriminados na nota, para seleção em M5/M7 e retomada em M8.2.
+
+## 6. CEMETC — situações de aprendizagem propostas — 14/11/2026
+
+[[14 - CEMETC - Destinos Pedagógicos Práticas e Correlações]] desenvolve demanda/nutrição/recuperação, capacidades numa decisão, cuidado/mediação, nutrição/medida e observação de ritmos. São possibilidades de aprofundar P0–P8 e CP8, usando Cartografia e apoios já ensinados. M3 examina condições; M4/M5 diferenciam capacidades e relação consigo; M6 integra; M7/M8 acompanham participação e efeitos. A correlação Xin Bao–HeartMath–Tonglen conserva fontes e funções. Não se introduz nova série obrigatória nem se deriva uma mudança da órbita dos mapas de circulação.

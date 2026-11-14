@@ -2,9 +2,14 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.27"
+versao: "0.28"
 atualizado_em: 2026-11-14
 ---
+
+## Acervo CEMETC — avaliação e propostas — 14/11/2026
+
+[[13 - Nogueira Pérez e CEMETC - Acupuntura Bioenergética - Fontes Correlações e Destinos]] avalia os 48 arquivos fornecidos por Fabiano, distingue edições, fontes e alcance da leitura e amplia reserva, Thin–Qi–Shen, cinco capacidades, Xin Bao e vasos. [[14 - CEMETC - Destinos Pedagógicos Práticas e Correlações]] localiza por aula e desenvolve cinco situações; [[15 - CEMETC - Imagens Correspondências e Materiais para as Aulas]] confere relações com Além das Fronteiras. Prioridade M3.3/M3.5/M3.6; retornos em M4/M5/M6/M7/M8 e diálogo com CP8/HeartMath/Tonglen. O ZIP pessoal preserva originais; OneNote teve recuperação parcial, sem restauração completa. Registro solicitado por Fabiano em 14/11/2026: referências e propostas para consulta na produção. A nota 13 também localiza o caderno PDF de 19 páginas e os dois textos recebidos preservados integralmente. Os artefatos finais das aulas mantêm seu estado de produção; livros/imagens originais continuam no pacote pessoal.
+
 
 ## Novas fontes e correlação Tonglen HeartMath — 14/11/2026
 
