@@ -3,12 +3,16 @@ tipo: matriz-incorporacao-conteudo
 projeto: Traduzindo o Ser Humano
 status: acervo-historico-consultivo
 uso_atual: acervo-consultivo
-versao: "1.9"
+versao: "2.0"
 criado_em: 2026-08-22
 atualizado_em: 2026-11-14
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
+
+## Compaixão e empatia — destinos nas aulas — 14/11/2026
+
+Consultar [[02 - Compaixão e Empatia - Destinos nas Aulas e Materiais]] para fontes, ganho teórico, aplicação prática e material a desenvolver em cada aula pertinente. M5.2 concentra empatia/compaixão/autocompaixão e Amor–Poder–Sabedoria; M4.4–M4.6 relacionam o cuidado aos padrões; M7.3–M7.8 desenvolvem escuta, limites, contribuição, responsabilidade e reparação. As preparações de M0–M3, correlações de M5/M6 e continuidade em M8.2 também estão discriminadas. [[01 - Fontes de Compaixão e Empatia - Textos Livros e Pesquisas]] oferece o inventário e R01–R13; [[03 - Compaixão e Empatia - Práticas e Condução]] oferece CP1–CP7 como propostas. Sem mudança de módulos ou das 54 aulas.
 
 ## Ely Britto — resgate de propostas por aula — 14/11/2026
 

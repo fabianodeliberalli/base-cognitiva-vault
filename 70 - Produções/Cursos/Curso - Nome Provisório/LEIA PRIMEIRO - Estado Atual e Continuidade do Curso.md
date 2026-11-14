@@ -3,14 +3,14 @@ tipo: porta-de-entrada-de-contexto
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: referencia-atual-revisavel
-versao: "4.6"
+versao: "4.7"
 criado_em: 2026-07-21
 atualizado_em: 2026-11-14
 autor: Fabiano Deliberalli
 autoridade_de_decisao: Fabiano Deliberalli
 ---
 
-[[12 - Ely Britto - Propostas de Desenvolvimento Cultivo Afetividade e Relação|Ely Britto: propostas]]: fontes e aulas.
+[[Ely Brito - Possibilidades de ampliação do TSH|Ely]]; [[TSH - Empatia e compaixão]]: fontes e aulas.
 
 ## Cultivo e recuperação — 13/11/2026
 

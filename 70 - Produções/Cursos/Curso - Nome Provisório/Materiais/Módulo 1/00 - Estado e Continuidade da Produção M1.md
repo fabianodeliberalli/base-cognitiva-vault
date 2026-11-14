@@ -3,14 +3,14 @@ tipo: estado-e-continuidade-de-producao
 projeto: Traduzindo o Ser Humano
 recorte_entrega: "M1.1-M1.7"
 status: referencia-atual-revisavel
-versao: "1.8"
+versao: "1.9"
 criado_em: 2026-08-23
 atualizado_em: 2026-11-14
 preparacao_de_gravacoes: autorizada
 status_audiovisual: arquivos-finais-e-ensaio-pendentes
 ---
 
-[[12 - Ely Britto - Propostas de Desenvolvimento Cultivo Afetividade e Relação|Ely Britto: propostas]]: M1.2–M1.4.
+[[Ely Brito - Possibilidades de ampliação do TSH|Ely]]; [[TSH - Empatia e compaixão]]: M1.2/M1.5/M1.7.
 
 ## Incorporações disponíveis para a produção — 13/11/2026
 
