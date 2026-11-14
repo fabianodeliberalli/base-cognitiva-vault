@@ -3,7 +3,7 @@ tipo: caderno-de-incorporacao-a-producao
 projeto: Traduzindo o Ser Humano
 status: versao-de-trabalho
 criado_em: 2026-11-13
-atualizado_em: 2026-11-13
+atualizado_em: 2026-11-14
 ---
 
 # Cultivo no TSH: incorporação às aulas e gravações
@@ -331,3 +331,20 @@ Recuperar [[11 - Leituras Recuperadas - Taoismo Shen e Transformação]] e [[00 
 | M8.1/M8.2/M8.3 | 11 §§4–9; índice anterior de sete fontes. | Revisão do aprendido, plano realizável e possibilidades de aprofundamento. |
 
 **Estado:** fontes preservadas, análises/correlações e aplicações textuais registradas; catálogo e manifestos recuperáveis. Os novos originais e pixels estão no pacote restrito. Esta revisão não reexporta PPTX/DOCX/PDF das aulas e não declara esses artefatos finais sincronizados. Na montagem, usar o desenvolvimento da aula e os trechos pertinentes, sem carregar todos os livros.
+
+## 8. Ely Britto — propostas recuperáveis na montagem — 14/11/2026
+
+[[12 - Ely Britto - Propostas de Desenvolvimento Cultivo Afetividade e Relação#5. Destinos nas aulas|Destinos detalhados por aula]] conserva todas as possibilidades da avaliação e seus localizadores. Fontes originais e manifesto na seção 2; fundamentos na seção 4; aplicações na seção 6; imagens na seção 7; revisões específicas na seção 8. As propostas foram registradas para consulta por solicitação de Fabiano. Sua seleção e desenvolvimento pertencem à produção da aula; não atestam atualização de roteiro, slide, notas, demonstração ou apoio.
+
+| Recorte | Possibilidade de montagem |
+| --- | --- |
+| M0.2/M0.3/M1.2/M1.3 | Preparação e continuidade na fala/plano já existente. |
+| M1.4/M2.1/M2.5/M2.6/M3.2 | Comparação entre observação aberta, imagem e interpretação; Cartografia e notas. |
+| M3.5/M3.6/M3.7 | Vitalidade, três campos, Sorriso/Seis Sons; versão selecionada e demonstração. |
+| M4.1–M4.6 | Emoção, proteção, contexto e qualidade a cultivar; exemplo/prática/registro. |
+| M5.2/M5.4/M5.5/M5.6/M5.7/M5.8 | Compaixão e potencialidades; receptividade; imagens; espiritualidade e conceitos distintos. |
+| M6.1–M6.6 | Composição de capacidades, diferenças, circulação e expressão em condições reais. |
+| M7.1/M7.3/M7.4/M7.5/M7.6 | Vitalidade, intimidade, escuta, consentimento, limites e contribuição. |
+| M8.2 | Continuidade por função, condições e efeitos; aprofundamentos possíveis. |
+
+A produção pode recuperar esses conteúdos como fala, exemplo, prática, texto do aluno, imagem ou preparação docente. Healing Love/Fusão/canais permanecem como possibilidades de desenvolvimento específico, sem nova oferta ou carga obrigatória por este registro.

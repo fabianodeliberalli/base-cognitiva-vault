@@ -3,16 +3,18 @@ tipo: porta-de-entrada-de-contexto
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: referencia-atual-revisavel
-versao: "4.5"
+versao: "4.6"
 criado_em: 2026-07-21
-atualizado_em: 2026-11-13
+atualizado_em: 2026-11-14
 autor: Fabiano Deliberalli
 autoridade_de_decisao: Fabiano Deliberalli
 ---
 
+[[12 - Ely Britto - Propostas de Desenvolvimento Cultivo Afetividade e Relação|Ely Britto: propostas]]: fontes e aulas.
+
 ## Cultivo e recuperação — 13/11/2026
 
-Base desde M0.2 em [[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]]; fundamentos 04, condução 05, aulas 06. [[11 - Leituras Recuperadas - Taoismo Shen e Transformação]] consolida 27 originais, leituras e destinos. [[00 - Catálogo de Taoismo Shen e Pontos - Fontes e Destinos]] localiza os visuais restritos. Estado/PR #59 e próxima ação em [[09 - Preservação dos Anexos e Retomada do Chat - 13-11-2026]]. Binários das aulas a sincronizar.
+[[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]]: base desde M0.2; 04/05/06: fundamentos, condução e aulas. [[11 - Leituras Recuperadas - Taoismo Shen e Transformação]]: 27 originais, leituras e destinos. Visuais restritos na nota 11. [[09 - Preservação dos Anexos e Retomada do Chat - 13-11-2026]]: estado, PR #59 e próxima ação. Binários a sincronizar.
 
 ## Máscara, armadura e potencialidades — 12/11/2026
 

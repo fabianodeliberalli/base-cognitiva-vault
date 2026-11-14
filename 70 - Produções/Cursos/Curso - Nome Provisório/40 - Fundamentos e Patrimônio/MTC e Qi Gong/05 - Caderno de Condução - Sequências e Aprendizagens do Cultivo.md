@@ -3,7 +3,7 @@ tipo: caderno-de-conducao-do-professor
 projeto: Traduzindo o Ser Humano
 status: versao-de-trabalho
 criado_em: 2026-11-13
-atualizado_em: 2026-11-13
+atualizado_em: 2026-11-14
 ---
 
 # Sequências e aprendizagens do cultivo
@@ -349,3 +349,18 @@ Escreva uma ação pequena e o apoio de que precisa. Considere também uma vers�
 Na revisão, procure descrever o que aconteceu, o que conseguiu acessar e o que as condições permitiram. O plano pode mudar com esse aprendizado.”
 
 **Acompanhar:** aprendizagem efetiva, contexto e revisão; sem prazo universal nem intensidade obrigatória de experiência. Não acumular os cinco blocos na mesma aula. Os tempos acima são estimativas de produção a conferir com Fabiano.
+
+## 5. Ely Britto — aplicações propostas para desenvolvimento — 14/11/2026
+
+[[12 - Ely Britto - Propostas de Desenvolvimento Cultivo Afetividade e Relação]] reúne fontes e destinos. As aplicações abaixo são possibilidades a selecionar e ensaiar por Fabiano, preservadas por seu pedido de registro. A seção 6 da nota desenvolve cada uma; não são novas técnicas já ensinadas nem transcrições dos protocolos da fonte.
+
+| Possibilidade | Relação com o que já existe | Destinos principais |
+| --- | --- | --- |
+| Comparar percepção aberta e orientada por imagem | P1B/P2/P6 e Cartografia: perceber, associar e rever. | M1.4/M2.1/M2.5/M2.6/M3.2. |
+| Cultivar uma qualidade pouco disponível e ensaiar gesto concreto | P4/P6; Amor–Poder–Sabedoria; emoção, necessidade e contexto. | M4.6/M5.2/M6.1/M7.4/M7.6/M8.2. |
+| Receber o impacto do encontro mantendo referência | P8 e aplicação de reciprocidade já registrada; escuta e interpretação corrigível. | M7.3–M7.6. |
+| Investigar prazer, ritmo e espaço de expressão | Expressão singular e ambiente; investigação proporcional ao grupo. | M4.4/M6.6/M7.1/M7.3–M7.6. |
+| Usar imagem para reunir e elaborar significado | P6 e imagem como investigação; sem sentido obrigatório. | M5.5/M5.7/M6.1. |
+| Rever rotina, repouso, conclusão e transferência | P0/P1/P7/P8; plano pessoal existente. | M0/M1/M3.7/M6.5/M8.2. |
+
+Consultar fontes/versões e as revisões concretas da seção 8 antes de escolher instruções. Retomar a preparação existente na extensão pertinente. Procedimentos especializados de Healing Love, Fusão e canais permanecem no acervo para possível desenvolvimento próprio; este registro não os adiciona automaticamente às sequências atuais.
