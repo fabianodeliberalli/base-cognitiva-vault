@@ -5,6 +5,42 @@ status: referencia-de-trabalho-revisavel
 data: 2026-11-13
 ---
 
+## Conferência de disponibilidade para construir as aulas — 13/11/2026
+
+**Diagnóstico:** o conjunto incorporado pelos PRs #58/#59 está recuperável e oferece fundamentação substantiva para construir as aulas. A conferência partiu da main `5d1a34a2d48fc54d7712e60e5818d09da1f968f1`, não apenas das mensagens de conclusão dos chats. Foram examinadas 28 notas centrais, sua relação com o Raio X e as rotas dos 27 originais. O pacote restrito foi localizado em sua versão 1, com 235.135.752 bytes e identidade correspondente ao registro do repositório.
+
+| Critério | Resultado conferido na main | Consequência para a construção |
+| --- | --- | --- |
+| Recuperação interna | 755 vínculos Obsidian e cinco links relativos nas 28 notas, sem destino ausente; as âncoras referidas resolveram. | As fontes e os desenvolvimentos podem ser reencontrados. A conferência considera o comportamento de links sem extensão para notas Markdown. |
+| Distribuição curricular | 54 códigos únicos no caderno 06, coincidindo com os 54 do Raio X, sem aula ausente ou excedente. | Há função e destino para o cultivo em todo o percurso; a linha não equivale a uma aula final produzida. |
+| Originais recuperados | 27 registros com nome, tamanho, hash e caminho no pacote; oito originais já na main e EIXO Integrador conciliado. | Fonte original e análise possuem rotas distintas e explícitas. O anexo F13 contém HTML, não o PPTM editável; a fonte visual de 39 lâminas continua disponível. |
+| Fundamentação e correlações | 02/04/07/08/11 registram o que cada fonte acrescenta, passagens, aproximações e diferenças. | As contribuições podem orientar fala, exemplo, prática, imagem, apoio do aluno ou estudo docente. Leituras dirigidas não são apresentadas como leitura integral de todos os livros. |
+| Condução e ampliação | Vinte fichas B1–B8/Y1–Y12, P0/P1–P8 e aplicações de 05; blocos orais e distribuição em 06. | Há desenvolvimento além de listas bibliográficas: preparação, experiência, elaboração e retomada. A formação de Fabiano orienta a versão demonstrada. |
+| Visuais | 89 imagens Qi Gong/Rohden e dez arquivos dos cinco mapas autorais na main; 103 mídias, 122 páginas e 26 pré-visualizações no pacote restrito. | Os catálogos permitem selecionar arquivos e contexto. A legibilidade da composição final com Zoom continua na produção da aula. |
+
+### Clareza do uso: percursos conferidos
+
+| Aula/questão | Rota para fundamento e ampliação | Uso pedagógico que já está descrito |
+| --- | --- | --- |
+| M0.2 — aprender a base | 02; 04 §20; 05 P0/P1; 08; catálogo Qi Gong/Rohden. | Postura/adaptação, apoio, respiração, centro e conclusão; demonstração própria. |
+| M1.3 — assimilação e repetição | 07 §§3–5; 08 §6/P1B; 06, bloco A. | Repetir uma prática, comparar um ajuste, elaborar uma diferença e uma pergunta. |
+| M1.4 — experiência e mapas | 08 §§3–4; 04 §20; 11 §1; lâminas 8/22–23/27 da apresentação de 39 páginas. | Leitura inicial do conjunto e poucos rótulos, com aprofundamento posterior em M3. |
+| M4.6 — padrões e participação | 11 §§5/6/9; 05 §4; repertório conhecido em 03. | Investigar capacidade e proteção, refinar o esforço e experimentar uma resposta possível. |
+| M5.5 — imagem e símbolo | 11 §§2/3/6; 05 §4; catálogos e família de mapas autorais. | Descrever, reconhecer o que a imagem desperta, formular leitura provisória e retomá-la. |
+| M6.5 — espiral e circulação | 04 §§7/13; 05 P7; 06; 08 §5; comparação Chong Mai. | Articular preparação, versão identificada, demonstração, prática por partes e conclusão. |
+| M7/M8 — relação e continuidade | 07 §§4–5; 11 §§4/9; 05 P8/§4; 06. | Escuta com referência em si, expressão, limites, efeitos e plano possível de continuidade. |
+
+### O que esta conferência tornou mais claro
+
+A disponibilidade das fontes estava melhor consolidada do que a sinalização em algumas entradas de produção. Os ajustes desta conferência aproximam o estado de M1 e a preparação de roteiros das leituras posteriores de 11; explicitam os complementos em R06/R23 do inventário; e ligam diretamente os dois catálogos e a família de cinco mapas. A revisão anterior de Ernesto (F08) foi relida integralmente e conciliada por temas em 02 §1, incluindo Te/Ziran/Pu e a qualidade da atenção, que estavam apenas nomeados.
+
+Esses ajustes de recuperação são preparados em ramificação a partir da main conferida. Não alteram a arquitetura, não adicionam autores obrigatórios e não certificam produção audiovisual concluída. O relatório abaixo preserva o diagnóstico anterior à recuperação do PR #59 e deve ser lido como histórico.
+
+### Condições para utilizar a base
+
+As notas do GitHub são suficientes para retomar as elaborações registradas. O trabalho com os novos originais e pixels também requer acesso ao pacote restrito; apenas ler seu localizador não disponibiliza os bytes em qualquer ferramenta. O arquivo editável real de Além das Fronteiras segue ausente, mas a exportação e as imagens recuperadas oferecem fonte visual utilizável. A escolha e a demonstração da versão técnica, os ajustes de carga e a sincronização de roteiro, slides, notas e apoio pertencem à produção da aula. Essas etapas não tornam necessário reiniciar a auditoria geral nem ler integralmente todo o acervo antes de criar.
+
+
 ## Atualização posterior a esta fotografia
 
 O diagnóstico abaixo conserva a auditoria anterior. A recuperação posterior está em [[11 - Leituras Recuperadas - Taoismo Shen e Transformação]] e no estado atual de [[09 - Preservação dos Anexos e Retomada do Chat - 13-11-2026]]. Os 27 originais recuperados e os novos visuais agora estão preservados em pacote restrito; leituras, correlações e destinos foram consolidados. O caso do PowerPoint foi autorizado por Fabiano. A publicação dos novos integrais no repositório público foi bloqueada pela revisão automática. Os arquivos finais das aulas e a integração deste PR à main continuam etapas distintas. Ler essa atualização antes de converter cada ausência histórica abaixo em nova tarefa.

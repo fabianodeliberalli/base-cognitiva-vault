@@ -4,6 +4,15 @@ atualizado_em: 2026-11-13
 status: referencia-atual-revisavel
 ---
 
+## Leituras e imagens na montagem da aula — 13/11/2026
+
+As incorporações dos PRs #58/#59 estão na main. Recuperar a linha da aula em [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH]], §§2/7, e os trechos de [[11 - Leituras Recuperadas - Taoismo Shen e Transformação]]. 04 fornece fundamentos; 05 fornece a condução; 07 desenvolve Rohden; 08 desenvolve os mapas Rim–Nao e P1B. A conciliação da revisão anterior de Ernesto está em 02 §1. Essa rota acrescenta conteúdo ao resgate do acervo já indicado abaixo; não exige usar todos os autores na mesma aula.
+
+[[00 - Catálogo de Imagens e Destinos]] localiza as 89 imagens Qi Gong/Rohden na main. [[00 - Catálogo de Taoismo Shen e Pontos - Fontes e Destinos]] localiza as novas mídias no pacote restrito. Os cinco mapas Amor–Poder–Sabedoria têm sua própria entrada em [[05 - Família de Mapas - Amor Poder Sabedoria Castelos e Integração]], para M5.2/M5.5/M6.1. Nas notas, identificar se a contribuição selecionada entra na fala, exemplo, prática, imagem, material do aluno ou aprofundamento do professor.
+
+A preparação comum começa em M0.2 e retorna em M1; M3 aprofunda a organização já praticada. Ao produzir M6.5, conservar o tema da espiral e o lugar da prática dentro desse percurso, com a versão e a demonstração identificadas. A conclusão documental de uma fonte não atesta sincronização dos arquivos finais da aula.
+
+
 ## Aprofundamento e aplicação às aulas — 13/11/2026
 
 Desenvolvimento solicitado por Fabiano: [[04 - Caderno de Fundamentação - Cultivo Meditação Prana e Circulação]]; [[05 - Caderno de Condução - Sequências e Aprendizagens do Cultivo]]; [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH]]. A nota das vinte formas recebeu aprofundamento técnico/didático. Estão redigidos exercícios, falas, destinos nas 54 aulas e organização da hora de prática dos oito encontros. Recuperar esses conteúdos na produção, além do mapeamento inicial. Materiais transversais em `Materiais/Práticas Transversais`: apresentação de oito telas, roteiro sincronizado e apoio do aluno. O exemplar de prática integral tem páginas de amostra; as passagens efetivamente examinadas e as diferenças de versão estão documentadas.

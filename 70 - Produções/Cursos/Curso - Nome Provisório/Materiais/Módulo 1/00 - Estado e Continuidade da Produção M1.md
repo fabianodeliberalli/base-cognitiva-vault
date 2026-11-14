@@ -3,7 +3,7 @@ tipo: estado-e-continuidade-de-producao
 projeto: Traduzindo o Ser Humano
 recorte_entrega: "M1.1-M1.7"
 status: referencia-atual-revisavel
-versao: "1.6"
+versao: "1.7"
 criado_em: 2026-08-23
 atualizado_em: 2026-11-13
 preparacao_de_gravacoes: autorizada
@@ -11,9 +11,9 @@ status_audiovisual: arquivos-finais-e-ensaio-pendentes
 ---
 
 
-## Preservação na troca de chat — 13/11/2026
+## Incorporações disponíveis para a produção — 13/11/2026
 
-[[09 - Preservação dos Anexos e Retomada do Chat - 13-11-2026]] preserva mapas, interocepção e P1B do PR #57, incluindo comparação M1/M2. Imagens: [[00 - Catálogo de Imagens e Destinos]]. Ramo #58; materiais diagramados a atualizar.
+PRs #58/#59 na main. [[11 - Leituras Recuperadas - Taoismo Shen e Transformação]] consolida as leituras e correlações; 06 §§2/7 distribui os destinos. Novos visuais: [[00 - Catálogo de Taoismo Shen e Pontos - Fontes e Destinos]], no pacote restrito.
 
 ## Desenvolvimento aplicado — 13/11/2026
 

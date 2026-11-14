@@ -23,9 +23,13 @@ Abrir o [pacote de originais e imagens](https://chatgpt.com/library?file_id=libf
 | Texto, notas e posição das figuras | `manifesto.json` na raiz do pacote | Texto por slide, notas extraídas, hashes das figuras, posições e cortes. Não contém transcrição literal de chats. |
 | Índices de consulta | `indice-01.jpg` e seguintes dentro de cada conjunto | Contatos visuais para localizar a lâmina antes de abrir a PNG. |
 
-As 122 PNG de páginas e os 103 arquivos de mídia são categorias diferentes; não descrevê-los como 225 figuras didáticas novas. Há capas, ornamentos, fotografias, composições e mapas. As lâminas completas preservam a relação entre imagem e texto; as mídias permitem a seleção de componentes. O acervo anterior de 89 imagens Qi Gong/Rohden permanece disponível no catálogo próprio.
+As 122 PNG de páginas e os 103 arquivos de mídia são categorias diferentes; não descrevê-los como 225 figuras didáticas novas. Há capas, ornamentos, fotografias, composições e mapas. As lâminas completas preservam a relação entre imagem e texto; as mídias permitem a seleção de componentes. O acervo anterior de 89 imagens Qi Gong/Rohden está disponível na main em [[00 - Catálogo de Imagens e Destinos]]. Os dez arquivos PNG/SVG dos cinco mapas autorais estão em [[05 - Família de Mapas - Amor Poder Sabedoria Castelos e Integração]].
 
 O PowerPoint tem 61 slides e nenhum oculto. Não foi encontrado um conjunto independente de 59 lâminas. A recuperação registra o que existe, sem remover slides para reproduzir uma contagem anunciada anteriormente.
+
+### O que está disponível em cada ambiente
+
+As notas, correlações e metadados deste catálogo podem ser consultados pelo GitHub. Os novos arquivos visuais precisam ser abertos no pacote restrito da conta de Fabiano. Um ambiente que acessa apenas o repositório consegue preparar o conteúdo textual a partir das análises; para selecionar ou inserir esses novos pixels na aula, precisa também de acesso ao pacote. O manifesto e os caminhos internos acima permitem reencontrá-los sem depender dos chats anteriores.
 
 ## Visão Taoísta: organização de todo o conjunto
 
