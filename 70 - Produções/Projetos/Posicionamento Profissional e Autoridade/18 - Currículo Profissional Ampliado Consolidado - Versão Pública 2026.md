@@ -5,6 +5,7 @@ tipo: currículo-ampliado-publico
 status: versao-publica-revisavel
 projeto: Posicionamento Profissional e Autoridade Autoral
 data: 2026-08-21
+atualizado_em: 2026-09-14
 autor: Fabiano Deliberalli
 tags:
   - currículo
@@ -75,7 +76,7 @@ Antes da graduação em Psicologia, Fabiano construiu uma experiência extensa c
 - **Máster en Acupuntura Bioenergética y Moxibustión:** participação no programa internacional promovido pela Fundación Europea de Medicina Tradicional China, no ano acadêmico de 2014–2015.
 - **Venia Docente do CEMETC:** credencial institucional recebida em Valladolid, em 8 de novembro de 2014, para ministrar os programas de formação em Acupuntura Bioenergética estabelecidos pela instituição.
 - **Qi Gong, respiração e movimento:** formações em práticas de regulação, presença corporal, atenção e circulação do movimento, incluindo módulos de instrutor e práticas específicas.
-- **Seitai, quiropraxia e práticas corporais orientais:** estudos e atuação cotidiana ao longo da trajetória no Shiozawa, durante aproximadamente dez anos.
+- **Shiozawa Prevenção em Saúde — Shiatsu, estágio, Seitai e Quiropraxia:** Curso Intensivo de Shiatsu de 100 horas, realizado de junho a dezembro de 1994, e estágio de 2.000 horas, realizado de janeiro de 1995 a julho de 1996. Curso e estágio são registros separados. A atuação e os estudos posteriores com práticas corporais orientais, Seitai e Quiropraxia integram um período total referido de aproximadamente dez anos no Shiozawa.
 - **Reiki e práticas energéticas:** cursos, práticas e formação de alunos em período anterior à docência em Psicologia.
 
 Esse percurso sustenta sua capacidade de compreender a experiência de modo incorporado e de conduzir práticas educativas e corporais informadas por tradições específicas, especialmente quando o tema exige diálogo entre corpo, atenção, respiração, movimento e significado.
