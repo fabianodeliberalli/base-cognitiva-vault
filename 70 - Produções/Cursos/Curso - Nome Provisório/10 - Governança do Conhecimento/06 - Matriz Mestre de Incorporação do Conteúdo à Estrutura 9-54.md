@@ -3,7 +3,7 @@ tipo: matriz-incorporacao-conteudo
 projeto: Traduzindo o Ser Humano
 status: acervo-historico-consultivo
 uso_atual: acervo-consultivo
-versao: "2.0"
+versao: "2.1"
 criado_em: 2026-08-22
 atualizado_em: 2026-11-14
 autor: Fabiano Deliberalli
@@ -12,7 +12,7 @@ autoridade_de_aprovacao: Fabiano Deliberalli
 
 ## Compaixão e empatia — destinos nas aulas — 14/11/2026
 
-Consultar [[02 - Compaixão e Empatia - Destinos nas Aulas e Materiais]] para fontes, ganho teórico, aplicação prática e material a desenvolver em cada aula pertinente. M5.2 concentra empatia/compaixão/autocompaixão e Amor–Poder–Sabedoria; M4.4–M4.6 relacionam o cuidado aos padrões; M7.3–M7.8 desenvolvem escuta, limites, contribuição, responsabilidade e reparação. As preparações de M0–M3, correlações de M5/M6 e continuidade em M8.2 também estão discriminadas. [[01 - Fontes de Compaixão e Empatia - Textos Livros e Pesquisas]] oferece o inventário e R01–R13; [[03 - Compaixão e Empatia - Práticas e Condução]] oferece CP1–CP7 como propostas. Sem mudança de módulos ou das 54 aulas.
+Consultar [[02 - Compaixão e Empatia - Destinos nas Aulas e Materiais]] para fontes, ganho teórico, aplicação prática e material a desenvolver em cada aula pertinente. M5.2 concentra empatia/compaixão/autocompaixão e Amor–Poder–Sabedoria; M4.4–M4.6 relacionam o cuidado aos padrões; M7.3–M7.8 desenvolvem escuta, limites, contribuição, responsabilidade e reparação. As preparações de M0–M3, correlações de M5/M6 e continuidade em M8.2 também estão discriminadas. [[01 - Fontes de Compaixão e Empatia - Textos Livros e Pesquisas]] oferece o inventário e R01–R22; [[03 - Compaixão e Empatia - Práticas e Condução]] oferece CP1–CP8 como propostas. Sem mudança de módulos ou das 54 aulas.
 
 ## Ely Britto — resgate de propostas por aula — 14/11/2026
 
@@ -379,3 +379,7 @@ Documento operacional: [[00 - Estado e Continuidade da Produção M1]]. O Orques
 Consultar [[TSH - Fotografia da Escada - Repetição, Profundidade e Percurso]] como material de base na produção das aulas. O TSH busca ativamente relações entre Freud, psicologia, conhecimentos biológicos e Grandes Tradições, com complementaridade investigada e preservação das linguagens. A nota inclui vṛttis (movimentos da mente), saṃskāras (impressões), vāsanās (tendências), karma (ação e efeitos), fontes, distinções e usos transpessoais. M4: repetição e elaboração; M5: aprofundamento tradicional e espiritual; M6.5: intenção, prática, condições e efeitos; M7/M8: limites, colaboração, expressão e cultivo. As dezesseis leituras da escada permanecem disponíveis, inclusive grades como prisão.
 
 Acervo: [[TSH-escada-adaptacao-IA-scripz.png]], com fotografia original de [@scripz](https://www.instagram.com/scripz/) e adaptação por IA identificada; capturas originais preservadas. A Masterclass utiliza a imagem no slide 8, explicita o diálogo ativo no 58 e inclui notas nos slides 19, 20, 40 e 47. O Guia e o caderno docente foram atualizados. Não houve alteração de módulos, aulas, datas ou duração da Masterclass.
+
+## Ampliações contemplativas e de motivação moral — 14/11/2026
+
+[[04 - Ricard Wallace PUCRS e HeartMath - Fontes e Ampliações]] e [[02 - Compaixão e Empatia - Destinos nas Aulas e Materiais]] ampliam atenção/familiarização em M1/M3, perspectiva em M2, relação com padrões em M4, compaixão/valores em M5, ambivalências em M6 e participação relacional em M7/M8. [[06 - Ricard no Laboratório de Singer - Exemplo para as Aulas]] localiza a história de Ricard para M5.2/M7.3/M7.6; [[05 - Tonglen e HeartMath - Correlações e Proposta de Prática]] desenvolve CP8 e as possibilidades de prática e fundamentação Tonglen/HeartMath. Conteúdo para seleção na montagem, sem alteração de nove módulos/54 aulas.

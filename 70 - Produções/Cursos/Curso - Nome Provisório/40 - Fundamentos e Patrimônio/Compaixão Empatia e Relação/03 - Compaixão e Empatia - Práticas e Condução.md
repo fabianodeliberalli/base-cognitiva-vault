@@ -160,6 +160,16 @@ O professor acompanha três aspectos: o que foi percebido, que diferença se tor
 
 **Variação:** escrever a fala sem enviá-la ou ensaiá-la numa cena fictícia. O exercício não exige retomar contato com alguém nem garante reconciliação. **Registro:** ação, efeito a verificar, reparação possível e apoio para continuidade.
 
+## CP8 Tonglen em diálogo com HeartMath
+
+**Destinos:** M5.6/encontro M5; retomadas em M6.3/M7.3/M7.6/M8.2. Preparações em M3.7/M4.5 e entrada breve em M5.2, conforme a escolha. **Fontes:** NF01/NF02/NF06, R07/R16/R18/R21/R22 e orientação tradicional identificada.
+
+**Objetivo:** reconhecer uma dificuldade e experimentar uma disposição de cuidado com diferenciação, apoio e resposta possível. [[05 - Tonglen e HeartMath - Correlações e Proposta de Prática]] oferece comparação, duas possibilidades de sequência, instruções completas, variante com imagem tradicional, conversa posterior e destinos de montagem.
+
+A condução introdutória retoma apoio conhecido, orienta cuidado, reconhece uma dificuldade cotidiana leve, experimenta dar/receber com respiração confortável e escolhe um gesto possível. Ela está identificada como adaptação proposta; não é uma versão tradicional completa nem um protocolo de pesquisa da combinação. Reutilizar a Cartografia e observar participação/efeitos, sem medida fisiológica ou exposição íntima obrigatórias.
+
+[[06 - Ricard no Laboratório de Singer - Exemplo para as Aulas]] oferece o exemplo narrativo que pode preparar essa experiência.
+
 ## Observação dos efeitos e transferência
 
 Reconhecer uma distinção, ajustar uma prática, receber uma correção, pedir apoio ou formular um limite já pode ser uma aprendizagem pertinente. A observação acompanha a situação e os efeitos; não mede valor pessoal por intensidade afetiva ou tranquilidade aparente.

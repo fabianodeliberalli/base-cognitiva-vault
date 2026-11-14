@@ -364,3 +364,7 @@ Na revisão, procure descrever o que aconteceu, o que conseguiu acessar e o que 
 | Rever rotina, repouso, conclusão e transferência | P0/P1/P7/P8; plano pessoal existente. | M0/M1/M3.7/M6.5/M8.2. |
 
 Consultar fontes/versões e as revisões concretas da seção 8 antes de escolher instruções. Retomar a preparação existente na extensão pertinente. Procedimentos especializados de Healing Love, Fusão e canais permanecem no acervo para possível desenvolvimento próprio; este registro não os adiciona automaticamente às sequências atuais.
+
+## Possibilidade de Tonglen e HeartMath na condução — 14/11/2026
+
+[[05 - Tonglen e HeartMath - Correlações e Proposta de Prática]] desenvolve CP8 como proposta consultável: apoio e qualidade de cuidado, preparação de dar/receber e transferência para uma participação concreta. Também conserva um caminho que começa pela compaixão diante da própria dificuldade, sem exigir calma perfeita. Recuperar a procedência e versão antes de ensinar uma técnica tradicional ou HeartMath específica. A base P0/P1 continua disponível; o roteiro, as variações e a conversa posterior ficam discriminados na nota, para seleção em M5/M7 e retomada em M8.2.

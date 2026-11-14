@@ -3,7 +3,7 @@ tipo: inventario-mestre-conteudos
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: referencia-de-busca-revisavel
-versao: "1.5"
+versao: "1.6"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-21
 atualizado_em: 2026-11-14
@@ -12,7 +12,7 @@ relacionado_a: 01 - Reconciliação da Governança do Conhecimento e Disponibili
 
 ## Compaixão empatia e autocompaixão — referências organizadas — 14/11/2026
 
-[[00 - Compaixão Empatia e Autocompaixão - Fundamentação e Consulta]] reúne os fundamentos; [[01 - Fontes de Compaixão e Empatia - Textos Livros e Pesquisas]] localiza textos, livros, páginas e pesquisas com DOI; [[02 - Compaixão e Empatia - Destinos nas Aulas e Materiais]] distribui teoria, prática e materiais por aula; [[03 - Compaixão e Empatia - Práticas e Condução]] desenvolve sete propostas de condução. Inclui [[Paradigma - Compaixão sem Autoabandono]] e [[Mapa Conceitual - Compaixão, Limite e Responsabilidade Situada]], antes apontados no banco de aplicações. Recuperar por pertinência ao montar a aula; propostas de desenvolvimento e referências preservam seu estatuto.
+[[00 - Compaixão Empatia e Autocompaixão - Fundamentação e Consulta]] reúne os fundamentos; [[01 - Fontes de Compaixão e Empatia - Textos Livros e Pesquisas]] localiza textos, livros, páginas e pesquisas com DOI; [[02 - Compaixão e Empatia - Destinos nas Aulas e Materiais]] distribui teoria, prática e materiais por aula; [[03 - Compaixão e Empatia - Práticas e Condução]] desenvolve oito propostas de condução. Inclui [[Paradigma - Compaixão sem Autoabandono]] e [[Mapa Conceitual - Compaixão, Limite e Responsabilidade Situada]], antes apontados no banco de aplicações. Recuperar por pertinência ao montar a aula; propostas de desenvolvimento e referências preservam seu estatuto.
 
 ## Ely Britto — propostas de desenvolvimento disponíveis — 14/11/2026
 
@@ -577,3 +577,7 @@ Autores não são classificados como blocos científicos ou não científicos. C
 - completar a matriz Três Eus × quatro movimentos × seis fases × práticas × indicadores;
 - vincular cada Dívida de Organização ao ativo resultante;
 - atualizar este inventário após cada auditoria, piloto ou nova incorporação.
+
+## Ricard Wallace PUCRS HeartMath e Tonglen — 14/11/2026
+
+[[04 - Ricard Wallace PUCRS e HeartMath - Fontes e Ampliações]] oferece a identificação de NF01–NF07 e a procedência informada por Fabiano. [[06 - Ricard no Laboratório de Singer - Exemplo para as Aulas]] desenvolve o relato do laboratório de Singer; [[05 - Tonglen e HeartMath - Correlações e Proposta de Prática]] reúne fontes tradicionais, correlação com as três funções práticas do HeartMath e CP8. O inventário temático conserva R01–R22, com nove referências acrescentadas nesta etapa. Retomar pelos destinos de [[02 - Compaixão e Empatia - Destinos nas Aulas e Materiais]], sem reiniciar a auditoria ampla. Originais e suas localizações pessoais ficam identificados na nota 04 e no manifesto de fontes.

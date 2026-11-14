@@ -121,7 +121,7 @@ Newberg, no capítulo 13 de Sex, God, and the Brain, oferece uma leitura correla
 
 ## 10 Fundamentação científica e sua função na aula
 
-O inventário reúne R01–R13 com referência completa, DOI, tipo de trabalho, contribuição e destino. R01–R04 ajudam a qualificar autocompaixão e direções do cuidado; R05–R07 investigam diferentes aspectos do treinamento de compaixão; R08/R09 contribuem para percepção e acolhimento da experiência; R10–R12 apoiam o exame das relações e da sincronia; R13 oferece uma referência conceitual de empatia para aprofundar.
+O inventário reúne R01–R22 com referência completa, DOI, tipo de trabalho, contribuição e destino. R01–R04 ajudam a qualificar autocompaixão e direções do cuidado; R05–R07 investigam diferentes aspectos do treinamento de compaixão; R08/R09 contribuem para percepção e acolhimento da experiência; R10–R12 apoiam o exame das relações e da sincronia; R13 oferece uma referência conceitual de empatia para aprofundar.
 
 A seleção científica responde a perguntas específicas. Evitar transformar resultados de tarefas e programas particulares em promessa de efeitos das práticas do TSH. Nas telas e no texto do aluno, comunicar o ponto que ajuda a compreender a experiência; nas notas do professor, manter a precisão bibliográfica e o desenho do estudo.
 
@@ -140,6 +140,14 @@ A seleção científica responde a perguntas específicas. Evitar transformar re
 
 ## 12 Continuidade da produção
 
-[[02 - Compaixão e Empatia - Destinos nas Aulas e Materiais]] organiza destinos teóricos, práticos e de materiais sem alterar a estrutura de nove módulos e 54 aulas. [[03 - Compaixão e Empatia - Práticas e Condução]] desenvolve sete propostas breves que podem integrar práticas já existentes. A montagem pode selecionar falas, exemplos, experiência, tela, nota do professor ou leitura complementar, conforme a contribuição real.
+[[02 - Compaixão e Empatia - Destinos nas Aulas e Materiais]] organiza destinos teóricos, práticos e de materiais sem alterar a estrutura de nove módulos e 54 aulas. [[03 - Compaixão e Empatia - Práticas e Condução]] desenvolve oito propostas breves que podem integrar práticas já existentes. A montagem pode selecionar falas, exemplos, experiência, tela, nota do professor ou leitura complementar, conforme a contribuição real.
 
 O material do participante mantém linguagem simples e voz autoral. A preparação detalhada permanece neste conjunto e no caderno da aula. Esta organização de referências não declara novas gravações, publicação ou reexportação dos PowerPoints/entregáveis existentes.
+
+## 13 Ampliações de Ricard Wallace PUCRS HeartMath e Tonglen
+
+[[04 - Ricard Wallace PUCRS e HeartMath - Fontes e Ampliações]] preserva todas as novas fontes, a procedência informada por Fabiano, localizadores e ganhos para as aulas. [[06 - Ricard no Laboratório de Singer - Exemplo para as Aulas]] organiza o exemplo escolhido do laboratório de Singer. [[05 - Tonglen e HeartMath - Correlações e Proposta de Prática]] examina a correlação Tonglen/HeartMath e desenvolve CP8. [[01 - Fontes de Compaixão e Empatia - Textos Livros e Pesquisas]] reúne agora R01–R22 e as fontes anexadas NF01–NF07.
+
+A ampliação acrescenta qualidade e familiarização da atenção, cultivo de diferentes disposições afetivas, distinção entre motivação/ação/efeitos e formas de preparação para cuidar. Heart Lock-In oferece a aproximação mais direta ao cultivo do dar/cuidar; Quick Coherence pode apoiar a entrada; Freeze-Frame, a escolha da resposta. A relação com Tonglen mantém o sentido espiritual da prática e a diferença entre qualidade da experiência e indicadores fisiológicos.
+
+Dois caminhos ficam disponíveis: apoio inicial que favorece o contato com o sofrimento e cultivo compassivo da dificuldade presente que também pode construir apoio. As propostas não exigem calma perfeita, sentimento positivo obrigatório nem autoabandono. O registro amplia as possibilidades de produção sem alterar a estrutura do curso.

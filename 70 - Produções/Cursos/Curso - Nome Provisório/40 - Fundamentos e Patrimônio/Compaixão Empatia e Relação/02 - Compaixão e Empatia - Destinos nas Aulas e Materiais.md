@@ -10,7 +10,7 @@ atualizado_em: 2026-11-14
 
 A distribuição abaixo orienta escolhas para as aulas teóricas e práticas do TSH. O aprofundamento conceitual principal já cabe em M5.2; as demais entradas preparam, experimentam e retomam o tema em contextos diferentes. Não é necessário acrescentar uma explicação completa ou uma prática nova em cada aula.
 
-Fontes e localizadores: [[01 - Fontes de Compaixão e Empatia - Textos Livros e Pesquisas]]. Fundamentação: [[00 - Compaixão Empatia e Autocompaixão - Fundamentação e Consulta]]. Condução: [[03 - Compaixão e Empatia - Práticas e Condução]]. CP1–CP7 identificam propostas desta frente, não substituem os códigos P0–P8 do percurso de cultivo.
+Fontes e localizadores: [[01 - Fontes de Compaixão e Empatia - Textos Livros e Pesquisas]]. Fundamentação: [[00 - Compaixão Empatia e Autocompaixão - Fundamentação e Consulta]]. Condução: [[03 - Compaixão e Empatia - Práticas e Condução]]. CP1–CP8 identificam propostas desta frente, não substituem os códigos P0–P8 do percurso de cultivo.
 
 ## 1 Destinos por aula
 
@@ -86,3 +86,21 @@ Nas notas, conservar a comparação entre Schwartz/Ely/Salvador e uma pesquisa e
 **Roteiro oral:** desenvolver a cena e o sentido da distinção. **Slide:** apresentar uma pergunta, relação ou imagem que apoie a fala. **Notas do professor:** guardar fonte, localizador, diferenças conceituais e variantes. **Prática:** apresentar objetivo, condução e conversa posterior. **Material do aluno:** integrar o que ajuda a continuar aprendendo, com a voz autoral e linguagem simples.
 
 Recuperar mapas Amor–Poder–Sabedoria já disponíveis em PNG/SVG. [[Mapa Conceitual - Compaixão, Limite e Responsabilidade Situada]] é um mapa conceitual textual pronto para consulta; uma eventual arte para slides será produzida na montagem correspondente, seguindo o padrão visual vigente. Esta frente não declara novas imagens, vídeos, PPTX ou PDFs finais.
+
+## 6 Novas fontes e desenvolvimento de Tonglen HeartMath
+
+[[04 - Ricard Wallace PUCRS e HeartMath - Fontes e Ampliações]] discrimina fontes e destinos. [[05 - Tonglen e HeartMath - Correlações e Proposta de Prática]] desenvolve CP8 para M5.6/encontro M5 e retomadas em M6.3/M7.3/M7.6/M8.2; preparações podem participar de M3.7/M4.5. [[06 - Ricard no Laboratório de Singer - Exemplo para as Aulas]] prepara M5.2 com o relato escolhido por Fabiano e suas retomadas relacionais.
+
+| Destino | Acréscimo a selecionar | Uso no roteiro e material |
+| --- | --- | --- |
+| M1.2/M1.7 | Familiarização e qualidade da atenção — Wallace/Gom. | Fala breve e retorno à prática conhecida. |
+| M2.5/M2.6 | Perspectiva e reconhecimento — PUCRS/Ricard. | CP4, pergunta corrigível e Cartografia. |
+| M3.2/M3.7 | Respiração, cuidado e medida — HeartMath/Wallace. | Comparação de experiência; detalhes fisiológicos nas notas. |
+| M4.5/M6.3 | Relação consigo e ambivalências — preparações de Tonglen. | CP1/CP2/CP3; CP8 conforme a escolha. |
+| M5.2 | História de Ricard, conceitos e motivação moral. | Reconto, três telas possíveis e transferência, em N6. |
+| M5.5/M5.6 | Imagem e tradição do dar/receber. | Selecionar preparação, adaptação introdutória ou versão tradicional identificada. |
+| M5.7/M5.8 | Natureza da mente, Essência e explicações. | Comparação dos mapas e dos efeitos, preservando diferenças. |
+| M7.3–M7.8 | Escuta, serviço, limite, responsabilidade e reparação. | Articular CP4/CP5/CP7/CP8 à cena escolhida. |
+| M8.2 | Continuidade do cultivo. | Retomar versão já aprendida; observar um efeito concreto. |
+
+As pesquisas R14–R22 qualificam a preparação. Não somar automaticamente todas as experiências a cada aula. As versões finais de fala, slides, notas e material do participante serão sincronizadas na montagem escolhida.

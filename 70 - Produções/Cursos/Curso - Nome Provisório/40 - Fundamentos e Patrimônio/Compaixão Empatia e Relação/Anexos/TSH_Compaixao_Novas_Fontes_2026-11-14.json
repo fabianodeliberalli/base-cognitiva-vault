@@ -1,0 +1,146 @@
+{
+  "date": "2026-11-14",
+  "base_commit": "7ea8029fd71c788ed072307bab6a7dc1a1408b25",
+  "scope": "Identificação e localização de originais anexados; sem cópias integrais novas no GitHub.",
+  "sources": [
+    {
+      "id": "NF01",
+      "filename": "496404271-Gregg-Braden-HeartMath.pdf",
+      "library_file_id": "libfile_fde3_f-935fd986c0c08191bb18d270c0bbf906_ad925f8fadbc81918eab9ef0eafee9a9",
+      "url": "https://chatgpt.com/library?file_id=libfile_fde3_f-935fd986c0c08191bb18d270c0bbf906_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal",
+      "title": "The HeartMath Guidebook: Accessing Your Inner Intelligence",
+      "author": "Howard Martin; HeartMath LLC, © MMI (2001).",
+      "pages": 51,
+      "sha256": "b9a4574402a1708ac919bf79011c5ee26fc1c9ea7c16ae97b355b66f9c0f2c87",
+      "scope": "Guia de formação e exercícios; autoria conferida na página 3. O nome Gregg Braden no arquivo não corresponde à autoria interna.",
+      "locator": "PDF 6–7: inteligência do coração; 11–13: comunicação e VFC; 14–15: Freeze-Frame; 23: neutralidade; 33–34: care/overcare; 35–38: apreciação e amor; 43: Heart Lock-In.",
+      "provenance": "Fabiano informou ter realizado o curso introdutório HeartMath com treinador credenciado. Não implica certificação como treinador nem identificação da versão de cada técnica aprendida."
+    },
+    {
+      "id": "NF02",
+      "filename": "Ciencia Contemplativa - B. Alan Wallace.pdf",
+      "library_file_id": "libfile_fde3_f-0aa3275447c08191b57153bea17b41ac_ad925f8fadbc81918eab9ef0eafee9a9",
+      "url": "https://chatgpt.com/library?file_id=libfile_fde3_f-0aa3275447c08191b57153bea17b41ac_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal",
+      "title": "Ciência contemplativa: onde o budismo e a neurociência se encontram",
+      "author": "B. Alan Wallace; tradução Carmen Fischer; original Contemplative Science, 2007.",
+      "pages": 273,
+      "sha256": "436bf4a4ac289eeb5e9a3a20c65cd9dd9d79c1efe001bc00cb49eb2b492cdbfd",
+      "scope": "Livro teórico e contemplativo; leitura dirigida aos fundamentos e práticas pertinentes.",
+      "locator": "PDF 11–24: investigação, valores e quatro equilíbrios; 159–160: primeira/segunda pessoa; 166–173: quatro imensuráveis e Tonglen; 189–197: estabilidade, vivacidade e treinamento da atenção.",
+      "provenance": "Material selecionado por Fabiano para a avaliação e ampliação do TSH."
+    },
+    {
+      "id": "NF03",
+      "filename": "Altruísmo - Matthieu Ricard.pdf",
+      "library_file_id": "libfile_fde3_f-5247d2574a3c8191b80b86048c900e65_ad925f8fadbc81918eab9ef0eafee9a9",
+      "url": "https://chatgpt.com/library?file_id=libfile_fde3_f-5247d2574a3c8191b80b86048c900e65_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal",
+      "title": "A revolução do altruísmo — trechos escaneados",
+      "author": "Matthieu Ricard. Palas Athena, 2015; original francês, 2013.",
+      "pages": 51,
+      "sha256": "85eef8579f1124f54d455475ed016fa213e0889d93afef06839f2b7aa275e7af",
+      "scope": "Seleção de páginas, não livro integral. OCR com correção de orientação; passagens do relato conferidas no conjunto.",
+      "locator": "PDF 2–9: introdução; 10–22: empatia; 23–30: laboratório de Singer; 31–39: amor; 40–51: treinamento da mente. O capítulo 4 começa no PDF 23, página impressa 71.",
+      "provenance": "Fabiano informou que escaneou trechos de um livro de sua propriedade para escrever seu TCC da pós em Neurociência. Isso não declara que todas as passagens constam da bibliografia final do TCC."
+    },
+    {
+      "id": "NF04",
+      "filename": "PÓS PUC - moral-compaixo-empatia-altrusmo-e-egosmo.pdf",
+      "library_file_id": "libfile_fde3_f-227a54f1ca9481918e3a7106fc17da78_ad925f8fadbc81918eab9ef0eafee9a9",
+      "url": "https://chatgpt.com/library?file_id=libfile_fde3_f-227a54f1ca9481918e3a7106fc17da78_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal",
+      "title": "Motivação moral: compaixão, empatia, altruísmo e egoísmo",
+      "author": "Draiton Gonzaga de Souza e Pedro Savi Neto; apostila da disciplina PUCRS.",
+      "pages": 49,
+      "sha256": "f2fee0323e32845cd78a506b52f6ee122e412fecc1b257f2750cdce4bfd47074",
+      "scope": "Material da pós de Fabiano, com mapas de aula, leituras, sínteses e exercícios; não é transcrição integral das videoaulas.",
+      "locator": "PDF 13–14: perspectiva e vínculos; 23–30: reconhecimento e sociabilidade; 32–35: motivação moral; 43–46: empatia seletiva, imitação e contexto; 47: resumo.",
+      "provenance": "Fabiano confirmou que se trata de apostila de sua própria pós-graduação."
+    },
+    {
+      "id": "NF05",
+      "filename": "Meditação Tibetana e Dessensibilização Sistemática.pdf",
+      "library_file_id": "libfile_fde3_f-4da15f0124ac8191ba0e5413c392011a_ad925f8fadbc81918eab9ef0eafee9a9",
+      "url": "https://chatgpt.com/library?file_id=libfile_fde3_f-4da15f0124ac8191ba0e5413c392011a_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal",
+      "title": "Meditação tibetana e dessensibilização sistemática — elaboração comparativa",
+      "author": "Autoria bibliográfica não identificada no arquivo.",
+      "pages": 3,
+      "sha256": "6ed2a1cac377b61e19a2515b8c00a49b7847c299afa0f8a7f035f5306e28bdef",
+      "scope": "Texto de elaboração/correlação, sem referências científicas originais próprias; conservar como proposta a revisar.",
+      "locator": "PDF 1: Gom/familiarização; 1–2: aproximação com dessensibilização; 2–3: neuroplasticidade e quadro comparativo.",
+      "provenance": "Documento fornecido por Fabiano para análise; não o atribuir a Wallace, à PUCRS ou a um estudo experimental."
+    },
+    {
+      "id": "NF06",
+      "filename": "the-tibetan-book-of-living-and-dying.pdf",
+      "library_file_id": "libfile_fde3_f-886459da771081918cb4c28b2b586882_ad925f8fadbc81918eab9ef0eafee9a9",
+      "url": "https://chatgpt.com/library?file_id=libfile_fde3_f-886459da771081918cb4c28b2b586882_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal",
+      "title": "The Tibetan Book of Living and Dying — Revised and Updated",
+      "author": "Sogyal Rinpoche; editores Patrick Gaffney e Andrew Harvey; copyright 2002.",
+      "pages": 451,
+      "sha256": "1c57bb5038d9cbacded690880d3eef7fc0d22274a7f8294a9990d493499f361e",
+      "scope": "Livro de tradição e orientação espiritual; leitura dirigida ao capítulo 12 e localizações correlatas.",
+      "locator": "Capítulo 12: PDF 205–226, páginas impressas 191–212. PDF 213–214: evocar amor/compaixão; 220–223: preparação e quatro práticas preliminares; 223–224: prática principal; 225: alternativa por aspiração; 226: horizonte espiritual.",
+      "provenance": "Anexado por Fabiano nesta etapa; usar o conteúdo de tradição com sua atribuição e versão."
+    }
+  ],
+  "external_source": {
+    "id": "NF07",
+    "url": "https://archive.org/details/heartmathsolutio0000chil",
+    "scope": "Registro de edição 1999, acesso restrito; sem leitura integral declarada."
+  },
+  "new_research": [
+    {
+      "id": "R14",
+      "reference": "WALLACE, B. Alan; SHAPIRO, Shauna L. (2006). Mental balance and well-being: Building bridges between Buddhism and Western psychology. American Psychologist, 61(7), 690–701.",
+      "doi": "10.1037/0003-066X.61.7.690",
+      "url": "https://centerforcontemplativeresearch.org/wp-content/uploads/2021/05/Mental-Balance-Well-Being-1.pdf"
+    },
+    {
+      "id": "R15",
+      "reference": "MacLEAN, Katherine A. et al. (2010). Intensive Meditation Training Improves Perceptual Discrimination and Sustained Attention. Psychological Science, 21(6), 829–839.",
+      "doi": "10.1177/0956797610371339",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20483826/"
+    },
+    {
+      "id": "R16",
+      "reference": "LEHRER, Paul M.; GEVIRTZ, Richard (2014). Heart rate variability biofeedback: how and why does it work? Frontiers in Psychology, 5, 756.",
+      "doi": "10.3389/fpsyg.2014.00756",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.00756/full"
+    },
+    {
+      "id": "R17",
+      "reference": "McCRATY, Rollin; ATKINSON, Mike; TILLER, William A.; REIN, Glen; WATKINS, Alan D. (1995). The effects of emotions on short-term power spectrum analysis of heart rate variability. American Journal of Cardiology, 76(14), 1089–1093.",
+      "doi": "10.1016/S0002-9149(99)80309-9",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7484873/"
+    },
+    {
+      "id": "R18",
+      "reference": "MINJOZ, Séphora; JEANNE, Rudy; PELLISSIER, Sonia; HOT, Pascal (2026). Psychophysiological effects of heart rate variability biofeedback versus sham biofeedback: A randomized controlled trial. Biological Psychology, 206, 109254.",
+      "doi": "10.1016/j.biopsycho.2026.109254",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41905438/"
+    },
+    {
+      "id": "R19",
+      "reference": "CRASKE, Michelle G.; TREANOR, Michael; CONWAY, Christopher C.; ZBOZINEK, Tomislav; VERVLIET, Bram (2014). Maximizing exposure therapy: An inhibitory learning approach. Behaviour Research and Therapy, 58, 10–23.",
+      "doi": "10.1016/j.brat.2014.04.006",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4114726/"
+    },
+    {
+      "id": "R20",
+      "reference": "SINGER, Tania; KLIMECKI, Olga M. (2014). Empathy and compassion. Current Biology, 24(18), R875–R878.",
+      "doi": "10.1016/j.cub.2014.06.054",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25247366/"
+    },
+    {
+      "id": "R21",
+      "reference": "DI BELLO, M.; CARNEVALI, Luca; PETROCCHI, Nicola; THAYER, Julian F.; GILBERT, Paul; OTTAVIANI, Cristina (2020). The compassionate vagus: A meta-analysis on the connection between compassion and heart rate variability. Neuroscience and Biobehavioral Reviews, 116, 21–30.",
+      "doi": "10.1016/j.neubiorev.2020.06.016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32554001/"
+    },
+    {
+      "id": "R22",
+      "reference": "ANDREU, Catherine I. et al. (2025). Investigating the Psychophysiological Effects of Tonglen Compassion Meditation in Healthcare Workers. Mindfulness, 16, 2171–2183.",
+      "doi": "10.1007/s12671-025-02601-z",
+      "url": "https://link.springer.com/article/10.1007/s12671-025-02601-z"
+    }
+  ]
+}

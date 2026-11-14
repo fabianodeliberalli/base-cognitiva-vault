@@ -372,3 +372,136 @@ Frank Anderson aparece na compilação de IFS; NUMI e autores identificados em c
 Conferência de 14/11/2026 na main do repositório: 49 notas/textos com ocorrências pertinentes e 62 objetos documentais com localizações após excluir falsos positivos. Esses números incluem históricos, versões e fontes complementares; não são número de estudos independentes. A busca contemplou os formatos textuais, DOCX, PPTX e PDFs disponíveis, com leitura dirigida e OCR dos digitalizados. Não constitui leitura integral de todos os livros nem assegura que todo correlato sem os termos pesquisados já tenha sido identificado.
 
 Ao montar uma aula, escolher o trecho necessário, consultar o original e registrar no estado/caderno da aula a contribuição efetivamente usada. Consultar [[02 - Compaixão e Empatia - Destinos nas Aulas e Materiais]] para o destino e [[03 - Compaixão e Empatia - Práticas e Condução]] para o desenvolvimento prático. A documentação bibliográfica minuciosa fica na preparação docente; o texto do aluno segue a linguagem autoral e referências discretas ao final.
+
+## 8 Novas fontes anexadas e procedência informada
+
+[[04 - Ricard Wallace PUCRS e HeartMath - Fontes e Ampliações]] localiza NF01–NF06 (seis PDFs anexados) e NF07 (registro externo do HeartMath). Os originais são acessados pelos links pessoais ali identificados; não são novos arquivos integrais públicos no repositório. A conferência anterior de 49 notas/textos e 62 objetos documentais descreve o recorte do acervo daquela etapa, sem incluir automaticamente estes anexos.
+
+| Código | Fonte | Contribuição e destino |
+| --- | --- | --- |
+| NF01 | Howard Martin, HeartMath Guidebook, 51 páginas. | Freeze-Frame/apreciação/Heart Lock-In; M3/M5/M7/M8. Formação introdutória de Fabiano informada. |
+| NF02 | B. Alan Wallace, Ciência contemplativa, 273 páginas. | Atenção, quatro imensuráveis e Tonglen; M1/M3/M5/M8. |
+| NF03 | Matthieu Ricard, trechos de A revolução do altruísmo, 51 páginas. | Fonte usada por Fabiano para o TCC; exemplo do laboratório, empatia, amor e cultivo; M5.2/M7. |
+| NF04 | Apostila PUCRS de Draiton Gonzaga de Souza e Pedro Savi Neto, 49 páginas. | Formação da motivação moral, perspectiva e responsabilidade; M2/M5/M7. |
+| NF05 | Elaboração sobre Gom/dessensibilização, 3 páginas. | Correlação a revisar com fonte tradicional e R19; M1.2/M3.7, preparação docente. |
+| NF06 | Sogyal Rinpoche, The Tibetan Book of Living and Dying, 451 páginas. | Capítulo 12; preparação, Tonglen para si/outros e prática principal; M5/M7/M8. |
+| NF07 | The HeartMath Solution, edição 1999, Internet Archive. | Registro de acesso restrito; não declarar leitura integral desse exemplar. |
+
+Prática e comparação: [[05 - Tonglen e HeartMath - Correlações e Proposta de Prática]]. Exemplo narrativo: [[06 - Ricard no Laboratório de Singer - Exemplo para as Aulas]]. R01–R13 permanecem com seus códigos; as novas referências seguem abaixo.
+
+## 9 Pesquisas e referências acrescentadas
+
+### R14 WALLACE, B. Alan; SHAPIRO, Shauna L.
+
+WALLACE, B. Alan; SHAPIRO, Shauna L. (2006). Mental balance and well-being: Building bridges between Buddhism and Western psychology. American Psychologist, 61(7), 690–701.
+
+[DOI 10.1037/0003-066X.61.7.690](https://doi.org/10.1037/0003-066X.61.7.690) · [Consulta](https://centerforcontemplativeresearch.org/wp-content/uploads/2021/05/Mental-Balance-Well-Being-1.pdf)
+
+**Tipo:** Artigo teórico integrativo.
+
+**Contribuição:** Quatro domínios de equilíbrio: desejos/intenções, atenção, compreensão e afetividade.
+
+**Destino e alcance:** M1.2/M3.7/M5.2; recurso da preparação docente, sem criar uma nova arquitetura do curso.
+
+### R15 MacLEAN, Katherine A. et al.
+
+MacLEAN, Katherine A. et al. (2010). Intensive Meditation Training Improves Perceptual Discrimination and Sustained Attention. Psychological Science, 21(6), 829–839.
+
+[DOI 10.1177/0956797610371339](https://doi.org/10.1177/0956797610371339) · [Consulta](https://pubmed.ncbi.nlm.nih.gov/20483826/)
+
+**Tipo:** Estudo de treinamento intensivo com comparação por lista de espera.
+
+**Contribuição:** Investiga atenção e discriminação num retiro de três meses associado ao Shamatha Project.
+
+**Destino e alcance:** M1.2/M3.7; o retiro, a experiência dos participantes e a carga de prática diferem de uma experiência breve no TSH.
+
+### R16 LEHRER, Paul M.; GEVIRTZ, Richard
+
+LEHRER, Paul M.; GEVIRTZ, Richard (2014). Heart rate variability biofeedback: how and why does it work? Frontiers in Psychology, 5, 756.
+
+[DOI 10.3389/fpsyg.2014.00756](https://doi.org/10.3389/fpsyg.2014.00756) · [Consulta](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.00756/full)
+
+**Tipo:** Revisão de mecanismos do biofeedback de VFC.
+
+**Contribuição:** Relaciona respiração, arritmia sinusal respiratória e barorreflexo.
+
+**Destino e alcance:** M3.2/M3.7/M5.2; distinguir oscilação cardíaca de qualidade ética e de um mecanismo único de mudança.
+
+### R17 McCRATY, Rollin; ATKINSON, Mike; TILLER, William A.; REIN, Glen; WATKINS, Alan D.
+
+McCRATY, Rollin; ATKINSON, Mike; TILLER, William A.; REIN, Glen; WATKINS, Alan D. (1995). The effects of emotions on short-term power spectrum analysis of heart rate variability. American Journal of Cardiology, 76(14), 1089–1093.
+
+[DOI 10.1016/S0002-9149(99)80309-9](https://doi.org/10.1016/S0002-9149(99)80309-9) · [Consulta](https://pubmed.ncbi.nlm.nih.gov/7484873/)
+
+**Tipo:** Pesquisa vinculada ao Institute of HeartMath.
+
+**Contribuição:** Investiga padrões de VFC associados a raiva e apreciação.
+
+**Destino e alcance:** Preparação de M3/M5; explicitar a origem e não transferir seus resultados a toda alegação do sistema HeartMath.
+
+### R18 MINJOZ, Séphora; JEANNE, Rudy; PELLISSIER, Sonia; HOT, Pascal
+
+MINJOZ, Séphora; JEANNE, Rudy; PELLISSIER, Sonia; HOT, Pascal (2026). Psychophysiological effects of heart rate variability biofeedback versus sham biofeedback: A randomized controlled trial. Biological Psychology, 206, 109254.
+
+[DOI 10.1016/j.biopsycho.2026.109254](https://doi.org/10.1016/j.biopsycho.2026.109254) · [Consulta](https://pubmed.ncbi.nlm.nih.gov/41905438/)
+
+**Tipo:** Ensaio de biofeedback versus condição simulada, 47 participantes.
+
+**Contribuição:** Observou benefícios psicológicos sem modulação correspondente das medidas autonômicas examinadas.
+
+**Destino e alcance:** M3.2/M5.2; efeitos subjetivos e índices fisiológicos devem ser examinados separadamente; não investigou a combinação HeartMath–Tonglen.
+
+### R19 CRASKE, Michelle G.; TREANOR, Michael; CONWAY, Christopher C.; ZBOZINEK, Tomislav; VERVLIET, Bram
+
+CRASKE, Michelle G.; TREANOR, Michael; CONWAY, Christopher C.; ZBOZINEK, Tomislav; VERVLIET, Bram (2014). Maximizing exposure therapy: An inhibitory learning approach. Behaviour Research and Therapy, 58, 10–23.
+
+[DOI 10.1016/j.brat.2014.04.006](https://doi.org/10.1016/j.brat.2014.04.006) · [Consulta](https://pmc.ncbi.nlm.nih.gov/articles/PMC4114726/)
+
+**Tipo:** Revisão/modelo clínico com exemplos de implementação.
+
+**Contribuição:** Distingue aprendizagem inibitória de uma explicação centrada apenas na habituação do medo.
+
+**Destino e alcance:** Preparação da correlação Gom/dessensibilização; não demonstra equivalência entre meditação, exposição e dessensibilização sistemática.
+
+### R20 SINGER, Tania; KLIMECKI, Olga M.
+
+SINGER, Tania; KLIMECKI, Olga M. (2014). Empathy and compassion. Current Biology, 24(18), R875–R878.
+
+[DOI 10.1016/j.cub.2014.06.054](https://doi.org/10.1016/j.cub.2014.06.054) · [Consulta](https://pubmed.ncbi.nlm.nih.gov/25247366/)
+
+**Tipo:** Síntese conceitual de pesquisa.
+
+**Contribuição:** Diferencia empatia, angústia empática e compaixão.
+
+**Destino e alcance:** M5.2/M7.3/M7.6; apoio ao relato de Ricard e à leitura do estudo R05, sem classificar toda empatia como aflição.
+
+### R21 DI BELLO, M.; CARNEVALI, Luca; PETROCCHI, Nicola; THAYER, Julian F.; GILBERT, Paul; OTTAVIANI, Cristina
+
+DI BELLO, M.; CARNEVALI, Luca; PETROCCHI, Nicola; THAYER, Julian F.; GILBERT, Paul; OTTAVIANI, Cristina (2020). The compassionate vagus: A meta-analysis on the connection between compassion and heart rate variability. Neuroscience and Biobehavioral Reviews, 116, 21–30.
+
+[DOI 10.1016/j.neubiorev.2020.06.016](https://doi.org/10.1016/j.neubiorev.2020.06.016) · [Consulta](https://pubmed.ncbi.nlm.nih.gov/32554001/)
+
+**Tipo:** Meta-análise de 16 estudos.
+
+**Contribuição:** Encontrou associação entre compaixão e VFC, com heterogeneidade e limitações metodológicas.
+
+**Destino e alcance:** M3.2/M5.2; associação não transforma VFC em medida individual de compaixão ou maturidade.
+
+### R22 ANDREU Catherine I et al
+
+ANDREU, Catherine I. et al. (2025). Investigating the Psychophysiological Effects of Tonglen Compassion Meditation in Healthcare Workers. Mindfulness, 16, 2171–2183.
+
+[DOI 10.1007/s12671-025-02601-z](https://doi.org/10.1007/s12671-025-02601-z) · [Artigo](https://link.springer.com/article/10.1007/s12671-025-02601-z)
+
+**Tipo:** ensaio exploratório randomizado; 60 profissionais; áudio de 15 minutos versus história.
+
+**Contribuição:** efeitos imediatos em compaixão relatada e VFC; EEG sem diferença entre grupos.
+
+**Destino e alcance:** M5.2/M5.6/M7.6. Intervenção composta, sem seguimento ou teste da combinação HeartMath; não isolou componentes nem experiência prévia.
+
+
+## 10 Referências tradicionais complementares
+
+- Pema Chödrön. [How to Practice Tonglen Meditation](https://www.lionsroar.com/how-to-practice-tonglen-meditation/). Fonte de orientação tradicional, com possibilidades formais, cotidianas e dirigidas à própria dificuldade. Não é estudo de eficácia.
+- Dalai Lama. [Science at the Crossroads](https://www.dalailama.com/messages/buddhism/science-at-the-crossroads), palestra de 12/11/2005. Situa cultivo e familiarização no contexto contemplativo e no diálogo com a pesquisa.
+- HeartMath. [Quick Coherence Technique](https://www.heartmath.com/resources/quick-coherance-technique/). Fonte oficial da técnica; separar instrução, experiência e alcance das explicações do sistema.
