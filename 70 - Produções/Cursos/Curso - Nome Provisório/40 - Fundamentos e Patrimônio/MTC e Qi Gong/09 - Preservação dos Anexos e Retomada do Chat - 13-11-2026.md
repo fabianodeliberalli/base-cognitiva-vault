@@ -10,6 +10,15 @@ escopo: fundamentacao-e-praticas-corporais-energeticas-contemplativas
 # Preservação dos anexos e retomada do chat — 13/11/2026
 
 
+## Resultado da auditoria dos materiais — 13/11/2026
+
+[[10 - Auditoria de Preservação Avaliação e Incorporação dos Materiais - 13-11-2026]] registra a conferência atual e as evidências. Conclusão: incorporação parcial, com base substantiva em 01–08; 54 destinos de aula e 89 imagens localizáveis. Dos 18 originais do pacote, sete têm cópia idêntica na main e EIXO Integrador tem uma cópia atual em outra ramificação. Os dez restantes não foram localizados como arquivos individuais idênticos nas 69 ramificações consultadas; isso não equivale a ausência de avaliação de seus conteúdos.
+
+Foram recuperados os quatro PDFs posteriores e o original privado de Visão Taoísta (61 slides). Não foi verificado o conjunto separado de 59 lâminas anunciado. Há leituras de sete livros de 09/11 e notas de circulação/percepção/encontros na ramificação `tsh-sentir-outro-intersubjetividade-20261107`, fora da main; esse conjunto não deve ser confundido com os sete PDFs adicionais mencionados no último chat. O índice dessa ramificação distingue notas de leitura de armazenamento dos binários.
+
+Próximo bloco útil: recuperar as avaliações mais recentes e consolidar seus destinos, preservar a restrição do caso clínico e conciliar o conteúdo exclusivo das versões localizadas. Os arquivos finais das aulas continuam com sincronização pendente. O relatório distingue essas etapas; não reiniciar a auditoria ampla como se não houvesse base documental.
+
+
 ## Retomada verificada após três limites de conversa — 13/11/2026
 
 Fabiano relatou três chats interrompidos pelo aviso de duração máxima e pediu continuidade com preservação dos materiais da auditoria. Esta retomada atualiza o estado verificável e mantém os registros anteriores abaixo como histórico.

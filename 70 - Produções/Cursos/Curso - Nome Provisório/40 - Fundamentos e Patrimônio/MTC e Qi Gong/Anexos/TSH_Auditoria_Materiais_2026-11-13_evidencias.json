@@ -1,0 +1,1118 @@
+{
+  "date": "2026-11-13",
+  "scope": "Chats de fundamentação e auditoria do TSH de 13/11/2026; fontes efetivamente recuperáveis",
+  "repository": "fabianodeliberalli/base-cognitiva-vault",
+  "repository_visibility": "public",
+  "main_commit": "e150e3ad56304d74ec45e3a9e29601ccdf348917",
+  "audit_branch": "codex/tsh-continuidade-auditoria-2026-11-13",
+  "branch_head_before_audit": "38af7104ea9562e20d863c0aa6484de4b66c195a",
+  "source_package": {
+    "name": "TSH_Preservacao_Trabalho_e_Anexos_2026-11-13.zip",
+    "library_file_id": "libfile_0115a51742b881918f661abf7211ef47",
+    "originals": 18,
+    "identical_in_main": 7,
+    "additional_original_in_other_branch": 1,
+    "not_found_as_identical_individual_files_at_any_branch_head": 10
+  },
+  "branches_scanned": [
+    {
+      "name": "agent/comunicacao-bridge-9x54",
+      "head": "a9c58a43b5f0a5c1b1054fdaedd174bdd60ee0a6",
+      "entries": 607,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "agent/reconcile-course-knowledge-governance",
+      "head": "5e8386e33bddbe675e0c48f85e79a8cca16347ac",
+      "entries": 356,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "atualizar-raio-x-vigente-2026-10-24",
+      "head": "4171fac97886a0b6f12dce27a3f8e6cc2057da26",
+      "entries": 764,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "audit/encerramento-reorganizacao-2026-09",
+      "head": "c2203b937917d89055a7ce0e0378b82819d364d4",
+      "entries": 709,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "audit/integrar-certificado-brainspotting-2026-09",
+      "head": "91b50b74f5090ee4ad9fbf85a8d1674de6d9f6fc",
+      "entries": 675,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "audit/posicionamento-autoridade-2026-09",
+      "head": "c1db143201447d3e0bcd5f9cbbf0c88ea5422801",
+      "entries": 674,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "audit/reconciliar-trabalhos-academicos-2026-09",
+      "head": "54fe48982c65932bc9bac247a593e28c86c8c32f",
+      "entries": 674,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "audit-sdp-deb-dana-2023-2026",
+      "head": "322a9b399929f27b7b79ca48eed096c7aac858e4",
+      "entries": 605,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "auditoria/reorganizacao-2026-10-03-0201",
+      "head": "656615f531e3efce73f4a95be8774a75b9ea1c31",
+      "entries": 732,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "codex/atualiza-curriculo-brainspotting-palas-mtc-autohipnose-20260821",
+      "head": "32b3f067f107b237082a69291bdbc9390656e229",
+      "entries": 622,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "codex/atualiza-raio-x-e-recursos-didaticos-2026-11-01",
+      "head": "4c9c57ac07e89bc5350b9ba0accc1ef72a40eda7",
+      "entries": 804,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "codex/concluir-m1-7-e-planos-m1-1-m1-6",
+      "head": "f3e81a72f2ebdd778b18b98f31c040ec6b5ce64b",
+      "entries": 621,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "codex/livro-cartografia-historica-20261004-062fc99",
+      "head": "717f69e05cad72b84bc2ab5aa4cc75fe43aac0c8",
+      "entries": 763,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "codex/m17-producao-20261102",
+      "head": "9c7aae8e6a1afafbde33361c5cb95ef2ef8f6be7",
+      "entries": 830,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "codex/normaliza-autoridade-site-2026-08-21",
+      "head": "84c1d7e19eb62f13561142dcdfe4916412887f48",
+      "entries": 609,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "codex/organiza-arquiteturas-9-54-7-14",
+      "head": "e8c81d231ca0f25a307a3b64fa127c6fd77d54ea",
+      "entries": 619,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "codex/resgate-tsh-20261031",
+      "head": "1d71c82e502fad54ce7639675c2052464cfb67df",
+      "entries": 783,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "codex/tsh-amor-poder-sabedoria-mapas-2026-11-12",
+      "head": "58e5bb717842834e55d9cbc1bc55faafbd0758b0",
+      "entries": 867,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "codex/tsh-antecedentes-artesao-relacoes-20261101",
+      "head": "416da7edf0c3e9e9ad647f5d86b2e62ed95696bd",
+      "entries": 800,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "codex/tsh-base-inicial-rohden-2026-11-13",
+      "head": "97623a0f7197839389d749e3c9655924cfcc4258",
+      "entries": 885,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "codex/tsh-continuidade-auditoria-2026-11-13",
+      "head": "38af7104ea9562e20d863c0aa6484de4b66c195a",
+      "entries": 986,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "codex/tsh-cultivo-aprofundamento-2026-11-13",
+      "head": "34717fdd2bc026de67d2dcc78829e23814a25239",
+      "entries": 877,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "codex/tsh-cultivo-energetico-contemplativo-2026-11-13",
+      "head": "cb8ea6204d88c6bf12e02457a4f5468ac4e92b6a",
+      "entries": 870,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "codex/tsh-cultivo-interno-2026-11-13",
+      "head": "0d14fa4e0bb5ce7482ef9fca655ba2082db35fe9",
+      "entries": 883,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "codex/tsh-essencia-self-percurso-m17-20261102",
+      "head": "5b406ed6a4251dd22ebb95c63c03ce8675410aff",
+      "entries": 812,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "codex/tsh-live-calendario-2026-10-31",
+      "head": "50e177e70511092cd9580ea59179b2258c1c332b",
+      "entries": 783,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "codex/tsh-m0-alinhamento-2026-11-01",
+      "head": "841ae1c7e00c815da007612d80d76524590e2a6b",
+      "entries": 806,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "codex/tsh-m1-percepcao-qi-pyasik-2026-11-01",
+      "head": "97487f926c989587cffd9ca94a18384ad8bd1c2c",
+      "entries": 800,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "codex/tsh-m02-fundamentos-praticas-identidade-20261031",
+      "head": "3b917875f2a718e4ce38a48a4d2bbb52f84e545e",
+      "entries": 793,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "codex/tsh-m11-alinhamento-2026-11-01",
+      "head": "b8c4946c3c20369f117fe46444bce65735fd1671",
+      "entries": 808,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "codex/tsh-m12-producao-2026-11-01",
+      "head": "758df89e0bf12bd0d6de8e82b471e9bc14079d16",
+      "entries": 807,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "codex/tsh-m13-producao-2026-11-01",
+      "head": "f6a9254cad5fd9ab96b45d931b257a0aa007fb10",
+      "entries": 809,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "codex/tsh-m14-producao-20261102",
+      "head": "e600cb6c38bc4a96be280670c2c4ed574344aae0",
+      "entries": 810,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "codex/tsh-m15-producao-20261102",
+      "head": "794a2efb42be92fbd6f363a583e9247613c96acf",
+      "entries": 814,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "codex/tsh-m16-producao-20261102",
+      "head": "415eb99b96f0000791a45ce41687a8a93014596a",
+      "entries": 814,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "codex/tsh-mapas-rim-nao-interocepcao-2026-11-13",
+      "head": "0440962c72a8751f2a7b3aadd510577d69fef69d",
+      "entries": 888,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "codex/tsh-mascara-armadura-amor-poder-sabedoria-20261111",
+      "head": "c779525f813c74e4082103a9f90738017c817ea8",
+      "entries": 852,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "codex/tsh-pesquisa-previa-fundamentos-20261102",
+      "head": "8da672409b7648d1afcd575947d77b8e68ebb3c5",
+      "entries": 808,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "codex/tsh-preservacao-chat-praticas-2026-11-13",
+      "head": "db31fbeb04712cba70a8d0572813302e93c14a12",
+      "entries": 984,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "codex/tsh-raio-x-integracao-2026-10-30",
+      "head": "2f10d7e1cec24a1dcc865b2521b50bff5d032f56",
+      "entries": 777,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "codex/tsh-textos-apoio-diretriz-2026-11-02",
+      "head": "eb0635854a83e6f3f54012af78575740334dafd9",
+      "entries": 806,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "codex/tsh-varela-castellanos",
+      "head": "09f35bca5a3ebfaf10b008ab62562ccc1443b748",
+      "entries": 808,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "corrigir-shiozawa-2000h",
+      "head": "e723fbf206669dce406bbaea3855b936272289be",
+      "entries": 706,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "curriculo-ajustes-transpessoal-hipnose-2026-08-21",
+      "head": "3be08977958033850b52952ec30646a2c366f4f6",
+      "entries": 611,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "curriculo-governanca-fonte-unica-2026-08-21",
+      "head": "00d758d9d118d15b2be74f75f9577d6189db6cc4",
+      "entries": 613,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "curriculo-matriz-detalhada-2026-08-21",
+      "head": "56bd258413449eab7aeebe38cb9c25b391d042c1",
+      "entries": 612,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "curriculo-publico-ampliado-2026-08-21",
+      "head": "d80ae784605dc3877dd88399c044ed9fbff9f987",
+      "entries": 610,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "estudo/sentir-o-outro-fontes",
+      "head": "08346d9a1313aab4b1be4441ed738b6178fb1311",
+      "entries": 846,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "fix/caminhos-windows-acervos",
+      "head": "4ecfa1e4b329ba9199f4b52636e0c505a51423d4",
+      "entries": 706,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "fontes/sentir-o-outro",
+      "head": "d550173074618049408a77ae1b81482c82f8bf99",
+      "entries": 844,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "main",
+      "head": "e150e3ad56304d74ec45e3a9e29601ccdf348917",
+      "entries": 984,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "reavaliacao-curricular-novos-certificados-2026",
+      "head": "26a9750126cd7b4e05d3c0e2012a2307f74fc83d",
+      "entries": 606,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "refactor/governanca-contexto-ia-2026-09",
+      "head": "be687fb7fd6fbcbfcc9f9e456926566aeb581ffd",
+      "entries": 664,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "refactor/portas-entrada-ia-2026-09",
+      "head": "725f7b700fbc9e6b1be82c90bdd625dd2e399e9d",
+      "entries": 666,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "refactor/protecao-recorrencia-2026-09",
+      "head": "7a171597a8e5a38bd8cf5582c1e62ad6a7ac4044",
+      "entries": 671,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "rename-deb-dana-note-2023-2026",
+      "head": "a8815871c8a6889fbf7a48c7a512295280e3b646",
+      "entries": 605,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "trabalho/tsh-criativos-level-up-20261025",
+      "head": "64eb8a43c655534e95e24f17a4b9192753f323fc",
+      "entries": 778,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "tsh/alinhamento-m1-masterclass-07nov",
+      "head": "7a8bfba66e2688fe6f17bda8d4d284b5ab3f2e08",
+      "entries": 844,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "tsh/aprendizagem-masterclass-07nov",
+      "head": "9da27713141d11f747e71e833f2985f2f0f3f3f0",
+      "entries": 827,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "tsh/auditoria-texto-reabertura-07nov",
+      "head": "4717484f4240dbefd7760ef533d779321945802f",
+      "entries": 828,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "tsh/fotografia-escada-2026-11-01",
+      "head": "4c1ae5dd8ee4b15431271bceb53d3e6e338c1ff6",
+      "entries": 804,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "tsh/m02-cameron-rubin-v13",
+      "head": "998ae1c0ca892e689b9f50eadef023e15ccce02b",
+      "entries": 796,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "tsh/m03-padrao-producao-encontros",
+      "head": "ed0f35632de0becee879bd696315a797b192ba49",
+      "entries": 798,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "tsh/matriz-fontes-e-acoes-07nov",
+      "head": "eb21b6378f2baf269f9d2a39ea03cbd46712d5fc",
+      "entries": 827,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "tsh/refinamento-integrativo-2026-10-30",
+      "head": "45fbe27cdeb6c684bb161d56a2412f45f92a3cd7",
+      "entries": 775,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "tsh/repeticao-buraco-07nov",
+      "head": "ec0f63d78e295ca83914dac1f2c123e5fe306213",
+      "entries": 827,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "tsh/sentir-o-outro-fontes",
+      "head": "35cdef7b65f7e72e67d78e7f3140c1a9a884b73e",
+      "entries": 828,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "tsh/sentir-o-outro-fontes-novembro",
+      "head": "714a24fd80e0a95496db9cd7bd2602b30bf912b3",
+      "entries": 843,
+      "truncated": false,
+      "error": null
+    },
+    {
+      "name": "tsh-sentir-outro-intersubjetividade-20261107",
+      "head": "a47a832fc57d62faa63da88f4c329e3d7148d963",
+      "entries": 870,
+      "truncated": false,
+      "error": null
+    }
+  ],
+  "sources": [
+    {
+      "name": "-Huberto-Rohden-Rumo-a-Consciencia-Cosmica-pdf.pdf",
+      "group": "preservation_package",
+      "bytes": 753977,
+      "sha256": "23468d9ad12740cae83ae763f12f7df751b26789c9bd2bbcdcb3f5a4571c2faf",
+      "git_blob_sha": "bfcd7b5323b7470bac41d48ab8ac112dd5a4bb95",
+      "pages": null,
+      "slides": null,
+      "main_paths": [
+        "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Huberto Rohden - Rumo à Consciência Cósmica.pdf"
+      ],
+      "found_in_branches": [
+        {
+          "branch": "codex/tsh-base-inicial-rohden-2026-11-13",
+          "paths": [
+            "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Huberto Rohden - Rumo à Consciência Cósmica.pdf"
+          ]
+        },
+        {
+          "branch": "codex/tsh-continuidade-auditoria-2026-11-13",
+          "paths": [
+            "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Huberto Rohden - Rumo à Consciência Cósmica.pdf"
+          ]
+        },
+        {
+          "branch": "codex/tsh-mapas-rim-nao-interocepcao-2026-11-13",
+          "paths": [
+            "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Huberto Rohden - Rumo à Consciência Cósmica.pdf"
+          ]
+        },
+        {
+          "branch": "codex/tsh-preservacao-chat-praticas-2026-11-13",
+          "paths": [
+            "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Huberto Rohden - Rumo à Consciência Cósmica.pdf"
+          ]
+        },
+        {
+          "branch": "main",
+          "paths": [
+            "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Huberto Rohden - Rumo à Consciência Cósmica.pdf"
+          ]
+        }
+      ],
+      "privacy": null
+    },
+    {
+      "name": "3 tesouros Taoismo(1).pdf",
+      "group": "preservation_package",
+      "bytes": 417515,
+      "sha256": "62a947559182ecde1c37aaa373d276b706213a5e445166b5cfe1f6dff6d2f79f",
+      "git_blob_sha": "e125bbb22222628c01a9c4c1a81caa72a541b5b7",
+      "pages": null,
+      "slides": null,
+      "main_paths": [],
+      "found_in_branches": [],
+      "privacy": null
+    },
+    {
+      "name": "A-energia-curativa-atraves-do-tao-Mantak-Chia(1).pdf",
+      "group": "preservation_package",
+      "bytes": 5640483,
+      "sha256": "6afb47684e8550d740ecb7c7f213543b2728dee90a51fd09b95e59f062747991",
+      "git_blob_sha": "ff387e5e4f6b9dc6fa9484e10edf377f972a47d9",
+      "pages": null,
+      "slides": null,
+      "main_paths": [],
+      "found_in_branches": [],
+      "privacy": null
+    },
+    {
+      "name": "Chi Kung y Tai Chi Chuan NEUROCIENCIA.txt",
+      "group": "preservation_package",
+      "bytes": 14249,
+      "sha256": "300eba835f8dbbcb39677c469d7b70bd34fe32fa2dedaafea548ecc5c274c9f9",
+      "git_blob_sha": "1a6b511d183eb5ed2297039fcd8c8d0484f38abd",
+      "pages": null,
+      "slides": null,
+      "main_paths": [
+        "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Transcricoes - Qi Gong e Praticas Internas/01 - Chi Kung Tai Chi e Neurociencia - Zaya H Reyes.txt"
+      ],
+      "found_in_branches": [
+        {
+          "branch": "codex/tsh-base-inicial-rohden-2026-11-13",
+          "paths": [
+            "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Transcricoes - Qi Gong e Praticas Internas/01 - Chi Kung Tai Chi e Neurociencia - Zaya H Reyes.txt"
+          ]
+        },
+        {
+          "branch": "codex/tsh-continuidade-auditoria-2026-11-13",
+          "paths": [
+            "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Transcricoes - Qi Gong e Praticas Internas/01 - Chi Kung Tai Chi e Neurociencia - Zaya H Reyes.txt"
+          ]
+        },
+        {
+          "branch": "codex/tsh-cultivo-interno-2026-11-13",
+          "paths": [
+            "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Transcricoes - Qi Gong e Praticas Internas/01 - Chi Kung Tai Chi e Neurociencia - Zaya H Reyes.txt"
+          ]
+        },
+        {
+          "branch": "codex/tsh-mapas-rim-nao-interocepcao-2026-11-13",
+          "paths": [
+            "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Transcricoes - Qi Gong e Praticas Internas/01 - Chi Kung Tai Chi e Neurociencia - Zaya H Reyes.txt"
+          ]
+        },
+        {
+          "branch": "codex/tsh-preservacao-chat-praticas-2026-11-13",
+          "paths": [
+            "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Transcricoes - Qi Gong e Praticas Internas/01 - Chi Kung Tai Chi e Neurociencia - Zaya H Reyes.txt"
+          ]
+        },
+        {
+          "branch": "main",
+          "paths": [
+            "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Transcricoes - Qi Gong e Praticas Internas/01 - Chi Kung Tai Chi e Neurociencia - Zaya H Reyes.txt"
+          ]
+        }
+      ],
+      "privacy": null
+    },
+    {
+      "name": "EIXO Integrador.md",
+      "group": "preservation_package",
+      "bytes": 8237,
+      "sha256": "22324801d9470e20c7c8eea0f54de496e629dbe33a12a65eb5cf8fc520971f0a",
+      "git_blob_sha": "f974cb93e366470e034f2fc42bb0f9554de9a969",
+      "pages": null,
+      "slides": null,
+      "main_paths": [],
+      "found_in_branches": [
+        {
+          "branch": "codex/atualiza-raio-x-e-recursos-didaticos-2026-11-01",
+          "paths": [
+            "20 - Notas Conceituais/EIXO Integrador.md"
+          ]
+        }
+      ],
+      "privacy": null
+    },
+    {
+      "name": "Este Maestro Taoísta Reveló Por Qué Estás Perdiendo Tu Energía.txt",
+      "group": "preservation_package",
+      "bytes": 21121,
+      "sha256": "4f63d9c8f9f479d296f991d75cb0f9c8082667473cd450a39914cd0fd9a3bec2",
+      "git_blob_sha": "de3e50cd72fde7e89818cbe131674ea3ef442363",
+      "pages": null,
+      "slides": null,
+      "main_paths": [
+        "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Transcricoes - Qi Gong e Praticas Internas/04 - Seis Fugas de Energia - Mensajes Ancestrales.txt"
+      ],
+      "found_in_branches": [
+        {
+          "branch": "codex/tsh-base-inicial-rohden-2026-11-13",
+          "paths": [
+            "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Transcricoes - Qi Gong e Praticas Internas/04 - Seis Fugas de Energia - Mensajes Ancestrales.txt"
+          ]
+        },
+        {
+          "branch": "codex/tsh-continuidade-auditoria-2026-11-13",
+          "paths": [
+            "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Transcricoes - Qi Gong e Praticas Internas/04 - Seis Fugas de Energia - Mensajes Ancestrales.txt"
+          ]
+        },
+        {
+          "branch": "codex/tsh-cultivo-interno-2026-11-13",
+          "paths": [
+            "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Transcricoes - Qi Gong e Praticas Internas/04 - Seis Fugas de Energia - Mensajes Ancestrales.txt"
+          ]
+        },
+        {
+          "branch": "codex/tsh-mapas-rim-nao-interocepcao-2026-11-13",
+          "paths": [
+            "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Transcricoes - Qi Gong e Praticas Internas/04 - Seis Fugas de Energia - Mensajes Ancestrales.txt"
+          ]
+        },
+        {
+          "branch": "codex/tsh-preservacao-chat-praticas-2026-11-13",
+          "paths": [
+            "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Transcricoes - Qi Gong e Praticas Internas/04 - Seis Fugas de Energia - Mensajes Ancestrales.txt"
+          ]
+        },
+        {
+          "branch": "main",
+          "paths": [
+            "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Transcricoes - Qi Gong e Praticas Internas/04 - Seis Fugas de Energia - Mensajes Ancestrales.txt"
+          ]
+        }
+      ],
+      "privacy": null
+    },
+    {
+      "name": "Existe Alguém Controlando a Voz Dentro da Sua Cabeça_ METACOGNIÇÃO.txt",
+      "group": "preservation_package",
+      "bytes": 20954,
+      "sha256": "a8f11ec946e0146753368bb0389bcc2bf9463a2c43af0c2d1a1b9b698c52316a",
+      "git_blob_sha": "9ccb150ab9dbd0371042103b1b891c11cc983886",
+      "pages": null,
+      "slides": null,
+      "main_paths": [
+        "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Transcricoes - Qi Gong e Praticas Internas/05 - Voz Interior e Metacognicao - Autoria a identificar.txt"
+      ],
+      "found_in_branches": [
+        {
+          "branch": "codex/tsh-base-inicial-rohden-2026-11-13",
+          "paths": [
+            "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Transcricoes - Qi Gong e Praticas Internas/05 - Voz Interior e Metacognicao - Autoria a identificar.txt"
+          ]
+        },
+        {
+          "branch": "codex/tsh-continuidade-auditoria-2026-11-13",
+          "paths": [
+            "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Transcricoes - Qi Gong e Praticas Internas/05 - Voz Interior e Metacognicao - Autoria a identificar.txt"
+          ]
+        },
+        {
+          "branch": "codex/tsh-cultivo-interno-2026-11-13",
+          "paths": [
+            "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Transcricoes - Qi Gong e Praticas Internas/05 - Voz Interior e Metacognicao - Autoria a identificar.txt"
+          ]
+        },
+        {
+          "branch": "codex/tsh-mapas-rim-nao-interocepcao-2026-11-13",
+          "paths": [
+            "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Transcricoes - Qi Gong e Praticas Internas/05 - Voz Interior e Metacognicao - Autoria a identificar.txt"
+          ]
+        },
+        {
+          "branch": "codex/tsh-preservacao-chat-praticas-2026-11-13",
+          "paths": [
+            "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Transcricoes - Qi Gong e Praticas Internas/05 - Voz Interior e Metacognicao - Autoria a identificar.txt"
+          ]
+        },
+        {
+          "branch": "main",
+          "paths": [
+            "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Transcricoes - Qi Gong e Praticas Internas/05 - Voz Interior e Metacognicao - Autoria a identificar.txt"
+          ]
+        }
+      ],
+      "privacy": null
+    },
+    {
+      "name": "La Neurociencia lo Confirma_ La Respiración Consciente Cambia tu Cerebro POR COMPLETO.txt",
+      "group": "preservation_package",
+      "bytes": 12521,
+      "sha256": "ad9bd833af6d9da8e18bb0b98efe13ba667a33daa8a3e6b787a4981441d26e75",
+      "git_blob_sha": "0e0ebfb8577c8cc2a33509feead82eb049aecfb0",
+      "pages": null,
+      "slides": null,
+      "main_paths": [],
+      "found_in_branches": [],
+      "privacy": null
+    },
+    {
+      "name": "POSTURA ARVORE.jpg",
+      "group": "preservation_package",
+      "bytes": 116197,
+      "sha256": "c81e6bf869302c88db81740d663873de7c5d8393b9b2564308511f97bad557b4",
+      "git_blob_sha": "28cf5f79cb09a7b20e451d004481bc871c4e57ed",
+      "pages": null,
+      "slides": null,
+      "main_paths": [],
+      "found_in_branches": [],
+      "privacy": null
+    },
+    {
+      "name": "Qi Gong completo prof. Ernesto Garcia Pró-Salus Vitae.pdf",
+      "group": "preservation_package",
+      "bytes": 4596102,
+      "sha256": "b654cd7723e663e24b39722e29b28d867b319af5f5d89ed5bfecc1a660ec1761",
+      "git_blob_sha": "e8f50a08958da9f3a4a8133d1b613f7a4e629c56",
+      "pages": null,
+      "slides": null,
+      "main_paths": [],
+      "found_in_branches": [],
+      "privacy": null
+    },
+    {
+      "name": "Qi Gong e interocepcao(1).pdf",
+      "group": "preservation_package",
+      "bytes": 8098213,
+      "sha256": "20ee516ddc3958b6b1eea649369ee8a2a5da621ce60c4001671c7472687bf23a",
+      "git_blob_sha": "1e721f7fc4bdce8143526291efa2a75a25d48e9a",
+      "pages": null,
+      "slides": null,
+      "main_paths": [
+        "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Qi Gong e interocepção - material fornecido.pdf"
+      ],
+      "found_in_branches": [
+        {
+          "branch": "codex/tsh-continuidade-auditoria-2026-11-13",
+          "paths": [
+            "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Qi Gong e interocepção - material fornecido.pdf"
+          ]
+        },
+        {
+          "branch": "codex/tsh-mapas-rim-nao-interocepcao-2026-11-13",
+          "paths": [
+            "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Qi Gong e interocepção - material fornecido.pdf"
+          ]
+        },
+        {
+          "branch": "codex/tsh-preservacao-chat-praticas-2026-11-13",
+          "paths": [
+            "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Qi Gong e interocepção - material fornecido.pdf"
+          ]
+        },
+        {
+          "branch": "main",
+          "paths": [
+            "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Qi Gong e interocepção - material fornecido.pdf"
+          ]
+        }
+      ],
+      "privacy": null
+    },
+    {
+      "name": "Qi_Gong_MTC_-_Além_das_Fronteiras[1].pptm",
+      "group": "preservation_package",
+      "bytes": 35524,
+      "sha256": "deb399a09800f3d4e8246b1379b651252c344258ee3f612b74b6ae0213ce06ae",
+      "git_blob_sha": "08b4a8229bba562ad2f08019031094e964ee7296",
+      "pages": null,
+      "slides": null,
+      "main_paths": [],
+      "found_in_branches": [],
+      "privacy": null
+    },
+    {
+      "name": "TSH_Revisao_Qi_Gong_Ernesto_Garcia.docx",
+      "group": "preservation_package",
+      "bytes": 47489,
+      "sha256": "6d9e4d2f5f00bd86e65227ef6cd3fefe185236e286c59c2939049f5567a9a437",
+      "git_blob_sha": "e1c5d03de9cef978342264bad1f4fc294cb0a505",
+      "pages": null,
+      "slides": null,
+      "main_paths": [],
+      "found_in_branches": [],
+      "privacy": null
+    },
+    {
+      "name": "Taoismo Medicina-Tradicional-Chin-esa.pdf",
+      "group": "preservation_package",
+      "bytes": 31813663,
+      "sha256": "9d6616a26e8d6756cb375aa4b2f0a85d725ef18d5f355979d0eb5b42509f34b1",
+      "git_blob_sha": "c7b920a5a12d82a9054e0ac6030d5e21378b7b15",
+      "pages": null,
+      "slides": null,
+      "main_paths": [],
+      "found_in_branches": [],
+      "privacy": null
+    },
+    {
+      "name": "caminhos-do-taoismo-pdf.pdf",
+      "group": "preservation_package",
+      "bytes": 11716188,
+      "sha256": "bb6a93fb1ab4fda38dcbd34717a0b0c483f2fe44d5cdd635060cdc2665748f92",
+      "git_blob_sha": "53d064b4d506e8c57f5df6ca955979eb382d1ca7",
+      "pages": null,
+      "slides": null,
+      "main_paths": [],
+      "found_in_branches": [],
+      "privacy": null
+    },
+    {
+      "name": "imagens pontos qi gong.pdf",
+      "group": "preservation_package",
+      "bytes": 3394486,
+      "sha256": "9a8cc215e896a5e53217137bf956084d16bcf1f0920f94a9ba20b469c46d3de7",
+      "git_blob_sha": "4999d411413540c0f9458993efcc4eb9d67ba0f7",
+      "pages": null,
+      "slides": null,
+      "main_paths": [],
+      "found_in_branches": [],
+      "privacy": null
+    },
+    {
+      "name": "🧠 Qigong y Neurociencia ➡️ ¡Evidencias Científicas sobre los BENEFICIOS! 💪🏻.txt",
+      "group": "preservation_package",
+      "bytes": 5304,
+      "sha256": "c5d6fa0c7baae21b7ed2d3ea2ef004094b37962c6ac59dba1e23ecc5fae18287",
+      "git_blob_sha": "427f2cea54259dcbc29bfef48b1e25ecc133dd9f",
+      "pages": null,
+      "slides": null,
+      "main_paths": [
+        "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Transcricoes - Qi Gong e Praticas Internas/02 - Qigong e Neurociencia - Teresa Menchen.txt"
+      ],
+      "found_in_branches": [
+        {
+          "branch": "codex/tsh-base-inicial-rohden-2026-11-13",
+          "paths": [
+            "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Transcricoes - Qi Gong e Praticas Internas/02 - Qigong e Neurociencia - Teresa Menchen.txt"
+          ]
+        },
+        {
+          "branch": "codex/tsh-continuidade-auditoria-2026-11-13",
+          "paths": [
+            "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Transcricoes - Qi Gong e Praticas Internas/02 - Qigong e Neurociencia - Teresa Menchen.txt"
+          ]
+        },
+        {
+          "branch": "codex/tsh-cultivo-interno-2026-11-13",
+          "paths": [
+            "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Transcricoes - Qi Gong e Praticas Internas/02 - Qigong e Neurociencia - Teresa Menchen.txt"
+          ]
+        },
+        {
+          "branch": "codex/tsh-mapas-rim-nao-interocepcao-2026-11-13",
+          "paths": [
+            "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Transcricoes - Qi Gong e Praticas Internas/02 - Qigong e Neurociencia - Teresa Menchen.txt"
+          ]
+        },
+        {
+          "branch": "codex/tsh-preservacao-chat-praticas-2026-11-13",
+          "paths": [
+            "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Transcricoes - Qi Gong e Praticas Internas/02 - Qigong e Neurociencia - Teresa Menchen.txt"
+          ]
+        },
+        {
+          "branch": "main",
+          "paths": [
+            "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Transcricoes - Qi Gong e Praticas Internas/02 - Qigong e Neurociencia - Teresa Menchen.txt"
+          ]
+        }
+      ],
+      "privacy": null
+    },
+    {
+      "name": "🧠 ¡QIGONG y NEUROCIENCIA! (2ª parte) I Aspectos prácticos 👈🏻.txt",
+      "group": "preservation_package",
+      "bytes": 7984,
+      "sha256": "da16875b1b1f219a4063a711209051f091b3740048bd5719e36d86432ab46868",
+      "git_blob_sha": "1c14f83bfe22275b7bec26cbcc10d6bbfb890b24",
+      "pages": null,
+      "slides": null,
+      "main_paths": [
+        "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Transcricoes - Qi Gong e Praticas Internas/03 - Qigong Neurociencia Aspectos Praticos - Teresa Menchen.txt"
+      ],
+      "found_in_branches": [
+        {
+          "branch": "codex/tsh-base-inicial-rohden-2026-11-13",
+          "paths": [
+            "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Transcricoes - Qi Gong e Praticas Internas/03 - Qigong Neurociencia Aspectos Praticos - Teresa Menchen.txt"
+          ]
+        },
+        {
+          "branch": "codex/tsh-continuidade-auditoria-2026-11-13",
+          "paths": [
+            "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Transcricoes - Qi Gong e Praticas Internas/03 - Qigong Neurociencia Aspectos Praticos - Teresa Menchen.txt"
+          ]
+        },
+        {
+          "branch": "codex/tsh-cultivo-interno-2026-11-13",
+          "paths": [
+            "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Transcricoes - Qi Gong e Praticas Internas/03 - Qigong Neurociencia Aspectos Praticos - Teresa Menchen.txt"
+          ]
+        },
+        {
+          "branch": "codex/tsh-mapas-rim-nao-interocepcao-2026-11-13",
+          "paths": [
+            "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Transcricoes - Qi Gong e Praticas Internas/03 - Qigong Neurociencia Aspectos Praticos - Teresa Menchen.txt"
+          ]
+        },
+        {
+          "branch": "codex/tsh-preservacao-chat-praticas-2026-11-13",
+          "paths": [
+            "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Transcricoes - Qi Gong e Praticas Internas/03 - Qigong Neurociencia Aspectos Praticos - Teresa Menchen.txt"
+          ]
+        },
+        {
+          "branch": "main",
+          "paths": [
+            "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Transcricoes - Qi Gong e Praticas Internas/03 - Qigong Neurociencia Aspectos Praticos - Teresa Menchen.txt"
+          ]
+        }
+      ],
+      "privacy": null
+    },
+    {
+      "name": "SHEN - JUNG.pptx.pdf",
+      "group": "later_upload",
+      "bytes": 1180270,
+      "sha256": "6d68390252c90c925145206f481802754dcdf902758c142994f4f619916ad6a7",
+      "git_blob_sha": "032088fda74398e928dc8266ed71bcd485ed6c16",
+      "pages": 34,
+      "slides": null,
+      "main_paths": [],
+      "found_in_branches": [],
+      "privacy": null
+    },
+    {
+      "name": "Wu Wei - A Arte de Viver o Tao.pdf",
+      "group": "later_upload",
+      "bytes": 849968,
+      "sha256": "6c28a83a1f39dfc8badfafd8b6f4e33977eed8f6912fa57f9bb0842b5d971673",
+      "git_blob_sha": "313c6fd7624a8a5aef3ee1c8a2867a83e0c67e2b",
+      "pages": 127,
+      "slides": null,
+      "main_paths": [],
+      "found_in_branches": [],
+      "privacy": null
+    },
+    {
+      "name": "AAlquimiaInteriorTaoista.pdf",
+      "group": "later_upload",
+      "bytes": 137428,
+      "sha256": "b3ffaa0538e5049037f92537fafc4b8c1bb26c7303adb38c8bb50a47826b3206",
+      "git_blob_sha": "2dd8628210bc55c56152dfda04edaf177b41c81c",
+      "pages": 11,
+      "slides": null,
+      "main_paths": [],
+      "found_in_branches": [],
+      "privacy": null
+    },
+    {
+      "name": "Taoismo.pptx",
+      "group": "later_upload",
+      "bytes": 21402222,
+      "sha256": "ff9549b488c25dd86153e9acb7e538edaf942d8578eb47f8245acef5c353e767",
+      "git_blob_sha": "226529d76d9299c8cf329d345fea03b7d7139795",
+      "pages": null,
+      "slides": 61,
+      "main_paths": [],
+      "found_in_branches": [],
+      "privacy": "Full PPTX must remain private; contains clinical case; not uploaded"
+    },
+    {
+      "name": "702017327-CHERNG-Wu-Jyh-Yin-Fu-Jing-TRATADO-SOBRE-A-UNIAO-OCULTA-Huandi-o-Imperador-Amarelo.pdf",
+      "group": "later_upload",
+      "bytes": 26370852,
+      "sha256": "ad5e33b10e7455ea8ba8f467a41676e217b18b9f0039d640ff6be091b8510c5c",
+      "git_blob_sha": "dd5979ca45dc0d8fb5d60d545f58a324ae2d0f6d",
+      "pages": 78,
+      "slides": null,
+      "main_paths": [],
+      "found_in_branches": [],
+      "privacy": null
+    }
+  ],
+  "additional_checks": {
+    "niebauer": {
+      "bytes": 2684867,
+      "git_blob_sha": "84a7a62ffd5c380faec3b29d0627dbaacc501680",
+      "identical_in_main": true
+    },
+    "visual_catalog": {
+      "laminas": 39,
+      "figuras": 48,
+      "diagramas_rohden": 2,
+      "total_images": 89,
+      "figure_occurrences": 53,
+      "checked_path_links": 195,
+      "missing_checked_paths": 0,
+      "module_sections": [
+        "M0",
+        "M1",
+        "M2",
+        "M3",
+        "M4",
+        "M5",
+        "M6",
+        "M7",
+        "M8"
+      ]
+    },
+    "curriculum": {
+      "unique_lesson_rows": 54
+    },
+    "transverse_deck": {
+      "git_blob_sha": "93dc48ae38a6e80d90c1da52060f12dff1bc89ad",
+      "same_previous_binary_in_main": true,
+      "source_script_explicitly_requires_reexport": true
+    }
+  },
+  "limits": [
+    "No literal complete export of all conversations was recovered.",
+    "Hash absence means no byte-identical individual file at the inspected branch heads; it does not mean the conceptual content was never evaluated.",
+    "No new full critical reading of all books, scientific revalidation, or fresh visual QA of all images is claimed.",
+    "The private Taoismo.pptx contains 61 slides; a separately identified and reviewed set of 59 slides was not verified."
+  ],
+  "recovered_prior_branch": {
+    "branch": "tsh-sentir-outro-intersubjetividade-20261107",
+    "head": "a47a832fc57d62faa63da88f4c329e3d7148d963",
+    "source_index_path": "10 - Fontes/TSH - Taoismo e cultivo - sete originais enviados 2026-11-09.md",
+    "source_index_blob": "04ea446fe30e4414a815750757d71e4d747c85e7",
+    "originals_named": 7,
+    "distinction": "Index from 09/11, not proof of seven later uploads on 13/11; it explicitly does not certify binary uploads.",
+    "additional_notes": [
+      {
+        "path": "70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/MTC e Qi Gong/TSH - Chong Mai pequena e grande circulação - comparação das fontes Pai Lin e Além das Fronteiras.md",
+        "sha": "1ab4dd9179cca080d878258b2f1cd373c9efd2a1"
+      },
+      {
+        "path": "10 - Fontes/TSH - Yang Jwing-Ming - localizadores e diálogo com cultivo Qi Gong.md",
+        "sha": "f169d3b055e202aa34714a47aaf305766f145cf7"
+      },
+      {
+        "path": "70 - Produções/Cursos/Curso - Nome Provisório/Práticas Candidatas/TSH - Percurso progressivo dos 8 encontros online - três regulações dantian Baduanjin e órbita.md",
+        "sha": "a1cfbe2bce5bba5cdfb31e6cef3b3757b36e33db"
+      },
+      {
+        "path": "70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/MTC e Qi Gong/TSH - Interocepção propriocepção exterocepção e cultivo em Qi Gong - análise do anexo 2026-11-09.md",
+        "sha": "c52570a2e58a889e94f5421f27a7194ee60e38f9"
+      }
+    ],
+    "prior_original_table": [
+      "| `-Respiracion-Embrionaria.pdf` | 407 | 41779505 | `b59bbd0f5df433c6` | Yang Jwing-Ming, *La respiración embrionaria: Meditación Qigong* (edição espanhola, Editorial Sirio; reprodução digitalizada) |",
+      "| `-Despierta-La-Luz-Curativa-Del-Tao-Mantak-Chia.pdf` | 634 | 21723687 | `1d003fb5b4465ff0` | Mantak e Maneewan Chia, *Despierta la luz curativa del Tao*, tradução de *Healing Light of the Tao* |",
+      "| `A-energia-curativa-atraves-do-tao-Mantak-Chia.pdf` | 225 | 5640483 | `6afb47684e8550d7` | Mantak Chia, *A energia curativa através do Tao* (Editora Pensamento; tradução de *Awaken Healing Energy Through the Tao*) |",
+      "| `Meditacao-Taoista.pdf` | 307 | 4541226 | `4ec0a65016510447` | Wu Jyh Cherng, *Meditação Taoísta* (Mauad X; inclui Xin Zhai Fa e Zuò Wàng Lùn) |",
+      "| `Wu Wei - A Arte de Viver o Tao.pdf` | 127 | 849968 | `6c28a83a1f39dfc8` | Theo Fischer, *Wu Wei: A Arte de Viver o Tao* |",
+      "| `caminhos_do_taoismo(1).pdf` | 330 | 5858897 | `bfd6fa8b0460c3f8` | Gilberto Antônio Silva, *Os Caminhos do Taoismo*, 1ª edição (2014), contexto histórico, filosófico, práticas e linhagens |",
+      "| `MEDITACAO-TAOISTA(1).pdf` | 78 | 510730 | `eb8e791fa9136e69` | *Meditação Taoísta: Métodos para o Cultivo da Saúde da Mente e do Corpo*, compilação de Thomas Cleary, tradução Giancarlo Salvagni |"
+    ]
+  }
+}
