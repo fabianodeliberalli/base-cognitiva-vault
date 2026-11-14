@@ -476,3 +476,7 @@ A seção 4 explicita relações com Varela/Castellanos, Forghieri, Siegel, Winn
 ## Cultivo afetivo e compaixão — 14/11/2026
 
 Consultar [[00 - Compaixão Empatia e Autocompaixão - Fundamentação e Consulta]] §§3–9 para reconhecimento/acesso/cultivo, Movimento Madeira, Ely, emoções, relação com padrões, limites e espiritualidade. Fontes em [[01 - Fontes de Compaixão e Empatia - Textos Livros e Pesquisas]]; destinos em [[02 - Compaixão e Empatia - Destinos nas Aulas e Materiais]]. A base P0/P1 continua a apoiar as experiências; as propostas CP de [[03 - Compaixão e Empatia - Práticas e Condução]] não substituem o percurso ou definem uma versão técnica nova de Fusão.
+
+## Wallace Ricard e Tonglen em diálogo com HeartMath — 14/11/2026
+
+[[04 - Ricard Wallace PUCRS e HeartMath - Fontes e Ampliações]] reúne fontes, procedência e trechos; [[05 - Tonglen e HeartMath - Correlações e Proposta de Prática]] examina aproximações e diferenças e oferece CP8; [[06 - Ricard no Laboratório de Singer - Exemplo para as Aulas]] desenvolve a história de Ricard. Retomar sobretudo em M3.7/M5.2/M5.6/M6.3/M7.6/M8.2. O diálogo com atenção, respiração e cuidado preserva os sentidos e percursos de Sorriso Interior, Fusão, Tonglen e Órbita Microcósmica; não modifica suas versões técnicas por analogia. [[01 - Fontes de Compaixão e Empatia - Textos Livros e Pesquisas]] conserva as novas referências R14–R22 e os limites pertinentes.

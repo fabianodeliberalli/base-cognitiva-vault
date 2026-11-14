@@ -2,13 +2,17 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.26"
+versao: "0.27"
 atualizado_em: 2026-11-14
 ---
 
+## Novas fontes e correlação Tonglen HeartMath — 14/11/2026
+
+Por pedido de Fabiano, [[04 - Ricard Wallace PUCRS e HeartMath - Fontes e Ampliações]] registra seis anexos, o link do HeartMath, procedência, trechos e destinos. Ricard: livro próprio escaneado para o TCC; PUCRS: apostila da pós; HeartMath: curso introdutório com treinador credenciado. [[06 - Ricard no Laboratório de Singer - Exemplo para as Aulas]] preserva a história escolhida para M5.2/M7. [[05 - Tonglen e HeartMath - Correlações e Proposta de Prática]] avalia a correlação e desenvolve CP8; R14–R22 foram acrescentadas ao inventário. Recuperar para M1/M3 (atenção/medida), M5 (fundamentos/prática), M7 (escuta/serviço/limites) e M8.2. As propostas preservam tradições e alcance das pesquisas; originais continuam nos anexos pessoais, sem publicação integral nova.
+
 ## Compaixão empatia e correlatos — consulta para produção — 14/11/2026
 
-[[00 - Compaixão Empatia e Autocompaixão - Fundamentação e Consulta]] reúne os fundamentos; [[01 - Fontes de Compaixão e Empatia - Textos Livros e Pesquisas]] localiza textos, livros, páginas e pesquisas com DOI; [[02 - Compaixão e Empatia - Destinos nas Aulas e Materiais]] distribui teoria, prática e materiais por aula; [[03 - Compaixão e Empatia - Práticas e Condução]] desenvolve sete propostas de condução. Inclui [[Paradigma - Compaixão sem Autoabandono]] e [[Mapa Conceitual - Compaixão, Limite e Responsabilidade Situada]], antes apontados no banco de aplicações. Recuperar por pertinência ao montar a aula; propostas de desenvolvimento e referências preservam seu estatuto.
+[[00 - Compaixão Empatia e Autocompaixão - Fundamentação e Consulta]] reúne os fundamentos; [[01 - Fontes de Compaixão e Empatia - Textos Livros e Pesquisas]] localiza textos, livros, páginas e pesquisas com DOI; [[02 - Compaixão e Empatia - Destinos nas Aulas e Materiais]] distribui teoria, prática e materiais por aula; [[03 - Compaixão e Empatia - Práticas e Condução]] desenvolve oito propostas de condução. Inclui [[Paradigma - Compaixão sem Autoabandono]] e [[Mapa Conceitual - Compaixão, Limite e Responsabilidade Situada]], antes apontados no banco de aplicações. Recuperar por pertinência ao montar a aula; propostas de desenvolvimento e referências preservam seu estatuto.
 
 Destinos principais: M1.2/M1.5/M1.7; M2.5–M2.6; M3.1/M3.2/M3.5–M3.7; M4.4–M4.6; M5.2/M5.5–M5.8; M6.1/M6.3/M6.6; M7.1/M7.3–M7.8; M8.2. M5.2 concentra as distinções; M4 e M7 aprofundam aplicações. A organização foi solicitada por Fabiano após a avaliação do acervo; não declara reexportação dos materiais finais.
 
