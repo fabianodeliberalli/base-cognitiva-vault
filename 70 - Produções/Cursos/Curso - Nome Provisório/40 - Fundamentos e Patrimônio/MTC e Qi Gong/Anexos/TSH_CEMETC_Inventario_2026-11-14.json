@@ -24,7 +24,10 @@
       "extension": ".md",
       "bytes": 4888,
       "sha256": "49b82d9ac1508d6ca94c5640ffdaad8aeaf62835bb4ee2b4b82d2d9b48d551a9",
-      "reading_scope": "Leitura integral; procedência declarada conferida com a composição do ZIP."
+      "reading_scope": "Leitura integral; procedência declarada conferida com a composição do ZIP.",
+      "repository_copy_path": "70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/MTC e Qi Gong/Anexos/TSH_CEMETC_Indice_de_Origem_Recebido_2026-11-14.txt",
+      "repository_copy_sha256": "49b82d9ac1508d6ca94c5640ffdaad8aeaf62835bb4ee2b4b82d2d9b48d551a9",
+      "repository_copy_scope": "Texto recebido preservado integralmente; histórico de consulta, não substitui a avaliação atual."
     },
     {
       "id": "C02",
@@ -450,7 +453,20 @@
       "extension": ".md",
       "bytes": 21610,
       "sha256": "4e6661e5c8462eb0a893506347d0023c8e13307a029eb9cd0cb29e01b625cf3b",
-      "reading_scope": "Leitura integral e conferência das doze linhas de propostas; original preservado no ZIP."
+      "reading_scope": "Leitura integral e conferência das doze linhas de propostas; original preservado no ZIP.",
+      "repository_copy_path": "70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/MTC e Qi Gong/Anexos/TSH_CEMETC_Avaliacao_Anterior_Recebida_2026-11-14.txt",
+      "repository_copy_sha256": "4e6661e5c8462eb0a893506347d0023c8e13307a029eb9cd0cb29e01b625cf3b",
+      "repository_copy_scope": "Texto recebido preservado integralmente; histórico de consulta, não substitui a avaliação atual."
     }
-  ]
+  ],
+  "report": {
+    "repository_path": "70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/MTC e Qi Gong/Anexos/TSH_CEMETC_Avaliacao_e_Destinos_Pedagogicos_2026-11-14.pdf",
+    "pages": 19,
+    "bytes": 105665,
+    "sha256": "a90d442aba61641a8c8eb8d07dd1018e18d8fc97c6b1427ca1d9fee992d4e484",
+    "library_file_id": "libfile_fde3_f-c1466791e998819186e85634152bdd3d_ad925f8fadbc81918eab9ef0eafee9a9",
+    "scope": "Caderno de avaliação e destinação; reúne as três notas de conteúdo em versão de consulta."
+  },
+  "registration_requested_by": "Fabiano Deliberalli",
+  "registration_requested_on": "2026-11-14"
 }

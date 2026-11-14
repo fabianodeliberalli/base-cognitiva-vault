@@ -111,7 +111,7 @@ O ensaio específico de Tonglen e as pesquisas de variabilidade cardíaca estão
 
 ## 5 Recuperação das doze linhas da avaliação anterior C48
 
-O original de C48 permanece no pacote. A tabela conserva suas propostas para consulta e explicita a contribuição desta conferência.
+O original de C48 permanece no pacote e também em [[70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/MTC e Qi Gong/Anexos/TSH_CEMETC_Avaliacao_Anterior_Recebida_2026-11-14.txt|Avaliação anterior recebida, texto integral]]. A tabela conserva suas propostas para consulta e explicita a contribuição desta conferência.
 
 | Linha anterior | Destino recuperado | Situação após a leitura |
 | --- | --- | --- |

@@ -52,6 +52,16 @@ O arquivo C02 organiza a teoria Thin–Qi–Shen no PDF 122–130. Seu índice a
 
 Foi possível recuperar texto além do que a nota anterior declarava acessível. Quatro arquivos apresentam o mesmo texto recuperado pelo procedimento utilizado, apesar de terem verificações de integridade diferentes; C42 acrescenta sobretudo questionários e registros da formação. Isso não comprova identidade de todas as páginas, anexos ou revisões. O conteúdo legível inclui trechos de apresentações e material avaliativo; não é possível atribuí-lo em bloco a anotações próprias de Fabiano. Os questionários e dados de estudo ficam no original pessoal. Uma exportação completa pode esclarecer a organização, mas a análise dos conceitos centrais já pode avançar com os PDFs e o PPT.
 
+### Registro integral dos textos de trabalho e caderno
+
+Fabiano solicitou em 14/11/2026 o registro de todos os materiais, ampliações, correlações e fundamentações para o TSH e a construção das aulas. Além desta avaliação e das notas 14 e 15, ficam disponíveis no repositório:
+
+- [[70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/MTC e Qi Gong/Anexos/TSH_CEMETC_Avaliacao_e_Destinos_Pedagogicos_2026-11-14.pdf|Caderno consolidado em PDF, 19 páginas]].
+- [[70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/MTC e Qi Gong/Anexos/TSH_CEMETC_Indice_de_Origem_Recebido_2026-11-14.txt|Índice de origem recebido, texto integral C01]].
+- [[70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/MTC e Qi Gong/Anexos/TSH_CEMETC_Avaliacao_Anterior_Recebida_2026-11-14.txt|Avaliação anterior recebida, texto integral C48]].
+
+Os dois textos recebidos são registros de origem: mantêm literalmente a redação e o estado documental de quando foram produzidos. As notas 13–15 oferecem a avaliação atual e os destinos; a preservação dos textos anteriores não os transforma em instruções atuais. Os 48 originais do acervo têm identificação individual, localizadores e acesso pelo pacote pessoal acima. Livros, slides e questionários continuam nesse acesso pessoal.
+
 ## 3 Como os referenciais entram no TSH
 
 A [[04 - Deliberação Transversal - Pluralismo Epistemológico Não Redutivo e Integração Autoral]], especialmente 4A e 4B, orienta recuperar, compreender e articular os saberes efetivamente selecionados e praticados por Fabiano. A MTC pode ensinar em seus próprios termos. O trabalho de fundamentação identifica quatro camadas:
