@@ -115,6 +115,8 @@ Leitura: Destinos e números antigos não governam 9/54. Extração textual não
 
 ### R06 — Fundamentação atual de MTC e Qi Gong
 
+Para a incorporação mais recente, abrir também [[11 - Leituras Recuperadas - Taoismo Shen e Transformação]], 04 §22, 05 §4 e 06 §7. A revisão anterior de Ernesto recebeu conciliação temática em 02 §1. [[00 - Catálogo de Taoismo Shen e Pontos - Fontes e Destinos]] complementa o catálogo Qi Gong/Rohden e aponta para o pacote restrito dos novos originais e pixels. A referência completa do arquivo e a sua aplicação são etapas diferentes de recuperação; ambas estão localizadas.
+
 [[08 - Mapas Rim Nao e Interocepção - Leitura e Incorporação]] reúne a leitura da apresentação e a contribuição de interocepção; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos|00 - Catálogo de Imagens e Destinos]] dá acesso às lâminas e figuras por módulo. Os cadernos 01-06 organizam progressão, movimentos, fontes, condução e as 54 aulas.
 
 Conectar tradição, formação autoral, intenções da prática, demonstração e observação do participante.
@@ -313,6 +315,8 @@ Procurar: Notas de partes e proteção, mente corporificada e interocepção; pr
 Leitura: Notas pessoais não são obras originais nem protocolos completos. A nota de auto-hipnose contém apenas cinco tópicos; não foi localizado nela um roteiro prático pronto.
 
 ### R23 — Biblioteca integral e filosófica
+
+[[11 - Leituras Recuperadas - Taoismo Shen e Transformação]] acrescenta as leituras de Cherng/Yin Fu Jing, Fischer, Niebauer, alquimia, Chia e os demais materiais recuperados, com páginas, correlações e destinos. Consultar as seções pertinentes antes de criar uma nova síntese apenas por nome de autor. O alcance de cada leitura permanece indicado; o índice dos sete livros de 09/11 é outro conjunto, com disponibilidade própria.
 
 [[07 - Rohden - Assimilação Centro e Vida Cotidiana]] — leitura e aplicação do exemplar completo de *Rumo à Consciência Cósmica*, [[70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Huberto Rohden - Rumo à Consciência Cósmica.pdf|92 páginas de PDF]]. Assimilação, Eu/ego, concentração, referência interior e presença cotidiana; destinos principais M1/M5/M6/M7/M8. O apoio a M0/M2/M3/M4 é proporcional à função registrada, sem tornar uma leitura obrigatória em todos os módulos.
 

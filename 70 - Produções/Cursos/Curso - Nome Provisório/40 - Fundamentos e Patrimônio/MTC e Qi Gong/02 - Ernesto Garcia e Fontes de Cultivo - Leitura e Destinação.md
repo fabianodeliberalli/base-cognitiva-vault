@@ -47,6 +47,23 @@ O arquivo tem características de compilação: repetições, passagens de expli
 
 A leitura interna permite reconhecer a coerência entre fundamento, atitude, exercício, continuidade e aprofundamento. Essa coerência passa a orientar a construção didática. Afirmações biomédicas que apareçam na compilação precisam de exame próprio se forem usadas como explicações científicas; isso não é requisito para apresentar a lógica tradicional em seus próprios termos.
 
+### Revisão preliminar F08: conciliação temática para a construção das aulas
+
+A revisão *TSH_Revisao_Qi_Gong_Ernesto_Garcia.docx* (F08 do pacote restrito) foi relida integralmente nesta conferência. Seu desenvolvimento foi confrontado por temas com 01/02/04/05/06; a finalidade foi recuperar contribuições para o ensino, sem declarar equivalência literal entre documentos. Os núcleos de três regulações, Song, centro/Qi Ji, complementaridade dinâmico–estático, automassagem, orientação e pequena circulação têm rotas nos cadernos atuais. A progressão atual desde M0.2, em 01/06, orienta o uso das distribuições anteriores do Word.
+
+Na compilação de origem, PDF 42–43, Te, Ziran e Pu recebem uma elaboração que estava apenas nomeada na tabela acima. A nova leitura confere essas páginas e recupera seu interesse pedagógico. A exposição corrente pode aproveitar a pergunta ou a qualidade de participação, sem exigir três termos adicionais no vocabulário inicial do aluno.
+
+| Contribuição da fonte/revisão | Correlação proposta no TSH | Destino e forma de utilização |
+| --- | --- | --- |
+| **Te:** a compilação associa o termo à potência ou qualidade particular. | Investigar capacidades e condições de expressão da singularidade. É interlocução filosófica; não estabelece identidade entre Te, Jing e Essência. | M5.2/M7.6: pergunta ou exemplo sobre o que pode ser cultivado e oferecido; fonte e discussão nas notas do professor. |
+| **Ziran:** espontaneidade e desdobramento que não são produzidos por imposição excessiva. | Refinar o esforço e reconhecer condições de participação, em diálogo com Song e a leitura de Wu Wei em 11 §5. | M4.6/M5.4: comparar a participação num gesto já aprendido e observar os efeitos de um ajuste. |
+| **Pu:** a fonte utiliza a imagem da madeira ainda não talhada e da simplicidade. | Perguntar o que pode ficar mais simples no modo de praticar e responder. No TSH, a elaboração continua considerando história, proteção e contexto. | M1.4/M3.7: selecionar poucos rótulos no mapa e construir uma versão breve da prática conhecida; aprofundamento simbólico em M5.5. |
+| **Quietude e imagem do floco de neve**, na seção de mente/intenção da revisão F08; grafia Ruchin preservada como aparece ali. | Distinguir atenção delicada de fabricação de sensações. Uma capacidade pode começar a ser aprendida antes de estar refinada. | M5.4, P5: referência docente e fala de retorno à atenção; o termo da fonte não precisa nomear uma nova técnica do curso. |
+| **Quatro direções do Qi Ji**, compilação PDF 49–50 e tabela da revisão. | Explorar subir, descer, entrar e sair na função tradicional da prática, conservando a diferença dos movimentos pedagógicos do TSH. | M3.6, P3: explicar a direção do gesto escolhido; M6.2 retoma partes e conjunto. |
+| **Conhecer o vaso e conduzir o circuito**; preparação e orientação, revisão §4 e compilação PDF 35–36. | Distinguir o mapa, a familiarização e a prática ensinada na versão de Fabiano. | M6.5/encontro M6: 04 §7/§13 e P7, com demonstração, reunião e conclusão. |
+
+Esta conciliação torna as contribuições da revisão anterior recuperáveis na preparação da aula. O Word permanece integral no pacote; as falas e práticas atuais continuam em 05/06. O diálogo com outras fontes, como a comparação de esforço e receptividade, está em [[11 - Leituras Recuperadas - Taoismo Shen e Transformação]].
+
 ## 2. Patrimônio autoral e fontes já desenvolvidas no vault
 
 | Fonte | Contribuição concreta | Destino e cuidado de utilização |

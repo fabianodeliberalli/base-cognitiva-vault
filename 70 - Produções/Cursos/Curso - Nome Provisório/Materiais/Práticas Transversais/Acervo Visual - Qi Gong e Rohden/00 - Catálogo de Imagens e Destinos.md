@@ -6,6 +6,11 @@ criado_em: 2026-11-13
 atualizado_em: 2026-11-13
 ---
 
+## Relação com os outros conjuntos disponíveis — 13/11/2026
+
+Este catálogo conserva as 89 imagens Qi Gong/Rohden na main. Para Visão Taoísta (61 slides/103 mídias), SHEN/JUNG, pontos e alquimia, abrir [[00 - Catálogo de Taoismo Shen e Pontos - Fontes e Destinos]]: esses novos pixels e os originais estão no pacote restrito, com localizadores por arquivo. Os cinco mapas autorais de potencialidades/castelos estão em [[05 - Família de Mapas - Amor Poder Sabedoria Castelos e Integração]]. São conjuntos complementares; sua função na montagem acompanha a pergunta da aula.
+
+
 # Imagens de fonte: Qi Gong e Rohden
 
 Acervo preparado a pedido de Fabiano para recuperar as imagens na fundamentação, nos roteiros, nos slides e nos materiais de cada módulo. Os destinos seguem o desenvolvimento das notas 06/07/08; as seleções adicionais são possibilidades de montagem. A disponibilidade de um arquivo não torna obrigatória sua projeção nem altera a arquitetura de nove módulos e 54 aulas.
