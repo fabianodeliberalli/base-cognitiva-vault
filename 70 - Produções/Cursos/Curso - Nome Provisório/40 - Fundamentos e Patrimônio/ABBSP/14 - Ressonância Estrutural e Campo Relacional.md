@@ -28,3 +28,7 @@ O campo inclui condições que influenciam a pessoa e condições que ela ajuda 
 Trabalhar cenas concretas: pedir tempo, mudar o tom ou comunicar um limite e observar o que acontece. Influência recíproca não significa poder igual; considerar dependência, recursos e assimetrias. Ressonância estrutural continua hipótese de aprofundamento para o educador, sem necessidade de ensinar o termo no curso geral. Aplicação transversal em M6 e M7.
 
 Fonte integrativa: [[TSH - Síntese Integrativa do Refinamento]]. Incorporação solicitada por Fabiano; práticas descritas permanecem propostas de desenvolvimento e condução autoral.
+
+## Empatia compaixão e tradução provisória — 14/11/2026
+
+[[00 - Compaixão Empatia e Autocompaixão - Fundamentação e Consulta]] §7 e [[01 - Fontes de Compaixão e Empatia - Textos Livros e Pesquisas]] articulam o TCC, Lewis Aron, Siegel, Schore e mentalização às distinções entre repercussão própria, experiência do outro e interpretação revisável. CP4 em [[03 - Compaixão e Empatia - Práticas e Condução]] desenvolve a aplicação educativa para M2.5–M2.6/M7.3. Esta correlação mantém o estatuto autoral em desenvolvimento de ressonância estrutural e não a torna sinônimo de empatia ou sincronia.

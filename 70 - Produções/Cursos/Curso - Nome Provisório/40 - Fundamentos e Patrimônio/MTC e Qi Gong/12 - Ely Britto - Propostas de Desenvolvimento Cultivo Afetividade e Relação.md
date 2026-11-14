@@ -210,3 +210,7 @@ Fontes, correlações e destinos devem ser recuperados por pertinência junto do
 Rotas complementares: [[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]]; [[04 - Caderno de Fundamentação - Cultivo Meditação Prana e Circulação]]; [[05 - Caderno de Condução - Sequências e Aprendizagens do Cultivo]]; [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH]]; [[02 - Inventário Mestre de Conteúdos Disponíveis]]; [[06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54]].
 
 Próximo ponto útil: ao produzir a aula escolhida, abrir o recorte pertinente desta nota e o original, desenvolver o ganho real e sincronizar os materiais selecionados. Não é necessário reiniciar a auditoria ampla para recuperar este conjunto.
+
+## Compaixão e empatia — correlações organizadas — 14/11/2026
+
+[[00 - Compaixão Empatia e Autocompaixão - Fundamentação e Consulta]] articula EB01/EB05 ao acervo anterior de Fabiano, a Siegel, IFS/Schwartz, Salvador, Dana, Pierrakos, Tolle, Wilber, Epstein e pesquisa. [[01 - Fontes de Compaixão e Empatia - Textos Livros e Pesquisas]] preserva fontes e localizadores; [[02 - Compaixão e Empatia - Destinos nas Aulas e Materiais]] orienta destinos; [[03 - Compaixão e Empatia - Práticas e Condução]] desenvolve aplicações pedagógicas. O cultivo intencional em Ely, a qualidade do Self em IFS e a presença compassiva em Salvador mantêm suas diferenças. As demais possibilidades e variantes das seis fontes EB01–EB06 continuam disponíveis nesta nota.

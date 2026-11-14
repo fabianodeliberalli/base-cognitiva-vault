@@ -3,12 +3,16 @@ tipo: inventario-mestre-conteudos
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: referencia-de-busca-revisavel
-versao: "1.4"
+versao: "1.5"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-21
 atualizado_em: 2026-11-14
 relacionado_a: 01 - Reconciliação da Governança do Conhecimento e Disponibilidade do Acervo
 ---
+
+## Compaixão empatia e autocompaixão — referências organizadas — 14/11/2026
+
+[[00 - Compaixão Empatia e Autocompaixão - Fundamentação e Consulta]] reúne os fundamentos; [[01 - Fontes de Compaixão e Empatia - Textos Livros e Pesquisas]] localiza textos, livros, páginas e pesquisas com DOI; [[02 - Compaixão e Empatia - Destinos nas Aulas e Materiais]] distribui teoria, prática e materiais por aula; [[03 - Compaixão e Empatia - Práticas e Condução]] desenvolve sete propostas de condução. Inclui [[Paradigma - Compaixão sem Autoabandono]] e [[Mapa Conceitual - Compaixão, Limite e Responsabilidade Situada]], antes apontados no banco de aplicações. Recuperar por pertinência ao montar a aula; propostas de desenvolvimento e referências preservam seu estatuto.
 
 ## Ely Britto — propostas de desenvolvimento disponíveis — 14/11/2026
 
