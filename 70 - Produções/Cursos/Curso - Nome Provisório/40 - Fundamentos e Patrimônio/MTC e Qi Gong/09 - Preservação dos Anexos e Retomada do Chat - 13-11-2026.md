@@ -9,6 +9,45 @@ escopo: fundamentacao-e-praticas-corporais-energeticas-contemplativas
 
 # Preservação dos anexos e retomada do chat — 13/11/2026
 
+
+## Retomada verificada após três limites de conversa — 13/11/2026
+
+Fabiano relatou três chats interrompidos pelo aviso de duração máxima e pediu continuidade com preservação dos materiais da auditoria. Esta retomada atualiza o estado verificável e mantém os registros anteriores abaixo como histórico.
+
+**Estado remoto conferido:** o [PR #58](https://github.com/fabianodeliberalli/base-cognitiva-vault/pull/58) foi integrado à `main` em **13/11/2026 às 19h56, Brasília**, no commit [`e150e3ad56304d74ec45e3a9e29601ccdf348917`](https://github.com/fabianodeliberalli/base-cognitiva-vault/commit/e150e3ad56304d74ec45e3a9e29601ccdf348917). O PR #57 também consta integrado. As passagens históricas que ainda os descrevem abertos registram a situação anterior a essa integração.
+
+| Frente | Estado e evidência | Próxima ação útil |
+| --- | --- | --- |
+| Cultivo, Rohden, mapas/interocepção e acervo visual | Base consolidada na main pelo PR #58; permanecem as rotas 01–08 e o catálogo visual. Esta retomada conferiu metadados, caminhos e fontes de continuidade, sem repetir a inspeção visual de todas as imagens. | Recuperar os trechos pertinentes na produção, sem recomeçar a auditoria já documentada. |
+| Parecer amplo de impacto | Original de dez páginas recuperado: [TSH_Auditoria_Impacto_Fundamentos_2026-11-13.docx](./Anexos/TSH_Auditoria_Impacto_Fundamentos_2026-11-13.docx); também disponível em [arquivo de origem](https://chatgpt.com/library?file_id=libfile_8b2163543e508191b86127c80543294d&account_id=personal). Cópia preservada nesta ramificação, com os bytes originais. | Usar o parecer como referência revisável e registrar as recomendações efetivamente adotadas nas notas e materiais correspondentes. |
+| Acréscimos posteriores ao parecer | Os trechos recuperados do último chat mencionam “Visão Taoísta”, relações entre Essência, proteção, wu wei, imagens, padrões e expressão; preservam sentidos próprios de Shen, Self, Essência e dantian e apontam exame do uso de Niebauer. Essa recuperação é resumo contextual, não transcrição integral nem prova de gravação desses acréscimos no GitHub. | Localizar a elaboração exata e os anexos posteriores, conferir sua preservação e registrar as contribuições antes de ampliar a análise. |
+| Produção das aulas | A preservação de fontes, roteiros textuais e imagens não comprova sincronização de todos os PowerPoints, notas, DOCX/PDF ou novas gravações. O PPTM editável continua sem recuperação comprovada. | Sincronizar primeiro M0.2, M0.3 e M1; aprofundar por destino em M3/M5/M6 e integração M7/M8, com ensaio de duração. |
+
+### Parecer de impacto: conteúdo que deve continuar recuperável
+
+O parecer favorece incorporar a elaboração integrada do dia como base fundamental e revisável do TSH: preparação desde M0/M1; repetição que refina a percepção; cultivo corporal, energético e contemplativo; assimilação/interiorização em diálogo com Rohden; transferência para relações, escolhas e vida cotidiana. A trajetória autoral desde a monografia de 2004 e o filtro de estudo, prática e clínica de Fabiano já fundamentam essa integração.
+
+Recomendações ainda devem ser distinguidas de decisões de Fabiano. Permanecem identificadas no documento: reconciliar a entrada atual de “EIXO Integrador” preservando sua genealogia; identificar práticas pelo nome/documento além dos códigos; manter a mesma versão da órbita em fala, tela, demonstração e apoio; selecionar imagens conforme sua finalidade. O arquivo “POSTURA ARVORE” inclui circulação macrocósmica/Sanchin e não basta, por seu nome, como instrução inicial de Zhan Zhuang. Estas são conclusões do parecer recuperado, sem nova avaliação técnica nesta retomada.
+
+### Preservação do original e alcance desta atualização
+
+- Fonte original: `TSH_Auditoria_Impacto_Fundamentos_2026-11-13.docx`, 52.447 bytes.
+- SHA-256: `50ce1646d804ec6137d1e8166a19eaf8e35c9f2640951e481170feec301c615d`.
+- Blob Git calculado a partir dos bytes originais: `b676af1a63e2d9201f706e9b2b607a94cd58e4f5`.
+- Ramificação desta retomada: `codex/tsh-continuidade-auditoria-2026-11-13`, criada sobre o commit de integração indicado acima. A atualização desta retomada não declara sua própria integração à main.
+- O inventário de 18 anexos e os pacotes anteriores conservam sua função de preservação. Esta retomada não certifica uma exportação integral dos três chats nem a transferência ao GitHub de todos os anexos posteriores ao parecer.
+
+### Forma de continuar esta auditoria
+
+Trabalhar em blocos delimitados por conteúdo: recuperar uma fonte ou elaboração, conferir a contribuição e o destino, preservar o resultado e registrar a próxima pendência nesta nota. Informar o caminho, a ramificação ou PR e o commit que comprovam o salvamento. Evitar reconstruir o histórico inteiro ou repetir a auditoria ampla a cada troca de conversa.
+
+O próximo bloco é **conferir e preservar os acréscimos posteriores ao parecer de impacto**, em especial a elaboração “Visão Taoísta” e seus anexos, distinguindo original preservado, leitura, incorporação e produção final. As fontes fornecidas depois do parecer incluem registros de SHEN/JUNG, Wu Wei, alquimia interior, Taoismo e Yin Fu Jing; os respectivos estados devem ser conferidos, sem transformar um nome de arquivo em confirmação de conteúdo ou de salvamento.
+
+Para uma nova conversa, fornecer somente o apontador:
+
+> Continue a auditoria do TSH pelo repositório `fabianodeliberalli/base-cognitiva-vault`, na ramificação `codex/tsh-continuidade-auditoria-2026-11-13`. Leia AGENTS.md, a ficha mínima do TSH e a seção “Retomada verificada após três limites de conversa” da nota 09 de preservação e retomada. O PR #58 já está integrado. Comece pela primeira pendência do último bloco, consulte apenas as fontes necessárias e preserve cada resultado verificável antes de ampliar o trabalho. Confira se há atualização posterior da ramificação.
+
+
 ## Conferência de Rohden, incorporações e imagens - 13/11/2026
 
 Solicitação atual: verificar resgate de Rohden, compatibilidade com a construção do chat anterior e recuperação para aulas e fundamentação; disponibilizar também as imagens do PowerPoint.
