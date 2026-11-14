@@ -3,7 +3,7 @@ tipo: inventario-mestre-conteudos
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: referencia-de-busca-revisavel
-versao: "1.6"
+versao: "1.7"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-21
 atualizado_em: 2026-11-14
@@ -581,3 +581,7 @@ Autores não são classificados como blocos científicos ou não científicos. C
 ## Ricard Wallace PUCRS HeartMath e Tonglen — 14/11/2026
 
 [[04 - Ricard Wallace PUCRS e HeartMath - Fontes e Ampliações]] oferece a identificação de NF01–NF07 e a procedência informada por Fabiano. [[06 - Ricard no Laboratório de Singer - Exemplo para as Aulas]] desenvolve o relato do laboratório de Singer; [[05 - Tonglen e HeartMath - Correlações e Proposta de Prática]] reúne fontes tradicionais, correlação com as três funções práticas do HeartMath e CP8. O inventário temático conserva R01–R22, com nove referências acrescentadas nesta etapa. Retomar pelos destinos de [[02 - Compaixão e Empatia - Destinos nas Aulas e Materiais]], sem reiniciar a auditoria ampla. Originais e suas localizações pessoais ficam identificados na nota 04 e no manifesto de fontes.
+
+## Acervo CEMETC — fontes de formação e avaliação — 14/11/2026
+
+Pacote de 48 arquivos fornecido por Fabiano: livro completo do Tomo I, capítulos em outra edição, fragmentos do Tomo II, slides, temas clínicos, cinco OneNote, fontes de terceiros e avaliação prévia. [[13 - Nogueira Pérez e CEMETC - Acupuntura Bioenergética - Fontes Correlações e Destinos]] distingue leitura dirigida, autoria, procedência e alcance; o inventário anexo localiza os originais por arquivo e página. [[14 - CEMETC - Destinos Pedagógicos Práticas e Correlações]] recupera todas as doze linhas anteriores e acrescenta situações de aprendizagem; [[15 - CEMETC - Imagens Correspondências e Materiais para as Aulas]] confere os mapas já usados por Fabiano. Consultar sobretudo para M3, com retornos nos demais módulos. Originais e questionários permanecem no pacote pessoal; os novos registros não publicam os PDFs nem atestam revisão final das aulas.

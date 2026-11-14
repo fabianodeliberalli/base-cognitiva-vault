@@ -3,7 +3,7 @@ tipo: matriz-incorporacao-conteudo
 projeto: Traduzindo o Ser Humano
 status: acervo-historico-consultivo
 uso_atual: acervo-consultivo
-versao: "2.1"
+versao: "2.2"
 criado_em: 2026-08-22
 atualizado_em: 2026-11-14
 autor: Fabiano Deliberalli
@@ -383,3 +383,7 @@ Acervo: [[TSH-escada-adaptacao-IA-scripz.png]], com fotografia original de [@scr
 ## Ampliações contemplativas e de motivação moral — 14/11/2026
 
 [[04 - Ricard Wallace PUCRS e HeartMath - Fontes e Ampliações]] e [[02 - Compaixão e Empatia - Destinos nas Aulas e Materiais]] ampliam atenção/familiarização em M1/M3, perspectiva em M2, relação com padrões em M4, compaixão/valores em M5, ambivalências em M6 e participação relacional em M7/M8. [[06 - Ricard no Laboratório de Singer - Exemplo para as Aulas]] localiza a história de Ricard para M5.2/M7.3/M7.6; [[05 - Tonglen e HeartMath - Correlações e Proposta de Prática]] desenvolve CP8 e as possibilidades de prática e fundamentação Tonglen/HeartMath. Conteúdo para seleção na montagem, sem alteração de nove módulos/54 aulas.
+
+## Acupuntura Bioenergética CEMETC — destinação para desenvolvimento — 14/11/2026
+
+[[14 - CEMETC - Destinos Pedagógicos Práticas e Correlações]] detalha as contribuições por aula, com fonte, pergunta, função e situação de aprendizagem. Prioridades: M1.2/M1.5, saber e multidimensionalidade; M3.3/M3.5/M3.6, reserva, constituição e circulação; M4.1–M4.5, diferenciação e contexto; M5.1/M5.3–M5.8, capacidades, mediação e espiritualidade; M6.1–M6.5, nutrição, medida e mapas; M7.1/M7.3/M7.4/M7.6–M7.8, relação e participação; M8.2, continuidade. A base P0/P1 permanece desde M0.2. [[13 - Nogueira Pérez e CEMETC - Acupuntura Bioenergética - Fontes Correlações e Destinos]] fundamenta; [[15 - CEMETC - Imagens Correspondências e Materiais para as Aulas]] localiza visuais. As destinações são propostas, sem substituir a seleção efetiva na montagem.
