@@ -9,14 +9,25 @@ escopo: fundamentacao-e-praticas-corporais-energeticas-contemplativas
 
 # Preservação dos anexos e retomada do chat — 13/11/2026
 
+## Ponto de retomada após nova interrupção — 13/11/2026
+
+Fabiano informou nova interrupção do chat. O relatório 10 e o PR #59 foram relidos; a consulta remota confirmou `main` em `e150e3ad56304d74ec45e3a9e29601ccdf348917` e o PR #59 aberto, em rascunho, com cabeça `99406ce2a90d7450cebed0e75987fd70ca34aa05` antes desta atualização. O diagnóstico continua sendo incorporação parcial; esta retomada não repete a auditoria dos 69 estados nem certifica novas leituras.
+
+**Instrução posterior que orienta a continuidade:** no último chat, Fabiano informou: “o power point com o caso clínico está anonimizado, pode incorporá-lo sem restrições.” A autorização aplica-se ao PowerPoint com caso clínico, identificado nesta frente como `Taoismo.pptx / Visão Taoísta`, e substitui a restrição anterior de mantê-lo privado. As passagens históricas abaixo e o JSON de evidências descrevem a situação anterior. A autorização não significa que o original ou suas imagens já tenham sido incluídos.
+
+**Primeira ação pendente:** recuperar o original de 61 slides, preservá-lo no acervo, recuperar e conferir as avaliações e as imagens para registrar contribuições e destinos nas aulas. O conjunto anunciado de 59 lâminas continua sem verificação; não é necessário condicionar a preservação do original à localização dessa derivação. Em seguida, consolidar SHEN/JUNG, alquimia interior, Yin Fu Jing e a comparação Wu Wei/Niebauer com as fontes já localizadas. Conservar a base atual 01–08 e incorporar os acréscimos por pertinência.
+
+O pedido de continuidade abrange modificações, livros, PDFs, PowerPoint e imagens, com análises, destinos para as aulas, fundamentações, correlações e ampliações. Registrar o resultado de cada bloco nesta nota e nos materiais correspondentes antes de ampliar o trabalho. A sincronização dos arquivos finais das aulas permanece pendente.
+
+
 
 ## Resultado da auditoria dos materiais — 13/11/2026
 
 [[10 - Auditoria de Preservação Avaliação e Incorporação dos Materiais - 13-11-2026]] registra a conferência atual e as evidências. Conclusão: incorporação parcial, com base substantiva em 01–08; 54 destinos de aula e 89 imagens localizáveis. Dos 18 originais do pacote, sete têm cópia idêntica na main e EIXO Integrador tem uma cópia atual em outra ramificação. Os dez restantes não foram localizados como arquivos individuais idênticos nas 69 ramificações consultadas; isso não equivale a ausência de avaliação de seus conteúdos.
 
-Foram recuperados os quatro PDFs posteriores e o original privado de Visão Taoísta (61 slides). Não foi verificado o conjunto separado de 59 lâminas anunciado. Há leituras de sete livros de 09/11 e notas de circulação/percepção/encontros na ramificação `tsh-sentir-outro-intersubjetividade-20261107`, fora da main; esse conjunto não deve ser confundido com os sete PDFs adicionais mencionados no último chat. O índice dessa ramificação distingue notas de leitura de armazenamento dos binários.
+Foram recuperados os quatro PDFs posteriores e o original de Visão Taoísta (61 slides); sua incorporação foi autorizada posteriormente por Fabiano, conforme o ponto de retomada acima. Não foi verificado o conjunto separado de 59 lâminas anunciado. Há leituras de sete livros de 09/11 e notas de circulação/percepção/encontros na ramificação `tsh-sentir-outro-intersubjetividade-20261107`, fora da main; esse conjunto não deve ser confundido com os sete PDFs adicionais mencionados no último chat. O índice dessa ramificação distingue notas de leitura de armazenamento dos binários.
 
-Próximo bloco útil: recuperar as avaliações mais recentes e consolidar seus destinos, preservar a restrição do caso clínico e conciliar o conteúdo exclusivo das versões localizadas. Os arquivos finais das aulas continuam com sincronização pendente. O relatório distingue essas etapas; não reiniciar a auditoria ampla como se não houvesse base documental.
+Próximo bloco útil: preservar o PowerPoint autorizado, recuperar as avaliações mais recentes e consolidar seus destinos, conciliando o conteúdo exclusivo das versões localizadas. Os arquivos finais das aulas continuam com sincronização pendente. O relatório distingue essas etapas; não reiniciar a auditoria ampla como se não houvesse base documental.
 
 
 ## Retomada verificada após três limites de conversa — 13/11/2026
@@ -54,7 +65,7 @@ O próximo bloco é **conferir e preservar os acréscimos posteriores ao parecer
 
 Para uma nova conversa, fornecer somente o apontador:
 
-> Continue a auditoria do TSH pelo repositório `fabianodeliberalli/base-cognitiva-vault`, na ramificação `codex/tsh-continuidade-auditoria-2026-11-13`. Leia AGENTS.md, a ficha mínima do TSH e a seção “Retomada verificada após três limites de conversa” da nota 09 de preservação e retomada. O PR #58 já está integrado. Comece pela primeira pendência do último bloco, consulte apenas as fontes necessárias e preserve cada resultado verificável antes de ampliar o trabalho. Confira se há atualização posterior da ramificação.
+> Continue a auditoria do TSH pelo repositório `fabianodeliberalli/base-cognitiva-vault`, na ramificação `codex/tsh-continuidade-auditoria-2026-11-13`. Leia AGENTS.md, a ficha mínima do TSH e a seção mais recente da nota 09 de preservação e retomada. O PR #58 já está integrado. Comece pela primeira pendência do último bloco, consulte apenas as fontes necessárias e preserve cada resultado verificável antes de ampliar o trabalho. Confira se há atualização posterior da ramificação.
 
 
 ## Conferência de Rohden, incorporações e imagens - 13/11/2026

@@ -2,18 +2,22 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.21"
+versao: "0.22"
 atualizado_em: 2026-11-13
 ---
 
 
+## Retomada da auditoria após nova interrupção — 13/11/2026
+
+O PR #58 já foi integrado à main no commit `e150e3ad56304d74ec45e3a9e29601ccdf348917`. O [PR #59](https://github.com/fabianodeliberalli/base-cognitiva-vault/pull/59), na ramificação `codex/tsh-continuidade-auditoria-2026-11-13`, preserva a auditoria posterior e continua aberto. [[09 - Preservação dos Anexos e Retomada do Chat - 13-11-2026]] contém o ponto de retomada mais recente e a atualização da autorização relativa ao PowerPoint. Recuperar o original e consolidar as contribuições pendentes a partir dali, sem reiniciar a auditoria ampla. A incorporação continua parcial; arquivos finais das aulas ainda precisam de sincronização.
+
 ## Resgate de Rohden e imagens - 13/11/2026
 
-[[07 - Rohden - Assimilação Centro e Vida Cotidiana]] verifica o livro completo identificado e os destinos. [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos|00 - Catálogo de Imagens e Destinos]] oferece 39 lâminas, 48 figuras da apresentação e dois diagramas de Rohden, vinculados a M0-M8 e à fundamentação. Consultar na produção; a progressão e P1B permanecem. Atualização no PR #58, sem integração à main ou reedição dos PPTX das aulas.
+[[07 - Rohden - Assimilação Centro e Vida Cotidiana]] verifica o livro completo identificado e os destinos. [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos|00 - Catálogo de Imagens e Destinos]] oferece 39 lâminas, 48 figuras da apresentação e dois diagramas de Rohden, vinculados a M0-M8 e à fundamentação. Consultar na produção; a progressão e P1B permanecem. Atualização integrada à main pelo PR #58; reedição dos PPTX das aulas permanece pendente.
 
 ## Preservação na troca de chat — 13/11/2026
 
-[[09 - Preservação dos Anexos e Retomada do Chat - 13-11-2026]] reúne os 18 arquivos recuperados e a última atualização do chat, preservada no PR #57 e ainda fora da main. A ramificação de preservação inclui essa atualização, a fonte visual de 39 lâminas, P1B e as pendências; não certifica uma transcrição literal integral do chat.
+[[09 - Preservação dos Anexos e Retomada do Chat - 13-11-2026]] reúne os 18 arquivos recuperados e a atualização do chat preservada no PR #57, posteriormente integrada à main na consolidação do PR #58; as atualizações posteriores da nota estão no PR #59. A ramificação de preservação inclui essa atualização, a fonte visual de 39 lâminas, P1B e as pendências; não certifica uma transcrição literal integral do chat.
 
 ## Cultivo corporal, energético e contemplativo — 13/11/2026
 

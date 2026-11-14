@@ -9,6 +9,8 @@ data: 2026-11-13
 
 **Conclusão: a incorporação está parcial.** A base corporal, energética e contemplativa desenvolvida nos cadernos 01–08 tem fundamentação, conduções e destinos curriculares efetivos. A conferência não permite afirmar que todos os originais e todas as avaliações dos chats estejam incorporados à versão principal do GitHub. Há arquivos preservados apenas fora do repositório, avaliações em outra ramificação e acréscimos recentes sem registro verificável.
 
+**Atualização de continuidade — 13/11/2026:** Fabiano informou que o PowerPoint com caso clínico está anonimizado e autorizou sua incorporação sem restrições. Essa instrução substitui a restrição anterior referente a `Taoismo.pptx / Visão Taoísta`. A preservação no GitHub e a consolidação das contribuições ainda não foram executadas nesta retomada; o próximo bloco está registrado na nota 09. Os dados da conferência original abaixo permanecem válidos dentro de seu alcance.
+
 Esta auditoria responde ao pedido de Fabiano de conferir o trabalho dos chats de fundamentação e impacto, após três limites de conversa. Ela verifica o que pode ser recuperado e usado na produção, sem atribuir à IA decisões autorais ainda não tomadas.
 
 ## Fontes e alcance da conferência
@@ -59,7 +61,7 @@ A disponibilidade desses arquivos e vínculos é evidência de recuperação doc
 | Wu Wei, Theo Fischer, 127 páginas | Leitura dirigida anterior localizada no índice de sete fontes de 09/11, em outra ramificação. Não foi comprovada a consolidação da comparação mais recente na main. | Original recuperado; não encontrado como arquivo individual idêntico nas ramificações consultadas. |
 | AAlquimiaInteriorTaoista, 11 páginas | Não foi localizado registro específico suficiente de sua avaliação e destinação nos materiais atuais consultados. | Original recuperado; não encontrado como arquivo individual idêntico nas ramificações consultadas. |
 | Yin Fu Jing, arquivo recebido de 78 páginas | Não foi localizado registro específico suficiente da avaliação e incorporação posterior ao parecer. | Original recuperado; não encontrado como arquivo individual idêntico nas ramificações consultadas. |
-| Taoismo.pptx / Visão Taoísta | O original tem 61 slides. A avaliação do chat é recuperável apenas parcialmente; não foi identificado e verificado o conjunto separado de 59 lâminas anunciado. | O original contém caso clínico e deve continuar privado, conforme a instrução de Fabiano. Sua ausência no repositório público é compatível com essa restrição. |
+| Taoismo.pptx / Visão Taoísta | O original tem 61 slides. A avaliação do chat é recuperável apenas parcialmente; não foi identificado e verificado o conjunto separado de 59 lâminas anunciado. | Fabiano informou posteriormente que o caso está anonimizado e autorizou incorporar o PowerPoint sem restrições. A cópia individual no GitHub continua pendente; a restrição anterior foi substituída por essa instrução. |
 | Niebauer, A ilusão do eu | O original já está na main. A nova comparação desenvolvida no último chat ainda não tem registro específico comprovado nas rotas desta frente. | Cópia de 2.684.867 bytes idêntica ao exemplar recuperado. |
 | Parecer amplo de impacto | Documento de dez páginas preservado no PR #59. Recomendação favorável à base fundamental não equivale à execução de cada ajuste recomendado. | Original Word preservado nessa ramificação; ainda fora da main na conferência. |
 | PPTX, notas e entregáveis das aulas | A documentação registra atualizações textuais e pendências de reexportação. O PPTX transversal de oito telas mantém o binário anterior; seu roteiro exige atualização da tela 2 e das notas. | Não foi certificada sincronização dos arquivos finais com as revisões mais recentes. |
@@ -91,7 +93,7 @@ Na mesma ramificação foram localizadas notas específicas sobre Yang, compara�
 ## Pendências prioritárias
 
 1. Recuperar e consolidar as avaliações mais recentes de SHEN/JUNG, alquimia interior, Yin Fu Jing e Visão Taoísta; reencontrar a comparação com Wu Wei/Niebauer e os destinos discutidos no último chat. Registrar a fonte e o alcance efetivo da leitura.
-2. Identificar quais são as 59 lâminas anunciadas, conferir texto, imagens, notas e eventual conteúdo clínico antes de qualquer inclusão no repositório público. Preservar o original privado.
+2. Preservar o original de 61 slides de Visão Taoísta, cuja incorporação foi autorizada por Fabiano por conter caso anonimizado; conferir texto, imagens e notas para distribuição por aula. Identificar separadamente as 59 lâminas anunciadas, sem condicionar a preservação do original a essa derivação.
 3. Conciliar a versão atual de EIXO Integrador já localizada, mantendo as elaborações históricas recuperáveis e o uso de eixo como recurso didático.
 4. Recuperar o conteúdo exclusivo das notas anteriores da ramificação acima e ligar as contribuições pertinentes aos cadernos, inventário e matriz atuais.
 5. Definir o destino dos originais que permanecem fora do GitHub, distinguindo preservação privada, registro de origem e arquivo utilizável na produção. A ausência de PDF público não exige divulgação integral de uma fonte privada.
