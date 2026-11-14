@@ -3,12 +3,17 @@ tipo: inventario-mestre-conteudos
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: referencia-de-busca-revisavel
-versao: "1.3"
+versao: "1.4"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-21
-atualizado_em: 2026-11-13
+atualizado_em: 2026-11-14
 relacionado_a: 01 - Reconciliação da Governança do Conhecimento e Disponibilidade do Acervo
 ---
+
+## Ely Britto — propostas de desenvolvimento disponíveis — 14/11/2026
+
+[[12 - Ely Britto - Propostas de Desenvolvimento Cultivo Afetividade e Relação]] preserva todas as possibilidades avaliadas das cinco apostilas e do PowerPoint do curso realizado por Fabiano: seis fontes (145 páginas e 42 slides), trechos, cultivo afetivo, transformação emocional, abertura/diferenciação, prazer/vitalidade, imagens, variantes, fundamentos, destinos e revisões concretas. Fontes EB01–EB06 e acesso aos originais na seção 2; destinos por aula na seção 5; aplicações na seção 6; repertório visual na seção 7. O registro é **proposta de desenvolvimento para consulta**, por solicitação de Fabiano; não atesta seleção das técnicas nem edição dos materiais finais. Os seis originais estão localizados separadamente dos 27 do pacote de recuperação anterior.
+
 
 ## Recuperação de 27 originais e leituras — 13/11/2026
 

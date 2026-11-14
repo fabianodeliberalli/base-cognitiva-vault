@@ -3,7 +3,7 @@ tipo: caderno-de-fundamentacao-do-professor
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
 criado_em: 2026-11-13
-atualizado_em: 2026-11-13
+atualizado_em: 2026-11-14
 ---
 
 # Fundamentos do cultivo, da meditação, de Prana e da circulação
@@ -466,3 +466,9 @@ A contribuição sensorial se concretiza em P1B, em 05: repetir a mesma base, va
 | Respiração e continuidade | Sexta transcrição lida integralmente; pesquisas em 11 §8. | Recuperar contexto de prática e repetição; corrigir a tradução antes de qualquer instrução. |
 
 A fonte tradicional continua podendo contribuir em seus próprios termos. A articulação psicológica e a pesquisa acrescentam recortes definidos. Esta incorporação conserva o registro autoral e as versões técnicas; não cria equivalências universais entre Shen, Self, Essência, campos e anatomia. As imagens e textos integrais novos estão preservados no pacote restrito indicado em 11; os metadados e as análises estão neste repositório.
+
+## 23. Ely Britto — possibilidades de aprofundamento — 14/11/2026
+
+[[12 - Ely Britto - Propostas de Desenvolvimento Cultivo Afetividade e Relação]] registra as cinco apostilas e o PowerPoint, por pedido de Fabiano, como propostas de desenvolvimento para consulta. Recuperar as seções 2–4 para aprofundar: cultivo de qualidades e composição da compaixão em diálogo com Amor–Poder–Sabedoria; emoção/proteção/contexto; abertura mantendo referência interna; prazer/vitalidade/expressão; imagem alquímica e elaboração; preparação, versões técnicas, repouso e transferência. Preservar os aprofundamentos de Healing Love, Fusão e canais como possibilidades a desenvolver.
+
+A seção 4 explicita relações com Varela/Castellanos, Forghieri, Siegel, Winnicott, Jung, James e o TCC, além de Garfinkel (2015), Klimecki (2014) e Ford (2018), com o alcance dos estudos. A seção 8 localiza revisões específicas; Essência, Jing e corpo espiritual conservam sentidos próprios. A proposta amplia a preparação docente; não converte as referências em equivalências, protocolos selecionados ou afirmações de eficácia das técnicas.

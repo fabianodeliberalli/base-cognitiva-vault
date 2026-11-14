@@ -2,9 +2,14 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.24"
-atualizado_em: 2026-11-13
+versao: "0.25"
+atualizado_em: 2026-11-14
 ---
+
+## Ely Britto — propostas de desenvolvimento — 14/11/2026
+
+Por pedido de Fabiano, [[12 - Ely Britto - Propostas de Desenvolvimento Cultivo Afetividade e Relação]] preserva todas as possibilidades avaliadas das cinco apostilas e do PowerPoint como propostas consultáveis para as aulas: fontes/trechos, cultivo afetivo, emoções, abertura/diferenciação, prazer/vitalidade, imagens, variantes e fundamentos. Seção 5 distribui por aula; 6 oferece aplicações; 7 localiza visuais; 8 reúne revisões específicas. Recuperar por pertinência, sem tratar o registro como seleção de técnicas ou edição final das aulas.
+
 
 
 ## Recuperação dos materiais — 13/11/2026

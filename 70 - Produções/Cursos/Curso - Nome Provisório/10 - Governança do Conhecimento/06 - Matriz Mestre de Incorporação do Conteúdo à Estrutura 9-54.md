@@ -3,12 +3,17 @@ tipo: matriz-incorporacao-conteudo
 projeto: Traduzindo o Ser Humano
 status: acervo-historico-consultivo
 uso_atual: acervo-consultivo
-versao: "1.8"
+versao: "1.9"
 criado_em: 2026-08-22
-atualizado_em: 2026-11-13
+atualizado_em: 2026-11-14
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
+
+## Ely Britto — resgate de propostas por aula — 14/11/2026
+
+Consultar [[12 - Ely Britto - Propostas de Desenvolvimento Cultivo Afetividade e Relação#5. Destinos nas aulas|destinos nas aulas]]: preparação em M0/M1; mapa/percepção em M1.4/M2/M3.2; cultivo em M3.5–M3.7; emoções/proteção em M4; qualidades, imagens e espiritualidade em M5; coordenação/circulação em M6; vitalidade, relação, consentimento e limites em M7; continuidade em M8.2. A mesma nota conserva as seis fontes, correlações, aplicações possíveis, imagens, variantes técnicas e revisões. Todas essas possibilidades ficam disponíveis como **propostas consultáveis**, sem modificação das 54 aulas ou declaração de roteiro final. Originais e localizadores na seção 2; possibilidades de aprofundamento especializado também preservadas.
+
 
 ## Leituras recuperadas para montagem — 13/11/2026
 
