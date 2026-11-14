@@ -15,6 +15,7 @@ Abrir o [pacote de originais e imagens](https://chatgpt.com/library?file_id=libf
 | --- | --- | --- |
 | Visão Taoísta | `Visuais/Taoismo/Laminas/lamina-01.png` até `lamina-61.png` | 61 lâminas completas; correspondem à ordem do original. |
 | Mídias internas do PowerPoint | `Visuais/Taoismo/Imagens_originais/` | 103 arquivos distintos por SHA-256, preservados com os nomes internos. PNG/JPEG e formatos EMF/WDP conforme a origem. |
+| PNG de HD Photo/WDP | `Visuais/Taoismo/Previsualizacoes_PNG/` | 26 cópias de consulta; originais WDP mantidos e relações XML aos slides no manifesto. |
 | PDF do PowerPoint | `Visuais/Taoismo/Exportacao/Taoismo_61_slides.pdf` | 61 páginas para consulta; não reproduz animações. |
 | SHEN/JUNG | `Visuais/Shen_Jung/Laminas/lamina-01.png` até `lamina-34.png` | 34 páginas renderizadas. |
 | Pontos de Qi Gong | `Visuais/Pontos_Qi_Gong/Laminas/lamina-01.png` até `lamina-16.png` | 16 páginas renderizadas. |
@@ -47,7 +48,7 @@ O PowerPoint tem 61 slides e nenhum oculto. Não foi encontrado um conjunto inde
 | 59–60 | Essência, singularidade e expressão | M5.3/M7.1/M8.2 |
 | 61 | Interdependência corporal | M1.4/M7.5 — pesquisa biológica a conferir |
 
-Para localizar uma figura isolada, procurar o número do slide em `laminas_powerpoint` do manifesto visual, copiar seu hash e reencontrá-lo em `midias_powerpoint`. Cada registro informa o nome do arquivo no pacote e os slides em que ocorre. O manifesto completo restrito também guarda posição e recorte para reconstituir o uso original. Uma mesma imagem conceitual pode ter versões com bytes diferentes.
+Para localizar uma figura isolada, procurar o número do slide em `laminas_powerpoint` do manifesto visual, copiar seu hash e reencontrá-lo em `midias_powerpoint`. Cada registro informa o nome do arquivo no pacote e os slides em que ocorre. O manifesto completo restrito também guarda posição e recorte para reconstituir o uso original. As 26 mídias WDP aparecem em relações XML de imagens da apresentação, inclusive extensões de edição; o campo `slides_com_referencia_xml` registra essa associação, que não significa uma figura independente visível em cada tela. Suas cópias PNG permitem consulta direta. As 26 mídias WDP aparecem em relações XML de imagens da apresentação, inclusive extensões de edição; o campo `slides_com_referencia_xml` registra essa associação, que não significa uma figura independente visível em cada tela. Suas cópias PNG permitem consulta direta. Uma mesma imagem conceitual pode ter versões com bytes diferentes.
 
 ## SHEN/JUNG: finalidade de cada bloco
 

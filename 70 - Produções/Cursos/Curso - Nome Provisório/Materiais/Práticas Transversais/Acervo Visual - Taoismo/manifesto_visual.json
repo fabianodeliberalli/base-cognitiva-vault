@@ -576,7 +576,11 @@
       "bytes": 95821,
       "slides": [
         1
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        1
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image2.jpeg",
@@ -585,7 +589,11 @@
       "bytes": 54130,
       "slides": [
         2
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        2
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image3.jpeg",
@@ -594,7 +602,11 @@
       "bytes": 8879,
       "slides": [
         3
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        3
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image4.jpeg",
@@ -603,7 +615,11 @@
       "bytes": 511035,
       "slides": [
         3
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        3
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image5.jpeg",
@@ -612,7 +628,11 @@
       "bytes": 22952,
       "slides": [
         4
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        4
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image6.jpeg",
@@ -621,7 +641,11 @@
       "bytes": 123755,
       "slides": [
         4
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        4
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image7.jpeg",
@@ -630,7 +654,11 @@
       "bytes": 28989,
       "slides": [
         4
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        4
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image8.jpeg",
@@ -639,7 +667,11 @@
       "bytes": 32464,
       "slides": [
         5
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        5
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image9.png",
@@ -648,7 +680,11 @@
       "bytes": 293859,
       "slides": [
         6
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        6
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image10.jpeg",
@@ -657,7 +693,11 @@
       "bytes": 53640,
       "slides": [
         7
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        7
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image11.jpeg",
@@ -666,7 +706,11 @@
       "bytes": 45163,
       "slides": [
         8
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        8
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image12.png",
@@ -675,7 +719,11 @@
       "bytes": 566558,
       "slides": [
         8
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        8
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image13.png",
@@ -684,7 +732,11 @@
       "bytes": 821958,
       "slides": [
         8
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        8
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image14.jpeg",
@@ -693,7 +745,11 @@
       "bytes": 22903,
       "slides": [
         9
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        9
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image15.jpeg",
@@ -702,7 +758,11 @@
       "bytes": 54164,
       "slides": [
         9
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        9
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image16.jpeg",
@@ -711,14 +771,22 @@
       "bytes": 14138,
       "slides": [
         9
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        9
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image17.jpg",
       "membro_pptx": "ppt/media/image17.jpg",
       "sha256": "6ca7fa8122165441861053ba61e5ee05760d45aa1ecc7a71e7e4eb0295e44aec",
       "bytes": 28462,
-      "slides": []
+      "slides": [],
+      "slides_com_referencia_xml": [
+        10
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image18.png",
@@ -728,14 +796,24 @@
       "slides": [
         11,
         57
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        11,
+        57
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto1.wdp",
       "membro_pptx": "ppt/media/hdphoto1.wdp",
       "sha256": "f494ccb526820066126d66041320ce0da2b731e8130cc67e8a76110f2692dbb0",
       "bytes": 33055,
-      "slides": []
+      "slides": [],
+      "slides_com_referencia_xml": [
+        11,
+        57
+      ],
+      "previsualizacao_png": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto1.png"
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image19.jpeg",
@@ -744,7 +822,11 @@
       "bytes": 71452,
       "slides": [
         12
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        12
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image20.jpeg",
@@ -753,7 +835,11 @@
       "bytes": 118015,
       "slides": [
         13
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        13
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image21.jpeg",
@@ -762,7 +848,11 @@
       "bytes": 8054,
       "slides": [
         14
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        14
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image22.emf",
@@ -771,7 +861,11 @@
       "bytes": 2003732,
       "slides": [
         15
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        15
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image23.jpeg",
@@ -780,7 +874,11 @@
       "bytes": 9433,
       "slides": [
         16
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        16
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image24.jpeg",
@@ -789,7 +887,11 @@
       "bytes": 7660,
       "slides": [
         17
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        17
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image25.jpeg",
@@ -798,7 +900,11 @@
       "bytes": 9230,
       "slides": [
         17
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        17
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image26.emf",
@@ -807,7 +913,11 @@
       "bytes": 731248,
       "slides": [
         18
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        18
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image27.jpeg",
@@ -816,7 +926,11 @@
       "bytes": 8661,
       "slides": [
         19
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        19
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image28.png",
@@ -825,7 +939,11 @@
       "bytes": 38137,
       "slides": [
         19
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        19
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image29.jpeg",
@@ -834,7 +952,11 @@
       "bytes": 7971,
       "slides": [
         21
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        21
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image30.jpeg",
@@ -843,7 +965,11 @@
       "bytes": 80128,
       "slides": [
         22
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        22
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image31.png",
@@ -852,14 +978,22 @@
       "bytes": 96460,
       "slides": [
         24
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        24
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto2.wdp",
       "membro_pptx": "ppt/media/hdphoto2.wdp",
       "sha256": "7798d017114b2db6a7ba16068e0dc983b2f0f59918bc4a891ad4c501e35542d8",
       "bytes": 15067,
-      "slides": []
+      "slides": [],
+      "slides_com_referencia_xml": [
+        24
+      ],
+      "previsualizacao_png": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto2.png"
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image32.png",
@@ -868,7 +1002,11 @@
       "bytes": 279119,
       "slides": [
         26
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        26
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image33.png",
@@ -878,7 +1016,12 @@
       "slides": [
         27,
         59
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        27,
+        59
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image34.png",
@@ -887,14 +1030,22 @@
       "bytes": 75555,
       "slides": [
         28
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        28
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto3.wdp",
       "membro_pptx": "ppt/media/hdphoto3.wdp",
       "sha256": "98eea6dbf9e5e6f6c7c54431b7f7717781a37c6f42a42f72db8eb76e23a53b6f",
       "bytes": 18259,
-      "slides": []
+      "slides": [],
+      "slides_com_referencia_xml": [
+        28
+      ],
+      "previsualizacao_png": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto3.png"
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image35.png",
@@ -903,14 +1054,22 @@
       "bytes": 1680673,
       "slides": [
         29
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        29
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto4.wdp",
       "membro_pptx": "ppt/media/hdphoto4.wdp",
       "sha256": "a58bfeb91b10b1eeeca03cfcef655274c07e265447c259c862d5aef69954a033",
       "bytes": 181205,
-      "slides": []
+      "slides": [],
+      "slides_com_referencia_xml": [
+        29
+      ],
+      "previsualizacao_png": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto4.png"
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image36.jpeg",
@@ -919,7 +1078,11 @@
       "bytes": 8334,
       "slides": [
         30
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        30
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image37.png",
@@ -928,14 +1091,22 @@
       "bytes": 19537,
       "slides": [
         31
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        31
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto5.wdp",
       "membro_pptx": "ppt/media/hdphoto5.wdp",
       "sha256": "5ff25ddc9978c746ecbd6387c08055efbdf4ddff38df951d22152600d530841d",
       "bytes": 19794,
-      "slides": []
+      "slides": [],
+      "slides_com_referencia_xml": [
+        31
+      ],
+      "previsualizacao_png": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto5.png"
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image38.png",
@@ -944,14 +1115,22 @@
       "bytes": 545079,
       "slides": [
         32
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        32
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto6.wdp",
       "membro_pptx": "ppt/media/hdphoto6.wdp",
       "sha256": "1bfb115d63321ad8dd0df566e133a5569bb970f82cfb93938c366109942a2cef",
       "bytes": 89093,
-      "slides": []
+      "slides": [],
+      "slides_com_referencia_xml": [
+        32
+      ],
+      "previsualizacao_png": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto6.png"
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image39.jpeg",
@@ -960,7 +1139,11 @@
       "bytes": 15964,
       "slides": [
         33
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        33
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image40.png",
@@ -969,14 +1152,22 @@
       "bytes": 411449,
       "slides": [
         33
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        33
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto7.wdp",
       "membro_pptx": "ppt/media/hdphoto7.wdp",
       "sha256": "feac20d5f6a2534c2ab887276f2ebfa4db41cee2945e0363446310ee64e45e18",
       "bytes": 60407,
-      "slides": []
+      "slides": [],
+      "slides_com_referencia_xml": [
+        33
+      ],
+      "previsualizacao_png": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto7.png"
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image41.png",
@@ -985,14 +1176,22 @@
       "bytes": 814687,
       "slides": [
         34
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        34
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto8.wdp",
       "membro_pptx": "ppt/media/hdphoto8.wdp",
       "sha256": "a534a8f0a3e61992b9668035969f1266e1e5a7e842b528346a1e6f71a3aafc08",
       "bytes": 111345,
-      "slides": []
+      "slides": [],
+      "slides_com_referencia_xml": [
+        34
+      ],
+      "previsualizacao_png": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto8.png"
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image42.png",
@@ -1001,14 +1200,22 @@
       "bytes": 1089490,
       "slides": [
         34
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        34
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto9.wdp",
       "membro_pptx": "ppt/media/hdphoto9.wdp",
       "sha256": "9f9f66a1e9d88af1675841febed33f9b197fa0d584d26f6467dd44350ca9891d",
       "bytes": 132148,
-      "slides": []
+      "slides": [],
+      "slides_com_referencia_xml": [
+        34
+      ],
+      "previsualizacao_png": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto9.png"
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image43.png",
@@ -1017,14 +1224,22 @@
       "bytes": 232159,
       "slides": [
         35
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        35
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto10.wdp",
       "membro_pptx": "ppt/media/hdphoto10.wdp",
       "sha256": "40a2c81885bbcc3c3c887462f6a1a6e016598f7afa88979104ca451c40a7531d",
       "bytes": 329826,
-      "slides": []
+      "slides": [],
+      "slides_com_referencia_xml": [
+        35
+      ],
+      "previsualizacao_png": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto10.png"
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image44.png",
@@ -1033,14 +1248,22 @@
       "bytes": 6668,
       "slides": [
         35
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        35
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto11.wdp",
       "membro_pptx": "ppt/media/hdphoto11.wdp",
       "sha256": "fc74ab956e00be60011967f5e20212d85e1401b719f06b63799ccc9981671630",
       "bytes": 10873,
-      "slides": []
+      "slides": [],
+      "slides_com_referencia_xml": [
+        35
+      ],
+      "previsualizacao_png": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto11.png"
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image45.jpeg",
@@ -1049,7 +1272,11 @@
       "bytes": 44764,
       "slides": [
         36
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        36
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image46.png",
@@ -1058,7 +1285,11 @@
       "bytes": 838360,
       "slides": [
         36
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        36
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image47.png",
@@ -1067,14 +1298,22 @@
       "bytes": 1276171,
       "slides": [
         37
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        37
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto12.wdp",
       "membro_pptx": "ppt/media/hdphoto12.wdp",
       "sha256": "3e83b78315d031a6e8f56cb16ef448b29e544f724b599b2ef98c4a48b390fb1b",
       "bytes": 379060,
-      "slides": []
+      "slides": [],
+      "slides_com_referencia_xml": [
+        37
+      ],
+      "previsualizacao_png": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto12.png"
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image48.png",
@@ -1083,14 +1322,22 @@
       "bytes": 685322,
       "slides": [
         39
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        39
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto13.wdp",
       "membro_pptx": "ppt/media/hdphoto13.wdp",
       "sha256": "0089ba8feab21ed271b1b3548bdb71f47c3220e544845b0f0f9d1d548197ccbd",
       "bytes": 128404,
-      "slides": []
+      "slides": [],
+      "slides_com_referencia_xml": [
+        39
+      ],
+      "previsualizacao_png": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto13.png"
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image49.jpeg",
@@ -1099,7 +1346,11 @@
       "bytes": 21098,
       "slides": [
         40
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        40
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image50.png",
@@ -1108,14 +1359,22 @@
       "bytes": 117412,
       "slides": [
         41
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        41
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto14.wdp",
       "membro_pptx": "ppt/media/hdphoto14.wdp",
       "sha256": "c0f580d2c0d6739387458869fa36fc73e32d06ae7d1569eb821cf514754ba17a",
       "bytes": 94581,
-      "slides": []
+      "slides": [],
+      "slides_com_referencia_xml": [
+        41
+      ],
+      "previsualizacao_png": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto14.png"
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image51.png",
@@ -1124,14 +1383,22 @@
       "bytes": 324495,
       "slides": [
         41
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        41
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto15.wdp",
       "membro_pptx": "ppt/media/hdphoto15.wdp",
       "sha256": "b72d13bedbee4500154aa1968aeec11f53b0bf205d113818e510b173e3f8df2b",
       "bytes": 230857,
-      "slides": []
+      "slides": [],
+      "slides_com_referencia_xml": [
+        41
+      ],
+      "previsualizacao_png": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto15.png"
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image52.jpeg",
@@ -1140,7 +1407,11 @@
       "bytes": 26490,
       "slides": [
         42
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        42
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image53.jpeg",
@@ -1149,7 +1420,11 @@
       "bytes": 15639,
       "slides": [
         43
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        43
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image54.jpeg",
@@ -1158,7 +1433,11 @@
       "bytes": 43995,
       "slides": [
         44
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        44
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image55.png",
@@ -1167,14 +1446,22 @@
       "bytes": 455210,
       "slides": [
         45
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        45
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto16.wdp",
       "membro_pptx": "ppt/media/hdphoto16.wdp",
       "sha256": "54ec4310ec00f75b2cbbd2059189750d1cf3036f599da3f80bdcf8ec4a0f7f71",
       "bytes": 204447,
-      "slides": []
+      "slides": [],
+      "slides_com_referencia_xml": [
+        45
+      ],
+      "previsualizacao_png": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto16.png"
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image56.png",
@@ -1183,14 +1470,22 @@
       "bytes": 69875,
       "slides": [
         46
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        46
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto17.wdp",
       "membro_pptx": "ppt/media/hdphoto17.wdp",
       "sha256": "4ea526c94ecf60c632b224816fa9ccd3fd498eb6d440ddbe620c5e45add92ad3",
       "bytes": 99335,
-      "slides": []
+      "slides": [],
+      "slides_com_referencia_xml": [
+        46
+      ],
+      "previsualizacao_png": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto17.png"
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image57.png",
@@ -1199,7 +1494,11 @@
       "bytes": 373168,
       "slides": [
         47
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        47
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image58.jpeg",
@@ -1208,7 +1507,11 @@
       "bytes": 126699,
       "slides": [
         47
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        47
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image59.png",
@@ -1217,14 +1520,22 @@
       "bytes": 537455,
       "slides": [
         47
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        47
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto18.wdp",
       "membro_pptx": "ppt/media/hdphoto18.wdp",
       "sha256": "5cd758db290899397111eb50a583860d091ed9dd56473370460894c54fc773cd",
       "bytes": 95746,
-      "slides": []
+      "slides": [],
+      "slides_com_referencia_xml": [
+        47
+      ],
+      "previsualizacao_png": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto18.png"
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image60.png",
@@ -1234,14 +1545,24 @@
       "slides": [
         48,
         53
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        48,
+        53
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto19.wdp",
       "membro_pptx": "ppt/media/hdphoto19.wdp",
       "sha256": "5365c567be902f58402d26ee72d3c09753ed9f4a7f00a5cc087534cc318b5494",
       "bytes": 157310,
-      "slides": []
+      "slides": [],
+      "slides_com_referencia_xml": [
+        48,
+        53
+      ],
+      "previsualizacao_png": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto19.png"
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image61.png",
@@ -1251,14 +1572,24 @@
       "slides": [
         48,
         49
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        48,
+        49
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto20.wdp",
       "membro_pptx": "ppt/media/hdphoto20.wdp",
       "sha256": "d5292715bc9e23fda6206809c051c40a79161d848946ad18d4b421382e350041",
       "bytes": 65966,
-      "slides": []
+      "slides": [],
+      "slides_com_referencia_xml": [
+        48,
+        49
+      ],
+      "previsualizacao_png": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto20.png"
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image62.jpeg",
@@ -1267,7 +1598,11 @@
       "bytes": 29991,
       "slides": [
         49
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        49
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image63.png",
@@ -1276,14 +1611,22 @@
       "bytes": 232003,
       "slides": [
         50
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        50
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto21.wdp",
       "membro_pptx": "ppt/media/hdphoto21.wdp",
       "sha256": "3ac16c0f918c14e5ec24ea516ca02b3d2de7eb67f7b0448c3156339c36e387f1",
       "bytes": 34510,
-      "slides": []
+      "slides": [],
+      "slides_com_referencia_xml": [
+        50
+      ],
+      "previsualizacao_png": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto21.png"
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image64.png",
@@ -1293,14 +1636,24 @@
       "slides": [
         51,
         52
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        51,
+        52
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto22.wdp",
       "membro_pptx": "ppt/media/hdphoto22.wdp",
       "sha256": "6fd235c51ebbd2c73b81c60687dad93cd4cc236a1a6713562915583cc6e47379",
       "bytes": 103950,
-      "slides": []
+      "slides": [],
+      "slides_com_referencia_xml": [
+        51,
+        52
+      ],
+      "previsualizacao_png": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto22.png"
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image65.jpeg",
@@ -1309,7 +1662,11 @@
       "bytes": 40789,
       "slides": [
         51
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        51
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image66.png",
@@ -1318,14 +1675,22 @@
       "bytes": 152637,
       "slides": [
         52
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        52
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto23.wdp",
       "membro_pptx": "ppt/media/hdphoto23.wdp",
       "sha256": "d4f7b4d67b56bfbf91e136e11ff032927c24c33b63dbf6285cc9dcea6c6ab98d",
       "bytes": 34894,
-      "slides": []
+      "slides": [],
+      "slides_com_referencia_xml": [
+        52
+      ],
+      "previsualizacao_png": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto23.png"
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image67.png",
@@ -1334,14 +1699,22 @@
       "bytes": 167651,
       "slides": [
         53
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        53
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto24.wdp",
       "membro_pptx": "ppt/media/hdphoto24.wdp",
       "sha256": "b68235fce423d1c460a98a214f936b21d04051b9c256fc8d738330563cff6986",
       "bytes": 108644,
-      "slides": []
+      "slides": [],
+      "slides_com_referencia_xml": [
+        53
+      ],
+      "previsualizacao_png": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto24.png"
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image68.png",
@@ -1350,14 +1723,22 @@
       "bytes": 12862,
       "slides": [
         54
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        54
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto25.wdp",
       "membro_pptx": "ppt/media/hdphoto25.wdp",
       "sha256": "2a0a94d9f13b70f597dd5a3791de8991d04e1bed666eced31478178022235ebe",
       "bytes": 15610,
-      "slides": []
+      "slides": [],
+      "slides_com_referencia_xml": [
+        54
+      ],
+      "previsualizacao_png": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto25.png"
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image69.jpeg",
@@ -1366,7 +1747,11 @@
       "bytes": 98473,
       "slides": [
         54
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        54
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image70.jpeg",
@@ -1375,7 +1760,11 @@
       "bytes": 89825,
       "slides": [
         54
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        54
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image71.png",
@@ -1384,7 +1773,11 @@
       "bytes": 553186,
       "slides": [
         55
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        55
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image72.jpeg",
@@ -1393,7 +1786,11 @@
       "bytes": 146048,
       "slides": [
         56
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        56
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image73.jpeg",
@@ -1402,7 +1799,11 @@
       "bytes": 16946,
       "slides": [
         56
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        56
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image74.jpeg",
@@ -1411,7 +1812,11 @@
       "bytes": 95805,
       "slides": [
         58
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        58
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image75.jpeg",
@@ -1420,14 +1825,22 @@
       "bytes": 54234,
       "slides": [
         60
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        60
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image76.jpeg",
       "membro_pptx": "ppt/media/image76.jpeg",
       "sha256": "476e56b00e54a029073e74253750d9340cb0d3042bdea06a8c45f56fd643b358",
       "bytes": 3663,
-      "slides": []
+      "slides": [],
+      "slides_com_referencia_xml": [
+        60
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/image77.png",
@@ -1436,14 +1849,22 @@
       "bytes": 366678,
       "slides": [
         61
-      ]
+      ],
+      "slides_com_referencia_xml": [
+        61
+      ],
+      "previsualizacao_png": null
     },
     {
       "arquivo_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto26.wdp",
       "membro_pptx": "ppt/media/hdphoto26.wdp",
       "sha256": "59d148f6edf85739ba792a5ba1f38e6f59bb76686821bd8cc58d3ef99d088997",
       "bytes": 101012,
-      "slides": []
+      "slides": [],
+      "slides_com_referencia_xml": [
+        61
+      ],
+      "previsualizacao_png": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto26.png"
     }
   ],
   "paginas_png": [
@@ -2178,6 +2599,190 @@
       "pagina_pdf": 11,
       "arquivo_no_pacote": "Visuais/Alquimia_Interior/Laminas/lamina-11.png",
       "sha256": "c1e54284d4bcd8a48bf3bca4530a7ccaeaf5200bfe68070215e399b588fa0619"
+    }
+  ],
+  "previsualizacoes_wdp_png": [
+    {
+      "fonte_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto1.wdp",
+      "arquivo_no_pacote": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto1.png",
+      "sha256": "1922790376150edd3959ff028827a3bb1855d55d15d84a9daba5c6afe8f182d2",
+      "largura": 240,
+      "altura": 360
+    },
+    {
+      "fonte_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto10.wdp",
+      "arquivo_no_pacote": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto10.png",
+      "sha256": "e5c3221c6bedce6374b2b85bbd8a5419d01e05392c782897f987de243b499509",
+      "largura": 1067,
+      "altura": 1242
+    },
+    {
+      "fonte_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto11.wdp",
+      "arquivo_no_pacote": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto11.png",
+      "sha256": "b140f5e9634e6334082fb9cfeff1912f054d2954ba5b226582d1361f9ac009de",
+      "largura": 264,
+      "altura": 191
+    },
+    {
+      "fonte_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto12.wdp",
+      "arquivo_no_pacote": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto12.png",
+      "sha256": "711c78efc188d35a44c10642408f2514b9da4e9af5e2e8ab088afa9087c58452",
+      "largura": 2560,
+      "altura": 1600
+    },
+    {
+      "fonte_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto13.wdp",
+      "arquivo_no_pacote": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto13.png",
+      "sha256": "d5e29a462b0264d2c01afacc35fe92bc527abb0b2eec8d874d5a8e3533118591",
+      "largura": 463,
+      "altura": 600
+    },
+    {
+      "fonte_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto14.wdp",
+      "arquivo_no_pacote": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto14.png",
+      "sha256": "c182f194073043a97066eb812a84e7bad4d63b22a8c5e9f09ac20f88e7fd8a6b",
+      "largura": 1032,
+      "altura": 686
+    },
+    {
+      "fonte_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto15.wdp",
+      "arquivo_no_pacote": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto15.png",
+      "sha256": "a80c8794bd48ec64c5614c3936ab1616a3d253ba98c75a7a9a579b1a58bcb554",
+      "largura": 1061,
+      "altura": 1263
+    },
+    {
+      "fonte_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto16.wdp",
+      "arquivo_no_pacote": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto16.png",
+      "sha256": "4956826a8d4971cadb3dbb7d95769e9ee938002bf3962a48e4900cb1ef1d800d",
+      "largura": 1280,
+      "altura": 800
+    },
+    {
+      "fonte_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto17.wdp",
+      "arquivo_no_pacote": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto17.png",
+      "sha256": "de7a14cc78469905df5ccf6a74a1d97ff2cd7aaa939a25d8fa8c9dd4c8d02213",
+      "largura": 1280,
+      "altura": 800
+    },
+    {
+      "fonte_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto18.wdp",
+      "arquivo_no_pacote": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto18.png",
+      "sha256": "e1f9151239af36e01d3591f7594b53b588ac17d5ac8b227d1f675c61d8c73c33",
+      "largura": 768,
+      "altura": 960
+    },
+    {
+      "fonte_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto19.wdp",
+      "arquivo_no_pacote": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto19.png",
+      "sha256": "2c1870e4d366ac37de64a21b361104f947989931cc26c914ef167697c33f28d4",
+      "largura": 1186,
+      "altura": 710
+    },
+    {
+      "fonte_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto2.wdp",
+      "arquivo_no_pacote": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto2.png",
+      "sha256": "efae58f232ac1932437807261657c1abe21266ab7ac1c04c07c6be79219079f6",
+      "largura": 206,
+      "altura": 245
+    },
+    {
+      "fonte_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto20.wdp",
+      "arquivo_no_pacote": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto20.png",
+      "sha256": "ac3925de06c84f3d93c72c8ef59096694051de5c2f9ddaea48d1849fa3c5c99d",
+      "largura": 768,
+      "altura": 576
+    },
+    {
+      "fonte_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto21.wdp",
+      "arquivo_no_pacote": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto21.png",
+      "sha256": "3e8d01d20ddaeba26415e2e47606d16df6c19dc5f8609c760631cadb3eb11adb",
+      "largura": 361,
+      "altura": 499
+    },
+    {
+      "fonte_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto22.wdp",
+      "arquivo_no_pacote": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto22.png",
+      "sha256": "4bd808ebec9d642d02390bfe2e06f8e41e5e6fdb9b8725457b99b5ce36f72e77",
+      "largura": 1280,
+      "altura": 800
+    },
+    {
+      "fonte_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto23.wdp",
+      "arquivo_no_pacote": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto23.png",
+      "sha256": "773051159d98aa3934bebbbcc98912d0f7c189eb686a1f5321b3ffc8a1674a4b",
+      "largura": 174,
+      "altura": 641
+    },
+    {
+      "fonte_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto24.wdp",
+      "arquivo_no_pacote": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto24.png",
+      "sha256": "d3401c3aa046261e2bf7adab43592764dfa7c9decbebbfcc4cf94a12fbed9050",
+      "largura": 627,
+      "altura": 593
+    },
+    {
+      "fonte_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto25.wdp",
+      "arquivo_no_pacote": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto25.png",
+      "sha256": "f40f565b705a39e7ebb3e59df9d9424e7ae31fb67f14422e39b56613363a8db9",
+      "largura": 310,
+      "altura": 320
+    },
+    {
+      "fonte_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto26.wdp",
+      "arquivo_no_pacote": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto26.png",
+      "sha256": "a8a361cc2052fcec7107258d442a78c711b125fb71647aa5e01ac1012b94c78d",
+      "largura": 325,
+      "altura": 499
+    },
+    {
+      "fonte_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto3.wdp",
+      "arquivo_no_pacote": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto3.png",
+      "sha256": "c378bf2c295ec29071a11a05879de59653f22a67a4812c8232f0909aa88d3be6",
+      "largura": 187,
+      "altura": 269
+    },
+    {
+      "fonte_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto4.wdp",
+      "arquivo_no_pacote": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto4.png",
+      "sha256": "e332abf098c849862ea298d66296bcc1f7f5c79cfdf043e7f15c4ba5a16441af",
+      "largura": 1206,
+      "altura": 1241
+    },
+    {
+      "fonte_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto5.wdp",
+      "arquivo_no_pacote": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto5.png",
+      "sha256": "45b773644ee1a72204e7d2c6f113328f4bd324b9abf3e131973781242d77f2eb",
+      "largura": 275,
+      "altura": 183
+    },
+    {
+      "fonte_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto6.wdp",
+      "arquivo_no_pacote": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto6.png",
+      "sha256": "4757ad5c4705cc9e66c6e04946f2a5988b41afc3afe976767a54cef881f77c0f",
+      "largura": 530,
+      "altura": 505
+    },
+    {
+      "fonte_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto7.wdp",
+      "arquivo_no_pacote": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto7.png",
+      "sha256": "dcd944da7b17428e31b5dbd7d3770fdc84f02ebb10fdf5d8844d894d08b1585b",
+      "largura": 400,
+      "altura": 580
+    },
+    {
+      "fonte_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto8.wdp",
+      "arquivo_no_pacote": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto8.png",
+      "sha256": "98cc0973814cc025b85d239e3234fe06bb22060086a8378fb877b483d7229658",
+      "largura": 818,
+      "altura": 1280
+    },
+    {
+      "fonte_no_pacote": "Visuais/Taoismo/Imagens_originais/hdphoto9.wdp",
+      "arquivo_no_pacote": "Visuais/Taoismo/Previsualizacoes_PNG/hdphoto9.png",
+      "sha256": "0d934280704b2353d0d55421ce220a37b69730b0aae93c6a86f4fdc194de52e7",
+      "largura": 768,
+      "altura": 1024
     }
   ]
 }

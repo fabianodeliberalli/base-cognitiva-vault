@@ -21,7 +21,7 @@ Esta nota resulta de fontes recuperadas e de nova leitura dirigida. Não reconst
 
 ## 1. Visão Taoísta: apresentação autoral de 61 slides
 
-**Fonte:** `Taoismo.pptx`, F27 no manifesto; 21.402.222 bytes. Foram extraídos o texto, as notas, as relações entre figuras e slides e as 103 mídias internas. O arquivo contém 61 slides e nenhum está marcado como oculto. Há uma exportação PDF com 61 páginas e uma PNG para cada slide. Não foi recuperada uma derivação independente de 59 lâminas; a ausência dessa derivação não impede recuperar o original.
+**Fonte:** `Taoismo.pptx`, F27 no manifesto; 21.402.222 bytes. Foram extraídos o texto, as notas, as relações entre figuras e slides e as 103 mídias internas. Os 26 arquivos HD Photo/WDP também receberam pré-visualização PNG, preservando os originais e as relações XML aos slides. O arquivo contém 61 slides e nenhum está marcado como oculto. Há uma exportação PDF com 61 páginas e uma PNG para cada slide. Não foi recuperada uma derivação independente de 59 lâminas; a ausência dessa derivação não impede recuperar o original.
 
 O valor autoral da apresentação está nas relações que Fabiano já construía entre cultivo, polaridade, Essência, proteção, individuação, centro e expressão. Sua incorporação preserva a trajetória e oferece matéria para desenvolver aulas atuais. A exposição antiga não é um roteiro pronto para os nove módulos.
 

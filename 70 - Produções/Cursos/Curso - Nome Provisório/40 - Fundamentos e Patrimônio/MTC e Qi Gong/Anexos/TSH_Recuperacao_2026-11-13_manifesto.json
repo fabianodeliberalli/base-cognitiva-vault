@@ -5,8 +5,8 @@
     "nome": "TSH_Recuperacao_Originais_e_Imagens_2026-11-13.zip",
     "library_file_id": "libfile_fde3_f-224e298461f88191983b1ed268ca703f_ad925f8fadbc81918eab9ef0eafee9a9",
     "url": "https://chatgpt.com/library?file_id=libfile_fde3_f-224e298461f88191983b1ed268ca703f_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal",
-    "bytes": 224179901,
-    "sha256": "e1dca35b761b17888a15778cf68740b7befcaa614740211b9d9de0b24eead29b",
+    "bytes": 235135752,
+    "sha256": "084b9c4d168884ad6f274e6f8a978f806cb039d0b0bdaf478de92aa81d38b255",
     "raiz_interna": "TSH_Recuperacao_2026-11-13"
   },
   "contagens": {
@@ -17,7 +17,8 @@
     "originais_ja_existentes_no_github": 8,
     "nota_conceitual_conciliada": 1,
     "novos_arquivos_integrais_publicados": 0,
-    "notas_anteriores_recuperadas": 8
+    "notas_anteriores_recuperadas": 8,
+    "previsualizacoes_wdp_png": 26
   },
   "originais": [
     {
