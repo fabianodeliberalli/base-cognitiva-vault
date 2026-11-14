@@ -2,14 +2,14 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.22"
+versao: "0.23"
 atualizado_em: 2026-11-13
 ---
 
 
-## Retomada da auditoria após nova interrupção — 13/11/2026
+## Recuperação dos materiais — 13/11/2026
 
-O PR #58 já foi integrado à main no commit `e150e3ad56304d74ec45e3a9e29601ccdf348917`. O [PR #59](https://github.com/fabianodeliberalli/base-cognitiva-vault/pull/59), na ramificação `codex/tsh-continuidade-auditoria-2026-11-13`, preserva a auditoria posterior e continua aberto. [[09 - Preservação dos Anexos e Retomada do Chat - 13-11-2026]] contém o ponto de retomada mais recente e a atualização da autorização relativa ao PowerPoint. Recuperar o original e consolidar as contribuições pendentes a partir dali, sem reiniciar a auditoria ampla. A incorporação continua parcial; arquivos finais das aulas ainda precisam de sincronização.
+[[11 - Leituras Recuperadas - Taoismo Shen e Transformação]] consolida 27 originais preservados em pacote restrito, Visão Taoísta com 61 slides/103 mídias, sete PDFs posteriores, Niebauer, oito notas anteriores e destinos curriculares. 04 §22 fundamenta; 05 §4 conduz; 06 §7 distribui. [[00 - Catálogo de Taoismo Shen e Pontos - Fontes e Destinos]] localiza as imagens. EIXO Integrador foi conciliado. Estado e próxima ação em [[09 - Preservação dos Anexos e Retomada do Chat - 13-11-2026]]. A base anterior está na main pelo PR #58; os novos registros estão no PR #59. A publicação dos novos originais integrais no GitHub público foi bloqueada pela revisão automática; sua preservação restrita foi concluída. Artefatos finais das aulas ainda precisam de sincronização. Retomar a produção escolhida, sem reiniciar a auditoria ampla.
 
 ## Resgate de Rohden e imagens - 13/11/2026
 

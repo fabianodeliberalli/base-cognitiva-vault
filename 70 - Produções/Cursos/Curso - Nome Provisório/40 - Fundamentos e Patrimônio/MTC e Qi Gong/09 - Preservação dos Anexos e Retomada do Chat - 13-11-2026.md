@@ -7,9 +7,22 @@ atualizado_em: 2026-11-13
 escopo: fundamentacao-e-praticas-corporais-energeticas-contemplativas
 ---
 
+## Estado atual da recuperação — 13/11/2026
+
+**Concluído:** os 27 originais recuperados foram preservados no [pacote de originais e imagens](https://chatgpt.com/library?file_id=libfile_fde3_f-224e298461f88191983b1ed268ca703f_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal), de 224.179.901 bytes, com hashes e caminhos internos. Inclui o pacote anterior de 18 anexos, sete PDFs adicionais, Niebauer e o PowerPoint anonimizado. O original Visão Taoísta tem 61 slides, nenhum oculto, 103 mídias e exportação visual completa. Foram renderizadas 122 páginas PNG no conjunto. Não foi encontrado arquivo independente de 59 lâminas.
+
+**Registro para produzir as aulas:** [[11 - Leituras Recuperadas - Taoismo Shen e Transformação]] consolida análises, alcance das leituras, correlações e destinos. 04 §22 reúne fundamentos; 05 §4 traz cinco aplicações; 06 §7 vincula as aulas. [[00 - Catálogo de Taoismo Shen e Pontos - Fontes e Destinos]] localiza as figuras. Inventário, matriz, EIXO Integrador e portas de entrada foram atualizados. Oito notas da ramificação de 09/11 foram recuperadas seletivamente; o parecer Word anterior também recebeu texto pesquisável em Anexos.
+
+**Situação no GitHub:** esta frente é registrada no [PR #59](https://github.com/fabianodeliberalli/base-cognitiva-vault/pull/59), além da main `e150e3a`, que já contém a base 01–08 e o acervo anterior. O PR contém análises e metadados; os novos originais integrais e pixels estão no pacote restrito. A revisão automática bloqueou a publicação dos originais no repositório público por risco de divulgação sensível ou de obras de terceiros. Nenhuma tentativa alternativa publicou esses arquivos após o bloqueio.
+
+**Próxima ação útil:** produzir o artefato da aula escolhida a partir de 11/06 e dos localizadores pertinentes. Os PPTX/roteiros/notas/entregáveis finais ainda precisam de sincronização no escopo de produção de cada aula. A recuperação documental não depende de repetir a auditoria dos 69 estados.
+
+**Pendências delimitadas:** publicar integrais no repositório público exige resolver o bloqueio; obter o editável real de Além das Fronteiras; recuperar exportação literal dos chats se necessária; aprofundar leituras por aula; sincronizar os artefatos finais. Os sete PDFs de 09/11 são outro conjunto e conservam o estado de disponibilidade de seu índice. As seções seguintes registram etapas anteriores e não substituem este estado.
+
+
 # Preservação dos anexos e retomada do chat — 13/11/2026
 
-## Ponto de retomada após nova interrupção — 13/11/2026
+## Histórico — ponto de retomada anterior — 13/11/2026
 
 Fabiano informou nova interrupção do chat. O relatório 10 e o PR #59 foram relidos; a consulta remota confirmou `main` em `e150e3ad56304d74ec45e3a9e29601ccdf348917` e o PR #59 aberto, em rascunho, com cabeça `99406ce2a90d7450cebed0e75987fd70ca34aa05` antes desta atualização. O diagnóstico continua sendo incorporação parcial; esta retomada não repete a auditoria dos 69 estados nem certifica novas leituras.
 

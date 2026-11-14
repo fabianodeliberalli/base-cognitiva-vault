@@ -5,6 +5,11 @@ status: referencia-de-trabalho-revisavel
 data: 2026-11-13
 ---
 
+## Atualização posterior a esta fotografia
+
+O diagnóstico abaixo conserva a auditoria anterior. A recuperação posterior está em [[11 - Leituras Recuperadas - Taoismo Shen e Transformação]] e no estado atual de [[09 - Preservação dos Anexos e Retomada do Chat - 13-11-2026]]. Os 27 originais recuperados e os novos visuais agora estão preservados em pacote restrito; leituras, correlações e destinos foram consolidados. O caso do PowerPoint foi autorizado por Fabiano. A publicação dos novos integrais no repositório público foi bloqueada pela revisão automática. Os arquivos finais das aulas e a integração deste PR à main continuam etapas distintas. Ler essa atualização antes de converter cada ausência histórica abaixo em nova tarefa.
+
+
 # Auditoria dos materiais dos chats: preservação, avaliação e incorporação
 
 **Conclusão: a incorporação está parcial.** A base corporal, energética e contemplativa desenvolvida nos cadernos 01–08 tem fundamentação, conduções e destinos curriculares efetivos. A conferência não permite afirmar que todos os originais e todas as avaliações dos chats estejam incorporados à versão principal do GitHub. Há arquivos preservados apenas fora do repositório, avaliações em outra ramificação e acréscimos recentes sem registro verificável.

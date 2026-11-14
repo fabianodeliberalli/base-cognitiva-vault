@@ -242,3 +242,7 @@ A aula anunciada — perceber, diferenciar e recuperar a presença — pode ofer
 | 115–120 min | Continuidade e lugar desta formação no TSH. |
 
 Essa distribuição é uma proposta. A aula aberta apresenta os primeiros tijolos e a lógica do percurso; pequena circulação e técnicas respiratórias de maior exigência pertencem ao aprofundamento com preparação e orientação próprias.
+
+## Leituras recuperadas e ampliação da base — 13/11/2026
+
+[[11 - Leituras Recuperadas - Taoismo Shen e Transformação]] consolida Visão Taoísta, SHEN/JUNG, Yin Fu Jing, alquimia, Wu Wei/Niebauer e as demais fontes recuperadas. Desenvolve imagens como investigação, capacidades envolvidas nos padrões, esforço, reciprocidade e expressão cotidiana. As contribuições reforçam o percurso já ensinado desde M0.2 e recebem destinos em 06; não acrescentam outra arquitetura. [[00 - Catálogo de Taoismo Shen e Pontos - Fontes e Destinos]] localiza as imagens, preservadas em pacote restrito, com as fontes e os contextos. A base continua articulando sentir, compreender e participar; os blocos abaixo permanecem recuperáveis.

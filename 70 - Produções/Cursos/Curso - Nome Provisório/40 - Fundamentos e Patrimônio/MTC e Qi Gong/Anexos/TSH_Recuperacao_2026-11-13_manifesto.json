@@ -1,0 +1,312 @@
+{
+  "data_local": "2026-11-13",
+  "base_git": "965239a3a6bb714612b5dd86697ed0dbe1b80dac",
+  "pacote": {
+    "nome": "TSH_Recuperacao_Originais_e_Imagens_2026-11-13.zip",
+    "library_file_id": "libfile_fde3_f-224e298461f88191983b1ed268ca703f_ad925f8fadbc81918eab9ef0eafee9a9",
+    "url": "https://chatgpt.com/library?file_id=libfile_fde3_f-224e298461f88191983b1ed268ca703f_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal",
+    "bytes": 224179901,
+    "sha256": "e1dca35b761b17888a15778cf68740b7befcaa614740211b9d9de0b24eead29b",
+    "raiz_interna": "TSH_Recuperacao_2026-11-13"
+  },
+  "contagens": {
+    "originais": 27,
+    "powerpoint_slides": 61,
+    "midias_powerpoint": 103,
+    "paginas_png": 122,
+    "originais_ja_existentes_no_github": 8,
+    "nota_conceitual_conciliada": 1,
+    "novos_arquivos_integrais_publicados": 0,
+    "notas_anteriores_recuperadas": 8
+  },
+  "originais": [
+    {
+      "id": "F01",
+      "nome_recebido": "Qi Gong completo prof. Ernesto Garcia Pró-Salus Vitae.pdf",
+      "arquivo_no_pacote": "Originais/01/Qi Gong completo prof. Ernesto Garcia Pró-Salus Vitae.pdf",
+      "bytes": 4596102,
+      "sha256": "b654cd7723e663e24b39722e29b28d867b319af5f5d89ed5bfecc1a660ec1761",
+      "git_blob": "e8f50a08958da9f3a4a8133d1b613f7a4e629c56",
+      "acesso": "pacote restrito; publicação integral pública bloqueada",
+      "caminhos_ja_existentes_no_github": []
+    },
+    {
+      "id": "F02",
+      "nome_recebido": "Chi Kung y Tai Chi Chuan NEUROCIENCIA.txt",
+      "arquivo_no_pacote": "Originais/02/Chi Kung y Tai Chi Chuan NEUROCIENCIA.txt",
+      "bytes": 14249,
+      "sha256": "300eba835f8dbbcb39677c469d7b70bd34fe32fa2dedaafea548ecc5c274c9f9",
+      "git_blob": "1a6b511d183eb5ed2297039fcd8c8d0484f38abd",
+      "acesso": "original já existente no GitHub; cópia conferida no pacote",
+      "caminhos_ja_existentes_no_github": [
+        "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Transcricoes - Qi Gong e Praticas Internas/01 - Chi Kung Tai Chi e Neurociencia - Zaya H Reyes.txt"
+      ]
+    },
+    {
+      "id": "F03",
+      "nome_recebido": "A-energia-curativa-atraves-do-tao-Mantak-Chia(1).pdf",
+      "arquivo_no_pacote": "Originais/03/A-energia-curativa-atraves-do-tao-Mantak-Chia(1).pdf",
+      "bytes": 5640483,
+      "sha256": "6afb47684e8550d740ecb7c7f213543b2728dee90a51fd09b95e59f062747991",
+      "git_blob": "ff387e5e4f6b9dc6fa9484e10edf377f972a47d9",
+      "acesso": "pacote restrito; publicação integral pública bloqueada",
+      "caminhos_ja_existentes_no_github": []
+    },
+    {
+      "id": "F04",
+      "nome_recebido": "imagens pontos qi gong.pdf",
+      "arquivo_no_pacote": "Originais/04/imagens pontos qi gong.pdf",
+      "bytes": 3394486,
+      "sha256": "9a8cc215e896a5e53217137bf956084d16bcf1f0920f94a9ba20b469c46d3de7",
+      "git_blob": "4999d411413540c0f9458993efcc4eb9d67ba0f7",
+      "acesso": "pacote restrito; publicação integral pública bloqueada",
+      "caminhos_ja_existentes_no_github": []
+    },
+    {
+      "id": "F05",
+      "nome_recebido": "🧠 Qigong y Neurociencia ➡️ ¡Evidencias Científicas sobre los BENEFICIOS! 💪🏻.txt",
+      "arquivo_no_pacote": "Originais/05/🧠 Qigong y Neurociencia ➡️ ¡Evidencias Científicas sobre los BENEFICIOS! 💪🏻.txt",
+      "bytes": 5304,
+      "sha256": "c5d6fa0c7baae21b7ed2d3ea2ef004094b37962c6ac59dba1e23ecc5fae18287",
+      "git_blob": "427f2cea54259dcbc29bfef48b1e25ecc133dd9f",
+      "acesso": "original já existente no GitHub; cópia conferida no pacote",
+      "caminhos_ja_existentes_no_github": [
+        "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Transcricoes - Qi Gong e Praticas Internas/02 - Qigong e Neurociencia - Teresa Menchen.txt"
+      ]
+    },
+    {
+      "id": "F06",
+      "nome_recebido": "3 tesouros Taoismo(1).pdf",
+      "arquivo_no_pacote": "Originais/06/3 tesouros Taoismo(1).pdf",
+      "bytes": 417515,
+      "sha256": "62a947559182ecde1c37aaa373d276b706213a5e445166b5cfe1f6dff6d2f79f",
+      "git_blob": "e125bbb22222628c01a9c4c1a81caa72a541b5b7",
+      "acesso": "pacote restrito; publicação integral pública bloqueada",
+      "caminhos_ja_existentes_no_github": []
+    },
+    {
+      "id": "F07",
+      "nome_recebido": "POSTURA ARVORE.jpg",
+      "arquivo_no_pacote": "Originais/07/POSTURA ARVORE.jpg",
+      "bytes": 116197,
+      "sha256": "c81e6bf869302c88db81740d663873de7c5d8393b9b2564308511f97bad557b4",
+      "git_blob": "28cf5f79cb09a7b20e451d004481bc871c4e57ed",
+      "acesso": "pacote restrito; publicação integral pública bloqueada",
+      "caminhos_ja_existentes_no_github": []
+    },
+    {
+      "id": "F08",
+      "nome_recebido": "TSH_Revisao_Qi_Gong_Ernesto_Garcia.docx",
+      "arquivo_no_pacote": "Originais/08/TSH_Revisao_Qi_Gong_Ernesto_Garcia.docx",
+      "bytes": 47489,
+      "sha256": "6d9e4d2f5f00bd86e65227ef6cd3fefe185236e286c59c2939049f5567a9a437",
+      "git_blob": "e1c5d03de9cef978342264bad1f4fc294cb0a505",
+      "acesso": "pacote restrito; publicação integral pública bloqueada",
+      "caminhos_ja_existentes_no_github": []
+    },
+    {
+      "id": "F09",
+      "nome_recebido": "La Neurociencia lo Confirma_ La Respiración Consciente Cambia tu Cerebro POR COMPLETO.txt",
+      "arquivo_no_pacote": "Originais/09/La Neurociencia lo Confirma_ La Respiración Consciente Cambia tu Cerebro POR COMPLETO.txt",
+      "bytes": 12521,
+      "sha256": "ad9bd833af6d9da8e18bb0b98efe13ba667a33daa8a3e6b787a4981441d26e75",
+      "git_blob": "0e0ebfb8577c8cc2a33509feead82eb049aecfb0",
+      "acesso": "pacote restrito; publicação integral pública bloqueada",
+      "caminhos_ja_existentes_no_github": []
+    },
+    {
+      "id": "F10",
+      "nome_recebido": "🧠 ¡QIGONG y NEUROCIENCIA! (2ª parte) I Aspectos prácticos 👈🏻.txt",
+      "arquivo_no_pacote": "Originais/10/🧠 ¡QIGONG y NEUROCIENCIA! (2ª parte) I Aspectos prácticos 👈🏻.txt",
+      "bytes": 7984,
+      "sha256": "da16875b1b1f219a4063a711209051f091b3740048bd5719e36d86432ab46868",
+      "git_blob": "1c14f83bfe22275b7bec26cbcc10d6bbfb890b24",
+      "acesso": "original já existente no GitHub; cópia conferida no pacote",
+      "caminhos_ja_existentes_no_github": [
+        "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Transcricoes - Qi Gong e Praticas Internas/03 - Qigong Neurociencia Aspectos Praticos - Teresa Menchen.txt"
+      ]
+    },
+    {
+      "id": "F11",
+      "nome_recebido": "Este Maestro Taoísta Reveló Por Qué Estás Perdiendo Tu Energía.txt",
+      "arquivo_no_pacote": "Originais/11/Este Maestro Taoísta Reveló Por Qué Estás Perdiendo Tu Energía.txt",
+      "bytes": 21121,
+      "sha256": "4f63d9c8f9f479d296f991d75cb0f9c8082667473cd450a39914cd0fd9a3bec2",
+      "git_blob": "de3e50cd72fde7e89818cbe131674ea3ef442363",
+      "acesso": "original já existente no GitHub; cópia conferida no pacote",
+      "caminhos_ja_existentes_no_github": [
+        "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Transcricoes - Qi Gong e Praticas Internas/04 - Seis Fugas de Energia - Mensajes Ancestrales.txt"
+      ]
+    },
+    {
+      "id": "F12",
+      "nome_recebido": "caminhos-do-taoismo-pdf.pdf",
+      "arquivo_no_pacote": "Originais/12/caminhos-do-taoismo-pdf.pdf",
+      "bytes": 11716188,
+      "sha256": "bb6a93fb1ab4fda38dcbd34717a0b0c483f2fe44d5cdd635060cdc2665748f92",
+      "git_blob": "53d064b4d506e8c57f5df6ca955979eb382d1ca7",
+      "acesso": "pacote restrito; publicação integral pública bloqueada",
+      "caminhos_ja_existentes_no_github": []
+    },
+    {
+      "id": "F13",
+      "nome_recebido": "Qi_Gong_MTC_-_Além_das_Fronteiras[1].pptm",
+      "arquivo_no_pacote": "Originais/13/Qi_Gong_MTC_-_Além_das_Fronteiras[1].pptm",
+      "bytes": 35524,
+      "sha256": "deb399a09800f3d4e8246b1379b651252c344258ee3f612b74b6ae0213ce06ae",
+      "git_blob": "08b4a8229bba562ad2f08019031094e964ee7296",
+      "acesso": "pacote restrito; publicação integral pública bloqueada",
+      "caminhos_ja_existentes_no_github": []
+    },
+    {
+      "id": "F14",
+      "nome_recebido": "Qi Gong e interocepcao(1).pdf",
+      "arquivo_no_pacote": "Originais/14/Qi Gong e interocepcao(1).pdf",
+      "bytes": 8098213,
+      "sha256": "20ee516ddc3958b6b1eea649369ee8a2a5da621ce60c4001671c7472687bf23a",
+      "git_blob": "1e721f7fc4bdce8143526291efa2a75a25d48e9a",
+      "acesso": "original já existente no GitHub; cópia conferida no pacote",
+      "caminhos_ja_existentes_no_github": [
+        "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Qi Gong e interocepção - material fornecido.pdf"
+      ]
+    },
+    {
+      "id": "F15",
+      "nome_recebido": "EIXO Integrador.md",
+      "arquivo_no_pacote": "Originais/15/EIXO Integrador.md",
+      "bytes": 8237,
+      "sha256": "22324801d9470e20c7c8eea0f54de496e629dbe33a12a65eb5cf8fc520971f0a",
+      "git_blob": "f974cb93e366470e034f2fc42bb0f9554de9a969",
+      "acesso": "nota didática conciliada no GitHub; exemplar e histórico preservados no pacote",
+      "caminhos_ja_existentes_no_github": [],
+      "nota_conciliada_github": "20 - Notas Conceituais/EIXO Integrador.md"
+    },
+    {
+      "id": "F16",
+      "nome_recebido": "-Huberto-Rohden-Rumo-a-Consciencia-Cosmica-pdf.pdf",
+      "arquivo_no_pacote": "Originais/16/-Huberto-Rohden-Rumo-a-Consciencia-Cosmica-pdf.pdf",
+      "bytes": 753977,
+      "sha256": "23468d9ad12740cae83ae763f12f7df751b26789c9bd2bbcdcb3f5a4571c2faf",
+      "git_blob": "bfcd7b5323b7470bac41d48ab8ac112dd5a4bb95",
+      "acesso": "original já existente no GitHub; cópia conferida no pacote",
+      "caminhos_ja_existentes_no_github": [
+        "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Huberto Rohden - Rumo à Consciência Cósmica.pdf"
+      ]
+    },
+    {
+      "id": "F17",
+      "nome_recebido": "Existe Alguém Controlando a Voz Dentro da Sua Cabeça_ METACOGNIÇÃO.txt",
+      "arquivo_no_pacote": "Originais/17/Existe Alguém Controlando a Voz Dentro da Sua Cabeça_ METACOGNIÇÃO.txt",
+      "bytes": 20954,
+      "sha256": "a8f11ec946e0146753368bb0389bcc2bf9463a2c43af0c2d1a1b9b698c52316a",
+      "git_blob": "9ccb150ab9dbd0371042103b1b891c11cc983886",
+      "acesso": "original já existente no GitHub; cópia conferida no pacote",
+      "caminhos_ja_existentes_no_github": [
+        "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Transcricoes - Qi Gong e Praticas Internas/05 - Voz Interior e Metacognicao - Autoria a identificar.txt"
+      ]
+    },
+    {
+      "id": "F18",
+      "nome_recebido": "Taoismo Medicina-Tradicional-Chin-esa.pdf",
+      "arquivo_no_pacote": "Originais/18/Taoismo Medicina-Tradicional-Chin-esa.pdf",
+      "bytes": 31813663,
+      "sha256": "9d6616a26e8d6756cb375aa4b2f0a85d725ef18d5f355979d0eb5b42509f34b1",
+      "git_blob": "c7b920a5a12d82a9054e0ac6030d5e21378b7b15",
+      "acesso": "pacote restrito; publicação integral pública bloqueada",
+      "caminhos_ja_existentes_no_github": []
+    },
+    {
+      "id": "F19",
+      "nome_recebido": "702017327-CHERNG-Wu-Jyh-Yin-Fu-Jing-TRATADO-SOBRE-A-UNIAO-OCULTA-Huandi-o-Imperador-Amarelo.pdf",
+      "arquivo_no_pacote": "Originais/19/702017327-CHERNG-Wu-Jyh-Yin-Fu-Jing-TRATADO-SOBRE-A-UNIAO-OCULTA-Huandi-o-Imperador-Amarelo.pdf",
+      "bytes": 26370852,
+      "sha256": "ad5e33b10e7455ea8ba8f467a41676e217b18b9f0039d640ff6be091b8510c5c",
+      "git_blob": "dd5979ca45dc0d8fb5d60d545f58a324ae2d0f6d",
+      "acesso": "pacote restrito; publicação integral pública bloqueada",
+      "caminhos_ja_existentes_no_github": []
+    },
+    {
+      "id": "F20",
+      "nome_recebido": "SHEN - JUNG.pptx.pdf",
+      "arquivo_no_pacote": "Originais/20/SHEN - JUNG.pptx.pdf",
+      "bytes": 1180270,
+      "sha256": "6d68390252c90c925145206f481802754dcdf902758c142994f4f619916ad6a7",
+      "git_blob": "032088fda74398e928dc8266ed71bcd485ed6c16",
+      "acesso": "pacote restrito; publicação integral pública bloqueada",
+      "caminhos_ja_existentes_no_github": []
+    },
+    {
+      "id": "F21",
+      "nome_recebido": "Respiração e Tao -sendero-espiritual-en-el-taoc3adsmo6.pdf",
+      "arquivo_no_pacote": "Originais/21/Respiração e Tao -sendero-espiritual-en-el-taoc3adsmo6.pdf",
+      "bytes": 562348,
+      "sha256": "c49ce3f4de33ef8592b6f1fd5152d3e3518785752ef9ee64e4816af5aedb9f41",
+      "git_blob": "e5032df8c3c41d1e9526868f018ec2075d367095",
+      "acesso": "pacote restrito; publicação integral pública bloqueada",
+      "caminhos_ja_existentes_no_github": []
+    },
+    {
+      "id": "F22",
+      "nome_recebido": "Mantak-Chia-Cura-Cosmica-1.pdf",
+      "arquivo_no_pacote": "Originais/22/Mantak-Chia-Cura-Cosmica-1.pdf",
+      "bytes": 11107153,
+      "sha256": "79bccb5324bdbfa2e390323dcc70b77e9a513d4fb2ab889c1a44cd6aef4a3b2f",
+      "git_blob": "662fcccab942394e1ad254c71c07cf93b81a152e",
+      "acesso": "pacote restrito; publicação integral pública bloqueada",
+      "caminhos_ja_existentes_no_github": []
+    },
+    {
+      "id": "F23",
+      "nome_recebido": "AAlquimiaInteriorTaoista.pdf",
+      "arquivo_no_pacote": "Originais/23/AAlquimiaInteriorTaoista.pdf",
+      "bytes": 137428,
+      "sha256": "b3ffaa0538e5049037f92537fafc4b8c1bb26c7303adb38c8bb50a47826b3206",
+      "git_blob": "2dd8628210bc55c56152dfda04edaf177b41c81c",
+      "acesso": "pacote restrito; publicação integral pública bloqueada",
+      "caminhos_ja_existentes_no_github": []
+    },
+    {
+      "id": "F24",
+      "nome_recebido": "Alquimia-Na-Clinica-Irene-Gaeta.pdf",
+      "arquivo_no_pacote": "Originais/24/Alquimia-Na-Clinica-Irene-Gaeta.pdf",
+      "bytes": 3658130,
+      "sha256": "5d40c9db099e4a2b4029473098c129bc4d29edac0113e225d014322e4c972e33",
+      "git_blob": "a23b0e8d9099bcec7577c613eb779d4e4287e38d",
+      "acesso": "pacote restrito; publicação integral pública bloqueada",
+      "caminhos_ja_existentes_no_github": []
+    },
+    {
+      "id": "F25",
+      "nome_recebido": "Wu Wei - A Arte de Viver o Tao.pdf",
+      "arquivo_no_pacote": "Originais/25/Wu Wei - A Arte de Viver o Tao.pdf",
+      "bytes": 849968,
+      "sha256": "6c28a83a1f39dfc8badfafd8b6f4e33977eed8f6912fa57f9bb0842b5d971673",
+      "git_blob": "313c6fd7624a8a5aef3ee1c8a2867a83e0c67e2b",
+      "acesso": "pacote restrito; publicação integral pública bloqueada",
+      "caminhos_ja_existentes_no_github": []
+    },
+    {
+      "id": "F26",
+      "nome_recebido": "A ilusao do eu - Chris Niebauer(1).pdf",
+      "arquivo_no_pacote": "Originais/26/A ilusao do eu - Chris Niebauer(1).pdf",
+      "bytes": 2684867,
+      "sha256": "0373b942db4aaa30b42b789f7a6351ab9dfcc6a86389000c4e867293e94f9557",
+      "git_blob": "84a7a62ffd5c380faec3b29d0627dbaacc501680",
+      "acesso": "original já existente no GitHub; cópia conferida no pacote",
+      "caminhos_ja_existentes_no_github": [
+        "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/A ilusao do eu - Chris Niebauer.pdf"
+      ]
+    },
+    {
+      "id": "F27",
+      "nome_recebido": "Taoismo.pptx",
+      "arquivo_no_pacote": "Originais/27/Taoismo.pptx",
+      "bytes": 21402222,
+      "sha256": "ff9549b488c25dd86153e9acb7e538edaf942d8578eb47f8245acef5c353e767",
+      "git_blob": "226529d76d9299c8cf329d345fea03b7d7139795",
+      "acesso": "pacote restrito; publicação integral pública bloqueada",
+      "caminhos_ja_existentes_no_github": []
+    }
+  ],
+  "estado": "Preservação restrita concluída. GitHub recebe notas de análise, destinos e metadados de recuperação. Publicação dos originais integrais em repositório público bloqueada pela revisão automática."
+}
