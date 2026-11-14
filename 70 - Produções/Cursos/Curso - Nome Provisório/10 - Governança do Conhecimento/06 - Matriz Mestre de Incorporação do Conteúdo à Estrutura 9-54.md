@@ -23,7 +23,7 @@ autoridade_de_aprovacao: Fabiano Deliberalli
 | Reciprocidade | M7.3/M7.5/M7.7/M7.8 | Escuta e referência em si; aplicação em 05. |
 | Expressão e continuidade | M1.7/M7.1/M8.2 | Cherng/Rohden e plano de transferência; aplicação em 05. |
 
-Incorporação textual concluída nesta frente. A recuperação de um original e a destinação da fonte não atestam montagem audiovisual concluída nem integração deste PR à main.
+Incorporação textual concluída nesta frente. A recuperação de um original e a destinação da fonte não atestam montagem audiovisual concluída. A homologação e o estado da integração ao repositório são acompanhados em [[09 - Preservação dos Anexos e Retomada do Chat - 13-11-2026]].
 
 
 

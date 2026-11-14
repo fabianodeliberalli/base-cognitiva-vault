@@ -2,14 +2,14 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.23"
+versao: "0.24"
 atualizado_em: 2026-11-13
 ---
 
 
 ## Recuperação dos materiais — 13/11/2026
 
-[[11 - Leituras Recuperadas - Taoismo Shen e Transformação]] consolida 27 originais preservados em pacote restrito, Visão Taoísta com 61 slides/103 mídias, sete PDFs posteriores, Niebauer, oito notas anteriores e destinos curriculares. 04 §22 fundamenta; 05 §4 conduz; 06 §7 distribui. [[00 - Catálogo de Taoismo Shen e Pontos - Fontes e Destinos]] localiza as imagens. EIXO Integrador foi conciliado. Estado e próxima ação em [[09 - Preservação dos Anexos e Retomada do Chat - 13-11-2026]]. A base anterior está na main pelo PR #58; os novos registros estão no PR #59. A publicação dos novos originais integrais no GitHub público foi bloqueada pela revisão automática; sua preservação restrita foi concluída. Artefatos finais das aulas ainda precisam de sincronização. Retomar a produção escolhida, sem reiniciar a auditoria ampla.
+[[11 - Leituras Recuperadas - Taoismo Shen e Transformação]] consolida 27 originais preservados em pacote restrito, Visão Taoísta com 61 slides/103 mídias, sete PDFs posteriores, Niebauer, oito notas anteriores e destinos curriculares. 04 §22 fundamenta; 05 §4 conduz; 06 §7 distribui. [[00 - Catálogo de Taoismo Shen e Pontos - Fontes e Destinos]] localiza as imagens. EIXO Integrador foi conciliado. Estado e próxima ação em [[09 - Preservação dos Anexos e Retomada do Chat - 13-11-2026]]. A recuperação consolidada no PR #59 foi homologada por Fabiano para integração à main, com os originais mantidos no pacote restrito. A base anterior foi integrada pelo PR #58. A publicação dos novos originais integrais no GitHub público foi bloqueada pela revisão automática; sua preservação restrita foi concluída. Artefatos finais das aulas ainda precisam de sincronização. Retomar a produção escolhida, sem reiniciar a auditoria ampla.
 
 ## Resgate de Rohden e imagens - 13/11/2026
 
