@@ -2,18 +2,22 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.21"
+versao: "0.24"
 atualizado_em: 2026-11-13
 ---
 
 
+## Recuperação dos materiais — 13/11/2026
+
+[[11 - Leituras Recuperadas - Taoismo Shen e Transformação]] consolida 27 originais preservados em pacote restrito, Visão Taoísta com 61 slides/103 mídias, sete PDFs posteriores, Niebauer, oito notas anteriores e destinos curriculares. 04 §22 fundamenta; 05 §4 conduz; 06 §7 distribui. [[00 - Catálogo de Taoismo Shen e Pontos - Fontes e Destinos]] localiza as imagens. EIXO Integrador foi conciliado. Estado e próxima ação em [[09 - Preservação dos Anexos e Retomada do Chat - 13-11-2026]]. A recuperação consolidada no PR #59 foi homologada por Fabiano para integração à main, com os originais mantidos no pacote restrito. A base anterior foi integrada pelo PR #58. A publicação dos novos originais integrais no GitHub público foi bloqueada pela revisão automática; sua preservação restrita foi concluída. Artefatos finais das aulas ainda precisam de sincronização. Retomar a produção escolhida, sem reiniciar a auditoria ampla.
+
 ## Resgate de Rohden e imagens - 13/11/2026
 
-[[07 - Rohden - Assimilação Centro e Vida Cotidiana]] verifica o livro completo identificado e os destinos. [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos|00 - Catálogo de Imagens e Destinos]] oferece 39 lâminas, 48 figuras da apresentação e dois diagramas de Rohden, vinculados a M0-M8 e à fundamentação. Consultar na produção; a progressão e P1B permanecem. Atualização no PR #58, sem integração à main ou reedição dos PPTX das aulas.
+[[07 - Rohden - Assimilação Centro e Vida Cotidiana]] verifica o livro completo identificado e os destinos. [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos|00 - Catálogo de Imagens e Destinos]] oferece 39 lâminas, 48 figuras da apresentação e dois diagramas de Rohden, vinculados a M0-M8 e à fundamentação. Consultar na produção; a progressão e P1B permanecem. Atualização integrada à main pelo PR #58; reedição dos PPTX das aulas permanece pendente.
 
 ## Preservação na troca de chat — 13/11/2026
 
-[[09 - Preservação dos Anexos e Retomada do Chat - 13-11-2026]] reúne os 18 arquivos recuperados e a última atualização do chat, preservada no PR #57 e ainda fora da main. A ramificação de preservação inclui essa atualização, a fonte visual de 39 lâminas, P1B e as pendências; não certifica uma transcrição literal integral do chat.
+[[09 - Preservação dos Anexos e Retomada do Chat - 13-11-2026]] reúne os 18 arquivos recuperados e a atualização do chat preservada no PR #57, posteriormente integrada à main na consolidação do PR #58; as atualizações posteriores da nota estão no PR #59. A ramificação de preservação inclui essa atualização, a fonte visual de 39 lâminas, P1B e as pendências; não certifica uma transcrição literal integral do chat.
 
 ## Cultivo corporal, energético e contemplativo — 13/11/2026
 

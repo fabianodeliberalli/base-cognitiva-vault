@@ -3,17 +3,16 @@ tipo: porta-de-entrada-de-contexto
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: referencia-atual-revisavel
-versao: "4.4"
+versao: "4.5"
 criado_em: 2026-07-21
 atualizado_em: 2026-11-13
 autor: Fabiano Deliberalli
 autoridade_de_decisao: Fabiano Deliberalli
 ---
 
-## Cultivo corporal, energético e contemplativo — 13/11/2026
+## Cultivo e recuperação — 13/11/2026
 
-[[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]]: base desde M0.2; três campos/Rim-Nao em M1; aprofundamento M3; órbita M6.5/encontro M6. Fontes 04-08; condução 05; aulas 06; Rohden [[07 - Rohden - Assimilação Centro e Vida Cotidiana]]; imagens [[00 - Catálogo de Imagens e Destinos]]. Autoria desde 2004 e filtro experiencial/clínico preservados. Binários a atualizar. Retomada: [[09 - Preservação dos Anexos e Retomada do Chat - 13-11-2026]].
-
+Base desde M0.2 em [[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]]; fundamentos 04, condução 05, aulas 06. [[11 - Leituras Recuperadas - Taoismo Shen e Transformação]] consolida 27 originais, leituras e destinos. [[00 - Catálogo de Taoismo Shen e Pontos - Fontes e Destinos]] localiza os visuais restritos. Estado/PR #59 e próxima ação em [[09 - Preservação dos Anexos e Retomada do Chat - 13-11-2026]]. Binários das aulas a sincronizar.
 
 ## Máscara, armadura e potencialidades — 12/11/2026
 

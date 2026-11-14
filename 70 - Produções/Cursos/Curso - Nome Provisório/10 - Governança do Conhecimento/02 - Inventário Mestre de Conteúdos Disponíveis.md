@@ -10,6 +10,11 @@ atualizado_em: 2026-11-13
 relacionado_a: 01 - Reconciliação da Governança do Conhecimento e Disponibilidade do Acervo
 ---
 
+## Recuperação de 27 originais e leituras — 13/11/2026
+
+[[11 - Leituras Recuperadas - Taoismo Shen e Transformação]] reúne identificação, alcance das leituras, correlações, cinco contribuições e destinos: Visão Taoísta (61 slides), SHEN/JUNG, Yin Fu Jing, Wu Wei/Niebauer, alquimia, Chia, Cherng, sexta transcrição e demais anexos. O [manifesto dos 27 originais](../40%20-%20Fundamentos%20e%20Patrimônio/MTC%20e%20Qi%20Gong/Anexos/TSH_Recuperacao_2026-11-13_manifesto.json) e [[00 - Catálogo de Taoismo Shen e Pontos - Fontes e Destinos]] localizam o pacote restrito, 103 mídias e 122 páginas PNG. Oito notas anteriores foram recuperadas seletivamente; EIXO Integrador foi conciliado. Ler a nota 11 antes de tratar as pendências históricas da auditoria 10 como estado atual. PPTX/entregáveis finais permanecem em produção.
+
+
 
 
 ## Rohden e imagens para produção - conferência de 13/11/2026

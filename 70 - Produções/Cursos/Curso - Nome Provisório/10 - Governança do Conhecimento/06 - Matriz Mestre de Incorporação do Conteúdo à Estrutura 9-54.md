@@ -10,6 +10,22 @@ autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
 
+## Leituras recuperadas para montagem — 13/11/2026
+
+[[11 - Leituras Recuperadas - Taoismo Shen e Transformação]] oferece as fontes e o alcance de cada leitura; 06 §7 distribui a incorporação por aula; [[00 - Catálogo de Taoismo Shen e Pontos - Fontes e Destinos]] localiza as figuras no pacote restrito. Os cinco acréscimos têm os seguintes destinos principais, a desenvolver no padrão da aula:
+
+| Acréscimo | Aulas | Preparação e material |
+| --- | --- | --- |
+| Experiência e interpretação | M2.3/M2.5/M2.6/M5.8 | Niebauer e P1B/P6, com revisão da explicação sobre hemisférios. |
+| Capacidade e proteção | M4.4/M4.6/M6.3/M7.4 | Visão Taoísta/Whitaker; aplicação em 05. |
+| Imagem como investigação | M5.5/M5.7 | Gaeta/Whitaker e paisagem alquímica; catálogo e aplicação em 05. |
+| Medida do esforço | M4.6/M5.4 | Fischer, Cherng e Song; repetição comparativa de gesto conhecido. |
+| Reciprocidade | M7.3/M7.5/M7.7/M7.8 | Escuta e referência em si; aplicação em 05. |
+| Expressão e continuidade | M1.7/M7.1/M8.2 | Cherng/Rohden e plano de transferência; aplicação em 05. |
+
+Incorporação textual concluída nesta frente. A recuperação de um original e a destinação da fonte não atestam montagem audiovisual concluída. A homologação e o estado da integração ao repositório são acompanhados em [[09 - Preservação dos Anexos e Retomada do Chat - 13-11-2026]].
+
+
 
 ## Rohden e imagens para produção - conferência de 13/11/2026
 

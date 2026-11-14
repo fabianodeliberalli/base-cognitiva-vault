@@ -7,7 +7,79 @@ atualizado_em: 2026-11-13
 escopo: fundamentacao-e-praticas-corporais-energeticas-contemplativas
 ---
 
+## Estado atual da recuperação — 13/11/2026
+
+**Concluído:** os 27 originais recuperados foram preservados no [pacote de originais e imagens](https://chatgpt.com/library?file_id=libfile_fde3_f-224e298461f88191983b1ed268ca703f_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal), de 235.135.752 bytes, com hashes e caminhos internos. Inclui o pacote anterior de 18 anexos, sete PDFs adicionais, Niebauer e o PowerPoint anonimizado. O original Visão Taoísta tem 61 slides, nenhum oculto, 103 mídias e exportação visual completa. Foram renderizadas 122 páginas PNG no conjunto, além de 26 pré-visualizações PNG de HD Photo/WDP. Não foi encontrado arquivo independente de 59 lâminas.
+
+**Registro para produzir as aulas:** [[11 - Leituras Recuperadas - Taoismo Shen e Transformação]] consolida análises, alcance das leituras, correlações e destinos. 04 §22 reúne fundamentos; 05 §4 traz cinco aplicações; 06 §7 vincula as aulas. [[00 - Catálogo de Taoismo Shen e Pontos - Fontes e Destinos]] localiza as figuras. Inventário, matriz, EIXO Integrador e portas de entrada foram atualizados. Oito notas da ramificação de 09/11 foram recuperadas seletivamente; o parecer Word anterior também recebeu texto pesquisável em Anexos.
+
+**Situação no GitHub e homologação:** Fabiano autorizou nesta retomada a integração desta recuperação à main pelo [PR #59](https://github.com/fabianodeliberalli/base-cognitiva-vault/pull/59), mantendo os originais no pacote de acesso restrito. O conjunto consolidado reúne as análises, os destinos curriculares e os metadados de recuperação, em continuidade à base 01–08 e ao acervo anterior. Os novos originais integrais e pixels permanecem no pacote restrito. A publicação pública desses integrais não faz parte desta integração.
+
+**Próxima ação útil:** produzir o artefato da aula escolhida a partir de 11/06 e dos localizadores pertinentes. Os PPTX/roteiros/notas/entregáveis finais ainda precisam de sincronização no escopo de produção de cada aula. A recuperação documental não depende de repetir a auditoria dos 69 estados.
+
+**Pendências delimitadas:** publicar integrais no repositório público exige resolver o bloqueio; obter o editável real de Além das Fronteiras; recuperar exportação literal dos chats se necessária; aprofundar leituras por aula; sincronizar os artefatos finais. Os sete PDFs de 09/11 são outro conjunto e conservam o estado de disponibilidade de seu índice. As seções seguintes registram etapas anteriores e não substituem este estado.
+
+
 # Preservação dos anexos e retomada do chat — 13/11/2026
+
+## Histórico — ponto de retomada anterior — 13/11/2026
+
+Fabiano informou nova interrupção do chat. O relatório 10 e o PR #59 foram relidos; a consulta remota confirmou `main` em `e150e3ad56304d74ec45e3a9e29601ccdf348917` e o PR #59 aberto, em rascunho, com cabeça `99406ce2a90d7450cebed0e75987fd70ca34aa05` antes desta atualização. O diagnóstico continua sendo incorporação parcial; esta retomada não repete a auditoria dos 69 estados nem certifica novas leituras.
+
+**Instrução posterior que orienta a continuidade:** no último chat, Fabiano informou: “o power point com o caso clínico está anonimizado, pode incorporá-lo sem restrições.” A autorização aplica-se ao PowerPoint com caso clínico, identificado nesta frente como `Taoismo.pptx / Visão Taoísta`, e substitui a restrição anterior de mantê-lo privado. As passagens históricas abaixo e o JSON de evidências descrevem a situação anterior. A autorização não significa que o original ou suas imagens já tenham sido incluídos.
+
+**Primeira ação pendente:** recuperar o original de 61 slides, preservá-lo no acervo, recuperar e conferir as avaliações e as imagens para registrar contribuições e destinos nas aulas. O conjunto anunciado de 59 lâminas continua sem verificação; não é necessário condicionar a preservação do original à localização dessa derivação. Em seguida, consolidar SHEN/JUNG, alquimia interior, Yin Fu Jing e a comparação Wu Wei/Niebauer com as fontes já localizadas. Conservar a base atual 01–08 e incorporar os acréscimos por pertinência.
+
+O pedido de continuidade abrange modificações, livros, PDFs, PowerPoint e imagens, com análises, destinos para as aulas, fundamentações, correlações e ampliações. Registrar o resultado de cada bloco nesta nota e nos materiais correspondentes antes de ampliar o trabalho. A sincronização dos arquivos finais das aulas permanece pendente.
+
+
+
+## Resultado da auditoria dos materiais — 13/11/2026
+
+[[10 - Auditoria de Preservação Avaliação e Incorporação dos Materiais - 13-11-2026]] registra a conferência atual e as evidências. Conclusão: incorporação parcial, com base substantiva em 01–08; 54 destinos de aula e 89 imagens localizáveis. Dos 18 originais do pacote, sete têm cópia idêntica na main e EIXO Integrador tem uma cópia atual em outra ramificação. Os dez restantes não foram localizados como arquivos individuais idênticos nas 69 ramificações consultadas; isso não equivale a ausência de avaliação de seus conteúdos.
+
+Foram recuperados os quatro PDFs posteriores e o original de Visão Taoísta (61 slides); sua incorporação foi autorizada posteriormente por Fabiano, conforme o ponto de retomada acima. Não foi verificado o conjunto separado de 59 lâminas anunciado. Há leituras de sete livros de 09/11 e notas de circulação/percepção/encontros na ramificação `tsh-sentir-outro-intersubjetividade-20261107`, fora da main; esse conjunto não deve ser confundido com os sete PDFs adicionais mencionados no último chat. O índice dessa ramificação distingue notas de leitura de armazenamento dos binários.
+
+Próximo bloco útil: preservar o PowerPoint autorizado, recuperar as avaliações mais recentes e consolidar seus destinos, conciliando o conteúdo exclusivo das versões localizadas. Os arquivos finais das aulas continuam com sincronização pendente. O relatório distingue essas etapas; não reiniciar a auditoria ampla como se não houvesse base documental.
+
+
+## Retomada verificada após três limites de conversa — 13/11/2026
+
+Fabiano relatou três chats interrompidos pelo aviso de duração máxima e pediu continuidade com preservação dos materiais da auditoria. Esta retomada atualiza o estado verificável e mantém os registros anteriores abaixo como histórico.
+
+**Estado remoto conferido:** o [PR #58](https://github.com/fabianodeliberalli/base-cognitiva-vault/pull/58) foi integrado à `main` em **13/11/2026 às 19h56, Brasília**, no commit [`e150e3ad56304d74ec45e3a9e29601ccdf348917`](https://github.com/fabianodeliberalli/base-cognitiva-vault/commit/e150e3ad56304d74ec45e3a9e29601ccdf348917). O PR #57 também consta integrado. As passagens históricas que ainda os descrevem abertos registram a situação anterior a essa integração.
+
+| Frente | Estado e evidência | Próxima ação útil |
+| --- | --- | --- |
+| Cultivo, Rohden, mapas/interocepção e acervo visual | Base consolidada na main pelo PR #58; permanecem as rotas 01–08 e o catálogo visual. Esta retomada conferiu metadados, caminhos e fontes de continuidade, sem repetir a inspeção visual de todas as imagens. | Recuperar os trechos pertinentes na produção, sem recomeçar a auditoria já documentada. |
+| Parecer amplo de impacto | Original de dez páginas recuperado: [TSH_Auditoria_Impacto_Fundamentos_2026-11-13.docx](./Anexos/TSH_Auditoria_Impacto_Fundamentos_2026-11-13.docx); também disponível em [arquivo de origem](https://chatgpt.com/library?file_id=libfile_8b2163543e508191b86127c80543294d&account_id=personal). Cópia preservada nesta ramificação, com os bytes originais. | Usar o parecer como referência revisável e registrar as recomendações efetivamente adotadas nas notas e materiais correspondentes. |
+| Acréscimos posteriores ao parecer | Os trechos recuperados do último chat mencionam “Visão Taoísta”, relações entre Essência, proteção, wu wei, imagens, padrões e expressão; preservam sentidos próprios de Shen, Self, Essência e dantian e apontam exame do uso de Niebauer. Essa recuperação é resumo contextual, não transcrição integral nem prova de gravação desses acréscimos no GitHub. | Localizar a elaboração exata e os anexos posteriores, conferir sua preservação e registrar as contribuições antes de ampliar a análise. |
+| Produção das aulas | A preservação de fontes, roteiros textuais e imagens não comprova sincronização de todos os PowerPoints, notas, DOCX/PDF ou novas gravações. O PPTM editável continua sem recuperação comprovada. | Sincronizar primeiro M0.2, M0.3 e M1; aprofundar por destino em M3/M5/M6 e integração M7/M8, com ensaio de duração. |
+
+### Parecer de impacto: conteúdo que deve continuar recuperável
+
+O parecer favorece incorporar a elaboração integrada do dia como base fundamental e revisável do TSH: preparação desde M0/M1; repetição que refina a percepção; cultivo corporal, energético e contemplativo; assimilação/interiorização em diálogo com Rohden; transferência para relações, escolhas e vida cotidiana. A trajetória autoral desde a monografia de 2004 e o filtro de estudo, prática e clínica de Fabiano já fundamentam essa integração.
+
+Recomendações ainda devem ser distinguidas de decisões de Fabiano. Permanecem identificadas no documento: reconciliar a entrada atual de “EIXO Integrador” preservando sua genealogia; identificar práticas pelo nome/documento além dos códigos; manter a mesma versão da órbita em fala, tela, demonstração e apoio; selecionar imagens conforme sua finalidade. O arquivo “POSTURA ARVORE” inclui circulação macrocósmica/Sanchin e não basta, por seu nome, como instrução inicial de Zhan Zhuang. Estas são conclusões do parecer recuperado, sem nova avaliação técnica nesta retomada.
+
+### Preservação do original e alcance desta atualização
+
+- Fonte original: `TSH_Auditoria_Impacto_Fundamentos_2026-11-13.docx`, 52.447 bytes.
+- SHA-256: `50ce1646d804ec6137d1e8166a19eaf8e35c9f2640951e481170feec301c615d`.
+- Blob Git calculado a partir dos bytes originais: `b676af1a63e2d9201f706e9b2b607a94cd58e4f5`.
+- Ramificação desta retomada: `codex/tsh-continuidade-auditoria-2026-11-13`, criada sobre o commit de integração indicado acima. A atualização desta retomada não declara sua própria integração à main.
+- O inventário de 18 anexos e os pacotes anteriores conservam sua função de preservação. Esta retomada não certifica uma exportação integral dos três chats nem a transferência ao GitHub de todos os anexos posteriores ao parecer.
+
+### Forma de continuar esta auditoria
+
+Trabalhar em blocos delimitados por conteúdo: recuperar uma fonte ou elaboração, conferir a contribuição e o destino, preservar o resultado e registrar a próxima pendência nesta nota. Informar o caminho, a ramificação ou PR e o commit que comprovam o salvamento. Evitar reconstruir o histórico inteiro ou repetir a auditoria ampla a cada troca de conversa.
+
+O próximo bloco é **conferir e preservar os acréscimos posteriores ao parecer de impacto**, em especial a elaboração “Visão Taoísta” e seus anexos, distinguindo original preservado, leitura, incorporação e produção final. As fontes fornecidas depois do parecer incluem registros de SHEN/JUNG, Wu Wei, alquimia interior, Taoismo e Yin Fu Jing; os respectivos estados devem ser conferidos, sem transformar um nome de arquivo em confirmação de conteúdo ou de salvamento.
+
+Para uma nova conversa, fornecer somente o apontador:
+
+> Continue a auditoria do TSH pelo repositório `fabianodeliberalli/base-cognitiva-vault`, na ramificação `codex/tsh-continuidade-auditoria-2026-11-13`. Leia AGENTS.md, a ficha mínima do TSH e a seção mais recente da nota 09 de preservação e retomada. O PR #58 já está integrado. Comece pela primeira pendência do último bloco, consulte apenas as fontes necessárias e preserve cada resultado verificável antes de ampliar o trabalho. Confira se há atualização posterior da ramificação.
+
 
 ## Conferência de Rohden, incorporações e imagens - 13/11/2026
 

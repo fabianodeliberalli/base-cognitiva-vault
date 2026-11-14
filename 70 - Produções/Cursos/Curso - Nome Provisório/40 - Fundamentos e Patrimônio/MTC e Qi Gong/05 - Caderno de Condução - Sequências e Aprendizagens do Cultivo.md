@@ -285,3 +285,67 @@ Uma organização inicial pode prever três ocasiões semanais de prática regul
 ## 3. Mapas visuais recuperados para o ensino interno
 
 [[08 - Mapas Rim Nao e Interocepção - Leitura e Incorporação]] oferece os localizadores para a montagem: três campos na lâmina 8; Rim–Nao em 22/23 e seiva/árvore em 27; Sorriso ao inferior em 29; variantes da órbita em 12/14. P2C retoma a organização interna; P7 diferencia mapa funcional e procedimento da versão. A lâmina 12 inclui tempos e pausas próprios: registrá-los como variante da fonte, sem acrescentá-los automaticamente à condução introdutória.
+
+## 4. Aplicações das leituras recuperadas — 13/11/2026
+
+Os blocos seguintes ampliam P4/P5/P6/P8. São propostas de condução do TSH, derivadas das relações documentadas em [[11 - Leituras Recuperadas - Taoismo Shen e Transformação]], sem instituir uma nova série obrigatória. Usar o preparo já aprendido na extensão adequada, oferecer tempo real de experiência e concluir antes da elaboração.
+
+### Imagem como investigação — M5.5, amplia P6
+
+**Finalidade:** ampliar a descrição do vivido e permitir uma interpretação provisória. **Material:** uma figura selecionada no catálogo ou um desenho do próprio participante. **Referência docente:** Alquimia na Clínica, Renata Whitaker, PDF 69–71; Gaeta/Pereira, 178–179; comparação de paisagens em 11 §3. Estimativa para ensaio: 5–7 minutos.
+
+“Vamos olhar para esta imagem por um momento. Observe uma forma, uma relação ou um detalhe que chama sua atenção. O que você consegue descrever antes de procurar uma explicação?
+
+Agora perceba o que esse detalhe desperta em você. Pode ser uma sensação, uma lembrança, uma emoção ou uma pergunta. Se quiser, registre por palavras ou por um desenho. Não é preciso decidir agora o que tudo significa.
+
+Ao concluir, escolha uma pergunta para levar com você. Podemos reencontrá-la depois e perceber se sua leitura mudou.”
+
+**Acompanhar:** o participante consegue distinguir elementos da figura, experiência despertada e interpretação? Não interpretar desenhos dos alunos como diagnóstico. Retomar em M5.8 somente quando contribuir para a pergunta da aula.
+
+### Capacidade e forma protetiva — M4.4/M4.6, amplia P4/P6
+
+**Finalidade:** investigar uma possibilidade de reorganização sem apagar a função da proteção. **Referência docente:** Visão Taoísta 28–30 e Alquimia na Clínica PDF 70–71, em diálogo com o trabalho de padrões já existente no TSH. Estimativa para ensaio: 5–8 minutos.
+
+“Escolha uma situação cotidiana que consiga observar com alguma distância. O que você costuma fazer? Em que condições essa maneira de agir aparece? O que ela tenta preservar ou conseguir?
+
+Veja se consegue reconhecer alguma capacidade envolvida. Talvez atenção, força, cuidado, rapidez ou sensibilidade. Às vezes essa capacidade fica presa a uma única maneira de participar. Podemos investigar se há outra forma possível para esta situação.
+
+Escolha uma pequena diferença que gostaria de experimentar. Que apoio ou limite pode ajudar? Depois de tentar, vamos olhar para o que aconteceu e para o que ainda precisa de cuidado.”
+
+**Acompanhar:** a função permanece uma hipótese da própria pessoa; não atribuir automaticamente uma capacidade a todo padrão. Retomar expressão e limites em M6.3/M7.4 com o exercício relacional pertinente.
+
+### Medida do esforço — M4.6/M5.4, amplia P4/P5
+
+**Finalidade:** distinguir intenção, esforço necessário e tensão adicional. **Referência docente:** Song em P3; Fischer e Cherng nos localizadores de 11 §§4/5. Estimativa para ensaio: 3–5 minutos.
+
+“Reencontre um gesto ou uma posição que você já aprendeu. Perceba como está participando. O que está fazendo para sustentar a ação? Há algo que continua trabalhando quando já poderia repousar?
+
+Escolha um único ajuste. Talvez soltar os ombros, reduzir a velocidade ou aproximar a atenção do apoio. Observe o efeito sem tentar chegar a uma sensação determinada.
+
+Ao terminar, reconheça o que esse ajuste ofereceu. Em que situação da sua vida essa diferença entre direção e excesso de esforço poderia ser investigada?”
+
+**Acompanhar:** conservar o gesto e os apoios ensinados. A contribuição de Wu Wei é investigar a participação; escolhas e limites continuam fazendo parte do percurso.
+
+### Receber e responder mantendo referência — M7.3/M7.5, amplia P8
+
+**Finalidade:** perceber a própria participação na escuta e formular uma resposta. **Referência docente:** reciprocidade na apresentação autoral, slides 24/26–30, e fundamentos relacionais do curso. Estimativa para ensaio: 6–10 minutos.
+
+“Antes de começar, reencontre um apoio que conhece. Uma pessoa vai falar por um tempo breve sobre um assunto cotidiano que possa compartilhar. A outra vai escutar e observar o que acontece consigo enquanto recebe a fala.
+
+Quem escuta pode perceber pressa de responder, vontade de resolver, aproximação ou afastamento. Reencontre seu apoio quando precisar. Depois, diga o que conseguiu compreender e escolha uma pergunta ou uma resposta que caiba neste encontro.
+
+Vamos trocar as funções. Ao concluir, observe o que ajudou a receber o outro e o que ajudou a conservar alguma referência em si. O que você gostaria de ajustar em uma próxima conversa?”
+
+**Acompanhar:** participação facultativa, assunto cotidiano e tempo de troca delimitado. O efeito será observado na relação real; a experiência não comprova leitura direta do estado interno do outro. M7.7/M7.8 retomam efeitos e reparação.
+
+### Da prática a uma situação concreta — M7.7/M8.2, amplia P8
+
+**Finalidade:** tornar a continuidade observável nas condições de vida. **Referência docente:** Rohden em 07, Cherng em 11 §4 e discussão da sexta transcrição em 11 §8. Estimativa para ensaio: 4–6 minutos.
+
+“Pense em uma situação da próxima semana na qual gostaria de participar de outra forma. Escolha um recurso que você já aprendeu e consegue reencontrar. Qual é o momento possível para utilizá-lo?
+
+Escreva uma ação pequena e o apoio de que precisa. Considere também uma versão mais breve para um dia difícil. Depois escolha quando vai olhar para essa experiência de novo.
+
+Na revisão, procure descrever o que aconteceu, o que conseguiu acessar e o que as condições permitiram. O plano pode mudar com esse aprendizado.”
+
+**Acompanhar:** aprendizagem efetiva, contexto e revisão; sem prazo universal nem intensidade obrigatória de experiência. Não acumular os cinco blocos na mesma aula. Os tempos acima são estimativas de produção a conferir com Fabiano.

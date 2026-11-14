@@ -306,3 +306,28 @@ Os roteiros textuais M0.2/M0.3/M1.1 e o apoio do participante foram atualizados 
 ### Imagens extraídas disponíveis - 13/11/2026
 
 [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos|00 - Catálogo de Imagens e Destinos]] resolve a disponibilidade dos arquivos visuais para montagem: 39 lâminas, 48 figuras distintas da apresentação e dois diagramas de Rohden, com origem e destinos. A fonte histórica não foi reescrita. A composição final nas aulas, a revisão de legendas e a sincronização dos PPTX/roteiros/notas/entregáveis seguem a produção de cada aula.
+
+## 7. Incorporação das leituras recuperadas — 13/11/2026
+
+Recuperar [[11 - Leituras Recuperadas - Taoismo Shen e Transformação]] e [[00 - Catálogo de Taoismo Shen e Pontos - Fontes e Destinos]] junto do artefato da aula. Esta tabela acrescenta fontes e aplicações à distribuição existente das 54 aulas, sem acrescentar aulas nem alterar o calendário. “Material do aluno” significa possibilidade de derivação no texto ou ficha já escolhido, não um arquivo final produzido nesta retomada.
+
+| Aula | Fonte/localizador | Contribuição concreta e destino de montagem |
+| --- | --- | --- |
+| M0.1/M1.4 | Visão Taoísta 2–10/22–25; original F27. | Contexto de trajetória e diversidade do cultivo, nas notas/fala; selecionar somente a visão inicial pertinente. |
+| M1.2/M1.3 | Rohden em 07; sexta transcrição F09 em 11 §8. | Experiência, repetição e contexto; pergunta breve na fala e no apoio já previsto. |
+| M1.7 | Yin Fu Jing PDF 20–21 e Rohden em 07. | Referência e cultivo; comparação breve na preparação docente e fala, sem antecipar todo M5. |
+| M2.3/M2.5/M2.6 | Niebauer PDF 17–24/56–57; 11 §5. | Descrever antes de concluir; retomar P1B/P6 e comparar interpretação. |
+| M3.2/M3.4 | Sexta transcrição e estudos primários de 11 §8. | Rever linguagem científica e instruções; manter a prática já ensinada. |
+| M3.5/M3.6 | F01/F03/F06/F18/F21/F22; catálogo dos pontos 1–4. | Distinguir famílias de prática, campos e Três Tesouros; aprofundar a base em seus termos. |
+| M4.4/M4.6 | Visão Taoísta 28–30; Whitaker PDF 70–71; Fischer PDF 6/8. | Aplicações capacidade/proteção e medida do esforço, em 05; fala, experiência e elaboração. |
+| M5.2/M5.3 | Cherng PDF 20–21/51/61; Visão Taoísta 50; SHEN/JUNG 11/24. | Valores, referência e Essência; notas com diferenças entre mapas e fontes. |
+| M5.4 | Rohden em 07; Fischer; Chia em 11 §§5/6. | Receptividade e qualidade do esforço; tempo de prática, silêncio e conclusão. |
+| M5.5 | Alquimia na Clínica PDF 69–71/178–179; Visão Taoísta 32/54. | Aplicação imagem como investigação, em 05; uma imagem e pergunta, sem interpretação padronizada. |
+| M5.6/M5.7/M5.8 | SHEN/JUNG; Yin Fu Jing; Niebauer; caso autorizado F27/20. | Experiência, sentido e integração; selecionar exemplo pela finalidade da aula e conservar as distinções conceituais de 11. |
+| M6.1/M6.3 | SHEN/JUNG 6–15; Gaeta/Whitaker; Visão Taoísta 26–31. | Relação entre diferenças, capacidades e proteção, nas notas e experiência pertinente. |
+| M6.5 | Visão Taoísta 32–38/46–56; pontos PDF 11; comparação Chong Mai recuperada. | Fonte de mapas para seleção e estudo; mesma versão em demonstração, tela, notas e apoio. |
+| M7.1/M7.3/M7.5 | Cherng/Rohden; Visão Taoísta 24/26–30. | Expressão e reciprocidade; aplicação de escuta em 05 e retomada do aprendido. |
+| M7.4/M7.7/M7.8 | Whitaker PDF 70–71; blocos de 05. | Capacidade, limites, efeitos e reparação; manter o ensino relacional específico. |
+| M8.1/M8.2/M8.3 | 11 §§4–9; índice anterior de sete fontes. | Revisão do aprendido, plano realizável e possibilidades de aprofundamento. |
+
+**Estado:** fontes preservadas, análises/correlações e aplicações textuais registradas; catálogo e manifestos recuperáveis. Os novos originais e pixels estão no pacote restrito. Esta revisão não reexporta PPTX/DOCX/PDF das aulas e não declara esses artefatos finais sincronizados. Na montagem, usar o desenvolvimento da aula e os trechos pertinentes, sem carregar todos os livros.

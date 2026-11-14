@@ -450,3 +450,19 @@ M0.2 ensina uma experiência repetível; M0.3 organiza sua ocasião de prática.
 [[08 - Mapas Rim Nao e Interocepção - Leitura e Incorporação]] registra a leitura das 39 lâminas de *Qi Gong MTC — Além das Fronteiras* e das 15 páginas de conteúdo do PDF de interocepção. Foram localizados mapas dos três campos (8/10), órbita (7/9/12/14), Rim–Nao (22/23), Jingshen e Shen (24–27), Sorriso ao centro inferior (29), Pai Lin/natureza (34–35) e eixo/campo (36–38). A exportação e o PDF fornecido estão preservados em `80 - Fontes Bibliográficas`.
 
 A contribuição sensorial se concretiza em P1B, em 05: repetir a mesma base, variar uma entrada de atenção e depois reunir o conjunto. O caderno 08 distingue os mapas, identifica as versões respiratórias e propõe atualização das afirmações científicas específicas de estresse/interocepção. A integração preserva a lógica do cultivo, o filtro experiencial e clínico de Fabiano e a continuidade da monografia de 2004.
+
+## 22. Taoísmo, Shen e transformação — leituras consolidadas
+
+[[11 - Leituras Recuperadas - Taoismo Shen e Transformação]] registra a nova leitura dirigida e os localizadores de cada fonte, distinguindo texto examinado, avaliação anterior recuperada e aplicação proposta. Complementa especialmente 7/13/14/15/19/20 deste caderno.
+
+| Questão docente | Fonte e localizador recuperável | Acréscimo à fundamentação |
+| --- | --- | --- |
+| Centro, Shen e Self | SHEN/JUNG PDF 11 e 24; nota 11 §2. | Resolver a divergência de correlações no próprio material; apresentar diferenças e interlocuções pertinentes. |
+| Símbolo e investigação | Alquimia na Clínica PDF 69–71/178–179; Visão Taoísta slides 32/54. | Imagens como modos de investigar o vivido; possibilidades de expressão e responsabilidade. |
+| Cultivo e realização cotidiana | Yin Fu Jing PDF 20–21, impresso 37–39; Rohden em 07. | Relação entre contemplação, referência espiritual e expressão, com fontes reconhecíveis. |
+| Medida e esforço | Fischer PDF 6/8/23/44; Yin Fu Jing PDF 51/61. | Investigar ajuste e constância em uma prática conhecida, em diálogo com Song e P4/P5. |
+| Interpretação e sensação de saber | Niebauer PDF 17–24/56–57/82–83; conferências de pesquisa em 11 §5. | Explicação provisória e investigação posterior; separar a leitura filosófica da evidência sobre lateralização. |
+| Reciprocidade e participação | Visão Taoísta slides 24/26–30; Cherng em 11 §§4/7. | Articulação autoral com proteção, abertura, resposta e condições de relação. |
+| Respiração e continuidade | Sexta transcrição lida integralmente; pesquisas em 11 §8. | Recuperar contexto de prática e repetição; corrigir a tradução antes de qualquer instrução. |
+
+A fonte tradicional continua podendo contribuir em seus próprios termos. A articulação psicológica e a pesquisa acrescentam recortes definidos. Esta incorporação conserva o registro autoral e as versões técnicas; não cria equivalências universais entre Shen, Self, Essência, campos e anatomia. As imagens e textos integrais novos estão preservados no pacote restrito indicado em 11; os metadados e as análises estão neste repositório.
