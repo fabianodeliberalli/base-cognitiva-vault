@@ -3,7 +3,7 @@ tipo: estado-e-continuidade-de-producao
 projeto: Traduzindo o Ser Humano
 recorte_entrega: "M1.1-M1.7"
 status: referencia-atual-revisavel
-versao: "1.11"
+versao: "1.12"
 criado_em: 2026-08-23
 atualizado_em: 2026-11-15
 preparacao_de_gravacoes: autorizada
@@ -35,6 +35,7 @@ Fabiano conduziu uma versão breve na Masterclass e voltou à prática na aula a
 #### Arquivos para montar o Sorriso Interior
 
 - **Arquivo para anexar à aula.** [Sorriso Interior — uma aproximação gentil · MP3](https://chatgpt.com/library?file_id=libfile_fde3_f-af59194db8548191a5f50b6e59ac5928_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal). A cópia tem título, autoria e módulo próprios para a turma. A voz, as pausas e o encerramento são idênticos aos do original.
+- **Apoio visual para avaliação de Fabiano.** [Sorriso Interior com imagens e frases · MP4 de 6min10s](https://chatgpt.com/library?file_id=libfile_fde3_f-46a1ef93bf108191ae66fa0b176790ba_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal). A mesma faixa acompanha as ilustrações de [Reunir e concluir e Sorriso Interior, lâminas 11 e 18 da aula prática](https://chatgpt.com/space/page_5e2cc25ed3ec81919c3544b9483efa71). A figura sentada com uma mão no peito aparece aos 3min20s, quando a voz convida ao gesto. Aos 4min29s, a figura permanece enquanto a pergunta volta à maneira de se aproximar de si. Se fizer sentido na montagem de M1.3, o vídeo e o MP3 podem ser duas formas de acessar a mesma prática.
 - **Fonte da gravação.** [MP3 original da aula prática · 6min10s](https://chatgpt.com/library?file_id=libfile_fde3_f-5efc9a61224c8191acd247acd233d725_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal). O arquivo de origem se chama `02-SEG-16-WhatsApp-Sorriso-Interior-audio.mp3`. Esse nome registra o planejamento de uso no WhatsApp.
 - **Demonstração que antecede a escuta.** [M1.3 com a prática da árvore · 35min19s](https://chatgpt.com/library?file_id=libfile_fde3_f-b4d0c5688888819180f9f4ce01c11e0f_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal). Para quem já assistiu à versão anterior, [Árvore e Sustentar o Céu · 7min21s](https://chatgpt.com/library?file_id=libfile_fde3_f-dacc108d1cb481919bc03777e10d0650_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal) oferece acesso direto à demonstração. Quem a acompanhou no vídeo completo pode passar diretamente à escuta.
 - **Leitura que acompanha a experiência.** [[M1.3 - Texto breve de apoio - O aprendido na vida|O aprendido na vida]]. A [[07 - Ficha - Cartografia Multidimensional Inicial da Experiência#Registro breve para as aulas e encontros ao vivo|Cartografia do acervo, perguntas para consulta]] oferece alternativas de registro. Para planejar o retorno, consultar [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo#Aula conjunta de M0 e M1 no Zoom|Encontro de M0/M1]].
