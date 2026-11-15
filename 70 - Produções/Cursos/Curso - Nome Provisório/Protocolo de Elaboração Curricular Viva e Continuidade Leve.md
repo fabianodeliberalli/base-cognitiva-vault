@@ -9,6 +9,10 @@ atualizado_em: 2026-09-07
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
+## Retomada das práticas ao montar cada aula
+
+O Raio X orienta a aula em produção. [[TSH - Preparação dos Roteiros e Calendário 2026-2027#Da pesquisa ao ensaio da aula|Montagem do roteiro]] organiza a passagem das fontes ao ensaio. Para saber onde uma prática é ensinada, quanto tempo reservar e como ela retorna no Zoom, recuperar [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH#Tempo para o centro médio e o centro superior|Tempo para o centro médio e o centro superior]]. [[Práticas por Módulo - Consulta em criação e expansão#Escolha do repertório para a turma atual|Repertório para a turma atual]] indica alternativas e aprofundamentos. Registrar apenas a escolha que muda a aula ou sua continuidade. As estimativas podem ser revistas com a demonstração de Fabiano e as experiências da turma.
+
 ## Retomadas e materiais registrados em 31/10/2026
 
 Antes de produzir a aula pertinente, consultar [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Governança do Conhecimento/TSH - Retomadas de escrita atenção e diferenciação nas 54 aulas]] e os itens correspondentes em [[70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/TSH - Escrita atenção e diferenciação - Referências e limites]]. A matriz utiliza o Raio X atualizado de 31/10; não altera a arquitetura. [[70 - Produções/Cursos/Curso - Nome Provisório/Práticas Candidatas/Práticas por Módulo - Consulta em criação e expansão]] está em plena criação e expansão: somente consulta contextual, sem governar as práticas. Aplicar [[70 - Produções/Cursos/Curso - Nome Provisório/20 - Identidade Visual/10 - Sistema Oficial v1.0/00 - Manual de Identidade Visual v1.0]] aos slides e entregáveis. Registrar o uso efetivo de cada fonte e sua limitação. M0.2 atual: [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 0/M0.2 - Roteiro e notas sincronizados v1.2]].

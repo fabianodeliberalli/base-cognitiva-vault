@@ -19,11 +19,32 @@ A tabela articula as 54 aulas e os oito encontros já distribuídos nas seções
 | **M0 e M1** — Aprender uma base à qual se pode voltar. | A árvore em pé ou na cadeira ensina apoio, soltura, respiração confortável e atenção ao baixo ventre. Nesta turma, M1.3 reúne a postura e um ciclo de Sustentar o Céu, do Ba Duan Jin. M1.4 apresenta os três Tan Tien e a relação entre Rim, Jing e Nao. M1.6 dá lugar ao registro; M1.7 retoma centro, interiorização e expressão. | Repetir o gesto e observar a passagem do apoio à elevação e de volta ao chão. Ajustar altura dos braços, apoio ou duração. As palmas servem para investigar uma pergunta que surja. Cada pessoa escolhe algo que queira reencontrar. |
 | **M2** — Perceber o que se modifica quando a atenção muda. | Retomar a mesma forma. Em M2.1–M2.3, alternar um som, a planta do pé ou o contato das mãos. Em M2.5–M2.6, descrever, associar, formular uma leitura e fazer nova tentativa. Olhar para trás é uma possível variação de Ba Duan Jin quando a orientação for o tema. | Repetir com uma única variação e comparar descrições. Entre encontros, anotar o que mudou ao retornar e o que continua incerto. |
 | **M3** — Organizar uma sequência de cultivo e compreender seu mapa. | M3.2 refina a percepção. M3.5 situa Qi, Jing e Shen e o diálogo com Prana. Em M3.6, demonstrar Sustentar o Céu e Separar Céu e Terra, experimentar a soltura (Song), relacionar raiz, direção e centro e explorar os três campos, voltando ao inferior. M3.7 ensina uma versão breve e uma regular. | Repetir com a demonstração de Fabiano, experimentar adaptações e concluir em quietude. Cada participante identifica o que já consegue repetir. As formas de Yi Jin Jing têm nome e transmissão próprios. |
-| **M4** — Reconhecer como a intenção, o esforço e o afeto modificam a prática. | Em M4.2/M4.6, revisitar um movimento familiar e experimentar outra medida de força. Introduzir o Sorriso Interior como aproximação gentil ao corpo, na versão escolhida. Em M4.5, o processo 3-2-1 dá outra forma de investigar algo vivido como distante. | Explorar a disposição com que cada um participa e o efeito de um ajuste. Entre encontros, levar uma descoberta para uma situação cotidiana. Deixar tempo de elaboração após a experiência. |
-| **M5** — Aprender a permanecer, observar e elaborar o sentido. | Em M5.1/M5.4, demonstrar atenção apoiada na respiração e retorno. Em outro momento, ensinar observação aberta, com silêncio real. Em M5.5–M5.8, investigar imagem, significado espiritual, interpretação e efeitos. O Sorriso Interior e o cultivo compassivo têm destinos próprios. | Conduzir a modalidade nomeada, experimentar a volta ao apoio e abrir a elaboração depois. O aluno escolhe uma modalidade já ensinada para retomar e pode guardar sua experiência sem relatá-la. |
-| **M6** — Aprender a pequena circulação com referência, percurso e conclusão. | Em M6.5, Fabiano situa Ren Mai e Du Mai e demonstra a versão de sua formação, seus pontos de referência, a direção e a relação com a respiração. Mostrar a preparação no centro inferior, a exploração por partes, a reunião e o repouso. Oferecer a preparação como opção completa de participação. | Reservar o bloco orientado do encontro para observar a demonstração, experimentar por trechos e esclarecer dúvidas. Para a repetição, identificar a versão aprendida e o apoio necessário. O 3-2-1 tem condução própria em M6. |
-| **M7** — Levar presença, firmeza e abertura ao encontro com o outro. | Em M7.1/M7.3/M7.4, retornar a um gesto familiar, como Abrir o Arco, quando ele ajudar a perceber direção e medida. Aproximar apoio e intenção de uma cena de escuta, expressão ou limite. Retomar o corpo depois da conversa. | Experimentar a cena, ouvir o que cada pessoa percebeu e rever uma resposta possível. Uma necessidade pode ser legítima mesmo quando o outro não pode atendê-la. |
-| **M8** — Escolher como continuar e quando buscar acompanhamento. | Em M8.2, compor, a partir do que foi ensinado, uma versão breve e outra regular. Selecionar movimento, prática interna, conclusão e uma ocasião viável. A pequena circulação entra na versão que a pessoa aprendeu e deseja sustentar. | Experimentar o plano no encontro. Registrar em que ocasião voltar, o que observar na vida e quando rever a escolha ou pedir orientação. |
+| **M4** — Reconhecer a disposição com que se responde. | Em M4.2, comparar esforço e afeto num movimento conhecido. Em M4.4, retomar o Sorriso Interior e observar como se recebe uma proteção. M4.5 apresenta o 3-2-1. M4.6 dedica 6 min ao Quick Coherence e volta a um pedido cotidiano. | Ajustar o apoio ou o esforço, repetir a prática cardíaca e ensaiar duas respostas ao mesmo pedido. Levar uma das respostas a uma situação em que haja condições de experimentá-la. |
+| **M5** — Sustentar cuidado, permanecer e elaborar sentido. | M5.2 dedica 8 min ao Heart Lock-In. M5.4 reserva 10 min à meditação com silêncio. M5.5 dedica 7 min ao Tan Tien superior, ao olhar e à imagem. M5.8 retoma o que ganhou sentido ou mudou com o tempo. | Retomar o campo superior e dar tempo próprio à quietude. Depois, acolher a expressão por palavra, gesto, imagem ou silêncio. A pessoa pode escolher uma das práticas já ensinadas para a semana. |
+| **M6** — Relacionar discernimento, integração e circulação. | M6.3 retoma algo que permaneceu distante. Em M6.4, o Freeze-Frame ocupa 5 min do mapa de uma decisão. Em M6.5, demonstrar a Órbita na versão de Fabiano, desde o centro inferior até a reunião e o repouso (8–12 min). | Acompanhar o 3-2-1 em uma situação simples e concluir esse trabalho. Retomar os apoios para mudar de tarefa. Reservar 25 min à Órbita e tempo de repouso. A preparação é uma forma de participação completa. |
+| **M7** — Levar cuidado, presença e medida a uma relação. | Em M7.3, escutar e conferir com o outro o que se compreendeu. Em M7.4 e M7.6, ensaiar pedido, limite ou ajuda possível. Retomar o cuidado na região do peito por 3–5 min quando favorecer a cena. M7.8 acolhe a reparação. | Ensaiar em duas rodadas e observar se a presença alterou a escuta ou a resposta. Uma necessidade legítima pode encontrar indisponibilidade do outro. Registrar o que depende de si, do encontro e das condições. |
+| **M8** — Escolher uma prática e suas condições de continuidade. | Em M8.2, compor uma versão breve e outra regular usando o que foi aprendido. Escolher por finalidade, tempo, prazer, necessidade e apoio disponível. A Órbita fica na versão efetivamente ensinada. | Experimentar o plano e combinar consigo uma ocasião de revisão. Verificar o que ficou acessível, o que ainda precisa ser cultivado e se é preciso ajustar o ambiente, o horário ou o acompanhamento. |
+
+### Tempo para o centro médio e o centro superior
+
+**Distribuição de trabalho para os próximos roteiros.** O centro inferior se torna familiar com os apoios e o movimento. Em M3 o aluno reconhece três campos na mesma experiência. Em M4 e M5, ter tempo para cultivar uma qualidade no peito dá outro sentido à imagem do centro médio. A experiência específica do campo superior vem em M5.5. Voltar ao inferior, ao corpo inteiro e ao ambiente permite perceber o que se leva de uma experiência à outra. A progressão organiza oportunidades de aprendizagem. Cada pessoa pode começar de onde encontra apoio.
+
+Na linguagem de HeartMath, o foco é a região cardíaca e a qualidade de cuidado ou apreciação. Na linguagem do cultivo, o Tan Tien médio é um campo energético que se cultiva. Fabiano aproxima essas duas perguntas na experiência do peito. O Tan Tien superior abre uma investigação de interiorização e Shen com alcance contemplativo e espiritual. Na Cartografia cabe o que cada participante percebeu, imaginou, compreendeu ou ainda procura expressar. Uma medida de variabilidade cardíaca exigiria instrumento e procedimento próprios.
+
+| Aula | Aprendizagem | Tempo de montagem | O que fazer nesse tempo |
+| --- | --- | --- | --- |
+| M3.6 | Reconhecer os três campos | 8–10 min dentro dos 18–25 min de movimento e cultivo interno | Depois de Sustentar o Céu e Separar Céu e Terra, reconhecer baixo ventre, peito e região interna da cabeça na versão ensinada. Passar brevemente pelos dois últimos e reunir no inferior. A lâmina 8 situa os campos. |
+| M4.6 | Quick Coherence® | 6 min | Partir de uma situação cotidiana. Experimentar atenção na região cardíaca, respiração confortável e uma apreciação ou cuidado acessíveis. Voltar à situação e observar que resposta se tornou possível. Ocupa o lugar da segunda variação de força. |
+| M5.2 | Heart Lock-In® | 8 min | Sustentar o cuidado por tempo suficiente para perceber o que o interrompe ou permite retomá-lo. Incluir a si e a alguém, depois escolher um gesto compatível com o valor e os limites reais. É a experiência da aula. A história de Ricard no laboratório de Singer ocupa 2–3 min de fala. |
+| M5.4 | Silêncio e observação | 10 min dentro dos 8–12 min já previstos | Dar tempo à modalidade escolhida, com apoio e pausas reais. Ensinar o que fazer quando a atenção se dispersa. A exploração específica do campo superior ganha outro momento. |
+| M5.5 | Tan Tien superior, olhar e imagem | 7 min | Usar uma folha, flor, objeto ou detalhe visível. Experimentar olhar, permanecer com a referência interna e voltar a olhar. Distinguir detalhe percebido, imagem que ficou e sentido que começa a se formar. Esta é a prática de imagem da aula. |
+| M6.4 | Freeze-Frame® diante de uma escolha | 5 min dentro dos 10–12 min do Mapa de Integração Funcional | Reconhecer a pressa em responder, pausar, reencontrar a região do peito e uma qualidade que ajude. Acolher uma alternativa e examiná-la à luz do contexto. Completar o mesmo mapa com a ação, o limite ou o apoio de que se precisa. |
+| M6.5 | Órbita Microcósmica | 8–12 min de gravação e 25 min de ensino acompanhado no Zoom | Identificar a versão de Fabiano, demonstrar preparação e percurso por partes, reunir no inferior e repousar. O aluno também pode concluir a partir da preparação. |
+| M7.3 e M7.6 | Escuta, cuidado e limite | 3–5 min de retomada em uma cena de relação | Retomar a qualidade de cuidado antes de escutar ou prestar ajuda. Na conversa, verificar o que o outro aceita, o que cabe oferecer e o que pede um limite. Usar o restante do tempo na relação. |
+
+Os minutos são estimativas de ensaio para a demonstração, a vivência e a conclusão. Nas aulas com bloco próprio, ele ocupa o lugar do exercício principal anterior. Em M5.5, a investigação da imagem acontece na mesma experiência do campo superior. Em M6.4, a pausa cabe dentro do caso já previsto. M5.2, M5.4 e M5.5 são aulas distintas. Se uma retomada não couber, encurtar a exposição ou escolher a variação no encontro, registrando a mudança. A duração real só se conhece no ensaio.
+
+Antes de gravar, recuperar [[05 - Caderno de Condução - Sequências e Aprendizagens do Cultivo#Condução do centro médio e do centro superior|Conduções e versões]], [[Práticas por Módulo - Consulta em criação e expansão#Escolha do repertório para a turma atual|Repertório para a turma atual]] e a hora prática dos oito encontros na seção 4. Para a turma atual, o MP3 existente de 6min10s da aula aberta pode ser oferecido junto a M1.3 como primeira experiência do Sorriso Interior. M4.4 o retoma pela qualidade do encontro consigo. Em uma aula de M5 pode-se aprofundar uma linha de Chia se ela responder ao tema e dispuser de bloco próprio.
 
 ### Repertório e procedência para a montagem
 
@@ -31,7 +52,7 @@ A tabela articula as 54 aulas e os oito encontros já distribuídos nas seções
 
 **Outros repertórios de Qi Gong.** Wei Tuo I, do Yi Jin Jing, pode explorar a relação entre braços e centro. As outras onze formas permanecem recuperáveis na ficha 03. Kuan Chi Fa, automassagem e Seis Sons têm procedências e preparações próprias, com destinos em M3.5–M3.7 quando a escolha acrescenta algo à aula. O Sorriso Interior de Mantak Chia e os registros de Ely Britto apoiam o trabalho com a qualidade afetiva da atenção em M3–M5.
 
-**Interiorização, meditação e compaixão.** Atenção apoiada, observação aberta e investigação de significado se alternam com objetivos e tempos identificados. Pai Lin contribui com a serenidade; Castellanos, com os modos de atenção; James, com a observação dos frutos da experiência; Rohden, com a passagem da interiorização à vida. Samatha e Vipassana são interlocuções identificadas. Tonglen tem origem budista tibetana; a aproximação com HeartMath é uma elaboração para M5/M7. Explicitar qual exercício está sendo conduzido.
+**Interiorização, meditação e compaixão.** Atenção apoiada, observação aberta e investigação de significado se alternam com objetivos e tempos identificados. Pai Lin contribui com a serenidade; Castellanos, com os modos de atenção; James, com a observação dos frutos da experiência; Rohden, com a passagem da interiorização à vida. Samatha e Vipassana são interlocuções identificadas. Tonglen tem origem budista tibetana e pode ser escolhido em M5.6 ou M7.6. HeartMath tem ensino próprio em M4.6, M5.2 e M6.4. A aproximação entre os dois repertórios pode enriquecer o cuidado quando ambos já são reconhecíveis.
 
 **Circulação e aprofundamentos.** A monografia de MTC de Fabiano, Ernesto Garcia, Yang Jwing-Ming, Mantak Chia e os registros de Ely oferecem versões a comparar na preparação de M6.5. Conservar a coerência da versão escolhida na demonstração, na respiração e na conclusão. As notas distinguem a pequena circulação, a grande circulação, Chong Mai e os trabalhos de Fusão. Estes últimos seguem como aprofundamentos identificados, com procedência própria.
 
@@ -71,9 +92,9 @@ As faixas abaixo são estimativas para a parte de cultivo dentro das aulas, incl
 | M3.5 | Linguagem energética e comparação situada Qi/Prana. | Cerca de 8–12 min de exposição dentro da aula. |
 | M3.6 | Fundamentos, demonstração, três Tan Tien e sequência P3/P2C. | Cerca de 18–25 min no bloco de cultivo; distribuir demonstração e repetição com o encontro, sem somar automaticamente todos os tempos de P2C e P3. |
 | M3.7 | Versões, adaptação e encerramento. | Cerca de 6–10 min de demonstração/comparação. |
-| M4 | Retomada da sequência e qualidade da participação. | Um bloco de 5–8 min; outros retornos breves. |
-| M5 | Preparação, quietude, modos de observar e elaboração posterior. | Um bloco de 8–12 min e retomadas; oferecer áudio da modalidade efetivamente ensinada. |
-| M6 | Integração, centros e ensino da circulação. | Um bloco de 8–12 min na aula; reservar 25 min da prática do encontro para demonstração e ensino de P7. |
+| M4 | Qualidade da aproximação em M4.4. Quick Coherence em M4.6. | Retomada breve do Sorriso e 6 min em outra aula para a experiência cardíaca, no bloco de 5–8 min de M4.6. |
+| M5 | Sustentar cuidado em M5.2, meditar em M5.4 e explorar o campo superior em M5.5. | 8 min em M5.2, 10 min em M5.4 e 7 min em M5.5. Cada tempo corresponde à prática principal da respectiva aula. |
+| M6 | Em M6.4, praticar uma pausa dentro de uma decisão. Em M6.5, ensinar a circulação. | 5 min dentro do mapa de 10–12 min de M6.4. Em M6.5, 8–12 min na gravação e 25 min na hora prática do encontro. |
 | M7 | Referência corporal antes/depois de uma experiência relacional. | 3–5 min dentro da atividade relacional. |
 | M8 | Seleção de prática e plano de continuidade. | 8–12 min de síntese e planejamento, mais a prática do encontro. |
 
@@ -94,7 +115,7 @@ O total varia com as escolhas de condução. A avaliação evita atribuir a cada
 | M1.4 | Apresentar Qi, três campos e Rim–Jing–Nao a partir da base vivida. | Fala B/O; apresentação autoral, lâminas 8, 22/23 e 27, com leitura inicial; 08 e 04 §20; James/Pai Lin. |
 | M1.5 | Reconhecer diferentes dimensões da prática pelas Cinco Janelas. | Retomada breve; sensação, afeto, pensamento, relação e sentido. |
 | M1.6 | Registrar o vivido e formular uma pergunta de continuidade. | P6 em sua função de registro; adaptar a cartografia existente. |
-| M1.7 | Reencontrar centro e referência; apresentar interiorização e expressão na vida. | P0/P1, mapa dos três campos e Rohden PDF 13 e 38–40; eixo e oscilação. |
+| M1.7 | Reencontrar centro e referência e preparar a relação com algo que parece distante. | P0/P1, eixo e oscilação, Rohden PDF 13 e 38–40. A preparação breve para o 3-2-1 leva a M4.5 e ao acompanhamento em M6. |
 | M2.1 | Investigar como atenção e movimento participam do percebido. | P1B: variar uma entrada de atenção e reunir; manter a base conhecida. |
 | M2.2 | Perceber o que ganha destaque na experiência. | Comparar apoio e mãos em P1; observar mudanças de saliência. |
 | M2.3 | Distinguir sensação, imagem e expectativa. | P1/P2; não induzir uma sensação energética padronizada. |
@@ -106,34 +127,34 @@ O total varia com as escolhas de condução. A avaliação evita atribuir a cada
 | M3.3 | Considerar descanso, ritmo e condições da prática. | Jing/reserva na linguagem tradicional em diálogo com necessidades do organismo. |
 | M3.4 | Apresentar o mapa autonômico como uma escala de compreensão. | Nota de pesquisa; exemplos de mobilizar, repousar e ajustar, sem equivalência Qi–vago. |
 | M3.5 | Desenvolver Qi/Jing/Shen, três Tan Tien e comparação situada com Prana. | Fala C; glossário gradual; monografia autoral de 2004 e fontes tradicionais/indianas em 04. |
-| M3.6 | Ensinar Song, raiz, três centros, direções e sequência regular com cultivo interno. | P3/P2C e falas D/L; fichas B1/B3 e alternativa Wei Tuo; explicar Yi Shou Tan Tien. |
+| M3.6 | Ensinar Song, raiz, direções e três campos numa sequência de movimento e cultivo interno. | P3/P2C e falas D/L. Sustentar o Céu e Separar Céu e Terra. Dentro dos 18–25 min, reservar 8–10 min para os campos e reunião no inferior. Yi Shou Tan Tien e Wei Tuo nas fichas de preparação. |
 | M3.7 | Demonstrar versões e ensinar como concluir e retomar. | P3 breve/regular; introdução de P4 quando pertinente; fala E. |
 | M4.1 | Perceber qualidades diferentes em um desconforto. | Observação em prática familiar; não atribuir diagnóstico energético automático. |
 | M4.2 | Diferenciar força, tensão, mobilização e afeto. | B7 ou Y6 já ensinados; retomada corporal curta. |
 | M4.3 | Nomear sem encerrar o sentido da experiência. | P6; possibilidade de ainda não encontrar palavra. |
-| M4.4 | Reconhecer proteção e história na maneira de praticar. | Exemplo de exigência, comparação ou evitação; respeitar contexto. |
-| M4.5 | Relacionar presença, partes e observação; distinguir compreensão e controle forçado. | Salvador, prática integral e avaliação da quinta transcrição; P4/P6/P6B conforme objetivo. |
-| M4.6 | Experimentar ajuste de intenção e esforço. | B2 ou Y5, se ensinados; fala F; posterior resposta cotidiana. |
+| M4.4 | Reconhecer como uma proteção se formou e o que permite aproximar-se dela com cuidado. | Áudio existente do Sorriso Interior, proposto como apoio de M0/M1. Retomar uma passagem e escutar a disposição com que a pessoa se aproxima de si. Exigência e curiosidade são bons pontos de partida. Fontes em P4/Ely e CP1/CP2. |
+| M4.5 | Ouvir partes internas e experimentar entrar em relação com uma qualidade mantida à distância. | Apresentação do 3-2-1 da Prática de Vida Integral, preparada em M1.7. Salvador e a quinta transcrição ajudam a escutar e distinguir uma leitura de uma conclusão. Retomada acompanhada em M6. |
+| M4.6 | Reconhecer um automatismo e experimentar outra disposição antes de responder. | Quick Coherence, 6 min, em uma situação cotidiana. P3 ou B2/Y5 familiar e fala F podem preparar a experiência ou ser retomados no Zoom. |
 | M5.1 | Preparar atenção diante de conteúdos internos múltiplos. | P5 com suporte corporal conhecido. |
-| M5.2 | Investigar valores e direção do cultivo na vida. | Pergunta sobre o que deseja cultivar; cabeça/coração/hara como diálogo auxiliar. |
+| M5.2 | Investigar um valor pelo que a pessoa consegue cultivar e expressar. | Heart Lock-In, 8 min. Usar a cena de Ricard/Singer em 2–3 min de fala. Contrastar cuidado e sobrecarga numa situação cotidiana. |
 | M5.3 | Articular referência profunda, Essência e eixo ao percurso. | Corpo como apoio; Rohden PDF 12–14 e 24–28, Eu/ego e atualização; diferenças entre Self, Shen e Dantian. |
-| M5.4 | Desenvolver continuidade, observação e receptividade contemplativa. | P0/P5A/P5B; falas G/M/P; Castellanos; Rohden PDF 18–23 e 73–75; distinguir modalidade e elaboração. |
-| M5.5 | Investigar imagem e símbolo no cultivo. | Distinguir recurso imaginativo, sensação e sentido; P4/P6. |
-| M5.6 | Acolher experiência espiritual como dimensão legítima. | James, tradições e fontes autorais; P6. |
+| M5.4 | Preparar a quietude e experimentar o intervalo entre impulso e escolha. | P0/P5A ou P5B, 10 min com silêncio. Falas G/M/P, Castellanos e Rohden PDF 18–23 e 73–75. A elaboração vem depois. |
+| M5.5 | Reconhecer como olhar, atenção interna e imagem participam da elaboração de sentido. | Tan Tien superior, 7 min na prática de imagem. Lâminas 8/10 e 34–35 na preparação, P2C/P6. Um único objeto visível. Retorno ao inferior e ao ambiente, depois registro. |
+| M5.6 | Acolher a experiência espiritual em seus próprios termos. | James e fontes autorais. Tonglen pode ser escolhido como prática tibetana de dar e receber, com CP8 e bloco próprio. Outra possibilidade é desenvolver uma linha do Sorriso de Chia. Escolher pelo propósito e pelo tempo disponível. |
 | M5.7 | Relacionar interiorização, Self e Essência. | Fontes já desenvolvidas de Salvador/Jung e léxico do TSH. |
-| M5.8 | Examinar efeitos, autoridade e interpretação; investigar intuição e origem presumida. | Falas H/M; P6/P6B; James e leitura crítica da quinta transcrição. |
+| M5.8 | Examinar interpretação, autoridade e efeitos de uma experiência com o passar do tempo. | Falas H/M e P6/P6B, James e quinta transcrição. Retomar uma imagem de M5.5 e perguntar onde se percebe algum fruto na vida. |
 | M6.1 | Reunir dimensões sem apagar diferenças. | P3/P5; fala I; prática integral e mapas tradicionais. |
 | M6.2 | Perceber partes e conjunto em movimento conhecido. | B3 ou forma axial de Yi Jin Jing devidamente ensinada. |
-| M6.3 | Permanecer com ambivalências e reconhecer necessidade de elaboração. | P4/P6; Salvador e prática integral. |
-| M6.4 | Relacionar recursos ao mapa de integração funcional. | Identificar o que cada parte da sequência oferece. |
-| M6.5 | Ensinar órbita com procedência, demonstração, reunião e repouso; relacionar os três centros. | P7A/P7B/P7C; falas J/N; fontes Ernesto/Yang/Chia, monografia autoral e lâminas 7–14/23, com distinções de 08. |
+| M6.3 | Sustentar ambivalência e reconhecer a contribuição de uma parte pouco ouvida. | Salvador, prática integral, P4/P6 e caso simples. Acompanhar no encontro o 3-2-1 ensinado em M4.5. |
+| M6.4 | Usar o Mapa de Integração Funcional para examinar uma alternativa e suas condições. | Freeze-Frame, 5 min dentro dos 10–12 min do mapa. Testar a resposta que surgiu em relação a fatos, apoios, necessidades e consequências. |
+| M6.5 | Demonstrar a pequena circulação e ensinar a reunir e repousar. | P7A/P7B/P7C, falas J/N, Ernesto/Yang/Chia, monografia e lâminas 7–14/23. Reservar 8–12 min na gravação e 25 min na hora prática do Zoom, com opção preparatória. |
 | M6.6 | Integrar experiência ao contexto e à participação possível. | Conclusão de P7 e escolha de continuidade. |
 | M7.1 | Experimentar interiorização que sustenta expressão e retorno. | P0/P8 antes/depois de diálogo; Rohden PDF 60 e 69–72. |
 | M7.2 | Distinguir vivido e acusação numa situação relacional. | Retomada de registro/percepção; linguagem da experiência. |
-| M7.3 | Escutar mantendo alguma referência em si. | P8; apoio e atenção em escuta simples. |
+| M7.3 | Escutar e conferir com o outro o que foi compreendido. | P8/CP4 e apoio no peito, 3–5 min na cena de M7.3 ou M7.6. O tempo principal é para a escuta e a possibilidade de correção. |
 | M7.4 | Relacionar firmeza, medida e limites. | B2/Y5 familiar como preparação; exercício relacional próprio. |
 | M7.5 | Reconhecer como o campo participa do cultivo. | Prática integral e comunidade; experiência do encontro. |
-| M7.6 | Relacionar vitalidade, cuidado e contribuição. | Pergunta de integração; sem exigir disponibilidade ilimitada. |
+| M7.6 | Relacionar presença e cuidado ao que é possível oferecer. | Retomar o Heart Lock-In conhecido ou, com bloco próprio, CP8/Tonglen. Usar CP5: o que consigo oferecer, o que o outro quer e que limite precisa ser expresso? |
 | M7.7 | Observar os efeitos da própria resposta. | Retomada posterior de P8; responsabilidade contextualizada. |
 | M7.8 | Reparar e reentrar no percurso. | Reencontrar preparação/conclusão e revisar o que aconteceu na relação. |
 | M8.1 | Identificar o que foi efetivamente aprendido. | Repetir uma sequência familiar e reconhecer mudanças. |
@@ -206,7 +227,7 @@ Experimente reconhecer a intenção do gesto. Depois veja o que pode soltar cons
 
 Cultivar essa percepção se soma à compreensão das emoções, das necessidades e das relações que estamos desenvolvendo no curso.”
 
-**Tela:** “Intenção e medida do esforço”. **Condução:** P3 ou movimento B2/Y5 familiar; sem interpretar pessoas pelo modo de executar. **Fonte:** três regulações, fichas técnicas e patrimônio psicológico do TSH.
+**Tela de abertura.** “Intenção e medida do esforço”. Um gesto de P3 ou B2/Y5 pode introduzir a cena. **Na prática principal de M4.6**, passar à situação cotidiana e aos seis minutos de Quick Coherence do caderno de condução. Fazer a segunda tentativa e perguntar que resposta cabe na situação. As três regulações, as fichas de movimento e a fonte de HeartMath ficam nas notas do professor.
 
 ### G. M5.4 — Permanecer e reencontrar
 
@@ -302,16 +323,16 @@ Depois da preparação que já conhecemos, haverá um momento para repousar com 
 
 Mantém-se a organização atual: primeira hora de dúvidas e segunda hora de prática. A distribuição abaixo refere-se a essa segunda hora, totalizando 60 minutos por encontro.
 
-| Encontro | Preparação/revisão | Aprendizagem e repetição | Quietude/elaboração | Conclusão e continuidade |
-| --- | --- | --- | --- | --- |
-| M0/M1 | 10 min para árvore, pés/R1 e adaptação. | 25 min para retomar Sustentar o Céu, variar o apoio ou explorar as palmas conforme a questão da turma e reunir no centro inferior. | 15 min para quietude, diferenças percebidas e cartografia. | 10 min para concluir e escolher uma ocasião de retorno. |
-| M2 | 10 min: reencontrar P1. | 25 min: variar um elemento e comparar. | 15 min: registro do vivido/interpretação. | 10 min: retomar e formular pergunta. |
-| M3 | 10 min: preparação conhecida. | 30 min: 20 de P3 e 10 de P2C, com demonstração e repetição. | 10 min: quietude, centro inferior e dúvidas de execução. | 10 min: conclusão e versões. |
-| M4 | 10 min: sequência familiar. | 25 min: intenção/esforço e P4. | 15 min: diferenciação e elaboração. | 10 min: conclusão e continuidade. |
-| M5 | 10 min: movimento/centros como preparação. | 25 min: P5A/P5B, modalidade identificada, com silêncio real. | 15 min: P6 ou recorte P6B; elaborar sem exigir relato. | 10 min: concluir e orientar repetição. |
-| M6 | 10 min: base conhecida e três centros. | 25 min: ensino de P7C — preparação, demonstração, exploração e conclusão; alternativa P7A. | 15 min: esclarecer versão, experiência e dificuldades; repouso e registro. | 10 min: retorno global e continuidade. |
-| M7 | 10 min: preparação individual. | 25 min: P8 e experiência relacional. | 15 min: comparar e elaborar. | 10 min: retorno e continuidade. |
-| M8 | 10 min: preparação e escolha. | 25 min: sequência efetivamente aprendida. | 15 min: plano pessoal e perguntas. | 10 min: conclusão do encontro e próximos passos. |
+| Encontro | Segunda hora em ordem de condução | Total |
+| --- | --- | --- |
+| M0/M1 | 10 min para árvore e apoios. 25 min para Sustentar o Céu, adaptação e reunião. 15 min para quietude e Cartografia. 10 min para retorno e próxima ocasião. | 60 min |
+| M2 | 10 min para retomar uma forma familiar. 25 min para variar um elemento e repetir. 15 min para comparar descrições. 10 min para retorno e pergunta para a semana. | 60 min |
+| M3 | 10 min para preparar. 20 min para repetir as formas do Ba Duan Jin. 10 min para explorar os três Tan Tien. 10 min para quietude e reunião no inferior. 10 min para concluir e escolher a versão. | 60 min |
+| M4 | 10 min para sequência familiar. 10 min para variar esforço e disposição afetiva. 15 min para repetir Quick Coherence, com tempo de experimentar. 15 min para comparar respostas a uma situação. 10 min para concluir e escolher a retomada. | 60 min |
+| M5 | 10 min para movimento e apoio. 8 min para retomar o campo superior e reunir no inferior. 17 min para meditação apoiada ou observação aberta, com silêncio. 15 min para elaborar o vivido. 10 min para retorno e continuidade. | 60 min |
+| M6 | 10 min para 3-2-1 acompanhado em uma situação simples, com fechamento. 10 min para retomar apoio e centros para mudar de tarefa. 25 min para ensinar e repetir a Órbita por trechos ou ficar na preparação. 10 min para repouso e elaboração. 5 min para retorno global e continuidade. | 60 min |
+| M7 | 10 min para apoio e retomada do cuidado no peito. 25 min para ensaio de escuta ou limite em duas rodadas. 15 min para ouvir o efeito e ajustar. 10 min para retorno e próximo gesto. | 60 min |
+| M8 | 10 min para escolher e preparar. 25 min para experimentar uma sequência conhecida. 15 min para organizar apoios e ocasião de revisão. 10 min para encerrar. | 60 min |
 
 Para a turma já gravada e o trabalho da primeira hora de dúvidas, ver [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo#Aula conjunta de M0 e M1 no Zoom|Aula conjunta de M0 e M1 no Zoom]].
 

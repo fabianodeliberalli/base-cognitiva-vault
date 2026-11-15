@@ -21,15 +21,17 @@ Desenvolvimento solicitado por Fabiano: [[04 - Caderno de Fundamentação - Cult
 | --- | --- | --- |
 | M0/M1 | Reencontrar a árvore e Sustentar o Céu. Experimentar apoio, respiração, atenção, movimento e retorno. As palmas podem ajudar a investigar uma diferença percebida. | Escolher uma versão acessível e levar uma descoberta ou uma pergunta a M2. |
 | M2 | Mesmos movimentos, variando um elemento; vivido e interpretação. | Comparar experiências sem exigir uma sensação esperada. |
-| M3 | Três regulações, Song, raiz, Dantian e Qi Ji; sequência regular. | Refinar a prática ensinada com apoio da demonstração. |
-| M4 | Padrões de esforço, controle e relação com emoções durante o cultivo. | Ajustar participação sem exigir supressão emocional. |
-| M5 | Quietude e interiorização, sustentadas pela prática corporal. | Integrar movimento e meditação em rotina possível. |
-| M6 | Reencontrar os três centros e ensinar a pequena circulação na versão de Fabiano, com preparação, exploração por partes, reunião e repouso. | Repetir a versão aprendida ou permanecer com a preparação e levar dúvidas ao acompanhamento. |
-| M7 | Relação entre centro cultivado, escuta, expressão e limites. | Investigar efeitos e dificuldades em situações cotidianas. |
+| M3 | Ensaiar Ba Duan Jin e três Tan Tien. No bloco central, 20 min para movimento e 10 min para os campos. | Escolher a sequência breve ou regular e concluir no inferior. |
+| M4 | Explorar medida do esforço e reservar 15 min do bloco central para repetir o Quick Coherence ensinado em M4.6. | Levar a qualidade de cuidado a um pedido real e observar que resposta cabe. |
+| M5 | Retomar o Tan Tien superior por 8 min e praticar uma modalidade de meditação por 17 min, com silêncio. Abrir a elaboração depois. | Escolher o cultivo do cuidado, a quietude ou o olhar e registrar o que muda ao retornar. |
+| M6 | 10 min de 3-2-1 acompanhado e 10 min de preparação corporal. 25 min de Órbita, 10 min de repouso e 5 min de retorno. | Repetir a versão aprendida ou sua preparação. Na vida diária, usar a pausa de M6.4 quando houver uma decisão. |
+| M7 | Retomar o cuidado no peito e reservar 25 min ao ensaio relacional de escuta ou limite em duas rodadas. | Investigar o que a pessoa ofereceu, como o outro respondeu e que ajuste depende das condições do encontro. |
 | M8 | Selecionar sequência conhecida e construir continuidade. | Plano pessoal revisável e escolha de apoio/aprofundamento. |
 
 Essa atualização amplia o quadro de encontros preservado abaixo. M0/M1 continuam conjuntos; são oito encontros/16h. A prática de M5 inclui aprendizagem contemplativa efetiva, além da elaboração de símbolos e sentidos. M6.5 e o encontro M6 têm lugar definido para ensinar a pequena circulação. A preparação de cada participante orienta a versão que experimenta e retoma.
 
+
+**Para preparar os encontros desta turma.** [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH#Tempo para o centro médio e o centro superior|Tempo para o centro médio e o centro superior]] localiza o primeiro ensino nas gravações. A [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH#4. Oito encontros: uso concreto da hora de prática|distribuição dos 60 minutos]] é a referência de montagem para a segunda hora. A primeira hora continua integralmente dedicada às perguntas. Os demais quadros desta nota preservam o desenvolvimento anterior.
 
 ## Aula conjunta de M0 e M1 no Zoom
 
@@ -201,6 +203,8 @@ Nesta turma, haverá oito encontros online ao vivo de duas horas com Fabiano, to
 Esses encontros pertencem à entrega central desta turma. Apresentá-los apenas como bônus ocultaria sua função na aprendizagem corporal. O acesso de um ano refere-se ao conteúdo da formação, não a encontros mensais durante um ano.
 
 Proposta de composição de cada encontro:
+
+**Distribuição geral de referência.** Para os minutos específicos da turma, usar [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH#4. Oito encontros: uso concreto da hora de prática|o quadro dos oito encontros]].
 
 - **Primeira hora:** 10 minutos para retomar a questão do módulo, 40 minutos de dúvidas agrupadas por tema e 10 minutos para síntese e preparação da prática.
 - **Segunda hora:** 10 minutos de orientação e alternativas, 30 minutos de prática em blocos com pausas, 15 minutos de integração e 5 minutos de encerramento e aplicação cotidiana.

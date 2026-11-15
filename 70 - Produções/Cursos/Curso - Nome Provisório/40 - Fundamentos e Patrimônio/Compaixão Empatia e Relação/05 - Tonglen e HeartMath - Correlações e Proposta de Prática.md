@@ -40,6 +40,10 @@ Tonglen integra a tradição budista tibetana de treinamento da mente e o horizo
 
 Não fundir os nomes nem pressupor que o guia antigo e a formação de Fabiano empreguem uma versão idêntica. Na montagem, selecionar e creditar a prática efetivamente conduzida.
 
+### Destino das técnicas na montagem atual
+
+M4.6 dedica 6 min ao Quick Coherence. M5.2 dedica 8 min ao Heart Lock-In. M6.4 insere 5 min de Freeze-Frame no caso do Mapa de Integração Funcional. No TSH, a experiência no peito dá abertura ao diálogo com o Tan Tien médio. CP8 e o Tonglen mantêm um lugar próprio e selecionável em M5.6 ou M7.6. Consultar [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH#Tempo para o centro médio e o centro superior|Tempo para o centro médio e o centro superior]] e [[05 - Caderno de Condução - Sequências e Aprendizagens do Cultivo#Condução do centro médio e do centro superior|Conduções e versões]] para tempos, versão e retomadas.
+
 ## 4 O que as pesquisas acrescentam
 
 R22, no [[01 - Fontes de Compaixão e Empatia - Textos Livros e Pesquisas|inventário]], registra um ensaio específico de Tonglen e seus limites. R07 inclui Tonglen em um programa com vários componentes. Nenhum deles testa esta associação com HeartMath; R16/R18/R21 ajudam a distinguir mecanismos e medidas.
