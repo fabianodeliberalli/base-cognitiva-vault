@@ -3,14 +3,18 @@ tipo: porta-de-entrada-de-contexto
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: referencia-atual-revisavel
-versao: "4.7"
+versao: "4.8"
 criado_em: 2026-07-21
-atualizado_em: 2026-11-14
+atualizado_em: 2026-11-15
 autor: Fabiano Deliberalli
 autoridade_de_decisao: Fabiano Deliberalli
 ---
 
 [[Ely Brito - Possibilidades de ampliação do TSH|Ely]]; [[TSH - Empatia e compaixão]]: fontes e aulas.
+
+## Cultivo nas gravações e nos encontros — 15/11/2026
+
+Ao abrir a produção de uma aula do TSH, consultar [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH#Do vídeo ao encontro de prática|Do vídeo ao encontro de prática]]. Ba Duan Jin, cultivo interno, meditação e Circulação Microcósmica integram a didática gravada e os oito encontros. A distribuição identifica o que o aluno aprende no vídeo, o que se aprofunda com Fabiano e o que pode repetir. Para a turma já gravada, consultar [[00 - Estado e Continuidade da Produção M1#Edição de M1.3 e M1.4 para a turma já gravada|Edição de M1.3 e M1.4]] e [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo#Aula conjunta de M0 e M1 no Zoom|Aula conjunta de M0 e M1 no Zoom]]. Na montagem, Fabiano pode ampliar as fontes, trazer outra correlação e mudar a escolha sugerida. Para esta turma, [[00 - Estado e Continuidade da Produção M1#Sorriso Interior como áudio de apoio de M0/M1|Sorriso Interior em M1.3 — áudio, apresentação e retomadas]].
 
 ## Cultivo e recuperação — 13/11/2026
 

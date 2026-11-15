@@ -125,7 +125,7 @@ Retome uma percepção mais ampla do corpo. Como estão os pés, as mãos e o ro
 
 ## P4. Qualidade da atenção e Sorriso Interior
 
-**Entrada:** M3 como preparação; M4/M5 como desenvolvimento. **Duração:** 5–8 min. **Base:** adaptação introdutória do Sorriso Interior de Mantak Chia, com fontes em 04. **Aprendizagem:** investigar como a disposição afetiva participa da atenção ao corpo.
+**Para montar.** [[00 - Estado e Continuidade da Produção M1#Sorriso Interior como áudio de apoio de M0/M1|Sorriso Interior em M1.3 — áudio, apresentação e retomadas]] reúne o MP3 de 6min10s da aula aberta, a ponte com M1.3 e os fundamentos para um retorno. A fala abaixo é outra possibilidade de condução. Em M4.4 pode ajudar a investigar como se recebe uma proteção. Em M5, Fabiano pode escolher uma linha de Chia e sua conclusão se desejar aprofundamento tradicional. Para um novo ensaio de P4, 5–8 min são uma referência. A pergunta é como a disposição afetiva participa da atenção ao corpo.
 
 **Fala proposta:**
 
@@ -142,6 +142,34 @@ Vamos ampliar a percepção para o corpo todo e concluir. Observe se algo mudou 
 **Material do professor:** a prática completa de Chia tem organização própria. Esta entrada seleciona uma disposição de cuidado e a apresenta como adaptação. Uma apresentação mais extensa deve identificar as linhas, o mapa tradicional e o encerramento escolhido. Conduzir sem exigir alegria nem interpretar uma dificuldade de sorrir como deficiência energética.
 
 **Retomada:** M4 pergunta como o aluno trata emoções e necessidades; M5 relaciona essa disposição à interiorização; M7 investiga a qualidade de presença com outra pessoa.
+
+## Condução do centro médio e do centro superior
+
+Estas conduções são esboços para a conversa de roteiro. Fabiano pode rever a aula, a versão, a duração e as correlações enquanto escreve. As indicações de tempo já incluem entrada e retorno. O quadro [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH#Tempo para o centro médio e o centro superior|Tempo para o centro médio e o centro superior]] situa o que vem antes e depois. Fabiano informa formação introdutória em HeartMath com treinador credenciado. Nas notas, identificar a versão efetivamente demonstrada e o que foi adaptado para o TSH.
+
+### M4.6 — Apreciar antes de responder (Quick Coherence)
+
+**6 min no vídeo.** Em cerca de um minuto, oferecer uma cena simples: chega um pedido e minha primeira resposta costuma ser dizer sim. A pessoa pode também escolher uma cena que desperte curiosidade. Reencontrar os apoios, aproximar a atenção da região do coração e imaginar que o ar passa por essa região, acompanhando um ritmo confortável. Convidar a trazer alguém, algum lugar ou um gesto que desperte apreço ou cuidado. Dar tempo de experimentar e retornar quando a atenção se afastar (cerca de três minutos). Nos dois minutos finais, rever o pedido, considerar o que cabe responder e voltar ao corpo inteiro e à sala. Se a qualidade desejada estiver distante, reconhecer o que está presente e conservar o apoio disponível.
+
+**Pergunta possível.** “O que percebo no peito quando me aproximo assim? O que eu gostaria de levar em conta antes de responder?” Um pouco mais de abertura, o mesmo aperto, vontade de pedir tempo ou nenhuma diferença clara são experiências que admitem investigação.
+
+### M5.2 — Sustentar uma qualidade de cuidado (Heart Lock-In)
+
+**8 min no vídeo.** Introduzir o exercício em um minuto. Reencontrar o apoio e a região do peito, na respiração que a pessoa acompanha com conforto. Reservar cerca de cinco minutos para evocar uma apreciação genuína, deixá-la alcançar a si e a outra pessoa, permanecer nela e retomá-la quando se perder. Deixar trechos de silêncio. Nos dois minutos finais, voltar ao corpo inteiro e ao ambiente. Perguntar: “Como esse cuidado encontraria expressão hoje? O que posso oferecer sem me abandonar?” Pode fazer sentido reconhecer um limite ou pedir ajuda. O guia de Howard Martin, PDF p. 43, inclui música do programa em sua versão de 2001. Para o TSH, a condução em voz e silêncio é uma adaptação de montagem. A fala pode situar o cuidado no Tan Tien médio conforme a linguagem tradicional escolhida.
+
+### M5.5 — Do olhar ao Tan Tien superior e de volta
+
+**7 min no vídeo.** Composição introdutória do TSH que aprofunda P2C. 1 min para sentir pés, assento e baixo ventre. 1 min para olhar com naturalidade uma folha, flor ou detalhe visível e reconhecer a região do peito. 2 min para deixar o olhar repousar, de olhos abertos ou suavemente fechados, e aproximar a atenção do campo no interior da cabeça, na referência da versão apresentada. Manter apoio e respiração espontânea. O campo pode ser apenas uma orientação por enquanto. 1 min para reunir no baixo ventre, retomar o corpo e olhar de novo. 2 min para distinguir detalhe visto, imagem que permaneceu e sentido que começa a se formar. Pode-se experimentar somente o olhar externo e o retorno aos apoios. Elaborar após a experiência.
+
+**Fala possível.** “Ao olhar de novo, o que você encontra na folha que talvez não tivesse percebido? O que ficou como imagem quando você repousou o olhar? Se isso ganhou algum sentido para você, podemos deixá-lo amadurecer.” Shen, clareza e interiorização situam a experiência na tradição. A folha permite falar do que foi visto mesmo a quem não formou imagem. Qualidade perceptiva, alcance espiritual e interpretação ganham espaço na conversa.
+
+**Procedência.** Compilação atribuída a Ernesto Garcia, PDF pp. 8–10, e Yang Jwing-Ming, *Embryonic Breathing*, PDF pp. 180–184, documentam variantes dos três campos. A apresentação de Fabiano, *Qi Gong MTC – Além das Fronteiras*, oferece a lâmina 8 (campos), a 10 (percepção e observação) e as 34–35 (registro de Pai Lin, olhar e natureza). A proposta de alternar o olhar e a referência interna é a condução para esta aula. O registro institucional do Instituto Confúcio/Udelar situa o ensino dos três centros na escola Pai Lin. Para aprofundar versões e o retorno ao inferior, ver [[04 - Caderno de Fundamentação - Cultivo Meditação Prana e Circulação]], §§13–15, e [[08 - Mapas Rim Nao e Interocepção - Leitura e Incorporação]].
+
+### M6.4 — Fazer uma pausa numa decisão (Freeze-Frame)
+
+**5 min dentro do Mapa de Integração Funcional.** No primeiro minuto, retomar uma situação já escolhida no mapa, reconhecer a pressão e interromper o ensaio da resposta automática. Em dois minutos, reencontrar o foco na região do coração e a respiração confortável, recordar um momento de apreciação ou alegria e reconhecer a qualidade que estiver disponível. Em outro minuto, dirigir a pergunta ao coração na linguagem do método: “Que resposta faria mais sentido nesta situação?” Permanecer em escuta. No minuto final, retornar aos apoios e ao mapa: o que surgiu, o que ainda preciso saber e que ação, limite ou condição tornaria essa alternativa viável? A pessoa pode seguir com uma pergunta em aberto.
+
+**Fontes de HeartMath.** [[04 - Ricard Wallace PUCRS e HeartMath - Fontes e Ampliações]], NF01, Howard Martin, *The HeartMath Guidebook* (2001), PDF pp. 14–15, 33–38 e 43. Para a entrada breve, [orientação pública de Quick Coherence](https://kb.heartmath.com/en/en/getting-started/quick-coherence-technique). [[05 - Tonglen e HeartMath - Correlações e Proposta de Prática]] distingue os métodos e localiza CP8/Tonglen. A atenção cardíaca, a experiência subjetiva no peito e o Tan Tien médio oferecem leituras relacionadas. O exercício investiga a experiência e seus efeitos na ação. Uma sensação ou uma imagem, por si só, não fornece uma medida de coerência cardíaca.
 
 ## P5. Continuidade da atenção na quietude
 
@@ -274,9 +302,9 @@ Perguntas de revisão: o que consigo reencontrar? O que compreendo melhor? O que
 | M0/M1 até M2 | P1; P2 quando introduzida. | Aprender preparação e conclusão; reconhecer uma descoberta e uma dúvida. |
 | M2 até M3 | Repetir P1/P2. | Variar um elemento e comparar a experiência. |
 | M3 até M4 | P3 e P2C conforme ensino. | Refinar Song, apoio, direção e centro; reconhecer os três campos e reunião no inferior. |
-| M4 até M5 | P3; P4 como complemento ensinado. | Perceber qualidade da atenção e modos de esforço/controle. |
-| M5 até M6 | P3/P2C seguida de P5A ou P5B, com P6 em momento de elaboração. | Reunir movimento, quietude, modos de observar e elaboração, distinguindo as tarefas. |
-| M6 até M7 | Sequência conhecida; P7 na versão efetivamente ensinada ou alternativa preparatória. | Retomar centro, circuito aprendido, reunião e quietude; levar dúvidas ao encontro. |
+| M4 até M5 | Repetir a versão de Quick Coherence aprendida em M4.6 ou voltar ao Sorriso Interior. | Em uma situação simples, registrar como se aproximou de si e se outra resposta encontrou espaço. |
+| M5 até M6 | Escolher cuidado no peito, quietude ou exploração do campo superior, conforme o propósito. | Registrar o que foi percebido, a forma de expressão e o que mudou ao voltar. A base e a reunião no inferior permanecem acessíveis. |
+| M6 até M7 | Repetir a versão de P7 efetivamente ensinada ou a preparação. Fora desse momento, pode-se usar o Freeze-Frame diante de uma escolha. | Distinguir o que se repete com autonomia e o que pede acompanhamento. Guardar uma situação de escuta ou limite para M7. |
 | M7 até M8 | Sequência familiar e P8. | Investigar efeitos no encontro e possibilidade de retorno. |
 | Após M8 | Plano pessoal de P8. | Continuidade, revisão e aprofundamento escolhido. |
 
@@ -368,6 +396,8 @@ Consultar fontes/versões e as revisões concretas da seção 8 antes de escolhe
 ## Possibilidade de Tonglen e HeartMath na condução — 14/11/2026
 
 [[05 - Tonglen e HeartMath - Correlações e Proposta de Prática]] desenvolve CP8 como proposta consultável: apoio e qualidade de cuidado, preparação de dar/receber e transferência para uma participação concreta. Também conserva um caminho que começa pela compaixão diante da própria dificuldade, sem exigir calma perfeita. Recuperar a procedência e versão antes de ensinar uma técnica tradicional ou HeartMath específica. A base P0/P1 continua disponível; o roteiro, as variações e a conversa posterior ficam discriminados na nota, para seleção em M5/M7 e retomada em M8.2.
+
+Para roteirizar a turma atual, ver [[05 - Caderno de Condução - Sequências e Aprendizagens do Cultivo#Condução do centro médio e do centro superior|Conduções e versões]] e [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH#Tempo para o centro médio e o centro superior|Tempo para o centro médio e o centro superior]]. O 3-2-1, o trabalho contemplativo e a Órbita têm tempos próprios.
 
 ## 6. CEMETC — situações de aprendizagem propostas — 14/11/2026
 

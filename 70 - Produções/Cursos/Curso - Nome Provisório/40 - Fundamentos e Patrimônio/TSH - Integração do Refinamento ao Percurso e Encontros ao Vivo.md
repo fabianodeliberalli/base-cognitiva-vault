@@ -2,7 +2,7 @@
 tipo: desenvolvimento-pedagogico
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-atualizado_em: 2026-11-13
+atualizado_em: 2026-11-15
 autor_do_projeto: Fabiano Deliberalli
 ---
 
@@ -19,17 +19,37 @@ Desenvolvimento solicitado por Fabiano: [[04 - Caderno de Fundamentação - Cult
 
 | Encontro | Trabalho a desenvolver | Retomada entre encontros |
 | --- | --- | --- |
-| M0/M1 | Primeira sequência reconhecível; apoio, mãos, atenção e encerramento. | Repetir a versão inicial; reconhecer descobertas e dúvidas. |
+| M0/M1 | Reencontrar a árvore e Sustentar o Céu. Experimentar apoio, respiração, atenção, movimento e retorno. As palmas podem ajudar a investigar uma diferença percebida. | Escolher uma versão acessível e levar uma descoberta ou uma pergunta a M2. |
 | M2 | Mesmos movimentos, variando um elemento; vivido e interpretação. | Comparar experiências sem exigir uma sensação esperada. |
-| M3 | Três regulações, Song, raiz, Dantian e Qi Ji; sequência regular. | Refinar a prática ensinada com apoio da demonstração. |
-| M4 | Padrões de esforço, controle e relação com emoções durante o cultivo. | Ajustar participação sem exigir supressão emocional. |
-| M5 | Quietude e interiorização, sustentadas pela prática corporal. | Integrar movimento e meditação em rotina possível. |
-| M6 | Reunir fundamentos e estudar circulação; aprofundar segundo preparação. | Consolidar a base e distinguir estudo do mapa de realização técnica. |
-| M7 | Relação entre centro cultivado, escuta, expressão e limites. | Investigar efeitos e dificuldades em situações cotidianas. |
+| M3 | Ensaiar Ba Duan Jin e três Tan Tien. No bloco central, 20 min para movimento e 10 min para os campos. | Escolher a sequência breve ou regular e concluir no inferior. |
+| M4 | Explorar medida do esforço e reservar 15 min do bloco central para repetir o Quick Coherence ensinado em M4.6. | Levar a qualidade de cuidado a um pedido real e observar que resposta cabe. |
+| M5 | Retomar o Tan Tien superior por 8 min e praticar uma modalidade de meditação por 17 min, com silêncio. Abrir a elaboração depois. | Escolher o cultivo do cuidado, a quietude ou o olhar e registrar o que muda ao retornar. |
+| M6 | 10 min de 3-2-1 acompanhado e 10 min de preparação corporal. 25 min de Órbita, 10 min de repouso e 5 min de retorno. | Repetir a versão aprendida ou sua preparação. Na vida diária, usar a pausa de M6.4 quando houver uma decisão. |
+| M7 | Retomar o cuidado no peito e reservar 25 min ao ensaio relacional de escuta ou limite em duas rodadas. | Investigar o que a pessoa ofereceu, como o outro respondeu e que ajuste depende das condições do encontro. |
 | M8 | Selecionar sequência conhecida e construir continuidade. | Plano pessoal revisável e escolha de apoio/aprofundamento. |
 
-Essa atualização amplia o quadro de encontros preservado abaixo. M0/M1 continuam conjuntos; são oito encontros/16h. A prática de M5 inclui aprendizagem contemplativa efetiva, além da elaboração de símbolos e sentidos. A pequena circulação pode ser estudada em M6 e desenvolvida quando pertinente à turma, sem certificação automática de preparo por ter alcançado o módulo.
+Essa atualização amplia o quadro de encontros preservado abaixo. M0/M1 continuam conjuntos; são oito encontros/16h. A prática de M5 inclui aprendizagem contemplativa efetiva, além da elaboração de símbolos e sentidos. M6.5 e o encontro M6 têm lugar definido para ensinar a pequena circulação. A preparação de cada participante orienta a versão que experimenta e retoma.
 
+
+**Para preparar os encontros desta turma.** [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH#Tempo para o centro médio e o centro superior|Possibilidades para o centro médio e o superior]] oferece possibilidades nas gravações. A [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH#4. Oito encontros: uso concreto da hora de prática|distribuição possível dos 60 minutos]] exemplifica a segunda hora. A primeira hora continua dedicada às perguntas. A pergunta que o grupo trouxer e a condução de Fabiano podem mudar a composição interna da prática.
+
+## Aula conjunta de M0 e M1 no Zoom
+
+**Aplicação à turma já gravada, 15/11/2026.** M1.3 oferece apoio, respiração e centro na árvore e um primeiro ciclo de Sustentar o Céu. M1.4 oferece os três campos e o mapa Rim–Jing–Nao. Quem chega pela primeira vez pode começar na cadeira, observar a demonstração e entrar na repetição. A contribuição do encontro é reconhecer em que ponto cada um precisa de apoio, de tempo, de outra palavra ou de uma variação. A hipótese com as palmas registrada em 1º de novembro fica disponível nesse contexto.
+
+| Tempo | Trabalho | Condução |
+| --- | --- | --- |
+| Primeira hora | Perguntas dos alunos | Ouvir quem experimentou a árvore e quem chega ao movimento pela primeira vez. O que ficou mais acessível na cadeira? O que mudou nos pés quando os braços subiram? A imagem dos três campos ajudou a perceber alguma coisa ou abriu outra pergunta? |
+| 10 min | Reencontrar o apoio | Demonstrar em pé e na cadeira. Reconhecer a planta inteira, aproximar a atenção da região de R1 e voltar ao contato do pé todo. Soltar o esforço que sobrou, deixar a respiração acontecer e reconhecer o baixo ventre. |
+| 25 min | Repetir e experimentar | Retomar Sustentar o Céu. Quem começa pode ficar na árvore, observar uma vez ou experimentar um alcance menor. Se a questão da turma for a sensibilidade das mãos, aproximar e afastar as palmas e depois voltar ao movimento. Se for a sustentação, variar o apoio. Encerrar reunindo no centro inferior. |
+| 15 min | Permanecer e elaborar | Oferecer um intervalo de quietude. Depois, distinguir o que se percebeu, o que se associou e o que continua em aberto. Calor, curiosidade, prazer, dificuldade ou uma diferença ainda sem nome podem ter lugar. A linguagem de Qi pode orientar nova tentativa. |
+| 10 min | Concluir e escolher | Reconhecer pés, mãos e ambiente, fazer pequenos movimentos e voltar ao grupo. Na cartografia de M1.6, recuperar o que percebi, como procurei expressar, o que mudou ao retornar e o que quero continuar observando. Escolher uma ocasião viável até M2. |
+
+**Se a pergunta for sobre como cada um se aproxima de si**, Fabiano pode retomar o sorriso com os olhos na passagem do movimento à quietude. Quem chega ao encontro sem ter ouvido o áudio pode acompanhar a condução ali mesmo. Essa escolha usa parte do bloco já previsto e pode ceder lugar à exploração que a turma pedir. [[00 - Estado e Continuidade da Produção M1#Sorriso Interior como áudio de apoio de M0/M1|Sorriso Interior em M1.3 — áudio, apresentação e retomadas]].
+
+**O que observar para dar continuidade.** Se a demonstração dos braços obscurecer o apoio dos pés, reduzir a amplitude ou retornar à árvore na cadeira. Se “sentir o Qi” parecer uma resposta esperada, ouvir primeiro o que cada pessoa percebeu e depois experimentar uma leitura na linguagem de Qi. Se os campos ou Rim–Jing–Nao trouxerem dúvidas, reencontrar o baixo ventre e retomar a figura de M1.4; o trabalho sistemático com os três campos volta em M3.6. Registrar a dúvida que pede retomada e o que mudou com o ajuste. O encontro ganha espaço para a curiosidade e a vitalidade, além das dificuldades.
+
+**Continuidade.** M2 compara uma variação de atenção, M3 organiza a sequência, M5 desenvolve interiorização e meditação e M6.5 ensina a pequena circulação com acompanhamento no Zoom de M6. Ao concluir o encontro conjunto, anotar qual versão foi ensinada, qual adaptação foi útil e o que vale retomar. Ver [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH#Do vídeo ao encontro de prática|Do vídeo ao encontro de prática]] e [[00 - Estado e Continuidade da Produção M1#Edição de M1.3 e M1.4 para a turma já gravada|Edição de M1.3 e M1.4]].
 
 # Integração do refinamento ao percurso do TSH
 
@@ -103,7 +123,7 @@ Proposta de redação autoral para desenvolvimento: “Minha aproximação com a
 | M3.5 | Qi, constituição, reserva e cultivo; Jing, Shen, Zhi e Dantian conforme as fontes e a pertinência. Relacionar sustentação, circulação e direção, sem equivalência automática com estruturas ou medidas biológicas. |
 | M3.6 | Apoio, organização corporal, centro, circulação e limites; corpo, respiração e intenção. Preparar a prática orientada e apresentar o mapa tradicional da Órbita como possibilidade de aprofundamento. |
 | M3.7 | Escolher, dosar e adaptar recursos corporais, respiratórios, vocais e atencionais; observar orientação, vitalidade e participação. Mobilizar ou pausar pode ser mais pertinente que acalmar. |
-| M6 | Retomar o que foi vivido e diferenciar mapa, instrução, sensação e interpretação; aprofundar a Órbita somente conforme a preparação e o procedimento escolhido. |
+| M6 | Retomar o que foi vivido e diferenciar mapa, instrução, sensação e interpretação; ensinar a Órbita em M6.5 e no Zoom na versão de Fabiano, oferecendo a preparação como alternativa. |
 | M8 | Construir continuidade realista de cultivo, observando condições, efeitos e necessidade de orientação. |
 
 ## Totalidade e precisão das correlações
@@ -186,6 +206,8 @@ Esses encontros pertencem à entrega central desta turma. Apresentá-los apenas 
 
 Proposta de composição de cada encontro:
 
+**Distribuição geral de referência.** Para os minutos específicos da turma, usar [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH#4. Oito encontros: uso concreto da hora de prática|o quadro dos oito encontros]].
+
 - **Primeira hora:** 10 minutos para retomar a questão do módulo, 40 minutos de dúvidas agrupadas por tema e 10 minutos para síntese e preparação da prática.
 - **Segunda hora:** 10 minutos de orientação e alternativas, 30 minutos de prática em blocos com pausas, 15 minutos de integração e 5 minutos de encerramento e aplicação cotidiana.
 
@@ -199,7 +221,7 @@ A hora prática inclui instrução, observação e integração; não equivale a
 | M3 | Cultivo, vitalidade, circulação e intenção, além de aquietamento. | Qi Gong orientado conforme a formação de Fabiano; explorar corpo, respiração e intenção, dosagem e alternativas. |
 | M4 | Crescimento assimétrico, proteção e possibilidades pouco nutridas. | Árvore e nomeação provisória; experimentar uma pequena variação de resposta sem exposição de trauma. |
 | M5 | Essência e distinções conceituais; horizonte transpessoal. | Prática simbólica ou contemplativa de referência e sentido, com liberdade de interpretação e partilha. |
-| M6 | Integração situada, impasses e retomadas. | Retomar cultivo e circulação; possível aprofundamento orientado da Órbita, conforme preparação, sem obrigação de completar a sequência. |
+| M6 | Integração situada, impasses e retomadas. | Ensinar a Órbita por trechos, reunir e repousar. Quem preferir pode praticar a preparação e concluir no centro inferior. |
 | M7 | Expressão, criatividade, limites, poder, efeitos e reparação. | Ensaiar comunicação, limite ou gesto criativo e rever seus efeitos; partilha e trabalho em dupla opcionais. |
 | M8 | Sustentação, nutrição, circulação e expressão na continuidade. | Compor e experimentar uma sequência pessoal breve e um plano de apoios e revisão. |
 
@@ -213,7 +235,7 @@ Texto-base da entrega: “Além das 54 aulas gravadas, nesta turma teremos oito 
 
 ## Lugar da Órbita Microcósmica
 
-A Órbita pode encontrar coerência curricular pelo desenvolvimento progressivo de condições de participação. A proposta não é prometer um efeito específico nem comprimir uma prática tradicional complexa numa microaula.
+A Órbita Microcósmica, ou pequena circulação, integra a aula gravada M6.5 e o encontro M6. As retomadas desde M1 constroem condições de participação. A duração, a versão de transmissão e a escolha entre trajeto e preparação são decisões de condução.
 
 | Etapa | Função |
 | --- | --- |
@@ -221,7 +243,7 @@ A Órbita pode encontrar coerência curricular pelo desenvolvimento progressivo 
 | M3.5 | Apresentar linguagem e origem tradicional, conforme a formação efetivamente utilizada por Fabiano. |
 | M3.6 e encontro de M3 | Trabalhar apoios, centro, movimento, respiração confortável e intenção; diferenciar mapa e sensação. O professor decide se cabe uma introdução ao percurso. |
 | M5 | Aprofundar quietude, continuidade da atenção e cultivo contemplativo; elaborar sentidos espirituais e simbólicos sem exigir sensações específicas como prova de realização. |
-| M6 e encontro de M6 | Retomar fundamentos, ajustar a participação e, se pertinente à turma, orientar a sequência escolhida; integrar a experiência com palavras, imagens ou registro aberto. |
+| M6 e encontro de M6 | Demonstrar o percurso na gravação de M6.5. No encontro, orientar a sequência da versão ensinada ou a preparação. Reunir, repousar e registrar o que pede acompanhamento. |
 | M8 | Decidir continuidade, dose e necessidade de orientação, a partir da prática efetivamente ensinada. |
 
 Não nomear toda varredura corporal ou visualização como Órbita Microcósmica. Preservar a linhagem, a instrução e as adaptações do procedimento ensinado. Não equiparar meridianos a nervos ou o percurso tradicional a uma corrente fisiológica demonstrada. Bentov permanece interlocutor de aprofundamento, sem funcionar como fundamento experimental da técnica. A sequência completa e sua duração continuam a cargo de Fabiano.

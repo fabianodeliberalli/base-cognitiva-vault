@@ -2,9 +2,15 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.28"
-atualizado_em: 2026-11-14
+versao: "0.31"
+atualizado_em: 2026-11-15
 ---
+
+## Cultivo nas aulas gravadas e práticas — 15/11/2026
+
+Para produzir uma aula, consultar [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH#Do vídeo ao encontro de prática|Do vídeo ao encontro de prática]]. Qi Gong/Ba Duan Jin, interiorização, meditação e Circulação Microcósmica integram o ensino gravado e os oito encontros. O quadro indica o que demonstrar e repetir em cada etapa. Para esta turma, [[00 - Estado e Continuidade da Produção M1#Edição de M1.3 e M1.4 para a turma já gravada|Edição de M1.3 e M1.4]] identifica os complementos prontos, e [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo#Aula conjunta de M0 e M1 no Zoom|Aula conjunta de M0 e M1 no Zoom]] situa as palmas como uma investigação possível dentro da sequência já ensinada.
+
+**Ao abrir uma aula com Fabiano.** [[TSH - Preparação dos Roteiros e Calendário 2026-2027#Da pesquisa ao ensaio da aula|Como abrir e rever o roteiro com Fabiano]]. [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH#Tempo para o centro médio e o centro superior|Possibilidades para o centro médio e o superior]] e [[Práticas por Módulo - Consulta em criação e expansão#Escolha do repertório para a turma atual|Repertório por aula e fonte]] guardam lugares possíveis para HeartMath, três Tan Tien, Ba Duan Jin, interiorização, Órbita e retorno à relação. Cada roteiro pode receber novas fontes, práticas e correlações e o parecer de Fabiano durante a escrita. A primeira hora do Zoom acolhe dúvidas e a segunda oferece uma hora de prática. Para o material já gravado de M0/M1, [[00 - Estado e Continuidade da Produção M1#Sorriso Interior como áudio de apoio de M0/M1|Sorriso Interior em M1.3 — áudio, apresentação e retomadas]]. Um começo possível de M2.1 é variar o apoio da atenção num gesto conhecido.
 
 ## Acervo CEMETC — avaliação e propostas — 14/11/2026
 

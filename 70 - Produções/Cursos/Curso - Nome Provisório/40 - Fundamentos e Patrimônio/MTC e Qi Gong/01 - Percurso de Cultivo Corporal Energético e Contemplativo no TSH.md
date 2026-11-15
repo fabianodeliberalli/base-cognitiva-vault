@@ -3,10 +3,14 @@ tipo: base-curricular-e-didatica
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
 criado_em: 2026-11-13
-atualizado_em: 2026-11-13
+atualizado_em: 2026-11-15
 autor_do_projeto: Fabiano Deliberalli
 origem: deliberacao-autoral-e-reorganizacao-do-acervo
 ---
+
+## Continuidade entre aula gravada e prática acompanhada — 15/11/2026
+
+Fabiano confirmou o cultivo de Qi Gong, com Ba Duan Jin, interiorização, meditação e Circulação Microcósmica como conteúdo integrante das aulas gravadas e práticas. Para cada bloco, escolher o que demonstrar, o que retomar com acompanhamento e a versão que o aluno poderá repetir. [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH#Do vídeo ao encontro de prática|Do vídeo ao encontro de prática]] localiza as escolhas nos módulos. A árvore e Sustentar o Céu estão na edição de M1.3 desta turma. A condução das mãos, situada no conjunto maior, pode refinar uma diferença que a turma encontrar ao repetir. Ver [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo#Aula conjunta de M0 e M1 no Zoom|Aula conjunta de M0 e M1 no Zoom]].
 
 ## Desenvolvimento substantivo de 13/11/2026
 

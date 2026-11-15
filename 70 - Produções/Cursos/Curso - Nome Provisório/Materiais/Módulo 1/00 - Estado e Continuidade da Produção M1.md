@@ -3,14 +3,69 @@ tipo: estado-e-continuidade-de-producao
 projeto: Traduzindo o Ser Humano
 recorte_entrega: "M1.1-M1.7"
 status: referencia-atual-revisavel
-versao: "1.9"
+versao: "1.13"
 criado_em: 2026-08-23
-atualizado_em: 2026-11-14
+atualizado_em: 2026-11-15
 preparacao_de_gravacoes: autorizada
-status_audiovisual: arquivos-finais-e-ensaio-pendentes
+status_audiovisual: "M1 gravado segundo Fabiano; novas edições de M1.3 e M1.4 preparadas para sua revisão"
 ---
 
 [[Ely Brito - Possibilidades de ampliação do TSH|Ely]]; [[TSH - Empatia e compaixão]]: M1.2/M1.5/M1.7.
+
+## Edição de M1.3 e M1.4 para a turma já gravada
+
+**15/11/2026.** Fabiano informou que M0 e M1 foram gravados e disponibilizados na Hotmart. As novas versões abaixo foram montadas com os MP4 de M1.3, M1.4 e da aula prática aberta. M0.2 foi avaliada pelo material escrito e pela indicação de que a condução o acompanha. A gravação de M0.2 não estava disponível. Para esta turma, o ensino repetível está acessível a partir de M1.3; o lugar previsto em M0.2 permanece para uma próxima produção.
+
+| Aula | Material preparado | Local e função |
+| --- | --- | --- |
+| M1.3 | [Competência incorporada com prática · MP4 de 35min19s](https://chatgpt.com/library?file_id=libfile_fde3_f-b4d0c5688888819180f9f4ce01c11e0f_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal). | Cartela breve aos 20min29s atualiza o convite ao Zoom. Aos 23min03s entram a árvore em pé e na cadeira, pés/R1, centro e um ciclo de Sustentar o Céu. A apresentação de Sustentar o Céu começa aos 27min58s da aula. Após conclusão e reflexão, a fala original retoma aos 30min24s. |
+| M1.4 | [Território e mapas · MP4 de 29min00s](https://chatgpt.com/library?file_id=libfile_fde3_f-95368c35f2248191a6bf623544d4ad5b_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal). | Aos 15min08s, fala e figura dos três Tan Tien, retorno ao apoio e quadro de leitura silenciosa do mapa tradicional Rim–Jing–Nao. A fala original retoma aos 16min35s. |
+| M1.4, aluno | `TSH_M1_4_Mapas_para_acompanhar_a_experiencia.docx` e `.pdf`, versão 0.2. | O texto já utilizado ganhou os três campos, a figura da reserva e nutrição e uma pergunta para retornar ao vivido. |
+
+**Procedência.** Na gravação original da aula aberta, o ciclo de Sustentar o Céu está entre 1h12min07s e 1h13min05s; a imagem mostra Fabiano por inteiro. Para M4/M5, o Sorriso Interior aparece a partir de cerca de 1h32min53s e o retorno aos apoios por volta de 1h40min. A edição de M1.3 utiliza apenas palavras de encerramento desse último bloco na conclusão da sequência. O acervo visual da aula aberta sustenta os apoios da postura e da cadeira; a figura de R1 conserva o crédito de Kim et al. Os materiais de M1.4 retomam o mapa dos três campos e a elaboração de *Qi Gong MTC – Além das Fronteiras*, especialmente as lâminas 8 e 22–23, com esquema redesenhado de Rim–Jing–Nao.
+
+**Retomada das práticas.** A turma encontra a demonstração da árvore e de Sustentar o Céu na própria M1.3 e os três campos na M1.4. Os recortes usados na montagem ficam no acervo do professor. No Zoom, a turma pode repetir o movimento e explorar as questões que surgirem. [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo#Aula conjunta de M0 e M1 no Zoom|Aula conjunta de M0 e M1 no Zoom]] reúne perguntas e adaptações a observar. [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH#Do vídeo ao encontro de prática|Do vídeo ao encontro de prática]] distribui o conteúdo das próximas gravações e encontros.
+
+**Montagem na Hotmart para a turma já gravada.** Por escolha de Fabiano, a atualização se concentra nas duas páginas de aula existentes. Cada uma recebe o vídeo completo e a leitura correspondente. O único conteúdo complementar desta atualização com página própria é *Sorriso Interior — uma aproximação gentil*, em M1, com MP4 para acompanhar pelas imagens e MP3 da mesma condução para ouvir. O ZIP de publicação reúne seis arquivos para a turma e uma orientação para Fabiano. M1.6 e o encontro ao vivo oferecem ocasião para retomar a Cartografia. A próxima ação de Fabiano é substituir as mídias, anexar as leituras e conferir o resultado na visão do aluno. [Roteiro de uma página em PDF](https://chatgpt.com/library?file_id=libfile_fde3_f-f5e2c8d14a8c81919a8063cb7b1e5eac_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal) · [Roteiro editável](https://chatgpt.com/library?file_id=libfile_fde3_f-b7e5661497a8819193fd1cd351fb6309_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal) · [Pacote de publicação das duas aulas e do Sorriso Interior](https://chatgpt.com/library?file_id=libfile_fde3_f-e810d42ea1688191a6c17e38e2556bc6_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal).
+
+**Conferência dos vídeos.** Após o relato de congelamento da câmera do Zoom, as duas aulas foram exportadas novamente, com o enquadramento inteiro, em 1920 × 1080 e 25 quadros por segundo. A conferência comparou o movimento da câmera quadro a quadro com as gravações de origem, antes e depois das inserções. Incluiu também a reprodução das demonstrações integradas e a verificação de que o áudio corresponde integralmente ao da montagem anterior. Os tempos indicados na tabela se aplicam a essas cópias.
+
+**Leitura de M1.3 para esta edição.** *O aprendido na vida* conserva o exemplo e a pergunta da cópia do aluno, incorpora a seção de cultivo e liga a árvore à prática do Sorriso Interior, que pode ser acompanhada pelas imagens ou só pela voz. [PDF do aluno](https://chatgpt.com/library?file_id=libfile_fde3_f-15c5a9f701e08191a0b809c29b7270ec_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal) · [Word editável](https://chatgpt.com/library?file_id=libfile_fde3_f-216857b668948191a60d3054fbc04bd7_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal).
+
+### Sorriso Interior como áudio de apoio de M0/M1
+
+Fabiano conduziu uma versão breve na Masterclass e voltou à prática na aula aberta. O MP3 se presta a uma escuta independente. Ele começa pelos pés e pela postura, passa pela respiração, pelo sorriso com os olhos, pelo baixo ventre e pelo peito, e termina reunindo no centro inferior e voltando aos pés. A pergunta sobre como a pessoa se aproxima de si aparece por volta de 4min29s e a reunião começa perto de 5min44s. O recorte corresponde a aproximadamente 1h34min40s–1h40min50s da aula aberta e termina antes da conversa no chat. O roteiro de postagens previa o uso em 16/11.
+
+**Por que cabe em M1.3.** A aula pergunta como uma capacidade se torna disponível pela experiência. Na árvore, o aluno pode reconhecer e ajustar o apoio enquanto se move. No áudio, reencontra os mesmos apoios e experimenta mudar a maneira de se aproximar de si. A referência ao que já se fez, logo no início da gravação, encontra aí um antecedente claro. Quem não esteve na Masterclass também consegue entrar pela própria aula.
+
+#### Arquivos para montar o Sorriso Interior
+
+- **Arquivo para anexar à aula.** [Sorriso Interior — uma aproximação gentil · MP3](https://chatgpt.com/library?file_id=libfile_fde3_f-af59194db8548191a5f50b6e59ac5928_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal). A cópia tem título, autoria e módulo próprios para a turma. A voz, as pausas e o encerramento são idênticos aos do original.
+- **Vídeo da prática complementar de M1.** [Sorriso Interior com imagens e frases · MP4 de 6min10s](https://chatgpt.com/library?file_id=libfile_fde3_f-46a1ef93bf108191ae66fa0b176790ba_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal). A mesma faixa acompanha as ilustrações de [Reunir e concluir e Sorriso Interior, lâminas 11 e 18 da aula prática](https://chatgpt.com/space/page_5e2cc25ed3ec81919c3544b9483efa71). A figura sentada com uma mão no peito aparece aos 3min20s, quando a voz convida ao gesto. Aos 4min29s, a figura permanece enquanto a pergunta volta à maneira de se aproximar de si. Na montagem desta turma, a pessoa encontra as duas formas de acompanhar a prática na mesma página.
+- **Fonte da gravação.** [MP3 original da aula prática · 6min10s](https://chatgpt.com/library?file_id=libfile_fde3_f-5efc9a61224c8191acd247acd233d725_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal). O arquivo de origem se chama `02-SEG-16-WhatsApp-Sorriso-Interior-audio.mp3`. Esse nome registra o planejamento de uso no WhatsApp.
+- **Demonstração que antecede a escuta.** [M1.3 com a prática da árvore · 35min19s](https://chatgpt.com/library?file_id=libfile_fde3_f-b4d0c5688888819180f9f4ce01c11e0f_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal). A sequência começa aos 23min03s. A leitura *O aprendido na vida* acompanha a passagem do apoio dos pés ao convite para experimentar o Sorriso Interior em quietude.
+- **Leitura que acompanha a experiência.** [[M1.3 - Texto breve de apoio - O aprendido na vida|O aprendido na vida]]. A [[07 - Ficha - Cartografia Multidimensional Inicial da Experiência#Registro breve para as aulas e encontros ao vivo|Cartografia do acervo, perguntas para consulta]] oferece alternativas de registro. Para planejar o retorno, consultar [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo#Aula conjunta de M0 e M1 no Zoom|Encontro de M0/M1]].
+
+**Disposição na aula.** O vídeo de M1.3 apresenta a experiência em movimento. Em seu texto, uma indicação remete à página *Sorriso Interior — uma aproximação gentil*, nos complementares do próprio M1. O MP4 fica como mídia dessa página e o MP3 em seus arquivos para download. A pessoa escolhe acompanhar pela imagem ou só pela voz e pode voltar em outro dia. Os apontadores acima dão acesso às cópias de preparação de Fabiano.
+
+**Texto possível para o aluno**
+
+> Na prática da árvore, você pôde perceber como os pés sustentam o movimento dos braços. Vamos reencontrar esse apoio e experimentar um sorriso suave com os olhos. Enquanto acompanha a respiração, o que você percebe na maneira de se aproximar de si? Você pode ouvir agora ou voltar em outro dia.
+
+**Ao conduzir.** O toque das mãos é opcional. Se a frase do áudio sobre estar seguro soar distante do que a pessoa vive, podemos perguntar “Que apoio você consegue reconhecer aqui, agora?” Pode haver curiosidade, prazer, estranheza ou algo ainda difícil de expressar.
+
+#### Retomadas possíveis do Sorriso Interior
+
+| Momento | O que esse retorno pode acrescentar |
+| --- | --- |
+| M0/M1 e M1.3 | M0 acolhe os modos de participar. A prática em áudio encontra seu primeiro lugar de acesso em M1.3, depois da experiência da árvore. O vídeo de M1.4 pode dar linguagem aos campos que despertaram curiosidade. |
+| M1.6 e Zoom de M0/M1 | Na Cartografia que a pessoa já usa, cabem quatro perguntas. O que percebi? Como procurei expressar? O que mudou ao retornar? O que quero continuar observando? No Zoom, se a questão que a turma traz for a qualidade da atenção, um gesto breve do Sorriso após Sustentar o Céu pode ocupar parte do tempo de quietude. Se a pergunta for outra, Fabiano pode seguir pelos apoios, pelo movimento ou pelas palmas. |
+| M3 e M4.4 | O Ba Duan Jin e os três campos ganham desenvolvimento próprio em M3. Em M4.4, o Sorriso pode ajudar a perguntar “Como me aproximo de uma parte de mim que aprendeu a se proteger?” Uma passagem lembrada pode bastar. Em outro momento de M4, HeartMath oferece outra experiência, com procedência própria. |
+| M5 e M6 | Quando houver interesse em cultivo taoista, Fabiano pode escolher uma linha do Sorriso apresentada por Mantak Chia e sua conclusão. O silêncio contemplativo, o Tan Tien superior e a Órbita têm perguntas e preparações próprias. O roteiro e a turma ajudam a decidir o que cabe desenvolver em cada encontro. |
+
+**Para fundamentar ou ampliar na montagem.** [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L29_sorriso_tan_tien.jpg|Lâmina 29 de Além das Fronteiras, sorriso ao Tan Tien inferior]]. [[05 - Caderno de Condução - Sequências e Aprendizagens do Cultivo#P4. Qualidade da atenção e Sorriso Interior|Caderno de condução, P4]] distingue a fala de ensaio do áudio já gravado. [[12 - Ely Britto - Propostas de Desenvolvimento Cultivo Afetividade e Relação|Ely Britto, EB01, PDF pp. 9–12]] e [[04 - Caderno de Fundamentação - Cultivo Meditação Prana e Circulação|Caderno de fundamentação, §§1 e 4]] dão contexto ao cultivo da qualidade afetiva. [Mantak Chia, *Cosmic Comics: Inner Smile*](https://school.mantakchia.com/wp-content/uploads/2024/04/BL22-Cosmic-Comics-Inner-Smile-ID-PDF-1-6-17.pdf) desenvolve percursos anterior, médio e posterior. O professor pode recuperar uma dessas relações se ela responder à pergunta da aula. [Guia editável do professor de M0 a M8](https://chatgpt.com/library?file_id=libfile_fde3_f-31769b65b3cc81919051ff6f38418b2d_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal) reúne as possibilidades para o percurso.
+
+**Ponto de retomada.** A gravação da aula aberta existe. Sua colocação junto a M1.3 é uma proposta preparada para a turma. Na montagem, Fabiano pode ajustar o texto, aprofundar a prática, mudar o lugar ou escolher outro uso. Registrar a escolha efetiva quando ela mudar o que o aluno encontrará.
 
 ## Incorporações disponíveis para a produção — 13/11/2026
 

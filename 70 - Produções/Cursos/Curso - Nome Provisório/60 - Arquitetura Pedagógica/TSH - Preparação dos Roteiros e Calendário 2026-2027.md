@@ -421,6 +421,16 @@ Primeiro lote: M0.1–M0.3 e M1.1–M1.7, com liberação conjunta em 17/11. Dep
 
 Para pedir uma aula: “Elabore o roteiro de Mx.y usando o Raio X atualizado em 31/10/2026 e a nota Preparação dos Roteiros e Calendário 2026–2027. Consulte pelo GitHub os materiais pertinentes. Inclua os refinamentos e referências destinados à aula, sem repetir toda a fundamentação do curso.”
 
+### Da pesquisa ao ensaio da aula
+
+O Raio X vigente e o que a turma já recebeu situam o ponto de partida. Na abertura da escrita, recuperar as fontes pertinentes pelo GitHub e colocar à mão a pergunta da aula, a experiência anterior e a contribuição que parece merecer espaço. A matriz 9–54 e [[Práticas por Módulo - Consulta em criação e expansão#Escolha do repertório para a turma atual|Repertório por aula e fonte]] permitem reencontrar conexões e alternativas.
+
+**Parecer de Fabiano durante a construção.** O primeiro esboço pode trazer uma possibilidade concreta, o que ela acrescenta e o que outra escolha abriria. Fabiano pode intervir ali mesmo, ao ler a primeira fala ou antes dela. Pode trazer uma lembrança da formação, outra fonte, uma correlação espiritual ou clínica, pedir mais fundamentação, mudar a pergunta, adiar uma prática ou seguir com a proposta. Incorporar sua leitura na fala, no exemplo ou na condução em elaboração. Uma contribuição pode continuar disponível para outra aula. A escrita pode avançar com escolhas reversíveis enquanto estiver aberta à interlocução.
+
+Para a montagem prática, [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH#Tempo para o centro médio e o centro superior|Possibilidades para o centro médio e o superior]] ajuda a visualizar o que o aluno poderia reconhecer, acessar ou desenvolver. Os minutos e as combinações são exemplos para ensaio. O [[P6 - Protocolo Mestre de Seleção, Modulação e Encerramento de Práticas - Proposta v0.1|registro de seleção e modulação de práticas]] ajuda a pensar apoio, retorno e transferência. Em M0/M1, [[00 - Estado e Continuidade da Produção M1#Sorriso Interior como áudio de apoio de M0/M1|Sorriso Interior em M1.3 — áudio, apresentação e retomadas]] reúne a gravação real, a ponte com M1.3 e o texto proposto para o aluno.
+
+Quando uma escolha ganhar forma, alinhar os materiais que ela afetar. Nas notas do professor, bastam o que se escolheu e por quê, a fonte ou experiência que contribuiu e onde poderá voltar. Distinguir o arquivo já preparado, a possível destinação e aquilo que foi efetivamente disponibilizado à turma. Uma questão que ainda pede aprofundamento pode permanecer como pergunta para o próximo encontro com Fabiano.
+
 ## 8. Operação e fontes de decisão
 
 Definidos: módulos, títulos, 54 aulas, datas de liberação, oito encontros, horários, Masterclass e fechamento das inscrições. Definição operacional de Fabiano em 31/10/2026: Os encontros serão realizados pelo Zoom, com link disponibilizado no grupo de WhatsApp da turma. Quem não participar ao vivo poderá assistir posteriormente à gravação na Hotmart, na área correspondente às aulas on-line. O prazo de publicação não foi definido. A definir: datas de gravação/edição/envio, prazo de publicação das gravações e tratamento operacional de imagens e relatos. O cadastro textual e a planilha preparam a plataforma; não constituem publicação na Hotmart.

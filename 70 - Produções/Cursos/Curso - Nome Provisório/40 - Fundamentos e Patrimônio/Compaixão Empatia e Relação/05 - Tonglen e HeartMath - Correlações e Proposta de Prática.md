@@ -40,6 +40,10 @@ Tonglen integra a tradição budista tibetana de treinamento da mente e o horizo
 
 Não fundir os nomes nem pressupor que o guia antigo e a formação de Fabiano empreguem uma versão idêntica. Na montagem, selecionar e creditar a prática efetivamente conduzida.
 
+### Destino das técnicas na montagem atual
+
+Uma distribuição para ensaio seria experimentar Quick Coherence em M4.6 por 6 min, sustentar o cuidado pelo Heart Lock-In em M5.2 por 8 min e usar 5 min de Freeze-Frame dentro do mapa de uma decisão em M6.4. Na montagem, Fabiano pode alterar esses destinos e tempos. A experiência no peito dá abertura ao diálogo com o Tan Tien médio. CP8 e o Tonglen podem ganhar condução própria em M5.6 ou M7.6. Ver [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH#Tempo para o centro médio e o centro superior|Possibilidades para o centro médio e o superior]] e [[05 - Caderno de Condução - Sequências e Aprendizagens do Cultivo#Condução do centro médio e do centro superior|Conduções e versões]].
+
 ## 4 O que as pesquisas acrescentam
 
 R22, no [[01 - Fontes de Compaixão e Empatia - Textos Livros e Pesquisas|inventário]], registra um ensaio específico de Tonglen e seus limites. R07 inclui Tonglen em um programa com vários componentes. Nenhum deles testa esta associação com HeartMath; R16/R18/R21 ajudam a distinguir mecanismos e medidas.
