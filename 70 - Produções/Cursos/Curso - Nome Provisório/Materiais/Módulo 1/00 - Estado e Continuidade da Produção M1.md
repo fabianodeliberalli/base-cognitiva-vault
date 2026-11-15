@@ -3,7 +3,7 @@ tipo: estado-e-continuidade-de-producao
 projeto: Traduzindo o Ser Humano
 recorte_entrega: "M1.1-M1.7"
 status: referencia-atual-revisavel
-versao: "1.12"
+versao: "1.13"
 criado_em: 2026-08-23
 atualizado_em: 2026-11-15
 preparacao_de_gravacoes: autorizada
@@ -26,6 +26,10 @@ status_audiovisual: "M1 gravado segundo Fabiano; novas edições de M1.3 e M1.4 
 
 **Próxima utilização.** Para os alunos que já viram as versões anteriores, os avulsos oferecem acesso direto ao que se acrescentou. Escolher versão completa ou avulso para cada ponto de acesso evita pedir uma segunda visualização da mesma demonstração. A escolha de publicação fica com Fabiano. [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo#Aula conjunta de M0 e M1 no Zoom|Aula conjunta de M0 e M1 no Zoom]] reúne perguntas e adaptações a observar. [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH#Do vídeo ao encontro de prática|Do vídeo ao encontro de prática]] distribui o conteúdo das próximas gravações e encontros.
 
+**Montagem na Hotmart para a turma já gravada.** Fabiano considera substituir os vídeos nas páginas existentes de M1.3 e M1.4 pelas duas edições completas. A montagem proposta concentra em M1 os dois trechos avulsos para quem já assistiu e, em *Para praticar*, o Sorriso Interior. M0 pode indicar onde a prática se encontra. M1.6 e o encontro ao vivo oferecem ocasião para retomar a Cartografia. A publicação na conta da turma fica a cargo de Fabiano. [Roteiro de uma página em PDF](https://chatgpt.com/library?file_id=libfile_fde3_f-f5e2c8d14a8c81919a8063cb7b1e5eac_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal) · [Roteiro editável](https://chatgpt.com/library?file_id=libfile_fde3_f-b7e5661497a8819193fd1cd351fb6309_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal) · [Pacote de trabalho para baixar](https://chatgpt.com/library?file_id=libfile_fde3_f-e810d42ea1688191a6c17e38e2556bc6_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal).
+
+**Leitura de M1.3 para esta edição.** *O aprendido na vida* conserva o exemplo e a pergunta da cópia do aluno, incorpora a seção de cultivo e liga a árvore à prática do Sorriso Interior, que pode ser acompanhada pelas imagens ou só pela voz. [PDF do aluno](https://chatgpt.com/library?file_id=libfile_fde3_f-15c5a9f701e08191a0b809c29b7270ec_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal) · [Word editável](https://chatgpt.com/library?file_id=libfile_fde3_f-216857b668948191a60d3054fbc04bd7_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal).
+
 ### Sorriso Interior como áudio de apoio de M0/M1
 
 Fabiano conduziu uma versão breve na Masterclass e voltou à prática na aula aberta. O MP3 se presta a uma escuta independente. Ele começa pelos pés e pela postura, passa pela respiração, pelo sorriso com os olhos, pelo baixo ventre e pelo peito, e termina reunindo no centro inferior e voltando aos pés. A pergunta sobre como a pessoa se aproxima de si aparece por volta de 4min29s e a reunião começa perto de 5min44s. O recorte corresponde a aproximadamente 1h34min40s–1h40min50s da aula aberta e termina antes da conversa no chat. O roteiro de postagens previa o uso em 16/11.
@@ -40,7 +44,7 @@ Fabiano conduziu uma versão breve na Masterclass e voltou à prática na aula a
 - **Demonstração que antecede a escuta.** [M1.3 com a prática da árvore · 35min19s](https://chatgpt.com/library?file_id=libfile_fde3_f-b4d0c5688888819180f9f4ce01c11e0f_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal). Para quem já assistiu à versão anterior, [Árvore e Sustentar o Céu · 7min21s](https://chatgpt.com/library?file_id=libfile_fde3_f-dacc108d1cb481919bc03777e10d0650_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal) oferece acesso direto à demonstração. Quem a acompanhou no vídeo completo pode passar diretamente à escuta.
 - **Leitura que acompanha a experiência.** [[M1.3 - Texto breve de apoio - O aprendido na vida|O aprendido na vida]]. A [[07 - Ficha - Cartografia Multidimensional Inicial da Experiência#Registro breve para as aulas e encontros ao vivo|Cartografia do acervo, perguntas para consulta]] oferece alternativas de registro. Para planejar o retorno, consultar [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo#Aula conjunta de M0 e M1 no Zoom|Encontro de M0/M1]].
 
-**Disposição sugerida na aula.** Na mesma página de M1.3, o vídeo apresenta a experiência em movimento. Logo abaixo, sob *Para praticar*, um único áudio identificado como *Sorriso Interior — uma aproximação gentil · prática guiada · 6min10s*. O título descritivo e duas ou três frases bastam. A pessoa pode escutar em seguida ou em outro dia. O MP3 é um recurso da aula que ela pode reencontrar sem percorrer o vídeo. Os links acima servem à preparação de Fabiano. Na área da turma, o acesso se dá pelo próprio arquivo anexado à aula.
+**Disposição sugerida na aula.** O vídeo de M1.3 apresenta a experiência em movimento. Em seu texto, uma indicação remete à página *Para praticar · Sorriso Interior — uma aproximação gentil*, nos complementares do próprio M1. O MP4 fica como mídia dessa página e o MP3 em seus arquivos para download. A pessoa escolhe acompanhar pela imagem ou só pela voz e pode voltar em outro dia. Os apontadores acima dão acesso às cópias de preparação de Fabiano.
 
 **Texto possível para o aluno**
 
