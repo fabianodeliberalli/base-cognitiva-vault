@@ -49,7 +49,7 @@ Você pode usar uma palavra, um desenho ou uma frase. Em alguns dias, apenas pra
 
 ## Um aprendizado oferece apoio ao seguinte
 
-Em M1.3, você pode voltar à postura da árvore e a Sustentar o Céu, primeiro movimento do Ba Duan Jin. Repare no apoio dos pés enquanto eleva e abaixa os braços. Na volta ao baixo ventre, o que ficou mais fácil de perceber? No encontro, podemos repetir juntos, experimentar na cadeira ou explorar com as palmas algo que despertou sua curiosidade.
+Em M1.3, você pode voltar à postura da árvore e a Sustentar o Céu, primeiro movimento do Ba Duan Jin. Repare no apoio dos pés enquanto eleva e abaixa os braços. Na volta ao baixo ventre, o que ficou mais fácil de perceber? No encontro, podemos repetir juntos, experimentar na cadeira ou explorar com as palmas algo que despertou sua curiosidade. Em outro momento, o áudio *Sorriso Interior — uma aproximação gentil* convida a reencontrar os mesmos apoios em quietude. Que diferença você percebe na maneira de estar consigo?
 
 Em M1.4, conhecemos o mapa dos três campos. Em M3, voltamos a eles numa sequência que reúne movimento e quietude. Em M5, vamos experimentar acompanhar a respiração, reconhecer uma distração e abrir espaço para o que surge no silêncio. São aprendizados que ajudam a chegar à pequena circulação em M6, com uma demonstração e um encontro para praticar com orientação.
 

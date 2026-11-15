@@ -42,7 +42,7 @@ Não fundir os nomes nem pressupor que o guia antigo e a formação de Fabiano e
 
 ### Destino das técnicas na montagem atual
 
-M4.6 dedica 6 min ao Quick Coherence. M5.2 dedica 8 min ao Heart Lock-In. M6.4 insere 5 min de Freeze-Frame no caso do Mapa de Integração Funcional. No TSH, a experiência no peito dá abertura ao diálogo com o Tan Tien médio. CP8 e o Tonglen mantêm um lugar próprio e selecionável em M5.6 ou M7.6. Consultar [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH#Tempo para o centro médio e o centro superior|Tempo para o centro médio e o centro superior]] e [[05 - Caderno de Condução - Sequências e Aprendizagens do Cultivo#Condução do centro médio e do centro superior|Conduções e versões]] para tempos, versão e retomadas.
+Uma distribuição para ensaio seria experimentar Quick Coherence em M4.6 por 6 min, sustentar o cuidado pelo Heart Lock-In em M5.2 por 8 min e usar 5 min de Freeze-Frame dentro do mapa de uma decisão em M6.4. Na montagem, Fabiano pode alterar esses destinos e tempos. A experiência no peito dá abertura ao diálogo com o Tan Tien médio. CP8 e o Tonglen podem ganhar condução própria em M5.6 ou M7.6. Ver [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH#Tempo para o centro médio e o centro superior|Possibilidades para o centro médio e o superior]] e [[05 - Caderno de Condução - Sequências e Aprendizagens do Cultivo#Condução do centro médio e do centro superior|Conduções e versões]].
 
 ## 4 O que as pesquisas acrescentam
 

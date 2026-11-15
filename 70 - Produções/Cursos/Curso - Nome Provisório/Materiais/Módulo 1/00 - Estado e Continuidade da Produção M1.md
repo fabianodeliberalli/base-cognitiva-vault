@@ -3,7 +3,7 @@ tipo: estado-e-continuidade-de-producao
 projeto: Traduzindo o Ser Humano
 recorte_entrega: "M1.1-M1.7"
 status: referencia-atual-revisavel
-versao: "1.10"
+versao: "1.11"
 criado_em: 2026-08-23
 atualizado_em: 2026-11-15
 preparacao_de_gravacoes: autorizada
@@ -28,13 +28,36 @@ status_audiovisual: "M1 gravado segundo Fabiano; novas edições de M1.3 e M1.4 
 
 ### Sorriso Interior como áudio de apoio de M0/M1
 
-Fabiano já conduziu uma prática breve na Masterclass e voltou a ela na aula prática aberta. O MP3 `02-SEG-16-WhatsApp-Sorriso-Interior-audio.mp3` (6min10s), previsto no roteiro de postagens para 16/11, corresponde ao trecho de aproximadamente 1h34min40s a 1h40min50s da aula aberta. A condução vai dos pés e da respiração ao sorriso com os olhos, ao Tan Tien inferior e ao peito. Aos 4min29s, a pergunta sobre como a pessoa se aproxima de si abre a elaboração. Aos 5min44s, começa a reunião no baixo ventre e o retorno aos pés. O trecho termina antes da conversa no chat.
+Fabiano conduziu uma versão breve na Masterclass e voltou à prática na aula aberta. O MP3 se presta a uma escuta independente. Ele começa pelos pés e pela postura, passa pela respiração, pelo sorriso com os olhos, pelo baixo ventre e pelo peito, e termina reunindo no centro inferior e voltando aos pés. A pergunta sobre como a pessoa se aproxima de si aparece por volta de 4min29s e a reunião começa perto de 5min44s. O recorte corresponde a aproximadamente 1h34min40s–1h40min50s da aula aberta e termina antes da conversa no chat. O roteiro de postagens previa o uso em 16/11.
 
-**Uso avaliado para a turma.** Oferecer o áudio, por si só, junto aos materiais de M1.3, sob o título *Sorriso Interior — uma aproximação gentil*. A árvore e Sustentar o Céu dão a referência corporal. O áudio acrescenta uma pergunta sobre a qualidade da atenção e pode ser retomado em outro dia, inclusive por quem chega ao curso sem ter participado da Masterclass. A apresentação ao aluno pode recuperar o sentido da lâmina 18 da aula aberta: o toque é opcional e qualquer experiência pode ser acolhida. À frase da condução sobre estar seguro, oferecer também a possibilidade de reconhecer o apoio que a pessoa efetivamente encontra. A Cartografia de M1.6 já oferece espaço para escrever ou desenhar o que mudou ao voltar. A proposta aproveita as edições integrais de M1.3 e M1.4 e o MP3 existente. A destinação na Hotmart fica como proposta curricular.
+**Por que cabe em M1.3.** A aula pergunta como uma capacidade se torna disponível pela experiência. Na árvore, o aluno pode reconhecer e ajustar o apoio enquanto se move. No áudio, reencontra os mesmos apoios e experimenta mudar a maneira de se aproximar de si. A referência ao que já se fez, logo no início da gravação, encontra aí um antecedente claro. Quem não esteve na Masterclass também consegue entrar pela própria aula.
 
-**Progressão.** No Zoom de M0/M1, uma retomada breve após Sustentar o Céu pode ajudar a comparar como se chegou ao corpo em movimento e em quietude. M3.6 desenvolve Ba Duan Jin, três regulações e os três campos. M4 é o principal retorno ao Sorriso para investigar acolhimento, esforço e relação com os afetos. Em M5, uma condução específica pode aprofundar um percurso tradicional de Chia e concluir no centro inferior. A atenção apoiada e a observação aberta conservam seu próprio tempo de prática. M6.5 e o encontro M6 ensinam a pequena circulação na versão de Fabiano.
+#### Arquivos para montar o Sorriso Interior
 
-**Fontes de retorno.** [[08 - Mapas Rim Nao e Interocepção - Leitura e Incorporação]] localiza a lâmina 29 de *Além das Fronteiras*, sorriso ao Tan Tien inferior desde M1. [[04 - Caderno de Fundamentação - Cultivo Meditação Prana e Circulação]] (§§1 e 4) e [[05 - Caderno de Condução - Sequências e Aprendizagens do Cultivo]] (P4) articulam introdução e aprofundamento. Em [*Cosmic Comics: Inner Smile*](https://school.mantakchia.com/wp-content/uploads/2024/04/BL22-Cosmic-Comics-Inner-Smile-ID-PDF-1-6-17.pdf), Mantak Chia desenvolve três linhas, gratidão aos órgãos e integração cotidiana. A versão breve de Fabiano já tem finalidade própria. Uma versão posterior pode desenvolver uma dessas relações por vez.
+- **Fonte da gravação.** [MP3 original da aula prática · 6min10s](https://chatgpt.com/library?file_id=libfile_fde3_f-5efc9a61224c8191acd247acd233d725_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal). Nome de origem: `02-SEG-16-WhatsApp-Sorriso-Interior-audio.mp3`. O nome registra o planejamento de uso no WhatsApp.
+- **Demonstração que antecede a escuta.** [M1.3 com a prática da árvore · 35min19s](https://chatgpt.com/library?file_id=libfile_fde3_f-b4d0c5688888819180f9f4ce01c11e0f_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal). Para quem já assistiu à versão anterior, [Árvore e Sustentar o Céu · 7min21s](https://chatgpt.com/library?file_id=libfile_fde3_f-dacc108d1cb481919bc03777e10d0650_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal) oferece acesso direto à demonstração. Quem a acompanhou no vídeo completo pode passar diretamente à escuta.
+- **Leitura que acompanha a experiência.** [[M1.3 - Texto breve de apoio - O aprendido na vida|O aprendido na vida]]. Para planejar o retorno, consultar [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo#Aula conjunta de M0 e M1 no Zoom|Encontro de M0/M1]].
+
+**Disposição sugerida na aula.** Na mesma página de M1.3, o vídeo apresenta a experiência em movimento. Logo abaixo, sob *Para praticar*, um único áudio identificado como *Sorriso Interior — uma aproximação gentil · prática guiada · 6min10s*. O título descritivo e duas ou três frases bastam. A pessoa pode escutar em seguida ou em outro dia. O MP3 é um recurso da aula que ela pode reencontrar sem percorrer o vídeo. Os links acima servem à preparação de Fabiano. Na área da turma, o acesso se dá pelo próprio arquivo anexado à aula.
+
+**Texto possível para o aluno**
+
+> Na prática da árvore, você pôde perceber como os pés sustentam o movimento dos braços. Vamos reencontrar esse apoio e experimentar um sorriso suave com os olhos. Enquanto acompanha a respiração, o que você percebe na maneira de se aproximar de si? Você pode ouvir agora ou voltar em outro dia.
+
+**Ao conduzir.** O toque das mãos é opcional. Se a frase do áudio sobre estar seguro soar distante do que a pessoa vive, podemos perguntar “Que apoio você consegue reconhecer aqui, agora?” Pode haver curiosidade, prazer, estranheza ou algo ainda difícil de expressar.
+
+#### Retomadas possíveis do Sorriso Interior
+
+| Momento | O que esse retorno pode acrescentar |
+| --- | --- |
+| M0/M1 e M1.3 | M0 acolhe os modos de participar. A prática em áudio encontra seu primeiro lugar de acesso em M1.3, depois da experiência da árvore. O vídeo de M1.4 pode dar linguagem aos campos que despertaram curiosidade. |
+| M1.6 e Zoom de M0/M1 | Na Cartografia que a pessoa já usa, cabem quatro perguntas. O que percebi? Como procurei expressar? O que mudou ao retornar? O que quero continuar observando? No Zoom, se a questão que a turma traz for a qualidade da atenção, um gesto breve do Sorriso após Sustentar o Céu pode ocupar parte do tempo de quietude. Se a pergunta for outra, Fabiano pode seguir pelos apoios, pelo movimento ou pelas palmas. |
+| M3 e M4.4 | O Ba Duan Jin e os três campos ganham desenvolvimento próprio em M3. Em M4.4, o Sorriso pode ajudar a perguntar “Como me aproximo de uma parte de mim que aprendeu a se proteger?” Uma passagem lembrada pode bastar. Em outro momento de M4, HeartMath oferece outra experiência, com procedência própria. |
+| M5 e M6 | Quando houver interesse em cultivo taoista, Fabiano pode escolher uma linha do Sorriso apresentada por Mantak Chia e sua conclusão. O silêncio contemplativo, o Tan Tien superior e a Órbita têm perguntas e preparações próprias. O roteiro e a turma ajudam a decidir o que cabe desenvolver em cada encontro. |
+
+**Para fundamentar ou ampliar na montagem.** [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/Laminas/QG_L29_sorriso_tan_tien.jpg|Lâmina 29 de Além das Fronteiras, sorriso ao Tan Tien inferior]]. [[05 - Caderno de Condução - Sequências e Aprendizagens do Cultivo#P4. Qualidade da atenção e Sorriso Interior|Caderno de condução, P4]] distingue a fala de ensaio do áudio já gravado. [[12 - Ely Britto - Propostas de Desenvolvimento Cultivo Afetividade e Relação|Ely Britto, EB01, PDF pp. 9–12]] e [[04 - Caderno de Fundamentação - Cultivo Meditação Prana e Circulação|Caderno de fundamentação, §§1 e 4]] dão contexto ao cultivo da qualidade afetiva. [Mantak Chia, *Cosmic Comics: Inner Smile*](https://school.mantakchia.com/wp-content/uploads/2024/04/BL22-Cosmic-Comics-Inner-Smile-ID-PDF-1-6-17.pdf) desenvolve percursos anterior, médio e posterior. O professor pode recuperar uma dessas relações se ela responder à pergunta da aula. [Guia editável do professor de M0 a M8](https://chatgpt.com/library?file_id=libfile_fde3_f-31769b65b3cc81919051ff6f38418b2d_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal) reúne as possibilidades para o percurso.
+
+**Ponto de retomada.** A gravação da aula aberta existe. Sua colocação junto a M1.3 é uma proposta preparada para a turma. Na montagem, Fabiano pode ajustar o texto, aprofundar a prática, mudar o lugar ou escolher outro uso. Registrar a escolha efetiva quando ela mudar o que o aluno encontrará.
 
 ## Incorporações disponíveis para a produção — 13/11/2026
 

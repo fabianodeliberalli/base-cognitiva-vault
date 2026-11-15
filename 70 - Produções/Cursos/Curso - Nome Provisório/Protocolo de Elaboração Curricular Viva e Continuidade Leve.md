@@ -11,7 +11,7 @@ autoridade_de_aprovacao: Fabiano Deliberalli
 ---
 ## Retomada das práticas ao montar cada aula
 
-O Raio X orienta a aula em produção. [[TSH - Preparação dos Roteiros e Calendário 2026-2027#Da pesquisa ao ensaio da aula|Montagem do roteiro]] organiza a passagem das fontes ao ensaio. Para saber onde uma prática é ensinada, quanto tempo reservar e como ela retorna no Zoom, recuperar [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH#Tempo para o centro médio e o centro superior|Tempo para o centro médio e o centro superior]]. [[Práticas por Módulo - Consulta em criação e expansão#Escolha do repertório para a turma atual|Repertório para a turma atual]] indica alternativas e aprofundamentos. Registrar apenas a escolha que muda a aula ou sua continuidade. As estimativas podem ser revistas com a demonstração de Fabiano e as experiências da turma.
+O Raio X orienta a arquitetura da aula. [[TSH - Preparação dos Roteiros e Calendário 2026-2027#Da pesquisa ao ensaio da aula|Como abrir e rever o roteiro com Fabiano]] indica como recuperar o que já foi construído e abrir espaço à direção que Fabiano trouxer durante a redação. [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH#Tempo para o centro médio e o centro superior|Possibilidades para o centro médio e o superior]] e [[Práticas por Módulo - Consulta em criação e expansão#Escolha do repertório para a turma atual|Repertório por aula e fonte]] preservam alternativas de técnica, duração, exemplo e retorno. Guardar o motivo pedagógico e a fonte permite voltar a uma proposta mesmo quando outro caminho for escolhido. Registrar a escolha que de fato afetar a aula ou sua continuidade.
 
 ## Retomadas e materiais registrados em 31/10/2026
 

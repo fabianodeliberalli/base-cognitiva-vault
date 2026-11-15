@@ -125,7 +125,7 @@ Retome uma percepção mais ampla do corpo. Como estão os pés, as mãos e o ro
 
 ## P4. Qualidade da atenção e Sorriso Interior
 
-**Entrada:** nesta turma, áudio autônomo junto a M1.3 como possibilidade já disponível. M3 pode retomar a preparação. M4.4 aprofunda a qualidade do encontro consigo e M5 pode desenvolver a linha de Chia escolhida. **Duração:** 5–8 min. **Base:** adaptação introdutória do Sorriso Interior de Mantak Chia, com fontes em 04. **Aprendizagem:** investigar como a disposição afetiva participa da atenção ao corpo.
+**Para montar.** [[00 - Estado e Continuidade da Produção M1#Sorriso Interior como áudio de apoio de M0/M1|Sorriso Interior em M1.3 — áudio, apresentação e retomadas]] reúne o MP3 de 6min10s da aula aberta, a ponte com M1.3 e os fundamentos para um retorno. A fala abaixo é outra possibilidade de condução. Em M4.4 pode ajudar a investigar como se recebe uma proteção. Em M5, Fabiano pode escolher uma linha de Chia e sua conclusão se desejar aprofundamento tradicional. Para um novo ensaio de P4, 5–8 min são uma referência. A pergunta é como a disposição afetiva participa da atenção ao corpo.
 
 **Fala proposta:**
 
@@ -145,7 +145,7 @@ Vamos ampliar a percepção para o corpo todo e concluir. Observe se algo mudou 
 
 ## Condução do centro médio e do centro superior
 
-Estas conduções apoiam o primeiro roteiro de cada prática. As indicações de tempo já incluem entrada e retorno. O quadro [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH#Tempo para o centro médio e o centro superior|Tempo para o centro médio e o centro superior]] situa o que vem antes e depois. Fabiano informa formação introdutória em HeartMath com treinador credenciado. Nas notas, identificar a versão efetivamente demonstrada e o que foi adaptado para o TSH.
+Estas conduções são esboços para a conversa de roteiro. Fabiano pode rever a aula, a versão, a duração e as correlações enquanto escreve. As indicações de tempo já incluem entrada e retorno. O quadro [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH#Tempo para o centro médio e o centro superior|Tempo para o centro médio e o centro superior]] situa o que vem antes e depois. Fabiano informa formação introdutória em HeartMath com treinador credenciado. Nas notas, identificar a versão efetivamente demonstrada e o que foi adaptado para o TSH.
 
 ### M4.6 — Apreciar antes de responder (Quick Coherence)
 
