@@ -3,10 +3,45 @@ tipo: caderno-de-incorporacao-a-producao
 projeto: Traduzindo o Ser Humano
 status: versao-de-trabalho
 criado_em: 2026-11-13
-atualizado_em: 2026-11-14
+atualizado_em: 2026-11-15
 ---
 
 # Cultivo no TSH: incorporação às aulas e gravações
+
+## Do vídeo ao encontro de prática
+
+**Decisão de Fabiano, 15/11/2026.** O cultivo corporal, energético e contemplativo integra o conteúdo gravado para a Hotmart e as aulas práticas. A primeira demonstração gravada precisa permitir uma experiência real: o aluno vê o gesto ou encontra o apoio, tem tempo para experimentar e aprende a concluir. No Zoom, Fabiano pode ver como a pessoa se organizou, oferecer outra forma e ouvir o que mudou. Entre as aulas, o participante retoma uma versão reconhecível. Uma prática pode reaparecer em vários módulos quando a pergunta que orienta sua repetição muda.
+
+A tabela articula as 54 aulas e os oito encontros já distribuídos nas seções 2 e 4. O lugar curricular do Ba Duan Jin, da meditação e da pequena circulação está definido. A seleção de formas, a duração e o modo de participação respondem à aprendizagem da turma e à transmissão de Fabiano.
+
+| Etapa | Na gravação para a Hotmart | No Zoom e entre encontros |
+| --- | --- | --- |
+| **M0 e M1** — Aprender uma base à qual se pode voltar. | A árvore em pé ou na cadeira ensina apoio, soltura, respiração confortável e atenção ao baixo ventre. Nesta turma, M1.3 reúne a postura e um ciclo de Sustentar o Céu, do Ba Duan Jin. M1.4 apresenta os três Tan Tien e a relação entre Rim, Jing e Nao. M1.6 dá lugar ao registro; M1.7 retoma centro, interiorização e expressão. | Repetir o gesto e observar a passagem do apoio à elevação e de volta ao chão. Ajustar altura dos braços, apoio ou duração. As palmas servem para investigar uma pergunta que surja. Cada pessoa escolhe algo que queira reencontrar. |
+| **M2** — Perceber o que se modifica quando a atenção muda. | Retomar a mesma forma. Em M2.1–M2.3, alternar um som, a planta do pé ou o contato das mãos. Em M2.5–M2.6, descrever, associar, formular uma leitura e fazer nova tentativa. Olhar para trás é uma possível variação de Ba Duan Jin quando a orientação for o tema. | Repetir com uma única variação e comparar descrições. Entre encontros, anotar o que mudou ao retornar e o que continua incerto. |
+| **M3** — Organizar uma sequência de cultivo e compreender seu mapa. | M3.2 refina a percepção. M3.5 situa Qi, Jing e Shen e o diálogo com Prana. Em M3.6, demonstrar Sustentar o Céu e Separar Céu e Terra, experimentar a soltura (Song), relacionar raiz, direção e centro e explorar os três campos, voltando ao inferior. M3.7 ensina uma versão breve e uma regular. | Repetir com a demonstração de Fabiano, experimentar adaptações e concluir em quietude. Cada participante identifica o que já consegue repetir. As formas de Yi Jin Jing têm nome e transmissão próprios. |
+| **M4** — Reconhecer como a intenção, o esforço e o afeto modificam a prática. | Em M4.2/M4.6, revisitar um movimento familiar e experimentar outra medida de força. Introduzir o Sorriso Interior como aproximação gentil ao corpo, na versão escolhida. Em M4.5, o processo 3-2-1 dá outra forma de investigar algo vivido como distante. | Explorar a disposição com que cada um participa e o efeito de um ajuste. Entre encontros, levar uma descoberta para uma situação cotidiana. Deixar tempo de elaboração após a experiência. |
+| **M5** — Aprender a permanecer, observar e elaborar o sentido. | Em M5.1/M5.4, demonstrar atenção apoiada na respiração e retorno. Em outro momento, ensinar observação aberta, com silêncio real. Em M5.5–M5.8, investigar imagem, significado espiritual, interpretação e efeitos. O Sorriso Interior e o cultivo compassivo têm destinos próprios. | Conduzir a modalidade nomeada, experimentar a volta ao apoio e abrir a elaboração depois. O aluno escolhe uma modalidade já ensinada para retomar e pode guardar sua experiência sem relatá-la. |
+| **M6** — Aprender a pequena circulação com referência, percurso e conclusão. | Em M6.5, Fabiano situa Ren Mai e Du Mai e demonstra a versão de sua formação, seus pontos de referência, a direção e a relação com a respiração. Mostrar a preparação no centro inferior, a exploração por partes, a reunião e o repouso. Oferecer a preparação como opção completa de participação. | Reservar o bloco orientado do encontro para observar a demonstração, experimentar por trechos e esclarecer dúvidas. Para a repetição, identificar a versão aprendida e o apoio necessário. O 3-2-1 tem condução própria em M6. |
+| **M7** — Levar presença, firmeza e abertura ao encontro com o outro. | Em M7.1/M7.3/M7.4, retornar a um gesto familiar, como Abrir o Arco, quando ele ajudar a perceber direção e medida. Aproximar apoio e intenção de uma cena de escuta, expressão ou limite. Retomar o corpo depois da conversa. | Experimentar a cena, ouvir o que cada pessoa percebeu e rever uma resposta possível. Uma necessidade pode ser legítima mesmo quando o outro não pode atendê-la. |
+| **M8** — Escolher como continuar e quando buscar acompanhamento. | Em M8.2, compor, a partir do que foi ensinado, uma versão breve e outra regular. Selecionar movimento, prática interna, conclusão e uma ocasião viável. A pequena circulação entra na versão que a pessoa aprendeu e deseja sustentar. | Experimentar o plano no encontro. Registrar em que ocasião voltar, o que observar na vida e quando rever a escolha ou pedir orientação. |
+
+### Repertório e procedência para a montagem
+
+**Oito movimentos do Ba Duan Jin.** Sustentar o Céu abre o percurso em M1.3. Abrir o Arco serve à direção em M3/M4/M7. Separar Céu e Terra ganha demonstração em M3.6 e volta em M6. Olhar para Trás pode afinar a orientação em M2/M3. Balançar a Cabeça e a Cauda pode aprofundar coordenação em M3/M6. Percorrer Costas e Pernas pode retomar os apoios em M3/M8. Projetar os Punhos favorece investigar esforço em M4/M7. Elevar e Baixar os Calcanhares pode integrar a conclusão em M3.7. A ficha 03 identifica as oito formas, as versões e as adaptações.
+
+**Outros repertórios de Qi Gong.** Wei Tuo I, do Yi Jin Jing, pode explorar a relação entre braços e centro. As outras onze formas permanecem recuperáveis na ficha 03. Kuan Chi Fa, automassagem e Seis Sons têm procedências e preparações próprias, com destinos em M3.5–M3.7 quando a escolha acrescenta algo à aula. O Sorriso Interior de Mantak Chia e os registros de Ely Britto apoiam o trabalho com a qualidade afetiva da atenção em M3–M5.
+
+**Interiorização, meditação e compaixão.** Atenção apoiada, observação aberta e investigação de significado se alternam com objetivos e tempos identificados. Pai Lin contribui com a serenidade; Castellanos, com os modos de atenção; James, com a observação dos frutos da experiência; Rohden, com a passagem da interiorização à vida. Samatha e Vipassana são interlocuções identificadas. Tonglen tem origem budista tibetana; a aproximação com HeartMath é uma elaboração para M5/M7. Explicitar qual exercício está sendo conduzido.
+
+**Circulação e aprofundamentos.** A monografia de MTC de Fabiano, Ernesto Garcia, Yang Jwing-Ming, Mantak Chia e os registros de Ely oferecem versões a comparar na preparação de M6.5. Conservar a coerência da versão escolhida na demonstração, na respiração e na conclusão. As notas distinguem a pequena circulação, a grande circulação, Chong Mai e os trabalhos de Fusão. Estes últimos seguem como aprofundamentos identificados, com procedência própria.
+
+### Como derivar roteiro, tela e material de apoio
+
+Escolher a pergunta que o participante poderá investigar e a demonstração que a torna possível. No roteiro, marcar a preparação, o gesto ou a orientação interna, o tempo real para experimentar, a conclusão e a pergunta de retorno. No vídeo, manter pés e mãos visíveis quando a relação entre eles for a aprendizagem; na quietude, preservar os intervalos de silêncio. Na circulação, situar a versão, o trajeto e a conclusão. As notas do professor guardam a fonte e as variações. Na ficha já usada pelo aluno cabe o que ele percebeu, a leitura que experimentou e a ocasião em que quer voltar. O registro de continuidade informa o que já foi mostrado e qual dificuldade merece observação ao vivo.
+
+No primeiro encontro, recuperar [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo#Aula conjunta de M0 e M1 no Zoom|Aula conjunta de M0 e M1 no Zoom]]. Nesta turma, [[00 - Estado e Continuidade da Produção M1#Edição de M1.3 e M1.4 para a turma já gravada|Edição de M1.3 e M1.4]] identifica o material realmente disponível para montagem. Para a gravação de M3.6, retomar o ciclo já demonstrado em M1.3 e introduzir Separar Céu e Terra, com sua própria pergunta. Para M5.4, preparar apoio, observação e silêncio. Para M6.5, fixar nas notas a versão de Fabiano e sua demonstração, com a opção preparatória, e reservar a prática acompanhada para o encontro.
+
+**Fontes para recuperação.** [[03 - Ba Duan Jin e Yi Jin Jing - Movimentos e Articulação Didática]] (fichas das vinte formas); [[04 - Caderno de Fundamentação - Cultivo Meditação Prana e Circulação]] (§§4, 7, 12–16, 19–21 e 23–24); [[05 - Caderno de Condução - Sequências e Aprendizagens do Cultivo]] (P0–P8 e variantes); [[08 - Mapas Rim Nao e Interocepção - Leitura e Incorporação]]; [[12 - Ely Britto - Propostas de Desenvolvimento Cultivo Afetividade e Relação]]; [[05 - Tonglen e HeartMath - Correlações e Proposta de Prática]]. O apoio transversal do aluno, a Cartografia e as oito telas existentes podem acompanhar essas retomadas.
 
 ## 1. Resultado da avaliação de arquitetura e carga
 
@@ -269,7 +304,7 @@ Mantém-se a organização atual: primeira hora de dúvidas e segunda hora de pr
 
 | Encontro | Preparação/revisão | Aprendizagem e repetição | Quietude/elaboração | Conclusão e continuidade |
 | --- | --- | --- | --- | --- |
-| M0/M1 | 10 min: P0, árvore, pés/R1 e demonstração. | 25 min: P1/P2; retomar centro inferior e apresentar o conjunto dos campos. | 15 min: reconhecer diferenças e quietude breve. | 10 min: concluir e escolher versão inicial. |
+| M0/M1 | 10 min para árvore, pés/R1 e adaptação. | 25 min para retomar Sustentar o Céu, variar o apoio ou explorar as palmas conforme a questão da turma e reunir no centro inferior. | 15 min para quietude, diferenças percebidas e cartografia. | 10 min para concluir e escolher uma ocasião de retorno. |
 | M2 | 10 min: reencontrar P1. | 25 min: variar um elemento e comparar. | 15 min: registro do vivido/interpretação. | 10 min: retomar e formular pergunta. |
 | M3 | 10 min: preparação conhecida. | 30 min: 20 de P3 e 10 de P2C, com demonstração e repetição. | 10 min: quietude, centro inferior e dúvidas de execução. | 10 min: conclusão e versões. |
 | M4 | 10 min: sequência familiar. | 25 min: intenção/esforço e P4. | 15 min: diferenciação e elaboração. | 10 min: conclusão e continuidade. |
@@ -277,6 +312,8 @@ Mantém-se a organização atual: primeira hora de dúvidas e segunda hora de pr
 | M6 | 10 min: base conhecida e três centros. | 25 min: ensino de P7C — preparação, demonstração, exploração e conclusão; alternativa P7A. | 15 min: esclarecer versão, experiência e dificuldades; repouso e registro. | 10 min: retorno global e continuidade. |
 | M7 | 10 min: preparação individual. | 25 min: P8 e experiência relacional. | 15 min: comparar e elaborar. | 10 min: retorno e continuidade. |
 | M8 | 10 min: preparação e escolha. | 25 min: sequência efetivamente aprendida. | 15 min: plano pessoal e perguntas. | 10 min: conclusão do encontro e próximos passos. |
+
+Para a turma já gravada e o trabalho da primeira hora de dúvidas, ver [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo#Aula conjunta de M0 e M1 no Zoom|Aula conjunta de M0 e M1 no Zoom]].
 
 ## 5. Materiais e correspondência para gravar
 

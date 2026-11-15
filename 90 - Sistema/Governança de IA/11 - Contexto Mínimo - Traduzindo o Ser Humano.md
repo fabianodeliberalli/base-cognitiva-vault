@@ -2,9 +2,13 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.28"
-atualizado_em: 2026-11-14
+versao: "0.29"
+atualizado_em: 2026-11-15
 ---
+
+## Cultivo nas aulas gravadas e práticas — 15/11/2026
+
+Para produzir uma aula, consultar [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH#Do vídeo ao encontro de prática|Do vídeo ao encontro de prática]]. Qi Gong/Ba Duan Jin, interiorização, meditação e Circulação Microcósmica integram o ensino gravado e os oito encontros. O quadro indica o que demonstrar e repetir em cada etapa. Para esta turma, [[00 - Estado e Continuidade da Produção M1#Edição de M1.3 e M1.4 para a turma já gravada|Edição de M1.3 e M1.4]] identifica os complementos prontos, e [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo#Aula conjunta de M0 e M1 no Zoom|Aula conjunta de M0 e M1 no Zoom]] situa as palmas como uma investigação possível dentro da sequência já ensinada.
 
 ## Acervo CEMETC — avaliação e propostas — 14/11/2026
 

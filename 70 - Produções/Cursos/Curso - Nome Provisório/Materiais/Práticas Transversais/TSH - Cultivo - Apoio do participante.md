@@ -2,7 +2,7 @@
 tipo: apoio-do-participante
 projeto: Traduzindo o Ser Humano
 status: versao-de-trabalho
-atualizado_em: 2026-11-13
+atualizado_em: 2026-11-15
 ---
 
 # Cultivar uma base para continuar
@@ -49,7 +49,9 @@ Você pode usar uma palavra, um desenho ou uma frase. Em alguns dias, apenas pra
 
 ## Um aprendizado oferece apoio ao seguinte
 
-Primeiro, aprendemos árvore, pés/R1, respiração, centro inferior e conclusão. Ao repetir, refinamos a percepção e conhecemos melhor os fundamentos. O conjunto dos três campos é apresentado no primeiro módulo e aprofundado ao longo do curso. Movimento e quietude passam a se apoiar, e a interiorização pode ganhar continuidade. Ao longo do percurso, relacionamos o vivido às emoções, aos padrões, aos vínculos, ao sentido e às escolhas.
+Em M1.3, você pode voltar à postura da árvore e a Sustentar o Céu, primeiro movimento do Ba Duan Jin. Repare no apoio dos pés enquanto eleva e abaixa os braços. Na volta ao baixo ventre, o que ficou mais fácil de perceber? No encontro, podemos repetir juntos, experimentar na cadeira ou explorar com as palmas algo que despertou sua curiosidade.
+
+Em M1.4, conhecemos o mapa dos três campos. Em M3, voltamos a eles numa sequência que reúne movimento e quietude. Em M5, vamos experimentar acompanhar a respiração, reconhecer uma distração e abrir espaço para o que surge no silêncio. São aprendizados que ajudam a chegar à pequena circulação em M6, com uma demonstração e um encontro para praticar com orientação.
 
 Uma experiência importante pode precisar de tempo para ganhar linguagem e integrar-se à vida. Você poderá observar o que permaneceu significativo, o que mudou e o que ainda pede compreensão.
 

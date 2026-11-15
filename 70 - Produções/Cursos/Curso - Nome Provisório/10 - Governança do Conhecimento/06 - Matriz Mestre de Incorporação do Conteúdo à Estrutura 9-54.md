@@ -3,9 +3,9 @@ tipo: matriz-incorporacao-conteudo
 projeto: Traduzindo o Ser Humano
 status: acervo-historico-consultivo
 uso_atual: acervo-consultivo
-versao: "2.2"
+versao: "2.3"
 criado_em: 2026-08-22
-atualizado_em: 2026-11-14
+atualizado_em: 2026-11-15
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
@@ -138,7 +138,7 @@ Pyasik, M., Marini, E., Ippolito, G., Fusco, G., Tarasi, L., Finisguerra, A., Ro
 
 ### Prática com as mãos — inclusão no encontro solicitada por Fabiano em 01/11/2026
 
-Fabiano solicitou registrar a prática leve de percepção energética com as mãos e Qi Gong para o encontro conjunto M0/M1 pelo Zoom. Construir no M1 os alicerces de fundamentação e propósito. A inclusão está decidida; sequência, duração e condução detalhadas continuam em elaboração, a partir da formação e prática do autor.
+Em 01/11, Fabiano reservou a exploração das palmas para o encontro conjunto. Em 15/11, situou esse recurso no percurso ampliado de Qi Gong e meditação. A árvore, as três regulações, o Ba Duan Jin e o retorno ao centro dão continuidade à aula gravada. A exploração com as mãos pode entrar para comparar o que acontece ao variar atenção, distância ou movimento, conforme o que a turma traz. Para a condução atual, ver [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo#Aula conjunta de M0 e M1 no Zoom|Aula conjunta de M0 e M1 no Zoom]] e [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH#Do vídeo ao encontro de prática|Do vídeo ao encontro de prática]].
 
 Explorar postura confortável, respiração espontânea, palmas voltadas uma para a outra e pequenos movimentos, sem exigir sensação específica. Primeiro descrever livremente; depois dialogar com a linguagem de Qi, expectativas e efeitos da atenção. Ausência de sensação também pode ser registrada. Sensações nas mãos envolvem várias modalidades corporais; não classificar toda a prática como interocepção estrita. A prática é cultivo perceptivo e ocasião de tradução, não teste de emissão ou transmissão de energia entre pessoas pela tela.
 
@@ -169,7 +169,7 @@ O envolvimento pede espaço; a reflexão pode acontecer depois e abrir novo reto
 | M1.4 — Território e mapas | Retomar uma mesma experiência por linguagens diferentes, examinando o que cada uma permite perceber. |
 | M1.5 — Cinco Janelas | Mostrar relações entre corpo, emoção, mente, relações e espiritualidade, sem exigir que todas apareçam numa prática. |
 | M1.6 — Primeira Cartografia | Registrar sensações, imagens e palavras provisórias, inclusive aquilo que ainda não encontrou expressão. |
-| Encontro M0/M1 | Experimentar a exploração com as mãos e elaborar o vivido com a condução de Fabiano. |
+| Encontro M0/M1 | Repetir a árvore e Sustentar o Céu com acompanhamento. As palmas podem aprofundar uma diferença percebida. Concluir e elaborar o vivido. |
 | M3.2 — Interocepção | Aprofundar percepção, expectativa, interpretação e confiança. |
 | M3.5–M3.6 — Energia, vitalidade, centro e circulação | Desenvolver a linguagem e as práticas orientais com maior contexto e continuidade. |
 

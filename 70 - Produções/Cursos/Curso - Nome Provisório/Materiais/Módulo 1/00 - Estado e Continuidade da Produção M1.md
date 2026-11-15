@@ -3,14 +3,28 @@ tipo: estado-e-continuidade-de-producao
 projeto: Traduzindo o Ser Humano
 recorte_entrega: "M1.1-M1.7"
 status: referencia-atual-revisavel
-versao: "1.9"
+versao: "1.10"
 criado_em: 2026-08-23
-atualizado_em: 2026-11-14
+atualizado_em: 2026-11-15
 preparacao_de_gravacoes: autorizada
-status_audiovisual: arquivos-finais-e-ensaio-pendentes
+status_audiovisual: "M1 gravado segundo Fabiano; novas edições de M1.3 e M1.4 preparadas para sua revisão"
 ---
 
 [[Ely Brito - Possibilidades de ampliação do TSH|Ely]]; [[TSH - Empatia e compaixão]]: M1.2/M1.5/M1.7.
+
+## Edição de M1.3 e M1.4 para a turma já gravada
+
+**15/11/2026.** Fabiano informou que M0 e M1 foram gravados e disponibilizados na Hotmart. As novas versões abaixo foram montadas com os MP4 de M1.3, M1.4 e da aula prática aberta. M0.2 foi avaliada pelo material escrito e pela indicação de que a condução o acompanha. A gravação de M0.2 não estava disponível. Para esta turma, o ensino repetível está acessível a partir de M1.3; o lugar previsto em M0.2 permanece para uma próxima produção.
+
+| Aula | Material preparado | Local e função |
+| --- | --- | --- |
+| M1.3 | `TSH_M1_3_Competencia_incorporada_com_pratica.mp4` (35min19s). Complemento avulso: `TSH_M1_3_Pratica_da_arvore_e_Sustentar_o_Ceu.mp4` (7min21s). | Cartela breve aos 20min29s atualiza o convite ao Zoom. Aos 23min03s entram a árvore em pé e na cadeira, pés/R1, centro e um ciclo de Sustentar o Céu. O movimento é identificado aos 4min55s do avulso. Após conclusão e reflexão, a fala original retoma aos 30min24s. |
+| M1.4 | `TSH_M1_4_Territorio_e_mapas_com_complemento.mp4` (29min00s). Complemento avulso: `TSH_M1_4_Tres_campos_Rim_Jing_e_Nao.mp4` (1min27s). | Aos 15min08s, fala e figura dos três Tan Tien, retorno ao apoio e quadro de leitura silenciosa do mapa tradicional Rim–Jing–Nao. A fala original retoma aos 16min35s. |
+| M1.4, aluno | `TSH_M1_4_Mapas_para_acompanhar_a_experiencia.docx` e `.pdf`, versão 0.2. | O texto já utilizado ganhou os três campos, a figura da reserva e nutrição e uma pergunta para retornar ao vivido. |
+
+**Procedência.** Na gravação original da aula aberta, o ciclo de Sustentar o Céu está entre 1h12min07s e 1h13min05s; a imagem mostra Fabiano por inteiro. Para M4/M5, o Sorriso Interior aparece a partir de cerca de 1h32min53s e o retorno aos apoios por volta de 1h40min. A edição de M1.3 utiliza apenas palavras de encerramento desse último bloco na conclusão da sequência. O acervo visual da aula aberta sustenta os apoios da postura e da cadeira; a figura de R1 conserva o crédito de Kim et al. Os materiais de M1.4 retomam o mapa dos três campos e a elaboração de *Qi Gong MTC – Além das Fronteiras*, especialmente as lâminas 8 e 22–23, com esquema redesenhado de Rim–Jing–Nao.
+
+**Próxima utilização.** Para os alunos que já viram as versões anteriores, os avulsos oferecem acesso direto ao que se acrescentou. Escolher versão completa ou avulso para cada ponto de acesso evita pedir uma segunda visualização da mesma demonstração. A escolha de publicação fica com Fabiano. [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo#Aula conjunta de M0 e M1 no Zoom|Aula conjunta de M0 e M1 no Zoom]] reúne perguntas e adaptações a observar. [[06 - Incorporação às Aulas e Gravações - Cultivo no TSH#Do vídeo ao encontro de prática|Do vídeo ao encontro de prática]] distribui o conteúdo das próximas gravações e encontros.
 
 ## Incorporações disponíveis para a produção — 13/11/2026
 
