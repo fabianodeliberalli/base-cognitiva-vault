@@ -3,12 +3,17 @@ tipo: matriz-incorporacao-conteudo
 projeto: Traduzindo o Ser Humano
 status: acervo-historico-consultivo
 uso_atual: acervo-consultivo
-versao: "2.2"
+versao: "2.3"
 criado_em: 2026-08-22
-atualizado_em: 2026-11-14
+atualizado_em: 2026-11-16
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
+
+## Naranjo — resgate para as aulas e roteiros — 16/11/2026
+
+A seção 3 de [Naranjo — Consulta e Destinos nas Aulas](../40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/00%20-%20Naranjo%20-%20Consulta%20e%20Destinos%20nas%20Aulas.md) localiza aula, ganho de contribuição, trecho do livro, proposta e destino material na arquitetura atual. [Meditação Duplas e Exercícios](../40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/02%20-%20Naranjo%20-%20Medita%C3%A7%C3%A3o%20Duplas%20e%20Exerc%C3%ADcios.md) aprofunda participação em M1/M3; reserva e expressão em M1.6/M4/M7; presença e escuta em M7.3/M7.4; cuidado com limite em M5.2/M7.6. [Música Escuta e Integração](../40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/03%20-%20Naranjo%20-%20M%C3%BAsica%20Escuta%20e%20Integra%C3%A7%C3%A3o.md) oferece MU1–MU5 para M4.1/M4.3, M5.5/M5.6, M6.1–M6.3, M7.1–M7.4 e M8.2. Recuperar a análise e as outras fontes pertinentes ao escolher fala, exemplo, prática, notas ou material do aluno. São propostas de desenvolvimento, sem nova arquitetura ou seleção automática de técnicas.
+
 
 ## Compaixão e empatia — destinos nas aulas — 14/11/2026
 

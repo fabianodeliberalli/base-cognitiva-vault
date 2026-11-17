@@ -3,8 +3,13 @@ tipo: caderno-de-conducao-do-professor
 projeto: Traduzindo o Ser Humano
 status: versao-de-trabalho
 criado_em: 2026-11-13
-atualizado_em: 2026-11-14
+atualizado_em: 2026-11-16
 ---
+
+## Naranjo — propostas complementares de condução — 16/11/2026
+
+[Meditação Duplas e Exercícios](../Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/02%20-%20Naranjo%20-%20Medita%C3%A7%C3%A3o%20Duplas%20e%20Exerc%C3%ADcios.md) fornece falas e passos de N1 (qualidade de participação; amplia P4/P5), N2 (eu/outro/ambiente; amplia P8), N3 (reconhecer e reservar; amplia P6), N4 (escutar e conferir; amplia P8), N5 (cuidado, apoio e limite; diálogo com CP8) e N6 (escuta musical e silêncio). [Música Escuta e Integração](../Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/03%20-%20Naranjo%20-%20M%C3%BAsica%20Escuta%20e%20Integra%C3%A7%C3%A3o.md) desenvolve MU1–MU5. São localizadores de propostas, não renumeração das sequências. Fonte, fundamento e destino por aula estão no [índice Naranjo](../Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/00%20-%20Naranjo%20-%20Consulta%20e%20Destinos%20nas%20Aulas.md). Selecionar a contribuição de acordo com a aprendizagem e as condições do encontro.
+
 
 # Sequências e aprendizagens do cultivo
 

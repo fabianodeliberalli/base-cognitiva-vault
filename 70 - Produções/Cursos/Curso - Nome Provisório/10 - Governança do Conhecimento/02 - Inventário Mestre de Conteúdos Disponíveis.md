@@ -3,12 +3,17 @@ tipo: inventario-mestre-conteudos
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: referencia-de-busca-revisavel
-versao: "1.7"
+versao: "1.8"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-21
-atualizado_em: 2026-11-14
+atualizado_em: 2026-11-16
 relacionado_a: 01 - Reconciliação da Governança do Conhecimento e Disponibilidade do Acervo
 ---
+
+## Naranjo — análise, práticas relacionais e música — 16/11/2026
+
+[Naranjo — Consulta e Destinos nas Aulas](../40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/00%20-%20Naranjo%20-%20Consulta%20e%20Destinos%20nas%20Aulas.md) reúne o registro solicitado por Fabiano: [análise integral pesquisável](../40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/01%20-%20Naranjo%20-%20An%C3%A1lise%20de%20Entre%20Medita%C3%A7%C3%A3o%20e%20Psicoterapia.md), [PDF de 22 páginas](../40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/Anexos/TSH_Analise_Claudio_Naranjo_Entre_Meditacao_e_Psicoterapia.pdf), referência do original de 355 páginas, páginas impressas/PDF e fontes complementares. [Meditação Duplas e Exercícios](../40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/02%20-%20Naranjo%20-%20Medita%C3%A7%C3%A3o%20Duplas%20e%20Exerc%C3%ADcios.md) preserva seis propostas: qualidade de participação; eu/outro/ambiente; reconhecimento com reserva; escuta revisável; cuidado/apoio/limite; música/silêncio. [Música Escuta e Integração](../40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/03%20-%20Naranjo%20-%20M%C3%BAsica%20Escuta%20e%20Integra%C3%A7%C3%A3o.md) desenvolve repertório e cinco aplicações, com fundamentos e destinos. Prioridades de consulta: M1.2/M1.4/M1.6/M1.7, M3.2/M3.5–M3.7, M4.1–M4.6, M5.2/M5.5–M5.8, M6.1–M6.3, M7.1–M7.8 e M8.2. Usar com as rotas existentes do TCC, monografias, cultivo, compaixão e construção autoral; não transformar a nova fonte em fundamento exclusivo.
+
 
 ## Compaixão empatia e autocompaixão — referências organizadas — 14/11/2026
 
