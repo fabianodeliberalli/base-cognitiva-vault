@@ -4,8 +4,13 @@ projeto: Traduzindo o Ser Humano
 status: referencia-de-trabalho-revisavel
 autoridade_final: Fabiano Deliberalli
 criado_em: 2026-11-11
-atualizado_em: 2026-11-12
+atualizado_em: 2026-11-16
 ---
+
+## Diálogo com Naranjo — atitudes e integração — 16/11/2026
+
+[Análise de Entre Meditação e Psicoterapia](Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/01%20-%20Naranjo%20-%20An%C3%A1lise%20de%20Entre%20Medita%C3%A7%C3%A3o%20e%20Psicoterapia.md), §§3/5/10, coloca as dimensões cognitiva, da ação/esforço e afetiva de Naranjo em diálogo funcional com Amor, Poder e Sabedoria, preservando suas genealogias e diferenças. [N1/N3/N5](Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/02%20-%20Naranjo%20-%20Medita%C3%A7%C3%A3o%20Duplas%20e%20Exerc%C3%ADcios.md) permitem investigar esforço, liberdade de reservar e cuidado com limite. [MU3 — Uma voz e o conjunto](Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/03%20-%20Naranjo%20-%20M%C3%BAsica%20Escuta%20e%20Integra%C3%A7%C3%A3o.md) oferece uma metáfora de diferenciação e integração para M6.1–M6.3. O número de dimensões não demonstra identidade entre mapas; metáforas de eliminação do ego no livro são lidas criticamente à luz da função protetiva e da Casca viva.
+
 
 # TSH — Máscara, armadura, castelos e Amor–Poder–Sabedoria
 
@@ -275,4 +280,3 @@ Usar apenas como vinheta anonimizada e dialética. Qualquer uso em aula gravada,
 ## Próxima recuperação útil
 
 Antes de escrever M4.4, M4.6, M5.2, M5.5, M6.1, M6.3, M6.6, M7.4 ou M8.2, abrir esta nota. Para M5.2, M5.5 e M6.1, abrir também [[05 - Família de Mapas - Amor Poder Sabedoria Castelos e Integração]]. Consultar somente a fonte pertinente à pergunta da aula; não carregar os três anexos originais por padrão.
-

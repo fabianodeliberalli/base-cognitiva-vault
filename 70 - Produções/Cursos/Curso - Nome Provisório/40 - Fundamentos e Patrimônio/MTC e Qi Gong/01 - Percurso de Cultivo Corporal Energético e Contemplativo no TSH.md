@@ -3,10 +3,15 @@ tipo: base-curricular-e-didatica
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
 criado_em: 2026-11-13
-atualizado_em: 2026-11-13
+atualizado_em: 2026-11-16
 autor_do_projeto: Fabiano Deliberalli
 origem: deliberacao-autoral-e-reorganizacao-do-acervo
 ---
+
+## Naranjo — qualidades da prática e passagem à relação — 16/11/2026
+
+[Naranjo — Consulta e Destinos nas Aulas](../Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/00%20-%20Naranjo%20-%20Consulta%20e%20Destinos%20nas%20Aulas.md) acrescenta fundamentos sobre atenção, esforço, afeto e continuidade entre interioridade e relação. [Meditação Duplas e Exercícios](../Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/02%20-%20Naranjo%20-%20Medita%C3%A7%C3%A3o%20Duplas%20e%20Exerc%C3%ADcios.md) desenvolve N1–N6 em diálogo com P0–P8; [Música Escuta e Integração](../Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/03%20-%20Naranjo%20-%20M%C3%BAsica%20Escuta%20e%20Integra%C3%A7%C3%A3o.md) oferece a escuta como experiência e sua elaboração no silêncio. A base já ensinada pode receber uma nova pergunta, sem acumular técnicas. Para campos e circulação, recuperar análise §4: a localização média e as instruções respiratórias permanecem identificadas por fonte; o livro não substitui a progressão do cultivo do TSH.
+
 
 ## Desenvolvimento substantivo de 13/11/2026
 

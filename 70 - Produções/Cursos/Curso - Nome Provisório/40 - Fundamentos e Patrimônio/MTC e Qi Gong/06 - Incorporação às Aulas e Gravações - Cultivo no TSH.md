@@ -3,8 +3,13 @@ tipo: caderno-de-incorporacao-a-producao
 projeto: Traduzindo o Ser Humano
 status: versao-de-trabalho
 criado_em: 2026-11-13
-atualizado_em: 2026-11-14
+atualizado_em: 2026-11-16
 ---
+
+## Naranjo — meditação, relação e música na montagem — 16/11/2026
+
+Recuperar a seção 3 de [Consulta e Destinos nas Aulas](../Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/00%20-%20Naranjo%20-%20Consulta%20e%20Destinos%20nas%20Aulas.md) junto das linhas pertinentes desta distribuição. Prioridades: M1.2/M3.7, atitude e esforço (N1); M1.6/M4.3/M7.1, reserva e expressão (N3); M7.3/M7.4, presença e escuta (N2/N4); M5.2/M7.6, benevolência e limite (N5). [Música Escuta e Integração](../Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/03%20-%20Naranjo%20-%20M%C3%BAsica%20Escuta%20e%20Integra%C3%A7%C3%A3o.md) acrescenta escuta/silêncio em M4/M5.5, diferenças/conjunto em M6.1–M6.3 e expressão em dupla em M7. Os fundamentos não exigem acrescentar todas as propostas ao encontro nem atestam reexportação de roteiros, slides ou entregáveis.
+
 
 # Cultivo no TSH: incorporação às aulas e gravações
 

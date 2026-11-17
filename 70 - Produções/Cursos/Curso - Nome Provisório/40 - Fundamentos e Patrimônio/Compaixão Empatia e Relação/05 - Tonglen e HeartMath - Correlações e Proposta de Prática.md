@@ -3,11 +3,16 @@ tipo: correlacoes-e-proposta-de-pratica
 projeto: Traduzindo o Ser Humano
 status: referencia-de-trabalho-e-propostas-de-desenvolvimento
 criado_em: 2026-11-14
-atualizado_em: 2026-11-14
+atualizado_em: 2026-11-16
 aliases:
   - "TSH - Tonglen e HeartMath"
   - "Tonglen - dar e receber em presença"
 ---
+
+## Naranjo e música — diálogo de fundamentação — 16/11/2026
+
+A análise §5, em [Naranjo — Consulta e Destinos nas Aulas](../Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/00%20-%20Naranjo%20-%20Consulta%20e%20Destinos%20nas%20Aulas.md), e N5 de [Meditação Duplas e Exercícios](../Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/02%20-%20Naranjo%20-%20Medita%C3%A7%C3%A3o%20Duplas%20e%20Exerc%C3%ADcios.md) acrescentam qualidade afetiva, apoio e passagem ao cuidado em relação. [Música Escuta e Integração](../Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/03%20-%20Naranjo%20-%20M%C3%BAsica%20Escuta%20e%20Integra%C3%A7%C3%A3o.md), seção 5, examina a função possível da música antes ou depois de uma prática e a aprendizagem sem depender de uma faixa. Esses diálogos ampliam preparação e elaboração; não alteram automaticamente as instruções de CP8 nem constituem uma combinação validada Tonglen–HeartMath–música. Recuperar cada fonte conforme sua função.
+
 
 # Tonglen em diálogo com as práticas do HeartMath
 
