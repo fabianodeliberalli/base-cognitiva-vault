@@ -4,6 +4,8 @@ projeto: Traduzindo o Ser Humano
 status: referencia-e-propostas-de-desenvolvimento
 criado_em: 2026-11-16
 atualizado_em: 2026-11-16
+aliases:
+  - Naranjo
 ---
 
 # Naranjo — consulta, fontes e destinos nas aulas

@@ -10,12 +10,7 @@ preparacao_de_gravacoes: autorizada
 status_audiovisual: arquivos-finais-e-ensaio-pendentes
 ---
 
-## Naranjo — contribuição consultável para M1 — 16/11/2026
-
-Ao refinar M1.1–M1.3, consultar N1 de [Meditação Duplas e Exercícios](../../40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/02%20-%20Naranjo%20-%20Medita%C3%A7%C3%A3o%20Duplas%20e%20Exerc%C3%ADcios.md): a mesma prática e outra qualidade de participação. Para M1.4–M1.6, recuperar análise §§4/7 e N3: experiência, mapa, registro e liberdade de reservar; para M1.7, a entrada simples de N2: referência em si e ambiente. [Consulta e destinos](../../40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/00%20-%20Naranjo%20-%20Consulta%20e%20Destinos%20nas%20Aulas.md) oferece fonte/páginas e vínculos ao restante do acervo. [Música e escuta](../../40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/03%20-%20Naranjo%20-%20M%C3%BAsica%20Escuta%20e%20Integra%C3%A7%C3%A3o.md) fica disponível para uso pertinente e aprofundamento posterior, sem exigir novo bloco em todas as aulas iniciais. Este registro de fundamentação não atesta substituição de arquivos já produzidos.
-
-
-[[Ely Brito - Possibilidades de ampliação do TSH|Ely]]; [[TSH - Empatia e compaixão]]: M1.2/M1.5/M1.7.
+[[Ely Brito - Possibilidades de ampliação do TSH|Ely]]; [[TSH - Empatia e compaixão]]: M1.2/M1.5/M1.7. [[Naranjo]]
 
 ## Incorporações disponíveis para a produção — 13/11/2026
 

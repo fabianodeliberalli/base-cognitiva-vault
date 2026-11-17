@@ -10,12 +10,7 @@ autor: Fabiano Deliberalli
 autoridade_de_decisao: Fabiano Deliberalli
 ---
 
-## Naranjo — referências e propostas para produção — 16/11/2026
-
-[Naranjo — Consulta e Destinos nas Aulas](40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/00%20-%20Naranjo%20-%20Consulta%20e%20Destinos%20nas%20Aulas.md) é a entrada para análise integral/PDF, livro identificado, exercícios, duplas e trabalho com música. A seção 3 distribui as contribuições por aula; a seção 4 liga as demais fontes do TSH. Recuperar conforme a questão da produção. A incorporação preserva possibilidades de desenvolvimento e não atesta alteração de vídeos, apresentações ou roteiros finais.
-
-
-[[Ely Brito - Possibilidades de ampliação do TSH|Ely]]; [[TSH - Empatia e compaixão]]: fontes e aulas.
+[[Ely Brito - Possibilidades de ampliação do TSH|Ely]]; [[TSH - Empatia e compaixão]]: fontes e aulas. [[Naranjo]]
 
 ## Cultivo e recuperação — 13/11/2026
 
