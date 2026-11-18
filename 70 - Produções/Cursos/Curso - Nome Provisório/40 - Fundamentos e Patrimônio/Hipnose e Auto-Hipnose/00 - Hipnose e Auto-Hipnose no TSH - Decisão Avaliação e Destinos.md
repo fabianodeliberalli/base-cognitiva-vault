@@ -13,7 +13,7 @@ aliases:
 
 # Hipnose e auto-hipnose no TSH: decisão, avaliação e destinos
 
-Registro solicitado por Fabiano em 18/11/2026. Esta nota reúne o inventário do acervo de hipnose e auto-hipnose do computador pessoal, a avaliação de cada conjunto pelo que acrescenta ao TSH e os destinos possíveis nas aulas. O inventário item a item está em [[01 - Hipnose e Auto-Hipnose - Inventário Completo do Acervo]]. As transcrições dos quatro cursos de auto-hipnose ficam registradas em [[02 - Transcrições dos Cursos de Auto-Hipnose - Estado e Localização]].
+Registro solicitado por Fabiano em 18/11/2026. Esta nota reúne o inventário do acervo de hipnose e auto-hipnose do computador pessoal, a avaliação de cada conjunto pelo que acrescenta ao TSH e os destinos possíveis nas aulas. O inventário item a item está em [[01 - Hipnose e Auto-Hipnose - Inventário Completo do Acervo]]. As transcrições dos quatro cursos de auto-hipnose ficam registradas em [[02 - Transcrições dos Cursos de Auto-Hipnose - Estado e Localização]]. A perspectiva de Fabiano sobre estados de transe, ondas cerebrais, reprogramação e olhar está em [[03 - Estados de Transe Sugestão e Reprogramação - Perspectiva de Fabiano]].
 
 ## 1. Decisão de Fabiano — 18/11/2026
 
