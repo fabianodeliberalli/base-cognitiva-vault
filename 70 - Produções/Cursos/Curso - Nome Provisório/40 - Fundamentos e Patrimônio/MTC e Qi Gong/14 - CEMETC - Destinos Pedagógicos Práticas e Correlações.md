@@ -133,7 +133,7 @@ O original de C48 permanece no pacote e também em [[70 - Produções/Cursos/Cur
 Recuperar a questão da aula e escolher o trecho necessário. Uma contribuição pode ocupar a fala, um exemplo, uma prática breve, uma tela, o texto de apoio ou apenas as notas do professor. Evitar transformar o inventário em lista de conteúdos a apresentar.
 
 - **Fala:** uma relação bem explicada e um exemplo concreto.
-- **Slide:** uma figura autoral legível ou um detalhe autorizado, com procedência. O catálogo 15 orienta as correspondências.
+- **Slide:** escolher uma imagem original, um detalhe, uma recomposição ou uma representação autoral conforme a necessidade pedagógica. Conferir a legibilidade de cada imagem no formato da aula e identificar a fonte e as adaptações realizadas. Consultar o catálogo [[15 - CEMETC - Imagens Correspondências e Materiais para as Aulas|Imagens, Correspondências e Materiais para as Aulas]] para localizar as fontes e as figuras correspondentes.
 - **Notas docentes:** diferenças entre edições, vocabulário, alcance das pesquisas, paralelos e limites específicos.
 - **Prática:** selecionar uma situação desta nota quando responder ao objetivo da aula; utilizar os apoios já ensinados e acompanhar os efeitos.
 - **Entregável:** aproveitar Cartografia, plano pessoal ou continuidade. Um novo formulário só acrescenta valor se cumprir uma função ainda ausente.

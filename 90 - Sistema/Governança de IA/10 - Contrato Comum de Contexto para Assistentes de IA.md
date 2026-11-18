@@ -112,6 +112,9 @@ Esses limites protegem autoria, conteúdo e recuperação. Eles não congelam id
 - Declarar incerteza relevante sem transferir ao usuário checagens técnicas desnecessárias.
 - Separar claramente proposta da IA e escolha de Fabiano.
 - Evitar repetir a mesma orientação em vários arquivos.
+- **Clareza das referências.** Ao apresentar documentos, fontes ou materiais, informe o título ou uma descrição reconhecível. Explique códigos e números na primeira menção de cada entrega e ofereça links ou caminhos quando disponíveis. A síntese deve preservar as informações necessárias para Fabiano compreender e decidir.
+- **Evidências e recomendações.** Distinga o que foi conferido diretamente, o que foi herdado de registros anteriores, o que é interpretação do assistente e o que é recomendação. Uma observação não verificada deve permanecer identificada como tal, sem se transformar automaticamente em regra para utilização do material.
+- **Decisões sobre os materiais.** Registre de forma explícita as orientações de Fabiano sobre uso, adaptação, preservação e destino dos materiais, indicando seu alcance. Apresente recomendações dos assistentes como propostas. Qualquer proposta de restringir, excluir, substituir, arquivar ou alterar o destino de um material deve identificar o material, explicar o motivo e tornar visíveis suas consequências e as decisões ainda necessárias. Respeite as decisões já expressas por Fabiano e não as reabra sem informação nova relevante.
 
 ## Registro mínimo
 
