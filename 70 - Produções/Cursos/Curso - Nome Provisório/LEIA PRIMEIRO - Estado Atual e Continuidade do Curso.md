@@ -12,6 +12,10 @@ autoridade_de_decisao: Fabiano Deliberalli
 
 [[Ely Brito - Possibilidades de ampliação do TSH|Ely]]; [[TSH - Empatia e compaixão]]: fontes e aulas. [[Naranjo]]
 
+## Comunicação e acervo de campanhas
+
+O [[Mentoria/Arquivos Finais/2026-11-14 - Carrossel da Aula Prática - Acervo da Campanha|Carrossel da Aula Prática de 14/11/2026]] reúne as oito imagens de divulgação no Instagram e a legenda original da campanha.
+
 ## Cultivo e recuperação — 13/11/2026
 
 [[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]]: base desde M0.2; 04/05/06: fundamentos, condução e aulas. [[11 - Leituras Recuperadas - Taoismo Shen e Transformação]]: 27 originais, leituras e destinos. Visuais restritos na nota 11. [[09 - Preservação dos Anexos e Retomada do Chat - 13-11-2026]]: estado, PR #59 e próxima ação. Binários a sincronizar.
