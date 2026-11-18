@@ -5,6 +5,11 @@ incorporado_em: 2026-10-31
 ---
 
 
+## Hipnose e auto-hipnose — decisão de Fabiano em 18/11/2026
+
+Fabiano retirou as restrições que este documento aplicava à hipnose e à auto-hipnose: o lugar único em M8, o "opcional condicionado", a dependência de protocolo próprio, P6 e piloto e a exclusão de regressão, amnésia, analgesia e recuperação de lembranças. Esses limites vinham de estruturações anteriores. Hipnose e auto-hipnose ficam disponíveis para qualquer módulo e camada, avaliadas pelo valor que acrescentam ao TSH e respaldadas pela formação e pela docência de Fabiano. Permanecem como cuidados de condução, e não como restrição curricular: não praticar dirigindo; omitir ou adaptar diante de psicose ou mania aguda, dissociação grave ou trauma desestabilizado. Os trechos abaixo foram ajustados e marcados com a data. Avaliação, inventário e destinos: [[00 - Hipnose e Auto-Hipnose no TSH - Decisão Avaliação e Destinos]].
+
+
 ## Rohden e imagens para produção - conferência de 13/11/2026
 
 [[07 - Rohden - Assimilação Centro e Vida Cotidiana]] documenta o exemplar integral identificado de Rohden, os trechos escolhidos e o papel de cada um no curso. [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos|00 - Catálogo de Imagens e Destinos]] disponibiliza 39 lâminas, 48 figuras distintas da apresentação e os diagramas de Rohden das páginas 19/39. Recuperação por módulo: [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M0 - Orientação e condições de participação|M0]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M1 - Experiência, assimilação e referência|M1]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M2 - Percepção e tradução|M2]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M3 - Corpo, vitalidade e cultivo|M3]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M4 - Emoções, padrões e participação|M4]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M5 - Valores, interiorização e espiritualidade|M5]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M6 - Integração e coerência possível|M6]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M7 - Expressão, relação e limites|M7]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M8 - Continuidade e revisão|M8]].
@@ -78,7 +83,7 @@ Linguagens científica, psicológica, tradicional e espiritual mantidas em seus 
 
 ## Conclusão de pesquisa
 
-Respiração confortável, orientação sensorial e planos de ação têm boa adequação a micropráticas educacionais. Estudos de Qi Gong e de respiração sustentam uso prudente, mas seus protocolos costumam ser mais longos e heterogêneos do que as versões aqui propostas. A diferenciação emocional possui base promissora, sem autorizar que a Regra dos Três Rótulos seja tratada como número mágico ou mecanismo neural garantido. A auto hipnose contribui melhor como ensaio mental opcional de uma resposta futura, não como indução clínica ou acesso privilegiado à verdade interna.
+Respiração confortável, orientação sensorial e planos de ação têm boa adequação a micropráticas educacionais. Estudos de Qi Gong e de respiração sustentam uso prudente, mas seus protocolos costumam ser mais longos e heterogêneos do que as versões aqui propostas. A diferenciação emocional possui base promissora, sem autorizar que a Regra dos Três Rótulos seja tratada como número mágico ou mecanismo neural garantido. A auto hipnose contribui como prática e como fundamento: habilidade aprendida de atenção, expectativa e sugestão, com usos que vão do ensaio mental de uma resposta futura à indução formal conduzida por Fabiano. Não se apresenta como acesso privilegiado à verdade interna, coerente com M2.5. *(Ajustado em 18/11/2026 por decisão de Fabiano; ver [[00 - Hipnose e Auto-Hipnose no TSH - Decisão Avaliação e Destinos]].)*
 
 ## Arquitetura do percurso prático
 
@@ -664,15 +669,15 @@ Define quando reduzir, interromper, revisar ou buscar apoio.
 
 ## Limites de uso
 
-O ensaio mental é uma contribuição opcional de atenção focal e ponte ao futuro inspirada na auto hipnose; não é indução clínica. Não realizar dirigindo, nem usar cenas traumáticas, fóbicas ou memórias incertas. Excluir regressão, amnésia, analgesia e recuperação de lembranças. Em psicose ou mania aguda, dissociação grave ou trauma desestabilizado, omitir.
+O ensaio mental usa atenção focal e ponte ao futuro, e pode ser feito como auto-hipnose formal. Cuidados de condução: não realizar dirigindo; em psicose ou mania aguda, dissociação grave ou trauma desestabilizado, omitir ou adaptar. *(Ajustado em 18/11/2026: a exclusão de regressão, amnésia, analgesia e recuperação de lembranças foi retirada por decisão de Fabiano; ver [[00 - Hipnose e Auto-Hipnose no TSH - Decisão Avaliação e Destinos]].)*
 
 ## Fundamentação
 
-Recupera o mapa maduro de Desenvolvimento do Retorno e o amplia com intenções de implementação, cuja estrutura se então possui boa base de pesquisa. A auto hipnose formal permanece condicionada a protocolo próprio, P6 e piloto.
+Recupera o mapa maduro de Desenvolvimento do Retorno e o amplia com intenções de implementação, cuja estrutura se então possui boa base de pesquisa. A auto hipnose formal está disponível ao curso, conduzida por Fabiano, sem condicionamento a protocolo próprio, P6 ou piloto. *(Ajustado em 18/11/2026.)*
 
 ## Distribuição das modalidades
 
-O quadro abaixo define o lugar das técnicas na primeira oferta. "Núcleo" significa que a prática integra o percurso principal. "Opcional" significa que pode ser oferecida como variação com alternativa funcional. "Reservado" exige protocolo próprio, piloto ou camada posterior.
+O quadro abaixo define o lugar das técnicas na primeira oferta; as linhas de hipnose foram atualizadas em 18/11/2026. "Núcleo" significa que a prática integra o percurso principal. "Opcional" significa que pode ser oferecida como variação com alternativa funcional. "Reservado" exige protocolo próprio, piloto ou camada posterior.
 
 | Modalidade | Decisão | Lugar | Razão |
 
@@ -704,7 +709,7 @@ O quadro abaixo define o lugar das técnicas na primeira oferta. "Núcleo" signi
 
 | Movimento de dar receber e delimitar | Opcional | M7 | Pode preparar a fala; não substitui o ensaio verbal. |
 
-| Ensaio mental inspirado em auto hipnose | Opcional condicionado | M8 | Atenção permissiva e ponte ao futuro, sem clínica. |
+| Auto hipnose e ensaio mental | Núcleo disponível (18/11/2026) | M1 a M8, Laboratório e Imersão | Habilidade de atenção, expectativa e sugestão; destinos na nota de hipnose. |
 
 | Sorriso Interior | Reservado | Aprofundamento | Patrimônio legítimo, mas sem roteiro TSH final. |
 
@@ -712,7 +717,7 @@ O quadro abaixo define o lugar das técnicas na primeira oferta. "Núcleo" signi
 
 | Retorno da Luz Respiração da Coluna Três Tesouros | Reservado | Laboratório ou Imersão | Maior complexidade corporal e imaginal. |
 
-| Regressão recuperação de memória amnésia | Excluído | Nenhum | Incompatível com o escopo educacional inicial. |
+| Regressão recuperação de memória amnésia | Disponível para avaliação (18/11/2026) | Conforme valor agregado; ver nota de hipnose | Ensinada como experiência construída no presente, coerente com M2.5. |
 
 ## Segurança e condução
 
@@ -780,7 +785,7 @@ A pesquisa externa apoia componentes do desenho, não valida automaticamente as 
 
 | Planos se então | Meta análises sustentam intenções de implementação para transformar oportunidades reconhecíveis em respostas específicas. | O plano não cria motivação, remove barreiras estruturais nem substitui apoio. |
 
-| Auto hipnose e imagética | A evidência varia por indicação e protocolo; estudos de auto hipnose são específicos e nem sempre grandes. | Usar apenas atenção permissiva e ensaio futuro opcional; excluir memória, regressão e promessas clínicas. |
+| Auto hipnose e imagética | A evidência varia por indicação e protocolo; a meta-análise de Eason & Parris (2019) indica efeito maior quando a auto hipnose é ensinada como habilidade autodirigida e praticada. | Ensinar como habilidade; incluir as técnicas que Fabiano selecionar; não prometer cura; memória evocada tratada como experiência, não como prova (18/11/2026). |
 
 ## Portão de validação antes do congelamento
 

@@ -586,6 +586,8 @@ Nenhum texto antigo deve ser apagado antes de preservação e inventário. Cada 
 
 Revisão prioritária: conteúdos sobre física quântica, PNL, polaridades, práticas energéticas, trauma, hipnose e identidade/diversidade. A prioridade não significa condenação automática; significa necessidade de leitura integral, atualização e classificação antes de republicação.
 
+> **Nota de leitura — 18/11/2026.** Para hipnose e auto-hipnose, a revisão de artigos do site segue o critério editorial comum, sem suspeição prévia: o tema está incorporado ao TSH por decisão de Fabiano ([[00 - Hipnose e Auto-Hipnose no TSH - Decisão Avaliação e Destinos]]).
+
 - Cada artigo novo: autor, data, revisão, referências e estatuto editorial.
 
 - Não usar ciência como selo retórico para afirmações tradicionais ou metafísicas.

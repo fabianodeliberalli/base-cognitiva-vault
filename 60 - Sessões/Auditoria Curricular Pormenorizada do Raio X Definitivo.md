@@ -194,6 +194,8 @@ Núcleo obrigatório, acompanhado de biblioteca opcional de práticas.
 
 Permanecem no patrimônio, dependentes de protocolo específico sobre finalidade educacional, triagem, consentimento, autonomia, sugestão interpretativa e limites de prática coletiva. Técnicas de reprocessamento não entram automaticamente no curso-base.
 
+> **Nota de leitura — 18/11/2026.** Registro histórico preservado. Por decisão de Fabiano, hipnose e auto-hipnose deixaram de depender de protocolo específico e estão disponíveis ao TSH, avaliadas por valor agregado e respaldadas por sua formação e docência. Ver [[00 - Hipnose e Auto-Hipnose no TSH - Decisão Avaliação e Destinos]].
+
 ### Destino
 
 Núcleo de observação e Tradução; técnicas especializadas ficam em aprofundamento condicionado.
@@ -334,6 +336,8 @@ Horizonte avançado da arquitetura global, com aprofundamentos existenciais e es
 | mapas auxiliares | Três Eus, árvore, polaridades, cartografias, Tan Tien, arquétipos |
 | práticas gerais candidatas | orientação corporal, respiração leve, escrita reflexiva, observação, pausas, movimentos, investigação fenomenológica |
 | práticas com protocolo próprio | hipnose, práticas evocativas, reprocessamento, Tonglen, visualizações intensas e trabalho direto com trauma |
+
+> **Nota de leitura — 18/11/2026.** Na linha acima, "hipnose" não está mais sujeita a protocolo próprio (decisão de Fabiano; [[00 - Hipnose e Auto-Hipnose no TSH - Decisão Avaliação e Destinos]]). As demais práticas da linha seguem como registradas.
 | aprofundamentos | Medicina Chinesa, Transpessoal, Wilber, Jung, Laszlo, espiritualidade comparada, neurociência avançada |
 | explicações literais a revisar | Hawkins, simplificações dopamina–ocitocina, SARA criando realidade, partes cerebrais adversárias e equivalências energia–neurobiologia |
 

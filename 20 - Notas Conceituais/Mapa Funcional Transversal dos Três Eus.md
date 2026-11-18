@@ -44,6 +44,8 @@ Este documento não transforma os Três Eus em núcleo canônico do Método EIXO
 
 A nomenclatura deriva conscientemente de Max Freedom Long/Huna moderna e de Serge Kahili King. Fabiano Deliberalli reelaborou esses termos por meio de síntese com psicanálise, hipnose, constituição energética do ser, Psicologia Transpessoal, experiência clínica, experiência pessoal e reflexão espiritual não dogmática.
 
+Evidência documental do percurso (registrada em 18/11/2026): os Três Eus aparecem como "Os 3 Eu's dos Kahunas" no folder do workshop *Desprogramação Mental e Autocura* (2017, com Gilda Moura), ao lado de auto-hipnose, Qi Gong, Wilber e Jung, e como linguagem do inconsciente nos workshops de auto-hipnose de Fabiano de 2024 e 2025. Ver [[00 - Hipnose e Auto-Hipnose no TSH - Decisão Avaliação e Destinos]].
+
 O modelo não deverá ser apresentado como reprodução pura de uma tradição, como sabedoria havaiana ancestral comprovada ou como equivalência entre escolas. Seu estatuto é:
 
 > **Modelo funcional autoral em desenvolvimento, com genealogia espiritual moderna declarada, uso clínico-reflexivo acumulado e plausibilidade interdisciplinar parcial, sem validação científica direta.**

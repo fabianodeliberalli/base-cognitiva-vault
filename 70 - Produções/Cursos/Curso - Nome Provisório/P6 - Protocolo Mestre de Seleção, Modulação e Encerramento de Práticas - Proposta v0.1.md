@@ -6,7 +6,7 @@ portao: P6
 status: nucleo-minimo-aprovado-portao-fechado-no-escopo
 versao: "1.0"
 criado_em: 2026-07-21
-atualizado_em: 2026-07-21
+atualizado_em: 2026-11-18
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 documentos_governantes:
@@ -90,7 +90,7 @@ Ele não autoriza:
 - processamento intensivo de trauma;
 - diagnóstico;
 - promessa de cura;
-- indução de estados ampliados como objetivo;
+- indução de estados ampliados como objetivo (não se aplica à hipnose e à auto-hipnose; ver Decisão P6.H, 18/11/2026);
 - exposição obrigatória de conteúdo íntimo;
 - uso de uma prática apenas por prestígio de sua tradição;
 - aplicação de práticas de alta mobilização na primeira oferta geral.
@@ -404,7 +404,7 @@ Não integrar ao kit quando a prática:
 - exige exposição pessoal;
 - não oferece alternativa funcional;
 - depende de intensidade para parecer eficaz;
-- busca catarse ou estado ampliado como resultado;
+- busca catarse ou estado ampliado como resultado (ver Decisão P6.H para hipnose e auto-hipnose);
 - não pode ser interrompida com clareza;
 - termina sem retorno suficiente;
 - depende de diagnóstico ou condução clínica;
@@ -559,6 +559,12 @@ Antes de produzir integralmente a Aula 1.2:
 ## Decisão P6.3 — potencial de mobilização
 
 **Aprovado:** B, M e A; priorizar B, admitir M sob condições e excluir A da primeira oferta geral.
+
+*Ver Decisão P6.H (18/11/2026): a exclusão de A não se aplica à hipnose e à auto-hipnose.*
+
+## Decisão P6.H — hipnose e auto-hipnose (18/11/2026)
+
+**Decidido por Fabiano:** as cláusulas deste protocolo sobre indução de estados ampliados, busca de estado ampliado, critérios de exclusão imediata e exclusão de mobilização A da primeira oferta não operam como restrição à hipnose e à auto-hipnose. Esses conteúdos e práticas, incluindo regressão, ideomotor, abreação, amnésia e analgesia, ficam disponíveis ao TSH, avaliados pelo valor que acrescentam e respaldados pela formação e docência de Fabiano. A indução hipnótica é método, não objetivo. Permanecem os cuidados de condução: retorno explícito; não praticar dirigindo; omitir ou adaptar diante de psicose ou mania aguda, dissociação grave ou trauma desestabilizado. Avaliação e destinos: [[00 - Hipnose e Auto-Hipnose no TSH - Decisão Avaliação e Destinos]].
 
 ## Decisão P6.4 — alternativa funcional
 

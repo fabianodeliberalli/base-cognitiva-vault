@@ -73,7 +73,7 @@ Impedir simultaneamente:
 | neutralidade | Raio X | método | R | equanimidade/menor fusão |
 | menos dopamina e mais ocitocina | Raio X | curso | X | retirar como objetivo |
 | Lei de Hebb | Raio X/TCC | fundamentação | A | nota teórica |
-| hipnose e auto-hipnose | Raio X/Três Eus | prática | C/A | protocolo próprio |
+| hipnose e auto-hipnose | Raio X/Três Eus; acervo pessoal | prática e fundamentação | P/R/A | disponível ao núcleo e ao aprofundamento; decisão de Fabiano em 18/11/2026 ([[00 - Hipnose e Auto-Hipnose no TSH - Decisão Avaliação e Destinos]]) |
 | BSP/reprocessamento | Raio X | prática especializada | C/A | fora do curso-base |
 | polaridade | Raio X | mapa | P/R | mapa auxiliar |
 | yin-yang | Raio X | tradição | A/R | preservar estatuto tradicional |

@@ -2,9 +2,14 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.29"
-atualizado_em: 2026-11-16
+versao: "0.30"
+atualizado_em: 2026-11-18
 ---
+
+## Hipnose e auto-hipnose — decisão de Fabiano em 18/11/2026
+
+Fabiano decidiu incorporar ao TSH conteúdos e práticas de hipnose e auto-hipnose "de forma coerente e livre" e retirar as restrições que o vault aplicava ao tema, por virem de estruturações anteriores. Não usar como limite: auto-hipnose restrita a ensaio mental em M8, "opcional condicionado", dependência de protocolo próprio, P6 ou piloto, exclusão de regressão, amnésia, analgesia e recuperação de lembranças. O critério é o valor que cada conteúdo acrescenta ao TSH, com respaldo na formação e docência de Fabiano em hipnose. Permanecem como cuidados de condução: não praticar dirigindo; omitir ou adaptar diante de psicose ou mania aguda, dissociação grave ou trauma desestabilizado. Avaliação, destinos por aula e dívidas: [[00 - Hipnose e Auto-Hipnose no TSH - Decisão Avaliação e Destinos]]; inventário item a item: [[01 - Hipnose e Auto-Hipnose - Inventário Completo do Acervo]]; transcrições dos quatro cursos: [[02 - Transcrições dos Cursos de Auto-Hipnose - Estado e Localização]]. Ajustes marcados com a data em Práticas por Módulo, Matriz de Reaproveitamento (linha de hipnose), P6 (Decisão P6.H) e notas de leitura nos registros históricos.
+
 
 ## Naranjo — meditação, duplas e música — 16/11/2026
 
