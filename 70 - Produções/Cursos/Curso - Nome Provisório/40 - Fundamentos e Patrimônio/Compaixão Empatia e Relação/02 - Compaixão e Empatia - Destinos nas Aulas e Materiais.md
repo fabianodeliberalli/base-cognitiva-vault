@@ -3,8 +3,13 @@ tipo: destinos-pedagogicos-para-producao
 projeto: Traduzindo o Ser Humano
 status: referencia-de-trabalho-e-propostas-de-desenvolvimento
 criado_em: 2026-11-14
-atualizado_em: 2026-11-14
+atualizado_em: 2026-11-16
 ---
+
+## Naranjo — cultivo afetivo, relação e música — 16/11/2026
+
+Para M5.2/M7.3/M7.4/M7.6, recuperar [N5 — Cuidado, apoio e limite e N4 — Escutar sem completar a pessoa](../Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/02%20-%20Naranjo%20-%20Medita%C3%A7%C3%A3o%20Duplas%20e%20Exerc%C3%ADcios.md). Naranjo, pp. 173–176 e 190–202, amplia benevolência simultânea, presença e leitura revisável. A análise §5 explicita a tensão entre autossacrifício e cuidado de si no livro. [Música Escuta e Integração](../Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/03%20-%20Naranjo%20-%20M%C3%BAsica%20Escuta%20e%20Integra%C3%A7%C3%A3o.md) permite desenvolver a escuta de qualidades afetivas sem determinar a emoção do participante. A fonte não testa CP8 nem oferece equivalência entre empatia, compaixão, perdão e reconciliação. [Consulta e destinos](../Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/00%20-%20Naranjo%20-%20Consulta%20e%20Destinos%20nas%20Aulas.md) localiza os trechos e as correlações com o acervo.
+
 
 # Compaixão e empatia na produção das aulas
 

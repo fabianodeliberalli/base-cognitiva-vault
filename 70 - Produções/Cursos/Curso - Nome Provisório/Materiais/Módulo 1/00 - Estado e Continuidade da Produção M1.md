@@ -3,14 +3,14 @@ tipo: estado-e-continuidade-de-producao
 projeto: Traduzindo o Ser Humano
 recorte_entrega: "M1.1-M1.7"
 status: referencia-atual-revisavel
-versao: "1.9"
+versao: "2.0"
 criado_em: 2026-08-23
-atualizado_em: 2026-11-14
+atualizado_em: 2026-11-16
 preparacao_de_gravacoes: autorizada
 status_audiovisual: arquivos-finais-e-ensaio-pendentes
 ---
 
-[[Ely Brito - Possibilidades de ampliação do TSH|Ely]]; [[TSH - Empatia e compaixão]]: M1.2/M1.5/M1.7.
+[[Ely Brito - Possibilidades de ampliação do TSH|Ely]]; [[TSH - Empatia e compaixão]]: M1.2/M1.5/M1.7. [[Naranjo]]
 
 ## Incorporações disponíveis para a produção — 13/11/2026
 

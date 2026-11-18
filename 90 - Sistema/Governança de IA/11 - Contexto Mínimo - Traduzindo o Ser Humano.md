@@ -2,9 +2,14 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.28"
-atualizado_em: 2026-11-14
+versao: "0.29"
+atualizado_em: 2026-11-16
 ---
+
+## Naranjo — meditação, duplas e música — 16/11/2026
+
+[Naranjo — Consulta e Destinos nas Aulas](../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/00%20-%20Naranjo%20-%20Consulta%20e%20Destinos%20nas%20Aulas.md) localiza a análise integral, o PDF de 22 páginas, a edição original no acervo pessoal e os trechos por aula. [Meditação Duplas e Exercícios](../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/02%20-%20Naranjo%20-%20Medita%C3%A7%C3%A3o%20Duplas%20e%20Exerc%C3%ADcios.md) desenvolve seis propostas com falas, preparação e fundamentos; [Música Escuta e Integração](../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/03%20-%20Naranjo%20-%20M%C3%BAsica%20Escuta%20e%20Integra%C3%A7%C3%A3o.md) reúne cinco desdobramentos, repertório, silêncio, expressão e pesquisas delimitadas. Recuperar por pertinência ao produzir M1/M3 (qualidade da participação e mapas), M4 (linguagens e reserva), M5 (afeto, símbolo e espiritualidade), M6 (diferenças e integração), M7 (presença, escuta e limites) e M8.2 (continuidade), em diálogo com P0–P8, compaixão/CP8, TCC, monografias, Rohden e mapas autorais. Registro solicitado por Fabiano; propostas disponíveis para desenvolvimento, sem declaração de reedição dos artefatos finais.
+
 
 ## Acervo CEMETC — avaliação e propostas — 14/11/2026
 
