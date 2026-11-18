@@ -39,6 +39,9 @@ tags:
 
 # P6 — Protocolo Mestre de Seleção, Modulação e Encerramento de Práticas
 
+> **Nota de leitura — 18/11/2026, decisão de Fabiano.** Este protocolo pertence às fases iniciais. Suas regras de seleção, critérios de exclusão, níveis de mobilização e exigências de protocolo ou piloto não limitam mais a escolha de práticas para as aulas. As orientações sobre abertura, dose, retorno e encerramento seguem disponíveis como referência de condução, e os cuidados de condução mantidos por Fabiano continuam valendo. Ver [[10 - Contrato Comum de Contexto para Assistentes de IA]], seção "Conteúdos, pesquisas e práticas sem restrições herdadas".
+
+
 ## Estado deste documento
 
 O **núcleo mínimo obrigatório de P6 foi aprovado por Fabiano Deliberalli em 21 de julho de 2026**. O portão está fechado para a primeira oferta no escopo definido neste documento; aspectos avançados permanecem como desenvolvimento futuro.

@@ -4,6 +4,8 @@ status: em-criacao-e-expansao
 incorporado_em: 2026-10-31
 ---
 
+> **Nota de leitura — 18/11/2026, decisão de Fabiano.** Reservas, exclusões, "opcional condicionado" e limites de uso registrados neste documento pertencem às fases iniciais e não limitam mais a escolha de práticas. Todas as práticas listadas estão disponíveis, avaliadas pelo que acrescentam ao TSH. Ver [[10 - Contrato Comum de Contexto para Assistentes de IA]], seção "Conteúdos, pesquisas e práticas sem restrições herdadas".
+
 
 ## Hipnose e auto-hipnose — decisão de Fabiano em 18/11/2026
 
@@ -711,11 +713,11 @@ O quadro abaixo define o lugar das técnicas na primeira oferta; as linhas de hi
 
 | Auto hipnose e ensaio mental | Núcleo disponível (18/11/2026) | M1 a M8, Laboratório e Imersão | Habilidade de atenção, expectativa e sugestão; destinos na nota de hipnose. |
 
-| Sorriso Interior | Reservado | Aprofundamento | Patrimônio legítimo, mas sem roteiro TSH final. |
+| Sorriso Interior | Disponível (18/11/2026) | Já presente nas aulas abertas do M0; demais módulos conforme valor | Roteiro de Fabiano. |
 
-| Tonglen | Reservado | Aprofundamento | Requer fonte, contexto tradicional, protocolo e dose. |
+| Tonglen | Disponível (18/11/2026) | Conforme valor; ver notas de compaixão | Fonte e contexto tradicional como fundamentação. |
 
-| Retorno da Luz Respiração da Coluna Três Tesouros | Reservado | Laboratório ou Imersão | Maior complexidade corporal e imaginal. |
+| Retorno da Luz Respiração da Coluna Três Tesouros | Disponível (18/11/2026) | Aula, Laboratório ou Imersão, por escolha de Fabiano | Condução de Fabiano. |
 
 | Regressão recuperação de memória amnésia | Disponível para avaliação (18/11/2026) | Conforme valor agregado; ver nota de hipnose | Ensinada como experiência construída no presente, coerente com M2.5. |
 

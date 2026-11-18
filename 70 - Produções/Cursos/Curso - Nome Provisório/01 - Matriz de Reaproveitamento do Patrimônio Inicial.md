@@ -19,6 +19,9 @@ tags:
 
 # Matriz de Reaproveitamento do Patrimônio Inicial
 
+> **Nota de leitura — 18/11/2026, decisão de Fabiano.** Os códigos C (condicionado) e X (retirar como explicação literal) e as indicações de "fora do curso-base" registram leituras das fases iniciais e não limitam o uso dos materiais. Todo o patrimônio está disponível, avaliado pelo que acrescenta ao TSH. Ver [[10 - Contrato Comum de Contexto para Assistentes de IA]], seção "Conteúdos, pesquisas e práticas sem restrições herdadas".
+
+
 ## Função
 
 Impedir simultaneamente:
@@ -74,14 +77,14 @@ Impedir simultaneamente:
 | menos dopamina e mais ocitocina | Raio X | curso | X | retirar como objetivo |
 | Lei de Hebb | Raio X/TCC | fundamentação | A | nota teórica |
 | hipnose e auto-hipnose | Raio X/Três Eus; acervo pessoal | prática e fundamentação | P/R/A | disponível ao núcleo e ao aprofundamento; decisão de Fabiano em 18/11/2026 ([[00 - Hipnose e Auto-Hipnose no TSH - Decisão Avaliação e Destinos]]) |
-| BSP/reprocessamento | Raio X | prática especializada | C/A | fora do curso-base |
+| BSP/reprocessamento | Raio X | prática especializada | P/A | disponível; formação de Fabiano em Brainspotting (18/11/2026) |
 | polaridade | Raio X | mapa | P/R | mapa auxiliar |
 | yin-yang | Raio X | tradição | A/R | preservar estatuto tradicional |
 | Dinâmica Espiral | Raio X | cartografia | A/R | aprofundamento |
 | karma como repetição psicológica | Raio X | tradição/metáfora | R | não reduzir tradição à psicologia |
 | entropia | Raio X/mapas | metáfora/ciência | R | definir uso |
 | empatia e compaixão | Raio X | curso | P | relações, ética e reparação |
-| Tonglen | Raio X | prática contemplativa | C/A | opcional e contextualizada |
+| Tonglen | Raio X | prática contemplativa | P/A | disponível (18/11/2026) |
 | Hawkins | Raio X/mapas | cartografia | X/A | não apresentar como medida científica |
 | Wilber | Raio X/bibliografia | fundamentação | A | cartografia comparativa |
 | Markov | Raio X | metáfora/teoria | R/A | justificar função precisa |

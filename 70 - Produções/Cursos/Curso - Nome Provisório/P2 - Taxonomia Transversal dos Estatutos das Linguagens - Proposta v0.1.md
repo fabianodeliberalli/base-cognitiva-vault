@@ -40,6 +40,9 @@ tags:
 
 # P2 — Taxonomia Transversal dos Estatutos das Linguagens
 
+> **Nota de leitura — 18/11/2026, decisão de Fabiano.** Esta taxonomia pertence às fases iniciais. Ela não funciona como portão, não bloqueia produção e sua lista de expressões vedadas não limita a redação das aulas. Pode ser usada como recurso quando declarar de onde fala cada linguagem enriquecer a aula. Ver [[10 - Contrato Comum de Contexto para Assistentes de IA]], seção "Conteúdos, pesquisas e práticas sem restrições herdadas".
+
+
 ## Estado deste documento
 
 Esta taxonomia foi **aprovada integralmente por Fabiano Deliberalli em 21 de julho de 2026**, com uma correção vinculante sobre a Aula 1.1. O portão P2 está fechado e passa a governar transversalmente a revisão e a produção curricular.

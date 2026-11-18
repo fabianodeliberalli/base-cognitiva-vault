@@ -65,13 +65,14 @@ A pergunta 3 não exclui nada. Ela indica o que reescrever para que o material e
 - **Critérios de autenticidade do que se percebe** (2024, sl. 121): sentir, integridade, senso crítico, resultados práticos e comparação com a experiência de outros. É a semente de M5.8.
 - **Três Eus como linguagem do inconsciente** (2025, sl. 61–76).
 
-**Pontos a reescrever antes de ir para aula** (coerência, não exclusão):
+**Pontos de fundamentação para a aula** (sugestões de redação e fonte, não exclusão):
 
-- **Tabela de níveis de transe por ondas cerebrais** (sl. 7–10). Contradiz a tese dos sl. 15 e 55. Teta e gama aparecem na literatura como correlatos de hipnose e hipnotizabilidade (Jensen et al., 2015), não como escala de profundidade; não há base para delta como "transe profundo" nem para gama como marcador de médiuns ou contatados. Proposta: manter a tese sociocognitiva e apresentar os ritmos cerebrais como correlatos em estudo.
+- **Tabela de estados de transe por ondas cerebrais** (sl. 7–10). *Leitura corrigida em 18/11/2026, por esclarecimento de Fabiano.* A tabela não contradiz a tese dos sl. 15 e 55. Fabiano parte de Erickson: todos vivem em algum grau de transe, e o trabalho não é induzir transe, e sim ajudar a pessoa a sair dos transes tóxicos em que vive. A tabela descreve os vários estados em que as pessoas podem se encontrar; a tese diz que nenhum deles é condição para a sugestão ou a hipnose. São afirmações complementares. Fundamentação convergente: o "transe cotidiano comum" de Erickson e Rossi; o sintoma como transe em Gilligan; os "transes que as pessoas vivem" de Wolinsky (1991), em que estados emocionais e sintomas são transes que mantêm o problema no presente; e o transe alerta ou hiperalerta (Ludwig; Bányai e Hilgard, 1976), que sustenta a faixa "acima da vigília" sem relaxamento. Sugestão didática: deixar explícita, entre o sl. 8 e o sl. 15, a passagem "estados existem e variam; a hipnose não depende de nenhum deles", porque o sl. 7 diz que "daqui pra baixo são os estados que mais se aceita sugestão direta" e um aluno pode ler isso como pré-requisito. Quanto às faixas, teta é o correlato mais estável da hipnose e da hipnotizabilidade (Jensen et al., 2015) e gama aparece em meditadores de longa prática (Lutz et al., 2004); delta como marca do sonambulismo hipnótico e gama em médiuns e contatados pedem fonte específica ou podem ser apresentados como observação clínica de Fabiano.
 - **Afirmações neurocientíficas sem fonte** (repetição verbal e rede *default*; afirmações e circuito límbico-hipotalâmico; dopamina e libido — sl. 13 e 30). Ou ganham referência, ou são reformuladas como hipótese.
 - **Cosmologia nos Três Eus** (projeção astral, campo morfogenético, quarta dimensão, tipos de espíritos, voltagens de mana). Entra pela tradução que o TSH já fez: Eu Básico como sustentação corporificada e acesso implícito, com a genealogia Huna declarada. A linguagem tradicional pode aparecer com seu estatuto próprio.
 - **"O sentir como principal informação".** Reformular como "o sentir como primeira informação, que pede tradução", coerente com M2.3 e M2.5.
 - **Coué** ("a cada dia… melhor e melhor"). Entra como linhagem histórica do *ego-strengthening* (Coué → Hartland) e como experimento de autossugestão. Num curso aberto, a fórmula repetida pode virar cobrança de desempenho; a condução decide o enquadre.
+- **"Reprogramação" como linguagem do curso.** *Esclarecimento de Fabiano, 18/11/2026:* trazemos muitas programações, que são outro nome para padrão, e elas podem e devem ser reprogramadas com maior liberdade e discernimento do Eu. Isso é coerente com a tese de que a hipnose é uma habilidade aprendida: aprende-se a reprogramar. Fundamentação disponível: a reconsolidação da memória aplicada a aprendizagens emocionais (Ecker, Ticic e Hulley, *Unlocking the Emotional Brain*, 2012), segundo a qual um aprendizado emocional implícito pode ser reaberto e atualizado, e não apenas contornado. O "discernimento do Eu" situa quem reprograma: o aluno, a partir do eixo, e não uma técnica aplicada de fora.
 
 **Método de Autorregulação Integrativa (jan/2026, 82 slides).** Oferece a gramática de condução para a hipnose no TSH: sustentar presença suficiente, simplificar quando desorganiza, retorno explícito. É enquadre de condução, não limite de conteúdo.
 
@@ -117,7 +118,7 @@ Decks de Gilda Moura e da co-docência *Além das Fronteiras*: regressão de ida
 - **Analgesia** tem uma das bases de pesquisa mais sólidas da hipnose e é uma demonstração forte do papel da expectativa e da atenção na experiência corporal (M2, M3).
 - **Amnésia** pode entrar como conteúdo sobre a seletividade da atenção e da memória.
 
-**Condição de coerência (conteúdo, não restrição).** O TSH já ensina que vivido ≠ interpretado ≠ ocorrido (M2.5). A literatura que Fabiano tem no acervo mostra que a hipnose não aumenta a exatidão da recordação e tende a aumentar a confiança em lembranças imprecisas; memórias evocadas ficam modificáveis (reconsolidação). Portanto, a regressão no TSH é coerente quando ensinada como **experiência significativa construída no presente**, cujo valor está no que mobiliza e reorganiza, e não como recuperação verificável do passado. O próprio material de Gilda já diz isso ("a hipnose não é uma porta para a verdade"; "evitar a confabulação"). O ponto que precisa de reescrita é outro: a afirmação, nos decks de abdução, de que o relato "tem características da quebra de uma barreira, mais do que criação de uma história". A sensação de autenticidade não distingue lembrança de construção; esse trecho contradiz M2.5 e precisa ser reformulado.
+**Coerência com o curso.** A regressão é coerente com o TSH quando ensinada como experiência construída no presente, cujo valor está no que mobiliza e reorganiza. A literatura do acervo fundamenta esse enquadre: a hipnose não aumenta a exatidão da recordação e tende a aumentar a confiança; memórias evocadas ficam modificáveis (reconsolidação). O próprio material de Gilda diz isso ("a hipnose não é uma porta para a verdade"; "evitar a confabulação"). Os decks e relatos sobre abdução e fenômenos anômalos pertencem a outros projetos de Fabiano (IGM, O CHAMADO) e não fazem parte das construções do TSH neste momento (esclarecimento de Fabiano, 18/11/2026).
 
 **Decisões de condução para Fabiano** (desenho de aula, não limite de conteúdo):
 
@@ -160,11 +161,10 @@ A distribuição é proposta de consulta. A escolha final de cada aula acompanha
 2. Triar *Hipnose clínica.zip* (18,7 GB, raiz do OneDrive).
 3. OCR de Teresa Robles e do manual de Sofia Bauer.
 4. Anonimizar ou segregar o caso clínico do deck de regressão de 2017.
-5. Reescrever os pontos da seção 4.1 (ondas, neuro sem fonte, cosmologia dos Três Eus, "sentir como principal informação").
-6. Reformular o trecho de abdução indicado na seção 4.4.
-7. Identificar a autoria de *Hipnose Conversacional* e triar a Masterclass Hipnose Simbólica.
-8. Consolidar o acervo numa pasta única no computador: `00 Autoral` · `10 Co-docência Gilda` · `20 Formações` · `30 Livros e artigos` · `40 Regressão e memória` · `90 Duplicatas`.
-9. Verificar outras unidades (`D:\`, HDs externos), não varridas.
+5. Incorporar, se Fabiano quiser, as sugestões de fundamentação da seção 4.1 (passagem explícita entre estados e tese; fontes para as faixas de ondas; neuro sem fonte).
+6. Identificar a autoria de *Hipnose Conversacional* e triar a Masterclass Hipnose Simbólica.
+7. Consolidar o acervo numa pasta única no computador: `00 Autoral` · `10 Co-docência Gilda` · `20 Formações` · `30 Livros e artigos` · `40 Regressão e memória` · `90 Duplicatas`.
+8. Verificar outras unidades (`D:\`, HDs externos), não varridas.
 
 ## 7. Referências externas
 
@@ -173,6 +173,11 @@ A distribuição é proposta de consulta. A escolha final de cada aula acompanha
 - Lynn SJ, Lock TG, Myers B, Payne DG. Recalling the unrecallable: should hypnosis be used to recover memories in psychotherapy? *Current Directions in Psychological Science*. 1997;6(3):79-83.
 - Brainerd CJ, Reyna VF. Fuzzy-trace theory and false memory. *Current Directions in Psychological Science*. 2002;11(5):164-169.
 - Alberini CM, LeDoux JE. Memory reconsolidation. *Current Biology*. 2013;23(17):R746-R750.
+- Wolinsky S, Ryan MO. *Trances People Live: Healing Approaches in Quantum Psychology*. Falls Village, CT: Bramble Co.; 1991.
+- Gilligan S. *Therapeutic Trances: The Cooperation Principle in Ericksonian Hypnotherapy*. New York: Brunner/Mazel; 1987.
+- Bányai ÉI, Hilgard ER. A comparison of active-alert hypnotic induction with traditional relaxation induction. *Journal of Abnormal Psychology*. 1976;85(2):218-224.
+- Lutz A, Greischar LL, Rawlings NB, Ricard M, Davidson RJ. Long-term meditators self-induce high-amplitude gamma synchrony during mental practice. *PNAS*. 2004;101(46):16369-16373.
+- Ecker B, Ticic R, Hulley L. *Unlocking the Emotional Brain*. New York: Routledge; 2012.
 - Conselho Federal de Psicologia. Resolução CFP nº 13/2000: aprova e regulamenta o uso da hipnose como recurso auxiliar de trabalho do psicólogo.
 
 Registro solicitado por Fabiano; propostas disponíveis para desenvolvimento, sem declaração de reedição dos artefatos finais das aulas.

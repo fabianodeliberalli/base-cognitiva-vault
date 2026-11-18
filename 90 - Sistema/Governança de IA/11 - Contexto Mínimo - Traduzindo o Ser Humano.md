@@ -2,13 +2,17 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.30"
+versao: "0.31"
 atualizado_em: 2026-11-18
 ---
 
+## Sem restrições herdadas — decisão de Fabiano em 18/11/2026
+
+As restrições, exclusões, reservas e condicionamentos registrados em fases anteriores, muitos propostos por assistentes de IA, não limitam mais a construção de módulos, aulas, pesquisas e materiais do TSH. O critério é o que cada conteúdo acrescenta ao TSH, com respaldo na formação, prática clínica e docência de Fabiano, para que as aulas tragam sua bagagem traduzida em conteúdos e práticas amplos, livres e pertinentes. Continuam valendo: cuidados de condução das práticas, anonimização de pacientes e regras de trabalho do repositório. Ao falar com Fabiano, nomear documentos e práticas pelo conteúdo, sem siglas internas. Ver [[10 - Contrato Comum de Contexto para Assistentes de IA]]; notas de leitura no protocolo de seleção de práticas, na taxonomia de linguagens, em Práticas por Módulo e nas matrizes.
+
 ## Hipnose e auto-hipnose — decisão de Fabiano em 18/11/2026
 
-Fabiano decidiu incorporar ao TSH conteúdos e práticas de hipnose e auto-hipnose "de forma coerente e livre" e retirar as restrições que o vault aplicava ao tema, por virem de estruturações anteriores. Não usar como limite: auto-hipnose restrita a ensaio mental em M8, "opcional condicionado", dependência de protocolo próprio, P6 ou piloto, exclusão de regressão, amnésia, analgesia e recuperação de lembranças. O critério é o valor que cada conteúdo acrescenta ao TSH, com respaldo na formação e docência de Fabiano em hipnose. Permanecem como cuidados de condução: não praticar dirigindo; omitir ou adaptar diante de psicose ou mania aguda, dissociação grave ou trauma desestabilizado. Avaliação, destinos por aula e dívidas: [[00 - Hipnose e Auto-Hipnose no TSH - Decisão Avaliação e Destinos]]; inventário item a item: [[01 - Hipnose e Auto-Hipnose - Inventário Completo do Acervo]]; transcrições dos quatro cursos: [[02 - Transcrições dos Cursos de Auto-Hipnose - Estado e Localização]]. Ajustes marcados com a data em Práticas por Módulo, Matriz de Reaproveitamento (linha de hipnose), P6 (Decisão P6.H) e notas de leitura nos registros históricos.
+Fabiano decidiu incorporar ao TSH conteúdos e práticas de hipnose e auto-hipnose "de forma coerente e livre" e retirar as restrições que o vault aplicava ao tema, por virem de estruturações anteriores. Não usar como limite: auto-hipnose restrita a ensaio mental em M8, "opcional condicionado", dependência de protocolo próprio, P6 ou piloto, exclusão de regressão, amnésia, analgesia e recuperação de lembranças. O critério é o valor que cada conteúdo acrescenta ao TSH, com respaldo na formação e docência de Fabiano em hipnose. Permanecem como cuidados de condução: não praticar dirigindo; omitir ou adaptar diante de psicose ou mania aguda, dissociação grave ou trauma desestabilizado. Avaliação, destinos por aula e dívidas: [[00 - Hipnose e Auto-Hipnose no TSH - Decisão Avaliação e Destinos]]; inventário item a item: [[01 - Hipnose e Auto-Hipnose - Inventário Completo do Acervo]]; transcrições dos quatro cursos: [[02 - Transcrições dos Cursos de Auto-Hipnose - Estado e Localização]]. Esclarecimentos de Fabiano na mesma data: a tabela de estados de transe por ondas cerebrais descreve os vários transes em que as pessoas vivem (perspectiva ericksoniana) e não contradiz a tese de que a sugestão não depende do transe; "reprogramação" é linguagem pertinente, porque programações são padrões que podem ser reprogramados com liberdade e discernimento do Eu; relatos de abdução e fenômenos anômalos pertencem a outros projetos e não às construções atuais do TSH.
 
 
 ## Naranjo — meditação, duplas e música — 16/11/2026

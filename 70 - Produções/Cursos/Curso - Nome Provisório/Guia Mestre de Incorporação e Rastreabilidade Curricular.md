@@ -28,6 +28,9 @@ tags:
 
 # Guia Mestre de Incorporação e Rastreabilidade Curricular
 
+> **Nota de leitura — 18/11/2026, decisão de Fabiano.** O estado "vinculante" deste guia pertence às fases iniciais. Ele serve como memória e consulta, sem regras que limitem conteúdos. Ver [[10 - Contrato Comum de Contexto para Assistentes de IA]], seção "Conteúdos, pesquisas e práticas sem restrições herdadas".
+
+
 > **Modo de aplicação vigente desde 26/07/2026:** este Guia é instrumento de memória, consulta e consolidação. Não deve comandar a superfície da conversa criativa nem bloquear a exploração de uma aula. Durante a elaboração, códigos, portões, matrizes e checklists são usados apenas nos bastidores quando ajudarem. A aplicação formal ocorre quando Fabiano sinalizar maturidade da aula ou antes da pilotagem, conforme o [[Protocolo de Elaboração Curricular Viva e Continuidade Leve]].
 
 > **Entrada de continuidade:** consultar primeiro [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]] e o [[Registro Consolidado da Sessão - Governança e Arquitetura Curricular - 2026-07-21]].

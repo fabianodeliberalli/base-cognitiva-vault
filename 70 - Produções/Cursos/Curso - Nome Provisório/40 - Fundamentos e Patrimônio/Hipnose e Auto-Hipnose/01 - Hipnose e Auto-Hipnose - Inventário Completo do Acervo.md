@@ -24,7 +24,7 @@ Caminhos a partir de `C:\Users\fabia\`. Os níveis seguem a nota [[00 - Hipnose 
 | 8 | MÉTODO DE AUTORREGULAÇÃO INTEGRATIVA.pptx | OneDrive\Documentos | 82 slides · 28,2 MB · jan/2026 | Fabiano | 1 | lido | Enquadre de segurança para tudo que vier da hipnose (SOS/P6) |
 | 9 | Rascunho do workshop desprogramação mental e autocura (1).pdf | OneDrive\Cursos (cópia em OneDrive\Documentos) | 1 p. · 2017 | Gilda Moura e Fabiano | 1 | lido | Genealogia: auto-hipnose + Três Eus + Qi Gong em 2017 |
 | 10 | Notas OneNote: Mirroring Hands – Richard Hill; Hipnose – Alberto; Bibliografia recomendada Hipnose do Zero; Curso Básico de auto hipnose on line | Base Cognitiva\Base Cognitiva\00 - Caixa de Entrada\OneNote\Meu Bloco de Anotações\Anotações Rápidas | 4 notas .md | Fabiano (notas de cursos) | 1–2 | lido | Formulações próprias → M1.3 e M6.2 |
-| 11 | Ericksoniana, Metáforas e Imaginação Fronteiras on line.pptx | OneDrive\Cursos\cursos fronteiras online e presencial | 27 slides · 2022 | provável Fabiano | 2 | lido | M5.5; retirar a cosmologia e a simplificação hemisférica |
+| 11 | Ericksoniana, Metáforas e Imaginação Fronteiras on line.pptx | OneDrive\Cursos\cursos fronteiras online e presencial | 27 slides · 2022 | provável Fabiano | 2 | lido | M5.5 (metáforas ericksonianas); cosmologia e hemisférios com estatuto declarado |
 | 12 | Concerto para Quatro Cérebros em Psicoterapia (Teresa Robles).pdf | Downloads (cópia em Downloads\Documents) | 143 p. (PDF de imagem) | Teresa Robles | 2 | amostra | M4.4 e M1.3; precisa de OCR; "quatro cérebros" como metáfora |
 | 13 | Richard Hill mirroring hands 1 / 2 (PDFs sem extensão) | OneDrive\Cursos | 71 + 66 p. | Richard Hill | 2 | lido | M4.5 e M6.2; handout de certificação, só fundamentação |
 | 14 | Lynn et al. 1997, *Recalling the Unrecallable* (CurrentDirections…pdf) | OneDrive\Cursos\Hipnose do zero Dellisola | 3,0 MB | Lynn, Lock et al. | 2 | lido | M2.5 e M5.8 |
@@ -42,7 +42,7 @@ Caminhos a partir de `C:\Users\fabia\`. Os níveis seguem a nota [[00 - Hipnose 
 | 26 | Aula 4 Junho 2018 – Regressão de Idade.pdf; Aula 5 … SP 2018 PDF.pdf; Aula 6 - Curso Hipnose.pdf | OneDrive\Cursos\Curso Gilda\Curso Além das Fronterias da Ciência | 0,4 + 8,5 + 2,8 MB | Gilda Moura | 4 | lido (Aula 6) | Mesma linha |
 | 27 | Hipnose Avançada Fronteiras on line.pptx | OneDrive\Cursos\cursos fronteiras online e presencial | 23 slides · 2020 | Gilda Moura | 4 | lido | Ponte afetiva, ideomotor, abreação → M4.4/M4.5, Laboratório |
 | 28 | Hipnose Avançada 2 Fronteiras on line.pptx | idem | 16 slides · 2020 | Gilda Moura | 4 | lido | Sl. 4–5 (crítica à regressão em grupo como "prova") → M5.8 |
-| 29 | Congressso Hipnose 2019.pptx (Resgate cognitivo…) | OneDrive\Documentos | 44 slides | Gilda Moura | 4 | lido | Fora; uso no IGM / O CHAMADO |
+| 29 | Congressso Hipnose 2019.pptx (Resgate cognitivo…) | OneDrive\Documentos | 44 slides | Gilda Moura | 4 | lido | Projetos IGM / O CHAMADO; não faz parte das construções atuais do TSH |
 | 30 | Aula 1_Curso básico de técnicas para recuperar memórias… (2 versões .pptx) | OneDrive\Cursos\Curso Gilda\Além das fronteiras aulas | 130 slides · 21,7 MB | Gilda Moura | 4 | lido | Disponível para avaliação |
 | 31 | Aula 1.1 e Aula 2 Nov17 – Curso básico… recuperar memórias | OneDrive\Cursos\Curso Gilda\Curso Além das Fronterias da Ciência | 18–20 MB · 11 MB | Gilda Moura | 4 | título | Disponível para avaliação |
 | 32 | Aspectos teóricos na recuperação de memória… aula 4 (2 versões) | OneDrive\Cursos\cursos fronteiras online e presencial | 69 slides | co-docência | 4 | lido | Disponível para avaliação |
@@ -63,7 +63,7 @@ Caminhos a partir de `C:\Users\fabia\`. Os níveis seguem a nota [[00 - Hipnose 
 | 47 | Escalas+de+suscetibilidade.png | OneDrive\Documentos | imagem | curso Dell'Isola | 3 | título | Variabilidade individual como conteúdo; se aplicada, como ponto de partida |
 | 48 | HIPNOTERAPIA - DAVE ELMAN.pdf | OneDrive\Livros | 254 p. | Dave Elman | 3 | amostra | Referência histórica |
 | 49 | marlus-v.c.-ferreira_-_hipnose-na-pratica-clinica.pdf | OneDrive\Livros | 787 p. | Marlus Ferreira | 3 | amostra | Melhor referência clínica brasileira do acervo (bastidor) |
-| 50 | A Terapia Da Linha Do Tempo - Ted James (PDF sem extensão) | OneDrive\Livros | 38 p. | Tad James & Woodsmall | 3 | lido | Linha do tempo como técnica disponível; reescrever as promessas |
+| 50 | A Terapia Da Linha Do Tempo - Ted James (PDF sem extensão) | OneDrive\Livros | 38 p. | Tad James & Woodsmall | 3 | lido | Linha do tempo como técnica disponível |
 | 51 | Manual De Tecnicas De Pnl.pdf | OneDrive\Fabiano\Documents | 203 p. | — | 3 | amostra | Repertório histórico |
 | 52 | minha voz irá contigo - Erikcson (pasta) | OneDrive\Livros | vazia | — | 5 | — | Pasta vazia |
 | 53 | 49 - AUTO-HIPNOSE.mp4 | OneDrive\Vídeos\Videos dowloads | 548 MB | Dell'Isola | 5 | tamanho | Duplicata da aula "Auto-Hipnose Científica" (item 37) |
@@ -80,7 +80,7 @@ Caminhos a partir de `C:\Users\fabia\`. Os níveis seguem a nota [[00 - Hipnose 
 | 64 | -Integrative-Hypnosis-Comprehensive-Course-in-Change.pdf | Downloads | 774 p. (e-book) | Melissa Tiers | 3 | sumário | Repertório: pré-conversa, induções, EFT, âncoras, Elman |
 | 65 | 816605615-Conceitos-de-Milton-Erickson-e-sua-Influencia-para-a-Formacao-do-Facilitador.pdf | Downloads | 82 p. | textos de Ernest Rossi | 2 | amostra | Quatro estágios criativos, ritmos ultradianos; expressão gênica como hipótese |
 | 66 | Auto-Hipnose-Terapeutica-Lucas-Naves.pdf | Downloads | 116 p. · 2020 | Lucas Naves | 3 | amostra | Didática popular; comparação de formato |
-| 67 | -Mude-a-sua-vida-com-a-Auto-Hipnose-PDFDrive.pdf | Downloads | 160 p. · 2015 | Miguel Cocco & Raquel Palermo | 3 | amostra | Idem; tom de promessa a evitar |
+| 67 | -Mude-a-sua-vida-com-a-Auto-Hipnose-PDFDrive.pdf | Downloads | 160 p. · 2015 | Miguel Cocco & Raquel Palermo | 3 | amostra | Idem; comparação de formato |
 | 68 | -A-Hipnose-Ericksoniana.pdf | Downloads | 25 p. | e-book de divulgação | 3 | lido | Baixo acréscimo |
 | 69 | Jorge-Adoum-A-Magia-do-Verbo-1.pdf | Downloads | 54 p. | Jorge Adoum | 3 | amostra | Tradição esotérica da palavra; M5 com estatuto declarado |
 | 70 | chat.txt das quatro gravações Zoom | OneDrive\Documentos\Zoom\… | 4 arquivos | participantes | 1 | lido | Indicam práticas conduzidas: ideomotor por dedos, contagem, balde, moeda, escrita/desenho, retorno a data, dor. Contêm nomes e um telefone: não reproduzir |

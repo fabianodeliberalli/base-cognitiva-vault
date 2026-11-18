@@ -17,6 +17,9 @@ tags:
 
 # Matriz Curricular Essencial da Primeira Oferta Integral
 
+> **Nota de leitura — 18/11/2026, decisão de Fabiano.** A seção de conteúdos condicionados ou excluídos registra uma fase anterior e não limita mais as aulas. Ver [[10 - Contrato Comum de Contexto para Assistentes de IA]], seção "Conteúdos, pesquisas e práticas sem restrições herdadas".
+
+
 ## Regra
 
 > **Arquitetura integral não significa patrimônio intelectual integral.**
