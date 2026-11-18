@@ -69,10 +69,12 @@ As propostas abaixo permanecem para desenvolvimento na montagem. Nenhuma imagem 
 
 **Da seiva à singularidade:** usar uma passagem oral entre a árvore da fisiologia energética e a árvore autoral. Cada uma conserva sua pergunta: circulação/qualidades da vida e história/condições/proteção/expressão singular. A semelhança visual abre uma relação, não estabelece identidade de significado.
 
-## 5 Condições de uso e estado
+## 5 Uso das imagens nas aulas do TSH
 
-C02/C03/C32 trazem avisos de reprodução. A preservação no acervo pessoal mantém a consulta. Para publicação e aulas gravadas, selecionar sínteses próprias, referências e representações autorais; eventual reprodução de figuras precisa respeitar suas condições de uso. Este registro não publica novas imagens integrais no repositório.
+As imagens das apresentações do Dr. Carlos Nogueira Pérez, fornecidas aos alunos da formação, integram o acervo de referência utilizado por Fabiano Deliberalli. Por orientação de Fabiano para a produção do Traduzindo o Ser Humano (TSH), essas imagens podem ser incorporadas às aulas segundo a necessidade pedagógica, com identificação da fonte e das adaptações realizadas. Os originais permanecem disponíveis para consulta no acervo pessoal.
 
-O PDF C32 contém fundo gráfico e sobreposição de letras que dificultam algumas telas, inclusive na renderização por ferramentas diferentes. A apresentação de Fabiano oferece recomposições mais legíveis de parte desses mapas. A leitura docente pode usar os originais; a montagem deve verificar a legibilidade da figura efetivamente escolhida na gravação em Zoom.
+Na preparação de cada imagem, conferir a legibilidade no formato em que ela será exibida. A escolha entre imagem original, detalhe, recomposição ou representação autoral considera a contribuição ao conteúdo da aula e a clareza da apresentação.
+
+Os códigos e as páginas do PDF nas tabelas são localizadores. O [Inventário do acervo CEMETC](Anexos/TSH_CEMETC_Inventario_2026-11-14.json) identifica os arquivos de origem.
 
 Fundamentação em [[13 - Nogueira Pérez e CEMETC - Acupuntura Bioenergética - Fontes Correlações e Destinos]]; destinos e situações em [[14 - CEMETC - Destinos Pedagógicos Práticas e Correlações]].
