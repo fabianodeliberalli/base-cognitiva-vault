@@ -12,6 +12,10 @@ autoridade_de_decisao: Fabiano Deliberalli
 
 [[Ely Brito - Possibilidades de ampliação do TSH|Ely]]; [[TSH - Empatia e compaixão]]: fontes e aulas. [[Naranjo]]
 
+## Comunicação e acervo de campanhas
+
+O [[2026-11-14 - Carrossel da Aula Prática - Acervo da Campanha|Carrossel da Aula Prática de 14/11/2026]] reúne as oito imagens de divulgação no Instagram e a legenda original da campanha.
+
 ## Cultivo e recuperação — 13/11/2026
 
 [[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]]: base desde M0.2; 04/05/06: fundamentos, condução e aulas. [[11 - Leituras Recuperadas - Taoismo Shen e Transformação]]: 27 originais, leituras e destinos. Visuais restritos na nota 11. [[09 - Preservação dos Anexos e Retomada do Chat - 13-11-2026]]: estado, PR #59 e próxima ação. Binários a sincronizar.
@@ -36,12 +40,12 @@ Nesta turma: um encontro online ao vivo de duas horas a cada módulo, uma hora d
 
 Consultar a nota de integração junto da síntese ao produzir aulas, práticas, Masterclass, comunicação e complementos. Ela diferencia decisões autorais, propostas didáticas e fontes de pesquisa; mantém a MTC em linguagem própria e organiza correlações sem exigir equivalência neurobiológica. As três situações de reconhecimento, acesso e cultivo orientam o percurso.
 
-O Word confirmado em 24/10 permanece integralmente recuperável em [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Raio X do Produto/Histórico/2026-10-24 - Raio-X-Fabiano Deliberalli - anterior ao refinamento.docx]]. O registro abaixo descreve o estado anterior à presente revisão.
+O Word confirmado em 24/10 permanece integralmente recuperável em [[2026-10-24 - Raio-X-Fabiano Deliberalli - anterior ao refinamento.docx]]. O registro abaixo descreve o estado anterior à presente revisão.
 
 
 ## Registro de vigência anterior — decisão de 24 de outubro de 2026
 
-Na decisão de 24/10/2026, a referência vigente do Raio X passou a ser o arquivo **RAIO X - congelado(1).docx**, fornecido e confirmado por Fabiano nesta data, preservado integralmente em [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Raio X do Produto/Vigente/Raio-X-Fabiano Deliberalli.docx|Raio X vigente — Word]]. Para leitura e busca, usar [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Raio X do Produto/Vigente/Raio-X-Fabiano Deliberalli - Texto para consulta|Raio X vigente — texto para consulta]]; essa transcrição é derivada do Word e não constitui versão independente.
+Na decisão de 24/10/2026, a referência vigente do Raio X passou a ser o arquivo **RAIO X - congelado(1).docx**, fornecido e confirmado por Fabiano nesta data, preservado integralmente em [[Raio-X-Fabiano Deliberalli.docx|Raio X vigente — Word]]. Para leitura e busca, usar [[Raio-X-Fabiano Deliberalli - Texto para consulta|Raio X vigente — texto para consulta]]; essa transcrição é derivada do Word e não constitui versão independente.
 
 Todas as demais versões do Raio X, seus resumos, matrizes de correspondência e referências de oferta anteriores têm valor histórico. Expressões como “vigente”, “canônico”, “definitivo” ou “aprovado” dentro desses materiais descrevem o estado da época e não lhes conferem precedência atual. Isso inclui versões de agosto e rascunhos de outubro, independentemente da data ou do nome do arquivo.
 
