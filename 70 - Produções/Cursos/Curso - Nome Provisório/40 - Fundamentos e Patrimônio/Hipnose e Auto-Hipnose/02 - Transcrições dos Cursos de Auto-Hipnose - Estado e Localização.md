@@ -1,7 +1,7 @@
 ---
 tipo: registro-de-fontes-autorais
 projeto: Traduzindo o Ser Humano
-status: tres-transcritos-um-em-andamento
+status: quatro-transcritos
 criado_em: 2026-11-18
 atualizado_em: 2026-11-18
 ---
@@ -30,7 +30,7 @@ Transcrição local no computador de Fabiano, com Buzz 1.4.5 (Whisper, código a
 | Live 03/06/2024 | 1h10 | concluída (20h46) | `audio1591100844 (transcribed on 18-Nov-2026 20-46-25).txt` e `.srt` |
 | Workshop, manhã, 08/06/2024 | 3h10 | concluída (20h52) | `audio1724080175 (transcribed on 18-Nov-2026 20-52-23).txt` e `.srt` |
 | Workshop, tarde, 08/06/2024 | 4h20 | concluída (21h01) | `audio1848316572 (transcribed on 18-Nov-2026 21-01-25).txt` e `.srt` |
-| Autohipnose 05/07/2025 | — | em andamento | — |
+| Autohipnose 05/07/2025 | 7h40 | concluída (21h16) | `audio1279384979 (transcribed on 18-Nov-2026 21-16-48).txt` e `.srt` |
 
 **Qualidade.** Boa para estudo e seleção de trechos: o português sai fluente, com erros pontuais em nomes próprios e termos técnicos (por exemplo, "David Chick" por David Cheek, "fenômenos anônimos" por anômalos, "autopinose"). Não há separação de vozes; quem fala se reconhece pelo contexto. O `.srt` traz os tempos, úteis para localizar trechos no vídeo. Trechos para roteiros devem ser conferidos com o áudio.
 

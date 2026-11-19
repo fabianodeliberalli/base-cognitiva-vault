@@ -65,8 +65,26 @@ Os cursos foram dados em co-docência com Gilda Moura. Esta nota separa o que Fa
   - o estudo de EEG com contatados e a gama (3h55);
   - dois caminhos para estados expandidos: frequência que desce ou que acelera (4h00).
 
-### Autohipnose — 05/07/2025
-Transcrição em andamento no computador de Fabiano. Esta nota será completada.
+### Autohipnose — 05/07/2025 (7h40)
+- **Fabiano:**
+  - abertura com respiração no baixo ventre ("em consultório uso o tempo inteiro", inclusive no trabalho com trauma) e visualização de um lugar de segurança (0h05–0h15);
+  - durante a fixação do olhar, a variação inspirada no Brainspotting: "onde está no teu ambiente a sensação de tranquilização?", "dependendo de onde você olha, afeta o que você sente" (1h35; fala atribuída a Fabiano pelo contexto, a conferir no vídeo);
+  - teoria (2h10–3h15): Freud e a hipnose; transe natural (Erickson) e alteração da percepção (Elman); níveis de transe e ondas, com a conclusão de que não é preciso estado profundo; atenção focada como transe; estados associados e dissociados; Erickson focando estados positivos; sair de um estado de transe trazendo outro;
+  - suscetibilidade treinável; defesa necessária que não pode cronificar; o pensamento consciente que vira automático pela repetição; respiração e afirmações (4h15–4h50);
+  - *looping* hipnótico de James Tripp: crença → imaginação → fisiologia, sem necessidade de estado alterado (5h55);
+  - exercício dos livros e balões e outros testes do *looping* (6h00–6h15);
+  - tipos de imaginação: voluntária (Eu Médio), espontânea (Eu Básico, ligada ao Eu Superior), pré-verbal (atua no corpo; placebo) e transpessoal (6h20);
+  - placebo; enteógenos e estados ampliados (6h25–6h40).
+- **Gilda:**
+  - história (Mesmer e o magnetismo animal) e definições (0h20–0h55);
+  - respiração preparatória "como uma jarra d'água" (0h25);
+  - dedos ideomotores (1h00–1h20);
+  - fixação do olhar com tempo de retorno programado (1h20–1h55);
+  - pêndulo (3h20–3h45);
+  - linguagem simbólica do inconsciente (3h45–4h10);
+  - dor como metáfora e anestesia da mão com o balde de gelo (4h55–5h35);
+  - "tudo que desce aprofunda; tudo que sobe realerta" (5h50);
+  - moeda e escrita automática nos três tipos (6h55–7h35).
 
 ## 2. A indução de Fabiano (2024) como prática-base do TSH
 
@@ -103,6 +121,6 @@ Propostas para Fabiano escolher e desenvolver.
 
 ## 4. Pendências
 
-- Completar com a gravação de 05/07/2025 quando a transcrição terminar.
+- Plano de incorporação nos módulos e aulas: [[05 - Hipnose e Auto-Hipnose nos Módulos e Aulas do TSH - Plano de Incorporação]].
 - Selecionar trechos literais para roteiros. Ficam no computador de Fabiano, não neste repositório público.
 - Os relatos clínicos citados nas gravações (de Gilda e de Fabiano) entram em aula anonimizados.

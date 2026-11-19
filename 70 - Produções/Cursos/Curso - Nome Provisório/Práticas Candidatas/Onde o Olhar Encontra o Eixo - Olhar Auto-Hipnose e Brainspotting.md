@@ -19,6 +19,8 @@ Prática candidata registrada para a construção das aulas, a pedido de Fabiano
 
 Algumas técnicas de auto-hipnose usam a fixação do olhar, como o Brainspotting. A auto-hipnose pode adotar conceitos e pontos do Brainspotting sem se tornar o ensino da técnica clínica. Fabiano considera trazer essa perspectiva como prática no TSH.
 
+**Já ensinada.** No curso Autohipnose de 05/07/2025 (gravação, por volta de 1h35), durante a fixação do olhar, Fabiano conduziu exatamente essa variação: "Pensa que você quer ativar uma sensação de tranquilização. E olhe um pouquinho no teu ambiente. Onde está no teu ambiente a sensação de tranquilização?", com a premissa de David Grand de que "dependendo de onde você olha, afeta o que você sente". Fabiano a apresentou de forma simples, distinguindo-a do trabalho clínico com trauma. Lugar no curso: [[05 - Hipnose e Auto-Hipnose nos Módulos e Aulas do TSH - Plano de Incorporação]].
+
 ## O que acrescenta ao TSH
 
 - **Três linhas do percurso de Fabiano numa só prática:**
