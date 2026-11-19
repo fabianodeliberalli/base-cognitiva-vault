@@ -15,7 +15,7 @@ aliases:
 
 Pedido de Fabiano em 18/11/2026: incorporar ao TSH o material teórico pertinente e as práticas já direcionadas, na estrutura dos módulos e das aulas. Fabiano aprovou a ideia de ensinar sua indução (de base Dave Elman) em partes ao longo do curso e reuni-la numa fase mais avançada. Propôs duas etapas por aula prática, para depois sobrar tempo de juntar e repetir.
 
-Fontes: [[04 - Cursos de Auto-Hipnose Transcritos - Conteúdos e Incorporações ao TSH]], [[03 - Estados de Transe Sugestão e Reprogramação - Perspectiva de Fabiano]], [[Estados de Transe e Ondas Cerebrais - Pesquisas e Perspectiva de Fabiano]] e [[Onde o Olhar Encontra o Eixo - Olhar Auto-Hipnose e Brainspotting]].
+Fontes: [[04 - Cursos de Auto-Hipnose Transcritos - Conteúdos e Incorporações ao TSH]], [[03 - Estados de Transe Sugestão e Reprogramação - Perspectiva de Fabiano]], [[Estados de Transe e Ondas Cerebrais - Pesquisas e Perspectiva de Fabiano]] [[Onde o Olhar Encontra o Eixo - Olhar Auto-Hipnose e Brainspotting]] e, para as fontes em livro de cada etapa e prática, [[06 - Livros de Hipnose Grupo Terapia e Trauma - Avaliação para o TSH]].
 
 ## 1. Onde ficam as aulas práticas
 
