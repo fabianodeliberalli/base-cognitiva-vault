@@ -29,8 +29,8 @@ Princípio: **aprender a sair antes de entrar**. A primeira etapa ensinada junto
 
 | Encontro | Módulo | Etapas da indução | Ligação com o tema do módulo | Prática da semana |
 |---|---|---|---|---|
-| 28/11 | 0 e 1 — Traduzindo a experiência | **1. Respiração no baixo ventre** ("como um fole") e **2. Retorno** (contagem de 1 a 3, data, lugar, corpo, respiração) | Abertura com o "poder do dedo"; perceber que se entrou num transe que não se escolheu e voltar | Três respirações e o retorno sempre que notar um transe não escolhido |
-| 05/12 | 2 — Traduzir sem reduzir | **3. Pálpebras desligadas** e **4. Fracionamento** (abrir, fechar, relaxar duas vezes mais) | Expectativa e atenção mudam a percepção: o corpo responde à própria sugestão | Etapas 1 a 4, terminando no retorno |
+| 28/11 | 0 e 1 — Traduzindo a experiência | **1. Respiração no baixo ventre** ("como um fole") e **2. Retorno** (contagem de 1 a 3, data, lugar, corpo, respiração) | Abertura com o "poder do dedo" (primeira imagem do Eu Básico, sem nome técnico); perceber que se entrou num transe que não se escolheu e voltar | Três respirações e o retorno sempre que notar um transe não escolhido |
+| 05/12 | 2 — Traduzir sem reduzir | **3. Pálpebras desligadas** e **4. Fracionamento** (abrir, fechar, relaxar duas vezes mais) | Expectativa e atenção mudam a percepção: o corpo responde à própria sugestão; nomeia-se o par Eu Básico e Eu Médio | Etapas 1 a 4, terminando no retorno |
 | 12/12 | 3 — O corpo como apoio | **5. Braço como pano molhado** e **6. Apagar os números** (de 100 a 1, os números somem perto do 98) | O corpo muda o que fica acessível; soltar o corpo e depois a mente | Etapas 1 a 6 |
 | 19/12 | 4 — Emoções e padrões | **7. Presente hipnótico** e **primeira junção completa** (1 a 7) | Do automatismo a uma resposta possível: ensaiar a resposta nova vivida no corpo | Indução completa, uma vez por dia |
 | 09/01 | 5 — Valores, sentido e referência | Indução completa e, dentro dela, **dedos ideomotores** (sim, não, não sei); pêndulo opcional | Os Três Eus na prática: perguntar ao Eu Básico com gentileza | Indução e uma pergunta ao Eu Básico |
@@ -50,6 +50,40 @@ Cada encontro retoma rapidamente as etapas anteriores antes das novas, para que 
 7. **Presente hipnótico:** viver o desejo realizado com cores, temperatura e corpo, e dizer a si mesmo que é permitido.
 
 Cuidados de condução, como em todo o curso: não praticar dirigindo; omitir ou adaptar diante de psicose ou mania aguda, dissociação grave ou trauma desestabilizado; retorno explícito.
+
+## 2a. Três Eus — introdução progressiva antes do Módulo 5 (proposta de 18/11/2026)
+
+**O que mostram as gravações.** No ensino de hipnose de Fabiano, os Três Eus não são um capítulo à parte. São a linguagem que explica a prática, presente do começo ao fim:
+- **Live de 03/06/2024 (0h30):** os Kahunas como sistema de hipnose a aprender e traduzir.
+- **Workshop de 08/06/2024, manhã:** o Eu Básico já aparece no primeiro exercício ideomotor (1h05–1h25; Gilda: a parte "grudada no sistema nervoso, no corpo"). Volta ao longo da manhã até a fala de Fabiano às 2h55: "ser gentil com o teu eu básico"; o eu médio "proíbe" o eu básico.
+- **Workshop de 08/06/2024, tarde:** presente em doze blocos de cinco minutos. Às 3h00, Fabiano liga a lei do esforço invertido aos Três Eus: não brigar com o eu básico nem impor nada a ele com o eu médio.
+- **Autohipnose de 05/07/2025:** presente do começo (0h55) ao fim. O Eu Básico como interface entre o corpo, a energia e o aspecto multidimensional, "aquele que chora, mas não sabe falar" (3h50); os tipos de imaginação, voluntária (Eu Médio) e espontânea (Eu Básico) (6h20).
+- **Slides de 2024 e 2025:** "quanto mais o eu médio se identifica com aspectos trazidos pelo eu básico, mais perdidos nos sentimos"; "complexos e traumas = eu básico altamente impressionável".
+- **Folder de 2017:** "Os 3 Eu's dos Kahunas" ao lado da auto-hipnose.
+
+**Por que isso pede introdução antes do Módulo 5.**
+- A indução começa no encontro de 28/11 e é reunida em 19/12. A aula dos Três Eus (Módulo 5) só é liberada em 20/12.
+- Sem a linguagem do Eu Básico e do Eu Médio, as etapas da indução perdem a explicação que Fabiano sempre deu a elas:
+  - desligar as pálpebras é o Eu Médio deixando o Eu Básico agir; a definição de Elman fala em rebaixar a faculdade crítica, que corresponde ao Eu Médio que proíbe;
+  - a lei do esforço invertido explica por que não se força;
+  - o presente hipnótico pede "permissão" ao Eu Básico.
+
+**Por que não mover a aula inteira.** O curso ensina primeiro a usar mapas e só depois mapas específicos (Aula 0.1). A aula do Módulo 5 apresenta os Três Eus completos, com o Eu Superior e a função EIXO, que dependem do tema do Módulo 5 (valores, sentido, referência profunda). Antecipar o mapa inteiro tiraria dele esse lugar.
+
+**Proposta: introdução em espiral.** O par Eu Básico e Eu Médio entra antes, pela experiência da hipnose; o mapa completo fica no Módulo 5.
+
+| Momento | O que aparece dos Três Eus |
+|---|---|
+| Encontro de 28/11 (Módulos 0 e 1) | Só uma primeira imagem, sem nome técnico: o "poder do dedo" mostra uma parte de nós que responde antes da explicação |
+| Módulo 2 e encontro de 05/12 | **Nomeia-se o par**: Eu Básico, que guarda, sente e responde, e Eu Médio, que avalia, decide e às vezes proíbe. Pálpebras desligadas como experiência do Eu Médio que permite. Em *Quando o mapa parece ser a própria realidade*: quanto mais o Eu Médio se identifica com o que o Eu Básico traz, mais perdidos nos sentimos |
+| Módulo 3 e encontro de 12/12 | Eu Básico ligado ao corpo e à fisiologia: imaginação pré-verbal, placebo, o braço que relaxa sozinho |
+| Módulo 4 e encontro de 19/12 | Eu Básico como guardião de aprendizagens e proteções (complexos e traumas: Eu Básico impressionável); ser gentil com ele; lei do esforço invertido; presente hipnótico como permissão |
+| Módulo 5, aula dos Três Eus, e encontro de 09/01 | **Mapa completo**: os três Eus, o Eu Superior e a função EIXO; imaginação voluntária e espontânea; dedos e pêndulo como diálogo com o Eu Básico |
+
+**Ajuste nos roteiros.**
+- A aula do Módulo 5 passa a retomar o que o aluno já viveu e o completa, em vez de apresentar os Três Eus do zero.
+- O nome "Eu Básico" vem acompanhado da função ("a parte que sustenta, sente e responde"), como no mapa funcional do TSH.
+- A genealogia Huna é declarada quando o mapa completo aparece.
 
 ## 3. As quatro propostas de maior acréscimo
 
