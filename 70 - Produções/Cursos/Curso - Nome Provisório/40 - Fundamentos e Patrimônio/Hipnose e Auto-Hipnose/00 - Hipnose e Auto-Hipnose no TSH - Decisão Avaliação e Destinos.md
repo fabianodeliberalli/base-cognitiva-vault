@@ -13,7 +13,7 @@ aliases:
 
 # Hipnose e auto-hipnose no TSH: decisão, avaliação e destinos
 
-Registro solicitado por Fabiano em 18/11/2026. Esta nota reúne o inventário do acervo de hipnose e auto-hipnose do computador pessoal, a avaliação de cada conjunto pelo que acrescenta ao TSH e os destinos possíveis nas aulas. O inventário item a item está em [[01 - Hipnose e Auto-Hipnose - Inventário Completo do Acervo]]. As transcrições dos quatro cursos de auto-hipnose ficam registradas em [[02 - Transcrições dos Cursos de Auto-Hipnose - Estado e Localização]]. A perspectiva de Fabiano sobre estados de transe, ondas cerebrais, reprogramação e olhar está em [[03 - Estados de Transe Sugestão e Reprogramação - Perspectiva de Fabiano]].
+Registro solicitado por Fabiano em 18/11/2026. Esta nota reúne o inventário do acervo de hipnose e auto-hipnose do computador pessoal, a avaliação de cada conjunto pelo que acrescenta ao TSH e os destinos possíveis nas aulas. O inventário item a item está em [[01 - Hipnose e Auto-Hipnose - Inventário Completo do Acervo]]. As transcrições dos quatro cursos de auto-hipnose ficam registradas em [[02 - Transcrições dos Cursos de Auto-Hipnose - Estado e Localização]]. A perspectiva de Fabiano sobre estados de transe, ondas cerebrais, reprogramação e olhar está em [[03 - Estados de Transe Sugestão e Reprogramação - Perspectiva de Fabiano]]. Conteúdos dos cursos transcritos e propostas de incorporação: [[04 - Cursos de Auto-Hipnose Transcritos - Conteúdos e Incorporações ao TSH]]. Prática candidata de olhar e auto-hipnose: [[Onde o Olhar Encontra o Eixo - Olhar Auto-Hipnose e Brainspotting]].
 
 ## 1. Decisão de Fabiano — 18/11/2026
 
@@ -157,7 +157,7 @@ A distribuição é proposta de consulta. A escolha final de cada aula acompanha
 
 ## 6. Dívidas de organização
 
-1. Transcrever os quatro cursos de auto-hipnose — em andamento ([[02 - Transcrições dos Cursos de Auto-Hipnose - Estado e Localização]]).
+1. Transcrever os quatro cursos de auto-hipnose — três concluídos em 18/11/2026, o de 2025 em andamento ([[02 - Transcrições dos Cursos de Auto-Hipnose - Estado e Localização]]).
 2. Triar *Hipnose clínica.zip* (18,7 GB, raiz do OneDrive).
 3. OCR de Teresa Robles e do manual de Sofia Bauer.
 4. Anonimizar ou segregar o caso clínico do deck de regressão de 2017.

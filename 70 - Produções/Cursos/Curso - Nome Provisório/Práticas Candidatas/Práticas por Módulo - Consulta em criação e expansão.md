@@ -713,6 +713,10 @@ O quadro abaixo define o lugar das técnicas na primeira oferta; as linhas de hi
 
 | Auto hipnose e ensaio mental | Núcleo disponível (18/11/2026) | M1 a M8, Laboratório e Imersão | Habilidade de atenção, expectativa e sugestão; destinos na nota de hipnose. |
 
+| Onde o olhar encontra o eixo (olhar, auto-hipnose e conceitos do Brainspotting) | Disponível (18/11/2026) | Do primeiro módulo ao retorno; variação de ativação ao vivo, no Laboratório ou na Imersão | Ver [[Onde o Olhar Encontra o Eixo - Olhar Auto-Hipnose e Brainspotting]]. |
+
+| Indução de auto-hipnose de Fabiano (2024), desmembrada | Disponível (18/11/2026) | Componentes distribuídos ao longo do curso | Ver [[04 - Cursos de Auto-Hipnose Transcritos - Conteúdos e Incorporações ao TSH]]. |
+
 | Sorriso Interior | Disponível (18/11/2026) | Já presente nas aulas abertas do M0; demais módulos conforme valor | Roteiro de Fabiano. |
 
 | Tonglen | Disponível (18/11/2026) | Conforme valor; ver notas de compaixão | Fonte e contexto tradicional como fundamentação. |
