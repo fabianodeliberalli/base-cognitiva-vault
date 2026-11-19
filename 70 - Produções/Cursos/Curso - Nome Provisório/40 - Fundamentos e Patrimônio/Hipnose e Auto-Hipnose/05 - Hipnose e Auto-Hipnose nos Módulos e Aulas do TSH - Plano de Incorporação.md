@@ -51,7 +51,7 @@ Cada encontro retoma rapidamente as etapas anteriores antes das novas, para que 
 
 Cuidados de condução, como em todo o curso: não praticar dirigindo; omitir ou adaptar diante de psicose ou mania aguda, dissociação grave ou trauma desestabilizado; retorno explícito.
 
-## 2a. Três Eus — introdução progressiva antes do Módulo 5 (proposta de 18/11/2026)
+## 2a. Três Eus — introdução em espiral antes do Módulo 5 (percurso registrado por Fabiano em 18/11/2026)
 
 **O que mostram as gravações.** No ensino de hipnose de Fabiano, os Três Eus não são um capítulo à parte. São a linguagem que explica a prática, presente do começo ao fim:
 - **Live de 03/06/2024 (0h30):** os Kahunas como sistema de hipnose a aprender e traduzir.
@@ -70,7 +70,7 @@ Cuidados de condução, como em todo o curso: não praticar dirigindo; omitir ou
 
 **Por que não mover a aula inteira.** O curso ensina primeiro a usar mapas e só depois mapas específicos (Aula 0.1). A aula do Módulo 5 apresenta os Três Eus completos, com o Eu Superior e a função EIXO, que dependem do tema do Módulo 5 (valores, sentido, referência profunda). Antecipar o mapa inteiro tiraria dele esse lugar.
 
-**Proposta: introdução em espiral.** O par Eu Básico e Eu Médio entra antes, pela experiência da hipnose; o mapa completo fica no Módulo 5.
+**Percurso registrado: introdução em espiral.** O par Eu Básico e Eu Médio entra antes, pela experiência da hipnose; o mapa completo fica no Módulo 5.
 
 | Momento | O que aparece dos Três Eus |
 |---|---|

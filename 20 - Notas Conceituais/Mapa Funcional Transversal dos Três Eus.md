@@ -46,7 +46,7 @@ A nomenclatura deriva conscientemente de Max Freedom Long/Huna moderna e de Serg
 
 Evidência documental do percurso (registrada em 18/11/2026): os Três Eus aparecem como "Os 3 Eu's dos Kahunas" no folder do workshop *Desprogramação Mental e Autocura* (2017, com Gilda Moura), ao lado de auto-hipnose, Qi Gong, Wilber e Jung, e como linguagem do inconsciente nos workshops de auto-hipnose de Fabiano de 2024 e 2025. Ver [[00 - Hipnose e Auto-Hipnose no TSH - Decisão Avaliação e Destinos]].
 
-Proposta de 18/11/2026: introdução em espiral no TSH. O par Eu Básico e Eu Médio entra no Módulo 2, pela experiência da auto-hipnose, e é aprofundado nos Módulos 3 e 4. O mapa completo, com o Eu Superior e a função EIXO, fica no Módulo 5. Ver [[05 - Hipnose e Auto-Hipnose nos Módulos e Aulas do TSH - Plano de Incorporação]], seção 2a.
+Percurso registrado por Fabiano em 18/11/2026: introdução em espiral no TSH. O par Eu Básico e Eu Médio entra no Módulo 2, pela experiência da auto-hipnose, e é aprofundado nos Módulos 3 e 4. O mapa completo, com o Eu Superior e a função EIXO, fica no Módulo 5. Ver [[05 - Hipnose e Auto-Hipnose nos Módulos e Aulas do TSH - Plano de Incorporação]], seção 2a.
 
 O modelo não deverá ser apresentado como reprodução pura de uma tradição, como sabedoria havaiana ancestral comprovada ou como equivalência entre escolas. Seu estatuto é:
 

@@ -36,6 +36,14 @@ Ao preparar os roteiros a partir do Módulo 2 e as práticas dos encontros ao vi
 
 Para os Módulos 0 e 1, já liberados, a incorporação entra no encontro de 28/11 e em material complementar.
 
+**Três Eus em espiral** (percurso registrado por Fabiano em 18/11/2026; seção 2a do plano):
+- **28/11:** o "poder do dedo" como primeira imagem de uma parte que responde antes da explicação, sem nome técnico.
+- **Módulo 2:** o par Eu Básico (guarda, sente, responde) e Eu Médio (avalia, decide, às vezes proíbe), pela experiência das pálpebras desligadas; em *Quando o mapa parece ser a própria realidade*, a identificação do Eu Médio com o que o Eu Básico traz.
+- **Módulo 3:** o Eu Básico ligado ao corpo e à fisiologia.
+- **Módulo 4:** o Eu Básico como guardião de aprendizagens e proteções, ser gentil com ele, lei do esforço invertido, presente hipnótico como permissão.
+- **Módulo 5 (aula *Os Três Eus e a função EIXO*):** o mapa completo, com o Eu Superior, a função EIXO e os dedos e o pêndulo como diálogo com o Eu Básico. A aula retoma e completa o que o aluno já viveu.
+- **Nos roteiros:** o nome "Eu Básico" vem sempre com a função ("a parte que sustenta, sente e responde"); a genealogia Huna é declarada quando o mapa completo aparece.
+
 # TSH — Preparação dos roteiros e calendário
 
 Referência de trabalho • 31 de outubro de 2026
