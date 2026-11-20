@@ -27,6 +27,7 @@ Notas por autor, na pasta `Referenciais por Autor`:
 - [[Melissa Tiers - Induções e a Indução de Elman em Partes]]
 - [[Huna - Max Freedom Long e Serge King nos Três Eus]]
 - [[David Hawkins - Avaliação para o TSH]]
+- [[Tiers e Woods - Hipnose Integrativa para Crianças - Avaliação para o TSH]]
 - Elman e os demais livros: [[06 - Livros de Hipnose Grupo Terapia e Trauma - Avaliação para o TSH]]
 
 ## Por encontro ao vivo e etapa da indução
@@ -34,15 +35,15 @@ Notas por autor, na pasta `Referenciais por Autor`:
 | Encontro | Etapas de Fabiano | Referenciais |
 |---|---|---|
 | Antes de 28/11 | Orientação prévia | Yalom (preparação antes do grupo); Bauer (semear o retorno na mensagem) |
-| 28/11 | Respiração no baixo ventre; retorno | Shapiro (Mudança de Respiração); Marlus Ferreira (terminar deixando a pessoa alerta); Tiers (pré-conversa: toda hipnose é auto-hipnose); Cozolino e Hawkins (o transe que não se escolheu) |
-| 05/12 | Pálpebras desligadas; fracionamento | Elman (origem); Tiers (linguagem que não assusta, "teste"); Robles (olhar para cima e para trás como alternativa); Marlus Ferreira (apagar a sugestão das pálpebras no retorno) |
+| 28/11 | Respiração no baixo ventre; retorno | Tiers e Woods (dedos magnéticos); Shapiro (Mudança de Respiração); Marlus Ferreira (terminar deixando a pessoa alerta); Tiers (pré-conversa: toda hipnose é auto-hipnose); Cozolino e Hawkins (o transe que não se escolheu) |
+| 05/12 | Pálpebras desligadas; fracionamento | Tiers e Woods (fingir o transe, para quem "não consegue"); Elman (origem); Tiers (linguagem que não assusta, "teste"); Robles (olhar para cima e para trás como alternativa); Marlus Ferreira (apagar a sugestão das pálpebras no retorno) |
 | 12/12 | Braço como pano molhado; apagar os números | Elman e Tiers (contar de 100 para trás ou de 1 para frente; números que somem não indicam amnésia); Shapiro (Lata de Tinta); Marlus Ferreira (apagar a sugestão do braço) |
 | 19/12 | Presente hipnótico; primeira junção | Tiers (filme de si já mudado); Shapiro (Lugar Seguro); Robles (reconstrução pela respiração quando surge cena difícil); Long (reconstruir o futuro indesejado) |
-| 09/01 | Dedos ideomotores; pêndulo | Long e King (perguntar ao Eu Básico); Hawkins (teste muscular lido como resposta ideomotora); Robles e Tiers (fechar com integração) |
-| 16/01 | Escrita intuitiva ou automática | Robles e Tiers (integração no fim); Cozolino (narrativas coerentes) |
+| 09/01 | Dedos ideomotores; pêndulo | Tiers e Woods (quatro respostas, com "não quero dizer"; "a mensagem vem de você"; pêndulo humano); Long e King (perguntar ao Eu Básico); Hawkins (teste muscular lido como resposta ideomotora); Robles e Tiers (fechar com integração) |
+| 16/01 | Escrita intuitiva ou automática | Tiers e Woods (*visual squash*); Robles e Tiers (integração no fim); Cozolino (narrativas coerentes) |
 | 23/01 | Presente hipnótico relacional | Yalom (aprendizagem interpessoal); Cozolino (apego) |
 | 30/01 | Versão autônoma; versão de três minutos | Robles (sinais próprios de transe); Tiers (gatilho de uma respiração; auto-hipnose de dois minutos); Marlus Ferreira (gravação, sono, motivação) |
-| Todos | Desenho do encontro | Yalom (onze fatores; resumos escritos); Bauer (semeadura); Tiers (laços aninhados) |
+| Todos | Desenho do encontro | Tiers e Woods (sessões online); Yalom (onze fatores; resumos escritos); Bauer (semeadura); Tiers (laços aninhados) |
 
 ## Por aula gravada
 
@@ -65,7 +66,7 @@ Notas por autor, na pasta `Referenciais por Autor`:
 | M4.1, M4.2 — Estados e granularidade | Hawkins (Mapa como cartografia, sem números) |
 | M4.4 — Padrões como aprendizagem, proteção e relação | Cozolino (vergonha central); Long (complexos no Eu Básico) |
 | M4.5 — Partes internas | Shapiro (Personagem de Desenho Animado; adulto e criança); Robles (reconstrução da história); Long (Eu Básico criança) |
-| M4.6 — Do automatismo a uma resposta possível | Robles (reconstrução pela respiração); Hawkins (cancelar o programa); Shapiro (Espiral) |
+| M4.6 — Do automatismo a uma resposta possível | Tiers e Woods (metapadrão de mudança em quatro passos); Robles (reconstrução pela respiração); Hawkins (cancelar o programa); Shapiro (Espiral) |
 | M5.3 — Os Três Eus e a função EIXO | Long e King (as duas linguagens); Assagioli (mapa paralelo) |
 | M5.5 — Símbolos e imagens | Shapiro (Lugar Seguro); Robles (trabalho com símbolos) |
 | M5.7 — Self, Essência, Alma, Eu Superior e Fonte | Hawkins (a testemunha); Long (Aumakua); Assagioli |

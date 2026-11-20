@@ -68,7 +68,7 @@ A correspondência é **funcional**, não anatômica. Os Três Eus são um mapa 
 1. **Experiência primeiro.** Uma prática em que o corpo responde antes da explicação: o "poder do dedo" ou a prática do olhar.
 2. **A imagem.** Dez a cinquenta milissegundos contra quinhentos a seiscentos. Quando a explicação chega, o sistema rápido já respondeu e montou o presente com o passado.
 3. **A tradução nos Três Eus,** ainda sem nomes técnicos: uma parte de nós responde primeiro e guarda o que aprendeu; outra chega depois e explica.
-4. **A consequência.** Entender é necessário, mas não basta. A mudança pede experiência repetida, que é o que as práticas do curso treinam.
+4. **A consequência.** Entender é necessário, mas não basta. A mudança pede experiência repetida, que é o que as práticas do curso treinam. Imagem cotidiana: aprender a dirigir exige toda a atenção (Eu Médio); com a prática, o automatismo assume (Eu Básico) e a pessoa dirige conversando (Tiers e Woods, cap. 4; [[Tiers e Woods - Hipnose Integrativa para Crianças - Avaliação para o TSH]]).
 
 ## Cuidados de formulação
 

@@ -46,6 +46,8 @@ Cada encontro retoma rapidamente as etapas anteriores antes das novas, para que 
 
 Referenciais de cada etapa e de cada aula: [[07 - Referenciais por Autor - Índice por Aula e Etapa]].
 
+**Proposta para Fabiano decidir (19/11/2026):** no encontro de 09/01, acrescentar uma quarta resposta aos dedos e ao pêndulo, "não quero dizer", e explicar que "a mensagem vem de você" (Tiers e Woods, [[Tiers e Woods - Hipnose Integrativa para Crianças - Avaliação para o TSH]]).
+
 **Componentes, como Fabiano conduziu em 08/06/2024:**
 1. **Respiração:** no baixo ventre, como um fole, ativando o vago ventral.
 2. **Retorno:** de 1 a 3, com data e lugar.
