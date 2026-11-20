@@ -328,6 +328,8 @@ Procurar: Notas de partes e proteção, mente corporificada e interocepção; pr
 
 Leitura: Notas pessoais não são obras originais nem protocolos completos. A nota de auto-hipnose contém apenas cinco tópicos; não foi localizado nela um roteiro prático pronto.
 
+Atualização de 18/11/2026: o acervo de hipnose e auto-hipnose do computador de Fabiano foi inventariado e avaliado em [[00 - Hipnose e Auto-Hipnose no TSH - Decisão Avaliação e Destinos]], com inventário item a item e registro das transcrições dos quatro cursos. Os workshops de 2024 e 2025 contêm práticas e conduções; a nota do OneNote não é a única fonte.
+
 ### R23 — Biblioteca integral e filosófica
 
 [[11 - Leituras Recuperadas - Taoismo Shen e Transformação]] acrescenta as leituras de Cherng/Yin Fu Jing, Fischer, Niebauer, alquimia, Chia e os demais materiais recuperados, com páginas, correlações e destinos. Consultar as seções pertinentes antes de criar uma nova síntese apenas por nome de autor. O alcance de cada leitura permanece indicado; o índice dos sete livros de 09/11 é outro conjunto, com disponibilidade própria.
@@ -383,7 +385,7 @@ LACUNAS E ESTADOS QUE DEVEM CONTINUAR VISÍVEIS
 - Os confrontos históricos de setembro continuam sem recuperação integral. Foram recuperadas investigações novas de 03/10 sobre Tradução e EIXO em ramificação distinta. Elas são úteis, mas não são os documentos históricos perdidos nem testes empíricos de validade.
 - A proposta 23 contém cartografia histórica ampliada do livro, ainda fora da main. As fontes autorais originais já estão na main.
 - Originais de parte da bibliografia ficam fora do GitHub; fichas e identificadores fornecem rotas, não acesso garantido. Não foram todos relidos nesta auditoria.
-- A nota Curso Básico de auto hipnose on line é um programa de cinco tópicos. Ela não entrega uma prática pronta. A seleção dos procedimentos de Qi Gong, respiração e outras práticas deve ser especificada para a aula.
+- A nota Curso Básico de auto hipnose on line é um programa de cinco tópicos. Ela não entrega uma prática pronta. A seleção dos procedimentos de Qi Gong, respiração e outras práticas deve ser especificada para a aula. Para auto-hipnose, ver o acervo inventariado em 18/11/2026: [[00 - Hipnose e Auto-Hipnose no TSH - Decisão Avaliação e Destinos]].
 - Arquivos visuais e materiais editáveis precisam de inspeção no uso. A existência do título, de um PNG ou de uma ficha não comprova que o arquivo final do participante esteja pronto.
 - As 29 ramificações além de main foram comparadas por metadados. Isso não equivale a revisão substantiva de todas as suas versões; a leitura adicional concentrou-se nas investigações teóricas e na cartografia do livro pertinentes ao pedido.
 

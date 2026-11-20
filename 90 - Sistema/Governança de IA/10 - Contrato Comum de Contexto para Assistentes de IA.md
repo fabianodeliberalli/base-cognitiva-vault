@@ -2,8 +2,8 @@
 tipo: guia-comum-de-contexto
 status: referencia-de-trabalho-revisavel
 autoridade_final: Fabiano Deliberalli
-versao: "0.4"
-atualizado_em: 2026-09-07
+versao: "0.5"
+atualizado_em: 2026-11-18
 ---
 
 # Guia comum de contexto para assistentes de IA
@@ -62,6 +62,16 @@ Atualizar primeiro a ficha mínima ou o estado já existente da frente. Criar ou
 - Não criar novos protocolos, portões, matrizes, relatórios ou rituais quando uma nota curta ou a execução direta bastar.
 - Preservação de conteúdo não significa congelamento: materiais anteriores continuam disponíveis para novas correlações, fundamentos e caminhos criativos.
 
+## Conteúdos, pesquisas e práticas sem restrições herdadas — decisão de Fabiano em 18/11/2026
+
+Muitas restrições do acervo vêm de fases iniciais da construção e de decisões de assistentes de IA com menor capacidade de raciocínio e articulação. Fabiano decidiu que elas deixam de valer:
+
+- Restrições, exclusões, reservas, condicionamentos, critérios de exclusão, listas de "fora do curso", expressões vedadas e exigências de protocolo ou piloto registrados em fases anteriores não limitam a construção de módulos, aulas, pesquisas e materiais. Permanecem como histórico consultável.
+- O critério atual é o que um conteúdo ou prática acrescenta ao TSH, com respaldo na formação, prática clínica e docência de Fabiano. Avaliar um material é dizer o que ele acrescenta, onde pode entrar e o que o fundamenta.
+- Assistentes não criam novas restrições, exclusões ou condições de uso para conteúdos. Observações sobre fonte, estatuto ou coerência entram como sugestão de fundamentação, nunca como bloqueio.
+- Continuam valendo, por escolha de Fabiano: os cuidados de condução das práticas (não praticar dirigindo; omitir ou adaptar diante de psicose ou mania aguda, dissociação grave ou trauma desestabilizado); a anonimização de pacientes; e as regras de trabalho do repositório desta nota (ramificação, homologação antes da `main`, preservação do histórico), que protegem o material sem limitar conteúdo.
+- Protocolos de seleção de práticas, taxonomias de linguagem, matrizes de reaproveitamento e matrizes curriculares das fases iniciais devem ser lidos como histórico das primeiras construções, e não como regras.
+
 ## Aprendizado com o uso
 
 Quando Fabiano pedir melhoria do fluxo ou o mesmo atrito reaparecer, consultar [[12 - Aprendizado Operacional e Melhoria Contínua]].
@@ -112,7 +122,7 @@ Esses limites protegem autoria, conteúdo e recuperação. Eles não congelam id
 - Declarar incerteza relevante sem transferir ao usuário checagens técnicas desnecessárias.
 - Separar claramente proposta da IA e escolha de Fabiano.
 - Evitar repetir a mesma orientação em vários arquivos.
-- **Clareza das referências.** Ao apresentar documentos, fontes ou materiais, informe o título ou uma descrição reconhecível. Explique códigos e números na primeira menção de cada entrega e ofereça links ou caminhos quando disponíveis. A síntese deve preservar as informações necessárias para Fabiano compreender e decidir.
+- **Clareza das referências.** Ao apresentar documentos, fontes ou materiais, informe o título ou uma descrição reconhecível. Não use com Fabiano siglas e códigos internos do acervo (nomes de protocolos, códigos de aula, letras de matriz) como se ele os conhecesse: nomeie pelo conteúdo, em linguagem comum, e ofereça links ou caminhos quando disponíveis. A síntese deve preservar as informações necessárias para Fabiano compreender e decidir.
 - **Evidências e recomendações.** Distinga o que foi conferido diretamente, o que foi herdado de registros anteriores, o que é interpretação do assistente e o que é recomendação. Uma observação não verificada deve permanecer identificada como tal, sem se transformar automaticamente em regra para utilização do material.
 - **Decisões sobre os materiais.** Registre de forma explícita as orientações de Fabiano sobre uso, adaptação, preservação e destino dos materiais, indicando seu alcance. Apresente recomendações dos assistentes como propostas. Qualquer proposta de restringir, excluir, substituir, arquivar ou alterar o destino de um material deve identificar o material, explicar o motivo e tornar visíveis suas consequências e as decisões ainda necessárias. Respeite as decisões já expressas por Fabiano e não as reabra sem informação nova relevante.
 

@@ -86,6 +86,8 @@ Blocos propostos:
 
 Não transformar o Workshop em resumo do curso e não aprofundar Hawkins, Wilber, Laszlo, karma, arquétipos, BSP, hipnose, Tonglen, Três Tesouros ou redes neurais.
 
+> **Nota de leitura — 18/11/2026.** Limite histórico do Workshop. Por decisão de Fabiano, hipnose e auto-hipnose não carregam mais restrição no TSH; sua presença em cada produto é escolha de desenho. Ver [[00 - Hipnose e Auto-Hipnose no TSH - Decisão Avaliação e Destinos]].
+
 ### Autoridade
 
 **Proposta histórica de Camada 2**, relevante para o ecossistema, mas não determina o formato do novo curso principal.

@@ -21,6 +21,9 @@ tags:
 
 # Protocolo da Primeira Oferta Integral
 
+> **Nota de leitura — 18/11/2026, decisão de Fabiano.** Este protocolo registra uma fase anterior; suas condições e limites não restringem a construção atual das aulas. Ver [[10 - Contrato Comum de Contexto para Assistentes de IA]], seção "Conteúdos, pesquisas e práticas sem restrições herdadas".
+
+
 ## Decisão aprovada
 
 > **A primeira oferta será um curso-piloto formativo integral, percorrendo as seis fases e toda a arquitetura global em profundidade fundamental, com seleção rigorosa de conteúdos e práticas. Sua finalidade será simultaneamente formativa e de validação pedagógica, produzindo aprendizagem para os participantes e informações responsáveis para revisão do Método.**

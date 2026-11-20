@@ -4,6 +4,40 @@ status: em-criacao-e-expansao
 incorporado_em: 2026-10-31
 ---
 
+> **Nota de leitura — 18/11/2026, decisão de Fabiano.** Reservas, exclusões, "opcional condicionado" e limites de uso registrados neste documento pertencem às fases iniciais e não limitam mais a escolha de práticas. Todas as práticas listadas estão disponíveis, avaliadas pelo que acrescentam ao TSH. Ver [[10 - Contrato Comum de Contexto para Assistentes de IA]], seção "Conteúdos, pesquisas e práticas sem restrições herdadas".
+
+
+## Hipnose e auto-hipnose — decisão de Fabiano em 18/11/2026
+
+Fabiano retirou as restrições que este documento aplicava à hipnose e à auto-hipnose: o lugar único em M8, o "opcional condicionado", a dependência de protocolo próprio, P6 e piloto e a exclusão de regressão, amnésia, analgesia e recuperação de lembranças. Esses limites vinham de estruturações anteriores. Hipnose e auto-hipnose ficam disponíveis para qualquer módulo e camada, avaliadas pelo valor que acrescentam ao TSH e respaldadas pela formação e pela docência de Fabiano. Permanecem como cuidados de condução, e não como restrição curricular: não praticar dirigindo; omitir ou adaptar diante de psicose ou mania aguda, dissociação grave ou trauma desestabilizado. Os trechos abaixo foram ajustados e marcados com a data. Avaliação, inventário e destinos: [[00 - Hipnose e Auto-Hipnose no TSH - Decisão Avaliação e Destinos]].
+
+
+## Práticas vindas dos referenciais por autor — 19/11/2026
+
+Disponíveis para as aulas, com crédito de origem e correlação com o material de Fabiano; ver [[07 - Referenciais por Autor - Índice por Aula e Etapa]]:
+- **Shapiro:**
+  - Terra, Ar, Água e Fogo (M0, M3.6);
+  - Mudança de Respiração (encontro de 28/11);
+  - Lugar Seguro (M5.5);
+  - Abraço da Borboleta e toques nas coxas (prática do olhar);
+  - Caixa, Espiral e Lata de Tinta (M3.7);
+  - Personagem de Desenho Animado (M4.5);
+  - Feixe de Luz (M3.2).
+- **Teresa Robles:**
+  - sinais próprios de transe (M1.3, M3.2, encontro de 30/01);
+  - reconstrução pela respiração (M4.6);
+  - fechamento com integração (encontros de 09/01 e 16/01).
+- **Melissa Tiers:**
+  - foco que se abre, ou visão periférica (prática do olhar, M3.7);
+  - gatilho de uma respiração (versão de três minutos);
+  - auto-hipnose de dois minutos com o filme de si já mudado (presente hipnótico).
+- **Hawkins:** entrar na sensação sem rótulo (M3.2, M4.3).
+- **Das anotações de cursos de Fabiano** (ver [[08 - Anotações de Cursos no OneNote - Auditoria para o TSH]]):
+  - Mirroring Hands: o problema numa mão, a pergunta sobre o que há na outra (M4.6, M5.4);
+  - o "não" imperativo e o "sim" suave de Siegel (M3.4);
+  - perguntas de linguagem limpa de David Grove (M4.3);
+  - visão periférica com os olhos para cima, do curso de Alberto Dell'Isola (prática do olhar).
+- **Leinani Melville:** respiração com intenção dirigida ao plexo solar, como variação tradicional Huna (práticas de respiração); ver [[Huna - Leinani Melville Children of Paradise - Avaliação para o TSH]].
 
 ## Rohden e imagens para produção - conferência de 13/11/2026
 
@@ -78,7 +112,7 @@ Linguagens científica, psicológica, tradicional e espiritual mantidas em seus 
 
 ## Conclusão de pesquisa
 
-Respiração confortável, orientação sensorial e planos de ação têm boa adequação a micropráticas educacionais. Estudos de Qi Gong e de respiração sustentam uso prudente, mas seus protocolos costumam ser mais longos e heterogêneos do que as versões aqui propostas. A diferenciação emocional possui base promissora, sem autorizar que a Regra dos Três Rótulos seja tratada como número mágico ou mecanismo neural garantido. A auto hipnose contribui melhor como ensaio mental opcional de uma resposta futura, não como indução clínica ou acesso privilegiado à verdade interna.
+Respiração confortável, orientação sensorial e planos de ação têm boa adequação a micropráticas educacionais. Estudos de Qi Gong e de respiração sustentam uso prudente, mas seus protocolos costumam ser mais longos e heterogêneos do que as versões aqui propostas. A diferenciação emocional possui base promissora, sem autorizar que a Regra dos Três Rótulos seja tratada como número mágico ou mecanismo neural garantido. A auto hipnose contribui como prática e como fundamento: habilidade aprendida de atenção, expectativa e sugestão, com usos que vão do ensaio mental de uma resposta futura à indução formal conduzida por Fabiano. Não se apresenta como acesso privilegiado à verdade interna, coerente com M2.5. *(Ajustado em 18/11/2026 por decisão de Fabiano; ver [[00 - Hipnose e Auto-Hipnose no TSH - Decisão Avaliação e Destinos]].)*
 
 ## Arquitetura do percurso prático
 
@@ -664,15 +698,15 @@ Define quando reduzir, interromper, revisar ou buscar apoio.
 
 ## Limites de uso
 
-O ensaio mental é uma contribuição opcional de atenção focal e ponte ao futuro inspirada na auto hipnose; não é indução clínica. Não realizar dirigindo, nem usar cenas traumáticas, fóbicas ou memórias incertas. Excluir regressão, amnésia, analgesia e recuperação de lembranças. Em psicose ou mania aguda, dissociação grave ou trauma desestabilizado, omitir.
+O ensaio mental usa atenção focal e ponte ao futuro, e pode ser feito como auto-hipnose formal. Cuidados de condução: não realizar dirigindo; em psicose ou mania aguda, dissociação grave ou trauma desestabilizado, omitir ou adaptar. *(Ajustado em 18/11/2026: a exclusão de regressão, amnésia, analgesia e recuperação de lembranças foi retirada por decisão de Fabiano; ver [[00 - Hipnose e Auto-Hipnose no TSH - Decisão Avaliação e Destinos]].)*
 
 ## Fundamentação
 
-Recupera o mapa maduro de Desenvolvimento do Retorno e o amplia com intenções de implementação, cuja estrutura se então possui boa base de pesquisa. A auto hipnose formal permanece condicionada a protocolo próprio, P6 e piloto.
+Recupera o mapa maduro de Desenvolvimento do Retorno e o amplia com intenções de implementação, cuja estrutura se então possui boa base de pesquisa. A auto hipnose formal está disponível ao curso, conduzida por Fabiano, sem condicionamento a protocolo próprio, P6 ou piloto. *(Ajustado em 18/11/2026.)*
 
 ## Distribuição das modalidades
 
-O quadro abaixo define o lugar das técnicas na primeira oferta. "Núcleo" significa que a prática integra o percurso principal. "Opcional" significa que pode ser oferecida como variação com alternativa funcional. "Reservado" exige protocolo próprio, piloto ou camada posterior.
+O quadro abaixo define o lugar das técnicas na primeira oferta; as linhas de hipnose foram atualizadas em 18/11/2026. "Núcleo" significa que a prática integra o percurso principal. "Opcional" significa que pode ser oferecida como variação com alternativa funcional. "Reservado" exige protocolo próprio, piloto ou camada posterior.
 
 | Modalidade | Decisão | Lugar | Razão |
 
@@ -704,15 +738,19 @@ O quadro abaixo define o lugar das técnicas na primeira oferta. "Núcleo" signi
 
 | Movimento de dar receber e delimitar | Opcional | M7 | Pode preparar a fala; não substitui o ensaio verbal. |
 
-| Ensaio mental inspirado em auto hipnose | Opcional condicionado | M8 | Atenção permissiva e ponte ao futuro, sem clínica. |
+| Auto hipnose e ensaio mental | Núcleo disponível (18/11/2026) | M1 a M8, Laboratório e Imersão | Habilidade de atenção, expectativa e sugestão; destinos na nota de hipnose. |
 
-| Sorriso Interior | Reservado | Aprofundamento | Patrimônio legítimo, mas sem roteiro TSH final. |
+| Onde o olhar encontra o eixo (olhar, auto-hipnose e conceitos do Brainspotting) | Disponível (18/11/2026) | Do primeiro módulo ao retorno; variação de ativação ao vivo, no Laboratório ou na Imersão | Ver [[Onde o Olhar Encontra o Eixo - Olhar Auto-Hipnose e Brainspotting]]. |
 
-| Tonglen | Reservado | Aprofundamento | Requer fonte, contexto tradicional, protocolo e dose. |
+| Indução de auto-hipnose de Fabiano (2024), desmembrada | Disponível (18/11/2026) | Componentes distribuídos ao longo do curso | Ver [[04 - Cursos de Auto-Hipnose Transcritos - Conteúdos e Incorporações ao TSH]]. |
 
-| Retorno da Luz Respiração da Coluna Três Tesouros | Reservado | Laboratório ou Imersão | Maior complexidade corporal e imaginal. |
+| Sorriso Interior | Disponível (18/11/2026) | Já presente nas aulas abertas do M0; demais módulos conforme valor | Roteiro de Fabiano. |
 
-| Regressão recuperação de memória amnésia | Excluído | Nenhum | Incompatível com o escopo educacional inicial. |
+| Tonglen | Disponível (18/11/2026) | Conforme valor; ver notas de compaixão | Fonte e contexto tradicional como fundamentação. |
+
+| Retorno da Luz Respiração da Coluna Três Tesouros | Disponível (18/11/2026) | Aula, Laboratório ou Imersão, por escolha de Fabiano | Condução de Fabiano. |
+
+| Regressão recuperação de memória amnésia | Disponível para avaliação (18/11/2026) | Conforme valor agregado; ver nota de hipnose | Ensinada como experiência construída no presente, coerente com M2.5. |
 
 ## Segurança e condução
 
@@ -780,7 +818,7 @@ A pesquisa externa apoia componentes do desenho, não valida automaticamente as 
 
 | Planos se então | Meta análises sustentam intenções de implementação para transformar oportunidades reconhecíveis em respostas específicas. | O plano não cria motivação, remove barreiras estruturais nem substitui apoio. |
 
-| Auto hipnose e imagética | A evidência varia por indicação e protocolo; estudos de auto hipnose são específicos e nem sempre grandes. | Usar apenas atenção permissiva e ensaio futuro opcional; excluir memória, regressão e promessas clínicas. |
+| Auto hipnose e imagética | A evidência varia por indicação e protocolo; a meta-análise de Eason & Parris (2019) indica efeito maior quando a auto hipnose é ensinada como habilidade autodirigida e praticada. | Ensinar como habilidade; incluir as técnicas que Fabiano selecionar; não prometer cura; memória evocada tratada como experiência, não como prova (18/11/2026). |
 
 ## Portão de validação antes do congelamento
 

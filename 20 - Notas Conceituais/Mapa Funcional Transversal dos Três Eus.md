@@ -6,7 +6,7 @@ status: aprovado-no-projeto-nao-canonico-no-metodo
 natureza: mapa-funcional-transversal-autoral
 autor: Fabiano Deliberalli
 criado_em: 2026-07-18
-atualizado_em: 2026-10-30
+atualizado_em: 2026-11-19
 fontes:
   - "[[Arquitetura Invisível]]"
   - "[[Três Eus, Jung e Rede Tripartite]]"
@@ -43,6 +43,12 @@ Este documento não transforma os Três Eus em núcleo canônico do Método EIXO
 ## 2. Proveniência e autoria
 
 A nomenclatura deriva conscientemente de Max Freedom Long/Huna moderna e de Serge Kahili King. Fabiano Deliberalli reelaborou esses termos por meio de síntese com psicanálise, hipnose, constituição energética do ser, Psicologia Transpessoal, experiência clínica, experiência pessoal e reflexão espiritual não dogmática.
+
+Evidência documental do percurso (registrada em 18/11/2026): os Três Eus aparecem como "Os 3 Eu's dos Kahunas" no folder do workshop *Desprogramação Mental e Autocura* (2017, com Gilda Moura), ao lado de auto-hipnose, Qi Gong, Wilber e Jung, e como linguagem do inconsciente nos workshops de auto-hipnose de Fabiano de 2024 e 2025. Ver [[00 - Hipnose e Auto-Hipnose no TSH - Decisão Avaliação e Destinos]].
+
+Linguagens de origem, registradas por Fabiano em 19/11/2026: o texto de Serge King é uma fonte, mas não a principal nem a única. A linguagem que Fabiano usa e com a qual está mais familiarizado é a de Max Freedom Long (*O Milagre da Ciência Secreta*): Eu Básico (*Unihipili*), Eu Médio (*Uhane*), Eu Superior (*Aumakua*), com aka e as três voltagens de mana. Em King, os nomes mudam: *Ku*, *Lono*, *Kane*, e *Kanaloa* para os três funcionando como um. Tabela comparada e destinos em [[Huna - Max Freedom Long e Serge King nos Três Eus]]. Uma terceira linguagem, Leinani Melville (*Children of Paradise*), inverte os nomes: *Uhane* como eu inferior e *Unihipiri* como eu do meio. Os três níveis da mente aparecem como *mana'o*, *mana'o-i'o* e *mana'o-i'o-a'o*. Isso confirma que a correspondência se faz pela função; ver [[Huna - Leinani Melville Children of Paradise - Avaliação para o TSH]]. Correspondência funcional com os dois sistemas de processamento (Cozolino): o rápido e implícito é o Eu Básico; o lento e consciente é o Eu Médio. Ver [[Meio Segundo Vital - Transe que Não se Escolhe e os Três Eus]].
+
+Percurso registrado por Fabiano em 18/11/2026: introdução em espiral no TSH. O par Eu Básico e Eu Médio entra no Módulo 2, pela experiência da auto-hipnose, e é aprofundado nos Módulos 3 e 4. O mapa completo, com o Eu Superior e a função EIXO, fica no Módulo 5. Ver [[05 - Hipnose e Auto-Hipnose nos Módulos e Aulas do TSH - Plano de Incorporação]], seção 2a.
 
 O modelo não deverá ser apresentado como reprodução pura de uma tradição, como sabedoria havaiana ancestral comprovada ou como equivalência entre escolas. Seu estatuto é:
 

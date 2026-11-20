@@ -27,6 +27,23 @@ Na produção, identificar o fundamento retomado, a capacidade acrescentada e a 
 Para cada exercício selecionado, recuperar nome/versão, fundamento tradicional, pergunta da aula, demonstração, atenção/intenção, respiração inicial, adaptações e encerramento. Atualizar roteiro, slides, notas e entregável juntos quando a aula for produzida. Evitar apresentar a transcrição antiga de micropráticas como se já realizasse toda essa trajetória. Este registro não afirma que os arquivos de produção existentes tenham recebido essas alterações.
 
 
+## Hipnose e auto-hipnose nos roteiros — 18/11/2026
+
+Ao preparar os roteiros a partir do Módulo 2 e as práticas dos encontros ao vivo, consultar [[05 - Hipnose e Auto-Hipnose nos Módulos e Aulas do TSH - Plano de Incorporação]]. Ele traz:
+- a indução de Fabiano em duas etapas por encontro, reunida no encontro de 19/12 e repetida depois;
+- o lugar do "poder do dedo", da contagem para sair do transe, dos dedos e do pêndulo com o Eu Básico e da escrita automática;
+- o conteúdo teórico de hipnose aula por aula.
+
+Para os Módulos 0 e 1, já liberados, a incorporação entra no encontro de 28/11 e em material complementar.
+
+**Três Eus em espiral** (percurso registrado por Fabiano em 18/11/2026; seção 2a do plano):
+- **28/11:** o "poder do dedo" como primeira imagem de uma parte que responde antes da explicação, sem nome técnico.
+- **Módulo 2:** o par Eu Básico (guarda, sente, responde) e Eu Médio (avalia, decide, às vezes proíbe), pela experiência das pálpebras desligadas; em *Quando o mapa parece ser a própria realidade*, a identificação do Eu Médio com o que o Eu Básico traz.
+- **Módulo 3:** o Eu Básico ligado ao corpo e à fisiologia.
+- **Módulo 4:** o Eu Básico como guardião de aprendizagens e proteções, ser gentil com ele, lei do esforço invertido, presente hipnótico como permissão.
+- **Módulo 5 (aula *Os Três Eus e a função EIXO*):** o mapa completo, com o Eu Superior, a função EIXO e os dedos e o pêndulo como diálogo com o Eu Básico. A aula retoma e completa o que o aluno já viveu.
+- **Nos roteiros:** o nome "Eu Básico" vem sempre com a função ("a parte que sustenta, sente e responde"); a genealogia Huna é declarada quando o mapa completo aparece.
+
 # TSH — Preparação dos roteiros e calendário
 
 Referência de trabalho • 31 de outubro de 2026
