@@ -12,6 +12,27 @@ incorporado_em: 2026-10-31
 Fabiano retirou as restrições que este documento aplicava à hipnose e à auto-hipnose: o lugar único em M8, o "opcional condicionado", a dependência de protocolo próprio, P6 e piloto e a exclusão de regressão, amnésia, analgesia e recuperação de lembranças. Esses limites vinham de estruturações anteriores. Hipnose e auto-hipnose ficam disponíveis para qualquer módulo e camada, avaliadas pelo valor que acrescentam ao TSH e respaldadas pela formação e pela docência de Fabiano. Permanecem como cuidados de condução, e não como restrição curricular: não praticar dirigindo; omitir ou adaptar diante de psicose ou mania aguda, dissociação grave ou trauma desestabilizado. Os trechos abaixo foram ajustados e marcados com a data. Avaliação, inventário e destinos: [[00 - Hipnose e Auto-Hipnose no TSH - Decisão Avaliação e Destinos]].
 
 
+## Práticas vindas dos referenciais por autor — 19/11/2026
+
+Disponíveis para as aulas, com crédito de origem e correlação com o material de Fabiano; ver [[07 - Referenciais por Autor - Índice por Aula e Etapa]]:
+- **Shapiro:**
+  - Terra, Ar, Água e Fogo (M0, M3.6);
+  - Mudança de Respiração (encontro de 28/11);
+  - Lugar Seguro (M5.5);
+  - Abraço da Borboleta e toques nas coxas (prática do olhar);
+  - Caixa, Espiral e Lata de Tinta (M3.7);
+  - Personagem de Desenho Animado (M4.5);
+  - Feixe de Luz (M3.2).
+- **Teresa Robles:**
+  - sinais próprios de transe (M1.3, M3.2, encontro de 30/01);
+  - reconstrução pela respiração (M4.6);
+  - fechamento com integração (encontros de 09/01 e 16/01).
+- **Melissa Tiers:**
+  - foco que se abre, ou visão periférica (prática do olhar, M3.7);
+  - gatilho de uma respiração (versão de três minutos);
+  - auto-hipnose de dois minutos com o filme de si já mudado (presente hipnótico).
+- **Hawkins:** entrar na sensação sem rótulo (M3.2, M4.3).
+
 ## Rohden e imagens para produção - conferência de 13/11/2026
 
 [[07 - Rohden - Assimilação Centro e Vida Cotidiana]] documenta o exemplar integral identificado de Rohden, os trechos escolhidos e o papel de cada um no curso. [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos|00 - Catálogo de Imagens e Destinos]] disponibiliza 39 lâminas, 48 figuras distintas da apresentação e os diagramas de Rohden das páginas 19/39. Recuperação por módulo: [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M0 - Orientação e condições de participação|M0]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M1 - Experiência, assimilação e referência|M1]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M2 - Percepção e tradução|M2]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M3 - Corpo, vitalidade e cultivo|M3]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M4 - Emoções, padrões e participação|M4]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M5 - Valores, interiorização e espiritualidade|M5]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M6 - Integração e coerência possível|M6]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M7 - Expressão, relação e limites|M7]]; [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos#M8 - Continuidade e revisão|M8]].

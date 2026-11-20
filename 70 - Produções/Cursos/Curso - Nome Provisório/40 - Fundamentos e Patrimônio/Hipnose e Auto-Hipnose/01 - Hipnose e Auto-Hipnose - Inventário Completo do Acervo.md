@@ -3,7 +3,7 @@ tipo: inventario-de-acervo
 projeto: Traduzindo o Ser Humano
 status: inventario-verificado-em-2026-11-18
 criado_em: 2026-11-18
-atualizado_em: 2026-11-18
+atualizado_em: 2026-11-19
 ---
 
 # Hipnose e auto-hipnose — inventário completo do acervo
@@ -91,3 +91,10 @@ Caminhos a partir de `C:\Users\fabia\`. Os níveis seguem a nota [[00 - Hipnose 
 | 75 | 3 Eus.pdf; 3 Eus psicossintese.pdf; Eus psicossintese-1.pdf | OneDrive\Livros | 1 p. cada (digitalizações) | figura de livro não identificado; diagramas de Assagioli | 2 | visto | M5.3 e M5.7; identificar a fonte da figura de 3 Eus.pdf antes de usar |
 | 76 | Psicologia-Das-Massas.pdf | Downloads | PDF de imagem | Gustave Le Bon | 3 | identificado | Sugestão e contágio coletivos com leitura crítica; M2.2, M7.5; ver [[06 - Livros de Hipnose Grupo Terapia e Trauma - Avaliação para o TSH]] |
 | 77 | Manual de Auto Hipnose.pdf | celular (mídia do WhatsApp), visto em Recentes | — | — | — | não alcançado | Não acessível pela ligação com o computador |
+| 78 | Cura-e-Recuperacao.pdf; O-Mapa-da-Conscie-ncia-Explicado-David-R-Hawkins.pdf; The-Eye-of-the-I-Traduzido-David-R-Hawkins.pdf | Downloads (cópias em Downloads\Documents) | 268 + 227 + 305 p. | David R. Hawkins | 2 | lido (trechos-chave) | Baixados em 19/11/2026; ver [[David Hawkins - Avaliação para o TSH]] |
+| 79 | Poder vs Força.docx | OneDrive\Documentos | ~65.700 palavras | transcrição de audiolivro de Hawkins | 3 | identificado | Interesse anterior de Fabiano por Hawkins (2025) |
+| 80 | Fronteiras on line - Kahunas.pptx ("Kahunas e a Linguagem do Inconsciente") | OneDrive\Cursos\cursos fronteiras online e presencial | 72 slides | curso Além das Fronteiras do Saber | 1 | lido | Linguagem de Max Freedom Long nos Três Eus; ver [[Huna - Max Freedom Long e Serge King nos Três Eus]] |
+| 81 | Xamanismo Kahuna e mitologia Havaiana.pptx; EUS INTEGRAÇÃO E A LINGUAGEM DO INCONSCIENTE.pptx | OneDrive\Cursos\cursos fronteiras online e presencial | 21 + 37 slides | curso Além das Fronteiras do Saber | 2 | amostra | Genealogia Huna (Long, King, Melville) e integração dos Eus |
+| 82 | Portuguesefreebook1.pdf | OneDrive\Livros | 91 p. | Ernest e Kathryn Rossi | 2 | identificado | *A nova neurociência da psicoterapia, hipnose terapêutica & reabilitação*; ritmos ultradianos para a nota de estados |
+| 83 | Deixando O Seu Passado no Passa - Francine Shapiro.pdf; Por que a terapia funciona - Louis Cozolino.pdf | OneDrive\Documentos\Livros | — | Shapiro; Cozolino | — | localizado | Cópias no computador dos itens 72 e 73 |
+| 84 | *Milagres da Ciência Secreta* (Max Freedom Long) | não localizado | — | Max Freedom Long | — | não alcançado | Buscado em 19/11/2026 nas pastas listadas em [[Huna - Max Freedom Long e Serge King nos Três Eus]]; pedir a Fabiano a localização |

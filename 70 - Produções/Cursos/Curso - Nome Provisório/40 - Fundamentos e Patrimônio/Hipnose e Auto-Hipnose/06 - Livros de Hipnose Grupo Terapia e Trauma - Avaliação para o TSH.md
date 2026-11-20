@@ -3,7 +3,7 @@ tipo: avaliacao-de-fontes
 projeto: Traduzindo o Ser Humano
 status: avaliacao-registrada
 criado_em: 2026-11-18
-atualizado_em: 2026-11-18
+atualizado_em: 2026-11-19
 autor: Fabiano Deliberalli
 aliases:
   - Livros de hipnose avaliados
@@ -17,7 +17,7 @@ Pedido de Fabiano em 18/11/2026: avaliar como quatro livros enviados na conversa
 
 Critério: a experiência e o ensino de Fabiano vêm primeiro; os livros entram como fundamentação, repertório ou contraste. Para cada obra, primeiro o que falta ou é frágil, depois o acréscimo real e onde ele entra.
 
-Relacionadas: [[05 - Hipnose e Auto-Hipnose nos Módulos e Aulas do TSH - Plano de Incorporação]] · [[03 - Estados de Transe Sugestão e Reprogramação - Perspectiva de Fabiano]] · [[Estados de Transe e Ondas Cerebrais - Pesquisas e Perspectiva de Fabiano]] · [[Onde o Olhar Encontra o Eixo - Olhar Auto-Hipnose e Brainspotting]] · [[Mapa Funcional dos Três Eus]].
+Relacionadas: [[05 - Hipnose e Auto-Hipnose nos Módulos e Aulas do TSH - Plano de Incorporação]] · [[03 - Estados de Transe Sugestão e Reprogramação - Perspectiva de Fabiano]] · [[Estados de Transe e Ondas Cerebrais - Pesquisas e Perspectiva de Fabiano]] · [[Onde o Olhar Encontra o Eixo - Olhar Auto-Hipnose e Brainspotting]] · [[Mapa Funcional Transversal dos Três Eus]]. · Extração por autor, aula e etapa (19/11/2026): [[07 - Referenciais por Autor - Índice por Aula e Etapa]].
 
 ## 1. Síntese
 
@@ -30,13 +30,14 @@ Relacionadas: [[05 - Hipnose e Auto-Hipnose nos Módulos e Aulas do TSH - Plano 
 | Marlus Ferreira, *Hipnose na prática clínica* | Melhor referência clínica brasileira do acervo: término com alerta, efeitos adversos, auto-hipnose, gravação de áudios | M3.7; produção dos áudios de prática |
 | Sofia Bauer, *Manual de Hipnoterapia Ericksoniana* | Semeadura, indução naturalista, técnicas curtas, auto-hipnose | Desenho das aulas gravadas antes de cada encontro; práticas curtas |
 | Teresa Robles, *Concerto para Quatro Cérebros em Psicoterapia* | Induções por cena, sensação, sentimento, metáfora e dissociação; indução para treinar auto-hipnose; reconstrução de cenas | M3.2; M4.6; M5.5; encontro de 30/01 |
-| Texto Huna de Serge King (`KahunasText.docx`) | Fonte provável dos Três Eus dos Kahunas que Fabiano ensina | M5.3; M6.1; genealogia declarada |
+| Texto Huna de Serge King (`KahunasText.docx`) | Uma das fontes dos Três Eus dos Kahunas; a linguagem principal de Fabiano é a de Max Freedom Long | M5.3; M6.1; genealogia declarada |
 | Psicossíntese (`3 Eus psicossintese.pdf`, `Eus psicossintese-1.pdf`) | Diagrama do ovo de Assagioli e relação eu pessoal / Eu superior | M5.3; M5.7 |
 | Bandler e Grinder, *Padrões das técnicas hipnóticas de Milton H. Erickson* (vol. I e II) | Linguagem para escrever as práticas guiadas | Roteiros de todas as práticas; M2.2 |
 | Melissa Tiers, *Integrative Hypnosis* | Capítulo que desmonta a indução de Elman; visão periférica para sair de pânico | Indução em etapas; prática do olhar |
 | Ernest Rossi (textos na apostila "Conceitos de Milton Erickson…") | Ritmos ultradianos e quatro estágios do processo criativo | M3.3; nota de estados |
 | Gustave Le Bon, *Psicologia das Massas* | Sugestão e contágio coletivos como transe social, com leitura crítica | M2.2; M7.5; nota de estados |
 | Adler; Lucas Naves; Cocco e Palermo; e-book *A Hipnose Ericksoniana*; Adoum | Repertório ou comparação de formato | Bastidor |
+| David Hawkins, *Cura e Recuperação*, *O Mapa da Consciência Explicado*, *O Olho do Eu* (baixados em 19/11/2026) | "Hipnotizados durante metade de nossas vidas"; sensação sem rótulo; Mapa como cartografia sem números; a testemunha | Ver [[David Hawkins - Avaliação para o TSH]] |
 
 ## 2. Os quatro livros enviados
 
@@ -70,7 +71,7 @@ Relacionadas: [[05 - Hipnose e Auto-Hipnose nos Módulos e Aulas do TSH - Plano 
 - Técnica de Centramento; Linha do Tempo; Meditação.
 - Técnica de Flutuar ao Passado, a mesma ponte de afeto que Fabiano usa na regressão.
 
-Também traz enquadres úteis: "É o clima ou o tempo?" (cap. 3), para distinguir estado passageiro de padrão; "O que está comandando o seu espetáculo?" (cap. 4), memória implícita no comando; partes adulta e criança (cap. 9).
+Também traz enquadres úteis: "É o clima ou o tempo?" (cap. 3), para distinguir estado passageiro de padrão; "O que está comandando o seu espetáculo?" (cap. 4), memória implícita no comando; a pergunta sobre a parte adulta ou criança que reage (cap. 8; corrigido em 19/11/2026).
 
 **Destinos.**
 
@@ -90,7 +91,7 @@ Também traz enquadres úteis: "É o clima ou o tempo?" (cap. 3), para distingui
 **O que acrescenta.** A tese central: a terapia funciona porque reabre a neuroplasticidade dentro de uma relação segura e integra redes que funcionavam separadas (pensar e sentir, narrativa e corpo, passado e presente). Capítulos com destino direto:
 
 - Cap. 5, "Aquelas coisas que não lembramos, mas que nunca esquecemos" (memória implícita): M1.1 — *Por que entender um padrão não impede que ele se repita* e M2.4 — *Por que respostas familiares voltam?*
-- Cap. 3, linguagem e narrativas: M2.6 — *Como construir e revisar uma Tradução provisória*.
+- Cap. 14, "O poder das narrativas coerentes": M2.6 — *Como construir e revisar uma Tradução provisória*. (Corrigido em 19/11/2026: o cap. 3 é "O problema não apresentado".)
 - Cap. 8, vergonha central: M4.4 e M4.5; também o Eu Básico que guarda a proteção.
 - Cap. 7, apego: M7.3 e M7.5.
 - Parte III, dissociação e integração; ansiedade, trauma e trauma complexo: M3.4 — *Mapas do sistema nervoso autônomo*, M3.7 e M6.1 — *Integrar não é tornar tudo igual*.
@@ -149,7 +150,7 @@ O e-book *Hipnose — Sofia Bauer* (106 p.) traz a anamnese e o "esqueleto bási
 
 ### 3.4 Huna e psicossíntese — as fontes dos Três Eus
 
-- **`KahunasText.docx` (`OneDrive\Download`; Serge King, *Saúde holística e práticas de cura da Polinésia*, ~9.900 palavras).** Ku é a consciência do corpo, que organiza e recebe informação (Eu Básico); Lono é o intelecto que percebe, interpreta e dirige (Eu Médio); Kane, ou *aumakua*, é a essência espiritual (Eu Superior). Kanaloa é o estado em que os três funcionam como um. Este texto parece ser a fonte do "Os 3 Eu's dos Kahunas" do folder de 2017 e da live de 2024. **Frágil:** a Huna de Serge King, como a de Max Freedom Long antes dele, é uma sistematização do século XX; estudiosos havaianos contestam que represente a religião tradicional do Havaí. Por isso a genealogia é declarada como tradição moderna inspirada no Havaí. **Acréscimo:** Kanaloa dá imagem para M6.1 — *Integrar não é tornar tudo igual*. A "oração de morte" (sugestão negativa) ilustra a sugestão nociva em M2.2.
+- **`KahunasText.docx` (`OneDrive\Download`; Serge King, *Saúde holística e práticas de cura da Polinésia*, ~9.900 palavras).** Ku é a consciência do corpo, que organiza e recebe informação (Eu Básico); Lono é o intelecto que percebe, interpreta e dirige (Eu Médio); Kane, ou *aumakua*, é a essência espiritual (Eu Superior). Kanaloa é o estado em que os três funcionam como um. Fabiano registrou em 19/11/2026 que King é uma das fontes, mas não a principal: a linguagem que ele usa é a de Max Freedom Long (Eu Básico/*Unihipili*, Eu Médio/*Uhane*, Eu Superior/*Aumakua*). Ver [[Huna - Max Freedom Long e Serge King nos Três Eus]]. **Frágil:** a Huna de Serge King, como a de Max Freedom Long antes dele, é uma sistematização do século XX; estudiosos havaianos contestam que represente a religião tradicional do Havaí. Por isso a genealogia é declarada como tradição moderna inspirada no Havaí. **Acréscimo:** Kanaloa dá imagem para M6.1 — *Integrar não é tornar tudo igual*. A "oração de morte" (sugestão negativa) ilustra a sugestão nociva em M2.2.
 - **`3 Eus psicossintese.pdf` e `Eus psicossintese-1.pdf` (`OneDrive\Livros`).** Digitalizações de uma página: o diagrama do ovo de Assagioli (inconsciente inferior, médio e superior; campo da consciência; eu consciente; Eu superior; inconsciente coletivo) e um esquema de três pontos que liga o eu pessoal ao Eu superior. **Acréscimo:** em M5.3 e M5.7, a comparação entre os dois mapas (o da Huna e o de Assagioli) mostra o que coincide e o que difere.
 - **`3 Eus.pdf`.** Página digitalizada de livro, com uma figura humana em que eu, Eu e EU se alinham num eixo vertical com arcos coloridos. É forte como imagem para M5.3, mas o livro de origem não está identificado; é preciso identificá-lo antes de usá-la em aula.
 
@@ -162,7 +163,7 @@ O e-book *Hipnose — Sofia Bauer* (106 p.) traz a anamnese e o "esqueleto bási
   - O capítulo 19 traz a indução por catalepsia do braço.
   - Capítulos de EFT e PNL: repertório.
 - **Stephen Paul Adler, *Hipnose ericksoniana: estratégias para a comunicação efetiva* (195 p.).** Acompanhar e conduzir, desenvolvimento de recursos, âncora; serve para M7.3. O exemplar tem marca d'água de licença individual de outra pessoa; é só para consulta.
-- **Textos de Ernest Rossi (apostila de constelação familiar, 82 p.).** **Frágil:** a expressão gênica via psicoterapia é extrapolada a partir de estudos iniciais. **Acréscimo:** ritmos ultradianos (ciclos de cerca de 90 a 120 minutos com janelas naturais de transe) e os quatro estágios do processo criativo. Servem para M3.3 — *Como o organismo antecipa necessidades e distribui recursos* e para a nota de estados; reforçam a tese do transe cotidiano.
+- **Textos de Ernest Rossi (apostila de constelação familiar, 82 p.; e, localizado em 19/11/2026, `OneDrive\Livros\Portuguesefreebook1.pdf`: Rossi e Rossi, *A nova neurociência da psicoterapia, hipnose terapêutica & reabilitação*, 91 p.).** **Frágil:** a expressão gênica via psicoterapia é extrapolada a partir de estudos iniciais. **Acréscimo:** ritmos ultradianos (ciclos de cerca de 90 a 120 minutos com janelas naturais de transe) e os quatro estágios do processo criativo. Servem para M3.3 — *Como o organismo antecipa necessidades e distribui recursos* e para a nota de estados; reforçam a tese do transe cotidiano.
 
 ### 3.6 Sugestão coletiva
 

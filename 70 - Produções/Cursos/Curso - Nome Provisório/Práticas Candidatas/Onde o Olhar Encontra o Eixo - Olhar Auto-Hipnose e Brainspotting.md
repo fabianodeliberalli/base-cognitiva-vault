@@ -3,7 +3,7 @@ tipo: pratica-candidata
 projeto: Traduzindo o Ser Humano
 status: proposta-para-desenvolvimento-de-Fabiano
 criado_em: 2026-11-18
-atualizado_em: 2026-11-18
+atualizado_em: 2026-11-19
 autor: Fabiano Deliberalli
 aliases:
   - Onde o olhar encontra o eixo
@@ -49,6 +49,16 @@ Linguagem permissiva, como na indução de Fabiano no workshop de 2024: "é voc�
 - **Fixação clássica.** Fixar um ponto acima da linha dos olhos ou uma moeda entre os dedos, como nos workshops; a moeda cai quando os músculos relaxam.
 - **Olhar para cima de Spiegel.** Olhar para cima, para as sobrancelhas, fechar as pálpebras mantendo o olhar para cima, e então soltar. Pode ser usado como indução breve e como momento de observar o fenômeno da esclera de que Fabiano fala.
 - **Olhar no cotidiano.** Usar um ponto de recurso do ambiente como lembrete de eixo ao longo do dia.
+
+### Variações vindas dos referenciais (registradas em 19/11/2026)
+
+- **Ponto de recurso com Borboleta (Shapiro).** Com o olhar no ponto de recurso, braços cruzados sobre o peito, toques alternados e lentos, quatro a seis de cada lado. Se a sensação boa cresce, continuar; se algo perturbador aparece, voltar à respiração. Para grupo online, a versão com toques alternados nas coxas.
+- **Varredura lenta (Shapiro).** Movimentos oculares lentos de um lado a outro antes de encontrar o ponto, lembrando a origem do EMDR numa caminhada no parque. No TSH é uma entrada de atenção, não reprocessamento.
+- **Olhar para cima e para trás, e os sinais próprios (Teresa Robles).** Olhos fechados lançados para cima e para trás até as pálpebras tremerem; soltar, sentir a respiração sem mudá-la e notar os próprios sinais de transe: peso, leveza, flutuação, calor, vibração. O aluno registra os sinais para reconhecê-los quando praticar sozinho.
+- **Foco que se abre (Melissa Tiers; Les Fehmi).** Fixar o centro de uma figura e, sem mover os olhos, abrir a atenção para toda a visão periférica; notar o diálogo interno silenciar; voltar ao detalhe e perceber o que mudou. Tiers usa essa variação para sair de estados de pânico.
+- **Sinais de profundidade (Elman).** Lacrimejamento, tremor das pálpebras, branco dos olhos avermelhado e globos que viram para cima. Servem para Fabiano observar o fenômeno, não para o aluno se testar.
+
+Fontes: [[Shapiro - Correlações com o Material de Fabiano]], [[Teresa Robles - Auto-Hipnose e Reconstrução de Cenas]], [[Melissa Tiers - Induções e a Indução de Elman em Partes]], [[06 - Livros de Hipnose Grupo Terapia e Trauma - Avaliação para o TSH]].
 
 ## Onde pode entrar no curso
 

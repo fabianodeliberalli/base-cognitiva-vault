@@ -3,7 +3,7 @@ tipo: plano-de-incorporacao-curricular
 projeto: Traduzindo o Ser Humano
 status: plano-de-trabalho-para-os-roteiros
 criado_em: 2026-11-18
-atualizado_em: 2026-11-18
+atualizado_em: 2026-11-19
 autor: Fabiano Deliberalli
 aliases:
   - Plano de incorporação da hipnose
@@ -39,6 +39,12 @@ Princípio: **aprender a sair antes de entrar**. A primeira etapa ensinada junto
 | 30/01 | 8 — Conclusão e continuidade | O aluno conduz sozinho a versão completa e aprende a **versão curta de cerca de três minutos** (respiração, pálpebras, números, presente, retorno) | Autonomia e continuidade | Plano pessoal de prática diária |
 
 Cada encontro retoma rapidamente as etapas anteriores antes das novas, para que a junção do quarto encontro já esteja preparada. Do quinto ao oitavo, sobra tempo para repetir e aplicar a indução completa ao tema de cada módulo.
+
+**Regra de desenho: semeadura (registrada em 19/11/2026).** Cada aula gravada da semana semeia, sem anunciar, a etapa da indução do encontro seguinte (Sofia Bauer, a partir de Erickson e Zeig). Tabela por encontro em [[Sofia Bauer - Semeadura como Regra de Desenho]].
+
+**Retorno que desfaz as sugestões motoras.** A partir de 05/12, o retorno desfaz explicitamente as sugestões de pálpebras e braço ("pálpebras livres, braço leve e disponível, como sempre"), como orienta Marlus Ferreira ([[Marlus Ferreira - Referência Clínica da Hipnose no TSH]]).
+
+Referenciais de cada etapa e de cada aula: [[07 - Referenciais por Autor - Índice por Aula e Etapa]].
 
 **Componentes, como Fabiano conduziu em 08/06/2024:**
 1. **Respiração:** no baixo ventre, como um fole, ativando o vago ventral.

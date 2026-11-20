@@ -3,7 +3,7 @@ tipo: consulta-avaliacao-e-destinacao-pedagogica
 projeto: Traduzindo o Ser Humano
 status: referencia-e-propostas-de-desenvolvimento
 criado_em: 2026-11-18
-atualizado_em: 2026-11-18
+atualizado_em: 2026-11-19
 autor: Fabiano Deliberalli
 aliases:
   - Hipnose no TSH
@@ -13,7 +13,7 @@ aliases:
 
 # Hipnose e auto-hipnose no TSH: decisão, avaliação e destinos
 
-Registro solicitado por Fabiano em 18/11/2026. Esta nota reúne o inventário do acervo de hipnose e auto-hipnose do computador pessoal, a avaliação de cada conjunto pelo que acrescenta ao TSH e os destinos possíveis nas aulas. O inventário item a item está em [[01 - Hipnose e Auto-Hipnose - Inventário Completo do Acervo]]. As transcrições dos quatro cursos de auto-hipnose ficam registradas em [[02 - Transcrições dos Cursos de Auto-Hipnose - Estado e Localização]]. A perspectiva de Fabiano sobre estados de transe, ondas cerebrais, reprogramação e olhar está em [[03 - Estados de Transe Sugestão e Reprogramação - Perspectiva de Fabiano]]. Conteúdos dos cursos transcritos e propostas de incorporação: [[04 - Cursos de Auto-Hipnose Transcritos - Conteúdos e Incorporações ao TSH]]. Prática candidata de olhar e auto-hipnose: [[Onde o Olhar Encontra o Eixo - Olhar Auto-Hipnose e Brainspotting]]. Plano de incorporação nos módulos e aulas: [[05 - Hipnose e Auto-Hipnose nos Módulos e Aulas do TSH - Plano de Incorporação]]. A avaliação dos livros de hipnose, grupo, terapia e trauma (Elman, Shapiro, Cozolino, Yalom e os PDFs de hipnose do computador) está em [[06 - Livros de Hipnose Grupo Terapia e Trauma - Avaliação para o TSH]].
+Registro solicitado por Fabiano em 18/11/2026. Esta nota reúne o inventário do acervo de hipnose e auto-hipnose do computador pessoal, a avaliação de cada conjunto pelo que acrescenta ao TSH e os destinos possíveis nas aulas. O inventário item a item está em [[01 - Hipnose e Auto-Hipnose - Inventário Completo do Acervo]]. As transcrições dos quatro cursos de auto-hipnose ficam registradas em [[02 - Transcrições dos Cursos de Auto-Hipnose - Estado e Localização]]. A perspectiva de Fabiano sobre estados de transe, ondas cerebrais, reprogramação e olhar está em [[03 - Estados de Transe Sugestão e Reprogramação - Perspectiva de Fabiano]]. Conteúdos dos cursos transcritos e propostas de incorporação: [[04 - Cursos de Auto-Hipnose Transcritos - Conteúdos e Incorporações ao TSH]]. Prática candidata de olhar e auto-hipnose: [[Onde o Olhar Encontra o Eixo - Olhar Auto-Hipnose e Brainspotting]]. Plano de incorporação nos módulos e aulas: [[05 - Hipnose e Auto-Hipnose nos Módulos e Aulas do TSH - Plano de Incorporação]]. A avaliação dos livros de hipnose, grupo, terapia e trauma (Elman, Shapiro, Cozolino, Yalom e os PDFs de hipnose do computador) está em [[06 - Livros de Hipnose Grupo Terapia e Trauma - Avaliação para o TSH]]. A extração por autor (Shapiro, Cozolino, Yalom, Marlus Ferreira, Sofia Bauer, Teresa Robles, Melissa Tiers, Max Freedom Long e Serge King, David Hawkins), com destinos por aula e etapa, está em [[07 - Referenciais por Autor - Índice por Aula e Etapa]].
 
 ## 1. Decisão de Fabiano — 18/11/2026
 
