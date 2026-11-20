@@ -34,6 +34,8 @@ Louis Cozolino, *Por que a terapia funciona* (2015), cap. 1, seção "O meio seg
 
 A tese de Fabiano, de base ericksoniana: todos vivem em algum grau de transe; o trabalho é retirar a pessoa dos transes tóxicos; o transe não é condição da sugestão. O meio segundo vital descreve como isso acontece: antes que a explicação chegue, o sistema rápido já respondeu e montou o presente com o passado. Entrar num transe que não se escolheu é isso. Perceber e voltar é o primeiro aprendizado da indução de Fabiano (encontro de 28/11: respiração e retorno).
 
+A frase-fonte está nas anotações de Fabiano do curso de Alberto Dell'Isola. Erickson: "o difícil não é colocar a pessoa em hipnose, mas tirar a pessoa da hipnose que ela chega no consultório". Nas mesmas anotações está o par rápido e devagar de Kahneman, que corresponde aos dois sistemas de Cozolino. Ver [[08 - Anotações de Cursos no OneNote - Auditoria para o TSH]].
+
 Hawkins diz o mesmo de outro lugar: "é útil olhar para nós mesmos como se tivéssemos sido hipnotizados durante metade de nossas vidas" (*Cura e Recuperação*, cap. 4).
 
 ### 3. Os Três Eus (Fabiano, na linguagem de Max Freedom Long)
@@ -45,6 +47,8 @@ Hawkins diz o mesmo de outro lugar: "é útil olhar para nós mesmos como se tiv
 | O que Long atribui | Guarda a memória, mas tem só raciocínio elementar; aceita e reage à sugestão hipnótica, até à mais absurda, por ser ilógico | Raciocínio indutivo e vontade; não guarda um pensamento quando ele sai do centro da atenção e depende do subconsciente para trazê-lo de volta; "não pode ser hipnotizado" |
 
 Fonte de Long: *O Milagre da Ciência Secreta* (Grupo Editorial Monismo), cap. IV, p. 87–88.
+
+Leinani Melville (*Children of Paradise*) inverte os nomes: chama de *Uhane* o eu inferior e de *Unihipiri* o eu do meio. Mas descreve a mesma dinâmica. A mente do meio só chega à mente diária "quando o corpo está relaxado e a consciência em paz", e a mente diária solta o controle ao cochilar. É a via parassimpática do transe dita na linguagem Huna. Ver [[Huna - Leinani Melville Children of Paradise - Avaliação para o TSH]].
 
 A correspondência é **funcional**, não anatômica. Os Três Eus são um mapa da experiência, e os dois sistemas são uma descrição de processamento. Os dois mapas coincidem no ponto que importa para o curso: o que responde primeiro guarda a memória e recebe a sugestão; o que chega depois explica.
 

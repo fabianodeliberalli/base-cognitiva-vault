@@ -1,7 +1,8 @@
 ---
 tipo: referencial-por-autor
 projeto: Traduzindo o Ser Humano
-status: registrado-para-resgate-na-estruturacao-das-aulas
+status: homologado-por-Fabiano-em-2026-11-19
+homologacao: aprovado por Fabiano para o vault em 19/11/2026; integração à main junto com a PR #69
 criado_em: 2026-11-19
 atualizado_em: 2026-11-19
 autor: Fabiano Deliberalli

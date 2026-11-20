@@ -1,7 +1,8 @@
 ---
 tipo: nota-conceitual
 projeto: Traduzindo o Ser Humano
-status: correlacao-registrada-por-Fabiano-para-as-aulas
+status: homologado-por-Fabiano-em-2026-11-19
+homologacao: aprovado por Fabiano para o vault em 19/11/2026 (material de Tiers); integração à main junto com a PR #69
 criado_em: 2026-11-19
 atualizado_em: 2026-11-19
 autor: Fabiano Deliberalli
@@ -52,6 +53,14 @@ Princípios do cap. 14 do livro para adultos:
 - **Estado dependente.** Tiers e Woods (cap. 8): cada estado emocional age como filtro e convoca lembranças e previsões semelhantes. Isso explica por que o segundo passo vem antes do terceiro: de dentro do problema, só se vê o problema.
 
 ## Correlação com o material de Fabiano
+
+**A formulação já estava nas anotações de Fabiano.** No curso *Aprenda Hipnose do Zero*, de Alberto Dell'Isola, Fabiano anotou:
+- a Lei de Hebb, com duas redes (estado de recurso e estado de problema);
+- a regra de que a rede de recurso precisa ser maior que a de problema, disparadas em paralelo;
+- o metapadrão de John Overdurf: problema, dissociação, recurso e colapso, aplicado quatro vezes;
+- a janela de intensidade: perturbação baixa demais não dessensibiliza, alta demais pode piorar.
+
+Tiers, Hebb e a pesquisa sobre reconsolidação fundamentam o que Fabiano já trazia da formação. Ver [[08 - Anotações de Cursos no OneNote - Auditoria para o TSH]].
 
 | Passo | No material de Fabiano |
 |---|---|

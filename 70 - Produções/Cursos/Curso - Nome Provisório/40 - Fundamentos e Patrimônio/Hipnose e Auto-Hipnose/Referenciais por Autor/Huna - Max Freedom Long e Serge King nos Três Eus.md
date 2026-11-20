@@ -74,6 +74,10 @@ Capítulos de Long que tocam o TSH (a numeração da tradução coincide com a d
 - **Origens que não se sustentam.** As afirmações de origem egípcia ou no continente de Mu, presentes nos decks, não se sustentam historicamente.
 - **Uma linguagem por vez.** Long trata aka e mana como substâncias físicas. No TSH, entram como linguagem da tradição, ao lado das definições funcionais do [[Mapa Funcional Transversal dos Três Eus]].
 
+## Terceira linguagem: Leinani Melville
+
+*Children of Paradise* usa os nomes invertidos (*Uhane* como eu inferior, *Unihipiri* como eu do meio), com uma moldura devocional e moralista. Confirma que a correspondência deve seguir a função. Ver [[Huna - Leinani Melville Children of Paradise - Avaliação para o TSH]].
+
 ## Referência
 
 - Long MF. *The Secret Science Behind Miracles*. Los Angeles: Kosmon Press; 1948. Ed. bras.: *O Milagre da Ciência Secreta*. São Vicente: Grupo Editorial Monismo (ano não indicado no PDF).

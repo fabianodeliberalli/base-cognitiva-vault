@@ -78,7 +78,7 @@ A pergunta 3 não exclui nada. Ela indica o que reescrever para que o material e
 
 **Workshop Desprogramação Mental e Autocura (2017, com Gilda Moura).** Prova documental de que auto-hipnose, Qi Gong, Três Eus, Wilber e Jung já estavam articulados em 2017. Serve à aula aberta "De onde vem o TSH" e à genealogia em [[Mapa Funcional Transversal dos Três Eus]].
 
-**Notas OneNote** ([[Mirroring Hands - Richard Hill]], [[Hipnose - Alberto]]). Duas formulações de Fabiano já são TSH: abrir mão das técnicas quando estão incorporadas (M1.3) e diferenciar aspectos da consciência para integrar o sistema (M6.2).
+**Notas OneNote** ([[Mirroring Hands - Richard Hill]], [[Hipnose - Alberto]]). Duas formulações de Fabiano já são TSH: abrir mão das técnicas quando estão incorporadas (M1.3) e diferenciar aspectos da consciência para integrar o sistema (M6.2). A auditoria completa das anotações de cursos (19/11/2026) está em [[08 - Anotações de Cursos no OneNote - Auditoria para o TSH]]: a indução de Elman, Hebb e o metapadrão, Kahneman e a frase de Erickson já estavam nas anotações de Fabiano do curso de Alberto Dell'Isola.
 
 ### 4.2 Fundamentação de terceiros — acréscimo médio a alto
 

@@ -32,6 +32,12 @@ Disponíveis para as aulas, com crédito de origem e correlação com o material
   - gatilho de uma respiração (versão de três minutos);
   - auto-hipnose de dois minutos com o filme de si já mudado (presente hipnótico).
 - **Hawkins:** entrar na sensação sem rótulo (M3.2, M4.3).
+- **Das anotações de cursos de Fabiano** (ver [[08 - Anotações de Cursos no OneNote - Auditoria para o TSH]]):
+  - Mirroring Hands: o problema numa mão, a pergunta sobre o que há na outra (M4.6, M5.4);
+  - o "não" imperativo e o "sim" suave de Siegel (M3.4);
+  - perguntas de linguagem limpa de David Grove (M4.3);
+  - visão periférica com os olhos para cima, do curso de Alberto Dell'Isola (prática do olhar).
+- **Leinani Melville:** respiração com intenção dirigida ao plexo solar, como variação tradicional Huna (práticas de respiração); ver [[Huna - Leinani Melville Children of Paradise - Avaliação para o TSH]].
 
 ## Rohden e imagens para produção - conferência de 13/11/2026
 

@@ -59,6 +59,8 @@ Linguagem permissiva, como na indução de Fabiano no workshop de 2024: "é voc�
 - **"Está nos olhos" (Tiers e Woods, cap. 12).** Abrir para a visão periférica e, no auge, juntar polegar e indicador dizendo uma palavra escolhida, que vira âncora. Olhar para baixo faz o mundo recuar; olhar para cima o convida de volta.
 - **Espaço entre os dedos (Fehmi, em Tiers e Woods, cap. 8).** A mão a alguns centímetros do rosto; a atenção vai para o espaço entre os dedos, depois para todo o espaço ao redor. Serve de indução ou de prática em casa.
 - **Dois pontos como metapadrão.** A alternância entre o ponto de ativação e o ponto de recurso segue os quatro passos da mudança; ver [[Quatro Passos da Mudança - Metapadrão e Lei de Hebb no TSH]].
+- **Visão periférica com os olhos para cima (anotações de Fabiano, curso de Alberto Dell'Isola).** Olhos para cima, abrir a percepção para os lados e voltar ao ponto. Fabiano já a usava como forma de criar recurso. Ver [[08 - Anotações de Cursos no OneNote - Auditoria para o TSH]].
+- **"Quem vê por trás dos olhos" (Leinani Melville).** Imagem Huna da alma situada acima dos cantos internos das sobrancelhas. É repertório poético para o ponto entre as sobrancelhas, sem afirmação anatômica.
 - **Sinais de profundidade (Elman).** Lacrimejamento, tremor das pálpebras, branco dos olhos avermelhado e globos que viram para cima. Servem para Fabiano observar o fenômeno, não para o aluno se testar.
 
 Fontes: [[Shapiro - Correlações com o Material de Fabiano]], [[Teresa Robles - Auto-Hipnose e Reconstrução de Cenas]], [[Melissa Tiers - Induções e a Indução de Elman em Partes]], [[06 - Livros de Hipnose Grupo Terapia e Trauma - Avaliação para o TSH]].
