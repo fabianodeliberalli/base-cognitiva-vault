@@ -49,6 +49,8 @@ Tiers passa a indução de Elman linha por linha e diz o que muda e por quê. As
 | Protocolo de dor crônica (22) | Dissociação consciente/inconsciente, autoinstrução de 10 a 1, futuro já curado, verificação de que todas as partes concordam e reintegração no fim | Reintegração dos Três Eus; Teresa Robles fecha da mesma forma | 09/01 e 16/01; M6.1 |
 | EFT e Tapas (4, 21) | Toques em pontos e postura de acupressão | Diálogo com a linhagem de Medicina Tradicional Chinesa de Fabiano | Repertório |
 
+Catálogo completo das técnicas dos dois livros de Tiers: [[Melissa Tiers - Catálogo de Técnicas para o TSH]].
+
 ## O que é frágil
 
 - O livro é a transcrição de um curso. Mistura hipnose, PNL, EFT e técnicas energéticas sem distinguir o grau de evidência de cada uma.

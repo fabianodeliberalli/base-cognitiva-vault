@@ -84,6 +84,8 @@ Quatro passos, de John Overdurf, que Tiers reconhece em toda técnica de mudanç
 - **Teresa Robles:** a respiração que reconstrói a cena difícil.
 - **Fundamentação:** a reconsolidação de memória (Ecker, Ticic e Hulley, 2012), em que uma experiência nova vivida com o padrão antigo ativo permite reorganizá-lo.
 
+**Nota própria, com a Lei de Hebb:** [[Quatro Passos da Mudança - Metapadrão e Lei de Hebb no TSH]].
+
 **Uso.** M4.6 — *Do automatismo a uma resposta possível*, como esqueleto didático; nota [[03 - Estados de Transe Sugestão e Reprogramação - Perspectiva de Fabiano]].
 
 ### 5. A intenção positiva das partes (cap. 6, p. 106) e o *visual squash* (cap. 3)

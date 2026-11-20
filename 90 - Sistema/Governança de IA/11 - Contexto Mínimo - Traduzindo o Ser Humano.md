@@ -12,7 +12,7 @@ As restrições, exclusões, reservas e condicionamentos registrados em fases an
 
 ## Meio segundo vital — correlação registrada por Fabiano em 19/11/2026
 
-Ao estruturar M1.1, os Três Eus (M5.3 e a espiral do M2 ao M4) ou o primeiro encontro ao vivo, partir de [[Meio Segundo Vital - Transe que Não se Escolhe e os Três Eus]]. Para os demais autores por aula e etapa: [[07 - Referenciais por Autor - Índice por Aula e Etapa]].
+Ao estruturar M1.1, os Três Eus (M5.3 e a espiral do M2 ao M4) ou o primeiro encontro ao vivo, partir de [[Meio Segundo Vital - Transe que Não se Escolhe e os Três Eus]]. Para M4.6 e a prática do olhar com dois pontos: [[Quatro Passos da Mudança - Metapadrão e Lei de Hebb no TSH]]. Para os demais autores por aula e etapa: [[07 - Referenciais por Autor - Índice por Aula e Etapa]].
 
 ## Hipnose e auto-hipnose — decisão de Fabiano em 18/11/2026
 

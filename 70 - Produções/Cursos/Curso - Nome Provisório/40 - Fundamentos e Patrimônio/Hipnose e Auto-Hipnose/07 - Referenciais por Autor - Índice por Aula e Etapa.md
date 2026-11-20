@@ -17,6 +17,8 @@ Pedido de Fabiano (19/11/2026): extrair de cada autor as contribuições para o 
 
 **Correlação central aprovada por Fabiano:** [[Meio Segundo Vital - Transe que Não se Escolhe e os Três Eus]]. É o ponto de partida para M1.1, para o primeiro encontro e para os Três Eus.
 
+**Técnica central para M4.6:** [[Quatro Passos da Mudança - Metapadrão e Lei de Hebb no TSH]]. Todas as técnicas de Tiers, por função: [[Melissa Tiers - Catálogo de Técnicas para o TSH]].
+
 Notas por autor, na pasta `Referenciais por Autor`:
 - [[Shapiro - Correlações com o Material de Fabiano]]
 - [[Cozolino - Correlações com o Material de Fabiano]]
@@ -25,6 +27,7 @@ Notas por autor, na pasta `Referenciais por Autor`:
 - [[Sofia Bauer - Semeadura como Regra de Desenho]]
 - [[Teresa Robles - Auto-Hipnose e Reconstrução de Cenas]]
 - [[Melissa Tiers - Induções e a Indução de Elman em Partes]]
+- [[Melissa Tiers - Catálogo de Técnicas para o TSH]]
 - [[Huna - Max Freedom Long e Serge King nos Três Eus]]
 - [[David Hawkins - Avaliação para o TSH]]
 - [[Tiers e Woods - Hipnose Integrativa para Crianças - Avaliação para o TSH]]

@@ -46,6 +46,8 @@ Cada encontro retoma rapidamente as etapas anteriores antes das novas, para que 
 
 Referenciais de cada etapa e de cada aula: [[07 - Referenciais por Autor - Índice por Aula e Etapa]].
 
+**Quatro passos da mudança (registrado por Fabiano em 19/11/2026).** O esqueleto da aula M4.6 e o desenho da prática do olhar com dois pontos, fundamentados na Lei de Hebb e na reconsolidação: [[Quatro Passos da Mudança - Metapadrão e Lei de Hebb no TSH]]. O retorno ensinado primeiro é o segundo passo treinado como habilidade.
+
 **Proposta para Fabiano decidir (19/11/2026):** no encontro de 09/01, acrescentar uma quarta resposta aos dedos e ao pêndulo, "não quero dizer", e explicar que "a mensagem vem de você" (Tiers e Woods, [[Tiers e Woods - Hipnose Integrativa para Crianças - Avaliação para o TSH]]).
 
 **Componentes, como Fabiano conduziu em 08/06/2024:**

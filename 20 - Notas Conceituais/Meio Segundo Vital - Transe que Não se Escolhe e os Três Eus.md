@@ -86,3 +86,4 @@ A correspondência é **funcional**, não anatômica. Os Três Eus são um mapa 
 - [[Mapa Funcional Transversal dos Três Eus]]
 - [[03 - Estados de Transe Sugestão e Reprogramação - Perspectiva de Fabiano]]
 - [[07 - Referenciais por Autor - Índice por Aula e Etapa]]
+- [[Quatro Passos da Mudança - Metapadrão e Lei de Hebb no TSH]] (a Lei de Hebb explica por que a trilha mais usada se repete e como os quatro passos abrem outra)
