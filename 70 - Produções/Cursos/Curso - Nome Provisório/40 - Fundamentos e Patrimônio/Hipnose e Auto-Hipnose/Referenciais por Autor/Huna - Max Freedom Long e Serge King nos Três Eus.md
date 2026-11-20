@@ -14,7 +14,7 @@ aliases:
 
 # Huna — Max Freedom Long e Serge King nos Três Eus
 
-Registro pedido por Fabiano (19/11/2026). O texto de Serge King é uma fonte dos Três Eus dos Kahunas que Fabiano ensina, mas não a principal nem a única. A linguagem de Max Freedom Long, em *Milagres da Ciência Secreta*, é a que Fabiano usa e com a qual está mais familiarizado. As linguagens mudam de um autor para outro.
+Registro pedido por Fabiano (19/11/2026). O texto de Serge King é uma fonte dos Três Eus dos Kahunas que Fabiano ensina, mas não a principal nem a única. A linguagem de Max Freedom Long, em *O Milagre da Ciência Secreta*, é a que Fabiano usa e com a qual está mais familiarizado. As linguagens mudam de um autor para outro.
 
 ## Onde a linguagem de Long aparece no material de Fabiano
 
@@ -25,29 +25,28 @@ Verificado nos arquivos do computador:
   - "os três Eus podem estar desconectados"; "quanto mais o Eu Médio se identifica com aspectos trazidos pelo Eu Básico, mais perdidos nos sentimos"; "complexos e traumas = Eu Básico altamente impressionável";
   - os três autores: Max Freedom Long, "o intelectual"; Serge Kahili King, "o xamã prático"; Leilani Melville, "o místico".
 
-**O PDF de *Milagres da Ciência Secreta* não foi localizado** nas pastas varridas em 19/11/2026:
-- `Downloads`, `Downloads\Documents`, `Downloads\Compressed`;
-- `OneDrive\Livros` (inclusive os PDFs sem nome identificável), `OneDrive\Download`, `OneDrive\Documentos`, `OneDrive\Documentos\Livros`, `OneDrive\Dropbox`, `OneDrive\Cursos`;
-- o celular espelhado em `CrossDevice`.
+**Livro de Long conferido em 19/11/2026.** Fabiano enviou o PDF: *O Milagre da Ciência Secreta* (Grupo Editorial Monismo, São Vicente; tradução do original *The Secret Science Behind Miracles*), 393 p. O que a tradução confirma:
+- Os termos são "eu inferior" (cerca de 280 ocorrências), "eu superior" (cerca de 230) e "eu médio" ou "espírito médio" (poucas). **"Eu Básico" não aparece na tradução de Long:** é o termo dos decks de Fabiano para o Unihipili.
+- **Cap. IV, p. 87–88.** O subconsciente (*unihipili*) "possui memória, porém, apenas uma elementar força de raciocínio". O consciente (*uhane*) "não se pode lembrar de um pensamento, tão logo tenha o mesmo saído do seu centro de atenção" e depende do subconsciente para trazê-lo. O consciente tem raciocínio indutivo e vontade.
+- **Cap. IV, p. 88.** "O subconsciente aceita e reage à sugestão hipnótica… O consciente não pode ser hipnotizado"; sendo ilógico, o subconsciente aceita até a sugestão mais absurda.
+- **Cap. XIV e XV.** Natureza dos complexos e o método kahuna para tratá-los.
+- **Cap. XIX.** A magia na reconstrução do futuro.
+- O pêndulo não aparece no livro.
 
-Os livros comprados no Kindle não são legíveis fora do aplicativo. Os dados de Long abaixo vêm do original em inglês de 1948 (domínio público) e dos decks de Fabiano. Quando o PDF for localizado, conferir os capítulos indicados.
+A correspondência com os dois sistemas de Cozolino está em [[Meio Segundo Vital - Transe que Não se Escolhe e os Três Eus]].
 
 ## As duas linguagens lado a lado
 
 | TSH (Fabiano) | Max Freedom Long (1948) | Serge Kahili King | Função |
 |---|---|---|---|
 | Eu Básico | *Unihipili* ("eu inferior"; espírito subconsciente) | *Ku* | Corpo, emoções, memória, automatismos; produz o mana a partir do ar e do alimento; comunica-se pelo corpo; impressionável como uma criança |
-| Eu Médio | *Uhane* (espírito consciente) | *Lono* | Razão, fala, interpretação e direção; em leituras de Long, não guarda memória própria, que fica no Unihipili (conferir no PDF) |
+| Eu Médio | *Uhane* (espírito consciente) | *Lono* | Razão, fala, interpretação e direção; para Long, não guarda um pensamento fora do centro da atenção e depende do Unihipili para lembrar (cap. IV) |
 | Eu Superior | *Aumakua* ("espírito parental", par masculino e feminino; amado, não adorado; não dá ordens) | *Kane* (*aumakua*) | Essência espiritual, fonte e propósito |
-| Os três funcionando como um | Sem termo próprio identificado (conferir no PDF) | *Kanaloa* | Integração |
+| Os três funcionando como um | Sem termo próprio na tradução | *Kanaloa* | Integração |
 | Aka | Substância sombria; fios aka que ligam pessoas, objetos e lugares | — | No deck de Fabiano: moldes sutis, formas-pensamento, telepatia |
 | Mana | Três voltagens: *mana*, *mana-mana*, *mana loa* | *Mana* | Força vital; no deck: vitalidade, vontade e consciência |
 
-Capítulos de Long que tocam o TSH, pelos títulos da edição de 1948:
-- cap. 4 (as duas almas do homem);
-- cap. 5 (os três espíritos e as três voltagens);
-- cap. 14 e 15 (natureza e tratamento do complexo);
-- cap. 19 (reconstruir o futuro indesejado).
+Capítulos de Long que tocam o TSH (a numeração da tradução coincide com a do original): IV (as duas almas e a sugestão), V (as três voltagens), XIV e XV (complexos), XIX (reconstrução do futuro).
 
 ## Contribuições para as aulas
 
@@ -58,7 +57,7 @@ Capítulos de Long que tocam o TSH, pelos títulos da edição de 1948:
 | Perguntar ao Eu Básico com gentileza (dedos e pêndulo) | Encontro de 09/01 |
 | Mapa completo com as duas linguagens | M5.3 — *Os Três Eus e a função EIXO*; M5.7 — *Self, Essência, Alma, Eu Superior e Fonte* |
 | Kanaloa, os três como um | M6.1 — *Integrar não é tornar tudo igual*; fechamento com integração (ver Teresa Robles) |
-| Reconstruir o futuro indesejado (Long, cap. 19) | Presente hipnótico (19/12); M8.2 — *Próximos passos* |
+| Reconstruir o futuro (Long, cap. XIX) | Presente hipnótico (19/12); M8.2 — *Próximos passos* |
 | Sugestão negativa e "oração de morte" (King) | M2.2, como exemplo de sugestão nociva |
 
 ## Correlações com os outros referenciais
@@ -77,6 +76,6 @@ Capítulos de Long que tocam o TSH, pelos títulos da edição de 1948:
 
 ## Referência
 
-- Long MF. *The Secret Science Behind Miracles*. Los Angeles: Kosmon Press; 1948. Ed. bras.: *Milagres da Ciência Secreta* (edição e tradutor a conferir no PDF de Fabiano).
+- Long MF. *The Secret Science Behind Miracles*. Los Angeles: Kosmon Press; 1948. Ed. bras.: *O Milagre da Ciência Secreta*. São Vicente: Grupo Editorial Monismo (ano não indicado no PDF).
 - King SK. *Kahuna Healing: Holistic Health and Healing Practices of Polynesia*. Wheaton: Quest Books; 1983.
 - Verbetes "Huna (New Age)" e "Max Freedom Long" da Wikipédia em inglês, consultados em 19/11/2026, que reúnem as posições de Charles Kenn e Pali Jae Lee; conferir as fontes primárias citadas ali antes de uso em aula.

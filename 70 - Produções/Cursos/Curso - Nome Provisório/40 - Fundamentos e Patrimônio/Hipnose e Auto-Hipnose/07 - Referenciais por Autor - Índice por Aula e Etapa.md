@@ -15,6 +15,8 @@ aliases:
 
 Pedido de Fabiano (19/11/2026): extrair de cada autor as contribuições para o material dele e para o TSH, por aula e por etapa, e deixá-las registradas para quando as aulas forem estruturadas. Os autores entram onde servem de repertório e fundamentação para o que Fabiano já ensina.
 
+**Correlação central aprovada por Fabiano:** [[Meio Segundo Vital - Transe que Não se Escolhe e os Três Eus]]. É o ponto de partida para M1.1, para o primeiro encontro e para os Três Eus.
+
 Notas por autor, na pasta `Referenciais por Autor`:
 - [[Shapiro - Correlações com o Material de Fabiano]]
 - [[Cozolino - Correlações com o Material de Fabiano]]

@@ -26,6 +26,8 @@ Pedido de Fabiano (19/11/2026): avaliar como Cozolino entra como ampliação e f
 
 ## O núcleo que conversa com Fabiano: o meio segundo vital
 
+**Correlação aprovada por Fabiano em 19/11/2026 e registrada em nota própria:** [[Meio Segundo Vital - Transe que Não se Escolhe e os Três Eus]].
+
 Capítulo 1, seção "O meio segundo vital":
 - O cérebro tem um sistema rápido, antigo, não verbal e inacessível à reflexão, que Cozolino chama de memória implícita: "as memórias das quais não nos lembramos conscientemente, mas nunca esquecemos".
 - Há também um sistema lento, ligado à autoconsciência e à narrativa.
