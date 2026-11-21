@@ -1,0 +1,57 @@
+name: Preservar originais do TSH
+
+on:
+  push:
+    branches:
+      - conteudo/tsh-arvore-imaginacao-fontes-2026-11-21
+    paths:
+      - .tsh-transfer/restore-manifest.json
+
+permissions:
+  contents: write
+
+jobs:
+  preservar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Obter a ramificação de registro
+        uses: actions/checkout@v4
+        with:
+          ref: conteudo/tsh-arvore-imaginacao-fontes-2026-11-21
+          fetch-depth: 1
+
+      - name: Reconstituir e conferir os originais
+        shell: python
+        run: |
+          from pathlib import Path
+          import hashlib, json, subprocess
+
+          root = Path.cwd().resolve()
+          manifest_path = root / '.tsh-transfer/restore-manifest.json'
+          manifest = json.loads(manifest_path.read_text())
+          branch = 'conteudo/tsh-arvore-imaginacao-fontes-2026-11-21'
+          assert manifest['branch'] == branch
+          changed = []
+          temporary = [str(manifest_path.relative_to(root)), '.github/workflows/tsh-preservar-originais-temporario.yml']
+          for entry in manifest['files']:
+              target = (root / entry['path']).resolve()
+              assert target.is_relative_to(root)
+              target.parent.mkdir(parents=True, exist_ok=True)
+              with target.open('wb') as output:
+                  for part in entry['parts']:
+                      piece = (root / part['path']).resolve()
+                      assert piece.is_relative_to(root / '.tsh-transfer/objects')
+                      data = piece.read_bytes()
+                      assert hashlib.sha256(data).hexdigest() == part['sha256']
+                      output.write(data)
+                      temporary.append(str(piece.relative_to(root)))
+              assert target.stat().st_size == entry['size']
+              assert hashlib.sha256(target.read_bytes()).hexdigest() == entry['sha256']
+              changed.append(str(target.relative_to(root)))
+          subprocess.run(['git', 'add', '--', *changed], check=True)
+          subprocess.run(['git', 'rm', '--', *temporary], check=True)
+          subprocess.run(['git', 'config', 'user.name', 'github-actions[bot]'], check=True)
+          subprocess.run(['git', 'config', 'user.email', '41898282+github-actions[bot]@users.noreply.github.com'], check=True)
+          subprocess.run(['git', 'commit', '-m', 'Preserva originais conferidos e conclui registro do TSH'], check=True)
+          subprocess.run(['git', 'push', 'origin', 'HEAD:' + branch], check=True)
+          print('Originais recompostos, conferidos e registrados; arquivos temporários removidos.')
