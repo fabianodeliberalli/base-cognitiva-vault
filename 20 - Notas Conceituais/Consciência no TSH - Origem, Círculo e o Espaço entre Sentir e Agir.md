@@ -35,7 +35,7 @@ O mapa dos sete corpos de Jan, com a narrativa de origem e as primeiras ampliaç
 | Da razão (mente) | significados, conceitos, interpretações, modelos, psicologia | coerência lógica, argumentação, interpretação compartilhada |
 | Da contemplação | o espiritual, o que se revela à prática contemplativa | prática, apreensão direta e confirmação por quem percorreu a mesma prática |
 
-Wilber acrescenta que todo conhecimento válido, em qualquer olho, passa por três fios: uma **injunção** (faça isto), uma **apreensão** (veja o que aparece) e uma **confirmação ou refutação** por quem cumpriu a mesma injunção. Isso impede que a contemplação seja tratada como mera crença e impede que a ciência exija comprovação sensorial de todo sentido espiritual.
+Wilber acrescenta que todo conhecimento válido, em qualquer olho, passa por três fios: uma **injunção** (faça isto), uma **apreensão** (veja o que aparece) e uma **confirmação ou refutação** por quem cumpriu a mesma injunção. Isso impede que a contemplação seja tratada como mera crença e impede que a ciência exija comprovação sensorial de todo sentido espiritual. Huxley diz o mesmo na abertura de *A filosofia perene*: "o conhecimento é uma função do ser" — quando o ser de quem conhece muda, muda o que pode ser conhecido (Editorial Sul-Americana, 1999, introdução, p. 3 do PDF).
 
 ### Como aplicar o filtro
 
@@ -70,7 +70,8 @@ Wilber acrescenta que todo conhecimento válido, em qualquer olho, passa por tr�
 ### O que a ciência não responde
 
 - **Por que há experiência.** A ciência descreve correlatos: o que acontece no cérebro quando há experiência. Não explica por que esses processos são acompanhados de experiência vivida. É o chamado "problema difícil" da consciência (David Chalmers, 1995).
-- **Se o cérebro produz ou transmite a consciência.** William James (*Human Immortality*, 1898) distinguiu duas hipóteses compatíveis com os mesmos dados: o cérebro **produz** a consciência, ou a **transmite e limita**, como um filtro. Aldous Huxley retomou a segunda como "válvula redutora". A correlação entre cérebro e experiência, por si só, não decide entre as duas.
+- **Se o cérebro produz ou transmite a consciência.** William James (*Human Immortality*, 1898) distinguiu duas hipóteses compatíveis com os mesmos dados: o cérebro **produz** a consciência, ou a **transmite e limita**, como um filtro. Aldous Huxley retomou a segunda como "válvula redutora" em *As portas da percepção* (a imagem não está em *A filosofia perene*). A correlação entre cérebro e experiência, por si só, não decide entre as duas.
+- **Um físico chega ao mesmo lugar.** No epílogo de *O que é vida?*, Schrödinger parte de dois fatos — o corpo funciona como mecanismo, e ele sabe por experiência direta que comanda seus movimentos — e conclui que a consciência nunca é experimentada no plural, só no singular, e que a pluralidade é aparência (UNESP, 1997, p. 99–100). É a posição de um cientista no olho da contemplação, declarada como tal.
 - **A origem.** De onde vem a consciência, o que havia antes do ego e o que permanece além do corpo não são perguntas que o olho da carne alcança.
 
 **Proposta:** a consciência extra-cerebral que Fabiano quer trazer pode ser apresentada com essa honestidade. Os dados de Cozolino, Damasio e Libet valem em qualquer das duas hipóteses; a escolha pela hipótese da transmissão é filosófica e contemplativa, e a do TSH é declarada.
@@ -254,13 +255,16 @@ O diferencial não está na ideia de um intervalo, que é antiga, mas na consequ
 - Brass M, Haggard P. To do or not to do: the neural signature of self-control. *Journal of Neuroscience*. 2007;27(34):9141–9145. Região do córtex frontomedial dorsal associada à decisão intencional de não agir.
 - Nader K, Schafe GE, LeDoux JE. Fear memories require protein synthesis in the amygdala for reconsolidation after retrieval. *Nature*. 2000;406:722–726. Memórias consolidadas, quando reativadas, voltam a um estado instável.
 
+- Huxley A. *A filosofia perene*. Trad. C. A. Jordana. Buenos Aires: Editorial Sul-Americana; 1999 (original 1945). Introdução.
+- Schrödinger E. *O que é vida?* Trad. Jesus de Paula Assis e Vera Yukie Kuwajima de Paula Assis. São Paulo: UNESP; 1997. p. 88 e Epílogo (p. 99–100), conforme subsídio de estudo de Sandro Luiz Bazzanella enviado por Fabiano.
+- Welwood J. Principles of inner work: psychological and spiritual. *Journal of Transpersonal Psychology*. 1984;16(1):63–73; *Toward a Psychology of Awakening*. Boston: Shambhala; 2000.
+- Lao Tse. *Tao Te Ching*. Trad. Wu Jyh Cherng. Cap. 40: "O retorno é o movimento do Caminho".
+
 **A conferir na edição antes do material do aluno**
-- Huxley A. *As portas da percepção*, 1954.
-- Schrödinger E. *O que é vida?*, 1944.
-- Welwood J. *Toward a Psychology of Awakening*, 2000.
-- *Tao Te Ching*, cap. 40.
+- Huxley A. *As portas da percepção*, 1954 ("válvula redutora").
 
 **Notas que desenvolvem esta**
 - [[O Caminho de Descida, Subida e Retorno com Aquisição]] — o caminho em etapas, para direcionar materiais e aulas.
 - [[Kahneman e Cozolino - Dois Sistemas e o Meio Segundo no TSH]].
 - [[Jan Val Ellam - Os Sete Corpos - Mapa e Ampliações para o TSH]].
+- [[Luria - Néfesh, Rúach, Neshamá, Tikun, Descida e Retorno no TSH]].

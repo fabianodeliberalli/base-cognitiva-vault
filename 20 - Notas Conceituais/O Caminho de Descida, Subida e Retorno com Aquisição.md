@@ -68,15 +68,15 @@ No começo da vida e no fim do caminho aparecem as mesmas imagens: unidade, aus�
 
 ### Etapa 0 — A origem
 
-A Essência como fundamento primordial da vida, que antecede e transcende a existência corporal (Léxico Mestre). Neste caminho, o "antecede" é **ontológico** (origem transpessoal), não **desenvolvimental** (estado anterior ao ego). Imagens: o *Wu Chi*, o vazio primordial; o Deus-força de Jan, que não age; o Uno; o Tao sem nome. Olho da contemplação.
+A Essência como fundamento primordial da vida, que antecede e transcende a existência corporal (Léxico Mestre). Neste caminho, o "antecede" é **ontológico** (origem transpessoal), não **desenvolvimental** (estado anterior ao ego). Imagens: o *Wu Chi*, o vazio primordial; o Deus-força de Jan, que não age; o Uno; o Tao sem nome. Olho da contemplação. Em Luria, os níveis mais altos da alma, Chaiá e Iechidá, ficam fora da queda e da correção (comentário do *Portal das Reencarnações*, p. 8). O caminho inteiro está no *Tao Te Ching*: "Grande significa Ir / Ir significa Distante / Distante significa Retornar" (cap. 25, tradução de Wu Jyh Cherng), e o taoismo chama o caminho da imortalidade de **Via do Retorno**, a volta ao princípio (introdução da mesma tradução).
 
 ### Etapa 1 — A descida
 
-A consciência se limita para encarnar e, a cada nível, esquece o anterior (Goswami, *A física da alma*, p. 167–168). No mapa de Jan, cada corpo nasce para resolver um limite do anterior: da tríade imortal ao quaternário de corpos-cópia que permite ao espírito se ligar a um corpo. A descida traz consigo resíduos: no Jan, a "sujeira consciencial" dos corpos inferiores; em Goswami, o condicionamento que a mônada quântica leva de uma vida a outra. **É a primeira camada dos padrões herdados.**
+A consciência se limita para encarnar e, a cada nível, esquece o anterior (Goswami, *A física da alma*, p. 167–168). No mapa de Jan, cada corpo nasce para resolver um limite do anterior: da tríade imortal ao quaternário de corpos-cópia que permite ao espírito se ligar a um corpo. A descida traz consigo resíduos: no Jan, a "sujeira consciencial" dos corpos inferiores; em Goswami, o condicionamento que a mônada quântica leva de uma vida a outra. Em Luria, o Infinito se contrai (*Tsimtsum*), os vasos se quebram e as centelhas ficam presas nas cascas (*Klipot*); as centelhas de Adão, maculadas, encarnam geração após geração para serem corrigidas (*Portal das Reencarnações*, p. 28). **É a primeira camada dos padrões herdados.**
 
 ### Etapa 2 — O começo pré-pessoal
 
-O nascimento. O bebê vive o estado urobórico: fusão, ausência de opostos, o "paraíso" de Neumann (p. 29), o sentimento oceânico de Freud, a simbiose de Mahler. O corpo se organiza por homeostase antes de haver mente (Damasio). Aqui o Eu Básico se forma e grava, sem saber que grava. **Segunda camada dos padrões herdados:** o que vem do corpo, da biologia, da família e do ambiente inicial.
+O nascimento. O bebê vive o estado urobórico: fusão, ausência de opostos, o "paraíso" de Neumann (p. 29), o sentimento oceânico de Freud, a simbiose de Mahler. O corpo se organiza por homeostase antes de haver mente (Damasio). Aqui o Eu Básico se forma e grava, sem saber que grava. Luria acrescenta a ordem: a pessoa recebe primeiro a Néfesh, o nível instintivo ligado ao corpo, e só depois de corrigi-la recebe o Rúach e a Neshamá; cada nível passa por gestação, amamentação e amadurecimento (p. 9 e 11). **Segunda camada dos padrões herdados:** o que vem do corpo, da biologia, da família e do ambiente inicial.
 
 ### Etapa 3 — A formação do eu
 
@@ -92,7 +92,7 @@ O movimento da etapa: **perceber** o automatismo; **sustentar** o intervalo pela
 
 O que se percebeu e se sustentou agora se transforma. É a alquimia, a obra, a construção.
 
-- **A sujeira é matéria-prima, não descarte.** Na alquimia ocidental, retomada por Jung, o ouro é feito a partir da matéria escura (a *nigredo*), não apesar dela. Na alquimia interna taoista, refina-se o Jing em Qi, o Qi em Shen, e o Shen retorna ao vazio. No Jan, o eu dignificado é formado pelos próprios corpos inferiores. Na leitura de Fabiano, o corpo é "podridão organizada", ordem mantida contra a entropia pelo trabalho da consciência. **"Sem sujeira" não significa sem passado: significa passado transformado.**
+- **A sujeira é matéria-prima, não descarte.** Na alquimia ocidental, retomada por Jung, o ouro é feito a partir da matéria escura (a *nigredo*), não apesar dela. Na alquimia interna taoista, refina-se o Jing em Qi, o Qi em Shen, e o Shen retorna ao vazio. No Jan, o eu dignificado é formado pelos próprios corpos inferiores. Na Cabala luriânica, as cascas guardam centelhas de luz, e a obra é libertá-las: **a sujeira contém luz**. Na leitura de Fabiano, o corpo é "podridão organizada", ordem mantida contra a entropia pelo trabalho da consciência; Schrödinger descreve o organismo como o que se alimenta de "entropia negativa" para escapar do decaimento (*O que é vida?*, UNESP, 1997, p. 88). **"Sem sujeira" não significa sem passado: significa passado transformado.**
 - **O que a ciência mostra sobre a transformação.** Uma memória reativada fica temporariamente instável e pode ser modificada antes de se reestabilizar (reconsolidação: Nader, Schafe e LeDoux, *Nature*, 2000; na clínica, Bruce Ecker). A trilha nova se fortalece pelo uso (Lei de Hebb). Não se trata só de inibir o padrão, mas de reescrevê-lo.
 - **Práticas:** respiração consciente e lenta, regulação emocional, coerência entre valores, palavras e atos (congruência, em Carl Rogers), cultivo dos três Dan Tian e da órbita, a indução de Fabiano em duas etapas (perceber e voltar).
 - **A crise possível.** Washburn descreve o retorno como algo que pode atravessar o encontro com o que estava reprimido; a obra tem sua noite. O acompanhamento e os cuidados de condução das práticas valem sobretudo aqui.
@@ -103,7 +103,7 @@ O objetivo não é que o sistema lento passe a governar tudo, o que seria imposs
 
 ### Etapa 7 — O retorno com aquisição
 
-A consciência volta à origem, mas com a experiência incorporada. O começo era um jardim, dado; o fim é uma cidade, construída (Neumann, p. 45). É o "Paraíso B" de Jan: algo que a origem, por ser imutável, não poderia fazer sozinha. No Jan, o corpo búdico "adorna a alma" para que ela não perca o que aprendeu. No taoismo, "o retorno é o movimento do Tao" (*Tao Te Ching*, cap. 40), e o retorno ao vazio é cultivado. Em Jung e Neumann, o Self se torna centro diretivo; no TSH, o Eu Superior orienta e a Essência é reconhecida com a vida vivida. **Este é o Retorno à Essência do TSH.**
+A consciência volta à origem, mas com a experiência incorporada. O começo era um jardim, dado; o fim é uma cidade, construída (Neumann, p. 45). É o "Paraíso B" de Jan: algo que a origem, por ser imutável, não poderia fazer sozinha. No Jan, o corpo búdico "adorna a alma" para que ela não perca o que aprendeu. No *Tao Te Ching*, "o retorno é o movimento do Caminho" (cap. 40); "o regresso à raiz se chama quietude" (cap. 16); e o capítulo 28 diz que quem conhece o masculino e resguarda o feminino "retornará a ser criança" e "retornará à Extremidade-Inexistente", o *Wu Ji*. **O retorno à criança é condicionado ao conhecer e resguardar os opostos:** é a volta trans, não a regressão pré. Em Luria, o mundo da correção (*Tikun*) é mais capaz que o mundo anterior à quebra (*Tohu*), que tinha luzes imensas em vasos fracos; na tradição hassídica, "descida para fins de subida". Em Jung e Neumann, o Self se torna centro diretivo; no TSH, o Eu Superior orienta e a Essência é reconhecida com a vida vivida. **Este é o Retorno à Essência do TSH.**
 
 ---
 
@@ -174,6 +174,8 @@ O caminho do TSH se articula com o modelo de Jan e o completa. Mapa e análise d
 | 6 · Incorporação | o eu dignificado comanda o cérebro e os corpos sutis | intuição treinada, competência incorporada, EIXO |
 | 7 · Retorno | o Paraíso B | o Retorno à Essência; a cidade construída; o Self |
 
+**Luria** dá ao caminho, na linguagem da Cabala, três elementos que nem Jan nem os autores científicos trazem: a **ordem** (não se recebe a Neshamá sem corrigir a Néfesh — a advertência de Welwood dita quatro séculos antes), a **luz presa na sujeira** (as centelhas nas cascas) e a **dimensão coletiva** (corrigir todo o mundo da Ação; as almas corrigidas voltam a descer para ajudar). Ver [[Luria - Néfesh, Rúach, Neshamá, Tikun, Descida e Retorno no TSH]].
+
 **Avaliação:** o Jan evita espontaneamente a falácia pré/trans — o fim é um Paraíso B, não a volta ao Paraíso, e o eu dignificado se forma nos corpos inferiores, não fugindo deles. O que falta no modelo dele é a etapa do desenvolvimento do eu (etapa 3), que o TSH traz da psicologia, e o filtro dos três olhos, que evita usar a física como prova. A linguagem de "podridão" e "sujeira" pede tradução nas aulas, na chave de Fabiano: podridão organizada e sujeira consciencial como matéria-prima.
 
 ---
@@ -200,6 +202,7 @@ O caminho do TSH se articula com o modelo de Jan e o completa. Mapa e análise d
 - [[Consciência no TSH - Origem, Círculo e o Espaço entre Sentir e Agir]] — o filtro dos três olhos, o que a ciência responde e não responde, subida e descida, pré e trans, círculo e eixo, o espaço entre sentir e agir.
 - [[Kahneman e Cozolino - Dois Sistemas e o Meio Segundo no TSH]].
 - [[Jan Val Ellam - Os Sete Corpos - Mapa e Ampliações para o TSH]].
+- [[Luria - Néfesh, Rúach, Neshamá, Tikun, Descida e Retorno no TSH]].
 - [[Meio Segundo Vital - Transe que Não se Escolhe e os Três Eus]]; [[Quatro Passos da Mudança - Metapadrão e Lei de Hebb no TSH]].
 - Monografia de Fabiano: *O normal e o patológico nas vivências espirituais: explorações psicanalíticas e transpessoais* (FACIS, 2010).
 
@@ -215,4 +218,8 @@ O caminho do TSH se articula com o modelo de Jan e o completa. Mapa e análise d
 - Brass M, Haggard P. To do or not to do: the neural signature of self-control. *Journal of Neuroscience*. 2007;27(34):9141–9145.
 - Nader K, Schafe GE, LeDoux JE. Fear memories require protein synthesis in the amygdala for reconsolidation after retrieval. *Nature*. 2000;406:722–726.
 - Jan Val Ellam, "É a primeira vez que alguém revela isso!", corte no canal Além do Véu, 19/11/2026: https://youtu.be/jFENKgzeiHg
-- A conferir na edição antes do material do aluno: Welwood J. *Toward a Psychology of Awakening* (2000); *Tao Te Ching*, cap. 40; Jung sobre a alquimia (*Psicologia e alquimia*).
+- Luria I. *Portal das Reencarnações* (*Sha'ar HaGuilgulim*), edição em português com comentários. p. 8, 9, 11, 28.
+- Lao Tse. *Tao Te Ching: o livro do caminho e da virtude*. Tradução de Wu Jyh Cherng. Sociedade Taoísta do Brasil. Introdução; cap. 16, 25, 28 e 40.
+- Schrödinger E. *O que é vida?* São Paulo: UNESP; 1997. p. 88 (entropia negativa); Epílogo, p. 99–100 (consciência singular).
+- Welwood J. Principles of inner work: psychological and spiritual. *Journal of Transpersonal Psychology*. 1984;16(1):63–73 (onde cunhou *spiritual bypassing*); *Toward a Psychology of Awakening*. Boston: Shambhala; 2000.
+- A conferir na edição antes do material do aluno: Jung sobre a alquimia (*Psicologia e alquimia*); Scholem, *As grandes correntes da mística judaica*.
