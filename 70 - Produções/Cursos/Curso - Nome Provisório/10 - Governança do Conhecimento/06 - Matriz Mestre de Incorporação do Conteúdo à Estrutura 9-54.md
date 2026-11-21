@@ -3,12 +3,28 @@ tipo: matriz-incorporacao-conteudo
 projeto: Traduzindo o Ser Humano
 status: acervo-historico-consultivo
 uso_atual: acervo-consultivo
-versao: "2.6"
+versao: "2.7"
 criado_em: 2026-08-22
 atualizado_em: 2026-11-21
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
+
+## Árvore, imaginação e contribuições dos anexos — 21/11/2026
+
+Fabiano solicitou incorporar os destinos abaixo. Recuperar [o aprofundamento da Árvore](../40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/%C3%81rvore%20da%20Singularidade%20-%20Postura%20Mapa%20e%20Express%C3%A3o%20Pessoal.md), [a escolha e seu alcance](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#63-incorpora%C3%A7%C3%A3o-escolhida-por-fabiano-%C3%A1rvore-imagina%C3%A7%C3%A3o-e-participa%C3%A7%C3%A3o) e [os originais e avaliações](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#64-confer%C3%AAncia-dos-materiais-originais-e-caminhos-de-produ%C3%A7%C3%A3o). Os códigos são destinos de trabalho na estrutura atual, não uma segunda arquitetura nem uma obrigação de utilizar todos os recursos.
+
+| Aula ou percurso | Contribuição pertinente à montagem | Fonte e condução |
+| --- | --- | --- |
+| M0/M1; M3.2/M3.3/M3.5/M3.6 | Apoio, medida do esforço, ajuste, pausa, alternativas e apoio externo | Yau; organização prática de Steele com as precisões da seção 61; caderno de condução |
+| M1.4; M2.5/M2.6; M5.8 | Distinguir imagem sugerida, sensação, relato e interpretação; sugestão e memória | Kast; Pedro Ivo com correções; patrimônio de hipnose |
+| M5.5 | Árvore como postura, mapa e expressão pessoal; dar forma sem interpretação pronta | Kast 49–51; nota da Árvore; imagem como investigação |
+| M5/M6 | Expressão, associações, perguntas abertas, diálogo e elaboração no tempo; vocabulário de imaginação ativa | Kast 177–189; condução e integração |
+| M3/M5/M6/M7 | Presença relacional, escuta, interdependência e testemunho | Hübl, seção 54, com as precisões sobre interpretação do outro e causalidade |
+| M3/M5/M6/M7/M8 e encontros | Música conforme finalidade, escolha/familiaridade/contexto, criação e silêncio | Levitin em diálogo com as cinco propostas musicais já elaboradas a partir de Naranjo |
+| M7/M8 | Efeitos na escuta, limites, receber ajuda, descanso, condições materiais e organização da vida | Nota da Árvore; caderno de condução; retomada longitudinal |
+
+O [caderno de montagem](../40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/MTC%20e%20Qi%20Gong/06%20-%20Incorpora%C3%A7%C3%A3o%20%C3%A0s%20Aulas%20e%20Grava%C3%A7%C3%B5es%20-%20Cultivo%20no%20TSH.md) contém os aprofundamentos para roteiro, fala, prática e entregável, junto das outras fontes pertinentes. O registro não declara montagem ou substituição dos vídeos e apresentações finais.
 
 ## Cultivo, sustentação e participação — incorporação de 21/11/2026
 

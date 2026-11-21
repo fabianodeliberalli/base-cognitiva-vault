@@ -383,3 +383,18 @@ A produção pode recuperar esses conteúdos como fala, exemplo, prática, texto
 ## 9. CEMETC — recuperação na montagem — 14/11/2026
 
 Antes de montar os blocos de reserva, constituição, capacidades, mediação e circulação, consultar [[13 - Nogueira Pérez e CEMETC - Acupuntura Bioenergética - Fontes Correlações e Destinos]], os destinos de [[14 - CEMETC - Destinos Pedagógicos Práticas e Correlações]] e as correspondências de [[15 - CEMETC - Imagens Correspondências e Materiais para as Aulas]]. Escolher a função da contribuição: fala, exemplo, prática, imagem, apoio do participante ou nota docente. A correspondência de imagens com a apresentação autoral foi ampliada; a seleção para cada PowerPoint, roteiro e entregável permanece na produção efetiva. Arquitetura, carga e progressão do cultivo não são alteradas por este registro.
+
+## 10. Árvore, imaginação e elaboração — montagem por pertinência — 21/11/2026
+
+Fabiano solicitou incorporar [a diferenciação entre postura, mapa autoral e expressão pessoal](../%C3%81rvore%20da%20Singularidade%20-%20Postura%20Mapa%20e%20Express%C3%A3o%20Pessoal.md). A [condução](05%20-%20Caderno%20de%20Condu%C3%A7%C3%A3o%20-%20Sequ%C3%AAncias%20e%20Aprendizagens%20do%20Cultivo.md) desenvolve falas e retomadas; a [conferência dos materiais](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#64-confer%C3%AAncia-dos-materiais-originais-e-caminhos-de-produ%C3%A7%C3%A3o) liga originais e avaliações. Na apresentação, mostrar somente o recurso que ajuda a pergunta da aula; as justificativas extensas ficam nas notas docentes.
+
+| Destino | Bloco oral possível | Recurso/entregável para desenvolver |
+| --- | --- | --- |
+| M0/M1 e M3 | “Cultivar também inclui perceber o esforço, ajustar uma condição e reconhecer quando precisamos de apoio ou pausa.” | Demonstração da versão em pé e da alternativa pertinente; pergunta breve sobre o ajuste que ajudou |
+| M5.5 | “A árvore pode ser uma postura, um mapa que utilizamos para compreender o percurso e uma expressão própria do que você vive. Sua imagem pode trazer algo que o nosso mapa ainda não havia mostrado.” | Desenho, palavras ou gesto; campos para descrição, associação possível e pergunta aberta |
+| M5/M6 | “Dar forma ao vivido pode ajudar a nos aproximarmos dele. Podemos investigar seus sentidos e voltar a eles depois, sem precisar decidir tudo agora.” | Registro antes/depois da elaboração, sem exigir mudança positiva; vocabulário preciso para imaginação guiada/ativa |
+| M7/M8 | “Como o que você reconheceu encontra lugar na escuta, nos limites, no recebimento de ajuda e na organização da sua vida?” | Retomada longitudinal: situação, apoio, escolha, efeito e próxima pergunta |
+
+Kast oferece o aprofundamento principal; Yau ajuda na linguagem da condução; Steele é consulta prática com revisão das explicações. Hübl, Levitin e Pedro Ivo ampliam, respectivamente, relação/testemunho, música/contexto e sugestão/imaginação/memória, com correções e referências preservadas nas seções 53–62 do documento integral. Esses recursos dialogam com o acervo já existente de Naranjo, hipnose, Varela/Castellanos, compaixão e cultivo.
+
+Na retomada da espiral, a produção não precisa mostrar uma árvore mais bonita, reta ou grande. O acréscimo pode aparecer em perceber uma necessidade, encontrar outra linguagem, receber apoio ou modificar uma condição. A elaboração pode também transformar a forma de praticar.
