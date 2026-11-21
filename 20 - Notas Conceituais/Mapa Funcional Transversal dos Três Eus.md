@@ -6,7 +6,7 @@ status: aprovado-no-projeto-nao-canonico-no-metodo
 natureza: mapa-funcional-transversal-autoral
 autor: Fabiano Deliberalli
 criado_em: 2026-07-18
-atualizado_em: 2026-11-19
+atualizado_em: 2026-11-21
 fontes:
   - "[[Arquitetura Invisível]]"
   - "[[Três Eus, Jung e Rede Tripartite]]"
@@ -74,6 +74,39 @@ Sua contribuição principal é traduzir essa complexidade sem exigir que o part
 | **EIXO** | coordenação dinâmica, reconhecimento do afastamento, recuperação de presença e capacidade de retorno | atravessa e relaciona as três funções; não pertence exclusivamente a nenhuma delas |
 
 As funções são lentes de observação e Tradução. Não são três entidades separadas, compartimentos psíquicos rígidos, níveis evolutivos universais nem estruturas cerebrais.
+
+### O Eu Básico como tradutor, forma e porta — decisão de Fabiano em 21/11/2026
+
+O Eu Básico "chora, mas não sabe falar": não fala com palavras, mas com símbolos, imagens, memórias, sensações e sintomas. Ele cumpre três funções:
+
+| Função | O que faz | Fundamentação |
+|---|---|---|
+| **Tradutor** | converte o que é vivido no corpo em imagem e símbolo; o sintoma como linguagem arcaica | Bion (função alfa: da emoção bruta à imagem pensável); Psico-Onto-Somática |
+| **Forma** | dá forma — imagem, memória, sensação — ao que chega a ele, venha do corpo, do trauma ou do Eu Superior; é origem da forma, não do conteúdo | Long (o eu inferior guarda a memória, cap. IV, pp. 87–88); Cozolino (o presente montado com o passado) |
+| **Porta** | dá acesso ao Eu Superior; traumatizado ou culpado, fica "envergonhado" e bloqueia o caminho | Max Freedom Long, *O Milagre da Ciência Secreta* (Grupo Editorial Monismo): toda premonição vem do Eu Superior através do eu inferior (cap. IX, p. 168); o complexo de culpa afasta do contato direto com o Eu Superior (p. 291); o eu inferior culpado sente-se envergonhado, "como uma criança mal comportada que evita a presença dos pais" (cap. XVII, p. 294), e recusa o contato pelo cordão aka — o "bloqueamento do caminho" (p. 296); o Eu Superior pode forçar o contato, e a maioria "abre a porta à ajuda" na doença ou no perigo (cap. XVIII, p. 314) |
+
+**Consequência clínica e pedagógica (Fabiano):** cuidar do Eu Básico vem antes de buscar o Eu Superior — regular, dar segurança, elaborar o trauma e a culpa. Converge com Wilber: fortalecer o ego antes de transcender; e, em *Espiritualidade Integral*, a ideia de que não se chega a Buda sem passar por Freud (formulação de Fabiano; localizar a passagem antes de citar).
+
+**Tese do TSH associada (decisão de 21/11/2026):** o límbico não produz a experiência espiritual; é por onde ela se faz sentir, e a tradução dela em imagem e palavra é um trabalho que pode ser feito ou não. O sistema límbico é **correlato neural** do Eu Básico, não sua identidade (o quadro acima continua valendo: o Eu Básico não é idêntico ao corpo nem ao sistema límbico).
+
+**Decisão de Fabiano (21/11/2026) — os dois tempos da tradução:** o Eu Básico capta, sente e traduz energia, emoção e campo; o Eu Médio é intelectual: razão, defesa, ego. A primeira tradução (do corpo, da emoção e do campo à imagem, ao símbolo e à memória) é do Eu Básico; a segunda (da imagem à palavra, à reflexão e à escolha) é do Eu Médio.
+
+**Ponto a decidir:** a definição funcional acima diz que o Eu Médio "não é idêntico ao EIXO, ego, FPN ou consciência total". A formulação de Fabiano ("o Eu Médio é... ego") pede ajuste dessa cláusula — por exemplo, "inclui as funções do ego (razão, defesa), sem se reduzir a elas" — ou a confirmação de que a identidade é intencional. A cláusula não foi alterada.
+
+Em Bion, a mesma cadeia: elemento beta → elemento alfa → pensamento e palavra.
+
+**Registro literal pedido por Fabiano (21/11/2026):**
+
+> O eu inferior culpado sente-se envergonhado. Long o compara a "uma criança mal comportada que evita a presença dos pais" e diz que ele recusa o contato com o Eu Superior. Os kahunas chamavam isso de "bloqueamento do caminho" (cap. XVII, pp. 294–296).
+>
+> - Toda premonição vem do Eu Superior através do eu inferior (cap. IX, p. 168).
+> - Long acrescenta um ponto clinicamente importante: o Eu Superior consegue forçar o contato, e a maioria de nós "abre a porta à ajuda" quando está doente ou em perigo (cap. XVIII, p. 314). Isso liga a porta à ideia de crise como abertura, que a aula de Fabiano para a ABBSP trabalha com a emergência espiritual.
+
+Fonte: Max Freedom Long, *O Milagre da Ciência Secreta* (Grupo Editorial Monismo; PDF enviado por Fabiano em 21/11/2026).
+
+**Prática de cuidado do Eu Básico:** o processo 3-2-1 de Wilber; ver [[Processo 3-2-1 - Cuidado do Eu Básico e Diálogo com a Parte Culpada]].
+
+Desenvolvimento: [[O Límbico como Porta - Eu Básico, Bion e Morin no TSH]].
 
 ## 5. Relação estrutural com o Método EIXO
 

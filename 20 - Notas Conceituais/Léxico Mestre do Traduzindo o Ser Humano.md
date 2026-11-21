@@ -6,7 +6,7 @@ status: em-formacao
 versao: "0.1"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-18
-atualizado_em: 2026-10-30
+atualizado_em: 2026-11-21
 fontes:
   - "[[Dossiê de Contexto e Arquitetura Mestre]]"
   - "[[Mapa Funcional Transversal dos Três Eus]]"
@@ -484,6 +484,69 @@ Pode integrar o horizonte espiritual não dogmático do projeto, mas não é req
 
 # Termo adjacente em avaliação
 
+## 8. Eu Básico
+
+### Definição nuclear
+
+No TSH, Eu Básico é a função de sustentação corporificada da experiência: sensibilidade corporal e afetiva, memória, hábito e acesso ao implícito, imagético e simbólico. Ele "chora, mas não sabe falar" (Fabiano): fala por símbolos, imagens, memórias, sensações e sintomas.
+
+### Tradutor, forma e porta — decisão de Fabiano em 21/11/2026
+
+- **Tradutor:** capta, sente e traduz energia, emoção e campo; converte o vivido no corpo em imagem e símbolo.
+- **Forma:** dá forma ao que chega a ele, venha do corpo, do trauma ou do Eu Superior. É origem da forma, não do conteúdo.
+- **Porta:** dá acesso ao Eu Superior. Traumatizado ou culpado, fica "envergonhado" e bloqueia o caminho.
+
+### Campo de origem
+
+Linguagem de Max Freedom Long (Huna): *unihipili*, o "eu inferior", em *O Milagre da Ciência Secreta*. "Eu Básico" é o termo de Fabiano; não aparece na tradução de Long. Diálogo com Serge King (*Ku*), Cozolino (sistema rápido e implícito), Damasio (homeostase) e Bion (função alfa).
+
+### Estatuto
+
+Função autoral do Mapa dos Três Eus, apoiada em tradição (Huna) e com correlatos científicos. Não é entidade separada nem estrutura cerebral.
+
+### Ajuda a traduzir
+
+- por que entender um padrão não impede que ele se repita;
+- o sintoma como linguagem quando a fala falha;
+- imagens, sonhos e vivências espirituais que chegam antes das palavras;
+- por que segurança e regulação são condição de acesso ao que é mais amplo.
+
+### Não significa
+
+- o corpo, o sistema límbico ou o inconsciente (o límbico é correlato neural, não identidade);
+- a parte "inferior" ou pior do ser humano;
+- a fonte do conteúdo das experiências espirituais (é origem da forma);
+- algo a ser superado ou vencido: é reeducado e cuidado.
+
+### Uso recomendado
+
+Introduzido no Módulo 2 com o Eu Médio, pela auto-hipnose; aprofundado nos Módulos 3 e 4; o mapa completo, com o Eu Superior e a porta, no Módulo 5. Princípio de condução: **cuidar do Eu Básico vem antes de buscar o Eu Superior** — regular, dar segurança, elaborar o trauma e a culpa. Converge com Wilber (fortalecer o ego antes de transcender; não se chega a Buda sem passar por Freud, formulação de Fabiano a partir de *Espiritualidade Integral*).
+
+### Relações
+
+Eu Médio (faz a segunda tradução, da imagem à palavra; decisão de Fabiano em 21/11/2026: "o Eu Básico capta, sente e traduz energia, emoção, campo; o Eu Médio é intelectual, razão, defesa, ego"); Eu Superior (ao qual o Eu Básico dá acesso); EIXO (coordena o retorno); Essência; espelho (o Eu Básico devolve o passado no primeiro sentido do espelho).
+
+### Fontes
+
+Max Freedom Long, *O Milagre da Ciência Secreta* (Grupo Editorial Monismo): toda premonição vem do Eu Superior através do eu inferior (cap. IX, p. 168); o complexo de culpa afasta do contato direto com o Eu Superior (p. 291); o eu inferior culpado sente-se envergonhado, "como uma criança mal comportada que evita a presença dos pais" (cap. XVII, p. 294), e recusa o contato pelo cordão aka — o "bloqueamento do caminho" (p. 296); o Eu Superior pode forçar o contato, e a maioria "abre a porta à ajuda" na doença ou no perigo (cap. XVIII, p. 314). Ver [[Mapa Funcional Transversal dos Três Eus]], [[Huna - Max Freedom Long e Serge King nos Três Eus]], [[O Límbico como Porta - Eu Básico, Bion e Morin no TSH]], [[Meio Segundo Vital - Transe que Não se Escolhe e os Três Eus]].
+
+**Registro literal pedido por Fabiano (21/11/2026):**
+
+> O eu inferior culpado sente-se envergonhado. Long o compara a "uma criança mal comportada que evita a presença dos pais" e diz que ele recusa o contato com o Eu Superior. Os kahunas chamavam isso de "bloqueamento do caminho" (cap. XVII, pp. 294–296).
+>
+> - Toda premonição vem do Eu Superior através do eu inferior (cap. IX, p. 168).
+> - Long acrescenta um ponto clinicamente importante: o Eu Superior consegue forçar o contato, e a maioria de nós "abre a porta à ajuda" quando está doente ou em perigo (cap. XVIII, p. 314). Isso liga a porta à ideia de crise como abertura, que a aula de Fabiano para a ABBSP trabalha com a emergência espiritual.
+
+Fonte: Max Freedom Long, *O Milagre da Ciência Secreta* (Grupo Editorial Monismo; PDF enviado por Fabiano em 21/11/2026).
+
+### Prática associada
+
+O processo 3-2-1 de Wilber: [[Processo 3-2-1 - Cuidado do Eu Básico e Diálogo com a Parte Culpada]].
+
+### Status
+
+Verbete criado em 21/11/2026 por decisão de Fabiano. Revisável.
+
 ## Eu Essencial
 
 Expressão experiencial utilizada para nomear provisoriamente aquilo que a pessoa sente como núcleo, direção ou qualidade mais profunda de si.
@@ -537,7 +600,6 @@ Se apenas aumenta densidade teórica, permanece no Léxico Mestre.
 - experiência;
 - consciência;
 - ego;
-- Eu Básico;
 - Eu Médio;
 - Verdadeiro Eu;
 - espírito;
