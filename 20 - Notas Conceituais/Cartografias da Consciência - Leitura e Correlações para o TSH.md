@@ -42,7 +42,7 @@ Apresentação de Fabiano, *Cartografias da Consciência* (33 slides), no OneDri
 
 ## Correlações com o que foi formulado em 20 e 21/11/2026
 
-1. **A apresentação já prepara o caminho do TSH.** Os slides 31–33 mostram duas visões de mundo incompletas: a VM-1 só tem a subida (é a posição de Damasio, fisicalista); a VM-2 só tem a descida, a queda (é o risco de ler Jan ao pé da letra, com o corpo como "podridão"). O slide 30 está vazio. No ensaio de Wilber sobre a falácia pré/trans, a terceira visão de mundo integra as duas: involução e depois evolução (a conferir no texto citado nos slides). **É exatamente o lugar do caminho do TSH** — descida, subida e retorno com aquisição ([[O Caminho de Descida, Subida e Retorno com Aquisição]]). Proposta: preencher o slide 30, ou acrescentar um slide 34, com a terceira visão e o Mapa do TSH.
+1. **A apresentação já prepara o caminho do TSH.** Os slides 31–33 mostram duas visões de mundo incompletas: a VM-1 só tem a subida (é a posição de Damasio, fisicalista); a VM-2 só tem a descida, a queda (é o risco de ler Jan ao pé da letra, com o corpo como "podridão"). O slide 30 está vazio. No excerto de Wilber sobre a falácia pré/trans enviado por Fabiano (*Eye to Eye*, cap. 8, tradução de Ari Raynsford), não há uma "VM-3" numerada: cada visão tem duas verdades e dois erros, e a integração vem de Hegel e Aurobindo — involução antes, evolução como retorno; "com a ascensão do ego, o Espírito está a meio caminho de volta para casa" (p. 5). Wilber adverte que a involução não deve ser confundida com a evolução ("confundir o crescimento com a concepção", p. 2). **É exatamente o lugar do caminho do TSH** — descida, subida e retorno com aquisição ([[O Caminho de Descida, Subida e Retorno com Aquisição]]). Proposta: preencher o slide 30, ou acrescentar um slide 34, com a terceira visão e o Mapa do TSH.
 2. **O círculo de Wilber é uma volta da espiral.** No slide 17, nascimento e iluminação tocam a mesma linha de base, mas de lados opostos: um é pré-egoico, o outro trans-egoico. É a imagem do jardim e da cidade. A espiral do TSH é esse círculo desdobrado no tempo, com muitas voltas, cada uma em outro nível ([[A Espiral no TSH - Padrões que Voltam em Outro Nível]]).
 3. **As três vistas da mesma figura já estão na apresentação.**
    - **De cima**, o círculo com centro: o Grande Ninho (slide 2), a Roda da Consciência de Siegel, com seu eixo central (slides 5–6).
@@ -57,5 +57,6 @@ Apresentação de Fabiano, *Cartografias da Consciência* (33 slides), no OneDri
 
 ## Pendências
 
-- Conferir no texto de Wilber citado nos slides ("Ibidem") a formulação da terceira visão de mundo.
+- ~~Conferir a formulação da terceira visão de mundo~~ — conferido em 21/11/2026 no excerto enviado por Fabiano (ver correlação 1).
+- Registro da apresentação e destinos de cada cartografia nas aulas: [[00 - Cartografias da Consciência - Registro e Destinos nas Aulas]].
 - Conferir Fischer: R. Fischer, "A cartography of the ecstatic and meditative states", *Science*, 1971.

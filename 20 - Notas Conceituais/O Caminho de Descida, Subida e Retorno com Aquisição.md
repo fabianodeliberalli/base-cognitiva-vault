@@ -27,7 +27,7 @@ Este texto organiza essa formulação em etapas, com a fundamentação reunida n
 
 **O caminho é uma espiral (decisão de Fabiano, 21/11/2026).** As etapas abaixo não são degraus: voltam ao longo da vida, em outros níveis, em torno do eixo. Cada volta de um padrão é ocasião da obra. Ver [[A Espiral no TSH - Padrões que Voltam em Outro Nível]].
 
-**Nas Cartografias da Consciência de Fabiano,** as Visões de Mundo 1 (só subida) e 2 (só descida, a queda) de Wilber já estão nos slides 31–33, e o slide 30 está vazio: é o lugar da terceira visão, que integra as duas — este caminho. Ver [[Cartografias da Consciência - Leitura e Correlações para o TSH]]. Imagem do caminho em espiral: `90 - Anexos/Mapas Conceituais/Mapa do TSH - Espiral, Eixo, Pêndulo e Espelho.png`.
+**Nas Cartografias da Consciência de Fabiano,** as Visões de Mundo 1 (só subida) e 2 (só descida, a queda) de Wilber já estão nos slides 31–33, e o slide 30 está vazio: é o lugar da visão que integra as duas — este caminho. No excerto de *Eye to Eye* enviado por Fabiano, Wilber não numera uma terceira visão: mostra que cada uma tem duas verdades e dois erros e as integra com Hegel e Aurobindo — involução antes, evolução como retorno; "com a ascensão do ego, o Espírito está a meio caminho de volta para casa" (p. 5). Ver [[Cartografias da Consciência - Leitura e Correlações para o TSH]]. Imagem do caminho em espiral: `90 - Anexos/Mapas Conceituais/Mapa do TSH - Espiral, Eixo, Pêndulo e Espelho.png`; uso nas aulas em [[07 - Mapa do Caminho em Espiral - Como, Onde e Quando Entra nas Aulas]]. O mapa dos corpos com a linha entre o pessoal e o transpessoal: [[Elmer Green e Jan Val Ellam - O Pessoal e o Transpessoal no TSH]].
 
 ## 1. Duas direções que se encontram
 
@@ -92,6 +92,8 @@ Entre o sentir e o agir há um intervalo. O cérebro responde em 10 a 50 milisse
 
 O movimento da etapa: **perceber** o automatismo; **sustentar** o intervalo pela respiração, pelo corpo e pela regulação.
 
+**O primeiro sentido do espelho (decisão de Fabiano, 21/11/2026).** Aqui o espelho devolve o passado: o outro e a situação mostram o padrão (transferência em Freud e Cozolino; o "espelho das memórias passadas" de Goswami, p. 94). Ver [[A Espiral no TSH - Padrões que Voltam em Outro Nível]].
+
 ### Etapa 5 — A obra: o refinamento
 
 O que se percebeu e se sustentou agora se transforma. É a alquimia, a obra, a construção.
@@ -104,6 +106,8 @@ O que se percebeu e se sustentou agora se transforma. É a alquimia, a obra, a c
 ### Etapa 6 — A incorporação: o refinado volta ao sistema rápido
 
 O objetivo não é que o sistema lento passe a governar tudo, o que seria impossível e seria a fuga para cima do gnosticismo. É que o aprendido volte ao sistema rápido já transformado. Kahneman mostra que, com prática e retorno sobre os acertos, o que exigia esforço passa ao Sistema 1 e vira intuição treinada. No TSH, é a **competência incorporada**: o Eu Básico não é vencido, é reeducado. Na linguagem taoista, é a espontaneidade do *wu wei*, o agir sem esforço que vem do cultivo. No Jan, é o eu dignificado que passa a comandar o cérebro e os corpos sutis. No TSH, é o EIXO: reconhecer afastamento e reencontrar orientação, cada vez com menos esforço.
+
+**O segundo sentido do espelho (decisão de Fabiano, 21/11/2026).** No fim, a própria mente se torna espelho: reflete sem reter, como no Zhuangzi e na sabedoria semelhante ao espelho do budismo. Niebauer dá a tradução no olho da razão: perceber o intérprete sem se confundir com ele (*A ilusão do eu*, cap. 2).
 
 ### Etapa 7 — O retorno com aquisição
 

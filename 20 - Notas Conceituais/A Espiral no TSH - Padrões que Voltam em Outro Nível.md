@@ -93,7 +93,18 @@ Se o padrão volta para ser transformado, **o espelho é o que transforma a volt
 | Budismo Mahayana | a sabedoria semelhante ao espelho, que reflete tudo sem se apegar | contemplação |
 | Luria | as centelhas voltam a encarnar com as mesmas raízes, para corrigir o que ficou maculado | contemplação |
 
-**Proposta:** o espelho tem dois sentidos no caminho. No começo, é o espelho que **mostra o padrão** — o outro, a situação, a memória (Freud, Cozolino, Goswami). No fim, é a mente que **se torna espelho**: reflete sem reter (Zhuangzi, budismo). O primeiro espelho devolve o passado; o segundo deixa o presente passar sem acrescentar o passado. Entre os dois está a obra.
+### Os dois sentidos do espelho — decisão de Fabiano em 21/11/2026
+
+O espelho tem dois sentidos no caminho e passa a integrar o TSH assim:
+
+- **No começo, ele devolve o passado.** O outro e a situação mostram o padrão: a transferência em Freud e em Cozolino, e o "espelho das memórias passadas" de Goswami (*A física da alma*, p. 94).
+- **No fim, a própria mente se torna espelho.** Ela reflete sem reter, como no Zhuangzi e na "sabedoria semelhante ao espelho" do budismo.
+
+Entre os dois está a obra: cada volta da espiral leva o mesmo tema do primeiro espelho para mais perto do segundo. Pergunta de uso nas aulas: "o que este espelho me devolve do passado — e o que eu vejo quando não acrescento o passado?"
+
+**Fundamentação acrescentada (21/11/2026): Chris Niebauer, *A ilusão do eu*.** O "intérprete" do hemisfério esquerdo (Gazzaniga) fabrica explicações e julgamentos e os toma pela realidade; tornar-se consciente do intérprete libera de seus julgamentos e das reações corporais que eles disparam (cap. 2, p. 35 do PDF enviado por Fabiano). É uma tradução, no olho da razão, da passagem do primeiro para o segundo espelho: o primeiro é o intérprete projetando o passado; o segundo, a mente que vê o intérprete trabalhar sem se confundir com ele. **Cuidado:** a lateralização hemisférica em Niebauer é uma simplificação divulgativa; usar a ideia do intérprete (bem documentada nos estudos de cérebro dividido), não a divisão "esquerdo pensa, direito sente".
+
+Onde cada sentido acontece no mapa dos corpos: abaixo e acima da linha do corpo causal, em [[Elmer Green e Jan Val Ellam - O Pessoal e o Transpessoal no TSH]].
 
 ## Uma figura, três vistas: o Mapa do TSH
 
