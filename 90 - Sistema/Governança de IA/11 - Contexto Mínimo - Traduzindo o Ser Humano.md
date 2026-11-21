@@ -2,9 +2,17 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.32"
+versao: "0.33"
 atualizado_em: 2026-11-21
 ---
+
+## Autotranscendência, recursos e presença — incorporação solicitada em 21/11/2026
+
+Fabiano solicitou ampliar, fundamentar e incorporar ao TSH três núcleos: [experiências autotranscendentes no cotidiano](../Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#43-autotranscend%C3%AAncia-no-cotidiano-cultivo-corporal-rela%C3%A7%C3%A3o-e-espiritualidade), com admiração, gratidão, compaixão, elevação, quietude e pertencimento ao planeta; [demandas, recursos e capacidade disponível](../Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#44-demandas-recursos-e-capacidade-dispon%C3%ADvel-cultivar-tamb%C3%A9m-%C3%A9-organizar-condi%C3%A7%C3%B5es), incluindo aprendizagem, acesso, descanso, revisão de exigências e apoio; [sustentação, quietude e integração](../Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#45-sustenta%C3%A7%C3%A3o-quietude-e-integra%C3%A7%C3%A3o-diferen%C3%A7as-que-qualificam-a-presen%C3%A7a), com presença durante mudanças e acompanhamento dos efeitos no tempo.
+
+O [documento integral](../Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md) preserva a avaliação dos quatro anexos e contém o aprofundamento, [seis explorações com falas](../Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#46-explora%C3%A7%C3%B5es-para-desenvolver-nas-aulas-e-nos-encontros), [destinos exatos nas aulas](../Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#47-incorpora%C3%A7%C3%A3o-ao-percurso-e-continuidade-da-produ%C3%A7%C3%A3o) e [fontes conferidas](../Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#48-fontes-do-aprofundamento-e-alcance-da-fundamenta%C3%A7%C3%A3o). A [matriz de incorporação por aula](../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/10%20-%20Governan%C3%A7a%20do%20Conhecimento/06%20-%20Matriz%20Mestre%20de%20Incorpora%C3%A7%C3%A3o%20do%20Conte%C3%BAdo%20%C3%A0%20Estrutura%209-54.md), os cadernos de cultivo, os destinos de compaixão e os índices transversais apontam para os trechos. Recuperar por pertinência ao estruturar a aula, junto das outras fontes e decisões atuais.
+
+A inclusão dos núcleos é orientação de Fabiano; as composições práticas e redações são propostas de desenvolvimento. O eixo conserva seu sentido no TSH, e a Essência sua definição espiritual própria. As relações autonômicas não são medidas de realização espiritual nem demonstração de transmissão de campo energético. A experiência ampliada é acompanhada também por sentidos, condições, relações e participação posterior.
 
 ## Corpo, eixo, meridianos, bioeletricidade e Castellanos — 21/11/2026
 

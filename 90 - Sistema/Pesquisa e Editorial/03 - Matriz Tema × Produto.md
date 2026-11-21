@@ -6,6 +6,19 @@ criado_em: 2026-10-02
 atualizado_em: 2026-11-21
 ---
 
+## Autotranscendência, recursos e presença — reaproveitamento de 21/11/2026
+
+Fonte substantiva comum: [aprofundamento incorporado ao acervo](S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#43-autotranscend%C3%AAncia-no-cotidiano-cultivo-corporal-rela%C3%A7%C3%A3o-e-espiritualidade).
+
+| Frente | Recuperação pertinente |
+| --- | --- |
+| TSH | [Destinos nas aulas](S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#47-incorpora%C3%A7%C3%A3o-ao-percurso-e-continuidade-da-produ%C3%A7%C3%A3o), [explorações](S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#46-explora%C3%A7%C3%B5es-para-desenvolver-nas-aulas-e-nos-encontros), recursos, cultivo, espiritualidade, relações e continuidade. |
+| AISB / artigos | [Condições e disponibilidade](S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#44-demandas-recursos-e-capacidade-dispon%C3%ADvel-cultivar-tamb%C3%A9m-%C3%A9-organizar-condi%C3%A7%C3%B5es); experiência, sentido e participação; distinção entre relato, contexto e medida fisiológica. |
+| Arquitetura Invisível | [Sustentação e integração](S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#45-sustenta%C3%A7%C3%A3o-quietude-e-integra%C3%A7%C3%A3o-diferen%C3%A7as-que-qualificam-a-presen%C3%A7a), campo, reserva, expressão e retorno com aquisição. |
+| CEEP / capítulo | [Autotranscendência cotidiana](S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#43-autotranscend%C3%AAncia-no-cotidiano-cultivo-corporal-rela%C3%A7%C3%A3o-e-espiritualidade); abertura, discernimento e integração ao longo do tempo. |
+
+As [fontes e seus alcances](S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#48-fontes-do-aprofundamento-e-alcance-da-fundamenta%C3%A7%C3%A3o) acompanham o reaproveitamento. Selecionar conforme a produção; a relação não exige transportar a sequência das aulas para outros produtos.
+
 ## Corpo, eixo e experiência — contribuição preservada em 21/11/2026
 
 Fonte comum: [Corpo, eixo, meridianos, bioeletricidade e experiência](S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md). O documento conserva análise e localizadores; esta tabela localiza o reaproveitamento.

@@ -6,6 +6,16 @@ registro: 2026-11-01
 atualizado_em: 2026-11-21
 ---
 
+## Corpo, disponibilidade e autotranscendência — aprofundamento de 21/11/2026
+
+Fabiano solicitou incorporar [autotranscendência cotidiana](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#43-autotranscend%C3%AAncia-no-cotidiano-cultivo-corporal-rela%C3%A7%C3%A3o-e-espiritualidade), [demandas e recursos](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#44-demandas-recursos-e-capacidade-dispon%C3%ADvel-cultivar-tamb%C3%A9m-%C3%A9-organizar-condi%C3%A7%C3%B5es) e [sustentação, quietude e integração](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#45-sustenta%C3%A7%C3%A3o-quietude-e-integra%C3%A7%C3%A3o-diferen%C3%A7as-que-qualificam-a-presen%C3%A7a). Essas relações aprofundam a pergunta sobre como o corpo participa do que fica acessível e de como a experiência pode ser cultivada, reconhecida e expressa.
+
+O diálogo com Varela e Castellanos permanece na participação corporificada e no refinamento da percepção. Dana acrescenta oportunidades concretas de abertura, recebimento e cuidado; a reflexão sobre recursos inclui a diferença entre desenvolver uma capacidade e criar condições para utilizá-la.
+
+A observação corporal não determina sozinha o sentido da experiência. A integração pode ser acompanhada nas interpretações, relações, escolhas e condições ao longo do tempo. O horizonte espiritual do TSH conserva sua formulação própria; nenhum marco neuronal ou estado autonômico é tomado como definição da Essência.
+
+[Explorações](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#46-explora%C3%A7%C3%B5es-para-desenvolver-nas-aulas-e-nos-encontros), [destinos por aula](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#47-incorpora%C3%A7%C3%A3o-ao-percurso-e-continuidade-da-produ%C3%A7%C3%A3o) e [fontes](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#48-fontes-do-aprofundamento-e-alcance-da-fundamenta%C3%A7%C3%A3o) permitem recuperar o aprofundamento junto das contribuições já registradas nesta nota.
+
 ## Corpo, eixo e experiência — incorporação de 21/11/2026
 
 [Corpo, eixo, meridianos, bioeletricidade e experiência](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md) reúne o documento integral e aprofunda esta nota e os registros de 13/11. Nas [seções 29–34](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#29-castellanos-material-dispon%C3%ADvel-e-continuidade-j%C3%A1-existente-no-tsh), recuperar: condições corporais do perceber; primeira pessoa; vários tempos do organismo; sensação/descrição/interpretação; relação com raiz, eixo e amplitude.

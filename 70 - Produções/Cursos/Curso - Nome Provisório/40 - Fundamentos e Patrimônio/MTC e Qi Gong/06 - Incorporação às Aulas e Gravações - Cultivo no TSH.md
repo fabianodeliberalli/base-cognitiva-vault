@@ -3,8 +3,20 @@ tipo: caderno-de-incorporacao-a-producao
 projeto: Traduzindo o Ser Humano
 status: versao-de-trabalho
 criado_em: 2026-11-13
-atualizado_em: 2026-11-16
+atualizado_em: 2026-11-21
 ---
+
+## Ampliação para aulas e roteiros — autotranscendência, recursos e integração — 21/11/2026
+
+Fabiano solicitou incorporar estes núcleos à construção das aulas. O [desenvolvimento integral e a distribuição atual](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#47-incorpora%C3%A7%C3%A3o-ao-percurso-e-continuidade-da-produ%C3%A7%C3%A3o) orientam a seleção; as [seis explorações](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#46-explora%C3%A7%C3%B5es-para-desenvolver-nas-aulas-e-nos-encontros) oferecem falas e elaboração para composição dos encontros.
+
+**Corpo e recursos — sobretudo M1.2/M1.7 e M3.3/M3.7.** “Às vezes precisamos aprender algo; em outras, reencontrar um recurso que já existe. Também há momentos em que precisamos descansar, rever uma exigência ou buscar apoio. Reconhecer essa diferença faz parte do cultivo.” Desenvolver com uma situação fictícia e a exploração de [demandas e condições](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#465-o-que-precisa-de-cultivo-e-o-que-precisa-de-condi%C3%A7%C3%A3o). Fundamentos na [seção 44](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#44-demandas-recursos-e-capacidade-dispon%C3%ADvel-cultivar-tamb%C3%A9m-%C3%A9-organizar-condi%C3%A7%C3%B5es).
+
+**Valores, quietude e espiritualidade — sobretudo M5.2 e M5.4–M5.8.** “Algo simples pode nos fazer olhar de novo, reconhecer o que recebemos ou despertar vontade de cuidar. Podemos acompanhar como isso acontece no corpo, que sentido encontra e como desejamos participar a partir daí.” Recuperar o [desenvolvimento das experiências](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#43-autotranscend%C3%AAncia-no-cotidiano-cultivo-corporal-rela%C3%A7%C3%A3o-e-espiritualidade) e selecionar uma exploração, sem exigir que todos sintam a mesma coisa.
+
+**Integração, relações e continuidade — M6/M7/M8.** “A experiência pode continuar encontrando sentido depois que a prática termina. Podemos observar o que ficou mais reconhecível, o que se tornou possível e o que ainda pede apoio.” A [seção 45](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#45-sustenta%C3%A7%C3%A3o-quietude-e-integra%C3%A7%C3%A3o-diferen%C3%A7as-que-qualificam-a-presen%C3%A7a) distingue sustentação, quietude e integração; a [seção 47](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#47-incorpora%C3%A7%C3%A3o-ao-percurso-e-continuidade-da-produ%C3%A7%C3%A3o) identifica os destinos exatos.
+
+No slide, selecionar a ideia que organiza o exemplo. No roteiro, desenvolver a ligação com a aula; no material do participante, usar o registro já disponível de percepção, expressão e retorno. As referências e precisões ficam no [caderno de fundamentação](04%20-%20Caderno%20de%20Fundamenta%C3%A7%C3%A3o%20-%20Cultivo%20Medita%C3%A7%C3%A3o%20Prana%20e%20Circula%C3%A7%C3%A3o.md) e na [seção 48 do documento](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#48-fontes-do-aprofundamento-e-alcance-da-fundamenta%C3%A7%C3%A3o). O registro disponibiliza conteúdo e propostas; a produção dos arquivos finais continua na frente específica de cada aula.
 
 ## Naranjo — meditação, relação e música na montagem — 16/11/2026
 

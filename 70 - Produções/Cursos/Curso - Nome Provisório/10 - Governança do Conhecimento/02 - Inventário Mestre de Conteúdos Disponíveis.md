@@ -3,12 +3,22 @@ tipo: inventario-mestre-conteudos
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: referencia-de-busca-revisavel
-versao: "1.9"
+versao: "1.10"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-21
 atualizado_em: 2026-11-21
 relacionado_a: 01 - Reconciliação da Governança do Conhecimento e Disponibilidade do Acervo
 ---
+
+## Dana, recursos e presença — incorporação de 21/11/2026
+
+O [documento integral](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md) passa a reunir a avaliação dos quatro anexos (seções 36–42) e os aprofundamentos escolhidos por Fabiano (43–48): [experiências autotranscendentes](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#43-autotranscend%C3%AAncia-no-cotidiano-cultivo-corporal-rela%C3%A7%C3%A3o-e-espiritualidade); [demandas, recursos e capacidade disponível](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#44-demandas-recursos-e-capacidade-dispon%C3%ADvel-cultivar-tamb%C3%A9m-%C3%A9-organizar-condi%C3%A7%C3%B5es); [sustentação, quietude e integração](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#45-sustenta%C3%A7%C3%A3o-quietude-e-integra%C3%A7%C3%A3o-diferen%C3%A7as-que-qualificam-a-presen%C3%A7a).
+
+Os PDFs de Apigian, Bueno, Dana e Stephen/Seth Porges já constam em 80 - Fontes Bibliográficas; não foi criada outra cópia. O documento diferencia a contribuição de cada obra e mantém suas precisões de fundamentação. A ampliação selecionada recupera especialmente o capítulo 10 de Dana e a investigação de recursos e condições, em diálogo com as fontes do TSH.
+
+Busca por conteúdo: admiração/maravilhamento; gratidão/receber; compaixão; elevação; quietude; pertencimento ao planeta; reserva/alostase; sobrecarga/recuperação; disponibilidade; apoio externo; presença com ativação; integração no tempo.
+
+Recuperação para produção: [consulta por aula](06%20-%20Matriz%20Mestre%20de%20Incorpora%C3%A7%C3%A3o%20do%20Conte%C3%BAdo%20%C3%A0%20Estrutura%209-54.md), [seis explorações com falas](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#46-explora%C3%A7%C3%B5es-para-desenvolver-nas-aulas-e-nos-encontros), [destinos completos](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#47-incorpora%C3%A7%C3%A3o-ao-percurso-e-continuidade-da-produ%C3%A7%C3%A3o), [fundamentação e estudos primários](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#48-fontes-do-aprofundamento-e-alcance-da-fundamenta%C3%A7%C3%A3o). Usar o trecho pertinente junto dos materiais da aula.
 
 ## Corpo, eixo, meridianos, bioeletricidade e experiência — 21/11/2026
 
