@@ -45,3 +45,9 @@ Este mapa pode contribuir apenas segundo sua função específica. Não constitu
 > Algum EIXO favorece a tradução; traduzir pode fortalecer o EIXO.
 
 Integração, expressão e contribuição são resultados progressivos possíveis do percurso; não consequências automáticas nem promessas universais.
+
+## Aprofundamento temporal e existencial — registro de 21/11/2026
+
+Consultar [[90 - Sistema/Pesquisa e Editorial/Sínteses Transversais/Experiência espiritual e integração na vida|Experiência espiritual e integração na vida]] ao desenvolver o modelo e suas relações com CEEP, TSH, capítulo e Arquitetura Invisível, conforme pedido de Fabiano. A seção “O modelo neurobiológico relacional e a dimensão temporal” recupera os três níveis e os eixos do TCC e propõe acompanhar efeitos imediatos, continuidade e participação em situações sucessivas.
+
+A dimensão temporal/existencial é proposta transversal, sem constituir um quarto nível biológico ou uma alteração do trabalho acadêmico. O ensaio diferencia experiência relacional, coordenação comportamental e medidas fisiológicas/neurais, e oferece referências e perguntas para aprofundamento. A figura e as formulações anteriores desta ficha preservam sua origem; as menções históricas a Método EIXO devem ser lidas à luz do [[90 - Sistema/Governança de IA/11 - Contexto Mínimo - Traduzindo o Ser Humano|contexto atual do TSH]], em que eixo é recurso didático.

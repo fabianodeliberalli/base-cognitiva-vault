@@ -6,9 +6,16 @@ status: referencia-de-busca-revisavel
 versao: "1.8"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-21
-atualizado_em: 2026-11-16
+atualizado_em: 2026-11-21
 relacionado_a: 01 - Reconciliação da Governança do Conhecimento e Disponibilidade do Acervo
 ---
+
+## Experiência espiritual e integração na vida — 21/11/2026
+
+[[90 - Sistema/Pesquisa e Editorial/Sínteses Transversais/Experiência espiritual e integração na vida|Experiência espiritual e integração na vida]] reúne o texto integral de síntese, Word e PDF de 24 páginas, 47 verbetes de glossário e referências. Consulta futura solicitada por Fabiano para trabalhos pertinentes. Articula intensidade/mudança/continuidade/integração; consciência e abertura ontológica; tradução e significado; Essência e singularidade; corpo, cultivo, autonomia, ressonância, relações e reparação. Recupera o percurso da monografia de MTC, da pós em Psicologia Transpessoal e do TCC neurobiológico-relacional.
+
+Ao elaborar aulas, práticas, textos de apoio ou aprofundamentos, ler os trechos relacionados à pergunta atual e avaliar sua contribuição para percepção, diferenciação, participação, acesso, cultivo e expressão. A seção “Desenvolvimento do Traduzindo o Ser Humano” indica usos; as demais seções aproximam CEEP, capítulo e Arquitetura Invisível. A dimensão temporal transversal do modelo e a definição de integração são propostas de ampliação, sem alteração automática do TCC ou das aulas.
+
 
 ## Naranjo — análise, práticas relacionais e música — 16/11/2026
 
