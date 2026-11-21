@@ -247,13 +247,20 @@ O diferencial não está na ideia de um intervalo, que é antiga, mas na consequ
 - `Imported/ABBSP - março 26 DEFINITIVO.md` (slides 60–63, 70, 81–82, 97–102).
 - [[Meio Segundo Vital - Transe que Não se Escolhe e os Três Eus]]; [[Huna - Max Freedom Long e Serge King nos Três Eus]]; [[Self, Essência, Alma, Eu Superior e Fontes Integrais]]; [[Léxico Mestre do Traduzindo o Ser Humano]].
 
-**Citados de memória, a conferir antes de uso em material do aluno**
-- Chalmers D. Facing up to the problem of consciousness. *Journal of Consciousness Studies*, 1995.
-- James W. *Human Immortality*, 1898.
+**Conferidas em 20/11/2026**
+- Chalmers DJ. Facing up to the problem of consciousness. *Journal of Consciousness Studies*. 1995;2(3):200–219. O "problema difícil" é o problema da experiência.
+- James W. *Human Immortality: Two Supposed Objections to the Doctrine*. Boston: Houghton Mifflin; 1898. Defende que a dependência entre mente e cérebro não decide se o cérebro produz a consciência ou a transmite e limita (teoria da transmissão).
+- Washburn M. *The Ego and the Dynamic Ground: A Transpersonal Theory of Human Development*. Albany: SUNY Press; 1988 (2. ed. 1995). Desenvolvimento em espiral, de partida e retorno superior ao Fundamento Dinâmico; cap. 7, "Regression in the Service of Transcendence".
+- Brass M, Haggard P. To do or not to do: the neural signature of self-control. *Journal of Neuroscience*. 2007;27(34):9141–9145. Região do córtex frontomedial dorsal associada à decisão intencional de não agir.
+- Nader K, Schafe GE, LeDoux JE. Fear memories require protein synthesis in the amygdala for reconsolidation after retrieval. *Nature*. 2000;406:722–726. Memórias consolidadas, quando reativadas, voltam a um estado instável.
+
+**A conferir na edição antes do material do aluno**
 - Huxley A. *As portas da percepção*, 1954.
-- Washburn M. *The Ego and the Dynamic Ground*, 1988.
 - Schrödinger E. *O que é vida?*, 1944.
-- Nader K, Schafe G, LeDoux J. *Nature*, 2000.
-- Brass M, Haggard P. Trabalhos de 2007 e 2008 sobre inibição intencional.
 - Welwood J. *Toward a Psychology of Awakening*, 2000.
 - *Tao Te Ching*, cap. 40.
+
+**Notas que desenvolvem esta**
+- [[O Caminho de Descida, Subida e Retorno com Aquisição]] — o caminho em etapas, para direcionar materiais e aulas.
+- [[Kahneman e Cozolino - Dois Sistemas e o Meio Segundo no TSH]].
+- [[Jan Val Ellam - Os Sete Corpos - Mapa e Ampliações para o TSH]].

@@ -91,3 +91,5 @@ A correspondência é **funcional**, não anatômica. Os Três Eus são um mapa 
 - [[03 - Estados de Transe Sugestão e Reprogramação - Perspectiva de Fabiano]]
 - [[07 - Referenciais por Autor - Índice por Aula e Etapa]]
 - [[Quatro Passos da Mudança - Metapadrão e Lei de Hebb no TSH]] (a Lei de Hebb explica por que a trilha mais usada se repete e como os quatro passos abrem outra)
+- [[Kahneman e Cozolino - Dois Sistemas e o Meio Segundo no TSH]] (20/11/2026: o que Kahneman acrescenta ao meio segundo — o Sistema 1 não desliga, o Sistema 2 economiza esforço, o familiar parece verdadeiro e a intuição treinada devolve o aprendido ao sistema rápido; o que não usar como evidência)
+- [[O Caminho de Descida, Subida e Retorno com Aquisição]] (o meio segundo como a virada do caminho)
