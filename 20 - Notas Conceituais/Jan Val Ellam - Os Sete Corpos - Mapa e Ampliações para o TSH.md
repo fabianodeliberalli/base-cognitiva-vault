@@ -72,6 +72,8 @@ Registro pedido por Fabiano em 20/11/2026. Consolida a análise do vídeo feita 
 
 Correspondência com os níveis da alma em Luria (o átmico intocado ao lado de Chaiá e Iechidá; os corpos inferiores que carregam o que precisa de correção ao lado da Néfesh; o Paraíso B ao lado do *Tikun*): [[Luria - Néfesh, Rúach, Neshamá, Tikun, Descida e Retorno no TSH]].
 
+**Cópia integral do documento de leitura** (versão com as edições de Fabiano, 21/11/2026): [[Jan Val Ellam - Os Sete Corpos - Documento Integral]].
+
 A mesma divisão entre o quaternário inferior e a tríade imortal aparece no mapa de Elmer Green, que separa o pessoal do transpessoal pelo corpo causal: [[Elmer Green e Jan Val Ellam - O Pessoal e o Transpessoal no TSH]] (documento de leitura: https://claude.ai/artifact/EFuT8nSZfrrSX68ge1TcaB).
 
 O desenvolvimento dessas ampliações está em [[O Caminho de Descida, Subida e Retorno com Aquisição]] e [[Consciência no TSH - Origem, Círculo e o Espaço entre Sentir e Agir]].
