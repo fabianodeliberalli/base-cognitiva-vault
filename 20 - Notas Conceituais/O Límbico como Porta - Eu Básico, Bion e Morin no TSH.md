@@ -50,6 +50,17 @@ A leitura resolve a contradição **com uma condição: "origem" passa a signifi
 3. **O Eu Básico é o espelho do começo.** Ele devolve o passado (memória, transferência). Quando a tradução é feita, a mesma estrutura que repetia o passado vira porta. Ver os dois sentidos do espelho em [[A Espiral no TSH - Padrões que Voltam em Outro Nível]].
 4. **A tradução "pode ser feita ou não".** Sem tradução, a experiência fica como emoção bruta: sintoma, angústia, terror sem nome, ou uma experiência espiritual que não se integra. Com tradução, vira imagem, sentimento e palavra — e pode ser elaborada. É aqui que o nome do projeto, *Traduzindo o Ser Humano*, encontra uma fundamentação precisa.
 
+**Registro literal pedido por Fabiano (21/11/2026):**
+
+> O eu inferior culpado sente-se envergonhado. Long o compara a "uma criança mal comportada que evita a presença dos pais" e diz que ele recusa o contato com o Eu Superior. Os kahunas chamavam isso de "bloqueamento do caminho" (cap. XVII, pp. 294–296).
+>
+> - Toda premonição vem do Eu Superior através do eu inferior (cap. IX, p. 168).
+> - Long acrescenta um ponto clinicamente importante: o Eu Superior consegue forçar o contato, e a maioria de nós "abre a porta à ajuda" quando está doente ou em perigo (cap. XVIII, p. 314). Isso liga a porta à ideia de crise como abertura, que a aula de Fabiano para a ABBSP trabalha com a emergência espiritual.
+
+Fonte: Max Freedom Long, *O Milagre da Ciência Secreta* (Grupo Editorial Monismo; PDF enviado por Fabiano em 21/11/2026).
+
+Prática de cuidado do Eu Básico: [[Processo 3-2-1 - Cuidado do Eu Básico e Diálogo com a Parte Culpada]].
+
 ## Bion no TSH
 
 Wilfred Bion, psicanalista britânico, descreveu como a mente se forma para pensar emoções que, sem isso, seriam insuportáveis.
@@ -100,4 +111,5 @@ Edgar Morin, sociólogo e filósofo francês, propôs o pensamento complexo cont
 - Localizar em *Espiritualidade Integral* (Wilber) a passagem sobre Buda e Freud.
 - Conferir as páginas de Bion e Morin nas edições em português.
 - ~~Decidir se entra no mapa e no Léxico~~ — decidido por Fabiano em 21/11/2026: registrado no [[Mapa Funcional Transversal dos Três Eus]] e no verbete Eu Básico do [[Léxico Mestre do Traduzindo o Ser Humano]].
-- Fabiano confirma a articulação proposta: primeira tradução no Eu Básico (corpo → imagem), segunda no Eu Médio (imagem → palavra).
+- ~~Confirmar a articulação dos dois tempos da tradução~~ — confirmada por Fabiano em 21/11/2026: o Eu Básico capta, sente e traduz energia, emoção, campo; o Eu Médio é intelectual, razão, defesa, ego.
+- Todas as pendências do ciclo: [[2026-11-21 - Pendências - Espiral, Corpos, Límbico e Fontes]].

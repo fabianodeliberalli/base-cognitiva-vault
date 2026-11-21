@@ -12,6 +12,10 @@ incorporado_em: 2026-10-31
 Fabiano retirou as restrições que este documento aplicava à hipnose e à auto-hipnose: o lugar único em M8, o "opcional condicionado", a dependência de protocolo próprio, P6 e piloto e a exclusão de regressão, amnésia, analgesia e recuperação de lembranças. Esses limites vinham de estruturações anteriores. Hipnose e auto-hipnose ficam disponíveis para qualquer módulo e camada, avaliadas pelo valor que acrescentam ao TSH e respaldadas pela formação e pela docência de Fabiano. Permanecem como cuidados de condução, e não como restrição curricular: não praticar dirigindo; omitir ou adaptar diante de psicose ou mania aguda, dissociação grave ou trauma desestabilizado. Os trechos abaixo foram ajustados e marcados com a data. Avaliação, inventário e destinos: [[00 - Hipnose e Auto-Hipnose no TSH - Decisão Avaliação e Destinos]].
 
 
+## Processo 3-2-1 de Wilber — 21/11/2026
+
+Encarar, falar com ela, ser ela: prática de cuidado do Eu Básico e de diálogo com a parte culpada. Destinos principais M4.5, M4.6, M5.3, M5.4, M7.2–M7.4 e M7.8. Ver [[Processo 3-2-1 - Cuidado do Eu Básico e Diálogo com a Parte Culpada]].
+
 ## Práticas vindas dos referenciais por autor — 19/11/2026
 
 Disponíveis para as aulas, com crédito de origem e correlação com o material de Fabiano; ver [[07 - Referenciais por Autor - Índice por Aula e Etapa]]:

@@ -37,6 +37,15 @@ A correspondência com os dois sistemas de Cozolino está em [[Meio Segundo Vita
 
 **Leitura de Fabiano (21/11/2026):** o Eu Básico "chora, mas não sabe falar"; fala por símbolos e memórias. Para os kahunas, o eu inferior é a porta para o Aumakua; traumatizado ou bloqueado, fica "envergonhado" de contatar o Eu Superior (conferido em Long: cap. XVII, pp. 291–296 — o eu inferior culpado evita o Eu Superior "como uma criança mal comportada" e o caminho se bloqueia; cap. XVIII, p. 314; e p. 168, toda premonição vem do Eu Superior através do eu inferior). Desenvolvimento: [[O Límbico como Porta - Eu Básico, Bion e Morin no TSH]].
 
+**Registro literal pedido por Fabiano (21/11/2026):**
+
+> O eu inferior culpado sente-se envergonhado. Long o compara a "uma criança mal comportada que evita a presença dos pais" e diz que ele recusa o contato com o Eu Superior. Os kahunas chamavam isso de "bloqueamento do caminho" (cap. XVII, pp. 294–296).
+>
+> - Toda premonição vem do Eu Superior através do eu inferior (cap. IX, p. 168).
+> - Long acrescenta um ponto clinicamente importante: o Eu Superior consegue forçar o contato, e a maioria de nós "abre a porta à ajuda" quando está doente ou em perigo (cap. XVIII, p. 314). Isso liga a porta à ideia de crise como abertura, que a aula de Fabiano para a ABBSP trabalha com a emergência espiritual.
+
+Fonte: Max Freedom Long, *O Milagre da Ciência Secreta* (Grupo Editorial Monismo; PDF enviado por Fabiano em 21/11/2026).
+
 ## As duas linguagens lado a lado
 
 | TSH (Fabiano) | Max Freedom Long (1948) | Serge Kahili King | Função |
