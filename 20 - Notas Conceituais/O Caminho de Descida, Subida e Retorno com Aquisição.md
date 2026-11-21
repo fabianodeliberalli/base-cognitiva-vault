@@ -27,6 +27,8 @@ Este texto organiza essa formulação em etapas, com a fundamentação reunida n
 
 **O caminho é uma espiral (decisão de Fabiano, 21/11/2026).** As etapas abaixo não são degraus: voltam ao longo da vida, em outros níveis, em torno do eixo. Cada volta de um padrão é ocasião da obra. Ver [[A Espiral no TSH - Padrões que Voltam em Outro Nível]].
 
+**Nas Cartografias da Consciência de Fabiano,** as Visões de Mundo 1 (só subida) e 2 (só descida, a queda) de Wilber já estão nos slides 31–33, e o slide 30 está vazio: é o lugar da terceira visão, que integra as duas — este caminho. Ver [[Cartografias da Consciência - Leitura e Correlações para o TSH]]. Imagem do caminho em espiral: `90 - Anexos/Mapas Conceituais/Mapa do TSH - Espiral, Eixo, Pêndulo e Espelho.png`.
+
 ## 1. Duas direções que se encontram
 
 O caminho tem dois movimentos, vistos por olhos diferentes:
