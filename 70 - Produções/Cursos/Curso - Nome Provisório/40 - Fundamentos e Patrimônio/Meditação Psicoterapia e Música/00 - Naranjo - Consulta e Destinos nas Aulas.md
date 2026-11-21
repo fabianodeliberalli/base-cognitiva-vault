@@ -97,3 +97,7 @@ Para produzir uma aula: localizar a questão na seção 3, abrir o trecho da an�
 ## 5. Estado do registro
 
 Disponíveis: análise integral em texto; PDF diagramado; referência identificada do original; seis propostas práticas; desenvolvimento específico de música; fontes, localizadores e vínculos curriculares. O registro não atesta alteração dos vídeos, PowerPoints, roteiros finais ou materiais já publicados. O próximo uso é a seleção substantiva durante a montagem de cada aula ou encontro.
+
+## Levitin — consulta complementar — 21/11/2026
+
+[A avaliação de Levitin](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#55-levitin-m%C3%BAsica-como-condi%C3%A7%C3%A3o-de-acesso-aprendizagem-e-express%C3%A3o) e [a ampliação da nota de música](03%20-%20Naranjo%20-%20M%C3%BAsica%20Escuta%20e%20Integra%C3%A7%C3%A3o.md) aprofundam escolha, familiaridade, contexto e efeitos na elaboração, sem duplicar as cinco propostas desenvolvidas com Naranjo. Original disponível em [A cura pela música](../../80%20-%20Fontes%20Bibliogr%C3%A1ficas/A%20cura%20pela%20musica%20-%20Daniel%20J.%20Levitin.pdf).

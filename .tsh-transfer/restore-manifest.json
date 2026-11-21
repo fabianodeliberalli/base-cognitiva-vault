@@ -1,0 +1,295 @@
+{
+  "branch": "conteudo/tsh-arvore-imaginacao-fontes-2026-11-21",
+  "files": [
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/A Neurociencia da Hipnose - Pedro Ivo.pdf",
+      "size": 10695312,
+      "sha256": "4fa636ae07d2e23794d757236756c9f0628add1dcaab1d539df30337961eb5f6",
+      "parts": [
+        {
+          "path": ".tsh-transfer/objects/c9a77819397a252dfe9c7ff53c8dcdafd2322c9a.part001.bin",
+          "sha256": "abd482faaaa07ef58d114cb2847021393fcd04ef3162802759cd395d77e8160e"
+        },
+        {
+          "path": ".tsh-transfer/objects/c9a77819397a252dfe9c7ff53c8dcdafd2322c9a.part002.bin",
+          "sha256": "0e86a4ec3bbae2fe137ae3e8891c1f6493be1b1d4085ea936619ac1dcfe42882"
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Acervo CEMETC - Acupuntura Bioenergética/06 - Cadernos OneNote/Acupuntura Bioenergética - OBESIDAD-FLEUMA.one",
+      "size": 32993544,
+      "sha256": "f980e042d47d3a97e6adf6f88381103638f84eb61d189e16a37baba0f276d848",
+      "parts": [
+        {
+          "path": ".tsh-transfer/objects/12deb5a4a563b895404b6e0bad424985249d56de.part001.bin",
+          "sha256": "11256514494e666dc63d6d6749d1306e8cf2f51b4b7a813a93a8ee9fa25e5040"
+        },
+        {
+          "path": ".tsh-transfer/objects/12deb5a4a563b895404b6e0bad424985249d56de.part002.bin",
+          "sha256": "3f094d4212b1a8eeda16ddbe6b8d0d58ad9c6fa5d00a9ad2a69002167095ef95"
+        },
+        {
+          "path": ".tsh-transfer/objects/12deb5a4a563b895404b6e0bad424985249d56de.part003.bin",
+          "sha256": "966b0d6e90f2d031b432a183e4415928999dc2e944bd26d6136d7b0bae8314ed"
+        },
+        {
+          "path": ".tsh-transfer/objects/12deb5a4a563b895404b6e0bad424985249d56de.part004.bin",
+          "sha256": "305268a2e72e16de436fc519695ff3fa7af62851bf11dad41a7f0161163b1681"
+        },
+        {
+          "path": ".tsh-transfer/objects/12deb5a4a563b895404b6e0bad424985249d56de.part005.bin",
+          "sha256": "bde8656b360478ea9abb734f021cac7c6207646d3e8a144a9279bd76acd51007"
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Acervo CEMETC - Acupuntura Bioenergética/06 - Cadernos OneNote/Acupuntura Bioenergética 2.one",
+      "size": 34854736,
+      "sha256": "e3e2077ac880496f2e664a632d66a51743ea732a4ad6f3ffd97b4695596243c1",
+      "parts": [
+        {
+          "path": ".tsh-transfer/objects/d0423d385b02e17148b3373fb2f60a6b9ab57429.part001.bin",
+          "sha256": "2e13f1cd6951adc2323bf760da466c774fe4257abca5a3e5cb5bd294c5f9decd"
+        },
+        {
+          "path": ".tsh-transfer/objects/d0423d385b02e17148b3373fb2f60a6b9ab57429.part002.bin",
+          "sha256": "ac5eb6bc1ff6449c130753e325dca3af9e732916b404c38ffe09e943d8c651c3"
+        },
+        {
+          "path": ".tsh-transfer/objects/d0423d385b02e17148b3373fb2f60a6b9ab57429.part003.bin",
+          "sha256": "7c8bf3cb7bd509550c14ea66092dab4ee318deeef3e7f9fe5387997fb3e64d43"
+        },
+        {
+          "path": ".tsh-transfer/objects/d0423d385b02e17148b3373fb2f60a6b9ab57429.part004.bin",
+          "sha256": "cb71fe94097c96ee3318b4c805ddcd325b432f4f90bc5befed4b7d7bab33053e"
+        },
+        {
+          "path": ".tsh-transfer/objects/d0423d385b02e17148b3373fb2f60a6b9ab57429.part005.bin",
+          "sha256": "f7777db8812716394d82664fd4876228314dcf94d10872d35cd9b333819a6a2a"
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Acervo CEMETC - Acupuntura Bioenergética/06 - Cadernos OneNote/Acupuntura Bioenergética 3.one",
+      "size": 33149912,
+      "sha256": "38a5012acb2c7aa5f82dc0364782f7cab85b37b0fdd167d2049a57d651a8dea5",
+      "parts": [
+        {
+          "path": ".tsh-transfer/objects/33120571a84477271574bc8212850abb646e05a6.part001.bin",
+          "sha256": "18fe44ab2ec0f75b231d6b7fbce17ec15d06b6e6f5db2da75bbc4d2bf414d44f"
+        },
+        {
+          "path": ".tsh-transfer/objects/33120571a84477271574bc8212850abb646e05a6.part002.bin",
+          "sha256": "33f652a83400858033e23f7f7bac8207c521ab9b99078a8e0d7b21aab90228b9"
+        },
+        {
+          "path": ".tsh-transfer/objects/33120571a84477271574bc8212850abb646e05a6.part003.bin",
+          "sha256": "58bb7f625124aae04703239809e88dc58b62d6c0f8fe8a485282fe9ff828a6df"
+        },
+        {
+          "path": ".tsh-transfer/objects/33120571a84477271574bc8212850abb646e05a6.part004.bin",
+          "sha256": "2f8a14615e36e8b7cc972bf9c97d11f96dc25c87f7499d819b24db1d26bd7390"
+        },
+        {
+          "path": ".tsh-transfer/objects/33120571a84477271574bc8212850abb646e05a6.part005.bin",
+          "sha256": "edc3660da86599e4525dd9bc8a1446c3a5b6b3472a65a1e6a0cb18b6ab8cf426"
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Acervo CEMETC - Acupuntura Bioenergética/06 - Cadernos OneNote/Acupuntura Bioenergética 4.one",
+      "size": 33149912,
+      "sha256": "9f8b374e0ffbc1409700d4a3ebdb880aae7c3ea22450119289364d0c63ca69f6",
+      "parts": [
+        {
+          "path": ".tsh-transfer/objects/99690230d02fe047997ed3b06fb9cd09b8650b2b.part001.bin",
+          "sha256": "7fd078e11c5365ebc1e5d0997c81870f0eb334e6a3023ca66b8ca13b28c89e4d"
+        },
+        {
+          "path": ".tsh-transfer/objects/99690230d02fe047997ed3b06fb9cd09b8650b2b.part002.bin",
+          "sha256": "ff988062bd83a4fcfac42c7b1debbef62480e02e1428cfd175999abe380e181a"
+        },
+        {
+          "path": ".tsh-transfer/objects/99690230d02fe047997ed3b06fb9cd09b8650b2b.part003.bin",
+          "sha256": "58bb7f625124aae04703239809e88dc58b62d6c0f8fe8a485282fe9ff828a6df"
+        },
+        {
+          "path": ".tsh-transfer/objects/99690230d02fe047997ed3b06fb9cd09b8650b2b.part004.bin",
+          "sha256": "653b6d6983db219dc90939ca0aaa22a23fd13a702ba45581ed69f3427601665b"
+        },
+        {
+          "path": ".tsh-transfer/objects/99690230d02fe047997ed3b06fb9cd09b8650b2b.part005.bin",
+          "sha256": "5dd5ca6bc76cc0519c3164764ce3e1456a9515f6f9f37f26d909ae16b108095f"
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Acervo CEMETC - Acupuntura Bioenergética/06 - Cadernos OneNote/Acupuntura Bioenergética.one",
+      "size": 33149912,
+      "sha256": "f0b95b61172e460d41b665f049842f787b6edc205101efe8620d5c7407fdf558",
+      "parts": [
+        {
+          "path": ".tsh-transfer/objects/c8a6c340720d442b6389921ce11c9e023395949e.part001.bin",
+          "sha256": "12be0952f021c73d69776a5ade29fee6a4b6c71f87badd5aab3ebbf34b061e34"
+        },
+        {
+          "path": ".tsh-transfer/objects/c8a6c340720d442b6389921ce11c9e023395949e.part002.bin",
+          "sha256": "37e28da6cce01c066ded62f267faf9c8e78fcc7c4c0b4017090de8d4089c3151"
+        },
+        {
+          "path": ".tsh-transfer/objects/c8a6c340720d442b6389921ce11c9e023395949e.part003.bin",
+          "sha256": "58bb7f625124aae04703239809e88dc58b62d6c0f8fe8a485282fe9ff828a6df"
+        },
+        {
+          "path": ".tsh-transfer/objects/c8a6c340720d442b6389921ce11c9e023395949e.part004.bin",
+          "sha256": "d09919923b4cc786a7efdf611fd7f10510446689cb4e4d9f30774e4f5b1302bc"
+        },
+        {
+          "path": ".tsh-transfer/objects/c8a6c340720d442b6389921ce11c9e023395949e.part005.bin",
+          "sha256": "36b752683e82a5f89139f2d1a4fa934cd5c5454a2dfed5083d25bf813de76f92"
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/80 - Fontes Bibliográficas/Apostila MOTIVAÇÃO MORAL Compaixão, Empatia, Altruísmo e Egoísmo.pdf",
+      "size": 36497430,
+      "sha256": "f2fee0323e32845cd78a506b52f6ee122e412fecc1b257f2750cdce4bfd47074",
+      "parts": [
+        {
+          "path": ".tsh-transfer/objects/b8aa43ab585b0f01494f65c58aa77c6d3c49a0bd.part001.bin",
+          "sha256": "46a180b614fd87b850ca78ca501cbccef9fa2d35264f6e3526d668713aec2e60"
+        },
+        {
+          "path": ".tsh-transfer/objects/b8aa43ab585b0f01494f65c58aa77c6d3c49a0bd.part002.bin",
+          "sha256": "eefa3160822e3dcda1a14c097b38baf803565c88bf17cc531d727c6a7c325e1f"
+        },
+        {
+          "path": ".tsh-transfer/objects/b8aa43ab585b0f01494f65c58aa77c6d3c49a0bd.part003.bin",
+          "sha256": "d5deadfd9dde238a4449c6916579e4d106373b1a56649f40b68c76c626f3e487"
+        },
+        {
+          "path": ".tsh-transfer/objects/b8aa43ab585b0f01494f65c58aa77c6d3c49a0bd.part004.bin",
+          "sha256": "7fa4244f8d6c5831095d6fa695aa9fa64f21b418eadcf2ab68a9e81d2020d91a"
+        },
+        {
+          "path": ".tsh-transfer/objects/b8aa43ab585b0f01494f65c58aa77c6d3c49a0bd.part005.bin",
+          "sha256": "c927d64f5b82aa5e1462be3b8406eff9af226eeced2b67d57bb70b65c15dcfb9"
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Corpo Eixo e Experiência/Originais/Aterramento.pptx",
+      "size": 18910784,
+      "sha256": "8b8f2cf792f2acf395f4d55971f5751468e2bce9a8291ad1baf009e999c69905",
+      "parts": [
+        {
+          "path": ".tsh-transfer/objects/e71401f81ab8d2e015ad6fd2417f4605ff8a93aa.part001.bin",
+          "sha256": "27b017b6e58bf0930fa2fc1669a048cc9ddbf0ecf6929e9c83a24be019d114ce"
+        },
+        {
+          "path": ".tsh-transfer/objects/e71401f81ab8d2e015ad6fd2417f4605ff8a93aa.part002.bin",
+          "sha256": "c5b74f76f0a77c965e6054502b85559b348b821b85364be1dde5661516ecc3b8"
+        },
+        {
+          "path": ".tsh-transfer/objects/e71401f81ab8d2e015ad6fd2417f4605ff8a93aa.part003.bin",
+          "sha256": "ff2e6f92094ecfa59331fbdf5074c0b2bc1ee220200c411cdcc0f5ec238370df"
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Corpo Eixo e Experiência/Originais/Criando um caminho positivo na Transição Planetária.pptx",
+      "size": 99313208,
+      "sha256": "380d865ad6963b3b4736641722305d538812c4bd2abd513387b9e5bbf751ee9c",
+      "parts": [
+        {
+          "path": ".tsh-transfer/objects/a9c94aada716d8377bb1f583054842fe1980a06e.part001.bin",
+          "sha256": "4b01dbeb163fcb11018dadafaabd7d22f5bc956ed195b6ba6a0366b5cbb01b1c"
+        },
+        {
+          "path": ".tsh-transfer/objects/a9c94aada716d8377bb1f583054842fe1980a06e.part002.bin",
+          "sha256": "85b7194d5979bd2a354914dd739c093d81f8a4f6e37f7dd91c3fd82271857944"
+        },
+        {
+          "path": ".tsh-transfer/objects/a9c94aada716d8377bb1f583054842fe1980a06e.part003.bin",
+          "sha256": "97ba0b9b5fc431bad04f931d25760cdfc114fbe51220c37e49fe189f91bcfa8a"
+        },
+        {
+          "path": ".tsh-transfer/objects/a9c94aada716d8377bb1f583054842fe1980a06e.part004.bin",
+          "sha256": "8c1df97ddf6efddc6ac35c8b5daa9f89665443ee1ae8c5cffee4ed943f6f072e"
+        },
+        {
+          "path": ".tsh-transfer/objects/a9c94aada716d8377bb1f583054842fe1980a06e.part005.bin",
+          "sha256": "fdc6e2b6c424929779c1aaa25b3de30e12564fa5777bc3676e32128b921b7c80"
+        },
+        {
+          "path": ".tsh-transfer/objects/a9c94aada716d8377bb1f583054842fe1980a06e.part006.bin",
+          "sha256": "dda4186a489bd338e05bec5a78aee7d045f0267e0f81b9294a7a5bba557060e2"
+        },
+        {
+          "path": ".tsh-transfer/objects/a9c94aada716d8377bb1f583054842fe1980a06e.part007.bin",
+          "sha256": "2260722f713ddac902da71b356cfa7116c63622e2fe144fee09512e898b73eb5"
+        },
+        {
+          "path": ".tsh-transfer/objects/a9c94aada716d8377bb1f583054842fe1980a06e.part008.bin",
+          "sha256": "7c9561cc7843dc08e7b2065bea19c1aad7a6e3ad9f626bc6cbf4098b5ae07358"
+        },
+        {
+          "path": ".tsh-transfer/objects/a9c94aada716d8377bb1f583054842fe1980a06e.part009.bin",
+          "sha256": "7caa4e426c65e71ec4ff57693f30be32560fe3ada93e8b5405c684ec6d2d05ab"
+        },
+        {
+          "path": ".tsh-transfer/objects/a9c94aada716d8377bb1f583054842fe1980a06e.part010.bin",
+          "sha256": "e1c70e1035566439750df36e83720db56fb8031902137f7eb1dee2d53e1ad501"
+        },
+        {
+          "path": ".tsh-transfer/objects/a9c94aada716d8377bb1f583054842fe1980a06e.part011.bin",
+          "sha256": "9a77138cd9d706627587b0cafe148bd4c65f48fa168f978249eae1e6b3361532"
+        },
+        {
+          "path": ".tsh-transfer/objects/a9c94aada716d8377bb1f583054842fe1980a06e.part012.bin",
+          "sha256": "63aa1e972c9cf3126850c1007b166f3c0842ecde9553bb827259c732b4bfba2e"
+        },
+        {
+          "path": ".tsh-transfer/objects/a9c94aada716d8377bb1f583054842fe1980a06e.part013.bin",
+          "sha256": "9a586b5015c234490843342d0020678ad7a4b150d99de19e7741a8123481b214"
+        }
+      ]
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Corpo Eixo e Experiência/Originais/Palestra Criando um caminho positivo na Transição Planetária.pptx",
+      "size": 50176369,
+      "sha256": "24b214842f77349dcf7272c56cb17695dfea5787d67e4693fa8c836c4887aab0",
+      "parts": [
+        {
+          "path": ".tsh-transfer/objects/4415ac298a8b0dedc5a635c272d58e226eb0900e.part001.bin",
+          "sha256": "aa77ac68ff980b6adcd8fa291dc9adfab835c8a12fd0e9c8e954e75931fe8af2"
+        },
+        {
+          "path": ".tsh-transfer/objects/4415ac298a8b0dedc5a635c272d58e226eb0900e.part002.bin",
+          "sha256": "a2e295de982dee6a16b51e17d4291f4dafa13fead4167ad63c4c76045dcc87b3"
+        },
+        {
+          "path": ".tsh-transfer/objects/4415ac298a8b0dedc5a635c272d58e226eb0900e.part003.bin",
+          "sha256": "c7c78b159360b368759a601779db205f06ff63c15507a7a47909ea0f3cb27257"
+        },
+        {
+          "path": ".tsh-transfer/objects/4415ac298a8b0dedc5a635c272d58e226eb0900e.part004.bin",
+          "sha256": "b34d4589ee8cb8e732fa7030f578438f183fd75327bbea827f53beb2e1878cd9"
+        },
+        {
+          "path": ".tsh-transfer/objects/4415ac298a8b0dedc5a635c272d58e226eb0900e.part005.bin",
+          "sha256": "0acfd3ce9615bc8a777cc5ba2af99a2981e86ba2da618415360eeccc299bc813"
+        },
+        {
+          "path": ".tsh-transfer/objects/4415ac298a8b0dedc5a635c272d58e226eb0900e.part006.bin",
+          "sha256": "4f99e5f87dc17821d90ef0481d62fa037e5e668cbce05f85a3ebe469572deec0"
+        },
+        {
+          "path": ".tsh-transfer/objects/4415ac298a8b0dedc5a635c272d58e226eb0900e.part007.bin",
+          "sha256": "7ff93bc0cd4f41f9504a8d7c18b499a61402fbc0986b2d36bfadff6532ddf5ee"
+        }
+      ]
+    }
+  ]
+}

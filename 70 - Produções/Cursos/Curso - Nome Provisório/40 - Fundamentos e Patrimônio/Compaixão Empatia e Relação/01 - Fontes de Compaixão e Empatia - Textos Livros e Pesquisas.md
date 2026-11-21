@@ -544,3 +544,7 @@ R04, sobre medos da compaixão, já constava no inventário e permanece como ref
 ### Maslow e a simultaneidade de necessidades
 
 MASLOW, A. H. (1943). *A theory of human motivation*. [DOI 10.1037/h0054346](https://doi.org/10.1037/h0054346); [texto consultado](https://psychclassics.yorku.ca/Maslow/motivation.htm). O original reconhece exceções à ordem e satisfação parcial e simultânea de necessidades. Qualifica a apresentação rígida da página 26 da apostila e ajuda a preservar o caráter recíproco do fundamento proposto. Não estabelece equivalência entre a teoria de Maslow e o TSH.
+
+## Originais de Kolts e da apostila PUCRS — conferência de 21/11/2026
+
+As fontes agora têm cópias rastreáveis no GitHub: [manual de Kolts, Bell, Bennett-Levy e Irons](../../80%20-%20Fontes%20Bibliogr%C3%A1ficas/Experimentando%20a%20Terapia%20Focada%20-%20Russell%20L.%20Kolts.pdf) e [apostila de motivação moral fornecida por Fabiano](../../80%20-%20Fontes%20Bibliogr%C3%A1ficas/Apostila%20MOTIVA%C3%87%C3%83O%20MORAL%20Compaix%C3%A3o%2C%20Empatia%2C%20Altru%C3%ADsmo%20e%20Ego%C3%ADsmo.pdf). Recuperar as avaliações das seções 50–52 do [documento integral](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md), com seus alcances e correções. A apostila já integrava o acervo de conteúdo; esta etapa completa a disponibilidade do exemplar fornecido no repositório.

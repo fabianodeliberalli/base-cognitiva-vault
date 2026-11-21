@@ -3,14 +3,14 @@ tipo: porta-de-entrada-de-contexto
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: referencia-atual-revisavel
-versao: "4.9"
+versao: "4.10"
 criado_em: 2026-07-21
 atualizado_em: 2026-11-21
 autor: Fabiano Deliberalli
 autoridade_de_decisao: Fabiano Deliberalli
 ---
 
-[[Corpo eixo meridianos bioeletricidade e experiência]]: fontes e aulas.
+[[Corpo eixo meridianos bioeletricidade e experiência]]: fontes, aulas, árvore e imaginação.
 
 [[Ely Brito - Possibilidades de ampliação do TSH|Ely]]; [[TSH - Empatia e compaixão]]: fontes e aulas. [[Naranjo]]
 

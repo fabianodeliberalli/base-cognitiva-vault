@@ -87,3 +87,10 @@ Notas por autor, na pasta `Referenciais por Autor`:
 ## Prática do olhar
 
 Variações vindas de Shapiro, Robles, Tiers e Elman estão em [[Onde o Olhar Encontra o Eixo - Olhar Auto-Hipnose e Brainspotting]].
+
+## Pedro Ivo e Kast — imaginação, sugestão e expressão — 21/11/2026
+
+- [Pedro Ivo, A neurociência da hipnose](../../80%20-%20Fontes%20Bibliogr%C3%A1ficas/A%20Neurociencia%20da%20Hipnose%20-%20Pedro%20Ivo.pdf): [avaliação e correções](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#56-pedro-ivo-sugest%C3%A3o-imagina%C3%A7%C3%A3o-mem%C3%B3ria-e-precis%C3%A3o-did%C3%A1tica); recuperar expectativa, sugestão, variabilidade e memória para M1/M2/M5/M6, em diálogo com o repertório autoral e as outras fontes. A avaliação identifica afirmações imprecisas, incluindo memória e saúde, e aponta estudos primários; a presença do original não endossa tais afirmações.
+- [Verena Kast, Imaginação](../../80%20-%20Fontes%20Bibliogr%C3%A1ficas/Imaginacao%20-%20Verena%20Kast.pdf): [avaliação](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#60-verena-kast-da-imagem-que-apoia-%C3%A0-imagem-com-a-qual-se-elabora); [árvore como expressão pessoal](../%C3%81rvore%20da%20Singularidade%20-%20Postura%20Mapa%20e%20Express%C3%A3o%20Pessoal.md), M5.5 e elaboração M5/M6. Diferenciar imagem orientadora, exploração guiada, expressão simbólica e imaginação ativa junguiana; investigar sentidos sem transformá-los automaticamente em lembrança factual.
+
+A solicitação de Fabiano incorpora a disponibilidade e os aproveitamentos pertinentes ao acervo. As composições de aula permanecem abertas à sua formação e condução, junto das outras referências de hipnose e auto-hipnose.

@@ -402,3 +402,33 @@ Consultar fontes/versões e as revisões concretas da seção 8 antes de escolhe
 ## 6. CEMETC — situações de aprendizagem propostas — 14/11/2026
 
 [[14 - CEMETC - Destinos Pedagógicos Práticas e Correlações]] desenvolve demanda/nutrição/recuperação, capacidades numa decisão, cuidado/mediação, nutrição/medida e observação de ritmos. São possibilidades de aprofundar P0–P8 e CP8, usando Cartografia e apoios já ensinados. M3 examina condições; M4/M5 diferenciam capacidades e relação consigo; M6 integra; M7/M8 acompanham participação e efeitos. A correlação Xin Bao–HeartMath–Tonglen conserva fontes e funções. Não se introduz nova série obrigatória nem se deriva uma mudança da órbita dos mapas de circulação.
+
+## 7. Árvore, expressão e continuidade — incorporação solicitada em 21/11/2026
+
+Referência desenvolvida: [Árvore como postura, mapa e expressão pessoal](../%C3%81rvore%20da%20Singularidade%20-%20Postura%20Mapa%20e%20Express%C3%A3o%20Pessoal.md). Os aprofundamentos cabem nas práticas existentes e são compostos conforme a aula; não somam automaticamente carga ou novas técnicas.
+
+### Apoio, esforço, ajuste e pausa — M0/M1 e M3
+
+Ampliar P0/P1 e a medida do esforço. Após a demonstração, convidar a perceber uma condição modificável: altura dos braços, utilização de apoio, posição sentada ou necessidade de pausa.
+
+“Como está sendo sustentar esta posição agora? Veja se há um ajuste que permita acompanhar com mais disponibilidade. Você pode baixar os braços, utilizar um apoio ou repousar. Perceber essa necessidade também faz parte do que estamos aprendendo.”
+
+Concluir pela versão ensinada. Na elaboração, perguntar o que mudou com o ajuste e se a pessoa reconhece algo semelhante em sua vida. Yau 14/24–28 apoia essa direção; as alternativas de Steele são consultadas com as precisões registradas na avaliação. O objetivo não exige aumentar duração nem produzir sensações específicas.
+
+### Árvore como expressão pessoal — aprofundamento de M5.5
+
+Ampliar “Imagem como investigação” com a condução completa da nota da Árvore: chegada, exploração, expressão, associação e conclusão. A árvore produzida pela pessoa pode diferir do mapa do professor. Conservar sua forma, suas palavras e suas perguntas; não corrigir para ficar simétrica, autossuficiente ou compatível com uma interpretação prevista.
+
+“O que você consegue reconhecer nessa árvore e no ambiente em que ela está? Se quiser, dê uma forma ao que viveu. Que relação faz sentido investigar? Você pode também manter apenas a descrição ou uma pergunta.”
+
+Palavra, gesto e desenho são formas de participação. A visualização da árvore não recebe automaticamente o nome de imaginação ativa junguiana.
+
+### Dar forma e elaborar no tempo — M5/M6
+
+Após a exploração, separar três momentos: o que apareceu; como isso foi vivido; que relação ou sentido a pessoa considera possível. Um registro breve permite voltar à imagem sem exigir interpretação conclusiva ou emoção positiva. Uma associação pode sugerir ação, descanso, conversa, apoio ou revisão de demanda; seu sentido permanece revisável.
+
+### Efeitos na escuta, limites e vida — M7/M8
+
+Ampliar P8 e “Da prática a uma situação concreta”. Retomar uma pergunta ou expressão anterior: “Isso participou de alguma situação da sua vida? Houve algum apoio, limite ou mudança de condição que ajudou? O que você quer manter ou rever?”
+
+A aprendizagem pode aparecer como reconhecer antes o desgaste, pedir ajuda, ajustar a participação ou aceitar uma pausa. A retomada admite continuidade, mudanças inesperadas ou ausência de mudança percebida. [Hübl, música e sugestão](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#57-s%C3%ADntese-destinos-e-possibilidades-de-desenvolvimento) oferecem outras explorações para desenvolver quando acrescentarem algo à pergunta da aula.
