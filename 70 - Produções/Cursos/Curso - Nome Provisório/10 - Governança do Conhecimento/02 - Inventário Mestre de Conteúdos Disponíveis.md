@@ -3,12 +3,18 @@ tipo: inventario-mestre-conteudos
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: referencia-de-busca-revisavel
-versao: "1.11"
+versao: "1.12"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-21
 atualizado_em: 2026-11-21
 relacionado_a: 01 - Reconciliação da Governança do Conhecimento e Disponibilidade do Acervo
 ---
+
+## Árvore, imaginação e conferência dos anexos — 21/11/2026
+
+[Árvore como postura, mapa e expressão pessoal](../40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/%C3%81rvore%20da%20Singularidade%20-%20Postura%20Mapa%20e%20Express%C3%A3o%20Pessoal.md) registra a escolha de Fabiano, a contribuição de Kast e uma condução desenvolvida. Buscar por árvore; crescimento assimétrico; campo; apoios; imaginação guiada/ativa; expressão; sentido; alegria; pausa; descanso; presença relacional; música; sugestão e memória.
+
+O [documento integral](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md) passa a reunir 1–64. [Hübl, Levitin e Pedro Ivo](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#53-avalia%C3%A7%C3%A3o-de-h%C3%BCbl-levitin-e-pedro-ivo-contribui%C3%A7%C3%A3o-real-ao-tsh) e [Yau, Kast e Steele](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#58-yau-kast-e-steele-contribui%C3%A7%C3%A3o-real-%C3%A0-excel%C3%AAncia-do-tsh) preservam contribuição, alcance da leitura e correções. A [conferência dos originais e destinos](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#64-confer%C3%AAncia-dos-materiais-originais-e-caminhos-de-produ%C3%A7%C3%A3o) localiza os 19 livros/apresentações fornecidos nesta frente, o pacote CEMETC e três fontes autorais do AISB. O aproveitamento pertinente está nos cadernos, notas da Árvore, música/hipnose e consulta por aula; os originais permanecem disponíveis mesmo onde uma explicação pede revisão.
 
 ## Cultivo, sustentação e participação — incorporação de 21/11/2026
 

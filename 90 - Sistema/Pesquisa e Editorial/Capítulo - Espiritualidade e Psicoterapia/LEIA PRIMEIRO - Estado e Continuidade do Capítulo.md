@@ -8,6 +8,10 @@ titulo_de_trabalho: Espiritualidade e Psicoterapia - entre o reducionismo e a cr
 versao_redacao: "0.7"
 ---
 
+## Árvore e imaginação — 21/11/2026
+
+[Postura, mapa e expressão pessoal](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/%C3%81rvore%20da%20Singularidade%20-%20Postura%20Mapa%20e%20Express%C3%A3o%20Pessoal.md): escolha de Fabiano para aprofundar experiência, simbolização e elaboração. [Fontes, avaliações e destinos](../S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#64-confer%C3%AAncia-dos-materiais-originais-e-caminhos-de-produ%C3%A7%C3%A3o) reúne os originais e contribuições de Hübl, Levitin, Pedro Ivo, Yau, Kast e Steele. Recuperar por pertinência ao capítulo.
+
 ## Corpo, primeira pessoa e elaboração — 21/11/2026
 
 Fonte de desenvolvimento: [Corpo, eixo, meridianos, bioeletricidade e experiência](../S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md), incorporada por solicitação de Fabiano. As [relações de Castellanos](../S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#30-onde-h%C3%A1-acr%C3%A9scimo-real-%C3%A0-perspectiva-em-elabora%C3%A7%C3%A3o) aprofundam condições corporais do perceber, primeira pessoa, observar/elaborar e tempos da integração. [Fenomenologia](../S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#10-fenomenologia-tradi%C3%A7%C3%A3o-e-investiga%C3%A7%C3%A3o) e [sustentação corporal](../S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#11-sustentar-a-consci%C3%AAncia-no-corpo) dialogam com “Da experiência à integração” e com o cuidado oferecido à elaboração espiritual.

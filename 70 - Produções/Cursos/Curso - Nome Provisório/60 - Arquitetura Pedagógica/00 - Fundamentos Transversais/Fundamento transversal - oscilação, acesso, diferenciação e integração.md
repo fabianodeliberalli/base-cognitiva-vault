@@ -455,3 +455,7 @@ A Teoria Polivagal permanece como modelo específico dentro da discussão auton�
 - [[01 - Ficha Pedagógica]]
 - [[02 - Roteiro do Educador]]
 - [[Pedagogia das Distinções Experienciais]]
+
+## Árvore como expressão e continuidade do cultivo — 21/11/2026
+
+Fabiano solicitou incorporar [árvore como postura, mapa autoral e expressão pessoal](../../40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/%C3%81rvore%20da%20Singularidade%20-%20Postura%20Mapa%20e%20Express%C3%A3o%20Pessoal.md). Apoio e ajuste corporal podem favorecer disponibilidade; dar forma ao vivido pode abrir elaboração; relações, escolhas e mudanças no ambiente permitem investigar a continuidade. A imagem do participante pode ampliar a metáfora. Aprendizagem em espiral inclui perceber desgaste, descansar, receber ajuda, rever uma demanda e transformar condições, sem exigir nitidez de imagens, calma fixa ou maior duração da prática. Os [destinos por aula](../../10%20-%20Governan%C3%A7a%20do%20Conhecimento/06%20-%20Matriz%20Mestre%20de%20Incorpora%C3%A7%C3%A3o%20do%20Conte%C3%BAdo%20%C3%A0%20Estrutura%209-54.md) e [blocos de montagem](../../40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/MTC%20e%20Qi%20Gong/06%20-%20Incorpora%C3%A7%C3%A3o%20%C3%A0s%20Aulas%20e%20Grava%C3%A7%C3%B5es%20-%20Cultivo%20no%20TSH.md) preservam essa orientação.

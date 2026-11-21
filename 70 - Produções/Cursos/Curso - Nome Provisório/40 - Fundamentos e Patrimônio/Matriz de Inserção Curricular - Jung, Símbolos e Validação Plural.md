@@ -7,6 +7,10 @@ data: 2026-07-20
 atualizado_em: 2026-08-22
 ---
 
+## Retomada na arquitetura atual — árvore e imaginação — 21/11/2026
+
+Esta matriz preserva uma organização histórica em seis fases. Para localizar aulas na estrutura atual de nove módulos e 54 aulas, consultar [os destinos atuais](../10%20-%20Governan%C3%A7a%20do%20Conhecimento/06%20-%20Matriz%20Mestre%20de%20Incorpora%C3%A7%C3%A3o%20do%20Conte%C3%BAdo%20%C3%A0%20Estrutura%209-54.md). Fabiano solicitou aprofundar [árvore como postura, mapa e expressão pessoal](%C3%81rvore%20da%20Singularidade%20-%20Postura%20Mapa%20e%20Express%C3%A3o%20Pessoal.md): foco em M5.5, elaboração em M5/M6 e efeitos na vida em M7/M8, com base corporal desde M0/M1/M3. Kast 49–51 e 177–189 ajuda a diferenciar imaginação guiada e imaginação ativa junguiana, com participação desperta e diálogo. A expressão do participante pode ampliar a metáfora e seus sentidos permanecem em investigação.
+
 # Matriz de Inserção Curricular — Jung, símbolos e validação plural
 
 ## Decisão consolidada

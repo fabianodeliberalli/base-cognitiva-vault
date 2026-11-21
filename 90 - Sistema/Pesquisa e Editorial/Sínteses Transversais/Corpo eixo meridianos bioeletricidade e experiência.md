@@ -22,6 +22,8 @@ Estado: referência de conteúdo e versão de trabalho, com os aprofundamentos s
 
 **Roteiro de leitura:** seções 1–18 preservam a pesquisa inicial; seção 19 apresenta a auditoria; seções 20–27 desenvolvem a avaliação das três apresentações, as ampliações, as correções e os destinos de incorporação. A síntese da seção 26 amplia a proposta da seção 16. A segunda auditoria está na seção 28; as seções 29–34 avaliam Castellanos e aprofundam sua incorporação, com síntese na seção 33. A seção 35 reúne os caminhos de consulta para aulas, pesquisas e projetos editoriais. A avaliação dos quatro anexos sobre trauma, regulação e dissociação está nas seções 36–42. As seções 43–48 aprofundam os núcleos escolhidos por Fabiano: experiências autotranscendentes; demandas, recursos e capacidade disponível; sustentação, quietude e integração. A seção 46 oferece seis explorações; a 47 localiza as aulas; a 48 reúne fontes e consulta. As seções 49–52 registram a avaliação do fundamento sustentação–abertura–elaboração–participação, do manual de Kolts e colaboradores e da apostila de motivação moral, com fontes, correções e destinos nas aulas.
 
+**Continuidade incorporada por solicitação de Fabiano:** seções 53–57, Hübl, Levitin e Pedro Ivo; 58–62, Yau, Kast e Steele; 63, Árvore como postura, mapa e expressão pessoal, com vocabulário e condução; 64, conferência dos originais, avaliações e destinos no TSH e nas demais produções. As referências anteriores permanecem disponíveis; as escolhas práticas são desenvolvidas conforme a aula.
+
 ## 1. Resultado da pesquisa
 
 A perspectiva proposta por Fabiano tem antecedentes documentais claros no material do CEMETC e continuidade substantiva com o AISB e com a construção atual do Traduzindo o Ser Humano. A associação entre corpo e planeta foi localizada diretamente no livro de Carlos Nogueira Pérez. O núcleo mais preciso é a comparação entre barreiras corporais e referências geográficas: Dai Mai/Equador, barreiras pubiana e diafragmática/trópicos, barreira cefálica/calota polar norte e He inferiores/calota polar sul.
@@ -2079,3 +2081,591 @@ Consulta na preparação das aulas:
 - [Destinos de compaixão e cuidado nas aulas](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Compaix%C3%A3o%20Empatia%20e%20Rela%C3%A7%C3%A3o/02%20-%20Compaix%C3%A3o%20e%20Empatia%20-%20Destinos%20nas%20Aulas%20e%20Materiais.md).
 
 **Situação deste acréscimo, em 21 de novembro de 2026:** Fabiano solicitou conferir e completar sua incorporação ao repositório. As seções 49–52, as fontes, as quatro explorações e os destinos estão registrados na [PR #75](https://github.com/fabianodeliberalli/base-cognitiva-vault/pull/75). A incorporação preserva a avaliação e a redação proposta para o fundamento; não declara composição final das aulas. Fabiano homologou a integração à main em 21 de novembro de 2026, para disponibilizar esses registros na consulta padrão do repositório.
+
+## 53. Avaliação de Hübl, Levitin e Pedro Ivo: contribuição real ao TSH
+
+### 53.1. Alcance e comparação com o acervo
+
+Esta avaliação responde ao pedido de Fabiano sobre três anexos. Foram examinados os sumários, a organização dos arquivos e passagens dirigidas às questões do TSH, com inspeção visual de capas e de afirmações centrais. A extração do conjunto permite localizar o conteúdo; não equivale a uma leitura crítica integral de todas as 964 páginas.
+
+| Fonte | Exemplar fornecido | Alcance desta avaliação |
+| --- | --- | --- |
+| Thomas Hübl, com Julie Jordan Avritt, *Attuned: Practicing Interdependence to Heal Our Trauma—and Our World* | 242 páginas digitais; St. Martin’s Essentials, 2023. | Disponibilidade, desenvolvimento, Three-Sync, comunicação, sombra, facilitação, ancestralidade e testemunho social; conferência de passagens e referências pertinentes. |
+| Daniel J. Levitin, *A cura pela música: o poder terapêutico dos sons para cuidar do corpo e da mente* | 436 páginas digitais; Objetiva, edição eletrônica de 2025; tradução de Renato Marques; original de 2024. | Corpo, atenção, memória, aprendizagem, escolha e usos cotidianos da música, sincronia, diferenças entre práticas musicais e intervenções clínicas; consulta às notas relevantes. |
+| Pedro Ivo, *A neurociência da hipnose* | 286 páginas digitais; Haikai no exemplar fornecido. | Expectativas, sugestão, imaginação, falsas memórias, hipnose e neuroimagem, regressão e plasticidade; conferência de afirmações específicas. |
+
+Os localizadores abaixo são páginas dos PDFs, não números de outras edições. Os arquivos incluem elementos editoriais e, em alguns casos, publicidade.
+
+A comparação foi feita com a main do repositório na revisão 3906063017a43da40937f35c48064c30e38dca11. Foram consultadas as notas de música/escuta e meditação/duplas de Naranjo; a perspectiva de Fabiano sobre transe, sugestão e reprogramação; o plano de hipnose por aula; a avaliação de livros de hipnose, grupo e trauma; o Mapa Funcional dos Três Eus; e o contexto mínimo do TSH.
+
+Essas fontes já trabalham presença corporal e relacional, diferenças entre experiência e interpretação, música e silêncio, aprendizagem da hipnose, ensaio imaginativo, memória e retorno. Portanto, o acréscimo dos anexos deve ser descrito como aprofundamento, repertório ou qualificação de conteúdo, conforme o caso.
+
+### 53.2. Parecer comparativo
+
+| Obra | Acréscimo mais consistente | Continuidade já existente | Recomendação de aproveitamento |
+| --- | --- | --- | --- |
+| Hübl | Presença enquanto se participa da relação; diferenciação e reunião de corpo, emoção e pensamento; dimensão coletiva e ecológica da participação. | Naranjo, escuta e duplas; ressonância estrutural; compaixão, eixo e integração. | Aprofundar a aprendizagem relacional e contemplativa, nomeando a procedência e mantendo abertas as interpretações sobre o outro. |
+| Levitin | Critérios para escolher e utilizar música conforme pessoa, tarefa, história e contexto; passagem entre escuta, movimento, memória e expressão. | Cinco propostas musicais de Naranjo; cultivo afetivo, música e silêncio. | Prioridade de desenvolvimento das práticas musicais e de sua preparação docente. Conferir as pesquisas específicas usadas para afirmações empíricas. |
+| Pedro Ivo | Didática de sugestão e expectativa; imaginação além da imagem visual; distinções entre lembrar, construir sentido e verificar acontecimentos. | Formação e docência de Fabiano; hipnose e auto-hipnose já incorporadas; Tradução e memória. | Aproveitamento seletivo e revisão das generalizações identificadas. Os estudos originais oferecem fundamentação mais precisa para as aulas. |
+
+A prioridade atribuída a Levitin se refere ao ganho concreto para compor as experiências musicais. Hübl oferece interlocução especialmente próxima da elaboração espiritual e relacional do TSH. Pedro Ivo pode contribuir para a linguagem didática de uma frente que já possui repertório extenso no acervo.
+
+## 54. Hübl: presença relacional, coerência e participação coletiva
+
+### 54.1. Disponibilidade para o encontro
+
+Nas páginas 20–29, Hübl relaciona disponibilidade corporal e afetiva, condições de vida e capacidade de participar de uma relação. Isso conversa diretamente com a diferença entre saber como responder e conseguir fazê-lo, assim como com as seções 44 e 49 deste caderno.
+
+O aprofundamento mais pertinente é tornar o encontro um lugar de investigação: enquanto escuto, também posso reconhecer como estou sendo afetado, quanto espaço tenho para responder e quais condições estão participando dessa disponibilidade. A presença do outro pode oferecer sustentação; minha participação também pode alterar a qualidade do encontro.
+
+Essa formulação não precisa ficar concentrada no interior do indivíduo. O descanso, a divisão de tarefas, o tempo disponível e as condições materiais continuam pertinentes, como já desenvolvido no TSH. O sentido contemplativo de espaço interior descrito pelo autor não torna ilimitados os recursos cotidianos.
+
+### 54.2. Diferenciar e reunir corpo, emoção e pensamento
+
+A Three-Sync é apresentada nas páginas 62–67. Sua organização permite reconhecer a experiência corporal, emocional e mental, e acompanhar essas dimensões enquanto se participa da vida. A página 62 qualifica o sentido de coerência: ela envolve presença com as experiências existentes, em vez de depender de um estado ideal permanente. Na página 85, a coerência relacional também é diferenciada da harmonia constante.
+
+Esse é um acréscimo pertinente à distinção entre sustentação, quietude e integração. Pode haver contato durante medo, tristeza, entusiasmo ou desacordo. A investigação se concentra em como a pessoa reconhece e ajusta sua participação.
+
+A organização em três dimensões não equivale aos Três Eus, aos três dantian ou às três redes neurais. A contribuição funcional pode dialogar com esses mapas sem atribuir a todos a mesma origem ou o mesmo mecanismo.
+
+### 54.3. Ressonância e confirmação com o outro
+
+Nas páginas 68–85, a comunicação transparente inclui perceber o que surge em si durante o contato. Essa proposta pode aprofundar as formulações de Fabiano sobre ressonância estrutural e bússola interna: ser afetado, conservar referência, diferenciar e participar.
+
+O que surge em mim, entretanto, admite mais de uma interpretação. Uma tensão pode estar relacionada ao encontro, a uma lembrança, a uma expectativa, ao estado corporal ou a condições ainda desconhecidas. A experiência oferece uma hipótese a investigar.
+
+Uma adaptação para a escuta no TSH poderia utilizar perguntas corrigíveis: reconhecer o que percebi, verificar se isso ajuda a compreender o que o outro está dizendo e dar lugar à sua correção. A observação corporal participa do discernimento, sem encerrar a experiência da outra pessoa numa leitura produzida pelo observador.
+
+As práticas de duplas de Naranjo já oferecem uma base para esse trabalho. Hübl contribui com uma descrição adicional do acompanhamento de si durante a relação, sem exigir uma segunda série obrigatória de exercícios.
+
+### 54.4. Desenvolvimento e retorno em espiral
+
+As páginas 31–36 descrevem aquisição de capacidades e retornos à relação de apoio. A página 35 relaciona novas competências, maior possibilidade de observação e abertura a desenvolvimentos posteriores.
+
+Essa formulação oferece um diálogo com a espiral e com a competência incorporada. Para o TSH, o retorno pode trazer novas referências, maior diferenciação e possibilidades de expressão. O desenvolvimento também envolve curiosidade, criatividade e singularidade, além da reorganização de padrões.
+
+A ligação entre impulso da alma, encarnação e desenvolvimento faz parte da leitura mística de Hübl. Sua relação com Essência e retorno com aquisição é uma comparação entre formulações que conservam suas procedências.
+
+### 54.5. Do cultivo pessoal ao pertencimento ao planeta
+
+O testemunho social global, apresentado nas páginas 186–206, especialmente 196–197, propõe perceber como acontecimentos coletivos são recebidos no corpo e na vida. Pode acrescentar ao pertencimento ao planeta uma dimensão de responsabilidade e participação: reconhecer uma situação, perceber os próprios limites e identificar formas possíveis de cuidado, companhia ou ação.
+
+Para o TSH, a contribuição está na ligação entre experiência e participação situada nas condições da pessoa. Sentir intensamente o sofrimento coletivo não precisa tornar-se medida de maturidade, nem o contato contemplativo substitui mudanças materiais, sociais ou ambientais.
+
+O autor atribui à prática sentidos próprios de integração do trauma coletivo. Os efeitos de uma adaptação didática do TSH precisariam ser acompanhados em seus objetivos concretos.
+
+### 54.6. Afirmações que precisam de diferenciação
+
+Há três conjuntos de afirmações que não possuem, no anexo, a mesma sustentação das descrições de práticas e relações:
+
+- **Leitura precisa da história de outra pessoa.** A página 141 afirma que um facilitador pode reconhecer, por sintonia, a idade ou etapa de origem de um trauma. Essa descrição pertence à abordagem do autor; o anexo não apresenta uma validação diagnóstica que autorize tratar tal impressão como confirmação histórica.
+- **Interpretação de respostas em grupo.** Na página 200, bocejo, sonolência, irritação e perda de foco recebem uma leitura de resistência ou negação do trauma coletivo. No TSH, essas respostas podem ser investigadas em seu contexto, incluindo cansaço e necessidade de pausa. A leitura do modelo não esgota seu significado.
+- **Informação ancestral e epigenética.** As páginas 149 e 165–185 aproximam sintonia com ancestrais de transmissão intergeracional. Experiência espiritual, imagem, narrativa familiar, condições sociais e mecanismo biológico precisam manter suas diferenças.
+
+O estudo de Yehuda e colaboradores sobre FKBP5 comparou sobreviventes do Holocausto, descendentes e pequenos grupos de comparação. Identificou associações de metilação; não verificou a transmissão de lembranças específicas nem a capacidade de identificar fatos ancestrais por sintonia. A consulta realizada foi ao resumo original. [DOI 10.1016/j.biopsych.2015.08.005](https://doi.org/10.1016/j.biopsych.2015.08.005).
+
+Há também uma correção histórica verificável. Na página 17, Hübl atribui a Davisson e Germer um experimento de dupla fenda em 1927. O trabalho original descreve difração de elétrons por um cristal de níquel. A conclusão sobre participação da consciência humana não foi testada nesse experimento. A correção foi conferida no resumo original da APS. [DOI 10.1103/PhysRev.30.705](https://doi.org/10.1103/PhysRev.30.705).
+
+O valor contemplativo e espiritual do livro pode ser desenvolvido a partir das experiências, tradições e interpretações que apresenta. As afirmações científicas precisam de suas próprias fontes e métodos.
+
+## 55. Levitin: música como condição de acesso, aprendizagem e expressão
+
+### 55.1. O que já estava desenvolvido com Naranjo
+
+O repositório já conserva cinco propostas de trabalho musical: escutar/silenciar/reconhecer; acompanhar a mesma música com perguntas diferentes; perceber uma voz e o conjunto; comparar duas experiências da mesma escuta; e levar o vivido a uma forma e a um gesto.
+
+Também já relaciona música a atenção, afetividade, símbolo, espiritualidade, diferenciação e participação. Os estudos de Bernardi e de Thoma, registrados nessa nota, já qualificam a expectativa de relaxamento uniforme. Levitin amplia a preparação e o repertório para desenvolver essas propostas; não inaugura a presença da música no TSH.
+
+### 55.2. A função da música deve orientar sua escolha
+
+O capítulo 14, páginas 263–290, é especialmente pertinente. A música pode participar de mobilização, repouso, organização do movimento, memória, vínculo, apreciação e expressão. Uma composição útil para uma finalidade pode dificultar outra.
+
+Para a produção do TSH, vale explicitar: o que se pretende ajudar a perceber, diferenciar ou experimentar? A escuta está apoiando o contato corporal, acompanhando uma imagem, convidando ao movimento ou oferecendo espaço à elaboração?
+
+Essa distinção ajuda a avaliar o uso de uma trilha no Sorriso Interior ou em outro cultivo. É possível investigar se ela apoia a condução, ocupa a atenção necessária para acompanhar as instruções ou se torna o elemento central da experiência. A conclusão depende da composição e dos participantes.
+
+### 55.3. História, familiaridade e possibilidade de escolha
+
+As páginas 40, 263–278 e 282–285 ampliam a participação das preferências, memórias autobiográficas, familiaridade, contexto e possibilidade de escolha. O ganho pedagógico é incluir a pessoa na investigação dos apoios que lhe são úteis.
+
+Uma música pode evocar vínculo e pertencimento para uma pessoa e luto ou distanciamento para outra. Familiaridade pode facilitar o acesso; novidade pode abrir percepção e expressão. Nenhuma dessas possibilidades exige fixar uma playlist que deva produzir o mesmo estado em todos.
+
+Levitin formula uma superioridade muito ampla da música autosselecionada na página 276. Há pesquisa específica favorável à relevância da escolha, mas ela não demonstra uma regra universal. Howlin, Stapleton e Rooney investigaram escolha percebida e complexidade musical em 286 adultos com dor aguda; seus resultados têm esse contexto e não validam todos os usos da música no TSH. [DOI 10.1371/journal.pone.0271329](https://doi.org/10.1371/journal.pone.0271329).
+
+### 55.4. Escuta, criação e continuidade
+
+O capítulo 13, páginas 237–262, aborda aprender a tocar e expressar-se musicalmente. O apêndice, páginas 349–353, distingue práticas receptivas e ativas, além de intervenções musicais com objetivos diferentes.
+
+Para o TSH, isso amplia a participação para além de receber uma trilha. Reconhecer ritmo, experimentar uma forma de expressão, escutar outra pessoa e retornar ao silêncio podem ter funções próprias na aula.
+
+Há relação com a proposta de ampliar a percepção: aprender a reconhecer uma diferença pode modificar o que se consegue ouvir e expressar. A música também pode apoiar experiências de beleza, admiração, pertencimento ou sentido espiritual. A importância dessas experiências se acompanha por sua descrição e elaboração.
+
+A passagem entre música e silêncio é particularmente útil para investigar continuidade: o que ficou acessível com aquele apoio e como isso participa quando a música termina? O apoio conserva seu valor mesmo quando continua necessário. Essa investigação não precisa transformar autonomia em obrigação de prescindir de recursos.
+
+### 55.5. Sincronia e diferenças entre as experiências
+
+As páginas 94 e 285–287 retomam pesquisas de respostas cerebrais à mesma música. O estudo de Abrams e colaboradores utilizou fMRI em 17 participantes, com música e estímulos de comparação. Investigou padrões temporais compartilhados de resposta ao estímulo, sem demonstrar comunicação direta entre cérebros ou experiências subjetivas idênticas. O original foi consultado na cópia institucional de Stanford. [DOI 10.1111/ejn.12173](https://doi.org/10.1111/ejn.12173).
+
+Essa precisão contribui diretamente para o TCC de Fabiano, o AISB e as aulas sobre relação. A expressão “mesmo comprimento de onda” tem força comunicativa, mas não deve substituir a descrição do que foi medido.
+
+Um grupo pode compartilhar um estímulo musical e conservar diferenças de memória, afeto e sentido. A comparação entre relatos pode desenvolver escuta e diferenciação, sem exigir unidade afetiva.
+
+### 55.6. Alcance das narrativas e pesquisas
+
+O livro combina estudos, histórias clínicas, memórias pessoais, hipóteses e propostas futuras. Por exemplo, nas páginas 265–266, apresenta um estudo sobre música em famílias; a nota na página 410 informa financiamento e consultoria ligados a Sonos e Apple Music. Essa informação é parte da avaliação da procedência, sem invalidar automaticamente o estudo.
+
+Da mesma forma, narrativas de melhora clínica e propostas de diplomacia musical podem gerar perguntas relevantes, mas possuem alcances diferentes de experimentos controlados. A passagem de uma correlação neural para resolução duradoura de conflitos exige investigação adicional.
+
+O acréscimo mais consistente ao curso é aperfeiçoar como se escolhe, apresenta, acompanha e elabora uma experiência musical, relacionando função, pessoa, contexto e participação.
+
+## 56. Pedro Ivo: sugestão, imaginação, memória e precisão didática
+
+### 56.1. Continuidade com a hipnose já presente no TSH
+
+O repositório já registra a indução de Fabiano ensinada por etapas, a aprendizagem do retorno, sugestões cotidianas, imaginação, auto-hipnose e destinos específicos nos módulos. Também preserva a perspectiva ericksoniana de transe cotidiano e a diferença entre estados e resposta à sugestão.
+
+O ganho do livro é oferecer uma organização didática adicional e referências para aprofundamento. As páginas 143–172, 173–202 e 203–228 são as mais pertinentes às perguntas atuais; memória, aprendizagem e plasticidade oferecem apoio complementar.
+
+### 56.2. Expectativa participa da experiência
+
+As páginas 165–172 e 207–220 descrevem como expectativas, compreensão da tarefa, experiência prévia e formas de participação podem influenciar respostas. Isso dialoga com saliência, Tradução e com a diferença entre compreender uma instrução e conseguir realizá-la.
+
+O conteúdo também ajuda a investigar a expectativa sobre a própria prática: esperar um fenômeno específico pode ocupar a atenção e tornar menos reconhecíveis outras mudanças. O sentido pedagógico é esclarecer a proposta e abrir espaço para perceber o que efetivamente ocorre.
+
+Essa relação já aparece no acervo do TSH. O livro contribui com exemplos e linguagem para a aula, sem justificar uma ideia de controle absoluto sobre o estado corporal ou sobre os resultados.
+
+### 56.3. Imaginação e seus efeitos
+
+As páginas 194–202 diferenciam imaginar de produzir uma imagem visual nítida. Essa distinção é útil para oferecer diferentes entradas em uma prática: palavras, possibilidades, sons, sensações, gestos ou imagens.
+
+A página 195 descreve o estudo de Reddan, Wager e Schiller. O original incluiu 68 participantes e três condições de treinamento, não apenas os dois grupos resumidos no livro. Seus resultados sobre extinção imaginada de ameaça apoiam uma pergunta delimitada sobre aprendizagem por imaginação. Não estabelecem identidade completa entre imaginar e viver um acontecimento. [DOI 10.1016/j.neuron.2018.10.047](https://doi.org/10.1016/j.neuron.2018.10.047).
+
+Na página 201, o livro afirma que imaginar é equivalente à realidade para a mente, que o efeito emocional é “100% real” e que não haverá frustração após certa experiência. Essas afirmações generalizam além do que foi demonstrado. Para o TSH, uma formulação mais precisa é: a imaginação pode produzir efeitos vividos relevantes, com variação entre pessoas e situações; a resposta e seu significado permanecem investigáveis.
+
+A experiência interna pode ter valor afetivo, simbólico ou espiritual. Sua importância não depende de ser identificada a um acontecimento externo.
+
+### 56.4. Memória, construção e verificação
+
+O capítulo sobre falsas memórias, páginas 173–189, apresenta exemplos de influência da sugestão e do viés do entrevistador. O interesse para o TSH está em diferenciar o que foi vivido, o que é lembrado, o sentido construído agora e o que pode ser corroborado por outras fontes.
+
+O próprio capítulo 13, páginas 229–244, procura discutir diferenças entre não formar, esquecer e não acessar uma lembrança. A leitura deve preservar essa pluralidade: uma recordação recuperada não é automaticamente verdadeira ou falsa. Intensidade, confiança ou riqueza de detalhes não bastam para resolver sua procedência.
+
+Essas questões podem qualificar o uso de imagens, escrita, narrativas e experiências de regressão, em diálogo com a formação e a condução de Fabiano. A sua pertinência não exige presumir uma origem traumática única para qualquer dificuldade.
+
+### 56.5. Correções substanciais identificadas
+
+| Localizador | Afirmação ou problema | Qualificação necessária |
+| --- | --- | --- |
+| PDF 174 | Um exame médico é apresentado como confirmação de “virgindade” e como evidência contrária à memória de violência sexual. | Não existe exame que comprove essa condição ou determine, dessa maneira, a história de relações sexuais. O exemplo não fornece a prova alegada. Conferência: declaração interagências da OMS, 2018. |
+| PDF 157 | A razão entre respostas médias de placebo e medicamento é convertida em quantidade de pacientes que teriam a mesma resposta. | Uma proporção entre médias de mudança não equivale à proporção de indivíduos com resultados iguais. |
+| PDF 157 | A meta-análise de 522 ensaios é datada de fevereiro de 2016. | A publicação de Cipriani e colaboradores citada pelo DOI ocorreu em 2018; 2016 foi o limite temporal da busca descrita no artigo. |
+| PDF 201 | Imaginação equivalente à realidade e ausência garantida de frustração. | Resultados de uma tarefa imaginativa não permitem essa generalização. |
+| PDF 221–224 | Mudanças em neuroimagem são usadas para afastar a ideia de placebo e para dispensar relatos subjetivos na confirmação de eficácia. | Evidência neural, experiência relatada e eficácia são perguntas relacionadas, com métodos próprios. Uma alteração cerebral não encerra todas elas. |
+| PDF 243–244 | Uma narrativa de melhora é usada para apoiar a ideia geral de que trabalhar sintomas apenas os desloca. | O relato não estabelece essa causalidade ou uma regra universal de mudança. Aprendizagem, apoio, recuperação e revisão das condições continuam alternativas pertinentes. |
+
+A declaração da OMS foi consultada diretamente. Ela afirma que a aparência do hímen não comprova história de relações sexuais e que os chamados testes de virgindade não possuem mérito científico. [Fonte oficial](https://www.who.int/publications/i/item/eliminating-virginity-testing-an-interagency-statement).
+
+O artigo de Kirsch e Sapirstein foi conferido em sua reprodução integral: o cálculo de 75% se refere a tamanhos médios de efeito de mudança. A interpretação como proporção de pessoas, feita no livro, não decorre desse cálculo. [Artigo original de 1998](https://psychrights.org/research/Digest/CriticalThinkRxCites/KirschandSapirstein1998.pdf).
+
+A referência de Cipriani foi conferida no registro e resumo originais; essa precisão bibliográfica não constitui orientação medicamentosa. [DOI 10.1016/S0140-6736(17)32802-7](https://doi.org/10.1016/S0140-6736(17)32802-7).
+
+O trabalho de Jiang e colaboradores, publicado on-line em 2016 e em volume de 2017, selecionou 57 de 545 adultos com hipnotizabilidade alta ou baixa e examinou atividade e conectividade. É uma fonte pertinente para discutir correlatos neurais; seu desenho não testa a eficácia do TSH. A conferência desta avaliação ficou no resumo e nas informações metodológicas acessíveis. [DOI 10.1093/cercor/bhw220](https://doi.org/10.1093/cercor/bhw220).
+
+Essas correções não eliminam o interesse didático do livro. Elas indicam por que suas generalizações precisam ser avaliadas separadamente das contribuições sobre expectativa, imaginação e memória.
+
+## 57. Síntese, destinos e possibilidades de desenvolvimento
+
+### 57.1. O acréscimo ao fundamento em elaboração
+
+As três obras contribuem, de maneiras diferentes, para investigar como condições de sustentação podem favorecer abertura, elaboração e participação:
+
+- Hübl desenvolve o acompanhamento de si enquanto se participa de uma relação e amplia o horizonte coletivo.
+- Levitin aprofunda um apoio concreto e suas variações de função, história e contexto.
+- Pedro Ivo ajuda a examinar como linguagem, expectativa e imaginação participam da experiência e da interpretação.
+
+O ponto de encontro é uma aprendizagem que permite reconhecer condições, experimentar, diferenciar e acompanhar efeitos. A intensidade do vivido, sua interpretação inicial e sua continuidade na vida conservam perguntas diferentes. O diálogo com o espiritual permanece pertinente em seus próprios termos.
+
+### 57.2. Destinos sugeridos na estrutura atual
+
+| Aulas ou conteúdos | Fonte e contribuição | Material de base para recuperar |
+| --- | --- | --- |
+| M1.2/M1.3/M1.7 — acesso, competência e eixo | Hübl: disponibilidade e presença durante a relação; Levitin: um apoio que abre acesso; Ivo: expectativa sobre a prática. | Seções 49, 54.1–54.2 e 55.2; fundamentos já existentes. |
+| M2.2/M2.5/M2.6 — saliência, vivido e interpretação | Ivo: sugestões e memória; Hübl: distinguir reação própria de conhecimento sobre o outro. | Seções 54.3 e 56.2–56.4; plano de hipnose. |
+| M3.1/M3.2/M3.7 — corpo e recursos | Hübl: atenção corporal; Levitin: função da música; Ivo: imaginação e resposta. | Práticas de cultivo e retorno; seções 54.2, 55.2–55.3 e 56.3. |
+| M4.2–M4.6 — emoção, padrões e respostas | Os três autores ajudam a explorar nomeação, história, expectativa e modos de participação. | Condução já existente de percepção, padrões e compaixão. |
+| M5.2/M5.4–M5.8 — compaixão, símbolos e espiritualidade | Hübl: presença e sintonia; Levitin: beleza, reverência e expressão; Ivo: imaginação multissensorial e diferenciação de sentidos. | Naranjo, compaixão, cultivo e discernimento; seções 54–56. |
+| M6.1–M6.6 — diferenças, ambivalência e integração | Coerência que inclui diferenças; música, elaboração e participação ao longo do tempo. | Propostas musicais de uma voz/conjunto e retorno ao cotidiano. |
+| M7.1/M7.3–M7.8 — escuta, expressão, limites e responsabilidade | Hübl: presença relacional e coletiva; Levitin: experiências compartilhadas com sentidos diferentes. | Duplas, escuta, ressonância estrutural e cuidado. |
+| M8.2 — continuidade | Reconhecer quais apoios ajudam, o que se tornou disponível e que condições seguem necessárias. | Plano pessoal e retomadas em espiral. |
+| TCC, AISB, CEEP e produções editoriais | Levitin: estímulo comum e sincronia; Hübl: intersubjetividade e espiritualidade; Ivo: experiência, imagem e verificação. | Fontes primárias e distinções já trabalhadas no projeto. |
+
+Esses destinos indicam pertinência, sem pressupor inserção de todas as obras em todas as aulas.
+
+### 57.3. Três adaptações possíveis de propostas existentes
+
+**Contato consigo durante a escuta.** Aprofundar a prática de duplas já descrita com Naranjo: reconhecer a própria resposta corporal, afetiva e mental enquanto escuta; oferecer uma compreensão provisória; dar lugar à correção do outro. Inspiração adicional em Hübl, PDF 62–67 e 84–85. O objetivo é refinar contato, diferenciação e participação, sem usar sensações como diagnóstico da outra pessoa.
+
+**Escolher e reconhecer a função de um apoio musical.** Desenvolver as experiências musicais existentes com um trecho proposto por Fabiano, uma escolha pessoal e, quando pertinente, um momento de silêncio. Investigar diferenças de atenção, contato corporal, lembrança, afeto e possibilidade de expressão. A comparação pode ajudar a escolher um apoio para uma situação cotidiana; não pretende, sozinha, demonstrar um mecanismo fisiológico ou selecionar uma música universal.
+
+**Imaginar e investigar a participação possível.** Retomar uma situação simples na qual a pessoa deseja experimentar uma resposta: formular um pedido, expressar um limite ou aproximar-se de uma atividade. Oferecer palavras, sons, gestos, sensações ou imagens como entradas possíveis; observar o que ocorre e o que se torna mais claro. O retorno ao cotidiano e a elaboração posterior ajudam a distinguir experiência imaginada, aprendizado e mudança efetiva de participação.
+
+São adaptações pedagógicas propostas a partir das fontes, e não reproduções dos programas dos autores ou intervenções já testadas no TSH.
+
+### 57.4. Fontes e consulta
+
+**Anexos fornecidos:**
+
+- [Hübl com Avritt — exemplar de 242 páginas](https://chatgpt.com/library?file_id=libfile_fde3_f-118e05946cd081918a2217268ca663d2_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal).
+- [Levitin — exemplar de 436 páginas](https://chatgpt.com/library?file_id=libfile_fde3_f-792280548ae48191b688f561374053a2_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal).
+- [Pedro Ivo — exemplar de 286 páginas](https://chatgpt.com/library?file_id=libfile_fde3_f-b653a5d9325481919becfde0750fc1bf_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal).
+
+**Estudos e fonte institucional utilizados nesta avaliação:**
+
+- Abrams et al. (2013), *Inter-subject synchronization of brain responses during natural music listening*. [DOI](https://doi.org/10.1111/ejn.12173); [original institucional consultado](https://med.stanford.edu/content/dam/sm/sasnl/documents/20_Abrams_Intersubject_Synchronization_13.pdf).
+- Howlin, Stapleton e Rooney (2022), *Tune out pain: Agency and active engagement predict decreases in pain intensity after music listening*. [DOI](https://doi.org/10.1371/journal.pone.0271329).
+- Reddan, Wager e Schiller (2018), *Attenuating neural threat expression with imagination*. [DOI](https://doi.org/10.1016/j.neuron.2018.10.047); [texto consultado](https://pmc.ncbi.nlm.nih.gov/articles/PMC6314478/).
+- Jiang et al. (2016/2017), *Brain Activity and Functional Connectivity Associated with Hypnosis*. [DOI](https://doi.org/10.1093/cercor/bhw220); [registro](https://pubmed.ncbi.nlm.nih.gov/27469596/).
+- Yehuda et al. (2016), *Holocaust Exposure Induced Intergenerational Effects on FKBP5 Methylation*. [DOI](https://doi.org/10.1016/j.biopsych.2015.08.005); [resumo consultado](https://pubmed.ncbi.nlm.nih.gov/26410355/).
+- Davisson e Germer (1927), *Diffraction of Electrons by a Crystal of Nickel*. [DOI e resumo original](https://doi.org/10.1103/PhysRev.30.705).
+- Kirsch e Sapirstein (1998), *Listening to Prozac but Hearing Placebo*. [Reprodução do original consultado](https://psychrights.org/research/Digest/CriticalThinkRxCites/KirschandSapirstein1998.pdf).
+- Cipriani et al. (2018), *Comparative efficacy and acceptability of 21 antidepressant drugs...*. [DOI](https://doi.org/10.1016/S0140-6736(17)32802-7); [registro e resumo consultados](https://pubmed.ncbi.nlm.nih.gov/29477251/).
+- OMS, ONU Mulheres e Direitos Humanos da ONU (2018), *Eliminating virginity testing: an interagency statement*. [Fonte oficial](https://www.who.int/publications/i/item/eliminating-virginity-testing-an-interagency-statement).
+
+As relações com eixo, espiral, Árvore da Singularidade, Essência, ressonância estrutural e participação são correlações pedagógicas propostas em diálogo com a construção autoral de Fabiano.
+
+**Situação desta atualização:** as seções 53–57 constituem avaliação documental e propostas de aproveitamento dos três anexos. Na etapa de avaliação foram acrescentadas apenas ao documento de trabalho. A solicitação posterior de Fabiano incorporou esta etapa ao registro em ramificação no GitHub, com fontes e destinos nas aulas; a entrada na main depende de homologação. A integração já concluída da PR #75 corresponde às seções 1–52 e aos caminhos de consulta daquela etapa.
+
+## 58. Yau, Kast e Steele: contribuição real à excelência do TSH
+
+### Resultado e alcance desta avaliação
+
+Os três anexos podem aprimorar o TSH, mas oferecem contribuições de natureza e consistência diferentes. **Kast apresenta o maior acréscimo conceitual e metodológico para o trabalho com imaginação, símbolos e elaboração. Yau oferece uma contribuição didática concentrada à condução do Zhan Zhuang. Steele reúne recursos úteis de organização, adaptação e continuidade, acompanhados de afirmações fisiológicas e promessas que não devem ser incorporadas como resultados demonstrados.** Essa prioridade é uma avaliação editorial em relação ao TSH, e não uma classificação universal das obras.
+
+A comparação foi feita com o conteúdo efetivo de `fabianodeliberalli/base-cognitiva-vault`, na `main`, revisão `3906063017a43da40937f35c48064c30e38dca11`, consultada em 21 de novembro de 2026. Foram examinados os cadernos 04, 05 e 06 de MTC e Qi Gong, a matriz de Jung/símbolos/validação plural e as notas da Árvore da Singularidade, além da continuidade das seções anteriores deste documento. A numeração das páginas dos livros nesta atualização corresponde à **página do PDF**, contando capa e páginas iniciais; não é a paginação impressa.
+
+| Anexo | Extensão do arquivo | Alcance da leitura nesta avaliação | Acréscimo diferencial |
+|---|---:|---|---|
+| Moacir Yau, *Raízes Milenares: Zhan Zhuang — o Qi Gong que Enraíza Corpo, Mente e Energia* | 63 páginas | Leitura integral do texto e inspeção das páginas de instruções das cinco posturas | Linguagem breve para apoio, soltura, firmeza, acolhimento e transferência à vida |
+| Verena Kast, *Imaginação: espaço de autoconhecimento e liberdade*, edição brasileira Vozes, 2024; original de 2012 | 204 páginas | Leitura dirigida dos fundamentos, método, modalidades sensoriais, imaginação guiada, árvore, recursos, interpretação, intervenções, corpo e imaginação ativa; não equivale à leitura integral de todos os casos | Diferenciar funções das imagens e acompanhar sua expressão, elaboração e transformação |
+| Damon Steele, *Master Zhan Zhuang*, copyright 2026 | 237 páginas | Leitura dirigida dos fundamentos científicos alegados, alinhamento, respiração, adaptações, transições, sensações, dificuldades, Yi, objetivos, progressão e registros; inspeção de ilustrações | Organização de alternativas, orientação da prática e observação da continuidade |
+
+O conjunto soma 504 páginas disponíveis. O volume dos arquivos não mede seu acréscimo. A leitura foi orientada pelas perguntas do TSH e pelas afirmações que precisavam de confronto, sem declarar uma revisão sistemática da literatura ou uma auditoria exaustiva de todo o repositório.
+
+### O ponto de partida já existente
+
+O TSH já possui postura da árvore e adaptação sentada, pés/R1, centro inferior, respiração confortável, demonstração, possibilidade de ajustar os braços, conclusão com movimento e ambiente, diferentes entradas de atenção e repetição em espiral. O caderno 05, P1/P1B, já afirma que a finalidade é desenvolver familiaridade sem sensações obrigatórias. Portanto, esses fundamentos não surgem com Yau ou Steele.
+
+Também já existem imagem como investigação em M5.5, interpretação provisória, expressão não diagnóstica, diálogo entre vivido e sentido, Self/Essência, relação entre base e expressão e crescimento assimétrico da Árvore. Kast não inaugura esse campo no curso; oferece um aprofundamento especialmente consistente para desenvolvê-lo.
+
+O ganho desejável é **maior precisão de condução, diversidade de acesso e continuidade entre experiência e vida**. A aquisição de mais posturas ou de um programa semanal pronto não constitui, por si, excelência.
+
+## 59. Moacir Yau: tornar ensináveis as qualidades do cultivo
+
+### Contribuição principal
+
+O guia organiza o Zhan Zhuang por imagens e qualidades que podem ser compreendidas durante a prática: apoio e disponibilidade em Wu Ji; sustentação sem endurecimento em Cheng Bao; direção sem excesso de força em Tui Tuo; adaptação e escuta em Fu’an; acolhimento e contenção em Tuo Bao. Essa organização pode ajudar Fabiano a escolher palavras e perguntas adequadas ao que deseja ensinar em cada ocasião.
+
+O TSH pode aproveitar essas qualidades dentro de sua prática conhecida. Não é necessário transformar as cinco posturas do livro em nova sequência obrigatória. Também não se deve tratar essa nomenclatura e sua associação às qualidades como classificação universal de todas as linhagens de Zhan Zhuang.
+
+### Passagens com acréscimo efetivo
+
+| Páginas do PDF | O que o livro oferece | Aproveitamento para o TSH |
+|---|---|---|
+| 8–9, 17–21 | Árvore, raiz, direção vertical e retorno a Wu Ji | Refinar a demonstração da relação entre apoio, organização e disponibilidade |
+| 14, 24–28 | Qualidade acima da duração; não forçar; baixar os braços ou retornar quando houver fadiga; descanso como treinamento | Concretizar que ajustar, descansar e reorganizar a demanda também podem ser cultivo |
+| 25–26 | Abraçar árvore/bola; sensações eventuais sem procurá-las deliberadamente | Explorar a imagem como apoio à organização e depois observar o que ocorreu |
+| 38–42 | Rio e adaptação sem pressão excessiva das mãos | Investigar firmeza que admite movimento e alteração da participação |
+| 45–49 | Acolher uma esfera sem esmagar nem perder contorno | Correlacionar acolhimento, limite e espaço, mantendo o caráter metafórico |
+| 51–52 | Plano de quatro semanas apresentado como flexível | Consultar como exemplo de organização; não adotar como dose ou progressão validada |
+| 62 | Transferência das qualidades para andar, falar, ouvir e agir | Retomar em M7 e M8 o que a prática oferece à participação cotidiana |
+
+Há uma aplicação particularmente pertinente ao percurso de Fabiano: durante a postura, o aluno pode reconhecer que consegue diminuir uma tensão, baixar os braços ou descansar **antes** do desgaste acentuado. A aquisição não precisa aparecer como maior tempo em pé. Pode aparecer como percepção mais precoce e resposta mais adequada às condições presentes.
+
+Essa leitura aproxima Yau dos cinco movimentos já elaborados no TSH: desenvolver capacidade, favorecer acesso, recuperar-se, rever exigências e construir apoios. O texto apoia especialmente a distinção entre perseverança e insistência indiscriminada.
+
+### Precisões necessárias
+
+Na página 13, calor, formigamento, pulsação e calma posterior aparecem como sinais de estar no caminho certo. Na página 26, o próprio guia orienta a não procurar determinadas sensações. Para o TSH, a segunda orientação oferece melhor referência: **essas sensações podem ocorrer; sua ausência não demonstra falha e sua presença não comprova desenvolvimento energético ou espiritual**. A experiência continua aberta à descrição e ao sentido atribuído pela pessoa e pela tradição.
+
+As expressões segundo as quais a coluna se sustentaria pelo alinhamento, sem esforço muscular, ou o abraço se faria sem músculos, funcionam melhor como imagens de redução do esforço desnecessário. Se usadas como explicação anatômica literal, são inadequadas: o ajuste postural continua envolvendo atividade muscular e sensorial. Song não significa ausência de atividade nem abandono da estrutura.
+
+O Dantian é um campo de cultivo no mapa tradicional. Sua localização não deve ser apresentada como identificação anatômica exata com o centro de massa, que varia conforme corpo e postura. Da mesma forma, as associações entre posturas, meridianos e órgãos pertencem à apresentação tradicional do autor; o guia não oferece estudos que demonstrem esses efeitos específicos.
+
+As descrições de Cheng Bao e Tuo Bao, páginas 25 e 46, são bastante próximas: braços arredondados à frente e palmas voltadas uma para a outra. O texto pode sugerir qualidades diferentes, mas não basta para estabelecer uma diferenciação técnica inequívoca entre as duas formas. A demonstração da versão praticada por Fabiano é a referência mais útil para o aluno. As páginas de instruções examinadas não trazem desenhos que resolvam essa distinção.
+
+### Relação com corpo e planeta
+
+O guia fortalece a experiência de apoio na terra, direção vertical e pertencimento à natureza. Não acrescenta demonstração à correspondência entre meridianos humanos e meridianos geográficos. A passagem específica Dai Mai/Equador continua fundamentada documentalmente em Nogueira Pérez, com o estatuto explicitado nas seções iniciais.
+
+Para as aulas, convém distinguir o contato corporal com chão e gravidade, a imagem de raízes, o sentido de pertencimento ao planeta e a cosmologia tradicional. Essas dimensões podem conversar sem que uma se torne prova da outra. O fato de uma imagem organizar a experiência também não esgota seu valor espiritual.
+
+**Juízo:** contribuição didática relevante e imediatamente aproveitável; acréscimo conceitual moderado diante do que o TSH já possui; fundamentação científica adicional limitada no exemplar fornecido.
+
+## 60. Verena Kast: da imagem que apoia à imagem com a qual se elabora
+
+### A ampliação mais importante
+
+Kast permite desenvolver uma diferenciação que pode aprimorar práticas corporais, Sorriso Interior, Árvore da Singularidade, símbolos e diálogos internos: **usar uma imagem para orientar a atenção é uma atividade diferente de acompanhar uma imagem que se modifica e elaborar sua relação com a vida**. Ambas podem ser úteis; suas finalidades e formas de condução são diferentes.
+
+Nos capítulos iniciais, a imaginação reúne memória, expectativa, desejo, temor, criatividade e relação com o mundo. Na página 27, a autora também reconhece o valor poético da imaginação e apresenta a leitura de Corbin sobre sua função de interface espiritual. O recurso não precisa ser justificado apenas por tornar a pessoa mais eficiente ou mais calma.
+
+Essa contribuição favorece a perspectiva do TSH em que a experiência ampliada encontra continuidade na elaboração, na expressão e na participação. O diálogo com imagens pode produzir perguntas e formas de expressão, e não apenas um estado agradável durante o exercício.
+
+### Quatro usos a diferenciar na preparação das aulas
+
+| Uso da imagem | Exemplo no percurso | O que se ensina e observa |
+|---|---|---|
+| Referência para a organização corporal | Raízes, fio no alto da cabeça, esfera entre os braços | Se a imagem ajuda a reconhecer apoio, distribuir esforço ou ajustar o gesto |
+| Recurso escolhido para acesso a uma qualidade | Lembrança de companhia, alegria, competência, natureza ou acolhimento | Se oferece algum acesso à qualidade buscada nesta ocasião, sem obrigatoriedade de obter um estado |
+| Linguagem expressiva e simbólica | Árvore, paisagem, desenho ou imagem que surge junto de uma emoção | Como a pessoa descreve, associa, representa e mantém abertas possibilidades de sentido |
+| Diálogo imaginativo e elaboração | Relacionar-se com uma figura ou situação interior e acompanhar suas mudanças | Diferenciar o que surge, a própria resposta e suas possíveis relações com a vida |
+
+Essa organização é uma proposta pedagógica deste documento em diálogo com Kast, não uma taxonomia criada pela autora nem um novo conjunto obrigatório de técnicas do TSH.
+
+### Imaginação guiada e imaginação ativa
+
+Nas páginas 46–52, a imaginação guiada utiliza um motivo e perguntas oferecidos externamente, permitindo que o imaginador não siga a proposta quando o processo toma outro rumo. Nas páginas 177–189, imaginação ativa é apresentada em sentido junguiano: participação desperta do eu no encontro com imagens e figuras, mantendo diferenciação e diálogo; sua expressão pode envolver palavras, desenho, modelagem, corpo e dança.
+
+Portanto, acompanhar um roteiro com uma bola de luz, escutar uma visualização ou conversar mentalmente consigo não se torna automaticamente imaginação ativa no sentido de Jung. Nas páginas 180–181, a distinção entre o eu e as figuras é central; na página 188, Kast prefere o diálogo à ideia de forçar essas figuras a responder.
+
+O TSH pode aproveitar essas distinções para nomear melhor suas propostas e aprofundar a passagem entre sentir, diferenciar, expressar e integrar. A técnica clínica integral, com interpretações, intervenções e manejo de casos, é outra composição de trabalho. O fato de o livro ter sido escrito em contexto terapêutico não exige criar novas barreiras para toda utilização educacional de imagens; exige compreender que a finalidade de cada proposta precisa estar clara.
+
+### A Árvore da Singularidade ganha três lugares de investigação
+
+Nas páginas 49–51, Kast propõe explorar a árvore, seu ambiente, clima, textura, cheiro, relação com outras pessoas e a posição de quem imagina. O encontro com a árvore não se limita a observar sua forma. Há terreno, estação, relações e possibilidades de crescimento ou recolhimento.
+
+O TSH pode diferenciar:
+
+1. **Árvore como postura:** experiência corporal de apoio, organização, esforço e disponibilidade.
+2. **Árvore como mapa autoral:** semente, casca, campo, raízes, tronco, ramos e expressão, com os sentidos já desenvolvidos por Fabiano.
+3. **Árvore imaginada ou desenhada pela pessoa:** expressão que pode coincidir parcialmente com o mapa ou apresentar algo diferente dele.
+
+Essa terceira possibilidade é o acréscimo mais fértil. O aluno não precisa produzir a árvore esperada pelo professor. Pode encontrar uma árvore inclinada, sustentada por outras, aparentemente seca em um ramo e florescendo em outro, ou mesmo uma imagem diferente de árvore. A exploração pode perguntar o que essa configuração evoca para a própria pessoa e se alguma relação faz sentido em sua vida.
+
+A imagem de outro ramo, solo ou estação não deve ser convertida em diagnóstico ou em código fixo de maturidade. A leitura da própria Kast, em alguns exemplos, associa clima e estação a estado emocional e fase de vida; no TSH essas relações funcionam melhor como possibilidades de associação, não como regras universais de decifração. Isso é coerente com as notas atuais sobre crescimento assimétrico, singularidade e campo.
+
+### Corpo, imaginação e elaboração sem interpretação precipitada
+
+As páginas 36–42 propõem observar, registrar e dar forma ao vivido, sem correr imediatamente para sua explicação. As páginas 86–88 reconhecem que os símbolos comportam vários sentidos e podem voltar a ser compreendidos de outras maneiras. A autora também afirma que a imagem pode ter efeito sem que tudo seja interpretado.
+
+O TSH pode refinar a atividade existente de M5.5: após observar e sentir, oferecer expressão breve por palavras, desenho ou gesto; depois perguntar por uma associação possível, deixando uma pergunta em aberto. A hipótese não precisa encerrar a imagem nem substituir seu tom emocional.
+
+Nas páginas 159–162, a sensação corporal torna-se ponto de partida para uma imagem. Isso pode enriquecer a distinção entre sentir e interpretar: uma região pode evocar peso, nó ou espaço; investigar essa imagem pode ajudar a formular uma necessidade ou uma possibilidade. **A imagem não estabelece a causa de um sintoma e não informa, por si, o que acontece fisiologicamente em um órgão.**
+
+O exemplo do homem que representa o pescoço e o excesso de sustentação pode dialogar com demandas e recursos: a mudança imaginada pode ser seguida pela pergunta sobre quais apoios, descansos ou acordos seriam possíveis na vida. A leitura é uma correlação pedagógica; o caso relatado não demonstra um mecanismo causal geral da dor.
+
+### Alegria, anseio e capacidade disponível
+
+As páginas 68–74 ampliam os recursos para além de relaxamento e proteção: anseio, alegria, orgulho por uma capacidade ou realização, compartilhamento e antecipação. Isso conversa diretamente com admiração, gratidão, compaixão e espiritualidade cotidiana já incorporadas ao documento.
+
+Recursos podem incluir mobilização, prazer de fazer, coragem e entusiasmo. Uma pessoa pode reencontrar uma qualidade que reconhece em si, sem precisar tornar-se mais quieta. A memória imaginada não obriga o estado a voltar; oferece uma possibilidade de acesso a investigar. O TSH também pode considerar que essa qualidade talvez necessite de oportunidade, companhia e condições reais de expressão.
+
+### Onde a leitura requer atualização ou contraponto
+
+- **Capacidade visual e participação:** as páginas 42–43 desaconselham a técnica em determinadas condições de pouca imagem ou pouco envolvimento emocional. Isso é uma observação clínica sobre adequação de uma modalidade, não fundamento para concluir que toda pessoa deva visualizar nitidamente. O próprio livro amplia a imaginação aos outros sentidos na página 38. No TSH, palavras, sons, orientação espacial, gesto e percepção corporal podem oferecer outras entradas.
+- **Neurociência:** a explicação da página 40 sobre relaxamento e hemisfério direito é simplificadora para ser reproduzida como mecanismo. Liu et al. (2025), em um pequeno estudo com 20 participantes, encontraram redes visuais e frontoparietais, incluindo participação esquerda, e diferenças de conectividade em afantasia. O achado não autoriza reduzir imaginação a um hemisfério nem prometer que todos passarão a ver imagens com treino.
+- **Corpo e doença:** nas páginas 163–165, interpretações de colite ulcerativa/Crohn e casos de melhora são apresentadas dentro de uma tradição psicossomática. Não devem ser transferidas como demonstração de origem emocional ou cura por imagem. O NIDDK descreve na doença de Crohn interações entre imunidade, ambiente, genes e microbioma, com causalidade ainda investigada. Explorar a relação com o corpo não atribui à pessoa a responsabilidade de produzir ou resolver sua doença.
+- **Intervenção e apoio:** no caso das páginas 148–150, a terapeuta rejeita, naquele contexto, a solução imaginada de outras pessoas virem ajudar. Isso é uma decisão clínica narrada e pode ser discutida criticamente. Não oferece regra para desvalorizar receber ajuda, esperar recuperação ou descansar. A formulação de Fabiano sobre construir apoios permanece uma referência mais ampla e adequada ao TSH.
+
+A força da contribuição de Kast não exige adotar todas as interpretações dos casos, a explicação neurocientífica de 2012 ou o alcance terapêutico sugerido por cada narrativa.
+
+### Espiritualidade e AISB
+
+Kast oferece linguagem para o simbólico, o numinoso, a individuação e o encontro com algo que amplia o habitual. Sua contribuição permite aprofundar a interface espiritual sem exigir que o vivido se torne fato material demonstrado para ter significado. Tampouco a neurociência da imaginação decide a origem ou a natureza última da consciência.
+
+Para o AISB, uma pergunta adicional ganha clareza: como atenção, imagem, emoção, linguagem e relação participam da experiência que a pessoa descreve? A instrução do professor pode orientar não só a atenção, mas a expectativa e a forma de relatar. Investigar essa participação qualifica a tradução do vivido; não torna a experiência falsa nem encerra sua interpretação espiritual.
+
+**Juízo:** alto acréscimo conceitual e pedagógico à elaboração do TSH, sobretudo em M5/M6, com retornos a M1.4, M2, M3, M4, M7 e M8. Prioridade para aprofundar a função das imagens, a expressão e a integração; uso crítico dos casos e atualização das explicações biomédicas.
+
+## 61. Damon Steele: organização útil, fundamentação a revisar
+
+### Contribuições aproveitáveis
+
+O manual possui organização acessível: finalidade da prática, organização corporal, respiração, posturas, alternativas sentadas e apoiadas, transições, dificuldades, atenção, objetivos e registro longitudinal. A estrutura pode ajudar a conferir se uma condução deixou claro o que aprender, como ajustar e como continuar.
+
+Nas páginas 107–117, o principal valor é apresentar a alternativa sentada como prática com dignidade própria. O TSH já oferece adaptação sentada; o acréscimo é detalhar o que se conserva — atenção, respiração, contato, organização, intenção — e o que muda — distribuição de carga, apoio e exigência física. Isso não demonstra equivalência de todos os efeitos entre posturas.
+
+Nas páginas 118–125, a atenção às transições pode enriquecer a passagem entre posições e a saída da prática. O aluno pode observar como continua ao baixar os braços, olhar o ambiente, caminhar e entrar em diálogo. Essa exploração oferece um elo concreto com participação na vida. O tom absoluto do livro, segundo o qual não existem intervalos neutros e a prática ou é contínua ou não é, precisa ser flexibilizado no TSH: perceber um afastamento e reencontrar orientação também é aprendizagem.
+
+Nas páginas 134–136, há uma advertência útil contra transformar sensações intensas em troféus de desempenho. Nas páginas 150–151, a distinção entre fiscalizar a forma e habitar a experiência pode ajudar a diminuir a autovigilância excessiva. Nas páginas 202–224, registros breves e retomada posterior oferecem ideias para observar continuidade. A contribuição não exige importar a escala de notas, os marcos semanais nem a expectativa de sensações progressivamente mais rápidas.
+
+### Afirmações que não oferecem boa base científica para o TSH
+
+No exemplar fornecido, não foi localizada uma bibliografia que permita rastrear os estudos invocados nessas explicações. A menção genérica a pesquisas, sem desenho, população, medidas ou referência, não sustenta a precisão causal que o texto adota.
+
+| Localizador | Afirmação ou modo de explicar | Avaliação para o TSH |
+|---|---|---|
+| 26, 39–40, 46, 129 | A postura ativaria de modo específico e mensurável o parassimpático, elevaria o tônus vagal e explicaria o calor periférico | Hipóteses e achados de práticas diferentes são apresentados com certeza excessiva. Calor e sensação de calma não identificam sozinhos o mecanismo autonômico |
+| 40–46 | Remodelação e hidratação da fáscia explicariam os resultados e seriam efeitos que o exercício convencional não produz | Não há demonstração apresentada para essa exclusividade nem para atribuir o alívio do caso de seis minutos a esse mecanismo |
+| 44–45, 60, 65 | Músculos deixariam de ser necessários para uma função assumida por esqueleto e fáscia | Pode inspirar a redução de contração excessiva; não é descrição literal suficiente da sustentação da postura |
+| 72 | Respiração no Dantian melhoraria a entrega de oxigênio em aproximadamente 20–30% desde a primeira sessão | Número apresentado sem referência auditável. Não usar como benefício quantificado |
+| 133–136 | Resíduo emocional ficaria armazenado em fáscia e músculos; sua liberação completaria processos interrompidos | Interpretação apresentada como mecanismo estabelecido. Choro, tremor ou alívio não comprovam localização física de memória nem resolução de trauma |
+| 131–132, 139–141 | Peso, queimação e tremor seriam sinais legíveis de reorganização; sua qualidade distinguiria desconforto produtivo de dor | Não transformar descrições em método confiável de determinar o que acontece no tecido. Resposta inclui ajuste da demanda e avaliação do contexto, não uma presunção de progresso |
+| 143–144 | Microssono e até breve perda de consciência em pé seriam explicados como avanço do relaxamento parassimpático | Não normalizar perda de consciência como efeito esperado de progresso. Sonolência pode pedir descanso; perda de consciência exige avaliação própria |
+| 144–145 | Não perceber sensações após algumas semanas indicaria, em geral, sensibilidade interoceptiva insuficiente | Não há base apresentada para diagnosticar uma deficiência a partir da ausência de calor, formigamento ou pulsação |
+| 146–148, 161 | Um protocolo de dez minutos diários produziria, em seis semanas, melhoras mensuráveis e sensações confiáveis | É uma proposta do autor com promessas; não uma dose mínima eficaz demonstrada para todo participante ou para o TSH |
+| 30–36, 45–46, 151–154 | Qi, mecanismos neurais/circulatórios e fáscia seriam diferentes nomes do mesmo processo já conhecido | O diálogo entre linguagens é pertinente; identidade entre conceitos e mecanismos exige argumentos e evidências que o manual não oferece |
+
+O manual afirma corretamente em certos trechos que não se deve perseguir sensações; em outros, estabelece calor e pulsação como sinais de passagem de nível, afirma que sessões sem efeitos aparentes necessariamente consolidam mudanças e atribui ausência de sensação a dificuldade do praticante. Isso produz uma assimetria problemática: tanto sentir quanto não sentir são usados para confirmar a explicação. No TSH, observar um efeito discreto, um efeito indesejado ou nenhuma mudança relevante precisa continuar sendo uma possibilidade legítima de investigação.
+
+### Adaptação não é uma escala obrigatória de superioridade
+
+A defesa da alternativa sentada convive, na página 116, com a proibição geral de usar o encosto e com uma progressão cujo destino é a posição em pé. Para o TSH, o apoio externo pode continuar participando da base. Usar um encosto, baixar os braços ou permanecer sentado pode ser a composição pertinente para aquela pessoa, e não um estágio inferior que necessariamente deva ser superado.
+
+Os planos de oito e doze semanas podem servir de referência editorial para organizar repetição e retorno. Não devem substituir as condições dos alunos nem a progressão autoral do curso. A espiral pode aparecer no ajuste da participação, na percepção do desgaste e na utilização de ajuda, inclusive quando o tempo ou a complexidade diminuem.
+
+### Imagens e técnica
+
+As ilustrações dão uma visão geral das posturas, mas precisam ser conferidas com a instrução e com a versão ensinada. Na página 95, por exemplo, o texto orienta braços aproximadamente à altura do peito, enquanto a figura apresenta as mãos numa posição mais baixa, à frente do abdome. A imagem não basta como referência técnica autônoma. A esfera luminosa representada nas figuras é um recurso ilustrativo, não registro de um campo medido.
+
+A página 154 apresenta uma coordenação para a órbita, e o TSH já distingue versões no caderno 05, P7. A presença dessa orientação em outro livro não exige trocar a coordenação que Fabiano ensina. Nomear a versão, demonstrar, acompanhar e concluir continua sendo mais útil do que somar instruções de fontes diferentes sem discriminação.
+
+O trabalho em dupla das páginas 154–155 também pode ser lido como observação da própria resposta ao contato, à proximidade e ao olhar do outro. Não demonstra transferência de um campo entre pessoas. No TSH, ele só acrescenta algo se contribuir para as propostas relacionais já existentes; a modalidade on-line e a finalidade da aula orientam a composição.
+
+**Juízo:** contribuição prática moderada, sobretudo para organização, alternativas e transições. O acréscimo científico do exemplar é baixo e várias explicações precisam ser substituídas ou apresentadas como propostas a investigar. Não é uma referência suficiente para promessas clínicas, doses, mecanismos fasciais, armazenamento de trauma ou equivalência Qi–vago–fáscia.
+
+## 62. O que aprimorar nas aulas, na fundamentação e na continuidade
+
+### Fundamentação científica mais específica encontrada na verificação
+
+Há pesquisa direta sobre práticas de postura em pé; isso permite evitar tanto a declaração de ausência total de estudo quanto a afirmação de que todas as explicações dos manuais já foram confirmadas.
+
+**Qi et al. (2023).** Em 24 homens experientes em Tai Chi, a comparação entre repouso em pé e meditação em pé encontrou diferenças na hemodinâmica e conectividade pré-frontal por fNIRS. O desenho compara estados no mesmo grupo e não demonstra os efeitos de ensinar a prática a iniciantes, sua eficácia clínica ou realização espiritual. Oferece um apoio específico para investigar atividade atencional numa prática externamente quieta, sem equiparar quietude a ausência de processamento.
+
+**Li, Liu e Sun (2026).** O estudo de Hunyuan Zhuang incluiu comparação entre experientes e iniciantes e um ensaio piloto de oito semanas. No ensaio, 59 pessoas foram randomizadas e 51 concluíram a análise, com controle de vida habitual/lista de espera. Foram observadas melhoras em medidas de contagem de batimentos e autorrelato de percepção corporal. O ensaio não teve registro prospectivo e não mediu diretamente HRV ou atividade neural; os próprios autores tratam esses mecanismos como hipóteses. Os resultados não demonstram acurácia da interpretação de toda sensação nem validam o programa dos anexos ou do TSH.
+
+**Lyu et al. (2021).** Apesar do título mencionar ensaio randomizado, a publicação apresenta um protocolo, com intervenções e análises futuras. Não deve ser citada como resultado já obtido de melhora autonômica ou redução da ansiedade. **Chen et al. (2026)** também apresentam um protocolo, com comparação planejada entre Zhanzhuang e postura apoiada, medidas fisiológicas e psicospirituais; o planejamento não fornece resultados do ensaio.
+
+**Liu et al. (2025).** A investigação de imaginação visual e afantasia, com dez participantes em cada grupo, evidencia participação de redes visuais e frontoparietais e diferenças na experiência imaginativa. É pertinente à necessidade de oferecer diferentes formas de participação e atualizar simplificações hemisféricas. Não é uma validação da interpretação de símbolos ou da imaginação ativa de Kast.
+
+Esses achados podem integrar a fundamentação docente. Não precisam ocupar os roteiros de prática com nomes de redes e mecanismos quando isso não ajuda a aprendizagem. A interpretação espiritual e as formulações sobre Essência/consciência conservam seu próprio campo de investigação e sentido.
+
+### Destinos concretos, sem duplicação de currículo
+
+| Lugar já existente no TSH | Aprimoramento proposto | Fontes e alcance |
+|---|---|---|
+| M0.2; M1.3; caderno 05 P0/P1 | Demonstrar apoio, esforço necessário, possibilidade de baixar braços e concluir; explicitar a dignidade da alternativa sentada | Yau 14/24–28; Steele 107–117, com revisão de equivalências e proibições gerais |
+| M1.4; M2.5/M2.6 | Distinguir imagem proposta, sensação percebida e sentido atribuído; reconhecer participação da linguagem na experiência | Kast 19–25/36–42; confronto com afirmações de Steele 30–36/129–136 |
+| M3.2 | Aproximar percepção corporal e diferentes direções da atenção, sem tratar intensidade como acurácia | P1B já existente; Kast 38; Li et al. 2026 com limites |
+| M3.3/M3.5/M3.6 | Relacionar demandas, reserva, esforço, apoio e descanso; experimentar ajustar uma condição | Yau 14/28/42; Steele como consulta prática, sem dose mínima ou mecanismo garantido |
+| M4.4/M4.6 | Diferenciar capacidade, modo habitual de usá-la e uma alternativa de participação; admitir recurso imaginativo quando contribuir | Kast 68–74/89–92/159–162; investigação sem atribuição causal ao sintoma |
+| M5.2/M5.4 | Incluir alegria, coragem e entusiasmo entre recursos; sustentar referência durante ativação | Kast 71–74; continuidade com compaixão e presença já desenvolvidas |
+| M5.5 | Aprofundar a prática existente de imagem como investigação; distinguir árvore como postura, mapa e expressão pessoal | Kast 49–51/86–88; notas autorais da Árvore |
+| M5.6–M5.8 | Diferenciar imagem guiada, diálogo simbólico, experiência espiritual e interpretação; acompanhar sentido e integração no tempo | Kast 177–189; não deduzir origem da consciência a partir de mecanismo cerebral |
+| M6.1–M6.3 | Dar forma ao vivido e investigar uma mudança possível na vida; diferenciar a própria resposta das imagens/figuras | Kast 36–42/177–181; aprofundamento da integração existente |
+| M6.5 e encontro M6 | Conservar demonstração, versão da órbita e fechamento; investigar continuidade nas transições | Caderno 05 P7 já existente; Steele como comparação de apresentação |
+| M7.3/M7.4/M7.5 | Reencontrar apoio enquanto escuta, expressa limite ou recebe ajuda; observar participação no encontro | Yau 62; Kast 178–180; propostas relacionais P8 já existentes |
+| M8.2 | Retomar experiência e efeitos na vida: reconheci antes o desgaste? pedi apoio? consegui ajustar? | Yau 28/62; registros de Steele 202–224 adaptados, sem ranking de sensações |
+
+A numeração acima acompanha os destinos operacionais dos cadernos atuais. A matriz histórica de Jung, de julho/agosto de 2026, utiliza seis fases e uma numeração antiga; serve como patrimônio conceitual, não como mapa atual de localização das aulas.
+
+### Três refinamentos concretos de propostas que já existem
+
+**1. Sustentar e ajustar — ampliação de P1 e “Medida do esforço”.** Após a demonstração conhecida, escolher uma variável: altura dos braços, necessidade de pausa ou utilização de apoio. Observar o que muda na possibilidade de acompanhar a proposta. Concluir pela forma já ensinada. Pergunta de elaboração: “Qual ajuste me ajudou a continuar com disponibilidade?” O tempo cabe no bloco prático existente; não é preciso somar uma nova técnica nem provocar desconforto para produzir contraste.
+
+**2. Árvore e campo — ampliação de “Imagem como investigação”, M5.5.** Convidar a uma árvore ou outra imagem que faça sentido; observar forma, ambiente e posição da pessoa em relação a ela. Permitir palavras, gesto ou desenho. Perguntar por uma relação possível com a vida, sem entregar um significado. Retomar depois: “A imagem ou minha compreensão mudaram?” A imagem escolhida pela pessoa pode surpreender o mapa do professor; não precisa ilustrá-lo corretamente.
+
+**3. Uma qualidade e sua oportunidade — ampliação dos recursos de P4/P6.** A pessoa pode lembrar ou imaginar uma situação simples de alegria, companhia, coragem ou realização e observar o que se torna disponível. Depois, investigar uma condição real em que essa qualidade teria lugar: descanso, conversa, atividade, mudança de exigência ou apoio. Não é um exercício para tornar obrigatória uma emoção positiva. A continuidade pode exigir ação no ambiente e na relação, além de atenção individual.
+
+As três propostas são adaptações pedagógicas sugeridas em diálogo com as fontes e com as construções de Fabiano. Não são ensaios validados, prescrições universais nem registros de práticas já realizadas com a turma.
+
+### Formulação integradora proposta
+
+**No cultivo corporal, podemos reconhecer apoios, refinar a medida do esforço e ampliar a disponibilidade para a experiência. Imagens podem ajudar a orientar a atenção, oferecer recursos e dar forma ao vivido. A elaboração aproxima essa experiência de seus possíveis sentidos; a participação na vida permite experimentar, acompanhar e rever o que foi compreendido. Descansar, receber ajuda, expressar um limite ou reorganizar uma condição também podem ser modos de cultivar e de integrar.**
+
+Essa formulação aprofunda a proposição já desenvolvida por Fabiano sobre sustentação, abertura, elaboração e participação. A relação é recíproca e pode aparecer em diferentes ordens: uma relação ou mudança de condição também pode oferecer sustentação; uma experiência pode abrir novas perguntas; a elaboração pode modificar a forma de praticar. Presença atravessa essas dimensões sem exigir um estado fixo de calma.
+
+O juízo de excelência não se apoia em número de posturas, duração, produção de calor, nitidez de imagens ou intensidade espiritual. Investiga se o percurso amplia a possibilidade de sentir, diferenciar, elaborar e responder — inclusive reconhecer que uma proposta não ajudou naquela ocasião e escolher outra participação.
+
+### Fontes primárias e caminhos de consulta
+
+- Qi, L. et al. (2023). *Prefrontal cortical hemodynamics and functional network organization during Tai Chi standing meditation: an fNIRS study*. DOI: [10.3389/fnhum.2023.1294312](https://doi.org/10.3389/fnhum.2023.1294312). [Texto primário consultado](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2023.1294312/full).
+- Li, W., Liu, T., & Sun, C. (2026). *Hunyuan zhuang improves interoception: evidence from an expert-novice study and a pilot randomized controlled trial*. DOI: [10.1038/s41598-026-42253-0](https://doi.org/10.1038/s41598-026-42253-0). [Registro e resumo consultados](https://pubmed.ncbi.nlm.nih.gov/41776288/); [texto primário recuperado em trechos indexados](https://pmc.ncbi.nlm.nih.gov/articles/PMC13066386/). O acesso direto ao texto pelo serviço de consulta encontrou verificação de navegador; métodos e limitações foram conferidos nos trechos indexados do próprio artigo.
+- Lyu, J. et al. (2021). *The effect of three-circle post standing (Zhanzhuang) qigong on the physical and psychological well-being of college students: A randomized controlled trial*. DOI: [10.1097/MD.0000000000026368](https://doi.org/10.1097/MD.0000000000026368). [Registro e resumo consultados](https://pubmed.ncbi.nlm.nih.gov/34128894/). Classificação nesta avaliação: protocolo, sem resultados do ensaio nessa publicação.
+- Chen, Z. J. et al. (2026). *Standing like a tree: A randomized controlled trial protocol examining daoist zhanzhuang within a PNEI framework*. DOI: [10.1016/j.bbii.2026.100198](https://doi.org/10.1016/j.bbii.2026.100198). [Resumo primário indexado consultado](https://www.sciencedirect.com/science/article/pii/S2949834126000504). A página completa encontrou bloqueio de acesso; o caráter de protocolo e o desenho planejado estão explicitados no resumo.
+- Liu, J. et al. (2025). *Visual mental imagery in typical imagers and in aphantasia: A millimeter-scale 7-T fMRI study*. DOI: [10.1016/j.cortex.2025.01.013](https://doi.org/10.1016/j.cortex.2025.01.013). [Registro e resumo consultados](https://pubmed.ncbi.nlm.nih.gov/40031090/).
+- National Institute of Diabetes and Digestive and Kidney Diseases — NIDDK (revisão de julho de 2024). *Symptoms & Causes of Crohn’s Disease*. [Fonte institucional consultada](https://www.niddk.nih.gov/health-information/digestive-diseases/crohns-disease/symptoms-causes).
+
+Notas de destino efetivamente consultadas na revisão `3906063017a43da40937f35c48064c30e38dca11`:
+
+- `70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/MTC e Qi Gong/04 - Caderno de Fundamentação - Cultivo Meditação Prana e Circulação.md`.
+- `70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/MTC e Qi Gong/05 - Caderno de Condução - Sequências e Aprendizagens do Cultivo.md` — P0/P1/P1B; P4/P6/P7/P8; “Imagem como investigação”; “Medida do esforço”.
+- `70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/MTC e Qi Gong/06 - Incorporação às Aulas e Gravações - Cultivo no TSH.md`.
+- `70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/Matriz de Inserção Curricular - Jung, Símbolos e Validação Plural.md` — leitura conceitual; numeração histórica.
+- `70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/ABBSP/11 - Semente, Casca, Campo e Árvore.md`.
+- `70 - Produções/Cursos/Curso - Nome Provisório/80 - Banco Fenomenológico/10 - Derivações Conceituais/Árvore da Singularidade - Crescimento Assimétrico e Congruência Expressiva.md`.
+
+**Situação desta atualização:** as seções 58–62 foram acrescentadas ao documento de trabalho com avaliação, localizadores e destinos propostos. Na etapa anterior ainda não haviam sido registradas no GitHub. A solicitação posterior de Fabiano incorporou as seções 53–62, suas fontes e os destinos pertinentes aos cadernos de produção em ramificação. Arquivos finais de apresentações e vídeos permanecem etapas próprias; a entrada na main depende de homologação. A integração já concluída da PR #75 corresponde à etapa das seções 1–52 e aos seus caminhos de consulta. Esta avaliação não modifica automaticamente a programação das aulas nem os registros em `main`.
+
+## 63. Incorporação escolhida por Fabiano: árvore, imaginação e participação
+
+Em 21/11/2026, após a avaliação dos três anexos, Fabiano destacou como especialmente fértil diferenciar **árvore como postura, árvore como mapa autoral e árvore imaginada ou desenhada pelo participante**. Solicitou incorporar essa elaboração e o vocabulário de imaginação ativa, com aprofundamentos pertinentes nas aulas e verificação de todos os materiais avaliados.
+
+A [nota de aprofundamento da Árvore da Singularidade](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/%C3%81rvore%20da%20Singularidade%20-%20Postura%20Mapa%20e%20Express%C3%A3o%20Pessoal.md) reúne a escolha, a diferenciação, a relação com crescimento assimétrico/campo/apoios, uma condução desenvolvida e seus destinos. A produção pessoal pode ampliar a metáfora; não precisa corresponder a uma árvore esperada pelo professor. As relações de sentido permanecem investigáveis pela pessoa, sem decifração pronta.
+
+| Destino escolhido | Incorporação para preparar as aulas |
+| --- | --- |
+| M0/M1 e M3 | Apoio, esforço, ajuste, pausa, alternativa sentada e outras condições de participação, dentro da base que já é ensinada |
+| M5.5 | Aprofundar imagem como investigação; diferenciar postura, mapa autoral e expressão pessoal; oferecer expressão por imagem, palavra, desenho ou gesto |
+| M5/M6 | Dar forma ao vivido, explorar associações, conservar perguntas e acompanhar a elaboração no tempo; nomear com precisão a imaginação ativa junguiana |
+| M7/M8 | Investigar efeitos na escuta, nos limites, no recebimento de ajuda, no descanso e na organização da vida; retomar sem exigir progresso linear |
+
+Essas incorporações estão direcionadas aos cadernos de fundamentação/condução/aulas, às notas da Árvore, à consulta curricular e aos índices dos projetos. As avaliações de Hübl, Levitin e Pedro Ivo também foram recuperadas das seções 53–57: presença relacional e testemunho; função da música, escolha e contexto; sugestão, imaginação e memória. As contribuições e as precisões documentais ficam disponíveis juntas, para aproveitamento pertinente à produção.
+
+O pedido incorpora conteúdos e destinos ao acervo de produção. Não declara que todas as práticas candidatas foram executadas, que as apresentações estão montadas ou que os vídeos das aulas foram substituídos. A seleção, a composição e a condução seguem o trabalho autoral de Fabiano.
+
+## 64. Conferência dos materiais, originais e caminhos de produção
+
+### Alcance e resultado
+
+A conferência desta etapa compara o documento integral, os originais fornecidos neste chat e os destinos efetivos no GitHub, tomando como base a main `3906063017a43da40937f35c48064c30e38dca11`. Foram localizadas duas lacunas: as seções 53–62 ainda estavam apenas no documento de trabalho; diversos originais das etapas anteriores tinham links externos, mas não uma cópia rastreável no repositório. A presente incorporação completa essas rotas, preservando as fontes e diferenciando avaliação, escolha autoral e composição de aula.
+
+O documento passa a reunir as seções 1–64. A parte 1–52 preserva o conteúdo atual da main, inclusive histórico e links internos; 53–62 preserva as avaliações posteriores; 63 registra a escolha atual de Fabiano; esta seção confere disponibilidade e destino. A consulta curricular, o inventário, os cadernos e os projetos editoriais apontam para os trechos pertinentes.
+
+### Livros e apresentações fornecidos neste chat
+
+| Original disponível no repositório | Contribuição e precisão a recuperar | Seções | Destino pertinente |
+| --- | --- | --- | --- |
+| [We Are Electric - Sally Adee.pdf](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/80%20-%20Fontes%20Bibliogr%C3%A1ficas/We%20Are%20Electric%20-%20Sally%20Adee.pdf) | Bioeletricidade, organização e fronteira de investigação | 8–9, 17–18 | M3; AISB; livro; artigos |
+| [Espejo-del-Cerebro(1).pdf](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/80%20-%20Fontes%20Bibliogr%C3%A1ficas/Espejo-del-Cerebro%281%29.pdf) | Castellanos: amostra de 13 páginas; percepção e primeira pessoa | 29–34 | M1/M2/M3/M5; fundamentação e escrita |
+| [El puente donde habitan las mar - Nazareth Castellanos.pdf](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/80%20-%20Fontes%20Bibliogr%C3%A1ficas/El%20puente%20donde%20habitan%20las%20mar%20-%20Nazareth%20Castellanos.pdf) | Castellanos: amostra de 30 páginas; corpo, atenção e experiência | 29–34 | M1/M2/M3/M5; fundamentação e escrita |
+| [Neurociencia-del-cuerpo-Nazareth-Castellanos (2).pdf](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/80%20-%20Fontes%20Bibliogr%C3%A1ficas/611202503-Neurociencia-del-cuerpo-Nazareth-Castellanos.pdf) | Castellanos: exemplar de 214 páginas, já existente com outro nome | 29–34 | M1/M2/M3/M5; fundamentação e escrita |
+| [A biologia do trauma_ Como o co - Aimie Apigian.pdf](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/80%20-%20Fontes%20Bibliogr%C3%A1ficas/A%20biologia%20do%20trauma_%20Como%20o%20co%20-%20Aimie%20Apigian.pdf) | Corpo e trauma; leitura com as precisões registradas | 36–42 | M3/M4/M5; fundamentação docente |
+| [TRANSTORNO DISSOCIATIVO DE IDEN - Edison Bueno.pdf](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/80%20-%20Fontes%20Bibliogr%C3%A1ficas/TRANSTORNO%20DISSOCIATIVO%20DE%20IDEN%20-%20Edison%20Bueno.pdf) | Dissociação, diferenciação de quietude e presença | 36–42, 45 | M3/M5/M6; CEEP e escrita |
+| [Ancorado_ como fazer as pazes c - Deb Dana.pdf](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/80%20-%20Fontes%20Bibliogr%C3%A1ficas/Ancorado_%20como%20fazer%20as%20pazes%20c%20-%20Deb%20Dana.pdf) | Recursos, estados e experiências autotranscendentes | 36–48 | M3/M5/M6/M7; cultivo e espiritualidade cotidiana |
+| [Nosso mundo polivagal_ Como a s - Stephen W. Porges.pdf](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/80%20-%20Fontes%20Bibliogr%C3%A1ficas/Nosso%20mundo%20polivagal_%20Como%20a%20s%20-%20Stephen%20W.%20Porges.pdf) | Regulação e condições corporais; alcances do modelo | 36–48 | M3/M5/M6; fundamentação docente |
+| [Experimentando a Terapia Focada - Russell L. Kolts.pdf](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/80%20-%20Fontes%20Bibliogr%C3%A1ficas/Experimentando%20a%20Terapia%20Focada%20-%20Russell%20L.%20Kolts.pdf) | Kolts/Bell/Bennett-Levy/Irons: cuidado, três fluxos e autorreflexão | 49–52 | M3/M4/M5/M7; compaixão e relação |
+| [Apostila MOTIVAÇÃO MORAL Compaixão, Empatia, Altruísmo e Egoísmo.pdf](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/80%20-%20Fontes%20Bibliogr%C3%A1ficas/Apostila%20MOTIVA%C3%87%C3%83O%20MORAL%20Compaix%C3%A3o%2C%20Empatia%2C%20Altru%C3%ADsmo%20e%20Ego%C3%ADsmo.pdf) | Apostila PUCRS: retomada ética/relacional e correções bibliográficas | 51–52 | M5/M7; compaixão, valores e contexto |
+| [Attuned - Thomas Hubl.pdf](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/80%20-%20Fontes%20Bibliogr%C3%A1ficas/Attuned%20-%20Thomas%20Hubl.pdf) | Hübl: presença relacional, interdependência e testemunho; precisões de física e leitura do outro | 53–54, 57 | M3/M5/M6/M7; CEEP; capítulo; AISB |
+| [A cura pela musica - Daniel J. Levitin.pdf](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/80%20-%20Fontes%20Bibliogr%C3%A1ficas/A%20cura%20pela%20musica%20-%20Daniel%20J.%20Levitin.pdf) | Música, escolha, familiaridade e contexto; continuidade com Naranjo | 53, 55, 57 | M3/M5/M6/M7/M8; práticas e encontros |
+| [A Neurociencia da Hipnose - Pedro Ivo.pdf](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/80%20-%20Fontes%20Bibliogr%C3%A1ficas/A%20Neurociencia%20da%20Hipnose%20-%20Pedro%20Ivo.pdf) | Sugestão, imaginação e memória; conferir as correções identificadas | 53, 56–57 | M1/M2/M5/M6; hipnose e auto-hipnose |
+| [Raizes Milenares_ Zhan Zhuang - - Moacir Yau.pdf](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/80%20-%20Fontes%20Bibliogr%C3%A1ficas/Raizes%20Milenares_%20Zhan%20Zhuang%20-%20-%20Moacir%20Yau.pdf) | Didática da sustentação, soltura, ajuste e descanso | 58–59, 62–63 | M0/M1/M3/M7/M8; condução |
+| [Imaginacao - Verena Kast.pdf](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/80%20-%20Fontes%20Bibliogr%C3%A1ficas/Imaginacao%20-%20Verena%20Kast.pdf) | Imaginação, árvore, expressão e diálogo; leitura crítica dos casos | 58, 60, 62–63 | M5.5/M5/M6; retomadas em M1/M3/M7/M8 |
+| [MASTER ZHAN ZHUANG_ A Step-by-S - Damon Steele.pdf](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/80%20-%20Fontes%20Bibliogr%C3%A1ficas/MASTER%20ZHAN%20ZHUANG_%20A%20Step-by-S%20-%20Damon%20Steele.pdf) | Organização, alternativas e transições; revisão das explicações fisiológicas | 58, 61–63 | M0/M1/M3/M7/M8; consulta docente seletiva |
+| [Aterramento.pptx](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Materiais/Pr%C3%A1ticas%20Transversais/Acervo%20Visual%20-%20Corpo%20Eixo%20e%20Experi%C3%AAncia/Originais/Aterramento.pptx) | Apresentação autoral avaliada com os outros dois arquivos: 227 slides no conjunto | 19–28 | M3/M5/M7; patrimônio visual e expressão |
+| [Palestra Criando um caminho positivo na Transição Planetária.pptx](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Materiais/Pr%C3%A1ticas%20Transversais/Acervo%20Visual%20-%20Corpo%20Eixo%20e%20Experi%C3%AAncia/Originais/Palestra%20Criando%20um%20caminho%20positivo%20na%20Transi%C3%A7%C3%A3o%20Planet%C3%A1ria.pptx) | Apresentação autoral: cultivo, centro e integração | 19–28 | M3/M5/M7; CEEP e escrita |
+| [Criando um caminho positivo na Transição Planetária.pptx](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Materiais/Pr%C3%A1ticas%20Transversais/Acervo%20Visual%20-%20Corpo%20Eixo%20e%20Experi%C3%AAncia/Originais/Criando%20um%20caminho%20positivo%20na%20Transi%C3%A7%C3%A3o%20Planet%C3%A1ria.pptx) | Outra versão autoral preservada; não substituir silenciosamente a anterior | 19–28 | M3/M5/M7; patrimônio visual e escrita |
+
+Os exemplares parciais de Castellanos continuam identificados como amostras. O registro de um arquivo integral não significa leitura crítica integral de cada página: os alcances de leitura estão descritos nas avaliações. As associações e as correções acompanham o material; preservação do original não equivale a endosso de todas as suas afirmações.
+
+### Acervo CEMETC e fontes autorais do AISB
+
+O [índice dos originais CEMETC](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/80%20-%20Fontes%20Bibliogr%C3%A1ficas/Acervo%20CEMETC%20-%20Acupuntura%20Bioenerg%C3%A9tica/00%20-%20Consulta%20dos%20Originais%20no%20Reposit%C3%B3rio.md) disponibiliza os 48 arquivos do pacote fornecido, com suas subpastas, nomes recuperados e integridade dos bytes, incluindo 39 PDFs. As notas atuais de Nogueira Pérez, os localizadores e as avaliações das seções 2–6 e 18 continuam orientando a consulta por tema. Os cadernos OneNote e outros arquivos do pacote são preservados como originais; a cópia não declara nova leitura ou conversão desses formatos.
+
+Os três arquivos autorais mencionados desde a seção 18 também foram recuperados e disponibilizados como fontes, sem reedição:
+
+- [AISB_Documento_Teorico_Mestre_v0_2.docx](../Livro%20Autoral%20-%20Arquitetura%20Transversal/10%20-%20Fontes%20Recuperadas/AISB/Originais/AISB_Documento_Teorico_Mestre_v0_2.docx).
+- [Quando-Sentimos-que-Sabemos-Revisada.pptx](../Livro%20Autoral%20-%20Arquitetura%20Transversal/10%20-%20Fontes%20Recuperadas/AISB/Originais/Quando-Sentimos-que-Sabemos-Revisada.pptx).
+- [Roteiro-Academico-IGM-Neurofenomenologia-AISB.docx](../Livro%20Autoral%20-%20Arquitetura%20Transversal/10%20-%20Fontes%20Recuperadas/AISB/Originais/Roteiro-Academico-IGM-Neurofenomenologia-AISB.docx).
+
+As pesquisas e os chats não são declarados integralmente recuperados. Esta auditoria cobre os materiais identificados e avaliados neste documento e os originais fornecidos nesta frente. Fontes de outros chats continuam sendo consultadas pelos seus registros próprios, conforme pertinência.
+
+### Caminhos para preparar produtos
+
+- **TSH:** [consulta por aula](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/10%20-%20Governan%C3%A7a%20do%20Conhecimento/06%20-%20Matriz%20Mestre%20de%20Incorpora%C3%A7%C3%A3o%20do%20Conte%C3%BAdo%20%C3%A0%20Estrutura%209-54.md), [inventário](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/10%20-%20Governan%C3%A7a%20do%20Conhecimento/02%20-%20Invent%C3%A1rio%20Mestre%20de%20Conte%C3%BAdos%20Dispon%C3%ADveis.md), [Árvore: postura, mapa e expressão pessoal](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/%C3%81rvore%20da%20Singularidade%20-%20Postura%20Mapa%20e%20Express%C3%A3o%20Pessoal.md), [fundamentação](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/MTC%20e%20Qi%20Gong/04%20-%20Caderno%20de%20Fundamenta%C3%A7%C3%A3o%20-%20Cultivo%20Medita%C3%A7%C3%A3o%20Prana%20e%20Circula%C3%A7%C3%A3o.md), [condução](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/MTC%20e%20Qi%20Gong/05%20-%20Caderno%20de%20Condu%C3%A7%C3%A3o%20-%20Sequ%C3%AAncias%20e%20Aprendizagens%20do%20Cultivo.md) e [montagem das aulas](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/MTC%20e%20Qi%20Gong/06%20-%20Incorpora%C3%A7%C3%A3o%20%C3%A0s%20Aulas%20e%20Grava%C3%A7%C3%B5es%20-%20Cultivo%20no%20TSH.md).
+- **Música e encontros:** [Naranjo e a retomada de Levitin](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/03%20-%20Naranjo%20-%20M%C3%BAsica%20Escuta%20e%20Integra%C3%A7%C3%A3o.md).
+- **Hipnose e imaginação:** [consulta por autor e aula, incluindo Pedro Ivo e Kast](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Hipnose%20e%20Auto-Hipnose/07%20-%20Referenciais%20por%20Autor%20-%20%C3%8Dndice%20por%20Aula%20e%20Etapa.md).
+- **AISB, artigos e reaproveitamento:** [índice de pesquisa/editorial](../00%20-%20%C3%8Dndice%20-%20Sistema%20de%20Pesquisa%20e%20Editorial.md) e [relações entre tema e produto](../03%20-%20Matriz%20Tema%20%C3%97%20Produto.md).
+- **Arquitetura Invisível, CEEP e capítulo:** os respectivos estados de continuidade recuperam os temas deste documento em diálogo com as fontes próprias; não modificam o TCC já concluído nem substituem automaticamente apresentações existentes.
+
+**Estado do registro:** incorporação solicitada por Fabiano, preparada na ramificação `conteudo/tsh-arvore-imaginacao-fontes-2026-11-21` para consulta e revisão. A entrada na main depende de sua homologação. A produção dos arquivos finais de cada aula permanece distinta do registro de conteúdos, fontes e orientações de montagem.
