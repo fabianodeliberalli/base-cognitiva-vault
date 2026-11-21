@@ -554,3 +554,7 @@ Esta síntese retoma formulações anteriores e propõe articulações novas par
 - [Reparação e responsabilidade](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/main/30%20-%20Paradigmas/Repara%C3%A7%C3%A3o%20como%20Indicador%20Transversal%20do%20EIXO.md).
 - [Self Essência e linguagens da profundidade](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/main/50%20-%20Rela%C3%A7%C3%B5es/Self,%20Ess%C3%AAncia,%20Alma,%20Eu%20Superior%20e%20Fontes%20Integrais.md).
 - [Ressonância estrutural e campo relacional](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/main/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/ABBSP/14%20-%20Resson%C3%A2ncia%20Estrutural%20e%20Campo%20Relacional.md).
+
+## Aprofundamento posterior sobre consciência e desenvolvimento
+
+Consultar também [[90 - Sistema/Pesquisa e Editorial/Sínteses Transversais/Consciência desenvolvimento e integração da experiência|Consciência, desenvolvimento e integração da experiência]], produzido a pedido de Fabiano em 21/11/2026. O texto amplia esta síntese com leituras diretas de Damásio e Wilber, diferenças entre estados/estruturas/linhas e modos de conhecer, corpo e sentimentos e desenvolvimento de possibilidades na vida. Reúne Word e aplicações para aulas, capítulo, livro e modelo neurobiológico-relacional. As referências desta síntese a imagens ainda não recuperadas descrevem a etapa de sua redação; a apresentação inicial e as garrafas foram localizadas na produção posterior do roteiro.

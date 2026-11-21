@@ -6,6 +6,11 @@ versao: "0.31"
 atualizado_em: 2026-11-21
 ---
 
+## Consciência, desenvolvimento e integração — aprofundamento de 21/11/2026
+
+Fabiano solicitou preservar [[90 - Sistema/Pesquisa e Editorial/Sínteses Transversais/Consciência desenvolvimento e integração da experiência|Consciência, desenvolvimento e integração da experiência]] e consultá-lo em produções pertinentes. O texto complementa a síntese anterior com leituras diretas de Damásio e Wilber, distinções entre estados/estruturas/linhas, modos de conhecer e suas fontes históricas, diferenças entre teorias e participação na vida. A seção “Aplicações nas aulas e textos” direciona fundamentos, percepção corporal, cultivo, espiritualidade, tradução, relações, continuidade e retorno com aquisição. Recuperar por tema junto dos materiais atuais da aula e das decisões autorais já registradas; a preservação não declara as propostas como redações finais.
+
+
 ## Síntese sobre experiência e integração — consulta solicitada em 21/11/2026
 
 Ao produzir trabalhos pertinentes sobre consciência, espiritualidade, Essência/singularidade, tradução, relações, cultivo ou integração, consultar os trechos de [[90 - Sistema/Pesquisa e Editorial/Sínteses Transversais/Experiência espiritual e integração na vida|Experiência espiritual e integração na vida]]. A nota reúne o ensaio integral, Word/PDF, glossário, referências e destinos para TSH, CEEP, capítulo e livro. No TSH, contribui para percepção, diferenciação, participação, acesso, cultivo e expressão; os vínculos com o TCC e as monografias permitem recuperar a genealogia dos fundamentos. Fabiano solicitou a preservação e a consulta futura; as novas ampliações permanecem propostas para revisão autoral, em diálogo com a arquitetura e os materiais atuais.

@@ -79,3 +79,5 @@ Nenhum conhecimento relevante deve depender exclusivamente da memória de um cha
 ## Sínteses transversais para consulta por tema
 
 - [[90 - Sistema/Pesquisa e Editorial/Sínteses Transversais/Experiência espiritual e integração na vida|Experiência espiritual e integração na vida]] — ensaio integral, Word/PDF, glossário e referências; consulta futura solicitada por Fabiano em 21/11/2026 para CEEP, TSH, capítulo, Arquitetura Invisível e desenvolvimento do modelo neurobiológico-relacional. Retomar os trechos pertinentes sobre consciência, espiritualidade, tradução, singularidade, cultivo, relações e integração. As notas de retomada de cada frente apontam para a mesma fonte.
+
+- [[90 - Sistema/Pesquisa e Editorial/Sínteses Transversais/Consciência desenvolvimento e integração da experiência|Consciência, desenvolvimento e integração da experiência]] — aprofundamento solicitado em 21/11/2026; ensaio integral e Word sobre corpo/sentimentos, modos de conhecer, estados/estruturas/linhas, horizonte da Essência, elaboração e integração temporal. A seção de aplicações direciona o resgate para CEEP, TSH, capítulo, Arquitetura Invisível e modelo neurobiológico-relacional.

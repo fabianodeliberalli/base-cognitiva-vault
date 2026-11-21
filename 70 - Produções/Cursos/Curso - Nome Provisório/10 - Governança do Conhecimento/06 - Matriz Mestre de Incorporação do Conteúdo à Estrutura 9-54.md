@@ -10,6 +10,11 @@ autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
 
+## Consciência estados e integração — fonte para aulas e textos — 21/11/2026
+
+Ao desenvolver fundamentos da consciência, modos de conhecer, estados e desenvolvimento, percepção corporal, elaboração ou continuidade, consultar [[90 - Sistema/Pesquisa e Editorial/Sínteses Transversais/Consciência desenvolvimento e integração da experiência|Consciência, desenvolvimento e integração da experiência]]. A seção “Aplicações nas aulas e textos” relaciona os temas às perguntas pedagógicas e às fontes primárias, junto das decisões sobre espiral e retorno com aquisição já registradas. O pedido de Fabiano é tornar a construção recuperável para as produções pertinentes; a seleção por aula permanece uma decisão de produção, sem correspondência curricular obrigatória.
+
+
 ## Espiral, espelho, caminho, corpos e cartografias — destinos nas aulas — 21/11/2026
 
 Registro pedido por Fabiano em 21/11/2026 para consulta futura na estruturação das aulas, **quando pertinente**. São propostas consultáveis: nenhuma muda módulos, as 54 aulas ou roteiros já feitos. Cada nota traz fontes, olho (filtro dos três olhos), cuidados e o que é decisão de Fabiano ou proposta.

@@ -7,6 +7,11 @@ projeto: livro-autoral
 fase: cartografia-transversal-do-corpus
 ---
 
+## Consciência desenvolvimento e integração — 21/11/2026
+
+Fabiano solicitou preservar [[90 - Sistema/Pesquisa e Editorial/Sínteses Transversais/Consciência desenvolvimento e integração da experiência|Consciência, desenvolvimento e integração da experiência]] para produções pertinentes. Recuperar nas constelações de formação da experiência, simbolização, diferenciação, singularidade/expressão, regulação, espiritualidade e epistemologia. O ensaio relaciona corpo/sentimentos, modos de conhecer, desenvolvimento desigual de capacidades e expressão na existência; a seção de aplicações indica destinos para Arquitetura Invisível e para o modelo neurobiológico-relacional. Complementa a síntese anterior e não define o sumário do livro.
+
+
 # LEIA PRIMEIRO — Estado e Continuidade do Livro
 
 ## Síntese transversal disponível — registro de 21/11/2026

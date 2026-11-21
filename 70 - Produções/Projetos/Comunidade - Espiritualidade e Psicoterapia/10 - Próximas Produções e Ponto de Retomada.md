@@ -11,6 +11,11 @@ tags:
   - próximas-etapas
 ---
 
+## Texto de aprofundamento e próxima retomada — 21/11/2026
+
+Fabiano pediu primeiro a construção e o registro de [[90 - Sistema/Pesquisa e Editorial/Sínteses Transversais/Consciência desenvolvimento e integração da experiência|Consciência, desenvolvimento e integração da experiência]]; a produção dos PowerPoints será retomada depois. Ao voltar à segunda aula, partir desse ensaio junto do roteiro de produção: propor centralidade à distinção estados/estruturas/linhas, incorporar corpo e sentimentos, contextualizar os três olhos e usar o quadro dos autores como ponte para o acompanhamento clínico. Preservar o caso em bloco contínuo e a diferença entre mudanças descritas e desdobramentos a conhecer. A nota do ensaio contém texto para a tela dos modos de conhecer e correções localizadas do PowerPoint Além das Fronteiras.
+
+
 # Próximas produções
 
 ## Segunda aula e síntese transversal — retomada de 21/11/2026

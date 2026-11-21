@@ -10,6 +10,11 @@ atualizado_em: 2026-11-21
 relacionado_a: 01 - Reconciliação da Governança do Conhecimento e Disponibilidade do Acervo
 ---
 
+## Consciência desenvolvimento e integração — 21/11/2026
+
+[[90 - Sistema/Pesquisa e Editorial/Sínteses Transversais/Consciência desenvolvimento e integração da experiência|Consciência, desenvolvimento e integração da experiência]] reúne ensaio integral pesquisável, Word, referências e destinos de consulta. Amplia as relações entre corpo/sentimentos, modos de conhecer, estados/estruturas/linhas, Essência, tradução, autonomia, ressonância e integração temporal. A seção “Aplicações nas aulas e textos” indica usos em fundamentos, percepção corporal, cultivo, espiritualidade, padrões, relações e continuidade; aproxima também CEEP, capítulo, livro e modelo neurobiológico-relacional. Registro e resgate futuro solicitados por Fabiano.
+
+
 ## Experiência espiritual e integração na vida — 21/11/2026
 
 [[90 - Sistema/Pesquisa e Editorial/Sínteses Transversais/Experiência espiritual e integração na vida|Experiência espiritual e integração na vida]] reúne o texto integral de síntese, Word e PDF de 24 páginas, 47 verbetes de glossário e referências. Consulta futura solicitada por Fabiano para trabalhos pertinentes. Articula intensidade/mudança/continuidade/integração; consciência e abertura ontológica; tradução e significado; Essência e singularidade; corpo, cultivo, autonomia, ressonância, relações e reparação. Recupera o percurso da monografia de MTC, da pós em Psicologia Transpessoal e do TCC neurobiológico-relacional.
