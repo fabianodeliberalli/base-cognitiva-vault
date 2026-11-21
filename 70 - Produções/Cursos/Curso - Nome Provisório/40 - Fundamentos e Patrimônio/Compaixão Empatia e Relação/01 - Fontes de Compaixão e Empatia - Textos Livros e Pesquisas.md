@@ -3,7 +3,7 @@ tipo: inventario-tematico-de-fontes
 projeto: Traduzindo o Ser Humano
 status: referencia-de-trabalho-e-propostas-de-desenvolvimento
 criado_em: 2026-11-14
-atualizado_em: 2026-11-14
+atualizado_em: 2026-11-21
 ---
 
 # Fontes de compaixão empatia e correlatos para as aulas
@@ -505,3 +505,42 @@ ANDREU, Catherine I. et al. (2025). Investigating the Psychophysiological Effect
 - Pema Chödrön. [How to Practice Tonglen Meditation](https://www.lionsroar.com/how-to-practice-tonglen-meditation/). Fonte de orientação tradicional, com possibilidades formais, cotidianas e dirigidas à própria dificuldade. Não é estudo de eficácia.
 - Dalai Lama. [Science at the Crossroads](https://www.dalailama.com/messages/buddhism/science-at-the-crossroads), palestra de 12/11/2005. Situa cultivo e familiarização no contexto contemplativo e no diálogo com a pesquisa.
 - HeartMath. [Quick Coherence Technique](https://www.heartmath.com/resources/quick-coherance-technique/). Fonte oficial da técnica; separar instrução, experiência e alcance das explicações do sistema.
+
+## 11 Kolts e colaboradores e retomada da PUCRS — 21/11/2026
+
+### NF08 Kolts Bell Bennett-Levy e Irons — autoprática e autorreflexão
+
+**Referência:** KOLTS, Russell L.; BELL, Tobyn; BENNETT-LEVY, James; IRONS, Chris. *Experimentando a terapia focada na compaixão de dentro para fora: um manual de autoprática/autorreflexão para terapeutas*. Artmed, 2025; original de 2018.
+
+[PDF fornecido por Fabiano](https://chatgpt.com/library?file_id=libfile_fde3_f-52dd91b327a88191977a6203cb3f4858_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal) — 353 páginas digitais. A identificação do original permite sua recuperação na conta; a avaliação e os localizadores permanecem pesquisáveis no repositório.
+
+| Páginas do PDF | Conteúdo | Destino |
+| --- | --- | --- |
+| 33–36; 221–231 | Compaixão: contato com o sofrimento, cuidado e ação. | M4/M5/M7; coragem e limites. |
+| 38–46; 331–337 | Autoprática, autorreflexão e continuidade. | M1/M6/M8; experiência, elaboração e uso situado. |
+| 76–80 | Ameaça, busca de objetivos/recompensas, tranquilização/segurança. | M3/M4; investigar a motivação da prática. |
+| 84–88; 103–108 | Ritmo respiratório tranquilizador e observação da respiração. | M3/M5; explicitar intenções diferentes. |
+| 109–121 | História e análise funcional compassiva. | M4/M7; proteção, custos e resposta possível. |
+| 139–144 | Receios de oferecer, receber e dirigir cuidado a si. | M4/M5/M7; diferenciação e apoio. |
+| 196–220; 285–301 | Perspectivas emocionais e self compassivo. | M4/M5/M6; manter diferenças de Self/Essência. |
+| 262–273 | Receber cuidado; distinguir acontecimento e resposta interna. | M2/M5/M7. |
+
+**Alcance:** leitura dirigida dos capítulos pertinentes e exame da organização do manual. Público original: terapeutas em formação experiencial. As adaptações ao TSH têm seus próprios objetivos; a sequência de 34 módulos e seus instrumentos não são assumidos como currículo do curso. [Avaliação e alcance da pesquisa](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#50-kolts-bell-bennett-levy-e-irons-contribui%C3%A7%C3%A3o-do-manual-de-compaix%C3%A3o); [possibilidades práticas](03%20-%20Compaix%C3%A3o%20e%20Empatia%20-%20Pr%C3%A1ticas%20e%20Condu%C3%A7%C3%A3o.md).
+
+### Retomada de NF04 — apostila PUCRS
+
+Draiton Gonzaga de Souza e Pedro Savi Neto, *Motivação moral: compaixão, empatia, altruísmo e egoísmo*, 49 páginas. O arquivo reenviado em 21/11 é idêntico ao anteriormente registrado: SHA-256 f2fee0323e32845cd78a506b52f6ee122e412fecc1b257f2750cdce4bfd47074.
+
+[Reenvio fornecido por Fabiano](https://chatgpt.com/library?file_id=libfile_fde3_f-33f1c902ebc4819193a38a1561435b87_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal). [Aprofundamento e correções](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#51-apostila-pucrs-motiva%C3%A7%C3%A3o-moral-compaix%C3%A3o-empatia-altru%C3%ADsmo-e-ego%C3%ADsmo): PDF 16/30, concepção de ser humano; 23–30, reconhecimento e dependência; 43–44, empatia seletiva; 46, ambiente de aprendizagem. Na página 26, a descrição de *Remédio para a aceleração* atribui a obra a Han; na 30, *Resonancia* é atribuída a Argullol. Ambas são de Hartmut Rosa, conforme os catálogos [Océano](https://oceano.mx/ficha-libro.aspx?id=21203) e [Katz](https://katzeditores.com/libro/resonancia_161349/). A correção refere-se à apostila, sem inferência sobre as aulas gravadas.
+
+### R23 Matos e colaboradores — estudo piloto do treinamento compassivo
+
+MATOS, Marcela et al. (2017). *Psychological and Physiological Effects of Compassionate Mind Training: a Pilot Randomised Controlled Study*. [DOI 10.1007/s12671-017-0745-7](https://doi.org/10.1007/s12671-017-0745-7); [artigo consultado](https://self-compassion.org/wp-content/uploads/2018/05/Matos.Duarte.2017.pdf).
+
+**Alcance:** estudo piloto randomizado; 117 inicialmente alocados, 93 concluintes; treinamento breve versus lista de espera, amostra predominantemente feminina e estudantil. Apoio inicial a alguns efeitos psicológicos. Na VFC, a interação tempo×grupo apresentou p = 0,054; a comparação dentro do grupo de treinamento, p = 0,035. Os resultados não validam a sequência completa do manual nem as propostas do TSH. Ver seção 50.7 da avaliação.
+
+R04, sobre medos da compaixão, já constava no inventário e permanece como referência, sem criar outro código para o mesmo estudo.
+
+### Maslow e a simultaneidade de necessidades
+
+MASLOW, A. H. (1943). *A theory of human motivation*. [DOI 10.1037/h0054346](https://doi.org/10.1037/h0054346); [texto consultado](https://psychclassics.yorku.ca/Maslow/motivation.htm). O original reconhece exceções à ordem e satisfação parcial e simultânea de necessidades. Qualifica a apresentação rígida da página 26 da apostila e ajuda a preservar o caráter recíproco do fundamento proposto. Não estabelece equivalência entre a teoria de Maslow e o TSH.

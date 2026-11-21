@@ -3,8 +3,38 @@ tipo: destinos-pedagogicos-para-producao
 projeto: Traduzindo o Ser Humano
 status: referencia-de-trabalho-e-propostas-de-desenvolvimento
 criado_em: 2026-11-14
-atualizado_em: 2026-11-16
+atualizado_em: 2026-11-21
 ---
+
+## Cultivo, sustentação e participação — incorporação de 21/11/2026
+
+As [destinações da avaliação de Kolts e da apostila PUCRS](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#52-consequ%C3%AAncias-para-a-estrutura%C3%A7%C3%A3o-das-aulas-e-propostas-de-explora%C3%A7%C3%A3o) complementam as fontes anteriores:
+
+| Aulas | Conteúdo e função |
+| --- | --- |
+| M0.3; M1.1/M1.2/M1.3/M1.7 | Sustentação, acesso, aprendizagem e eixo; apresentar cinco possibilidades de cultivo. |
+| M2.5/M2.6; M4.2–M4.6 | Gesto de ajuda, resposta interna, interpretação e perspectivas emocionais; investigar a função de uma resposta. |
+| M3.1–M3.3/M3.5–M3.7 | Disponibilidade, recuperação e condições; propósito de cada prática e motivação de desempenho. |
+| M5.2–M5.4; M5.6–M5.8 | Compaixão, bússolas, presença, Essência e discernimento; preservar diferenças entre mapas. |
+| M6.1–M6.6; M7.3–M7.8 | Integração, receber cuidado, limites, efeitos e reparação; relacionar experiência e participação. |
+| M8.2 | Retomada, apoios e continuidade em espiral. |
+
+[As quatro explorações](03%20-%20Compaix%C3%A3o%20e%20Empatia%20-%20Pr%C3%A1ticas%20e%20Condu%C3%A7%C3%A3o.md) permitem reconhecer o que a situação pede; observar como o cuidado é recebido; experimentar cuidado com firmeza; e retomar uma experiência na vida. [As fontes](01%20-%20Fontes%20de%20Compaix%C3%A3o%20e%20Empatia%20-%20Textos%20Livros%20e%20Pesquisas.md) localizam o manual e a pesquisa piloto, além da apostila já existente e de suas correções. A [matriz de consulta por aula](../../10%20-%20Governan%C3%A7a%20do%20Conhecimento/06%20-%20Matriz%20Mestre%20de%20Incorpora%C3%A7%C3%A3o%20do%20Conte%C3%BAdo%20%C3%A0%20Estrutura%209-54.md) discrimina os destinos.
+
+## Experiências autotranscendentes — destinos de 21/11/2026
+
+A incorporação foi solicitada por Fabiano. O [desenvolvimento integral](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#43-autotranscend%C3%AAncia-no-cotidiano-cultivo-corporal-rela%C3%A7%C3%A3o-e-espiritualidade), a [distinção entre sustentação, quietude e integração](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#45-sustenta%C3%A7%C3%A3o-quietude-e-integra%C3%A7%C3%A3o-diferen%C3%A7as-que-qualificam-a-presen%C3%A7a) e as [fontes conferidas](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#48-fontes-do-aprofundamento-e-alcance-da-fundamenta%C3%A7%C3%A3o) ficam disponíveis junto da fundamentação e das práticas já registradas.
+
+| Aula | Ganho concreto | Material a recuperar |
+| --- | --- | --- |
+| M5.2 — valores, compaixão e bússolas | Receber apoio; reconhecer um valor; relacionar cuidado, limite e resposta. | [Gratidão, compaixão e elevação](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#43-autotranscend%C3%AAncia-no-cotidiano-cultivo-corporal-rela%C3%A7%C3%A3o-e-espiritualidade); [receber](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#462-reconhecer-e-receber-um-apoio); [humanidade comum](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#463-humanidade-comum-e-resposta-poss%C3%ADvel). |
+| M5.4/M5.5 — espaço e símbolos | Quietude com presença e elaboração em tempo próprio. | [Distinções](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#45-sustenta%C3%A7%C3%A3o-quietude-e-integra%C3%A7%C3%A3o-diferen%C3%A7as-que-qualificam-a-presen%C3%A7a); [permanecer e mover](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#464-permanecer-mover-e-reconhecer-a-diferen%C3%A7a). |
+| M5.6–M5.8 — espiritualidade e discernimento | Admiração, pertencimento e cotidiano; sentido e efeitos posteriores. | [Texto-base](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#43-autotranscend%C3%AAncia-no-cotidiano-cultivo-corporal-rela%C3%A7%C3%A3o-e-espiritualidade); [pertencimento e participação](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#466-da-experi%C3%AAncia-de-pertencimento-a-uma-participa%C3%A7%C3%A3o-concreta). |
+| M6.1/M6.5/M6.6 — integração e espiral | O que a experiência torna reconhecível e possível depois. | [Integração](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#45-sustenta%C3%A7%C3%A3o-quietude-e-integra%C3%A7%C3%A3o-diferen%C3%A7as-que-qualificam-a-presen%C3%A7a); [destinos](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#47-incorpora%C3%A7%C3%A3o-ao-percurso-e-continuidade-da-produ%C3%A7%C3%A3o). |
+| M7.3/M7.4/M7.6–M7.8 — relação e responsabilidade | Cuidar e receber com diferenciação; apoio, limites e condições concretas. | [Humanidade comum](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#463-humanidade-comum-e-resposta-poss%C3%ADvel); [demandas e condições](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#465-o-que-precisa-de-cultivo-e-o-que-precisa-de-condi%C3%A7%C3%A3o). |
+| M8.2 — continuidade | Selecionar uma participação viável e rever necessidades e recursos. | [Cultivo e condições](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#465-o-que-precisa-de-cultivo-e-o-que-precisa-de-condi%C3%A7%C3%A3o); [continuidade](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#47-incorpora%C3%A7%C3%A3o-ao-percurso-e-continuidade-da-produ%C3%A7%C3%A3o). |
+
+A inclusão amplia as possibilidades de ensino. Gratidão não exige agradecer pelo que feriu; compaixão não exige concordância, perdão ou reconciliação. A resposta do participante pode conter sentimentos diferentes. As práticas existentes, inclusive Tonglen/HeartMath, mantêm suas fontes e finalidades; estas explorações não se apresentam como versões equivalentes delas.
 
 ## Naranjo — cultivo afetivo, relação e música — 16/11/2026
 

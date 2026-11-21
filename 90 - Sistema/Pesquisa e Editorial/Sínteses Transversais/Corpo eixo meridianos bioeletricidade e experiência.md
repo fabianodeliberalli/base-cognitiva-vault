@@ -18,9 +18,9 @@ aliases:
 ## Pesquisa de fontes e proposta de desenvolvimento a partir do AISB
 
 Fabiano Deliberalli · 21 de novembro de 2026  
-Estado: versão de trabalho ampliada após auditoria de cobertura, análise de 227 slides e avaliação dos três anexos de Castellanos.
+Estado: referência de conteúdo e versão de trabalho, com os aprofundamentos sobre autotranscendência, recursos, sustentação, quietude e integração incorporados ao acervo por solicitação de Fabiano; roteiros e composições práticas permanecem em desenvolvimento.
 
-**Roteiro de leitura:** seções 1–18 preservam a pesquisa inicial; seção 19 apresenta a auditoria; seções 20–27 desenvolvem a avaliação das três apresentações, as ampliações, as correções e os destinos de incorporação. A síntese da seção 26 amplia a proposta da seção 16. A segunda auditoria está na seção 28; as seções 29–34 avaliam Castellanos e aprofundam sua incorporação, com síntese na seção 33. A seção 35 reúne os caminhos de consulta para aulas, pesquisas e projetos editoriais.
+**Roteiro de leitura:** seções 1–18 preservam a pesquisa inicial; seção 19 apresenta a auditoria; seções 20–27 desenvolvem a avaliação das três apresentações, as ampliações, as correções e os destinos de incorporação. A síntese da seção 26 amplia a proposta da seção 16. A segunda auditoria está na seção 28; as seções 29–34 avaliam Castellanos e aprofundam sua incorporação, com síntese na seção 33. A seção 35 reúne os caminhos de consulta para aulas, pesquisas e projetos editoriais. A avaliação dos quatro anexos sobre trauma, regulação e dissociação está nas seções 36–42. As seções 43–48 aprofundam os núcleos escolhidos por Fabiano: experiências autotranscendentes; demandas, recursos e capacidade disponível; sustentação, quietude e integração. A seção 46 oferece seis explorações; a 47 localiza as aulas; a 48 reúne fontes e consulta. As seções 49–52 registram a avaliação do fundamento sustentação–abertura–elaboração–participação, do manual de Kolts e colaboradores e da apostila de motivação moral, com fontes, correções e destinos nas aulas.
 
 ## 1. Resultado da pesquisa
 
@@ -1230,3 +1230,852 @@ Registro solicitado por Fabiano em 21/11/2026. As elaborações de Castellanos e
 - [Capítulo Espiritualidade e Psicoterapia](../Cap%C3%ADtulo%20-%20Espiritualidade%20e%20Psicoterapia/LEIA%20PRIMEIRO%20-%20Estado%20e%20Continuidade%20do%20Cap%C3%ADtulo.md): primeira pessoa, escuta e elaboração.
 
 Na preparação, recuperar o trecho que contribui para a pergunta da aula ou do texto, junto das outras fontes pertinentes. Os livros e apresentações originais continuam localizados pelos links das seções 18, 27 e 34. O registro torna a pesquisa recuperável; não declara reedição de aulas gravadas nem substituição dos materiais finais.
+
+## 36. Trauma, regulação, dissociação e cultivo: avaliação dos quatro novos anexos
+
+**Data: 21/11/2026. Natureza desta atualização: avaliação e propostas de ampliação.** A análise complementa a pesquisa já desenvolvida; não declara que todas as propostas foram adotadas nem que as aulas foram reeditadas.
+
+O acréscimo mais relevante é aprofundar as condições em que uma pessoa pode aproximar-se da experiência corporal, permanecer em relação com o que sente e desenvolver possibilidades de resposta. Os livros ajudam a investigar por que concentração, compreensão e intenção podem estar presentes sem que exista disponibilidade suficiente para uma prática ou uma escolha. Também permitem distinguir quietude, repouso, imobilidade defensiva, presença e experiência ampliada.
+
+O documento já afirmava que a base precisa sustentar amplitude, adaptação e participação. Estes anexos dão maior espessura clínica, relacional e pedagógica a essa formulação. Seu ganho principal está nesse aprofundamento. Eles não oferecem demonstração dos meridianos como estruturas elétricas, das correspondências geográficas como mecanismos físicos ou da consciência transcendente como conclusão neurofisiológica.
+
+### 36.1. Alcance da consulta
+
+Foram examinados os quatro arquivos completos disponibilizados, com leitura dirigida dos capítulos pertinentes, conferência dos sumários, das passagens citadas, das referências apresentadas e de páginas com diagramas. Os números abaixo indicam **páginas do PDF**, incluindo elementos editoriais; não são a paginação impressa nem uma declaração de auditoria de cada frase dos livros.
+
+| Obra e arquivo fornecido | Extensão do arquivo | Trechos centrais para esta avaliação |
+| --- | --- | --- |
+| Aimie Apigian, *A biologia do trauma: como o corpo guarda o medo, a dor e a sobrecarga — e como curá-lo*. Original de 2025; tradução de 2026. | 313 páginas | Respostas ao trauma e distinção estresse/trauma, 20–63; explicações celulares, 64–74; persistência e padrões, 101–145; segurança, suporte e expansão, 179–227; explicações bioquímicas e intervenções, 228–278; bibliografia, 300–312. |
+| Edison Bueno, *Transtorno Dissociativo de Identidade e Teoria Polivagal: uma abordagem neurobiológica integrativa para compreensão e tratamento*, 2025. | 229 páginas | Conceitos e critérios, 10–41; correspondências autonômicas, 50–59; tratamento e partes, 65–110; cotidiano e recuperação, 125–155; meditação transcendental, 163–177; apêndices e recursos, 185–229. |
+| Deb Dana, *Ancorado: como fazer as pazes com seu sistema nervoso usando a Teoria Polivagal*. Original de 2021; edição brasileira de 2025 no arquivo. | 237 páginas | Modelo e escuta, 24–58; neurocepção e conexão/proteção, 76–108; âncoras e vislumbres, 109–131; moldagem e dosagem, 132–154; histórias, 155–170; experiências autotranscendentes, 171–186; cuidado e comunidade, 187–213. |
+| Stephen W. Porges **e Seth Porges**, *Nosso mundo polivagal: como a segurança e o trauma nos transformam*. | 246 páginas | Organismo e resposta, 21–33; neurocepção, brincar e apaziguamento, 34–60; vago e explicações fisiológicas, 61–91; corregulação, 92–106; trauma, 107–136; ambientes e educação, 148–176. O fim do arquivo inclui publicidade editorial, que não foi tratado como conteúdo dos autores. |
+
+Os quatro PDFs já estavam na pasta `80 - Fontes Bibliográficas` do TSH na `main` consultada. Isso confirma disponibilidade dos arquivos; não demonstra incorporação de todos os seus conteúdos aos roteiros.
+
+### 36.2. O que já está desenvolvido no TSH
+
+A consulta foi realizada diretamente no GitHub, na `main`, commit `82e712452e3118483a3e8f2721c689df6b3164c2`. Foram confrontados o Raio X atual, a matriz de incorporação, o inventário, o roteiro de abertura do Módulo 1, os cadernos de cultivo e práticas, a fundamentação de compaixão e a nota de diferenciação clínica de experiências espirituais. A leitura não permite afirmar que todos os roteiros e vídeos das 54 aulas já estejam finalizados ou publicados.
+
+Já constam no percurso:
+
+- condições corporais e relacionais de acesso; janela de tolerância;
+- interocepção com alternância de apoios internos e externos;
+- alostase, demandas, descanso e recursos;
+- Teoria Polivagal como perspectiva específica, com seus debates;
+- escolha, dosagem e adaptação dos recursos de retorno;
+- padrões como aprendizagem e proteção, sem explicar toda repetição por trauma;
+- partes internas como mapa de escuta e integração que respeita diferenças;
+- espiritualidade, discernimento, efeitos e continuidade na vida;
+- limites, relações, assimetrias, reparação e responsabilidade situada.
+
+Deb Dana também já aparece na fundamentação de compaixão, por suas contribuições à escuta corporal e às condições de acesso. Autorregulação e corregulação já são transversais no caderno de práticas. Portanto, os novos anexos **aprofundam uma construção existente**. A novidade mais clara é a recuperação de passagens, exemplos e explorações específicas, com avaliação de seu alcance.
+
+## 37. Contribuição diferencial de cada obra
+
+### 37.1. Deb Dana: maior contribuição direta à pedagogia das práticas
+
+*Ancorado* oferece o conjunto mais imediatamente aproveitável para transformar fundamentos em aprendizagem cotidiana. Sua contribuição não depende de apresentar toda a teoria como consenso fisiológico.
+
+**Âncoras e vislumbres.** Nas páginas 109–131, Dana explora pessoas, lugares, objetos e experiências sensoriais que ajudam a reencontrar uma qualidade de conexão. Os “vislumbres” são pequenos momentos reconhecíveis no cotidiano, não experiências extraordinárias que o participante precise produzir. Para o TSH, isso amplia os recursos de retorno: a base pode ser cultivada em pequenas oportunidades e em apoios concretos, sem depender de uma prática longa ou de um estado especial.
+
+**Dosagem como aprendizagem.** Nas páginas 132–154, a “moldagem suave” trabalha diferenças entre expansão, saborear, estresse e sobrevivência. A contribuição mais fértil é ensinar o participante a reconhecer quando uma exploração ainda favorece curiosidade e quando já restringe suas possibilidades de participar. A escala da autora pode inspirar perguntas e imagens; não precisa converter-se em escala obrigatória ou em diagnóstico do estado vagal.
+
+**Amplitude da regulação.** As páginas 110–115 contemplam entusiasmo e mobilização, além de tranquilidade. Isso fortalece a base já proposta nos slides de aterramento: sustentar presença também pode significar brincar, mover-se, expressar raiva com direção ou permanecer em contato durante uma emoção intensa. O eixo não se mede pela ausência de ativação.
+
+**Estado e história.** Nas páginas 76–90 e 155–170, Dana articula respostas corporais e histórias sobre si e o mundo. Essa relação dá um exemplo didático para a Tradução: uma alteração do estado pode tornar determinada leitura mais convincente; reconhecer essa participação permite examinar outras possibilidades. O corpo oferece informação relevante, sem tornar qualquer interpretação corporal infalível.
+
+**Uma ponte direta com o tema deste chat.** O capítulo sobre experiências autotranscendentes, páginas 171–186, aborda admiração, gratidão, compaixão, elevação e quietude, incluindo conexão com pessoas e planeta. Esse é um acréscimo particularmente pertinente ao documento. Permite aproximar cultivo corporal e experiências de pertencimento e ampliação, reconhecíveis também na vida comum. A explicação autonômica da autora é uma leitura sobre condições corporais; não esgota o sentido espiritual atribuído à experiência no TSH.
+
+**Precisões úteis.** Expressões como “energia vagal ventral”, “abraço ventral” e envio dessa energia a outra pessoa, nas páginas 111–112 e 183–184, funcionam no livro como linguagem clínica, gesto e imaginação. Não demonstram transmissão de um campo energético específico. Da mesma forma, descrever compaixão e quietude por combinações de estados autonômicos não identifica uma localização exclusiva dessas experiências nem prova suas interpretações ontológicas. No material do aluno, a clareza pode ser simples: reconhecer o efeito do gesto, da voz, da atenção e da relação; a discussão técnica permanece no caderno do educador.
+
+**Avaliação:** contribuição alta para condução, exemplos, cultivo cotidiano, integração e comunidade. A obra aprofunda sobretudo a passagem entre compreender um mapa e reconhecer como usá-lo na própria vida.
+
+### 37.2. Stephen e Seth Porges: maior contribuição às condições relacionais e ambientais
+
+*Nosso mundo polivagal* amplia a reflexão para além do exercício individual. Seus capítulos sobre corregulação, trabalho e educação ajudam a perguntar que condições favorecem ou dificultam o acesso ao que uma pessoa sabe.
+
+**O organismo participa da resposta.** Nas páginas 28–30, os autores apresentam o estado corporal como variável que participa da relação entre acontecimento e resposta. A página 30 esclarece que o estado altera probabilidades, não determina o destino. Essa precisão interessa ao TSH: contextualizar a resposta não elimina discernimento, aprendizagem ou responsabilidade.
+
+**Corregulação e diferenciação.** As páginas 92–106 tornam concretos voz, rosto, ritmo e reciprocidade. O ganho para a ressonância estrutural é investigar como a relação altera a disponibilidade de cada pessoa, incluindo a possibilidade de permanecer em relação sem perder a própria posição. Corregulação, contágio emocional, coordenação comportamental e sincronia fisiológica continuam sendo relações diferentes. A existência de influência interpessoal não basta para afirmar transmissão telepática ou equivalência entre campos tradicionais e sinais físicos.
+
+**Brincar e mobilizar-se com conexão.** Nas páginas 54–57, jogo, dança e exercício mostram que intensidade e vínculo podem coexistir. Isso aprofunda a formulação de base e amplitude já presente neste documento. A pergunta pedagógica passa a incluir: “Consigo mobilizar energia para viver e agir conservando alguma capacidade de perceber e ajustar?”.
+
+**Apaziguamento e limites.** As páginas 58–60 examinam respostas de aproximação e submissão diante de ameaça. Para as aulas de relações, isso ajuda a distinguir disponibilidade para o encontro de concordância produzida pelo medo. O aluno pode estar sorrindo, colaborando ou dizendo “sim” enquanto tenta preservar segurança. A aparência social, isoladamente, não resolve a leitura da experiência.
+
+**O ambiente também participa.** As páginas 148–176 discutem previsibilidade, condições de trabalho, estímulos sensoriais, aprendizagem e intimidação. O acréscimo ao TSH é concreto: não atribuir toda dificuldade a uma insuficiência individual de autorregulação. Descanso, condições materiais, redução de coerção e relações de apoio também podem precisar de mudança.
+
+Nos encontros on-line, isso pode orientar apresentação clara do que acontecerá, transições compreensíveis, pausas e alternativas de participação. São propostas pedagógicas para favorecer aprendizagem; não se deduz daí uma garantia de “segurança vagal” ou uma obrigação de contato visual, exposição pessoal ou demonstração de serenidade.
+
+**Precisões úteis.** A correspondência entre três circuitos e três experiências globais é o modelo explicativo dos autores. A simplificação evolutiva e a atribuição de estados vividos a ramos vagais precisam ser avaliadas separadamente do valor dos exemplos clínicos. Respirar, cantar ou relacionar-se também não equivale, em dose e mecanismo, à estimulação elétrica do nervo vago empregada em pesquisas e tratamentos específicos.
+
+**Avaliação:** contribuição alta para relações, comunidade, condições de aprendizagem e contexto. O livro fortalece a dimensão relacional já presente no TSH e na elaboração acadêmica de Fabiano, sem constituir uma validação experimental do curso.
+
+### 37.3. Aimie Apigian: contribuição à sobrecarga e aos recursos, com extrapolações biológicas relevantes
+
+*A biologia do trauma* é útil para desenvolver a diferença entre conseguir compreender e dispor de condições para experimentar uma resposta diferente. Seu aproveitamento pede seleção mais cuidadosa das explicações.
+
+**Demanda, capacidade e recuperação.** As páginas 34–63 apresentam sobrecarga como relação entre exigências e recursos disponíveis. Essa formulação dialoga com alostase, reserva e cultivo no TSH. O ganho não é descobrir que existem limites, tema já presente, mas construir exemplos em que uma prática, um desafio ou uma exigência podem exceder o que a pessoa consegue sustentar naquele momento. A adaptação pode envolver reduzir demandas e obter apoio, além de treinar capacidades.
+
+**Proteção e custo.** As páginas 101–145 relacionam desconexão, exaustão, perfeccionismo e modos de continuar funcionando. Isso pode enriquecer a Árvore da Singularidade: a casca pode ter preservado a vida e, em determinadas condições, restringir expressão e vínculo. Trata-se de uma possibilidade a investigar, não da explicação necessária para todo perfeccionismo, cansaço ou padrão.
+
+**Segurança, suporte e expansão.** Nas páginas 179–227, a autora propõe uma sequência e enfatiza experiências concretas, repetição e manutenção corporal. Para o TSH, o ponto produtivo é reconhecer que expansão pode exigir sustentação e recursos. A ordem apresentada pertence ao modelo da autora; não se converte em uma lei universal para toda aprendizagem ou todo trabalho com trauma.
+
+**O que precisa de revisão antes de fundamentar uma aula:**
+
+- **Estresse versus trauma.** A página 26 nega que a resposta de estresse possa tornar-se prolongada ou crônica; as páginas 35–37 opõem estresse que energiza e fortalece a trauma que esgota. Essa dicotomia não oferece uma descrição suficiente. Estresse crônico existe; experiências traumáticas também podem envolver hiperativação. Cansaço não demonstra trauma, e energia elevada não o exclui. A distinção pedagógica mais útil é entre desafio que a pessoa consegue manejar e situações de sobrecarga, com história, duração e condições próprias.
+- **Galectina-3.** A página 71 apresenta seu resultado sanguíneo como avaliação do “grau da biologia do trauma”. As referências de galectina-3 apresentadas no livro tratam de funções biológicas e neurodegeneração; não demonstram a validade diagnóstica dessa utilização para trauma psicológico. O exame não é fundamento estabelecido, nesta análise, para localizar ou quantificar o trauma de uma pessoa.
+- **Resposta celular ao perigo.** As páginas 72–74 e 119–128 aproximam a proposta de Naviaux, metabolismo e “apagão” psicológico. Essa aproximação oferece uma hipótese de articulação entre níveis; não demonstra que vivência traumática, resposta metabólica celular e estados vagais sejam um mesmo processo identificável em qualquer caso.
+- **Doença e causalidade individual.** Os relatos de lúpus e outras condições não demonstram que o trauma foi sua causa nem que as intervenções descritas produziram sua reversão. Há pesquisa sobre associações entre transtornos relacionados ao estresse e autoimunidade, mas associação populacional não decide a causalidade de um caso.
+- **Intervenções bioquímicas.** As páginas 205, 218–245 e 263–278 incluem suplementos, aminoácidos e explicações por toxinas, neurotransmissores e metabolismo. São propostas clínicas específicas da autora; o livro não fornece, por si só, validação suficiente para transformá-las em conteúdo de intervenção do TSH. Sono, alimentação, descanso e avaliação de necessidades de saúde podem integrar a reflexão sobre condições de vida sem importar um programa de suplementação.
+
+**Avaliação:** contribuição relevante e seletiva para sobrecarga, recursos, proteção e cultivo. Seu poder narrativo é maior que a solidez demonstrada de algumas explicações causais. A principal contribuição ao documento é aprofundar sustentação e recuperação, preservando as diferenças entre experiência, funcionamento psicológico e processos celulares.
+
+### 37.4. Edison Bueno: contribuição pontual ao discernimento, com fragilidade de rastreabilidade
+
+O livro oferece uma organização acessível de temas clínicos: descontinuidades de memória e identidade, proteção, relação com partes, cooperação interna e funcionamento cotidiano. As páginas 65–110 e 125–155 ajudam a formular perguntas sobre integração que não se limita a eliminar diferenças internas. Esse princípio, entretanto, já está desenvolvido no TSH com IFS, Salvador e a proposta de integrar sem tornar tudo igual.
+
+**O acréscimo mais útil é diferenciar conceitos próximos.** “Partes internas” no ensino do TSH, Três Eus, conflitos cotidianos, estados autonômicos, experiências espirituais e transtorno dissociativo de identidade não são sinônimos. A nota de diferenciação clínica existente no repositório localizava o tema de forma breve. Os anexos permitem aprofundá-lo, especialmente com fontes diagnósticas e pesquisas primárias.
+
+**A principal limitação é apresentar correspondências e resultados específicos sem rastreabilidade suficiente:**
+
+1. Nas páginas 38–40 e 50–53, o texto atribui configurações neurais e autonômicas a tipos de alters de maneira muito direta. Diferenças psicobiológicas entre estados de identidade são objeto de pesquisa; isso não estabelece uma tabela universal “alter protetor = simpático”, “alter traumático = dorsal”, “alter funcional = ventral”.
+2. A cronologia cerebral da página 22 situa linguagem e memória narrativa no desenvolvimento do córtex temporal entre 7 e 11 anos, enquanto a página 23 situa linguagem e memória autobiográfica entre 18 meses e 3 anos. A apresentação contém uma inconsistência interna e simplifica excessivamente o desenvolvimento para servir de fundamento neuroanatômico.
+3. O capítulo de meditação transcendental, páginas 163–177, afirma aumento de **28%** na conectividade da rede de modo padrão e **35%** na integridade de tratos frontolímbicos após 12 meses, atribuído a um estudo de 2023; apresenta ainda uma revisão de 2024 com 47 estudos e um acompanhamento de sete anos com 68% versus 31% de recuperação funcional. Não identifica autores, títulos, periódicos ou identificadores desses estudos nas passagens nem oferece uma ligação bibliográfica rastreável para os números. As buscas dirigidas desta avaliação não localizaram correspondência suficiente para confirmá-los. Isso é uma falha de verificação, não uma demonstração de que tais estudos jamais possam existir.
+4. Resultados de meditação em TEPT não validam automaticamente um tratamento específico para TDI. O ensaio de Nidich e colaboradores, de 2018, é real e pertinente ao TEPT em veteranos; não investigou integração de alters nem os resultados de neuroimagem acima.
+5. A proposta de consciência pura como substrato anterior à fragmentação, página 174, é uma interpretação teórica/espiritual. Pode dialogar com o horizonte do TSH, mas não demonstra que acessar esse estado integre automaticamente a história ou dispense elaboração, relação e acompanhamento dos efeitos.
+
+**Avaliação:** contribuição pontual para bastidores clínicos e diferenciação de conceitos; baixo acréscimo teórico exclusivo frente ao que já existe no TSH. As afirmações quantitativas e as equivalências neurofisiológicas do livro não oferecem fundamentação científica confiável enquanto permanecerem sem confirmação. As perguntas úteis podem ser recuperadas e aprofundadas com fontes mais rastreáveis.
+
+## 38. Ampliações para a perspectiva de corpo, eixo e consciência
+
+### 38.1. Base é capacidade de participar em diferentes estados
+
+O aterramento já foi desenvolvido como sustentação da amplitude da vida. Dana e Porges tornam essa proposta mais concreta: presença pode coexistir com entusiasmo, tristeza, defesa de um limite e movimento. A pergunta relevante é como reconhecer o que está acontecendo e conservar ou recuperar possibilidades de ação, reflexão, vínculo e ajuste.
+
+Para o eixo, o acréscimo é uma distinção entre permanecer rígido e dispor de referência durante mudanças. Para o pêndulo, importa observar também o que permite mobilização e recuperação. Para a espiral, a aprendizagem pode aparecer na maneira de pedir ajuda, dosar uma prática ou responder a uma situação recorrente, mesmo quando a emoção continua presente.
+
+Essa correlação aprofunda a função pedagógica do eixo; não o identifica com tônus vagal, janela de tolerância ou qualquer ramo do sistema nervoso.
+
+### 38.2. Quietude e presença não são a mesma observação
+
+Ficar imóvel, falar pouco, respirar lentamente ou relatar “não senti nada” não informa sozinho como a pessoa está participando. A exploração pode perguntar se há contato com apoios e ambiente, possibilidade de mover-se, compreensão do que ocorre e liberdade para escolher a continuidade.
+
+Isso modifica a elaboração sobre “estabilizar a consciência no corpo”: a sustentação pode incluir **mais contato e diferenciação**, sem exigir imobilidade ou menor intensidade. Também permite acolher o ainda não reconhecido sem imediatamente nomeá-lo como dissociação, bloqueio energético ou aprofundamento espiritual.
+
+| Observação na prática | Pergunta que amplia a compreensão |
+| --- | --- |
+| Silêncio ou imobilidade | Como é permanecer assim? Há conforto, afastamento, esforço, atenção ou algo ainda difícil de descrever? |
+| Redução da agitação | O contato consigo e com o ambiente ficou mais disponível? |
+| Sensação de expansão ou unidade | Como essa experiência se relaciona com corpo, escolha, vínculo e vida posterior? |
+| Emoção ou ativação intensa | Ainda é possível perceber, ajustar, pedir apoio ou mudar a participação? |
+| Pouca sensação identificável | Outro apoio, movimento ou linguagem ajuda a reconhecer algo? |
+
+As perguntas são propostas pedagógicas. Não formam um instrumento diagnóstico nem classificam o valor espiritual das experiências.
+
+### 38.3. Sensação, interpretação e condições reais
+
+A neurocepção, no modelo de Porges, não é um instrumento infalível de acesso à verdade sobre o mundo. História e aprendizagem participam das avaliações implícitas. Sentir segurança e existir segurança são questões relacionadas, mas diferentes; o mesmo vale para sentir ameaça e identificar um perigo atual.
+
+O acréscimo à Tradução é investigar conjuntamente sensação, interpretação e contexto. A pessoa pode respeitar o próprio desconforto enquanto examina o que ele comunica. Também pode reconhecer uma situação de violência ou sobrecarga real e modificar condições externas. Nem toda dificuldade se resolve por mudar o estado interno.
+
+### 38.4. Memória corporal, regulação celular e história pessoal
+
+Adee descreve fenômenos bioelétricos de organização e persistência; Apigian propõe uma biologia do trauma; a psicologia investiga aprendizagem, memória e respostas protetoras. A palavra “memória” não torna esses fenômenos idênticos.
+
+Uma alteração persistente de padrão em planárias, um processo inflamatório, uma resposta aprendida de ameaça e uma lembrança autobiográfica têm objetos e métodos diferentes. A ponte produtiva para o AISB é perguntar por persistência, contexto e possibilidade de mudança em cada nível. Não há, nos anexos, demonstração de que o trauma psicológico esteja armazenado em meridianos ou possa ser localizado por um marcador bioelétrico específico.
+
+Para a experiência do aluno, uma sensação presente pode ser reconhecida sem que seja necessário deduzir dela uma cena passada, uma causa única ou uma memória factual. Isso preserva a abertura da investigação já desenvolvida no TSH.
+
+### 38.5. Corregulação e ressonância estrutural
+
+O centro se desenvolve também em relações. Receber apoio pode favorecer presença e diferenciação; não equivale a entregar ao outro a autoridade sobre a própria experiência. Da mesma forma, a capacidade de manter contato com alguém não exige concordar, aproximar-se ou preservar todo vínculo.
+
+Esse desenvolvimento aproxima a casca e o campo da Árvore da Singularidade, a bússola interna e a responsabilidade situada. A ressonância estrutural pode explorar como somos afetados, o que reconhecemos como próprio, o que supomos sobre o outro e quais condições tornam possível responder com maior liberdade.
+
+Apoio relacional e medidas de sincronização precisam continuar diferenciados. Um vínculo pode ser cuidadoso sem sincronização mensurada; uma coordenação mensurável, sozinha, não demonstra qualidade ética da relação.
+
+### 38.6. Cultivo, espiritualidade e integração ao longo do tempo
+
+O capítulo de Dana sobre autotranscendência oferece uma ponte particularmente fértil para o horizonte deste chat: a base corporal pode acompanhar admiração, silêncio, compaixão, beleza, conexão e pertença. Essas experiências não precisam ser raras para ter valor.
+
+Ao mesmo tempo, um estado autonômico não constitui medida da Essência, do Self ou da realização espiritual. A referência espiritual de Fabiano permanece com seu sentido próprio. O acompanhamento pedagógico pergunta como a experiência é reconhecida, elaborada e levada à existência, incluindo vínculos, limites, criação e cuidado.
+
+Um critério clínico também ajuda a evitar patologização automática: a CID-11 distingue transtornos dissociativos de certas vivências culturais e espirituais sem caráter aversivo ou prejuízo funcional. Para TDI, considera descontinuidades marcadas de identidade e agência, alterações de controle e prejuízo; amnésia é comum. Esses requisitos não se confundem com o uso de partes como metáfora de escuta. Isso não resolve a ontologia da experiência nem substitui avaliação clínica contextualizada. Ver OMS, 2024, páginas impressas 382–385.
+
+### 38.7. Corpo e planeta: aprofundar a condição de vida
+
+Os novos livros favorecem a vertente ecológica da comparação inicial: organismos dependem de condições que sustentam ritmos, recuperação, vínculo e expressão. Luz, ruído, natureza, trabalho, tempo e relações compõem o ambiente vivido. O capítulo de autotranscendência de Dana acrescenta a experiência de pertença ao planeta.
+
+Essa ampliação conserva a imagem do eixo e dos mapas tradicionais sem convertê-la em equivalência física. Os anexos não testam Dai Mai como equador, canais como meridianos geográficos nem uma conexão eletromagnética global entre organismos. Seu acréscimo é às condições corporais, relacionais e ambientais da experiência.
+
+## 39. Fundamentação conferida e alcance das correlações
+
+As pesquisas abaixo complementam a leitura dos anexos. Não são apresentadas como referências efetivamente citadas em todos eles. Os estudos primários foram abertos e seus desenhos e resultados pertinentes foram conferidos; a classificação da OMS foi consultada diretamente em sua publicação.
+
+| Fonte | O que foi investigado ou estabelecido na fonte | Contribuição e limite para o TSH |
+| --- | --- | --- |
+| Coan, Schaefer e Davidson, 2006. DOI [10.1111/j.1467-9280.2006.01832.x](https://doi.org/10.1111/j.1467-9280.2006.01832.x). | Experimento de fMRI com 16 mulheres casadas diante de ameaça de choque, segurando a mão do marido, de um desconhecido ou nenhuma. O contato com o marido atenuou respostas neurais de ameaça; a qualidade conjugal participou das diferenças. | Sustenta uma relação experimental entre apoio social e resposta à ameaça nesse desenho. Não demonstra transmissão de energia entre corpos nem eficácia universal de toque ou presença. |
+| Reinders e colaboradores, 2012. DOI [10.1371/journal.pone.0039279](https://doi.org/10.1371/journal.pone.0039279). | Comparação de 11 pacientes com TDI e 18 controles instruídos a simular estados, com scripts autobiográficos e medidas subjetivas, cardiovasculares e de fluxo cerebral. Encontrou diferenças que não foram reproduzidas pela simulação. | Oferece evidência de diferenças psicobiológicas entre estados nas condições estudadas. Não valida diagnóstico por frequência cardíaca nem correspondência universal entre tipo de alter e ramo vagal. |
+| Grossman e Kollai, 1993. DOI [10.1111/j.1469-8986.1993.tb02072.x](https://doi.org/10.1111/j.1469-8986.1993.tb02072.x). | Experimento com 29 adultos e bloqueios autonômicos. A arritmia sinusal respiratória isolada não previu adequadamente diferenças individuais de tônus vagal; parâmetros respiratórios interferiram nas relações intrapessoais. | Ajuda a distinguir variabilidade cardíaca, influências vagais e experiência subjetiva. Uma medida de HRV não identifica, sozinha, o estado psicológico ou a integração espiritual. |
+| Sanches e colaboradores, 2019. DOI [10.1242/jeb.197954](https://doi.org/10.1242/jeb.197954). | Telemetria em cascavéis, com mudanças de temperatura e bloqueio farmacológico, identificou um componente de variabilidade relacionado à respiração; os autores discutem fibras mielinizadas no vago cardíaco. | Evidência comparativa que exige revisão da exclusividade mamífera atribuída a determinados mecanismos na narrativa polivagal simplificada. Não implica rejeitar todo o valor clínico de Dana ou Porges. |
+| Brom e colaboradores, 2017. DOI [10.1002/jts.22189](https://doi.org/10.1002/jts.22189). | Ensaio com 63 adultos com TEPT, alocados a 15 sessões de Somatic Experiencing ou lista de espera, com melhora de sintomas no grupo de intervenção. | Sustenta investigação clínica do trabalho corporal nesse contexto. O controle por espera e a modalidade específica limitam a transferência; não valida automaticamente explicações celulares nem as práticas do TSH. |
+| Nidich e colaboradores, 2018. DOI [10.1016/S2215-0366(18)30384-5](https://doi.org/10.1016/S2215-0366(18)30384-5). | Ensaio com 203 veteranos com TEPT: meditação transcendental, exposição prolongada e educação em saúde. Em três meses, a MT cumpriu o critério de não inferioridade à exposição e superou a educação no desfecho principal. | Evidência pertinente sobre uma intervenção e população específicas. Não estabelece eficácia para TDI, integração de alters ou o estudo de neuroimagem sem identificação citado por Bueno. |
+| To e Schuman-Olivier, 2024. DOI [10.1016/j.psycr.2024.100218](https://doi.org/10.1016/j.psycr.2024.100218). | Relato de uma participante com TEPT dissociativo em treinamento de mindfulness de oito semanas, com sintomas durante o percurso, apoio clínico e alternativas de participação. Descreve benefício e ampliação de autorregulação. | Exemplo de aprendizagem com escolhas, adaptação e recursos, sem confundir progresso com ausência de sintomas. É um caso: não justifica generalização nem transformar suas condições particulares em regras do TSH. |
+| Song e colaboradores, 2018. DOI [10.1001/jama.2018.7028](https://doi.org/10.1001/jama.2018.7028). | Coorte sueca com 106.464 pessoas com transtornos relacionados ao estresse, controles populacionais e irmãos. Identificou associação com maior incidência posterior de doenças autoimunes. | Fundamenta o interesse por relações entre história, estresse e saúde. Não estabelece a causa de uma doença individual, um biomarcador específico ou eficácia de suplementos e práticas na reversão da doença. |
+| OMS, 2024. [Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders](https://www.who.int/publications-detail-redirect/9789240077263), páginas impressas 382–385; [PDF consultado da publicação](https://www.drugsandalcohol.ie/41519/1/WHO_Clinical_descriptions_and_diagnostic_requirements_ICD-11.pdf#page=400). | Requisitos clínicos e distinções culturais de TDI e condições relacionadas. | Apoia as diferenças conceituais expostas na seção 38.6. Não funciona como prova de uma teoria espiritual. |
+
+A existência de estresse crônico também é explicitamente reconhecida pelo [NCCIH/NIH](https://www.nccih.nih.gov/health/stress). Isso contradiz a negação geral da página 26 de Apigian, sem anular o valor de sua atenção à sobrecarga.
+
+## 40. Destinos nas aulas atuais do TSH
+
+Os títulos e posições abaixo foram confrontados com o Raio X atual. São **propostas de aprofundamento dos conteúdos existentes**, não novos módulos nem declaração de alteração dos roteiros gravados. A maior densidade cabe ao módulo corporal; nos demais, exemplos e retomadas breves evitam repetição.
+
+| Aula ou trecho do percurso | O que já existe | Acréscimo concreto sugerido |
+| --- | --- | --- |
+| Comece aqui: condições de participação e uso dos materiais | Orientação, práticas e plano de participação. | Explicar como acompanhar, pausar, escolher outra forma de participação e pedir apoio; tornar compreensíveis as transições do encontro on-line. |
+| Por que entender um padrão não impede que ele se repita? | Aprendizagens, estados, relações e condições; o roteiro já evita explicar tudo por trauma ou proteção. | Um exemplo de recurso conhecido, mas pouco acessível sob sobrecarga; distinguir compreensão de disponibilidade sem culpar a pessoa. |
+| Saber, acessar e sustentar; Perder o eixo não significa perder o percurso | Acesso, cultivo, expressão e retomada. | Mostrar que reconhecer mais cedo um limite ou buscar companhia também pode ser aquisição no retorno. |
+| O que aconteceu, o que foi vivido e o que foi interpretado; Tradução provisória | Separação e articulação entre dimensões da experiência. | Comparar como o estado participa de uma leitura sem desautorizar a percepção nem dispensar a verificação do contexto. |
+| O corpo muda o que fica acessível | Janela de tolerância, mobilização, repouso e apoio. | Quietude com contato versus afastamento; mobilização que sustenta ação; exemplos de apoio relacional. |
+| Interocepção: perceber e interpretar sinais internos | Processos conscientes e não conscientes; alternância com apoios externos. | Explorar qual apoio amplia contato e escolha em cada momento; reconhecer que intensificar o foco interno pode não ser o recurso mais útil. |
+| Como o organismo antecipa necessidades e distribui recursos | Alostase e orçamento corporal como metáfora. | Demanda, tempo de recuperação e apoios; discutir a diferença entre ampliar capacidade e reduzir exigências. Recuperar Apigian seletivamente. |
+| Mapas do sistema nervoso autônomo | Fisiologia e perspectiva polivagal diferenciadas. | Usar Dana/Porges para exemplos de conexão, proteção e mobilização; deixar a avaliação de mecanismos, evolução e medidas no caderno de fundamentação. |
+| Energia e vitalidade nas tradições orientais; Centro, circulação, limite e enraizamento | Qi, reserva, centro, circulação e cultivo. | Perguntar o que cada mapa permite observar, preservando suas diferenças. Ampliar base e amplitude sem igualar Qi a atividade simpática ou Jing a um marcador metabólico. |
+| Recursos de retorno: escolher, dosar e adaptar | Recursos corporais, vocais, respiratórios e atencionais. | Acrescentar âncoras ambientais e relacionais, vislumbres cotidianos e comparação entre recursos que favorecem repouso ou vitalidade. |
+| Padrões como aprendizagem, proteção e relação; Partes internas como mapa de escuta | Casca, história, necessidades e capacidades. | Diferenciar proteção e custo atual; explicitar que a linguagem de partes não é diagnóstico de TDI. |
+| Criar espaço entre impulso e escolha | Presença, condições e respostas possíveis. | Um intervalo pode ser obtido por movimento, apoio, tempo ou mudança ambiental; não exige primeiro alcançar calma completa. |
+| Espiritualidade; Self, Essência e Fonte; Discernimento espiritual | Horizonte espiritual, procedência e efeitos da experiência. | Admiração, compaixão, quietude e pertença como experiências concretas; diferenciar estado vivido, interpretação e integração posterior. |
+| Integrar não é tornar tudo igual; Diferenciar sem fragmentar; Tradução e EIXO em espiral | Diferenças internas, ambivalências, temporalidade e coerência possível. | Acompanhar contato, cooperação, liberdade de resposta e vida cotidiana; não avaliar integração somente pela sensação de unidade. |
+| Escutar sem abandonar sua posição; Limites; Pertencimento e conflito; Reparação | Relação, diferença, poder, efeitos e cuidado. | Corregulação com diferenciação; examinar o “sim” dado por medo; reconhecer situações em que a mudança necessária está no vínculo ou nas condições. |
+| Continuidade | Aprendizagens e práticas efetivamente desenvolvidas. | Selecionar poucos apoios utilizáveis, reconhecer mudanças de necessidade e incluir descanso, vínculo e contexto na manutenção do percurso. |
+
+### 40.1. Cinco explorações que podem ampliar o repertório já disponível
+
+Estes esboços iniciais foram aprofundados nas seis explorações da seção 46, com a incorporação solicitada por Fabiano. Recuperar as conduções desenvolvidas e seus destinos na seção 47.
+
+São propostas para composição por Fabiano, em diálogo com sua formação e a condução que efetivamente ensina. Não constituem tratamento de trauma, teste de estado neural ou procedimento de integração de TDI.
+
+1. **Três apoios reconhecíveis.** Identificar um apoio corporal, um elemento do ambiente e uma pessoa ou relação que ajude a participar. Experimentar um deles e descrever seu efeito, inclusive quando nada muda. Derivação: âncoras de Dana e recursos já presentes no TSH. Destino: aulas corporais e continuidade.
+2. **O que ajuda agora?** Comparar uma breve pausa com um movimento simples conhecido, observando contato, vitalidade e possibilidade de continuar. A pergunta é qual recurso ajuda naquela situação; não qual produz a maior redução de ativação. Destino: corpo e recursos de retorno.
+3. **Uma situação, leituras possíveis.** Usar uma cena fictícia leve, reconhecer uma interpretação inicial e reexaminá-la depois de uma mudança simples de apoio ou ritmo. Diferenciar o que mudou na experiência do que foi efetivamente confirmado sobre a cena. Destino: Tradução provisória e impulso/escolha.
+4. **Escuta e ajuste.** Em uma troca breve, reconhecer como voz, ritmo, silêncio e possibilidade de corrigir a interpretação participam do contato. O outro não precisa reproduzir o estado ou concordar para haver escuta. Destino: relações, ressonância e limites.
+5. **Admiração e retorno à vida.** Um elemento da natureza, uma imagem, música ou silêncio pode abrir uma experiência de beleza, pertença ou simplesmente observação. Elaborar depois o que foi vivido e que cuidado ou expressão encontra sentido a partir disso. Derivação: capítulo de autotranscendência de Dana, Naranjo e fontes contemplativas já registradas. Destino: espiritualidade e integração.
+
+Não é necessário criar uma ficha nova para cada exploração. Os registros existentes de percepção, expressão e retorno podem acolher o que foi sentido, o apoio utilizado e a participação que se tornou possível.
+
+## 41. Relação com AISB e demais projetos
+
+**AISB.** Os anexos refinam perguntas sobre estado, acesso, atribuição de sentido e relação: como mudanças nas condições corporais e sociais participam do que fica perceptível, convincente e praticável? A investigação pode distinguir relato, comportamento, contexto e medidas fisiológicas. Bioeletricidade, regulação autonômica e significado permanecem níveis relacionados que exigem relações identificáveis, não uma identidade presumida.
+
+**Arquitetura Invisível.** Há material para desenvolver a persistência de adaptações e a diferença entre força de vontade, recursos disponíveis e possibilidades de expressão. O livro de Apigian contribui sobretudo com a pergunta pela sobrecarga; Dana e Porges, com cultivo cotidiano e campo relacional. As diferenças entre memória biológica, aprendizagem e autobiografia evitam converter uma metáfora em explicação universal.
+
+**CEEP e espiritualidade em psicoterapia.** O acréscimo mais direto é a articulação entre presença, estados ampliados, dissociação e integração, sem patologizar experiências espirituais por sua forma e sem interpretar toda alteração de estado como realização. O material de Bueno pode suscitar perguntas; os requisitos clínicos e afirmações científicas precisam vir de fontes rastreáveis.
+
+**Continuidade do TCC.** Apoio social, regulação corporal e acompanhamento dos efeitos da experiência dialogam com a elaboração neurobiológica e relacional de Fabiano. Esta avaliação é um desenvolvimento posterior e não altera o trabalho acadêmico concluído nem transforma uma revisão narrativa em validação experimental.
+
+### Formulação de ampliação proposta
+
+> O corpo oferece uma base que se desenvolve na relação com a história, com outras pessoas e com as condições de vida. Cultivar essa base pode ampliar a capacidade de sentir, diferenciar e participar, tanto no repouso quanto na mobilização e nas experiências que expandem nossa percepção. Algumas vezes precisamos de um recurso interno; em outras, de tempo, companhia, descanso ou mudança nas condições. Reencontrar o eixo pode significar reconhecer essa diferença e responder a partir dela.
+
+## 42. Fontes e retomada desta avaliação
+
+### Anexos examinados
+
+- [Aimie Apigian — A biologia do trauma](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/80%20-%20Fontes%20Bibliogr%C3%A1ficas/A%20biologia%20do%20trauma_%20Como%20o%20co%20-%20Aimie%20Apigian.pdf).
+- [Edison Bueno — Transtorno Dissociativo de Identidade e Teoria Polivagal](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/80%20-%20Fontes%20Bibliogr%C3%A1ficas/TRANSTORNO%20DISSOCIATIVO%20DE%20IDEN%20-%20Edison%20Bueno.pdf).
+- [Deb Dana — Ancorado](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/80%20-%20Fontes%20Bibliogr%C3%A1ficas/Ancorado_%20como%20fazer%20as%20pazes%20c%20-%20Deb%20Dana.pdf).
+- [Stephen W. Porges e Seth Porges — Nosso mundo polivagal](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/80%20-%20Fontes%20Bibliogr%C3%A1ficas/Nosso%20mundo%20polivagal_%20Como%20a%20s%20-%20Stephen%20W.%20Porges.pdf).
+
+### Conteúdos atuais consultados no GitHub
+
+Todos os caminhos abaixo pertencem ao repositório `fabianodeliberalli/base-cognitiva-vault`. Os links registram a versão consultada; não afirmam que as propostas desta avaliação já estejam na `main`.
+
+- [Raio X atual — conteúdos das 54 aulas](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/82e712452e3118483a3e8f2721c689df6b3164c2/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/10%20-%20Raio%20X%20do%20Produto/Vigente/Raio-X-Fabiano%20Deliberalli%20-%20Texto%20para%20consulta.md).
+- [Matriz de incorporação às aulas](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/82e712452e3118483a3e8f2721c689df6b3164c2/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/10%20-%20Governan%C3%A7a%20do%20Conhecimento/06%20-%20Matriz%20Mestre%20de%20Incorpora%C3%A7%C3%A3o%20do%20Conte%C3%BAdo%20%C3%A0%20Estrutura%209-54.md)
+- [Inventário dos conteúdos disponíveis](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/82e712452e3118483a3e8f2721c689df6b3164c2/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/10%20-%20Governan%C3%A7a%20do%20Conhecimento/02%20-%20Invent%C3%A1rio%20Mestre%20de%20Conte%C3%BAdos%20Dispon%C3%ADveis.md)
+- [Roteiro: por que compreender um padrão não impede sua repetição](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/82e712452e3118483a3e8f2721c689df6b3164c2/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Materiais/M%C3%B3dulo%201/M1.1%20-%20Roteiro%20oral%20e%20caderno%20de%20produ%C3%A7%C3%A3o%20v0.2.md)
+- [Fundamentação do cultivo corporal, energético e contemplativo](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/82e712452e3118483a3e8f2721c689df6b3164c2/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/MTC%20e%20Qi%20Gong/04%20-%20Caderno%20de%20Fundamenta%C3%A7%C3%A3o%20-%20Cultivo%20Medita%C3%A7%C3%A3o%20Prana%20e%20Circula%C3%A7%C3%A3o.md)
+- [Compaixão, empatia e autocompaixão](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/82e712452e3118483a3e8f2721c689df6b3164c2/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Compaix%C3%A3o%20Empatia%20e%20Rela%C3%A7%C3%A3o/00%20-%20Compaix%C3%A3o%20Empatia%20e%20Autocompaix%C3%A3o%20-%20Fundamenta%C3%A7%C3%A3o%20e%20Consulta.md)
+- [Diferenciação clínica de experiências espirituais](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/82e712452e3118483a3e8f2721c689df6b3164c2/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/ABBSP/17%20-%20Diferencia%C3%A7%C3%A3o%20Cl%C3%ADnica%20de%20Experi%C3%AAncias%20Espirituais.md)
+- [Práticas por módulo](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/82e712452e3118483a3e8f2721c689df6b3164c2/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Pr%C3%A1ticas%20Candidatas/Pr%C3%A1ticas%20por%20M%C3%B3dulo%20-%20Consulta%20em%20cria%C3%A7%C3%A3o%20e%20expans%C3%A3o.md)
+- [Modelo neurobiológico e relacional da espiritualidade](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/82e712452e3118483a3e8f2721c689df6b3164c2/80%20-%20Mapas%20Conceituais/Fichas/06%20-%20Modelo%20Neurobiol%C3%B3gico-Relacional%20da%20Espiritualidade%20%E2%80%94%20TCC.md)
+- [Notas de IFS e partes internas](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/82e712452e3118483a3e8f2721c689df6b3164c2/00%20-%20Caixa%20de%20Entrada/OneNote/Meu%20Bloco%20de%20Anota%C3%A7%C3%B5es/Anota%C3%A7%C3%B5es%20R%C3%A1pidas/IFS%20-%20Internal%20Family%20Sistem.md)
+- [Contexto atual do TSH](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/82e712452e3118483a3e8f2721c689df6b3164c2/90%20-%20Sistema/Governan%C3%A7a%20de%20IA/11%20-%20Contexto%20M%C3%ADnimo%20-%20Traduzindo%20o%20Ser%20Humano.md)
+- [Orientações atuais de consulta e desenvolvimento](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/82e712452e3118483a3e8f2721c689df6b3164c2/90%20-%20Sistema/Governan%C3%A7a%20de%20IA/10%20-%20Contrato%20Comum%20de%20Contexto%20para%20Assistentes%20de%20IA.md)
+
+**Continuidade da avaliação:** o exame acima foi acrescentado inicialmente ao documento de trabalho. Fabiano solicitou em seguida aprofundar e incorporar os núcleos selecionados ao TSH, preservando as demais contribuições pertinentes. As seções 43–48 registram esse desenvolvimento e seus destinos. A produção dos arquivos finais de cada aula continua sendo acompanhada em sua frente específica.
+
+## 43. Autotranscendência no cotidiano: cultivo corporal, relação e espiritualidade
+
+**Incorporação solicitada por Fabiano em 21/11/2026.** As seções 43–48 desenvolvem os três núcleos escolhidos por ele: experiências autotranscendentes; demandas, recursos e capacidade disponível; sustentação, quietude e integração. Os fundamentos e os destinos entram no acervo de produção do TSH. As falas, durações e composições práticas são propostas para elaboração das aulas, em diálogo com o que Fabiano efetivamente ensina.
+
+### 43.1. Uma abertura que também acontece na vida comum
+
+O capítulo 10 de Deb Dana, Ancorado, PDF 171–186, aproxima autotranscendência de admiração, gratidão, elevação, compaixão e quietude. O pertencimento ao planeta aparece no desenvolvimento da admiração e da conexão com o mundo natural. Não é uma sexta técnica nem um estado autonômico específico.
+
+Para o TSH, essa contribuição permite ensinar que o percurso espiritual também pode encontrar expressão no modo de olhar, receber, cuidar, silenciar e participar da existência. Uma pessoa pode reconhecer algo que ultrapassa suas preocupações imediatas diante de uma paisagem, de um gesto de cuidado, da música, de uma descoberta ou do silêncio compartilhado. O valor dessa abertura não depende de sua excepcionalidade.
+
+Autotranscender-se, nessa aplicação pedagógica, é ampliar a relação com a experiência para além da preocupação exclusiva consigo. A singularidade permanece: posso reconhecer meu lugar em algo maior, perceber outras perspectivas e participar sem apagar minha posição ou meus limites. O horizonte espiritual do TSH inclui ainda o reconhecimento e a expressão da Essência; essa interpretação possui alcance próprio e não é deduzida de uma medida autonômica.
+
+É útil diferenciar três perguntas: o que foi vivido; que sentido isso encontrou; como passou a participar da vida. Elas podem relacionar-se sem ocorrer sempre em uma sequência. Uma experiência breve pode ser fecunda; uma experiência intensa pode exigir tempo de elaboração.
+
+### 43.2. Admiração: sair da familiaridade automática
+
+Na tradução de Dana, “admiração” abrange o maravilhamento e a reverência associados ao termo inglês awe. Trata-se de uma abertura diante de algo cuja grandeza, beleza ou complexidade ultrapassa a explicação habitual. Diferencia-se da admiração por uma habilidade excepcional, que também pode inspirar aprendizagem.
+
+Para o TSH, o ganho é interromper por alguns instantes o uso exclusivo de mapas já conhecidos: o que vejo quando concedo ao mundo a possibilidade de me surpreender? Isso dialoga com percepção e diferenciação, com o espelho como abertura e com a Árvore da Singularidade inserida em um campo de vida maior.
+
+Piff e colaboradores (2015) investigaram awe em cinco estudos e encontraram relações com menor centralidade das preocupações individuais e comportamentos pró-sociais nas condições examinadas. Sturm e colaboradores, em uma intervenção com caminhadas orientadas ao maravilhamento, observaram mudanças em experiências afetivas e na representação de si em fotografias. Esses resultados apoiam a investigação de atenção e relação; não demonstram um nível superior de consciência nem garantem mudança duradoura para cada participante.
+
+**Pergunta de aula:** “O que esta experiência me permite perceber que eu estava atravessando sem notar?”
+
+### 43.3. Gratidão: reconhecer o que nos sustenta e aprender a receber
+
+Gratidão pode ser desenvolvida como reconhecimento do que recebemos e do que tem valor. Ela dá visibilidade aos apoios presentes na história e no cotidiano: um gesto, uma oportunidade, uma relação, um recurso material ou uma condição de vida.
+
+A correlação com o TSH é dupla. A pessoa amplia a percepção dos recursos que já participam de sua base e pode aprender a receber sem imediatamente converter isso em dívida ou obrigação. Na Árvore da Singularidade, torna-se mais visível o que nutre e em que condições o crescimento encontrou apoio.
+
+Emmons e McCullough (2003), em três estudos de registros de gratidão, encontraram benefícios em parte dos desfechos, com resultados mais consistentes para afeto positivo. Esse fundamento não autoriza prometer melhora geral da imunidade, do sono ou da saúde a partir de uma exploração breve em aula.
+
+A gratidão pode coexistir com luto, raiva, frustração e desejo de mudança. Um aluno não precisa reconhecer um benefício naquilo que o feriu. A exploração proposta abre espaço para perceber o que sustentou ou sustenta sua vida, inclusive em uma situação difícil.
+
+**Pergunta de aula:** “O que recebi ou está disponível e consigo reconhecer hoje? Como é permitir-me receber?”
+
+### 43.4. Compaixão: ampliar o cuidado com diferenciação
+
+Dana articula reconhecimento do sofrimento e disposição para ajudar. O TSH já aprofunda o tema em diálogo com Salvador, IFS, Neff/Germer, Ricard, Singer, Tonglen, HeartMath e a formulação de compaixão sem autoabandono. A nova incorporação dá maior destaque à relação entre disponibilidade corporal, recebimento de apoio e resposta possível.
+
+O movimento de “eu” para “nós” pode começar pelo reconhecimento de uma condição compartilhada: outras pessoas também sentem, enfrentam dificuldades e necessitam de cuidado. Essa aproximação não exige sentir exatamente o que o outro sente. A diferença entre as pessoas continua sendo parte da relação.
+
+Stellar e colaboradores (2015) estudaram respostas corporais durante induções de compaixão e encontraram mudanças na arritmia sinusal respiratória em comparações experimentais. Isso oferece uma ponte empírica com a regulação corporal. Não estabelece que somente pessoas em um estado vagal determinado possam cuidar, nem que calma, HRV ou um gesto específico meçam a compaixão individual.
+
+Uma resposta compassiva também pode ser pedir ajuda, encaminhar, oferecer um limite ou reconhecer que não se dispõe do que o outro necessita. Essa relação é especialmente fértil para os conteúdos de contribuição, serviço, responsabilidade situada e reparação.
+
+**Pergunta de aula:** “O que esta situação pede e o que posso oferecer, considerando também meus limites e recursos?”
+
+### 43.5. Elevação: quando o cuidado testemunhado inspira participação
+
+O capítulo também inclui elevação: ser tocado por um gesto de generosidade, coragem ou cuidado e sentir-se inspirado a participar de modo semelhante. Aqui, “elevação” designa uma experiência afetiva investigável; não classifica pessoas em uma escala espiritual.
+
+Algoe e Haidt (2009) encontraram diferenças entre motivações associadas a elevação, gratidão e admiração por excelência. Piper, Saslow e Saturn (2015) observaram aumento conjunto de frequência cardíaca e arritmia sinusal respiratória durante uma indução de elevação. Os autores interpretam esse padrão como compatível com mobilização e engajamento social concomitantes.
+
+Para o TSH, o ganho é mostrar uma passagem possível entre sentir, reconhecer um valor e experimentar uma ação. Isso pode tornar concretas as bússolas de Poder, Amor e Sabedoria: algo nos toca e abre uma pergunta sobre como desejamos participar.
+
+**Pergunta de aula:** “Que qualidade deste gesto me tocou? Existe uma forma pequena e possível de expressá-la na minha vida?”
+
+### 43.6. Quietude: poder permanecer sem precisar controlar toda a experiência
+
+Dana inclui quietude por reconhecer nela uma possibilidade de conexão que ultrapassa o modo habitual de ocupar a atenção. No TSH, isso dialoga com a continuidade da atenção, o reconhecimento das narrativas e a interiorização já desenvolvidos nos cadernos de cultivo.
+
+A quietude pode ser compreendida como uma qualidade de permanência: os acontecimentos continuam sendo percebidos sem exigir resposta imediata a cada um. Ela pode conter sons, pensamentos, sensações, emoção e pequenos movimentos. É possível aprender a reconhecer o momento de permanecer e o de reencontrar um apoio.
+
+Não há necessidade de fazer da quietude uma disputa com o pensamento. A reflexão pode ter seu tempo; o silêncio, outro; a expressão, outro. A mudança de tarefa é parte da aprendizagem. A elaboração sobre o Eu Básico também ganha um desdobramento: reconhecer o que se apresenta antes de exigir uma tradução intelectual completa.
+
+**Pergunta de aula:** “Como é permanecer aqui? O que me ajuda a continuar em contato e o que pede ajuste?”
+
+### 43.7. Pertencer ao planeta: reconhecer condições de vida e formas de cuidado
+
+O corpo depende de ar, água, alimento, solo, relações e ritmos ambientais. Essa dependência pode ser compreendida intelectualmente, reconhecida na experiência e receber sentido espiritual. As três participações podem enriquecer-se.
+
+A comparação inicial com o planeta ganha, assim, uma ampliação existencial: a base que nos sustenta também é ecológica e coletiva. Ao acompanhar a respiração, por exemplo, podemos reconhecer uma relação concreta com o ambiente; ao estar diante de uma árvore, perceber uma forma de vida com a qual partilhamos condições de existência. Essa é uma proposta contemplativa do TSH, não um resultado medido dos estudos sobre awe.
+
+O pertencimento pode despertar beleza, gratidão, preocupação ou tristeza. A aprendizagem pode incluir o que cada experiência pede em cuidado e participação. Não há obrigação de sentir harmonia com o mundo, e o sentido espiritual não depende de um lugar remoto ou de uma experiência visual específica.
+
+Os mapas de Nogueira/CEMETC continuam a oferecer sua leitura de eixo, contorno e circulação. Dana acrescenta experiências de conexão e pertença; a ecologia torna visíveis condições materiais da vida. A relação entre essas contribuições é produtiva sem identificar meridianos, nervos e referências geográficas como uma mesma estrutura.
+
+**Pergunta de aula:** “De que faço parte e de que dependo? Que modo de cuidado se torna possível reconhecer a partir disso?”
+
+### 43.8. Corpo, sentido e linguagem autonômica
+
+Nas aulas, as experiências podem ser apresentadas primeiro por aquilo que ajudam a perceber e viver. O caderno do professor conserva a distinção entre a proposta de Dana, os estudos específicos e a elaboração do TSH.
+
+“Energia vagal ventral” é linguagem do modelo da autora. Calor, abertura no peito ou mudanças da respiração podem ser descritos como sensações, sem que o aluno tenha de localizar um ramo nervoso. A motivação de cuidar pode encontrar gesto, voz, silêncio e ação. Esses processos não demonstram, por si, transmissão de um campo energético entre pessoas.
+
+O TSH pode manter sua linguagem tradicional de Qi, sua perspectiva espiritual e a investigação da ressonância estrutural, esclarecendo a contribuição de cada fonte quando isso ampliar a compreensão. A fundamentação autonômica contribui para investigar condições da expressão; o significado espiritual conserva seu espaço de elaboração.
+
+## 44. Demandas, recursos e capacidade disponível: cultivar também é organizar condições
+
+### 44.1. Quatro diferenças que tornam a investigação mais precisa
+
+Uma demanda é aquilo que uma situação exige ou parece exigir. Os recursos são os apoios disponíveis para lidar com ela. A capacidade desenvolvida inclui aprendizagens e possibilidades que se formaram ao longo da trajetória. A disponibilidade atual é o quanto delas pode ser mobilizado naquele momento.
+
+Uma pessoa pode ter capacidade para uma tarefa e pouco acesso a ela depois de uma noite mal dormida, em um vínculo intimidante ou diante de demandas simultâneas. Outra pode estar descansada e precisar aprender uma habilidade que ainda não desenvolveu. Há também situações em que a demanda ultrapassa o razoável, mesmo para alguém competente.
+
+Essa diferenciação amplia as situações de aprendizagem do TSH: ainda não reconheço; compreendo e não acesso; reconheço e ainda não desenvolvi. Acrescenta uma pergunta transversal: **as condições permitem que o recurso se torne utilizável?**
+
+| O que a investigação torna mais visível | Participação que pode ajudar |
+| --- | --- |
+| Falta uma aprendizagem ou habilidade | Experimentar, estudar, praticar e receber orientação. |
+| O recurso existe, mas pouco acessível agora | Ajustar ritmo, recuperar uma referência, obter tempo ou companhia. |
+| Houve desgaste e pouca recuperação | Descansar, reorganizar rotina e atender necessidades corporais e de saúde. |
+| As exigências estão excessivas ou concorrentes | Priorizar, negociar, adiar, reduzir ou interromper demandas. |
+| O apoio depende de relações ou condições materiais | Pedir ajuda, compartilhar tarefas e construir condições externas. |
+
+São possibilidades de leitura e resposta, que podem combinar-se. Não formam uma sequência obrigatória nem um cálculo diagnóstico entre “demanda” e “capacidade”.
+
+### 44.2. Alostase: antecipar necessidades e distribuir recursos
+
+Na formulação de Sterling, alostase enfatiza a antecipação de necessidades e os ajustes coordenados do organismo. Isso amplia a compreensão do equilíbrio como organização que muda conforme a situação. Carga alostática refere-se ao desgaste cumulativo investigado por medidas fisiológicas em contextos próprios.
+
+Seeman e colaboradores (2001) acompanharam desfechos de saúde a partir de uma medida composta de parâmetros biológicos. Essa pesquisa sustenta a atenção aos efeitos cumulativos das exigências e adaptações; não transforma uma sensação de cansaço em medida de carga alostática.
+
+No TSH, “orçamento corporal” continua uma metáfora para compreender necessidades e escolhas. A pessoa pode examinar onde está gastando esforço, o que a ajuda a recuperar-se e quais ajustes são possíveis. Não precisa estimar um saldo metabólico nem atribuir toda dificuldade a um estado autonômico.
+
+### 44.3. Reserva e cultivo em diálogo com a MTC
+
+A formação de Fabiano em Medicina Chinesa oferece uma linguagem própria para constituição, reserva, vitalidade e cultivo. Jing, Qi, Shen, centro e circulação permitem explorar diferentes aspectos dessa organização segundo as fontes tradicionais.
+
+A articulação com alostase está nas perguntas que as perspectivas ajudam a desenvolver: o que sustenta? O que exige? Como se distribui o esforço? Há recuperação e circulação? O que participa do desgaste? A correspondência entre as perguntas não identifica Jing com um marcador, Qi com ATP ou Shen com uma configuração autonômica.
+
+“Preservar a reserva” pode ganhar expressão cotidiana em reconhecer limites, adequar a prática e organizar repouso. “Cultivar” também pode significar ampliar uma capacidade, refinar a intenção, desenvolver um vínculo ou encontrar uma forma mais viável de participar. O significado tradicional permanece mais amplo que esses exemplos.
+
+### 44.4. Cultivar a capacidade e ajustar o mundo em que ela é solicitada
+
+Uma mulher que conhece recursos de retorno pode continuar sem conseguir usá-los quando cuida de um familiar, trabalha por muitas horas e dorme pouco. Uma prática breve pode ajudá-la a reconhecer o momento presente. A sustentação de uma resposta diferente também pode exigir divisão de tarefas, descanso e apoio. Acrescentar um treino longo sem examinar essas condições pode aumentar a carga.
+
+Uma pessoa que deseja colocar um limite pode precisar de ensaio de linguagem. Outra já sabe comunicá-lo, mas está em uma relação na qual a recusa traz consequências concretas. A investigação precisa incluir a situação e as possibilidades reais de proteção e apoio.
+
+São exemplos pedagógicos fictícios. Mostram por que a mesma dificuldade aparente pode pedir aprendizagens diferentes. Reconhecer condições não elimina a participação da pessoa; ajuda a localizar onde essa participação pode produzir um efeito possível.
+
+### 44.5. Descanso, apoio e expressão singular
+
+Descansar pode participar do percurso como cuidado deliberado e reconhecimento de necessidade. Receber ajuda pode desenvolver uma capacidade relacional. Reduzir demandas pode criar espaço para uma expressão que permanecia sufocada.
+
+Essa ampliação dá conteúdo ao eixo e à Árvore da Singularidade: raízes e campo não sustentam apenas a continuação do desempenho. Também podem permitir descobrir o que merece crescer, o que perdeu sentido e que modo de vida precisa de reorganização.
+
+A espiral pode tornar visível uma aquisição discreta: o tema retorna, mas a pessoa percebe antes o desgaste, pede apoio ou modifica uma exigência. Pode haver aprendizagem mesmo com desconforto presente; pode também haver um impasse que ainda exige outras condições.
+
+**Formulação para a aula:** “Às vezes precisamos aprender algo. Em outras, precisamos reencontrar um recurso que já existe. E há momentos em que a resposta começa por descansar, diminuir o que estamos carregando ou buscar companhia. Reconhecer essa diferença também faz parte do cultivo.”
+
+## 45. Sustentação, quietude e integração: diferenças que qualificam a presença
+
+### 45.1. Três funções e um acompanhamento transversal
+
+| Dimensão | O que ajuda a compreender | Exemplo no TSH |
+| --- | --- | --- |
+| Sustentação | Condições e apoios que tornam a participação possível. | Corpo, referência, tempo, descanso, vínculo e limites. |
+| Quietude | Uma qualidade vivida de permanência e menor necessidade de responder imediatamente. | Reconhecer o que surge e reencontrar um apoio quando necessário. |
+| Integração | Como aspectos da experiência encontram relação, diferenciação e participação na existência. | Elaborar um sentido, ajustar uma escolha, expressar, cuidar ou reparar. |
+| Presença, atravessando as três | O modo de estar em contato e participar do que acontece. | Perceber, reconhecer possibilidades e ajustar a participação, com os apoios necessários. |
+
+Uma sustentação suficiente pode favorecer quietude, movimento ou expressão. Um período de quietude pode contribuir para integração, mas não mostra sozinho tudo o que foi integrado. Uma ação expressiva ou um limite também podem ser parte da integração.
+
+### 45.2. Como acompanhar sem reduzir a experiência a sua aparência
+
+A aparência exterior informa uma parte do acontecimento. Silêncio, choro, sorriso, lentidão e intensidade precisam ser compreendidos na relação com o que a pessoa vive. O participante também pode precisar de tempo e de outras linguagens para reconhecer isso.
+
+Perguntas possíveis: “Como é estar assim?”, “O que ficou mais ou menos disponível?”, “Você reconhece alguma possibilidade de ajustar?”, “Que apoio faria diferença?”. O educador pode oferecer uma leitura que a pessoa possa corrigir.
+
+Não é necessário inferir um estado neural ou nomear dissociação a partir de uma resposta isolada. A avaliação clínica requer contexto. O reconhecimento cultural e espiritual considerado na CID-11, já examinado na seção 38.6, reforça a necessidade de compreender sofrimento, funcionamento e sentido em sua situação.
+
+### 45.3. Ativação, emoção e eixo
+
+Pode haver presença durante esforço, entusiasmo, tristeza ou defesa de um limite. A questão pedagógica é como a pessoa percebe sua participação e o que lhe permite ajustar-se. Reduzir ativação pode ajudar em uma situação; recuperar mobilização pode ser mais útil em outra.
+
+O eixo, em sua função no TSH, relaciona-se com referência e orientação ao longo dessas mudanças. Não equivale a um estado fisiológico ideal nem elimina a possibilidade de precisar do outro.
+
+Essa formulação aprofunda o retorno com aquisição: a aprendizagem pode aparecer em sustentar uma diferença, rever uma interpretação, reconhecer um limite ou participar com mais discernimento. O valor do percurso não se mede pela manutenção de uma sensação agradável.
+
+### 45.4. Sensação, interpretação e experiência ampliada
+
+A sensação é uma entrada para a investigação. Seu reconhecimento pode abrir uma expressão, uma hipótese de sentido e uma resposta. A interpretação permanece revisável conforme contexto e experiência posterior.
+
+Uma sensação de expansão pode encontrar sentido espiritual e produzir efeitos fecundos. Também pode ser passageira ou pedir elaboração. O acompanhamento inclui o que se vive durante a experiência, como ela é compreendida depois e que participação encontra na vida. Os relatos não precisam ser reduzidos a um mecanismo ou transformados em prova ontológica.
+
+Para a proposta de estabilizar a consciência no corpo, o acréscimo é desenvolver condições de contato, diferenciação e expressão durante mudanças. No horizonte espiritual do TSH, essa base pode sustentar a manifestação da consciência na existência; sua interpretação não depende de equiparar Essência a regulação autonômica.
+
+### 45.5. Texto autoral proposto para apoiar as aulas
+
+> Podemos aprender a reconhecer o que nos sustenta e o que precisamos em cada momento. Às vezes encontramos quietude; em outras, precisamos mover-nos, falar, descansar ou buscar apoio. A presença pode acompanhar essas mudanças. O que vivemos ganha novas possibilidades quando encontramos formas de compreender, expressar e participar da vida a partir da experiência.
+
+## 46. Explorações para desenvolver nas aulas e nos encontros
+
+As propostas abaixo ampliam práticas já existentes. Sua composição, tempo e aprofundamento acompanham a condução de Fabiano e a necessidade da aula. Os tempos são estimativas editoriais, não doses validadas em pesquisa. O registro de percepção, expressão e retorno já disponível pode receber a elaboração; não é necessário acrescentar uma ficha para cada exploração.
+
+### 46.1. Encontrar algo que ainda não havia sido percebido
+
+**Destino:** aproximação breve nas aulas de percepção e corpo; aprofundamento na espiritualidade e na continuidade. **Tempo sugerido:** 3–6 minutos, ou uma caminhada adaptada às possibilidades da pessoa.
+
+Reconhecer os apoios e o ambiente. Escolher um elemento acessível — luz, som, planta, céu, uma imagem ou música — e conceder-lhe atenção. Explorar o que aparece quando se diminui a pressa de concluir.
+
+**Fala proposta:** “Deixe algo do ambiente chegar até você. O que há aqui que você ainda não tinha percebido? Pode ser algo pequeno. Veja como essa atenção participa do corpo, do interesse e da relação com o que está ao redor.”
+
+Ao concluir, reconhecer o corpo e a transição para a atividade seguinte. Elaborar: o que foi notado, o que foi sentido e se algum sentido encontrou expressão. A experiência pode ser simples observação; não é necessário produzir maravilhamento.
+
+**Procedência:** adaptação pedagógica do capítulo de Dana e diálogo com os estudos de awe; não reprodução do protocolo de caminhada de Sturm.
+
+### 46.2. Reconhecer e receber um apoio
+
+**Destino:** condições de acesso, recursos de retorno, valores e continuidade. **Tempo sugerido:** 4–6 minutos.
+
+Convidar ao reconhecimento de algo que ajuda a vida a continuar: um gesto, uma pessoa, um recurso, uma condição ambiental. Observar como é percebê-lo e se é possível receber algo dessa experiência agora.
+
+**Fala proposta:** “Há algo que tem sustentado você e que pode reconhecer neste momento? Como é dar atenção a esse apoio? Talvez apareça gratidão; talvez outro sentimento. Veja se há uma forma de recebê-lo ou torná-lo mais acessível.”
+
+Uma continuidade possível é agradecer, organizar acesso ao recurso ou formular um pedido. Não há necessidade de transformar o agradecimento em compromisso com a pessoa que ofereceu o apoio.
+
+**Procedência:** Dana e pesquisas sobre gratidão; articulação com receber cuidado e recursos já desenvolvidos no TSH.
+
+### 46.3. Humanidade comum e resposta possível
+
+**Destino:** valores e compaixão, relações e contribuição sem autoabandono. **Tempo sugerido:** 5–8 minutos.
+
+Escolher uma situação cotidiana ou personagem fictício. Reconhecer que essa pessoa tem necessidades e dificuldades, sem presumir conhecê-las por completo. Incluir o próprio estado, limites e possibilidades.
+
+**Fala proposta:** “Essa pessoa também atravessa experiências que talvez eu não conheça. Posso me interessar por ela sem concluir que já sei o que sente. O que percebo? O que preciso perguntar? Existe algo que posso oferecer ou algum limite que preciso reconhecer?”
+
+Concluir com uma resposta viável: escutar, perguntar, ajudar, buscar apoio ou estabelecer um limite. A prática pode ser feita individualmente ou em dupla, com espaço para corrigir a leitura oferecida.
+
+**Procedência:** diálogo com “Assim como Eu”, de Dana, e com as práticas de compaixão, mentalização e diferenciação já presentes no curso. É uma adaptação do TSH.
+
+### 46.4. Permanecer, mover e reconhecer a diferença
+
+**Destino:** corpo, recursos de retorno, continuidade da atenção e integração. **Tempo sugerido:** 4–7 minutos.
+
+Após uma preparação familiar, acompanhar um intervalo breve de permanência. Reconhecer apoios e ambiente. Fazer então um movimento simples conhecido e observar a passagem. A ordem pode ser invertida conforme a aula.
+
+**Fala proposta:** “Como é permanecer? E como é mover-se agora? Veja o que muda no contato com o corpo, com o espaço e com sua possibilidade de continuar. Se alguma referência ajudar, você pode reencontrá-la.”
+
+Elaborar o que foi reconhecido sem atribuir automaticamente maior valor ao silêncio ou ao movimento. A exploração amplia as sequências existentes de base e quietude.
+
+### 46.5. O que precisa de cultivo e o que precisa de condição?
+
+**Destino:** compreensão/acesso, alostase, padrões, relações e continuidade. **Tempo sugerido:** 6–10 minutos.
+
+Escolher uma demanda cotidiana delimitada. Investigar o que ela solicita, o que a pessoa já sabe fazer, o que consegue mobilizar agora e quais apoios estão disponíveis ou faltando.
+
+**Fala proposta:** “O que aqui pede aprendizagem? O que você já conhece e está difícil de acessar? Há desgaste ou uma exigência que precisa ser revista? Que participação está ao seu alcance e que apoio faria diferença?”
+
+Escolher um próximo passo viável: uma pequena prática, uma conversa, um pedido de ajuda, um ajuste de demanda ou descanso. Pode ser necessário reconhecer um impasse antes de formular uma ação.
+
+Na retomada, perguntar o que o passo tornou possível e o que continua dependendo de outras condições. A revisão mantém o plano vivo e evita converter uma tentativa em avaliação moral da pessoa.
+
+### 46.6. Da experiência de pertencimento a uma participação concreta
+
+**Destino:** espiritualidade, integração, contribuição e continuidade. **Tempo sugerido:** 5–8 minutos.
+
+Partir de um contato acessível com o mundo vivo ou de uma experiência significativa já relatada. Reconhecer dependências, relações e sentidos. Considerar uma forma de cuidado que encontre lugar na vida atual.
+
+**Fala proposta:** “O que nesta experiência faz você reconhecer uma relação maior? Que significado isso tem para você? Há um cuidado possível consigo, com alguém ou com o ambiente que deseja cultivar a partir disso?”
+
+O cuidado pode ser pequeno e pode incluir repouso, atenção a um vínculo ou uma mudança prática. A ação não é comprovação da autenticidade da experiência; é uma possibilidade de elaboração e expressão.
+
+## 47. Incorporação ao percurso e continuidade da produção
+
+### 47.1. Destinos nas aulas atuais
+
+A inclusão dos núcleos foi solicitada por Fabiano. A tabela orienta sua recuperação quando houver contribuição real para a aula. A densidade principal fica no corpo e no cultivo, na espiritualidade e nas relações; as demais entradas podem ser exemplos ou retomadas.
+
+| Aulas atuais | Conteúdo a recuperar | Função pedagógica e material a apoiar |
+| --- | --- | --- |
+| M0.3; M1.1, M1.2 e M1.7 — condições, compreender/acessar e retorno | Seção 44; distinções da 45. | Exemplo de recurso pouco acessível; plano de participação e retomada com apoio. |
+| M2.5 e M2.6 — vivido, interpretação e Tradução provisória | 43.1–43.2 e 45.4. | Investigar sensação, significado e contexto; ampliar a abertura ao ainda não reconhecido. |
+| M3.1, M3.2 e M3.4 — corpo, interocepção e mapas autonômicos | 45; qualificação docente em 43.8 e 48. | Distinguir contato, quietude e aparência; comparar permanência e movimento. |
+| M3.3 — antecipar necessidades e distribuir recursos | 44; exploração 46.5. | Demandas, capacidade desenvolvida, disponibilidade, recuperação e apoios. |
+| M3.5 e M3.6 — reserva, cultivo, centro e enraizamento | 44.3; 43.7; 45. | Relacionar sustentação e condições de vida, com sentido tradicional próprio. |
+| M3.7 — escolher, dosar e adaptar | 46.1, 46.2, 46.4 e 46.5. | Ampliar o repertório de retorno com recursos ambientais e relacionais. Selecionar conforme o encontro. |
+| M4.4, M4.5 e M4.6 — padrões, partes e respostas | 44.4–44.5 e 45.3. | Diferenciar aprendizagem, proteção e condições; ampliar resposta sem exigir emoção agradável. |
+| M5.2 — valores, compaixão e bússolas | 43.3–43.5; 46.2–46.3. | Reconhecer o que sustenta, aprender a receber e relacionar valor e ação. |
+| M5.4 e M5.5 — espaço, quietude e símbolos | 43.6, 45 e 46.4. | Interiorização com presença; elaboração em tempo próprio e transição para a expressão. |
+| M5.6, M5.7 e M5.8 — espiritualidade, referência profunda e discernimento | 43 e 45.4; 46.6. | Desenvolver experiências cotidianas de abertura, seus sentidos e efeitos, com pluralidade. |
+| M6.1, M6.4, M6.5 e M6.6 — integração, espiral e coerência possível | 44.5 e 45. | Acompanhar o que se torna reconhecível e praticável depois da experiência; apoio e mudança nas condições. |
+| M7.3, M7.4, M7.6, M7.7 e M7.8 — escuta, limites, contribuição e reparação | 43.4–43.5, 44.4–44.5 e 46.3/46.6. | Corregulação com diferenciação; receber/oferecer, limites e participação situada. |
+| M8.2 — continuidade | 44.5 e 46.5; retomada das explorações efetivamente ensinadas. | Compor uma continuidade viável e rever necessidades, apoios e efeitos. |
+
+### 47.2. Retomada em espiral e materiais
+
+A mesma exploração pode reaparecer com perguntas diferentes: primeiro reconhecer um apoio; depois perceber o que ele permite acessar; mais adiante investigar sua participação no vínculo e na vida. Isso aprofunda o aprendido sem exigir uma técnica nova em cada aula.
+
+Na produção dos slides, selecionar uma ideia e um exemplo que orientem a compreensão. No roteiro oral, desenvolver a relação com a situação do participante. As referências e precisões científicas ficam acessíveis nas notas do educador. O registro do aluno pode conservar as perguntas simples: “o que percebo?”, “o que compreendo?”, “de que preciso?” e “como posso participar?”.
+
+O caderno de condução aponta para as explorações da seção 46; o caderno de incorporação localiza as aulas; a matriz por aula oferece a entrada comum. Esse alinhamento preserva uma fonte substantiva e reduz cópias que poderiam divergir.
+
+### 47.3. AISB, livro e trabalhos relacionados
+
+No AISB, o material aprofunda a investigação de como condições corporais, relacionais e ambientais participam do reconhecimento, da atribuição de sentido e das respostas. A disponibilidade de um recurso não se deduz apenas de seu conhecimento declarado. A investigação pode separar experiência, comportamento, contexto e medida fisiológica.
+
+Em Arquitetura Invisível, oferece desenvolvimento para base, campo, persistência de adaptações, expressão e retorno com aquisição. Para CEEP e os trabalhos de espiritualidade em psicoterapia, acrescenta experiências cotidianas de abertura e critérios de acompanhamento temporal, com cuidado para não reduzir espiritualidade a bem-estar nem patologizar sua forma.
+
+Essas entradas aprofundam a reflexão posterior ao TCC e dialogam com sua arquitetura relacional; não alteram o trabalho acadêmico concluído.
+
+## 48. Fontes do aprofundamento e alcance da fundamentação
+
+### 48.1. Fonte principal e continuidade autoral
+
+- Deb Dana, Ancorado, capítulo 10, PDF 171–186: experiências autotranscendentes, admiração, gratidão, elevação, compaixão, quietude e benevolência. Nas páginas 184–186 estão as notas bibliográficas do capítulo.
+- Para demandas, recursos e capacidade: avaliação de Apigian na seção 37.3; exemplos e precisões preservados nas seções 38–40; aprofundamento do TSH na seção 44.
+- Para sustentação, quietude e integração: seções 11, 21.1, 24, 30, 38 e 45; cadernos atuais de cultivo; compaixão sem autoabandono; espiral e retorno com aquisição.
+- A referência da CID-11 e os estudos anteriores continuam localizados na seção 39. A diferenciação clínica não se converte em exercício de autodiagnóstico nas aulas.
+
+### 48.2. Estudos e formulação teórica examinados
+
+As referências abaixo fundamentam relações delimitadas. Não validam o conjunto do TSH nem todas as afirmações de saúde presentes no capítulo de Dana.
+
+| Referência | Contribuição conferida e alcance |
+| --- | --- |
+| Piff et al. (2015), Awe, the Small Self, and Prosocial Behavior. DOI: [10.1037/pspi0000018](https://doi.org/10.1037/pspi0000018). | Cinco estudos, total de 2.078 participantes, examinam relações entre awe, menor centralidade individual e respostas pró-sociais. Não medem Essência ou realização espiritual. |
+| Sturm et al., publicação on-line em 2020, volume de 2022, Big Smile, Small Self. DOI: [10.1037/emo0000876](https://doi.org/10.1037/emo0000876). | Sessenta pessoas recrutadas; 52 incluídas nas análises. Caminhadas semanais de 15 minutos por oito semanas, com controle ativo. Houve diferenças afetivas e fotográficas; ansiedade, depressão e satisfação com a vida não mudaram nos desfechos pré/pós. A adaptação do TSH tem formato próprio. |
+| Emmons e McCullough (2003), Counting Blessings Versus Burdens. DOI: [10.1037/0022-3514.84.2.377](https://doi.org/10.1037/0022-3514.84.2.377). | Três estudos com registros de gratidão e condições de comparação. Benefícios em parte das medidas, com afeto positivo mais consistente. Não oferecem uma garantia geral de benefícios físicos de uma prática breve. |
+| Algoe e Haidt (2009), Witnessing Excellence in Action. DOI: [10.1080/17439760802650519](https://doi.org/10.1080/17439760802650519). | Diferencia motivações ligadas a elevação, gratidão e admiração por excelência. Ajuda a evitar reunir todos esses afetos em um único estado. |
+| Stellar et al. (2015), Affective and Physiological Responses to the Suffering of Others. DOI: [10.1037/pspi0000010](https://doi.org/10.1037/pspi0000010). | Quatro estudos examinam compaixão e parâmetros fisiológicos, incluindo RSA e respiração. Oferecem associações experimentais delimitadas; não estabelecem um requisito autonômico exclusivo para a compaixão. |
+| Piper, Saslow e Saturn (2015), Autonomic and Prefrontal Events During Moral Elevation. DOI: [10.1016/j.biopsycho.2015.03.004](https://doi.org/10.1016/j.biopsycho.2015.03.004). | Aumento de frequência cardíaca e RSA durante elevação; interpretação dos autores compatível com mobilização e engajamento concomitantes. Não constitui exame de presença ou maturidade espiritual. |
+| Sterling (2012), Allostasis: A Model of Predictive Regulation. DOI: [10.1016/j.physbeh.2011.06.004](https://doi.org/10.1016/j.physbeh.2011.06.004). | Formulação teórica do autor, conferida no resumo: antecipação de necessidades, coordenação e distribuição de recursos; considera também redução de demandas e condições de controle. Não é ensaio de intervenção do TSH. |
+| Seeman, McEwen, Rowe e Singer (2001), Allostatic Load as a Marker of Cumulative Biological Risk. DOI: [10.1073/pnas.081072698](https://doi.org/10.1073/pnas.081072698). | Medida composta de dez parâmetros em uma coorte inicialmente com 1.189 pessoas de 70–79 anos; análise de desfechos sete anos depois. Sustenta o interesse pelo desgaste cumulativo, sem identificar Jing ou medir capacidade subjetiva em aula. |
+
+Piff, Sturm, Emmons/McCullough, Algoe/Haidt, Stellar e Seeman foram consultados em trechos dos artigos. Piper e Sterling foram conferidos nos respectivos resumos. As relações com eixo, Árvore da Singularidade, Três Eus, cultivo, retorno e projetos são desenvolvimentos pedagógicos e autorais propostos a partir do acervo, identificados como tais.
+
+### 48.3. Consulta na estruturação das aulas
+
+- [Consulta por aula e conteúdo](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/10%20-%20Governan%C3%A7a%20do%20Conhecimento/06%20-%20Matriz%20Mestre%20de%20Incorpora%C3%A7%C3%A3o%20do%20Conte%C3%BAdo%20%C3%A0%20Estrutura%209-54.md).
+- [Fundamentação do cultivo](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/MTC%20e%20Qi%20Gong/04%20-%20Caderno%20de%20Fundamenta%C3%A7%C3%A3o%20-%20Cultivo%20Medita%C3%A7%C3%A3o%20Prana%20e%20Circula%C3%A7%C3%A3o.md).
+- [Condução das práticas e sequências existentes](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/MTC%20e%20Qi%20Gong/05%20-%20Caderno%20de%20Condu%C3%A7%C3%A3o%20-%20Sequ%C3%AAncias%20e%20Aprendizagens%20do%20Cultivo.md).
+- [Incorporação aos roteiros e gravações](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/MTC%20e%20Qi%20Gong/06%20-%20Incorpora%C3%A7%C3%A3o%20%C3%A0s%20Aulas%20e%20Grava%C3%A7%C3%B5es%20-%20Cultivo%20no%20TSH.md).
+- [Compaixão, empatia e autocompaixão](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Compaix%C3%A3o%20Empatia%20e%20Rela%C3%A7%C3%A3o/00%20-%20Compaix%C3%A3o%20Empatia%20e%20Autocompaix%C3%A3o%20-%20Fundamenta%C3%A7%C3%A3o%20e%20Consulta.md) e [destinos nas aulas](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Compaix%C3%A3o%20Empatia%20e%20Rela%C3%A7%C3%A3o/02%20-%20Compaix%C3%A3o%20e%20Empatia%20-%20Destinos%20nas%20Aulas%20e%20Materiais.md).
+
+## 49. Avaliação da proposta de fundamento: sustentação, abertura, elaboração e participação
+
+### 49.1. Parecer e alcance do acréscimo
+
+A formulação de Fabiano merece lugar entre os fundamentos pedagógicos transversais do TSH. Ela reúne condições de sustentação, abertura à experiência, elaboração e participação na vida em uma relação compreensível e coerente com o percurso já desenvolvido. Seu valor está na organização do ensino e da experiência do aluno. Não corresponde, por si, à demonstração de um mecanismo científico único ou à validação empírica do curso.
+
+O fundamento transversal sobre oscilação, acesso, diferenciação e integração, consultado na main do repositório, já contempla a variabilidade do acesso, a participação das condições e a responsabilidade situada. As seções 43–45 deste documento aprofundam autotranscendência, demandas, recursos e as diferenças entre sustentação, quietude e integração. A nova formulação torna mais explícita a relação entre esses desenvolvimentos e amplia o foco: o percurso também pode abrir possibilidades ainda pouco conhecidas de expressão, vínculo, criatividade e espiritualidade.
+
+A contribuição não precisa ficar restrita ao retorno depois de um padrão ou de uma dificuldade. Cultivar inclui desenvolver o que ainda não se constituiu, aproximar-se de uma experiência nova e oferecer expressão à singularidade. O reconhecimento do desgaste é uma possibilidade de aprendizagem; a descoberta de uma forma de amar, criar ou participar também é.
+
+Esta seção registra uma avaliação favorável e uma redação proposta. A definição de sua formulação autoral final e sua composição nas aulas pertencem ao desenvolvimento do TSH.
+
+### 49.2. Redação proposta
+
+> Cultivar condições de sustentação pode favorecer a abertura à experiência. Ao sentir, diferenciar e elaborar o vivido, a pessoa pode ampliar suas possibilidades de participação na vida. Essa participação também transforma as condições de sustentação e abre novas possibilidades de experiência. O percurso se desenvolve em espiral, com aprendizagem, prática, descanso, revisão de exigências e construção de apoios.
+
+Uma versão breve, adequada a uma apresentação introdutória, seria:
+
+> Cultivar sustentação, abrir-se à experiência, elaborar o vivido e participar da vida são movimentos que se alimentam ao longo do percurso.
+
+A primeira redação explicita as relações e as alternativas de cultivo. A segunda funciona como síntese para um slide, acompanhada da explicação oral. Nenhuma delas precisa receber o estatuto de uma nova técnica ou de um novo método.
+
+### 49.3. Reciprocidade e temporalidade
+
+A palavra “pode”, empregada por Fabiano, deve ser preservada. Sustentação favorece possibilidades, sem garantir uma experiência determinada. Uma prática pode produzir maior contato, revelar uma dificuldade antes pouco reconhecida ou não produzir a alteração esperada. O sentido e os efeitos se esclarecem com a investigação e com o tempo.
+
+A relação também é recíproca. Uma conversa pode revelar um apoio que a pessoa ainda não reconhecia; a expressão de um limite pode proteger o descanso; uma experiência corporal pode tornar perceptível uma exigência excessiva; a elaboração de uma vivência pode mudar o modo de pedir ajuda. Nesses exemplos, participar e elaborar também constroem sustentação.
+
+Por isso, a proposta não deve ser convertida em uma sequência na qual a pessoa precisaria primeiro completar sua base, depois abrir-se, depois compreender e finalmente viver. As condições se formam, se perdem e se reorganizam durante a própria vida. A espiral permite revisitar o mesmo tema a partir de novas referências e capacidades, sem pressupor melhora automática a cada retorno.
+
+É útil acompanhar mudanças discretas: reconhecer antes o desgaste, conseguir formular uma necessidade, aceitar uma ajuda concreta, perceber que uma demanda permanece excessiva ou escolher uma resposta antes indisponível. Esses acontecimentos oferecem elementos para observar a aprendizagem, sem transformar todos os momentos da vida em uma avaliação de desempenho.
+
+### 49.4. O que cada termo acrescenta
+
+| Termo | Sentido no fundamento proposto | Consequência para a aula |
+| --- | --- | --- |
+| Sustentação | Condições corporais, relacionais, materiais, simbólicas e de sentido que ajudam a pessoa a permanecer em contato e responder. | Investigar o que apoia a participação e o que precisa ser alterado, incluindo condições externas. |
+| Abertura à experiência | Disponibilidade para perceber o que ocorre, aproximar-se do que se apresenta e reconhecer diferenças. | A abertura pode ser discreta. Não precisa ser medida por intensidade emocional, exposição pessoal ou experiência incomum. |
+| Elaboração | Trabalho de diferenciar, relacionar e construir ou rever sentidos para o vivido. | Pode acontecer pela reflexão, pela fala, pela escrita, por imagens, gestos, silêncio e diálogo. A compreensão pode refinar o sentir. |
+| Participação na vida | Modos de agir, relacionar-se, criar, cuidar, expressar-se e responder às condições concretas. | Inclui descanso, pedido de ajuda, limites, mudança de uma condição e reparação dos efeitos de uma ação. |
+
+Esses termos dialogam com percepção, diferenciação e participação, já presentes no TSH. Não é necessário criar uma segunda sequência obrigatória: sustentação descreve condições do percurso; abertura e elaboração ajudam a explicitar o refinamento da percepção e da diferenciação; participação conserva a ligação com a vida.
+
+Na Árvore da Singularidade, o Campo oferece uma relação pertinente com os vínculos e as condições que participam do crescimento; a Casca permite desenvolver o cuidado com limites e proteção. A sustentação pode favorecer a expressão singular, com seus tempos e assimetrias. Essa é uma correlação pedagógica entre formulações do TSH.
+
+### 49.5. Cinco possibilidades de cultivo
+
+Os movimentos propostos por Fabiano são alternativas que podem se combinar. A mesma pessoa pode precisar aprender uma habilidade, receber apoio e rever uma exigência na mesma situação.
+
+| Possibilidade | O que investigar na situação | Exemplo de participação |
+| --- | --- | --- |
+| Aprender e praticar | A capacidade ainda não foi suficientemente desenvolvida? | Experimentar uma forma de comunicar uma necessidade e aprender com seus efeitos. |
+| Criar condições de acesso | A capacidade já aparece em outros momentos, mas está pouco disponível aqui? | Mudar o momento da conversa, recuperar uma referência ou contar com uma companhia que ajude a organizar a experiência. |
+| Recuperar-se | Há desgaste, pouco repouso ou uma condição que pede cuidado? | Dormir, interromper uma atividade, fazer uma pausa ou receber os cuidados necessários. |
+| Rever exigências | As demandas são excessivas, concorrentes ou incompatíveis com as condições atuais? | Renegociar um prazo, reduzir compromissos ou reconhecer que algo não cabe neste momento. |
+| Construir apoios | Parte da sustentação depende de relações, organização ou condições materiais? | Dividir tarefas, buscar ajuda, combinar recursos e modificar uma condição do ambiente. |
+
+Essa ampliação desenvolve as três situações de aprendizagem já trabalhadas no TSH: ainda não reconhecer, reconhecer sem ter desenvolvido e compreender sem conseguir acessar. Acrescenta uma pergunta decisiva: em que medida a dificuldade exige uma aprendizagem individual e em que medida exige recuperação, apoio ou mudança das condições?
+
+Descanso e ajuda têm valor na vida presente. Sua legitimidade não depende de produzirem, depois, mais desempenho. Também não é preciso atribuir automaticamente a uma pausa o sentido de fuga, regressão ou avanço: seu significado se investiga no contexto, com atenção à experiência e às consequências. A possibilidade real de mudar uma condição varia; reconhecer essa diferença evita transformar responsabilidade em atribuição de culpa a quem dispõe de poucos recursos ou de pouco poder de decisão.
+
+### 49.6. Presença, quietude e eixo
+
+Presença atravessa sustentação, quietude e integração, sem tornar esses termos equivalentes. A sustentação diz respeito às condições que ajudam a permanecer em contato e responder; quietude é uma qualidade possível da experiência; integração se refere às relações que se desenvolvem entre o vivido, seus sentidos e a participação ao longo do tempo.
+
+Uma pessoa pode estar presente durante tristeza, entusiasmo, movimento, esforço ou a defesa de um limite. Pode também experimentar quietude e ainda precisar esclarecer como está seu contato consigo, com o ambiente e com a possibilidade de escolher ou ajustar sua participação. A emoção ou a aparência exterior, isoladamente, não resolve essa investigação.
+
+O eixo participa dessa relação como referência dinâmica de orientação, diferenciação e resposta. Ele pode ser reconhecido e cultivado durante a mobilização. Essa compreensão é coerente com o fundamento transversal já existente sobre oscilação e com a espiral do TSH.
+
+A proposta de estabilizar a consciência no corpo pode ganhar precisão pedagógica ao cultivar continuidade de contato, orientação e possibilidade de resposta, com flexibilidade para acompanhar a vida. A pessoa pode ajustar sua participação sem precisar suprimir o movimento ou a emoção presentes.
+
+Na antropologia espiritual do curso, a articulação com Essência e Self conserva seu lugar. Investigar condições corporais e relacionais de presença contribui para compreender como essa presença é vivida e expressa. As pesquisas e os modelos clínicos aqui mobilizados não decidem a questão da origem ou da natureza última da consciência.
+
+As experiências autotranscendentes abordadas nas seções 43–45 continuam pertinentes: admiração, gratidão, compaixão, quietude e pertencimento ao planeta podem encontrar expressão cotidiana. O novo fundamento ajuda a acompanhar também o que acontece depois: relação com as pessoas, cuidado com o ambiente, escolhas e elaboração. Os dois anexos desta avaliação não demonstram meridianos planetários, transmissão de campos energéticos ou equivalência entre Qi e funcionamento autonômico.
+
+## 50. Kolts, Bell, Bennett-Levy e Irons: contribuição do manual de compaixão
+
+### 50.1. Identificação, público e escopo da leitura
+
+Fonte: Russell L. Kolts, Tobyn Bell, James Bennett-Levy e Chris Irons, *Experimentando a terapia focada na compaixão de dentro para fora: um manual de autoprática/autorreflexão para terapeutas*, Artmed, 2025; original de 2018. O PDF fornecido tem 353 páginas, incluindo referências e material editorial.
+
+A avaliação considerou a apresentação da abordagem, a relação entre autoprática e autorreflexão, os três sistemas de regulação emocional, práticas respiratórias, análise funcional, receios diante da compaixão, cultivo do self compassivo, recepção do cuidado, diferentes perspectivas emocionais e continuidade. Os localizadores abaixo são páginas do PDF.
+
+O livro se dirige à formação experiencial de terapeutas. Suas contribuições conceituais e algumas propostas de aprendizagem podem informar adaptações próprias do TSH. A sequência de 34 módulos, os formulários e as condições do programa original não constituem automaticamente o currículo ou a condução de um curso para público geral.
+
+### 50.2. Acréscimos reais em relação ao acervo
+
+| Núcleo do manual | Localizador | Contribuição à proposta em avaliação |
+| --- | --- | --- |
+| Compaixão como envolvimento com o sofrimento e ação para aliviar ou prevenir | PDF 33–36 e 221–231 | A sensibilidade encontra continuidade na resposta. Coragem, discernimento e firmeza podem participar da presença e do cuidado. |
+| Três fluxos: para os outros, dos outros e para si | PDF 33–36 e 262–273 | Oferecer cuidado e receber cuidado podem ter disponibilidades diferentes. Construir apoios também pode envolver aprender a recebê-los. |
+| Ameaça, busca de objetivos/recompensas e tranquilização/segurança | PDF 76–80 | Permite investigar a motivação da própria prática: uma atividade de cultivo pode estar atravessada por medo de falhar e cobrança. |
+| Autoprática acompanhada de autorreflexão | PDF 38–46 e 331–337 | Esclarece a passagem entre experiência, elaboração e uso situado do aprendizado. |
+| Análise funcional compassiva | PDF 109–121 | Ajuda a investigar o que uma resposta procura proteger, o que resolve no curto prazo e quais custos produz depois. |
+| Diferentes perspectivas emocionais | PDF 196–204 e 285–301 | Uma situação pode organizar corpo, atenção, pensamento e ação de modos diferentes conforme medo, tristeza ou raiva. |
+| Cultivo do self compassivo e aplicação a situações reais | PDF 205–220 | Corpo, postura, voz, imaginação e intenção participam de uma forma de responder com cuidado, sabedoria e coragem. |
+| Observação de atos concretos de cuidado recebidos | PDF 268–273 | Diferencia acontecimento externo, resposta corporal e emocional e interpretação, em continuidade com a Tradução. |
+
+Companhia, apoio, compaixão, limites e receios de receber cuidado já aparecem no acervo de compaixão do TSH. O acréscimo do manual está especialmente no detalhamento dos processos de aprendizagem e nos caminhos de passagem para situações concretas. Sua inclusão não exige substituir os referenciais espirituais, relacionais ou corporais existentes.
+
+### 50.3. Receber apoio pode exigir aprendizagem
+
+O manual apresenta uma dificuldade importante para a formulação de Fabiano: a ajuda pode estar disponível no ambiente, mas não ser facilmente recebida. Uma pessoa pode associar cuidado a dívida, exposição, dependência, pena ou perda de controle. Outra pode reconhecer acolhimento e sentir tristeza por experiências que lhe faltaram.
+
+No exemplo da memória da avó, o encontro com o cuidado também desperta saudade e tristeza, sem que isso seja apresentado como fracasso do exercício (PDF 263–266). O exemplo não permite deduzir a história de um participante a partir de sua reação; oferece uma possibilidade para manter a interpretação aberta.
+
+Para o TSH, “construir apoios” pode incluir reconhecer quem e o que realmente está disponível, formular o pedido, combinar como receber e perceber a resposta interna. A pessoa também pode descobrir que um vínculo específico não oferece o apoio necessário. Assim, cultivar receptividade e avaliar a qualidade real das relações permanecem aprendizagens relacionadas.
+
+### 50.4. Compaixão pode mobilizar
+
+As qualidades descritas no manual incluem sensibilidade, empatia, tolerância ao desconforto e discernimento. O livro diferencia tolerar uma experiência difícil de continuar submetendo-se a danos (PDF 223). Isso fortalece a proposta de presença durante a defesa de um limite.
+
+O aluno pode sentir medo e ainda formular um pedido; ficar triste e permanecer em contato; reconhecer raiva e utilizá-la para esclarecer o que precisa proteger. Essas possibilidades exigem investigação e aprendizagem. Não se pode concluir pela presença ou pela integração apenas porque houve uma emoção intensa ou porque a pessoa ficou calma.
+
+Essa perspectiva conversa com os módulos de padrões, bússolas internas, expressão, limites e reparação. Ajuda ainda a reconhecer que cuidar pode exigir firmeza e que agir com firmeza pode conservar cuidado.
+
+### 50.5. O propósito de uma prática modifica sua condução
+
+O manual distingue a respiração com ritmo tranquilizador, que procura influenciar o estado corporal (PDF 84–88), da observação atenta da respiração, voltada ao acompanhamento da experiência e ao retorno da atenção (PDF 103–108). Essa diferenciação aprofunda a discussão já feita com Castellanos sobre observar e elaborar.
+
+No TSH, vale explicitar a intenção de uma prática: oferecer apoio corporal, perceber o que ocorre, desenvolver uma capacidade, explorar uma imagem ou elaborar uma experiência. Uma mesma atividade pode reunir intenções, mas sua apresentação precisa ajudar o aluno a compreender o que está aprendendo. Um ritmo respiratório proposto no livro não precisa tornar-se uma prescrição universal do curso.
+
+Os três círculos também podem ajudar a perguntar se o modo de praticar reproduz a exigência que a pessoa procura compreender: fazer mais, produzir um resultado específico, comparar-se ou temer decepcionar. Esse uso é uma leitura motivacional, sem atribuir a cada participante um estado fisiológico deduzido de sua expressão ou de seu relato.
+
+### 50.6. Diferenciações necessárias para a correlação
+
+O self compassivo da TFC é uma forma cultivada de organizar atenção, postura, intenção e resposta. Pode dialogar com o exercício de uma referência mais ampla e com a coordenação de diferentes movimentos internos. Essa aproximação funcional não torna o conceito equivalente ao Self, à Essência ou aos Três Eus do TSH.
+
+O diálogo com as bússolas Amor, Sabedoria e Poder também pode ser produtivo: cuidado com o sofrimento, discernimento sobre a situação e firmeza para agir. A comparação permite elaborar exemplos e diferenças entre os vocabulários, sem pressupor equivalência entre suas formulações.
+
+Da mesma forma, os três círculos de regulação não correspondem diretamente aos Três Eus, às três redes neurais ou às categorias autonômicas de outro modelo. Semelhanças gráficas ou o número três não demonstram identidade de processos.
+
+As explicações sobre cérebro antigo e novo têm função didática no manual. Para a fundamentação das aulas, sua utilidade deve ser delimitada à compreensão de capacidades e circuitos de retroalimentação descritos pela abordagem, sem apresentar uma divisão simples do cérebro como prova da arquitetura do TSH.
+
+O livro também oferece itens adaptados de escalas para autorreflexão. Uma ficha de exploração ou uma seleção de itens não equivale ao instrumento integral validado e não precisa tornar-se teste de prontidão, diagnóstico ou nota do aluno.
+
+### 50.7. O que a pesquisa acrescenta e o que permanece em aberto
+
+O estudo de Gilbert, McEwan, Matos e Rivis (2011), já referenciado no acervo, investigou medos de compaixão em 222 estudantes e 53 terapeutas. Encontrou associações entre receios de receber cuidado ou cuidar de si e outras dificuldades psicológicas. Seu desenho não estabelece a causa de uma reação individual. DOI: [10.1348/147608310X526511](https://doi.org/10.1348/147608310X526511).
+
+Matos e colaboradores (2017) realizaram um estudo piloto randomizado de treinamento da mente compassiva, com 117 participantes inicialmente alocados e 93 concluintes. Os resultados oferecem apoio inicial a alguns efeitos psicológicos; a amostra foi predominantemente feminina e estudantil, com comparação em lista de espera. Na variabilidade da frequência cardíaca, a interação entre tempo e grupo apresentou p = 0,054, embora a comparação antes/depois dentro do grupo de treinamento tenha apresentado p = 0,035. Essa diferença importa: melhora dentro de um grupo não basta para demonstrar superioridade fisiológica entre grupos. O estudo não testa a sequência inteira deste manual nem o fundamento do TSH. DOI: [10.1007/s12671-017-0745-7](https://doi.org/10.1007/s12671-017-0745-7).
+
+A proposição pedagógica encontra interlocução com essas pesquisas, com o manual e com o acervo anterior. Sua avaliação deve manter distintos o interesse teórico, os resultados de intervenções específicas e a investigação futura do próprio TSH.
+
+## 51. Apostila PUCRS: motivação moral, compaixão, empatia, altruísmo e egoísmo
+
+### 51.1. Procedência e continuidade
+
+A apostila da disciplina de Draiton Gonzaga de Souza e Pedro Savi Neto tem 49 páginas e reúne mapas de aula, sínteses, indicações de leitura, registros de falas e exercícios. Não constitui transcrição integral das videoaulas.
+
+A comparação do arquivo fornecido com o registro anterior confirmou que se trata do mesmo PDF já cadastrado no acervo de compaixão, em 14 de novembro de 2026. Portanto, sua retomada aprofunda uma fonte existente. O novo manual da TFC amplia possibilidades de aplicação; a apostila ajuda a desenvolver a compreensão ética, antropológica e relacional dessas aplicações.
+
+### 51.2. Quatro contribuições relevantes ao fundamento
+
+**A concepção de ser humano orienta o cuidado.** A apostila explicita que a discussão moral pressupõe uma imagem de ser humano (PDF 16 e 30). Essa questão é pertinente ao TSH: seus sentidos de singularidade, corpo, consciência, relação e espiritualidade participam da forma de ensinar. As descrições biológicas podem contribuir para compreender condições e processos; a escolha de valores e responsabilidades envolve também argumentação e posicionamento ético.
+
+**Apoio e autonomia podem se desenvolver juntos.** Reconhecimento, sociabilidade, vínculos e dependência mútua aparecem nas páginas 23–30. A leitura favorece uma compreensão de autonomia que inclui poder contar com outros e participar de combinações e relações. Sustentação não é apenas uma reserva que o indivíduo produziria sozinho.
+
+**Empatia e cuidado ético precisam ser diferenciados.** As páginas 43–44 discutem os limites da empatia e sua seletividade. Sentir-se tocado por alguém não resolve, sozinho, o que seria uma resposta justa ou responsável. A intenção de ajudar, a emoção de quem ajuda, a ação realizada e os efeitos sobre quem recebe são aspectos relacionados que merecem distinção. O bem-estar que alguém sente ao ajudar não torna seu gesto automaticamente egoísta; a intensidade do que sente também não garante que tenha oferecido a ajuda necessária.
+
+**A forma de ensinar participa da aprendizagem.** A página 46 enfatiza o ambiente compartilhado na formação ética. Para o TSH, o tratamento das dúvidas, a possibilidade de discordar, o modo de lidar com limites e a resposta a uma dificuldade concreta participam do que se aprende sobre cuidado. O fundamento proposto precisa aparecer na condução e nas condições do curso, além de seu enunciado nos slides.
+
+Esses quatro pontos são ampliações de conteúdo e de postura pedagógica. A apostila apresenta posições filosóficas e discussões em disputa, inclusive sobre liberdade e determinismo; elas não devem ser condensadas em uma conclusão única atribuída à neurociência.
+
+Também convém distinguir consciência moral, experiência consciente e a dimensão espiritual da consciência trabalhada no TSH. Embora possam se relacionar na vida de uma pessoa, esses termos designam questões diferentes; uma conclusão sobre motivação moral não resolve, por si, uma questão sobre a natureza da consciência.
+
+### 51.3. Correções bibliográficas e uma qualificação conceitual
+
+Foram encontrados dois erros de atribuição nas sínteses de leituras:
+
+- Na página 26, a descrição de *Remédio para a aceleração: ensaios sobre a ressonância* atribui a obra a Byung-Chul Han. O autor é Hartmut Rosa; a própria capa mostrada na página indica seu nome. A atribuição foi conferida também no [catálogo da editora Océano](https://oceano.mx/ficha-libro.aspx?id=21203).
+- Na página 30, *Resonancia: una sociología de la relación con el mundo* é atribuída a Rafael Argullol. O autor é Hartmut Rosa, conforme o [catálogo da Katz](https://katzeditores.com/libro/resonancia_161349/).
+
+As correções se referem ao texto da apostila. Elas não permitem afirmar que os professores tenham cometido os mesmos erros nas aulas gravadas.
+
+A apresentação de Maslow na página 26 também sugere uma ordem rígida de atendimento das necessidades. No artigo original de 1943, Maslow reconhece exceções à ordem e satisfação parcial e simultânea de necessidades. Esse ponto ajuda a evitar que sustentação seja ensinada como um degrau que precisaria estar concluído antes de vínculos, criatividade ou sentido. Trata-se da leitura do texto original, sem equiparar sua teoria ao fundamento proposto. DOI: [10.1037/h0054346](https://doi.org/10.1037/h0054346); [texto original disponibilizado pela York University](https://psychclassics.yorku.ca/Maslow/motivation.htm).
+
+A referência de Rosa pode favorecer uma investigação futura sobre relação com o mundo, aceleração e disponibilidade. Esta avaliação conferiu as atribuições nas editoras; não realizou uma análise integral de suas obras. Também é necessário distinguir seu conceito sociológico de ressonância da ressonância estrutural autoral de Fabiano e de hipóteses físicas sobre campos.
+
+### 51.4. Limites da contribuição ao AISB e à espiritualidade
+
+A apostila e o manual ajudam a desenvolver condições de relação, sensibilidade ao sofrimento, motivação, recepção do cuidado e aprendizagem. Esse é seu acréscimo mais consistente ao AISB e ao TSH.
+
+A discussão sobre neurônios espelho, presente na apostila, não deve ser utilizada como explicação suficiente da empatia ou como demonstração de um campo entre pessoas. A própria apostila registra limites da interpretação centrada nesse mecanismo. Vivência de ressonância, coordenação comportamental, sincronia fisiológica e hipóteses sobre transmissão de informação conservam questões e métodos de investigação distintos, conforme o desenvolvimento anterior deste documento.
+
+A contribuição à espiritualidade aparece sobretudo na possibilidade de relacionar experiência, cuidado, discernimento e participação cotidiana. O sentido espiritual pode ser investigado e elaborado em seus próprios termos. Não precisa ser deduzido de um marcador autonômico nem ser apresentado como consequência inevitável de uma prática de compaixão.
+
+## 52. Consequências para a estruturação das aulas e propostas de exploração
+
+### 52.1. Destinos recomendados na estrutura existente
+
+As indicações abaixo foram relacionadas aos conteúdos da estrutura de nove módulos e 54 aulas consultada no repositório. São recomendações para composição, sem pressupor que os roteiros finais já tenham sido modificados.
+
+| Destino | Acréscimo pertinente | Aplicação na elaboração |
+| --- | --- | --- |
+| M0.3; M1.1–M1.3 e M1.7 | Condições de participação; compreender, acessar e sustentar; eixo em desenvolvimento. | Apresentar a relação em espiral e as cinco possibilidades de cultivo, retomando-as em exemplos. |
+| M2.5–M2.6 | Acontecimento, experiência, interpretação e Tradução provisória. | Distinguir o gesto de ajuda observado, a resposta interna e o sentido atribuído. |
+| M3.1–M3.3 e M3.5–M3.7 | Estado e acesso, interocepção, alostase, reserva, cultivo e recursos de retorno. | Examinar demandas, disponibilidade, descanso e apoio; explicitar o propósito de cada prática. |
+| M4.2–M4.6 | Granularidade, nomeação, história protetiva, perspectivas internas e resposta possível. | Explorar diferenças entre emoções, funções de um padrão e consequências de uma resposta. |
+| M5.2–M5.4 | Bússolas internas, compaixão, Três Eus e espaço de participação. | Desenvolver cuidado, sabedoria e coragem sem equiparar o self compassivo da TFC à Essência. |
+| M5.6–M5.8 | Espiritualidade, Essência e discernimento. | Acompanhar experiência ampliada, elaboração e efeitos cotidianos ao longo do tempo. |
+| M6.1–M6.6 | Diferenciação, ambivalência, integração e coerência situada. | Retomar situações com novas referências e investigar o que se tornou possível na participação. |
+| M7.3–M7.8 | Escuta, limites, pertencimento, contribuição, responsabilidade e reparação. | Articular oferecer e receber cuidado, rever exigências, pedir ajuda e examinar efeitos. |
+| M8.2 e continuidade | Sustentação do percurso e participação futura. | Reconhecer condições que favorecem continuidade, formas de apoio e aprendizagens ainda em desenvolvimento. |
+
+A proposta pode ser retomada na comunidade, nas aulas práticas e nos materiais editoriais pertinentes. Seu uso deve acompanhar a função de cada produção, sem exigir repetição integral em todas elas.
+
+### 52.2. Quatro explorações possíveis, adaptadas ao TSH
+
+**1. Reconhecer o que a situação pede.** Escolher uma situação cotidiana e observar o que a torna difícil. Relacionar aprendizagem, acesso, recuperação, exigências e apoios. A investigação pode revelar mais de uma necessidade; a finalidade é ampliar possibilidades de participação, sem converter a lista em uma classificação fixa da pessoa.
+
+**2. Observar como o cuidado é recebido.** Retomar um gesto concreto de apoio. Diferenciar o que efetivamente aconteceu, o que foi sentido e o sentido atribuído. A pessoa pode reconhecer conforto, tristeza, desconfiança, alívio ou pouco efeito. A interpretação permanece aberta. A proposta dialoga com o manual, especialmente PDF 268–273, e com a Tradução no TSH; não reproduz seu formulário.
+
+**3. Experimentar cuidado com firmeza.** Considerar uma situação na qual há necessidade de pedir, recusar ou estabelecer um limite. Explorar como voz, postura, palavras e intenção podem apoiar uma resposta com cuidado, sabedoria e coragem. Depois, investigar seus efeitos e o que precisa ser ajustado. A emoção difícil pode permanecer durante a experiência.
+
+**4. Retomar uma experiência na vida.** Depois de uma prática ou de uma situação significativa, reconhecer o que foi percebido, o que se diferenciou e o que encontra expressão possível no cotidiano. Em um momento posterior, retornar ao registro: o sentido mudou, algum efeito apareceu ou uma condição continua faltando? A continuidade não exige uma narrativa de melhora.
+
+São propostas de adaptação autoral para desenvolvimento de roteiro. Seus objetivos e modos de condução precisam ser explicitados quando forem compostas em uma aula; não representam protocolos testados do TSH.
+
+### 52.3. Consulta às fontes e aos registros existentes
+
+- [Manual de Kolts, Bell, Bennett-Levy e Irons fornecido por Fabiano](https://chatgpt.com/library?file_id=libfile_fde3_f-52dd91b327a88191977a6203cb3f4858_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal).
+- [Apostila de motivação moral fornecida nesta avaliação](https://chatgpt.com/library?file_id=libfile_fde3_f-33f1c902ebc4819193a38a1561435b87_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal).
+- Gilbert, McEwan, Matos e Rivis (2011). *Fears of compassion: development of three self-report measures*. [DOI](https://doi.org/10.1348/147608310X526511); [resumo no repositório institucional da Cardiff University](https://orca.cardiff.ac.uk/id/eprint/94020/).
+- Matos e colaboradores (2017). *Psychological and Physiological Effects of Compassionate Mind Training: a Pilot Randomised Controlled Study*. [DOI](https://doi.org/10.1007/s12671-017-0745-7); [artigo consultado](https://self-compassion.org/wp-content/uploads/2018/05/Matos.Duarte.2017.pdf).
+- Maslow (1943). *A theory of human motivation*. *Psychological Review*, 50, 370–396. [DOI](https://doi.org/10.1037/h0054346); [texto consultado](https://psychclassics.yorku.ca/Maslow/motivation.htm).
+- [Rosa, autoria de *Remedio a la aceleración*, catálogo Océano](https://oceano.mx/ficha-libro.aspx?id=21203) e [*Resonancia*, catálogo Katz](https://katzeditores.com/libro/resonancia_161349/).
+
+Referências do repositório consultadas para esta avaliação:
+
+- [Fundamento transversal: oscilação, acesso, diferenciação e integração](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/82e712452e3118483a3e8f2721c689df6b3164c2/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/60%20-%20Arquitetura%20Pedag%C3%B3gica/00%20-%20Fundamentos%20Transversais/Fundamento%20transversal%20-%20oscila%C3%A7%C3%A3o,%20acesso,%20diferencia%C3%A7%C3%A3o%20e%20integra%C3%A7%C3%A3o.md).
+- [Fundamentação de compaixão, empatia e autocompaixão](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/82e712452e3118483a3e8f2721c689df6b3164c2/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Compaix%C3%A3o%20Empatia%20e%20Rela%C3%A7%C3%A3o/00%20-%20Compaix%C3%A3o%20Empatia%20e%20Autocompaix%C3%A3o%20-%20Fundamenta%C3%A7%C3%A3o%20e%20Consulta.md).
+- [Ricard, Wallace, PUCRS e HeartMath: fontes e ampliações](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/82e712452e3118483a3e8f2721c689df6b3164c2/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Compaix%C3%A3o%20Empatia%20e%20Rela%C3%A7%C3%A3o/04%20-%20Ricard%20Wallace%20PUCRS%20e%20HeartMath%20-%20Fontes%20e%20Amplia%C3%A7%C3%B5es.md).
+- [Léxico Mestre do TSH](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/82e712452e3118483a3e8f2721c689df6b3164c2/20%20-%20Notas%20Conceituais/L%C3%A9xico%20Mestre%20do%20Traduzindo%20o%20Ser%20Humano.md).
+- [Mapa Funcional Transversal dos Três Eus](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/82e712452e3118483a3e8f2721c689df6b3164c2/20%20-%20Notas%20Conceituais/Mapa%20Funcional%20Transversal%20dos%20Tr%C3%AAs%20Eus.md).
+
+Os links da seção 48.3 continuam oferecendo os caminhos já preparados para consulta por aula, cultivo, condução e compaixão. Esta avaliação também considerou os registros da main sobre oscilação e acesso, o léxico, o Mapa Funcional dos Três Eus, a fundamentação de compaixão e a apostila PUCRS.
+
+Consulta na preparação das aulas:
+
+- [Fundamento transversal: sustentação, acesso, eixo e espiral](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/60%20-%20Arquitetura%20Pedag%C3%B3gica/00%20-%20Fundamentos%20Transversais/Fundamento%20transversal%20-%20oscila%C3%A7%C3%A3o%2C%20acesso%2C%20diferencia%C3%A7%C3%A3o%20e%20integra%C3%A7%C3%A3o.md).
+- [Consulta por aula na estrutura de nove módulos e 54 aulas](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/10%20-%20Governan%C3%A7a%20do%20Conhecimento/06%20-%20Matriz%20Mestre%20de%20Incorpora%C3%A7%C3%A3o%20do%20Conte%C3%BAdo%20%C3%A0%20Estrutura%209-54.md).
+- [Fonte de Kolts e colaboradores, PUCRS e pesquisas](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Compaix%C3%A3o%20Empatia%20e%20Rela%C3%A7%C3%A3o/01%20-%20Fontes%20de%20Compaix%C3%A3o%20e%20Empatia%20-%20Textos%20Livros%20e%20Pesquisas.md).
+- [Quatro explorações e suas relações com as práticas existentes](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Compaix%C3%A3o%20Empatia%20e%20Rela%C3%A7%C3%A3o/03%20-%20Compaix%C3%A3o%20e%20Empatia%20-%20Pr%C3%A1ticas%20e%20Condu%C3%A7%C3%A3o.md).
+- [Destinos de compaixão e cuidado nas aulas](../../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Compaix%C3%A3o%20Empatia%20e%20Rela%C3%A7%C3%A3o/02%20-%20Compaix%C3%A3o%20e%20Empatia%20-%20Destinos%20nas%20Aulas%20e%20Materiais.md).
+
+**Situação deste acréscimo, em 21 de novembro de 2026:** Fabiano solicitou conferir e completar sua incorporação ao repositório. As seções 49–52, as fontes, as quatro explorações e os destinos estão registrados na [PR #75](https://github.com/fabianodeliberalli/base-cognitiva-vault/pull/75). A incorporação preserva a avaliação e a redação proposta para o fundamento; não declara composição final das aulas. Fabiano homologou a integração à main em 21 de novembro de 2026, para disponibilizar esses registros na consulta padrão do repositório.

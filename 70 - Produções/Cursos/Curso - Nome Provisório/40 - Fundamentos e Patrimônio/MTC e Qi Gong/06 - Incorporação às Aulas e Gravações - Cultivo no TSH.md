@@ -3,8 +3,34 @@ tipo: caderno-de-incorporacao-a-producao
 projeto: Traduzindo o Ser Humano
 status: versao-de-trabalho
 criado_em: 2026-11-13
-atualizado_em: 2026-11-16
+atualizado_em: 2026-11-21
 ---
+
+## Cultivo, sustentação e participação — incorporação de 21/11/2026
+
+Na construção das aulas e gravações, recuperar [o fundamento proposto](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#49-avalia%C3%A7%C3%A3o-da-proposta-de-fundamento-sustenta%C3%A7%C3%A3o-abertura-elabora%C3%A7%C3%A3o-e-participa%C3%A7%C3%A3o), [a contribuição de Kolts e colaboradores](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#50-kolts-bell-bennett-levy-e-irons-contribui%C3%A7%C3%A3o-do-manual-de-compaix%C3%A3o) e [a retomada da PUCRS](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#51-apostila-pucrs-motiva%C3%A7%C3%A3o-moral-compaix%C3%A3o-empatia-altru%C3%ADsmo-e-ego%C3%ADsmo). A [consulta por aula](../../10%20-%20Governan%C3%A7a%20do%20Conhecimento/06%20-%20Matriz%20Mestre%20de%20Incorpora%C3%A7%C3%A3o%20do%20Conte%C3%BAdo%20%C3%A0%20Estrutura%209-54.md) indica os destinos e ganhos, sem exigir repetição de todo o material.
+
+| Produção | Material a recuperar |
+| --- | --- |
+| Fala e slide de fundamento, M0/M1 | Relação recíproca entre sustentação, abertura, elaboração e participação; cinco possibilidades de cultivo. |
+| Exemplo e prática, M2/M4/M7 | Acontecimento de ajuda, resposta interna e interpretação; compaixão, coragem, limites e efeitos. |
+| Cultivo corporal, M3/M5 | Objetivo da prática e motivação; disponibilidade, descanso e apoio; presença durante emoção e movimento. |
+| Integração e continuidade, M6/M8 | Retomada de uma experiência no cotidiano, com revisão de sentidos, condições e efeitos. |
+| Notas do apresentador | [Fonte, páginas e alcance das pesquisas](../Compaix%C3%A3o%20Empatia%20e%20Rela%C3%A7%C3%A3o/01%20-%20Fontes%20de%20Compaix%C3%A3o%20e%20Empatia%20-%20Textos%20Livros%20e%20Pesquisas.md); diferenças de self compassivo, Self, Essência e modelos autonômicos. |
+
+[As quatro explorações](../Compaix%C3%A3o%20Empatia%20e%20Rela%C3%A7%C3%A3o/03%20-%20Compaix%C3%A3o%20e%20Empatia%20-%20Pr%C3%A1ticas%20e%20Condu%C3%A7%C3%A3o.md) oferecem o conteúdo para desenvolver instruções e conversa posterior. A [seção de aplicações](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#52-consequ%C3%AAncias-para-a-estrutura%C3%A7%C3%A3o-das-aulas-e-propostas-de-explora%C3%A7%C3%A3o) localiza o uso nas aulas. Este registro disponibiliza conteúdo para produção; não declara edição dos vídeos, PowerPoints ou entregáveis já publicados.
+
+## Ampliação para aulas e roteiros — autotranscendência, recursos e integração — 21/11/2026
+
+Fabiano solicitou incorporar estes núcleos à construção das aulas. O [desenvolvimento integral e a distribuição atual](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#47-incorpora%C3%A7%C3%A3o-ao-percurso-e-continuidade-da-produ%C3%A7%C3%A3o) orientam a seleção; as [seis explorações](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#46-explora%C3%A7%C3%B5es-para-desenvolver-nas-aulas-e-nos-encontros) oferecem falas e elaboração para composição dos encontros.
+
+**Corpo e recursos — sobretudo M1.2/M1.7 e M3.3/M3.7.** “Às vezes precisamos aprender algo; em outras, reencontrar um recurso que já existe. Também há momentos em que precisamos descansar, rever uma exigência ou buscar apoio. Reconhecer essa diferença faz parte do cultivo.” Desenvolver com uma situação fictícia e a exploração de [demandas e condições](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#465-o-que-precisa-de-cultivo-e-o-que-precisa-de-condi%C3%A7%C3%A3o). Fundamentos na [seção 44](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#44-demandas-recursos-e-capacidade-dispon%C3%ADvel-cultivar-tamb%C3%A9m-%C3%A9-organizar-condi%C3%A7%C3%B5es).
+
+**Valores, quietude e espiritualidade — sobretudo M5.2 e M5.4–M5.8.** “Algo simples pode nos fazer olhar de novo, reconhecer o que recebemos ou despertar vontade de cuidar. Podemos acompanhar como isso acontece no corpo, que sentido encontra e como desejamos participar a partir daí.” Recuperar o [desenvolvimento das experiências](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#43-autotranscend%C3%AAncia-no-cotidiano-cultivo-corporal-rela%C3%A7%C3%A3o-e-espiritualidade) e selecionar uma exploração, sem exigir que todos sintam a mesma coisa.
+
+**Integração, relações e continuidade — M6/M7/M8.** “A experiência pode continuar encontrando sentido depois que a prática termina. Podemos observar o que ficou mais reconhecível, o que se tornou possível e o que ainda pede apoio.” A [seção 45](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#45-sustenta%C3%A7%C3%A3o-quietude-e-integra%C3%A7%C3%A3o-diferen%C3%A7as-que-qualificam-a-presen%C3%A7a) distingue sustentação, quietude e integração; a [seção 47](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#47-incorpora%C3%A7%C3%A3o-ao-percurso-e-continuidade-da-produ%C3%A7%C3%A3o) identifica os destinos exatos.
+
+No slide, selecionar a ideia que organiza o exemplo. No roteiro, desenvolver a ligação com a aula; no material do participante, usar o registro já disponível de percepção, expressão e retorno. As referências e precisões ficam no [caderno de fundamentação](04%20-%20Caderno%20de%20Fundamenta%C3%A7%C3%A3o%20-%20Cultivo%20Medita%C3%A7%C3%A3o%20Prana%20e%20Circula%C3%A7%C3%A3o.md) e na [seção 48 do documento](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#48-fontes-do-aprofundamento-e-alcance-da-fundamenta%C3%A7%C3%A3o). O registro disponibiliza conteúdo e propostas; a produção dos arquivos finais continua na frente específica de cada aula.
 
 ## Naranjo — meditação, relação e música na montagem — 16/11/2026
 

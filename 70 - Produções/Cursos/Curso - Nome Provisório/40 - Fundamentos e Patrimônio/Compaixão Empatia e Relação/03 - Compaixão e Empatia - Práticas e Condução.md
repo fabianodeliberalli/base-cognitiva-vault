@@ -3,7 +3,7 @@ tipo: propostas-de-praticas-e-conducao
 projeto: Traduzindo o Ser Humano
 status: referencia-de-trabalho-e-propostas-de-desenvolvimento
 criado_em: 2026-11-14
-atualizado_em: 2026-11-14
+atualizado_em: 2026-11-21
 ---
 
 # Propostas de prática de compaixão empatia e cuidado
@@ -175,3 +175,39 @@ A condução introdutória retoma apoio conhecido, orienta cuidado, reconhece um
 Reconhecer uma distinção, ajustar uma prática, receber uma correção, pedir apoio ou formular um limite já pode ser uma aprendizagem pertinente. A observação acompanha a situação e os efeitos; não mede valor pessoal por intensidade afetiva ou tranquilidade aparente.
 
 Nas aulas, aproveitar a Cartografia, o plano de participação e os materiais já existentes. Na continuidade, convidar o participante a escolher uma proposta e uma situação cotidiana, acompanhando o que favorece ou dificulta sua realização. A prática pode ser retomada e modificada sem transformar-se em mais uma obrigação de desempenho.
+
+## Cultivo e participação — quatro explorações — 21/11/2026
+
+Estas propostas preservam as elaborações da [seção 52.2 do documento integral](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#52-consequ%C3%AAncias-para-a-estrutura%C3%A7%C3%A3o-das-aulas-e-propostas-de-explora%C3%A7%C3%A3o), em diálogo com [o fundamento transversal](../../60%20-%20Arquitetura%20Pedag%C3%B3gica/00%20-%20Fundamentos%20Transversais/Fundamento%20transversal%20-%20oscila%C3%A7%C3%A3o%2C%20acesso%2C%20diferencia%C3%A7%C3%A3o%20e%20integra%C3%A7%C3%A3o.md) e [as fontes de compaixão](01%20-%20Fontes%20de%20Compaix%C3%A3o%20e%20Empatia%20-%20Textos%20Livros%20e%20Pesquisas.md). Podem ampliar o repertório existente, conforme a função da aula; as escolhas finais de condução continuam no desenvolvimento do roteiro.
+
+### Reconhecer o que a situação pede
+
+**Finalidade:** diferenciar capacidade a desenvolver, condições de acesso, recuperação, exigências e apoios. Escolher uma situação cotidiana, observar o que a torna difícil e investigar quais desses movimentos podem contribuir. Mais de uma necessidade pode estar presente.
+
+**Pergunta para desenvolver a condução:** “O que essa situação está pedindo de mim e das condições em que estou?”
+
+**Destinos e relações:** M0.3/M1.1–M1.3/M1.7/M3.3/M3.7/M8.2; amplia a observação de efeitos e a transferência para o cotidiano.
+
+### Observar como o cuidado é recebido
+
+**Finalidade:** reconhecer um gesto concreto de apoio, distinguir o acontecimento, a resposta corporal/emocional e o sentido atribuído. Conforto, tristeza, desconfiança, alívio ou pouco efeito podem ser investigados, mantendo o significado aberto.
+
+**Pergunta para desenvolver a condução:** “O que aconteceu, como foi vivido por mim e que sentido estou atribuindo?”
+
+**Destinos e relações:** M2.5/M2.6/M4.5/M5.2/M7.3; amplia oferecer/receber/incluir a si e escuta/Tradução. Manual, PDF 262–273, especialmente 268–273; adaptação própria, sem reprodução do formulário.
+
+### Experimentar cuidado com firmeza
+
+**Finalidade:** considerar uma situação de pedido, recusa ou limite e explorar palavras, voz, postura e intenção que apoiem uma resposta com cuidado, sabedoria e coragem. Investigar os efeitos e ajustes possíveis depois da participação. A emoção difícil pode permanecer.
+
+**Pergunta para desenvolver a condução:** “Como posso cuidar do que importa aqui e expressar o limite necessário?”
+
+**Destinos e relações:** M4.6/M5.2/M5.4/M6.3/M7.4/M7.6–M7.8; amplia cuidado, limite e responsabilidade. Manual, PDF 205–231; a correlação com as bússolas do TSH preserva as diferenças de formulação.
+
+### Retomar uma experiência na vida
+
+**Finalidade:** depois de uma prática ou situação significativa, reconhecer o que foi percebido, o que se diferenciou e o que encontra expressão no cotidiano. Retornar ao registro em outro momento e investigar mudanças de sentido, efeitos e condições ainda ausentes.
+
+**Pergunta para desenvolver a condução:** “O que desta experiência encontra participação na minha vida, e o que fica mais claro quando retorno a ela?”
+
+**Destinos e relações:** M5.6/M5.8/M6/M7/M8.2; relaciona experiência ampliada, elaboração e integração em espiral. Não exige uma narrativa de melhora ou um resultado afetivo predeterminado.

@@ -3,8 +3,33 @@ tipo: caderno-de-conducao-do-professor
 projeto: Traduzindo o Ser Humano
 status: versao-de-trabalho
 criado_em: 2026-11-13
-atualizado_em: 2026-11-16
+atualizado_em: 2026-11-21
 ---
+
+## Cultivo, sustentação e participação — incorporação de 21/11/2026
+
+Para desenvolver uma prática, explicitar sua intenção: oferecer apoio, observar a experiência, desenvolver uma capacidade, explorar uma imagem ou elaborar um vivido. A [avaliação de Kolts e colaboradores](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#50-kolts-bell-bennett-levy-e-irons-contribui%C3%A7%C3%A3o-do-manual-de-compaix%C3%A3o) diferencia respiração para influenciar o estado e observação atenta da respiração. Ajuda também a investigar quando a prática fica atravessada por cobrança, comparação ou medo de falhar.
+
+[Quatro explorações já desenvolvidas](../Compaix%C3%A3o%20Empatia%20e%20Rela%C3%A7%C3%A3o/03%20-%20Compaix%C3%A3o%20e%20Empatia%20-%20Pr%C3%A1ticas%20e%20Condu%C3%A7%C3%A3o.md) ampliam as sequências existentes: reconhecer o que a situação pede; observar como o cuidado é recebido; experimentar cuidado com firmeza; retomar uma experiência na vida. Podem ser compostas em M1/M3/M4/M5/M6/M7/M8 conforme a função e as aprendizagens da aula.
+
+Reconhecer antes o desgaste, descansar, receber ajuda, rever uma exigência e construir apoio podem participar do cultivo. A presença pode acompanhar mobilização e emoção; o eixo oferece referência para ajustar a participação. [Fundamento e distinções](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#49-avalia%C3%A7%C3%A3o-da-proposta-de-fundamento-sustenta%C3%A7%C3%A3o-abertura-elabora%C3%A7%C3%A3o-e-participa%C3%A7%C3%A3o); [destinos e propostas completas](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#52-consequ%C3%AAncias-para-a-estrutura%C3%A7%C3%A3o-das-aulas-e-propostas-de-explora%C3%A7%C3%A3o).
+
+## Autotranscendência, recursos e presença — propostas de condução — 21/11/2026
+
+O [aprofundamento solicitado por Fabiano](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#43-autotranscend%C3%AAncia-no-cotidiano-cultivo-corporal-rela%C3%A7%C3%A3o-e-espiritualidade) amplia as sequências deste caderno. As falas completas e os modos de elaboração permanecem em uma fonte comum:
+
+| Proposta | Trecho com condução | Relação com este caderno e destino |
+| --- | --- | --- |
+| Encontrar algo ainda não percebido | [Exploração 46.1](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#461-encontrar-algo-que-ainda-n%C3%A3o-havia-sido-percebido) | Amplia P1/P4/P8: percepção; corpo; espiritualidade cotidiana. |
+| Reconhecer e receber um apoio | [Exploração 46.2](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#462-reconhecer-e-receber-um-apoio) | Amplia P6/P8: recursos de retorno, valores e continuidade. |
+| Humanidade comum e resposta possível | [Exploração 46.3](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#463-humanidade-comum-e-resposta-poss%C3%ADvel) | Amplia P8 e dialoga com compaixão: M5.2/M7. |
+| Permanecer, mover e reconhecer a diferença | [Exploração 46.4](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#464-permanecer-mover-e-reconhecer-a-diferen%C3%A7a) | Amplia P1/P3/P5/P6: M3.7/M5.4 e integração. |
+| O que pede cultivo e o que pede condição? | [Exploração 46.5](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#465-o-que-precisa-de-cultivo-e-o-que-precisa-de-condi%C3%A7%C3%A3o) | Amplia P6/P8: M1/M3/M4/M7/M8. |
+| Pertencimento e participação concreta | [Exploração 46.6](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#466-da-experi%C3%AAncia-de-pertencimento-a-uma-participa%C3%A7%C3%A3o-concreta) | Amplia P8: M5.6–M5.8, M6/M7/M8. |
+
+Ao acompanhar P5, recuperar a [distinção entre sustentação, quietude e integração](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#45-sustenta%C3%A7%C3%A3o-quietude-e-integra%C3%A7%C3%A3o-diferen%C3%A7as-que-qualificam-a-presen%C3%A7a). A experiência de permanecer pode conter pensamento, som, emoção e ajustes; o retorno ao apoio, ao movimento e ao ambiente participa da aprendizagem. A elaboração pode perguntar pelo contato e pela possibilidade de ajustar, sem atribuir valor superior à imobilidade.
+
+Ao compor a continuidade de P8, recuperar [demandas e recursos](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#44-demandas-recursos-e-capacidade-dispon%C3%ADvel-cultivar-tamb%C3%A9m-%C3%A9-organizar-condi%C3%A7%C3%B5es): considerar também descanso, revisão de exigências, vínculos e condições externas. As propostas ampliam o repertório e podem ocupar parte do tempo já destinado à prática; não criam uma sequência adicional obrigatória.
 
 ## Naranjo — propostas complementares de condução — 16/11/2026
 

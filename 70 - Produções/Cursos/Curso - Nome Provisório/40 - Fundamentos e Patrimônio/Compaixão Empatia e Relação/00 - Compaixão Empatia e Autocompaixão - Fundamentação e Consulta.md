@@ -3,12 +3,32 @@ tipo: referencias-e-destinacao-pedagogica
 projeto: Traduzindo o Ser Humano
 status: referencia-de-trabalho-e-propostas-de-desenvolvimento
 criado_em: 2026-11-14
-atualizado_em: 2026-11-14
+atualizado_em: 2026-11-21
 aliases:
   - "TSH - Empatia e compaixão"
   - "TSH - Compaixão Empatia e Autocompaixão"
   - "Compaixão e empatia - referência para produção das aulas"
 ---
+
+## Cultivo, sustentação e participação — incorporação de 21/11/2026
+
+A [relação proposta para o fundamento do TSH](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#49-avalia%C3%A7%C3%A3o-da-proposta-de-fundamento-sustenta%C3%A7%C3%A3o-abertura-elabora%C3%A7%C3%A3o-e-participa%C3%A7%C3%A3o) reúne sustentação, abertura à experiência, elaboração e participação, com reciprocidade e aprendizagem em espiral. Os cinco movimentos incluem desenvolver capacidades, criar condições de acesso, recuperar-se, rever exigências e construir apoios. Presença pode acompanhar emoções e movimento.
+
+[Kolts, Bell, Bennett-Levy e Irons](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#50-kolts-bell-bennett-levy-e-irons-contribui%C3%A7%C3%A3o-do-manual-de-compaix%C3%A3o) aprofundam compaixão como envolvimento e ação, três fluxos de cuidado e autoprática acompanhada de reflexão. Receber ajuda pode exigir aprendizagem; o cultivo também pode ficar atravessado por medo de falhar e cobrança. Cuidado, sabedoria e coragem dialogam com as bússolas do TSH, preservando as diferenças entre self compassivo, Self, Essência e Três Eus.
+
+A [apostila PUCRS](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#51-apostila-pucrs-motiva%C3%A7%C3%A3o-moral-compaix%C3%A3o-empatia-altru%C3%ADsmo-e-ego%C3%ADsmo) amplia reconhecimento, autonomia com apoio, motivação e efeitos e o papel do ambiente na formação. Sua presença anterior no acervo foi confirmada. [Fontes e localizadores](01%20-%20Fontes%20de%20Compaix%C3%A3o%20e%20Empatia%20-%20Textos%20Livros%20e%20Pesquisas.md); [destinos por aula](02%20-%20Compaix%C3%A3o%20e%20Empatia%20-%20Destinos%20nas%20Aulas%20e%20Materiais.md); [quatro explorações](03%20-%20Compaix%C3%A3o%20e%20Empatia%20-%20Pr%C3%A1ticas%20e%20Condu%C3%A7%C3%A3o.md); [fundamento transversal](../../60%20-%20Arquitetura%20Pedag%C3%B3gica/00%20-%20Fundamentos%20Transversais/Fundamento%20transversal%20-%20oscila%C3%A7%C3%A3o%2C%20acesso%2C%20diferencia%C3%A7%C3%A3o%20e%20integra%C3%A7%C3%A3o.md).
+
+## Autotranscendência, gratidão e compaixão — aprofundamento de 21/11/2026
+
+Fabiano solicitou incorporar o desenvolvimento do capítulo 10 de Dana e suas relações com o cultivo do TSH. O [texto substantivo](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#43-autotranscend%C3%AAncia-no-cotidiano-cultivo-corporal-rela%C3%A7%C3%A3o-e-espiritualidade) diferencia admiração/maravilhamento, gratidão, elevação, compaixão, quietude e pertencimento ao planeta. A [fundamentação](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#48-fontes-do-aprofundamento-e-alcance-da-fundamenta%C3%A7%C3%A3o) identifica os estudos e o alcance das pontes.
+
+O acréscimo à seção 9 desta nota é desenvolver a abertura ao mundo e ao que se recebe, além do cuidado diante do sofrimento. Gratidão pode incluir aprender a receber; elevação pode aproximar valor e ação; compaixão pode reconhecer uma necessidade e responder com os recursos e limites disponíveis. Essas participações aprofundam a Árvore da Singularidade, a reciprocidade e a contribuição sem autoabandono.
+
+A disponibilidade corporal participa da experiência. Não se torna um requisito moral de serenidade: uma pessoa pode reconhecer cuidado em meio a emoções e necessidades próprias. A linguagem de “energia vagal ventral” pertence ao modelo de Dana; não demonstra transmissão de campo energético nem mede compaixão ou Essência.
+
+[Demandas, recursos e condições](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#44-demandas-recursos-e-capacidade-dispon%C3%ADvel-cultivar-tamb%C3%A9m-%C3%A9-organizar-condi%C3%A7%C3%B5es) aprofundam as seções 3 e 8 desta nota. [Sustentação, quietude e integração](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#45-sustenta%C3%A7%C3%A3o-quietude-e-integra%C3%A7%C3%A3o-diferen%C3%A7as-que-qualificam-a-presen%C3%A7a) qualificam o acompanhamento dos efeitos: uma experiência tocante pode abrir sentido e ainda necessitar de elaboração, apoio e participação na vida.
+
+Destinos e retomadas estão em [Compaixão e empatia nas aulas](02%20-%20Compaix%C3%A3o%20e%20Empatia%20-%20Destinos%20nas%20Aulas%20e%20Materiais.md). As [explorações de receber apoio](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#462-reconhecer-e-receber-um-apoio), [humanidade comum](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#463-humanidade-comum-e-resposta-poss%C3%ADvel) e [pertencimento](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#466-da-experi%C3%AAncia-de-pertencimento-a-uma-participa%C3%A7%C3%A3o-concreta) oferecem falas para composição, junto das práticas já registradas.
 
 # Compaixão empatia e autocompaixão no TSH
 
