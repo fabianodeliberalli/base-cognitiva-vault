@@ -75,3 +75,7 @@ Nenhum conhecimento relevante deve depender exclusivamente da memória de um cha
 
 - [[LEIA PRIMEIRO - Estado e Continuidade do Capítulo]]
 - [[00 - LEIA PRIMEIRO - Estado e Continuidade do Livro]]
+
+## Sínteses transversais para consulta por tema
+
+- [[90 - Sistema/Pesquisa e Editorial/Sínteses Transversais/Experiência espiritual e integração na vida|Experiência espiritual e integração na vida]] — ensaio integral, Word/PDF, glossário e referências; consulta futura solicitada por Fabiano em 21/11/2026 para CEEP, TSH, capítulo, Arquitetura Invisível e desenvolvimento do modelo neurobiológico-relacional. Retomar os trechos pertinentes sobre consciência, espiritualidade, tradução, singularidade, cultivo, relações e integração. As notas de retomada de cada frente apontam para a mesma fonte.

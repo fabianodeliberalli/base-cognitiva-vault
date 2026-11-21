@@ -2,13 +2,19 @@
 tipo: estado-e-continuidade-editorial
 status: referencia-atual-revisavel
 autoridade_final: Fabiano Deliberalli
-atualizado_em: 2026-10-03
+atualizado_em: 2026-11-21
 produto: capítulo de livro
 titulo_de_trabalho: Espiritualidade e Psicoterapia - entre o reducionismo e a credulidade
 versao_redacao: "0.7"
 ---
 
 # LEIA PRIMEIRO — Estado e Continuidade do Capítulo
+
+## Ampliação disponível — registro de 21/11/2026
+
+Fabiano solicitou preservar e consultar [[90 - Sistema/Pesquisa e Editorial/Sínteses Transversais/Experiência espiritual e integração na vida|Experiência espiritual e integração na vida]] em trabalhos pertinentes. Ao ampliar o capítulo, recuperar especialmente as seções sobre intensidade, mudança, continuidade e integração; mudanças de referências e identidade; tradução; autonomia e participação; percursos mistos; retorno e reparação. A seção “Ampliação do capítulo Espiritualidade e psicoterapia” indica inserções nas atuais passagens “Da experiência à integração” e “O que a psicoterapia pode oferecer à elaboração espiritual”.
+
+A síntese oferece texto desenvolvido, glossário e referências, mantendo a diferença entre acontecimentos de sessão e resultados posteriores documentados. As novas articulações são propostas para revisão autoral. O pedido de registro não substitui a redação v0.7 abaixo nem incorpora automaticamente o ensaio ao corpo publicável.
 
 ## Estado atual
 

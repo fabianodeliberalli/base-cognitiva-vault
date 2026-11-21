@@ -9,6 +9,12 @@ fase: cartografia-transversal-do-corpus
 
 # LEIA PRIMEIRO — Estado e Continuidade do Livro
 
+## Síntese transversal disponível — registro de 21/11/2026
+
+Ao trabalhar formação da experiência, simbolização, singularidade, espiritualidade, relações e integração, consultar [[90 - Sistema/Pesquisa e Editorial/Sínteses Transversais/Experiência espiritual e integração na vida|Experiência espiritual e integração na vida]], conforme solicitado por Fabiano. O ensaio recupera a genealogia entre as monografias de MTC e Psicologia Transpessoal, o TCC, o capítulo clínico, o TSH e Arquitetura Invisível, e desenvolve relações entre experiência, elaboração e participação na existência.
+
+Contribuições para esta frente: condições corporais, históricas e relacionais de expressão; ressonância e diferenciação; temporalidade, continuidade e reparação; proposta de dimensão temporal/existencial transversal ao modelo neurobiológico-relacional. A seção “Desenvolvimento de Arquitetura Invisível” indica possibilidades editoriais. Consultar essas passagens nas constelações pertinentes, preservando a diferença entre fontes, hipóteses e propostas; o texto não decide o sumário do livro.
+
 ## Objetivo atual
 
 Descobrir a **arquitetura intelectual já implícita no corpus** antes de definir um sumário ou decidir se o material converge para uma única obra ou para mais de uma.

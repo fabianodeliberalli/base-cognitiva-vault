@@ -20,6 +20,16 @@ derivacoes_previstas:
 
 # Estado atual
 
+## Retomada registrada em 21/11/2026
+
+Fabiano solicitou preservar e consultar [[90 - Sistema/Pesquisa e Editorial/Sínteses Transversais/Experiência espiritual e integração na vida|Experiência espiritual e integração na vida]] nos trabalhos pertinentes do CEEP e dos demais projetos relacionados. O documento integral pesquisável, o Word e o PDF estão reunidos nessa nota.
+
+Para a segunda aula, recuperar os trechos sobre **“Intensidade não é integração: o que uma experiência espiritual passa a produzir na vida da pessoa”**: mudanças de referências, identidade, presença, autonomia, escolhas, relações, continuidade e reparação. A contribuição de Fabiano dialoga com diagnóstico diferencial e sustentação clínica/trauma, a cargo de Valber e Salene. O texto inclui propostas para o uso do caso, das garrafas e do diagrama de sobreposição; a montagem dos slides permanece uma etapa de produção.
+
+As referências abaixo a 19 slides, caso composto e organização do lançamento preservam a etapa registrada em agosto. Para retomar a produção, usar esta atualização e [[10 - Próximas Produções e Ponto de Retomada]].
+
+## Registro da organização inicial
+
 O projeto está estruturado como uma comunidade de educação continuada para profissionais de saúde, organizada pela integração entre **Clínica, Ciência e Consciência**. O workshop de lançamento possui uma arquitetura geral compartilhada e uma apresentação de 19 slides já concluída para o eixo Consciência, conduzido por Fabiano Deliberalli.
 
 ## Formulação nuclear
@@ -52,7 +62,7 @@ O projeto não propõe converter religião em clínica, espiritualidade em técn
 - [[30 - Ativos Finais/00 - Índice de Ativos]]
 - [[10 - Próximas Produções e Ponto de Retomada]]
 
-## Ponto de retomada
+## Ponto de retomada registrado em 14/08/2026
 
 Próxima etapa recomendada: produzir o roteiro oral do workshop de Fabiano a partir dos 19 slides, calibrar tempo e transições com as falas de Salene e Valber e, em seguida, transformar os eixos bibliográficos em planos de aula da comunidade.
 

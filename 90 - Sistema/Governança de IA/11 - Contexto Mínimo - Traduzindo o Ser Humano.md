@@ -3,8 +3,13 @@ tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
 versao: "0.31"
-atualizado_em: 2026-11-18
+atualizado_em: 2026-11-21
 ---
+
+## Síntese sobre experiência e integração — consulta solicitada em 21/11/2026
+
+Ao produzir trabalhos pertinentes sobre consciência, espiritualidade, Essência/singularidade, tradução, relações, cultivo ou integração, consultar os trechos de [[90 - Sistema/Pesquisa e Editorial/Sínteses Transversais/Experiência espiritual e integração na vida|Experiência espiritual e integração na vida]]. A nota reúne o ensaio integral, Word/PDF, glossário, referências e destinos para TSH, CEEP, capítulo e livro. No TSH, contribui para percepção, diferenciação, participação, acesso, cultivo e expressão; os vínculos com o TCC e as monografias permitem recuperar a genealogia dos fundamentos. Fabiano solicitou a preservação e a consulta futura; as novas ampliações permanecem propostas para revisão autoral, em diálogo com a arquitetura e os materiais atuais.
+
 
 ## Sem restrições herdadas — decisão de Fabiano em 18/11/2026
 

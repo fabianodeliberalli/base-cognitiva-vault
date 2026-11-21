@@ -13,6 +13,14 @@ tags:
 
 # Próximas produções
 
+## Segunda aula e síntese transversal — retomada de 21/11/2026
+
+Consultar [[90 - Sistema/Pesquisa e Editorial/Sínteses Transversais/Experiência espiritual e integração na vida|Experiência espiritual e integração na vida]] ao estruturar a participação de Fabiano na segunda aula: **“Intensidade não é integração: o que uma experiência espiritual passa a produzir na vida da pessoa”**. O ensaio traz fundamentos, definições, casos e propostas de incorporação; a seção “Desenvolvimento da segunda aula do CEEP” oferece a sequência de partida.
+
+Próximo ponto útil: desenvolver o roteiro e os slides a partir do que foi vivido, do que mudou no encontro e do que precisa ser acompanhado na existência. Recuperar os dados efetivamente registrados do caso e identificar desdobramentos hipotéticos como propostas. Tempo individual e quantidade de slides ainda serão definidos na produção.
+
+O pedido de Fabiano abrange também consultas futuras sobre consciência, espiritualidade, abertura ontológica, elaboração e integração; a síntese deve ser retomada por pertinência junto das fontes bibliográficas e da arquitetura do encontro. As listas de produção abaixo preservam o planejamento anterior e podem ser revistas conforme a demanda atual.
+
 ## Workshop
 
 - roteiro oral por slide;
