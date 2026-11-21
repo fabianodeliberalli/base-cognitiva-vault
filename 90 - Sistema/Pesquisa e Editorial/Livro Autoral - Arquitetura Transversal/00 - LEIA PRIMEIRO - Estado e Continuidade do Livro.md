@@ -5,7 +5,15 @@ autoridade_final: Fabiano Deliberalli
 criado_em: 2026-10-03
 projeto: livro-autoral
 fase: cartografia-transversal-do-corpus
+atualizado_em: 2026-11-21
 ---
+
+## Corpo, eixo, bioeletricidade e primeira pessoa — 21/11/2026
+
+Consultar [Corpo, eixo, meridianos, bioeletricidade e experiência](../S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md), cuja incorporação e disponibilidade foram solicitadas por Fabiano. Contribui às constelações de organização da experiência; relação/acoplamento; fronteiras/diferenciação; singularidade/expressão; regulação; espiritualidade e modos de conhecer.
+
+Recuperar [a articulação com o AISB](../S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#7-a-contribui%C3%A7%C3%A3o-do-aisb), [a disponibilidade através das mudanças](../S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#24-amplia%C3%A7%C3%A3o-integrada-do-aisb-e-do-tsh), [Castellanos e condições corporais da experiência](../S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#30-onde-h%C3%A1-acr%C3%A9scimo-real-%C3%A0-perspectiva-em-elabora%C3%A7%C3%A3o) e [a síntese ampliada](../S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#33-formula%C3%A7%C3%A3o-integrada-ap%C3%B3s-a-leitura-de-castellanos). [Referências e localizadores](../S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#34-fontes-desta-atualiza%C3%A7%C3%A3o-e-caminhos-de-retomada) apoiam capítulos e artigos. O diálogo com Nogueira, Adee e fenomenologia conserva as perguntas próprias de cada fonte e não define um sumário novo.
+
 
 ## Consciência desenvolvimento e integração — 21/11/2026
 

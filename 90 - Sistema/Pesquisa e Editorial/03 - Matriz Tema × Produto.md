@@ -3,7 +3,22 @@ tipo: matriz-editorial-transversal
 status: versão-de-trabalho
 autoridade_final: Fabiano Deliberalli
 criado_em: 2026-10-02
+atualizado_em: 2026-11-21
 ---
+
+## Corpo, eixo e experiência — contribuição preservada em 21/11/2026
+
+Fonte comum: [Corpo, eixo, meridianos, bioeletricidade e experiência](S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md). O documento conserva análise e localizadores; esta tabela localiza o reaproveitamento.
+
+| Tema | TSH | AISB / artigos e pesquisa | Livro, capítulo e CEEP |
+| --- | --- | --- | --- |
+| Corpo, raiz, centro, intenção e amplitude | M3/M5/M7; continuidade em M8. | Organização, disponibilidade e participação. | Condições corporais de expressão e integração. |
+| Percepção e primeira pessoa em Castellanos | M1/M2/M3; observar/elaborar em M5. | Marco subjetivo, ritmos, sinais e interpretações. | Experiência, subjetividade e elaboração. |
+| Cartografias tradicionais e bioeletricidade | Comparações e práticas conforme a fonte. | Perguntas entre escalas e domínios. | Interfaces entre tradições, fenomenologia e ciência. |
+| Retorno com aquisição | Espiral, cotidiano e continuidade. | Temporalidade, experiência e significado. | Expressão singular na vida. |
+
+[Caminhos de consulta](S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#35-consulta-na-produ%C3%A7%C3%A3o-das-aulas-e-nos-projetos-relacionados) reúne os pontos de retomada dos produtos. As relações disponibilizam o material por pertinência, sem substituir suas arquiteturas ou redações.
+
 
 # Matriz Tema × Produto
 

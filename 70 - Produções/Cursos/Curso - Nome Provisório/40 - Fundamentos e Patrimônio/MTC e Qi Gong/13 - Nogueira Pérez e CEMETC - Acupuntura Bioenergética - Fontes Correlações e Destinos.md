@@ -3,12 +3,19 @@ tipo: leitura-de-fontes-e-propostas-de-desenvolvimento
 projeto: Traduzindo o Ser Humano
 status: versao-de-trabalho-propostas-para-consulta
 criado_em: 2026-11-14
-atualizado_em: 2026-11-14
+atualizado_em: 2026-11-21
 autor_do_projeto: Fabiano Deliberalli
 aliases:
   - Acupuntura Bioenergética - fontes primárias e destinos no TSH
   - Psicossomática Vitalista - leitura e incorporação
 ---
+
+## Corpo–planeta, bioeletricidade e Castellanos — 21/11/2026
+
+A pesquisa complementar está integralmente em [Corpo, eixo, meridianos, bioeletricidade e experiência](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md), incorporada por solicitação de Fabiano. [O localizador principal](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#3-a-passagem-exata-lembrada-por-fabiano) confirma no Tomo I em espanhol, PDF 210 / impressa 241, Dai Mai–Equador, barreiras pubiana/diafragmática–trópicos, cefálica–calota norte e He inferiores–calota sul. A fonte não identifica nominalmente cada trópico nem desloca automaticamente as barreiras para topo da cabeça e solas.
+
+[Canais e meio](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#4-uma-segunda-passagem-central-canais-e-influ%C3%AAncia-do-meio) e [vasos e campos](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#6-a-organiza%C3%A7%C3%A3o-dos-vasos-no-material-de-nogueira) ampliam interface, reserva e cultivo. [Os slides de Fabiano](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#21-amplia%C3%A7%C3%B5es-substantivas-oferecidas-pelos-slides) e [Castellanos](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#30-onde-h%C3%A1-acr%C3%A9scimo-real-%C3%A0-perspectiva-em-elabora%C3%A7%C3%A3o) acrescentam raiz, intenção, sustentação e percepção. [Aplicações](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#25-destinos-de-incorpora%C3%A7%C3%A3o-e-propostas-concretas) e [destinações](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#32-incorpora%C3%A7%C3%A3o-ao-percurso-e-possibilidades-de-pr%C3%A1tica) orientam M3 e retomadas em espiritualidade, integração, expressão e continuidade.
+
 
 # Nogueira Pérez e CEMETC: fontes, correlações e destinos nas aulas
 
