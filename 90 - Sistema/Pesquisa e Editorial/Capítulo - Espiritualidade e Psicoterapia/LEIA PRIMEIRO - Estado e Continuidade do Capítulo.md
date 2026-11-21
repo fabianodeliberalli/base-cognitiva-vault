@@ -8,6 +8,11 @@ titulo_de_trabalho: Espiritualidade e Psicoterapia - entre o reducionismo e a cr
 versao_redacao: "0.7"
 ---
 
+## Aprofundamento sobre consciência e desenvolvimento — 21/11/2026
+
+Consultar [[90 - Sistema/Pesquisa e Editorial/Sínteses Transversais/Consciência desenvolvimento e integração da experiência|Consciência, desenvolvimento e integração da experiência]] ao ampliar corpo/sentimentos, abertura ontológica, tradução, estados e integração. As leituras diretas de Damásio e Wilber sustentam distinções e qualificam o acompanhamento das vinhetas. A seção “Aplicações nas aulas e textos” indica inserções possíveis em “Da experiência à integração” e “O que a psicoterapia pode oferecer à elaboração espiritual”. O texto permanece fonte de desenvolvimento e revisão; a redação integrada v0.7 abaixo conserva sua função editorial.
+
+
 # LEIA PRIMEIRO — Estado e Continuidade do Capítulo
 
 ## Ampliação disponível — registro de 21/11/2026

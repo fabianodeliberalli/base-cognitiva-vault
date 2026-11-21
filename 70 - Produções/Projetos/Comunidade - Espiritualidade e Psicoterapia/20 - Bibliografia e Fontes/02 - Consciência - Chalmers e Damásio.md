@@ -29,3 +29,6 @@ Chalmers não deve tornar o workshop excessivamente filosófico. Damásio não d
 - `-Enfrentando-o-Problema-da-Consciencia-D-Chalmers.pdf`.
 - `sentir-e-saber-as-origens-da-consciencia-Damasio - .pdf`.
 
+## Leitura ampliada para aulas e textos — 21/11/2026
+
+[[90 - Sistema/Pesquisa e Editorial/Sínteses Transversais/Consciência desenvolvimento e integração da experiência|Consciência, desenvolvimento e integração da experiência]] desenvolve as relações entre sentimentos, organismo e consciência em Damásio e a diferença de problema explicativo em Chalmers. A leitura de Sentir e saber distingue detecção/sentimento, o uso de “consciência ampliada” e o objeto da integração; a articulação com o horizonte espiritual é apresentada como elaboração autoral, preservando as divergências teóricas. Retomar essas passagens e as referências ao produzir aulas, apoio escrito e textos. Chalmers (1995) apresenta dualismo naturalista; a atribuição de materialismo no PowerPoint antigo foi identificada para correção.

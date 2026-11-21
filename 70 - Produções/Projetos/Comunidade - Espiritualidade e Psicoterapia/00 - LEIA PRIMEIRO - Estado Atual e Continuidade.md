@@ -18,6 +18,11 @@ derivacoes_previstas:
   - marketing
 ---
 
+## Aprofundamento para a segunda aula — 21/11/2026
+
+Consultar [[90 - Sistema/Pesquisa e Editorial/Sínteses Transversais/Consciência desenvolvimento e integração da experiência|Consciência, desenvolvimento e integração da experiência]], texto desenvolvido e registrado por solicitação de Fabiano antes de retomar os PowerPoints. Reúne corpo/sentimentos, diálogo entre Damásio/Chalmers/Wilber, estados/estruturas/linhas, três modos de conhecer com a referência a Hugo de São Vítor e Boaventura, e acompanhamento temporal. A seção “Aplicações nas aulas e textos” guarda a adaptação didática e as recomendações para o PowerPoint anterior. Complementa o roteiro de produção de 24 slides, que ainda precisa receber essas ampliações.
+
+
 # Estado atual
 
 ## Retomada registrada em 21/11/2026
