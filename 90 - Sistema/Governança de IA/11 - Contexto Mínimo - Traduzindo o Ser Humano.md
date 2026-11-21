@@ -20,6 +20,7 @@ O caminho do TSH não é linear: as etapas se repetem em níveis diferentes ao l
 - **Cartografias da Consciência** registradas como fonte de mapas auxiliares, complementares, de referência, ampliação, correlação e fundamentação, com o destino de cada uma nas aulas: [[00 - Cartografias da Consciência - Registro e Destinos nas Aulas]]. O .pptx original fica fora do repositório público (pacote restrito).
 - **Mapa do Caminho em Espiral** registrado com o direcionamento de como, onde e quando entra nas aulas: [[07 - Mapa do Caminho em Espiral - Como, Onde e Quando Entra nas Aulas]].
 - **Elmer Green e Jan:** a linha do corpo causal entre o pessoal e o transpessoal, alinhada à divisão de Jan entre quaternário inferior e tríade imortal: [[Elmer Green e Jan Val Ellam - O Pessoal e o Transpessoal no TSH]]. A proposta "o EIXO é a ponte sobre essa linha" aguarda decisão de Fabiano.
+- **Índice por aula** de todas essas notas, para consulta na estruturação das aulas quando pertinente: seção de 21/11/2026 em [[06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54]].
 
 ## Consciência, filtro dos três olhos e retorno com aquisição — decisões de Fabiano em 20/11/2026
 

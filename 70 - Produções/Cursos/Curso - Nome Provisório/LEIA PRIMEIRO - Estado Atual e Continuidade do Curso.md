@@ -5,16 +5,12 @@ curso: nome-provisorio
 status: referencia-atual-revisavel
 versao: "4.8"
 criado_em: 2026-07-21
-atualizado_em: 2026-11-21
+atualizado_em: 2026-11-16
 autor: Fabiano Deliberalli
 autoridade_de_decisao: Fabiano Deliberalli
 ---
 
 [[Ely Brito - Possibilidades de ampliação do TSH|Ely]]; [[TSH - Empatia e compaixão]]: fontes e aulas. [[Naranjo]]
-
-## Espiral, espelho, caminho, corpos e cartografias — 21/11/2026
-
-Para estruturar aulas, quando pertinente: índice por aula em [[06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54#Espiral, espelho, caminho, corpos e cartografias — destinos nas aulas — 21/11/2026|Matriz Mestre]]. Mapa do TSH: [[07 - Mapa do Caminho em Espiral - Como, Onde e Quando Entra nas Aulas]].
 
 ## Comunicação e acervo de campanhas
 
