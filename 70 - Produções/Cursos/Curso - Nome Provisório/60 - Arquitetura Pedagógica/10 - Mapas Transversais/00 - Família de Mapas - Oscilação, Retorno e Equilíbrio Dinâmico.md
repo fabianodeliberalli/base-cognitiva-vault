@@ -161,3 +161,7 @@ A família gráfica vetorial e suas regras de reutilização estão registradas 
 - [[05 - Família de Mapas - Amor Poder Sabedoria Castelos e Integração]]
 
 Os gráficos derivam destas notas conceituais e não as substituem. A forma visual pode ser refinada; alterações de conteúdo exigem atualização explícita da nota-mestre correspondente.
+
+## Atualização de 21/11/2026
+
+O Mapa do TSH reúne pêndulo, espiral, eixo e espelho numa só figura: [[07 - Mapa do Caminho em Espiral - Como, Onde e Quando Entra nas Aulas]].

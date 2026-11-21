@@ -62,3 +62,5 @@ A contribuição decisiva não é provar um domínio espiritual, mas sustentar q
 ## Estatuto no projeto
 
 **Matriz epistemológica candidata**, especialmente útil para os limites da multidimensionalidade e da abertura espiritual responsável.
+
+**Atualização — decisão de Fabiano em 20/11/2026:** adotada como filtro formal da linguagem de alicerce do TSH. A seção "Limites" acima permanece como histórico, conforme a decisão de 18/11/2026 sobre restrições herdadas. Aplicação e exemplos em [[Consciência no TSH - Origem, Círculo e o Espaço entre Sentir e Agir]].

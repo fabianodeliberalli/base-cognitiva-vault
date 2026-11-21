@@ -5,10 +5,30 @@ status: acervo-historico-consultivo
 uso_atual: acervo-consultivo
 versao: "2.3"
 criado_em: 2026-08-22
-atualizado_em: 2026-11-16
+atualizado_em: 2026-11-21
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
+
+## Espiral, espelho, caminho, corpos e cartografias — destinos nas aulas — 21/11/2026
+
+Registro pedido por Fabiano em 21/11/2026 para consulta futura na estruturação das aulas, **quando pertinente**. São propostas consultáveis: nenhuma muda módulos, as 54 aulas ou roteiros já feitos. Cada nota traz fontes, olho (filtro dos três olhos), cuidados e o que é decisão de Fabiano ou proposta.
+
+| Nota de consulta | O que oferece | Destinos principais |
+| --- | --- | --- |
+| [[A Espiral no TSH - Padrões que Voltam em Outro Nível]] | a espiral como princípio central (decisão de 21/11); "o padrão volta porque precisa voltar para ser transformado"; critério círculo × espiral; **os dois sentidos do espelho** (decisão de 21/11) | M1.1, M1.7, M2.4, M4.4–M4.6, M5.5, M6.5, M7.8, M8.1 |
+| [[07 - Mapa do Caminho em Espiral - Como, Onde e Quando Entra nas Aulas]] | o Mapa do TSH (pêndulo, espiral, eixo, espelho) e a sequência de entrada nas aulas; imagem em `90 - Anexos/Mapas Conceituais/` | M0.2 (prévia), Masterclass, M1.7, M2.4, M3.4/M3.6, M4.4–M4.6, M5.3 (mapa completo), M6.5, M8.1–M8.3 |
+| [[O Caminho de Descida, Subida e Retorno com Aquisição]] | as oito etapas; pré e trans; os dois retornos que falham; jardim e cidade | M1.1–M1.3, M2.2–M2.4, M4, M5.3–M5.8, M6, M8 |
+| [[Consciência no TSH - Origem, Círculo e o Espaço entre Sentir e Agir]] | filtro dos três olhos; consciência e origem; o espaço entre sentir e agir | M1.4, M5.4, M5.6–M5.8 |
+| [[Kahneman e Cozolino - Dois Sistemas e o Meio Segundo no TSH]] | dois sistemas; o meio segundo; o familiar parece certo | M1.1–M1.3, M2.2–M2.4, M5.4 |
+| [[Luria - Néfesh, Rúach, Neshamá, Tikun, Descida e Retorno no TSH]] | níveis da alma, centelhas, *Tikun*; descida para fins de subida | M5.6–M5.7; correlação com Jan |
+| [[Jan Val Ellam - Os Sete Corpos - Mapa e Ampliações para o TSH]] | os sete corpos; podridão organizada; veto; Paraíso B; leituras de Fabiano | M5.3, M5.6–M5.7; M4 (sujeira consciencial como material clínico) |
+| [[Elmer Green e Jan Val Ellam - O Pessoal e o Transpessoal no TSH]] | a linha do corpo causal entre pessoal e transpessoal; quaternário inferior e tríade imortal; o EIXO como ponte (proposta a decidir); horizontal não é vertical | M5.3, M5.6–M5.8, M3.4/M3.7, M4.4–M4.6 |
+| [[00 - Cartografias da Consciência - Registro e Destinos nas Aulas]] | as cartografias da apresentação de Fabiano com estatuto (auxiliar, complementar, referência, ampliação, correlação, fundamentação), olho, aulas e cuidados; .pptx no pacote restrito | M1.4, M3.2–M3.6, M4.4–M4.6, M5.2–M5.8, M6.5, M7.6 |
+| [[Cartografias da Consciência - Leitura e Correlações para o TSH]] | correlações das cartografias com a espiral e o caminho; Wilber, falácia pré/trans e Visões de Mundo | preparação do professor para M5 |
+
+**Como resgatar:** ao estruturar uma aula, procurar o número dela na coluna da direita, abrir a nota e escolher o que torna a pergunta da aula mais compreensível. A fundamentação entra brevemente na fala; fontes, estatutos e cuidados ficam nas notas do professor.
+
 
 ## Naranjo — resgate para as aulas e roteiros — 16/11/2026
 
