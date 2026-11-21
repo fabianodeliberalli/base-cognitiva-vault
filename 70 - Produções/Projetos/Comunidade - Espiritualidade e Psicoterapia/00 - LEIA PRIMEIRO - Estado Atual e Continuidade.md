@@ -16,7 +16,15 @@ derivacoes_previstas:
   - artigos
   - materiais de apoio
   - marketing
+atualizado_em: 2026-11-21
 ---
+
+## Corpo, presença e integração — aprofundamento de 21/11/2026
+
+[Corpo, eixo, meridianos, bioeletricidade e experiência](../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md) está disponível por solicitação de Fabiano para aulas e produções pertinentes. Recuperar [sustentação corporal da consciência](../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#11-sustentar-a-consci%C3%AAncia-no-corpo), [base, amplitude, círculo e cultivo](../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#21-amplia%C3%A7%C3%B5es-substantivas-oferecidas-pelos-slides), [Castellanos: primeira pessoa, observar/elaborar](../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#30-onde-h%C3%A1-acr%C3%A9scimo-real-%C3%A0-perspectiva-em-elabora%C3%A7%C3%A3o) e [precisões científicas](../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#31-precis%C3%B5es-que-qualificam-a-contribui%C3%A7%C3%A3o). A [síntese](../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#33-formula%C3%A7%C3%A3o-integrada-ap%C3%B3s-a-leitura-de-castellanos) relaciona corpo, presença e integração na existência.
+
+Na preparação da fala e dos slides, selecionar o que esclarece a pergunta da aula, com referências nas notas do professor. O registro disponibiliza a contribuição sem declarar reedição automática das apresentações entregues.
+
 
 ## Aprofundamento para a segunda aula — 21/11/2026
 

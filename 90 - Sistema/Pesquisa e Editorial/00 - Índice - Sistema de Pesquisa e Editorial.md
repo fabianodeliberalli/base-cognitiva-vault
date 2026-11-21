@@ -3,7 +3,13 @@ tipo: indice-sistema-pesquisa-editorial
 status: referencia-atual-revisavel
 autoridade_final: Fabiano Deliberalli
 criado_em: 2026-10-02
+atualizado_em: 2026-11-21
 ---
+
+## Corpo, eixo, bioeletricidade e experiência — fonte transversal — 21/11/2026
+
+[Corpo, eixo, meridianos, bioeletricidade e experiência](S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md) — documento integral solicitado por Fabiano: CEMETC/Nogueira, Adee, slides e Castellanos; fontes, localizadores, relações e aplicações. Para AISB, recuperar organização intraorganísmica, domínios, sinais, transdução, interpretação e experiência; para produção, seguir a [consulta por projeto](S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#35-consulta-na-produ%C3%A7%C3%A3o-das-aulas-e-nos-projetos-relacionados) e a [consulta por aula do TSH](../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/10%20-%20Governan%C3%A7a%20do%20Conhecimento/06%20-%20Matriz%20Mestre%20de%20Incorpora%C3%A7%C3%A3o%20do%20Conte%C3%BAdo%20%C3%A0%20Estrutura%209-54.md). Contribui também para Arquitetura Invisível, CEEP, capítulo e artigos.
+
 
 # Sistema de Pesquisa e Editorial — Índice
 

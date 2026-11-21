@@ -3,12 +3,19 @@ tipo: inventario-mestre-conteudos
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: referencia-de-busca-revisavel
-versao: "1.8"
+versao: "1.9"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-21
 atualizado_em: 2026-11-21
 relacionado_a: 01 - Reconciliação da Governança do Conhecimento e Disponibilidade do Acervo
 ---
+
+## Corpo, eixo, meridianos, bioeletricidade e experiência — 21/11/2026
+
+[Corpo, eixo, meridianos, bioeletricidade e experiência](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md) preserva a pesquisa integral: CEMETC, Adee, três apresentações de Fabiano (227 slides), auditorias e incorporação de Castellanos. Termos de resgate: Dai Mai/Equador; barreiras; raiz/centro/eixo; Yi/Shen; Hara/círculo; base e amplitude; Tradução; marco subjetivo neuronal; interocepção; observar/elaborar; ritmos; espiral e retorno com aquisição.
+
+Usar a [consulta por aula](06%20-%20Matriz%20Mestre%20de%20Incorpora%C3%A7%C3%A3o%20do%20Conte%C3%BAdo%20%C3%A0%20Estrutura%209-54.md) e a [consulta transversal para AISB, livro, CEEP e capítulo](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#35-consulta-na-produ%C3%A7%C3%A3o-das-aulas-e-nos-projetos-relacionados). As [seções 29–34](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#29-castellanos-material-dispon%C3%ADvel-e-continuidade-j%C3%A1-existente-no-tsh) identificam o exemplar completo e as duas amostras de Castellanos, aprofundamentos e estudos. Fontes originais permanecem ligadas no documento. Incorporação e resgate solicitados por Fabiano.
+
 
 ## Consciência desenvolvimento e integração — 21/11/2026
 

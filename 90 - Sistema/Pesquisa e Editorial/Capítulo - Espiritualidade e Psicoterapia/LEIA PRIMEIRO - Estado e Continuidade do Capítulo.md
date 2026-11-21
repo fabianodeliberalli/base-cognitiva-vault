@@ -8,6 +8,13 @@ titulo_de_trabalho: Espiritualidade e Psicoterapia - entre o reducionismo e a cr
 versao_redacao: "0.7"
 ---
 
+## Corpo, primeira pessoa e elaboração — 21/11/2026
+
+Fonte de desenvolvimento: [Corpo, eixo, meridianos, bioeletricidade e experiência](../S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md), incorporada por solicitação de Fabiano. As [relações de Castellanos](../S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#30-onde-h%C3%A1-acr%C3%A9scimo-real-%C3%A0-perspectiva-em-elabora%C3%A7%C3%A3o) aprofundam condições corporais do perceber, primeira pessoa, observar/elaborar e tempos da integração. [Fenomenologia](../S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#10-fenomenologia-tradi%C3%A7%C3%A3o-e-investiga%C3%A7%C3%A3o) e [sustentação corporal](../S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#11-sustentar-a-consci%C3%AAncia-no-corpo) dialogam com “Da experiência à integração” e com o cuidado oferecido à elaboração espiritual.
+
+Na escrita externa, utilizar o conteúdo pertinente em linguagem inteligível ao leitor do capítulo; fontes e localizadores estão reunidos no documento. O apontador disponibiliza a contribuição sem substituir a redação v0.7.
+
+
 ## Aprofundamento sobre consciência e desenvolvimento — 21/11/2026
 
 Consultar [[90 - Sistema/Pesquisa e Editorial/Sínteses Transversais/Consciência desenvolvimento e integração da experiência|Consciência, desenvolvimento e integração da experiência]] ao ampliar corpo/sentimentos, abertura ontológica, tradução, estados e integração. As leituras diretas de Damásio e Wilber sustentam distinções e qualificam o acompanhamento das vinhetas. A seção “Aplicações nas aulas e textos” indica inserções possíveis em “Da experiência à integração” e “O que a psicoterapia pode oferecer à elaboração espiritual”. O texto permanece fonte de desenvolvimento e revisão; a redação integrada v0.7 abaixo conserva sua função editorial.

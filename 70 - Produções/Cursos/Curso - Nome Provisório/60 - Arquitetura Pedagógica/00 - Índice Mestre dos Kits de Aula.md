@@ -3,7 +3,15 @@ tipo: indice-mestre
 projeto: Traduzindo o Ser Humano
 estado: ativo
 data: 2026-08-22
+atualizado_em: 2026-11-21
 ---
+
+## Fonte para preparar aulas, práticas, mapas e notas — 21/11/2026
+
+Na montagem de conteúdos sobre corpo, percepção, centro/eixo, cultivo, espiritualidade ou integração, recuperar [Corpo, eixo, meridianos, bioeletricidade e experiência](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md). As [aplicações de base, amplitude e relação](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#25-destinos-de-incorpora%C3%A7%C3%A3o-e-propostas-concretas) e [destinos de Castellanos](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#32-incorpora%C3%A7%C3%A3o-ao-percurso-e-possibilidades-de-pr%C3%A1tica) indicam possibilidades para roteiro, apresentação, prática, notas e texto de apoio. A [matriz por aula](../10%20-%20Governan%C3%A7a%20do%20Conhecimento/06%20-%20Matriz%20Mestre%20de%20Incorpora%C3%A7%C3%A3o%20do%20Conte%C3%BAdo%20%C3%A0%20Estrutura%209-54.md) localiza a arquitetura atual de nove módulos e 54 aulas.
+
+O documento conserva a pesquisa CEMETC, Adee, slides de Fabiano, Castellanos, fontes e localizadores. Consultar o trecho pertinente junto dos materiais atuais da aula; o registro não renumera nem atualiza automaticamente os kits históricos.
+
 
 > [!NOTE] Leitura dos códigos históricos 2.1 e 2.2
 > Quando estes códigos nomearem antigas aulas ou unidades, eles identificam somente materiais do acervo histórico. Todas as variantes ficam preservadas e nenhuma é aula vigente. Seus títulos, conteúdos e fundamentações podem contribuir para qualquer uma das 54 aulas conforme pertinência, sem determinar numeração, posição ou ordem de gravação. Códigos iguais usados como versão, seção ou identificador técnico não são afetados.

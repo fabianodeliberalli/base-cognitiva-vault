@@ -3,7 +3,15 @@ tipo: fundamento-transversal
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
 registro: 2026-11-01
+atualizado_em: 2026-11-21
 ---
+
+## Corpo, eixo e experiência — incorporação de 21/11/2026
+
+[Corpo, eixo, meridianos, bioeletricidade e experiência](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md) reúne o documento integral e aprofunda esta nota e os registros de 13/11. Nas [seções 29–34](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#29-castellanos-material-dispon%C3%ADvel-e-continuidade-j%C3%A1-existente-no-tsh), recuperar: condições corporais do perceber; primeira pessoa; vários tempos do organismo; sensação/descrição/interpretação; relação com raiz, eixo e amplitude.
+
+Localizadores do exemplar agora analisado de *Neurociencia del cuerpo*: PDF 48–57 (percepção corporal), 114–130 (respiração), 161–164 (observar/elaborar) e 176–185 (marco subjetivo neuronal). São 214 páginas; não transpor diretamente os números do exemplar de 215 páginas citado anteriormente. [Precisões de leitura](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#31-precis%C3%B5es-que-qualificam-a-contribui%C3%A7%C3%A3o), [referências](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#34-fontes-desta-atualiza%C3%A7%C3%A3o-e-caminhos-de-retomada) e [destinos e explorações](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#32-incorpora%C3%A7%C3%A3o-ao-percurso-e-possibilidades-de-pr%C3%A1tica) apoiam a docência. Fabiano solicitou incorporar essas elaborações ao documento e disponibilizá-las para aulas, AISB e projetos pertinentes.
+
 # Varela e Castellanos — Experiência corporificada e cultivo
 
 Incorporação solicitada por Fabiano após análise dos anexos e consulta ao TCC, à monografia de MTC e ao Raio X. Base de preparação docente e recuperação por pertinência; não acrescenta aulas, tarefas obrigatórias ou um vocabulário a memorizar.

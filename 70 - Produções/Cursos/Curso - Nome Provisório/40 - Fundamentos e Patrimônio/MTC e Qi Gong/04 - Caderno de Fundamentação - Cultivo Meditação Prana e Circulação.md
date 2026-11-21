@@ -3,8 +3,15 @@ tipo: caderno-de-fundamentacao-do-professor
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
 criado_em: 2026-11-13
-atualizado_em: 2026-11-14
+atualizado_em: 2026-11-21
 ---
+
+## Corpo, eixo, Nogueira, Adee e Castellanos — 21/11/2026
+
+[Corpo, eixo, meridianos, bioeletricidade e experiência](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md) reúne a pesquisa integral solicitada por Fabiano e amplia as seções 10, 16, 20 e 24 deste caderno: base/amplitude, raiz/centro, Yi, mente–respiração–Shen, Hara/círculo, retorno com aquisição e percepção corporal. As [seções 29–34](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#29-castellanos-material-dispon%C3%ADvel-e-continuidade-j%C3%A1-existente-no-tsh) incorporam Castellanos e explicitam a continuidade já existente no TSH.
+
+Nogueira: Tomo I em espanhol, PDF 210 / impressa 241, “Puntos de las barreras (Lan Gan)”. [A passagem geográfica](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#3-a-passagem-exata-lembrada-por-fabiano), [os canais como interface](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#4-uma-segunda-passagem-central-canais-e-influ%C3%AAncia-do-meio) e [os vasos](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#6-a-organiza%C3%A7%C3%A3o-dos-vasos-no-material-de-nogueira) acrescentam fundamento. Na montagem, usar [as explorações de base/amplitude](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#25-destinos-de-incorpora%C3%A7%C3%A3o-e-propostas-concretas) e [observar, modificar e elaborar](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#32-incorpora%C3%A7%C3%A3o-ao-percurso-e-possibilidades-de-pr%C3%A1tica) junto das práticas atuais. [Destinos por aula](../../10%20-%20Governan%C3%A7a%20do%20Conhecimento/06%20-%20Matriz%20Mestre%20de%20Incorpora%C3%A7%C3%A3o%20do%20Conte%C3%BAdo%20%C3%A0%20Estrutura%209-54.md) e [caminhos transversais](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#35-consulta-na-produ%C3%A7%C3%A3o-das-aulas-e-nos-projetos-relacionados) permitem retomada sem depender do chat.
+
 
 # Fundamentos do cultivo, da meditação, de Prana e da circulação
 

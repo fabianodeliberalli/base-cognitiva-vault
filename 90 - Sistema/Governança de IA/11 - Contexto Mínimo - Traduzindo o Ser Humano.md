@@ -2,9 +2,16 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.31"
+versao: "0.32"
 atualizado_em: 2026-11-21
 ---
+
+## Corpo, eixo, meridianos, bioeletricidade e Castellanos — 21/11/2026
+
+Fabiano solicitou incorporar e preservar [Corpo, eixo, meridianos, bioeletricidade e experiência](../Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md) e disponibilizar suas contribuições nas aulas e demais projetos pertinentes. O documento integral reúne CEMETC/Nogueira, Adee, os 227 slides e Castellanos, com fontes e localizadores. Recuperar por tema: base e amplitude; raiz/centro/intenção; corpo–planeta; percepção e primeira pessoa; observar e elaborar; ritmos e integração; Tradução e retorno com aquisição.
+
+As [aplicações práticas](../Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#25-destinos-de-incorpora%C3%A7%C3%A3o-e-propostas-concretas) e [destinações de Castellanos](../Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#32-incorpora%C3%A7%C3%A3o-ao-percurso-e-possibilidades-de-pr%C3%A1tica) orientam M1/M2, M3, M4, M5 e retomadas em M6–M8. A [matriz por aula](../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/10%20-%20Governan%C3%A7a%20do%20Conhecimento/06%20-%20Matriz%20Mestre%20de%20Incorpora%C3%A7%C3%A3o%20do%20Conte%C3%BAdo%20%C3%A0%20Estrutura%209-54.md) localiza tema, ganho e material; a [consulta transversal](../Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#35-consulta-na-produ%C3%A7%C3%A3o-das-aulas-e-nos-projetos-relacionados) localiza AISB, livro, CEEP e capítulo. Recuperar os trechos pertinentes junto das fontes atuais da produção.
+
 
 ## Consciência, desenvolvimento e integração — aprofundamento de 21/11/2026
 
