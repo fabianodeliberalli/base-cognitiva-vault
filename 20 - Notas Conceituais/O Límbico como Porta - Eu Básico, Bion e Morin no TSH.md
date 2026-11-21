@@ -39,13 +39,13 @@ A leitura resolve a contradição **com uma condição: "origem" passa a signifi
 | --- | --- | --- |
 | **Tradutor** | converte o que é vivido no corpo em símbolo; o sintoma como linguagem arcaica, "o verbo que se faz carne" | Bion (função alfa); Psico-Onto-Somática (Aquino e colaboradores); alexitimia |
 | **Forma** | dá imagem e memória ao que chega; o presente montado com o passado | Long (o eu inferior guarda a memória, cap. IV, pp. 87–88); Cozolino (o meio segundo); memória dependente de estado |
-| **Porta** | dá acesso ao Eu Superior, ou o bloqueia por culpa e vergonha | Long (os complexos e o contato com o Aumakua — página a conferir, caps. XIV e XV); Washburn (a "regressão a serviço da transcendência": o Fundamento Dinâmico é alcançado pelo que é não egoico e corporal) |
+| **Porta** | dá acesso ao Eu Superior, ou o bloqueia por culpa e vergonha | Long: o eu inferior culpado fica envergonhado, "como uma criança mal comportada que evita a presença dos pais" (cap. XVII, p. 294), e o caminho se bloqueia (p. 296); toda premonição vem do Eu Superior através do eu inferior (cap. IX, p. 168); Washburn (a "regressão a serviço da transcendência": o Fundamento Dinâmico é alcançado pelo que é não egoico e corporal) |
 
 **Correlação, não identidade.** "Eu Básico" e "sistema límbico" não são a mesma coisa. O Eu Básico inclui o corpo inteiro, o sistema nervoso autônomo e a interocepção (Damasio); o "sistema límbico" é um conceito anatômico contestado (LeDoux, entre outros, argumenta que não há um sistema unificado). Nas aulas, apresentar o límbico como **correlato neural** do Eu Básico, com essa ressalva.
 
 ### Consequências para o TSH
 
-1. **Cuidar do Eu Básico vem antes de buscar o Eu Superior.** Se a porta fica envergonhada quando há trauma ou culpa, regular, dar segurança e elaborar o trauma é condição de acesso, não etapa menor. Converge com Wilber (fortalecer o ego antes de transcender), com o complexo de Ícaro das Cartografias e com a leitura de Fabiano do corpo como lugar da transformação.
+1. **Cuidar do Eu Básico vem antes de buscar o Eu Superior** (Fabiano, 21/11/2026). Se a porta fica envergonhada quando há trauma ou culpa, regular, dar segurança e elaborar o trauma é condição de acesso, não etapa menor. Converge com Wilber: fortalecer o ego antes de transcender; e, em *Espiritualidade Integral*, a ideia, na formulação de Fabiano, de que não se chega a Buda sem passar por Freud (localizar a passagem antes de citar). Converge também com o complexo de Ícaro das Cartografias e com a leitura de Fabiano do corpo como lugar da transformação.
 2. **A culpa como trava da porta.** No caso clínico da aula (anonimizado, fora do repositório), a sequência foi: emergência de uma imagem com culpa, diálogo com essa parte, fusão simbólica com a figura espiritual. É uma ilustração clínica possível da sequência de Long — **hipótese de leitura, não demonstração.**
 3. **O Eu Básico é o espelho do começo.** Ele devolve o passado (memória, transferência). Quando a tradução é feita, a mesma estrutura que repetia o passado vira porta. Ver os dois sentidos do espelho em [[A Espiral no TSH - Padrões que Voltam em Outro Nível]].
 4. **A tradução "pode ser feita ou não".** Sem tradução, a experiência fica como emoção bruta: sintoma, angústia, terror sem nome, ou uma experiência espiritual que não se integra. Com tradução, vira imagem, sentimento e palavra — e pode ser elaborada. É aqui que o nome do projeto, *Traduzindo o Ser Humano*, encontra uma fundamentação precisa.
@@ -96,6 +96,8 @@ Edgar Morin, sociólogo e filósofo francês, propôs o pensamento complexo cont
 
 ## Pendências
 
-- Conferir em Long a passagem sobre o eu inferior "envergonhado" que não contata o Aumakua (caps. XIV–XV) e registrar a página.
+- ~~Conferir em Long a passagem do eu inferior "envergonhado"~~ — conferido em 21/11/2026: cap. XVII, pp. 291–296, e cap. XVIII, p. 314.
+- Localizar em *Espiritualidade Integral* (Wilber) a passagem sobre Buda e Freud.
 - Conferir as páginas de Bion e Morin nas edições em português.
-- Fabiano decide se "o Eu Básico como tradutor, forma e porta" entra no [[Mapa Funcional Transversal dos Três Eus]] e no Léxico Mestre.
+- ~~Decidir se entra no mapa e no Léxico~~ — decidido por Fabiano em 21/11/2026: registrado no [[Mapa Funcional Transversal dos Três Eus]] e no verbete Eu Básico do [[Léxico Mestre do Traduzindo o Ser Humano]].
+- Fabiano confirma a articulação proposta: primeira tradução no Eu Básico (corpo → imagem), segunda no Eu Médio (imagem → palavra).
