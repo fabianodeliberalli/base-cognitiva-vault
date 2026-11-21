@@ -85,6 +85,8 @@ O desenvolvimento dessas ampliações está em [[O Caminho de Descida, Subida e 
 
 Pergunta aberta para o Léxico Mestre: no Jan, o eu dignificado é um produto que se forma; no TSH, o EIXO é uma função que coordena. Vale decidir se o EIXO também se forma ao longo do percurso.
 
+**Resposta de Fabiano (escrita no documento, 21/11/2026):** o EIXO também se forma ao longo do percurso, mas é coordenado por outra instância (Self, Eu Superior, Essência). "Há uma parte do Ser que pede retorno ao lar! E o EIXO é um caminho para que isso possa acontecer."
+
 ## Possibilidades de trabalho no TSH
 
 1. Um mapa contemporâneo, de linhagem teosófica declarada, entre os Mapas das Grandes Tradições.

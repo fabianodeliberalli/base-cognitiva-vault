@@ -68,7 +68,7 @@ A correspondência é **funcional e aproximada**, não uma equivalência. O que 
 
 **Comentário (p. 9):** os níveis da alma vêm do Infinito (*Ein Sof*). Depois da contração (*Tsimtsum*), o recipiente criado saiu do Infinito, e isso causou a descida gradual do recipiente e da luz até os mundos.
 
-**Na Cabala luriânica em geral** (Etz Chaim; leitura de Gershom Scholem): o Infinito se contrai para dar lugar ao mundo; a luz é derramada em vasos que se quebram (*Shevirat HaKelim*); as centelhas de luz ficam presas nas cascas (*Klipot*); o ser humano reúne e eleva as centelhas, e esse trabalho é o *Tikun*, a correção do mundo.
+**Na Cabala luriânica em geral** (Etz Chaim; leitura de Gershom Scholem, conferida — ver seção abaixo): o Infinito se contrai para dar lugar ao mundo; a luz é derramada em vasos que se quebram (*Shevirat HaKelim*); as centelhas de luz ficam presas nas cascas (*Klipot*); o ser humano reúne e eleva as centelhas, e esse trabalho é o *Tikun*, a correção do mundo.
 
 **Ari (p. 28):** quando Adão pecou, maculou todas as centelhas de sua Néfesh, Rúach e Neshamá, e elas ficaram imersas nas cascas; depois do pecado, Adão ficou como matéria inerte (*golem*). As centelhas se exilaram nas cascas segundo o lugar de onde vieram — da cabeça, dos olhos e assim por diante. Em cada geração, algumas encarnam para serem corrigidas; se pecam de novo, afundam mais, junto com as que dependem delas.
 
@@ -88,7 +88,9 @@ A correspondência é **funcional e aproximada**, não uma equivalência. O que 
 
 **A sujeira contém luz.** É a contribuição mais forte de Luria para o TSH: as cascas não são só obstáculo, guardam centelhas, e o trabalho é libertar a luz que está nelas. Na linguagem de Fabiano, a sujeira é matéria-prima da obra. Na tradição luriânica, é literalmente onde a luz está presa.
 
-**O mundo corrigido é maior que o original.** Na Cabala luriânica, o mundo anterior à quebra (*Tohu*, o caos) tinha luzes imensas em vasos fracos, que não as suportaram; o mundo da correção (*Tikun*) tem vasos capazes de conter a luz. O fim não é a volta ao estado anterior à quebra, é algo mais capaz. É o "Paraíso B" de Jan e a cidade construída de Neumann, na linguagem da Cabala. Na tradição hassídica posterior, isso foi resumido como "descida para fins de subida" (*ieridá letsorech aliá*).
+**O ser humano completa o que a origem não conclui.** Na leitura de Scholem (*Las grandes tendencias de la mística judía*, conferência 7), o *Tikun* é a restituição, a reintegração do todo original (p. 221); mas o processo não se conclui em Deus: cabe ao ser humano libertar as luzes cativas, e, para Luria, é o homem "quien perfecciona al Creador" (p. 225). É a tese central de Jan, dita quatro séculos antes. Scholem descreve também o *Tsimtsum* como primeiro ato de limite (p. 216–217) e o mundo das luzes puntiformes, o *Tohu*, cujas luzes precisaram de vasos, que se quebraram (p. 218–219).
+
+**O mundo corrigido como mais capaz que o original** (o *Tikun* com vasos que suportam a luz que o *Tohu* não suportou; "descida para fins de subida", *ieridá letsorech aliá*) é desenvolvimento da tradição hassídica posterior, não formulação de Scholem sobre Luria. Usar com essa atribuição.
 
 ---
 
@@ -130,4 +132,4 @@ Luria, como Jan, evita a falácia pré/trans. O que Luria acrescenta é a **orde
 ## Fonte
 
 - Luria I. *Portal das Reencarnações* (*Sha'ar HaGuilgulim*), registro de Chaim Vital, edição em português com comentários. PDF enviado por Fabiano em 20/11/2026. Páginas do PDF: 8, 9, 11, 12, 28, 46.
-- Para a doutrina geral (*Tsimtsum*, quebra dos vasos, *Tohu* e *Tikun*): Gershom Scholem, *As grandes correntes da mística judaica*, cap. 7 (a conferir na edição).
+- Scholem G. *Las grandes tendencias de la mística judía*, conferência 7, "Yitshac Luria y su escuela", p. 216–225 (PDF enviado por Fabiano em 21/11/2026).

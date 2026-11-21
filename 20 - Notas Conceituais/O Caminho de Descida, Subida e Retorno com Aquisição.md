@@ -25,6 +25,8 @@ Este texto organiza essa formulação em etapas, com a fundamentação reunida n
 
 ---
 
+**O caminho é uma espiral (decisão de Fabiano, 21/11/2026).** As etapas abaixo não são degraus: voltam ao longo da vida, em outros níveis, em torno do eixo. Cada volta de um padrão é ocasião da obra. Ver [[A Espiral no TSH - Padrões que Voltam em Outro Nível]].
+
 ## 1. Duas direções que se encontram
 
 O caminho tem dois movimentos, vistos por olhos diferentes:
@@ -103,7 +105,7 @@ O objetivo não é que o sistema lento passe a governar tudo, o que seria imposs
 
 ### Etapa 7 — O retorno com aquisição
 
-A consciência volta à origem, mas com a experiência incorporada. O começo era um jardim, dado; o fim é uma cidade, construída (Neumann, p. 45). É o "Paraíso B" de Jan: algo que a origem, por ser imutável, não poderia fazer sozinha. No Jan, o corpo búdico "adorna a alma" para que ela não perca o que aprendeu. No *Tao Te Ching*, "o retorno é o movimento do Caminho" (cap. 40); "o regresso à raiz se chama quietude" (cap. 16); e o capítulo 28 diz que quem conhece o masculino e resguarda o feminino "retornará a ser criança" e "retornará à Extremidade-Inexistente", o *Wu Ji*. **O retorno à criança é condicionado ao conhecer e resguardar os opostos:** é a volta trans, não a regressão pré. Em Luria, o mundo da correção (*Tikun*) é mais capaz que o mundo anterior à quebra (*Tohu*), que tinha luzes imensas em vasos fracos; na tradição hassídica, "descida para fins de subida". Em Jung e Neumann, o Self se torna centro diretivo; no TSH, o Eu Superior orienta e a Essência é reconhecida com a vida vivida. **Este é o Retorno à Essência do TSH.**
+A consciência volta à origem, mas com a experiência incorporada. O começo era um jardim, dado; o fim é uma cidade, construída (Neumann, p. 45). É o "Paraíso B" de Jan: algo que a origem, por ser imutável, não poderia fazer sozinha. No Jan, o corpo búdico "adorna a alma" para que ela não perca o que aprendeu. No *Tao Te Ching*, "o retorno é o movimento do Caminho" (cap. 40); "o regresso à raiz se chama quietude" (cap. 16); e o capítulo 28 diz que quem conhece o masculino e resguarda o feminino "retornará a ser criança" e "retornará à Extremidade-Inexistente", o *Wu Ji*. **O retorno à criança é condicionado ao conhecer e resguardar os opostos:** é a volta trans, não a regressão pré. Em Luria, segundo Scholem, é o ser humano quem completa o *Tikun* que não se conclui em Deus (*Las grandes tendencias de la mística judía*, p. 225); na tradição hassídica posterior, "descida para fins de subida". Em Jung e Neumann, o Self se torna centro diretivo; no TSH, o Eu Superior orienta e a Essência é reconhecida com a vida vivida. **Este é o Retorno à Essência do TSH.**
 
 ---
 
@@ -154,7 +156,7 @@ flowchart TB
 1. **Duas linhas do tempo.** A descida é cosmológica; a subida é biográfica. Na descida, o recém-nascido está mais perto da origem; na subida, está no ponto mais pré-pessoal. Sem essa distinção, o bebê vira modelo de espiritualidade (elevacionismo) ou a espiritualidade vira infantilismo (reducionismo). Nas aulas, deixar claro em qual das duas linhas se está falando.
 2. **"Sem sujeira" pode virar perfeccionismo espiritual.** Se a sujeira é entendida como algo a eliminar, o caminho vira fuga para cima. Sustentar sempre a leitura da sujeira como matéria-prima da obra.
 3. **Os padrões herdados têm evidências de pesos diferentes.** O aprendido e o familiar têm forte base clínica; a transmissão biológica entre gerações (epigenética) ainda é debatida; a herança transpessoal é do olho da contemplação. O trabalho no espaço vale para todos, mas a origem atribuída a cada padrão deve ser declarada no seu olho.
-4. **O caminho não é linear.** Etapas se repetem em níveis diferentes ao longo da vida — por isso a espiral, e não uma escada.
+4. **O caminho não é linear (decisão de Fabiano, 21/11/2026: princípio central do TSH).** Etapas se repetem em níveis diferentes ao longo da vida — por isso a espiral, e não uma escada. O padrão volta porque precisa voltar para ser transformado. Ver [[A Espiral no TSH - Padrões que Voltam em Outro Nível]].
 5. **A síntese é autoral.** Apresentá-la como proposta do TSH que conversa com os autores, não como algo que os autores afirmam juntos.
 
 ---
