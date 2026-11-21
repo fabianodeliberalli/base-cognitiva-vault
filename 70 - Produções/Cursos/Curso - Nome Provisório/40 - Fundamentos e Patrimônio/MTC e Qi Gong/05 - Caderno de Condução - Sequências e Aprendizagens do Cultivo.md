@@ -6,6 +6,14 @@ criado_em: 2026-11-13
 atualizado_em: 2026-11-21
 ---
 
+## Cultivo, sustentação e participação — incorporação de 21/11/2026
+
+Para desenvolver uma prática, explicitar sua intenção: oferecer apoio, observar a experiência, desenvolver uma capacidade, explorar uma imagem ou elaborar um vivido. A [avaliação de Kolts e colaboradores](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#50-kolts-bell-bennett-levy-e-irons-contribui%C3%A7%C3%A3o-do-manual-de-compaix%C3%A3o) diferencia respiração para influenciar o estado e observação atenta da respiração. Ajuda também a investigar quando a prática fica atravessada por cobrança, comparação ou medo de falhar.
+
+[Quatro explorações já desenvolvidas](../Compaix%C3%A3o%20Empatia%20e%20Rela%C3%A7%C3%A3o/03%20-%20Compaix%C3%A3o%20e%20Empatia%20-%20Pr%C3%A1ticas%20e%20Condu%C3%A7%C3%A3o.md) ampliam as sequências existentes: reconhecer o que a situação pede; observar como o cuidado é recebido; experimentar cuidado com firmeza; retomar uma experiência na vida. Podem ser compostas em M1/M3/M4/M5/M6/M7/M8 conforme a função e as aprendizagens da aula.
+
+Reconhecer antes o desgaste, descansar, receber ajuda, rever uma exigência e construir apoio podem participar do cultivo. A presença pode acompanhar mobilização e emoção; o eixo oferece referência para ajustar a participação. [Fundamento e distinções](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#49-avalia%C3%A7%C3%A3o-da-proposta-de-fundamento-sustenta%C3%A7%C3%A3o-abertura-elabora%C3%A7%C3%A3o-e-participa%C3%A7%C3%A3o); [destinos e propostas completas](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#52-consequ%C3%AAncias-para-a-estrutura%C3%A7%C3%A3o-das-aulas-e-propostas-de-explora%C3%A7%C3%A3o).
+
 ## Autotranscendência, recursos e presença — propostas de condução — 21/11/2026
 
 O [aprofundamento solicitado por Fabiano](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#43-autotranscend%C3%AAncia-no-cotidiano-cultivo-corporal-rela%C3%A7%C3%A3o-e-espiritualidade) amplia as sequências deste caderno. As falas completas e os modos de elaboração permanecem em uma fonte comum:

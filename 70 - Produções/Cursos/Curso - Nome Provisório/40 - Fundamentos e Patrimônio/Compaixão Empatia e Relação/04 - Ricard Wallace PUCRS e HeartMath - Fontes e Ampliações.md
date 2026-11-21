@@ -3,7 +3,7 @@ tipo: fontes-e-ampliacoes-para-producao
 projeto: Traduzindo o Ser Humano
 status: referencia-de-trabalho-e-propostas-de-desenvolvimento
 criado_em: 2026-11-14
-atualizado_em: 2026-11-14
+atualizado_em: 2026-11-21
 aliases:
   - "TSH - Ricard Wallace PUCRS HeartMath e Gom"
 ---
@@ -65,6 +65,9 @@ Draiton Gonzaga de Souza e Pedro Savi Neto; apostila da disciplina PUCRS.
 **Trechos:** PDF 13–14: perspectiva e vínculos; 23–30: reconhecimento e sociabilidade; 32–35: motivação moral; 43–46: empatia seletiva, imitação e contexto; 47: resumo.
 
 **Procedência:** Fabiano confirmou que se trata de apostila de sua própria pós-graduação.
+
+**Retomada em 21/11/2026:** o reenvio foi conferido como o mesmo PDF já cadastrado. [A avaliação atual](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#51-apostila-pucrs-motiva%C3%A7%C3%A3o-moral-compaix%C3%A3o-empatia-altru%C3%ADsmo-e-ego%C3%ADsmo) relaciona apoio/autonomia, empatia e responsabilidade, concepção de ser humano e ambiente de aprendizagem ao fundamento do TSH. Registra também as correções de autoria de Hartmut Rosa nas páginas 26 e 30 e a qualificação da apresentação de Maslow. [Fontes e acesso ao reenvio](01%20-%20Fontes%20de%20Compaix%C3%A3o%20e%20Empatia%20-%20Textos%20Livros%20e%20Pesquisas.md); [destinos nas aulas](02%20-%20Compaix%C3%A3o%20e%20Empatia%20-%20Destinos%20nas%20Aulas%20e%20Materiais.md). O manual de Kolts e colaboradores constitui uma fonte adicional própria, identificada em NF08.
+
 
 ### NF05 Meditação tibetana e dessensibilização sistemática — elaboração comparativa
 

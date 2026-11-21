@@ -3,12 +3,30 @@ tipo: matriz-incorporacao-conteudo
 projeto: Traduzindo o Ser Humano
 status: acervo-historico-consultivo
 uso_atual: acervo-consultivo
-versao: "2.5"
+versao: "2.6"
 criado_em: 2026-08-22
 atualizado_em: 2026-11-21
 autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
+
+## Cultivo, sustentação e participação — incorporação de 21/11/2026
+
+A pedido de Fabiano, o [documento integral](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md) reúne agora as seções 1–52. As seções 49–52 preservam a avaliação da proposta de fundamento, o manual de compaixão de Kolts, Bell, Bennett-Levy e Irons, a retomada da apostila PUCRS e quatro explorações. As seções 36–48 já registram a avaliação dos quatro anexos anteriores e os núcleos sobre autotranscendência, recursos, sustentação, quietude e integração.
+
+| Aula e conteúdo | Acréscimo para a produção | Recuperar |
+| --- | --- | --- |
+| M0.3; M1.1/M1.2/M1.3/M1.7 — condições, aprendizagem, acesso e eixo | Apresentar a relação em espiral e as cinco possibilidades de cultivo. | [Fonte e desenvolvimento](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#49-avalia%C3%A7%C3%A3o-da-proposta-de-fundamento-sustenta%C3%A7%C3%A3o-abertura-elabora%C3%A7%C3%A3o-e-participa%C3%A7%C3%A3o) |
+| M2.5/M2.6 — acontecimento, experiência e Tradução | Distinguir o gesto de ajuda, a resposta interna e a interpretação; manter o sentido aberto. | [Fonte e desenvolvimento](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#50-kolts-bell-bennett-levy-e-irons-contribui%C3%A7%C3%A3o-do-manual-de-compaix%C3%A3o) |
+| M3.1/M3.2/M3.3/M3.5/M3.6/M3.7 — corpo, recursos, reserva e cultivo | Relacionar demandas, disponibilidade, recuperação, exigências e apoios; explicitar o propósito das práticas. | [Fonte e desenvolvimento](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#49-avalia%C3%A7%C3%A3o-da-proposta-de-fundamento-sustenta%C3%A7%C3%A3o-abertura-elabora%C3%A7%C3%A3o-e-participa%C3%A7%C3%A3o) |
+| M4.2/M4.3/M4.4/M4.5/M4.6 — emoção, proteção e resposta | Investigar perspectivas emocionais, funções protetivas e efeitos, com cuidado e discernimento. | [Fonte e desenvolvimento](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#50-kolts-bell-bennett-levy-e-irons-contribui%C3%A7%C3%A3o-do-manual-de-compaix%C3%A3o) |
+| M5.2/M5.3/M5.4 — bússolas, Três Eus e participação | Articular cuidado, sabedoria e coragem; distinguir o self compassivo de Self e Essência. | [Fonte e desenvolvimento](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#50-kolts-bell-bennett-levy-e-irons-contribui%C3%A7%C3%A3o-do-manual-de-compaix%C3%A3o) |
+| M5.6/M5.7/M5.8 — espiritualidade e discernimento | Acompanhar experiência, elaboração e efeitos na vida ao longo do tempo. | [Fonte e desenvolvimento](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#49-avalia%C3%A7%C3%A3o-da-proposta-de-fundamento-sustenta%C3%A7%C3%A3o-abertura-elabora%C3%A7%C3%A3o-e-participa%C3%A7%C3%A3o) |
+| M6.1/M6.2/M6.3/M6.4/M6.5/M6.6 — diferenciação e integração | Revisitar uma situação com novas referências; reconhecer o que encontra expressão na participação. | [Fonte e desenvolvimento](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#52-consequ%C3%AAncias-para-a-estrutura%C3%A7%C3%A3o-das-aulas-e-propostas-de-explora%C3%A7%C3%A3o) |
+| M7.3/M7.4/M7.5/M7.6/M7.7/M7.8 — relação, limites, contribuição e reparação | Oferecer e receber cuidado; construir apoios; diferenciar intenção, emoção, ação e efeitos. | [Fonte e desenvolvimento](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#51-apostila-pucrs-motiva%C3%A7%C3%A3o-moral-compaix%C3%A3o-empatia-altru%C3%ADsmo-e-ego%C3%ADsmo) |
+| M8.2 — continuidade | Retomar condições, apoios e aprendizagens; reconhecer mudanças sem exigir uma narrativa de melhora. | [Fonte e desenvolvimento](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#52-consequ%C3%AAncias-para-a-estrutura%C3%A7%C3%A3o-das-aulas-e-propostas-de-explora%C3%A7%C3%A3o) |
+
+[Fundamento transversal](../60%20-%20Arquitetura%20Pedag%C3%B3gica/00%20-%20Fundamentos%20Transversais/Fundamento%20transversal%20-%20oscila%C3%A7%C3%A3o%2C%20acesso%2C%20diferencia%C3%A7%C3%A3o%20e%20integra%C3%A7%C3%A3o.md); [fontes e localizadores](../40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Compaix%C3%A3o%20Empatia%20e%20Rela%C3%A7%C3%A3o/01%20-%20Fontes%20de%20Compaix%C3%A3o%20e%20Empatia%20-%20Textos%20Livros%20e%20Pesquisas.md); [quatro explorações para desenvolvimento](../40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Compaix%C3%A3o%20Empatia%20e%20Rela%C3%A7%C3%A3o/03%20-%20Compaix%C3%A3o%20e%20Empatia%20-%20Pr%C3%A1ticas%20e%20Condu%C3%A7%C3%A3o.md); [destinos de compaixão nas aulas](../40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Compaix%C3%A3o%20Empatia%20e%20Rela%C3%A7%C3%A3o/02%20-%20Compaix%C3%A3o%20e%20Empatia%20-%20Destinos%20nas%20Aulas%20e%20Materiais.md). Os materiais podem contribuir para roteiro, fala, slide, exemplo, prática, texto do participante ou preparação docente, conforme pertinência. A inclusão no acervo não declara regravação ou alteração dos arquivos finais.
 
 ## Autotranscendência, recursos e presença — incorporação solicitada em 21/11/2026
 

@@ -6,6 +6,20 @@ criado_em: 2026-11-13
 atualizado_em: 2026-11-21
 ---
 
+## Cultivo, sustentação e participação — incorporação de 21/11/2026
+
+Na construção das aulas e gravações, recuperar [o fundamento proposto](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#49-avalia%C3%A7%C3%A3o-da-proposta-de-fundamento-sustenta%C3%A7%C3%A3o-abertura-elabora%C3%A7%C3%A3o-e-participa%C3%A7%C3%A3o), [a contribuição de Kolts e colaboradores](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#50-kolts-bell-bennett-levy-e-irons-contribui%C3%A7%C3%A3o-do-manual-de-compaix%C3%A3o) e [a retomada da PUCRS](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#51-apostila-pucrs-motiva%C3%A7%C3%A3o-moral-compaix%C3%A3o-empatia-altru%C3%ADsmo-e-ego%C3%ADsmo). A [consulta por aula](../../10%20-%20Governan%C3%A7a%20do%20Conhecimento/06%20-%20Matriz%20Mestre%20de%20Incorpora%C3%A7%C3%A3o%20do%20Conte%C3%BAdo%20%C3%A0%20Estrutura%209-54.md) indica os destinos e ganhos, sem exigir repetição de todo o material.
+
+| Produção | Material a recuperar |
+| --- | --- |
+| Fala e slide de fundamento, M0/M1 | Relação recíproca entre sustentação, abertura, elaboração e participação; cinco possibilidades de cultivo. |
+| Exemplo e prática, M2/M4/M7 | Acontecimento de ajuda, resposta interna e interpretação; compaixão, coragem, limites e efeitos. |
+| Cultivo corporal, M3/M5 | Objetivo da prática e motivação; disponibilidade, descanso e apoio; presença durante emoção e movimento. |
+| Integração e continuidade, M6/M8 | Retomada de uma experiência no cotidiano, com revisão de sentidos, condições e efeitos. |
+| Notas do apresentador | [Fonte, páginas e alcance das pesquisas](../Compaix%C3%A3o%20Empatia%20e%20Rela%C3%A7%C3%A3o/01%20-%20Fontes%20de%20Compaix%C3%A3o%20e%20Empatia%20-%20Textos%20Livros%20e%20Pesquisas.md); diferenças de self compassivo, Self, Essência e modelos autonômicos. |
+
+[As quatro explorações](../Compaix%C3%A3o%20Empatia%20e%20Rela%C3%A7%C3%A3o/03%20-%20Compaix%C3%A3o%20e%20Empatia%20-%20Pr%C3%A1ticas%20e%20Condu%C3%A7%C3%A3o.md) oferecem o conteúdo para desenvolver instruções e conversa posterior. A [seção de aplicações](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#52-consequ%C3%AAncias-para-a-estrutura%C3%A7%C3%A3o-das-aulas-e-propostas-de-explora%C3%A7%C3%A3o) localiza o uso nas aulas. Este registro disponibiliza conteúdo para produção; não declara edição dos vídeos, PowerPoints ou entregáveis já publicados.
+
 ## Ampliação para aulas e roteiros — autotranscendência, recursos e integração — 21/11/2026
 
 Fabiano solicitou incorporar estes núcleos à construção das aulas. O [desenvolvimento integral e a distribuição atual](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#47-incorpora%C3%A7%C3%A3o-ao-percurso-e-continuidade-da-produ%C3%A7%C3%A3o) orientam a seleção; as [seis explorações](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#46-explora%C3%A7%C3%B5es-para-desenvolver-nas-aulas-e-nos-encontros) oferecem falas e elaboração para composição dos encontros.

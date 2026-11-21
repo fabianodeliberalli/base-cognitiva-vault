@@ -2,9 +2,15 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.33"
+versao: "0.34"
 atualizado_em: 2026-11-21
 ---
+
+## Cultivo, sustentação e participação — incorporação de 21/11/2026
+
+Fabiano solicitou conferir e completar o registro destas elaborações para consulta na construção das aulas. O [documento integral — corpo, eixo e experiência](../Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md) reúne as seções 1–52. Recuperar por pertinência a [relação sustentação–abertura–elaboração–participação](../Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#49-avalia%C3%A7%C3%A3o-da-proposta-de-fundamento-sustenta%C3%A7%C3%A3o-abertura-elabora%C3%A7%C3%A3o-e-participa%C3%A7%C3%A3o): é recíproca e em espiral; aprender, acessar, recuperar-se, rever exigências e construir apoios são possibilidades de cultivo. Presença pode acompanhar movimento, entusiasmo, tristeza, esforço e limites, em diálogo com eixo e Essência.
+
+A [avaliação de Kolts e colaboradores](../Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#50-kolts-bell-bennett-levy-e-irons-contribui%C3%A7%C3%A3o-do-manual-de-compaix%C3%A3o) aprofunda compaixão como sensibilidade e ação, três fluxos de cuidado, receios de receber ajuda, prática atravessada por cobrança, corpo e autorreflexão. A [apostila PUCRS](../Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#51-apostila-pucrs-motiva%C3%A7%C3%A3o-moral-compaix%C3%A3o-empatia-altru%C3%ADsmo-e-ego%C3%ADsmo) já constava no acervo; sua retomada acrescenta articulação ética e relacional e correções bibliográficas. [A consulta por aula](../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/10%20-%20Governan%C3%A7a%20do%20Conhecimento/06%20-%20Matriz%20Mestre%20de%20Incorpora%C3%A7%C3%A3o%20do%20Conte%C3%BAdo%20%C3%A0%20Estrutura%209-54.md), [as fontes](../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Compaix%C3%A3o%20Empatia%20e%20Rela%C3%A7%C3%A3o/01%20-%20Fontes%20de%20Compaix%C3%A3o%20e%20Empatia%20-%20Textos%20Livros%20e%20Pesquisas.md) e [quatro explorações](../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Compaix%C3%A3o%20Empatia%20e%20Rela%C3%A7%C3%A3o/03%20-%20Compaix%C3%A3o%20e%20Empatia%20-%20Pr%C3%A1ticas%20e%20Condu%C3%A7%C3%A3o.md) permitem usar o material na produção. A redação do fundamento e as composições práticas permanecem propostas autorais de desenvolvimento.
 
 ## Autotranscendência, recursos e presença — incorporação solicitada em 21/11/2026
 

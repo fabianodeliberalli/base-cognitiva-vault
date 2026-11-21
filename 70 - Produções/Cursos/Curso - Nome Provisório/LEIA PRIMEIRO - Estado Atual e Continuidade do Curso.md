@@ -3,12 +3,18 @@ tipo: porta-de-entrada-de-contexto
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: referencia-atual-revisavel
-versao: "4.8"
+versao: "4.9"
 criado_em: 2026-07-21
-atualizado_em: 2026-11-16
+atualizado_em: 2026-11-21
 autor: Fabiano Deliberalli
 autoridade_de_decisao: Fabiano Deliberalli
 ---
+
+## Cultivo, sustentação e participação — incorporação de 21/11/2026
+
+Ao preparar aulas sobre corpo, cultivo, eixo, compaixão, espiritualidade ou integração, recuperar [o documento integral e suas avaliações](../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md) e [os destinos por aula](10%20-%20Governan%C3%A7a%20do%20Conhecimento/06%20-%20Matriz%20Mestre%20de%20Incorpora%C3%A7%C3%A3o%20do%20Conte%C3%BAdo%20%C3%A0%20Estrutura%209-54.md). O conjunto preserva a pesquisa CEMETC, Adee, apresentações, Castellanos, anexos de trauma/regulação e os aprofundamentos sobre autotranscendência e recursos, além da proposta de fundamento sustentação–abertura–elaboração–participação.
+
+[Fundamento transversal](60%20-%20Arquitetura%20Pedag%C3%B3gica/00%20-%20Fundamentos%20Transversais/Fundamento%20transversal%20-%20oscila%C3%A7%C3%A3o%2C%20acesso%2C%20diferencia%C3%A7%C3%A3o%20e%20integra%C3%A7%C3%A3o.md); [fontes de Kolts e motivação moral](40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Compaix%C3%A3o%20Empatia%20e%20Rela%C3%A7%C3%A3o/01%20-%20Fontes%20de%20Compaix%C3%A3o%20e%20Empatia%20-%20Textos%20Livros%20e%20Pesquisas.md); [quatro explorações de cultivo e participação](40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Compaix%C3%A3o%20Empatia%20e%20Rela%C3%A7%C3%A3o/03%20-%20Compaix%C3%A3o%20e%20Empatia%20-%20Pr%C3%A1ticas%20e%20Condu%C3%A7%C3%A3o.md). A preservação foi solicitada por Fabiano; propostas de redação e prática permanecem disponíveis para desenvolvimento nos roteiros.
 
 [[Ely Brito - Possibilidades de ampliação do TSH|Ely]]; [[TSH - Empatia e compaixão]]: fontes e aulas. [[Naranjo]]
 

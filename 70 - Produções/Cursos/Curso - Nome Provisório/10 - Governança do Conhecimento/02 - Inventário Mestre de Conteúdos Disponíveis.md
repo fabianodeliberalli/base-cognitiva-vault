@@ -3,12 +3,22 @@ tipo: inventario-mestre-conteudos
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: referencia-de-busca-revisavel
-versao: "1.10"
+versao: "1.11"
 autor: Fabiano Deliberalli
 criado_em: 2026-07-21
 atualizado_em: 2026-11-21
 relacionado_a: 01 - Reconciliação da Governança do Conhecimento e Disponibilidade do Acervo
 ---
+
+## Cultivo, sustentação e participação — incorporação de 21/11/2026
+
+O [documento integral](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md) preserva todas as etapas desta pesquisa, até a seção 52. Buscar por sustentação; abertura; elaboração; participação; espiral; descanso; receber ajuda; rever exigências; condições materiais; presença durante ativação; eixo; self compassivo; cuidado/sabedoria/coragem; motivação moral; ambiente de aprendizagem.
+
+**Nova fonte:** Russell L. Kolts, Tobyn Bell, James Bennett-Levy e Chris Irons, *Experimentando a terapia focada na compaixão de dentro para fora*, Artmed, 2025, manual de autoprática/autorreflexão para terapeutas, PDF de 353 páginas. A [nota de fontes](../40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Compaix%C3%A3o%20Empatia%20e%20Rela%C3%A7%C3%A3o/01%20-%20Fontes%20de%20Compaix%C3%A3o%20e%20Empatia%20-%20Textos%20Livros%20e%20Pesquisas.md) identifica original, páginas e alcance; [a avaliação](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#50-kolts-bell-bennett-levy-e-irons-contribui%C3%A7%C3%A3o-do-manual-de-compaix%C3%A3o) distingue os acréscimos do que já existia no TSH.
+
+**Fonte retomada:** a apostila de motivação moral da PUCRS, 49 páginas, é idêntica à anteriormente registrada, confirmada pela integridade do arquivo. [A nova articulação e as correções](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#51-apostila-pucrs-motiva%C3%A7%C3%A3o-moral-compaix%C3%A3o-empatia-altru%C3%ADsmo-e-ego%C3%ADsmo) foram preservadas sem criar uma segunda referência bibliográfica independente.
+
+Para a montagem: [consulta por aula](06%20-%20Matriz%20Mestre%20de%20Incorpora%C3%A7%C3%A3o%20do%20Conte%C3%BAdo%20%C3%A0%20Estrutura%209-54.md), [fundamento transversal](../60%20-%20Arquitetura%20Pedag%C3%B3gica/00%20-%20Fundamentos%20Transversais/Fundamento%20transversal%20-%20oscila%C3%A7%C3%A3o%2C%20acesso%2C%20diferencia%C3%A7%C3%A3o%20e%20integra%C3%A7%C3%A3o.md), [quatro propostas de exploração](../40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Compaix%C3%A3o%20Empatia%20e%20Rela%C3%A7%C3%A3o/03%20-%20Compaix%C3%A3o%20e%20Empatia%20-%20Pr%C3%A1ticas%20e%20Condu%C3%A7%C3%A3o.md) e [incorporação aos roteiros e gravações](../40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/MTC%20e%20Qi%20Gong/06%20-%20Incorpora%C3%A7%C3%A3o%20%C3%A0s%20Aulas%20e%20Grava%C3%A7%C3%B5es%20-%20Cultivo%20no%20TSH.md).
 
 ## Dana, recursos e presença — incorporação de 21/11/2026
 

@@ -17,7 +17,20 @@ tags:
   - equanimidade
   - grandes-tradicoes
   - resultados-observaveis
+atualizado_em: 2026-11-21
 ---
+
+## Cultivo, sustentação e participação — incorporação de 21/11/2026
+
+Fabiano solicitou preservar a elaboração e seus destinos para a construção das aulas. A [avaliação da proposta de fundamento](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#49-avalia%C3%A7%C3%A3o-da-proposta-de-fundamento-sustenta%C3%A7%C3%A3o-abertura-elabora%C3%A7%C3%A3o-e-participa%C3%A7%C3%A3o) amplia os fundamentos já reunidos nesta nota:
+
+> Cultivar condições de sustentação pode favorecer a abertura à experiência. Ao sentir, diferenciar e elaborar o vivido, a pessoa pode ampliar suas possibilidades de participação na vida. Essa participação também transforma as condições de sustentação e abre novas possibilidades de experiência. O percurso se desenvolve em espiral, com aprendizagem, prática, descanso, revisão de exigências e construção de apoios.
+
+Os cinco movimentos de cultivo são possibilidades que podem se combinar: aprender/praticar; criar condições de acesso; recuperar-se; rever exigências; construir apoios relacionais e materiais. Descanso e ajuda têm valor na vida presente, sem depender de aumento posterior de desempenho. A espiral pode aparecer no reconhecimento mais cedo do desgaste, no pedido de apoio e na reorganização de uma condição; cada retorno pode ser investigado sem pressupor avanço automático.
+
+Presença atravessa sustentação, quietude e integração. Pode acompanhar movimento, entusiasmo, tristeza, esforço e defesa de um limite. O eixo participa como referência dinâmica de orientação, diferenciação e resposta. A correlação com Essência, Self, Árvore da Singularidade, Campo e Casca está desenvolvida na seção 49, preservando o horizonte espiritual do TSH e a natureza de cada fonte.
+
+Para compor uma aula, recuperar [os destinos e quatro explorações](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#52-consequ%C3%AAncias-para-a-estrutura%C3%A7%C3%A3o-das-aulas-e-propostas-de-explora%C3%A7%C3%A3o), [as fontes](../../40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Compaix%C3%A3o%20Empatia%20e%20Rela%C3%A7%C3%A3o/01%20-%20Fontes%20de%20Compaix%C3%A3o%20e%20Empatia%20-%20Textos%20Livros%20e%20Pesquisas.md) e [as propostas práticas](../../40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Compaix%C3%A3o%20Empatia%20e%20Rela%C3%A7%C3%A3o/03%20-%20Compaix%C3%A3o%20e%20Empatia%20-%20Pr%C3%A1ticas%20e%20Condu%C3%A7%C3%A3o.md). A formulação está preservada como proposta de fundamento pedagógico transversal, disponível para elaboração autoral.
 
 > [!NOTE] Leitura dos códigos históricos 2.1 e 2.2
 > Quando estes códigos nomearem antigas aulas ou unidades, eles identificam somente materiais do acervo histórico. Todas as variantes ficam preservadas e nenhuma é aula vigente. Seus títulos, conteúdos e fundamentações podem contribuir para qualquer uma das 54 aulas conforme pertinência, sem determinar numeração, posição ou ordem de gravação. Códigos iguais usados como versão, seção ou identificador técnico não são afetados.
