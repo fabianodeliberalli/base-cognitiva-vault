@@ -29,6 +29,10 @@ O material original é preservado como patrimônio autoral bruto. As notas deriv
 - [[16 - Unidade Diferenciada e Espiritualidade Integrada]]
 - [[17 - Diferenciação Clínica de Experiências Espirituais]]
 
+## Outras aulas para a ABBSP
+
+- [[20 - Aula ABBSP - A Linguagem do Sistema Límbico como Porta para a Espiritualidade]] (registrada em 21/11/2026); tese, Bion e Morin em [[O Límbico como Porta - Eu Básico, Bion e Morin no TSH]].
+
 ## Regra de uso
 
 Antes de inserir qualquer formulação em aula, declarar se ela é experiência, observação clínica, síntese autoral, metáfora, ensinamento tradicional, hipótese, correlação científica, proposição filosófica ou horizonte espiritual.

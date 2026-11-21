@@ -35,6 +35,8 @@ Verificado nos arquivos do computador:
 
 A correspondência com os dois sistemas de Cozolino está em [[Meio Segundo Vital - Transe que Não se Escolhe e os Três Eus]].
 
+**Leitura de Fabiano (21/11/2026):** o Eu Básico "chora, mas não sabe falar"; fala por símbolos e memórias. Para os kahunas, o eu inferior é a porta para o Aumakua; traumatizado ou bloqueado, fica "envergonhado" de contatar o Eu Superior (passagem a conferir em Long, caps. XIV–XV). Desenvolvimento: [[O Límbico como Porta - Eu Básico, Bion e Morin no TSH]].
+
 ## As duas linguagens lado a lado
 
 | TSH (Fabiano) | Max Freedom Long (1948) | Serge Kahili King | Função |
