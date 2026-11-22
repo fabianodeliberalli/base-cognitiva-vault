@@ -6,6 +6,13 @@ criado_em: 2026-11-21
 autor: Fabiano Deliberalli
 ---
 
+## 22/11/2026 — entregáveis do aluno em continuidade com M0 e M1
+
+Fabiano adotou a proposta de registrar e prosseguir com os apoios para o aluno de M2 e dos demais módulos. A composição reúne leitura autoral fundamentada, exemplos, prática retomável, aplicação, Cartografia comum e referências conforme pertinência; a extensão e o formato acompanham o aprendizado. Abertura e síntese podem integrar materiais existentes, e práticas recorrentes podem ocupar os complementares. O registro completo está em [[TSH - Entregáveis do aluno e inserção na Hotmart - M2 a M8]].
+
+M2.1 é o primeiro modelo produzido: [[M2.1 - Apoio do aluno - Perceber e revisar uma leitura]] v0.2, PDF próprio de duas páginas e Word editável, alinhados ao roteiro de gravação e à prática. [[M2.1 - Inserção do apoio do aluno na Hotmart]] contém descrição e orientação de anexação. A decisão é sobre organização e continuidade da produção; não atesta aprovação individual dos futuros arquivos, upload, publicação, gravação ou aprendizagem.
+
+
 ## 22/11/2026 — títulos claros e M2.1 preparada para gravação
 
 Fabiano adotou **Como se forma o que você percebe?** para M2.1. Sua orientação é que os nomes expressem com clareza e objetividade o estudo, os fundamentos e as contribuições do TSH, ajudando o aluno a reconhecer sua progressão. A revisão dos 59 nomes e dos nove módulos está em [[TSH - Nomes das aulas e módulos - revisão de clareza 2026-11-22]]; outras redações são ajustes editoriais desenvolvidos no escopo solicitado, sem atribuição de escolhas textuais individuais ao autor. A referência de gravação é [[M2.1 - Roteiro oral e caderno de produção v0.2]], com apresentação de 12 telas e fala nas notas, prática, fontes e apoio alinhados. Ensaio e gravação permanecem sem confirmação.

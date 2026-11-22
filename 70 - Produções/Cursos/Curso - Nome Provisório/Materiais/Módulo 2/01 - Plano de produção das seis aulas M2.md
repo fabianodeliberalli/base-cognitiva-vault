@@ -168,6 +168,10 @@ O módulo tem uma prática principal por aula. Uma comparação breve, uma pergu
 
 O sábado abre o módulo liberado no domingo; as dúvidas retomam o anterior. Isso não desloca o fracionamento para M2 apenas porque dúvidas de M2 aparecem em 05/12. A gravação do poder do dedo pode ocorrer diretamente para M2.2. Nenhuma aula depende de o participante ter comparecido ao sábado.
 
+## Apoios para o aluno e inserção na Hotmart
+
+Conforme orientação de Fabiano registrada em 22/11/2026, desenvolver os apoios em continuidade com M0/M1: leitura autoral fundamentada, exemplo, prática ou retomada, aplicação no mesmo caderno e referências breves, conforme o que cada aula acrescentar. [[TSH - Entregáveis do aluno e inserção na Hotmart - M2 a M8]] organiza funções por módulo e o lugar na plataforma. M2.1 já possui apoio v0.2 em PDF de duas páginas e Word editável; a anexação e a publicação na Hotmart permanecem sem confirmação. M2.6 pode realizar a síntese no próprio apoio.
+
 ## 5. Um fluxo de produção flexível
 
 Começar por M2.1 permite dar forma à voz, ao nível de explicação e à relação entre vídeo e apoio. Manter a visão das outras cinco aulas evita resolver todas as perguntas já na abertura. Depois, M2.2/M2.3 organizam atenção, sugestão e retorno; M2.4/M2.5/M2.6 completam a investigação, a correção e a síntese.
