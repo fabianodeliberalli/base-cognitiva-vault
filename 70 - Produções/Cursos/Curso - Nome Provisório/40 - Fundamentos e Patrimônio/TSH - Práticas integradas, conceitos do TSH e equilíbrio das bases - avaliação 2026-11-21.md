@@ -9,6 +9,14 @@ aliases:
   - Equilíbrio das bases do TSH
 ---
 
+## Integração do percurso após a auditoria — versão de trabalho de 21/11/2026
+
+A composição atual está no dossiê integrado. Os cinco modos de atenção são ênfases combináveis; não correspondem um a um às técnicas. O anexo posterior das 21h56 registra Sustentar o Céu, Separar Céu e Terra e Projetar os punhos por substituição; a tabela mais ampla abaixo documenta o plano anterior, não uma nova obrigação curricular. Preservar demais movimentos como acervo consultável. A distribuição da neurociência passa a ter função por pergunta; porcentagens de presença não medem integração. O dossiê oferece ensino separado de postura/movimento, símbolos/criação, órbita, Hara, grande circulação e acompanhamento em espiral.
+
+Fabiano validou em 22/11/2026 a organização de **59 aulas em nove módulos**. A alternativa de 58 pertence à avaliação anterior; a referência atual é 59, sempre revisável pelo autor. Os códigos de 54 aulas abaixo continuam como localizadores de origem. Composição integrada, correspondência completa e pendências: [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]]. As passagens datadas anteriores permanecem recuperáveis; não confirmam execução nem publicação.
+
+
+
 # Práticas integradas, conceitos do TSH e equilíbrio das bases
 
 Avaliação pedida por Fabiano em 21/11/2026, 21h31, depois de homologar a integração do eixo em três leituras e do triângulo Cameron–Brennan–Long. Responde a três perguntas: as práticas estão integradas e coerentes com o TSH? Como dialogam com os conceitos do curso? As bases anunciadas na Masterclass estão equilibradas? As propostas marcadas como tais aguardam o olhar de Fabiano e podem ser revistas a qualquer momento.
@@ -33,7 +41,7 @@ As cinco linhas trabalham o mesmo problema do TSH, tornar disponível na situaç
 
 ### Proposta: uma gramática comum
 
-Cinco modos de atenção, um por linha de prática: **conduzir, sustentar, acompanhar, alinhar, expressar**. O EIXO, como função, é a capacidade de reconhecer qual modo o momento pede e passar de um a outro. Assim o aluno não aprende cinco técnicas, mas um repertório organizado. Isso também dá conteúdo concreto à frase "o EIXO coordena".
+Na formulação anterior, propunham-se cinco modos de atenção, um por linha de prática; a revisão atual os usa como ênfases combináveis: **conduzir, sustentar, acompanhar, alinhar, expressar**. O EIXO, como função, é a capacidade de reconhecer qual modo o momento pede e passar de um a outro. Assim o aluno não aprende cinco técnicas, mas um repertório organizado. Isso também dá conteúdo concreto à frase "o EIXO coordena".
 
 Todas as práticas mantêm os três tempos já decididos: retorno ensinado antes da entrada; prática; registro com os quatro campos (percebido, associado, concluído, desconhecido).
 
@@ -43,7 +51,7 @@ Onde ensinar a gramática:
 - **M6.4:** o mapa de integração pergunta o que cada parte da sequência oferece. Os cinco modos já estão todos vividos.
 - **M8.2:** o repertório pessoal organizado pelos modos: "quando preciso de quê, uso o quê".
 
-### Ba Duan Jin: lugares propostos (um movimento novo por módulo, no máximo)
+### Ba Duan Jin: distribuição anterior preservada para consulta (antes da atualização do anexo às 21h56)
 
 | Movimento | Onde | Por quê |
 | --- | --- | --- |
@@ -127,10 +135,11 @@ Distribuição por módulo (aulas com presença na fala, hoje):
 | Aula | Proposta | Efeito |
 | --- | --- | --- |
 | **M6.5** | Acrescentar às três leituras do eixo uma quarta, neurocientífica: propriocepção e senso de verticalidade ([[TSH - Interocepção propriocepção exterocepção e cultivo em Qi Gong - análise do anexo 2026-11-09]]). A mesma experiência de ficar em pé lida por três salas. | Primeira aula, depois de M1.4, com as três salas conversando na fala |
-| **M7.3** | Trazer para a fala a sincronia e a corregulação: o estudo de Leong et al. (2017) já registrado nos fundamentos da Masterclass, e a pergunta do TCC de Fabiano contada por ele, como pesquisa em andamento e sem prometer efeitos. | Neurociência no módulo das relações; a voz de pesquisador de Fabiano |
+| **M7.3** | Trazer para a fala a sincronia e a corregulação: o estudo de Leong et al. (2017) já registrado nos fundamentos da Masterclass, e a pergunta do TCC de Fabiano contada por ele, como revisão narrativa crítica concluída que continua alimentando sua investigação autoral, sem prometer efeitos. | Neurociência no módulo das relações; a voz de pesquisador de Fabiano |
 | **M8.1** | Ligar o "você já sabe fazer" (ler, amarrar sapatos, dirigir) à aprendizagem motora: aquisição, retenção e transferência (Shea e Morgan, 1979, já nos fundamentos da Masterclass). | A semeadura hipnótica ganha a leitura neurocientífica; terceira aula com as três salas |
 | **M4.5** | Passagem de Long sobre o eu inferior culpado (ver seção 4 da nota de construção das aulas). | Espiritualidade explícita em M4 |
 | **M7.8** | Long insiste na reparação concreta, além do diálogo interno (cap. XVII). | Espiritualidade e reparação na mesma aula |
 | **M4.6 e M7.4** | Movimentos do Ba Duan Jin (Abrir o arco; Projetar os punhos). | Medicina Chinesa presente em M7 |
 
 Com essas propostas: neurociência em 14 aulas (26%), presente em todos os módulos de M2 a M8; duas aulas com as três salas na fala (M6.5 e M8.1), além de M1.4, que já fazia o diálogo entre leituras; nenhum módulo sem espiritualidade.
+

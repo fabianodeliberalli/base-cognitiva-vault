@@ -11,6 +11,14 @@ aliases:
   - Auto-hipnose nos encontros ao vivo
 ---
 
+## Integração do percurso após a auditoria — versão de trabalho de 21/11/2026
+
+O dossiê integrado preserva todos os componentes da indução e o ciclo posterior: 28/11 respiração/retorno abre M2; 05/12 pálpebras/fracionamento/braço abre M3, com braço transferível para 12/12; 12/12 números/presente abre M4; 19/12 primeira junção completa e ideomotor abre M5; 09/01 indução breve saindo para escrita abre M6; 16/01 presente relacional abre M7; 23/01 autonomia/versão curta abre M8; 30/01 encerramento. Os vídeos são suficientes para quem não esteve ao vivo. O retorno desfaz sugestões motoras. Long oferece a linguagem escolhida, sem comprovação neurocientífica das funções pelo teste de pálpebras. Uma resposta ideomotora ou imagem não garante verdade factual da memória ou da interpretação.
+
+Fabiano validou em 22/11/2026 a organização de **59 aulas em nove módulos**. A alternativa de 58 pertence à avaliação anterior; a referência atual é 59, sempre revisável pelo autor. Os códigos de 54 aulas abaixo continuam como localizadores de origem. Composição integrada, correspondência completa e pendências: [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]]. As passagens datadas anteriores permanecem recuperáveis; não confirmam execução nem publicação.
+
+
+
 > **Atualização de 21/11/2026:** para a turma atual, a distribuição das etapas por encontro foi redistribuída por Fabiano, porque a prática de cada sábado passou a abrir o módulo seguinte. Ver [[2026-11-21 - Decisões de Fabiano - Ciclo de Produção, Práticas e Fontes]]. A tabela da seção 2 abaixo fica como histórico do desenho anterior.
 
 # Hipnose e auto-hipnose nos módulos e aulas do TSH — plano de incorporação
@@ -170,3 +178,4 @@ Cuidados de condução, como em todo o curso: não praticar dirigindo; omitir ou
 - **Autoria:** citar sempre de quem é cada técnica. Fabiano: indução, poder do dedo, livros e balões, olhar, convincers. Gilda: ideomotor, pêndulo, luva, moeda e escrita automática.
 - **Trechos literais:** ficam nas transcrições, no computador de Fabiano (pastas das gravações do Zoom). Conferir com o áudio antes de citar.
 - **Ajustes de horário:** cada encontro tem uma hora de prática. Se as duas etapas mais a retomada passarem disso, a demonstração de abertura pode ir para a hora de dúvidas.
+

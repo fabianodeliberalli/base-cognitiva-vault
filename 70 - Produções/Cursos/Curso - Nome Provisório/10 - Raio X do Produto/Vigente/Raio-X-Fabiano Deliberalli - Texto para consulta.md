@@ -6,6 +6,12 @@ atualizado_em: 2026-10-31
 fonte_sha256: 8502e4a3d4860d4a9d89969e1ca792ca5c7cb8b991e98f472ec1808ef5837ecb
 ---
 
+## Leitura quantitativa atual — decisão de Fabiano em 22/11/2026
+
+Fabiano validou **9 módulos e 59 aulas** após a auditoria. O [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]] registra a organização atual e a correspondência das 54 posições de origem. A transcrição de 31/10 abaixo permanece integral, como registro do Word daquela data; suas menções a 54 não cancelam a decisão posterior. Esta nota não declara alteração do Word original, da Hotmart ou de materiais públicos.
+
+
+
 Transcrição do Word atualizado em 31/10/2026, incorporando os refinamentos solicitados e aprovados por Fabiano nesta data. Documento-base confirmado em 24/10/2026 preservado no histórico; revisão solicitada por Fabiano em 30/10/2026. Não editar esta transcrição isoladamente. Desenvolvimento pedagógico e fontes: [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo]].
 
 # Raio X do Traduzindo o Ser Humano
@@ -469,3 +475,4 @@ Horário de Brasília. Masterclass em 10/11/2026, 19h–20h30, Zoom; inscriçõe
 ## Complemento operacional — decisão autoral de 31/10/2026
 
 Os encontros serão realizados pelo Zoom, com link disponibilizado no grupo de WhatsApp da turma. Quem não participar ao vivo poderá assistir posteriormente à gravação na Hotmart, na área correspondente às aulas on-line. O prazo de publicação não foi definido. Esta atualização complementa o texto de consulta; não implica edição do arquivo Word histórico de origem. Padrão de produção e entregáveis registrado em [[TSH - Preparação dos Roteiros e Calendário 2026-2027]].
+

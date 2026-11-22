@@ -6,6 +6,20 @@ criado_em: 2026-11-21
 autor: Fabiano Deliberalli
 ---
 
+## Continuidade de 22/11/2026 — 59 aulas validadas e início de M2
+
+**Decisão de Fabiano neste chat:** validar a estrutura reorganizada de nove módulos e 59 aulas (M0–M8: 3, 7, 6, 8, 6, 9, 9, 8 e 3), registrar as decisões pertinentes no repositório e prosseguir com o início da produção de M2. A nova organização passa a ser referência atual revisável; os 54 códigos anteriores continuam como localizadores de origem e não são apagados ou usados para inferir estados das partes desdobradas.
+
+**Alcance:** M3 separa postura e movimento; M5 separa investigação simbólica e criação; M6 separa mapa, pequena circulação, Hara, grande circulação e acompanhamento em espiral. As seis perguntas de M2 e sua numeração permanecem. A autorização de produção abrange seleção de fontes, roteiro oral, práticas, slides/notas, apoio do aluno e ensaio por aula, preservando as diretrizes existentes. A escolha da versão de cada procedimento e as durações reais são desenvolvimentos de produção, não fatos já confirmados.
+
+**Parecer editorial do assistente, solicitado por Fabiano:** coerência do planejamento reestimada em 95/100, ante 82,5/100 (83 arredondado), com os mesmos 36 critérios e pesos. Não é decisão autoral sobre eficácia, percentual de produção ou segurança demonstrada. Memória de cálculo e precisões no [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]].
+
+**Ponto de retomada:** [[00 - Estado e Continuidade da Produção M2]]; [[01 - Plano de produção das seis aulas M2]]; primeira unidade [[M2.1 - Roteiro oral e caderno de produção v0.1]]. Recuperar fontes por pertinência, construir cenas sem inventar vivências do autor, acompanhar a Cartografia já conhecida e manter a dimensão espiritual explícita no módulo.
+
+Os registros datados abaixo documentam a organização anterior. Em particular, pequena circulação na antiga M6.4 passa à M6.5 atual; Hara e Chong Mai/grande circulação anteriormente reunidos em M6.5 passam às unidades atuais M6.6/M6.7; acompanhamento em espiral fica em M6.8. O dossiê contém toda a correspondência.
+
+
+
 # Decisões de Fabiano — ciclo de produção, práticas e fontes (21/11/2026)
 
 Registro mínimo de escolhas confirmadas por Fabiano na auditoria de 21/11/2026. O desenvolvimento aula a aula está no documento de trabalho "TSH — Dossiê de auditoria e base dos roteiros M2–M8" (Claude, https://claude.ai/artifact/CRf9FeP67nvsxWWC3uu1w2). Todas permanecem revisáveis por Fabiano.
@@ -40,3 +54,4 @@ Registro mínimo de escolhas confirmadas por Fabiano na auditoria de 21/11/2026.
 - **Espiritualidade explícita em todos os módulos.** A passagem de Long sobre o eu inferior culpado entra se fizer sentido no todo: avaliada e posta em M4.5, junto ao 3-2-1, e não em M4.4, que já está cheia.
 - **Semana de M3:** cronometrar M3.6 no ensaio; dividir em partes A e B se necessário.
 - **Avaliação das práticas e das bases:** [[TSH - Práticas integradas, conceitos do TSH e equilíbrio das bases - avaliação 2026-11-21]]. Contém propostas ainda não confirmadas por Fabiano: os cinco modos de atenção, os lugares do Ba Duan Jin, a quarta leitura do eixo em M6.5, a neurociência em M7.3 e M8.1, e Long em M7.8.
+

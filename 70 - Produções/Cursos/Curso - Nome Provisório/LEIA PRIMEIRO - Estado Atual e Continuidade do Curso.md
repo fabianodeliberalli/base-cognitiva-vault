@@ -3,12 +3,26 @@ tipo: porta-de-entrada-de-contexto
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: referencia-atual-revisavel
-versao: "4.11"
+versao: "4.12"
 criado_em: 2026-07-21
-atualizado_em: 2026-11-21
+atualizado_em: 2026-11-22
 autor: Fabiano Deliberalli
 autoridade_de_decisao: Fabiano Deliberalli
 ---
+
+## 22/11/2026 — 59 aulas validadas e início da produção de M2
+
+A estrutura atual é de **9 módulos e 59 aulas**, validada por Fabiano. As menções anteriores a 54 localizam a arquitetura de origem e a transcrição histórica do Raio X. A correspondência completa está no [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]]. A frente agora é [[00 - Estado e Continuidade da Produção M2]]; a primeira unidade é [[M2.1 - Roteiro oral e caderno de produção v0.1]]. O índice 95/100 é parecer editorial sobre planejamento, não andamento de produção.
+
+
+
+## Integração do percurso após a auditoria — versão de trabalho de 21/11/2026
+
+A frente atual é integrar o percurso M0–M8 e preparar os roteiros de M2. O dossiê integra a auditoria com os registros e o anexo posterior. M0/M1 são pontos de retomada documentais, sem regravação presumida.
+
+Fabiano validou em 22/11/2026 a organização de **59 aulas em nove módulos**. A alternativa de 58 pertence à avaliação anterior; a referência atual é 59, sempre revisável pelo autor. Os códigos de 54 aulas abaixo continuam como localizadores de origem. Composição integrada, correspondência completa e pendências: [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]]. As passagens datadas anteriores permanecem recuperáveis; não confirmam execução nem publicação.
+
+
 
 ## 21/11/2026 — construção das aulas de M2 a M8 (homologado às 21h31)
 
@@ -28,7 +42,7 @@ Consultar [[TSH - Máscara Armadura Castelos e Amor Poder Sabedoria - Destinaç�
 
 ## Atualização de 31 de outubro de 2026
 
-Os refinamentos aprovados da Live, as referências por aula e o calendário estão em [[TSH - Preparação dos Roteiros e Calendário 2026-2027]]. Usar o Raio X atualizado e [[Guia-de-Conducao-Masterclass-TSH-2026-10-31]]. Entrega atual: 54 aulas, oito encontros (16h), M0/M1 juntos. M0/M1 liberados em 17/11; último encontro em 30/01/2027. Datas de gravação continuam abertas. O registro operacional de 30/10 abaixo é histórico.
+Os refinamentos aprovados da Live, as referências por aula e o calendário estão em [[TSH - Preparação dos Roteiros e Calendário 2026-2027]]. Usar o Raio X atualizado e [[Guia-de-Conducao-Masterclass-TSH-2026-10-31]]. Entrega atual: 59 aulas, oito encontros (16h), M0/M1 juntos. A quantidade foi atualizada em 22/11/2026; os encontros seguem o calendário registrado. M0/M1 liberados em 17/11; último encontro em 30/01/2027. Datas de gravação continuam abertas. O registro operacional de 30/10 abaixo é histórico.
 
 ## Registros de 24 e 30 de outubro
 
@@ -53,9 +67,9 @@ A decisão de incorporação não torna toda prática candidata um roteiro final
 
 ## Referências atuais
 
-- O curso usa atualmente **9 módulos e 54 aulas**. A composição de cada aula ainda será desenvolvida para posterior gravação e pode evoluir.
+- O curso usa atualmente **9 módulos e 59 aulas**. A composição de cada aula ainda será desenvolvida para posterior gravação e pode evoluir.
 - A organização inicial de **7 módulos e 14 aulas ou unidades** permanece como acervo histórico de títulos, conteúdos, relações e fundamentos.
-- O acervo inicial pode contribuir para qualquer uma das 54 aulas conforme necessidade e pertinência, sem correspondência individual, sem transportar sua numeração e sem funcionar como segunda arquitetura.
+- O acervo inicial pode contribuir para qualquer uma das 59 aulas conforme necessidade e pertinência, sem correspondência individual, sem transportar sua numeração e sem funcionar como segunda arquitetura.
 - Os antigos códigos **2.1** e **2.2**, quando identificarem aulas ou unidades, são históricos. Todas as variantes permanecem disponíveis como matéria-prima.
 - O subtítulo usado atualmente é **Da compreensão acumulada à presença que sustenta** e permanece revisável por Fabiano.
 - **Doze semanas** é estimativa de versões anteriores, não duração definida nem promessa.
@@ -65,7 +79,7 @@ A decisão de incorporação não torna toda prática candidata um roteiro final
 
 ## Frente de trabalho
 
-A frente identificada atualmente é a construção das aulas **M1.1–M1.7**, ainda aberta a revisão conforme o desenvolvimento real do curso.
+A frente atual é a **integração de M0–M8 e a preparação de M2**. A produção de M1.1–M1.7 descrita abaixo é histórico de desenvolvimento e permanece consultável. A nota de estado de M1 distingue o material disponível do registro posterior de publicação.
 
 Pontos de partida disponíveis:
 
@@ -121,3 +135,4 @@ A versão extensa utilizada até agosto de 2026, incluindo a antiga leitura de d
 - [[2026-08-23 - Snapshot da antiga porta de entrada do curso]].
 
 Ela serve para rastreabilidade e recuperação de conteúdo, não para orientar automaticamente novas tarefas.
+

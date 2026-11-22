@@ -3,128 +3,51 @@ tipo: estado-e-continuidade-de-producao
 projeto: Traduzindo o Ser Humano
 recorte_entrega: "M1.1-M1.7"
 status: referencia-atual-revisavel
-versao: "2.0"
+versao: "2.1"
 criado_em: 2026-08-23
-atualizado_em: 2026-11-16
+atualizado_em: 2026-11-21
 preparacao_de_gravacoes: autorizada
-status_audiovisual: arquivos-finais-e-ensaio-pendentes
+status_audiovisual: publicacao-registrada-documentalmente-sem-nova-conferencia-da-plataforma
 ---
 
-[[Ely Brito - Possibilidades de ampliação do TSH|Ely]]; [[TSH - Empatia e compaixão]]: M1.2/M1.5/M1.7. [[Naranjo]]
+# Módulo 1 — estado e continuidade da produção
 
-## Incorporações disponíveis para a produção — 13/11/2026
+## Estado de retomada — 21/11/2026
 
-PRs #58–#60 na main. [[11 - Leituras Recuperadas - Taoismo Shen e Transformação]]: fontes/correlações; 06 §§2/7: destinos. Visuais restritos localizados em 11.
+O dossiê e o anexo de 21/11 registram M0 e M1 liberados em 17/11, com inserções práticas em M1.3 e M1.4. Este registro posterior atualiza o ponto de retomada: não tratar M1.2–M1.7 como aulas ainda inexistentes a partir das pendências antigas de derivação. A plataforma não foi novamente conferida nesta integração; publicação registrada não demonstra o que cada aluno assistiu ou aprendeu.
 
-## Desenvolvimento aplicado — 13/11/2026
+A frente atual é integrar M0–M8 e preparar os roteiros de M2. [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]] organiza as capacidades, experiências, fundamentos, retomadas e correspondência entre as posições anteriores e a organização de 59 aulas, validada por Fabiano em 22/11/2026. M0/M1 e as seis aulas de M2 conservam seus identificadores nessa composição.
 
-Primeiro ensino P0/P1 em **M0.2**: árvore, pés/R1, respiração, centro inferior e conclusão. M1.1 retoma; M1.3 repete; M1.4 apresenta três campos e Rim–Jing–Nao. Recuperar 04 (§20), 05 e 06; [[07 - Rohden - Assimilação Centro e Vida Cotidiana]] acrescenta assimilação e vida cotidiana. A produção autoral desde 2004 e o filtro experiencial/clínico orientam a integração. Roteiros textuais atualizados; binários anteriores ainda não reexportados. Mapas recuperados na apresentação-fonte: 8, 22/23 e 27; leitura e P1B em 08.
+Esta nota foi condensada para facilitar a retomada. O [registro integral anterior de produção e incorporações](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Materiais/M%C3%B3dulo%201/00%20-%20Estado%20e%20Continuidade%20da%20Produ%C3%A7%C3%A3o%20M1.md) permanece recuperável. Suas pendências de arquivos e sua previsão de ensino da árvore em M0.2 descrevem etapas anteriores, não a publicação registrada depois.
 
+## Publicação registrada e continuidade por aula
 
-Para M1.7, recuperar também P6B e a avaliação de metacognição em 04, seção 19: observação, história, intuição e interpretação espiritual. A retomada breve não antecipa todos os métodos internos de M3/M5/M6.
+Fonte: versão anterior do dossiê e anexo de 21/11. Não se confirmam versões finais, novas substituições ou conclusão de etapas por inferência.
 
-## Retomada de produção — cultivo e sequência inicial — 13/11/2026
+| Aula | Conteúdo de referência | Retomada para a produção seguinte |
+| --- | --- | --- |
+| M1.1 | Compreensão, acesso e condições; pedido com agenda cheia; aproximação e reflexão | M2 aprofunda a investigação do percebido, associado, concluído e desconhecido, já enunciada no apoio de M1.1. |
+| M1.2 | Saber, acessar e sustentar; possibilidades ainda não reconhecidas ou cultivadas | Preservar as três situações de aprendizagem ao lado do problema da repetição. |
+| M1.3 | Competência incorporada e adaptação; inserção de árvore/Sustentar o Céu registrada | Não presumir domínio formal da postura. M3 aprofunda ensino e ajuste. |
+| M1.4 | Território/mapas; Qi e espiritualidade; inserção sobre três campos, Rim, Jing e Nao registrada | M2.5/M2.6 refinam origem, alcance e revisão das leituras. |
+| M1.5 | Cinco Janelas; árvore e ambiente; dança | Relação, prazer, criação e condições materiais continuam no percurso. |
+| M1.6 | Cartografia: situação, manifestação, tradução provisória, orientação possível | Aprofundar o mesmo registro em M2; palavras, imagens, gestos e silêncio permanecem possíveis. |
+| M1.7 | Estado, movimento, referência e participação; Essência, pêndulo, espiral e eixo | Comparar reencontros sem garantir progresso. Eixo é recurso didático, ao lado das outras metáforas. |
 
-Incorporar a base autorizada em [[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]]: M1 apresenta uma primeira sequência repetível de corpo, respiração e atenção, com linguagem inicial de Qi. [[03 - Ba Duan Jin e Yi Jin Jing - Movimentos e Articulação Didática]] propõe Sustentar o Céu ou Wei Tuo I, conforme a escolha e a versão ensinada por Fabiano. M1.1–M1.3 relacionam prática e aprendizagem; M1.4 diferencia mapas; M1.5/M1.6 registram o vivido; M1.7 retoma centro/eixo. [[02 - Ernesto Garcia e Fontes de Cultivo - Leitura e Destinação]] permite recuperar Ernesto e os demais fundamentos.
+A base corporal não foi ensinada formalmente em M0.2. Segundo o registro posterior, chegou pelas Aulas abertas e pelo trecho inserido em M1.3. M2 fornece instruções suficientes para sua própria prática; não exige assistência prévia a todo complemento. Sorriso Interior e demais recortes disponíveis são recursos consultáveis, sem presumir adesão ou conclusão.
 
-Rever a correspondência entre roteiro, tela, fala, ficha e encontro M0/M1. A base foi registrada; apresentações, documentos e demonstrações já produzidos não foram regenerados nesta incorporação.
+## Recuperar conforme a pergunta da aula
 
+- Roteiro e registro de M1.1: [[M1.1 - Roteiro oral e caderno de produção v0.2]], [[M1.1 - Registro de percepção expressão e retorno v0.2]] e [[M1.1 - Texto breve de apoio - Compreender, perceber e participar]]. Os números de versão identificam materiais do acervo, não o arquivo audiovisual efetivamente publicado.
+- Procedência do desenvolvimento: [[Plano Efetivo de Produção M1.1 a M1.6]], [[07 - Consolidação de Conteúdo e Destinação para M1.7]], [[05 - Nota-Ponte - Desenvolvimento do Conteúdo 7-14 e Entrega 9-54]] e [[06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54]]. Recuperar conteúdo por pertinência, sem restaurar uma arquitetura antiga.
+- Experiência e fundamentação: [[TSH - Varela e Castellanos - Experiência corporificada e cultivo]], [[M1.3 - Texto breve de apoio - O aprendido na vida]], [[TSH - Síntese Integrativa do Refinamento]], [[Self, Essência, Alma, Eu Superior e Fontes Integrais]] e monografias autorais. Forghieri, Gendlin, mentalização, NIP, MTC e espiritualidade dialogam por funções próprias.
+- Cultivo: [[01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH]], [[02 - Ernesto Garcia e Fontes de Cultivo - Leitura e Destinação]], [[03 - Ba Duan Jin e Yi Jin Jing - Movimentos e Articulação Didática]], [[11 - Leituras Recuperadas - Taoismo Shen e Transformação]] e cadernos de fundamentação, condução e incorporação. Os visuais e originais permanecem nos localizadores; não presumir nova exportação dos binários.
+- Centro, assimilação e vida: [[07 - Rohden - Assimilação Centro e Vida Cotidiana]]. Cuidado, música e relação: [[Ely Brito - Possibilidades de ampliação do TSH]], [[TSH - Empatia e compaixão]] e [[Naranjo]].
 
-## Recuperação — Centro, Essência, Self e expressão — 02/11/2026
+## Próximo ponto útil
 
-Por solicitação de Fabiano, [[Self, Essência, Alma, Eu Superior e Fontes Integrais]] recebeu atualização de trabalho com relações afirmativas, diferenças conceituais, fontes primárias, destinos em M1–M8 e recursos práticos. Ler a atualização de novembro antes do histórico de julho: Essência tem a definição espiritual ampliada do Léxico; eixo é recurso didático, sem restaurar Método EIXO.
+Produzir M2 como aprofundamento da experiência, com fontes selecionadas, uma pergunta central, aplicação e retorno à vida. [[TSH - Forma de construção das aulas M2–M8 - cena, verbo e voz do autor]] orienta a fala; [[TSH - Banco de cenas e vivências do autor]] permite recuperar experiências sem inventar lembranças de Fabiano. A Cartografia acompanha a revisão e a possibilidade de expressão, inclusive não verbal.
 
-Para M1.7, [[07 - Consolidação de Conteúdo e Destinação para M1.7]] contém proposta de bloco oral de 4–5 minutos, duas telas, notas, retomada facultativa da Cartografia e parágrafos para o texto de apoio: Essência explícita; Jung (totalidade/individuação); Winnicott (vitalidade/espontaneidade/ambiente); reconhecimento, acesso e cultivo. M5 conserva o aprofundamento comparativo. A nota de Relações distribui também Forghieri, mentalização, Siegel, Varela/Castellanos, MTC/Qi, granularidade, interocepção, Wilber/Laszlo, tradições, escada e expressão.
+Distinguir elaboração, ensaio, arquivos, gravação, edição e publicação. Os estados individuais de produção continuam não confirmados quando não houver evidência. Uma futura revisão de M0/M1 pode ser feita por Fabiano; esta integração não declara substituição dos vídeos existentes.
 
-Registro textual concluído nesta frente; slides e arquivos DOCX/PDF ainda precisam de sincronização. Não atesta gravação ou publicação. Preservar as frentes de produção anteriores e não confundir esta atualização com integração de seus PRs. Próxima ação: incorporar o bloco ao pacote integral da M1.7 e verificar duração/correspondência.
-
-
-
-## Incorporação — Varela e Castellanos
-
-Fabiano solicitou incorporar as elaborações e avaliar o acréscimo em M1.1–M1.3. Consultar [[TSH - Varela e Castellanos - Experiência corporificada e cultivo]]: fontes originais, TCC e monografia MTC, diálogo com Forghieri, Qi Gong e Essência, destinos por aula e auditoria dos materiais. M1.1/M1.2 já contemplam os fundamentos na didática; M1.3 recebe texto breve ampliado em [[M1.3 - Texto breve de apoio - O aprendido na vida]]. Falas, slides e práticas existentes preservados. Arquivos diagramados anteriores não foram reexportados. Retomar sobretudo em M1.4, M2, M3 e M5. PR35/36/38 continuam frentes de produção separadas; este registro não declara sua integração.
-
-
-## Estado atual — 01/11/2026
-
-Referência curricular: Raio X revisado de 30/10 e refinamentos de 31/10, conforme prompt de produção M1 e ficha mínima atual. Os registros de 24/10 abaixo permanecem históricos. A solicitação atual de Fabiano autoriza desenvolver roteiros e preparar gravações; não exige autorização adicional baseada nos marcadores antigos.
-
-M1.1 possui roteiro oral completo consolidado v0.2, sequência textual de telas, notas de produção, fontes do educador e matriz textual do material do aluno. Fontes e decisões de resgate estão em [[06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54]]. Prática mãos/Qi Gong destinada ao encontro M0/M1; M1 constrói seus alicerces. Encontros pelo Zoom, M0/M1 juntos, oito encontros/16h no curso, conforme ficha mínima.
-
-Arquivos:
-- [[M1.1 - Roteiro oral e caderno de produção v0.2]]
-- [[M1.1 - Registro de percepção expressão e retorno v0.2]]
-
-Próxima ação: derivar PowerPoint, notas do orador, caderno DOCX e ficha PDF/editável, mantendo versão/correspondência; ensaiar duração. Nenhum desses arquivos diagramados foi produzido nesta consolidação. Gravação e publicação não atestadas.
-
-## Histórico — decisão de Fabiano em 24 de outubro de 2026
-
-A única referência vigente do Raio X é o arquivo **RAIO X - congelado(1).docx**, fornecido e confirmado por Fabiano nesta data, preservado integralmente em [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Raio X do Produto/Vigente/Raio-X-Fabiano Deliberalli.docx|Raio X vigente — Word]]. Para leitura e busca, usar [[70 - Produções/Cursos/Curso - Nome Provisório/10 - Raio X do Produto/Vigente/Raio-X-Fabiano Deliberalli - Texto para consulta|Raio X vigente — texto para consulta]]; essa transcrição é derivada do Word e não constitui versão independente.
-
-Todas as demais versões do Raio X, seus resumos, matrizes de correspondência e referências de oferta anteriores têm valor histórico. Expressões como “vigente”, “canônico”, “definitivo” ou “aprovado” dentro desses materiais descrevem o estado da época e não lhes conferem precedência atual. Isso inclui versões de agosto e rascunhos de outubro, independentemente da data ou do nome do arquivo.
-
-Consultar o histórico somente quando Fabiano solicitar ou quando houver conteúdo ou estrutura efetivamente desenvolvidos com pertinência e relevância concretas para a tarefa. Ao recuperar algo, identificar fonte, vínculo com a aula ou questão atual e contribuição possível; apresentar como material passível de análise. Não reincorporar automaticamente títulos, focos, recursos, promessas, numerações, cronogramas ou condições antigos, nem completar silêncios do Raio X atual com decisões de versões anteriores. Dúvidas internas do documento atual devem ser explicitadas, sem correção silenciosa ou recurso automático ao histórico.
-
-Esta atualização registra a decisão de Fabiano; não altera o conteúdo do Word nem declara outras propostas aprovadas. A data de consolidação de 23/08/2026 presente no próprio Word foi preservada e não deve ser confundida com a confirmação de vigência de 24/10/2026.
-
-# Módulo 1 da entrega — Estado e continuidade da produção
-
-## Função
-
-Coordenar a derivação audiovisual das aulas M1.1–M1.7 sem criar uma terceira arquitetura. A procedência curricular permanece nas Unidades 0.1 e 0.2; este índice acompanha somente o estado de produção da entrega 9/54.
-
-## Correspondência
-
-| Entrega | Origem principal | Referência de procedência | Estado |
-|---|---|---|---|
-| M1.1–M1.6 | UC 0.1 | [[Plano Efetivo de Produção M1.1 a M1.6]] | plano v1.1 de referência |
-| M1.7 | UC 0.2 | [[07 - Consolidação de Conteúdo e Destinação para M1.7]] | conteúdo v1.1 consolidado |
-
-## Estado por aula
-
-| Aula | Pacote de derivação | Estado atual | Próxima ação |
-|---|---|---|---|
-| M1.1 | [[M1.1 - Roteiro oral e caderno de produção v0.2]] e [[M1.1 - Registro de percepção expressão e retorno v0.2]] | roteiro completo consolidado; matriz textual do aluno pronta para diagramação | derivar PPTX/DOCX/PDF e conferir duração |
-| M1.2 | previsto no plano v1.1 | ainda não derivado | iniciar após leitura estrutural de M1.1 |
-| M1.3 | previsto no plano v1.1 | ainda não derivado | preservar competência incorporada como aprofundamento |
-| M1.4 | previsto no plano v1.1 | ainda não derivado | preservar pluralidade criteriosa |
-| M1.5 | previsto no plano v1.1 | dependência complementar identificada | extrair versão mínima das Cinco Janelas |
-| M1.6 | previsto no plano v1.1 | ainda não derivado | adaptar Primeira Cartografia |
-| M1.7 | consolidação v1.1 | pronto para derivação | derivar após M1.6 e auditar o arco |
-
-## Correção de estatuto
-
-O pacote preliminar v0.1 permanece como histórico. A produção atual foi iniciada e consolidada no roteiro v0.2 em 01/11/2026; usar os arquivos atuais para continuidade.
-
-## Guardas
-
-- usar a UC 0.1 como fonte de partida, reabrindo-a quando a construção atual pedir revisão, ampliação ou nova relação;
-- não reduzir a UC 0.2 a todo o seu acervo em uma única aula;
-- não tratar formulações de posicionamento como substitutas do conteúdo;
-- manter o caso composto curricular de M1.1 distinto da história composta da masterclass;
-- preservar energia, espiritualidade, simbolismo, corpo, relação e ciência conforme seus estatutos;
-- realizar leitura longitudinal M1.1–M1.7 antes de storyboards definitivos;
-- distinguir elaboração, ensaio, geração dos arquivos, gravação e publicação; a preparação está autorizada pela solicitação atual, sem presumir etapas concluídas.
-
-## Ponto de retomada
-
-> Retomar pela aula solicitada e consultar a UC 0.1, a UC 0.2 ou o plano apenas conforme a necessidade. O material preliminar de M1.1 é insumo revisável. Nenhum chat possui competência exclusiva: o trabalho pode continuar a partir do repositório e da demanda atual de Fabiano.
-
-## Relações
-
-- [[LEIA PRIMEIRO - Estado Atual e Continuidade do Curso]]
-- [[05 - Nota-Ponte - Desenvolvimento do Conteúdo 7-14 e Entrega 9-54]]
-- [[06 - Matriz Mestre de Incorporação do Conteúdo à Estrutura 9-54]]
-- [[07 - Deliberação Transversal - Posicionamento, Linguagem e Arquitetura Dupla - 2026-08-23]]
-
-## Refinamento integrado às bases de desenvolvimento — 30 de outubro de 2026
-
-Referência: [[TSH - Síntese Integrativa do Refinamento]]. O documento revisado e sua transcrição integral integram o acervo. Os materiais continuam revisáveis; não há mudança automática de autorização audiovisual.
-
-| Destino | Contribuição para o desenvolvimento |
-|---|---|
-| M1.1–M1.3 | Distinguir reconhecer, acessar e construir condições de participação. |
-| M1.4–M1.6 | Acolher experiência não verbal, descrição provisória e desconhecido; diferenciar percebido, associado e concluído. A Cartografia existente recebeu essas perguntas. |
-| M1.7 | Integrar estado, movimento, referência e participação à prática já existente; distinguir intensidade de acesso, pêndulo de espiral e compreensão de condições de ação. |
-
-As retomadas em M2–M8 estão discriminadas na síntese. MTC, Órbita Microcósmica, árvore e Cosmos conservam linguagem, procedência e função próprias. Práticas requerem desenvolvimento de instrução, observação e transferência conforme as escolhas de Fabiano.
+Nenhum chat possui competência exclusiva: a continuidade parte da demanda atual e das fontes pertinentes. A UC 0.1 permanece fonte de partida, reabrindo-a quando a construção atual pedir revisão, ampliação ou nova relação; a UC 0.2 também continua disponível conforme a questão.

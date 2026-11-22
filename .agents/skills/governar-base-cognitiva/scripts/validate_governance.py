@@ -362,7 +362,7 @@ def main() -> int:
     require_phrases(
         entry_text,
         (
-            "9 módulos e 54 aulas",
+            "9 módulos e 59 aulas",
             "sem funcionar como segunda arquitetura",
             "Nenhum chat possui autoridade exclusiva",
             "Não existe lista fixa de documentos para toda retomada",
