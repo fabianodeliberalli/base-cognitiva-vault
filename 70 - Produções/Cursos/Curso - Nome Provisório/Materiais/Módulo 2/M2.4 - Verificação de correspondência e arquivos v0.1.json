@@ -1,0 +1,47 @@
+{
+  "lesson": "M2.4",
+  "date": "2026-11-22",
+  "status": "rascunho-em-revisao-substantiva",
+  "native_page": "page_4a0bbd7deab88191b8dce926e8f3c44e",
+  "native_sequence": 3,
+  "slides": 24,
+  "notes_sha256": "36b847ed5c5926a6bbdc13700071ed70d7fa91dcdb74b108ec6840600b891c17",
+  "notes_match_native": true,
+  "technical_review_scope": "24 telas e 25 páginas do guia inspecionadas; quatro páginas do apoio inspecionadas. Rótulo longo, ramificações, marcadores e texto de preparação ajustados. Campos das notas e correspondência conferidos.",
+  "substantive_review": "Fabiano identificou redução de profundidade durante a montagem. Comparação com M2.1 v0.8/M2.2 v0.4 confirmou insuficiência de integração. Artefatos em revisão; inspeção técnica não certifica profundidade ou prontidão.",
+  "preview_review": "Seguir com essa prévia; não equivale a aprovação de todos os artefatos.",
+  "recording_rehearsal": "nao-confirmado",
+  "recording": "nao-confirmado",
+  "publication": "nao-confirmado",
+  "files": [
+    {
+      "name": "TSH_M2_4_Guia_da_Trilha.docx",
+      "library_file_id": "libfile_fde3_f-008868f1777081918d16ace3a78c16a3_ad925f8fadbc81918eab9ef0eafee9a9",
+      "version": 0,
+      "sha256": "646420335530e4bdbdd8d0266cc99fd55890fb6a26c2fd9892a4347659a97973",
+      "url": "https://chatgpt.com/library?file_id=libfile_fde3_f-008868f1777081918d16ace3a78c16a3_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal"
+    },
+    {
+      "name": "TSH_M2_4_Guia_da_Trilha.pdf",
+      "library_file_id": "libfile_fde3_f-77d3888e75988191bf553aed213b0b28_ad925f8fadbc81918eab9ef0eafee9a9",
+      "version": 0,
+      "sha256": "f6383121b46b2e153266d713df24b702795d16b59fe1e6d5b3c533fa18fa9559",
+      "url": "https://chatgpt.com/library?file_id=libfile_fde3_f-77d3888e75988191bf553aed213b0b28_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal"
+    },
+    {
+      "name": "TSH_M2_4_Apoio_do_Aluno.docx",
+      "library_file_id": "libfile_fde3_f-4a9271bb3a24819189f899b89a359c0f_ad925f8fadbc81918eab9ef0eafee9a9",
+      "version": 0,
+      "sha256": "85f9b2bf2ed47d68b17f89f3fc9afb96b97a510d7bd8db94acda96587c012a8a",
+      "url": "https://chatgpt.com/library?file_id=libfile_fde3_f-4a9271bb3a24819189f899b89a359c0f_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal"
+    },
+    {
+      "name": "TSH_M2_4_Apoio_do_Aluno.pdf",
+      "library_file_id": "libfile_fde3_f-3870138f26b48191874d212c8566abeb_ad925f8fadbc81918eab9ef0eafee9a9",
+      "version": 0,
+      "sha256": "d44fa7ac7aa064f71634ed79a4cf69f205470b63da6bccb6938d61f4bc824250",
+      "url": "https://chatgpt.com/library?file_id=libfile_fde3_f-3870138f26b48191874d212c8566abeb_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal"
+    }
+  ],
+  "camera_intersections": []
+}
