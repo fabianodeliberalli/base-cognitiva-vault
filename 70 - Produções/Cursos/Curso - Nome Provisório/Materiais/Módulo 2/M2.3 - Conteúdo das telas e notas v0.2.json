@@ -3,7 +3,7 @@
   "title": "Interpretações e certezas: recuperar outras pistas",
   "version": "0.2",
   "date": "2026-11-22",
-  "status": "revisao-substantiva-produzida-para-avaliacao",
+  "status": "versao-de-trabalho",
   "architecture": {
     "modules": 9,
     "lessons": 59,
@@ -344,6 +344,6 @@
   "substantive_revision": {
     "problem": "A ligação de M2.3 aos dois tempos da Tradução ficava implícita.",
     "implementation": "Retomada e reciprocidade em 2/4/6/7; conflito e elaboração em 8–11; absorção e passagem em 12–16; comparação de leitura/vivido em 17–21; acesso/cultivo/expressão em 22; aquisição e ponte em 23/24.",
-    "states": "Produzida para avaliação. Ensaio, duração, gravação e publicação não confirmados."
+    "states": "Revisão substantiva produzida; v0.1 preservada no histórico."
   }
 }

@@ -2,75 +2,41 @@
 tipo: estado-e-continuidade-de-producao
 projeto: Traduzindo o Ser Humano
 modulo: M2
-status: modelo-de-trilha-adotado-producao-em-curso
+status: producao-em-curso
 atualizado_em: 2026-11-22
 arquitetura_atual: nove módulos e 59 aulas
 ---
 
 # Módulo 2 — Estado e continuidade da produção
 
-## Modelo adotado para as futuras produções
+## Forma de trabalho
 
-Fabiano adotou o formato, a lógica, a dinâmica e o andamento alcançados em M2.1 como modelo para as próximas produções. [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] v2.4 descreve como reproduzi-lo entre assistentes: mapa inicial, passos visuais, notas naturais de entrada, ideias, objetivo e passagem, fundamentos desenvolvidos, práticas com elaboração e continuidade. A escolha do formato supera o teste restrito a M2.1; ensaio e execução audiovisual conservam seus estados próprios.
+O modelo adotado em M2.1 é a trilha para exposição livre, com visão inicial do percurso, passos visuais e notas em **PARA COMEÇAR / IDEIAS PARA DESENVOLVER / O QUE ESTAMOS TRABALHANDO / PARA SEGUIR**. [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] v2.5 e [[13 - Base de Produção Autoral e Didática - Fabiano Deliberalli]] v1.3 orientam a aplicação. A clareza torna ensinável a densidade autoral e dos fundamentos. M0 é acolhimento e não determina o nível das aulas seguintes.
 
-Exemplos entram como situações genéricas reconhecíveis na fala e são reapresentados com contexto a cada retomada antes de ampliar a compreensão. A personagem nomeada foi retirada dos materiais atuais de M2.1 e M2.2. O apoio do aluno apresenta os fundamentos pelo conteúdo e se dirige diretamente a quem estuda, sem bastidores sobre a formação de Fabiano. Referências completas e observações de pesquisa ficam apenas no aprofundamento opcional do aluno. As imagens e a identidade visual aprovadas foram preservadas.
+Os registros de produção acompanham versões, arquivos, alterações e trabalho restante. Omitir campos, pendências e lembretes de aprovação para gravação.
 
-## Referências atuais
+## Fontes e suportes atuais
 
-| Aula ou material | Estado nesta frente |
+| Aula | Ponto atual de recuperação |
 | --- | --- |
-| [[M2.1 - Trilha de exposição v0.8]] e [[M2.1 - Apresentação editável v0.8]] | Revisão visual e de correspondência didática produzida para avaliação; 20 telas, montagem nativa sequência 14. A produção disponível não confirma aprovação autoral nem execução audiovisual. |
-| M2.1 guia e apoio do aluno | Guia Word/PDF de 21 páginas, versão 3; apoio Word/PDF de quatro páginas, versão 5, com revisões seletivas autorizadas nesta frente. A versão 4 permanece preservada como exemplar historicamente aprovado; a nova composição não recebe aprovação automática. |
-| [[M2.2 - Trilha de exposição v0.4]] e [[M2.2 - Apresentação editável v0.4]] | Composição no modelo de trilha e revisão visual produzidas para avaliação; 20 telas, montagem nativa sequência 7. Novos guias Word/PDF de 21 páginas; apoio Word/PDF versão 3, quatro páginas. A produção não confirma aprovação autoral, ensaio, gravação ou publicação. |
-| [[01 - Plano de produção das seis aulas M2]] | Constituição da experiência, relevância e simbolização, certeza, repetição, origem/sentido e Tradução recursiva. |
-| [[M2.3 - Trilha de exposição v0.2]] e [[M2.3 - Apresentação editável v0.2]] | Revisão substantiva produzida para avaliação: 24 telas, sequência nativa 5; ligação explícita entre forma/elaboração e convicção, comparação entre leitura e vivido; guia Word/PDF de 25 páginas e apoio Word/PDF de seis páginas. PowerPoint com notas, PDFs e documentos reunidos em ZIP único. V0.1 permanece histórica; aprovação autoral e execução audiovisual não confirmadas. |
-| [[M2.4 - Prévia de conteúdo e contribuições v0.1]], [[M2.4 - Trilha de exposição v0.1]] e [[M2.4 - Apresentação editável v0.1]] | Prévia revista por Fabiano: seguir com a composição. Rascunho em revisão de profundidade após intervenção de Fabiano: 24 telas, sequência nativa 3, guia Word/PDF de 25 páginas e apoio Word/PDF de quatro páginas. A existência dos arquivos não confirma adequação substantiva. Ensaio, gravação e publicação não confirmados. |
-| M2.5–M2.6 e M3–M8 | Revisão estrutural disponível; novos roteiros integrais e artefatos finais não produzidos nesta frente. Aplicar o modelo adotado ao desenvolvê-los. |
-| Ensaio, duração real, gravação, edição e publicação | Sem execução confirmada nesta frente; não inferir pelo acabamento dos arquivos. |
+| M2.1 | [[M2.1 - Trilha de exposição v0.8]] e [[M2.1 - Apresentação editável v0.8]]: 20 telas; sequência nativa 14; guia Word/PDF de 21 páginas, versão 3; apoio Word/PDF de quatro páginas, versão 5. O apoio versão 4 permanece como exemplar preservado. |
+| M2.2 | [[M2.2 - Trilha de exposição v0.4]] e [[M2.2 - Apresentação editável v0.4]]: 20 telas; sequência nativa 7; guia Word/PDF de 21 páginas; apoio Word/PDF versão 3, quatro páginas. |
+| M2.3 | [[M2.3 - Trilha de exposição v0.2]] e [[M2.3 - Apresentação editável v0.2]]: 24 telas/notas; sequência nativa 5; guia de 25 páginas e apoio de seis páginas. Slides, PDFs e documentos reunidos em ZIP. V0.1 permanece histórica. |
+| M2.4 | [[M2.4 - Trilha de exposição v0.2]] e [[M2.4 - Apresentação editável v0.2]]: reconstrução de 29 telas/notas, guia de 30 páginas, apoio autônomo e ZIP com os seis arquivos. V0.1 conserva a composição anterior e o diagnóstico de redução. |
+| M2.5–M2.6 e M3–M8 | Orientação estrutural no dossiê; novos roteiros e suportes integrais ainda a compor nesta frente. |
 
-Fabiano aprovou posteriormente o apoio do aluno de M2.1 Word/PDF versão 4 como exemplar para futuras produções. O padrão v2.3, seção 9, preserva essa referência. A aprovação do apoio versão 4 distingue-se da avaliação das revisões atuais dos slides e de novas redações do apoio. Os materiais permanecem revisáveis por Fabiano.
+## Progressão efetiva
 
-## Coerência e recuperação
+M2.1 constitui a experiência corporificada e relacional, expressão e retorno. M2.2 desenvolve relevância, forma e elaboração, os dois tempos da Tradução e a relação funcional Eu Básico/Eu Médio. M2.3 v0.2 explicita como forma e elaboração adquirem convicção; confirmação, Festinger, absorção e Erickson ajudam a investigar a leitura e a comparar o que mudou na conclusão e no vivido. M2.4 v0.2 parte dessa diferença: uma compreensão nova pode coexistir com a organização conhecida do encontro.
 
-Aplicar a base autoral e o padrão de aulas: fundamentos operantes, linguagem natural, exemplos contextualizados, mapas recuperados antes de criar, espiritualidade afirmativa e cuidado com os estados reais. Coerência é de conceito e função entre os suportes. A ficha mínima atual localiza as decisões e as fontes pertinentes.
+A reconstrução de M2.4 desenvolve configuração corporal/afetiva/simbólica e relacional; Bion na elaboração emocional; Morin na circularidade entre antecipação, gesto, relação e efeitos; Cozolino/Kahneman na aprendizagem e disponibilidade; função da resposta e possibilidades de expressão. Milgram contribui com autoridade e condições concretas. A metáfora da escada, pêndulo e espiral recuperam o patrimônio visual. Os quatro passos oriundos da formação de hipnose organizam reconhecimento, retorno, recurso vivido e reencontro; comparação, elaboração, fechamento e encontro real dão continuidade. Forghieri fundamenta a relação entre envolvimento e reflexão. O ensaio não é apresentado como demonstração de reconsolidação. M2.5 distinguirá acontecimento, experiência, sentido, interpretação e hipótese de origem; M2.6 realizará a revisão recursiva.
 
-## Continuidade
+## Continuidade de linguagem e composição
 
-Conferir M2.1 v0.8 e M2.2 v0.4 em suas apresentações, notas e apoios, ensinando os termos em seu lugar e verificando as passagens. As revisões de 20 telas foram produzidas para avaliação; preservar seus estados reais nos localizadores. M2.3 v0.2 aplica a integração indicada pela avaliação progressiva e permanece produzida para avaliação. M2.4 v0.1 foi desenvolvida após a prévia revista por Fabiano. Avaliar a composição e depois desenvolver M2.5–M2.6 com o dossiê e as fontes pertinentes. Milgram participa da investigação de autoridade e contexto em M2.4; [[Anexos M2 - Conteúdos imagens e destinos de resgate]] localiza os conteúdos dos quatro PowerPoints, imagens, usos e propostas posteriores. A Cartografia comum continua: situação, manifestação, Tradução provisória e orientação possível. Cada prática tem contribuição própria para percepção, diferenciação e participação e oferece elaboração e retorno.
+Exemplos genéricos recebem contexto a cada retomada e ampliam uma relação, sem personagem nomeada. Notas não trazem bibliografia completa ou bastidores acadêmicos; o aprofundamento opcional do aluno conserva as fontes. Apoio autônomo, dirigido a quem aprende, sem biografia do professor. Imagens e metáforas entram pela função, sem enquadrar toda experiência. Mapas existentes podem ser apresentados por níveis ou adaptados fielmente, ligados aos originais e às notas-mãe. Manter a família visual M0/M1: azul/petróleo, cobre/bege, EB Garamond/Inter, marca e espaço da câmera. A Cartografia permanece **Situação / Manifestação / Tradução provisória / Orientação possível**.
 
-Espiritualidade permanece afirmativa e plural, eixo é recurso didático e as formulações autorais participam do raciocínio. A arquitetura conserva nove módulos e 59 aulas. A estimativa 95/100 registrada na auditoria avalia o planejamento, sem certificar aprendizagem ou aprovação dos roteiros.
+## Recuperação de anexos e diagnóstico
 
-## Histórico e recuperação
+[[Anexos M2 - Conteúdos imagens e destinos de resgate]] localiza quatro PowerPoints, 255 lâminas, duas imagens de Milgram, originais, textos e mídias. [[Claustro - Atenção, integração e estados de consciência no TSH]] oferece destino específico; não introduzir esse conteúdo automaticamente em M2.4. [[M2.4 - Prévia de conteúdo e contribuições v0.1]] conserva a seleção e sua aplicação posterior. [[TSH - Revisão de Profundidade e Percurso - 22-11-2026]] preserva a comparação progressiva e a resposta aplicada.
 
-[[TSH - Revisão de Profundidade e Percurso - 22-11-2026]] registra o diagnóstico e o desenvolvimento estrutural das 59 posições. M2.1 v0.3/v0.4, trilhas v0.5/v0.6/v0.7 e M2.2 v0.1/v0.2/v0.3 permanecem recuperáveis como etapas anteriores; os exemplares aprovados conservam sua identificação e conteúdo. Exemplos com personagem e fala integral dessas versões não orientam novas composições. M0/M1 não foram regravados nem republicados por esta atualização.
-
-Os JSONs, as trilhas em Markdown e os scripts de montagem das versões atuais preservam o conteúdo recuperável. Os localizadores das apresentações indicam os arquivos persistentes. Registros de preparação e fontes das revisões anteriores permanecem como histórico de consulta; não são notas para gravação nem uma entrega docente obrigatória.
-
-
-## Teste do modelo — M2.3
-
-As fontes e o mapa autoral de retorno foram consultados no GitHub. A composição de teste, a seleção de Festinger/confirmação/Erickson e os arquivos estão localizados nas trilhas, fontes estruturadas e registros de verificação. Conferência de notas e inspeção visual são verificações técnicas; não certificam profundidade, aprovação ou execução audiovisual. O Site não recebeu atualização. A avaliação progressiva abaixo preserva o diagnóstico; a aplicação na v0.2 está registrada no encerramento desta nota.
-
-## Prévia, M2.4 e resgate dos anexos — 22/11/2026
-
-Fabiano solicitou uma prévia breve com tópicos, fundamentos do repositório e recursos de linguagem para acrescentar contribuições antes da montagem, sem transformar isso em barreira ou trabalho extra. A prévia de M2.4 foi apresentada na conversa e recebeu a resposta “Seguir com essa prévia”. O padrão v2.4 incorpora esse espaço leve de contribuição; as produções mantêm a trilha já adotada.
-
-M2.4 investiga sequência, função, condições e consequências; inclui autoridade/contexto com Milgram, comparação de ocasiões e ensaio com os quatro passos recuperados do acervo. Retoma pêndulo/espiral por adaptação de foco ligada ao SVG original. Notas, guia e apoio preservam correspondência de conceito e função; os estados de execução continuam abertos.
-
-[[Anexos M2 - Conteúdos imagens e destinos de resgate]] cobre as 255 lâminas das quatro apresentações, mais as duas imagens de Milgram. Arquivos de resgate preservam texto, notas existentes, numeração, destinos propostos e localizadores de mídia. Não são OCR de toda figura nem transcrição de vídeo. Originais estão preservados por links; a consulta a uma IA externa depende de seus acessos reais. [[Claustro - Atenção, integração e estados de consciência no TSH]] oferece aprofundamentos fundamentados para atenção/distração e pesquisa de estados; não é um bloco acrescentado à M2.4.
-
-### Correção de profundidade durante M2.4
-
-Fabiano identificou retorno à abordagem básica ao ler a montagem em tempo real. A comparação com M2.1 v0.8/M2.2 v0.4, depois ampliada à M2.3 v0.1 por solicitação de Fabiano, confirmou preservação do formato e redução da integração: cadeia de resposta e ensaio dominaram, com pouca operação da Tradução e do horizonte autoral. O patrimônio é denso e a crítica anterior já estava registrada. O desvio se localiza principalmente na seleção e composição do assistente, favorecido por tomar o resumo operacional de M2.4 como arquitetura explicativa completa.
-
-M2.4 v0.1 permanece rascunho em revisão substantiva. [[M2.4 - Prévia de conteúdo e contribuições v0.1]] contém a reconstrução do núcleo; os slides/guias existentes ainda não a realizam integralmente. [[TSH - Revisão de Profundidade e Percurso - 22-11-2026]] e o padrão v2.4 preservam o diagnóstico e a correção. A inspeção técnica não foi convertida em aprovação para gravação.
-
-### Retomada após a avaliação progressiva M2.1–M2.4
-
-M2.3 foi efetivamente recuperada pelo GitHub e incluída na comparação. Há avanço de desenvolvimento das contribuições, mas a passagem dos dois tempos da Tradução à convicção precisa de explicitação. Preservar Festinger, confirmação, Erickson e retorno em suas funções; rever a costura conceitual e a comparação entre leitura e modo vivido. M2.4 deverá partir dessa aquisição e de seu limite: revisão da explicação não garante reorganização da experiência/participação. A avaliação e os encaminhamentos estão em [[TSH - Revisão de Profundidade e Percurso - 22-11-2026]]. Esse diagnóstico referia-se à v0.1; a aplicação posterior à v0.2 está descrita abaixo.
-
-Fabiano solicitou corrigir a construção pela base do repositório. Base autoral v1.2, ficha mínima v0.50, padrão v2.4, plano e dossiê foram integrados à main pelo PR 88, com os estados de revisão preservados. A conferência substantiva integra a composição e cabe ao assistente antes de concluir a montagem; não depende de o autor detectar o desvio durante a gravação. Registro não é comprovação de execução. A integração indicada foi aplicada em M2.3 v0.2. Próximo trabalho substantivo: reconstruir M2.4 sobre essa passagem, conferindo os artefatos reais.
-
-## Revisão M2.3 v0.2 e entrega conjunta — 22/11/2026
-
-Fabiano autorizou integrar os registros anteriores à main e pediu o retrabalho de M2.3. O PR 88 foi integrado preservando estados. M2.3 v0.2 desenvolve a reciprocidade entre forma e elaboração, compara leitura e vivido na prática e distingue compreensão, acesso e cultivo na ponte para M2.4. A apresentação nativa, o PowerPoint com 24 notas, o guia e o apoio foram atualizados e conferidos. [[M2.3 - Apresentação editável v0.2]] localiza o ZIP único com os seis arquivos. Manter entrega conjunta nas próximas composições, para evitar vários downloads. Aprovação para gravação e execução continuam sem confirmação; M2.4 permanece em revisão substantiva.
+O desvio anterior foi de seleção e articulação do assistente diante de fontes densas. Consultar títulos e montar uma cadeia genérica não satisfaz a produção. Ler passagens pertinentes e aulas anteriores reais; desenvolver raciocínio e investigação antes da montagem; conferir a contribuição concreta nos suportes finais. A inspeção visual e a correspondência de arquivos têm alcance técnico e não medem aprendizagem. O Site não é a frente solicitada. Manter a entrega conjunta em um ZIP para evitar vários downloads.

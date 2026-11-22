@@ -2,7 +2,7 @@
   "lesson": "M2.3",
   "version": "0.2",
   "date": "2026-11-22",
-  "status": "produzida-para-avaliacao-sem-aprovacao-audiovisual-inferida",
+  "status": "versao-de-trabalho",
   "native_page_id": "page_5376023809188191be041e1ad63b40b6",
   "native_sequence": 5,
   "notes_sha256": "21aaf45d6f2c63b2d9042561c32ddf214f9df88d8781b0b1e5a9dcda6168940c",
@@ -23,7 +23,7 @@
     ]
   },
   "technical_report": "file_validation_revisao.json",
-  "claim_boundary": "Correspondência de arquivos e inspeção visual não certificam aprendizagem, aprovação autoral ou execução audiovisual.",
+  "claim_boundary": "Correspondência de arquivos e inspeção visual têm alcance técnico; não medem aprendizagem.",
   "files": [
     {
       "name": "TSH_M2_3_Slides.pptx",
@@ -60,8 +60,8 @@
     "name": "TSH_M2_3_Kit_Completo_v02.zip",
     "entries": 7,
     "crc": "pass",
-    "bytes": 1220889,
-    "sha256": "3861c7f1c439ecd81381b825354e486cbfd6b08554ae40d54f3faf570189b589"
+    "bytes": 1220760,
+    "sha256": "0c1e61a6c65c2a94ef6f68545c13435ed079ac1e9a4f9d88e8a7ef5f44970cbb"
   },
   "persistent_files": [
     {
@@ -114,10 +114,10 @@
     },
     {
       "file_name": "TSH_M2_3_Kit_Completo_v02.zip",
-      "file_id": "file_00000000b450820e805376ede7701e8e",
+      "file_id": "file_000000002df0820ea7da36fc6bb8f12a",
       "library_file_id": "libfile_fde3_f-8e7452c3ba1c8191bbd0ecb39af22497_ad925f8fadbc81918eab9ef0eafee9a9",
-      "current_version_number": 0,
-      "purpose": "create_library_file",
+      "current_version_number": 1,
+      "purpose": "replace_library_file",
       "status": "succeeded"
     }
   ]

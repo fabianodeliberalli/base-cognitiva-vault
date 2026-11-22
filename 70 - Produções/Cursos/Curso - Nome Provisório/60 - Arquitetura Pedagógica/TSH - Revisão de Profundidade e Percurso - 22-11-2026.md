@@ -22,11 +22,11 @@ Fabiano interrompeu a finalização de M2.4 ao reconhecer um retorno ao nível b
 
 **Correção de direção:** reconstruir a repetição como organização da experiência e da participação, articulando sentir/formar/elaborar/responder; desenvolver o desencontro entre compreensão verbal e disponibilidade vivida; acompanhar circularidade com relações e condições; investigar o que se preserva e o que procura expressão; dar ao recurso a função de permitir outra experiência em relação à situação. Milgram e o metapadrão conservam contribuições localizadas. A linguagem espiritual e a finalidade da Tradução participam do raciocínio quando pertinentes, sem equivalência automática com explicações neurais.
 
-**Estado:** M2.4 v0.1 e seus artefatos são rascunhos em revisão substantiva. A inspeção visual e a igualdade entre notas e fontes permanecem verificações técnicas válidas, mas não sustentam prontidão para gravação. [[M2.4 - Prévia de conteúdo e contribuições v0.1]] preserva o encaminhamento e a reelaboração do núcleo. Esta revisão não declara a aula reconstruída apenas por ter registrado a crítica.
+**Estado:** M2.4 v0.1 e seus artefatos são rascunhos em revisão substantiva. A inspeção visual e a igualdade entre notas e fontes permanecem verificações técnicas válidas, com alcance técnico próprio. [[M2.4 - Prévia de conteúdo e contribuições v0.1]] preserva o encaminhamento e a reelaboração do núcleo. Esta revisão não declara a aula reconstruída apenas por ter registrado a crítica.
 
 ### M2.3 incluída: avaliação progressiva das quatro aulas
 
-Por solicitação posterior de Fabiano, foi recuperada pelo GitHub a fonte completa de M2.3 v0.1, commit `12f28e560a00a89fb0aefaa8bd76032c087cdd08`, blob `c3ee08be63b00ce0a7a6523ffea9fe684fdc8847`. A leitura não a trata como padrão perfeito nem como aula homologada. Esta seção registra avaliação editorial e encaminhamentos; os materiais nativos não foram reescritos por esta avaliação.
+Por solicitação posterior de Fabiano, foi recuperada pelo GitHub a fonte completa de M2.3 v0.1, commit `12f28e560a00a89fb0aefaa8bd76032c087cdd08`, blob `c3ee08be63b00ce0a7a6523ffea9fe684fdc8847`. A leitura não a trata como padrão perfeito como composição anterior. Esta seção registra avaliação editorial e encaminhamentos; os materiais nativos não foram reescritos por esta avaliação.
 
 | Aula e fonte avaliada | Aquisição que sustenta a seguinte | Resultado da comparação e ajuste |
 | --- | --- | --- |
@@ -45,11 +45,11 @@ Por solicitação posterior de Fabiano, foi recuperada pelo GitHub a fonte compl
 
 ### Alteração na base de construção, solicitada por Fabiano
 
-Fabiano pediu que essa redução não volte a ocorrer e que a correção atinja o repositório, centro da informação. A responsabilidade é do assistente que compõe e confere. Foram ajustadas as entradas já existentes — base autoral, ficha mínima do TSH, padrão de aulas, plano e posições de M2 no dossiê — para recuperar problema, raciocínio anterior, contribuições efetivas e aquisição nova antes da montagem. A orientação vale para a construção futura do TSH; a aplicação aqui descrita permanece verificável no produto, sem promessa de infalibilidade de qualquer IA. Não se cria formulário para Fabiano, relatório por aula nem outra cadeia de aprovação.
+Fabiano pediu que essa redução não volte a ocorrer e que a correção atinja o repositório, centro da informação. A responsabilidade é do assistente que compõe e confere. Foram ajustadas as entradas já existentes — base autoral, ficha mínima do TSH, padrão de aulas, plano e posições de M2 no dossiê — para recuperar problema, raciocínio anterior, contribuições efetivas e aquisição nova antes da montagem. A orientação vale para a construção futura do TSH e sua aplicação se verifica no produto, sem formulário ou relatório extra para Fabiano.
 
 Outro fator concreto era a acumulação de 66.692 caracteres na ficha chamada mínima, com decisões atuais, etapas anteriores e roteamento histórico misturados. Sua entrada foi consolidada sem mudar o caminho lido por AGENTS/CLAUDE. A versão anterior completa está em [[11a - Contexto TSH - Histórico integral até 22-11-2026]], com cópia do texto de origem conferida pelo SHA do blob. A entrada reduzida concentra decisões, composição, fontes por contribuição e estado atual, sem apagar o patrimônio. Essa dificuldade de recuperação contribui para a ambiguidade; não retira a responsabilidade do assistente pela composição.
 
-O registro desta correção não certifica sua execução nas aulas. M2.3 tem ajuste de integração indicado; M2.4 permanece em revisão substantiva. Clareza visual, correspondência entre arquivos, quantidade de fontes e aprovação de tópicos não substituem o exame do raciocínio e da prática. Os materiais atuais continuam preservados, com seus estados explícitos.
+O registro desta correção não certifica sua execução nas aulas. A integração indicada está aplicada em M2.3 v0.2; a reconstrução de M2.4 está aplicada na v0.2, descrita abaixo. Clareza visual, correspondência entre arquivos, quantidade de fontes e seleção de tópicos não substituem o exame do raciocínio e da prática. Os materiais atuais continuam preservados, com seus estados explícitos.
 
 ## Diagnóstico do problema de produção
 
@@ -226,4 +226,13 @@ Após integrar à main os registros anteriores pelo PR 88, foi executado o retra
 
 A nova composição retoma os dois tempos de M2.2, desenvolve a reciprocidade forma/elaboração na convicção (telas 2/4/6/7), relaciona conflito/absorção/disponibilidade às contribuições de Festinger e Erickson, recupera espelho/retorno do patrimônio e realiza uma exploração com forma inicial, investigação, comparação entre leitura e vivido e encerramento (17–21). As telas 22–24 diferenciam compreender/acessar/cultivar e preparam o problema de M2.4. O horizonte autoral participa dessa passagem. Não se equiparam os modelos nem se transforma todo desconforto em dissonância ou toda certeza em erro.
 
-Os materiais foram atualizados em correspondência: 24 telas/notas, guia de 25 páginas e apoio de seis páginas com duas figuras. Um ZIP reúne os seis arquivos finais. A inspeção técnica e visual está documentada; aprendizagem e adequação autoral não são certificadas por hashes ou aparência. O estado é revisão substantiva produzida para avaliação. M2.4 continua rascunho em revisão substantiva.
+Os materiais foram atualizados em correspondência: 24 telas/notas, guia de 25 páginas e apoio de seis páginas com duas figuras. Um ZIP reúne os seis arquivos finais. A inspeção técnica e visual está documentada; aprendizagem e adequação autoral não são certificadas por hashes ou aparência. A revisão M2.3 v0.2 preserva sua fonte completa. M2.4 recebeu a reconstrução descrita abaixo.
+
+
+## Aplicação da reconstrução em M2.4 v0.2 — 22/11/2026
+
+A composição de 29 passos foi reescrita a partir do conteúdo real de M2.1 v0.8, M2.2 v0.4 e M2.3 v0.2. A diferença entre revisão da compreensão e permanência do vivido organiza a abertura. Forma/elaboração, aprendizagem implícita, recursividade, função, expressão e condições relacionais sustentam as perguntas e a prática. Bion e Morin têm contribuições explicadas; Cozolino/Kahneman não são convertidos em anatomia dos Eus; Forghieri fundamenta envolvimento/reflexão. Os quatro passos recuperam a condução do acervo de hipnose e incluem comparação, elaboração, retorno e continuidade no encontro real. Milgram tem desenho e condição de 1963 distinguidos, sem generalizar uma porcentagem a todas as pessoas.
+
+Foram consultadas pelo GitHub as notas autorais pertinentes, as anotações OneNote de formação, passagens do TCC e da monografia transpessoal, a fotografia da escada e a nota-mãe e SVG do pêndulo/espiral. [[M2.4 - Apresentação editável v0.2]] conserva a relação fonte → contribuição → telas, além das fontes completas da montagem. Os 29 passos e as quatro partes das notas estão no guia. O apoio desenvolve o assunto diretamente ao aluno, retoma a prática e separa o aprofundamento opcional.
+
+Os registros de produção acompanham versões, arquivos, alterações e trabalho restante. Omitir campos, pendências e lembretes de aprovação para gravação.
