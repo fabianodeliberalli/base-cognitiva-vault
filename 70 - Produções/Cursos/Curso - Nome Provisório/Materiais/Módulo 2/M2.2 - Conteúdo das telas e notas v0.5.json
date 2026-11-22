@@ -1,0 +1,1520 @@
+{
+  "lesson": "M2.2",
+  "title": "Por que alguns sinais ganham mais importância?",
+  "nextTitle": "Interpretações e certezas:\nrecuperar outras pistas",
+  "nextCode": "M2.3",
+  "coverTitle": "Por que alguns sinais\nganham mais importância?",
+  "palette": {
+    "navy": "#082A45",
+    "blue": "#245E78",
+    "petroleum": "#173F52",
+    "copper": "#C99A64",
+    "beige": "#F4EFEA"
+  },
+  "canvas": {
+    "width": 1280,
+    "height": 720
+  },
+  "pageId": "page_e0e732d10d588191aa5e6499e932b50c",
+  "assets": {
+    "gold": "library-file:fde1_bGliZmlsZV9zQ2VtbTkwQ2pQMTh4WFdWNTVlcjdn_FileDrive_ad925f8fadbc81918eab9ef0eafee9a9",
+    "blue": "library-file:fde1_bGliZmlsZV9zWVhtSUtONUR6N2x4Zi1XT3IwazFB_FileDrive_ad925f8fadbc81918eab9ef0eafee9a9",
+    "symbolGold": "library-file:fde1_bGliZmlsZV9NRWxXSnpqbW9qdVdHbHIzZVFKSGFn_FileDrive_ad925f8fadbc81918eab9ef0eafee9a9"
+  },
+  "closeQuestion": "O que permitiria rever minha interpretação?",
+  "version": "0.5",
+  "format": "trilha de exposição livre com notas objetivas e uma frase por linha",
+  "visualStandard": "2.1",
+  "notePolicy": "notes é a representação integral para gravação: preservar frases, blocos e quebras de linha; não regenerar a partir da redação histórica v0.4",
+  "slides": [
+    {
+      "number": 1,
+      "title": "Por que alguns sinais ganham mais importância?",
+      "visual": "capa com pergunta e horizonte da aula",
+      "notes": "PARA COMEÇAR\nNa aula anterior, investigamos como se forma o que percebemos.\nAgora vamos acompanhar por que algumas coisas ganham peso nessa experiência, enquanto outras quase não encontram espaço.\n\nUma cobrança pode ocupar toda a atenção.\nUma vontade de criar pode ser importante e continuar discreta.\nVamos investigar como essas diferenças se formam e como podemos participar de sua elaboração.\n\nPARA SEGUIR\nEste é o caminho que vamos percorrer.",
+      "noteBlocks": [
+        {
+          "label": "PARA COMEÇAR",
+          "lines": [
+            "Na aula anterior, investigamos como se forma o que percebemos.",
+            "Agora vamos acompanhar por que algumas coisas ganham peso nessa experiência, enquanto outras quase não encontram espaço.",
+            "",
+            "Uma cobrança pode ocupar toda a atenção.",
+            "Uma vontade de criar pode ser importante e continuar discreta.",
+            "Vamos investigar como essas diferenças se formam e como podemos participar de sua elaboração.",
+            ""
+          ]
+        },
+        {
+          "label": "PARA SEGUIR",
+          "lines": [
+            "Este é o caminho que vamos percorrer."
+          ]
+        }
+      ],
+      "screenText": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "cover-label",
+          "text": "MÓDULO 2\nAULA 2"
+        },
+        {
+          "name": "cover-title",
+          "text": "Por que alguns sinais\nganham mais importância?"
+        },
+        {
+          "name": "presenter",
+          "text": "Fabiano Deliberalli"
+        },
+        {
+          "name": "official-subtitle",
+          "text": "Da compreensão acumulada\nà presença que sustenta"
+        }
+      ],
+      "imageReferences": [
+        null
+      ]
+    },
+    {
+      "number": 2,
+      "title": "O percurso desta aula",
+      "visual": "mapa com quatro regiões relacionadas, sem lista uniforme",
+      "notes": "O PERCURSO\nComeçamos distinguindo o que chama atenção, o que importa e aquilo que parece certo.\nDepois, acompanhamos como o vivido encontra forma e pode ser elaborado.\nOs dois tempos da Tradução e o mapa do Eu Básico e do Eu Médio nos ajudam a compreender esse diálogo.\n\nNa prática, vamos acompanhar a mesma questão com perguntas diferentes e comparar o que ganha destaque.\nAo final, levamos essa compreensão à vida e à Cartografia que já estamos construindo.\n\nPARA SEGUIR\nChamar atenção, importar e parecer certo podem acontecer juntos, mas cada um pede uma pergunta.",
+      "noteBlocks": [
+        {
+          "label": "O PERCURSO",
+          "lines": [
+            "Começamos distinguindo o que chama atenção, o que importa e aquilo que parece certo.",
+            "Depois, acompanhamos como o vivido encontra forma e pode ser elaborado.",
+            "Os dois tempos da Tradução e o mapa do Eu Básico e do Eu Médio nos ajudam a compreender esse diálogo.",
+            "",
+            "Na prática, vamos acompanhar a mesma questão com perguntas diferentes e comparar o que ganha destaque.",
+            "Ao final, levamos essa compreensão à vida e à Cartografia que já estamos construindo.",
+            ""
+          ]
+        },
+        {
+          "label": "PARA SEGUIR",
+          "lines": [
+            "Chamar atenção, importar e parecer certo podem acontecer juntos, mas cada um pede uma pergunta."
+          ]
+        }
+      ],
+      "screenText": [
+        {
+          "name": "course",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "O percurso desta aula"
+        },
+        {
+          "name": "footer",
+          "text": "M2.2 · 02 / 20"
+        },
+        {
+          "name": "route-attention",
+          "text": "O que ganha\ndestaque"
+        },
+        {
+          "name": "route-form",
+          "text": "Como o vivido\nencontra forma"
+        },
+        {
+          "name": "route-explore",
+          "text": "Explorar e\ncomparar"
+        },
+        {
+          "name": "route-life",
+          "text": "Elaborar e\ncontinuar na vida"
+        }
+      ],
+      "imageReferences": [
+        null
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Destaque, importância e certeza",
+      "visual": "contraste entre três funções, com centro comum e relações distintas",
+      "notes": "PARA COMEÇAR\nQuando algo chama muita atenção, quanto do que importa conseguimos reconhecer?\n\nIDEIAS PARA DESENVOLVER\nUma pessoa recebe uma cobrança de trabalho com a palavra “hoje” e já começa a se justificar.\nHá um prazo real a conferir, mas também podem participar o compromisso assumido, o receio de desapontar e a possibilidade de negociar.\n\nUma vontade de criar pode ter grande importância e aparecer discretamente.\nO destaque que algo recebe e o valor que tem em nossa vida precisam ser investigados em sua relação.\n\nA certeza aparece quando uma leitura parece resolvida.\nPodemos sentir essa convicção antes de conhecer bem o acordo ou a situação.\n\nO QUE ESTAMOS TRABALHANDO\nO que capturou minha atenção, por que isso importa e em que se apoia minha convicção?\nSeparar essas perguntas permite compreender melhor a mesma experiência.",
+      "noteBlocks": [
+        {
+          "label": "PARA COMEÇAR",
+          "lines": [
+            "Quando algo chama muita atenção, quanto do que importa conseguimos reconhecer?",
+            ""
+          ]
+        },
+        {
+          "label": "IDEIAS PARA DESENVOLVER",
+          "lines": [
+            "Uma pessoa recebe uma cobrança de trabalho com a palavra “hoje” e já começa a se justificar.",
+            "Há um prazo real a conferir, mas também podem participar o compromisso assumido, o receio de desapontar e a possibilidade de negociar.",
+            "",
+            "Uma vontade de criar pode ter grande importância e aparecer discretamente.",
+            "O destaque que algo recebe e o valor que tem em nossa vida precisam ser investigados em sua relação.",
+            "",
+            "A certeza aparece quando uma leitura parece resolvida.",
+            "Podemos sentir essa convicção antes de conhecer bem o acordo ou a situação.",
+            ""
+          ]
+        },
+        {
+          "label": "O QUE ESTAMOS TRABALHANDO",
+          "lines": [
+            "O que capturou minha atenção, por que isso importa e em que se apoia minha convicção?",
+            "Separar essas perguntas permite compreender melhor a mesma experiência."
+          ]
+        }
+      ],
+      "screenText": [
+        {
+          "name": "course",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "Destaque, importância e certeza"
+        },
+        {
+          "name": "footer",
+          "text": "M2.2 · 03 / 20"
+        },
+        {
+          "name": "attention",
+          "text": "Destaque"
+        },
+        {
+          "name": "importance",
+          "text": "Importância"
+        },
+        {
+          "name": "certainty",
+          "text": "Certeza"
+        },
+        {
+          "name": "q-attention",
+          "text": "O que capturou\nminha atenção?"
+        },
+        {
+          "name": "q-importance",
+          "text": "Por que isso\nimporta para mim?"
+        },
+        {
+          "name": "q-certainty",
+          "text": "Em que se apoia\nminha convicção?"
+        },
+        {
+          "name": "separate",
+          "text": "Uma mesma situação permite perguntas diferentes."
+        }
+      ],
+      "imageReferences": [
+        null
+      ]
+    },
+    {
+      "number": 4,
+      "title": "O que organiza a relevância",
+      "visual": "relações que se compõem ao redor de uma possibilidade",
+      "notes": "PARA COMEÇAR\nO organismo antecipa o que pode acontecer para se preparar e continuar a vida.\nEssa antecipação participa da sobrevivência, da aprendizagem e da agilidade com que respondemos ao conhecido.\n\nIDEIAS PARA DESENVOLVER\nO que aprendemos a esperar ajuda a organizar o que ganha importância agora.\nUm convite para falar em público pode despertar desejo de expressão e receio de exposição ao mesmo tempo.\nTambém há consequências reais a considerar, como uma avaliação profissional, a dependência financeira ou a confiança naquela relação.\n\nHistória, necessidades, valores e condições do encontro participam dessa preparação.\nA investigação é conferir como ela acompanha a situação atual e o que deixa menos visível.\nÀs vezes, reconhecemos depressa o que os outros esperam e quase não percebemos o que gostaríamos de propor.\n\nPARA SEGUIR\nComo informações do corpo e do ambiente participam dessa organização da atenção?",
+      "noteBlocks": [
+        {
+          "label": "PARA COMEÇAR",
+          "lines": [
+            "O organismo antecipa o que pode acontecer para se preparar e continuar a vida.",
+            "Essa antecipação participa da sobrevivência, da aprendizagem e da agilidade com que respondemos ao conhecido.",
+            ""
+          ]
+        },
+        {
+          "label": "IDEIAS PARA DESENVOLVER",
+          "lines": [
+            "O que aprendemos a esperar ajuda a organizar o que ganha importância agora.",
+            "Um convite para falar em público pode despertar desejo de expressão e receio de exposição ao mesmo tempo.",
+            "Também há consequências reais a considerar, como uma avaliação profissional, a dependência financeira ou a confiança naquela relação.",
+            "",
+            "História, necessidades, valores e condições do encontro participam dessa preparação.",
+            "A investigação é conferir como ela acompanha a situação atual e o que deixa menos visível.",
+            "Às vezes, reconhecemos depressa o que os outros esperam e quase não percebemos o que gostaríamos de propor.",
+            ""
+          ]
+        },
+        {
+          "label": "PARA SEGUIR",
+          "lines": [
+            "Como informações do corpo e do ambiente participam dessa organização da atenção?"
+          ]
+        }
+      ],
+      "screenText": [
+        {
+          "name": "course",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "O que organiza a relevância"
+        },
+        {
+          "name": "footer",
+          "text": "M2.2 · 04 / 20"
+        },
+        {
+          "name": "relevance",
+          "text": "O que ganha\nimportância"
+        },
+        {
+          "name": "history",
+          "text": "História e\nantecipação"
+        },
+        {
+          "name": "needs",
+          "text": "Necessidades"
+        },
+        {
+          "name": "values",
+          "text": "Valores e desejos"
+        },
+        {
+          "name": "conditions",
+          "text": "Vínculos e condições"
+        }
+      ],
+      "imageReferences": [
+        null
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Saliência e organização da atenção",
+      "visual": "duas escalas de investigação em relação, sem desenho cerebral pseudocientífico",
+      "notes": "PARA COMEÇAR\nNa neurociência, saliência nomeia o destaque que uma informação assume para o organismo.\n\nIDEIAS PARA DESENVOLVER\nPesquisas sobre a rede de saliência investigam sua participação na detecção de sinais relevantes e na orientação da atenção e da atividade.\nInformações do corpo e do ambiente entram nessa organização.\nEssa seleção permite orientar a resposta em meio a muitos sinais.\n\nPodemos investigar esse funcionamento e também perguntar como o encontro foi vivido.\nNa cobrança de trabalho, por exemplo, o destaque do prazo pode vir acompanhado de tensão, expectativa de crítica ou confiança de que é possível negociar.\nO sentido dessa experiência pede conhecer a pessoa, sua história e as condições da relação.\n\nO QUE ESTAMOS TRABALHANDO\nNo TSH, essas contribuições dialogam para tornar a experiência mais compreensível.\nVamos acompanhar agora como o vivido encontra forma e pode ser elaborado.",
+      "noteBlocks": [
+        {
+          "label": "PARA COMEÇAR",
+          "lines": [
+            "Na neurociência, saliência nomeia o destaque que uma informação assume para o organismo.",
+            ""
+          ]
+        },
+        {
+          "label": "IDEIAS PARA DESENVOLVER",
+          "lines": [
+            "Pesquisas sobre a rede de saliência investigam sua participação na detecção de sinais relevantes e na orientação da atenção e da atividade.",
+            "Informações do corpo e do ambiente entram nessa organização.",
+            "Essa seleção permite orientar a resposta em meio a muitos sinais.",
+            "",
+            "Podemos investigar esse funcionamento e também perguntar como o encontro foi vivido.",
+            "Na cobrança de trabalho, por exemplo, o destaque do prazo pode vir acompanhado de tensão, expectativa de crítica ou confiança de que é possível negociar.",
+            "O sentido dessa experiência pede conhecer a pessoa, sua história e as condições da relação.",
+            ""
+          ]
+        },
+        {
+          "label": "O QUE ESTAMOS TRABALHANDO",
+          "lines": [
+            "No TSH, essas contribuições dialogam para tornar a experiência mais compreensível.",
+            "Vamos acompanhar agora como o vivido encontra forma e pode ser elaborado."
+          ]
+        }
+      ],
+      "screenText": [
+        {
+          "name": "course",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "Saliência e organização da atenção"
+        },
+        {
+          "name": "footer",
+          "text": "M2.2 · 05 / 20"
+        },
+        {
+          "name": "shared",
+          "text": "O mesmo acontecimento"
+        },
+        {
+          "name": "organism",
+          "text": "Organismo e atenção"
+        },
+        {
+          "name": "org-question",
+          "text": "Como informações do corpo\ne do ambiente ganham destaque?"
+        },
+        {
+          "name": "lived",
+          "text": "Experiência e sentido"
+        },
+        {
+          "name": "lived-question",
+          "text": "Como esse encontro foi vivido?\nQue lugar assume nesta vida?"
+        },
+        {
+          "name": "scale-dialogue",
+          "text": "As perguntas se complementam na investigação."
+        }
+      ],
+      "imageReferences": [
+        null
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Os dois tempos da Tradução",
+      "visual": "movimento recíproco entre forma vivida e elaboração, com retorno",
+      "notes": "PARA COMEÇAR\nNa elaboração do TSH, os dois tempos da Tradução distinguem funções que se transformam mutuamente.\n\nIDEIAS PARA DESENVOLVER\nNo primeiro tempo, o que acontece ganha uma forma vivida, como sensação, imagem, memória ou disposição.\nAlgo já nos afeta, mesmo quando ainda é difícil explicar.\n\nNo segundo, procuramos elaborar essa experiência, encontrando palavras, relações, interpretações e possibilidades de escolha.\nAo dizer “estou inseguro”, por exemplo, reconhecemos alguma coisa e podemos continuar investigando o que essa palavra alcança.\n\nO movimento volta ao vivido.\nUma imagem pode surpreender nossa explicação, e uma palavra mais precisa pode modificar o que conseguimos sentir.\nEssas funções se entrelaçam, com pensamento desde o começo e expressão também por gestos.\n\nO QUE ESTAMOS TRABALHANDO\nEstamos acompanhando o diálogo entre uma experiência que ganha forma e o trabalho de compreendê-la.\nO mapa do Eu Básico e do Eu Médio oferece outra linguagem para investigar essa relação.",
+      "noteBlocks": [
+        {
+          "label": "PARA COMEÇAR",
+          "lines": [
+            "Na elaboração do TSH, os dois tempos da Tradução distinguem funções que se transformam mutuamente.",
+            ""
+          ]
+        },
+        {
+          "label": "IDEIAS PARA DESENVOLVER",
+          "lines": [
+            "No primeiro tempo, o que acontece ganha uma forma vivida, como sensação, imagem, memória ou disposição.",
+            "Algo já nos afeta, mesmo quando ainda é difícil explicar.",
+            "",
+            "No segundo, procuramos elaborar essa experiência, encontrando palavras, relações, interpretações e possibilidades de escolha.",
+            "Ao dizer “estou inseguro”, por exemplo, reconhecemos alguma coisa e podemos continuar investigando o que essa palavra alcança.",
+            "",
+            "O movimento volta ao vivido.",
+            "Uma imagem pode surpreender nossa explicação, e uma palavra mais precisa pode modificar o que conseguimos sentir.",
+            "Essas funções se entrelaçam, com pensamento desde o começo e expressão também por gestos.",
+            ""
+          ]
+        },
+        {
+          "label": "O QUE ESTAMOS TRABALHANDO",
+          "lines": [
+            "Estamos acompanhando o diálogo entre uma experiência que ganha forma e o trabalho de compreendê-la.",
+            "O mapa do Eu Básico e do Eu Médio oferece outra linguagem para investigar essa relação."
+          ]
+        }
+      ],
+      "screenText": [
+        {
+          "name": "course",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "Os dois tempos da Tradução"
+        },
+        {
+          "name": "footer",
+          "text": "M2.2 · 06 / 20"
+        },
+        {
+          "name": "lived-form",
+          "text": "O vivido\nencontra forma"
+        },
+        {
+          "name": "elaboration",
+          "text": "Elaborar\ne conferir"
+        },
+        {
+          "name": "forms",
+          "text": "Sensação, imagem,\nmemória, disposição"
+        },
+        {
+          "name": "elab-actions",
+          "text": "Nomear, relacionar,\ninterpretar, escolher"
+        },
+        {
+          "name": "reciprocity",
+          "text": "A elaboração transforma o sentir. A experiência pode surpreender a explicação."
+        }
+      ],
+      "imageReferences": [
+        null
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Eu Básico e Eu Médio",
+      "visual": "mapa relacional das funções, sem hierarquia infantilizante ou correspondência cerebral",
+      "notes": "PARA COMEÇAR\nMax Freedom Long propôs, na Huna moderna, um mapa espiritual das funções que chamou de Eu Básico, Eu Médio e Eu Superior.\nNo TSH, desenvolvo uma leitura desse mapa para acompanhar a experiência e sua Tradução.\n\nIDEIAS PARA DESENVOLVER\nO Eu Básico reúne sensibilidade corporal e afetiva, memória, imagens e respostas que podem acontecer antes de uma explicação consciente.\n“Básico” é o nome dessa função no mapa e inclui saberes refinados pela experiência.\n\nO Eu Médio raciocina, fala, interpreta e escolhe.\nNa descrição de Long, depende do Eu Básico para acessar a memória.\nIsso ajuda a investigar a relação entre o que reconhecemos de maneira vivida e o que conseguimos elaborar conscientemente.\n\nAo tocar shakuhachi, uma flauta japonesa de bambu, uma mudança no sopro ou no gesto pode modificar o som.\nEscutar essa diferença permite ajustar a maneira de tocar antes de explicar em palavras tudo que foi reconhecido.\nA elaboração pode ampliar a compreensão desse saber e participar dos próximos ajustes.\n\nPARA SEGUIR\nComo acompanhamos uma experiência que já se manifesta, mas ainda encontra pouca expressão em palavras?",
+      "noteBlocks": [
+        {
+          "label": "PARA COMEÇAR",
+          "lines": [
+            "Max Freedom Long propôs, na Huna moderna, um mapa espiritual das funções que chamou de Eu Básico, Eu Médio e Eu Superior.",
+            "No TSH, desenvolvo uma leitura desse mapa para acompanhar a experiência e sua Tradução.",
+            ""
+          ]
+        },
+        {
+          "label": "IDEIAS PARA DESENVOLVER",
+          "lines": [
+            "O Eu Básico reúne sensibilidade corporal e afetiva, memória, imagens e respostas que podem acontecer antes de uma explicação consciente.",
+            "“Básico” é o nome dessa função no mapa e inclui saberes refinados pela experiência.",
+            "",
+            "O Eu Médio raciocina, fala, interpreta e escolhe.",
+            "Na descrição de Long, depende do Eu Básico para acessar a memória.",
+            "Isso ajuda a investigar a relação entre o que reconhecemos de maneira vivida e o que conseguimos elaborar conscientemente.",
+            "",
+            "Ao tocar shakuhachi, uma flauta japonesa de bambu, uma mudança no sopro ou no gesto pode modificar o som.",
+            "Escutar essa diferença permite ajustar a maneira de tocar antes de explicar em palavras tudo que foi reconhecido.",
+            "A elaboração pode ampliar a compreensão desse saber e participar dos próximos ajustes.",
+            ""
+          ]
+        },
+        {
+          "label": "PARA SEGUIR",
+          "lines": [
+            "Como acompanhamos uma experiência que já se manifesta, mas ainda encontra pouca expressão em palavras?"
+          ]
+        }
+      ],
+      "screenText": [
+        {
+          "name": "course",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "Eu Básico e Eu Médio"
+        },
+        {
+          "name": "footer",
+          "text": "M2.2 · 07 / 20"
+        },
+        {
+          "name": "basic",
+          "text": "Eu Básico"
+        },
+        {
+          "name": "middle",
+          "text": "Eu Médio"
+        },
+        {
+          "name": "basic-functions",
+          "text": "Sensibilidade, memória,\nimagens e saber vivido"
+        },
+        {
+          "name": "middle-functions",
+          "text": "Raciocínio, linguagem,\ninterpretação e escolha"
+        },
+        {
+          "name": "map-origin",
+          "text": "Um mapa da Huna moderna de Max Freedom Long, na leitura desenvolvida no TSH."
+        }
+      ],
+      "imageReferences": [
+        null
+      ]
+    },
+    {
+      "number": 8,
+      "title": "A forma e o que ainda pede elaboração",
+      "visual": "forma aberta e expressão em elaboração, sem imagem prescrita para a prática",
+      "notes": "PARA COMEÇAR\nUma palavra conhecida pode reconhecer parte do que vivemos e ainda deixar diferenças importantes por elaborar.\n\nIDEIAS PARA DESENVOLVER\nQuando digo que o Eu Básico “chora, mas não sabe falar”, uso uma imagem para essa experiência que se manifesta pelo corpo, pelas imagens e pelo movimento.\nHá algo acontecendo, enquanto a frase capaz de expressá-lo ainda está se formando.\n\nPodemos chamar tudo de insegurança e, ao acompanhar o vivido, reconhecer também desejo, proteção ou esforço.\nUma imagem ou um gesto pode conservar qualidades que aquela primeira palavra ainda não alcança.\nO sentido se desenvolve com as associações da própria pessoa e com o que ela reconhece ao se aproximar dessa forma.\n\nQuem modela uma peça dá forma e percebe o que o material permite.\nAo procurar uma expressão, também reconhecemos diferenças que passam a orientar o próximo movimento.\nÉ esse diálogo que a imagem do artesão ajuda a compreender.\n\nPARA SEGUIR\nComo uma relação pode favorecer esse trabalho de dar forma e compreender?",
+      "noteBlocks": [
+        {
+          "label": "PARA COMEÇAR",
+          "lines": [
+            "Uma palavra conhecida pode reconhecer parte do que vivemos e ainda deixar diferenças importantes por elaborar.",
+            ""
+          ]
+        },
+        {
+          "label": "IDEIAS PARA DESENVOLVER",
+          "lines": [
+            "Quando digo que o Eu Básico “chora, mas não sabe falar”, uso uma imagem para essa experiência que se manifesta pelo corpo, pelas imagens e pelo movimento.",
+            "Há algo acontecendo, enquanto a frase capaz de expressá-lo ainda está se formando.",
+            "",
+            "Podemos chamar tudo de insegurança e, ao acompanhar o vivido, reconhecer também desejo, proteção ou esforço.",
+            "Uma imagem ou um gesto pode conservar qualidades que aquela primeira palavra ainda não alcança.",
+            "O sentido se desenvolve com as associações da própria pessoa e com o que ela reconhece ao se aproximar dessa forma.",
+            "",
+            "Quem modela uma peça dá forma e percebe o que o material permite.",
+            "Ao procurar uma expressão, também reconhecemos diferenças que passam a orientar o próximo movimento.",
+            "É esse diálogo que a imagem do artesão ajuda a compreender.",
+            ""
+          ]
+        },
+        {
+          "label": "PARA SEGUIR",
+          "lines": [
+            "Como uma relação pode favorecer esse trabalho de dar forma e compreender?"
+          ]
+        }
+      ],
+      "screenText": [
+        {
+          "name": "course",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "A forma e o que ainda pede elaboração"
+        },
+        {
+          "name": "footer",
+          "text": "M2.2 · 08 / 20"
+        },
+        {
+          "name": "forming",
+          "text": "Dar forma"
+        },
+        {
+          "name": "answering",
+          "text": "Perceber o que\na forma revela"
+        },
+        {
+          "name": "checking",
+          "text": "Encontrar uma expressão\ne conferir o que ela alcança"
+        }
+      ],
+      "imageReferences": [
+        null,
+        null
+      ]
+    },
+    {
+      "number": 9,
+      "title": "A relação ajuda a tornar pensável",
+      "visual": "campo relacional de acolher, dar forma e retornar à experiência",
+      "notes": "PARA COMEÇAR\nBion, um psicanalista, investigou como a experiência emocional ganha condições para ser pensada.\nChamou de função alfa o trabalho de transformar impressões sensoriais e emocionais em elementos com que podemos sonhar e pensar.\n\nIDEIAS PARA DESENVOLVER\nUma experiência pode chegar como confusão ou intensidade, sem uma forma que a pessoa consiga reconhecer bem.\nNa relação com alguém que escuta e ajuda a dar forma, ela pode encontrar condições para elaborar o que vive.\n\nUma pessoa diz “estou péssima” e, ao ser escutada, começa a diferenciar decepção, cansaço e desejo de apoio.\nA palavra oferecida pelo outro pode ajudar ou precisar de correção.\nO retorno à experiência permite conferir se a expressão corresponde ao que ela reconhece.\n\nNo TSH, essa contribuição dialoga com os dois tempos da Tradução.\nO encontro pode favorecer a passagem de algo difícil de organizar a uma expressão que a pessoa reconhece e consegue continuar elaborando.\nBion e os Três Eus oferecem contribuições de procedências próprias para essa investigação.\n\nPARA SEGUIR\nQuando uma forma aparece, o que ela permite compreender e quais perguntas continuam abertas?",
+      "noteBlocks": [
+        {
+          "label": "PARA COMEÇAR",
+          "lines": [
+            "Bion, um psicanalista, investigou como a experiência emocional ganha condições para ser pensada.",
+            "Chamou de função alfa o trabalho de transformar impressões sensoriais e emocionais em elementos com que podemos sonhar e pensar.",
+            ""
+          ]
+        },
+        {
+          "label": "IDEIAS PARA DESENVOLVER",
+          "lines": [
+            "Uma experiência pode chegar como confusão ou intensidade, sem uma forma que a pessoa consiga reconhecer bem.",
+            "Na relação com alguém que escuta e ajuda a dar forma, ela pode encontrar condições para elaborar o que vive.",
+            "",
+            "Uma pessoa diz “estou péssima” e, ao ser escutada, começa a diferenciar decepção, cansaço e desejo de apoio.",
+            "A palavra oferecida pelo outro pode ajudar ou precisar de correção.",
+            "O retorno à experiência permite conferir se a expressão corresponde ao que ela reconhece.",
+            "",
+            "No TSH, essa contribuição dialoga com os dois tempos da Tradução.",
+            "O encontro pode favorecer a passagem de algo difícil de organizar a uma expressão que a pessoa reconhece e consegue continuar elaborando.",
+            "Bion e os Três Eus oferecem contribuições de procedências próprias para essa investigação.",
+            ""
+          ]
+        },
+        {
+          "label": "PARA SEGUIR",
+          "lines": [
+            "Quando uma forma aparece, o que ela permite compreender e quais perguntas continuam abertas?"
+          ]
+        }
+      ],
+      "screenText": [
+        {
+          "name": "course",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "A relação ajuda a tornar pensável"
+        },
+        {
+          "name": "footer",
+          "text": "M2.2 · 09 / 20"
+        },
+        {
+          "name": "unformed",
+          "text": "Experiência\nainda difícil\nde organizar"
+        },
+        {
+          "name": "relational-work",
+          "text": "Escuta e\nelaboração"
+        },
+        {
+          "name": "thinkable",
+          "text": "Elementos para\nsonhar e pensar"
+        },
+        {
+          "name": "bion",
+          "text": "Bion: função alfa"
+        },
+        {
+          "name": "bion-question",
+          "text": "A expressão oferecida pode voltar à experiência e ser conferida."
+        }
+      ],
+      "imageReferences": [
+        null
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Forma, sentido e origem",
+      "visual": "três perguntas em torno da experiência, preservando suas diferenças",
+      "notes": "PARA COMEÇAR\nPodemos investigar como uma experiência aparece, o sentido que ganha e o que compreendemos sobre sua origem.\n\nIDEIAS PARA DESENVOLVER\nA forma diz respeito a como foi vivido, com suas qualidades de sensação, movimento, imagem ou palavra.\nO sentido se desenvolve na relação com a história e com a questão da pessoa.\nEle pode se ampliar durante a elaboração.\n\nA origem pede outra investigação.\nNo mapa dos Três Eus, o Eu Superior nomeia a dimensão espiritual com a qual se busca relação.\nNa leitura que desenvolvo no TSH, o Eu Básico dá forma ao que é captado, inclusive no contato espiritual, e o Eu Médio participa da elaboração consciente.\nAssim, uma experiência espiritual também pede trabalho de Tradução para se tornar compreensível e encontrar expressão na vida.\n\nReconhecer uma imagem e seu sentido conserva aberta a pergunta sobre sua procedência.\nVamos aprofundar esse discernimento em M2.5 e no módulo cinco.\n\nPARA SEGUIR\nQuando há dificuldade nesse percurso, em que passagem o trabalho precisa continuar?",
+      "noteBlocks": [
+        {
+          "label": "PARA COMEÇAR",
+          "lines": [
+            "Podemos investigar como uma experiência aparece, o sentido que ganha e o que compreendemos sobre sua origem.",
+            ""
+          ]
+        },
+        {
+          "label": "IDEIAS PARA DESENVOLVER",
+          "lines": [
+            "A forma diz respeito a como foi vivido, com suas qualidades de sensação, movimento, imagem ou palavra.",
+            "O sentido se desenvolve na relação com a história e com a questão da pessoa.",
+            "Ele pode se ampliar durante a elaboração.",
+            "",
+            "A origem pede outra investigação.",
+            "No mapa dos Três Eus, o Eu Superior nomeia a dimensão espiritual com a qual se busca relação.",
+            "Na leitura que desenvolvo no TSH, o Eu Básico dá forma ao que é captado, inclusive no contato espiritual, e o Eu Médio participa da elaboração consciente.",
+            "Assim, uma experiência espiritual também pede trabalho de Tradução para se tornar compreensível e encontrar expressão na vida.",
+            "",
+            "Reconhecer uma imagem e seu sentido conserva aberta a pergunta sobre sua procedência.",
+            "Vamos aprofundar esse discernimento em M2.5 e no módulo cinco.",
+            ""
+          ]
+        },
+        {
+          "label": "PARA SEGUIR",
+          "lines": [
+            "Quando há dificuldade nesse percurso, em que passagem o trabalho precisa continuar?"
+          ]
+        }
+      ],
+      "screenText": [
+        {
+          "name": "course",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "Forma, sentido e origem"
+        },
+        {
+          "name": "footer",
+          "text": "M2.2 · 10 / 20"
+        },
+        {
+          "name": "term-0",
+          "text": "Forma"
+        },
+        {
+          "name": "question-0",
+          "text": "Como apareceu?"
+        },
+        {
+          "name": "term-1",
+          "text": "Sentido"
+        },
+        {
+          "name": "question-1",
+          "text": "O que significa\nnesta vida?"
+        },
+        {
+          "name": "term-2",
+          "text": "Origem"
+        },
+        {
+          "name": "question-2",
+          "text": "Como compreendo\nsua procedência?"
+        },
+        {
+          "name": "discernment",
+          "text": "Uma forma e seu sentido ainda deixam perguntas sobre a origem."
+        }
+      ],
+      "imageReferences": [
+        null
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Reconhecer, expressar e comunicar",
+      "visual": "diferenças entre funções e condições, sem escada de capacidade",
+      "notes": "PARA COMEÇAR\nReconhecer uma experiência, encontrar uma expressão e escolher o que comunicar pedem trabalhos diferentes.\n\nIDEIAS PARA DESENVOLVER\nAlguém pode reconhecer o que vive e preferir reservar.\nPode encontrar uma imagem antes de uma palavra ou saber o que deseja e ter dificuldade para expressar isso numa relação.\nLocalizar essa diferença ajuda a escolher uma aproximação pertinente.\n\nNa psicologia, alexitimia é um conceito que inclui dificuldades de identificar e descrever sentimentos.\nUma experiência momentaneamente sem palavra oferece pouco para caracterizar uma pessoa.\n\nNa pesquisa sobre aprendizagem, inibição latente é a dificuldade de aprender uma nova associação com um sinal antes conhecido sem consequência.\nEla abre outra pergunta sobre a atenção e a aprendizagem do que parece irrelevante.\nPrecisamos distinguir essa questão de identificar um afeto ou conseguir comunicá-lo.\n\nO QUE ESTAMOS TRABALHANDO\nO que pede continuidade aqui, o acesso à experiência, sua forma, a elaboração ou as condições para expressá-la?\nA pergunta precisa ajuda mais do que atribuir o mesmo nome a dificuldades diferentes.",
+      "noteBlocks": [
+        {
+          "label": "PARA COMEÇAR",
+          "lines": [
+            "Reconhecer uma experiência, encontrar uma expressão e escolher o que comunicar pedem trabalhos diferentes.",
+            ""
+          ]
+        },
+        {
+          "label": "IDEIAS PARA DESENVOLVER",
+          "lines": [
+            "Alguém pode reconhecer o que vive e preferir reservar.",
+            "Pode encontrar uma imagem antes de uma palavra ou saber o que deseja e ter dificuldade para expressar isso numa relação.",
+            "Localizar essa diferença ajuda a escolher uma aproximação pertinente.",
+            "",
+            "Na psicologia, alexitimia é um conceito que inclui dificuldades de identificar e descrever sentimentos.",
+            "Uma experiência momentaneamente sem palavra oferece pouco para caracterizar uma pessoa.",
+            "",
+            "Na pesquisa sobre aprendizagem, inibição latente é a dificuldade de aprender uma nova associação com um sinal antes conhecido sem consequência.",
+            "Ela abre outra pergunta sobre a atenção e a aprendizagem do que parece irrelevante.",
+            "Precisamos distinguir essa questão de identificar um afeto ou conseguir comunicá-lo.",
+            ""
+          ]
+        },
+        {
+          "label": "O QUE ESTAMOS TRABALHANDO",
+          "lines": [
+            "O que pede continuidade aqui, o acesso à experiência, sua forma, a elaboração ou as condições para expressá-la?",
+            "A pergunta precisa ajuda mais do que atribuir o mesmo nome a dificuldades diferentes."
+          ]
+        }
+      ],
+      "screenText": [
+        {
+          "name": "course",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "Reconhecer, expressar e comunicar"
+        },
+        {
+          "name": "footer",
+          "text": "M2.2 · 11 / 20"
+        },
+        {
+          "name": "recognise",
+          "text": "Reconhecer"
+        },
+        {
+          "name": "express",
+          "text": "Expressar"
+        },
+        {
+          "name": "communicate",
+          "text": "Comunicar"
+        },
+        {
+          "name": "recognise-q",
+          "text": "O que consigo\nidentificar no vivido?"
+        },
+        {
+          "name": "express-q",
+          "text": "Que forma consigo\nencontrar para isso?"
+        },
+        {
+          "name": "communicate-q",
+          "text": "O que desejo e\nposso compartilhar?"
+        },
+        {
+          "name": "specific-difficulty",
+          "text": "Em qual passagem o trabalho precisa continuar?"
+        }
+      ],
+      "imageReferences": [
+        null
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Como a condução participa da experiência",
+      "visual": "relação entre orientação, atitude e abertura, com espaço para o que emerge",
+      "notes": "PARA COMEÇAR\nA maneira como uma prática é conduzida e como participamos dela influencia o que podemos reconhecer.\n\nIDEIAS PARA DESENVOLVER\nClaudio Naranjo, psiquiatra e pesquisador da meditação, examinou a intenção, o esforço, a atitude afetiva e a abertura ao que acontece na prática.\nSua contribuição nos convida a perceber como estamos praticando.\n\nUma imagem guiada oferece elementos para acompanhar.\nUma pergunta aberta permite encontrar formas ainda desconhecidas.\nEssas maneiras podem se combinar conforme o trabalho.\n\nTambém participam o tom de voz, a expectativa de acertar e a vontade de corresponder ou descobrir.\nNa experiência de hoje, vamos acompanhar como perguntas diferentes modificam o que fica em primeiro plano.\n\nPARA SEGUIR\nPrimeiro, vou mostrar o percurso da prática.\nDepois começamos juntos.",
+      "noteBlocks": [
+        {
+          "label": "PARA COMEÇAR",
+          "lines": [
+            "A maneira como uma prática é conduzida e como participamos dela influencia o que podemos reconhecer.",
+            ""
+          ]
+        },
+        {
+          "label": "IDEIAS PARA DESENVOLVER",
+          "lines": [
+            "Claudio Naranjo, psiquiatra e pesquisador da meditação, examinou a intenção, o esforço, a atitude afetiva e a abertura ao que acontece na prática.",
+            "Sua contribuição nos convida a perceber como estamos praticando.",
+            "",
+            "Uma imagem guiada oferece elementos para acompanhar.",
+            "Uma pergunta aberta permite encontrar formas ainda desconhecidas.",
+            "Essas maneiras podem se combinar conforme o trabalho.",
+            "",
+            "Também participam o tom de voz, a expectativa de acertar e a vontade de corresponder ou descobrir.",
+            "Na experiência de hoje, vamos acompanhar como perguntas diferentes modificam o que fica em primeiro plano.",
+            ""
+          ]
+        },
+        {
+          "label": "PARA SEGUIR",
+          "lines": [
+            "Primeiro, vou mostrar o percurso da prática.",
+            "Depois começamos juntos."
+          ]
+        }
+      ],
+      "screenText": [
+        {
+          "name": "course",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "Como a condução participa da experiência"
+        },
+        {
+          "name": "footer",
+          "text": "M2.2 · 12 / 20"
+        },
+        {
+          "name": "conduction",
+          "text": "Quem conduz"
+        },
+        {
+          "name": "experience",
+          "text": "Experiência"
+        },
+        {
+          "name": "participant",
+          "text": "Quem pratica"
+        },
+        {
+          "name": "offered",
+          "text": "Pergunta, voz,\ndireção e abertura"
+        },
+        {
+          "name": "brought",
+          "text": "Expectativas, esforço,\ncuriosidade e controle"
+        },
+        {
+          "name": "conduction-question",
+          "text": "Como estamos fazendo a prática?"
+        }
+      ],
+      "imageReferences": [
+        null
+      ]
+    },
+    {
+      "number": 13,
+      "title": "O percurso da prática",
+      "visual": "entrada da prática com direção e espaço visual aberto",
+      "notes": "APRESENTAÇÃO DA PRÁTICA\nVamos acompanhar uma mesma questão, reconhecer uma primeira expressão, experimentar duas perguntas e voltar ao conjunto.\nQueremos perceber como nossa participação modifica o que ganha importância e o que conseguimos elaborar.\n\nO registro pode ser feito por escrita, desenho ou gesto e permanecer apenas com você.\nA prática pode ser adaptada ou interrompida, conforme suas condições.\nSe estiver dirigindo, reserve a exploração para outro momento.\nVocê pode pausar o vídeo quando precisar de mais tempo.\n\nNa próxima tela, começamos pela escolha da questão.",
+      "noteBlocks": [
+        {
+          "label": "APRESENTAÇÃO DA PRÁTICA",
+          "lines": [
+            "Vamos acompanhar uma mesma questão, reconhecer uma primeira expressão, experimentar duas perguntas e voltar ao conjunto.",
+            "Queremos perceber como nossa participação modifica o que ganha importância e o que conseguimos elaborar.",
+            "",
+            "O registro pode ser feito por escrita, desenho ou gesto e permanecer apenas com você.",
+            "A prática pode ser adaptada ou interrompida, conforme suas condições.",
+            "Se estiver dirigindo, reserve a exploração para outro momento.",
+            "Você pode pausar o vídeo quando precisar de mais tempo.",
+            "",
+            "Na próxima tela, começamos pela escolha da questão."
+          ]
+        }
+      ],
+      "momento": "apresentação da prática",
+      "screenText": [
+        {
+          "name": "course",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "O percurso da prática"
+        },
+        {
+          "name": "footer",
+          "text": "M2.2 · 13 / 20"
+        },
+        {
+          "name": "practice-entry",
+          "text": "Primeira expressão\nDuas perguntas\nVolta ao conjunto"
+        },
+        {
+          "name": "practice-medium",
+          "text": "Escrita, desenho ou gesto\nRegistro pessoal"
+        },
+        {
+          "name": "return-present",
+          "text": "Começamos na próxima tela."
+        }
+      ],
+      "imageReferences": [
+        null
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Primeira expressão da questão",
+      "visual": "pergunta estável em campo aberto, sem figura que induza conteúdo",
+      "notes": "PRÁTICA — PRIMEIRA EXPRESSÃO\nAgora começamos.\nRetome a questão da aula anterior ou escolha uma que possa acompanhar neste momento.\nPode ser uma relação, uma possibilidade de criação ou algo que deseja desenvolver.\nSe a questão estiver intensa demais, escolha uma situação mais manejável.\n\nComo essa questão se apresenta agora?\nReconheça o que aparece, mesmo que ainda seja difícil explicar.\n\nPAUSA PARA PERCEBER\n\nEncontre uma expressão breve para o que reconheceu, por escrita, desenho ou gesto.\nGuarde esse primeiro registro para comparar depois.\n\nPAUSA PARA REGISTRAR",
+      "noteBlocks": [
+        {
+          "label": "PRÁTICA — PRIMEIRA EXPRESSÃO",
+          "lines": [
+            "Agora começamos.",
+            "Retome a questão da aula anterior ou escolha uma que possa acompanhar neste momento.",
+            "Pode ser uma relação, uma possibilidade de criação ou algo que deseja desenvolver.",
+            "Se a questão estiver intensa demais, escolha uma situação mais manejável.",
+            "",
+            "Como essa questão se apresenta agora?",
+            "Reconheça o que aparece, mesmo que ainda seja difícil explicar.",
+            ""
+          ]
+        },
+        {
+          "label": "PAUSA PARA PERCEBER",
+          "lines": [
+            "",
+            "Encontre uma expressão breve para o que reconheceu, por escrita, desenho ou gesto.",
+            "Guarde esse primeiro registro para comparar depois.",
+            ""
+          ]
+        },
+        {
+          "label": "PAUSA PARA REGISTRAR",
+          "lines": []
+        }
+      ],
+      "momento": "prática — primeira expressão",
+      "screenText": [
+        {
+          "name": "course",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "Primeira expressão da questão"
+        },
+        {
+          "name": "footer",
+          "text": "M2.2 · 14 / 20"
+        },
+        {
+          "name": "receive",
+          "text": "Como isso se apresenta\nagora?"
+        },
+        {
+          "name": "receive-support",
+          "text": "Uma forma breve,\nainda que incompleta."
+        }
+      ],
+      "imageReferences": [
+        null
+      ]
+    },
+    {
+      "number": 15,
+      "title": "O que cada pergunta destaca?",
+      "visual": "duas orientações comparáveis para a mesma questão, sem vencedora visual",
+      "notes": "PRÁTICA — PRIMEIRA PERGUNTA\nOlhe para a mesma questão.\nO que eu preciso resolver aqui?\nReconheça o que ganha destaque e registre.\n\nPAUSA PARA PERCEBER E REGISTRAR\n\nPRÁTICA — SEGUNDA PERGUNTA\nVolte à mesma questão com outra pergunta.\nQue possibilidade de vida procura expressão aqui?\nReconheça o que aparece e registre ao lado da primeira observação.\n\nPAUSA PARA PERCEBER E REGISTRAR",
+      "noteBlocks": [
+        {
+          "label": "PRÁTICA — PRIMEIRA PERGUNTA",
+          "lines": [
+            "Olhe para a mesma questão.",
+            "O que eu preciso resolver aqui?",
+            "Reconheça o que ganha destaque e registre.",
+            ""
+          ]
+        },
+        {
+          "label": "PAUSA PARA PERCEBER E REGISTRAR",
+          "lines": [
+            ""
+          ]
+        },
+        {
+          "label": "PRÁTICA — SEGUNDA PERGUNTA",
+          "lines": [
+            "Volte à mesma questão com outra pergunta.",
+            "Que possibilidade de vida procura expressão aqui?",
+            "Reconheça o que aparece e registre ao lado da primeira observação.",
+            ""
+          ]
+        },
+        {
+          "label": "PAUSA PARA PERCEBER E REGISTRAR",
+          "lines": []
+        }
+      ],
+      "momento": "prática — duas perguntas com pausas",
+      "screenText": [
+        {
+          "name": "course",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "O que cada pergunta destaca?"
+        },
+        {
+          "name": "footer",
+          "text": "M2.2 · 15 / 20"
+        },
+        {
+          "name": "question-one",
+          "text": "O que eu preciso\nresolver aqui?"
+        },
+        {
+          "name": "question-two",
+          "text": "Que possibilidade de vida\nprocura expressão aqui?"
+        }
+      ],
+      "imageReferences": [
+        null
+      ]
+    },
+    {
+      "number": 16,
+      "title": "Voltar ao conjunto e concluir",
+      "visual": "retorno ao conjunto e expressão revisável, com apoio pouco figurativo",
+      "notes": "PRÁTICA — VOLTAR AO CONJUNTO\nDeixe as duas perguntas em segundo plano e reencontre a questão como um conjunto.\nO que apareceu e o que ficou fora?\nCompare com a primeira expressão que registrou.\n\nPAUSA PARA CONFERIR\n\nEncontre uma expressão que comporte o que reconhece agora ou conserve a pergunta que permanece aberta.\n\nPAUSA PARA REGISTRAR\n\nCONCLUSÃO DA PRÁTICA\nDeixe a questão de lado.\nReconheça o ambiente e o momento presente.\nRetome seus movimentos e sua atividade.",
+      "noteBlocks": [
+        {
+          "label": "PRÁTICA — VOLTAR AO CONJUNTO",
+          "lines": [
+            "Deixe as duas perguntas em segundo plano e reencontre a questão como um conjunto.",
+            "O que apareceu e o que ficou fora?",
+            "Compare com a primeira expressão que registrou.",
+            ""
+          ]
+        },
+        {
+          "label": "PAUSA PARA CONFERIR",
+          "lines": [
+            "",
+            "Encontre uma expressão que comporte o que reconhece agora ou conserve a pergunta que permanece aberta.",
+            ""
+          ]
+        },
+        {
+          "label": "PAUSA PARA REGISTRAR",
+          "lines": [
+            ""
+          ]
+        },
+        {
+          "label": "CONCLUSÃO DA PRÁTICA",
+          "lines": [
+            "Deixe a questão de lado.",
+            "Reconheça o ambiente e o momento presente.",
+            "Retome seus movimentos e sua atividade."
+          ]
+        }
+      ],
+      "momento": "prática — conferência e conclusão",
+      "screenText": [
+        {
+          "name": "course",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "Voltar ao conjunto e concluir"
+        },
+        {
+          "name": "footer",
+          "text": "M2.2 · 16 / 20"
+        },
+        {
+          "name": "reopen",
+          "text": "O que apareceu?\nO que ficou fora?"
+        },
+        {
+          "name": "return-to-whole",
+          "text": "Voltar ao conjunto.\nEncontrar uma expressão\nque comporte o reconhecido."
+        }
+      ],
+      "imageReferences": [
+        null
+      ]
+    },
+    {
+      "number": 17,
+      "title": "O que ganhou importância?",
+      "visual": "comparação do registro inicial com a elaboração, preservando diferenças e dúvidas",
+      "notes": "ELABORAÇÃO DA EXPERIÊNCIA\nAo comparar os registros, o que ganhou importância?\nO que mudou entre a primeira expressão, as duas perguntas e a volta ao conjunto?\n\nA pergunta sobre resolver pode ter mostrado uma exigência real ou uma proteção conhecida.\nA pergunta sobre uma possibilidade de vida pode ter dado lugar a um desejo ou mostrado que uma solução prática precisa vir primeiro.\nO vivido pode também ter trazido algo que nenhuma das perguntas alcançava bem.\n\nUma parte talvez já pedisse atenção, enquanto outra ganhou destaque pela própria orientação da prática.\nReconhecer essa participação ajuda a elaborar a diferença percebida e o que continua em aberto.\nSe nenhuma mudança ficou clara, isso também pode permanecer no registro.\n\nPARA SEGUIR\nQue condição permitiria continuar essa investigação na sua vida?",
+      "noteBlocks": [
+        {
+          "label": "ELABORAÇÃO DA EXPERIÊNCIA",
+          "lines": [
+            "Ao comparar os registros, o que ganhou importância?",
+            "O que mudou entre a primeira expressão, as duas perguntas e a volta ao conjunto?",
+            "",
+            "A pergunta sobre resolver pode ter mostrado uma exigência real ou uma proteção conhecida.",
+            "A pergunta sobre uma possibilidade de vida pode ter dado lugar a um desejo ou mostrado que uma solução prática precisa vir primeiro.",
+            "O vivido pode também ter trazido algo que nenhuma das perguntas alcançava bem.",
+            "",
+            "Uma parte talvez já pedisse atenção, enquanto outra ganhou destaque pela própria orientação da prática.",
+            "Reconhecer essa participação ajuda a elaborar a diferença percebida e o que continua em aberto.",
+            "Se nenhuma mudança ficou clara, isso também pode permanecer no registro.",
+            ""
+          ]
+        },
+        {
+          "label": "PARA SEGUIR",
+          "lines": [
+            "Que condição permitiria continuar essa investigação na sua vida?"
+          ]
+        }
+      ],
+      "momento": "elaboração da experiência",
+      "screenText": [
+        {
+          "name": "course",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "O que ganhou importância?"
+        },
+        {
+          "name": "footer",
+          "text": "M2.2 · 17 / 20"
+        },
+        {
+          "name": "first",
+          "text": "Primeira forma"
+        },
+        {
+          "name": "questions",
+          "text": "Duas perguntas"
+        },
+        {
+          "name": "return",
+          "text": "Volta ao conjunto"
+        },
+        {
+          "name": "after-comparison",
+          "text": "O que ganhou importância?\nO que ainda continua em aberto?"
+        },
+        {
+          "name": "continuity",
+          "text": "Que condição permitiria continuar?"
+        }
+      ],
+      "imageReferences": [
+        null
+      ]
+    },
+    {
+      "number": 18,
+      "title": "O que a compreensão permite fazer agora?",
+      "visual": "contraste entre demanda e possibilidade, com relações internas preservadas",
+      "notes": "PARA COMEÇAR\nO que a compreensão permite fazer depende do que aquela experiência pede.\n\nIDEIAS PARA DESENVOLVER\nUma pessoa recebe uma cobrança de trabalho e responde antes de verificar se pode atender.\nAo investigar, pode reconhecer o compromisso e o desejo de contribuir, junto da exaustão e da necessidade de um limite.\nIsso pode mudar o que precisa ser negociado e a resposta que consegue construir.\n\nOutra pessoa deseja dançar e acompanha cada sinal de julgamento.\nCompreender a proteção pode ajudá-la a reconhecer o que precisa de apoio e o que ainda deseja desenvolver para participar.\n\nO próximo passo pode envolver uma conversa, uma aprendizagem ou uma mudança nas condições do encontro.\nNo TSH, reconhecer o vivido favorece a integração e a expressão de possibilidades da Essência nas condições concretas da singularidade.\n\nPARA SEGUIR\nVamos conservar essa compreensão na Cartografia para poder retomá-la.",
+      "noteBlocks": [
+        {
+          "label": "PARA COMEÇAR",
+          "lines": [
+            "O que a compreensão permite fazer depende do que aquela experiência pede.",
+            ""
+          ]
+        },
+        {
+          "label": "IDEIAS PARA DESENVOLVER",
+          "lines": [
+            "Uma pessoa recebe uma cobrança de trabalho e responde antes de verificar se pode atender.",
+            "Ao investigar, pode reconhecer o compromisso e o desejo de contribuir, junto da exaustão e da necessidade de um limite.",
+            "Isso pode mudar o que precisa ser negociado e a resposta que consegue construir.",
+            "",
+            "Outra pessoa deseja dançar e acompanha cada sinal de julgamento.",
+            "Compreender a proteção pode ajudá-la a reconhecer o que precisa de apoio e o que ainda deseja desenvolver para participar.",
+            "",
+            "O próximo passo pode envolver uma conversa, uma aprendizagem ou uma mudança nas condições do encontro.",
+            "No TSH, reconhecer o vivido favorece a integração e a expressão de possibilidades da Essência nas condições concretas da singularidade.",
+            ""
+          ]
+        },
+        {
+          "label": "PARA SEGUIR",
+          "lines": [
+            "Vamos conservar essa compreensão na Cartografia para poder retomá-la."
+          ]
+        }
+      ],
+      "screenText": [
+        {
+          "name": "course",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "O que a compreensão permite fazer agora?"
+        },
+        {
+          "name": "footer",
+          "text": "M2.2 · 18 / 20"
+        },
+        {
+          "name": "demand",
+          "text": "Uma demanda que chega"
+        },
+        {
+          "name": "demand-question",
+          "text": "Compromisso e limite\nO que precisa ser negociado?"
+        },
+        {
+          "name": "possibility",
+          "text": "Uma possibilidade que procura espaço"
+        },
+        {
+          "name": "possibility-question",
+          "text": "Desejo e proteção\nO que precisa ser desenvolvido?"
+        },
+        {
+          "name": "action",
+          "text": "A continuidade depende do que a experiência pede."
+        }
+      ],
+      "imageReferences": [
+        null
+      ]
+    },
+    {
+      "number": 19,
+      "title": "A Cartografia conserva o percurso",
+      "visual": "quatro campos conhecidos com acréscimos específicos desta aula",
+      "notes": "A CARTOGRAFIA\nNa Situação, conserve a questão e seu contexto.\nNa Manifestação, registre a primeira expressão e uma diferença percebida durante o percurso.\n\nNa Tradução provisória, escreva o que compreendeu sobre a importância da questão e em que essa leitura se apoia.\nInclua o que ainda não consegue distinguir.\n\nNa Orientação possível, registre uma condição ou um próximo passo que permita continuar.\nPode ser informação, prática, conversa, aprendizagem ou apoio.\nOs mesmos campos passam a conservar a elaboração desta aula e continuam abertos ao que a vida acrescentar.",
+      "noteBlocks": [
+        {
+          "label": "A CARTOGRAFIA",
+          "lines": [
+            "Na Situação, conserve a questão e seu contexto.",
+            "Na Manifestação, registre a primeira expressão e uma diferença percebida durante o percurso.",
+            "",
+            "Na Tradução provisória, escreva o que compreendeu sobre a importância da questão e em que essa leitura se apoia.",
+            "Inclua o que ainda não consegue distinguir.",
+            "",
+            "Na Orientação possível, registre uma condição ou um próximo passo que permita continuar.",
+            "Pode ser informação, prática, conversa, aprendizagem ou apoio.",
+            "Os mesmos campos passam a conservar a elaboração desta aula e continuam abertos ao que a vida acrescentar."
+          ]
+        }
+      ],
+      "screenText": [
+        {
+          "name": "course",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "A Cartografia conserva o percurso"
+        },
+        {
+          "name": "footer",
+          "text": "M2.2 · 19 / 20"
+        },
+        {
+          "name": "record-title-0",
+          "text": "Situação"
+        },
+        {
+          "name": "record-body-0",
+          "text": "Questão e contexto"
+        },
+        {
+          "name": "record-title-1",
+          "text": "Manifestação"
+        },
+        {
+          "name": "record-body-1",
+          "text": "Primeira expressão e diferenças reconhecidas"
+        },
+        {
+          "name": "record-title-2",
+          "text": "Tradução provisória"
+        },
+        {
+          "name": "record-body-2",
+          "text": "O que compreendi e em que isso se apoia"
+        },
+        {
+          "name": "record-title-3",
+          "text": "Orientação possível"
+        },
+        {
+          "name": "record-body-3",
+          "text": "Uma condição para continuar"
+        }
+      ],
+      "imageReferences": [
+        null
+      ]
+    },
+    {
+      "number": 20,
+      "title": "Quando uma leitura se torna certeza?",
+      "visual": "síntese e ponte para M2.3, sem nova lista de conceitos",
+      "notes": "FECHAMENTO\nHoje distinguimos o que chama atenção, o que importa e o que parece certo.\nAcompanhamos como o vivido encontra forma e como sua elaboração modifica o que conseguimos reconhecer e expressar.\n\nNa prática, investigamos a participação das perguntas e o que o retorno ao conjunto acrescenta às primeiras leituras.\nEssa compreensão pode orientar uma participação mais pertinente na vida e o cultivo de possibilidades ainda pouco desenvolvidas.\n\nPARA SEGUIR\nNa próxima aula, vamos investigar como uma leitura se torna certeza e o que permite recuperar outras pistas para conferi-la.",
+      "noteBlocks": [
+        {
+          "label": "FECHAMENTO",
+          "lines": [
+            "Hoje distinguimos o que chama atenção, o que importa e o que parece certo.",
+            "Acompanhamos como o vivido encontra forma e como sua elaboração modifica o que conseguimos reconhecer e expressar.",
+            "",
+            "Na prática, investigamos a participação das perguntas e o que o retorno ao conjunto acrescenta às primeiras leituras.",
+            "Essa compreensão pode orientar uma participação mais pertinente na vida e o cultivo de possibilidades ainda pouco desenvolvidas.",
+            ""
+          ]
+        },
+        {
+          "label": "PARA SEGUIR",
+          "lines": [
+            "Na próxima aula, vamos investigar como uma leitura se torna certeza e o que permite recuperar outras pistas para conferi-la."
+          ]
+        }
+      ],
+      "screenText": [
+        {
+          "name": "course",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "Quando uma leitura se torna certeza?"
+        },
+        {
+          "name": "footer",
+          "text": "M2.2 · 20 / 20"
+        },
+        {
+          "name": "close-question",
+          "text": "O que permitiria rever\nminha interpretação?"
+        },
+        {
+          "name": "next-label",
+          "text": "PRÓXIMA AULA · M2.3"
+        },
+        {
+          "name": "next-title",
+          "text": "Interpretações e certezas:\nrecuperar outras pistas"
+        }
+      ],
+      "imageReferences": [
+        null
+      ]
+    }
+  ],
+  "editorialChoices": [
+    {
+      "source": "Informação de Fabiano neste chat",
+      "decision": "O instrumento tocado pelo autor é o shakuhachi; não presumir violão nem inventar episódio autobiográfico.",
+      "application": "Uma retomada musical na tela 7 relaciona escuta, sopro, gesto e elaboração. O instrumento é apoio visual específico do exemplo de perceber e agir em M2.1; não repetir por toda aula."
+    }
+  ],
+  "visualAssets": {
+    "potter": "library-file:fde1_bGliZmlsZV81Z3ZRTW9nRkNaRWN3b1ZPNW1aS2JR_FileDrive_ad925f8fadbc81918eab9ef0eafee9a9"
+  },
+  "productionStandard": "2.7",
+  "sourceVersion": "0.4",
+  "changeScope": "Revisão das 20 notas; antecipação adaptativa; apresentação da prática separada da realização; interpretação após exploração; títulos e rótulos de apoio ajustados, imagens e diagramas preservados.",
+  "sourceRecovery": [
+    {
+      "path": "20 - Notas Conceituais/Mapa Funcional Transversal dos Três Eus.md",
+      "sha": "ce9c891ef490614a5c1efb0e37d4c8b24732ebac",
+      "scope": "genealogia, memória e funções dos Três Eus"
+    },
+    {
+      "path": "20 - Notas Conceituais/O Límbico como Porta - Eu Básico, Bion e Morin no TSH.md",
+      "sha": "2cbb3cee29fc8335dd96990bd15e1ba12e264068",
+      "scope": "formação da forma, Bion e elaboração emocional"
+    },
+    {
+      "path": "20 - Notas Conceituais/Tradução da Experiência Humana.md",
+      "sha": "7a6f4e19f8dbc1e97dca063e8c78b070d1d113ae",
+      "scope": "Tradução, sentido, origem e finalidade formativa"
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/Meditação Psicoterapia e Música/00 - Naranjo - Consulta e Destinos nas Aulas.md",
+      "sha": "c337517ab220f3cd0d8deaa7cc39703761d5d13f",
+      "scope": "atitude, intenção e condução da prática"
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 2/M2.1 - Conteúdo das telas e notas v0.8.json",
+      "sha": "66b55f1e4823163bf663d847eb536347747d3a10",
+      "scope": "progressão real a partir de M2.1"
+    }
+  ],
+  "researchReferences": [
+    {
+      "title": "Menon, V.; Uddin, L. Q. (2010). Saliency, switching, attention and control: a network model of insula function.",
+      "doi": "10.1007/s00429-010-0262-0",
+      "url": "https://doi.org/10.1007/s00429-010-0262-0",
+      "scope": "seleção de sinais relevantes, atenção e atividade; não equivale a uma explicação do sentido pessoal"
+    },
+    {
+      "title": "Clark, A. (2013). The many faces of precision.",
+      "doi": "10.3389/fpsyg.2013.00270",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00270/full",
+      "scope": "predição adaptativa e contexto; retomada breve, sem novo bloco neurobiológico"
+    }
+  ],
+  "nativeSequence": 9,
+  "screenChanges": [
+    {
+      "slide": 4,
+      "shape": "history",
+      "text": "História e\nantecipação",
+      "fontSize": 26
+    },
+    {
+      "slide": 13,
+      "shape": "headline",
+      "text": "O percurso da prática"
+    },
+    {
+      "slide": 13,
+      "shape": "practice-entry",
+      "text": "Primeira expressão\nDuas perguntas\nVolta ao conjunto",
+      "position": {
+        "left": 662,
+        "top": 276,
+        "width": 520,
+        "height": 164
+      }
+    },
+    {
+      "slide": 13,
+      "shape": "practice-medium",
+      "text": "Escrita, desenho ou gesto\nRegistro pessoal",
+      "position": {
+        "left": 662,
+        "top": 470,
+        "width": 520,
+        "height": 74
+      }
+    },
+    {
+      "slide": 13,
+      "shape": "return-present",
+      "text": "Começamos na próxima tela."
+    },
+    {
+      "slide": 14,
+      "shape": "headline",
+      "text": "Primeira expressão da questão"
+    },
+    {
+      "slide": 15,
+      "shape": "headline",
+      "text": "O que cada pergunta destaca?"
+    },
+    {
+      "slide": 16,
+      "shape": "headline",
+      "text": "Voltar ao conjunto e concluir"
+    }
+  ]
+}

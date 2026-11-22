@@ -11,7 +11,7 @@ arquitetura_atual: nove módulos e 59 aulas
 
 ## Forma de trabalho
 
-O modelo adotado em M2.1 é a trilha para exposição livre, com visão inicial do percurso, passos visuais e notas em **PARA COMEÇAR / IDEIAS PARA DESENVOLVER / O QUE ESTAMOS TRABALHANDO / PARA SEGUIR**. [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] v2.6 e [[13 - Base de Produção Autoral e Didática - Fabiano Deliberalli]] v1.4 orientam a aplicação. A clareza torna ensinável a densidade autoral e dos fundamentos. M0 é acolhimento e não determina o nível das aulas seguintes.
+O modelo adotado em M2.1 é a trilha para exposição livre, com visão inicial e passos visuais. Os quatro campos de notas orientam a exposição conforme sua função; na realização de práticas, usar momentos reconhecíveis e instruções diretas. Uma frase completa por linha e espaço entre blocos facilitam a consulta, com objetividade que preserva fundamentos, articulações e retomadas didáticas úteis. [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] v2.7 e [[13 - Base de Produção Autoral e Didática - Fabiano Deliberalli]] v1.5 orientam a aplicação. A clareza torna ensinável a densidade autoral e dos fundamentos. M0 é acolhimento e não determina o nível das aulas seguintes.
 
 Os registros de produção acompanham versões, arquivos, alterações e trabalho restante. Omitir campos, pendências e lembretes de aprovação para gravação.
 
@@ -20,14 +20,14 @@ Os registros de produção acompanham versões, arquivos, alterações e trabalh
 | Aula | Ponto atual de recuperação |
 | --- | --- |
 | M2.1 | [[M2.1 - Trilha de exposição v0.8]] e [[M2.1 - Apresentação editável v0.8]]: 20 telas; sequência nativa 14; guia Word/PDF de 21 páginas, versão 3; apoio Word/PDF de quatro páginas, versão 5. O apoio versão 4 permanece como exemplar preservado. |
-| M2.2 | [[M2.2 - Trilha de exposição v0.4]] e [[M2.2 - Apresentação editável v0.4]]: 20 telas; sequência nativa 7; guia Word/PDF de 21 páginas; apoio Word/PDF versão 3, quatro páginas. |
+| M2.2 | [[M2.2 - Trilha de exposição v0.5]] e [[M2.2 - Apresentação editável v0.5]]: 20 telas com notas revisadas; sequência nativa 9. Objetividade, uma frase por linha, antecipação adaptativa e condução separada da apresentação. Guia v0.4 preserva notas anteriores; notas atuais na apresentação/trilha v0.5. Apoio Word/PDF versão 3, quatro páginas, preservado. |
 | M2.3 | [[M2.3 - Trilha de exposição v0.2]] e [[M2.3 - Apresentação editável v0.2]]: 24 telas/notas; sequência nativa 5; guia de 25 páginas e apoio de seis páginas. Slides, PDFs e documentos reunidos em ZIP. V0.1 permanece histórica. |
 | M2.4 | [[M2.4 - Trilha de exposição v0.2]] e [[M2.4 - Apresentação editável v0.2]]: reconstrução de 29 telas/notas, guia de 30 páginas, apoio autônomo e ZIP com os seis arquivos. V0.1 conserva a composição anterior e o diagnóstico de redução. |
 | M2.5–M2.6 e M3–M8 | Orientação estrutural no dossiê; novos roteiros e suportes integrais ainda a compor nesta frente. |
 
 ## Aprendizado da gravação M2.1 — 22/11/2026
 
-Fabiano enviou a [gravação M2.1, 37min56s](https://chatgpt.com/library?file_id=libfile_fde3_f-ef41abcc15cc8191bcc22248f18e9e7c_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal) e explicou que a dificuldade de consultar notas confusas e repetidas contribuiu para comentários de preenchimento e para a mistura de apresentação e realização da prática. O padrão v2.6 substitui o exemplar ambíguo por um exemplo editorial com momentos reconhecíveis e condução breve. A base autoral v1.4 e a ficha atual localizam essa correção; o plano de M2 v0.9 indica a aplicação às telas 13–16 de M2.2 e os destinos da ampliação adaptativa da predição. Esses registros atualizam a orientação e não representam regeneração dos slides/guias já entregues.
+Fabiano enviou a [gravação M2.1, 37min56s](https://chatgpt.com/library?file_id=libfile_fde3_f-ef41abcc15cc8191bcc22248f18e9e7c_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal) e explicou que a dificuldade de consultar notas confusas e repetidas contribuiu para comentários de preenchimento e para a mistura de apresentação e realização da prática. O padrão v2.6 substitui o exemplar ambíguo por um exemplo editorial com momentos reconhecíveis e condução breve. A base autoral v1.4 e a ficha atual localizam essa correção; o plano de M2 v0.9 indica a aplicação às telas 13–16 de M2.2 e os destinos da ampliação adaptativa da predição. Esses registros inicialmente atualizaram a orientação. A aplicação posterior está em M2.2 v0.5: as 20 notas foram revistas, com uma frase por linha; as telas 13–17 distinguem apresentação, realização, pausas, conclusão e elaboração; a tela 4 inclui a antecipação adaptativa. A apresentação nativa foi salva e conferida na sequência 9. O guia v0.4 conserva a redação anterior; as notas atuais estão na apresentação e na trilha v0.5.
 
 ## Progressão efetiva
 

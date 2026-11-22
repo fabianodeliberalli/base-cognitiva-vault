@@ -372,7 +372,7 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 #### M2.2 — Por que alguns sinais ganham mais importância?
 **Origem:** M2.2. **Capacidade:** Reconstruída: relevância, forma simbólica e os dois tempos da Tradução.
 
-**Experiência:** [[M2.2 - Trilha de exposição v0.4]], produzida para avaliação. Receber uma forma, orientar conscientemente a investigação e reabrir a escuta; comparar o que ganhou importância. Eu Básico/Eu Médio, Bion e Naranjo operam na leitura. O roteiro integral v0.2 é histórico; a adaptação do dedo permanece fora desta composição, sem excluir a prática original do acervo.
+**Experiência:** [[M2.2 - Trilha de exposição v0.5]] e [[M2.2 - Apresentação editável v0.5]]. Receber uma forma, orientar conscientemente a investigação e reabrir a escuta; comparar o que ganhou importância. Eu Básico/Eu Médio, Bion e Naranjo operam na leitura. A revisão aplica objetividade com profundidade, uma frase por linha nas notas e distinção entre apresentar o percurso, realizar com pausas e elaborar a experiência. A antecipação inclui sua função adaptativa. O roteiro integral v0.2 e as notas v0.4 são históricos; a adaptação do dedo permanece fora desta composição, sem excluir a prática original do acervo.
 
 **O que observar:** Diferencia destaque, importância e certeza; acompanha forma e elaboração e reconhece como a pergunta dirigida participa do que ganha relevância.
 

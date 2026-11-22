@@ -2,7 +2,7 @@
 tipo: plano-de-producao
 projeto: Traduzindo o Ser Humano
 modulo: M2
-versao: "0.9"
+versao: "0.10"
 data: 2026-11-22
 status: revisao-substantiva
 arquitetura: nove-modulos-59-aulas
@@ -12,7 +12,7 @@ arquitetura: nove-modulos-59-aulas
 
 Revisão solicitada por Fabiano para recuperar a profundidade de suas práticas, literatura e elaborações. M2 desenvolve a constituição da experiência, a relevância e a simbolização, a experiência de certeza, a repetição, a distinção entre vivido/sentido/origem e a Tradução recursiva. As cenas funcionam como aplicação e não como substituição dos fundamentos.
 
-M2.1 e M2.2 têm trilhas atuais produzidas para avaliação: v0.8 e v0.4, respectivamente, ambas com 20 telas e notas naturais de quatro campos, conforme o padrão v2.6. [[00 - Estado e Continuidade da Produção M2]] localiza apresentações, guias e apoios. M2.3 v0.2 tem revisão substantiva produzida para avaliação: 24 telas, guia, apoio e kit único; v0.1 permanece histórica. M2.4 v0.2 reconstrói a montagem anterior com 29 telas/notas, guia, apoio e kit único; o diagnóstico da v0.1 continua recuperável. M2.5–M2.6 mantêm orientação estrutural e aguardam composição final. O percurso conserva seis aulas, com Cartografia comum e estudo assíncrono suficiente. O encontro ao vivo conserva seu planejamento sem confirmação de execução.
+M2.1 e M2.2 têm trilhas atuais v0.8 e v0.5, respectivamente, ambas com 20 telas. M2.2 v0.5 aplica o padrão v2.7 às notas e à condução: uma frase por linha, objetividade com densidade e distinção entre apresentar a prática, realizá-la e elaborar a experiência. [[00 - Estado e Continuidade da Produção M2]] localiza apresentações, guias e apoios. M2.3 v0.2 tem revisão substantiva produzida para avaliação: 24 telas, guia, apoio e kit único; v0.1 permanece histórica. M2.4 v0.2 reconstrói a montagem anterior com 29 telas/notas, guia, apoio e kit único; o diagnóstico da v0.1 continua recuperável. M2.5–M2.6 mantêm orientação estrutural e aguardam composição final. O percurso conserva seis aulas, com Cartografia comum e estudo assíncrono suficiente. O encontro ao vivo conserva seu planejamento sem confirmação de execução.
 
 ## M2.1 — Como se forma o que você percebe?
 
@@ -24,7 +24,7 @@ M2.1 e M2.2 têm trilhas atuais produzidas para avaliação: v0.8 e v0.4, respec
 
 **Desenvolvimento:** Reconstruída: relevância, forma simbólica e os dois tempos da Tradução.
 
-**Experiência e articulação:** [[M2.2 - Trilha de exposição v0.4]]. Receber uma forma, orientar conscientemente a investigação e reabrir a escuta; comparar o que ganhou importância. Eu Básico/Eu Médio, Bion e Naranjo operam na leitura. O roteiro integral v0.2 é etapa histórica. A adaptação do dedo permanece fora desta composição; a prática original continua no acervo.
+**Experiência e articulação:** [[M2.2 - Trilha de exposição v0.5]]. Receber uma forma, orientar conscientemente a investigação e reabrir a escuta; comparar o que ganhou importância. Eu Básico/Eu Médio, Bion e Naranjo operam na leitura. O roteiro integral v0.2 é etapa histórica. A adaptação do dedo permanece fora desta composição; a prática original continua no acervo.
 
 ## M2.3 — Interpretações e certezas: recuperar outras pistas
 
@@ -66,7 +66,7 @@ Fabiano ressaltou que o cérebro sobrevive prevendo e não deve ser apresentado 
 
 M4.4 pode retomar a história e a adequação atual de uma proteção, sem repetir o bloco neurobiológico. Essa distribuição acrescenta camadas ao percurso existente, sem aumentar a quantidade de aulas por esse motivo. Referências de preparação: Clark, A. (2013), *Whatever next?*, DOI 10.1017/S0140525X12000477; Sterling, P. (2012), *Allostasis: A model of predictive regulation*, DOI 10.1016/j.physbeh.2011.06.004. Bibliografia completa permanece no aprofundamento do aluno quando utilizada.
 
-**Aplicação pertinente na próxima revisão de M2.2:** separar a tela 13, de apresentação, da realização nas telas 14–16. Na tela 15, oferecer uma pergunta por vez e permitir comparação; deixar interpretações e hipóteses para a elaboração. A tela 16 confere e conclui; a 17 elabora sem reiniciar o exercício. Usar avisos curtos nas notas onde muda a função e, no slide, apenas quando orientarem também o aluno. Retirar repetição de propósito e fundamento entre instruções. As fontes v0.4 registram a composição anterior a essa indicação; os artefatos ainda precisam receber a aplicação para que se declare atualização.
+**Aplicação realizada em M2.2 v0.5:** a tela 13 apresenta o percurso, e as telas 14–16 realizam a exploração. A tela 15 conduz uma pergunta por vez, com pausa para perceber e registrar; as interpretações passam à elaboração. A tela 16 confere e conclui; a 17 elabora sem reiniciar o exercício. Avisos curtos nas notas tornam a função reconhecível, e a tela 13 informa que a realização começa na seguinte. As 20 notas têm uma frase por linha, com redundâncias retiradas e fundamentos preservados. A antecipação adaptativa foi desenvolvida na tela 4. As fontes v0.4 preservam a composição anterior; o guia v0.4 não foi regenerado nesta entrega de slides.
 
 ## Encadeamento e fontes
 
