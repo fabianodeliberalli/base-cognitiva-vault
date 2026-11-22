@@ -17,7 +17,7 @@ aliases:
 
 Na aula M4.6, os quatro passos organizam um ensaio de resposta e podem dialogar com aprendizagem. Não demonstram por si reconsolidação ou mudança neural específica. Sevenster, Beckers e Kindt (2013/2014) examinam condições específicas de reativação/memória do medo; essa pesquisa não testa a prática do TSH. A repetição de um tema não garante progresso. Formulação para a fala: “Quando uma resposta conhecida reaparece, podemos investigar o que a mantém e o que se tornou diferente nesta ocasião.”
 
-A orientação mais recente de Fabiano permite rever a quantidade de aulas por ganho didático. A revisão desenvolve **59 aulas em nove módulos**, com alternativa de 58; quantidade e renumeração são propostas, não homologação. Os códigos de 54 aulas abaixo continuam como localizadores de origem. Composição integrada, correspondência completa e pendências: [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]]. As passagens datadas anteriores permanecem recuperáveis; não confirmam execução nem publicação.
+Fabiano validou em 22/11/2026 a organização de **59 aulas em nove módulos**. A alternativa de 58 pertence à avaliação anterior; a referência atual é 59, sempre revisável pelo autor. Os códigos de 54 aulas abaixo continuam como localizadores de origem. Composição integrada, correspondência completa e pendências: [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]]. As passagens datadas anteriores permanecem recuperáveis; não confirmam execução nem publicação.
 
 
 

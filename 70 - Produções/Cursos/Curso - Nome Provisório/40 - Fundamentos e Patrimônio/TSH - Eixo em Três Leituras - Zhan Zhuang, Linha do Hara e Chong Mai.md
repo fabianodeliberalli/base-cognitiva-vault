@@ -13,7 +13,7 @@ aliases:
 
 Na proposta integrada, M3.6 ensina postura e M3.7 a sequência em movimento; M6.5 ensina pequena circulação; M6.6 aprofunda Hara; M6.7 situa Chong Mai e ensina o passo selecionado de grande circulação; M6.8 acompanha integração temporal. A experiência breve de Hara ligada à escrita criativa pode aparecer antes, conforme já prevista em Cameron–Brennan–Long, com instrução suficiente. Separar versão, cartografia e procedimento: o conjunto de fontes comparadas não constitui sozinho uma técnica única. Se dois procedimentos independentes forem selecionados para M6.7, ensaiar a divisão necessária. A postura ou o alinhamento não medem desenvolvimento espiritual.
 
-A orientação mais recente de Fabiano permite rever a quantidade de aulas por ganho didático. A revisão desenvolve **59 aulas em nove módulos**, com alternativa de 58; quantidade e renumeração são propostas, não homologação. Os códigos de 54 aulas abaixo continuam como localizadores de origem. Composição integrada, correspondência completa e pendências: [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]]. As passagens datadas anteriores permanecem recuperáveis; não confirmam execução nem publicação.
+Fabiano validou em 22/11/2026 a organização de **59 aulas em nove módulos**. A alternativa de 58 pertence à avaliação anterior; a referência atual é 59, sempre revisável pelo autor. Os códigos de 54 aulas abaixo continuam como localizadores de origem. Composição integrada, correspondência completa e pendências: [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]]. As passagens datadas anteriores permanecem recuperáveis; não confirmam execução nem publicação.
 
 
 

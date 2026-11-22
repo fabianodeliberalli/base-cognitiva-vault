@@ -9,6 +9,12 @@ aliases:
   - Cena, verbo e voz do autor
 ---
 
+## Atualização de produção — 22/11/2026
+
+Fabiano validou nove módulos e 59 aulas e solicitou iniciar M2. Aplicar esta forma de construção com o [[01 - Plano de produção das seis aulas M2]] e o dossiê integrado. A numeração atual distingue M3.6 (postura), M3.7 (movimento), M3.8 (recursos); M5.5 (símbolos), M5.6 (criação), M5.7–M5.9 (espiritualidade, termos, discernimento); M6.5 (pequena circulação), M6.6 (Hara), M6.7 (Chong Mai/grande circulação), M6.8 (espiral) e M6.9 (coerência possível). As destinações antigas abaixo são lidas pela correspondência do dossiê; não criam uma segunda arquitetura.
+
+
+
 # Forma de construção das aulas (M2–M8): cena, verbo e voz do autor
 
 Decisão de Fabiano em 21/11/2026, 21h31. Vale para todo roteiro, deck, nota falada e material do aluno de M2 a M8 e para a condução dos encontros ao vivo. Até aqui os módulos existiam como possibilidade de conteúdo; esta nota diz como cada aula passa a ser construída. Fabiano pode revê-la quando quiser.
@@ -99,10 +105,11 @@ A passagem faz sentido no TSH. O lugar mais coerente é **M4.5**, não M4.4:
 
 Em M7.8 cabe a outra metade de Long: a culpa real pede reparação concreta, não só diálogo interno (cap. XVII). Fonte: [[Huna - Max Freedom Long e Serge King nos Três Eus]].
 
-## 7. Semana de M3
+## 7. Semana de M3 — orientação anterior, aplicar à distribuição atual de oito aulas
 
 É a semana mais pesada: sete aulas, o ensino formal do Zhan Zhuang e três etapas de indução em 05/12.
 
 - **Cronometrar M3.6 no ensaio.** Se passar de cerca de 25 minutos, dividir em parte A (Zhan Zhuang: origem, princípios, eixo do pé ao topo, transições, versão sentada) e parte B (sequência regular comentada), como já decidido para as aulas com prática editada; ou levar os detalhes para o material de apoio.
 - **M3.7: no máximo dois recursos novos.**
 - **Encontro de 05/12:** se as três etapas de indução apertarem o tempo, o braço como pano molhado pode passar para 12/12 sem prejuízo da sequência.
+

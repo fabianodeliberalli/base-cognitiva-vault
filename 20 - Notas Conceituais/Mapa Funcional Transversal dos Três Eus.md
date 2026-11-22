@@ -26,7 +26,7 @@ O mapa dos Três Eus entra em espiral no TSH, com genealogia Long/Huna situada: 
 
 A afirmação de Long de que o Eu Médio não guarda lembranças ou não pode ser hipnotizado pertence ao seu modelo. Pode orientar a linguagem da aula, sem ser apresentada como resultado neurocientífico do teste de pálpebras. As correlações com sistema límbico ou redes neurais são aproximações autorais consultáveis, não correlatos identificados por investigação empírica direta dos Três Eus. Isso preserva a perspectiva espiritual sem lhe atribuir uma validação que as fontes não oferecem.
 
-As classificações antigas de candidato, canônico, fases e “Método EIXO” abaixo documentam a genealogia do acervo. Não definem nova condição de uso. A composição para o curso está em [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]]; quantidade e renumeração propostas permanecem abertas à decisão de Fabiano.
+As classificações antigas de candidato, canônico, fases e “Método EIXO” abaixo documentam a genealogia do acervo. Não definem nova condição de uso. A composição para o curso está em [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]]; a organização de 59 aulas foi validada por Fabiano em 22/11/2026.
 
 
 

@@ -1,14 +1,14 @@
 ---
 tipo: dossie-de-producao
 projeto: Traduzindo o Ser Humano
-status: versao-de-trabalho-integrada
+status: referencia-atual-revisavel
 criado_em: 2026-11-21
-atualizado_em: 2026-11-21
+atualizado_em: 2026-11-22
 autoria_do_projeto: Fabiano Deliberalli
 revisao: integração editorial assistida após auditoria
-arquitetura_registrada: 9 módulos e 54 aulas
-arquitetura_proposta: 9 módulos e 59 aulas
-homologacao_da_nova_quantidade: pendente
+arquitetura_atual: 9 módulos e 59 aulas
+arquitetura_de_origem: 9 módulos e 54 aulas
+homologacao_da_nova_quantidade: validada por Fabiano em 2026-11-22
 aliases:
   - Dossiê M0–M8
   - Dossiê de auditoria e base dos roteiros
@@ -16,25 +16,45 @@ aliases:
 
 # Traduzindo o Ser Humano — percurso integrado e base de produção
 
-21 de novembro de 2026 · Revisão editorial após a auditoria do dossiê M0–M8
+Revisão editorial iniciada em 21/11/2026 · Estrutura validada por Fabiano em 22/11/2026
 
 ## Parecer e alcance dos ajustes
 
 O percurso ganha mais com uma organização explícita das aprendizagens do que com a inclusão de novos assuntos. A promessa permanece: ampliar a percepção e o acesso ao que se compreende, cultivar capacidades ainda pouco desenvolvidas e responder com maior clareza, presença e coerência na vida, considerando corpo, história, relações, condições de vida e espiritualidade.
 
-**Recomendação de trabalho: manter os nove módulos e organizar 59 aulas.** Cinco unidades adicionais desdobram conteúdos já previstos: postura e movimento no M3; investigação de símbolos e criação no M5; mapa e pequena circulação, além de Hara, grande circulação e acompanhamento em espiral no M6. Não se acrescenta uma aula por autor ou por disciplina. As seis perguntas de M2 e a progressão relacional de M7 permanecem distintas e suficientes.
+**Referência atual validada por Fabiano em 22/11/2026: nove módulos e 59 aulas.** Cinco unidades adicionais desdobram conteúdos já previstos: postura e movimento no M3; investigação de símbolos e criação no M5; mapa e pequena circulação, além de Hara, grande circulação e acompanhamento em espiral no M6. Não se acrescenta uma aula por autor ou por disciplina. As seis perguntas de M2 e a progressão relacional de M7 permanecem distintas e suficientes.
 
-Fabiano autorizou os ajustes de integração e a reavaliação do número de aulas. **A escolha de 59, os novos títulos e a renumeração são propostas editoriais prontas para revisão, não decisões já homologadas.** Os 54 identificadores anteriores continuam localizando fontes e registros de produção. O Raio X transcrito e os materiais publicados não recebem uma mudança silenciosa de arquitetura.
+Fabiano autorizou os ajustes de integração, validou a estrutura de 59 aulas e solicitou o registro das decisões e o início de M2. Os 54 identificadores anteriores continuam localizando fontes e registros de produção. Novos roteiros e títulos derivados permanecem revisáveis pelo autor. A transcrição histórica do Raio X e os materiais já publicados conservam sua procedência; a referência quantitativa atual é a validada nesta data.
 
-A alternativa de 58 aulas mantém postura e sequência corporal numa única aula de M3, com capítulos. É viável se a demonstração e o ensaio confirmarem clareza e duração. A alternativa de 54 exige concentrar os mesmos ensinos em capítulos extensos e dificulta reencontrar e repetir um procedimento. O mérito de 59 está na autonomia de cada aprendizagem e no acesso às práticas; sua superioridade não decorre do número.
+As alternativas de 54 e 58 aulas foram avaliadas na revisão anterior. Fabiano validou a organização de 59. A escolha separa aprendizagens e facilita reencontrar procedimentos; continua passível de refinamento autoral quando a produção mostrar ganho real.
 
-Os ajustes estão desenvolvidos abaixo como composição de trabalho. Planejamento integrado não equivale a roteiros escritos, práticas executadas, publicações conferidas ou aprendizagem observada. O índice 83/100 pertence à auditoria anterior; não foi aumentado automaticamente após esta revisão.
+Os ajustes estão desenvolvidos abaixo como composição de trabalho. Planejamento integrado não equivale a roteiros escritos, práticas executadas, publicações conferidas ou aprendizagem observada. O índice inicial exato foi 82,5/100 (83 arredondado). A reavaliação editorial solicitada em 22/11 é 95/100, pela mesma rubrica; a mudança não decorre automaticamente da quantidade ou da validação autoral.
+
+## Reavaliação de coerência do planejamento — 22/11/2026
+
+Parecer do assistente solicitado por Fabiano, pela mesma rubrica inicial: quatro critérios de 0 a 5 em cada dimensão, convertidos em índice por soma/20 e média ponderada. O critério de arquitetura conserva sua função de verificar integridade e correspondência, agora em 9/59; já recebia 5 e permanece com 5. A homologação do usuário não produz ponto adicional por si.
+
+| Dimensão | Notas atuais na ordem original | Inicial | Atual | Peso |
+| --- | --- | --- | --- | --- |
+| Identidade, proposta e diretrizes | 5 / 5 / 5 / 5 | 90% | 100% | 15% |
+| Progressão e continuidade | 5 / 5 / 4 / 5 | 90% | 95% | 15% |
+| Integração nas aulas e entre práticas | 5 / 5 / 4 / 5 | 80% | 95% | 15% |
+| Articulação das disciplinas | 5 / 4 / 5 / 5 | 75% | 95% | 10% |
+| Multidimensionalidade | 5 / 5 / 4 / 5 | 85% | 95% | 15% |
+| Fundamentação e rastreabilidade | 5 / 4 / 4 / 5 | 80% | 90% | 10% |
+| Clareza, carga e aprendizagem | 4 / 4 / 5 / 5 | 75% | 90% | 10% |
+| Condução, autonomia e interpretação | 5 / 5 / 5 / 5 | 85% | 100% | 5% |
+| Consistência documental e operacional | 5 / 4 / 5 / 5 | 70% | 95% | 5% |
+
+Cálculo: 15 + 14,25 + 14,25 + 9,50 + 14,25 + 9 + 9 + 5 + 4,75 = **95/100**, ante **82,5/100**; ganho estimado de **12,5 pontos percentuais**. Notas máximas significam critérios explicitados no planejamento, sem representar execução perfeita, eficácia, segurança clínica ou 95% de aulas prontas.
+
+O ganho decorre de transições, Cartografia e casos contínuos, funções concretas das fontes, distinção entre mapas, condições materiais e relação, criação e transferência. Permanecem para a produção: ensaio de carga e linguagem; seleção das versões das práticas; conferência das atribuições efetivamente usadas; situações culturais e institucionais mais desenvolvidas; sincronização dos artefatos. Os percentuais são julgamento editorial, sem precisão estatística.
 
 ## 1. Lógica do percurso e contribuição de cada módulo
 
 O fio pedagógico é perceber, diferenciar e participar. Ele aparece como experiência e ação, sem exigir uma lista de termos em cada aula. A pessoa pode precisar reconhecer algo ainda pouco percebido, acessar algo que compreende ou desenvolver uma capacidade que ainda não cultivou. A dança e a criação acompanham o pedido com agenda cheia e a mensagem de cobrança para que o curso contemple descoberta e expressão, além de padrões e proteção.
 
-| Módulo | Antes → proposta | Capacidade construída | Passagem ao seguinte |
+| Módulo | Origem → atual | Capacidade construída | Passagem ao seguinte |
 | --- | --- | --- | --- |
 | **M0 — Comece aqui: boas-vindas e instruções** | 3 → 3 | Entrar no percurso com uma pergunta e um modo viável de participar. | M1 ensina a localizar o vivido antes de exigir explicação. |
 | **M1 — Traduzindo a experiência** | 7 → 7 | Distinguir compreender, acessar e cultivar; usar mapas e uma Cartografia revisável. | M2 pergunta como percebemos e construímos uma leitura. |
@@ -45,7 +65,7 @@ O fio pedagógico é perceber, diferenciar e participar. Ele aparece como experi
 | **M6 — Integre diferenças e construa uma coerência possível** | 6 → 9 | Combinar recursos preservando diferenças, aprender práticas e acompanhar elaboração no tempo. | M7 verifica e ajusta a participação no encontro com o outro. |
 | **M7 — Leve o aprendizado para relações, limites e reparação** | 8 → 8 | Comunicar, escutar, limitar, contribuir e reparar em relações concretas. | M8 verifica transferência e organiza continuidade autônoma. |
 | **M8 — Conclusão e continuidade** | 3 → 3 | Reconhecer aprendizados e limites, escolher repertório e seguir cultivando com apoios. | O percurso permanece revisável; continuidade não depende de permanência comercial. |
-| **Total** | **54 → 59** | **9 módulos** | **Proposta revisável** |
+| **Total** | **54 → 59** | **9 módulos** | **Referência atual revisável** |
 
 As transições dizem o que cada etapa prepara. Não descrevem uma evolução espiritual obrigatória nem uma escada em que todos avançam do mesmo modo. Quem chega por uma prática, por uma pergunta ou por uma experiência diferente encontra um ponto de reentrada. M0 e M1 permanecem disponíveis como referência; eventuais retomadas necessárias são ensinadas no próprio material subsequente.
 
@@ -193,18 +213,18 @@ Fontes científicas conferidas: [Leong et al., 2017](https://pmc.ncbi.nlm.nih.go
 | Correlações e fundamentos subutilizados | Ganham função e destino concretos, sem cotas por disciplina. |
 | Cartografia e modos de atenção | Continuidade explicitada; duplicações e equivalências exclusivas corrigidas na base de produção. |
 | Diferenças de versão 21h31/21h56 | Referência posterior do anexo explicitada para modos, três movimentos e entradas neurocientíficas; registros antigos continuam localizáveis. |
-| Escolha de 59 ou 58 aulas | Proposta de arquitetura; depende da decisão de Fabiano antes da renumeração da plataforma e dos materiais públicos. |
+| Quantidade e organização | **59 aulas em nove módulos validadas por Fabiano em 22/11/2026.** Preservar a correspondência de origem ao atualizar referências e materiais; não declarar alterações na Hotmart não realizadas. |
 | Roteiros, slides, notas, apoio do aluno e imagens | Ainda serão produzidos ou ajustados por aula. O mapa de integração não confirma esses artefatos. Reutilizar imagens catalogadas, com fonte, legenda e pertinência. |
 | Duração e condução final | Dependem do ensaio e da seleção efetiva das versões de prática. A proposta oferece composição, não inventa tempo medido. |
 | Trechos bibliográficos pontuais | Conferir Bion, Morin, Wilber e demais passagens se forem escolhidas para citação ou alegação específica. |
 | M0/M1 na Hotmart | Publicação registrada nos documentos; não novamente conferida na plataforma nem equivalente a assistência/aprendizado de cada participante. |
 | Avisos, edição e feedback da turma | Permanecem sem execução confirmada quando não há evidência direta. Os estados de produção não são preenchidos por inferência. |
 
-A produção pode avançar por M2, cujas seis aulas mantêm título, pergunta e encadeamento. Os ajustes globais já oferecem direção para o roteiro, suas práticas e materiais derivados. O número final das unidades posteriores pode ser decidido com a proposta completa em mãos, sem uma nova auditoria geral e sem depender da escrita de todos os roteiros.
+A produção pode avançar por M2, cujas seis aulas mantêm título, pergunta e encadeamento. Os ajustes globais já oferecem direção para o roteiro, suas práticas e materiais derivados. A organização de 59 aulas passa a orientar as produções; refinamentos posteriores podem ser propostos pelo ganho demonstrado na experiência e no ensaio, sem auditoria geral obrigatória a cada aula.
 
 ## 9. Percurso aula a aula e correspondência com a base anterior
 
-A numeração desta seção corresponde à proposta de 59. “Origem” indica o código usado no acervo de 54 aulas; seus links continuam úteis. As capacidades e experiências são composições de trabalho, e os sinais indicam o que observar na aprendizagem, sem constituir testes diagnósticos ou comprovação de eficácia. Para M0/M1, a seção orienta retomadas e continuidade; não declara substituição do que foi publicado.
+A numeração desta seção corresponde à organização de 59 validada em 22/11/2026. “Origem” indica o código usado no acervo de 54 aulas; seus links continuam úteis. As capacidades e experiências são composições de trabalho, e os sinais indicam o que observar na aprendizagem, sem constituir testes diagnósticos ou comprovação de eficácia. Para M0/M1, a seção orienta retomadas e continuidade; não declara substituição do que foi publicado.
 
 ### M0 — Comece aqui: boas-vindas e instruções
 

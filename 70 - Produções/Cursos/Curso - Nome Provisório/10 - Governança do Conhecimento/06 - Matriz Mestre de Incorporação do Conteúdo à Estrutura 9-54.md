@@ -14,7 +14,7 @@ autoridade_de_aprovacao: Fabiano Deliberalli
 
 Esta matriz é acervo de possibilidades e mantém os códigos de origem. Para selecionar o que entra efetivamente na aula, usar a composição do dossiê integrado, que informa pergunta, função dos fundamentos, experiência, retomada e ponte. Não somar todos os destinos nem restaurar limites de fases anteriores. A nova quantidade não altera retroativamente esta matriz histórica; a correspondência dos códigos permite recuperar todas as 54 posições.
 
-A orientação mais recente de Fabiano permite rever a quantidade de aulas por ganho didático. A revisão desenvolve **59 aulas em nove módulos**, com alternativa de 58; quantidade e renumeração são propostas, não homologação. Os códigos de 54 aulas abaixo continuam como localizadores de origem. Composição integrada, correspondência completa e pendências: [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]]. As passagens datadas anteriores permanecem recuperáveis; não confirmam execução nem publicação.
+Fabiano validou em 22/11/2026 a organização de **59 aulas em nove módulos**. A alternativa de 58 pertence à avaliação anterior; a referência atual é 59, sempre revisável pelo autor. Os códigos de 54 aulas abaixo continuam como localizadores de origem. Composição integrada, correspondência completa e pendências: [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]]. As passagens datadas anteriores permanecem recuperáveis; não confirmam execução nem publicação.
 
 
 

@@ -2,19 +2,19 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.37"
-atualizado_em: 2026-11-21
+versao: "0.38"
+atualizado_em: 2026-11-22
 ---
 
-## Integração do percurso após auditoria — trabalho de 21/11/2026
+## Referência atual — 22/11/2026: 59 aulas validadas; produção de M2
 
-Fabiano pediu ajustar relações, ampliações, fundamentos e práticas do curso inteiro antes dos roteiros; autorizou reavaliar a quantidade de aulas por ganho didático. [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]] reúne a composição integrada: capacidade, experiência, sinal de aprendizagem, ponte e fontes por aula; preserva os nove módulos e mapeia as 54 posições anteriores numa **proposta de 59** (alternativa: 58 com capítulos no M3).
+Fabiano validou a reorganização de **nove módulos e 59 aulas**: 3/7/6/8/6/9/9/8/3. A base é [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]], com capacidades, experiências, sinais de aprendizagem, fontes e correspondência integral das 54 posições anteriores. Não apagar seus códigos de origem nem inferir conclusão das partes desdobradas.
 
-A nova contagem e a renumeração ainda são propostas para decisão de Fabiano. Não interpretar a autorização para avaliar como homologação automática de 59. M2 mantém seis perguntas e pode avançar sem mudança de códigos. Roteiros, artefatos finais, avisos à turma e execução não são confirmados por esta revisão. Publicação de M0/M1 é registro documental, sem nova conferência da plataforma.
+Fabiano solicitou registrar as decisões deste chat e iniciar M2. Retomar por [[00 - Estado e Continuidade da Produção M2]], [[01 - Plano de produção das seis aulas M2]] e [[M2.1 - Roteiro oral e caderno de produção v0.1]]. M2 mantém seis aulas; produzir sua unidade integrada e desenvolver a primeira aula, depois derivar slides/notas, apoio e ensaio. Fontes e vivências são recuperadas por pertinência; cenas fictícias são identificadas.
 
-A fonte posterior do anexo registra, às 21h56, cinco modos de atenção, três movimentos selecionados do Ba Duan Jin e entradas neurocientíficas. A revisão distingue esse estado das notas das 21h31. Eixo segue recurso didático, ao lado das demais metáforas. O TCC é revisão concluída; correlações neurais, tradicionais e autorais conservam suas diferenças.
+A reavaliação editorial é **95/100**, ante 82,5/100 (83 arredondado), pelos mesmos 36 critérios e pesos. Trata-se de parecer do assistente sobre planejamento, não decisão autoral de eficácia ou confirmação de produção. Roteiros finais, duração real, versões de prática, publicação e aprendizagem só recebem confirmação por evidência.
 
-
+O anexo posterior das 21h56 orienta os cinco modos combináveis de atenção e a seleção de três movimentos do Ba Duan Jin. Eixo continua recurso didático; espiritualidade é explícita e plural; TCC é revisão concluída. Detalhes e escolhas de 21/11 permanecem abaixo como genealogia de referência.
 
 ## Construção das aulas de M2 a M8 — homologado por Fabiano em 21/11/2026, 21h31
 

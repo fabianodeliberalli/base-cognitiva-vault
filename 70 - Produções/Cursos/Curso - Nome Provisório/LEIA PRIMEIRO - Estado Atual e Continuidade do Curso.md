@@ -10,11 +10,17 @@ autor: Fabiano Deliberalli
 autoridade_de_decisao: Fabiano Deliberalli
 ---
 
+## 22/11/2026 — 59 aulas validadas e início da produção de M2
+
+A estrutura atual é de **9 módulos e 59 aulas**, validada por Fabiano. As menções anteriores a 54 localizam a arquitetura de origem e a transcrição histórica do Raio X. A correspondência completa está no [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]]. A frente agora é [[00 - Estado e Continuidade da Produção M2]]; a primeira unidade é [[M2.1 - Roteiro oral e caderno de produção v0.1]]. O índice 95/100 é parecer editorial sobre planejamento, não andamento de produção.
+
+
+
 ## Integração do percurso após a auditoria — versão de trabalho de 21/11/2026
 
 A frente atual é integrar o percurso M0–M8 e preparar os roteiros de M2. O dossiê integra a auditoria com os registros e o anexo posterior. M0/M1 são pontos de retomada documentais, sem regravação presumida.
 
-A orientação mais recente de Fabiano permite rever a quantidade de aulas por ganho didático. A revisão desenvolve **59 aulas em nove módulos**, com alternativa de 58; quantidade e renumeração são propostas, não homologação. Os códigos de 54 aulas abaixo continuam como localizadores de origem. Composição integrada, correspondência completa e pendências: [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]]. As passagens datadas anteriores permanecem recuperáveis; não confirmam execução nem publicação.
+Fabiano validou em 22/11/2026 a organização de **59 aulas em nove módulos**. A alternativa de 58 pertence à avaliação anterior; a referência atual é 59, sempre revisável pelo autor. Os códigos de 54 aulas abaixo continuam como localizadores de origem. Composição integrada, correspondência completa e pendências: [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]]. As passagens datadas anteriores permanecem recuperáveis; não confirmam execução nem publicação.
 
 
 

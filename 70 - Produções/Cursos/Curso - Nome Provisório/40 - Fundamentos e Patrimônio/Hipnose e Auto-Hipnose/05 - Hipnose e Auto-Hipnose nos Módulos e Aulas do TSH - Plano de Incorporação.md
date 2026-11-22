@@ -15,7 +15,7 @@ aliases:
 
 O dossiê integrado preserva todos os componentes da indução e o ciclo posterior: 28/11 respiração/retorno abre M2; 05/12 pálpebras/fracionamento/braço abre M3, com braço transferível para 12/12; 12/12 números/presente abre M4; 19/12 primeira junção completa e ideomotor abre M5; 09/01 indução breve saindo para escrita abre M6; 16/01 presente relacional abre M7; 23/01 autonomia/versão curta abre M8; 30/01 encerramento. Os vídeos são suficientes para quem não esteve ao vivo. O retorno desfaz sugestões motoras. Long oferece a linguagem escolhida, sem comprovação neurocientífica das funções pelo teste de pálpebras. Uma resposta ideomotora ou imagem não garante verdade factual da memória ou da interpretação.
 
-A orientação mais recente de Fabiano permite rever a quantidade de aulas por ganho didático. A revisão desenvolve **59 aulas em nove módulos**, com alternativa de 58; quantidade e renumeração são propostas, não homologação. Os códigos de 54 aulas abaixo continuam como localizadores de origem. Composição integrada, correspondência completa e pendências: [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]]. As passagens datadas anteriores permanecem recuperáveis; não confirmam execução nem publicação.
+Fabiano validou em 22/11/2026 a organização de **59 aulas em nove módulos**. A alternativa de 58 pertence à avaliação anterior; a referência atual é 59, sempre revisável pelo autor. Os códigos de 54 aulas abaixo continuam como localizadores de origem. Composição integrada, correspondência completa e pendências: [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]]. As passagens datadas anteriores permanecem recuperáveis; não confirmam execução nem publicação.
 
 
 

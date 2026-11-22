@@ -8,7 +8,7 @@ status: referencia-atual-revisavel
 
 A liberação no fim do domingo e a prática editada como material publicado foram registradas posteriormente à previsão de 00h abaixo. Dúvidas retomam o módulo anterior e a prática abre o seguinte. O quadro original de datas permanece como referência; não se confirma envio de aviso nem se modifica calendário por inferência. A lista antiga das aulas localiza a base de 54; a composição recomendada de 59 está no dossiê, sem alterar a transcrição do Raio X.
 
-A orientação mais recente de Fabiano permite rever a quantidade de aulas por ganho didático. A revisão desenvolve **59 aulas em nove módulos**, com alternativa de 58; quantidade e renumeração são propostas, não homologação. Os códigos de 54 aulas abaixo continuam como localizadores de origem. Composição integrada, correspondência completa e pendências: [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]]. As passagens datadas anteriores permanecem recuperáveis; não confirmam execução nem publicação.
+Fabiano validou em 22/11/2026 a organização de **59 aulas em nove módulos**. A alternativa de 58 pertence à avaliação anterior; a referência atual é 59, sempre revisável pelo autor. Os códigos de 54 aulas abaixo continuam como localizadores de origem. Composição integrada, correspondência completa e pendências: [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]]. As passagens datadas anteriores permanecem recuperáveis; não confirmam execução nem publicação.
 
 
 

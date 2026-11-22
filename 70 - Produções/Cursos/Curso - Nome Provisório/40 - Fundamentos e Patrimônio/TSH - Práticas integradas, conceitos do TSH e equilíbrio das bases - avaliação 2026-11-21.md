@@ -13,7 +13,7 @@ aliases:
 
 A composição atual está no dossiê integrado. Os cinco modos de atenção são ênfases combináveis; não correspondem um a um às técnicas. O anexo posterior das 21h56 registra Sustentar o Céu, Separar Céu e Terra e Projetar os punhos por substituição; a tabela mais ampla abaixo documenta o plano anterior, não uma nova obrigação curricular. Preservar demais movimentos como acervo consultável. A distribuição da neurociência passa a ter função por pergunta; porcentagens de presença não medem integração. O dossiê oferece ensino separado de postura/movimento, símbolos/criação, órbita, Hara, grande circulação e acompanhamento em espiral.
 
-A orientação mais recente de Fabiano permite rever a quantidade de aulas por ganho didático. A revisão desenvolve **59 aulas em nove módulos**, com alternativa de 58; quantidade e renumeração são propostas, não homologação. Os códigos de 54 aulas abaixo continuam como localizadores de origem. Composição integrada, correspondência completa e pendências: [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]]. As passagens datadas anteriores permanecem recuperáveis; não confirmam execução nem publicação.
+Fabiano validou em 22/11/2026 a organização de **59 aulas em nove módulos**. A alternativa de 58 pertence à avaliação anterior; a referência atual é 59, sempre revisável pelo autor. Os códigos de 54 aulas abaixo continuam como localizadores de origem. Composição integrada, correspondência completa e pendências: [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]]. As passagens datadas anteriores permanecem recuperáveis; não confirmam execução nem publicação.
 
 
 
