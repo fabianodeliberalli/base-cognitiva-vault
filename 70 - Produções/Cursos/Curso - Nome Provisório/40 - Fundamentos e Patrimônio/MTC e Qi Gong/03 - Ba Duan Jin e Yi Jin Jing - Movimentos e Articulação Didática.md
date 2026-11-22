@@ -3,10 +3,14 @@ tipo: repertorio-pratico-e-destinacao-curricular
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
 criado_em: 2026-11-13
-atualizado_em: 2026-11-13
+atualizado_em: 2026-11-21
 ---
 
 # Ba Duan Jin e Yi Jin Jing: movimentos e articulação didática
+
+## Destinos para a turma atual — decisão de Fabiano em 21/11/2026
+
+Pelo tempo dos encontros, o Ba Duan Jin entra por substituição de parte da retomada da base, com três movimentos: Sustentar o Céu (já conhecido), Separar Céu e Terra (05/12, em M3.6) e Projetar os punhos (12/12, em M4.1; retomado sem ensino em M7.4). Os três compõem o repertório de M8.2. Função no TSH: sustentar em movimento, entrada para quem a quietude ativa. Os demais movimentos e o Yi Jin Jing ficam para o Laboratório e a Imersão. As tabelas abaixo continuam como repertório e histórico de destinos possíveis. Avaliação: [[TSH - Práticas integradas, conceitos do TSH e equilíbrio das bases - avaliação 2026-11-21]].
 
 ## 1. Formação e lugar no percurso
 
