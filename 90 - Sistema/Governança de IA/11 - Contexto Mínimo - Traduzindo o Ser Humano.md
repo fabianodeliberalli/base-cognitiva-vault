@@ -2,7 +2,7 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.55"
+versao: "0.56"
 atualizado_em: 2026-11-22
 ---
 
@@ -40,7 +40,7 @@ O modelo adotado em 22/11/2026 é uma trilha para exposição livre: visão inic
 
 **Refinamento após a gravação M2.1:** Fabiano explicou que comentários de preenchimento também surgiram para ganhar tempo diante de notas confusas e repetidas. A correção incide no apoio: localizar o próximo passo com um olhar, retirar paráfrases entre campos e distinguir apresentação da prática, realização, pausa, elaboração e conclusão com avisos breves quando úteis. A realização pode ter instruções diretas sem quatro blocos explicativos por tela. O padrão v2.7 conserva o exemplo corrigido; o plano de M2 localiza a revisão pertinente em M2.2. Preservar a densidade dos fundamentos e a simplicidade adequada da condução.
 
-**Objetividade com densidade:** enxugar redundâncias, paráfrases e preâmbulos, preservando formulações autorais, fundamentos, relações centrais, termos explicados e exemplos pertinentes. Manter retomadas didáticas úteis, sem meta de corte ou quota de palavras/telas. Nas notas e no guia correspondente, uma frase completa por linha, com quebras explícitas e uma linha em branco entre blocos; preservar o encadeamento e a exposição livre. O padrão desenvolve a aplicação e apresenta os exemplos com essa disposição. O registro inicial dessa orientação não regenerou arquivos anteriores. M2.2 v0.5 aplica agora o refinamento às 20 notas e à condução da prática, com fontes e apresentação salvas.
+**Objetividade com densidade:** enxugar redundâncias, paráfrases e preâmbulos, preservando formulações autorais, fundamentos, relações centrais, termos explicados e exemplos pertinentes. Manter retomadas didáticas úteis, sem meta de corte ou quota de palavras/telas. Nas notas e no guia correspondente, uma frase completa por linha, com quebras explícitas e uma linha em branco entre blocos; preservar o encadeamento e a exposição livre. O padrão desenvolve a aplicação e apresenta os exemplos com essa disposição. O registro inicial dessa orientação não regenerou arquivos anteriores. M2.2 v0.5 e M2.3/M2.4 v0.3 aplicam o refinamento às notas e à condução, com fontes e apresentações salvas.
 
 **Predição e aprendizagem:** incluir antecipação como função adaptativa ligada à sobrevivência, regulação e habilidades. Investigar a adequação e a flexibilidade das previsões e os contextos, sem opor consciência a um cérebro que apenas aprisiona. M2.2 faz a retomada inicial; M2.3/M2.4/M2.6 ampliam discernimento, aprendizagem e revisão; M3.3 já tem lugar para regulação antecipatória.
 
@@ -56,10 +56,10 @@ O entregável dirige-se ao aluno e é compreensível por si, com fundamentos des
 
 | Aula | Fonte atual e ponto de retomada |
 | --- | --- |
-| M2.1 | [[M2.1 - Trilha de exposição v0.8]]: constituição corporificada/relacional, enação, primeira pessoa, expressão e retorno. Trilha e suportes disponíveis. |
+| M2.1 | [[M2.1 - Trilha de exposição v0.8]]: constituição corporificada/relacional, enação, primeira pessoa, expressão e retorno. Trilha e suportes disponíveis. [[M2.1 - Edição da gravação v1]] localiza a cópia editada de 34min43s, original, operações e parecer editorial. |
 | M2.2 | [[M2.2 - Trilha de exposição v0.5]] e [[M2.2 - Apresentação editável v0.5]]: 20 telas e notas objetivas, uma frase por linha; fundamentos preservados, antecipação adaptativa e distinção entre apresentar, realizar e elaborar a prática. Sequência nativa 9. Guia v0.4 conserva notas anteriores; usar apresentação/trilha v0.5 nesta revisão. A adaptação dedo–palma saiu; práticas originais continuam no acervo. |
-| M2.3 | [[M2.3 - Trilha de exposição v0.2]]: revisão substantiva produzida para avaliação; dois tempos/convicção explícitos, confirmação, Festinger, absorção, Erickson, retorno e comparação entre leitura e vivido. [[M2.3 - Apresentação editável v0.2]] localiza 24 telas/notas, guia de 25 páginas, apoio de seis páginas e ZIP único com todos os arquivos. V0.1 permanece histórica. |
-| M2.4 | [[M2.4 - Trilha de exposição v0.2]]: reconstrução de 29 passos; configuração, elaboração emocional, recursividade, aprendizagem, função, expressão e condições. Quatro passos com recurso vivido, comparação e participação concreta. [[M2.4 - Apresentação editável v0.2]] localiza slides com notas, guia, apoio e ZIP único. |
+| M2.3 | [[M2.3 - Trilha de exposição v0.3]] e [[M2.3 - Apresentação editável v0.3]]: 24 telas/notas, sequência 6. Integração forma/elaboração/convicção preservada; notas objetivas em frases por linha e prática com apresentação, realização, comparação e elaboração reconhecíveis. Guias/kits v0.2 conservam notas anteriores. |
+| M2.4 | [[M2.4 - Trilha de exposição v0.3]] e [[M2.4 - Apresentação editável v0.3]]: 29 telas/notas, sequência 8. Configuração, recursividade, aprendizagem, função/expressão e condições preservadas; quatro passos com recurso vivido, comparação e continuidade. Uma frase por linha, pausas e distinção de funções. Guias/kits v0.2 conservam notas anteriores. |
 | M2.5–M2.6 | Orientação estrutural: distinguir vivido/sentido/interpretação/origem e realizar Tradução recursiva. Novos materiais integrais ainda não produzidos nesta frente. |
 
 M2.1 v0.8 e M2.2 v0.5 são referências de integração em desenvolvimento. M0/M1 conservam seu histórico. Os registros de produção acompanham versões, arquivos, alterações e trabalho restante. Omitir campos, pendências e lembretes de aprovação para gravação. O índice anterior de 95/100 avaliava planejamento, não a profundidade dos artefatos.

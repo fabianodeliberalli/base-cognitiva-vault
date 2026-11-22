@@ -1,0 +1,114 @@
+{
+  "source": "M2.1.mp4",
+  "source_library_file_id": "libfile_fde3_f-ef41abcc15cc8191bcc22248f18e9e7c_ad925f8fadbc81918eab9ef0eafee9a9",
+  "source_duration": 2276.12,
+  "keep_intervals": [
+    [
+      1.8,
+      21.4
+    ],
+    [
+      39.12,
+      177.72
+    ],
+    [
+      180.2,
+      1646.76
+    ],
+    [
+      1782.88,
+      1838.96
+    ],
+    [
+      1867.28,
+      1873.24
+    ],
+    [
+      1879.52,
+      2276.08
+    ]
+  ],
+  "cuts": [
+    {
+      "start": 0,
+      "end": 1.8,
+      "reason": "Silêncio de abertura."
+    },
+    {
+      "start": 21.4,
+      "end": 39.12,
+      "reason": "Compartilhamento de tela e comentários operacionais."
+    },
+    {
+      "start": 177.72,
+      "end": 180.2,
+      "reason": "Comentário de preenchimento sobre a própria explicação."
+    },
+    {
+      "start": 1646.76,
+      "end": 1782.88,
+      "reason": "Antecipação repetida da prática, que incluía realização e conferência antes da condução por etapas. Escolha da questão e mapa visual permanecem antes da aproximação efetiva."
+    },
+    {
+      "start": 1838.96,
+      "end": 1867.28,
+      "reason": "Reexplicação conceitual durante a realização. Fundamento já desenvolvido preservado na parte conceitual."
+    },
+    {
+      "start": 1873.24,
+      "end": 1879.52,
+      "reason": "Recomeço e comentário sobre a condução antes da pergunta completa, que permanece."
+    },
+    {
+      "start": 2276.08,
+      "end": 2276.12,
+      "reason": "Cauda técnica após a despedida."
+    }
+  ],
+  "expected_duration": 2083.3599999999997,
+  "video": {
+    "width": 2880,
+    "height": 1620,
+    "fps": 25,
+    "crop": "Removidas barras horizontais; câmera preservada por reenquadramento separado, sem cortar o topo da imagem.",
+    "blackout_repair": {
+      "start": 2257.28,
+      "end": 2270.4,
+      "method": "Último slide visível recomposto sob a câmera original em movimento."
+    }
+  },
+  "audio": "Voz original, nível ajustado e microfades de 8ms nos cortes; sem voz sintética ou mudança de velocidade.",
+  "fine_adjustment": {
+    "method": "Emendas conferidas por palavras e pausa. Prefixo preservado por cópia, cauda refeita do original.",
+    "prefix_end": 1674.76,
+    "tail_intervals": [
+      [
+        1832.88,
+        1838.96
+      ],
+      [
+        1867.28,
+        1873.24
+      ],
+      [
+        1879.52,
+        2276.08
+      ]
+    ],
+    "expected_duration": 2083.36
+  },
+  "output": {
+    "library_file_id": "libfile_fde3_f-6b365a794c608191bfa8f2462ed3c1d6_ad925f8fadbc81918eab9ef0eafee9a9",
+    "url": "https://chatgpt.com/library?file_id=libfile_fde3_f-6b365a794c608191bfa8f2462ed3c1d6_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal",
+    "file_name": "TSH_M2_1_Aula_editada_v1.mp4",
+    "duration": 2083.36,
+    "bytes": 174222224,
+    "sha256": "eb85029df3e5fd23c6536a353dc3e5f527828dd5bbe182195c626cfd8f36cb9f"
+  },
+  "verification": {
+    "full_decode": "sem erros técnicos",
+    "video_frames": 52083,
+    "audio_sample_rate": 48000,
+    "notes": "Emendas refinadas por palavras e pausas; quadros de abertura, prática e fechamento inspecionados."
+  }
+}
