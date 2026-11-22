@@ -2,7 +2,7 @@
 tipo: plano-de-producao
 projeto: Traduzindo o Ser Humano
 modulo: M2
-versao: "0.10"
+versao: "0.11"
 data: 2026-11-22
 status: revisao-substantiva
 arquitetura: nove-modulos-59-aulas
@@ -12,7 +12,7 @@ arquitetura: nove-modulos-59-aulas
 
 Revisão solicitada por Fabiano para recuperar a profundidade de suas práticas, literatura e elaborações. M2 desenvolve a constituição da experiência, a relevância e a simbolização, a experiência de certeza, a repetição, a distinção entre vivido/sentido/origem e a Tradução recursiva. As cenas funcionam como aplicação e não como substituição dos fundamentos.
 
-M2.1 e M2.2 têm trilhas atuais v0.8 e v0.5, respectivamente, ambas com 20 telas. M2.2 v0.5 aplica o padrão v2.7 às notas e à condução: uma frase por linha, objetividade com densidade e distinção entre apresentar a prática, realizá-la e elaborar a experiência. [[00 - Estado e Continuidade da Produção M2]] localiza apresentações, guias e apoios. M2.3 v0.2 tem revisão substantiva produzida para avaliação: 24 telas, guia, apoio e kit único; v0.1 permanece histórica. M2.4 v0.2 reconstrói a montagem anterior com 29 telas/notas, guia, apoio e kit único; o diagnóstico da v0.1 continua recuperável. M2.5–M2.6 mantêm orientação estrutural e aguardam composição final. O percurso conserva seis aulas, com Cartografia comum e estudo assíncrono suficiente. O encontro ao vivo conserva seu planejamento sem confirmação de execução.
+M2.1 e M2.2 têm trilhas atuais v0.8 e v0.5, respectivamente, ambas com 20 telas. M2.2 v0.5 aplica o padrão v2.7 às notas e à condução: uma frase por linha, objetividade com densidade e distinção entre apresentar a prática, realizá-la e elaborar a experiência. [[00 - Estado e Continuidade da Produção M2]] localiza apresentações, guias e apoios. M2.3 v0.2 introduziu a revisão substantiva de 24 telas, e M2.4 v0.2 reconstruiu a montagem anterior com 29. As revisões atuais de exposição são v0.3, com as mesmas trilhas e fundamentos e notas ajustadas ao padrão v2.7. Guias, apoios e kits v0.2 preservam aquela etapa; as notas atuais estão nas apresentações e trilhas v0.3. O diagnóstico e as versões anteriores continuam recuperáveis. M2.5–M2.6 mantêm orientação estrutural e aguardam composição final. O percurso conserva seis aulas, com Cartografia comum e estudo assíncrono suficiente. O encontro ao vivo conserva seu planejamento sem confirmação de execução.
 
 ## M2.1 — Como se forma o que você percebe?
 
@@ -67,6 +67,10 @@ Fabiano ressaltou que o cérebro sobrevive prevendo e não deve ser apresentado 
 M4.4 pode retomar a história e a adequação atual de uma proteção, sem repetir o bloco neurobiológico. Essa distribuição acrescenta camadas ao percurso existente, sem aumentar a quantidade de aulas por esse motivo. Referências de preparação: Clark, A. (2013), *Whatever next?*, DOI 10.1017/S0140525X12000477; Sterling, P. (2012), *Allostasis: A model of predictive regulation*, DOI 10.1016/j.physbeh.2011.06.004. Bibliografia completa permanece no aprofundamento do aluno quando utilizada.
 
 **Aplicação realizada em M2.2 v0.5:** a tela 13 apresenta o percurso, e as telas 14–16 realizam a exploração. A tela 15 conduz uma pergunta por vez, com pausa para perceber e registrar; as interpretações passam à elaboração. A tela 16 confere e conclui; a 17 elabora sem reiniciar o exercício. Avisos curtos nas notas tornam a função reconhecível, e a tela 13 informa que a realização começa na seguinte. As 20 notas têm uma frase por linha, com redundâncias retiradas e fundamentos preservados. A antecipação adaptativa foi desenvolvida na tela 4. As fontes v0.4 preservam a composição anterior; o guia v0.4 não foi regenerado nesta entrega de slides.
+
+## Revisão de exposição e condução — M2.3/M2.4 v0.3
+
+Aplicação posterior à revisão substantiva v0.2. M2.3 conserva 24 telas e M2.4 conserva 29, com notas mais objetivas, uma frase por linha e espaço entre blocos, sem retirar autores, articulações, dados, práticas, mapas ou o horizonte do TSH. As apresentações distinguem quando se apresenta a prática, quando começa a realização, as pausas, a comparação, a conclusão e a elaboração posterior. A antecipação é também adaptativa e participa de capacidades aprendidas. [[M2.3 - Trilha de exposição v0.3]] e [[M2.4 - Trilha de exposição v0.3]] são as referências atuais para exposição; as fontes v0.2 conservam a etapa anterior e seus guias/kits.
 
 ## Encadeamento e fontes
 

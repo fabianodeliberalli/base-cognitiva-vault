@@ -19,15 +19,23 @@ Os registros de produção acompanham versões, arquivos, alterações e trabalh
 
 | Aula | Ponto atual de recuperação |
 | --- | --- |
-| M2.1 | [[M2.1 - Trilha de exposição v0.8]] e [[M2.1 - Apresentação editável v0.8]]: 20 telas; sequência nativa 14; guia Word/PDF de 21 páginas, versão 3; apoio Word/PDF de quatro páginas, versão 5. O apoio versão 4 permanece como exemplar preservado. |
+| M2.1 | [[M2.1 - Trilha de exposição v0.8]] e [[M2.1 - Apresentação editável v0.8]]: 20 telas; sequência nativa 14; guia Word/PDF de 21 páginas, versão 3; apoio Word/PDF de quatro páginas, versão 5. O apoio versão 4 permanece como exemplar preservado. [[M2.1 - Edição da gravação v1]]: vídeo editado de 34min43s, original preservado. |
 | M2.2 | [[M2.2 - Trilha de exposição v0.5]] e [[M2.2 - Apresentação editável v0.5]]: 20 telas com notas revisadas; sequência nativa 9. Objetividade, uma frase por linha, antecipação adaptativa e condução separada da apresentação. Guia v0.4 preserva notas anteriores; notas atuais na apresentação/trilha v0.5. Apoio Word/PDF versão 3, quatro páginas, preservado. |
-| M2.3 | [[M2.3 - Trilha de exposição v0.2]] e [[M2.3 - Apresentação editável v0.2]]: 24 telas/notas; sequência nativa 5; guia de 25 páginas e apoio de seis páginas. Slides, PDFs e documentos reunidos em ZIP. V0.1 permanece histórica. |
-| M2.4 | [[M2.4 - Trilha de exposição v0.2]] e [[M2.4 - Apresentação editável v0.2]]: reconstrução de 29 telas/notas, guia de 30 páginas, apoio autônomo e ZIP com os seis arquivos. V0.1 conserva a composição anterior e o diagnóstico de redução. |
+| M2.3 | [[M2.3 - Trilha de exposição v0.3]] e [[M2.3 - Apresentação editável v0.3]]: 24 telas/notas, sequência nativa 6. Notas objetivas com uma frase por linha e prática em momentos distintos. A integração substantiva da v0.2 permanece; guias/kits v0.2 conservam a redação anterior. |
+| M2.4 | [[M2.4 - Trilha de exposição v0.3]] e [[M2.4 - Apresentação editável v0.3]]: 29 telas/notas, sequência nativa 8. Configuração, autores, mapas e quatro passos preservados; realização e elaboração separadas, com pausas. Guias/kits v0.2 conservam a redação anterior. |
 | M2.5–M2.6 e M3–M8 | Orientação estrutural no dossiê; novos roteiros e suportes integrais ainda a compor nesta frente. |
 
 ## Aprendizado da gravação M2.1 — 22/11/2026
 
 Fabiano enviou a [gravação M2.1, 37min56s](https://chatgpt.com/library?file_id=libfile_fde3_f-ef41abcc15cc8191bcc22248f18e9e7c_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal) e explicou que a dificuldade de consultar notas confusas e repetidas contribuiu para comentários de preenchimento e para a mistura de apresentação e realização da prática. O padrão v2.6 substitui o exemplar ambíguo por um exemplo editorial com momentos reconhecíveis e condução breve. A base autoral v1.4 e a ficha atual localizam essa correção; o plano de M2 v0.9 indica a aplicação às telas 13–16 de M2.2 e os destinos da ampliação adaptativa da predição. Esses registros inicialmente atualizaram a orientação. A aplicação posterior está em M2.2 v0.5: as 20 notas foram revistas, com uma frase por linha; as telas 13–17 distinguem apresentação, realização, pausas, conclusão e elaboração; a tela 4 inclui a antecipação adaptativa. A apresentação nativa foi salva e conferida na sequência 9. O guia v0.4 conserva a redação anterior; as notas atuais estão na apresentação e na trilha v0.5.
+
+## Edição da gravação M2.1 — 22/11/2026
+
+[[M2.1 - Edição da gravação v1]] localiza a cópia editada, o original, os cortes e o parecer editorial. Duração de 37min56s para 34min43s; retiradas operação, antecipação duplicada da prática, reexplicação no meio da realização e reinícios. Tela preta do fechamento recomposta sob a câmera original; voz e conteúdo central preservados. Recomendação do assistente: aproveitar a edição, sem regravar integralmente; somente o bloco prático seria opção de outro acabamento. As fontes dos slides gravados v0.8 permanecem.
+
+## Revisão das notas M2.3 e M2.4 — 22/11/2026
+
+As revisões v0.3 aplicam o aprendizado da gravação: objetividade com fundamentos preservados, uma frase completa por linha e espaço entre blocos. M2.3 distingue apresentação na tela 16, realização em 17–21, comparação/conclusão em 21 e elaboração em 22. M2.4 distingue apresentação/preparação em 17–18, realização em 19–24, comparação/conclusão em 24 e elaboração em 25. Conferidos os textos salvos e todas as telas; imagens, diagramas e quantidades preservados. A ampliação adaptativa da antecipação aparece em M2.3/6 e M2.4/8. Usar as notas das apresentações/trilhas atuais; os guias e kits anteriores não foram refeitos nesta entrega de slides.
 
 ## Progressão efetiva
 
