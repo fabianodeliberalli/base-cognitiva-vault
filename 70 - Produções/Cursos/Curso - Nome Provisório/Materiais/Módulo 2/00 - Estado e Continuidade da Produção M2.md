@@ -11,7 +11,7 @@ arquitetura_atual: nove módulos e 59 aulas
 
 ## Modelo adotado para as futuras produções
 
-Fabiano adotou o formato, a lógica, a dinâmica e o andamento alcançados em M2.1 como modelo para as próximas produções. [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] v2.2 descreve como reproduzi-lo entre assistentes: mapa inicial, passos visuais, notas naturais de entrada, ideias, objetivo e passagem, fundamentos desenvolvidos, práticas com elaboração e continuidade. A escolha do formato supera o teste restrito a M2.1; ensaio e execução audiovisual conservam seus estados próprios.
+Fabiano adotou o formato, a lógica, a dinâmica e o andamento alcançados em M2.1 como modelo para as próximas produções. [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] v2.3 descreve como reproduzi-lo entre assistentes: mapa inicial, passos visuais, notas naturais de entrada, ideias, objetivo e passagem, fundamentos desenvolvidos, práticas com elaboração e continuidade. A escolha do formato supera o teste restrito a M2.1; ensaio e execução audiovisual conservam seus estados próprios.
 
 Exemplos entram como situações genéricas reconhecíveis na fala e são reapresentados com contexto a cada retomada antes de ampliar a compreensão. A personagem nomeada foi retirada dos materiais atuais de M2.1 e M2.2. O apoio do aluno apresenta os fundamentos pelo conteúdo e se dirige diretamente a quem estuda, sem bastidores sobre a formação de Fabiano. Referências completas e observações de pesquisa ficam apenas no aprofundamento opcional do aluno. As imagens e a identidade visual aprovadas foram preservadas.
 
@@ -26,13 +26,13 @@ Exemplos entram como situações genéricas reconhecíveis na fala e são reapre
 | M2.3–M2.6 e M3–M8 | Revisão estrutural disponível; novos roteiros integrais e artefatos finais não produzidos nesta frente. Aplicar o modelo adotado ao desenvolvê-los. |
 | Ensaio, duração real, gravação, edição e publicação | Sem execução confirmada nesta frente; não inferir pelo acabamento dos arquivos. |
 
-Fabiano aprovou posteriormente o apoio do aluno de M2.1 Word/PDF versão 4 como exemplar para futuras produções. O padrão v2.2, seção 9, preserva essa referência. A aprovação do apoio versão 4 distingue-se da avaliação das revisões atuais dos slides e de novas redações do apoio. Os materiais permanecem revisáveis por Fabiano.
+Fabiano aprovou posteriormente o apoio do aluno de M2.1 Word/PDF versão 4 como exemplar para futuras produções. O padrão v2.3, seção 9, preserva essa referência. A aprovação do apoio versão 4 distingue-se da avaliação das revisões atuais dos slides e de novas redações do apoio. Os materiais permanecem revisáveis por Fabiano.
 
 ## Coerência e recuperação incorporadas à produção — 22/11/2026
 
 As orientações de Fabiano pedem coerência de conceito e função entre slide, notas e apoio, com exemplos e metáforas escolhidos por pertinência. Não é necessário repetir toda figura em cada material; nenhum desenho é obrigatório nos exercícios abertos. Fontes tradicionais conservam linguagem, origem e alcance; correlação não estabelece equivalência teórica. A referência instrumental do autor é shakuhachi, não violão.
 
-Mapas complexos podem ser apresentados inteiros com foco no estágio, em recorte de região ou em adaptação fiel vinculada ao original, explicando seus níveis e o desenvolvimento ao longo do percurso. Complexidade não equivale a obsolescência nem exige domínio integral no primeiro contato. Antes de criar imagem ou diagrama, recuperar o acervo visual autoral e consultar suas notas-mãe. Examinar conteúdo e decisão vigente, sem determinar uso apenas pelo nome do arquivo. Preservar mapas e cores internas quando carregam significado. [[13 - Base de Produção Autoral e Didática - Fabiano Deliberalli]] organiza a aplicação geral; o padrão v2.2 particulariza o TSH. Os ajustes operacionais e as novas composições desta frente permanecem desenvolvimentos revisáveis, sem auto-homologação.
+Mapas complexos podem ser apresentados inteiros com foco no estágio, em recorte de região ou em adaptação fiel vinculada ao original, explicando seus níveis e o desenvolvimento ao longo do percurso. Complexidade não equivale a obsolescência nem exige domínio integral no primeiro contato. Antes de criar imagem ou diagrama, recuperar o acervo visual autoral e consultar suas notas-mãe. Examinar conteúdo e decisão vigente, sem determinar uso apenas pelo nome do arquivo. Preservar mapas e cores internas quando carregam significado. [[13 - Base de Produção Autoral e Didática - Fabiano Deliberalli]] organiza a aplicação geral; o padrão v2.3 particulariza o TSH. Os ajustes operacionais e as novas composições desta frente permanecem desenvolvimentos revisáveis, sem auto-homologação.
 
 ## Continuidade
 

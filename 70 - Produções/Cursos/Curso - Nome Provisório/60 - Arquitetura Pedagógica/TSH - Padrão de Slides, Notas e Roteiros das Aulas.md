@@ -2,7 +2,7 @@
 tipo: padrao-de-producao
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "2.2"
+versao: "2.3"
 criado_em: 2026-11-02
 atualizado_em: 2026-11-22
 aplica_se_a: futuras producoes de aulas, slides, notas e apoios do TSH
@@ -21,7 +21,7 @@ Esta nota é a descrição operacional do modelo. Serve a ChatGPT, Codex, Claude
 
 **Exemplar e revisões:** o modelo completo adotado por Fabiano permanece recuperável pela genealogia de M2.1; [[M2.1 - Apresentação editável v0.8]] e [[M2.2 - Apresentação editável v0.4]] localizam as revisões atuais produzidas para avaliação, com 20 telas em cada aula. JSON e trilha em Markdown conservam mapa, notas e desenvolvimento. A v0.7 permanece como referência da retirada da personagem e da redação dirigida ao aluno. O rótulo “teste” em metadados anteriores documenta a etapa de construção; a adoção do formato não aprova automaticamente cada revisão posterior.
 
-As versões anteriores deste padrão permanecem no histórico Git. As exigências de fala integral predeterminada, notas somente de locução e bibliografia na preparação do apresentador foram substituídas pelo modelo abaixo. Materiais já produzidos conservam seu histórico; a decisão não afirma que M0, M1, M2.2 ou outras aulas já foram refeitas.
+As versões anteriores deste padrão permanecem no histórico Git. As exigências de fala integral predeterminada, notas somente de locução e bibliografia na preparação do apresentador foram substituídas pelo modelo abaixo. Materiais já produzidos conservam seu histórico. M2.1 v0.8 e M2.2 v0.4 têm produção identificada no estado de M2; a adoção do modelo não declara M0/M1 ou as demais aulas refeitos.
 
 ### Refinamento de coerência e recuperação do acervo — 22/11/2026
 
@@ -38,6 +38,8 @@ A clareza preserva a profundidade do repertório de Fabiano: formulações autor
 M0 foi acolhimento. Seu nível introdutório não define o nível das próximas aulas. Uma entrada acessível prepara um desenvolvimento consistente. O aluno é adulto e capaz de acompanhar ideias sofisticadas quando seus termos, relações e consequências são ensinados. Não substituir uma elaboração por uma demonstração elementar, nem medir profundidade por intensidade da prática, dificuldade do vocabulário ou quantidade de autores.
 
 A arquitetura atual é de **nove módulos e 59 aulas**, com 3/7/6/8/6/9/9/8/3 posições. Usar nomes, códigos e correspondências do dossiê vigente; não restaurar a arquitetura de 54 aulas ou renumerar por iniciativa de montagem. A escolha deste formato não altera a arquitetura curricular.
+
+Ao localizar a contribuição de uma aula, distinguir três situações que pedem trabalhos diferentes: **ainda não reconhecer** algo pede ampliar percepção e mapas; **compreender e não conseguir acessar** pede investigar estado, condições, apoios e participação; **reconhecer uma possibilidade ainda pouco desenvolvida** pede cultivar uma capacidade. Essa distinção, já presente em M1 e no dossiê, evita reduzir o curso à correção de interpretações ou à recuperação de recursos supostamente prontos. Criação, prazer, dança, relações, descanso e condições materiais também pertencem ao percurso.
 
 ## 3. Lógica da trilha e andamento da aula
 
@@ -131,6 +133,8 @@ Um autor entra pela contribuição que ajuda a compreender aquele passo. Ensinar
 
 Ao usar pesquisa, tornar reconhecíveis a pergunta, o que foi feito, a contribuição relevante e a relação com o que estamos investigando. Mostrar uma figura quando ela ajuda a acompanhar o procedimento. A explicação preserva as distinções entre achado de pesquisa, tradição, formulação autoral e aplicação educacional, com a precisão necessária ao sentido. O estudo serve à aprendizagem; a aula gravada dirige-se a um grupo não acadêmico.
 
+Recuperar também as precisões de fundamentação da seção 7 do dossiê quando a alegação correspondente entrar na aula. Por exemplo: modelos de processamento preditivo não explicam sozinhos a pessoa; demonstrações de atenção não diagnosticam nem provam os Três Eus; vividez e confiança não demonstram a exatidão histórica de uma lembrança; profundidade de transe não equivale a integração. Distinguir sincronização neural, coordenação comportamental e experiência relacional. O TCC de Fabiano é revisão narrativa crítica e teórico-integrativa concluída, não pesquisa empírica em andamento. Essas distinções qualificam a explicação pertinente, sem transformar cada passagem numa sequência de advertências.
+
 **Referências completas e observações de pesquisa ficam apenas no aprofundamento opcional do material entregável ao aluno**, caso ele queira investigar mais. Nas notas, permanecerá o conteúdo que fundamenta a explicação. Não inserir DOI, URLs, ficha bibliográfica, dimensão amostral sem função didática ou ressalvas editoriais que interrompam a exposição. Uma precisão necessária para entender o que a figura ou o resultado mostram pode fazer parte da explicação. A revisão de fontes continua sendo feita na elaboração; o acervo e seus localizadores preservam a rastreabilidade, sem criar uma segunda bibliografia docente como entrega obrigatória.
 
 ## 7. Práticas compatíveis com a proposta e a profundidade do TSH
@@ -138,6 +142,8 @@ Ao usar pesquisa, tornar reconhecíveis a pergunta, o que foi feito, a contribui
 Selecionar a prática pelo aprendizado que torna possível, em diálogo com o repertório de Fabiano e a progressão do curso. Recuperar versões e fundamentos já construídos. Explicar a contribuição da prática para a questão da aula; uma atividade isolada, escolhida só porque ilustra algo sensorial, não satisfaz essa função.
 
 O preparo pode ser simples e o trabalho investigativo pode ser sofisticado. A instrução deve permitir saber o que acompanhar, como participar, o que pode variar e como elaborar depois. A técnica avançada recebe o ensino que precisa; intensidade e novidade não são critérios automáticos de excelência. Não substituir o patrimônio do curso por um exercício básico sem avaliar o ganho real de aprendizagem.
+
+Conferir a introdução, o ensino e a retomada da prática no percurso completo. Recuperar a condução e a versão efetivamente selecionadas antes de adaptar; nomear origem e propósito quando isso esclarece o trabalho. Os cinco modos de atenção — conduzir, sustentar, acompanhar, alinhar e expressar — são ênfases combináveis, não compartimentos exclusivos. Uma prática retomada acrescenta discriminação, elaboração ou aplicação; não precisa ser nova. O aluno assíncrono recebe na aula o ensino necessário para participar, com demonstração ou representação quando pertinentes, alternativas e conclusão suficientes. Um complemento ou replay pode ajudar a retomar, mas não substituir uma instrução indispensável.
 
 Durante a condução, a tela conserva uma referência estável. As notas oferecem entradas e âncoras claras; não obrigam Fabiano a reconstruir objetivos e passagens enquanto grava. Quando a sequência requer precisão de instrução, escrever essa instrução de modo natural e suficiente, preservando espaço para sua condução. A experiência tem fechamento, retorno ao ambiente e continuidade.
 
@@ -207,9 +213,13 @@ O apoio permite retomar e aprofundar o aprendizado: texto autoral claro, desenvo
 
 Incluir a seção opcional **Para investigar mais** com fontes completas e observações de pesquisa para o aluno interessado. A seção distingue contribuições, aplicações e alcance das fontes de modo compreensível. A linguagem do apoio pode desenvolver o que a aula apenas apresentou, preservando a coerência das formulações, exemplos e práticas. Revisar os três componentes juntos: slide, notas e apoio. Upload ou publicação na Hotmart só são registrados por evidência de execução.
 
+Quando a compreensão depender de uma imagem, mapa ou procedimento visto na aula, oferecer no apoio a referência visual necessária ou um acesso claro ao material, com legenda e procedência proporcionais à consulta. Não presumir que a pessoa lembra da figura ou de uma cena não reapresentada no texto. Essa autonomia não exige copiar todos os desenhos nem transformar o apoio numa transcrição dos slides.
+
+Aplicar [[TSH - Entregáveis do aluno e inserção na Hotmart - M2 a M8]]: orientação na abertura do módulo, apoio autoral quando amplia ou permite retomar a aprendizagem, a mesma Cartografia, síntese/repertório quando útil e complementos para práticas recorrentes. O fechamento pode integrar o último apoio; não impor um PDF por aula nem criar outra ficha para cada aprofundamento. Vincular o material à aula pertinente é destinação prevista; anexação, liberação e publicação permanecem estados a confirmar.
+
 ## 10. Exemplos concretos do resultado adotado
 
-Os exemplos seguintes preservam a redação atual de M2.1 v0.7, após a orientação de retirar a personagem e fazer as retomadas didáticas por situações genéricas. Mostram o nível de completude e o tipo de conexão esperado. A abertura da tela 3 foi formulada por Fabiano; as demais notas pertencem à composição que ele pediu preservar como modelo. Não atribuir toda redação do exemplar à autoria literal dele.
+Os exemplos seguintes preservam a redação de M2.1 v0.7, etapa anterior à revisão atual v0.8, após a orientação de retirar a personagem e fazer as retomadas didáticas por situações genéricas. Mostram o nível de completude e o tipo de conexão esperado. A abertura da tela 3 foi formulada por Fabiano; as demais notas pertencem à composição que ele pediu preservar como modelo. Não atribuir toda redação do exemplar à autoria literal dele. Para retomar a produção, usar as trilhas atuais indicadas no estado de M2.
 
 ### Tela 3 — A mensagem e o sentido que se forma
 
@@ -330,7 +340,56 @@ Montar `speakerNotes` ou campo equivalente a partir de `entrada`, `caminho`, `se
 
 **Apontador curto para uma nova conversa:**
 
-> Produza a aula indicada do TSH usando o modelo adotado por Fabiano em 22/11/2026. Consulte pelo GitHub `fabianodeliberalli/base-cognitiva-vault` a ficha mínima, o “Padrão de slides, notas e roteiros das aulas” v2.2 ou posterior, o exemplar e as revisões atuais indicados no estado de M2 e as fontes pertinentes à aula. Construa a trilha com visão inicial, slides como passos visuais e notas naturais para exposição livre: entrada, ideias explicadas, objetivo e passagem. Preserve a profundidade autoral, os fundamentos, as práticas e a identidade visual; referências completas e pesquisa ficam no aprofundamento opcional do aluno. Use exemplos genéricos que possam entrar naturalmente na fala, reapresente o contexto a cada retomada e amplie o raciocínio. Escreva o entregável diretamente para o aluno, sem bastidores sobre a formação do professor. Faça a conferência do encadeamento e dos arquivos antes de entregar. Não reinicie pelo roteiro integral ou pelos exemplos básicos das versões anteriores.
+> Produza a aula indicada do TSH usando o modelo adotado por Fabiano em 22/11/2026. Consulte pelo GitHub `fabianodeliberalli/base-cognitiva-vault` a base autoral geral, a ficha mínima, o “Padrão de slides, notas e roteiros das aulas” v2.3 ou posterior, o exemplar e as revisões atuais indicados no estado de M2 e as fontes pertinentes à aula. Construa a trilha com visão inicial, slides como passos visuais e notas naturais para exposição livre: entrada, ideias explicadas, objetivo e passagem. Preserve a profundidade autoral, os fundamentos, as práticas e a identidade visual; referências completas e pesquisa ficam no aprofundamento opcional do aluno. Use exemplos genéricos que possam entrar naturalmente na fala, reapresente o contexto a cada retomada e amplie o raciocínio. Escreva o entregável diretamente para o aluno, sem bastidores sobre a formação do professor. Faça a conferência do encadeamento e dos arquivos antes de entregar. Não reinicie pelo roteiro integral ou pelos exemplos básicos das versões anteriores.
+
+## 13. Conferência de cobertura das decisões e dos refinamentos — 22/11/2026
+
+Esta conferência responde ao pedido de verificar **a construção das aulas e dos materiais como um todo**, incluindo o uso de mapas e imagens. Compara as orientações registradas de Fabiano, a base geral, esta referência, a ficha mínima, o dossiê, a revisão de profundidade, o plano e o estado de M2. A consulta partiu da `main` `4098ec1c0e027721513512dde269882dc63a1b7a`; a revisão abaixo corrige apontadores de execução antigos e torna explícitas as relações que precisavam de precisão. É um índice de cobertura dentro do próprio padrão, não outro protocolo a preencher.
+
+**Como ler o alcance:** “registrado” significa orientação recuperável para a produção; “produzido” identifica um artefato concreto; “aprovado” refere-se apenas à escolha ou versão que Fabiano confirmou. A cobertura documental não demonstra a aplicação em todas as 59 aulas, qualidade medida de aprendizagem, prontidão para gravação ou publicação. A redação operacional é elaboração editorial no escopo solicitado, sem atribuir a Fabiano cada frase deste documento.
+
+### Conteúdo, fundamentos e percurso
+
+| Decisão ou refinamento | Aplicação e ponto de recuperação | Alcance conferido |
+| --- | --- | --- |
+| Profundidade adulta com clareza | Seções 2, 3, 6 e 7; [[TSH - Revisão de Profundidade e Percurso - 22-11-2026]]. Desenvolver problemas, termos, relações e consequências. M0 é acolhimento; não estabelece teto de complexidade. | Modelo registrado; M2.1 v0.8/M2.2 v0.4 produzidas para avaliação. As aulas restantes conservam seus estados. |
+| Voz e pensamento de Fabiano | Seções 1, 5 e 6; banco de vivências e fontes autorais pertinentes. Recuperar formulações, clínica, docência e articulações, além da biografia; não inventar episódios. A referência instrumental é shakuhachi. | Orientação registrada; autoria literal só quando documentada. Pedido indispensável fica na conversa/preparação, fora das notas. |
+| Unidade das 59 aulas | Seções 2 e 3; [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]], capacidade, experiência, sinal e ponte de cada aula; [[01 - Plano de produção das seis aulas M2]]. | Nove módulos/59 aulas validados; 54 origens recuperáveis. Isso não confirma roteiros, renumeração da plataforma ou conclusão dos desdobramentos. |
+| Reconhecer, acessar e desenvolver | Seção 2; M1.1–M1.3 e fios do dossiê. Diferenciar descoberta, disponibilidade situada e cultivo. Incluir criação, prazer, dança, relações, apoios e condições reais. | Distinção incorporada ao modelo; não reduzir toda questão a erro de interpretação ou recurso interno já disponível. |
+| Autores e termos efetivamente ensinados | Seção 6; amostras das telas 3 e 8 na seção 10. Explicar contribuição, termo, procedimento e ligação com a questão: Forghieri ajuda a aproximar/refletir/retornar; Lutz mostra como relatos participaram da investigação. | Não basta nomear autores; as fontes pertinentes são recuperadas antes de compor cada aula. |
+| Rigor das fundamentações | Seção 6 e seção 7 do dossiê. Separar dados, modelos, experiência, tradição e elaboração autoral; recuperar as precisões da auditoria na alegação pertinente. TCC é revisão concluída. | 95/100 é parecer editorial sobre planejamento, não medida de aprendizagem, eficácia ou prontidão dos roteiros. |
+| Multidimensionalidade afirmativa e relacional | Seções 2, 3 e 6; fios do dossiê e ficha mínima. Articular corpo, afeto, pensamento, história, cultura, vínculo, poder, condições materiais, criação, sentido e espiritualidade. A dimensão espiritual fica explícita em cada módulo, sem exigir todas as disciplinas em cada aula. | Preserva Essência/singularidade e pluralidade; não reduz espiritualidade à neurociência nem apaga acontecimentos e relações de poder. |
+| Tradições com seus sentidos próprios | Seções 1, 4 e 6; notas-mãe e fontes pertinentes. Situar linguagem, origem e função; correlações não tornam Long, MTC, Jung, neurociência e outras tradições equivalentes. | Não generalizar uma linhagem como explicação de todas as tradições; não converter a precisão em veto herdado ou ressalva defensiva repetida. |
+| Cartografia, espiral e continuidade | Seção 3; dossiê, M1.6 → M2.6 → M6.8 → M8.2. Preservar situação, manifestação, Tradução provisória e orientação possível; percebido/associado/concluído/desconhecido aprofundam a mesma investigação. | Não criar outra ficha obrigatória nem primeira apresentação fictícia de algo já ensinado. Retorno pode trazer aquisição, sem garantir transformação. |
+
+### Exposição, imagens, prática e material do aluno
+
+| Decisão ou refinamento | Aplicação e ponto de recuperação | Alcance conferido |
+| --- | --- | --- |
+| Visibilidade do percurso e slides como passos | Seções 3 e 4; mapas iniciais das trilhas M2.1 v0.8/M2.2 v0.4. Mostrar de onde viemos, o que cada passo acrescenta e a próxima pergunta; a representação torna a relação reconhecível. | Vinte telas são a composição atual de cada uma dessas aulas, não quota de produção. |
+| Quatro campos para exposição livre | Seção 5 e estrutura transportável da seção 12: PARA COMEÇAR; IDEIAS PARA DESENVOLVER; O QUE ESTAMOS TRABALHANDO; PARA SEGUIR. Âncoras naturais, conectadas e suficientes para elaborar com a voz de Fabiano. | Substitui fala integral predeterminada e notas somente de locução. Não exige três tópicos por tela nem recitação dos campos. |
+| Gravação limpa e preparação em seu lugar | Seções 5 e 6. Notas contêm conteúdo e instrução natural; montagem, tempo, revisão, pedidos, bibliografia, URL e DOI ficam fora. O material real deve sustentar a exposição sem reconstruir o raciocínio durante a gravação. | Guias podem reunir mapa e notas; não criar uma segunda entrega docente obrigatória. Precisão necessária à aprendizagem continua na explicação. |
+| Exemplos contextualizados e repetição didática | Seções 3, 9 e 10. Usar situações genéricas reconhecíveis; reapresentar o contexto a cada retomada e acrescentar a nova relação. A cobrança de trabalho pode ganhar outra leitura sem se concluir que a pessoa interpretou errado. | Personagem nomeada retirada das composições atuais M2.1/M2.2. Exemplos não se tornam histórias para memorizar nem autobiografia inventada. |
+| Unidade de slide, notas e apoio | Seções 1, 9 e 11. Conferir conceitos, finalidade, progressão, instruções e fontes em conjunto. Uma imagem na tela pode ganhar explicação verbal ou outro exemplo no apoio. | Coerência de conceito e função, sem reprodução compulsória de cada figura em todos os suportes. |
+| Metáforas pela contribuição | Seções 1, 3 e 4; base geral. Escolher a figura que esclarece uma relação; árvore, campo, vaso, espiral e eixo não precisam explicar todos os momentos. | Nenhuma figura é obrigatória nos exercícios abertos. Quando o objetivo é ensinar um mapa, declarar essa função, sem impor sua leitura à experiência pessoal. |
+| Acervo visual, procedência e vigência | Seção 4 e entradas do acervo ali localizadas. Consultar índices, fichas, originais e notas-mãe antes de criar; conferir pixels e relações quando a imagem for utilizada. | Localizar não significa conferir nem aplicar. Nome, data ou rótulo antigo não determinam vigência; preservar créditos, legenda, conteúdo e cores semânticas. |
+| Mapas complexos ensinados por níveis | Seção 4. Usar mapa integral com foco e desenvolvimento anunciado; destaque de região; ou adaptação fiel vinculada ao original. Preservar notas-mãe, original e trilha de adaptação. | Complexidade não é exclusão nem obsolescência; primeiro contato não exige domínio do conjunto. Famílias de Três Eus e Amor–Poder–Sabedoria continuam distintas. |
+| Identidade em continuidade com M0/M1 | Seção 8 e manual: azul, dourado-cobre, bege, EB Garamond/Inter, marca original, subtítulo, hierarquia, câmera e editabilidade. | Família visual aplicada em M2.1/M2.2; preservação de mapa não significa recolorir seu conteúdo. Não declara M0/M1 regravados ou republicados. |
+| Práticas à altura do patrimônio | Seção 7 e seção 5 do dossiê. Recuperar condução, versão e fundamento; desenvolver propósito, instrução, alternativas, elaboração, fechamento, retorno e continuidade. Técnica avançada recebe ensino próprio; preparo simples pode abrir investigação sofisticada. | Não escolher por facilidade, intensidade ou novidade. A retirada de uma adaptação de M2 não exclui a prática original do acervo. |
+| Atenção combinável e estudo assíncrono suficiente | Seção 7; cinco modos e introdução/ensino/retomada no dossiê. Conduzir, sustentar, acompanhar, alinhar e expressar podem coexistir. Repetir uma prática aprofunda discriminação e aplicação. | Vídeo ensina o necessário sem depender do encontro ao vivo; complemento ajuda a retomar. Mantidos os cuidados de condução já escolhidos, sem novo portão de conteúdo. |
+| Apoio autônomo, dirigido a quem aprende | Seção 9, exemplar aprovado M2.1 Word/PDF versão 4 e orientação de entregáveis. Desenvolver assunto, contribuição, exemplos, prática, elaboração e continuidade; restituir uma imagem ou situação necessária. | Sem biografia do professor, bastidores editoriais, personagem pressuposta ou dependência da memória do vídeo. Versão 4 aprovada permanece preservada; versão 5 tem estado próprio. |
+| Pesquisa opcional para o aluno | Seções 6 e 9: **Para investigar mais**, com pesquisas explicadas, contribuições e referências completas. A aula ensina o necessário sem exigir pesquisa adicional. | Aprofundamento separado e opcional; a fonte que sustenta a explicação não desaparece por não ocupar as notas do apresentador. |
+
+### Entrega, recuperação e estados
+
+| Decisão ou refinamento | Aplicação e ponto de recuperação | Alcance conferido |
+| --- | --- | --- |
+| Entregáveis e Hotmart por aprendizagem | Seção 9; [[TSH - Entregáveis do aluno e inserção na Hotmart - M2 a M8]]. Orientação, apoios úteis, Cartografia, síntese/repertório e complementos podem compartilhar arquivos. | Sem número fixo de PDFs/páginas ou ficha nova por aula. Destinação não comprova upload, liberação, publicação ou acesso de cada aluno. |
+| Recuperação automática quando há acesso | Seções 1 e 12; `AGENTS.md`/`CLAUDE.md` → contrato comum → base geral e ficha do projeto → padrão, estado e fontes pertinentes. Aplicação durante o trabalho, sem novo lembrete ou relatório ritual. | Generalizável a outros conteúdos com a base geral e sua referência específica; não exportar o currículo TSH nem prometer leitura por uma IA sem acesso. |
+| Qualidade do produto entregue | Seções 8 e 11. Percorrer o conteúdo integral e os artefatos reais; conferir conceitos, encadeamento, todas as notas, imagens, links, legibilidade, fontes e exportações conforme a alteração. | QA visual não demonstra aprendizagem ou prontidão substantiva. Uma correção de notas não autoriza destruir o apoio visual aprovado. |
+| Decisões, propostas, produção e desconhecido | Seções 1, 9 e 11; [[00 - Estado e Continuidade da Produção M2]]. Distinguir adoção do modelo, exemplar aprovado, revisão produzida para avaliação e etapas sem confirmação. | M2.1 v0.8/M2.2 v0.4 e seus apoios têm produção registrada. M2.3–M2.6/M3–M8 têm orientação estrutural, sem novos artefatos finais produzidos nesta frente; ensaio, duração, gravação, edição e Hotmart continuam sem confirmação. |
+
+**Precisões feitas nesta conferência:** a ficha mínima, o plano de M2, os localizadores do dossiê e a orientação de entregáveis passam a retomar as trilhas M2.1 v0.8/M2.2 v0.4 e o estado de M2. As etapas de 12/18 telas, roteiro integral, personagem e apoio inicial de duas páginas ficam qualificadas como história no próprio trecho. Matrizes 9–54 conservam a função de consulta das origens, acompanhadas da correspondência atual 59. O padrão reúne a cobertura acima; a produção continua aula a aula, com verificação do resultado concreto.
 
 ## Relações
 
@@ -338,6 +397,9 @@ Montar `speakerNotes` ou campo equivalente a partir de `entrada`, `caminho`, `se
 - [[00 - Manual de Identidade Visual v1.0]]
 - [[TSH - Forma de construção das aulas M2–M8 - cena, verbo e voz do autor]]
 - [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]]
-- [[M2.1 - Trilha de exposição v0.7]]
-- [[M2.1 - Apresentação editável v0.7]]
+- [[M2.1 - Trilha de exposição v0.8]]
+- [[M2.1 - Apresentação editável v0.8]]
+- [[M2.2 - Trilha de exposição v0.4]]
+- [[M2.2 - Apresentação editável v0.4]]
+- [[13 - Base de Produção Autoral e Didática - Fabiano Deliberalli]]
 - [[00 - Estado e Continuidade da Produção M2]]

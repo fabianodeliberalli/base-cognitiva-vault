@@ -11,7 +11,7 @@ aliases:
 
 ## Modelo de produção adotado — 22/11/2026
 
-Para produzir aulas, slides, notas e apoios, aplicar [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] v2.0 ou posterior. Fabiano adotou a trilha de exposição de M2.1 para as próximas produções, com mapa inicial, slides como passos visuais e notas naturais de entrada, ideias, objetivo e passagem. Exemplos são situações genéricas que podem acompanhar o percurso, reapresentadas com contexto antes de cada ampliação; a personagem nomeada foi retirada dos materiais atuais. O entregável se dirige ao aluno e apresenta fundamentos pelo conteúdo, sem bastidores formativos. A nota do padrão contém exemplos completos e a forma de reprodução em outras ferramentas. Sua decisão atual substitui as orientações de fala integral/nota somente locução abaixo; fundamentos e profundidade continuam pertinentes.
+Para produzir aulas, slides, notas e apoios, aplicar [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] v2.3 ou posterior e recuperar as versões correntes em [[00 - Estado e Continuidade da Produção M2]]. Fabiano adotou a trilha de exposição de M2.1 para as próximas produções, com mapa inicial, slides como passos visuais e notas naturais de entrada, ideias, objetivo e passagem. Exemplos são situações genéricas que podem acompanhar o percurso, reapresentadas com contexto antes de cada ampliação; a personagem nomeada foi retirada dos materiais atuais. O entregável se dirige ao aluno e apresenta fundamentos pelo conteúdo, sem bastidores formativos. A nota do padrão contém exemplos completos e a forma de reprodução em outras ferramentas. Sua decisão atual substitui as orientações de fala integral/nota somente locução abaixo; fundamentos e profundidade continuam pertinentes.
 
 ## Atualização de produção — 22/11/2026
 
@@ -52,7 +52,7 @@ As notas e o guia seguem a trilha com entrada natural, ideias articuladas, prop�
 Quando uma vivência for relevante ao bloco, quem prepara o roteiro (Fabiano ou um assistente):
 
 1. **Procura primeiro no repositório** uma vivência, cena ou caso de Fabiano que sirva ao bloco. Ponto de partida: [[TSH - Banco de cenas e vivências do autor]].
-2. **Se a vivência for necessária e não for encontrada, não inventar uma lembrança de Fabiano.** Escreve no roteiro uma seção **"Pedidos a Fabiano"**, com:
+2. **Se a vivência for necessária e não for encontrada, não inventar uma lembrança de Fabiano.** Reúne os **pedidos a Fabiano na conversa ou na preparação de produção**, fora dos slides, das notas de exposição e do apoio do aluno, com:
    - a aula e o bloco;
    - o que a cena precisa mostrar;
    - até três perguntas concretas, respondíveis por áudio ("Você lembra de um momento em que...? O que fez com o corpo? O que disse?");
@@ -98,10 +98,10 @@ Em M7.8 cabe a outra metade de Long: a culpa real pede reparação concreta, nã
 
 ## 7. Semana de M3 — orientação anterior, aplicar à distribuição atual de oito aulas
 
-É a semana mais pesada: sete aulas, o ensino formal do Zhan Zhuang e três etapas de indução em 05/12.
+**Histórico da distribuição anterior:** esta orientação examinava sete aulas, o ensino formal do Zhan Zhuang e três etapas de indução em 05/12. Hoje M3 tem oito aulas: M3.6 postura, M3.7 movimento e M3.8 escolha/adaptação de recursos. Recuperar duração e dosagem na composição e no ensaio atuais, sem transportar automaticamente os limites antigos.
 
 - **Cronometrar M3.6 no ensaio.** Se passar de cerca de 25 minutos, dividir em parte A (Zhan Zhuang: origem, princípios, eixo do pé ao topo, transições, versão sentada) e parte B (sequência regular comentada), como já decidido para as aulas com prática editada; ou levar os detalhes para o material de apoio.
-- **M3.7: no máximo dois recursos novos.**
+- **Antiga M3.7: no máximo dois recursos novos** era recomendação daquela distribuição, não limite para a atual aula de movimento. A função de escolher recursos é agora M3.8.
 - **Encontro de 05/12:** se as três etapas de indução apertarem o tempo, o braço como pano molhado pode passar para 12/12 sem prejuízo da sequência.
 
 

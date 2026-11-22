@@ -2,7 +2,7 @@
 tipo: orientacao-de-producao
 projeto: Traduzindo o Ser Humano
 status: modelo-de-entregavel-adotado-revisavel
-versao: "1.1"
+versao: "1.2"
 registrado_em: 2026-11-22
 autoridade_da_orientacao: Fabiano Deliberalli
 ---
@@ -11,7 +11,7 @@ autoridade_da_orientacao: Fabiano Deliberalli
 
 ## Exemplar aprovado em 22/11/2026
 
-Fabiano confirmou: **“O entregável está bom. REGISTRE ESTE MODELO”**. Preservar o apoio atual de **M2.1 — Como se forma o que você percebe?**, Word e PDF versão 4, PDF de quatro páginas, como exemplar dos futuros materiais do aluno. [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] v2.1, seção 9, reúne localizadores, identificação da cópia exata no Git, amostras e forma de reprodução. O texto completo está em [[M2.1 - Apoio do aluno - Perceber e revisar uma leitura]].
+Fabiano confirmou: **“O entregável está bom. REGISTRE ESTE MODELO”**. Preservar o apoio de **M2.1 — Como se forma o que você percebe?**, Word e PDF versão 4, PDF de quatro páginas, como exemplar aprovado dos futuros materiais do aluno. [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] v2.3, seção 9, reúne localizadores, identificação da cópia exata no Git, amostras e forma de reprodução. O texto pesquisável está em [[M2.1 - Apoio do aluno - Perceber e revisar uma leitura]]; revisões posteriores têm estado próprio e não substituem a identificação histórica da aprovação.
 
 Reproduzir sua perspectiva dirigida ao aluno, o desenvolvimento dos fundamentos pelo conteúdo, os exemplos genéricos com retomadas de contexto, a exploração retomável, a Cartografia, a continuidade e o aprofundamento opcional. Preservar a identidade visual. Os fundamentos e as práticas de cada nova aula determinam seu conteúdo e sua extensão; quatro páginas não são limite ou quota. A aprovação do exemplar não se confunde com a avaliação das apresentações de slides.
 
@@ -59,8 +59,8 @@ O plano das seis aulas já organiza capacidades, experiências, fontes e entreg�
 
 | Aula atual | Função do apoio e estado nesta frente |
 | --- | --- |
-| **M2.1 — Como se forma o que você percebe?** | **Entregável aprovado como exemplar:** Word/PDF versão 4, quatro páginas. Formação da experiência, perceber/agir, descrição/reflexão, cultivo e espiritualidade; exploração por aproximação, expressão e retorno; Cartografia, continuidade e aprofundamento opcional. Publicação permanece sem confirmação. |
-| **M2.2 — Por que alguns sinais ganham mais importância?** | Apoio Word/PDF produzido e com correções pontuais, versão 2. A reconstrução da aula segundo o modelo de trilha permanece pendente. Desenvolver a relação entre destaque, importância, forma e elaboração conforme sua contribuição. A aprovação do exemplar M2.1 não aprova automaticamente este material. |
+| **M2.1 — Como se forma o que você percebe?** | **Exemplar aprovado preservado:** Word/PDF versão 4, quatro páginas. Revisão posterior do apoio versão 5, quatro páginas, produzida com ajustes seletivos autorizados; a aprovação não se estende automaticamente à nova redação. Formação da experiência, perceber/agir, descrição/reflexão, cultivo e espiritualidade; aproximação, expressão e retorno; Cartografia e aprofundamento opcional. A trilha atual é v0.8, com 20 telas; publicação sem confirmação. |
+| **M2.2 — Por que alguns sinais ganham mais importância?** | Apoio Word/PDF versão 3, quatro páginas, produzido para avaliação. A trilha v0.4, com 20 telas, e o guia foram produzidos; a reconstrução não permanece pendente. Destaque, importância, forma e elaboração têm contribuição própria. A aprovação do exemplar M2.1 não aprova automaticamente este material; publicação sem confirmação. |
 | **M2.3 — Interpretações e certezas: recuperar outras pistas** | Apoio específico **a escrever; estado em aberto**. Permitir reencontrar orientação/retorno e uma pergunta ou informação que possa rever a certeza, preservando entrada, alternativas e encerramento. |
 | **M2.4 — O que mantém a repetição de uma resposta?** | Apoio específico **a escrever; estado em aberto**. Comparar ocasiões, pistas, funções possíveis, consequências e alternativas na mesma Cartografia, considerando vínculo e condições reais. |
 | **M2.5 — Acontecimento, experiência e interpretação** | Apoio específico **a escrever; estado em aberto**. Diferenciar vivido, sentido atribuído e desconhecido; acolher a dimensão espiritual e permitir diálogo, confirmação, correção ou questão aberta. |

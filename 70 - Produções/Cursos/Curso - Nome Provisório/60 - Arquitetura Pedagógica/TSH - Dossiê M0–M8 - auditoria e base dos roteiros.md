@@ -20,13 +20,13 @@ Revisão editorial iniciada em 21/11/2026 · Estrutura validada por Fabiano em 2
 
 ## Revisão substantiva solicitada por Fabiano — 22/11/2026
 
-A crítica de Fabiano à profundidade da produção originou a reconstrução de M2.1 v0.4 e M2.2 v0.2 e a revisão estrutural aula a aula em [[TSH - Revisão de Profundidade e Percurso - 22-11-2026]]. As fichas abaixo agora incorporam desenvolvimento e experiência aprofundados, preservando identificadores, origens e arquitetura. M0 conserva boas-vindas. M1 recebe encaminhamentos para revisão, sem declaração de substituição dos vídeos. As aulas futuras têm orientação estrutural, sem se presumir roteiro integral produzido.
+A crítica de Fabiano à profundidade da produção originou a reconstrução histórica de M2.1 v0.4 e M2.2 v0.2 e a revisão estrutural aula a aula em [[TSH - Revisão de Profundidade e Percurso - 22-11-2026]]. A retomada atual usa [[M2.1 - Trilha de exposição v0.8]]/[[M2.2 - Trilha de exposição v0.4]], ambas com 20 telas, notas de quatro campos e produção para avaliação, pelo [[00 - Estado e Continuidade da Produção M2]] e padrão v2.3. As fichas incorporam desenvolvimento e experiência aprofundados, preservando identificadores, origens e arquitetura. M0 conserva boas-vindas. M1 recebe encaminhamentos para revisão, sem declaração de substituição dos vídeos. As demais aulas têm orientação estrutural, sem se presumir artefato final produzido.
 
 A nota anterior de 95/100 avaliava coerência do planejamento; não comprova profundidade ou prontidão dos roteiros. A aplicação da identidade visual e a limpeza da fala são verificações próprias. As referências anteriores a M2.1 v0.2/v0.3 e ao poder do dedo são históricas quando divergirem desta composição atual. O patrimônio das práticas originais continua disponível. Ver [[00 - Estado e Continuidade da Produção M2]].
 
 ## Nomes revistos para clareza do estudo e da progressão — 22/11/2026
 
-Fabiano adotou **Como se forma o que você percebe?** para M2.1 e orientou rever os nomes de todas as aulas e, quando necessário, dos módulos para tornar reconhecíveis o foco real, os fundamentos e a progressão do aluno. Os demais nomes abaixo são ajustes editoriais de produção desenvolvidos nesse escopo, não escolhas textuais individuais atribuídas ao autor. O registro [[TSH - Nomes das aulas e módulos - revisão de clareza 2026-11-22]] conserva nomes anteriores, novos nomes, foco e motivo. Códigos, correspondências, conteúdos e estados de produção continuam recuperáveis; esta edição não confirma mudanças na Hotmart ou nos vídeos publicados. M2.1 utiliza [[M2.1 - Roteiro oral e caderno de produção v0.2]].
+Fabiano adotou **Como se forma o que você percebe?** para M2.1 e orientou rever os nomes de todas as aulas e, quando necessário, dos módulos para tornar reconhecíveis o foco real, os fundamentos e a progressão do aluno. Os demais nomes abaixo são ajustes editoriais de produção desenvolvidos nesse escopo, não escolhas textuais individuais atribuídas ao autor. O registro [[TSH - Nomes das aulas e módulos - revisão de clareza 2026-11-22]] conserva nomes anteriores, novos nomes, foco e motivo. Códigos, correspondências, conteúdos e estados de produção continuam recuperáveis; esta edição não confirma mudanças na Hotmart ou nos vídeos publicados. O roteiro oral M2.1 v0.2 é histórico; a referência de execução atual é [[M2.1 - Trilha de exposição v0.8]].
 
 ## Parecer e alcance dos ajustes
 
@@ -355,7 +355,7 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 #### M2.1 — Como se forma o que você percebe?
 **Origem:** M2.1. **Capacidade:** Reconstruída: formação corporificada e relacional da experiência, enação, expectativa e investigação em primeira pessoa.
 
-**Experiência:** Roteiro completo v0.4. Aproximar uma questão viva, expressar uma forma e retornar para conferir; investigar a participação da linguagem e da ação na compreensão. O exemplo de Lia ocupa função de aplicação.
+**Experiência:** [[M2.1 - Trilha de exposição v0.8]], produzida para avaliação. Aproximar uma questão viva, expressar uma forma e retornar para conferir; investigar a participação da linguagem e da ação na compreensão. Exemplos genéricos recebem contexto a cada retomada. A personagem e o roteiro integral v0.4 pertencem à etapa histórica.
 
 **O que observar:** Reconhece a participação do corpo/contexto, distingue expressão e primeira explicação e descreve o que adquiriu ao retornar à questão.
 
@@ -366,7 +366,7 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 #### M2.2 — Por que alguns sinais ganham mais importância?
 **Origem:** M2.2. **Capacidade:** Reconstruída: relevância, forma simbólica e os dois tempos da Tradução.
 
-**Experiência:** Roteiro completo v0.2. Receber uma forma, orientar conscientemente a investigação e reabrir a escuta; comparar o que ganhou importância. Eu Básico/Eu Médio, Bion e Naranjo operam na leitura. A adaptação do dedo sai.
+**Experiência:** [[M2.2 - Trilha de exposição v0.4]], produzida para avaliação. Receber uma forma, orientar conscientemente a investigação e reabrir a escuta; comparar o que ganhou importância. Eu Básico/Eu Médio, Bion e Naranjo operam na leitura. O roteiro integral v0.2 é histórico; a adaptação do dedo permanece fora desta composição, sem excluir a prática original do acervo.
 
 **O que observar:** Diferencia destaque, importância e certeza; acompanha forma e elaboração e reconhece como a pergunta dirigida participa do que ganha relevância.
 
