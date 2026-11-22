@@ -35,7 +35,7 @@ M2.1 possui os arquivos [[TSH_M2_1_Como_se_forma_o_que_voce_percebe_Apoio_do_Alu
 
 ## Continuidade de produção
 
-A próxima ação é gravar M2.1 usando o [[M2.1 - Roteiro de fala v0.3]] e a apresentação correspondente. Um ensaio breve permite conferir a primeira leitura, as passagens de tela, o enquadramento e os silêncios da prática; registrar o tempo efetivamente medido, sem herdar as estimativas da v0.2. A execução da gravação continua sem confirmação por este registro. O plano das outras aulas permanece aberto a refinamento, sem exigir uma nova auditoria geral.
+A fala de M2.1 está preparada em [[M2.1 - Roteiro de fala v0.3]]. A auditoria visual em [[02 - Auditoria e padronização visual M0 M1 M2]] recomenda ajustar a aplicação da identidade oficial na apresentação e no apoio do aluno antes da gravação. Essa aplicação visual ainda não foi executada nesta revisão. Um ensaio breve permite conferir a primeira leitura, as passagens de tela, o enquadramento e os silêncios da prática; registrar o tempo efetivamente medido, sem herdar as estimativas da v0.2. A execução da gravação continua sem confirmação por este registro. O plano das outras aulas permanece aberto a refinamento, sem exigir uma nova auditoria geral.
 
 Depois, produzir M2.2/M2.3 como um par de continuidade: aquilo que ganha destaque e a possibilidade de recuperar pistas. M2.4/M2.5/M2.6 desenvolvem manutenção de respostas, diferença entre vivido e conclusão e revisão da Tradução. O nível de explicação e o ritmo de M2.1 ajudam a dar unidade às próximas aulas.
 
@@ -43,7 +43,7 @@ Depois, produzir M2.2/M2.3 como um par de continuidade: aquilo que ganha destaqu
 
 Por pedido de Fabiano, a locução utiliza linguagem clara, coloquial e natural, com blocos curtos que facilitem a primeira leitura. As notas de gravação contêm somente o que será dito. Fontes, rubricas, tempos e preparação ficam nos materiais do educador; instruções faladas da prática permanecem. A preferência orienta as próximas produções, com os silêncios conduzidos pelo educador. O ajuste editorial não acrescenta conteúdo ao currículo nem altera o apoio do aluno.
 
-A avaliação de identidade visual é uma frente separada em [[02 - Auditoria e padronização visual M0 M1 M2]]. Os visuais observados na apresentação permanecem inalterados; propostas de padronização visual estão pendentes, sem declaração de conformidade com o manual.
+A avaliação de identidade visual foi concluída no alcance descrito em [[02 - Auditoria e padronização visual M0 M1 M2]]. Os visuais observados na apresentação permanecem inalterados; propostas de padronização visual estão pendentes, sem declaração de conformidade com o manual.
 
 ## Seleções iniciais e relações
 
