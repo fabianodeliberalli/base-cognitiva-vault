@@ -2,7 +2,7 @@
 tipo: plano-de-producao
 projeto: Traduzindo o Ser Humano
 modulo: M2
-versao: "0.2"
+versao: "0.3"
 data: 2026-11-22
 status: revisao-substantiva
 arquitetura: nove-modulos-59-aulas
@@ -12,19 +12,19 @@ arquitetura: nove-modulos-59-aulas
 
 Revisão solicitada por Fabiano para recuperar a profundidade de suas práticas, literatura e elaborações. M2 desenvolve a constituição da experiência, a relevância e a simbolização, a experiência de certeza, a repetição, a distinção entre vivido/sentido/origem e a Tradução recursiva. As cenas funcionam como aplicação e não como substituição dos fundamentos.
 
-M2.1 e M2.2 têm novos roteiros completos. As quatro aulas seguintes recebem orientação estrutural; a escrita integral e a composição prática final ainda serão produzidas. O percurso conserva seis aulas, com Cartografia comum e estudo assíncrono suficiente. O encontro ao vivo conserva seu planejamento sem confirmação de execução.
+M2.1 e M2.2 têm trilhas atuais produzidas para avaliação: v0.8 e v0.4, respectivamente, ambas com 20 telas e notas naturais de quatro campos, conforme o padrão v2.3. [[00 - Estado e Continuidade da Produção M2]] localiza apresentações, guias e apoios. As quatro aulas seguintes recebem orientação estrutural; sua composição final ainda será produzida. O percurso conserva seis aulas, com Cartografia comum e estudo assíncrono suficiente. O encontro ao vivo conserva seu planejamento sem confirmação de execução.
 
 ## M2.1 — Como se forma o que você percebe?
 
 **Desenvolvimento:** Reconstruída: formação corporificada e relacional da experiência, enação, expectativa e investigação em primeira pessoa.
 
-**Experiência e articulação:** Roteiro completo v0.4. Aproximar uma questão viva, expressar uma forma e retornar para conferir; investigar a participação da linguagem e da ação na compreensão. O exemplo de Lia ocupa função de aplicação.
+**Experiência e articulação:** [[M2.1 - Trilha de exposição v0.8]]. Aproximar uma questão viva, expressar uma forma e retornar para conferir; investigar a participação da linguagem e da ação na compreensão. Exemplos genéricos são reapresentados com contexto, sem personagem nomeada. O roteiro integral v0.4 é etapa histórica, não ponto de retomada.
 
 ## M2.2 — Por que alguns sinais ganham mais importância?
 
 **Desenvolvimento:** Reconstruída: relevância, forma simbólica e os dois tempos da Tradução.
 
-**Experiência e articulação:** Roteiro completo v0.2. Receber uma forma, orientar conscientemente a investigação e reabrir a escuta; comparar o que ganhou importância. Eu Básico/Eu Médio, Bion e Naranjo operam na leitura. A adaptação do dedo sai.
+**Experiência e articulação:** [[M2.2 - Trilha de exposição v0.4]]. Receber uma forma, orientar conscientemente a investigação e reabrir a escuta; comparar o que ganhou importância. Eu Básico/Eu Médio, Bion e Naranjo operam na leitura. O roteiro integral v0.2 é etapa histórica. A adaptação do dedo permanece fora desta composição; a prática original continua no acervo.
 
 ## M2.3 — Interpretações e certezas: recuperar outras pistas
 

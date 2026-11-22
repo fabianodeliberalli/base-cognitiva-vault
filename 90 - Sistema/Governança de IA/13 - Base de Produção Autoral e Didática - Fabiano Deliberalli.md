@@ -1,7 +1,7 @@
 ---
 tipo: base-de-producao-autoral-e-didatica
 status: referencia-de-trabalho-revisavel
-versao: "1.0"
+versao: "1.1"
 atualizado_em: 2026-11-22
 autoridade_final: Fabiano Deliberalli
 elaboracao: desenvolvimento-editorial-para-avaliacao
@@ -11,7 +11,7 @@ elaboracao: desenvolvimento-editorial-para-avaliacao
 
 ## Aplicação a partir do contexto
 
-Fabiano solicitou que sua base de produção seja recuperada no trabalho com qualquer conteúdo autoral, do TSH ou de outro projeto, sem precisar repetir essas orientações em cada pedido. Esta nota organiza a aplicação geral; sua redação operacional foi desenvolvida nesta frente para avaliação e integração ao repositório. As escolhas do autor e a instrução mais recente da tarefa prevalecem.
+Fabiano solicitou que sua base de produção seja recuperada no trabalho com qualquer conteúdo autoral, do TSH ou de outro projeto, sem precisar repetir essas orientações em cada pedido. Esta nota organiza a aplicação geral e foi incorporada ao repositório por homologação; sua redação operacional permanece editorial e revisável. As escolhas do autor e a instrução mais recente da tarefa prevalecem. A incorporação da referência não aprova automaticamente as peças produzidas a partir dela.
 
 Ao criar ou revisar aulas, roteiros, textos, apresentações, apoios ou outras peças autorais, aplicar esta base durante a execução, sem cobrar um lembrete ou anunciar um ritual de carregamento. Ela atua quando o assistente efetivamente acessa estas referências. A presença de um arquivo não prova que outra IA, conversa ou aplicativo o tenha recebido ou lido.
 
@@ -41,9 +41,13 @@ Organizar uma progressão que torne reconhecíveis a questão, seu desenvolvimen
 
 Uma metáfora ou figura não precisa ocupar toda a produção. Slides, notas, texto e apoio mantêm **coerência de conceito e função**, com representações adequadas a cada suporte. Uma imagem pode organizar uma relação na tela e ser desenvolvida por palavras nas notas ou no apoio. Quando sua leitura for necessária ao aprendizado, oferecê-la com os elementos necessários à consulta.
 
+Se a entrega ensina uma prática, desenvolver seu fundamento, propósito, instrução, alternativas pertinentes, elaboração, encerramento e continuidade na extensão necessária. O preparo pode ser simples e a investigação sofisticada; técnica avançada recebe ensino próprio. No conjunto de aulas ou materiais, explicitar o que cada etapa retoma e acrescenta, sem repetir sempre uma introdução básica. Quantidade de páginas, telas, técnicas ou autores não mede profundidade.
+
 Em exercícios abertos, preservar a escolha de questão, expressão e sentido do participante. Não impor árvore, campo, vaso ou outra figura para enquadrar toda resposta. Quando a atividade ensinar deliberadamente um mapa, explicitar esse trabalho; não converter o mapa em interpretação obrigatória da experiência pessoal.
 
 Separar o que o destinatário precisa estudar do que pertence à preparação de produção. As notas sustentam a exposição no formato pedido; o texto do aluno ou leitor explica o conteúdo diretamente a ele. Referências completas e aprofundamentos ocupam o lugar que favoreça consulta e compreensão no produto específico. Não transportar para outras peças todas as funções de uma aula.
+
+O apoio destinado ao estudo precisa ser compreensível por si: restituir o contexto de exemplos, explicar a contribuição dos fundamentos e oferecer as imagens ou os acessos necessários, sem presumir lembrança de outra peça. A formação e a biografia do professor não substituem o conteúdo. Aprofundamentos opcionais ampliam o estudo sem deixar por ensinar algo indispensável. A referência específica de cada projeto define a composição; no TSH, a conferência de cobertura está na seção 13 do padrão de aulas.
 
 ## Conferir e registrar com proporção
 
