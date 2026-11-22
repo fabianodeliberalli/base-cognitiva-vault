@@ -18,9 +18,11 @@ Fabiano validou a organização de nove módulos e 59 aulas e solicitou registra
 | Material | Estado e próximo uso |
 | --- | --- |
 | [[01 - Plano de produção das seis aulas M2]] | Primeira composição integrada elaborada: perguntas, capacidades, cenas, fontes, práticas, sinais de aprendizagem, transições e entregáveis. |
-| [[M2.1 - Roteiro oral e caderno de produção v0.2]] | Roteiro de gravação v0.2, com o título adotado por Fabiano e abertura, pergunta central e fechamento alinhados. A v0.1 permanece histórica. |
+| [[M2.1 - Roteiro de fala v0.3]] | Fala de gravação revisada por pedido do autor: linguagem coloquial e natural, em 108 blocos curtos, com 1.753 palavras. A v0.2 e a v0.1 permanecem históricas; fundamentação e preparação continuam à parte. |
+| [Word de gravação — somente fala v0.3](https://chatgpt.com/library?file_id=libfile_fde3_f-0a29781aadec8191896dfd0cc5abdd4d_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal) | Arquivo de leitura produzido em Arial 15,5, com a fala v0.3 em blocos curtos. Ferramenta interna de gravação; não é material do aluno nem aplicação de identidade visual pesada. |
+| [[M2.1 - Conteúdo das telas e notas v0.3.json]] | Conteúdo recuperável das mesmas 12 telas; notas com somente o texto a dizer, sem rubricas, temporização ou fontes. A atualização das 12 notas na página nativa foi conferida, com correspondência exata e conteúdo visual inalterado. |
 | [[M2.1 - Fontes e notas do educador]] | Quatro fontes selecionadas, função e alcance, com procedência direta ou recuperada; artigos primários conferidos. |
-| [[M2.1 - Sequência de telas e montagem da prática]] | Apresentação editável de doze telas produzida, com a fala integral nas notas, pausas e fontes. Ver [[M2.1 - Apresentação editável v0.2]]. A sequência textual orienta montagem e resgate. |
+| [[M2.1 - Sequência de telas e montagem da prática]] | Preparação e montagem alinhadas à fala v0.3; as mesmas doze telas e seus visuais permanecem em [[M2.1 - Apresentação editável v0.2]]. Notas de gravação contêm só a fala; fontes e preparação ficam separadas. |
 | [[M2.1 - Apoio do aluno - Perceber e revisar uma leitura]] | Apoio v0.2 ampliado como leitura fundamentada, prática, aplicação e referências. PDF de duas páginas e Word editável produzidos e conferidos; anexação e publicação na Hotmart não confirmadas. Ver [[M2.1 - Inserção do apoio do aluno na Hotmart]]. |
 | Roteiros completos M2.2–M2.6 | Ainda não produzidos nesta frente; materiais externos não confirmados. |
 | Ensaio, gravação, edição e publicação | Sem execução confirmada nesta produção. Não preencher os estados a partir da existência dos textos. |
@@ -33,9 +35,15 @@ M2.1 possui os arquivos [[TSH_M2_1_Como_se_forma_o_que_voce_percebe_Apoio_do_Alu
 
 ## Continuidade de produção
 
-A próxima ação é gravar M2.1 usando o roteiro v0.2 e a apresentação correspondente. Um ensaio breve permite conferir a leitura das notas, o enquadramento e as pausas; registrar o tempo efetivamente medido. A execução da gravação continua sem confirmação por este registro. O plano das outras aulas permanece aberto a refinamento, sem exigir uma nova auditoria geral.
+A fala de M2.1 está preparada em [[M2.1 - Roteiro de fala v0.3]]. A auditoria visual em [[02 - Auditoria e padronização visual M0 M1 M2]] recomenda ajustar a aplicação da identidade oficial na apresentação e no apoio do aluno antes da gravação. Essa aplicação visual ainda não foi executada nesta revisão. Um ensaio breve permite conferir a primeira leitura, as passagens de tela, o enquadramento e os silêncios da prática; registrar o tempo efetivamente medido, sem herdar as estimativas da v0.2. A execução da gravação continua sem confirmação por este registro. O plano das outras aulas permanece aberto a refinamento, sem exigir uma nova auditoria geral.
 
 Depois, produzir M2.2/M2.3 como um par de continuidade: aquilo que ganha destaque e a possibilidade de recuperar pistas. M2.4/M2.5/M2.6 desenvolvem manutenção de respostas, diferença entre vivido e conclusão e revisão da Tradução. O nível de explicação e o ritmo de M2.1 ajudam a dar unidade às próximas aulas.
+
+## Fala e notas de gravação — ajuste aplicado em 22/11/2026
+
+Por pedido de Fabiano, a locução utiliza linguagem clara, coloquial e natural, com blocos curtos que facilitem a primeira leitura. As notas de gravação contêm somente o que será dito. Fontes, rubricas, tempos e preparação ficam nos materiais do educador; instruções faladas da prática permanecem. A preferência orienta as próximas produções, com os silêncios conduzidos pelo educador. O ajuste editorial não acrescenta conteúdo ao currículo nem altera o apoio do aluno.
+
+A avaliação de identidade visual foi concluída no alcance descrito em [[02 - Auditoria e padronização visual M0 M1 M2]]. Os visuais observados na apresentação permanecem inalterados; propostas de padronização visual estão pendentes, sem declaração de conformidade com o manual.
 
 ## Seleções iniciais e relações
 

@@ -6,6 +6,17 @@ criado_em: 2026-11-21
 autor: Fabiano Deliberalli
 ---
 
+## 22/11/2026 — fala natural e notas de gravação com somente a locução
+
+Fabiano solicitou que as notas da apresentação contenham apenas o que será dito, em linguagem clara, coloquial e natural, com blocos curtos para facilitar a primeira leitura. Rubricas, marcações de pausa, tempos, fontes e URLs ficam fora das notas de gravação; a fundamentação e a preparação permanecem em seus materiais próprios. Instruções faladas da prática, como “Fique um pouco com esse contato”, permanecem, com silêncios conduzidos pelo educador. A preferência se estende às próximas produções.
+
+O ajuste editorial foi aplicado ao texto de M2.1 em [[M2.1 - Roteiro de fala v0.3]] e ao conteúdo recuperável em [[M2.1 - Conteúdo das telas e notas v0.3.json]]. São preservados os visuais das 12 telas e a página editável de [[M2.1 - Apresentação editável v0.2]]. As versões v0.2 continuam como histórico, e [[M2.1 - Fontes e notas do educador]] conserva fontes e procedências. Os números de duração e pausa da v0.2 não confirmam a duração da fala atual.
+
+A avaliação de identidade em [[02 - Auditoria e padronização visual M0 M1 M2]] distingue regras do manual e propostas de aplicação. É uma frente separada: propostas de padronização estão pendentes, e o ajuste de fala não altera os visuais nem homologa sua conformidade.
+
+Esta é uma decisão sobre linguagem e uso das notas, aplicada no escopo pedido pelo autor; não constitui novo conteúdo curricular nem alteração do apoio do aluno. Ensaio, gravação, edição e publicação continuam sem confirmação por esse ajuste. As referências à v0.2 nos registros datados abaixo documentam a etapa anterior da produção.
+
+
 ## 22/11/2026 — entregáveis do aluno em continuidade com M0 e M1
 
 Fabiano adotou a proposta de registrar e prosseguir com os apoios para o aluno de M2 e dos demais módulos. A composição reúne leitura autoral fundamentada, exemplos, prática retomável, aplicação, Cartografia comum e referências conforme pertinência; a extensão e o formato acompanham o aprendizado. Abertura e síntese podem integrar materiais existentes, e práticas recorrentes podem ocupar os complementares. O registro completo está em [[TSH - Entregáveis do aluno e inserção na Hotmart - M2 a M8]].
