@@ -1,7 +1,7 @@
 ---
 tipo: base-de-producao-autoral-e-didatica
 status: referencia-de-trabalho-revisavel
-versao: "1.3"
+versao: "1.4"
 atualizado_em: 2026-11-22
 autoridade_final: Fabiano Deliberalli
 elaboracao: desenvolvimento-editorial-para-avaliacao
@@ -58,6 +58,14 @@ Em exercícios abertos, preservar a escolha de questão, expressão e sentido do
 Separar o que o destinatário precisa estudar do que pertence à preparação de produção. As notas sustentam a exposição no formato pedido; o texto do aluno ou leitor explica o conteúdo diretamente a ele. Referências completas e aprofundamentos ocupam o lugar que favoreça consulta e compreensão no produto específico. Não transportar para outras peças todas as funções de uma aula.
 
 O apoio destinado ao estudo precisa ser compreensível por si: restituir o contexto de exemplos, explicar a contribuição dos fundamentos e oferecer as imagens ou os acessos necessários, sem presumir lembrança de outra peça. A formação e a biografia do professor não substituem o conteúdo. Aprofundamentos opcionais ampliam o estudo sem deixar por ensinar algo indispensável. A referência específica de cada projeto define a composição; no TSH, a conferência de cobertura está na seção 13 do padrão de aulas.
+
+### Apoio de consulta e condução — aprendizado da gravação M2.1
+
+Fabiano explicou em 22/11/2026 que comentários de preenchimento, “né” e “tá” também foram usados para ganhar tempo ao seguir notas pouco claras, repetidas e por vezes confusas. Reavaliar a causa antes de atribuir o resultado a um hábito de fala do autor. O apoio deve permitir recuperar o próximo passo com um olhar; não transferir ao apresentador, durante a gravação, a tarefa de selecionar, deduplicar e reorganizar o texto.
+
+Conservar densidade na fundamentação e no desenvolvimento. Nas notas de uso imediato, tornar visíveis o raciocínio principal, as relações novas e a passagem seguinte. Retomadas didáticas recuperam contexto e acrescentam uma distinção; repetição entre entrada, desenvolvimento, propósito e passagem sem aquisição nova deve ser reescrita. Os campos servem à exposição e podem ser condensados ou ajustados à função do passo.
+
+Distinguir apresentar um percurso, conduzir a participação, permitir elaboração e encerrar. Quando essa mudança puder gerar dúvida, usar um aviso curto e reconhecível. Durante a realização, escrever instruções diretas na ordem em que serão dadas e deixar espaço à experiência. Explicações de fundamento e de objetivo ficam antes ou depois, quando necessárias; não se repetem entre cada instrução. Encerramento vem depois de realizar, sem ser anunciado como uma ação a executar dentro da apresentação inicial. No TSH, o padrão de aulas conserva o exemplo corrigido e sua aplicação.
 
 ## Conferir e registrar com proporção
 

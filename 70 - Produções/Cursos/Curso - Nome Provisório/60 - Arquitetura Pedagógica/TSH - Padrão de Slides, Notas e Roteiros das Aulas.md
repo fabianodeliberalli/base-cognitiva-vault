@@ -2,7 +2,7 @@
 tipo: padrao-de-producao
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "2.5"
+versao: "2.6"
 criado_em: 2026-11-02
 atualizado_em: 2026-11-22
 aplica_se_a: futuras producoes de aulas, slides, notas e apoios do TSH
@@ -18,6 +18,8 @@ Em 22/11/2026, após examinar M2.1 **Como se forma o que você percebe?**, na co
 Esta nota é a descrição operacional do modelo. Serve a ChatGPT, Codex, Claude e a qualquer outro assistente, sem depender do histórico desta conversa nem de acesso à página nativa. Permanece revisável por Fabiano. Preservar a lógica e a qualidade; a quantidade de telas, exemplos e passagens acompanha a aprendizagem de cada aula.
 
 **Recuperação mínima para produzir:** ler a ficha mínima do TSH; esta nota; a posição da aula e suas relações no dossiê vigente; o desenvolvimento efetivo das aulas anteriores pertinentes; e as passagens autorais e fundamentos necessários à questão. Recuperar o que o aluno já aprendeu, além dos nomes das aulas. Desenvolver o raciocínio e a exploração na fonte da aula antes de completar a montagem; o resumo curricular não contém toda a explicação. Para compreender a execução concreta, consultar [[M2.1 - Trilha de exposição v0.8]] e `Materiais/Módulo 2/M2.1 - Conteúdo das telas e notas v0.8.json`; [[M2.2 - Trilha de exposição v0.4]] permite examinar a composição de outra questão. A ficha mínima, alcançada por `AGENTS.md` e `CLAUDE.md`, aponta para esta referência. Expandir a busca quando houver lacuna substantiva, sem carregar o vault inteiro.
+
+A seção 10 incorpora a correção de condução após a gravação M2.1. Ao reutilizar suas fontes v0.8, distinguir o exemplar histórico da revisão de apresentação/realização descrita aqui.
 
 **Exemplar e revisões:** o modelo completo adotado por Fabiano permanece recuperável pela genealogia de M2.1; [[M2.1 - Apresentação editável v0.8]] e [[M2.2 - Apresentação editável v0.4]] localizam as revisões atuais produzidas para avaliação, com 20 telas em cada aula. JSON e trilha em Markdown conservam mapa, notas e desenvolvimento. A v0.7 permanece como referência da retirada da personagem e da redação dirigida ao aluno. O rótulo “teste” em metadados anteriores documenta a etapa de construção.
 
@@ -126,7 +128,7 @@ A consulta é guiada pela pergunta da aula, sem exigir leitura integral de todos
 
 ## 5. Notas: apoio para exposição livre com sentido
 
-O roteiro é uma **trilha de exposição**. As notas permitem localizar rapidamente o passo e desenvolver a explicação com a voz e o ritmo de Fabiano. O texto oferece entradas naturais e âncoras explicativas suficientes, sem predeterminar toda a fala. Preservar quatro campos nas notas de cada tela:
+O roteiro é uma **trilha de exposição**. As notas permitem localizar rapidamente o passo e desenvolver a explicação com a voz e o ritmo de Fabiano. O texto oferece entradas naturais e âncoras explicativas suficientes, sem predeterminar toda a fala. Para a exposição conceitual e a elaboração, os quatro campos abaixo continuam como referência. Ajustar a extensão e a presença de cada campo à função do passo, sem repetir a mesma ideia para completar o formato:
 
 | Campo visível nas notas | Função | Como escrever |
 | --- | --- | --- |
@@ -145,7 +147,19 @@ O tópico é curto o bastante para consulta e completo o bastante para sustentar
 
 O campo de propósito responde: **o que estamos trabalhando e qual é o objetivo?** Ele reforça a aprendizagem específica, em vez de acrescentar uma recomendação operacional sem relação com ela. A passagem deve poder ser dita ou desenvolvida naturalmente. “Perguntar o que participa…” vira a pergunta que ajuda a avançar.
 
-Informações sobre montagem, tempo, revisão, operação, “fora da cena”, “não ler”, metacomentários sobre a pesquisa ou pedidos ao autor não entram nas notas. Se uma informação for necessária para o participante compreender ou realizar a prática, escrevê-la como explicação ou orientação natural. Não recolocar bibliografia nem observações de pesquisa em um campo de apoio renomeado.
+Informações sobre montagem, revisão, operação, “fora da cena”, “não ler”, metacomentários sobre a pesquisa ou pedidos ao autor não entram nas notas. Avisos curtos que orientam a condução — como APRESENTAÇÃO DA PRÁTICA, PRÁTICA, PAUSA e ELABORAÇÃO — são úteis onde muda a função do passo; não espalhar instruções de bastidores pelas telas conceituais. Se uma informação for necessária para o participante compreender ou realizar a prática, escrevê-la como explicação ou orientação natural. Não recolocar bibliografia nem observações de pesquisa em um campo de apoio renomeado.
+
+### Consulta em gravação e origem do preenchimento — 22/11/2026
+
+A gravação M2.1 e a explicação de Fabiano mostraram uma diferença entre notas completas no papel e apoio utilizável em tempo real. Ele informou que comentários sobre clareza e partículas de fala também serviram para ganhar tempo enquanto procurava o próximo passo em notas repetidas e confusas. Examinar primeiro o apoio e sua contribuição para essa carga; não tratar o problema apenas como correção de oralidade.
+
+O primeiro olhar deve localizar a ideia a desenvolver agora e a passagem seguinte. Explicar o necessário à compreensão, com âncoras que nomeiem conceitos e relações concretas. Conservar suporte substantivo sem duplicar a explicação na entrada, no propósito e na ponte. A retomada didática repõe o contexto e acrescenta algo. Não preencher os quatro campos com paráfrases do mesmo ponto.
+
+Para as práticas, separar **apresentação do percurso / realização / elaboração e encerramento**, conforme a prática real. A apresentação descreve o que acontecerá e quando começaremos; a realização contém instruções curtas em ordem de execução, com pausas; a elaboração compara o que apareceu e sua continuidade. A própria prática determina seus movimentos e duração. A distinção não impõe um número fixo de passos ou uma quota de linhas a todas as aulas.
+
+A condução prática pode usar um título de momento e instruções diretas, sem os quatro campos desenvolvidos em cada tela. Mostrar um aviso curto nas notas onde muda o momento; o slide pode ter uma indicação discreta equivalente quando também ajudar o aluno. Não mostrar ao aluno comandos editoriais. Evitar explicações conceituais entre cada convite de atenção, reabertura involuntária depois de concluir ou antecipação da realização na visão geral. As notas precisam permitir conduzir, parar de falar para a experiência e retomar com uma direção clara.
+
+A revisão do exemplo está na seção 10. Em M2.2 v0.4, conferir especialmente as telas 13–16: a 13 já solicita retomar a questão e descreve a conclusão; a 14 volta a iniciar a aproximação; a 15 alterna duas perguntas e contém interpretações possíveis; a 16 retorna e encerra. Para uma próxima composição, tornar a 13 apresentação, deixar a execução nas telas seguintes e levar os comentários interpretativos à elaboração. Essa indicação ainda não significa que os arquivos v0.4 tenham sido regenerados.
 
 ## 6. Fundamentos, autores e termos novos
 
@@ -287,33 +301,93 @@ E como podemos nos aproximar da experiência, pensar sobre ela e conferir o que 
 
 **O que este exemplo ensina à produção:** a pesquisa entra por uma pergunta compreensível e um procedimento representado na tela. Sua contribuição é explicada e retorna à questão da aula. “Nomear Varela e a neurofenomenologia” e “o estudo não investigou a personagem” foram substituídos por uma explicação que sustenta o aprendizado. O termo neurofenomenologia e a ficha completa foram desenvolvidos no aprofundamento opcional do aluno.
 
-### Tela 14 — Uma questão, três movimentos
+### Uma questão, três movimentos — revisão após a gravação M2.1
 
-**Apoio visual:** uma questão que pode envolver conversa, criação ou possibilidade de vida; sequência aproximar-se → dar forma → retornar; alternativas escrever, desenhar ou usar um gesto. As próximas telas desenvolvem cada passagem e a elaboração.
+A gravação enviada por Fabiano tem 37min56s. Entre aproximadamente 27:02 e 29:35, a apresentação do percurso já convidou à realização; a condução detalhada veio em seguida. A fonte M2.1 v0.8 foi recuperada pelo GitHub: a tela 14 reúne “agora vamos trabalhar”, escolha da questão, descrição dos movimentos e instruções de conclusão; as telas 15–17 conduzem novamente a experiência. Fabiano atribuiu a confusão à insuficiência de sinalização das notas. A revisão é do apoio de produção.
+
+**Exemplo editorial corrigido para uma próxima montagem.** As notas da versão gravada continuam recuperáveis na fonte v0.8; este exemplo não representa alteração do vídeo ou dos arquivos já entregues. Os avisos abaixo organizam a consulta. A redação oferece base para conduzir com a própria voz, sem obrigar leitura literal.
+
+**Visão geral — antes de realizar**
+
+Slide: “Percurso da prática”, com os três movimentos visuais.
 
 ```text
-PARA COMEÇAR
-Agora vamos trabalhar com uma questão que faça sentido para você e que possa ser acompanhada neste momento.
+APRESENTAÇÃO DA PRÁTICA
 
-IDEIAS PARA DESENVOLVER
-• Pode ser uma conversa, algo que deseja criar ou uma possibilidade que procura compreender. A mesma questão vai acompanhar os três movimentos.
-• Primeiro, aproximar-se do que acontece. Depois, encontrar uma expressão. Por fim, retornar e conferir. Você pode escrever, desenhar ou usar um gesto.
-• Escolha algo que permita curiosidade. Você pode usar um exemplo, adaptar ou interromper. Para concluir, vamos deixar a questão de lado, reconhecer o ambiente e retomar a atividade. Se estiver dirigindo, faça depois.
+Vamos acompanhar uma mesma questão em três movimentos:
+aproximar, expressar e retornar para conferir.
 
-O QUE ESTAMOS TRABALHANDO
-Vamos experimentar como a aproximação e a expressão participam da compreensão. O objetivo é reconhecer o processo e as diferenças que se tornarem possíveis.
-
-PARA SEGUIR
-Comecemos pela experiência da questão, antes de tentar resolvê-la.
+Primeiro vou mostrar o caminho. Na próxima tela começamos juntos.
 ```
 
-**O que este exemplo ensina à produção:** a experiência recebe contexto, direção e propósito antes de começar. As telas seguintes ensinam e elaboram o que foi anunciado; a prática não termina na simples execução de uma instrução.
+**Aproximação — início da realização**
+
+Slide: “Aproximar-se da experiência”.
+
+```text
+PRÁTICA — APROXIMAR
+
+Escolha uma questão que consiga acompanhar agora.
+Pode ser uma conversa, uma criação ou algo que deseja compreender.
+
+Como é estar diante dela?
+Reconheça o que aparece e como você se aproxima.
+Guarde um detalhe dessa experiência.
+
+PAUSA PARA PERCEBER
+```
+
+**Expressão — continuidade**
+
+Slide: “Encontrar uma forma de expressão”.
+
+```text
+PRÁTICA — EXPRESSAR
+
+Encontre uma palavra, um desenho ou um gesto para o que reconheceu.
+Observe o que fica mais claro enquanto expressa.
+A forma pode continuar incompleta.
+
+PAUSA PARA EXPRESSAR
+```
+
+**Conferência e retorno — conclusão**
+
+Slide: “Retornar e conferir”.
+
+```text
+PRÁTICA — CONFERIR E CONCLUIR
+
+Volte à questão.
+A expressão corresponde ao que reconhece agora?
+Ajuste o que fizer sentido.
+
+PAUSA PARA CONFERIR
+
+Para concluir, deixe a questão de lado.
+Reconheça o ambiente e retome seus movimentos.
+```
+
+**Elaboração — depois de realizar**
+
+Slide: “O que a investigação acrescentou”.
+
+```text
+ELABORAÇÃO DA EXPERIÊNCIA
+
+O que ficou mais claro, diferente ou ainda pede investigação?
+Que pergunta ou próximo passo isso permite?
+```
+
+As condições de participação, a possibilidade de adaptar/interromper e as orientações já escolhidas de cuidado recebem lugar breve antes da realização, conforme a prática. No vídeo assíncrono, orientar a pausar quando precisar de mais tempo. O aprofundamento do fundamento já desenvolvido continua disponível na aula e no apoio, sem ocupar todos os intervalos da condução.
+
+**O que este exemplo ensina à produção:** sinalizar a mudança de função e dar instruções na ordem de execução. A objetividade da condução conserva a investigação sofisticada. O suporte deve reduzir a necessidade de Fabiano reorganizar o exercício enquanto grava.
 
 ## 11. Produção e conferência antes da entrega
 
 1. Localizar a contribuição da aula no percurso e recuperar as fontes, práticas, imagens e formulações autorais pertinentes. Consultar o acervo visual e suas notas-mãe antes de criar uma figura nova; verificar conteúdo e decisão vigente. Ler o conteúdo necessário, sem presumir que o nome da nota já forneça o fundamento ou determine sua vigência.
 2. Compor a trilha inteira: entrada, questão, desenvolvimento, experiência quando pertinente, elaboração e continuidade. Conferir as conexões antes de diagramar.
-3. Construir cada slide como um passo com representação visual própria e as quatro partes das notas. Desenvolver os termos novos e as contribuições dos autores em seu lugar no raciocínio.
+3. Construir cada slide como um passo com representação visual própria e notas adequadas à sua função. Usar os quatro campos como referência na exposição e na elaboração; na realização de uma prática, oferecer o momento reconhecível e instruções diretas. Desenvolver os termos novos e as contribuições dos autores em seu lugar no raciocínio.
 4. Produzir ou atualizar o apoio do aluno e seu aprofundamento opcional. Conferir a correspondência de conceitos, finalidade, exemplos e prática com slides e notas. A coerência não exige reproduzir literalmente toda figura em todos os suportes, nem impor um desenho nos exercícios abertos.
 5. Percorrer a aula do início ao fim como apresentador e aluno. Conferir se um olhar para a tela e as notas permite saber de onde viemos, o que desenvolver aqui, para quê e para onde seguimos. Reescrever qualquer ponto que ainda exija inventar a explicação durante a gravação.
 6. Verificar os arquivos reais: todas as telas e notas, preservação de imagens aprovadas, legibilidade, exportações e correspondência das versões. Fazer a revisão de conteúdo e visual adequada à alteração; não presumir qualidade pedagógica só pela diagramação.
@@ -327,7 +401,7 @@ Comecemos pela experiência da questão, antes de tentar resolvê-la.
 - O exemplo é reapresentado com contexto suficiente a cada retomada e acrescenta uma nova relação. A situação mantém seus fatos e não recebe conclusões prematuras. A vida concreta, o contexto e a participação pessoal continuam em relação.
 - A prática tem trabalho didático reconhecível, condução suficiente, elaboração e continuidade; a profundidade acompanha o projeto.
 - Imagens e diagramas ajudam a reconhecer relações em um olhar. As imagens aprovadas são preservadas nas revisões de notas.
-- As notas estão em linguagem natural e consultável, com as quatro funções, sem fala integral compulsória, bibliografia, URL, DOI ou rubricas de preparação.
+- As notas estão em linguagem natural e consultável, sem duplicação entre campos. Na prática, é inequívoco quando se apresenta, realiza, pausa, elabora e conclui. Bibliografia, URL, DOI e bastidores ficam em seus suportes próprios.
 - O apoio do aluno dirige-se a quem aprende, apresenta os fundamentos pelo conteúdo e conserva a profundidade. Referências completas e observações de pesquisa ficam na seção opcional.
 - A aula se integra ao percurso e às contribuições do TSH; estados de produção não são inferidos pelo acabamento dos arquivos.
 
@@ -337,7 +411,7 @@ Se a conferência encontrar um desses problemas, o assistente faz o ajuste autor
 
 Com acesso ao GitHub, basta apontar para a ficha mínima, esta nota e a aula em produção. Sem acesso ao repositório, fornecer esta nota, o exemplar textual/JSON de M2.1 e os conteúdos/fontes necessários à nova aula. O documento sozinho explica o formato; o exemplar mostra sua execução completa. Não afirmar que outra IA recebeu a referência sem efetivamente disponibilizá-la. Se uma fonte indispensável não puder ser acessada, declarar a lacuna específica e continuar o que for possível sem inventar conteúdo.
 
-Uma estrutura textual ou JSON pode ser usada por qualquer ferramenta. O exemplo abaixo descreve campos de produção; os nomes técnicos não entram nos slides. Os quatro campos das notas mantêm suas funções mesmo que o aplicativo use outra representação:
+Uma estrutura textual ou JSON pode ser usada por qualquer ferramenta. O exemplo abaixo descreve campos de produção; os nomes técnicos não entram nos slides. Na exposição e na elaboração, os quatro campos oferecem a referência abaixo. Para uma tela de realização, usar o momento e as instruções diretas como notas, sem acrescentar uma segunda versão em quatro blocos:
 
 ```json
 {
@@ -351,18 +425,20 @@ Uma estrutura textual ou JSON pode ser usada por qualquer ferramenta. O exemplo 
     "entrada": "formulação natural para começar",
     "caminho": ["ideias explicadas e conectadas"],
     "sentido": "o que estamos trabalhando e qual é o objetivo",
-    "ponte": "frase ou pergunta que prepara o passo seguinte"
+    "ponte": "frase ou pergunta que prepara o passo seguinte",
+    "momento": "quando útil: apresentação da prática, prática, pausa, elaboração ou conclusão",
+    "notas_de_conducao": "alternativa para realização: instruções naturais na ordem de execução e pausas"
   }],
   "apoio_do_aluno": {"desenvolvimento": "...", "pratica_e_elaboracao": "...", "para_investigar_mais": "referências completas e observações de pesquisa"},
-  "estado": {"producao": "o que foi feito", "ensaio": null, "duracao_real": null, "gravacao": null, "publicacao": null}
+  "estado": {"versao": "...", "arquivos": [], "alteracoes": "...", "trabalho_restante": "..."}
 }
 ```
 
-Montar `speakerNotes` ou campo equivalente a partir de `entrada`, `caminho`, `sentido` e `ponte`, com os títulos PARA COMEÇAR, IDEIAS PARA DESENVOLVER, O QUE ESTAMOS TRABALHANDO e PARA SEGUIR. Conservar correspondência integral entre notas, guia e especificação entregue. Metadados técnicos permanecem nos arquivos de produção.
+Na exposição e na elaboração, montar `speakerNotes` ou equivalente pelos campos pertinentes, usando as quatro partes quando ajudarem. Na realização de uma prática, montar a partir do momento e das instruções de condução. Não concatenar as duas representações nem produzir duplicação por exigência do script. Conservar correspondência integral entre notas, guia e especificação entregue. Metadados técnicos permanecem nos arquivos de produção.
 
 **Apontador curto para uma nova conversa:**
 
-> Produza a aula indicada do TSH usando o modelo adotado por Fabiano em 22/11/2026. Consulte pelo GitHub `fabianodeliberalli/base-cognitiva-vault` a base autoral geral, a ficha mínima, o “Padrão de slides, notas e roteiros das aulas” v2.3 ou posterior, o exemplar e as revisões atuais indicados no estado de M2 e as fontes pertinentes à aula. Construa a trilha com visão inicial, slides como passos visuais e notas naturais para exposição livre: entrada, ideias explicadas, objetivo e passagem. Preserve a profundidade autoral, os fundamentos, as práticas e a identidade visual; referências completas e pesquisa ficam no aprofundamento opcional do aluno. Use exemplos genéricos que possam entrar naturalmente na fala, reapresente o contexto a cada retomada e amplie o raciocínio. Escreva o entregável diretamente para o aluno, sem bastidores sobre a formação do professor. Faça a conferência do encadeamento e dos arquivos antes de entregar. Não reinicie pelo roteiro integral ou pelos exemplos básicos das versões anteriores.
+> Produza a aula indicada do TSH usando o modelo adotado por Fabiano em 22/11/2026. Consulte pelo GitHub `fabianodeliberalli/base-cognitiva-vault` a base autoral geral, a ficha mínima, o “Padrão de slides, notas e roteiros das aulas” v2.6 ou posterior, o exemplar e as revisões atuais indicados no estado de M2 e as fontes pertinentes à aula. Construa a trilha com visão inicial, slides como passos visuais e notas naturais para exposição livre; distinguir apresentação e realização da prática, com avisos curtos onde muda a função. Use entrada, ideias explicadas, objetivo e passagem como referência para exposição e elaboração, sem duplicar conteúdo; durante a realização, instruções diretas e pausas. Preserve a profundidade autoral, os fundamentos, as práticas e a identidade visual; referências completas e pesquisa ficam no aprofundamento opcional do aluno. Use exemplos genéricos que possam entrar naturalmente na fala, reapresente o contexto a cada retomada e amplie o raciocínio. Escreva o entregável diretamente para o aluno, sem bastidores sobre a formação do professor. Faça a conferência do encadeamento e dos arquivos antes de entregar. Não reinicie pelo roteiro integral ou pelos exemplos básicos das versões anteriores.
 
 ## 13. Conferência de cobertura das decisões e dos refinamentos — 22/11/2026
 
@@ -389,8 +465,8 @@ Esta conferência responde ao pedido de verificar **a construção das aulas e d
 | Decisão ou refinamento | Aplicação e ponto de recuperação | Alcance conferido |
 | --- | --- | --- |
 | Visibilidade do percurso e slides como passos | Seções 3 e 4; mapas iniciais das trilhas M2.1 v0.8/M2.2 v0.4. Mostrar de onde viemos, o que cada passo acrescenta e a próxima pergunta; a representação torna a relação reconhecível. | Vinte telas são a composição atual de cada uma dessas aulas, não quota de produção. |
-| Quatro campos para exposição livre | Seção 5 e estrutura transportável da seção 12: PARA COMEÇAR; IDEIAS PARA DESENVOLVER; O QUE ESTAMOS TRABALHANDO; PARA SEGUIR. Âncoras naturais, conectadas e suficientes para elaborar com a voz de Fabiano. | Substitui fala integral predeterminada e notas somente de locução. Não exige três tópicos por tela nem recitação dos campos. |
-| Gravação limpa e preparação em seu lugar | Seções 5 e 6. Notas contêm conteúdo e instrução natural; montagem, tempo, revisão, pedidos, bibliografia, URL e DOI ficam fora. O material real deve sustentar a exposição sem reconstruir o raciocínio durante a gravação. | Guias podem reunir mapa e notas; não criar uma segunda entrega docente obrigatória. Precisão necessária à aprendizagem continua na explicação. |
+| Notas adequadas à função do passo | Seções 5, 10 e 12. Quatro campos como referência para exposição/elaboração; momento reconhecível e instruções diretas para realização. Retirar paráfrases entre campos e explicações repetidas durante a prática. | Preserva profundidade e exposição livre. Apresentação, realização, pausa, elaboração e conclusão distinguem-se onde necessário; sem quotas de tópicos, movimentos ou duração. |
+| Gravação limpa e preparação em seu lugar | Seções 5 e 6. Notas contêm conteúdo e instrução natural; montagem, revisão, pedidos, bibliografia, URL e DOI ficam fora; avisos curtos de condução e pausa ajudam onde muda a função. O material real deve sustentar a exposição sem reconstruir o raciocínio durante a gravação. | Guias podem reunir mapa e notas; não criar uma segunda entrega docente obrigatória. Precisão necessária à aprendizagem continua na explicação. |
 | Exemplos contextualizados e repetição didática | Seções 3, 9 e 10. Usar situações genéricas reconhecíveis; reapresentar o contexto a cada retomada e acrescentar a nova relação. A cobrança de trabalho pode ganhar outra leitura sem se concluir que a pessoa interpretou errado. | Personagem nomeada retirada das composições atuais M2.1/M2.2. Exemplos não se tornam histórias para memorizar nem autobiografia inventada. |
 | Unidade de slide, notas e apoio | Seções 1, 9 e 11. Conferir conceitos, finalidade, progressão, instruções e fontes em conjunto. Uma imagem na tela pode ganhar explicação verbal ou outro exemplo no apoio. | Coerência de conceito e função, sem reprodução compulsória de cada figura em todos os suportes. |
 | Metáforas pela contribuição | Seções 1, 3 e 4; base geral. Escolher a figura que esclarece uma relação; árvore, campo, vaso, espiral e eixo não precisam explicar todos os momentos. | Nenhuma figura é obrigatória nos exercícios abertos. Quando o objetivo é ensinar um mapa, declarar essa função, sem impor sua leitura à experiência pessoal. |
