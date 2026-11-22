@@ -2,19 +2,25 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.45"
+versao: "0.46"
 atualizado_em: 2026-11-22
 ---
 
+## Entregável do aluno aprovado como modelo — 22/11/2026
+
+Fabiano confirmou que o entregável atual está bom e determinou registrar esse modelo. O exemplar aprovado é o apoio de **M2.1 — Como se forma o que você percebe?**, Word/PDF versão 4, quatro páginas. **[[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] v2.1, seção 9**, preserva sua identidade, versão, cópia exata no Git, amostras de redação e critérios de reprodução. [[TSH - Entregáveis do aluno e inserção na Hotmart - M2 a M8]] aponta para esse exemplar. Recuperar o texto completo ao produzir novos apoios; escrever diretamente ao aluno, desenvolver fundamentos e exemplos, oferecer prática retomável, Cartografia, continuidade e aprofundamento opcional. A extensão acompanha o aprendizado. Preservar o exemplar aprovado, desenvolvendo os materiais das novas aulas a partir dele.
+
+A aprovação do entregável é distinta do modelo dos slides. M2.2 conserva a composição visual anterior e precisa de reconstrução conforme M2.1; correções pontuais não representam aplicação integral do modelo. Não apresentar novamente essa versão como aula adaptada ao padrão aprovado.
+
 ## Referência atual — modelo de produção adotado em 22/11/2026
 
-Fabiano pediu preservar formato, lógica, dinâmica e andamento de M2.1 como modelo para as futuras produções do TSH, acessível a esta ou outra IA. Consultar **[[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] v2.0 ou posterior** antes de produzir aulas, slides, notas e apoios. A nota reúne a lógica completa, quatro funções das notas, linguagem, profundidade, imagens, práticas, identidade visual, entregável do aluno, exemplos completos, estrutura transportável e conferência da entrega. `AGENTS.md` e `CLAUDE.md` já conduzem a esta ficha.
+Fabiano pediu preservar formato, lógica, dinâmica e andamento de M2.1 como modelo para as futuras produções do TSH, acessível a esta ou outra IA. Consultar **[[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] v2.1 ou posterior** antes de produzir aulas, slides, notas e apoios. A nota reúne a lógica completa, quatro funções das notas, linguagem, profundidade, imagens, práticas, identidade visual, entregável do aluno, exemplos completos, estrutura transportável e conferência da entrega. `AGENTS.md` e `CLAUDE.md` já conduzem a esta ficha.
 
 O modelo usa visão inicial do percurso e slides como passos visuais, com notas naturais para exposição livre: PARA COMEÇAR, IDEIAS PARA DESENVOLVER, O QUE ESTAMOS TRABALHANDO e PARA SEGUIR. A exigência anterior de fala integral/nota somente locução e o estatuto de teste restrito a M2.1 ficam superados para a produção futura. Quantidade de telas, duração e complexidade acompanham a aprendizagem. Preservar a profundidade do repertório e das formulações autorais, os fundamentos e a espiritualidade do TSH.
 
 Orientações posteriores de Fabiano, incorporadas ao modelo: retirar a personagem criada dos materiais atuais; exemplos são bem-vindos como situações genéricas reconhecíveis que entram na fala, permitindo ao aluno se colocar nelas. Podem percorrer aula ou módulo, reapresentando o contexto a cada retomada antes de ampliar o raciocínio. O apoio se dirige ao aluno e apresenta os fundamentos pelo conteúdo (“na Medicina Chinesa”), sem bastidores sobre a formação do professor. Referências completas e observações de pesquisa ficam apenas no aprofundamento opcional do aluno. As imagens aprovadas são mantidas.
 
-Exemplar atual: [[M2.1 - Trilha de exposição v0.7]] e [[M2.1 - Apresentação editável v0.7]], 20 telas; guia atualizado e apoio do aluno em Word/PDF de quatro páginas. A especificação JSON preserva as 20 notas, e a montagem nativa conserva a composição visual. M2.2 v0.3 recebeu apenas a correção correspondente dos exemplos e dos apoios; sua reconstrução no modelo de trilha continua pendente. A aprovação do formato não certifica cada formulação dos apoios, ensaio, duração, gravação ou publicação. [[00 - Estado e Continuidade da Produção M2]] localiza os arquivos. A arquitetura permanece em nove módulos e 59 aulas.
+Exemplar atual: [[M2.1 - Trilha de exposição v0.7]] e [[M2.1 - Apresentação editável v0.7]], 20 telas; guia atualizado e apoio do aluno em Word/PDF de quatro páginas. A especificação JSON preserva as 20 notas, e a montagem nativa conserva a composição visual. M2.2 v0.3 recebeu apenas a correção correspondente dos exemplos e dos apoios; sua reconstrução no modelo de trilha continua pendente. O apoio de M2.1 versão 4 foi posteriormente aprovado como modelo. A aprovação não se estende automaticamente às demais redações nem confirma ensaio, duração, gravação ou publicação. [[00 - Estado e Continuidade da Produção M2]] localiza os arquivos. A arquitetura permanece em nove módulos e 59 aulas.
 
 ## 22/11/2026 — revisão substantiva de profundidade desde M2.1
 

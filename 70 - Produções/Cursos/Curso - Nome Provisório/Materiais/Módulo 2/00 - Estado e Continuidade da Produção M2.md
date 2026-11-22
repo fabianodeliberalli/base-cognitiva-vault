@@ -19,14 +19,14 @@ Exemplos entram como situações genéricas reconhecíveis na fala e são reapre
 
 | Aula ou material | Estado nesta frente |
 | --- | --- |
-| [[M2.1 - Trilha de exposição v0.7]] e [[M2.1 - Apresentação editável v0.7]] | 20 telas com notas atualizadas, exemplo sem personagem e contexto reapresentado nas retomadas; apresentação nativa sequência 10. |
+| [[M2.1 - Trilha de exposição v0.7]] e [[M2.1 - Apresentação editável v0.7]] | 20 telas com notas atualizadas, exemplo sem personagem e contexto reapresentado nas retomadas; apresentação nativa sequência 11. |
 | M2.1 guia e apoio do aluno | Guia Word/PDF de 21 páginas, versão 2; apoio Word/PDF de quatro páginas, versão 4, com texto dirigido ao aluno e aprofundamento opcional. |
 | [[M2.2 - Roteiro de fala v0.3]] e [[M2.2 - Apresentação editável v0.3]] | Correção pontual de duas passagens dos exemplos; apresentação nativa sequência 4; apoio e Word da fala atualizados, versão 2. A reconstrução da aula no modelo de trilha permanece pendente. |
 | [[01 - Plano de produção das seis aulas M2]] | Constituição da experiência, relevância e simbolização, certeza, repetição, origem/sentido e Tradução recursiva. |
 | M2.3–M2.6 e M3–M8 | Revisão estrutural disponível; novos roteiros integrais e artefatos finais não produzidos nesta frente. Aplicar o modelo adotado ao desenvolvê-los. |
 | Ensaio, duração real, gravação, edição e publicação | Sem execução confirmada nesta frente; não inferir pelo acabamento dos arquivos. |
 
-A adoção do formato não atribui aprovação individual a todas as redações dos apoios. As revisões dos textos e da composição permanecem abertas a Fabiano.
+Fabiano aprovou posteriormente o apoio do aluno de M2.1 Word/PDF versão 4 como exemplar para futuras produções. O padrão v2.1, seção 9, preserva essa referência. A aprovação distingue-se da avaliação dos slides de M2.2, que continuam pendentes de reconstrução visual. Os materiais permanecem revisáveis por Fabiano.
 
 ## Continuidade
 

@@ -2,7 +2,7 @@
 tipo: padrao-de-producao
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "2.0"
+versao: "2.1"
 criado_em: 2026-11-02
 atualizado_em: 2026-11-22
 aplica_se_a: futuras producoes de aulas, slides, notas e apoios do TSH
@@ -141,6 +141,39 @@ Preservar editabilidade de textos e diagramas sempre que possível. Manter corre
 As mesmas famílias visuais orientam Word e PDF. Conferir texto, tabelas, links, fontes e sua incorporação, contraste, cortes, sobreposições e posição da câmera no arquivo efetivamente entregue. Fontes declaradas no editável e fontes conservadas na exportação são verificações diferentes. Materiais históricos e mapas autorais conservam seu conteúdo; não refazer M0/M1 automaticamente por esta atualização.
 
 ## 9. Material do aluno
+
+### Exemplar do entregável aprovado por Fabiano em 22/11/2026
+
+Fabiano avaliou a redação atual do apoio de **M2.1 — Como se forma o que você percebe?** e confirmou: **“O entregável está bom. REGISTRE ESTE MODELO”**. Esta aprovação adota o entregável como exemplar para os futuros materiais do aluno. Distingue-se da aprovação do modelo dos slides: o texto e sua organização possuem agora uma referência concreta própria.
+
+**Versão aprovada e preservada:** Word e PDF, ambos versão 4, PDF de quatro páginas. O texto pesquisável corresponde a [[M2.1 - Apoio do aluno - Perceber e revisar uma leitura]]. Preservar os arquivos aprovados; a nova produção deriva sua forma e desenvolve o conteúdo da nova aula. Alterações no exemplar dependem de orientação de Fabiano.
+
+- [Word aprovado](https://chatgpt.com/library?file_id=libfile_fde3_f-81750e81c7548191a442e0646689d5df_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal): versão 4, arquivo `file_00000000b5d0820e82c06150c0e3190d`, 84.846 bytes.
+- [PDF aprovado](https://chatgpt.com/library?file_id=libfile_fde3_f-0302c65fb6b881918eb9d9641fdb8c73_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal): versão 4, arquivo `file_00000000940c820eb4f31e5a65cda8de`, 107.855 bytes.
+- A cópia exata de ambos permanece no commit `8830fcb892596fdbb6e4611e77736eb4712a7ba4`, em `Materiais/Módulo 2/`, com os nomes `TSH_M2_1_Como_se_forma_o_que_voce_percebe_Apoio_do_Aluno.docx` e `.pdf`. Usar esse commit para recuperar o exemplar aprovado se os links atuais receberem outras versões.
+
+**O que reproduzir na nova composição:**
+
+1. Texto autoral dirigido a quem estuda, com explicação desenvolvida e parágrafos conectados. A abertura permite reconhecer o assunto, sua contribuição e sua relação com a experiência.
+2. Fundamentos apresentados pelo conteúdo: “Na Medicina Chinesa e no Qi Gong…”; “Na Psicologia fenomenológica, Forghieri…”. O aluno aprende a contribuição e os termos necessários, sem bastidores sobre a formação, a leitura ou a elaboração do professor.
+3. Exemplos genéricos reconhecíveis, como alguém receber uma cobrança no trabalho e já sentir que falhou. Reapresentar o contexto necessário a cada retomada e acrescentar uma relação. A situação abre espaço para a experiência do aluno e para a elaboração de Fabiano.
+4. Profundidade compatível com o TSH: perceber e agir, experiência/reflexão, corpo/cultivo e horizonte espiritual permanecem articulados à pergunta da aula. A linguagem acessível desenvolve os fundamentos e não os reduz a slogans.
+5. Exploração retomável, com escolha de uma questão significativa, instrução compreensível, alternativas, elaboração, encerramento e retorno. O apoio precisa permitir reencontrar o trabalho sem depender da memória do vídeo.
+6. Cartografia com os mesmos quatro campos, perguntas pertinentes à aula e continuidade aberta. A síntese ajuda a retomar e aprofundar o percurso.
+7. Aprofundamento opcional separado em **Para investigar mais**, com explicação das pesquisas e fontes completas para quem desejar estudar além da aula.
+8. Identidade visual já adotada: hierarquia legível, EB Garamond/Inter, paleta e marca do TSH; tabela da Cartografia clara. Preservar coerência entre Word, PDF, aula e notas.
+
+**Amostras da redação aprovada:**
+
+> Em um exemplo fictício, uma pessoa recebe uma mensagem com uma cobrança de trabalho. Antes de conferir o combinado, já sente que falhou e começa a se justificar.
+
+> Na Medicina Chinesa e no Qi Gong, postura, respiração, atenção e intenção participam do cultivo. A prática pode refinar a sensibilidade para diferenças que antes passavam despercebidas.
+
+> Use os quatro campos da Cartografia abaixo para reencontrar a experiência e acompanhar sua elaboração. O registro pode ser curto e manter perguntas abertas.
+
+As amostras mostram a perspectiva e o nível da escrita. O exemplar completo é a referência para ritmo, desenvolvimento e organização. Ao produzir outra aula, manter essa qualidade e compor seus fundamentos, exemplos e práticas próprios. Quatro páginas são a extensão deste exemplar, sem teto ou quantidade obrigatória para futuros apoios.
+
+A aprovação refere-se ao apoio atual de M2.1 e ao seu uso como modelo. Não declara a aprovação dos slides de M2.2, de futuras redações ou de estados audiovisuais. A revisão visual de M2.2 continua pendente.
 
 **Escrever diretamente para o aluno.** O texto fala do conhecimento e de sua relação com a experiência de quem aprende. “Na Medicina Chinesa e no Qi Gong…” apresenta o fundamento; “na formação de Fabiano em Medicina Chinesa…” relata bastidores que não explicam o conteúdo. Apresentar Forghieri pela contribuição da Psicologia fenomenológica, sem justificar a referência pela trajetória formativa do professor. A autoria permanece identificada na assinatura e nas fontes; os conceitos autorais aparecem pelo que ensinam.
 

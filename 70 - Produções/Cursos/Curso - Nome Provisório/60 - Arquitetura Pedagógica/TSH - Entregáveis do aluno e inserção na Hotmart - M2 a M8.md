@@ -1,16 +1,23 @@
 ---
 tipo: orientacao-de-producao
 projeto: Traduzindo o Ser Humano
-status: orientacao-geral-adotada-revisavel
+status: modelo-de-entregavel-adotado-revisavel
+versao: "1.1"
 registrado_em: 2026-11-22
 autoridade_da_orientacao: Fabiano Deliberalli
 ---
 
 # TSH — Entregáveis do aluno e inserção na Hotmart — M2 a M8
 
+## Exemplar aprovado em 22/11/2026
+
+Fabiano confirmou: **“O entregável está bom. REGISTRE ESTE MODELO”**. Preservar o apoio atual de **M2.1 — Como se forma o que você percebe?**, Word e PDF versão 4, PDF de quatro páginas, como exemplar dos futuros materiais do aluno. [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] v2.1, seção 9, reúne localizadores, identificação da cópia exata no Git, amostras e forma de reprodução. O texto completo está em [[M2.1 - Apoio do aluno - Perceber e revisar uma leitura]].
+
+Reproduzir sua perspectiva dirigida ao aluno, o desenvolvimento dos fundamentos pelo conteúdo, os exemplos genéricos com retomadas de contexto, a exploração retomável, a Cartografia, a continuidade e o aprofundamento opcional. Preservar a identidade visual. Os fundamentos e as práticas de cada nova aula determinam seu conteúdo e sua extensão; quatro páginas não são limite ou quota. A aprovação do exemplar não se confunde com a avaliação das apresentações de slides.
+
 ## Orientação adotada e alcance
 
-Fabiano confirmou o registro e a continuidade da produção conforme a orientação geral de entregáveis de M2–M8. Adota-se uma composição enxuta: orientação na abertura do módulo, apoios autorais das aulas quando acrescentam compreensão ou ajudam a retomar a aprendizagem, a mesma Cartografia aprofundada gradualmente e síntese/repertório quando oferece ganho de consulta e aplicação.
+Fabiano confirmou o registro e a continuidade da produção conforme a orientação geral de entregáveis de M2–M8. A composição articula orientação na abertura do módulo, apoios autorais das aulas quando acrescentam compreensão ou ajudam a retomar a aprendizagem, a mesma Cartografia aprofundada gradualmente e síntese/repertório quando oferece ganho de consulta e aplicação.
 
 Essa adoção organiza o trabalho; não equivale à aprovação individual de todos os textos, apresentações ou arquivos, nem confirma gravação, edição, envio ou publicação na Hotmart. A organização atual de nove módulos e 59 aulas, seus códigos, conteúdos e correspondências permanece preservada.
 
@@ -18,11 +25,11 @@ Essa adoção organiza o trabalho; não equivale à aprovação individual de to
 
 **Orientação do módulo:** apresenta o que será aprendido, a progressão entre aulas, as retomadas úteis e a ligação com o módulo seguinte. Entra na abertura ou apresentação do módulo, sem criar uma aula adicional.
 
-**Apoio autoral da aula:** a referência de composição é um texto curto, na linguagem do curso, que acrescente compreensão fundamentada, exemplo, instrução ou retomada de prática, relação com a Cartografia e aplicação à vida. Referências selecionadas permitem reencontrar as contribuições utilizadas. Esses elementos entram conforme sua função; não constituem campos obrigatórios ou um tamanho fixo. Uma explicação ou prática pode precisar de mais espaço.
+**Apoio autoral da aula:** a referência de composição é um texto autoral desenvolvido, na linguagem do curso, que acrescente compreensão fundamentada, exemplo, instrução ou retomada de prática, relação com a Cartografia e aplicação à vida. Referências selecionadas permitem reencontrar as contribuições utilizadas. Esses elementos entram conforme sua função; não constituem campos obrigatórios ou um tamanho fixo. Uma explicação ou prática pode precisar de mais espaço.
 
 **Síntese/repertório:** reúne distinções, escolhas ou práticas já aprendidas quando isso facilita o uso. Pode integrar o apoio da última aula ou o mesmo caderno. M2.6 pode realizar o fechamento do módulo sem um PDF redundante.
 
-**Preparação do professor:** roteiro, fala integral, notas, fontes detalhadas e decisões de condução permanecem no caderno docente. O apoio do aluno tem função própria e não reproduz automaticamente esse conjunto.
+**Apoio à exposição do professor:** notas e guia seguem a trilha com entrada, ideias, objetivo e passagem. O apoio do aluno tem função própria, com explicação e prática retomável; as referências completas e observações de pesquisa ficam em seu aprofundamento opcional. Recuperar as fontes pertinentes na elaboração sem criar um caderno docente obrigatório.
 
 **Práticas recorrentes:** podem ficar disponíveis também como material complementar, com indicação a partir das aulas pertinentes. A aula que ensina a prática conserva instrução suficiente para quem não esteve no encontro. O material de retomada permite reconhecer contexto, fonte/versão quando relevante, entrada, adaptações e encerramento/retorno. A condução acompanha a prática efetivamente escolhida; a referência a um complemento não substitui uma instrução necessária.
 
@@ -52,8 +59,8 @@ O plano das seis aulas já organiza capacidades, experiências, fontes e entreg�
 
 | Aula atual | Função do apoio e estado nesta frente |
 | --- | --- |
-| **M2.1 — Como se forma o que você percebe?** | Texto breve já escrito; **PDF e Word produzidos**. Reencontrar a explicação, a exploração objeto/som–apoio–retorno, alternativas e perguntas na Cartografia. Publicação permanece sem confirmação. |
-| **M2.2 — Por que alguns sinais ganham mais importância?** | Apoio específico **a escrever; estado de produção em aberto**. Distinguir notar, destacar, identificar sentimentos e comunicar; situar alexitimia, inibição latente e a demonstração escolhida em seus alcances. |
+| **M2.1 — Como se forma o que você percebe?** | **Entregável aprovado como exemplar:** Word/PDF versão 4, quatro páginas. Formação da experiência, perceber/agir, descrição/reflexão, cultivo e espiritualidade; exploração por aproximação, expressão e retorno; Cartografia, continuidade e aprofundamento opcional. Publicação permanece sem confirmação. |
+| **M2.2 — Por que alguns sinais ganham mais importância?** | Apoio Word/PDF produzido e com correções pontuais, versão 2. A reconstrução da aula segundo o modelo de trilha permanece pendente. Desenvolver a relação entre destaque, importância, forma e elaboração conforme sua contribuição. A aprovação do exemplar M2.1 não aprova automaticamente este material. |
 | **M2.3 — Interpretações e certezas: recuperar outras pistas** | Apoio específico **a escrever; estado em aberto**. Permitir reencontrar orientação/retorno e uma pergunta ou informação que possa rever a certeza, preservando entrada, alternativas e encerramento. |
 | **M2.4 — O que mantém a repetição de uma resposta?** | Apoio específico **a escrever; estado em aberto**. Comparar ocasiões, pistas, funções possíveis, consequências e alternativas na mesma Cartografia, considerando vínculo e condições reais. |
 | **M2.5 — Acontecimento, experiência e interpretação** | Apoio específico **a escrever; estado em aberto**. Diferenciar vivido, sentido atribuído e desconhecido; acolher a dimensão espiritual e permitir diálogo, confirmação, correção ou questão aberta. |
