@@ -6,6 +6,10 @@ criado_em: 2026-11-13
 atualizado_em: 2026-11-21
 ---
 
+## Eixo em três leituras e órbita em M6.4 — 21/11/2026
+
+Fabiano decidiu tornar o eixo um fio próprio (Zhan Zhuang, linha do Hara, Chong Mai e grande circulação): [[TSH - Eixo em Três Leituras - Zhan Zhuang, Linha do Hara e Chong Mai]]. A pequena circulação passa de M6.5 para M6.4; M6.5 fica com Chong Mai, grande circulação e as três leituras reunidas. O Zhan Zhuang recebe ensino formal em M2.1 (nomear e organizar) e M3.6 (ensino completo), porque M0.2 não o ensinou.
+
 ## Cultivo, sustentação e participação — incorporação de 21/11/2026
 
 Na construção das aulas e gravações, recuperar [o fundamento proposto](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#49-avalia%C3%A7%C3%A3o-da-proposta-de-fundamento-sustenta%C3%A7%C3%A3o-abertura-elabora%C3%A7%C3%A3o-e-participa%C3%A7%C3%A3o), [a contribuição de Kolts e colaboradores](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#50-kolts-bell-bennett-levy-e-irons-contribui%C3%A7%C3%A3o-do-manual-de-compaix%C3%A3o) e [a retomada da PUCRS](../../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#51-apostila-pucrs-motiva%C3%A7%C3%A3o-moral-compaix%C3%A3o-empatia-altru%C3%ADsmo-e-ego%C3%ADsmo). A [consulta por aula](../../10%20-%20Governan%C3%A7a%20do%20Conhecimento/06%20-%20Matriz%20Mestre%20de%20Incorpora%C3%A7%C3%A3o%20do%20Conte%C3%BAdo%20%C3%A0%20Estrutura%209-54.md) indica os destinos e ganhos, sem exigir repetição de todo o material.

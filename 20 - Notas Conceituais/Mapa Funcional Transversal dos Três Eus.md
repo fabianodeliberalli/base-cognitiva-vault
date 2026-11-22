@@ -91,7 +91,9 @@ O Eu Básico "chora, mas não sabe falar": não fala com palavras, mas com símb
 
 **Decisão de Fabiano (21/11/2026) — os dois tempos da tradução:** o Eu Básico capta, sente e traduz energia, emoção e campo; o Eu Médio é intelectual: razão, defesa, ego. A primeira tradução (do corpo, da emoção e do campo à imagem, ao símbolo e à memória) é do Eu Básico; a segunda (da imagem à palavra, à reflexão e à escolha) é do Eu Médio.
 
-**Ponto a decidir:** a definição funcional acima diz que o Eu Médio "não é idêntico ao EIXO, ego, FPN ou consciência total". A formulação de Fabiano ("o Eu Médio é... ego") pede ajuste dessa cláusula — por exemplo, "inclui as funções do ego (razão, defesa), sem se reduzir a elas" — ou a confirmação de que a identidade é intencional. A cláusula não foi alterada.
+**Ponto decidido por Fabiano em 21/11/2026 (registro anterior preservado):** a definição funcional acima diz que o Eu Médio "não é idêntico ao EIXO, ego, FPN ou consciência total". A formulação de Fabiano ("o Eu Médio é... ego") pede ajuste dessa cláusula — por exemplo, "inclui as funções do ego (razão, defesa), sem se reduzir a elas" — ou a confirmação de que a identidade é intencional. A cláusula não foi alterada.
+
+**Resolução (Fabiano, 21/11/2026):** o Eu Médio é tratado como em Max Freedom Long, *O Milagre da Ciência Secreta* (cap. IV, pp. 87–88): o espírito consciente (*Uhane*) raciocina, tem vontade, fala, interpreta e dirige; não guarda um pensamento fora do centro da atenção e depende do Eu Básico para lembrar; "não pode ser hipnotizado". Os complexos ficam no eu inferior (cap. XIV–XV). "Ego" e "defesa" não são termos de Long; na linguagem do TSH, a defesa aparece como função do Eu Básico guardião, e a racionalização como algo que o Eu Médio pode fazer, sem defini-lo. Formulação de trabalho para as aulas (M2.2 e M2.3): "O Eu Médio é a parte consciente que raciocina, interpreta, fala e escolhe. Tem vontade, mas não guarda lembranças: depende do Eu Básico para lembrar. Às vezes proíbe; às vezes se confunde com o que o Eu Básico traz." 
 
 Em Bion, a mesma cadeia: elemento beta → elemento alfa → pensamento e palavra.
 
