@@ -4,6 +4,14 @@ atualizado_em: 2026-11-21
 status: referencia-atual-revisavel
 ---
 
+## Integração do percurso após a auditoria — versão de trabalho de 21/11/2026
+
+A liberação no fim do domingo e a prática editada como material publicado foram registradas posteriormente à previsão de 00h abaixo. Dúvidas retomam o módulo anterior e a prática abre o seguinte. O quadro original de datas permanece como referência; não se confirma envio de aviso nem se modifica calendário por inferência. A lista antiga das aulas localiza a base de 54; a composição recomendada de 59 está no dossiê, sem alterar a transcrição do Raio X.
+
+A orientação mais recente de Fabiano permite rever a quantidade de aulas por ganho didático. A revisão desenvolve **59 aulas em nove módulos**, com alternativa de 58; quantidade e renumeração são propostas, não homologação. Os códigos de 54 aulas abaixo continuam como localizadores de origem. Composição integrada, correspondência completa e pendências: [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]]. As passagens datadas anteriores permanecem recuperáveis; não confirmam execução nem publicação.
+
+
+
 ## Construção das aulas de M2 a M8 — homologado por Fabiano em 21/11/2026, 21h31
 
 Os módulos M2 a M8 deixam de ser só possibilidade de conteúdo e passam a ter estrutura para a construção das aulas.
@@ -69,7 +77,7 @@ Tradução da Experiência Humana — reconhecer e diferenciar dimensões do viv
 
 ## 2. Calendário consolidado
 
-Masterclass: 10/11/2026, terça-feira, 19h–20h30, Zoom. Encerramento das inscrições: 17/11/2026, 23h59. Todas as datas e horas seguem Brasília. Aulas liberadas às 00h; encontros aos sábados, 9h–11h.
+Masterclass: 10/11/2026, terça-feira, 19h–20h30, Zoom. Encerramento das inscrições: 17/11/2026, 23h59. Todas as datas e horas seguem Brasília. Previsão anterior: aulas às 00h. A atualização de 21/11 registra fim do domingo; encontros aos sábados, 9h–11h como referência, com a flexibilidade já registrada por Fabiano.
 
 | Módulo / aulas | Liberação | Encontro |
 
@@ -291,7 +299,7 @@ Carmen Cuenca é citada no roteiro como formadora do Aleceia, junto de Mario Sal
 
 Sincronia interpessoal: manter como fundamentação de bastidor relacionada ao TCC, opcional em M7.3. Associações entre sinais cerebrais e aspectos do encontro não demonstram transmissão espiritual. Não usar esses estudos para prometer efeitos das aulas coletivas.
 
-## 6. Lista das aulas para solicitar os roteiros
+## 6. Lista de origem das 54 aulas — consultar correspondência no dossiê integrado
 
 ### M0 — Comece aqui: boas-vindas e instruções
 
@@ -462,3 +470,4 @@ Em cada aula, avaliar a pertinência de entregáveis e produzir os materiais esc
 M0.3 aplica o padrão: dez slides, roteiro e notas v1.1 e Plano pessoal de participação em Word/PDF. A utilidade do entregável é transformar condições de participação em um plano breve, pessoal e revisável, sem exigir entrega ou exposição.
 
 Consultar [[M0.3 - Roteiro e notas sincronizados v1.1]] e [[M0.3 - Plano pessoal de participação - Entregável]].
+

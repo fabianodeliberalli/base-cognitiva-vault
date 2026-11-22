@@ -1,7 +1,7 @@
 ---
 tipo: lexico-mestre
 projeto: Traduzindo o Ser Humano
-metodo: Método EIXO
+recurso_didatico_relacionado: eixo
 status: em-formacao
 versao: "0.1"
 autor: Fabiano Deliberalli
@@ -16,8 +16,18 @@ tags:
   - lexico
   - governanca-conceitual
   - traducao-da-experiencia-humana
-  - metodo-eixo
+  - eixo-como-recurso-didatico
 ---
+
+## Leitura atual para a produção — 21/11/2026
+
+A linguagem do curso é a do TSH. Eixo é recurso didático, no mesmo estatuto das outras metáforas, e pode ser escrito em minúsculas. As menções antigas a “Método EIXO”, cânone e fases preservam elaborações anteriores para consulta e não restauram uma marca ou estrutura separada. Os sentidos de orientação, coordenação e retorno continuam disponíveis.
+
+Eu Básico, Eu Médio e Eu Superior são apresentados com sua genealogia e suas reelaborações autorais. A formulação escolhida de Long sobre razão, vontade e memória é identificada como pertencente a esse mapa. Redes neurais e funções do mapa não são equivalentes demonstrados. Self, Eu Essencial, Essência, Alma e Fonte preservam seus campos de origem e a definição espiritual ampliada de Essência já registrada.
+
+A produção recupera palavras segundo a pergunta da aula e permite a correção da expressão pelo participante. Nova composição e correspondência dos códigos: [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]]. Nenhum termo ou regra histórica do léxico cria um bloqueio às escolhas atuais de Fabiano.
+
+
 
 # Léxico Mestre do Traduzindo o Ser Humano
 
@@ -373,7 +383,7 @@ Pode servir como ponte para linguagens de Essência, Self, Alma, Espírito ou Fo
 
 ---
 
-## 6. EIXO
+## 6. eixo — recurso didático do TSH
 
 ### Definição nuclear
 
@@ -381,11 +391,11 @@ Função dinâmica de orientação pela qual a pessoa reconhece seu estado, recu
 
 ### Campo de origem
 
-Método EIXO, expressão metodológica autoral do Traduzindo o Ser Humano.
+Recurso didático autoral do Traduzindo o Ser Humano, em diálogo com árvore, pêndulo, espiral e outras metáforas.
 
 ### Estatuto
 
-Função operacional canônica do Método.
+Recurso didático revisável para orientação, coordenação e retorno.
 
 ### Ajuda a traduzir
 
@@ -411,7 +421,7 @@ Função operacional canônica do Método.
 
 ### Uso recomendado
 
-É vocabulário nuclear do Método. Sua compreensão e prática não dependem dos Três Eus ou de crença espiritual.
+Usar no contexto que ajuda a compreender; sua finalidade não exige nomenclatura dos Três Eus nem adesão a uma crença espiritual. O TSH preserva sua perspectiva espiritual explícita.
 
 ### Relações
 
@@ -425,7 +435,7 @@ Algum EIXO favorece a Tradução; ao tornar a experiência legível, a Traduçã
 
 ### Status
 
-**CANÔNICO NO MÉTODO EIXO.**
+**Referência didática revisável do TSH; classificação histórica de método substituída.**
 
 ---
 
@@ -611,3 +621,4 @@ Se apenas aumenta densidade teórica, permanece no Léxico Mestre.
 - reparação.
 
 Cada novo verbete deverá passar pela mesma matriz de definição, origem, estatuto, utilidade, limites, relações, fontes e status.
+

@@ -2,9 +2,19 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.36"
+versao: "0.37"
 atualizado_em: 2026-11-21
 ---
+
+## Integração do percurso após auditoria — trabalho de 21/11/2026
+
+Fabiano pediu ajustar relações, ampliações, fundamentos e práticas do curso inteiro antes dos roteiros; autorizou reavaliar a quantidade de aulas por ganho didático. [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]] reúne a composição integrada: capacidade, experiência, sinal de aprendizagem, ponte e fontes por aula; preserva os nove módulos e mapeia as 54 posições anteriores numa **proposta de 59** (alternativa: 58 com capítulos no M3).
+
+A nova contagem e a renumeração ainda são propostas para decisão de Fabiano. Não interpretar a autorização para avaliar como homologação automática de 59. M2 mantém seis perguntas e pode avançar sem mudança de códigos. Roteiros, artefatos finais, avisos à turma e execução não são confirmados por esta revisão. Publicação de M0/M1 é registro documental, sem nova conferência da plataforma.
+
+A fonte posterior do anexo registra, às 21h56, cinco modos de atenção, três movimentos selecionados do Ba Duan Jin e entradas neurocientíficas. A revisão distingue esse estado das notas das 21h31. Eixo segue recurso didático, ao lado das demais metáforas. O TCC é revisão concluída; correlações neurais, tradicionais e autorais conservam suas diferenças.
+
+
 
 ## Construção das aulas de M2 a M8 — homologado por Fabiano em 21/11/2026, 21h31
 
@@ -300,3 +310,4 @@ Preservar a distinção entre formulações autorais, conhecimentos tradicionais
 Não ler automaticamente todos os documentos da tabela. Escolher apenas a linha pertinente. Documentos extensos, transcrições, montagens e fontes são recuperados sob demanda.
 
 Se a tarefa não exigir mudança autoral, não transformar a resposta em nova deliberação.
+

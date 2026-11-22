@@ -10,6 +10,14 @@ autor: Fabiano Deliberalli
 autoridade_de_decisao: Fabiano Deliberalli
 ---
 
+## Integração do percurso após a auditoria — versão de trabalho de 21/11/2026
+
+A frente atual é integrar o percurso M0–M8 e preparar os roteiros de M2. O dossiê integra a auditoria com os registros e o anexo posterior. M0/M1 são pontos de retomada documentais, sem regravação presumida.
+
+A orientação mais recente de Fabiano permite rever a quantidade de aulas por ganho didático. A revisão desenvolve **59 aulas em nove módulos**, com alternativa de 58; quantidade e renumeração são propostas, não homologação. Os códigos de 54 aulas abaixo continuam como localizadores de origem. Composição integrada, correspondência completa e pendências: [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]]. As passagens datadas anteriores permanecem recuperáveis; não confirmam execução nem publicação.
+
+
+
 ## 21/11/2026 — construção das aulas de M2 a M8 (homologado às 21h31)
 
 M2–M8 passam de possibilidade de conteúdo a estrutura de construção. Como construir: [[TSH - Forma de construção das aulas M2–M8 - cena, verbo e voz do autor]]. Aula a aula: [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]]. Cenas do autor: [[TSH - Banco de cenas e vivências do autor]]. Práticas e bases: [[TSH - Práticas integradas, conceitos do TSH e equilíbrio das bases - avaliação 2026-11-21]]. Decisões: [[2026-11-21 - Decisões de Fabiano - Ciclo de Produção, Práticas e Fontes]]. Fontes: [[TSH - Criatividade, Intenção e Eu Básico - Cameron, Brennan e Long]]; [[TSH - Eixo em Três Leituras - Zhan Zhuang, Linha do Hara e Chong Mai]]; [[Corpo eixo meridianos bioeletricidade e experiência]]; [[Ely Brito - Possibilidades de ampliação do TSH|Ely]]; [[TSH - Empatia e compaixão]]; [[Naranjo]].
@@ -65,7 +73,7 @@ A decisão de incorporação não torna toda prática candidata um roteiro final
 
 ## Frente de trabalho
 
-A frente identificada atualmente é a construção das aulas **M1.1–M1.7**, ainda aberta a revisão conforme o desenvolvimento real do curso.
+A frente atual é a **integração de M0–M8 e a preparação de M2**. A produção de M1.1–M1.7 descrita abaixo é histórico de desenvolvimento e permanece consultável. A nota de estado de M1 distingue o material disponível do registro posterior de publicação.
 
 Pontos de partida disponíveis:
 
@@ -121,3 +129,4 @@ A versão extensa utilizada até agosto de 2026, incluindo a antiga leitura de d
 - [[2026-08-23 - Snapshot da antiga porta de entrada do curso]].
 
 Ela serve para rastreabilidade e recuperação de conteúdo, não para orientar automaticamente novas tarefas.
+

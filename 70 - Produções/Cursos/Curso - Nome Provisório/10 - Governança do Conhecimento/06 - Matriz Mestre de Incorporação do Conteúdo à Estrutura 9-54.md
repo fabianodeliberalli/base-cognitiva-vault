@@ -10,6 +10,14 @@ autor: Fabiano Deliberalli
 autoridade_de_aprovacao: Fabiano Deliberalli
 ---
 
+## Integração do percurso após a auditoria — versão de trabalho de 21/11/2026
+
+Esta matriz é acervo de possibilidades e mantém os códigos de origem. Para selecionar o que entra efetivamente na aula, usar a composição do dossiê integrado, que informa pergunta, função dos fundamentos, experiência, retomada e ponte. Não somar todos os destinos nem restaurar limites de fases anteriores. A nova quantidade não altera retroativamente esta matriz histórica; a correspondência dos códigos permite recuperar todas as 54 posições.
+
+A orientação mais recente de Fabiano permite rever a quantidade de aulas por ganho didático. A revisão desenvolve **59 aulas em nove módulos**, com alternativa de 58; quantidade e renumeração são propostas, não homologação. Os códigos de 54 aulas abaixo continuam como localizadores de origem. Composição integrada, correspondência completa e pendências: [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]]. As passagens datadas anteriores permanecem recuperáveis; não confirmam execução nem publicação.
+
+
+
 ## Árvore, imaginação e contribuições dos anexos — 21/11/2026
 
 Fabiano solicitou incorporar os destinos abaixo. Recuperar [o aprofundamento da Árvore](../40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/%C3%81rvore%20da%20Singularidade%20-%20Postura%20Mapa%20e%20Express%C3%A3o%20Pessoal.md), [a escolha e seu alcance](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#63-incorpora%C3%A7%C3%A3o-escolhida-por-fabiano-%C3%A1rvore-imagina%C3%A7%C3%A3o-e-participa%C3%A7%C3%A3o) e [os originais e avaliações](../../../../90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#64-confer%C3%AAncia-dos-materiais-originais-e-caminhos-de-produ%C3%A7%C3%A3o). Os códigos são destinos de trabalho na estrutura atual, não uma segunda arquitetura nem uma obrigação de utilizar todos os recursos.
@@ -494,3 +502,4 @@ Acervo: [[TSH-escada-adaptacao-IA-scripz.png]], com fotografia original de [@scr
 ## Acupuntura Bioenergética CEMETC — destinação para desenvolvimento — 14/11/2026
 
 [[14 - CEMETC - Destinos Pedagógicos Práticas e Correlações]] detalha as contribuições por aula, com fonte, pergunta, função e situação de aprendizagem. Prioridades: M1.2/M1.5, saber e multidimensionalidade; M3.3/M3.5/M3.6, reserva, constituição e circulação; M4.1–M4.5, diferenciação e contexto; M5.1/M5.3–M5.8, capacidades, mediação e espiritualidade; M6.1–M6.5, nutrição, medida e mapas; M7.1/M7.3/M7.4/M7.6–M7.8, relação e participação; M8.2, continuidade. A base P0/P1 permanece desde M0.2. [[13 - Nogueira Pérez e CEMETC - Acupuntura Bioenergética - Fontes Correlações e Destinos]] fundamenta; [[15 - CEMETC - Imagens Correspondências e Materiais para as Aulas]] localiza visuais. As destinações são propostas, sem substituir a seleção efetiva na montagem.
+

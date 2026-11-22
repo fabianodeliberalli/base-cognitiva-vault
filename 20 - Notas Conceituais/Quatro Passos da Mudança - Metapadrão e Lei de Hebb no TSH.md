@@ -13,6 +13,14 @@ aliases:
   - Neurônios que disparam juntos permanecem juntos
 ---
 
+## Integração do percurso após a auditoria — versão de trabalho de 21/11/2026
+
+Na aula M4.6, os quatro passos organizam um ensaio de resposta e podem dialogar com aprendizagem. Não demonstram por si reconsolidação ou mudança neural específica. Sevenster, Beckers e Kindt (2013/2014) examinam condições específicas de reativação/memória do medo; essa pesquisa não testa a prática do TSH. A repetição de um tema não garante progresso. Formulação para a fala: “Quando uma resposta conhecida reaparece, podemos investigar o que a mantém e o que se tornou diferente nesta ocasião.”
+
+A orientação mais recente de Fabiano permite rever a quantidade de aulas por ganho didático. A revisão desenvolve **59 aulas em nove módulos**, com alternativa de 58; quantidade e renumeração são propostas, não homologação. Os códigos de 54 aulas abaixo continuam como localizadores de origem. Composição integrada, correspondência completa e pendências: [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]]. As passagens datadas anteriores permanecem recuperáveis; não confirmam execução nem publicação.
+
+
+
 # Quatro passos da mudança — o metapadrão e a Lei de Hebb no TSH
 
 Correlação registrada por Fabiano em 19/11/2026, para resgate na estruturação das aulas.
@@ -112,3 +120,4 @@ Outros lugares:
 - [[Teresa Robles - Auto-Hipnose e Reconstrução de Cenas]]
 - [[Onde o Olhar Encontra o Eixo - Olhar Auto-Hipnose e Brainspotting]]
 - [[03 - Estados de Transe Sugestão e Reprogramação - Perspectiva de Fabiano]]
+

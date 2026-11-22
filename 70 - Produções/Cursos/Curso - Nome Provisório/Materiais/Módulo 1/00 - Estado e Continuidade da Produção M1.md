@@ -10,6 +10,14 @@ preparacao_de_gravacoes: autorizada
 status_audiovisual: arquivos-finais-e-ensaio-pendentes
 ---
 
+## Integração do percurso após a auditoria — versão de trabalho de 21/11/2026
+
+O dossiê e o anexo de 21/11 registram M0/M1 liberados em 17/11, com inserções práticas em M1.3/M1.4. Esse é um registro documental posterior às pendências de montagem abaixo; a plataforma não foi novamente conferida nesta integração. Não concluir que cada aluno assistiu ou aprendeu o conteúdo. Na preparação de M2, ensinar as retomadas necessárias sem exigir complementares opcionais. A prioridade atual não é retomar a produção como se M1 ainda não existisse.
+
+A orientação mais recente de Fabiano permite rever a quantidade de aulas por ganho didático. A revisão desenvolve **59 aulas em nove módulos**, com alternativa de 58; quantidade e renumeração são propostas, não homologação. Os códigos de 54 aulas abaixo continuam como localizadores de origem. Composição integrada, correspondência completa e pendências: [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]]. As passagens datadas anteriores permanecem recuperáveis; não confirmam execução nem publicação.
+
+
+
 [[Ely Brito - Possibilidades de ampliação do TSH|Ely]]; [[TSH - Empatia e compaixão]]: M1.2/M1.5/M1.7. [[Naranjo]]
 
 ## Incorporações disponíveis para a produção — 13/11/2026
@@ -45,7 +53,7 @@ Registro textual concluído nesta frente; slides e arquivos DOCX/PDF ainda preci
 Fabiano solicitou incorporar as elaborações e avaliar o acréscimo em M1.1–M1.3. Consultar [[TSH - Varela e Castellanos - Experiência corporificada e cultivo]]: fontes originais, TCC e monografia MTC, diálogo com Forghieri, Qi Gong e Essência, destinos por aula e auditoria dos materiais. M1.1/M1.2 já contemplam os fundamentos na didática; M1.3 recebe texto breve ampliado em [[M1.3 - Texto breve de apoio - O aprendido na vida]]. Falas, slides e práticas existentes preservados. Arquivos diagramados anteriores não foram reexportados. Retomar sobretudo em M1.4, M2, M3 e M5. PR35/36/38 continuam frentes de produção separadas; este registro não declara sua integração.
 
 
-## Estado atual — 01/11/2026
+## Estado em 01/11/2026 — histórico de produção
 
 Referência curricular: Raio X revisado de 30/10 e refinamentos de 31/10, conforme prompt de produção M1 e ficha mínima atual. Os registros de 24/10 abaixo permanecem históricos. A solicitação atual de Fabiano autoriza desenvolver roteiros e preparar gravações; não exige autorização adicional baseada nos marcadores antigos.
 
@@ -80,7 +88,7 @@ Coordenar a derivação audiovisual das aulas M1.1–M1.7 sem criar uma terceira
 | M1.1–M1.6 | UC 0.1 | [[Plano Efetivo de Produção M1.1 a M1.6]] | plano v1.1 de referência |
 | M1.7 | UC 0.2 | [[07 - Consolidação de Conteúdo e Destinação para M1.7]] | conteúdo v1.1 consolidado |
 
-## Estado por aula
+## Estado por aula no registro anterior — histórico, ver atualização acima
 
 | Aula | Pacote de derivação | Estado atual | Próxima ação |
 |---|---|---|---|
@@ -106,7 +114,7 @@ O pacote preliminar v0.1 permanece como histórico. A produção atual foi inici
 - realizar leitura longitudinal M1.1–M1.7 antes de storyboards definitivos;
 - distinguir elaboração, ensaio, geração dos arquivos, gravação e publicação; a preparação está autorizada pela solicitação atual, sem presumir etapas concluídas.
 
-## Ponto de retomada
+## Ponto de retomada do registro anterior
 
 > Retomar pela aula solicitada e consultar a UC 0.1, a UC 0.2 ou o plano apenas conforme a necessidade. O material preliminar de M1.1 é insumo revisável. Nenhum chat possui competência exclusiva: o trabalho pode continuar a partir do repositório e da demanda atual de Fabiano.
 
@@ -128,3 +136,4 @@ Referência: [[TSH - Síntese Integrativa do Refinamento]]. O documento revisado
 | M1.7 | Integrar estado, movimento, referência e participação à prática já existente; distinguir intensidade de acesso, pêndulo de espiral e compreensão de condições de ação. |
 
 As retomadas em M2–M8 estão discriminadas na síntese. MTC, Órbita Microcósmica, árvore e Cosmos conservam linguagem, procedência e função próprias. Práticas requerem desenvolvimento de instrução, observação e transferência conforme as escolhas de Fabiano.
+

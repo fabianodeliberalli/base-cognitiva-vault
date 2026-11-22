@@ -1,8 +1,8 @@
 ---
 tipo: nota-conceitual-mestra
 projeto: Traduzindo o Ser Humano
-metodo: Método EIXO
-status: aprovado-no-projeto-nao-canonico-no-metodo
+recurso_didatico_relacionado: eixo
+status: referencia-atual-com-historico-preservado
 natureza: mapa-funcional-transversal-autoral
 autor: Fabiano Deliberalli
 criado_em: 2026-07-18
@@ -15,10 +15,20 @@ fontes:
 tags:
   - tres-eus
   - mapa-funcional-transversal
-  - metodo-eixo
+  - eixo-como-recurso-didatico
   - traducao-da-experiencia-humana
   - arquitetura-do-curso
 ---
+
+## Leitura atual para a produção — 21/11/2026
+
+O mapa dos Três Eus entra em espiral no TSH, com genealogia Long/Huna situada: par no M2, aprofundamentos M3/M4 e mapa completo M5.3. Eixo é recurso didático de coordenação, orientação e retorno, no mesmo estatuto da árvore, pêndulo, espiral e demais metáforas; não se restaura um método separado nem currículo de seis fases.
+
+A afirmação de Long de que o Eu Médio não guarda lembranças ou não pode ser hipnotizado pertence ao seu modelo. Pode orientar a linguagem da aula, sem ser apresentada como resultado neurocientífico do teste de pálpebras. As correlações com sistema límbico ou redes neurais são aproximações autorais consultáveis, não correlatos identificados por investigação empírica direta dos Três Eus. Isso preserva a perspectiva espiritual sem lhe atribuir uma validação que as fontes não oferecem.
+
+As classificações antigas de candidato, canônico, fases e “Método EIXO” abaixo documentam a genealogia do acervo. Não definem nova condição de uso. A composição para o curso está em [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]]; quantidade e renumeração propostas permanecem abertas à decisão de Fabiano.
+
+
 
 # Mapa Funcional Transversal dos Três Eus
 
@@ -250,3 +260,4 @@ As Cinco Janelas oferecem dimensões de observação; os Três Eus distinguem fu
 Raízes, tronco e copa não equivalem a Eu Básico, Eu Médio e Eu Superior. Espiritualidade participa da árvore inteira. O conceito de Essência deve seguir o verbete atualizado no [[Léxico Mestre do Traduzindo o Ser Humano]], preservando as distinções de Self, Eu Superior e Fonte. M5.3 e M5.7 são destinos atuais do diálogo, sem transportar numerações históricas.
 
 Fonte integrativa: [[TSH - Síntese Integrativa do Refinamento]]. Incorporação solicitada por Fabiano; práticas descritas permanecem propostas de desenvolvimento e condução autoral.
+

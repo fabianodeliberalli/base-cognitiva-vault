@@ -9,6 +9,14 @@ aliases:
   - Fio do eixo
 ---
 
+## Integração do percurso após a auditoria — versão de trabalho de 21/11/2026
+
+Na proposta integrada, M3.6 ensina postura e M3.7 a sequência em movimento; M6.5 ensina pequena circulação; M6.6 aprofunda Hara; M6.7 situa Chong Mai e ensina o passo selecionado de grande circulação; M6.8 acompanha integração temporal. A experiência breve de Hara ligada à escrita criativa pode aparecer antes, conforme já prevista em Cameron–Brennan–Long, com instrução suficiente. Separar versão, cartografia e procedimento: o conjunto de fontes comparadas não constitui sozinho uma técnica única. Se dois procedimentos independentes forem selecionados para M6.7, ensaiar a divisão necessária. A postura ou o alinhamento não medem desenvolvimento espiritual.
+
+A orientação mais recente de Fabiano permite rever a quantidade de aulas por ganho didático. A revisão desenvolve **59 aulas em nove módulos**, com alternativa de 58; quantidade e renumeração são propostas, não homologação. Os códigos de 54 aulas abaixo continuam como localizadores de origem. Composição integrada, correspondência completa e pendências: [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]]. As passagens datadas anteriores permanecem recuperáveis; não confirmam execução nem publicação.
+
+
+
 # Eixo em três leituras — Zhan Zhuang, linha do Hara e Chong Mai
 
 Decisão de Fabiano em 21/11/2026: o eixo passa a ser um fio próprio do TSH, com três leituras que dialogam sem se confundir. Os mapas se correlacionam e se ampliam, sem estabelecer identidade. O EIXO continua sendo conceito didático de coordenação, com o mesmo estatuto do pêndulo e da árvore (decisão de 02/11/2026).
@@ -65,3 +73,4 @@ Sugestões de fundamentação para a fala: acolher como legítima a ausência de
 - [[TSH - Chong Mai pequena e grande circulação - comparação das fontes Pai Lin e Além das Fronteiras]]
 - [[07 - Mapa do Caminho em Espiral - Como, Onde e Quando Entra nas Aulas]]
 - [[Corpo eixo meridianos bioeletricidade e experiência]] (seção 21.5, Hara e direção da existência)
+
