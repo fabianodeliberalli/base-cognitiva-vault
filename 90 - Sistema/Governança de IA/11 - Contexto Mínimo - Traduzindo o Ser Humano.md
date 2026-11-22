@@ -2,9 +2,17 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.41"
+versao: "0.42"
 atualizado_em: 2026-11-22
 ---
+
+## 22/11/2026 — revisão substantiva de profundidade desde M2.1
+
+Fabiano determinou rever as aulas desde M2.1 e a produção futura, pois o conteúdo entregue ficou muito básico diante de seu patrimônio e modo de ensinar. M0 é boas-vindas; M1 também foi objeto de crítica e consulta textual para orientar aprofundamentos. Clareza e fala coloquial preservam a densidade dos conceitos, das práticas e das articulações autorais.
+
+A revisão em [[TSH - Revisão de Profundidade e Percurso - 22-11-2026]] cobre as 59 posições, preservando nove módulos e códigos de origem. M2.1 foi reescrita em [[M2.1 - Roteiro de fala v0.4]]; M2.2 em [[M2.2 - Roteiro de fala v0.2]], ambas com apresentações de 18 telas e apoios refeitos. M2.1 v0.3 e M2.2 v0.1 ficam históricas. A adaptação dedo–própria palma sai da composição atual; as práticas originais do acervo continuam disponíveis.
+
+[[TSH - Forma de construção das aulas M2–M8 - cena, verbo e voz do autor]] passa a admitir questão conceitual, prática, vivência ou cena como abertura. Não exigir cena em cada bloco, teto genérico de abstração, tempo ou páginas. Fontes devem participar do conteúdo e da experiência, com espiritualidade afirmativa e precisão. As demais aulas têm revisão estrutural, não roteiros integrais novos. Os estados de gravação/publicação continuam sem confirmação nesta frente; padronização visual não comprova prontidão substantiva. [[00 - Estado e Continuidade da Produção M2]] localiza as versões atuais.
 
 ## 22/11/2026 — uniformidade visual e locução na produção futura
 
@@ -18,7 +26,7 @@ Fabiano adotou a proposta de registrar e prosseguir com os apoios para o aluno d
 M2.1 é o primeiro modelo produzido: [[M2.1 - Apoio do aluno - Perceber e revisar uma leitura]] v0.2, PDF próprio de duas páginas e Word editável, alinhados ao roteiro de gravação e à prática. [[M2.1 - Inserção do apoio do aluno na Hotmart]] contém descrição e orientação de anexação. A decisão é sobre organização e continuidade da produção; não atesta aprovação individual dos futuros arquivos, upload, publicação, gravação ou aprendizagem.
 
 
-## 22/11/2026 — títulos claros e M2.1 preparada para gravação
+## Histórico de 22/11/2026 — títulos claros e preparação anterior de M2.1
 
 Fabiano adotou **Como se forma o que você percebe?** para M2.1. Sua orientação é que os nomes expressem com clareza e objetividade o estudo, os fundamentos e as contribuições do TSH, ajudando o aluno a reconhecer sua progressão. A revisão dos 59 nomes e dos nove módulos está em [[TSH - Nomes das aulas e módulos - revisão de clareza 2026-11-22]]; outras redações são ajustes editoriais desenvolvidos no escopo solicitado, sem atribuição de escolhas textuais individuais ao autor. A referência de gravação é [[M2.1 - Roteiro oral e caderno de produção v0.2]], com apresentação de 12 telas e fala nas notas, prática, fontes e apoio alinhados. Ensaio e gravação permanecem sem confirmação.
 
@@ -327,3 +335,4 @@ Preservar a distinção entre formulações autorais, conhecimentos tradicionais
 Não ler automaticamente todos os documentos da tabela. Escolher apenas a linha pertinente. Documentos extensos, transcrições, montagens e fontes são recuperados sob demanda.
 
 Se a tarefa não exigir mudança autoral, não transformar a resposta em nova deliberação.
+
