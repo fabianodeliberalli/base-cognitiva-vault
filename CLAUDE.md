@@ -3,6 +3,10 @@
 Use como fonte única de governança:
 `90 - Sistema/Governança de IA/10 - Contrato Comum de Contexto para Assistentes de IA.md`.
 
+Para criar ou revisar conteúdo autoral de Fabiano, de qualquer projeto, recupere e aplique a referência geral indicada pelo contrato:
+`90 - Sistema/Governança de IA/13 - Base de Produção Autoral e Didática - Fabiano Deliberalli.md`.
+Use-a durante a execução, sem novo lembrete, junto da ficha e do modelo específico do projeto.
+
 Para tarefas do **Traduzindo o Ser Humano**, comece por:
 `90 - Sistema/Governança de IA/11 - Contexto Mínimo - Traduzindo o Ser Humano.md`.
 

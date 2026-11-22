@@ -2,8 +2,8 @@
 tipo: guia-comum-de-contexto
 status: referencia-de-trabalho-revisavel
 autoridade_final: Fabiano Deliberalli
-versao: "0.5"
-atualizado_em: 2026-11-18
+versao: "0.6"
+atualizado_em: 2026-11-22
 ---
 
 # Guia comum de contexto para assistentes de IA
@@ -32,6 +32,12 @@ Não carregar o vault inteiro.
 4. Expandir a busca quando houver lacuna relevante, contradição, risco de repetir trabalho ou possibilidade de aproveitar conteúdo existente.
 5. Distinguir fonte consultada, inferência e proposta nova.
 6. Registrar apenas o que Fabiano queira preservar ou o que seja necessário para evitar perda de continuidade.
+
+## Produção autoral e didática — orientação de 22/11/2026
+
+Ao produzir ou revisar conteúdo autoral de Fabiano, do TSH ou de outro projeto, recuperar e aplicar a [[13 - Base de Produção Autoral e Didática - Fabiano Deliberalli]] durante a execução, sem depender de um novo lembrete. A base geral reúne voz, profundidade, fundamentos, recuperação do acervo visual e conferência do produto; a ficha e o modelo do projeto particularizam sua aplicação. Não transportar automaticamente currículo, conceitos ou identidade visual do TSH para outros trabalhos.
+
+A aplicação depende de acesso real às referências. Esta orientação não afirma que outra IA ou conversa recebeu os arquivos, não exige novo ritual ou relatório e não substitui a instrução atual de Fabiano. A redação operacional acrescentada nesta frente permanece desenvolvimento editorial revisável, sem homologação automática de suas propostas.
 
 ## Continuidade em sessões longas
 

@@ -5,6 +5,10 @@ Antes de atuar neste repositório, leia:
 1. `90 - Sistema/Governança de IA/10 - Contrato Comum de Contexto para Assistentes de IA.md`;
 2. a ficha mínima do projeto envolvido, quando existir.
 
+Para criar ou revisar conteúdo autoral de Fabiano, de qualquer projeto, recupere e aplique também:
+`90 - Sistema/Governança de IA/13 - Base de Produção Autoral e Didática - Fabiano Deliberalli.md`.
+A aplicação integra o trabalho sem exigir novo lembrete; a ficha e o modelo específico do projeto orientam sua composição.
+
 Para **Traduzindo o Ser Humano**, use:
 `90 - Sistema/Governança de IA/11 - Contexto Mínimo - Traduzindo o Ser Humano.md`.
 

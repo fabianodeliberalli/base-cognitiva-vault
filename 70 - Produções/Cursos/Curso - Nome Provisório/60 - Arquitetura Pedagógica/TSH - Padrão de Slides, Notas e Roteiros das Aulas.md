@@ -2,7 +2,7 @@
 tipo: padrao-de-producao
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "2.1"
+versao: "2.2"
 criado_em: 2026-11-02
 atualizado_em: 2026-11-22
 aplica_se_a: futuras producoes de aulas, slides, notas e apoios do TSH
@@ -17,11 +17,17 @@ Em 22/11/2026, após examinar M2.1 **Como se forma o que você percebe?**, na co
 
 Esta nota é a descrição operacional do modelo. Serve a ChatGPT, Codex, Claude e a qualquer outro assistente, sem depender do histórico desta conversa nem de acesso à página nativa. Permanece revisável por Fabiano. Preservar a lógica e a qualidade; a quantidade de telas, exemplos e passagens acompanha a aprendizagem de cada aula.
 
-**Recuperação mínima para produzir:** ler a ficha mínima do TSH; esta nota; a posição da aula e suas relações no dossiê vigente; as fontes pertinentes à questão. Para compreender a execução concreta, consultar [[M2.1 - Trilha de exposição v0.7]] e `Materiais/Módulo 2/M2.1 - Conteúdo das telas e notas v0.7.json`. A ficha mínima, alcançada por `AGENTS.md` e `CLAUDE.md`, aponta para esta referência. Expandir a busca quando houver lacuna substantiva, sem carregar o vault inteiro.
+**Recuperação mínima para produzir:** ler a ficha mínima do TSH; esta nota; a posição da aula e suas relações no dossiê vigente; as fontes pertinentes à questão. Para compreender a execução concreta, consultar [[M2.1 - Trilha de exposição v0.8]] e `Materiais/Módulo 2/M2.1 - Conteúdo das telas e notas v0.8.json`; [[M2.2 - Trilha de exposição v0.4]] permite examinar a composição de outra questão. A ficha mínima, alcançada por `AGENTS.md` e `CLAUDE.md`, aponta para esta referência. Expandir a busca quando houver lacuna substantiva, sem carregar o vault inteiro.
 
-**Exemplar completo:** [[M2.1 - Apresentação editável v0.7]] reúne apresentação, guia e apoio do aluno. O JSON conserva as 20 notas e os tipos visuais; a trilha em Markdown conserva mapa e desenvolvimento. A montagem nativa v0.7 preserva a composição visual e o conteúdo atual. A v0.7 incorpora a orientação posterior sobre exemplos sem personagem e texto do aluno escrito diretamente para quem aprende. O rótulo “teste” em metadados anteriores documenta a etapa em que os arquivos foram construídos; a decisão desta seção adota seu formato como referência futura.
+**Exemplar e revisões:** o modelo completo adotado por Fabiano permanece recuperável pela genealogia de M2.1; [[M2.1 - Apresentação editável v0.8]] e [[M2.2 - Apresentação editável v0.4]] localizam as revisões atuais produzidas para avaliação, com 20 telas em cada aula. JSON e trilha em Markdown conservam mapa, notas e desenvolvimento. A v0.7 permanece como referência da retirada da personagem e da redação dirigida ao aluno. O rótulo “teste” em metadados anteriores documenta a etapa de construção; a adoção do formato não aprova automaticamente cada revisão posterior.
 
 As versões anteriores deste padrão permanecem no histórico Git. As exigências de fala integral predeterminada, notas somente de locução e bibliografia na preparação do apresentador foram substituídas pelo modelo abaixo. Materiais já produzidos conservam seu histórico; a decisão não afirma que M0, M1, M2.2 ou outras aulas já foram refeitas.
+
+### Refinamento de coerência e recuperação do acervo — 22/11/2026
+
+Esta revisão incorpora as orientações posteriores de Fabiano sobre pertinência de imagens e metáforas, uniformidade entre materiais e recuperação do acervo autoral. M2.1 v0.8 e M2.2 v0.4 foram produzidas para avaliação, ambas com 20 telas; isso não representa aprovação automática. A base geral de produção está em [[13 - Base de Produção Autoral e Didática - Fabiano Deliberalli]]; esta nota particulariza o trabalho do TSH.
+
+Slides, notas e apoio mantêm coerência de conceito, finalidade e progressão. A representação acompanha a função do suporte: uma imagem útil na tela pode ser explicada por palavras ou por outro exemplo no apoio, sem repetição obrigatória de cada figura. Exemplos e metáforas entram onde esclarecem uma relação; não precisam explicar todos os momentos da aula. Fontes tradicionais são contextualizadas em suas próprias linguagens, sem tomar semelhança entre figuras ou termos por identidade teórica. Nos exercícios abertos, o participante não precisa organizar sua questão por uma árvore, campo, vaso ou outra imagem previamente escolhida. Quando a experiência instrumental de Fabiano for pertinente, o instrumento registrado é shakuhachi, não violão; não inventar episódios pessoais.
 
 ## 2. O que a aula precisa realizar
 
@@ -72,9 +78,27 @@ Os slides dão uma representação rápida e clara do passo da trilha. Podem con
 
 Escolher poucos elementos legíveis, suficientes para aquela relação. Uma distinção deve ser reconhecível no desenho; setas significam direção ou processo, linhas podem representar relação sem causalidade. Um mapa de três eus, por exemplo, precisa mostrar a relação explicada entre eles e ensinar seus termos no passo correspondente. O mapa não dispensa essa introdução nem autoriza acrescentar conteúdos sem pertinência à aula.
 
-Fabiano aprovou manter o apoio visual alcançado em M2.1 v0.6; a v0.7 preserva esse apoio e ajusta as referências ao exemplo. Preservar suas imagens, diagramas e identidade nas revisões de notas. Para novas aulas, reproduzir sua função didática e a família visual, compondo imagens próprias do assunto. Evitar decoração sem contribuição, texto minúsculo, setas que inventem causalidade e a troca de um diagrama útil por um bloco de texto.
+Fabiano aprovou manter o apoio visual alcançado em M2.1 v0.6; a v0.7 preserva esse apoio e ajusta as referências ao exemplo. Preservar suas imagens, diagramas e identidade nas revisões de notas. Para novas aulas, reproduzir sua função didática e a família visual, consultando o acervo antes de selecionar, adaptar ou criar a representação pertinente ao assunto. Evitar decoração sem contribuição, texto minúsculo, setas que inventem causalidade e a troca de um diagrama útil por um bloco de texto.
 
 Na tela 8, detalhes do esquema da tarefa visual ajudam a imaginar o procedimento explicado. A figura tem de corresponder ao que a fala afirma. A fonte completa, a procedência dos detalhes e as observações de pesquisa estão no aprofundamento opcional do aluno. Uma imagem de esquema não deve ser apresentada como teste funcional ou como dado do TSH. As imagens originais do acervo mantêm seu conteúdo e suas cores internas; aplicar a identidade no suporte sem redesenhá-las por uniformização estética.
+
+### Recuperação visual antes de criar
+
+Consultar primeiro o acervo de imagens e diagramas autorais pertinente à questão, seus índices e notas-mãe. O repositório reúne produções de várias etapas: verificar o conteúdo, a formulação que a nota-mãe desenvolve e a decisão autoral vigente antes de escolher a versão. Nome, data, pasta ou rótulo histórico isolados não determinam a vigência. Registrar a procedência e o motivo de uma adaptação quando isso for relevante à continuidade.
+
+Uma figura antiga pode conservar uma contribuição necessária; uma figura nova pode ainda ser proposta. Selecionar pelo que ajuda o aluno a perceber e compreender. Reutilizar quando pertinente, adaptar quando houver ganho e criar quando o acervo não cumprir a função. Preservar relações, legendas e cores internas dos mapas quando têm significado; a identidade da aula pode organizar o suporte sem refazer o mapa por uniformização estética. A disponibilidade de uma metáfora não a torna obrigatória em todos os slides, apoios ou exercícios.
+
+**Mapas complexos e apresentação progressiva.** A complexidade não é critério de exclusão nem sinal de obsolescência. Há três possibilidades: apresentar o mapa integral e indicar o foco do passo, explicando o que será ampliado, correlacionado e fundamentado ao longo do percurso; destacar uma região preservando a visão do conjunto; ou produzir uma adaptação fiel, vinculada ao original e com seus níveis e relações explicados. Não exigir que o participante domine tudo no primeiro contato. Conservar originais, notas-mãe e a trilha das adaptações.
+
+**Entradas consultáveis do acervo:**
+
+- [[70 - Produções/Cursos/Curso - Nome Provisório/60 - Arquitetura Pedagógica/10 - Mapas Transversais/20 - Sistema Visual/00 - Sistema Visual dos Mapas - Traduzindo o Ser Humano|Sistema visual dos mapas do TSH]]: família de PNGs aprovados, fontes SVG e notas correspondentes.
+- [[80 - Mapas Conceituais/00 - Índice dos Mapas Conceituais|Índice dos mapas conceituais]]: fichas e originais de diferentes etapas, cotejados com as decisões atuais.
+- [[Mapa Funcional Transversal dos Três Eus]]: fundamento atual para examinar as representações dessa família; não confundir com os mapas de Amor, Poder e Sabedoria apenas por serem tríades.
+- [[07 - Mapa do Caminho em Espiral - Como, Onde e Quando Entra nas Aulas]]: função e progressão do mapa integrado; arquivos em `90 - Anexos/Mapas Conceituais/Mapa do TSH - Espiral, Eixo, Pêndulo e Espelho.svg` e `.png`.
+- [[70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Práticas Transversais/Acervo Visual - Qi Gong e Rohden/00 - Catálogo de Imagens e Destinos|Catálogo visual de Qi Gong e Rohden]]: imagens, procedência, funções e destinos pertinentes ao cultivo.
+
+A consulta é guiada pela pergunta da aula, sem exigir leitura integral de todos os índices. Uma localização por nome não confirma que os pixels tenham sido conferidos ou aplicados. Rótulos e restrições de fases antigas não restauram vetos superados em 18/11; examinar a contribuição, a formulação atual e a legibilidade concretas.
 
 ## 5. Notas: apoio para exposição livre com sentido
 
@@ -173,7 +197,7 @@ Fabiano avaliou a redação atual do apoio de **M2.1 — Como se forma o que voc
 
 As amostras mostram a perspectiva e o nível da escrita. O exemplar completo é a referência para ritmo, desenvolvimento e organização. Ao produzir outra aula, manter essa qualidade e compor seus fundamentos, exemplos e práticas próprios. Quatro páginas são a extensão deste exemplar, sem teto ou quantidade obrigatória para futuros apoios.
 
-A aprovação refere-se ao apoio atual de M2.1 e ao seu uso como modelo. Não declara a aprovação dos slides de M2.2, de futuras redações ou de estados audiovisuais. A revisão visual de M2.2 continua pendente.
+A aprovação refere-se ao apoio atual de M2.1 e ao seu uso como modelo. Não declara a aprovação dos slides de M2.2, de futuras redações ou de estados audiovisuais. Na etapa descrita em v2.1, a reconstrução visual de M2.2 estava pendente. A v0.4 agora produzida para avaliação tem estado próprio em [[00 - Estado e Continuidade da Produção M2]].
 
 **Escrever diretamente para o aluno.** O texto fala do conhecimento e de sua relação com a experiência de quem aprende. “Na Medicina Chinesa e no Qi Gong…” apresenta o fundamento; “na formação de Fabiano em Medicina Chinesa…” relata bastidores que não explicam o conteúdo. Apresentar Forghieri pela contribuição da Psicologia fenomenológica, sem justificar a referência pela trajetória formativa do professor. A autoria permanece identificada na assinatura e nas fontes; os conceitos autorais aparecem pelo que ensinam.
 
@@ -255,10 +279,10 @@ Comecemos pela experiência da questão, antes de tentar resolvê-la.
 
 ## 11. Produção e conferência antes da entrega
 
-1. Localizar a contribuição da aula no percurso e recuperar as fontes, práticas, imagens e formulações autorais pertinentes. Ler o conteúdo necessário, sem presumir que um título de nota já forneça o fundamento.
+1. Localizar a contribuição da aula no percurso e recuperar as fontes, práticas, imagens e formulações autorais pertinentes. Consultar o acervo visual e suas notas-mãe antes de criar uma figura nova; verificar conteúdo e decisão vigente. Ler o conteúdo necessário, sem presumir que o nome da nota já forneça o fundamento ou determine sua vigência.
 2. Compor a trilha inteira: entrada, questão, desenvolvimento, experiência quando pertinente, elaboração e continuidade. Conferir as conexões antes de diagramar.
 3. Construir cada slide como um passo com representação visual própria e as quatro partes das notas. Desenvolver os termos novos e as contribuições dos autores em seu lugar no raciocínio.
-4. Produzir ou atualizar o apoio do aluno e seu aprofundamento opcional. Conferir a correspondência de conceitos, cena e prática com a apresentação.
+4. Produzir ou atualizar o apoio do aluno e seu aprofundamento opcional. Conferir a correspondência de conceitos, finalidade, exemplos e prática com slides e notas. A coerência não exige reproduzir literalmente toda figura em todos os suportes, nem impor um desenho nos exercícios abertos.
 5. Percorrer a aula do início ao fim como apresentador e aluno. Conferir se um olhar para a tela e as notas permite saber de onde viemos, o que desenvolver aqui, para quê e para onde seguimos. Reescrever qualquer ponto que ainda exija inventar a explicação durante a gravação.
 6. Verificar os arquivos reais: todas as telas e notas, preservação de imagens aprovadas, legibilidade, exportações e correspondência das versões. Fazer a revisão de conteúdo e visual adequada à alteração; não presumir qualidade pedagógica só pela diagramação.
 7. Atualizar o estado da aula e seus localizadores. Distinguir produção realizada, escolha de Fabiano, proposta do assistente e etapas não confirmadas. Uma nova adoção do modelo não torna automaticamente todos os artefatos prontos, gravados ou publicados.
@@ -306,7 +330,7 @@ Montar `speakerNotes` ou campo equivalente a partir de `entrada`, `caminho`, `se
 
 **Apontador curto para uma nova conversa:**
 
-> Produza a aula indicada do TSH usando o modelo adotado por Fabiano em 22/11/2026. Consulte pelo GitHub `fabianodeliberalli/base-cognitiva-vault` a ficha mínima, o “Padrão de slides, notas e roteiros das aulas” v2.0 ou posterior, o exemplar atual M2.1 v0.7 ou posterior e as fontes pertinentes à aula. Construa a trilha com visão inicial, slides como passos visuais e notas naturais para exposição livre: entrada, ideias explicadas, objetivo e passagem. Preserve a profundidade autoral, os fundamentos, as práticas e a identidade visual; referências completas e pesquisa ficam no aprofundamento opcional do aluno. Use exemplos genéricos que possam entrar naturalmente na fala, reapresente o contexto a cada retomada e amplie o raciocínio. Escreva o entregável diretamente para o aluno, sem bastidores sobre a formação do professor. Faça a conferência do encadeamento e dos arquivos antes de entregar. Não reinicie pelo roteiro integral ou pelos exemplos básicos das versões anteriores.
+> Produza a aula indicada do TSH usando o modelo adotado por Fabiano em 22/11/2026. Consulte pelo GitHub `fabianodeliberalli/base-cognitiva-vault` a ficha mínima, o “Padrão de slides, notas e roteiros das aulas” v2.2 ou posterior, o exemplar e as revisões atuais indicados no estado de M2 e as fontes pertinentes à aula. Construa a trilha com visão inicial, slides como passos visuais e notas naturais para exposição livre: entrada, ideias explicadas, objetivo e passagem. Preserve a profundidade autoral, os fundamentos, as práticas e a identidade visual; referências completas e pesquisa ficam no aprofundamento opcional do aluno. Use exemplos genéricos que possam entrar naturalmente na fala, reapresente o contexto a cada retomada e amplie o raciocínio. Escreva o entregável diretamente para o aluno, sem bastidores sobre a formação do professor. Faça a conferência do encadeamento e dos arquivos antes de entregar. Não reinicie pelo roteiro integral ou pelos exemplos básicos das versões anteriores.
 
 ## Relações
 
