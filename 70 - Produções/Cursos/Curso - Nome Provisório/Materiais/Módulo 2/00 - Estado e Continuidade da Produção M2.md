@@ -20,10 +20,10 @@ Fabiano validou a organização de nove módulos e 59 aulas e solicitou registra
 | [[01 - Plano de produção das seis aulas M2]] | Primeira composição integrada elaborada: perguntas, capacidades, cenas, fontes, práticas, sinais de aprendizagem, transições e entregáveis. |
 | [[M2.1 - Roteiro de fala v0.3]] | Fala de gravação revisada por pedido do autor: linguagem coloquial e natural, em 108 blocos curtos, com 1.753 palavras. A v0.2 e a v0.1 permanecem históricas; fundamentação e preparação continuam à parte. |
 | [Word de gravação — somente fala v0.3](https://chatgpt.com/library?file_id=libfile_fde3_f-0a29781aadec8191896dfd0cc5abdd4d_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal) | Arquivo de leitura produzido em Arial 15,5, com a fala v0.3 em blocos curtos. Ferramenta interna de gravação; não é material do aluno nem aplicação de identidade visual pesada. |
-| [[M2.1 - Conteúdo das telas e notas v0.3.json]] | Conteúdo recuperável das mesmas 12 telas; notas com somente o texto a dizer, sem rubricas, temporização ou fontes. A atualização das 12 notas na página nativa foi conferida, com correspondência exata e conteúdo visual inalterado. |
+| [[M2.1 - Conteúdo das telas e notas v0.3.json]] | Conteúdo recuperável das mesmas 12 telas; notas com somente o texto a dizer, sem rubricas, temporização ou fontes. Página nativa padronizada, sequência 3, com 12 telas e notas exatas. Fontes reais carregadas para render; exportação PPTX ainda não testada. |
 | [[M2.1 - Fontes e notas do educador]] | Quatro fontes selecionadas, função e alcance, com procedência direta ou recuperada; artigos primários conferidos. |
-| [[M2.1 - Sequência de telas e montagem da prática]] | Preparação e montagem alinhadas à fala v0.3; as mesmas doze telas e seus visuais permanecem em [[M2.1 - Apresentação editável v0.2]]. Notas de gravação contêm só a fala; fontes e preparação ficam separadas. |
-| [[M2.1 - Apoio do aluno - Perceber e revisar uma leitura]] | Apoio v0.2 ampliado como leitura fundamentada, prática, aplicação e referências. PDF de duas páginas e Word editável produzidos e conferidos; anexação e publicação na Hotmart não confirmadas. Ver [[M2.1 - Inserção do apoio do aluno na Hotmart]]. |
+| [[M2.1 - Sequência de telas e montagem da prática]] | Preparação e montagem alinhadas à fala v0.3; a padronização visual das doze telas foi aplicada e conferida em [[M2.1 - Apresentação editável v0.3]]. Notas de gravação contêm só a fala; fontes e preparação ficam separadas. |
+| [[M2.1 - Apoio do aluno - Perceber e revisar uma leitura]] | Apoio visual v0.3 padronizado, com texto preservado. PDF oficial de duas páginas com Inter/EB Garamond incorporadas e Word editável declarando essas famílias, sem incorporação; ambos conferidos. Anexação e publicação na Hotmart não confirmadas. Ver [[M2.1 - Inserção do apoio do aluno na Hotmart]]. |
 | Roteiros completos M2.2–M2.6 | Ainda não produzidos nesta frente; materiais externos não confirmados. |
 | Ensaio, gravação, edição e publicação | Sem execução confirmada nesta produção. Não preencher os estados a partir da existência dos textos. |
 
@@ -34,6 +34,10 @@ Fabiano solicitou registrar e executar a continuidade dos apoios de M0/M1 em M2 
 M2.1 possui os arquivos [[TSH_M2_1_Como_se_forma_o_que_voce_percebe_Apoio_do_Aluno.pdf|PDF para o aluno]] e [[TSH_M2_1_Como_se_forma_o_que_voce_percebe_Apoio_do_Aluno.docx|Word editável]]. O Word é fonte de edição; o PDF é o arquivo preparado para a Hotmart. A produção dos apoios M2.2–M2.6 acompanha o desenvolvimento das respectivas aulas.
 
 ## Continuidade de produção
+
+**M2.1 pronta para ensaio e gravação:** apresentação padronizada e revisada visualmente, fala limpa conferida e apoio PDF/Word verificado. Pronto não significa ensaio ou gravação executados; duração real, gravação, edição e publicação permanecem sem confirmação.
+
+[PDF oficial do aluno v0.3](https://chatgpt.com/library?file_id=libfile_fde3_f-0302c65fb6b881918eb9d9641fdb8c73_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal) · [Word editável do aluno v0.3](https://chatgpt.com/library?file_id=libfile_fde3_f-81750e81c7548191a442e0646689d5df_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal).
 
 A fala de M2.1 está preparada em [[M2.1 - Roteiro de fala v0.3]]. A auditoria visual em [[02 - Auditoria e padronização visual M0 M1 M2]] recomenda ajustar a aplicação da identidade oficial na apresentação e no apoio do aluno antes da gravação. Essa aplicação visual ainda não foi executada nesta revisão. Um ensaio breve permite conferir a primeira leitura, as passagens de tela, o enquadramento e os silêncios da prática; registrar o tempo efetivamente medido, sem herdar as estimativas da v0.2. A execução da gravação continua sem confirmação por este registro. O plano das outras aulas permanece aberto a refinamento, sem exigir uma nova auditoria geral.
 

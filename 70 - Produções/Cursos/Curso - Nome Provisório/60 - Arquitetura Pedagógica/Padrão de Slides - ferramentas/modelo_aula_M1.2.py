@@ -77,7 +77,7 @@ for r in h.text_frame.paragraphs[0].runs: r.text = r.text.upper()
 place(t, 0.92, 1.35, 7.5, 3.0); frame(t, "b"); style(t, SERIF, 52, "FFFFFF", line=92)
 code, q = items
 place(code, 0.95, 4.75, 7, 0.4); frame(code, "t"); style(code, SANS, 16, OURO, bold=True, spc=120)
-place(q, 0.95, 5.3, 7.2, 0.6); frame(q, "t"); style(q, SERIF, 26, BEGE, italic=True)
+place(q, 0.95, 5.3, 7.2, 0.6); frame(q, "t"); style(q, SANS, 26, BEGE, italic=True)
 pic(s, A + "mark_gold.png", 8.95, 0.9, h=4.15)
 label(s, 8.62, 5.25, 4.65, 0.35, SUB_CURSO, size=8.5, color="E9E2D8", bold=False, align="ctr", spc=120)
 f._element.getparent().remove(f._element)
@@ -87,12 +87,12 @@ s = S[1]; t, items = light(s); title_top(t)
 xs, cw = cards(s, items, y=2.5, h=2.9)
 for k, (x, it) in enumerate(zip(xs, items)):
     label(s, x + 0.3, 2.75, 1, 0.35, f"0{k + 1}", size=13, color=OURO, spc=150)
-    place(it, x + 0.3, 3.2, cw - 0.6, 2.0); frame(it, "t"); style(it, SERIF, 30, NOT, line=100)
+    place(it, x + 0.3, 3.2, cw - 0.6, 2.0); frame(it, "t"); style(it, SANS, 30, NOT, line=100)
     if k < 2: rect(s, x + cw + 0.08, 3.95, 0.12, 0.26, fill=OURO, kind=MSO_SHAPE.CHEVRON)
 label(s, 0.92, 5.7, 6, 0.35, "SITUAÇÃO FICTÍCIA", size=12, color=MUTED, spc=200)
 
 # 3, 4, 5 — a tríade, com marcador de posição
-for si, cur, font, size in ((2, 0, SERIF, 30), (3, 1, SERIF, 30), (4, 2, SERIF, 30)):
+for si, cur, font, size in ((2, 0, SANS, 30), (3, 1, SANS, 30), (4, 2, SANS, 30)):
     s = S[si]; t, items = light(s); split(s, t, items, size=size, font=font); triad(s, cur)
 
 # 6 usar e revisar: quatro perguntas
@@ -100,7 +100,7 @@ s = S[5]; t, items = light(s); title_top(t)
 xs, cw = cards(s, items, y=2.45, h=3.2)
 for k, (x, it) in enumerate(zip(xs, items)):
     label(s, x + 0.28, 2.68, 1, 0.35, f"0{k + 1}", size=13, color=OURO, spc=150)
-    place(it, x + 0.28, 3.1, cw - 0.5, 2.4); frame(it, "t"); style(it, SERIF, 28, NOT, line=100)
+    place(it, x + 0.28, 3.1, cw - 0.5, 2.4); frame(it, "t"); style(it, SANS, 28, NOT, line=100)
 
 # 7 três situações que podem coexistir (sem setas)
 s = S[6]; t, items = light(s); title_top(t, 38)
@@ -109,7 +109,7 @@ c = s.shapes.add_connector(1, Inches(xs[0] + 0.45), Inches(2.6), Inches(xs[-1] +
 c.line.color.rgb = rgb(OURO); c.line.width = Pt(1); add_back(s, c)
 for x, it in zip(xs, items):
     dot(s, x + 0.45, 2.6, 0.16)
-    place(it, x + 0.3, 3.0, cw - 0.5, 2.6); frame(it, "t"); style(it, SERIF, 28, NOT, line=100)
+    place(it, x + 0.3, 3.0, cw - 0.5, 2.6); frame(it, "t"); style(it, SANS, 28, NOT, line=100)
 
 # 8 condições de cultivo em linhas
 s = S[7]; t, items = light(s); title_top(t)
@@ -118,26 +118,26 @@ for k, it in enumerate(items):
     y = 2.45 + k * 1.0
     if k: rect(s, 1.3, y - 0.02, 10.74, 0.015, fill=LINHA)
     dot(s, 1.4, y + 0.48, 0.12)
-    place(it, 1.75, y + 0.15, 10.3, 0.7); frame(it, "ctr"); style(it, SERIF, 30, NOT)
+    place(it, 1.75, y + 0.15, 10.3, 0.7); frame(it, "ctr"); style(it, SANS, 30, NOT)
 
 # 9 investigação breve: contexto à esquerda, perguntas em destaque
 s = S[8]; t, items = light(s)
 place(t, 0.92, 0.9, 5.0, 1.4); frame(t, "b"); style(t, SERIF, 40, NOT, line=95)
 ctx, qs = items[0], items[1:]
-place(ctx, 0.92, 2.55, 4.9, 1.4); frame(ctx, "t"); style(ctx, SERIF, 24, EST, italic=True, line=110)
+place(ctx, 0.92, 2.55, 4.9, 1.4); frame(ctx, "t"); style(ctx, SANS, 24, EST, italic=True, line=110)
 rect(s, 6.35, 0.9, 6.07, 5.6, fill=CARD, line=LINHA, rounded=0.03)
 for k, it in enumerate(qs):
     y = 1.35 + k * 1.65
-    label(s, 6.8, y + 0.02, 0.5, 0.6, str(k + 1), font=SERIF, size=32, color=OURO, bold=False)
-    place(it, 7.3, y, 4.8, 1.4); frame(it, "t"); style(it, SERIF, 30, NOT, line=100)
+    label(s, 6.8, y + 0.02, 0.5, 0.6, str(k + 1), font=SANS, size=32, color=OURO, bold=False)
+    place(it, 7.3, y, 4.8, 1.4); frame(it, "t"); style(it, SANS, 30, NOT, line=100)
 
 # 10 registro: quatro campos (folha)
 s = S[9]; t, items = light(s); title_top(t)
 rect(s, 0.92, 2.25, 11.5, 4.3, fill="FFFFFF", line=LINHA, rounded=0.02)
 cells = [(1.35, 2.55), (6.95, 2.55), (1.35, 4.45), (6.95, 4.45)]
 for k, ((x, y), it) in enumerate(zip(cells, items)):
-    label(s, x, y + 0.04, 0.5, 0.5, str(k + 1), font=SERIF, size=28, color=OURO, bold=False)
-    place(it, x + 0.45, y, 4.6, 0.6); frame(it, "t"); style(it, SERIF, 27, NOT)
+    label(s, x, y + 0.04, 0.5, 0.5, str(k + 1), font=SANS, size=28, color=OURO, bold=False)
+    place(it, x + 0.45, y, 4.6, 0.6); frame(it, "t"); style(it, SANS, 27, NOT)
     for j in range(2): rect(s, x + 0.45, y + 1.08 + j * 0.42, 4.6, 0.015, fill=LINHA)
 
 # 11 encerramento
@@ -147,7 +147,7 @@ place(t, 0.92, 0.85, 7.8, 2.0); frame(t, "b"); style(t, SERIF, 44, "FFFFFF", lin
 for k, it in enumerate(items):
     y = 3.3 + k * 0.85
     dot(s, 1.05, y + 0.3, 0.13)
-    place(it, 1.35, y, 7.2, 0.7); frame(it, "t"); style(it, SERIF, 30, BEGE, italic=True)
+    place(it, 1.35, y, 7.2, 0.7); frame(it, "t"); style(it, SANS, 30, BEGE, italic=True)
 pic(s, A + "sym_gold.png", 8.55, 0.85, h=5.8, alpha=0.22)
 
 for m_ in prs.slide_masters:

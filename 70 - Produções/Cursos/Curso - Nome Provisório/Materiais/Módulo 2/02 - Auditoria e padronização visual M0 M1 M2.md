@@ -2,11 +2,34 @@
 tipo: auditoria-visual-e-proposta-de-aplicacao
 projeto: Traduzindo o Ser Humano
 data: 2026-11-22
-status: avaliacao-concluida-propostas-visuais-nao-aplicadas
+status: padronizacao-aplicada-e-verificada
+atualizado_em: 2026-11-22
+base_da_aplicacao: fedf20581e517f17a9dd20a7fa48ac822336eb70
 base_github: 7a4fc5d10d4e2dab3e7f7ddec4f3615b760603da
 ---
 
 # Identidade visual do TSH nos módulos 0 1 e 2
+
+## Adendo de 22/11/2026 — autorização e aplicação verificadas
+
+Após o diagnóstico original, Fabiano autorizou aplicar os ajustes de M2 e registrar a mesma uniformidade para a produção futura. A autorização retoma a identidade de M0/M1, sem criar nova paleta, alterar conteúdo ou refazer automaticamente o acervo. [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] v1.4 registra essa orientação.
+
+| Material | Aplicação e evidência |
+| --- | --- |
+| [Apresentação nativa visual v0.3](https://chatgpt.com/space/page_df42ab94ec2881919e7485a21f5ed9b7) | Mesma página, sequência 3: 12 telas examinadas integralmente, paleta oficial, EB Garamond nos títulos, Inter no corpo/rótulos/rodapés, marca original por tela, subtítulo na capa e área da câmera livre. Capa sem rodapé de progressão. QA visual aprovado. |
+| Fala e notas | As 12 notas continuam exatas e limpas, com 1.753 palavras e 108 blocos. Nenhum conteúdo ou título da aula foi alterado. |
+| Fontes da página nativa | Três TTFs reais carregados para render, status carregado e bytes conferidos. Isso não é incorporação comprovada num PPTX exportado; exportação e modo do apresentador desktop não foram testados. |
+| [PDF oficial do aluno v0.3](https://chatgpt.com/library?file_id=libfile_fde3_f-0302c65fb6b881918eb9d9641fdb8c73_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal) | Duas páginas; fontes TTF incorporadas exclusivamente Inter Regular/Bold e EB Garamond SemiBold. Marca original com suporte de 32 mm e área útil aproximada de 25 mm; quatro campos, prática, referências e DOI preservados. QA aprovado. |
+| [Word editável do aluno v0.3](https://chatgpt.com/library?file_id=libfile_fde3_f-81750e81c7548191a442e0646689d5df_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal) | Duas páginas; Inter e EB Garamond declaradas e reprodução conferida com fontes instaladas. Os arquivos de fonte não estão incorporados no DOCX. É fonte de edição; a entrega oficial ao aluno é o PDF. |
+| Preservação do conteúdo | Conferência de 34 fragmentos da fonte, dos quatro campos da Cartografia, da prática e das referências; sem mudança de currículo ou material textual. |
+| Continuidade | Materiais prontos para ensaio e gravação. Tempo real de ensaio, gravação, edição e publicação na Hotmart não confirmados. |
+
+A composição recuperável registra posicionamentos, paleta, famílias, fontes oficiais e ativos originais em [[M2.1 - Conteúdo das telas e notas v0.3.json]]. A referência atual é [[M2.1 - Apresentação editável v0.3]]; a v0.2 permanece histórica. O Word interno de gravação conserva sua função de leitura em Arial 15,5.
+
+## Diagnóstico e propostas originais — 22/11/2026, antes da autorização
+
+O conteúdo abaixo é o registro original da avaliação. Seus apontamentos e estados de aplicação descrevem a etapa anterior e permanecem para resgate; o estado atual é o adendo acima.
+
 
 A recomendação é manter no M2 a identidade oficial já reconhecível nos materiais padronizados do M0 e do M1. O M2 precisa de ajustes de aplicação: sua apresentação e seu apoio do aluno foram produzidos com cores e fontes derivadas do painel de acompanhamento, que não é a referência governante da identidade do curso. As telas enxutas e a locução limpa devem ser preservadas.
 

@@ -1,4 +1,4 @@
-"""Transições (esmaecimento) em todos os slides + entradas progressivas por clique com marcas nas notas."""
+"""Transições e entradas por clique, preservando integralmente as notas de fala."""
 import sys
 from lxml import etree
 from pptx import Presentation
@@ -52,24 +52,18 @@ def timing(slide, groups):
     el.insert(idx, tm)
 
 def mark_notes(slide, anchors):
-    tf = slide.notes_slide.notes_text_frame
-    done = []
-    for a in anchors:
-        for p in tf.paragraphs:
-            hit = False
-            for r in p.runs:
-                if a in r.text:
-                    r.text = r.text.replace(a, "[CLIQUE] " + a, 1); hit = True; break
-            if hit: done.append(a); break
-    missing = [a for a in anchors if a not in done]
-    if missing: raise SystemExit(f"âncora não encontrada: {missing}")
-    # aviso na condução
-    ps = list(tf.paragraphs)
-    for idx, p in enumerate(ps):
-        if p.text.strip().startswith("CONDUÇÃO"):
-            nxt = ps[idx + 1]
-            nxt.runs[-1].text = nxt.runs[-1].text.rstrip() + f" Esta tela tem {len(anchors)} clique(s) interno(s), marcados como [CLIQUE] na fala."
-            break
+    """Compatibilidade: devolve orientações de avanço sem alterar as notas.
+
+    O nome histórico é mantido para os chamadores existentes. As entradas
+    progressivas continuam sendo criadas por timing(); as âncoras servem apenas
+    de referência para um guia operacional separado. O retorno pode ser usado
+    por quem importar o helper para compor esse guia, fora da locução.
+
+    Não insere marcas, não valida a redação da fala e não remove rubricas
+    históricas que já estejam no arquivo de entrada.
+    """
+    anchors = list(anchors)
+    return {"click_count": len(anchors), "anchors": anchors}
 
 def ids_by_name(slide, *names):
     m = {s.name: s.shape_id for s in slide.shapes}

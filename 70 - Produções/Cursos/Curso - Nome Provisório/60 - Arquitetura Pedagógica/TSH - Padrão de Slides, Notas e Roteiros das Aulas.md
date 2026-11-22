@@ -2,10 +2,10 @@
 tipo: padrao-de-producao
 projeto: Traduzindo o Ser Humano
 status: referencia-revisavel
-versao: "1.3"
+versao: "1.4"
 criado_em: 2026-11-02
 atualizado_em: 2026-11-22
-aplica_se_a: aulas a partir de M1.3
+aplica_se_a: producao de M2 a M8 e atualizacoes pertinentes do acervo
 autor: Fabiano Deliberalli
 tags:
   - traduzindo-o-ser-humano
@@ -17,18 +17,18 @@ tags:
 
 ## Estatuto
 
-Referência de produção revisável, derivada das aulas já padronizadas (M0.1–M0.3, M1.1–M1.2) e do [[00 - Manual de Identidade Visual v1.0]]. Vale para as aulas **a partir de M1.3**. As aulas já padronizadas não serão refeitas; suas diferenças estão listadas no fim. Não substitui o manual, a [[11 - Esteira de Produção dos Materiais do Curso]] nem os cadernos de produção de cada aula: quando um caderno traz regra visual específica, ela prevalece para aquela aula.
+Referência de produção revisável, derivada das aulas já padronizadas de M0/M1 e do [[00 - Manual de Identidade Visual v1.0]]. Em 22/11/2026, Fabiano autorizou aplicar os ajustes de padronização de M2 e registrar a continuidade dessa mesma família visual nas produções futuras de **M2 a M8**, sem nova paleta por módulo. O caderno de cada aula particulariza a composição pedagógica preservando paleta, funções tipográficas e marca comuns. Este padrão se articula ao manual e à [[11 - Esteira de Produção dos Materiais do Curso]]. As aulas já produzidas de M0/M1 não são refeitas automaticamente por sincronização; suas diferenças históricas permanecem registradas.
 
-A v1.3 registra o pedido de Fabiano de manter nas notas do orador e no roteiro de gravação somente a fala, em linguagem clara, coloquial e natural, com blocos curtos para a primeira leitura. A v1.2 permanece recuperável no histórico. Esta revisão altera a organização da locução e da preparação; não muda cores, fontes, marca, tipos de tela ou textos visuais e não exige refazer aulas já produzidas por sincronização. A avaliação entre manual e padrão de aplicação pertence à frente separada de auditoria visual.
+As versões v1.2 e v1.3 permanecem recuperáveis no histórico. A v1.3 separou a locução limpa da preparação. A v1.4 mantém essa orientação e registra a uniformidade visual autorizada, em continuidade com M0/M1: títulos curtos em EB Garamond, todo o corpo didático, rótulos e rodapés em Inter, marca original legível e fontes reais incorporadas nas exportações. A aplicação de M2.1 é acompanhada em [[02 - Auditoria e padronização visual M0 M1 M2]], distinguindo a autorização do autor da verificação de cada arquivo e da página nativa. A autorização de padronizar não confirma gravação ou publicação na Hotmart.
 
 ## 1. Visual
 
 ### Cores e fontes
 
 - Azul-noturno `#082A45`, azul-petróleo `#173F52`, azul estrutural `#245E78`, dourado-cobre `#C99A64`, bege leitura `#F4EFEA`.
-- Títulos em **EB Garamond**; textos, rótulos e rodapés em **Inter**.
+- Títulos curtos em **EB Garamond**; todo o texto didático, inclusive explicações, perguntas, instruções e registros, além de rótulos e rodapés, em **Inter**.
 - Dourado só em formas, números e texto sobre fundo escuro. Sobre o bege, texto em azul.
-- Antes de gravar: instalar EB Garamond e Inter e salvar o PPTX com "Incorporar fontes".
+- Usar as fontes reais EB Garamond e Inter na edição e na máquina de exportação/gravação. As exportações preservam e incorporam as fontes utilizadas; conferir o arquivo final, além da família declarada no editável. No PPTX, utilizar a incorporação de fontes. Substituição por fonte disponível no sistema não constitui outra decisão tipográfica.
 
 ### Fundos por função
 
@@ -40,9 +40,11 @@ A v1.3 registra o pedido de Fabiano de manter nas notas do orador e no roteiro d
 
 ### Elementos fixos
 
-- **Capa:** rótulo "TRADUZINDO O SER HUMANO", título da aula, código (ex.: "M1.3"), autor e, se houver, a pergunta da aula em itálico. À direita, a marca nuclear dourada com o subtítulo oficial **"DA COMPREENSÃO ACUMULADA À PRESENÇA QUE SUSTENTA"** em caixa-alta sob a marca (corpo 8,5 pt, centralizado sob a marca). Sem número de página.
-- **Telas de conteúdo:** cabeçalho "TRADUZINDO O SER HUMANO" no alto à esquerda; rodapé "M1.3 • 02 / 12" embaixo à esquerda; símbolo pequeno no canto inferior direito (omitido quando uma ilustração ocupa a área).
+- **Capa:** rótulo "TRADUZINDO O SER HUMANO", título da aula, código (ex.: "M2.1"), autor e, se houver, a pergunta da aula em itálico. À direita, a marca nuclear dourada com o subtítulo oficial **"DA COMPREENSÃO ACUMULADA À PRESENÇA QUE SUSTENTA"** em caixa-alta sob a marca (corpo 8,5 pt, centralizado sob a marca). Sem número de página.
+- **Telas de conteúdo:** cabeçalho "TRADUZINDO O SER HUMANO" no alto à esquerda; rodapé com código e progressão (ex.: "M2.1 • 02 / 12") embaixo à esquerda; símbolo pequeno no canto inferior direito (omitido quando uma ilustração ocupa a área).
 - **Encerramento:** degradê, símbolo em marca-d'água, rótulo "PRÓXIMA AULA" em dourado e a ponte em itálico.
+
+A marca usa o ativo original, com proporções e área de proteção preservadas. Conferir sua legibilidade na escala final e os mínimos pertinentes do manual; o mínimo da marca nuclear reduzida não se transfere automaticamente ao símbolo isolado. A identificação deve ajudar a reconhecer o curso, a aula e sua progressão, sem ocupar o espaço necessário ao estudo.
 
 ### Tipos de tela (escolher pela função, não pela quantidade de itens)
 
@@ -64,7 +66,7 @@ A v1.3 registra o pedido de Fabiano de manter nas notas do orador e no roteiro d
 - Fontes: acervo do vault e imagens aprovadas da Masterclass.
 - Nunca fotografia que pareça pessoa real de um caso.
 - O mapa completo de cada conceito (EIXO, pêndulo, espiral, árvore, Cinco Janelas e outros) acompanha a aula em que ele é desenvolvido; menções e usos pontuais podem aparecer antes, salvo indicação do caderno.
-- Ilustração de fundo claro: ajustar o fundo ao bege para não aparecer como retângulo.
+- Mapas autorais e imagens históricas conservam seu conteúdo e suas cores internas. Aplicar a identidade no suporte — fundo, margens, moldura ou legenda — sem recolorir ou redesenhar o original por uniformização estética.
 
 ### Transições e cliques
 
@@ -74,7 +76,7 @@ A v1.3 registra o pedido de Fabiano de manter nas notas do orador e no roteiro d
 
 ## 2. Textos na tela
 
-- Títulos diretos, sem ponto final, com a pontuação completa (vírgulas em enumerações).
+- Títulos diretos e representativos do estudo, com nomes e códigos correspondentes ao registro atual das aulas; a progressão aparece nos conteúdos, exemplos e práticas, sem criar uma identidade paralela por módulo. Sem ponto final nos títulos e com a pontuação completa (vírgulas em enumerações).
 - Uma ideia por item; frases curtas; sem quebra de linha manual no meio da frase.
 - Verbo e pergunta em campos separados, não unidos por "•".
 - Cena ou exemplo fictício identificado na tela com o rótulo "SITUAÇÃO FICTÍCIA" ou "EXEMPLO FICTÍCIO".
@@ -112,6 +114,14 @@ O deck bruto, venha de onde vier, fica pronto para padronizar sem ajustes quando
 - [ ] Validação do arquivo e revisão visual de todas as telas.
 - [ ] Cópia em `Materiais/Módulo N/` com sufixo "- padronizado".
 - [ ] Roteiro de fala do vault sincronizado com as notas limpas; fontes e condução mantidas no caderno de preparação.
+
+## 6. Apoios do aluno, cadernos e exportações
+
+A continuidade visual também orienta os apoios do aluno e os cadernos destinados à leitura e ao estudo em PDF ou Word: a mesma paleta, títulos curtos em EB Garamond, corpo didático em Inter e marca original legível. A quantidade de elementos e a composição acompanham a função e a extensão do material. A identidade no suporte não exige alterar o texto, as referências, os mapas autorais ou as imagens históricas.
+
+Conferir nas exportações as fontes reais e sua incorporação, a integridade de texto/tabelas/links, o contraste e a legibilidade da marca. Quando o Word é fonte editável de produção, registrar separadamente as famílias declaradas e a presença ou ausência de incorporação; o PDF oficial de entrega conserva as fontes incorporadas. O editável, a exportação e a leitura em tela são evidências diferentes; uma fonte declarada no documento não comprova que o PDF ou o Word exportado a conservou. Ajustes de reprodução acompanham a produção e suas atualizações pertinentes, sem nova cadeia de aprovação ou refação automática do acervo.
+
+O Word de gravação contendo somente a fala é uma ferramenta interna de leitura, distinta do apoio didático: pode conservar a configuração de leitura já escolhida, em Arial 15,5, blocos curtos e texto escuro sobre claro, sem identidade pesada. Fontes, rubricas, tempos e mapa operacional permanecem no caderno de preparação. A separação de funções não cria um novo produto ou arquivo obrigatório por aula.
 
 ## Câmera
 
