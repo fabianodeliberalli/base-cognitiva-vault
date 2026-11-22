@@ -2,7 +2,7 @@
 tipo: plano-de-producao
 projeto: Traduzindo o Ser Humano
 modulo: M2
-versao: "0.8"
+versao: "0.9"
 data: 2026-11-22
 status: revisao-substantiva
 arquitetura: nove-modulos-59-aulas
@@ -12,7 +12,7 @@ arquitetura: nove-modulos-59-aulas
 
 Revisão solicitada por Fabiano para recuperar a profundidade de suas práticas, literatura e elaborações. M2 desenvolve a constituição da experiência, a relevância e a simbolização, a experiência de certeza, a repetição, a distinção entre vivido/sentido/origem e a Tradução recursiva. As cenas funcionam como aplicação e não como substituição dos fundamentos.
 
-M2.1 e M2.2 têm trilhas atuais produzidas para avaliação: v0.8 e v0.4, respectivamente, ambas com 20 telas e notas naturais de quatro campos, conforme o padrão v2.5. [[00 - Estado e Continuidade da Produção M2]] localiza apresentações, guias e apoios. M2.3 v0.2 tem revisão substantiva produzida para avaliação: 24 telas, guia, apoio e kit único; v0.1 permanece histórica. M2.4 v0.2 reconstrói a montagem anterior com 29 telas/notas, guia, apoio e kit único; o diagnóstico da v0.1 continua recuperável. M2.5–M2.6 mantêm orientação estrutural e aguardam composição final. O percurso conserva seis aulas, com Cartografia comum e estudo assíncrono suficiente. O encontro ao vivo conserva seu planejamento sem confirmação de execução.
+M2.1 e M2.2 têm trilhas atuais produzidas para avaliação: v0.8 e v0.4, respectivamente, ambas com 20 telas e notas naturais de quatro campos, conforme o padrão v2.6. [[00 - Estado e Continuidade da Produção M2]] localiza apresentações, guias e apoios. M2.3 v0.2 tem revisão substantiva produzida para avaliação: 24 telas, guia, apoio e kit único; v0.1 permanece histórica. M2.4 v0.2 reconstrói a montagem anterior com 29 telas/notas, guia, apoio e kit único; o diagnóstico da v0.1 continua recuperável. M2.5–M2.6 mantêm orientação estrutural e aguardam composição final. O percurso conserva seis aulas, com Cartografia comum e estudo assíncrono suficiente. O encontro ao vivo conserva seu planejamento sem confirmação de execução.
 
 ## M2.1 — Como se forma o que você percebe?
 
@@ -51,6 +51,22 @@ M2.1 e M2.2 têm trilhas atuais produzidas para avaliação: v0.8 e v0.4, respec
 **Desenvolvimento:** Realizar a Tradução como operação recursiva.
 
 **Experiência e articulação:** Retornar ao registro produzido em M2.1/M2.2 após um encontro ou dado novo. Explicitar a diferença adquirida, o que ela modifica na participação e como continuará sendo acompanhada. Preparar M3 pelo problema do acesso corporal.
+
+## Ampliação da predição e precisão da condução — após M2.1 gravada
+
+Fabiano ressaltou que o cérebro sobrevive prevendo e não deve ser apresentado apenas como fonte de aprisionamento. Desenvolver antecipação como função adaptativa: preparar o organismo, reconhecer regularidades, aprender habilidades e participar com menos deliberação em cada gesto. A investigação alcança previsões rígidas, desatualizadas ou pouco sensíveis às condições atuais e também previsões adequadas que precisam ser preservadas. As mudanças de contexto e as condições reais participam dessa avaliação.
+
+| Onde ampliar | Contribuição dentro da questão da aula |
+| --- | --- |
+| M2.2, retomada e relevância | Introduzir brevemente a função adaptativa antes de examinar o destaque dos sinais. Antecipação, necessidades, valor pessoal e contexto orientam a atenção; o que ganha destaque precisa ser compreendido nessa relação. |
+| M2.3, certezas | Distinguir previsão ou inferência útil de fechamento à informação. Conferir pode sustentar uma leitura, modificá-la ou deixar uma questão aberta. Reconhecer o custo de rever compromissos sem chamar toda antecipação de viés. |
+| M2.4, aprendizagem e repetição | Contrastar capacidade aprendida — como a escuta e o gesto no shakuhachi — e resposta persistente pouco adequada à ocasião. Mudança também constrói formas disponíveis de responder; não exige deliberar conscientemente cada gesto para sempre. |
+| M2.6, revisão recursiva | Acompanhar como informação, experiência e participação atualizam uma Tradução e a orientação para novas ocasiões. |
+| M3.3 — Como o organismo antecipa necessidades e distribui recursos | Desenvolver regulação antecipatória e alostase no lugar já previsto pelo dossiê. Relacionar demanda, recuperação, aprendizagem e condições de vida. |
+
+M4.4 pode retomar a história e a adequação atual de uma proteção, sem repetir o bloco neurobiológico. Essa distribuição acrescenta camadas ao percurso existente, sem aumentar a quantidade de aulas por esse motivo. Referências de preparação: Clark, A. (2013), *Whatever next?*, DOI 10.1017/S0140525X12000477; Sterling, P. (2012), *Allostasis: A model of predictive regulation*, DOI 10.1016/j.physbeh.2011.06.004. Bibliografia completa permanece no aprofundamento do aluno quando utilizada.
+
+**Aplicação pertinente na próxima revisão de M2.2:** separar a tela 13, de apresentação, da realização nas telas 14–16. Na tela 15, oferecer uma pergunta por vez e permitir comparação; deixar interpretações e hipóteses para a elaboração. A tela 16 confere e conclui; a 17 elabora sem reiniciar o exercício. Usar avisos curtos nas notas onde muda a função e, no slide, apenas quando orientarem também o aluno. Retirar repetição de propósito e fundamento entre instruções. As fontes v0.4 registram a composição anterior a essa indicação; os artefatos ainda precisam receber a aplicação para que se declare atualização.
 
 ## Encadeamento e fontes
 
