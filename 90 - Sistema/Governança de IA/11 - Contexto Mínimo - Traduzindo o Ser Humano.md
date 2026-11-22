@@ -2,9 +2,18 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.35"
+versao: "0.36"
 atualizado_em: 2026-11-21
 ---
+
+## Construção das aulas de M2 a M8 — homologado por Fabiano em 21/11/2026, 21h31
+
+Os módulos M2 a M8 deixam de ser só possibilidade de conteúdo e passam a ter estrutura para a construção das aulas.
+
+- **Como construir cada aula:** [[TSH - Forma de construção das aulas M2–M8 - cena, verbo e voz do autor]] (cena concreta, verbos, experiência de Fabiano antes da literatura; buscar a vivência no repositório ou pedi-la a Fabiano; espiritualidade explícita em todo módulo; semana de M3).
+- **Conteúdo aula a aula:** [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]].
+- **Vivências do autor para as cenas:** [[TSH - Banco de cenas e vivências do autor]].
+- **Práticas, conceitos e equilíbrio das bases:** [[TSH - Práticas integradas, conceitos do TSH e equilíbrio das bases - avaliação 2026-11-21]].
 
 ## Decisões e fontes de 21/11/2026 — auditoria dos roteiros
 

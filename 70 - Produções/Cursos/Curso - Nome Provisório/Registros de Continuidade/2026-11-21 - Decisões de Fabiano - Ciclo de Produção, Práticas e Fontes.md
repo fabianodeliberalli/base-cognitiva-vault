@@ -31,3 +31,12 @@ Registro mínimo de escolhas confirmadas por Fabiano na auditoria de 21/11/2026.
 - Triângulo criativo e espiritual: [[TSH - Criatividade, Intenção e Eu Básico - Cameron, Brennan e Long]].
 - A vinheta da mensagem do aluno (máscara e herói) sai; a distinção entre máscara, manto e armadura é ensinada com caso fictício.
 - O exemplo do suporte da TV entra como caso fictício e anonimizado, sobretudo em M2.6.
+
+## Homologação e decisões de 21/11, 21h31
+
+- **Homologação:** Fabiano homologou a integração à `main` do pedido #77 e dos registros desta noite. Os módulos M2 a M8 passam de possibilidade de conteúdo a estrutura para a construção das aulas.
+- **Dossiê M0–M8** no repositório: [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]].
+- **Forma de construção de todas as aulas de M2 a M8:** cada bloco abre por uma cena concreta; verbos antes de substantivos abstratos; a experiência de Fabiano antes da literatura. A vivência é buscada no repositório ou pedida a Fabiano em "Pedidos a Fabiano", e a resposta entra no banco de cenas. [[TSH - Forma de construção das aulas M2–M8 - cena, verbo e voz do autor]]; [[TSH - Banco de cenas e vivências do autor]].
+- **Espiritualidade explícita em todos os módulos.** A passagem de Long sobre o eu inferior culpado entra se fizer sentido no todo: avaliada e posta em M4.5, junto ao 3-2-1, e não em M4.4, que já está cheia.
+- **Semana de M3:** cronometrar M3.6 no ensaio; dividir em partes A e B se necessário.
+- **Avaliação das práticas e das bases:** [[TSH - Práticas integradas, conceitos do TSH e equilíbrio das bases - avaliação 2026-11-21]]. Contém propostas ainda não confirmadas por Fabiano: os cinco modos de atenção, os lugares do Ba Duan Jin, a quarta leitura do eixo em M6.5, a neurociência em M7.3 e M8.1, e Long em M7.8.

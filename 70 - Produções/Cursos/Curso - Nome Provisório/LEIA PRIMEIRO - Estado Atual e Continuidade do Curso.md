@@ -3,20 +3,16 @@ tipo: porta-de-entrada-de-contexto
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: referencia-atual-revisavel
-versao: "4.10"
+versao: "4.11"
 criado_em: 2026-07-21
 atualizado_em: 2026-11-21
 autor: Fabiano Deliberalli
 autoridade_de_decisao: Fabiano Deliberalli
 ---
 
-## Decisões e fontes de 21/11/2026 — auditoria dos roteiros
+## 21/11/2026 — construção das aulas de M2 a M8 (homologado às 21h31)
 
-Ciclo de produção, indução redistribuída e decisões confirmadas por Fabiano: [[2026-11-21 - Decisões de Fabiano - Ciclo de Produção, Práticas e Fontes]]. Fontes incorporadas: [[TSH - Criatividade, Intenção e Eu Básico - Cameron, Brennan e Long]] e [[TSH - Eixo em Três Leituras - Zhan Zhuang, Linha do Hara e Chong Mai]]. Desenvolvimento aula a aula no documento de trabalho do Claude: https://claude.ai/artifact/CRf9FeP67nvsxWWC3uu1w2
-
-[[Corpo eixo meridianos bioeletricidade e experiência]]: fontes, aulas, árvore e imaginação.
-
-[[Ely Brito - Possibilidades de ampliação do TSH|Ely]]; [[TSH - Empatia e compaixão]]: fontes e aulas. [[Naranjo]]
+M2–M8 passam de possibilidade de conteúdo a estrutura de construção. Como construir: [[TSH - Forma de construção das aulas M2–M8 - cena, verbo e voz do autor]]. Aula a aula: [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]]. Cenas do autor: [[TSH - Banco de cenas e vivências do autor]]. Práticas e bases: [[TSH - Práticas integradas, conceitos do TSH e equilíbrio das bases - avaliação 2026-11-21]]. Decisões: [[2026-11-21 - Decisões de Fabiano - Ciclo de Produção, Práticas e Fontes]]. Fontes: [[TSH - Criatividade, Intenção e Eu Básico - Cameron, Brennan e Long]]; [[TSH - Eixo em Três Leituras - Zhan Zhuang, Linha do Hara e Chong Mai]]; [[Corpo eixo meridianos bioeletricidade e experiência]]; [[Ely Brito - Possibilidades de ampliação do TSH|Ely]]; [[TSH - Empatia e compaixão]]; [[Naranjo]].
 
 ## Comunicação e acervo de campanhas
 
@@ -34,30 +30,9 @@ Consultar [[TSH - Máscara Armadura Castelos e Amor Poder Sabedoria - Destinaç�
 
 Os refinamentos aprovados da Live, as referências por aula e o calendário estão em [[TSH - Preparação dos Roteiros e Calendário 2026-2027]]. Usar o Raio X atualizado e [[Guia-de-Conducao-Masterclass-TSH-2026-10-31]]. Entrega atual: 54 aulas, oito encontros (16h), M0/M1 juntos. M0/M1 liberados em 17/11; último encontro em 30/01/2027. Datas de gravação continuam abertas. O registro operacional de 30/10 abaixo é histórico.
 
-## Registro de 30/10 — entrega operacional atualizada acima
+## Registros de 24 e 30 de outubro
 
-Fabiano homologou em 30/10 a integração do Raio X revisado e de [[TSH - Integração do Refinamento ao Percurso e Encontros ao Vivo]]. Formulação ampliada solicitada por ele; práticas e condução revisáveis. Entrega de 31/10 acima; anteriores no histórico.
-
-O TSH oferece mapas e práticas para compreender a experiência, ampliar o acesso aos próprios recursos e cultivar possibilidades de vida que ainda encontram pouco espaço de expressão, considerando corpo, história, relações, condições de vida e dimensão espiritual.
-
-Persona: Adultos que desejam ampliar sua participação consciente na própria vida, desenvolver recursos pessoais e reconhecer os apoios e condições necessários para sustentar escolhas, relações e possibilidades de expressão.
-
-Nesta turma: um encontro online ao vivo de duas horas a cada módulo, uma hora de dúvidas e uma hora de prática. Considerando M0 a M8, são nove encontros e 18 horas adicionais às 54 aulas gravadas. Calendário, plataforma dos encontros, política de gravação, faltas e condições de acompanhamento permanecem a definir; o acesso de um ano não significa encontros ao vivo durante um ano.
-
-Consultar a nota de integração junto da síntese ao produzir aulas, práticas, Masterclass, comunicação e complementos. Ela diferencia decisões autorais, propostas didáticas e fontes de pesquisa; mantém a MTC em linguagem própria e organiza correlações sem exigir equivalência neurobiológica. As três situações de reconhecimento, acesso e cultivo orientam o percurso.
-
-O Word confirmado em 24/10 permanece integralmente recuperável em [[2026-10-24 - Raio-X-Fabiano Deliberalli - anterior ao refinamento.docx]]. O registro abaixo descreve o estado anterior à presente revisão.
-
-
-## Registro de vigência anterior — decisão de 24 de outubro de 2026
-
-Na decisão de 24/10/2026, a referência vigente do Raio X passou a ser o arquivo **RAIO X - congelado(1).docx**, fornecido e confirmado por Fabiano nesta data, preservado integralmente em [[Raio-X-Fabiano Deliberalli.docx|Raio X vigente — Word]]. Para leitura e busca, usar [[Raio-X-Fabiano Deliberalli - Texto para consulta|Raio X vigente — texto para consulta]]; essa transcrição é derivada do Word e não constitui versão independente.
-
-Todas as demais versões do Raio X, seus resumos, matrizes de correspondência e referências de oferta anteriores têm valor histórico. Expressões como “vigente”, “canônico”, “definitivo” ou “aprovado” dentro desses materiais descrevem o estado da época e não lhes conferem precedência atual. Isso inclui versões de agosto e rascunhos de outubro, independentemente da data ou do nome do arquivo.
-
-Consultar o histórico somente quando Fabiano solicitar ou quando houver conteúdo ou estrutura efetivamente desenvolvidos com pertinência e relevância concretas para a tarefa. Ao recuperar algo, identificar fonte, vínculo com a aula ou questão atual e contribuição possível; apresentar como material passível de análise. Não reincorporar automaticamente títulos, focos, recursos, promessas, numerações, cronogramas ou condições antigos, nem completar silêncios do Raio X atual com decisões de versões anteriores. Dúvidas internas do documento atual devem ser explicitadas, sem correção silenciosa ou recurso automático ao histórico.
-
-Esta atualização registra a decisão de Fabiano; não altera o conteúdo do Word nem declara outras propostas aprovadas. A data de consolidação de 23/08/2026 presente no próprio Word foi preservada e não deve ser confundida com a confirmação de vigência de 24/10/2026.
+Transferidos sem alteração para [[2026-11-21 - Snapshot dos registros de 24 e 30 de outubro da porta de entrada]]: homologação do Raio X revisado e da integração do refinamento (30/10) e vigência do Raio X em Word (24/10). Raio X vigente: [[Raio-X-Fabiano Deliberalli.docx|Word]] e [[Raio-X-Fabiano Deliberalli - Texto para consulta|texto para consulta]].
 
 # LEIA PRIMEIRO — Estado atual e continuidade do curso
 
