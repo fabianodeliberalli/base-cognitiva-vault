@@ -3,6 +3,7 @@ tipo: orientacao-de-producao
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
 criado_em: 2026-11-21
+atualizado_em: 2026-11-21
 autor: Fabiano Deliberalli
 aliases:
   - Forma de construção das aulas
@@ -69,7 +70,7 @@ Casos de pacientes entram anonimizados ou como ficção. Episódios de saúde de
 2. A aula tem ao menos uma passagem na voz de Fabiano (vivida, clínica, de prática ou de pesquisa)?
 3. A literatura vem depois da experiência e diz o que o autor fez?
 4. O módulo tem seu momento espiritual explícito (seção 6)?
-5. A aula tem uma prática principal, com retorno antes da entrada e registro depois?
+5. A aula tem uma prática principal, com retorno antes da entrada e registro depois? O modo de atenção dessa prática está dito (seção 8)?
 6. Quando couber, a aula mostra duas ou três salas (Psicologia com neurociência, Medicina Chinesa, espiritualidade) lendo a mesma experiência?
 
 ## 6. Espiritualidade explícita em todos os módulos
@@ -85,7 +86,7 @@ Decisão de Fabiano: cada módulo tem ao menos um momento em que a dimensão esp
 | M4 | M4.4: a criatividade como via espiritual (Cameron: criança artista e Censor); **M4.5: a passagem de Long sobre o eu inferior culpado** |
 | M5 | O centro espiritual do curso (M5.3, M5.5 a M5.8) |
 | M6 | M6.5: o canal central e o ponto de individuação; M6.6: a sede da alma (Brennan) |
-| M7 | M7.1 e M7.5: a linha do Hara, individual e do grupo; M7.8 (proposta): Long e a reparação concreta |
+| M7 | M7.1 e M7.5: a linha do Hara, individual e do grupo; M7.8: Long e a reparação concreta |
 | M8 | M8.1: o percurso como espiral orientada por uma referência profunda; o Vértice |
 
 ### A passagem de Long: M4.5, e não M4.4
@@ -106,3 +107,13 @@ Em M7.8 cabe a outra metade de Long: a culpa real pede reparação concreta, nã
 - **Cronometrar M3.6 no ensaio.** Se passar de cerca de 25 minutos, dividir em parte A (Zhan Zhuang: origem, princípios, eixo do pé ao topo, transições, versão sentada) e parte B (sequência regular comentada), como já decidido para as aulas com prática editada; ou levar os detalhes para o material de apoio.
 - **M3.7: no máximo dois recursos novos.**
 - **Encontro de 05/12:** se as três etapas de indução apertarem o tempo, o braço como pano molhado pode passar para 12/12 sem prejuízo da sequência.
+
+## 8. Práticas: uma gramática comum (adotado em 21/11, 21h56)
+
+As práticas do TSH (auto-hipnose; Zhan Zhuang e Ba Duan Jin; órbita, grande circulação e Chong Mai; linha do Hara; escrita de Cameron) trabalham o mesmo problema por portas diferentes. Três correções orientam todo roteiro que tenha prática:
+
+1. **Gramática comum.** Cada linha exercita um modo de atenção: **conduzir** (hipnose), **sustentar** (Zhan Zhuang e Ba Duan Jin), **acompanhar** (órbita e Chong Mai), **alinhar** (linha do Hara), **expressar** (escrita). O EIXO é a capacidade de reconhecer qual modo o momento pede e passar de um a outro. Ao conduzir uma prática, dizer em que modo ela está. Progressão: dois modos em M3.7; o contraste conduzir e acompanhar em 19/12 e M5.4; os cinco reunidos em M6.4; o repertório pessoal organizado pelos modos em M8.2.
+2. **Modos opostos com nome.** Na hipnose a palavra propõe e o corpo responde; na órbita e na quietude a atenção acompanha sem pedir nada ao corpo. Dizer isso em 19/12 e repetir antes da órbita, em 09/01, para que o aluno não tente "fazer" a circulação acontecer.
+3. **Ba Duan Jin com lugar e função.** Sustentar em movimento, para quem a quietude ou a postura parada ativam. Três movimentos no curso, sempre no lugar de parte da retomada da base, nunca como acréscimo: Sustentar o Céu (já conhecido), Separar Céu e Terra (05/12, em M3.6), Projetar os punhos (12/12, em M4.1; retomado sem ensino em M7.4). Nenhum movimento novo em M8.
+
+Regras de tempo: uma prática principal por aula, as demais no material complementar; retomada da base com 10 a 15 minutos; telas finais de síntese sobre o Mapa do TSH em M3.7 e M5.8. Avaliação completa em [[TSH - Práticas integradas, conceitos do TSH e equilíbrio das bases - avaliação 2026-11-21]].

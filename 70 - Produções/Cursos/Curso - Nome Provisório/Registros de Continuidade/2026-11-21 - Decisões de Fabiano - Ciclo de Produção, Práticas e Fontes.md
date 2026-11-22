@@ -40,3 +40,13 @@ Registro mínimo de escolhas confirmadas por Fabiano na auditoria de 21/11/2026.
 - **Espiritualidade explícita em todos os módulos.** A passagem de Long sobre o eu inferior culpado entra se fizer sentido no todo: avaliada e posta em M4.5, junto ao 3-2-1, e não em M4.4, que já está cheia.
 - **Semana de M3:** cronometrar M3.6 no ensaio; dividir em partes A e B se necessário.
 - **Avaliação das práticas e das bases:** [[TSH - Práticas integradas, conceitos do TSH e equilíbrio das bases - avaliação 2026-11-21]]. Contém propostas ainda não confirmadas por Fabiano: os cinco modos de atenção, os lugares do Ba Duan Jin, a quarta leitura do eixo em M6.5, a neurociência em M7.3 e M8.1, e Long em M7.8.
+
+## Ajustes adotados em 21/11, 21h56
+
+Fabiano adotou todas as perspectivas da avaliação das práticas e das bases e pediu que a lógica das três correções ficasse no repositório.
+- **Gramática comum das práticas:** cinco modos de atenção (conduzir, sustentar, acompanhar, alinhar, expressar); o EIXO como capacidade de escolher e passar de um modo a outro. Progressão: M3.7, 19/12 e M5.4, M6.4, M8.2.
+- **Modos opostos com nome:** conduzir (hipnose) e acompanhar (órbita, quietude), ditos em 19/12 e antes da órbita em 09/01.
+- **Ba Duan Jin reavaliado pelo tempo:** três movimentos, por substituição de parte da retomada da base: Sustentar o Céu, Separar Céu e Terra (05/12, M3.6), Projetar os punhos (12/12, M4.1; M7.4 sem ensino). Saem Olhar para trás (M2.1), Abrir o arco (M4.6) e Percorrer costas e pernas (M8.2).
+- **Desequilíbrios:** quarta leitura do eixo, neurocientífica, e imagem da hélice em M6.5; sincronia e corregulação em M7.3; aprendizagem motora em M8.1; Long em M4.5 e M7.8.
+- **Demais ajustes:** uma prática principal por aula; telas finais de síntese sobre o Mapa do TSH em M3.7 e M5.8.
+- Registro em [[TSH - Forma de construção das aulas M2–M8 - cena, verbo e voz do autor]] (seção 8) e [[TSH - Práticas integradas, conceitos do TSH e equilíbrio das bases - avaliação 2026-11-21]].
