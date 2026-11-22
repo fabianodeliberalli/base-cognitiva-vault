@@ -9,6 +9,10 @@ aliases:
   - Cena, verbo e voz do autor
 ---
 
+## Modelo de produção adotado — 22/11/2026
+
+Para produzir aulas, slides, notas e apoios, aplicar [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] v2.0 ou posterior. Fabiano adotou a trilha de exposição de M2.1 para as próximas produções, com mapa inicial, slides como passos visuais e notas naturais de entrada, ideias, objetivo e passagem. Exemplos são situações genéricas que podem acompanhar o percurso, reapresentadas com contexto antes de cada ampliação; a personagem nomeada foi retirada dos materiais atuais. O entregável se dirige ao aluno e apresenta fundamentos pelo conteúdo, sem bastidores formativos. A nota do padrão contém exemplos completos e a forma de reprodução em outras ferramentas. Sua decisão atual substitui as orientações de fala integral/nota somente locução abaixo; fundamentos e profundidade continuam pertinentes.
+
 ## Atualização de produção — 22/11/2026
 
 Fabiano validou nove módulos e 59 aulas e solicitou iniciar M2. Aplicar esta forma de construção com o [[01 - Plano de produção das seis aulas M2]] e o dossiê integrado. A numeração atual distingue M3.6 (postura), M3.7 (movimento), M3.8 (recursos); M5.5 (símbolos), M5.6 (criação), M5.7–M5.9 (espiritualidade, termos, discernimento); M6.5 (pequena circulação), M6.6 (Hara), M6.7 (Chong Mai/grande circulação), M6.8 (espiral) e M6.9 (coerência possível). As destinações antigas abaixo são lidas pela correspondência do dossiê; não criam uma segunda arquitetura.
@@ -41,7 +45,7 @@ Manter fala clara, coloquial e natural, com termos necessários ensinados em sua
 
 As recomendações anteriores de abrir cada bloco por uma cena, limitar palavras abstratas por frase e submeter toda formulação ao teste da câmera deixam de funcionar como exigências. Podem ajudar a editar uma passagem vaga, sem reduzir o conteúdo a exemplos elementares. Duração, número de telas e extensão do apoio acompanham a aprendizagem.
 
-Notas e roteiro de gravação contêm somente fala. Fontes e operação ficam na preparação. A família visual continua a referência adotada, com composição adequada ao conteúdo.
+As notas e o guia seguem a trilha com entrada natural, ideias articuladas, propósito e passagem. Referências completas e observações de pesquisa ficam apenas no aprofundamento opcional do aluno. A família visual continua a referência adotada, com composição adequada ao conteúdo.
 
 ## 4. A voz do autor: buscar no repositório ou perguntar a Fabiano
 
@@ -99,5 +103,6 @@ Em M7.8 cabe a outra metade de Long: a culpa real pede reparação concreta, nã
 - **Cronometrar M3.6 no ensaio.** Se passar de cerca de 25 minutos, dividir em parte A (Zhan Zhuang: origem, princípios, eixo do pé ao topo, transições, versão sentada) e parte B (sequência regular comentada), como já decidido para as aulas com prática editada; ou levar os detalhes para o material de apoio.
 - **M3.7: no máximo dois recursos novos.**
 - **Encontro de 05/12:** se as três etapas de indução apertarem o tempo, o braço como pano molhado pode passar para 12/12 sem prejuízo da sequência.
+
 
 

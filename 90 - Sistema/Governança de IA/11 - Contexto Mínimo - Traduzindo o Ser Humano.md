@@ -2,15 +2,19 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.44"
+versao: "0.45"
 atualizado_em: 2026-11-22
 ---
 
-## 22/11/2026 — M2.1: notas em linguagem de aula e imagens preservadas
+## Referência atual — modelo de produção adotado em 22/11/2026
 
-[[M2.1 - Trilha de exposição v0.6]] e [[M2.1 - Apresentação editável v0.6]] são a referência atual de teste: 20 telas com entrada natural, ideias, objetivo e passagem. Fabiano trouxe sua formulação para a tela 3 e pediu conexões que ajudem a falar com clareza para público não acadêmico. Referências completas e observações de pesquisa ficam apenas no aprofundamento opcional do apoio do aluno; as notas contêm o fundamento incorporado à explicação, sem bibliografia ou rubricas de pesquisa. A orientação anterior de notas somente fala fica histórica neste teste de trilha.
+Fabiano pediu preservar formato, lógica, dinâmica e andamento de M2.1 como modelo para as futuras produções do TSH, acessível a esta ou outra IA. Consultar **[[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] v2.0 ou posterior** antes de produzir aulas, slides, notas e apoios. A nota reúne a lógica completa, quatro funções das notas, linguagem, profundidade, imagens, práticas, identidade visual, entregável do aluno, exemplos completos, estrutura transportável e conferência da entrega. `AGENTS.md` e `CLAUDE.md` já conduzem a esta ficha.
 
-Fabiano aprovou manter as imagens dos slides como apoio. Diagramas e identidade foram preservados, com detalhes do esquema da tarefa visual acrescidos à tela 8. Essa decisão visual não confirma teste integral, duração, gravação nem publicação. O apoio do aluno de M2.1 foi atualizado em Word/PDF de quatro páginas. M2.2 ainda não foi convertida; a adoção da trilha nas demais aulas continua em aberto. [[00 - Estado e Continuidade da Produção M2]] localiza as versões. A arquitetura permanece em nove módulos e 59 aulas.
+O modelo usa visão inicial do percurso e slides como passos visuais, com notas naturais para exposição livre: PARA COMEÇAR, IDEIAS PARA DESENVOLVER, O QUE ESTAMOS TRABALHANDO e PARA SEGUIR. A exigência anterior de fala integral/nota somente locução e o estatuto de teste restrito a M2.1 ficam superados para a produção futura. Quantidade de telas, duração e complexidade acompanham a aprendizagem. Preservar a profundidade do repertório e das formulações autorais, os fundamentos e a espiritualidade do TSH.
+
+Orientações posteriores de Fabiano, incorporadas ao modelo: retirar a personagem criada dos materiais atuais; exemplos são bem-vindos como situações genéricas reconhecíveis que entram na fala, permitindo ao aluno se colocar nelas. Podem percorrer aula ou módulo, reapresentando o contexto a cada retomada antes de ampliar o raciocínio. O apoio se dirige ao aluno e apresenta os fundamentos pelo conteúdo (“na Medicina Chinesa”), sem bastidores sobre a formação do professor. Referências completas e observações de pesquisa ficam apenas no aprofundamento opcional do aluno. As imagens aprovadas são mantidas.
+
+Exemplar atual: [[M2.1 - Trilha de exposição v0.7]] e [[M2.1 - Apresentação editável v0.7]], 20 telas; guia atualizado e apoio do aluno em Word/PDF de quatro páginas. A especificação JSON preserva as 20 notas, e a montagem nativa conserva a composição visual. M2.2 v0.3 recebeu apenas a correção correspondente dos exemplos e dos apoios; sua reconstrução no modelo de trilha continua pendente. A aprovação do formato não certifica cada formulação dos apoios, ensaio, duração, gravação ou publicação. [[00 - Estado e Continuidade da Produção M2]] localiza os arquivos. A arquitetura permanece em nove módulos e 59 aulas.
 
 ## 22/11/2026 — revisão substantiva de profundidade desde M2.1
 
@@ -20,9 +24,9 @@ A revisão em [[TSH - Revisão de Profundidade e Percurso - 22-11-2026]] cobre a
 
 [[TSH - Forma de construção das aulas M2–M8 - cena, verbo e voz do autor]] passa a admitir questão conceitual, prática, vivência ou cena como abertura. Não exigir cena em cada bloco, teto genérico de abstração, tempo ou páginas. Fontes devem participar do conteúdo e da experiência, com espiritualidade afirmativa e precisão. As demais aulas têm revisão estrutural, não roteiros integrais novos. Os estados de gravação/publicação continuam sem confirmação nesta frente; padronização visual não comprova prontidão substantiva. [[00 - Estado e Continuidade da Produção M2]] localiza as versões atuais.
 
-## 22/11/2026 — uniformidade visual e locução na produção futura
+## Histórico — 22/11/2026 — uniformidade visual e locução anterior
 
-Fabiano autorizou aplicar a padronização de M2 e manter a identidade já adotada em M0/M1 nas produções seguintes: mesma paleta azul, títulos curtos em EB Garamond, texto didático/rótulos/rodapés em Inter e marca original legível. A referência é [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] v1.4. Notas do orador e roteiro de gravação contêm somente fala natural em blocos curtos; fontes, tempos, cliques e condução ficam na preparação. Mapas históricos e aulas já produzidas não são refeitos automaticamente por sincronização.
+Fabiano autorizou aplicar a padronização de M2 e manter a identidade já adotada em M0/M1 nas produções seguintes: mesma paleta azul, títulos curtos em EB Garamond, texto didático/rótulos/rodapés em Inter e marca original legível. A referência é [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] v1.4. A orientação desta etapa previa notas somente de fala natural e preparação à parte; foi substituída pelo modelo de trilha v2.0 para as futuras produções. A uniformidade visual permanece. Mapas históricos e aulas já produzidas não são refeitos automaticamente por sincronização.
 
 
 ## 22/11/2026 — entregáveis do aluno em continuidade com M0 e M1
@@ -341,5 +345,6 @@ Preservar a distinção entre formulações autorais, conhecimentos tradicionais
 Não ler automaticamente todos os documentos da tabela. Escolher apenas a linha pertinente. Documentos extensos, transcrições, montagens e fontes são recuperados sob demanda.
 
 Se a tarefa não exigir mudança autoral, não transformar a resposta em nova deliberação.
+
 
 
