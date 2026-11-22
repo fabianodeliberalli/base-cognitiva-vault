@@ -57,7 +57,7 @@ O módulo tem uma prática principal por aula. Uma comparação breve, uma pergu
 
 **Fundamento e função:** Varela, Thompson e Rosch ajudam a investigar a relação entre perceber, agir e refletir; Castellanos oferece uma entrada para corpo e atenção, com alegações delimitadas. O processamento preditivo entra como família de modelos sobre a participação de expectativas e aprendizagem, depois da cena; não como explicação total da pessoa. O apoio de M1.1 retoma compreender, perceber e participar. [F4; F5]
 
-**Prática escolhida:** comparar a mesma mensagem em dois contextos e fazer uma variação breve de atenção com base corporal simples demonstrada. A finalidade é observar o que muda na leitura. Movimento ou postura precisa vir com instruções suficientes para quem não participou de M1 ou do encontro.
+**Prática escolhida:** observar um objeto ou som, reconhecer o apoio corporal e retornar ao mesmo objeto ou som antes de encerrar com orientação ao ambiente. A finalidade é descrever o que foi percebido em cada passagem; mudança ou ausência de mudança são igualmente válidas. O roteiro ensina entrada, adaptações e retorno para quem não participou de M1 ou do encontro. A comparação da mensagem em contextos distintos compõe a cena didática; não é um teste causal da prática.
 
 **Aprendizagem observável:** o participante aponta algo que mudou na leitura e distingue essa mudança de uma alteração no acontecimento. Pode reconhecer que mais de uma leitura continua plausível.
 
