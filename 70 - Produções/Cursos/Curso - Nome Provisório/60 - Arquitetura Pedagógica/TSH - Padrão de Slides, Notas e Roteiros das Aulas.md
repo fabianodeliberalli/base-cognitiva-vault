@@ -111,7 +111,7 @@ O roteiro é uma **trilha de exposição**. As notas permitem localizar rapidame
 | O QUE ESTAMOS TRABALHANDO | Manter o propósito reconhecível | Dizer qual processo ou diferença estamos investigando e o que queremos aprender com isso. |
 | PARA SEGUIR | Tornar o próximo passo necessário e claro | Uma pergunta ou frase que continue a investigação e prepare o slide seguinte. |
 
-Os campos são recursos de consulta do apresentador, não títulos para leitura obrigatória. Seu conteúdo deve permitir falar a partir de um olhar. O número e o tamanho dos tópicos acompanham a explicação necessária; a amostra de três tópicos no exemplar não é limite geral.
+Os campos orientam a consulta do apresentador e a exposição livre; seus títulos ajudam a localizar o passo da aula. Seu conteúdo deve permitir falar a partir de um olhar. O número e o tamanho dos tópicos acompanham a explicação necessária; a amostra de três tópicos no exemplar não é limite geral.
 
 ### Tom e qualidade da escrita
 
