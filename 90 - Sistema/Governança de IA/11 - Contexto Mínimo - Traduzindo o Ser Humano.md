@@ -2,9 +2,14 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.40"
+versao: "0.41"
 atualizado_em: 2026-11-22
 ---
+
+## 22/11/2026 — uniformidade visual e locução na produção futura
+
+Fabiano autorizou aplicar a padronização de M2 e manter a identidade já adotada em M0/M1 nas produções seguintes: mesma paleta azul, títulos curtos em EB Garamond, texto didático/rótulos/rodapés em Inter e marca original legível. A referência é [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] v1.4. Notas do orador e roteiro de gravação contêm somente fala natural em blocos curtos; fontes, tempos, cliques e condução ficam na preparação. Mapas históricos e aulas já produzidas não são refeitos automaticamente por sincronização.
+
 
 ## 22/11/2026 — entregáveis do aluno em continuidade com M0 e M1
 

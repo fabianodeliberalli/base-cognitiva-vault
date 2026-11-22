@@ -6,6 +6,15 @@ criado_em: 2026-11-21
 autor: Fabiano Deliberalli
 ---
 
+## 22/11/2026 — padronização aplicada em M2 e uniformidade futura
+
+Fabiano autorizou aplicar os ajustes de padronização e pediu registrar que a produção seguinte mantenha a mesma forma uniformizada. A referência é a identidade já adotada em M0/M1: mesma paleta azul, EB Garamond nos títulos curtos, Inter em todo o texto didático, rótulos e rodapés, marca original legível e fontes reais verificadas nas exportações. A orientação está em [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] v1.4 e acompanha os nove módulos e 59 aulas, sem mudar títulos, códigos, conteúdo, mapas históricos ou reabrir automaticamente M0/M1.
+
+A aplicação visual v0.3 de M2.1 foi realizada na mesma página nativa, sequência 3, e conferida nas 12 telas. A fala v0.3 permanece exata: 1.753 palavras e 108 blocos. O apoio do aluno visual v0.3 conserva o texto e foi conferido em PDF de duas páginas e Word. O PDF oficial de entrega incorpora Inter e EB Garamond; o Word é fonte editável, declara as famílias e não incorpora os arquivos de fonte. As fontes nativas foram carregadas para render; não se declara teste de exportação PPTX ou PowerPoint desktop.
+
+[[02 - Auditoria e padronização visual M0 M1 M2]] preserva o diagnóstico anterior e acrescenta autorização e verificações. Os materiais estão prontos para ensaio e gravação, sem confirmar sua execução, a duração real ou a publicação na Hotmart. Os registros datados abaixo documentam etapas anteriores.
+
+
 ## 22/11/2026 — fala natural e notas de gravação com somente a locução
 
 Fabiano solicitou que as notas da apresentação contenham apenas o que será dito, em linguagem clara, coloquial e natural, com blocos curtos para facilitar a primeira leitura. Rubricas, marcações de pausa, tempos, fontes e URLs ficam fora das notas de gravação; a fundamentação e a preparação permanecem em seus materiais próprios. Instruções faladas da prática, como “Fique um pouco com esse contato”, permanecem, com silêncios conduzidos pelo educador. A preferência se estende às próximas produções.
