@@ -11,9 +11,13 @@ arquitetura_atual: nove módulos e 59 aulas
 
 ## Referência atual de M2.1 para teste
 
-Fabiano solicitou desenvolver M2.1 com mapa inicial, slides como passos visuais e notas de apoio à exposição livre, sem fala predeterminada. [[M2.1 - Trilha de exposição v0.5]] e [[M2.1 - Apresentação editável v0.5]] reúnem a versão de teste: 20 telas, diagramas editáveis e notas organizadas em foco, desenvolvimento, apoio e passagem. O teste pelo autor e a duração efetiva continuam em aberto. O formato ainda não é declarado validado para as aulas seguintes.
+A referência atual é [[M2.1 - Trilha de exposição v0.6]] e [[M2.1 - Apresentação editável v0.6]]: 20 telas com notas em linguagem de aula, entrada natural, ideias articuladas, objetivo do passo e passagem. A abertura da tela 3 incorpora a formulação trazida por Fabiano. Na tela 8, o fundamento foi explicado sem o termo solto nem observações editoriais na gravação.
 
-A instrução anterior de notas contendo somente fala fica substituída nesta versão de M2.1. O roteiro integral v0.4 permanece como histórico, após Fabiano apontar lacunas de explicação em Lutz e em outros conceitos. M2.2 v0.2 também recebeu crítica de continuidade e introdução dos termos; sua conversão para trilha não foi realizada nesta etapa. Os apoios do aluno não foram reexportados por esta mudança de formato docente. Nenhum estado de gravação ou publicação é inferido.
+Fabiano aprovou manter as imagens como apoio. Todos os diagramas e a identidade visual foram preservados; a tela 8 recebeu dois detalhes do esquema da tarefa visual para apoiar a explicação. A aprovação das imagens não confirma o teste integral da aula nem a duração.
+
+Referências completas e observações de pesquisa ficam apenas no aprofundamento opcional do apoio do aluno, conforme sua orientação. O apoio de M2.1 foi atualizado e reexportado em Word e PDF de quatro páginas, com a seção “Para investigar mais”. As notas e o guia docente não contêm bibliografia, DOI ou URLs. O conteúdo fundamentado permanece na explicação, com conexões compreensíveis para público não acadêmico.
+
+O formato de trilha continua em teste; sua extensão às próximas aulas não foi confirmada. M2.2 v0.2 segue pendente de reconstrução da continuidade e da introdução dos termos. Não foram inferidos estados de gravação, edição ou publicação. As versões anteriores de M2.1 permanecem como histórico.
 
 ## Histórico da revisão anterior
 
@@ -31,12 +35,13 @@ As versões M2.1 v0.3 e M2.2 v0.1 permanecem no histórico. A classificação an
 
 ## Continuidade
 
-Testar M2.1 v0.5 pela apresentação e pelo guia da trilha. Observar se cada tela permite reconhecer o foco, desenvolver as conexões e avançar sem reconstruir a explicação durante a gravação. A conversão de M2.2 e a extensão do formato às próximas aulas dependem da experiência deste teste. O encaminhamento anterior de usar os roteiros integrais para leitura fica histórico. O ensaio confere desenvolvimento do raciocínio, contribuição real da prática, silêncios e tempo medido. As composições e redações seguem revisáveis por Fabiano. Prosseguir com M2.3 a partir dos registros que as duas aulas tornam possíveis.
+Testar M2.1 v0.6 pela apresentação e pelo guia da trilha. Observar se cada tela permite reconhecer o foco, desenvolver as conexões e avançar sem reconstruir a explicação durante a gravação. A conversão de M2.2 e a extensão do formato às próximas aulas dependem da experiência deste teste. O encaminhamento anterior de usar os roteiros integrais para leitura fica histórico. O ensaio confere desenvolvimento do raciocínio, contribuição real da prática, silêncios e tempo medido. As composições e redações seguem revisáveis por Fabiano. Prosseguir com M2.3 a partir dos registros que as duas aulas tornam possíveis.
 
 A Cartografia comum continua: situação, manifestação, Tradução provisória e orientação possível. As práticas aprofundam percepção, diferenciação e participação e articulam os regimes pertinentes. A espiritualidade permanece afirmativa; eixo é recurso didático. A autoria aparece também nos conceitos e articulações do autor.
 
-Os apoios do aluno agora desenvolvem a argumentação e a exploração, com três páginas no PDF de M2.1 e quatro no de M2.2. Extensão e número de telas acompanham a aprendizagem. [[TSH - Forma de construção das aulas M2–M8 - cena, verbo e voz do autor]] registra a revisão de linguagem e profundidade; a identidade visual v1.4 continua. A orientação de notas somente fala deste registro anterior foi substituída pelo teste de trilha em M2.1 v0.5.
+Os apoios do aluno agora desenvolvem a argumentação e a exploração, com quatro páginas no PDF de M2.1 e quatro no de M2.2. Extensão e número de telas acompanham a aprendizagem. [[TSH - Forma de construção das aulas M2–M8 - cena, verbo e voz do autor]] registra a revisão de linguagem e profundidade; a identidade visual v1.4 continua. A orientação de notas somente fala deste registro anterior foi substituída pelo teste de trilha em M2.1 v0.6.
 
 ## Fontes e uso dos arquivos
 
-[[M2.1 - Preparação e fontes da revisão substantiva]] e [[M2.2 - Preparação e fontes da revisão substantiva]] distinguem fonte direta, recuperação por nota autoral, adaptação didática e limites de consulta. Os localizadores das apresentações reúnem os arquivos persistentes atuais; as orientações de Hotmart foram atualizadas sem ação na plataforma. As fontes completas, práticas de hipnose e demais referências continuam no acervo para nova composição por pertinência.
+Os registros históricos [[M2.1 - Preparação e fontes da revisão substantiva]] e [[M2.2 - Preparação e fontes da revisão substantiva]] distinguem fonte direta, recuperação por nota autoral, adaptação didática e limites de consulta. Os localizadores das apresentações reúnem os arquivos persistentes atuais; as orientações de Hotmart foram atualizadas sem ação na plataforma. As fontes completas, práticas de hipnose e demais referências continuam no acervo para nova composição por pertinência.
+

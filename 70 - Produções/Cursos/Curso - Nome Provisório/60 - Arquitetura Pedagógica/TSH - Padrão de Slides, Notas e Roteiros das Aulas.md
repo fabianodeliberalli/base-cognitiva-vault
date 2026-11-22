@@ -17,7 +17,11 @@ tags:
 
 ## Teste de trilha de exposição em M2.1 — 22/11/2026
 
-Fabiano solicitou testar M2.1 com mapa inicial, slides como passos visuais e notas para exposição livre, sem fala predeterminada. Nesta versão, [[M2.1 - Trilha de exposição v0.5]], as notas organizam foco, desenvolvimento, apoio e passagem, com referências para consulta. A orientação de somente fala das seções 3 a 5 fica substituída neste teste. A identidade visual permanece. A adoção nas demais aulas e o resultado do ensaio continuam abertos.
+Fabiano solicitou testar M2.1 com mapa inicial, slides como passos visuais e notas para exposição livre, sem fala predeterminada. A referência atual é [[M2.1 - Trilha de exposição v0.6]]. As notas trazem entrada próxima à sua linguagem de aula, ideias com conexões explicadas, objetivo do passo e passagem. A orientação de somente fala das seções 3 a 5 fica substituída neste teste.
+
+Referências completas e observações de pesquisa destinam-se apenas ao aprofundamento opcional do material do aluno. As notas conservam o conteúdo fundamentado em uma explicação clara, sem DOI, URL, ficha bibliográfica ou observações editoriais. Conceitos e autores entram pelo que ajudam a compreender e recebem contexto quando necessários. O objetivo de cada passo deve continuar reconhecível durante a exposição.
+
+Fabiano aprovou manter as imagens como apoio: preservar os diagramas e a identidade visual da trilha. A tela 8 recebeu detalhes do esquema da tarefa visual. O resultado do ensaio e a adoção do formato nas demais aulas continuam abertos; a aprovação visual não equivale à validação integral do material.
 
 ## Estatuto
 
@@ -148,3 +152,4 @@ Scripts e imagens usados na padronização: pasta `Padrão de Slides - ferrament
 - [[00 - Manual de Identidade Visual v1.0]]
 - [[11 - Esteira de Produção dos Materiais do Curso]]
 - [[00 - Estado e Continuidade da Produção M1]]
+

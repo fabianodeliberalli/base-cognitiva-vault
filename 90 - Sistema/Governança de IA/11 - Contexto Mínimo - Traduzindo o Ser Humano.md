@@ -2,13 +2,15 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.43"
+versao: "0.44"
 atualizado_em: 2026-11-22
 ---
 
-## 22/11/2026 — teste de M2.1 como trilha de exposição
+## 22/11/2026 — M2.1: notas em linguagem de aula e imagens preservadas
 
-Fabiano apontou que os roteiros integrais ainda deixavam conceitos e referências sem contexto e conexões suficientes, exigindo reconstrução da explicação durante a gravação. Solicitou testar M2.1 com mapa inicial, slides como passos visuais e notas para exposição livre. [[M2.1 - Trilha de exposição v0.5]] e [[M2.1 - Apresentação editável v0.5]] registram a versão de 20 telas. Nesta aula, as notas orientam foco, desenvolvimento, apoio e passagem; a orientação anterior de notas somente fala fica histórica. Os diagramas representam relações específicas e permanecem editáveis. O teste, a duração e a adoção nas aulas seguintes permanecem abertos; M2.2 ainda não foi convertida. [[00 - Estado e Continuidade da Produção M2]] localiza as versões. A arquitetura de nove módulos e 59 aulas é preservada.
+[[M2.1 - Trilha de exposição v0.6]] e [[M2.1 - Apresentação editável v0.6]] são a referência atual de teste: 20 telas com entrada natural, ideias, objetivo e passagem. Fabiano trouxe sua formulação para a tela 3 e pediu conexões que ajudem a falar com clareza para público não acadêmico. Referências completas e observações de pesquisa ficam apenas no aprofundamento opcional do apoio do aluno; as notas contêm o fundamento incorporado à explicação, sem bibliografia ou rubricas de pesquisa. A orientação anterior de notas somente fala fica histórica neste teste de trilha.
+
+Fabiano aprovou manter as imagens dos slides como apoio. Diagramas e identidade foram preservados, com detalhes do esquema da tarefa visual acrescidos à tela 8. Essa decisão visual não confirma teste integral, duração, gravação nem publicação. O apoio do aluno de M2.1 foi atualizado em Word/PDF de quatro páginas. M2.2 ainda não foi convertida; a adoção da trilha nas demais aulas continua em aberto. [[00 - Estado e Continuidade da Produção M2]] localiza as versões. A arquitetura permanece em nove módulos e 59 aulas.
 
 ## 22/11/2026 — revisão substantiva de profundidade desde M2.1
 
@@ -339,4 +341,5 @@ Preservar a distinção entre formulações autorais, conhecimentos tradicionais
 Não ler automaticamente todos os documentos da tabela. Escolher apenas a linha pertinente. Documentos extensos, transcrições, montagens e fontes são recuperados sob demanda.
 
 Se a tarefa não exigir mudança autoral, não transformar a resposta em nova deliberação.
+
 
