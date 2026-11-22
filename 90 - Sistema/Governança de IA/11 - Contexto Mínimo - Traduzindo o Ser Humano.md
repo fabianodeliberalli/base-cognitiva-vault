@@ -257,10 +257,10 @@ Use esta ficha para começar. Expanda a leitura somente conforme a tarefa. Todas
 
 - **Traduzindo o Ser Humano** é a marca organizadora e o nome atual da oferta.
 - **EIXO** é função pedagógica interna de presença, discernimento, orientação e retorno; não é automaticamente produto, mecanismo comercial ou promessa. É conceito didático com o mesmo estatuto de pêndulo, árvore e espiral; apenas não se apresenta como "Método EIXO".
-- **9 módulos / 54 aulas** são a arquitetura usada atualmente. Esse formato ainda será estruturado para posterior gravação e pode evoluir por decisão de Fabiano.
+- **9 módulos / 59 aulas** são a arquitetura usada atualmente, validada em 22/11/2026. Esse formato ainda será estruturado para posterior gravação e pode evoluir por decisão de Fabiano.
 - A organização inicial de **7 módulos / 14 aulas** não é mais estrutura. Seus títulos e conteúdos permanecem como acervo histórico de consulta.
-- Durante a estruturação das 54 aulas para posterior gravação, o acervo inicial pode ser consultado como fonte qualificada para **ampliações, correlações e fundamentações**. Cada contribuição será escolhida por necessidade e pertinência ao conteúdo da aula, sem correspondência obrigatória, sem transportar a numeração antiga e sem restaurar a estrutura inicial como arquitetura.
-- Quando **2.1** ou **2.2** identificarem antigas aulas ou unidades, são apenas códigos históricos. Todas as variantes de títulos e conteúdos devem ser preservadas; nenhuma é aula vigente. Elas podem ser consultadas individualmente conforme pertinência, sem determinar numeração, posição ou ordem de gravação nas 54 aulas.
+- Durante a estruturação das 59 aulas para posterior gravação, o acervo inicial pode ser consultado como fonte qualificada para **ampliações, correlações e fundamentações**. Cada contribuição será escolhida por necessidade e pertinência ao conteúdo da aula, sem correspondência obrigatória, sem transportar a numeração antiga e sem restaurar a estrutura inicial como arquitetura.
+- Quando **2.1** ou **2.2** identificarem antigas aulas ou unidades, são apenas códigos históricos. Todas as variantes de títulos e conteúdos devem ser preservadas; nenhuma é aula vigente. Elas podem ser consultadas individualmente conforme pertinência, sem determinar numeração, posição ou ordem de gravação nas 59 aulas.
 - O subtítulo oficial é **Da compreensão acumulada à presença que sustenta**, decisão de 03/11/2026; permanece revisável por Fabiano.
 - Espiritualidade é dimensão explícita, afirmativa, plural e não dogmática. A identidade integrada de Fabiano não deve ser neutralizada por heurísticas genéricas.
 - “Competência incorporada” é conceito de aprofundamento; não deve virar headline fria por padrão.
@@ -279,7 +279,7 @@ Preservar a distinção entre formulações autorais, conhecimentos tradicionais
 
 - **Doze semanas** é somente uma estimativa provisória recuperada de versões anteriores.
 - A duração atual não está definida de forma definitiva.
-- Ela dependerá da construção posterior das 54 aulas, de seu volume, ritmo, práticas, materiais, forma de liberação e outros fatores ainda em curso.
+- Ela dependerá da construção posterior das 59 aulas, de seu volume, ritmo, práticas, materiais, forma de liberação e outros fatores ainda em curso.
 - Nenhum assistente deve transformar a estimativa em promessa, regra de oferta ou cronograma sem nova decisão de Fabiano.
 
 ## Estado operacional resumido
