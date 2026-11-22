@@ -6,6 +6,11 @@ criado_em: 2026-11-21
 autor: Fabiano Deliberalli
 ---
 
+## 22/11/2026 — títulos claros e M2.1 preparada para gravação
+
+Fabiano adotou **Como se forma o que você percebe?** para M2.1. Sua orientação é que os nomes expressem com clareza e objetividade o estudo, os fundamentos e as contribuições do TSH, ajudando o aluno a reconhecer sua progressão. A revisão dos 59 nomes e dos nove módulos está em [[TSH - Nomes das aulas e módulos - revisão de clareza 2026-11-22]]; outras redações são ajustes editoriais desenvolvidos no escopo solicitado, sem atribuição de escolhas textuais individuais ao autor. A referência de gravação é [[M2.1 - Roteiro oral e caderno de produção v0.2]], com apresentação de 12 telas e fala nas notas, prática, fontes e apoio alinhados. Ensaio e gravação permanecem sem confirmação.
+
+
 ## Continuidade de 22/11/2026 — 59 aulas validadas e início de M2
 
 **Decisão de Fabiano neste chat:** validar a estrutura reorganizada de nove módulos e 59 aulas (M0–M8: 3, 7, 6, 8, 6, 9, 9, 8 e 3), registrar as decisões pertinentes no repositório e prosseguir com o início da produção de M2. A nova organização passa a ser referência atual revisável; os 54 códigos anteriores continuam como localizadores de origem e não são apagados ou usados para inferir estados das partes desdobradas.
@@ -14,7 +19,7 @@ autor: Fabiano Deliberalli
 
 **Parecer editorial do assistente, solicitado por Fabiano:** coerência do planejamento reestimada em 95/100, ante 82,5/100 (83 arredondado), com os mesmos 36 critérios e pesos. Não é decisão autoral sobre eficácia, percentual de produção ou segurança demonstrada. Memória de cálculo e precisões no [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]].
 
-**Ponto de retomada:** [[00 - Estado e Continuidade da Produção M2]]; [[01 - Plano de produção das seis aulas M2]]; primeira unidade [[M2.1 - Roteiro oral e caderno de produção v0.1]]. Recuperar fontes por pertinência, construir cenas sem inventar vivências do autor, acompanhar a Cartografia já conhecida e manter a dimensão espiritual explícita no módulo.
+**Ponto de retomada:** [[00 - Estado e Continuidade da Produção M2]]; [[01 - Plano de produção das seis aulas M2]]; primeira unidade [[M2.1 - Roteiro oral e caderno de produção v0.2]]. Recuperar fontes por pertinência, construir cenas sem inventar vivências do autor, acompanhar a Cartografia já conhecida e manter a dimensão espiritual explícita no módulo.
 
 Os registros datados abaixo documentam a organização anterior. Em particular, pequena circulação na antiga M6.4 passa à M6.5 atual; Hara e Chong Mai/grande circulação anteriormente reunidos em M6.5 passam às unidades atuais M6.6/M6.7; acompanhamento em espiral fica em M6.8. O dossiê contém toda a correspondência.
 
@@ -54,4 +59,3 @@ Registro mínimo de escolhas confirmadas por Fabiano na auditoria de 21/11/2026.
 - **Espiritualidade explícita em todos os módulos.** A passagem de Long sobre o eu inferior culpado entra se fizer sentido no todo: avaliada e posta em M4.5, junto ao 3-2-1, e não em M4.4, que já está cheia.
 - **Semana de M3:** cronometrar M3.6 no ensaio; dividir em partes A e B se necessário.
 - **Avaliação das práticas e das bases:** [[TSH - Práticas integradas, conceitos do TSH e equilíbrio das bases - avaliação 2026-11-21]]. Contém propostas ainda não confirmadas por Fabiano: os cinco modos de atenção, os lugares do Ba Duan Jin, a quarta leitura do eixo em M6.5, a neurociência em M7.3 e M8.1, e Long em M7.8.
-

@@ -10,11 +10,11 @@ numero_de_aulas_no_modulo: 6
 
 # Módulo 2 — Plano de produção das seis aulas
 
-**Aprenda a traduzir sua experiência sem reduzi-la**
+**Percepção e tradução da experiência**
 
 O módulo ensina a perceber, diferenciar e revisar uma leitura: notar como ela se forma, investigar o que ganha importância, reconhecer uma certeza que estreitou o campo, compreender a manutenção de respostas conhecidas, distinguir vivido e interpretação e construir uma Tradução provisória. A unidade se completa quando o participante consegue rever uma leitura com uma informação nova e escolher um gesto possível.
 
-As seis aulas conservam títulos e identificadores. A arquitetura de nove módulos e 59 aulas foi validada por Fabiano; M2 permanece com seis. Este documento organiza a produção e seleciona uma composição inicial. Não atesta roteiro final, gravação, edição, publicação ou execução de encontro. Esses estados devem acompanhar os artefatos efetivamente produzidos.
+As seis aulas conservam identificadores e focos de aprendizagem. Os nomes foram revistos para tornar esses focos mais reconhecíveis. A arquitetura de nove módulos e 59 aulas foi validada por Fabiano; M2 permanece com seis. Este documento organiza a produção e seleciona uma composição inicial. Não atesta roteiro final, gravação, edição, publicação ou execução de encontro. Esses estados devem acompanhar os artefatos efetivamente produzidos.
 
 ## 1. A unidade que vamos construir
 
@@ -47,7 +47,7 @@ O módulo tem uma prática principal por aula. Uma comparação breve, uma pergu
 
 ## 3. As seis aulas como peças da mesma aprendizagem
 
-### M2.1 — Perceber não é simplesmente copiar o mundo
+### M2.1 — Como se forma o que você percebe?
 
 **Pergunta:** o que muda no que eu percebo quando mudam meu estado, minha expectativa ou o contexto?
 
@@ -83,7 +83,7 @@ O módulo tem uma prática principal por aula. Uma comparação breve, uma pergu
 
 **Entregável necessário:** roteiro com a distinção conceitual preservada; PPT com notar/destacar/identificar/comunicar; notas docentes com as fontes e o estatuto de Long; condução completa da demonstração; apoio breve com um exemplo cotidiano. O poder do dedo pode ser gravado diretamente para a aula, sem depender da gravação ao vivo.
 
-### M2.3 — Quando o mapa parece ser a própria realidade
+### M2.3 — Interpretações e certezas: recuperar outras pistas
 
 **Pergunta:** o que me ajuda a reconhecer que uma leitura ganhou certeza antes de eu conhecer a situação?
 
@@ -101,7 +101,7 @@ O módulo tem uma prática principal por aula. Uma comparação breve, uma pergu
 
 **Entregável necessário:** roteiro; PPT com leitura inicial, pistas e pergunta; notas com o alcance das imagens; instruções completas de orientação e retorno; apoio curto que permita reencontrar o exercício. A mensagem do acervo de 14/11 oferece um ponto de partida documental para a voz de Fabiano.
 
-### M2.4 — Por que respostas familiares voltam?
+### M2.4 — O que mantém a repetição de uma resposta?
 
 **Pergunta:** o que sustenta uma resposta conhecida e o que ela preserva ou custa nesta ocasião?
 
@@ -119,7 +119,7 @@ O módulo tem uma prática principal por aula. Uma comparação breve, uma pergu
 
 **Entregável necessário:** roteiro; PPT com as duas ocasiões; notas que distingam hipótese funcional e explicação comprovada; uma comparação breve no apoio do aluno. Se faltar uma passagem autoral adequada, concentrar os pedidos a Fabiano nesta aula e usar provisoriamente a cena fictícia identificada. Fracionamento não é requisito desta prática: seu ensino está previsto no encontro que abre M3.
 
-### M2.5 — O que aconteceu, o que foi vivido e o que foi interpretado
+### M2.5 — Acontecimento, experiência e interpretação
 
 **Pergunta:** como dizer o que vivi e investigar seu sentido, deixando espaço para o que eu ainda não sei?
 
@@ -201,7 +201,7 @@ Uma ideia não selecionada para o vídeo principal pode permanecer nas notas doc
 
 As referências abaixo apontam para cópias do repositório GitHub sincronizado, fixadas no commit **8b1cff4e29eafd3321236cfd7e9597ec7af19c8b**, base da auditoria de 21/11/2026. A integração posterior e a decisão de 59 aulas orientam a organização atual; menções históricas a 54 aulas permanecem recuperáveis nesse snapshot.
 
-O plano foi confrontado com a auditoria do dossiê, especialmente suas seções de progressão, precisão conceitual e preparação de M2; com [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]]; e com as seis fichas M2 de fichas de M2 do percurso integrado. A orientação de produção e o banco de cenas orientam a forma de construir e a procedência da voz autoral. As referências por aula são rotas de recuperação; citação literal e alegação específica pedem conferir a passagem efetivamente utilizada.
+O plano foi confrontado com a auditoria do dossiê, especialmente suas seções de progressão, precisão conceitual e preparação de M2; com [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]]; e com as seis fichas de M2 do percurso integrado. A orientação de produção e o banco de cenas orientam a forma de construir e a procedência da voz autoral. As referências por aula são rotas de recuperação; citação literal e alegação específica pedem conferir a passagem efetivamente utilizada.
 
 - **F1.** [Raio X vigente — títulos e focos das aulas](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/10%20-%20Raio%20X%20do%20Produto/Vigente/Raio-X-Fabiano%20Deliberalli%20-%20Texto%20para%20consulta.md)
 - **F2.** [Forma de construção das aulas — cena, verbo e voz do autor](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/60%20-%20Arquitetura%20Pedag%C3%B3gica/TSH%20-%20Forma%20de%20constru%C3%A7%C3%A3o%20das%20aulas%20M2%E2%80%93M8%20-%20cena,%20verbo%20e%20voz%20do%20autor.md)

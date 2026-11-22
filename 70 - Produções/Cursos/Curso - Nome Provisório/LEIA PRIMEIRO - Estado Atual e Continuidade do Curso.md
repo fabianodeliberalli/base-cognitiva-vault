@@ -3,16 +3,21 @@ tipo: porta-de-entrada-de-contexto
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: referencia-atual-revisavel
-versao: "4.12"
+versao: "4.13"
 criado_em: 2026-07-21
 atualizado_em: 2026-11-22
 autor: Fabiano Deliberalli
 autoridade_de_decisao: Fabiano Deliberalli
 ---
 
+## 22/11/2026 — títulos claros e M2.1 preparada para gravação
+
+Fabiano adotou **Como se forma o que você percebe?** para M2.1. Sua orientação é que os nomes expressem com clareza e objetividade o estudo, os fundamentos e as contribuições do TSH, ajudando o aluno a reconhecer sua progressão. A revisão dos 59 nomes e dos nove módulos está em [[TSH - Nomes das aulas e módulos - revisão de clareza 2026-11-22]]; outras redações são ajustes editoriais desenvolvidos no escopo solicitado, sem atribuição de escolhas textuais individuais ao autor. A referência de gravação é [[M2.1 - Roteiro oral e caderno de produção v0.2]], com apresentação de 12 telas e fala nas notas, prática, fontes e apoio alinhados. Ensaio e gravação permanecem sem confirmação.
+
+
 ## 22/11/2026 — 59 aulas validadas e início da produção de M2
 
-A estrutura atual é de **9 módulos e 59 aulas**, validada por Fabiano. As menções anteriores a 54 localizam a arquitetura de origem e a transcrição histórica do Raio X. A correspondência completa está no [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]]. A frente agora é [[00 - Estado e Continuidade da Produção M2]]; a primeira unidade é [[M2.1 - Roteiro oral e caderno de produção v0.1]]. O índice 95/100 é parecer editorial sobre planejamento, não andamento de produção.
+A estrutura atual é de **9 módulos e 59 aulas**, validada por Fabiano. As menções anteriores a 54 localizam a arquitetura de origem e a transcrição histórica do Raio X. A correspondência completa está no [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]]. A frente agora é [[00 - Estado e Continuidade da Produção M2]]; a primeira unidade é [[M2.1 - Roteiro oral e caderno de produção v0.2]]. O índice 95/100 é parecer editorial sobre planejamento, não andamento de produção.
 
 
 
@@ -135,4 +140,3 @@ A versão extensa utilizada até agosto de 2026, incluindo a antiga leitura de d
 - [[2026-08-23 - Snapshot da antiga porta de entrada do curso]].
 
 Ela serve para rastreabilidade e recuperação de conteúdo, não para orientar automaticamente novas tarefas.
-

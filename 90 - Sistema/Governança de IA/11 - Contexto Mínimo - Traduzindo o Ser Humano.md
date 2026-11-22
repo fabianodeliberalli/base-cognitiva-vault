@@ -2,15 +2,20 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.38"
+versao: "0.39"
 atualizado_em: 2026-11-22
 ---
+
+## 22/11/2026 — títulos claros e M2.1 preparada para gravação
+
+Fabiano adotou **Como se forma o que você percebe?** para M2.1. Sua orientação é que os nomes expressem com clareza e objetividade o estudo, os fundamentos e as contribuições do TSH, ajudando o aluno a reconhecer sua progressão. A revisão dos 59 nomes e dos nove módulos está em [[TSH - Nomes das aulas e módulos - revisão de clareza 2026-11-22]]; outras redações são ajustes editoriais desenvolvidos no escopo solicitado, sem atribuição de escolhas textuais individuais ao autor. A referência de gravação é [[M2.1 - Roteiro oral e caderno de produção v0.2]], com apresentação de 12 telas e fala nas notas, prática, fontes e apoio alinhados. Ensaio e gravação permanecem sem confirmação.
+
 
 ## Referência atual — 22/11/2026: 59 aulas validadas; produção de M2
 
 Fabiano validou a reorganização de **nove módulos e 59 aulas**: 3/7/6/8/6/9/9/8/3. A base é [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]], com capacidades, experiências, sinais de aprendizagem, fontes e correspondência integral das 54 posições anteriores. Não apagar seus códigos de origem nem inferir conclusão das partes desdobradas.
 
-Fabiano solicitou registrar as decisões deste chat e iniciar M2. Retomar por [[00 - Estado e Continuidade da Produção M2]], [[01 - Plano de produção das seis aulas M2]] e [[M2.1 - Roteiro oral e caderno de produção v0.1]]. M2 mantém seis aulas; produzir sua unidade integrada e desenvolver a primeira aula, depois derivar slides/notas, apoio e ensaio. Fontes e vivências são recuperadas por pertinência; cenas fictícias são identificadas.
+Fabiano solicitou registrar as decisões deste chat e iniciar M2. Retomar por [[00 - Estado e Continuidade da Produção M2]], [[01 - Plano de produção das seis aulas M2]] e [[M2.1 - Roteiro oral e caderno de produção v0.2]]. M2 mantém seis aulas; produzir sua unidade integrada e desenvolver a primeira aula, depois derivar slides/notas, apoio e ensaio. Fontes e vivências são recuperadas por pertinência; cenas fictícias são identificadas.
 
 A reavaliação editorial é **95/100**, ante 82,5/100 (83 arredondado), pelos mesmos 36 critérios e pesos. Trata-se de parecer do assistente sobre planejamento, não decisão autoral de eficácia ou confirmação de produção. Roteiros finais, duração real, versões de prática, publicação e aprendizagem só recebem confirmação por evidência.
 
@@ -310,4 +315,3 @@ Preservar a distinção entre formulações autorais, conhecimentos tradicionais
 Não ler automaticamente todos os documentos da tabela. Escolher apenas a linha pertinente. Documentos extensos, transcrições, montagens e fontes são recuperados sob demanda.
 
 Se a tarefa não exigir mudança autoral, não transformar a resposta em nova deliberação.
-
