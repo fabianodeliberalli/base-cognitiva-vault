@@ -3,9 +3,9 @@ tipo: porta-de-entrada-de-contexto
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
 status: referencia-atual-revisavel
-versao: "4.11"
+versao: "4.12"
 criado_em: 2026-07-21
-atualizado_em: 2026-11-21
+atualizado_em: 2026-11-22
 autor: Fabiano Deliberalli
 autoridade_de_decisao: Fabiano Deliberalli
 ---
@@ -42,7 +42,7 @@ Consultar [[TSH - Máscara Armadura Castelos e Amor Poder Sabedoria - Destinaç�
 
 ## Atualização de 31 de outubro de 2026
 
-Os refinamentos aprovados da Live, as referências por aula e o calendário estão em [[TSH - Preparação dos Roteiros e Calendário 2026-2027]]. Usar o Raio X atualizado e [[Guia-de-Conducao-Masterclass-TSH-2026-10-31]]. Entrega atual: 54 aulas, oito encontros (16h), M0/M1 juntos. M0/M1 liberados em 17/11; último encontro em 30/01/2027. Datas de gravação continuam abertas. O registro operacional de 30/10 abaixo é histórico.
+Os refinamentos aprovados da Live, as referências por aula e o calendário estão em [[TSH - Preparação dos Roteiros e Calendário 2026-2027]]. Usar o Raio X atualizado e [[Guia-de-Conducao-Masterclass-TSH-2026-10-31]]. Entrega atual: 59 aulas, oito encontros (16h), M0/M1 juntos. A quantidade foi atualizada em 22/11/2026; os encontros seguem o calendário registrado. M0/M1 liberados em 17/11; último encontro em 30/01/2027. Datas de gravação continuam abertas. O registro operacional de 30/10 abaixo é histórico.
 
 ## Registros de 24 e 30 de outubro
 
@@ -67,9 +67,9 @@ A decisão de incorporação não torna toda prática candidata um roteiro final
 
 ## Referências atuais
 
-- O curso usa atualmente **9 módulos e 54 aulas**. A composição de cada aula ainda será desenvolvida para posterior gravação e pode evoluir.
+- O curso usa atualmente **9 módulos e 59 aulas**. A composição de cada aula ainda será desenvolvida para posterior gravação e pode evoluir.
 - A organização inicial de **7 módulos e 14 aulas ou unidades** permanece como acervo histórico de títulos, conteúdos, relações e fundamentos.
-- O acervo inicial pode contribuir para qualquer uma das 54 aulas conforme necessidade e pertinência, sem correspondência individual, sem transportar sua numeração e sem funcionar como segunda arquitetura.
+- O acervo inicial pode contribuir para qualquer uma das 59 aulas conforme necessidade e pertinência, sem correspondência individual, sem transportar sua numeração e sem funcionar como segunda arquitetura.
 - Os antigos códigos **2.1** e **2.2**, quando identificarem aulas ou unidades, são históricos. Todas as variantes permanecem disponíveis como matéria-prima.
 - O subtítulo usado atualmente é **Da compreensão acumulada à presença que sustenta** e permanece revisável por Fabiano.
 - **Doze semanas** é estimativa de versões anteriores, não duração definida nem promessa.
