@@ -193,6 +193,10 @@ Em M6, os cinco blocos de mapa, órbita, Hara, grande circulação e espiral pod
 
 Uma sequência de estudo possível para M6 alterna: mapa conceitual; ensino e retomada escolhida; Hara; cartografia/grande circulação; acompanhamento no tempo. Ensinar três procedimentos não significa pedir três práticas completas em sequência nem domínio de todas numa semana. Acompanhamento em M7/M8 continua disponível. Se o ensaio mostrar carga incompatível com a turma, ajustar com Fabiano a distribuição ou as datas antes de comunicar uma mudança; nenhuma alteração de calendário é declarada aqui.
 
+### Resgate dos anexos de consciência, crenças e influência — 22/11/2026
+
+[[Anexos M2 - Conteúdos imagens e destinos de resgate]] indexa as 255 lâminas das quatro apresentações fornecidas durante M2.3 e as duas imagens de Milgram. Oferece destinos propostos por assunto e aula, texto recuperável e localizadores dos originais e das mídias. M2.3 aplica Festinger/confirmação/Erickson; M2.4 aplica Milgram no problema da função e das condições da resposta, após a prévia revista por Fabiano. O rascunho M2.4 v0.1 está em revisão de profundidade após a intervenção de Fabiano; a existência e a inspeção dos artefatos não confirmam adequação substantiva. [[Claustro - Atenção, integração e estados de consciência no TSH]] fundamenta possibilidades para atenção/distração e pesquisas de estados de consciência. Retomar os trechos pertinentes ao produzir M2.5, M3, M4, M5, M6 e M7, distinguindo usos já compostos e propostas. A arquitetura de nove módulos e 59 aulas permanece.
+
 ## 7. Precisões de fundamentação incorporadas
 
 | Questão da auditoria | Formulação e uso nesta revisão |
@@ -352,6 +356,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 
 ### M2 — Percepção e tradução da experiência
 
+**Orientação de composição — correção de 22/11/2026:** as posições abaixo localizam problemas e fontes; sua concisão não é um teto de elaboração. Recuperar os textos autorais e o desenvolvimento efetivo das aulas anteriores. O percurso é cumulativo: constituição da experiência → relevância e forma/elaboração → convicção e revisão → permanência ou transformação da organização vivida/participação → distinção de níveis → Tradução recursiva. O símbolo de sequência descreve progressão pedagógica; o funcionamento da experiência é relacional e recursivo. [[01 - Plano de produção das seis aulas M2]] e [[TSH - Revisão de Profundidade e Percurso - 22-11-2026]] explicitam a costura e os estados atuais.
+
 #### M2.1 — Como se forma o que você percebe?
 **Origem:** M2.1. **Capacidade:** Reconstruída: formação corporificada e relacional da experiência, enação, expectativa e investigação em primeira pessoa.
 
@@ -375,26 +381,26 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 **Recuperar:** [Mapa Funcional Transversal dos Três Eus](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/20%20-%20Notas%20Conceituais/Mapa%20Funcional%20Transversal%20dos%20Tr%C3%AAs%20Eus.md); [Kahneman e Cozolino - Dois Sistemas e o Meio Segundo no TSH](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/20%20-%20Notas%20Conceituais/Kahneman%20e%20Cozolino%20-%20Dois%20Sistemas%20e%20o%20Meio%20Segundo%20no%20TSH.md); [Hipnose e Auto-Hipnose nos Módulos e Aulas do TSH - Plano de Incorporação](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Hipnose%20e%20Auto-Hipnose/05%20-%20Hipnose%20e%20Auto-Hipnose%20nos%20M%C3%B3dulos%20e%20Aulas%20do%20TSH%20-%20Plano%20de%20Incorpora%C3%A7%C3%A3o.md).
 
 #### M2.3 — Interpretações e certezas: recuperar outras pistas
-**Origem:** M2.3. **Capacidade:** Investigar como uma hipótese se torna experiência de certeza.
+**Origem:** M2.3. **Capacidade:** Investigar como a forma vivida e a interpretação adquirem força de certeza e como podem ser conferidas, em continuidade com os dois tempos da Tradução.
 
-**Experiência:** Desenvolver absorção, transe cotidiano e meio segundo como interlocuções do acervo. Reabrir campo perceptivo, recuperar um dado novo e formular uma pergunta que possa modificar a hipótese; retorno integra a investigação, sem esgotá-la.
+**Experiência:** Retomar relevância, forma e elaboração de M2.2. Investigar como se confirmam e selecionam pistas. Confirmação ilumina seleção de evidências; Festinger ilumina conflito, compromissos e pertencimento; absorção ilumina acesso a referências; Erickson orienta a passagem a partir da experiência existente. Recuperar presença, formular pergunta que possa trazer informação, conferir e comparar tanto a leitura quanto o modo de viver a situação. As contribuições dialogam sem equivalência automática entre modelos.
 
-**O que observar:** Formula uma pergunta capaz de mudar a certeza; sabe encerrar a prática.
+**O que observar:** Reconhece apoios da convicção, formula uma pergunta relevante, distingue mudança de explicação e mudança da experiência e conserva em aberto o que ainda precisa conferir. Pode manter uma conclusão bem sustentada. Elabora e encerra a exploração.
 
-**Retomada e ponte:** Retorno será retomado em toda prática de indução e em M3.8.
+**Retomada e ponte:** O resultado pode ser mais clareza sem mudança equivalente na disponibilidade de agir. Essa diferença prepara M2.4; retorno continua em práticas posteriores e M3.8.
 
-**Recuperar:** [Kahneman e Cozolino - Dois Sistemas e o Meio Segundo no TSH](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/20%20-%20Notas%20Conceituais/Kahneman%20e%20Cozolino%20-%20Dois%20Sistemas%20e%20o%20Meio%20Segundo%20no%20TSH.md); [Meio Segundo Vital - Transe que Não se Escolhe e os Três Eus](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/20%20-%20Notas%20Conceituais/Meio%20Segundo%20Vital%20-%20Transe%20que%20N%C3%A3o%20se%20Escolhe%20e%20os%20Tr%C3%AAs%20Eus.md); [Hipnose e Auto-Hipnose nos Módulos e Aulas do TSH - Plano de Incorporação](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Hipnose%20e%20Auto-Hipnose/05%20-%20Hipnose%20e%20Auto-Hipnose%20nos%20M%C3%B3dulos%20e%20Aulas%20do%20TSH%20-%20Plano%20de%20Incorpora%C3%A7%C3%A3o.md).
+**Fontes e estado:** [[M2.3 - Trilha de exposição v0.1]] e [[M2.3 - Seleção dos anexos e fundamentação v0.1]] contêm a composição produzida para avaliação. A costura explícita aos dois tempos é ajuste indicado, ainda não aplicado aos artefatos. Recuperar [[Festinger - Dissonância cognitiva e revisão de certezas no TSH]], [[Mapa Funcional Transversal dos Três Eus]], [[Kahneman e Cozolino - Dois Sistemas e o Meio Segundo no TSH]], [[Meio Segundo Vital - Transe que Não se Escolhe e os Três Eus]] e as contribuições ericksonianas localizadas no inventário dos anexos.
 
 #### M2.4 — O que mantém a repetição de uma resposta?
-**Origem:** M2.4. **Capacidade:** Compreender a persistência de uma resposta por sua função, seus vínculos e seus efeitos.
+**Origem:** M2.4. **Capacidade:** Investigar a repetição como organização da experiência e da participação, inclusive quando uma interpretação já foi revista; reconhecer o que se preserva e o que procura condições de expressão.
 
-**Experiência:** Reconstruir uma sequência concreta: pista, antecipação, organização corporal/afetiva, resposta e consequência. Comparar duas ocasiões e ensaiar outra participação com o metapadrão recuperado, sem converter toda repetição em erro individual.
+**Experiência:** Partir do limite encontrado em M2.3: a explicação pode mudar enquanto corpo, afeto, imagem, memória e expectativa continuam configurando um encontro conhecido. Relacionar forma vivida e elaboração consciente; examinar a circularidade entre antecipação, gesto, relação e efeitos. Comparar ocasiões e explorar outra experiência com os quatro passos: escolher recurso, apoio ou capacidade pelo que permite sentir, perceber, sustentar e realizar naquela organização. Condições externas podem precisar de mudança. Sequência e função comportamental são dimensões parciais; Milgram ilumina autoridade e situação, sem oferecer uma teoria de toda repetição. O horizonte é integração e expressão das possibilidades da Essência nas condições da singularidade.
 
-**O que observar:** Identifica uma função e uma condição da repetição; pode reconhecer que ainda não sabe.
+**O que observar:** Diferencia mudança verbal, mudança do modo de viver e disponibilidade para participar; reconhece o que sustenta a configuração e que condição, experiência ou cultivo pode permitir outra possibilidade. Pode reconhecer que ainda não sabe. O ensaio fornece material de investigação, não prova de transformação consolidada.
 
-**Retomada e ponte:** M4.4 desenvolve história e proteção; M6.8 compara ocasiões sem pressupor progresso.
+**Retomada e ponte:** A distinção vivido/interpretação prepara M2.5. M3 aprofunda acesso corporal; M4.4 história e proteção; M4.6 ensaio; M6.8 compara o que mudou e permaneceu no tempo.
 
-**Recuperar:** [Kahneman e Cozolino - Dois Sistemas e o Meio Segundo no TSH](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/20%20-%20Notas%20Conceituais/Kahneman%20e%20Cozolino%20-%20Dois%20Sistemas%20e%20o%20Meio%20Segundo%20no%20TSH.md); [Quatro Passos da Mudança - Metapadrão e Lei de Hebb no TSH](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/20%20-%20Notas%20Conceituais/Quatro%20Passos%20da%20Mudan%C3%A7a%20-%20Metapadr%C3%A3o%20e%20Lei%20de%20Hebb%20no%20TSH.md); [Registro Mestre de Formulações Estruturantes](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Registro%20Mestre%20de%20Formula%C3%A7%C3%B5es%20Estruturantes.md).
+**Fontes e estado:** [[M2.4 - Prévia de conteúdo e contribuições v0.1]] contém o núcleo reelaborado; M2.4 v0.1 e seus slides/guias permanecem rascunhos em revisão substantiva. Recuperar [[Tradução da Experiência Humana]], [[Mapa Funcional Transversal dos Três Eus]], [[O Límbico como Porta - Eu Básico, Bion e Morin no TSH]], [[Quatro Passos da Mudança - Metapadrão e Lei de Hebb no TSH]], [[Registro Mestre de Formulações Estruturantes]] e os mapas de pêndulo/espiral com suas notas-mãe. Ler as passagens pertinentes, não apenas os títulos.
 
 #### M2.5 — Acontecimento, experiência e interpretação
 **Origem:** M2.5. **Capacidade:** Diferenciar vivido, forma, sentido, interpretação e hipótese de origem.
@@ -911,4 +917,5 @@ Consulta atual confirmada na main do repositório em 21/11/2026: commit 8b1cff4e
 - [Auditoria do dossiê e preparação de M2](https://chatgpt.com/library?file_id=libfile_fde3_f-5816acc745608191959726cd2cd7d35e_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal).
 - [Anexo auditado, incluindo atualização das 21h56](https://chatgpt.com/library?file_id=libfile_fde3_f-3697143d6ef08191bab8b15c2156b0cc_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal).
 - [Versão anterior do dossiê no repositório](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/60%20-%20Arquitetura%20Pedag%C3%B3gica/TSH%20-%20Dossi%C3%AA%20M0%E2%80%93M8%20-%20auditoria%20e%20base%20dos%20roteiros.md).
+
 

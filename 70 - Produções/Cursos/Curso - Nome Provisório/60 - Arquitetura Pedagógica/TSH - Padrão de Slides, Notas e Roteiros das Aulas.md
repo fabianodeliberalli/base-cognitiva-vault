@@ -2,7 +2,7 @@
 tipo: padrao-de-producao
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "2.3"
+versao: "2.4"
 criado_em: 2026-11-02
 atualizado_em: 2026-11-22
 aplica_se_a: futuras producoes de aulas, slides, notas e apoios do TSH
@@ -17,7 +17,7 @@ Em 22/11/2026, após examinar M2.1 **Como se forma o que você percebe?**, na co
 
 Esta nota é a descrição operacional do modelo. Serve a ChatGPT, Codex, Claude e a qualquer outro assistente, sem depender do histórico desta conversa nem de acesso à página nativa. Permanece revisável por Fabiano. Preservar a lógica e a qualidade; a quantidade de telas, exemplos e passagens acompanha a aprendizagem de cada aula.
 
-**Recuperação mínima para produzir:** ler a ficha mínima do TSH; esta nota; a posição da aula e suas relações no dossiê vigente; as fontes pertinentes à questão. Para compreender a execução concreta, consultar [[M2.1 - Trilha de exposição v0.8]] e `Materiais/Módulo 2/M2.1 - Conteúdo das telas e notas v0.8.json`; [[M2.2 - Trilha de exposição v0.4]] permite examinar a composição de outra questão. A ficha mínima, alcançada por `AGENTS.md` e `CLAUDE.md`, aponta para esta referência. Expandir a busca quando houver lacuna substantiva, sem carregar o vault inteiro.
+**Recuperação mínima para produzir:** ler a ficha mínima do TSH; esta nota; a posição da aula e suas relações no dossiê vigente; o desenvolvimento efetivo das aulas anteriores pertinentes; e as passagens autorais e fundamentos necessários à questão. Recuperar o que o aluno já aprendeu, além dos nomes das aulas. Desenvolver o raciocínio e a exploração na fonte da aula antes de completar a montagem; o resumo curricular não contém toda a explicação. Para compreender a execução concreta, consultar [[M2.1 - Trilha de exposição v0.8]] e `Materiais/Módulo 2/M2.1 - Conteúdo das telas e notas v0.8.json`; [[M2.2 - Trilha de exposição v0.4]] permite examinar a composição de outra questão. A ficha mínima, alcançada por `AGENTS.md` e `CLAUDE.md`, aponta para esta referência. Expandir a busca quando houver lacuna substantiva, sem carregar o vault inteiro.
 
 **Exemplar e revisões:** o modelo completo adotado por Fabiano permanece recuperável pela genealogia de M2.1; [[M2.1 - Apresentação editável v0.8]] e [[M2.2 - Apresentação editável v0.4]] localizam as revisões atuais produzidas para avaliação, com 20 telas em cada aula. JSON e trilha em Markdown conservam mapa, notas e desenvolvimento. A v0.7 permanece como referência da retirada da personagem e da redação dirigida ao aluno. O rótulo “teste” em metadados anteriores documenta a etapa de construção; a adoção do formato não aprova automaticamente cada revisão posterior.
 
@@ -40,6 +40,20 @@ M0 foi acolhimento. Seu nível introdutório não define o nível das próximas 
 A arquitetura atual é de **nove módulos e 59 aulas**, com 3/7/6/8/6/9/9/8/3 posições. Usar nomes, códigos e correspondências do dossiê vigente; não restaurar a arquitetura de 54 aulas ou renumerar por iniciativa de montagem. A escolha deste formato não altera a arquitetura curricular.
 
 Ao localizar a contribuição de uma aula, distinguir três situações que pedem trabalhos diferentes: **ainda não reconhecer** algo pede ampliar percepção e mapas; **compreender e não conseguir acessar** pede investigar estado, condições, apoios e participação; **reconhecer uma possibilidade ainda pouco desenvolvida** pede cultivar uma capacidade. Essa distinção, já presente em M1 e no dossiê, evita reduzir o curso à correção de interpretações ou à recuperação de recursos supostamente prontos. Criação, prazer, dança, relações, descanso e condições materiais também pertencem ao percurso.
+
+### Profundidade operante — correção reiterada durante M2.4
+
+Fabiano precisou reiterar a crítica de redução à abordagem básica durante a montagem de M2.4, mesmo com trilha e recursos visuais organizados. O histórico em [[TSH - Revisão de Profundidade e Percurso - 22-11-2026]] explicita o desvio: as fontes autorais e disciplinares estavam disponíveis, mas sua integração ficou abaixo do material. O resumo operacional do dossiê foi usado como explicação completa.
+
+A composição precisa desenvolver o problema a partir das formulações pertinentes e mostrar o que cada articulação transforma na compreensão e na experiência. Por exemplo, a repetição em M2.4 exige investigar o modo como se organiza o encontro e a relação entre forma vivida e elaboração consciente; uma cadeia de pista–resposta–consequência e um ensaio com recurso não esgotam esse trabalho. Os dois tempos da Tradução, desenvolvidos em M2.2, precisam continuar operando quando iluminam a questão. As capacidades e os recursos são investigados nessa relação. A finalidade de reconhecimento, integração e expressão das possibilidades da Essência orienta o percurso nas condições concretas da singularidade.
+
+Um exemplo cotidiano permite entrar, contrastar ou aplicar a elaboração. Ele não determina um teto para a aula inteira. Linguagem coloquial e tópicos de consulta tornam a densidade acompanhável; a montagem não deve reduzi-la para caber num molde já iniciado. A quantidade de autores, a complexidade terminológica, a duração e o número de slides não comprovam profundidade. As fontes precisam modificar o raciocínio e o trabalho proposto.
+
+Conferência visual, limpeza das notas, igualdade de hashes e revisão de uma prévia têm alcances próprios. Não certificam profundidade substantiva nem transferem ao autor a responsabilidade por detectar toda redução. M2.1 v0.8/M2.2 v0.4 oferecem exemplos de integração operante, preservando seus estados reais. O rascunho M2.4 v0.1 foi colocado em revisão de profundidade e não é um exemplar desse resultado. Aplicar esta correção à composição efetiva antes de tratá-la como resolvida pelo registro.
+
+A avaliação passou a incluir M2.3 v0.1: há desenvolvimento de confirmação, dissonância/Festinger, absorção, Erickson e retorno, mas a ligação com os dois tempos da Tradução ficou implícita. Integrar as contribuições à passagem entre forma vivida, elaboração e convicção. A M2.4 deve partir do que essa investigação alcança e do que permanece organizado mesmo após a revisão da leitura. [[TSH - Revisão de Profundidade e Percurso - 22-11-2026]] e [[01 - Plano de produção das seis aulas M2]] desenvolvem a comparação e distinguem avaliação de reescrita já realizada.
+
+Na fonte de cada aula, a prévia e o desenvolvimento devem permitir reconhecer a pergunta, o aprendizado anterior retomado, a contribuição concreta das fontes e formulações autorais, as relações a ensinar e a investigação que a prática realiza. Esses elementos compõem o material de trabalho, sem criar outro relatório ou exigir formulário do autor. O assistente confere sua presença no conteúdo real antes de apresentar a composição como adequada; se faltar uma relação central, precisa desenvolvê-la. Esse exame antecede a conclusão da montagem e volta a ser feito sobre o artefato. Um apoio bem acabado e uma lista de bibliografia não corrigem uma explicação rasa.
 
 ## 3. Lógica da trilha e andamento da aula
 
@@ -66,6 +80,14 @@ A prática realiza o trabalho que o desenvolvimento conceitual preparou. Antes d
 Quando pertinente, conservar o registro na Cartografia comum: **situação; manifestação; Tradução provisória; orientação possível**. Os campos permitem reencontrar a experiência e acompanhar sua transformação; não funcionam como uma conclusão diagnóstica pronta. O fechamento torna visível a contribuição da aula e a pergunta que a próxima aprofundará. Retomadas ao longo do curso acrescentam uma camada em vez de reapresentarem sempre a mesma introdução.
 
 As 20 telas de M2.1 mostram uma realização, não um número obrigatório: mapa; constituição da experiência; participação; investigação; expressão; horizonte de cultivo e singularidade; prática; elaboração; registro; continuidade. O movimento específico aproximar-se, dar forma e retornar pertence àquela exploração. Ele não substitui o tripé transversal nem se torna sequência compulsória de todas as práticas do TSH.
+
+### Prévia breve antes da montagem — experiência de M2.4 em 22/11/2026
+
+Fabiano propôs apresentar na conversa, de forma clara e breve, os tópicos da aula para contribuir antes da montagem, com fundamentos e contribuições recuperados no repositório e com imagens, metáforas e exemplos previstos. Seu objetivo é ampliar o conteúdo como ocorreu em M2.3, preservando a fluidez da produção. Em M2.4, a prévia foi apresentada e Fabiano respondeu: **“Seguir com essa prévia”**.
+
+Aplicar como espaço leve de contribuição: mostrar a questão da aula, a progressão e a função das fontes e recursos. Recuperar material suficiente para que a prévia seja concreta. Enquanto o autor revê, avançar em trabalhos independentes; incorporar suas contribuições antes de concluir o que delas depende. Ajustar o tamanho e o momento da conversa ao trabalho, sem exigir formulários, relatórios ou uma cadeia de confirmações para cada ajuste reversível.
+
+A prévia fica junto da fonte da própria aula. Sua revisão não equivale a ensaio, gravação ou aprovação automática de todos os artefatos. Se não acrescentar utilidade numa tarefa, manter o fluxo já solicitado pelo autor. [[M2.4 - Prévia de conteúdo e contribuições v0.1]] preserva a aplicação realizada.
 
 ## 4. Slides: representação que ajuda a compreender e a falar
 
@@ -403,3 +425,4 @@ Esta conferência responde ao pedido de verificar **a construção das aulas e d
 - [[M2.2 - Apresentação editável v0.4]]
 - [[13 - Base de Produção Autoral e Didática - Fabiano Deliberalli]]
 - [[00 - Estado e Continuidade da Produção M2]]
+
