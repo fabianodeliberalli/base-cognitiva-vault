@@ -2,7 +2,7 @@
 tipo: plano-de-producao
 projeto: Traduzindo o Ser Humano
 modulo: M2
-versao: "0.6"
+versao: "0.7"
 data: 2026-11-22
 status: revisao-substantiva
 arquitetura: nove-modulos-59-aulas
@@ -12,7 +12,7 @@ arquitetura: nove-modulos-59-aulas
 
 Revisão solicitada por Fabiano para recuperar a profundidade de suas práticas, literatura e elaborações. M2 desenvolve a constituição da experiência, a relevância e a simbolização, a experiência de certeza, a repetição, a distinção entre vivido/sentido/origem e a Tradução recursiva. As cenas funcionam como aplicação e não como substituição dos fundamentos.
 
-M2.1 e M2.2 têm trilhas atuais produzidas para avaliação: v0.8 e v0.4, respectivamente, ambas com 20 telas e notas naturais de quatro campos, conforme o padrão v2.3. [[00 - Estado e Continuidade da Produção M2]] localiza apresentações, guias e apoios. M2.3 v0.1 tem composição de teste produzida para avaliação: 24 telas, guia e apoio do aluno. M2.4 v0.1 chegou a uma montagem de 24 telas e suportes, mas Fabiano identificou redução de profundidade; está em revisão substantiva. M2.5–M2.6 mantêm orientação estrutural e aguardam composição final. O percurso conserva seis aulas, com Cartografia comum e estudo assíncrono suficiente. O encontro ao vivo conserva seu planejamento sem confirmação de execução.
+M2.1 e M2.2 têm trilhas atuais produzidas para avaliação: v0.8 e v0.4, respectivamente, ambas com 20 telas e notas naturais de quatro campos, conforme o padrão v2.3. [[00 - Estado e Continuidade da Produção M2]] localiza apresentações, guias e apoios. M2.3 v0.2 tem revisão substantiva produzida para avaliação: 24 telas, guia, apoio e kit único; v0.1 permanece histórica. M2.4 v0.1 chegou a uma montagem de 24 telas e suportes, mas Fabiano identificou redução de profundidade; está em revisão substantiva. M2.5–M2.6 mantêm orientação estrutural e aguardam composição final. O percurso conserva seis aulas, com Cartografia comum e estudo assíncrono suficiente. O encontro ao vivo conserva seu planejamento sem confirmação de execução.
 
 ## M2.1 — Como se forma o que você percebe?
 
@@ -30,9 +30,9 @@ M2.1 e M2.2 têm trilhas atuais produzidas para avaliação: v0.8 e v0.4, respec
 
 **Desenvolvimento:** Investigar como a forma vivida e sua elaboração adquirem força de certeza e passam a se confirmar, em continuidade com os dois tempos da Tradução de M2.2. Diferenciar relevância, interpretação e convicção; examinar o que sustenta a leitura e o que se reorganiza ao conferi-la.
 
-**Experiência e articulação:** [[M2.3 - Trilha de exposição v0.1]], produzida para avaliação: impressão e certeza, viés de confirmação, dissonância e caso histórico de Festinger, absorção/transe cotidiano e contribuição ericksoniana. Meio segundo como imagem, sem duração universal. Retomar o mapa autoral de retorno; reconhecer a leitura, recuperar presença, formular pergunta que possa modificá-la, conferir, elaborar e continuar na Cartografia. [[M2.3 - Seleção dos anexos e fundamentação v0.1]] preserva fontes e distinção entre uso atual e propostas.
+**Experiência e articulação:** [[M2.3 - Trilha de exposição v0.2]], revisão produzida para avaliação: impressão e certeza, viés de confirmação, dissonância e caso histórico de Festinger, absorção/transe cotidiano e contribuição ericksoniana. Meio segundo como imagem, sem duração universal. Retomar o mapa autoral de retorno; reconhecer a leitura, recuperar presença, formular pergunta que possa modificá-la, conferir, elaborar e continuar na Cartografia. [[M2.3 - Seleção dos anexos e fundamentação v0.1]] preserva fontes e distinção entre uso atual e propostas.
 
-**Integração indicada após avaliação progressiva:** a composição M2.3 v0.1 desenvolveu suas novas referências, mas deixou implícita a costura com forma/elaboração. Retomar essa relação de modo breve, sem equivaler Kahneman aos Eus. Na exploração, comparar a conclusão e o modo de viver a situação: o que mudou na sensação, afeto, imagem/palavra, expectativa e possibilidade de participação, conforme apareçam. Conferir uma leitura pode ampliá-la, confirmá-la ou mantê-la em aberto; a aula não transforma toda certeza em erro. Essa alteração ainda não foi aplicada aos artefatos nativos.
+**Integração aplicada na v0.2 após avaliação progressiva:** a composição M2.3 v0.1 desenvolveu suas novas referências, mas deixou implícita a costura com forma/elaboração. Retomar essa relação de modo breve, sem equivaler Kahneman aos Eus. Na exploração, comparar a conclusão e o modo de viver a situação: o que mudou na sensação, afeto, imagem/palavra, expectativa e possibilidade de participação, conforme apareçam. Conferir uma leitura pode ampliá-la, confirmá-la ou mantê-la em aberto; a aula não transforma toda certeza em erro. A v0.2 aplica a alteração nas telas/notas, guia e apoio: reciprocidade nas telas 2/4/6/7, comparação em 17–21 e ponte em 22–24. [[M2.3 - Apresentação editável v0.2]] localiza a entrega e o alcance das verificações. Mantém estado produzido para avaliação, sem aprovação para gravação inferida.
 
 ## M2.4 — O que mantém a repetição de uma resposta?
 

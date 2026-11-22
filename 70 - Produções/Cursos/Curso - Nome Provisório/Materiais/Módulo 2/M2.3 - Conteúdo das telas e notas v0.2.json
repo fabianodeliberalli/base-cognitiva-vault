@@ -1,0 +1,349 @@
+{
+  "lesson": "M2.3",
+  "title": "Interpretações e certezas: recuperar outras pistas",
+  "version": "0.2",
+  "date": "2026-11-22",
+  "status": "revisao-substantiva-produzida-para-avaliacao",
+  "architecture": {
+    "modules": 9,
+    "lessons": 59,
+    "m2_lessons": 6
+  },
+  "slides": [
+    {
+      "number": 1,
+      "title": "Interpretações e certezas: recuperar outras pistas",
+      "entrada": "Quando alguma coisa nos acontece, o sentido pode chegar com tanta força que parece já estar decidido. Nesta aula, vamos investigar como uma interpretação ganha essa força e o que acontece quando procuramos conferi-la.",
+      "caminho": [
+        "Retomar a questão que atravessa o módulo: a experiência envolve corpo, história, relações e aquilo que estamos vivendo agora. Uma explicação se forma dentro desse encontro e passa também a influenciá-lo.",
+        "Investigar o que sustenta uma certeza, o que ela organiza em nossa vida e o que pode ficar menos acessível quando tudo passa a ser compreendido por ela.",
+        "Acompanhar uma exploração em que possamos comparar a leitura da situação e a maneira como a vivemos. A investigação pode sustentar uma certeza, transformá-la ou mostrar que ainda falta informação."
+      ],
+      "sentido": "Ampliar discernimento e participação investigando a relação entre experiência, interpretação e convicção.",
+      "ponte": "Localizar o passo de hoje a partir do que já construímos nas duas primeiras aulas.",
+      "notes": "PARA COMEÇAR\n\nQuando alguma coisa nos acontece, o sentido pode chegar com tanta força que parece já estar decidido. Nesta aula, vamos investigar como uma interpretação ganha essa força e o que acontece quando procuramos conferi-la.\n\nIDEIAS PARA DESENVOLVER\n\n• Retomar a questão que atravessa o módulo: a experiência envolve corpo, história, relações e aquilo que estamos vivendo agora. Uma explicação se forma dentro desse encontro e passa também a influenciá-lo.\n\n• Investigar o que sustenta uma certeza, o que ela organiza em nossa vida e o que pode ficar menos acessível quando tudo passa a ser compreendido por ela.\n\n• Acompanhar uma exploração em que possamos comparar a leitura da situação e a maneira como a vivemos. A investigação pode sustentar uma certeza, transformá-la ou mostrar que ainda falta informação.\n\nO QUE ESTAMOS TRABALHANDO\n\nAmpliar discernimento e participação investigando a relação entre experiência, interpretação e convicção.\n\nPARA SEGUIR\n\nLocalizar o passo de hoje a partir do que já construímos nas duas primeiras aulas."
+    },
+    {
+      "number": 2,
+      "title": "O passo de hoje no percurso do M2",
+      "entrada": "Na M2.1, investigamos como se forma o que percebemos. Na M2.2, acompanhamos como algo ganha importância e encontra uma forma, e como procuramos elaborar essa experiência.",
+      "caminho": [
+        "Retomar os dois tempos da Tradução: algo se apresenta como sensação, afeto, imagem ou disposição; a elaboração consciente procura nomear, relacionar e compreender. Há uma conversa entre essas funções. Uma palavra pode ajudar a sentir melhor, e o vivido pode pedir outra palavra.",
+        "O passo de hoje é acompanhar quando essa conversa se fecha: a interpretação recebe nosso aval e começa a parecer a única explicação possível. O que sentimos confirma a leitura, e a leitura passa a organizar o que sentimos e percebemos.",
+        "Eu Básico e Eu Médio continuam como linguagem funcional já apresentada. O Eu Básico participa da forma sensível e das referências aprendidas; o Eu Médio interpreta, raciocina e escolhe. Vamos investigar como se relacionam nesta formação da certeza."
+      ],
+      "sentido": "Passar da relevância e da elaboração à formação da convicção, conservando a continuidade da Tradução.",
+      "ponte": "Acompanhar essa relação numa situação cotidiana, sem decidir antecipadamente o que ela significa.",
+      "notes": "PARA COMEÇAR\n\nNa M2.1, investigamos como se forma o que percebemos. Na M2.2, acompanhamos como algo ganha importância e encontra uma forma, e como procuramos elaborar essa experiência.\n\nIDEIAS PARA DESENVOLVER\n\n• Retomar os dois tempos da Tradução: algo se apresenta como sensação, afeto, imagem ou disposição; a elaboração consciente procura nomear, relacionar e compreender. Há uma conversa entre essas funções. Uma palavra pode ajudar a sentir melhor, e o vivido pode pedir outra palavra.\n\n• O passo de hoje é acompanhar quando essa conversa se fecha: a interpretação recebe nosso aval e começa a parecer a única explicação possível. O que sentimos confirma a leitura, e a leitura passa a organizar o que sentimos e percebemos.\n\n• Eu Básico e Eu Médio continuam como linguagem funcional já apresentada. O Eu Básico participa da forma sensível e das referências aprendidas; o Eu Médio interpreta, raciocina e escolhe. Vamos investigar como se relacionam nesta formação da certeza.\n\nO QUE ESTAMOS TRABALHANDO\n\nPassar da relevância e da elaboração à formação da convicção, conservando a continuidade da Tradução.\n\nPARA SEGUIR\n\nAcompanhar essa relação numa situação cotidiana, sem decidir antecipadamente o que ela significa."
+    },
+    {
+      "number": 3,
+      "title": "O que foi dito e o que já ficou decidido?",
+      "entrada": "Uma pessoa apresenta uma proposta de trabalho e escuta: “Precisamos conversar melhor sobre isso”. Ela sente um aperto, imagina que a proposta foi rejeitada e já pensa em desistir.",
+      "caminho": [
+        "Distinguir o que está disponível: houve uma frase, num encontro com tom, gestos, história e condições concretas. A pessoa viveu algo ao ouvi-la e formulou uma leitura: “Não gostaram”.",
+        "A proposta pode envolver renda, reconhecimento, uma criação própria ou a possibilidade de participar de algo importante. O aperto também precisa ser compreendido nessa relação com o que está em jogo.",
+        "A leitura pode ter fundamento. A pergunta inicial é como ela se formou, quais referências reuniu e o que ainda precisamos conhecer. A situação inclui o comportamento do outro e as relações de poder."
+      ],
+      "sentido": "Reconhecer a formação de uma experiência significativa e a conclusão que começa a orientar a participação.",
+      "ponte": "Examinar como o que foi sentido e a explicação podem passar a confirmar um ao outro.",
+      "notes": "PARA COMEÇAR\n\nUma pessoa apresenta uma proposta de trabalho e escuta: “Precisamos conversar melhor sobre isso”. Ela sente um aperto, imagina que a proposta foi rejeitada e já pensa em desistir.\n\nIDEIAS PARA DESENVOLVER\n\n• Distinguir o que está disponível: houve uma frase, num encontro com tom, gestos, história e condições concretas. A pessoa viveu algo ao ouvi-la e formulou uma leitura: “Não gostaram”.\n\n• A proposta pode envolver renda, reconhecimento, uma criação própria ou a possibilidade de participar de algo importante. O aperto também precisa ser compreendido nessa relação com o que está em jogo.\n\n• A leitura pode ter fundamento. A pergunta inicial é como ela se formou, quais referências reuniu e o que ainda precisamos conhecer. A situação inclui o comportamento do outro e as relações de poder.\n\nO QUE ESTAMOS TRABALHANDO\n\nReconhecer a formação de uma experiência significativa e a conclusão que começa a orientar a participação.\n\nPARA SEGUIR\n\nExaminar como o que foi sentido e a explicação podem passar a confirmar um ao outro."
+    },
+    {
+      "number": 4,
+      "title": "Quando o vivido e a explicação se confirmam",
+      "entrada": "Ao ouvir “Precisamos conversar melhor”, a pessoa sente um aperto e pensa “fui rejeitada”. Então o aperto pode parecer a prova de que houve rejeição, e a ideia de rejeição pode aumentar o aperto.",
+      "caminho": [
+        "Retomar a relação ensinada em M2.2: uma forma vivida oferece material à elaboração; a elaboração volta a participar da experiência. Sensação, imagem e explicação podem se reforçar num movimento circular.",
+        "Diferenciar as perguntas: “O que estou vivendo?” permite reconhecer o aperto, a vergonha ou a vontade de sair. “O que isso me permite concluir sobre o encontro?” exige examinar palavras, relação e contexto.",
+        "Quando sinto e interpreto na mesma direção, essa concordância pode trazer grande convicção. Ainda precisamos conhecer suas bases. A forma pode ser fiel ao encontro, trazer referências anteriores ou reunir as duas coisas."
+      ],
+      "sentido": "Tornar operantes os dois tempos da Tradução na formação da certeza e distinguir experiência de confirmação de uma interpretação.",
+      "ponte": "Investigar o que dá consistência a esse conjunto e o que pode estar sendo preservado por ele.",
+      "notes": "PARA COMEÇAR\n\nAo ouvir “Precisamos conversar melhor”, a pessoa sente um aperto e pensa “fui rejeitada”. Então o aperto pode parecer a prova de que houve rejeição, e a ideia de rejeição pode aumentar o aperto.\n\nIDEIAS PARA DESENVOLVER\n\n• Retomar a relação ensinada em M2.2: uma forma vivida oferece material à elaboração; a elaboração volta a participar da experiência. Sensação, imagem e explicação podem se reforçar num movimento circular.\n\n• Diferenciar as perguntas: “O que estou vivendo?” permite reconhecer o aperto, a vergonha ou a vontade de sair. “O que isso me permite concluir sobre o encontro?” exige examinar palavras, relação e contexto.\n\n• Quando sinto e interpreto na mesma direção, essa concordância pode trazer grande convicção. Ainda precisamos conhecer suas bases. A forma pode ser fiel ao encontro, trazer referências anteriores ou reunir as duas coisas.\n\nO QUE ESTAMOS TRABALHANDO\n\nTornar operantes os dois tempos da Tradução na formação da certeza e distinguir experiência de confirmação de uma interpretação.\n\nPARA SEGUIR\n\nInvestigar o que dá consistência a esse conjunto e o que pode estar sendo preservado por ele."
+    },
+    {
+      "number": 5,
+      "title": "O que dá força a uma leitura?",
+      "entrada": "Uma conclusão reúne o encontro de agora e aquilo que chega a ele com a pessoa. Sua força pode vir de uma história inteira, de um vínculo ou de algo importante que está procurando espaço.",
+      "caminho": [
+        "Uma experiência anterior de desqualificação pode tornar uma conversa ambígua ameaçadora. Cansaço, falta de apoio e dependência financeira mudam o que parece possível perceber, perguntar ou sustentar.",
+        "Às vezes a certeza protege uma imagem de si, um pertencimento ou uma decisão. Em outras situações, a pessoa está reconhecendo um limite real. Investigar inclui descobrir a função dessa leitura naquela vida.",
+        "Também há desejo e criação: talvez aquela proposta expresse algo que a pessoa quer desenvolver. Que possibilidade está procurando reconhecimento? O que uma leitura muito fechada permite proteger e o que pode deixar sem expressão?"
+      ],
+      "sentido": "Compreender a convicção em suas condições corporais, históricas, relacionais e de sentido, incluindo proteção e expressão.",
+      "ponte": "Olhar para o momento em que uma impressão recebe nosso aval e passa a orientar o exame.",
+      "notes": "PARA COMEÇAR\n\nUma conclusão reúne o encontro de agora e aquilo que chega a ele com a pessoa. Sua força pode vir de uma história inteira, de um vínculo ou de algo importante que está procurando espaço.\n\nIDEIAS PARA DESENVOLVER\n\n• Uma experiência anterior de desqualificação pode tornar uma conversa ambígua ameaçadora. Cansaço, falta de apoio e dependência financeira mudam o que parece possível perceber, perguntar ou sustentar.\n\n• Às vezes a certeza protege uma imagem de si, um pertencimento ou uma decisão. Em outras situações, a pessoa está reconhecendo um limite real. Investigar inclui descobrir a função dessa leitura naquela vida.\n\n• Também há desejo e criação: talvez aquela proposta expresse algo que a pessoa quer desenvolver. Que possibilidade está procurando reconhecimento? O que uma leitura muito fechada permite proteger e o que pode deixar sem expressão?\n\nO QUE ESTAMOS TRABALHANDO\n\nCompreender a convicção em suas condições corporais, históricas, relacionais e de sentido, incluindo proteção e expressão.\n\nPARA SEGUIR\n\nOlhar para o momento em que uma impressão recebe nosso aval e passa a orientar o exame."
+    },
+    {
+      "number": 6,
+      "title": "Da impressão ao aval da certeza",
+      "entrada": "Podemos começar a pensar quando uma conclusão já parece pronta. O pensamento então pode examinar essa impressão ou trabalhar para justificá-la.",
+      "caminho": [
+        "Kahneman ajuda a acompanhar essa passagem: impressões e associações chegam com facilidade; examinar suas bases pede outra disponibilidade de atenção. Uma impressão fluente pode receber nosso aval antes de conhecermos em que se apoia.",
+        "A rapidez também faz parte de capacidades desenvolvidas. Uma pessoa experiente reconhece diferenças que um iniciante ainda não percebe. A investigação procura as condições para confiar na impressão e os pontos que precisam de conferência.",
+        "Na situação da proposta, “senti rejeição” pode virar “sei que houve rejeição”. No mapa funcional já estudado, interessa como a elaboração consciente recebe o que a experiência traz. Kahneman ilumina o aval dado à impressão. O mapa dos Eus ajuda a acompanhar o diálogo entre a forma vivida e o trabalho de interpretar e escolher."
+      ],
+      "sentido": "Diferenciar a chegada de uma impressão, o aval que lhe damos e o trabalho de examinar sua sustentação.",
+      "ponte": "Acompanhar como a conclusão aceita passa a selecionar novas informações.",
+      "notes": "PARA COMEÇAR\n\nPodemos começar a pensar quando uma conclusão já parece pronta. O pensamento então pode examinar essa impressão ou trabalhar para justificá-la.\n\nIDEIAS PARA DESENVOLVER\n\n• Kahneman ajuda a acompanhar essa passagem: impressões e associações chegam com facilidade; examinar suas bases pede outra disponibilidade de atenção. Uma impressão fluente pode receber nosso aval antes de conhecermos em que se apoia.\n\n• A rapidez também faz parte de capacidades desenvolvidas. Uma pessoa experiente reconhece diferenças que um iniciante ainda não percebe. A investigação procura as condições para confiar na impressão e os pontos que precisam de conferência.\n\n• Na situação da proposta, “senti rejeição” pode virar “sei que houve rejeição”. No mapa funcional já estudado, interessa como a elaboração consciente recebe o que a experiência traz. Kahneman ilumina o aval dado à impressão. O mapa dos Eus ajuda a acompanhar o diálogo entre a forma vivida e o trabalho de interpretar e escolher.\n\nO QUE ESTAMOS TRABALHANDO\n\nDiferenciar a chegada de uma impressão, o aval que lhe damos e o trabalho de examinar sua sustentação.\n\nPARA SEGUIR\n\nAcompanhar como a conclusão aceita passa a selecionar novas informações."
+    },
+    {
+      "number": 7,
+      "title": "Quando só a confirmação ganha passagem",
+      "entrada": "A pessoa ouviu “Precisamos conversar melhor” e concluiu que sua proposta não tem valor. Depois disso, um silêncio parece confirmar a rejeição. Uma pergunta interessada pode virar mera educação.",
+      "caminho": [
+        "Esse é um modo de reconhecer o viés de confirmação: procurar, selecionar ou interpretar informações de maneira favorável ao que já acreditamos. A convicção orienta a busca, e a busca parece devolver mais convicção.",
+        "O movimento alcança o corpo e a relação: antecipar desqualificação pode mudar o tom de voz, diminuir a pergunta ou precipitar uma retirada. A outra pessoa responde a essa participação; precisamos acompanhar o encontro inteiro.",
+        "Perguntar “Que informação me faria rever isso?” cria uma abertura concreta. A mesma exigência vale para uma leitura alternativa ou mais agradável. Queremos ampliar o contato com a situação e com aquilo que ela pode nos mostrar."
+      ],
+      "sentido": "Reconhecer como uma interpretação participa da seleção de pistas e da própria interação, preservando possibilidade real de revisão.",
+      "ponte": "Examinar por que uma informação contrária pode ser recebida como ameaça, mesmo quando é clara.",
+      "notes": "PARA COMEÇAR\n\nA pessoa ouviu “Precisamos conversar melhor” e concluiu que sua proposta não tem valor. Depois disso, um silêncio parece confirmar a rejeição. Uma pergunta interessada pode virar mera educação.\n\nIDEIAS PARA DESENVOLVER\n\n• Esse é um modo de reconhecer o viés de confirmação: procurar, selecionar ou interpretar informações de maneira favorável ao que já acreditamos. A convicção orienta a busca, e a busca parece devolver mais convicção.\n\n• O movimento alcança o corpo e a relação: antecipar desqualificação pode mudar o tom de voz, diminuir a pergunta ou precipitar uma retirada. A outra pessoa responde a essa participação; precisamos acompanhar o encontro inteiro.\n\n• Perguntar “Que informação me faria rever isso?” cria uma abertura concreta. A mesma exigência vale para uma leitura alternativa ou mais agradável. Queremos ampliar o contato com a situação e com aquilo que ela pode nos mostrar.\n\nO QUE ESTAMOS TRABALHANDO\n\nReconhecer como uma interpretação participa da seleção de pistas e da própria interação, preservando possibilidade real de revisão.\n\nPARA SEGUIR\n\nExaminar por que uma informação contrária pode ser recebida como ameaça, mesmo quando é clara."
+    },
+    {
+      "number": 8,
+      "title": "O que seria difícil rever?",
+      "entrada": "Mudar de ideia pode pedir muito mais do que trocar uma frase. Uma convicção pode sustentar relações, decisões e o lugar que reconhecemos para nós mesmos.",
+      "caminho": [
+        "Se investi anos num projeto ou numa comunidade, reconhecer uma informação contrária pode mobilizar perda, vergonha, insegurança ou o receio de ficar sem referência. O custo da revisão faz parte da investigação.",
+        "Podemos encontrar uma explicação que nos ajude a compreender melhor. Também podemos produzir uma explicação que torne impossível questionar a certeza. Precisamos acompanhar o que ela passa a permitir e a impedir.",
+        "O caso estudado por Festinger oferece um contraste forte para enxergar esse movimento. Depois vamos voltar ao que isso ajuda a perceber em situações próximas da nossa vida."
+      ],
+      "sentido": "Reconhecer o vínculo entre convicção, investimento e pertencimento e preparar a compreensão da dissonância.",
+      "ponte": "Apresentar a sequência do caso: expectativa assumida, acontecimento e elaboração posterior.",
+      "notes": "PARA COMEÇAR\n\nMudar de ideia pode pedir muito mais do que trocar uma frase. Uma convicção pode sustentar relações, decisões e o lugar que reconhecemos para nós mesmos.\n\nIDEIAS PARA DESENVOLVER\n\n• Se investi anos num projeto ou numa comunidade, reconhecer uma informação contrária pode mobilizar perda, vergonha, insegurança ou o receio de ficar sem referência. O custo da revisão faz parte da investigação.\n\n• Podemos encontrar uma explicação que nos ajude a compreender melhor. Também podemos produzir uma explicação que torne impossível questionar a certeza. Precisamos acompanhar o que ela passa a permitir e a impedir.\n\n• O caso estudado por Festinger oferece um contraste forte para enxergar esse movimento. Depois vamos voltar ao que isso ajuda a perceber em situações próximas da nossa vida.\n\nO QUE ESTAMOS TRABALHANDO\n\nReconhecer o vínculo entre convicção, investimento e pertencimento e preparar a compreensão da dissonância.\n\nPARA SEGUIR\n\nApresentar a sequência do caso: expectativa assumida, acontecimento e elaboração posterior."
+    },
+    {
+      "number": 9,
+      "title": "Uma previsão falhou e a crença permaneceu",
+      "entrada": "Nos anos 1950, Leon Festinger e seus colegas acompanharam um grupo que esperava uma catástrofe e acreditava num resgate extraterrestre. A previsão estava ligada a compromissos pessoais e ao pertencimento ao grupo.",
+      "caminho": [
+        "Quando o acontecimento anunciado para dezembro de 1954 não ocorreu, parte do grupo sustentou uma nova explicação: sua dedicação teria contribuído para poupar o mundo. No relato dos pesquisadores, a divulgação da crença ganhou força entre alguns participantes.",
+        "Observar a mudança de função da informação: a ausência da catástrofe poderia questionar a previsão, mas entrou numa narrativa que preservava a importância da crença e do grupo.",
+        "A contribuição está em investigar o que acontece com informações contrárias quando há muito investimento envolvido. O caso permite esse exame; não precisamos tomá-lo como explicação de toda crença, grupo ou experiência espiritual."
+      ],
+      "sentido": "Compreender, numa sequência reconhecível, como a elaboração pode preservar uma convicção diante de informação contrária.",
+      "ponte": "Dar nome ao conflito entre a expectativa sustentada e o que passou a ser conhecido.",
+      "notes": "PARA COMEÇAR\n\nNos anos 1950, Leon Festinger e seus colegas acompanharam um grupo que esperava uma catástrofe e acreditava num resgate extraterrestre. A previsão estava ligada a compromissos pessoais e ao pertencimento ao grupo.\n\nIDEIAS PARA DESENVOLVER\n\n• Quando o acontecimento anunciado para dezembro de 1954 não ocorreu, parte do grupo sustentou uma nova explicação: sua dedicação teria contribuído para poupar o mundo. No relato dos pesquisadores, a divulgação da crença ganhou força entre alguns participantes.\n\n• Observar a mudança de função da informação: a ausência da catástrofe poderia questionar a previsão, mas entrou numa narrativa que preservava a importância da crença e do grupo.\n\n• A contribuição está em investigar o que acontece com informações contrárias quando há muito investimento envolvido. O caso permite esse exame; não precisamos tomá-lo como explicação de toda crença, grupo ou experiência espiritual.\n\nO QUE ESTAMOS TRABALHANDO\n\nCompreender, numa sequência reconhecível, como a elaboração pode preservar uma convicção diante de informação contrária.\n\nPARA SEGUIR\n\nDar nome ao conflito entre a expectativa sustentada e o que passou a ser conhecido."
+    },
+    {
+      "number": 10,
+      "title": "Dissonância: quando algo importante não combina",
+      "entrada": "Festinger chamou de dissonância cognitiva o desconforto associado a conhecimentos, crenças ou ações que entram em conflito. “Cognitiva” inclui aquilo que a pessoa sabe ou acredita sobre si e o mundo.",
+      "caminho": [
+        "No caso histórico, a pessoa sustentava a previsão e precisava lidar com o conhecimento de que o acontecimento não ocorrera. No cotidiano, posso valorizar o diálogo e reconhecer que estou evitando uma conversa necessária.",
+        "Identificar os elementos do conflito ajuda a dar forma à experiência. O desconforto pode reunir medo de perder um vínculo, necessidade de rever uma decisão e dificuldade de reconhecer a própria participação.",
+        "Na Tradução, procuramos compreender o que está sendo vivido e o que a elaboração faz com isso. A dissonância ilumina um tipo de relação entre esses elementos; nem toda tensão ou ambivalência recebe esse nome."
+      ],
+      "sentido": "Ensinar o conflito específico da dissonância e relacioná-lo à elaboração de uma experiência significativa.",
+      "ponte": "Diferenciar maneiras de reduzir esse desconforto e o que cada uma deixa disponível para aprender.",
+      "notes": "PARA COMEÇAR\n\nFestinger chamou de dissonância cognitiva o desconforto associado a conhecimentos, crenças ou ações que entram em conflito. “Cognitiva” inclui aquilo que a pessoa sabe ou acredita sobre si e o mundo.\n\nIDEIAS PARA DESENVOLVER\n\n• No caso histórico, a pessoa sustentava a previsão e precisava lidar com o conhecimento de que o acontecimento não ocorrera. No cotidiano, posso valorizar o diálogo e reconhecer que estou evitando uma conversa necessária.\n\n• Identificar os elementos do conflito ajuda a dar forma à experiência. O desconforto pode reunir medo de perder um vínculo, necessidade de rever uma decisão e dificuldade de reconhecer a própria participação.\n\n• Na Tradução, procuramos compreender o que está sendo vivido e o que a elaboração faz com isso. A dissonância ilumina um tipo de relação entre esses elementos; nem toda tensão ou ambivalência recebe esse nome.\n\nO QUE ESTAMOS TRABALHANDO\n\nEnsinar o conflito específico da dissonância e relacioná-lo à elaboração de uma experiência significativa.\n\nPARA SEGUIR\n\nDiferenciar maneiras de reduzir esse desconforto e o que cada uma deixa disponível para aprender."
+    },
+    {
+      "number": 11,
+      "title": "Como procuramos reduzir esse conflito?",
+      "entrada": "Quando algo importante não combina, procuramos alguma reorganização. O alívio pode chegar por caminhos que ampliam nossa participação ou que conservam a leitura sem novo exame.",
+      "caminho": [
+        "Mudar uma crença ou uma ação: reconhecer que uma previsão falhou, rever uma decisão ou iniciar a conversa que estava evitando. A revisão pode exigir apoio e tempo para lidar com suas consequências.",
+        "Acrescentar explicações: uma informação nova pode esclarecer o conflito. Uma justificativa também pode proteger a certeza. Conferir se ela aceita ser examinada e se muda quando os dados mudam.",
+        "Diminuir a importância do conflito: algo pode ser realmente secundário. Podemos também desconsiderar um dado que exigiria mudança. O alívio, sozinho, ainda não mostra o que aconteceu com a compreensão e a responsabilidade."
+      ],
+      "sentido": "Relacionar elaboração, alívio e consequências para o contato com a situação, sem transformar desconforto em sinal obrigatório de erro.",
+      "ponte": "Acompanhar o que acontece quando essa leitura passa a ocupar quase todo o campo da experiência.",
+      "notes": "PARA COMEÇAR\n\nQuando algo importante não combina, procuramos alguma reorganização. O alívio pode chegar por caminhos que ampliam nossa participação ou que conservam a leitura sem novo exame.\n\nIDEIAS PARA DESENVOLVER\n\n• Mudar uma crença ou uma ação: reconhecer que uma previsão falhou, rever uma decisão ou iniciar a conversa que estava evitando. A revisão pode exigir apoio e tempo para lidar com suas consequências.\n\n• Acrescentar explicações: uma informação nova pode esclarecer o conflito. Uma justificativa também pode proteger a certeza. Conferir se ela aceita ser examinada e se muda quando os dados mudam.\n\n• Diminuir a importância do conflito: algo pode ser realmente secundário. Podemos também desconsiderar um dado que exigiria mudança. O alívio, sozinho, ainda não mostra o que aconteceu com a compreensão e a responsabilidade.\n\nO QUE ESTAMOS TRABALHANDO\n\nRelacionar elaboração, alívio e consequências para o contato com a situação, sem transformar desconforto em sinal obrigatório de erro.\n\nPARA SEGUIR\n\nAcompanhar o que acontece quando essa leitura passa a ocupar quase todo o campo da experiência."
+    },
+    {
+      "number": 12,
+      "title": "Quando uma leitura ocupa o campo inteiro",
+      "entrada": "A pessoa que ouviu “Precisamos conversar melhor” pode passar o dia revendo uma rejeição que ainda não foi esclarecida. A cena se repete por dentro e passa a organizar o presente.",
+      "caminho": [
+        "A absorção reúne atenção, imagens, sensações e expectativas numa mesma direção. Outras referências continuam existindo, mas ficam menos acessíveis. Uma conversa real vai dando lugar à conversa ensaiada internamente.",
+        "No TSH, a perspectiva do transe cotidiano ajuda a reconhecer esse envolvimento. Absorção também participa da criação, da música e da contemplação. Aqui interessa o grau de liberdade para transitar e recuperar o que a situação pede.",
+        "A pergunta passa a incluir o modo de estar na experiência: o que consigo perceber além dessa cena? De que condição preciso para investigar sem ser imediatamente levado de volta à mesma conclusão?"
+      ],
+      "sentido": "Reconhecer a relação entre absorção e disponibilidade de referências, ampliando a investigação para além da correção verbal.",
+      "ponte": "Explorar o que Erickson acrescenta ao modo de encontrar uma passagem a partir da experiência atual.",
+      "notes": "PARA COMEÇAR\n\nA pessoa que ouviu “Precisamos conversar melhor” pode passar o dia revendo uma rejeição que ainda não foi esclarecida. A cena se repete por dentro e passa a organizar o presente.\n\nIDEIAS PARA DESENVOLVER\n\n• A absorção reúne atenção, imagens, sensações e expectativas numa mesma direção. Outras referências continuam existindo, mas ficam menos acessíveis. Uma conversa real vai dando lugar à conversa ensaiada internamente.\n\n• No TSH, a perspectiva do transe cotidiano ajuda a reconhecer esse envolvimento. Absorção também participa da criação, da música e da contemplação. Aqui interessa o grau de liberdade para transitar e recuperar o que a situação pede.\n\n• A pergunta passa a incluir o modo de estar na experiência: o que consigo perceber além dessa cena? De que condição preciso para investigar sem ser imediatamente levado de volta à mesma conclusão?\n\nO QUE ESTAMOS TRABALHANDO\n\nReconhecer a relação entre absorção e disponibilidade de referências, ampliando a investigação para além da correção verbal.\n\nPARA SEGUIR\n\nExplorar o que Erickson acrescenta ao modo de encontrar uma passagem a partir da experiência atual."
+    },
+    {
+      "number": 13,
+      "title": "Erickson e as possibilidades da experiência atual",
+      "entrada": "Uma contribuição de Milton Erickson é trabalhar com o modo como a pessoa já está vivendo: suas associações, interesses, recursos e maneiras de prestar atenção. Encontrar uma passagem começa por conhecer esse ponto de partida.",
+      "caminho": [
+        "Na situação da proposta, a importância de ser levado a sério pode abrir uma pergunta: “O que você precisaria compreender nessa conversa para decidir o próximo passo?”. Algo que sustentava o fechamento pode também participar da investigação.",
+        "Uma pergunta, uma mudança de perspectiva ou uma metáfora pertinente pode permitir outra relação com a experiência. O sentido se constrói com a pessoa; sua resposta pode corrigir a direção que oferecemos.",
+        "Na aula, essa contribuição orienta a condução: acompanhar o que ficou significativo, oferecer uma possibilidade que possa ser experimentada e conferir o efeito. O retorno nasce dessa relação com a questão e com os recursos disponíveis."
+      ],
+      "sentido": "Tornar concreta a contribuição ericksoniana para a abertura de possibilidades e a participação do aluno na investigação.",
+      "ponte": "Usar a imagem do espelho para reconhecer o lugar das referências anteriores no encontro atual.",
+      "notes": "PARA COMEÇAR\n\nUma contribuição de Milton Erickson é trabalhar com o modo como a pessoa já está vivendo: suas associações, interesses, recursos e maneiras de prestar atenção. Encontrar uma passagem começa por conhecer esse ponto de partida.\n\nIDEIAS PARA DESENVOLVER\n\n• Na situação da proposta, a importância de ser levado a sério pode abrir uma pergunta: “O que você precisaria compreender nessa conversa para decidir o próximo passo?”. Algo que sustentava o fechamento pode também participar da investigação.\n\n• Uma pergunta, uma mudança de perspectiva ou uma metáfora pertinente pode permitir outra relação com a experiência. O sentido se constrói com a pessoa; sua resposta pode corrigir a direção que oferecemos.\n\n• Na aula, essa contribuição orienta a condução: acompanhar o que ficou significativo, oferecer uma possibilidade que possa ser experimentada e conferir o efeito. O retorno nasce dessa relação com a questão e com os recursos disponíveis.\n\nO QUE ESTAMOS TRABALHANDO\n\nTornar concreta a contribuição ericksoniana para a abertura de possibilidades e a participação do aluno na investigação.\n\nPARA SEGUIR\n\nUsar a imagem do espelho para reconhecer o lugar das referências anteriores no encontro atual."
+    },
+    {
+      "number": 14,
+      "title": "O passado como espelho do presente",
+      "entrada": "Um dos sentidos do espelho no TSH é reconhecer o quanto o encontro de agora pode nos devolver referências anteriores. Olhamos para alguém e uma maneira conhecida de nos sentir já está ali.",
+      "caminho": [
+        "Na conversa sobre a proposta, uma história de desqualificação pode participar da imagem de rejeição antes que a pessoa conheça o que o outro quer discutir. A memória oferece uma referência para compreender; precisamos conferir como ela se relaciona com este encontro.",
+        "A metáfora ajuda a perguntar o que reconheço do passado, o que pertence às condições atuais e o que ainda pode me surpreender. A situação presente pode confirmar uma percepção, mostrar diferenças ou trazer algo novo.",
+        "O retorno com aquisição, desenvolvido nos mapas do TSH, inclui essa diferença: reencontrar a questão levando alguma coisa aprendida na investigação. Uma lembrança ou um conceito só ganha essa função quando muda o que consigo perceber, distinguir ou fazer."
+      ],
+      "sentido": "Articular memória, interpretação e retorno com aprendizagem, recuperando uma metáfora autoral sem impor um significado à experiência.",
+      "ponte": "Reunir as contribuições em perguntas distintas que possam orientar a exploração.",
+      "notes": "PARA COMEÇAR\n\nUm dos sentidos do espelho no TSH é reconhecer o quanto o encontro de agora pode nos devolver referências anteriores. Olhamos para alguém e uma maneira conhecida de nos sentir já está ali.\n\nIDEIAS PARA DESENVOLVER\n\n• Na conversa sobre a proposta, uma história de desqualificação pode participar da imagem de rejeição antes que a pessoa conheça o que o outro quer discutir. A memória oferece uma referência para compreender; precisamos conferir como ela se relaciona com este encontro.\n\n• A metáfora ajuda a perguntar o que reconheço do passado, o que pertence às condições atuais e o que ainda pode me surpreender. A situação presente pode confirmar uma percepção, mostrar diferenças ou trazer algo novo.\n\n• O retorno com aquisição, desenvolvido nos mapas do TSH, inclui essa diferença: reencontrar a questão levando alguma coisa aprendida na investigação. Uma lembrança ou um conceito só ganha essa função quando muda o que consigo perceber, distinguir ou fazer.\n\nO QUE ESTAMOS TRABALHANDO\n\nArticular memória, interpretação e retorno com aprendizagem, recuperando uma metáfora autoral sem impor um significado à experiência.\n\nPARA SEGUIR\n\nReunir as contribuições em perguntas distintas que possam orientar a exploração."
+    },
+    {
+      "number": 15,
+      "title": "O que sustenta esta certeza?",
+      "entrada": "As contribuições que estudamos permitem perguntas diferentes sobre a mesma experiência. Vamos escolher as que de fato ajudam a compreender a questão.",
+      "caminho": [
+        "Confirmação: quais informações ganham passagem e quais são descartadas? Dissonância: o que entra em conflito e o que seria difícil rever? Absorção: quanto essa leitura ocupa o campo e que referências ficaram menos acessíveis?",
+        "Retomar o fio que as reúne no TSH: como a forma vivida e a explicação se relacionam, o que essa relação sustenta e o que a investigação pode tornar acessível. Uma palavra nova precisa voltar à experiência para ser conferida.",
+        "A pergunta alcança a vida da pessoa: o que está procurando cuidado, reconhecimento ou expressão? A dimensão existencial ou espiritual pode aparecer com seu sentido próprio, sem ser presumida nem encerrada por um conceito psicológico."
+      ],
+      "sentido": "Integrar as contribuições à Tradução, preservando suas diferenças e a multidimensionalidade da questão.",
+      "ponte": "Levar essa compreensão ao mapa de retorno e à investigação que faremos agora.",
+      "notes": "PARA COMEÇAR\n\nAs contribuições que estudamos permitem perguntas diferentes sobre a mesma experiência. Vamos escolher as que de fato ajudam a compreender a questão.\n\nIDEIAS PARA DESENVOLVER\n\n• Confirmação: quais informações ganham passagem e quais são descartadas? Dissonância: o que entra em conflito e o que seria difícil rever? Absorção: quanto essa leitura ocupa o campo e que referências ficaram menos acessíveis?\n\n• Retomar o fio que as reúne no TSH: como a forma vivida e a explicação se relacionam, o que essa relação sustenta e o que a investigação pode tornar acessível. Uma palavra nova precisa voltar à experiência para ser conferida.\n\n• A pergunta alcança a vida da pessoa: o que está procurando cuidado, reconhecimento ou expressão? A dimensão existencial ou espiritual pode aparecer com seu sentido próprio, sem ser presumida nem encerrada por um conceito psicológico.\n\nO QUE ESTAMOS TRABALHANDO\n\nIntegrar as contribuições à Tradução, preservando suas diferenças e a multidimensionalidade da questão.\n\nPARA SEGUIR\n\nLevar essa compreensão ao mapa de retorno e à investigação que faremos agora."
+    },
+    {
+      "number": 16,
+      "title": "Retornar para ampliar a investigação",
+      "entrada": "Vamos retomar o mapa de desenvolvimento do retorno do TSH. O retorno oferece condições para investigar a questão e aprender com aquilo que o encontro revela.",
+      "caminho": [
+        "Perceber: reconhecer como a leitura está organizando a experiência. Recuperar: retomar presença e outras referências para acompanhá-la. Diferenciar: distinguir acontecimento, forma vivida, associações e conclusão.",
+        "Orientar: escolher uma pergunta, ação, apoio ou limite que responda ao que foi reconhecido. Aprender: voltar ao vivido e aos efeitos dessa participação para descobrir o que se transformou e o que permanece.",
+        "O desenho é aberto. Algo encontrado no caminho pode mudar a pergunta inicial; podemos precisar recuperar presença de novo. O aprendizado acompanha essa circulação, com suas condições e seu tempo."
+      ],
+      "sentido": "Usar o mapa autoral para organizar uma investigação recursiva com orientação e aquisição.",
+      "ponte": "Escolher uma situação que permita reconhecer uma certeza e acompanhar suas bases agora.",
+      "notes": "PARA COMEÇAR\n\nVamos retomar o mapa de desenvolvimento do retorno do TSH. O retorno oferece condições para investigar a questão e aprender com aquilo que o encontro revela.\n\nIDEIAS PARA DESENVOLVER\n\n• Perceber: reconhecer como a leitura está organizando a experiência. Recuperar: retomar presença e outras referências para acompanhá-la. Diferenciar: distinguir acontecimento, forma vivida, associações e conclusão.\n\n• Orientar: escolher uma pergunta, ação, apoio ou limite que responda ao que foi reconhecido. Aprender: voltar ao vivido e aos efeitos dessa participação para descobrir o que se transformou e o que permanece.\n\n• O desenho é aberto. Algo encontrado no caminho pode mudar a pergunta inicial; podemos precisar recuperar presença de novo. O aprendizado acompanha essa circulação, com suas condições e seu tempo.\n\nO QUE ESTAMOS TRABALHANDO\n\nUsar o mapa autoral para organizar uma investigação recursiva com orientação e aquisição.\n\nPARA SEGUIR\n\nEscolher uma situação que permita reconhecer uma certeza e acompanhar suas bases agora."
+    },
+    {
+      "number": 17,
+      "title": "Uma certeza possível de investigar agora",
+      "entrada": "Você pode retomar a questão da sua Cartografia ou escolher uma situação em que uma conclusão ficou muito firme. Procure algo significativo que consiga acompanhar neste momento.",
+      "caminho": [
+        "Reponha brevemente o encontro: o que aconteceu, quem participava, o que estava em jogo e a frase que resume sua leitura. Pode começar por “Aconteceu isto e concluí que...”.",
+        "Dê uma forma breve ao que está vivendo: palavras, uma imagem, um desenho ou um gesto podem ajudar. Escolha a linguagem que faz sentido para você e guarde esse primeiro registro para comparar depois.",
+        "Você pode acompanhar com os olhos abertos, escrever ou usar o exemplo da proposta de trabalho. Se a situação estiver intensa demais, escolha outra ou interrompa. Reserve um lugar em que possa dedicar atenção à exploração."
+      ],
+      "sentido": "Definir uma questão viva e preservar uma forma inicial que permita acompanhar a investigação e comparar seus efeitos.",
+      "ponte": "Investigar como essa certeza se constitui, antes de procurar modificá-la.",
+      "notes": "PARA COMEÇAR\n\nVocê pode retomar a questão da sua Cartografia ou escolher uma situação em que uma conclusão ficou muito firme. Procure algo significativo que consiga acompanhar neste momento.\n\nIDEIAS PARA DESENVOLVER\n\n• Reponha brevemente o encontro: o que aconteceu, quem participava, o que estava em jogo e a frase que resume sua leitura. Pode começar por “Aconteceu isto e concluí que...”.\n\n• Dê uma forma breve ao que está vivendo: palavras, uma imagem, um desenho ou um gesto podem ajudar. Escolha a linguagem que faz sentido para você e guarde esse primeiro registro para comparar depois.\n\n• Você pode acompanhar com os olhos abertos, escrever ou usar o exemplo da proposta de trabalho. Se a situação estiver intensa demais, escolha outra ou interrompa. Reserve um lugar em que possa dedicar atenção à exploração.\n\nO QUE ESTAMOS TRABALHANDO\n\nDefinir uma questão viva e preservar uma forma inicial que permita acompanhar a investigação e comparar seus efeitos.\n\nPARA SEGUIR\n\nInvestigar como essa certeza se constitui, antes de procurar modificá-la."
+    },
+    {
+      "number": 18,
+      "title": "O que sua certeza está reunindo?",
+      "entrada": "Volte ao primeiro registro e reconheça como a situação se apresenta. Podemos começar compreendendo esse conjunto, sem exigir outra leitura.",
+      "caminho": [
+        "O que aconteceu e pode ser descrito? O que aparece no corpo, nos afetos, na imagem ou no impulso de agir? Que lembrança ou referência veio junto? Que palavras procuram explicar isso?",
+        "Investigue a relação: algo que sente está funcionando como confirmação do que concluiu? A interpretação intensifica ou modifica o que sente? Há um dado do encontro que ainda não encontrou lugar nessa explicação?",
+        "Pergunte o que está em jogo se essa conclusão mudar: uma proteção, um vínculo, um valor, uma possibilidade de expressão? Acompanhe o que realmente aparece. Sua experiência pode pedir uma pergunta diferente das que foram oferecidas."
+      ],
+      "sentido": "Reconhecer a organização entre forma vivida, elaboração e convicção, incluindo apoios e sentidos da certeza.",
+      "ponte": "Retomar outras referências sem perder a questão que estamos investigando.",
+      "notes": "PARA COMEÇAR\n\nVolte ao primeiro registro e reconheça como a situação se apresenta. Podemos começar compreendendo esse conjunto, sem exigir outra leitura.\n\nIDEIAS PARA DESENVOLVER\n\n• O que aconteceu e pode ser descrito? O que aparece no corpo, nos afetos, na imagem ou no impulso de agir? Que lembrança ou referência veio junto? Que palavras procuram explicar isso?\n\n• Investigue a relação: algo que sente está funcionando como confirmação do que concluiu? A interpretação intensifica ou modifica o que sente? Há um dado do encontro que ainda não encontrou lugar nessa explicação?\n\n• Pergunte o que está em jogo se essa conclusão mudar: uma proteção, um vínculo, um valor, uma possibilidade de expressão? Acompanhe o que realmente aparece. Sua experiência pode pedir uma pergunta diferente das que foram oferecidas.\n\nO QUE ESTAMOS TRABALHANDO\n\nReconhecer a organização entre forma vivida, elaboração e convicção, incluindo apoios e sentidos da certeza.\n\nPARA SEGUIR\n\nRetomar outras referências sem perder a questão que estamos investigando."
+    },
+    {
+      "number": 19,
+      "title": "Retomar o campo e conservar a questão",
+      "entrada": "Deixe a questão por um momento em segundo plano, sem precisar resolvê-la. Reconheça o corpo no lugar em que está e deixe o olhar alcançar o ambiente.",
+      "caminho": [
+        "Perceba apoios, sons, distâncias e algum movimento que ajude a reconhecer este momento. Dê tempo para notar como está agora. Você pode ajustar a postura e deixar a respiração acontecer, sem exigir um estado particular.",
+        "Volte à questão mantendo contato também com o lugar de onde a examina. O que se tornou perceptível? Alguma associação, imagem ou possibilidade apareceu? A certeza conserva a mesma força?",
+        "Acompanhe essa alternância entre a questão e um campo mais amplo. Se continuar tomado pela situação, é possível encerrar ou escolher um apoio. Recuperar referências prepara a investigação; o que você conclui ainda precisa encontrar sustentação no encontro."
+      ],
+      "sentido": "Investigar como a disponibilidade corporal e atencional participa do acesso a referências e da força da convicção.",
+      "ponte": "Escolher uma pergunta que possa trazer uma informação ainda desconhecida.",
+      "notes": "PARA COMEÇAR\n\nDeixe a questão por um momento em segundo plano, sem precisar resolvê-la. Reconheça o corpo no lugar em que está e deixe o olhar alcançar o ambiente.\n\nIDEIAS PARA DESENVOLVER\n\n• Perceba apoios, sons, distâncias e algum movimento que ajude a reconhecer este momento. Dê tempo para notar como está agora. Você pode ajustar a postura e deixar a respiração acontecer, sem exigir um estado particular.\n\n• Volte à questão mantendo contato também com o lugar de onde a examina. O que se tornou perceptível? Alguma associação, imagem ou possibilidade apareceu? A certeza conserva a mesma força?\n\n• Acompanhe essa alternância entre a questão e um campo mais amplo. Se continuar tomado pela situação, é possível encerrar ou escolher um apoio. Recuperar referências prepara a investigação; o que você conclui ainda precisa encontrar sustentação no encontro.\n\nO QUE ESTAMOS TRABALHANDO\n\nInvestigar como a disponibilidade corporal e atencional participa do acesso a referências e da força da convicção.\n\nPARA SEGUIR\n\nEscolher uma pergunta que possa trazer uma informação ainda desconhecida."
+    },
+    {
+      "number": 20,
+      "title": "Uma pergunta que aceita surpresa",
+      "entrada": "Na situação da proposta, perguntar “Vocês não gostaram, não é?” já carrega a conclusão de rejeição. Perguntar “O que precisa ser revisto?” permite descobrir algo que ainda não conhecemos.",
+      "caminho": [
+        "Na sua questão, que informação poderia confirmar, modificar ou deixar em aberto a leitura? Ela pode estar num acordo, numa ação observável, numa conversa ou numa condição da relação que precisa ser reconhecida.",
+        "Formule uma pergunta que aceite uma resposta diferente da esperada. Se depender de outra pessoa ou de algo que ainda não pode consultar, registre como buscará essa informação. Uma resposta apenas imaginada continua sendo parte de sua elaboração.",
+        "Conserve a dimensão pessoal da pergunta: o que precisa compreender para participar de um modo mais fiel ao que importa para você? Às vezes a investigação revela um ajuste; em outras, um limite ou a necessidade de apoio."
+      ],
+      "sentido": "Abrir a elaboração à informação e à resposta do encontro, articulando discernimento e direção da participação.",
+      "ponte": "Comparar o que a investigação já alterou na leitura e no modo de viver a situação.",
+      "notes": "PARA COMEÇAR\n\nNa situação da proposta, perguntar “Vocês não gostaram, não é?” já carrega a conclusão de rejeição. Perguntar “O que precisa ser revisto?” permite descobrir algo que ainda não conhecemos.\n\nIDEIAS PARA DESENVOLVER\n\n• Na sua questão, que informação poderia confirmar, modificar ou deixar em aberto a leitura? Ela pode estar num acordo, numa ação observável, numa conversa ou numa condição da relação que precisa ser reconhecida.\n\n• Formule uma pergunta que aceite uma resposta diferente da esperada. Se depender de outra pessoa ou de algo que ainda não pode consultar, registre como buscará essa informação. Uma resposta apenas imaginada continua sendo parte de sua elaboração.\n\n• Conserve a dimensão pessoal da pergunta: o que precisa compreender para participar de um modo mais fiel ao que importa para você? Às vezes a investigação revela um ajuste; em outras, um limite ou a necessidade de apoio.\n\nO QUE ESTAMOS TRABALHANDO\n\nAbrir a elaboração à informação e à resposta do encontro, articulando discernimento e direção da participação.\n\nPARA SEGUIR\n\nComparar o que a investigação já alterou na leitura e no modo de viver a situação."
+    },
+    {
+      "number": 21,
+      "title": "O que mudou na leitura e no vivido?",
+      "entrada": "Volte ao registro inicial. Compare a conclusão que formulou e a maneira como a situação está sendo vivida agora. Esses dois aspectos podem mudar de formas diferentes.",
+      "caminho": [
+        "Na leitura: o que está mais bem sustentado? O que foi revisto? O que continua desconhecido? A informação obtida agora precisa ser diferenciada daquela que ainda será buscada.",
+        "No vivido: como estão a sensação, o afeto, a imagem e a expectativa de participar? Você pode ter revisto a conclusão e continuar sentindo o mesmo aperto. Pode também viver a situação de outra maneira e ainda precisar conferir sua explicação.",
+        "Se uma palavra, desenho ou gesto ajudou no começo, confira o que ele representa agora e ajuste se fizer sentido. Guarde a diferença encontrada, inclusive quando ela for discreta ou ainda não estiver clara. Para concluir, reconheça o ambiente, movimente-se e confira sua disponibilidade para continuar o dia."
+      ],
+      "sentido": "Diferenciar revisão interpretativa e transformação da experiência, elaborar os efeitos e encerrar com retorno explícito.",
+      "ponte": "Examinar o que essa diferença permite orientar na vida e o que ainda pede desenvolvimento.",
+      "notes": "PARA COMEÇAR\n\nVolte ao registro inicial. Compare a conclusão que formulou e a maneira como a situação está sendo vivida agora. Esses dois aspectos podem mudar de formas diferentes.\n\nIDEIAS PARA DESENVOLVER\n\n• Na leitura: o que está mais bem sustentado? O que foi revisto? O que continua desconhecido? A informação obtida agora precisa ser diferenciada daquela que ainda será buscada.\n\n• No vivido: como estão a sensação, o afeto, a imagem e a expectativa de participar? Você pode ter revisto a conclusão e continuar sentindo o mesmo aperto. Pode também viver a situação de outra maneira e ainda precisar conferir sua explicação.\n\n• Se uma palavra, desenho ou gesto ajudou no começo, confira o que ele representa agora e ajuste se fizer sentido. Guarde a diferença encontrada, inclusive quando ela for discreta ou ainda não estiver clara. Para concluir, reconheça o ambiente, movimente-se e confira sua disponibilidade para continuar o dia.\n\nO QUE ESTAMOS TRABALHANDO\n\nDiferenciar revisão interpretativa e transformação da experiência, elaborar os efeitos e encerrar com retorno explícito.\n\nPARA SEGUIR\n\nExaminar o que essa diferença permite orientar na vida e o que ainda pede desenvolvimento."
+    },
+    {
+      "number": 22,
+      "title": "Clareza, acesso e possibilidade de expressão",
+      "entrada": "Depois de investigar uma certeza, podemos reconhecer melhor o que está acontecendo e, ainda assim, encontrar dificuldade para participar de outro modo. Essa diferença também traz informação.",
+      "caminho": [
+        "Se a proposta de trabalho foi rejeitada, o discernimento pode ajudar a conhecer os motivos e sustentar um limite. Se havia um pedido de ajuste, pode permitir retomar uma criação que a pessoa já estava abandonando. A resposta depende do encontro efetivo.",
+        "Retomar três situações do TSH: algo ainda precisa ser reconhecido; algo já é compreendido, mas está pouco acessível; ou uma possibilidade foi reconhecida e ainda precisa de cultivo. Cada situação pede um trabalho diferente.",
+        "O horizonte do TSH é favorecer o reconhecimento, a integração e a expressão das possibilidades da Essência nas condições da singularidade. Aqui isso ganha uma pergunta concreta: que possibilidade de ser e participar encontra espaço com essa compreensão, e que apoio, aprendizagem ou mudança de condição ainda será necessário?"
+      ],
+      "sentido": "Relacionar discernimento ao horizonte formativo do TSH e distinguir compreender, acessar e desenvolver uma possibilidade.",
+      "ponte": "Registrar a aquisição e o que permanece aberto para continuar a investigação.",
+      "notes": "PARA COMEÇAR\n\nDepois de investigar uma certeza, podemos reconhecer melhor o que está acontecendo e, ainda assim, encontrar dificuldade para participar de outro modo. Essa diferença também traz informação.\n\nIDEIAS PARA DESENVOLVER\n\n• Se a proposta de trabalho foi rejeitada, o discernimento pode ajudar a conhecer os motivos e sustentar um limite. Se havia um pedido de ajuste, pode permitir retomar uma criação que a pessoa já estava abandonando. A resposta depende do encontro efetivo.\n\n• Retomar três situações do TSH: algo ainda precisa ser reconhecido; algo já é compreendido, mas está pouco acessível; ou uma possibilidade foi reconhecida e ainda precisa de cultivo. Cada situação pede um trabalho diferente.\n\n• O horizonte do TSH é favorecer o reconhecimento, a integração e a expressão das possibilidades da Essência nas condições da singularidade. Aqui isso ganha uma pergunta concreta: que possibilidade de ser e participar encontra espaço com essa compreensão, e que apoio, aprendizagem ou mudança de condição ainda será necessário?\n\nO QUE ESTAMOS TRABALHANDO\n\nRelacionar discernimento ao horizonte formativo do TSH e distinguir compreender, acessar e desenvolver uma possibilidade.\n\nPARA SEGUIR\n\nRegistrar a aquisição e o que permanece aberto para continuar a investigação."
+    },
+    {
+      "number": 23,
+      "title": "Cartografia: registrar o que a investigação acrescentou",
+      "entrada": "Vamos manter os quatro campos da Cartografia para que seja possível acompanhar a mesma questão ao longo do módulo. O registro guarda a transformação da compreensão e sua relação com a vida.",
+      "caminho": [
+        "Situação: acontecimento e contexto, incluindo o que está em jogo. Manifestação: o vivido, suas formas e as diferenças reconhecidas durante a investigação. Conserve o primeiro registro para comparação.",
+        "Tradução provisória: o que compreende agora, em que se apoia e o que ainda precisa conferir. Inclua quando a explicação mudou e a vivência continuou semelhante, ou o contrário.",
+        "Orientação possível: uma pergunta, ação, limite, apoio ou condição a cultivar. Depois de buscar a informação ou participar da situação real, retorne ao registro. O encontro pode acrescentar algo que não era possível produzir aqui."
+      ],
+      "sentido": "Preservar a aquisição e construir continuidade entre investigação, participação e revisão da Tradução.",
+      "ponte": "Fechar a aula com a distinção aprendida e a pergunta que será aprofundada na M2.4.",
+      "notes": "PARA COMEÇAR\n\nVamos manter os quatro campos da Cartografia para que seja possível acompanhar a mesma questão ao longo do módulo. O registro guarda a transformação da compreensão e sua relação com a vida.\n\nIDEIAS PARA DESENVOLVER\n\n• Situação: acontecimento e contexto, incluindo o que está em jogo. Manifestação: o vivido, suas formas e as diferenças reconhecidas durante a investigação. Conserve o primeiro registro para comparação.\n\n• Tradução provisória: o que compreende agora, em que se apoia e o que ainda precisa conferir. Inclua quando a explicação mudou e a vivência continuou semelhante, ou o contrário.\n\n• Orientação possível: uma pergunta, ação, limite, apoio ou condição a cultivar. Depois de buscar a informação ou participar da situação real, retorne ao registro. O encontro pode acrescentar algo que não era possível produzir aqui.\n\nO QUE ESTAMOS TRABALHANDO\n\nPreservar a aquisição e construir continuidade entre investigação, participação e revisão da Tradução.\n\nPARA SEGUIR\n\nFechar a aula com a distinção aprendida e a pergunta que será aprofundada na M2.4."
+    },
+    {
+      "number": 24,
+      "title": "Rever a certeza e acompanhar o que permanece",
+      "entrada": "Hoje investigamos como uma forma vivida e sua explicação ganham força de certeza, como essa certeza se sustenta e o que pode se tornar acessível quando recuperamos outras referências.",
+      "caminho": [
+        "O aprendizado inclui reconhecer o fechamento, conferir suas bases e diferenciar o que mudou na leitura e no vivido. Uma conclusão pode permanecer bem sustentada, ser revista ou continuar aberta.",
+        "Na próxima aula, partimos de uma diferença que pode ter aparecido aqui: compreendo que aquela fala talvez não fosse rejeição, mas continuo antecipando o encontro como se precisasse me proteger dela. O que permanece organizando minha experiência e minha resposta?",
+        "Essa será a investigação da M2.4. Sua Cartografia leva a pergunta adiante, com o que você aprendeu e com aquilo que ainda precisa encontrar condições para mudar."
+      ],
+      "sentido": "Consolidar o ganho específico de M2.3 e preparar a investigação da repetição sem reiniciar uma explicação genérica sobre hábitos.",
+      "ponte": "M2.4: O que mantém a repetição de uma resposta?",
+      "notes": "PARA COMEÇAR\n\nHoje investigamos como uma forma vivida e sua explicação ganham força de certeza, como essa certeza se sustenta e o que pode se tornar acessível quando recuperamos outras referências.\n\nIDEIAS PARA DESENVOLVER\n\n• O aprendizado inclui reconhecer o fechamento, conferir suas bases e diferenciar o que mudou na leitura e no vivido. Uma conclusão pode permanecer bem sustentada, ser revista ou continuar aberta.\n\n• Na próxima aula, partimos de uma diferença que pode ter aparecido aqui: compreendo que aquela fala talvez não fosse rejeição, mas continuo antecipando o encontro como se precisasse me proteger dela. O que permanece organizando minha experiência e minha resposta?\n\n• Essa será a investigação da M2.4. Sua Cartografia leva a pergunta adiante, com o que você aprendeu e com aquilo que ainda precisa encontrar condições para mudar.\n\nO QUE ESTAMOS TRABALHANDO\n\nConsolidar o ganho específico de M2.3 e preparar a investigação da repetição sem reiniciar uma explicação genérica sobre hábitos.\n\nPARA SEGUIR\n\nM2.4: O que mantém a repetição de uma resposta?"
+    }
+  ],
+  "assets": {
+    "full": "library-file:fde1_bGliZmlsZV9zQ2VtbTkwQ2pQMTh4WFdWNTVlcjdn_FileDrive_ad925f8fadbc81918eab9ef0eafee9a9",
+    "blue": "library-file:fde1_bGliZmlsZV9zWVhtSUtONUR6N2x4Zi1XT3IwazFB_FileDrive_ad925f8fadbc81918eab9ef0eafee9a9",
+    "gold": "library-file:fde1_bGliZmlsZV9NRWxXSnpqbW9qdVdHbHIzZVFKSGFn_FileDrive_ad925f8fadbc81918eab9ef0eafee9a9"
+  },
+  "lineage": [
+    "M2.1 v0.8",
+    "M2.2 v0.4",
+    "M2.3 v0.1 preservada como etapa anterior",
+    "Padrão TSH v2.4 e base autoral v1.2",
+    "Avaliação progressiva M2.1–M2.4 integrada pelo PR 88"
+  ],
+  "provenance": {
+    "return_map": "Adaptação didática fiel da onda aberta e dos cinco movimentos do Gráfico Mestre - Desenvolvimento do Retorno.svg, consultado via GitHub. O PNG aprovado não foi obtido pelo conector; não se declara uso de seus pixels.",
+    "attachments": "Ver M2.3 - Seleção dos anexos e fundamentação v0.1.md. Originais preservados.",
+    "mirror": "Metáfora autoral dos dois sentidos do espelho, recuperada de A Espiral no TSH - Padrões que Voltam em Outro Nível e O Límbico como Porta; uso localizado sobre memória/referência, sem impor símbolo na prática."
+  },
+  "notes_sha256": "21aaf45d6f2c63b2d9042561c32ddf214f9df88d8781b0b1e5a9dcda6168940c",
+  "substantive_revision": {
+    "problem": "A ligação de M2.3 aos dois tempos da Tradução ficava implícita.",
+    "implementation": "Retomada e reciprocidade em 2/4/6/7; conflito e elaboração em 8–11; absorção e passagem em 12–16; comparação de leitura/vivido em 17–21; acesso/cultivo/expressão em 22; aquisição e ponte em 23/24.",
+    "states": "Produzida para avaliação. Ensaio, duração, gravação e publicação não confirmados."
+  }
+}

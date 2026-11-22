@@ -219,3 +219,11 @@ Produzir M2.3 a partir dos registros reais que as duas aulas tornam possíveis, 
 
 [Documento Word](https://chatgpt.com/library?file_id=libfile_fde3_f-5cf9d9dccfec819196ba5cd666ea4f25_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal) · [PDF](https://chatgpt.com/library?file_id=libfile_fde3_f-2501912c062881919f8382f54aa2b2f9_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal).
 
+
+## Aplicação posterior — M2.3 v0.2, 22/11/2026
+
+Após integrar à main os registros anteriores pelo PR 88, foi executado o retrabalho solicitado por Fabiano. [[M2.3 - Trilha de exposição v0.2]] e [[M2.3 - Apresentação editável v0.2]] localizam a revisão atual. Os trechos diagnósticos sobre M2.3 v0.1 permanecem históricos, não descrevem uma alteração ainda pendente na v0.2.
+
+A nova composição retoma os dois tempos de M2.2, desenvolve a reciprocidade forma/elaboração na convicção (telas 2/4/6/7), relaciona conflito/absorção/disponibilidade às contribuições de Festinger e Erickson, recupera espelho/retorno do patrimônio e realiza uma exploração com forma inicial, investigação, comparação entre leitura e vivido e encerramento (17–21). As telas 22–24 diferenciam compreender/acessar/cultivar e preparam o problema de M2.4. O horizonte autoral participa dessa passagem. Não se equiparam os modelos nem se transforma todo desconforto em dissonância ou toda certeza em erro.
+
+Os materiais foram atualizados em correspondência: 24 telas/notas, guia de 25 páginas e apoio de seis páginas com duas figuras. Um ZIP reúne os seis arquivos finais. A inspeção técnica e visual está documentada; aprendizagem e adequação autoral não são certificadas por hashes ou aparência. O estado é revisão substantiva produzida para avaliação. M2.4 continua rascunho em revisão substantiva.

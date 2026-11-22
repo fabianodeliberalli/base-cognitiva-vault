@@ -2,7 +2,7 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.50"
+versao: "0.51"
 atualizado_em: 2026-11-22
 ---
 
@@ -46,13 +46,13 @@ O entregável dirige-se ao aluno e é compreensível por si, com fundamentos des
 
 ## Frente atual: avaliação progressiva M2.1–M2.4
 
-[[00 - Estado e Continuidade da Produção M2]] localiza apresentações, fontes estruturadas, trilhas e arquivos. [[01 - Plano de produção das seis aulas M2]] descreve a progressão; a revisão de profundidade identifica evidências e alterações ainda por aplicar.
+[[00 - Estado e Continuidade da Produção M2]] localiza apresentações, fontes estruturadas, trilhas e arquivos. [[01 - Plano de produção das seis aulas M2]] descreve a progressão; a revisão de profundidade distingue o diagnóstico e a aplicação posterior em M2.3 v0.2.
 
 | Aula | Fonte atual e ponto de retomada |
 | --- | --- |
 | M2.1 | [[M2.1 - Trilha de exposição v0.8]]: constituição corporificada/relacional, enação, primeira pessoa, expressão e retorno. Produzida para avaliação, sem aprovação audiovisual inferida. |
 | M2.2 | [[M2.2 - Trilha de exposição v0.4]]: relevância, forma e elaboração; dois tempos da Tradução; Eu Básico/Eu Médio, Bion e condução com Naranjo participam do raciocínio. A adaptação dedo–palma saiu; práticas originais continuam no acervo. |
-| M2.3 | [[M2.3 - Trilha de exposição v0.1]]: confirmação, Festinger/dissonância, absorção, Erickson e retorno foram desenvolvidos. A avaliação progressiva indicou explicitar a ligação entre os dois tempos e a formação da convicção, comparando mudança da leitura e do modo vivido. Ajuste ainda não aplicado aos artefatos. |
+| M2.3 | [[M2.3 - Trilha de exposição v0.2]]: revisão substantiva produzida para avaliação; dois tempos/convicção explícitos, confirmação, Festinger, absorção, Erickson, retorno e comparação entre leitura e vivido. [[M2.3 - Apresentação editável v0.2]] localiza 24 telas/notas, guia de 25 páginas, apoio de seis páginas e ZIP único com todos os arquivos. V0.1 permanece histórica; aprovação e execução não confirmadas. |
 | M2.4 | [[M2.4 - Prévia de conteúdo e contribuições v0.1]]: prévia autorizada para desenvolvimento, não aprovação da execução. Slides/guias v0.1 são **rascunhos em revisão substantiva**, não exemplar do modelo. O núcleo reelaborado parte da revisão de uma leitura que coexiste com permanência da organização vivida/participação. Ainda não foi integralmente aplicado aos artefatos. |
 | M2.5–M2.6 | Orientação estrutural: distinguir vivido/sentido/interpretação/origem e realizar Tradução recursiva. Novos materiais integrais ainda não produzidos nesta frente. |
 
@@ -75,4 +75,4 @@ Usar a linha pertinente junto das fontes da aula, sem carregar todos os document
 | Anexos recebidos durante M2.3 | [[Anexos M2 - Conteúdos imagens e destinos de resgate]]: quatro PowerPoints, 255 lâminas e duas imagens de Milgram, textos/mídias/originais e destinos propostos. [[Claustro - Atenção, integração e estados de consciência no TSH]] desenvolve contribuições específicas, sem inclusão automática em M2.4. |
 | Genealogia, decisão anterior ou detalhe não restituído aqui | [[11a - Contexto TSH - Histórico integral até 22-11-2026]] conserva a ficha anterior completa, com fontes, destinos e títulos de seções. Decisões posteriores e estado da frente orientam sua aplicação. |
 
-Esta consolidação preserva o caminho de entrada e o patrimônio; a próxima composição precisa demonstrar sua aplicação. A nova redação e os materiais em revisão permanecem identificados na ramificação de trabalho até homologação de integração. O Site não é a frente de produção solicitada.
+A consolidação anterior e as correções de profundidade foram integradas à main pelo PR 88 com autorização de Fabiano, preservando estados. A revisão M2.3 v0.2 permanece identificada em ramificação até homologação de integração. Para novas entregas, reunir slides, guia e apoio em um ZIP único, além de manter as fontes recuperáveis. Registro não comprova aplicação; conferir os materiais efetivos. O Site não é a frente solicitada.
