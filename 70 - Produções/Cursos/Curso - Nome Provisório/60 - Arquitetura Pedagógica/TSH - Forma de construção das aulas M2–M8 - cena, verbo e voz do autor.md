@@ -9,6 +9,10 @@ aliases:
   - Cena, verbo e voz do autor
 ---
 
+## Modelo de produção adotado — 22/11/2026
+
+Para produzir aulas, slides, notas e apoios, aplicar [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] v2.0 ou posterior. Fabiano adotou a trilha de exposição de M2.1 para as próximas produções, com mapa inicial, slides como passos visuais e notas naturais de entrada, ideias, objetivo e passagem. Exemplos são situações genéricas que podem acompanhar o percurso, reapresentadas com contexto antes de cada ampliação; a personagem nomeada foi retirada dos materiais atuais. O entregável se dirige ao aluno e apresenta fundamentos pelo conteúdo, sem bastidores formativos. A nota do padrão contém exemplos completos e a forma de reprodução em outras ferramentas. Sua decisão atual substitui as orientações de fala integral/nota somente locução abaixo; fundamentos e profundidade continuam pertinentes.
+
 ## Atualização de produção — 22/11/2026
 
 Fabiano validou nove módulos e 59 aulas e solicitou iniciar M2. Aplicar esta forma de construção com o [[01 - Plano de produção das seis aulas M2]] e o dossiê integrado. A numeração atual distingue M3.6 (postura), M3.7 (movimento), M3.8 (recursos); M5.5 (símbolos), M5.6 (criação), M5.7–M5.9 (espiritualidade, termos, discernimento); M6.5 (pequena circulação), M6.6 (Hara), M6.7 (Chong Mai/grande circulação), M6.8 (espiral) e M6.9 (coerência possível). As destinações antigas abaixo são lidas pela correspondência do dossiê; não criam uma segunda arquitetura.
@@ -27,38 +31,28 @@ Nos decks e notas de M0 e M1, "condições/condição" aparece 197 vezes, "possi
 
 Os autores também entraram como nome, sem o que fizeram: "Varela contribui para pensarmos a relação entre percepção e ação" é uma frase que o aluno não consegue ver.
 
-## 2. Como cada bloco da aula é construído
+## 2. Conteúdo e experiência com profundidade — revisão de 22/11/2026
 
-A ordem segue a pedagogia do TSH (experiência reconhecível, distinção, conceito, aplicação, integração):
+Fabiano solicitou rever a produção desde M2.1 e as aulas futuras para preservar o nível de suas práticas, literatura, elaborações e articulações. M0 é boas-vindas e não oferece um teto de complexidade. [[TSH - Revisão de Profundidade e Percurso - 22-11-2026]] desenvolve o diagnóstico e os ajustes aula a aula.
 
-1. **Abrir por uma cena concreta:** alguém, num lugar, faz ou diz algo. De onde vem a cena, nesta ordem de preferência:
-   - a experiência de Fabiano: clínica (anonimizada ou transformada em ficção), prática, formação, vida;
-   - os casos que atravessam o curso (pedido com agenda cheia, vontade de dançar, mensagem de cobrança, suporte da TV);
-   - uma cena cotidiana criada para a aula, apresentada como exemplo.
-2. **Dizer o que a cena mostra**, com verbos.
-3. **Nomear o conceito** só depois.
-4. **Trazer a literatura como fundamentação do que Fabiano viu**, não como validação. Ao citar, dizer numa frase o que o autor fez ou observou ("Leong e colegas filmaram uma adulta cantando para bebês e mediram..."), e não só que ele "contribui".
-5. **Aplicação:** o que o aluno faz, sente ou escreve agora.
+Cada aula desenvolve um problema de conhecimento e experiência. Pode partir de uma questão conceitual, prática, vivência ou cena, conforme sua contribuição. Cenas cotidianas ajudam a entrar, contrastar ou aplicar; não substituem o desenvolvimento dos fundamentos. A literatura participa do raciocínio, da instrução e da elaboração. A voz do autor inclui formulações e articulações próprias, além da biografia.
+
+A prática realiza um trabalho correspondente à questão da aula. Uma instrução elementar pode preparar; a elaboração precisa alcançar diferenças significativas. Retomar o conhecido pode aprofundar discriminação e participação. Uma técnica complexa exige ensino e condução próprios. A seleção considera finalidade, contribuição e o repertório de Fabiano, sem tomar novidade ou intensidade como medida de nível.
 
 ## 3. Linguagem
 
-- **Verbos antes de substantivos abstratos:** responder, pedir tempo, voltar, perceber, soltar, escrever.
-- **Palavras a vigiar:** condições, possibilidades, participação, expressão, processo, dimensão. Usar quando forem necessárias, uma por frase no máximo.
-- **Teste da câmera:** a frase descreve algo que poderia ser filmado? Se não, procurar a cena por trás dela.
-- **Frases curtas**, escritas para serem ditas.
+Manter fala clara, coloquial e natural, com termos necessários ensinados em sua função. Conceitos filosóficos, fenomenológicos, tradicionais e espirituais recebem desenvolvimento. Imagens e metáforas podem sustentar investigação além do que se filma. O apoio do aluno acompanha essa profundidade.
 
-| Como ficou em M1 | Como pode soar |
-| --- | --- |
-| "Nossa participação acontece em condições concretas." | "Você responde de dentro de uma situação: cansado ou descansado, sozinho ou acompanhado, com tempo ou com pressa." |
-| "Um intervalo, uma presença acolhedora ou uma mudança nas condições da conversa podem abrir possibilidades que antes não estavam disponíveis." | "Às vezes basta dizer 'me dá um minuto', ou ter alguém calmo do lado, para aparecer uma resposta que dois minutos antes não existia." |
-| "Siegel contribui para uma compreensão corporificada e relacional da mente." | "Num workshop para terapeutas de trauma, Siegel propôs movimentos de Qi Gong. Eu pratico Qi Gong há anos, e ali vi as duas salas começarem a conversar." |
+As recomendações anteriores de abrir cada bloco por uma cena, limitar palavras abstratas por frase e submeter toda formulação ao teste da câmera deixam de funcionar como exigências. Podem ajudar a editar uma passagem vaga, sem reduzir o conteúdo a exemplos elementares. Duração, número de telas e extensão do apoio acompanham a aprendizagem.
+
+As notas e o guia seguem a trilha com entrada natural, ideias articuladas, propósito e passagem. Referências completas e observações de pesquisa ficam apenas no aprofundamento opcional do aluno. A família visual continua a referência adotada, com composição adequada ao conteúdo.
 
 ## 4. A voz do autor: buscar no repositório ou perguntar a Fabiano
 
-Para cada bloco, quem prepara o roteiro (Fabiano ou um assistente):
+Quando uma vivência for relevante ao bloco, quem prepara o roteiro (Fabiano ou um assistente):
 
 1. **Procura primeiro no repositório** uma vivência, cena ou caso de Fabiano que sirva ao bloco. Ponto de partida: [[TSH - Banco de cenas e vivências do autor]].
-2. **Se não encontrar, não inventa uma vivência de Fabiano.** Escreve no roteiro uma seção **"Pedidos a Fabiano"**, com:
+2. **Se a vivência for necessária e não for encontrada, não inventar uma lembrança de Fabiano.** Escreve no roteiro uma seção **"Pedidos a Fabiano"**, com:
    - a aula e o bloco;
    - o que a cena precisa mostrar;
    - até três perguntas concretas, respondíveis por áudio ("Você lembra de um momento em que...? O que fez com o corpo? O que disse?");
@@ -69,14 +63,11 @@ As perguntas vão juntas, aula por aula, durante a construção do roteiro, e n�
 
 Casos de pacientes entram anonimizados ou como ficção. Episódios de saúde de pessoas nomeadas (por exemplo, Gilda Moura ou Nazareth Castellanos) entram com consentimento ou citando fonte pública.
 
-## 5. Verificação de cada roteiro
+## 5. Revisão da composição
 
-1. Cada bloco abre por uma cena?
-2. A aula tem ao menos uma passagem na voz de Fabiano (vivida, clínica, de prática ou de pesquisa)?
-3. A literatura vem depois da experiência e diz o que o autor fez?
-4. O módulo tem seu momento espiritual explícito (seção 6)?
-5. A aula tem uma prática principal, com retorno antes da entrada e registro depois?
-6. Quando couber, a aula mostra duas ou três salas (Psicologia com neurociência, Medicina Chinesa, espiritualidade) lendo a mesma experiência?
+Examinar se o raciocínio desenvolve a questão, se as fontes têm contribuição reconhecível e se a exploração acrescenta um aprendizado relevante. A continuidade mostra o que a nova aula acrescenta e prepara; as retomadas devem aprofundar o percurso. Evitar menção ornamental a autores e repetição de uma introdução básica em toda unidade.
+
+Espiritualidade, cultivo, criação e experiência clínica entram por pertinência substantiva. Precisão e procedência ficam registradas; a fala desenvolve contribuições sem uma sucessão de ressalvas defensivas. Conferir diagramação e locução é diferente de avaliar profundidade.
 
 ## 6. Espiritualidade explícita em todos os módulos
 
@@ -90,7 +81,7 @@ Decisão de Fabiano: cada módulo tem ao menos um momento em que a dimensão esp
 | M3 | M3.5: Shen; a Essência espiritual não é o mesmo que Jing |
 | M4 | M4.4: a criatividade como via espiritual (Cameron: criança artista e Censor); **M4.5: a passagem de Long sobre o eu inferior culpado** |
 | M5 | O centro espiritual do curso (M5.3, M5.5 a M5.8) |
-| M6 | M6.5: o canal central e o ponto de individuação; M6.6: a sede da alma (Brennan) |
+| M6 | M6.5: pequena circulação; M6.6: linha do Hara em Brennan; M6.7: Chong Mai e grande circulação; M6.8: elaboração em espiral |
 | M7 | M7.1 e M7.5: a linha do Hara, individual e do grupo; M7.8 (proposta): Long e a reparação concreta |
 | M8 | M8.1: o percurso como espiral orientada por uma referência profunda; o Vértice |
 
@@ -101,7 +92,7 @@ Long compara o eu inferior culpado a "uma criança mal comportada que evita a pr
 A passagem faz sentido no TSH. O lugar mais coerente é **M4.5**, não M4.4:
 - **M4.4 já está cheia:** a árvore, a armadura, Winnicott, o espelho, o Eu Básico como guardião, as programações, a prática "Atualizar a proteção" e Cameron.
 - **M4.5 tem como prática principal o 3-2-1, com o diálogo com a parte culpada.** A nota do 3-2-1 já liga esse diálogo a Long ([[Processo 3-2-1 - Cuidado do Eu Básico e Diálogo com a Parte Culpada]]). Long dá a esse diálogo seu horizonte espiritual: cuidar da parte culpada reabre o caminho.
-- **Ponte para M5.3:** o Eu Superior aparece aqui pela primeira vez como menção ("Long fala de um Eu Superior; vamos conhecê-lo no próximo módulo"). É semeadura, não antecipação do mapa completo.
+- **Ponte para M5.3:** retomar o horizonte do Eu Superior já nomeado em M2.2 e aprofundar sua relação com culpa e cuidado. M5.3 desenvolve o mapa completo; a retomada deve acrescentar uma operação, em vez de ser anunciada novamente como primeira menção.
 
 Em M7.8 cabe a outra metade de Long: a culpa real pede reparação concreta, não só diálogo interno (cap. XVII). Fonte: [[Huna - Max Freedom Long e Serge King nos Três Eus]].
 
@@ -112,4 +103,6 @@ Em M7.8 cabe a outra metade de Long: a culpa real pede reparação concreta, nã
 - **Cronometrar M3.6 no ensaio.** Se passar de cerca de 25 minutos, dividir em parte A (Zhan Zhuang: origem, princípios, eixo do pé ao topo, transições, versão sentada) e parte B (sequência regular comentada), como já decidido para as aulas com prática editada; ou levar os detalhes para o material de apoio.
 - **M3.7: no máximo dois recursos novos.**
 - **Encontro de 05/12:** se as três etapas de indução apertarem o tempo, o braço como pano molhado pode passar para 12/12 sem prejuízo da sequência.
+
+
 

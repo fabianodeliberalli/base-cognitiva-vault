@@ -2,13 +2,31 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.41"
+versao: "0.45"
 atualizado_em: 2026-11-22
 ---
 
-## 22/11/2026 — uniformidade visual e locução na produção futura
+## Referência atual — modelo de produção adotado em 22/11/2026
 
-Fabiano autorizou aplicar a padronização de M2 e manter a identidade já adotada em M0/M1 nas produções seguintes: mesma paleta azul, títulos curtos em EB Garamond, texto didático/rótulos/rodapés em Inter e marca original legível. A referência é [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] v1.4. Notas do orador e roteiro de gravação contêm somente fala natural em blocos curtos; fontes, tempos, cliques e condução ficam na preparação. Mapas históricos e aulas já produzidas não são refeitos automaticamente por sincronização.
+Fabiano pediu preservar formato, lógica, dinâmica e andamento de M2.1 como modelo para as futuras produções do TSH, acessível a esta ou outra IA. Consultar **[[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] v2.0 ou posterior** antes de produzir aulas, slides, notas e apoios. A nota reúne a lógica completa, quatro funções das notas, linguagem, profundidade, imagens, práticas, identidade visual, entregável do aluno, exemplos completos, estrutura transportável e conferência da entrega. `AGENTS.md` e `CLAUDE.md` já conduzem a esta ficha.
+
+O modelo usa visão inicial do percurso e slides como passos visuais, com notas naturais para exposição livre: PARA COMEÇAR, IDEIAS PARA DESENVOLVER, O QUE ESTAMOS TRABALHANDO e PARA SEGUIR. A exigência anterior de fala integral/nota somente locução e o estatuto de teste restrito a M2.1 ficam superados para a produção futura. Quantidade de telas, duração e complexidade acompanham a aprendizagem. Preservar a profundidade do repertório e das formulações autorais, os fundamentos e a espiritualidade do TSH.
+
+Orientações posteriores de Fabiano, incorporadas ao modelo: retirar a personagem criada dos materiais atuais; exemplos são bem-vindos como situações genéricas reconhecíveis que entram na fala, permitindo ao aluno se colocar nelas. Podem percorrer aula ou módulo, reapresentando o contexto a cada retomada antes de ampliar o raciocínio. O apoio se dirige ao aluno e apresenta os fundamentos pelo conteúdo (“na Medicina Chinesa”), sem bastidores sobre a formação do professor. Referências completas e observações de pesquisa ficam apenas no aprofundamento opcional do aluno. As imagens aprovadas são mantidas.
+
+Exemplar atual: [[M2.1 - Trilha de exposição v0.7]] e [[M2.1 - Apresentação editável v0.7]], 20 telas; guia atualizado e apoio do aluno em Word/PDF de quatro páginas. A especificação JSON preserva as 20 notas, e a montagem nativa conserva a composição visual. M2.2 v0.3 recebeu apenas a correção correspondente dos exemplos e dos apoios; sua reconstrução no modelo de trilha continua pendente. A aprovação do formato não certifica cada formulação dos apoios, ensaio, duração, gravação ou publicação. [[00 - Estado e Continuidade da Produção M2]] localiza os arquivos. A arquitetura permanece em nove módulos e 59 aulas.
+
+## 22/11/2026 — revisão substantiva de profundidade desde M2.1
+
+Fabiano determinou rever as aulas desde M2.1 e a produção futura, pois o conteúdo entregue ficou muito básico diante de seu patrimônio e modo de ensinar. M0 é boas-vindas; M1 também foi objeto de crítica e consulta textual para orientar aprofundamentos. Clareza e fala coloquial preservam a densidade dos conceitos, das práticas e das articulações autorais.
+
+A revisão em [[TSH - Revisão de Profundidade e Percurso - 22-11-2026]] cobre as 59 posições, preservando nove módulos e códigos de origem. M2.1 foi reescrita em [[M2.1 - Roteiro de fala v0.4]]; M2.2 em [[M2.2 - Roteiro de fala v0.2]], ambas com apresentações de 18 telas e apoios refeitos. M2.1 v0.3 e M2.2 v0.1 ficam históricas. A adaptação dedo–própria palma sai da composição atual; as práticas originais do acervo continuam disponíveis.
+
+[[TSH - Forma de construção das aulas M2–M8 - cena, verbo e voz do autor]] passa a admitir questão conceitual, prática, vivência ou cena como abertura. Não exigir cena em cada bloco, teto genérico de abstração, tempo ou páginas. Fontes devem participar do conteúdo e da experiência, com espiritualidade afirmativa e precisão. As demais aulas têm revisão estrutural, não roteiros integrais novos. Os estados de gravação/publicação continuam sem confirmação nesta frente; padronização visual não comprova prontidão substantiva. [[00 - Estado e Continuidade da Produção M2]] localiza as versões atuais.
+
+## Histórico — 22/11/2026 — uniformidade visual e locução anterior
+
+Fabiano autorizou aplicar a padronização de M2 e manter a identidade já adotada em M0/M1 nas produções seguintes: mesma paleta azul, títulos curtos em EB Garamond, texto didático/rótulos/rodapés em Inter e marca original legível. A referência é [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] v1.4. A orientação desta etapa previa notas somente de fala natural e preparação à parte; foi substituída pelo modelo de trilha v2.0 para as futuras produções. A uniformidade visual permanece. Mapas históricos e aulas já produzidas não são refeitos automaticamente por sincronização.
 
 
 ## 22/11/2026 — entregáveis do aluno em continuidade com M0 e M1
@@ -18,7 +36,7 @@ Fabiano adotou a proposta de registrar e prosseguir com os apoios para o aluno d
 M2.1 é o primeiro modelo produzido: [[M2.1 - Apoio do aluno - Perceber e revisar uma leitura]] v0.2, PDF próprio de duas páginas e Word editável, alinhados ao roteiro de gravação e à prática. [[M2.1 - Inserção do apoio do aluno na Hotmart]] contém descrição e orientação de anexação. A decisão é sobre organização e continuidade da produção; não atesta aprovação individual dos futuros arquivos, upload, publicação, gravação ou aprendizagem.
 
 
-## 22/11/2026 — títulos claros e M2.1 preparada para gravação
+## Histórico de 22/11/2026 — títulos claros e preparação anterior de M2.1
 
 Fabiano adotou **Como se forma o que você percebe?** para M2.1. Sua orientação é que os nomes expressem com clareza e objetividade o estudo, os fundamentos e as contribuições do TSH, ajudando o aluno a reconhecer sua progressão. A revisão dos 59 nomes e dos nove módulos está em [[TSH - Nomes das aulas e módulos - revisão de clareza 2026-11-22]]; outras redações são ajustes editoriais desenvolvidos no escopo solicitado, sem atribuição de escolhas textuais individuais ao autor. A referência de gravação é [[M2.1 - Roteiro oral e caderno de produção v0.2]], com apresentação de 12 telas e fala nas notas, prática, fontes e apoio alinhados. Ensaio e gravação permanecem sem confirmação.
 
@@ -327,3 +345,6 @@ Preservar a distinção entre formulações autorais, conhecimentos tradicionais
 Não ler automaticamente todos os documentos da tabela. Escolher apenas a linha pertinente. Documentos extensos, transcrições, montagens e fontes são recuperados sob demanda.
 
 Se a tarefa não exigir mudança autoral, não transformar a resposta em nova deliberação.
+
+
+
