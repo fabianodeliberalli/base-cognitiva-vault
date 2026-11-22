@@ -2,7 +2,7 @@
 tipo: padrao-de-producao
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "2.6"
+versao: "2.7"
 criado_em: 2026-11-02
 atualizado_em: 2026-11-22
 aplica_se_a: futuras producoes de aulas, slides, notas e apoios do TSH
@@ -139,6 +139,16 @@ O roteiro é uma **trilha de exposição**. As notas permitem localizar rapidame
 
 Os campos orientam a consulta do apresentador e a exposição livre; seus títulos ajudam a localizar o passo da aula. Seu conteúdo deve permitir falar a partir de um olhar. O número e o tamanho dos tópicos acompanham a explicação necessária; a amostra de três tópicos no exemplar não é limite geral.
 
+### Objetividade com densidade e uma frase por linha — 22/11/2026
+
+Fabiano pediu uma apresentação mais enxuta e objetiva, registrando o receio de que essa orientação volte a empobrecer o conteúdo. A revisão considera a função de cada trecho no aprendizado. Retirar repetições sem acréscimo, paráfrases entre campos, preâmbulos e explicações que alongam a fala sem ajudar a compreender. Preservar os fundamentos desenvolvidos, as formulações autorais, as relações e distinções centrais, a introdução de termos e autores, os exemplos e metáforas que esclarecem e as dimensões pertinentes ao TSH. Uma retomada que recupera contexto ou ajuda a consolidar uma relação pode permanecer. Não adotar percentual de redução nem quota de palavras, slides, tópicos ou autores.
+
+As notas precisam conter âncoras suficientes para desenvolver a elaboração com clareza, sem exigir reconstrução durante a gravação. Concisão não autoriza transformar uma explicação em slogan, lista de nomes ou palavras soltas, nem deslocar ao apoio opcional o que o aluno precisa compreender na própria aula. Rever a progressão permite ensinar uma relação uma vez com clareza e retomá-la pelo novo trabalho que realiza.
+
+**Disposição das notas:** uma frase completa por linha, com quebra explícita de linha ou de parágrafo. Separar blocos de ideias por uma linha em branco. Dentro de um mesmo tópico, cada frase seguinte começa em nova linha, conservando sua ligação com a anterior; não é necessário criar um marcador por frase. Usar os títulos de consulta e avisos breves já previstos conforme a função do passo. Uma frase pode ocupar mais de uma linha visual por causa da largura do suporte; não fragmentar artificialmente seu sentido para impedir essa quebra.
+
+A orientação vale para as notas do apresentador e para o guia que as reproduz, preservando a exposição livre. Na prática, manter a distinção entre apresentar, realizar, pausar, elaborar e concluir, com instruções diretas no momento adequado. O texto de estudo mantém a redação apropriada à leitura autônoma, sem receber por automatismo a mesma disposição de linhas. A fonte estruturada, as notas montadas e o guia devem conservar as quebras explícitas; conferir o resultado exportado, pois ter frases separadas apenas no JSON não garante a apresentação legível.
+
 ### Tom e qualidade da escrita
 
 Usar linguagem coloquial, natural e precisa: “Aqui vamos pegar um exemplo…”, “O que acontece quando…”, “Estamos acompanhando…”. Preferir o desenvolvimento de uma ideia a um comando de preparação. “Apresentar a personagem”, “distinguir as palavras”, “nomear a neurofenomenologia” ou “passar da justificativa ao movimento” deixam o trabalho de explicação por fazer.
@@ -255,7 +265,7 @@ Aplicar [[TSH - Entregáveis do aluno e inserção na Hotmart - M2 a M8]]: orien
 
 ## 10. Exemplos concretos do resultado adotado
 
-Os exemplos seguintes preservam a redação de M2.1 v0.7, etapa anterior à revisão atual v0.8, após a orientação de retirar a personagem e fazer as retomadas didáticas por situações genéricas. Mostram o nível de completude e o tipo de conexão esperado. A abertura da tela 3 foi formulada por Fabiano; as demais notas pertencem à composição que ele pediu preservar como modelo. Não atribuir toda redação do exemplar à autoria literal dele. Para retomar a produção, usar as trilhas atuais indicadas no estado de M2.
+Os exemplos seguintes preservam o conteúdo da redação de M2.1 v0.7, etapa anterior à revisão atual v0.8, após a orientação de retirar a personagem e fazer as retomadas didáticas por situações genéricas. A disposição abaixo foi ajustada para uma frase por linha; essa mudança no exemplar não regenera os arquivos já entregues. Mostram o nível de completude e o tipo de conexão esperado. A abertura da tela 3 foi formulada por Fabiano; as demais notas pertencem à composição que ele pediu preservar como modelo. Não atribuir toda redação do exemplar à autoria literal dele. Para retomar a produção, usar as trilhas atuais indicadas no estado de M2.
 
 ### Tela 3 — A mensagem e o sentido que se forma
 
@@ -266,12 +276,16 @@ PARA COMEÇAR
 Aqui vamos pegar um exemplo de como recebemos o mundo, as palavras de alguém, os estímulos externos e o que ocorre em nosso corpo, nossa mente, nosso psiquismo a partir disso.
 
 IDEIAS PARA DESENVOLVER
-• Em um exemplo fictício, uma pessoa recebe uma mensagem cobrando a resposta sobre um trabalho e já se sente em falta. Antes de conferir o combinado, o sentido de estar devendo parece definido.
-• A mensagem traz uma demanda e um prazo. Para compreender o que está acontecendo, precisamos conhecer o compromisso, a relação de trabalho e o que essa cobrança despertou em quem a recebeu.
-• Eu posso me reconhecer nisso: recebo uma cobrança e começo a me justificar antes de verificar se falhei, se o prazo mudou ou se preciso negociar. Investigar abre espaço para considerar esses outros elementos.
+• Em um exemplo fictício, uma pessoa recebe uma mensagem cobrando a resposta sobre um trabalho e já se sente em falta.
+  Antes de conferir o combinado, o sentido de estar devendo parece definido.
+• A mensagem traz uma demanda e um prazo.
+  Para compreender o que está acontecendo, precisamos conhecer o compromisso, a relação de trabalho e o que essa cobrança despertou em quem a recebeu.
+• Eu posso me reconhecer nisso: recebo uma cobrança e começo a me justificar antes de verificar se falhei, se o prazo mudou ou se preciso negociar.
+  Investigar abre espaço para considerar esses outros elementos.
 
 O QUE ESTAMOS TRABALHANDO
-Estamos acompanhando como uma situação ganha sentido dentro de nós e começa a orientar nossa resposta. Queremos reconhecer os elementos dessa construção, inclusive os fatos da relação.
+Estamos acompanhando como uma situação ganha sentido dentro de nós e começa a orientar nossa resposta.
+Queremos reconhecer os elementos dessa construção, inclusive os fatos da relação.
 
 PARA SEGUIR
 O que participa desse encontro além das palavras que chegaram na mensagem?
@@ -288,12 +302,15 @@ PARA COMEÇAR
 Agora vamos olhar para uma pesquisa que ajuda a entender por que vale perguntar como a pessoa estava enquanto percebia.
 
 IDEIAS PARA DESENVOLVER
-• Lutz e sua equipe combinaram uma tarefa visual, relatos da experiência e registros da atividade cerebral. A figura do slide mostra o esquema da tarefa.
+• Lutz e sua equipe combinaram uma tarefa visual, relatos da experiência e registros da atividade cerebral.
+  A figura do slide mostra o esquema da tarefa.
 • Além do que foi percebido, entrava na investigação como a pessoa se reconhecia naquele momento: preparada, distraída ou surpreendida.
-• Essas descrições ajudaram a organizar a comparação dos registros. O relato da pessoa acrescentava informação sobre como aquela percepção havia acontecido.
+• Essas descrições ajudaram a organizar a comparação dos registros.
+  O relato da pessoa acrescentava informação sobre como aquela percepção havia acontecido.
 
 O QUE ESTAMOS TRABALHANDO
-Para nós, o aprendizado é dar lugar ao que a pessoa reconhece da própria experiência. Diante de uma cobrança no trabalho, importa descrever o que acompanhou a leitura: tensão, expectativa de crítica, pressa para responder ou outra experiência.
+Para nós, o aprendizado é dar lugar ao que a pessoa reconhece da própria experiência.
+Diante de uma cobrança no trabalho, importa descrever o que acompanhou a leitura: tensão, expectativa de crítica, pressa para responder ou outra experiência.
 
 PARA SEGUIR
 E como podemos nos aproximar da experiência, pensar sobre ela e conferir o que estamos compreendendo?
@@ -314,10 +331,10 @@ Slide: “Percurso da prática”, com os três movimentos visuais.
 ```text
 APRESENTAÇÃO DA PRÁTICA
 
-Vamos acompanhar uma mesma questão em três movimentos:
-aproximar, expressar e retornar para conferir.
+Vamos acompanhar uma mesma questão em três movimentos: aproximar, expressar e retornar para conferir.
 
-Primeiro vou mostrar o caminho. Na próxima tela começamos juntos.
+Primeiro vou mostrar o caminho.
+Na próxima tela começamos juntos.
 ```
 
 **Aproximação — início da realização**
@@ -401,7 +418,7 @@ As condições de participação, a possibilidade de adaptar/interromper e as or
 - O exemplo é reapresentado com contexto suficiente a cada retomada e acrescenta uma nova relação. A situação mantém seus fatos e não recebe conclusões prematuras. A vida concreta, o contexto e a participação pessoal continuam em relação.
 - A prática tem trabalho didático reconhecível, condução suficiente, elaboração e continuidade; a profundidade acompanha o projeto.
 - Imagens e diagramas ajudam a reconhecer relações em um olhar. As imagens aprovadas são preservadas nas revisões de notas.
-- As notas estão em linguagem natural e consultável, sem duplicação entre campos. Na prática, é inequívoco quando se apresenta, realiza, pausa, elabora e conclui. Bibliografia, URL, DOI e bastidores ficam em seus suportes próprios.
+- As notas estão em linguagem natural e consultável, com uma frase completa por linha e espaço entre blocos, sem duplicação entre campos. A concisão preserva fundamentos, relações e explicações necessárias, incluindo termos novos e retomadas didáticas úteis. Na prática, é inequívoco quando se apresenta, realiza, pausa, elabora e conclui. Bibliografia, URL, DOI e bastidores ficam em seus suportes próprios.
 - O apoio do aluno dirige-se a quem aprende, apresenta os fundamentos pelo conteúdo e conserva a profundidade. Referências completas e observações de pesquisa ficam na seção opcional.
 - A aula se integra ao percurso e às contribuições do TSH; estados de produção não são inferidos pelo acabamento dos arquivos.
 
@@ -434,11 +451,11 @@ Uma estrutura textual ou JSON pode ser usada por qualquer ferramenta. O exemplo 
 }
 ```
 
-Na exposição e na elaboração, montar `speakerNotes` ou equivalente pelos campos pertinentes, usando as quatro partes quando ajudarem. Na realização de uma prática, montar a partir do momento e das instruções de condução. Não concatenar as duas representações nem produzir duplicação por exigência do script. Conservar correspondência integral entre notas, guia e especificação entregue. Metadados técnicos permanecem nos arquivos de produção.
+Na exposição e na elaboração, montar `speakerNotes` ou equivalente pelos campos pertinentes, usando as quatro partes quando ajudarem. Na realização de uma prática, montar a partir do momento e das instruções de condução. Não concatenar as duas representações nem produzir duplicação por exigência do script. Preservar uma frase por linha por meio de quebras explícitas (`\n` na serialização JSON), com uma linha em branco entre blocos; a montagem e a exportação não devem substituir essas quebras por espaços. Separar as frases pela leitura do conteúdo, sem corte automático por pontuação que fragmente abreviações, citações ou o raciocínio. Conservar correspondência integral entre notas, guia e especificação entregue. Metadados técnicos permanecem nos arquivos de produção.
 
 **Apontador curto para uma nova conversa:**
 
-> Produza a aula indicada do TSH usando o modelo adotado por Fabiano em 22/11/2026. Consulte pelo GitHub `fabianodeliberalli/base-cognitiva-vault` a base autoral geral, a ficha mínima, o “Padrão de slides, notas e roteiros das aulas” v2.6 ou posterior, o exemplar e as revisões atuais indicados no estado de M2 e as fontes pertinentes à aula. Construa a trilha com visão inicial, slides como passos visuais e notas naturais para exposição livre; distinguir apresentação e realização da prática, com avisos curtos onde muda a função. Use entrada, ideias explicadas, objetivo e passagem como referência para exposição e elaboração, sem duplicar conteúdo; durante a realização, instruções diretas e pausas. Preserve a profundidade autoral, os fundamentos, as práticas e a identidade visual; referências completas e pesquisa ficam no aprofundamento opcional do aluno. Use exemplos genéricos que possam entrar naturalmente na fala, reapresente o contexto a cada retomada e amplie o raciocínio. Escreva o entregável diretamente para o aluno, sem bastidores sobre a formação do professor. Faça a conferência do encadeamento e dos arquivos antes de entregar. Não reinicie pelo roteiro integral ou pelos exemplos básicos das versões anteriores.
+> Produza a aula indicada do TSH usando o modelo adotado por Fabiano em 22/11/2026. Consulte pelo GitHub `fabianodeliberalli/base-cognitiva-vault` a base autoral geral, a ficha mínima, o “Padrão de slides, notas e roteiros das aulas” v2.7 ou posterior, o exemplar e as revisões atuais indicados no estado de M2 e as fontes pertinentes à aula. Construa a trilha com visão inicial, slides como passos visuais e notas naturais para exposição livre; distinguir apresentação e realização da prática, com avisos curtos onde muda a função. Use entrada, ideias explicadas, objetivo e passagem como referência para exposição e elaboração, sem duplicar conteúdo; durante a realização, instruções diretas e pausas. Enxugue redundâncias preservando o desenvolvimento e os fundamentos; escreva uma frase completa por linha nas notas e no guia, com espaço entre blocos e quebras preservadas nos arquivos. Preserve a profundidade autoral, os fundamentos, as práticas e a identidade visual; referências completas e pesquisa ficam no aprofundamento opcional do aluno. Use exemplos genéricos que possam entrar naturalmente na fala, reapresente o contexto a cada retomada e amplie o raciocínio. Escreva o entregável diretamente para o aluno, sem bastidores sobre a formação do professor. Faça a conferência do encadeamento e dos arquivos antes de entregar. Não reinicie pelo roteiro integral ou pelos exemplos básicos das versões anteriores.
 
 ## 13. Conferência de cobertura das decisões e dos refinamentos — 22/11/2026
 
@@ -465,7 +482,7 @@ Esta conferência responde ao pedido de verificar **a construção das aulas e d
 | Decisão ou refinamento | Aplicação e ponto de recuperação | Alcance conferido |
 | --- | --- | --- |
 | Visibilidade do percurso e slides como passos | Seções 3 e 4; mapas iniciais das trilhas M2.1 v0.8/M2.2 v0.4. Mostrar de onde viemos, o que cada passo acrescenta e a próxima pergunta; a representação torna a relação reconhecível. | Vinte telas são a composição atual de cada uma dessas aulas, não quota de produção. |
-| Notas adequadas à função do passo | Seções 5, 10 e 12. Quatro campos como referência para exposição/elaboração; momento reconhecível e instruções diretas para realização. Retirar paráfrases entre campos e explicações repetidas durante a prática. | Preserva profundidade e exposição livre. Apresentação, realização, pausa, elaboração e conclusão distinguem-se onde necessário; sem quotas de tópicos, movimentos ou duração. |
+| Notas adequadas à função do passo | Seções 5, 10 e 12. Quatro campos como referência para exposição/elaboração; momento reconhecível e instruções diretas para realização. Enxugar redundâncias preservando fundamentos, relações e explicações necessárias. Uma frase completa por linha, espaço entre blocos e quebras explícitas preservadas nas notas e no guia. | Preserva profundidade e exposição livre. Exemplos do padrão tiveram sua disposição ajustada; isso não regenera apresentações ou guias anteriores. Apresentação, realização, pausa, elaboração e conclusão distinguem-se onde necessário; sem quotas de tópicos, movimentos ou duração. |
 | Gravação limpa e preparação em seu lugar | Seções 5 e 6. Notas contêm conteúdo e instrução natural; montagem, revisão, pedidos, bibliografia, URL e DOI ficam fora; avisos curtos de condução e pausa ajudam onde muda a função. O material real deve sustentar a exposição sem reconstruir o raciocínio durante a gravação. | Guias podem reunir mapa e notas; não criar uma segunda entrega docente obrigatória. Precisão necessária à aprendizagem continua na explicação. |
 | Exemplos contextualizados e repetição didática | Seções 3, 9 e 10. Usar situações genéricas reconhecíveis; reapresentar o contexto a cada retomada e acrescentar a nova relação. A cobrança de trabalho pode ganhar outra leitura sem se concluir que a pessoa interpretou errado. | Personagem nomeada retirada das composições atuais M2.1/M2.2. Exemplos não se tornam histórias para memorizar nem autobiografia inventada. |
 | Unidade de slide, notas e apoio | Seções 1, 9 e 11. Conferir conceitos, finalidade, progressão, instruções e fontes em conjunto. Uma imagem na tela pode ganhar explicação verbal ou outro exemplo no apoio. | Coerência de conceito e função, sem reprodução compulsória de cada figura em todos os suportes. |

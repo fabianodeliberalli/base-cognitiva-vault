@@ -2,7 +2,7 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.53"
+versao: "0.54"
 atualizado_em: 2026-11-22
 ---
 
@@ -18,7 +18,7 @@ Fabiano precisou reiterar em 22/11/2026 a crítica à produção básica diante 
 
 O assistente confere se as contribuições recuperadas mudam o conteúdo, as perguntas e a prática, e se as relações centrais chegam ao material efetivo. Comparar a qualidade de raciocínio e exploração com os exemplares pertinentes, além da aparência. Se uma relação central faltar, desenvolvê-la; se a fonte indispensável estiver inacessível, explicitar a lacuna. Não preencher silenciosamente com uma aula genérica nem apresentar acabamento técnico como prontidão substantiva. Essa conferência integra o trabalho, sem formulário, relatório extra ou revisão obrigatória de Fabiano. Registro e consulta não demonstram aplicação por si.
 
-**Referências da construção:** [[13 - Base de Produção Autoral e Didática - Fabiano Deliberalli]] v1.4; [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] v2.6; [[TSH - Revisão de Profundidade e Percurso - 22-11-2026]]. A base geral também orienta outros trabalhos autorais, com o contexto próprio de cada projeto; não transportar automaticamente currículo ou identidade do TSH.
+**Referências da construção:** [[13 - Base de Produção Autoral e Didática - Fabiano Deliberalli]] v1.5; [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] v2.7; [[TSH - Revisão de Profundidade e Percurso - 22-11-2026]]. A base geral também orienta outros trabalhos autorais, com o contexto próprio de cada projeto; não transportar automaticamente currículo ou identidade do TSH.
 
 ## Identidade, finalidade e arquitetura atuais
 
@@ -38,7 +38,9 @@ Doze semanas foi uma estimativa provisória histórica; duração e cronograma d
 
 O modelo adotado em 22/11/2026 é uma trilha para exposição livre: visão inicial do percurso; slides como passos visuais; notas naturais com entrada, desenvolvimento, propósito e passagem. Os quatro campos são referência para exposição e elaboração; sua extensão acompanha a função do passo. Desenvolver termos novos e conexões; não escrever fala integral obrigatória nem deixar referências soltas. A extensão acompanha o aprendizado, sem quota de telas ou prática básica repetida. Referências completas, DOI e observações de pesquisa ficam no aprofundamento opcional do aluno, não nas notas de gravação.
 
-**Refinamento após a gravação M2.1:** Fabiano explicou que comentários de preenchimento também surgiram para ganhar tempo diante de notas confusas e repetidas. A correção incide no apoio: localizar o próximo passo com um olhar, retirar paráfrases entre campos e distinguir apresentação da prática, realização, pausa, elaboração e conclusão com avisos breves quando úteis. A realização pode ter instruções diretas sem quatro blocos explicativos por tela. O padrão v2.6 conserva o exemplo corrigido; o plano de M2 localiza a revisão pertinente em M2.2. Preservar a densidade dos fundamentos e a simplicidade adequada da condução.
+**Refinamento após a gravação M2.1:** Fabiano explicou que comentários de preenchimento também surgiram para ganhar tempo diante de notas confusas e repetidas. A correção incide no apoio: localizar o próximo passo com um olhar, retirar paráfrases entre campos e distinguir apresentação da prática, realização, pausa, elaboração e conclusão com avisos breves quando úteis. A realização pode ter instruções diretas sem quatro blocos explicativos por tela. O padrão v2.7 conserva o exemplo corrigido; o plano de M2 localiza a revisão pertinente em M2.2. Preservar a densidade dos fundamentos e a simplicidade adequada da condução.
+
+**Objetividade com densidade:** enxugar redundâncias, paráfrases e preâmbulos, preservando formulações autorais, fundamentos, relações centrais, termos explicados e exemplos pertinentes. Manter retomadas didáticas úteis, sem meta de corte ou quota de palavras/telas. Nas notas e no guia correspondente, uma frase completa por linha, com quebras explícitas e uma linha em branco entre blocos; preservar o encadeamento e a exposição livre. O padrão desenvolve a aplicação e apresenta os exemplos com essa disposição. Esta atualização da orientação não regenera arquivos de aulas já entregues.
 
 **Predição e aprendizagem:** incluir antecipação como função adaptativa ligada à sobrevivência, regulação e habilidades. Investigar a adequação e a flexibilidade das previsões e os contextos, sem opor consciência a um cérebro que apenas aprisiona. M2.2 faz a retomada inicial; M2.3/M2.4/M2.6 ampliam discernimento, aprendizagem e revisão; M3.3 já tem lugar para regulação antecipatória.
 

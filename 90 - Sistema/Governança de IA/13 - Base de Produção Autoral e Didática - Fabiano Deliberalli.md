@@ -1,7 +1,7 @@
 ---
 tipo: base-de-producao-autoral-e-didatica
 status: referencia-de-trabalho-revisavel
-versao: "1.4"
+versao: "1.5"
 atualizado_em: 2026-11-22
 autoridade_final: Fabiano Deliberalli
 elaboracao: desenvolvimento-editorial-para-avaliacao
@@ -64,6 +64,10 @@ O apoio destinado ao estudo precisa ser compreensível por si: restituir o conte
 Fabiano explicou em 22/11/2026 que comentários de preenchimento, “né” e “tá” também foram usados para ganhar tempo ao seguir notas pouco claras, repetidas e por vezes confusas. Reavaliar a causa antes de atribuir o resultado a um hábito de fala do autor. O apoio deve permitir recuperar o próximo passo com um olhar; não transferir ao apresentador, durante a gravação, a tarefa de selecionar, deduplicar e reorganizar o texto.
 
 Conservar densidade na fundamentação e no desenvolvimento. Nas notas de uso imediato, tornar visíveis o raciocínio principal, as relações novas e a passagem seguinte. Retomadas didáticas recuperam contexto e acrescentam uma distinção; repetição entre entrada, desenvolvimento, propósito e passagem sem aquisição nova deve ser reescrita. Os campos servem à exposição e podem ser condensados ou ajustados à função do passo.
+
+Fabiano solicitou que a apresentação fique mais enxuta e objetiva, preservando a densidade construída. Condensar repetições sem função, paráfrases entre campos, preâmbulos e explicações que não fazem o raciocínio avançar. Preservar as formulações autorais, os fundamentos efetivamente ensinados, as relações e distinções necessárias, a apresentação compreensível de termos novos e a contribuição de exemplos, imagens e metáforas pertinentes. Manter retomadas que sustentam a aprendizagem. A extensão resulta desse exame, sem meta percentual de corte nem quota de palavras, telas ou autores. A objetividade se verifica pela facilidade de acompanhar e desenvolver o pensamento, sem reduzi-lo a slogans ou transferir ao material complementar uma explicação indispensável à aula.
+
+Nas notas do apresentador e no guia correspondente, escrever **uma frase completa por linha**, com quebra explícita, e separar blocos de ideias por uma linha em branco. Conservar as conexões entre as frases; uma nova linha facilita a consulta, sem fragmentar o raciocínio nem obrigar a fala literal. Marcadores e títulos curtos ajudam quando necessários; cada frase não precisa virar um novo tópico. A exportação para a apresentação e o guia deve preservar essas quebras. A redação do material de estudo acompanha sua própria função e continua autônoma e aprofundada.
 
 Distinguir apresentar um percurso, conduzir a participação, permitir elaboração e encerrar. Quando essa mudança puder gerar dúvida, usar um aviso curto e reconhecível. Durante a realização, escrever instruções diretas na ordem em que serão dadas e deixar espaço à experiência. Explicações de fundamento e de objetivo ficam antes ou depois, quando necessárias; não se repetem entre cada instrução. Encerramento vem depois de realizar, sem ser anunciado como uma ação a executar dentro da apresentação inicial. No TSH, o padrão de aulas conserva o exemplo corrigido e sua aplicação.
 
