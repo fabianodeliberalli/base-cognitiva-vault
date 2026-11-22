@@ -2,7 +2,7 @@
 tipo: padrao-de-producao
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "2.4"
+versao: "2.5"
 criado_em: 2026-11-02
 atualizado_em: 2026-11-22
 aplica_se_a: futuras producoes de aulas, slides, notas e apoios do TSH
@@ -13,19 +13,19 @@ autor: Fabiano Deliberalli
 
 ## 1. Decisão atual e como recuperar o modelo
 
-Em 22/11/2026, após examinar M2.1 **Como se forma o que você percebe?**, na composição v0.6, Fabiano pediu: “Grave este formato, lógica, dinâmica e andamento de aula como modelo para futuras produções em todas as suas nuances e aspectos.” A orientação passa a valer para as futuras produções do TSH. A etapa anterior de teste restrito ao M2.1 fica superada quanto à adoção do modelo. Ensaio, duração efetiva, gravação e publicação continuam sendo estados próprios de cada aula.
+Em 22/11/2026, após examinar M2.1 **Como se forma o que você percebe?**, na composição v0.6, Fabiano pediu: “Grave este formato, lógica, dinâmica e andamento de aula como modelo para futuras produções em todas as suas nuances e aspectos.” A orientação passa a valer para as futuras produções do TSH. A etapa anterior de teste restrito ao M2.1 fica superada quanto à adoção do modelo.
 
 Esta nota é a descrição operacional do modelo. Serve a ChatGPT, Codex, Claude e a qualquer outro assistente, sem depender do histórico desta conversa nem de acesso à página nativa. Permanece revisável por Fabiano. Preservar a lógica e a qualidade; a quantidade de telas, exemplos e passagens acompanha a aprendizagem de cada aula.
 
 **Recuperação mínima para produzir:** ler a ficha mínima do TSH; esta nota; a posição da aula e suas relações no dossiê vigente; o desenvolvimento efetivo das aulas anteriores pertinentes; e as passagens autorais e fundamentos necessários à questão. Recuperar o que o aluno já aprendeu, além dos nomes das aulas. Desenvolver o raciocínio e a exploração na fonte da aula antes de completar a montagem; o resumo curricular não contém toda a explicação. Para compreender a execução concreta, consultar [[M2.1 - Trilha de exposição v0.8]] e `Materiais/Módulo 2/M2.1 - Conteúdo das telas e notas v0.8.json`; [[M2.2 - Trilha de exposição v0.4]] permite examinar a composição de outra questão. A ficha mínima, alcançada por `AGENTS.md` e `CLAUDE.md`, aponta para esta referência. Expandir a busca quando houver lacuna substantiva, sem carregar o vault inteiro.
 
-**Exemplar e revisões:** o modelo completo adotado por Fabiano permanece recuperável pela genealogia de M2.1; [[M2.1 - Apresentação editável v0.8]] e [[M2.2 - Apresentação editável v0.4]] localizam as revisões atuais produzidas para avaliação, com 20 telas em cada aula. JSON e trilha em Markdown conservam mapa, notas e desenvolvimento. A v0.7 permanece como referência da retirada da personagem e da redação dirigida ao aluno. O rótulo “teste” em metadados anteriores documenta a etapa de construção; a adoção do formato não aprova automaticamente cada revisão posterior.
+**Exemplar e revisões:** o modelo completo adotado por Fabiano permanece recuperável pela genealogia de M2.1; [[M2.1 - Apresentação editável v0.8]] e [[M2.2 - Apresentação editável v0.4]] localizam as revisões atuais produzidas para avaliação, com 20 telas em cada aula. JSON e trilha em Markdown conservam mapa, notas e desenvolvimento. A v0.7 permanece como referência da retirada da personagem e da redação dirigida ao aluno. O rótulo “teste” em metadados anteriores documenta a etapa de construção.
 
-As versões anteriores deste padrão permanecem no histórico Git. As exigências de fala integral predeterminada, notas somente de locução e bibliografia na preparação do apresentador foram substituídas pelo modelo abaixo. Materiais já produzidos conservam seu histórico. M2.1 v0.8 e M2.2 v0.4 têm produção identificada no estado de M2; a adoção do modelo não declara M0/M1 ou as demais aulas refeitos.
+As versões anteriores deste padrão permanecem no histórico Git. As exigências de fala integral predeterminada, notas somente de locução e bibliografia na preparação do apresentador foram substituídas pelo modelo abaixo. Materiais já produzidos conservam seu histórico. Os registros de produção acompanham versões, arquivos, alterações e trabalho restante. Omitir campos, pendências e lembretes de aprovação para gravação. M2.1 v0.8 e M2.2 v0.4 têm produção identificada no estado de M2; a adoção do modelo não declara M0/M1 ou as demais aulas refeitos.
 
 ### Refinamento de coerência e recuperação do acervo — 22/11/2026
 
-Esta revisão incorpora as orientações posteriores de Fabiano sobre pertinência de imagens e metáforas, uniformidade entre materiais e recuperação do acervo autoral. M2.1 v0.8 e M2.2 v0.4 foram produzidas para avaliação, ambas com 20 telas; isso não representa aprovação automática. A base geral de produção está em [[13 - Base de Produção Autoral e Didática - Fabiano Deliberalli]]; esta nota particulariza o trabalho do TSH.
+Esta revisão incorpora as orientações posteriores de Fabiano sobre pertinência de imagens e metáforas, uniformidade entre materiais e recuperação do acervo autoral. M2.1 v0.8 e M2.2 v0.4 foram produzidas para avaliação, ambas com 20 telas. A base geral de produção está em [[13 - Base de Produção Autoral e Didática - Fabiano Deliberalli]]; esta nota particulariza o trabalho do TSH.
 
 Slides, notas e apoio mantêm coerência de conceito, finalidade e progressão. A representação acompanha a função do suporte: uma imagem útil na tela pode ser explicada por palavras ou por outro exemplo no apoio, sem repetição obrigatória de cada figura. Exemplos e metáforas entram onde esclarecem uma relação; não precisam explicar todos os momentos da aula. Fontes tradicionais são contextualizadas em suas próprias linguagens, sem tomar semelhança entre figuras ou termos por identidade teórica. Nos exercícios abertos, o participante não precisa organizar sua questão por uma árvore, campo, vaso ou outra imagem previamente escolhida. Quando a experiência instrumental de Fabiano for pertinente, o instrumento registrado é shakuhachi, não violão; não inventar episódios pessoais.
 
@@ -49,9 +49,9 @@ A composição precisa desenvolver o problema a partir das formulações pertine
 
 Um exemplo cotidiano permite entrar, contrastar ou aplicar a elaboração. Ele não determina um teto para a aula inteira. Linguagem coloquial e tópicos de consulta tornam a densidade acompanhável; a montagem não deve reduzi-la para caber num molde já iniciado. A quantidade de autores, a complexidade terminológica, a duração e o número de slides não comprovam profundidade. As fontes precisam modificar o raciocínio e o trabalho proposto.
 
-Conferência visual, limpeza das notas, igualdade de hashes e revisão de uma prévia têm alcances próprios. Não certificam profundidade substantiva nem transferem ao autor a responsabilidade por detectar toda redução. M2.1 v0.8/M2.2 v0.4 oferecem exemplos de integração operante, preservando seus estados reais. O rascunho M2.4 v0.1 foi colocado em revisão de profundidade e não é um exemplar desse resultado. Aplicar esta correção à composição efetiva antes de tratá-la como resolvida pelo registro.
+Conferência visual, limpeza das notas, igualdade de hashes e revisão de uma prévia têm alcances próprios. Não certificam profundidade substantiva nem transferem ao autor a responsabilidade por detectar toda redução. M2.1 v0.8/M2.2 v0.4 oferecem exemplos de integração operante, com suas fontes recuperáveis. O rascunho M2.4 v0.1 conserva o diagnóstico histórico. A v0.2 reconstrói a aula com 29 passos, elaboração, recursividade, aprendizagem implícita, condições relacionais e quatro passos investigados por sua função; [[M2.4 - Apresentação editável v0.2]] localiza os suportes correspondentes.
 
-A avaliação passou a incluir M2.3 v0.1: há desenvolvimento de confirmação, dissonância/Festinger, absorção, Erickson e retorno, mas a ligação com os dois tempos da Tradução ficou implícita. Integrar as contribuições à passagem entre forma vivida, elaboração e convicção. A M2.4 deve partir do que essa investigação alcança e do que permanece organizado mesmo após a revisão da leitura. [[TSH - Revisão de Profundidade e Percurso - 22-11-2026]] e [[01 - Plano de produção das seis aulas M2]] desenvolvem a comparação e distinguem avaliação de reescrita já realizada.
+A avaliação passou a incluir M2.3 v0.1: há desenvolvimento de confirmação, dissonância/Festinger, absorção, Erickson e retorno, mas a ligação com os dois tempos da Tradução ficou implícita. Integrar as contribuições à passagem entre forma vivida, elaboração e convicção. A M2.4 deve partir do que essa investigação alcança e do que permanece organizado mesmo após a revisão da leitura. [[TSH - Revisão de Profundidade e Percurso - 22-11-2026]] e [[01 - Plano de produção das seis aulas M2]] desenvolvem a comparação e localizam a aplicação nas revisões M2.3 v0.2 e M2.4 v0.2.
 
 Na fonte de cada aula, a prévia e o desenvolvimento devem permitir reconhecer a pergunta, o aprendizado anterior retomado, a contribuição concreta das fontes e formulações autorais, as relações a ensinar e a investigação que a prática realiza. Esses elementos compõem o material de trabalho, sem criar outro relatório ou exigir formulário do autor. O assistente confere sua presença no conteúdo real antes de apresentar a composição como adequada; se faltar uma relação central, precisa desenvolvê-la. Esse exame antecede a conclusão da montagem e volta a ser feito sobre o artefato. Um apoio bem acabado e uma lista de bibliografia não corrigem uma explicação rasa.
 
@@ -87,7 +87,7 @@ Fabiano propôs apresentar na conversa, de forma clara e breve, os tópicos da a
 
 Aplicar como espaço leve de contribuição: mostrar a questão da aula, a progressão e a função das fontes e recursos. Recuperar material suficiente para que a prévia seja concreta. Enquanto o autor revê, avançar em trabalhos independentes; incorporar suas contribuições antes de concluir o que delas depende. Ajustar o tamanho e o momento da conversa ao trabalho, sem exigir formulários, relatórios ou uma cadeia de confirmações para cada ajuste reversível.
 
-A prévia fica junto da fonte da própria aula. Sua revisão não equivale a ensaio, gravação ou aprovação automática de todos os artefatos. Se não acrescentar utilidade numa tarefa, manter o fluxo já solicitado pelo autor. [[M2.4 - Prévia de conteúdo e contribuições v0.1]] preserva a aplicação realizada.
+A prévia fica junto da fonte da própria aula. Se não acrescentar utilidade numa tarefa, manter o fluxo já solicitado pelo autor. [[M2.4 - Prévia de conteúdo e contribuições v0.1]] preserva a aplicação realizada.
 
 ## 4. Slides: representação que ajuda a compreender e a falar
 
@@ -225,11 +225,11 @@ Fabiano avaliou a redação atual do apoio de **M2.1 — Como se forma o que voc
 
 As amostras mostram a perspectiva e o nível da escrita. O exemplar completo é a referência para ritmo, desenvolvimento e organização. Ao produzir outra aula, manter essa qualidade e compor seus fundamentos, exemplos e práticas próprios. Quatro páginas são a extensão deste exemplar, sem teto ou quantidade obrigatória para futuros apoios.
 
-A aprovação refere-se ao apoio atual de M2.1 e ao seu uso como modelo. Não declara a aprovação dos slides de M2.2, de futuras redações ou de estados audiovisuais. Na etapa descrita em v2.1, a reconstrução visual de M2.2 estava pendente. A v0.4 agora produzida para avaliação tem estado próprio em [[00 - Estado e Continuidade da Produção M2]].
+M2.1 Word/PDF versão 4 permanece como exemplar concreto do apoio do aluno. As revisões atuais de M2.1–M2.4 estão localizadas em [[00 - Estado e Continuidade da Produção M2]].
 
 **Escrever diretamente para o aluno.** O texto fala do conhecimento e de sua relação com a experiência de quem aprende. “Na Medicina Chinesa e no Qi Gong…” apresenta o fundamento; “na formação de Fabiano em Medicina Chinesa…” relata bastidores que não explicam o conteúdo. Apresentar Forghieri pela contribuição da Psicologia fenomenológica, sem justificar a referência pela trajetória formativa do professor. A autoria permanece identificada na assinatura e nas fontes; os conceitos autorais aparecem pelo que ensinam.
 
-O entregável precisa ser compreensível por si. Reapresentar exemplos como situações genéricas reconhecíveis, com o contexto necessário; evitar depender de uma personagem, de uma lembrança do vídeo ou de explicações sobre como a aula foi montada. Preservar profundidade e clareza em uma linguagem dirigida a quem estuda. A aprovação do formato da trilha não valida automaticamente cada redação do apoio.
+O entregável precisa ser compreensível por si. Reapresentar exemplos como situações genéricas reconhecíveis, com o contexto necessário; evitar depender de uma personagem, de uma lembrança do vídeo ou de explicações sobre como a aula foi montada. Preservar profundidade e clareza em uma linguagem dirigida a quem estuda.
 
 O apoio permite retomar e aprofundar o aprendizado: texto autoral claro, desenvolvimento dos fundamentos pertinentes, exemplos, prática retomável, elaboração e aplicação à vida, registro e continuidade. Sua extensão acompanha a aprendizagem; não impor um teto genérico de páginas.
 
@@ -317,7 +317,7 @@ Comecemos pela experiência da questão, antes de tentar resolvê-la.
 4. Produzir ou atualizar o apoio do aluno e seu aprofundamento opcional. Conferir a correspondência de conceitos, finalidade, exemplos e prática com slides e notas. A coerência não exige reproduzir literalmente toda figura em todos os suportes, nem impor um desenho nos exercícios abertos.
 5. Percorrer a aula do início ao fim como apresentador e aluno. Conferir se um olhar para a tela e as notas permite saber de onde viemos, o que desenvolver aqui, para quê e para onde seguimos. Reescrever qualquer ponto que ainda exija inventar a explicação durante a gravação.
 6. Verificar os arquivos reais: todas as telas e notas, preservação de imagens aprovadas, legibilidade, exportações e correspondência das versões. Fazer a revisão de conteúdo e visual adequada à alteração; não presumir qualidade pedagógica só pela diagramação.
-7. Atualizar o estado da aula e seus localizadores. Distinguir produção realizada, escolha de Fabiano, proposta do assistente e etapas não confirmadas. Uma nova adoção do modelo não torna automaticamente todos os artefatos prontos, gravados ou publicados.
+7. Atualizar versões, fontes, arquivos, alterações e trabalho restante nos localizadores existentes, distinguindo decisões registradas de propostas editoriais. Reunir slides, guia e apoio em um ZIP para download conjunto.
 
 ### Critérios observáveis
 
@@ -368,7 +368,7 @@ Montar `speakerNotes` ou campo equivalente a partir de `entrada`, `caminho`, `se
 
 Esta conferência responde ao pedido de verificar **a construção das aulas e dos materiais como um todo**, incluindo o uso de mapas e imagens. Compara as orientações registradas de Fabiano, a base geral, esta referência, a ficha mínima, o dossiê, a revisão de profundidade, o plano e o estado de M2. A consulta partiu da `main` `4098ec1c0e027721513512dde269882dc63a1b7a`; a revisão abaixo corrige apontadores de execução antigos e torna explícitas as relações que precisavam de precisão. É um índice de cobertura dentro do próprio padrão, não outro protocolo a preencher.
 
-**Como ler o alcance:** “registrado” significa orientação recuperável para a produção; “produzido” identifica um artefato concreto; “aprovado” refere-se apenas à escolha ou versão que Fabiano confirmou. A cobertura documental não demonstra a aplicação em todas as 59 aulas, qualidade medida de aprendizagem, prontidão para gravação ou publicação. A redação operacional é elaboração editorial no escopo solicitado, sem atribuir a Fabiano cada frase deste documento.
+**Como ler o alcance:** distinguir orientação, artefato produzido e decisão registrada. A cobertura documental se verifica no conteúdo real. Os registros de produção acompanham versões, arquivos, alterações e trabalho restante. Omitir campos, pendências e lembretes de aprovação para gravação.
 
 ### Conteúdo, fundamentos e percurso
 
@@ -409,7 +409,7 @@ Esta conferência responde ao pedido de verificar **a construção das aulas e d
 | Entregáveis e Hotmart por aprendizagem | Seção 9; [[TSH - Entregáveis do aluno e inserção na Hotmart - M2 a M8]]. Orientação, apoios úteis, Cartografia, síntese/repertório e complementos podem compartilhar arquivos. | Sem número fixo de PDFs/páginas ou ficha nova por aula. Destinação não comprova upload, liberação, publicação ou acesso de cada aluno. |
 | Recuperação automática quando há acesso | Seções 1 e 12; `AGENTS.md`/`CLAUDE.md` → contrato comum → base geral e ficha do projeto → padrão, estado e fontes pertinentes. Aplicação durante o trabalho, sem novo lembrete ou relatório ritual. | Generalizável a outros conteúdos com a base geral e sua referência específica; não exportar o currículo TSH nem prometer leitura por uma IA sem acesso. |
 | Qualidade do produto entregue | Seções 8 e 11. Percorrer o conteúdo integral e os artefatos reais; conferir conceitos, encadeamento, todas as notas, imagens, links, legibilidade, fontes e exportações conforme a alteração. | QA visual não demonstra aprendizagem ou prontidão substantiva. Uma correção de notas não autoriza destruir o apoio visual aprovado. |
-| Decisões, propostas, produção e desconhecido | Seções 1, 9 e 11; [[00 - Estado e Continuidade da Produção M2]]. Distinguir adoção do modelo, exemplar aprovado, revisão produzida para avaliação e etapas sem confirmação. | M2.1 v0.8/M2.2 v0.4 e seus apoios têm produção registrada. M2.3–M2.6/M3–M8 têm orientação estrutural, sem novos artefatos finais produzidos nesta frente; ensaio, duração, gravação, edição e Hotmart continuam sem confirmação. |
+| Decisões, propostas e produção | Seções 1, 9 e 11; [[00 - Estado e Continuidade da Produção M2]]. Registrar versões e alterações, distinguindo escolhas do autor de propostas editoriais. | M2.1 v0.8/M2.2 v0.4, M2.3 v0.2 e M2.4 v0.2 têm fontes e suportes localizados; M2.5–M2.6 e M3–M8 mantêm a orientação estrutural. |
 
 **Precisões feitas nesta conferência:** a ficha mínima, o plano de M2, os localizadores do dossiê e a orientação de entregáveis passam a retomar as trilhas M2.1 v0.8/M2.2 v0.4 e o estado de M2. As etapas de 12/18 telas, roteiro integral, personagem e apoio inicial de duas páginas ficam qualificadas como história no próprio trecho. Matrizes 9–54 conservam a função de consulta das origens, acompanhadas da correspondência atual 59. O padrão reúne a cobertura acima; a produção continua aula a aula, com verificação do resultado concreto.
 

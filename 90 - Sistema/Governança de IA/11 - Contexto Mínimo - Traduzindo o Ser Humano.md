@@ -2,7 +2,7 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.50"
+versao: "0.52"
 atualizado_em: 2026-11-22
 ---
 
@@ -18,7 +18,7 @@ Fabiano precisou reiterar em 22/11/2026 a crítica à produção básica diante 
 
 O assistente confere se as contribuições recuperadas mudam o conteúdo, as perguntas e a prática, e se as relações centrais chegam ao material efetivo. Comparar a qualidade de raciocínio e exploração com os exemplares pertinentes, além da aparência. Se uma relação central faltar, desenvolvê-la; se a fonte indispensável estiver inacessível, explicitar a lacuna. Não preencher silenciosamente com uma aula genérica nem apresentar acabamento técnico como prontidão substantiva. Essa conferência integra o trabalho, sem formulário, relatório extra ou revisão obrigatória de Fabiano. Registro e consulta não demonstram aplicação por si.
 
-**Referências da construção:** [[13 - Base de Produção Autoral e Didática - Fabiano Deliberalli]] v1.2; [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] v2.4; [[TSH - Revisão de Profundidade e Percurso - 22-11-2026]]. A base geral também orienta outros trabalhos autorais, com o contexto próprio de cada projeto; não transportar automaticamente currículo ou identidade do TSH.
+**Referências da construção:** [[13 - Base de Produção Autoral e Didática - Fabiano Deliberalli]] v1.3; [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] v2.5; [[TSH - Revisão de Profundidade e Percurso - 22-11-2026]]. A base geral também orienta outros trabalhos autorais, com o contexto próprio de cada projeto; não transportar automaticamente currículo ou identidade do TSH.
 
 ## Identidade, finalidade e arquitetura atuais
 
@@ -46,17 +46,17 @@ O entregável dirige-se ao aluno e é compreensível por si, com fundamentos des
 
 ## Frente atual: avaliação progressiva M2.1–M2.4
 
-[[00 - Estado e Continuidade da Produção M2]] localiza apresentações, fontes estruturadas, trilhas e arquivos. [[01 - Plano de produção das seis aulas M2]] descreve a progressão; a revisão de profundidade identifica evidências e alterações ainda por aplicar.
+[[00 - Estado e Continuidade da Produção M2]] localiza apresentações, fontes estruturadas, trilhas e arquivos. [[01 - Plano de produção das seis aulas M2]] descreve a progressão; a revisão de profundidade distingue o diagnóstico e a aplicação posterior em M2.3 v0.2.
 
 | Aula | Fonte atual e ponto de retomada |
 | --- | --- |
-| M2.1 | [[M2.1 - Trilha de exposição v0.8]]: constituição corporificada/relacional, enação, primeira pessoa, expressão e retorno. Produzida para avaliação, sem aprovação audiovisual inferida. |
+| M2.1 | [[M2.1 - Trilha de exposição v0.8]]: constituição corporificada/relacional, enação, primeira pessoa, expressão e retorno. Trilha e suportes disponíveis. |
 | M2.2 | [[M2.2 - Trilha de exposição v0.4]]: relevância, forma e elaboração; dois tempos da Tradução; Eu Básico/Eu Médio, Bion e condução com Naranjo participam do raciocínio. A adaptação dedo–palma saiu; práticas originais continuam no acervo. |
-| M2.3 | [[M2.3 - Trilha de exposição v0.1]]: confirmação, Festinger/dissonância, absorção, Erickson e retorno foram desenvolvidos. A avaliação progressiva indicou explicitar a ligação entre os dois tempos e a formação da convicção, comparando mudança da leitura e do modo vivido. Ajuste ainda não aplicado aos artefatos. |
-| M2.4 | [[M2.4 - Prévia de conteúdo e contribuições v0.1]]: prévia autorizada para desenvolvimento, não aprovação da execução. Slides/guias v0.1 são **rascunhos em revisão substantiva**, não exemplar do modelo. O núcleo reelaborado parte da revisão de uma leitura que coexiste com permanência da organização vivida/participação. Ainda não foi integralmente aplicado aos artefatos. |
+| M2.3 | [[M2.3 - Trilha de exposição v0.2]]: revisão substantiva produzida para avaliação; dois tempos/convicção explícitos, confirmação, Festinger, absorção, Erickson, retorno e comparação entre leitura e vivido. [[M2.3 - Apresentação editável v0.2]] localiza 24 telas/notas, guia de 25 páginas, apoio de seis páginas e ZIP único com todos os arquivos. V0.1 permanece histórica. |
+| M2.4 | [[M2.4 - Trilha de exposição v0.2]]: reconstrução de 29 passos; configuração, elaboração emocional, recursividade, aprendizagem, função, expressão e condições. Quatro passos com recurso vivido, comparação e participação concreta. [[M2.4 - Apresentação editável v0.2]] localiza slides com notas, guia, apoio e ZIP único. |
 | M2.5–M2.6 | Orientação estrutural: distinguir vivido/sentido/interpretação/origem e realizar Tradução recursiva. Novos materiais integrais ainda não produzidos nesta frente. |
 
-M2.1 e M2.2 são referências de integração em desenvolvimento, não peças infalíveis. A aprovação do formato e do apoio exemplar não homologa cada revisão. M0/M1 conservam seu histórico; atualização documental não demonstra substituição de vídeos. Ensaio, duração real, gravação, edição e publicação só são confirmados por evidência. O índice anterior de 95/100 avaliava planejamento, não a profundidade dos artefatos.
+M2.1 e M2.2 são referências de integração em desenvolvimento. M0/M1 conservam seu histórico. Os registros de produção acompanham versões, arquivos, alterações e trabalho restante. Omitir campos, pendências e lembretes de aprovação para gravação. O índice anterior de 95/100 avaliava planejamento, não a profundidade dos artefatos.
 
 ## Recuperação por contribuição
 
@@ -75,4 +75,4 @@ Usar a linha pertinente junto das fontes da aula, sem carregar todos os document
 | Anexos recebidos durante M2.3 | [[Anexos M2 - Conteúdos imagens e destinos de resgate]]: quatro PowerPoints, 255 lâminas e duas imagens de Milgram, textos/mídias/originais e destinos propostos. [[Claustro - Atenção, integração e estados de consciência no TSH]] desenvolve contribuições específicas, sem inclusão automática em M2.4. |
 | Genealogia, decisão anterior ou detalhe não restituído aqui | [[11a - Contexto TSH - Histórico integral até 22-11-2026]] conserva a ficha anterior completa, com fontes, destinos e títulos de seções. Decisões posteriores e estado da frente orientam sua aplicação. |
 
-Esta consolidação preserva o caminho de entrada e o patrimônio; a próxima composição precisa demonstrar sua aplicação. A nova redação e os materiais em revisão permanecem identificados na ramificação de trabalho até homologação de integração. O Site não é a frente de produção solicitada.
+A consolidação anterior e as correções de profundidade foram integradas à main pelo PR 88 com autorização de Fabiano, preservando estados. As revisões M2.3 v0.2 e M2.4 v0.2 preservam suas fontes completas e a correspondência entre suportes. Para novas entregas, reunir slides, guia e apoio em um ZIP único, além de manter as fontes recuperáveis. Registro não comprova aplicação; conferir os materiais efetivos. O Site não é a frente solicitada.

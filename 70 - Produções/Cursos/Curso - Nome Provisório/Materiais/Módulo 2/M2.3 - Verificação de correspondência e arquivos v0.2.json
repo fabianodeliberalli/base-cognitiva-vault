@@ -1,0 +1,124 @@
+{
+  "lesson": "M2.3",
+  "version": "0.2",
+  "date": "2026-11-22",
+  "status": "versao-de-trabalho",
+  "native_page_id": "page_5376023809188191be041e1ad63b40b6",
+  "native_sequence": 5,
+  "notes_sha256": "21aaf45d6f2c63b2d9042561c32ddf214f9df88d8781b0b1e5a9dcda6168940c",
+  "pptx_notes_equal_to_source": 24,
+  "pdf_pages": {
+    "TSH_M2_3_Slides_Revisao.pdf": 24,
+    "TSH_M2_3_Guia_da_Trilha.pdf": 25,
+    "TSH_M2_3_Apoio_do_Aluno.pdf": 6
+  },
+  "visual_inspection": {
+    "native_slides": "24 de 24",
+    "guide_pages": "25 de 25",
+    "student_pages": "6 de 6",
+    "pptx_pdf_sample_pages": [
+      1,
+      4,
+      19
+    ]
+  },
+  "technical_report": "file_validation_revisao.json",
+  "claim_boundary": "Correspondência de arquivos e inspeção visual têm alcance técnico; não medem aprendizagem.",
+  "files": [
+    {
+      "name": "TSH_M2_3_Slides.pptx",
+      "bytes": 780139,
+      "sha256": "94424c68de63e8f7c86b62fad5cfcaa0eddd81da58e69efc80aa3a6395550159"
+    },
+    {
+      "name": "TSH_M2_3_Slides.pdf",
+      "bytes": 396800,
+      "sha256": "03fed2335ddf069d9c99a04b997b96ec680cb3b02b8a63ee368bfb17d6e8d068"
+    },
+    {
+      "name": "TSH_M2_3_Guia_da_Trilha.docx",
+      "bytes": 48317,
+      "sha256": "4ea527bfba9302dd5c5894cb90b4e34ac9039f2ce4f8af5bbffc29f0de47c520"
+    },
+    {
+      "name": "TSH_M2_3_Guia_da_Trilha.pdf",
+      "bytes": 199878,
+      "sha256": "9a974b21a74bfffaee3665c6d6c17995216e1b7e4c2a3f471fc775a6ac725785"
+    },
+    {
+      "name": "TSH_M2_3_Apoio_do_Aluno.docx",
+      "bytes": 221165,
+      "sha256": "153986b4e2d7ade95bd651f40be4541f3f9488233f90a539f67a9a13135c4a50"
+    },
+    {
+      "name": "TSH_M2_3_Apoio_do_Aluno.pdf",
+      "bytes": 197205,
+      "sha256": "7d536fecf5bce6a12be057b2810cea1c5329b61418b4c91fdac7e895dfaaba3c"
+    }
+  ],
+  "zip": {
+    "name": "TSH_M2_3_Kit_Completo_v02.zip",
+    "entries": 7,
+    "crc": "pass",
+    "bytes": 1220760,
+    "sha256": "0c1e61a6c65c2a94ef6f68545c13435ed079ac1e9a4f9d88e8a7ef5f44970cbb"
+  },
+  "persistent_files": [
+    {
+      "file_name": "TSH_M2_3_Guia_da_Trilha.docx",
+      "file_id": "file_0000000081d4820e978f5f8bd83376ee",
+      "library_file_id": "libfile_fde3_f-78a9f74518b481919d2901483ef34b92_ad925f8fadbc81918eab9ef0eafee9a9",
+      "current_version_number": 1,
+      "purpose": "replace_library_file",
+      "status": "succeeded"
+    },
+    {
+      "file_name": "TSH_M2_3_Guia_da_Trilha.pdf",
+      "file_id": "file_000000002738820ebabd1b911684cca3",
+      "library_file_id": "libfile_fde3_f-5c932fb81b508191838e73ecab2f350d_ad925f8fadbc81918eab9ef0eafee9a9",
+      "current_version_number": 1,
+      "purpose": "replace_library_file",
+      "status": "succeeded"
+    },
+    {
+      "file_name": "TSH_M2_3_Apoio_do_Aluno.docx",
+      "file_id": "file_0000000066fc820eac3505bd12c60c48",
+      "library_file_id": "libfile_fde3_f-c6d6719d7f548191b60d501e2b3da24c_ad925f8fadbc81918eab9ef0eafee9a9",
+      "current_version_number": 1,
+      "purpose": "replace_library_file",
+      "status": "succeeded"
+    },
+    {
+      "file_name": "TSH_M2_3_Apoio_do_Aluno.pdf",
+      "file_id": "file_00000000a444820ead580094119e74ec",
+      "library_file_id": "libfile_fde3_f-5da7c86a13648191b4cc0a193d3758fb_ad925f8fadbc81918eab9ef0eafee9a9",
+      "current_version_number": 1,
+      "purpose": "replace_library_file",
+      "status": "succeeded"
+    },
+    {
+      "file_name": "TSH_M2_3_Slides.pptx",
+      "file_id": "file_00000000dbe0820eaafd138905b93aab",
+      "library_file_id": "libfile_fde3_f-735a5af7e10081918affe47ea227df83_ad925f8fadbc81918eab9ef0eafee9a9",
+      "current_version_number": 0,
+      "purpose": "create_library_file",
+      "status": "succeeded"
+    },
+    {
+      "file_name": "TSH_M2_3_Slides.pdf",
+      "file_id": "file_000000003854820e9aaf559b7524bd2c",
+      "library_file_id": "libfile_fde3_f-83b8049c0b2c8191876e0624b1dd0c92_ad925f8fadbc81918eab9ef0eafee9a9",
+      "current_version_number": 0,
+      "purpose": "create_library_file",
+      "status": "succeeded"
+    },
+    {
+      "file_name": "TSH_M2_3_Kit_Completo_v02.zip",
+      "file_id": "file_000000002df0820ea7da36fc6bb8f12a",
+      "library_file_id": "libfile_fde3_f-8e7452c3ba1c8191bbd0ecb39af22497_ad925f8fadbc81918eab9ef0eafee9a9",
+      "current_version_number": 1,
+      "purpose": "replace_library_file",
+      "status": "succeeded"
+    }
+  ]
+}

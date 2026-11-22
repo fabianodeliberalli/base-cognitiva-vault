@@ -1,7 +1,7 @@
 ---
 tipo: base-de-producao-autoral-e-didatica
 status: referencia-de-trabalho-revisavel
-versao: "1.2"
+versao: "1.3"
 atualizado_em: 2026-11-22
 autoridade_final: Fabiano Deliberalli
 elaboracao: desenvolvimento-editorial-para-avaliacao
@@ -11,7 +11,7 @@ elaboracao: desenvolvimento-editorial-para-avaliacao
 
 ## Aplicação a partir do contexto
 
-Fabiano solicitou que sua base de produção seja recuperada no trabalho com qualquer conteúdo autoral, do TSH ou de outro projeto, sem precisar repetir essas orientações em cada pedido. Esta nota organiza a aplicação geral e foi incorporada ao repositório por homologação; sua redação operacional permanece editorial e revisável. As escolhas do autor e a instrução mais recente da tarefa prevalecem. A incorporação da referência não aprova automaticamente as peças produzidas a partir dela.
+Fabiano solicitou que sua base de produção seja recuperada no trabalho com qualquer conteúdo autoral, do TSH ou de outro projeto, sem precisar repetir essas orientações em cada pedido. Esta nota organiza a aplicação geral e foi incorporada ao repositório por homologação; sua redação operacional permanece editorial e revisável. As escolhas do autor e a instrução mais recente da tarefa prevalecem.
 
 Ao criar ou revisar aulas, roteiros, textos, apresentações, apoios ou outras peças autorais, aplicar esta base durante a execução, sem cobrar um lembrete ou anunciar um ritual de carregamento. Ela atua quando o assistente efetivamente acessa estas referências. A presença de um arquivo não prova que outra IA, conversa ou aplicativo o tenha recebido ou lido.
 
@@ -41,7 +41,7 @@ Fabiano reiterou que seu repertório, seus materiais autorais e as articulaçõe
 
 Na própria fonte de trabalho, desenvolver a pergunta específica, o raciocínio necessário para compreendê-la e o que cada fundamento ou formulação autoral acrescenta. Recuperar e ler as passagens pertinentes, além de seus títulos e resumos; mostrar sua contribuição no desenvolvimento, nas perguntas e na prática. Acrescentar autores a um roteiro já genérico não corrige a redução. Quando o trabalho continua um percurso, ler o conteúdo efetivamente desenvolvido antes e explicitar o novo passo; uma lista de títulos não restitui essa continuidade.
 
-Antes de converter esse desenvolvimento em apresentação ou outro suporte, conferir se as relações centrais continuam ensinadas e se a experiência proposta investiga a mesma questão. Comparar com o exemplar pertinente pela qualidade do raciocínio e da exploração, preservando a voz e os estados reais de aprovação. A montagem é ajustada ao conteúdo. Não reduzir o conteúdo para completar uma quantidade de tópicos, telas, páginas ou minutos presumida.
+Antes de converter esse desenvolvimento em apresentação ou outro suporte, conferir se as relações centrais continuam ensinadas e se a experiência proposta investiga a mesma questão. Comparar com o exemplar pertinente pela qualidade do raciocínio e da exploração, preservando a voz e as formulações pertinentes. A montagem é ajustada ao conteúdo. Não reduzir o conteúdo para completar uma quantidade de tópicos, telas, páginas ou minutos presumida.
 
 Essa conferência integra a composição e é responsabilidade do assistente; não transfere a Fabiano um formulário ou uma revisão obrigatória. Se a relação central ainda não foi desenvolvida, recuperá-la e trabalhar nela. Se uma fonte indispensável estiver de fato inacessível, explicitar a lacuna sem preencher silenciosamente com conteúdo genérico nem anunciar a produção como pronta. A mera leitura destas instruções e o acabamento dos arquivos não demonstram sua aplicação. No TSH, o padrão e o planejamento do módulo particularizam esta orientação sem transportar seu currículo para outros projetos.
 
@@ -63,5 +63,5 @@ O apoio destinado ao estudo precisa ser compreensível por si: restituir o conte
 
 Revisar a correspondência entre conceitos, imagens, exemplos, notas, práticas e apoios, sem exigir repetição literal. Conferir os artefatos reais: conteúdo completo, legibilidade, relações gráficas, fontes, links, páginas ou telas, exportação e integridade do material recuperado, conforme a entrega. O acabamento visual não demonstra compreensão, aprendizagem ou execução audiovisual.
 
-Distinguir pedido e decisão de Fabiano, desenvolvimento editorial, proposta, produção realizada e estado ainda não confirmado. Não transformar uma escolha geral em aprovação automática de cada arquivo. Preservar estados desconhecidos e materiais históricos; registrar apenas o necessário à recuperação e à continuidade. Ajustes reversíveis autorizados avançam na própria tarefa; a integração à main continua seguindo o contrato comum.
+Distinguir decisões registradas de propostas editoriais e manter versões e materiais históricos recuperáveis. Os registros de produção acompanham versões, arquivos, alterações e trabalho restante. Omitir campos, pendências e lembretes de aprovação para gravação. Ajustes reversíveis autorizados avançam na própria tarefa; a integração à main segue a autorização vigente na conversa e o contrato comum.
 

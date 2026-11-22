@@ -1,0 +1,119 @@
+{
+  "lesson": "M2.4",
+  "version": "0.2",
+  "date": "2026-11-22",
+  "status": "versao-de-trabalho",
+  "native_page_id": "page_4a0bbd7deab88191b8dce926e8f3c44e",
+  "native_sequence": 6,
+  "notes_sha256": "b6ed5cf2a9225ce252c300f12307449c0a5619684a47e82b98c01ec08982a5cc",
+  "pptx_notes_equal_to_source": 29,
+  "pdf_pages": {
+    "TSH_M2_4_Slides_Revisao.pdf": 29,
+    "TSH_M2_4_Guia_da_Trilha.pdf": 30,
+    "TSH_M2_4_Apoio_do_Aluno.pdf": 6
+  },
+  "visual_inspection": {
+    "native_slides": "29 de 29",
+    "guide_pages": "30 de 30",
+    "student_pages": "6 de 6",
+    "pptx_pdf_sample_pages": [
+      1,
+      5,
+      12,
+      14,
+      28
+    ]
+  },
+  "technical_report": "M2.4 - Validação técnica do PowerPoint v0.2.json",
+  "claim_boundary": "Correspondência de arquivos, revisão de conteúdo e inspeção visual; não é medição de aprendizagem ou execução no PowerPoint nativo.",
+  "files": [
+    {
+      "name": "TSH_M2_4_Slides.pptx",
+      "bytes": 1091288,
+      "sha256": "57bca5b52824985236ee34b7a7ef74788c5a39d70e980888f5b7a6e76a5fae41"
+    },
+    {
+      "name": "TSH_M2_4_Slides.pdf",
+      "bytes": 632430,
+      "sha256": "b1793038c8a68fca5c1d5848909473ba9f601698e726e3affb0cd9388f6c0d80"
+    },
+    {
+      "name": "TSH_M2_4_Guia_da_Trilha.docx",
+      "bytes": 49766,
+      "sha256": "a49df675a109d9d62120213e377b8392ee0d6b8fd1bf3d3b1df1440578e2d8e4"
+    },
+    {
+      "name": "TSH_M2_4_Guia_da_Trilha.pdf",
+      "bytes": 231242,
+      "sha256": "f9ac63d3d9df2e2c13694f1a5b572afd12b51e1e5ff977c301438f5555e32069"
+    },
+    {
+      "name": "TSH_M2_4_Apoio_do_Aluno.docx",
+      "bytes": 246956,
+      "sha256": "30efe035e53e565e344b41a76b134adfdae404ff03fc25794ecfd3cffceae60b"
+    },
+    {
+      "name": "TSH_M2_4_Apoio_do_Aluno.pdf",
+      "bytes": 201050,
+      "sha256": "297161c9246f5bec153ad598bbc69d4962d6704f742b036f2782995f75ea57d3"
+    }
+  ],
+  "zip": {
+    "name": "TSH_M2_4_Kit_Completo_v02.zip",
+    "entries": 7,
+    "crc": "pass",
+    "bytes": 1794979,
+    "sha256": "c9171ed18f35d97b8c01c612de99138292f0c06d2bcba5dbc390fb8f99f89868"
+  },
+  "persistent_files": [
+    {
+      "file_name": "TSH_M2_4_Guia_da_Trilha.docx",
+      "file_id": "file_000000000650820eac88f80e75bb6e76",
+      "library_file_id": "libfile_fde3_f-008868f1777081918d16ace3a78c16a3_ad925f8fadbc81918eab9ef0eafee9a9",
+      "current_version_number": 1,
+      "status": "succeeded"
+    },
+    {
+      "file_name": "TSH_M2_4_Guia_da_Trilha.pdf",
+      "file_id": "file_0000000066f8820ebe9c9b71daf10bf4",
+      "library_file_id": "libfile_fde3_f-77d3888e75988191bf553aed213b0b28_ad925f8fadbc81918eab9ef0eafee9a9",
+      "current_version_number": 1,
+      "status": "succeeded"
+    },
+    {
+      "file_name": "TSH_M2_4_Apoio_do_Aluno.docx",
+      "file_id": "file_000000006b70820eaea49bbecef02bce",
+      "library_file_id": "libfile_fde3_f-4a9271bb3a24819189f899b89a359c0f_ad925f8fadbc81918eab9ef0eafee9a9",
+      "current_version_number": 1,
+      "status": "succeeded"
+    },
+    {
+      "file_name": "TSH_M2_4_Apoio_do_Aluno.pdf",
+      "file_id": "file_00000000a984820e9b9c410b0a859102",
+      "library_file_id": "libfile_fde3_f-3870138f26b48191874d212c8566abeb_ad925f8fadbc81918eab9ef0eafee9a9",
+      "current_version_number": 1,
+      "status": "succeeded"
+    },
+    {
+      "file_name": "TSH_M2_4_Slides.pptx",
+      "file_id": "file_000000006134820ebbddc5ae517f3f51",
+      "library_file_id": "libfile_fde3_f-0ff4b8bb46688191bdee149bd0a14b26_ad925f8fadbc81918eab9ef0eafee9a9",
+      "current_version_number": 0,
+      "status": "succeeded"
+    },
+    {
+      "file_name": "TSH_M2_4_Slides.pdf",
+      "file_id": "file_000000007c08820e8081e71513169adf",
+      "library_file_id": "libfile_fde3_f-60ebe57145448191b55987fd3745ea1a_ad925f8fadbc81918eab9ef0eafee9a9",
+      "current_version_number": 0,
+      "status": "succeeded"
+    },
+    {
+      "file_name": "TSH_M2_4_Kit_Completo_v02.zip",
+      "file_id": "file_00000000fdf4820e8956ee9d361f427b",
+      "library_file_id": "libfile_fde3_f-41980635b4548191a26de991fd94c7d8_ad925f8fadbc81918eab9ef0eafee9a9",
+      "current_version_number": 0,
+      "status": "succeeded"
+    }
+  ]
+}
