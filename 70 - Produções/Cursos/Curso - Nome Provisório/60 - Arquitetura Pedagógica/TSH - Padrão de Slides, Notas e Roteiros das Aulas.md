@@ -2,8 +2,9 @@
 tipo: padrao-de-producao
 projeto: Traduzindo o Ser Humano
 status: referencia-revisavel
-versao: "1.2"
+versao: "1.3"
 criado_em: 2026-11-02
+atualizado_em: 2026-11-22
 aplica_se_a: aulas a partir de M1.3
 autor: Fabiano Deliberalli
 tags:
@@ -17,6 +18,8 @@ tags:
 ## Estatuto
 
 Referência de produção revisável, derivada das aulas já padronizadas (M0.1–M0.3, M1.1–M1.2) e do [[00 - Manual de Identidade Visual v1.0]]. Vale para as aulas **a partir de M1.3**. As aulas já padronizadas não serão refeitas; suas diferenças estão listadas no fim. Não substitui o manual, a [[11 - Esteira de Produção dos Materiais do Curso]] nem os cadernos de produção de cada aula: quando um caderno traz regra visual específica, ela prevalece para aquela aula.
+
+A v1.3 registra o pedido de Fabiano de manter nas notas do orador e no roteiro de gravação somente a fala, em linguagem clara, coloquial e natural, com blocos curtos para a primeira leitura. A v1.2 permanece recuperável no histórico. Esta revisão altera a organização da locução e da preparação; não muda cores, fontes, marca, tipos de tela ou textos visuais e não exige refazer aulas já produzidas por sincronização. A avaliação entre manual e padrão de aplicação pertence à frente separada de auditoria visual.
 
 ## 1. Visual
 
@@ -80,18 +83,14 @@ Referência de produção revisável, derivada das aulas já padronizadas (M0.1�
 - A linha vertical com os pontos do símbolo é elemento da identidade visual e pode ser usada em qualquer aula.
 - Citações entre aspas curvas “ ”.
 
-## 3. Notas do orador e roteiro
+## 3. Notas do orador, roteiro de fala e preparação
 
-Cada tela tem um bloco de notas, na mesma versão do roteiro no vault:
+Cada tela tem notas contendo **somente o que será dito**, correspondentes ao roteiro de fala vigente no vault. A locução usa linguagem clara, coloquial e natural, em blocos curtos que facilitem a primeira leitura. Instruções faladas da prática permanecem no texto; os silêncios são conduzidos pelo educador.
 
-1. **NA TELA** — o texto visível, itens separados por "|";
-2. **FALA** (ou FALA INTEGRAL) — texto para leitura;
-3. **CONDUÇÃO E FONTES** — avanço, pausas, cuidados, fontes e limites.
+O caderno de preparação reúne, à parte, **NA TELA**, condução, fontes, limites, tempos de referência e o mapa operacional de avanços ou cliques quando necessário. Esses elementos não entram nas notas nativas nem no roteiro de gravação como rubricas, rótulos, URLs ou marcas a serem lidas.
 
-Regras:
-
-- Quando houver entradas progressivas, a fala recebe **[CLIQUE]** antes da frase em que o item deve aparecer, e a condução termina com "Esta tela tem N clique(s) interno(s), marcados como [CLIQUE] na fala."
-- O roteiro do vault recebe as mesmas marcas quando o deck for finalizado.
+- Entradas progressivas e cliques continuam disponíveis quando servem à aprendizagem, conforme a seção 1 e a composição da aula. O mapa operacional no caderno relaciona o avanço ao trecho da fala e ao item revelado, sem inserir marcas **[CLIQUE]** na locução limpa.
+- Notas da apresentação e roteiro de fala do vault mantêm correspondência de texto e versão. Fontes, justificativas e orientações de montagem permanecem recuperáveis na preparação.
 - Regras visuais específicas da aula (imagens permitidas, não antecipações, telas que devem ficar estáveis) ficam no caderno de produção, numa seção "Regras visuais".
 
 ## 4. Entrada que evita retrabalho
@@ -100,19 +99,19 @@ O deck bruto, venha de onde vier, fica pronto para padronizar sem ajustes quando
 
 - uma forma de texto por item (não vários itens numa caixa só);
 - título, itens e rodapé em formas separadas;
-- notas no formato da seção 3;
-- tipo de tela indicado na condução quando a função não for óbvia (ex.: "Relação, sem setas");
+- notas com somente a fala vigente, no formato da seção 3;
+- tipo de tela indicado no caderno de preparação quando a função não for óbvia (ex.: "Relação, sem setas");
 - caderno de produção com a seção "Regras visuais".
 
 ## 5. Checklist de entrega
 
-- [ ] Texto das telas e notas idêntico ao original, salvo marcas [CLIQUE] e ajustes listados na entrega.
+- [ ] Texto das telas preservado e notas correspondentes ao roteiro de fala vigente, com ajustes listados na entrega.
 - [ ] Capa com subtítulo oficial sob a marca.
 - [ ] Rodapé com código e paginação em todas as telas de conteúdo.
-- [ ] Cliques conferidos contra a fala.
+- [ ] Cliques conferidos contra o mapa operacional do caderno e a fala, sem marcas nas notas de gravação.
 - [ ] Validação do arquivo e revisão visual de todas as telas.
 - [ ] Cópia em `Materiais/Módulo N/` com sufixo "- padronizado".
-- [ ] Roteiro do vault atualizado com as marcas de clique.
+- [ ] Roteiro de fala do vault sincronizado com as notas limpas; fontes e condução mantidas no caderno de preparação.
 
 ## Câmera
 

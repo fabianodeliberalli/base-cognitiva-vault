@@ -1,0 +1,167 @@
+{
+  "title": "Como se forma o que você percebe?",
+  "version": "0.3",
+  "duration": null,
+  "design": {
+    "paletteSource": "Ateliê TSH, app/globals.css",
+    "green": "#143f36",
+    "cream": "#f6f4eb",
+    "gold": "#bc9d60",
+    "text": "#243d35",
+    "fonts": [
+      "Georgia",
+      "Arial"
+    ]
+  },
+  "slides": [
+    {
+      "title": "Como se forma\no que você percebe?",
+      "label": "MÓDULO 2\nAULA 1",
+      "lines": [
+        "Fabiano Deliberalli"
+      ],
+      "kind": "cover",
+      "number": 1,
+      "notes": "Você está terminando o dia. Ainda tem uma coisa para resolver, o celular acende e chega uma mensagem.\n\nVocê olha para a tela e lê:",
+      "wordCount": 25
+    },
+    {
+      "title": "A mensagem e a leitura de Lia",
+      "label": "CENA FICTÍCIA",
+      "lines": [
+        "Mensagem escrita",
+        "“Você ainda não me respondeu.\nPreciso disso hoje.”",
+        "Leitura de Lia",
+        "“Você falhou. Outra vez.”"
+      ],
+      "kind": "quotes",
+      "number": 2,
+      "notes": "“Você ainda não me respondeu. Preciso disso hoje.”\n\nTalvez venha um incômodo antes mesmo de você pensar numa resposta. E aquelas palavras já cheguem com um tom: “Você falhou. Outra vez.”\n\nVamos imaginar essa cena com uma pessoa que vou chamar de Lia. É um exemplo fictício, para a gente olhar com calma.\n\nDepois vamos acompanhar outra cena, também inventada, com uma vontade de dançar.\n\nNa mensagem da Lia, a palavra “falhou” não está escrita. Ela apareceu no jeito como Lia leu.\n\nIsso pode ter uma história. Quem mandou a mensagem costuma cobrar de um jeito duro?\n\nHavia um prazo combinado? Lia esqueceu?\n\nEstá cansada? Existe uma diferença de poder que dificulta responder?\n\nAinda precisamos saber.\n\nO pedido de resposta e a urgência estão ali. Eles fazem parte da conversa.\n\nE também vale perguntar: o que Lia entendeu disso? O que ela sabe sobre a intenção de quem mandou?\n\nÉ por aqui que começamos nosso segundo módulo. No primeiro, vimos que entender uma coisa e conseguir usá-la na hora podem ser bem diferentes.\n\nAgora vamos olhar para como a situação aparece para você. O que você encontra?\n\nO que chama sua atenção? O que já estava esperando?\n\nQuero ajudar você a perceber essas diferenças e reconhecer o que ainda precisa conferir.",
+      "wordCount": 211
+    },
+    {
+      "title": "As mesmas palavras em dois contextos",
+      "lines": [
+        "Fim do dia",
+        "Exaustão, fome e outras cobranças",
+        "Tempo e apoio",
+        "Prazo conhecido e alguém para conferir"
+      ],
+      "kind": "contexts",
+      "number": 3,
+      "notes": "Vamos imaginar duas versões da cena da Lia.\n\nNa primeira, ela abre a mensagem às onze da noite. Trabalhou o dia inteiro, ficou sem comer e já recebeu outras cobranças.\n\nLê “Preciso disso hoje” e pensa: “Vou ter que largar tudo e resolver agora.”\n\nNa outra versão, é de manhã. Ela sabe qual é o prazo e tem alguém por perto para conferir o trabalho.\n\nPode responder: “Entrego às duas. Isso atende?”\n\nTalvez o pedido pareça mais fácil de lidar nessa segunda cena. Talvez continue difícil.\n\nA gente teria que ouvir a Lia.\n\nAs palavras ficaram iguais. Mas mudamos o horário, o apoio e o que ela sabia.\n\nMudou muita coisa em volta. Isso pode participar do que ela percebe e do que consegue responder.",
+      "wordCount": 125
+    },
+    {
+      "title": "Expectativas e percepção",
+      "lines": [
+        "O que espero encontrar?",
+        "O que pode corrigir minha previsão?"
+      ],
+      "kind": "questions",
+      "number": 4,
+      "notes": "Quando você percebe alguma coisa, sua história chega junto. O que aprendeu, o que teme, o que deseja, aquilo em que sua atenção está naquele momento.\n\nPense numa pessoa que conhece bem um trabalho. Ela olha e encontra um erro que outra nem tinha visto.\n\nOu em alguém esperando uma notícia importante: o toque do celular logo chama sua atenção, mesmo com outros sons por perto.\n\nA atenção ajuda a encontrar certas coisas e deixa outras em segundo plano.\n\nSe uma conversa terminou mal várias vezes, talvez você já chegue à próxima esperando que aconteça de novo. Essa expectativa merece ser escutada.\n\nE pode ser conferida com o que está acontecendo agora.\n\nNa ciência cognitiva, existe uma família de modelos chamada processamento preditivo. Esses modelos investigam como o que esperamos e os sinais que recebemos participam da percepção.\n\nEles ajudam a perguntar: “O que estou esperando encontrar? O que poderia me fazer rever essa expectativa?”\n\nSão perguntas que podemos trazer para a cena da Lia. Para saber como ela leu aquela mensagem, precisamos conhecer sua experiência.\n\nÉ essa a pergunta da aula: como se forma o que você percebe? Entram as palavras, o contexto da conversa, o cansaço, os apoios, o que Lia aprendeu a esperar.\n\nE há pessoas que respondem, fatos que podemos conferir. Ao perguntar e escutar, ela pode descobrir algo que sua primeira leitura não incluía.",
+      "wordCount": 229
+    },
+    {
+      "title": "Refletir sobre o vivido",
+      "lines": [
+        "Aproximar-se do que acontece",
+        "Tomar distância para olhar",
+        "Voltar à experiência"
+      ],
+      "kind": "steps",
+      "number": 5,
+      "notes": "Lia põe o celular na mesa e diz: “Quando li, pareceu que eu já estava levando uma bronca.”\n\nAgora ela está contando como aquilo chegou até ela. Pode voltar às palavras, lembrar o combinado e ver o que falta perguntar.\n\nNa minha pós-graduação em Psicologia Transpessoal, tive aulas com Yolanda Cintrão Forghieri sobre envolvimento existencial e distanciamento reflexivo. Isso passou a acompanhar minha maneira de escutar e trabalhar.\n\nEu me aproximo do que está sendo vivido. Posso tomar um pouco de distância para olhar.\n\nE volto à experiência para conferir se o que entendi faz sentido. Esses movimentos podem ir e voltar.\n\nNa cena, seria algo assim: “Senti um aperto. Associei a uma bronca. Vou conferir o que essa pessoa está pedindo.”\n\nPensar ajuda a comparar e perguntar. E quem está pensando continua com seu corpo ali: cansado, apoiado, inquieto, com fome, com vontade de sair andando.\n\nTudo isso pode entrar na nossa investigação.",
+      "wordCount": 154
+    },
+    {
+      "title": "Um gesto traz informação",
+      "lines": [
+        "Conferir o prazo",
+        "Perguntar ao outro",
+        "Escutar a resposta"
+      ],
+      "kind": "steps",
+      "number": 6,
+      "notes": "Varela e seus colaboradores desenvolveram uma maneira de entender a mente em que perceber e agir estão ligados. Ao viver e encontrar o mundo, vamos aprendendo a notar e fazer certas coisas.\n\nUm gesto pode trazer informação nova. Lia pergunta pelo prazo e escuta a resposta.\n\nTalvez descubra que entendeu algo diferente. Talvez confirme que a cobrança foi desrespeitosa e precise colocar um limite.\n\nConferir pode mudar o que ela entendeu, o que vai responder ou o apoio que precisa buscar.",
+      "wordCount": 81
+    },
+    {
+      "title": "Perceber uma vontade",
+      "label": "CENA FICTÍCIA",
+      "lines": [
+        "Uma música começa.",
+        "Vontade de dançar. Receio de julgamento.",
+        "O que você deseja experimentar?"
+      ],
+      "kind": "wish",
+      "number": 7,
+      "notes": "Agora imagine alguém numa festa pequena. Começa uma música, o pé acompanha o ritmo e vem uma vontade de dançar.\n\nLogo aparece um pensamento: “Vão achar estranho.”\n\nEssa pessoa pode passar a música procurando sinais de julgamento. Pode também notar que há gente dançando de vários jeitos.\n\nE perceber vontade e receio ao mesmo tempo.\n\nTrago a dança porque quero que nosso olhar alcance também o que está procurando espaço. Um gosto, um desejo, alguma coisa que você ainda experimentou pouco.\n\nSe fica procurando só o erro, talvez deixe passar um convite. Ao acompanhar o ritmo, pode descobrir que quer tentar.\n\nE ainda vai escolher se deseja dançar ali, com aquelas pessoas.\n\nTrago ao Traduzindo o Ser Humano uma perspectiva espiritual da vida. Reconheço a Essência como fundamento profundo.\n\nIsso abre perguntas sobre sentido e sobre como algo encontra expressão na vida.\n\nVamos acolher essas leituras ao longo deste módulo, com um espaço mais explícito na quinta aula. Aqui, começamos dando atenção ao que aparece e ao que a experiência pode acrescentar.",
+      "wordCount": 172
+    },
+    {
+      "title": "Como encerrar a prática",
+      "lines": [
+        "Reconhecer lugar e dia",
+        "Reencontrar um apoio",
+        "Mover-se com conforto"
+      ],
+      "kind": "steps",
+      "number": 8,
+      "notes": "Lembra da Lia com a atenção toda naquela frase? Vamos fazer uma pequena exploração aqui, no lugar onde você está.\n\nVocê pode acompanhar sem precisar lembrar de uma mensagem sua.\n\nAntes, vou mostrar como encerrar. A qualquer momento, você pode parar de acompanhar a minha voz, olhar ou escutar ao redor e reconhecer: estou aqui, neste lugar, neste dia.\n\nReencontre um apoio e faça um movimento confortável. É assim que também vamos concluir.\n\nEscolha um momento em que possa parar por alguns minutos. Se estiver dirigindo ou cuidando de algo que exige sua atenção, deixe para depois.",
+      "wordCount": 97
+    },
+    {
+      "title": "Uma exploração com a atenção",
+      "lines": [
+        "Objeto ou som",
+        "Apoio do corpo",
+        "O mesmo objeto ou som",
+        "Retorno ao ambiente"
+      ],
+      "kind": "practice",
+      "number": 9,
+      "notes": "Sente-se de um jeito viável para você, ou mantenha sua posição habitual com os apoios de que precisa. Pode usar o encosto.\n\nSe os pés estão no chão, perceba esse contato. Ou escolha o apoio do assento, das costas, dos braços.\n\nMantenha os olhos abertos, se for confortável. Você também pode se orientar pelo toque e pelos sons.\n\nDeixe a respiração seguir o ritmo dela.\n\nReconheça onde está e o dia de hoje. Olhe um pouco ao redor ou escute um som próximo.\n\nEscolha algo comum: uma caneca, um livro, um tecido. Se olhar não for o melhor caminho, acompanhe algo pelo toque ou um som.\n\nFique um pouco com isso. O que consegue distinguir?\n\nUma borda, uma cor, uma textura, um ritmo? Algum detalhe simples.\n\nAgora leve a atenção para um apoio do corpo. Pode ser o contato das costas com o encosto ou uma mão apoiada.\n\nEscolha o que for mais fácil de acompanhar.\n\nAjuste a posição se precisar. Se preferir continuar com o objeto ou com os sons, tudo bem.\n\nEncontre uma maneira de acompanhar que funcione para você.\n\nFique um pouco com esse contato.\n\nAgora volte à mesma caneca, ao tecido ou ao som. O que percebe?\n\nTalvez apareça um detalhe diferente. Talvez esteja muito parecido.\n\nSe mudou alguma coisa no ambiente, inclua isso.\n\nCompare por um instante. O objeto mudou?\n\nVocê mudou de posição? Notou outro aspecto?\n\nFoi difícil acompanhar? Pode guardar uma frase simples, inclusive: “Percebi pouca diferença.”\n\nVamos concluir. Olhe, toque ou escute um pouco mais do lugar onde está.\n\nReconheça o dia e o que vai fazer depois. Reencontre seus apoios.\n\nFaça um movimento confortável com as mãos ou ajuste a posição.",
+      "wordCount": 280
+    },
+    {
+      "title": "Registro na Cartografia",
+      "lines": [
+        "Situação",
+        "Manifestação",
+        "Tradução provisória",
+        "Orientação possível"
+      ],
+      "kind": "practice",
+      "number": 10,
+      "notes": "Agora pegue seu caderno. Se preferir, pode registrar depois.\n\nVamos usar a Cartografia que começamos no primeiro módulo. Vou lembrar os quatro campos.\n\nNa situação, anote onde estava e o que acompanhou: a caneca, um contato, um som.\n\nNa manifestação, escreva o que percebeu. Pode ser: “Notei a borda”, “senti o apoio das costas”, “fiquei impaciente”, “quase nada mudou”.\n\nNa tradução provisória, experimente dizer o que entendeu: “Quando mudei a atenção, notei outra coisa.” Ou: “Talvez tenha sido o ajuste na cadeira.”\n\nPode também escrever: “Não notei diferença; quero observar outra vez.”\n\nNa orientação possível, guarde uma pergunta ou um gesto para depois. Por exemplo, conferir o texto de uma mensagem antes de responder.\n\nUse palavras, desenho ou marcas. Deixe em aberto o que ainda não souber.\n\nO registro serve para você reencontrar essa experiência.\n\nSe quiser mais tempo para escrever, pode pausar a aula e continuar quando terminar.",
+      "wordCount": 149
+    },
+    {
+      "title": "Acontecimento e leitura",
+      "lines": [
+        "O que aconteceu?",
+        "Como isso chegou até mim?",
+        "O que preciso conferir?"
+      ],
+      "kind": "questions",
+      "number": 11,
+      "notes": "Lia volta à mensagem. Ela continua ali.\n\nTalvez agora consiga dizer: “Recebi uma cobrança. Quando li, imaginei uma bronca. Vou conferir o prazo e ver o que consigo fazer.”\n\nO incômodo pode continuar. Mas apareceu uma pergunta.\n\nSe houver desrespeito, talvez ela precise colocar um limite ou procurar apoio. Se dizer “não” tem consequências reais naquela relação, isso também entra na decisão.\n\nNa dança, a pergunta pode ser: “Estou vendo alguém me julgar ou esperando que isso aconteça? Quero experimentar um passo? Prefiro outro lugar?”\n\nCom o objeto, nós acompanhamos um momento de atenção. Numa conversa, também teremos a resposta de outra pessoa e fatos para conferir.\n\nGuarde essa ideia: o que você percebe vai se formando no encontro entre o que acontece, sua atenção, seu corpo, o que aprendeu e o contexto em que está.\n\nVale perguntar: “O que aconteceu? Como isso chegou até mim? O que preciso conferir?” Pode mudar alguma coisa na situação, na maneira de percebê-la ou nas duas coisas.\n\nEssas perguntas ajudam a acompanhar e rever o que entendemos.",
+      "wordCount": 174
+    },
+    {
+      "title": "Por que alguns sinais\nganham mais importância?",
+      "label": "PRÓXIMA AULA",
+      "lines": [
+        "Notar um sinal, reconhecer o que sentimos\ne conseguir comunicar"
+      ],
+      "kind": "closing",
+      "number": 12,
+      "notes": "Na próxima aula, vamos olhar para o que ganha destaque. Entre tantos sinais, por que alguns parecem ocupar tudo?\n\nE vamos distinguir notar um sinal, reconhecer o que sentimos e conseguir comunicar isso a alguém. Às vezes percebemos que algo aconteceu, mas ainda não encontramos uma palavra para dizer.\n\nÉ por aí que a gente segue.",
+      "wordCount": 56
+    }
+  ],
+  "visualStatus": "Design observado na apresentação v0.2, preservado neste ajuste de fala; propostas de padronização visual pendentes, sem declaração de conformidade com o manual.",
+  "visualAudit": "02 - Auditoria e padronização visual M0 M1 M2.md"
+}
