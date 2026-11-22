@@ -2,9 +2,13 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.42"
+versao: "0.43"
 atualizado_em: 2026-11-22
 ---
+
+## 22/11/2026 — teste de M2.1 como trilha de exposição
+
+Fabiano apontou que os roteiros integrais ainda deixavam conceitos e referências sem contexto e conexões suficientes, exigindo reconstrução da explicação durante a gravação. Solicitou testar M2.1 com mapa inicial, slides como passos visuais e notas para exposição livre. [[M2.1 - Trilha de exposição v0.5]] e [[M2.1 - Apresentação editável v0.5]] registram a versão de 20 telas. Nesta aula, as notas orientam foco, desenvolvimento, apoio e passagem; a orientação anterior de notas somente fala fica histórica. Os diagramas representam relações específicas e permanecem editáveis. O teste, a duração e a adoção nas aulas seguintes permanecem abertos; M2.2 ainda não foi convertida. [[00 - Estado e Continuidade da Produção M2]] localiza as versões. A arquitetura de nove módulos e 59 aulas é preservada.
 
 ## 22/11/2026 — revisão substantiva de profundidade desde M2.1
 

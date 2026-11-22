@@ -15,6 +15,10 @@ tags:
 
 # Padrão de slides, notas e roteiros das aulas
 
+## Teste de trilha de exposição em M2.1 — 22/11/2026
+
+Fabiano solicitou testar M2.1 com mapa inicial, slides como passos visuais e notas para exposição livre, sem fala predeterminada. Nesta versão, [[M2.1 - Trilha de exposição v0.5]], as notas organizam foco, desenvolvimento, apoio e passagem, com referências para consulta. A orientação de somente fala das seções 3 a 5 fica substituída neste teste. A identidade visual permanece. A adoção nas demais aulas e o resultado do ensaio continuam abertos.
+
 ## Estatuto
 
 Referência de produção revisável, derivada das aulas já padronizadas de M0/M1 e do [[00 - Manual de Identidade Visual v1.0]]. Em 22/11/2026, Fabiano autorizou aplicar os ajustes de padronização de M2 e registrar a continuidade dessa mesma família visual nas produções futuras de **M2 a M8**, sem nova paleta por módulo. O caderno de cada aula particulariza a composição pedagógica preservando paleta, funções tipográficas e marca comuns. Este padrão se articula ao manual e à [[11 - Esteira de Produção dos Materiais do Curso]]. As aulas já produzidas de M0/M1 não são refeitas automaticamente por sincronização; suas diferenças históricas permanecem registradas.
