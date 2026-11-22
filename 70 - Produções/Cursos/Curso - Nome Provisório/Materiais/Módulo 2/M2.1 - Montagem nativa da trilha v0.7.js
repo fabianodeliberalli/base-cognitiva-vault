@@ -86,7 +86,7 @@ txt(s,'main-question','A expressão corresponde à experiência?',80,242,1110,95
 txt(s,'fits','O que corresponde?',85,400,500,65,33,'Inter',C.navy,true);txt(s,'missing','O que ficou de fora?',695,400,500,65,33,'Inter',C.navy,true);
 line(s,'relation',270,500,740,0,C.gold,3);txt(s,'adjust','Conferir, ajustar e reconhecer diferenças',90,550,1080,70,31,'Inter',C.blue,false,'center');break;}
 case 'elaboracao':{
-txt(s,'fiction-label','PERCURSO FICTÍCIO DE LIA',72,235,1080,28,16,'Inter',C.blue,true);
+txt(s,'fiction-label','EXEMPLO · COBRANÇA NO TRABALHO',72,235,1080,28,16,'Inter',C.blue,true);
 const xs=[72,465,858],hs=['Leitura inicial','Expressão','Nova pergunta'],bs=['“Estou em falta.”','“Quero contribuir e\nestou sem espaço.”','O que foi combinado?\nQual limite negociar?'];
 xs.forEach((x,k)=>{txt(s,'label-'+k,hs[k],x,318,350,55,29,'Inter',C.blue,true);line(s,'line-'+k,x,385,330,0,C.gold,2);txt(s,'body-'+k,bs[k],x,420,350,145,34,'EB Garamond');});break;}
 case 'cartografia':{
