@@ -49,3 +49,5 @@ A base corporal não foi ensinada formalmente em M0.2. Segundo o registro poster
 Produzir M2 como aprofundamento da experiência, com fontes selecionadas, uma pergunta central, aplicação e retorno à vida. [[TSH - Forma de construção das aulas M2–M8 - cena, verbo e voz do autor]] orienta a fala; [[TSH - Banco de cenas e vivências do autor]] permite recuperar experiências sem inventar lembranças de Fabiano. A Cartografia acompanha a revisão e a possibilidade de expressão, inclusive não verbal.
 
 Distinguir elaboração, ensaio, arquivos, gravação, edição e publicação. Os estados individuais de produção continuam não confirmados quando não houver evidência. Uma futura revisão de M0/M1 pode ser feita por Fabiano; esta integração não declara substituição dos vídeos existentes.
+
+Nenhum chat possui competência exclusiva: a continuidade parte da demanda atual e das fontes pertinentes. A UC 0.1 permanece fonte de partida, reabrindo-a quando a construção atual pedir revisão, ampliação ou nova relação; a UC 0.2 também continua disponível conforme a questão.
