@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-22",
+  "lesson": "M2.3",
+  "native_page_id": "page_5376023809188191be041e1ad63b40b6",
+  "native_sequence": 2,
+  "slides": 24,
+  "notes_sha256": "1e0c2f0f46e0087fb9b2f4639dba85afcbcdbf8e171c4899ba8026e40f9053a5",
+  "native_notes_match_source": true,
+  "all_four_note_fields": true,
+  "full_references_and_urls_in_presenter_notes": false,
+  "guide_pages": 25,
+  "student_pages": 4,
+  "visual_qa": "24 telas renderizadas; inspeção visual em seis grupos a 960×540 por tela, além da visão geral. Duas interferências de conectores corrigidas. 25 páginas do guia e quatro do apoio inspecionadas; itálicos das referências corrigidos e página alterada reinspecionada.",
+  "camera_reserved_region": {
+    "left": 1027,
+    "top": 0,
+    "width": 253,
+    "height": 230
+  },
+  "recording_rehearsal": "nao-confirmado",
+  "author_approval": "nao-confirmado",
+  "recording": "nao-confirmado",
+  "publication": "nao-confirmado",
+  "files": [
+    {
+      "name": "TSH_M2_3_Guia_da_Trilha.docx",
+      "library_file_id": "libfile_fde3_f-78a9f74518b481919d2901483ef34b92_ad925f8fadbc81918eab9ef0eafee9a9",
+      "version": 0,
+      "sha256": "0d1510ae5fb6d37140b90c0275ca8cd6d6850278aa9fa57d88ba0a7ecd5b1f55",
+      "url": "https://chatgpt.com/library?file_id=libfile_fde3_f-78a9f74518b481919d2901483ef34b92_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal"
+    },
+    {
+      "name": "TSH_M2_3_Guia_da_Trilha.pdf",
+      "library_file_id": "libfile_fde3_f-5c932fb81b508191838e73ecab2f350d_ad925f8fadbc81918eab9ef0eafee9a9",
+      "version": 0,
+      "sha256": "cff6fa97efe574c9b304580d12a308e81af9b3a9e9d9e02d9906898e7b900916",
+      "url": "https://chatgpt.com/library?file_id=libfile_fde3_f-5c932fb81b508191838e73ecab2f350d_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal"
+    },
+    {
+      "name": "TSH_M2_3_Apoio_do_Aluno.docx",
+      "library_file_id": "libfile_fde3_f-c6d6719d7f548191b60d501e2b3da24c_ad925f8fadbc81918eab9ef0eafee9a9",
+      "version": 0,
+      "sha256": "dcf3a4aaef328361a28c8c0ac788b45bdc464e46bab240f683b70485392f0d86",
+      "url": "https://chatgpt.com/library?file_id=libfile_fde3_f-c6d6719d7f548191b60d501e2b3da24c_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal"
+    },
+    {
+      "name": "TSH_M2_3_Apoio_do_Aluno.pdf",
+      "library_file_id": "libfile_fde3_f-5da7c86a13648191b4cc0a193d3758fb_ad925f8fadbc81918eab9ef0eafee9a9",
+      "version": 0,
+      "sha256": "4f34e1f7edcbc803e77c52f3464e95117de98b6e66000f9bbcc8fdaa4ba2dec6",
+      "url": "https://chatgpt.com/library?file_id=libfile_fde3_f-5da7c86a13648191b4cc0a193d3758fb_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal"
+    }
+  ],
+  "camera_intersections": []
+}

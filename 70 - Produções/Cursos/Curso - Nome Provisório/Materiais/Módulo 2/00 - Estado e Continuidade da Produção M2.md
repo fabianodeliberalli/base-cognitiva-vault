@@ -23,7 +23,8 @@ Exemplos entram como situações genéricas reconhecíveis na fala e são reapre
 | M2.1 guia e apoio do aluno | Guia Word/PDF de 21 páginas, versão 3; apoio Word/PDF de quatro páginas, versão 5, com revisões seletivas autorizadas nesta frente. A versão 4 permanece preservada como exemplar historicamente aprovado; a nova composição não recebe aprovação automática. |
 | [[M2.2 - Trilha de exposição v0.4]] e [[M2.2 - Apresentação editável v0.4]] | Composição no modelo de trilha e revisão visual produzidas para avaliação; 20 telas, montagem nativa sequência 7. Novos guias Word/PDF de 21 páginas; apoio Word/PDF versão 3, quatro páginas. A produção não confirma aprovação autoral, ensaio, gravação ou publicação. |
 | [[01 - Plano de produção das seis aulas M2]] | Constituição da experiência, relevância e simbolização, certeza, repetição, origem/sentido e Tradução recursiva. |
-| M2.3–M2.6 e M3–M8 | Revisão estrutural disponível; novos roteiros integrais e artefatos finais não produzidos nesta frente. Aplicar o modelo adotado ao desenvolvê-los. |
+| [[M2.3 - Trilha de exposição v0.1]] e [[M2.3 - Apresentação editável v0.1]] | Teste do modelo produzido para avaliação: 24 telas, sequência nativa 2, notas conferidas com a fonte estruturada, guia Word/PDF de 25 páginas e apoio Word/PDF de quatro páginas. Seleção de Festinger, confirmação e Erickson aplicada; homologação e execução não confirmadas. |
+| M2.4–M2.6 e M3–M8 | Revisão estrutural disponível; novos roteiros integrais e artefatos finais não produzidos nesta frente. Aplicar o modelo adotado ao desenvolvê-los. |
 | Ensaio, duração real, gravação, edição e publicação | Sem execução confirmada nesta frente; não inferir pelo acabamento dos arquivos. |
 
 Fabiano aprovou posteriormente o apoio do aluno de M2.1 Word/PDF versão 4 como exemplar para futuras produções. O padrão v2.3, seção 9, preserva essa referência. A aprovação do apoio versão 4 distingue-se da avaliação das revisões atuais dos slides e de novas redações do apoio. Os materiais permanecem revisáveis por Fabiano.
@@ -36,7 +37,7 @@ Mapas complexos podem ser apresentados inteiros com foco no estágio, em recorte
 
 ## Continuidade
 
-Conferir M2.1 v0.8 e M2.2 v0.4 em suas apresentações, notas e apoios, ensinando os termos em seu lugar e verificando as passagens. As revisões de 20 telas foram produzidas para avaliação; preservar seus estados reais nos localizadores. Depois desenvolver as demais aulas com o dossiê e as fontes pertinentes. A Cartografia comum continua: situação, manifestação, Tradução provisória e orientação possível. Cada prática tem contribuição própria para percepção, diferenciação e participação e oferece elaboração e retorno.
+Conferir M2.1 v0.8 e M2.2 v0.4 em suas apresentações, notas e apoios, ensinando os termos em seu lugar e verificando as passagens. As revisões de 20 telas foram produzidas para avaliação; preservar seus estados reais nos localizadores. M2.3 v0.1 foi composta como teste prático do modelo; avaliar a exposição com seus materiais. Depois desenvolver M2.4–M2.6 com o dossiê e as fontes pertinentes. A proposta de Milgram para M2.4 permanece a avaliar, com fontes em [[M2.3 - Seleção dos anexos e fundamentação v0.1]]. A Cartografia comum continua: situação, manifestação, Tradução provisória e orientação possível. Cada prática tem contribuição própria para percepção, diferenciação e participação e oferece elaboração e retorno.
 
 Espiritualidade permanece afirmativa e plural, eixo é recurso didático e as formulações autorais participam do raciocínio. A arquitetura conserva nove módulos e 59 aulas. A estimativa 95/100 registrada na auditoria avalia o planejamento, sem certificar aprendizagem ou aprovação dos roteiros.
 
@@ -45,3 +46,12 @@ Espiritualidade permanece afirmativa e plural, eixo é recurso didático e as fo
 [[TSH - Revisão de Profundidade e Percurso - 22-11-2026]] registra o diagnóstico e o desenvolvimento estrutural das 59 posições. M2.1 v0.3/v0.4, trilhas v0.5/v0.6/v0.7 e M2.2 v0.1/v0.2/v0.3 permanecem recuperáveis como etapas anteriores; os exemplares aprovados conservam sua identificação e conteúdo. Exemplos com personagem e fala integral dessas versões não orientam novas composições. M0/M1 não foram regravados nem republicados por esta atualização.
 
 Os JSONs, as trilhas em Markdown e os scripts de montagem das versões atuais preservam o conteúdo recuperável. Os localizadores das apresentações indicam os arquivos persistentes. Registros de preparação e fontes das revisões anteriores permanecem como histórico de consulta; não são notas para gravação nem uma entrega docente obrigatória.
+
+
+## Conferência e teste do modelo — M2.3
+
+A cadeia AGENTS/CLAUDE → Contrato Comum → Base de Produção Autoral → Contexto Mínimo TSH → Padrão v2.3 e exemplares atuais foi consultada na versão principal `dcb123dac90838c595d0e79b5bacdafd48293aa2`. M2.1 v0.8 (20 telas, sequência 14) e M2.2 v0.4 (20 telas, sequência 7) tiveram as notas nativas comparadas às fontes. O teste confirma a recuperação dos parâmetros registrados; não garante execução futura sem consulta ou certifica a eficácia didática por um percentual.
+
+M2.3 v0.1 aplica a trilha de quatro campos, voz natural, termos desenvolvidos, exemplos genéricos com contexto, retorno com elaboração e continuação, Cartografia comum, fundamentos em seus alcances e identidade visual. O mapa autoral de retorno foi recuperado pelo GitHub e adaptado com vínculo ao SVG. Os anexos de Fabiano foram selecionados por sua função didática, com originais, lâminas e ajustes documentados. [[Festinger - Dissonância cognitiva e revisão de certezas no TSH]] e [[M2.3 - Seleção dos anexos e fundamentação v0.1]] permitem resgate futuro.
+
+Os registros anteriores homologados continuam vigentes na versão principal. A nova composição e suas ampliações são registradas para avaliação; não atribuir aprovação automática, nem alterar os estados desconhecidos de ensaio, gravação ou publicação. O Site não recebeu atualização nesta produção.

@@ -2,7 +2,7 @@
 tipo: plano-de-producao
 projeto: Traduzindo o Ser Humano
 modulo: M2
-versao: "0.3"
+versao: "0.4"
 data: 2026-11-22
 status: revisao-substantiva
 arquitetura: nove-modulos-59-aulas
@@ -12,7 +12,7 @@ arquitetura: nove-modulos-59-aulas
 
 Revisão solicitada por Fabiano para recuperar a profundidade de suas práticas, literatura e elaborações. M2 desenvolve a constituição da experiência, a relevância e a simbolização, a experiência de certeza, a repetição, a distinção entre vivido/sentido/origem e a Tradução recursiva. As cenas funcionam como aplicação e não como substituição dos fundamentos.
 
-M2.1 e M2.2 têm trilhas atuais produzidas para avaliação: v0.8 e v0.4, respectivamente, ambas com 20 telas e notas naturais de quatro campos, conforme o padrão v2.3. [[00 - Estado e Continuidade da Produção M2]] localiza apresentações, guias e apoios. As quatro aulas seguintes recebem orientação estrutural; sua composição final ainda será produzida. O percurso conserva seis aulas, com Cartografia comum e estudo assíncrono suficiente. O encontro ao vivo conserva seu planejamento sem confirmação de execução.
+M2.1 e M2.2 têm trilhas atuais produzidas para avaliação: v0.8 e v0.4, respectivamente, ambas com 20 telas e notas naturais de quatro campos, conforme o padrão v2.3. [[00 - Estado e Continuidade da Produção M2]] localiza apresentações, guias e apoios. M2.3 v0.1 tem composição de teste produzida para avaliação: 24 telas, guia e apoio do aluno. M2.4–M2.6 mantêm orientação estrutural e aguardam composição final. O percurso conserva seis aulas, com Cartografia comum e estudo assíncrono suficiente. O encontro ao vivo conserva seu planejamento sem confirmação de execução.
 
 ## M2.1 — Como se forma o que você percebe?
 
@@ -30,13 +30,13 @@ M2.1 e M2.2 têm trilhas atuais produzidas para avaliação: v0.8 e v0.4, respec
 
 **Desenvolvimento:** Investigar como uma hipótese se torna experiência de certeza.
 
-**Experiência e articulação:** Desenvolver absorção, transe cotidiano e meio segundo como interlocuções do acervo. Reabrir campo perceptivo, recuperar um dado novo e formular uma pergunta que possa modificar a hipótese; retorno integra a investigação, sem esgotá-la.
+**Experiência e articulação:** [[M2.3 - Trilha de exposição v0.1]], produzida para avaliação: impressão e certeza, viés de confirmação, dissonância e caso histórico de Festinger, absorção/transe cotidiano e contribuição ericksoniana. Meio segundo como imagem, sem duração universal. Retomar o mapa autoral de retorno; reconhecer a leitura, recuperar presença, formular pergunta que possa modificá-la, conferir, elaborar e continuar na Cartografia. [[M2.3 - Seleção dos anexos e fundamentação v0.1]] preserva fontes e distinção entre uso atual e propostas.
 
 ## M2.4 — O que mantém a repetição de uma resposta?
 
 **Desenvolvimento:** Compreender a persistência de uma resposta por sua função, seus vínculos e seus efeitos.
 
-**Experiência e articulação:** Reconstruir uma sequência concreta: pista, antecipação, organização corporal/afetiva, resposta e consequência. Comparar duas ocasiões e ensaiar outra participação com o metapadrão recuperado, sem converter toda repetição em erro individual.
+**Experiência e articulação:** Reconstruir uma sequência concreta: pista, antecipação, organização corporal/afetiva, resposta e consequência. Comparar duas ocasiões e ensaiar outra participação com o metapadrão recuperado, sem converter toda repetição em erro individual. Avaliar a proposta de Milgram para autoridade/contexto e conflito da ação, conforme [[M2.3 - Seleção dos anexos e fundamentação v0.1]]; inclusão ainda não decidida.
 
 ## M2.5 — Acontecimento, experiência e interpretação
 
@@ -57,3 +57,4 @@ M2.1 constitui o campo de investigação e produz uma forma expressiva; M2.2 exa
 Recuperar [[TSH - Varela e Castellanos - Experiência corporificada e cultivo]], Forghieri na monografia transpessoal, [[Mapa Funcional Transversal dos Três Eus]], [[O Límbico como Porta - Eu Básico, Bion e Morin no TSH]], [[Tradução da Experiência Humana]], Naranjo e as fontes do TCC. [[TSH - Revisão de Profundidade e Percurso - 22-11-2026]] e as preparações de M2.1/M2.2 localizam o uso efetivo. O plano anterior permanece no histórico do repositório.
 
 A adaptação dedo–própria palma saiu da aula atual. O poder do dedo original, livros e balões e os ensinos de hipnose do autor continuam disponíveis; uma futura escolha exige recuperar a condução efetiva e sua contribuição. A revisão não exige que cada aula invente uma técnica nova nem que reduza uma prática rica a uma demonstração elementar.
+
