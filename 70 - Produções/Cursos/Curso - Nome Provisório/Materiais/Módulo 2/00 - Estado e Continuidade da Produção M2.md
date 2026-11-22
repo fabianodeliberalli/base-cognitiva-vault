@@ -20,7 +20,7 @@ Os registros de produção acompanham versões, arquivos, alterações e trabalh
 | Aula | Ponto atual de recuperação |
 | --- | --- |
 | M2.1 | [[M2.1 - Trilha de exposição v0.8]] e [[M2.1 - Apresentação editável v0.8]]: 20 telas; sequência nativa 14; guia Word/PDF de 21 páginas, versão 3; apoio Word/PDF de quatro páginas, versão 5. O apoio versão 4 permanece como exemplar preservado. [[M2.1 - Edição da gravação v1]]: vídeo editado de 34min43s, original preservado. |
-| M2.2 | [[M2.2 - Trilha de exposição v0.5]] e [[M2.2 - Apresentação editável v0.5]]: 20 telas com notas revisadas; sequência nativa 9. Objetividade, uma frase por linha, antecipação adaptativa e condução separada da apresentação. Guia v0.4 preserva notas anteriores; notas atuais na apresentação/trilha v0.5. Apoio Word/PDF versão 3, quatro páginas, preservado. |
+| M2.2 | [[M2.2 - Trilha de exposição v0.5]] e [[M2.2 - Apresentação editável v0.5]]: 20 telas com notas revisadas; sequência nativa 9. Objetividade, uma frase por linha, antecipação adaptativa e condução separada da apresentação. Guia v0.4 preserva notas anteriores; notas atuais na apresentação/trilha v0.5. Apoio Word/PDF versão 3, quatro páginas, preservado. Gravação recebida em 22/11/2026, 36min59s; avaliação da condução abaixo. |
 | M2.3 | [[M2.3 - Trilha de exposição v0.3]] e [[M2.3 - Apresentação editável v0.3]]: 24 telas/notas, sequência nativa 6. Notas objetivas com uma frase por linha e prática em momentos distintos. A integração substantiva da v0.2 permanece; guias/kits v0.2 conservam a redação anterior. |
 | M2.4 | [[M2.4 - Trilha de exposição v0.3]] e [[M2.4 - Apresentação editável v0.3]]: 29 telas/notas, sequência nativa 8. Configuração, autores, mapas e quatro passos preservados; realização e elaboração separadas, com pausas. Guias/kits v0.2 conservam a redação anterior. |
 | M2.5–M2.6 e M3–M8 | Orientação estrutural no dossiê; novos roteiros e suportes integrais ainda a compor nesta frente. |
@@ -32,6 +32,16 @@ Fabiano enviou a [gravação M2.1, 37min56s](https://chatgpt.com/library?file_id
 ## Edição da gravação M2.1 — 22/11/2026
 
 [[M2.1 - Edição da gravação v1]] localiza a cópia editada, o original, os cortes e o parecer editorial. Duração de 37min56s para 34min43s; retiradas operação, antecipação duplicada da prática, reexplicação no meio da realização e reinícios. Tela preta do fechamento recomposta sob a câmera original; voz e conteúdo central preservados. Recomendação do assistente: aproveitar a edição, sem regravar integralmente; somente o bloco prático seria opção de outro acabamento. As fontes dos slides gravados v0.8 permanecem.
+
+## Avaliação da condução na gravação M2.2 — 22/11/2026
+
+Fabiano enviou a [gravação M2.2, 36min59s](https://chatgpt.com/library?file_id=libfile_fde3_f-dbc212b33bd08191956ed98dc3a15dd8_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal) e relatou notas ainda emboladas durante a prática. A avaliação aprofundada concentrou-se no trecho prático, comparado à trilha v0.5; também foram examinados quadros do percurso completo. Os títulos visíveis das telas 14–16 correspondem aos refinamentos da v0.5.
+
+**Achados editoriais:** por volta de 30:55–31:20, a primeira pergunta é seguida de explicação sobre saliência e Eu Básico/Eu Médio antes da segunda orientação. Em 31:28–32:08, segunda pergunta, registro e retorno sucedem-se com pouco espaço de realização, e pausar o vídeo é oferecido de modo opcional, sem um ponto de retomada definido. Entre aproximadamente 32:07–32:33, encontrar expressão, conservar pergunta e encerrar pedem reorganização na fala. As notas v0.5 já distinguem funções, mas a tela 15 reúne duas perguntas/registros e a 16 acumula retorno, comparação, nova expressão e encerramento. A frase “Encontre uma expressão que comporte o que reconhece agora ou conserve a pergunta que permanece aberta” contém alternativas que ainda precisam ser resolvidas durante a condução. “Questão” e “pergunta” também podem perder seu referente.
+
+**Proposta de correção:** distinguir situação escolhida das perguntas dirigidas a ela; indicar o que conservar para comparar; conduzir uma aproximação por vez, com instrução clara de pausa/retomada quando o registro pede tempo; levar as conexões conceituais para a elaboração após a realização. As duas perguntas podem receber momentos visuais separados se isso tornar a condução melhor, sem prender a aula a 20 telas. Conservar a investigação sobre a participação das perguntas, sem presumir que a segunda será mais verdadeira ou produzirá melhora. Profundidade do fundamento e clareza da ação continuam juntas.
+
+A revisão anterior de texto não demonstrou ainda facilidade de condução no uso real. Este registro conserva o diagnóstico e a proposta; não declara as apresentações, os guias ou os vídeos novamente editados. O achado localizado permite avaliar edição do trecho ou regravação apenas da condução, sem indicar por si regravação integral da aula.
 
 ## Revisão das notas M2.3 e M2.4 — 22/11/2026
 
