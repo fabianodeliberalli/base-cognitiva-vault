@@ -4,6 +4,8 @@ status: referencia-de-trabalho-revisavel
 atualizado_em: 2026-10-31
 ---
 
+> **Ampliação de 21/11/2026:** Fabiano pediu restituir a moldura espiritual de Cameron e correlacioná-la aos Três Eus. A leitura ampliada, com destinos por aula, está em [[TSH - Criatividade, Intenção e Eu Básico - Cameron, Brennan e Long]]. As adaptações registradas abaixo ficam como histórico de 31/10.
+
 # Escrita livre criatividade e discernimento
 
 Incorporação solicitada por Fabiano ao material TSH. M0.2 recebe fala e entregável na versão 1.3. As demais entradas são rotas de consulta para aulas em elaboração, sem declarar seus roteiros prontos.

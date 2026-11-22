@@ -17,8 +17,8 @@ Registro pedido por Fabiano. Reúne o que ficou em aberto no ciclo de trabalho q
 
 | # | Pendência | Nota de origem |
 | --- | --- | --- |
-| D1 | **Eu Médio e ego.** A definição funcional diz que o Eu Médio "não é idêntico ao ego"; a formulação de 21/11 diz que "o Eu Médio é intelectual, razão, defesa, ego". Ajustar a cláusula (por exemplo, "inclui as funções do ego, sem se reduzir a elas") ou confirmar a identidade | [[Mapa Funcional Transversal dos Três Eus]] |
-| D2 | **O EIXO como ponte** sobre a linha do corpo causal (entre o que se desfaz e o que permanece): entra ou não no Léxico Mestre | [[Elmer Green e Jan Val Ellam - O Pessoal e o Transpessoal no TSH]] |
+| D1 | ~~**Eu Médio e ego.**~~ Resolvido em 21/11: Eu Médio como em Long (ver Mapa Funcional).  A definição funcional diz que o Eu Médio "não é idêntico ao ego"; a formulação de 21/11 diz que "o Eu Médio é intelectual, razão, defesa, ego". Ajustar a cláusula (por exemplo, "inclui as funções do ego, sem se reduzir a elas") ou confirmar a identidade | [[Mapa Funcional Transversal dos Três Eus]] |
+| D2 | ~~**O EIXO como ponte**~~ Resolvido em 21/11: não entra; EIXO permanece conceito didático.  sobre a linha do corpo causal (entre o que se desfaz e o que permanece): entra ou não no Léxico Mestre | [[Elmer Green e Jan Val Ellam - O Pessoal e o Transpessoal no TSH]] |
 | D3 | **Mapa do TSH nos slides:** fechar a sequência da Masterclass (espelho, eixo, pêndulo, espiral) ou abrir a aula dos Três Eus e da função EIXO | [[07 - Mapa do Caminho em Espiral - Como, Onde e Quando Entra nas Aulas]] |
 | D4 | **Cartografias:** preencher o slide 30, vazio, com a visão integradora e o Mapa do TSH, ou acrescentar um slide 34 | [[Cartografias da Consciência - Leitura e Correlações para o TSH]] |
 | D5 | **Aula da ABBSP:** fazer ou não uma nova versão com as sugestões de revisão (ordem Morin → Bion, neurociência citada, citações conferidas, critérios aplicados ao caso) | [[20 - Aula ABBSP - A Linguagem do Sistema Límbico como Porta para a Espiritualidade]] |

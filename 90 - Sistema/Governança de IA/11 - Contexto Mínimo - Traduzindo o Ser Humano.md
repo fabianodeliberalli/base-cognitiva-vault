@@ -6,6 +6,10 @@ versao: "0.35"
 atualizado_em: 2026-11-21
 ---
 
+## Decisões e fontes de 21/11/2026 — auditoria dos roteiros
+
+Ciclo de produção, indução redistribuída e decisões confirmadas por Fabiano: [[2026-11-21 - Decisões de Fabiano - Ciclo de Produção, Práticas e Fontes]]. Fontes incorporadas: [[TSH - Criatividade, Intenção e Eu Básico - Cameron, Brennan e Long]] e [[TSH - Eixo em Três Leituras - Zhan Zhuang, Linha do Hara e Chong Mai]]. Desenvolvimento aula a aula no documento de trabalho do Claude: https://claude.ai/artifact/CRf9FeP67nvsxWWC3uu1w2
+
 ## Árvore, imaginação e retomada dos anexos — 21/11/2026
 
 Fabiano solicitou incorporar [Árvore como postura, mapa autoral e expressão pessoal](../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/%C3%81rvore%20da%20Singularidade%20-%20Postura%20Mapa%20e%20Express%C3%A3o%20Pessoal.md): a produção do participante pode ampliar a metáfora. Recuperar apoio/ajuste/pausa em M0/M1/M3, imagem como investigação em M5.5, expressão/elaboração em M5/M6 e efeitos na escuta/limites/apoios/vida em M7/M8. Distinguir imaginação guiada e imaginação ativa junguiana. O [documento integral](../Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md) reúne agora 1–64, incluindo Hübl, Levitin, Pedro Ivo, Yau, Kast e Steele; a [conferência dos materiais](../Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md#64-confer%C3%AAncia-dos-materiais-originais-e-caminhos-de-produ%C3%A7%C3%A3o) localiza originais, pertinência e destinos. A [consulta por aula](../../70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/10%20-%20Governan%C3%A7a%20do%20Conhecimento/06%20-%20Matriz%20Mestre%20de%20Incorpora%C3%A7%C3%A3o%20do%20Conte%C3%BAdo%20%C3%A0%20Estrutura%209-54.md) e os cadernos de cultivo orientam a montagem; as composições permanecem abertas à condução autoral.

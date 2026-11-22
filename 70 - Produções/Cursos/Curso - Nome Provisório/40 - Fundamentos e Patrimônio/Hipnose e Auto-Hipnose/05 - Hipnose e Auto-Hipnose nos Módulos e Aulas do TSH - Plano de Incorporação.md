@@ -11,6 +11,8 @@ aliases:
   - Auto-hipnose nos encontros ao vivo
 ---
 
+> **Atualização de 21/11/2026:** para a turma atual, a distribuição das etapas por encontro foi redistribuída por Fabiano, porque a prática de cada sábado passou a abrir o módulo seguinte. Ver [[2026-11-21 - Decisões de Fabiano - Ciclo de Produção, Práticas e Fontes]]. A tabela da seção 2 abaixo fica como histórico do desenho anterior.
+
 # Hipnose e auto-hipnose nos módulos e aulas do TSH — plano de incorporação
 
 Pedido de Fabiano em 18/11/2026: incorporar ao TSH o material teórico pertinente e as práticas já direcionadas, na estrutura dos módulos e das aulas. Fabiano aprovou a ideia de ensinar sua indução (de base Dave Elman) em partes ao longo do curso e reuni-la numa fase mais avançada. Propôs duas etapas por aula prática, para depois sobrar tempo de juntar e repetir.

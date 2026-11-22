@@ -10,6 +10,10 @@ autor: Fabiano Deliberalli
 autoridade_de_decisao: Fabiano Deliberalli
 ---
 
+## Decisões e fontes de 21/11/2026 — auditoria dos roteiros
+
+Ciclo de produção, indução redistribuída e decisões confirmadas por Fabiano: [[2026-11-21 - Decisões de Fabiano - Ciclo de Produção, Práticas e Fontes]]. Fontes incorporadas: [[TSH - Criatividade, Intenção e Eu Básico - Cameron, Brennan e Long]] e [[TSH - Eixo em Três Leituras - Zhan Zhuang, Linha do Hara e Chong Mai]]. Desenvolvimento aula a aula no documento de trabalho do Claude: https://claude.ai/artifact/CRf9FeP67nvsxWWC3uu1w2
+
 [[Corpo eixo meridianos bioeletricidade e experiência]]: fontes, aulas, árvore e imaginação.
 
 [[Ely Brito - Possibilidades de ampliação do TSH|Ely]]; [[TSH - Empatia e compaixão]]: fontes e aulas. [[Naranjo]]
