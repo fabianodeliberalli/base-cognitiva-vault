@@ -1,0 +1,435 @@
+{
+  "page_id": "page_df42ab94ec2881919e7485a21f5ed9b7",
+  "url": "https://chatgpt.com/space/page_df42ab94ec2881919e7485a21f5ed9b7",
+  "version": "0.8",
+  "date": "2026-11-22",
+  "committed_sequence": 14,
+  "commits": [
+    {
+      "observed_sequence": 11,
+      "committed_sequence": 12,
+      "result": {
+        "slides": 20,
+        "notesExact": true,
+        "coverObjectsPreserved": true,
+        "imageReferences": {
+          "shakuhachi": "library-file:fde1_bGliZmlsZV9NQ0VnX2JQd19pRDhjVnVEOWhnYlVR_FileDrive_ad925f8fadbc81918eab9ef0eafee9a9",
+          "esboco": "library-file:fde1_bGliZmlsZV9xMlp0M01aX3B6MzlLUHp6ckpmM3Rn_FileDrive_ad925f8fadbc81918eab9ef0eafee9a9"
+        },
+        "cameraClearance": {
+          "left": 1027,
+          "top": 0,
+          "width": 253,
+          "height": 230
+        }
+      },
+      "result_omitted": false,
+      "result_message": null,
+      "rendered_images": null,
+      "font_loading": {
+        "status": "loaded",
+        "message": null,
+        "error_details": null
+      },
+      "error_code": null,
+      "error_message": null,
+      "retryable": false,
+      "error_details": null,
+      "page_id": "page_df42ab94ec2881919e7485a21f5ed9b7",
+      "request_id": "33f02b9e-d7d4-52ad-a9a2-2c89236a81e2",
+      "idempotency_key": "tsh-m21-visual-v08-20261122-01",
+      "status": "committed",
+      "document_type": "granola_presentation"
+    },
+    {
+      "observed_sequence": 12,
+      "committed_sequence": 13,
+      "result": {
+        "slide": 7,
+        "cycleLabelWidth": 220
+      },
+      "result_omitted": false,
+      "result_message": null,
+      "rendered_images": null,
+      "font_loading": null,
+      "error_code": null,
+      "error_message": null,
+      "retryable": false,
+      "error_details": null,
+      "page_id": "page_df42ab94ec2881919e7485a21f5ed9b7",
+      "request_id": "daceda3e-6133-5ac8-9e2c-d9b4079b5b73",
+      "idempotency_key": "tsh-m21-visual-v08-20261122-02",
+      "status": "committed",
+      "document_type": "granola_presentation"
+    },
+    {
+      "observed_sequence": 13,
+      "committed_sequence": 14,
+      "result": {
+        "cameraClearanceAdjusted": [
+          2,
+          13,
+          14
+        ]
+      },
+      "result_omitted": false,
+      "result_message": null,
+      "rendered_images": null,
+      "font_loading": null,
+      "error_code": null,
+      "error_message": null,
+      "retryable": false,
+      "error_details": null,
+      "page_id": "page_df42ab94ec2881919e7485a21f5ed9b7",
+      "request_id": "841a8971-1483-5d06-9527-49ccb9d1a6be",
+      "idempotency_key": "tsh-m21-visual-v08-20261122-03",
+      "status": "committed",
+      "document_type": "granola_presentation"
+    }
+  ],
+  "verification": {
+    "observed_sequence": 13,
+    "committed_sequence": null,
+    "result": {
+      "count": 20,
+      "notesSHA256": "8aa0f9cd41a8b36665f515b6098d2a21acd7eac0fd8fa2282c9f267c90bc6ce9",
+      "cameraIntrusions": [
+        {
+          "slide": 2,
+          "name": "route-label-2",
+          "position": {
+            "left": 890,
+            "top": 213,
+            "width": 245,
+            "height": 48
+          }
+        },
+        {
+          "slide": 13,
+          "name": "perspective",
+          "position": {
+            "left": 72,
+            "top": 220,
+            "width": 1000,
+            "height": 27
+          }
+        },
+        {
+          "slide": 14,
+          "name": "question",
+          "position": {
+            "left": 72,
+            "top": 224,
+            "width": 1080,
+            "height": 80
+          }
+        }
+      ],
+      "practiceImages": [
+        {
+          "slide": 14,
+          "refs": [
+            "library-file:fde1_bGliZmlsZV9zWVhtSUtONUR6N2x4Zi1XT3IwazFB_FileDrive_ad925f8fadbc81918eab9ef0eafee9a9"
+          ]
+        },
+        {
+          "slide": 15,
+          "refs": [
+            "library-file:fde1_bGliZmlsZV9zWVhtSUtONUR6N2x4Zi1XT3IwazFB_FileDrive_ad925f8fadbc81918eab9ef0eafee9a9"
+          ]
+        },
+        {
+          "slide": 16,
+          "refs": [
+            "library-file:fde1_bGliZmlsZV9zWVhtSUtONUR6N2x4Zi1XT3IwazFB_FileDrive_ad925f8fadbc81918eab9ef0eafee9a9"
+          ]
+        },
+        {
+          "slide": 17,
+          "refs": [
+            "library-file:fde1_bGliZmlsZV9zWVhtSUtONUR6N2x4Zi1XT3IwazFB_FileDrive_ad925f8fadbc81918eab9ef0eafee9a9"
+          ]
+        }
+      ],
+      "studyRefs": [
+        "library-file:fde1_bGliZmlsZV9zWVhtSUtONUR6N2x4Zi1XT3IwazFB_FileDrive_ad925f8fadbc81918eab9ef0eafee9a9",
+        "library-file:fde1_bGliZmlsZV9BaFJrZEw2VVZWMF9SRVBSa1ZLaTRR_FileDrive_ad925f8fadbc81918eab9ef0eafee9a9",
+        "library-file:fde1_bGliZmlsZV8xNWdmLTZDUWppbDJvc3RNdVNTU0h3_FileDrive_ad925f8fadbc81918eab9ef0eafee9a9"
+      ],
+      "elaborationLabel": "EXEMPLO DE ELABORAÇÃO",
+      "headlines": [
+        {
+          "slide": 1
+        },
+        {
+          "slide": 2,
+          "typeface": "EB Garamond"
+        },
+        {
+          "slide": 3,
+          "typeface": "EB Garamond"
+        },
+        {
+          "slide": 4,
+          "typeface": "EB Garamond"
+        },
+        {
+          "slide": 5,
+          "typeface": "EB Garamond"
+        },
+        {
+          "slide": 6,
+          "typeface": "EB Garamond"
+        },
+        {
+          "slide": 7,
+          "typeface": "EB Garamond"
+        },
+        {
+          "slide": 8,
+          "typeface": "EB Garamond"
+        },
+        {
+          "slide": 9,
+          "typeface": "EB Garamond"
+        },
+        {
+          "slide": 10,
+          "typeface": "EB Garamond"
+        },
+        {
+          "slide": 11,
+          "typeface": "EB Garamond"
+        },
+        {
+          "slide": 12,
+          "typeface": "EB Garamond"
+        },
+        {
+          "slide": 13,
+          "typeface": "EB Garamond"
+        },
+        {
+          "slide": 14,
+          "typeface": "EB Garamond"
+        },
+        {
+          "slide": 15,
+          "typeface": "EB Garamond"
+        },
+        {
+          "slide": 16,
+          "typeface": "EB Garamond"
+        },
+        {
+          "slide": 17,
+          "typeface": "EB Garamond"
+        },
+        {
+          "slide": 18,
+          "typeface": "EB Garamond"
+        },
+        {
+          "slide": 19,
+          "typeface": "EB Garamond"
+        },
+        {
+          "slide": 20,
+          "typeface": "EB Garamond"
+        }
+      ]
+    },
+    "result_omitted": false,
+    "result_message": null,
+    "rendered_images": null,
+    "font_loading": null,
+    "error_code": null,
+    "error_message": null,
+    "retryable": false,
+    "error_details": null,
+    "page_id": "page_df42ab94ec2881919e7485a21f5ed9b7",
+    "request_id": "1cdebda5-376c-4eb1-b5df-6fef94ca60af",
+    "status": "no_changes",
+    "document_type": "granola_presentation"
+  },
+  "final_renders": {
+    "observed_sequence": 14,
+    "committed_sequence": null,
+    "result": {
+      "slides": 20,
+      "cameraIntrusions": []
+    },
+    "result_omitted": false,
+    "result_message": null,
+    "rendered_images": [
+      {
+        "file_name": "slide-1.png",
+        "mime_type": "image/png",
+        "sha256": "5946393741d48bc025e80ee6fbb9d598af8c67ccb12156c4cab22d5c81e9102c",
+        "byte_length": 74735
+      }
+    ],
+    "rendered_files": [
+      {
+        "path": "/workspace/scratch/4909a93c8194/.artifact-renders/5d0688ec7c114c59a447ffe1d3419d08/slide-1.png",
+        "layout_path": "/workspace/scratch/4909a93c8194/.artifact-renders/5d0688ec7c114c59a447ffe1d3419d08/slide-1.layout.json"
+      },
+      {
+        "path": "/workspace/scratch/4909a93c8194/.artifact-renders/5d0688ec7c114c59a447ffe1d3419d08/slide-2.png",
+        "layout_path": "/workspace/scratch/4909a93c8194/.artifact-renders/5d0688ec7c114c59a447ffe1d3419d08/slide-2.layout.json"
+      },
+      {
+        "path": "/workspace/scratch/4909a93c8194/.artifact-renders/5d0688ec7c114c59a447ffe1d3419d08/slide-3.png",
+        "layout_path": "/workspace/scratch/4909a93c8194/.artifact-renders/5d0688ec7c114c59a447ffe1d3419d08/slide-3.layout.json"
+      },
+      {
+        "path": "/workspace/scratch/4909a93c8194/.artifact-renders/5d0688ec7c114c59a447ffe1d3419d08/slide-4.png",
+        "layout_path": "/workspace/scratch/4909a93c8194/.artifact-renders/5d0688ec7c114c59a447ffe1d3419d08/slide-4.layout.json"
+      },
+      {
+        "path": "/workspace/scratch/4909a93c8194/.artifact-renders/5d0688ec7c114c59a447ffe1d3419d08/slide-5.png",
+        "layout_path": "/workspace/scratch/4909a93c8194/.artifact-renders/5d0688ec7c114c59a447ffe1d3419d08/slide-5.layout.json"
+      },
+      {
+        "path": "/workspace/scratch/4909a93c8194/.artifact-renders/5d0688ec7c114c59a447ffe1d3419d08/slide-6.png",
+        "layout_path": "/workspace/scratch/4909a93c8194/.artifact-renders/5d0688ec7c114c59a447ffe1d3419d08/slide-6.layout.json"
+      },
+      {
+        "path": "/workspace/scratch/4909a93c8194/.artifact-renders/5d0688ec7c114c59a447ffe1d3419d08/slide-7.png",
+        "layout_path": "/workspace/scratch/4909a93c8194/.artifact-renders/5d0688ec7c114c59a447ffe1d3419d08/slide-7.layout.json"
+      },
+      {
+        "path": "/workspace/scratch/4909a93c8194/.artifact-renders/5d0688ec7c114c59a447ffe1d3419d08/slide-8.png",
+        "layout_path": "/workspace/scratch/4909a93c8194/.artifact-renders/5d0688ec7c114c59a447ffe1d3419d08/slide-8.layout.json"
+      },
+      {
+        "path": "/workspace/scratch/4909a93c8194/.artifact-renders/5d0688ec7c114c59a447ffe1d3419d08/slide-9.png",
+        "layout_path": "/workspace/scratch/4909a93c8194/.artifact-renders/5d0688ec7c114c59a447ffe1d3419d08/slide-9.layout.json"
+      },
+      {
+        "path": "/workspace/scratch/4909a93c8194/.artifact-renders/5d0688ec7c114c59a447ffe1d3419d08/slide-10.png",
+        "layout_path": "/workspace/scratch/4909a93c8194/.artifact-renders/5d0688ec7c114c59a447ffe1d3419d08/slide-10.layout.json"
+      },
+      {
+        "path": "/workspace/scratch/4909a93c8194/.artifact-renders/5d0688ec7c114c59a447ffe1d3419d08/slide-11.png",
+        "layout_path": "/workspace/scratch/4909a93c8194/.artifact-renders/5d0688ec7c114c59a447ffe1d3419d08/slide-11.layout.json"
+      },
+      {
+        "path": "/workspace/scratch/4909a93c8194/.artifact-renders/5d0688ec7c114c59a447ffe1d3419d08/slide-12.png",
+        "layout_path": "/workspace/scratch/4909a93c8194/.artifact-renders/5d0688ec7c114c59a447ffe1d3419d08/slide-12.layout.json"
+      },
+      {
+        "path": "/workspace/scratch/4909a93c8194/.artifact-renders/5d0688ec7c114c59a447ffe1d3419d08/slide-13.png",
+        "layout_path": "/workspace/scratch/4909a93c8194/.artifact-renders/5d0688ec7c114c59a447ffe1d3419d08/slide-13.layout.json"
+      },
+      {
+        "path": "/workspace/scratch/4909a93c8194/.artifact-renders/5d0688ec7c114c59a447ffe1d3419d08/slide-14.png",
+        "layout_path": "/workspace/scratch/4909a93c8194/.artifact-renders/5d0688ec7c114c59a447ffe1d3419d08/slide-14.layout.json"
+      },
+      {
+        "path": "/workspace/scratch/4909a93c8194/.artifact-renders/5d0688ec7c114c59a447ffe1d3419d08/slide-15.png",
+        "layout_path": "/workspace/scratch/4909a93c8194/.artifact-renders/5d0688ec7c114c59a447ffe1d3419d08/slide-15.layout.json"
+      },
+      {
+        "path": "/workspace/scratch/4909a93c8194/.artifact-renders/5d0688ec7c114c59a447ffe1d3419d08/slide-16.png",
+        "layout_path": "/workspace/scratch/4909a93c8194/.artifact-renders/5d0688ec7c114c59a447ffe1d3419d08/slide-16.layout.json"
+      },
+      {
+        "path": "/workspace/scratch/4909a93c8194/.artifact-renders/5d0688ec7c114c59a447ffe1d3419d08/slide-17.png",
+        "layout_path": "/workspace/scratch/4909a93c8194/.artifact-renders/5d0688ec7c114c59a447ffe1d3419d08/slide-17.layout.json"
+      },
+      {
+        "path": "/workspace/scratch/4909a93c8194/.artifact-renders/5d0688ec7c114c59a447ffe1d3419d08/slide-18.png",
+        "layout_path": "/workspace/scratch/4909a93c8194/.artifact-renders/5d0688ec7c114c59a447ffe1d3419d08/slide-18.layout.json"
+      },
+      {
+        "path": "/workspace/scratch/4909a93c8194/.artifact-renders/5d0688ec7c114c59a447ffe1d3419d08/slide-19.png",
+        "layout_path": "/workspace/scratch/4909a93c8194/.artifact-renders/5d0688ec7c114c59a447ffe1d3419d08/slide-19.layout.json"
+      },
+      {
+        "path": "/workspace/scratch/4909a93c8194/.artifact-renders/5d0688ec7c114c59a447ffe1d3419d08/slide-20.png",
+        "layout_path": "/workspace/scratch/4909a93c8194/.artifact-renders/5d0688ec7c114c59a447ffe1d3419d08/slide-20.layout.json"
+      },
+      {
+        "path": "/workspace/scratch/4909a93c8194/.artifact-renders/5d0688ec7c114c59a447ffe1d3419d08/presentation-montage.png",
+        "layout_path": null
+      }
+    ],
+    "font_loading": null,
+    "error_code": null,
+    "error_message": null,
+    "retryable": false,
+    "error_details": null,
+    "page_id": "page_df42ab94ec2881919e7485a21f5ed9b7",
+    "request_id": "c4f70de0-4d7a-4867-948e-b1acd6f9feee",
+    "status": "no_changes",
+    "document_type": "granola_presentation"
+  },
+  "font_paths": [
+    "/home/agent/.local/share/fonts/tsh-trilha/Inter-Regular.ttf",
+    "/home/agent/.local/share/fonts/tsh-trilha/Inter-Bold.ttf",
+    "/home/agent/.local/share/fonts/tsh-trilha/EBGaramond-Regular.ttf"
+  ],
+  "qa": {
+    "slides": 20,
+    "notes_exact": true,
+    "notes_sha256": "8aa0f9cd41a8b36665f515b6098d2a21acd7eac0fd8fa2282c9f267c90bc6ce9",
+    "montage_reviewed": true,
+    "full_size_reviewed": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "camera_intrusions_final": [],
+    "practice_images_only_original_footer": true,
+    "covers_original_object_ids_preserved": true,
+    "Lutz_original_details_preserved": true,
+    "all_text_and_diagrams_native_editable": true,
+    "missing_fonts": [],
+    "scope": "Visual refinement only; 20 slides, titles and conceptual sequence preserved. Full v0.8 notes applied.",
+    "source_type": "In-place native patch assembly; requires approved 20-slide M2.1 page as starting state.",
+    "final_render_folder": "visual_m2_20261122/qa_m21_v08",
+    "final_montage_sha256": "4216db0fb4d7286b56b2290bc9581219e99f2073a19f8e493f05ae741cd8e01a",
+    "independent_conceptual_review": {
+      "agent": "m22_notes",
+      "slides": [
+        7,
+        8,
+        10,
+        13
+      ],
+      "result": "No material problem found against v0.8 JSON. Shakuhachi perception-action loop, Lutz task/report/EEG comparison, revisable sketch and explicitly spiritual perspective preserved."
+    }
+  },
+  "assets": {
+    "shakuhachi": {
+      "slide": 7,
+      "path": "generated_images/exec-2158edff-6cb9-41d4-99c0-fc65571fa17a.png",
+      "ref": "library-file:fde1_bGliZmlsZV9NQ0VnX2JQd19pRDhjVnVEOWhnYlVR_FileDrive_ad925f8fadbc81918eab9ef0eafee9a9",
+      "kind": "AI-generated illustrative asset; not documentary image"
+    },
+    "esboco": {
+      "slide": 10,
+      "path": "generated_images/exec-9e837e88-c372-4bdc-b6c7-02f09ce47f38.png",
+      "ref": "library-file:fde1_bGliZmlsZV9xMlp0M01aX3B6MzlLUHp6ckpmM3Rn_FileDrive_ad925f8fadbc81918eab9ef0eafee9a9",
+      "kind": "AI-generated illustrative asset; not documentary image"
+    }
+  }
+}
