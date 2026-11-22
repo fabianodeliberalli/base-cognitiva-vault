@@ -21,9 +21,15 @@ Fabiano validou a organização de nove módulos e 59 aulas e solicitou registra
 | [[M2.1 - Roteiro oral e caderno de produção v0.2]] | Roteiro de gravação v0.2, com o título adotado por Fabiano e abertura, pergunta central e fechamento alinhados. A v0.1 permanece histórica. |
 | [[M2.1 - Fontes e notas do educador]] | Quatro fontes selecionadas, função e alcance, com procedência direta ou recuperada; artigos primários conferidos. |
 | [[M2.1 - Sequência de telas e montagem da prática]] | Apresentação editável de doze telas produzida, com a fala integral nas notas, pausas e fontes. Ver [[M2.1 - Apresentação editável v0.2]]. A sequência textual orienta montagem e resgate. |
-| [[M2.1 - Apoio do aluno - Perceber e revisar uma leitura]] | Texto breve elaborado para acompanhar a aula e a Cartografia existente. |
+| [[M2.1 - Apoio do aluno - Perceber e revisar uma leitura]] | Apoio v0.2 ampliado como leitura fundamentada, prática, aplicação e referências. PDF de duas páginas e Word editável produzidos e conferidos; anexação e publicação na Hotmart não confirmadas. Ver [[M2.1 - Inserção do apoio do aluno na Hotmart]]. |
 | Roteiros completos M2.2–M2.6 | Ainda não produzidos nesta frente; materiais externos não confirmados. |
 | Ensaio, gravação, edição e publicação | Sem execução confirmada nesta produção. Não preencher os estados a partir da existência dos textos. |
+
+## Entregáveis do aluno — orientação adotada em 22/11/2026
+
+Fabiano solicitou registrar e executar a continuidade dos apoios de M0/M1 em M2 e demais módulos. A orientação está em [[TSH - Entregáveis do aluno e inserção na Hotmart - M2 a M8]]. Os apoios acompanham os roteiros, com leitura autoral fundamentada, exemplos, prática retomável, aplicação e referências conforme pertinência. A Cartografia permanece comum. A orientação de abertura e as sínteses podem integrar materiais existentes, sem criar aulas adicionais ou fichas obrigatórias.
+
+M2.1 possui os arquivos [[TSH_M2_1_Como_se_forma_o_que_voce_percebe_Apoio_do_Aluno.pdf|PDF para o aluno]] e [[TSH_M2_1_Como_se_forma_o_que_voce_percebe_Apoio_do_Aluno.docx|Word editável]]. O Word é fonte de edição; o PDF é o arquivo preparado para a Hotmart. A produção dos apoios M2.2–M2.6 acompanha o desenvolvimento das respectivas aulas.
 
 ## Continuidade de produção
 
