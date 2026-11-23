@@ -1,0 +1,177 @@
+{
+  "aula": "M2.4",
+  "versao": "2.0",
+  "data": "2026-11-23",
+  "arquitetura": "9 módulos e 59 aulas; M2 mantém seis aulas; M2.4 continua uma aula em dois vídeos",
+  "avaliacao_substantiva": [
+    {
+      "problema": "Fontes nomeadas sem desenvolver sua contribuição",
+      "aplicacao": "Parte 1/8 explica como memória, corpo, afeto, expectativas e relação atual participam da formação do presente; 9 distingue sensação e conclusão e ensina o aval da impressão; 10 desenvolve aprendizagem e competência incorporada com condições de retorno sobre resultados.",
+      "alcance": "Leitura editorial comparada com as notas conceituais e as fontes primárias; não se declara equivalência entre modelos, cronômetro universal ou estudo de eficácia do curso."
+    },
+    {
+      "problema": "Descontinuidade entre teoria e prática",
+      "aplicacao": "Parte 1/18–19 relaciona recurso e comparação ao que precisa ganhar sustentação; Parte 2/15 distingue acesso, cultivo e condições; 16 liga ensaio e retorno do encontro real ao retorno com aquisição.",
+      "alcance": "A operação da prática já corrigida permanece; a elaboração acrescenta fundamento sem interromper a realização."
+    },
+    {
+      "problema": "Objetividade confundida com redução do pensamento",
+      "aplicacao": "Duas novas telas de desenvolvimento foram incluídas por necessidade do raciocínio; as notas mantêm uma frase por linha e blocos separados. O apoio recebeu uma página conectada, antes de função/expressão/condições.",
+      "alcance": "A contagem não é evidência de profundidade. A avaliação se apoia nas relações ensinadas nas passagens indicadas."
+    },
+    {
+      "problema": "Integração restrita à última intervenção do autor",
+      "aplicacao": "AGENTS, base autoral v1.6, padrão v2.11, ficha v0.61, estado e plano M2 registram a correção como recorrente e geral; caminhos antigos foram atualizados.",
+      "alcance": "Isso não declara M2.1–M2.3 ou outros materiais refeitos nem garante o comportamento de aplicativos que não recuperem a base."
+    }
+  ],
+  "verificacao_tecnica": {
+    "parte1": {
+      "telas": 21,
+      "notas_lidas_da_pagina_iguais_ao_json": true,
+      "guia_word_com_notas_completas_em_ordem": true,
+      "pdf_de_slides_pixel_identico_ao_render_nativo": true,
+      "sequencia_nativa": 4
+    },
+    "parte2": {
+      "telas": 18,
+      "notas_lidas_da_pagina_iguais_ao_json": true,
+      "guia_word_com_notas_completas_em_ordem": true,
+      "pdf_de_slides_pixel_identico_ao_render_nativo": true,
+      "sequencia_nativa": 4
+    },
+    "pratica": {
+      "operacao_telas_3_a_14_preservada_textualmente": true,
+      "elaboracao_ampliada_telas": [
+        15,
+        16
+      ]
+    },
+    "kit": {
+      "entradas": 9,
+      "crc_correto": true
+    }
+  },
+  "revisao_visual": {
+    "slides": "39 telas finais examinadas em contatos e telas centrais individualmente; hierarquia, diagramas, legibilidade e região da câmera conferidos.",
+    "documentos": "11 páginas do guia 1, 9 do guia 2 e 9 do apoio renderizadas; documentos revistos em contatos, com página de elaboração da prática inspecionada individualmente.",
+    "limite": "Revisão visual e integridade verificam apresentação e correspondência; não medem aprendizagem nem eficácia."
+  },
+  "arquivos": {
+    "TSH_M2_4_Parte_1_Guia_de_gravacao_v2.pdf": {
+      "bytes": 113554,
+      "sha256": "15126460d5427f433fe611d24cfd104d1dc71856e115a32f6bd52903f6a1f843",
+      "pages": 11
+    },
+    "TSH_M2_4_Parte_2_Guia_de_gravacao_v2.pdf": {
+      "bytes": 97135,
+      "sha256": "5d5e2739b39d11f9a20e02832d5d9f91d79edfd361a7089f7fdb4a4425db9848",
+      "pages": 9
+    },
+    "TSH_M2_4_Parte_1_Slides_v2.pdf": {
+      "bytes": 3346185,
+      "sha256": "09fc995689228d0380f0ff1142c41660cad6d72cd1755df84e054600b958052b",
+      "pages": 21
+    },
+    "TSH_M2_4_Parte_2_Slides_v2.pdf": {
+      "bytes": 2081645,
+      "sha256": "38412a1575a69c49f04f618a80f905064418c442deee297d87224b28e3377bdd",
+      "pages": 18
+    },
+    "TSH_M2_4_Kit_de_gravacao_v2.zip": {
+      "bytes": 5305254,
+      "sha256": "900591575f9e63b7c47c2e84d0eaea152f1dab6d9ee6e4d50cb9ab27f8b73d2f"
+    },
+    "TSH_M2_4_Apoio_do_Aluno_v2.docx": {
+      "bytes": 628094,
+      "sha256": "4459b027d6e42b9d996ff3615960938d9ba691587fb71d2b07e85adb32471848"
+    },
+    "TSH_M2_4_Apoio_do_Aluno_v2.pdf": {
+      "bytes": 291747,
+      "sha256": "95a6333898a1b92bd414e8adc7db41e503a175b39b7b300457f252be294b2334",
+      "pages": 9
+    },
+    "TSH_M2_4_Parte_2_Guia_de_gravacao_v2.docx": {
+      "bytes": 41635,
+      "sha256": "0dde2491529b681665a801ee1eceb79e33ca3ab6c124f622657b1ef02462191c"
+    },
+    "TSH_M2_4_Parte_1_Guia_de_gravacao_v2.docx": {
+      "bytes": 44591,
+      "sha256": "7a24e503258692f9d1f5ef0617b16a4136e0800ba043cd288b974aca6fb18346"
+    }
+  },
+  "registros_de_salvamento": [
+    {
+      "file_name": "TSH_M2_4_Kit_de_gravacao_v2.zip",
+      "library_file_id": "libfile_fde3_f-2ce20f8d4b748191ae97a38ada49a79d_ad925f8fadbc81918eab9ef0eafee9a9",
+      "file_id": "file_000000009df8820ebba9bcf5fa7d09f5",
+      "current_version_number": 1,
+      "status": "succeeded",
+      "local_metadata_applied": true
+    },
+    {
+      "file_name": "TSH_M2_4_Parte_1_Slides_v2.pdf",
+      "library_file_id": "libfile_fde3_f-b8ac674d3bac819187471830f26f3ab4_ad925f8fadbc81918eab9ef0eafee9a9",
+      "file_id": "file_000000004f04820eb2cc576c1c03793d",
+      "current_version_number": 1,
+      "status": "succeeded",
+      "local_metadata_applied": true
+    },
+    {
+      "file_name": "TSH_M2_4_Parte_1_Guia_de_gravacao_v2.docx",
+      "library_file_id": "libfile_fde3_f-f16ef4b9d1cc81918aa32e60f0f233aa_ad925f8fadbc81918eab9ef0eafee9a9",
+      "file_id": "file_00000000a358820e8590cae3802b4f3a",
+      "current_version_number": 1,
+      "status": "succeeded",
+      "local_metadata_applied": true
+    },
+    {
+      "file_name": "TSH_M2_4_Parte_1_Guia_de_gravacao_v2.pdf",
+      "library_file_id": "libfile_fde3_f-ef1141aa7cac8191a5852eea3c47363c_ad925f8fadbc81918eab9ef0eafee9a9",
+      "file_id": "file_00000000c990820e8cecbdf3222fc3ee",
+      "current_version_number": 1,
+      "status": "succeeded",
+      "local_metadata_applied": true
+    },
+    {
+      "file_name": "TSH_M2_4_Parte_2_Slides_v2.pdf",
+      "library_file_id": "libfile_fde3_f-6091bc58cd908191801c1ae184bf3af4_ad925f8fadbc81918eab9ef0eafee9a9",
+      "file_id": "file_00000000865c820eb878cff0a7b342a4",
+      "current_version_number": 1,
+      "status": "succeeded",
+      "local_metadata_applied": true
+    },
+    {
+      "file_name": "TSH_M2_4_Parte_2_Guia_de_gravacao_v2.docx",
+      "library_file_id": "libfile_fde3_f-ae2cb7bc4efc8191875ae6df173a382c_ad925f8fadbc81918eab9ef0eafee9a9",
+      "file_id": "file_00000000d7e8820e8b08853d8b05b204",
+      "current_version_number": 1,
+      "status": "succeeded",
+      "local_metadata_applied": true
+    },
+    {
+      "file_name": "TSH_M2_4_Parte_2_Guia_de_gravacao_v2.pdf",
+      "library_file_id": "libfile_fde3_f-be3f58a40f208191b884d63b048579f0_ad925f8fadbc81918eab9ef0eafee9a9",
+      "file_id": "file_00000000bd90820e9ea9c389a5e7000a",
+      "current_version_number": 1,
+      "status": "succeeded",
+      "local_metadata_applied": true
+    },
+    {
+      "file_name": "TSH_M2_4_Apoio_do_Aluno_v2.docx",
+      "library_file_id": "libfile_fde3_f-ab48673360608191805d351f9f5cd22a_ad925f8fadbc81918eab9ef0eafee9a9",
+      "file_id": "file_000000007cac820e8f20a9151620453b",
+      "current_version_number": 1,
+      "status": "succeeded",
+      "local_metadata_applied": true
+    },
+    {
+      "file_name": "TSH_M2_4_Apoio_do_Aluno_v2.pdf",
+      "library_file_id": "libfile_fde3_f-3a332b14d04c81919408bcc9db8a3bf9_ad925f8fadbc81918eab9ef0eafee9a9",
+      "file_id": "file_0000000095c4820ea74b1036393c3114",
+      "current_version_number": 1,
+      "status": "succeeded",
+      "local_metadata_applied": true
+    }
+  ]
+}

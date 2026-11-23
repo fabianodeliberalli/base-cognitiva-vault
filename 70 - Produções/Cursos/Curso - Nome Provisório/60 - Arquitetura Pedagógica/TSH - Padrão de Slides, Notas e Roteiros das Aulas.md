@@ -2,9 +2,9 @@
 tipo: padrao-de-producao
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "2.10"
+versao: "2.11"
 criado_em: 2026-11-02
-atualizado_em: 2026-11-22
+atualizado_em: 2026-11-23
 aplica_se_a: futuras producoes de aulas, slides, notas e apoios do TSH
 autor: Fabiano Deliberalli
 ---
@@ -180,6 +180,8 @@ A condução prática pode usar um título de momento e instruções diretas, se
 A revisão do exemplo está na seção 10. Em M2.2 v0.4, conferir especialmente as telas 13–16: a 13 já solicita retomar a questão e descreve a conclusão; a 14 volta a iniciar a aproximação; a 15 alterna duas perguntas e contém interpretações possíveis; a 16 retorna e encerra. Para uma próxima composição, tornar a 13 apresentação, deixar a execução nas telas seguintes e levar os comentários interpretativos à elaboração. Essa indicação ainda não significa que os arquivos v0.4 tenham sido regenerados.
 
 ## 6. Fundamentos, autores e termos novos
+
+A correção de 23/11/2026 retoma a simplificação recorrente apontada por Fabiano desde o início desta produção. A [[13 - Base de Produção Autoral e Didática - Fabiano Deliberalli]] v1.6 orienta a aplicação: desenvolver a fonte argumentativa antes da montagem; localizar a contribuição efetivamente ensinada; condensar preservando o raciocínio; distinguir conferência substantiva e técnica. Não tratar a orientação como restrita a Cozolino, nem exigir novo lembrete em cada aula. [[M2.4 - Produção em duas partes v2]] oferece uma aplicação concreta, sem se tornar quota ou molde para repetir.
 
 Recuperar os fundamentos pertinentes do repositório: formulações autorais, Raio X/dossiê atual, TCC, monografias, bancos de vivências e fontes das disciplinas conforme a questão. Distinguir o que foi lido diretamente, recuperado por nota ou proposto na nova composição. Não inventar vivências de Fabiano ou apresentar casos fictícios como experiências pessoais. Pedidos de informação indispensável ficam na conversa ou na preparação de produção, sem contaminar as notas da gravação.
 
@@ -413,11 +415,11 @@ As condições de participação, a possibilidade de adaptar/interromper e as or
 ## 11. Produção e conferência antes da entrega
 
 1. Localizar a contribuição da aula no percurso e recuperar as fontes, práticas, imagens e formulações autorais pertinentes. Consultar o acervo visual e suas notas-mãe antes de criar uma figura nova; verificar conteúdo e decisão vigente. Ler o conteúdo necessário, sem presumir que o nome da nota já forneça o fundamento ou determine sua vigência.
-2. Compor a trilha inteira: entrada, questão, desenvolvimento, experiência quando pertinente, elaboração e continuidade. Conferir as conexões antes de diagramar.
+2. Desenvolver na fonte da aula o raciocínio e as articulações pertinentes; depois compor a trilha inteira: entrada, questão, desenvolvimento, experiência quando pertinente, elaboração e continuidade. Confrontar as relações ensinadas com as fontes e com o aprendizado anterior antes de adaptar às telas.
 3. Construir cada slide como um passo com representação visual própria e notas adequadas à sua função. Usar os quatro campos como referência na exposição e na elaboração; na realização de uma prática, oferecer o momento reconhecível e instruções diretas. Desenvolver os termos novos e as contribuições dos autores em seu lugar no raciocínio.
 4. Produzir ou atualizar o apoio do aluno e seu aprofundamento opcional. Conferir a correspondência de conceitos, finalidade, exemplos e prática com slides e notas. A coerência não exige reproduzir literalmente toda figura em todos os suportes, nem impor um desenho nos exercícios abertos.
 5. Percorrer a aula do início ao fim como apresentador e aluno. Conferir se um olhar para a tela e as notas permite saber de onde viemos, o que desenvolver aqui, para quê e para onde seguimos. Reescrever qualquer ponto que ainda exija inventar a explicação durante a gravação.
-6. Verificar os arquivos reais: todas as telas e notas, preservação de imagens aprovadas, legibilidade, exportações e correspondência das versões. Fazer a revisão de conteúdo e visual adequada à alteração; não presumir qualidade pedagógica só pela diagramação.
+6. Conferir substantivamente o que foi ensinado nos materiais reais, corrigindo relações ausentes, autores apenas nomeados ou simplificações que retiraram raciocínio. Verificar também todas as telas e notas, imagens, legibilidade, exportações e versões. Registrar o alcance de cada verificação; correspondência de arquivos e revisão visual não comprovam profundidade.
 7. Atualizar versões, fontes, arquivos, alterações e trabalho restante nos localizadores existentes, distinguindo decisões registradas de propostas editoriais. Reunir slides, guia e apoio em um ZIP para download conjunto.
 
 ### Critérios observáveis
@@ -512,7 +514,7 @@ Esta conferência responde ao pedido de verificar **a construção das aulas e d
 | Entregáveis e Hotmart por aprendizagem | Seção 9; [[TSH - Entregáveis do aluno e inserção na Hotmart - M2 a M8]]. Orientação, apoios úteis, Cartografia, síntese/repertório e complementos podem compartilhar arquivos. | Sem número fixo de PDFs/páginas ou ficha nova por aula. Destinação não comprova upload, liberação, publicação ou acesso de cada aluno. |
 | Recuperação automática quando há acesso | Seções 1 e 12; `AGENTS.md`/`CLAUDE.md` → contrato comum → base geral e ficha do projeto → padrão, estado e fontes pertinentes. Aplicação durante o trabalho, sem novo lembrete ou relatório ritual. | Generalizável a outros conteúdos com a base geral e sua referência específica; não exportar o currículo TSH nem prometer leitura por uma IA sem acesso. |
 | Qualidade do produto entregue | Seções 8 e 11. Percorrer o conteúdo integral e os artefatos reais; conferir conceitos, encadeamento, todas as notas, imagens, links, legibilidade, fontes e exportações conforme a alteração. | QA visual não demonstra aprendizagem ou prontidão substantiva. Uma correção de notas não autoriza destruir o apoio visual aprovado. |
-| Decisões, propostas e produção | Seções 1, 9 e 11; [[00 - Estado e Continuidade da Produção M2]]. Registrar versões e alterações, distinguindo escolhas do autor de propostas editoriais. | [[M2.4 - Produção em duas partes v1]] aplica os refinamentos em compreensão/fundamentos e prática/integração, com guias e apoio correspondentes. M2.2/M2.3 têm práticas autônomas v1; as composições integradas preservam a genealogia. O estado de M2 localiza cada suporte; M2.5–M2.6 e M3–M8 conservam a orientação estrutural. |
+| Decisões, propostas e produção | Seções 1, 9 e 11; [[00 - Estado e Continuidade da Produção M2]]. Registrar versões e alterações, distinguindo escolhas do autor de propostas editoriais. | [[M2.4 - Produção em duas partes v2]] aplica a correção de aprofundamento e os refinamentos em compreensão/fundamentos e prática/integração, com guias e apoio correspondentes. M2.2/M2.3 têm práticas autônomas v1; as composições integradas preservam a genealogia. O estado de M2 localiza cada suporte; M2.5–M2.6 e M3–M8 conservam a orientação estrutural. |
 
 **Precisões feitas nesta conferência:** a ficha mínima, o plano de M2, os localizadores do dossiê e a orientação de entregáveis passam a retomar as trilhas M2.1 v0.8/M2.2 v0.4 e o estado de M2. As etapas de 12/18 telas, roteiro integral, personagem e apoio inicial de duas páginas ficam qualificadas como história no próprio trecho. Matrizes 9–54 conservam a função de consulta das origens, acompanhadas da correspondência atual 59. O padrão reúne a cobertura acima; a produção continua aula a aula, com verificação do resultado concreto.
 
@@ -528,6 +530,7 @@ Esta conferência responde ao pedido de verificar **a construção das aulas e d
 - [[M2.2 - Apresentação editável v0.4]]
 - [[13 - Base de Produção Autoral e Didática - Fabiano Deliberalli]]
 - [[00 - Estado e Continuidade da Produção M2]]
+
 
 
 
