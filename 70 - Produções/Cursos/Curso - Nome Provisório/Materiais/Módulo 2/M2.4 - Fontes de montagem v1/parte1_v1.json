@@ -1,0 +1,794 @@
+{
+  "lesson": "M2.4",
+  "version": "1.0",
+  "date": "2026-11-22",
+  "part": 1,
+  "title": "O que mantém a repetição de uma resposta?",
+  "slides": [
+    {
+      "sourceIndex": 0,
+      "title": "O que mantém a repetição de uma resposta?",
+      "moment": "Abertura",
+      "notes": "Na M2.3, investigamos como uma interpretação ganha força de certeza.\nUma leitura pode mudar e o próximo encontro continuar sendo vivido de maneira parecida.\n\nNesta aula, vamos investigar o que mantém essa maneira de responder.\nE o que precisa ganhar presença para que outra participação se torne possível.\n\nVamos reunir corpo, afeto, memória, elaboração, relação e condições concretas.\nEsse trabalho inclui tanto cuidar de uma dificuldade quanto abrir espaço para um desejo, uma criação ou uma possibilidade de ser.\nA prática será conduzida em um segundo vídeo.",
+      "edits": {},
+      "number": 1,
+      "notes_sha256": "bf06c67763b124b23f43f7c41211f253f77026c9439cc03d61ddd558fd1c309f",
+      "screen_text": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "cover-label",
+          "text": "M2.4 · PARTE 1\nCOMPREENSÃO E FUNDAMENTOS"
+        },
+        {
+          "name": "cover-title",
+          "text": "O que mantém a repetição\nde uma resposta?"
+        },
+        {
+          "name": "presenter",
+          "text": "Fabiano Deliberalli"
+        },
+        {
+          "name": "official-subtitle",
+          "text": "Da compreensão acumulada\nà presença que sustenta"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 1,
+      "title": "A compreensão mudou. O que continua acontecendo?",
+      "moment": "Questão da aula",
+      "notes": "Uma pessoa reconhece que pode negociar as condições de um trabalho.\nMesmo assim, diante de um novo pedido, sente aperto e aceita depressa.\n\nA M2.1 mostrou como a percepção se forma no encontro entre corpo, história e contexto.\nA M2.2 aprofundou a forma sensível e a elaboração dessa experiência.\nA M2.3 investigou a convicção e a conferência da interpretação.\n\nAgora acompanhamos o que ficou disponível para viver e fazer.\nA compreensão nova pode conviver com uma expectativa antiga e com condições que continuam iguais.\nÉ essa diferença que vamos investigar.",
+      "edits": {},
+      "number": 2,
+      "notes_sha256": "e9071464edd6689f41c4fcc3c11f360552189cf42f9966615b9fec7139f8fa9d",
+      "screen_text": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "A compreensão mudou. O que continua acontecendo?"
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 1 · 2 / 19"
+        },
+        {
+          "name": "reading-label",
+          "text": "COMPREENSÃO"
+        },
+        {
+          "name": "reading",
+          "text": "“Posso negociar.”"
+        },
+        {
+          "name": "lived-label",
+          "text": "VIVIDO E PARTICIPAÇÃO"
+        },
+        {
+          "name": "lived",
+          "text": "Aperto · Pressa\n“É melhor aceitar.”"
+        },
+        {
+          "name": "investigation",
+          "text": "O que mantém essa diferença?\nO que permitiria outra participação?"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 2,
+      "title": "“Eu sabia que precisava conversar. Acabei aceitando.”",
+      "moment": "Exemplo e problema",
+      "notes": "Vamos acompanhar um pedido de trabalho com prazo apertado.\nA pessoa sabe que precisaria conferir suas condições antes de aceitar.\n\nAo ouvir o pedido, sente aperto, imagina decepcionar e quer encerrar a tensão.\nDiz “pode deixar”.\nO alívio chega agora, e a sobrecarga aparece depois.\nUm trabalho próprio ou o descanso ficam sem espaço.\n\nTambém precisamos conhecer a relação e a margem real de negociação.\nUma ameaça, uma dependência financeira ou uma desqualificação anterior participam dessa resposta.\nQuando ela aceita, uma organização inteira já está em curso.",
+      "edits": {},
+      "number": 3,
+      "notes_sha256": "4c40f3b4c83c2be50caf6767ddefc9d7d63718d87717005ede0880376e68f513",
+      "screen_text": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "“Eu sabia que precisava conversar. Acabei aceitando.”"
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 1 · 3 / 19"
+        },
+        {
+          "name": "agenda-label",
+          "text": "Prazo apertado"
+        },
+        {
+          "name": "agenda-meaning",
+          "text": "Aperto\nImagem de decepcionar\nPressa de encerrar"
+        },
+        {
+          "name": "answer",
+          "text": "“Pode deixar.”"
+        },
+        {
+          "name": "relief",
+          "text": "Alívio agora"
+        },
+        {
+          "name": "cost",
+          "text": "Sobrecarga depois\nA criação fica de lado"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 3,
+      "title": "O que se repete é uma organização da experiência",
+      "moment": "Configuração",
+      "notes": "O corpo se prepara, uma imagem antecipa decepção e o pensamento diz “vou perder meu lugar”.\nEsses elementos se influenciam e participam do que parece possível fazer.\nO tom do pedido, quem decide e a história da relação também entram nessa organização.\n\nVamos chamar de configuração essa maneira de os elementos se articularem numa ocasião.\nEla pode se repetir com diferenças e não resume quem a pessoa é.\n\nMudar uma explicação pode alcançar o conjunto de modos diferentes.\nPor isso acompanhamos o efeito da compreensão no vivido e na participação.",
+      "edits": {},
+      "number": 4,
+      "notes_sha256": "f99905a4b3c5568c075b406ff3d77e25fe57d34b67bd10db3c7e1db2c92a7229",
+      "screen_text": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "O que se repete é uma organização da experiência"
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 1 · 4 / 19"
+        },
+        {
+          "name": "configuration",
+          "text": "Participar\nna situação"
+        },
+        {
+          "name": "dimension-0",
+          "text": "Corpo e afeto"
+        },
+        {
+          "name": "dimension-1",
+          "text": "Imagem e memória"
+        },
+        {
+          "name": "dimension-2",
+          "text": "Elaboração"
+        },
+        {
+          "name": "dimension-3",
+          "text": "Relação e condições"
+        },
+        {
+          "name": "not-identity",
+          "text": "Uma configuração nesta ocasião"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 4,
+      "title": "Compreender uma possibilidade e conseguir vivê-la",
+      "moment": "Dois tempos da Tradução",
+      "notes": "Nos dois tempos da Tradução, algo ganha forma na experiência e procuramos elaborar o que vivemos.\nNo mapa funcional já apresentado, o Eu Básico participa da sensibilidade, das imagens e das referências aprendidas.\nO Eu Médio nomeia, relaciona, raciocina e orienta escolhas.\nSão funções em diálogo nesse mapa.\n\nPosso pensar “é possível negociar” e continuar vivendo o pedido como risco de rejeição.\nA alternativa compreendida ainda encontra pouca sustentação vivida.\nUma palavra mais precisa, uma experiência de apoio ou outra condição pode participar desse trabalho.\nVamos conferir o que isso permite sentir, sustentar e realizar.",
+      "edits": {},
+      "number": 5,
+      "notes_sha256": "bd2ddaf3a57cec7e179f02975cf1af57d4281b513cb25cc2188146b9bf522884",
+      "screen_text": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "Compreender uma possibilidade e conseguir vivê-la"
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 1 · 5 / 19"
+        },
+        {
+          "name": "basic",
+          "text": "Eu Básico"
+        },
+        {
+          "name": "middle",
+          "text": "Eu Médio"
+        },
+        {
+          "name": "sensitive",
+          "text": "Forma sensível\nReferências aprendidas"
+        },
+        {
+          "name": "elaboration",
+          "text": "Nomear · Relacionar\nCompreender · Escolher"
+        },
+        {
+          "name": "question",
+          "text": "Uma alternativa compreendida precisa ganhar sustentação vivida."
+        }
+      ]
+    },
+    {
+      "sourceIndex": 5,
+      "title": "Quando a pressão encontra uma forma que pode ser pensada",
+      "moment": "Bion em contribuição",
+      "notes": "Às vezes, percebemos apenas aperto e urgência para responder.\nAo acompanhar essa experiência, podemos reconhecer receio, vergonha, raiva ou algo ainda difícil de nomear.\n\nO psicanalista Wilfred Bion investigou como aprendemos com a experiência emocional.\nSua contribuição aqui é compreender como impressões sensíveis e emocionais encontram formas que permitem pensá-las.\n\n“Tenho receio de perder meu lugar se negociar” oferece outra condição de investigação.\nPodemos examinar esse receio e a realidade da relação.\nUma escuta que acolhe, uma imagem, um gesto ou uma palavra pode ajudar a dar forma ao vivido.\nNomear ganha valor quando amplia o contato e a elaboração da experiência.",
+      "edits": {},
+      "number": 6,
+      "notes_sha256": "1a29fc90eb2dc0d4e0b0ff761d96b4a38b623d3e63493ac165f27f629de941f2",
+      "screen_text": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "Quando a pressão encontra uma forma que pode ser pensada"
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 1 · 6 / 19"
+        },
+        {
+          "name": "pressure",
+          "text": "Pressa\nAperto\n“Preciso responder.”"
+        },
+        {
+          "name": "thinkable",
+          "text": "“Tenho receio de perder\nmeu lugar se eu negociar.”"
+        },
+        {
+          "name": "bion-contribution",
+          "text": "Uma forma que permite pensar e elaborar"
+        },
+        {
+          "name": "bion",
+          "text": "Bion · Aprender com a experiência emocional"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 6,
+      "title": "A resposta participa do encontro que virá depois",
+      "moment": "Circularidade",
+      "notes": "Ao aceitar o prazo sem conversar, a pessoa pode levar o outro a contar com essa disponibilidade.\nA expectativa organiza o gesto, o gesto participa da relação e o retorno do encontro influencia a próxima expectativa.\n\nEdgar Morin ajuda a pensar essa recursividade: os efeitos também entram na continuidade do processo.\nO alívio imediato pode favorecer a resposta conhecida, enquanto o custo aparece depois.\nUm acordo nunca revisto ou uma exigência imposta também podem continuar operando.\n\nInvestigar nossa participação permite localizar possibilidades de ação.\nO outro continua responsável por sua conduta.\nEm algumas situações, o trabalho exige mudar condições da relação.",
+      "edits": {},
+      "number": 7,
+      "notes_sha256": "409a87389c19d009c2bac38f253764058593c055f445c662f4c7f8bbee5d3409",
+      "screen_text": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "A resposta participa do encontro que virá depois"
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 1 · 7 / 19"
+        },
+        {
+          "name": "expectation",
+          "text": "Antecipação"
+        },
+        {
+          "name": "form",
+          "text": "Forma vivida"
+        },
+        {
+          "name": "participation",
+          "text": "Participação"
+        },
+        {
+          "name": "effects",
+          "text": "Retorno do encontro"
+        },
+        {
+          "name": "recursion",
+          "text": "O que retorna também participa da continuidade."
+        }
+      ]
+    },
+    {
+      "sourceIndex": 7,
+      "title": "O que foi aprendido pode chegar antes da explicação",
+      "moment": "Aprendizagem e disponibilidade",
+      "notes": "Aprendizagens podem aparecer como prontidão, antes de explicarmos cada movimento.\nCozolino contribui para compreender a presença do aprendizado implícito nas relações e nas respostas atuais.\nKahneman ajuda a investigar a força do familiar no julgamento.\n\nIsso também sustenta capacidades desenvolvidas.\nNo shakuhachi, escuta, sopro e gesto podem se articular sem uma explicação consciente a cada ajuste.\nAntecipar permite continuidade e adaptação.\n\nUma forma conhecida de evitar conflito também pode chegar depressa quando as condições já mudaram.\nO cultivo precisa considerar o que já existe, o que ficou pouco acessível e o que ainda pede aprendizagem.\nAs condições externas entram nessa avaliação.",
+      "edits": {},
+      "number": 8,
+      "notes_sha256": "2e157eb0ba67cd96f3b868633271643003c815a8535cfeaf99e971c5d410835a",
+      "screen_text": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "O que foi aprendido pode chegar antes da explicação"
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 1 · 8 / 19"
+        },
+        {
+          "name": "experience",
+          "text": "Experiência"
+        },
+        {
+          "name": "practice",
+          "text": "Aprendizagem"
+        },
+        {
+          "name": "availability",
+          "text": "Disponibilidade"
+        },
+        {
+          "name": "both",
+          "text": "Capacidades desenvolvidas\nRespostas conhecidas"
+        },
+        {
+          "name": "learn",
+          "text": "O que já existe? O que precisa de cultivo? Em quais condições?"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 8,
+      "title": "Ver uma passagem e encontrar condições de percorrê-la",
+      "moment": "Metáfora da escada",
+      "notes": "Nesta imagem, o olhar alcança vários lances da escada.\nPercorrê-los pede um lugar de partida, passos e apoios.\n\nPodemos reconhecer uma possibilidade e ainda precisar construir condições para vivê-la.\nO corrimão sustenta, e uma grade pode proteger, delimitar ou impedir uma passagem.\nA função depende da situação.\n\nNa experiência, uma organização conhecida pode oferecer continuidade e cobrar um custo de liberdade.\nQue passagem a pessoa reconhece e que apoio permitiria outro movimento?\nA imagem abre essa investigação sem decidir o sentido da experiência de cada um.",
+      "edits": {},
+      "number": 9,
+      "notes_sha256": "330218424523074bf8c398298eb2d4b85eecb61d644779761364efe852ea8b21",
+      "screen_text": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "Ver uma passagem e encontrar condições de percorrê-la"
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 1 · 9 / 19"
+        },
+        {
+          "name": "seeing",
+          "text": "Reconhecer\numa passagem"
+        },
+        {
+          "name": "walking",
+          "text": "Conseguir percorrê-la\ncom apoio e condições"
+        },
+        {
+          "name": "photo-credit",
+          "text": "Acervo TSH · fotografia @scripz · captura do quadro"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 9,
+      "title": "O que a resposta preserva e o que fica sem expressão?",
+      "moment": "Função e singularidade",
+      "notes": "Ao aceitar depressa, a pessoa pode procurar preservar um vínculo, uma renda ou a imagem de alguém com quem se pode contar.\nO descanso, a criação ou a própria posição podem ficar sem lugar.\n\nA função precisa ser investigada em cada situação.\nPode haver alívio, costume, risco real ou uma referência conhecida.\nAlgumas restrições foram impostas e nunca protegeram a pessoa.\n\nTambém perguntamos o que procura expressão: um desejo, uma capacidade, uma contribuição ou um sentido.\nO TSH relaciona esse horizonte às possibilidades da Essência e às condições concretas da singularidade.\nO trabalho inclui reconhecer, integrar e encontrar meios de expressão.",
+      "edits": {},
+      "number": 10,
+      "notes_sha256": "76debfb1887430ab9dbb078ba6ae71902dbafef5b93ccf76fc3da3d1df3c7642",
+      "screen_text": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "O que a resposta preserva e o que fica sem expressão?"
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 1 · 10 / 19"
+        },
+        {
+          "name": "preserve",
+          "text": "O que preserva?"
+        },
+        {
+          "name": "preserve-details",
+          "text": "Vínculo · Condições de vida\nUma referência conhecida"
+        },
+        {
+          "name": "expression",
+          "text": "O que pede espaço?"
+        },
+        {
+          "name": "expression-details",
+          "text": "Criação · Desejo · Descanso\nLimite · Sentido"
+        },
+        {
+          "name": "horizon",
+          "text": "Reconhecimento, integração e expressão das possibilidades da Essência"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 10,
+      "title": "Milgram: autoridade e continuidade da ação",
+      "moment": "Situação experimental",
+      "notes": "Stanley Milgram investigou até onde participantes seguiriam instruções de uma autoridade num laboratório.\nEles acreditavam participar de uma pesquisa sobre memória e aprendizagem.\n\nO participante assumia o papel de professor e deveria aumentar supostos choques a cada erro do aprendiz.\nO pesquisador orientava a continuidade.\nO aprendiz era um colaborador e não recebia as descargas anunciadas.\nNa condição publicada em 1963, ele batia na parede nos níveis mais altos e deixava de responder.\n\nAutoridade institucional, legitimidade da tarefa e pequenos incrementos compunham aquela situação.\nO estudo permite examinar a distância entre sentir conflito e interromper uma ação.",
+      "edits": {},
+      "number": 11,
+      "notes_sha256": "d2a035ab6503da6ac3c44f4669603b5ae9e2fa154f1c441ad57d2aef18af5b3d",
+      "screen_text": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "Milgram: autoridade e continuidade da ação"
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 1 · 11 / 19"
+        },
+        {
+          "name": "experimenter-role",
+          "text": "Pesquisador\nPede continuidade"
+        },
+        {
+          "name": "participant-role",
+          "text": "Participante\nAciona o aparelho"
+        },
+        {
+          "name": "learner-role",
+          "text": "Aprendiz\nColaborador do estudo"
+        },
+        {
+          "name": "simulation",
+          "text": "Os choques destinados ao aprendiz eram simulados."
+        }
+      ]
+    },
+    {
+      "sourceIndex": 11,
+      "title": "Sentir conflito não garante interromper a ação",
+      "moment": "Alcance do estudo",
+      "notes": "Na condição descrita em 1963, participaram quarenta homens.\nVinte e seis chegaram ao nível máximo indicado e quatorze interromperam antes.\nMuitos dos que continuaram mostraram tensão.\n\nO desconforto podia coexistir com a continuidade da ação.\nPrecisamos compreender essa participação junto da autoridade reconhecida, da tarefa e dos compromissos em curso.\nOs números pertencem àquele arranjo experimental.\n\nPara nossa aula, a pergunta é: que condições permitem sustentar uma interrupção ou outra resposta?\nReconhecer um conflito ainda deixa aberto o trabalho de conseguir agir diante dele.",
+      "edits": {},
+      "number": 12,
+      "notes_sha256": "9365a1facb6788affa1366edaa15163d2faf8b5917bcea38bab7e3f209f6269c",
+      "screen_text": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "Sentir conflito não garante interromper a ação"
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 1 · 12 / 19"
+        },
+        {
+          "name": "sample",
+          "text": "40"
+        },
+        {
+          "name": "sample-detail",
+          "text": "participantes\nCondição de 1963"
+        },
+        {
+          "name": "conflict",
+          "text": "Compreender · Sentir conflito · Conseguir interromper"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 12,
+      "title": "Que condições tornam uma alternativa possível?",
+      "moment": "Pessoa, relação e condições",
+      "notes": "Voltemos à pessoa que aceita um prazo apertado.\nEla pode saber negociar e temer uma consequência real.\nPode também ter margem para conversar e ainda não conseguir reconhecê-la.\n\nQuem decide, o que acontece diante da discordância e que apoio existe?\nTalvez precise cultivar a capacidade de permanecer na conversa.\nTalvez precise obter informação, construir uma aliança, rever um acordo ou preparar uma saída.\n\nUma condição interna de segurança precisa encontrar a realidade da relação.\nÉ nesse encontro entre pessoa, relação e condições que avaliamos uma alternativa.",
+      "edits": {},
+      "number": 13,
+      "notes_sha256": "b850052f7ee8c463782ce559771309c921181c3cc1ceeb83f7ee275ea8423fbc",
+      "screen_text": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "Que condições tornam uma alternativa possível?"
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 1 · 13 / 19"
+        },
+        {
+          "name": "conditions-name-0",
+          "text": "Pessoa"
+        },
+        {
+          "name": "conditions-detail-0",
+          "text": "Capacidade\nEstado e acesso"
+        },
+        {
+          "name": "conditions-name-1",
+          "text": "Relação"
+        },
+        {
+          "name": "conditions-detail-1",
+          "text": "Acordos\nAutoridade e apoio"
+        },
+        {
+          "name": "conditions-name-2",
+          "text": "Condições"
+        },
+        {
+          "name": "conditions-detail-2",
+          "text": "Tempo e informação\nRecursos e alternativas"
+        },
+        {
+          "name": "condition-question",
+          "text": "Que mudança tornaria a alternativa viável?"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 13,
+      "title": "Pêndulo e espiral mostram perguntas diferentes",
+      "moment": "Estado e percurso",
+      "notes": "O pêndulo acompanha variações de estado e acesso numa ocasião.\nA espiral ajuda a comparar reencontros com um tema ao longo do percurso.\n\nNuma conversa, posso passar da abertura à pressa e depois recuperar alguma referência.\nEm duas conversas, posso sentir tensão semelhante e participar de outra maneira.\nTalvez reconheça antes, peça tempo ou perceba melhor uma imposição.\n\nO tema voltar deixa aberta a pergunta sobre o que foi aprendido.\nVamos examinar as diferenças de percepção, sustentação e participação junto das condições de cada ocasião.",
+      "edits": {},
+      "number": 14,
+      "notes_sha256": "9c0ffad288f038778696d95b6156f3bbf2505e40bcf7f2467a2988374c28483b",
+      "screen_text": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "Pêndulo e espiral mostram perguntas diferentes"
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 1 · 14 / 19"
+        },
+        {
+          "name": "pendulum-title",
+          "text": "Pêndulo"
+        },
+        {
+          "name": "spiral-title",
+          "text": "Espiral"
+        },
+        {
+          "name": "pendulum-meaning",
+          "text": "Estado e acesso\nna ocasião"
+        },
+        {
+          "name": "spiral-meaning",
+          "text": "Reencontros, condições\ne participação"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 14,
+      "title": "Duas ocasiões: o que permaneceu e o que mudou?",
+      "moment": "Comparação situada",
+      "notes": "Dois pedidos de trabalho podem parecer semelhantes e acontecer em condições diferentes.\nEm cada ocasião, acompanhamos como foi vivido, o que estava disponível e como a pessoa participou.\n\nDescanso, informação, autonomia, apoio e risco podem alterar essa disponibilidade.\nTambém observamos o que retornou do encontro: alívio, cobrança, conversa ou um limite respeitado.\n\nReconhecer melhor o que falta já pode orientar outro trabalho.\nComparar ocasiões permite acompanhar a aquisição sem presumir progresso toda vez que um tema retorna.",
+      "edits": {},
+      "number": 15,
+      "notes_sha256": "4cd610fe99322f6f08c4cddd8aa2c83d9427b77231fce7859671db2c601eec1f",
+      "screen_text": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "Duas ocasiões: o que permaneceu e o que mudou?"
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 1 · 15 / 19"
+        },
+        {
+          "name": "occasion-a",
+          "text": "Ocasião A"
+        },
+        {
+          "name": "occasion-b",
+          "text": "Ocasião B"
+        },
+        {
+          "name": "a-context",
+          "text": "Como foi vivido?\nO que estava disponível?\nComo participei?"
+        },
+        {
+          "name": "b-context",
+          "text": "O que permaneceu?\nO que mudou nas condições?\nO que voltou do encontro?"
+        },
+        {
+          "name": "comparison",
+          "text": "A aquisição aparece na relação entre experiência, condições e participação."
+        }
+      ]
+    },
+    {
+      "sourceIndex": 15,
+      "title": "Um recurso tem função nesta situação",
+      "moment": "Pertinência do recurso",
+      "notes": "Um recurso ajuda a perceber, sustentar ou realizar uma possibilidade naquela situação.\nSua função orienta a escolha.\n\nNa negociação do prazo, pode ser conseguir permanecer na conversa enquanto consulta a agenda.\nA firmeza vivida numa relação confiável pode oferecer uma referência para esse ensaio.\nFalta de informação pede informação, e uma habilidade ainda não desenvolvida pede aprendizagem.\n\nA tensão pode continuar e surgir maior condição de escutar e responder.\nUma capacidade interna, um apoio relacional e uma condição material podem precisar trabalhar juntos.\nNo ensaio, vamos conferir o que uma experiência pertinente torna disponível.",
+      "edits": {},
+      "number": 16,
+      "notes_sha256": "fbcbadb95532d729103f719370b6f7cc84c8727f9f7d532abd5aefff945c6394",
+      "screen_text": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "Um recurso tem função nesta situação"
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 1 · 16 / 19"
+        },
+        {
+          "name": "resource",
+          "text": "Participação\npossível"
+        },
+        {
+          "name": "resource-0",
+          "text": "Capacidade"
+        },
+        {
+          "name": "resource-1",
+          "text": "Informação"
+        },
+        {
+          "name": "resource-2",
+          "text": "Apoio"
+        },
+        {
+          "name": "resource-3",
+          "text": "Condições"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 16,
+      "title": "Quatro passos para experimentar outra participação",
+      "moment": "Apresentação do percurso",
+      "notes": "Este é o percurso da prática que será conduzida no segundo vídeo.\nPrimeiro reconhecemos o início de uma resposta conhecida.\nDepois retornamos a outras referências, damos presença a um recurso e reencontramos o começo com esse apoio.\n\nEssa organização dialoga com o metapadrão trabalhado por Melissa Tiers na hipnose integrativa.\nNo TSH, ela serve à investigação do vivido, à elaboração e à participação situada.\nO recurso precisa ganhar alguma presença na experiência.\nDepois comparamos o que aconteceu, inclusive quando uma diferença ainda não aparece.\n\nAqui estamos conhecendo o percurso.\nAs instruções de realização estarão no vídeo da prática.",
+      "edits": {},
+      "number": 17,
+      "notes_sha256": "f7383c506eb7a84403420e3e26c4790fd0d3185858eabe46bbcbaf2bec57ba8b",
+      "screen_text": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "Quatro passos para experimentar outra participação"
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 1 · 17 / 19"
+        },
+        {
+          "name": "recognize",
+          "text": "Reconhecer\no momento"
+        },
+        {
+          "name": "return",
+          "text": "Retornar\na outras referências"
+        },
+        {
+          "name": "resource",
+          "text": "Dar presença\nao recurso"
+        },
+        {
+          "name": "rehearse",
+          "text": "Reencontrar\ncom esse apoio"
+        },
+        {
+          "name": "method",
+          "text": "Quatro passos · Melissa Tiers · exploração e elaboração no TSH"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 17,
+      "title": "Envolver-se, refletir e conferir no vivido",
+      "moment": "Fundamento da investigação",
+      "notes": "Forghieri, na investigação fenomenológica, articula envolvimento na experiência e distanciamento para refletir.\nA reflexão mantém um elo com o vivido e volta a ele para conferir o que compreendeu.\n\nNa prática, vamos nos aproximar brevemente de um momento e retornar ao presente.\nUm recurso será investigado pelo que permite viver e sustentar diante daquele começo.\nO ensaio pode modificar a experiência ou mostrar o que ainda falta.\n\nEssa alternância permite investigar sem tomar a primeira explicação como conclusão definitiva.",
+      "edits": {
+        "forghieri": "Forghieri · reflexão em vínculo com a experiência"
+      },
+      "number": 18,
+      "notes_sha256": "ac4d511dde488c32fdca55bcbc5496fc3128791a5d430f6fce83c96e7a1a135c",
+      "screen_text": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "Envolver-se, refletir e conferir no vivido"
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 1 · 18 / 19"
+        },
+        {
+          "name": "involve",
+          "text": "Envolver-se"
+        },
+        {
+          "name": "reflect",
+          "text": "Refletir"
+        },
+        {
+          "name": "check-lived",
+          "text": "Conferir no vivido"
+        },
+        {
+          "name": "forghieri",
+          "text": "Forghieri · reflexão em vínculo com a experiência"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 28,
+      "title": "Da compreensão à participação sustentada",
+      "moment": "Fechamento da Parte 1",
+      "notes": "A repetição envolve uma configuração vivida, aprendizagens, relações e condições.\nOutra participação pode pedir elaboração, acesso a uma capacidade, cultivo ou mudança concreta de contexto.\n\nNa segunda parte, vamos acompanhar uma situação pessoal e um recurso pertinente a ela.\nGuardaremos referências do vivido e da participação, no início e no reencontro.\nA comparação vai ajudar a escolher o próximo trabalho.\n\nO apoio do aluno reúne a síntese, a ficha de registro e as referências para aprofundamento.\nReserve a prática para um momento em que possa dedicar atenção a ela.",
+      "edits": {
+        "closing": "Compreender a organização.\nInvestigar outra sustentação.",
+        "next-label": "CONTINUA NA PARTE 2 DESTA AULA",
+        "next-title": "Prática guiada\ne integração"
+      },
+      "number": 19,
+      "notes_sha256": "16ce3c993d406daf61b01df9dbb0c1bad83579010441366480cc3e3e2fa9a773",
+      "screen_text": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "Da compreensão à participação sustentada"
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 1 · 19 / 19"
+        },
+        {
+          "name": "closing",
+          "text": "Compreender a organização.\nInvestigar outra sustentação."
+        },
+        {
+          "name": "next-label",
+          "text": "CONTINUA NA PARTE 2 DESTA AULA"
+        },
+        {
+          "name": "next-title",
+          "text": "Prática guiada\ne integração"
+        }
+      ]
+    }
+  ],
+  "page_id": "page_fd5f861d69b08191ba03a33bc6898fb9",
+  "native_sequence": 2
+}

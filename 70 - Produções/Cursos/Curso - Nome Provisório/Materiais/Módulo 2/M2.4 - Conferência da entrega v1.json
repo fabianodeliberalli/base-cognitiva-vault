@@ -1,0 +1,186 @@
+{
+  "lesson": "M2.4",
+  "version": "1.0",
+  "date": "2026-11-22",
+  "architecture": "9 módulos, 59 aulas; uma aula com dois vídeos",
+  "source_attachment_notes_matching_v03_ignoring_empty_lines": 29,
+  "part1": {
+    "slides": 19,
+    "sequence": 2,
+    "notes_equal_source_and_docx_in_order": true,
+    "guide_pages": 10
+  },
+  "part2": {
+    "slides": 18,
+    "sequence": 2,
+    "notes_equal_source_and_docx_in_order": true,
+    "guide_pages": 9
+  },
+  "student_support_pages": 8,
+  "visual_review": "37 telas em visão de conjunto; detalhes de adaptação e 27 páginas dos documentos examinados; correções de contraste, tipografia, enquadramento e separação de campos. Revisão de Bion re-renderizada.",
+  "slide_pdfs": {
+    "1": {
+      "slides": 19,
+      "pdf_native_pixel_identity": true
+    },
+    "2": {
+      "slides": 18,
+      "pdf_native_pixel_identity": true
+    }
+  },
+  "practice_sequence": "preparação 1–2; escolha/reconhecimento 3–5; retorno 6; recurso 7–8; reencontro 9–10; retorno 11; comparação 12–13; encerramento 14; elaboração/continuidade 15–18",
+  "files": [
+    {
+      "name": "TSH_M2_4_Kit_de_gravacao_v1.zip",
+      "size": 5141053,
+      "sha256": "00f9939e7c84beea3e461765ccbf71b4c3d537d35804ca6462469177121a3ca6"
+    },
+    {
+      "name": "TSH_M2_4_Parte_1_Slides_v1.pdf",
+      "size": 3182242,
+      "sha256": "35b59102894801f9917e62737f4e05789dc68f57be2fcef31ba1124471772ec8"
+    },
+    {
+      "name": "TSH_M2_4_Parte_1_Guia_de_gravacao_v1.docx",
+      "size": 43402,
+      "sha256": "cfeabaa94784d15ca861e5e19dad7f70a00f81792973c6851abb6dd2a9a7ea3a"
+    },
+    {
+      "name": "TSH_M2_4_Parte_1_Guia_de_gravacao_v1.pdf",
+      "size": 101420,
+      "sha256": "e15f92cd0dc01283e9fa7e79dc7be2d5767325ef4028dcc5915188f79c2009a6"
+    },
+    {
+      "name": "TSH_M2_4_Parte_2_Slides_v1.pdf",
+      "size": 2051737,
+      "sha256": "d95b3cc6746267572dfe35a7e2365b7be87b3570855a6e5703f123662c9d24a7"
+    },
+    {
+      "name": "TSH_M2_4_Parte_2_Guia_de_gravacao_v1.docx",
+      "size": 41499,
+      "sha256": "17525ff89df287a87a7d43f1c6f684fd589124fce8100525dc77a47002ae6727"
+    },
+    {
+      "name": "TSH_M2_4_Parte_2_Guia_de_gravacao_v1.pdf",
+      "size": 95721,
+      "sha256": "2407720484cc2e86fcaad7fd7118ae5d0a4532e2f4cb79091a08100122d80ce3"
+    },
+    {
+      "name": "TSH_M2_4_Apoio_do_Aluno_v1.docx",
+      "size": 626982,
+      "sha256": "e8160368d2e96cd46e14a6be2ca0d762ee6915ddbc116e3df51740a181d0fccf"
+    },
+    {
+      "name": "TSH_M2_4_Apoio_do_Aluno_v1.pdf",
+      "size": 284979,
+      "sha256": "2cba90e0bb45227e8fb8acefaafa53e628cc3119b4e84b4d9d143a6f98d5f85f"
+    },
+    {
+      "name": "LEIA_PRIMEIRO_M2_4_v1.txt",
+      "size": 1303,
+      "sha256": "d4ebd715574dcc29b02d0c7f5363a82f77dbaaa4981a0710f005f25fdd499683"
+    }
+  ],
+  "library_outputs": [
+    {
+      "local_path": "/workspace/scratch/4909a93c8194/m24_revisao/entrega/TSH_M2_4_Kit_de_gravacao_v1.zip",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000e048820e9068f79f3974f510",
+      "library_file_id": "libfile_fde3_f-2ce20f8d4b748191ae97a38ada49a79d_ad925f8fadbc81918eab9ef0eafee9a9",
+      "file_name": "TSH_M2_4_Kit_de_gravacao_v1.zip",
+      "local_metadata_applied": true,
+      "path": "/TSH_M2_4_Kit_de_gravacao_v1.zip",
+      "current_version_number": 0
+    },
+    {
+      "local_path": "/workspace/scratch/4909a93c8194/m24_revisao/entrega/TSH_M2_4_Parte_1_Slides_v1.pdf",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000f410820e9aeade1490b94720",
+      "library_file_id": "libfile_fde3_f-b8ac674d3bac819187471830f26f3ab4_ad925f8fadbc81918eab9ef0eafee9a9",
+      "file_name": "TSH_M2_4_Parte_1_Slides_v1.pdf",
+      "local_metadata_applied": true,
+      "path": "/TSH_M2_4_Parte_1_Slides_v1.pdf",
+      "current_version_number": 0
+    },
+    {
+      "local_path": "/workspace/scratch/4909a93c8194/m24_revisao/entrega/TSH_M2_4_Parte_1_Guia_de_gravacao_v1.docx",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000005ac4820e98ce1083d749cecb",
+      "library_file_id": "libfile_fde3_f-f16ef4b9d1cc81918aa32e60f0f233aa_ad925f8fadbc81918eab9ef0eafee9a9",
+      "file_name": "TSH_M2_4_Parte_1_Guia_de_gravacao_v1.docx",
+      "local_metadata_applied": true,
+      "path": "/TSH_M2_4_Parte_1_Guia_de_gravacao_v1.docx",
+      "current_version_number": 0
+    },
+    {
+      "local_path": "/workspace/scratch/4909a93c8194/m24_revisao/entrega/TSH_M2_4_Parte_1_Guia_de_gravacao_v1.pdf",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000007158820e81198ba48b51122c",
+      "library_file_id": "libfile_fde3_f-ef1141aa7cac8191a5852eea3c47363c_ad925f8fadbc81918eab9ef0eafee9a9",
+      "file_name": "TSH_M2_4_Parte_1_Guia_de_gravacao_v1.pdf",
+      "local_metadata_applied": true,
+      "path": "/TSH_M2_4_Parte_1_Guia_de_gravacao_v1.pdf",
+      "current_version_number": 0
+    },
+    {
+      "local_path": "/workspace/scratch/4909a93c8194/m24_revisao/entrega/TSH_M2_4_Parte_2_Slides_v1.pdf",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000e4dc820eb946002b600055ee",
+      "library_file_id": "libfile_fde3_f-6091bc58cd908191801c1ae184bf3af4_ad925f8fadbc81918eab9ef0eafee9a9",
+      "file_name": "TSH_M2_4_Parte_2_Slides_v1.pdf",
+      "local_metadata_applied": true,
+      "path": "/TSH_M2_4_Parte_2_Slides_v1.pdf",
+      "current_version_number": 0
+    },
+    {
+      "local_path": "/workspace/scratch/4909a93c8194/m24_revisao/entrega/TSH_M2_4_Parte_2_Guia_de_gravacao_v1.docx",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000003654820eb9318e8604fbe2d1",
+      "library_file_id": "libfile_fde3_f-ae2cb7bc4efc8191875ae6df173a382c_ad925f8fadbc81918eab9ef0eafee9a9",
+      "file_name": "TSH_M2_4_Parte_2_Guia_de_gravacao_v1.docx",
+      "local_metadata_applied": true,
+      "path": "/TSH_M2_4_Parte_2_Guia_de_gravacao_v1.docx",
+      "current_version_number": 0
+    },
+    {
+      "local_path": "/workspace/scratch/4909a93c8194/m24_revisao/entrega/TSH_M2_4_Parte_2_Guia_de_gravacao_v1.pdf",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000008ac0820ebebe6e6e67deba07",
+      "library_file_id": "libfile_fde3_f-be3f58a40f208191b884d63b048579f0_ad925f8fadbc81918eab9ef0eafee9a9",
+      "file_name": "TSH_M2_4_Parte_2_Guia_de_gravacao_v1.pdf",
+      "local_metadata_applied": true,
+      "path": "/TSH_M2_4_Parte_2_Guia_de_gravacao_v1.pdf",
+      "current_version_number": 0
+    },
+    {
+      "local_path": "/workspace/scratch/4909a93c8194/m24_revisao/entrega/TSH_M2_4_Apoio_do_Aluno_v1.docx",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000a11c820e81b17cf98d80e9a5",
+      "library_file_id": "libfile_fde3_f-ab48673360608191805d351f9f5cd22a_ad925f8fadbc81918eab9ef0eafee9a9",
+      "file_name": "TSH_M2_4_Apoio_do_Aluno_v1.docx",
+      "local_metadata_applied": true,
+      "path": "/TSH_M2_4_Apoio_do_Aluno_v1.docx",
+      "current_version_number": 0
+    },
+    {
+      "local_path": "/workspace/scratch/4909a93c8194/m24_revisao/entrega/TSH_M2_4_Apoio_do_Aluno_v1.pdf",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000ac8c820ea63195f1f40c8d37",
+      "library_file_id": "libfile_fde3_f-3a332b14d04c81919408bcc9db8a3bf9_ad925f8fadbc81918eab9ef0eafee9a9",
+      "file_name": "TSH_M2_4_Apoio_do_Aluno_v1.pdf",
+      "local_metadata_applied": true,
+      "path": "/TSH_M2_4_Apoio_do_Aluno_v1.pdf",
+      "current_version_number": 0
+    }
+  ],
+  "limits": "Conferência editorial e técnica dos materiais, sem medida de aprendizagem ou confirmação de publicação."
+}
