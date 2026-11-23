@@ -2,7 +2,7 @@
 tipo: padrao-de-producao
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "2.9"
+versao: "2.10"
 criado_em: 2026-11-02
 atualizado_em: 2026-11-22
 aplica_se_a: futuras producoes de aulas, slides, notas e apoios do TSH
@@ -512,7 +512,7 @@ Esta conferência responde ao pedido de verificar **a construção das aulas e d
 | Entregáveis e Hotmart por aprendizagem | Seção 9; [[TSH - Entregáveis do aluno e inserção na Hotmart - M2 a M8]]. Orientação, apoios úteis, Cartografia, síntese/repertório e complementos podem compartilhar arquivos. | Sem número fixo de PDFs/páginas ou ficha nova por aula. Destinação não comprova upload, liberação, publicação ou acesso de cada aluno. |
 | Recuperação automática quando há acesso | Seções 1 e 12; `AGENTS.md`/`CLAUDE.md` → contrato comum → base geral e ficha do projeto → padrão, estado e fontes pertinentes. Aplicação durante o trabalho, sem novo lembrete ou relatório ritual. | Generalizável a outros conteúdos com a base geral e sua referência específica; não exportar o currículo TSH nem prometer leitura por uma IA sem acesso. |
 | Qualidade do produto entregue | Seções 8 e 11. Percorrer o conteúdo integral e os artefatos reais; conferir conceitos, encadeamento, todas as notas, imagens, links, legibilidade, fontes e exportações conforme a alteração. | QA visual não demonstra aprendizagem ou prontidão substantiva. Uma correção de notas não autoriza destruir o apoio visual aprovado. |
-| Decisões, propostas e produção | Seções 1, 9 e 11; [[00 - Estado e Continuidade da Produção M2]]. Registrar versões e alterações, distinguindo escolhas do autor de propostas editoriais. | M2.1 v0.8/M2.2 v0.4, M2.3 v0.2 e M2.4 v0.2 têm fontes e suportes localizados; M2.5–M2.6 e M3–M8 mantêm a orientação estrutural. |
+| Decisões, propostas e produção | Seções 1, 9 e 11; [[00 - Estado e Continuidade da Produção M2]]. Registrar versões e alterações, distinguindo escolhas do autor de propostas editoriais. | [[M2.4 - Produção em duas partes v1]] aplica os refinamentos em compreensão/fundamentos e prática/integração, com guias e apoio correspondentes. M2.2/M2.3 têm práticas autônomas v1; as composições integradas preservam a genealogia. O estado de M2 localiza cada suporte; M2.5–M2.6 e M3–M8 conservam a orientação estrutural. |
 
 **Precisões feitas nesta conferência:** a ficha mínima, o plano de M2, os localizadores do dossiê e a orientação de entregáveis passam a retomar as trilhas M2.1 v0.8/M2.2 v0.4 e o estado de M2. As etapas de 12/18 telas, roteiro integral, personagem e apoio inicial de duas páginas ficam qualificadas como história no próprio trecho. Matrizes 9–54 conservam a função de consulta das origens, acompanhadas da correspondência atual 59. O padrão reúne a cobertura acima; a produção continua aula a aula, com verificação do resultado concreto.
 
@@ -528,5 +528,6 @@ Esta conferência responde ao pedido de verificar **a construção das aulas e d
 - [[M2.2 - Apresentação editável v0.4]]
 - [[13 - Base de Produção Autoral e Didática - Fabiano Deliberalli]]
 - [[00 - Estado e Continuidade da Produção M2]]
+
 
 

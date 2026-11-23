@@ -1,0 +1,820 @@
+{
+  "lesson": "M2.4",
+  "version": "1.0",
+  "date": "2026-11-22",
+  "part": 2,
+  "title": "O que mantém a repetição de uma resposta?",
+  "slides": [
+    {
+      "sourceIndex": 0,
+      "title": "Experimentar outra sustentação para responder",
+      "moment": "Apresentação",
+      "notes": "Na primeira parte, investigamos o que mantém uma resposta conhecida.\nAgora vamos acompanhar uma situação sua e experimentar a presença de um recurso pertinente.\n\nVamos observar como a situação é vivida e que participação se torna possível.\nEssa comparação ajudará a reconhecer o que ficou disponível e o que ainda precisa de trabalho.",
+      "edits": {},
+      "number": 1,
+      "notes_sha256": "0b7ed69fc20f8e8a5f33b8bf765e8940b343fd491ad4a4e8115d40f268c5e79c",
+      "screen_text": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "cover-label",
+          "text": "M2.4 · PARTE 2\nPRÁTICA GUIADA E INTEGRAÇÃO"
+        },
+        {
+          "name": "cover-title",
+          "text": "Experimentar outra sustentação\npara responder"
+        },
+        {
+          "name": "presenter",
+          "text": "Fabiano Deliberalli"
+        },
+        {
+          "name": "official-subtitle",
+          "text": "Da compreensão acumulada\nà presença que sustenta"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 17,
+      "title": "Preparar o retorno e os registros",
+      "moment": "Preparação",
+      "notes": "Separe a ficha do apoio do aluno ou uma folha com espaço para registrar.\nVamos acompanhar a mesma situação do começo ao fim.\n\nReconheça o lugar em que está e os apoios do seu corpo.\nConfira se consegue deixar uma questão de lado e retomar o presente.\nEsse retorno será usado durante a prática.\n\nVocê pode manter os olhos abertos, adaptar ou interromper.\nSe estiver dirigindo, reserve para outro momento.\nVamos trabalhar com uma questão que seja possível acompanhar agora.\nPause quando precisar de tempo e retome ao concluir a orientação de cada tela.\n\nAgora vamos escolher a situação.",
+      "edits": {
+        "involve": "Aproximar\nbrevemente",
+        "reflect": "Retomar\no presente",
+        "check-lived": "A mesma situação ao longo da prática",
+        "forghieri": "Registros: vivido e participação, no início e no reencontro."
+      },
+      "number": 2,
+      "notes_sha256": "7845e928fb84d2d48491c325145582f220de0745830a5827b3fecd06541575cb",
+      "screen_text": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "Preparar o retorno e os registros"
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 2 · 2 / 18"
+        },
+        {
+          "name": "involve",
+          "text": "Aproximar\nbrevemente"
+        },
+        {
+          "name": "reflect",
+          "text": "Retomar\no presente"
+        },
+        {
+          "name": "check-lived",
+          "text": "A mesma situação ao longo da prática"
+        },
+        {
+          "name": "forghieri",
+          "text": "Registros: vivido e participação, no início e no reencontro."
+        }
+      ]
+    },
+    {
+      "sourceIndex": 18,
+      "title": "Uma situação e uma alternativa já compreendida",
+      "moment": "Escolha",
+      "notes": "Escolha uma ocasião recente em que compreendia uma alternativa e respondeu de uma maneira conhecida.\nPode retomar uma situação da sua Cartografia.\n\nRegistre o que aconteceu e qual alternativa já reconhecia.\nGuarde o instante em que a resposta começa.\nSerá esse mesmo começo que vamos reencontrar depois.\n\nPause o vídeo para escolher e situar a ocasião.\nRetome quando tiver feito esse registro.\n\nPAUSA",
+      "edits": {
+        "one-moment": "Uma ocasião concreta",
+        "stakes": "O que aconteceu?\nQue alternativa você já compreendia?",
+        "first-form": "Conserve o mesmo começo para acompanhar e reencontrar."
+      },
+      "number": 3,
+      "notes_sha256": "935d00700835dcf135e4b0d6c090e918ebf1f830acee99ece5866a2580b306b0",
+      "screen_text": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "Uma situação e uma alternativa já compreendida"
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 2 · 3 / 18"
+        },
+        {
+          "name": "one-moment",
+          "text": "Uma ocasião concreta"
+        },
+        {
+          "name": "stakes",
+          "text": "O que aconteceu?\nQue alternativa você já compreendia?"
+        },
+        {
+          "name": "first-form",
+          "text": "Conserve o mesmo começo para acompanhar e reencontrar."
+        },
+        {
+          "name": "cue-pause",
+          "text": "PAUSE PARA ESCOLHER E REGISTRAR"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 19,
+      "title": "Como esse começo é vivido?",
+      "moment": "1 · Reconhecer o início",
+      "notes": "Aproxime brevemente o instante anterior à resposta conhecida.\nO que você viu, ouviu ou imaginou logo antes?\nPerceba como esse começo é vivido agora.\n\nEncontre uma expressão breve por palavras ou desenho.\nIdentifique como “Início — vivido”.\nGuarde o suficiente para reconhecer a experiência.\n\nSe estiver intenso demais, deixe a cena e retome o presente.\nPause para registrar e retome quando terminar.\n\nPAUSA",
+      "edits": {
+        "signal": "O que chegou\nlogo antes?",
+        "first-signal": "Como começa\na experiência?",
+        "signals": "Sensação, afeto, imagem, palavra ou impulso",
+        "brief": "Registro: Início — vivido"
+      },
+      "number": 4,
+      "notes_sha256": "d27be4d8c7e570e043c1823c5fc9c2304984196f6b9e390a945971499291c8c6",
+      "screen_text": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "Como esse começo é vivido?"
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 2 · 4 / 18"
+        },
+        {
+          "name": "signal",
+          "text": "O que chegou\nlogo antes?"
+        },
+        {
+          "name": "first-signal",
+          "text": "Como começa\na experiência?"
+        },
+        {
+          "name": "signals",
+          "text": "Sensação, afeto, imagem, palavra ou impulso"
+        },
+        {
+          "name": "brief",
+          "text": "Registro: Início — vivido"
+        },
+        {
+          "name": "cue-pause",
+          "text": "PAUSE PARA PERCEBER E REGISTRAR"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 2,
+      "title": "Que resposta esse começo organiza?",
+      "moment": "1 · Reconhecer a participação",
+      "notes": "Ainda nessa mesma ocasião, que resposta se impunha?\nQue alternativa ficava difícil de sustentar?\n\nRegistre brevemente como tendia a participar.\nIdentifique como “Início — participação”.\nMantenha esse registro ao lado de “Início — vivido”.\n\nPause o vídeo para registrar.\nNa próxima tela, vamos deixar a cena de lado.\n\nPAUSA",
+      "edits": {
+        "agenda-label": "O mesmo começo",
+        "agenda-meaning": "O que parecia\npreciso fazer?",
+        "answer": "Resposta\nconhecida",
+        "relief": "Alternativa\npouco acessível",
+        "cost": "Registro:\nInício — participação"
+      },
+      "number": 5,
+      "notes_sha256": "f13c0b000555892daadabfd4dc42ecf2d2a80865ea1858e3db67fb37a6e8715d",
+      "screen_text": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "Que resposta esse começo organiza?"
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 2 · 5 / 18"
+        },
+        {
+          "name": "agenda-label",
+          "text": "O mesmo começo"
+        },
+        {
+          "name": "agenda-meaning",
+          "text": "O que parecia\npreciso fazer?"
+        },
+        {
+          "name": "answer",
+          "text": "Resposta\nconhecida"
+        },
+        {
+          "name": "relief",
+          "text": "Alternativa\npouco acessível"
+        },
+        {
+          "name": "cost",
+          "text": "Registro:\nInício — participação"
+        },
+        {
+          "name": "cue-pause",
+          "text": "PAUSE PARA REGISTRAR"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 20,
+      "title": "Retomar outras referências",
+      "moment": "2 · Retorno",
+      "notes": "Deixe a cena de lado.\nReconheça o lugar onde está agora.\nPerceba os apoios do corpo e retome algum movimento, se ajudar.\n\nDê tempo para recuperar outras referências além da situação lembrada.\nSe ela continuar tomando todo o campo, conserve o contato com o presente e encerre a aproximação.\nVocê poderá acompanhar o restante sem voltar à cena.\n\nPause o vídeo agora.\nRetome quando tiver reconhecido o ambiente e os seus apoios.\n\nPAUSA",
+      "edits": {},
+      "number": 6,
+      "notes_sha256": "7489cf3f5c3fc2aeb6a663e086a334b227f3ec5a862b2c376335602442995047",
+      "screen_text": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "Retomar outras referências"
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 2 · 6 / 18"
+        },
+        {
+          "name": "now",
+          "text": "Aqui, agora"
+        },
+        {
+          "name": "scene",
+          "text": "Cena lembrada"
+        },
+        {
+          "name": "scene-space",
+          "text": "Em segundo plano"
+        },
+        {
+          "name": "reference",
+          "text": "Lugar · Apoios\nAmbiente · Movimento"
+        },
+        {
+          "name": "agency",
+          "text": "Disponibilidade\npara observar e escolher"
+        },
+        {
+          "name": "cue-pause",
+          "text": "PAUSE PARA RETORNAR"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 15,
+      "title": "Que qualidade daria sustentação à alternativa?",
+      "moment": "3 · Escolha do recurso",
+      "notes": "Agora procure uma experiência em que tenha conseguido sustentar algo pertinente à alternativa que reconheceu.\nPode ser firmeza, curiosidade, apoio, tempo para decidir ou espaço para criar.\nEscolha pelo que essa qualidade permite realizar.\n\nAnote qual referência vai usar e o que ela ajudaria a sustentar.\nSe nenhuma ficar acessível, registre o apoio ou a aprendizagem de que precisa.\nNesse caso, acompanhe as próximas telas sem reencontrar a cena.\n\nPause para escolher a referência.\nRetome quando terminar.\n\nPAUSA",
+      "edits": {
+        "resource": "Sustentar\na alternativa",
+        "resource-0": "Experiência vivida",
+        "resource-1": "Qualidade pertinente",
+        "resource-2": "Apoio",
+        "resource-3": "Condição necessária"
+      },
+      "number": 7,
+      "notes_sha256": "dc6e7cda864fa1de029acb8b9d23f4b9165110fb7db457df44dae2f0c01d3b9f",
+      "screen_text": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "Que qualidade daria sustentação à alternativa?"
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 2 · 7 / 18"
+        },
+        {
+          "name": "resource",
+          "text": "Sustentar\na alternativa"
+        },
+        {
+          "name": "resource-0",
+          "text": "Experiência vivida"
+        },
+        {
+          "name": "resource-1",
+          "text": "Qualidade pertinente"
+        },
+        {
+          "name": "resource-2",
+          "text": "Apoio"
+        },
+        {
+          "name": "resource-3",
+          "text": "Condição necessária"
+        },
+        {
+          "name": "cue-pause",
+          "text": "PAUSE PARA ESCOLHER O RECURSO"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 21,
+      "title": "Dar presença à experiência de recurso",
+      "moment": "3 · Recurso vivido",
+      "notes": "Aproxime a experiência de recurso que escolheu.\nComo essa qualidade aparece no corpo, no ritmo, na imagem ou na relação?\nPermita que a referência ganhe presença do modo que for possível.\n\nConfira o que consegue sentir e sustentar agora.\nUma lembrança ou imagem pode ajudar, desde que ofereça algum apoio vivido.\n\nPause o vídeo e dê tempo a essa aproximação.\nRetome quando tiver acompanhado o recurso.\nSe ele não ficar disponível, conserve o presente e siga sem voltar à cena.\n\nPAUSA",
+      "edits": {
+        "resource-function": "Como essa qualidade\nganha presença agora?",
+        "resource-action": "Observe o apoio que de fato\nfica disponível."
+      },
+      "number": 8,
+      "notes_sha256": "cc22a3f1a901028d11bf6eb6c6d7a959ce7289b42a9451a38ec852a7de2c5891",
+      "screen_text": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "Dar presença à experiência de recurso"
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 2 · 8 / 18"
+        },
+        {
+          "name": "body-reference",
+          "text": "Postura\nRitmo\nSensação"
+        },
+        {
+          "name": "meaning-reference",
+          "text": "Imagem\nPalavra\nRelação"
+        },
+        {
+          "name": "resource-function",
+          "text": "Como essa qualidade\nganha presença agora?"
+        },
+        {
+          "name": "resource-action",
+          "text": "Observe o apoio que de fato\nfica disponível."
+        },
+        {
+          "name": "cue-pause",
+          "text": "PAUSE PARA ACOMPANHAR O RECURSO"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 22,
+      "title": "Reencontrar o começo com esse apoio",
+      "moment": "4 · Reencontro do vivido",
+      "notes": "Se o recurso estiver acessível e houver disponibilidade, aproxime apenas o começo da mesma situação.\nConserve contato com esse apoio.\n\nComo aquele começo é vivido agora?\nRegistre uma expressão breve como “Reencontro — vivido”.\n\nSe perder o apoio ou a cena tomar conta, deixe-a de lado e retorne ao presente.\nVocê pode seguir para a comparação com o que conseguiu observar.\n\nPause para acompanhar e registrar.\nRetome quando terminar.\n\nPAUSA",
+      "edits": {
+        "start": "O mesmo começo",
+        "other-support": "Recurso presente",
+        "rehearsal": "Como a situação\né vivida agora?",
+        "external": "Registro: Reencontro — vivido"
+      },
+      "number": 9,
+      "notes_sha256": "1e504a0e6fe3aa1ea78a2bc70fb01aee0ec29c5109b6b4dbc305491905db14a3",
+      "screen_text": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "Reencontrar o começo com esse apoio"
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 2 · 9 / 18"
+        },
+        {
+          "name": "start",
+          "text": "O mesmo começo"
+        },
+        {
+          "name": "other-support",
+          "text": "Recurso presente"
+        },
+        {
+          "name": "rehearsal",
+          "text": "Como a situação\né vivida agora?"
+        },
+        {
+          "name": "external",
+          "text": "Registro: Reencontro — vivido"
+        },
+        {
+          "name": "cue-pause",
+          "text": "PAUSE PARA ACOMPANHAR E REGISTRAR"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 22,
+      "title": "Que participação se torna possível?",
+      "moment": "4 · Reencontro da participação",
+      "notes": "Se estiver acompanhando a cena com apoio, observe que gesto ou resposta consegue sustentar.\nConfira como essa participação é vivida, além da frase que gostaria de dizer.\n\nRegistre como “Reencontro — participação”.\nA resposta real da outra pessoa continua desconhecida.\n\nSe encerrou a aproximação, registre até onde conseguiu acompanhar e o que faltou.\nPause o vídeo para registrar.\nDepois vamos deixar a cena de lado.\n\nPAUSA",
+      "edits": {
+        "start": "Situação escolhida",
+        "other-support": "Apoio disponível",
+        "rehearsal": "Que gesto ou resposta\nconsigo sustentar?",
+        "external": "Registro: Reencontro — participação"
+      },
+      "number": 10,
+      "notes_sha256": "0106ea5abb7d21bcd789dc1d1948fe5d83dcc2e4754fde4d9f032c13476e50d5",
+      "screen_text": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "Que participação se torna possível?"
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 2 · 10 / 18"
+        },
+        {
+          "name": "start",
+          "text": "Situação escolhida"
+        },
+        {
+          "name": "other-support",
+          "text": "Apoio disponível"
+        },
+        {
+          "name": "rehearsal",
+          "text": "Que gesto ou resposta\nconsigo sustentar?"
+        },
+        {
+          "name": "external",
+          "text": "Registro: Reencontro — participação"
+        },
+        {
+          "name": "cue-pause",
+          "text": "PAUSE PARA REGISTRAR"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 20,
+      "title": "Retornar antes de comparar",
+      "moment": "Retorno",
+      "notes": "Deixe a cena e o ensaio de lado.\nReconheça novamente o ambiente e os apoios do seu corpo.\nRetome os movimentos que precisar.\n\nVamos olhar para os registros a partir deste momento.\nSe não realizou o reencontro, conserve essa informação para compreender o que ainda falta.\n\nPause o vídeo para retornar.\nRetome quando estiver pronto para olhar os registros.\n\nPAUSA",
+      "edits": {
+        "scene": "Ensaio concluído",
+        "scene-space": "Em segundo plano",
+        "agency": "Disponibilidade\npara comparar"
+      },
+      "number": 11,
+      "notes_sha256": "9d2ed9b120549f4553fb6864ccf6b9818bf76f6aeabf45ad8ea5638b049779b2",
+      "screen_text": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "Retornar antes de comparar"
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 2 · 11 / 18"
+        },
+        {
+          "name": "now",
+          "text": "Aqui, agora"
+        },
+        {
+          "name": "scene",
+          "text": "Ensaio concluído"
+        },
+        {
+          "name": "scene-space",
+          "text": "Em segundo plano"
+        },
+        {
+          "name": "reference",
+          "text": "Lugar · Apoios\nAmbiente · Movimento"
+        },
+        {
+          "name": "agency",
+          "text": "Disponibilidade\npara comparar"
+        },
+        {
+          "name": "cue-pause",
+          "text": "PAUSE PARA RETORNAR"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 14,
+      "title": "O que mudou no vivido?",
+      "moment": "Comparação do vivido",
+      "notes": "Coloque lado a lado “Início — vivido” e “Reencontro — vivido”.\nO que mudou e o que permaneceu na maneira de viver a mesma situação?\n\nRegistre a diferença que de fato reconhece.\nEla pode ser pequena, não aparecer ou incluir algo que ficou mais claro.\nSe o reencontro não aconteceu, registre o que impediu continuar.\n\nPause para comparar os registros do vivido.\nRetome quando terminar.\n\nPAUSA",
+      "edits": {
+        "occasion-a": "Início — vivido",
+        "occasion-b": "Reencontro — vivido",
+        "a-context": "Como a situação\nse apresentava",
+        "b-context": "Como se apresentou\ncom o recurso",
+        "comparison": "O que mudou? O que permaneceu?"
+      },
+      "number": 12,
+      "notes_sha256": "45ae3c1d31b3678a6f74946cabf1867dc9bd85cb44765fd64863294be04770da",
+      "screen_text": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "O que mudou no vivido?"
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 2 · 12 / 18"
+        },
+        {
+          "name": "occasion-a",
+          "text": "Início — vivido"
+        },
+        {
+          "name": "occasion-b",
+          "text": "Reencontro — vivido"
+        },
+        {
+          "name": "a-context",
+          "text": "Como a situação\nse apresentava"
+        },
+        {
+          "name": "b-context",
+          "text": "Como se apresentou\ncom o recurso"
+        },
+        {
+          "name": "comparison",
+          "text": "O que mudou? O que permaneceu?"
+        },
+        {
+          "name": "cue-pause",
+          "text": "PAUSE PARA COMPARAR O VIVIDO"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 14,
+      "title": "O que mudou na participação?",
+      "moment": "Comparação da participação",
+      "notes": "Agora compare “Início — participação” e “Reencontro — participação”.\nQue resposta parecia se impor e o que conseguiu sustentar no ensaio?\n\nRegistre a diferença junto das condições e do apoio que a tornaram possível.\nUma intenção pode ter aparecido sem ainda se tornar sustentação vivida.\nIsso também orienta o trabalho que precisa continuar.\n\nPause para comparar os registros da participação.\nRetome quando estiver pronto para concluir a prática.\n\nPAUSA",
+      "edits": {
+        "occasion-a": "Início — participação",
+        "occasion-b": "Reencontro — participação",
+        "a-context": "Resposta conhecida\ne alternativa difícil",
+        "b-context": "Gesto ou resposta\nque ganhou sustentação",
+        "comparison": "Que apoio participou dessa diferença?"
+      },
+      "number": 13,
+      "notes_sha256": "3d90b098136f52de5872c9bcbb39f2d975ea0e4b2ad961da89abc2891fd196be",
+      "screen_text": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "O que mudou na participação?"
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 2 · 13 / 18"
+        },
+        {
+          "name": "occasion-a",
+          "text": "Início — participação"
+        },
+        {
+          "name": "occasion-b",
+          "text": "Reencontro — participação"
+        },
+        {
+          "name": "a-context",
+          "text": "Resposta conhecida\ne alternativa difícil"
+        },
+        {
+          "name": "b-context",
+          "text": "Gesto ou resposta\nque ganhou sustentação"
+        },
+        {
+          "name": "comparison",
+          "text": "Que apoio participou dessa diferença?"
+        },
+        {
+          "name": "cue-pause",
+          "text": "PAUSE PARA COMPARAR A PARTICIPAÇÃO"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 28,
+      "title": "Encerrar a prática",
+      "moment": "Encerramento",
+      "notes": "Vamos concluir.\nDeixe a questão e os registros de lado.\nReconheça o lugar onde está, movimente-se e confira sua disponibilidade para continuar o dia.\n\nPAUSA\n\nA prática termina aqui.\nAgora vamos elaborar o que ela permitiu reconhecer.",
+      "edits": {
+        "closing": "Deixe a questão de lado.\nRetome o contato com o ambiente.",
+        "next-label": "RETOME SEUS MOVIMENTOS",
+        "next-title": "A prática termina aqui."
+      },
+      "number": 14,
+      "notes_sha256": "8370c29d66b540d9f1aa81a741a03b447aefa476171d8b3c59347cdac186e3db",
+      "screen_text": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "Encerrar a prática"
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 2 · 14 / 18"
+        },
+        {
+          "name": "closing",
+          "text": "Deixe a questão de lado.\nRetome o contato com o ambiente."
+        },
+        {
+          "name": "next-label",
+          "text": "RETOME SEUS MOVIMENTOS"
+        },
+        {
+          "name": "next-title",
+          "text": "A prática termina aqui."
+        }
+      ]
+    },
+    {
+      "sourceIndex": 24,
+      "title": "Cada resultado orienta um trabalho diferente",
+      "moment": "Elaboração",
+      "notes": "A experiência pode ter mudado sem eliminar toda a tensão.\nTalvez tenha surgido maior condição de sustentar uma pergunta ou um limite.\n\nSe a capacidade ficou disponível, vale escolher onde experimentá-la e acompanhar os efeitos.\nSe apareceu e se perdeu facilmente, pode pedir cultivo, tempo e apoio.\nSe algo impediu continuar, investigamos a pertinência do recurso, a capacidade necessária e as condições concretas.\n\nCompreensão, experiência e participação podem mudar de maneiras diferentes.\nO que foi observado ajuda a decidir por onde continuar.",
+      "edits": {},
+      "number": 15,
+      "notes_sha256": "44df51050a2b4ad78bcc7d115c5e686e98e3b30696be4c959ef0ea86e01cb734",
+      "screen_text": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "Cada resultado orienta um trabalho diferente"
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 2 · 15 / 18"
+        },
+        {
+          "name": "result-0",
+          "text": "Ficou disponível"
+        },
+        {
+          "name": "direction-0",
+          "text": "Experimentar e acompanhar"
+        },
+        {
+          "name": "result-1",
+          "text": "Ainda está frágil"
+        },
+        {
+          "name": "direction-1",
+          "text": "Cultivar com tempo e apoio"
+        },
+        {
+          "name": "result-2",
+          "text": "Algo impede"
+        },
+        {
+          "name": "direction-2",
+          "text": "Investigar o que precisa mudar"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 25,
+      "title": "A nova possibilidade precisa encontrar a vida real",
+      "moment": "Continuidade",
+      "notes": "O ensaio oferece uma referência, e o encontro real traz informações que ainda não temos.\nNa negociação de um prazo, conseguir permanecer na conversa precisa se articular com conhecer prioridades e formular uma proposta viável.\n\nUm próximo passo pode ser consultar um acordo, preparar a conversa, buscar apoio ou reservar espaço para criar.\nDepois acompanhamos como participamos, como o outro respondeu e que consequências apareceram.\nEssas informações podem ampliar ou corrigir o ensaio.\nO cultivo inclui repetir com atenção aos efeitos e às condições.",
+      "edits": {},
+      "number": 16,
+      "notes_sha256": "98feb499807af2d6d45de4d6bca84cb77aab8284f27a965a62b960e709cbea90",
+      "screen_text": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "A nova possibilidade precisa encontrar a vida real"
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 2 · 16 / 18"
+        },
+        {
+          "name": "rehearsal",
+          "text": "Exploração"
+        },
+        {
+          "name": "meeting",
+          "text": "Encontro real"
+        },
+        {
+          "name": "review",
+          "text": "Revisão"
+        },
+        {
+          "name": "support",
+          "text": "Uma ação e suas condições de sustentação"
+        },
+        {
+          "name": "feedback",
+          "text": "Como participei? Como o outro respondeu? O que voltou do encontro?"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 26,
+      "title": "O mesmo tema pode voltar com outra participação",
+      "moment": "Percurso",
+      "notes": "Um pedido semelhante pode trazer de volta alguma tensão.\nA comparação considera o que voltou, em quais condições e como participamos desta vez.\n\nTalvez reconheçamos antes, consigamos pedir tempo ou percebamos um limite que estava invisível.\nTambém podemos descobrir que o recurso ou a estratégia precisa de revisão.\n\nA espiral conserva essas diferenças entre ocasiões.\nO retorno de um tema deixa abertos os resultados e a direção do trabalho.\nA referência é o que se torna mais reconhecível e realizável na vida.",
+      "edits": {},
+      "number": 17,
+      "notes_sha256": "33fe56adb8cc1cff4959919a789dff6bf1a217186d6e48b89038f2a883e2a26c",
+      "screen_text": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "O mesmo tema pode voltar com outra participação"
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 2 · 17 / 18"
+        },
+        {
+          "name": "returns",
+          "text": "O que voltou?"
+        },
+        {
+          "name": "conditions",
+          "text": "Em quais condições?"
+        },
+        {
+          "name": "participation",
+          "text": "Como participei desta vez?"
+        }
+      ]
+    },
+    {
+      "sourceIndex": 27,
+      "title": "Guardar a investigação na Cartografia",
+      "moment": "Integração e próxima aula",
+      "notes": "Na Situação, conserve o acontecimento, a relação e as condições.\nNa Manifestação, guarde o vivido e a participação, no início e no reencontro.\nNa Tradução provisória, registre o que compreendeu da organização e o que ainda precisa conferir.\nNa Orientação possível, indique o recurso, o cultivo, o apoio ou a condição a buscar.\n\nDepois do encontro real, volte ao registro e acompanhe os efeitos.\n\nNa M2.5, vamos diferenciar acontecimento, experiência e interpretação.\nUma mudança importante no vivido ainda precisa ser compreendida com discernimento.",
+      "edits": {},
+      "number": 18,
+      "notes_sha256": "5a11a86da2aa162e801a4839316912abf2dcf5e90b2ad82a46de33b65ae3f41d",
+      "screen_text": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO"
+        },
+        {
+          "name": "headline",
+          "text": "Guardar a investigação na Cartografia"
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 2 · 18 / 18"
+        },
+        {
+          "name": "bridge-next",
+          "text": "M2.5 · Acontecimento, experiência e interpretação"
+        }
+      ]
+    }
+  ],
+  "page_id": "page_b9880588aff481919268e4851f70ab05",
+  "native_sequence": 2
+}
