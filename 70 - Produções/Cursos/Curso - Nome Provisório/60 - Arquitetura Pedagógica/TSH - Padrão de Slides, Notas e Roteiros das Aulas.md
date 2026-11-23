@@ -2,7 +2,7 @@
 tipo: padrao-de-producao
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "2.8"
+versao: "2.9"
 criado_em: 2026-11-02
 atualizado_em: 2026-11-22
 aplica_se_a: futuras producoes de aulas, slides, notas e apoios do TSH
@@ -202,6 +202,8 @@ Conferir a introdução, o ensino e a retomada da prática no percurso completo.
 Durante a condução, a tela conserva uma referência estável. As notas oferecem entradas e âncoras claras; não obrigam Fabiano a reconstruir objetivos e passagens enquanto grava. Quando a sequência requer precisão de instrução, escrever essa instrução de modo natural e suficiente, preservando espaço para sua condução. A experiência tem fechamento, retorno ao ambiente e continuidade.
 
 Conservar os cuidados de condução já escolhidos por Fabiano: não praticar dirigindo; possibilidade de adaptar ou interromper; omitir ou adaptar diante de psicose ou mania aguda, dissociação grave ou trauma desestabilizado. Esses cuidados não criam um novo protocolo de autorização para cada prática. Casos clínicos permanecem anonimizados.
+
+**Aplicação editorial após a gravação M2.3:** frases por linha e avisos de pausa não resolvem, por si, a ordem das operações. Toda comparação precisa de referências anteriores efetivamente produzidas e nomeadas. Na investigação de uma situação pessoal, manter reconhecível a situação escolhida e o registro retomado; uma transição para exemplo ou explicação precisa ser sinalizada e devolver claramente à experiência do participante. Separar tarefas em telas quando a pausa entre elas puder ser confundida com o fim daquele passo. Em M2.3, a aplicação concreta distingue **Conclusão — antes/depois** e **Vivido — antes/depois**, com encerramento antes da elaboração, em [[M2.3 - Prática guiada v1]]. Isso particulariza esta prática, sem impor a todas o mesmo número de passos, registros ou telas, nem excluir exemplos necessários ao ensino de uma técnica.
 
 ## 8. Identidade visual e arquivos
 
@@ -526,4 +528,5 @@ Esta conferência responde ao pedido de verificar **a construção das aulas e d
 - [[M2.2 - Apresentação editável v0.4]]
 - [[13 - Base de Produção Autoral e Didática - Fabiano Deliberalli]]
 - [[00 - Estado e Continuidade da Produção M2]]
+
 
