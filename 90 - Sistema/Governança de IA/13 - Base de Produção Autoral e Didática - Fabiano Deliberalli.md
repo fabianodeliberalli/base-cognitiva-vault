@@ -1,8 +1,8 @@
 ---
 tipo: base-de-producao-autoral-e-didatica
 status: referencia-de-trabalho-revisavel
-versao: "1.5"
-atualizado_em: 2026-11-22
+versao: "1.6"
+atualizado_em: 2026-11-23
 autoridade_final: Fabiano Deliberalli
 elaboracao: desenvolvimento-editorial-para-avaliacao
 ---
@@ -35,15 +35,19 @@ Recuperar o pensamento e o repertório de Fabiano sem inventar autobiografia, fa
 
 Cada fonte entra por uma contribuição reconhecível. Na pesquisa, explicar a pergunta, o procedimento e o que o achado sustenta quando forem relevantes. Nas tradições, situar origem, linguagem e função. Psicologia, ciência, cultivo, espiritualidade e elaboração autoral podem dialogar, preservando diferenças de sustentação e de sentido. Uma semelhança visual ou verbal não estabelece identidade teórica, anatômica ou causal. A profundidade espiritual própria do projeto permanece quando pertinente.
 
-### Transformar recuperação em elaboração — correção solicitada em 22/11/2026
+### Correção de um padrão recorrente de simplificação — 23/11/2026
 
-Fabiano reiterou que seu repertório, seus materiais autorais e as articulações oferecidas constituem o alicerce da produção. Linguagem natural e exposição por tópicos devem tornar essa densidade acompanhável. O episódio de M2.4 mostrou uma falha de seleção e composição: o assistente consultou fontes densas, mas montou uma sequência geral de problema e recurso. O resumo de planejamento não representa toda a explicação a ser ensinada.
+Fabiano reiterou que a perda de profundidade vem sendo apontada desde o início da produção, por diferentes manifestações: exercício elementar deslocado do repertório, Lutz e Long introduzidos sem explicação suficiente, padronização visual que perdeu didática, concisão confundida com redução do raciocínio e articulação insuficiente de Cozolino/Kahneman. É uma correção estrutural da forma de compor, não uma exceção ligada ao último autor mencionado. A riqueza já existe no acervo. As orientações anteriores já exigiam desenvolvê-la; sua presença no repositório não comprovou aplicação.
 
-Na própria fonte de trabalho, desenvolver a pergunta específica, o raciocínio necessário para compreendê-la e o que cada fundamento ou formulação autoral acrescenta. Recuperar e ler as passagens pertinentes, além de seus títulos e resumos; mostrar sua contribuição no desenvolvimento, nas perguntas e na prática. Acrescentar autores a um roteiro já genérico não corrige a redução. Quando o trabalho continua um percurso, ler o conteúdo efetivamente desenvolvido antes e explicitar o novo passo; uma lista de títulos não restitui essa continuidade.
+**Desenvolver primeiro a fonte da aula.** Recuperar as passagens pertinentes e o aprendizado efetivo das aulas anteriores. Elaborar a questão, as distinções e as relações necessárias para ensiná-la antes de adaptar o conteúdo às telas. Um resumo curricular, um título de nota, uma frase atribuída a cada autor ou um exemplo genérico não substituem esse desenvolvimento. A extensão decorre do raciocínio; não começar por um número de telas, tópicos ou minutos. A clareza torna acompanhável a densidade do pensamento de Fabiano, incluindo suas contribuições espirituais, corporais, relacionais e autorais conforme a questão.
 
-Antes de converter esse desenvolvimento em apresentação ou outro suporte, conferir se as relações centrais continuam ensinadas e se a experiência proposta investiga a mesma questão. Comparar com o exemplar pertinente pela qualidade do raciocínio e da exploração, preservando a voz e as formulações pertinentes. A montagem é ajustada ao conteúdo. Não reduzir o conteúdo para completar uma quantidade de tópicos, telas, páginas ou minutos presumida.
+**Conferir a contribuição onde ela é ensinada.** Uma fonte está aplicada quando sua contribuição transforma uma explicação, distinção, pergunta ou elaboração do trabalho. Na própria fonte de produção, localizar essas passagens centrais e sua relação com o que o aluno já aprendeu e com o que fará a seguir. Não basta listar obras consultadas. Lutz pede explicar como a experiência em primeira pessoa contribuiu para investigar; Long pede ensinar as funções antes de operar com seus nomes; Cozolino e Kahneman pedem desenvolver a relação entre formação do vivido, aval da interpretação e aprendizagem. São exemplos de elaboração, não uma lista de autores obrigatórios para toda aula.
 
-Essa conferência integra a composição e é responsabilidade do assistente; não transfere a Fabiano um formulário ou uma revisão obrigatória. Se a relação central ainda não foi desenvolvida, recuperá-la e trabalhar nela. Se uma fonte indispensável estiver de fato inacessível, explicitar a lacuna sem preencher silenciosamente com conteúdo genérico nem anunciar a produção como pronta. A mera leitura destas instruções e o acabamento dos arquivos não demonstram sua aplicação. No TSH, o padrão e o planejamento do módulo particularizam esta orientação sem transportar seu currículo para outros projetos.
+**Condensar depois de preservar o raciocínio.** Enxugar repetição sem função, preâmbulo e paráfrase. Conservar as premissas, os termos ensinados, as relações, a fundamentação e o acréscimo da experiência. Se a síntese deixa uma conexão a ser inventada na gravação, recompor o trecho ou distribuir o desenvolvimento em outros passos. Simplicidade da instrução e naturalidade da linguagem não autorizam empobrecimento do conteúdo. Referências bibliográficas e observações de pesquisa podem ficar no aprofundamento opcional; a explicação indispensável à compreensão continua na aula. As notas permitem exposição livre com orientação suficiente, sem voltar a uma fala integral obrigatória.
+
+**Distinguir verificação substantiva e técnica.** Confrontar o produto entregue com o desenvolvimento e as fontes: as relações centrais continuam explicadas? A prática investiga a questão que foi ensinada? O apoio oferece a compreensão necessária por si? Corrigir a lacuna encontrada antes da entrega autorizada. Integridade de ZIP, contagem de telas, igualdade entre JSON e notas, revisão visual e links corretos verificam aspectos específicos; não demonstram preservação da profundidade ou integração teórica. Informar o alcance real das verificações e não declarar “todos os parâmetros incorporados” com base apenas nesses resultados.
+
+**Aplicar a correção à produção.** Retomar fontes e artefatos efetivos quando uma simplificação reaparece; não responder apenas com outro registro de intenção nem transferir a Fabiano o trabalho de descobrir as lacunas. Em 23/11/2026, M2.4 v2 aplica a correção na formação da experiência, no diálogo Cozolino/Kahneman e na aprendizagem incorporada, preservando a condução prática. Isso não declara M2.1–M2.3 ou outras aulas refeitas. No TSH, o padrão e o estado de produção localizam os suportes atuais. Para outros projetos, aplicar esta lógica com o patrimônio próprio, sem transportar o currículo do TSH.
 
 ## Compor o produto e seus suportes
 
@@ -76,4 +80,5 @@ Distinguir apresentar um percurso, conduzir a participação, permitir elaboraç
 Revisar a correspondência entre conceitos, imagens, exemplos, notas, práticas e apoios, sem exigir repetição literal. Conferir os artefatos reais: conteúdo completo, legibilidade, relações gráficas, fontes, links, páginas ou telas, exportação e integridade do material recuperado, conforme a entrega. O acabamento visual não demonstra compreensão, aprendizagem ou execução audiovisual.
 
 Distinguir decisões registradas de propostas editoriais e manter versões e materiais históricos recuperáveis. Os registros de produção acompanham versões, arquivos, alterações e trabalho restante. Omitir campos, pendências e lembretes de aprovação para gravação. Ajustes reversíveis autorizados avançam na própria tarefa; a integração à main segue a autorização vigente na conversa e o contrato comum.
+
 

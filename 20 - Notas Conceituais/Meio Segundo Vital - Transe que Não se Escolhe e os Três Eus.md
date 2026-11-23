@@ -3,7 +3,7 @@ tipo: nota-conceitual
 projeto: Traduzindo o Ser Humano
 status: correlacao-registrada-por-Fabiano-para-as-aulas
 criado_em: 2026-11-19
-atualizado_em: 2026-11-19
+atualizado_em: 2026-11-23
 autor: Fabiano Deliberalli
 aliases:
   - Meio segundo vital
@@ -16,13 +16,25 @@ aliases:
 
 Correlação aprovada e mandada registrar por Fabiano em 19/11/2026, para resgate na estruturação das aulas.
 
+## Orientação vigente de uso nas aulas — 23/11/2026
+
+O registro abaixo conserva a formulação e a exploração histórica de Fabiano. Para compor aulas, aplicar esta precisão: Cozolino oferece uma síntese clínica sobre a participação de memória, corpo e emoção na formação do presente; os tempos citados são atribuídos ao autor e não são uma duração universal de toda percepção ou decisão. O diálogo com Kahneman é uma correlação editorial do TSH entre formação da experiência, julgamento e aprendizagem, não uma identidade entre modelos nem uma explicação de toda a deliberação dentro de um intervalo de 500 ms. Eu Básico/Eu Médio e os dois tempos da Tradução são mapas funcionais em diálogo, sem localização anatômica ou correspondência rígida com Sistema 1/Sistema 2. Uma sensação pode ser consciente antes de ser verbalmente elaborada.
+
+A antecipação e os processos menos deliberados também sustentam adaptação, habilidades e competência incorporada. A intuição especializada exige oportunidades de aprender regularidades e receber retorno sobre resultados; repetição, confiança ou familiaridade isoladas não demonstram acerto. A prática educacional não demonstra alteração neural, reconsolidação ou superação empírica das limitações de outro autor. Essas distinções conservam a amplitude do TSH e qualificam a fundamentação, sem transportar o debate de pesquisa à condução da prática.
+
+**Aplicação efetiva:** [[M2.4 - Produção em duas partes v2]], Parte 1/8–10, ensina a formação do vivido, o aval da impressão e a aprendizagem incorporada; 18–19 e Parte 2/15–16 conectam essas relações ao recurso, à comparação e à continuidade. M2.3 investiga o fechamento da leitura e o resgate de outras pistas; M2.4 acrescenta o que continua organizando a participação e o que precisa ganhar sustentação. Os títulos e destinos históricos abaixo não substituem [[01 - Plano de produção das seis aulas M2]] nem [[00 - Estado e Continuidade da Produção M2]].
+
+Fontes primárias conferidas nesta revisão: [trecho de Cozolino publicado pelo autor](https://www.drloucozolino.com/neuroscience/the-vital-half-second); [Kahneman e Klein, 2009](https://bear.warrington.ufl.edu/brenner/mar7588/Papers/kahneman-klein-2009.pdf), DOI 10.1037/a0016755; [Guggisberg e Mottaz, 2013](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2013.00385/full), DOI 10.3389/fnhum.2013.00385, para os limites da inferência temporal. A leitura dirigida dessas fontes não é uma nova leitura integral das obras citadas no histórico.
+
+## Registro histórico e correlações a recuperar com essa precisão
+
 ## A formulação
 
 > O cérebro responde em 10 a 50 milissegundos, e a consciência só registra depois de 500 a 600. Nesse intervalo ele monta o presente a partir do passado. Isso dá base neurocientífica ao transe que não se escolheu e à aula "Por que entender um padrão não impede que ele se repita". Também se encaixa nos Três Eus: o sistema rápido é o Eu Básico, o lento é o Eu Médio.
 
 ## As três pontas da correlação
 
-### 1. O dado neurocientífico (Cozolino)
+### 1. A síntese neurocientífica apresentada por Cozolino
 
 Louis Cozolino, *Por que a terapia funciona* (2015), cap. 1, seção "O meio segundo vital":
 - **Sistema rápido.** É antigo, não verbal e inacessível à reflexão. Cuida dos sentidos, dos movimentos e dos processos corporais. É a memória implícita, "as memórias das quais não nos lembramos conscientemente, mas nunca esquecemos". Processa informação sensorial, motora e emocional em 10 a 50 milissegundos.
@@ -50,7 +62,7 @@ Fonte de Long: *O Milagre da Ciência Secreta* (Grupo Editorial Monismo), cap. I
 
 Leinani Melville (*Children of Paradise*) inverte os nomes: chama de *Uhane* o eu inferior e de *Unihipiri* o eu do meio. Mas descreve a mesma dinâmica. A mente do meio só chega à mente diária "quando o corpo está relaxado e a consciência em paz", e a mente diária solta o controle ao cochilar. É a via parassimpática do transe dita na linguagem Huna. Ver [[Huna - Leinani Melville Children of Paradise - Avaliação para o TSH]].
 
-A correspondência é **funcional**, não anatômica. Os Três Eus são um mapa da experiência, e os dois sistemas são uma descrição de processamento. Os dois mapas coincidem no ponto que importa para o curso: o que responde primeiro guarda a memória e recebe a sugestão; o que chega depois explica.
+A correspondência é **funcional**, não anatômica. Os Três Eus são um mapa da experiência, e os dois sistemas são uma descrição de processamento. A aproximação histórica privilegia a relação entre referências aprendidas e elaboração. A aplicação atual conserva as diferenças entre os mapas, sem reduzir memória, sugestão, consciência ou escolha a esse par.
 
 ## Onde entra nas aulas
 
@@ -93,3 +105,4 @@ A correspondência é **funcional**, não anatômica. Os Três Eus são um mapa 
 - [[Quatro Passos da Mudança - Metapadrão e Lei de Hebb no TSH]] (a Lei de Hebb explica por que a trilha mais usada se repete e como os quatro passos abrem outra)
 - [[Kahneman e Cozolino - Dois Sistemas e o Meio Segundo no TSH]] (20/11/2026: o que Kahneman acrescenta ao meio segundo — o Sistema 1 não desliga, o Sistema 2 economiza esforço, o familiar parece verdadeiro e a intuição treinada devolve o aprendido ao sistema rápido; o que não usar como evidência)
 - [[O Caminho de Descida, Subida e Retorno com Aquisição]] (o meio segundo como a virada do caminho)
+

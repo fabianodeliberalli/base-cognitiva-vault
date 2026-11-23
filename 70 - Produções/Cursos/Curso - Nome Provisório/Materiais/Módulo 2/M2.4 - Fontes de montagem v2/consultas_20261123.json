@@ -1,0 +1,53 @@
+{
+  "repository": "fabianodeliberalli/base-cognitiva-vault",
+  "ref": "d0ad967277f9db45dfbd55ff5a1898a882033df6",
+  "sources": [
+    {
+      "path": "AGENTS.md",
+      "sha": "28dfbc128b76d12e8ecd829f9fbf03618926136c",
+      "encoding": "utf-8"
+    },
+    {
+      "path": "90 - Sistema/Governança de IA/11 - Contexto Mínimo - Traduzindo o Ser Humano.md",
+      "sha": "48ed5ab4ab0bbd14be3e4c74fd9aa4f09d453f5d",
+      "encoding": "utf-8"
+    },
+    {
+      "path": "90 - Sistema/Governança de IA/13 - Base de Produção Autoral e Didática - Fabiano Deliberalli.md",
+      "sha": "0f37e06b70b4a6d620a004d0617549310379143c",
+      "encoding": "utf-8"
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/60 - Arquitetura Pedagógica/TSH - Padrão de Slides, Notas e Roteiros das Aulas.md",
+      "sha": "a9274f6adb3dc0cd5b0b561250908a7b8b7c0ec5",
+      "encoding": "utf-8"
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 2/00 - Estado e Continuidade da Produção M2.md",
+      "sha": "018b2ffbd042045d046f8aceb10b4d5d10fe0b6c",
+      "encoding": "utf-8"
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 2/M2.4 - Produção em duas partes v1.md",
+      "sha": "3f233d459c2d7db20e511051f4ab40ef5a6ad1a9",
+      "encoding": "utf-8"
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 2/01 - Plano de produção das seis aulas M2.md",
+      "sha": "b8ae8148a7682c9520b44a2044d90c9e815f75fe",
+      "encoding": "utf-8"
+    },
+    {
+      "path": "20 - Notas Conceituais/Meio Segundo Vital - Transe que Não se Escolhe e os Três Eus.md",
+      "sha": "3888114c952ad69611ac222f9a5d355b3cafe863",
+      "encoding": "utf-8"
+    },
+    {
+      "path": "20 - Notas Conceituais/Kahneman e Cozolino - Dois Sistemas e o Meio Segundo no TSH.md",
+      "sha": "cc9fbd246c8da2e887bb67877fc7bec186f93781",
+      "encoding": "utf-8"
+    }
+  ],
+  "scope": "Leitura e comparação dirigida das bases e fontes pertinentes, sem declaração de leitura integral do vault ou das obras.",
+  "previous_source_record": "M2.4 - Fontes de montagem v1/fontes/consultas_desta_revisao.json"
+}

@@ -2,19 +2,19 @@
 tipo: plano-de-producao
 projeto: Traduzindo o Ser Humano
 modulo: M2
-versao: "0.12"
-data: 2026-11-22
+versao: "0.13"
+data: 2026-11-23
 status: revisao-substantiva
 arquitetura: nove-modulos-59-aulas
 ---
 
 # Módulo 2 — Plano de produção das seis aulas
 
-Fabiano adotou, em 22/11/2026, duas partes de gravação a partir de M2.2 nas aulas com prática autônoma: compreensão/fundamentos e prática guiada/integração, mantendo a mesma aula. [[M2.2 - Prática guiada v1]] localiza a aplicação inicial, com 10 telas e roteiro próprio. M2.3/M2.4 v0.3 conservam as fontes integradas; a adoção orienta sua próxima preparação, sem declará-las já separadas. Preservar fundamentos e a unidade entre sentir, compreender e participar.
+Fabiano adotou, em 22/11/2026, duas partes de gravação a partir de M2.2 nas aulas com prática autônoma: compreensão/fundamentos e prática guiada/integração, mantendo a mesma aula. [[M2.2 - Prática guiada v1]], [[M2.3 - Avaliação da gravação e edição parte 1 v1]] e [[M2.3 - Prática guiada v1]] e [[M2.4 - Produção em duas partes v2]] localizam as aplicações. [[00 - Estado e Continuidade da Produção M2]] é a entrada para materiais atuais e genealogia. As montagens integradas anteriores permanecem históricas.
 
-Revisão solicitada por Fabiano para recuperar a profundidade de suas práticas, literatura e elaborações. M2 desenvolve a constituição da experiência, a relevância e a simbolização, a experiência de certeza, a repetição, a distinção entre vivido/sentido/origem e a Tradução recursiva. As cenas funcionam como aplicação e não como substituição dos fundamentos.
+**Correção recorrente de profundidade — 23/11/2026.** As fontes autorais, teóricas e experienciais precisam ser transformadas em desenvolvimento da questão da aula, antes da condensação para slides e notas. A conferência localiza a contribuição efetivamente ensinada e sua relação com a prática. Recuperar autores ou verificar arquivos não sustenta, por si, uma avaliação de profundidade. Aplicar a base autoral v1.6 e o padrão v2.11 durante a execução, sem depender de novo lembrete de Fabiano. A objetividade retira repetição e desvios; conserva as distinções e relações necessárias ao aluno. Não há quota fixa de autores, imagens ou telas.
 
-M2.1 e M2.2 têm trilhas atuais v0.8 e v0.5, respectivamente, ambas com 20 telas. M2.2 v0.5 aplica o padrão v2.7 às notas e à condução: uma frase por linha, objetividade com densidade e distinção entre apresentar a prática, realizá-la e elaborar a experiência. [[00 - Estado e Continuidade da Produção M2]] localiza apresentações, guias e apoios. M2.3 v0.2 introduziu a revisão substantiva de 24 telas, e M2.4 v0.2 reconstruiu a montagem anterior com 29. As revisões atuais de exposição são v0.3, com as mesmas trilhas e fundamentos e notas ajustadas ao padrão v2.7. Guias, apoios e kits v0.2 preservam aquela etapa; as notas atuais estão nas apresentações e trilhas v0.3. O diagnóstico e as versões anteriores continuam recuperáveis. M2.5–M2.6 mantêm orientação estrutural e aguardam composição final. O percurso conserva seis aulas, com Cartografia comum e estudo assíncrono suficiente. O encontro ao vivo conserva seu planejamento sem confirmação de execução.
+M2 desenvolve a constituição da experiência, relevância/simbolização, experiência de certeza, repetição, distinção entre vivido/sentido/origem e Tradução recursiva. As situações e metáforas participam da elaboração; não substituem fundamentos. M2.5–M2.6 mantêm orientação estrutural e aguardam composição final. O módulo conserva seis aulas, Cartografia comum e estudo assíncrono suficiente; a arquitetura completa continua nove módulos e 59 aulas. Não se infere execução do encontro ao vivo a partir de seu planejamento.
 
 ## M2.1 — Como se forma o que você percebe?
 
@@ -32,7 +32,7 @@ M2.1 e M2.2 têm trilhas atuais v0.8 e v0.5, respectivamente, ambas com 20 telas
 
 **Desenvolvimento:** Investigar como a forma vivida e sua elaboração adquirem força de certeza e passam a se confirmar, em continuidade com os dois tempos da Tradução de M2.2. Diferenciar relevância, interpretação e convicção; examinar o que sustenta a leitura e o que se reorganiza ao conferi-la.
 
-**Experiência e articulação:** [[M2.3 - Trilha de exposição v0.2]], revisão produzida para avaliação: impressão e certeza, viés de confirmação, dissonância e caso histórico de Festinger, absorção/transe cotidiano e contribuição ericksoniana. Meio segundo como imagem, sem duração universal. Retomar o mapa autoral de retorno; reconhecer a leitura, recuperar presença, formular pergunta que possa modificá-la, conferir, elaborar e continuar na Cartografia. [[M2.3 - Seleção dos anexos e fundamentação v0.1]] preserva fontes e distinção entre uso atual e propostas.
+**Experiência e articulação:** [[M2.3 - Avaliação da gravação e edição parte 1 v1]] e [[M2.3 - Prática guiada v1]] localizam os materiais atuais e a condução separada. A revisão substantiva anterior desenvolveu: impressão e certeza, viés de confirmação, dissonância e caso histórico de Festinger, absorção/transe cotidiano e contribuição ericksoniana. Meio segundo atribuído à síntese de Cozolino, sem duração universal e sem equivalência entre cronologia neural, certeza e transe cotidiano. Retomar o mapa autoral de retorno; reconhecer a leitura, recuperar presença, formular pergunta que possa modificá-la, conferir, elaborar e continuar na Cartografia. [[M2.3 - Seleção dos anexos e fundamentação v0.1]] preserva fontes e distinção entre uso atual e propostas.
 
 **Integração aplicada na v0.2 após avaliação progressiva:** a composição M2.3 v0.1 desenvolveu suas novas referências, mas deixou implícita a costura com forma/elaboração. Retomar essa relação de modo breve, sem equivaler Kahneman aos Eus. Na exploração, comparar a conclusão e o modo de viver a situação: o que mudou na sensação, afeto, imagem/palavra, expectativa e possibilidade de participação, conforme apareçam. Conferir uma leitura pode ampliá-la, confirmá-la ou mantê-la em aberto; a aula não transforma toda certeza em erro. A v0.2 aplica a alteração nas telas/notas, guia e apoio: reciprocidade nas telas 2/4/6/7, comparação em 17–21 e ponte em 22–24. [[M2.3 - Apresentação editável v0.2]] localiza a entrega e o alcance das verificações.
 
@@ -41,6 +41,8 @@ M2.1 e M2.2 têm trilhas atuais v0.8 e v0.5, respectivamente, ambas com 20 telas
 **Desenvolvimento:** Investigar a repetição como organização da experiência e da participação: corpo, afeto, imagem/memória, elaboração consciente, vínculo e efeitos em relação. Desenvolver o desencontro entre explicação verbal e disponibilidade vivida, retomando os dois tempos da Tradução de M2.2 e o horizonte formativo do TSH. Função e consequências são dimensões dessa investigação.
 
 **Experiência e articulação:** Partir do resultado e do limite de M2.3: uma leitura pode ser revista enquanto o encontro continua vivido e respondido pela organização conhecida. Comparar forma vivida, elaboração e participação em duas ocasiões; investigar o que se preserva e o que procura expressão. Sequência de pistas, antecipação, corpo/afeto e efeitos é uma lente parcial dessa investigação. Os quatro passos permitem explorar que experiência ou recurso torna outra participação possível, incluindo capacidades por cultivar e condições externas a modificar. [[M2.4 - Prévia de conteúdo e contribuições v0.1]] foi revista por Fabiano para seguir. [[M2.4 - Trilha de exposição v0.2]] e [[M2.4 - Apresentação editável v0.2]] localizam a reconstrução aplicada aos suportes. Bion, Morin, aprendizagem, Forghieri e os quatro passos sustentam o desenvolvimento; escada, pêndulo e espiral têm função específica. A prévia preserva a seleção e sua aplicação; a comparação progressiva com M2.1/M2.2/M2.3 não fica substituída por inspeção visual ou de arquivos. Milgram participa da investigação de autoridade/contexto e conflito da ação, com explicação do desenho e de seus alcances. Os quatro passos organizam um ensaio educacional; não se apresenta esse ensaio como demonstração de reconsolidação.
+
+**Aplicação substantiva atual — v2, 23/11/2026:** [[M2.4 - Produção em duas partes v2]] tem 21 telas de compreensão/fundamentos e 18 de prática/integração. Parte 1/8 desenvolve como memória, corpo, afeto, expectativa e relação participam do presente, com Cozolino. Parte 1/9 distingue experiência sentida e aval da conclusão, em diálogo editorial com Kahneman. Parte 1/10 desenvolve competência incorporada, aprendizagem de regularidades e retorno sobre resultados, com Kahneman/Klein e o retorno com aquisição autoral. Os dois tempos da Tradução são forma vivida/elaboração em reciprocidade; não são compartimentos separados por 500 ms. A escolha do recurso e a comparação ganham esse fundamento em 18–19 e Parte 2/15–16. A realização da prática, Parte 2/3–14, conserva sua operação já corrigida. Guias e apoio do aluno foram atualizados. A composição não declara demonstração de reconsolidação nem equivalência entre os modelos dos autores e os Três Eus.
 
 ## M2.5 — Acontecimento, experiência e interpretação
 
@@ -70,9 +72,9 @@ M4.4 pode retomar a história e a adequação atual de uma proteção, sem repet
 
 **Aplicação realizada em M2.2 v0.5:** a tela 13 apresenta o percurso, e as telas 14–16 realizam a exploração. A tela 15 conduz uma pergunta por vez, com pausa para perceber e registrar; as interpretações passam à elaboração. A tela 16 confere e conclui; a 17 elabora sem reiniciar o exercício. Avisos curtos nas notas tornam a função reconhecível, e a tela 13 informa que a realização começa na seguinte. As 20 notas têm uma frase por linha, com redundâncias retiradas e fundamentos preservados. A antecipação adaptativa foi desenvolvida na tela 4. As fontes v0.4 preservam a composição anterior; o guia v0.4 não foi regenerado nesta entrega de slides.
 
-## Revisão de exposição e condução — M2.3/M2.4 v0.3
+## Etapa histórica de exposição e condução — M2.3/M2.4 v0.3
 
-Aplicação posterior à revisão substantiva v0.2. M2.3 conserva 24 telas e M2.4 conserva 29, com notas mais objetivas, uma frase por linha e espaço entre blocos, sem retirar autores, articulações, dados, práticas, mapas ou o horizonte do TSH. As apresentações distinguem quando se apresenta a prática, quando começa a realização, as pausas, a comparação, a conclusão e a elaboração posterior. A antecipação é também adaptativa e participa de capacidades aprendidas. [[M2.3 - Trilha de exposição v0.3]] e [[M2.4 - Trilha de exposição v0.3]] são as referências atuais para exposição; as fontes v0.2 conservam a etapa anterior e seus guias/kits.
+Aplicação posterior à revisão substantiva v0.2. M2.3 conserva 24 telas e M2.4 conserva 29, com notas mais objetivas, uma frase por linha e espaço entre blocos, sem retirar autores, articulações, dados, práticas, mapas ou o horizonte do TSH. As apresentações distinguem quando se apresenta a prática, quando começa a realização, as pausas, a comparação, a conclusão e a elaboração posterior. A antecipação é também adaptativa e participa de capacidades aprendidas. [[M2.3 - Trilha de exposição v0.3]] e [[M2.4 - Trilha de exposição v0.3]] registram a etapa integrada anterior; as fontes v0.2 conservam a etapa anterior e seus guias/kits.
 
 ## Encadeamento e fontes
 
@@ -87,3 +89,4 @@ A adaptação dedo–própria palma saiu da aula atual. O poder do dedo original
 ## Resgate seletivo dos anexos de M2.3
 
 [[Anexos M2 - Conteúdos imagens e destinos de resgate]] localiza todas as lâminas dos quatro PowerPoints, originais, textos, imagens/mídias e destinos propostos no percurso. Recuperar por questão de aprendizagem. [[Claustro - Atenção, integração e estados de consciência no TSH]] desenvolve atenção/distração e pesquisa de estados com fontes primárias; a anatomia não se torna um bloco da M2.4 apenas pela chegada do anexo.
+

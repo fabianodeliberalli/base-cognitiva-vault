@@ -3,7 +3,7 @@ tipo: nota-conceitual
 projeto: Traduzindo o Ser Humano
 status: versao-de-trabalho
 criado_em: 2026-11-20
-atualizado_em: 2026-11-20
+atualizado_em: 2026-11-23
 autor: Fabiano Deliberalli
 aliases:
   - Kahneman no TSH
@@ -20,9 +20,21 @@ Registro pedido por Fabiano em 20/11/2026, para correlação, ampliação e fund
 
 ---
 
+## Orientação vigente de uso nas aulas — 23/11/2026
+
+O registro abaixo conserva a formulação e a exploração histórica de Fabiano. Para compor aulas, aplicar esta precisão: Cozolino oferece uma síntese clínica sobre a participação de memória, corpo e emoção na formação do presente; os tempos citados são atribuídos ao autor e não são uma duração universal de toda percepção ou decisão. O diálogo com Kahneman é uma correlação editorial do TSH entre formação da experiência, julgamento e aprendizagem, não uma identidade entre modelos nem uma explicação de toda a deliberação dentro de um intervalo de 500 ms. Eu Básico/Eu Médio e os dois tempos da Tradução são mapas funcionais em diálogo, sem localização anatômica ou correspondência rígida com Sistema 1/Sistema 2. Uma sensação pode ser consciente antes de ser verbalmente elaborada.
+
+A antecipação e os processos menos deliberados também sustentam adaptação, habilidades e competência incorporada. A intuição especializada exige oportunidades de aprender regularidades e receber retorno sobre resultados; repetição, confiança ou familiaridade isoladas não demonstram acerto. A prática educacional não demonstra alteração neural, reconsolidação ou superação empírica das limitações de outro autor. Essas distinções conservam a amplitude do TSH e qualificam a fundamentação, sem transportar o debate de pesquisa à condução da prática.
+
+**Aplicação efetiva:** [[M2.4 - Produção em duas partes v2]], Parte 1/8–10, ensina a formação do vivido, o aval da impressão e a aprendizagem incorporada; 18–19 e Parte 2/15–16 conectam essas relações ao recurso, à comparação e à continuidade. M2.3 investiga o fechamento da leitura e o resgate de outras pistas; M2.4 acrescenta o que continua organizando a participação e o que precisa ganhar sustentação. Os títulos e destinos históricos abaixo não substituem [[01 - Plano de produção das seis aulas M2]] nem [[00 - Estado e Continuidade da Produção M2]].
+
+Fontes primárias conferidas nesta revisão: [trecho de Cozolino publicado pelo autor](https://www.drloucozolino.com/neuroscience/the-vital-half-second); [Kahneman e Klein, 2009](https://bear.warrington.ufl.edu/brenner/mar7588/Papers/kahneman-klein-2009.pdf), DOI 10.1037/a0016755; [Guggisberg e Mottaz, 2013](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2013.00385/full), DOI 10.3389/fnhum.2013.00385, para os limites da inferência temporal. A leitura dirigida dessas fontes não é uma nova leitura integral das obras citadas no histórico.
+
+## Registro histórico e correlações a recuperar com essa precisão
+
 ## A correlação em uma frase
 
-Cozolino explica **quando** o passado assume o presente (o meio segundo entre o sistema rápido e o lento). Kahneman explica **por que** o sistema lento quase sempre deixa (o Sistema 2 economiza esforço e endossa o que o Sistema 1 já montou). Juntos, respondem à pergunta da aula: por que entender um padrão não impede que ele se repita.
+Cozolino ajuda a investigar como referências anteriores participam da experiência presente. Kahneman ajuda a investigar o aval dado às impressões e o custo de examiná-las. No TSH, esse diálogo amplia a pergunta sobre por que uma compreensão pode mudar sem que outra participação já esteja disponível.
 
 ## Os dois sistemas em Kahneman
 
@@ -34,11 +46,11 @@ Cozolino explica **quando** o passado assume o presente (o meio segundo entre o 
 
 | | Cozolino | Kahneman |
 | --- | --- | --- |
-| O que descreve | processamento neural: 10–50 ms contra 500–600 ms | funcionamento do julgamento e da decisão |
+| O que descreve | síntese clínica/neurocientífica com tempos aproximados atribuídos ao autor | funcionamento do julgamento e da decisão |
 | Olho | carne (com interpretação clínica) | razão (modelo funcional, sustentado por experimentos) |
-| Uso no TSH | dado sobre o intervalo | linguagem sobre o que acontece no intervalo |
+| Uso no TSH | participação de memória, corpo e emoção na formação do vivido | julgamento, atenção e aprendizagem, sem confiná-los ao intervalo |
 
-A correspondência com os Três Eus continua **funcional**: o que responde primeiro e guarda o aprendido (Sistema 1, sistema rápido, Eu Básico, *unihipili* de Long); o que chega depois, explica e escolhe (Sistema 2, sistema lento, Eu Médio, *uhane*).
+A correspondência com os Três Eus é uma aproximação **funcional**, não uma equivalência: processos rápidos também incluem habilidades refinadas, e a elaboração não é um controlador separado do corpo e das relações. As nomenclaturas históricas de Long permanecem no acervo com seu contexto.
 
 ---
 
@@ -68,7 +80,7 @@ Com a prática, o que exigia o Sistema 2 passa para o Sistema 1; a intuição es
 
 ### 6. O limite de Kahneman e o diferencial do TSH
 
-Kahneman é cético quanto à mudança individual: diz que sua própria intuição não melhorou muito com décadas de estudo, e recomenda sobretudo reconhecer situações em que o erro é provável, desacelerar e pedir reforço ao Sistema 2, além de desenhar ambientes e procedimentos que protejam das falhas (Conclusões). **Proposta:** o TSH vai além desse ponto por outro caminho — o corpo. Respiração, regulação, atenção treinada, experiência repetida e reconsolidação da memória atuam no sistema rápido diretamente, não só pelo controle do lento. Kahneman fundamenta o diagnóstico; a proposta de treino é do TSH.
+Kahneman é cético quanto à mudança individual: diz que sua própria intuição não melhorou muito com décadas de estudo, e recomenda sobretudo reconhecer situações em que o erro é provável, desacelerar e pedir reforço ao Sistema 2, além de desenhar ambientes e procedimentos que protejam das falhas (Conclusões). **Proposta formativa do TSH:** articular reflexão, experiência corporal, atenção, relações e continuidade para investigar o que se torna disponível na participação. É uma elaboração pedagógica do TSH; uma prática isolada não demonstra atuação direta sobre um sistema cognitivo, reconsolidação ou superioridade empírica em relação à proposta de Kahneman.
 
 ### 7. Os dois eus: o que vive e o que lembra
 
@@ -106,3 +118,4 @@ A distinção entre os dois sistemas, a facilidade cognitiva, o "o que você vê
 - Schimmack U, Heene M, Kesavan K. Reconstruction of a train wreck: how priming research went off the rails. Replicability-Index, 2017; com a resposta de Kahneman nos comentários.
 - Cozolino L. *Por que a terapia funciona*. Cap. 1, "O meio segundo vital".
 - [[Meio Segundo Vital - Transe que Não se Escolhe e os Três Eus]]; [[Consciência no TSH - Origem, Círculo e o Espaço entre Sentir e Agir]]; [[O Caminho de Descida, Subida e Retorno com Aquisição]].
+

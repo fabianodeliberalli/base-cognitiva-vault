@@ -3,7 +3,7 @@ tipo: continuidade-de-producao
 projeto: Traduzindo o Ser Humano
 modulo: M2
 status: producao-em-curso
-atualizado_em: 2026-11-22
+atualizado_em: 2026-11-23
 arquitetura_atual: nove módulos e 59 aulas
 ---
 
@@ -11,7 +11,7 @@ arquitetura_atual: nove módulos e 59 aulas
 
 ## Forma de trabalho
 
-O modelo adotado em M2.1 é a trilha para exposição livre, com visão inicial e passos visuais. Os quatro campos de notas orientam a exposição conforme sua função; na realização de práticas, usar momentos reconhecíveis e instruções diretas. Uma frase completa por linha e espaço entre blocos facilitam a consulta, com objetividade que preserva fundamentos, articulações e retomadas didáticas úteis. [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] v2.10 e [[13 - Base de Produção Autoral e Didática - Fabiano Deliberalli]] v1.5 orientam a aplicação. A clareza torna ensinável a densidade autoral e dos fundamentos. M0 é acolhimento e não determina o nível das aulas seguintes.
+O modelo adotado em M2.1 é a trilha para exposição livre, com visão inicial e passos visuais. Os quatro campos de notas orientam a exposição conforme sua função; na realização de práticas, usar momentos reconhecíveis e instruções diretas. Uma frase completa por linha e espaço entre blocos facilitam a consulta, com objetividade que preserva fundamentos, articulações e retomadas didáticas úteis. [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] v2.11 e [[13 - Base de Produção Autoral e Didática - Fabiano Deliberalli]] v1.6 orientam a aplicação. A clareza torna ensinável a densidade autoral e dos fundamentos. M0 é acolhimento e não determina o nível das aulas seguintes.
 
 Os registros de produção acompanham versões, arquivos, alterações e trabalho restante. Omitir campos, pendências e lembretes de aprovação para gravação.
 
@@ -22,7 +22,7 @@ Os registros de produção acompanham versões, arquivos, alterações e trabalh
 | M2.1 | [[M2.1 - Trilha de exposição v0.8]] e [[M2.1 - Apresentação editável v0.8]]: 20 telas; sequência nativa 14; guia Word/PDF de 21 páginas, versão 3; apoio Word/PDF de quatro páginas, versão 5. O apoio versão 4 permanece como exemplar preservado. [[M2.1 - Edição da gravação v1]]: vídeo editado de 34min43s, original preservado. |
 | M2.2 | [[M2.2 - Edição da gravação parte 1 v1]]: vídeo de compreensão/fundamentos, 28min13s, original preservado, novo apoio sobre inibição latente e fechamento para a prática. [[M2.2 - Prática guiada v1]]: 10 telas, sequência 4, roteiro Word de cinco páginas. Fabiano regravará a prática; a v0.5 preserva a fonte integrada anterior. |
 | M2.3 | [[M2.3 - Avaliação da gravação e edição parte 1 v1]]: teoria editada, 24min55s, original preservado. [[M2.3 - Prática guiada v1]]: 14 telas, sequência 3, guia Word/PDF de oito páginas e slides em PDF; nova prática a gravar por Fabiano. A fonte integrada v0.3 (24 telas, sequência 6) preserva a versão efetivamente utilizada. |
-| M2.4 | [[M2.4 - Produção em duas partes v1]]: Parte 1 com 19 telas; Parte 2 com 18; ambas na sequência 2. Guias Word/PDF correspondentes de 10 e nove páginas; apoio do aluno Word/PDF de oito páginas, registro e kit único. Fonte integrada v0.3 preservada como histórico. |
+| M2.4 | [[M2.4 - Produção em duas partes v2]]: 21 telas de compreensão/fundamentos e 18 de prática/integração. Aprofundamento da formação do vivido, Cozolino/Kahneman, competência incorporada e elaboração da prática. Guias e apoio correspondentes no kit atual. As versões anteriores conservam a genealogia. |
 | M2.5–M2.6 e M3–M8 | Orientação estrutural no dossiê; novos roteiros e suportes integrais ainda a compor nesta frente. |
 
 ## Aprendizado da gravação M2.1 — 22/11/2026
@@ -45,9 +45,9 @@ A gravação recebida tem 29min47s e para durante a condução. As 24 notas do a
 
 As revisões v0.3 aplicam o aprendizado da gravação: objetividade com fundamentos preservados, uma frase completa por linha e espaço entre blocos. M2.3 distingue apresentação na tela 16, realização em 17–21, comparação/conclusão em 21 e elaboração em 22. M2.4 distingue apresentação/preparação em 17–18, realização em 19–24, comparação/conclusão em 24 e elaboração em 25. Conferidos os textos salvos e todas as telas; imagens, diagramas e quantidades preservados. A ampliação adaptativa da antecipação aparece em M2.3/6 e M2.4/8. Nessa entrega histórica, guias e kits anteriores não foram refeitos. As fontes atuais estão na tabela; as revisões em duas partes sucedem essa etapa.
 
-## M2.4 em duas partes — 22/11/2026
+## Correção de profundidade aplicada — 23/11/2026
 
-[[M2.4 - Produção em duas partes v1]] aplica a separação antes da gravação. Mantém configuração, elaboração, circularidade, aprendizagem adaptativa, função/expressão, autoridade, condições, escada, pêndulo/espiral e quatro passos. A Parte 2 produz referências nomeadas do vivido e da participação no início e no reencontro, compara cada eixo em sua tela e encerra antes da elaboração. Recurso ausente e dificuldade de retorno têm continuidade clara. O apoio v0.2 existia; agora foi revisto em oito páginas, com ficha e acompanhamento do encontro real. Conferidas as 37 notas salvas contra fontes e guias, as telas, as 27 páginas dos documentos e os PDFs dos slides. Conteúdo completo, figuras e fontes de montagem recuperáveis pelo localizador, além do kit único. A arquitetura permanece nove módulos e 59 aulas.
+Fabiano reiterou o padrão de simplificação desde o início do chat. A revisão anterior melhorou a condução e os suportes, mas resumiu articulações substantivas; “profundidade preservada” excedeu a evidência. A base autoral v1.6 e o padrão v2.11 corrigem essa prioridade. [[M2.4 - Produção em duas partes v2]] desenvolve Cozolino, memória/corpo/relação na formação do presente, aval da impressão com Kahneman e aprendizagem incorporada; distingue os dois tempos do TSH de uma cronologia neural fixa. Relaciona recurso, comparação e cultivo à fundamentação e atualiza notas, guias e apoio. A condução da prática é preservada; sua elaboração é ampliada. Isso não declara M2.1–M2.3 ou outras aulas refeitas. A arquitetura continua nove módulos e 59 aulas.
 
 ## Progressão efetiva
 
@@ -64,5 +64,6 @@ Exemplos genéricos recebem contexto a cada retomada e ampliam uma relação, se
 [[Anexos M2 - Conteúdos imagens e destinos de resgate]] localiza quatro PowerPoints, 255 lâminas, duas imagens de Milgram, originais, textos e mídias. [[Claustro - Atenção, integração e estados de consciência no TSH]] oferece destino específico; não introduzir esse conteúdo automaticamente em M2.4. [[M2.4 - Prévia de conteúdo e contribuições v0.1]] conserva a seleção e sua aplicação posterior. [[TSH - Revisão de Profundidade e Percurso - 22-11-2026]] preserva a comparação progressiva e a resposta aplicada.
 
 O desvio anterior foi de seleção e articulação do assistente diante de fontes densas. Consultar títulos e montar uma cadeia genérica não satisfaz a produção. Ler passagens pertinentes e aulas anteriores reais; desenvolver raciocínio e investigação antes da montagem; conferir a contribuição concreta nos suportes finais. A inspeção visual e a correspondência de arquivos têm alcance técnico e não medem aprendizagem. O Site não é a frente solicitada. Manter a entrega conjunta em um ZIP para evitar vários downloads.
+
 
 
