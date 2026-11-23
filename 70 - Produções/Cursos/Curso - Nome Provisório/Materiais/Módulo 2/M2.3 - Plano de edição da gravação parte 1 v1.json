@@ -1,0 +1,170 @@
+{
+  "lesson": "M2.3",
+  "part": 1,
+  "date": "2026-11-22",
+  "version": 1,
+  "source": {
+    "library_file_id": "libfile_fde3_f-b77b2f5a2ebc81918b6e6b233329f407_ad925f8fadbc81918eab9ef0eafee9a9",
+    "duration_seconds": 1787.392,
+    "sha256": "de3a4a229e78e20f563c6306f14ea5949f3054dd410c10a1c5c051a4ff92dba7"
+  },
+  "output": {
+    "size_bytes": 76417955,
+    "sha256": "a70200dd7b0866448a025f22db9cf2741e21fa7ac2bcdb618619bb7552c1dc8e",
+    "library_file_id": "libfile_fde3_f-ca77d90b63c48191b5fa95509282976d_ad925f8fadbc81918eab9ef0eafee9a9",
+    "duration_seconds": 1495.08,
+    "url": "https://chatgpt.com/library?file_id=libfile_fde3_f-ca77d90b63c48191b5fa95509282976d_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal"
+  },
+  "keep_intervals": [
+    {
+      "source_in_seconds": 20.72,
+      "source_out_seconds": 364.52,
+      "output_in_seconds": 0,
+      "output_out_seconds": 343.8
+    },
+    {
+      "source_in_seconds": 385.52,
+      "source_out_seconds": 433.48,
+      "output_in_seconds": 343.8,
+      "output_out_seconds": 391.76
+    },
+    {
+      "source_in_seconds": 446.72,
+      "source_out_seconds": 503.28,
+      "output_in_seconds": 391.76,
+      "output_out_seconds": 448.32
+    },
+    {
+      "source_in_seconds": 507.52,
+      "source_out_seconds": 559.16,
+      "output_in_seconds": 448.32,
+      "output_out_seconds": 499.96
+    },
+    {
+      "source_in_seconds": 566.12,
+      "source_out_seconds": 818.4,
+      "output_in_seconds": 499.96,
+      "output_out_seconds": 752.24
+    },
+    {
+      "source_in_seconds": 819.76,
+      "source_out_seconds": 820.52,
+      "output_in_seconds": 752.24,
+      "output_out_seconds": 753.0
+    },
+    {
+      "source_in_seconds": 822.4,
+      "source_out_seconds": 1560.48,
+      "output_in_seconds": 753.0,
+      "output_out_seconds": 1491.08
+    }
+  ],
+  "internal_cuts_seconds": [
+    [
+      364.52,
+      385.52
+    ],
+    [
+      433.48,
+      446.72
+    ],
+    [
+      503.28,
+      507.52
+    ],
+    [
+      559.16,
+      566.12
+    ],
+    [
+      818.4,
+      819.76
+    ],
+    [
+      820.52,
+      822.4
+    ]
+  ],
+  "end_card_seconds": 4,
+  "captions": [
+    {
+      "source_in_seconds": 690.0,
+      "source_out_seconds": 712.0,
+      "text": "Informações favoráveis ao que já acredito ganham mais passagem."
+    },
+    {
+      "source_in_seconds": 1149.0,
+      "source_out_seconds": 1164.0,
+      "text": "São formas de reduzir a dissonância.\nCada caminho pode ampliar a compreensão ou preservar a certeza."
+    },
+    {
+      "source_in_seconds": 1220.0,
+      "source_out_seconds": 1250.0,
+      "text": "A absorção também participa da criação, da música e da contemplação.\nNesta aula, investigamos a fixação em uma leitura."
+    }
+  ],
+  "audio": {
+    "gain_db": 2.0,
+    "sample_limiter_dbfs": -1.5,
+    "time_stretch": false,
+    "synthetic_voice": false
+  },
+  "visual": {
+    "main_crop": [
+      0,
+      90,
+      2880,
+      1620
+    ],
+    "output_size": [
+      1920,
+      1080
+    ],
+    "camera_source_crop": [
+      2432,
+      0,
+      448,
+      252
+    ],
+    "camera_output": [
+      1620,
+      0,
+      300,
+      168
+    ],
+    "end_card_asset": "Assets Edicao M2.3/TSH_M2_3_Fechamento_parte_1_v1.png"
+  },
+  "validation": {
+    "decode_result": "decodificação integral de vídeo e áudio sem erros reportados",
+    "video_duration_seconds": 1495.08,
+    "audio_duration_seconds": 1495.08,
+    "av_duration_difference_seconds": 0.0,
+    "integrated_lufs": -18.1,
+    "true_peak_dbfs": -1.3,
+    "frame_count": 37377,
+    "faststart": true,
+    "mp4_atoms": [
+      {
+        "type": "ftyp",
+        "offset": 0,
+        "size": 32
+      },
+      {
+        "type": "moov",
+        "offset": 32,
+        "size": 1140966
+      },
+      {
+        "type": "free",
+        "offset": 1140998,
+        "size": 8
+      },
+      {
+        "type": "mdat",
+        "offset": 1141006,
+        "size": 75276949
+      }
+    ],
+    "validation_scope": "Transcrição integral, emendas por limites de palavras/transcrição amostral, medidas de áudio, decodificação integral e inspeção de quadros. Não constitui mensuração de aprendizagem."
+  }
+}
