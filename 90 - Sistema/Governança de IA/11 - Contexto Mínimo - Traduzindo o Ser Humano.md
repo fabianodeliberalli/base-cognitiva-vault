@@ -2,7 +2,7 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.57"
+versao: "0.58"
 atualizado_em: 2026-11-22
 ---
 
@@ -59,7 +59,7 @@ O entregável dirige-se ao aluno e é compreensível por si, com fundamentos des
 | Aula | Fonte atual e ponto de retomada |
 | --- | --- |
 | M2.1 | [[M2.1 - Trilha de exposição v0.8]]: constituição corporificada/relacional, enação, primeira pessoa, expressão e retorno. Trilha e suportes disponíveis. [[M2.1 - Edição da gravação v1]] localiza a cópia editada de 34min43s, original, operações e parecer editorial. |
-| M2.2 | [[M2.2 - Prática guiada v1]]: apresentação independente de 10 telas e roteiro Word de cinco páginas, com condução, pausas, encerramento e elaboração. A v0.5 integrada conserva o desenvolvimento conceitual já gravado e sua genealogia. |
+| M2.2 | [[M2.2 - Edição da gravação parte 1 v1]]: primeiro vídeo editado, 28min13s, original preservado. [[M2.2 - Prática guiada v1]]: apresentação independente de 10 telas e roteiro Word de cinco páginas; Fabiano regravará a segunda parte. A v0.5 integrada conserva a fonte conceitual já gravada. |
 | M2.3 | [[M2.3 - Trilha de exposição v0.3]] e [[M2.3 - Apresentação editável v0.3]]: 24 telas/notas, sequência 6. Integração forma/elaboração/convicção preservada; notas objetivas em frases por linha e prática com apresentação, realização, comparação e elaboração reconhecíveis. Guias/kits v0.2 conservam notas anteriores. |
 | M2.4 | [[M2.4 - Trilha de exposição v0.3]] e [[M2.4 - Apresentação editável v0.3]]: 29 telas/notas, sequência 8. Configuração, recursividade, aprendizagem, função/expressão e condições preservadas; quatro passos com recurso vivido, comparação e continuidade. Uma frase por linha, pausas e distinção de funções. Guias/kits v0.2 conservam notas anteriores. |
 | M2.5–M2.6 | Orientação estrutural: distinguir vivido/sentido/interpretação/origem e realizar Tradução recursiva. Novos materiais integrais ainda não produzidos nesta frente. |
@@ -84,3 +84,4 @@ Usar a linha pertinente junto das fontes da aula, sem carregar todos os document
 | Genealogia, decisão anterior ou detalhe não restituído aqui | [[11a - Contexto TSH - Histórico integral até 22-11-2026]] conserva a ficha anterior completa, com fontes, destinos e títulos de seções. Decisões posteriores e estado da frente orientam sua aplicação. |
 
 A consolidação anterior e as correções de profundidade foram integradas à main pelo PR 88 com autorização de Fabiano, preservando estados. As revisões M2.3 v0.2 e M2.4 v0.2 preservam suas fontes completas e a correspondência entre suportes. Para novas entregas, reunir slides, guia e apoio em um ZIP único, além de manter as fontes recuperáveis. Registro não comprova aplicação; conferir os materiais efetivos. O Site não é a frente solicitada.
+

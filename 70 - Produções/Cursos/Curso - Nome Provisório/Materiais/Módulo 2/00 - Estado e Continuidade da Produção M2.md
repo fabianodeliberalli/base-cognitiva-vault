@@ -1,4 +1,5 @@
-| M2.2 | [[M2.2 - Prática guiada v1]]: parte prática independente de 10 telas, sequência 4, com roteiro Word de cinco páginas. [[M2.2 - Trilha de exposição v0.5]] conserva fundamentos e fonte integrada anterior, 20 telas. Gravação anterior recebida; Fabiano regravará a prática. |ntinuidade-de-producao
+---
+tipo: continuidade-de-producao
 projeto: Traduzindo o Ser Humano
 modulo: M2
 status: producao-em-curso
@@ -19,7 +20,7 @@ Os registros de produção acompanham versões, arquivos, alterações e trabalh
 | Aula | Ponto atual de recuperação |
 | --- | --- |
 | M2.1 | [[M2.1 - Trilha de exposição v0.8]] e [[M2.1 - Apresentação editável v0.8]]: 20 telas; sequência nativa 14; guia Word/PDF de 21 páginas, versão 3; apoio Word/PDF de quatro páginas, versão 5. O apoio versão 4 permanece como exemplar preservado. [[M2.1 - Edição da gravação v1]]: vídeo editado de 34min43s, original preservado. |
-| M2.2 | [[M2.2 - Trilha de exposição v0.5]] e [[M2.2 - Apresentação editável v0.5]]: 20 telas com notas revisadas; sequência nativa 9. Objetividade, uma frase por linha, antecipação adaptativa e condução separada da apresentação. Guia v0.4 preserva notas anteriores; notas atuais na apresentação/trilha v0.5. Apoio Word/PDF versão 3, quatro páginas, preservado. Gravação recebida em 22/11/2026, 36min59s; avaliação da condução abaixo. |
+| M2.2 | [[M2.2 - Edição da gravação parte 1 v1]]: vídeo de compreensão/fundamentos, 28min13s, original preservado, novo apoio sobre inibição latente e fechamento para a prática. [[M2.2 - Prática guiada v1]]: 10 telas, sequência 4, roteiro Word de cinco páginas. Fabiano regravará a prática; a v0.5 preserva a fonte integrada anterior. |
 | M2.3 | [[M2.3 - Trilha de exposição v0.3]] e [[M2.3 - Apresentação editável v0.3]]: 24 telas/notas, sequência nativa 6. Notas objetivas com uma frase por linha e prática em momentos distintos. A integração substantiva da v0.2 permanece; guias/kits v0.2 conservam a redação anterior. |
 | M2.4 | [[M2.4 - Trilha de exposição v0.3]] e [[M2.4 - Apresentação editável v0.3]]: 29 telas/notas, sequência nativa 8. Configuração, autores, mapas e quatro passos preservados; realização e elaboração separadas, com pausas. Guias/kits v0.2 conservam a redação anterior. |
 | M2.5–M2.6 e M3–M8 | Orientação estrutural no dossiê; novos roteiros e suportes integrais ainda a compor nesta frente. |
@@ -34,7 +35,7 @@ Fabiano enviou a [gravação M2.1, 37min56s](https://chatgpt.com/library?file_id
 
 ## Condução e gravação separada de M2.2 — 22/11/2026
 
-Fabiano informou que regravará a prática e adotou duas partes a partir de M2.2 quando houver prática autônoma: compreensão/fundamentos e prática guiada/integração, mantendo a unidade de aula. [[M2.2 - Prática guiada v1]] localiza a apresentação independente de 10 telas, o roteiro Word de cinco páginas, as fontes e o diagnóstico completo da gravação anterior. As duas perguntas têm telas próprias; os três registros são reconhecíveis; pausas, comparação, retorno à situação, encerramento e elaboração seguem em ordem. O vídeo da nova prática e a separação do arquivo conceitual não foram produzidos nesta entrega.
+Fabiano informou que regravará a prática e adotou duas partes a partir de M2.2 quando houver prática autônoma: compreensão/fundamentos e prática guiada/integração, mantendo a unidade de aula. [[M2.2 - Prática guiada v1]] localiza a apresentação independente de 10 telas, o roteiro Word de cinco páginas, as fontes e o diagnóstico completo da gravação anterior. As duas perguntas têm telas próprias; os três registros são reconhecíveis; pausas, comparação, retorno à situação, encerramento e elaboração seguem em ordem. A separação e edição da parte conceitual foi realizada posteriormente em [[M2.2 - Edição da gravação parte 1 v1]]: 28min13s, com acabamento de áudio/imagem, cortes pontuais de redundância e imprecisões, apoio visual sobre inibição latente e fechamento para o segundo vídeo. A nova prática será gravada por Fabiano; não foi produzida nesta edição.
 
 ## Revisão das notas M2.3 e M2.4 — 22/11/2026
 
@@ -55,3 +56,4 @@ Exemplos genéricos recebem contexto a cada retomada e ampliam uma relação, se
 [[Anexos M2 - Conteúdos imagens e destinos de resgate]] localiza quatro PowerPoints, 255 lâminas, duas imagens de Milgram, originais, textos e mídias. [[Claustro - Atenção, integração e estados de consciência no TSH]] oferece destino específico; não introduzir esse conteúdo automaticamente em M2.4. [[M2.4 - Prévia de conteúdo e contribuições v0.1]] conserva a seleção e sua aplicação posterior. [[TSH - Revisão de Profundidade e Percurso - 22-11-2026]] preserva a comparação progressiva e a resposta aplicada.
 
 O desvio anterior foi de seleção e articulação do assistente diante de fontes densas. Consultar títulos e montar uma cadeia genérica não satisfaz a produção. Ler passagens pertinentes e aulas anteriores reais; desenvolver raciocínio e investigação antes da montagem; conferir a contribuição concreta nos suportes finais. A inspeção visual e a correspondência de arquivos têm alcance técnico e não medem aprendizagem. O Site não é a frente solicitada. Manter a entrega conjunta em um ZIP para evitar vários downloads.
+
