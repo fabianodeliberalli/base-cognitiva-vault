@@ -1,0 +1,849 @@
+{
+  "lesson": "M2.2",
+  "part": 2,
+  "title": "O que cada pergunta destaca?",
+  "version": "1",
+  "date": "2026-11-22",
+  "pageId": "page_b4a2a7c376008191b2e89f8f7d1119b3",
+  "nativeSequence": 4,
+  "format": "pratica-guiada-e-integracao",
+  "canvas": {
+    "width": 1280,
+    "height": 720
+  },
+  "palette": {
+    "navy": "#082A45",
+    "blue": "#245E78",
+    "petroleum": "#173F52",
+    "copper": "#C99A64",
+    "beige": "#F4EFEA"
+  },
+  "assets": {
+    "gold": "library-file:fde1_bGliZmlsZV9zQ2VtbTkwQ2pQMTh4WFdWNTVlcjdn_FileDrive_ad925f8fadbc81918eab9ef0eafee9a9",
+    "blue": "library-file:fde1_bGliZmlsZV9zWVhtSUtONUR6N2x4Zi1XT3IwazFB_FileDrive_ad925f8fadbc81918eab9ef0eafee9a9",
+    "symbolGold": "library-file:fde1_bGliZmlsZV9NRWxXSnpqbW9qdVdHbHIzZVFKSGFn_FileDrive_ad925f8fadbc81918eab9ef0eafee9a9"
+  },
+  "sourceVersion": "M2.2 v0.5",
+  "sourceRecovery": [
+    {
+      "path": "20 - Notas Conceituais/Mapa Funcional Transversal dos Três Eus.md",
+      "sha": "ce9c891ef490614a5c1efb0e37d4c8b24732ebac",
+      "scope": "genealogia, memória e funções dos Três Eus"
+    },
+    {
+      "path": "20 - Notas Conceituais/O Límbico como Porta - Eu Básico, Bion e Morin no TSH.md",
+      "sha": "2cbb3cee29fc8335dd96990bd15e1ba12e264068",
+      "scope": "formação da forma, Bion e elaboração emocional"
+    },
+    {
+      "path": "20 - Notas Conceituais/Tradução da Experiência Humana.md",
+      "sha": "7a6f4e19f8dbc1e97dca063e8c78b070d1d113ae",
+      "scope": "Tradução, sentido, origem e finalidade formativa"
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/Meditação Psicoterapia e Música/00 - Naranjo - Consulta e Destinos nas Aulas.md",
+      "sha": "c337517ab220f3cd0d8deaa7cc39703761d5d13f",
+      "scope": "atitude, intenção e condução da prática"
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 2/M2.1 - Conteúdo das telas e notas v0.8.json",
+      "sha": "66b55f1e4823163bf663d847eb536347747d3a10",
+      "scope": "progressão real a partir de M2.1"
+    }
+  ],
+  "productionDecision": "Fabiano adotou a gravação em duas partes a partir de M2.2 quando houver prática autônoma: compreensão/fundamentos e prática guiada/integração, mantendo uma unidade de aula.",
+  "designAdaptations": [
+    "Cópia de telas nativas da v0.5; marca e campos visuais preservados.",
+    "Duas perguntas em telas distintas; cada uma destaca um ponto do mesmo campo.",
+    "Comparação das três observações sem setas de progresso ou vencedora visual.",
+    "Conferência aberta e encerramento em telas próprias; elaboração somente depois."
+  ],
+  "notesPolicy": "Uma frase completa por linha, blocos separados; instruções e PAUSA em ordem de uso, sem bibliografia ou bastidores nas notas.",
+  "slides": [
+    {
+      "number": 1,
+      "title": "O que cada pergunta destaca?",
+      "sourceSlide": 1,
+      "notes": "Na primeira parte da aula, acompanhamos como algo ganha importância e encontra uma forma de expressão.\nAgora vamos observar como duas perguntas modificam o que ganha destaque numa mesma situação.\n\nVamos conservar uma observação inicial e um registro de cada pergunta para comparar depois.\nVocê pode usar palavras, desenho ou gesto.\nEscolha uma forma que consiga retomar ao longo da prática.\nOs registros podem permanecer só com você.\n\nFaça a prática num momento em que possa dedicar atenção a ela.\nSe estiver dirigindo, reserve para depois.\nVocê pode adaptar ou interromper a exploração quando precisar.\n\nNa próxima tela, começamos pela escolha da situação.",
+      "screen": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 650,
+            "height": 24
+          }
+        },
+        {
+          "name": "cover-label",
+          "text": "M2.2 · PARTE 2\nPRÁTICA GUIADA",
+          "position": {
+            "left": 72,
+            "top": 143,
+            "width": 790,
+            "height": 65
+          }
+        },
+        {
+          "name": "cover-title",
+          "text": "O que cada pergunta\ndestaca?",
+          "position": {
+            "left": 72,
+            "top": 240,
+            "width": 825,
+            "height": 205
+          }
+        },
+        {
+          "name": "presenter",
+          "text": "Fabiano Deliberalli",
+          "position": {
+            "left": 72,
+            "top": 618,
+            "width": 760,
+            "height": 42
+          }
+        },
+        {
+          "name": "official-subtitle",
+          "text": "Da compreensão acumulada\nà presença que sustenta",
+          "position": {
+            "left": 930,
+            "top": 570,
+            "width": 292,
+            "height": 64
+          }
+        },
+        {
+          "name": "practice-path",
+          "text": "Observar · Mudar a pergunta · Conferir",
+          "position": {
+            "left": 72,
+            "top": 501,
+            "width": 830,
+            "height": 80
+          }
+        }
+      ],
+      "imageReferences": []
+    },
+    {
+      "number": 2,
+      "title": "Escolha uma situação",
+      "sourceSlide": 14,
+      "notes": "Retome uma situação da aula anterior ou escolha uma que queira compreender agora.\nPode ser uma relação, uma criação ou algo que deseja desenvolver.\nEscolha algo que consiga acompanhar neste momento.\n\nSitue brevemente o que está acontecendo.\nGuarde essa situação como referência para toda a prática.\n\nPause o vídeo agora e retome quando tiver feito sua escolha.\n\nPAUSA",
+      "screen": [
+        {
+          "name": "course",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 800,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "Escolha uma situação",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 122
+          }
+        },
+        {
+          "name": "footer",
+          "text": "M2.2 · Prática · 2 / 10",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 440,
+            "height": 22
+          }
+        },
+        {
+          "name": "receive",
+          "text": "Qual situação você\nquer compreender?",
+          "position": {
+            "left": 662,
+            "top": 283,
+            "width": 530,
+            "height": 130
+          }
+        },
+        {
+          "name": "receive-support",
+          "text": "Mantenha a mesma situação\nao longo da prática.",
+          "position": {
+            "left": 662,
+            "top": 463,
+            "width": 510,
+            "height": 110
+          }
+        },
+        {
+          "name": "pause-cue",
+          "text": "Pause o vídeo para escolher.",
+          "position": {
+            "left": 662,
+            "top": 588,
+            "width": 535,
+            "height": 43
+          }
+        }
+      ],
+      "imageReferences": []
+    },
+    {
+      "number": 3,
+      "title": "Como essa situação aparece agora?",
+      "sourceSlide": 14,
+      "notes": "Traga a situação escolhida à atenção.\nComo ela se apresenta agora?\nPerceba o que acontece em você ao olhar para ela.\n\nEncontre uma expressão breve para o que reconheceu.\nGuarde como sua observação de antes das perguntas.\n\nPause o vídeo agora para fazer esse primeiro registro.\nRetome quando terminar.\n\nPAUSA",
+      "screen": [
+        {
+          "name": "course",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 800,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "Como essa situação aparece agora?",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 122
+          }
+        },
+        {
+          "name": "footer",
+          "text": "M2.2 · Prática · 3 / 10",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 440,
+            "height": 22
+          }
+        },
+        {
+          "name": "receive",
+          "text": "Perceba e encontre\numa expressão breve.",
+          "position": {
+            "left": 662,
+            "top": 283,
+            "width": 530,
+            "height": 130
+          }
+        },
+        {
+          "name": "receive-support",
+          "text": "Guarde como sua observação\nde antes das perguntas.",
+          "position": {
+            "left": 662,
+            "top": 463,
+            "width": 510,
+            "height": 110
+          }
+        },
+        {
+          "name": "pause-cue",
+          "text": "Pause o vídeo para o primeiro registro.",
+          "position": {
+            "left": 662,
+            "top": 588,
+            "width": 535,
+            "height": 43
+          }
+        }
+      ],
+      "imageReferences": []
+    },
+    {
+      "number": 4,
+      "title": "Primeira pergunta",
+      "sourceSlide": 15,
+      "notes": "Mantenha a mesma situação em mente.\nAgora pergunte: o que eu preciso resolver aqui?\nObserve o que essa pergunta coloca em primeiro plano.\n\nRegistre brevemente essa observação como “Resolver”.\n\nPause o vídeo agora e retome quando terminar esse registro.\n\nPAUSA",
+      "screen": [
+        {
+          "name": "course",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 800,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "Primeira pergunta",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 122
+          }
+        },
+        {
+          "name": "footer",
+          "text": "M2.2 · Prática · 4 / 10",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 440,
+            "height": 22
+          }
+        },
+        {
+          "name": "question-one",
+          "text": "O que eu preciso\nresolver aqui?",
+          "position": {
+            "left": 662,
+            "top": 285,
+            "width": 535,
+            "height": 165
+          }
+        },
+        {
+          "name": "record-label",
+          "text": "Registro: Resolver",
+          "position": {
+            "left": 662,
+            "top": 489,
+            "width": 520,
+            "height": 55
+          }
+        },
+        {
+          "name": "pause-cue",
+          "text": "Pause o vídeo para perceber e registrar.",
+          "position": {
+            "left": 662,
+            "top": 588,
+            "width": 535,
+            "height": 43
+          }
+        }
+      ],
+      "imageReferences": []
+    },
+    {
+      "number": 5,
+      "title": "Segunda pergunta",
+      "sourceSlide": 15,
+      "notes": "Volte à mesma situação com esta outra pergunta.\nQue possibilidade de vida procura expressão aqui?\nAcompanhe o que aparece.\n\nRegistre essa observação como “Possibilidade”.\n\nPause o vídeo agora e retome quando terminar esse registro.\n\nPAUSA",
+      "screen": [
+        {
+          "name": "course",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 800,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "Segunda pergunta",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 122
+          }
+        },
+        {
+          "name": "footer",
+          "text": "M2.2 · Prática · 5 / 10",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 440,
+            "height": 22
+          }
+        },
+        {
+          "name": "question-one",
+          "text": "Que possibilidade de vida\nprocura expressão aqui?",
+          "position": {
+            "left": 662,
+            "top": 285,
+            "width": 535,
+            "height": 165
+          }
+        },
+        {
+          "name": "record-label",
+          "text": "Registro: Possibilidade",
+          "position": {
+            "left": 662,
+            "top": 489,
+            "width": 520,
+            "height": 55
+          }
+        },
+        {
+          "name": "pause-cue",
+          "text": "Pause o vídeo para perceber e registrar.",
+          "position": {
+            "left": 662,
+            "top": 588,
+            "width": 535,
+            "height": 43
+          }
+        }
+      ],
+      "imageReferences": []
+    },
+    {
+      "number": 6,
+      "title": "O que cada aproximação mostrou?",
+      "sourceSlide": 17,
+      "notes": "Retome os três registros: antes das perguntas, Resolver e Possibilidade.\nO que ganhou destaque em cada aproximação?\n\nCompare o que mudou e o que permaneceu.\nOs registros podem mostrar diferenças ou apontar para algo que continuou igual.\n\nPause o vídeo para conferir essas observações.\nRetome quando terminar a comparação.\n\nPAUSA",
+      "screen": [
+        {
+          "name": "course",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 800,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "O que cada aproximação mostrou?",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 122
+          }
+        },
+        {
+          "name": "footer",
+          "text": "M2.2 · Prática · 6 / 10",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 440,
+            "height": 22
+          }
+        },
+        {
+          "name": "first",
+          "text": "Antes das perguntas",
+          "position": {
+            "left": 80,
+            "top": 277,
+            "width": 330,
+            "height": 100
+          }
+        },
+        {
+          "name": "questions",
+          "text": "Resolver",
+          "position": {
+            "left": 475,
+            "top": 277,
+            "width": 330,
+            "height": 100
+          }
+        },
+        {
+          "name": "return",
+          "text": "Possibilidade",
+          "position": {
+            "left": 870,
+            "top": 277,
+            "width": 330,
+            "height": 100
+          }
+        },
+        {
+          "name": "after-comparison",
+          "text": "O que mudou?\nO que permaneceu?",
+          "position": {
+            "left": 130,
+            "top": 446,
+            "width": 1020,
+            "height": 120
+          }
+        },
+        {
+          "name": "pause-cue",
+          "text": "Pause o vídeo para comparar.",
+          "position": {
+            "left": 662,
+            "top": 588,
+            "width": 535,
+            "height": 43
+          }
+        }
+      ],
+      "imageReferences": []
+    },
+    {
+      "number": 7,
+      "title": "O que mais precisa ser considerado?",
+      "sourceSlide": 16,
+      "notes": "Agora deixe os registros de lado por um momento.\nVolte à situação concreta que escolheu.\n\nHá algo importante que ainda não foi considerado?\nDê espaço ao que aparece, sem precisar forçar uma resposta.\nSe houver um acréscimo, conserve junto dos registros.\n\nPause o vídeo para fazer essa última conferência.\nRetome quando estiver pronto para concluir.\n\nPAUSA",
+      "screen": [
+        {
+          "name": "course",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 800,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "O que mais precisa ser considerado?",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 122
+          }
+        },
+        {
+          "name": "footer",
+          "text": "M2.2 · Prática · 7 / 10",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 440,
+            "height": 22
+          }
+        },
+        {
+          "name": "reopen",
+          "text": "Há algo importante\nque ainda não foi\nconsiderado?",
+          "position": {
+            "left": 662,
+            "top": 275,
+            "width": 535,
+            "height": 180
+          }
+        },
+        {
+          "name": "return-to-whole",
+          "text": "Volte à situação concreta.",
+          "position": {
+            "left": 662,
+            "top": 490,
+            "width": 535,
+            "height": 65
+          }
+        },
+        {
+          "name": "pause-cue",
+          "text": "Pause o vídeo para conferir.",
+          "position": {
+            "left": 662,
+            "top": 588,
+            "width": 535,
+            "height": 43
+          }
+        }
+      ],
+      "imageReferences": []
+    },
+    {
+      "number": 8,
+      "title": "Concluir a prática",
+      "sourceSlide": 14,
+      "notes": "Vamos concluir a prática.\nDeixe a situação de lado.\nReconheça o ambiente em que está agora.\nPerceba o apoio do corpo e retome seus movimentos.\n\nPAUSA\n\nA prática termina aqui.\nAgora vamos elaborar o que foi possível reconhecer.",
+      "screen": [
+        {
+          "name": "course",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 800,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "Concluir a prática",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 122
+          }
+        },
+        {
+          "name": "footer",
+          "text": "M2.2 · Prática · 8 / 10",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 440,
+            "height": 22
+          }
+        },
+        {
+          "name": "set-aside",
+          "text": "Deixe a situação de lado.",
+          "position": {
+            "left": 100,
+            "top": 278,
+            "width": 1050,
+            "height": 70
+          }
+        },
+        {
+          "name": "room",
+          "text": "Reconheça o ambiente.",
+          "position": {
+            "left": 100,
+            "top": 371,
+            "width": 1080,
+            "height": 90
+          }
+        },
+        {
+          "name": "movement",
+          "text": "Retome seus movimentos.",
+          "position": {
+            "left": 100,
+            "top": 490,
+            "width": 1080,
+            "height": 70
+          }
+        }
+      ],
+      "imageReferences": []
+    },
+    {
+      "number": 9,
+      "title": "O que a experiência permite compreender?",
+      "sourceSlide": 18,
+      "notes": "A pergunta sobre resolver pode ter evidenciado um compromisso, um limite ou uma condição que precisa mudar.\nA pergunta sobre uma possibilidade de vida pode ter dado espaço a um desejo ou mostrado a importância de uma solução prática.\nAs duas perguntas podem revelar diferenças ou apontar para a mesma necessidade.\n\nUma cobrança de trabalho pode envolver um compromisso real e a necessidade de negociar um limite.\nUma vontade de dançar pode pedir espaço para experimentar e condições que ajudem a participar.\n\nO que ganhou importância depende da situação e também da maneira como nos aproximamos dela.\nNa linguagem dos dois tempos da Tradução, o que apareceu encontrou uma forma, foi elaborado e pôde ser conferido de novo na experiência.\nÉ essa participação que estamos investigando.\n\nEsse reconhecimento faz parte do caminho de integrar e expressar possibilidades da Essência na vida concreta.",
+      "screen": [
+        {
+          "name": "course",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 800,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "O que a experiência permite compreender?",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 122
+          }
+        },
+        {
+          "name": "footer",
+          "text": "M2.2 · Prática · 9 / 10",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 440,
+            "height": 22
+          }
+        },
+        {
+          "name": "demand",
+          "text": "Uma demanda que chega",
+          "position": {
+            "left": 101,
+            "top": 287,
+            "width": 490,
+            "height": 70
+          }
+        },
+        {
+          "name": "demand-question",
+          "text": "Compromisso e limite\nO que precisa ser negociado?",
+          "position": {
+            "left": 101,
+            "top": 395,
+            "width": 490,
+            "height": 113
+          }
+        },
+        {
+          "name": "possibility",
+          "text": "Uma possibilidade\nque procura espaço",
+          "position": {
+            "left": 689,
+            "top": 282,
+            "width": 490,
+            "height": 90
+          }
+        },
+        {
+          "name": "possibility-question",
+          "text": "Desejo e proteção\nO que precisa ser desenvolvido?",
+          "position": {
+            "left": 689,
+            "top": 395,
+            "width": 490,
+            "height": 113
+          }
+        },
+        {
+          "name": "action",
+          "text": "A continuidade depende do que a experiência pede.",
+          "position": {
+            "left": 72,
+            "top": 588,
+            "width": 1120,
+            "height": 51
+          }
+        }
+      ],
+      "imageReferences": []
+    },
+    {
+      "number": 10,
+      "title": "A Cartografia conserva o percurso",
+      "sourceSlide": 19,
+      "notes": "Aproveite esses registros na Cartografia que já estamos construindo.\n\nNa Situação, conserve o que escolheu investigar e seu contexto.\nNa Manifestação, guarde a primeira observação e as diferenças que reconheceu durante a prática.\nNa Tradução provisória, registre o que compreendeu e o que ainda permanece em aberto.\nNa Orientação possível, escolha uma condição ou um próximo passo que permita continuar.\n\nPode ser buscar uma informação, conversar, negociar um limite ou desenvolver uma capacidade.\nA continuidade depende do que sua experiência pede.\n\nNa próxima aula, vamos investigar como uma leitura se torna certeza e como recuperar outras pistas para conferi-la.",
+      "screen": [
+        {
+          "name": "course",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 800,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "A Cartografia conserva o percurso",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 122
+          }
+        },
+        {
+          "name": "footer",
+          "text": "M2.2 · Prática · 10 / 10",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 440,
+            "height": 22
+          }
+        },
+        {
+          "name": "record-title-0",
+          "text": "Situação",
+          "position": {
+            "left": 124,
+            "top": 270,
+            "width": 420,
+            "height": 42
+          }
+        },
+        {
+          "name": "record-body-0",
+          "text": "Situação escolhida e contexto",
+          "position": {
+            "left": 567,
+            "top": 270,
+            "width": 590,
+            "height": 53
+          }
+        },
+        {
+          "name": "record-title-1",
+          "text": "Manifestação",
+          "position": {
+            "left": 124,
+            "top": 354,
+            "width": 420,
+            "height": 42
+          }
+        },
+        {
+          "name": "record-body-1",
+          "text": "Primeira observação e diferenças percebidas",
+          "position": {
+            "left": 567,
+            "top": 354,
+            "width": 590,
+            "height": 53
+          }
+        },
+        {
+          "name": "record-title-2",
+          "text": "Tradução provisória",
+          "position": {
+            "left": 124,
+            "top": 438,
+            "width": 420,
+            "height": 42
+          }
+        },
+        {
+          "name": "record-body-2",
+          "text": "Compreensão e perguntas que permanecem",
+          "position": {
+            "left": 567,
+            "top": 438,
+            "width": 590,
+            "height": 53
+          }
+        },
+        {
+          "name": "record-title-3",
+          "text": "Orientação possível",
+          "position": {
+            "left": 124,
+            "top": 522,
+            "width": 420,
+            "height": 42
+          }
+        },
+        {
+          "name": "record-body-3",
+          "text": "Uma condição ou um próximo passo",
+          "position": {
+            "left": 567,
+            "top": 522,
+            "width": 590,
+            "height": 53
+          }
+        }
+      ],
+      "imageReferences": []
+    }
+  ],
+  "nativeSnapshot": {
+    "format": "gzip-base64",
+    "description": "JSON lossless de presentation.toProto; decompress com gzip/base64 para recuperar todos os elementos, estilos, notas e referências de imagem.",
+    "data": "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"
+  }
+}

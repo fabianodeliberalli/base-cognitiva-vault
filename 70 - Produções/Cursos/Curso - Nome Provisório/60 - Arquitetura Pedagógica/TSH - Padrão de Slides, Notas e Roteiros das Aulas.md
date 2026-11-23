@@ -2,7 +2,7 @@
 tipo: padrao-de-producao
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "2.7"
+versao: "2.8"
 criado_em: 2026-11-02
 atualizado_em: 2026-11-22
 aplica_se_a: futuras producoes de aulas, slides, notas e apoios do TSH
@@ -56,6 +56,14 @@ Conferência visual, limpeza das notas, igualdade de hashes e revisão de uma pr
 A avaliação passou a incluir M2.3 v0.1: há desenvolvimento de confirmação, dissonância/Festinger, absorção, Erickson e retorno, mas a ligação com os dois tempos da Tradução ficou implícita. Integrar as contribuições à passagem entre forma vivida, elaboração e convicção. A M2.4 deve partir do que essa investigação alcança e do que permanece organizado mesmo após a revisão da leitura. [[TSH - Revisão de Profundidade e Percurso - 22-11-2026]] e [[01 - Plano de produção das seis aulas M2]] desenvolvem a comparação e localizam a aplicação nas revisões M2.3 v0.2 e M2.4 v0.2.
 
 Na fonte de cada aula, a prévia e o desenvolvimento devem permitir reconhecer a pergunta, o aprendizado anterior retomado, a contribuição concreta das fontes e formulações autorais, as relações a ensinar e a investigação que a prática realiza. Esses elementos compõem o material de trabalho, sem criar outro relatório ou exigir formulário do autor. O assistente confere sua presença no conteúdo real antes de apresentar a composição como adequada; se faltar uma relação central, precisa desenvolvê-la. Esse exame antecede a conclusão da montagem e volta a ser feito sobre o artefato. Um apoio bem acabado e uma lista de bibliografia não corrigem uma explicação rasa.
+
+### Gravações em duas partes — decisão de 22/11/2026
+
+Fabiano adotou, a partir de M2.2, a gravação separada nas aulas com prática autônoma: **compreensão e fundamentos** na primeira parte; **prática guiada e integração** na segunda, mantendo a unidade da aula. Observações breves e experiências entrelaçadas à explicação continuam possíveis; não impor dois vídeos a todo conteúdo. A prática independente inclui propósito breve, preparação pertinente, realização, pausas, comparação quando prevista, encerramento, elaboração e continuidade. Sua duração e quantidade de telas acompanham a investigação.
+
+Na primeira parte, notas como trilha para exposição livre, com fundamentos e relações desenvolvidos. Na prática, frases naturais de condução, uma frase por linha, ações na ordem de uso e pausas visíveis. Distinguir a situação escolhida das perguntas dirigidas a ela; dizer o que conservar e comparar. Apresentar uma pergunta por momento visual quando a simultaneidade atrapalhar. Orientar pausa/retomada quando a tarefa exige tempo; evitar intercalar explicações conceituais extensas na realização. A elaboração retoma os fundamentos depois do encerramento, conservando a abertura da experiência. O aviso PAUSA é apoio breve de consulta, sem blocos de bastidores.
+
+Uma fonte integrada por aula, com blocos de gravação distintos; um apoio do aluno coerente com o conjunto. Organização prevista na Hotmart: dois vídeos na mesma aula, sem alterar os nove módulos e as 59 aulas. [[M2.2 - Prática guiada v1]] é a aplicação inicial. A adoção não declara gravações realizadas nem todos os materiais anteriores reorganizados.
 
 ## 3. Lógica da trilha e andamento da aula
 
