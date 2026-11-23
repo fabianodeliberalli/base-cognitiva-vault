@@ -1,5 +1,4 @@
----
-tipo: estado-e-continuidade-de-producao
+| M2.2 | [[M2.2 - Prática guiada v1]]: parte prática independente de 10 telas, sequência 4, com roteiro Word de cinco páginas. [[M2.2 - Trilha de exposição v0.5]] conserva fundamentos e fonte integrada anterior, 20 telas. Gravação anterior recebida; Fabiano regravará a prática. |ntinuidade-de-producao
 projeto: Traduzindo o Ser Humano
 modulo: M2
 status: producao-em-curso
@@ -11,7 +10,7 @@ arquitetura_atual: nove módulos e 59 aulas
 
 ## Forma de trabalho
 
-O modelo adotado em M2.1 é a trilha para exposição livre, com visão inicial e passos visuais. Os quatro campos de notas orientam a exposição conforme sua função; na realização de práticas, usar momentos reconhecíveis e instruções diretas. Uma frase completa por linha e espaço entre blocos facilitam a consulta, com objetividade que preserva fundamentos, articulações e retomadas didáticas úteis. [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] v2.7 e [[13 - Base de Produção Autoral e Didática - Fabiano Deliberalli]] v1.5 orientam a aplicação. A clareza torna ensinável a densidade autoral e dos fundamentos. M0 é acolhimento e não determina o nível das aulas seguintes.
+O modelo adotado em M2.1 é a trilha para exposição livre, com visão inicial e passos visuais. Os quatro campos de notas orientam a exposição conforme sua função; na realização de práticas, usar momentos reconhecíveis e instruções diretas. Uma frase completa por linha e espaço entre blocos facilitam a consulta, com objetividade que preserva fundamentos, articulações e retomadas didáticas úteis. [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] v2.8 e [[13 - Base de Produção Autoral e Didática - Fabiano Deliberalli]] v1.5 orientam a aplicação. A clareza torna ensinável a densidade autoral e dos fundamentos. M0 é acolhimento e não determina o nível das aulas seguintes.
 
 Os registros de produção acompanham versões, arquivos, alterações e trabalho restante. Omitir campos, pendências e lembretes de aprovação para gravação.
 
@@ -33,15 +32,9 @@ Fabiano enviou a [gravação M2.1, 37min56s](https://chatgpt.com/library?file_id
 
 [[M2.1 - Edição da gravação v1]] localiza a cópia editada, o original, os cortes e o parecer editorial. Duração de 37min56s para 34min43s; retiradas operação, antecipação duplicada da prática, reexplicação no meio da realização e reinícios. Tela preta do fechamento recomposta sob a câmera original; voz e conteúdo central preservados. Recomendação do assistente: aproveitar a edição, sem regravar integralmente; somente o bloco prático seria opção de outro acabamento. As fontes dos slides gravados v0.8 permanecem.
 
-## Avaliação da condução na gravação M2.2 — 22/11/2026
+## Condução e gravação separada de M2.2 — 22/11/2026
 
-Fabiano enviou a [gravação M2.2, 36min59s](https://chatgpt.com/library?file_id=libfile_fde3_f-dbc212b33bd08191956ed98dc3a15dd8_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal) e relatou notas ainda emboladas durante a prática. A avaliação aprofundada concentrou-se no trecho prático, comparado à trilha v0.5; também foram examinados quadros do percurso completo. Os títulos visíveis das telas 14–16 correspondem aos refinamentos da v0.5.
-
-**Achados editoriais:** por volta de 30:55–31:20, a primeira pergunta é seguida de explicação sobre saliência e Eu Básico/Eu Médio antes da segunda orientação. Em 31:28–32:08, segunda pergunta, registro e retorno sucedem-se com pouco espaço de realização, e pausar o vídeo é oferecido de modo opcional, sem um ponto de retomada definido. Entre aproximadamente 32:07–32:33, encontrar expressão, conservar pergunta e encerrar pedem reorganização na fala. As notas v0.5 já distinguem funções, mas a tela 15 reúne duas perguntas/registros e a 16 acumula retorno, comparação, nova expressão e encerramento. A frase “Encontre uma expressão que comporte o que reconhece agora ou conserve a pergunta que permanece aberta” contém alternativas que ainda precisam ser resolvidas durante a condução. “Questão” e “pergunta” também podem perder seu referente.
-
-**Proposta de correção:** distinguir situação escolhida das perguntas dirigidas a ela; indicar o que conservar para comparar; conduzir uma aproximação por vez, com instrução clara de pausa/retomada quando o registro pede tempo; levar as conexões conceituais para a elaboração após a realização. As duas perguntas podem receber momentos visuais separados se isso tornar a condução melhor, sem prender a aula a 20 telas. Conservar a investigação sobre a participação das perguntas, sem presumir que a segunda será mais verdadeira ou produzirá melhora. Profundidade do fundamento e clareza da ação continuam juntas.
-
-A revisão anterior de texto não demonstrou ainda facilidade de condução no uso real. Este registro conserva o diagnóstico e a proposta; não declara as apresentações, os guias ou os vídeos novamente editados. O achado localizado permite avaliar edição do trecho ou regravação apenas da condução, sem indicar por si regravação integral da aula.
+Fabiano informou que regravará a prática e adotou duas partes a partir de M2.2 quando houver prática autônoma: compreensão/fundamentos e prática guiada/integração, mantendo a unidade de aula. [[M2.2 - Prática guiada v1]] localiza a apresentação independente de 10 telas, o roteiro Word de cinco páginas, as fontes e o diagnóstico completo da gravação anterior. As duas perguntas têm telas próprias; os três registros são reconhecíveis; pausas, comparação, retorno à situação, encerramento e elaboração seguem em ordem. O vídeo da nova prática e a separação do arquivo conceitual não foram produzidos nesta entrega.
 
 ## Revisão das notas M2.3 e M2.4 — 22/11/2026
 

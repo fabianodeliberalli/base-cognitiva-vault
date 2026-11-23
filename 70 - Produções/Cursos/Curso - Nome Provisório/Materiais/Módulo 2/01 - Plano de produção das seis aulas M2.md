@@ -2,13 +2,15 @@
 tipo: plano-de-producao
 projeto: Traduzindo o Ser Humano
 modulo: M2
-versao: "0.11"
+versao: "0.12"
 data: 2026-11-22
 status: revisao-substantiva
 arquitetura: nove-modulos-59-aulas
 ---
 
 # Módulo 2 — Plano de produção das seis aulas
+
+Fabiano adotou, em 22/11/2026, duas partes de gravação a partir de M2.2 nas aulas com prática autônoma: compreensão/fundamentos e prática guiada/integração, mantendo a mesma aula. [[M2.2 - Prática guiada v1]] localiza a aplicação inicial, com 10 telas e roteiro próprio. M2.3/M2.4 v0.3 conservam as fontes integradas; a adoção orienta sua próxima preparação, sem declará-las já separadas. Preservar fundamentos e a unidade entre sentir, compreender e participar.
 
 Revisão solicitada por Fabiano para recuperar a profundidade de suas práticas, literatura e elaborações. M2 desenvolve a constituição da experiência, a relevância e a simbolização, a experiência de certeza, a repetição, a distinção entre vivido/sentido/origem e a Tradução recursiva. As cenas funcionam como aplicação e não como substituição dos fundamentos.
 

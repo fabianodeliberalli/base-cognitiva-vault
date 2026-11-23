@@ -2,7 +2,7 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.56"
+versao: "0.57"
 atualizado_em: 2026-11-22
 ---
 
@@ -18,7 +18,7 @@ Fabiano precisou reiterar em 22/11/2026 a crítica à produção básica diante 
 
 O assistente confere se as contribuições recuperadas mudam o conteúdo, as perguntas e a prática, e se as relações centrais chegam ao material efetivo. Comparar a qualidade de raciocínio e exploração com os exemplares pertinentes, além da aparência. Se uma relação central faltar, desenvolvê-la; se a fonte indispensável estiver inacessível, explicitar a lacuna. Não preencher silenciosamente com uma aula genérica nem apresentar acabamento técnico como prontidão substantiva. Essa conferência integra o trabalho, sem formulário, relatório extra ou revisão obrigatória de Fabiano. Registro e consulta não demonstram aplicação por si.
 
-**Referências da construção:** [[13 - Base de Produção Autoral e Didática - Fabiano Deliberalli]] v1.5; [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] v2.7; [[TSH - Revisão de Profundidade e Percurso - 22-11-2026]]. A base geral também orienta outros trabalhos autorais, com o contexto próprio de cada projeto; não transportar automaticamente currículo ou identidade do TSH.
+**Referências da construção:** [[13 - Base de Produção Autoral e Didática - Fabiano Deliberalli]] v1.5; [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] v2.8; [[TSH - Revisão de Profundidade e Percurso - 22-11-2026]]. A base geral também orienta outros trabalhos autorais, com o contexto próprio de cada projeto; não transportar automaticamente currículo ou identidade do TSH.
 
 ## Identidade, finalidade e arquitetura atuais
 
@@ -38,7 +38,9 @@ Doze semanas foi uma estimativa provisória histórica; duração e cronograma d
 
 O modelo adotado em 22/11/2026 é uma trilha para exposição livre: visão inicial do percurso; slides como passos visuais; notas naturais com entrada, desenvolvimento, propósito e passagem. Os quatro campos são referência para exposição e elaboração; sua extensão acompanha a função do passo. Desenvolver termos novos e conexões; não escrever fala integral obrigatória nem deixar referências soltas. A extensão acompanha o aprendizado, sem quota de telas ou prática básica repetida. Referências completas, DOI e observações de pesquisa ficam no aprofundamento opcional do aluno, não nas notas de gravação.
 
-**Refinamento após a gravação M2.1:** Fabiano explicou que comentários de preenchimento também surgiram para ganhar tempo diante de notas confusas e repetidas. A correção incide no apoio: localizar o próximo passo com um olhar, retirar paráfrases entre campos e distinguir apresentação da prática, realização, pausa, elaboração e conclusão com avisos breves quando úteis. A realização pode ter instruções diretas sem quatro blocos explicativos por tela. O padrão v2.7 conserva o exemplo corrigido; o plano de M2 localiza a revisão pertinente em M2.2. Preservar a densidade dos fundamentos e a simplicidade adequada da condução.
+**Gravações em duas partes, adotadas por Fabiano a partir de M2.2:** nas aulas com prática autônoma, compreensão/fundamentos e prática guiada/integração em vídeos separados da mesma aula. A segunda parte contém preparação, realização, pausas, encerramento, elaboração e continuidade; observações breves podem continuar entrelaçadas à exposição. Uma fonte integrada e um apoio do aluno, preservando nove módulos e 59 aulas. O padrão v2.8 desenvolve a aplicação. [[M2.2 - Prática guiada v1]] localiza a primeira condução independente produzida; adoção não declara os demais arquivos já reorganizados.
+
+**Refinamento após a gravação M2.1:** Fabiano explicou que comentários de preenchimento também surgiram para ganhar tempo diante de notas confusas e repetidas. A correção incide no apoio: localizar o próximo passo com um olhar, retirar paráfrases entre campos e distinguir apresentação da prática, realização, pausa, elaboração e conclusão com avisos breves quando úteis. A realização pode ter instruções diretas sem quatro blocos explicativos por tela. O padrão v2.8 conserva o exemplo corrigido; o plano de M2 localiza a revisão pertinente em M2.2. Preservar a densidade dos fundamentos e a simplicidade adequada da condução.
 
 **Objetividade com densidade:** enxugar redundâncias, paráfrases e preâmbulos, preservando formulações autorais, fundamentos, relações centrais, termos explicados e exemplos pertinentes. Manter retomadas didáticas úteis, sem meta de corte ou quota de palavras/telas. Nas notas e no guia correspondente, uma frase completa por linha, com quebras explícitas e uma linha em branco entre blocos; preservar o encadeamento e a exposição livre. O padrão desenvolve a aplicação e apresenta os exemplos com essa disposição. O registro inicial dessa orientação não regenerou arquivos anteriores. M2.2 v0.5 e M2.3/M2.4 v0.3 aplicam o refinamento às notas e à condução, com fontes e apresentações salvas.
 
@@ -57,7 +59,7 @@ O entregável dirige-se ao aluno e é compreensível por si, com fundamentos des
 | Aula | Fonte atual e ponto de retomada |
 | --- | --- |
 | M2.1 | [[M2.1 - Trilha de exposição v0.8]]: constituição corporificada/relacional, enação, primeira pessoa, expressão e retorno. Trilha e suportes disponíveis. [[M2.1 - Edição da gravação v1]] localiza a cópia editada de 34min43s, original, operações e parecer editorial. |
-| M2.2 | [[M2.2 - Trilha de exposição v0.5]] e [[M2.2 - Apresentação editável v0.5]]: 20 telas e notas objetivas, uma frase por linha; fundamentos preservados, antecipação adaptativa e distinção entre apresentar, realizar e elaborar a prática. Sequência nativa 9. Guia v0.4 conserva notas anteriores; usar apresentação/trilha v0.5 nesta revisão. A adaptação dedo–palma saiu; práticas originais continuam no acervo. |
+| M2.2 | [[M2.2 - Prática guiada v1]]: apresentação independente de 10 telas e roteiro Word de cinco páginas, com condução, pausas, encerramento e elaboração. A v0.5 integrada conserva o desenvolvimento conceitual já gravado e sua genealogia. |
 | M2.3 | [[M2.3 - Trilha de exposição v0.3]] e [[M2.3 - Apresentação editável v0.3]]: 24 telas/notas, sequência 6. Integração forma/elaboração/convicção preservada; notas objetivas em frases por linha e prática com apresentação, realização, comparação e elaboração reconhecíveis. Guias/kits v0.2 conservam notas anteriores. |
 | M2.4 | [[M2.4 - Trilha de exposição v0.3]] e [[M2.4 - Apresentação editável v0.3]]: 29 telas/notas, sequência 8. Configuração, recursividade, aprendizagem, função/expressão e condições preservadas; quatro passos com recurso vivido, comparação e continuidade. Uma frase por linha, pausas e distinção de funções. Guias/kits v0.2 conservam notas anteriores. |
 | M2.5–M2.6 | Orientação estrutural: distinguir vivido/sentido/interpretação/origem e realizar Tradução recursiva. Novos materiais integrais ainda não produzidos nesta frente. |
