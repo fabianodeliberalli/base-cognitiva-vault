@@ -1,0 +1,153 @@
+{
+  "lesson": "M2.2",
+  "part": 1,
+  "title": "Por que alguns sinais ganham mais importância?",
+  "date": "2026-11-22",
+  "version": 1,
+  "source": {
+    "library_file_id": "libfile_fde3_f-dbc212b33bd08191956ed98dc3a15dd8_ad925f8fadbc81918eab9ef0eafee9a9",
+    "url": "https://chatgpt.com/library?file_id=libfile_fde3_f-dbc212b33bd08191956ed98dc3a15dd8_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal",
+    "filename": "M2.2.mp4",
+    "duration_seconds": 2218.602667,
+    "sha256": "91a795317930b7f1e3c1e18cee07363270f607ead036ee5dca87f1d1518bef3f"
+  },
+  "output": {
+    "library_file_id": "libfile_fde3_f-aeaf1bd48ac48191a5efb577b0a09855_ad925f8fadbc81918eab9ef0eafee9a9",
+    "url": "https://chatgpt.com/library?file_id=libfile_fde3_f-aeaf1bd48ac48191a5efb577b0a09855_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal",
+    "filename": "TSH_M2_2_Parte_1_Compreensao_e_fundamentos_v1.mp4",
+    "duration_seconds": 1692.92,
+    "size_bytes": 92125420,
+    "sha256": "007efdd03023bbb253efc21e9c7c981d2f12cb482b8a56b86a4ba5265412c7bc",
+    "width": 1920,
+    "height": 1080,
+    "fps": 25
+  },
+  "keep_intervals": [
+    {
+      "source_in_seconds": 2.0,
+      "source_out_seconds": 320.72,
+      "output_in_seconds": 0,
+      "output_out_seconds": 318.72
+    },
+    {
+      "source_in_seconds": 344.64,
+      "source_out_seconds": 460.84,
+      "output_in_seconds": 318.72,
+      "output_out_seconds": 434.92
+    },
+    {
+      "source_in_seconds": 482.96,
+      "source_out_seconds": 759.88,
+      "output_in_seconds": 434.92,
+      "output_out_seconds": 711.84
+    },
+    {
+      "source_in_seconds": 772.64,
+      "source_out_seconds": 1102.8,
+      "output_in_seconds": 711.84,
+      "output_out_seconds": 1042.0
+    },
+    {
+      "source_in_seconds": 1119.4,
+      "source_out_seconds": 1565.2,
+      "output_in_seconds": 1042.0,
+      "output_out_seconds": 1487.8
+    },
+    {
+      "source_in_seconds": 1572.48,
+      "source_out_seconds": 1773.6,
+      "output_in_seconds": 1487.8,
+      "output_out_seconds": 1688.92
+    }
+  ],
+  "end_card_seconds": 4,
+  "visual_addition": {
+    "source_interval_seconds": [
+      1553.04,
+      1580.36
+    ],
+    "output_interval_seconds": [
+      1475.64,
+      1495.68
+    ],
+    "asset": "TSH_M2_2_Inibicao_latente_v1.png",
+    "wording": "Um sinal apresentado sem consequência relevante → uma nova associação com esse sinal pode ser aprendida mais lentamente."
+  },
+  "layout": {
+    "main_crop_source": [
+      0,
+      90,
+      2880,
+      1620
+    ],
+    "output_size": [
+      1920,
+      1080
+    ],
+    "live_camera_crop_source": [
+      2432,
+      0,
+      448,
+      252
+    ],
+    "live_camera_output": [
+      1620,
+      0,
+      300,
+      168
+    ],
+    "cover_part_label_until_source_seconds": 43.32
+  },
+  "audio": {
+    "gain_db": 1.9,
+    "limiter_dbfs": -1.5,
+    "rate": 48000,
+    "channels": 2,
+    "splice_microfade_seconds": 0.008,
+    "time_stretch": false,
+    "synthetic_narration": false
+  },
+  "assets": {
+    "TSH_M2_2_Inibicao_latente_v1.png": {
+      "repository_path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 2/Assets Edicao M2.2/TSH_M2_2_Inibicao_latente_v1.png",
+      "sha256": "5f8217b210fd4131ad5c31af9b3ee9b211fbc6fca9606dc5bcb17e6a93bed51f"
+    },
+    "TSH_M2_2_Fechamento_parte_1_v1.png": {
+      "repository_path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 2/Assets Edicao M2.2/TSH_M2_2_Fechamento_parte_1_v1.png",
+      "sha256": "258cbe1e75c2bc49ad16a2a5ed09f2e77bbac474cd96f4c952de75338433f225"
+    }
+  },
+  "validation": {
+    "decode_result": "vídeo e áudio decodificados integralmente sem erros; o fluxo de vídeo permaneceu idêntico após ajuste apenas do áudio, conferido por SHA-256",
+    "video_duration_seconds": 1692.92,
+    "audio_duration_seconds": 1692.92,
+    "av_duration_difference_seconds": 0.0,
+    "integrated_lufs": -18.0,
+    "true_peak_dbfs": -1.5,
+    "frame_count": 42323,
+    "faststart": true,
+    "mp4_atoms": [
+      {
+        "type": "ftyp",
+        "offset": 0,
+        "size": 32
+      },
+      {
+        "type": "moov",
+        "offset": 32,
+        "size": 1291758
+      },
+      {
+        "type": "free",
+        "offset": 1291790,
+        "size": 8
+      },
+      {
+        "type": "mdat",
+        "offset": 1291798,
+        "size": 90833622
+      }
+    ],
+    "validation_scope": "Transcrição integral, emendas por limites de palavras/transcrição amostral, medidas de áudio, decodificação integral e inspeção de quadros. Não constitui mensuração de aprendizagem."
+  }
+}
