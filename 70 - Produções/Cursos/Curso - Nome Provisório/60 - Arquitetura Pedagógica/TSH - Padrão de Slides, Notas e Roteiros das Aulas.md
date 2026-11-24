@@ -2,7 +2,7 @@
 tipo: padrao-de-producao
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "2.12"
+versao: "2.13"
 criado_em: 2026-11-02
 atualizado_em: 2026-11-24
 aplica_se_a: futuras producoes de aulas, slides, notas e apoios do TSH
@@ -10,6 +10,9 @@ autor: Fabiano Deliberalli
 ---
 
 # Padrão de slides, notas e roteiros das aulas
+
+**Aplicação de tempo de produção — 24/11/2026:** [[TSH - Ordem de gravação e materiais - M2.2 a M2.4 - 24-11-2026]] substitui as práticas longas por conduções de 8/12/14 telas e 554/759/969 palavras faláveis. Não é quota. Fabiano tem tempo de gravação limitado; estimar extensão da fala, silêncios e retrabalho antes de entregar. Retirar redundâncias de abertura/demonstração/elaboração, mantendo operações ensinadas, registros estáveis e encerramento reconhecível. Uma operação reconhecível pode compartilhar um apoio visual com outra, desde que as notas indiquem a sucessão e as pausas sem ambiguidade. Não juntar operações só para baixar a contagem de slides. O aluno pode pausar para escrita; a gravação conserva silêncios de percepção. Teoria e apoio mantêm os fundamentos e a amplitude multidimensional. Alinhar notas, guia e apoio quando a operação mudar. As estimativas são referências de planejamento, não duração medida ou garantia de gravação. Não criar novo vídeo apenas para uniformizar o acervo.
+
 
 ## 1. Decisão atual e como recuperar o modelo
 

@@ -10,11 +10,11 @@ arquitetura_atual: nove módulos e 59 aulas
 # Módulo 2 — Estado e continuidade da produção
 
 
-**Intervenções propostas — 24/11/2026:** [[TSH - Lapidação e aproveitamento das gravações - M0 M1 M2 - 24-11-2026]] indica aproveitar as teorias editadas, lapidar as práticas M2.2/M2.3, completar o ensino de acesso ao recurso em M2.4 e compor M2.5/M2.6 pela ferramenta e experiência. As fontes abaixo localizam a produção efetiva. [[M2.2 - Prática guiada v2]] e [[M2.3 - Prática guiada v2]] aplicam as duas primeiras lapidações; as seguintes conservam os estados indicados.
+**Intervenções propostas — 24/11/2026:** [[TSH - Lapidação e aproveitamento das gravações - M0 M1 M2 - 24-11-2026]] indica aproveitar as teorias editadas, lapidar as práticas M2.2/M2.3, completar o ensino de acesso ao recurso em M2.4 e compor M2.5/M2.6 pela ferramenta e experiência. As fontes abaixo localizam a produção efetiva. [[TSH - Ordem de gravação e materiais - M2.2 a M2.4 - 24-11-2026]] localiza a reorganização efetiva das práticas M2.2/M2.3/M2.4 e a teoria M2.4 preservada.
 
 ## Forma de trabalho
 
-O modelo adotado em M2.1 é a trilha para exposição livre, com visão inicial e passos visuais. Os quatro campos de notas orientam a exposição conforme sua função; na realização de práticas, usar momentos reconhecíveis e instruções diretas. Uma frase completa por linha e espaço entre blocos facilitam a consulta, com objetividade que preserva fundamentos, articulações e retomadas didáticas úteis. [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] v2.12 e [[13 - Base de Produção Autoral e Didática - Fabiano Deliberalli]] v1.6 orientam a aplicação. A clareza torna ensinável a densidade autoral e dos fundamentos. M0 é acolhimento e não determina o nível das aulas seguintes.
+O modelo adotado em M2.1 é a trilha para exposição livre, com visão inicial e passos visuais. Os quatro campos de notas orientam a exposição conforme sua função; na realização de práticas, usar momentos reconhecíveis e instruções diretas. Uma frase completa por linha e espaço entre blocos facilitam a consulta, com objetividade que preserva fundamentos, articulações e retomadas didáticas úteis. [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] v2.13 e [[13 - Base de Produção Autoral e Didática - Fabiano Deliberalli]] v1.6 orientam a aplicação. A clareza torna ensinável a densidade autoral e dos fundamentos. M0 é acolhimento e não determina o nível das aulas seguintes.
 
 Os registros de produção acompanham versões, arquivos, alterações e trabalho restante. Omitir campos, pendências e lembretes de aprovação para gravação.
 
@@ -23,9 +23,9 @@ Os registros de produção acompanham versões, arquivos, alterações e trabalh
 | Aula | Ponto atual de recuperação |
 | --- | --- |
 | M2.1 | [[M2.1 - Trilha de exposição v0.8]] e [[M2.1 - Apresentação editável v0.8]]: 20 telas; sequência nativa 14; guia Word/PDF de 21 páginas, versão 3; apoio Word/PDF de quatro páginas, versão 5. O apoio versão 4 permanece como exemplar preservado. [[M2.1 - Edição da gravação v1]]: vídeo editado de 34min43s, original preservado. |
-| M2.2 | [[M2.2 - Edição da gravação parte 1 v1]]: teoria editada de 28min13s preservada. [[M2.2 - Prática guiada v2]]: 12 telas, sequência 6, guia e apoio Word/PDF de seis páginas, conjunto ZIP. Demonstração antes da situação pessoal, três observações vividas e ação/ocasião/retorno. |
-| M2.3 | [[M2.3 - Avaliação da gravação e edição parte 1 v1]]: teoria editada de 24min55s, original preservado. [[M2.3 - Prática guiada v2]]: 17 telas, sequência 5, guia Word/PDF de nove páginas, apoio de oito e ZIP. Demonstração, comparações distintas e conferência real. A v0.3 integrada conserva a fonte usada. |
-| M2.4 | [[M2.4 - Produção em duas partes v2]]: 21 telas de compreensão/fundamentos e 18 de prática/integração. Aprofundamento da formação do vivido, Cozolino/Kahneman, competência incorporada e elaboração da prática. Guias e apoio correspondentes no kit atual. As versões anteriores conservam a genealogia. |
+| M2.2 | [[M2.2 - Edição da gravação parte 1 v1]]: teoria de 28min13s preservada. [[M2.2 - Prática guiada v3]]: 8 telas, sequência 8; guia de quatro páginas e apoio correspondente; ZIP conjunto. |
+| M2.3 | [[M2.3 - Avaliação da gravação e edição parte 1 v1]]: teoria de 24min55s preservada. [[M2.3 - Prática guiada v3]]: 12 telas, sequência 6; guia de seis páginas, apoio de oito e ZIP. |
+| M2.4 | [[M2.4 - Produção em duas partes v3]]: teoria v2 de 21 telas/seq.4, prática v3 de 14 telas/seq.5; guias de 11 e sete páginas; apoio v3 de nove páginas. Acesso ao recurso ensinado e encerramento antes da comparação. |
 | M2.5–M2.6 e M3–M8 | Orientação estrutural no dossiê; novos roteiros e suportes integrais ainda a compor nesta frente. |
 
 ## Aprendizado da gravação M2.1 — 22/11/2026
@@ -46,9 +46,9 @@ Ordem aceita na conversa: M2.2 prática; M2.3 prática; ajustes localizados M2.1
 
 A gravação recebida tem 29min47s e para durante a condução. As 24 notas do anexo correspondem à v0.3 atual: o problema permaneceu no apoio revisado. Referência a “primeiro registro” sem distinguir conclusão/vivido, duas tarefas na mesma tela e retorno à explicação do mapa e ao exemplo da proposta interromperam a investigação pessoal. [[M2.3 - Avaliação da gravação e edição parte 1 v1]] documenta os trechos e o aproveitamento da teoria. [[M2.3 - Prática guiada v1]] aplicou a primeira correção em 14 telas: mesma situação; registros nomeados e produzidos antes da comparação; presença e retomada em passos próprios; comparação da conclusão separada do vivido; encerramento antes da elaboração. Notas e guia correspondem. A reestruturação posterior de M2.4 está localizada na tabela e na seção abaixo.
 
-## Prática M2.3 v2 — 24/11/2026
+## Reorganização para gravação — 24/11/2026
 
-[[M2.3 - Prática guiada v2]] alinha 17 telas, guia e apoio. Ensina distinguir os registros e perguntar antes da prática pessoal; retoma ambiente e apoios com critério de disponibilidade, sem exigir calma ideal. Compara conclusão e vivido separadamente e ensina conferir na vida real, escutar e aceitar correção. A figura antiga ambígua foi substituída. Teoria preservada. Próxima posição: ajustes localizados M2.1; as demais mantêm seus estados.
+[[TSH - Ordem de gravação e materiais - M2.2 a M2.4 - 24-11-2026]] aplica o pedido de reduzir trabalho de gravação: práticas de 8/12/14 telas, com menos fala repetida e operações preservadas; teoria M2.4 de 21 telas mantida. M2.4 ensina localizar e aproximar uma referência de recurso e retomar o repertório conhecido de M1.3 quando pertinente. Guias/apoio correspondem. Estimativas de vídeo: 6–8 / 8–10 / 12–15 min para as práticas; não são medições. M2.1 continua aproveitável na edição de 34min43s, sem nova gravação criada nesta entrega. V2 conserva a etapa anterior.
 
 ## Revisão histórica das notas M2.3 e M2.4 — 22/11/2026
 

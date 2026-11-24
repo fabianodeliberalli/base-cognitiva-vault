@@ -2,13 +2,15 @@
 tipo: plano-de-producao
 projeto: Traduzindo o Ser Humano
 modulo: M2
-versao: "0.16"
+versao: "0.17"
 data: 2026-11-24
 status: revisao-substantiva
 arquitetura: nove-modulos-59-aulas
 ---
 
 # Módulo 2 — Plano de produção das seis aulas
+
+**Aplicação para gravação:** [[TSH - Ordem de gravação e materiais - M2.2 a M2.4 - 24-11-2026]] reúne M2.2 prática v3, M2.3 prática v3 e M2.4 teoria v2/prática v3, com fala mais objetiva e estimativas. Essa reorganização não cria nova gravação de M2.1; preserva os vídeos aproveitáveis. Fontes históricas abaixo conservam seus recortes.
 
 **Execução aceita em 24/11/2026:** M2.2 prática; M2.3 prática; ajustes localizados M2.1; M2.4 duas partes; M2.5; M2.6; M1.6 prática; demais ajustes M0/M1; M3 em diante. [[M2.2 - Prática guiada v2]] aplica a primeira entrega em 12 telas, guia e apoio correspondentes, preservando a teoria editada. [[M2.3 - Prática guiada v2]] aplica a segunda entrega: 17 telas, guia e apoio alinhados, demonstração, comparações distintas e conferência real. Próxima posição: ajustes localizados M2.1. As posteriores mantêm seus estados.
 
