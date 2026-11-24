@@ -10,12 +10,12 @@ async ({presentation})=>{
   presentation.slides.getItem(presentation.slides.items.length-1).moveTo(key==='M22'?0:1);
  }else if(presentation.slides.items.length!==spec.slides.length)throw Error('Quantidade divergente.');
  for(let i=0;i<spec.slides.length;i++){
-  const s=presentation.slides.getItem(i),d=spec.slides[i];s.speakerNotes.text='';
+  const s=presentation.slides.getItem(i),d=spec.slides[i];s.speakerNotes.text=d.notes;
   const h=s.shapes.items.find(x=>x.name==='headline');if(h){h.text=d.title;h.text.typeface='EB Garamond';h.text.fontSize=48;}
   const f=s.shapes.items.find(x=>x.name==='footer'||x.name==='lesson-footer');if(f)f.text=(key==='M22'?'M2.2 · Prática':key==='M23'?'M2.3 · Prática':key==='M24P1'?'M2.4 · Parte 1':'M2.4 · Prática')+' · '+(i+1)+' / '+spec.slides.length;
  }
  if(key==='M24P1'){const s=presentation.slides.getItem(7);s.shapes.items.find(x=>x.name==='next').text='Retorno\nAlívio agora, sobrecarga depois';s.shapes.items.find(x=>x.name==='return').text='Próximo encontro\nJá esperam minha disponibilidade';}
  const data=spec.slides.map((d,i)=>({...d,nativeSlideId:presentation.slides.getItem(i).id,screenActual:presentation.slides.getItem(i).shapes.items.filter(x=>String(x.text)).map(x=>({name:x.name,text:String(x.text),position:x.position}))}));
  await fs.writeFile(R+'/nativo/'+key+'.json',JSON.stringify({...spec,slides:data},null,2));await fs.writeFile(R+'/nativo/'+key+'.json.gz',z.gzipSync(JSON.stringify(presentation.toProto())));
- return{slides:presentation.slides.items.length,notesEmpty:presentation.slides.items.every(s=>s.speakerNotes.text===''),retomada:key==='M22'?1:key==='M23'?2:'Mapas no percurso teórico'};
+ return{slides:presentation.slides.items.length,notesPresent:presentation.slides.items.every(s=>!!s.speakerNotes.text.trim()),retomada:key==='M22'?1:key==='M23'?2:'Mapas no percurso teórico'};
 }

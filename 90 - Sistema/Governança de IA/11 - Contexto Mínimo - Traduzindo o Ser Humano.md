@@ -2,7 +2,7 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.68"
+versao: "0.69"
 atualizado_em: 2026-11-24
 ---
 
@@ -12,7 +12,7 @@ Esta é a entrada atual, alcançada por `AGENTS.md` e `CLAUDE.md`. Ler o conteú
 
 ## Prioridade de produção: profundidade e progressão
 
-**Formato de gravação — escolha de Fabiano em 24/11/2026:** slides como apoio visual e roteiro separado com briefing, frases curtas, direção das ideias e conexões por slide. Preservar exposição livre e desenvolvimento profundo na fonte; não duplicar fala integral nas notas. Retomadas didáticas reapresentam o mapa e a explicação necessária antes do uso. As práticas conservam sequência, registros, pausas e encerramento claros. [[TSH - Slides e roteiro separado - M2.2 M2.3 M2.4 - 24-11-2026]] mostra a aplicação em M2.4 e nas práticas M2.2/M2.3. M2.5 permanece reservado. O padrão v2.14 localiza as fontes completas e a evolução do modelo.
+**Formato de gravação — escolha de Fabiano em 24/11/2026:** slides como apoio visual e roteiro separado com briefing, frases curtas, direção das ideias e conexões por slide. Por pedido posterior de Fabiano na mesma data, esse roteiro breve também permanece nas notas do apresentador de todos os slides. Preservar exposição livre e desenvolvimento profundo na fonte; não duplicar fala integral nas notas. Retomadas didáticas reapresentam o mapa e a explicação necessária antes do uso. As práticas conservam sequência, registros, pausas e encerramento claros. [[TSH - Slides e roteiro separado - M2.2 M2.3 M2.4 - 24-11-2026]] mostra a aplicação em M2.4 e nas práticas M2.2/M2.3. M2.5 permanece reservado. O padrão v2.14 localiza as fontes completas e a evolução do modelo.
 
 **Ferramentas e experiências no centro — decisão de Fabiano em 24/11/2026.** O TSH foi criado para oferecer recursos que ajudem a traduzir, acessar, elaborar, desenvolver e transformar a participação na vida. Compreensão racional isolada contraria sua base multidimensional. As ferramentas e experiências constituem o centro do processo de aprendizagem e o objetivo a que servem a teoria e os fundamentos profundos. Corpo, afeto, imagem, pensamento, relações, cultivo, energia e espiritualidade participam com contribuições próprias; não são ilustrações acrescentadas depois.
 

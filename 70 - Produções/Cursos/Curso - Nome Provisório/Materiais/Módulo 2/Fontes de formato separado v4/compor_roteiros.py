@@ -1,5 +1,5 @@
 from pathlib import Path
-import json,copy
+import json,copy,re
 R=Path(__file__).resolve().parent;BASE=R.parent
 D={
 'M22':json.loads((BASE/'m24_retomada_20261124/M22_v4.json').read_text()),
@@ -330,7 +330,7 @@ B['M24P2'][-1][-1]='Próximo aprofundamento: elaborar e continuar a Tradução a
 for key,d in D.items():
  assert len(B[key])==len(d['slides'])
  for s,b in zip(d['slides'],B[key]):
-  s['development']=s.pop('notes');s['briefing']=b;s['notes']=''
+  s['development']=s.pop('notes');s['briefing']=b;s['notes']='\n'.join(re.sub(r'([.!?])\s+(?=[A-ZÁÉÍÓÚÂÊÔÃÕÇ])',r'\1\n',x)for x in b)
  d.update(metadata[key]);d['format']='slides-e-roteiro-separado';d['date']='2026-11-24'
  (R/(key+'_formato.json')).write_text(json.dumps(d,ensure_ascii=False,indent=2))
  print(key,len(d['slides']),sum(len(' '.join(s['briefing']).split())for s in d['slides']),'palavras de apoio')

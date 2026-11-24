@@ -14,7 +14,7 @@ arquitetura_atual: nove módulos e 59 aulas
 
 ## Forma de trabalho
 
-Formato adotado por Fabiano em 24/11/2026 para esta produção: slides como apoio visual e roteiro separado com briefing, frases curtas e direção das ideias por slide. A fala continua livre. O desenvolvimento profundo é preservado como fonte e não é duplicado integralmente nas notas. Reapresentar mapas e conceitos antes de seu uso, com explicação suficiente para a tarefa. Nas práticas, conservar operações, registros, pausas e encerramento antes da elaboração. [[TSH - Slides e roteiro separado - M2.2 M2.3 M2.4 - 24-11-2026]] mostra a aplicação e o [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] v2.14 orienta a continuidade. As fontes anteriores conservam a genealogia.
+Formato adotado por Fabiano em 24/11/2026 para esta produção: slides como apoio visual e roteiro separado com briefing, frases curtas e direção das ideias por slide. A fala continua livre. O roteiro breve também foi reposto nas notas de todos os slides, por pedido posterior do autor. O desenvolvimento profundo é preservado como fonte e não é duplicado integralmente nas notas. Reapresentar mapas e conceitos antes de seu uso, com explicação suficiente para a tarefa. Nas práticas, conservar operações, registros, pausas e encerramento antes da elaboração. [[TSH - Slides e roteiro separado - M2.2 M2.3 M2.4 - 24-11-2026]] mostra a aplicação e o [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] v2.15 orienta a continuidade. As fontes anteriores conservam a genealogia.
 
 Os registros de produção acompanham versões, arquivos, alterações e trabalho restante. Omitir campos, pendências e lembretes de aprovação para gravação.
 
@@ -23,9 +23,9 @@ Os registros de produção acompanham versões, arquivos, alterações e trabalh
 | Aula | Ponto atual de recuperação |
 | --- | --- |
 | M2.1 | [[M2.1 - Trilha de exposição v0.8]] e [[M2.1 - Apresentação editável v0.8]]: 20 telas; sequência nativa 14; guia Word/PDF de 21 páginas, versão 3; apoio Word/PDF de quatro páginas, versão 5. O apoio versão 4 permanece como exemplar preservado. [[M2.1 - Edição da gravação v1]]: vídeo editado de 34min43s, original preservado. |
-| M2.2 | Teoria editada de 28min13s preservada. [[M2.2 - Prática guiada v4]]: 9 telas/seq.9, roteiro separado de três páginas; mapa retomado antes da demonstração. |
-| M2.3 | Teoria editada de 24min55s preservada. [[M2.3 - Prática guiada v4]]: 13 telas/seq.7, roteiro separado de quatro páginas; mapa retomado antes da demonstração. |
-| M2.4 | [[M2.4 - Produção em duas partes v4]]: teoria v3 com 25 telas/seq.9 e roteiro de oito páginas; prática v4 com 14 telas/seq.6 e roteiro de quatro. Slides com roteiro separado. |
+| M2.2 | Teoria editada de 28min13s preservada. [[M2.2 - Prática guiada v4]]: 9 telas/seq.10, roteiro separado de três páginas; mapa retomado antes da demonstração. |
+| M2.3 | Teoria editada de 24min55s preservada. [[M2.3 - Prática guiada v4]]: 13 telas/seq.8, roteiro separado de quatro páginas; mapa retomado antes da demonstração. |
+| M2.4 | [[M2.4 - Produção em duas partes v4]]: teoria v3 com 25 telas/seq.10 e roteiro de oito páginas; prática v4 com 14 telas/seq.7 e roteiro de quatro. Slides com roteiro separado. |
 | M2.5–M2.6 e M3–M8 | M2.5 reservado por determinação do autor, com rascunhos preservados no localizador atual. M2.6 e demais módulos continuam a compor no percurso do dossiê. |
 
 ## Aprendizado da gravação M2.1 — 22/11/2026
