@@ -1,0 +1,52 @@
+{
+  "data": "2026-11-24",
+  "ref": "c4e92689dafe8eae3c875d436d2339c2eba0fc40",
+  "estatuto": "Avaliação e intervenções propostas; não confirma alterações nas mídias",
+  "fontes_operativas": [
+    {
+      "cache": "fonte_1.md",
+      "path": "20 - Notas Conceituais/Quatro Passos da Mudança - Metapadrão e Lei de Hebb no TSH.md",
+      "sha": "95ca2644fcab63f6d3acfe38027fa2fc04fcbf29"
+    },
+    {
+      "cache": "fonte_2.md",
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Práticas Candidatas/Onde o Olhar Encontra o Eixo - Olhar Auto-Hipnose e Brainspotting.md",
+      "sha": "889d3a27ffc9efaf5a2f316baa02a47fd56654e4"
+    },
+    {
+      "cache": "fonte_3.md",
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/MTC e Qi Gong/05 - Caderno de Condução - Sequências e Aprendizagens do Cultivo.md",
+      "sha": "cfdcf72fdffca8630aa9c7228707004df8132281"
+    },
+    {
+      "cache": "fonte_4.md",
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/Meditação Psicoterapia e Música/02 - Naranjo - Meditação Duplas e Exercícios.md",
+      "sha": "f4b70fdc119b0fa0852c711aec86930fb66fcf35"
+    },
+    {
+      "cache": "fonte_5.md",
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/Meditação Psicoterapia e Música/03 - Naranjo - Música Escuta e Integração.md",
+      "sha": "ede77a1d70c5b78dd76454c5e8c6f2e23eb80d51"
+    }
+  ],
+  "relatorio_base": "70 - Produções/Cursos/Curso - Nome Provisório/60 - Arquitetura Pedagógica/TSH - Aprendizagem ferramentas e progressão - M0 M1 M2 - 24-11-2026.md",
+  "midias_conferidas": [
+    {
+      "aula": "M1.3",
+      "arquivo": "TSH_M1_3_Competencia_incorporada_com_pratica.mp4",
+      "duracao_segundos": 2118.906,
+      "sha256": "3b565a35ad882ade6f42e13fa069dfcfa58ba009c15d38ce0a313f881d10e8b5",
+      "trecho_pelo_guia": "23:03–30:24",
+      "escopo": "Metadados, quadros dirigidos e guia/apoio; sem nova escuta integral"
+    },
+    {
+      "aula": "M1.4",
+      "arquivo": "TSH_M1_4_Territorio_e_mapas_com_complemento.mp4",
+      "duracao_segundos": 1739.96,
+      "sha256": "f1fe50716612ff78422c7e980cb96df6a9d8f1cbd5865d0519799e1beb0f74e4",
+      "trecho_pelo_guia": "15:08–16:35",
+      "escopo": "Metadados, quadros dirigidos e guia/apoio; sem nova escuta integral"
+    }
+  ],
+  "midias_m2": "Parecer pelos registros anteriores e planos de edição, sem nova inspeção dos MP4 nesta etapa."
+}
