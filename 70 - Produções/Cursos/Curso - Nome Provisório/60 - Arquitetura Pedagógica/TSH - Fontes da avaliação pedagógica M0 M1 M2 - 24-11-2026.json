@@ -1,0 +1,235 @@
+{
+  "date": "2026-11-24",
+  "ref": "c16f49481cea61f1470ecd7862611f2cc666c6cf",
+  "sources": [
+    {
+      "title": "AGENTS.md",
+      "path": "AGENTS.md",
+      "sha": "289c441e18bc0469a4dfdabfc96993eb1194e4e9",
+      "url": "https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/c16f49481cea61f1470ecd7862611f2cc666c6cf/AGENTS.md"
+    },
+    {
+      "title": "11 - Contexto Mínimo - Traduzindo o Ser Humano.md",
+      "path": "90 - Sistema/Governança de IA/11 - Contexto Mínimo - Traduzindo o Ser Humano.md",
+      "sha": "eabfddc98f20804ce453ff7cbfe3fdbc4d6134e6",
+      "url": "https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/c16f49481cea61f1470ecd7862611f2cc666c6cf/90%20-%20Sistema/Governan%C3%A7a%20de%20IA/11%20-%20Contexto%20M%C3%ADnimo%20-%20Traduzindo%20o%20Ser%20Humano.md"
+    },
+    {
+      "title": "13 - Base de Produção Autoral e Didática - Fabiano Deliberalli.md",
+      "path": "90 - Sistema/Governança de IA/13 - Base de Produção Autoral e Didática - Fabiano Deliberalli.md",
+      "sha": "8617cb4beccd4fc4f0ae7a138dc101c3b3935ab1",
+      "url": "https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/c16f49481cea61f1470ecd7862611f2cc666c6cf/90%20-%20Sistema/Governan%C3%A7a%20de%20IA/13%20-%20Base%20de%20Produ%C3%A7%C3%A3o%20Autoral%20e%20Did%C3%A1tica%20-%20Fabiano%20Deliberalli.md"
+    },
+    {
+      "title": "TSH - Dossiê M0–M8 - auditoria e base dos roteiros.md",
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/60 - Arquitetura Pedagógica/TSH - Dossiê M0–M8 - auditoria e base dos roteiros.md",
+      "sha": "a4b85afb1f1ea514396b264c97d73b506d50de71",
+      "url": "https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/c16f49481cea61f1470ecd7862611f2cc666c6cf/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/60%20-%20Arquitetura%20Pedag%C3%B3gica/TSH%20-%20Dossi%C3%AA%20M0%E2%80%93M8%20-%20auditoria%20e%20base%20dos%20roteiros.md"
+    },
+    {
+      "title": "TSH - Síntese Integrativa do Refinamento.md",
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/TSH - Síntese Integrativa do Refinamento.md",
+      "sha": "a00a51a937fc032498415ee2206540a723fdb701",
+      "url": "https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/c16f49481cea61f1470ecd7862611f2cc666c6cf/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/TSH%20-%20S%C3%ADntese%20Integrativa%20do%20Refinamento.md"
+    },
+    {
+      "title": "Tradução da Experiência Humana.md",
+      "path": "20 - Notas Conceituais/Tradução da Experiência Humana.md",
+      "sha": "7a6f4e19f8dbc1e97dca063e8c78b070d1d113ae",
+      "url": "https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/c16f49481cea61f1470ecd7862611f2cc666c6cf/20%20-%20Notas%20Conceituais/Tradu%C3%A7%C3%A3o%20da%20Experi%C3%AAncia%20Humana.md"
+    },
+    {
+      "title": "01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH.md",
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/MTC e Qi Gong/01 - Percurso de Cultivo Corporal Energético e Contemplativo no TSH.md",
+      "sha": "3aeba91ca62eb25d649afc16a8bf7a3bb4b0b2d5",
+      "url": "https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/c16f49481cea61f1470ecd7862611f2cc666c6cf/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/MTC%20e%20Qi%20Gong/01%20-%20Percurso%20de%20Cultivo%20Corporal%20Energ%C3%A9tico%20e%20Contemplativo%20no%20TSH.md"
+    },
+    {
+      "title": "Árvore da Singularidade - Postura Mapa e Expressão Pessoal.md",
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/Árvore da Singularidade - Postura Mapa e Expressão Pessoal.md",
+      "sha": "bc729e7f53ef3622b8744e170eff937465fc4259",
+      "url": "https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/c16f49481cea61f1470ecd7862611f2cc666c6cf/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/%C3%81rvore%20da%20Singularidade%20-%20Postura%20Mapa%20e%20Express%C3%A3o%20Pessoal.md"
+    },
+    {
+      "title": "TSH - Revisão de Profundidade e Percurso - 22-11-2026.md",
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/60 - Arquitetura Pedagógica/TSH - Revisão de Profundidade e Percurso - 22-11-2026.md",
+      "sha": "6cc48d2787c893bb14eb02412519280914256ce7",
+      "url": "https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/c16f49481cea61f1470ecd7862611f2cc666c6cf/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/60%20-%20Arquitetura%20Pedag%C3%B3gica/TSH%20-%20Revis%C3%A3o%20de%20Profundidade%20e%20Percurso%20-%2022-11-2026.md"
+    },
+    {
+      "title": "00 - Estado e Continuidade da Produção M1.md",
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 1/00 - Estado e Continuidade da Produção M1.md",
+      "sha": "4f8aa272c5a8a7a187149a094959064712095115",
+      "url": "https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/c16f49481cea61f1470ecd7862611f2cc666c6cf/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Materiais/M%C3%B3dulo%201/00%20-%20Estado%20e%20Continuidade%20da%20Produ%C3%A7%C3%A3o%20M1.md"
+    },
+    {
+      "title": "00 - Estado e Continuidade da Produção M2.md",
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 2/00 - Estado e Continuidade da Produção M2.md",
+      "sha": "08a983fafcf627ccc9fb77bef52bdfbcf62c2c80",
+      "url": "https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/c16f49481cea61f1470ecd7862611f2cc666c6cf/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Materiais/M%C3%B3dulo%202/00%20-%20Estado%20e%20Continuidade%20da%20Produ%C3%A7%C3%A3o%20M2.md"
+    },
+    {
+      "title": "01 - Plano de produção das seis aulas M2.md",
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 2/01 - Plano de produção das seis aulas M2.md",
+      "sha": "ea0629a9bc6131248050f24f02fb3c782e0efb98",
+      "url": "https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/c16f49481cea61f1470ecd7862611f2cc666c6cf/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Materiais/M%C3%B3dulo%202/01%20-%20Plano%20de%20produ%C3%A7%C3%A3o%20das%20seis%20aulas%20M2.md"
+    },
+    {
+      "title": "M0.2 - Roteiro e notas sincronizados v1.3.md",
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 0/M0.2 - Roteiro e notas sincronizados v1.3.md",
+      "sha": "8b06cf851c0ef73fea235ab3141a7bca26787eb7",
+      "url": "https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/c16f49481cea61f1470ecd7862611f2cc666c6cf/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Materiais/M%C3%B3dulo%200/M0.2%20-%20Roteiro%20e%20notas%20sincronizados%20v1.3.md"
+    },
+    {
+      "title": "M0.3 - Roteiro e notas sincronizados v1.1.md",
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 0/M0.3 - Roteiro e notas sincronizados v1.1.md",
+      "sha": "ce197f265ec9b12711fe961c09a4f6f144e80616",
+      "url": "https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/c16f49481cea61f1470ecd7862611f2cc666c6cf/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Materiais/M%C3%B3dulo%200/M0.3%20-%20Roteiro%20e%20notas%20sincronizados%20v1.1.md"
+    },
+    {
+      "title": "M0.2 - Escrever para observar e compreender - Entregável.md",
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 0/M0.2 - Escrever para observar e compreender - Entregável.md",
+      "sha": "35a320cb1bd92d2662cc092be83427aed8d6d180",
+      "url": "https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/c16f49481cea61f1470ecd7862611f2cc666c6cf/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Materiais/M%C3%B3dulo%200/M0.2%20-%20Escrever%20para%20observar%20e%20compreender%20-%20Entreg%C3%A1vel.md"
+    },
+    {
+      "title": "M0.3 - Plano pessoal de participação - Entregável.md",
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 0/M0.3 - Plano pessoal de participação - Entregável.md",
+      "sha": "830d4b0907af427c4e7476836eb24b6587266dbc",
+      "url": "https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/c16f49481cea61f1470ecd7862611f2cc666c6cf/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Materiais/M%C3%B3dulo%200/M0.3%20-%20Plano%20pessoal%20de%20participa%C3%A7%C3%A3o%20-%20Entreg%C3%A1vel.md"
+    },
+    {
+      "title": "M2.1 - Trilha de exposição v0.8.md",
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 2/M2.1 - Trilha de exposição v0.8.md",
+      "sha": "e0ba316159f66b4bc44142c7e0ea24c7ac6f793f",
+      "url": "https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/c16f49481cea61f1470ecd7862611f2cc666c6cf/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Materiais/M%C3%B3dulo%202/M2.1%20-%20Trilha%20de%20exposi%C3%A7%C3%A3o%20v0.8.md"
+    },
+    {
+      "title": "M2.2 - Trilha de exposição v0.5.md",
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 2/M2.2 - Trilha de exposição v0.5.md",
+      "sha": "8d9e6162f8ac1a00f08c2223788842ea5d88ceb6",
+      "url": "https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/c16f49481cea61f1470ecd7862611f2cc666c6cf/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Materiais/M%C3%B3dulo%202/M2.2%20-%20Trilha%20de%20exposi%C3%A7%C3%A3o%20v0.5.md"
+    },
+    {
+      "title": "M2.2 - Prática guiada - Roteiro v1.md",
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 2/M2.2 - Prática guiada - Roteiro v1.md",
+      "sha": "2f6afa79ca59e3c695ccda91257a0639ae2cb444",
+      "url": "https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/c16f49481cea61f1470ecd7862611f2cc666c6cf/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Materiais/M%C3%B3dulo%202/M2.2%20-%20Pr%C3%A1tica%20guiada%20-%20Roteiro%20v1.md"
+    },
+    {
+      "title": "M2.3 - Trilha de exposição v0.3.md",
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 2/M2.3 - Trilha de exposição v0.3.md",
+      "sha": "c1311394eb61f96a8a9b32cc709457db84e347a7",
+      "url": "https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/c16f49481cea61f1470ecd7862611f2cc666c6cf/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Materiais/M%C3%B3dulo%202/M2.3%20-%20Trilha%20de%20exposi%C3%A7%C3%A3o%20v0.3.md"
+    },
+    {
+      "title": "M2.3 - Prática guiada - Roteiro v1.md",
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 2/M2.3 - Prática guiada - Roteiro v1.md",
+      "sha": "829504a0f5a0e5bb0086c0dfb28f632aba005d3e",
+      "url": "https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/c16f49481cea61f1470ecd7862611f2cc666c6cf/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Materiais/M%C3%B3dulo%202/M2.3%20-%20Pr%C3%A1tica%20guiada%20-%20Roteiro%20v1.md"
+    },
+    {
+      "title": "M2.4 - Produção em duas partes v2.md",
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 2/M2.4 - Produção em duas partes v2.md",
+      "sha": "c8a91b25f5e1bda6750e1f67c209361b828a0db8",
+      "url": "https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/c16f49481cea61f1470ecd7862611f2cc666c6cf/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Materiais/M%C3%B3dulo%202/M2.4%20-%20Produ%C3%A7%C3%A3o%20em%20duas%20partes%20v2.md"
+    },
+    {
+      "title": "M2.4 - Parte 1 - Trilha e notas v2.md",
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 2/M2.4 - Parte 1 - Trilha e notas v2.md",
+      "sha": "7f54d96580759c44c915c405dc585708827dc75e",
+      "url": "https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/c16f49481cea61f1470ecd7862611f2cc666c6cf/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Materiais/M%C3%B3dulo%202/M2.4%20-%20Parte%201%20-%20Trilha%20e%20notas%20v2.md"
+    },
+    {
+      "title": "M2.4 - Parte 2 - Trilha e notas v2.md",
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 2/M2.4 - Parte 2 - Trilha e notas v2.md",
+      "sha": "f71c4b915f3b676c63255aafc68804503828c2aa",
+      "url": "https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/c16f49481cea61f1470ecd7862611f2cc666c6cf/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Materiais/M%C3%B3dulo%202/M2.4%20-%20Parte%202%20-%20Trilha%20e%20notas%20v2.md"
+    },
+    {
+      "title": "M2.4 - Apoio do aluno v2.md",
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 2/M2.4 - Apoio do aluno v2.md",
+      "sha": "c1b6948aad9a59332f20358ec60d471765a9accf",
+      "url": "https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/c16f49481cea61f1470ecd7862611f2cc666c6cf/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Materiais/M%C3%B3dulo%202/M2.4%20-%20Apoio%20do%20aluno%20v2.md"
+    },
+    {
+      "title": "M2.1 - Edição da gravação v1.md",
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 2/M2.1 - Edição da gravação v1.md",
+      "sha": "d6ce66ede0337dfa64b0f3a8de7a14246f1077d4",
+      "url": "https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/c16f49481cea61f1470ecd7862611f2cc666c6cf/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Materiais/M%C3%B3dulo%202/M2.1%20-%20Edi%C3%A7%C3%A3o%20da%20grava%C3%A7%C3%A3o%20v1.md"
+    },
+    {
+      "title": "M2.2 - Edição da gravação parte 1 v1.md",
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 2/M2.2 - Edição da gravação parte 1 v1.md",
+      "sha": "1ea0428f2012703682d4449bf2e8121639a51ef7",
+      "url": "https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/c16f49481cea61f1470ecd7862611f2cc666c6cf/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Materiais/M%C3%B3dulo%202/M2.2%20-%20Edi%C3%A7%C3%A3o%20da%20grava%C3%A7%C3%A3o%20parte%201%20v1.md"
+    },
+    {
+      "title": "M2.3 - Avaliação da gravação e edição parte 1 v1.md",
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 2/M2.3 - Avaliação da gravação e edição parte 1 v1.md",
+      "sha": "4fcb4cde5f207097a80bbd7ecd0ad6efbd32db4c",
+      "url": "https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/c16f49481cea61f1470ecd7862611f2cc666c6cf/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Materiais/M%C3%B3dulo%202/M2.3%20-%20Avalia%C3%A7%C3%A3o%20da%20grava%C3%A7%C3%A3o%20e%20edi%C3%A7%C3%A3o%20parte%201%20v1.md"
+    },
+    {
+      "title": "TSH · M0.1 · Boas-vindas - padronizado.pptx",
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 0/TSH · M0.1 · Boas-vindas - padronizado.pptx",
+      "sha": "11934323cf1a326d533be7e3f59aab56ce0ba278",
+      "url": "https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/c16f49481cea61f1470ecd7862611f2cc666c6cf/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Materiais/M%C3%B3dulo%200/TSH%20%C2%B7%20M0.1%20%C2%B7%20Boas-vindas%20-%20padronizado.pptx"
+    },
+    {
+      "title": "TSH · M0.2 · Como usar os materiais - padronizado - câmera superior direita.pptx",
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 0/TSH · M0.2 · Como usar os materiais - padronizado - câmera superior direita.pptx",
+      "sha": "9c39a8434edc87afe7f9720e27036cc375fb7018",
+      "url": "https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/c16f49481cea61f1470ecd7862611f2cc666c6cf/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Materiais/M%C3%B3dulo%200/TSH%20%C2%B7%20M0.2%20%C2%B7%20Como%20usar%20os%20materiais%20-%20padronizado%20-%20c%C3%A2mera%20superior%20direita.pptx"
+    },
+    {
+      "title": "TSH · M0.3 · Condições para começar e continuar - padronizado - câmera superior direita.pptx",
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 0/TSH · M0.3 · Condições para começar e continuar - padronizado - câmera superior direita.pptx",
+      "sha": "a2b54dd695ea50aeeac57ded3ebd4e5da88bc378",
+      "url": "https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/c16f49481cea61f1470ecd7862611f2cc666c6cf/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Materiais/M%C3%B3dulo%200/TSH%20%C2%B7%20M0.3%20%C2%B7%20Condi%C3%A7%C3%B5es%20para%20come%C3%A7ar%20e%20continuar%20-%20padronizado%20-%20c%C3%A2mera%20superior%20direita.pptx"
+    },
+    {
+      "title": "TSH M1.1 - Por que entender um padrão não impede que ele se repita - padronizado.pptx",
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 1/TSH M1.1 - Por que entender um padrão não impede que ele se repita - padronizado.pptx",
+      "sha": "b34e0c196a5316d7f625f33460d44babee40a5f9",
+      "url": "https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/c16f49481cea61f1470ecd7862611f2cc666c6cf/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Materiais/M%C3%B3dulo%201/TSH%20M1.1%20-%20Por%20que%20entender%20um%20padr%C3%A3o%20n%C3%A3o%20impede%20que%20ele%20se%20repita%20-%20padronizado.pptx"
+    },
+    {
+      "title": "TSH · M1.2 · Saber acessar e sustentar não são a mesma coisa - padronizado.pptx",
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 1/TSH · M1.2 · Saber acessar e sustentar não são a mesma coisa - padronizado.pptx",
+      "sha": "e20ece887294b411a4cda241f9f41a17d74b4a6e",
+      "url": "https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/c16f49481cea61f1470ecd7862611f2cc666c6cf/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Materiais/M%C3%B3dulo%201/TSH%20%C2%B7%20M1.2%20%C2%B7%20Saber%20acessar%20e%20sustentar%20n%C3%A3o%20s%C3%A3o%20a%20mesma%20coisa%20-%20padronizado.pptx"
+    },
+    {
+      "title": "TSH M1.3 - O que é competência incorporada e o que ela não promete - padronizado.pptx",
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 1/TSH M1.3 - O que é competência incorporada e o que ela não promete - padronizado.pptx",
+      "sha": "5b86328399bd7b0d831d2a24df963b3e4fb8b708",
+      "url": "https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/c16f49481cea61f1470ecd7862611f2cc666c6cf/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Materiais/M%C3%B3dulo%201/TSH%20M1.3%20-%20O%20que%20%C3%A9%20compet%C3%AAncia%20incorporada%20e%20o%20que%20ela%20n%C3%A3o%20promete%20-%20padronizado.pptx"
+    },
+    {
+      "title": "TSH · M1.4 · A experiência é o território, as explicações são mapas - padronizado.pptx",
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 1/TSH · M1.4 · A experiência é o território, as explicações são mapas - padronizado.pptx",
+      "sha": "a434e450d25e838d9c3269eb022f4673c347aa04",
+      "url": "https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/c16f49481cea61f1470ecd7862611f2cc666c6cf/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Materiais/M%C3%B3dulo%201/TSH%20%C2%B7%20M1.4%20%C2%B7%20A%20experi%C3%AAncia%20%C3%A9%20o%20territ%C3%B3rio%2C%20as%20explica%C3%A7%C3%B5es%20s%C3%A3o%20mapas%20-%20padronizado.pptx"
+    },
+    {
+      "title": "TSH M1.6 - Primeira Cartografia - padronizado.pptx",
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 1/TSH M1.6 - Primeira Cartografia - padronizado.pptx",
+      "sha": "74ab1d9476172fa83e6cc7ae1b71f76154aeb6bb",
+      "url": "https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/c16f49481cea61f1470ecd7862611f2cc666c6cf/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Materiais/M%C3%B3dulo%201/TSH%20M1.6%20-%20Primeira%20Cartografia%20-%20padronizado.pptx"
+    },
+    {
+      "title": "TSH_M1_7_Caderno_de_Producao_v0_2.docx",
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 1/TSH_M1_7_Caderno_de_Producao_v0_2.docx",
+      "sha": "ea7a6c65142a15697dfa1acd5e7f0afd7e3c9f29",
+      "url": "https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/c16f49481cea61f1470ecd7862611f2cc666c6cf/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Materiais/M%C3%B3dulo%201/TSH_M1_7_Caderno_de_Producao_v0_2.docx"
+    },
+    {
+      "title": "TSH_M1_7_Percurso_e_Expressao_Material_de_Apoio_v0_2.docx",
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 1/TSH_M1_7_Percurso_e_Expressao_Material_de_Apoio_v0_2.docx",
+      "sha": "5406437660c384a3930c6ee411234a957ef4da2a",
+      "url": "https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/c16f49481cea61f1470ecd7862611f2cc666c6cf/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Materiais/M%C3%B3dulo%201/TSH_M1_7_Percurso_e_Expressao_Material_de_Apoio_v0_2.docx"
+    }
+  ],
+  "note": "Avaliação e propostas; não confirma aprendizagem ou publicação pela existência de fonte."
+}
