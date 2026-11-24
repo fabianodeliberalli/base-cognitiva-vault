@@ -1,0 +1,172 @@
+# M2.3 · Prática guiada — base de desenvolvimento
+
+Esta fonte conserva o desenvolvimento que precedeu a condensação. O suporte de gravação atual é o roteiro separado, com função própria.
+
+## 1 · Conferir uma certeza e recuperar outras pistas
+
+APRESENTAÇÃO E PREPARAÇÃO
+
+Vamos conferir uma interpretação e acompanhar como vivemos a situação.
+Guardaremos dois pares: Conclusão antes e depois; Vivido antes e depois.
+A leitura pode se confirmar, mudar ou permanecer aberta.
+
+Separe a Cartografia ou um caderno para registros breves.
+Reserve um momento de atenção à prática; você pode adaptar ou interromper, retomando o ambiente e seus movimentos.
+Primeiro vou demonstrar o procedimento.
+Depois começamos a sua exploração.
+
+## 2 · Retomada: o vivido e sua elaboração
+
+Vamos retomar o mapa antes da demonstração.
+A forma vivida inclui sensações, imagens, memórias e uma disposição para responder.
+A elaboração procura nomear, interpretar, conferir e escolher.
+
+Na prática, vamos guardar essas duas referências separadamente.
+Vivido é como a situação se apresenta na experiência.
+Conclusão é a leitura que fazemos sobre ela.
+
+Uma conclusão pode mudar e o vivido continuar parecido, ou o vivido pode acrescentar algo à conclusão.
+Vamos conferir o que acontece em cada um, sem antecipar um resultado.
+
+## 3 · Uma pergunta que aceita surpresa
+
+DEMONSTRAÇÃO
+
+Uma pessoa apresenta uma proposta de trabalho e ouve: precisamos conversar melhor sobre isso.
+Ela sente aperto e vontade de guardar a proposta: esse é o vivido.
+“Minha proposta foi rejeitada” é a conclusão.
+O vivido merece reconhecimento; a conclusão precisa de bases também no encontro.
+
+“Por que você rejeitou minha proposta?” já inclui a rejeição como fato.
+“Sobre quais pontos da proposta você quer conversar?” permite descobrir o que o outro tem a dizer.
+A resposta pode confirmar a preocupação ou modificar a leitura.
+Uma resposta imaginada ainda precisa de conferência.
+
+O exemplo termina aqui.
+Agora começamos pela sua situação.
+
+## 4 · A situação escolhida
+
+INÍCIO DA PRÁTICA
+
+Escolha uma situação em que tenha chegado a uma conclusão bastante firme.
+Pode retomar algo que já vem investigando e que consiga acompanhar agora.
+
+Registre o que aconteceu e quem participava.
+Mantenha a mesma situação até o fim.
+Pause para escolher e situar o acontecimento.
+
+PAUSA
+
+## 5 · Conclusão antes
+
+Volte à situação e complete: diante disso, concluí que...
+Escreva a leitura que realmente vem sustentando.
+
+Identifique como “Conclusão antes” e conserve para comparar depois.
+Pause para registrar.
+
+PAUSA
+
+## 6 · Vivido antes
+
+Ao trazer essa mesma situação à atenção, como é estar diante dela?
+Acompanhe o que reconhece no corpo, no afeto, nas imagens ou no impulso de agir.
+
+Guarde uma expressão breve, por palavra, desenho ou descrição de um gesto.
+Identifique como “Vivido antes” e mantenha separado da conclusão.
+Pause para perceber e registrar.
+
+PAUSA
+
+## 7 · Bases da conclusão e custo da revisão
+
+Retome “Conclusão antes”.
+Que pistas do acontecimento sustentam essa leitura?
+Diferencie o que observou do que associou ou imaginou e anote o que falta conferir.
+
+Se essa conclusão precisasse ser revista, o que isso colocaria em jogo?
+Reconheça o que precisa de cuidado e o que pode pedir revisão.
+Conserve essas observações junto da conclusão.
+Pause para acompanhar essas questões.
+
+PAUSA
+
+## 8 · Retomar o presente
+
+Deixe a situação de lado por um momento.
+Olhe para onde está e reconheça um detalhe do ambiente.
+Perceba o apoio dos pés ou do assento e ajuste a postura, se ajudar.
+Deixe a respiração acontecer e permaneça um pouco nesse contato.
+
+Para seguir, reconheça onde está e se há alguma disponibilidade para considerar a questão.
+Pode continuar havendo tensão.
+Se não houver disponibilidade, conclua por hoje retomando o ambiente e seus movimentos.
+Pause e retome quando puder seguir.
+
+PAUSA
+
+## 9 · A informação que falta
+
+Com algum contato com o presente, retome a mesma situação.
+O que precisa saber para conferir sua conclusão?
+Formule uma pergunta que aceite uma resposta diferente da esperada.
+
+Se puder consultar a informação agora, confira e conserve o que encontrou.
+Se depender de outra ocasião, guarde a pergunta e onde poderá buscar a resposta.
+A informação ainda não obtida permanece em aberto.
+Pause para essa conferência possível agora.
+
+PAUSA
+
+## 10 · Conclusão depois
+
+Retome “Conclusão antes”.
+Com o que foi possível conferir, o que consegue concluir agora?
+
+Registre como “Conclusão depois”, incluindo as bases e o que ainda falta conhecer.
+Compare as duas conclusões: a leitura pode mudar, continuar sustentada ou permanecer aberta.
+Pause para registrar e comparar.
+
+PAUSA
+
+## 11 · Vivido depois
+
+Volte à mesma situação: como é estar diante dela agora?
+Guarde uma expressão breve como “Vivido depois”.
+
+Compare com “Vivido antes”.
+O que mudou e o que permaneceu?
+Essa é a comparação do vivido, separada da comparação das conclusões.
+Pause para perceber e registrar.
+
+PAUSA
+
+## 12 · Encerrar a exploração
+
+ENCERRAMENTO
+
+Deixe a situação e os registros de lado.
+Reconheça o ambiente, perceba os apoios e retome seus movimentos.
+
+PAUSA
+
+A exploração termina aqui.
+Agora vamos elaborar e organizar a continuidade.
+
+## 13 · Conferir no encontro real
+
+ELABORAÇÃO E CONTINUIDADE
+
+Rever uma conclusão pode coexistir com o mesmo aperto.
+O vivido e a compreensão podem mudar de maneiras diferentes.
+Sustentar uma pergunta ou escutar algo inesperado já pode ampliar sua participação; o que continuar difícil orienta o próximo trabalho.
+
+Se falta informação, defina fonte e ocasião para conferir.
+Antes da conversa, retome o contato com o presente, faça a pergunta e escute a resposta real.
+Se ficar dúvida, devolva brevemente o que entendeu e pergunte se corresponde ao que a pessoa quis dizer.
+
+Na mesma Cartografia, conserve os pares de registros, as bases, a pergunta e a ocasião de retorno.
+Depois do encontro, diferencie o que soube, o que ainda supõe e como viveu a situação.
+Essa aprendizagem participa da expressão das suas possibilidades na vida.
+M2.4 trabalhará o que continua organizando a resposta mesmo quando a compreensão mudou.

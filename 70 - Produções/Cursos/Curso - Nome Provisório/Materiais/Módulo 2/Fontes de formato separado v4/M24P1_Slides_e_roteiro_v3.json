@@ -1,0 +1,2411 @@
+{
+  "lesson": "M2.4",
+  "part": 1,
+  "version": "3",
+  "slides": [
+    {
+      "number": 1,
+      "title": "O que mantém a repetição\nde uma resposta?",
+      "layout": "original",
+      "sourceIndex": 0,
+      "spokenWords": 101,
+      "development": "Nesta aula, vamos trabalhar uma diferença que costuma dar muito trabalho na vida.\nConseguimos compreender uma situação, enxergamos outra possibilidade e, quando ela acontece de novo, respondemos quase do mesmo jeito.\n\nVamos acompanhar como essa resposta se organiza e o que precisa encontrar sustentação para que outra participação se torne possível.\nO objetivo é reconhecer onde o trabalho precisa acontecer: elaborar o vivido, acessar uma capacidade, desenvolver uma habilidade ou mudar uma condição da relação.\n\nIsso inclui abrir espaço para um desejo, uma criação ou uma maneira própria de ser.\nNa segunda parte, vamos experimentar esse percurso com uma situação pessoal.",
+      "briefing": [
+        "A diferença central: compreender uma alternativa e conseguir sustentá-la na hora do encontro.",
+        "Objetivo da aula: localizar o trabalho necessário para ampliar a participação.",
+        "Incluir elaboração, acesso, aprendizagem e condições da relação.",
+        "Manter como horizonte também criação, desejo e expressão da singularidade.",
+        "A prática será conduzida no segundo vídeo."
+      ],
+      "notes": "",
+      "nativeSlideId": "ukloum",
+      "screenActual": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 820,
+            "height": 24
+          }
+        },
+        {
+          "name": "cover-label",
+          "text": "M2.4 · PARTE 1\nCOMPREENSÃO E FUNDAMENTOS",
+          "position": {
+            "left": 72,
+            "top": 143,
+            "width": 790,
+            "height": 65
+          }
+        },
+        {
+          "name": "cover-title",
+          "text": "O que mantém a repetição\nde uma resposta?",
+          "position": {
+            "left": 72,
+            "top": 235,
+            "width": 840,
+            "height": 220
+          }
+        },
+        {
+          "name": "presenter",
+          "text": "Fabiano Deliberalli",
+          "position": {
+            "left": 72,
+            "top": 526,
+            "width": 760,
+            "height": 50
+          }
+        },
+        {
+          "name": "official-subtitle",
+          "text": "Da compreensão acumulada\nà presença que sustenta",
+          "position": {
+            "left": 930,
+            "top": 570,
+            "width": 292,
+            "height": 64
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Saber negociar e conseguir conversar",
+      "layout": "original",
+      "sourceIndex": 2,
+      "spokenWords": 104,
+      "development": "Vamos acompanhar uma situação concreta.\nUma pessoa recebe um pedido de trabalho com prazo apertado.\nEla sabe que deveria consultar a agenda e conversar sobre suas condições.\n\nAo ouvir o pedido, sente aperto, imagina decepcionar e responde: pode deixar.\nA tensão diminui naquele instante.\nDepois, ela fica sobrecarregada e perde o tempo que queria dedicar ao descanso ou a um trabalho próprio.\n\nA compreensão estava disponível como ideia.\nNa hora do encontro, outra organização ganhou mais força.\nPrecisamos conhecer essa organização e também a relação: existe espaço para negociar ou há uma ameaça real?\nVamos manter essa situação como referência ao longo da aula.",
+      "briefing": [
+        "Exemplo de referência: um pedido de trabalho com prazo apertado.",
+        "A pessoa sabe que deveria conferir a agenda. Sente aperto e responde “pode deixar”.",
+        "Alívio imediato. Sobrecarga depois. Descanso ou trabalho próprio ficam sem espaço.",
+        "Investigar também a margem real de negociação: acolhimento, ameaça, dependência.",
+        "Manter essa mesma situação nas articulações seguintes."
+      ],
+      "notes": "",
+      "nativeSlideId": "1cnzpo",
+      "screenActual": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 820,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "Saber negociar e conseguir conversar",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 120
+          }
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 1 · 2 / 25",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 460,
+            "height": 22
+          }
+        },
+        {
+          "name": "agenda-label",
+          "text": "Prazo apertado",
+          "position": {
+            "left": 115,
+            "top": 290,
+            "width": 400,
+            "height": 60
+          }
+        },
+        {
+          "name": "agenda-meaning",
+          "text": "Aperto\nImagem de decepcionar\nPressa de encerrar",
+          "position": {
+            "left": 115,
+            "top": 380,
+            "width": 400,
+            "height": 167
+          }
+        },
+        {
+          "name": "answer",
+          "text": "“Pode deixar.”",
+          "position": {
+            "left": 660,
+            "top": 278,
+            "width": 520,
+            "height": 100
+          }
+        },
+        {
+          "name": "relief",
+          "text": "Alívio agora",
+          "position": {
+            "left": 660,
+            "top": 409,
+            "width": 520,
+            "height": 65
+          }
+        },
+        {
+          "name": "cost",
+          "text": "Sobrecarga depois\nA criação fica de lado",
+          "position": {
+            "left": 660,
+            "top": 508,
+            "width": 520,
+            "height": 105
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Uma resposta reúne corpo, história e relação",
+      "layout": "original",
+      "sourceIndex": 3,
+      "spokenWords": 117,
+      "development": "Diante daquele pedido, o aperto no corpo, a imagem de decepcionar e a expectativa de perder lugar podem se reforçar.\nO pensamento acompanha: é melhor aceitar logo.\n\nEssa maneira de os elementos se articularem numa ocasião é o que estamos chamando de configuração da experiência.\nEla inclui também quem faz o pedido, o tom da conversa, os acordos e as consequências de discordar.\n\nPor isso, saber que existe uma alternativa ainda pode alcançar pouco o conjunto que está organizando a resposta.\nUma explicação nova pode mudar a leitura sem que o corpo, a expectativa e a relação já ofereçam condições de sustentá-la.\nVamos retomar o mapa que ajuda a acompanhar a formação dessa experiência e sua elaboração.",
+      "briefing": [
+        "O aperto, a imagem de decepcionar e a expectativa de perder lugar se reforçam.",
+        "Configuração: como esses elementos se articulam nesta ocasião, com a relação e suas condições.",
+        "A explicação pode mudar e alcançar pouco esse conjunto.",
+        "Passagem para os mapas: como a experiência ganha forma e como elaboramos essa forma?"
+      ],
+      "notes": "",
+      "nativeSlideId": "ztl9f6",
+      "screenActual": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 820,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "Uma resposta reúne corpo, história e relação",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 120
+          }
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 1 · 3 / 25",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 460,
+            "height": 22
+          }
+        },
+        {
+          "name": "configuration",
+          "text": "Participar\nna situação",
+          "position": {
+            "left": 450,
+            "top": 374,
+            "width": 380,
+            "height": 135
+          }
+        },
+        {
+          "name": "dimension-0",
+          "text": "Corpo e afeto",
+          "position": {
+            "left": 90,
+            "top": 273,
+            "width": 300,
+            "height": 80
+          }
+        },
+        {
+          "name": "dimension-1",
+          "text": "Imagem e memória",
+          "position": {
+            "left": 890,
+            "top": 273,
+            "width": 300,
+            "height": 80
+          }
+        },
+        {
+          "name": "dimension-2",
+          "text": "Elaboração",
+          "position": {
+            "left": 90,
+            "top": 534,
+            "width": 300,
+            "height": 80
+          }
+        },
+        {
+          "name": "dimension-3",
+          "text": "Relação e condições",
+          "position": {
+            "left": 890,
+            "top": 534,
+            "width": 300,
+            "height": 80
+          }
+        },
+        {
+          "name": "not-identity",
+          "text": "Uma configuração nesta ocasião",
+          "position": {
+            "left": 386,
+            "top": 258,
+            "width": 510,
+            "height": 65
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Retomada: os dois tempos da Tradução",
+      "layout": "mapa_M22",
+      "sourceIndex": 5,
+      "spokenWords": 129,
+      "development": "Vamos olhar novamente para este mapa, apresentado na M2.2.\nQuando uma situação nos encontra, ela ganha uma forma vivida: sensação, imagem, memória, uma disposição para nos aproximar ou recuar.\nNo pedido de trabalho, isso pode aparecer como aperto, uma imagem de desapontar e urgência de concordar.\nEsse é o primeiro tempo da Tradução: a experiência já encontra uma forma, mesmo antes de conseguirmos explicá-la em palavras.\n\nO segundo tempo é elaborar: nomear, relacionar, interpretar e considerar uma escolha.\nA pessoa pode reconhecer: tenho receio de perder meu lugar se negociar.\n\nOs dois tempos conversam.\nA formulação pode modificar o que sentimos, e o vivido pode mostrar que a formulação ainda deixa algo de fora.\nTambém posso perceber conscientemente uma sensação antes de saber dizer o que ela significa.",
+      "briefing": [
+        "Reapresentar o mapa e percorrer as duas regiões visíveis.",
+        "Primeiro tempo: o vivido encontra forma em sensação, imagem, memória ou disposição.",
+        "No pedido: aperto, imagem de desapontar, prontidão para concordar.",
+        "Segundo tempo: nomear, relacionar, interpretar e considerar escolhas.",
+        "Exemplo: “tenho receio de perder meu lugar se negociar”.",
+        "Percorrer a seta de volta: a elaboração modifica o sentir, e o vivido pode corrigir a elaboração.",
+        "Sentir conscientemente algo e conseguir explicá-lo são capacidades diferentes."
+      ],
+      "notes": "",
+      "nativeSlideId": "66187ca4-bcd8-4c2b-a5b3-7f62763d0572",
+      "screenActual": [
+        {
+          "name": "course",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 800,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "Retomada: os dois tempos da Tradução",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 120
+          }
+        },
+        {
+          "name": "footer",
+          "text": "M2.4 · Parte 1 · 4 / 25",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 300,
+            "height": 20
+          }
+        },
+        {
+          "name": "lived-form",
+          "text": "O vivido\nencontra forma",
+          "position": {
+            "left": 92,
+            "top": 280,
+            "width": 450,
+            "height": 160
+          }
+        },
+        {
+          "name": "elaboration",
+          "text": "Elaborar\ne conferir",
+          "position": {
+            "left": 738,
+            "top": 280,
+            "width": 450,
+            "height": 160
+          }
+        },
+        {
+          "name": "forms",
+          "text": "Sensação, imagem,\nmemória, disposição",
+          "position": {
+            "left": 98,
+            "top": 469,
+            "width": 440,
+            "height": 83
+          }
+        },
+        {
+          "name": "elab-actions",
+          "text": "Nomear, relacionar,\ninterpretar, escolher",
+          "position": {
+            "left": 742,
+            "top": 469,
+            "width": 440,
+            "height": 83
+          }
+        },
+        {
+          "name": "reciprocity",
+          "text": "A elaboração transforma o sentir. A experiência pode surpreender a explicação.",
+          "position": {
+            "left": 80,
+            "top": 588,
+            "width": 1110,
+            "height": 58
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Retomada: Eu Básico e Eu Médio",
+      "layout": "mapa_M22",
+      "sourceIndex": 6,
+      "spokenWords": 131,
+      "development": "Este outro mapa dá nomes funcionais a aspectos desse diálogo.\nEle vem da Huna moderna de Max Freedom Long e foi desenvolvido na leitura do TSH.\n\nEu Básico nomeia a participação da sensibilidade, das imagens, das memórias e do saber vivido.\nNo nosso exemplo, a experiência de ameaça e a prontidão para concordar podem aparecer nesse campo.\nEu Médio nomeia funções de raciocínio, linguagem, interpretação e escolha.\nÉ por esse caminho que a pessoa reconhece a necessidade de consultar a agenda e negociar.\n\nEstamos olhando funções que se relacionam na mesma pessoa.\nA questão é como a compreensão alcança a experiência e como a experiência participa da compreensão.\nEsse mapa não exige que a razão vença o corpo.\nVamos investigar o que ajuda esse diálogo a produzir mais condições de participação.",
+      "briefing": [
+        "Reapresentar as funções antes de voltar a operar com seus nomes.",
+        "Eu Básico: sensibilidade, imagens, memória e saber vivido.",
+        "Eu Médio: raciocínio, linguagem, interpretação e escolha.",
+        "Situar a Huna moderna de Max Freedom Long e a leitura desenvolvida no TSH.",
+        "No pedido, a prontidão para concordar pode coexistir com a compreensão de que é possível negociar.",
+        "São funções relacionadas na mesma pessoa. A razão não precisa vencer o corpo.",
+        "A questão é dar condições para que compreensão e experiência conversem."
+      ],
+      "notes": "",
+      "nativeSlideId": "5b043ab2-80c9-4008-9025-b6312fef8aff",
+      "screenActual": [
+        {
+          "name": "course",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 800,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "Retomada: Eu Básico e Eu Médio",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 120
+          }
+        },
+        {
+          "name": "footer",
+          "text": "M2.4 · Parte 1 · 5 / 25",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 300,
+            "height": 20
+          }
+        },
+        {
+          "name": "basic",
+          "text": "Eu Básico",
+          "position": {
+            "left": 90,
+            "top": 280,
+            "width": 460,
+            "height": 120
+          }
+        },
+        {
+          "name": "middle",
+          "text": "Eu Médio",
+          "position": {
+            "left": 730,
+            "top": 280,
+            "width": 460,
+            "height": 120
+          }
+        },
+        {
+          "name": "basic-functions",
+          "text": "Sensibilidade, memória,\nimagens e saber vivido",
+          "position": {
+            "left": 100,
+            "top": 438,
+            "width": 440,
+            "height": 103
+          }
+        },
+        {
+          "name": "middle-functions",
+          "text": "Raciocínio, linguagem,\ninterpretação e escolha",
+          "position": {
+            "left": 740,
+            "top": 438,
+            "width": 440,
+            "height": 103
+          }
+        },
+        {
+          "name": "map-origin",
+          "text": "Um mapa da Huna moderna de Max Freedom Long, na leitura desenvolvida no TSH.",
+          "position": {
+            "left": 72,
+            "top": 590,
+            "width": 1100,
+            "height": 54
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Bion: quando uma emoção encontra forma",
+      "layout": "bion",
+      "sourceIndex": null,
+      "spokenWords": 143,
+      "development": "Às vezes, diante do pedido de trabalho, a pessoa reconhece apenas uma pressão: preciso acabar com isso agora.\nHá experiência emocional, mas ainda pouca condição de acompanhá-la e pensar sobre ela.\n\nO psicanalista Wilfred Bion investigou justamente como aprendemos com a experiência emocional.\nEle chamou de função alfa o trabalho que torna impressões sensíveis e emocionais disponíveis em formas que podem participar dos sonhos, da memória e do pensamento.\n\nIsso ajuda a compreender uma passagem importante para o TSH.\nUma imagem ou uma expressão pode dar contorno ao que antes era apenas pressão.\nA pessoa percebe uma imagem de ficar do lado de fora e começa a reconhecer um receio de perder lugar.\n\nAgora há algo que pode ser acompanhado, relacionado à história e conferido na situação atual.\nA forma encontrada abre trabalho de elaboração, que pode precisar de tempo e de relação.",
+      "briefing": [
+        "Retomar a pressão diante do prazo: urgência para acabar com a tensão.",
+        "Bion investigou como aprendemos com a experiência emocional.",
+        "Função alfa: impressões sensíveis e emocionais encontram formas disponíveis para sonhar e pensar.",
+        "Ler o desenho com o exemplo: pressão, imagem de ficar de fora, receio que começa a ganhar contorno.",
+        "A forma permite acompanhar e elaborar algo antes pouco diferenciado.",
+        "Aproximação com a Tradução no TSH. A elaboração pode continuar além da primeira palavra."
+      ],
+      "notes": "",
+      "nativeSlideId": "f82344eb-9b12-4f81-b360-272a2e8d2840",
+      "screenActual": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 820,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "Bion: quando uma emoção encontra forma",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 120
+          }
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 1 · 6 / 25",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 460,
+            "height": 22
+          }
+        },
+        {
+          "name": "pressure",
+          "text": "Pressão\ne urgência",
+          "position": {
+            "left": 80,
+            "top": 275,
+            "width": 310,
+            "height": 115
+          }
+        },
+        {
+          "name": "form",
+          "text": "Uma forma começa\na aparecer",
+          "position": {
+            "left": 485,
+            "top": 275,
+            "width": 310,
+            "height": 115
+          }
+        },
+        {
+          "name": "thinking",
+          "text": "Algo que pode ser\nacompanhado e pensado",
+          "position": {
+            "left": 890,
+            "top": 275,
+            "width": 310,
+            "height": 115
+          }
+        },
+        {
+          "name": "example",
+          "text": "“Vejo-me do lado de fora.”\n“Tenho receio de perder meu lugar.”",
+          "position": {
+            "left": 80,
+            "top": 465,
+            "width": 1120,
+            "height": 118
+          }
+        },
+        {
+          "name": "contribution",
+          "text": "Função alfa: a experiência emocional encontra formas para elaboração",
+          "position": {
+            "left": 80,
+            "top": 606,
+            "width": 1110,
+            "height": 35
+          }
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Dar nome e encontrar condição de elaborar",
+      "layout": "bion_relacao",
+      "sourceIndex": null,
+      "spokenWords": 141,
+      "development": "Continuemos com a pressão diante do pedido de trabalho.\nSe alguém diz imediatamente: isso é só medo de rejeição, pode oferecer uma explicação que a pessoa repete, mas ainda não consegue reconhecer na própria experiência.\n\nUma escuta diferente ajuda a acompanhar o que está acontecendo sem impor um sentido.\nAo ter algum espaço, a pessoa pode notar a imagem de ficar de fora, a vergonha de discordar ou uma raiva que estava sem expressão.\nEla também pode perceber que a leitura oferecida não corresponde ao que vive.\n\nBion ajuda a pensar a importância de uma relação que acolhe e favorece a elaboração da experiência emocional.\nNo curso, essa contribuição orienta como fazemos perguntas e damos tempo para reconhecer.\nUma palavra útil precisa encontrar ligação com o vivido.\nÉ esse vínculo que permite continuar o diálogo entre os dois tempos da Tradução.",
+      "briefing": [
+        "Contrapor duas maneiras de acompanhar a mesma pressão.",
+        "Uma explicação pronta pode ser repetida sem que a pessoa reconheça o que vive.",
+        "Escuta e tempo podem favorecer a imagem, o afeto ou a palavra ainda sem espaço.",
+        "Bion ajuda a compreender a função da relação nessa elaboração.",
+        "A expressão oferecida admite reconhecimento, diferença e correção.",
+        "Voltar ao mapa: palavra e vivido precisam permanecer em diálogo."
+      ],
+      "notes": "",
+      "nativeSlideId": "le3l6s",
+      "screenActual": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 820,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "Dar nome e encontrar condição de elaborar",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 120
+          }
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 1 · 7 / 25",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 460,
+            "height": 22
+          }
+        },
+        {
+          "name": "pressure",
+          "text": "Uma pressão difícil de acompanhar",
+          "position": {
+            "left": 80,
+            "top": 250,
+            "width": 1100,
+            "height": 70
+          }
+        },
+        {
+          "name": "listen",
+          "text": "Escuta e espaço\npara reconhecer",
+          "position": {
+            "left": 80,
+            "top": 380,
+            "width": 420,
+            "height": 115
+          }
+        },
+        {
+          "name": "find",
+          "text": "Uma imagem ou palavra\nligada ao vivido",
+          "position": {
+            "left": 735,
+            "top": 380,
+            "width": 465,
+            "height": 115
+          }
+        },
+        {
+          "name": "check",
+          "text": "A pessoa pode reconhecer, diferenciar ou corrigir a expressão",
+          "position": {
+            "left": 80,
+            "top": 562,
+            "width": 1100,
+            "height": 76
+          }
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Morin: a resposta ajuda a produzir o próximo encontro",
+      "layout": "circuito",
+      "sourceIndex": null,
+      "spokenWords": 118,
+      "development": "A pessoa aceita o prazo e sente alívio.\nQuem fez o pedido pode passar a contar com aquela disponibilidade.\nO novo pedido chega com a expectativa de que ela aceitará outra vez.\n\nTemos um circuito: a expectativa participa da resposta, a resposta modifica o encontro e o que retorna do encontro passa a participar da próxima expectativa.\nEdgar Morin chama atenção para processos em que os efeitos também entram na produção da continuidade.\nÉ isso que a ideia de recursividade nos ajuda a enxergar aqui.\n\nA repetição pode estar sendo sustentada por uma relação em funcionamento, além das referências que a pessoa traz.\nReconhecer esse circuito permite procurar em qual passagem há margem para participar de outra maneira.",
+      "briefing": [
+        "Percorrer o circuito visual com o mesmo pedido de trabalho.",
+        "Expectativa de perder lugar. Aceitação rápida. Alívio agora e sobrecarga depois.",
+        "O outro passa a esperar disponibilidade. Essa resposta retorna no próximo pedido.",
+        "Morin: os efeitos entram na produção da continuidade. Explicar esse sentido de recursividade.",
+        "A repetição pode ser sustentada também pela relação em funcionamento.",
+        "Localizar em qual passagem pode haver margem para agir."
+      ],
+      "notes": "",
+      "nativeSlideId": "e7i3jj",
+      "screenActual": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 820,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "Morin: a resposta ajuda a produzir o próximo encontro",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 120
+          }
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 1 · 8 / 25",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 460,
+            "height": 22
+          }
+        },
+        {
+          "name": "expect",
+          "text": "Expectativa\nDiscordar ameaça meu lugar",
+          "position": {
+            "left": 80,
+            "top": 254,
+            "width": 470,
+            "height": 115
+          }
+        },
+        {
+          "name": "response",
+          "text": "Resposta\nAceito sem conversar",
+          "position": {
+            "left": 730,
+            "top": 254,
+            "width": 470,
+            "height": 115
+          }
+        },
+        {
+          "name": "next",
+          "text": "Retorno\nAlívio agora, sobrecarga depois",
+          "position": {
+            "left": 730,
+            "top": 490,
+            "width": 470,
+            "height": 115
+          }
+        },
+        {
+          "name": "return",
+          "text": "Próximo encontro\nJá esperam minha disponibilidade",
+          "position": {
+            "left": 80,
+            "top": 490,
+            "width": 470,
+            "height": 115
+          }
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Mudar uma passagem modifica o circuito",
+      "layout": "circuito_alternativa",
+      "sourceIndex": null,
+      "spokenWords": 122,
+      "development": "Na mesma situação do prazo, a pessoa pode conseguir dizer: vou conferir minha agenda e retorno em alguns minutos.\nEsse intervalo muda algo no encontro.\nEla consulta o que já assumiu e volta com uma condição concreta para conversar.\n\nO outro pode acolher, negociar ou pressionar.\nCada resposta oferece informação sobre a relação real.\nO circuito pode começar a se modificar e também pode revelar uma restrição que antes estava pouco clara.\n\nEssa é a utilidade da recursividade para nossa aula: acompanhar como uma mudança de participação encontra o mundo e o que retorna dela.\nA pessoa não é responsável por tudo que o outro faz.\nÀs vezes, a continuidade exige apoio, outro acordo ou mudança das condições, além do trabalho interno.",
+      "briefing": [
+        "Experimentar no exemplo uma mudança de participação: consultar a agenda antes de responder.",
+        "O intervalo permite conhecer compromissos e formular uma condição concreta.",
+        "O outro pode acolher, negociar ou pressionar. Cada resposta acrescenta informação real.",
+        "Uma mudança encontra o mundo e recebe retorno. É esse circuito que acompanhamos.",
+        "Considerar apoio, novos acordos ou mudança de contexto quando necessário.",
+        "Preservar a responsabilidade do outro por sua conduta."
+      ],
+      "notes": "",
+      "nativeSlideId": "gen72t",
+      "screenActual": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 820,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "Mudar uma passagem modifica o circuito",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 120
+          }
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 1 · 9 / 25",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 460,
+            "height": 22
+          }
+        },
+        {
+          "name": "small-action",
+          "text": "“Vou conferir minha agenda e retorno.”",
+          "position": {
+            "left": 80,
+            "top": 249,
+            "width": 1110,
+            "height": 90
+          }
+        },
+        {
+          "name": "new-response",
+          "text": "Uma resposta\ncom outra sustentação",
+          "position": {
+            "left": 80,
+            "top": 406,
+            "width": 420,
+            "height": 122
+          }
+        },
+        {
+          "name": "other-response",
+          "text": "O outro acolhe, negocia\nou pressiona",
+          "position": {
+            "left": 740,
+            "top": 406,
+            "width": 460,
+            "height": 122
+          }
+        },
+        {
+          "name": "real-info",
+          "text": "O que retorna mostra possibilidades e restrições reais",
+          "position": {
+            "left": 80,
+            "top": 573,
+            "width": 1100,
+            "height": 65
+          }
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Cozolino: o passado participa da formação do presente",
+      "layout": "cozolino",
+      "sourceIndex": null,
+      "spokenWords": 131,
+      "development": "Por que aquela expectativa pode aparecer tão depressa, mesmo depois de a pessoa ter compreendido a situação?\nLouis Cozolino reúne contribuições da neurociência para pensar como memória, corpo e emoção participam da experiência presente.\n\nUma aprendizagem não precisa voltar como uma lembrança narrada.\nUma pessoa pode ter aprendido que discordar ameaça seu lugar e, diante do novo pedido, já se preparar para concordar.\nEla vive o pedido atual com participação dessa referência, mesmo sem estar pensando numa cena antiga.\n\nCozolino usa a expressão meio segundo vital para chamar atenção ao processamento que participa da experiência antes de sua elaboração reflexiva.\nO presente já pode chegar à reflexão organizado de uma determinada maneira.\nPor isso, compreender depois o que aconteceu ainda deixa o trabalho de tornar outra referência disponível no próximo encontro.",
+      "briefing": [
+        "Pergunta de entrada: por que a expectativa reaparece tão depressa?",
+        "Cozolino: referências de memória, corpo e emoção participam da formação do presente.",
+        "Uma aprendizagem pode aparecer como prontidão para concordar, sem lembrança narrada.",
+        "“Meio segundo vital” é a expressão do autor para pensar processos que antecedem a elaboração reflexiva.",
+        "Tempos aproximados na síntese de Cozolino. O ensino acompanha a formação da experiência.",
+        "Entender depois ainda deixa o trabalho de tornar outra referência disponível no próximo encontro."
+      ],
+      "notes": "",
+      "nativeSlideId": "axc3oa",
+      "screenActual": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 820,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "Cozolino: o passado participa da formação do presente",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 120
+          }
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 1 · 10 / 25",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 460,
+            "height": 22
+          }
+        },
+        {
+          "name": "past",
+          "text": "Referências aprendidas\nCorpo, memória, emoção",
+          "position": {
+            "left": 80,
+            "top": 265,
+            "width": 475,
+            "height": 130
+          }
+        },
+        {
+          "name": "present",
+          "text": "Pedido atual\nJá vivido como ameaça",
+          "position": {
+            "left": 725,
+            "top": 265,
+            "width": 475,
+            "height": 130
+          }
+        },
+        {
+          "name": "reflect",
+          "text": "A reflexão encontra uma experiência\nque já começou a se organizar",
+          "position": {
+            "left": 80,
+            "top": 470,
+            "width": 1100,
+            "height": 130
+          }
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "O presente também pode surpreender o que aprendemos",
+      "layout": "cozolino_atual",
+      "sourceIndex": null,
+      "spokenWords": 119,
+      "development": "Voltemos ao pedido com prazo apertado.\nSe a pessoa encontra abertura para conversar, essa informação atual pode se diferenciar da expectativa de que negociar seria rejeitado.\nSe encontra ameaça, a realidade atual precisa ser considerada.\n\nO que aprendemos ajuda a antecipar e a responder.\nEssa capacidade também sustenta orientação, proteção e habilidades refinadas.\nO trabalho é reconhecer quando uma referência ajuda e quando está restringindo o que conseguimos perceber e fazer.\n\nO meio segundo é uma expressão de Cozolino para pensar diferenças entre processos, com tempos aproximados.\nAqui nos interessa como a experiência se forma e pode ser trabalhada.\nNo mapa do TSH, acompanhamos a forma vivida e sua elaboração em diálogo, incluindo o que o encontro atual acrescenta.",
+      "briefing": [
+        "Diferenciar a expectativa aprendida e o que o encontro atual apresenta.",
+        "Abertura para negociar oferece uma informação. Ameaça real também precisa ser considerada.",
+        "Antecipar sustenta orientação, proteção e habilidades refinadas.",
+        "Investigar quando uma referência ajuda e quando restringe percepção e participação.",
+        "Retomar as duas regiões do mapa: forma vivida e elaboração recebem o acréscimo do encontro atual."
+      ],
+      "notes": "",
+      "nativeSlideId": "eqpzhp",
+      "screenActual": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 820,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "O presente também pode surpreender o que aprendemos",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 120
+          }
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 1 · 11 / 25",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 460,
+            "height": 22
+          }
+        },
+        {
+          "name": "expected",
+          "text": "O que aprendi\na esperar",
+          "position": {
+            "left": 80,
+            "top": 285,
+            "width": 450,
+            "height": 140
+          }
+        },
+        {
+          "name": "current",
+          "text": "O que este encontro\napresenta agora",
+          "position": {
+            "left": 750,
+            "top": 285,
+            "width": 450,
+            "height": 140
+          }
+        },
+        {
+          "name": "learned",
+          "text": "Antecipar também sustenta orientação e habilidades",
+          "position": {
+            "left": 80,
+            "top": 513,
+            "width": 1110,
+            "height": 102
+          }
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Kahneman: o que fazemos com a primeira impressão?",
+      "layout": "kahneman",
+      "sourceIndex": null,
+      "spokenWords": 146,
+      "development": "Depois de se sentir em falta diante do pedido, a pessoa pensa: eu devo isso a ela.\nSentir culpa e ter descumprido um acordo são questões que precisam conversar, mas uma não responde automaticamente à outra.\n\nDaniel Kahneman chama de Sistema 1 os processos mais rápidos, associativos e pouco deliberados.\nChama de Sistema 2 o trabalho que mobiliza atenção para conferir, comparar e deliberar.\nSão nomes que ajudam a pensar funções.\n\nUma impressão pode ser aceita sem examinar suas bases.\nNa situação do prazo, conferir os acordos pode mostrar que houve uma falha, que há margem de negociação ou que a culpa veio antes dessa verificação.\n\nCozolino nos ajuda a pensar a formação da experiência presente.\nKahneman acrescenta a pergunta sobre o aval dado à impressão.\nConferir a interpretação é necessário e pode mostrar o que ainda precisa de sustentação para conseguirmos agir de outra maneira.",
+      "briefing": [
+        "Retomar duas perguntas diferentes: sinto culpa ou descumpri um acordo?",
+        "Kahneman: Sistema 1 reúne processos rápidos e associativos. Sistema 2 mobiliza atenção para conferir e deliberar.",
+        "Uma impressão pode receber aval sem exame suficiente de suas bases.",
+        "No pedido, conferir os acordos pode reconhecer uma falha, uma margem de negociação ou uma culpa antecipada.",
+        "Cozolino ajuda a pensar a formação do presente. Kahneman acrescenta o exame do aval à impressão.",
+        "Conferir pode mudar a leitura e revelar o que ainda falta para conseguir agir."
+      ],
+      "notes": "",
+      "nativeSlideId": "sribei",
+      "screenActual": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 820,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "Kahneman: o que fazemos com a primeira impressão?",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 120
+          }
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 1 · 12 / 25",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 460,
+            "height": 22
+          }
+        },
+        {
+          "name": "guilt",
+          "text": "“Sinto culpa.”",
+          "position": {
+            "left": 80,
+            "top": 250,
+            "width": 500,
+            "height": 65
+          }
+        },
+        {
+          "name": "debt",
+          "text": "“Descumpri um acordo?”",
+          "position": {
+            "left": 690,
+            "top": 250,
+            "width": 520,
+            "height": 65
+          }
+        },
+        {
+          "name": "quick",
+          "text": "Sistema 1\nImpressões e associações",
+          "position": {
+            "left": 80,
+            "top": 378,
+            "width": 500,
+            "height": 132
+          }
+        },
+        {
+          "name": "deliberate",
+          "text": "Sistema 2\nConferir e deliberar",
+          "position": {
+            "left": 700,
+            "top": 378,
+            "width": 500,
+            "height": 132
+          }
+        },
+        {
+          "name": "agreements",
+          "text": "A experiência sentida e os acordos precisam ser considerados",
+          "position": {
+            "left": 80,
+            "top": 570,
+            "width": 1110,
+            "height": 68
+          }
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "As contribuições se encontram nesta situação",
+      "layout": "sintese",
+      "sourceIndex": null,
+      "spokenWords": 117,
+      "development": "Vamos reunir o que essas perspectivas acrescentaram ao mesmo pedido de trabalho.\nBion ajuda a compreender como a pressão encontra uma forma que permite elaboração.\nMorin ajuda a acompanhar o circuito entre expectativa, resposta e o que retorna da relação.\nCozolino chama atenção para referências aprendidas que participam da formação do presente.\nKahneman ajuda a investigar como uma impressão é aceita ou conferida.\n\nNo TSH, colocamos essas perguntas em diálogo para localizar o trabalho que está faltando.\nA pessoa pode precisar reconhecer melhor o vivido e pode precisar modificar condições de participação.\nUma explicação, sozinha, não executa essas passagens.\nPor isso a aula precisa chegar ao acesso a recursos, ao ensaio e ao retorno do encontro real.",
+      "briefing": [
+        "Reunir as contribuições na mesma situação, seguindo as perguntas da tela.",
+        "Bion: como a pressão encontra forma para elaboração.",
+        "Morin: como a resposta participa do próximo encontro.",
+        "Cozolino: referências aprendidas na formação do presente.",
+        "Kahneman: aceitação ou conferência da impressão.",
+        "Síntese do TSH: localizar o trabalho necessário entre experiência, elaboração e participação."
+      ],
+      "notes": "",
+      "nativeSlideId": "58zi35",
+      "screenActual": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 820,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "As contribuições se encontram nesta situação",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 120
+          }
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 1 · 13 / 25",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 460,
+            "height": 22
+          }
+        },
+        {
+          "name": "author-0",
+          "text": "Bion",
+          "position": {
+            "left": 80,
+            "top": 253,
+            "width": 260,
+            "height": 59
+          }
+        },
+        {
+          "name": "question-0",
+          "text": "Como a pressão ganha uma forma para elaboração?",
+          "position": {
+            "left": 370,
+            "top": 259,
+            "width": 825,
+            "height": 71
+          }
+        },
+        {
+          "name": "author-1",
+          "text": "Morin",
+          "position": {
+            "left": 80,
+            "top": 346,
+            "width": 260,
+            "height": 59
+          }
+        },
+        {
+          "name": "question-1",
+          "text": "Como a resposta participa do próximo encontro?",
+          "position": {
+            "left": 370,
+            "top": 352,
+            "width": 825,
+            "height": 71
+          }
+        },
+        {
+          "name": "author-2",
+          "text": "Cozolino",
+          "position": {
+            "left": 80,
+            "top": 439,
+            "width": 260,
+            "height": 59
+          }
+        },
+        {
+          "name": "question-2",
+          "text": "Que referências aprendidas organizam o presente?",
+          "position": {
+            "left": 370,
+            "top": 445,
+            "width": 825,
+            "height": 71
+          }
+        },
+        {
+          "name": "author-3",
+          "text": "Kahneman",
+          "position": {
+            "left": 80,
+            "top": 532,
+            "width": 260,
+            "height": 59
+          }
+        },
+        {
+          "name": "question-3",
+          "text": "Como uma impressão é aceita ou conferida?",
+          "position": {
+            "left": 370,
+            "top": 538,
+            "width": 825,
+            "height": 71
+          }
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Aprender pode mudar o que já chega disponível",
+      "layout": "aprendizagem",
+      "sourceIndex": null,
+      "spokenWords": 140,
+      "development": "Essa formação rápida da experiência também participa das capacidades que cultivamos.\nNo shakuhachi, por exemplo, escuta, sopro e gesto podem ganhar uma coordenação que seria difícil sustentar explicando cada ajuste enquanto ele acontece.\nEsse saber reúne prática, sensibilidade e retorno sobre o que se realiza.\n\nKahneman e Gary Klein investigaram condições para o desenvolvimento de intuição especializada.\nOportunidades de aprender regularidades e receber retorno sobre os resultados fazem diferença.\nRepetição e confiança, sozinhas, ainda não demonstram uma capacidade refinada.\n\nÉ o que retomamos como competência incorporada no TSH: algo aprendido passa a participar da percepção e da resposta, além da explicação que conseguimos dar.\nNo pedido de trabalho, o cultivo procura tornar mais disponível a capacidade de perceber a pressão, consultar condições e permanecer na conversa.\nO encontro real continua mostrando o que se sustentou e o que pede trabalho.",
+      "briefing": [
+        "Retomar competência incorporada com o shakuhachi: escuta, sopro e gesto ganham coordenação no cultivo.",
+        "Aprender envolve sensibilidade, prática e retorno sobre o que se realiza.",
+        "Kahneman e Klein: oportunidades de aprender regularidades e receber retorno favorecem intuição especializada.",
+        "Repetição e confiança isoladas ainda precisam dessa conferência.",
+        "No prazo, o cultivo busca tornar disponível perceber a pressão, consultar condições e permanecer na conversa.",
+        "Acompanhar o que se sustenta no encontro real."
+      ],
+      "notes": "",
+      "nativeSlideId": "09908t",
+      "screenActual": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 820,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "Aprender pode mudar o que já chega disponível",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 120
+          }
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 1 · 14 / 25",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 460,
+            "height": 22
+          }
+        },
+        {
+          "name": "instrument",
+          "text": "Shakuhachi",
+          "position": {
+            "left": 80,
+            "top": 250,
+            "width": 1090,
+            "height": 70
+          }
+        },
+        {
+          "name": "coordination",
+          "text": "Escuta, sopro e gesto\nganham coordenação no cultivo",
+          "position": {
+            "left": 80,
+            "top": 355,
+            "width": 1110,
+            "height": 125
+          }
+        },
+        {
+          "name": "feedback",
+          "text": "Prática com retorno sobre o que se realiza",
+          "position": {
+            "left": 80,
+            "top": 554,
+            "width": 1110,
+            "height": 70
+          }
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "Onde o trabalho precisa continuar?",
+      "layout": "necessidades",
+      "sourceIndex": null,
+      "spokenWords": 101,
+      "development": "Podemos encontrar necessidades diferentes na situação do prazo.\nA pessoa sabe negociar em outros contextos, mas não consegue acessar essa capacidade diante de alguém específico.\nAqui vamos procurar condições de acesso e uma referência pertinente.\n\nTalvez ela ainda não saiba formular uma negociação.\nPrecisará aprender, experimentar uma fala e receber retorno.\nTalvez tenha capacidade e encontre uma imposição real.\nPrecisará conhecer e trabalhar as condições da relação, com apoio quando necessário.\n\nEssas necessidades podem se combinar.\nDiferenciá-las evita recomendar sempre a mesma solução.\nA prática vai nos ajudar a reconhecer o que está disponível agora e qual trabalho faz sentido continuar.",
+      "briefing": [
+        "Distinguir três necessidades, que podem se combinar.",
+        "Uma capacidade existe, mas fica pouco acessível: construir condições de acesso.",
+        "Uma habilidade ainda falta: aprender, experimentar e receber retorno.",
+        "Uma condição externa restringe: obter apoio e trabalhar relação ou contexto.",
+        "Aplicar cada possibilidade ao pedido de trabalho.",
+        "Essa diferenciação orienta a escolha do recurso e o trabalho seguinte."
+      ],
+      "notes": "",
+      "nativeSlideId": "wfdla9",
+      "screenActual": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 820,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "Onde o trabalho precisa continuar?",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 120
+          }
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 1 · 15 / 25",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 460,
+            "height": 22
+          }
+        },
+        {
+          "name": "need-0",
+          "text": "Uma capacidade existe",
+          "position": {
+            "left": 80,
+            "top": 265,
+            "width": 470,
+            "height": 68
+          }
+        },
+        {
+          "name": "work-0",
+          "text": "Construir condições para acessá-la",
+          "position": {
+            "left": 620,
+            "top": 271,
+            "width": 580,
+            "height": 82
+          }
+        },
+        {
+          "name": "need-1",
+          "text": "Uma habilidade falta",
+          "position": {
+            "left": 80,
+            "top": 390,
+            "width": 470,
+            "height": 68
+          }
+        },
+        {
+          "name": "work-1",
+          "text": "Aprender, experimentar e receber retorno",
+          "position": {
+            "left": 620,
+            "top": 396,
+            "width": 580,
+            "height": 82
+          }
+        },
+        {
+          "name": "need-2",
+          "text": "Uma condição restringe",
+          "position": {
+            "left": 80,
+            "top": 515,
+            "width": 470,
+            "height": 68
+          }
+        },
+        {
+          "name": "work-2",
+          "text": "Obter apoio e trabalhar a relação ou o contexto",
+          "position": {
+            "left": 620,
+            "top": 521,
+            "width": 580,
+            "height": 82
+          }
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "title": "O que a resposta mantém e o que pede expressão?",
+      "layout": "original",
+      "sourceIndex": 11,
+      "spokenWords": 125,
+      "development": "Ao aceitar depressa, a pessoa pode procurar preservar uma renda, um vínculo ou o lugar de alguém com quem se pode contar.\nÉ preciso investigar essa função, porque também pode haver costume, pressão ou restrições que nunca a protegeram.\n\nAo mesmo tempo, algo pode estar ficando sem lugar: descanso, criação, uma contribuição própria ou a possibilidade de se posicionar.\nPor isso não vamos olhar apenas para a resposta que queremos interromper.\nVamos reconhecer o que precisa encontrar condições de expressão.\n\nNo TSH, esse horizonte se relaciona às possibilidades da Essência e à singularidade concreta de cada vida.\nA experiência traz informações sobre o que importa, e a elaboração ajuda a encontrar uma direção.\nEssa direção precisa encontrar corpo, relação, tempo e condições materiais para existir.",
+      "briefing": [
+        "Investigar o que a aceitação rápida mantém: renda, vínculo, imagem de disponibilidade ou costume.",
+        "Conferir a função em cada situação. Algumas restrições nunca protegeram a pessoa.",
+        "Reconhecer o que fica sem lugar: descanso, criação, posição própria, contribuição.",
+        "Essência e singularidade: possibilidades que precisam encontrar condições concretas de expressão.",
+        "A direção reconhecida pede corpo, relação, tempo e condições materiais."
+      ],
+      "notes": "",
+      "nativeSlideId": "mjcii2",
+      "screenActual": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 820,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "O que a resposta mantém e o que pede expressão?",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 120
+          }
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 1 · 16 / 25",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 460,
+            "height": 22
+          }
+        },
+        {
+          "name": "preserve",
+          "text": "O que preserva?",
+          "position": {
+            "left": 85,
+            "top": 278,
+            "width": 475,
+            "height": 80
+          }
+        },
+        {
+          "name": "preserve-details",
+          "text": "Vínculo · Condições de vida\nUma referência conhecida",
+          "position": {
+            "left": 85,
+            "top": 390,
+            "width": 475,
+            "height": 120
+          }
+        },
+        {
+          "name": "expression",
+          "text": "O que pede espaço?",
+          "position": {
+            "left": 725,
+            "top": 278,
+            "width": 475,
+            "height": 80
+          }
+        },
+        {
+          "name": "expression-details",
+          "text": "Criação · Desejo · Descanso\nLimite · Sentido",
+          "position": {
+            "left": 725,
+            "top": 390,
+            "width": 475,
+            "height": 120
+          }
+        },
+        {
+          "name": "horizon",
+          "text": "Reconhecimento, integração e expressão das possibilidades da Essência",
+          "position": {
+            "left": 80,
+            "top": 590,
+            "width": 1120,
+            "height": 55
+          }
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "title": "Milgram: autoridade e continuidade da ação",
+      "layout": "original",
+      "sourceIndex": 12,
+      "spokenWords": 97,
+      "development": "Stanley Milgram investigou até onde participantes seguiriam instruções de uma autoridade num laboratório.\nEles acreditavam participar de uma pesquisa sobre memória e aprendizagem.\n\nO participante assumia o papel de professor e deveria aumentar supostos choques a cada erro do aprendiz.\nO pesquisador orientava a continuidade.\nO aprendiz era um colaborador e não recebia as descargas anunciadas.\nNa condição publicada em 1963, ele batia na parede nos níveis mais altos e deixava de responder.\n\nAutoridade institucional, legitimidade da tarefa e pequenos incrementos compunham aquela situação.\nO estudo permite examinar a distância entre sentir conflito e interromper uma ação.",
+      "briefing": [
+        "Situar a pergunta de Milgram: continuidade da ação sob instruções de uma autoridade.",
+        "Explicar os papéis na figura: pesquisador, participante como professor e colaborador como aprendiz.",
+        "O participante acreditava aplicar choques progressivos. O aprendiz não recebia as descargas anunciadas.",
+        "Na condição publicada em 1963, o aprendiz batia na parede e depois deixava de responder.",
+        "Autoridade institucional, tarefa e progressão compõem o arranjo que vamos examinar."
+      ],
+      "notes": "",
+      "nativeSlideId": "6vlj44",
+      "screenActual": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 820,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "Milgram: autoridade e continuidade da ação",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 120
+          }
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 1 · 17 / 25",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 460,
+            "height": 22
+          }
+        },
+        {
+          "name": "experimenter-role",
+          "text": "Pesquisador\nPede continuidade",
+          "position": {
+            "left": 100,
+            "top": 491,
+            "width": 280,
+            "height": 90
+          }
+        },
+        {
+          "name": "participant-role",
+          "text": "Participante\nAciona o aparelho",
+          "position": {
+            "left": 460,
+            "top": 491,
+            "width": 330,
+            "height": 90
+          }
+        },
+        {
+          "name": "learner-role",
+          "text": "Aprendiz\nColaborador do estudo",
+          "position": {
+            "left": 870,
+            "top": 491,
+            "width": 315,
+            "height": 90
+          }
+        },
+        {
+          "name": "simulation",
+          "text": "Os choques destinados ao aprendiz eram simulados.",
+          "position": {
+            "left": 80,
+            "top": 619,
+            "width": 1100,
+            "height": 35
+          }
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "title": "Sentir conflito não garante interromper a ação",
+      "layout": "original",
+      "sourceIndex": 13,
+      "spokenWords": 84,
+      "development": "Na condição descrita em 1963, participaram quarenta homens.\nVinte e seis chegaram ao nível máximo indicado e quatorze interromperam antes.\nMuitos dos que continuaram mostraram tensão.\n\nO desconforto podia coexistir com a continuidade da ação.\nPrecisamos compreender essa participação junto da autoridade reconhecida, da tarefa e dos compromissos em curso.\nOs números pertencem àquele arranjo experimental.\n\nPara nossa aula, a pergunta é: que condições permitem sustentar uma interrupção ou outra resposta?\nReconhecer um conflito ainda deixa aberto o trabalho de conseguir agir diante dele.",
+      "briefing": [
+        "Ler os números junto da condição estudada: 26 de 40 chegaram ao máximo indicado. Quatorze interromperam.",
+        "Muitos dos que continuaram mostravam tensão. Desconforto podia coexistir com continuidade.",
+        "Relacionar autoridade reconhecida, compromisso com a tarefa e condições de interrupção.",
+        "Pergunta para o TSH: o que permite sustentar uma interrupção ou outra participação?",
+        "Fazer a ponte para nossas condições sem equiparar o laboratório ao exemplo do prazo."
+      ],
+      "notes": "",
+      "nativeSlideId": "jzboph",
+      "screenActual": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 820,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "Sentir conflito não garante interromper a ação",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 120
+          }
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 1 · 18 / 25",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 460,
+            "height": 22
+          }
+        },
+        {
+          "name": "sample",
+          "text": "40",
+          "position": {
+            "left": 920,
+            "top": 300,
+            "width": 250,
+            "height": 105
+          }
+        },
+        {
+          "name": "sample-detail",
+          "text": "participantes\nCondição de 1963",
+          "position": {
+            "left": 875,
+            "top": 413,
+            "width": 325,
+            "height": 110
+          }
+        },
+        {
+          "name": "conflict",
+          "text": "Compreender · Sentir conflito · Conseguir interromper",
+          "position": {
+            "left": 80,
+            "top": 612,
+            "width": 1120,
+            "height": 40
+          }
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "title": "Que condições tornam uma alternativa possível?",
+      "layout": "condicoes",
+      "sourceIndex": null,
+      "spokenWords": 105,
+      "development": "O estudo de Milgram mostrou que sentir tensão pode coexistir com continuar uma ação naquele arranjo de autoridade.\nNo pedido de trabalho, vamos investigar nossas próprias condições, sem tratar as situações como equivalentes.\n\nA pessoa pode precisar de uma referência interna de firmeza para permanecer na conversa.\nPode precisar consultar informações, estabelecer um acordo ou contar com apoio para não ficar isolada.\nTambém importa quem decide e o que acontece quando alguém discorda.\n\nUma alternativa precisa ser considerada junto dessas condições.\nO ensaio ajuda a investigar a disponibilidade da pessoa.\nO retorno da relação permite conferir o que precisa continuar sendo trabalhado fora do ensaio.",
+      "briefing": [
+        "Voltar à situação do prazo e localizar condições necessárias à alternativa.",
+        "Pessoa: referência de firmeza, acesso e sustentação.",
+        "Relação: acordos, quem decide e o que acontece quando alguém discorda.",
+        "Condições: tempo, informação, apoio e margem de escolha.",
+        "O ensaio investiga disponibilidade. A resposta real permite conferir e ajustar o trabalho."
+      ],
+      "notes": "",
+      "nativeSlideId": "nh2bk8",
+      "screenActual": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 820,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "Que condições tornam uma alternativa possível?",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 120
+          }
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 1 · 19 / 25",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 460,
+            "height": 22
+          }
+        },
+        {
+          "name": "person",
+          "text": "Pessoa\nAcesso e sustentação",
+          "position": {
+            "left": 80,
+            "top": 290,
+            "width": 340,
+            "height": 125
+          }
+        },
+        {
+          "name": "relation",
+          "text": "Relação\nAcordos e resposta do outro",
+          "position": {
+            "left": 470,
+            "top": 290,
+            "width": 340,
+            "height": 125
+          }
+        },
+        {
+          "name": "conditions",
+          "text": "Condições\nTempo, informação e apoio",
+          "position": {
+            "left": 860,
+            "top": 290,
+            "width": 340,
+            "height": 125
+          }
+        },
+        {
+          "name": "possible",
+          "text": "A alternativa encontra essas condições na vida",
+          "position": {
+            "left": 80,
+            "top": 510,
+            "width": 1100,
+            "height": 110
+          }
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "title": "Retomada: pêndulo e espiral",
+      "layout": "original",
+      "sourceIndex": 15,
+      "spokenWords": 119,
+      "development": "Vamos retomar os dois desenhos.\nO pêndulo ajuda a olhar variações de estado e de acesso dentro de uma ocasião.\nNa conversa sobre o prazo, a pessoa pode estar disponível, sentir a pressão crescer e depois recuperar alguma condição de escutar.\n\nA espiral ajuda a comparar reencontros com um tema ao longo do tempo.\nO pedido volta, mas a pessoa pode reconhecer antes a pressão, pedir um intervalo e negociar uma condição.\nO tema reapareceu, e a participação pode ter mudado.\n\nTambém pode não ter mudado ou ter encontrado condições mais difíceis.\nPor isso olhamos o que aconteceu em cada ocasião.\nUma tensão parecida pode acompanhar capacidades diferentes, e sentir menos tensão ainda não garante maior possibilidade de participação.",
+      "briefing": [
+        "Reapresentar os dois desenhos e explicar o uso de cada um.",
+        "Pêndulo: variações de estado e acesso dentro de uma ocasião.",
+        "Exemplo: abertura, pressão crescente e recuperação de alguma condição de escutar.",
+        "Espiral: reencontros com um tema ao longo do tempo.",
+        "O pedido volta. A pessoa pode reconhecer antes, pedir intervalo e negociar.",
+        "O tema reaparecer deixa aberta a investigação sobre aprendizagem e condições."
+      ],
+      "notes": "",
+      "nativeSlideId": "uih0q8",
+      "screenActual": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 820,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "Retomada: pêndulo e espiral",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 120
+          }
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 1 · 20 / 25",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 460,
+            "height": 22
+          }
+        },
+        {
+          "name": "pendulum-title",
+          "text": "Pêndulo",
+          "position": {
+            "left": 160,
+            "top": 244,
+            "width": 380,
+            "height": 55
+          }
+        },
+        {
+          "name": "spiral-title",
+          "text": "Espiral",
+          "position": {
+            "left": 700,
+            "top": 244,
+            "width": 380,
+            "height": 55
+          }
+        },
+        {
+          "name": "pendulum-meaning",
+          "text": "Estado e acesso\nna ocasião",
+          "position": {
+            "left": 100,
+            "top": 556,
+            "width": 440,
+            "height": 73
+          }
+        },
+        {
+          "name": "spiral-meaning",
+          "text": "Reencontros, condições\ne participação",
+          "position": {
+            "left": 735,
+            "top": 576,
+            "width": 450,
+            "height": 69
+          }
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "title": "Comparar ocasiões permite reconhecer aprendizagem",
+      "layout": "original",
+      "sourceIndex": 16,
+      "spokenWords": 111,
+      "development": "Compare dois pedidos de trabalho sem presumir que eram iguais.\nComo a pessoa viveu cada um?\nO que conseguiu reconhecer, acessar e fazer?\nComo o outro respondeu?\n\nDescanso, informação, apoio, autonomia e risco podem alterar a disponibilidade.\nA comparação precisa incluir essas condições.\nUma nova participação pode aparecer como perceber antes, pedir tempo, sustentar um limite ou reconhecer que precisa de apoio.\n\nÉ assim que acompanhamos o retorno com aquisição: o que foi vivido e elaborado passa a oferecer novas referências.\nO retorno de um tema também pode mostrar o que ainda não foi aprendido ou não encontrou condições.\nEsse resultado orienta o cultivo, em vez de exigir um progresso presumido.",
+      "briefing": [
+        "Comparar duas ocasiões sem presumir que eram iguais.",
+        "Como foi vivido? O que ficou acessível? Como a pessoa participou? O que retornou da relação?",
+        "Incluir descanso, informação, apoio, autonomia e risco.",
+        "Retorno com aquisição: o vivido e elaborado oferece novas referências.",
+        "Diferenças pequenas, ausência de mudança ou restrições novas também orientam o cultivo."
+      ],
+      "notes": "",
+      "nativeSlideId": "ace3wy",
+      "screenActual": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 820,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "Comparar ocasiões permite reconhecer aprendizagem",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 120
+          }
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 1 · 21 / 25",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 460,
+            "height": 22
+          }
+        },
+        {
+          "name": "occasion-a",
+          "text": "Ocasião A",
+          "position": {
+            "left": 80,
+            "top": 270,
+            "width": 490,
+            "height": 92
+          }
+        },
+        {
+          "name": "occasion-b",
+          "text": "Ocasião B",
+          "position": {
+            "left": 710,
+            "top": 270,
+            "width": 490,
+            "height": 92
+          }
+        },
+        {
+          "name": "a-context",
+          "text": "Como foi vivido?\nO que estava disponível?\nComo participei?",
+          "position": {
+            "left": 110,
+            "top": 405,
+            "width": 430,
+            "height": 170
+          }
+        },
+        {
+          "name": "b-context",
+          "text": "O que permaneceu?\nO que mudou nas condições?\nO que voltou do encontro?",
+          "position": {
+            "left": 740,
+            "top": 405,
+            "width": 430,
+            "height": 170
+          }
+        },
+        {
+          "name": "comparison",
+          "text": "A aquisição aparece na relação entre experiência, condições e participação.",
+          "position": {
+            "left": 80,
+            "top": 609,
+            "width": 1120,
+            "height": 40
+          }
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "title": "Um recurso precisa ajudar nesta passagem",
+      "layout": "original",
+      "sourceIndex": 17,
+      "spokenWords": 123,
+      "development": "Na situação do prazo, escolher firmeza como recurso ainda é apenas um começo.\nPrecisamos procurar uma experiência em que essa qualidade esteve disponível.\nPode ser uma conversa em que a pessoa manteve sua posição sem perder contato, ou uma experiência menor, de outra área da vida.\n\nAo aproximá-la, investigamos postura, ritmo, imagem ou apoio recebido.\nO que dessa referência consegue ganhar presença agora?\nE o que ela ajuda a sustentar diante do começo do pedido?\n\nA função orienta a escolha.\nA tensão pode continuar e surgir maior condição de ouvir, consultar a agenda e responder.\nSe falta informação, será preciso obtê-la.\nSe falta uma habilidade, será preciso desenvolvê-la.\nNa prática, vamos ensinar como aproximar essa referência e conferir o que se torna disponível.",
+      "briefing": [
+        "Recurso é escolhido pela função necessária nesta situação.",
+        "No prazo, firmeza precisa encontrar uma experiência em que esteve disponível.",
+        "Pode ser uma ocasião menor, de outra área, ou uma capacidade sustentada com apoio recebido.",
+        "Aproximar postura, ritmo, imagem ou relação. Conferir o que ganha presença agora.",
+        "A tensão pode continuar e haver mais condição de escutar e responder.",
+        "Distinguir recurso acessível, informação a obter e habilidade a desenvolver."
+      ],
+      "notes": "",
+      "nativeSlideId": "vnio1l",
+      "screenActual": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 820,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "Um recurso precisa ajudar nesta passagem",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 120
+          }
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 1 · 22 / 25",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 460,
+            "height": 22
+          }
+        },
+        {
+          "name": "resource",
+          "text": "Participação\npossível",
+          "position": {
+            "left": 450,
+            "top": 374,
+            "width": 380,
+            "height": 135
+          }
+        },
+        {
+          "name": "resource-0",
+          "text": "Capacidade",
+          "position": {
+            "left": 90,
+            "top": 273,
+            "width": 300,
+            "height": 80
+          }
+        },
+        {
+          "name": "resource-1",
+          "text": "Informação",
+          "position": {
+            "left": 890,
+            "top": 273,
+            "width": 300,
+            "height": 80
+          }
+        },
+        {
+          "name": "resource-2",
+          "text": "Apoio",
+          "position": {
+            "left": 90,
+            "top": 534,
+            "width": 300,
+            "height": 80
+          }
+        },
+        {
+          "name": "resource-3",
+          "text": "Condições",
+          "position": {
+            "left": 890,
+            "top": 534,
+            "width": 300,
+            "height": 80
+          }
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "title": "O percurso da prática e o que vamos conferir",
+      "layout": "original",
+      "sourceIndex": 18,
+      "spokenWords": 109,
+      "development": "Na segunda parte, começaremos reconhecendo brevemente uma resposta conhecida.\nGuardaremos referências do vivido e de como a pessoa tende a participar.\nDepois, retornaremos ao presente e aproximaremos um recurso pertinente, para reencontrar o começo da situação com esse apoio.\n\nEssa organização dialoga com o metapadrão trabalhado por Melissa Tiers na hipnose integrativa.\nNo TSH, ela serve à investigação de como outra referência vivida participa do encontro e do que precisa continuar sendo desenvolvido.\n\nVamos comparar tanto o vivido quanto a participação possível, inclusive quando não houver mudança.\nO ensaio será encerrado antes da elaboração e do registro.\nAgora estamos apenas conhecendo o percurso.\nA condução começa no segundo vídeo.",
+      "briefing": [
+        "Apresentar o percurso, sem conduzir a exploração neste momento.",
+        "Reconhecer o começo. Retornar ao presente. Aproximar um recurso. Reencontrar o começo com esse apoio.",
+        "Situar o diálogo com o metapadrão de Melissa Tiers: mudar a referência vivida e investigar o que se modifica.",
+        "Guardar vivido e participação antes e depois. Encerrar o ensaio antes da elaboração.",
+        "O encontro real poderá ampliar ou corrigir o que o ensaio mostrou.",
+        "A condução começa no segundo vídeo."
+      ],
+      "notes": "",
+      "nativeSlideId": "bdh0er",
+      "screenActual": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 820,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "O percurso da prática e o que vamos conferir",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 120
+          }
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 1 · 23 / 25",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 460,
+            "height": 22
+          }
+        },
+        {
+          "name": "recognize",
+          "text": "Reconhecer\no momento",
+          "position": {
+            "left": 90,
+            "top": 270,
+            "width": 450,
+            "height": 100
+          }
+        },
+        {
+          "name": "return",
+          "text": "Retornar\na outras referências",
+          "position": {
+            "left": 740,
+            "top": 270,
+            "width": 450,
+            "height": 100
+          }
+        },
+        {
+          "name": "resource",
+          "text": "Dar presença\nao recurso",
+          "position": {
+            "left": 740,
+            "top": 480,
+            "width": 450,
+            "height": 100
+          }
+        },
+        {
+          "name": "rehearse",
+          "text": "Reencontrar\ncom esse apoio",
+          "position": {
+            "left": 90,
+            "top": 480,
+            "width": 450,
+            "height": 100
+          }
+        },
+        {
+          "name": "method",
+          "text": "Quatro passos · Melissa Tiers · exploração e elaboração no TSH",
+          "position": {
+            "left": 80,
+            "top": 616,
+            "width": 1120,
+            "height": 35
+          }
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "title": "Aproximar, retornar e conferir na experiência",
+      "layout": "original",
+      "sourceIndex": 19,
+      "spokenWords": 106,
+      "development": "A psicóloga Yolanda Forghieri articula envolvimento na experiência e distanciamento para refletir, conservando o vínculo com o vivido.\nEssa relação ajuda a compreender por que nossa prática alterna aproximação e retorno ao presente.\n\nAproximar permite reconhecer como o começo da situação é vivido.\nRetornar permite recuperar referências, elaborar e considerar outro apoio.\nO reencontro oferece experiência para conferir se algo mudou, além da explicação que gostaríamos de dar.\n\nDepois de encerrar a exploração, a comparação e o encontro real continuam esse trabalho.\nNão precisamos concluir antecipadamente que uma técnica funcionou.\nPrecisamos reconhecer o que ficou disponível, o que aconteceu na relação e o que pede continuidade.",
+      "briefing": [
+        "Forghieri: envolvimento na experiência e distanciamento reflexivo mantendo vínculo com o vivido.",
+        "Relacionar ao percurso concreto: aproximar permite reconhecer. Retornar permite elaborar e recuperar referências.",
+        "O reencontro oferece experiência para conferir o que mudou, além da intenção.",
+        "Depois do encerramento, comparar registros e acompanhar a realização na vida.",
+        "Conferir o que ficou disponível e o que pede continuidade."
+      ],
+      "notes": "",
+      "nativeSlideId": "hjxyb4",
+      "screenActual": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 820,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "Aproximar, retornar e conferir na experiência",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 120
+          }
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 1 · 24 / 25",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 460,
+            "height": 22
+          }
+        },
+        {
+          "name": "involve",
+          "text": "Envolver-se",
+          "position": {
+            "left": 80,
+            "top": 300,
+            "width": 460,
+            "height": 110
+          }
+        },
+        {
+          "name": "reflect",
+          "text": "Refletir",
+          "position": {
+            "left": 740,
+            "top": 300,
+            "width": 460,
+            "height": 110
+          }
+        },
+        {
+          "name": "check-lived",
+          "text": "Conferir no vivido",
+          "position": {
+            "left": 320,
+            "top": 534,
+            "width": 640,
+            "height": 70
+          }
+        },
+        {
+          "name": "forghieri",
+          "text": "Forghieri · reflexão em vínculo com a experiência",
+          "position": {
+            "left": 100,
+            "top": 607,
+            "width": 1080,
+            "height": 50
+          }
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "title": "Da compreensão à participação sustentada",
+      "layout": "original",
+      "sourceIndex": 20,
+      "spokenWords": 95,
+      "development": "A resposta que se repete pode reunir uma forma vivida, aprendizagens, interpretações e condições da relação.\nAo compreender essas articulações, conseguimos localizar melhor o trabalho que precisa acontecer.\n\nNa prática, vamos experimentar o acesso a uma referência pertinente e conferir o que ela permite sustentar.\nO horizonte inclui reconhecer, cultivar e expressar possibilidades próprias, com respeito às condições reais.\n\nGuarde o vivido e a participação no início e no reencontro.\nDepois da realização na vida, acrescente o que aconteceu de fato.\nEsse retorno vai nos ajudar a ampliar a tradução e orientar o próximo trabalho.",
+      "briefing": [
+        "Reunir forma vivida, aprendizagens, interpretação e condições da relação.",
+        "O ganho é localizar onde trabalhar e experimentar sustentação para outra participação.",
+        "Manter como horizonte reconhecer, cultivar e expressar possibilidades próprias.",
+        "Na prática, guardar vivido e participação no início e no reencontro.",
+        "Na vida, acrescentar o que aconteceu de fato. Esse retorno orienta a continuidade."
+      ],
+      "notes": "",
+      "nativeSlideId": "cjt9t2",
+      "screenActual": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 820,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "Da compreensão à participação sustentada",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 120
+          }
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.4 · Parte 1 · 25 / 25",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 460,
+            "height": 22
+          }
+        },
+        {
+          "name": "closing",
+          "text": "Compreender a organização.\nInvestigar outra sustentação.",
+          "position": {
+            "left": 72,
+            "top": 263,
+            "width": 1100,
+            "height": 155
+          }
+        },
+        {
+          "name": "next-label",
+          "text": "CONTINUA NA PARTE 2 DESTA AULA",
+          "position": {
+            "left": 72,
+            "top": 487,
+            "width": 1000,
+            "height": 36
+          }
+        },
+        {
+          "name": "next-title",
+          "text": "Prática guiada\ne integração",
+          "position": {
+            "left": 72,
+            "top": 542,
+            "width": 1050,
+            "height": 95
+          }
+        }
+      ]
+    }
+  ],
+  "title": "M2.4 · Compreensão e fundamentos",
+  "subtitle": "O que mantém a repetição de uma resposta?",
+  "folder": "03_M2_4_Teoria",
+  "pageId": "page_fd5f861d69b08191ba03a33bc6898fb9",
+  "groups": [
+    [
+      0,
+      1,
+      2
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      5,
+      6,
+      7,
+      8
+    ],
+    [
+      9,
+      10,
+      11,
+      12
+    ],
+    [
+      13,
+      14,
+      15
+    ],
+    [
+      16,
+      17
+    ],
+    [
+      18,
+      19,
+      20
+    ],
+    [
+      21,
+      22,
+      23,
+      24
+    ]
+  ],
+  "estimated": "28–36 minutos",
+  "brief": "Acompanhar a diferença entre compreender uma alternativa e conseguir sustentá-la. O pedido de trabalho com prazo apertado articula experiência, elaboração, aprendizagem, relação e condições. Reapresentar os dois tempos e o par Eu Básico/Eu Médio antes de utilizá-los. Os fundamentos entram por perguntas que ajudam a localizar o trabalho necessário.",
+  "gain": "Localizar necessidades de elaboração, acesso, aprendizagem e mudança de condições. Preparar a experiência de recurso e o ensaio de outra participação.",
+  "format": "slides-e-roteiro-separado",
+  "date": "2026-11-24",
+  "nativeSequence": 9,
+  "nativeSnapshot": {
+    "encoding": "base64+gzip",
+    "format": "JSON de presentation.toProto()",
+    "data": "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"
+  },
+  "sourceRecovery": {
+    "repository": "fabianodeliberalli/base-cognitiva-vault",
+    "parentCommit": "ab2dd2bf80aae69f0c5d84d93533413d00313d29",
+    "origin": "Reorganização v3 e retomada de M2.4 em 24/11/2026. Mapas dos dois tempos/Eu Básico–Eu Médio recuperados de M2.2 teoria v0.5, telas 6–7.",
+    "format": "development conserva a base. briefing corresponde ao roteiro separado. notes está vazio nas apresentações por escolha de formato."
+  }
+}

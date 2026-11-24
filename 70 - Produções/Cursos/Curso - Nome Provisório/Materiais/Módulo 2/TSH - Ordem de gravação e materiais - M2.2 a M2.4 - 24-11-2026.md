@@ -7,6 +7,8 @@ versao: "3"
 
 # TSH — Ordem de gravação até M2.4
 
+**Histórico desta etapa:** o formato atual está em [[TSH - Slides e roteiro separado - M2.2 M2.3 M2.4 - 24-11-2026]]. Os mesmos endereços editáveis e o endereço do conjunto abrem a entrega atual; contagens e guias abaixo descrevem a versão anterior, preservada nas fontes e no Git.
+
 [Download único dos materiais reorganizados](https://chatgpt.com/library?file_id=libfile_fde3_f-96cfa431494c81919a97bbaae7fbb349_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal). Pastas numeradas: M2.2 prática, M2.3 prática, M2.4 compreensão/fundamentos e M2.4 prática/integração. Cada pasta tem slides PDF e guia Word/PDF. Apoios do aluno e fontes completas no mesmo conjunto. Apresentações editáveis com as mesmas notas permitem exportar PowerPoint.
 
 Fabiano pediu avaliar o custo de gravação e, depois da avaliação, trazer os slides efetivamente reorganizados. A revisão anterior clareou passos, mas fragmentou telas e acrescentou exposição nas práticas sem dimensionar o trabalho de produção. Esta aplicação retira fala repetida e reúne apoios compatíveis, mantendo operações ensinadas e referências claras. Não transforma o limite de tempo em redução dos fundamentos ou do horizonte multidimensional.
