@@ -2,9 +2,9 @@
 tipo: padrao-de-producao
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "2.11"
+versao: "2.12"
 criado_em: 2026-11-02
-atualizado_em: 2026-11-23
+atualizado_em: 2026-11-24
 aplica_se_a: futuras producoes de aulas, slides, notas e apoios do TSH
 autor: Fabiano Deliberalli
 ---
@@ -56,6 +56,12 @@ Conferência visual, limpeza das notas, igualdade de hashes e revisão de uma pr
 A avaliação passou a incluir M2.3 v0.1: há desenvolvimento de confirmação, dissonância/Festinger, absorção, Erickson e retorno, mas a ligação com os dois tempos da Tradução ficou implícita. Integrar as contribuições à passagem entre forma vivida, elaboração e convicção. A M2.4 deve partir do que essa investigação alcança e do que permanece organizado mesmo após a revisão da leitura. [[TSH - Revisão de Profundidade e Percurso - 22-11-2026]] e [[01 - Plano de produção das seis aulas M2]] desenvolvem a comparação e localizam a aplicação nas revisões M2.3 v0.2 e M2.4 v0.2.
 
 Na fonte de cada aula, a prévia e o desenvolvimento devem permitir reconhecer a pergunta, o aprendizado anterior retomado, a contribuição concreta das fontes e formulações autorais, as relações a ensinar e a investigação que a prática realiza. Esses elementos compõem o material de trabalho, sem criar outro relatório ou exigir formulário do autor. O assistente confere sua presença no conteúdo real antes de apresentar a composição como adequada; se faltar uma relação central, precisa desenvolvê-la. Esse exame antecede a conclusão da montagem e volta a ser feito sobre o artefato. Um apoio bem acabado e uma lista de bibliografia não corrigem uma explicação rasa.
+
+### Aplicação da centralidade das ferramentas — 24/11/2026
+
+Fabiano reafirmou que as ferramentas e experiências são o centro da aprendizagem e a finalidade a que servem a teoria e os fundamentos. A ficha mínima desenvolve essa orientação. Conferir o que o aluno aprende a acessar, experimentar, elaborar, desenvolver e utilizar agora; uma indicação genérica de apoio ou cultivo não substitui o ensino necessário. Corpo, afeto, imagem, relações, cultivo, energia e espiritualidade contribuem em seus próprios sentidos, conforme a questão, junto de descoberta, criação e expressão. Não repetir a mesma técnica ou demonstração por automatismo nem exigir todas as dimensões em toda aula.
+
+[[M2.2 - Prática guiada v2]] aplica o refinamento à ferramenta da aula: demonstração encerrada antes da situação pessoal; três observações vividas estáveis; conferência de condições concretas; encerramento antes da elaboração; ação e ocasião definidas, com retorno ao que a experiência mostrou. Apresentação, guia e apoio foram revistos juntos. Isso não declara outras aulas refeitas. Os dois relatórios de 24/11 e o estado de produção localizam intervenções e sequência. As diretrizes anteriores sobre slides, imagens, metáforas, voz e notas continuam parte da composição, junto dos fundamentos.
 
 ### Gravações em duas partes — decisão de 22/11/2026
 
