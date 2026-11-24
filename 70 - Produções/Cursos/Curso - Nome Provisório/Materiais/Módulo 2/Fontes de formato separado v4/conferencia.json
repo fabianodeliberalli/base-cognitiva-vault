@@ -3,47 +3,54 @@
     {
       "key": "M22",
       "slides": 9,
-      "nativeSequence": 9,
+      "nativeSequence": 10,
       "guidePages": 3,
       "briefingWords": 411,
-      "notesEmpty": true,
       "phrasesInGuide": true,
       "slidePdfMatchesNative": true,
-      "estimated": "7–9 minutos"
+      "estimated": "7–9 minutos",
+      "notesPresent": true
     },
     {
       "key": "M23",
       "slides": 13,
-      "nativeSequence": 7,
+      "nativeSequence": 8,
       "guidePages": 4,
       "briefingWords": 555,
-      "notesEmpty": true,
       "phrasesInGuide": true,
       "slidePdfMatchesNative": true,
-      "estimated": "9–11 minutos"
+      "estimated": "9–11 minutos",
+      "notesPresent": true
     },
     {
       "key": "M24P1",
       "slides": 25,
-      "nativeSequence": 9,
+      "nativeSequence": 10,
       "guidePages": 8,
       "briefingWords": 1580,
-      "notesEmpty": true,
       "phrasesInGuide": true,
       "slidePdfMatchesNative": true,
-      "estimated": "28–36 minutos"
+      "estimated": "28–36 minutos",
+      "notesPresent": true
     },
     {
       "key": "M24P2",
       "slides": 14,
-      "nativeSequence": 6,
+      "nativeSequence": 7,
       "guidePages": 4,
       "briefingWords": 665,
-      "notesEmpty": true,
       "phrasesInGuide": true,
       "slidePdfMatchesNative": true,
-      "estimated": "12–15 minutos"
+      "estimated": "12–15 minutos",
+      "notesPresent": true
     }
   ],
-  "scope": "Conferência de correspondência, representações e suportes. Não mede aprendizagem, duração gravada ou publicação."
+  "scope": "Conferência de correspondência, representações e suportes. Não mede aprendizagem, duração gravada ou publicação.",
+  "notesReturn": {
+    "date": "2026-11-24",
+    "slides": 61,
+    "guidesUnchanged": true,
+    "slideContentUnchanged": true,
+    "notesMatchBriefing": true
+  }
 }

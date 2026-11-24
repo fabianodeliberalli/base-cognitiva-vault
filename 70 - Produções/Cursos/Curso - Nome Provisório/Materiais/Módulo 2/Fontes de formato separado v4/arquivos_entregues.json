@@ -1,15 +1,15 @@
 {
   "results": [
     {
-      "local_path": "/workspace/scratch/4909a93c8194/formato_gravacao_20261124/entrega/TSH_M2_2_M2_3_M2_4_Slides_e_Roteiros_v4.zip",
-      "purpose": "replace_library_file",
-      "status": "succeeded",
-      "file_id": "file_000000008488820ea6a64152e20c8346",
+      "file_id": "file_00000000709c820e9b1d37fdb4fa3953",
       "library_file_id": "libfile_fde3_f-96cfa431494c81919a97bbaae7fbb349_ad925f8fadbc81918eab9ef0eafee9a9",
       "file_name": "TSH_M2_2_M2_3_M2_4_Slides_e_Roteiros_v4.zip",
-      "local_metadata_applied": true,
       "path": "/TSH_M2_2_M2_3_M2_4_Slides_e_Roteiros_v4.zip",
-      "current_version_number": 2
+      "current_version_number": 3,
+      "status": "succeeded",
+      "local_path": "/workspace/scratch/4909a93c8194/formato_gravacao_20261124/entrega/TSH_M2_2_M2_3_M2_4_Slides_e_Roteiros_v4.zip",
+      "purpose": "replace_library_file",
+      "local_metadata_applied": true
     },
     {
       "local_path": "/workspace/scratch/4909a93c8194/formato_gravacao_20261124/entrega/03_M2_4_Teoria/M24P1_Slides_v3.pdf",
