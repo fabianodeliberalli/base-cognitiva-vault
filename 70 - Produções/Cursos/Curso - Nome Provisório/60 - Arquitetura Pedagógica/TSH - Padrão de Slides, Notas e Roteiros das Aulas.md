@@ -2,7 +2,7 @@
 tipo: padrao-de-producao
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "2.13"
+versao: "2.14"
 criado_em: 2026-11-02
 atualizado_em: 2026-11-24
 aplica_se_a: futuras producoes de aulas, slides, notas e apoios do TSH
@@ -10,6 +10,18 @@ autor: Fabiano Deliberalli
 ---
 
 # Padrão de slides, notas e roteiros das aulas
+
+## Formato de gravação atual — 24/11/2026
+
+Fabiano pediu aplicar a M2.4 e aos ajustes de M2.2/M2.3 o formato de **slides com roteiro separado de apoio**, após propor briefing, frases curtas e direção das ideias para manter liberdade de ensino. [[TSH - Slides e roteiro separado - M2.2 M2.3 M2.4 - 24-11-2026]] localiza o exemplar aplicado, o download, os Markdown e JSON integrais. Esta escolha atualiza o suporte de gravação; os refinamentos de profundidade, linguagem, visual, metáforas, ferramentas e progressão continuam a orientar o conteúdo.
+
+Desenvolver o raciocínio completo antes de condensar. O roteiro separado oferece um briefing da aula e a direção das ideias ligada à numeração dos slides: explicação necessária, exemplo contextualizado, relação a desenvolver e passagem pertinente. Usar frases curtas em linhas próprias. Não reduzir a comandos vazios como “aprofundar Bion”, nem escrever outra fala corrida com poucas quebras. O educador desenvolve com suas palavras; a fonte profunda permanece recuperável. Os slides representam o que o aluno precisa acompanhar. Nas apresentações desta aplicação, as notas estão vazias, sem duplicação da fala integral.
+
+Reapresentar o mapa ou conceito antes de operar com ele. Mostrar a figura e explicar as relações necessárias ao uso atual. Nome da aula anterior ou do mapa não substitui essa retomada. M2.4 telas 4–5 e 20 mostram os mapas; 6–13 desenvolvem e reúnem as contribuições no mesmo exemplo. M2.2 prática/tela 1 e M2.3 prática/tela 2 recuperam o diálogo entre forma vivida e elaboração antes da demonstração e da situação pessoal. A repetição acrescenta uma relação ao trabalho atual, sem exigir que o aluno memorize figuras de outras aulas.
+
+Na condução prática, o roteiro breve mantém instruções suficientes, referências produzidas antes da comparação, pausas, encerramento e elaboração reconhecíveis. Escolha de recurso inclui como encontrá-lo, aproximá-lo e conferir sua função. Estimar o tempo antes da entrega, considerando exposição livre, breves silêncios e pausa do aluno. Não deduzir duração pela contagem das frases de briefing.
+
+A genealogia abaixo conserva os formatos anteriores e exemplos de refinamento. Onde descrever fala integral nas notas ou quatro campos como modo de consulta, ler como histórico do suporte anterior. A composição atual é o roteiro separado; a instrução recente de Fabiano prevalece. As quantidades desta entrega não são quotas. A conferência técnica não demonstra profundidade ou aprendizagem.
 
 **Aplicação de tempo de produção — 24/11/2026:** [[TSH - Ordem de gravação e materiais - M2.2 a M2.4 - 24-11-2026]] substitui as práticas longas por conduções de 8/12/14 telas e 554/759/969 palavras faláveis. Não é quota. Fabiano tem tempo de gravação limitado; estimar extensão da fala, silêncios e retrabalho antes de entregar. Retirar redundâncias de abertura/demonstração/elaboração, mantendo operações ensinadas, registros estáveis e encerramento reconhecível. Uma operação reconhecível pode compartilhar um apoio visual com outra, desde que as notas indiquem a sucessão e as pausas sem ambiguidade. Não juntar operações só para baixar a contagem de slides. O aluno pode pausar para escrita; a gravação conserva silêncios de percepção. Teoria e apoio mantêm os fundamentos e a amplitude multidimensional. Alinhar notas, guia e apoio quando a operação mudar. As estimativas são referências de planejamento, não duração medida ou garantia de gravação. Não criar novo vídeo apenas para uniformizar o acervo.
 
@@ -143,7 +155,11 @@ Uma figura antiga pode conservar uma contribuição necessária; uma figura nova
 
 A consulta é guiada pela pergunta da aula, sem exigir leitura integral de todos os índices. Uma localização por nome não confirma que os pixels tenham sido conferidos ou aplicados. Rótulos e restrições de fases antigas não restauram vetos superados em 18/11; examinar a contribuição, a formulação atual e a legibilidade concretas.
 
-## 5. Notas: apoio para exposição livre com sentido
+## 5. Roteiro separado de apoio e genealogia das notas
+
+O suporte atual está descrito no início desta nota e aplicado em [[TSH - Slides e roteiro separado - M2.2 M2.3 M2.4 - 24-11-2026]]. O roteiro separado e a fonte profunda têm funções distintas. O esquema de quatro campos a seguir conserva a genealogia do formato anterior; não precisa ser preenchido nas apresentações atuais.
+
+### Composição anterior nas notas — histórico de consulta
 
 O roteiro é uma **trilha de exposição**. As notas permitem localizar rapidamente o passo e desenvolver a explicação com a voz e o ritmo de Fabiano. O texto oferece entradas naturais e âncoras explicativas suficientes, sem predeterminar toda a fala. Para a exposição conceitual e a elaboração, os quatro campos abaixo continuam como referência. Ajustar a extensão e a presença de cada campo à função do passo, sem repetir a mesma ideia para completar o formato:
 
@@ -448,6 +464,10 @@ Se a conferência encontrar um desses problemas, o assistente faz o ajuste autor
 ## 12. Uso em outra IA e estrutura transportável
 
 Com acesso ao GitHub, basta apontar para a ficha mínima, esta nota e a aula em produção. Sem acesso ao repositório, fornecer esta nota, o exemplar textual/JSON de M2.1 e os conteúdos/fontes necessários à nova aula. O documento sozinho explica o formato; o exemplar mostra sua execução completa. Não afirmar que outra IA recebeu a referência sem efetivamente disponibilizá-la. Se uma fonte indispensável não puder ser acessada, declarar a lacuna específica e continuar o que for possível sem inventar conteúdo.
+
+Na fonte atual de cada apresentação, `development` conserva o raciocínio desenvolvido, `briefing` contém as direções do roteiro separado e `notes` está vazio. `screenActual` e `nativeSnapshot` preservam textos visíveis, posições e o modelo nativo completo. Os Markdown correspondentes podem ser consultados diretamente. Recuperar a fonte e o roteiro da aula pertinente; a presença destes campos não demonstra qualidade sem examinar o que ensinam.
+
+### Estrutura anterior de notas — histórico
 
 Uma estrutura textual ou JSON pode ser usada por qualquer ferramenta. O exemplo abaixo descreve campos de produção; os nomes técnicos não entram nos slides. Na exposição e na elaboração, os quatro campos oferecem a referência abaixo. Para uma tela de realização, usar o momento e as instruções diretas como notas, sem acrescentar uma segunda versão em quatro blocos:
 

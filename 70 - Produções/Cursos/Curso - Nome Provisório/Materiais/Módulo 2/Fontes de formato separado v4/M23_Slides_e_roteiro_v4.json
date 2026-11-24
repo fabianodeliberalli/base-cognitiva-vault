@@ -1,0 +1,1272 @@
+{
+  "lesson": "M23",
+  "version": "4",
+  "date": "2026-11-24",
+  "pageId": "page_85cb82566f6c8191a65ca24c77508761",
+  "slides": [
+    {
+      "sourceIndex": 0,
+      "title": "Conferir uma certeza e recuperar outras pistas",
+      "screenChanges": {},
+      "number": 1,
+      "development": "APRESENTAÇÃO E PREPARAÇÃO\n\nVamos conferir uma interpretação e acompanhar como vivemos a situação.\nGuardaremos dois pares: Conclusão antes e depois; Vivido antes e depois.\nA leitura pode se confirmar, mudar ou permanecer aberta.\n\nSepare a Cartografia ou um caderno para registros breves.\nReserve um momento de atenção à prática; você pode adaptar ou interromper, retomando o ambiente e seus movimentos.\nPrimeiro vou demonstrar o procedimento.\nDepois começamos a sua exploração.",
+      "briefing": [
+        "Objetivo: conferir uma interpretação e acompanhar como a situação é vivida.",
+        "Apresentar os pares que serão produzidos: Conclusão antes/depois e Vivido antes/depois.",
+        "A leitura pode se confirmar, mudar ou permanecer aberta.",
+        "Preparar registros e atenção à prática. Apresentar antes de conduzir."
+      ],
+      "notes": "",
+      "nativeSlideId": "tacezk",
+      "screenActual": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 820,
+            "height": 24
+          }
+        },
+        {
+          "name": "cover-label",
+          "text": "M2.3 · PARTE 2\nPRÁTICA GUIADA",
+          "position": {
+            "left": 72,
+            "top": 143,
+            "width": 790,
+            "height": 65
+          }
+        },
+        {
+          "name": "cover-title",
+          "text": "Conferir uma certeza\ne recuperar outras pistas",
+          "position": {
+            "left": 72,
+            "top": 246,
+            "width": 840,
+            "height": 197
+          }
+        },
+        {
+          "name": "presenter",
+          "text": "Fabiano Deliberalli",
+          "position": {
+            "left": 72,
+            "top": 618,
+            "width": 760,
+            "height": 42
+          }
+        },
+        {
+          "name": "official-subtitle",
+          "text": "Da compreensão acumulada\nà presença que sustenta",
+          "position": {
+            "left": 930,
+            "top": 570,
+            "width": 292,
+            "height": 64
+          }
+        },
+        {
+          "name": "practice-subtitle",
+          "text": "A conclusão e o vivido antes e depois",
+          "position": {
+            "left": 72,
+            "top": 505,
+            "width": 825,
+            "height": 80
+          }
+        }
+      ]
+    },
+    {
+      "title": "Retomada: o vivido e sua elaboração",
+      "sourceMap": "M2.2 teoria v0.5, tela 6",
+      "newMap": true,
+      "number": 2,
+      "development": "Vamos retomar o mapa antes da demonstração.\nA forma vivida inclui sensações, imagens, memórias e uma disposição para responder.\nA elaboração procura nomear, interpretar, conferir e escolher.\n\nNa prática, vamos guardar essas duas referências separadamente.\nVivido é como a situação se apresenta na experiência.\nConclusão é a leitura que fazemos sobre ela.\n\nUma conclusão pode mudar e o vivido continuar parecido, ou o vivido pode acrescentar algo à conclusão.\nVamos conferir o que acontece em cada um, sem antecipar um resultado.",
+      "briefing": [
+        "Reapresentar o mapa e apontar as duas regiões.",
+        "Forma vivida: corpo, afeto, imagem, memória e disposição.",
+        "Elaboração: nomear, interpretar, conferir e escolher.",
+        "Aqui, Vivido registra como a situação é experimentada. Conclusão registra a leitura sustentada.",
+        "Mudanças nesses dois campos podem ser diferentes. É isso que será conferido."
+      ],
+      "notes": "",
+      "nativeSlideId": "c8f0c09c-e709-44fc-a78e-61b945ad1e13",
+      "screenActual": [
+        {
+          "name": "course",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 800,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "Retomada: o vivido e sua elaboração",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 122
+          }
+        },
+        {
+          "name": "footer",
+          "text": "M2.3 · Prática · 2 / 13",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 300,
+            "height": 20
+          }
+        },
+        {
+          "name": "lived-form",
+          "text": "O vivido\nencontra forma",
+          "position": {
+            "left": 92,
+            "top": 280,
+            "width": 450,
+            "height": 160
+          }
+        },
+        {
+          "name": "elaboration",
+          "text": "Elaborar\ne conferir",
+          "position": {
+            "left": 738,
+            "top": 280,
+            "width": 450,
+            "height": 160
+          }
+        },
+        {
+          "name": "forms",
+          "text": "Sensação, imagem,\nmemória, disposição",
+          "position": {
+            "left": 98,
+            "top": 469,
+            "width": 440,
+            "height": 83
+          }
+        },
+        {
+          "name": "elab-actions",
+          "text": "Nomear, relacionar,\ninterpretar, escolher",
+          "position": {
+            "left": 742,
+            "top": 469,
+            "width": 440,
+            "height": 83
+          }
+        },
+        {
+          "name": "reciprocity",
+          "text": "A elaboração transforma o sentir. A experiência pode surpreender a explicação.",
+          "position": {
+            "left": 80,
+            "top": 588,
+            "width": 1110,
+            "height": 58
+          }
+        }
+      ]
+    },
+    {
+      "sourceIndex": 3,
+      "title": "Uma pergunta que aceita surpresa",
+      "screenChanges": {},
+      "number": 3,
+      "development": "DEMONSTRAÇÃO\n\nUma pessoa apresenta uma proposta de trabalho e ouve: precisamos conversar melhor sobre isso.\nEla sente aperto e vontade de guardar a proposta: esse é o vivido.\n“Minha proposta foi rejeitada” é a conclusão.\nO vivido merece reconhecimento; a conclusão precisa de bases também no encontro.\n\n“Por que você rejeitou minha proposta?” já inclui a rejeição como fato.\n“Sobre quais pontos da proposta você quer conversar?” permite descobrir o que o outro tem a dizer.\nA resposta pode confirmar a preocupação ou modificar a leitura.\nUma resposta imaginada ainda precisa de conferência.\n\nO exemplo termina aqui.\nAgora começamos pela sua situação.",
+      "briefing": [
+        "Demonstrar com uma proposta de trabalho e a frase “precisamos conversar melhor”.",
+        "Aperto e vontade de guardar a proposta: vivido. “Foi rejeitada”: conclusão.",
+        "Comparar “por que rejeitou?” com “sobre quais pontos quer conversar?”.",
+        "A segunda pergunta admite uma resposta diferente da leitura inicial.",
+        "A resposta imaginada ainda pede conferência. ENCERRAR O EXEMPLO antes da exploração pessoal."
+      ],
+      "notes": "",
+      "nativeSlideId": "vew4ht",
+      "screenActual": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 820,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "Uma pergunta que aceita surpresa",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 120
+          }
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.3 · Prática · 3 / 13",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 440,
+            "height": 22
+          }
+        },
+        {
+          "name": "closed",
+          "text": "Por que você rejeitou\nminha proposta?",
+          "position": {
+            "left": 111,
+            "top": 310,
+            "width": 470,
+            "height": 125
+          }
+        },
+        {
+          "name": "closed-role",
+          "text": "A rejeição já entra como fato.",
+          "position": {
+            "left": 111,
+            "top": 449,
+            "width": 470,
+            "height": 56
+          }
+        },
+        {
+          "name": "open",
+          "text": "Sobre quais pontos\nda proposta você\nquer conversar?",
+          "position": {
+            "left": 693,
+            "top": 310,
+            "width": 470,
+            "height": 125
+          }
+        },
+        {
+          "name": "open-role",
+          "text": "A resposta pode alterar a leitura.",
+          "position": {
+            "left": 693,
+            "top": 449,
+            "width": 470,
+            "height": 56
+          }
+        },
+        {
+          "name": "action",
+          "text": "Depois deste exemplo, começamos a sua situação.",
+          "position": {
+            "left": 80,
+            "top": 575,
+            "width": 1120,
+            "height": 60
+          }
+        },
+        {
+          "name": "demo-lived-conclusion",
+          "text": "Aperto e vontade de se retirar: vivido. Rejeição: conclusão.",
+          "position": {
+            "left": 80,
+            "top": 244,
+            "width": 1120,
+            "height": 50
+          }
+        }
+      ]
+    },
+    {
+      "sourceIndex": 4,
+      "title": "A situação escolhida",
+      "screenChanges": {},
+      "number": 4,
+      "development": "INÍCIO DA PRÁTICA\n\nEscolha uma situação em que tenha chegado a uma conclusão bastante firme.\nPode retomar algo que já vem investigando e que consiga acompanhar agora.\n\nRegistre o que aconteceu e quem participava.\nMantenha a mesma situação até o fim.\nPause para escolher e situar o acontecimento.\n\nPAUSA",
+      "briefing": [
+        "INÍCIO DA PRÁTICA.",
+        "Escolher uma situação acompanhável em que tenha sustentado uma conclusão firme.",
+        "Registrar o acontecimento e os participantes. Manter a mesma situação.",
+        "PAUSAR para escolher e situar."
+      ],
+      "notes": "",
+      "nativeSlideId": "grak87",
+      "screenActual": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 820,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "A situação escolhida",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 120
+          }
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.3 · Prática · 4 / 13",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 440,
+            "height": 22
+          }
+        },
+        {
+          "name": "sentence",
+          "text": "O que aconteceu?\nQuem participava?",
+          "position": {
+            "left": 147,
+            "top": 328,
+            "width": 450,
+            "height": 170
+          }
+        },
+        {
+          "name": "choice",
+          "text": "Uma situação sua,\nsignificativa e possível\nde acompanhar agora.",
+          "position": {
+            "left": 700,
+            "top": 280,
+            "width": 470,
+            "height": 150
+          }
+        },
+        {
+          "name": "conditions",
+          "text": "A mesma situação\nao longo da prática.",
+          "position": {
+            "left": 700,
+            "top": 467,
+            "width": 470,
+            "height": 95
+          }
+        }
+      ]
+    },
+    {
+      "sourceIndex": 5,
+      "title": "Conclusão antes",
+      "screenChanges": {},
+      "number": 5,
+      "development": "Volte à situação e complete: diante disso, concluí que...\nEscreva a leitura que realmente vem sustentando.\n\nIdentifique como “Conclusão antes” e conserve para comparar depois.\nPause para registrar.\n\nPAUSA",
+      "briefing": [
+        "Retomar a situação e completar: “Diante disso, concluí que...”.",
+        "Registrar a leitura efetivamente sustentada.",
+        "Nome do registro: “Conclusão antes”. Guardar para a comparação.",
+        "PAUSAR para escrever."
+      ],
+      "notes": "",
+      "nativeSlideId": "w57mm1",
+      "screenActual": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 820,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "Conclusão antes",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 120
+          }
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.3 · Prática · 5 / 13",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 440,
+            "height": 22
+          }
+        },
+        {
+          "name": "message",
+          "text": "Diante disso,\nconcluí que…",
+          "position": {
+            "left": 110,
+            "top": 309,
+            "width": 520,
+            "height": 160
+          }
+        },
+        {
+          "name": "reading",
+          "text": "Conclusão\nantes",
+          "position": {
+            "left": 755,
+            "top": 295,
+            "width": 435,
+            "height": 150
+          }
+        },
+        {
+          "name": "response",
+          "text": "Guarde para comparar\ndepois.",
+          "position": {
+            "left": 737,
+            "top": 493,
+            "width": 473,
+            "height": 82
+          }
+        },
+        {
+          "name": "context",
+          "text": "Escreva a conclusão que vem sustentando.",
+          "position": {
+            "left": 80,
+            "top": 599,
+            "width": 1060,
+            "height": 45
+          }
+        }
+      ]
+    },
+    {
+      "sourceIndex": 6,
+      "title": "Vivido antes",
+      "screenChanges": {},
+      "number": 6,
+      "development": "Ao trazer essa mesma situação à atenção, como é estar diante dela?\nAcompanhe o que reconhece no corpo, no afeto, nas imagens ou no impulso de agir.\n\nGuarde uma expressão breve, por palavra, desenho ou descrição de um gesto.\nIdentifique como “Vivido antes” e mantenha separado da conclusão.\nPause para perceber e registrar.\n\nPAUSA",
+      "briefing": [
+        "Com a mesma situação à atenção, reconhecer como é estar diante dela.",
+        "Acompanhar corpo, afeto, imagens e impulso de agir.",
+        "Guardar uma expressão breve como “Vivido antes”, separada da conclusão.",
+        "PAUSAR para perceber e registrar."
+      ],
+      "notes": "",
+      "nativeSlideId": "klr2dr",
+      "screenActual": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 820,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "Vivido antes",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 120
+          }
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.3 · Prática · 6 / 13",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 440,
+            "height": 22
+          }
+        },
+        {
+          "name": "questao-preservada",
+          "text": "Como é\nviver isso?",
+          "position": {
+            "left": 490,
+            "top": 373,
+            "width": 300,
+            "height": 105
+          }
+        },
+        {
+          "name": "corpo-apoios",
+          "text": "Sensações",
+          "position": {
+            "left": 72,
+            "top": 298,
+            "width": 290,
+            "height": 65
+          }
+        },
+        {
+          "name": "ambiente-agora",
+          "text": "Afetos",
+          "position": {
+            "left": 910,
+            "top": 287,
+            "width": 290,
+            "height": 100
+          }
+        },
+        {
+          "name": "outras-referencias",
+          "text": "Imagens",
+          "position": {
+            "left": 72,
+            "top": 500,
+            "width": 290,
+            "height": 90
+          }
+        },
+        {
+          "name": "participacao-nova",
+          "text": "Movimentos\ne impulsos",
+          "position": {
+            "left": 910,
+            "top": 499,
+            "width": 290,
+            "height": 100
+          }
+        },
+        {
+          "name": "record-name",
+          "text": "Registro: Vivido antes",
+          "position": {
+            "left": 72,
+            "top": 623,
+            "width": 1000,
+            "height": 35
+          }
+        }
+      ]
+    },
+    {
+      "sourceIndex": 7,
+      "title": "Bases da conclusão e custo da revisão",
+      "screenChanges": {
+        "row-title-1": "Revisão e cuidado",
+        "row-body-1": "O que seria difícil rever?\nO que precisa de cuidado?",
+        "conserve-bases": "Conserve as bases e a informação que ainda falta."
+      },
+      "number": 7,
+      "development": "Retome “Conclusão antes”.\nQue pistas do acontecimento sustentam essa leitura?\nDiferencie o que observou do que associou ou imaginou e anote o que falta conferir.\n\nSe essa conclusão precisasse ser revista, o que isso colocaria em jogo?\nReconheça o que precisa de cuidado e o que pode pedir revisão.\nConserve essas observações junto da conclusão.\nPause para acompanhar essas questões.\n\nPAUSA",
+      "briefing": [
+        "Retomar “Conclusão antes” e as pistas que a sustentam.",
+        "Diferenciar o observado, o associado e o imaginado. Indicar o que falta conferir.",
+        "Investigar o que estaria em jogo caso a conclusão precisasse mudar.",
+        "Conservar as observações junto da conclusão. PAUSAR para acompanhar."
+      ],
+      "notes": "",
+      "nativeSlideId": "lalwh1",
+      "screenActual": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 820,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "Bases da conclusão e custo da revisão",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 120
+          }
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.3 · Prática · 7 / 13",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 440,
+            "height": 22
+          }
+        },
+        {
+          "name": "row-title-0",
+          "text": "Bases da conclusão",
+          "position": {
+            "left": 118,
+            "top": 300,
+            "width": 420,
+            "height": 110
+          }
+        },
+        {
+          "name": "row-body-0",
+          "text": "Que pistas do encontro\na sustentam?",
+          "position": {
+            "left": 565,
+            "top": 300,
+            "width": 620,
+            "height": 110
+          }
+        },
+        {
+          "name": "row-title-1",
+          "text": "Revisão e cuidado",
+          "position": {
+            "left": 118,
+            "top": 460,
+            "width": 420,
+            "height": 110
+          }
+        },
+        {
+          "name": "row-body-1",
+          "text": "O que seria difícil rever?\nO que precisa de cuidado?",
+          "position": {
+            "left": 565,
+            "top": 460,
+            "width": 620,
+            "height": 110
+          }
+        },
+        {
+          "name": "conserve-bases",
+          "text": "Conserve as bases e a informação que ainda falta.",
+          "position": {
+            "left": 118,
+            "top": 607,
+            "width": 1030,
+            "height": 42
+          }
+        }
+      ]
+    },
+    {
+      "sourceIndex": 9,
+      "title": "Retomar o presente",
+      "screenChanges": {},
+      "number": 8,
+      "development": "Deixe a situação de lado por um momento.\nOlhe para onde está e reconheça um detalhe do ambiente.\nPerceba o apoio dos pés ou do assento e ajuste a postura, se ajudar.\nDeixe a respiração acontecer e permaneça um pouco nesse contato.\n\nPara seguir, reconheça onde está e se há alguma disponibilidade para considerar a questão.\nPode continuar havendo tensão.\nSe não houver disponibilidade, conclua por hoje retomando o ambiente e seus movimentos.\nPause e retome quando puder seguir.\n\nPAUSA",
+      "briefing": [
+        "Deixar a situação de lado. Reconhecer um detalhe do ambiente e os apoios do corpo.",
+        "Ajustar a postura se ajudar. Deixar a respiração acontecer.",
+        "Conferir alguma disponibilidade para considerar a questão. A tensão pode continuar.",
+        "Se não houver disponibilidade, concluir por hoje no contato com o presente.",
+        "PAUSAR para esse retorno."
+      ],
+      "notes": "",
+      "nativeSlideId": "9525zz",
+      "screenActual": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 820,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "Retomar o presente",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 120
+          }
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.3 · Prática · 8 / 13",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 440,
+            "height": 22
+          }
+        },
+        {
+          "name": "questao-preservada",
+          "text": "Aqui,\nagora",
+          "position": {
+            "left": 490,
+            "top": 373,
+            "width": 300,
+            "height": 105
+          }
+        },
+        {
+          "name": "corpo-apoios",
+          "text": "Apoios\ndo corpo",
+          "position": {
+            "left": 72,
+            "top": 298,
+            "width": 290,
+            "height": 65
+          }
+        },
+        {
+          "name": "ambiente-agora",
+          "text": "Lugar\nonde estou",
+          "position": {
+            "left": 910,
+            "top": 287,
+            "width": 290,
+            "height": 100
+          }
+        },
+        {
+          "name": "outras-referencias",
+          "text": "Respiração\ncomo acontece",
+          "position": {
+            "left": 72,
+            "top": 500,
+            "width": 290,
+            "height": 90
+          }
+        },
+        {
+          "name": "participacao-nova",
+          "text": "Postura\ne movimentos",
+          "position": {
+            "left": 910,
+            "top": 499,
+            "width": 290,
+            "height": 100
+          }
+        }
+      ]
+    },
+    {
+      "sourceIndex": 10,
+      "title": "A informação que falta",
+      "screenChanges": {},
+      "number": 9,
+      "development": "Com algum contato com o presente, retome a mesma situação.\nO que precisa saber para conferir sua conclusão?\nFormule uma pergunta que aceite uma resposta diferente da esperada.\n\nSe puder consultar a informação agora, confira e conserve o que encontrou.\nSe depender de outra ocasião, guarde a pergunta e onde poderá buscar a resposta.\nA informação ainda não obtida permanece em aberto.\nPause para essa conferência possível agora.\n\nPAUSA",
+      "briefing": [
+        "Retomar a mesma situação com algum contato com o presente.",
+        "Definir o que precisa saber e formular uma pergunta que aceite surpresa.",
+        "Consultar o que for possível agora. Guardar o que foi efetivamente encontrado.",
+        "Quando depender de outra ocasião, registrar fonte e pergunta. A resposta permanece aberta.",
+        "PAUSAR para a conferência possível."
+      ],
+      "notes": "",
+      "nativeSlideId": "svermx",
+      "screenActual": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 820,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "A informação que falta",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 120
+          }
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.3 · Prática · 9 / 13",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 440,
+            "height": 22
+          }
+        },
+        {
+          "name": "closed",
+          "text": "O que estou\nconcluindo",
+          "position": {
+            "left": 111,
+            "top": 310,
+            "width": 470,
+            "height": 125
+          }
+        },
+        {
+          "name": "closed-role",
+          "text": "A leitura que estou conferindo",
+          "position": {
+            "left": 111,
+            "top": 449,
+            "width": 470,
+            "height": 56
+          }
+        },
+        {
+          "name": "open",
+          "text": "O que preciso\ndescobrir",
+          "position": {
+            "left": 693,
+            "top": 310,
+            "width": 470,
+            "height": 125
+          }
+        },
+        {
+          "name": "open-role",
+          "text": "Informação que ainda falta",
+          "position": {
+            "left": 693,
+            "top": 449,
+            "width": 470,
+            "height": 56
+          }
+        },
+        {
+          "name": "action",
+          "text": "Formule uma pergunta sobre a sua situação.",
+          "position": {
+            "left": 80,
+            "top": 575,
+            "width": 1120,
+            "height": 60
+          }
+        }
+      ]
+    },
+    {
+      "sourceIndex": 11,
+      "title": "Conclusão depois",
+      "screenChanges": {},
+      "number": 10,
+      "development": "Retome “Conclusão antes”.\nCom o que foi possível conferir, o que consegue concluir agora?\n\nRegistre como “Conclusão depois”, incluindo as bases e o que ainda falta conhecer.\nCompare as duas conclusões: a leitura pode mudar, continuar sustentada ou permanecer aberta.\nPause para registrar e comparar.\n\nPAUSA",
+      "briefing": [
+        "Comparar com “Conclusão antes”. O que é possível concluir com o que foi conferido?",
+        "Registrar “Conclusão depois”, suas bases e o que falta conhecer.",
+        "Reconhecer mudança, sustentação ou abertura da leitura.",
+        "PAUSAR para registrar e comparar."
+      ],
+      "notes": "",
+      "nativeSlideId": "apcial",
+      "screenActual": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 820,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "Conclusão depois",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 120
+          }
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.3 · Prática · 10 / 13",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 440,
+            "height": 22
+          }
+        },
+        {
+          "name": "comparacao-inicio",
+          "text": "Compare os dois registros da conclusão.",
+          "position": {
+            "left": 80,
+            "top": 266,
+            "width": 1120,
+            "height": 55
+          }
+        },
+        {
+          "name": "leitura-label",
+          "text": "CONCLUSÃO ANTES",
+          "position": {
+            "left": 106,
+            "top": 369,
+            "width": 255,
+            "height": 34
+          }
+        },
+        {
+          "name": "leitura-comparacao",
+          "text": "O que eu havia concluído",
+          "position": {
+            "left": 400,
+            "top": 366,
+            "width": 758,
+            "height": 70
+          }
+        },
+        {
+          "name": "vivido-label",
+          "text": "CONCLUSÃO DEPOIS",
+          "position": {
+            "left": 106,
+            "top": 516,
+            "width": 255,
+            "height": 34
+          }
+        },
+        {
+          "name": "vivido-comparacao",
+          "text": "O que compreendo agora",
+          "position": {
+            "left": 400,
+            "top": 513,
+            "width": 758,
+            "height": 70
+          }
+        }
+      ]
+    },
+    {
+      "sourceIndex": 12,
+      "title": "Vivido depois",
+      "screenChanges": {},
+      "number": 11,
+      "development": "Volte à mesma situação: como é estar diante dela agora?\nGuarde uma expressão breve como “Vivido depois”.\n\nCompare com “Vivido antes”.\nO que mudou e o que permaneceu?\nEssa é a comparação do vivido, separada da comparação das conclusões.\nPause para perceber e registrar.\n\nPAUSA",
+      "briefing": [
+        "Reconhecer como é estar diante da mesma situação agora.",
+        "Guardar a expressão como “Vivido depois”.",
+        "Comparar com “Vivido antes”: diferenças e permanências.",
+        "Manter essa comparação distinta da comparação das conclusões. PAUSAR."
+      ],
+      "notes": "",
+      "nativeSlideId": "uas2q4",
+      "screenActual": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 820,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "Vivido depois",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 120
+          }
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.3 · Prática · 11 / 13",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 440,
+            "height": 22
+          }
+        },
+        {
+          "name": "comparacao-inicio",
+          "text": "Compare os dois registros do vivido.",
+          "position": {
+            "left": 80,
+            "top": 266,
+            "width": 1120,
+            "height": 55
+          }
+        },
+        {
+          "name": "leitura-label",
+          "text": "VIVIDO ANTES",
+          "position": {
+            "left": 106,
+            "top": 369,
+            "width": 255,
+            "height": 34
+          }
+        },
+        {
+          "name": "leitura-comparacao",
+          "text": "Como a situação era vivida",
+          "position": {
+            "left": 400,
+            "top": 366,
+            "width": 758,
+            "height": 70
+          }
+        },
+        {
+          "name": "vivido-label",
+          "text": "VIVIDO DEPOIS",
+          "position": {
+            "left": 106,
+            "top": 516,
+            "width": 255,
+            "height": 34
+          }
+        },
+        {
+          "name": "vivido-comparacao",
+          "text": "Como a situação é vivida agora",
+          "position": {
+            "left": 400,
+            "top": 513,
+            "width": 758,
+            "height": 70
+          }
+        }
+      ]
+    },
+    {
+      "sourceIndex": 13,
+      "title": "Encerrar a exploração",
+      "screenChanges": {},
+      "number": 12,
+      "development": "ENCERRAMENTO\n\nDeixe a situação e os registros de lado.\nReconheça o ambiente, perceba os apoios e retome seus movimentos.\n\nPAUSA\n\nA exploração termina aqui.\nAgora vamos elaborar e organizar a continuidade.",
+      "briefing": [
+        "ENCERRAR A EXPLORAÇÃO.",
+        "Deixar a situação e os registros de lado.",
+        "Reconhecer ambiente, apoios e movimentos. Conservar um silêncio breve.",
+        "A elaboração começa depois desse encerramento."
+      ],
+      "notes": "",
+      "nativeSlideId": "cp7cvu",
+      "screenActual": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 820,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "Encerrar a exploração",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 120
+          }
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.3 · Prática · 12 / 13",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 440,
+            "height": 22
+          }
+        },
+        {
+          "name": "final-question",
+          "text": "Deixe a situação de lado.\nRetome o contato com o ambiente.",
+          "position": {
+            "left": 72,
+            "top": 263,
+            "width": 1120,
+            "height": 170
+          }
+        },
+        {
+          "name": "next-label",
+          "text": "RETOME SEUS MOVIMENTOS",
+          "position": {
+            "left": 72,
+            "top": 477,
+            "width": 1000,
+            "height": 36
+          }
+        },
+        {
+          "name": "next-title",
+          "text": "A prática termina aqui.",
+          "position": {
+            "left": 72,
+            "top": 536,
+            "width": 1050,
+            "height": 90
+          }
+        }
+      ]
+    },
+    {
+      "sourceIndex": 15,
+      "title": "Conferir no encontro real",
+      "screenChanges": {},
+      "number": 13,
+      "development": "ELABORAÇÃO E CONTINUIDADE\n\nRever uma conclusão pode coexistir com o mesmo aperto.\nO vivido e a compreensão podem mudar de maneiras diferentes.\nSustentar uma pergunta ou escutar algo inesperado já pode ampliar sua participação; o que continuar difícil orienta o próximo trabalho.\n\nSe falta informação, defina fonte e ocasião para conferir.\nAntes da conversa, retome o contato com o presente, faça a pergunta e escute a resposta real.\nSe ficar dúvida, devolva brevemente o que entendeu e pergunte se corresponde ao que a pessoa quis dizer.\n\nNa mesma Cartografia, conserve os pares de registros, as bases, a pergunta e a ocasião de retorno.\nDepois do encontro, diferencie o que soube, o que ainda supõe e como viveu a situação.\nEssa aprendizagem participa da expressão das suas possibilidades na vida.\nM2.4 trabalhará o que continua organizando a resposta mesmo quando a compreensão mudou.",
+      "briefing": [
+        "Uma conclusão pode mudar e o aperto continuar. Relacionar ao mapa reapresentado.",
+        "Reconhecer o que ficou possível: sustentar uma pergunta, escutar uma diferença ou localizar o trabalho necessário.",
+        "Definir fonte e ocasião quando falta informação.",
+        "Na conversa, recuperar contato com o presente, perguntar e escutar a resposta real.",
+        "Se necessário, devolver o que entendeu e conferir com o interlocutor.",
+        "Guardar os pares na mesma Cartografia. Depois do encontro, acrescentar o que soube e como viveu.",
+        "Ponte para M2.4: condições para sustentar outra resposta."
+      ],
+      "notes": "",
+      "nativeSlideId": "lc6k0q",
+      "screenActual": [
+        {
+          "name": "course-signature",
+          "text": "TRADUZINDO O SER HUMANO",
+          "position": {
+            "left": 72,
+            "top": 32,
+            "width": 820,
+            "height": 24
+          }
+        },
+        {
+          "name": "headline",
+          "text": "Conferir no encontro real",
+          "position": {
+            "left": 72,
+            "top": 85,
+            "width": 940,
+            "height": 120
+          }
+        },
+        {
+          "name": "lesson-footer",
+          "text": "M2.3 · Prática · 13 / 13",
+          "position": {
+            "left": 72,
+            "top": 673,
+            "width": 440,
+            "height": 22
+          }
+        },
+        {
+          "name": "row-title-0",
+          "text": "Pergunta que vou levar",
+          "position": {
+            "left": 118,
+            "top": 300,
+            "width": 420,
+            "height": 110
+          }
+        },
+        {
+          "name": "row-body-0",
+          "text": "Fonte e ocasião\npara conferir",
+          "position": {
+            "left": 565,
+            "top": 300,
+            "width": 620,
+            "height": 110
+          }
+        },
+        {
+          "name": "row-title-1",
+          "text": "Retorno ao registro",
+          "position": {
+            "left": 118,
+            "top": 460,
+            "width": 420,
+            "height": 110
+          }
+        },
+        {
+          "name": "row-body-1",
+          "text": "O que soube, o que supus\ne como vivi o encontro",
+          "position": {
+            "left": 565,
+            "top": 460,
+            "width": 620,
+            "height": 110
+          }
+        },
+        {
+          "name": "conserve-bases",
+          "text": "Resposta real e interpretação ficam reconhecíveis.",
+          "position": {
+            "left": 118,
+            "top": 607,
+            "width": 1030,
+            "height": 42
+          }
+        }
+      ]
+    }
+  ],
+  "title": "M2.3 · Prática guiada",
+  "subtitle": "Conferir uma certeza e recuperar outras pistas",
+  "folder": "02_M2_3_Pratica",
+  "groups": [
+    [
+      0,
+      1,
+      2
+    ],
+    [
+      3,
+      4,
+      5,
+      6
+    ],
+    [
+      7,
+      8,
+      9,
+      10
+    ],
+    [
+      11,
+      12
+    ]
+  ],
+  "estimated": "9–11 minutos",
+  "brief": "A prática confere uma conclusão e acompanha o vivido. O mapa reaparece antes da demonstração. Depois, o aluno permanece com a mesma situação, produz referências antes de compará-las e distingue informação real de informação ainda não obtida.",
+  "gain": "Diferenciar conclusão e vivido, formular uma pergunta corrigível e ampliar a participação pela resposta real.",
+  "format": "slides-e-roteiro-separado",
+  "nativeSequence": 7,
+  "nativeSnapshot": {
+    "encoding": "base64+gzip",
+    "format": "JSON de presentation.toProto()",
+    "data": "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"
+  },
+  "sourceRecovery": {
+    "repository": "fabianodeliberalli/base-cognitiva-vault",
+    "parentCommit": "ab2dd2bf80aae69f0c5d84d93533413d00313d29",
+    "origin": "Reorganização v3 e retomada de M2.4 em 24/11/2026. Mapas dos dois tempos/Eu Básico–Eu Médio recuperados de M2.2 teoria v0.5, telas 6–7.",
+    "format": "development conserva a base. briefing corresponde ao roteiro separado. notes está vazio nas apresentações por escolha de formato."
+  }
+}

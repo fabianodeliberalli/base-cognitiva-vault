@@ -1,0 +1,147 @@
+{
+  "results": [
+    {
+      "local_path": "/workspace/scratch/4909a93c8194/formato_gravacao_20261124/entrega/TSH_M2_2_M2_3_M2_4_Slides_e_Roteiros_v4.zip",
+      "purpose": "replace_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000008488820ea6a64152e20c8346",
+      "library_file_id": "libfile_fde3_f-96cfa431494c81919a97bbaae7fbb349_ad925f8fadbc81918eab9ef0eafee9a9",
+      "file_name": "TSH_M2_2_M2_3_M2_4_Slides_e_Roteiros_v4.zip",
+      "local_metadata_applied": true,
+      "path": "/TSH_M2_2_M2_3_M2_4_Slides_e_Roteiros_v4.zip",
+      "current_version_number": 2
+    },
+    {
+      "local_path": "/workspace/scratch/4909a93c8194/formato_gravacao_20261124/entrega/03_M2_4_Teoria/M24P1_Slides_v3.pdf",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000af44820e88896710f777755e",
+      "library_file_id": "libfile_fde3_f-8368078b2f088191870f6bcbf7663c3f_ad925f8fadbc81918eab9ef0eafee9a9",
+      "file_name": "M24P1_Slides_v3.pdf",
+      "local_metadata_applied": true,
+      "path": "/M24P1_Slides_v3.pdf",
+      "current_version_number": 0
+    },
+    {
+      "local_path": "/workspace/scratch/4909a93c8194/formato_gravacao_20261124/entrega/03_M2_4_Teoria/M24P1_Roteiro_de_apoio_v3.docx",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000005f48820e8748afaf44d4ecf1",
+      "library_file_id": "libfile_fde3_f-9ae08c9675a081919ecd4a3c239974ab_ad925f8fadbc81918eab9ef0eafee9a9",
+      "file_name": "M24P1_Roteiro_de_apoio_v3.docx",
+      "local_metadata_applied": true,
+      "path": "/M24P1_Roteiro_de_apoio_v3.docx",
+      "current_version_number": 0
+    },
+    {
+      "local_path": "/workspace/scratch/4909a93c8194/formato_gravacao_20261124/entrega/03_M2_4_Teoria/M24P1_Roteiro_de_apoio_v3.pdf",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000861c820eaf5cafb4f1dde46d",
+      "library_file_id": "libfile_fde3_f-92226e63ec9c8191967b517adddbab6e_ad925f8fadbc81918eab9ef0eafee9a9",
+      "file_name": "M24P1_Roteiro_de_apoio_v3.pdf",
+      "local_metadata_applied": true,
+      "path": "/M24P1_Roteiro_de_apoio_v3.pdf",
+      "current_version_number": 0
+    },
+    {
+      "local_path": "/workspace/scratch/4909a93c8194/formato_gravacao_20261124/entrega/04_M2_4_Pratica/M24P2_Slides_v4.pdf",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000008168820eb1d666b6101f4db3",
+      "library_file_id": "libfile_fde3_f-ac2d3c817f588191a53d9044c8bd4a63_ad925f8fadbc81918eab9ef0eafee9a9",
+      "file_name": "M24P2_Slides_v4.pdf",
+      "local_metadata_applied": true,
+      "path": "/M24P2_Slides_v4.pdf",
+      "current_version_number": 0
+    },
+    {
+      "local_path": "/workspace/scratch/4909a93c8194/formato_gravacao_20261124/entrega/04_M2_4_Pratica/M24P2_Roteiro_de_apoio_v4.docx",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_0000000090f8820e804b9cc22597595c",
+      "library_file_id": "libfile_fde3_f-8e31b7847fa8819198aacdca23c0cb1b_ad925f8fadbc81918eab9ef0eafee9a9",
+      "file_name": "M24P2_Roteiro_de_apoio_v4.docx",
+      "local_metadata_applied": true,
+      "path": "/M24P2_Roteiro_de_apoio_v4.docx",
+      "current_version_number": 0
+    },
+    {
+      "local_path": "/workspace/scratch/4909a93c8194/formato_gravacao_20261124/entrega/04_M2_4_Pratica/M24P2_Roteiro_de_apoio_v4.pdf",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000f930820ea55958af9a12193c",
+      "library_file_id": "libfile_fde3_f-d13342dcc6288191a6ef7a78a2508348_ad925f8fadbc81918eab9ef0eafee9a9",
+      "file_name": "M24P2_Roteiro_de_apoio_v4.pdf",
+      "local_metadata_applied": true,
+      "path": "/M24P2_Roteiro_de_apoio_v4.pdf",
+      "current_version_number": 0
+    },
+    {
+      "local_path": "/workspace/scratch/4909a93c8194/formato_gravacao_20261124/entrega/01_M2_2_Pratica/M22_Slides_v4.pdf",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000004028820e9a7da5f186d2c354",
+      "library_file_id": "libfile_fde3_f-dc84ba92ffcc81918cb74bf656e77dd4_ad925f8fadbc81918eab9ef0eafee9a9",
+      "file_name": "M22_Slides_v4.pdf",
+      "local_metadata_applied": true,
+      "path": "/M22_Slides_v4.pdf",
+      "current_version_number": 0
+    },
+    {
+      "local_path": "/workspace/scratch/4909a93c8194/formato_gravacao_20261124/entrega/01_M2_2_Pratica/M22_Roteiro_de_apoio_v4.docx",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000006864820ebb88a8cde3126660",
+      "library_file_id": "libfile_fde3_f-633fd8187f7c81918299a71c0eed1d71_ad925f8fadbc81918eab9ef0eafee9a9",
+      "file_name": "M22_Roteiro_de_apoio_v4.docx",
+      "local_metadata_applied": true,
+      "path": "/M22_Roteiro_de_apoio_v4.docx",
+      "current_version_number": 0
+    },
+    {
+      "local_path": "/workspace/scratch/4909a93c8194/formato_gravacao_20261124/entrega/01_M2_2_Pratica/M22_Roteiro_de_apoio_v4.pdf",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000dd60820ebfb1e42a1931eae0",
+      "library_file_id": "libfile_fde3_f-1559812920948191bdcf7c47aa1e6f04_ad925f8fadbc81918eab9ef0eafee9a9",
+      "file_name": "M22_Roteiro_de_apoio_v4.pdf",
+      "local_metadata_applied": true,
+      "path": "/M22_Roteiro_de_apoio_v4.pdf",
+      "current_version_number": 0
+    },
+    {
+      "local_path": "/workspace/scratch/4909a93c8194/formato_gravacao_20261124/entrega/02_M2_3_Pratica/M23_Slides_v4.pdf",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000002868820eaad137f89ffbc4cb",
+      "library_file_id": "libfile_fde3_f-467ab696481c8191893cc946795f7cfa_ad925f8fadbc81918eab9ef0eafee9a9",
+      "file_name": "M23_Slides_v4.pdf",
+      "local_metadata_applied": true,
+      "path": "/M23_Slides_v4.pdf",
+      "current_version_number": 0
+    },
+    {
+      "local_path": "/workspace/scratch/4909a93c8194/formato_gravacao_20261124/entrega/02_M2_3_Pratica/M23_Roteiro_de_apoio_v4.docx",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000262c820e9119d85cc1a7ea60",
+      "library_file_id": "libfile_fde3_f-3aff9800ac3c8191a5bffe9104ca5b02_ad925f8fadbc81918eab9ef0eafee9a9",
+      "file_name": "M23_Roteiro_de_apoio_v4.docx",
+      "local_metadata_applied": true,
+      "path": "/M23_Roteiro_de_apoio_v4.docx",
+      "current_version_number": 0
+    },
+    {
+      "local_path": "/workspace/scratch/4909a93c8194/formato_gravacao_20261124/entrega/02_M2_3_Pratica/M23_Roteiro_de_apoio_v4.pdf",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000b714820ea7382d7363f8b1df",
+      "library_file_id": "libfile_fde3_f-197d804d204c81919885e98b5f7395f0_ad925f8fadbc81918eab9ef0eafee9a9",
+      "file_name": "M23_Roteiro_de_apoio_v4.pdf",
+      "local_metadata_applied": true,
+      "path": "/M23_Roteiro_de_apoio_v4.pdf",
+      "current_version_number": 0
+    }
+  ]
+}
