@@ -2,7 +2,7 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.62"
+versao: "0.63"
 atualizado_em: 2026-11-24
 ---
 
@@ -39,6 +39,8 @@ O assistente confere se as contribuições recuperadas mudam o conteúdo, as per
 - Restrições antigas de conteúdo/práticas criadas por assistentes não limitam a construção atual. Avaliar o acréscimo pertinente à questão e à formação/docência de Fabiano. Preservar cuidados de condução, anonimização de pacientes e trabalho em ramificação; integrar à `main` somente com homologação. [[10 - Contrato Comum de Contexto para Assistentes de IA]] desenvolve esse contexto.
 
 Doze semanas foi uma estimativa provisória histórica; duração e cronograma dependem da construção efetiva e de decisão de Fabiano. Nenhuma inteligência artificial pode declarar uma proposta própria como final, congelada ou imutável. Para formulações anteriores, usar o Registro Mestre como acervo histórico consultivo, recuperando o conteúdo pertinente em diálogo com a decisão atual e as notas-mãe.
+
+**Avaliação aplicada de 24/11/2026:** [[TSH - Aprendizagem ferramentas e progressão - M0 M1 M2 - 24-11-2026]] conserva a análise das 16 aulas de M0–M2, recursos efetivamente ensinados, lacunas de acesso/elaboração/desenvolvimento, progressão e propostas para os nove módulos. O relatório distingue contribuição existente, planejamento e sugestões; não declara todos os materiais refeitos nem ganhos já comprovados nos alunos. [PDF do relatório](https://chatgpt.com/library?file_id=libfile_fde3_f-a497ddd1b4a08191ae1fe1d7e0270b5a_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal). O texto completo e as fontes estão no repositório para recuperação na composição, sem exigir releitura integral a cada aula.
 
 ## Modelo de aula e materiais
 
