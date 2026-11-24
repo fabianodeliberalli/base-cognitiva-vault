@@ -2,13 +2,15 @@
 tipo: plano-de-producao
 projeto: Traduzindo o Ser Humano
 modulo: M2
-versao: "0.13"
-data: 2026-11-23
+versao: "0.14"
+data: 2026-11-24
 status: revisao-substantiva
 arquitetura: nove-modulos-59-aulas
 ---
 
 # Módulo 2 — Plano de produção das seis aulas
+
+**Centro de aprendizagem — orientação autoral de 24/11/2026.** Ferramentas e experiências devem organizar o percurso e os objetivos a que servem a teoria e os fundamentos profundos. A compreensão é multidimensional: corpo, afeto, imagem, atenção, relação, cultivo e espiritualidade participam da aprendizagem. Nas seis aulas, conferir o que é efetivamente ensinado a acessar, elaborar, experimentar ou desenvolver e como encontra continuidade na vida. Mencionar recurso, apoio ou cultivo não substitui ensinar suficientemente a operação. Um pré-requisito necessário à prática presente não é suprido por sua promessa no M3 ou em outro módulo. Os módulos seguintes aprofundam e ampliam repertório. Preservar a investigação específica de M2.4, dando também função própria a descoberta, criação e expressão no conjunto. Essa orientação não declara materiais já refeitos; as fontes e os estados abaixo continuam localizando a produção efetiva.
 
 Fabiano adotou, em 22/11/2026, duas partes de gravação a partir de M2.2 nas aulas com prática autônoma: compreensão/fundamentos e prática guiada/integração, mantendo a mesma aula. [[M2.2 - Prática guiada v1]], [[M2.3 - Avaliação da gravação e edição parte 1 v1]] e [[M2.3 - Prática guiada v1]] e [[M2.4 - Produção em duas partes v2]] localizam as aplicações. [[00 - Estado e Continuidade da Produção M2]] é a entrada para materiais atuais e genealogia. As montagens integradas anteriores permanecem históricas.
 
