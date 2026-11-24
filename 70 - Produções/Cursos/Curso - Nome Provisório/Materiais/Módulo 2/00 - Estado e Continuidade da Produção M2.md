@@ -3,11 +3,14 @@ tipo: continuidade-de-producao
 projeto: Traduzindo o Ser Humano
 modulo: M2
 status: producao-em-curso
-atualizado_em: 2026-11-23
+atualizado_em: 2026-11-24
 arquitetura_atual: nove módulos e 59 aulas
 ---
 
 # Módulo 2 — Estado e continuidade da produção
+
+
+**Intervenções propostas — 24/11/2026:** [[TSH - Lapidação e aproveitamento das gravações - M0 M1 M2 - 24-11-2026]] indica aproveitar as teorias editadas, lapidar as práticas M2.2/M2.3, completar o ensino de acesso ao recurso em M2.4 e compor M2.5/M2.6 pela ferramenta e experiência. As fontes atuais abaixo permanecem efetivamente produzidas; esta avaliação não declara esses ajustes já aplicados aos arquivos ou novas gravações.
 
 ## Forma de trabalho
 
