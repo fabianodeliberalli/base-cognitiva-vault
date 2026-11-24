@@ -2,8 +2,8 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.61"
-atualizado_em: 2026-11-23
+versao: "0.62"
+atualizado_em: 2026-11-24
 ---
 
 # Contexto mínimo — Traduzindo o Ser Humano
@@ -11,6 +11,10 @@ atualizado_em: 2026-11-23
 Esta é a entrada atual, alcançada por `AGENTS.md` e `CLAUDE.md`. Ler o conteúdo pertinente à tarefa e expandir a consulta pelas fontes abaixo. Fabiano decide a autoria e pode revisar escolhas anteriores. A versão extensa desta ficha foi preservada integralmente em [[11a - Contexto TSH - Histórico integral até 22-11-2026]]; não carregar esse histórico inteiro a cada produção. O nome e o caminho desta entrada foram preservados. Referências a seções antigas podem ser recuperadas no histórico, que conserva seus títulos e o texto completo.
 
 ## Prioridade de produção: profundidade e progressão
+
+**Ferramentas e experiências no centro — decisão de Fabiano em 24/11/2026.** O TSH foi criado para oferecer recursos que ajudem a traduzir, acessar, elaborar, desenvolver e transformar a participação na vida. Compreensão racional isolada contraria sua base multidimensional. As ferramentas e experiências constituem o centro do processo de aprendizagem e o objetivo a que servem a teoria e os fundamentos profundos. Corpo, afeto, imagem, pensamento, relações, cultivo, energia e espiritualidade participam com contribuições próprias; não são ilustrações acrescentadas depois.
+
+Compor cada aprendizagem pela relação entre o que a pessoa precisa aprender, a ferramenta/experiência pertinente e sua fundamentação. Isso não fixa uma ordem de apresentação nem exige técnica nova em toda aula. Ensinar suficientemente as operações necessárias agora, ou recuperar de modo reencontrável o que já foi aprendido; não postergar pré-requisitos essenciais para módulos futuros. Indicar “preciso de apoio/recurso/cultivo” não encerra o trabalho de ensinar caminhos para experimentá-los e utilizá-los. Conferir a passagem entre experiência, elaboração, desenvolvimento da capacidade e uso com retorno da vida. A separação dos vídeos favorece acesso e gravação; a aprendizagem mantém unidade multidimensional. A investigação de padrões é uma frente desse percurso e deve oferecer perspectivas reais de mudança, junto de descoberta, criação e expressão como finalidades próprias.
 
 **Correção estrutural de 23/11/2026:** a simplificação é um padrão recorrente apontado desde o início, não apenas uma lacuna de Cozolino. Aplicar a base autoral v1.6: desenvolvimento antes da montagem, contribuição efetivamente ensinada e concisão que conserva o raciocínio. Conferência técnica não demonstra integração teórica. A responsabilidade da aplicação é do assistente, sem novo lembrete ou triagem de Fabiano.
 
