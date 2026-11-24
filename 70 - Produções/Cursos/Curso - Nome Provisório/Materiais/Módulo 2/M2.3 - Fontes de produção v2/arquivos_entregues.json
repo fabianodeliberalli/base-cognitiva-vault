@@ -1,0 +1,80 @@
+[
+  {
+    "local_path": "/workspace/scratch/4909a93c8194/m23_producao_20261124/entrega/TSH_M2_3_Gravacao_Conjunto_v2.zip",
+    "purpose": "create_library_file",
+    "status": "succeeded",
+    "file_id": "file_0000000045a0820ebc6e3c943318f6fd",
+    "library_file_id": "libfile_fde3_f-886f336747308191b6e6bedfa2052d97_ad925f8fadbc81918eab9ef0eafee9a9",
+    "file_name": "TSH_M2_3_Gravacao_Conjunto_v2.zip",
+    "local_metadata_applied": true,
+    "path": "/TSH_M2_3_Gravacao_Conjunto_v2.zip",
+    "current_version_number": 0,
+    "sha256": "767cb3d05ece22a60851c431ec67565274b195cefcf5253ea3e7a9c878893e6a",
+    "bytes": 1712873
+  },
+  {
+    "local_path": "/workspace/scratch/4909a93c8194/m23_producao_20261124/entrega/TSH_M2_3_Pratica_Slides_v2.pdf",
+    "purpose": "replace_library_file",
+    "status": "succeeded",
+    "file_id": "file_00000000ca9c820e831b03fd787e2133",
+    "library_file_id": "libfile_fde3_f-c11c8de4b6848191bcecb87a2af141e6_ad925f8fadbc81918eab9ef0eafee9a9",
+    "file_name": "TSH_M2_3_Pratica_Slides_v2.pdf",
+    "local_metadata_applied": true,
+    "path": "/TSH_M2_3_Pratica_Slides_v2.pdf",
+    "current_version_number": 1,
+    "sha256": "2e0b936e95c6ed61414e1e57171569975db8a13fbef33babd06dcc73368f5acf",
+    "bytes": 1118023
+  },
+  {
+    "local_path": "/workspace/scratch/4909a93c8194/m23_producao_20261124/entrega/TSH_M2_3_Pratica_Guia_v2.docx",
+    "purpose": "replace_library_file",
+    "status": "succeeded",
+    "file_id": "file_000000000154820eb64a2780072b4da7",
+    "library_file_id": "libfile_fde3_f-570741d05ec48191bac4087d1b14ffa2_ad925f8fadbc81918eab9ef0eafee9a9",
+    "file_name": "TSH_M2_3_Pratica_Guia_v2.docx",
+    "local_metadata_applied": true,
+    "path": "/TSH_M2_3_Pratica_Guia_v2.docx",
+    "current_version_number": 1,
+    "sha256": "9de43498b2dfe945e4bf810dab2b0a321cfaa6d45bf1033a90872dde164c8b5a",
+    "bytes": 41308
+  },
+  {
+    "local_path": "/workspace/scratch/4909a93c8194/m23_producao_20261124/entrega/TSH_M2_3_Pratica_Guia_v2.pdf",
+    "purpose": "replace_library_file",
+    "status": "succeeded",
+    "file_id": "file_00000000d9b0820e81139cf40e2938f4",
+    "library_file_id": "libfile_fde3_f-9e2a6d675d04819190e8ebf30a609ad9_ad925f8fadbc81918eab9ef0eafee9a9",
+    "file_name": "TSH_M2_3_Pratica_Guia_v2.pdf",
+    "local_metadata_applied": true,
+    "path": "/TSH_M2_3_Pratica_Guia_v2.pdf",
+    "current_version_number": 1,
+    "sha256": "f32d368f2faf6c946dce21f704fd3a9aa024389e9482c2c891043ef27727454b",
+    "bytes": 89359
+  },
+  {
+    "local_path": "/workspace/scratch/4909a93c8194/m23_producao_20261124/entrega/TSH_M2_3_Apoio_do_Aluno_v2.docx",
+    "purpose": "replace_library_file",
+    "status": "succeeded",
+    "file_id": "file_00000000d40c820e94591aadbc78dca0",
+    "library_file_id": "libfile_fde3_f-c6d6719d7f548191b60d501e2b3da24c_ad925f8fadbc81918eab9ef0eafee9a9",
+    "file_name": "TSH_M2_3_Apoio_do_Aluno_v2.docx",
+    "local_metadata_applied": true,
+    "path": "/Curso - Traduzindo o Ser Humano/TSH_M2_3_Apoio_do_Aluno_v2.docx",
+    "current_version_number": 2,
+    "sha256": "f395c6d1d3b2e7d6c672f530260c6155079e7ff7a6bf2d157ea0942079f643d4",
+    "bytes": 215663
+  },
+  {
+    "local_path": "/workspace/scratch/4909a93c8194/m23_producao_20261124/entrega/TSH_M2_3_Apoio_do_Aluno_v2.pdf",
+    "purpose": "replace_library_file",
+    "status": "succeeded",
+    "file_id": "file_00000000f148820e85a1490ba72b7f86",
+    "library_file_id": "libfile_fde3_f-5da7c86a13648191b4cc0a193d3758fb_ad925f8fadbc81918eab9ef0eafee9a9",
+    "file_name": "TSH_M2_3_Apoio_do_Aluno_v2.pdf",
+    "local_metadata_applied": true,
+    "path": "/Curso - Traduzindo o Ser Humano/TSH_M2_3_Apoio_do_Aluno_v2.pdf",
+    "current_version_number": 2,
+    "sha256": "203aa91010a3fa95781d8cf9ab0d864d0b684eeb659a3becd5d8efe6ad817141",
+    "bytes": 221704
+  }
+]

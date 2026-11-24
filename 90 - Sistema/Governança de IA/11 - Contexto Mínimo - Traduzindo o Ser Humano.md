@@ -2,7 +2,7 @@
 tipo: ficha-de-contexto-minimo
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.65"
+versao: "0.66"
 atualizado_em: 2026-11-24
 ---
 
@@ -40,13 +40,13 @@ O assistente confere se as contribuições recuperadas mudam o conteúdo, as per
 
 Doze semanas foi uma estimativa provisória histórica; duração e cronograma dependem da construção efetiva e de decisão de Fabiano. Nenhuma inteligência artificial pode declarar uma proposta própria como final, congelada ou imutável. Para formulações anteriores, usar o Registro Mestre como acervo histórico consultivo, recuperando o conteúdo pertinente em diálogo com a decisão atual e as notas-mãe.
 
-**Avaliação e aplicação — 24/11/2026:** [[TSH - Aprendizagem ferramentas e progressão - M0 M1 M2 - 24-11-2026]] conserva a análise das 16 aulas e do percurso. [[TSH - Lapidação e aproveitamento das gravações - M0 M1 M2 - 24-11-2026]] converte os achados em intervenções propostas por aula, com aproveitamento das gravações e recursos concretos; incorpora a conferência dos arquivos de publicação M1.3/M1.4, evitando duplicar ensinos já presentes. Textos e fontes completos no repositório para consulta dirigida. O estado de M2 localiza a aplicação posterior, iniciada pela prática M2.2 v2. As demais propostas não declaram materiais já alterados nem ganhos comprovados nos alunos.
+**Avaliação e aplicação — 24/11/2026:** [[TSH - Aprendizagem ferramentas e progressão - M0 M1 M2 - 24-11-2026]] conserva a análise das 16 aulas e do percurso. [[TSH - Lapidação e aproveitamento das gravações - M0 M1 M2 - 24-11-2026]] converte os achados em intervenções propostas por aula, com aproveitamento das gravações e recursos concretos; incorpora a conferência dos arquivos de publicação M1.3/M1.4, evitando duplicar ensinos já presentes. Textos e fontes completos no repositório para consulta dirigida. O estado de M2 localiza a aplicação posterior, aplicada às práticas M2.2 e M2.3 v2. As demais propostas não declaram materiais já alterados nem ganhos comprovados nos alunos.
 
 ## Modelo de aula e materiais
 
 O modelo adotado em 22/11/2026 é uma trilha para exposição livre: visão inicial do percurso; slides como passos visuais; notas naturais com entrada, desenvolvimento, propósito e passagem. Os quatro campos são referência para exposição e elaboração; sua extensão acompanha a função do passo. Desenvolver termos novos e conexões; não escrever fala integral obrigatória nem deixar referências soltas. A extensão acompanha o aprendizado, sem quota de telas ou prática básica repetida. Referências completas, DOI e observações de pesquisa ficam no aprofundamento opcional do aluno, não nas notas de gravação.
 
-**Gravações em duas partes, adotadas por Fabiano a partir de M2.2:** nas aulas com prática autônoma, compreensão/fundamentos e prática guiada/integração em vídeos separados da mesma aula. A segunda parte contém preparação, realização, pausas, encerramento, elaboração e continuidade; observações breves podem continuar entrelaçadas à exposição. Uma fonte integrada e um apoio do aluno, preservando nove módulos e 59 aulas. O padrão v2.12 desenvolve a aplicação. [[M2.2 - Prática guiada v2]] localiza a condução independente atual; a v1 conserva sua origem. Adoção não declara os demais arquivos já reorganizados.
+**Gravações em duas partes, adotadas por Fabiano a partir de M2.2:** nas aulas com prática autônoma, compreensão/fundamentos e prática guiada/integração em vídeos separados da mesma aula. A segunda parte contém preparação, realização, pausas, encerramento, elaboração e continuidade; observações breves podem continuar entrelaçadas à exposição. Uma fonte integrada e um apoio do aluno, preservando nove módulos e 59 aulas. O padrão v2.12 desenvolve a aplicação. [[M2.2 - Prática guiada v2]] e [[M2.3 - Prática guiada v2]] localizam as conduções independentes atuais; as fontes v1 conservam sua origem. Adoção não declara os demais arquivos já reorganizados.
 
 **Refinamento após a gravação M2.1:** Fabiano explicou que comentários de preenchimento também surgiram para ganhar tempo diante de notas confusas e repetidas. A correção incide no apoio: localizar o próximo passo com um olhar, retirar paráfrases entre campos e distinguir apresentação da prática, realização, pausa, elaboração e conclusão com avisos breves quando úteis. A realização pode ter instruções diretas sem quatro blocos explicativos por tela. O padrão v2.12 conserva o exemplo corrigido; o plano de M2 localiza a revisão pertinente em M2.2. Preservar a densidade dos fundamentos e a simplicidade adequada da condução.
 
@@ -68,7 +68,7 @@ O entregável dirige-se ao aluno e é compreensível por si, com fundamentos des
 | --- | --- |
 | M2.1 | [[M2.1 - Trilha de exposição v0.8]]: constituição corporificada/relacional, enação, primeira pessoa, expressão e retorno. Trilha e suportes disponíveis. [[M2.1 - Edição da gravação v1]] localiza a cópia editada de 34min43s, original, operações e parecer editorial. |
 | M2.2 | [[M2.2 - Edição da gravação parte 1 v1]]: teoria editada, 28min13s preservada. [[M2.2 - Prática guiada v2]]: 12 telas, sequência 6, guia e apoio Word/PDF de seis páginas e conjunto ZIP. Aplica demonstração, formas vividas, três observações e continuidade com ação/ocasião/retorno. A v0.5 conserva a fonte teórica gravada. |
-| M2.3 | [[M2.3 - Avaliação da gravação e edição parte 1 v1]]: teoria aproveitada em vídeo de 24min55s, original preservado. [[M2.3 - Prática guiada v1]]: 14 telas, sequência 3, roteiro Word/PDF de oito páginas, para regravar a prática completa. A v0.3 integrada de 24 telas conserva a fonte efetivamente utilizada. |
+| M2.3 | [[M2.3 - Avaliação da gravação e edição parte 1 v1]]: teoria editada de 24min55s, original preservado. [[M2.3 - Prática guiada v2]]: 17 telas, sequência 5, guia de nove páginas, apoio de oito e ZIP; demonstração, comparações distintas e conferência real. Próxima produção: lapidação localizada M2.1. A fonte integrada v0.3 permanece histórica. |
 | M2.4 | [[M2.4 - Produção em duas partes v2]]: 21 telas de compreensão/fundamentos e 18 de prática/integração; formação da experiência, diálogo Cozolino/Kahneman, competência incorporada e relação com a prática desenvolvidos. Guias e apoio atualizados no mesmo kit. A v1 permanece histórica. |
 | M2.5–M2.6 | Orientação estrutural: distinguir vivido/sentido/interpretação/origem e realizar Tradução recursiva. Novos materiais integrais ainda não produzidos nesta frente. |
 
