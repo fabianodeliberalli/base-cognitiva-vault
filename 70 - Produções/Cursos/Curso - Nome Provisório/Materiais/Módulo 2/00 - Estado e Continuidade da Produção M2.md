@@ -10,11 +10,11 @@ arquitetura_atual: nove módulos e 59 aulas
 # Módulo 2 — Estado e continuidade da produção
 
 
-**Intervenções propostas — 24/11/2026:** [[TSH - Lapidação e aproveitamento das gravações - M0 M1 M2 - 24-11-2026]] indica aproveitar as teorias editadas, lapidar as práticas M2.2/M2.3, completar o ensino de acesso ao recurso em M2.4 e compor M2.5/M2.6 pela ferramenta e experiência. As fontes atuais abaixo permanecem efetivamente produzidas; esta avaliação não declara esses ajustes já aplicados aos arquivos ou novas gravações.
+**Intervenções propostas — 24/11/2026:** [[TSH - Lapidação e aproveitamento das gravações - M0 M1 M2 - 24-11-2026]] indica aproveitar as teorias editadas, lapidar as práticas M2.2/M2.3, completar o ensino de acesso ao recurso em M2.4 e compor M2.5/M2.6 pela ferramenta e experiência. As fontes abaixo localizam a produção efetiva. [[M2.2 - Prática guiada v2]] aplica a primeira lapidação aos suportes; as demais intervenções conservam os estados indicados.
 
 ## Forma de trabalho
 
-O modelo adotado em M2.1 é a trilha para exposição livre, com visão inicial e passos visuais. Os quatro campos de notas orientam a exposição conforme sua função; na realização de práticas, usar momentos reconhecíveis e instruções diretas. Uma frase completa por linha e espaço entre blocos facilitam a consulta, com objetividade que preserva fundamentos, articulações e retomadas didáticas úteis. [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] v2.11 e [[13 - Base de Produção Autoral e Didática - Fabiano Deliberalli]] v1.6 orientam a aplicação. A clareza torna ensinável a densidade autoral e dos fundamentos. M0 é acolhimento e não determina o nível das aulas seguintes.
+O modelo adotado em M2.1 é a trilha para exposição livre, com visão inicial e passos visuais. Os quatro campos de notas orientam a exposição conforme sua função; na realização de práticas, usar momentos reconhecíveis e instruções diretas. Uma frase completa por linha e espaço entre blocos facilitam a consulta, com objetividade que preserva fundamentos, articulações e retomadas didáticas úteis. [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] v2.12 e [[13 - Base de Produção Autoral e Didática - Fabiano Deliberalli]] v1.6 orientam a aplicação. A clareza torna ensinável a densidade autoral e dos fundamentos. M0 é acolhimento e não determina o nível das aulas seguintes.
 
 Os registros de produção acompanham versões, arquivos, alterações e trabalho restante. Omitir campos, pendências e lembretes de aprovação para gravação.
 
@@ -23,7 +23,7 @@ Os registros de produção acompanham versões, arquivos, alterações e trabalh
 | Aula | Ponto atual de recuperação |
 | --- | --- |
 | M2.1 | [[M2.1 - Trilha de exposição v0.8]] e [[M2.1 - Apresentação editável v0.8]]: 20 telas; sequência nativa 14; guia Word/PDF de 21 páginas, versão 3; apoio Word/PDF de quatro páginas, versão 5. O apoio versão 4 permanece como exemplar preservado. [[M2.1 - Edição da gravação v1]]: vídeo editado de 34min43s, original preservado. |
-| M2.2 | [[M2.2 - Edição da gravação parte 1 v1]]: vídeo de compreensão/fundamentos, 28min13s, original preservado, novo apoio sobre inibição latente e fechamento para a prática. [[M2.2 - Prática guiada v1]]: 10 telas, sequência 4, roteiro Word de cinco páginas. Fabiano regravará a prática; a v0.5 preserva a fonte integrada anterior. |
+| M2.2 | [[M2.2 - Edição da gravação parte 1 v1]]: teoria editada de 28min13s preservada. [[M2.2 - Prática guiada v2]]: 12 telas, sequência 6, guia e apoio Word/PDF de seis páginas, conjunto ZIP. Demonstração antes da situação pessoal, três observações vividas e ação/ocasião/retorno. |
 | M2.3 | [[M2.3 - Avaliação da gravação e edição parte 1 v1]]: teoria editada, 24min55s, original preservado. [[M2.3 - Prática guiada v1]]: 14 telas, sequência 3, guia Word/PDF de oito páginas e slides em PDF; nova prática a gravar por Fabiano. A fonte integrada v0.3 (24 telas, sequência 6) preserva a versão efetivamente utilizada. |
 | M2.4 | [[M2.4 - Produção em duas partes v2]]: 21 telas de compreensão/fundamentos e 18 de prática/integração. Aprofundamento da formação do vivido, Cozolino/Kahneman, competência incorporada e elaboração da prática. Guias e apoio correspondentes no kit atual. As versões anteriores conservam a genealogia. |
 | M2.5–M2.6 e M3–M8 | Orientação estrutural no dossiê; novos roteiros e suportes integrais ainda a compor nesta frente. |
@@ -36,9 +36,11 @@ Fabiano enviou a [gravação M2.1, 37min56s](https://chatgpt.com/library?file_id
 
 [[M2.1 - Edição da gravação v1]] localiza a cópia editada, o original, os cortes e o parecer editorial. Duração de 37min56s para 34min43s; retiradas operação, antecipação duplicada da prática, reexplicação no meio da realização e reinícios. Tela preta do fechamento recomposta sob a câmera original; voz e conteúdo central preservados. Recomendação do assistente: aproveitar a edição, sem regravar integralmente; somente o bloco prático seria opção de outro acabamento. As fontes dos slides gravados v0.8 permanecem.
 
-## Condução e gravação separada de M2.2 — 22/11/2026
+## Condução de M2.2 e próxima produção — 24/11/2026
 
-Fabiano informou que regravará a prática e adotou duas partes a partir de M2.2 quando houver prática autônoma: compreensão/fundamentos e prática guiada/integração, mantendo a unidade de aula. [[M2.2 - Prática guiada v1]] localiza a apresentação independente de 10 telas, o roteiro Word de cinco páginas, as fontes e o diagnóstico completo da gravação anterior. As duas perguntas têm telas próprias; os três registros são reconhecíveis; pausas, comparação, retorno à situação, encerramento e elaboração seguem em ordem. A separação e edição da parte conceitual foi realizada posteriormente em [[M2.2 - Edição da gravação parte 1 v1]]: 28min13s, com acabamento de áudio/imagem, cortes pontuais de redundância e imprecisões, apoio visual sobre inibição latente e fechamento para o segundo vídeo. A nova prática será gravada por Fabiano; não foi produzida nesta edição.
+[[M2.2 - Prática guiada v2]] atualiza apresentação, guia e apoio juntos, preservando a teoria editada. A realização mantém Antes das perguntas / Resolver / Possibilidade, com formas vividas e conferência da situação. Encerra antes da elaboração e orienta uma ação com ocasião e retorno. O artesão é recuperado da teoria, com a família visual e notas consultáveis. As fontes completas e o ZIP estão no localizador. A v1 conserva o diagnóstico da gravação anterior e sua fonte de dez telas.
+
+Ordem aceita na conversa: M2.2 prática; M2.3 prática; ajustes localizados M2.1; M2.4 duas partes; M2.5; M2.6; M1.6 prática; demais ajustes M0/M1; M3 em diante. A ordem de produção não renumera o percurso do aluno. Não há nova gravação ou publicação nesta entrega.
 
 ## Aprendizado da gravação M2.3 — 22/11/2026
 
@@ -50,7 +52,7 @@ As revisões v0.3 aplicam o aprendizado da gravação: objetividade com fundamen
 
 ## Correção de profundidade aplicada — 23/11/2026
 
-Fabiano reiterou o padrão de simplificação desde o início do chat. A revisão anterior melhorou a condução e os suportes, mas resumiu articulações substantivas; “profundidade preservada” excedeu a evidência. A base autoral v1.6 e o padrão v2.11 corrigem essa prioridade. [[M2.4 - Produção em duas partes v2]] desenvolve Cozolino, memória/corpo/relação na formação do presente, aval da impressão com Kahneman e aprendizagem incorporada; distingue os dois tempos do TSH de uma cronologia neural fixa. Relaciona recurso, comparação e cultivo à fundamentação e atualiza notas, guias e apoio. A condução da prática é preservada; sua elaboração é ampliada. Isso não declara M2.1–M2.3 ou outras aulas refeitas. A arquitetura continua nove módulos e 59 aulas.
+Fabiano reiterou o padrão de simplificação desde o início do chat. A revisão anterior melhorou a condução e os suportes, mas resumiu articulações substantivas; “profundidade preservada” excedeu a evidência. A base autoral v1.6 e o padrão v2.12 corrigem essa prioridade. [[M2.4 - Produção em duas partes v2]] desenvolve Cozolino, memória/corpo/relação na formação do presente, aval da impressão com Kahneman e aprendizagem incorporada; distingue os dois tempos do TSH de uma cronologia neural fixa. Relaciona recurso, comparação e cultivo à fundamentação e atualiza notas, guias e apoio. A condução da prática é preservada; sua elaboração é ampliada. Isso não declara M2.1–M2.3 ou outras aulas refeitas. A arquitetura continua nove módulos e 59 aulas.
 
 ## Progressão efetiva
 

@@ -1,0 +1,145 @@
+{
+  "date": "2026-11-24",
+  "repository": "fabianodeliberalli/base-cognitiva-vault",
+  "head": "127d57ecae2ae4905a670ed1ca74b96e51a897e2",
+  "sources": [
+    {
+      "path": "90 - Sistema/Governança de IA/10 - Contrato Comum de Contexto para Assistentes de IA.md",
+      "sha": "0c182ad573ae99ebf654f9fc400ef21f4a90e122",
+      "ref": "127d57ecae2ae4905a670ed1ca74b96e51a897e2"
+    },
+    {
+      "path": "90 - Sistema/Governança de IA/11 - Contexto Mínimo - Traduzindo o Ser Humano.md",
+      "sha": "47da66ed311c1f7e2188067b13113d94c1570a51",
+      "ref": "127d57ecae2ae4905a670ed1ca74b96e51a897e2"
+    },
+    {
+      "path": "90 - Sistema/Governança de IA/13 - Base de Produção Autoral e Didática - Fabiano Deliberalli.md",
+      "sha": "8617cb4beccd4fc4f0ae7a138dc101c3b3935ab1",
+      "ref": "127d57ecae2ae4905a670ed1ca74b96e51a897e2"
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/60 - Arquitetura Pedagógica/TSH - Padrão de Slides, Notas e Roteiros das Aulas.md",
+      "sha": "e966b00d0536a96a1622d4b26890e42de735c88e",
+      "ref": "127d57ecae2ae4905a670ed1ca74b96e51a897e2"
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 2/00 - Estado e Continuidade da Produção M2.md",
+      "sha": "61040308da5f1755a9eac4e09be216fbbdfa4232",
+      "ref": "127d57ecae2ae4905a670ed1ca74b96e51a897e2"
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 2/01 - Plano de produção das seis aulas M2.md",
+      "sha": "c4f0eea15fd667bf1b738ee71fdd22b8e3450daa",
+      "ref": "127d57ecae2ae4905a670ed1ca74b96e51a897e2"
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 2/M2.2 - Prática guiada v1.md",
+      "sha": "ab70438c041c96d2fe453e07837a586cb54db395",
+      "ref": "127d57ecae2ae4905a670ed1ca74b96e51a897e2"
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 2/M2.2 - Prática guiada - Conteúdo das telas e notas v1.json",
+      "sha": "48b52da182a966a8f58520bf8c4529eefcd9a850",
+      "ref": "127d57ecae2ae4905a670ed1ca74b96e51a897e2"
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 2/M2.2 - Trilha de exposição v0.5.md",
+      "sha": "8d9e6162f8ac1a00f08c2223788842ea5d88ceb6",
+      "ref": "127d57ecae2ae4905a670ed1ca74b96e51a897e2"
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 2/M2.2 - Apoio do Aluno - revisão imagética.md",
+      "sha": "ac9244d14990ce0eb1c265091efcf9ae6df628e4",
+      "ref": "127d57ecae2ae4905a670ed1ca74b96e51a897e2"
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 2/M2.2 - Inserção do apoio do aluno na Hotmart.md",
+      "sha": "72a1f192f8e89c4d940ac754b9c110c868274a56",
+      "ref": "127d57ecae2ae4905a670ed1ca74b96e51a897e2"
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 2/Linguagem imagética - escolhas de slides notas e apoios.md",
+      "sha": "72360074a4fab4b5a5b6e246a220b21d3111687b",
+      "ref": "127d57ecae2ae4905a670ed1ca74b96e51a897e2"
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/20 - Identidade Visual/10 - Sistema Oficial v1.0/00 - Manual de Identidade Visual v1.0.md",
+      "sha": "d5cc5d04d416f0a3f44057564ea4599fb7bc9677",
+      "ref": "127d57ecae2ae4905a670ed1ca74b96e51a897e2"
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/60 - Arquitetura Pedagógica/TSH - Lapidação e aproveitamento das gravações - M0 M1 M2 - 24-11-2026.md",
+      "sha": "e4cb7592c0d9a1efe9448d259898b27cefaee796",
+      "ref": "127d57ecae2ae4905a670ed1ca74b96e51a897e2"
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/60 - Arquitetura Pedagógica/TSH - Aprendizagem ferramentas e progressão - M0 M1 M2 - 24-11-2026.md",
+      "sha": "2b793e227e1223cf270fe0cc6d577d7c0f34b38f",
+      "ref": "127d57ecae2ae4905a670ed1ca74b96e51a897e2"
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/60 - Arquitetura Pedagógica/10 - Mapas Transversais/20 - Sistema Visual/00 - Sistema Visual dos Mapas - Traduzindo o Ser Humano.md",
+      "sha": "215a4122c8e78bec8107b8a0becbad996db4a220",
+      "ref": "127d57ecae2ae4905a670ed1ca74b96e51a897e2"
+    },
+    {
+      "path": "20 - Notas Conceituais/Tradução da Experiência Humana.md",
+      "sha": "7a6f4e19f8dbc1e97dca063e8c78b070d1d113ae",
+      "ref": "127d57ecae2ae4905a670ed1ca74b96e51a897e2"
+    },
+    {
+      "path": "20 - Notas Conceituais/Mapa Funcional Transversal dos Três Eus.md",
+      "sha": "ce9c891ef490614a5c1efb0e37d4c8b24732ebac",
+      "ref": "127d57ecae2ae4905a670ed1ca74b96e51a897e2"
+    },
+    {
+      "path": "20 - Notas Conceituais/O Límbico como Porta - Eu Básico, Bion e Morin no TSH.md",
+      "sha": "2cbb3cee29fc8335dd96990bd15e1ba12e264068",
+      "ref": "127d57ecae2ae4905a670ed1ca74b96e51a897e2"
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/Meditação Psicoterapia e Música/02 - Naranjo - Meditação Duplas e Exercícios.md",
+      "sha": "f4b70fdc119b0fa0852c711aec86930fb66fcf35",
+      "ref": "127d57ecae2ae4905a670ed1ca74b96e51a897e2"
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/40 - Fundamentos e Patrimônio/Meditação Psicoterapia e Música/03 - Naranjo - Música Escuta e Integração.md",
+      "sha": "ede77a1d70c5b78dd76454c5e8c6f2e23eb80d51",
+      "ref": "127d57ecae2ae4905a670ed1ca74b96e51a897e2"
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 2/M2.1 - Trilha de exposição v0.8.md",
+      "sha": "e0ba316159f66b4bc44142c7e0ea24c7ac6f793f",
+      "ref": "127d57ecae2ae4905a670ed1ca74b96e51a897e2"
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/60 - Arquitetura Pedagógica/TSH - Forma de construção das aulas M2–M8 - cena, verbo e voz do autor.md",
+      "sha": "dd9270391cd374a713a8e82f149c8dfe25589cf3",
+      "ref": "127d57ecae2ae4905a670ed1ca74b96e51a897e2"
+    },
+    {
+      "path": "AGENTS.md",
+      "sha": "289c441e18bc0469a4dfdabfc96993eb1194e4e9",
+      "ref": "127d57ecae2ae4905a670ed1ca74b96e51a897e2"
+    },
+    {
+      "path": "70 - Produções/Cursos/Curso - Nome Provisório/Materiais/Módulo 2/M2.2 - Preparação e fontes da revisão substantiva.md",
+      "sha": "8e0ce0c0264ef15a939d5a1fab3b078167f3c72e",
+      "ref": "127d57ecae2ae4905a670ed1ca74b96e51a897e2"
+    }
+  ],
+  "scope": "Conteúdo pertinente lido diretamente nas fontes e nas seções do modelo, fontes da aula e relatórios; não declara leitura integral de todos os livros citados ou auditoria nova das 59 aulas.",
+  "nativeReadbacks": [
+    {
+      "pageId": "page_b4a2a7c376008191b2e89f8f7d1119b3",
+      "beforeSequence": 4,
+      "afterSequence": 6
+    },
+    {
+      "pageId": "page_e0e732d10d588191aa5e6499e932b50c",
+      "sequence": 9,
+      "scope": "Contribuições efetivas nas telas 6–12 e imagem do artesão na tela 8."
+    }
+  ]
+}

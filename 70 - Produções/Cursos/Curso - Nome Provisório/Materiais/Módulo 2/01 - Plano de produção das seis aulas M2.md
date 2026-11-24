@@ -2,7 +2,7 @@
 tipo: plano-de-producao
 projeto: Traduzindo o Ser Humano
 modulo: M2
-versao: "0.14"
+versao: "0.15"
 data: 2026-11-24
 status: revisao-substantiva
 arquitetura: nove-modulos-59-aulas
@@ -10,11 +10,13 @@ arquitetura: nove-modulos-59-aulas
 
 # Módulo 2 — Plano de produção das seis aulas
 
+**Execução aceita em 24/11/2026:** M2.2 prática; M2.3 prática; ajustes localizados M2.1; M2.4 duas partes; M2.5; M2.6; M1.6 prática; demais ajustes M0/M1; M3 em diante. [[M2.2 - Prática guiada v2]] aplica a primeira entrega em 12 telas, guia e apoio correspondentes, preservando a teoria editada. As posições seguintes não estão declaradas refeitas.
+
 **Centro de aprendizagem — orientação autoral de 24/11/2026.** Ferramentas e experiências devem organizar o percurso e os objetivos a que servem a teoria e os fundamentos profundos. A compreensão é multidimensional: corpo, afeto, imagem, atenção, relação, cultivo e espiritualidade participam da aprendizagem. Nas seis aulas, conferir o que é efetivamente ensinado a acessar, elaborar, experimentar ou desenvolver e como encontra continuidade na vida. Mencionar recurso, apoio ou cultivo não substitui ensinar suficientemente a operação. Um pré-requisito necessário à prática presente não é suprido por sua promessa no M3 ou em outro módulo. Os módulos seguintes aprofundam e ampliam repertório. Preservar a investigação específica de M2.4, dando também função própria a descoberta, criação e expressão no conjunto. Essa orientação não declara materiais já refeitos; as fontes e os estados abaixo continuam localizando a produção efetiva.
 
 Fabiano adotou, em 22/11/2026, duas partes de gravação a partir de M2.2 nas aulas com prática autônoma: compreensão/fundamentos e prática guiada/integração, mantendo a mesma aula. [[M2.2 - Prática guiada v1]], [[M2.3 - Avaliação da gravação e edição parte 1 v1]] e [[M2.3 - Prática guiada v1]] e [[M2.4 - Produção em duas partes v2]] localizam as aplicações. [[00 - Estado e Continuidade da Produção M2]] é a entrada para materiais atuais e genealogia. As montagens integradas anteriores permanecem históricas.
 
-**Correção recorrente de profundidade — 23/11/2026.** As fontes autorais, teóricas e experienciais precisam ser transformadas em desenvolvimento da questão da aula, antes da condensação para slides e notas. A conferência localiza a contribuição efetivamente ensinada e sua relação com a prática. Recuperar autores ou verificar arquivos não sustenta, por si, uma avaliação de profundidade. Aplicar a base autoral v1.6 e o padrão v2.11 durante a execução, sem depender de novo lembrete de Fabiano. A objetividade retira repetição e desvios; conserva as distinções e relações necessárias ao aluno. Não há quota fixa de autores, imagens ou telas.
+**Correção recorrente de profundidade — 23/11/2026.** As fontes autorais, teóricas e experienciais precisam ser transformadas em desenvolvimento da questão da aula, antes da condensação para slides e notas. A conferência localiza a contribuição efetivamente ensinada e sua relação com a prática. Recuperar autores ou verificar arquivos não sustenta, por si, uma avaliação de profundidade. Aplicar a base autoral v1.6 e o padrão v2.12 durante a execução, sem depender de novo lembrete de Fabiano. A objetividade retira repetição e desvios; conserva as distinções e relações necessárias ao aluno. Não há quota fixa de autores, imagens ou telas.
 
 M2 desenvolve a constituição da experiência, relevância/simbolização, experiência de certeza, repetição, distinção entre vivido/sentido/origem e Tradução recursiva. As situações e metáforas participam da elaboração; não substituem fundamentos. M2.5–M2.6 mantêm orientação estrutural e aguardam composição final. O módulo conserva seis aulas, Cartografia comum e estudo assíncrono suficiente; a arquitetura completa continua nove módulos e 59 aulas. Não se infere execução do encontro ao vivo a partir de seu planejamento.
 
