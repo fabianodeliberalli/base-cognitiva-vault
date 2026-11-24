@@ -1,0 +1,42 @@
+{
+  "decks": [
+    {
+      "key": "M22",
+      "slides": 8,
+      "nativeSequence": 8,
+      "notesAndGuideMatch": true,
+      "slidePdfPixelsMatch": true,
+      "guidePages": 4,
+      "spokenWords": 554
+    },
+    {
+      "key": "M23",
+      "slides": 12,
+      "nativeSequence": 6,
+      "notesAndGuideMatch": true,
+      "slidePdfPixelsMatch": true,
+      "guidePages": 6,
+      "spokenWords": 759
+    },
+    {
+      "key": "M24P1",
+      "slides": 21,
+      "nativeSequence": 4,
+      "notesAndGuideMatch": true,
+      "slidePdfPixelsMatch": true,
+      "guidePages": 11,
+      "spokenWords": 2204
+    },
+    {
+      "key": "M24P2",
+      "slides": 14,
+      "nativeSequence": 5,
+      "notesAndGuideMatch": true,
+      "slidePdfPixelsMatch": true,
+      "guidePages": 7,
+      "spokenWords": 969
+    }
+  ],
+  "supportM24Pages": 9,
+  "scope": "Conferência de correspondência e inspeção visual dos suportes, junto da revisão da ferramenta e da progressão. Não mede aprendizagem nem confirma gravação ou publicação."
+}
