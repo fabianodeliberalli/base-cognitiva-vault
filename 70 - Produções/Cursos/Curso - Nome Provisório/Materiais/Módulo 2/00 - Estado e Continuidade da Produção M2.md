@@ -3,7 +3,7 @@ tipo: continuidade-de-producao
 projeto: Traduzindo o Ser Humano
 modulo: M2
 status: retomada-pelas-raizes-autorais
-atualizado_em: 2026-11-24
+atualizado_em: 2026-11-25
 arquitetura_atual: nove módulos e 59 aulas
 ---
 
@@ -21,9 +21,15 @@ A auditoria está em [[TSH - Raízes na produção - auditoria de M2 e destinaç
 
 **Antes de produzir qualquer aula de M2:** ler a [[11b - Raízes Autorais do TSH - Folha de Consulta]] e a linha "Raízes autorais" da aula no [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]]. A raiz de Fabiano vem primeiro; autores entram para fundamentar.
 
-## Planejamento de 25/11/2026
+## Decisões de Fabiano em 25/11/2026 (noite) — ponto atual
 
-[[TSH - Planejamento livre das aulas M2-M8 e avaliação de M0-M1 - 25-11-2026]] propõe: manter as teorias gravadas de M2.1–M2.3 com uma ponte curta no início de cada uma; gravar M2.4 do zero; produzir M2.5 e M2.6 pelas raízes; liberar M2 em duas etapas (29/11 e 02/12), se Fabiano decidir assim. Inclui a avaliação de M0 e M1 publicados, a avaliação das fontes de práticas resgatadas (versão 2) e o calendário de produção até M8. Proposta para o encontro de 28/11: nomear o Zhan Zhuang (Wu Chi, árvore, fechamento) antes da respiração, se Fabiano decidir.
+- Todo o M2 é liberado em 29/11.
+- Pontes curtas gravadas no início de M2.1, M2.2 e M2.3; as teorias gravadas ficam.
+- O Zhan Zhuang (Wu Chi, árvore, fechamento) entra no encontro de 28/11 e vira um vídeo próprio depois da abertura do módulo.
+
+Roteiros prontos para gravar: [[M2 - Roteiros de gravação - pontes, práticas M2.2 e M2.3, M2.4, M2.5 e M2.6]] e [[M2 - Encontro de 28-11 - Abertura do módulo e prática Do primeiro sinal ao eixo - roteiro]] (versão 2, com três cortes). Planejamento geral: [[TSH - Planejamento livre das aulas M2-M8 e avaliação de M0-M1 - 25-11-2026]].
+
+Correção: o suporte da TV não é ficção; é o caso real "A segurança de ontem nas escolhas de hoje" e entra em M2.4. M2.6 usa "A membrana que se rompeu".
 
 ## Plano de compensação, sem regravar as teorias de M2.1–M2.3
 

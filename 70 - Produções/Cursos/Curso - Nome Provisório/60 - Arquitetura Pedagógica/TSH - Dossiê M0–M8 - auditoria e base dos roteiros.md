@@ -472,7 +472,7 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 
 **Retomada e ponte:** M3 examina o acesso corporal; M4 refina nomes; M7 recebe a revisão pelo interlocutor.
 
-**Raízes autorais:** “Algum EIXO favorece a Tradução da experiência; ao torná-la mais legível, a Tradução pode favorecer reorganização, e essa reorganização pode fortalecer o EIXO.” ([[Princípio de Recursividade EIXO–Tradução|princípio validado em 18/07/2026]]). Cena: o suporte da TV, como ficção ([[TSH - Banco de cenas e vivências do autor|banco de cenas]]). Fio: fechar o módulo com as camadas que aprendemos a ler.
+**Raízes autorais:** “Algum EIXO favorece a Tradução da experiência; ao torná-la mais legível, a Tradução pode favorecer reorganização, e essa reorganização pode fortalecer o EIXO.” ([[Princípio de Recursividade EIXO–Tradução|princípio validado em 18/07/2026]]). Cena: o caso real "A membrana que se rompeu" (o suporte da TV, antes marcado como ficção, é o caso real "A segurança de ontem" e foi para M2.4; correção de 25/11/2026). Fio: fechar o módulo com as camadas que aprendemos a ler.
 
 **Elaborações do percurso:** [[Princípio de Recursividade EIXO–Tradução|recursividade eixo–Tradução]]; [[Tradução - Modalidade Emergente e Modalidade Mediada|Tradução emergente e mediada]]. **Exemplo real do Banco Fenomenológico:** [[CASO-001 - A Membrana que se Rompeu - 01 - Registro Clínico|A membrana que se rompeu]].
 
