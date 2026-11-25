@@ -17,7 +17,7 @@ Este banco conserva vivências e caminhos de recuperação. Não é estrutura de
 
 Onde procurar a voz de Fabiano ao construir uma aula, conforme [[TSH - Forma de construção das aulas M2–M8 - cena, verbo e voz do autor]]. A primeira tabela aponta para o que já está no repositório, sem copiar o texto. A segunda recebe as respostas de Fabiano aos pedidos feitos durante a construção dos roteiros.
 
-Casos de pacientes entram como exemplos reais anonimizados, de preferência os do Banco Fenomenológico; cena fictícia só quando não houver exemplo real (decisão de Fabiano em 25/11/2026). Mudar detalhes não essenciais e não reunir na mesma fala idade, profissão, cargo, estrutura familiar e eventos marcantes. Episódios de saúde de pessoas nomeadas entram com consentimento ou fonte pública.
+Casos de pacientes entram como exemplos reais anonimizados, de preferência os do Banco Fenomenológico; cena fictícia só quando não houver exemplo real (decisão de Fabiano em 25/11/2026). Metáforas e histórias das Grandes Tradições e da cultura popular recebem mais espaço e preferência; devem ser pesquisadas e incluídas conforme a necessidade didática, sempre como complemento ao conteúdo de base do TSH (decisão de Fabiano em 25/11/2026). Mudar detalhes não essenciais e não reunir na mesma fala idade, profissão, cargo, estrutura familiar e eventos marcantes. Episódios de saúde de pessoas nomeadas entram com consentimento ou fonte pública.
 
 ## 1. Cenas e vivências já registradas
 
