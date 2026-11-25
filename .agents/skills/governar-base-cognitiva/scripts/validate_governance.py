@@ -298,7 +298,7 @@ def main() -> int:
             "Doze semanas",
             "estimativa provisória",
             "Nenhuma inteligência artificial pode declarar uma proposta própria",
-            "usar o Registro Mestre como acervo histórico consultivo",
+            "o Registro Mestre reúne formulações de Fabiano e é fonte de raízes autorais",
         ),
         "contexto mínimo do TSH",
         errors,
@@ -423,7 +423,7 @@ def main() -> int:
         (bridge_text, "nota-ponte histórica", ("status: acervo-historico-consultivo", "Registro histórico da decisão à época")),
         (old_matrix_text, "matriz histórica", ("status: acervo-historico-consultivo", "não define correspondências obrigatórias", "nenhum chat possui exclusividade")),
         (old_positioning_text, "deliberação antiga de posicionamento", ("status: acervo-historico-consultivo", "Registro misto de uma etapa anterior")),
-        (formulations_text, "registro de formulações", ("status: acervo-historico-consultivo", "não cria portões para as aulas", "Aprovada na etapa registrada")),
+        (formulations_text, "registro de formulações", ("status: acervo-de-raizes-autorais", "não cria portões para as aulas", "Aprovada na etapa registrada")),
         (old_protocol_text, "protocolo histórico", ("status: historico-consultivo-substituido", "Documento histórico consultivo", "nenhuma conversa possui autoridade exclusiva")),
     ):
         require_phrases(text, phrases, label, errors)

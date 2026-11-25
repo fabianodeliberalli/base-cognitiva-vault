@@ -46,3 +46,22 @@ Estão publicados e não foram alterados. As linhas de raízes dessas aulas serv
 - PDFs da Constituição Filosófico-Pedagógica v1.0 e do Manual Institucional, ausentes do repositório.
 - A regra antiga de consulta ao histórico continua em notas de comunicação e de estado mais antigas: Matriz Mestre 9-54, Estado do Módulo 0, Índice do Raio X e copy da página. Nessas notas, a regra se refere a formatos antigos e não impede a consulta às raízes.
 - As trilhas de M2 já produzidas precisam ser revistas à luz das linhas de raízes, começando por M2.4.
+
+## Segunda etapa, 24/11/2026, 23h36
+
+Fabiano homologou a integração da primeira etapa à `main` (PR #110) e pediu:
+- corrigir o repositório pelo diagnóstico da auditoria;
+- refazer a correspondência entre raízes e aulas com suas frases, de modo didático e equilibrado;
+- avaliar a regra antiga de consulta ao histórico;
+- auditar todo o M2 produzido e propor o que mudar ou compensar;
+- deixar clara a destinação dos materiais autorais.
+
+Feito:
+- [[TSH - Raízes na produção - auditoria de M2 e destinação dos materiais autorais]]: leitura integral das trilhas e roteiros de M2, plano de compensação, proposta de M2.4 e tabela de destinação.
+- Linha de raízes das 59 aulas refeita com frases literais conferidas na fonte, inclusive as do mapa O Caminho da Semente, e equilíbrio por módulo.
+- [[Registro Mestre de Formulações Estruturantes]] passa a acervo de raízes autorais. O contexto mínimo do TSH e o validador de governança, que exigiam a expressão "acervo histórico consultivo", acompanham.
+- Regra antiga de consulta ao histórico: mantida nas quatro notas de Raio X, oferta e estado do M0, onde protege promessas e formatos da oferta, com alcance explícito: não se aplica às raízes autorais.
+- Onze fichas dos mapas de 18/07: seção de raiz autoral antes da leitura crítica de "Limites e riscos".
+- Estado e plano de M2 e folha de raízes atualizados.
+
+Pendente com Fabiano: ordem do plano de compensação, cena de abertura de M2.4, gravação da abertura do módulo e integração desta etapa à `main`.

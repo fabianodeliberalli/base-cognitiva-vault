@@ -21,6 +21,13 @@ tags:
 - **Função provável:** metáfora visual do Método
 - **Estatuto:** candidato forte — reconstrução conceitual necessária
 
+
+## Raiz autoral — leitura a partir de 24/11/2026
+
+Este mapa é de Fabiano e foi feito em julho de 2026. O texto do mapa traz formulações dele, entre elas: “Um caminho de volta ao seu centro para viver com mais presença, liberdade e propósito.” e “Do caos ao eixo. Do eixo à expressão.”. Por decisão de Fabiano em 24/11/2026, o eixo é conceito central do TSH (não marca) e a Essência soterrada por camadas é fio do percurso; ver [[11b - Raízes Autorais do TSH - Folha de Consulta]].
+
+A seção "Limites e riscos" abaixo registra a leitura crítica feita na auditoria do lote, em 18/07/2026. Ela ajuda a dar estatuto às afirmações (não obrigatório, não linear, não promessa), mas não substitui nem corrige o conteúdo do autor.
+
 ## Contribuição real
 
 Raízes, tronco e copa comunicam fundação, sustentação, desenvolvimento e expressão com grande força pedagógica.
