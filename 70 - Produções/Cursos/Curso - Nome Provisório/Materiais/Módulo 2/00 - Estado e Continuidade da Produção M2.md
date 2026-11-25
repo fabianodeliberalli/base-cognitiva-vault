@@ -15,20 +15,36 @@ Fabiano solicitou alinhamento antes de outra produção. Relata desgaste elevado
 
 O pedido não é mais uma mudança isolada de formato, exemplos ou redação. É produzir uma progressão objetiva e multidimensional, com ferramentas que ensinem capacidades, em vez de prolongar observar/interpretar/comparar/registrar. Não criar agora novo kit, vídeo corretivo ou prática para responder ao diagnóstico. As gravações e fontes existentes permanecem recuperáveis; não há determinação de regravação global.
 
-## Diagnóstico conferido e correções de entrada
+## Refinamento pedido por Fabiano: reconhecer o autor no ensino
 
-Conferência documental na main `0b958002512ea6e2b0b83568aa6f20be94bc2189`, somada ao relato de uso de Fabiano neste chat. Não é uma nova medição da aprendizagem dos alunos nem uma nova avaliação audiovisual de todas as gravações.
+Após a consolidação documental, Fabiano esclareceu que o problema central é a didática/transmissão: o conteúdo existe; palavras, exemplos e verbos vazios nas notas fazem com que precise produzir explicações na gravação. Relata não se reconhecer em parte dos slides. A correção anterior das entradas reduziu ambiguidade, mas não demonstrou recuperação da voz nem resolveu a aula. Não repetir a interpretação de que basta localizar mais técnicas ou prometer capacidades.
 
-| Evidência | Consequência para a produção |
+A revisão dirigida percorreu o Registro Mestre de julho, a Tradução de julho e refinamentos de outubro, a gênese da Árvore de agosto, a síntese integrativa de outubro/novembro, a diretriz de singularidade autoral, o léxico, a aula ABBSP e a elaboração Eu Básico/Bion/Morin, além dos cadernos de cultivo e propostas relacionadas a Naranjo. O manuscrito Arquitetura Invisível foi consultado em passagens pertinentes; sua redação e hipóteses não foram tomadas integralmente como atuais. O confronto usou o roteiro real M2.4, recuperado na main `0995abfc3660f1aad01421b2c0612f0222506050`. É revisão histórica dirigida, sem alegação de auditoria de todos os arquivos ou aulas.
+
+| Raiz recuperada | Conteúdo a conservar na transmissão |
 | --- | --- |
-| A ficha chamada mínima tinha 20.729 bytes e o padrão tinha aproximadamente 83 KB. Orientações novas conviviam com instruções anteriores, inclusive quatro campos ainda exigidos no processo após serem qualificados como históricos. | As duas entradas foram consolidadas no mesmo caminho; as versões integrais seguem no Git. Históricos não são instruções concorrentes. |
-| A pasta M2 tinha 236 arquivos: fontes, scripts, recursos e versões. A ficha ainda mencionava 8/12/14 telas, enquanto as práticas atuais têm 9/13/14 e a teoria M2.4 tem 25. | Quantidade de arquivos não prova causa, mas exige localizador inequívoco. Este estado identifica artefatos e separa existência de qualidade/pertinência. |
-| O relatório anterior afirmava “Identificar a necessidade não é ensinar a capacidade”, mas descrevia M2.4 como aprofundada/coerente e a preservar. O uso posterior expôs dificuldades. | O parecer documental positivo não encerra a revisão. Recebeu nota de leitura atual, assim como o dossiê e os localizadores. |
-| M2.2–M2.4 repetem situação pessoal, antes/depois e registro, apesar de finalidades distintas. M2.4 teoria retoma o mesmo caso por vários autores e apresenta o percurso da prática só na tela 23 de 25. | Conferir o acréscimo efetivamente ensinado. Não chamar outra observação/registro de capacidade desenvolvida nem multiplicar fundamentos para reiterar a mesma tese. |
-| “Acessar”, “experimentar” e “sustentar” aparecem como direções sem sempre especificar o que se aprende a realizar. | Nomear e ensinar a operação, seu alcance e continuidade; distinguir estado favorável, habilidade a aprender e condições relacionais/materiais. |
-| A aceitação de exemplos genéricos virou sustentação recorrente por mensagens/prazo/dança. | Exemplos continuam disponíveis por contribuição localizada; não são a estrutura automática de aula nem exigem nova cena do autor a cada passo. |
+| [[Registro Mestre de Formulações Estruturantes]], F36–F37 | Distingue conhecimento declarativo, competência incorporada e sabedoria prática; não é descoberta nova desta revisão. Recuperação literal/substancial indicada na fonte, sem restaurar a antiga marca ou arquitetura. |
+| [[GENESE-001 - A Árvore da Singularidade]] | O desenvolvimento constrói condições para expressão da singularidade; não se reduz a corrigir padrões. |
+| [[TSH - Síntese Integrativa do Refinamento]], Árvore e cultivo | Capacidade, disponibilidade e expressão são perguntas diferentes. Preservar corpo, relação, cultivo e finalidade espiritual/concreta dessa elaboração, além dos rótulos. |
+| [[Tradução da Experiência Humana]] e [[Tradução - Modalidade Emergente e Modalidade Mediada]] | Vivido, forma, expressão e elaboração precisam continuar distinguíveis; imagem, gesto e silêncio participam, além da interpretação verbal. |
+| [[O Límbico como Porta - Eu Básico, Bion e Morin no TSH]] | A leitura autoral articula corpo, linguagem simbólica e dimensão espiritual, com os estatutos indicados. Listar memória/raciocínio ou distribuir nomes pelo caso de prazo não transmite toda essa relação. A pertinência a cada aula precisa ser composta. |
+| [[02 - Naranjo - Meditação Duplas e Exercícios]] | Conserva propostas educacionais do TSH inspiradas em passagens localizadas do livro, com propósito, realização e elaboração; não são transcrição de protocolo SAT nem atividade já selecionada para M2.4. Generalizá-las como “outra possibilidade” perde seu conteúdo. |
 
-Há conteúdo substantivo disponível: formulação de retorno com aquisição e competência incorporada; cultivo corporal/energético com conduções; meditação, música, afetividade e relação; hipnose/auto-hipnose e mapas autorais. Essas rotas oferecem possibilidades, não uma técnica já selecionada para M2.4. Consultar passagens e conduções reais pela aquisição necessária, em vez de retornar apenas ao dossiê e a sínteses geradas.
+No roteiro atual, “manter como horizonte”, “incluir elaboração, acesso…” e “localizar o trabalho necessário” são instruções de preparação que ocuparam o lugar da explicação. A instrução para manter a mesma situação nas articulações também conserva a repetição criticada. O padrão agora distingue direção editorial, conteúdo breve de exposição e realização prática. Uma amostra editorial derivada das fontes está no próprio padrão; não constitui reconstrução de M2.4.
+
+A [[M2.4 - Prévia de conteúdo e contribuições v0.1]] foi recuperada integralmente neste confronto. Já havia recebido “seguir” e continha desenvolvimento de configuração, forma vivida, expressão e relações. A produção subsequente não conservou suficientemente esse desenvolvimento na transmissão. A prévia, sozinha, não resolveu; a amostra proposta precisa permitir examinar o apoio efetivo, além de concordar com uma pauta.
+
+## Proposta de retomada para análise, sem adoção presumida
+
+Recomenda-se testar em M2.4 um briefing curto com o conteúdo autoral efetivamente recuperado, o raciocínio previsto, fundamentos e representações selecionados e eventual prática com contribuição/tempo. Acrescentar uma pequena amostra de slide/notas antes do kit para avaliar reconhecimento e condução. Após concordância do autor com a direção e amostra, a montagem pode seguir por blocos; revisão slide a slide fica disponível nos trechos difíceis ou por pedido, sem tornar Fabiano editor integral da aula.
+
+Esta é uma proposta editorial em resposta à pergunta sobre o melhor procedimento, não uma escolha já feita por Fabiano. Os quatro blocos de M2.4 continuam sem adoção; M2.5 reservado; não há novo kit, prática escolhida, alteração de apresentação, gravação ou publicação neste ajuste. A arquitetura de nove módulos e 59 aulas permanece.
+
+## Continuidade da correção documental
+
+A consolidação anterior corrigiu instruções de formato conflitantes, contagens antigas e pareceres positivos usados como se demonstrassem resolução. A ficha e o padrão foram reduzidos nos mesmos caminhos, com versões integrais preservadas por commit. Os detalhes e medidas estão no [registro anterior](https://github.com/fabianodeliberalli/base-cognitiva-vault/pull/108). A nova leitura histórica aprofunda o que faltava: recuperar autoria e transmitir seu pensamento com didática. Não se trata de nova medição de aprendizagem ou avaliação audiovisual integral.
+
+M2.2–M2.4 repetem situação pessoal, antes/depois e registro; a repetição de operação pede ganho específico. Na teoria atual de M2.4, a cadeia de autores e o mesmo pedido de trabalho prolongam a exposição, e o percurso da prática aparece na tela 23 de 25. O acervo de cultivo, meditação, música, relação e hipnose continua disponível por pertinência; nenhuma técnica está selecionada pelo simples fato de constar no repositório.
 
 ## Materiais efetivos preservados
 
@@ -51,7 +67,7 @@ Exemplos e metáforas são opcionais por função; acervo visual primeiro. Apoio
 
 ## Próximo ponto de trabalho
 
-Antes de produzir M2.4, tornar breve e concreto seu acréscimo em relação a M2.3: o que será ensinado a realizar, qual conteúdo e recurso efetivo sustentam esse ensino e se cabe prática autônoma. Isso é trabalho de composição do assistente com o acervo, sem solicitar a Fabiano que reexplique o TSH ou preencha matriz. Se um termo ainda exigir tradução em operação, desenvolvê-lo antes das telas. Escolha autoral ainda não tomada permanece como proposta, inclusive os quatro blocos. [[01 - Plano de produção das seis aulas M2]] situa as seis posições sem presumir essas escolhas.
+Antes de produzir M2.4, recuperar a raiz autoral pertinente e tornar claro seu acréscimo em relação a M2.3: qual pensamento será transmitido, que experiência ou capacidade a aula desenvolve e se cabe prática autônoma. Isso é trabalho de composição do assistente com o acervo, sem solicitar a Fabiano que reexplique o TSH ou preencha matriz. Se um termo ainda exigir tradução em operação, desenvolvê-lo antes das telas. Escolha autoral ainda não tomada permanece como proposta, inclusive os quatro blocos. [[01 - Plano de produção das seis aulas M2]] situa as seis posições sem presumir essas escolhas.
 
 ## Fontes de diagnóstico e resgate
 
