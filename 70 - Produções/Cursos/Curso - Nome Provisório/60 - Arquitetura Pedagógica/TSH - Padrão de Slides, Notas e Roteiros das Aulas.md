@@ -132,7 +132,9 @@ Ao entregar produção, reunir materiais necessários em **um ZIP**, mantendo fo
 
 ## Proposta de colaboração para teste, ainda não adotada
 
-Fabiano cogitou rever uma prévia antes da produção e, se necessário, acompanhar por slide. Recomendação editorial: começar por um **briefing breve de conteúdo**, visível na conversa, com a ideia autoral recuperada e seus trechos/fontes, o raciocínio previsto em linguagem de aula, contribuições externas selecionadas e a experiência/prática pertinente com função e tempo estimado. A síntese não pode ser uma lista de autores e verbos genéricos. Mostrar uma pequena amostra de apoio visual e notas que permita reconhecer a transmissão antes de montar o conjunto.
+Fabiano cogitou rever uma prévia antes da produção e, se necessário, acompanhar por slide. A [[M2.4 - Prévia de conteúdo e contribuições v0.1]] já havia recebido seu “seguir” e continha articulações que se enfraqueceram na transposição para as notas posteriores. Repetir apenas a prévia de tópicos não corrige essa falha; concordância com a pauta não demonstra qualidade da transmissão.
+
+Recomendação editorial: começar por um **briefing breve de conteúdo**, visível na conversa, com a ideia autoral recuperada e seus trechos/fontes, o raciocínio previsto em linguagem de aula, contribuições externas selecionadas e a experiência/prática pertinente com função e tempo estimado. A síntese não pode ser uma lista de autores e verbos genéricos. Mostrar uma pequena amostra de apoio visual e notas que permita reconhecer a transmissão antes de montar o conjunto.
 
 Depois de Fabiano concordar com a direção e a amostra, desenvolver a aula em blocos com função reconhecível e montar o kit solicitado. O tamanho dos blocos acompanha a aprendizagem, sem número fixo ou adoção presumida dos quatro blocos de M2.4. Discussão slide a slide pode servir a trechos difíceis ou a pedido do autor; não transferir a ele a redação/edição de toda aula. Rever a necessidade de acompanhamento mais frequente conforme o resultado, em vez de tornar a supervisão permanente um custo novo.
 

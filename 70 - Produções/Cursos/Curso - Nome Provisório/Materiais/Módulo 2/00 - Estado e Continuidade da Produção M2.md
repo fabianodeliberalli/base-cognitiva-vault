@@ -32,6 +32,8 @@ A revisão dirigida percorreu o Registro Mestre de julho, a Tradução de julho 
 
 No roteiro atual, “manter como horizonte”, “incluir elaboração, acesso…” e “localizar o trabalho necessário” são instruções de preparação que ocuparam o lugar da explicação. A instrução para manter a mesma situação nas articulações também conserva a repetição criticada. O padrão agora distingue direção editorial, conteúdo breve de exposição e realização prática. Uma amostra editorial derivada das fontes está no próprio padrão; não constitui reconstrução de M2.4.
 
+A [[M2.4 - Prévia de conteúdo e contribuições v0.1]] foi recuperada integralmente neste confronto. Já havia recebido “seguir” e continha desenvolvimento de configuração, forma vivida, expressão e relações. A produção subsequente não conservou suficientemente esse desenvolvimento na transmissão. A prévia, sozinha, não resolveu; a amostra proposta precisa permitir examinar o apoio efetivo, além de concordar com uma pauta.
+
 ## Proposta de retomada para análise, sem adoção presumida
 
 Recomenda-se testar em M2.4 um briefing curto com o conteúdo autoral efetivamente recuperado, o raciocínio previsto, fundamentos e representações selecionados e eventual prática com contribuição/tempo. Acrescentar uma pequena amostra de slide/notas antes do kit para avaliar reconhecimento e condução. Após concordância do autor com a direção e amostra, a montagem pode seguir por blocos; revisão slide a slide fica disponível nos trechos difíceis ou por pedido, sem tornar Fabiano editor integral da aula.
