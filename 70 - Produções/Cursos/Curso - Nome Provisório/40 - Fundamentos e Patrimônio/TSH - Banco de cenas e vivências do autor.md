@@ -17,7 +17,7 @@ Este banco conserva vivências e caminhos de recuperação. Não é estrutura de
 
 Onde procurar a voz de Fabiano ao construir uma aula, conforme [[TSH - Forma de construção das aulas M2–M8 - cena, verbo e voz do autor]]. A primeira tabela aponta para o que já está no repositório, sem copiar o texto. A segunda recebe as respostas de Fabiano aos pedidos feitos durante a construção dos roteiros.
 
-Casos de pacientes entram anonimizados ou transformados em ficção. Episódios de saúde de pessoas nomeadas entram com consentimento ou fonte pública.
+Casos de pacientes entram como exemplos reais anonimizados, de preferência os do Banco Fenomenológico; cena fictícia só quando não houver exemplo real (decisão de Fabiano em 25/11/2026). Mudar detalhes não essenciais e não reunir na mesma fala idade, profissão, cargo, estrutura familiar e eventos marcantes. Episódios de saúde de pessoas nomeadas entram com consentimento ou fonte pública.
 
 ## 1. Cenas e vivências já registradas
 
@@ -36,7 +36,7 @@ Casos de pacientes entram anonimizados ou transformados em ficção. Episódios 
 | Aula prática de 14/11: árvore, Sustentar o Céu, caso da mensagem de cobrança | [[2026-11-14 - Carrossel da Aula Prática - Acervo da Campanha]] e slides da aula | M2.3, M3, parâmetro dos encontros |
 | Mais de 20 turmas e grupos de estudo com a Dra. Gilda Moura sobre consciência e espiritualidade | Roteiro de abertura da Masterclass | M5.6, M5.8 |
 | A pergunta do TCC sobre sincronia neural interpessoal | [[DELIBERALLI_TCC_SINCRONIA_NEURAL_ESTADOS_CONSCIENCIA_2026 (1)]] (Caixa de Entrada); [[06 - Modelo Neurobiológico-Relacional da Espiritualidade — TCC]] | M7.3 |
-| Casos clínicos do Banco Fenomenológico | [[00 - Índice Geral do Banco Fenomenológico]] | Como base para casos fictícios, nunca como relato identificável |
+| Casos clínicos do Banco Fenomenológico | [[00 - Índice Geral do Banco Fenomenológico]] | Como exemplos reais anonimizados, nunca como relato identificável; destinos por aula no dossiê M0–M8 (decisão de 25/11/2026) |
 
 ## 2. Respostas de Fabiano a pedidos dos roteiros
 

@@ -91,7 +91,7 @@ Levantamento e avaliação em [[TSH - Formulações e materiais autorais dispers
 - O caminho "vai de cima para baixo e depois retorna refinado": "o retorno da consciência, mas com a experiência incorporada"; o Retorno à Essência não é regressão ao estado anterior ao ego.
 - O padrão volta porque precisa voltar para ser transformado; a espiral, e não a escada; a espiral sobe em torno de um eixo vertical, com o pêndulo como a oscilação vista de perto.
 - "O Eu Básico capta, sente e traduz energia, emoção, campo; o Eu Médio é intelectual, razão, defesa, ego"; cuidar do Eu Básico vem antes de buscar o Eu Superior.
-- Os sete casos do [[00 - Índice Geral do Banco Fenomenológico|Banco Fenomenológico]] são a base clínica das cenas, sempre como casos compostos e ficcionais.
+- Os sete casos do [[00 - Índice Geral do Banco Fenomenológico|Banco Fenomenológico]] são exemplos reais anonimizados para as aulas, que aproximam o aluno do modo de Fabiano conduzir (decisão de 25/11/2026); destinos por aula no dossiê.
 
 ## Outras formulações de Fabiano para consulta rápida
 
@@ -104,6 +104,10 @@ Levantamento e avaliação em [[TSH - Formulações e materiais autorais dispers
 - "Ampliar o mundo sem perder o centro." ([[Ampliar o Mundo sem Perder o Centro]])
 - Sobre a espiritualidade: "Não fragmenta — integra. Não aliena — ancora. Não promete salvação — favorece presença." (*Arquitetura Invisível*, cap. 1)
 - "O ganho de lucidez é a principal proposta existencial que podemos ter, para nos trazer saúde nos vários sentidos, físico, mental, emocional e espiritual." (workshop Essência)
+
+## Elaborações do percurso
+
+As elaborações construídas com Fabiano ao longo do percurso (o caminho de descida, subida e retorno com aquisição, o filtro dos três olhos, o Mapa do TSH, o meio segundo e o transe que não se escolhe, a definição de Essência e singularidade, entre outras) estão reunidas em [[TSH - Guia das elaborações do percurso para módulos, aulas e roteiros]]. Elas guiam a construção depois das raízes e antes dos autores.
 
 ## Destinação por aula
 

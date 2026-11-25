@@ -22,7 +22,7 @@ tags:
 
 ## Leitura atual para a produção — 21/11/2026
 
-O mapa dos Três Eus entra em espiral no TSH, com genealogia Long/Huna situada: par no M2, aprofundamentos M3/M4 e mapa completo M5.3. Eixo é recurso didático de coordenação, orientação e retorno, no mesmo estatuto da árvore, pêndulo, espiral e demais metáforas; não se restaura um método separado nem currículo de seis fases.
+O mapa dos Três Eus entra em espiral no TSH, com genealogia Long/Huna situada: par no M2, aprofundamentos M3/M4 e mapa completo M5.3. O eixo é conceito central do TSH (decisão de 24/11/2026), função de coordenação, orientação e retorno entre os três Eus; árvore, pêndulo, espiral e espelho ajudam a vê-lo; não se restaura um método separado nem currículo de seis fases.
 
 A afirmação de Long de que o Eu Médio não guarda lembranças ou não pode ser hipnotizado pertence ao seu modelo. Pode orientar a linguagem da aula, sem ser apresentada como resultado neurocientífico do teste de pálpebras. As correlações com sistema límbico ou redes neurais são aproximações autorais consultáveis, não correlatos identificados por investigação empírica direta dos Três Eus. Isso preserva a perspectiva espiritual sem lhe atribuir uma validação que as fontes não oferecem.
 

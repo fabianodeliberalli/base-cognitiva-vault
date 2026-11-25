@@ -21,7 +21,7 @@ tags:
 
 ## Leitura atual para a produção — 21/11/2026
 
-A linguagem do curso é a do TSH. Eixo é recurso didático, no mesmo estatuto das outras metáforas, e pode ser escrito em minúsculas. As menções antigas a “Método EIXO”, cânone e fases preservam elaborações anteriores para consulta e não restauram uma marca ou estrutura separada. Os sentidos de orientação, coordenação e retorno continuam disponíveis.
+A linguagem do curso é a do TSH. Por decisão de Fabiano em 24/11/2026, o eixo é conceito central do TSH, não marca; árvore, pêndulo, espiral e espelho são imagens que ajudam a vê-lo. Pode ser escrito em minúsculas. As menções antigas a “Método EIXO”, cânone e fases preservam elaborações anteriores para consulta e não restauram uma marca ou estrutura separada. Os sentidos de orientação, coordenação e retorno continuam disponíveis.
 
 Eu Básico, Eu Médio e Eu Superior são apresentados com sua genealogia e suas reelaborações autorais. A formulação escolhida de Long sobre razão, vontade e memória é identificada como pertencente a esse mapa. Redes neurais e funções do mapa não são equivalentes demonstrados. Self, Eu Essencial, Essência, Alma e Fonte preservam seus campos de origem e a definição espiritual ampliada de Essência já registrada.
 
