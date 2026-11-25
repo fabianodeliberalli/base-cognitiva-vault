@@ -5,10 +5,14 @@ curso: nome-provisorio
 status: referencia-atual-revisavel
 versao: "4.13"
 criado_em: 2026-07-21
-atualizado_em: 2026-11-22
+atualizado_em: 2026-11-24
 autor: Fabiano Deliberalli
 autoridade_de_decisao: Fabiano Deliberalli
 ---
+
+## 24/11/2026 — raízes autorais
+
+Eixo é conceito central (não marca); a Essência soterrada por camadas é fio de M0 a M8. Antes de pesquisar: [[11b - Raízes Autorais do TSH - Folha de Consulta]].
 
 ## 22/11/2026 — títulos claros e M2.1 preparada para gravação
 

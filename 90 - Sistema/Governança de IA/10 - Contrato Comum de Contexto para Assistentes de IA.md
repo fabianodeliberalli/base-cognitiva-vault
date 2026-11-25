@@ -37,6 +37,8 @@ Não carregar o vault inteiro.
 
 Ao produzir ou revisar conteúdo autoral de Fabiano, do TSH ou de outro projeto, recuperar e aplicar a [[13 - Base de Produção Autoral e Didática - Fabiano Deliberalli]] durante a execução, sem depender de um novo lembrete. A base geral reúne voz, profundidade, fundamentos, recuperação do acervo visual e conferência do produto; a ficha e o modelo do projeto particularizam sua aplicação. Não transportar automaticamente currículo, conceitos ou identidade visual do TSH para outros trabalhos.
 
+No TSH, antes da pesquisa externa, ler a [[11b - Raízes Autorais do TSH - Folha de Consulta|folha de raízes autorais]]: ela reúne as formulações de Fabiano, o eixo como conceito central e a Essência soterrada por camadas como fio do percurso.
+
 A aplicação depende de acesso real às referências. Esta orientação não afirma que outra IA ou conversa recebeu os arquivos, não exige novo ritual ou relatório e não substitui a instrução atual de Fabiano. A redação operacional acrescentada nesta frente permanece desenvolvimento editorial revisável, sem homologação automática de suas propostas.
 
 ## Continuidade em sessões longas

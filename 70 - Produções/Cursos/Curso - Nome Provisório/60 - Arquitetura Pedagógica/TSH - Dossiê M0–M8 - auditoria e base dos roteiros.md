@@ -127,6 +127,8 @@ A multidimensionalidade aparece em relações concretas: uma mensagem recebida d
 | Percepção, diferenciação e participação | M0–M1: localizar → M2: revisar → M3: acessar → M4: diferenciar → M5: orientar/criar → M6: articular → M7: ajustar na relação → M8: transferir | Cada aula tem uma capacidade central, uma experiência e um sinal observável de aprendizagem; não se exige preencher três listas. |
 | Uma Cartografia que amadurece | M0.2/M1.6 → M2.5/M2.6 → M4.3 → M5.9 → M6.4/M6.8 → M7.2/M7.3 → M8.2 | Situação, manifestação, tradução provisória e orientação possível continuam reconhecíveis. Percebido/associado/concluído/desconhecido refinam a investigação. |
 | Corpo, atenção e retorno | Base já disponível → variação em M2 → ensino formal M3 → resposta M4 → quietude M5 → práticas M6 → conversa M7 → repertório M8 | Ensino suficiente nos vídeos gravados; escolher e adaptar conforme a finalidade. Calma e intensidade não medem presença nem integração. |
+| Eixo: referência, retorno e coordenação | M0/M1: apresentado → M2: o que desloca e o que se repete → M3: postura e base corporal → M4: proteção e ensaio a partir do eixo → M5: coordenação dos três Eus → M6: postura, intenção, circulação, espiral → M7: eixo reconhecido na relação → M8: repertório e continuidade | Conceito central do TSH (decisão de 24/11/2026). Raízes: Arquitetura Invisível, mapas de julho, Referência–EIXO–Estado. Não é marca. |
+| Essência soterrada por camadas e caminho de volta | M0/M1: Essência como referência → M2: camadas que formam percepção, certeza e repetição → M3: camadas no corpo → M4: defesas e máscaras → M5: Essência, Self, espiritualidade → M6: cultivo do caminho de volta → M7: camadas relacionais e transgeracionais → M8: habitar e expressar | Fio explícito de todo o percurso (decisão de 24/11/2026). Raízes: workshop Essência, Caminho da Semente, Constituição. Camadas também foram proteção; sem culpabilizar. |
 | Sentido, Essência e espiritualidade | Perspectiva explícita M0/M1 → leitura do vivido M2 → Shen M3 → culpa/cuidado/criação M4 → pluralidade M5 → intenção e cultivo M6 → responsabilidade M7 → continuidade M8 | James, Rohden, Jung, Salvador, tradições e trajetória de Fabiano entram com suas contribuições próprias; nenhuma linhagem esgota a espiritualidade. |
 | Relação, contexto e apoio | Condições M0/M1 → hipótese corrigível M2 → recursos M3 → história M4 → cuidado M5 → negociação M6 → reciprocidade M7 → plano com apoios M8 | Cultura, trabalho, descanso, desigualdade, poder e ajuda entram nas cenas e nas ações, além dos recursos internos. |
 | Criação, prazer e capacidades que podem nascer | Dança M1/M2 → vitalidade M3 → expressão M4 → criação M5.6 → projeto possível M6.9 → contribuição M7 → cultivo M8 | O percurso inclui reconhecer algo novo, acessar o já compreendido e desenvolver uma capacidade ainda pouco cultivada. |
@@ -219,7 +221,7 @@ Uma sequência de estudo possível para M6 alterna: mapa conceitual; ensino e re
 | Leong e colaboradores, 2017 | Estudo adulto–bebê com canções e EEG, em vídeo e interação ao vivo. Aproximação ao curso não demonstra efeito da dupla, transmissão ou leitura direta do outro. |
 | Shea e Morgan, 1979 | Estudo de aquisição, retenção e transferência motora; sustenta uma pergunta sobre aprendizagem posterior. A passagem para respostas emocionais/relacionais é aproximação pedagógica. |
 | Espiral, fracionamento e geometria corporal | Reencontro e mudança de estado não asseguram integração. Círculo/eixo/hélice é imagem autoral; não é prova científica nem descrição comum a todas as tradições. |
-| Eixo como método ou marca | Recurso didático de orientação, coordenação e retorno, no mesmo estatuto das outras metáforas do TSH. Preservar elaborações anteriores sem restaurar “Método EIXO”. |
+| Eixo como método ou marca | Por decisão de Fabiano em 24/11/2026, o eixo é conceito central e base do TSH, não marca nem método comercial. Recuperar o conteúdo construído sob o nome EIXO (eixo perdido, recursividade com a Tradução, seis fases, quatro movimentos, Referência–EIXO–Estado); não restaurar "Método EIXO" como nome de produto. Árvore, pêndulo, espiral e espelho seguem como imagens que ajudam a ver o eixo. |
 | Presença medida por calma ou alinhamento postural | Investigar acesso, escolha, relação, criação e efeitos. Intensidade, quietude, mobilização e ausência de sensação não classificam desenvolvimento espiritual. |
 
 Fontes científicas conferidas: [Leong et al., 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC5740679/); [Shea e Morgan, 1979](https://doi.org/10.1037/0278-7393.5.2.179); [Sevenster, Beckers e Kindt, 2013](https://pubmed.ncbi.nlm.nih.gov/23413355/) e [2014](https://pubmed.ncbi.nlm.nih.gov/25320349/). Os localizadores dos demais autores estão nas fontes por aula. Citações literais exigem conferir a edição efetivamente usada; isso não cria uma tarefa de conferir toda a biblioteca antes de começar.
@@ -244,6 +246,8 @@ A produção pode avançar por M2, cujas seis aulas mantêm título, pergunta e 
 
 ## 9. Percurso aula a aula e correspondência com a base anterior
 
+> **Raízes autorais (24/11/2026).** Cada aula traz uma linha "Raízes autorais" antes das fontes externas. Ela indica a raiz de Fabiano que responde à pergunta da aula. Por decisão de Fabiano, o eixo é conceito central do TSH (não marca) e a Essência soterrada por camadas é fio explícito de todo o percurso. Consultar a [[11b - Raízes Autorais do TSH - Folha de Consulta|folha de raízes]] antes da pesquisa externa.
+
 A numeração desta seção corresponde à organização de 59 validada em 22/11/2026. “Origem” indica o código usado no acervo de 54 aulas; seus links continuam úteis. As capacidades e experiências são composições de trabalho, e os sinais indicam o que observar na aprendizagem, sem constituir testes diagnósticos ou comprovação de eficácia. Para M0/M1, a seção orienta retomadas e continuidade; não declara substituição do que foi publicado.
 
 ### M0 — Comece aqui: boas-vindas e instruções
@@ -257,6 +261,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 
 **Retomada e ponte:** A pergunta reaparece em M1.6 e M8.1; não pressupor que todos tenham visto os complementares.
 
+**Raízes autorais:** a Essência como referência e o eixo como base do percurso; "o caminho de volta é lembrar, integrar e expressar quem realmente somos" (Caminho da Semente). Fontes: [[Essência - Workshop vivencial|workshop Essência]]; [[00 - Índice dos Mapas Conceituais|mapas de julho]].
+
 **Recuperar:** [Diretriz Transversal - Espiritualidade Explícita, Singularidade Autoral e Não Neutralização](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/05%20-%20Diretriz%20Transversal%20-%20Espiritualidade%20Expl%C3%ADcita,%20Singularidade%20Autoral%20e%20N%C3%A3o%20Neutraliza%C3%A7%C3%A3o.md); [Tradução da Experiência Humana](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/20%20-%20Notas%20Conceituais/Tradu%C3%A7%C3%A3o%20da%20Experi%C3%AAncia%20Humana.md).
 
 #### M0.2 — Como usar o percurso, os mapas, as práticas e os materiais
@@ -268,6 +274,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 
 **Retomada e ponte:** Conservar a mesma Cartografia até M8, acrescentando perguntas quando necessárias.
 
+**Raízes autorais:** mapas como instrumentos do caminho de volta ao centro; a Árvore do EIXO ("do caos ao eixo, do eixo à expressão"). Fontes: [[00 - Índice dos Mapas Conceituais|mapas de julho]]; [[00 - Família de Mapas - Oscilação, Retorno e Equilíbrio Dinâmico|mapas aprovados de 29/07]].
+
 **Recuperar:** [Raio-X-Fabiano Deliberalli - Texto para consulta](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/10%20-%20Raio%20X%20do%20Produto/Vigente/Raio-X-Fabiano%20Deliberalli%20-%20Texto%20para%20consulta.md); [Tradução da Experiência Humana](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/20%20-%20Notas%20Conceituais/Tradu%C3%A7%C3%A3o%20da%20Experi%C3%AAncia%20Humana.md).
 
 #### M0.3 — Como organizar seu estudo e adaptar as práticas
@@ -278,6 +286,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 **O que observar:** Escolhe como estudar, pausar e retomar nas condições reais.
 
 **Retomada e ponte:** M3.3 aprofunda descanso e demandas; M7 acrescenta ajuda e negociação.
+
+**Raízes autorais:** "amplitude sem pressa, profundidade sem imposição"; escolha e segurança em toda prática. Fontes: [[Registro Mestre de Formulações Estruturantes|Registro Mestre]].
 
 **Recuperar:** [Raio-X-Fabiano Deliberalli - Texto para consulta](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/10%20-%20Raio%20X%20do%20Produto/Vigente/Raio-X-Fabiano%20Deliberalli%20-%20Texto%20para%20consulta.md); [Corpo eixo meridianos bioeletricidade e experiência](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md).
 
@@ -292,6 +302,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 
 **Retomada e ponte:** M2 investiga a leitura; M3 o acesso corporal; M4 a resposta e sua história.
 
+**Raízes autorais:** "ou trabalhamos voluntariamente ou somos vividos pelos padrões que carregamos"; a Essência soterrada por camadas como resposta à pergunta do curso. Fontes: [[Mentalma - 17-07-21|anotação Mentalma]]; [[Essência - Workshop vivencial|workshop Essência]].
+
 **Recuperar:** [M1.1 — Compreender, perceber e participar](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Materiais/M%C3%B3dulo%201/M1.1%20-%20Texto%20breve%20de%20apoio%20-%20Compreender,%20perceber%20e%20participar.md); [Monografia Pos Transpessoal](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/00%20-%20Caixa%20de%20Entrada/Monografia%20Pos%20Transpessoal/Monografia%20Pos%20Transpessoal.md).
 
 #### M1.2 — Capacidades: reconhecer, acessar e desenvolver
@@ -302,6 +314,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 **O que observar:** Identifica uma necessidade de aprendizagem e um apoio, sem se classificar como incapaz.
 
 **Retomada e ponte:** As três situações voltam nos fechamentos de M3, M6 e M8.
+
+**Raízes autorais:** reconhecer, acessar e desenvolver lidos pelo eixo: perder o acesso não é perder a Essência. Fontes: [[00 - Família de Mapas - Oscilação, Retorno e Equilíbrio Dinâmico|mapas aprovados de 29/07]] (Referência, EIXO e Estado); [[Arquitetura Invisível]], cap. 1.
 
 **Recuperar:** [Raio-X-Fabiano Deliberalli - Texto para consulta](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/10%20-%20Raio%20X%20do%20Produto/Vigente/Raio-X-Fabiano%20Deliberalli%20-%20Texto%20para%20consulta.md); [Registro Mestre de Formulações Estruturantes](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Registro%20Mestre%20de%20Formula%C3%A7%C3%B5es%20Estruturantes.md).
 
@@ -314,6 +328,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 
 **Retomada e ponte:** O ensino formal será oferecido no M3; material complementar não é pré-requisito oculto.
 
+**Raízes autorais:** três níveis de aprendizagem: conhecimento declarativo, competência incorporada, sabedoria prática; o registro subcortical que antecede a compreensão. Fontes: [[Pacote Inicial - Constituição, Camadas e Manual SOS|pacote fundador]]; [[Registro Mestre de Formulações Estruturantes|Registro Mestre]].
+
 **Recuperar:** [TSH - Varela e Castellanos - Experiência corporificada e cultivo](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/TSH%20-%20Varela%20e%20Castellanos%20-%20Experi%C3%AAncia%20corporificada%20e%20cultivo.md); [Dossiê M0–M8 — cópia na main das 21h31](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/60%20-%20Arquitetura%20Pedag%C3%B3gica/TSH%20-%20Dossi%C3%AA%20M0%E2%80%93M8%20-%20auditoria%20e%20base%20dos%20roteiros.md).
 
 #### M1.4 — Experiência e explicações: como usar os mapas
@@ -324,6 +340,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 **O que observar:** Situa a origem de uma explicação e admite correção.
 
 **Retomada e ponte:** M2.5 aprofunda essa distinção; M6 compara postura, intenção e circulação.
+
+**Raízes autorais:** mapas a serviço do território vivido (Constituição); "o erro está em colapsar níveis". Fontes: [[Pacote Inicial - Constituição, Camadas e Manual SOS|pacote fundador]]; [[ABBSP - março 26 DEFINITIVO|ABBSP]].
 
 **Recuperar:** [Deliberação Transversal - Pluralismo Epistemológico Não Redutivo e Integração Autoral](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/10%20-%20Governan%C3%A7a%20do%20Conhecimento/04%20-%20Delibera%C3%A7%C3%A3o%20Transversal%20-%20Pluralismo%20Epistemol%C3%B3gico%20N%C3%A3o%20Redutivo%20e%20Integra%C3%A7%C3%A3o%20Autoral.md); [TSH - Varela e Castellanos - Experiência corporificada e cultivo](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/TSH%20-%20Varela%20e%20Castellanos%20-%20Experi%C3%AAncia%20corporificada%20e%20cultivo.md).
 
@@ -336,6 +354,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 
 **Retomada e ponte:** As janelas serão usadas, não reapresentadas como novas listas.
 
+**Raízes autorais:** as camadas da experiência como janelas; multidimensionalidade com centro. Fontes: [[Registro Mestre de Formulações Estruturantes|Registro Mestre]]; [[00 - Índice dos Mapas Conceituais|mapas de julho]] (Campo de Integração).
+
 **Recuperar:** [Raio-X-Fabiano Deliberalli - Texto para consulta](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/10%20-%20Raio%20X%20do%20Produto/Vigente/Raio-X-Fabiano%20Deliberalli%20-%20Texto%20para%20consulta.md); [Árvore da Singularidade - Postura Mapa e Expressão Pessoal](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/%C3%81rvore%20da%20Singularidade%20-%20Postura%20Mapa%20e%20Express%C3%A3o%20Pessoal.md).
 
 #### M1.6 — Primeira Cartografia: registrar a experiência
@@ -347,6 +367,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 
 **Retomada e ponte:** M2 aprofunda os mesmos campos; M4 a nomeação; M7 a comunicação.
 
+**Raízes autorais:** Tradução como alfabetização da experiência; o vivido antes da explicação. Fontes: [[Tradução da Experiência Humana]]; [[Modelo dos Sete Níveis da Experiência|Sete Níveis]].
+
 **Recuperar:** [Tradução da Experiência Humana](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/20%20-%20Notas%20Conceituais/Tradu%C3%A7%C3%A3o%20da%20Experi%C3%AAncia%20Humana.md); [TSH - Preparação dos Roteiros e Calendário 2026-2027](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/60%20-%20Arquitetura%20Pedag%C3%B3gica/TSH%20-%20Prepara%C3%A7%C3%A3o%20dos%20Roteiros%20e%20Calend%C3%A1rio%202026-2027.md).
 
 #### M1.7 — Oscilações e retomadas: eixo e espiral no percurso
@@ -357,6 +379,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 **O que observar:** Reconhece uma mudança de acesso sem concluir perda de valor pessoal.
 
 **Retomada e ponte:** Pêndulo e espiral reaparecem em M4.6, M6.8 e M8.1.
+
+**Raízes autorais:** "perder o eixo não significa perder o percurso"; o eixo como estabilidade por reorganização. Fontes: [[Arquitetura Invisível]], cap. 3; [[00 - Família de Mapas - Oscilação, Retorno e Equilíbrio Dinâmico|mapas aprovados de 29/07]].
 
 **Recuperar:** [TSH - Síntese Integrativa do Refinamento](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/TSH%20-%20S%C3%ADntese%20Integrativa%20do%20Refinamento.md); [Registro Mestre de Formulações Estruturantes](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Registro%20Mestre%20de%20Formula%C3%A7%C3%B5es%20Estruturantes.md).
 
@@ -373,6 +397,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 
 **Retomada e ponte:** A atenção abre o tema da relevância em M2.2; repetir instruções suficientes para quem chegou agora.
 
+**Raízes autorais:** a percepção formada pelas camadas (história, crenças, corpos); "somos vividos e não vivemos". Fontes: [[Essência - Workshop vivencial|workshop Essência]]; [[Arquitetura Invisível]], cap. 2 (captação sensível).
+
 **Recuperar:** [TSH - Varela e Castellanos - Experiência corporificada e cultivo](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/TSH%20-%20Varela%20e%20Castellanos%20-%20Experi%C3%AAncia%20corporificada%20e%20cultivo.md); [M1.1 — Compreender, perceber e participar](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Materiais/M%C3%B3dulo%201/M1.1%20-%20Texto%20breve%20de%20apoio%20-%20Compreender,%20perceber%20e%20participar.md).
 
 #### M2.2 — Por que alguns sinais ganham mais importância?
@@ -383,6 +409,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 **O que observar:** Diferencia destaque, importância e certeza; acompanha forma e elaboração e reconhece como a pergunta dirigida participa do que ganha relevância.
 
 **Retomada e ponte:** Nomear Eu Básico e Eu Médio como linguagem de Long; livros e balões pode integrar a composição ou a retomada, conforme sua contribuição e o tempo ensaiado.
+
+**Raízes autorais:** o Eu Básico como porta: "seu problema não é sentir demais, mas não ser traduzida". Fontes: [[Arquitetura Invisível]], cap. 2; [[Mapa Funcional Transversal dos Três Eus|Três Eus]]; [[00 - Índice dos Mapas Conceituais|mapas de julho]] (Modelo Neurobiológico-Relacional v2).
 
 **Recuperar:** [Mapa Funcional Transversal dos Três Eus](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/20%20-%20Notas%20Conceituais/Mapa%20Funcional%20Transversal%20dos%20Tr%C3%AAs%20Eus.md); [Kahneman e Cozolino - Dois Sistemas e o Meio Segundo no TSH](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/20%20-%20Notas%20Conceituais/Kahneman%20e%20Cozolino%20-%20Dois%20Sistemas%20e%20o%20Meio%20Segundo%20no%20TSH.md); [Hipnose e Auto-Hipnose nos Módulos e Aulas do TSH - Plano de Incorporação](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Hipnose%20e%20Auto-Hipnose/05%20-%20Hipnose%20e%20Auto-Hipnose%20nos%20M%C3%B3dulos%20e%20Aulas%20do%20TSH%20-%20Plano%20de%20Incorpora%C3%A7%C3%A3o.md).
 
@@ -395,6 +423,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 
 **Retomada e ponte:** O resultado pode ser mais clareza sem mudança equivalente na disponibilidade de agir. Essa diferença prepara M2.4; retorno continua em práticas posteriores e M3.8.
 
+**Raízes autorais:** "o problema muitas vezes não vem da experiência em si, mas da interpretação"; a mesma vivência chamada delírio ou vivência espiritual conforme a abordagem. Fontes: transcrição da aula 0.1; [[Monografia Pos Transpessoal|monografia Transpessoal]].
+
 **Fontes e estado:** [[M2.3 - Trilha de exposição v0.3]] conserva a costura explícita entre os dois tempos, a convicção e a comparação entre revisão da leitura e modo vivido. [[M2.3 - Apresentação editável v0.3]] localiza 24 telas/notas atuais. A v0.3 aplica uma frase por linha, concisão com fundamentos preservados e clareza entre apresentar/realizar/elaborar; o localizador v0.2 conserva guia, apoio e kit anterior; [[M2.3 - Seleção dos anexos e fundamentação v0.1]] preserva as fontes e os destinos. V0.1 continua histórica. A revisão atual tem fontes e suportes em correspondência. Recuperar [[Festinger - Dissonância cognitiva e revisão de certezas no TSH]], [[Mapa Funcional Transversal dos Três Eus]], [[Kahneman e Cozolino - Dois Sistemas e o Meio Segundo no TSH]], [[Meio Segundo Vital - Transe que Não se Escolhe e os Três Eus]] e as contribuições ericksonianas localizadas no inventário dos anexos.
 
 #### M2.4 — O que mantém a repetição de uma resposta?
@@ -405,6 +435,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 **O que observar:** Diferencia mudança verbal, mudança do modo de viver e disponibilidade para participar; reconhece o que sustenta a configuração e que condição, experiência ou cultivo pode permitir outra possibilidade. Pode reconhecer que ainda não sabe. O ensaio fornece material de investigação, não prova de transformação consolidada.
 
 **Retomada e ponte:** A distinção vivido/interpretação prepara M2.5. M3 aprofunda acesso corporal; M4.4 história e proteção; M4.6 ensaio; M6.8 compara o que mudou e permaneceu no tempo.
+
+**Raízes autorais:** "ou trabalhamos voluntariamente ou somos vividos pelos padrões que carregamos"; as camadas que se repetem; o que nos afasta do centro. Fontes: [[Mentalma - 17-07-21|anotação Mentalma]]; [[Essência - Workshop vivencial|workshop Essência]]; Caminho da Semente em [[00 - Índice dos Mapas Conceituais|mapas de julho]].
 
 **Fontes e estado:** [[M2.4 - Trilha de exposição v0.3]] conserva o núcleo reelaborado em 29 passos, com elaboração emocional, circularidade, aprendizagem implícita, função/expressão e condições; [[M2.4 - Apresentação editável v0.3]] localiza slides e notas atuais. A v0.3 aplica concisão com profundidade preservada, uma frase por linha, apresentação separada da realização, pausas, comparação/conclusão e elaboração posterior. O localizador v0.2 conserva guia, apoio e kit daquela versão. [[M2.4 - Prévia de conteúdo e contribuições v0.1]] conserva a seleção e sua aplicação. V0.1 permanece como composição anterior. Recuperar [[Tradução da Experiência Humana]], [[Mapa Funcional Transversal dos Três Eus]], [[O Límbico como Porta - Eu Básico, Bion e Morin no TSH]], [[Quatro Passos da Mudança - Metapadrão e Lei de Hebb no TSH]], [[Registro Mestre de Formulações Estruturantes]] e os mapas de pêndulo/espiral com suas notas-mãe. Ler as passagens pertinentes, não apenas os títulos.
 
@@ -417,6 +449,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 
 **Retomada e ponte:** Forghieri e mentalização dão método à investigação; James acolhe uma leitura espiritual com origem e alcance situados.
 
+**Raízes autorais:** fenômeno, Tradução, interpretação e hipótese em sete níveis; a vivência "agregadora". Fontes: [[Modelo dos Sete Níveis da Experiência|Sete Níveis]]; [[Monografia Pos Transpessoal|monografia Transpessoal]].
+
 **Recuperar:** [DELIBERALLI_TCC_SINCRONIA_NEURAL_ESTADOS_CONSCIENCIA_2026 (1)](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/00%20-%20Caixa%20de%20Entrada/DELIBERALLI_TCC_SINCRONIA_NEURAL_ESTADOS_CONSCIENCIA_2026%20(1)/DELIBERALLI_TCC_SINCRONIA_NEURAL_ESTADOS_CONSCIENCIA_2026%20(1).md); [Monografia Pos Transpessoal](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/00%20-%20Caixa%20de%20Entrada/Monografia%20Pos%20Transpessoal/Monografia%20Pos%20Transpessoal.md); [TSH - Sentir o outro dentro de nós - fontes e destinos](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/TSH%20-%20Sentir%20o%20outro%20dentro%20de%20n%C3%B3s%20-%20fontes%20e%20destinos.md).
 
 #### M2.6 — Como construir e revisar uma Tradução provisória
@@ -427,6 +461,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 **O que observar:** Produz uma leitura inicial, indica o que a mudaria e escolhe um gesto possível.
 
 **Retomada e ponte:** M3 examina o acesso corporal; M4 refina nomes; M7 recebe a revisão pelo interlocutor.
+
+**Raízes autorais:** Tradução e eixo em recursividade: "algum eixo favorece a Tradução; traduzir pode fortalecer o eixo"; retomar aqui o fio da Essência soterrada para quem já gravou M2. Fontes: [[Tradução da Experiência Humana]]; [[Registro Mestre de Formulações Estruturantes|Registro Mestre]].
 
 **Recuperar:** [Tradução da Experiência Humana](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/20%20-%20Notas%20Conceituais/Tradu%C3%A7%C3%A3o%20da%20Experi%C3%AAncia%20Humana.md); [TSH - Preparação dos Roteiros e Calendário 2026-2027](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/60%20-%20Arquitetura%20Pedag%C3%B3gica/TSH%20-%20Prepara%C3%A7%C3%A3o%20dos%20Roteiros%20e%20Calend%C3%A1rio%202026-2027.md); [Naranjo - Consulta e Destinos nas Aulas](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/00%20-%20Naranjo%20-%20Consulta%20e%20Destinos%20nas%20Aulas.md).
 
@@ -441,6 +477,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 
 **Retomada e ponte:** Retoma M1.2 e M2.1; prepara a observação dos sinais internos.
 
+**Raízes autorais:** o eixo perdido e a base horizontal do Eu Básico: estabilidade somática antes da verticalização. Fontes: [[Arquitetura Invisível]], cap. 1 e 2.
+
 **Recuperar:** [TSH - Varela e Castellanos - Experiência corporificada e cultivo](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/TSH%20-%20Varela%20e%20Castellanos%20-%20Experi%C3%AAncia%20corporificada%20e%20cultivo.md); [DELIBERALLI_TCC_SINCRONIA_NEURAL_ESTADOS_CONSCIENCIA_2026 (1)](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/00%20-%20Caixa%20de%20Entrada/DELIBERALLI_TCC_SINCRONIA_NEURAL_ESTADOS_CONSCIENCIA_2026%20(1)/DELIBERALLI_TCC_SINCRONIA_NEURAL_ESTADOS_CONSCIENCIA_2026%20(1).md); [Hipnose e Auto-Hipnose nos Módulos e Aulas do TSH - Plano de Incorporação](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Hipnose%20e%20Auto-Hipnose/05%20-%20Hipnose%20e%20Auto-Hipnose%20nos%20M%C3%B3dulos%20e%20Aulas%20do%20TSH%20-%20Plano%20de%20Incorpora%C3%A7%C3%A3o.md).
 
 #### M3.2 — Interocepção: perceber e interpretar sinais internos
@@ -451,6 +489,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 **O que observar:** Descreve uma sensação e uma interpretação separadamente e sabe mudar a atenção.
 
 **Retomada e ponte:** Retoma M2.5; prepara M4.1 sem exigir introspecção contínua.
+
+**Raízes autorais:** captação sensível: o Eu Básico "percebe antes de simbolizar"; o coração como morada do Shen. Fontes: [[Arquitetura Invisível]], cap. 2; [[ABBSP - março 26 DEFINITIVO|ABBSP]].
 
 **Recuperar:** [TSH - Varela e Castellanos - Experiência corporificada e cultivo](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/TSH%20-%20Varela%20e%20Castellanos%20-%20Experi%C3%AAncia%20corporificada%20e%20cultivo.md); [TSH - Sentir o outro dentro de nós - fontes e destinos](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/TSH%20-%20Sentir%20o%20outro%20dentro%20de%20n%C3%B3s%20-%20fontes%20e%20destinos.md); [Naranjo - Consulta e Destinos nas Aulas](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/00%20-%20Naranjo%20-%20Consulta%20e%20Destinos%20nas%20Aulas.md).
 
@@ -463,6 +503,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 
 **Retomada e ponte:** As condições reaparecem em M6.9, M7.6 e no plano de continuidade.
 
+**Raízes autorais:** HPA lido com o Rim; as camadas que o corpo carrega. Fontes: palestra Qi Gong e MTC — Além das Fronteiras (fontes bibliográficas); [[Essência - Workshop vivencial|workshop Essência]] (camadas e corpos).
+
 **Recuperar:** [Corpo eixo meridianos bioeletricidade e experiência](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md); [Compaixão e Empatia - Destinos nas Aulas e Materiais](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Compaix%C3%A3o%20Empatia%20e%20Rela%C3%A7%C3%A3o/02%20-%20Compaix%C3%A3o%20e%20Empatia%20-%20Destinos%20nas%20Aulas%20e%20Materiais.md).
 
 #### M3.4 — Sistema nervoso autônomo: mobilização, sobrecarga e repouso
@@ -473,6 +515,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 **O que observar:** Descreve o que observa sem nomear automaticamente um ramo autonômico nem equipará-lo a yin e yang.
 
 **Retomada e ponte:** Fornece vocabulário para dosar práticas em M3.8; não se torna escala de valor espiritual.
+
+**Raízes autorais:** janela de tolerância como condição para que a abertura integre: "sem regulação, a expansão se transforma em fuga". Fontes: [[Arquitetura Invisível]], cap. 2; [[ABBSP - março 26 DEFINITIVO|ABBSP]].
 
 **Recuperar:** [Raio-X-Fabiano Deliberalli - Texto para consulta](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/10%20-%20Raio%20X%20do%20Produto/Vigente/Raio-X-Fabiano%20Deliberalli%20-%20Texto%20para%20consulta.md); [Corpo eixo meridianos bioeletricidade e experiência](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md).
 
@@ -485,6 +529,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 
 **Retomada e ponte:** Monografia MTC e formação de Fabiano sustentam o ensino; preparar postura e movimento.
 
+**Raízes autorais:** "somos espírito vestido de matéria"; Shen como consciência, pré e pós-celestial; os Três Tesouros. Fontes: [[MONOGRAFIA Acupuntura|monografia de 2004]]; palestra Qi Gong e MTC — Além das Fronteiras (fontes bibliográficas).
+
 **Recuperar:** [MONOGRAFIA Acupuntura](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/00%20-%20Caixa%20de%20Entrada/MONOGRAFIA%20Acupuntura/MONOGRAFIA%20Acupuntura.md); [Rohden - Assimilação Centro e Vida Cotidiana](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/MTC%20e%20Qi%20Gong/07%20-%20Rohden%20-%20Assimila%C3%A7%C3%A3o%20Centro%20e%20Vida%20Cotidiana.md); [Corpo eixo meridianos bioeletricidade e experiência](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md).
 
 #### M3.6 — Zhan Zhuang: aprender a postura da árvore
@@ -495,6 +541,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 **O que observar:** Encontra uma versão viável e ajusta esforço sem procurar uma postura ideal obrigatória.
 
 **Retomada e ponte:** Prepara a sequência em movimento da aula seguinte; postura não mede integração espiritual.
+
+**Raízes autorais:** o eixo como postura: o ser humano como árvore entre solo e céu; Tan Tien. Fontes: palestra Aterramento (2022, acervo Corpo Eixo e Experiência); Árvore do EIXO em [[00 - Índice dos Mapas Conceituais|mapas de julho]].
 
 **Recuperar:** [TSH - Eixo em Três Leituras - Zhan Zhuang, Linha do Hara e Chong Mai](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/TSH%20-%20Eixo%20em%20Tr%C3%AAs%20Leituras%20-%20Zhan%20Zhuang,%20Linha%20do%20Hara%20e%20Chong%20Mai.md); [Árvore da Singularidade - Postura Mapa e Expressão Pessoal](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/%C3%81rvore%20da%20Singularidade%20-%20Postura%20Mapa%20e%20Express%C3%A3o%20Pessoal.md); [MONOGRAFIA Acupuntura](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/00%20-%20Caixa%20de%20Entrada/MONOGRAFIA%20Acupuntura/MONOGRAFIA%20Acupuntura.md).
 
@@ -507,6 +555,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 
 **Retomada e ponte:** A mesma sequência pode ser retomada em M4, M5 e M7 com outra pergunta. Cada movimento selecionado recebe ensino suficiente antes de sua retomada.
 
+**Raízes autorais:** Qi Gong como cultivo espiritual na linhagem taoista; ensinamento de Liu Pai Lin. Fontes: palestra Qi Gong e MTC — Além das Fronteiras (fontes bibliográficas); palestra Aterramento (2022, acervo Corpo Eixo e Experiência).
+
 **Recuperar:** [TSH - Eixo em Três Leituras - Zhan Zhuang, Linha do Hara e Chong Mai](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/TSH%20-%20Eixo%20em%20Tr%C3%AAs%20Leituras%20-%20Zhan%20Zhuang,%20Linha%20do%20Hara%20e%20Chong%20Mai.md); [Corpo eixo meridianos bioeletricidade e experiência](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md); [MONOGRAFIA Acupuntura](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/00%20-%20Caixa%20de%20Entrada/MONOGRAFIA%20Acupuntura/MONOGRAFIA%20Acupuntura.md).
 
 #### M3.8 — Retorno à orientação: escolher e adaptar recursos
@@ -517,6 +567,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 **O que observar:** Explica por que escolheu, quando interromper ou trocar e o que pretende observar depois.
 
 **Retomada e ponte:** Fechamento do M3: um recurso portátil e uma mudança de condição; ponte para diferenciar emoções.
+
+**Raízes autorais:** "retornar não é regredir"; o desenvolvimento do retorno. Fontes: [[00 - Família de Mapas - Oscilação, Retorno e Equilíbrio Dinâmico|mapas aprovados de 29/07]]; [[Registro Mestre de Formulações Estruturantes|Registro Mestre]].
 
 **Recuperar:** [Hipnose e Auto-Hipnose nos Módulos e Aulas do TSH - Plano de Incorporação](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Hipnose%20e%20Auto-Hipnose/05%20-%20Hipnose%20e%20Auto-Hipnose%20nos%20M%C3%B3dulos%20e%20Aulas%20do%20TSH%20-%20Plano%20de%20Incorpora%C3%A7%C3%A3o.md); [Compaixão e Empatia - Destinos nas Aulas e Materiais](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Compaix%C3%A3o%20Empatia%20e%20Rela%C3%A7%C3%A3o/02%20-%20Compaix%C3%A3o%20e%20Empatia%20-%20Destinos%20nas%20Aulas%20e%20Materiais.md); [Corpo eixo meridianos bioeletricidade e experiência](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md).
 
@@ -531,6 +583,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 
 **Retomada e ponte:** Gendlin e Naranjo sustentam expressão aberta; M4.2 refina diferenças.
 
+**Raízes autorais:** o Eu Básico que sente e não sabe dizer; sentir como porta experiencial. Fontes: [[Arquitetura Invisível]], cap. 2; [[Registro Mestre de Formulações Estruturantes|Registro Mestre]].
+
 **Recuperar:** [TSH - Preparação dos Roteiros e Calendário 2026-2027](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/60%20-%20Arquitetura%20Pedag%C3%B3gica/TSH%20-%20Prepara%C3%A7%C3%A3o%20dos%20Roteiros%20e%20Calend%C3%A1rio%202026-2027.md); [Naranjo - Consulta e Destinos nas Aulas](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/00%20-%20Naranjo%20-%20Consulta%20e%20Destinos%20nas%20Aulas.md); [Naranjo - Música Escuta e Integração](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/03%20-%20Naranjo%20-%20M%C3%BAsica%20Escuta%20e%20Integra%C3%A7%C3%A3o.md).
 
 #### M4.2 — Granularidade emocional: distinguir emoções e nuances
@@ -541,6 +595,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 **O que observar:** Diz o que muda entre duas descrições sem buscar a palavra certa imposta.
 
 **Retomada e ponte:** Nomear é aprofundado como hipótese corrigível em M4.3.
+
+**Raízes autorais:** diferenciar sem fragmentar; a sensibilidade como arquitetura. Fontes: [[Arquitetura Invisível]], prefácio; [[Registro Mestre de Formulações Estruturantes|Registro Mestre]].
 
 **Recuperar:** [Raio-X-Fabiano Deliberalli - Texto para consulta](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/10%20-%20Raio%20X%20do%20Produto/Vigente/Raio-X-Fabiano%20Deliberalli%20-%20Texto%20para%20consulta.md); [Naranjo - Música Escuta e Integração](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/03%20-%20Naranjo%20-%20M%C3%BAsica%20Escuta%20e%20Integra%C3%A7%C3%A3o.md).
 
@@ -553,6 +609,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 
 **Retomada e ponte:** O mesmo gesto de revisão será usado na escuta de M7.3.
 
+**Raízes autorais:** Tradução como passagem do vivido confuso ao nomeável sem apagar o vivido. Fontes: [[Tradução da Experiência Humana]].
+
 **Recuperar:** [TSH - Preparação dos Roteiros e Calendário 2026-2027](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/60%20-%20Arquitetura%20Pedag%C3%B3gica/TSH%20-%20Prepara%C3%A7%C3%A3o%20dos%20Roteiros%20e%20Calend%C3%A1rio%202026-2027.md); [Monografia Pos Transpessoal](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/00%20-%20Caixa%20de%20Entrada/Monografia%20Pos%20Transpessoal/Monografia%20Pos%20Transpessoal.md).
 
 #### M4.4 — Padrões de proteção: história e necessidades atuais
@@ -563,6 +621,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 **O que observar:** Reconhece uma função protetiva e uma capacidade que deseja desenvolver.
 
 **Retomada e ponte:** Winnicott, Salvador e árvore; Cameron contribui pelo Censor sem organizar sozinho a explicação.
+
+**Raízes autorais:** defesas e máscaras como camadas que protegeram e hoje afastam do centro; "saúde psíquica é defesa permeável, consciente e regulável"; ego como membrana. Fontes: Caminho da Semente em [[00 - Índice dos Mapas Conceituais|mapas de julho]]; [[ABBSP - março 26 DEFINITIVO|ABBSP]]; [[Registro Mestre de Formulações Estruturantes|Registro Mestre]].
 
 **Recuperar:** [Árvore da Singularidade - Postura Mapa e Expressão Pessoal](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/%C3%81rvore%20da%20Singularidade%20-%20Postura%20Mapa%20e%20Express%C3%A3o%20Pessoal.md); [TSH - Criatividade, Intenção e Eu Básico - Cameron, Brennan e Long](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/TSH%20-%20Criatividade,%20Inten%C3%A7%C3%A3o%20e%20Eu%20B%C3%A1sico%20-%20Cameron,%20Brennan%20e%20Long.md); [Compaixão e Empatia - Destinos nas Aulas e Materiais](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Compaix%C3%A3o%20Empatia%20e%20Rela%C3%A7%C3%A3o/02%20-%20Compaix%C3%A3o%20e%20Empatia%20-%20Destinos%20nas%20Aulas%20e%20Materiais.md).
 
@@ -575,6 +635,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 
 **Retomada e ponte:** Long situa a culpa em seu horizonte espiritual; Salvador e compaixão qualificam a aproximação; M5 amplia referência.
 
+**Raízes autorais:** o "isto" e o "eu"; o Self observador; partes como camadas da Essência encarnada. Fontes: [[Essência - Workshop vivencial|workshop Essência]].
+
 **Recuperar:** [TSH - Preparação dos Roteiros e Calendário 2026-2027](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/60%20-%20Arquitetura%20Pedag%C3%B3gica/TSH%20-%20Prepara%C3%A7%C3%A3o%20dos%20Roteiros%20e%20Calend%C3%A1rio%202026-2027.md); [Mapa Funcional Transversal dos Três Eus](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/20%20-%20Notas%20Conceituais/Mapa%20Funcional%20Transversal%20dos%20Tr%C3%AAs%20Eus.md); [Compaixão e Empatia - Destinos nas Aulas e Materiais](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Compaix%C3%A3o%20Empatia%20e%20Rela%C3%A7%C3%A3o/02%20-%20Compaix%C3%A3o%20e%20Empatia%20-%20Destinos%20nas%20Aulas%20e%20Materiais.md).
 
 #### M4.6 — Emoções e padrões: ensaiar uma nova resposta
@@ -585,6 +647,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 **O que observar:** Escolhe um gesto e verifica depois seus efeitos; ensaio não equivale a mudança já consolidada.
 
 **Retomada e ponte:** Hebb e reconsolidação entram com alcance delimitado; Projetar os punhos recebe demonstração antes da retomada em M7.4, articulando intenção e força sem rigidez.
+
+**Raízes autorais:** ensaiar outra resposta a partir do eixo recuperado; reparação no retorno. Fontes: [[00 - Família de Mapas - Oscilação, Retorno e Equilíbrio Dinâmico|mapas aprovados de 29/07]]; [[Registro Mestre de Formulações Estruturantes|Registro Mestre]].
 
 **Recuperar:** [Quatro Passos da Mudança - Metapadrão e Lei de Hebb no TSH](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/20%20-%20Notas%20Conceituais/Quatro%20Passos%20da%20Mudan%C3%A7a%20-%20Metapadr%C3%A3o%20e%20Lei%20de%20Hebb%20no%20TSH.md); [Hipnose e Auto-Hipnose nos Módulos e Aulas do TSH - Plano de Incorporação](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Hipnose%20e%20Auto-Hipnose/05%20-%20Hipnose%20e%20Auto-Hipnose%20nos%20M%C3%B3dulos%20e%20Aulas%20do%20TSH%20-%20Plano%20de%20Incorpora%C3%A7%C3%A3o.md); [Compaixão e Empatia - Destinos nas Aulas e Materiais](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Compaix%C3%A3o%20Empatia%20e%20Rela%C3%A7%C3%A3o/02%20-%20Compaix%C3%A3o%20e%20Empatia%20-%20Destinos%20nas%20Aulas%20e%20Materiais.md).
 
@@ -599,6 +663,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 
 **Retomada e ponte:** Prepara valores como bússolas, em vez de ordens sobre sentimentos.
 
+**Raízes autorais:** liberdade como critério: a escolha diante de padrões que nos vivem. Fontes: [[Essência - Workshop vivencial|workshop Essência]] (Liberdade); [[Transformação e Integração]].
+
 **Recuperar:** [TSH - Preparação dos Roteiros e Calendário 2026-2027](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/60%20-%20Arquitetura%20Pedag%C3%B3gica/TSH%20-%20Prepara%C3%A7%C3%A3o%20dos%20Roteiros%20e%20Calend%C3%A1rio%202026-2027.md); [Compaixão e Empatia - Destinos nas Aulas e Materiais](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Compaix%C3%A3o%20Empatia%20e%20Rela%C3%A7%C3%A3o/02%20-%20Compaix%C3%A3o%20e%20Empatia%20-%20Destinos%20nas%20Aulas%20e%20Materiais.md).
 
 #### M5.2 — Valores na prática: Amor, Poder e Sabedoria
@@ -609,6 +675,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 **O que observar:** Relaciona um valor a um gesto e a um limite possível.
 
 **Retomada e ponte:** Compaixão, Naranjo e intenção preparam Hara; a linha será ensinada em M6.6.
+
+**Raízes autorais:** valores como expressão da Essência; a copa da árvore. Fontes: [[GENESE-001 - A Árvore da Singularidade|Árvore da Singularidade]]; Árvore do EIXO em [[00 - Índice dos Mapas Conceituais|mapas de julho]].
 
 **Recuperar:** [Compaixão e Empatia - Destinos nas Aulas e Materiais](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Compaix%C3%A3o%20Empatia%20e%20Rela%C3%A7%C3%A3o/02%20-%20Compaix%C3%A3o%20e%20Empatia%20-%20Destinos%20nas%20Aulas%20e%20Materiais.md); [Naranjo - Consulta e Destinos nas Aulas](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/00%20-%20Naranjo%20-%20Consulta%20e%20Destinos%20nas%20Aulas.md); [TSH - Eixo em Três Leituras - Zhan Zhuang, Linha do Hara e Chong Mai](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/TSH%20-%20Eixo%20em%20Tr%C3%AAs%20Leituras%20-%20Zhan%20Zhuang,%20Linha%20do%20Hara%20e%20Chong%20Mai.md).
 
@@ -621,6 +689,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 
 **Retomada e ponte:** Declarar genealogia Long/Huna desde a primeira nomeação no M2; completar aqui, sem equivaler a Self ou Essência.
 
+**Raízes autorais:** Eu Básico como porta, Eu Médio como guardião, Eu Superior como orientação, coordenados pelo eixo. Fontes: [[Arquitetura Invisível]], cap. 2; [[Mapa Funcional Transversal dos Três Eus|Três Eus]]; [[00 - Índice dos Mapas Conceituais|mapas de julho]] (Modelo Neurobiológico-Relacional).
+
 **Recuperar:** [Mapa Funcional Transversal dos Três Eus](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/20%20-%20Notas%20Conceituais/Mapa%20Funcional%20Transversal%20dos%20Tr%C3%AAs%20Eus.md); [Léxico Mestre do Traduzindo o Ser Humano](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/20%20-%20Notas%20Conceituais/L%C3%A9xico%20Mestre%20do%20Traduzindo%20o%20Ser%20Humano.md); [TSH - Criatividade, Intenção e Eu Básico - Cameron, Brennan e Long](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/TSH%20-%20Criatividade,%20Inten%C3%A7%C3%A3o%20e%20Eu%20B%C3%A1sico%20-%20Cameron,%20Brennan%20e%20Long.md).
 
 #### M5.4 — Quietude e observação da experiência
@@ -631,6 +701,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 **O que observar:** Reconhece uma ênfase de atenção e pode mudar de atitude sem cobrar um estado especial.
 
 **Retomada e ponte:** Rohden, Castellanos e Naranjo ampliam contemplação; modos são combináveis, não exclusivos.
+
+**Raízes autorais:** lucidez e desidentificação; o Self observador. Fontes: [[Essência - Workshop vivencial|workshop Essência]].
 
 **Recuperar:** [Rohden - Assimilação Centro e Vida Cotidiana](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/MTC%20e%20Qi%20Gong/07%20-%20Rohden%20-%20Assimila%C3%A7%C3%A3o%20Centro%20e%20Vida%20Cotidiana.md); [TSH - Varela e Castellanos - Experiência corporificada e cultivo](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/TSH%20-%20Varela%20e%20Castellanos%20-%20Experi%C3%AAncia%20corporificada%20e%20cultivo.md); [Naranjo - Consulta e Destinos nas Aulas](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/00%20-%20Naranjo%20-%20Consulta%20e%20Destinos%20nas%20Aulas.md).
 
@@ -643,6 +715,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 
 **Retomada e ponte:** Jung e Kast situam simbolização; a produção pessoal ganha espaço próprio na próxima aula.
 
+**Raízes autorais:** a linguagem imagética e simbólica do Eu Básico; o campo imaginal. Fontes: [[Arquitetura Invisível]], cap. 2; [[Essência - Workshop vivencial|workshop Essência]] (Campo Imaginal).
+
 **Recuperar:** [Árvore da Singularidade - Postura Mapa e Expressão Pessoal](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/%C3%81rvore%20da%20Singularidade%20-%20Postura%20Mapa%20e%20Express%C3%A3o%20Pessoal.md); [Corpo eixo meridianos bioeletricidade e experiência](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md); [Léxico Mestre do Traduzindo o Ser Humano](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/20%20-%20Notas%20Conceituais/L%C3%A9xico%20Mestre%20do%20Traduzindo%20o%20Ser%20Humano.md).
 
 #### M5.6 — Expressão criativa com desenho, escrita ou movimento
@@ -653,6 +727,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 **O que observar:** Produz uma expressão própria, identifica o que quer continuar e qual apoio precisa.
 
 **Retomada e ponte:** Criar pode começar por uma experiência breve de intenção/Hara ligada à escrita, já prevista no acervo, com instrução suficiente; M6.6 aprofunda e sistematiza o exercício. Prepara M6.9 e M7.1.
+
+**Raízes autorais:** a singularidade que busca expressão; "o desenvolvimento não fabrica a singularidade". Fontes: [[GENESE-001 - A Árvore da Singularidade|Árvore da Singularidade]]; [[00 - Índice Geral do Banco Fenomenológico|Banco Fenomenológico]].
 
 **Recuperar:** [TSH - Criatividade, Intenção e Eu Básico - Cameron, Brennan e Long](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/TSH%20-%20Criatividade,%20Inten%C3%A7%C3%A3o%20e%20Eu%20B%C3%A1sico%20-%20Cameron,%20Brennan%20e%20Long.md); [Naranjo - Música Escuta e Integração](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/03%20-%20Naranjo%20-%20M%C3%BAsica%20Escuta%20e%20Integra%C3%A7%C3%A3o.md); [Árvore da Singularidade - Postura Mapa e Expressão Pessoal](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/%C3%81rvore%20da%20Singularidade%20-%20Postura%20Mapa%20e%20Express%C3%A3o%20Pessoal.md).
 
@@ -665,6 +741,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 
 **Retomada e ponte:** James, Ammerman, monografia Transpessoal e trajetória autoral ampliam o horizonte além de uma linhagem.
 
+**Raízes autorais:** a vivência espiritual saudável é "agregadora"; espiritualidade que "não fragmenta, integra; não aliena, ancora". Fontes: [[Monografia Pos Transpessoal|monografia Transpessoal]]; [[Arquitetura Invisível]], cap. 1.
+
 **Recuperar:** [Monografia Pos Transpessoal](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/00%20-%20Caixa%20de%20Entrada/Monografia%20Pos%20Transpessoal/Monografia%20Pos%20Transpessoal.md); [Diretriz Transversal - Espiritualidade Explícita, Singularidade Autoral e Não Neutralização](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/05%20-%20Diretriz%20Transversal%20-%20Espiritualidade%20Expl%C3%ADcita,%20Singularidade%20Autoral%20e%20N%C3%A3o%20Neutraliza%C3%A7%C3%A3o.md); [Compaixão e Empatia - Destinos nas Aulas e Materiais](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Compaix%C3%A3o%20Empatia%20e%20Rela%C3%A7%C3%A3o/02%20-%20Compaix%C3%A3o%20e%20Empatia%20-%20Destinos%20nas%20Aulas%20e%20Materiais.md).
 
 #### M5.8 — Self, Essência, Alma, Eu Superior e Fonte: distinções
@@ -676,6 +754,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 
 **Retomada e ponte:** Essência é afirmada em seu sentido próprio; M5.9 leva a investigação à liberdade e aos efeitos.
 
+**Raízes autorais:** a Essência como luz presente desde a infância, soterrada por camadas; "a Essência oferece referência". Fontes: [[Essência - Workshop vivencial|workshop Essência]]; [[00 - Família de Mapas - Oscilação, Retorno e Equilíbrio Dinâmico|mapas aprovados de 29/07]] (Referência, EIXO e Estado).
+
 **Recuperar:** [Léxico Mestre do Traduzindo o Ser Humano](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/20%20-%20Notas%20Conceituais/L%C3%A9xico%20Mestre%20do%20Traduzindo%20o%20Ser%20Humano.md); [Diretriz Transversal - Espiritualidade Explícita, Singularidade Autoral e Não Neutralização](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/05%20-%20Diretriz%20Transversal%20-%20Espiritualidade%20Expl%C3%ADcita,%20Singularidade%20Autoral%20e%20N%C3%A3o%20Neutraliza%C3%A7%C3%A3o.md); [Monografia Pos Transpessoal](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/00%20-%20Caixa%20de%20Entrada/Monografia%20Pos%20Transpessoal/Monografia%20Pos%20Transpessoal.md).
 
 #### M5.9 — Discernimento espiritual: liberdade, autoridade e efeitos
@@ -686,6 +766,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 **O que observar:** Mantém abertura e pode dizer não sei, discordar ou corrigir uma leitura.
 
 **Retomada e ponte:** James, Wilber, Salvador e TCC dialogam; M6 acompanha elaboração e vida no tempo.
+
+**Raízes autorais:** "o erro está em colapsar níveis"; o Complexo de Ícaro; o critério da liberdade. Fontes: [[ABBSP - março 26 DEFINITIVO|ABBSP]]; [[Monografia Pos Transpessoal|monografia Transpessoal]]; [[Transformação e Integração]].
 
 **Recuperar:** [Deliberação Transversal - Pluralismo Epistemológico Não Redutivo e Integração Autoral](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/10%20-%20Governan%C3%A7a%20do%20Conhecimento/04%20-%20Delibera%C3%A7%C3%A3o%20Transversal%20-%20Pluralismo%20Epistemol%C3%B3gico%20N%C3%A3o%20Redutivo%20e%20Integra%C3%A7%C3%A3o%20Autoral.md); [TSH - Sentir o outro dentro de nós - fontes e destinos](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/TSH%20-%20Sentir%20o%20outro%20dentro%20de%20n%C3%B3s%20-%20fontes%20e%20destinos.md); [DELIBERALLI_TCC_SINCRONIA_NEURAL_ESTADOS_CONSCIENCIA_2026 (1)](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/00%20-%20Caixa%20de%20Entrada/DELIBERALLI_TCC_SINCRONIA_NEURAL_ESTADOS_CONSCIENCIA_2026%20(1)/DELIBERALLI_TCC_SINCRONIA_NEURAL_ESTADOS_CONSCIENCIA_2026%20(1).md).
 
@@ -700,6 +782,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 
 **Retomada e ponte:** Retoma valores, partes e criação; M6.2 investiga partes e conjunto.
 
+**Raízes autorais:** distinguir sem fragmentar, integrar sem homogeneizar. Fontes: [[Registro Mestre de Formulações Estruturantes|Registro Mestre]].
+
 **Recuperar:** [Naranjo - Consulta e Destinos nas Aulas](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/00%20-%20Naranjo%20-%20Consulta%20e%20Destinos%20nas%20Aulas.md); [Naranjo - Música Escuta e Integração](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/03%20-%20Naranjo%20-%20M%C3%BAsica%20Escuta%20e%20Integra%C3%A7%C3%A3o.md); [TSH - Síntese Integrativa do Refinamento](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/TSH%20-%20S%C3%ADntese%20Integrativa%20do%20Refinamento.md).
 
 #### M6.2 — Corpo, afeto, pensamento e espírito: diferenças e relações
@@ -710,6 +794,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 **O que observar:** Mostra o que uma leitura ilumina e o que outra acrescenta, sem equivalência obrigatória.
 
 **Retomada e ponte:** Integração diferenciada da NIP e pluralismo dão método; prepara ambivalência.
+
+**Raízes autorais:** corpo, emoção, pensamento e espírito como camadas que o eixo coordena; consciência individual e universal. Fontes: [[Arquitetura Invisível]], cap. 1 e 2; [[MONOGRAFIA Acupuntura|monografia de 2004]].
 
 **Recuperar:** [TSH - Varela e Castellanos - Experiência corporificada e cultivo](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/TSH%20-%20Varela%20e%20Castellanos%20-%20Experi%C3%AAncia%20corporificada%20e%20cultivo.md); [Deliberação Transversal - Pluralismo Epistemológico Não Redutivo e Integração Autoral](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/10%20-%20Governan%C3%A7a%20do%20Conhecimento/04%20-%20Delibera%C3%A7%C3%A3o%20Transversal%20-%20Pluralismo%20Epistemol%C3%B3gico%20N%C3%A3o%20Redutivo%20e%20Integra%C3%A7%C3%A3o%20Autoral.md); [DELIBERALLI_TCC_SINCRONIA_NEURAL_ESTADOS_CONSCIENCIA_2026 (1)](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/00%20-%20Caixa%20de%20Entrada/DELIBERALLI_TCC_SINCRONIA_NEURAL_ESTADOS_CONSCIENCIA_2026%20(1)/DELIBERALLI_TCC_SINCRONIA_NEURAL_ESTADOS_CONSCIENCIA_2026%20(1).md).
 
@@ -722,6 +808,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 
 **Retomada e ponte:** Salvador e Naranjo sustentam escuta; mapa seguinte organiza uma tentativa possível.
 
+**Raízes autorais:** transformação não é integração: a nova organização ampliou ou reduziu a liberdade? Fontes: [[Transformação e Integração]].
+
 **Recuperar:** [TSH - Preparação dos Roteiros e Calendário 2026-2027](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/60%20-%20Arquitetura%20Pedag%C3%B3gica/TSH%20-%20Prepara%C3%A7%C3%A3o%20dos%20Roteiros%20e%20Calend%C3%A1rio%202026-2027.md); [Naranjo - Consulta e Destinos nas Aulas](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/00%20-%20Naranjo%20-%20Consulta%20e%20Destinos%20nas%20Aulas.md).
 
 #### M6.4 — Mapa de Integração Funcional: recursos, limites e ações
@@ -732,6 +820,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 **O que observar:** Explica o que precisa articular e o que pede distância ou ajuda.
 
 **Retomada e ponte:** Comparar modos já experimentados; completar alinhar após M6.6, sem pressupor prática não ensinada.
+
+**Raízes autorais:** o campo de integração organizado a partir do centro. Fontes: Campo de Integração Humana em [[00 - Índice dos Mapas Conceituais|mapas de julho]].
 
 **Recuperar:** [Tradução da Experiência Humana](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/20%20-%20Notas%20Conceituais/Tradu%C3%A7%C3%A3o%20da%20Experi%C3%AAncia%20Humana.md); [Compaixão e Empatia - Destinos nas Aulas e Materiais](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Compaix%C3%A3o%20Empatia%20e%20Rela%C3%A7%C3%A3o/02%20-%20Compaix%C3%A3o%20e%20Empatia%20-%20Destinos%20nas%20Aulas%20e%20Materiais.md); [Corpo eixo meridianos bioeletricidade e experiência](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md).
 
@@ -744,6 +834,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 
 **Retomada e ponte:** Manter a linhagem e a relação Ren–Du; não equiparar à grande circulação nem usar intensidade como medida de integração.
 
+**Raízes autorais:** circulação microcósmica na linhagem taoista, como Fabiano a ensina. Fontes: palestra Qi Gong e MTC — Além das Fronteiras (fontes bibliográficas).
+
 **Recuperar:** [TSH - Chong Mai pequena e grande circulação - comparação das fontes Pai Lin e Além das Fronteiras](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/MTC%20e%20Qi%20Gong/TSH%20-%20Chong%20Mai%20pequena%20e%20grande%20circula%C3%A7%C3%A3o%20-%20compara%C3%A7%C3%A3o%20das%20fontes%20Pai%20Lin%20e%20Al%C3%A9m%20das%20Fronteiras.md); [TSH - Eixo em Três Leituras - Zhan Zhuang, Linha do Hara e Chong Mai](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/TSH%20-%20Eixo%20em%20Tr%C3%AAs%20Leituras%20-%20Zhan%20Zhuang,%20Linha%20do%20Hara%20e%20Chong%20Mai.md); [MONOGRAFIA Acupuntura](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/00%20-%20Caixa%20de%20Entrada/MONOGRAFIA%20Acupuntura/MONOGRAFIA%20Acupuntura.md).
 
 #### M6.6 — Linha do Hara: alinhar intenção e ação
@@ -754,6 +846,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 **O que observar:** Descreve a origem do mapa e uma orientação possível sem tomar medidas imagéticas por anatomia.
 
 **Retomada e ponte:** Aprofunda a pergunta de M5.2 e a composição de intenção/escrita de M5.6, caso escolhida. Comparar com postura; aplicar antes e depois de conversas em M7.1/M7.5.
+
+**Raízes autorais:** a linha do Hara e o Tan Tien já na palestra de 2022, antes de Brennan. Fontes: palestra Aterramento (2022, acervo Corpo Eixo e Experiência), slides 36 a 38.
 
 **Recuperar:** [TSH - Eixo em Três Leituras - Zhan Zhuang, Linha do Hara e Chong Mai](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/TSH%20-%20Eixo%20em%20Tr%C3%AAs%20Leituras%20-%20Zhan%20Zhuang,%20Linha%20do%20Hara%20e%20Chong%20Mai.md); [TSH - Criatividade, Intenção e Eu Básico - Cameron, Brennan e Long](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/TSH%20-%20Criatividade,%20Inten%C3%A7%C3%A3o%20e%20Eu%20B%C3%A1sico%20-%20Cameron,%20Brennan%20e%20Long.md).
 
@@ -766,6 +860,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 
 **Retomada e ponte:** Nomear a versão e o passo efetivamente ensinados de Pai Lin, Yang Jwing-Ming ou CEMETC. Chong Mai pode ser cartografia e a grande circulação, procedimento; se houver dois procedimentos, ensaiar a divisão. A espiral é imagem autoral.
 
+**Raízes autorais:** o eixo vertical como canal: o eixo como circulação. Fontes: palestra Qi Gong e MTC — Além das Fronteiras (fontes bibliográficas); [[Arquitetura Invisível]], cap. 2 (verticalização).
+
 **Recuperar:** [TSH - Chong Mai pequena e grande circulação - comparação das fontes Pai Lin e Além das Fronteiras](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/MTC%20e%20Qi%20Gong/TSH%20-%20Chong%20Mai%20pequena%20e%20grande%20circula%C3%A7%C3%A3o%20-%20compara%C3%A7%C3%A3o%20das%20fontes%20Pai%20Lin%20e%20Al%C3%A9m%20das%20Fronteiras.md); [TSH - Eixo em Três Leituras - Zhan Zhuang, Linha do Hara e Chong Mai](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/TSH%20-%20Eixo%20em%20Tr%C3%AAs%20Leituras%20-%20Zhan%20Zhuang,%20Linha%20do%20Hara%20e%20Chong%20Mai.md); [Corpo eixo meridianos bioeletricidade e experiência](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md).
 
 #### M6.8 — Tradução em espiral: mudanças e permanências
@@ -777,6 +873,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 
 **Retomada e ponte:** A comparação reúne postura, intenção, circulação e vida sem dar a uma prática autoridade sobre as demais.
 
+**Raízes autorais:** pêndulo e espiral: oscilação no presente, repetição transformada no tempo; a evolução como recordação de quem se é (Wilber, citado no workshop). Fontes: [[00 - Família de Mapas - Oscilação, Retorno e Equilíbrio Dinâmico|mapas aprovados de 29/07]]; [[Essência - Workshop vivencial|workshop Essência]].
+
 **Recuperar:** [Consciência desenvolvimento e integração da experiência](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Consci%C3%AAncia%20desenvolvimento%20e%20integra%C3%A7%C3%A3o%20da%20experi%C3%AAncia.md); [Registro Mestre de Formulações Estruturantes](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Registro%20Mestre%20de%20Formula%C3%A7%C3%B5es%20Estruturantes.md); [Rohden - Assimilação Centro e Vida Cotidiana](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/MTC%20e%20Qi%20Gong/07%20-%20Rohden%20-%20Assimila%C3%A7%C3%A3o%20Centro%20e%20Vida%20Cotidiana.md).
 
 #### M6.9 — Escolhas e ações nas condições reais da vida
@@ -787,6 +885,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 **O que observar:** Formula um próximo movimento que cabe na vida e reconhece o que não controla.
 
 **Retomada e ponte:** Prepara a conversa, o limite ou a reparação do M7; criação e contribuição também entram como destinos.
+
+**Raízes autorais:** aprender a habitar; "vive-se muito, mas habita-se pouco a própria vida". Fontes: [[Pacote Inicial - Constituição, Camadas e Manual SOS|pacote fundador]]; [[Arquitetura Invisível]], cap. 1.
 
 **Recuperar:** [Corpo eixo meridianos bioeletricidade e experiência](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md); [Compaixão e Empatia - Destinos nas Aulas e Materiais](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Compaix%C3%A3o%20Empatia%20e%20Rela%C3%A7%C3%A3o/02%20-%20Compaix%C3%A3o%20e%20Empatia%20-%20Destinos%20nas%20Aulas%20e%20Materiais.md); [TSH - Criatividade, Intenção e Eu Básico - Cameron, Brennan e Long](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/TSH%20-%20Criatividade,%20Inten%C3%A7%C3%A3o%20e%20Eu%20B%C3%A1sico%20-%20Cameron,%20Brennan%20e%20Long.md).
 
@@ -801,6 +901,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 
 **Retomada e ponte:** A expressão começa em M5.6 e agora encontra um interlocutor real.
 
+**Raízes autorais:** o eixo reconhecido na relação: "sustentado inicialmente na relação, torna-se progressivamente acessível"; a cura pelo vínculo. Fontes: [[Arquitetura Invisível]], cap. 1; [[ABBSP - março 26 DEFINITIVO|ABBSP]].
+
 **Recuperar:** [TSH - Eixo em Três Leituras - Zhan Zhuang, Linha do Hara e Chong Mai](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/TSH%20-%20Eixo%20em%20Tr%C3%AAs%20Leituras%20-%20Zhan%20Zhuang,%20Linha%20do%20Hara%20e%20Chong%20Mai.md); [Naranjo - Consulta e Destinos nas Aulas](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/00%20-%20Naranjo%20-%20Consulta%20e%20Destinos%20nas%20Aulas.md); [Rohden - Assimilação Centro e Vida Cotidiana](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/MTC%20e%20Qi%20Gong/07%20-%20Rohden%20-%20Assimila%C3%A7%C3%A3o%20Centro%20e%20Vida%20Cotidiana.md).
 
 #### M7.2 — Comunicar o vivido e formular pedidos
@@ -811,6 +913,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 **O que observar:** Diferencia descrever o vivido de atribuir intenção e admite revisão.
 
 **Retomada e ponte:** Retoma M2.5 e M4.3; prepara escuta recíproca em M7.3.
+
+**Raízes autorais:** expressão autêntica como copa da árvore. Fontes: Árvore do EIXO em [[00 - Índice dos Mapas Conceituais|mapas de julho]]; [[GENESE-001 - A Árvore da Singularidade|Árvore da Singularidade]].
 
 **Recuperar:** [Tradução da Experiência Humana](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/20%20-%20Notas%20Conceituais/Tradu%C3%A7%C3%A3o%20da%20Experi%C3%AAncia%20Humana.md); [TSH - Sentir o outro dentro de nós - fontes e destinos](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/TSH%20-%20Sentir%20o%20outro%20dentro%20de%20n%C3%B3s%20-%20fontes%20e%20destinos.md).
 
@@ -823,6 +927,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 
 **Retomada e ponte:** Mentalização, Naranjo e TCC sustentam o gesto; estudo neural ilustra uma pergunta, não mede a dupla.
 
+**Raízes autorais:** o campo relacional como "operador silencioso"; sincronia interpessoal. Fontes: [[Arquitetura Invisível]], cap. 3; [[DELIBERALLI_TCC_SINCRONIA_NEURAL_ESTADOS_CONSCIENCIA_2026 (1)|TCC]].
+
 **Recuperar:** [Naranjo - Consulta e Destinos nas Aulas](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/00%20-%20Naranjo%20-%20Consulta%20e%20Destinos%20nas%20Aulas.md); [TSH - Sentir o outro dentro de nós - fontes e destinos](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/TSH%20-%20Sentir%20o%20outro%20dentro%20de%20n%C3%B3s%20-%20fontes%20e%20destinos.md); [DELIBERALLI_TCC_SINCRONIA_NEURAL_ESTADOS_CONSCIENCIA_2026 (1)](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/00%20-%20Caixa%20de%20Entrada/DELIBERALLI_TCC_SINCRONIA_NEURAL_ESTADOS_CONSCIENCIA_2026%20(1)/DELIBERALLI_TCC_SINCRONIA_NEURAL_ESTADOS_CONSCIENCIA_2026%20(1).md).
 
 #### M7.4 — Limites: pedir, negociar, recusar e encerrar
@@ -833,6 +939,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 **O que observar:** Distingue o que pode pedir, negociar, recusar, proteger ou encerrar.
 
 **Retomada e ponte:** Limitar não exige acalmar ou obter concordância; prepara pertencimento com diferença.
+
+**Raízes autorais:** fronteiras rígidas e permeáveis; ego como membrana que regula trocas. Fontes: [[ABBSP - março 26 DEFINITIVO|ABBSP]].
 
 **Recuperar:** [Compaixão e Empatia - Destinos nas Aulas e Materiais](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Compaix%C3%A3o%20Empatia%20e%20Rela%C3%A7%C3%A3o/02%20-%20Compaix%C3%A3o%20e%20Empatia%20-%20Destinos%20nas%20Aulas%20e%20Materiais.md); [Hipnose e Auto-Hipnose nos Módulos e Aulas do TSH - Plano de Incorporação](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Hipnose%20e%20Auto-Hipnose/05%20-%20Hipnose%20e%20Auto-Hipnose%20nos%20M%C3%B3dulos%20e%20Aulas%20do%20TSH%20-%20Plano%20de%20Incorpora%C3%A7%C3%A3o.md); [Corpo eixo meridianos bioeletricidade e experiência](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md).
 
@@ -845,6 +953,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 
 **Retomada e ponte:** Ammerman e NIP ampliam contexto; o campo inclui cultura, condições materiais e assimetrias.
 
+**Raízes autorais:** camadas transgeracionais e coletivas; "lesão transgeracional". Fontes: [[Essência - Workshop vivencial|workshop Essência]].
+
 **Recuperar:** [DELIBERALLI_TCC_SINCRONIA_NEURAL_ESTADOS_CONSCIENCIA_2026 (1)](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/00%20-%20Caixa%20de%20Entrada/DELIBERALLI_TCC_SINCRONIA_NEURAL_ESTADOS_CONSCIENCIA_2026%20(1)/DELIBERALLI_TCC_SINCRONIA_NEURAL_ESTADOS_CONSCIENCIA_2026%20(1).md); [TSH - Eixo em Três Leituras - Zhan Zhuang, Linha do Hara e Chong Mai](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/TSH%20-%20Eixo%20em%20Tr%C3%AAs%20Leituras%20-%20Zhan%20Zhuang,%20Linha%20do%20Hara%20e%20Chong%20Mai.md); [Deliberação Transversal - Pluralismo Epistemológico Não Redutivo e Integração Autoral](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/10%20-%20Governan%C3%A7a%20do%20Conhecimento/04%20-%20Delibera%C3%A7%C3%A3o%20Transversal%20-%20Pluralismo%20Epistemol%C3%B3gico%20N%C3%A3o%20Redutivo%20e%20Integra%C3%A7%C3%A3o%20Autoral.md).
 
 #### M7.6 — Contribuição, serviço e cuidado de si
@@ -855,6 +965,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 **O que observar:** Inclui oferecer, receber e cuidar de si, com um limite concreto.
 
 **Retomada e ponte:** Compaixão, Cameron e Naranjo levam criação à participação; M7.7 acompanha efeitos.
+
+**Raízes autorais:** contribuição, serviço e legado: o topo de todos os mapas. Fontes: Árvore do EIXO e Campo de Integração em [[00 - Índice dos Mapas Conceituais|mapas de julho]]; [[GENESE-001 - A Árvore da Singularidade|Árvore da Singularidade]].
 
 **Recuperar:** [Compaixão e Empatia - Destinos nas Aulas e Materiais](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Compaix%C3%A3o%20Empatia%20e%20Rela%C3%A7%C3%A3o/02%20-%20Compaix%C3%A3o%20e%20Empatia%20-%20Destinos%20nas%20Aulas%20e%20Materiais.md); [TSH - Criatividade, Intenção e Eu Básico - Cameron, Brennan e Long](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/TSH%20-%20Criatividade,%20Inten%C3%A7%C3%A3o%20e%20Eu%20B%C3%A1sico%20-%20Cameron,%20Brennan%20e%20Long.md); [Naranjo - Consulta e Destinos nas Aulas](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/00%20-%20Naranjo%20-%20Consulta%20e%20Destinos%20nas%20Aulas.md).
 
@@ -867,6 +979,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 
 **Retomada e ponte:** Prepara reparação concreta sem culpa totalizante nem obrigação de reconciliação.
 
+**Raízes autorais:** a consequência ética de uma arquitetura viva: quando o eixo implica responsabilidade. Fontes: [[Arquitetura Invisível]], cap. 4.
+
 **Recuperar:** [Compaixão e Empatia - Destinos nas Aulas e Materiais](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Compaix%C3%A3o%20Empatia%20e%20Rela%C3%A7%C3%A3o/02%20-%20Compaix%C3%A3o%20e%20Empatia%20-%20Destinos%20nas%20Aulas%20e%20Materiais.md); [DELIBERALLI_TCC_SINCRONIA_NEURAL_ESTADOS_CONSCIENCIA_2026 (1)](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/00%20-%20Caixa%20de%20Entrada/DELIBERALLI_TCC_SINCRONIA_NEURAL_ESTADOS_CONSCIENCIA_2026%20(1)/DELIBERALLI_TCC_SINCRONIA_NEURAL_ESTADOS_CONSCIENCIA_2026%20(1).md).
 
 #### M7.8 — Reparação e aprendizagem nas relações
@@ -877,6 +991,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 **O que observar:** Produz uma reparação ou um limite viável e um novo ponto de revisão.
 
 **Retomada e ponte:** Long entra como leitura espiritual da reparação; M8 leva o aprendido a uma situação nova.
+
+**Raízes autorais:** reparação como parte do retorno, não gesto moral isolado. Fontes: [[Registro Mestre de Formulações Estruturantes|Registro Mestre]]; [[Reparação como Indicador Transversal do EIXO]].
 
 **Recuperar:** [Mapa Funcional Transversal dos Três Eus](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/20%20-%20Notas%20Conceituais/Mapa%20Funcional%20Transversal%20dos%20Tr%C3%AAs%20Eus.md); [Compaixão e Empatia - Destinos nas Aulas e Materiais](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Compaix%C3%A3o%20Empatia%20e%20Rela%C3%A7%C3%A3o/02%20-%20Compaix%C3%A3o%20e%20Empatia%20-%20Destinos%20nas%20Aulas%20e%20Materiais.md); [Registro Mestre de Formulações Estruturantes](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Registro%20Mestre%20de%20Formula%C3%A7%C3%B5es%20Estruturantes.md).
 
@@ -891,6 +1007,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 
 **Retomada e ponte:** Shea–Morgan oferece exemplo de aprendizagem motora; o uso relacional é aproximação pedagógica.
 
+**Raízes autorais:** a Jornada Fenomenológica: perceber, traduzir, aprender a ler, habitar, estabilizar, encarnar. Fontes: [[Pacote Inicial - Constituição, Camadas e Manual SOS|pacote fundador]].
+
 **Recuperar:** [Consciência desenvolvimento e integração da experiência](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Consci%C3%AAncia%20desenvolvimento%20e%20integra%C3%A7%C3%A3o%20da%20experi%C3%AAncia.md); [Registro Mestre de Formulações Estruturantes](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Registro%20Mestre%20de%20Formula%C3%A7%C3%B5es%20Estruturantes.md); [TSH - Síntese Integrativa do Refinamento](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/TSH%20-%20S%C3%ADntese%20Integrativa%20do%20Refinamento.md).
 
 #### M8.2 — Repertório pessoal e plano de prática
@@ -902,6 +1020,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 
 **Retomada e ponte:** Retomar os cinco modos como ênfases combináveis; não introduzir novo movimento ou abreviação sem ensino.
 
+**Raízes autorais:** "do caos ao eixo, do eixo à expressão"; o repertório como caminho de volta ao centro. Fontes: Árvore do EIXO em [[00 - Índice dos Mapas Conceituais|mapas de julho]].
+
 **Recuperar:** [Hipnose e Auto-Hipnose nos Módulos e Aulas do TSH - Plano de Incorporação](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Hipnose%20e%20Auto-Hipnose/05%20-%20Hipnose%20e%20Auto-Hipnose%20nos%20M%C3%B3dulos%20e%20Aulas%20do%20TSH%20-%20Plano%20de%20Incorpora%C3%A7%C3%A3o.md); [Compaixão e Empatia - Destinos nas Aulas e Materiais](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Compaix%C3%A3o%20Empatia%20e%20Rela%C3%A7%C3%A3o/02%20-%20Compaix%C3%A3o%20e%20Empatia%20-%20Destinos%20nas%20Aulas%20e%20Materiais.md); [Corpo eixo meridianos bioeletricidade e experiência](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/90%20-%20Sistema/Pesquisa%20e%20Editorial/S%C3%ADnteses%20Transversais/Corpo%20eixo%20meridianos%20bioeletricidade%20e%20experi%C3%AAncia.md).
 
 #### M8.3 — Continuidade: estudo, cultivo e apoios
@@ -912,6 +1032,8 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 **O que observar:** Decide como prosseguir, inclusive fora da comunidade, com uma pergunta de continuidade.
 
 **Retomada e ponte:** O encontro de encerramento consolida e recolhe feedback; não cria um décimo módulo.
+
+**Raízes autorais:** "o ganho de lucidez é a principal proposta existencial"; continuidade do retorno à Essência. Fontes: [[Essência - Workshop vivencial|workshop Essência]]; [[Pacote Inicial - Constituição, Camadas e Manual SOS|pacote fundador]] (Retorno à Essência).
 
 **Recuperar:** [Raio-X-Fabiano Deliberalli - Texto para consulta](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/10%20-%20Raio%20X%20do%20Produto/Vigente/Raio-X-Fabiano%20Deliberalli%20-%20Texto%20para%20consulta.md); [Rohden - Assimilação Centro e Vida Cotidiana](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/MTC%20e%20Qi%20Gong/07%20-%20Rohden%20-%20Assimila%C3%A7%C3%A3o%20Centro%20e%20Vida%20Cotidiana.md); [Naranjo - Consulta e Destinos nas Aulas](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Medita%C3%A7%C3%A3o%20Psicoterapia%20e%20M%C3%BAsica/00%20-%20Naranjo%20-%20Consulta%20e%20Destinos%20nas%20Aulas.md).
 

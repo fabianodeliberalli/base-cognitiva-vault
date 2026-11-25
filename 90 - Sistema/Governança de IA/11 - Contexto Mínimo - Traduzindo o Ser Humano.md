@@ -2,7 +2,7 @@
 tipo: contexto-minimo-de-projeto
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.71"
+versao: "0.72"
 atualizado_em: 2026-11-24
 autoridade_final: Fabiano Deliberalli
 ---
@@ -17,7 +17,7 @@ A Tradução torna a experiência legível e participa do reconhecimento, integr
 
 Percepção, diferenciação e participação atravessam o curso. **Sentir amplia a compreensão; compreender refina o sentir.** Ainda não reconhecer, compreender sem conseguir realizar e precisar aprender uma capacidade pedem trabalhos diferentes. Espiritualidade é explícita, afirmativa, plural e não dogmática; Essência preserva seu sentido espiritual. Ciência, tradição e elaboração autoral dialogam com alcances próprios, sem identidade presumida nem promessas de cura ou transformação automática. A dimensão espiritual permanece explícita em cada módulo; isso não obriga todas as disciplinas em cada aula.
 
-**eixo** é recurso didático, assim como árvore, pêndulo, espiral e espelho. Não restaurar “Método EIXO” como marca. Retorno com aquisição implica aprendizado incorporado, sem garantir progresso a cada retomada. Doze semanas foi uma estimativa provisória histórica. Nenhuma inteligência artificial pode declarar uma proposta própria como final ou imutável; usar o Registro Mestre como acervo histórico consultivo, em diálogo com a decisão autoral e as notas-mãe atuais.
+**Decisão de Fabiano, 24/11/2026:** o eixo é conceito central e base do TSH, não marca; “Método EIXO” não volta como nome de produto. A Essência soterrada por camadas e o caminho de volta são fio explícito de M0 a M8. Antes de pesquisar autores para qualquer aula, ler a [[11b - Raízes Autorais do TSH - Folha de Consulta|folha de raízes autorais]] e a linha de raízes da aula no dossiê. Retorno com aquisição implica aprendizado incorporado, sem garantir progresso a cada retomada. Doze semanas foi uma estimativa provisória histórica. Nenhuma inteligência artificial pode declarar uma proposta própria como final ou imutável; usar o Registro Mestre como acervo histórico consultivo, em diálogo com a decisão autoral e as notas-mãe atuais.
 
 ## Correção do ciclo de produção — 24/11/2026
 

@@ -1,5 +1,5 @@
 ---
-tipo: nota-de-recurso-didatico
+tipo: nota-conceitual
 id: conceito-2026-0003
 status: referencia-atual-revisavel
 natureza_epistemologica: decisao-autoral-sobre-recurso-didatico
@@ -9,11 +9,25 @@ temas: [eixo, recursos-didaticos, orientação, retorno]
 relacoes: ["[[Tradução da Experiência Humana]]", "[[Transformação e Integração]]"]
 validado_por_fabiano: true
 data_validacao: 2026-11-01
-atualizado_em: 2026-11-01
+atualizado_em: 2026-11-24
 protegida: false
 ---
 
-# Eixo como recurso didático
+# Eixo — conceito central do TSH
+
+## Decisão de Fabiano em 24/11/2026
+
+> "eixo volta como conceito central, ainda que não como marca, pois sempre foi e continua sendo a base do TSH!"
+
+O eixo é conceito central e base do Traduzindo o Ser Humano. Não é marca, produto nem método comercial: a expressão **Método EIXO** continua registrando uma etapa anterior do nome. O conteúdo elaborado sob esse nome (o eixo perdido e reencontrado, a recursividade com a Tradução, as seis fases, os quatro movimentos, a distinção entre Essência, eixo e estado) volta a orientar a produção. Árvore, pêndulo, espiral e espelho continuam como imagens que ajudam a ver o eixo.
+
+As formulações de Fabiano sobre o eixo e a Essência estão reunidas em [[11b - Raízes Autorais do TSH - Folha de Consulta]].
+
+## Decisão anterior, de 01/11/2026 (substituída em 24/11/2026)
+
+O texto abaixo registra o estatuto que o eixo teve entre 01/11 e 24/11/2026. Ficou preservado como histórico.
+
+### Eixo como recurso didático
 
 No TSH, o eixo é um recurso didático usado quando ajuda a observar referência, deslocamento, orientação ou retorno em uma experiência. Ocupa o mesmo estatuto pedagógico da árvore, do pêndulo, da espiral, da escada, do artesão, do espelho e de outras imagens ou mapas.
 
@@ -55,7 +69,7 @@ Essas rotas organizam pontos de entrada, mas não esgotam o acervo. Para recuper
 
 # Registro histórico da formulação anterior
 
-O conteúdo abaixo preserva a hipótese desenvolvida em julho e refinada em outubro de 2026. Ele não define o uso atual do eixo e não deve ser recuperado como estrutura governante do TSH.
+O conteúdo abaixo preserva a hipótese desenvolvida em julho e refinada em outubro de 2026. Desde 24/11/2026, por decisão de Fabiano, volta a ser fonte de consulta para a produção, como elaboração do conceito central; o nome "Método EIXO" não volta como marca.
 
 ## Formulação registrada naquela etapa
 

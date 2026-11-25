@@ -2,7 +2,7 @@
 tipo: padrao-de-producao
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "2.17"
+versao: "2.18"
 criado_em: 2026-11-02
 atualizado_em: 2026-11-24
 autoridade_final: Fabiano Deliberalli
@@ -32,6 +32,8 @@ Confrontar cada retomada com a contribuição anterior. M2.2 e M2.3 não precisa
 
 ### Raiz autoral antes da adaptação didática
 
+Começar pela [[11b - Raízes Autorais do TSH - Folha de Consulta|folha de raízes autorais]] e pela linha "Raízes autorais" da aula no dossiê. Eixo e Essência soterrada por camadas atravessam todas as aulas.
+
 Fabiano indicou em 24/11 que não se reconhece em parte dos slides e encontra instruções genéricas no lugar de conteúdo para exposição. O acervo já possui pensamento e repertório suficientes; acumular novas pesquisas ou instruções não resolve essa transmissão. A construção começa por recuperar a perspectiva do TSH pertinente à questão: o argumento e sua finalidade, formulações, imagens, elaborações e contribuições experienciais. As referências externas aprofundam, contrastam, fundamentam e ampliam essa construção; não apagam seu centro autoral. Uma fonte também pode abrir uma questão nova, articulada com o projeto, sem ser forçada a apenas confirmar o autor.
 
 Recuperar mais do que frases isoladas. Distinguir trecho literal, formulação registrada, paráfrase, hipótese do autor e proposta de assistente. Não atribuir à fala espontânea de Fabiano uma redação que só existe como reconstrução editorial. Preservar a naturalidade pela articulação do pensamento; expressões características sem conteúdo não restauram autoria. A metáfora também precisa conservar a relação que a tornou significativa, sem se tornar decoração ou história repetida.
@@ -59,7 +61,7 @@ A abertura torna clara a questão da aula, o aprendizado proposto e seu lugar no
 
 Exemplos continuam disponíveis, cotidianos, clínicos anonimizados, autorais ou provenientes de tradição/fonte identificada. Metáforas das Grandes Tradições e populares podem acrescentar relação ou profundidade. Contextualizar suficientemente o que é retomado e preservar a liberdade de imagens do aluno. Não inventar autobiografia, casos ou resultados. O instrumento de Fabiano é **shakuhachi**; o registro não autoriza inventar episódio instrumental.
 
-Árvore, campo, pêndulo, espiral, eixo, escada, artesão e espelho têm funções próprias. Uma figura não explica todo o TSH. Exercício aberto preserva escolha e expressão; não impor uma árvore ou outro mapa como interpretação da experiência pessoal. Quando o objetivo for ensinar um mapa, declarar essa função. Coerência entre slides, notas e apoio é de conceito e função; não requer repetir cada exemplo ou imagem em todos os suportes.
+Árvore, campo, pêndulo, espiral, escada, artesão e espelho têm funções próprias. Uma figura não explica todo o TSH. O eixo não é uma figura a mais: por decisão de Fabiano em 24/11/2026, é conceito central do TSH (não marca), e as imagens ajudam a vê-lo. Exercício aberto preserva escolha e expressão; não impor uma árvore ou outro mapa como interpretação da experiência pessoal. Quando o objetivo for ensinar um mapa, declarar essa função. Coerência entre slides, notas e apoio é de conceito e função; não requer repetir cada exemplo ou imagem em todos os suportes.
 
 ## 5. Slides, acervo e identidade visual
 
