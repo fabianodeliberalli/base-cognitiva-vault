@@ -23,7 +23,7 @@ A auditoria está em [[TSH - Raízes na produção - auditoria de M2 e destinaç
 
 ## Planejamento de 25/11/2026
 
-[[TSH - Planejamento livre das aulas M2-M8 e avaliação de M0-M1 - 25-11-2026]] propõe: manter as teorias gravadas de M2.1–M2.3 com uma ponte curta no início de cada uma; gravar M2.4 do zero; produzir M2.5 e M2.6 pelas raízes; liberar M2 em duas etapas (29/11 e 02/12), se Fabiano decidir assim. Inclui a avaliação de M0 e M1 publicados e o calendário de produção até M8.
+[[TSH - Planejamento livre das aulas M2-M8 e avaliação de M0-M1 - 25-11-2026]] propõe: manter as teorias gravadas de M2.1–M2.3 com uma ponte curta no início de cada uma; gravar M2.4 do zero; produzir M2.5 e M2.6 pelas raízes; liberar M2 em duas etapas (29/11 e 02/12), se Fabiano decidir assim. Inclui a avaliação de M0 e M1 publicados, a avaliação das fontes de práticas resgatadas (versão 2) e o calendário de produção até M8. Proposta para o encontro de 28/11: nomear o Zhan Zhuang (Wu Chi, árvore, fechamento) antes da respiração, se Fabiano decidir.
 
 ## Plano de compensação, sem regravar as teorias de M2.1–M2.3
 

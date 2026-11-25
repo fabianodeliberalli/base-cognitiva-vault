@@ -9,6 +9,8 @@ aliases:
   - Fio do eixo
 ---
 
+**Alcance (25/11/2026):** a decisão de Fabiano de 24/11/2026 substitui a frase abaixo sobre o estatuto do EIXO: o eixo é conceito central e base do TSH (não marca); pêndulo, árvore, espiral e espelho são imagens que ajudam a vê-lo. Ver [[11b - Raízes Autorais do TSH - Folha de Consulta]]. Na organização de 59 aulas, os destinos das três leituras são: Zhan Zhuang em M3.6 (e nomeado no encontro de 28/11); pequena circulação em M6.5; linha do Hara em M6.6; Chong Mai, grande circulação e as três leituras reunidas em M6.7; linha do grupo no encontro de 16/01. A tabela de distribuição abaixo usa uma numeração anterior. Planejamento atual: [[TSH - Planejamento livre das aulas M2-M8 e avaliação de M0-M1 - 25-11-2026]].
+
 ## Integração do percurso após a auditoria — versão de trabalho de 21/11/2026
 
 Na proposta integrada, M3.6 ensina postura e M3.7 a sequência em movimento; M6.5 ensina pequena circulação; M6.6 aprofunda Hara; M6.7 situa Chong Mai e ensina o passo selecionado de grande circulação; M6.8 acompanha integração temporal. A experiência breve de Hara ligada à escrita criativa pode aparecer antes, conforme já prevista em Cameron–Brennan–Long, com instrução suficiente. Separar versão, cartografia e procedimento: o conjunto de fontes comparadas não constitui sozinho uma técnica única. Se dois procedimentos independentes forem selecionados para M6.7, ensaiar a divisão necessária. A postura ou o alinhamento não medem desenvolvimento espiritual.
