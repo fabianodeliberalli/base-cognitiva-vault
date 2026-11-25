@@ -5,6 +5,10 @@ data: 2026-11-24
 versao: "4"
 ---
 
+## Leitura atual dos materiais entregues — 24/11/2026
+
+Este localizador conserva a entrega e sua conferência técnica. Posteriormente, Fabiano interrompeu a gravação de M2.4 por repetição/confusão e questionou sua contribuição prática. A revisão descrita abaixo não deve ser tomada como solução substantiva concluída. M2.4 e sua prática estão em revisão de finalidade/composição; a alternativa de quatro blocos não foi adotada. M2.5 continua reservado. Os materiais e suas fontes permanecem disponíveis; este registro não altera slides, ZIP, gravações ou Hotmart. [[00 - Estado e Continuidade da Produção M2]] é o estado atual.
+
 # Slides e roteiro separado — M2.2, M2.3 e M2.4
 
 [Download único dos slides PDF e roteiros Word/PDF](https://chatgpt.com/library?file_id=libfile_fde3_f-96cfa431494c81919a97bbaae7fbb349_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal). Arquivo TSH_M2_2_M2_3_M2_4_Slides_e_Roteiros_v4.zip, versão de arquivo 3. O endereço do conjunto anterior foi atualizado, conservando o histórico de versões.

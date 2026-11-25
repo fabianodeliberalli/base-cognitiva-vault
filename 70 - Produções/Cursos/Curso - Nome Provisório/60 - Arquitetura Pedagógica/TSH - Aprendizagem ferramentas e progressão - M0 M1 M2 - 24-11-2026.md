@@ -8,6 +8,12 @@ fontes_consultadas_ref: c16f49481cea61f1470ecd7862611f2cc666c6cf
 orientacao_autoral_24_11: ferramentas-e-experiencias-no-centro
 ---
 
+## Revisão do alcance deste parecer — 24/11/2026
+
+O relatório conserva a avaliação documental e as propostas produzidas naquela etapa. Sua constatação “Identificar a necessidade não é ensinar a capacidade” continua pertinente. Contudo, os juízos positivos sobre M2.4 e a recomendação de preservar sua composição foram contrariados pelo relato posterior de uso do autor: interrupção por repetição/confusão e dúvida substantiva sobre a contribuição prática. Não tratá-los como evidência de resolução, aprendizagem ou capacidade adquirida.
+
+[[00 - Estado e Continuidade da Produção M2]] localiza o diagnóstico atual e os materiais preservados. M2.4 está em revisão de finalidade/composição e da necessidade da prática existente; quatro blocos permanecem alternativa não adotada. Ferramentas ensinadas não podem ser substituídas por promessas de “acessar”, “experimentar” e “sustentar”. A revisão atual não declara regravação de M0/M1/M2 nem novo kit produzido. O restante do relatório permanece íntegro para consulta dirigida, sem necessidade de relê-lo integralmente em toda produção.
+
 # Traduzindo o Ser Humano
 ## Aprendizagem, progressão e construção das aulas
 

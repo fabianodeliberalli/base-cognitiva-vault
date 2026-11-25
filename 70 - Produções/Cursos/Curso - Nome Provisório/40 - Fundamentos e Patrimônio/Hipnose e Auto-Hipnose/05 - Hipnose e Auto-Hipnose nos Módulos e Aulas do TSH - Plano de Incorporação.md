@@ -1,7 +1,7 @@
 ---
 tipo: plano-de-incorporacao-curricular
 projeto: Traduzindo o Ser Humano
-status: plano-de-trabalho-para-os-roteiros
+status: plano-consultivo-com-destinos-revisaveis
 criado_em: 2026-11-18
 atualizado_em: 2026-11-19
 autor: Fabiano Deliberalli
@@ -10,6 +10,12 @@ aliases:
   - Indução em etapas
   - Auto-hipnose nos encontros ao vivo
 ---
+
+## Destinos e propostas: leitura atual — 24/11/2026
+
+O plano preserva fontes, repertório e propostas de incorporação. Datas, módulos, exercícios e cronogramas abaixo pertencem às etapas identificadas; não confirmam escolha atual, realização ou necessidade de vídeo novo. Recuperar a condução real e avaliar sua contribuição ao ensino. [[00 - Estado e Continuidade da Produção M2]] situa a revisão substantiva de M2.4; a técnica dessa aula não está selecionada por este plano.
+
+Fabiano criticou no processo de M2 a sequência elementar do dedo por inadequação à profundidade de seu trabalho. A proposta histórica “poder do dedo” abaixo não deve ser reinserida por inércia de recuperação. Isso não exclui por associação o acervo de hipnose, os sinais ideomotores, os dedos ou o pêndulo em trabalhos sofisticados e pertinentes. A distinção evita tanto repetir a adaptação criticada quanto criar um veto de conteúdo. As possibilidades preservadas são consultivas; não fornecem, por si, uma capacidade ensinada ou uma prática já decidida.
 
 ## Integração do percurso após a auditoria — versão de trabalho de 21/11/2026
 
@@ -178,4 +184,3 @@ Cuidados de condução, como em todo o curso: não praticar dirigindo; omitir ou
 - **Autoria:** citar sempre de quem é cada técnica. Fabiano: indução, poder do dedo, livros e balões, olhar, convincers. Gilda: ideomotor, pêndulo, luva, moeda e escrita automática.
 - **Trechos literais:** ficam nas transcrições, no computador de Fabiano (pastas das gravações do Zoom). Conferir com o áudio antes de citar.
 - **Ajustes de horário:** cada encontro tem uma hora de prática. Se as duas etapas mais a retomada passarem disso, a demonstração de abertura pode ir para a hora de dúvidas.
-

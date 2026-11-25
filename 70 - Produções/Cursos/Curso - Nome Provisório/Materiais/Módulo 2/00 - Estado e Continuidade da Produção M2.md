@@ -2,77 +2,59 @@
 tipo: continuidade-de-producao
 projeto: Traduzindo o Ser Humano
 modulo: M2
-status: producao-em-curso
+status: alinhamento-antes-da-producao
 atualizado_em: 2026-11-24
 arquitetura_atual: nove módulos e 59 aulas
 ---
 
 # Módulo 2 — Estado e continuidade da produção
 
+## Ponto atual: interromper o ciclo antes de produzir
 
-**Intervenções propostas — 24/11/2026:** [[TSH - Lapidação e aproveitamento das gravações - M0 M1 M2 - 24-11-2026]] indica aproveitar as teorias editadas, lapidar as práticas M2.2/M2.3, completar o ensino de acesso ao recurso em M2.4 e compor M2.5/M2.6 pela ferramenta e experiência. As fontes abaixo localizam a produção efetiva. [[TSH - Ordem de gravação e materiais - M2.2 a M2.4 - 24-11-2026]] localiza a reorganização efetiva das práticas M2.2/M2.3/M2.4 e a etapa anterior da teoria. [[TSH - Slides e roteiro separado - M2.2 M2.3 M2.4 - 24-11-2026]] é a entrega atual, com M2.4 reconstruída e roteiros separados.
+Fabiano solicitou alinhamento antes de outra produção. Relata desgaste elevado, repetição de correções, dificuldade de avançar na exposição e falta de convicção sobre o ganho da prática de M2.4. A teoria atual de M2.4 foi iniciada e interrompida por notas/relações repetitivas e confusas. **M2.4 está em revisão substantiva de finalidade e composição**, incluindo a contribuição real da prática existente. Não tratar a versão atual como exemplo de correção concluída. **A alternativa de quatro blocos não foi adotada. M2.5 continua reservado.**
 
-## Forma de trabalho
+O pedido não é mais uma mudança isolada de formato, exemplos ou redação. É produzir uma progressão objetiva e multidimensional, com ferramentas que ensinem capacidades, em vez de prolongar observar/interpretar/comparar/registrar. Não criar agora novo kit, vídeo corretivo ou prática para responder ao diagnóstico. As gravações e fontes existentes permanecem recuperáveis; não há determinação de regravação global.
 
-Formato adotado por Fabiano em 24/11/2026 para esta produção: slides como apoio visual e roteiro separado com briefing, frases curtas e direção das ideias por slide. A fala continua livre. O roteiro breve também foi reposto nas notas de todos os slides, por pedido posterior do autor. O desenvolvimento profundo é preservado como fonte e não é duplicado integralmente nas notas. Reapresentar mapas e conceitos antes de seu uso, com explicação suficiente para a tarefa. Nas práticas, conservar operações, registros, pausas e encerramento antes da elaboração. [[TSH - Slides e roteiro separado - M2.2 M2.3 M2.4 - 24-11-2026]] mostra a aplicação e o [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] v2.15 orienta a continuidade. As fontes anteriores conservam a genealogia.
+## Diagnóstico conferido e correções de entrada
 
-Os registros de produção acompanham versões, arquivos, alterações e trabalho restante. Omitir campos, pendências e lembretes de aprovação para gravação.
+Conferência documental na main `0b958002512ea6e2b0b83568aa6f20be94bc2189`, somada ao relato de uso de Fabiano neste chat. Não é uma nova medição da aprendizagem dos alunos nem uma nova avaliação audiovisual de todas as gravações.
 
-## Fontes e suportes atuais
-
-| Aula | Ponto atual de recuperação |
+| Evidência | Consequência para a produção |
 | --- | --- |
-| M2.1 | [[M2.1 - Trilha de exposição v0.8]] e [[M2.1 - Apresentação editável v0.8]]: 20 telas; sequência nativa 14; guia Word/PDF de 21 páginas, versão 3; apoio Word/PDF de quatro páginas, versão 5. O apoio versão 4 permanece como exemplar preservado. [[M2.1 - Edição da gravação v1]]: vídeo editado de 34min43s, original preservado. |
-| M2.2 | Teoria editada de 28min13s preservada. [[M2.2 - Prática guiada v4]]: 9 telas/seq.10, roteiro separado de três páginas; mapa retomado antes da demonstração. |
-| M2.3 | Teoria editada de 24min55s preservada. [[M2.3 - Prática guiada v4]]: 13 telas/seq.8, roteiro separado de quatro páginas; mapa retomado antes da demonstração. |
-| M2.4 | [[M2.4 - Produção em duas partes v4]]: teoria v3 com 25 telas/seq.10 e roteiro de oito páginas; prática v4 com 14 telas/seq.7 e roteiro de quatro. Slides com roteiro separado. |
-| M2.5–M2.6 e M3–M8 | M2.5 reservado por determinação do autor, com rascunhos preservados no localizador atual. M2.6 e demais módulos continuam a compor no percurso do dossiê. |
+| A ficha chamada mínima tinha 20.729 bytes e o padrão tinha aproximadamente 83 KB. Orientações novas conviviam com instruções anteriores, inclusive quatro campos ainda exigidos no processo após serem qualificados como históricos. | As duas entradas foram consolidadas no mesmo caminho; as versões integrais seguem no Git. Históricos não são instruções concorrentes. |
+| A pasta M2 tinha 236 arquivos: fontes, scripts, recursos e versões. A ficha ainda mencionava 8/12/14 telas, enquanto as práticas atuais têm 9/13/14 e a teoria M2.4 tem 25. | Quantidade de arquivos não prova causa, mas exige localizador inequívoco. Este estado identifica artefatos e separa existência de qualidade/pertinência. |
+| O relatório anterior afirmava “Identificar a necessidade não é ensinar a capacidade”, mas descrevia M2.4 como aprofundada/coerente e a preservar. O uso posterior expôs dificuldades. | O parecer documental positivo não encerra a revisão. Recebeu nota de leitura atual, assim como o dossiê e os localizadores. |
+| M2.2–M2.4 repetem situação pessoal, antes/depois e registro, apesar de finalidades distintas. M2.4 teoria retoma o mesmo caso por vários autores e apresenta o percurso da prática só na tela 23 de 25. | Conferir o acréscimo efetivamente ensinado. Não chamar outra observação/registro de capacidade desenvolvida nem multiplicar fundamentos para reiterar a mesma tese. |
+| “Acessar”, “experimentar” e “sustentar” aparecem como direções sem sempre especificar o que se aprende a realizar. | Nomear e ensinar a operação, seu alcance e continuidade; distinguir estado favorável, habilidade a aprender e condições relacionais/materiais. |
+| A aceitação de exemplos genéricos virou sustentação recorrente por mensagens/prazo/dança. | Exemplos continuam disponíveis por contribuição localizada; não são a estrutura automática de aula nem exigem nova cena do autor a cada passo. |
 
-## Aprendizado da gravação M2.1 — 22/11/2026
+Há conteúdo substantivo disponível: formulação de retorno com aquisição e competência incorporada; cultivo corporal/energético com conduções; meditação, música, afetividade e relação; hipnose/auto-hipnose e mapas autorais. Essas rotas oferecem possibilidades, não uma técnica já selecionada para M2.4. Consultar passagens e conduções reais pela aquisição necessária, em vez de retornar apenas ao dossiê e a sínteses geradas.
 
-Fabiano explicou que notas confusas e repetidas contribuíram para preenchimentos e mistura de apresentação/realização. O padrão atual corrige momentos e consulta rápida; versões históricas e [[M2.1 - Edição da gravação v1]] conservam o diagnóstico. M2.2 v0.5 aplicou a primeira revisão em 20 notas, com antecipação adaptativa e momentos distintos; a prática v2 posterior está na tabela.
+## Materiais efetivos preservados
 
-## Edição da gravação M2.1 — 22/11/2026
+| Aula | Artefato e estado conferível |
+| --- | --- |
+| M2.1 | [[M2.1 - Trilha de exposição v0.8]] e [[M2.1 - Apresentação editável v0.8]]: 20 telas; sequência nativa 14. Guia Word/PDF 21 páginas, versão 3; apoio quatro páginas, versão 5; exemplar do apoio versão 4 preservado. [[M2.1 - Edição da gravação v1]]: editado 34min43s, original preservado. |
+| M2.2 | Teoria editada 28min13s preservada. [[M2.2 - Prática guiada v4]]: 9 telas/seq.10, roteiro separado três páginas e notas em todos os slides; mapa antes da demonstração. |
+| M2.3 | Teoria editada 24min55s preservada. [[M2.3 - Prática guiada v4]]: 13 telas/seq.8, roteiro separado quatro páginas e notas em todos os slides; mapa antes da demonstração. |
+| M2.4 | [[M2.4 - Produção em duas partes v4]]: teoria v3, 25 telas/seq.10, roteiro oito páginas; prática v4, 14 telas/seq.7, roteiro quatro páginas. Notas presentes. A existência desses suportes não resolve a crítica atual de finalidade, repetição e ganho prático. |
+| M2.5 | Reservado por determinação do autor; rascunhos preservados em [[TSH - Slides e roteiro separado - M2.2 M2.3 M2.4 - 24-11-2026]]. Não retomar sua produção automaticamente. |
+| M2.6 e M3–M8 | Orientação no dossiê; composição não declarada concluída por este registro. |
 
-[[M2.1 - Edição da gravação v1]] localiza a cópia editada, o original, os cortes e o parecer editorial. Duração de 37min56s para 34min43s; retiradas operação, antecipação duplicada da prática, reexplicação no meio da realização e reinícios. Tela preta do fechamento recomposta sob a câmera original; voz e conteúdo central preservados. Recomendação do assistente: aproveitar a edição, sem regravar integralmente; somente o bloco prático seria opção de outro acabamento. As fontes dos slides gravados v0.8 permanecem.
+[[TSH - Slides e roteiro separado - M2.2 M2.3 M2.4 - 24-11-2026]] conserva links, pacote e fontes. Estimativas anteriores de duração são planejamento, não gravações medidas. M0/M1 publicados permanecem; não inferir novas alterações Hotmart ou aulas produzidas deste diagnóstico.
 
-## Condução de M2.2 e próxima produção — 24/11/2026
+## Forma solicitada, sem repetição dos formatos históricos
 
-[[M2.2 - Prática guiada v2]] atualiza apresentação, guia e apoio juntos, preservando a teoria editada. A realização mantém Antes das perguntas / Resolver / Possibilidade, com formas vividas e conferência da situação. Encerra antes da elaboração e orienta uma ação com ocasião e retorno. O artesão é recuperado da teoria, com a família visual e notas consultáveis. As fontes completas e o ZIP estão no localizador. A v1 conserva o diagnóstico da gravação anterior e sua fonte de dez telas.
+Slides visuais de apoio, notas presentes em todos os slides e roteiro separado breve, uma frase por linha. Preservar relações necessárias, liberdade de exposição, avisos precisos de realização/pausa/encerramento e retomada suficiente de mapas antes de operar com eles. Enxugar redundância preservando conteúdo. A mudança de suporte não substitui a revisão da aprendizagem. Aplicar [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] e a ficha mínima; não acrescentar mais um relatório de conformidade.
 
-Ordem aceita na conversa: M2.2 prática; M2.3 prática; ajustes localizados M2.1; M2.4 duas partes; M2.5; M2.6; M1.6 prática; demais ajustes M0/M1; M3 em diante. A ordem de produção não renumera o percurso do aluno. Não há nova gravação ou publicação nesta entrega.
+Exemplos e metáforas são opcionais por função; acervo visual primeiro. Apoio do aluno autônomo, referências completas opcionais, sem bastidores ou personagem. Cartografia: **Situação / Manifestação / Tradução provisória / Orientação possível**. Não torná-la a prática de toda aula. Manter identidade M0/M1 e fontes profundas recuperáveis. Registros acompanham materiais e trabalho; omitir campos, pendências e lembretes de aprovação para gravação.
 
-## Aprendizado da gravação M2.3 — 22/11/2026
+## Próximo ponto de trabalho
 
-A gravação recebida tem 29min47s e para durante a condução. As 24 notas do anexo correspondem à v0.3 atual: o problema permaneceu no apoio revisado. Referência a “primeiro registro” sem distinguir conclusão/vivido, duas tarefas na mesma tela e retorno à explicação do mapa e ao exemplo da proposta interromperam a investigação pessoal. [[M2.3 - Avaliação da gravação e edição parte 1 v1]] documenta os trechos e o aproveitamento da teoria. [[M2.3 - Prática guiada v1]] aplicou a primeira correção em 14 telas: mesma situação; registros nomeados e produzidos antes da comparação; presença e retomada em passos próprios; comparação da conclusão separada do vivido; encerramento antes da elaboração. Notas e guia correspondem. A reestruturação posterior de M2.4 está localizada na tabela e na seção abaixo.
+Antes de produzir M2.4, tornar breve e concreto seu acréscimo em relação a M2.3: o que será ensinado a realizar, qual conteúdo e recurso efetivo sustentam esse ensino e se cabe prática autônoma. Isso é trabalho de composição do assistente com o acervo, sem solicitar a Fabiano que reexplique o TSH ou preencha matriz. Se um termo ainda exigir tradução em operação, desenvolvê-lo antes das telas. Escolha autoral ainda não tomada permanece como proposta, inclusive os quatro blocos. [[01 - Plano de produção das seis aulas M2]] situa as seis posições sem presumir essas escolhas.
 
-## Reorganização para gravação — 24/11/2026
+## Fontes de diagnóstico e resgate
 
-[[TSH - Ordem de gravação e materiais - M2.2 a M2.4 - 24-11-2026]] aplica o pedido de reduzir trabalho de gravação: práticas de 8/12/14 telas, com menos fala repetida e operações preservadas; teoria M2.4 de 21 telas mantida. M2.4 ensina localizar e aproximar uma referência de recurso e retomar o repertório conhecido de M1.3 quando pertinente. Guias/apoio correspondem. Estimativas de vídeo: 6–8 / 8–10 / 12–15 min para as práticas; não são medições. M2.1 continua aproveitável na edição de 34min43s, sem nova gravação criada nesta entrega. V2 conserva a etapa anterior.
+[[TSH - Aprendizagem ferramentas e progressão - M0 M1 M2 - 24-11-2026]] e [[TSH - Lapidação e aproveitamento das gravações - M0 M1 M2 - 24-11-2026]] contêm análises e propostas anteriores; não comprovam aplicação nem ganhos. [[Anexos M2 - Conteúdos imagens e destinos de resgate]] conserva quatro PowerPoints, 255 lâminas e duas imagens de Milgram; [[Claustro - Atenção, integração e estados de consciência no TSH]] situa seu resgate sem inserção automática.
 
-## Revisão histórica das notas M2.3 e M2.4 — 22/11/2026
-
-As revisões v0.3 aplicam o aprendizado da gravação: objetividade com fundamentos preservados, uma frase completa por linha e espaço entre blocos. M2.3 distingue apresentação na tela 16, realização em 17–21, comparação/conclusão em 21 e elaboração em 22. M2.4 distingue apresentação/preparação em 17–18, realização em 19–24, comparação/conclusão em 24 e elaboração em 25. Conferidos os textos salvos e todas as telas; imagens, diagramas e quantidades preservados. A ampliação adaptativa da antecipação aparece em M2.3/6 e M2.4/8. Nessa entrega histórica, guias e kits anteriores não foram refeitos. As fontes atuais estão na tabela; as revisões em duas partes sucedem essa etapa.
-
-## Correção de profundidade aplicada — 23/11/2026
-
-Fabiano reiterou o padrão de simplificação desde o início do chat. A revisão anterior melhorou a condução e os suportes, mas resumiu articulações substantivas; “profundidade preservada” excedeu a evidência. A base autoral v1.6 e o padrão v2.12 corrigem essa prioridade. [[M2.4 - Produção em duas partes v2]] desenvolve Cozolino, memória/corpo/relação na formação do presente, aval da impressão com Kahneman e aprendizagem incorporada; distingue os dois tempos do TSH de uma cronologia neural fixa. Relaciona recurso, comparação e cultivo à fundamentação e atualiza notas, guias e apoio. A condução da prática é preservada; sua elaboração é ampliada. Isso não declara M2.1–M2.3 ou outras aulas refeitas. A arquitetura continua nove módulos e 59 aulas.
-
-## Progressão efetiva
-
-M2.1 constitui a experiência corporificada e relacional, expressão e retorno. M2.2 desenvolve relevância, forma e elaboração, os dois tempos da Tradução e a relação funcional Eu Básico/Eu Médio. M2.3 v0.2 explicita como forma e elaboração adquirem convicção; confirmação, Festinger, absorção e Erickson ajudam a investigar a leitura e a comparar o que mudou na conclusão e no vivido. M2.4 v0.2 parte dessa diferença: uma compreensão nova pode coexistir com a organização conhecida do encontro.
-
-A reconstrução de M2.4 desenvolve configuração corporal/afetiva/simbólica e relacional; Bion na elaboração emocional; Morin na circularidade entre antecipação, gesto, relação e efeitos; Cozolino/Kahneman na aprendizagem e disponibilidade; função da resposta e possibilidades de expressão. Milgram contribui com autoridade e condições concretas. A metáfora da escada, pêndulo e espiral recuperam o patrimônio visual. Os quatro passos oriundos da formação de hipnose organizam reconhecimento, retorno, recurso vivido e reencontro; comparação, elaboração, fechamento e encontro real dão continuidade. Forghieri fundamenta a relação entre envolvimento e reflexão. O ensaio não é apresentado como demonstração de reconsolidação. M2.5 distinguirá acontecimento, experiência, sentido, interpretação e hipótese de origem; M2.6 realizará a revisão recursiva.
-
-## Continuidade de linguagem e composição
-
-Exemplos genéricos recebem contexto a cada retomada e ampliam uma relação, sem personagem nomeada. Notas não trazem bibliografia completa ou bastidores acadêmicos; o aprofundamento opcional do aluno conserva as fontes. Apoio autônomo, dirigido a quem aprende, sem biografia do professor. Imagens e metáforas entram pela função, sem enquadrar toda experiência. Mapas existentes podem ser apresentados por níveis ou adaptados fielmente, ligados aos originais e às notas-mãe. Manter a família visual M0/M1: azul/petróleo, cobre/bege, EB Garamond/Inter, marca e espaço da câmera. A Cartografia permanece **Situação / Manifestação / Tradução provisória / Orientação possível**.
-
-## Recuperação de anexos e diagnóstico
-
-[[Anexos M2 - Conteúdos imagens e destinos de resgate]] localiza quatro PowerPoints, 255 lâminas, duas imagens de Milgram, originais, textos e mídias. [[Claustro - Atenção, integração e estados de consciência no TSH]] oferece destino específico; não introduzir esse conteúdo automaticamente em M2.4. [[M2.4 - Prévia de conteúdo e contribuições v0.1]] conserva a seleção e sua aplicação posterior. [[TSH - Revisão de Profundidade e Percurso - 22-11-2026]] preserva a comparação progressiva e a resposta aplicada.
-
-O desvio anterior foi de seleção e articulação do assistente diante de fontes densas. Consultar títulos e montar uma cadeia genérica não satisfaz a produção. Ler passagens pertinentes e aulas anteriores reais; desenvolver raciocínio e investigação antes da montagem; conferir a contribuição concreta nos suportes finais. A inspeção visual e a correspondência de arquivos têm alcance técnico e não medem aprendizagem. O Site não é a frente solicitada. Manter a entrega conjunta em um ZIP para evitar vários downloads.
-
-
-
+O [estado integral anterior à consolidação](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/0b958002512ea6e2b0b83568aa6f20be94bc2189/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Materiais/M%C3%B3dulo%202/00%20-%20Estado%20e%20Continuidade%20da%20Produ%C3%A7%C3%A3o%20M2.md) permanece no Git, assim como fontes, notas e apresentações. Nenhum material foi apagado ou regravado nesta intervenção. O Site não é a frente solicitada.
