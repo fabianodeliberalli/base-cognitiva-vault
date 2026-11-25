@@ -43,6 +43,8 @@ Onde aprofundar: [[Arquitetura Invisível]], partes I e II; [[EIXO Integrador]];
 
 Árvore, pêndulo, espiral e espelho continuam imagens didáticas. O eixo é o que elas ajudam a ver.
 
+**O eixo já foi ensinado no corpo.** As aulas abertas do M0, publicadas, ensinam eixo, apoio e os três ajustes; a postura da árvore, o Tan Tien inferior e Yongquan; o eixo no cotidiano; Sustentar o Céu; o Sorriso Interior. A aula prática de 14/11 já propunha a sequência primeiro sinal, apoio, resposta possível. As aulas seguintes retomam esse apoio pelo nome, em vez de inventar outro recurso.
+
 ### A Essência soterrada por camadas e o caminho de volta
 
 Existe uma Essência presente desde o início da vida. Ela vai sendo coberta por camadas: história pessoal, família e transgeracionalidade, cultura, traumas, crenças, padrões de proteção, corpos. O percurso é reconhecer essas camadas, recuperar contato com a Essência, habitá-la e expressá-la.
@@ -53,6 +55,8 @@ Existe uma Essência presente desde o início da vida. Ela vai sendo coberta por
 - "Todos nós nascemos com um potencial único. A vida acontece e nos afastamos do nosso centro. O caminho de volta é lembrar, integrar e expressar quem realmente somos." (mapa O Caminho da Semente)
 - "A Essência é o destino. O EIXO é o caminho." (idem)
 - "Vive-se muito, mas habita-se pouco a própria vida." (*Arquitetura Invisível*, cap. 1)
+
+O mapa O Caminho da Semente nomeia essas camadas na coluna "O que nos afasta do centro": padrões automáticos ("Repetimos sem perceber porque aprendemos a sobreviver."), feridas e traumas, defesas e máscaras ("Estruturas que criamos para nos proteger, mas que nos afastam de quem somos."), desconexão corpo-mente, sobrecarga e caos, condicionamentos. No mesmo mapa: "O eixo é a capacidade de permanecer conectado consigo mesmo, mesmo em meio ao caos."
 
 As camadas não são só lesão: muitas foram proteção necessária. O TSH as reconhece pela função que tiveram e pelo custo que têm hoje, sem culpabilizar.
 
@@ -89,6 +93,10 @@ As camadas não são só lesão: muitas foram proteção necessária. O TSH as r
 - "Ampliar o mundo sem perder o centro." ([[Ampliar o Mundo sem Perder o Centro]])
 - Sobre a espiritualidade: "Não fragmenta — integra. Não aliena — ancora. Não promete salvação — favorece presença." (*Arquitetura Invisível*, cap. 1)
 - "O ganho de lucidez é a principal proposta existencial que podemos ter, para nos trazer saúde nos vários sentidos, físico, mental, emocional e espiritual." (workshop Essência)
+
+## Destinação por aula
+
+A tabela de destinação dos materiais autorais para as próximas aulas e a auditoria de M2 estão em [[TSH - Raízes na produção - auditoria de M2 e destinação dos materiais autorais]].
 
 ## Fontes-raiz no repositório
 

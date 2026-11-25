@@ -2,7 +2,7 @@
 tipo: plano-de-producao
 projeto: Traduzindo o Ser Humano
 modulo: M2
-versao: "0.19"
+versao: "0.20"
 data: 2026-11-24
 status: revisao-substantiva
 arquitetura: nove-modulos-59-aulas
@@ -11,6 +11,8 @@ arquitetura: nove-modulos-59-aulas
 # Módulo 2 — Plano de produção das seis aulas
 
 ## Como usar este plano
+
+**Retomada de 24/11/2026:** M2 passa a ser reorganizado pelas raízes autorais, com o eixo e a Essência soterrada por camadas como fios. O plano de compensação e a proposta para M2.4 estão em [[TSH - Raízes na produção - auditoria de M2 e destinação dos materiais autorais]]; onde houver conflito com o texto abaixo, vale a auditoria.
 
 São seis posições na arquitetura validada de nove módulos e 59 aulas. As descrições situam conteúdo e relações; não comprovam aprendizagem nem impõem o mesmo exercício a todas as aulas. [[00 - Estado e Continuidade da Produção M2]] identifica os artefatos e a dificuldade atual de M2.4. Fontes, contagens e recomendações das etapas anteriores permanecem no [plano integral anterior à consolidação](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/0b958002512ea6e2b0b83568aa6f20be94bc2189/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Materiais/M%C3%B3dulo%202/01%20-%20Plano%20de%20produ%C3%A7%C3%A3o%20das%20seis%20aulas%20M2.md) e no dossiê. Não reativar a ordem anterior de gravações quando conflitar com a pausa de alinhamento solicitada por Fabiano.
 
@@ -32,6 +34,8 @@ A conferência pode modificar, confirmar ou deixar em aberto uma interpretação
 
 ## M2.4 — O que mantém a repetição de uma resposta?
 
+**Reorganização proposta em 24/11/2026:** abrir pela formulação de Fabiano ("somos vividos pelos padrões que carregamos"); o padrão como camada que protegeu; por que entender não desfaz; perder o eixo e voltar; a Essência como referência. Prática "Do primeiro sinal ao eixo", retomando o apoio ensinado nas aulas abertas do M0. Detalhes em [[TSH - Raízes na produção - auditoria de M2 e destinação dos materiais autorais]].
+
 **Revisão substantiva atual:** a versão de 25 telas foi iniciada e interrompida pelo autor por repetição e confusão. Ele também questionou a contribuição da prática e a imprecisão de “acessar, experimentar e sustentar”. [[M2.4 - Produção em duas partes v4]] preserva os materiais, sem qualificá-los como solução concluída.
 
 **Necessidade indicada por Fabiano:** acrescentar capacidade de participação, para que M2 avance além de reconhecer/rever uma interpretação. A operação e a aquisição a ensinar ainda precisam ser concretizadas com os recursos do acervo. Estado favorável, habilidade aprendida e condições reais de realização são trabalhos relacionados, mas diferentes. A prática existente não deve ser mantida só porque foi produzida, nem substituída automaticamente por outra técnica.
@@ -41,6 +45,8 @@ A conferência pode modificar, confirmar ou deixar em aberto uma interpretação
 **Alternativa em análise:** quatro blocos propostos na conversa pareceram mais claros ao autor, mas ele ainda não decidiu adotá-los. O desenho e a eventual prática autônoma não estão definidos por este plano. Não produzir outro kit antes do alinhamento solicitado.
 
 ## M2.5 — Acontecimento, experiência e interpretação
+
+**Raízes para quando for produzida:** monografia Transpessoal (a cena do interno e o discurso chamado "delírio religioso"; a vivência "agregadora"), Sete Níveis e a falácia pré/trans. Equilibra o caso de Festinger em M2.3.
 
 **Reservado por determinação de Fabiano.** O conteúdo previsto distingue vivido, forma, sentido, interpretação e hipótese de origem, incluindo experiência relacional/espiritual e diálogo com James, fenomenologia e TCC. Rascunhos não são composição final. Sua eventual revisão deve acrescentar contribuição própria, evitando repetir M2.3 sob outros termos. Não retomar a produção enquanto a prioridade é M2.4.
 

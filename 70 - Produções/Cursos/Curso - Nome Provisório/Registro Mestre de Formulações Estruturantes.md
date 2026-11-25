@@ -2,8 +2,8 @@
 tipo: registro-mestre-formulacoes-estruturantes
 projeto: Traduzindo o Ser Humano
 curso: nome-provisorio
-status: acervo-historico-consultivo
-uso_atual: acervo-consultivo
+status: acervo-de-raizes-autorais
+uso_atual: fonte-de-raizes-autorais
 versao: "0.8"
 autor: Fabiano Deliberalli
 organizado_em: 2026-07-21
@@ -16,6 +16,8 @@ tags:
   - governanca-do-conhecimento
   - auditoria-autoral
 ---
+
+> **24/11/2026:** por decisão de Fabiano, este registro deixa de ser tratado como histórico e passa a ser acervo de raízes autorais, consultado na produção das aulas. Ver [[11b - Raízes Autorais do TSH - Folha de Consulta]]. As formulações conservam suas datas; as menções a "Método EIXO" registram o nome da etapa.
 
 > [!NOTE] Leitura dos códigos históricos 2.1 e 2.2
 > Quando estes códigos nomearem antigas aulas ou unidades, eles identificam somente materiais do acervo histórico. Todas as variantes ficam preservadas e nenhuma é aula vigente. Seus títulos, conteúdos e fundamentações podem contribuir para qualquer uma das 54 aulas conforme pertinência, sem determinar numeração, posição ou ordem de gravação. Códigos iguais usados como versão, seção ou identificador técnico não são afetados.

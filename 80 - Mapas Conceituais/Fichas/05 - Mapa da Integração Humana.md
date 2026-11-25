@@ -21,6 +21,13 @@ tags:
 - **Função provável:** inventário interno de correlações
 - **Estatuto:** exploratório — não usar publicamente
 
+
+## Raiz autoral — leitura a partir de 24/11/2026
+
+Este mapa é de Fabiano e foi feito em julho de 2026. O texto do mapa traz formulações dele. Por decisão de Fabiano em 24/11/2026, o eixo é conceito central do TSH (não marca) e a Essência soterrada por camadas é fio do percurso; ver [[11b - Raízes Autorais do TSH - Folha de Consulta]].
+
+A seção "Limites e riscos" abaixo registra a leitura crítica feita na auditoria do lote, em 18/07/2026. Ela ajuda a dar estatuto às afirmações (não obrigatório, não linear, não promessa), mas não substitui nem corrige o conteúdo do autor.
+
 ## Contribuição real
 
 Reúne em uma única paisagem o percurso do caos à expressão, centros tradicionais, psicoterapia, neurociência, relação e espiritualidade.
