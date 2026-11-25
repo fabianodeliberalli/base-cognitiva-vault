@@ -31,6 +31,7 @@ Esta folha reúne essas raízes. Vale para qualquer pessoa ou IA que pesquise, p
 
 O eixo é conceito central e base do TSH. Não é marca, produto nem método comercial: "Método EIXO" continua sendo o nome de uma etapa anterior. Mas o conteúdo construído sob esse nome orienta o curso.
 
+- "Há uma parte do Ser que pede retorno ao lar! E o EIXO é um caminho para que isso possa acontecer." O eixo "também se forma ao longo do percurso, mas é coordenado por outra instância (Self, Eu Superior, Essência)". (resposta escrita por Fabiano em 21/11/2026, em [[Jan Val Ellam - Os Sete Corpos - Mapa e Ampliações para o TSH]])
 - "O eixo não é transferido nem ensinado; ele é reconhecido. Sustentado inicialmente na relação, torna-se progressivamente acessível à própria experiência do sujeito, que passa a habitá-lo de dentro." (*Arquitetura Invisível*, cap. 1)
 - "O problema central [...] não é a presença do sintoma em si, mas a ausência de um eixo capaz de conferir continuidade, direção e sentido ao vivido." (idem)
 - "Encontrar esse eixo — ou reencontrá-lo — não significa alcançar um estado especial, elevado ou definitivo. Trata-se de recuperar uma referência interna a partir da qual corpo, emoção, pensamento e relação possam novamente se alinhar." (idem)
@@ -81,6 +82,16 @@ As camadas não são só lesão: muitas foram proteção necessária. O TSH as r
 - **Tradução e a forma do percurso.** Constituição: aprender a perceber, ler, interpretar, integrar, habitar; Retorno à Essência. Jornada Fenomenológica: perceber, traduzir, aprender a ler, habitar, estabilizar, encarnar. Seis fases: compreender, regular, observar, integrar, construir o eixo, manifestar. Três níveis: conhecimento declarativo, competência incorporada, sabedoria prática. Fontes: [[Pacote Inicial - Constituição, Camadas e Manual SOS]]; [[Registro Mestre de Formulações Estruturantes]]; [[Tradução da Experiência Humana]].
 - **Corpo, energia e campo.** Aterramento, Tan Tien e linha do Hara já em 2022; circulação microcósmica e o ensinamento de Liu Pai Lin; campo relacional; "Se você não está presente, alguém ou alguma coisa está". Fontes: palestras Aterramento (2022), Qi Gong e MTC — Além das Fronteiras, Criando um caminho positivo na Transição Planetária (2025), no acervo de práticas transversais e nas fontes bibliográficas do curso.
 - **Singularidade que busca expressão.** "O desenvolvimento humano não fabrica a singularidade; constrói condições para que aquilo que existe em potência possa tornar-se progressivamente expressável, incorporado e fecundo no mundo." "A saúde essencial não é fabricada, mas a capacidade de sustentá-la é construída." Fontes: [[GENESE-001 - A Árvore da Singularidade]]; [[Registro Mestre de Formulações Estruturantes]].
+
+## Formulações de Fabiano registradas em conversas (novembro de 2026)
+
+Levantamento e avaliação em [[TSH - Formulações e materiais autorais dispersos no Obsidian - levantamento e avaliação]]. Destaques:
+
+- O espaço da consciência entre o sentir e o agir "explica por que repetimos padrões mesmo sabendo deles, e como treinar nesse espaço para sair do automatismo, sejam padrões do DNA, transgeracionais ou transpessoais".
+- O caminho "vai de cima para baixo e depois retorna refinado": "o retorno da consciência, mas com a experiência incorporada"; o Retorno à Essência não é regressão ao estado anterior ao ego.
+- O padrão volta porque precisa voltar para ser transformado; a espiral, e não a escada; a espiral sobe em torno de um eixo vertical, com o pêndulo como a oscilação vista de perto.
+- "O Eu Básico capta, sente e traduz energia, emoção, campo; o Eu Médio é intelectual, razão, defesa, ego"; cuidar do Eu Básico vem antes de buscar o Eu Superior.
+- Os sete casos do [[00 - Índice Geral do Banco Fenomenológico|Banco Fenomenológico]] são a base clínica das cenas, sempre como casos compostos e ficcionais.
 
 ## Outras formulações de Fabiano para consulta rápida
 
