@@ -147,7 +147,11 @@ Guia M2.1, M4.1 e M5.1.
 - [[Processo 3-2-1 - Cuidado do Eu Básico e Diálogo com a Parte Culpada|Processo 3-2-1]] (M4.5), [[Prática - Ressonância das Linguagens no Eu Essencial|Ressonância das Linguagens]] (M5.8) e [[Onde o Olhar Encontra o Eixo - Olhar Auto-Hipnose e Brainspotting|Onde o olhar encontra o eixo]] (M3.7).
 - Compaixão, empatia e Naranjo: práticas CP1–CP8, duplas e música, para M5.2, M5.4 e M7.
 
-### 14. Banco Fenomenológico — exemplos reais
+### 14. Exemplos e histórias
+
+Ordem de preferência (decisão de Fabiano em 25/11/2026): vivências e cenas de Fabiano; metáforas e histórias das Grandes Tradições e da cultura popular, que recebem mais espaço e devem ser pesquisadas conforme a necessidade didática, sempre como complemento ao conteúdo de base; exemplos reais anonimizados do Banco Fenomenológico; cena fictícia só quando não houver exemplo real. O catálogo ampliado de histórias e de fundamentação está em [[TSH - Elaborações do percurso, exemplos e fundamentação - documento de 25-11-2026]].
+
+#### Banco Fenomenológico — exemplos reais
 
 Decisão de Fabiano em 25/11/2026: os casos do [[00 - Índice Geral do Banco Fenomenológico|Banco Fenomenológico]] entram nas aulas como exemplos reais anonimizados. Eles trazem familiaridade com o modo de Fabiano conduzir e substituem os casos inventados.
 
