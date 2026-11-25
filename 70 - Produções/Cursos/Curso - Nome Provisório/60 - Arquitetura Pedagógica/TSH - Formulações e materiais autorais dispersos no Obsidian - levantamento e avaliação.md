@@ -40,7 +40,7 @@ Literais, quando entre aspas; as demais são registros de fala feitos durante a 
 
 ### 2. Banco Fenomenológico: sete casos clínicos anonimizados
 
-Nenhum caso estava destinado a aulas. São a fonte clínica que faltava às cenas do curso. Pela decisão de 21/11, entram nas aulas como casos compostos e ficcionais, nunca como relato reconhecível.
+Nenhum caso estava destinado a aulas. São a fonte clínica que faltava às cenas do curso. Por decisão de Fabiano em 25/11/2026, entram nas aulas como exemplos reais anonimizados, nunca como relato reconhecível.
 
 | Caso | Tema | Destino |
 | --- | --- | --- |

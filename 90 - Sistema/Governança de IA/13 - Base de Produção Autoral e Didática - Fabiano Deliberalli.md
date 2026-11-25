@@ -31,7 +31,7 @@ Um mapa complexo pode ser apresentado inteiro, com foco no passo atual e explica
 
 Escrever com linguagem natural, precisa e conectada, adequada à fala ou à leitura solicitada. A clareza permite acompanhar uma elaboração profunda. Ensinar os termos novos, desenvolver as relações e mostrar o que cada distinção acrescenta à experiência ou à questão do trabalho. Uma frase curta, um nome de autor ou uma lista de campos não substituem a explicação.
 
-Recuperar o pensamento e o repertório de Fabiano sem inventar autobiografia, falas, casos ou resultados. Usar cenas fictícias com identificação proporcional quando ajudarem. Quando a experiência instrumental do autor for pertinente, o instrumento registrado é **shakuhachi**, não violão; a correção não autoriza acrescentar lembranças ou episódios sem fonte.
+Recuperar o pensamento e o repertório de Fabiano sem inventar autobiografia, falas, casos ou resultados. Preferir exemplos reais anonimizados do Banco Fenomenológico e cenas do próprio Fabiano; cena fictícia só quando não houver exemplo real (decisão de 25/11/2026). Quando a experiência instrumental do autor for pertinente, o instrumento registrado é **shakuhachi**, não violão; a correção não autoriza acrescentar lembranças ou episódios sem fonte.
 
 Cada fonte entra por uma contribuição reconhecível. Na pesquisa, explicar a pergunta, o procedimento e o que o achado sustenta quando forem relevantes. Nas tradições, situar origem, linguagem e função. Psicologia, ciência, cultivo, espiritualidade e elaboração autoral podem dialogar, preservando diferenças de sustentação e de sentido. Uma semelhança visual ou verbal não estabelece identidade teórica, anatômica ou causal. A profundidade espiritual própria do projeto permanece quando pertinente.
 

@@ -23,12 +23,12 @@ A auditoria está em [[TSH - Raízes na produção - auditoria de M2 e destinaç
 
 ## Plano de compensação, sem regravar as teorias de M2.1–M2.3
 
-1. **Abertura do módulo** (vídeo novo, 6–8 min): a Essência soterrada por camadas, com o mapa O Caminho da Semente; o eixo como caminho de volta; o que cada aula de M2 lê.
+1. **Abertura do módulo** (corte do encontro de 28/11): a Essência soterrada por camadas, com o mapa O Caminho da Semente; o eixo como caminho de volta; o que cada aula de M2 lê.
 2. **Práticas de M2.2 e M2.3** (a gravar): voltar ao eixo nomeado, como ensinado no M0; Essência e a frase de Fabiano da aula 0.1 nos fechos.
 3. **Apoios do aluno de M2.1–M2.3**: caixa "Raiz do TSH" com a frase literal.
 4. **M2.4 reorganizada por inteiro**: camadas, eixo e Essência como espinha; prática "Do primeiro sinal ao eixo", retomando o apoio já ensinado nas aulas abertas do M0. Kahneman, Klein, Forghieri e Milgram saem da aula.
 5. **M2.5 e M2.6** produzidas a partir das raízes: monografia Transpessoal e Sete Níveis; recursividade eixo–Tradução.
-6. **Encontro ao vivo**: a prática de M2.4 pode ser conduzida ao vivo e editada como vídeo da aula.
+6. **Encontro de 28/11**: abertura do módulo e prática de M2.4 conduzidas ao vivo e editadas em dois vídeos; roteiro em [[M2 - Encontro de 28-11 - Abertura do módulo e prática Do primeiro sinal ao eixo - roteiro]].
 
 Fabiano decide a ordem, a cena de abertura de M2.4 e se a abertura do módulo será gravada.
 
