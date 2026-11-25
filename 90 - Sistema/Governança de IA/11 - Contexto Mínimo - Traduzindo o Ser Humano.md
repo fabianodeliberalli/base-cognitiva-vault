@@ -2,7 +2,7 @@
 tipo: contexto-minimo-de-projeto
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.70"
+versao: "0.71"
 atualizado_em: 2026-11-24
 autoridade_final: Fabiano Deliberalli
 ---
@@ -30,9 +30,15 @@ Fabiano relata interrupções de gravação e retrabalho apesar de sucessivas re
 - **Prática precisa ter contribuição própria.** Reconhecimento de padrão, revisão de interpretação, cultivo de estado, aquisição de habilidade e alteração de condições reais não se substituem. Não acrescentar vídeo, técnica ou ficha por uniformidade. A separação teoria/prática aplica-se quando a prática autônoma se justifica. Reaproveitar o ensino existente e dimensionar o trabalho de gravação.
 - **Experiência de uso corrige o parecer anterior.** Uma versão recente não se torna exemplar de qualidade por ter fontes, notas completas ou inspeção visual. Registrar a dificuldade observada sem declarar o problema resolvido por outra mudança de formato. Não criar novo ritual, matriz ou relatório obrigatório.
 
+## Autoria e transmissão — refinamento do diagnóstico
+
+Fabiano reiterou que o conteúdo existe, mas não se reconhece em parte dos slides/notas e encontra vazios ao gravar de primeira leitura. A falha é de seleção e transmissão: instruções editoriais como “incluir”, “manter como horizonte” ou “ampliar possibilidades” ocuparam o lugar do pensamento que deveria apoiar a exposição. Recuperar o argumento, a imagem e a formulação do autor; condensar mantendo a relação explicada. Voz autoral não é repetir palavras do TSH nem inventar fala literal. 
+
+Usar orientações/estados atuais para a produção e fontes autorais pertinentes de qualquer época para o conteúdo. Histórico de formato não governa; elaboração antiga pode continuar essencial. A proposta de **briefing breve com raízes concretas + pequena amostra de slide/notas antes do kit**, seguida de montagem em blocos, está em avaliação, sem adoção automática. O estado de M2 conserva o confronto e a proposta de trabalho. Sua finalidade é reduzir o esforço de supervisão, sem fazer Fabiano editar toda aula slide a slide.
+
 ## Frente atual e suporte de gravação
 
-**Pausa da produção de M2.4 para alinhamento**, a pedido de Fabiano. A teoria atual foi iniciada e interrompida por repetição/confusão. Sua finalidade prática e a pertinência da prática existente estão em revisão substantiva. A alternativa de quatro blocos foi considerada mais clara, **mas não foi adotada**. M2.5 permanece reservado. Aulas, fontes e gravações continuam recuperáveis; este diagnóstico não exige regravação geral. Estado, artefatos e próximas definições: [[00 - Estado e Continuidade da Produção M2]] e [[01 - Plano de produção das seis aulas M2]].
+**Pausa da produção de M2.4 para alinhamento**, a pedido de Fabiano. A teoria atual foi iniciada e interrompida por repetição/confusão. Sua finalidade prática e a pertinência da prática existente estão em revisão substantiva. A alternativa de quatro blocos foi considerada mais clara, **mas não foi adotada**. M2.5 permanece reservado. As gravações permanecem recuperáveis; não há regravação geral determinada. Estado, artefatos e próximas definições: [[00 - Estado e Continuidade da Produção M2]] e [[01 - Plano de produção das seis aulas M2]].
 
 Formato solicitado: slides visuais de apoio, notas presentes em todos os slides e roteiro separado breve para consulta. Uma frase por linha, direção das ideias e passagem reconhecível, sem fala integral imposta. A nota precisa conter a relação que auxilia a exposição, em vez de “aprofundar o autor”. A fonte desenvolvida fica recuperável. Formato não resolve, por si, seleção, progressão ou ensino. Aplicação: [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]].
 

@@ -2,7 +2,7 @@
 tipo: padrao-de-producao
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "2.16"
+versao: "2.17"
 criado_em: 2026-11-02
 atualizado_em: 2026-11-24
 autoridade_final: Fabiano Deliberalli
@@ -29,6 +29,17 @@ Por exemplo, uma sequência corporal já ensinada pode ser retomada e refinada: 
 Confrontar cada retomada com a contribuição anterior. M2.2 e M2.3 não precisam ser reapresentadas integralmente para M2.4 começar, nem o mesmo antes/depois de uma situação passa a ser uma aquisição nova porque ganhou outro nome. Retomada didática restitui o indispensável e acrescenta uma relação, discriminação ou realização. A Cartografia apoia esse trabalho, sem se tornar a prática automática ou a medida de transformação.
 
 ## 3. Recuperação de conteúdo e desenvolvimento dos fundamentos
+
+### Raiz autoral antes da adaptação didática
+
+Fabiano indicou em 24/11 que não se reconhece em parte dos slides e encontra instruções genéricas no lugar de conteúdo para exposição. O acervo já possui pensamento e repertório suficientes; acumular novas pesquisas ou instruções não resolve essa transmissão. A construção começa por recuperar a perspectiva do TSH pertinente à questão: o argumento e sua finalidade, formulações, imagens, elaborações e contribuições experienciais. As referências externas aprofundam, contrastam, fundamentam e ampliam essa construção; não apagam seu centro autoral. Uma fonte também pode abrir uma questão nova, articulada com o projeto, sem ser forçada a apenas confirmar o autor.
+
+Recuperar mais do que frases isoladas. Distinguir trecho literal, formulação registrada, paráfrase, hipótese do autor e proposta de assistente. Não atribuir à fala espontânea de Fabiano uma redação que só existe como reconstrução editorial. Preservar a naturalidade pela articulação do pensamento; expressões características sem conteúdo não restauram autoria. A metáfora também precisa conservar a relação que a tornou significativa, sem se tornar decoração ou história repetida.
+
+Exemplos de raízes recuperadas nesta revisão: [[Registro Mestre de Formulações Estruturantes]] registra, desde julho, conhecimento declarativo, competência incorporada e sabedoria prática; [[GENESE-001 - A Árvore da Singularidade]] situa potência, condições e expressão; [[TSH - Síntese Integrativa do Refinamento]] distingue capacidade, disponibilidade e expressão e explicita a relação entre corpo, cultivo, Essência e singularidade; [[O Límbico como Porta - Eu Básico, Bion e Morin no TSH]] conserva a leitura autoral da linguagem imagética e simbólica. São rotas por pertinência, sem exigir a mesma abertura ou os mesmos conceitos em toda aula.
+
+**Atualidade não significa descartar as raízes.** Instruções recentes orientam arquitetura, suporte e prioridade. Formatos/cronogramas antigos não voltam a governar. Uma elaboração, imagem ou condução anterior pode ser fonte substantiva atual, confrontada com seus refinamentos posteriores. Um roteiro recente de IA pode conter o desvio criticado e não se torna fonte superior pelo número de versão. Manter as passagens pertinentes disponíveis durante a redação das notas, além da consulta inicial; a condensação não deve voltar a depender só do resumo de produção. No início de um módulo, recuperar sua questão autoral e o percurso de desenvolvimento; em cada aula, consultar as raízes e fontes necessárias ao acréscimo específico. Aproveitar a recuperação já feita quando suficiente, sem auditar todo o histórico novamente.
+
 
 Recuperar a demanda atual, os materiais pertinentes já produzidos, as formulações autorais e as passagens das fontes que contribuem para a questão. Usar índices, relatórios, planos e correlações para localizar conteúdo; distinguir essa função do estudo da fonte e do que será efetivamente ensinado. Não compor apenas de resumos de IA, títulos de notas ou trechos de roteiros anteriores, mesmo recentes. Uma síntese pode servir quando contém o desenvolvimento necessário e sua procedência é conferível.
 
@@ -72,6 +83,19 @@ Aplicar [[00 - Manual de Identidade Visual v1.0]] e manter a família de M0/M1. 
 
 ## 6. Notas e roteiro de apoio: consulta rápida com sentido
 
+### Conteúdo para expor e instrução editorial têm lugares diferentes
+
+“Manter como horizonte criação, desejo e singularidade”, “incluir elaboração e acesso” ou “localizar o trabalho necessário” dizem ao produtor o que falta preparar; não oferecem, por si, o pensamento a desenvolver na gravação. Substituir esse vazio pela relação efetivamente explicada, na linguagem natural da aula. Um aviso de condução ou direção pode ser breve; a explicação principal precisa existir. Essa distinção não proíbe verbos nem obriga fala integral.
+
+**Amostra editorial de condensação, derivada da Árvore e da síntese integrativa; não é fala literal de Fabiano nem aula selecionada:**
+
+> Uma competência pode estar muito desenvolvida enquanto criação, sensibilidade ou vida contemplativa encontram pouco espaço.
+> Na Árvore da Singularidade, isso permite olhar o que já cresceu e quais condições os outros ramos encontram para se desenvolver.
+> O trabalho inclui reconhecer o valor do que foi construído e cultivar o que ainda precisa ganhar expressão na vida.
+
+Aqui há uma distinção compreensível para desenvolver com voz própria. “Manter a singularidade como horizonte” não oferece essa relação. O exemplo mostra a operação editorial, sem impor árvore, frase-modelo ou três linhas a todos os slides.
+
+
 Formato solicitado em 24/11: **slides, notas presentes em todos os slides e roteiro separado breve**, com briefing, frases curtas e direção das ideias. A fala permanece livre. A fonte desenvolvida é recuperável para aprofundar; sua extensão não é copiada integralmente nas notas. A escolha do suporte não é uma correção pedagógica em si.
 
 Escrever **uma frase por linha**, com quebra explícita, e espaço entre blocos. Cada slide recebe o suficiente para reconhecer a ideia, a relação que se desenvolve e a direção seguinte. Conservar contexto e conexões; “falar de Bion” ou “acessar o recurso” sem desenvolvimento não orientam. Retirar paráfrases entre foco, desenvolvimento, objetivo e passagem; os antigos quatro campos não são mais molde obrigatório. Não substituir tudo por palavras soltas nem por outra fala corrida. Marcadores curtos servem quando ajudam a consulta.
@@ -105,6 +129,14 @@ Exemplos e linguagem imagética/metafórica podem contribuir, escolhidos por fun
 Cartografia comum: **Situação / Manifestação / Tradução provisória / Orientação possível**. Aprofundar perguntas pertinentes sem criar nova ficha para cada aula. [[TSH - Entregáveis do aluno e inserção na Hotmart - M2 a M8]] orienta organização e destinos. Apoio, síntese, repertório e fechamento podem compartilhar arquivo; não há PDF obrigatório por aula ou teto de páginas.
 
 Ao entregar produção, reunir materiais necessários em **um ZIP**, mantendo fontes editáveis e recuperáveis. A quantidade de arquivos segue sua função. Publicação, liberação e acesso Hotmart só são registrados com evidência. A produção não inclui Site por padrão.
+
+## Proposta de colaboração para teste, ainda não adotada
+
+Fabiano cogitou rever uma prévia antes da produção e, se necessário, acompanhar por slide. Recomendação editorial: começar por um **briefing breve de conteúdo**, visível na conversa, com a ideia autoral recuperada e seus trechos/fontes, o raciocínio previsto em linguagem de aula, contribuições externas selecionadas e a experiência/prática pertinente com função e tempo estimado. A síntese não pode ser uma lista de autores e verbos genéricos. Mostrar uma pequena amostra de apoio visual e notas que permita reconhecer a transmissão antes de montar o conjunto.
+
+Depois de Fabiano concordar com a direção e a amostra, desenvolver a aula em blocos com função reconhecível e montar o kit solicitado. O tamanho dos blocos acompanha a aprendizagem, sem número fixo ou adoção presumida dos quatro blocos de M2.4. Discussão slide a slide pode servir a trechos difíceis ou a pedido do autor; não transferir a ele a redação/edição de toda aula. Rever a necessidade de acompanhamento mais frequente conforme o resultado, em vez de tornar a supervisão permanente um custo novo.
+
+Esta proposta não cria autorização para gravação, campo de aprovação, matriz ou relatório. Não produz a aula nem declara a forma de trabalho escolhida. A instrução autoral e a decisão na conversa definem sua aplicação. Uma direção aceita permanece revisável e não garante automaticamente a qualidade de todos os suportes posteriores.
 
 ## 9. Conferência do produto e continuidade entre IAs
 

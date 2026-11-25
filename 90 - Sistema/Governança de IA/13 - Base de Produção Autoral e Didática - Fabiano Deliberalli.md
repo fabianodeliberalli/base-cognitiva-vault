@@ -1,7 +1,7 @@
 ---
 tipo: base-de-producao-autoral-e-didatica
 status: referencia-de-trabalho-revisavel
-versao: "1.7"
+versao: "1.8"
 atualizado_em: 2026-11-24
 autoridade_final: Fabiano Deliberalli
 elaboracao: desenvolvimento-editorial-para-avaliacao
@@ -54,6 +54,14 @@ Fabiano reiterou que a perda de profundidade vem sendo apontada desde o início 
 Observar uma diferença, revisar uma interpretação ou registrar uma possibilidade são contribuições próprias; não comprovam ter aprendido a realizar ou cultivar uma capacidade. Verbos como acessar, experimentar e sustentar precisam receber conteúdo: qual recurso, qual operação ensinada, qual condição e qual alcance. Um estado favorável não substitui automaticamente uma habilidade nova ou uma mudança de condições relacionais/materiais. A teoria deve desenvolver o que permite compreender e orientar a realização; a prática não é um apêndice obrigatório para ilustrá-la. Não fabricar uma atividade ou um vídeo por uniformidade.
 
 Exemplos e metáforas entram por contribuição localizada. A aceitação de situações genéricas não as transforma em estrutura recorrente de todas as aulas. Retomar quando acrescenta uma relação necessária, sem impor personagem, cena ou biografia como condição para começar. Essa orientação decorre de correção repetida de Fabiano; não veta exemplos, tradições ou linguagem imagética.
+
+### Transmissão do pensamento autoral — refinamento de 24/11/2026
+
+Fabiano identificou que parte do material não expressa sua perspectiva e que notas genéricas o fazem criar conteúdo enquanto grava. Recuperar o argumento e as formulações pertinentes do autor, incluindo imagens, relações, práticas e horizontes de sua elaboração. Partir desse conteúdo para construir ampliações e fundamentos, em vez de organizar uma cadeia de referências externas e acrescentar a autoria apenas como síntese final. Essa orientação não impõe a mesma tese, metáfora ou disciplina a toda produção nem impede uma contribuição externa nova.
+
+Distinguir instruções de preparação de conteúdo que apoia a exposição. “Incluir”, “aprofundar”, “ampliar” e “acessar” podem orientar trabalho editorial, mas não substituem uma explicação. Uma nota breve conserva a relação a desenvolver, com termos compreensíveis e contexto suficiente, sem obrigar uma locução integral. Não transformar toda contribuição em habilidade observável nem reduzir a experiência contemplativa, sensível, afetiva, criativa ou espiritual a uma ficha de antes/depois. Cada trabalho conserva sua natureza, seu ensino e seu alcance.
+
+Usar a referência atual para orientações de produção e recuperar fontes de conteúdo de qualquer época por pertinência, confrontadas com refinamentos posteriores. O histórico de um formato superado e uma formulação autoral antiga não têm a mesma função. Fonte literal, formulação registrada, paráfrase e proposta editorial permanecem identificáveis; não inventar espontaneidade ou atribuir redação reconstruída à fala literal do autor. No TSH, o padrão e o estado conservam o confronto realizado e a proposta de colaboração ainda em avaliação.
 
 ## Compor o produto e seus suportes
 
