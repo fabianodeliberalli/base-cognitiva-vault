@@ -13,7 +13,7 @@ aliases:
 
 ## Destinos e propostas: leitura atual — 24/11/2026
 
-O plano preserva fontes, repertório e propostas de incorporação. Datas, módulos, exercícios e cronogramas abaixo pertencem às etapas identificadas; não confirmam escolha atual, realização ou necessidade de vídeo novo. Recuperar a condução real e avaliar sua contribuição ao ensino. [[00 - Estado e Continuidade da Produção M2]] situa a revisão substantiva de M2.4; a técnica dessa aula não está selecionada por este plano.
+O plano preserva fontes, repertório e propostas de incorporação. Datas, módulos, exercícios e cronogramas abaixo pertencem às etapas identificadas; não confirmam escolha atual, realização ou necessidade de vídeo novo. Recuperar a condução real e avaliar sua contribuição ao ensino. [[00 - Estado e Continuidade da Produção M2]] situa a revisão substantiva de M2.4; a composição para esta turma usa o [[M2 - Encontro de 28-11 - Abertura do módulo e prática Do primeiro sinal ao eixo - roteiro|roteiro de 28/11]].
 
 Fabiano criticou no processo de M2 a sequência elementar do dedo por inadequação à profundidade de seu trabalho. A proposta histórica “poder do dedo” abaixo não deve ser reinserida por inércia de recuperação. Isso não exclui por associação o acervo de hipnose, os sinais ideomotores, os dedos ou o pêndulo em trabalhos sofisticados e pertinentes. A distinção evita tanto repetir a adaptação criticada quanto criar um veto de conteúdo. As possibilidades preservadas são consultivas; não fornecem, por si, uma capacidade ensinada ou uma prática já decidida.
 
@@ -116,7 +116,7 @@ Cuidados de condução, como em todo o curso: não praticar dirigindo; omitir ou
 ### "Poder do dedo"
 - **O que é:** demonstração autoral de Fabiano (live de 03/06/2024). O cérebro antecipa pela experiência e o corpo responde antes do toque. Mostra, na experiência, que um padrão funciona antes da explicação.
 - **Teoria:** M1.1 — *Por que entender um padrão não impede que ele se repita?*, como exemplo de abertura. Retomada em M2.4 — *Por que respostas familiares voltam?*, para falar de antecipação e repetição. Fabiano, em 2025: o pensamento consciente vira automático pela repetição.
-- **Prática:** abertura do encontro de 28/11, antes da primeira etapa da indução.
+- **Registro histórico:** a abertura com esta demonstração foi substituída. O [[M2 - Encontro de 28-11 - Abertura do módulo e prática Do primeiro sinal ao eixo - roteiro|roteiro de 28/11]] começa pelo mapa da Semente e usa respiração no baixo ventre e retorno na prática.
 - **Sentido:** é a porta de entrada mais curta para a tese do transe cotidiano. Antes de falar de hipnose, o aluno percebe que já vive em respostas antecipadas.
 
 ### Contagem para sair do transe
