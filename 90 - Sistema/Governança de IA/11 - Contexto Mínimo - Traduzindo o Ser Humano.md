@@ -2,8 +2,8 @@
 tipo: contexto-minimo-de-projeto
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "0.72"
-atualizado_em: 2026-11-24
+versao: "0.73"
+atualizado_em: 2026-11-25
 autoridade_final: Fabiano Deliberalli
 ---
 
@@ -17,7 +17,7 @@ A Tradução torna a experiência legível e participa do reconhecimento, integr
 
 Percepção, diferenciação e participação atravessam o curso. **Sentir amplia a compreensão; compreender refina o sentir.** Ainda não reconhecer, compreender sem conseguir realizar e precisar aprender uma capacidade pedem trabalhos diferentes. Espiritualidade é explícita, afirmativa, plural e não dogmática; Essência preserva seu sentido espiritual. Ciência, tradição e elaboração autoral dialogam com alcances próprios, sem identidade presumida nem promessas de cura ou transformação automática. A dimensão espiritual permanece explícita em cada módulo; isso não obriga todas as disciplinas em cada aula.
 
-**Decisão de Fabiano, 24/11/2026:** o eixo é conceito central e base do TSH, não marca; “Método EIXO” não volta como nome de produto. A Essência soterrada por camadas e o caminho de volta são fio explícito de M0 a M8. Antes de pesquisar autores para qualquer aula, ler a [[11b - Raízes Autorais do TSH - Folha de Consulta|folha de raízes autorais]] e a linha de raízes da aula no dossiê. Retorno com aquisição implica aprendizado incorporado, sem garantir progresso a cada retomada. Doze semanas foi uma estimativa provisória histórica. Nenhuma inteligência artificial pode declarar uma proposta própria como final ou imutável; o Registro Mestre reúne formulações de Fabiano e é fonte de raízes autorais, em diálogo com a decisão autoral e as notas-mãe atuais.
+**Decisão de Fabiano, 24/11/2026:** o eixo é conceito central e base do TSH, não marca; “Método EIXO” não volta como nome de produto. A Essência soterrada por camadas e o caminho de volta são fio explícito de M0 a M8. Na construção e revisão de cada módulo, o [[TSH - Elaborações do percurso, exemplos e fundamentação - documento de 25-11-2026|documento de 25/11]] articula a [[11b - Raízes Autorais do TSH - Folha de Consulta|folha de raízes]], as elaborações por aula, os exemplos e a fundamentação. Abrir a questão da aula no dossiê e seguir a [[TSH - Elaborações do percurso, exemplos e fundamentação - documento de 25-11-2026#Ordem de consulta ao construir uma aula|ordem de consulta de 25/11]]. Retorno com aquisição implica aprendizado incorporado, sem garantir progresso a cada retomada. Doze semanas foi uma estimativa provisória histórica. Nenhuma inteligência artificial pode declarar uma proposta própria como final ou imutável; o Registro Mestre reúne formulações de Fabiano e é fonte de raízes autorais, em diálogo com a decisão autoral e as notas-mãe atuais.
 
 ## Correção do ciclo de produção — 24/11/2026
 
@@ -38,7 +38,7 @@ Usar orientações/estados atuais para a produção e fontes autorais pertinente
 
 ## Frente atual e suporte de gravação
 
-**Pausa da produção de M2.4 para alinhamento**, a pedido de Fabiano. A teoria atual foi iniciada e interrompida por repetição/confusão. Sua finalidade prática e a pertinência da prática existente estão em revisão substantiva. A alternativa de quatro blocos foi considerada mais clara, **mas não foi adotada**. M2.5 permanece reservado. As gravações permanecem recuperáveis; não há regravação geral determinada. Estado, artefatos e próximas definições: [[00 - Estado e Continuidade da Produção M2]] e [[01 - Plano de produção das seis aulas M2]].
+**Pausa da produção de M2.4 para alinhamento**, a pedido de Fabiano. A teoria atual foi iniciada e interrompida por repetição/confusão. A teoria está em recomposição. A prática proposta para a turma está no [[M2 - Encontro de 28-11 - Abertura do módulo e prática Do primeiro sinal ao eixo - roteiro|roteiro do encontro de 28/11]], com dois ciclos e o retorno aprendido antes de evocar a situação. A alternativa de quatro blocos foi considerada mais clara, **mas não foi adotada**. M2.5 permanece reservado. As gravações permanecem recuperáveis; não há regravação geral determinada. Estado, artefatos e próximas definições: [[00 - Estado e Continuidade da Produção M2]] e [[01 - Plano de produção das seis aulas M2]].
 
 Formato solicitado: slides visuais de apoio, notas presentes em todos os slides e roteiro separado breve para consulta. Uma frase por linha, direção das ideias e passagem reconhecível, sem fala integral imposta. A nota precisa conter a relação que auxilia a exposição, em vez de “aprofundar o autor”. A fonte desenvolvida fica recuperável. Formato não resolve, por si, seleção, progressão ou ensino. Aplicação: [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]].
 

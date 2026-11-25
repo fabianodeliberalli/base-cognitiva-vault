@@ -3,7 +3,7 @@ tipo: continuidade-de-producao
 projeto: Traduzindo o Ser Humano
 modulo: M2
 status: retomada-pelas-raizes-autorais
-atualizado_em: 2026-11-24
+atualizado_em: 2026-11-25
 arquitetura_atual: nove módulos e 59 aulas
 ---
 
@@ -19,7 +19,7 @@ A auditoria está em [[TSH - Raízes na produção - auditoria de M2 e destinaç
 - a pergunta de M2.4 é uma formulação de Fabiano ("somos vividos pelos padrões que carregamos") que não aparece no roteiro de nove autores;
 - o exemplo da cobrança ou do prazo se repete em M0, M2.1, M2.2 e M2.4.
 
-**Antes de produzir qualquer aula de M2:** ler a [[11b - Raízes Autorais do TSH - Folha de Consulta]] e a linha "Raízes autorais" da aula no [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]]. A raiz de Fabiano vem primeiro; autores entram para fundamentar.
+**Na construção e revisão de M2.** Seguir a [[TSH - Elaborações do percurso, exemplos e fundamentação - documento de 25-11-2026#Ordem de consulta ao construir uma aula|ordem de consulta de 25/11]] e o [[01 - Plano de produção das seis aulas M2|plano das seis aulas]]. Para cada ficha, a preparação dispõe da raiz autoral, da elaboração a ensinar e do exemplo pertinente. As falas e os casos têm fonte identificável. O encontro de 28/11 usa a experiência do participante e reserva os relatos clínicos para outros contextos.
 
 ## Plano de compensação, sem regravar as teorias de M2.1–M2.3
 
@@ -30,7 +30,7 @@ A auditoria está em [[TSH - Raízes na produção - auditoria de M2 e destinaç
 5. **M2.5 e M2.6** produzidas a partir das raízes: monografia Transpessoal e Sete Níveis; recursividade eixo–Tradução.
 6. **Encontro de 28/11**: abertura do módulo e prática de M2.4 conduzidas ao vivo e editadas em dois vídeos; roteiro em [[M2 - Encontro de 28-11 - Abertura do módulo e prática Do primeiro sinal ao eixo - roteiro]].
 
-Fabiano decide a ordem, a cena de abertura de M2.4 e se a abertura do módulo será gravada.
+O roteiro do encontro destina a abertura do módulo e a prática a dois cortes. Gravação, edição e publicação são etapas posteriores. A escolha da abertura da teoria de M2.4 cabe a Fabiano.
 
 ## Materiais efetivos preservados
 
@@ -47,7 +47,7 @@ Há uma gravação do Zoom de 24/11, 19h49, ainda não convertida no computador 
 
 ## Forma das aulas
 
-Slides visuais de apoio, notas em todos os slides e roteiro separado breve, uma frase por linha. Cada bloco abre por uma cena concreta, com a experiência de Fabiano antes da literatura (decisão de 21/11). Não repetir o exemplo do prazo de trabalho. Cartografia (Situação / Manifestação / Tradução provisória / Orientação possível) quando acrescentar algo, não como fecho obrigatório. Aplicar [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]]. Apoio do aluno autônomo, com referências completas opcionais.
+Slides visuais de apoio, notas em todos os slides e roteiro separado breve, uma frase por linha. A questão determina a abertura do bloco. Quando cabe uma cena, selecionar pelo documento de 25/11 e preservar a experiência de Fabiano antes da literatura. Não repetir o exemplo do prazo de trabalho. Cartografia (Situação / Manifestação / Tradução provisória / Orientação possível) quando acrescentar algo, não como fecho obrigatório. Aplicar [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]]. Apoio do aluno autônomo, com referências completas opcionais.
 
 ## Fontes de diagnóstico anteriores
 

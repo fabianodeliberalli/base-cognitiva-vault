@@ -14,10 +14,10 @@ aliases:
 Pedido de Fabiano em 25/11/2026: resgatar as elaborações do TSH construídas nas conversas e deixadas de lado durante o percurso, para que sejam guia e fundamento na construção dos módulos, das aulas e dos roteiros de gravação. Também separar o que serve só de fundamentação.
 
 **Ordem de consulta na produção de uma aula:**
-1. [[11b - Raízes Autorais do TSH - Folha de Consulta]];
-2. este guia;
-3. as linhas "Raízes autorais" e "Elaborações do percurso" da aula no [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]];
-4. só então autores e pesquisas.
+1. Recuperar a passagem da [[11b - Raízes Autorais do TSH - Folha de Consulta|folha de raízes]] e a linha “Raízes autorais” da ficha da aula.
+2. Ler a elaboração pertinente no [[TSH - Elaborações do percurso, exemplos e fundamentação - documento de 25-11-2026|documento de 25/11]]. Este guia localiza a nota de origem. A ficha no [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros|dossiê de M0 a M8]] desenvolve sua relação com a pergunta da aula.
+3. Escolher o exemplo pela [[TSH - Elaborações do percurso, exemplos e fundamentação - documento de 25-11-2026#Ordem de preferência|escolha dos exemplos]]. Conferir a fonte da cena ou história antes de levá-la à exposição.
+4. Selecionar a referência externa pela pergunta que ela permite aprofundar. Os destinos da [[TSH - Elaborações do percurso, exemplos e fundamentação - documento de 25-11-2026#Parte 3 — Fundamentação disponível|fundamentação por área]] são possibilidades de consulta.
 
 ## Como a leitura foi feita
 

@@ -2,9 +2,9 @@
 tipo: padrao-de-producao
 projeto: Traduzindo o Ser Humano
 status: referencia-atual-revisavel
-versao: "2.18"
+versao: "2.19"
 criado_em: 2026-11-02
-atualizado_em: 2026-11-24
+atualizado_em: 2026-11-25
 autoridade_final: Fabiano Deliberalli
 ---
 
@@ -32,7 +32,7 @@ Confrontar cada retomada com a contribuição anterior. M2.2 e M2.3 não precisa
 
 ### Raiz autoral antes da adaptação didática
 
-Começar pela [[11b - Raízes Autorais do TSH - Folha de Consulta|folha de raízes autorais]] e pela linha "Raízes autorais" da aula no dossiê. Eixo e Essência soterrada por camadas atravessam todas as aulas.
+Na abertura do módulo, ler sua direção no [[TSH - Elaborações do percurso, exemplos e fundamentação - documento de 25-11-2026|documento de 25/11]]. Na aula, consultar a [[11b - Raízes Autorais do TSH - Folha de Consulta|folha de raízes]] e as linhas “Raízes autorais” e “Elaborações do percurso” do [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros|dossiê]]. A pergunta da aula determina a escolha. Partir da raiz de Fabiano e da elaboração indicada na ficha, escolher a cena ou imagem que torna essa relação perceptível e consultar a fundamentação para esclarecer, ampliar ou contrastar um ponto preciso. Conservar a passagem de origem à vista ao condensar as notas. Distinguir citação, formulação registrada e redação de aula. O filtro dos três olhos situa o que foi observado, a interpretação construída e a convicção espiritual, preservando a liberdade do aluno.
 
 Fabiano indicou em 24/11 que não se reconhece em parte dos slides e encontra instruções genéricas no lugar de conteúdo para exposição. O acervo já possui pensamento e repertório suficientes; acumular novas pesquisas ou instruções não resolve essa transmissão. A construção começa por recuperar a perspectiva do TSH pertinente à questão: o argumento e sua finalidade, formulações, imagens, elaborações e contribuições experienciais. As referências externas aprofundam, contrastam, fundamentam e ampliam essa construção; não apagam seu centro autoral. Uma fonte também pode abrir uma questão nova, articulada com o projeto, sem ser forçada a apenas confirmar o autor.
 
@@ -59,7 +59,7 @@ A abertura torna clara a questão da aula, o aprendizado proposto e seu lugar no
 
 **Exemplos e metáforas são recursos pontuais por pertinência.** A aceitação anterior de exemplos genéricos não autoriza fazer uma pessoa que recebe mensagem, quer dançar ou negocia prazo percorrer automaticamente slides e autores. Escolher a situação quando ela esclarece uma distinção; retomá-la somente quando acrescenta compreensão. Se uma sequência pode ser ensinada mais diretamente, não interpor uma história. Não criar outro protagonista para substituir Lia. Não pedir que Fabiano forneça nova cena a cada bloco.
 
-Exemplos continuam disponíveis, cotidianos, clínicos anonimizados, autorais ou provenientes de tradição/fonte identificada. Metáforas das Grandes Tradições e populares podem acrescentar relação ou profundidade. Contextualizar suficientemente o que é retomado e preservar a liberdade de imagens do aluno. Não inventar autobiografia, casos ou resultados. O instrumento de Fabiano é **shakuhachi**; o registro não autoriza inventar episódio instrumental.
+A [[TSH - Elaborações do percurso, exemplos e fundamentação - documento de 25-11-2026#Ordem de preferência|escolha dos exemplos]] começa pelas cenas documentadas de Fabiano. Histórias das Grandes Tradições e da cultura popular têm preferência como complemento, com a procedência conferida. Quando a condução e seu efeito forem o que se quer ensinar, recuperar um caso real anonimizado. A ficção fica restrita à falta de um exemplo real e deve aparecer como ficção. Contextualizar suficientemente o que é retomado e preservar a liberdade de imagens do aluno. Não inventar autobiografia, casos ou resultados. O instrumento de Fabiano é **shakuhachi**; o registro não autoriza inventar episódio instrumental.
 
 Árvore, campo, pêndulo, espiral, escada, artesão e espelho têm funções próprias. Uma figura não explica todo o TSH. O eixo não é uma figura a mais: por decisão de Fabiano em 24/11/2026, é conceito central do TSH (não marca), e as imagens ajudam a vê-lo. Exercício aberto preserva escolha e expressão; não impor uma árvore ou outro mapa como interpretação da experiência pessoal. Quando o objetivo for ensinar um mapa, declarar essa função. Coerência entre slides, notas e apoio é de conceito e função; não requer repetir cada exemplo ou imagem em todos os suportes.
 

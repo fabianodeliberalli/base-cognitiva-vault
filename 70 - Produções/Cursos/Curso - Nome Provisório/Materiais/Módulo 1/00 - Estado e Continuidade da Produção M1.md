@@ -3,9 +3,9 @@ tipo: estado-e-continuidade-de-producao
 projeto: Traduzindo o Ser Humano
 recorte_entrega: "M1.1-M1.7"
 status: referencia-atual-revisavel
-versao: "2.1"
+versao: "2.2"
 criado_em: 2026-08-23
-atualizado_em: 2026-11-21
+atualizado_em: 2026-11-25
 preparacao_de_gravacoes: autorizada
 status_audiovisual: publicacao-registrada-documentalmente-sem-nova-conferencia-da-plataforma
 ---
@@ -20,6 +20,10 @@ A frente atual é integrar M0–M8 e preparar os roteiros de M2. [[TSH - Dossiê
 
 Esta nota foi condensada para facilitar a retomada. O [registro integral anterior de produção e incorporações](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Materiais/M%C3%B3dulo%201/00%20-%20Estado%20e%20Continuidade%20da%20Produ%C3%A7%C3%A3o%20M1.md) permanece recuperável. Suas pendências de arquivos e sua previsão de ensino da árvore em M0.2 descrevem etapas anteriores, não a publicação registrada depois.
 
+## Uso das aulas já publicadas na preparação dos módulos seguintes
+
+No [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros|dossiê de M0 a M8]], as dez fichas de M0 e M1 ligam o conteúdo da aula à passagem correspondente do [[TSH - Elaborações do percurso, exemplos e fundamentação - documento de 25-11-2026|documento de 25/11]]. Em M1.3, a competência incorporada permite perguntar quando um aprendizado se torna disponível em outra situação. Em M1.7, a distinção entre estado, eixo e referência prepara a leitura da repetição em M2.4. Essas relações orientam retomadas, apoios e revisões futuras.
+
 ## Publicação registrada e continuidade por aula
 
 Fonte: versão anterior do dossiê e anexo de 21/11. Não se confirmam versões finais, novas substituições ou conclusão de etapas por inferência.
@@ -32,7 +36,7 @@ Fonte: versão anterior do dossiê e anexo de 21/11. Não se confirmam versões 
 | M1.4 | Território/mapas; Qi e espiritualidade; inserção sobre três campos, Rim, Jing e Nao registrada | M2.5/M2.6 refinam origem, alcance e revisão das leituras. |
 | M1.5 | Cinco Janelas; árvore e ambiente; dança | Relação, prazer, criação e condições materiais continuam no percurso. |
 | M1.6 | Cartografia: situação, manifestação, tradução provisória, orientação possível | Aprofundar o mesmo registro em M2; palavras, imagens, gestos e silêncio permanecem possíveis. |
-| M1.7 | Estado, movimento, referência e participação; Essência, pêndulo, espiral e eixo | Comparar reencontros sem garantir progresso. Eixo é recurso didático, ao lado das outras metáforas. |
+| M1.7 | Estado, movimento, referência e participação; Essência, pêndulo, espiral e eixo | O eixo é a referência de orientação que a pessoa aprende a reencontrar. O pêndulo acompanha a variação no momento e a espiral compara reencontros. |
 
 A base corporal não foi ensinada formalmente em M0.2. Segundo o registro posterior, chegou pelas Aulas abertas e pelo trecho inserido em M1.3. M2 fornece instruções suficientes para sua própria prática; não exige assistência prévia a todo complemento. Sorriso Interior e demais recortes disponíveis são recursos consultáveis, sem presumir adesão ou conclusão.
 
