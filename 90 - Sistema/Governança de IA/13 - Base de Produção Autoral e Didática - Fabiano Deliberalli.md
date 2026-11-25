@@ -1,7 +1,7 @@
 ---
 tipo: base-de-producao-autoral-e-didatica
 status: referencia-de-trabalho-revisavel
-versao: "1.8"
+versao: "1.9"
 atualizado_em: 2026-11-24
 autoridade_final: Fabiano Deliberalli
 elaboracao: desenvolvimento-editorial-para-avaliacao
@@ -15,7 +15,7 @@ Fabiano solicitou que sua base de produção seja recuperada no trabalho com qua
 
 Ao criar ou revisar aulas, roteiros, textos, apresentações, apoios ou outras peças autorais, aplicar esta base durante a execução, sem cobrar um lembrete ou anunciar um ritual de carregamento. Ela atua quando o assistente efetivamente acessa estas referências. A presença de um arquivo não prova que outra IA, conversa ou aplicativo o tenha recebido ou lido.
 
-Há dois níveis: **esta base geral**, sobre qualidade, voz, fontes e recuperação; e **a referência específica do projeto**, com propósito, público, conceitos, identidade e materiais atuais. No TSH, consultar a [[11 - Contexto Mínimo - Traduzindo o Ser Humano]] e o [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]]. Outro projeto recebe sua própria composição; a arquitetura, os termos e a paleta do curso não se tornam um modelo universal.
+Há dois níveis: **esta base geral**, sobre qualidade, voz, fontes e recuperação; e **a referência específica do projeto**, com propósito, público, conceitos, identidade e materiais atuais. No TSH, consultar a [[11 - Contexto Mínimo - Traduzindo o Ser Humano]] e o [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]]. Outro projeto recebe sua própria composição; a arquitetura, os termos e a paleta do curso não se tornam um modelo universal. No TSH, as raízes de Fabiano estão reunidas na [[11b - Raízes Autorais do TSH - Folha de Consulta|folha de raízes autorais]]; elas vêm antes dos autores.
 
 ## Recuperar antes de compor
 
