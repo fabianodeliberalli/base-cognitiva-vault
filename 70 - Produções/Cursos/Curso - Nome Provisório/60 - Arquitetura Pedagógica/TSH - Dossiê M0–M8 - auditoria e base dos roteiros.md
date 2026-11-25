@@ -14,6 +14,12 @@ aliases:
   - Dossiê de auditoria e base dos roteiros
 ---
 
+## Leitura atual da arquitetura e da produção — 24/11/2026
+
+A arquitetura de nove módulos e 59 aulas permanece. Este dossiê situa conteúdos, correspondências e possibilidades de percurso; não é roteiro obrigatório nem prova de aquisição. As avaliações de coerência/profundidade e destinos de fontes abaixo são pareceres editoriais de suas etapas, não resultados demonstrados nos alunos ou confirmação de uso satisfatório pelo professor.
+
+O relato posterior de Fabiano interrompendo M2.4 por repetição/confusão e questionando seu ganho prático reabre sua composição substantiva. Não citar a avaliação positiva anterior para declarar a aula resolvida. [[00 - Estado e Continuidade da Produção M2]] e [[01 - Plano de produção das seis aulas M2]] situam a revisão atual; a proposta de quatro blocos não foi adotada. [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] reúne as orientações em uso, incluindo exemplos pontuais e prática pela contribuição real. Descrições e contagens anteriores abaixo conservam sua genealogia; não impõem a repetição de caso, número de telas, autores ou exercício. O conteúdo curricular não foi apagado por esta nota de leitura.
+
 # Traduzindo o Ser Humano — percurso integrado e base de produção
 
 Revisão editorial iniciada em 21/11/2026 · Estrutura validada por Fabiano em 22/11/2026
@@ -917,5 +923,3 @@ Consulta atual confirmada na main do repositório em 21/11/2026: commit 8b1cff4e
 - [Auditoria do dossiê e preparação de M2](https://chatgpt.com/library?file_id=libfile_fde3_f-5816acc745608191959726cd2cd7d35e_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal).
 - [Anexo auditado, incluindo atualização das 21h56](https://chatgpt.com/library?file_id=libfile_fde3_f-3697143d6ef08191bab8b15c2156b0cc_ad925f8fadbc81918eab9ef0eafee9a9&account_id=personal).
 - [Versão anterior do dossiê no repositório](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/60%20-%20Arquitetura%20Pedag%C3%B3gica/TSH%20-%20Dossi%C3%AA%20M0%E2%80%93M8%20-%20auditoria%20e%20base%20dos%20roteiros.md).
-
-

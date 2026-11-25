@@ -1,8 +1,8 @@
 ---
 tipo: base-de-producao-autoral-e-didatica
 status: referencia-de-trabalho-revisavel
-versao: "1.6"
-atualizado_em: 2026-11-23
+versao: "1.7"
+atualizado_em: 2026-11-24
 autoridade_final: Fabiano Deliberalli
 elaboracao: desenvolvimento-editorial-para-avaliacao
 ---
@@ -47,7 +47,13 @@ Fabiano reiterou que a perda de profundidade vem sendo apontada desde o início 
 
 **Distinguir verificação substantiva e técnica.** Confrontar o produto entregue com o desenvolvimento e as fontes: as relações centrais continuam explicadas? A prática investiga a questão que foi ensinada? O apoio oferece a compreensão necessária por si? Corrigir a lacuna encontrada antes da entrega autorizada. Integridade de ZIP, contagem de telas, igualdade entre JSON e notas, revisão visual e links corretos verificam aspectos específicos; não demonstram preservação da profundidade ou integração teórica. Informar o alcance real das verificações e não declarar “todos os parâmetros incorporados” com base apenas nesses resultados.
 
-**Aplicar a correção à produção.** Retomar fontes e artefatos efetivos quando uma simplificação reaparece; não responder apenas com outro registro de intenção nem transferir a Fabiano o trabalho de descobrir as lacunas. Em 23/11/2026, M2.4 v2 aplica a correção na formação da experiência, no diálogo Cozolino/Kahneman e na aprendizagem incorporada, preservando a condução prática. Isso não declara M2.1–M2.3 ou outras aulas refeitas. No TSH, o padrão e o estado de produção localizam os suportes atuais. Para outros projetos, aplicar esta lógica com o patrimônio próprio, sem transportar o currículo do TSH.
+**Aplicar a correção à produção.** Retomar fontes e artefatos efetivos quando uma simplificação reaparece; não responder apenas com outro registro de intenção nem transferir a Fabiano o trabalho de descobrir as lacunas. O registro de 23/11/2026 descrevia a revisão de M2.4 como aplicação da correção. O relato posterior de Fabiano em 24/11 — gravação interrompida por repetição/confusão e ganho prático questionado — mostrou que esse juízo documental não demonstrava resolução. M2.4 permanece em revisão substantiva, conforme o estado de produção. Não reativar uma composição criticada como exemplar de qualidade pelo simples fato de ser recente ou ter sido conferida tecnicamente. Isso não declara outras aulas refeitas. No TSH, o padrão e o estado de produção localizam os suportes atuais. Para outros projetos, aplicar esta lógica com o patrimônio próprio, sem transportar o currículo do TSH.
+
+### Aprender uma capacidade e ilustrar uma ideia — correção de 24/11/2026
+
+Observar uma diferença, revisar uma interpretação ou registrar uma possibilidade são contribuições próprias; não comprovam ter aprendido a realizar ou cultivar uma capacidade. Verbos como acessar, experimentar e sustentar precisam receber conteúdo: qual recurso, qual operação ensinada, qual condição e qual alcance. Um estado favorável não substitui automaticamente uma habilidade nova ou uma mudança de condições relacionais/materiais. A teoria deve desenvolver o que permite compreender e orientar a realização; a prática não é um apêndice obrigatório para ilustrá-la. Não fabricar uma atividade ou um vídeo por uniformidade.
+
+Exemplos e metáforas entram por contribuição localizada. A aceitação de situações genéricas não as transforma em estrutura recorrente de todas as aulas. Retomar quando acrescenta uma relação necessária, sem impor personagem, cena ou biografia como condição para começar. Essa orientação decorre de correção repetida de Fabiano; não veta exemplos, tradições ou linguagem imagética.
 
 ## Compor o produto e seus suportes
 
@@ -61,7 +67,7 @@ Em exercícios abertos, preservar a escolha de questão, expressão e sentido do
 
 Separar o que o destinatário precisa estudar do que pertence à preparação de produção. As notas sustentam a exposição no formato pedido; o texto do aluno ou leitor explica o conteúdo diretamente a ele. Referências completas e aprofundamentos ocupam o lugar que favoreça consulta e compreensão no produto específico. Não transportar para outras peças todas as funções de uma aula.
 
-O apoio destinado ao estudo precisa ser compreensível por si: restituir o contexto de exemplos, explicar a contribuição dos fundamentos e oferecer as imagens ou os acessos necessários, sem presumir lembrança de outra peça. A formação e a biografia do professor não substituem o conteúdo. Aprofundamentos opcionais ampliam o estudo sem deixar por ensinar algo indispensável. A referência específica de cada projeto define a composição; no TSH, a conferência de cobertura está na seção 13 do padrão de aulas.
+O apoio destinado ao estudo precisa ser compreensível por si: restituir o contexto de exemplos, explicar a contribuição dos fundamentos e oferecer as imagens ou os acessos necessários, sem presumir lembrança de outra peça. A formação e a biografia do professor não substituem o conteúdo. Aprofundamentos opcionais ampliam o estudo sem deixar por ensinar algo indispensável. A referência específica de cada projeto define a composição; no TSH, o padrão de aulas situa a composição e a conferência atuais; suas etapas anteriores estão preservadas no histórico.
 
 ### Apoio de consulta e condução — aprendizado da gravação M2.1
 
@@ -80,5 +86,3 @@ Distinguir apresentar um percurso, conduzir a participação, permitir elaboraç
 Revisar a correspondência entre conceitos, imagens, exemplos, notas, práticas e apoios, sem exigir repetição literal. Conferir os artefatos reais: conteúdo completo, legibilidade, relações gráficas, fontes, links, páginas ou telas, exportação e integridade do material recuperado, conforme a entrega. O acabamento visual não demonstra compreensão, aprendizagem ou execução audiovisual.
 
 Distinguir decisões registradas de propostas editoriais e manter versões e materiais históricos recuperáveis. Os registros de produção acompanham versões, arquivos, alterações e trabalho restante. Omitir campos, pendências e lembretes de aprovação para gravação. Ajustes reversíveis autorizados avançam na própria tarefa; a integração à main segue a autorização vigente na conversa e o contrato comum.
-
-

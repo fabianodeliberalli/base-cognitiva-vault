@@ -9,6 +9,10 @@ aliases:
   - Vivências de Fabiano para as aulas
 ---
 
+## Uso consultivo das cenas — 24/11/2026
+
+Este banco conserva vivências e caminhos de recuperação. Não é estrutura de aula nem modelo de caso recorrente. Recuperar uma cena quando acrescentar compreensão; não exigir de Fabiano outra lembrança a cada bloco. As formulações e fundamentos autorais também expressam sua voz, sem biografia obrigatória. Aplicar [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]]; preservar a procedência das vivências, sem inventar episódios.
+
 # Banco de cenas e vivências do autor
 
 Onde procurar a voz de Fabiano ao construir uma aula, conforme [[TSH - Forma de construção das aulas M2–M8 - cena, verbo e voz do autor]]. A primeira tabela aponta para o que já está no repositório, sem copiar o texto. A segunda recebe as respostas de Fabiano aos pedidos feitos durante a construção dos roteiros.

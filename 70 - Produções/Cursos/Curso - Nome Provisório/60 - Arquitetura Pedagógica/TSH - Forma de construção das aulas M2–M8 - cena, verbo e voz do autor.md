@@ -1,13 +1,17 @@
 ---
 tipo: orientacao-de-producao
 projeto: Traduzindo o Ser Humano
-status: referencia-atual-revisavel
+status: historico-consultivo-de-construcao
 criado_em: 2026-11-21
 autor: Fabiano Deliberalli
 aliases:
   - Forma de construção das aulas
   - Cena, verbo e voz do autor
 ---
+
+## Estatuto atual: histórico de construção, consulta por necessidade
+
+Esta nota preserva etapas de 21–22/11 e o desenvolvimento de cena, verbo e voz. A instrução atual está em [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]]. Fabiano apontou em 24/11 que a situação genérica repetida por slides/autores voltou a cansar e travar a exposição. Exemplos e metáforas seguem disponíveis por função; não constituem estrutura obrigatória, abertura de cada bloco ou exigência de nova cena/áudio ao autor. Os quatro campos de notas abaixo são genealogia, não o suporte atual. Voz autoral significa recuperar o pensamento, as formulações e suas articulações; não exige narrativa biográfica em cada aula. Nenhum conteúdo de acervo foi excluído.
 
 ## Modelo de produção adotado — 22/11/2026
 
@@ -103,6 +107,3 @@ Em M7.8 cabe a outra metade de Long: a culpa real pede reparação concreta, nã
 - **Cronometrar M3.6 no ensaio.** Se passar de cerca de 25 minutos, dividir em parte A (Zhan Zhuang: origem, princípios, eixo do pé ao topo, transições, versão sentada) e parte B (sequência regular comentada), como já decidido para as aulas com prática editada; ou levar os detalhes para o material de apoio.
 - **Antiga M3.7: no máximo dois recursos novos** era recomendação daquela distribuição, não limite para a atual aula de movimento. A função de escolher recursos é agora M3.8.
 - **Encontro de 05/12:** se as três etapas de indução apertarem o tempo, o braço como pano molhado pode passar para 12/12 sem prejuízo da sequência.
-
-
-
