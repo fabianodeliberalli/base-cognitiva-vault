@@ -80,7 +80,7 @@ Proposta para análise de Fabiano: teoria com cerca de 15 telas e prática de 10
 
 | Bloco | Conteúdo | Telas atuais reaproveitáveis |
 | --- | --- | --- |
-| Abertura | "Somos 'vividos' e não vivemos!"; "Repetimos sem perceber porque aprendemos a sobreviver". Cena de Fabiano (sugestão do banco de cenas: o exercício dos livros e balões, que mostra a imagem organizando o corpo sem decisão). | — |
+| Abertura | "Somos 'vividos' e não vivemos!"; "Repetimos sem perceber porque aprendemos a sobreviver". Cena de Fabiano: o relato da infância (aprender a bater para fazer a agressão parar; “Entender a origem não bastou para desarmar a resposta”) e o episódio do trânsito com o Sorriso Interior, ambos no [[Guia-de-Conducao-Masterclass-TSH-2026-10-31|guia de condução da Masterclass]] (v2.6 em Word). Corrigido em 25/11: a sugestão anterior, o exercício dos livros e balões, está destinada pelo plano de hipnose a M2.2 ou ao encontro de 05/12 e não serve como cena desta aula. | — |
 | O padrão como camada que protegeu | Padrões automáticos e defesas e máscaras no Caminho da Semente; o que a resposta preserva e o que fica sem lugar. | 16 |
 | Por que entender não desfaz | O Eu Médio compreende; a camada vive no Eu Básico; "muitas vezes há apenas um registro subcortical da experiência"; dois tempos da Tradução. Cozolino pode entrar em uma frase. | 4, 5 |
 | O circuito que mantém | A resposta produz o próximo encontro. Morin em uma linha. | 8, 9 |
@@ -95,7 +95,7 @@ Proposta para análise de Fabiano: teoria com cerca de 15 telas e prática de 10
 - Milgram vai para M7.4 (recusar e encerrar diante de autoridade) ou para as leituras complementares;
 - Tiers sai da tela; a estrutura de ensaio fica.
 
-**Pendente com Fabiano:** a cena de abertura (o exemplo do prazo já apareceu quatro vezes) e a escolha final do apoio da prática.
+**Pendente com Fabiano:** confirmar a cena e conferir se o relato da infância já foi contado na Masterclass publicada no M0; a escolha final do apoio da prática.
 
 ### 5. M2.5 e M2.6 (a produzir)
 
@@ -128,7 +128,7 @@ Pela dinâmica adotada em 21/11, a prática ao vivo de sábado é editada e entr
 | Aulas abertas do M0 (publicadas) | M2.4 (prática), M3.6, M3.7, M4.6, M6.6 | eixo, apoio e três ajustes; árvore, Tan Tien e Yongquan; eixo no cotidiano; Sustentar o Céu; Sorriso Interior |
 | Gênese da Árvore da Singularidade e Banco Fenomenológico | M5.6, M7.6 | a singularidade que busca expressão; casos como base de ficção |
 | TCC de sincronia neural | M2.5, M7.3 | hipóteses de origem; sincronia interpessoal |
-| Banco de cenas do autor | conforme cada linha do dossiê | infância e rádio do avô (M5.5); livros e balões (M2.4); suporte da TV (M2.6); caso da ABBSP (M4.5) |
+| Banco de cenas do autor e guia de condução da Masterclass | conforme cada linha do dossiê | infância e rádio do avô (M5.5); aprender a bater e o trânsito com o Sorriso Interior (M2.4); suporte da TV (M2.6); caso da ABBSP (M4.5); livros e balões (M2.2 ou encontro de 05/12) |
 
 **Estatuto:** as palestras de 2022 e 2025 trazem também afirmações que o curso não pode apresentar como fato (orgonite, carga de elétrons, emoções medidas em hertz segundo Hawkins). Delas se levam as formulações de Fabiano e as práticas, com o estatuto de tradição, experiência ou hipótese.
 
