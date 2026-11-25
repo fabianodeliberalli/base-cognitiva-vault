@@ -42,7 +42,7 @@ Recuperar acervo visual antes de criar. Mapas complexos podem aparecer inteiros 
 
 ## Recuperação por contribuição
 
-Consultar somente as rotas pertinentes, chegando às passagens e materiais efetivos. Não constituem uma cadeia de leitura obrigatória.
+Consultar somente as rotas pertinentes, chegando às passagens e materiais efetivos. São alternativas conforme a necessidade da produção.
 
 | Necessidade | Pontos de recuperação |
 | --- | --- |

@@ -48,7 +48,7 @@ A abertura torna clara a questão da aula, o aprendizado proposto e seu lugar no
 
 Exemplos continuam disponíveis, cotidianos, clínicos anonimizados, autorais ou provenientes de tradição/fonte identificada. Metáforas das Grandes Tradições e populares podem acrescentar relação ou profundidade. Contextualizar suficientemente o que é retomado e preservar a liberdade de imagens do aluno. Não inventar autobiografia, casos ou resultados. O instrumento de Fabiano é **shakuhachi**; o registro não autoriza inventar episódio instrumental.
 
-Árvore, campo, pêndulo, espiral, eixo, escada, artesão e espelho têm funções próprias. Uma figura não explica todo o TSH. Exercício aberto preserva escolha e expressão; não impor uma árvore ou outro mapa como leitura obrigatória da experiência. Quando o objetivo for ensinar um mapa, declarar essa função. Coerência entre slides, notas e apoio é de conceito e função; não requer repetir cada exemplo ou imagem em todos os suportes.
+Árvore, campo, pêndulo, espiral, eixo, escada, artesão e espelho têm funções próprias. Uma figura não explica todo o TSH. Exercício aberto preserva escolha e expressão; não impor uma árvore ou outro mapa como interpretação da experiência pessoal. Quando o objetivo for ensinar um mapa, declarar essa função. Coerência entre slides, notas e apoio é de conceito e função; não requer repetir cada exemplo ou imagem em todos os suportes.
 
 ## 5. Slides, acervo e identidade visual
 
