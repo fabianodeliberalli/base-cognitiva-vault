@@ -330,7 +330,7 @@ O caso "A dor facial e a cena anômala" fica para M3.2: tem detalhes de saúde q
 
 - Neste módulo lemos as camadas: percepção, importância, certeza, repetição, interpretação e Tradução. Foi o primeiro movimento do curso: traduzir.
 - Frase em destaque, do texto "Padrões e ressonância" (10/11/2026): "Precisamos primeiro traduzir o que temos em nossos padrões e depois trabalhar para ganhar eixo e presença suficientes para ocupar nosso real espaço."
-- Traduzir foi este módulo; ganhar eixo e presença é o trabalho dos Módulos 3 a 6; ocupar o próprio espaço, dos Módulos 7 e 8.
+- Traduzir: os fundamentos no Módulo 1 e a prática neste módulo; ganhar eixo e presença é o trabalho dos Módulos 3 a 6; ocupar o próprio espaço, dos Módulos 7 e 8.
 - "Primeiro" e "depois" indicam a direção, não etapas em fila: na prática, uma alimenta a outra, como no caso da membrana.
 - Algumas camadas não estão nas ideias. Estão no corpo.
 - No Módulo 3, o corpo: o estado que muda o que fica acessível, e o eixo como postura.

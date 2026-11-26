@@ -68,6 +68,7 @@ Falar como abertura do módulo, para quem vai assistir depois, sem nomes de part
 
 - "Hoje começamos o Módulo 2."
 - O Módulo 2 olha para o que acontece entre o que vivemos e o que fazemos: como percebemos, o que ganha importância, de onde vêm as certezas e por que certas respostas voltam.
+- O mapa do percurso, com as palavras de Fabiano: "Precisamos primeiro traduzir o que temos em nossos padrões e depois trabalhar para ganhar eixo e presença suficientes para ocupar nosso real espaço." Traduzir: os fundamentos no Módulo 1 e a prática neste módulo. Ganhar eixo e presença: Módulos 3 a 6. Ocupar o próprio espaço: Módulos 7 e 8. Uma direção alimenta a outra.
 
 **A2. As camadas (3 min). Tela 1.**
 

@@ -18,6 +18,8 @@ Fabiano adotou a trilha de M2.1 como exemplar de apoio visual e andamento compre
 
 ## 2. O que muda na construção: aquisição e progressão
 
+**Mapa do percurso (Fabiano, 26/11/2026).** Três direções, do texto [[TSH - Padrões e ressonância - texto de Fabiano de 10-11-2026|«Padrões e ressonância»]]: **traduzir** — M1 (fundamentos) e M2 (prática da tradução); **ganhar eixo e presença** — M3 a M6; **ocupar o próprio espaço** — M7 e M8. M0 é a entrada. As direções se alimentam; não são etapas em fila. Toda estruturação, abertura e fecho de módulo situa o aluno nesse mapa com clareza. Na prática: a abertura do módulo diz em qual direção o aluno está e o que veio antes; o fecho diz o que foi feito e para onde segue; uma aula que muda de direção (M2.6 para M3, M6 para M7) nomeia a passagem.
+
 Ferramentas e experiências que desenvolvem capacidades são centrais no TSH. A teoria profunda explica, diferencia e amplia esse trabalho. A investigação de padrões participa do percurso, junto com cultivo, descoberta, criação, prazer, expressão, relação e espiritualidade. A multidimensionalidade precisa alterar a explicação e a experiência oferecida, em vez de aparecer apenas como lista de dimensões.
 
 Antes de montar telas, desenvolver a contribuição da aula em relação ao que já foi efetivamente ensinado. Nomear o que o aluno passará a compreender e o que aprenderá a realizar ou cultivar, com a extensão e os limites desse ensino. A aula pode ter função predominantemente conceitual, preparatória ou de integração quando isso contribuir para o percurso. Não inventar exercício para que toda aula pareça prática. No conjunto, não adiar continuamente as ferramentas nem chamar toda observação de aquisição.
