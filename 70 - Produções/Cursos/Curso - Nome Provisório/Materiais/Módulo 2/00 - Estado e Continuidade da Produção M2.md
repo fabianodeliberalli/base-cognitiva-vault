@@ -29,6 +29,8 @@ A auditoria está em [[TSH - Raízes na produção - auditoria de M2 e destinaç
 
 Roteiros prontos para gravar: [[M2 - Roteiros de gravação - pontes, práticas M2.2 e M2.3, M2.4, M2.5 e M2.6]] e [[M2 - Encontro de 28-11 - Abertura do módulo e prática Do primeiro sinal ao eixo - roteiro]] (versão 2, com três cortes). Planejamento geral: [[TSH - Planejamento livre das aulas M2-M8 e avaliação de M0-M1 - 25-11-2026]].
 
+Slides de gravação com notas (25/11, noite): pasta `Slides de gravação 29-11/`, com as pontes de M2.1 a M2.3, as práticas de M2.2 e M2.3 (com o eixo), M2.4, M2.5 e M2.6, e o guia de gravação gerado das notas.
+
 Correção: o suporte da TV não é ficção; é o caso real "A segurança de ontem nas escolhas de hoje" e entra em M2.4. M2.6 usa "A membrana que se rompeu".
 
 ## Plano de compensação, sem regravar as teorias de M2.1–M2.3

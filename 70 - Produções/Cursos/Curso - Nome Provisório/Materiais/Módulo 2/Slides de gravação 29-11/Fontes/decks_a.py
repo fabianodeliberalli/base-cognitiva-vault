@@ -1,0 +1,253 @@
+from base import *
+
+OUT = "/home/claude/out/slides"
+os.makedirs(OUT, exist_ok=True)
+
+# =====================================================================
+# PONTES
+# =====================================================================
+d = Deck("M2 · Pontes", "Antes da aula")
+
+d.frase("Antes de M2.1",
+        "Essa Essência vai ficando soterrada por camadas de vivências, como suas emoções, crenças, imagens, memórias e corpos.",
+        "Fabiano Deliberalli · workshop Essência", "APRESENTAR",
+        ["Antes desta aula, quero situar o que você vai ver.",
+         "Na abertura do módulo, vimos o mapa da Semente.",
+         "",
+         "«Essa Essência vai ficando soterrada por camadas de vivências, como suas emoções, crenças, imagens, memórias e corpos.»",
+         "",
+         "Esta aula mostra como a percepção se forma.",
+         "Quando ela falar de expectativa, de pistas, de aprendizagem…",
+         "…observe: são as camadas participando do que você percebe."],
+        "Próximo: os homens e o elefante.", lead="Ponte para M2.1 · Como se forma o que você percebe?")
+
+d.historia("Os homens e o elefante", "HISTÓRIA BUDISTA E JAINISTA",
+           ["Homens que não enxergam tocam um elefante.",
+            "Um toca a tromba: “é uma serpente”.",
+            "Outro, a perna: “é uma coluna”.",
+            "Outro, a orelha: “é um leque”."],
+           "Ninguém mente.\nCada um percebe a partir de onde está.",
+           "CONTAR",
+           ["Uma história contada por budistas e jainistas.",
+            "Cada um toca uma parte e descreve o todo por ela.",
+            "Ninguém mente. Cada um percebe a partir de onde está.",
+            "",
+            "Perceber é sempre a partir de algum lugar.",
+            "No TSH, esse lugar pode ser o eixo: a árvore, os pés, o centro.",
+            "",
+            "Antes de assistir, sinta os pés no chão por um instante.",
+            "É daí que vamos perceber."],
+           "Segue a aula M2.1 já gravada.")
+
+d.frase("Antes de M2.2",
+        "Seu problema não é sentir demais, mas não ser traduzida.",
+        "Fabiano Deliberalli · Arquitetura Invisível, cap. 2", "APRESENTAR",
+        ["Na aula anterior: a percepção se forma através das camadas.",
+         "Agora: por que alguns sinais ganham mais importância do que outros.",
+         "",
+         "Uma frase que escrevi:",
+         "«Seu problema não é sentir demais, mas não ser traduzida.»",
+         "",
+         "No meio da aula você vai encontrar o Eu Básico e o Eu Médio.",
+         "O Eu Básico sente primeiro. Ele «chora, mas não sabe falar».",
+         "O que ganha importância pode ser algo da sua Essência pedindo expressão…",
+         "…e não só um problema a resolver."],
+        "Próximo: Nasrudin e a chave.", lead="Ponte para M2.2 · Por que alguns sinais ganham mais importância?")
+
+d.historia("Nasrudin e a chave", "HISTÓRIA POPULAR SUFI",
+           ["Nasrudin procura a chave debaixo do poste da rua.",
+            "Um vizinho ajuda. Muito tempo depois: “Onde você perdeu?”",
+            "“Em casa.”",
+            "“Então por que procura aqui?” “Porque aqui tem luz.”"],
+           "A atenção vai para onde já há luz.\nO que importa pode estar no escuro, pedindo Tradução.",
+           "CONTAR",
+           ["Uma história popular dos sufis.",
+            "Conte com calma; o humor está na última resposta.",
+            "",
+            "A atenção vai para onde já há luz:",
+            "o conhecido, o que já sabemos procurar.",
+            "",
+            "Nesta aula vamos perguntar o que ganhou luz…",
+            "…e o que ficou no escuro, pedindo Tradução."],
+           "Segue a aula M2.2 já gravada.")
+
+d.frase("Antes de M2.3",
+        "O problema muitas vezes não vem da experiência em si, mas da interpretação que fazemos dela.",
+        "Fabiano Deliberalli · primeiras elaborações do curso", "APRESENTAR",
+        ["Uma frase das primeiras elaborações do curso:",
+         "«O problema muitas vezes não vem da experiência em si, mas da interpretação que fazemos dela.»",
+         "",
+         "Esta aula é sobre isso:",
+         "quando uma leitura ganha força de certeza."],
+        "Próximo: a corda e a serpente.", lead="Ponte para M2.3 · Interpretações e certezas")
+
+d.historia("A corda e a serpente", "IMAGEM DA TRADIÇÃO DO VEDANTA",
+           ["Ao entardecer, alguém vê uma serpente no caminho.",
+            "O coração dispara. O corpo recua.",
+            "Com a luz, era uma corda."],
+           "O medo foi real.\nA conclusão, não.\n\nQuando a certeza ocupa o campo inteiro, perdemos o eixo.",
+           "CONTAR",
+           ["Uma imagem do Vedanta.",
+            "O medo foi real. A conclusão, não.",
+            "",
+            "Em certo momento a aula fala da leitura que ocupa o campo inteiro.",
+            "Quando uma certeza ocupa o campo inteiro, perdemos o eixo.",
+            "Voltar ao eixo devolve outras pistas: a corda reaparece."],
+           "Segue a aula M2.3 já gravada.")
+d.save(f"{OUT}/TSH · M2 · Pontes de M2.1, M2.2 e M2.3.pptx")
+PONTES = d
+
+# =====================================================================
+# M2.4 TEORIA
+# =====================================================================
+d = Deck("M2.4", "Teoria")
+d.capa("O que mantém a repetição de uma resposta?",
+       "Do transe que não se escolhe ao espaço entre sentir e agir",
+       "ABRIR",
+       ["Esta é a pergunta do curso, agora por dentro.",
+        "Por que uma resposta volta, mesmo quando já entendemos de onde ela vem?",
+        "",
+        "Hoje: uma cena minha, um caso real e o espaço entre sentir e agir.",
+        "Depois, a prática gravada no encontro ao vivo."],
+       "Próximo: a cena da infância.", tag="M2.4 · O QUE MANTÉM A REPETIÇÃO")
+
+d.cartoes("Uma cena minha",
+          [("A criança", "A violência já me doía.\nEu preferia apanhar a brigar."),
+           ("A solução", "Aprendi que um soco fazia a agressão parar.\nE aprendi a bater."),
+           ("O preço", "Desenvolvi exatamente o que eu mais detestava.\nNão provocava, mas não recuava."),
+           ("Hoje", "Entender a origem não bastou.\nO gatilho ainda aparece, no trânsito, por exemplo.")],
+          "CONTAR",
+          ["Conte com as suas palavras. Referência do seu texto:",
+           "",
+           "«Quando eu era criança, eu sofria muito com agressão — não por apanhar, mas porque a própria violência já me doía.»",
+           "«Eu preferia apanhar a brigar.»",
+           "«Até que aprendi que, com um soco, conseguia fazer a agressão do outro parar. E aprendi a bater.»",
+           "«O problema é que desenvolvi exatamente o que eu mais detestava.»",
+           "«Passei a não fugir mais de conflito — nunca provocava, mas também não recuava.»",
+           "",
+           "«Isso me trouxe problemas reais ao longo da vida, muito depois de eu já entender, tecnicamente, de onde vinha aquele padrão.»",
+           "«Entender a origem não bastou para desarmar a resposta.»",
+           "«Até hoje esse gatilho aparece, no trânsito, por exemplo.»"],
+          "Próximo: por que entender não bastou.", dark_idx=(3,))
+
+d.frase("Somos vividos",
+        "Somos “vividos” e não vivemos!",
+        "Fabiano Deliberalli · workshop Essência", "EXPLICAR",
+        ["«Somos “vividos” e não vivemos!»",
+         "«Onde pensamos que estamos agindo com liberdade, temos a ilusão da liberdade.»",
+         "«Repetimos sem perceber porque aprendemos a sobreviver.» (mapa O Caminho da Semente)",
+         "",
+         "A resposta que se repete foi, um dia, uma solução.",
+         "É uma das camadas sobre a Essência: protegeu, e depois passou a decidir por nós.",
+         "",
+         "No Yoga se fala em impressões que deixam sulcos.",
+         "A experiência seguinte tende a correr por eles."],
+        "Próximo: o transe que não se escolhe.",
+        lead="Repetimos sem perceber porque aprendemos a sobreviver.")
+
+d.dois("O transe que não se escolhe",
+       ("Eu Básico", "responde primeiro: corpo, impulso, emoção"),
+       ("Eu Médio", "chega depois: nomeia, explica, decide"),
+       "antes", "EXPLICAR",
+       ["Todos vivemos hipnotizados em algum grau.",
+        "A resposta que se repete é um transe que não escolhemos:",
+        "quando percebemos, já entramos.",
+        "",
+        "O Eu Básico responde primeiro.",
+        "O Eu Médio chega depois e explica.",
+        "Vocês viram esse par na M2.2.",
+        "",
+        "Por isso entender não basta:",
+        "o entendimento chega depois da entrada."],
+       "Próximo: o espaço entre sentir e agir.",
+       foot="Entender não basta: o entendimento chega depois da entrada.")
+
+d.sequencia("O espaço entre sentir e agir",
+            ["O gatilho", "O primeiro sinal no corpo", "O espaço", "A resposta"],
+            "EXPLICAR",
+            ["Entre o sentir e o agir há um espaço.",
+             "Esse espaço «explica por que repetimos padrões mesmo sabendo deles, e como treinar nesse espaço para sair do automatismo».",
+             "",
+             "Na pesquisa, Cozolino fala em fração de segundo.",
+             "É uma imagem, não um cronômetro.",
+             "",
+             "Não é preciso decidir de onde veio o padrão.",
+             "É preciso perceber que ele começou."],
+            "Próximo: o que mudou em mim.",
+            foot="Não é preciso decidir de onde veio o padrão. É preciso perceber que ele começou.")
+
+d.cartoes("O que mudou em mim",
+          [("No trânsito de São Paulo", "Atrasado para viajar e dar um curso.\nO corpo já decidindo: acelerar, insistir."),
+           ("O Sorriso Interior", "Parei. Alguns segundos com a prática taoísta que faço há anos."),
+           ("Outra resposta", "Quando a calma voltou, adiei a viagem para a manhã seguinte.")],
+          "CONTAR",
+          ["«O que mudou não foi o gatilho desaparecer.»",
+           "«Foi o espaço entre ele e a minha resposta, que hoje favorece a esquiva no lugar da luta.»",
+           "",
+           "Conte a cena do trânsito com calma.",
+           "",
+           "«Não foi a situação que mudou. Foi o intervalo que apareceu antes da resposta.»"],
+          "Próximo: um caso real.",
+          foot="“Não foi a situação que mudou. Foi o intervalo que apareceu antes da resposta.”",
+          dark_idx=(2,))
+
+d.sequencia("Um caso real: a segurança de ontem",
+            ["Família em que a segurança era o centro",
+             "Hoje: outra vida, conhece os próprios padrões",
+             "O suporte da TV: um mês pensando, sem olhar",
+             "Tirou o suporte: os mesmos furos serviam"],
+            "CONTAR",
+            ["Uma pessoa que acompanho há anos.",
+             "Cresceu numa família em que a segurança ocupava o centro; arriscar era perigoso.",
+             "Hoje a vida é outra: conhece os próprios padrões, decide melhor em muitas coisas.",
+             "",
+             "Trocou a televisão; o suporte antigo da parede não servia.",
+             "Um mês pensando: novos furos? chamar alguém? não queria gastar, sem dificuldade real para isso.",
+             "Nesse mês, não tirou o suporte antigo para olhar.",
+             "Quando tirou, os mesmos furos serviam. Resolveu em uma hora.",
+             "",
+             "Conhecia o padrão; o padrão continuou.",
+             "As condições eram outras; a resposta seguia a segurança de ontem.",
+             "Havia cansaço, sobretudo nas costas. Na minha leitura clínica, uma hipótese: ficar tanto tempo sem agir também pesa."],
+            "Próximo: o espelho e a escada.",
+            foot="As condições eram outras. A resposta seguia a segurança de ontem.")
+
+d.imagem("O espelho e a escada", "img/escada.png", "A ESCADA DA MASTERCLASS",
+         "Fotografia original: @scripz · Adaptação visual por IA para o TSH",
+         ["Os lances se parecem, mas ocupam posições diferentes.", "",
+          "A pergunta do espelho:", "o que mudou desde a última vez?"],
+         "RETOMAR",
+         ["A situação de hoje devolve o passado, como um espelho.",
+          "Lembram da escada da Masterclass?",
+          "Os lances se parecem, mas ocupam posições diferentes.",
+          "",
+          "A pergunta do espelho:",
+          "o que mudou desde a última vez?"],
+         "Próximo (opcional): o homem que fugia da sombra. Se não for contar, pule para a ponte da prática.")
+
+d.historia("O homem que fugia da sombra", "ZHUANGZI · OPCIONAL",
+           ["Um homem tinha medo da própria sombra e das próprias pegadas.",
+            "Corria para se livrar delas.",
+            "Quanto mais corria, mais pegadas. A sombra não o largava.",
+            "Correu até cair."],
+           "Bastava sentar à sombra de uma árvore.\n\nFugir mais rápido não interrompe o padrão. Parar e perceber, sim.",
+           "CONTAR",
+           ["Uma história de Zhuangzi.",
+            "Bastava sentar à sombra de uma árvore: a sombra some, as pegadas param.",
+            "",
+            "Fugir mais rápido não interrompe o padrão.",
+            "Parar e perceber, sim."],
+           "Próximo: a ponte para a prática.")
+
+d.fechamento("Para a prática",
+             "A Essência é o destino. O EIXO é o caminho.",
+             ["Na prática desta aula, gravada no encontro ao vivo:",
+              "perceber que entrou num transe que não escolheu…",
+              "…e voltar ao eixo."],
+             "ENCERRAR",
+             ["Na prática desta aula, gravada no encontro ao vivo, vamos treinar justamente isto:",
+              "perceber que entrou e voltar ao eixo.",
+              "",
+              "«A Essência é o destino. O EIXO é o caminho.»"])
+d.save(f"{OUT}/TSH · M2.4 · Teoria · O que mantém a repetição de uma resposta.pptx")
+M24 = d
