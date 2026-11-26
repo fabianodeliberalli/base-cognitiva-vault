@@ -32,7 +32,7 @@ Casos de pacientes entram como exemplos reais anonimizados, de preferência os d
 | Exercício dos livros e balões (Fabiano, 2025) e o poder do dedo | [[05 - Hipnose e Auto-Hipnose nos Módulos e Aulas do TSH - Plano de Incorporação]] | M2.2, M2.4 |
 | "O Eu Básico chora, mas não sabe falar" (leitura de Fabiano, 21/11/2026) | [[Huna - Max Freedom Long e Serge King nos Três Eus]] | M2.2, M4.4, M5.3 |
 | Aula da ABBSP: imagem com culpa, diálogo com essa parte, fusão simbólica com a figura espiritual (caso anonimizado; detalhes fora do repositório) | [[Processo 3-2-1 - Cuidado do Eu Básico e Diálogo com a Parte Culpada]] | M4.5 |
-| Suporte da TV: semanas presas à previsão de furos e custo, até a retirada do suporte antigo trazer a informação que faltava (como ficção) | Dossiê, avaliação item 13 | M2.6 |
+| Suporte da TV: semanas presas à previsão de furos e custo, até a retirada do suporte antigo trazer a informação que faltava. **Correção de 25/11/2026:** é o caso real anonimizado "A segurança de ontem nas escolhas de hoje" do Banco Fenomenológico, não ficção | Dossiê, avaliação item 13; Banco Fenomenológico, caso 007 | M2.4 |
 | Aula prática de 14/11: árvore, Sustentar o Céu, caso da mensagem de cobrança | [[2026-11-14 - Carrossel da Aula Prática - Acervo da Campanha]] e slides da aula | M2.3, M3, parâmetro dos encontros |
 | Mais de 20 turmas e grupos de estudo com a Dra. Gilda Moura sobre consciência e espiritualidade | Roteiro de abertura da Masterclass | M5.6, M5.8 |
 | A pergunta do TCC sobre sincronia neural interpessoal | [[DELIBERALLI_TCC_SINCRONIA_NEURAL_ESTADOS_CONSCIENCIA_2026 (1)]] (Caixa de Entrada); [[06 - Modelo Neurobiológico-Relacional da Espiritualidade — TCC]] | M7.3 |
