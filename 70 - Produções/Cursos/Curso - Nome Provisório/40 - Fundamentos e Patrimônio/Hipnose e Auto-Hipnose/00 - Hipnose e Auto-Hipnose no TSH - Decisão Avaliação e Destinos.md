@@ -31,6 +31,22 @@ Desdobramento confirmado por Fabiano na mesma data:
 
 **Mantido como cuidado de condução**, parte da competência clínica de Fabiano e não restrição curricular: não praticar dirigindo ou operando máquinas; omitir ou adaptar diante de psicose ou mania aguda, dissociação grave ou trauma desestabilizado. Esses cuidados acompanham a condução, como já acompanham qualquer prática do curso, e não limitam quais conteúdos entram.
 
+## 1a. Usos e objetivos no mapa do percurso — 26/11/2026
+
+Formulação de Fabiano, para orientar aulas, encontros e comunicação:
+
+> "Somos vividos pelos padrões que carregamos": os padrões funcionam como transes que não escolhemos. A auto-hipnose ensina a entrar por escolha num estado de atenção concentrada.
+
+A auto-hipnose é apresentada sempre como **uma habilidade que o próprio aluno aprende**, e não como algo feito a ele.
+
+| Direção do mapa | Uso | Objetivo | Onde |
+|---|---|---|---|
+| Traduzir | Reconhecer o transe que não se escolhe | Perceber quando um padrão está "vivendo" a pessoa: atenção estreitada, automatismo, absorção | M2, com o núcleo em M2.4 (o transe e os sulcos da repetição) e a microprática do transe natural |
+| Ganhar eixo e presença | Praticar o transe escolhido | Entrar por escolha em atenção concentrada para acessar recursos, regular e aprofundar o eixo; a sequência de auto-hipnose se repete e se aprofunda, como o cultivo corporal | M3 a M6 e a indução nos encontros ao vivo |
+| Ocupar o próprio espaço | Ensaio mental e projeção no futuro | Ensaiar a expressão, o pedido, o limite ou a reparação antes da conversa real; projetar a nova resposta nas situações que virão | M7 (ensaio antes da conversa) e M8 (projeção no futuro e continuidade) |
+
+Os cuidados de condução da seção 1 valem para as três direções. Na comunicação: auto-hipnose como habilidade do aluno, sem palco, sem "controle da mente" e sem "reprogramação" como promessa.
+
 ## 2. Respaldo: o percurso de Fabiano
 
 A competência que sustenta a incorporação já está documentada no vault, fora do TSH:

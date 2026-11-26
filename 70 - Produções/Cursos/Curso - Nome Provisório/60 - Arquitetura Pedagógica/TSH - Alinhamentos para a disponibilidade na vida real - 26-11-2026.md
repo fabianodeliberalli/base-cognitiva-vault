@@ -159,6 +159,14 @@ O curso não garante um interlocutor, mas pode oferecer três caminhos, e o alun
 
 **Depoimentos honestos:** só com autorização escrita. Mostrar o conjunto ("de tantos participantes que responderam, tantos relataram…"), dizer que é autoavaliação e não escolher só os melhores casos.
 
+## 1.6 A auto-hipnose no sistema
+
+A auto-hipnose, habilidade que o próprio aluno aprende, liga as partes do sistema às três direções do mapa:
+
+- **Traduzir — reconhecer o transe.** O passo "perceber" do Cultivo do Eixo ("o que está me vivendo agora?") é o reconhecimento do transe que não se escolhe. No caderno, o campo "o primeiro sinal" registra a entrada nesse transe.
+- **Ganhar eixo e presença — o transe escolhido.** Nos encontros, a indução de auto-hipnose aprofunda o mesmo eixo que o Cultivo do Eixo pratica todos os dias. A sequência se repete e se aprofunda de módulo a módulo, como o cultivo corporal.
+- **Ocupar o próprio espaço — ensaio mental e projeção no futuro.** Em M7 e M8, o plano "quando eu perceber…, vou…" é ensaiado em auto-hipnose: o aluno vive por antecipação o primeiro sinal e a nova resposta. Ensaiar a cena antes reforça o plano no momento real, e é aqui que a auto-hipnose serve mais diretamente ao centro da promessa.
+
 # 2. Ritmo de produção e calendário
 
 **Proposta quinzenal**, com encontros aos sábados das 9h às 11h:

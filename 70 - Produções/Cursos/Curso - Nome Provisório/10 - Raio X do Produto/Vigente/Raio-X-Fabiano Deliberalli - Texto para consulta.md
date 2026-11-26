@@ -13,7 +13,8 @@ substitui: "Transcrição do Word de 31/10/2026, preservada em Histórico"
 - os nomes revisados dos módulos e das aulas;
 - o Qi Gong e a Medicina Chinesa como prática central;
 - o mapa do percurso e os mapas do curso;
-- os benefícios sem ressalvas embutidas, que passam para a seção 4.
+- os benefícios sem ressalvas embutidas, que passam para a seção 4;
+- a auto-hipnose como habilidade que o aluno aprende, nas três direções do mapa.
 
 A versão de 31/10 está em `Histórico/2026-10-31 - Raio-X-Fabiano Deliberalli - Texto para consulta.md`, como registro. Para comunicação, página de vendas, Masterclass e materiais, vale este texto.
 
@@ -30,6 +31,11 @@ Nome do produto: **Traduzindo o Ser Humano** — Por que você entende seus padr
 
 O Módulo 0 é a entrada. As três direções se alimentam.
 
+**A auto-hipnose no percurso.** "Somos vividos pelos padrões que carregamos": os padrões funcionam como transes que não escolhemos. A auto-hipnose é uma habilidade que o próprio aluno aprende: entrar por escolha num estado de atenção concentrada. Ela acompanha as três direções do mapa:
+- **Traduzir:** reconhecer o transe que não se escolhe.
+- **Ganhar eixo e presença:** praticar o transe escolhido.
+- **Ocupar o próprio espaço:** o ensaio mental e a projeção da nova resposta no futuro, em M7 e M8.
+
 **O fio do curso:** a Essência está presente desde o início e vai sendo soterrada por camadas de vivências, defesas e padrões. O eixo é o caminho de volta a ela.
 
 **Formato de entrega:** formação educacional online em nove módulos e 59 aulas, com prática guiada. Inclui práticas corporais da tradição chinesa ensinadas passo a passo:
@@ -37,9 +43,11 @@ O Módulo 0 é a entrada. As três direções se alimentam.
 - Qi Gong;
 - pequena circulação, linha do Hara e Chong Mai.
 
+Inclui também a auto-hipnose, ensinada por Fabiano como habilidade do próprio aluno, para usar por escolha o estado de atenção concentrada que, nos padrões, acontece sem escolha.
+
 Acesso de um ano pela Hotmart. Não é graduação, especialização, psicoterapia nem tratamento clínico.
 
-**Encontros ao vivo:** oito encontros online de duas horas com Fabiano (16 horas): um conjunto de M0 e M1 e um para cada módulo de M2 a M8. Primeira hora para dúvidas e segunda para prática orientada, das 9h às 11h (horário de Brasília), pelo Zoom. O link fica no grupo de WhatsApp da turma, e a gravação fica na Hotmart.
+**Encontros ao vivo:** oito encontros online de duas horas com Fabiano (16 horas): um conjunto de M0 e M1 e um para cada módulo de M2 a M8. Primeira hora para dúvidas e segunda para prática orientada (cultivo corporal e indução de auto-hipnose), das 9h às 11h (horário de Brasília), pelo Zoom. O link fica no grupo de WhatsApp da turma, e a gravação fica na Hotmart.
 
 **Tempo de acesso:** 1 ano.
 
@@ -59,10 +67,10 @@ Acesso de um ano pela Hotmart. Não é graduação, especialização, psicoterap
 
 1. **Reconhecer e comunicar o que você vive,** com palavras, imagens, sensações e gestos, mesmo quando o sentido ainda está se formando.
 2. **Ler a experiência por inteiro:** corpo, emoções, pensamentos, relações, história, símbolos e espiritualidade num mesmo acontecimento.
-3. **Separar o que acontece agora do que vem da sua história:** o acontecimento, o que você viveu, a interpretação e o padrão.
+3. **Separar o que acontece agora do que vem da sua história:** o acontecimento, o que você viveu, a interpretação e o padrão, reconhecendo padrões como aprendizagem e proteção, e não como defeito.
 4. **Perceber cedo quando está saindo do eixo,** pelos primeiros sinais no corpo, nas emoções e nas relações.
 5. **Voltar ao eixo com práticas do corpo:** a postura da árvore (Zhan Zhuang), o Qi Gong, a respiração no baixo ventre e a atenção, em pé, sentado ou apoiado.
-6. **Olhar o passado sem que ele defina quem você é,** reconhecendo padrões como aprendizagem e proteção, e não como defeito.
+6. **Usar a auto-hipnose a seu favor:** entrar por escolha num estado de atenção concentrada para reconhecer o transe dos padrões, acessar recursos e ensaiar novas respostas.
 7. **Cultivar vitalidade com a Medicina Chinesa:** Qi, Jing e Shen, e as práticas de circulação ensinadas passo a passo.
 8. **Escolher a partir do que importa,** com os valores, o Mapa dos Três Eus e espaço entre o impulso e a resposta.
 9. **Comunicar, colocar limites e reparar** nas relações reais.
@@ -97,12 +105,15 @@ São pessoas que:
 - Voltar a um tema conhecido não garante progresso em linha reta: o percurso é em espiral.
 - Comunicar com clareza não garante que o outro receba ou concorde.
 - As práticas corporais são adaptáveis e podem ser interrompidas a qualquer momento. Em caso de dor, tontura ou desconforto intenso, pare.
+- Não pratique a auto-hipnose dirigindo ou operando máquinas. Em crise psicótica ou maníaca, dissociação grave ou trauma desestabilizado, omita ou adapte as induções e converse com seu profissional de saúde.
 - Em sofrimento intenso, procure ajuda profissional. O curso é educacional e não substitui psicoterapia nem cuidados de saúde.
 - A comunidade da turma é um espaço opcional de troca e não substitui outros apoios.
 
 ## 5. Módulos e aulas
 
 As aulas de M0 e M1 estão com os títulos publicados na Hotmart. De M2 em diante, valem os nomes revisados em 22/11/2026.
+
+Ao longo do percurso, uma prática de auto-hipnose se repete e se aprofunda, como o cultivo corporal, e é conduzida nos encontros ao vivo.
 
 ### MÓDULO 0 — Comece aqui: boas-vindas e instruções (entrada)
 
@@ -130,7 +141,7 @@ As aulas de M0 e M1 estão com os títulos publicados na Hotmart. De M2 em diant
 
 ### MÓDULO 2 — Percepção e tradução da experiência (Traduzir: a prática)
 
-O módulo abre com o Caminho da Semente (a Essência soterrada por camadas) e com o Zhan Zhuang como forma corporal do eixo.
+O módulo abre com o Caminho da Semente (a Essência soterrada por camadas) e com o Zhan Zhuang como forma corporal do eixo. Aqui o aluno aprende a reconhecer o transe que não se escolhe, o primeiro uso da auto-hipnose no percurso.
 
 **Aula 2.1 — Como se forma o que você percebe?** Foco: como atenção, estado do corpo, aprendizagem e contexto participam do que você percebe.
 
@@ -145,6 +156,8 @@ O módulo abre com o Caminho da Semente (a Essência soterrada por camadas) e co
 **Aula 2.6 — Como construir e revisar uma Tradução provisória.** Foco: rever uma Tradução com dados novos, expressão e diálogo, e escolher um próximo gesto.
 
 ### MÓDULO 3 — Corpo, vitalidade e práticas de cultivo (Ganhar eixo e presença, 1 de 4)
+
+A auto-hipnose entra como prática do transe escolhido, junto com a árvore e o Qi Gong, e segue nos módulos 4 a 6 e nos encontros.
 
 **Aula 3.1 — Estado corporal e acesso às respostas.** Foco: como o estado do corpo, o contexto e o apoio mudam o que fica acessível.
 
@@ -218,6 +231,8 @@ O módulo abre com o Caminho da Semente (a Essência soterrada por camadas) e co
 
 ### MÓDULO 7 — Comunicação, vínculos, limites e reparação (Ocupar o próprio espaço, 1 de 2)
 
+A auto-hipnose serve aqui ao ensaio mental: o aluno ensaia, por escolha, a expressão, o pedido ou o limite antes da conversa real.
+
 **Aula 7.1 — Expressão pessoal no encontro com o outro.** Foco: apresentar algo vivido ou criado e ajustar a expressão no encontro.
 
 **Aula 7.2 — Comunicar o vivido e formular pedidos.** Foco: falar do que você vive sem transformar a experiência em acusação.
@@ -238,7 +253,7 @@ O módulo abre com o Caminho da Semente (a Essência soterrada por camadas) e co
 
 **Aula 8.1 — Revisão e aplicação das aprendizagens.** Foco: retomar a pergunta inicial e reconhecer o que está disponível e o que ainda está em cultivo.
 
-**Aula 8.2 — Repertório pessoal e plano de prática.** Foco: escolher as práticas que ficam e organizar o plano de cultivo.
+**Aula 8.2 — Repertório pessoal e plano de prática.** Foco: escolher as práticas que ficam e organizar o plano de cultivo, com a projeção da nova resposta no futuro em auto-hipnose.
 
 **Aula 8.3 — Continuidade: estudo, cultivo e apoios.** Foco: escolher como continuar, com os apoios de que precisar.
 
@@ -309,6 +324,7 @@ R$ 997,00 à vista ou 12 × de R$ 97,70. Prevalecem as condições exibidas no c
 - Como fazer da sensibilidade intensa um recurso, e não uma sobrecarga?
 - O que fazer com uma experiência espiritual ou incomum: como compreendê-la sem negá-la e sem se perder nela?
 - O que a postura da árvore e o Qi Gong têm a ver com não repetir os mesmos padrões?
+- Por que repetimos o que já entendemos? Porque somos vividos por transes que não escolhemos. A auto-hipnose ensina a escolher.
 
 ## Referências de trabalho
 
@@ -317,8 +333,8 @@ R$ 997,00 à vista ou 12 × de R$ 97,70. Prevalecem as condições exibidas no c
 - **Eixo:** conceito central do curso, e não uma marca à parte. É a capacidade de voltar, diferenciar e se orientar; perder o eixo não significa perder o percurso.
 - **Presença que sustenta:** presença suficiente para continuar em contato com o que acontece, diferenciar o que está misturado e recuperar orientação antes que o impulso decida sozinho.
 - **Competência incorporada:** quando o que você compreendeu começa a ficar disponível nas situações reais da vida. É ensinada aos poucos e não é usada como headline.
-- **Diferencial:** clínica de mais de 30 anos, prática corporal da tradição chinesa ensinada passo a passo, espiritualidade com discernimento e casos reais.
-- **Comunicação obrigatória:** não prometer eliminação definitiva de padrões, destravamento instantâneo nem equilíbrio permanente. A comunicação fala de respostas situadas, leitura mais clara da experiência, retorno ao eixo e desenvolvimento gradual.
+- **Diferencial:** clínica de mais de 30 anos, prática corporal da tradição chinesa ensinada passo a passo, auto-hipnose ensinada como habilidade do aluno (formação continuada em hipnose clínica e docência de auto-hipnose desde 2018), espiritualidade com discernimento e casos reais.
+- **Comunicação obrigatória:** não prometer eliminação definitiva de padrões, destravamento instantâneo nem equilíbrio permanente. Falar em auto-hipnose como habilidade que o aluno aprende; sem palco, sem "controle da mente" e sem "reprogramação" como promessa (a hipnose é recurso do psicólogo capacitado, e o uso sensacionalista é vedado pela resolução do Conselho Federal de Psicologia). A comunicação fala de respostas situadas, leitura mais clara da experiência, retorno ao eixo e desenvolvimento gradual.
 - **Ordem da comunicação:** a dor concreta primeiro; o mapa do percurso responde a "como o curso faz isso".
 
 ## Calendário

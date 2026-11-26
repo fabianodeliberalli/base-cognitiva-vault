@@ -17,6 +17,8 @@ Cópia da versão 2 do documento entregue a Fabiano em 25/11/2026, que incorpora
 
 **Mapa do percurso (Fabiano, 26/11/2026).** Três direções, do texto [[TSH - Padrões e ressonância - texto de Fabiano de 10-11-2026|«Padrões e ressonância»]]: **traduzir** — M1 (fundamentos) e M2 (prática da tradução); **ganhar eixo e presença** — M3 a M6; **ocupar o próprio espaço** — M7 e M8. M0 é a entrada. As direções se alimentam; não são etapas em fila. Toda estruturação, abertura e fecho de módulo situa o aluno nesse mapa com clareza.
 
+**A auto-hipnose no mapa do percurso (Fabiano, 26/11/2026).** "Somos vividos pelos padrões que carregamos": os padrões funcionam como transes que não escolhemos. A auto-hipnose é uma habilidade que o próprio aluno aprende: entrar por escolha num estado de atenção concentrada. Nas três direções: **traduzir** — reconhecer o transe que não se escolhe (M2, com o núcleo em M2.4); **ganhar eixo e presença** — praticar o transe escolhido (M3 a M6 e a indução nos encontros); **ocupar o próprio espaço** — o ensaio mental e a projeção da nova resposta no futuro (M7 e M8). Detalhes em [[00 - Hipnose e Auto-Hipnose no TSH - Decisão Avaliação e Destinos]].
+
 **O que este documento faz.** Propõe um planejamento novo das aulas de M2 a M8 a partir das raízes resgatadas: o eixo como conceito central e a Essência soterrada por camadas como fio de todo o percurso. Respeita o calendário já anunciado de liberações e encontros. Avalia M0 e M1, publicados em 17/11, sem alterá-los. Decide, aula por aula, o que fazer com o que já foi gravado de M2. Esta versão acrescenta a avaliação das sete fontes resgatadas e de outras seis notas a que elas levaram (seção 3), e refaz o plano com elas.
 
 **O que mudou da versão 1 para esta.**
