@@ -16,6 +16,16 @@ Fabiano retirou as restrições que este documento aplicava à hipnose e à auto
 
 Encarar, falar com ela, ser ela: prática de cuidado do Eu Básico e de diálogo com a parte culpada. Destinos principais M4.5, M4.6, M5.3, M5.4, M7.2–M7.4 e M7.8. Ver [[Processo 3-2-1 - Cuidado do Eu Básico e Diálogo com a Parte Culpada]].
 
+## Práticas de Huna — propostas de 25/11/2026
+
+Seis práticas adaptadas de Long e King e do ho'oponopono familiar havaiano, destinadas por Fabiano em 25/11/2026 como **propostas** às aulas indicadas. Passo a passo, origem e cuidados em [[Huna - Sete livros - avaliação, correlações e práticas para o TSH|Huna, sete livros]].
+- **As duas mãos** (kahi de King, em si mesmo): M3.8; parte de cultivo do encontro de 09/01.
+- **Conversar com a imagem** (mo'ike de King; diálogo com o Eu Básico de Long): M5.5; M4.5.
+- **Intenção em quatro tempos** (haipule de King, com os critérios da prece-ação de Long): encontro de 19/12; M5.2; M8.2.
+- **Sinais de que o Eu Básico não está junto** (Long): fala das práticas a partir de M3; M3.8; M4.6.
+- **Reparar o que é possível** (Long): M7.7; M7.8.
+- **Refazer o que ficou torto** (ho'oponopono familiar): M7.8; M7.5.
+
 ## Práticas vindas dos referenciais por autor — 19/11/2026
 
 Disponíveis para as aulas, com crédito de origem e correlação com o material de Fabiano; ver [[07 - Referenciais por Autor - Índice por Aula e Etapa]]:

@@ -329,6 +329,8 @@ O ensino formal das práticas de demonstração continua em estúdio, para que o
 | 23/01 | Projetar os punhos: intenção sem rigidez | Presente hipnótico relacional | Abertura de M8 |
 | 30/01 | Cada um escolhe seu repertório pelos cinco modos | O aluno conduz a versão curta | Complemento de M8.2 |
 
+**Práticas propostas de Huna (25/11/2026):** intenção em quatro tempos no encontro de 19/12, junto do presente hipnótico; as duas mãos na parte de cultivo de 09/01. Ver [[Huna - Sete livros - avaliação, correlações e práticas para o TSH|Huna, sete livros]].
+
 **Por que não pôr a órbita ao vivo em 09/01,** como previa a progressão de 09/11: ela pede o modo acompanhar sem induzir sensações. No mesmo encontro dos dedos ideomotores, que conduzem, um modo contaminaria o outro; a nota das práticas integradas já apontava esse risco. Proposta: ensinar a órbita em estúdio (M6.5) e tirar dúvidas na primeira hora de 16/01.
 
 **Carga do encontro de 28/11.** O roteiro atual já tem abertura, respiração, retorno e dois ciclos. Acrescentar a árvore pede tirar 5 minutos de algum bloco; sugiro encurtar o segundo ciclo. Você decide (seção 10).

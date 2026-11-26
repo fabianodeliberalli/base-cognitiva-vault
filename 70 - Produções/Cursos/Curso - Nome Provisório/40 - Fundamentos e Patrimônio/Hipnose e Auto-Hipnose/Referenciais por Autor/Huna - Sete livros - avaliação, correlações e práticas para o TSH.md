@@ -1,7 +1,7 @@
 ---
 tipo: referencial-por-autor
 projeto: Traduzindo o Ser Humano
-status: candidato-para-decisao-de-fabiano
+status: praticas-propostas-destinadas-as-aulas
 criado_em: 2026-11-25
 autoridade_final: Fabiano Deliberalli
 aliases:
@@ -14,7 +14,7 @@ aliases:
 
 # Huna — sete livros: avaliação, correlações e práticas para o TSH
 
-Avaliação pedida por Fabiano em 25/11/2026, a partir dos PDFs enviados na conversa: Long, *A Ciência Secreta em Ação* e *Crescendo na Luz*; King, *Xamã Urbano*; Weskott, *Huna, a Psicologia Espiritual*; Ceres Rosas, *O Caminho ao Eu Superior segundo os Kahunas*; Sebastião de Melo, *O Guardião do Segredo*; boletim *Práticas Huna* (2016). Complementa [[Huna - Max Freedom Long e Serge King nos Três Eus]] e [[Huna - Leinani Melville Children of Paradise - Avaliação para o TSH]]. As práticas são candidatas.
+Avaliação pedida por Fabiano em 25/11/2026, a partir dos PDFs enviados na conversa: Long, *A Ciência Secreta em Ação* e *Crescendo na Luz*; King, *Xamã Urbano*; Weskott, *Huna, a Psicologia Espiritual*; Ceres Rosas, *O Caminho ao Eu Superior segundo os Kahunas*; Sebastião de Melo, *O Guardião do Segredo*; boletim *Práticas Huna* (2016). Complementa [[Huna - Max Freedom Long e Serge King nos Três Eus]] e [[Huna - Leinani Melville Children of Paradise - Avaliação para o TSH]]. Em 25/11/2026, Fabiano destinou as seis práticas às aulas indicadas, como propostas (ver [[Práticas por Módulo - Consulta em criação e expansão]] e as linhas do dossiê).
 
 
 ## Em uma página
@@ -243,6 +243,6 @@ O ho'oponopono é diferente. Weskott o descreve como prática das famílias hava
 
 - Nova nota com esta avaliação, ao lado da nota já existente sobre Long e King nos Três Eus.
 - Na nota existente, uma linha apontando para a nova.
-- No dossiê, uma linha de "candidata (25/11/2026)" nas aulas M3.8, M4.5, M5.2, M5.5, M7.7 e M7.8. Nenhuma aula é alterada: são indicações para quando o roteiro for escrito.
+- No dossiê, uma linha de "proposta (Huna, 25/11/2026)" nas aulas M3.8, M4.5, M4.6, M5.2, M5.5, M7.5, M7.7, M7.8 e M8.2; no planejamento, os encontros de 19/12 e 09/01. Nenhum roteiro é alterado: são propostas para quando o roteiro for escrito.
 
-As práticas são propostas. Valem como candidatas até você experimentar e decidir.
+As práticas ficam como propostas nas aulas indicadas, até você experimentar e decidir.
