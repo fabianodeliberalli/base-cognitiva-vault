@@ -45,6 +45,18 @@ E1: três regulações, respiração e apoios; E2: atenção intero/proprio/exte
 ## Sobre a imagem “Bateria energética R+”
 A figura fornecida apresenta **Bao Zhong / Chong Mai** à esquerda e um esquema de **Ren, Du, Chong e outras relações tradicionais** à direita. Trata-se de grande circulação e cartografias tradicionais, **não de uma representação exclusivamente da órbita microcósmica clássica (Ren e Du)**. Evitar reproduzir a imagem como se descrevesse pequena circulação com equivalência biomédica. É útil ao caderno docente com crédito e para aprofundamento, mas sua densidade/legibilidade não favorecem a primeira apresentação ao público geral. Distinções entre Chong Mai, Du Mai e Ren Mai devem permanecer explícitas.
 
+## Acréscimos da versão de 17 páginas (25/11/2026)
+
+Fabiano reenviou o material em 25/11/2026 numa versão de 17 páginas, com o mesmo conteúdo e três recursos que a leitura de 09/11 não registrou. Propostos para M3.8 (retorno à orientação):
+
+| Recurso | O que é | Cuidado |
+| --- | --- | --- |
+| Técnica 5-4-3-2-1 | Nomear 5 coisas que vejo, 4 que toco, 3 sons, 2 cheiros, 1 gosto; retorno pela exterocepção | Origem incerta; apresentar como técnica de ancoragem muito usada |
+| Relaxamento progressivo de Jacobson | Contrair e soltar grupos musculares em sequência | Método estabelecido; não prometer efeito imediato |
+| Pressão profunda | Empurrar uma parede, abraço firme, cobertor pesado | Evidência modesta; opcional, porque para algumas pessoas a pressão é desagradável |
+
+O 5-4-3-2-1 também pode entrar na parte de cultivo do encontro de 05/12; o relaxamento de Jacobson, no encontro de 19/12, sobre tensões.
+
 ## Conexões
 [[TSH - Percurso progressivo dos 8 encontros online - três regulações dantian Baduanjin e órbita]]
 [[00 - Fundamento Integrado - Qi, Corpo, Respiração, Intenção e Articulação Multirreferencial]]

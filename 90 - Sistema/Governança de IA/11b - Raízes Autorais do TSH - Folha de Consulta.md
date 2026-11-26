@@ -92,6 +92,7 @@ Levantamento e avaliação em [[TSH - Formulações e materiais autorais dispers
 - O padrão volta porque precisa voltar para ser transformado; a espiral, e não a escada; a espiral sobe em torno de um eixo vertical, com o pêndulo como a oscilação vista de perto.
 - "O Eu Básico capta, sente e traduz energia, emoção, campo; o Eu Médio é intelectual, razão, defesa, ego"; cuidar do Eu Básico vem antes de buscar o Eu Superior.
 - Os sete casos do [[00 - Índice Geral do Banco Fenomenológico|Banco Fenomenológico]] são exemplos reais anonimizados para as aulas, que aproximam o aluno do modo de Fabiano conduzir (decisão de 25/11/2026); destinos por aula no dossiê.
+- Texto "Padrões e ressonância" (10/11/2026): o pertencimento aprisiona e reproduz as camadas coletiva e familiar; a vergonha impede até de pedir ajuda; "precisamos primeiro Traduzir o que temos em nossos padrões e depois trabalhar para ganhar eixo e presença suficientes para ocupar nosso real espaço"; "Quem é você na sua vida sem seus padrões?". Íntegra e destinos em [[TSH - Padrões e ressonância - texto de Fabiano de 10-11-2026]].
 
 ## Outras formulações de Fabiano para consulta rápida
 
@@ -128,6 +129,7 @@ A tabela de destinação dos materiais autorais para as próximas aulas e a audi
 | Livro *Arquitetura Invisível da Consciência* | 2026 | [[Arquitetura Invisível]] |
 | TCC de sincronia neural | 2026 | [[DELIBERALLI_TCC_SINCRONIA_NEURAL_ESTADOS_CONSCIENCIA_2026 (1)]] |
 | Pacote fundador: Constituição, Camadas, seis fases, Jornada | jul 2026 | [[Pacote Inicial - Constituição, Camadas e Manual SOS]] |
+| Texto “Padrões e ressonância” | 10/11/2026 | [[TSH - Padrões e ressonância - texto de Fabiano de 10-11-2026]] |
 | Registro Mestre de Formulações Estruturantes | jul 2026 | [[Registro Mestre de Formulações Estruturantes]] |
 | Mapas de 18/07 e suas fichas | jul 2026 | [[00 - Índice dos Mapas Conceituais]] |
 | Mapas aprovados de 29/07 | jul 2026 | [[00 - Família de Mapas - Oscilação, Retorno e Equilíbrio Dinâmico]] |
