@@ -1,6 +1,6 @@
 ---
 title: "Módulo 2 — guia de gravação dos slides"
-subtitle: "Pontes de M2.1 a M2.3, práticas de M2.2 e M2.3, M2.4, M2.5 e M2.6 — 25/11/2026"
+subtitle: "Pontes de M2.1 a M2.3, práticas de M2.2 e M2.3, M2.4, M2.5 e M2.6 — versão 2, 25/11/2026"
 ---
 
 # Como usar as notas
@@ -14,6 +14,7 @@ As mesmas notas estão no PowerPoint, na exibição do apresentador. Este guia �
 - **A última linha (→)** diz o que vem na tela seguinte, para emendar sem procurar.
 - **As telas não têm animação por clique.** Cada uma aparece inteira, e uma tecla avança. Não há item escondido a lembrar.
 - **O canto superior direito fica livre** para a sua imagem de câmera.
+- **Telas de imagem.** Nas histórias das tradições e nas metáforas, a tela mostra só uma ilustração e o nome da história. A história inteira, as correlações explícitas com o TSH e os cuidados estão nas notas, em três partes: a história, o que a imagem mostra e a correlação com o TSH. As ilustrações são originais, feitas para o curso na paleta do TSH. Se preferir outra imagem, basta trocar a figura: a nota continua valendo.
 - **Histórias marcadas como opcionais** (Zhuangzi em M2.4, o cavalo do velho da fronteira em M2.5) podem ser puladas: a nota da tela anterior diz para onde ir.
 - **Fontes:** EB Garamond nos títulos e Inter no texto, como em M0, M1 e M2.1. Se o PowerPoint trocar a fonte, instale as duas pelo Google Fonts.
 
@@ -40,19 +41,30 @@ Quando ela falar de expectativa, de pistas, de aprendizagem…
 
 → Próximo: os homens e o elefante.  
 
-## Tela 2 · Os homens e o elefante
+## Tela 2 · HISTÓRIA BUDISTA E JAINISTA
 
 [CONTAR]  
 
-Uma história contada por budistas e jainistas.  
-Cada um toca uma parte e descreve o todo por ela.  
+Uma história contada por budistas e jainistas, e depois por muitas outras tradições.  
+Homens que não enxergam tocam um elefante, cada um uma parte.  
+Um toca a tromba: «é uma serpente».  
+Outro, a perna: «é uma coluna».  
+Outro, a orelha: «é um leque».  
+Na versão budista mais antiga, do Udāna, eles acabam brigando: cada um certo de que a sua parte é o elefante inteiro.  
+
+Na imagem, os três pontos dourados são as três mãos.  
+
+Correlação com o TSH:  
 Ninguém mente. Cada um percebe a partir de onde está.  
+As camadas são as mãos com que tocamos: memórias, crenças, o corpo de agora.  
+A briga vem de tomar a parte pelo todo. É disso que a M2.3 vai tratar: a certeza.  
+As Cinco Janelas da M1.5 são outras mãos no mesmo elefante.  
 
 Perceber é sempre a partir de algum lugar.  
 No TSH, esse lugar pode ser o eixo: a árvore, os pés, o centro.  
+Antes de assistir, sinta os pés no chão por um instante. É daí que vamos perceber.  
 
-Antes de assistir, sinta os pés no chão por um instante.  
-É daí que vamos perceber.  
+Pergunta para quem assiste: que parte do elefante você costuma tocar?  
 
 → Segue a aula M2.1 já gravada.  
 
@@ -73,18 +85,28 @@ O que ganha importância pode ser algo da sua Essência pedindo expressão…
 
 → Próximo: Nasrudin e a chave.  
 
-## Tela 4 · Nasrudin e a chave
+## Tela 4 · HISTÓRIA POPULAR SUFI
 
 [CONTAR]  
 
-Uma história popular dos sufis.  
-Conte com calma; o humor está na última resposta.  
+Nasrudin é personagem das histórias populares do mundo islâmico, da Turquia à Ásia Central.  
+Mestres sufis usam essas histórias como ensino: o riso abre a porta.  
 
-A atenção vai para onde já há luz:  
-o conhecido, o que já sabemos procurar.  
+Nasrudin procura a chave debaixo do poste da rua.  
+Um vizinho ajuda. Muito tempo depois, pergunta: «Onde você perdeu?»  
+«Em casa.»  
+«Então por que procura aqui?»  
+«Porque aqui tem luz.»  
 
-Nesta aula vamos perguntar o que ganhou luz…  
-…e o que ficou no escuro, pedindo Tradução.  
+Na imagem, a chave brilha junto à porta da casa escura.  
+
+Correlação com o TSH:  
+A atenção vai para onde já há luz: o conhecido, a explicação de sempre, o que já sabemos nomear.  
+A chave costuma estar em casa: no vivido, no corpo, no Eu Básico, que fica no escuro quando só procuramos onde há luz.  
+O que ganha importância depende da luz que a pergunta acende.  
+A prática da M2.2 faz isso: muda a pergunta, e a luz muda de lugar.  
+
+O que importa pode estar no escuro, pedindo Tradução.  
 
 → Segue a aula M2.2 já gravada.  
 
@@ -100,16 +122,29 @@ quando uma leitura ganha força de certeza.
 
 → Próximo: a corda e a serpente.  
 
-## Tela 6 · A corda e a serpente
+## Tela 6 · IMAGEM DA TRADIÇÃO DO VEDANTA
 
 [CONTAR]  
 
-Uma imagem do Vedanta.  
-O medo foi real. A conclusão, não.  
+Uma imagem clássica do Vedanta, desenvolvida por Shankara, no século VIII.  
+Ao entardecer, alguém vê uma serpente no caminho.  
+O coração dispara. O corpo recua.  
+Com a luz, era uma corda.  
 
-Em certo momento a aula fala da leitura que ocupa o campo inteiro.  
+Na imagem, o mesmo traço: à esquerda, ao entardecer; à direita, à luz.  
+
+No Vedanta, a imagem fala de sobrepor a algo o que ele não é.  
+Aqui usamos só uma parte dela: a percepção.  
+
+Correlação com o TSH:  
+O medo foi real. A conclusão, não.  
+O corpo reage antes de conferir: é o Eu Básico protegendo.  
+Separar o vivido da conclusão é exatamente o que a prática da M2.3 treina.  
+A luz, aqui, é voltar ao eixo e conferir.  
 Quando uma certeza ocupa o campo inteiro, perdemos o eixo.  
-Voltar ao eixo devolve outras pistas: a corda reaparece.  
+
+Cuidado: às vezes é mesmo uma serpente.  
+Conferir não é desconfiar do corpo nem negar o perigo. É dar ao corpo e à leitura a chance de se encontrarem com o que está ali.  
 
 → Segue a aula M2.3 já gravada.  
 
@@ -478,7 +513,7 @@ A M2.4 trabalha o que continua organizando a resposta mesmo quando a compreensã
 
 # M2.4 · Teoria · O que mantém a repetição de uma resposta
 
-Estimativa: 15 a 18 min. 10 telas.
+Estimativa: 15 a 18 min. 11 telas.
 
 
 ## Tela 1 · M2.4 · O QUE MANTÉM A REPETIÇÃO
@@ -522,12 +557,39 @@ Conte com as suas palavras. Referência do seu texto:
 A resposta que se repete foi, um dia, uma solução.  
 É uma das camadas sobre a Essência: protegeu, e depois passou a decidir por nós.  
 
-No Yoga se fala em impressões que deixam sulcos.  
-A experiência seguinte tende a correr por eles.  
+→ Próximo: os sulcos, dois mapas da repetição.  
+
+## Tela 4 · YOGA DE PATAÑJALI · FREUD, 1914
+
+[EXPLICAR]  
+
+Duas tradições muito diferentes olharam para a repetição.  
+
+No Yoga de Patañjali:  
+a mente se move; esses movimentos são as vṛttis.  
+A experiência deixa impressões: saṃskāras.  
+Impressões que se acumulam formam tendências: vāsanās.  
+Muitos professores usam a imagem do sulco: a água tende a correr por onde já correu.  
+Cuidado: vṛtti não é só repetição; inclui também conhecimento, memória, sono. E não é uma cadeia de causa fixa.  
+
+Freud, em «Recordar, repetir e elaborar», de 1914:  
+o que não conseguimos lembrar como lembrança pode voltar como ação.  
+Repetimos sem saber que repetimos.  
+E reconhecer não basta: é preciso elaborar, e elaborar leva tempo.  
+
+Na imagem: os sulcos antigos, a água dourada correndo por um deles, e um traço novo que começa.  
+
+Correlação com o TSH:  
+As camadas são esses sulcos.  
+O transe que não se escolhe é a experiência correndo pelo sulco.  
+O espaço entre sentir e agir é onde o sulco pode ser percebido.  
+A prática repetida, a partir do eixo, abre outro curso, sem apagar o antigo de uma vez.  
+
+Cuidado: saṃskāra não é o inconsciente de Freud. São linguagens diferentes que conversam; uma não prova a outra.  
 
 → Próximo: o transe que não se escolhe.  
 
-## Tela 4 · O transe que não se escolhe
+## Tela 5 · O transe que não se escolhe
 
 [EXPLICAR]  
 
@@ -544,7 +606,7 @@ o entendimento chega depois da entrada.
 
 → Próximo: o espaço entre sentir e agir.  
 
-## Tela 5 · O espaço entre sentir e agir
+## Tela 6 · O espaço entre sentir e agir
 
 [EXPLICAR]  
 
@@ -559,7 +621,7 @@ Não é preciso decidir de onde veio o padrão.
 
 → Próximo: o que mudou em mim.  
 
-## Tela 6 · O que mudou em mim
+## Tela 7 · O que mudou em mim
 
 [CONTAR]  
 
@@ -572,7 +634,7 @@ Conte a cena do trânsito com calma.
 
 → Próximo: um caso real.  
 
-## Tela 7 · Um caso real: a segurança de ontem
+## Tela 8 · Um caso real: a segurança de ontem
 
 [CONTAR]  
 
@@ -591,32 +653,46 @@ Havia cansaço, sobretudo nas costas. Na minha leitura clínica, uma hipótese: 
 
 → Próximo: o espelho e a escada.  
 
-## Tela 8 · O espelho e a escada
+## Tela 9 · O espelho e a escada
 
 [RETOMAR]  
 
-A situação de hoje devolve o passado, como um espelho.  
 Lembram da escada da Masterclass?  
 Os lances se parecem, mas ocupam posições diferentes.  
 
+Correlação com o TSH:  
+A situação de hoje devolve o passado, como um espelho: é o espelho no primeiro sentido do Mapa do TSH.  
+A pergunta muda de «de novo isso?» para «o que mudou desde a última vez?».  
+No caso do suporte da TV, o lance parecia o mesmo; a posição era outra: outra vida, outras condições.  
+A escada também é a espiral do mapa vista de dentro: o mesmo tema volta em outro nível.  
+
 A pergunta do espelho:  
-o que mudou desde a última vez?  
+«o que mudou desde a última vez?»  
 
 → Próximo (opcional): o homem que fugia da sombra. Se não for contar, pule para a ponte da prática.  
 
-## Tela 9 · O homem que fugia da sombra
+## Tela 10 · ZHUANGZI · OPCIONAL
 
 [CONTAR]  
 
-Uma história de Zhuangzi.  
-Bastava sentar à sombra de uma árvore: a sombra some, as pegadas param.  
+Uma história de Zhuangzi, do capítulo «O velho pescador».  
+Um homem tinha medo da própria sombra e não suportava as próprias pegadas.  
+Para se livrar delas, corria.  
+Quanto mais corria, mais pegadas deixava, e a sombra não o largava.  
+Achando que era lento, correu mais rápido, sem parar, até cair.  
+Não sabia que bastava sentar à sombra de uma árvore: a sombra some, as pegadas param.  
 
-Fugir mais rápido não interrompe o padrão.  
-Parar e perceber, sim.  
+Na imagem: as pegadas se apressam e param onde alguém se senta à sombra.  
+
+Correlação com o TSH:  
+Fugir mais rápido não interrompe o padrão; lutar contra a reação costuma dar mais força a ela.  
+Parar não é desistir. É o que abre o espaço entre sentir e agir.  
+A sombra da árvore lembra a árvore da abertura do módulo: o eixo.  
+No taoismo, é o não forçar: agir sem empurrar contra o próprio movimento.  
 
 → Próximo: a ponte para a prática.  
 
-## Tela 10 · Para a prática
+## Tela 11 · Para a prática
 
 [ENCERRAR]  
 
@@ -659,14 +735,20 @@ E percebi: a mesma vivência pode ser chamada de «delírio», «fantasia», «f
 
 [EXPLICAR]  
 
-Primeiro, o fenômeno vivido: o que apareceu.  
-Depois, o que mobilizou no corpo, no afeto, nas relações.  
-Depois, a interpretação de quem viveu.  
-Depois, as hipóteses que podem explicar, cada uma com seus limites.  
-E por fim: o que a experiência produz na vida e como se incorpora.  
+Sete níveis, para não confundir descrição, significado, explicação e efeito.  
 
-Misturar esses níveis é a origem de muita confusão.  
-E de muito sofrimento.  
+1. Fenômeno vivido: o que apareceu à consciência e pode ser descrito.  
+2. Tradução: que estruturas do corpo, do afeto, das relações foram mobilizadas.  
+3. Interpretação: como a própria pessoa compreende o que viveu.  
+4. Hipóteses: que mapas podem explicar, com que evidências e limites.  
+
+5. Implicações: o que a experiência passou a produzir na vida.  
+6. Condições de integração: presença, regulação, discernimento, continuidade de quem se é.  
+7. Incorporação: como a transformação aparece no corpo, nas relações, nas decisões e nos limites.  
+
+Uma experiência pode ser real enquanto experiência, relevante e transformadora, sem que sua origem esteja demonstrada.  
+Misturar os níveis é a origem de muita confusão, e de muito sofrimento.  
+O caso que vem a seguir passa por vários desses níveis.  
 
 → Próximo: três olhos.  
 
@@ -716,14 +798,24 @@ A pergunta que ajuda não é só «de onde veio?».
 
 → Próximo (opcional): o cavalo do velho da fronteira.  
 
-## Tela 7 · O cavalo do velho da fronteira
+## Tela 7 · HUAINANZI, CHINA · OPCIONAL
 
 [CONTAR]  
 
-Uma história chinesa, do Huainanzi.  
-Conte devagar; o “talvez” é o centro.  
+Uma história do Huainanzi, livro chinês do século II antes da nossa era. Virou provérbio na China.  
+Um velho vive na fronteira. Seu cavalo foge. Os vizinhos lamentam. Ele diz: «talvez».  
+Meses depois, o cavalo volta, trazendo cavalos bons. Os vizinhos festejam. «Talvez.»  
+O filho, montando um deles, cai e quebra a perna. Os vizinhos lamentam. «Talvez.»  
+Vem a guerra; os jovens são levados. O filho, com a perna quebrada, fica. «Talvez.»  
 
+Na imagem: o mesmo caminho sobe e desce; os pontos acesos e apagados se alternam.  
+
+Correlação com o TSH:  
 O acontecimento é um; as interpretações mudam com o tempo.  
+É a diferença entre o nível 1 e o nível 3, vista no tempo.  
+«Talvez» é manter a hipótese aberta, como no caso: não precisamos decidir se era real para acompanhar o que a experiência produziu.  
+
+Cuidado: «talvez» não é indiferença. A perna quebrada doeu de verdade.  
 
 → Próximo: o fio e a prática curta.  
 
@@ -758,7 +850,7 @@ Hoje: um caso real, o ciclo entre eixo e Tradução, e como revisar.
 
 → Próximo: o caso da membrana.  
 
-## Tela 2 · Um caso real: a membrana
+## Tela 2 · BANCO FENOMENOLÓGICO · CASO ANONIMIZADO
 
 [CONTAR]  
 
@@ -767,13 +859,23 @@ Não era só tristeza: as defesas tinham colapsado.
 Sentia-se exposta, sem um jeito seguro de estar com os outros.  
 
 Ofereci imagens de estruturas vivas que protegem e deixam passar:  
-a membrana da célula, o útero, a casca do ovo.  
-E três possibilidades de fronteira: frágil demais, rígida demais, permeável e regulada.  
-Essa fronteira pode ser sentida antes de pensada: é o Eu Básico percebendo pessoas e ambientes.  
+a membrana da célula, que escolhe o que entra e o que sai;  
+o útero, que protege e nutre;  
+a casca do ovo, que guarda e respira.  
+
+Na imagem, três fronteiras:  
+frágil demais, e tudo invade;  
+rígida demais, e nada entra;  
+permeável e regulada, e há troca sem perder a si.  
+Disse também que essa fronteira pode ser sentida antes de pensada: é o Eu Básico percebendo pessoas e ambientes.  
 
 O corpo respondeu na hora: relaxou, veio um alívio.  
 A pessoa disse que havia muito a aprender.  
 Fechamos com «só sei que nada sei»: a ruptura como abertura para aprender.  
+
+Correlação com o TSH:  
+É a casca do mapa da Semente: proteção que troca, não algo a destruir. Voltaremos a ela no Módulo 4.  
+Uma imagem bem escolhida pode traduzir o que o corpo já sentia.  
 
 → Próximo: o que aconteceu ali.  
 
@@ -821,16 +923,38 @@ De quem?
 
 → Próximo: um convite, as páginas matinais.  
 
-## Tela 6 · Um convite: as páginas matinais
+## Tela 6 · JULIA CAMERON · O CAMINHO DO ARTISTA
 
 [CONVIDAR]  
 
-Um recurso de que gosto e que uso de vez em quando.  
-Três páginas escritas à mão, logo ao acordar, sem corrigir nem reler na hora.  
-Escrever antes que a voz que avalia acorde.  
+Origem:  
+Julia Cameron, «O Caminho do Artista», de 1992.  
+Um programa de doze semanas para recuperar a criatividade bloqueada.  
+As páginas matinais são a ferramenta principal dele, ao lado do encontro com o artista.  
 
-Fica como convite para o resto do curso.  
+A forma exata:  
+três páginas, escritas à mão, logo ao acordar.  
+Fluxo de consciência: o que vier à mente. Nada é trivial demais.  
+Não há jeito certo ou errado. Não é arte, nem precisa ser escrita bonita.  
+Ninguém lê, além de você. Cameron pede que não se releia nas primeiras oito semanas.  
+Se não vier nada, escreva «não consigo pensar em nada para escrever» até encher as páginas.  
+
+A intenção, para Cameron:  
+uma descarga da mente: as preocupações do dia vão para o papel.  
+E aprender a passar pela voz que critica, que ela chama de Censor.  
+Ela brinca que as páginas servem «para chegar ao outro lado»: do medo, da negatividade, do humor do dia.  
+Do outro lado, ela descreve um centro silencioso.  
+
+Correlação com o TSH:  
+O Censor é parecido com o Eu Médio quando avalia antes do tempo. Voltaremos a isso no Módulo 4.  
+Escrever antes de avaliar dá ao Eu Básico um caminho para encontrar forma: uma Tradução que emerge.  
+Depois, com o eixo, a gente revisa. Primeiro escrever, depois conferir.  
+O centro silencioso conversa com o que o TSH chama de eixo, e de Essência. Conversa: não são a mesma coisa.  
+
+Para Cameron, as páginas não são negociáveis. No TSH, ficam como convite.  
+Eu gosto delas e uso de vez em quando.  
 Não é tarefa.  
+Se a escrita trouxer algo forte demais, pare, volte ao eixo, e retome outro dia ou com apoio.  
 
 → Próximo: a prática curta.  
 

@@ -222,6 +222,8 @@ Uma alternativa pode envolver reconhecer a urgência, pedir tempo, buscar apoio,
 | M7 — Relações e expressão | Escolhas, limites, reciprocidade, poder e colaboração. | Diferenciar trabalho pessoal e condições externas. |
 | M8 — Continuidade | Cultivo, apoios e revisão do percurso. | Selecionar continuidade possível e observar efeitos. |
 
+**Destinos atualizados em 25/11/2026 (organização de 59 aulas):** Freud e as impressões do Yoga (saṃskāras) entram de forma breve em M2.4, na tela «Os sulcos da repetição»; karma como intenção, ação e efeito, com o discurso a Sivaka, entra em M7.7; o aprofundamento dos mapas do Yoga continua em M5. A escada volta em M4.4 (opcional) e é aula principal em M6.8.
+
 Ao preparar essas aulas, recuperar esta nota e o Raio X vigente. Selecionar a contribuição pertinente, indicar a fonte e a pergunta que ela acrescenta, preservando liberdade de criação. Não inserir todos os conceitos em cada aula nem transformar o repertório em tarefa de memorização.
 
 ### Fontes para consulta localizada

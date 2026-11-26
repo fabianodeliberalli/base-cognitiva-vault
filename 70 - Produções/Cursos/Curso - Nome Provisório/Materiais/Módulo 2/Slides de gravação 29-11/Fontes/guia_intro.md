@@ -1,6 +1,6 @@
 ---
 title: "Módulo 2 — guia de gravação dos slides"
-subtitle: "Pontes de M2.1 a M2.3, práticas de M2.2 e M2.3, M2.4, M2.5 e M2.6 — 25/11/2026"
+subtitle: "Pontes de M2.1 a M2.3, práticas de M2.2 e M2.3, M2.4, M2.5 e M2.6 — versão 2, 25/11/2026"
 ---
 
 # Como usar as notas
@@ -14,6 +14,7 @@ As mesmas notas estão no PowerPoint, na exibição do apresentador. Este guia �
 - **A última linha (→)** diz o que vem na tela seguinte, para emendar sem procurar.
 - **As telas não têm animação por clique.** Cada uma aparece inteira, e uma tecla avança. Não há item escondido a lembrar.
 - **O canto superior direito fica livre** para a sua imagem de câmera.
+- **Telas de imagem.** Nas histórias das tradições e nas metáforas, a tela mostra só uma ilustração e o nome da história. A história inteira, as correlações explícitas com o TSH e os cuidados estão nas notas, em três partes: a história, o que a imagem mostra e a correlação com o TSH. As ilustrações são originais, feitas para o curso na paleta do TSH. Se preferir outra imagem, basta trocar a figura: a nota continua valendo.
 - **Histórias marcadas como opcionais** (Zhuangzi em M2.4, o cavalo do velho da fronteira em M2.5) podem ser puladas: a nota da tela anterior diz para onde ir.
 - **Fontes:** EB Garamond nos títulos e Inter no texto, como em M0, M1 e M2.1. Se o PowerPoint trocar a fonte, instale as duas pelo Google Fonts.
 

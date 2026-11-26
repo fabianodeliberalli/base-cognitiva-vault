@@ -263,3 +263,42 @@ class Deck:
         self._footer(s, dark=True)
         self.notes(s, title, cue, lines, nxt)
         return s
+
+    # ---------- telas de imagem ----------
+    def ilustra(self, title, img, origem, cue, lines, nxt=None, dark=True, legenda=None):
+        """Imagem em tela cheia; só o nome da história e a tradição. A condução fica nas notas."""
+        s = self._new(dark)
+        pic(s, img, 0, 0, w=W, back=False)
+        cor_t = "FFFFFF" if dark else NOT
+        self.text(s, 0.6, 6.05, 9.0, 0.35, origem, size=13, color=OURO, bold=True)
+        self.text(s, 0.6, 6.38, 9.5, 0.6, title, size=28, font=SERIF, color=cor_t, line=1.0)
+        if legenda:
+            self.text(s, 7.2, 7.05, 5.6, 0.3, legenda, size=10, color=(BEGE if dark else MUTED), align="r")
+        corner(s, dark)
+        self.notes(s, title, cue, lines, nxt)
+        return s
+
+    def niveis(self, title, grupos, cue, lines, nxt=None, lead=None, foot=None):
+        """grupos: [(rótulo do grupo, [(nome, subtítulo)])], numeração contínua, uma linha por grupo."""
+        s = self._new()
+        self._chrome(s, title)
+        if lead:
+            self.text(s, 0.62, 1.8, 11.5, 0.5, lead, size=17, color=EST)
+        y = 2.35; k = 1
+        for gi, (rot, itens) in enumerate(grupos):
+            self.text(s, 0.62, y, 11.9, 0.4, rot.upper(), size=13, color=OURO, bold=True)
+            n = len(itens); gap = 0.25; w = (11.9 - gap * (n - 1)) / n
+            dk = gi == len(grupos) - 1
+            for i, (nome, sub) in enumerate(itens):
+                x = 0.62 + i * (w + gap)
+                rect(s, x, y + 0.42, w, 1.5, fill=(PET if dk else CARD), line=(None if dk else LINHA), rounded=0.06)
+                self.text(s, x + 0.2, y + 0.5, w - 0.4, 0.5, f"{k}  {nome}", size=20, font=SERIF,
+                          color=(OURO if dk else EST))
+                self.text(s, x + 0.2, y + 1.05, w - 0.4, 0.8, sub, size=15, color=("FFFFFF" if dk else NOT), line=1.05)
+                k += 1
+            y += 2.1
+        if foot:
+            self.text(s, 0.62, 6.5, 11.8, 0.4, foot, size=15, color=EST, italic=True)
+        self._footer(s)
+        self.notes(s, title, cue, lines, nxt)
+        return s

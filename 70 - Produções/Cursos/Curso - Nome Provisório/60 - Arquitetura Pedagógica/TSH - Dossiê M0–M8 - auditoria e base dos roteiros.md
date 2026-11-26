@@ -1069,7 +1069,7 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 
 **Raízes autorais:** A integração saudável da dimensão espiritual “depende de contexto, critério e maturidade” ([[Arquitetura Invisível]]). Fio: responsabilidade como expressão do eixo.
 
-**Elaborações do percurso:** [[Paradigma - Compaixão sem Autoabandono|compaixão sem autoabandono]].
+**Elaborações do percurso:** [[Paradigma - Compaixão sem Autoabandono|compaixão sem autoabandono]]. Mapa tradicional (registro de 25/11/2026): karma no budismo como intenção, ação e efeito (Nibbedhika Sutta, AN 6.63) e o discurso a Sivaka (SN 36.21), que recusa atribuir toda experiência a ações passadas e reconhece várias condições; dá responsabilidade sem culpabilização. Cautelas e fontes em [[TSH - Fotografia da Escada - Repetição, Profundidade e Percurso]]: karma não se reduz a destino, punição ou repetição involuntária, e não autoriza atribuir culpa a quem sofre.
 
 **Recuperar:** [Compaixão e Empatia - Destinos nas Aulas e Materiais](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/40%20-%20Fundamentos%20e%20Patrim%C3%B4nio/Compaix%C3%A3o%20Empatia%20e%20Rela%C3%A7%C3%A3o/02%20-%20Compaix%C3%A3o%20e%20Empatia%20-%20Destinos%20nas%20Aulas%20e%20Materiais.md); [DELIBERALLI_TCC_SINCRONIA_NEURAL_ESTADOS_CONSCIENCIA_2026 (1)](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/8b1cff4e29eafd3321236cfd7e9597ec7af19c8b/00%20-%20Caixa%20de%20Entrada/DELIBERALLI_TCC_SINCRONIA_NEURAL_ESTADOS_CONSCIENCIA_2026%20(1)/DELIBERALLI_TCC_SINCRONIA_NEURAL_ESTADOS_CONSCIENCIA_2026%20(1).md).
 
