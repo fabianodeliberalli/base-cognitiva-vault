@@ -273,16 +273,27 @@ d.passo("Prática curta", "O que você vê agora que não via?",
         pausa="Pause o vídeo para reler e escrever.")
 
 d.fechamento("Fecho do Módulo 2",
-             "A Essência é o destino. O EIXO é o caminho.",
-             ["Lemos as camadas: percepção, importância, certeza, repetição, interpretação e Tradução.",
+             ["Primeiro traduzir o que temos em nossos padrões.",
+              "Depois ganhar eixo e presença para ocupar nosso real espaço."],
+             ["Neste módulo: traduzir as camadas.",
               "Algumas camadas não estão nas ideias. Estão no corpo.",
               "No Módulo 3: o corpo, e o eixo como postura."],
              "ENCERRAR",
              ["Neste módulo lemos as camadas: percepção, importância, certeza, repetição, interpretação e Tradução.",
+              "Foi o primeiro movimento do curso: traduzir.",
+              "",
+              "«Precisamos primeiro traduzir o que temos em nossos padrões e depois trabalhar para ganhar eixo e presença suficientes para ocupar nosso real espaço.»",
+              "Traduzir foi este módulo.",
+              "Ganhar eixo e presença é o trabalho dos Módulos 3 a 6: corpo, emoções, escolha e cultivo.",
+              "Ocupar o próprio espaço é o que os Módulos 7 e 8 levam para a relação, a expressão e a continuidade.",
+              "",
+              "«Primeiro» e «depois» indicam a direção, não etapas em fila.",
+              "Na prática, uma alimenta a outra, como vimos no caso da membrana.",
               "",
               "Algumas camadas não estão nas ideias. Estão no corpo.",
               "No Módulo 3, o corpo: o estado que muda o que fica acessível, e o eixo como postura.",
               "",
-              "«A Essência é o destino. O EIXO é o caminho.»"])
+              "«A Essência é o destino. O EIXO é o caminho.»"],
+             frase_size=24)
 d.save(f"{OUT}/TSH · M2.6 · Como construir e revisar uma Tradução provisória.pptx")
 M26 = d
