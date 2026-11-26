@@ -283,6 +283,20 @@ Escolher uma situação cotidiana de intensidade manejável e dois episódios co
 
 Perguntar o que a imagem desperta antes de oferecer os sentidos do professor. Permitir registro não verbal e sentido incompleto. Apresentar uma leitura autoral depois da exploração e perguntar se acrescenta algo, modifica a leitura ou não encontra ressonância. O símbolo pode participar da descoberta do sentido.
 
+## O buraco de Portia Nelson em M6.8
+
+Avaliação de 25/11/2026. O poema de Portia Nelson, *Autobiography in Five Short Chapters* (em *There's a Hole in My Sidewalk*), não foi usado na Masterclass. Entra em M6.8, em paráfrase creditada; não em M2.4.
+
+**Por que M6.8.** O poema é um registro longitudinal: cinco encontros com o mesmo buraco, em que a queda se repete enquanto a percepção muda (não vejo; finjo não ver; vejo e ainda caio; dou a volta; ando por outra rua). É exatamente a operação de M6.8: comparar registros da mesma questão em momentos diferentes e separar o que mudou do que permaneceu. Combina com a prática «comparar reencontros» desta nota.
+
+**O contraste que dá a aula.** O poema sobe como uma escada: cada capítulo supera o anterior. A leitura do TSH é a espiral: sob ativação, a pessoa pode voltar ao capítulo 1 sem perder o percurso (M1.7), e os capítulos não são estágios universais. A pergunta de M6.8 continua sendo «o que exatamente voltou, e o que desta vez aconteceu de outra maneira?».
+
+**Culpa e alcance.** O terceiro capítulo diz «é minha culpa». A leitura do TSH troca culpa por responsabilidade situada: o que estava ao alcance daquela pessoa? Às vezes a única rua segura tem o buraco; mudar de rua pode exigir apoio ou mudar condições coletivas. Esse ponto pode ser retomado em M7.7 (karma como intenção, ação e efeito; responsabilidade sem culpa).
+
+**Por que não M2.4.** M2.4 já tem a cena pessoal, o caso real da segurança de ontem, os sulcos da repetição e a sombra de Zhuangzi; uma terceira narrativa sobrecarrega a aula. O que o poema mostra em M2.4 (ver o buraco e ainda cair) já está na tela do transe que não se escolhe. E a força do poema está na comparação ao longo do tempo, que M2.4 ainda não pede.
+
+**Direito autoral.** Obra protegida; o PDF "BURACO" não traz crédito de tradução. Usar paráfrase oral creditada, sem o texto integral na tela.
+
 ## Reprodução e uso da obra
 
 Para reprodução fiel da obra, a melhor opção continua sendo obter o arquivo original ou uma reprodução profissional. Para o uso didático atual, foi escolhida a adaptação por IA já produzida, com identificação clara dessa intervenção.
