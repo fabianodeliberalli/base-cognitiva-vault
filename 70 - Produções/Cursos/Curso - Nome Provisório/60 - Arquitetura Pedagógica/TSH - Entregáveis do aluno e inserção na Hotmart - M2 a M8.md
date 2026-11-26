@@ -68,4 +68,6 @@ O plano das seis aulas já organiza capacidades, experiências, fontes e entreg�
 
 ## Referências de continuidade
 
+- Descrições dos módulos M2 a M8 com o mapa do percurso (proposta de 26/11/2026): [[TSH - Mapa do percurso nas descrições da Hotmart e no próximo lançamento]].
+
 Consultar [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]], [[01 - Plano de produção das seis aulas M2]], [[00 - Estado e Continuidade da Produção M2]] e [[M2.1 - Apoio do aluno - Perceber e revisar uma leitura]]. A orientação permanece revisável por Fabiano e acompanha a construção concreta dos materiais, sem instituir outro protocolo de liberação.
