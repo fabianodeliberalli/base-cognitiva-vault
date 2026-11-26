@@ -61,6 +61,8 @@ Você está em: **Traduzir** — a prática (o Módulo 1 trouxe os fundamentos).
 
 Neste módulo você pratica a tradução: olhar para o que acontece entre o que você vive e o que você faz. Como a percepção se forma, por que alguns sinais ganham mais importância, quando uma interpretação parece a própria realidade e por que certas respostas voltam. Ao final, você constrói e revisa uma Tradução provisória de uma situação sua.
 
+Você também começa a reconhecer o transe que não se escolhe: quando um padrão passa a viver por você. É o primeiro uso da auto-hipnose, uma habilidade que você aprende ao longo do curso.
+
 As três direções do mapa não são etapas em fila: traduzir ajuda a ganhar eixo, e o eixo ajuda a traduzir.
 
 Para onde segue: algumas camadas não estão nas ideias; estão no corpo. O Módulo 3 abre a segunda direção do percurso, ganhar eixo e presença.
@@ -71,6 +73,8 @@ Mapa do percurso: Traduzir → Ganhar eixo e presença → Ocupar o próprio esp
 Você está em: **Ganhar eixo e presença** — 1 de 4.
 
 O corpo muda o que fica acessível. Neste módulo você aprende a perceber e a interpretar sinais internos e conhece mapas do sistema nervoso e da Medicina Chinesa. Na prática, aprende a postura da árvore (Zhan Zhuang) e o Qi Gong como formas corporais do eixo. Termina escolhendo, dosando e adaptando recursos para retornar quando perder a orientação.
+
+A auto-hipnose entra como prática do transe escolhido: entrar por escolha num estado de atenção concentrada, junto com a árvore e o Qi Gong.
 
 O módulo ganhou uma aula prática: a árvore e o Qi Gong agora têm aulas próprias.
 
@@ -120,7 +124,7 @@ Ocupar o próprio espaço acontece na relação. Neste módulo você pratica:
 - pertencer sem perder a diferença;
 - contribuir sem se abandonar.
 
-Também examina os efeitos do que faz, com responsabilidade e sem culpa, e aprende a reparar.
+Também examina os efeitos do que faz, com responsabilidade e sem culpa, e aprende a reparar. A auto-hipnose ajuda no ensaio mental: ensaiar por escolha a expressão, o pedido ou o limite antes da conversa real.
 
 Para onde segue: o Módulo 8 reúne o percurso.
 
@@ -129,7 +133,7 @@ Para onde segue: o Módulo 8 reúne o percurso.
 Mapa do percurso: Traduzir → Ganhar eixo e presença → Ocupar o próprio espaço\
 Você está em: **Ocupar o próprio espaço** — 2 de 2.
 
-Você retoma a pergunta com que entrou no curso e reconhece o que aprendeu, o que já está acessível e o que ainda está em cultivo. Monta um repertório pessoal de práticas e escolhe como continuar o estudo e o cultivo, com os apoios de que precisar.
+Você retoma a pergunta com que entrou no curso e reconhece o que aprendeu, o que já está acessível e o que ainda está em cultivo. Monta um repertório pessoal de práticas e escolhe como continuar o estudo e o cultivo, com os apoios de que precisar. Na auto-hipnose, projeta a nova resposta nas situações que virão.
 
 O percurso não termina aqui. Traduzir, ganhar eixo e presença e ocupar o próprio espaço continuam se alimentando.
 

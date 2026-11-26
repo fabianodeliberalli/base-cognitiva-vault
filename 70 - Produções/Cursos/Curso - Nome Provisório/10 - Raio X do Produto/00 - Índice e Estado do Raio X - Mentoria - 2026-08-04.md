@@ -2,12 +2,16 @@
 tipo: indice-de-versoes
 projeto: Traduzindo o Ser Humano
 status: referencia-vigente
-versao: "1.5"
-atualizado_em: 2026-10-30
+versao: "1.6"
+atualizado_em: 2026-11-26
 autoridade_de_decisao: Fabiano Deliberalli
 ---
 
 # Índice e estado das versões do Raio X
+
+## Versão vigente — 26 de novembro de 2026
+
+O Raio X vigente está em [[Raio-X-Fabiano Deliberalli - Texto para consulta]] (Markdown) e `Vigente/Raio-X-Fabiano Deliberalli.docx` (Word), atualizados a pedido de Fabiano em 26/11/2026: nove módulos e 59 aulas com os nomes de 22/11; Qi Gong e Medicina Chinesa como prática central; mapa do percurso e mapas do curso; benefícios sem ressalvas embutidas, com as ressalvas reunidas na seção "Para quem não é, e os limites do curso"; proposta de liberação quinzenal registrada como a confirmar. A versão de 31/10 está em `Histórico/2026-10-31 - Raio-X-Fabiano Deliberalli - Texto para consulta.md` e `Histórico/2026-10-31 - Raio-X-Fabiano Deliberalli.docx`, como registro. As seções abaixo são histórico.
 
 ## Revisão solicitada em 30 de outubro de 2026
 
