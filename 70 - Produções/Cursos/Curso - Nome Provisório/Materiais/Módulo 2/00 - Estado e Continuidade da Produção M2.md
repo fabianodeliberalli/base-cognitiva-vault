@@ -9,6 +9,9 @@ arquitetura_atual: nove módulos e 59 aulas
 
 # Módulo 2 — Estado e continuidade da produção
 
+
+**Mapa do percurso (Fabiano, 26/11/2026).** Três direções, do texto [[TSH - Padrões e ressonância - texto de Fabiano de 10-11-2026|«Padrões e ressonância»]]: **traduzir** — M1 (fundamentos) e M2 (prática da tradução); **ganhar eixo e presença** — M3 a M6; **ocupar o próprio espaço** — M7 e M8. M0 é a entrada. As direções se alimentam; não são etapas em fila. Toda estruturação, abertura e fecho de módulo situa o aluno nesse mapa com clareza. Em M2: abertura no encontro de 28/11 (bloco A1) e fecho na tela 8 de M2.6.
+
 ## Ponto atual: retomar M2 pelas raízes autorais (24/11/2026)
 
 Fabiano decidiu que o eixo volta como conceito central do TSH (não marca) e que a Essência soterrada por camadas é fio explícito de M0 a M8. Pediu rever tudo o que foi produzido de M2 e reorganizar o que ainda não foi publicado, mesmo com retrabalho.

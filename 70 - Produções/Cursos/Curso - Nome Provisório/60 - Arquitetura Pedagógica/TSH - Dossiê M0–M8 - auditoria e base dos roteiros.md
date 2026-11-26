@@ -16,6 +16,8 @@ aliases:
 
 ## Leitura atual da arquitetura e da produção — 24/11/2026
 
+**Mapa do percurso (Fabiano, 26/11/2026).** Três direções, do texto [[TSH - Padrões e ressonância - texto de Fabiano de 10-11-2026|«Padrões e ressonância»]]: **traduzir** — M1 (fundamentos) e M2 (prática da tradução); **ganhar eixo e presença** — M3 a M6; **ocupar o próprio espaço** — M7 e M8. M0 é a entrada. As direções se alimentam; não são etapas em fila. Toda estruturação, abertura e fecho de módulo situa o aluno nesse mapa com clareza.
+
 A arquitetura de nove módulos e 59 aulas permanece. Este dossiê situa conteúdos, correspondências e possibilidades de percurso; não é roteiro obrigatório nem prova de aquisição. As avaliações de coerência/profundidade e destinos de fontes abaixo são pareceres editoriais de suas etapas, não resultados demonstrados nos alunos ou confirmação de uso satisfatório pelo professor.
 
 O relato posterior de Fabiano interrompendo M2.4 por repetição/confusão e questionando seu ganho prático reabre sua composição substantiva. Não citar a avaliação positiva anterior para declarar a aula resolvida. [[00 - Estado e Continuidade da Produção M2]] e [[01 - Plano de produção das seis aulas M2]] situam a revisão atual; a proposta de quatro blocos não foi adotada. [[TSH - Padrão de Slides, Notas e Roteiros das Aulas]] reúne as orientações em uso, incluindo exemplos pontuais e prática pela contribuição real. Descrições e contagens anteriores abaixo conservam sua genealogia; não impõem a repetição de caso, número de telas, autores ou exercício. O conteúdo curricular não foi apagado por esta nota de leitura.

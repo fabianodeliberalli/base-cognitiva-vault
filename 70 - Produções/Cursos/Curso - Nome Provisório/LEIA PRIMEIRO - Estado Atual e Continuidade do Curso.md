@@ -12,7 +12,7 @@ autoridade_de_decisao: Fabiano Deliberalli
 
 ## 24/11/2026 — raízes autorais
 
-Eixo é conceito central (não marca); a Essência soterrada por camadas é fio de M0 a M8. Antes de pesquisar: [[11b - Raízes Autorais do TSH - Folha de Consulta]].
+Eixo é conceito central; a Essência soterrada por camadas é fio de M0 a M8. Mapa do percurso: traduzir (M1–M2), ganhar eixo e presença (M3–M6), ocupar o próprio espaço (M7–M8). Antes de pesquisar: [[11b - Raízes Autorais do TSH - Folha de Consulta]].
 
 ## 22/11/2026 — títulos claros e M2.1 preparada para gravação
 
@@ -29,7 +29,7 @@ A estrutura atual é de **9 módulos e 59 aulas**, validada por Fabiano. As men�
 
 A frente atual é integrar o percurso M0–M8 e preparar os roteiros de M2. O dossiê integra a auditoria com os registros e o anexo posterior. M0/M1 são pontos de retomada documentais, sem regravação presumida.
 
-Fabiano validou em 22/11/2026 a organização de **59 aulas em nove módulos**. A alternativa de 58 pertence à avaliação anterior; a referência atual é 59, sempre revisável pelo autor. Os códigos de 54 aulas abaixo continuam como localizadores de origem. Composição integrada, correspondência completa e pendências: [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]]. As passagens datadas anteriores permanecem recuperáveis; não confirmam execução nem publicação.
+Fabiano validou em 22/11/2026 a organização de **59 aulas em nove módulos**. A referência é 59, revisável pelo autor. Os códigos de 54 aulas abaixo continuam como localizadores de origem. Composição integrada, correspondência completa e pendências: [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]]. As passagens datadas anteriores permanecem recuperáveis; não confirmam execução nem publicação.
 
 
 

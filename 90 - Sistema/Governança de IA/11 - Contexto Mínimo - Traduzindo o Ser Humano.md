@@ -11,7 +11,7 @@ autoridade_final: Fabiano Deliberalli
 
 ## Referências atuais de trabalho
 
-**Traduzindo o Ser Humano**, subtítulo **Da compreensão acumulada à presença que sustenta**. Arquitetura validada: **nove módulos e 59 aulas**, distribuição M0–M8 **3/7/6/8/6/9/9/8/3**. A correspondência com as 54 posições anteriores está no [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]]. Quantidade não define duração nem comprova progressão.
+**Traduzindo o Ser Humano**, subtítulo **Da compreensão acumulada à presença que sustenta**. Arquitetura validada: **nove módulos e 59 aulas**, distribuição M0–M8 **3/7/6/8/6/9/9/8/3**. Mapa do percurso: traduzir (M1–M2), ganhar eixo e presença (M3–M6), ocupar o próprio espaço (M7–M8). A correspondência com as 54 posições anteriores está no [[TSH - Dossiê M0–M8 - auditoria e base dos roteiros]]. Quantidade não define duração nem comprova progressão.
 
 A Tradução torna a experiência legível e participa do reconhecimento, integração e expressão das possibilidades da **Essência** nas condições concretas da **singularidade**. Corpo, afeto, história, imagem, pensamento, relações, condições de vida, criação, desejo, prazer, cultivo e espiritualidade constituem o percurso. Investigar padrões é parte desse trabalho. **Ferramentas e experiências que desenvolvem capacidades são centrais; a teoria profunda orienta e amplia seu uso.**
 
