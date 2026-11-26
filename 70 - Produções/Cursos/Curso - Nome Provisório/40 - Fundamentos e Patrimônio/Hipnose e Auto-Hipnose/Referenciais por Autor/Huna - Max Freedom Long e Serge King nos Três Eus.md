@@ -85,6 +85,10 @@ Capítulos de Long que tocam o TSH (a numeração da tradução coincide com a d
 - **Origens que não se sustentam.** As afirmações de origem egípcia ou no continente de Mu, presentes nos decks, não se sustentam historicamente.
 - **Uma linguagem por vez.** Long trata aka e mana como substâncias físicas. No TSH, entram como linguagem da tradição, ao lado das definições funcionais do [[Mapa Funcional Transversal dos Três Eus]].
 
+## Sete livros avaliados em 25/11/2026
+
+Ampliações, correlações e seis práticas candidatas (duas mãos, conversar com a imagem, intenção em quatro tempos, sinais de que o Eu Básico não está junto, reparar o que é possível, ho'oponopono familiar) em [[Huna - Sete livros - avaliação, correlações e práticas para o TSH]].
+
 ## Terceira linguagem: Leinani Melville
 
 *Children of Paradise* usa os nomes invertidos (*Uhane* como eu inferior, *Unihipiri* como eu do meio), com uma moldura devocional e moralista. Confirma que a correspondência deve seguir a função. Ver [[Huna - Leinani Melville Children of Paradise - Avaliação para o TSH]].
