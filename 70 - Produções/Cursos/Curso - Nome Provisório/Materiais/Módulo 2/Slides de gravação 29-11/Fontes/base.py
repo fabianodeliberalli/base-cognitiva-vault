@@ -253,12 +253,12 @@ class Deck:
         self.notes(s, title, cue, lines, nxt)
         return s
 
-    def fechamento(self, title, frase, linhas, cue, lines, nxt=None):
+    def fechamento(self, title, frase, linhas, cue, lines, nxt=None, frase_size=28):
         s = self._new(dark=True)
         self._chrome(s, title, dark=True)
         self.text(s, 0.62, 2.1, 9.8, 2.4, linhas, size=20, color=BEGE, line=1.2, after=8)
         rect(s, 0.62, 4.75, 11.9, 1.15, fill=NOT, rounded=0.08)
-        self.text(s, 0.9, 4.8, 11.4, 1.05, frase, size=28, font=SERIF, color=OURO, italic=True,
+        self.text(s, 0.9, 4.8, 11.4, 1.05, frase, size=frase_size, font=SERIF, color=OURO, italic=True,
                   anchor="ctr", align="ctr")
         self._footer(s, dark=True)
         self.notes(s, title, cue, lines, nxt)

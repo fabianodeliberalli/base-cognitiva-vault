@@ -977,6 +977,15 @@ Uma orientação possível, e quando vai conferir.
 [ENCERRAR]  
 
 Neste módulo lemos as camadas: percepção, importância, certeza, repetição, interpretação e Tradução.  
+Foi o primeiro movimento do curso: traduzir.  
+
+«Precisamos primeiro traduzir o que temos em nossos padrões e depois trabalhar para ganhar eixo e presença suficientes para ocupar nosso real espaço.»  
+Traduzir foi este módulo.  
+Ganhar eixo e presença é o trabalho dos Módulos 3 a 6: corpo, emoções, escolha e cultivo.  
+Ocupar o próprio espaço é o que os Módulos 7 e 8 levam para a relação, a expressão e a continuidade.  
+
+«Primeiro» e «depois» indicam a direção, não etapas em fila.  
+Na prática, uma alimenta a outra, como vimos no caso da membrana.  
 
 Algumas camadas não estão nas ideias. Estão no corpo.  
 No Módulo 3, o corpo: o estado que muda o que fica acessível, e o eixo como postura.  
