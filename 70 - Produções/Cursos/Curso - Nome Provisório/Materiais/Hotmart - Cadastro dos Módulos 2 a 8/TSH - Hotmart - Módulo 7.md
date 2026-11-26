@@ -18,7 +18,7 @@ O texto recuado é para copiar e colar como está. O resto são orientações de
 > Mapa do percurso: Traduzir → Ganhar eixo e presença → Ocupar o próprio espaço\
 > Você está em: **Ocupar o próprio espaço** — 1 de 2.
 >
-> Ocupar o próprio espaço acontece na relação. Neste módulo você pratica expressar o que vive sem transformar a experiência em acusação, escutar sem abandonar sua posição, colocar limites sem apagar o outro, pertencer sem perder a diferença e contribuir sem se abandonar. Também examina os efeitos do que faz, com responsabilidade e sem culpa, e aprende a reparar.
+> Ocupar o próprio espaço acontece na relação. Neste módulo você pratica expressar o que vive sem transformar a experiência em acusação, escutar sem abandonar sua posição, colocar limites sem apagar o outro, pertencer sem perder a diferença e contribuir sem se abandonar. Também examina os efeitos do que faz, com responsabilidade e sem culpa, e aprende a reparar. A auto-hipnose ajuda no ensaio mental: ensaiar por escolha a expressão, o pedido ou o limite antes da conversa real.
 >
 > Para onde segue: o Módulo 8 reúne o percurso.
 

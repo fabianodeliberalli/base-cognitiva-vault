@@ -20,6 +20,8 @@ O texto recuado é para copiar e colar como está. O resto são orientações de
 >
 > Neste módulo você pratica a tradução: olhar para o que acontece entre o que você vive e o que você faz. Como a percepção se forma, por que alguns sinais ganham mais importância, quando uma interpretação parece a própria realidade e por que certas respostas voltam. Ao final, você constrói e revisa uma Tradução provisória de uma situação sua.
 >
+> Você também começa a reconhecer o transe que não se escolhe: quando um padrão passa a viver por você. É o primeiro uso da auto-hipnose, uma habilidade que você aprende ao longo do curso.
+>
 > As três direções do mapa não são etapas em fila: traduzir ajuda a ganhar eixo, e o eixo ajuda a traduzir.
 >
 > Para onde segue: algumas camadas não estão nas ideias; estão no corpo. O Módulo 3 abre a segunda direção do percurso, ganhar eixo e presença.

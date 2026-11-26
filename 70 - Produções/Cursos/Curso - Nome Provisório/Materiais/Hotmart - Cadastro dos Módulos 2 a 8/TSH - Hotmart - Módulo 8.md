@@ -18,7 +18,7 @@ O texto recuado é para copiar e colar como está. O resto são orientações de
 > Mapa do percurso: Traduzir → Ganhar eixo e presença → Ocupar o próprio espaço\
 > Você está em: **Ocupar o próprio espaço** — 2 de 2.
 >
-> Você retoma a pergunta com que entrou no curso e reconhece o que aprendeu, o que já está acessível e o que ainda está em cultivo. Monta um repertório pessoal de práticas e escolhe como continuar o estudo e o cultivo, com os apoios de que precisar.
+> Você retoma a pergunta com que entrou no curso e reconhece o que aprendeu, o que já está acessível e o que ainda está em cultivo. Monta um repertório pessoal de práticas e escolhe como continuar o estudo e o cultivo, com os apoios de que precisar. Na auto-hipnose, você projeta a nova resposta nas situações que virão.
 >
 > O percurso não termina aqui. Traduzir, ganhar eixo e presença e ocupar o próprio espaço continuam se alimentando.
 

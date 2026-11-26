@@ -20,6 +20,8 @@ O texto recuado é para copiar e colar como está. O resto são orientações de
 >
 > O corpo muda o que fica acessível. Neste módulo você aprende a perceber e a interpretar sinais internos e conhece mapas do sistema nervoso e da Medicina Chinesa. Na prática, aprende a postura da árvore (Zhan Zhuang) e o Qi Gong como formas corporais do eixo. Termina escolhendo, dosando e adaptando recursos para retornar quando perder a orientação.
 >
+> A auto-hipnose entra como prática do transe escolhido: entrar por escolha num estado de atenção concentrada, junto com a árvore e o Qi Gong.
+>
 > O módulo ganhou uma aula prática: a árvore e o Qi Gong agora têm aulas próprias.
 >
 > Para onde segue: com o corpo como apoio, o Módulo 4 olha para as emoções e para os padrões que um dia protegeram.
