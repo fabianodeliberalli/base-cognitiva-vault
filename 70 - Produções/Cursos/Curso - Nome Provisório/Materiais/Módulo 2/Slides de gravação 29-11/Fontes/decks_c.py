@@ -121,7 +121,23 @@ d.ilustra("O cavalo do velho da fronteira", "img/talvez.png", "HUAINANZI, CHINA 
            "«Talvez» é manter a hipótese aberta, como no caso: não precisamos decidir se era real para acompanhar o que a experiência produziu.",
            "",
            "Cuidado: «talvez» não é indiferença. A perna quebrada doeu de verdade."],
-          "Próximo: o fio e a prática curta.")
+          "Próximo: o Cultivo do Eixo desta quinzena.")
+
+d.cartoes("Cultivo do Eixo desta quinzena",
+          [("A árvore", "De um a três minutos na postura da árvore."),
+           ("A pergunta", "«O que está me vivendo agora?»"),
+           ("Três respirações", "No baixo ventre, antes de seguir o dia.")],
+          "CONVIDAR",
+          ["Todos os dias desta quinzena, de três a cinco minutos: o Cultivo do Eixo.",
+           "A árvore, a pergunta «o que está me vivendo agora?» e três respirações no baixo ventre.",
+           "",
+           "Ao escrever no Caderno, separe o que aconteceu, o que você viveu e o que concluiu.",
+           "",
+           "No primeiro sinal de uma resposta familiar, o Retorno ao Eixo: trinta segundos.",
+           "Uma vez por quinzena, antes do encontro, um reencontro no Caderno.",
+           "Falhar um dia não desfaz nada. Retome no seguinte."],
+          "Próximo: o fechamento.", lead="Todos os dias, de três a cinco minutos",
+          foot="No primeiro sinal: Retorno ao Eixo (30 s). Uma vez por quinzena: um reencontro no Caderno.", dark_idx=(1,))
 
 d.fechamento("Para guardar e praticar",
              "A Essência não se confunde com a interpretação de origem.",
@@ -136,7 +152,7 @@ d.fechamento("Para guardar e praticar",
               "Escreva quatro linhas: o que aconteceu; como vivi; o que concluí; que hipóteses existem.",
               "E uma quinta: o que essa experiência agrega à minha vida?",
               "",
-              "[PAUSA] Pause o vídeo para escrever.",
+              "[PAUSA] De 30 a 60 segundos em silêncio, com a tela parada, conduzindo. Depois: «Se quiser, anote no Caderno; se não, siga comigo.»",
               "",
               "Na M2.6: como transformar isso numa Tradução que possa ser revista."])
 d.save(f"{OUT}/TSH · M2.5 · Acontecimento, experiência e interpretação.pptx")
@@ -256,7 +272,21 @@ d.ilustra("Um convite: as páginas matinais", "img/paginas.png", "JULIA CAMERON 
            "Eu gosto delas e uso de vez em quando.",
            "Não é tarefa.",
            "Se a escrita trouxer algo forte demais, pare, volte ao eixo, e retome outro dia ou com apoio."],
-          "Próximo: a prática curta.", dark=False)
+          "Próximo: o crivo.", dark=False)
+
+d.frase("O crivo",
+       "Todas as informações provindas dos outros níveis (de consciência) de nosso ser… precisam passar por nosso crivo (inteligência)… para que analisemos, assimilemos e integremos as impressões e experiências vividas.",
+       "Fabiano Deliberalli · monografia de Medicina Chinesa, 2004",
+       "LER",
+       ["Uma frase que escrevi em 2004, na monografia de Medicina Chinesa, com o mestre Liu Chih Ming.",
+        "",
+        "«Todas as informações provindas dos outros níveis (de consciência) de nosso ser, para se harmonizarem de maneira saudável em nosso interior, precisam passar por nosso crivo (inteligência).»",
+        "«O aspecto inteligência relacionado à Mente é fundamental, para que analisemos, assimilemos e integremos as impressões e experiências vividas.»",
+        "",
+        "Na Medicina Chinesa, esse crivo é o Yi, a inteligência que reflete e aplica.",
+        "Eu ainda não chamava assim, mas é a Tradução: analisar, assimilar, integrar.",
+        "A Tradução provisória é esse crivo em ação, e por isso ela se revisa."],
+       "Próximo: a prática curta.", lead="O que hoje chamo de Tradução, em 2004")
 
 d.passo("Prática curta", "O que você vê agora que não via?",
         ["Retome um registro deste módulo.", "Reescreva a Tradução provisória em uma ou duas frases.",
@@ -268,9 +298,25 @@ d.passo("Prática curta", "O que você vê agora que não via?",
          "Escreva de novo a Tradução provisória, em uma ou duas frases.",
          "Uma orientação possível, e quando vai conferir.",
          "",
-         "[PAUSA] Pause o vídeo para escrever."],
-        "Próximo: o fecho do módulo.", registro="Tradução provisória",
-        pausa="Pause o vídeo para reler e escrever.")
+         "[PAUSA] De 30 a 60 segundos em silêncio, com a tela parada, conduzindo. Depois: «Se quiser, anote no Caderno; se não, siga comigo.»"],
+        "Próximo: o Cultivo do Eixo desta quinzena.", registro="Tradução provisória",
+        pausa="Releia comigo agora. Escrever é opcional.")
+
+d.cartoes("Cultivo do Eixo desta quinzena",
+          [("A árvore", "De um a três minutos na postura da árvore."),
+           ("A pergunta", "«O que está me vivendo agora?»"),
+           ("Três respirações", "No baixo ventre, antes de seguir o dia.")],
+          "CONVIDAR",
+          ["Todos os dias desta quinzena, de três a cinco minutos: o Cultivo do Eixo.",
+           "A árvore, a pergunta «o que está me vivendo agora?» e três respirações no baixo ventre.",
+           "",
+           "No Caderno, registre uma Tradução provisória por quinzena. Ela leva este módulo para a vida.",
+           "",
+           "No primeiro sinal de uma resposta familiar, o Retorno ao Eixo: trinta segundos.",
+           "Uma vez por quinzena, antes do encontro, um reencontro no Caderno.",
+           "Falhar um dia não desfaz nada. Retome no seguinte."],
+          "Próximo: o fechamento.", lead="Todos os dias, de três a cinco minutos",
+          foot="No primeiro sinal: Retorno ao Eixo (30 s). Uma vez por quinzena: um reencontro no Caderno.", dark_idx=(1,))
 
 d.fechamento("Fecho do Módulo 2",
              ["Primeiro traduzir o que temos em nossos padrões.",

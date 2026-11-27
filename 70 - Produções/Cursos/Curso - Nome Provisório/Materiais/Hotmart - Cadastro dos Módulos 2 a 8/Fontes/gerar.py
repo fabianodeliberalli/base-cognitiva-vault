@@ -1,6 +1,6 @@
 import subprocess, unicodedata, re, sys
 sys.path.insert(0, '/home/claude/hot')
-from dados import LINHA, MOD, AULAS
+from dados import LINHA, MOD, AULAS, MINIMO
 from docx import Document
 from docx.shared import Pt
 
@@ -24,7 +24,7 @@ for m, d in MOD.items():
     L.append('# 1. Nome do módulo\n')
     L.append(bloco(d['nome'].replace(' — ', ' - ')) + '\n')
     L.append('# 2. Descrição do módulo\n')
-    desc = LINHA + '\\\nVocê está em: ' + d['pos'] + '\n\n' + '\n\n'.join(d['desc'])
+    desc = LINHA + '\\\nVocê está em: ' + d['pos'] + '\n\n' + '\n\n'.join(d['desc']) + '\n\n' + MINIMO[m]
     L.append('\n'.join('> ' + l if l else '>' for l in desc.split('\n')) + '\n')
     L.append('A imagem do mapa acima, com o Módulo ' + str(m) + ' destacado, está no pacote em PNG. Se a área de membros aceitar imagem de capa do módulo, ou imagem no corpo da primeira aula, ela pode ir junto.\n')
     L.append('# 3. Aulas, na ordem da plataforma\n')
@@ -35,7 +35,7 @@ for m, d in MOD.items():
         else:
             cod, tit0, ds = a
             tit = f'Aula {cod} - {tit0}'
-            origem, mat = 'A gravar', 'Apoio do aluno (a produzir)'
+            origem, mat = 'A gravar', ('Apoio do aluno de uma página (pronto, PDF)' if m == 3 else 'Apoio do aluno (a produzir)')
         pref = {'abertura': '2_0a', 'zhan': '2_0b'}.get(cod, cod.rstrip('p').replace('.', '_'))
         arq = 'TSH_M' + pref + '_' + slug(tit.split(' - ', 1)[-1]) + '.mp4'
         L.append(f'## {i}. {tit}\n')

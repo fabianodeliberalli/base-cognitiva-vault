@@ -23,6 +23,8 @@ O texto recuado é para copiar e colar como está. O resto são orientações de
 > O módulo ganhou uma aula prática.
 >
 > Para onde segue: o Módulo 6 reúne o que foi aprendido até aqui.
+>
+> Se tiver pouco tempo nesta quinzena: a aula 5.1 (os Três Eus), a 5.4 (quietude) e o Cultivo do Eixo. Nada se perde: o resto continua aqui.
 
 A imagem do mapa acima, com o Módulo 5 destacado, está no pacote em PNG. Se a área de membros aceitar imagem de capa do módulo, ou imagem no corpo da primeira aula, ela pode ir junto.
 

@@ -23,15 +23,43 @@ A hora de prática do encontro de sábado junta:
 - as duas primeiras etapas da indução de Fabiano (respiração no baixo ventre e retorno), do plano de hipnose;
 - a prévia do Mapa do TSH.
 
-Dela saem três vídeos para o M2, liberado em 29/11:
+Do encontro saem quatro vídeos: um para o M1 (o Módulo 1 em prática guiada, gravado na primeira hora) e três para o M2, liberado em 29/11:
 
 | Corte | Vídeo | Duração | Onde entra |
 | --- | --- | --- | --- |
+| 0 | Módulo 1 em prática guiada | 10 a 12 min | fim do Módulo 1, na Hotmart |
 | 1 | Abertura do Módulo 2 | cerca de 10 min | antes de M2.1 |
 | 2 | O eixo no corpo: Zhan Zhuang | cerca de 10 min | logo depois da abertura, antes de M2.1 |
 | 3 | Prática de M2.4, "Do primeiro sinal ao eixo" | cerca de 30 min | depois da teoria de M2.4 |
 
-A primeira hora continua sendo de dúvidas sobre M0 e M1. Na primeira hora, se couber, um aviso: o percurso ganhou aulas práticas de cultivo e passou de 54 para 59 aulas.
+A primeira hora começa pelo Módulo 1 em prática guiada (bloco M1, abaixo) e segue com dúvidas sobre M0 e M1. Na primeira hora, se couber, um aviso: o percurso ganhou aulas práticas de cultivo e passou de 54 para 59 aulas.
+
+## Bloco M1 — Módulo 1 em prática guiada (10 a 12 min; corte 0; primeira hora)
+
+Decisão de Fabiano de 27/11/2026, a partir do retorno de uma aluna: a teoria de M1 sem exercícios nos vídeos ficou difícil de reter. Este bloco percorre o Módulo 1 em sete passos, um por aula, conduzido do começo ao fim. Ninguém escreve durante; quem quiser anota depois. Fazer no início da primeira hora, antes das dúvidas, e avisar: "isto fica gravado no Módulo 1 para quem quiser fazer de novo".
+
+**Abertura (30 s).** "Não existe atraso no TSH. Se você não conseguiu fazer tudo do Módulo 1, este é o caminho mínimo. Vamos juntos, sem escrever nada."
+
+**1. Uma situação (M1.1, 1 min 30).** "Escolha uma situação em que você entende o seu padrão e ainda assim repete. Só escolha. Não precisa contar a ninguém." Pausa. "Sinta os pés. Três respirações no baixo ventre."
+
+**2. Saber, acessar, sustentar (M1.2, 1 min 30).** "Nessa situação: eu sei o que fazer? Consigo acessar isso na hora? Consigo sustentar?" Pausa breve entre as perguntas. "Note onde está a dificuldade. Ela não diz quem você é; diz onde praticar."
+
+**3. O que o corpo aprende (M1.3, 1 min 30).** Sorriso Interior: "Um sorriso leve nos olhos e nos lábios. Leve ao coração. Leve ao baixo ventre. Três respirações." "O que mudou, mesmo que pouco?"
+
+**4. Território e mapa (M1.4, 1 min).** "Volte à situação. Primeiro só o que você sente. Agora a explicação que costuma dar. Que outra explicação também caberia?"
+
+**5. As Cinco Janelas (M1.5, 2 min).** Uma janela por vez, devagar: "Corpo… emoção… mente… relações… espiritualidade. Uma palavra para cada, em silêncio." "Qual janela mostrou algo novo?"
+
+**6. A primeira Cartografia (M1.6, 1 min).** "Dessa janela, um detalhe. Dê a ele uma forma: uma palavra, um gesto, uma imagem. Ela combina com o que você sente? Ajuste." "Quem quiser, desenha ou escreve isso depois no Caderno."
+
+**7. Perder o eixo não é perder o percurso (M1.7, 1 min 30).** "Lembre uma vez em que você perdeu o eixo e voltou. O que ajudou a voltar?" Pausa. "Esse recurso é seu. Perder o eixo não significa perder o percurso." Fechar com três respirações no baixo ventre.
+
+**Edição:** corte 0, publicado no fim do Módulo 1 como "Módulo 1 em prática guiada", com os sete apoios de uma página de M1 em anexo.
+
+**Duas falas opcionais para a primeira hora (decisões de 26/11/2026), se as dúvidas abrirem espaço:**
+
+- **Sobre M1.7, o pêndulo:** da sua monografia de 2004, «nada é absoluto Yin ou Yang… o equilíbrio é dinâmico e constantemente variável». Na tradição chinesa, a polaridade não é oposição nem conflito: o pêndulo do curso numa linguagem que muitos já conhecem.
+- **Sobre M1.3, competência incorporada:** da sua monografia transpessoal de 2010, estado não é estágio. Uma vivência pode alcançar um estado «disponível em qualquer estágio», mas isso não quer dizer que ele se instale de maneira permanente. Por isso o curso tem prática diária: o Cultivo do Eixo, lançado no fim do encontro.
 
 Fontes: [[11b - Raízes Autorais do TSH - Folha de Consulta]]; [[TSH - Eixo em Três Leituras - Zhan Zhuang, Linha do Hara e Chong Mai]]; [[TSH - Planejamento livre das aulas M2-M8 e avaliação de M0-M1 - 25-11-2026]].
 

@@ -21,6 +21,8 @@ O texto recuado é para copiar e colar como está. O resto são orientações de
 > Ocupar o próprio espaço acontece na relação. Neste módulo você pratica expressar o que vive sem transformar a experiência em acusação, escutar sem abandonar sua posição, colocar limites sem apagar o outro, pertencer sem perder a diferença e contribuir sem se abandonar. Também examina os efeitos do que faz, com responsabilidade e sem culpa, e aprende a reparar. A auto-hipnose ajuda no ensaio mental: ensaiar por escolha a expressão, o pedido ou o limite antes da conversa real.
 >
 > Para onde segue: o Módulo 8 reúne o percurso.
+>
+> Se tiver pouco tempo nesta quinzena: a aula 7.3 (escutar sem abandonar a sua posição), a 7.4 (limites) e o Cultivo do Eixo. Nada se perde: o resto continua aqui.
 
 A imagem do mapa acima, com o Módulo 7 destacado, está no pacote em PNG. Se a área de membros aceitar imagem de capa do módulo, ou imagem no corpo da primeira aula, ela pode ir junto.
 

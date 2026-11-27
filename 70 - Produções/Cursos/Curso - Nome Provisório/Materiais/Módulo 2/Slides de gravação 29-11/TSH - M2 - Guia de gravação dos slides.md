@@ -1,9 +1,12 @@
 ---
 title: "Módulo 2 — guia de gravação dos slides"
-subtitle: "Pontes de M2.1 a M2.3, práticas de M2.2 e M2.3, M2.4, M2.5 e M2.6 — versão 2, 25/11/2026"
+subtitle: "Pontes de M2.1 a M2.3, práticas de M2.2 e M2.3, M2.4, M2.5 e M2.6 — versão 4, 27/11/2026"
 ---
 
+
 # Como usar as notas
+
+- **Práticas guiadas (27/11):** nas telas de prática, conduza do começo ao fim. A pausa é de 30 a 60 segundos de silêncio, com a tela parada; escrever é opcional ("se quiser, anote depois no Caderno").
 
 As mesmas notas estão no PowerPoint, na exibição do apresentador. Este guia é a cópia para imprimir ou deixar ao lado da câmera.
 
@@ -16,9 +19,9 @@ As mesmas notas estão no PowerPoint, na exibição do apresentador. Este guia �
 - **O canto superior direito fica livre** para a sua imagem de câmera.
 - **Telas de imagem.** Nas histórias das tradições e nas metáforas, a tela mostra só uma ilustração e o nome da história. A história inteira, as correlações explícitas com o TSH e os cuidados estão nas notas, em três partes: a história, o que a imagem mostra e a correlação com o TSH. As ilustrações são originais, feitas para o curso na paleta do TSH. Se preferir outra imagem, basta trocar a figura: a nota continua valendo.
 - **Histórias marcadas como opcionais** (Zhuangzi em M2.4, o cavalo do velho da fronteira em M2.5) podem ser puladas: a nota da tela anterior diz para onde ir.
+- **Novidades da versão 3 (26/11):** a tela do Cultivo do Eixo antes do fechamento em M2.2 a M2.6; em M2.6, a tela «O crivo».
 - **Fontes:** EB Garamond nos títulos e Inter no texto, como em M0, M1 e M2.1. Se o PowerPoint trocar a fonte, instale as duas pelo Google Fonts.
 
-**O que mudou em relação às notas anteriores.** Antes, as notas misturavam instruções de produção ("reapresentar o mapa", "demonstrar com…") com a fala. Os avisos de função também variavam de tela para tela. Agora as notas trazem a fala em frases que você pode dizer, e o aviso aparece sempre no mesmo lugar e com o mesmo formato. As telas de prática ficam estáveis durante a realização: a pergunta é grande, e o nome do registro aparece num selo.
 
 
 # M2 · Pontes de M2.1, M2.2 e M2.3
@@ -150,7 +153,7 @@ Conferir não é desconfiar do corpo nem negar o perigo. É dar ao corpo e à le
 
 # M2.2 · Prática · O que cada pergunta destaca
 
-Estimativa: 8 a 10 min. 10 telas.
+Estimativa: 8 a 10 min. 11 telas.
 
 
 ## Tela 1 · Retomada: o vivido e sua elaboração
@@ -210,7 +213,7 @@ Escolha algo significativo que consiga explorar neste momento.
 Situe em uma frase o que está acontecendo.  
 Mantenha essa mesma situação durante a prática.  
 
-[PAUSA] Pause o vídeo para escolher e registrar.  
+[PAUSA] De 30 a 60 segundos em silêncio, com a tela parada, conduzindo. Depois: «Se quiser, anote no Caderno; se não, siga comigo.»  
 
 → Próximo: antes das perguntas.  
 
@@ -225,7 +228,7 @@ Acompanhe o corpo, o afeto, as imagens, o impulso de agir.
 Guarde uma expressão breve: palavra, traço ou descrição de um gesto.  
 Confira se a palavra corresponde ao que percebe.  
 
-[PAUSA] Registro: Antes das perguntas.  
+[PAUSA] De 30 a 60 segundos em silêncio, conduzindo. Quem quiser anota: Antes das perguntas.  
 
 → Próximo: Resolver.  
 
@@ -239,7 +242,7 @@ Mantenha a mesma situação e pergunte:
 Dê um tempo para perceber o que a pergunta traz.  
 E como é estar diante disso.  
 
-[PAUSA] Registro: Resolver.  
+[PAUSA] De 30 a 60 segundos em silêncio, conduzindo. Quem quiser anota: Resolver.  
 
 → Próximo: Possibilidade.  
 
@@ -254,7 +257,7 @@ Permaneça um pouco com a pergunta.
 Acompanhe como se sente e se dispõe.  
 Pode surgir algo diferente, continuar parecido ou ficar sem resposta.  
 
-[PAUSA] Registro: Possibilidade.  
+[PAUSA] De 30 a 60 segundos em silêncio, conduzindo. Quem quiser anota: Possibilidade.  
 
 → Próximo: comparar.  
 
@@ -270,7 +273,7 @@ Agora confira a situação concreta.
 Que pessoas, acordos ou condições ainda precisam entrar nessa compreensão?  
 Guarde o acréscimo ou a informação que falta.  
 
-[PAUSA] Pause para comparar e conferir.  
+[PAUSA] De 30 a 60 segundos em silêncio, com a tela parada, conduzindo. Depois: «Se quiser, anote no Caderno; se não, siga comigo.»  
 
 → Próximo: voltar ao eixo.  
 
@@ -286,9 +289,24 @@ Reconheça o ambiente e retome seus movimentos.
 
 A exploração termina aqui.  
 
-→ Próximo: dar forma e continuar.  
+→ Próximo: o Cultivo do Eixo desta quinzena.  
 
-## Tela 10 · Dar forma e continuar na vida
+## Tela 10 · Cultivo do Eixo desta quinzena
+
+[CONVIDAR]  
+
+Todos os dias desta quinzena, de três a cinco minutos: o Cultivo do Eixo.  
+A árvore, a pergunta «o que está me vivendo agora?» e três respirações no baixo ventre.  
+
+Na pergunta, use o que esta prática treinou: perceber o que ganha destaque, sem pressa de resolver.  
+
+No primeiro sinal de uma resposta familiar, o Retorno ao Eixo: trinta segundos.  
+Uma vez por quinzena, antes do encontro, um reencontro no Caderno.  
+Falhar um dia não desfaz nada. Retome no seguinte.  
+
+→ Próximo: o fechamento.  
+
+## Tela 11 · Dar forma e continuar na vida
 
 [ELABORAR]  
 
@@ -310,7 +328,7 @@ Na M2.3, vamos conferir como uma interpretação ganha força de certeza.
 
 # M2.3 · Prática · Conferir uma certeza e recuperar outras pistas
 
-Estimativa: 10 a 12 min. 13 telas.
+Estimativa: 10 a 12 min. 14 telas.
 
 
 ## Tela 1 · M2.3 · PRÁTICA GUIADA
@@ -373,7 +391,7 @@ Pode ser algo que já vem investigando e que consiga acompanhar agora.
 Registre o que aconteceu e quem participava.  
 Mantenha a mesma situação até o fim.  
 
-[PAUSA] Pause para escolher e situar.  
+[PAUSA] De 30 a 60 segundos em silêncio, com a tela parada, conduzindo. Depois: «Se quiser, anote no Caderno; se não, siga comigo.»  
 
 → Próximo: Conclusão antes.  
 
@@ -384,7 +402,7 @@ Mantenha a mesma situação até o fim.
 Volte à situação e complete: «diante disso, concluí que…»  
 Escreva a leitura que realmente vem sustentando.  
 
-[PAUSA] Registro: Conclusão antes.  
+[PAUSA] De 30 a 60 segundos em silêncio, conduzindo. Quem quiser anota: Conclusão antes.  
 
 → Próximo: Vivido antes.  
 
@@ -398,7 +416,7 @@ Acompanhe o corpo, o afeto, as imagens, o impulso de agir.
 Guarde uma expressão breve: palavra, desenho ou descrição de um gesto.  
 Mantenha separado da conclusão.  
 
-[PAUSA] Registro: Vivido antes.  
+[PAUSA] De 30 a 60 segundos em silêncio, conduzindo. Quem quiser anota: Vivido antes.  
 
 → Próximo: as bases da conclusão.  
 
@@ -414,7 +432,7 @@ Anote o que falta conferir.
 Se essa conclusão precisasse ser revista, o que isso colocaria em jogo?  
 Reconheça o que precisa de cuidado.  
 
-[PAUSA] Pause para acompanhar essas questões.  
+[PAUSA] De 30 a 60 segundos em silêncio, com a tela parada, conduzindo. Depois: «Se quiser, anote no Caderno; se não, siga comigo.»  
 
 → Próximo: voltar ao eixo.  
 
@@ -446,7 +464,7 @@ Formule uma pergunta que aceite uma resposta diferente da esperada.
 Se puder consultar agora, confira e guarde o que encontrou.  
 Se depender de outra ocasião, guarde a pergunta e onde buscar a resposta.  
 
-[PAUSA] Pause para a conferência possível agora.  
+[PAUSA] De 30 a 60 segundos em silêncio, com a tela parada, conduzindo. Depois: «Se quiser, anote no Caderno; se não, siga comigo.»  
 
 → Próximo: Conclusão depois.  
 
@@ -460,7 +478,7 @@ Com o que foi possível conferir, o que consegue concluir agora?
 Registre como «Conclusão depois», com as bases e o que ainda falta conhecer.  
 A leitura pode mudar, continuar sustentada ou permanecer aberta.  
 
-[PAUSA] Pause para registrar e comparar.  
+[PAUSA] De 30 a 60 segundos em silêncio, com a tela parada, conduzindo. Depois: «Se quiser, anote no Caderno; se não, siga comigo.»  
 
 → Próximo: Vivido depois.  
 
@@ -475,11 +493,26 @@ Compare com «Vivido antes».
 O que mudou e o que permaneceu?  
 Essa comparação é separada da comparação das conclusões.  
 
-[PAUSA] Pause para perceber e registrar.  
+[PAUSA] De 30 a 60 segundos em silêncio, com a tela parada, conduzindo. Depois: «Se quiser, anote no Caderno; se não, siga comigo.»  
 
-→ Próximo: encerrar.  
+→ Próximo: o Cultivo do Eixo desta quinzena.  
 
-## Tela 12 · Encerrar a exploração
+## Tela 12 · Cultivo do Eixo desta quinzena
+
+[CONVIDAR]  
+
+Todos os dias desta quinzena, de três a cinco minutos: o Cultivo do Eixo.  
+A árvore, a pergunta «o que está me vivendo agora?» e três respirações no baixo ventre.  
+
+Na pergunta, use o que a prática da M2.3 treinou: quando aparecer uma certeza, guarde-a como hipótese.  
+
+No primeiro sinal de uma resposta familiar, o Retorno ao Eixo: trinta segundos.  
+Uma vez por quinzena, antes do encontro, um reencontro no Caderno.  
+Falhar um dia não desfaz nada. Retome no seguinte.  
+
+→ Próximo: o fechamento.  
+
+## Tela 13 · Encerrar a exploração
 
 [ENCERRAR]  
 
@@ -493,7 +526,7 @@ Agora vamos elaborar e organizar a continuidade.
 
 → Próximo: conferir no encontro real.  
 
-## Tela 13 · Conferir no encontro real
+## Tela 14 · Conferir no encontro real
 
 [ELABORAR]  
 
@@ -513,7 +546,7 @@ A M2.4 trabalha o que continua organizando a resposta mesmo quando a compreensã
 
 # M2.4 · Teoria · O que mantém a repetição de uma resposta
 
-Estimativa: 15 a 18 min. 11 telas.
+Estimativa: 15 a 18 min. 12 telas.
 
 
 ## Tela 1 · M2.4 · O QUE MANTÉM A REPETIÇÃO
@@ -690,9 +723,24 @@ Parar não é desistir. É o que abre o espaço entre sentir e agir.
 A sombra da árvore lembra a árvore da abertura do módulo: o eixo.  
 No taoismo, é o não forçar: agir sem empurrar contra o próprio movimento.  
 
-→ Próximo: a ponte para a prática.  
+→ Próximo: o Cultivo do Eixo desta quinzena.  
 
-## Tela 11 · Para a prática
+## Tela 11 · Cultivo do Eixo desta quinzena
+
+[CONVIDAR]  
+
+Todos os dias desta quinzena, de três a cinco minutos: o Cultivo do Eixo.  
+A árvore, a pergunta «o que está me vivendo agora?» e três respirações no baixo ventre.  
+
+O primeiro sinal que você reconheceu nesta aula é o momento do Retorno ao Eixo.  
+
+No primeiro sinal de uma resposta familiar, o Retorno ao Eixo: trinta segundos.  
+Uma vez por quinzena, antes do encontro, um reencontro no Caderno.  
+Falhar um dia não desfaz nada. Retome no seguinte.  
+
+→ Próximo: o fechamento.  
+
+## Tela 12 · Para a prática
 
 [ENCERRAR]  
 
@@ -703,7 +751,7 @@ perceber que entrou e voltar ao eixo.
 
 # M2.5 · Acontecimento, experiência e interpretação
 
-Estimativa: 12 a 14 min. 8 telas.
+Estimativa: 12 a 14 min. 9 telas.
 
 
 ## Tela 1 · M2.5 · ACONTECIMENTO, EXPERIÊNCIA E INTERPRETAÇÃO
@@ -817,9 +865,24 @@ O acontecimento é um; as interpretações mudam com o tempo.
 
 Cuidado: «talvez» não é indiferença. A perna quebrada doeu de verdade.  
 
-→ Próximo: o fio e a prática curta.  
+→ Próximo: o Cultivo do Eixo desta quinzena.  
 
-## Tela 8 · Para guardar e praticar
+## Tela 8 · Cultivo do Eixo desta quinzena
+
+[CONVIDAR]  
+
+Todos os dias desta quinzena, de três a cinco minutos: o Cultivo do Eixo.  
+A árvore, a pergunta «o que está me vivendo agora?» e três respirações no baixo ventre.  
+
+Ao escrever no Caderno, separe o que aconteceu, o que você viveu e o que concluiu.  
+
+No primeiro sinal de uma resposta familiar, o Retorno ao Eixo: trinta segundos.  
+Uma vez por quinzena, antes do encontro, um reencontro no Caderno.  
+Falhar um dia não desfaz nada. Retome no seguinte.  
+
+→ Próximo: o fechamento.  
+
+## Tela 9 · Para guardar e praticar
 
 [AGORA REALIZAR]  
 
@@ -830,13 +893,13 @@ Escolha uma experiência significativa, comum ou espiritual.
 Escreva quatro linhas: o que aconteceu; como vivi; o que concluí; que hipóteses existem.  
 E uma quinta: o que essa experiência agrega à minha vida?  
 
-[PAUSA] Pause o vídeo para escrever.  
+[PAUSA] De 30 a 60 segundos em silêncio, com a tela parada, conduzindo. Depois: «Se quiser, anote no Caderno; se não, siga comigo.»  
 
 Na M2.6: como transformar isso numa Tradução que possa ser revista.  
 
 # M2.6 · Como construir e revisar uma Tradução provisória
 
-Estimativa: 12 a 14 min. 8 telas.
+Estimativa: 12 a 14 min. 10 telas.
 
 
 ## Tela 1 · M2.6 · TRADUÇÃO PROVISÓRIA
@@ -956,9 +1019,24 @@ Eu gosto delas e uso de vez em quando.
 Não é tarefa.  
 Se a escrita trouxer algo forte demais, pare, volte ao eixo, e retome outro dia ou com apoio.  
 
+→ Próximo: o crivo.  
+
+## Tela 7 · O crivo
+
+[LER]  
+
+Uma frase que escrevi em 2004, na monografia de Medicina Chinesa, com o mestre Liu Chih Ming.  
+
+«Todas as informações provindas dos outros níveis (de consciência) de nosso ser, para se harmonizarem de maneira saudável em nosso interior, precisam passar por nosso crivo (inteligência).»  
+«O aspecto inteligência relacionado à Mente é fundamental, para que analisemos, assimilemos e integremos as impressões e experiências vividas.»  
+
+Na Medicina Chinesa, esse crivo é o Yi, a inteligência que reflete e aplica.  
+Eu ainda não chamava assim, mas é a Tradução: analisar, assimilar, integrar.  
+A Tradução provisória é esse crivo em ação, e por isso ela se revisa.  
+
 → Próximo: a prática curta.  
 
-## Tela 7 · Prática curta
+## Tela 8 · Prática curta
 
 [AGORA REALIZAR]  
 
@@ -968,11 +1046,26 @@ Releia. O que você vê agora que não via?
 Escreva de novo a Tradução provisória, em uma ou duas frases.  
 Uma orientação possível, e quando vai conferir.  
 
-[PAUSA] Pause o vídeo para escrever.  
+[PAUSA] De 30 a 60 segundos em silêncio, com a tela parada, conduzindo. Depois: «Se quiser, anote no Caderno; se não, siga comigo.»  
 
-→ Próximo: o fecho do módulo.  
+→ Próximo: o Cultivo do Eixo desta quinzena.  
 
-## Tela 8 · Fecho do Módulo 2
+## Tela 9 · Cultivo do Eixo desta quinzena
+
+[CONVIDAR]  
+
+Todos os dias desta quinzena, de três a cinco minutos: o Cultivo do Eixo.  
+A árvore, a pergunta «o que está me vivendo agora?» e três respirações no baixo ventre.  
+
+No Caderno, registre uma Tradução provisória por quinzena. Ela leva este módulo para a vida.  
+
+No primeiro sinal de uma resposta familiar, o Retorno ao Eixo: trinta segundos.  
+Uma vez por quinzena, antes do encontro, um reencontro no Caderno.  
+Falhar um dia não desfaz nada. Retome no seguinte.  
+
+→ Próximo: o fechamento.  
+
+## Tela 10 · Fecho do Módulo 2
 
 [ENCERRAR]  
 

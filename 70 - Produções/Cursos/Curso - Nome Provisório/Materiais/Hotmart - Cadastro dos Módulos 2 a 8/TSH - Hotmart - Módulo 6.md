@@ -23,6 +23,8 @@ O texto recuado é para copiar e colar como está. O resto são orientações de
 > O módulo ganhou duas aulas práticas.
 >
 > Para onde segue: o eixo e a presença cultivados até aqui vão para as relações. O Módulo 7 abre a terceira direção do percurso, ocupar o próprio espaço.
+>
+> Se tiver pouco tempo nesta quinzena: a aula 6.3 (pequena circulação), a 6.8 (escolhas nas condições reais) e o Cultivo do Eixo. Nada se perde: o resto continua aqui.
 
 A imagem do mapa acima, com o Módulo 6 destacado, está no pacote em PNG. Se a área de membros aceitar imagem de capa do módulo, ou imagem no corpo da primeira aula, ela pode ir junto.
 

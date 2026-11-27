@@ -59,7 +59,7 @@ AULAS = {
  ("3.2", "Interocepção: perceber e interpretar sinais internos", "Perceber sinais internos e distinguir a sensação da interpretação que se faz dela, alternando entre o foco no corpo e as pistas do ambiente."),
  ("3.3", "Como o organismo antecipa necessidades e distribui recursos", "Como o organismo antecipa necessidades e distribui recursos: demandas, descanso e capacidade disponível, e o que muda quando a exigência ou o apoio mudam."),
  ("3.4", "Sistema nervoso autônomo: mobilização, sobrecarga e repouso", "Mobilização útil, sobrecarga e repouso: mapas do sistema nervoso autônomo, usados com seus limites."),
- ("3.5", "Qi, Jing e Shen: vitalidade e cultivo na Medicina Chinesa", "Vitalidade, reserva e cultivo na Medicina Chinesa: o que são Qi, Jing e Shen, e a experiência do Sorriso Interior."),
+ ("3.5", "Qi, Jing e Shen: vitalidade e cultivo na Medicina Chinesa", "A Medicina Chinesa como leitura do ser humano: Qi, Jing e Shen, os Cinco Shen e a experiência do Sorriso Interior, na linhagem em que Fabiano se formou."),
  ("3.6", "Zhan Zhuang: aprender a postura da árvore", "A postura da árvore em detalhe: apoio, soltura, alinhamento, raiz e os três centros. Você encontra uma versão viável para você, em pé, sentado ou apoiado."),
  ("3.7", "Qi Gong: postura, movimento, respiração e intenção", "A árvore em movimento: Sustentar o Céu e Separar Céu e Terra, com ajustes de amplitude, ritmo e pausa."),
  ("3.8", "Retorno à orientação: escolher e adaptar recursos", "Escolher, dosar e adaptar um recurso para voltar à orientação, reconhecendo quando interromper, trocar ou buscar apoio."),
@@ -111,3 +111,15 @@ AULAS = {
 ],
 }
 NOVAS = {"3.6", "3.7", "6.5", "6.6", "6.7"}
+
+# Caminho mínimo por módulo (decisão de Fabiano, 27/11/2026): para quem tiver pouco tempo na quinzena
+MINIMO = {
+ 1: "Se tiver pouco tempo: o vídeo «Módulo 1 em prática guiada» e o Cultivo do Eixo. Nada se perde: o resto continua aqui.",
+ 2: "Se tiver pouco tempo nesta quinzena: o vídeo «O eixo no corpo: Zhan Zhuang», a prática «Do primeiro sinal ao eixo» (2.4) e o Cultivo do Eixo. Nada se perde: o resto continua aqui.",
+ 3: "Se tiver pouco tempo nesta quinzena: a aula 3.6 (a postura da árvore), a 3.8 (recursos de retorno) e o Cultivo do Eixo. Nada se perde: o resto continua aqui.",
+ 4: "Se tiver pouco tempo nesta quinzena: a aula 4.4 (padrões de proteção), a 4.6 (linha do Hara) e o Cultivo do Eixo. Nada se perde: o resto continua aqui.",
+ 5: "Se tiver pouco tempo nesta quinzena: a aula 5.1 (os Três Eus), a 5.4 (quietude) e o Cultivo do Eixo. Nada se perde: o resto continua aqui.",
+ 6: "Se tiver pouco tempo nesta quinzena: a aula 6.3 (pequena circulação), a 6.8 (escolhas nas condições reais) e o Cultivo do Eixo. Nada se perde: o resto continua aqui.",
+ 7: "Se tiver pouco tempo nesta quinzena: a aula 7.3 (escutar sem abandonar a sua posição), a 7.4 (limites) e o Cultivo do Eixo. Nada se perde: o resto continua aqui.",
+ 8: "Se tiver pouco tempo nesta quinzena: a aula 8.2 (repertório pessoal e plano de prática) e o encontro final. Nada se perde: o resto continua aqui.",
+}

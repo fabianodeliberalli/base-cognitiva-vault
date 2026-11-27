@@ -284,7 +284,23 @@ d.ilustra("O homem que fugia da sombra", "img/sombra.png", "ZHUANGZI · OPCIONAL
            "Parar não é desistir. É o que abre o espaço entre sentir e agir.",
            "A sombra da árvore lembra a árvore da abertura do módulo: o eixo.",
            "No taoismo, é o não forçar: agir sem empurrar contra o próprio movimento."],
-          "Próximo: a ponte para a prática.", dark=False)
+          "Próximo: o Cultivo do Eixo desta quinzena.", dark=False)
+
+d.cartoes("Cultivo do Eixo desta quinzena",
+          [("A árvore", "De um a três minutos na postura da árvore."),
+           ("A pergunta", "«O que está me vivendo agora?»"),
+           ("Três respirações", "No baixo ventre, antes de seguir o dia.")],
+          "CONVIDAR",
+          ["Todos os dias desta quinzena, de três a cinco minutos: o Cultivo do Eixo.",
+           "A árvore, a pergunta «o que está me vivendo agora?» e três respirações no baixo ventre.",
+           "",
+           "O primeiro sinal que você reconheceu nesta aula é o momento do Retorno ao Eixo.",
+           "",
+           "No primeiro sinal de uma resposta familiar, o Retorno ao Eixo: trinta segundos.",
+           "Uma vez por quinzena, antes do encontro, um reencontro no Caderno.",
+           "Falhar um dia não desfaz nada. Retome no seguinte."],
+          "Próximo: o fechamento.", lead="Todos os dias, de três a cinco minutos",
+          foot="No primeiro sinal: Retorno ao Eixo (30 s). Uma vez por quinzena: um reencontro no Caderno.", dark_idx=(1,))
 
 d.fechamento("Para a prática",
              "A Essência é o destino. O EIXO é o caminho.",

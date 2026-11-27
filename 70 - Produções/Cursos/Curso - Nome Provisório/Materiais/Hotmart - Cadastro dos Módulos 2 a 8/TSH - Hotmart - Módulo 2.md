@@ -25,6 +25,8 @@ O texto recuado é para copiar e colar como está. O resto são orientações de
 > As três direções do mapa não são etapas em fila: traduzir ajuda a ganhar eixo, e o eixo ajuda a traduzir.
 >
 > Para onde segue: algumas camadas não estão nas ideias; estão no corpo. O Módulo 3 abre a segunda direção do percurso, ganhar eixo e presença.
+>
+> Se tiver pouco tempo nesta quinzena: o vídeo «O eixo no corpo: Zhan Zhuang», a prática «Do primeiro sinal ao eixo» (2.4) e o Cultivo do Eixo. Nada se perde: o resto continua aqui.
 
 A imagem do mapa acima, com o Módulo 2 destacado, está no pacote em PNG. Se a área de membros aceitar imagem de capa do módulo, ou imagem no corpo da primeira aula, ela pode ir junto.
 

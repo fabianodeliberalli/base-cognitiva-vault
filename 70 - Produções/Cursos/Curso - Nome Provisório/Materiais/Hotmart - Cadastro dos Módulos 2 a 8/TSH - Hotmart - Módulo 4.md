@@ -23,6 +23,8 @@ O texto recuado é para copiar e colar como está. O resto são orientações de
 > O módulo ganhou uma aula prática: a linha do Hara.
 >
 > Para onde segue: o Módulo 5 pergunta o que orienta as suas escolhas.
+>
+> Se tiver pouco tempo nesta quinzena: a aula 4.4 (padrões de proteção), a 4.6 (linha do Hara) e o Cultivo do Eixo. Nada se perde: o resto continua aqui.
 
 A imagem do mapa acima, com o Módulo 4 destacado, está no pacote em PNG. Se a área de membros aceitar imagem de capa do módulo, ou imagem no corpo da primeira aula, ela pode ir junto.
 
