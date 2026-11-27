@@ -86,7 +86,7 @@ Na hora de prática dos encontros, a parte de cultivo pratica a versão da quinz
 | Ren Mai e Du Mai (frente e costas) | M5.4 (preparação) | M6.3 |
 | Chong Mai e grande circulação | M6.6 | M8.2 (opcional) |
 
-**A Medicina Chinesa como mapa, além da prática.** Esta nota trata da trilha prática. As contribuições conceituais (os Cinco Shen, Yin e Yang, os Cinco Movimentos, o Pericárdio, herdado e adquirido, a monografia de 2004 como raiz autoral) estão em [[TSH - Medicina Chinesa no TSH - verificação de contribuições e destinos]].
+**A Medicina Chinesa como mapa, além da prática.** Esta nota trata da trilha prática. As contribuições conceituais que entram nas aulas (revisadas em 26/11/2026, com a leitura das apresentações Visão Taoísta, Além das Fronteiras e Sombra e Luz) estão em [[TSH - Medicina Chinesa no TSH - verificação de contribuições e destinos]]. Para a trilha, elas trazem: os nove princípios da linhagem Pai Lin na árvore (M3.6), o ser entre Céu e Terra nas formas de M3.7, o movimento circular da luz como retorno à Essência e o passo a passo da linhagem na pequena circulação (M6.3), e o eixo Fogo–Água com o Chong Mai (M6.6).
 
 ## Cuidados que acompanham toda a trilha
 
