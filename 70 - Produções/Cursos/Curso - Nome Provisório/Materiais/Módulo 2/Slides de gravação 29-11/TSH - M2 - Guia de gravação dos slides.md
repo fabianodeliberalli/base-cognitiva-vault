@@ -1,12 +1,13 @@
 ---
 title: "Módulo 2 — guia de gravação dos slides"
-subtitle: "Pontes de M2.1 a M2.3, práticas de M2.2 e M2.3, M2.4, M2.5 e M2.6 — versão 4, 27/11/2026"
+subtitle: "Pontes de M2.1, M2.2 e M2.3, práticas de M2.2 e M2.3, M2.4, M2.5 e M2.6 — versão 5, 27/11/2026"
 ---
 
 
 # Como usar as notas
 
 - **Práticas guiadas (27/11):** nas telas de prática, conduza do começo ao fim. A pausa é de 30 a 60 segundos de silêncio, com a tela parada; escrever é opcional ("se quiser, anote depois no Caderno").
+- **Pontes (27/11, versão 5):** cada ponte agora é um arquivo separado, para gravar e editar uma de cada vez. A ponte de M2.1 mostra o mapa O Caminho da Semente na tela e diz de onde ele vem: o vídeo de abertura do módulo, gravado no encontro de 28/11.
 
 As mesmas notas estão no PowerPoint, na exibição do apresentador. Este guia é a cópia para imprimir ou deixar ao lado da câmera.
 
@@ -19,24 +20,31 @@ As mesmas notas estão no PowerPoint, na exibição do apresentador. Este guia �
 - **O canto superior direito fica livre** para a sua imagem de câmera.
 - **Telas de imagem.** Nas histórias das tradições e nas metáforas, a tela mostra só uma ilustração e o nome da história. A história inteira, as correlações explícitas com o TSH e os cuidados estão nas notas, em três partes: a história, o que a imagem mostra e a correlação com o TSH. As ilustrações são originais, feitas para o curso na paleta do TSH. Se preferir outra imagem, basta trocar a figura: a nota continua valendo.
 - **Histórias marcadas como opcionais** (Zhuangzi em M2.4, o cavalo do velho da fronteira em M2.5) podem ser puladas: a nota da tela anterior diz para onde ir.
-- **Novidades da versão 3 (26/11):** a tela do Cultivo do Eixo antes do fechamento em M2.2 a M2.6; em M2.6, a tela «O crivo».
 - **Fontes:** EB Garamond nos títulos e Inter no texto, como em M0, M1 e M2.1. Se o PowerPoint trocar a fonte, instale as duas pelo Google Fonts.
 
 
 
-# M2 · Pontes de M2.1, M2.2 e M2.3
+# Ponte de M2.1 (arquivo M2-1-Ponte.pptx)
 
-Estimativa: 3 a 4 min por ponte. 6 telas.
+Estimativa: 3 a 4 min. 2 telas.
 
 
-## Tela 1 · Antes de M2.1
+## Tela 1 · Antes de M2.1: as camadas
 
 [APRESENTAR]  
 
 Antes desta aula, quero situar o que você vai ver.  
-Na abertura do módulo, vimos o mapa da Semente.  
+
+No vídeo de abertura deste módulo, gravado no encontro de 28/11, mostrei este mapa: O Caminho da Semente.  
+Se você ainda não viu a abertura, tudo bem: o essencial está nesta tela.  
+
+Aponte a coluna da esquerda, «O que nos afasta do centro»:  
+padrões automáticos, feridas, defesas e máscaras, desconexão entre corpo e mente, sobrecarga, condicionamentos.  
+Essas são as camadas.  
 
 «Essa Essência vai ficando soterrada por camadas de vivências, como suas emoções, crenças, imagens, memórias e corpos.»  
+
+As camadas também protegeram. Reconhecê-las não é culpar a história.  
 
 Esta aula mostra como a percepção se forma.  
 Quando ela falar de expectativa, de pistas, de aprendizagem…  
@@ -71,7 +79,12 @@ Pergunta para quem assiste: que parte do elefante você costuma tocar?
 
 → Segue a aula M2.1 já gravada.  
 
-## Tela 3 · Antes de M2.2
+# Ponte de M2.2 (arquivo M2-2-Ponte.pptx)
+
+Estimativa: 3 a 4 min. 2 telas.
+
+
+## Tela 1 · Antes de M2.2
 
 [APRESENTAR]  
 
@@ -88,7 +101,7 @@ O que ganha importância pode ser algo da sua Essência pedindo expressão…
 
 → Próximo: Nasrudin e a chave.  
 
-## Tela 4 · HISTÓRIA POPULAR SUFI
+## Tela 2 · HISTÓRIA POPULAR SUFI
 
 [CONTAR]  
 
@@ -113,7 +126,12 @@ O que importa pode estar no escuro, pedindo Tradução.
 
 → Segue a aula M2.2 já gravada.  
 
-## Tela 5 · Antes de M2.3
+# Ponte de M2.3 (arquivo M2-3-Ponte.pptx)
+
+Estimativa: 3 a 4 min. 2 telas.
+
+
+## Tela 1 · Antes de M2.3
 
 [APRESENTAR]  
 
@@ -125,7 +143,7 @@ quando uma leitura ganha força de certeza.
 
 → Próximo: a corda e a serpente.  
 
-## Tela 6 · IMAGEM DA TRADIÇÃO DO VEDANTA
+## Tela 2 · IMAGEM DA TRADIÇÃO DO VEDANTA
 
 [CONTAR]  
 

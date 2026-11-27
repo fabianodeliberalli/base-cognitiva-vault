@@ -6,20 +6,42 @@ os.makedirs(OUT, exist_ok=True)
 # =====================================================================
 # PONTES
 # =====================================================================
-d = Deck("M2 · Pontes", "Antes da aula")
+d = Deck("M2.1 · Ponte", "Antes da aula")
 
-d.frase("Antes de M2.1",
-        "Essa Essência vai ficando soterrada por camadas de vivências, como suas emoções, crenças, imagens, memórias e corpos.",
-        "Fabiano Deliberalli · workshop Essência", "APRESENTAR",
+# Tela 1: o mapa à vista, para a referência ficar clara mesmo para quem não viu a abertura
+s = d._new()
+d._chrome(s, "Antes de M2.1: as camadas")
+# img/semente-1.png: pdftoppm -r 170 -png -f 1 -l 1 "80 - Mapas Conceituais/PDF/2026-07-18/O-caminho-da-semente.pdf" img/semente
+pic(s, "img/semente-1.png", 0.62, 1.8, h=5.0, back=False)
+d.text(s, 4.35, 1.9, 8.2, 0.5, "Ponte para M2.1 · Como se forma o que você percebe?", size=16, color=EST)
+d.text(s, 4.35, 2.45, 8.0, 2.0,
+       "“Essa Essência vai ficando soterrada por camadas de vivências, como suas emoções, crenças, imagens, memórias e corpos.”",
+       size=22, font=SERIF, italic=True, color=NOT, line=1.12)
+d.text(s, 4.35, 4.25, 8.0, 0.4, "Fabiano Deliberalli · workshop Essência", size=13, color=OURO, bold=True)
+rect(s, 4.35, 4.85, 8.15, 1.3, fill=PET, rounded=0.06)
+d.text(s, 4.6, 4.9, 7.7, 1.2,
+       "As camadas estão na coluna da esquerda do mapa: «O que nos afasta do centro». Nesta aula, observe-as participando do que você percebe.",
+       size=17, color="FFFFFF", anchor="ctr", line=1.12)
+d.text(s, 4.35, 6.35, 8.0, 0.35, "O Caminho da Semente · mapa de Fabiano Deliberalli, julho de 2026", size=10, color=MUTED)
+d._footer(s)
+d.notes(s, "Antes de M2.1: as camadas", "APRESENTAR",
         ["Antes desta aula, quero situar o que você vai ver.",
-         "Na abertura do módulo, vimos o mapa da Semente.",
+         "",
+         "No vídeo de abertura deste módulo, gravado no encontro de 28/11, mostrei este mapa: O Caminho da Semente.",
+         "Se você ainda não viu a abertura, tudo bem: o essencial está nesta tela.",
+         "",
+         "Aponte a coluna da esquerda, «O que nos afasta do centro»:",
+         "padrões automáticos, feridas, defesas e máscaras, desconexão entre corpo e mente, sobrecarga, condicionamentos.",
+         "Essas são as camadas.",
          "",
          "«Essa Essência vai ficando soterrada por camadas de vivências, como suas emoções, crenças, imagens, memórias e corpos.»",
+         "",
+         "As camadas também protegeram. Reconhecê-las não é culpar a história.",
          "",
          "Esta aula mostra como a percepção se forma.",
          "Quando ela falar de expectativa, de pistas, de aprendizagem…",
          "…observe: são as camadas participando do que você percebe."],
-        "Próximo: os homens e o elefante.", lead="Ponte para M2.1 · Como se forma o que você percebe?")
+        "Próximo: os homens e o elefante.")
 
 d.ilustra("Os homens e o elefante", "img/elefante.png", "HISTÓRIA BUDISTA E JAINISTA", "CONTAR",
           ["Uma história contada por budistas e jainistas, e depois por muitas outras tradições.",
@@ -44,6 +66,9 @@ d.ilustra("Os homens e o elefante", "img/elefante.png", "HISTÓRIA BUDISTA E JAI
            "Pergunta para quem assiste: que parte do elefante você costuma tocar?"],
           "Segue a aula M2.1 já gravada.")
 
+d.save(f"{OUT}/M2-1-Ponte.pptx")
+
+d = Deck("M2.2 · Ponte", "Antes da aula")
 d.frase("Antes de M2.2",
         "Seu problema não é sentir demais, mas não ser traduzida.",
         "Fabiano Deliberalli · Arquitetura Invisível, cap. 2", "APRESENTAR",
@@ -80,6 +105,9 @@ d.ilustra("Nasrudin e a chave", "img/nasrudin.png", "HISTÓRIA POPULAR SUFI", "C
            "O que importa pode estar no escuro, pedindo Tradução."],
           "Segue a aula M2.2 já gravada.")
 
+d.save(f"{OUT}/M2-2-Ponte.pptx")
+
+d = Deck("M2.3 · Ponte", "Antes da aula")
 d.frase("Antes de M2.3",
         "O problema muitas vezes não vem da experiência em si, mas da interpretação que fazemos dela.",
         "Fabiano Deliberalli · primeiras elaborações do curso", "APRESENTAR",
@@ -111,7 +139,7 @@ d.ilustra("A corda e a serpente", "img/corda.png", "IMAGEM DA TRADIÇÃO DO VEDA
            "Cuidado: às vezes é mesmo uma serpente.",
            "Conferir não é desconfiar do corpo nem negar o perigo. É dar ao corpo e à leitura a chance de se encontrarem com o que está ali."],
           "Segue a aula M2.3 já gravada.")
-d.save(f"{OUT}/TSH · M2 · Pontes de M2.1, M2.2 e M2.3.pptx")
+d.save(f"{OUT}/M2-3-Ponte.pptx")
 PONTES = d
 
 # =====================================================================
