@@ -77,3 +77,5 @@ São de 9 a 10 telas por aula, para 12 a 16 minutos.
 ## Acréscimo de 27/11/2026
 
 O retorno de uma aluna sobre M1 levou a cinco ajustes aprovados por Fabiano, aplicados na mesma PR: [[TSH - Ajustes a partir do retorno de uma aluna sobre o Módulo 1 - 27-11-2026]]. Os seis pontos de aprovação acima continuam abertos.
+
+Os pontos 2, 3 e 4 passaram para a revisão de M3, adiada por Fabiano em 27/11; o ponto de retomada está em [[00 - Estado e Continuidade da Produção M3]]. Os pontos 1, 5 e 6 foram apresentados a Fabiano para decisão em 27/11.
