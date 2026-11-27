@@ -19,7 +19,7 @@ substitui: "Transcrição do Word de 31/10/2026, preservada em Histórico"
 - o Cultivo do Eixo e o Caderno de Reencontros;
 - o calendário quinzenal;
 - a Medicina Chinesa e o Taoísmo como leitura do ser humano, e não só como prática, com os Cinco Shen e as relações entre órgãos e emoções (decisão de Fabiano, 26/11);
-- o arco do percurso em três frases de Fabiano (proposta de 26/11, à espera de Fabiano).
+- o percurso em três frases de Fabiano (integrado por Fabiano em 26/11).
 
 A versão de 31/10 está em `Histórico/2026-10-31 - Raio-X-Fabiano Deliberalli - Texto para consulta.md`, como registro. Para comunicação, página de vendas, Masterclass e materiais, vale este texto.
 

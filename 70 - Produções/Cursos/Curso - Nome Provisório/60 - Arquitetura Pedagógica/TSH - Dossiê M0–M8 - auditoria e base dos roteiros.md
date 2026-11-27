@@ -382,7 +382,7 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 
 **O que observar:** Reconhece uma mudança de acesso sem concluir perda de valor pessoal.
 
-**Retomada e ponte:** Pêndulo e espiral reaparecem em M4.6, M6.8 e M8.1.
+**Retomada e ponte:** Pêndulo e espiral reaparecem em M4.7, M6.7 e M8.1.
 
 **Raízes autorais:** “Perder o eixo não significa perder o percurso.”; “O eixo é a capacidade de permanecer conectado consigo mesmo, mesmo em meio ao caos.” (O Caminho da Semente, [[00 - Índice dos Mapas Conceituais|mapa de 18/07]]); “estabilidade por reorganização, não estabilidade por imobilidade” (registro de julho de 2026). Fio: eixo e Essência como referência que retorna. **Medicina Chinesa e Taoísmo (revisada, 26/11/2026):** no encontro: "nada é absoluto Yin ou Yang… o equilíbrio é dinâmico" (monografia) e a polaridade que não é conflito (Visão Taoísta, tela 18). ([[TSH - Medicina Chinesa no TSH - verificação de contribuições e destinos|verificação da Medicina Chinesa]])
 
@@ -444,7 +444,7 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 
 **O que observar:** Diferencia mudança verbal, mudança do modo de viver e disponibilidade para participar; reconhece o que sustenta a configuração e que condição, experiência ou cultivo pode permitir outra possibilidade. Pode reconhecer que ainda não sabe. O ensaio fornece material de investigação, não prova de transformação consolidada.
 
-**Retomada e ponte:** A distinção vivido/interpretação prepara M2.5. M3 aprofunda acesso corporal; M4.4 história e proteção; M4.6 ensaio; M6.8 compara o que mudou e permaneceu no tempo.
+**Retomada e ponte:** A distinção vivido/interpretação prepara M2.5. M3 aprofunda acesso corporal; M4.4 história e proteção; M4.7 ensaio; M6.7 compara o que mudou e permaneceu no tempo.
 
 **Raízes autorais:** “Somos ‘vividos’ e não vivemos!” e “Onde pensamos que estamos agindo com liberdade, temos a ilusão da liberdade” ([[Essência - Workshop vivencial|workshop Essência, c. 2022]]); padrões automáticos: “Repetimos sem perceber porque aprendemos a sobreviver.” (O Caminho da Semente, [[00 - Índice dos Mapas Conceituais|mapa de 18/07]]); retomar a anotação de 2021 de M1.1. Fio: “A Essência é o destino. O EIXO é o caminho.” (O Caminho da Semente, [[00 - Índice dos Mapas Conceituais|mapa de 18/07]]). Cena: o relato de Fabiano no [[Guia-de-ConducaoMasterclass-Traduzindo-o-Ser-Humano-v2.6.1.docx|guia de condução da Masterclass, v2.6.1]]: na infância aprendeu a bater para fazer a agressão parar e desenvolveu “exatamente o que eu mais detestava”; “Entender a origem não bastou para desarmar a resposta”; o gatilho ainda aparece no trânsito, e o Sorriso Interior abriu “o intervalo que apareceu antes da resposta”. Tese em palavras de Fabiano: o espaço entre o sentir e o agir “explica por que repetimos padrões mesmo sabendo deles, e como treinar nesse espaço para sair do automatismo” ([[Consciência no TSH - Origem, Círculo e o Espaço entre Sentir e Agir]]); o padrão volta porque precisa voltar para ser transformado ([[A Espiral no TSH - Padrões que Voltam em Outro Nível]]).
 
@@ -521,7 +521,7 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 
 **O que observar:** Escolhe uma mudança de demanda ou apoio, além de uma prática individual.
 
-**Retomada e ponte:** As condições reaparecem em M6.9, M7.6 e no plano de continuidade.
+**Retomada e ponte:** As condições reaparecem em M6.8, M7.6 e no plano de continuidade.
 
 **Raízes autorais:** “Eixo HPA disparado = stress constante!”, lido junto do Rim na Medicina Chinesa (palestra Qi Gong e MTC — Além das Fronteiras (fontes bibliográficas do curso)). Fio: o organismo protege; as camadas também são economia de recursos.
 
@@ -692,7 +692,7 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 
 **O que observar:** Descreve a origem do mapa e uma orientação possível sem tomar medidas imagéticas por anatomia.
 
-**Retomada e ponte:** Aprofunda a pergunta de M5.2 e a composição de intenção/escrita de M5.6, caso escolhida. Comparar com postura; aplicar antes e depois de conversas em M7.1/M7.5.
+**Retomada e ponte:** Prepara a pergunta de M5.2 e a composição de intenção/escrita de M5.6, caso escolhida. Comparar com postura; aplicar antes e depois de conversas em M7.1/M7.5.
 
 **Raízes autorais:** O eixo em três leituras: postura, intenção e circulação ([[TSH - Eixo em Três Leituras - Zhan Zhuang, Linha do Hara e Chong Mai|decisão de 21/11/2026]]); a linha do Hara já aparecia na palestra Aterramento, 2022 (acervo Corpo, Eixo e Experiência), a partir de Brennan. Fio: o eixo como intenção.
 
@@ -756,7 +756,7 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 
 **O que observar:** Relaciona um valor a um gesto e a um limite possível.
 
-**Retomada e ponte:** Compaixão, Naranjo e intenção preparam Hara; a linha será ensinada em M6.6.
+**Retomada e ponte:** Compaixão, Naranjo e intenção retomam a linha do Hara, ensinada em M4.6.
 
 **Raízes autorais:** “O poder de criar é proporcional a maturidade do ser.” ([[Essência - Workshop vivencial|workshop Essência, c. 2022]]). Fio: Amor, Poder e Sabedoria como expressões da Essência.
 
@@ -801,7 +801,7 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 
 **O que observar:** Produz uma expressão própria, identifica o que quer continuar e qual apoio precisa.
 
-**Retomada e ponte:** Criar pode começar por uma experiência breve de intenção/Hara ligada à escrita, já prevista no acervo, com instrução suficiente; M6.6 aprofunda e sistematiza o exercício. Prepara M6.9 e M7.1.
+**Retomada e ponte:** Criar pode começar por uma experiência breve de intenção/Hara ligada à escrita, já prevista no acervo, retomando a linha do Hara ensinada em M4.6. Prepara M6.8 e M7.1.
 
 **Raízes autorais:** “O desenvolvimento humano não fabrica a singularidade; constrói condições para que aquilo que existe em potência possa tornar-se progressivamente expressável, incorporado e fecundo no mundo.” ([[GENESE-001 - A Árvore da Singularidade|Gênese da Árvore da Singularidade]]). Fio: criar como expressão da Essência. Exemplo real anonimizado: “A singularidade que busca expressão” ([[00 - Índice Geral do Banco Fenomenológico|Banco Fenomenológico]]), a Essência soterrada por camadas em forma clínica.
 
@@ -940,7 +940,7 @@ A numeração desta seção corresponde à organização de 59 validada em 22/11
 
 **O que observar:** Explica o que precisa articular e o que pede distância ou ajuda.
 
-**Retomada e ponte:** Comparar modos já experimentados; completar alinhar após M6.6, sem pressupor prática não ensinada.
+**Retomada e ponte:** Comparar modos já experimentados; completar o alinhamento retomando a linha do Hara de M4.6, sem pressupor prática não ensinada.
 
 **Raízes autorais:** “A saúde essencial não é fabricada, mas a capacidade de sustentá-la é construída.” ([[Registro Mestre de Formulações Estruturantes|Registro Mestre]]); Campo de Integração Humana ([[00 - Índice dos Mapas Conceituais|mapa de 18/07]]). Fio: recursos e limites organizados a partir do centro.
 
