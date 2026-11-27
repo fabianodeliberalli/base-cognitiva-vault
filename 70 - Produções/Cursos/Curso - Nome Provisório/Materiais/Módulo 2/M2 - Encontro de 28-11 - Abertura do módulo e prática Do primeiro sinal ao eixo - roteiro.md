@@ -266,3 +266,9 @@ Fica fora dos vídeos. Relatos entram na edição só com consentimento expresso
 - Os princípios do Zhan Zhuang seguem a nota do eixo em três leituras. A linhagem e a transmissão de Fabiano são ditas por ele, com as palavras dele; o ensino completo é M3.6.
 - Não usar o "poder do dedo".
 - Não contar caso de paciente neste encontro. O relato da infância de Fabiano fica para a teoria de M2.4.
+
+## Avaliação de 27/11, noite (pedido de Fabiano)
+
+- **Telas de separação:** entre os vídeos, não entre os sete passos. Cinco telas escuras só com a marca, como marcadores de edição; entre os passos, uma tela vazia quebraria a vivência e alongaria o vídeo.
+- **Sete passos encadeados:** os apoios de M1 já seguem uma só situação (1.2 e 1.4 pedem "volte à sua situação"; 1.6 parte da janela de 1.5), então a sequência é coerente com eles. O risco real era o aluno achar que precisa sempre fazer os sete juntos. Resposta: na tela de abertura e na descrição da Hotmart, "as mesmas práticas dos apoios de cada aula, agora em sequência, com uma só situação; depois, faça qualquer uma separadamente".
+- **Imagem da árvore:** o acervo não tem imagem da postura. "A Árvore do EIXO" é mapa conceitual, e a lâmina 27 é um quadro de Medicina Chinesa com marca d'água; nenhuma mostra a postura. Decisão: no Zhan Zhuang, a tela aparece só para dar o nome e a sequência; depois Fabiano para de compartilhar, e a gravação mostra o corpo dele, que é a melhor imagem da postura. Sugestão para o guia: uma foto de Fabiano em Wu Chi e na árvore, tirada da gravação.

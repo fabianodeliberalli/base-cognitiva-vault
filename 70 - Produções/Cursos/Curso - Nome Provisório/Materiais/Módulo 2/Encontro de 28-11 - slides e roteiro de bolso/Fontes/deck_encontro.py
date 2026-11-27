@@ -3,10 +3,21 @@ from base import *
 OUT = "/home/claude/out/encontro"
 os.makedirs(OUT, exist_ok=True)
 MAPA_TSH = "../../../../../../90 - Anexos/Mapas Conceituais/Mapa do TSH - Espiral, Eixo, Pêndulo e Espelho.png"
-SEMENTE = "img/semente-1.png"  # pdftoppm -r 170 -png -f 1 -l 1 "80 - Mapas Conceituais/PDF/2026-07-18/O-caminho-da-semente.pdf" img/semente; usa base.py de "Slides de gravação 29-11/Fontes"
+SEMENTE = "img/semente-1.png"
 PAUSA_AO_VIVO = "Faça comigo agora. Não precisa escrever."
 
 d = Deck("Encontro 28/11", "Ao vivo")
+
+def marcador(fim, segue):
+    """Tela escura só com a marca: na gravação, aparece como um quadro escuro fácil de achar na edição."""
+    s = d._new(dark=True)
+    pic(s, A + "mark_gold.png", (W - 2.2) / 2, 2.3, h=2.2)
+    d.notes(s, "Marcador de edição", "MARCADOR",
+            [f"[MARCADOR] {fim}",
+             "Esta tela escura não entra em nenhum vídeo: na edição, ela mostra onde cortar.",
+             "Deixe-a na tela por 2 ou 3 segundos e avance."],
+            "Próximo: " + segue + ".")
+
 
 # ======================= PRIMEIRA HORA =======================
 d.capa("Encontro ao vivo · 28 de novembro",
@@ -24,13 +35,17 @@ d.capa("Encontro ao vivo · 28 de novembro",
 
 d.frase("Antes de começar",
         "Não existe atraso no TSH.",
-        "Perder o eixo não significa perder o percurso.",
+        "As mesmas práticas dos apoios de cada aula, agora em sequência, com uma só situação.",
         "ABRIR · CORTE 0 COMEÇA AQUI",
         ["[CORTE 0 · início] Marque o horário para a edição.",
          "",
          "«Não existe atraso no TSH.",
          "Se você não conseguiu fazer tudo do Módulo 1, este é o caminho mínimo.",
          "Vamos juntos, em sete passos, um para cada aula. Sem escrever nada.»",
+         "",
+         "«Cada passo é a prática de uma aula do Módulo 1, a mesma que está no apoio de uma página daquela aula.",
+         "Aqui fazemos em sequência, com uma só situação, para você sentir o módulo como um caminho.",
+         "Depois, você pode fazer qualquer passo sozinho, quando quiser, pelo apoio da aula.»",
          "",
          "«Se puder, sente com os pés no chão.»"],
         "Próximo: passo 1.", lead="Módulo 1 em prática guiada · 10 a 12 minutos")
@@ -90,6 +105,8 @@ for i, (t, perg, apoio, notas) in enumerate(PASSOS):
     d.passo(t, perg, apoio, "CONDUZIR", notas,
             "Próximo: " + (PASSOS[i + 1][0] if i + 1 < len(PASSOS) else "dúvidas."), pausa=PAUSA_AO_VIVO)
 
+marcador("Fim do corte 0 (Módulo 1 em prática guiada).", "dúvidas")
+
 d.cartoes("Suas dúvidas sobre o Módulo 0 e o Módulo 1",
           [("Pergunte", "O que ficou difícil, o que não ficou claro, o que você notou na vida."),
            ("Não existe atraso", "Cada módulo terá um caminho mínimo: duas aulas e a prática diária."),
@@ -107,6 +124,8 @@ d.cartoes("Suas dúvidas sobre o Módulo 0 e o Módulo 1",
           "Próximo: segunda hora, a abertura do Módulo 2.", dark_idx=(1,))
 
 # ======================= SEGUNDA HORA =======================
+marcador("Fim das dúvidas. A seguir começa o corte 1 (abertura do Módulo 2).", "abertura do Módulo 2")
+
 d.capa("Módulo 2 · Percepção e tradução da experiência",
        "O que acontece entre o que vivemos e o que fazemos.",
        "ABRIR · CORTE 1 COMEÇA AQUI",
@@ -181,24 +200,33 @@ d.sequencia("O que vem no Módulo 2",
              "[CORTE 1 · fim] Marque o horário."],
             "Próximo: Zhan Zhuang.", lead="Seis aulas, uma pergunta cada")
 
-d.passo("O eixo no corpo: Zhan Zhuang",
-        "Não há o que alcançar. Há o que perceber.",
-        "Wu Chi → a árvore → fechamento\n\nPés na largura dos ombros, joelhos soltos, topo da cabeça suspenso.\n\nSentado ou apoiado, se precisar.",
-        "CONDUZIR DE PÉ · CORTE 2 · 10 MIN",
-        ["[CORTE 2 · início] Marque o horário. Em pé, se possível. Quem precisar: sentado na borda da cadeira, ou em pé com uma mão apoiada. Mostre de frente e, se der, de lado.",
-         "",
-         "Z1 · O nome (1 min): Zhan Zhuang, «ficar em pé como uma estaca», a postura de pé do Qi Gong. É a árvore que já praticaram. Sequência fixa: Wu Chi, árvore, fechamento. Não há o que alcançar; há o que perceber.",
-         "",
-         "Z2 · Wu Chi (3 min), um princípio por vez: pés paralelos na largura dos ombros, peso perto de Yongquan; joelhos soltos; quadril assentado, como quem começa a sentar; topo da cabeça suspenso por um fio, queixo levemente recolhido; ombros soltos, braços ao lado do corpo; respiração natural; atenção abaixo do umbigo. Silêncio de 30 a 60 segundos.",
-         "",
-         "Z3 · A árvore (3 min): braços em arco à frente do peito, como quem abraça um tronco, palmas para o peito; axilas abertas, ombros soltos, cotovelos um pouco abaixo das mãos; raiz para baixo pelos pés, topo da cabeça para cima. 1 a 2 minutos. Se cansar, baixar os braços e seguir em Wu Chi.",
-         "«O eixo não é rigidez. É o que permite oscilar sem cair.»",
-         "",
-         "Z4 · Fechamento (3 min): baixar os braços devagar; mãos sobrepostas no baixo ventre. Respirar como um fole, sem forçar. Cinco respirações em silêncio. Soltar as mãos; perceber os pés e o corpo inteiro.",
-         "«Essa é a base que vamos usar nas práticas do módulo: o eixo, o centro e a respiração.» O guia de uma página está na aula do Zhan Zhuang.",
-         "",
-         "[CORTE 2 · fim] Marque o horário."],
-        "Próximo: a prática do primeiro sinal ao eixo.", pausa="Faça comigo agora.")
+marcador("Fim do corte 1 (abertura do Módulo 2). A seguir, o corte 2 (Zhan Zhuang).", "Zhan Zhuang")
+
+d.sequencia("O eixo no corpo: Zhan Zhuang",
+            ["Wu Chi\nde pé, braços soltos", "A árvore\nbraços em arco", "Fechamento\nmãos no baixo ventre"],
+            "CONDUZIR DE PÉ · CORTE 2 · 10 MIN",
+            ["[CORTE 2 · início] Marque o horário.",
+             "",
+             "IMPORTANTE: mostre esta tela só no Z1, para dar o nome e a sequência. Do Z2 ao Z4, PARE DE COMPARTILHAR A TELA: assim a gravação mostra você de corpo inteiro, que é a melhor imagem da postura. Volte a compartilhar depois do fechamento, no marcador seguinte.",
+             "",
+             "Em pé, se possível. Quem precisar: sentado na borda da cadeira, ou em pé com uma mão apoiada. Mostre de frente e, se der, de lado.",
+             "",
+             "Z1 · O nome (1 min): Zhan Zhuang, «ficar em pé como uma estaca», a postura de pé do Qi Gong. É a árvore que já praticaram. Sequência fixa: Wu Chi, árvore, fechamento. Não há o que alcançar; há o que perceber.",
+             "",
+             "Z2 · Wu Chi (3 min), um princípio por vez: pés paralelos na largura dos ombros, peso perto de Yongquan; joelhos soltos; quadril assentado, como quem começa a sentar; topo da cabeça suspenso por um fio, queixo levemente recolhido; ombros soltos, braços ao lado do corpo; respiração natural; atenção abaixo do umbigo. Silêncio de 30 a 60 segundos.",
+             "",
+             "Z3 · A árvore (3 min): braços em arco à frente do peito, como quem abraça um tronco, palmas para o peito; axilas abertas, ombros soltos, cotovelos um pouco abaixo das mãos; raiz para baixo pelos pés, topo da cabeça para cima. 1 a 2 minutos. Se cansar, baixar os braços e seguir em Wu Chi.",
+             "«O eixo não é rigidez. É o que permite oscilar sem cair.»",
+             "",
+             "Z4 · Fechamento (3 min): baixar os braços devagar; mãos sobrepostas no baixo ventre. Respirar como um fole, sem forçar. Cinco respirações em silêncio. Soltar as mãos; perceber os pés e o corpo inteiro.",
+             "«Essa é a base que vamos usar nas práticas do módulo: o eixo, o centro e a respiração.» O guia de uma página está na aula do Zhan Zhuang.",
+             "",
+             "[CORTE 2 · fim] Marque o horário."],
+            "Próximo: marcador; volte a compartilhar a tela.",
+            lead="Não há o que alcançar. Há o que perceber.",
+            foot="Sentado na borda da cadeira ou com uma mão apoiada, se precisar.")
+
+marcador("Fim do corte 2 (Zhan Zhuang). Volte a compartilhar a tela. A seguir, o corte 3.", "a prática do primeiro sinal ao eixo")
 
 d.cartoes("Do primeiro sinal ao eixo · combinados",
           [("Você escolhe", "Até onde vai. Pode abrir os olhos e parar a qualquer momento."),
@@ -264,6 +292,8 @@ d.cartoes("Daqui em diante, um pouco todos os dias",
            "",
            "[CORTE 3 · fim] Marque o horário."],
           "Próximo: o ponto de partida.", dark_idx=(0,))
+
+marcador("Fim do corte 3 (Do primeiro sinal ao eixo).", "o ponto de partida")
 
 d.frase("O seu ponto de partida",
         "Numa situação recente em que um padrão foi ativado: quanto do que você sabe ficou disponível, de 0 a 10? Quanto tempo levou para perceber e voltar?",

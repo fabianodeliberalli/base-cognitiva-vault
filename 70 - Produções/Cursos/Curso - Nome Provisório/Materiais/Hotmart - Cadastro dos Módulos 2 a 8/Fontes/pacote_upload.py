@@ -68,7 +68,7 @@ for k in range(1,8):
     s,n=ap(1,f"1.{k}"); os.makedirs(f"{m1}/apoios-por-aula",exist_ok=True); shutil.copy(s,f"{m1}/apoios-por-aula/{n}")
 shutil.copy(GUIA[0],f"{m1}/apoios-por-aula/{GUIA[1]}"); shutil.copy(MAPA1[0],f"{m1}/apoios-por-aula/{MAPA1[1]}")
 aula(f"{m1}/A-nova-M1-pratica-guiada","Módulo 1 em prática guiada",
- "O Módulo 1 inteiro em sete passos, um por aula, conduzidos do começo ao fim. Não precisa escrever nada: é só fazer junto. Se você tiver pouco tempo, este vídeo e o Cultivo do Eixo são o caminho mínimo do módulo. Em anexo, os sete apoios de uma página, para quem quiser rever depois.",
+ "O Módulo 1 inteiro em sete passos, um por aula, conduzidos do começo ao fim. Cada passo é a prática do apoio de uma página daquela aula; aqui elas vêm em sequência, com uma só situação, para você sentir o módulo como um caminho. Depois, pode fazer qualquer passo separadamente. Não precisa escrever nada: é só fazer junto. Se você tiver pouco tempo, este vídeo e o Cultivo do Eixo são o caminho mínimo do módulo. Em anexo, os sete apoios de uma página, para quem quiser rever depois.",
  "Arquivo sugerido: TSH_M1_Pratica_guiada.mp4\nOrigem: encontro de 28/11/2026, corte 0 (primeira hora), 10 a 12 min.",[ap(1,f"1.{k}") for k in range(1,8)]+[MAPA1])
 # M2..M8
 for m in range(2,9):
