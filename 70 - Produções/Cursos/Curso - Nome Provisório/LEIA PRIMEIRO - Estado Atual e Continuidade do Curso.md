@@ -5,7 +5,7 @@ curso: nome-provisorio
 status: referencia-atual-revisavel
 versao: "5.0"
 criado_em: 2026-07-21
-atualizado_em: 2026-11-26
+atualizado_em: 2026-11-27
 autor: Fabiano Deliberalli
 autoridade_de_decisao: Fabiano Deliberalli
 ---
@@ -23,6 +23,9 @@ Referências para retomar o **Traduzindo o Ser Humano** sem carregar todo o acer
 - **Turma atual:** M0 e M1 publicados. Encontro de 28/11 (abertura de M2, lançamento do Cultivo do Eixo e do Caderno de Reencontros). M2 liberado em 29/11. Calendário quinzenal até o encontro de M8, em 03/04/2027 (ver o Raio X).
 - **Comunicação:** o Raio X vigente é [[Raio-X-Fabiano Deliberalli - Texto para consulta]] ([[Raio-X-Fabiano Deliberalli.docx|Word]]); o histórico de 31/10 está em `10 - Raio X do Produto/Histórico/`.
 - **Produção de M2:** [[00 - Estado e Continuidade da Produção M2]]. Consentimento escrito dos casos de M2.4 e M2.6 confirmado por Fabiano em 26/11.
+- **Até 29/11 (27/11):** só organizar e entregar. Checklist e sequência em `Materiais/Produção até 29-11/`. Ajustes a partir do retorno de uma aluna: [[TSH - Ajustes a partir do retorno de uma aluna sobre o Módulo 1 - 27-11-2026]].
+- **Em espera, retomar depois de 29/11:** a revisão do Módulo 3 ([[00 - Estado e Continuidade da Produção M3]]; não gravar antes) e a triagem de materiais por aula ([[TSH - Triagem de materiais por aula - proposta para retomar depois de 29-11]]).
+- **Novos materiais de 27/11:** aula complementar do Módulo 0 (gravar depois de 29/11) e as páginas de mapas do aluno (`Materiais/Percurso - Mapas do TSH/`).
 - **Decisões e avaliação de 26/11:**
   - [[TSH - Decisões de 26-11-2026 - aplicação e respostas]];
   - [[TSH - Auditoria das PRs e reavaliação - antes, agora e o que pode ser - 26-11-2026]].

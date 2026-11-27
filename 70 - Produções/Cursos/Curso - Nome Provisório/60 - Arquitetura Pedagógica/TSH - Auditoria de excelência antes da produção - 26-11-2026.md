@@ -79,3 +79,9 @@ São de 9 a 10 telas por aula, para 12 a 16 minutos.
 O retorno de uma aluna sobre M1 levou a cinco ajustes aprovados por Fabiano, aplicados na mesma PR: [[TSH - Ajustes a partir do retorno de uma aluna sobre o Módulo 1 - 27-11-2026]]. Os seis pontos de aprovação acima continuam abertos.
 
 Os pontos 2, 3 e 4 passaram para a revisão de M3, adiada por Fabiano em 27/11; o ponto de retomada está em [[00 - Estado e Continuidade da Produção M3]]. Os pontos 1, 5 e 6 foram apresentados a Fabiano para decisão em 27/11.
+
+**Decisões de Fabiano, 27/11/2026, 10h38:**
+- Ponto 5 (aula complementar do Módulo 0): aprovado. Roteiro e slides em `Materiais/Módulo 0/Aula complementar - O percurso e a prática de todos os dias/`; gravar depois de 29/11.
+- Ponto 6 (página dos mapas): aprovado em duas etapas, com objetivo e uso prático de cada mapa. Páginas em `Materiais/Percurso - Mapas do TSH/`; ajustar com o retorno dos alunos.
+- Ponto 1 (triagem): aguardar; retomar depois de 29/11. Proposta registrada em [[TSH - Triagem de materiais por aula - proposta para retomar depois de 29-11]].
+- Checklist clicável de produção: `Materiais/Produção até 29-11/`.
