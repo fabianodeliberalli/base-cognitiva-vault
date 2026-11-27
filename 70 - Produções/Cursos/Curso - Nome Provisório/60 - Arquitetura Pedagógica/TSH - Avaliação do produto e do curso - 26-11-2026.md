@@ -1,7 +1,7 @@
 ---
 tipo: avaliacao-de-produto
 projeto: Traduzindo o Ser Humano
-status: avaliacao-para-decisao-de-fabiano
+status: avaliacao-com-decisoes-de-fabiano-em-2026-11-26
 data: 2026-11-26
 ---
 
@@ -131,7 +131,7 @@ Em ordem de impacto sobre a promessa:
    Os elementos já existem; falta torná-los um fio contínuo, com nome e com a mesma pergunta de retorno a cada semana. É o que transforma "entendi" em "está disponível", e é o centro da promessa.
 2. **Um registro longitudinal desde M2.** É um caderno único, que pode se chamar "caderno de reencontros", com uma entrada curta por semana. Isso alimenta M6.8 (comparar o que mudou e o que permaneceu) e M8.1 (retomar a pergunta inicial). Sem ele, as duas aulas trabalham sobre memória.
 3. **Um interlocutor para M7.** Pode ser feito com duplas pela comunidade ou com prática relacional conduzida no encontro.
-4. **Um recurso de segurança fixo e visível.** O repositório tem um Manual SOS no pacote inicial de agosto. Não encontrei no cadastro dos módulos um material desse tipo indicado ao aluno; vale confirmar se ele está na plataforma. Isso pesa mais em M4 (partes e proteções) e nas induções dos encontros.
+4. **Um recurso de segurança fixo e visível.** Proposta avaliada e dispensada por Fabiano em 26/11/2026 (ver [[TSH - Decisões de 26-11-2026 - aplicação e respostas]]). Os cuidados seguem nos limites do Raio X vigente e na condução das práticas e induções.
 5. **Algum critério de progresso que o aluno possa observar.** Não precisa ser clínico. Basta a mesma pergunta respondida em M0, M4 e M8 ("numa situação que ativa meu padrão, quanto do que sei fica disponível?"), com uma escala simples. Isso dá ao aluno, e a você, evidência do percurso. Também serve para depoimentos honestos no próximo lançamento.
 
 # 6. Comunicação e oferta
