@@ -94,7 +94,7 @@ A imagem do mapa acima, com o Módulo 3 destacado, está no pacote em PNG. Se a 
 
 **Descrição da aula**
 
-> Vitalidade, reserva e cultivo na Medicina Chinesa: o que são Qi, Jing e Shen, e a experiência do Sorriso Interior.
+> A Medicina Chinesa como leitura do ser humano: Qi, Jing e Shen, os Cinco Shen e a experiência do Sorriso Interior, na linhagem em que Fabiano se formou.
 
 - **Vídeo:** A gravar. Nome do arquivo sugerido: `TSH_M3_5_Qi_Jing_e_Shen_vitalidade_e_cultivo_na_Medicina_Chinesa.mp4`
 - **Liberação:** com o módulo, domingo, 13/12/2026

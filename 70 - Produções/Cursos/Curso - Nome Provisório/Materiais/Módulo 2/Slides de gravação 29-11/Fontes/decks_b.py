@@ -136,7 +136,23 @@ d.roda("Voltar ao eixo", "Eixo",
         "[PAUSA]",
         "",
         "A exploração termina aqui."],
-       "Próximo: dar forma e continuar.", foot="A exploração termina aqui.", dark=True)
+       "Próximo: o Cultivo do Eixo desta quinzena.", foot="A exploração termina aqui.", dark=True)
+
+d.cartoes("Cultivo do Eixo desta quinzena",
+          [("A árvore", "De um a três minutos na postura da árvore."),
+           ("A pergunta", "«O que está me vivendo agora?»"),
+           ("Três respirações", "No baixo ventre, antes de seguir o dia.")],
+          "CONVIDAR",
+          ["Todos os dias desta quinzena, de três a cinco minutos: o Cultivo do Eixo.",
+           "A árvore, a pergunta «o que está me vivendo agora?» e três respirações no baixo ventre.",
+           "",
+           "Na pergunta, use o que esta prática treinou: perceber o que ganha destaque, sem pressa de resolver.",
+           "",
+           "No primeiro sinal de uma resposta familiar, o Retorno ao Eixo: trinta segundos.",
+           "Uma vez por quinzena, antes do encontro, um reencontro no Caderno.",
+           "Falhar um dia não desfaz nada. Retome no seguinte."],
+          "Próximo: o fechamento.", lead="Todos os dias, de três a cinco minutos",
+          foot="No primeiro sinal: Retorno ao Eixo (30 s). Uma vez por quinzena: um reencontro no Caderno.", dark_idx=(1,))
 
 d.fechamento("Dar forma e continuar na vida",
              "O que ganhou importância pode ser algo da sua Essência pedindo expressão.",
@@ -320,7 +336,23 @@ d.comparar("Vivido depois", "Compare os dois registros do vivido.",
             "Essa comparação é separada da comparação das conclusões.",
             "",
             "[PAUSA] Pause para perceber e registrar."],
-           "Próximo: encerrar.")
+           "Próximo: o Cultivo do Eixo desta quinzena.")
+
+d.cartoes("Cultivo do Eixo desta quinzena",
+          [("A árvore", "De um a três minutos na postura da árvore."),
+           ("A pergunta", "«O que está me vivendo agora?»"),
+           ("Três respirações", "No baixo ventre, antes de seguir o dia.")],
+          "CONVIDAR",
+          ["Todos os dias desta quinzena, de três a cinco minutos: o Cultivo do Eixo.",
+           "A árvore, a pergunta «o que está me vivendo agora?» e três respirações no baixo ventre.",
+           "",
+           "Na pergunta, use o que a prática da M2.3 treinou: quando aparecer uma certeza, guarde-a como hipótese.",
+           "",
+           "No primeiro sinal de uma resposta familiar, o Retorno ao Eixo: trinta segundos.",
+           "Uma vez por quinzena, antes do encontro, um reencontro no Caderno.",
+           "Falhar um dia não desfaz nada. Retome no seguinte."],
+          "Próximo: o fechamento.", lead="Todos os dias, de três a cinco minutos",
+          foot="No primeiro sinal: Retorno ao Eixo (30 s). Uma vez por quinzena: um reencontro no Caderno.", dark_idx=(1,))
 
 d.fechamento("Encerrar a exploração",
              "A certeza que ocupa o campo é um modo de perder o eixo.",

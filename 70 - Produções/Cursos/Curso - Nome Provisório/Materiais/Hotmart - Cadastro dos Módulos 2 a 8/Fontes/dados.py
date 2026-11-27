@@ -59,7 +59,7 @@ AULAS = {
  ("3.2", "Interocepção: perceber e interpretar sinais internos", "Perceber sinais internos e distinguir a sensação da interpretação que se faz dela, alternando entre o foco no corpo e as pistas do ambiente."),
  ("3.3", "Como o organismo antecipa necessidades e distribui recursos", "Como o organismo antecipa necessidades e distribui recursos: demandas, descanso e capacidade disponível, e o que muda quando a exigência ou o apoio mudam."),
  ("3.4", "Sistema nervoso autônomo: mobilização, sobrecarga e repouso", "Mobilização útil, sobrecarga e repouso: mapas do sistema nervoso autônomo, usados com seus limites."),
- ("3.5", "Qi, Jing e Shen: vitalidade e cultivo na Medicina Chinesa", "Vitalidade, reserva e cultivo na Medicina Chinesa: o que são Qi, Jing e Shen, e a experiência do Sorriso Interior."),
+ ("3.5", "Qi, Jing e Shen: vitalidade e cultivo na Medicina Chinesa", "A Medicina Chinesa como leitura do ser humano: Qi, Jing e Shen, os Cinco Shen e a experiência do Sorriso Interior, na linhagem em que Fabiano se formou."),
  ("3.6", "Zhan Zhuang: aprender a postura da árvore", "A postura da árvore em detalhe: apoio, soltura, alinhamento, raiz e os três centros. Você encontra uma versão viável para você, em pé, sentado ou apoiado."),
  ("3.7", "Qi Gong: postura, movimento, respiração e intenção", "A árvore em movimento: Sustentar o Céu e Separar Céu e Terra, com ajustes de amplitude, ritmo e pausa."),
  ("3.8", "Retorno à orientação: escolher e adaptar recursos", "Escolher, dosar e adaptar um recurso para voltar à orientação, reconhecendo quando interromper, trocar ou buscar apoio."),

@@ -33,6 +33,11 @@ Dela saem três vídeos para o M2, liberado em 29/11:
 
 A primeira hora continua sendo de dúvidas sobre M0 e M1. Na primeira hora, se couber, um aviso: o percurso ganhou aulas práticas de cultivo e passou de 54 para 59 aulas.
 
+**Duas falas opcionais para a primeira hora (decisões de 26/11/2026), se as dúvidas abrirem espaço:**
+
+- **Sobre M1.7, o pêndulo:** da sua monografia de 2004, «nada é absoluto Yin ou Yang… o equilíbrio é dinâmico e constantemente variável». Na tradição chinesa, a polaridade não é oposição nem conflito: o pêndulo do curso numa linguagem que muitos já conhecem.
+- **Sobre M1.3, competência incorporada:** da sua monografia transpessoal de 2010, estado não é estágio. Uma vivência pode alcançar um estado «disponível em qualquer estágio», mas isso não quer dizer que ele se instale de maneira permanente. Por isso o curso tem prática diária: o Cultivo do Eixo, lançado no fim do encontro.
+
 Fontes: [[11b - Raízes Autorais do TSH - Folha de Consulta]]; [[TSH - Eixo em Três Leituras - Zhan Zhuang, Linha do Hara e Chong Mai]]; [[TSH - Planejamento livre das aulas M2-M8 e avaliação de M0-M1 - 25-11-2026]].
 
 ## Tempo da hora de prática

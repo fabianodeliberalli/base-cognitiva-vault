@@ -83,3 +83,5 @@ Slides visuais de apoio, notas em todos os slides e roteiro separado breve, uma 
 Nenhum material foi apagado ou regravado nesta intervenção. M0 e M1 publicados não foram alterados.
 
 **26/11/2026, 23h13:** consentimento escrito dos casos de M2.4 e M2.6 confirmado por Fabiano.
+
+**26/11/2026, 23h50 — slides versão 3:** tela do Cultivo do Eixo antes do fechamento de M2.2, M2.3, M2.4, M2.5 e M2.6; tela "O crivo" em M2.6; duas falas opcionais na primeira hora do encontro de 28/11. Guia de gravação regenerado. Sequência de produção e pacote da Hotmart em [[TSH - Auditoria de excelência antes da produção - 26-11-2026]].
