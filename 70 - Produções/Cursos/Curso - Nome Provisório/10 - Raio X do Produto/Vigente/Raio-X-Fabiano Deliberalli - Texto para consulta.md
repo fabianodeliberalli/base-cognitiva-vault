@@ -17,7 +17,9 @@ substitui: "Transcrição do Word de 31/10/2026, preservada em Histórico"
 - a auto-hipnose como habilidade que o aluno aprende, nas três direções do mapa;
 - a reorganização de M4, M5 e M6, com a progressão das práticas e a nova aula de experiências incomuns (M5.8);
 - o Cultivo do Eixo e o Caderno de Reencontros;
-- o calendário quinzenal.
+- o calendário quinzenal;
+- a Medicina Chinesa e o Taoísmo como leitura do ser humano, e não só como prática (proposta de 26/11, à espera de Fabiano);
+- o arco do percurso em três frases de Fabiano (proposta de 26/11, à espera de Fabiano).
 
 A versão de 31/10 está em `Histórico/2026-10-31 - Raio-X-Fabiano Deliberalli - Texto para consulta.md`, como registro. Para comunicação, página de vendas, Masterclass e materiais, vale este texto.
 
@@ -40,6 +42,13 @@ O Módulo 0 é a entrada. As três direções se alimentam.
 - **Ocupar o próprio espaço:** o ensaio mental e a projeção da nova resposta no futuro, em M7 e M8.
 
 **O fio do curso:** a Essência está presente desde o início e vai sendo soterrada por camadas de vivências, defesas e padrões. O eixo é o caminho de volta a ela.
+
+**O percurso em três frases de Fabiano:**
+1. "Somos vividos pelos padrões que carregamos." (Traduzir)
+2. "Se não estamos presentes, alguém ou alguma coisa está. E isso em dado momento é inevitável." (Ganhar eixo e presença)
+3. "Em determinado momento do retorno, somos vividos novamente pelo nosso Eu Superior, Essência. Substituídos no ego, sem sermos destituídos." (Ocupar o próprio espaço)
+
+A terceira frase descreve momentos do retorno, não um estado permanente; na comunicação, ela sempre vem com "em determinado momento".
 
 **Formato de entrega:** formação educacional online em nove módulos e 59 aulas, com prática guiada. Inclui práticas corporais da tradição chinesa ensinadas passo a passo:
 - Zhan Zhuang (a postura da árvore);
@@ -344,8 +353,8 @@ R$ 997,00 à vista ou 12 × de R$ 97,70. Prevalecem as condições exibidas no c
 - **Eixo:** conceito central do curso, e não uma marca à parte. É a capacidade de voltar, diferenciar e se orientar; perder o eixo não significa perder o percurso.
 - **Presença que sustenta:** presença suficiente para continuar em contato com o que acontece, diferenciar o que está misturado e recuperar orientação antes que o impulso decida sozinho.
 - **Competência incorporada:** quando o que você compreendeu começa a ficar disponível nas situações reais da vida. É ensinada aos poucos e não é usada como headline.
-- **Diferencial:** clínica de mais de 30 anos, prática corporal da tradição chinesa ensinada passo a passo, auto-hipnose ensinada como habilidade do aluno (formação continuada em hipnose clínica e docência de auto-hipnose desde 2018), espiritualidade com discernimento e casos reais.
-- **Comunicação obrigatória:** não prometer eliminação definitiva de padrões, destravamento instantâneo nem equilíbrio permanente. Falar em auto-hipnose como habilidade que o aluno aprende; sem palco, sem "controle da mente" e sem "reprogramação" como promessa (a hipnose é recurso do psicólogo capacitado, e o uso sensacionalista é vedado pela resolução do Conselho Federal de Psicologia). A comunicação fala de respostas situadas, leitura mais clara da experiência, retorno ao eixo e desenvolvimento gradual.
+- **Diferencial:** clínica de mais de 30 anos; a Medicina Chinesa e o Taoísmo como leitura do ser humano, e não só como técnica, a partir da formação de Fabiano com o mestre Liu Chih Ming, da linhagem de Liu Pai Lin, com a prática corporal ensinada passo a passo; auto-hipnose ensinada como habilidade do aluno (formação continuada em hipnose clínica e docência de auto-hipnose desde 2018), espiritualidade com discernimento e casos reais.
+- **Comunicação obrigatória:** não prometer eliminação definitiva de padrões, destravamento instantâneo nem equilíbrio permanente. Falar em auto-hipnose como habilidade que o aluno aprende; sem palco, sem "controle da mente" e sem "reprogramação" como promessa. A Medicina Chinesa e o Taoísmo entram como leitura e cultivo, sem diagnóstico por emoções e órgãos e sem equivalências com estruturas do cérebro (a hipnose é recurso do psicólogo capacitado, e o uso sensacionalista é vedado pela resolução do Conselho Federal de Psicologia). A comunicação fala de respostas situadas, leitura mais clara da experiência, retorno ao eixo e desenvolvimento gradual.
 - **Ordem da comunicação:** a dor concreta primeiro; o mapa do percurso responde a "como o curso faz isso".
 
 ## Calendário

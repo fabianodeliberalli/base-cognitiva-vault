@@ -183,11 +183,11 @@ Os quadros da escola de Nogueira Pérez (telas 19–27) e o relógio circadiano 
 - o caminho sem caminho (M8.3);
 - os dois slides sobre a sombra (M4.4, M4.7, M5.9 e M8.1).
 
-A tela 2 (Fogo e Água, energia sexual) toca num tema que o TSH ainda não trata, a sexualidade. Fica em reserva até você decidir se ela entra, e onde.
+A tela 2 (Fogo e Água, energia sexual) toca num tema que o TSH ainda não trata, a sexualidade. A proposta de onde ela entra está em [[TSH - Sexualidade no percurso - proposta 26-11-2026]].
 
 ## 7. Como aplicar sem aumentar o trabalho
 
 - **No dossiê:** a linha "Medicina Chinesa e Taoísmo (revisada, 26/11/2026)" nas 26 aulas da seção 3; as linhas das aulas da seção 4 foram retiradas.
 - **Na produção:** uma frase, imagem ou pergunta por aula, nunca um bloco novo.
-- **No Raio X, se você aprovar:** no diferencial, "a Medicina Chinesa e o Taoísmo como mapa do ser humano, e não só como prática".
+- **No Raio X (proposta de 26/11):** no diferencial, "a Medicina Chinesa e o Taoísmo como leitura do ser humano, e não só como técnica". "Leitura" e não "mapa", porque os Cinco Shen não entram como mapa do aluno (seção 4).
 - **Também para você decidir:** se o arco das três frases ("somos vividos pelos padrões" → "se não estamos presentes, alguém ou alguma coisa está" → "somos vividos novamente pela Essência") entra no Raio X ou na Masterclass. A citação de Wilber sobre meditadores responde à pergunta do seu público: por que quem medita também repete.

@@ -169,3 +169,20 @@ O mapa visual não deve ser uma escada de três degraus, porque isso contradiz "
 - três setas em linha, com uma seta de retorno discreta por baixo.
 
 Fica para você escolher. Posso desenhar as duas.
+
+## 3.5 O percurso em três frases suas (proposta de 26/11/2026)
+
+As três frases dizem o mapa com a sua voz e podem conduzir a Masterclass, cada uma num momento:
+
+| Momento | Frase | Função |
+| --- | --- | --- |
+| Abertura, junto da dor | "Somos vividos pelos padrões que carregamos." | Nomeia a repetição sem culpa; prepara a auto-hipnose |
+| Virada, ao apresentar o que o curso ensina | "Se não estamos presentes, alguém ou alguma coisa está. E isso em dado momento é inevitável." | Mostra que o caminho é presença, e que perdê-la faz parte |
+| Fechamento | "Em determinado momento do retorno, somos vividos novamente pelo nosso Eu Superior, Essência. Substituídos no ego, sem sermos destituídos." | Dá a direção espiritual do curso |
+
+Três cuidados:
+- **A terceira frase não promete um estado.** Ela fala de momentos do retorno, e o "em determinado momento" não pode cair. Sem ele, a frase contradiz "perder o eixo não significa perder o percurso".
+- **"Eu Superior" para quem não conhece o curso.** Na Masterclass, a frase precisa de uma linha de apoio sua (por exemplo, "o que em você não se reduz aos seus padrões"), e o participante não precisa aderir a uma cosmologia para entendê-la.
+- **A ponte para quem medita.** A observação de Wilber, de que mesmo meditadores avançados continuam assombrados por suas sombras, responde à pergunta de boa parte do seu público: por que quem medita também repete. Funciona dita por você, com a fonte, entre a abertura e a virada. Evitar a palavra "psicopatologia" para um público leigo.
+
+A Masterclass de novembro está registrada no guia próprio, que não muda. Esta seção vale para o próximo lançamento.
