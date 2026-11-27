@@ -105,8 +105,8 @@ button{{font:inherit;background:none;border:1px solid #C99A64;color:#173F52;bord
 Versão de 27/11/2026.</div>
 </div>
 <script>
-const K='tsh-checklist-27-11b';const ALL={json.dumps(items)};let st={{}};
-try{{st=JSON.parse(localStorage.getItem(K)||'{{}}')}}catch(e){{}}
+const K='tsh-checklist-27-11c';const ALL={json.dumps(items)};let st={{}};
+try{{st=JSON.parse(localStorage.getItem(K)||'null');if(!st){{const o=JSON.parse(localStorage.getItem('tsh-checklist-27-11b')||'{{}}');const mv={{'s0i1':'s0i3','s0i2':'s0i4','s0i3':'s0i5'}};st={{}};for(const k in o){{st[mv[k]||k]=o[k]}};localStorage.setItem(K,JSON.stringify(st))}}}}catch(e){{st=st||{{}}}}
 const boxes=[...document.querySelectorAll('input[data-k]')];
 function upd(){{const n=boxes.filter(b=>b.checked).length;document.getElementById('f').style.width=(100*n/boxes.length)+'%';
 document.getElementById('p').textContent=n+' de '+boxes.length+' passos';
