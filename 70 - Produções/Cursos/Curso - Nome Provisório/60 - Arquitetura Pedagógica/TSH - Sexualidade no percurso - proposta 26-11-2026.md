@@ -1,7 +1,7 @@
 ---
 tipo: proposta-para-decisao
 projeto: Traduzindo o Ser Humano
-status: proposta-para-validacao-de-fabiano
+status: aprovada-por-fabiano-26-11-2026
 data: 2026-11-26
 pedido: "Fabiano, 26/11/2026: se a sexualidade entra no curso, e onde"
 relacionado:
@@ -11,6 +11,8 @@ relacionado:
 ---
 
 # Sexualidade no percurso: proposta
+
+**Decisão de Fabiano, 26/11/2026, 22h52:** aprovadas as quatro inserções, em M3.5, M4.4, M5.6 e M7.4, já registradas no dossiê. A frase no encontro de M1 e a continuidade em M8.3 não entraram na decisão e seguem só como possibilidades.
 
 ## A recomendação em uma frase
 
