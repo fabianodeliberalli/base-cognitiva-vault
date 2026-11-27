@@ -98,7 +98,7 @@ O aluno escreve o seu plano no caderno: "Quando eu perceber ___ (meu primeiro si
 | Módulo | O que a versão acrescenta | De onde vem |
 | --- | --- | --- |
 | M2 | A forma básica, com a pergunta "o que está me vivendo agora?" | Abertura (Zhan Zhuang), M2.4 |
-| M3 | Respirar nos três centros na árvore e escolher o recurso de retorno do dia | M3.5 a M3.8 |
+| M3 | Respirar nos três centros na árvore; Sustentar o Céu três vezes, se quiser; escolher o recurso de retorno do dia | M3.5 a M3.8 |
 | M4 | A linha do Hara para a intenção do dia e o nome da emoção, conferido no corpo | M4.1 a M4.3, M4.6 |
 | M5 | Um minuto de quietude e a pergunta "o que o Amor, o Poder e a Sabedoria pedem hoje?" | M5.3, M5.4 |
 | M6 | A pequena circulação, ou o Chong Mai, no lugar da intenção | M6.3, M6.6 |

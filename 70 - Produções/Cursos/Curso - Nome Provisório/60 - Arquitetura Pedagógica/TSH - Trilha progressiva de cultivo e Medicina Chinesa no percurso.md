@@ -40,31 +40,47 @@ Numeração: a da reorganização de 26/11/2026 (ver [[TSH - Nomes das aulas e m
 
 | Etapa | Onde | Encontro | O que se aprende | Cultivo do Eixo da quinzena |
 |---|---|---|---|---|
-| 1. Primeiro contato | M1.3 (árvore e Sustentar o Céu); M1.4 apresenta a linguagem do Qi (publicadas) | 28/11 (M0 e M1) | A primeira experiência da árvore; Qi como linguagem de vitalidade, sem exigir sensação | — |
+| 1. Primeiro contato | M1.3 (trecho de prática inserido: árvore e Sustentar o Céu); M1.4 apresenta a linguagem do Qi (publicadas) | 28/11 (M0 e M1) | A primeira experiência da árvore; Qi como linguagem de vitalidade, sem exigir sensação | — |
 | 2. Zhan Zhuang nomeado | Abertura de M2 (vídeo do encontro de 28/11, também em M0 como "Comece pelo corpo") | 28/11 | Wu Chi, árvore e fechamento com a respiração no baixo ventre (Tan Tien inferior); pés e Yongquan | M2: a forma básica |
 | 3. Três Tesouros e três Tan Tien | M3.3 (Jing e reserva); M3.5 (Qi, Jing e Shen; os três Tan Tien como mapa; Sorriso Interior) | 09/01 (M3) | Vitalidade, reserva e cultivo; o inferior, o médio e o superior como mapa tradicional, sem equivalência anatômica | M3: respirar nos três centros e escolher o recurso de retorno do dia |
 | 4. Zhan Zhuang completo | M3.6 | 09/01 | Song, raiz, o fio de prumo céu–terra, os três centros na postura, versão sentada como prática completa | (M3) |
-| 5. Qi Gong em movimento | M3.7; M3.8 (retorno) | 09/01 | Sustentar o Céu e Separar Céu e Terra, com versões, ritmo e pausas; escolher e dosar | (M3) |
+| 5. Qi Gong em movimento | M3.7; M3.8 (retorno) | 09/01 | Árvore, Sustentar o Céu e Separar Céu e Terra na versão de Fabiano (referência do dossiê: também Projetar os punhos), com versões, ritmo e pausas; escolher e dosar | (M3) |
 | 6. Linha do Hara | **M4.6** (antes M6.6) | 23/01 (M4): soltar mandíbula, ombros e abdome; linha do Hara | Tan tien, sede da alma e ponto de individuação numa linha de intenção; liga os três centros já conhecidos; prepara o ensaio de M4.7 | M4: a linha do Hara para a intenção do dia e o nome da emoção |
 | 7. Quietude | M5.4 | 13/02 (M5): retorno ao Tan Tien, atenção aberta, apresentação da circulação | Permanência sentada ou em pé; perceber frente e costas, a preparação para a circulação; Shen | M5: um minuto de quietude e a pergunta dos valores |
 | 8. Pequena circulação | **M6.3** (antes M6.5) | 27/02 (M6): 25 minutos de ensino por partes | A órbita microcósmica (Ren Mai e Du Mai), na escada de cinco passos e com alternativa preparatória | M6: a pequena circulação |
 | 9. Canal central | **M6.6** (antes M6.7) | 27/02 | Chong Mai e o passo selecionado de grande circulação: o eixo no centro do corpo. Fecha a direção "ganhar eixo e presença" | (M6) |
-| 10. O eixo na relação | M7.1, M7.4 e M7.5 | 13/03 (M7): Ba Duan Jin com dois ou mais movimentos; linha do grupo | A linha do Hara antes de uma conversa; abertura e fechamento; a referência corporal antes e depois do encontro com o outro | M7: o Hara antes de uma conversa importante |
+| 10. O eixo na relação | M7.1 (linha individual antes de uma conversa) e M7.5 (linha do grupo) | 13/03 (M7): Ba Duan Jin com dois ou mais movimentos; linha do grupo | A linha do Hara antes de uma conversa; abertura e fechamento; a referência corporal antes e depois do encontro com o outro | M7: o Hara antes de uma conversa importante |
 | 11. Repertório | M8.2 | 03/04 (M8) | Escolher o que fica: árvore, centros, Hara, Qi Gong e circulação opcional | M8: a versão pessoal |
+
+## Como o Cultivo do Eixo acompanha a trilha
+
+O Cultivo do Eixo é a forma diária da trilha. A base é sempre a mesma: a árvore que o aluno conheceu em M1.3 e que aprende pelo nome, Zhan Zhuang, na abertura de M2. Cada módulo acrescenta a prática que acabou de ensinar, numa versão de poucos minutos. Assim, a aula ensina, o Cultivo do Eixo repete todos os dias da quinzena, e o encontro ao vivo pratica junto e corrige.
+
+| Módulo | Prática que o módulo ensina | O que entra no Cultivo do Eixo | Onde é praticado junto |
+|---|---|---|---|
+| M2 | Zhan Zhuang nomeado, baixo ventre (abertura) | A forma básica: árvore, «o que está me vivendo agora?», três respirações no baixo ventre | 28/11 e 12/12 |
+| M3 | Três Tan Tien (M3.5 e M3.6) e Qi Gong (M3.7) | Na árvore, respirar passando pelos três centros; se quiser, Sustentar o Céu três vezes; escolher o recurso de retorno do dia (M3.8) | 09/01 |
+| M4 | Linha do Hara (M4.6) | A linha do Hara para a intenção do dia; o nome da emoção, conferido no corpo (M4.1 a M4.3) | 23/01 |
+| M5 | Quietude, frente e costas (M5.4); valores (M5.3) | Um minuto de quietude e a pergunta dos valores | 13/02 |
+| M6 | Pequena circulação (M6.3) e Chong Mai (M6.6) | A pequena circulação ou o Chong Mai no lugar da intenção | 27/02 |
+| M7 | O Hara na relação (M7.1 e M7.5) | O Hara antes de uma conversa importante; o ensaio da nova resposta em auto-hipnose, se quiser | 13/03 |
+| M8 | Repertório (M8.2) | A versão pessoal, com a projeção da nova resposta no futuro em auto-hipnose | 03/04 |
+
+Na hora de prática dos encontros, a parte de cultivo pratica a versão da quinzena antes de ensinar o passo seguinte.
 
 ## Onde estão o Qi, os três Tan Tien e a Medicina Chinesa
 
 | Conteúdo | Onde é ensinado | Onde volta |
 |---|---|---|
 | Qi como linguagem de vitalidade e circulação | M1.4 (publicada) | M3.5, M3.7 |
-| Jing (reserva) e a relação Rim–Jing–cérebro | M3.3 | M3.5 |
-| Shen (espírito, presença) | M3.5 | M5.4, M5.7 |
+| Jing (reserva) e a relação Rim–Jing–cérebro | M3.3 (Jing e reserva em diálogo com as necessidades do organismo) | M3.5 |
+| Shen (espírito, presença) | M3.5 | M5.4 e o cultivo de Shen nas aulas de espiritualidade (M5.5 a M5.8) |
 | Os três Tan Tien | M3.5 (mapa), M3.6 (na postura) | M4.6 (Hara), M6.3 e M6.6 |
 | Tan Tien inferior e respiração no baixo ventre | Abertura de M2 | Todo o percurso |
 | Yongquan, raiz e Song | Abertura de M2 e M3.6 | M3.7, M8.2 |
 | Qi Ji (direções do movimento do Qi) | M3.6 | M3.7 |
 | Sorriso Interior | M3.5 | Encontros |
-| Ba Duan Jin | M1.3 (Sustentar o Céu), M3.7 | Encontros de M4 e M7, M8.2 |
+| Ba Duan Jin | M1.3 (Sustentar o Céu), M3.7 (Sustentar o Céu e Separar Céu e Terra) | Encontros de M3, M4 e M7, M8.2 |
 | Intenção (Yi) sem esforço | Encontro de M2 | M3.7, M4.6 |
 | Linha do Hara | M4.6 | M7, encontro de M7 |
 | Ren Mai e Du Mai (frente e costas) | M5.4 (preparação) | M6.3 |

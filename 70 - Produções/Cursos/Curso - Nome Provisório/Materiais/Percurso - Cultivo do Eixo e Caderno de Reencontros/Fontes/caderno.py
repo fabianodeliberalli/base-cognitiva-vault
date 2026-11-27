@@ -54,13 +54,15 @@ def progresso(doc, momento):
 
 VERSOES = {
  2: ('Percepção e tradução da experiência', 'A forma básica: árvore, a pergunta «o que está me vivendo agora?» e três respirações no baixo ventre.'),
- 3: ('Corpo, vitalidade e práticas de cultivo', 'Acrescente: na árvore, respire passando pelos três centros (baixo ventre, peito, testa) e escolha o recurso de retorno do dia.'),
+ 3: ('Corpo, vitalidade e práticas de cultivo', 'Acrescente: na árvore, respire passando pelos três centros (baixo ventre, peito, testa); se quiser, Sustentar o Céu três vezes; escolha o recurso de retorno do dia.'),
  4: ('Emoções, padrões de proteção e novas respostas', 'Acrescente: a linha do Hara para a intenção do dia (aula 4.6) e dê nome à emoção do momento, conferindo no corpo.'),
  5: ('Valores, criação e espiritualidade', 'Acrescente: um minuto de quietude e a pergunta «o que o Amor, o Poder e a Sabedoria pedem hoje?».'),
  6: ('Integração da experiência e práticas de cultivo', 'No lugar da intenção: a pequena circulação (aula 6.3) ou o Chong Mai (aula 6.6), como aprendido no módulo.'),
  7: ('Comunicação, vínculos, limites e reparação', 'Antes de uma conversa importante: a linha do Hara e, se quiser, o ensaio da nova resposta em auto-hipnose.'),
  8: ('Aprendizagens, autonomia e continuidade', 'Monte a sua versão com o que funcionou e anote-a aqui; projete-a, em auto-hipnose, nas situações que virão.'),
 }
+
+ORIGEM = {2: 'Zhan Zhuang (abertura do Módulo 2)', 3: 'Três Tan Tien (3.5 e 3.6), Qi Gong (3.7), retorno (3.8)', 4: 'Linha do Hara (4.6)', 5: 'Quietude (5.4) e valores (5.3)', 6: 'Pequena circulação (6.3) e Chong Mai (6.6)', 7: 'O Hara na relação (7.1 e 7.5)', 8: 'Repertório (8.2)'}
 
 def caderno(path):
     doc = Document(); base(doc)
@@ -74,6 +76,7 @@ def caderno(path):
               'No momento real: quando perceber o seu primeiro sinal, faça o Retorno ao Eixo (trinta segundos).',
               'Uma vez por quinzena, antes do encontro ao vivo: registre um reencontro com o seu padrão (dez minutos). Traga o caderno ao encontro.',
               'Em M2, M4 e M8: responda à pergunta de progresso.',
+              'A versão do Cultivo do Eixo de cada quinzena traz para o dia a dia a prática que o módulo acabou de ensinar: a árvore, os três centros, o Qi Gong, a linha do Hara, a quietude, a circulação.',
               'Escreva só o que quiser. Este caderno é seu e não precisa ser mostrado a ninguém.']:
         doc.add_paragraph(t, style='List Bullet')
     h(doc, 'Retorno ao Eixo, no momento real', 13, OURO, 8, 4)
@@ -120,9 +123,12 @@ def caderno(path):
 
 def guia(path):
     doc = Document(); base(doc)
+    sec = doc.sections[0]; sec.top_margin = sec.bottom_margin = Cm(1.4); sec.left_margin = sec.right_margin = Cm(1.8)
+    doc.styles['Normal'].font.size = Pt(10.5)
     h(doc, 'Cultivo do Eixo', 24, NOT, 0, 2)
     par(doc, 'Traduzindo o Ser Humano · a prática diária do percurso · Fabiano Deliberalli', 10, True, OURO, 10)
-    par(doc, '«Ou trabalhamos voluntariamente ou somos vividos pelos padrões que carregamos.» O Cultivo do Eixo é o trabalho voluntário de todos os dias, em poucos minutos, para que o eixo esteja disponível quando o padrão chegar.', 11, True)
+    par(doc, '«Ou trabalhamos voluntariamente ou somos vividos pelos padrões que carregamos.» O Cultivo do Eixo é o trabalho voluntário de todos os dias, para que o eixo esteja disponível quando o padrão chegar.', 10.5, True, None, 2)
+    par(doc, 'A base é a árvore que você conheceu na aula 1.3 e aprende pelo nome, Zhan Zhuang, na abertura do Módulo 2. A cada módulo, o Cultivo do Eixo acrescenta, em poucos minutos, a prática que a aula acabou de ensinar. A aula ensina, o Cultivo repete todos os dias da quinzena, e o encontro ao vivo pratica junto.', 10.5, False, None, 2)
     h(doc, 'Todos os dias (três a cinco minutos)', 13, OURO, 8, 4)
     for t in ['Enraizar: um a três minutos de árvore (Zhan Zhuang), em pé, sentado ou apoiado.',
               'Perceber: pergunte «o que está me vivendo agora?».',
@@ -133,14 +139,20 @@ def guia(path):
         q = par(doc, f'{i}. {t}'); q.paragraph_format.left_indent = Cm(0.6)
     par(doc, 'Escreva no Caderno de Reencontros: «Quando eu perceber ________, vou fazer o Retorno ao Eixo.»', 11)
     h(doc, 'Uma versão por módulo', 13, OURO, 8, 4)
-    t = doc.add_table(rows=1, cols=2); t.style = 'Table Grid'
-    t.rows[0].cells[0].paragraphs[0].add_run('Módulo').bold = True; t.rows[0].cells[1].paragraphs[0].add_run('O que a versão acrescenta').bold = True
+    t = doc.add_table(rows=1, cols=3); t.style = 'Table Grid'
+    for i, x in enumerate(['Módulo', 'Prática que o módulo ensina', 'O que a versão acrescenta']): t.rows[0].cells[i].paragraphs[0].add_run(x).bold = True
     for m in range(2, 9):
-        r = t.add_row().cells; r[0].text = f'M{m}'; r[1].text = VERSOES[m][1]
+        r = t.add_row().cells; r[0].text = f'M{m}'; r[1].text = ORIGEM[m]; r[2].text = VERSOES[m][1]
+    t.autofit = False
+    for row in t.rows:
+        for k, w in enumerate([Cm(1.6), Cm(5.6), Cm(10.2)]): row.cells[k].width = w
+    for k, w in enumerate([Cm(1.6), Cm(5.6), Cm(10.2)]): t.columns[k].width = w
+    grid = t._tbl.tblGrid
+    for k, gc in enumerate(grid.findall(qn('w:gridCol'))): gc.set(qn('w:w'), str(int([1.6,5.6,10.2][k]*567)))
     for row in t.rows:
         for c in row.cells:
             for p in c.paragraphs:
-                for run in p.runs: run.font.size = Pt(10)
+                for run in p.runs: run.font.size = Pt(9)
     h(doc, 'Cuidados', 13, OURO, 8, 4)
     par(doc, 'Pare se houver tontura, dor ou falta de ar. Não force a duração: um minuto por dia vale mais que dez minutos uma vez. Falhar um dia não desfaz nada; retome no dia seguinte. Em sofrimento intenso, procure ajuda profissional (CVV: 188, gratuito, 24 horas).')
     doc.save(path)

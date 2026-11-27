@@ -15,6 +15,8 @@ Cópia da versão 2 do documento entregue a Fabiano em 25/11/2026, que incorpora
 
 # Em uma página
 
+**Calendário (26/11/2026):** as datas de encontros desta nota seguem o calendário semanal anterior; vale o calendário quinzenal do Raio X vigente (M2 em 12/12, M3 em 09/01, M4 em 23/01, M5 em 13/02, M6 em 27/02, M7 em 13/03, M8 em 03/04). A ordem das práticas está em [[TSH - Trilha progressiva de cultivo e Medicina Chinesa no percurso]].
+
 **Mapa do percurso (Fabiano, 26/11/2026).** Três direções, do texto [[TSH - Padrões e ressonância - texto de Fabiano de 10-11-2026|«Padrões e ressonância»]]: **traduzir** — M1 (fundamentos) e M2 (prática da tradução); **ganhar eixo e presença** — M3 a M6; **ocupar o próprio espaço** — M7 e M8. M0 é a entrada. As direções se alimentam; não são etapas em fila. Toda estruturação, abertura e fecho de módulo situa o aluno nesse mapa com clareza.
 
 **A auto-hipnose no mapa do percurso (Fabiano, 26/11/2026).** "Somos vividos pelos padrões que carregamos": os padrões funcionam como transes que não escolhemos. A auto-hipnose é uma habilidade que o próprio aluno aprende: entrar por escolha num estado de atenção concentrada. Nas três direções: **traduzir** — reconhecer o transe que não se escolhe (M2, com o núcleo em M2.4); **ganhar eixo e presença** — praticar o transe escolhido (M3 a M6 e a indução nos encontros); **ocupar o próprio espaço** — o ensaio mental e a projeção da nova resposta no futuro (M7 e M8). Detalhes em [[00 - Hipnose e Auto-Hipnose no TSH - Decisão Avaliação e Destinos]].

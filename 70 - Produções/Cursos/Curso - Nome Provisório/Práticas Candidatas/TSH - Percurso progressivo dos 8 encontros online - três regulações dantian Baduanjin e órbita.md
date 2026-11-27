@@ -4,6 +4,7 @@ status: historico-consultivo
 recuperado_em: 2026-11-13
 ---
 
+> **Destinos atualizados em 26/11/2026:** a ordem das práticas e a numeração das aulas estão em [[TSH - Trilha progressiva de cultivo e Medicina Chinesa no percurso]] (linha do Hara em M4.6, pequena circulação em M6.3, Chong Mai em M6.6; Cultivo do Eixo como forma diária de cada etapa). As tabelas desta nota usam a numeração anterior.
 
 > Recuperação em 13/11/2026 do commit `a47a832fc57d62faa63da88f4c329e3d7148d963`. Registro consultivo de uma etapa anterior. Para o estado atual dos arquivos, o ensino desde M0.2 e a distribuição das práticas, consultar [[11 - Leituras Recuperadas - Taoismo Shen e Transformação]] e o caderno 06. Os apontadores sem cópia nesta frente remetem ao commit de origem.
 
