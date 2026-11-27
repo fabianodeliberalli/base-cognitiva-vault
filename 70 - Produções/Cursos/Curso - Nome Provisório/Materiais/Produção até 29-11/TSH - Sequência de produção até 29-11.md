@@ -7,7 +7,7 @@ subtitle: "Siga na ordem, do envio da mensagem à turma até a liberação do M�
 
 **Para marcar o que já fez, abra o arquivo 00-CHECKLIST.html** (duplo clique; abre no navegador). Ele traz os mesmos passos deste documento, com caixas para marcar, a barra de progresso e links para cada arquivo. O progresso fica salvo no computador. Extraia as duas pastas, TSH-1-Gravar e TSH-2-Hotmart, lado a lado, para os links funcionarem.
 
-Esta pasta substitui todos os pacotes anteriores. Pode descartar do seu Downloads as versões anteriores desta pasta (inclusive a "TSH-27-11" da manhã de 27/11), a pasta "TSH - Produção e Hotmart - 27-11" e os arquivos "TSH - M2 - Slides de gravação v2.zip", "TSH_M2_2_M2_3_M2_4_Slides_e_Roteiros_v4.zip", "TSH - Decisões de 26-11 - materiais.zip", "TSH - Hotmart - Cadastro dos Módulos 2 a 8.zip" e os PowerPoint soltos de M2.2, M2.4 e M2.6.
+Esta pasta substitui todos os pacotes anteriores. Pode descartar do seu Downloads o arquivo M2-0-Pontes.pptx (as três pontes agora são arquivos separados), as versões anteriores desta pasta (inclusive a "TSH-27-11" da manhã de 27/11), a pasta "TSH - Produção e Hotmart - 27-11" e os arquivos "TSH - M2 - Slides de gravação v2.zip", "TSH_M2_2_M2_3_M2_4_Slides_e_Roteiros_v4.zip", "TSH - Decisões de 26-11 - materiais.zip", "TSH - Hotmart - Cadastro dos Módulos 2 a 8.zip" e os PowerPoint soltos de M2.2, M2.4 e M2.6.
 
 Os nomes dos arquivos são curtos e sem acentos, para o Windows abrir sem erro. Os títulos completos estão dentro de cada arquivo.
 
@@ -36,7 +36,9 @@ Pasta "02-M2-gravar-ate-29-11". O guia de gravação é o arquivo "M2-Guia-de-gr
 
 | Ordem | Arquivo | Vídeo | Duração |
 | --- | --- | --- | --- |
-| 1 | M2-0-Pontes.pptx | Pontes de M2.1, M2.2 e M2.3 | 3 a 4 min cada |
+| 1 | M2-1-Ponte.pptx | Ponte de M2.1 (mostra o mapa O Caminho da Semente) | 3 a 4 min |
+| 1 | M2-2-Ponte.pptx | Ponte de M2.2 | 3 a 4 min |
+| 1 | M2-3-Ponte.pptx | Ponte de M2.3 | 3 a 4 min |
 | 2 | M2-2-Pratica.pptx | Prática de M2.2 | 8 a 10 min |
 | 3 | M2-3-Pratica.pptx | Prática de M2.3 | 10 a 12 min |
 | 4 | M2-4-Teoria.pptx | Teoria de M2.4 | 15 a 18 min |

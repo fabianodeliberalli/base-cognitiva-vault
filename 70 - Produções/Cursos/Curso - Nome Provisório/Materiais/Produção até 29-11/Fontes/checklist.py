@@ -23,7 +23,9 @@ S = [
  ]),
  ("Sábado à tarde e domingo cedo", "Gravar o Módulo 2 · siga o guia", [
   ("Abrir o guia de gravação do M2", "Cada tela tem a nota do que dizer.", "02-M2-gravar-ate-29-11/M2-Guia-de-gravacao.docx"),
-  ("Gravar as pontes de 2.1, 2.2 e 2.3 (3 a 4 min cada)", "", "02-M2-gravar-ate-29-11/M2-0-Pontes.pptx"),
+  ("Gravar a ponte de 2.1 (3 a 4 min)", "Mostra o mapa O Caminho da Semente; vai antes da teoria já gravada de 2.1.", "02-M2-gravar-ate-29-11/M2-1-Ponte.pptx"),
+  ("Gravar a ponte de 2.2 (3 a 4 min)", "Vai antes da teoria já gravada de 2.2.", "02-M2-gravar-ate-29-11/M2-2-Ponte.pptx"),
+  ("Gravar a ponte de 2.3 (3 a 4 min)", "Vai antes da teoria já gravada de 2.3.", "02-M2-gravar-ate-29-11/M2-3-Ponte.pptx"),
   ("Gravar a prática de 2.2 (8 a 10 min)", "", "02-M2-gravar-ate-29-11/M2-2-Pratica.pptx"),
   ("Gravar a prática de 2.3 (10 a 12 min)", "", "02-M2-gravar-ate-29-11/M2-3-Pratica.pptx"),
   ("Gravar a teoria de 2.4 (15 a 18 min)", "", "02-M2-gravar-ate-29-11/M2-4-Teoria.pptx"),
@@ -101,7 +103,7 @@ button{{font:inherit;background:none;border:1px solid #C99A64;color:#173F52;bord
 Versão de 27/11/2026.</div>
 </div>
 <script>
-const K='tsh-checklist-27-11';const ALL={json.dumps(items)};let st={{}};
+const K='tsh-checklist-27-11b';const ALL={json.dumps(items)};let st={{}};
 try{{st=JSON.parse(localStorage.getItem(K)||'{{}}')}}catch(e){{}}
 const boxes=[...document.querySelectorAll('input[data-k]')];
 function upd(){{const n=boxes.filter(b=>b.checked).length;document.getElementById('f').style.width=(100*n/boxes.length)+'%';

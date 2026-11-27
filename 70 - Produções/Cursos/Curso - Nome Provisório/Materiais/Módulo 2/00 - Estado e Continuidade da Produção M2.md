@@ -89,3 +89,7 @@ Nenhum material foi apagado ou regravado nesta intervenção. M0 e M1 publicados
 ## Atualização de 27/11/2026
 
 Práticas guiadas no vídeo, escrita opcional ([[TSH - Ajustes a partir do retorno de uma aluna sobre o Módulo 1 - 27-11-2026]]): slides v4, notas sem "pause o vídeo", apoios com "faça junto com o vídeo". O encontro de 28/11 abre com o bloco "Módulo 1 em prática guiada" (corte 0). Mensagem à turma no arquivo de 27/11.
+
+## Atualização de 27/11/2026, 11h30
+
+As três pontes passaram a ser arquivos separados (`TSH · M2.1 · Ponte.pptx`, `M2.2`, `M2.3`). A ponte de M2.1 mostra o mapa O Caminho da Semente na tela, e a nota diz de onde ele vem: o vídeo de abertura do módulo (encontro de 28/11, corte 1). Pedido de Fabiano: a referência ao mapa precisava ser específica.
