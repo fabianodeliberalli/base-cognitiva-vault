@@ -206,7 +206,7 @@ class Deck:
         return s
 
     def passo(self, title, pergunta, apoio, cue, lines, nxt=None, registro=None,
-              pausa="Pause o vídeo para perceber e registrar."):
+              pausa="Faça comigo agora. Anotar é opcional."):
         """Tela estável durante a realização: uma pergunta grande e o nome do registro."""
         s = self._new()
         self._chrome(s, title)
@@ -216,7 +216,7 @@ class Deck:
         self.text(s, 8.7, 2.6, 3.9, 2.4, apoio, size=17, color=EST, line=1.15)
         if registro:
             rect(s, 8.7, 4.95, 3.9, 0.7, fill=PET, rounded=0.1)
-            self.text(s, 8.85, 5.0, 3.6, 0.6, f"Registro: {registro}", size=16, color="FFFFFF",
+            self.text(s, 8.85, 5.0, 3.6, 0.6, f"Se quiser anotar: {registro}", size=16, color="FFFFFF",
                       bold=True, anchor="ctr", align="ctr")
         if pausa:
             self.text(s, 0.62, 6.0, 11.8, 0.5, pausa, size=16, color=OURO, bold=True)

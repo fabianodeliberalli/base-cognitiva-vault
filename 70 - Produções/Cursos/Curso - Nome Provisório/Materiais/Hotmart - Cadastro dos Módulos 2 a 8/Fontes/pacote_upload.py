@@ -1,74 +1,86 @@
-import os, re, shutil, sys, importlib.util, unicodedata
+import os, re, shutil, sys, importlib.util
 C="/home/claude/base-cognitiva-vault/70 - Produções/Cursos/Curso - Nome Provisório/Materiais/"
 OUT=sys.argv[1]
 spec=importlib.util.spec_from_file_location("dados", C+"Hotmart - Cadastro dos Módulos 2 a 8/Fontes/dados.py")
 D=importlib.util.module_from_spec(spec); spec.loader.exec_module(D)
 P=C+"Percurso - Cultivo do Eixo e Caderno de Reencontros/"
-GUIA=P+"TSH - Cultivo do Eixo - guia da prática diária.pdf"; CAD=P+"TSH - Caderno de Reencontros.pdf"; CAL=P+"TSH - Calendário da turma.pdf"
-ZZ=C+"Módulo 2/TSH_M2_Guia_Zhan_Zhuang_a_arvore.pdf"
-AP2=C+"Módulo 2/Apoios do aluno - uma página/"
-AP3="/home/claude/build_m2v/apoios_m3/"
+GUIA=(P+"TSH - Cultivo do Eixo - guia da prática diária.pdf","TSH-Cultivo-do-Eixo-guia.pdf")
+CAD=(P+"TSH - Caderno de Reencontros.pdf","TSH-Caderno-de-Reencontros.pdf")
+CAL=(P+"TSH - Calendário da turma.pdf","TSH-Calendario-da-turma.pdf")
+ZZ=(C+"Módulo 2/TSH_M2_Guia_Zhan_Zhuang_a_arvore.pdf","TSH-Guia-Zhan-Zhuang.pdf")
+B="/home/claude/build_m2v/"
+def ap(m,cod): return (f"{B}apoios_m{m}/TSH_M{m}_{cod.replace('.','_')}_Apoio_do_aluno.pdf", f"TSH-Apoio-aula-{cod.replace('.','-')}.pdf")
 IMG=C+"Hotmart - Cadastro dos Módulos 2 a 8/Imagens do percurso/"
 def clean(t): return re.sub(r'\*\*','',t)
-def safe(t): return re.sub(r'[\\/*"<>|]','-',t.replace(':',' -').replace('?','')).strip()
-def slug(t):
-    t=unicodedata.normalize('NFKD',t).encode('ascii','ignore').decode()
-    return re.sub(r'[^A-Za-z0-9]+','_',t).strip('_')
 def w(path,txt):
-    os.makedirs(os.path.dirname(path),exist_ok=True); open(path,'w',encoding='utf-8').write(txt.strip()+"\n")
+    os.makedirs(os.path.dirname(path),exist_ok=True); open(path,'w',encoding='utf-8-sig').write(txt.strip().replace('\n','\r\n')+"\r\n")
+def anexar(pasta,lst):
+    for src,nome in lst:
+        os.makedirs(f"{pasta}/anexos",exist_ok=True); shutil.copy(src,f"{pasta}/anexos/{nome}")
+def aula(pasta,titulo,desc,video,lst=()):
+    t=f"TÍTULO\n{titulo}\n\nDESCRIÇÃO\n{desc}\n\nVÍDEO\n{video}\n\nANEXOS\n"+("\n".join(n for _,n in lst) if lst else "nenhum")
+    w(f"{pasta}/aula.txt",t); anexar(pasta,lst)
 if os.path.exists(OUT): shutil.rmtree(OUT)
 os.makedirs(OUT)
-# ---- LEIA
-w(f"{OUT}/00 - LEIA - como cadastrar.txt", """TSH - materiais organizados para a Hotmart (26/11/2026)
+w(f"{OUT}/LEIA.txt", """TSH - materiais para a Hotmart (versão de 27/11/2026)
 
-Cada pasta de módulo tem:
-- 00 - Módulo: o nome do módulo (nome.txt), a descrição (descricao.txt) e a imagem do mapa do percurso (capa).
-- Uma pasta por aula, na ordem da plataforma: título (titulo.txt), descrição (descricao.txt), o vídeo a subir (VIDEO.txt diz o nome do arquivo e de onde ele vem) e os anexos (pasta "anexos", quando houver).
+Uma pasta por módulo (M0 a M8). Dentro:
+- modulo.txt: nome, descrição e data de liberação do módulo (copie e cole).
+- capa.png: imagem do mapa do percurso com o módulo destacado.
+- Uma pasta por aula, na ordem da plataforma (A01, A02...). Em cada uma, aula.txt traz título, descrição, o vídeo a subir e a lista de anexos; os anexos estão na pasta "anexos".
 
-Para cadastrar: copie o texto de cada .txt para o campo correspondente, suba o vídeo indicado e os anexos.
+M0 e M1 já estão publicados: as pastas trazem só o que muda (alteracoes.txt diz o quê).
+M4 a M8: textos prontos; vídeos e apoios serão produzidos ao longo do calendário.
 
-Módulo 0 e Módulo 1 já estão publicados: as pastas trazem só o que muda.
-Módulos 4 a 8: textos prontos; vídeos e apoios do aluno serão produzidos ao longo do calendário.
+Liberações: M2 em 29/11/2026; M3 em 13/12/2026; M4 em 10/01/2027; M5 em 24/01/2027; M6 em 14/02/2027; M7 em 28/02/2027; M8 em 14/03/2027.
 
-Datas de liberação (calendário quinzenal): M2 em 29/11/2026; M3 em 13/12/2026; M4 em 10/01/2027; M5 em 24/01/2027; M6 em 14/02/2027; M7 em 28/02/2027; M8 em 14/03/2027.
-
-A imagem de capa está em PNG. Confira na Hotmart a medida pedida para a capa do módulo; se for diferente, a imagem pode ir no corpo da primeira aula.
-
-Arquivos antigos que este pacote substitui (pode descartar): "TSH - Hotmart - Cadastro dos Módulos 2 a 8.zip" (26/11, manhã), "TSH_Cadastro_Hotmart_Copiar_Colar.txt", "TSH_Texto_Hotmart_Programa_54_Aulas_Ampliado.txt" e "TSH_Programacao_Hotmart.xlsx".
+Os nomes das pastas e arquivos são curtos e sem acentos para o Windows abrir sem erro. Os títulos completos, com acentos, estão dentro dos arquivos .txt.
 """)
-# ---- M0
-m0=f"{OUT}/Módulo 0 - alterações (já publicado)/01 - Nova aula - Comece pelo corpo"
-w(f"{m0}/titulo.txt","Comece pelo corpo: a postura da árvore")
-w(f"{m0}/descricao.txt","Antes de seguir, uma prática curta para começar pelo corpo: a postura da árvore (Zhan Zhuang), com Wu Chi, a árvore e o fechamento com a respiração no baixo ventre. É a base do Cultivo do Eixo, a prática de três a cinco minutos que acompanha você todos os dias do curso. Em anexo, o guia do Cultivo do Eixo, o Caderno de Reencontros e o calendário da turma.")
-w(f"{m0}/VIDEO.txt","Arquivo sugerido: TSH_M0_Comece_pelo_corpo.mp4\nOrigem: encontro de 28/11/2026, corte 2 (o mesmo vídeo de 'O eixo no corpo: Zhan Zhuang' do Módulo 2), cerca de 10 min.\nPosição: depois da última aula do Módulo 0.")
-for f in (GUIA,CAD,CAL): shutil.copy(f, f"{m0}/anexos/") if os.path.isdir(f"{m0}/anexos") else (os.makedirs(f"{m0}/anexos"), shutil.copy(f, f"{m0}/anexos/"))
-# ---- M1
-m1=f"{OUT}/Módulo 1 - alterações (já publicado)"
-w(f"{m1}/acrescentar ao fim da descrição de cada aula.txt","Antes desta aula, três minutos de Cultivo do Eixo: o vídeo está no Módulo 0 (Comece pelo corpo) e o guia está em anexo na aula 1.1.")
-os.makedirs(f"{m1}/Aula 1.1 - anexo novo",exist_ok=True); shutil.copy(GUIA,f"{m1}/Aula 1.1 - anexo novo/")
-# ---- M2..M8
+# M0
+m0=f"{OUT}/M0"
+w(f"{m0}/alteracoes.txt","Módulo 0 (já publicado): acrescentar uma aula nova, depois da última aula do módulo. Os dados estão na pasta A-nova-Comece-pelo-corpo.")
+aula(f"{m0}/A-nova-Comece-pelo-corpo","Comece pelo corpo: a postura da árvore",
+ "Antes de seguir, uma prática curta para começar pelo corpo: a postura da árvore (Zhan Zhuang), com Wu Chi, a árvore e o fechamento com a respiração no baixo ventre. É a base do Cultivo do Eixo, a prática de três a cinco minutos que acompanha você todos os dias do curso. Em anexo, o guia do Cultivo do Eixo, o Caderno de Reencontros e o calendário da turma.",
+ "Arquivo sugerido: TSH_M0_Comece_pelo_corpo.mp4\nOrigem: encontro de 28/11/2026, corte 2 (o mesmo vídeo de «O eixo no corpo: Zhan Zhuang» do Módulo 2), cerca de 10 min.",[GUIA,CAD,CAL])
+# M1
+m1=f"{OUT}/M1"
+w(f"{m1}/alteracoes.txt",f"""Módulo 1 (já publicado): quatro alterações.
+
+1. DESCRIÇÃO DO MÓDULO: acrescentar ao final
+{D.MINIMO[1]}
+
+2. AO FIM DA DESCRIÇÃO DE CADA AULA (1.1 a 1.7): acrescentar
+Antes desta aula, três minutos de Cultivo do Eixo: o vídeo está no Módulo 0 (Comece pelo corpo). A prática desta aula é guiada no vídeo «Módulo 1 em prática guiada»; o apoio de uma página está em anexo. Escrever é opcional.
+
+3. ANEXOS NOVOS: em cada aula 1.1 a 1.7, o apoio de uma página correspondente (pasta apoios-por-aula). Na aula 1.1, também o guia do Cultivo do Eixo.
+
+4. AULA NOVA no fim do módulo: pasta A-nova-M1-pratica-guiada.
+""")
+for k in range(1,8):
+    s,n=ap(1,f"1.{k}"); os.makedirs(f"{m1}/apoios-por-aula",exist_ok=True); shutil.copy(s,f"{m1}/apoios-por-aula/{n}")
+shutil.copy(GUIA[0],f"{m1}/apoios-por-aula/{GUIA[1]}")
+aula(f"{m1}/A-nova-M1-pratica-guiada","Módulo 1 em prática guiada",
+ "O Módulo 1 inteiro em sete passos, um por aula, conduzidos do começo ao fim. Não precisa escrever nada: é só fazer junto. Se você tiver pouco tempo, este vídeo e o Cultivo do Eixo são o caminho mínimo do módulo. Em anexo, os sete apoios de uma página, para quem quiser rever depois.",
+ "Arquivo sugerido: TSH_M1_Pratica_guiada.mp4\nOrigem: encontro de 28/11/2026, corte 0 (primeira hora), 10 a 12 min.",[ap(1,f"1.{k}") for k in range(1,8)])
+# M2..M8
 for m in range(2,9):
-    md=D.MOD[m]; base=f"{OUT}/Módulo {m} - {safe(md['nome'].split('—',1)[1].strip())}"
-    w(f"{base}/00 - Módulo/nome.txt", md['nome'].replace('—','-'))
-    desc=D.LINHA+"\nVocê está em: "+clean(md['pos'])+"\n\n"+"\n\n".join(md['desc'])
-    w(f"{base}/00 - Módulo/descricao.txt",desc)
-    w(f"{base}/00 - Módulo/liberacao.txt", f"Liberação: {md['lib']}. Encontro ao vivo do módulo: {md['enc']}.")
-    shutil.copy(IMG+f"Mapa do percurso - Módulo {m}.png", f"{base}/00 - Módulo/capa - Mapa do percurso - Módulo {m}.png")
+    md=D.MOD[m]; base=f"{OUT}/M{m}"
+    desc=D.LINHA+"\nVocê está em: "+clean(md['pos'])+"\n\n"+"\n\n".join(md['desc'])+"\n\n"+D.MINIMO[m]
+    w(f"{base}/modulo.txt",f"NOME DO MÓDULO\n{md['nome'].replace('—','-')}\n\nDESCRIÇÃO DO MÓDULO\n{desc}\n\nLIBERAÇÃO\n{md['lib']}. Encontro ao vivo do módulo: {md['enc']}.")
+    shutil.copy(IMG+f"Mapa do percurso - Módulo {m}.png", f"{base}/capa.png")
     for i,a in enumerate(D.AULAS[m],1):
-        cod,tit=a[0],a[1]; descr=a[2]
+        cod,tit,descr=a[0],a[1],a[2]
         titulo = tit if m==2 else f"Aula {cod} - {tit}"
-        pasta=f"{base}/{i:02d} - {safe(titulo)}"
-        w(f"{pasta}/titulo.txt",titulo); w(f"{pasta}/descricao.txt",descr)
-        anexos=[]
+        tag={'abertura':'abertura','zhan':'zhan-zhuang'}.get(cod, cod.replace('.','-'))
+        pasta=f"{base}/A{i:02d}-{tag}"
+        lst=[]
         if m==2:
-            origem=a[3]; arq='TSH_M2_'+slug(titulo.replace('Aula ',''))+'.mp4'
-            w(f"{pasta}/VIDEO.txt",f"Arquivo sugerido: {arq}\nOrigem: {origem}.")
-            if cod=='zhan': anexos=[ZZ,GUIA,CAD]
-            elif re.fullmatch(r'2\.\d',cod): anexos=[AP2+f"TSH_M2_{cod.replace('.','_')}_Apoio_do_aluno.pdf"]
+            vid=f"Arquivo sugerido: TSH_M2_A{i:02d}.mp4\nOrigem: {a[3]}."
+            if cod=='zhan': lst=[ZZ,GUIA,CAD]
+            elif re.fullmatch(r'2\.\d',cod): lst=[ap(2,cod)]
+        elif m==3:
+            vid=f"Arquivo sugerido: TSH_M3_{cod.replace('.','_')}.mp4\nOrigem: a gravar (slides e guia na pasta TSH-1-Gravar)."; lst=[ap(3,cod)]
         else:
-            arq=f"TSH_M{cod.replace('.','_')}_"+slug(tit)+'.mp4'
-            w(f"{pasta}/VIDEO.txt",f"Arquivo sugerido: {arq}\nOrigem: a gravar (slides e guia de gravação na pasta de produção)." if m==3 else f"Arquivo sugerido: {arq}\nOrigem: a produzir no calendário do módulo.")
-            if m==3: anexos=[AP3+f"TSH_M3_{cod.replace('.','_')}_Apoio_do_aluno.pdf"]
-        for f in anexos:
-            os.makedirs(f"{pasta}/anexos",exist_ok=True); shutil.copy(f,f"{pasta}/anexos/")
+            vid=f"Arquivo sugerido: TSH_M{cod.replace('.','_')}.mp4\nOrigem: a produzir no calendário do módulo."
+        aula(pasta,titulo,descr,vid,lst)
 print('ok')

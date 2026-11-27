@@ -28,3 +28,7 @@ M3.6 e M3.7 (práticas de estúdio, corpo inteiro) primeiro; depois M3.1, M3.2, 
 - **M3.6 e M3.7:** as práticas seguem a versão de Fabiano; os passos na tela são o resumo.
 
 Composição e decisões em [[TSH - Auditoria de excelência antes da produção - 26-11-2026]].
+
+## Atualização de 27/11/2026
+
+Telas de prática com "pratique comigo" e escrita opcional; notas de fala com silêncio conduzido em vez de pausa do vídeo; apoios atualizados ([[TSH - Ajustes a partir do retorno de uma aluna sobre o Módulo 1 - 27-11-2026]]).

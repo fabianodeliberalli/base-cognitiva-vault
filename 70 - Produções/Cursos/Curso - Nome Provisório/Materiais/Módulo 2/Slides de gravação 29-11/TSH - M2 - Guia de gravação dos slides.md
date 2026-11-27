@@ -1,10 +1,12 @@
 ---
 title: "Módulo 2 — guia de gravação dos slides"
-subtitle: "Pontes de M2.1 a M2.3, práticas de M2.2 e M2.3, M2.4, M2.5 e M2.6 — versão 3, 26/11/2026"
+subtitle: "Pontes de M2.1 a M2.3, práticas de M2.2 e M2.3, M2.4, M2.5 e M2.6 — versão 4, 27/11/2026"
 ---
 
 
 # Como usar as notas
+
+- **Práticas guiadas (27/11):** nas telas de prática, conduza do começo ao fim. A pausa é de 30 a 60 segundos de silêncio, com a tela parada; escrever é opcional ("se quiser, anote depois no Caderno").
 
 As mesmas notas estão no PowerPoint, na exibição do apresentador. Este guia é a cópia para imprimir ou deixar ao lado da câmera.
 
@@ -17,7 +19,7 @@ As mesmas notas estão no PowerPoint, na exibição do apresentador. Este guia �
 - **O canto superior direito fica livre** para a sua imagem de câmera.
 - **Telas de imagem.** Nas histórias das tradições e nas metáforas, a tela mostra só uma ilustração e o nome da história. A história inteira, as correlações explícitas com o TSH e os cuidados estão nas notas, em três partes: a história, o que a imagem mostra e a correlação com o TSH. As ilustrações são originais, feitas para o curso na paleta do TSH. Se preferir outra imagem, basta trocar a figura: a nota continua valendo.
 - **Histórias marcadas como opcionais** (Zhuangzi em M2.4, o cavalo do velho da fronteira em M2.5) podem ser puladas: a nota da tela anterior diz para onde ir.
-- **Novidades da versão 3 (26/11):** a tela do Cultivo do Eixo antes do fechamento em M2.2, M2.3, M2.4, M2.5 e M2.6; em M2.6, a tela «O crivo», com a sua frase da monografia de 2004.
+- **Novidades da versão 3 (26/11):** a tela do Cultivo do Eixo antes do fechamento em M2.2 a M2.6; em M2.6, a tela «O crivo».
 - **Fontes:** EB Garamond nos títulos e Inter no texto, como em M0, M1 e M2.1. Se o PowerPoint trocar a fonte, instale as duas pelo Google Fonts.
 
 
@@ -211,7 +213,7 @@ Escolha algo significativo que consiga explorar neste momento.
 Situe em uma frase o que está acontecendo.  
 Mantenha essa mesma situação durante a prática.  
 
-[PAUSA] Pause o vídeo para escolher e registrar.  
+[PAUSA] De 30 a 60 segundos em silêncio, com a tela parada, conduzindo. Depois: «Se quiser, anote no Caderno; se não, siga comigo.»  
 
 → Próximo: antes das perguntas.  
 
@@ -226,7 +228,7 @@ Acompanhe o corpo, o afeto, as imagens, o impulso de agir.
 Guarde uma expressão breve: palavra, traço ou descrição de um gesto.  
 Confira se a palavra corresponde ao que percebe.  
 
-[PAUSA] Registro: Antes das perguntas.  
+[PAUSA] De 30 a 60 segundos em silêncio, conduzindo. Quem quiser anota: Antes das perguntas.  
 
 → Próximo: Resolver.  
 
@@ -240,7 +242,7 @@ Mantenha a mesma situação e pergunte:
 Dê um tempo para perceber o que a pergunta traz.  
 E como é estar diante disso.  
 
-[PAUSA] Registro: Resolver.  
+[PAUSA] De 30 a 60 segundos em silêncio, conduzindo. Quem quiser anota: Resolver.  
 
 → Próximo: Possibilidade.  
 
@@ -255,7 +257,7 @@ Permaneça um pouco com a pergunta.
 Acompanhe como se sente e se dispõe.  
 Pode surgir algo diferente, continuar parecido ou ficar sem resposta.  
 
-[PAUSA] Registro: Possibilidade.  
+[PAUSA] De 30 a 60 segundos em silêncio, conduzindo. Quem quiser anota: Possibilidade.  
 
 → Próximo: comparar.  
 
@@ -271,7 +273,7 @@ Agora confira a situação concreta.
 Que pessoas, acordos ou condições ainda precisam entrar nessa compreensão?  
 Guarde o acréscimo ou a informação que falta.  
 
-[PAUSA] Pause para comparar e conferir.  
+[PAUSA] De 30 a 60 segundos em silêncio, com a tela parada, conduzindo. Depois: «Se quiser, anote no Caderno; se não, siga comigo.»  
 
 → Próximo: voltar ao eixo.  
 
@@ -389,7 +391,7 @@ Pode ser algo que já vem investigando e que consiga acompanhar agora.
 Registre o que aconteceu e quem participava.  
 Mantenha a mesma situação até o fim.  
 
-[PAUSA] Pause para escolher e situar.  
+[PAUSA] De 30 a 60 segundos em silêncio, com a tela parada, conduzindo. Depois: «Se quiser, anote no Caderno; se não, siga comigo.»  
 
 → Próximo: Conclusão antes.  
 
@@ -400,7 +402,7 @@ Mantenha a mesma situação até o fim.
 Volte à situação e complete: «diante disso, concluí que…»  
 Escreva a leitura que realmente vem sustentando.  
 
-[PAUSA] Registro: Conclusão antes.  
+[PAUSA] De 30 a 60 segundos em silêncio, conduzindo. Quem quiser anota: Conclusão antes.  
 
 → Próximo: Vivido antes.  
 
@@ -414,7 +416,7 @@ Acompanhe o corpo, o afeto, as imagens, o impulso de agir.
 Guarde uma expressão breve: palavra, desenho ou descrição de um gesto.  
 Mantenha separado da conclusão.  
 
-[PAUSA] Registro: Vivido antes.  
+[PAUSA] De 30 a 60 segundos em silêncio, conduzindo. Quem quiser anota: Vivido antes.  
 
 → Próximo: as bases da conclusão.  
 
@@ -430,7 +432,7 @@ Anote o que falta conferir.
 Se essa conclusão precisasse ser revista, o que isso colocaria em jogo?  
 Reconheça o que precisa de cuidado.  
 
-[PAUSA] Pause para acompanhar essas questões.  
+[PAUSA] De 30 a 60 segundos em silêncio, com a tela parada, conduzindo. Depois: «Se quiser, anote no Caderno; se não, siga comigo.»  
 
 → Próximo: voltar ao eixo.  
 
@@ -462,7 +464,7 @@ Formule uma pergunta que aceite uma resposta diferente da esperada.
 Se puder consultar agora, confira e guarde o que encontrou.  
 Se depender de outra ocasião, guarde a pergunta e onde buscar a resposta.  
 
-[PAUSA] Pause para a conferência possível agora.  
+[PAUSA] De 30 a 60 segundos em silêncio, com a tela parada, conduzindo. Depois: «Se quiser, anote no Caderno; se não, siga comigo.»  
 
 → Próximo: Conclusão depois.  
 
@@ -476,7 +478,7 @@ Com o que foi possível conferir, o que consegue concluir agora?
 Registre como «Conclusão depois», com as bases e o que ainda falta conhecer.  
 A leitura pode mudar, continuar sustentada ou permanecer aberta.  
 
-[PAUSA] Pause para registrar e comparar.  
+[PAUSA] De 30 a 60 segundos em silêncio, com a tela parada, conduzindo. Depois: «Se quiser, anote no Caderno; se não, siga comigo.»  
 
 → Próximo: Vivido depois.  
 
@@ -491,7 +493,7 @@ Compare com «Vivido antes».
 O que mudou e o que permaneceu?  
 Essa comparação é separada da comparação das conclusões.  
 
-[PAUSA] Pause para perceber e registrar.  
+[PAUSA] De 30 a 60 segundos em silêncio, com a tela parada, conduzindo. Depois: «Se quiser, anote no Caderno; se não, siga comigo.»  
 
 → Próximo: o Cultivo do Eixo desta quinzena.  
 
@@ -891,7 +893,7 @@ Escolha uma experiência significativa, comum ou espiritual.
 Escreva quatro linhas: o que aconteceu; como vivi; o que concluí; que hipóteses existem.  
 E uma quinta: o que essa experiência agrega à minha vida?  
 
-[PAUSA] Pause o vídeo para escrever.  
+[PAUSA] De 30 a 60 segundos em silêncio, com a tela parada, conduzindo. Depois: «Se quiser, anote no Caderno; se não, siga comigo.»  
 
 Na M2.6: como transformar isso numa Tradução que possa ser revista.  
 
@@ -1044,7 +1046,7 @@ Releia. O que você vê agora que não via?
 Escreva de novo a Tradução provisória, em uma ou duas frases.  
 Uma orientação possível, e quando vai conferir.  
 
-[PAUSA] Pause o vídeo para escrever.  
+[PAUSA] De 30 a 60 segundos em silêncio, com a tela parada, conduzindo. Depois: «Se quiser, anote no Caderno; se não, siga comigo.»  
 
 → Próximo: o Cultivo do Eixo desta quinzena.  
 

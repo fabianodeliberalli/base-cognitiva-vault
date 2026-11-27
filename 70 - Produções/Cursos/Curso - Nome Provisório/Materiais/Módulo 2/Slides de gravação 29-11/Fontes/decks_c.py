@@ -152,7 +152,7 @@ d.fechamento("Para guardar e praticar",
               "Escreva quatro linhas: o que aconteceu; como vivi; o que concluí; que hipóteses existem.",
               "E uma quinta: o que essa experiência agrega à minha vida?",
               "",
-              "[PAUSA] Pause o vídeo para escrever.",
+              "[PAUSA] De 30 a 60 segundos em silêncio, com a tela parada, conduzindo. Depois: «Se quiser, anote no Caderno; se não, siga comigo.»",
               "",
               "Na M2.6: como transformar isso numa Tradução que possa ser revista."])
 d.save(f"{OUT}/TSH · M2.5 · Acontecimento, experiência e interpretação.pptx")
@@ -298,9 +298,9 @@ d.passo("Prática curta", "O que você vê agora que não via?",
          "Escreva de novo a Tradução provisória, em uma ou duas frases.",
          "Uma orientação possível, e quando vai conferir.",
          "",
-         "[PAUSA] Pause o vídeo para escrever."],
+         "[PAUSA] De 30 a 60 segundos em silêncio, com a tela parada, conduzindo. Depois: «Se quiser, anote no Caderno; se não, siga comigo.»"],
         "Próximo: o Cultivo do Eixo desta quinzena.", registro="Tradução provisória",
-        pausa="Pause o vídeo para reler e escrever.")
+        pausa="Releia comigo agora. Escrever é opcional.")
 
 d.cartoes("Cultivo do Eixo desta quinzena",
           [("A árvore", "De um a três minutos na postura da árvore."),

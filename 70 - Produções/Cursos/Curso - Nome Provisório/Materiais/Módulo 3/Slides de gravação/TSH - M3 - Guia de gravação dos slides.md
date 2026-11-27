@@ -1,10 +1,12 @@
 ---
 title: "Módulo 3 — guia de gravação dos slides"
-subtitle: "Oito aulas, versão 1, 26/11/2026"
+subtitle: "Oito aulas, versão 2, 27/11/2026"
 ---
 
 
 # Como usar as notas
+
+- **Práticas guiadas (27/11):** nas telas de prática, conduza do começo ao fim. A pausa é de 30 a 60 segundos de silêncio, com a tela parada; escrever é opcional ("se quiser, anote depois no Caderno").
 
 As mesmas notas estão no PowerPoint, na exibição do apresentador. Este guia é a cópia para imprimir ou deixar ao lado da câmera.
 
@@ -15,9 +17,8 @@ As mesmas notas estão no PowerPoint, na exibição do apresentador. Este guia �
 - **A última linha (→)** diz o que vem na tela seguinte, para emendar sem procurar.
 - **As telas não têm animação por clique.** Cada uma aparece inteira, e uma tecla avança. Não há item escondido a lembrar.
 - **O canto superior direito fica livre** para a sua imagem de câmera.
-- **Cenas suas.** Onde a nota diz «Conte com as suas palavras», a cena é uma vivência sua já registrada; a nota indica onde está o registro. Nada foi inventado: se a cena não servir, troque por outra sua.
-- **Telas de prática.** Pratique junto com o aluno ou deixe a tela parada pelo tempo da pausa. As práticas corporais seguem a sua versão; os passos na tela são o resumo.
-- **A tela do Cultivo do Eixo** fecha cada aula com a versão do Módulo 3 e uma frase que liga a aula à prática diária.
+- **Cenas suas.** Onde a nota diz «Conte com as suas palavras», a cena é uma vivência sua já registrada; a nota indica onde está o registro.
+- **A tela do Cultivo do Eixo** fecha cada aula com a versão do Módulo 3.
 - **Fontes:** EB Garamond nos títulos e Inter no texto, como em M0, M1 e M2.1. Se o PowerPoint trocar a fonte, instale as duas pelo Google Fonts.
 
 
@@ -124,7 +125,7 @@ Que resposta parece fácil? Qual parece longe?
 
 Uma mudança possível: um recurso interno ou uma mudança de condição.  
 
-[PAUSA] Pause o vídeo para escrever.  
+[PAUSA] De 30 a 60 segundos em silêncio, com a tela parada, conduzindo. Depois: «Se quiser, anote no Caderno; se não, siga comigo.»  
 
 → Próximo: o Cultivo do Eixo desta quinzena.  
 
@@ -243,11 +244,11 @@ Por isso a pergunta não é «sinto certo?», e sim «o que muda quando a instru
 Primeiro, observe a respiração como está, sem mudar nada. Trinta segundos.  
 Depois, conduza uma respiração confortável, um pouco mais longa na saída. Trinta segundos.  
 
-O que mudou? Escreva a sensação numa linha, com palavras de corpo: quente, apertado, leve.  
-Em outra linha, a interpretação: o que você concluiu dela.  
+O que mudou? Diga para si a sensação, com palavras de corpo: quente, apertado, leve.  
+Depois, separe a interpretação: o que você concluiu dela.  
 Se olhar para dentro trouxer aflição, volte aos pés e aos sons do ambiente.  
 
-[PAUSA] Pause o vídeo para fazer e escrever.  
+[PAUSA] De 30 a 60 segundos em silêncio, com a tela parada, conduzindo. Depois: «Se quiser, anote no Caderno; se não, siga comigo.»  
 
 → Próximo: o Cultivo do Eixo desta quinzena.  
 
@@ -355,7 +356,7 @@ Escolha algo que nutre: uma pessoa, um momento, uma prática.
 Agora uma mudança possível: diminuir uma demanda, pedir um apoio ou incluir uma prática.  
 Escolha uma. Não as três.  
 
-[PAUSA] Pause o vídeo para escrever.  
+[PAUSA] De 30 a 60 segundos em silêncio, com a tela parada, conduzindo. Depois: «Se quiser, anote no Caderno; se não, siga comigo.»  
 
 → Próximo: o Cultivo do Eixo desta quinzena.  
 
@@ -471,7 +472,7 @@ O que ajudou a voltar, ou o que teria ajudado: movimento, pausa, um contato, men
 
 Se a lembrança pesar, pare, sinta os pés e olhe o ambiente.  
 
-[PAUSA] Pause o vídeo para escrever.  
+[PAUSA] De 30 a 60 segundos em silêncio, com a tela parada, conduzindo. Depois: «Se quiser, anote no Caderno; se não, siga comigo.»  
 
 → Próximo: o Cultivo do Eixo desta quinzena.  
 
@@ -599,7 +600,7 @@ Três respirações no baixo ventre.
 
 É a mesma prática das aulas abertas e de M1.3, agora com o seu lugar na Medicina Chinesa.  
 
-[PAUSA] Pause o vídeo para praticar dois minutos.  
+[PAUSA] Pratique junto, dois minutos, conduzindo cada passo.  
 
 → Próximo: o Cultivo do Eixo desta quinzena.  
 
@@ -710,7 +711,7 @@ Feche com as mãos no baixo ventre, três respirações.
 
 Se surgir tontura ou dor, sente-se e continue sentado.  
 
-[PAUSA] Ou pause o vídeo e pratique no seu ritmo.  
+[PAUSA] Pratique junto, no ritmo da tela.  
 
 → Próximo: o Cultivo do Eixo desta quinzena.  
 
@@ -834,7 +835,7 @@ Feche no baixo ventre, três respirações.
 Ao fim: você conduziu, sustentou ou acompanhou?  
 Para sair: um, dois, três, sinta os pés, abra os olhos.  
 
-[PAUSA] Ou pause o vídeo e pratique no seu ritmo.  
+[PAUSA] Pratique junto, no ritmo da tela.  
 
 → Próximo: o Cultivo do Eixo desta quinzena.  
 
@@ -938,7 +939,7 @@ O que ela pede: orientar, acalmar, mobilizar ou sustentar?
 Escolha um recurso, a dose e o sinal para parar ou trocar.  
 E, se couber, uma condição a mudar.  
 
-[PAUSA] Pause o vídeo para escrever.  
+[PAUSA] De 30 a 60 segundos em silêncio, com a tela parada, conduzindo. Depois: «Se quiser, anote no Caderno; se não, siga comigo.»  
 
 → Próximo: o Cultivo do Eixo desta quinzena.  
 

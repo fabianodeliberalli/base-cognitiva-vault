@@ -51,3 +51,7 @@ Produzir M2 como aprofundamento da experiência, com fontes selecionadas, uma pe
 Distinguir elaboração, ensaio, arquivos, gravação, edição e publicação. Os estados individuais de produção continuam não confirmados quando não houver evidência. Uma futura revisão de M0/M1 pode ser feita por Fabiano; esta integração não declara substituição dos vídeos existentes.
 
 Nenhum chat possui competência exclusiva: a continuidade parte da demanda atual e das fontes pertinentes. A UC 0.1 permanece fonte de partida, reabrindo-a quando a construção atual pedir revisão, ampliação ou nova relação; a UC 0.2 também continua disponível conforme a questão.
+
+## Atualização de 27/11/2026
+
+A partir do retorno de uma aluna ([[TSH - Ajustes a partir do retorno de uma aluna sobre o Módulo 1 - 27-11-2026]]): aula nova "Módulo 1 em prática guiada" (corte 0 do encontro de 28/11), sete apoios de uma página em `Apoios do aluno - uma página/` e caminho mínimo na descrição do módulo. Os vídeos já publicados não foram alterados.

@@ -111,3 +111,15 @@ AULAS = {
 ],
 }
 NOVAS = {"3.6", "3.7", "6.5", "6.6", "6.7"}
+
+# Caminho mínimo por módulo (decisão de Fabiano, 27/11/2026): para quem tiver pouco tempo na quinzena
+MINIMO = {
+ 1: "Se tiver pouco tempo: o vídeo «Módulo 1 em prática guiada» e o Cultivo do Eixo. Nada se perde: o resto continua aqui.",
+ 2: "Se tiver pouco tempo nesta quinzena: o vídeo «O eixo no corpo: Zhan Zhuang», a prática «Do primeiro sinal ao eixo» (2.4) e o Cultivo do Eixo. Nada se perde: o resto continua aqui.",
+ 3: "Se tiver pouco tempo nesta quinzena: a aula 3.6 (a postura da árvore), a 3.8 (recursos de retorno) e o Cultivo do Eixo. Nada se perde: o resto continua aqui.",
+ 4: "Se tiver pouco tempo nesta quinzena: a aula 4.4 (padrões de proteção), a 4.6 (linha do Hara) e o Cultivo do Eixo. Nada se perde: o resto continua aqui.",
+ 5: "Se tiver pouco tempo nesta quinzena: a aula 5.1 (os Três Eus), a 5.4 (quietude) e o Cultivo do Eixo. Nada se perde: o resto continua aqui.",
+ 6: "Se tiver pouco tempo nesta quinzena: a aula 6.3 (pequena circulação), a 6.8 (escolhas nas condições reais) e o Cultivo do Eixo. Nada se perde: o resto continua aqui.",
+ 7: "Se tiver pouco tempo nesta quinzena: a aula 7.3 (escutar sem abandonar a sua posição), a 7.4 (limites) e o Cultivo do Eixo. Nada se perde: o resto continua aqui.",
+ 8: "Se tiver pouco tempo nesta quinzena: a aula 8.2 (repertório pessoal e plano de prática) e o encontro final. Nada se perde: o resto continua aqui.",
+}

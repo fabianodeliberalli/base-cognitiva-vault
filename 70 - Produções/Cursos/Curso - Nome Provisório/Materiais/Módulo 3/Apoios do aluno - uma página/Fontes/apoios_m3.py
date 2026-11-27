@@ -55,10 +55,10 @@ for cod, tit, ideia, raiz, passos, cad in AULAS:
     par(doc, MAPA, 8.5, True, MUTED, 10)
     h(doc, 'A ideia', 12, OURO, 4, 2); par(doc, ideia)
     h(doc, 'Raiz', 12, OURO, 6, 2); par(doc, raiz, 11, True)
-    h(doc, 'Prática', 12, OURO, 6, 2)
+    h(doc, 'Prática (faça junto com o vídeo)', 12, OURO, 6, 2)
     for i, t in enumerate(passos, 1):
         q = par(doc, f'{i}. {t}'); q.paragraph_format.left_indent = Cm(0.6)
-    h(doc, 'No Caderno de Reencontros', 12, OURO, 6, 2); par(doc, cad)
+    h(doc, 'No Caderno de Reencontros, se quiser', 12, OURO, 6, 2); par(doc, cad)
     h(doc, 'Cultivo do Eixo', 12, OURO, 6, 2); par(doc, CULTIVO, 10)
     par(doc, 'Se algo mobilizar demais, pare, faça o Retorno ao Eixo e, se precisar, procure ajuda profissional.', 9, True, MUTED, 0)
     doc.save(os.path.join(OUT, f'TSH_M3_{cod.replace(".", "_")}_Apoio_do_aluno.docx'))

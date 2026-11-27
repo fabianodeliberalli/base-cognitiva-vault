@@ -85,3 +85,7 @@ Nenhum material foi apagado ou regravado nesta intervenção. M0 e M1 publicados
 **26/11/2026, 23h13:** consentimento escrito dos casos de M2.4 e M2.6 confirmado por Fabiano.
 
 **26/11/2026, 23h50 — slides versão 3:** tela do Cultivo do Eixo antes do fechamento de M2.2, M2.3, M2.4, M2.5 e M2.6; tela "O crivo" em M2.6; duas falas opcionais na primeira hora do encontro de 28/11. Guia de gravação regenerado. Sequência de produção e pacote da Hotmart em [[TSH - Auditoria de excelência antes da produção - 26-11-2026]].
+
+## Atualização de 27/11/2026
+
+Práticas guiadas no vídeo, escrita opcional ([[TSH - Ajustes a partir do retorno de uma aluna sobre o Módulo 1 - 27-11-2026]]): slides v4, notas sem "pause o vídeo", apoios com "faça junto com o vídeo". O encontro de 28/11 abre com o bloco "Módulo 1 em prática guiada" (corte 0). Mensagem à turma no arquivo de 27/11.

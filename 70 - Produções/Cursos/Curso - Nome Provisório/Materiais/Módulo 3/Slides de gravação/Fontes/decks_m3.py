@@ -121,7 +121,7 @@ d.passo("Prática", "O que está acessível para mim agora?",
          "",
          "Uma mudança possível: um recurso interno ou uma mudança de condição.",
          "",
-         "[PAUSA] Pause o vídeo para escrever."],
+         "[PAUSA] De 30 a 60 segundos em silêncio, com a tela parada, conduzindo. Depois: «Se quiser, anote no Caderno; se não, siga comigo.»"],
         "Próximo: o Cultivo do Eixo desta quinzena.", registro="Estado e acesso")
 
 cultivo(d, "Nesta quinzena, note também o estado em que você faz o Cultivo: ele muda o que a árvore oferece.")
@@ -219,16 +219,16 @@ d.frase("A instrução muda o que se sente",
 
 d.passo("Prática", "O que eu sinto, e o que eu concluo?",
         ["Observe a respiração sem mudar nada.", "Depois, conduza uma respiração confortável.",
-         "", "Anote a sensação e, à parte, a interpretação."],
+         "", "Separe a sensação da interpretação."],
         "AGORA REALIZAR",
         ["Primeiro, observe a respiração como está, sem mudar nada. Trinta segundos.",
          "Depois, conduza uma respiração confortável, um pouco mais longa na saída. Trinta segundos.",
          "",
-         "O que mudou? Escreva a sensação numa linha, com palavras de corpo: quente, apertado, leve.",
-         "Em outra linha, a interpretação: o que você concluiu dela.",
+         "O que mudou? Diga para si a sensação, com palavras de corpo: quente, apertado, leve.",
+         "Depois, separe a interpretação: o que você concluiu dela.",
          "Se olhar para dentro trouxer aflição, volte aos pés e aos sons do ambiente.",
          "",
-         "[PAUSA] Pause o vídeo para fazer e escrever."],
+         "[PAUSA] De 30 a 60 segundos em silêncio, com a tela parada, conduzindo. Depois: «Se quiser, anote no Caderno; se não, siga comigo.»"],
         "Próximo: o Cultivo do Eixo desta quinzena.", registro="Sensação e interpretação")
 
 cultivo(d, "Na pergunta «o que está me vivendo agora?», comece pela sensação, com palavras de corpo, antes da interpretação.")
@@ -320,7 +320,7 @@ d.passo("Prática", "O que desgasta, o que nutre, o que permite recompor?",
          "Agora uma mudança possível: diminuir uma demanda, pedir um apoio ou incluir uma prática.",
          "Escolha uma. Não as três.",
          "",
-         "[PAUSA] Pause o vídeo para escrever."],
+         "[PAUSA] De 30 a 60 segundos em silêncio, com a tela parada, conduzindo. Depois: «Se quiser, anote no Caderno; se não, siga comigo.»"],
         "Próximo: o Cultivo do Eixo desta quinzena.", registro="Demanda, recurso e mudança")
 
 cultivo(d, "O Cultivo do Eixo é recomposição: três a cinco minutos que devolvem, não que cobram.")
@@ -420,7 +420,7 @@ d.passo("Prática", "Num episódio recente, o que o meu corpo pediu?",
          "",
          "Se a lembrança pesar, pare, sinta os pés e olhe o ambiente.",
          "",
-         "[PAUSA] Pause o vídeo para escrever."],
+         "[PAUSA] De 30 a 60 segundos em silêncio, com a tela parada, conduzindo. Depois: «Se quiser, anote no Caderno; se não, siga comigo.»"],
         "Próximo: o Cultivo do Eixo desta quinzena.", registro="Episódio e dosagem")
 
 cultivo(d, "Se o dia estiver agitado, a árvore pode ser mais curta e a respiração mais lenta: dosar também é praticar.")
@@ -532,9 +532,9 @@ d.passo("Prática: o Sorriso Interior", "Sorria para dentro.",
          "",
          "É a mesma prática das aulas abertas e de M1.3, agora com o seu lugar na Medicina Chinesa.",
          "",
-         "[PAUSA] Pause o vídeo para praticar dois minutos."],
+         "[PAUSA] Pratique junto, dois minutos, conduzindo cada passo."],
         "Próximo: o Cultivo do Eixo desta quinzena.", registro="O que o sorriso mudou",
-        pausa="Pause o vídeo para praticar dois minutos.")
+        pausa="Pratique comigo, dois minutos.")
 
 cultivo(d, "Na respiração pelos três centros, você passa pelos lugares do Jing, do Qi e do Shen.")
 
@@ -627,9 +627,9 @@ d.passo("Prática: três minutos de árvore", "O que me sustenta?",
          "",
          "Se surgir tontura ou dor, sente-se e continue sentado.",
          "",
-         "[PAUSA] Ou pause o vídeo e pratique no seu ritmo."],
+         "[PAUSA] Pratique junto, no ritmo da tela."],
         "Próximo: o Cultivo do Eixo desta quinzena.", registro="O que me sustenta",
-        pausa="Pratique junto com o vídeo, ou pause e faça no seu ritmo.")
+        pausa="Pratique comigo, no ritmo da tela.")
 
 cultivo(d, "A árvore desta aula é o centro do Cultivo do Eixo do Módulo 3.")
 
@@ -732,9 +732,9 @@ d.passo("Prática: os dois movimentos", "Como estou participando agora?",
          "Ao fim: você conduziu, sustentou ou acompanhou?",
          "Para sair: um, dois, três, sinta os pés, abra os olhos.",
          "",
-         "[PAUSA] Ou pause o vídeo e pratique no seu ritmo."],
+         "[PAUSA] Pratique junto, no ritmo da tela."],
         "Próximo: o Cultivo do Eixo desta quinzena.", registro="Como participei",
-        pausa="Pratique junto com o vídeo, ou pause e faça no seu ritmo.")
+        pausa="Pratique comigo, no ritmo da tela.")
 
 cultivo(d, "Sustentar o Céu, três vezes, entra no seu Cultivo do Eixo, se quiser.")
 
@@ -819,7 +819,7 @@ d.passo("Prática", "Qual é o meu recurso de bolso?",
          "Escolha um recurso, a dose e o sinal para parar ou trocar.",
          "E, se couber, uma condição a mudar.",
          "",
-         "[PAUSA] Pause o vídeo para escrever."],
+         "[PAUSA] De 30 a 60 segundos em silêncio, com a tela parada, conduzindo. Depois: «Se quiser, anote no Caderno; se não, siga comigo.»"],
         "Próximo: o Cultivo do Eixo desta quinzena.", registro="Meu recurso de bolso")
 
 cultivo(d, "Escolha, a cada dia, o recurso de retorno que vai levar: ele é a última parte do Cultivo do Eixo deste módulo.")

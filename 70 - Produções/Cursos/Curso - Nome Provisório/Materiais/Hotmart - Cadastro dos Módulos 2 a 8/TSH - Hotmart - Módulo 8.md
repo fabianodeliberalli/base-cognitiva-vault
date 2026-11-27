@@ -21,6 +21,8 @@ O texto recuado é para copiar e colar como está. O resto são orientações de
 > Você retoma a pergunta com que entrou no curso e reconhece o que aprendeu, o que já está acessível e o que ainda está em cultivo. Monta um repertório pessoal de práticas e escolhe como continuar o estudo e o cultivo, com os apoios de que precisar. Na auto-hipnose, você projeta a nova resposta nas situações que virão.
 >
 > O percurso não termina aqui. Traduzir, ganhar eixo e presença e ocupar o próprio espaço continuam se alimentando.
+>
+> Se tiver pouco tempo nesta quinzena: a aula 8.2 (repertório pessoal e plano de prática) e o encontro final. Nada se perde: o resto continua aqui.
 
 A imagem do mapa acima, com o Módulo 8 destacado, está no pacote em PNG. Se a área de membros aceitar imagem de capa do módulo, ou imagem no corpo da primeira aula, ela pode ir junto.
 

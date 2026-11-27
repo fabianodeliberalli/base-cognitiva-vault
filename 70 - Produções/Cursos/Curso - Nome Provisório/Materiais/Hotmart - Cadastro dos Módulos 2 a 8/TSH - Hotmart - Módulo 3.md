@@ -25,6 +25,8 @@ O texto recuado é para copiar e colar como está. O resto são orientações de
 > O módulo ganhou uma aula prática: a árvore e o Qi Gong agora têm aulas próprias.
 >
 > Para onde segue: com o corpo como apoio, o Módulo 4 olha para as emoções e para os padrões que um dia protegeram.
+>
+> Se tiver pouco tempo nesta quinzena: a aula 3.6 (a postura da árvore), a 3.8 (recursos de retorno) e o Cultivo do Eixo. Nada se perde: o resto continua aqui.
 
 A imagem do mapa acima, com o Módulo 3 destacado, está no pacote em PNG. Se a área de membros aceitar imagem de capa do módulo, ou imagem no corpo da primeira aula, ela pode ir junto.
 
@@ -42,7 +44,7 @@ A imagem do mapa acima, com o Módulo 3 destacado, está no pacote em PNG. Se a 
 
 - **Vídeo:** A gravar. Nome do arquivo sugerido: `TSH_M3_1_Estado_corporal_e_acesso_as_respostas.mp4`
 - **Liberação:** com o módulo, domingo, 13/12/2026
-- **Material complementar:** Apoio do aluno (a produzir)
+- **Material complementar:** Apoio do aluno de uma página (pronto, PDF)
 
 ## 2. Aula 3.2 - Interocepção: perceber e interpretar sinais internos
 
@@ -56,7 +58,7 @@ A imagem do mapa acima, com o Módulo 3 destacado, está no pacote em PNG. Se a 
 
 - **Vídeo:** A gravar. Nome do arquivo sugerido: `TSH_M3_2_Interocepcao_perceber_e_interpretar_sinais_internos.mp4`
 - **Liberação:** com o módulo, domingo, 13/12/2026
-- **Material complementar:** Apoio do aluno (a produzir)
+- **Material complementar:** Apoio do aluno de uma página (pronto, PDF)
 
 ## 3. Aula 3.3 - Como o organismo antecipa necessidades e distribui recursos
 
@@ -70,7 +72,7 @@ A imagem do mapa acima, com o Módulo 3 destacado, está no pacote em PNG. Se a 
 
 - **Vídeo:** A gravar. Nome do arquivo sugerido: `TSH_M3_3_Como_o_organismo_antecipa_necessidades_e_distribui_recursos.mp4`
 - **Liberação:** com o módulo, domingo, 13/12/2026
-- **Material complementar:** Apoio do aluno (a produzir)
+- **Material complementar:** Apoio do aluno de uma página (pronto, PDF)
 
 ## 4. Aula 3.4 - Sistema nervoso autônomo: mobilização, sobrecarga e repouso
 
@@ -84,7 +86,7 @@ A imagem do mapa acima, com o Módulo 3 destacado, está no pacote em PNG. Se a 
 
 - **Vídeo:** A gravar. Nome do arquivo sugerido: `TSH_M3_4_Sistema_nervoso_autonomo_mobilizacao_sobrecarga_e_repouso.mp4`
 - **Liberação:** com o módulo, domingo, 13/12/2026
-- **Material complementar:** Apoio do aluno (a produzir)
+- **Material complementar:** Apoio do aluno de uma página (pronto, PDF)
 
 ## 5. Aula 3.5 - Qi, Jing e Shen: vitalidade e cultivo na Medicina Chinesa
 
@@ -98,7 +100,7 @@ A imagem do mapa acima, com o Módulo 3 destacado, está no pacote em PNG. Se a 
 
 - **Vídeo:** A gravar. Nome do arquivo sugerido: `TSH_M3_5_Qi_Jing_e_Shen_vitalidade_e_cultivo_na_Medicina_Chinesa.mp4`
 - **Liberação:** com o módulo, domingo, 13/12/2026
-- **Material complementar:** Apoio do aluno (a produzir)
+- **Material complementar:** Apoio do aluno de uma página (pronto, PDF)
 
 ## 6. Aula 3.6 - Zhan Zhuang: aprender a postura da árvore
 
@@ -112,7 +114,7 @@ A imagem do mapa acima, com o Módulo 3 destacado, está no pacote em PNG. Se a 
 
 - **Vídeo:** A gravar. Nome do arquivo sugerido: `TSH_M3_6_Zhan_Zhuang_aprender_a_postura_da_arvore.mp4`
 - **Liberação:** com o módulo, domingo, 13/12/2026
-- **Material complementar:** Apoio do aluno (a produzir)
+- **Material complementar:** Apoio do aluno de uma página (pronto, PDF)
 
 ## 7. Aula 3.7 - Qi Gong: postura, movimento, respiração e intenção
 
@@ -126,7 +128,7 @@ A imagem do mapa acima, com o Módulo 3 destacado, está no pacote em PNG. Se a 
 
 - **Vídeo:** A gravar. Nome do arquivo sugerido: `TSH_M3_7_Qi_Gong_postura_movimento_respiracao_e_intencao.mp4`
 - **Liberação:** com o módulo, domingo, 13/12/2026
-- **Material complementar:** Apoio do aluno (a produzir)
+- **Material complementar:** Apoio do aluno de uma página (pronto, PDF)
 
 ## 8. Aula 3.8 - Retorno à orientação: escolher e adaptar recursos
 
@@ -140,7 +142,7 @@ A imagem do mapa acima, com o Módulo 3 destacado, está no pacote em PNG. Se a 
 
 - **Vídeo:** A gravar. Nome do arquivo sugerido: `TSH_M3_8_Retorno_a_orientacao_escolher_e_adaptar_recursos.mp4`
 - **Liberação:** com o módulo, domingo, 13/12/2026
-- **Material complementar:** Apoio do aluno (a produzir)
+- **Material complementar:** Apoio do aluno de uma página (pronto, PDF)
 
 # 4. Antes de publicar
 

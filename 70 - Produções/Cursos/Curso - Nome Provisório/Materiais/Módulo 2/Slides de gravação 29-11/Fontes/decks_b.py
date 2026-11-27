@@ -2,7 +2,7 @@ from base import *
 
 OUT = "/home/claude/out/slides"
 os.makedirs(OUT, exist_ok=True)
-PAUSA = "Pause o vídeo para perceber e registrar."
+PAUSA = "Faça comigo agora. Anotar é opcional."
 
 # =====================================================================
 # M2.2 PRÁTICA
@@ -67,8 +67,8 @@ d.passo("A situação escolhida", "Qual situação você quer compreender?",
          "Situe em uma frase o que está acontecendo.",
          "Mantenha essa mesma situação durante a prática.",
          "",
-         "[PAUSA] Pause o vídeo para escolher e registrar."],
-        "Próximo: antes das perguntas.", pausa="Pause o vídeo para escolher.")
+         "[PAUSA] De 30 a 60 segundos em silêncio, com a tela parada, conduzindo. Depois: «Se quiser, anote no Caderno; se não, siga comigo.»"],
+        "Próximo: antes das perguntas.", pausa="Escolha comigo agora.")
 
 d.passo("Antes das perguntas", "Como é estar diante dessa situação?",
         ["Corpo, afeto, imagem, impulso de agir.", "",
@@ -81,7 +81,7 @@ d.passo("Antes das perguntas", "Como é estar diante dessa situação?",
          "Guarde uma expressão breve: palavra, traço ou descrição de um gesto.",
          "Confira se a palavra corresponde ao que percebe.",
          "",
-         "[PAUSA] Registro: Antes das perguntas."],
+         "[PAUSA] De 30 a 60 segundos em silêncio, conduzindo. Quem quiser anota: Antes das perguntas."],
         "Próximo: Resolver.", registro="Antes das perguntas", pausa=PAUSA)
 
 d.passo("Resolver", "O que eu preciso resolver aqui?",
@@ -93,7 +93,7 @@ d.passo("Resolver", "O que eu preciso resolver aqui?",
          "Dê um tempo para perceber o que a pergunta traz.",
          "E como é estar diante disso.",
          "",
-         "[PAUSA] Registro: Resolver."],
+         "[PAUSA] De 30 a 60 segundos em silêncio, conduzindo. Quem quiser anota: Resolver."],
         "Próximo: Possibilidade.", registro="Resolver", pausa=PAUSA)
 
 d.passo("Possibilidade", "Que possibilidade de vida procura expressão aqui?",
@@ -106,7 +106,7 @@ d.passo("Possibilidade", "Que possibilidade de vida procura expressão aqui?",
          "Acompanhe como se sente e se dispõe.",
          "Pode surgir algo diferente, continuar parecido ou ficar sem resposta.",
          "",
-         "[PAUSA] Registro: Possibilidade."],
+         "[PAUSA] De 30 a 60 segundos em silêncio, conduzindo. Quem quiser anota: Possibilidade."],
         "Próximo: comparar.", registro="Possibilidade", pausa=PAUSA)
 
 d.comparar("Comparar e conferir a situação", "Retome os três registros.",
@@ -122,7 +122,7 @@ d.comparar("Comparar e conferir a situação", "Retome os três registros.",
             "Que pessoas, acordos ou condições ainda precisam entrar nessa compreensão?",
             "Guarde o acréscimo ou a informação que falta.",
             "",
-            "[PAUSA] Pause para comparar e conferir."],
+            "[PAUSA] De 30 a 60 segundos em silêncio, com a tela parada, conduzindo. Depois: «Se quiser, anote no Caderno; se não, siga comigo.»"],
            "Próximo: voltar ao eixo.",
            foot="Confira também as pessoas, os acordos e as condições.")
 
@@ -241,8 +241,8 @@ d.passo("A situação escolhida", "O que aconteceu? Quem participava?",
          "Registre o que aconteceu e quem participava.",
          "Mantenha a mesma situação até o fim.",
          "",
-         "[PAUSA] Pause para escolher e situar."],
-        "Próximo: Conclusão antes.", pausa="Pause o vídeo para escolher e situar.")
+         "[PAUSA] De 30 a 60 segundos em silêncio, com a tela parada, conduzindo. Depois: «Se quiser, anote no Caderno; se não, siga comigo.»"],
+        "Próximo: Conclusão antes.", pausa="Escolha e situe comigo agora.")
 
 d.passo("Conclusão antes", "Diante disso, concluí que…",
         ["A leitura que você realmente vem sustentando.", "", "Guarde para comparar depois."],
@@ -250,8 +250,8 @@ d.passo("Conclusão antes", "Diante disso, concluí que…",
         ["Volte à situação e complete: «diante disso, concluí que…»",
          "Escreva a leitura que realmente vem sustentando.",
          "",
-         "[PAUSA] Registro: Conclusão antes."],
-        "Próximo: Vivido antes.", registro="Conclusão antes", pausa="Pause o vídeo para registrar.")
+         "[PAUSA] De 30 a 60 segundos em silêncio, conduzindo. Quem quiser anota: Conclusão antes."],
+        "Próximo: Vivido antes.", registro="Conclusão antes", pausa="Faça comigo agora. Anotar é opcional.")
 
 d.passo("Vivido antes", "Como é viver isso agora?",
         ["Sensações, afetos, imagens, impulsos.", "", "Separado da conclusão."],
@@ -262,7 +262,7 @@ d.passo("Vivido antes", "Como é viver isso agora?",
          "Guarde uma expressão breve: palavra, desenho ou descrição de um gesto.",
          "Mantenha separado da conclusão.",
          "",
-         "[PAUSA] Registro: Vivido antes."],
+         "[PAUSA] De 30 a 60 segundos em silêncio, conduzindo. Quem quiser anota: Vivido antes."],
         "Próximo: as bases da conclusão.", registro="Vivido antes", pausa=PAUSA)
 
 d.cartoes("Bases da conclusão e custo da revisão",
@@ -277,7 +277,7 @@ d.cartoes("Bases da conclusão e custo da revisão",
            "Se essa conclusão precisasse ser revista, o que isso colocaria em jogo?",
            "Reconheça o que precisa de cuidado.",
            "",
-           "[PAUSA] Pause para acompanhar essas questões."],
+           "[PAUSA] De 30 a 60 segundos em silêncio, com a tela parada, conduzindo. Depois: «Se quiser, anote no Caderno; se não, siga comigo.»"],
           "Próximo: voltar ao eixo.", dark_idx=(1,),
           foot="Conserve as bases e a informação que ainda falta.")
 
@@ -308,8 +308,8 @@ d.passo("A informação que falta", "O que preciso descobrir para conferir minha
          "Se puder consultar agora, confira e guarde o que encontrou.",
          "Se depender de outra ocasião, guarde a pergunta e onde buscar a resposta.",
          "",
-         "[PAUSA] Pause para a conferência possível agora."],
-        "Próximo: Conclusão depois.", pausa="Pause o vídeo para formular a pergunta.")
+         "[PAUSA] De 30 a 60 segundos em silêncio, com a tela parada, conduzindo. Depois: «Se quiser, anote no Caderno; se não, siga comigo.»"],
+        "Próximo: Conclusão depois.", pausa="Formule a pergunta comigo agora.")
 
 d.comparar("Conclusão depois", "Compare os dois registros da conclusão.",
            [("CONCLUSÃO ANTES", "O que eu havia concluído", False),
@@ -321,7 +321,7 @@ d.comparar("Conclusão depois", "Compare os dois registros da conclusão.",
             "Registre como «Conclusão depois», com as bases e o que ainda falta conhecer.",
             "A leitura pode mudar, continuar sustentada ou permanecer aberta.",
             "",
-            "[PAUSA] Pause para registrar e comparar."],
+            "[PAUSA] De 30 a 60 segundos em silêncio, com a tela parada, conduzindo. Depois: «Se quiser, anote no Caderno; se não, siga comigo.»"],
            "Próximo: Vivido depois.")
 
 d.comparar("Vivido depois", "Compare os dois registros do vivido.",
@@ -335,7 +335,7 @@ d.comparar("Vivido depois", "Compare os dois registros do vivido.",
             "O que mudou e o que permaneceu?",
             "Essa comparação é separada da comparação das conclusões.",
             "",
-            "[PAUSA] Pause para perceber e registrar."],
+            "[PAUSA] De 30 a 60 segundos em silêncio, com a tela parada, conduzindo. Depois: «Se quiser, anote no Caderno; se não, siga comigo.»"],
            "Próximo: o Cultivo do Eixo desta quinzena.")
 
 d.cartoes("Cultivo do Eixo desta quinzena",

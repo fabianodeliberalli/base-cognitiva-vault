@@ -73,3 +73,7 @@ São de 9 a 10 telas por aula, para 12 a 16 minutos.
 - Editar M2.1 em duas partes, no ponto em que a aula passa da explicação para a exploração.
 - Roteiro do encontro de 12/12, com a versão do Cultivo do Eixo do Módulo 3 e a etapa seguinte da indução.
 - O Word do cadastro do Módulo 3 na Hotmart (não o pacote) ainda traz a descrição antiga de M3.5; o pacote e o texto de consulta estão atualizados.
+
+## Acréscimo de 27/11/2026
+
+O retorno de uma aluna sobre M1 levou a cinco ajustes aprovados por Fabiano, aplicados na mesma PR: [[TSH - Ajustes a partir do retorno de uma aluna sobre o Módulo 1 - 27-11-2026]]. Os seis pontos de aprovação acima continuam abertos.
