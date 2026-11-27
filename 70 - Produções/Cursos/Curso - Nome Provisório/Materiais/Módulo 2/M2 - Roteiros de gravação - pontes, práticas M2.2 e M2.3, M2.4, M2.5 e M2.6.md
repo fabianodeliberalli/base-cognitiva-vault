@@ -14,7 +14,7 @@ Decisões de Fabiano em 25/11: liberar todo o M2 em 29/11; gravar pontes curtas 
 
 **Forma.** Roteiro separado, uma frase por linha, para guiar a fala sem leitura integral. Frases entre aspas são de Fabiano, conferidas na fonte indicada; podem ser ditas como estão. Telas descritas em uma linha. A raiz vem antes dos autores.
 
-**Casos reais.** Antes de gravar, Fabiano confere o consentimento e a anonimização de cada caso. Nos roteiros já foram retirados: profissão, idade, gênero quando não necessário, datas e detalhes de saúde que não servem à aula.
+**Casos reais.** Antes de gravar, Fabiano confere o consentimento e a anonimização de cada caso (consentimento escrito dos casos de M2.4 e M2.6 confirmado por Fabiano em 26/11/2026). Nos roteiros já foram retirados: profissão, idade, gênero quando não necessário, datas e detalhes de saúde que não servem à aula.
 
 ## Ordem do módulo na plataforma
 

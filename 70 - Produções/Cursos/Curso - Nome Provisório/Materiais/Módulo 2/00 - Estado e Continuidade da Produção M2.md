@@ -81,3 +81,5 @@ Slides visuais de apoio, notas em todos os slides e roteiro separado breve, uma 
 - O [estado anterior a esta retomada](https://github.com/fabianodeliberalli/base-cognitiva-vault/blob/333b6fb069f429b199a3b81a6fd6c5d3442edb5e/70%20-%20Produ%C3%A7%C3%B5es/Cursos/Curso%20-%20Nome%20Provis%C3%B3rio/Materiais/M%C3%B3dulo%202/00%20-%20Estado%20e%20Continuidade%20da%20Produ%C3%A7%C3%A3o%20M2.md), com o diagnóstico do ciclo de 24/11 e a revisão histórica dirigida, permanece no Git.
 
 Nenhum material foi apagado ou regravado nesta intervenção. M0 e M1 publicados não foram alterados.
+
+**26/11/2026, 23h13:** consentimento escrito dos casos de M2.4 e M2.6 confirmado por Fabiano.

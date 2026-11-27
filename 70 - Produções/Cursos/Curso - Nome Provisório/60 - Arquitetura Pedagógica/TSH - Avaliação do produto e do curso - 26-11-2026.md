@@ -9,6 +9,8 @@ data: 2026-11-26
 
 Pedido de Fabiano em 26/11/2026: avaliação profunda e sincera do TSH e do curso, como consultoria sênior, quanto a congruência, percurso, coerência, profundidade, promessa e entrega, presenças e faltas, e possibilidades de melhoria. Fontes: Raio X vigente (31/10, com a nota de 22/11), revisão dos nomes das 59 aulas (22/11), dossiê M0–M8, planejamento de 25/11 com a avaliação de M0 e M1, estado de M2 e materiais de produção. Entregue em Word na mesma data. As recomendações são propostas; nenhuma altera decisão vigente sem validação de Fabiano.
 
+**Atualização (26/11/2026, noite):** esta avaliação é a fotografia da manhã. A auditoria das PRs #121 a #130 e a reavaliação com o mesmo pedido, em três tempos, estão em [[TSH - Auditoria das PRs e reavaliação - antes, agora e o que pode ser - 26-11-2026]].
+
 # Em uma página
 
 **Em síntese.** O curso tem uma arquitetura coerente e um diferencial real. Ele junta clínica, corpo, a tradição chinesa e espiritualidade numa sequência que faz sentido. Nenhum concorrente óbvio entrega essa combinação com esse cuidado ético. Desde 24/11, o curso também ganhou espinha: a Essência soterrada por camadas, o eixo como conceito central e o mapa de três direções.

@@ -285,6 +285,8 @@ Perguntar o que a imagem desperta antes de oferecer os sentidos do professor. Pe
 
 ## O buraco de Portia Nelson em M6.8
 
+**Numeração atual (reorganização de 26/11/2026):** a aula de comparar registros ao longo do tempo é agora **M6.7**, "Tradução em espiral: mudanças e permanências". Onde esta seção diz M6.8, leia M6.7; o dossiê já traz o poema em M6.7.
+
 Avaliação de 25/11/2026. O poema de Portia Nelson, *Autobiography in Five Short Chapters* (em *There's a Hole in My Sidewalk*), não foi usado na Masterclass. Entra em M6.8, em paráfrase creditada; não em M2.4.
 
 **Por que M6.8.** O poema é um registro longitudinal: cinco encontros com o mesmo buraco, em que a queda se repete enquanto a percepção muda (não vejo; finjo não ver; vejo e ainda caio; dou a volta; ando por outra rua). É exatamente a operação de M6.8: comparar registros da mesma questão em momentos diferentes e separar o que mudou do que permaneceu. Combina com a prática «comparar reencontros» desta nota.

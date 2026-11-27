@@ -19,7 +19,7 @@ substitui: "Transcrição do Word de 31/10/2026, preservada em Histórico"
 - o Cultivo do Eixo e o Caderno de Reencontros;
 - o calendário quinzenal;
 - a Medicina Chinesa e o Taoísmo como leitura do ser humano, e não só como prática, com os Cinco Shen e as relações entre órgãos e emoções (decisão de Fabiano, 26/11);
-- o arco do percurso em três frases de Fabiano (proposta de 26/11, à espera de Fabiano).
+- o percurso em três frases de Fabiano (integrado por Fabiano em 26/11).
 
 A versão de 31/10 está em `Histórico/2026-10-31 - Raio-X-Fabiano Deliberalli - Texto para consulta.md`, como registro. Para comunicação, página de vendas, Masterclass e materiais, vale este texto.
 
@@ -353,7 +353,7 @@ R$ 997,00 à vista ou 12 × de R$ 97,70. Prevalecem as condições exibidas no c
 - **Eixo:** conceito central do curso, e não uma marca à parte. É a capacidade de voltar, diferenciar e se orientar; perder o eixo não significa perder o percurso.
 - **Presença que sustenta:** presença suficiente para continuar em contato com o que acontece, diferenciar o que está misturado e recuperar orientação antes que o impulso decida sozinho.
 - **Competência incorporada:** quando o que você compreendeu começa a ficar disponível nas situações reais da vida. É ensinada aos poucos e não é usada como headline.
-- **Diferencial:** clínica de mais de 30 anos; a Medicina Chinesa e o Taoísmo como leitura do ser humano, e não só como técnica, a partir da formação de Fabiano com o mestre Liu Chih Ming, da linhagem de Liu Pai Lin, com a prática corporal ensinada passo a passo; auto-hipnose ensinada como habilidade do aluno (formação continuada em hipnose clínica e docência de auto-hipnose desde 2018), espiritualidade com discernimento e casos reais.
+- **Diferencial:** clínica de mais de 30 anos; pós-graduações em Psicologia Transpessoal e em Neurociências e Comportamento (PUCRS), com um modelo próprio, neurobiológico-relacional, da espiritualidade e dos estados ampliados de consciência (proposta de 26/11); a Medicina Chinesa e o Taoísmo como leitura do ser humano, e não só como técnica, a partir da formação de Fabiano com o mestre Liu Chih Ming, da linhagem de Liu Pai Lin, com a prática corporal ensinada passo a passo; auto-hipnose ensinada como habilidade do aluno (formação continuada em hipnose clínica e docência de auto-hipnose desde 2018), espiritualidade com discernimento e casos reais.
 - **Comunicação obrigatória:** não prometer eliminação definitiva de padrões, destravamento instantâneo nem equilíbrio permanente. Falar em auto-hipnose como habilidade que o aluno aprende; sem palco, sem "controle da mente" e sem "reprogramação" como promessa. (a hipnose é recurso do psicólogo capacitado, e o uso sensacionalista é vedado pela resolução do Conselho Federal de Psicologia). A comunicação fala de respostas situadas, leitura mais clara da experiência, retorno ao eixo e desenvolvimento gradual.
 - **Ordem da comunicação:** a dor concreta primeiro; o mapa do percurso responde a "como o curso faz isso".
 
