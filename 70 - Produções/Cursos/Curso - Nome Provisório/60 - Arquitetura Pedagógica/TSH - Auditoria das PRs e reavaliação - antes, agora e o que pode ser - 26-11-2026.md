@@ -36,8 +36,8 @@ O Raio X descreve o produto real: 59 aulas, o mapa, a auto-hipnose, a Medicina C
 
 **Três outros riscos:**
 1. **O sistema de disponibilidade ainda não foi testado com alunos.** A primeira evidência vem no encontro de 12/12, com a pergunta de progresso.
-2. **O repositório continua público,** com casos clínicos anonimizados. E os consentimentos para os casos de M2.4 e M2.6 precisam existir antes da liberação de 29/11.
-3. **A governança chegou ao limite de tamanho:** as duas notas de entrada que as IAs leem primeiro estão cheias. A decisão definitiva sobre os Cinco Shen não pôde entrar na de contexto mínimo.
+2. **O repositório continua público,** com casos clínicos anonimizados; a mudança fica com Fabiano. Os consentimentos escritos dos casos de M2.4 e M2.6 foram confirmados por Fabiano em 26/11/2026.
+3. **A governança estava no limite:** as duas notas de entrada estavam cheias de registros antigos. **Consolidadas em 26/11, 23h:** as duas trazem só o estado atual e as decisões de 26/11, inclusive a dos Cinco Shen; os registros datados foram preservados num registro histórico.
 
 **A auditoria encontrou e corrigiu, nesta PR:**
 - sete pontes do dossiê que ainda apontavam a numeração anterior à reorganização de M4 a M6;
@@ -67,8 +67,8 @@ O Raio X descreve o produto real: 59 aulas, o mapa, a auto-hipnose, a Medicina C
 
 **O que ficou aberto e não se corrige com edição:**
 - **Títulos de M0 e M1 no Raio X.** O Raio X usa os títulos já publicados de M0 e M1; a revisão de 22/11 propõe títulos novos para a próxima turma. Não é erro, mas é uma decisão sua para quando M0 e M1 forem revistos.
-- **Três links quebrados na nota "LEIA PRIMEIRO",** desde 14/11 (Ely Britto, Naranjo, empatia e compaixão). Corrigir passaria do limite de tamanho da nota.
-- **A nota de contexto mínimo passa do limite de tamanho,** e a conferência recusa alterá-la. Por isso a decisão sobre os Cinco Shen está registrada na nota da Medicina Chinesa e na de decisões, e não nela.
+- **Três links quebrados na nota "LEIA PRIMEIRO",** desde 14/11 (Ely Britto, Naranjo, empatia e compaixão). **Resolvido na consolidação:** a nota foi reescrita com os links certos; o texto antigo está preservado no registro histórico, com a indicação dos nomes atuais.
+- **Notas de entrada.** A "LEIA PRIMEIRO" estava a 25 bytes do limite de 12.000 que a conferência impõe, e ainda trazia o calendário antigo (último encontro em 30/01/2027). A de contexto mínimo não tem esse limite na conferência (a afirmação anterior de que ela recusava alterações estava errada), mas estava desatualizada. **Consolidadas em 26/11, 23h:** 6,4 mil e 9,1 mil bytes.
 - **O guia da Masterclass de novembro também está acima do limite e congelado.** As três frases ficaram na nota do próximo lançamento.
 
 ## 2. O mesmo pedido em três tempos
@@ -142,7 +142,7 @@ Cada um responde a uma pergunta diferente, e isso é coerente com M1.4 ("a exper
 
 **Privacidade e consentimento.**
 - O repositório continua público.
-- Os dois casos clínicos de M2.4 e M2.6 precisam de consentimento escrito antes da liberação de 29/11.
+- Os consentimentos escritos dos dois casos de M2.4 e M2.6 foram confirmados por Fabiano em 26/11/2026.
 - A mudança para privado é sua, no GitHub, depois de conectar o GitHub ao ChatGPT para não perder o acesso dele.
 
 **Governança.** As duas notas de entrada estão no limite. Vale uma consolidação curta, que retire delas o que é histórico e deixe só o estado atual e os ponteiros. Sem isso, cada nova decisão sua fica em notas que uma IA só encontra se souber procurar.
@@ -168,8 +168,8 @@ Cada um responde a uma pergunta diferente, e isso é coerente com M1.4 ("a exper
 ## 6. Próximos passos por prazo
 
 **Até 29/11**
-- Consentimento escrito dos casos de M2.4 e M2.6.
-- Repositório privado (sua ação no GitHub).
+- ~~Consentimento escrito dos casos de M2.4 e M2.6~~: confirmado por Fabiano em 26/11.
+- Repositório privado: fica com Fabiano.
 - M2.1 dividida em duas partes na edição.
 - Publicar o cadastro de M2 na Hotmart.
 - No encontro de 28/11: lançar o Cultivo do Eixo e o caderno, e aplicar a pergunta de progresso.
