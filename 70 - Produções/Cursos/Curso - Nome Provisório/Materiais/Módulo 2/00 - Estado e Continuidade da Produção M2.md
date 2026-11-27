@@ -12,6 +12,15 @@ arquitetura_atual: nove módulos e 59 aulas
 
 **Mapa do percurso (Fabiano, 26/11/2026).** Três direções, do texto [[TSH - Padrões e ressonância - texto de Fabiano de 10-11-2026|«Padrões e ressonância»]]: **traduzir** — M1 (fundamentos) e M2 (prática da tradução); **ganhar eixo e presença** — M3 a M6; **ocupar o próprio espaço** — M7 e M8. M0 é a entrada. As direções se alimentam; não são etapas em fila. Toda estruturação, abertura e fecho de módulo situa o aluno nesse mapa com clareza. Em M2: abertura no encontro de 28/11 (bloco A1) e fecho na tela 8 de M2.6.
 
+
+**Decisões de 26/11/2026 para M2:**
+- **Tarefa:** editar M2.1 em duas partes (cerca de 19 minutos cada); na Hotmart, "Aula 2.1 (parte 1)" e "(parte 2)".
+- Texto dos sete níveis da experiência (M2.5) validado por Fabiano.
+- Cultivo do Eixo, Retorno ao Eixo e Caderno de Reencontros adotados; lançamento no encontro de 28/11 (B10 e C0 do roteiro). Guia e caderno em `Materiais/Percurso - Cultivo do Eixo e Caderno de Reencontros/`, anexados na aula do Zhan Zhuang.
+- Apoios do aluno de M2.1 a M2.6 no modelo de uma página, em `Materiais/Módulo 2/Apoios do aluno - uma página/`; o modelo vale para os demais módulos.
+- Calendário quinzenal: encontro de M2 em 12/12/2026.
+- O vídeo do Zhan Zhuang (corte 2) também entra em M0, como "Comece pelo corpo".
+
 ## Ponto atual: retomar M2 pelas raízes autorais (24/11/2026)
 
 Fabiano decidiu que o eixo volta como conceito central do TSH (não marca) e que a Essência soterrada por camadas é fio explícito de M0 a M8. Pediu rever tudo o que foi produzido de M2 e reorganizar o que ainda não foi publicado, mesmo com retrabalho.

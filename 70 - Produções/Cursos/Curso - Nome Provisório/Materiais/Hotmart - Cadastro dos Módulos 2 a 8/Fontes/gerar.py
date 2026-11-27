@@ -54,8 +54,6 @@ for m, d in MOD.items():
            'Materiais complementares anexados nas aulas indicadas.']
     if m != 2:
         chk.append(f'Se houver corte do encontro de {d["enc"]} (abertura ou prática), ele entra antes da primeira aula, como no Módulo 2.')
-    if m == 3:
-        chk.append('Se a liberação for em duas etapas, programar 3.1 a 3.5 para 06/12 e 3.6 a 3.8 para 09/12.')
     L += [f'- [ ] {c}' for c in chk]
     md = '\n'.join(L) + '\n'
     base = f'{OUT}/TSH - Hotmart - Módulo {m}'

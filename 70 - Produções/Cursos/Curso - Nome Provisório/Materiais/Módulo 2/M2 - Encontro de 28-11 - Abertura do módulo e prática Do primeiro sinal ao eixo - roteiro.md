@@ -58,7 +58,7 @@ O segundo ciclo de B foi encurtado de 8 para 5 minutos para caber a árvore.
 | 6 | Combinados: escolha, pausa, olhos abertos ou fechados, intensidade até 4 em 10 | lista curta |
 | 7 | Retorno: 1, 2, 3; data e lugar; corpo; respiração | lista curta |
 | 8 | Do primeiro sinal ao eixo: sinal → baixo ventre → retorno → resposta possível | sequência |
-| 9 | Prática da semana | uma frase |
+| 9 | Cultivo do Eixo desta quinzena: árvore · «o que está me vivendo agora?» · três respirações no baixo ventre; Retorno ao Eixo no momento real; Caderno de Reencontros | lista curta |
 
 ## Bloco A — Abertura do módulo (cerca de 10 min; corte 1)
 
@@ -205,10 +205,15 @@ Conduzir de modo que a gravação funcione sozinha. Nos pontos de pausa: "se voc
 **B10. Fechamento (2 min). Tela 9.**
 
 - Retorno completo; tudo o que foi sugerido no corpo volta ao habitual.
-- Prática da semana: um minuto de árvore por dia; três respirações no baixo ventre e o retorno sempre que perceber que entrou num transe que não escolheu.
-- Pergunta do espelho para a semana: o que mudou desde a última vez?
+- Lançamento, decidido por Fabiano em 26/11/2026: «Até aqui, entendemos. Daqui em diante, praticamos um pouco todos os dias.»
+- **Cultivo do Eixo**, todos os dias, de três a cinco minutos: árvore; a pergunta «o que está me vivendo agora?»; três respirações no baixo ventre. Cada módulo acrescenta um passo.
+- **Retorno ao Eixo**, no momento real: notar o primeiro sinal, sentir os pés, três respirações, «o que está ao meu alcance agora?».
+- **Caderno de Reencontros:** uma vez por quinzena, antes do encontro, registrar um reencontro com o seu padrão. O guia e o caderno estão na Hotmart, na aula do Zhan Zhuang.
+- Pergunta do espelho para a quinzena: o que mudou desde a última vez?
 
 ## Bloco C — Compartilhamento (restante da hora)
+
+**C0. O ponto de partida (5 min), antes do compartilhamento.** Pedir que cada pessoa escreva na capa do Caderno de Reencontros, ou no formulário cujo link vai no chat, as respostas à pergunta de progresso: «Pense numa situação recente em que um padrão seu foi ativado. Quanto do que você já sabe sobre si ficou disponível naquele momento, de 0 a 10? Quanto tempo você levou para perceber e voltar: dias, horas, minutos ou no próprio momento?» Dizer que ninguém precisa mostrar a resposta e que a mesma pergunta volta em M4 e em M8.
 
 Fica fora dos vídeos. Relatos entram na edição só com consentimento expresso, e sem dados que identifiquem.
 
@@ -217,7 +222,7 @@ Fica fora dos vídeos. Relatos entram na edição só com consentimento expresso
 | Corte | Trecho | Onde entra |
 | --- | --- | --- |
 | 1 | Bloco A inteiro | antes de M2.1, como "Abertura do Módulo 2" |
-| 2 | Bloco Z inteiro | depois da abertura, como "O eixo no corpo: Zhan Zhuang" |
+| 2 | Bloco Z inteiro | depois da abertura, como "O eixo no corpo: Zhan Zhuang"; o mesmo vídeo também em M0, como "Comece pelo corpo" (decisão de 26/11/2026) |
 | 3 | Bloco B, de B1 a B10 | depois da teoria de M2.4, como prática da aula |
 
 - Tirar pausas longas de silêncio, mantendo as pausas da prática.

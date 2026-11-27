@@ -7,7 +7,9 @@ origem_registro: pacote-aprovado-da-sessao
 fontes: ["[[Experiências Liminares, Fenomenologia, Tradução e EIXO]]"]
 temas: [método, experiência, epistemologia, integração]
 relacoes: ["[[Tradução da Experiência Humana]]", "[[EIXO Integrador]]"]
-validado_por_fabiano: false
+validado_por_fabiano: true
+validado_em: 2026-11-26
+validacao: "Fabiano validou em 26/11/2026 o texto dos sete níveis usado no slide e nas notas de M2.5"
 protegida: false
 ---
 

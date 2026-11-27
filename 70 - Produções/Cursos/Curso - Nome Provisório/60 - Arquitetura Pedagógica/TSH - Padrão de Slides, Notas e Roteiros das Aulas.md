@@ -36,7 +36,7 @@ Formulado a pedido de Fabiano para fixar a presença do autor em todas as aulas 
 
 **Regra.** Toda aula abre por uma cena real, antes de qualquer conceito: uma vivência de Fabiano ou um caso do Banco Fenomenológico, anonimizado e com consentimento. A cena é concreta (um lugar, o corpo, uma frase dita), curta (até noventa segundos), ligada à distinção da aula e retomada no fecho. Fabiano fala em primeira pessoa do que viu em 30 anos de clínica e de prática corporal ("Na clínica, vejo muitas vezes…"; "Quando comecei a praticar a árvore…"). Quando não houver cena própria, uma história das Grandes Tradições ocupa o lugar, e Fabiano diz por que a escolheu.
 
-**Elementos fixos de cada aula (modelo mínimo):** 1) a cena real; 2) a raiz autoral; 3) uma distinção; 4) uma prática; 5) a pergunta de retorno; 6) a posição no mapa do percurso; 7) a tela "Cultivo do Eixo desta quinzena", com a versão do módulo (nome proposto, a confirmar por Fabiano). De 10 a 14 telas e de 12 a 18 minutos; acima disso, dividir na edição. O apoio do aluno tem uma página: a raiz, a prática e a linha do Caderno de Reencontros. Detalhes em [[TSH - Alinhamentos para a disponibilidade na vida real - 26-11-2026]].
+**Elementos fixos de cada aula (modelo mínimo):** 1) a cena real; 2) a raiz autoral; 3) uma distinção; 4) uma prática; 5) a pergunta de retorno; 6) a posição no mapa do percurso; 7) a tela "Cultivo do Eixo desta quinzena", com a versão do módulo. De 10 a 14 telas e de 12 a 18 minutos; acima disso, dividir na edição. O apoio do aluno tem uma página: a raiz, a prática e a linha do Caderno de Reencontros. Detalhes em [[TSH - Alinhamentos para a disponibilidade na vida real - 26-11-2026]].
 
 ## 3. Recuperação de conteúdo e desenvolvimento dos fundamentos
 

@@ -85,7 +85,9 @@ Para onde segue: com o corpo como apoio, o Módulo 4 olha para as emoções e pa
 Mapa do percurso: Traduzir → Ganhar eixo e presença → Ocupar o próprio espaço\
 Você está em: **Ganhar eixo e presença** — 2 de 4.
 
-Dar expressão ao que você sente antes de explicar. Distinguir emoções com mais precisão e conferir se a palavra escolhida descreve o que foi vivido. Reconhecer padrões como aprendizagem e proteção, não como defeito, e escutar partes internas em conflito. O módulo termina com você ensaiando uma resposta possível numa cena concreta: pedir tempo, negociar, limitar ou buscar ajuda.
+Dar expressão ao que você sente antes de explicar. Distinguir emoções com mais precisão e conferir se a palavra escolhida descreve o que foi vivido. Reconhecer padrões como aprendizagem e proteção, não como defeito, e escutar partes internas em conflito. Na prática, você aprende a linha do Hara, que liga os três centros numa intenção. O módulo termina com você ensaiando uma resposta possível numa cena concreta: pedir tempo, negociar, limitar ou buscar ajuda.
+
+O módulo ganhou uma aula prática: a linha do Hara.
 
 Para onde segue: o Módulo 5 pergunta o que orienta as suas escolhas.
 
@@ -94,7 +96,7 @@ Para onde segue: o Módulo 5 pergunta o que orienta as suas escolhas.
 Mapa do percurso: Traduzir → Ganhar eixo e presença → Ocupar o próprio espaço\
 Você está em: **Ganhar eixo e presença** — 3 de 4.
 
-O que fazer quando muitas vozes aparecem ao mesmo tempo? Valores como bússola, e não como ordem; os Três Eus como mapa de orientação; quietude para criar espaço entre impulso e escolha; símbolos e expressão criativa. A espiritualidade entra como dimensão legítima da experiência, com liberdade de interpretação e critérios de discernimento.
+O módulo começa pelo mapa dos Três Eus e pergunta o que orienta as suas escolhas quando muitas vozes aparecem ao mesmo tempo: valores como bússola, e não como ordem. Depois vêm as linguagens do profundo: quietude, símbolos e expressão criativa. Por fim, a espiritualidade como dimensão legítima da experiência, com uma aula sobre experiências incomuns (como compreendê-las sem negá-las nem se perder nelas) e critérios de discernimento.
 
 O módulo ganhou uma aula prática.
 
@@ -105,9 +107,9 @@ Para onde segue: o Módulo 6 reúne o que foi aprendido até aqui.
 Mapa do percurso: Traduzir → Ganhar eixo e presença → Ocupar o próprio espaço\
 Você está em: **Ganhar eixo e presença** — 4 de 4.
 
-Integrar não é tornar tudo igual. Neste módulo você sustenta ambivalências, monta um mapa funcional de uma situação e aprende três práticas de cultivo da tradição chinesa: a pequena circulação, a linha do Hara e o Chong Mai. Depois compara registros ao longo do tempo para ver o que mudou e o que permaneceu. Termina com um gesto possível nas condições reais da sua vida.
+Integrar não é tornar tudo igual. Neste módulo, reflexão e prática se alternam: você sustenta ambivalências, monta um mapa funcional de uma situação e aprende a pequena circulação e o Chong Mai, o canal central. Depois compara registros ao longo do tempo para ver o que mudou e o que permaneceu. Termina com um gesto possível nas condições reais da sua vida.
 
-O módulo ganhou três aulas práticas.
+O módulo ganhou duas aulas práticas.
 
 Para onde segue: o eixo e a presença cultivados até aqui vão para as relações. O Módulo 7 abre a terceira direção do percurso, ocupar o próprio espaço.
 

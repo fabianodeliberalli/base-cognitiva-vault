@@ -12,6 +12,21 @@ relacionado:
 
 Pedido de Fabiano em 26/11/2026, a partir da avaliação do produto: alinhar o repositório nos pontos que pediam atenção e trazer a melhor solução para o que falta, em ordem de impacto. Os nomes "Cultivo do Eixo", "Retorno ao Eixo" e "Caderno de Reencontros", o calendário quinzenal e a reorganização de M5, M6 e M7 são propostas; nada disso altera decisão vigente sem validação de Fabiano. Rascunhos do caderno e do guia em `Materiais/Percurso - Cultivo do Eixo e Caderno de Reencontros/`.
 
+# Decisões de Fabiano em 26/11/2026, à noite
+
+- **Nomes aceitos:** Cultivo do Eixo, Retorno ao Eixo e Caderno de Reencontros. Material final em `Materiais/Percurso - Cultivo do Eixo e Caderno de Reencontros/`.
+- **Lançamento no encontro de 28/11**, com a pergunta de progresso como ponto de partida (roteiro do encontro, B10 e C0).
+- **Página de segurança:** não é necessária.
+- **Sete níveis da experiência (M2.5):** texto validado.
+- **M2.1:** editar em duas partes (tarefa registrada no estado de M2).
+- **Apoios do aluno:** modelo de uma página, produzido para M2 e adotado para os demais módulos.
+- **Calendário quinzenal** aprovado pela turma (faltam algumas confirmações); M5 em 13/02 e M8 em 03/04. Ver o Raio X vigente.
+- **M5 reorganizado** em três arcos, com a nova M5.8 de experiências incomuns.
+- **Prática gradual e progressiva:** a linha do Hara vai para M4.6, como progressão natural do Zhan Zhuang e dos três Tan Tien; M6 alterna reflexão e prática (pequena circulação em M6.3; Chong Mai em M6.6). Isso substitui a proposta da seção 4.3 de levar o Hara a M7: em M7, o Hara volta como aplicação, sem aula própria. Ver [[TSH - Trilha progressiva de cultivo e Medicina Chinesa no percurso]].
+- **M7:** três versões das práticas, duplas e laboratório no encontro, aprovados.
+- **Experiências incomuns** como fio do percurso: [[TSH - Fio das experiências incomuns no percurso]].
+- **Formulário da pergunta de progresso:** aprovado; implementação na seção 1.5.
+
 # Em uma página
 
 **O que já ficou feito no repositório.** O Raio X vigente foi refeito. Agora traz:
@@ -83,11 +98,11 @@ O aluno escreve o seu plano no caderno: "Quando eu perceber ___ (meu primeiro si
 | Módulo | O que a versão acrescenta | De onde vem |
 | --- | --- | --- |
 | M2 | A forma básica, com a pergunta "o que está me vivendo agora?" | Abertura (Zhan Zhuang), M2.4 |
-| M3 | Escolher o recurso de retorno do dia; atenção aos sinais internos | M3.2, M3.6 a M3.8 |
-| M4 | Nomear a emoção e conferir no corpo se o nome descreve | M4.1 a M4.3 |
-| M5 | Um minuto de quietude e a pergunta "o que o Amor, o Poder e a Sabedoria pedem hoje?" | M5.2, M5.4 |
-| M6 | A pequena circulação, ou o Chong Mai, no lugar da intenção | M6.5, M6.7 |
-| M7 | Hara e intenção antes de uma conversa importante | M6.6 ou M7, conforme a seção 4 |
+| M3 | Respirar nos três centros na árvore e escolher o recurso de retorno do dia | M3.5 a M3.8 |
+| M4 | A linha do Hara para a intenção do dia e o nome da emoção, conferido no corpo | M4.1 a M4.3, M4.6 |
+| M5 | Um minuto de quietude e a pergunta "o que o Amor, o Poder e a Sabedoria pedem hoje?" | M5.3, M5.4 |
+| M6 | A pequena circulação, ou o Chong Mai, no lugar da intenção | M6.3, M6.6 |
+| M7 | Hara e intenção antes de uma conversa importante; ensaio em auto-hipnose, se quiser | M4.6 e M7 |
 | M8 | A versão pessoal, montada pelo aluno com o que funcionou | M8.2 |
 
 **Na produção, a prática não pede aulas novas.** A última tela de cada aula traz "Cultivo do Eixo desta quinzena", com a versão do módulo. Na primeira aula de cada módulo, essa tela é falada em um minuto; nas outras, só aparece. A versão é praticada junto no encontro.
@@ -166,6 +181,23 @@ A auto-hipnose, habilidade que o próprio aluno aprende, liga as partes do siste
 - **Traduzir — reconhecer o transe.** O passo "perceber" do Cultivo do Eixo ("o que está me vivendo agora?") é o reconhecimento do transe que não se escolhe. No caderno, o campo "o primeiro sinal" registra a entrada nesse transe.
 - **Ganhar eixo e presença — o transe escolhido.** Nos encontros, a indução de auto-hipnose aprofunda o mesmo eixo que o Cultivo do Eixo pratica todos os dias. A sequência se repete e se aprofunda de módulo a módulo, como o cultivo corporal.
 - **Ocupar o próprio espaço — ensaio mental e projeção no futuro.** Em M7 e M8, o plano "quando eu perceber…, vou…" é ensaiado em auto-hipnose: o aluno vive por antecipação o primeiro sinal e a nova resposta. Ensaiar a cena antes reforça o plano no momento real, e é aqui que a auto-hipnose serve mais diretamente ao centro da promessa.
+
+**Como implementar o formulário (aprovado em 26/11/2026):**
+
+1. **Criação.** Um único formulário no Google Forms, sem coleta de e-mail. Descrição: "Esta pergunta acompanha o seu percurso no TSH. É voluntária e anônima. As respostas servem para você e para o professor verem o conjunto da turma."
+2. **Campos:**
+   - momento (início / meio / fim);
+   - código pessoal (suas iniciais e o dia do seu aniversário, por exemplo "FD12"), para comparar as três respostas sem identificar ninguém;
+   - item 1 (escala linear de 0 a 10);
+   - item 2 (múltipla escolha: dias, horas, minutos, no próprio momento);
+   - item 3 (parágrafo, opcional);
+   - autorização opcional: "Autorizo usar meu comentário, sem meu nome, em materiais do curso" (sim / não).
+3. **Quando e onde:**
+   - **início:** link no chat do encontro de 28/11 (bloco C0), na descrição da "Abertura do Módulo 2" na Hotmart e no grupo;
+   - **meio:** encontro de M4 (23/01) e descrição de M4.7;
+   - **fim:** descrição de M8.1 e encontro de M8 (03/04).
+4. **Leitura.** As respostas vão para uma planilha do Google. A leitura compara a distribuição do início, do meio e do fim, e informa quantas pessoas responderam.
+5. **Depoimentos.** Só os autorizados. Com nome, só com autorização escrita à parte. Ao divulgar, dizer que é autoavaliação.
 
 # 2. Ritmo de produção e calendário
 

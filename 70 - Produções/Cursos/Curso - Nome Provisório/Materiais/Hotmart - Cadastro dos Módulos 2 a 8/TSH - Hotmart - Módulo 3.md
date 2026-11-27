@@ -5,7 +5,7 @@ subtitle: "O que cadastrar na Hotmart"
 
 ![](Imagens do percurso/Mapa do percurso - Módulo 3.png){width=6.3in}
 
-**Liberação:** Domingo, 06/12/2026 (ou em duas etapas: 06/12 e 09/12). Encontro ao vivo do módulo: 05/12.
+**Liberação:** Domingo, 13/12/2026. Encontro ao vivo do módulo: 09/01/2027.
 
 O texto recuado é para copiar e colar como está. O resto são orientações de cadastro.
 
@@ -41,7 +41,7 @@ A imagem do mapa acima, com o Módulo 3 destacado, está no pacote em PNG. Se a 
 > O corpo muda o que fica acessível. Você relaciona estado corporal, contexto e apoio ao que consegue responder, e reconhece o que muda quando está cansado ou quando está apoiado.
 
 - **Vídeo:** A gravar. Nome do arquivo sugerido: `TSH_M3_1_Estado_corporal_e_acesso_as_respostas.mp4`
-- **Liberação:** com o módulo, domingo, 06/12/2026
+- **Liberação:** com o módulo, domingo, 13/12/2026
 - **Material complementar:** Apoio do aluno (a produzir)
 
 ## 2. Aula 3.2 - Interocepção: perceber e interpretar sinais internos
@@ -55,7 +55,7 @@ A imagem do mapa acima, com o Módulo 3 destacado, está no pacote em PNG. Se a 
 > Perceber sinais internos e distinguir a sensação da interpretação que se faz dela, alternando entre o foco no corpo e as pistas do ambiente.
 
 - **Vídeo:** A gravar. Nome do arquivo sugerido: `TSH_M3_2_Interocepcao_perceber_e_interpretar_sinais_internos.mp4`
-- **Liberação:** com o módulo, domingo, 06/12/2026
+- **Liberação:** com o módulo, domingo, 13/12/2026
 - **Material complementar:** Apoio do aluno (a produzir)
 
 ## 3. Aula 3.3 - Como o organismo antecipa necessidades e distribui recursos
@@ -69,7 +69,7 @@ A imagem do mapa acima, com o Módulo 3 destacado, está no pacote em PNG. Se a 
 > Como o organismo antecipa necessidades e distribui recursos: demandas, descanso e capacidade disponível, e o que muda quando a exigência ou o apoio mudam.
 
 - **Vídeo:** A gravar. Nome do arquivo sugerido: `TSH_M3_3_Como_o_organismo_antecipa_necessidades_e_distribui_recursos.mp4`
-- **Liberação:** com o módulo, domingo, 06/12/2026
+- **Liberação:** com o módulo, domingo, 13/12/2026
 - **Material complementar:** Apoio do aluno (a produzir)
 
 ## 4. Aula 3.4 - Sistema nervoso autônomo: mobilização, sobrecarga e repouso
@@ -83,7 +83,7 @@ A imagem do mapa acima, com o Módulo 3 destacado, está no pacote em PNG. Se a 
 > Mobilização útil, sobrecarga e repouso: mapas do sistema nervoso autônomo, usados com seus limites.
 
 - **Vídeo:** A gravar. Nome do arquivo sugerido: `TSH_M3_4_Sistema_nervoso_autonomo_mobilizacao_sobrecarga_e_repouso.mp4`
-- **Liberação:** com o módulo, domingo, 06/12/2026
+- **Liberação:** com o módulo, domingo, 13/12/2026
 - **Material complementar:** Apoio do aluno (a produzir)
 
 ## 5. Aula 3.5 - Qi, Jing e Shen: vitalidade e cultivo na Medicina Chinesa
@@ -97,7 +97,7 @@ A imagem do mapa acima, com o Módulo 3 destacado, está no pacote em PNG. Se a 
 > Vitalidade, reserva e cultivo na Medicina Chinesa: o que são Qi, Jing e Shen, e a experiência do Sorriso Interior.
 
 - **Vídeo:** A gravar. Nome do arquivo sugerido: `TSH_M3_5_Qi_Jing_e_Shen_vitalidade_e_cultivo_na_Medicina_Chinesa.mp4`
-- **Liberação:** com o módulo, domingo, 06/12/2026
+- **Liberação:** com o módulo, domingo, 13/12/2026
 - **Material complementar:** Apoio do aluno (a produzir)
 
 ## 6. Aula 3.6 - Zhan Zhuang: aprender a postura da árvore
@@ -111,7 +111,7 @@ A imagem do mapa acima, com o Módulo 3 destacado, está no pacote em PNG. Se a 
 > A postura da árvore em detalhe: apoio, soltura, alinhamento, raiz e os três centros. Você encontra uma versão viável para você, em pé, sentado ou apoiado.
 
 - **Vídeo:** A gravar. Nome do arquivo sugerido: `TSH_M3_6_Zhan_Zhuang_aprender_a_postura_da_arvore.mp4`
-- **Liberação:** com o módulo, domingo, 06/12/2026
+- **Liberação:** com o módulo, domingo, 13/12/2026
 - **Material complementar:** Apoio do aluno (a produzir)
 
 ## 7. Aula 3.7 - Qi Gong: postura, movimento, respiração e intenção
@@ -125,7 +125,7 @@ A imagem do mapa acima, com o Módulo 3 destacado, está no pacote em PNG. Se a 
 > A árvore em movimento: Sustentar o Céu e Separar Céu e Terra, com ajustes de amplitude, ritmo e pausa.
 
 - **Vídeo:** A gravar. Nome do arquivo sugerido: `TSH_M3_7_Qi_Gong_postura_movimento_respiracao_e_intencao.mp4`
-- **Liberação:** com o módulo, domingo, 06/12/2026
+- **Liberação:** com o módulo, domingo, 13/12/2026
 - **Material complementar:** Apoio do aluno (a produzir)
 
 ## 8. Aula 3.8 - Retorno à orientação: escolher e adaptar recursos
@@ -139,7 +139,7 @@ A imagem do mapa acima, com o Módulo 3 destacado, está no pacote em PNG. Se a 
 > Escolher, dosar e adaptar um recurso para voltar à orientação, reconhecendo quando interromper, trocar ou buscar apoio.
 
 - **Vídeo:** A gravar. Nome do arquivo sugerido: `TSH_M3_8_Retorno_a_orientacao_escolher_e_adaptar_recursos.mp4`
-- **Liberação:** com o módulo, domingo, 06/12/2026
+- **Liberação:** com o módulo, domingo, 13/12/2026
 - **Material complementar:** Apoio do aluno (a produzir)
 
 # 4. Antes de publicar
@@ -149,5 +149,4 @@ A imagem do mapa acima, com o Módulo 3 destacado, está no pacote em PNG. Se a 
 - [ ] Data de liberação programada em cada aula.
 - [ ] Vídeos conferidos: som, início e fim, sem nomes nem imagens de participantes.
 - [ ] Materiais complementares anexados nas aulas indicadas.
-- [ ] Se houver corte do encontro de 05/12 (abertura ou prática), ele entra antes da primeira aula, como no Módulo 2.
-- [ ] Se a liberação for em duas etapas, programar 3.1 a 3.5 para 06/12 e 3.6 a 3.8 para 09/12.
+- [ ] Se houver corte do encontro de 09/01/2027 (abertura ou prática), ele entra antes da primeira aula, como no Módulo 2.
