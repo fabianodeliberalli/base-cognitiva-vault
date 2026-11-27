@@ -1,7 +1,7 @@
 ---
 tipo: verificacao-de-contribuicoes
 projeto: Traduzindo o Ser Humano
-status: proposta-para-validacao-de-fabiano
+status: decisoes-de-fabiano-aplicadas-26-11-2026
 data: 2026-11-26
 revisao: "2026-11-26, 22h: reavaliação das 37 propostas e leitura das três apresentações autorais"
 pedido: "Fabiano, 26/11/2026: verificação consistente de como e onde a Medicina Chinesa contribui de fato para o TSH; depois, avaliar onde as sugestões seriam de real contribuição e integração com os módulos, e acrescentar os anexos"
@@ -17,9 +17,11 @@ relacionado:
 
 ## Em uma página
 
+**Decisão de Fabiano, 26/11/2026, 22h52 (definitiva).** A Medicina Chinesa e o Taoísmo entram no TSH como leitura do ser humano, e não só como técnica, a partir da formação de Fabiano com o mestre Liu Chih Ming, da linhagem de Liu Pai Lin. Os Cinco Shen voltam ao material e não devem ser retirados de novo. As relações diretas entre órgãos e emoções, próprias da Medicina Chinesa, e as correlações com estruturas do cérebro ficam a critério de Fabiano, que as faz quando quiser. Esta decisão prevalece sobre as passagens desta nota e de notas anteriores que restringiam esses usos.
+
 **O que a primeira verificação encontrou.** O repositório tem mais de 150 mil palavras de Medicina Chinesa e Qi Gong: a sua monografia de 2004, dezenove notas de fundamentação e condução, o acervo da escola de Nogueira Pérez, a fundamentação do caso 007 e uma síntese de pesquisa sobre corpo, eixo e meridianos. Quase nada disso passou para o dossiê das 59 aulas, a não ser a trilha prática e duas frases da monografia. A primeira versão desta nota propôs uma linha em 37 aulas.
 
-**O que a reavaliação mostra.** Muitas daquelas 37 linhas eram correlações válidas, mas não contribuições para a aula. Algumas traziam um segundo vocabulário para algo que a aula já ensina bem, como o Po na interocepção (M3.2). Outras apresentavam um mapa a mais num curso que já tem os Três Eus, as Cinco Janelas, as partes internas e os sete níveis, como os Cinco Shen em M3.5 e as cinco capacidades em M4.5. Outras arriscavam o diagnóstico emoção–órgão que as suas notas proíbem, como os Cinco Movimentos em M4.1–M4.3 e a leitura do caso 007 pelo Rim em M2.4. Uma correlação válida não é, por isso, uma contribuição para a aula.
+**O que a reavaliação mostra.** Muitas daquelas 37 linhas eram correlações válidas, mas não contribuições para a aula. Algumas traziam um segundo vocabulário para algo que a aula já ensina bem, como o Po na interocepção (M3.2). A primeira versão desta revisão também tirava das aulas os Cinco Shen e as relações entre órgãos e emoções; essa retirada foi revertida pela decisão acima, e as linhas voltaram (seção 3).
 
 **Critério desta revisão.** Uma contribuição entra na aula quando cumpre as quatro condições:
 
@@ -31,9 +33,9 @@ relacionado:
 O que é verdadeiro mas não cumpre essas condições fica como fundamentação sua, para você ensinar com segurança, e não vai à tela.
 
 **Resultado.**
-- **Entram nas aulas:** 26 contribuições, uma por aula.
-- **Ficam como fundamentação sua:** 17 das linhas anteriores.
-- **Não se transportam:** 14 identificações das apresentações antigas, listadas na seção 5.
+- **Entram nas aulas:** 26 contribuições da revisão, mais os Cinco Shen e as relações entre órgãos e emoções restaurados por sua decisão (M3.5, M4.1–M4.3, M4.5, M5.2, M5.6).
+- **Ficam como fundamentação sua:** 12 das linhas anteriores.
+- **Procedência a conferir:** 14 afirmações das apresentações antigas, listadas na seção 5, para você escolher como apresentar.
 
 As três apresentações que você enviou mudaram o quadro: trouxeram formulações suas que eu não tinha e que dão à Medicina Chinesa e ao Taoísmo um lugar com sentido no percurso, e não um lugar de enfeite.
 
@@ -110,6 +112,18 @@ Numeração atual (reorganização de 26/11/2026). Uma contribuição por aula. 
 | M8.1 | "Em determinado momento do retorno, somos vividos novamente pelo nosso Eu Superior, Essência. Substituídos no ego, sem sermos destituídos." | Fecha o arco que começou em "somos vividos pelos padrões" | Slide sobre meditadores (formulação sua) |
 | M8.3 | "Somos espírito vestido de matéria"; "não há caminho para as águas, quando já se está imerso até os ombros" | A Essência não se conquista (já é); o eixo é que se cultiva. É a distinção do curso entre Centro e eixo, dita pela tradição | Monografia; Sombra e Luz, tela 9 |
 
+**Restaurado por decisão de Fabiano (26/11/2026, 22h52):**
+
+| Aula | O que entra | Fonte |
+|---|---|---|
+| M3.5 | Os Cinco Shen (Shen, Hun, Po, Yi, Zhi) como leitura do ser humano na Medicina Chinesa, ao lado de Qi, Jing e Shen | Monografia, cap. IV; acervo Nogueira Pérez |
+| M4.1–M4.3 | Os Cinco Movimentos e as relações entre órgãos e emoções (raiva e Fígado, alegria e Coração, preocupação e Baço, tristeza e Pulmão, medo e Rim) como leitura das emoções | Monografia, cap. III; acervo Nogueira Pérez |
+| M4.5 | As cinco capacidades (Hun, Shen, Yi, Po, Zhi) como perguntas ao lado do mapa de partes | Acervo Nogueira Pérez |
+| M5.2 | Yi (reflexão, crivo) e Zhi (determinação) na escolha | Acervo Nogueira Pérez; monografia |
+| M5.6 | A Hun e a criatividade, a decisão e o sentido | Monografia, Hun |
+
+O caso 007 lido pela Medicina Chinesa (medo e Rim, Zhi e decisão) continua disponível para M2.4, quando você quiser usá-lo.
+
 A trilha prática continua como está, e M8.2 usa as formas aprendidas no repertório.
 
 ## 4. O que fica como fundamentação sua, e por quê
@@ -118,27 +132,22 @@ A trilha prática continua como está, e M8.2 usa as formas aprendidas no repert
 |---|---|---|
 | M1.2 | Saber, poder realizar e aplicar | A aula já tem a sua distinção (reconhecer, acessar, desenvolver); a tríade da escola não acrescenta ao aluno |
 | M2.3 | O intérprete e o Wu Wei | O Wu Wei tem lugar melhor em M5.4 |
-| M2.4 | Leitura do caso 007 pelo Rim e pelo Zhi | O caso já está na aula com leitura psicológica; no módulo de traduzir, uma segunda leitura pesa e arrisca o diagnóstico medo–Rim |
+| M2.4 | Leitura do caso 007 pelo Rim e pelo Zhi | O caso já está na aula com leitura psicológica; fica disponível para quando você quiser acrescentar a leitura da Medicina Chinesa |
 | M2.5 | Shen pré e pós-celestial | Correto, mas abstrato para a pergunta da aula |
 | M3.2 | Po e interocepção; Rim–cérebro | Um segundo vocabulário para o que a aula já ensina |
 | M3.4 | Fogo–Água no mapa autonômico | Arrisca a equivalência Qi–sistema nervoso; passa para M6.6, onde é prática |
-| M3.5 | Os Cinco Shen como mapa | Seria um mapa a mais num curso que já tem quatro; os nomes Yi, Zhi, Hun e Po aparecem só onde uma frase sua os usa (M2.6, M4.6, M5.5, M5.8) |
 | M3.8 | Nutrir, conter e dosar; Seis Sons | Os Seis Sons seriam prática fora da trilha gradual; ficam como reserva |
-| M4.1–M4.3 | Os Cinco Movimentos como nuance emocional | Fixa categorias numa aula que ensina a não encerrar a experiência num nome; risco de diagnóstico |
-| M4.5 | As cinco capacidades ao lado das partes | Dois mapas de partes na mesma aula |
 | M5.1 | Personalidade essencial e social | A aula usa o referencial dos Três Eus; um segundo referencial confunde |
-| M5.2 | Yi e Zhi na escolha | O Zhi já está em M4.6 |
 | M5.3 | "Uma enorme defasagem entre o ter e o ser" | Pode entrar como fala sua, mas não muda a aula |
-| M5.6 | Hun e criatividade | Repete M5.5 |
 | M5.7 | Tao e Rei de Jade | Substituída pela sua frase sobre a Essência; a consciência universal já está em M6.2 |
 | M6.5 | Cinco Movimentos: integrar | Substituída por Liu I-Ming em M6.1 |
 | M7.1, M7.6 | Pericárdio | Concentrado em M7.4 |
 
 Também ficam como fundamentação: Shen e Jung, os rios e reservatórios, o mapa Rim–cérebro, os quadros da escola de Nogueira Pérez (bateria do Rim, gênese do Shen, emoções e órgãos), os três Tan Tien como percepção, consciência e observação (Visão Taoísta, tela 52), as figuras de Brennan sobre a sede da alma, e a Oração da Luz de Ouro da linhagem (tela 34), que é sua para usar se quiser, mas não é do aluno.
 
-## 5. O que não se transporta das apresentações antigas
+## 5. Procedência das afirmações das apresentações antigas
 
-As apresentações são de antes do TSH e misturam tradição, interpretação e afirmação biológica. Na aula, apresenta-se o mapa tradicional com sua procedência, e a explicação biológica, quando necessária, terá fonte e alcance próprios.
+As apresentações são de antes do TSH e misturam tradição, interpretação e afirmação biológica. Por decisão sua (26/11/2026), esta lista não veta nenhum uso: as relações entre órgãos e emoções e as correlações com o cérebro ficam a seu critério. Ela registra a procedência de cada afirmação, para que você escolha como apresentá-la.
 
 - **Datas da tradição como história.** "Huang Di Nei Jing descoberto há 4.800 anos" e "6.900 anos de transmissão" (Visão Taoísta, tela 3). O Huang Di Nei Jing é um texto compilado na dinastia Han, e o Huang Ting Jing é outro texto; a tela confunde os dois. O Qi Gong como "única forma de obter longevidade" (tela 5) é afirmação da tradição.
 - **A origem persa e hermética da Flor de Ouro** (tela 12) aparece sem fonte.
@@ -146,7 +155,7 @@ As apresentações são de antes do TSH e misturam tradição, interpretação e
 - **O Xin Bao como timo, amígdala ou eixo do estresse** (Visão Taoísta, telas 43–44; Além das Fronteiras, tela 16). A involução do timo não decorre de reter a expressão afetiva.
 - **Pontos tradicionais como hipotálamo, pineal e hipófise** (Visão Taoísta, telas 47–49).
 - **O Rim que nutre o cérebro como córtex pré-frontal**, e a frase "estresse = depressão" (Além das Fronteiras, tela 17). O conteúdo sobre estresse pode ser ensinado em M3.3 ou M3.4 com fonte atual, sem a equivalência.
-- **Afirmações de Liu Pai Lin sobre os olhos, a hipófise e a menstruação**, e a prática com o sol nascente (Além das Fronteiras, telas 34–35). Não entram. Se um dia entrar uma prática de recolher com o olhar (copas de árvores, nascente), nunca se olha o sol diretamente.
+- **Afirmações de Liu Pai Lin sobre os olhos, a hipófise e a menstruação**, e a prática com o sol nascente (Além das Fronteiras, telas 34–35). Se um dia entrar uma prática de recolher com o olhar (copas de árvores, nascente), nunca se olha o sol diretamente.
 - **Medidas e causalidades de Brennan:** o Hara com um centímetro de largura e até o centro da Terra; doenças "causadas por objetivos obscuros" (Visão Taoísta, telas 39 e 45).
 - **Hawkins**, "reprograma a pessoa" e níveis de frequência (tela 21). Entra só como contraste para "intensidade não é integração".
 - **O chakra cardíaco que "para a roda de samsara"** (tela 19). Aproveita-se a observação sobre ressonância, sem a afirmação doutrinária.
@@ -155,7 +164,7 @@ As apresentações são de antes do TSH e misturam tradição, interpretação e
 - **O viroma que "manipula nosso comportamento"** (Visão Taoísta, tela 61). Afirmação forte demais; fica em reserva.
 - **Cosmogonia** (Sombra e Luz, tela 14). Fora do escopo.
 
-Ficam valendo os cuidados anteriores: os Cinco Shen não equivalem aos Três Eus nem às Cinco Janelas; os Cinco Movimentos não diagnosticam; o Qi não é o nervo vago; a reserva herdada não é saldo de vida; o Wu Wei não é abandono de escolha; o caso P. pede consentimento escrito antes de ser gravado, como os demais.
+Ficam valendo os cuidados anteriores: os Cinco Shen não equivalem aos Três Eus nem às Cinco Janelas (são leituras diferentes, lado a lado); o Qi não é o nervo vago; a reserva herdada não é saldo de vida; o Wu Wei não é abandono de escolha; o caso P. pede consentimento escrito antes de ser gravado, como os demais.
 
 ## 6. As três apresentações: leitura e destinos
 
@@ -183,11 +192,11 @@ Os quadros da escola de Nogueira Pérez (telas 19–27) e o relógio circadiano 
 - o caminho sem caminho (M8.3);
 - os dois slides sobre a sombra (M4.4, M4.7, M5.9 e M8.1).
 
-A tela 2 (Fogo e Água, energia sexual) toca num tema que o TSH ainda não trata, a sexualidade. Fica em reserva até você decidir se ela entra, e onde.
+A tela 2 (Fogo e Água, energia sexual) toca num tema que o TSH ainda não trata, a sexualidade. A proposta de onde ela entra está em [[TSH - Sexualidade no percurso - proposta 26-11-2026]].
 
 ## 7. Como aplicar sem aumentar o trabalho
 
-- **No dossiê:** a linha "Medicina Chinesa e Taoísmo (revisada, 26/11/2026)" nas 26 aulas da seção 3; as linhas das aulas da seção 4 foram retiradas.
+- **No dossiê:** a linha "Medicina Chinesa e Taoísmo (revisada, 26/11/2026)" nas 26 aulas da seção 3, e a linha "Medicina Chinesa (restaurada por decisão de Fabiano, 26/11/2026)" em M3.5, M4.1, M4.2, M4.3, M4.5, M5.2 e M5.6.
 - **Na produção:** uma frase, imagem ou pergunta por aula, nunca um bloco novo.
-- **No Raio X, se você aprovar:** no diferencial, "a Medicina Chinesa e o Taoísmo como mapa do ser humano, e não só como prática".
+- **No Raio X (decisão de 26/11):** no diferencial, "a Medicina Chinesa e o Taoísmo como leitura do ser humano, e não só como técnica, a partir da formação de Fabiano com o mestre Liu Chih Ming, da linhagem de Liu Pai Lin"; no benefício 7, os Cinco Shen e as relações entre órgãos e emoções.
 - **Também para você decidir:** se o arco das três frases ("somos vividos pelos padrões" → "se não estamos presentes, alguém ou alguma coisa está" → "somos vividos novamente pela Essência") entra no Raio X ou na Masterclass. A citação de Wilber sobre meditadores responde à pergunta do seu público: por que quem medita também repete.

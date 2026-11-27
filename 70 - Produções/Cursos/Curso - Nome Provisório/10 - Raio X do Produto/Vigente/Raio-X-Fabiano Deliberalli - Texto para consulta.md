@@ -17,7 +17,9 @@ substitui: "Transcrição do Word de 31/10/2026, preservada em Histórico"
 - a auto-hipnose como habilidade que o aluno aprende, nas três direções do mapa;
 - a reorganização de M4, M5 e M6, com a progressão das práticas e a nova aula de experiências incomuns (M5.8);
 - o Cultivo do Eixo e o Caderno de Reencontros;
-- o calendário quinzenal.
+- o calendário quinzenal;
+- a Medicina Chinesa e o Taoísmo como leitura do ser humano, e não só como prática, com os Cinco Shen e as relações entre órgãos e emoções (decisão de Fabiano, 26/11);
+- o arco do percurso em três frases de Fabiano (proposta de 26/11, à espera de Fabiano).
 
 A versão de 31/10 está em `Histórico/2026-10-31 - Raio-X-Fabiano Deliberalli - Texto para consulta.md`, como registro. Para comunicação, página de vendas, Masterclass e materiais, vale este texto.
 
@@ -40,6 +42,13 @@ O Módulo 0 é a entrada. As três direções se alimentam.
 - **Ocupar o próprio espaço:** o ensaio mental e a projeção da nova resposta no futuro, em M7 e M8.
 
 **O fio do curso:** a Essência está presente desde o início e vai sendo soterrada por camadas de vivências, defesas e padrões. O eixo é o caminho de volta a ela.
+
+**O percurso em três frases de Fabiano:**
+1. "Somos vividos pelos padrões que carregamos." (Traduzir)
+2. "Se não estamos presentes, alguém ou alguma coisa está. E isso em dado momento é inevitável." (Ganhar eixo e presença)
+3. "Em determinado momento do retorno, somos vividos novamente pelo nosso Eu Superior, Essência. Substituídos no ego, sem sermos destituídos." (Ocupar o próprio espaço)
+
+A terceira frase descreve momentos do retorno, não um estado permanente; na comunicação, ela sempre vem com "em determinado momento".
 
 **Formato de entrega:** formação educacional online em nove módulos e 59 aulas, com prática guiada. Inclui práticas corporais da tradição chinesa ensinadas passo a passo:
 - Zhan Zhuang (a postura da árvore);
@@ -76,7 +85,7 @@ Acesso de um ano pela Hotmart. Não é graduação, especialização, psicoterap
 4. **Perceber cedo quando está saindo do eixo,** pelos primeiros sinais no corpo, nas emoções e nas relações.
 5. **Voltar ao eixo com práticas do corpo:** a postura da árvore (Zhan Zhuang), o Qi Gong, a respiração no baixo ventre e a atenção, em pé, sentado ou apoiado.
 6. **Usar a auto-hipnose a seu favor:** entrar por escolha num estado de atenção concentrada para reconhecer o transe dos padrões, acessar recursos e ensaiar novas respostas.
-7. **Cultivar vitalidade com a Medicina Chinesa:** Qi, Jing e Shen, e as práticas de circulação ensinadas passo a passo.
+7. **Ler o ser humano e cultivar vitalidade com a Medicina Chinesa:** Qi, Jing e Shen; os Cinco Shen e as relações entre órgãos e emoções; e as práticas de circulação ensinadas passo a passo.
 8. **Escolher a partir do que importa,** com os valores, o Mapa dos Três Eus e espaço entre o impulso e a resposta.
 9. **Comunicar, colocar limites e reparar** nas relações reais.
 10. **Seguir depois do curso** com um repertório pessoal de práticas e um plano de cultivo.
@@ -344,8 +353,8 @@ R$ 997,00 à vista ou 12 × de R$ 97,70. Prevalecem as condições exibidas no c
 - **Eixo:** conceito central do curso, e não uma marca à parte. É a capacidade de voltar, diferenciar e se orientar; perder o eixo não significa perder o percurso.
 - **Presença que sustenta:** presença suficiente para continuar em contato com o que acontece, diferenciar o que está misturado e recuperar orientação antes que o impulso decida sozinho.
 - **Competência incorporada:** quando o que você compreendeu começa a ficar disponível nas situações reais da vida. É ensinada aos poucos e não é usada como headline.
-- **Diferencial:** clínica de mais de 30 anos, prática corporal da tradição chinesa ensinada passo a passo, auto-hipnose ensinada como habilidade do aluno (formação continuada em hipnose clínica e docência de auto-hipnose desde 2018), espiritualidade com discernimento e casos reais.
-- **Comunicação obrigatória:** não prometer eliminação definitiva de padrões, destravamento instantâneo nem equilíbrio permanente. Falar em auto-hipnose como habilidade que o aluno aprende; sem palco, sem "controle da mente" e sem "reprogramação" como promessa (a hipnose é recurso do psicólogo capacitado, e o uso sensacionalista é vedado pela resolução do Conselho Federal de Psicologia). A comunicação fala de respostas situadas, leitura mais clara da experiência, retorno ao eixo e desenvolvimento gradual.
+- **Diferencial:** clínica de mais de 30 anos; a Medicina Chinesa e o Taoísmo como leitura do ser humano, e não só como técnica, a partir da formação de Fabiano com o mestre Liu Chih Ming, da linhagem de Liu Pai Lin, com a prática corporal ensinada passo a passo; auto-hipnose ensinada como habilidade do aluno (formação continuada em hipnose clínica e docência de auto-hipnose desde 2018), espiritualidade com discernimento e casos reais.
+- **Comunicação obrigatória:** não prometer eliminação definitiva de padrões, destravamento instantâneo nem equilíbrio permanente. Falar em auto-hipnose como habilidade que o aluno aprende; sem palco, sem "controle da mente" e sem "reprogramação" como promessa. (a hipnose é recurso do psicólogo capacitado, e o uso sensacionalista é vedado pela resolução do Conselho Federal de Psicologia). A comunicação fala de respostas situadas, leitura mais clara da experiência, retorno ao eixo e desenvolvimento gradual.
 - **Ordem da comunicação:** a dor concreta primeiro; o mapa do percurso responde a "como o curso faz isso".
 
 ## Calendário

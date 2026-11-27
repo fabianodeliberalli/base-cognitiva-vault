@@ -182,3 +182,10 @@ Uma prática curta cabe no módulo de boas-vindas, porque mostra desde o início
 - o guia anexado em M1.1.
 
 **Privacidade.** A mudança de visibilidade foi tentada e recusada pelo acesso desta sessão ao GitHub: alterar configurações do repositório não é permitido por aqui. Fabiano faz a mudança no GitHub: no repositório, Settings → General → Danger Zone → Change repository visibility → Make private.
+
+
+# Atualização de 26/11/2026, 22h52
+
+**Medicina Chinesa e Taoísmo (decisão definitiva).** Entram no TSH como leitura do ser humano, e não só como técnica, a partir da formação de Fabiano com o mestre Liu Chih Ming, da linhagem de Liu Pai Lin. Os Cinco Shen voltam ao material (M3.5, M4.5, M5.2, M5.6) e não devem ser retirados de novo. As relações diretas entre órgãos e emoções (M4.1–M4.3) e as correlações com estruturas do cérebro ficam a critério de Fabiano. A regra de comunicação que restringia esses usos foi retirada do Raio X. Motivo, nas palavras dele: a regra anterior tiraria parte da validação da sua monografia de 2004, que relaciona órgãos, emoções e virtudes nos Cinco Movimentos. Ver [[TSH - Medicina Chinesa no TSH - verificação de contribuições e destinos]].
+
+**Sexualidade.** Aprovadas as inserções em M3.5, M4.4, M5.6 e M7.4. Ver [[TSH - Sexualidade no percurso - proposta 26-11-2026]].
