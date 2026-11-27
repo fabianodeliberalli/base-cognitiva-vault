@@ -14,6 +14,8 @@ autoridade_final: Fabiano Deliberalli
 
 **Versão 2 (25/11, noite).** Fabiano decidiu incluir a árvore com o nome Zhan Zhuang, pela continuidade com M0 e M1 e porque ela dá a base para integrar depois Long, Brennan, Medicina Chinesa, Qi Gong e a pequena circulação. Também decidiu liberar todo o M2 em 29/11. A respiração no baixo ventre passa a ser ensinada no fechamento da árvore, para que as práticas de M2.2 e M2.3, assistidas antes de M2.4, já possam usá-la. A versão 1 está no Git.
 
+**Slides e roteiro de bolso (27/11, noite):** `Encontro de 28-11 - slides e roteiro de bolso/`, 22 telas com as notas de condução deste roteiro, e uma página com horários, telas e cortes.
+
 ## Para que serve
 
 A hora de prática do encontro de sábado junta:
@@ -171,7 +173,7 @@ Em pé, se possível. Quem preferir ou precisar faz sentado na borda da cadeira,
 
 ## Bloco B — Prática "Do primeiro sinal ao eixo" (30 a 33 min; corte 3)
 
-Conduzir de modo que a gravação funcione sozinha. Nos pontos de pausa: "se você está assistindo depois, pause aqui o tempo que precisar".
+Conduzir de modo que a gravação funcione sozinha: quem assistir depois faz junto, no ritmo da prática (ajuste de 27/11: sem "pause o vídeo").
 
 **B1. O transe que não se escolhe (3 min).**
 

@@ -7,7 +7,9 @@ H = "../TSH-2-Hotmart/"
 S = [
  ("Hoje, sexta 27/11", "Preparar o encontro de amanhã", [
   ("Enviar a mensagem à turma no grupo", "Texto pronto: copie e cole.", "00-Mensagem-para-a-turma.txt"),
-  ("Ler o roteiro do encontro, começando pelo bloco «Módulo 1 em prática guiada»", "Sete passos, sem escrever, 10 a 12 min.", "01-Sab-28-11-Encontro/Roteiro-encontro-28-11.docx"),
+  ("Imprimir ou deixar aberto o roteiro de bolso", "Uma página: horários, telas e os cortes para marcar.", "01-Sab-28-11-Encontro/Encontro-28-11-roteiro-de-bolso.pdf"),
+  ("Abrir os slides do encontro no modo apresentador", "22 telas; as notas de condução ficam só para você.", "01-Sab-28-11-Encontro/Encontro-28-11-slides.pptx"),
+  ("Se quiser o texto completo: o roteiro do encontro", "O mesmo conteúdo das notas, em documento.", "01-Sab-28-11-Encontro/Roteiro-encontro-28-11.docx"),
   ("Conferir o Zoom: gravação ligada, link no grupo", "A gravação vira quatro vídeos.", None),
   ("Separar um lugar para ficar de pé na segunda hora", "A árvore e a prática de 30 min são de pé.", None),
  ]),
