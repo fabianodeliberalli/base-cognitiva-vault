@@ -86,6 +86,8 @@ Na hora de prática dos encontros, a parte de cultivo pratica a versão da quinz
 | Ren Mai e Du Mai (frente e costas) | M5.4 (preparação) | M6.3 |
 | Chong Mai e grande circulação | M6.6 | M8.2 (opcional) |
 
+**A Medicina Chinesa como mapa, além da prática.** Esta nota trata da trilha prática. As contribuições conceituais (os Cinco Shen, Yin e Yang, os Cinco Movimentos, o Pericárdio, herdado e adquirido, a monografia de 2004 como raiz autoral) estão em [[TSH - Medicina Chinesa no TSH - verificação de contribuições e destinos]].
+
 ## Cuidados que acompanham toda a trilha
 
 - Não exigir "sentir o Qi". A ausência de sensação é legítima.
