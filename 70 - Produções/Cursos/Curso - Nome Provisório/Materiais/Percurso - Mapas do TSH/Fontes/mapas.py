@@ -39,11 +39,11 @@ M = {
    "Que camadas tem esta situação, e que forma ela toma?",
    "Escolha um detalhe da janela que mostrou algo novo e dê a ele uma forma: uma palavra, um desenho, um gesto. Confira se combina com o que você sente.",
    "A experiência sai só da cabeça e ganha um registro que você pode rever depois, para perceber o que mudou."),
- "centro": ("Centro, eixo e estado", "Aula 1.7",
+ "centro": ("Estado, eixo e referência profunda", "Aula 1.7",
    "Distinguir o que oscila do que permanece.",
-   "Quando perco o eixo, o que se perdeu, e o que não se perdeu?",
-   "Nomeie o estado do momento (corpo, emoção). Reconheça que o acesso ao eixo diminuiu. Lembre que o Centro e o percurso continuam. Escolha um recurso de retorno.",
-   "Tira o peso do «voltei à estaca zero». A oscilação vira parte da aprendizagem: perder o eixo não significa perder o percurso."),
+   "Quando perco o eixo, o que mudou, e o que continuou possível?",
+   "Passe pelas quatro entradas: estado (como estou agora?), movimento (para onde a experiência está indo?), referência (o que me ajuda a me orientar?) e participação (o que consigo fazer agora?).",
+   "O pêndulo mostra que o estado oscila; a espiral, que um tema pode voltar sem que você esteja no mesmo ponto. Oscilar não é perder a Essência."),
  "niveis": ("Os sete níveis da experiência", "Aula 2.5",
    "Separar o vivido da interpretação, da explicação e dos efeitos.",
    "O que eu vivi, o que eu entendi, que explicação eu dou, e o que isso produz na minha vida?",
@@ -161,7 +161,7 @@ p1 = f'''<div class="page">{head("Os mapas do Módulo 1", "A experiência é o t
 {foot(rod1, "1/2")}</div>'''
 p2 = f'''<div class="page">{head("Como usar os mapas", "Cinco cuidados simples")}
 {uso_html()}
-<div class="box">Um exemplo. Algo aconteceu e você reagiu como sempre. Primeiro, Centro, eixo e estado: o que oscilou, e o que continua? Depois, se quiser entender, as Cinco Janelas. Se quiser guardar, a Cartografia.</div>
+<div class="box">Um exemplo. Algo aconteceu e você reagiu como sempre. Primeiro, as quatro entradas da aula 1.7: como estou, para onde estou indo, o que me orienta, o que consigo fazer agora? Depois, se quiser entender, as Cinco Janelas. Se quiser guardar, a Cartografia.</div>
 <div style="margin-top:9mm" class="row"><b>Os mapas que virão</b>Ao longo do curso, outros mapas se juntam a estes: os sete níveis da experiência (aula 2.5), os Cinco Shen e os três Tan Tien (Módulo 3), as partes (aula 4.5) e os Três Eus (aula 5.1). Na aula 5.1 você recebe a versão completa desta página.</div>
 <div class="nota">Escrever é opcional. As práticas de cada mapa são guiadas nos vídeos das aulas.<br>Conte no próximo encontro: qual mapa ajudou você, e qual confundiu? A sua resposta vai ajustar estas páginas.</div>
 {foot(rod1, "2/2")}</div>'''
@@ -181,7 +181,7 @@ q1 = f'''<div class="page">{head("Os mapas do TSH", "Nove mapas, nove perguntas.
 </div>
 <div class="box">Os Três Eus, na aula 5.1, reúnem os mapas anteriores numa só leitura: o eixo como a comunicação entre o corpo, a reflexão e a Essência.</div>
 {foot(rod2, "1/5")}</div>'''
-q2 = f'<div class="page">{head("Traduzir", "Mapa do percurso · Cinco Janelas · Cartografia · Centro, eixo e estado")}<div class="grid">{card("percurso")}{card("janelas")}{card("cartografia")}{card("centro")}</div>{foot(rod2, "2/5")}</div>'
+q2 = f'<div class="page">{head("Traduzir", "Mapa do percurso · Cinco Janelas · Cartografia · Estado, eixo e referência")}<div class="grid">{card("percurso")}{card("janelas")}{card("cartografia")}{card("centro")}</div>{foot(rod2, "2/5")}</div>'
 q3 = f'<div class="page">{head("Traduzir e ganhar eixo", "Sete níveis · Cinco Shen · três Tan Tien · partes")}<div class="grid">{card("niveis")}{card("shen")}{card("tantien")}{card("partes")}</div>{foot(rod2, "3/5")}</div>'
 sel = ''.join(f'<tr><td>Se você quer {a}…</td><td>{M[k][0]}</td></tr>' for a, k in SELETOR)
 q4 = f'''<div class="page">{head("Os Três Eus e a escolha do mapa", "Qual mapa usar, conforme a sua pergunta")}
@@ -190,7 +190,7 @@ q4 = f'''<div class="page">{head("Os Três Eus e a escolha do mapa", "Qual mapa 
 {foot(rod2, "4/5")}</div>'''
 q5 = f'''<div class="page">{head("Como usar os mapas", "Cinco cuidados simples")}
 {uso_html()}
-<div class="box">Um exemplo. Uma reação forte, de novo. Centro, eixo e estado: o que oscilou, e o que continua? Os três Tan Tien: onde o corpo pode se apoiar agora? Depois, com calma, as partes: que parte reagiu, e o que ela protegia? Por fim, os Três Eus: o que a Essência pede desta escolha?</div>
+<div class="box">Um exemplo. Uma reação forte, de novo. Estado, eixo e referência: o que mudou, e o que continuou possível? Os três Tan Tien: onde o corpo pode se apoiar agora? Depois, com calma, as partes: que parte reagiu, e o que ela protegia? Por fim, os Três Eus: o que a Essência pede desta escolha?</div>
 <div class="nota">Escrever é opcional. As práticas de cada mapa são guiadas nos vídeos das aulas indicadas.<br>Conte no próximo encontro: qual mapa ajudou você, e qual confundiu? A sua resposta vai ajustar estas páginas.</div>
 {foot(rod2, "5/5")}</div>'''
 render("TSH-Mapas-do-TSH-completo", [q1, q2, q3, q4, q5])
