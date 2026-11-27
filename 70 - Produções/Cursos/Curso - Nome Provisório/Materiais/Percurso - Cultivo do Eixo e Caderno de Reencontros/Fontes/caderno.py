@@ -54,19 +54,19 @@ def progresso(doc, momento):
 
 VERSOES = {
  2: ('Percepção e tradução da experiência', 'A forma básica: árvore, a pergunta «o que está me vivendo agora?» e três respirações no baixo ventre.'),
- 3: ('Corpo, vitalidade e práticas de cultivo', 'Acrescente: escolha o recurso de retorno do dia e note um sinal interno antes e depois da árvore.'),
- 4: ('Emoções, padrões de proteção e novas respostas', 'Acrescente: dê nome à emoção do momento e confira no corpo se o nome descreve o que você sente.'),
+ 3: ('Corpo, vitalidade e práticas de cultivo', 'Acrescente: na árvore, respire passando pelos três centros (baixo ventre, peito, testa) e escolha o recurso de retorno do dia.'),
+ 4: ('Emoções, padrões de proteção e novas respostas', 'Acrescente: a linha do Hara para a intenção do dia (aula 4.6) e dê nome à emoção do momento, conferindo no corpo.'),
  5: ('Valores, criação e espiritualidade', 'Acrescente: um minuto de quietude e a pergunta «o que o Amor, o Poder e a Sabedoria pedem hoje?».'),
- 6: ('Integração da experiência e práticas de cultivo', 'No lugar da intenção: a pequena circulação, ou o Chong Mai, como aprendido no módulo.'),
- 7: ('Comunicação, vínculos, limites e reparação', 'Antes de uma conversa importante: a linha do Hara e a intenção para a conversa.'),
- 8: ('Aprendizagens, autonomia e continuidade', 'Monte a sua versão com o que funcionou e anote-a aqui.'),
+ 6: ('Integração da experiência e práticas de cultivo', 'No lugar da intenção: a pequena circulação (aula 6.3) ou o Chong Mai (aula 6.6), como aprendido no módulo.'),
+ 7: ('Comunicação, vínculos, limites e reparação', 'Antes de uma conversa importante: a linha do Hara e, se quiser, o ensaio da nova resposta em auto-hipnose.'),
+ 8: ('Aprendizagens, autonomia e continuidade', 'Monte a sua versão com o que funcionou e anote-a aqui; projete-a, em auto-hipnose, nas situações que virão.'),
 }
 
 def caderno(path):
     doc = Document(); base(doc)
     p = h(doc, 'Caderno de Reencontros', 30, NOT, 120, 4)
     par(doc, 'Traduzindo o Ser Humano', 14, False, OURO, 30)
-    par(doc, 'Rascunho para revisão de Fabiano — 26/11/2026 · nomes propostos', 9, True, MUTED, 40)
+    par(doc, 'Fabiano Deliberalli', 11, False, MUTED, 40)
     campo(doc, 'Nome', 1); campo(doc, 'Comecei este caderno em', 1)
     quebra(doc)
     h(doc, 'Como usar este caderno', 16)
@@ -121,7 +121,7 @@ def caderno(path):
 def guia(path):
     doc = Document(); base(doc)
     h(doc, 'Cultivo do Eixo', 24, NOT, 0, 2)
-    par(doc, 'Traduzindo o Ser Humano · a prática diária do percurso · rascunho de 26/11/2026', 10, True, OURO, 10)
+    par(doc, 'Traduzindo o Ser Humano · a prática diária do percurso · Fabiano Deliberalli', 10, True, OURO, 10)
     par(doc, '«Ou trabalhamos voluntariamente ou somos vividos pelos padrões que carregamos.» O Cultivo do Eixo é o trabalho voluntário de todos os dias, em poucos minutos, para que o eixo esteja disponível quando o padrão chegar.', 11, True)
     h(doc, 'Todos os dias (três a cinco minutos)', 13, OURO, 8, 4)
     for t in ['Enraizar: um a três minutos de árvore (Zhan Zhuang), em pé, sentado ou apoiado.',
@@ -145,4 +145,5 @@ def guia(path):
     par(doc, 'Pare se houver tontura, dor ou falta de ar. Não force a duração: um minuto por dia vale mais que dez minutos uma vez. Falhar um dia não desfaz nada; retome no dia seguinte. Em sofrimento intenso, procure ajuda profissional (CVV: 188, gratuito, 24 horas).')
     doc.save(path)
 
-caderno(sys.argv[1]); guia(sys.argv[2])
+if __name__ == "__main__":
+    caderno(sys.argv[1]); guia(sys.argv[2])

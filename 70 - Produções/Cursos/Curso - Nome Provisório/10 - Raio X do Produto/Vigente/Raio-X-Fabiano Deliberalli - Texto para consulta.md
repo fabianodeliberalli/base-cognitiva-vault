@@ -14,7 +14,10 @@ substitui: "Transcrição do Word de 31/10/2026, preservada em Histórico"
 - o Qi Gong e a Medicina Chinesa como prática central;
 - o mapa do percurso e os mapas do curso;
 - os benefícios sem ressalvas embutidas, que passam para a seção 4;
-- a auto-hipnose como habilidade que o aluno aprende, nas três direções do mapa.
+- a auto-hipnose como habilidade que o aluno aprende, nas três direções do mapa;
+- a reorganização de M4, M5 e M6, com a progressão das práticas e a nova aula de experiências incomuns (M5.8);
+- o Cultivo do Eixo e o Caderno de Reencontros;
+- o calendário quinzenal.
 
 A versão de 31/10 está em `Histórico/2026-10-31 - Raio-X-Fabiano Deliberalli - Texto para consulta.md`, como registro. Para comunicação, página de vendas, Masterclass e materiais, vale este texto.
 
@@ -44,6 +47,8 @@ O Módulo 0 é a entrada. As três direções se alimentam.
 - pequena circulação, linha do Hara e Chong Mai.
 
 Inclui também a auto-hipnose, ensinada por Fabiano como habilidade do próprio aluno, para usar por escolha o estado de atenção concentrada que, nos padrões, acontece sem escolha.
+
+Entre as aulas, o aluno pratica todos os dias o Cultivo do Eixo, de três a cinco minutos, e registra no Caderno de Reencontros como o que aprendeu aparece na vida.
 
 Acesso de um ano pela Hotmart. Não é graduação, especialização, psicoterapia nem tratamento clínico.
 
@@ -187,15 +192,19 @@ A auto-hipnose entra como prática do transe escolhido, junto com a árvore e o 
 
 **Aula 4.5 — Diálogo com partes internas: o processo 3-2-1.** Foco: escutar partes internas em conflito, com compaixão e retorno.
 
-**Aula 4.6 — Emoções e padrões: ensaiar uma nova resposta.** Foco: ensaiar numa cena concreta pedir tempo, negociar, limitar ou buscar ajuda.
+**Aula 4.6 — Linha do Hara: alinhar intenção e ação.** Foco: a linha que liga os três centros numa intenção, progressão natural do Zhan Zhuang.
+
+**Aula 4.7 — Emoções e padrões: ensaiar uma nova resposta.** Foco: ensaiar numa cena concreta pedir tempo, negociar, limitar ou buscar ajuda, com a intenção alinhada.
 
 ### MÓDULO 5 — Valores, criação e espiritualidade (Ganhar eixo e presença, 3 de 4)
 
-**Aula 5.1 — Escolhas diante de necessidades e impulsos.** Foco: escolher quando muitas vozes aparecem ao mesmo tempo.
+O módulo tem três movimentos: o que orienta a escolha, as linguagens do profundo e a espiritualidade com discernimento.
 
-**Aula 5.2 — Valores na prática: Amor, Poder e Sabedoria.** Foco: os três valores aplicados a uma situação concreta.
+**Aula 5.1 — Os Três Eus: funções e orientação.** Foco: Eu Básico, Eu Médio e Eu Superior como mapa de orientação.
 
-**Aula 5.3 — Os Três Eus: funções e orientação.** Foco: Eu Básico, Eu Médio e Eu Superior como mapa de orientação.
+**Aula 5.2 — Escolhas diante de necessidades e impulsos.** Foco: escolher quando muitas vozes aparecem ao mesmo tempo.
+
+**Aula 5.3 — Valores na prática: Amor, Poder e Sabedoria.** Foco: os três valores aplicados a uma situação concreta.
 
 **Aula 5.4 — Quietude e observação da experiência.** Foco: quietude para criar espaço entre o impulso e a escolha.
 
@@ -205,29 +214,29 @@ A auto-hipnose entra como prática do transe escolhido, junto com a árvore e o 
 
 **Aula 5.7 — Espiritualidade: experiências, tradições e sentidos.** Foco: experiências espirituais, inclusive cotidianas, e as tradições que as nomeiam.
 
-**Aula 5.8 — Self, Essência, Alma, Eu Superior e Fonte: distinções.** Foco: de onde vem cada termo e o sentido de Essência no TSH.
+**Aula 5.8 — Experiências incomuns: acolher, investigar, discernir.** Foco: compreender uma experiência incomum sem confirmá-la nem descartá-la de antemão, distinguindo o vivido, o efeito, a interpretação e a origem, e reconhecer quando procurar cuidado.
 
 **Aula 5.9 — Discernimento espiritual: liberdade, autoridade e efeitos.** Foco: critérios para compreender experiências espirituais e incomuns: liberdade de interpretação, relação com autoridades e efeitos ao longo do tempo.
 
 ### MÓDULO 6 — Integração da experiência e práticas de cultivo (Ganhar eixo e presença, 4 de 4)
 
+O módulo alterna reflexão e prática, e fecha a segunda direção do percurso com o canal central.
+
 **Aula 6.1 — Integrar necessidades e preservar diferenças.** Foco: o que pode coexistir sem tornar tudo igual.
 
 **Aula 6.2 — Corpo, afeto, pensamento e espírito: diferenças e relações.** Foco: uma experiência vista pelas quatro dimensões.
 
-**Aula 6.3 — Ambivalência: conflito, tempo e decisão.** Foco: sustentar ambivalências e encontrar ações possíveis.
+**Aula 6.3 — Pequena circulação: aprender a órbita microcósmica.** Foco: a pequena circulação, ensinada por partes, com alternativa preparatória.
 
-**Aula 6.4 — Mapa de Integração Funcional: recursos, limites e ações.** Foco: recursos, limites, relações e tempo numa situação real.
+**Aula 6.4 — Ambivalência: conflito, tempo e decisão.** Foco: sustentar ambivalências e encontrar ações possíveis.
 
-**Aula 6.5 — Pequena circulação: aprender a órbita microcósmica.** Foco: a pequena circulação, ensinada por partes.
+**Aula 6.5 — Mapa de Integração Funcional: recursos, limites e ações.** Foco: recursos, limites, relações e tempo numa situação real.
 
-**Aula 6.6 — Linha do Hara: alinhar intenção e ação.** Foco: a linha do Hara aplicada ao cotidiano e às relações.
+**Aula 6.6 — Chong Mai e grande circulação: mapas e prática.** Foco: o canal central, o eixo no centro do corpo.
 
-**Aula 6.7 — Chong Mai e grande circulação: mapas e prática.** Foco: o canal central e a grande circulação na prática do curso.
+**Aula 6.7 — Tradução em espiral: mudanças e permanências.** Foco: comparar registros ao longo do tempo e ver o que mudou e o que permaneceu.
 
-**Aula 6.8 — Tradução em espiral: mudanças e permanências.** Foco: comparar registros ao longo do tempo e ver o que mudou e o que permaneceu.
-
-**Aula 6.9 — Escolhas e ações nas condições reais da vida.** Foco: um gesto viável nas condições reais da sua vida.
+**Aula 6.8 — Escolhas e ações nas condições reais da vida.** Foco: um gesto viável nas condições reais da sua vida.
 
 ### MÓDULO 7 — Comunicação, vínculos, limites e reparação (Ocupar o próprio espaço, 1 de 2)
 
@@ -275,9 +284,11 @@ R$ 997,00 à vista ou 12 × de R$ 97,70. Prevalecem as condições exibidas no c
 - o Mapa de Integração Funcional;
 - os mapas de cultivo da Medicina Chinesa (Qi, Jing e Shen; pequena circulação, linha do Hara e Chong Mai).
 
-**Bônus 2. Fichas de prática.** Registros breves, verbais e não verbais, para levar cada prática à vida cotidiana.
+**Bônus 2. Cultivo do Eixo e Caderno de Reencontros.** O guia da prática diária de três a cinco minutos, que ganha uma versão a cada módulo, com o Retorno ao Eixo para o momento real, e o caderno onde o aluno registra, a cada quinzena, um reencontro com o seu padrão.
 
-**Bônus 3. Guia de palavras e conceitos (e-book).** Os termos psicológicos, científicos, tradicionais e espirituais do curso, com suas origens e distinções.
+**Bônus 3. Fichas de prática.** Registros breves, verbais e não verbais, para levar cada prática à vida cotidiana.
+
+**Bônus 4. Guia de palavras e conceitos (e-book).** Os termos psicológicos, científicos, tradicionais e espirituais do curso, com suas origens e distinções, incluindo Self, Essência, Alma, Eu Superior e Fonte.
 
 **Recurso complementar: comunidade da turma.** Espaço de troca, prática e dúvidas entre participantes, com regras de funcionamento informadas no grupo.
 
@@ -339,6 +350,17 @@ R$ 997,00 à vista ou 12 × de R$ 97,70. Prevalecem as condições exibidas no c
 
 ## Calendário
 
-**Calendário de 31/10/2026, em revisão.** Liberação semanal (M2 em 29/11, M3 em 06/12 e assim por diante) e encontros aos sábados, de 05/12/2026 a 30/01/2027, sem encontros em 26/12 e 02/01.
+**Calendário quinzenal, aprovado pela turma em 26/11/2026** (faltam algumas confirmações). Liberação aos domingos; encontros aos sábados, das 9h às 11h.
 
-**Proposta de 26/11/2026, apresentada por Fabiano à turma e a confirmar.** Liberação a cada 15 dias, com o encontro do módulo cerca de duas semanas depois da liberação. As datas propostas estão em [[TSH - Alinhamentos para a disponibilidade na vida real - 26-11-2026]]. Até a confirmação, a liberação de M2 em 29/11 e o encontro de 28/11 seguem como estão.
+| Módulo | Liberação | Encontro |
+|---|---|---|
+| M0 e M1 | já liberados | 28/11/2026 |
+| M2 | 29/11/2026 | 12/12/2026 |
+| M3 | 13/12/2026 | 09/01/2027 (sem encontros em 26/12 e 02/01) |
+| M4 | 10/01/2027 | 23/01/2027 |
+| M5 | 24/01/2027 | 13/02/2027 (06/02 é sábado de Carnaval) |
+| M6 | 14/02/2027 | 27/02/2027 |
+| M7 | 28/02/2027 | 13/03/2027 |
+| M8 | 14/03/2027 | 03/04/2027 (27/03 é Sábado de Aleluia) |
+
+São oito encontros, como antes. O calendário semanal de 31/10/2026 é histórico.

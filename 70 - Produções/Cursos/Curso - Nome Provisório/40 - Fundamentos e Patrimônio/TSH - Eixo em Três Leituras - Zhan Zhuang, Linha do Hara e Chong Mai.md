@@ -9,6 +9,8 @@ aliases:
   - Fio do eixo
 ---
 
+**Ordem progressiva (26/11/2026):** decisão de Fabiano: Zhan Zhuang (M2 e M3.6), linha do Hara em M4.6 (antes M6.6) e Chong Mai em M6.6 (antes M6.7); pequena circulação em M6.3. As tabelas abaixo usam a numeração anterior. Ver [[TSH - Trilha progressiva de cultivo e Medicina Chinesa no percurso]].
+
 **Alcance (25/11/2026):** a decisão de Fabiano de 24/11/2026 substitui a frase abaixo sobre o estatuto do EIXO: o eixo é conceito central e base do TSH (não marca); pêndulo, árvore, espiral e espelho são imagens que ajudam a vê-lo. Ver [[11b - Raízes Autorais do TSH - Folha de Consulta]]. Na organização de 59 aulas, os destinos das três leituras são: Zhan Zhuang em M3.6 (e nomeado no encontro de 28/11); pequena circulação em M6.5; linha do Hara em M6.6; Chong Mai, grande circulação e as três leituras reunidas em M6.7; linha do grupo no encontro de 16/01. A tabela de distribuição abaixo usa uma numeração anterior. Planejamento atual: [[TSH - Planejamento livre das aulas M2-M8 e avaliação de M0-M1 - 25-11-2026]].
 
 ## Integração do percurso após a auditoria — versão de trabalho de 21/11/2026
