@@ -152,3 +152,33 @@ O ChatGPT consegue ler repositórios privados, desde que você conecte a sua con
 Em qualquer caso, antes de gravar os casos de M2.4 e M2.6, é preciso o consentimento escrito das pessoas.
 
 Fontes: [Connecting GitHub to ChatGPT — OpenAI Help Center](https://help.openai.com/en/articles/11145903-connecting-github-to-chatgpt-deep-research); [relato de usuários sobre repositórios privados](https://community.openai.com/t/private-github-repos-not-accessible-in-pro-only-accessible-via-deep-research-codex/1379905).
+
+
+# Atualização de 26/11/2026, 21h40
+
+**Cultivo do Eixo e trilha.** A relação entre a prática diária e a trilha progressiva ficou explícita:
+
+- na nota da trilha, uma tabela liga, módulo a módulo, a prática ensinada, a versão do Cultivo do Eixo e o encontro em que se pratica junto;
+- no guia do Cultivo do Eixo, um parágrafo de abertura e a coluna "prática que o módulo ensina";
+- no caderno, uma linha em "Como usar";
+- no padrão de produção, a tela do Cultivo do Eixo em cada aula;
+- no dossiê, uma linha de Cultivo do Eixo em cada aula que dá origem a uma versão.
+
+O Qi Gong (Sustentar o Céu) entrou na versão de M3. Lacunas do dossiê preenchidas: Jing em M3.3, Qi Ji em M3.6, os movimentos de M3.7 e Shen em M5.4. As notas de Medicina Chinesa e dos oito encontros receberam um aviso de numeração atualizada.
+
+**Nova M0.1 (complementar, não substituta).** A M0.1 atual já traz a sua voz, a sua trajetória, a Essência e a perspectiva multidimensional. A proposta é uma aula nova, logo depois dela, com o que falta, de 6 a 8 minutos: "O percurso e a prática de todos os dias". Ela traz:
+
+- o Caminho da Semente (a Essência e as camadas);
+- o mapa do percurso, com a auto-hipnose;
+- o Cultivo do Eixo, conduzido em um ou dois minutos;
+- o caderno, com a pergunta inicial e a de progresso;
+- as 59 aulas e o calendário.
+
+Uma prática curta cabe no módulo de boas-vindas, porque mostra desde o início que o curso trabalha também pelo corpo. A prática completa vem em seguida, em "Comece pelo corpo" (o vídeo do Zhan Zhuang).
+
+**M1, sem regravar:**
+
+- uma linha na descrição de cada aula ("Antes desta aula, três minutos de Cultivo do Eixo; o vídeo está no Módulo 0 e o guia, em anexo");
+- o guia anexado em M1.1.
+
+**Privacidade.** A mudança de visibilidade foi tentada e recusada pelo acesso desta sessão ao GitHub: alterar configurações do repositório não é permitido por aqui. Fabiano faz a mudança no GitHub: no repositório, Settings → General → Danger Zone → Change repository visibility → Make private.

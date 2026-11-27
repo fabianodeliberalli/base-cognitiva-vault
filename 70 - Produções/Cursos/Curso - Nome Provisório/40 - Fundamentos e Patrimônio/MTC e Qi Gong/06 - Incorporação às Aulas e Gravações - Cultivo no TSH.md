@@ -6,6 +6,8 @@ criado_em: 2026-11-13
 atualizado_em: 2026-11-21
 ---
 
+> **Destinos atualizados em 26/11/2026:** a ordem das práticas e a numeração das aulas estão em [[TSH - Trilha progressiva de cultivo e Medicina Chinesa no percurso]] (linha do Hara em M4.6, pequena circulação em M6.3, Chong Mai em M6.6; Cultivo do Eixo como forma diária de cada etapa). As tabelas desta nota usam a numeração anterior.
+
 ## Eixo em três leituras e órbita em M6.4 — 21/11/2026
 
 Fabiano decidiu tornar o eixo um fio próprio (Zhan Zhuang, linha do Hara, Chong Mai e grande circulação): [[TSH - Eixo em Três Leituras - Zhan Zhuang, Linha do Hara e Chong Mai]]. A pequena circulação passa de M6.5 para M6.4; M6.5 fica com Chong Mai, grande circulação e as três leituras reunidas. O Zhan Zhuang recebe ensino formal em M2.1 (nomear e organizar) e M3.6 (ensino completo), porque M0.2 não o ensinou.
