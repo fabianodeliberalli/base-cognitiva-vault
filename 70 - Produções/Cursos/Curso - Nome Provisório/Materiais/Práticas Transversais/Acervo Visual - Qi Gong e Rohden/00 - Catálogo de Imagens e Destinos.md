@@ -275,3 +275,8 @@ Estado: imagens e vínculos de recuperação disponíveis nesta ramificação. O
 ## Fontes CEMETC das lâminas 19–27 — conferência de 14/11/2026
 
 [[15 - CEMETC - Imagens Correspondências e Materiais para as Aulas]] confronta as lâminas de Além das Fronteiras com o acervo CEMETC: grande circulação (23 direita), Zheng (25), Xin Bao (26 direita), seiva e formação dos Shen (27). Distingue correspondência visual/textual de relação conceitual e localiza as versões nos originais pessoais. Recuperar a fonte junto da figura ao preparar M3/M4/M5/M6. O novo catálogo também oferece propostas de representações autorais, sem declarar novas imagens produzidas ou publicar os originais protegidos.
+
+
+## Referências de professores (27/11/2026)
+
+Regras de uso do livro de Ba Duan Jin de Miguel Martín (só como modelo para imagens próprias) e das fotos do Mestre Liu Pai Lin do livro de Kenichi Shioda (com crédito): [[Referências de professores - Miguel Martín e Kenichi Shioda - uso nas aulas]].

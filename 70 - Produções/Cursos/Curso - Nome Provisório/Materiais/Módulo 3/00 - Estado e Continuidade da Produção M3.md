@@ -66,3 +66,18 @@ Fabiano decidiu revisar e ajustar todo o material de M3 depois. Nada de M3 deve 
 - **[[02 - Mapa Mestre - Pêndulo, Espiral e Percurso]]**: já usado na aula 1.7 publicada. Retomada prevista em M3.4 (o pêndulo de perto), M4.6 e M6.3 a M6.5. Frase aprovada para tela: «Oscilar não é perder a Essência. Reencontrar um tema não apaga o percurso.»
 - **Acupuntura Bioenergética, Tomo I, cap. III — Lei de relatividade Yin-Yang e Yin-Yang e Zang-Fu** (material de formação de Fabiano; PDF não versionado, porque o repositório é público). Contribuições para M3.5: o Um, o Dois e o Três do Tao Te King; o Yin e o Yang como relação, não como coisa («não podemos dizer que algo é Yin ou Yang senão em função de um referencial»); a semente de um no máximo do outro (o meio-dia já traz o germe da noite); oposição que não é parada, mas transformação (Qi Hua); o ser humano como Qi e Xue; os pares Zang-Fu. O que é diagnóstico e tratamento (oito regras, síndromes, princípios terapêuticos) fica como fundamentação de Fabiano, porque o curso é educacional.
 - **Decisão a tomar na revisão:** o mapa de julho traz a regra «não fazer yin = parassimpático; yang = simpático». O livro usa o par simpático/parassimpático como exemplo de antagonismo complementar, sem fixar equivalência, e afirma a relatividade do Yin e do Yang. Uma leitura que concilia os dois: o par autonômico pode ilustrar a complementaridade, sem virar tabela fixa de correspondências. Fabiano decidiu em 26/11 ter liberdade para relações entre órgãos, emoções e correlações; cabe a ele decidir se essa regra do mapa permanece.
+
+## Mapa O Caminho da Semente: onde entra no curso (registro de 27/11)
+
+O mapa funciona como fio que volta ao longo do percurso. A coluna "O que nos afasta do centro" tem uma camada para cada aula, segundo o dossiê dos roteiros:
+
+| Camada | Aula |
+| --- | --- |
+| padrões automáticos | 2.4 |
+| feridas e traumas | 3.1 |
+| desconexão corpo-mente | 3.2 |
+| sobrecarga e caos | 3.4 (provável: a aula trata de sobrecarga; confirmar na revisão) |
+| defesas e máscaras | 4.4 |
+| condicionamentos | 5.2 |
+
+Outros usos: a coluna "O Eixo" em 1.7; o mapa inteiro na aula complementar do M0 e na abertura do M2; a ponte de 2.1. Proposta para a produção depois de 29/11: em cada uma dessas aulas, uma tela com a camada da aula destacada no recorte da coluna, para o aluno reconhecer o mesmo mapa voltando. Cuidado da ficha do mapa: a coluna da direita (regulação a contribuição) não é a sequência dos módulos e não deve ser lida como escada.

@@ -14,6 +14,8 @@ autoridade_final: Fabiano Deliberalli
 
 **Versão 2 (25/11, noite).** Fabiano decidiu incluir a árvore com o nome Zhan Zhuang, pela continuidade com M0 e M1 e porque ela dá a base para integrar depois Long, Brennan, Medicina Chinesa, Qi Gong e a pequena circulação. Também decidiu liberar todo o M2 em 29/11. A respiração no baixo ventre passa a ser ensinada no fechamento da árvore, para que as práticas de M2.2 e M2.3, assistidas antes de M2.4, já possam usá-la. A versão 1 está no Git.
 
+**Slides e roteiro de bolso (27/11, noite):** `Encontro de 28-11 - slides e roteiro de bolso/`, 22 telas com as notas de condução deste roteiro, e uma página com horários, telas e cortes.
+
 ## Para que serve
 
 A hora de prática do encontro de sábado junta:
@@ -171,7 +173,7 @@ Em pé, se possível. Quem preferir ou precisar faz sentado na borda da cadeira,
 
 ## Bloco B — Prática "Do primeiro sinal ao eixo" (30 a 33 min; corte 3)
 
-Conduzir de modo que a gravação funcione sozinha. Nos pontos de pausa: "se você está assistindo depois, pause aqui o tempo que precisar".
+Conduzir de modo que a gravação funcione sozinha: quem assistir depois faz junto, no ritmo da prática (ajuste de 27/11: sem "pause o vídeo").
 
 **B1. O transe que não se escolhe (3 min).**
 
@@ -264,3 +266,15 @@ Fica fora dos vídeos. Relatos entram na edição só com consentimento expresso
 - Os princípios do Zhan Zhuang seguem a nota do eixo em três leituras. A linhagem e a transmissão de Fabiano são ditas por ele, com as palavras dele; o ensino completo é M3.6.
 - Não usar o "poder do dedo".
 - Não contar caso de paciente neste encontro. O relato da infância de Fabiano fica para a teoria de M2.4.
+
+## Avaliação de 27/11, noite (pedido de Fabiano)
+
+- **Telas de separação:** entre os vídeos, não entre os sete passos. Cinco telas escuras só com a marca, como marcadores de edição; entre os passos, uma tela vazia quebraria a vivência e alongaria o vídeo.
+- **Sete passos encadeados:** os apoios de M1 já seguem uma só situação (1.2 e 1.4 pedem "volte à sua situação"; 1.6 parte da janela de 1.5), então a sequência é coerente com eles. O risco real era o aluno achar que precisa sempre fazer os sete juntos. Resposta: na tela de abertura e na descrição da Hotmart, "as mesmas práticas dos apoios de cada aula, agora em sequência, com uma só situação; depois, faça qualquer uma separadamente".
+- **Imagem da árvore:** o acervo não tem imagem da postura. "A Árvore do EIXO" é mapa conceitual, e a lâmina 27 é um quadro de Medicina Chinesa com marca d'água; nenhuma mostra a postura. Decisão: no Zhan Zhuang, a tela aparece só para dar o nome e a sequência; depois Fabiano para de compartilhar, e a gravação mostra o corpo dele, que é a melhor imagem da postura. Sugestão para o guia: uma foto de Fabiano em Wu Chi e na árvore, tirada da gravação.
+
+## Ajustes de 27/11, 21h (pedido de Fabiano)
+
+- **O Caminho da Semente ampliado:** a imagem a que Fabiano se referia é este mapa. A tela das camadas virou duas: o mapa inteiro, na altura total da tela, e a coluna "O que nos afasta do centro" de perto, em duas metades legíveis.
+- **Zhan Zhuang:** entrou uma tela com a foto do Mestre Liu Pai Lin, de frente e de lado, recortada do slide que Fabiano enviou. Fonte confirmada por Fabiano: o mestre posou para o livro de Kenichi Shioda, também professor dele. Crédito na tela. A foto não é versionada no repositório, que é público.
+- **Ba Duan Jin, de Miguel Martín (PDF enviado):** as imagens não podem ser usadas diretamente; Fabiano, que foi aluno do autor, usa o livro como modelo para criar imagens próprias e estilizadas (regras em [[Referências de professores - Miguel Martín e Kenichi Shioda - uso nas aulas]]). O livro proíbe expressamente projetar ou usar qualquer parte em cursos sem autorização escrita do autor; só citação com fonte. O conteúdo serve como fundamentação de Fabiano para M3.7 (Sustentar o Céu é o primeiro dos oito brocados) e para os princípios de prática (relaxado e natural, preciso e flexível, dosar a prática).
