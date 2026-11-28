@@ -248,17 +248,18 @@ d.sequencia("O eixo no corpo: Zhan Zhuang",
 s = d._new()
 d._chrome(s, "Zhan Zhuang: de frente e de lado")
 fh = 4.75; fw = fh * 535 / 385
-# img/zz-fotos.png: recorte da foto enviada por Fabiano em 27/11 (não versionada até ele confirmar a fonte)
+# img/zz-fotos.png: Liu Pai Lin em foto do livro de Kenichi Shioda (recorte do slide de Fabiano; não versionada, por ser imagem de livro publicado)
 pic(s, "img/zz-fotos.png", 0.62, 1.8, h=fh, back=False)
 d.text(s, 0.62 + fw + 0.45, 2.0, 12.7 - (0.62 + fw + 0.45), 3.5,
        "Joelhos soltos\n\nBraços em arco, palmas para o peito\n\nOmbros soltos, cotovelos baixos\n\nTopo da cabeça suspenso",
        size=18, color=NOT, line=1.1)
-d.text(s, 0.62, 6.62, 8.0, 0.35, "Imagem de referência do acervo de Fabiano Deliberalli", size=10, color=MUTED)
+d.text(s, 0.62, 6.62, 8.0, 0.35, "Mestre Liu Pai Lin, em foto do livro de Kenichi Shioda", size=10, color=MUTED)
 d._footer(s)
-d.notes(s, "Zhan Zhuang: de frente e de lado", "MOSTRAR NO Z1 · CONFIRMAR A FONTE",
+d.notes(s, "Zhan Zhuang: de frente e de lado", "MOSTRAR NO Z1 · A LINHAGEM",
         ["Mostre por alguns segundos no Z1, para que todos vejam a postura de frente e de lado. Depois, pare de compartilhar.",
          "",
-         "ANTES DE USAR: esta foto veio do seu slide. Se você não souber de quem é ou de onde vem, pule esta tela: ela fica gravada no vídeo que vai para a Hotmart."],
+         "Conte com as suas palavras quem é: o Mestre Liu Pai Lin, da linhagem em que você se formou, posando para o livro do professor Kenichi Shioda, também seu professor de Qi Gong.",
+         "A linhagem completa e a sua formação são ensinadas em M3.5 e M3.6; aqui basta uma frase."],
         "Próximo: pare de compartilhar e conduza Z2 a Z4.")
 
 marcador("Fim do corte 2 (Zhan Zhuang). Volte a compartilhar a tela. A seguir, o corte 3.", "a prática do primeiro sinal ao eixo")

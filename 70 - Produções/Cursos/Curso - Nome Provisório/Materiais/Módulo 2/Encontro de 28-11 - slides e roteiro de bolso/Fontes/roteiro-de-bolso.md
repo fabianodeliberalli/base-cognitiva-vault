@@ -42,5 +42,5 @@ Anote a hora (ou o tempo da gravação) em que cada corte começa e termina. A e
 - Nas práticas, fale para quem vai assistir depois: sem nomes de participantes, e com instruções que se entendam sem ver o grupo.
 - Escrever é sempre opcional. Pausa é silêncio conduzido, com a tela parada.
 - Nos sete passos, diga no início: são as mesmas práticas dos apoios de cada aula, agora em sequência, com uma só situação.
-- Tela 21 (foto do Zhan Zhuang): use só se souber de onde vem a foto; ela fica no vídeo da Hotmart.
+- Tela 21: o Mestre Liu Pai Lin, em foto do livro de Kenichi Shioda; uma frase sua sobre a linhagem.
 - Se o tempo apertar: encurte as dúvidas, nunca a prática. No bloco do primeiro sinal, o segundo ciclo pode ter 4 minutos.
