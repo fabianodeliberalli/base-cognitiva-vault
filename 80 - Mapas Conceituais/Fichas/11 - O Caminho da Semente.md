@@ -73,3 +73,14 @@ Integração, expressão e contribuição são resultados progressivos possívei
 - As cores da coluna seguem o arco-íris dos chakras, de baixo para cima. Se a associação não for intencional, rever; se for, nomeá-la, já que o curso trabalha os três Tan Tien.
 
 **Perguntas a Fabiano antes da versão 2:** Essência como degrau ou como luz em todo o eixo; nome "Soberania"; Tradução na coluna e em "Como funciona"; ligar o quadro do eixo às Cinco Janelas; cores da coluna; quem gera a imagem nova (se a original foi feita com IA de imagem, como o estilo sugere, preparar o texto exato e o pedido de imagem para Fabiano gerar, e conferir o texto depois).
+
+## Decisões e propostas para a versão 2 — 28/11/2026, 01h
+
+**Decidido por Fabiano:** a Essência deixa de ser degrau e passa a ser a luz do eixo, presente em todo o caminho.
+
+**Propostas avaliadas, aguardando confirmação de Fabiano:**
+1. **"Soberania" → "Autonomia"**, com a descrição "Ocupar o próprio espaço: escolher com consciência, pôr limites sem romper o vínculo." "Autonomia" está no título do Módulo 8; "ocupar o próprio espaço" é a terceira direção do curso, nas palavras de Fabiano. "Soberania" puxa para o registro de autoajuda e pode soar como estar acima dos outros, contrário ao Módulo 7.
+2. **Tradução como movimento 4**, no lugar deixado pela Essência: Regulação, Presença, Observação, **Tradução**, Integração, Autonomia, Expressão, Contribuição. Descrição: "Dar palavra ao que foi vivido, em camadas, numa tradução provisória e revisável." Em "Como funciona": "observadas e traduzidas".
+3. **Quadro do eixo nas Cinco Janelas**, na ordem das janelas: corpo, âncora no corpo; emoção, reconhecer e regular; mente, clareza; relações, vínculos e limites; espiritualidade, alinhamento e direção. "Fronteiras e limites" vira "vínculos e limites" porque o Módulo 7 trata de vínculo, não só de fronteira.
+4. **No alto da árvore,** "Você. Inteiro. No mundo." no lugar de "Expressão", que repetia o movimento 7.
+5. **Cores:** trocar o arco-íris dos chakras por um gradiente da terra à luz dourada. Motivo: as funções dos chakras correspondem a vários movimentos pelo tema, mas não pela posição na coluna (Observação, perto do terceiro olho, está embaixo; Autonomia, perto do plexo solar, está em cima). Colorir por posição criaria correspondências falsas. A aproximação com os chakras e com os três Tan Tien vale como ponte de mapas explícita, numa tela própria (por exemplo em M5.7 ou M6.2), dita como aproximação e não como equivalência, e lembrando que as funções dos chakras como costumam ser ensinadas hoje são uma síntese moderna.
