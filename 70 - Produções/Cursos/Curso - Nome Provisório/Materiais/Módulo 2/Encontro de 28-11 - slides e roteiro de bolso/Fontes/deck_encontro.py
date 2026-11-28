@@ -140,21 +140,27 @@ d.capa("Módulo 2 · Percepção e tradução da experiência",
 
 # Tela: o mapa inteiro, ampliado
 s = d._new()
-mh = 7.1; mw = mh * 1209 / 1814
-pic(s, SEMENTE, (W - mw) / 2, 0.2, h=mh, back=False)
+mh = 7.1; mw = mh * 2048 / 3072
+# img/semente-v2.jpg: cópia de 80 - Mapas Conceituais/Originais/2026-11-28/O-caminho-da-semente-v2.jpg
+pic(s, "img/semente-v2.jpg", (W - mw) / 2, 0.2, h=mh, back=False)
 d.text(s, 0.55, 0.6, 3.4, 0.4, "TRADUZINDO O SER HUMANO", size=10, color=EST, bold=True)
 d.text(s, 0.55, 1.1, 3.5, 1.6, "O Caminho da Semente", size=32, font=SERIF, color=NOT, line=1.0)
 d.text(s, 0.55, 2.9, 3.4, 1.6, "A Essência é o destino. O eixo é o caminho.", size=19, color=EST, italic=True, line=1.15)
 d.text(s, 9.4, 2.4, 3.5, 2.4, "Todos nós nascemos com um potencial único. A vida acontece, e nos afastamos do nosso centro.", size=16, color=NOT, line=1.2)
-d.text(s, 9.4, 6.6, 3.5, 0.5, "Mapa de Fabiano Deliberalli, julho de 2026", size=10, color=MUTED)
+d.text(s, 9.4, 6.6, 3.5, 0.5, "Mapa de Fabiano Deliberalli, versão de novembro de 2026", size=10, color=MUTED)
 d.notes(s, "O Caminho da Semente", "LER O MAPA · 1 MIN 30",
         ["O mapa inteiro, ampliado. Leia de baixo para cima, devagar.",
          "",
          "«Todos nós nascemos com um potencial único. A vida acontece, e nos afastamos do nosso centro. O caminho de volta é lembrar, integrar e expressar quem realmente somos.»",
          "«A Essência é o destino. O eixo é o caminho.»",
          "",
-         "Embaixo, a semente, no caos. No alto, a árvore e a expressão. No meio, o eixo.",
-         "Um cuidado: o desenho parece uma escada, mas o percurso não é linear. Vamos e voltamos, como o pêndulo e a espiral da aula 1.7."],
+         "Embaixo, a semente, no caos. No alto, a árvore: «Você. Inteiro. No mundo.» No meio, o eixo.",
+         "",
+         "Ao longo do eixo, a luz: a Essência acompanha todo o caminho. Não é um degrau a alcançar no fim.",
+         "Os oito movimentos de volta, de baixo para cima: regulação, presença, observação, tradução, integração, liberdade, expressão, contribuição.",
+         "«Não é uma escada: vamos e voltamos», como o pêndulo e a espiral da aula 1.7.",
+         "",
+         "Se alguém perguntar: a Tradução é o que fazemos nos Módulos 1 e 2; a Liberdade é ocupar o próprio espaço sem romper o vínculo."],
         "Próximo: de perto, a coluna das camadas.")
 
 # Tela: a coluna das camadas, de perto
