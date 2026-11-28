@@ -72,4 +72,4 @@ Integração, expressão e contribuição são resultados progressivos possívei
 - "Para quem é": pessoas "frequentemente traumatizadas"; o público do curso é quem já compreendeu muito sobre si e quer ter isso disponível na vida real.
 - As cores da coluna seguem o arco-íris dos chakras, de baixo para cima. Se a associação não for intencional, rever; se for, nomeá-la, já que o curso trabalha os três Tan Tien.
 
-**Perguntas a Fabiano antes da versão 2:** Essência como degrau ou como luz em todo o eixo; nome "Soberania"; Tradução na coluna e em "Como funciona"; ligar o quadro do eixo às Cinco Janelas; cores da coluna; quem gera a imagem nova (a ilustração original foi feita com IA de imagem: preparar o texto exato e o pedido de imagem para Fabiano gerar, e conferir o texto depois).
+**Perguntas a Fabiano antes da versão 2:** Essência como degrau ou como luz em todo o eixo; nome "Soberania"; Tradução na coluna e em "Como funciona"; ligar o quadro do eixo às Cinco Janelas; cores da coluna; quem gera a imagem nova (se a original foi feita com IA de imagem, como o estilo sugere, preparar o texto exato e o pedido de imagem para Fabiano gerar, e conferir o texto depois).
