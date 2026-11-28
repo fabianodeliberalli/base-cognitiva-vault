@@ -84,3 +84,12 @@ Integração, expressão e contribuição são resultados progressivos possívei
 3. **Quadro do eixo nas Cinco Janelas**, na ordem das janelas: corpo, âncora no corpo; emoção, reconhecer e regular; mente, clareza; relações, vínculos e limites; espiritualidade, alinhamento e direção. "Fronteiras e limites" vira "vínculos e limites" porque o Módulo 7 trata de vínculo, não só de fronteira.
 4. **No alto da árvore,** "Você. Inteiro. No mundo." no lugar de "Expressão", que repetia o movimento 7.
 5. **Cores:** trocar o arco-íris dos chakras por um gradiente da terra à luz dourada. Motivo: as funções dos chakras correspondem a vários movimentos pelo tema, mas não pela posição na coluna (Observação, perto do terceiro olho, está embaixo; Autonomia, perto do plexo solar, está em cima). Colorir por posição criaria correspondências falsas. A aproximação com os chakras e com os três Tan Tien vale como ponte de mapas explícita, numa tela própria (por exemplo em M5.7 ou M6.2), dita como aproximação e não como equivalência, e lembrando que as funções dos chakras como costumam ser ensinadas hoje são uma síntese moderna.
+
+## Versão 2 aprovada para uso — 28/11/2026
+
+Decisões de Fabiano: Essência como luz do eixo; **Liberdade** no lugar de Soberania, com a descrição "Ocupar o próprio espaço: escolher com consciência, pôr limites sem romper o vínculo."; Tradução como movimento 4; Cinco Janelas no quadro do eixo; "Você. Inteiro. No mundo." no alto; gradiente da terra ao dourado; demais ajustes propostos incorporados.
+
+- Imagem: [[80 - Mapas Conceituais/Originais/2026-11-28/O-caminho-da-semente-v2.jpg]]
+- Texto exato e pedido de imagem: `Originais/2026-11-28/O-caminho-da-semente-v2 - texto exato e pedido de imagem.md`
+- A versão de julho permanece como registro histórico e segue na gravação da abertura do Módulo 2 (encontro de 28/11), com a ressalva oral de que não é escada.
+- A aproximação com chakras e Tan Tien: [[TSH - Ponte de mapas - movimentos do eixo, chakras e Tan Tien - possibilidades por módulo]].
