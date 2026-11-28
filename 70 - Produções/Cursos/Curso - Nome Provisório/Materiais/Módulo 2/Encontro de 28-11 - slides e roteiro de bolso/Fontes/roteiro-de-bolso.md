@@ -18,11 +18,11 @@ subtitle: "9h às 11h pelo Zoom · uma página para ter ao lado durante o encont
 | 9h00 | 1 | Acolher. Avisar que a primeira parte fica gravada no Módulo 1. | não |
 | 9h03 | 2 a 9 | **Módulo 1 em prática guiada:** sete passos, sem escrever. | **corte 0** |
 | 9h15 | 10 e 11 | Marcador escuro; dúvidas de M0 e M1 (falas opcionais nas notas). | não |
-| 10h00 | 12 a 17 | Marcador; **abertura do Módulo 2:** percurso, Semente, eixo, Mapa do TSH, as seis aulas. | **corte 1** |
-| 10h10 | 18 e 19 | Marcador; **Zhan Zhuang:** a tela só no início; depois **pare de compartilhar** e conduza de pé. | **corte 2** |
-| 10h20 | 20 a 24 | Marcador (volte a compartilhar); **Do primeiro sinal ao eixo** e Cultivo do Eixo. | **corte 3** |
-| 10h52 | 25 e 26 | Marcador; pergunta de progresso, depois compartilhamento livre. | não |
-| 10h58 | 27 | Encerrar. Próximo encontro: 12/12. **Salvar a gravação.** | não |
+| 10h00 | 12 a 18 | Marcador; **abertura do Módulo 2:** percurso, o mapa da Semente ampliado e a coluna das camadas de perto, o eixo, o Mapa do TSH, as seis aulas. | **corte 1** |
+| 10h10 | 19 a 21 | Marcador; **Zhan Zhuang:** nome, sequência e foto de frente e de lado; depois **pare de compartilhar** e conduza de pé. | **corte 2** |
+| 10h20 | 22 a 26 | Marcador (volte a compartilhar); **Do primeiro sinal ao eixo** e Cultivo do Eixo. | **corte 3** |
+| 10h52 | 27 e 28 | Marcador; pergunta de progresso, depois compartilhamento livre. | não |
+| 10h58 | 29 | Encerrar. Próximo encontro: 12/12. **Salvar a gravação.** | não |
 
 As telas escuras só com a marca do TSH são **marcadores de edição**: deixe cada uma 2 ou 3 segundos e avance. Na gravação, elas mostram onde cortar.
 
@@ -42,4 +42,5 @@ Anote a hora (ou o tempo da gravação) em que cada corte começa e termina. A e
 - Nas práticas, fale para quem vai assistir depois: sem nomes de participantes, e com instruções que se entendam sem ver o grupo.
 - Escrever é sempre opcional. Pausa é silêncio conduzido, com a tela parada.
 - Nos sete passos, diga no início: são as mesmas práticas dos apoios de cada aula, agora em sequência, com uma só situação.
+- Tela 21 (foto do Zhan Zhuang): use só se souber de onde vem a foto; ela fica no vídeo da Hotmart.
 - Se o tempo apertar: encurte as dúvidas, nunca a prática. No bloco do primeiro sinal, o segundo ciclo pode ter 4 minutos.

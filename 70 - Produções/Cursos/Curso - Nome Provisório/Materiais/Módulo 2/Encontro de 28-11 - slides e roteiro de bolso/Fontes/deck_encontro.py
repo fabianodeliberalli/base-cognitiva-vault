@@ -138,25 +138,44 @@ d.capa("Módulo 2 · Percepção e tradução da experiência",
         "Traduzir: os fundamentos no Módulo 1 e a prática neste módulo. Ganhar eixo e presença: Módulos 3 a 6. Ocupar o próprio espaço: Módulos 7 e 8. Uma direção alimenta a outra."],
        "Próximo: o mapa O Caminho da Semente.", tag="ABERTURA DO MÓDULO 2")
 
+# Tela: o mapa inteiro, ampliado
 s = d._new()
-d._chrome(s, "As camadas")
-pic(s, SEMENTE, 0.62, 1.8, h=5.0, back=False)
-d.text(s, 4.35, 2.0, 8.2, 1.6, "Todos nós nascemos com um potencial único. A vida acontece, e nos afastamos do nosso centro.",
-       size=24, font=SERIF, color=NOT, line=1.12)
-d.text(s, 4.35, 3.75, 8.0, 0.9, "O caminho de volta é lembrar, integrar e expressar quem realmente somos.", size=19, color=EST, line=1.15)
-rect(s, 4.35, 4.85, 8.15, 1.3, fill=PET, rounded=0.06)
-d.text(s, 4.6, 4.9, 7.7, 1.2, "Ou trabalhamos voluntariamente ou somos vividos pelos padrões que carregamos.",
-       size=18, color="FFFFFF", anchor="ctr", line=1.12, italic=True)
-d.text(s, 4.35, 6.35, 8.0, 0.35, "O Caminho da Semente · mapa de Fabiano Deliberalli, julho de 2026", size=10, color=MUTED)
+mh = 7.1; mw = mh * 1209 / 1814
+pic(s, SEMENTE, (W - mw) / 2, 0.2, h=mh, back=False)
+d.text(s, 0.55, 0.6, 3.4, 0.4, "TRADUZINDO O SER HUMANO", size=10, color=EST, bold=True)
+d.text(s, 0.55, 1.1, 3.5, 1.6, "O Caminho da Semente", size=32, font=SERIF, color=NOT, line=1.0)
+d.text(s, 0.55, 2.9, 3.4, 1.6, "A Essência é o destino. O eixo é o caminho.", size=19, color=EST, italic=True, line=1.15)
+d.text(s, 9.4, 2.4, 3.5, 2.4, "Todos nós nascemos com um potencial único. A vida acontece, e nos afastamos do nosso centro.", size=16, color=NOT, line=1.2)
+d.text(s, 9.4, 6.6, 3.5, 0.5, "Mapa de Fabiano Deliberalli, julho de 2026", size=10, color=MUTED)
+d.notes(s, "O Caminho da Semente", "LER O MAPA · 1 MIN 30",
+        ["O mapa inteiro, ampliado. Leia de baixo para cima, devagar.",
+         "",
+         "«Todos nós nascemos com um potencial único. A vida acontece, e nos afastamos do nosso centro. O caminho de volta é lembrar, integrar e expressar quem realmente somos.»",
+         "«A Essência é o destino. O eixo é o caminho.»",
+         "",
+         "Embaixo, a semente, no caos. No alto, a árvore e a expressão. No meio, o eixo.",
+         "Um cuidado: o desenho parece uma escada, mas o percurso não é linear. Vamos e voltamos, como o pêndulo e a espiral da aula 1.7."],
+        "Próximo: de perto, a coluna das camadas.")
+
+# Tela: a coluna das camadas, de perto
+s = d._new()
+d._chrome(s, "O que nos afasta do centro")
+hh = 4.55; hw = hh * 459 / 451
+x0 = (W - (2 * hw + 0.35)) / 2
+pic(s, "img/semente-camadas-1.png", x0, 1.7, h=hh, back=False)
+pic(s, "img/semente-camadas-2.png", x0 + hw + 0.35, 1.7, h=hh, back=False)
+d.text(s, 0.62, 6.38, 12.0, 0.5, "As camadas também protegeram. Reconhecê-las não é culpar a história. Cada uma volta ao longo do curso.",
+       size=16, color=EST, align="ctr")
 d._footer(s)
-d.notes(s, "As camadas", "LER O MAPA · 3 MIN",
-        ["Ler o mapa: «Todos nós nascemos com um potencial único. A vida acontece, e nos afastamos do nosso centro. O caminho de volta é lembrar, integrar e expressar quem realmente somos.»",
+d.notes(s, "O que nos afasta do centro", "PERCORRER A COLUNA · 2 MIN",
+        ["Percorra a coluna de cima para baixo, uma camada por vez:",
+         "padrões automáticos («Repetimos sem perceber porque aprendemos a sobreviver»);",
+         "feridas e traumas; defesas e máscaras; desconexão corpo-mente; sobrecarga e caos; condicionamentos.",
          "",
-         "Percorrer a coluna «O que nos afasta do centro»: padrões automáticos («Repetimos sem perceber porque aprendemos a sobreviver»), feridas e traumas, defesas e máscaras, desconexão corpo-mente, sobrecarga e caos, condicionamentos.",
-         "",
-         "Com a voz do workshop: a Essência vai ficando soterrada por camadas de vivências, emoções, crenças, imagens, memórias e corpos.",
+         "Com a voz do workshop: «Essa Essência vai ficando soterrada por camadas de vivências, como suas emoções, crenças, imagens, memórias e corpos.»",
          "Retomar 1.1: «Ou trabalhamos voluntariamente ou somos vividos pelos padrões que carregamos.»",
          "As camadas também protegeram; reconhecê-las não é culpar a história.",
+         "«Cada uma delas volta ao longo do curso.»",
          "",
          "Opcional, 45 segundos: o Buda de Ouro de Wat Traimit, em Bangkok. Coberto de gesso, provavelmente para escapar de invasores, e esquecido por séculos. Em 1955, ao ser removido, caiu, o gesso rachou e o ouro apareceu. A camada protegeu; depois escondeu. O ouro não precisou ser fabricado."],
         "Próximo: o eixo como caminho de volta.")
@@ -225,6 +244,22 @@ d.sequencia("O eixo no corpo: Zhan Zhuang",
             "Próximo: marcador; volte a compartilhar a tela.",
             lead="Não há o que alcançar. Há o que perceber.",
             foot="Sentado na borda da cadeira ou com uma mão apoiada, se precisar.")
+
+s = d._new()
+d._chrome(s, "Zhan Zhuang: de frente e de lado")
+fh = 4.75; fw = fh * 535 / 385
+# img/zz-fotos.png: recorte da foto enviada por Fabiano em 27/11 (não versionada até ele confirmar a fonte)
+pic(s, "img/zz-fotos.png", 0.62, 1.8, h=fh, back=False)
+d.text(s, 0.62 + fw + 0.45, 2.0, 12.7 - (0.62 + fw + 0.45), 3.5,
+       "Joelhos soltos\n\nBraços em arco, palmas para o peito\n\nOmbros soltos, cotovelos baixos\n\nTopo da cabeça suspenso",
+       size=18, color=NOT, line=1.1)
+d.text(s, 0.62, 6.62, 8.0, 0.35, "Imagem de referência do acervo de Fabiano Deliberalli", size=10, color=MUTED)
+d._footer(s)
+d.notes(s, "Zhan Zhuang: de frente e de lado", "MOSTRAR NO Z1 · CONFIRMAR A FONTE",
+        ["Mostre por alguns segundos no Z1, para que todos vejam a postura de frente e de lado. Depois, pare de compartilhar.",
+         "",
+         "ANTES DE USAR: esta foto veio do seu slide. Se você não souber de quem é ou de onde vem, pule esta tela: ela fica gravada no vídeo que vai para a Hotmart."],
+        "Próximo: pare de compartilhar e conduza Z2 a Z4.")
 
 marcador("Fim do corte 2 (Zhan Zhuang). Volte a compartilhar a tela. A seguir, o corte 3.", "a prática do primeiro sinal ao eixo")
 
